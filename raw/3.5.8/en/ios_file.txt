@@ -1121,22 +1121,22 @@ Bonus: {SCORE}
 ^ff0000^
 
 [CONTINUE_BUTTON]
-继续
+Fortfahren
 
 [CONTINUE_GAME_HEADER]
-继续游戏？
+Möchtest du das Spiel fortfahren？
 
 [CONTINUE_GAME_OR_RESTART]
-你想继续游戏吗？还是重新开始这一关？
+Möchten Sie das Spiel fortsetzen oder das Level neu starten?
 
 [CONTINUE_ONWARDS_BUTTON]
-继续！
+Fortfahren！
 
 [COPA_PICTURE_WARNING]
 您的照片将只会被保存在这台设备上。
 
 [COST]
-消耗阳光
+Kosten
 
 [COWBOY]
 狂野西部
@@ -1959,7 +1959,7 @@ x {NUMBER}
 有新的游戏内容更新。
 
 [EGYPT]
-神秘埃及
+Altes Ägypten
 
 [EGYPT_CHALLENGE_MINIGAME_A_NAME]
 木乃伊记忆-第1天
@@ -1983,7 +1983,7 @@ x {NUMBER}
 神秘埃及之门
 
 [EGYPT_LEVEL_NAME]
-神秘埃及-第{LEVEL_NUMBER}天
+Altes Ägypten - Tag {LEVEL_NUMBER}
 
 [EGYPT_FINAL_LEVEL]
 神秘埃及-终极挑战
@@ -2013,7 +2013,7 @@ x {NUMBER}
 您输入的用户名已被使用，请输入一个新的用户名。
 
 [ENTER_YOUR_NAME]
-输入您的用户名
+Trage deinen Namen ein
 
 
 [EXIT_DANGER_ROOM_BODY]
@@ -2084,7 +2084,7 @@ FACEBOOK
 游戏结束
 
 [GAME_PAUSED]
-游戏暂停
+Spiel pausiert
 
 [GATE_COST]
 你需要
@@ -2093,13 +2093,13 @@ FACEBOOK
 {NUM_COST}来解锁！
 
 [GO_TO_EVENT]
-立即前往
+Zum Ereignis gehen
 
 [GOT_A_POWERUP]
-你获得了一个新的强化道具！
+Du hast ein Powerup erhalten！
 
 [GOT_AN_UPGRADE]
-升级成功！
+Du hast eine Verbesserung erhalten！
 
 [GRAVEBUSTER]
 噬碑藤
@@ -2129,7 +2129,7 @@ FACEBOOK
 
 
 [HIDE_LAWN]
-隐藏草地
+Rasen verstecken
 
 [ICEBURG]
 冰冻生菜
@@ -2228,10 +2228,10 @@ FACEBOOK
 完成该分支路线，可以获得珍贵道具!
 
 [KEYS]
-钥匙
+Schlüssel
 
 [LEAVE_BUTTON]
-离开
+Verlassen
 
 [LEAVE_DANGER_ROOM_GAME]
 你想回到世界地图吗？这样会失去当前关卡进度，你需要重新开始本关。
@@ -2252,13 +2252,13 @@ FACEBOOK
 若退出关卡，布置的植物不会被保存。
 
 [LEAVE_GAME_BUTTON]
-退出关卡
+Verlassen
 
 [LEAVE_GAME_HEADER]
-退出关卡？
+Möchtest du das Spiel verlassen？
 
 [LETS_ROCK_BUTTON]
-开始战斗
+Los Geht's!
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_HP]
 生命
@@ -2273,13 +2273,13 @@ FACEBOOK
 加速
 
 [START_GAME_BUTTON]
-开始游戏
+Starten
 
 [CHOOSER_RESET_BUTTON]
-清空卡槽
+Zurücksetzen
 
 [LIGHTNINGREED]
-闪电芦苇
+Blitzschilf
 
 [LIGHTNINGREED_DESCRIPTION]
 {KEYWORD}范围：{STAT}可以击中上下一行的目标 
@@ -2297,7 +2297,7 @@ FACEBOOK
 一次击中几只鸡或僵尸。
 
 [LOADING]
-读取中…
+Lädt…
 
 [LOCAL_PUSH_YETI_EVENT]
 宝藏雪人的餐盒里到底藏着什么秘密？打败它一探究竟。
@@ -2312,7 +2312,7 @@ Chinese_China
 <点击添加玩家>
 
 [MAINMENU_DELETE_PROFILE]
-删除
+Profil löschen
 
 [MAINMENU_DELETE_PROFILE_BODY]
 如果“删除”这个存档，你将失去该存档的所有游戏数据，包括你已经购买的道具。
@@ -2324,31 +2324,31 @@ Chinese_China
 编辑玩家
 
 [MAINMENU_EDIT_PROFILE]
-编辑存档
+Profil bearbeiten
 
 [MAINMENU_FACEBOOK_LOGIN]
 联系好友？
 
 [MAINMENU_KEEP_PROFILE]
-保留
+Profil Behalten
 
 [MAINMENU_NEW_PROFILE]
-新建存档
+Neues Profil
 
 [MAINMENU_PLAY]
 开始游戏
 
 [MAINMENU_SAVE]
-确定
+Speichern
 
 [MAINMENU_SELECT_PLAYER]
-选择玩家
+Spieler auswählen
 
 [MAINMENU_TAKE_PHOTO]
 拍摄照片
 
 [MAINMENU_WELCOME]
-欢迎
+Willkommen 
 
 [MAINMENU_ACCOUNT_BINDING]
 账号绑定
@@ -3627,16 +3627,16 @@ Chinese_China
 {NPC_ENTER:crazydaveicon}{PLAYFUL}噢，它在散发着诱人的味道，赶紧过去！
 
 [NEW_CONTENT_DOWNLOADING]
-新内容下载中…
+Lädt neuen Inhalt herunter…
 
 [NEW_HERO_EVENT_HEADER]
 英雄事迹开始记载了！
 
 [NEW_USER]
-新用户
+Neuer Benutzer
 
 [NEXT_STAR_BUTTON]
-下一颗星
+Nächster Stern
 
 [NO_WINDOWED_MODE]
 无窗口模式
@@ -3673,13 +3673,13 @@ Chinese_China
 3D加速
 
 [OPTIONS_FULL_SCREEN]
-全屏幕显示
+Vollbildschirm
 
 [OPTIONS_MUSIC_LABEL]
-音乐
+Musik
 
 [OPTIONS_SOUNDFX]
-音效
+Sound Lautstärke
 
 [OUT_OF_CONTENT_CONFIRM]
 现在下载
@@ -3718,41 +3718,41 @@ Chinese_China
 下载的内容可能已经破损。更新内容将需要再被下载一次。
 
 [PAUSED_HEADER]
-暂停
+Spiel Pausiert
 
 [PEAPOD]
-豌豆荚
+Erbsenhülse
 
 [PEAPOD_DESCRIPTION]
-{KEYWORD}伤害：{STAT}中等（每颗）
-{KEYWORD}特殊：{STAT}通过多重种植方式加强火力
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族、兄弟成群
-{FLAVOR}豌豆荚毕业于职业小丑学院的空间量子力学专业，他是家族中的的开心果，大家都爱他。
+{KEYWORD}Schaden: {STAT}Mittel (pro Kugel)
+{KEYWORD}Spezial: {STAT}Erhöhte Feuerkraft durch verschiedene Pflanzmethoden
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen, Erbsengewächse, Brüder in Gruppen
+{FLAVOR}Die Erbsenhülse hat an der Clownschule Raumquantenmechanik studiert und ist bei Alt und Jung beliebt.
 
 [PEAPOD_DESCRIPTION_HEADER]
-堆叠种植多棵豌豆使威力升至5倍！
+Pflanze mehrere Erbsenhülsen auf einem Feld, um die bis zu fünffache Zerstörungskraft zu erreichen.
 
 [PEAPOD_PLANTFOOD]
-出现超大的豌豆脑袋并射出5颗超大的豌豆。
+Ein monströser Erbsenkanonenkopf erscheint und verschießt 5 riesige Erbsen.
 
 [PEAPOD_TOOLTIP]
-堆叠种植数棵豌豆，造成多倍伤害。
+Pflanze mehrere auf derselben Stelle und multipliziere den Schaden
 
 [PEASHOOTER]
 Erbsenkanone
 
 [PEASHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}“问我成功的滋味如何？”豌豆射手慢悠悠地啜了一口热茶。“这个我现在不能告诉你，我正在整理我的商业合同。这是我的外套，保管好！”
+{KEYWORD}Pflanzenmerkmale: {STAT}Grünpflanzen, Erbsengewächse
+{FLAVOR}„Wie es ist, berühmt zu sein?", fragt die Erbsenkanone und nippt an einer Flasche Wasser. "Sorry, hab grad keine Zeit, muss meinen Merchandising-Deal eintüten. Hier, halt mal meinen Spelzmantel.“
 
 [PEASHOOTER_DESCRIPTION_HEADER]
-豌豆射手，你的第一道防线，发射豌豆攻击僵尸。
+Schießt mit Erbsen auf den Feind.
 
 [PEASHOOTER_PLANTFOOD]
-连续发射一串豌豆，造成巨大伤害。
+Feuert viele Erbsen auf einmal ab.
 
 [PEASHOOTER_TOOLTIP]
-向敌人发射豌豆。
+Schießt mit Erbsen auf den Feind.
 
 [PIRATE]
 海盗港湾
@@ -4341,13 +4341,13 @@ Erbsenkanone
 花费%d钻石买一个能量豆？
 
 [RENAME_BUTTON]
-重命名
+Umbennen
 
 [RENAME_USER]
-重设用户名
+Nutzer Umbenennen
 
 [REPEATER]
-双重射手
+Duplinator
 
 [REPEATER_DESCRIPTION]
 {KEYWORD}伤害：{STAT}中等（每颗）
@@ -4371,29 +4371,29 @@ Erbsenkanone
 重放
 
 [RESTART_BUTTON]
-重新开始
+Neu starten
 
 [RESTART_LABEL]
-重新开始
+Das Level Neu starten
 
 [RESTART_LEVEL]
-你确定想要重新开始这一关卡吗？
+Möchtest du das Level neu starten？
 
 [RESTART_LEVEL_BODY]
 你想要再次从头
 进行这一关卡么？
 
 [RESTART_LEVEL_BUTTON]
-重新开始本关卡
+Level Neu starten
 
 [RESTART_LEVEL_HEADER]
-重新开始本关？
+Möchtest du das Level neu starten？
 
 [RESUME_BUTTON]
-继续
+Fortfahren
 
 [RESUME_GAME]
-继续游戏
+Spiel Fortfahren
 
 [RETRY]
 再试一次
@@ -4408,15 +4408,14 @@ Erbsenkanone
 这是你的名字，笨蛋！
 
 [SEED_CHOOSER_CHALLENGE_CONSUMABLE_PLANTS]
-使用{PLANT_NAME}将不利于你在本关获得星星，
-你确定要继续吗？
+Die Nutzung von {PLANT_NAME} wird als Verlust einer Pflanze für dieses Level gezählt. Fortfahren?
 
 [SEED_CHOOSER_CHALLENGE_CONSUMABLE_PLANTS_PVZ1]
 使用{PLANT_NAME}将不利于通过本关，
 你确定要继续吗？
 
 [SEED_CHOOSER_GRAVE_WARNING]
-这关没有墓碑。你确定要使用噬碑藤吗？
+In diesem Level gibt es keine Gräber. Möchtest du wirklich den Grabfresser auswählen?
 
 [SEED_CHOOSER_BLOW_WARNING]
 你没有选可吹飞僵尸的植物，确定要继续吗？
@@ -4425,7 +4424,7 @@ Erbsenkanone
 你没有选能生产阳光的植物，确定要继续吗？ 
 
 [SEED_CHOOSER_WARNING_TITLE]
-提示
+Warnung!
 
 [SEED_CHOOSER_SKY_CITY_PLANT_SURVIVE_WARNING]
 本关星级条件需要使用空中植物，确定不使用任何空中植物挑战本关么？
@@ -4440,7 +4439,7 @@ Erbsenkanone
 这里可见游戏的所有信息。你现在看的就是。
 
 [SETTINGS_ABOUT_TITLE]
-关于
+Über
 
 [SETTINGS_UUID_BIND_TITLE]
 设备绑定
@@ -5685,7 +5684,7 @@ http://pvztmall.popcap.com.cn
 种子保卫战
 
 [STAT_AREA]
-区域
+Bereich
 
 [STAT_AREA_1BY4]
 1x4
@@ -5697,157 +5696,157 @@ http://pvztmall.popcap.com.cn
 3x3
 
 [STAT_AREA_FULLBOARD]
-全屏幕
+Vollbild
 
 [STAT_AREA_LANE]
-行
+Linie
 
 [STAT_AREA_SINGLE]
-单体目标
+Einzelziel
 
 [STAT_AREA_SQUARE]
-单格区域
+Einzelbereich
 
 [STAT_ATTRIBUTE]
-属性
+Attribut
 
 [STAT_DAMAGE]
-伤害
+Schaden
 
 [STAT_DAMAGE_DAMAGE0]
-无
+Keine
 
 [STAT_DAMAGE_DAMAGE1]
-轻微
+Leicht
 
 [STAT_DAMAGE_DAMAGE2]
-一般
+Normal
 
 [STAT_DAMAGE_DAMAGE3]
-中等
+Mittel
 
 [STAT_DAMAGE_DAMAGE4]
-大
+Schwer
 
 [STAT_DAMAGE_DAMAGE5]
-巨大
+Riesig
 
 [STAT_DAMAGE_DAMAGE6]
-超大
+Enorm
 
 [STAT_RANGE]
-范围
+Reichweite
 
-[STAT_RANGE_4WAY]
-4个方向
+[STAT_RANGE_4 WAY]
+4 Richtungen
 
 [STAT_RANGE_5WAY]
-5个方向
+5 Richtungen
 
 [STAT_RANGE_CLOSE]
-近身
+Nah
 
 [STAT_RANGE_FRONTBACK]
-身前和身后
+Vorne und hinten
 
 [STAT_RANGE_LOBBED]
-抛物线
+Parabel
 
 [STAT_RANGE_MULTIHIT]
-多个目标
+Mehrere Ziele
 
 [STAT_RANGE_MULTILANE]
-多条道路
+Mehrere Straßen
 
 [STAT_RANGE_3TILES]
-3格
+3 Kacheln
 
 [STAT_RANGE_STRAIGHT]
-直线
+Gerade Linie
 
 [STAT_RANGE_TOUCH]
-身体触碰
+Körperberührung
 
 [STAT_RECHARGE]
-冷却时间
+Abkühlzeit
 
 [STAT_RECHARGE_RECHARGE0]
-非常长
+Sehr lang
 
 [STAT_RECHARGE_RECHARGE1]
-长
+Lang
 
 [STAT_RECHARGE_RECHARGE2]
-缓慢
+Langsam
 
 [STAT_RECHARGE_RECHARGE3]
-中等
+Mittel
 
 [STAT_RECHARGE_RECHARGE4]
-短
+Kurz
 
 [STAT_SPEED]
-速度
+Geschwindigkeit
 
 [STAT_SPEED_SPEED0]
-龟速
+Langsam
 
 [STAT_SPEED_SPEED1]
-迟缓
+Langsam
 
 [STAT_SPEED_SPEED2]
-普通
+Normal
 
 [STAT_SPEED_SPEED3]
-迅猛
+Schnell
 
 [STAT_SPEED_SPEED4]
-高速
+Hoch
 
 [STAT_SPEED_SPEED5]
-极速
+Extrem
 
 [STAT_TOUGHNESS]
-强度
+Ausdauer
 
 [STAT_TOUGHNESS_ARMOR0]
-标准
+Typisch
 
 [STAT_TOUGHNESS_ARMOR1]
-略高
+Verbessert
 
 [STAT_TOUGHNESS_ARMOR2]
-高
+Hoch
 
 [STAT_TOUGHNESS_ARMOR3]
-非常高
+Sehr hoch
 
 [STAT_TOUGHNESS_TOUGHNESS0]
-脆弱
+Empfindlich
 
 [STAT_TOUGHNESS_TOUGHNESS1]
-普通
+Durchschnittlich
 
 [STAT_TOUGHNESS_TOUGHNESS2]
-结实
+Solide
 
 [STAT_TOUGHNESS_TOUGHNESS3]
-携带防具
+Geschützt
 
 [STAT_TOUGHNESS_TOUGHNESS4]
-携带笨重防具
+Fest
 
 [STAT_TOUGHNESS_TOUGHNESS5]
-携带坚硬防具
+Verstärkt
 
 [STAT_TOUGHNESS_TOUGHNESS6]
-携带机械装置
+Rundumverstärkt
 
 [STAT_TOUGHNESS_TOUGHNESS7]
-十分强壮
+Hervorragend
 
 [STAT_TOUGHNESS_TOUGHNESS8]
-不死之身
+Unsterblich
 
 [STAT_VARIABLE]
 ???
@@ -5856,25 +5855,25 @@ http://pvztmall.popcap.com.cn
 ???
 
 [STAT_INSTANTKILL_RESISTENCE]
-即死抗性
+Sofort-Kill-Resistenz
 
 [STAT_PHYSICAL_RESISTENCE]
-物理抗性
+Physische Resistenz
 
 [STAT_POISON_RESISTENCE]
-毒抗性
+Giftresistenz
 
 [STAT_LIGHTNING_RESISTENCE]
-电能抗性
+Elektrische Resistenz
 
 [STAT_MAGIC_RESISTENCE]
-魔法抗性
+Magieresistenz
 
 [STAT_FROST_RESISTENCE]
-冰抗性
+Frostresistenz
 
 [STAT_FLAME_RESISTENCE]
-火抗性
+Feuerresistenz
 
 [STAT_RESISTENCE_D]
 D
@@ -5895,141 +5894,139 @@ S
 SS
 
 [RANGE_0]
-右侧单行
+Einzelne Reihe rechts
 
 [RANGE_1]
-整行
+Ganze Reihe
 
 [RANGE_2]
-右侧1格
+1 Feld rechts
 
 [RANGE_3]
-左侧1格
+1 Feld links
 
 [RANGE_4]
-左右各1格
+1 Feld auf jeder Seite
 
 [RANGE_5]
-右侧3x3
+3x3 rechts
 
 [RANGE_6]
-周围3×3
+3x3 rundherum
 
 [RANGE_7]
-周围5×5
+5x5 rundherum
 
 [RANGE_8]
-右侧三行
+Drei Reihen rechts
 
 [RANGE_9]
-左右三行
+Drei Reihen links und rechts
 
 [RANGE_10]
-四个方向
+Vier Richtungen
 
 [RANGE_11]
-五个方向
+Fünf Richtungen
 
 [RANGE_12]
-十字方向
+Querrichtung
 
 [RANGE_13]
-右侧2x3
+2x3 rechts
 
 [RANGE_14]
-周围7×5
+7x5 rundherum
 
 [RANGE_15]
-周围5×3并上下左右各延伸1格
+5x3 rundherum und 1 Feld nach oben, unten, links und rechts
 
 [RANGE_16]
-右侧2格
+2 Felder rechts
 
 [RANGE_17]
-全屏
+Vollbild
 
 [RANGE_18]
-接触
+Kontakt
 
 [RANGE_19]
-右侧3格
+3 Felder rechts
 
 [RANGE_20]
-右侧5格
+5 Felder rechts
 
 [RANGE_21]
-右侧4格
+4 Felder rechts
 
 [RANGE_22]
-本格
+Hauptfeld
 
 [RANGE_23]
-被啃食
+Wird gefressen
 
 [RANGE_24]
-右侧4x3
+4x3 rechts
 
 [RANGE_25]
-左右各5格
+5 Felder auf jeder Seite
 
 [RANGE_26]
-十字各5格
+5 Felder auf jeder Seite des Kreuzes
 
 [RANGE_27]
-十字各6格
+6 Felder auf jeder Seite des Kreuzes
 
 [RANGE_28]
-左右各3格
+3 Gitter auf jeder Seite
 
 [RANGE_29]
-左右各2格
+2 Gitter auf jeder Seite
 
 [RANGE_30]
-十字各1格
+1 Gitter auf jedem Kreuz
 
 [RANGE_31]
-从左侧第三列至右侧全屏
+Vollbild von Dritte Spalte von links nach rechts
 
 [RANGE_32]
-右侧6格
+6 Raster rechts
 
 [RANGE_33]
-6个方向
+6 Richtungen
 
 [RANGE_34]
-右侧上中下三行
+Obere, mittlere und untere Reihe rechts
 
 [AREA_GROUP1]
-群体
+Gruppe
 
 [AREA_GROUP2]
-3×3 群体
+3×3-Gruppe
 
 [AREA_GROUP3]
-范围内群体
+Gruppe im Bereich
 
 [AREA_GROUP4]
-1×2 群体
+1×2-Gruppe
 
 [AREA_GROUP5]
-单格
-
-
+Einzeln
 
 [AREA_SINGLE]
-单体
+Einzeln
 
 [STORE_BEST_DEAL]
-成交
+Angebot
 
 [STORE_COMING_SOON]
-即将推出
+Demnächst verfügbar
 
 [STORE_MERCH_LINK]
-购买 T恤，玩具以及更多商品
+T-Shirts, Spielzeug und mehr kaufen
 
 [STORE_NO_PRICE]
-购买
+Kaufen
 
 [STORE_PURCHASE]
 %0.2f
@@ -6114,7 +6111,7 @@ SS
 穿过火炬树桩的豌豆会变成火弹。
 
 [TRY_AGAIN]
-再次尝试
+Erneut versuchen
 
 [TUTORIAL]
 教学关
@@ -6173,7 +6170,7 @@ SS
 ???
 
 [UNIVERSE_MAP_TITLE]
-疯狂戴夫的时空玉米卷地图
+Weltkarte
 
 [UNLOCK_GATE]
 解锁
@@ -6200,64 +6197,64 @@ SS
 未知错误
 
 [UPGRADE]
-升级
+Verbessern
 
 [RANK_UP]
-升阶
+Rangaufstieg
 
 [RANK_UP_MAX]
-已升满
+Maximales Upgrade
 
 [BLESS]
-祝福
+Segen
 
 [DLC_FILES_SIZE]
-文件大小：{SIZE_1}MB/{SIZE_2}MB
+Dateigröße: {SIZE_1}MB/{SIZE_2}MB
 
 [DLC_FILES_SIZE2]
 {SIZE_1}MB/{SIZE_2}MB
 
 [DLC_BLACKGROUND_BUTTON]
-后台下载
+Hintergrund-Download
 
 [DLC_INSTALL_BUTTON]
-立即安装
+Jetzt installieren
 
 [UUID_BIND_TIP_CONTENT]
-亲爱的玩家，建议您现在绑定手机设备，可以有效避免存档丢失
+Liebe Spieler, wir empfehlen euch, euer Mobilgerät jetzt zu binden, um verlorene Spielstände effektiv zu vermeiden.
 
 [UUID_BIND_TIP_OK]
-现在绑定
+Jetzt binden
 
 [UUID_BIND_DOUBLE_TIP_OK]
-继续绑定
+Bindung fortsetzen
 
 [UUID_BIND_TIP_CANCEL]
-稍后再说
+Wir besprechen das später. später
 
 [UUID_BIND_CANCEL_SETTING_TIP]
-您可以随时在登录界面的功能设置里进行存档绑定
+Du kannst Spielstände jederzeit in den Funktionseinstellungen im Login-Bereich binden.
 
 [UUID_BIND_TIP_DOUBLE_CONTENT]
-请确认您的游戏进度、资源数量正常，绑定存档后如需解绑请联系客服
+Bitte stelle sicher, dass dein Spielfortschritt und deine Ressourcenmenge normal sind. Falls du die Bindung nach dem Binden aufheben musst, wende dich bitte an den Kundenservice.
 
 [UUID_BIND_SUCCEED]
-绑定成功！请重启游戏
+Bindung erfolgreich! Bitte starte das Spiel neu.
 
 [UUID_BIND_SUCCEED_TIP]
-重启游戏
+Starte das Spiel neu.
 
 [UUID_BIND_FAIL]
-绑定失败！
+Bindung fehlgeschlagen!
 
 [UUID_BIND_SETTING_CONTENT]
-建议您现在绑定手机设备，可以有效避免存档丢失。在绑定前请确认您的游戏进度、资源数量正常，绑定存档后如需解绑请联系客服。
+Wir empfehlen dir, dein Mobilgerät jetzt zu binden, um verlorene Spielstände effektiv zu vermeiden. Bitte stelle vor dem Binden sicher, dass dein Spielfortschritt und deine Ressourcenmenge normal sind. Falls du die Bindung nach dem Binden aufheben musst, wende dich bitte an den Kundenservice.
 
 [LUA_UPDATE_TIP]
-更新提示
+Update-Tipps
 
 [LUA_UPDATE_CONTENT]
-检测到资源更新，资源大小{NUMBER}M，是否现在更新？
+Ressourcen-Update erkannt, Ressourcengröße {NUMBER} Möchten Sie jetzt aktualisieren?
 
 [LUA_UPDATE_DOWNLOADING]
 资源下载中...{NUMBER}%
@@ -6278,83 +6275,83 @@ SS
 从服务器获取最新数据成功，请重新打开游戏以便生效
 
 [UPGRADE_7_SLOTS]
-可使用植物+1
+Samenplatz +1
 
 [UPGRADE_8_SLOTS]
-可使用植物+1
+Samenplatz +1
 
 [UPGRADE_PF_REFRESH]
-立即补充
+Sofort auffüllen
 
 [UPGRADE_PF_REFRESH_INFO]
-投放能量豆快速更新植物卡片。
+Du kannst Dünger verwenden, um Samenpäckchen sofort nutzbar zu machen.
 
 [UPGRADE_PF_SLOT]
-扩充的能量豆槽
+Dünger-platz erweitert
 
 [UPGRADE_PF_SLOT_DESCRIPTION]
-在一关中多保持一颗能量豆！
+Behalte einen weitere Dünger in jedem Level!
 
 
 [UPGRADE_PRICE]
 %s
 
 [UPGRADE_SEEDSLOT]
-额外卡片槽
+Zusätzlicher Samenbankplatz
 
 [UPGRADE_SEEDSLOT_DESCRIPTION]
-每关可选择多一棵植物
+Pro Level kann eine weitere Pflanze ausgewählt werden.
 
 [UPGRADE_SHOVEL_1]
-嘉奖阳光铲
+Belohnende Sonnenscheinschaufel
 
 [UPGRADE_SHOVEL_2]
-强化阳光铲
+Verbesserte Sonnenscheinschaufel
 
 [UPGRADE_SHOVEL_3]
-多产阳光铲
+Ertragreiche Sonnenscheinschaufel
 
 [UPGRADE_SHOVEL_DESCRIPTION]
-挖出植物后收回额外25%阳光
+25% mehr Sonnenschein nach dem Ausgraben von Pflanzen
 
 [UPGRADE_STARTING_SUN]
-强化初始阳光
+Verbesserter Sonnenschein beim Start
 
 [UPGRADE_STARTING_SUN_1]
-强化初始阳光
+Verbesserter Sonnenschein beim Start
 
 [UPGRADE_STARTING_SUN_2]
-强化初始阳光
+Verbesserter Sonnenschein beim Start
 
 [UPGRADE_STARTING_SUN_DESCRIPTION]
-开始关卡时多25初始阳光！
+25 mehr Sonnenschein beim Start eines Levels!
 
 [UPGRADE_WALLNUT_FIRSTAID]
-坚果包扎术
+Walnussverbandskasten
 
 [UPGRADE_WALLNUT_FIRSTAID_INFO]
-可以在受伤的坚果类植物上再种一棵坚果，以修复其损伤。
+Du kannst eine weitere Nuss auf eine beschädigte Nusspflanze pflanzen, um den Schaden zu entfernen.
 
 [UPGRADES]
-强化
+Verbesserungen
 
 [USER_ERROR_MESSAGE]
-请输入您的用户名，创建一个新的用户。用以储存您自己的最高成绩和游戏进程。
+Bitte gib deinen Benutzernamen ein, um einen neuen Benutzer zu erstellen. Deine besten Ergebnisse und dein Spielfortschritt werden gespeichert.
 
 [USERNAME_EMPTY]
-用户名称不能为空
+Benutzername darf nicht leer sein.
 
 [USERNAME_ERROR]
-用户名出错
+Benutzername-Fehler
 
 [VIEW_IN_ALMANAC]
-查看图鉴
+Im Lexikon suchen
 
 [VIEW_LAWN]
-查看草坪
+Rasen anzeigen
 
 [VIEW_UPGRADES]
-查看强化
+Verbesserungen Anzeigen
 
 [WALLNUT]
 坚果
@@ -12857,7 +12854,7 @@ BOSS登场！大刀魔王和火药魔头来势汹汹，你能击败他们最终�
 10刷新许愿池
 
 [PLANT_LEVEL_UP_BUTTON_CONTENT]
-进 阶
+Aufstufen
 
 [PLANT_LEVEL_UP_TIP]
 查看获取途径
@@ -12866,13 +12863,13 @@ BOSS登场！大刀魔王和火药魔头来势汹汹，你能击败他们最终�
 无尽商店
 
 [PIECE]
-碎片
+Teil
 
 [AVATAR]
-装扮
+Kostüm
 
 [AVATAR_PIECE]
-装扮碎片
+Kostüm Teil
 
 [ACCESSORY_EXCHANGE_FAILED]
 挂件兑换失败
@@ -14926,37 +14923,37 @@ LV.
 使麻痹的效果提升100%。
 
 [PEAPOD_SKILL1_LEVEL1]
-自动生长
+Automatischer Wachstum
 
 [PEAPOD_SKILL1_LEVEL1_DES]
-使豌豆荚种下后每隔60秒长出一颗小豌豆。
+Lässt alle 60 Sekunden nach dem Pflanzen einer Erbsenhülse eine Erbse wachsen.
 
 [PEAPOD_SKILL1_LEVEL2]
-疯狂生长
+Wahnsinniger Wachstum
 
 [PEAPOD_SKILL1_LEVEL2_DES]
-强化自动生长效果，使其所需的时间间隔缩短20秒。
+Verstärkt den Effekt des automatischen Wachstums und verkürzt die benötigte Zeit um 20 Sekunden.
 
 [PUFFSHROOM_SKILL1_LEVEL1]
-快速种植
+Schnelles Pflanzen
 
 [PUFFSHROOM_SKILL1_LEVEL1_DES]
-缩短小喷菇种植间隔30%。
+Verkürzt die Wartezeit zum pflanzen um 30 %.
 
 [PUFFSHROOM_SKILL1_LEVEL2]
-种子改良
+Samenverbesserung
 
 [PUFFSHROOM_SKILL1_LEVEL2_DES]
-使快速种植的效果提高66%。
+Verkürzt die Wartezeit zum pflanzen um 66 %.
 
 [FUMESHROOM_SKILL1_LEVEL1]
-毒液喷射
+Giftspray
 
 [FUMESHROOM_SKILL1_LEVEL1_DES]
-使大喷菇的攻击有8%概率麻痹僵尸。
+Gibt die Fähigkeit Zombies zu lähmen, mit 8%-iger Wahrscheinlich.
 
 [FUMESHROOM_SKILL1_LEVEL2]
-配方改良
+Verbessertes Rezept
 
 [FUMESHROOM_SKILL1_LEVEL2_DES]
 使毒液喷射的概率提高100%。
@@ -15406,39 +15403,39 @@ LV.
 喷射花生米攻击并阻止僵尸前进。
 
 [STREETLAMP]
-路灯花
+Pflanterne
 
 [STREETLAMP_DESCRIPTION]
-{FLAVOR}路灯花蔑视科学，他就这样。其他植物吸收光能排出氧气，路灯花却吸收黑暗发出灯光。路灯花曾就此坦言：“我不说什么‘巫术魔法’之类的东西，我只使用'黑暗原力'这个词，我只是……我认为我已经说得够多的了。”
+{FLAVOR} Die Pflanterne verachtet die Wissenschaft, so ist das nun einmal. Andere Pflanzen absorbieren Lichtenergie und geben Sauerstoff ab, die Pflanterne hingegen absorbiert Dunkelheit und gibt Licht ab. Die Pflanterne sagte einmal freimütig: „Ich sage nichts wie ‚Hexerei‘ oder so etwas. Ich benutze nur den Begriff ‚dunkle Macht‘. Ich denke, ich habe genug gesagt.“
 
 [STREETLAMP_DESCRIPTION_HEADER]
-路灯花可以驱散迷雾并且看到隐形状态的盗贼僵尸。
+Pflanterne kann Nebel vertreiben und unsichtbare Zombies im Umkreis Sichtbar machen.
 
 [STREETLAMP_TOOLTIP]
-驱散迷雾并发现隐形的僵尸。
+Vertreibt Nebel und macht unsichtbare Zombies sichtbar.
 
 [COFFEEBEAN]
-咖啡豆
+Kaffeebohne
 
 [COFFEEBEAN_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}矮个子
-{FLAVOR}“伙计伙计，快起来看上帝啊！”咖啡豆每次都喜欢用这句他最喜欢的电影台词来叫别人起床。还真别说，这法儿挺有效的，至少他的小伙伴每次睁眼都能看到一个鸟人的身影。
+{KEYWORD}Pflanzenmerkmale: {STAT}Shorty
+{FLAVOR}„ey, ey!, steh auf und sieh Gott!“ Kaffeebohne benutzt diesen Spruch aus seinem Lieblingsfilm immer gerne, um andere aufzuwecken. Er ist wirklich effektiv, zumindest können seine Freunde jedes Mal einen Vogelmenschen sehen, wenn sie die Augen öffnen.
 
 [COFFEEBEAN_DESCRIPTION_HEADER]
-咖啡豆可以唤醒范围内沉睡的植物并为他们增加少许攻击力。
+Kaffeebohne kann schlafende Pflanzen in einer 3x3 Reichweite wecken und ihre Angriffskraft etwas erhöhen.
 
 [COFFEEBEAN_TOOLTIP]
-唤醒植物并增加少许攻击力。
+Weckt Pflanzen auf und erhöht ihre Angriffskraft etwas.
 
 [OAKSHOOTER]
-橡木弓手
+Eichenschießer
 
 [OAKSHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}褐色植物
-{FLAVOR}橡木弓手从小打碎了无数邻居家的窗户玻璃才练到了如今的境界，为此他没有少挨老爸的巴掌。他有一个随身携带的日记，最后一页上写着：“僵尸膝盖：998/10000。”
+{KEYWORD}Pflanzeneigenschaften: {STAT}Braune Pflanze
+{FLAVOR}Eichenschießer hat seit seiner Kindheit unzählige Fenster seiner Nachbarn eingeschlagen, um sein aktuelles Level zu erreichen. Dafür wurde er von seinem Vater geohrfeigt. Er hat ein Tagebuch bei sich, dessen letzte Seite lautet: „Zombie-Knie: 998/10000.“
 
 [OAKSHOOTER_DESCRIPTION_HEADER]
-橡木弓手可以发射强力的箭矢攻击前方的僵尸。
+Der Eichenschießer kann mächtige Pfeile abfeuern, um Zombies vor ihm anzugreifen.
 
 [OAKSHOOTER_TOOLTIP]
 攻击前方的僵尸。
@@ -24634,7 +24631,7 @@ x {SPEED}
 赠送装扮或装扮碎片奖励
 
 [GACHA_ITEM_PREVIEW]
-获得
+Vorschau
 
 [GACHA_ITEM_DRAW_NORMAL_DES]
 ^FF0000 {NUMBER} ^oldclr 金币
@@ -24702,7 +24699,7 @@ x {SPEED}
 摇滚年代
 
 [WARNING_BASSRAIN]
-贝斯手僵尸闪亮登场！
+Bassist Zombie hat seinen großen Auftritt!
 
 [ACHIEVE_ALL_IN_JEST_DESC]
 完成一个关卡，别让小丑僵尸反弹攻击
@@ -31209,7 +31206,7 @@ PIÑATA 派对
 你没有选择任何莲叶。你确定要继续吗？
 
 [SEED_CHOOSER_RECALL_PLANTS]
-召回
+Zurücksetzen
 
 [SEED_CHOOSER_RENT_PLANT]
 {RENT_COST} 租用
@@ -31220,21 +31217,21 @@ PIÑATA 派对
 [SEED_CHOOSER_SUGGEST_PLANTS]
 提示
 [SEED_CHOOSER_UNOWNED_IN_SPINE]
-发现地点 {WORLDNAME}
+Erhältlich in{WORLDNAME}
 [SETTINGS_BUILDVERSION_TITLE]
-版本号
+Build Version
 [SETTINGS_DATASHARING_PROMPT_DISABLED]
 游戏的使用数据分享功能已经关闭除了你直接提供给拓维的数据之外，拓维还会为了改善给您的产品和服务来收集特定的信息。通过软件升级，动态调整的内容，产品支持，以及与您的沟通来改善您使用拓维产品和服务时的体验。这些数据不会与任何第三方共享，也不会用来确认您的身份。当你关闭数据分享时，除了匿名的信息，拓维仍会继续收集一些合理的信息来保证产品和服务的运行。开启使用数据分享？
 [SETTINGS_DISPLAY_PCPID]
 玩家ID
 [SETTINGS_DISPLAY_VERSION]
-版本
+Version
 [SETTINGS_MOREGAMES_MULTIPLATFORM_URL]
 HTTPS://CANVAS.POPCAP.COM/GAMES/{LOCALEINSERT}PLANTS-VS-ZOMBIES-2-SAFARI/{PLATFORM}/{DEVICETYPE}
 [SETTINGS_NOTIFICATIONS]
-开启通知
+Benachrichtigungen
 [SETTINGS_RESET_AGE]
-重置时代
+Alter zurücksetzen
 
 [SETTINGS_RESTORE_PURCHASES]
 恢复购买
@@ -31252,7 +31249,7 @@ HTTPS://WWW.EA.COM/WWF
 
 
 [SHRINKINGVIOLET]
-缩小紫罗兰
+Schrumpfveilchen
 
 [SHRINKINGVIOLET_DESCRIPTION]
 {KEYWORD}用法： {STAT} 单次使用，碰到目标后激活
@@ -33509,73 +33506,85 @@ x500更改名字
 购买毁灭包
 
 [PLANT_FAMILY_FAMILY_LEVEL]
-{LEVEL}级
+{LEVEL} Stufe
 
 [PLANT_FAMILY_CHECK_TALENT]
-查看天赋
+Talente prüfen
 
 [PLANT_FAMILY_ACTIVE_COUNT]
-已激活植物家族：
+Aktivierte Pflanzenfamilien:
 
 [PLANT_FAMILY_FREE_REFRERSH]
-今日免费刷新次数：
+Heutige kostenlose Aktualisierungszeiten:
 
 [PLANT_FAMILY_FAMILY_CUR_LEVEL]
-当前家族等级
+Aktuelle Familie Stufe
 
 [PLANT_FAMILY_DISPLAY_PLANT]
-植物
+Pflanzen
 
 [PLANT_FAMILY_DISPLAY_QUALITY]
-品质
+Qualität
 
 [PLANT_FAMILY_DISPLAY_LEVEL]
-阶数
+Rang
 
 [PLANT_FAMILY_DISPLAY_AVATAR]
-装扮
+Outfit
 
-[PLANT_FAMILY_DISPLAY_SUPPORT_LEVEL]
-提供等级
+[PLANT_FAMILY_DISPLAY_VATAR]
+Outfit
+
+[PLANT_FAMILY_DISPLAY_VATAR]
+Outfit
+
+[PLANT_FAMILY_DISPLAY_VATAR]
+Outfit
+
+[PLANT_FAMILY_DISPLAY_VATAR]
+Outfit
+
+[PLANT_FAMILY_DISPLAY_PLANT ... ILY_DISPLAY_SUPPORT_LEVEL]
+Bereitgestellte Stufe
 
 [PLANT_FAMILY_DO_NOT_HAVE_PLANT]
-未获得
+Nicht erhalten
 
 [PLANT_FAMILY_FAMILY_LEVEL_DESC1]
-家族等级等于植物提供等级之和
+Die Familienstufe entspricht der Summe der bereitgestellten Pflanzen Stufen
 
 [PLANT_FAMILY_FAMILY_LEVEL_DESC2]
-获取植物和装扮并升阶可提升家族等级
+Das Sammeln und Verbessern von Pflanzen und Kostümen kann die Familienstufe erhöhen.
 
 [PLANT_FAMILY_FAMILY_PROPERTY_DESC1]
-可能随机获得的属性及数值范围
+Mögliche zufällige Attribute und Wertebereiche
 
 [PLANT_FAMILY_FAMILY_PROPERTY_DESC2]
-升级家族等级可以提升随机属性的上限，
+Das Verbessern der Familienstufe kann die Obergrenze zufälliger Attribute erhöhen.
 
 [PLANT_FAMILY_FAMILY_PROPERTY_DESC3]
-请努力收集植物和装扮并升阶哦！
+Bitte strengt euch an, Pflanzen und Kostüme zu sammeln und zu verbessern!
 
 [PLANT_FAMILY_FAMILY_TALENT]
-家族天赋
+Familientalent
 
 [PLANT_FAMILY_CUR_PROPERTY]
-当前属性
+Aktuelle Immobilie
 
 [PLANT_FAMILY_REFRESH_PROPERTY]
-刷新属性
+Immobilie aktualisieren
 
 [PLANT_FAMILY_SAVE]
-保存
+Speichern
 
 [PLANT_FAMILY_REFRESH]
-刷新
+Aktualisieren
 
 [PLANT_FAMILY_FREE_REFRESH]
-免费刷新
+Kostenlos aktualisieren
 
 [PLANT_FAMILY_FREE_REFRESH_AD]
-观看广告刷新
+Werbung ansehen zum Aktualisierung
 
 [PLANT_FAMILY_FREE_REFRESH_REMAIN]
 今天还可免费{count}次
@@ -33626,256 +33635,259 @@ x500更改名字
 有锁定属性，刷新花费提高
 
 [PLANT_FAMILY_SKILL_EXTRA_ATTACK]
-攻击力增加
+Angriffskraft erhöht um
 
 [PLANT_FAMILY_SKILL_IMPROVED_ATK_RATE]
-攻击速度增加
+Angriffsgeschwindigkeit erhöht um
 
 [PLANT_FAMILY_SKILL_IMPROVED_SUNPRODUCE_RATE]
-生产速度增加
+Produktionsgeschwindigkeit erhöht um
 
 [PLANT_FAMILY_SKILL_FAST_PLANT]
-种植冷却缩短
+Pflanzen-Abklingzeit verkürzt um
 
-[PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_25]
-额外产出25阳光
+[PLANT_FAMILY_SKILL_EXTR A_SUNMONEY_25]
+Erzeugt 25 zusätzliche Sonnen
 
 [PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_50]
-额外产出50阳光
+Erzeugt 50 zusätzliche Sonnen
 
 [PLANT_FAMILY_SKILL_EXTRA_HITPOINTS]
-生命值增加
+Erhöht Gesundheit um
 
 [PLANT_FAMILY_SKILL_EXTRA_DEFEND]
-防御力增加
+Erhöht Verteidigung um
 
 [PLANT_FAMILY_SKILL_REGENERATION]
-每5秒恢复生命
+Regeneriert Gesundheit alle 5 Sekunden um
+
+[PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_50]
+Erhöht Gesundheit alle 5 Sekunden um
 
 [PLANT_FAMILY_SKILL_IMPROVED_EXPLODE_DAMAGE]
-爆炸伤害增加
+Erhöhter Explosionsschaden um
 
 [PLANT_FAMILY_SKILL_IMPROVED_LIGHTNING_DAMAGE]
-闪电伤害增加
+Erhöhter Blitzschaden um
 
 [PLANT_FAMILY_SKILL_IMPROVED_FLAME_DAMAGE]
-火焰伤害增加
+Erhöhter Feuerschaden um
 
 [PLANT_FAMILY_SKILL_IMPROVED_COLD_DAMAGE]
-冰冻伤害增加
+Erhöhter Gefrierschaden um
 
 [PLANT_FAMILY_SKILL_EXTRA_MELEE_ATTACK]
-近战伤害增加
+Erhöhter Nahkampfschaden um
 
 [PLANT_FAMILY_SKILL_LOWER_COST]
-阳光消耗降低
+Reduziert Sonnenlicht Verbrauch um
 
 [PLANT_FAMILY_SKILL_INVINCIBLE]
-无敌3秒概率
+Wahrscheinlichkeit für 3 Sekunden Unbesiegbar zu werden
 
 [PLANT_FAMILY_SKILL_GHOST]
-灵魂状态概率
+Wahrscheinlichkeit des Seelenzustands
 
 [PLANT_FAMILY_SKILL_PLANT_SUN_REFUND]
-返还阳光概率
+Wahrscheinlichkeit zur Rückkehr des Sonnenlichts
 
 [PLANT_FAMILY_NAME_50001]
-新人组
+Beginner-Gruppe
 
 [PLANT_FAMILY_NAME_50002]
-光芒万丈
+Helles Licht
 
 [PLANT_FAMILY_NAME_50003]
-不动如山
+Bewegt sich wie ein Berg
 
 [PLANT_FAMILY_NAME_50004]
-真能打
+Richtig gut im Kämpfen
 
 [PLANT_FAMILY_NAME_50005]
-我要打十个
+Ich möchte zehn von ihnen bekämpfen.
 
 [PLANT_FAMILY_NAME_50006]
-火力全开
+Volle Feuerkraft
 
 [PLANT_FAMILY_NAME_50007]
-冰力四射
+Eiskraft
 
 [PLANT_FAMILY_NAME_50008]
-雷霆万钧
+Donnerkeil
 
 [PLANT_FAMILY_NAME_50009]
-能量武器
+Energiewaffe
 
 [PLANT_FAMILY_NAME_50010]
-精英豌豆
+Elite Erbse
 
 [PLANT_FAMILY_NAME_50011]
-军火库
+Arsenal
 
 [PLANT_FAMILY_NAME_50012]
-三分王
+Dreipunktkönig
 
 [PLANT_FAMILY_NAME_50013]
-神射手
+Scharfschütze
 
 [PLANT_FAMILY_NAME_50014]
-百步穿僵
+Zombies besiegen
 
 [PLANT_FAMILY_NAME_50015]
-人多力量大
+Gemeinsam stark
 
 [PLANT_FAMILY_NAME_50017]
-暗影家族
+Schattenfamilie
 
 [PLANT_FAMILY_NAME_50018]
-环保卫士
+Umweltschutz
 
 [PLANT_FAMILY_NAME_50019]
-文艺青年
+Künstlerische Jugend
 
 [PLANT_FAMILY_NAME_50020]
-忍者小队
+Ninja-Team
 
 [PLANT_FAMILY_NAME_50021]
-大厨组合
+Kochteam
 
 [PLANT_FAMILY_NAME_50022]
-摧枯拉朽
+Zerstöre mit Leichtigkeit
 
 [PLANT_FAMILY_NAME_50023]
-坚固防线
+Starke Verteidigung
 
 [PLANT_FAMILY_NAME_50024]
-控场大师
+Meister der Kontrolle
 
 [PLANT_FAMILY_NAME_50025]
-魔法大师
+Meister der Magie
 
 [PLANT_FAMILY_NAME_50026]
-枝繁叶茂
+Blühend
 
 [PLANT_FAMILY_NAME_50027]
-十二生肖
+Sternzeichen
 
 [PLANT_FAMILY_NAME_50028]
-繁花似锦
+Blühende Blumen
 
 [PLANT_FAMILY_NAME_50029]
-打飞他们
+Schieß sie weg
 
 [PLANT_FAMILY_NAME_50030]
-十万伏特
+Hunderttausend Volt
 
 [PLANT_FAMILY_NAME_50031]
-动物世界
+Tier Welt
 
 [PLANT_FAMILY_NAME_50032]
-炸个痛快
+Knall sie nach Herzenslust!
 
 [PLANT_FAMILY_NAME_50033]
-小心脚下
+Pass auf, wo du hintrittst!
 
 [PLANT_FAMILY_NAME_50034]
-惊声尖笑
+Gruseliges Gelächter
 
 [PLANT_FAMILY_NAME_50035]
-运动健将
+Athlet
 
 [PLANT_FAMILY_NAME_50036]
-不如跳舞
+Lass uns tanzen!
 
 [PLANT_FAMILY_NAME_50037]
-头有点晕
+Mir ist etwas schwindlig!
 
 [PLANT_FAMILY_NAME_50038]
-酸甜苦辣
+Süß und sauer!
 
 [PLANT_FAMILY_NAME_50039]
-武林对决
+Kampfkunst-Showdown
 
 [PLANT_FAMILY_NAME_50040]
-地爆天星
+Weltbewegender Stern
 
 [PLANT_FAMILY_NAME_50041]
-光暗交织
+Licht und Dunkelheit Verflechtung
 
 [PLANT_FAMILY_NAME_50042]
-亿点控制
+Milliarden-Punkte-Kontrolle
 
-[PLANT_FAMILY_NAME_50043]
-冰与火
+[PLANT_FAMILY_NAME_50 043]
+Eis und Feuer
 
 [PLANT_FAMILY_NAME_50044]
-未来科技
+Zukunftstechnologie
 
 [PLANT_FAMILY_NAME_50045]
-花开富贵
+Blühende Blumen
 
 [PLANT_FAMILY_NAME_50046]
-火力压制
+Brandbekämpfung
 
 [PLANT_FAMILY_NAME_50047]
-群卜荟萃
+Treffen der Wahrsager
 
 [PLANT_FAMILY_NAME_50048]
-狂欢派对
+Karnevalsparty
 
 [PLANT_FAMILY_NAME_50049]
-过载电流
+Überstrom
 
 [PLANT_FAMILY_NAME_50050]
-来自深渊
+Aus dem Abgrund
 
 [PLANT_FAMILT_BOOST_TITLE]
-植物家族效果：
+Effekte der Pflanzenfamilie:
 
 [PLANT_FAMILT_BOOST_RESEARCH]
-研发中
+In Entwicklung
 
 [PLANT_FAMILY_NAME_50016]
-踩僵尸的蘑菇
+Pilze, die auf Zombies treten
 
 [PLANT_FAMILY_ENABLE_NOTICE]
-通过第二世界第3关后解锁
+Freigeschaltet nach Abschluss des 3. Levels der zweiten Welt
 
 [PLANT_FAMILY_TUTORIAL_FAKE_PROPERTY]
-攻击力增加 1.00%
+Erhöht die Angriffskraft um 1,00 %
 
 [PLANT_FAMILY_TUTORIAL_CLICK_PLANT]
-点击“植物”
 
 [PLANT_FAMILY_TUTORIAL_CLICK_PLANT_FAMILY]
-点击“植物家族”
+
+Klicke auf „Pflanzenfamilie“
 
 [PLANT_FAMILY_TUTORIAL_CLICK_TALENT]
-点击“天赋”
 
 [PLANT_FAMILY_TUTORIAL_CLICK_REFRESH]
-点击“刷新”
+
+Klicke auf "Aktualisieren"
 
 [PLANT_FAMILY_TUTORIAL_CLICK_REPLACE]
-新属性不错！我们把它换上去吧！
+Das neue Attribut ist super! Lass es uns ändern!
 
 [PLANT_FAMILY_TUTORIAL_CLICK_RETURN]
-返回家族界面
+Zurück zur Familienoberfläche
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_ENABLE_1]
-{NPC_ENTER:Winnie}{EXCITED:Winnie}我们已经拥有不少植物了，是时候看看他们的家族天赋了。
+{NPC_ENTER:Winnie}{EXCITED:Winnie} Wir haben bereits viele Pflanzen. Es ist Zeit, einen Blick auf ihre Familientalente zu werfen.
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_ENABLE_2]
 {NPC_EXIT:Winnie}
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_BEGIN_1]
-{NPC_ENTER:Winnie}{EXCITED:Winnie}这就是你拥有的第一个植物家族，家族天赋可以让植物变得更强哦！
+{NPC_ENTER:Winnie}{EXCITED:Winnie}Dies ist deine erste Pflanzenfamilie. Familientalente können Pflanzen stärker machen!
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_BEGIN_2]
 {NPC_EXIT:Winnie}
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_END_1]
-{NPC_ENTER:Winnie}{EXCITED:Winnie}新天赋已经生效了，家族里的植物变得更强了！
+{NPC_ENTER:Winnie}{AUFGEFROREN:Winnie}Das neue Talent ist wirksam. Die Pflanzen der Familie sind stärker geworden!
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_END_2]
-{SAY:Winnie}获得植物或者升阶都能提高家族等级，等级越高，可能刷出的属性越高哦！
+{SAY:Winnie}Das Erhalten oder Verbessern von Pflanzen kann das Familienlevel erhöhen. Je höher das Level, desto höher die Attribute, die freigebürstet werden können!
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_END_3]
 {NPC_EXIT:Winnie}
@@ -38486,68 +38498,69 @@ SDK初始化失败
 有概率飞出进化后的使徒，对僵尸造成更多伤害，并把僵尸吸干转变为干尸僵尸
 
 [GUARDSHROOM]
-守卫菇
+Wachpilz
 
 [GUARDSHROOM_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}紫色植物，成长
-{FLAVOR}363.154e+13和守卫菇有什么共同点？当戴夫问时，潘妮花了4个多小时才完成守卫菇的普查并从地下室出来。潘妮强烈表示这个数字是准确的，并已禁止其他人下楼。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanze, wächst
+{FLAVOR}Was haben 3,154e+13 und der Wachpilz gemeinsam? Nun, als Dave Penny bat, die Wachpilze zu zählen, verschwand Penny gute vier Stunden im Keller und kehrte mit dieser Zahl zurück. Penny ist felsenfest davon überzeugt, dass sie stimmt – und verbietet allen anderen, selbst da runter zu gehen.
 
 [GUARDSHROOM_DESCRIPTION_HEADER]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Ein amphibischer Pilz, der Miniversionen von sich selbst erzeugt, um angrenzende Pflanzen zu bewachen. Diese Minipilze können Zombies verschlingen und andere Pilze oder Pflanzen, mit denen sie sich ein Feld teilen, deutlich stärken.
 
 [GUARDSHROOM_TOOLTIP]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Vermehrt sich, um angrenzende Pflanzen zu schützen.
 
 [GUARDSHROOM_PRODUCT_SHORT_DESC]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Wachpilze können Gegner blockieren und kleine Wachpilze erzeugen, die Zombies verschlingen können.
 
 [GUARDSHROOM_AVATAR_NAME]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Wachpilze können Gegner blockieren und kleine Wachpilze erzeugen, die Zombies verschlingen können.
 
 [STORE_PRODUCT_AVATAR_GUARDSHROOM_TITLE]
-守卫菇装扮
+Wachpilz-Outfit
 
 [STORE_PRODUCT_AVATAR_GUARDSHROOM]
-大招可以吃掉的僵尸数量增加为7个
+Die Anzahl der Zombies, die mit der ultimativen Fähigkeit verschlungen werden können, wird auf 7 erhöht.
 
 [GUARDSHROOM_SKILL_LEVEL1]
-蘑菇强化
+Pilzverstärkung
 
 [GUARDSHROOM_SKILL_LEVEL1_DES]
-小守卫菇的消化时间减少；守卫菇的阳光消耗增加倍数降低至1.5倍
+Die Verdauungszeit kleiner Wachpilze wird verkürzt; der Multiplikator für den Sonnenlichtverbrauch von Wachpilzen wird auf das 1,5-Fache reduziert.
 
-[GUARDSHROOM_SKILL_LEVEL2]
-蘑菇进化
+[GUARDSHROOM_SKILL_LEVEL1_DES]
+Die Verdauungszeit kleiner Wachpilze wird verkürzt; Der Erhöhungsmultiplikator des Sonnenlichtverbrauchs von Wächterpilzen wurde auf das 1,5-Fache reduziert.
+Pilzentwicklung
 
 [GUARDSHROOM_SKILL_LEVEL2_DES]
-小守卫菇的消化时间进一步减少；守卫菇的阳光消耗不再增加
+Die Verdauungszeit des Wächterpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wächterpilzes erhöht sich nicht mehr.
 
 [GUARDSHROOM_SKILL_LEVEL5]
-深渊狂化
+Abgrundwahnsinn
 
 [GUARDSHROOM_SKILL_LEVEL5_DES]
-守卫菇现在会生成更强大的深渊小守卫菇，吞噬中体型的僵尸，并在死亡时将僵尸带入深渊
+Wächterpilze erzeugen nun stärkere Abgrundwächterpilze, verschlingen mittelgroße Zombies und befördern Zombies nach ihrem Tod in den Abgrund.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL1_DES]
-守卫菇能够阻挡部分会飞跃的僵尸,并且可以直接种植在水里和陆地；每隔一段时间守卫菇身边会降下小守卫菇，小守卫菇能够吃掉普通僵尸和小鬼僵尸；植物可以种植在小守卫菇上，当为蘑菇类植物时，可为其提供额外增益效果。当其上方本体植物释放大招时，小守卫菇会吸收能量，大招完成后可使其释放二次大招。
+Wächterpilze können fliegende Zombies blockieren und direkt im Wasser und an Land gepflanzt werden. Wächterpilze lassen gelegentlich Wächterpilze fallen und können gewöhnliche Zombies und Wicht-Zombies fressen. Pflanzen können auf Wächterpilzen gepflanzt werden. Als Pilzpflanzen verleihen sie zusätzliche Stärkungseffekte. Wenn die darüberliegende Hauptpflanze eine Dünger Attacke auslöst, absorbiert der kleine Wächterpilz Energie und kann nach Abschluss der Dünger Attacke eine zweite Dünger Attacke ausführen.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL2_DES]
-小守卫菇的消化时间减少；守卫菇的阳光消耗增加倍数降低至1.5倍
+Die Verdauungszeit des kleinen Wächterpilzes wurde verkürzt; die Erhöhung des Sonnenlichtverbrauchs des Wächterpilzes wurde auf das 1,5-Fache reduziert.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL3_DES]
-小守卫菇的消化时间进一步减少；守卫菇的阳光消耗不再增加
+Die Verdauungszeit des kleinen Wächterpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wächterpilzes erhöht sich nicht mehr.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die große Attacke der Energiebohne direkt auszulösen!
 
 [GUARDSHROOM_NEW_SKILL_LEVEL5_DES]
-守卫菇现在会生成一个更强大的深渊小守卫菇，此时深渊小守卫菇可以吞噬中体型的僵尸；当小守卫菇被僵尸啃食至死亡时，小守卫菇会改为掉入深渊地底，并使用触手把该僵尸一并拖入地底。
+Der Wächterpilz erzeugt jetzt einen stärkeren Abyss-Wächterpilz, der mittelgroße Zombies fressen kann. Stirbt der Wächterpilz, nachdem er von einem Zombie gefressen wurde, fällt er in den Abyss und zerrt den Zombie mit seinen Tentakeln zu Boden.
 
 [GUARDSHROOM_PLANTFOOD_DESCRIPTION]
-守卫菇伸出触手，吃掉前方 3x3 内的 5 个小体型僵尸（5阶可以吃中体型僵尸），对无法吃掉的僵尸造成伤害。同时在 3x3 范围内填满 8 个小守卫菇。
+Der Wächterpilz fährt seine Tentakel aus und frisst fünf kleine Zombies (Stufe 5 kann mittelgroße Zombies fressen) im 3x3-Bereich vor ihm. Dadurch wird den Zombies, die nicht gefressen werden können, Schaden zugefügt. Gleichzeitig füllt er den 3x3-Bereich mit acht Wächterpilzen.
 
 [GUARDSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-守卫菇伸出触手，吃掉前方 4x3 内的 7 个小体型僵尸（5阶可以吃中体型僵尸），对无法吃掉的僵尸造成伤害。同时在 3x3 范围内填满 8 个小守卫菇。
+Der Wächterpilz streckt seine Tentakeln aus und frisst sieben kleine Zombies (Stufe 5 kann auch mittelgroße Zombies fressen) im 4x3-Bereich vor ihm. Er fügt Zombies, die nicht gefressen werden können, Schaden zu. Füllt gleichzeitig einen 3x3-Bereich mit acht Wächterpilzen.
 
 [HOYACORDATA]
 粉丝心叶兰
@@ -38614,70 +38627,70 @@ SDK初始化失败
 所有被施加大招效果的植物都有50%概率直接释放能量豆大招，但最多触发2颗
 
 [PEAVINE] 
-豌豆藤蔓
+Erbsenranke
 
 [PEAVINE_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方单行
-{KEYWORD}特点：{STAT}有概率发射种植在其上的豌豆类植物的豌豆子弹
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}豌豆藤蔓拜师变身茄子学习模仿能力，但因为弯腰捡了块橡皮导致没学完整，只学会了一半，能模仿行动却不能模仿外形。
+{KEYWORD}Reichweite: {STAT}Einzelreihe vorne
+{KEYWORD}Merkmale: {STAT}Chance, Erbsengeschosse von darüber gepflanzten Erbsenpflanzen abzufeuern
+{KEYWORD}Pflanzenmerkmale: {STAT}Grünpflanzen, Erbsengewächse
+{FLAVOR} Die Erbsenrebe wurde zur Lehrlingin der Aubergine und lernte die Fähigkeit zur Nachahmung. Da sie sich jedoch bückte, um einen Radiergummi aufzuheben, lernte sie die Fähigkeit nicht vollständig und nur zur Hälfte. Sie konnte Handlungen nachahmen, aber nicht das Aussehen.
 
 [PEAVINE_DESCRIPTION_HEADER]
-有概率发射种植在其上的豌豆类植物的豌豆子弹
+Hat die Chance, Erbsengeschosse von darüber gepflanzten Erbsenpflanzen abzufeuern
 
 [PEAVINE_TOOLTIP]
-有概率发射种植在其上的豌豆类植物的豌豆子弹
+Hat die Chance, Erbsengeschosse von darüber gepflanzten Erbsenpflanzen abzufeuern
 
 [PEAVINE_PRODUCT_SHORT_DESC]
-有概率发射种植在其上的豌豆类植物的豌豆子弹
+Es besteht die Chance, Erbsengeschosse von den darüber gepflanzten Erbsenpflanzen abzufeuern.
 
 [PEAVINE_SKILL_LEVEL1]
-豌豆光芒
+Erbsenlicht
 
 [PEAVINE_SKILL_LEVEL1_DES]
-为上方的豌豆类植物提供15%的攻击力加成。复制上方豌豆子弹的概率提升。
+Verleiht den darüber gepflanzten Erbsenpflanzen einen Angriffskraftbonus von 15 %. Erhöht die Chance, die darüber gepflanzten Erbsengeschosse zu kopieren.
 
 [PEAVINE_SKILL_LEVEL2]
-光芒强化
+Lichtverstärkung
 
 [PEAVINE_SKILL_LEVEL2_DES]
-为上方的豌豆类植物提供30%的攻击力加成。复制上方豌豆子弹的概率进一步提升。
+Verleiht den darüber gepflanzten Erbsenpflanzen einen Angriffskraftbonus von 30 %. Erhöht die Chance, die darüber gepflanzten Erbsengeschosse zu kopieren.
 
 [PEAVINE_SKILL_LEVEL5]
-豌豆共生
+Erbsensymbiose
 
 [PEAVINE_SKILL_LEVEL5_DES]
-此技能生效时，当种植豌豆类植物时，会立即附带种植1棵豌豆类藤蔓。
+Wenn diese Fertigkeit wirksam ist, wird beim Pflanzen von Erbsenpflanzen sofort eine Erbsenranke gepflanzt.
 
 [STORE_PRODUCT_AVATAR_PEAVINE_TITLE]
-豌豆藤蔓装扮
+Erbsenranken-Kostüm
 
 [PEAVINE_AVATAR_NAME]
-豌豆藤蔓装扮
+Erbsenranken-Kostüm
 
 [STORE_PRODUCT_AVATAR_PEAVINE]
-大招有概率发射各种子弹。
+Die Dünger Fähigkeit bietet die Chance, verschiedene Erbsen abzufeuern.
 
 [PEAVINE_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在豌豆藤蔓右侧时，会向僵尸发射直线飞行的豌豆子弹。如果上方种植的是豌豆类植物时，则有20%概率触发子弹复制，发射此植物基础特性的豌豆子弹。
+Erscheint ein Zombie rechts neben der Erbsenranke, feuert er Erbsenkugeln geradlinig auf ihn ab. Handelt es sich bei der Pflanze darüber um eine Erbsenpflanze, besteht eine Chance von 20 %, eine Kugelreplikation auszulösen, die Erbsenkugeln mit den Grundeigenschaften dieser Pflanze abfeuert.
 
 [PEAVINE_NEW_SKILL_LEVEL2_DES]
-当豌豆藤蔓上种植的是豌豆类植物时，会出现豌豆强化光芒，使该植物获得15%的攻击力加成。子弹复制的触发概率提升至60%。
+Wenn eine Erbsenpflanze an der Erbsenranke gepflanzt wird, erscheint ein Erbsenverstärkungslicht, das der Pflanze einen Angriffskraftbonus von 15 % verleiht. Die Wahrscheinlichkeit, eine Kugelreplikation auszulösen, erhöht sich auf 60 %.
 
 [PEAVINE_NEW_SKILL_LEVEL3_DES]
-豌豆强化光芒获得加强，能使豌豆类植物获得30%的攻击力加成。子弹复制的触发概率提升至80%。
+Das Erbsenverstärkungslicht wird verstärkt, wodurch Erbsenpflanzen einen Angriffskraftbonus von 30 % erhalten. Die Wahrscheinlichkeit der Kugelreplikation steigt auf 80 %.
 
 [PEAVINE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [PEAVINE_NEW_SKILL_LEVEL5_DES]
-此技能生效时，当种植豌豆类植物时，会立即附带种植1棵豌豆类藤蔓。（此技能为全局生效技能，未携带植物也可生效，可控制技能开关）
+Wenn diese Fähigkeit wirksam ist, wird beim Pflanzen von Erbsenpflanzen sofort eine Erbsenranke gepflanzt. (Diese Fähigkeit ist global und kann auch ohne Pflanzen wirksam sein. Sie kann den Fähigkeitswechsel steuern.)
 
 [PEAVINE_PLANTFOOD_DESCRIPTION]
-豌豆藤蔓立刻连续发射60颗豌豆子弹，倾泻向右侧的僵尸。
+Die Erbsenranke feuert sofort 60 Erbsenkugeln hintereinander ab, die auf die Zombies rechts treffen.
 
 [PEAVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-豌豆藤蔓立刻连续发射60颗^ff0000^各种种类的^oldclr^豌豆子弹，倾泻向右侧的僵尸。
+Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hintereinander ab, die auf den Zombie rechts herabregnen.
 
 [MAYBEE]
 蜜蜂铃兰
@@ -42571,49 +42584,49 @@ SDK初始化失败
 大钻头造成更强的缓速效果，造成伤害更高的爆炸，爆炸之后造成2秒眩晕
 
 [DRAFTODIL]
-气流水仙花
+Sturmglocke
 
 [DRAFTODIL_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}僵直不会飞行的僵尸，吹飞飞行和小鬼僵尸。
-{KEYWORD}植物特征：{STAT}白色植物,黄色植物
-{FLAVOR}气流水仙花看起来充满了热空气，但事实并非如此。她充满了高压气，有区别！
+{KEYWORD}Reichweite: {STAT} Gradeaus
+{KEYWORD}Merkmale: {STAT} Verlangsamt Zombies, die nicht fliegen können und pustet wegfliegende Zombies und Wicht-Zombies weg.
+{KEYWORD}Pflanzenmerkmale: {STAT} Weiße Pflanze, gelbe Pflanze
+{FLAVOR}Sturmglocke hat mehr als nur heiße Luft zu bieten. Bei ihr handelt es sich nämlich um stark komprimierte Luft – das ist ein Unterschied!
 
 [DRAFTODIL_DESCRIPTION_HEADER]
-发出气流短暂僵直不会飞行的僵尸，吹飞飞行和小鬼僵尸。
+Sturmglocken wehen dauerhaft, verlangsamen fliegende Zombies und schießen außerdem mit ihren Luftkanonen, die fliegende Zombies vom Rasen pusten.
 
 [DRAFTODIL_TOOLTIP]
-发出气流短暂僵直不会飞行的僵尸，吹飞飞行和小鬼僵尸。
+Verlangsamt fliegende Zombies und schaltet sie aus
 
 [DRAFTODIL_PRODUCT_SHORT_DESC]
-发出气流短暂僵直不会飞行的僵尸，吹飞飞行和小鬼僵尸。
+Sendet einen Luftstrom aus, der nicht fliegende Zombies vorübergehend betäubt und fliegende Zombies sowie Wichte wegpustet.
 
 [DRAFTODIL_PRODUCT_SHORT_DESC]
-发出气流短暂僵直不会飞行的僵尸，吹飞飞行和小鬼僵尸。
+Sendet einen Luftstrom aus, der nicht fliegende Zombies vorübergehend betäubt und fliegende Zombies sowie Wichte wegpustet.
 
 [DRAFTODIL_SKILL_LEVEL1]
-风力加强
+Stärkerer Wind
 
 [DRAFTODIL_SKILL_LEVEL1_DES]
-造成僵直概率和吹飞小鬼僵尸概率提升
+Erhöht die Chance, Zombies zu steifen und wegzublasen.
 
 [DRAFTODIL_SKILL_LEVEL2]
-超强风力
+Superstarker Wind
 
 [DRAFTODIL_SKILL_LEVEL2_DES]
-造成僵直概率和吹飞小鬼僵尸概率再次提升
+Erhöht die Chance, Zombies zu steifen und wegzublasen.
 
 [DRAFTODIL_SKILL_LEVEL5]
-龙卷旋风
+Tornado
 
 [DRAFTODIL_SKILL_LEVEL5_DES]
-攻击时有概率射出更强大的气流子弹，可穿透一个僵尸，对第一个僵尸造成时间更长的僵直，有极高概率吹飞小型僵尸，对第二个僵尸造成普通子弹的效果。
+Beim Angriff besteht die Chance, ein stärkeres Luftgeschoss abzufeuern. Dieses kann einen Zombie durchdringen und den ersten Zombie länger langsamer machen. Gleichzeitig besteht eine hohe Chance, kleine Zombies wegzublasen, wodurch der zweite Zombie die Wirkung eines normalen Geschosses hat.
 
 [STORE_PRODUCT_AVATAR_DRAFTODIL_TITLE]
-气流水仙花装扮
+Sturmglocke Narzissenkleid
 
 [STORE_PRODUCT_AVATAR_DRAFTODIL]
-增加2行散射的子弹
+Fügt zwei Reihen verstreuter Projektile hinzu
 
 [HAMMERFLOWER]
 铁锤兰
@@ -42752,70 +42765,73 @@ SDK初始化失败
 降低种植冷却20%
 
 [BUDUHBOOM]
-爆浆玉露
+Butterglöckchen
 
 [BUDUHBOOM_DESCRIPTION]
-{KEYWORD}范围：{STAT}3×3
-{KEYWORD}特点：{STAT}黄油爆炸造成3×3范围的爆炸和控制
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR} 爆浆玉露对黄油的痴迷总是让他一触即发，当它看到僵尸博士正在食用山寨品牌的黄油时，草坪上瞬间炸开了锅！现在，他准备给僵尸涂上黄油，然后随着沸腾的黄油，砰然爆炸！
+{KEYWORD}Reichweite: {STAT} 3×3
+{KEYWORD}Funktionen: {STAT} Butterglöckchen explodiert in einer 3×3-Reichweite und Buttert ein.
+{KEYWORD}Pflanzenfunktionen: {STAT} Gelbe Pflanze
+{FLAVOR}Butterglöckchens Liebe zu guter Butter ist grenzenlos. Man kann sich also vorstellen, was auf dem Rasen los war, als Zomboss sein neuestes Butterersatzprodukt präsentierte. Butterglöckchen ist durchgedreht – und buttert seitdem Zombies im Akkord ein. Heiß und fettig!
 
 [BUDUHBOOM_DESCRIPTION_HEADER]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+Diese Sofort-Pflanze ist im Grunde ein unter Hochdruck stehendes Behältnis voll kochend heißer Butter. Macht sie BUMM, verbrennt sie Zombies in der näheren Umgebung und schleudert Butterbatzen über den ganzen Rasen, die jeden Zombie lähmen, der das Pech hat, im Butterregen zu stehen.
 
 [BUDUHBOOM_TOOLTIP]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+Verursacht massiven Schaden in einem Bereich und hinterlässt Butterfallen auf Feldern.
 
 [BUDUHBOOM_PRODUCT_SHORT_DESC]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+Butterexplosion verursacht Explosion und Kontrolle in einem Bereich von 3×3 und kann Schleimzombies einfrieren, sodass sie sich nicht teilen.
 
 [BUDUHBOOM_PRODUCT_SHORT_DESC]
-黄油爆炸造成3×3范围的爆炸和控制，可以凝住史莱姆僵尸使其不再分裂
+Butterexplosion verursacht Explosion und Kontrolle in einem Bereich von 3×3 und kann Schleimzombies einfrieren, sodass sie sich nicht teilen.
 
 [BUDUHBOOM_SKILL1_LEVEL1]
-更多黄油
+Mehr Butter
 
 [BUDUHBOOM_SKILL_LEVEL1]
-更多黄油
+Mehr Butter
 
 [BUDUHBOOM_SKILL_LEVEL1_DES]
-爆炸结束后的黄油坑投掷数量+1
+Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +1.
 
 [BUDUHBOOM_SKILL1_LEVEL1_DES]
-爆炸结束后的黄油坑投掷数量+1
+Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +1.
+
+[BUDUHBOOM_SKILL1_LEVEL1_DES]
+Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +1
 
 [BUDUHBOOM_SKILL1_LEVEL2]
-黄油地狱
+Butterhölle
 
-[BUDUHBOOM_SKILL_LEVEL2]
-黄油地狱
+[BUDUHBOOM_ SKILL_LEVEL2]
+Butterhölle
 
 [BUDUHBOOM_SKILL_LEVEL2_DES]
-爆炸结束后的黄油坑投掷数量+2
+Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +2.
 
 [BUDUHBOOM_SKILL1_LEVEL2_DES]
-爆炸结束后的黄油坑投掷数量+2
+Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +2.
 
 [BUDUHBOOM_NEW_SKILL_LEVEL1_DES]
-种植后直接爆炸造成3×3范围的爆炸伤害和黄油控制，可以凝住史莱姆僵尸使其不再分裂
+Nach dem Einsetzen explodiert es direkt und verursacht Explosionsschaden und Butterkontrolle im Bereich von 3×3. Schleimzombies können dadurch eingefroren werden, sodass sie sich nicht teilen.
 
 [BUDUHBOOM_NEW_SKILL_LEVEL2_DES]
-爆炸结束后的黄油坑投掷数量+1
+Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +1.
 
 [BUDUHBOOM_NEW_SKILL_LEVEL3_DES]
-爆炸结束后的黄油坑投掷数量+2
+Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +2
 
 [BUDUHBOOM_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine Dünger-Attacke.
 
 [BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine Dünger-Attacke.
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]
-爆浆玉露装扮
+Explodierender Jadetau-Outfit
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM]
-降低种植冷却20%
+Reduziert die Abklingzeit von dem Butterglöckchen um 20 %
 
 [FISHHOOKGRASS]
 鱼钩草
@@ -47200,150 +47216,151 @@ X{NUM}刷新
 基因序列组
 
 [NOT_YET_UNLOCKED]
-暂未解锁
+Noch nicht freigeschaltet
 
 [ALREADY_MAX_LEVEL]
-已满级
+Maximales Level
 
 [BONUS_ATTRIBUTES]
-加成属性
+Bonusattribute
 
 [PLANT_CLASSIFY]
-植物分类
+Pflanzenklassifizierung
 
 [PROFESSION_SHOOTER]
-远程
+Fernkampf
 
 [PROFESSION_SHOOTER_DESCRIPTION]
-擅长远距离攻击的输出职业
+DPS-Beruf mit guten Fähigkeiten für Angriffe auf lange Distanz
 
 [PROFESSION_WARRIOR]
-先锋
+Vorhut
 
 [PROFESSION_WARRIOR_DESCRIPTION]
-擅长近距离攻击的输出职业
+DPS-Beruf mit guten Fähigkeiten für Angriffe auf kurze Distanz
 
 [PROFESSION_SUPPORTER]
-辅助
+Unterstützer
 
 [PROFESSION_SUPPORTER_DESCRIPTION]
-能提供增益加成或解除植物负面状态的职业
+Beruf, der Boni gewährt oder negative Zustände von Pflanzen beseitigt
 
 [PROFESSION_PROTECTOR]
-坚韧
+Zähigkeit
 
 [PROFESSION_PROTECTOR_DESCRIPTION]
-擅长阻挡僵尸的职业
+Beruf mit guten Fähigkeiten für Zombies blockieren
 
-[PROFESSION_SUNMAKER]
-阳光
+[PROFESSION_SUNM AKER]
+Sonnenschein
 
 [PROFESSION_SUNMAKER_DESCRIPTION]
-能生产阳光的职业
+Berufe, die Sonnenlicht erzeugen können
 
 [PROFESSION_SPECIALIST]
-奇兵
+Spezialkräfte
 
 [PROFESSION_SPECIALIST_DESCRIPTION]
-拥有特殊攻击手段或克制僵尸的职业
+Berufe mit besonderen Angriffsmethoden oder zur Abwehr von Zombies
 
 [PLANT_DETAILS]
-详细属性
+Detaillierte Attribute
 
 [DETAIL_SUNCOST]
-阳光消耗
+Sonnenscheinverbrauch
 
 [DETAIL_COOLDOWN]
-种植冷却
+Pflanzenkühlung
 
 [DETAIL_HITPOINT]
-生命值
+Gesundheit
 
 [DETAIL_DAMAGE]
-攻击力
+Angriffskraft
 
 [DETAIL_ATTACK_INTERVAL]
-攻击间隔
+Angriffsintervall
 
 [DETAIL_RANGE]
-攻击范围
+Angriffsreichweite
 
 [DETAIL_AREA]
-攻击目标
+Angriffsfläche
 
 [DETAIL_DURATION]
-持续时间
+Dauer
 
 [DETAIL_REST]
-攻击休息
+Angriffspause
 
 [DETAIL_YIELD]
-阳光产量
+Sonnenlichtertrag
 
 [DETAIL_YIELD_INTERVAL]
-生产间隔
+Produktionsintervall
 
 [PLANT_LIST]
-植物列表
+Pflanzenliste
 
 [PLANT_SKILL]
-植物技能
+Pflanzenfähigkeit
 
 [GENE_TALENT_TOTAL_LEVEL]
-基因序列总等级：{NUM1}/{NUM2}
+Gesamtstufe der Gensequenz: {NUM1}/{NUM2}
 
 [GENE_TALENT_UNLOCK_ENHANCEMENT_NEED]
-需要基因序列等级：{NUM}
+Erforderliche Gensequenzstufe: {NUM}
 
 [GENE_TALENT_UNLOCK_TALENT_NEED]
-需要{NUM}
+Benötigt {NUM}
 
-[GENE_TALENT_UPGRADE_COST_TIPS]
-升级将消耗基因序列{NUM}级
+[GENE_TALENT_UPGRADE_COS T_TIPS]
+Upgrades verbrauchen {NUM} Gensequenzstufen.
 
 [GENE_TALENT_TITLE_SHOOTER_1]
-攻击力加成-远程
+Angriffskraftbonus – Langstrecken
 
 [GENE_TALENT_DESCRIPTION_SHOOTER_1]
-给全部远程植物提供的攻击力加成效果
+Angriffskraftbonus für alle Pflanzen mit großer Reichweite.
 
 [GENE_DESCRIPTION_TITLE]
-基因编辑玩法说明
+Genbearbeitung Anleitung
 
 [GENE_DESCRIPTION]
-基因编辑玩法规则：
-1.基因编辑中可以通过消耗基因原质来提炼基因序列。也可以在基因序列商店中通过消耗万能基因币直接兑换。
-2.每个基因序列在解锁后可以给对应植物提供加成效果，并在升级后提升加成数值，满级为10级。
-3.升级基因序列需要该植物对应的基因精华，每级消耗1点基因精华。
+Spielregeln für die Genbearbeitung:
 
-基因提炼规则：
-1.提炼出的基因序列稀有度概率公示：白色基因序列30%、绿色基因序列25%、蓝色基因序列20%、紫色基因序列15%、橙色基因序列10%。
-2.首次提炼出的基因序列会解锁该基因序列；再次提炼出时会转换该植物对应的基因精华；满级后提炼出时会转换为万能基因币。
-3.转换数量规则为：白色13枚、绿色16枚、蓝色19枚、紫色22枚、橙色25枚。
+1. Gensequenzen können durch den Verbrauch von Genessenz während der Genbearbeitung verfeinert werden. Sie können auch direkt im Gensequenz-Store gegen universelle Genmünzen eingetauscht werden.
 
-基因序列商店规则：
-1.基因序列根据稀有度区别价格：白色39枚、绿色48枚、蓝色57枚、紫色66枚、橙色75枚。
-2.未解锁时可购买到基因序列；已解锁时可购买到基因精华；已满级后该植物基因将从商店中消失。
+2. Jede Gensequenz verleiht der entsprechenden Pflanze nach dem Freischalten einen Bonuseffekt. Dieser Bonuswert erhöht sich nach dem Upgrade auf maximal 10.
 
-基因原质和万能基因币获取途径：
-1.每位玩家初始获得10个基因原质。
-2.基因原质可通过双人对决中的段位奖励获得。
-3.基因原质和万能基因币可通过购买基因礼包及其他付费礼包获得。
+3. Das Upgrade einer Gensequenz erfordert die entsprechende Genessenz der Pflanze. Jedes Level verbraucht 1 Genessenz.
+
+Regeln für die Genextraktion:
+1. Die Wahrscheinlichkeit der Seltenheit der extrahierten Gensequenz wird angegeben: weiße Gensequenz 30 %, grüne Gensequenz 25 %, blaue Gensequenz 20 %, violette Gensequenz 15 %, orange Gensequenz 10 %.
+2. Die erste extrahierte Gensequenz schaltet die Gensequenz frei. Bei erneuter Extraktion wird die der Pflanze entsprechende Genessenz umgewandelt. Bei Erreichen des maximalen Levels wird die Extraktion in universelle Genmünzen umgewandelt.
+3. Die Umrechnungsmengenregel lautet: 13 weiße, 16 grüne, 19 blaue, 22 violette und 25 orangefarbene Gensequenzen.
+Regeln für den Gensequenz-Shop:
+1. Der Preis der Gensequenzen variiert je nach Seltenheit: 39 weiße, 48 grüne, 57 blaue, 66 violette und 75 orangefarbene Gensequenzen.
+2. Gensequenzen können gekauft werden, wenn sie noch nicht freigeschaltet sind. Genessenz kann gekauft werden, wenn sie freigeschaltet ist. Das Pflanzengen verschwindet nach Erreichen des Höchstlevels aus dem Shop.
+So erhältst du Genessenz und universelle Genmünzen:
+1. Jeder Spieler erhält zunächst 10 Genessenz.
+2. Genessenz kann durch Rangbelohnungen in Zwei-Spieler-Duellen erhalten werden.
+3. Genessenz und universelle Genmünzen können durch den Kauf von Genpaketen und anderen kostenpflichtigen Geschenkpaketen erhalten werden.
 
 [GENE_HOWTOPLAY_1_DESCRIPTION]
-植物基因编辑能给植物提供额外的加成效果，让植物变得更加强大，更好地守卫家园抵御僵尸！
+Die Genbearbeitung von Pflanzen verleiht Pflanzen zusätzliche Bonuseffekte, die sie stärker machen und ihre Behausungen besser gegen Zombies verteidigen können!
 
 [GENE_HOWTOPLAY_2_DESCRIPTION]
-消耗基因原质在基因提炼机中加工，可以获得随机基因序列。如果已解锁该基因序列，则会转化为基因精华。
+Indem du Genesenz konsumierst und in einem Genveredler verarbeitest, erhältst du eine zufällige Gensequenz. Sobald die Gensequenz freigeschaltet wurde, wird sie in Genesenz umgewandelt.
 
 [GENE_HOWTOPLAY_3_DESCRIPTION]
-基因精华用于升级此植物的基因序列等级，等级提升后加成数值也会提升，满级为10级。
+Genesenz dient zum Verbessern des Gensequenzlevels dieser Pflanze. Der Bonuswert erhöht sich mit jedem Level. Das Maximallevel liegt bei 10.
 
 [GENE_HOWTOPLAY_4_DESCRIPTION]
-满级时再次获得基因精华和购买基因编辑礼包，都可获得万能基因币，在商店内可直接购买心仪的基因序列。
+Sobald das Maximallevel erreicht ist, erhältst du universelle Genmünzen, indem du Genesenz erneut erhältst und Genbearbeitungs-Geschenkpakete kaufst. Die gewünschte Gensequenz kannst du direkt im Shop erwerben.
 
 [GENE_FACTOR_SHOP]
-购买基因礼包
+Genpakete kaufen
 
 [GENE_FACTOR_BUNDLE1]
 小份基因礼包
@@ -47392,19 +47409,19 @@ X{NUM}刷新
 新增基因序列
 
 [WHITE]
-白色
+Weiß
 
 [GREEN]
-绿色
+Grün
 
 [BLUE]
-蓝色
+Blau
 
 [PURPLE]
-紫色
+Lila
 
 [ORANGE]
-橙色
+Orange
 
 [GENE_SEQUENCE_LEVEL_LEFT]
 基因序列等级：{PARAM}
@@ -49536,7 +49553,7 @@ J、秒杀礼包：购买礼包获得^FF0000^ 植物碎片*10^oldclr^和10-1000�
 K、神器材料礼包：购买礼包获得^FF0000^ 时空能量罐*20^oldclr^和10-180钻石，35%的概率获得时空立方*10；
 
 [CARNIVAL]
-狂欢嘉年华
+Karneval
 
 [CARNIVAL_SHORT_DESCRIPTION]
 参与狂欢嘉年华，购买兑换券，兑换超值礼包，更可获得惊喜奖励！
@@ -53051,117 +53068,119 @@ Would you like to purchase a Security Gourd to push zombies back and add 30 seco
 关卡中没有防具的普通僵尸，会戴上防具
 
 [THEME_RIFT_NAME]
-僵尸加速并封禁植物
+Zombies beschleunigen und blockieren Pflanzen.
 
 [THEME_RIFT_DESCRIPTION]
-1.每次关卡胜利，封锁自己三颗植物，重复通关，重新封锁，下一关卡无法使用
-2.僵尸速度加快
+1. Blockiere jedes Mal, wenn du ein Level gewinnst, drei eigene Pflanzen. Wiederhole das Level und blockiere erneut. Das nächste Level kann nicht genutzt werden.
+
+2. Zombies beschleunigen
 
 [THEME_ZOMBOSS_NAME]
-植物射程变短，变脆弱
+Pflanzen haben eine kürzere Reichweite und werden zerbrechlicher.
 
 [THEME_ZOMBOSS_DESCRIPTION]
-1.抛投类植物，射程变为三格距离
-2.从之前的主题策略随机生效一个
+1. Wurfpflanzen haben eine Reichweite von drei Gittern.
+
+2. Eine zufällige Strategie aus dem vorherigen Thema wird wirksam.
 
 [THEME_INVISIBLE_NAME]
-隐形战争
+Unsichtbare Zombies
 
 [THEME_INVISIBLE_DESCRIPTION]
-僵尸出现时将会隐身，只有特定植物能看见
+Zombies sind unsichtbar, wenn sie erscheinen, und nur bestimmte Pflanzen können sie sehen.
 
 [THEME_RUSHER_NAME]
-小小大僵尸
+Kleine große Zombies
 
 [THEME_RUSHER_DESCRIPTION]
-僵尸将缩小体积，获得一定程度的加速
+Zombies schrumpfen und gewinnen an Geschwindigkeit.
 
 [THEME_SUN_NAME]
-阳光飞逝
+Sonnenschein verfliegt.
 
 [THEME_SUN_DESCRIPTION]
-每局游戏开始1分钟后减少获得的阳光
+Die Menge an Sonnenlicht wird nach jeweils 1 Minute reduziert.
 
 [THEME_DARK_NAME]
-打雷天
+Gewitter
 
-[THEME_DARK_DESCRIPTION]
-每隔一定时间进入黑暗
+[THEME_DARK_DESCRIPTION] CRIPTION]
+In regelmäßigen Abständen tritt Dunkelheit ein.
 
 [THEME_BLIZZARD_NAME]
-冰雪节
+Schneefest
 
 [THEME_BLIZZARD_DESCRIPTION]
-每隔一段时间场上刮起暴风雪，对僵尸和植物造成冰冻效果
+Ein Schneesturm fegt in regelmäßigen Abständen über das Feld und friert Zombies und Pflanzen ein.
 
 [THEME_GRAVESTONE_NAME]
-死亡墓碑
+Todesgrabstein
 
 [THEME_GRAVESTONE_DESCRIPTION]
-僵尸死亡后生成墓碑
+Grabstein nach dem Tod eines Zombies
 
 [THEME_LIGHTING_NAME]
-雷暴
+Gewitter
 
 [THEME_LIGHTING_DESCRIPTION]
-产生X型伤害，在水中会增加更多范围
+Verursacht X-förmigen Schaden und erhöht die Reichweite im Wasser.
 
 [THEME_EXPLODER_NAME]
-两败俱伤
+Beide Seiten leiden.
 
 [THEME_EXPLODER_DESCRIPTION]
-所有植物死亡后爆炸产生伤害
+Alle Pflanzen explodieren und verursachen Schaden beim Tod.
 
 [THEME_AOE_NAME]
-炸翻天
+Explosion
 
 [THEME_AOE_DESCRIPTION]
-爆炸类植物伤害翻倍，阳光消耗减半
+Der Schaden explosiver Pflanzen verdoppelt sich, der Sonnenlichtverbrauch halbiert sich.
 
 [THEME_FASTCD_NAME]
-加速防御
+Stärkt die Verteidigungspflanzen.
 
 [THEME_FASTCD_DESCRIPTION]
-防御类植物种植冷却时间减半
+Die Abklingzeit defensiver Pflanzen halbiert sich.
 
 [THEME_MELEE_NAME]
-近战之光
+Nahkampfpflicht
 
 [THEME_MELEE_DESCRIPTION]
-近战植物攻击力翻倍
+Nahkampf-Pflanzenangriffskraft verdoppelt
 
 [THEME_LEMON_NAME]
-腐蚀酸雨
+Ätzender Saurer Regen
 
 [THEME_LEMON_DESCRIPTION]
-酸雨会腐蚀僵尸和你的植物！
+Saurer Regen ätzt Zombies und Pflanzen!
 
 [THEME_SEED_RAIN_NAME]
-种子雨
+Es regnet Samen
 
 [THEME_SEED_RAIN_DESCRIPTION]
-天空中每隔一段时间掉落植物！（仅在普通关卡生效）
+Pflanzen fallen in regelmäßigen Abständen vom Himmel! (Nur in normalen Leveln wirksam)
 
 [THEME_BALLOON_NAME]
-气球满天飞
+Ballons fliegen durch den Himmel
 
 [THEME_BALLOON_DESCRIPTION]
-天空中每隔一段时间掉落气球
+Ballons fallen in regelmäßigen Abständen vom Himmel
 
 [THEME_PIGGYBANK_NAME]
-碎碎平安
+Glücksschweinchen
 
 [THEME_PIGGYBANK_DESCRIPTION]
-僵尸死亡后生成存钱罐，将其砸碎后掉落金币
+Nach dem Tod der Zombies werden Sparschweine generiert. Zerschmettert man sie, erhält man Münzen.
 
 [THEME_PLANTSEED_NAME]
-斩草不除根
+Schneide das Gras ab, aber nicht die Wurzel.
 
 [THEME_PLANTSEED_DESCRIPTION]
-植物死亡后变成种子，一段时间后成长为一颗新的随机植物
+Wenn Pflanzen sterben, verwandeln sie sich in Samen, aus denen nach einiger Zeit eine neue Pflanze wächst.
 
 [THEME_ENERGYFLY_NAME]
-能量飞逝
+Energiefliegen
 
 [THEME_ENERGYFLY_DESCRIPTION]
 每种植一颗植物，时空能量消耗1点
@@ -55842,70 +55861,70 @@ VIP福利
 道 具
 
 [UI_BAG_PLANT_PIECE]
-植物碎片
+Pflanzenteile
 
 [UI_BAG_AVATAR_PIECE]
-装扮碎片
+Kostümteile
 
 [UI_BAG_ACCESSORY_PIECE]
-挂件碎片
+Accessoirteile
 
 [UI_BAG_OTHER_ITEM]
-其他道具
+Andere Gegenstände
 
 [UI_BAG_PLANT_LEVELUP]
-植物进阶
+Pflanze Verbessern
 
 [UI_BAG_TRANS_GENOSIS]
 转基因
 
 [UI_BAG_AVATAR_EXCHANGE]
-装扮兑换
+Kostümtausch
 
 [UI_BAG_ACCESSORY_EXCHANGE]
-挂件兑换
+Accessoiretausch
 
 [UI_BAG_ITEM_USE]
-道具使用
+Verwenden
 
 [UI_BAG_PARTY_ASSIST_EXCHANGE]
-钻石兑换
+Diamantenbörse
 
 [UI_BAG_ITEM_COUNT]
-持有数量:^ff0000^{NUMS}^oldclr^
+Anzahl der Bestände: ^ff0000^{NUMS}^oldclr^
 
 [UI_BAG_ITEM_NAME]
 ^ff0000^{NAME}^oldclr^
 
 [UI_BAG_PIECE_TITLE]
-碎片作用:{DESC}
+Fragmentfunktion: {DESC}
 
 [UI_BAG_PLANT_PIECE_DESC]
-碎片作用:合成植物{DESC}
+Fragmentfunktion: Pflanzen synthetisieren {DESC}
 
 [UI_BAG_AVATAR_PIECE_DESC]
-碎片作用:合成{DESC}装扮
+Fragmentfunktion: {DESC} Kostüme synthetisieren
 
 [UI_BAG_ACCESSORY_PIECE_DESC]
-碎片作用:合成挂件{DESC}
+Fragmentfunktion: Anhänger synthetisieren {DESC}
 
 [UI_BAG_MATERIAL_DESC]
-材料作用:{DESC}
+Materialfunktion: {DESC}
 
 [UI_BAG_MATERIAL_OBJECT_DESC]
-藏品作用:{DESC}
+Sammlungsfunktion: {DESC}
 
 [UI_BAG_MATERIAL_RARE]
-藏品稀有度:
+Sammlung Seltenheit:
 
-[RARE1]
-稀有
+[SELTEN1]
+Selten
 
-[RARE2]
-史诗
+[SELTEN2]
+Episch
 
-[RARE3]
-传说
+[SELTEN3]
+Legendär
 
 [COLLECTION_USE]
 场上所有植物每秒有3%的概率进入持续5秒的精准打击状态，精准打击状态下植物的每次伤害额外追加20%的真实伤害。真实伤害无视护盾与防具(创意庭院模式下不生效)
@@ -57084,7 +57103,7 @@ Z联赛结算奖励
 从天而降
 
 [ZOMBIE_CATAPULT]
-篮球车僵尸
+Katapult Zombie
 
 [ZOMBIE_CATAPULT_DESCRIPTION]
 篮球车僵尸可以利用弹射器来发射任何东西，但篮球似乎是绝佳选择，也是最明显的选择。
@@ -62770,7 +62789,7 @@ NO41平行宇宙秘境说明
 您的账号已被封
 
 [WAVE_1]
-第一波
+Welle 1
 
 [WAVE_2]
 第二波
@@ -66477,7 +66496,7 @@ FPS：{NUM}
 装扮
 
 [NEW_PLANT_UI_TAB_ACCESSORY_TEXT]
-挂件
+Accessoire
 
 [NEW_PLANT_UI_PLANT_VALUE_TAG_DPS]
 输出
@@ -75788,4 +75807,9 @@ DJ芦荟
 下个金钟罩充能还剩{NUM}秒
 
 [PVZ2_CHINESE_END]
+
+D]
+
+
+
 
