@@ -43708,7 +43708,7 @@ Kann Giftnebel absorbieren und so zusätzlichen Schaden verursachen.
 {FLAVOR} Der Lotuswurzelschütze ist ein erfahrener Umweltschützer. Wenn er den Dunst am Himmel sieht, will er immer etwas abschießen.
 
 [LOTUSSHOOTER_TOOLTIP]
-Schießt Wasserpfeile ab, um anzugreifen. Diese absorbieren giftigen Nebel und verleihen dem Angriff eine vergiftende Wirkung.
+Schießt Wasserpfeile ab und absorbiert giftigen Nebel.
 
 [LOTUSSHOOTER_SKILL_LEVEL1]
 Mehrere Wasserpfeile
