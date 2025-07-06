@@ -3627,16 +3627,16 @@ Chinese_China
 {NPC_ENTER:crazydaveicon}{PLAYFUL}噢，它在散发着诱人的味道，赶紧过去！
 
 [NEW_CONTENT_DOWNLOADING]
-新内容下载中…
+Lädt neuen Inhalt herunter…
 
 [NEW_HERO_EVENT_HEADER]
 英雄事迹开始记载了！
 
 [NEW_USER]
-新用户
+Neuer Benutzer
 
 [NEXT_STAR_BUTTON]
-下一颗星
+Nächster Stern
 
 [NO_WINDOWED_MODE]
 无窗口模式
@@ -3673,13 +3673,13 @@ Chinese_China
 3D加速
 
 [OPTIONS_FULL_SCREEN]
-全屏幕显示
+Vollbildschirm
 
 [OPTIONS_MUSIC_LABEL]
-音乐
+Musik
 
 [OPTIONS_SOUNDFX]
-音效
+Sound Lautstärke
 
 [OUT_OF_CONTENT_CONFIRM]
 现在下载
@@ -3718,41 +3718,41 @@ Chinese_China
 下载的内容可能已经破损。更新内容将需要再被下载一次。
 
 [PAUSED_HEADER]
-暂停
+Spiel Pausiert
 
 [PEAPOD]
-豌豆荚
+Erbsenhülse
 
 [PEAPOD_DESCRIPTION]
-{KEYWORD}伤害：{STAT}中等（每颗）
-{KEYWORD}特殊：{STAT}通过多重种植方式加强火力
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族、兄弟成群
-{FLAVOR}豌豆荚毕业于职业小丑学院的空间量子力学专业，他是家族中的的开心果，大家都爱他。
+{KEYWORD}Schaden: {STAT}Mittel (pro Kugel)
+{KEYWORD}Spezial: {STAT}Erhöhte Feuerkraft durch verschiedene Pflanzmethoden
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen, Erbsengewächse, Brüder in Gruppen
+{FLAVOR}Die Erbsenhülse hat an der Clownschule Raumquantenmechanik studiert und ist bei Alt und Jung beliebt.
 
 [PEAPOD_DESCRIPTION_HEADER]
-堆叠种植多棵豌豆使威力升至5倍！
+Pflanze mehrere Erbsenhülsen auf einem Feld, um die bis zu fünffache Zerstörungskraft zu erreichen.
 
 [PEAPOD_PLANTFOOD]
-出现超大的豌豆脑袋并射出5颗超大的豌豆。
+Ein monströser Erbsenkanonenkopf erscheint und verschießt 5 riesige Erbsen.
 
 [PEAPOD_TOOLTIP]
-堆叠种植数棵豌豆，造成多倍伤害。
+Pflanze mehrere auf derselben Stelle und multipliziere den Schaden
 
 [PEASHOOTER]
 Erbsenkanone
 
 [PEASHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}“问我成功的滋味如何？”豌豆射手慢悠悠地啜了一口热茶。“这个我现在不能告诉你，我正在整理我的商业合同。这是我的外套，保管好！”
+{KEYWORD}Pflanzenmerkmale: {STAT}Grünpflanzen, Erbsengewächse
+{FLAVOR}„Wie es ist, berühmt zu sein?", fragt die Erbsenkanone und nippt an einer Flasche Wasser. "Sorry, hab grad keine Zeit, muss meinen Merchandising-Deal eintüten. Hier, halt mal meinen Spelzmantel.“
 
 [PEASHOOTER_DESCRIPTION_HEADER]
-豌豆射手，你的第一道防线，发射豌豆攻击僵尸。
+Schießt mit Erbsen auf den Feind.
 
 [PEASHOOTER_PLANTFOOD]
-连续发射一串豌豆，造成巨大伤害。
+Feuert viele Erbsen auf einmal ab.
 
 [PEASHOOTER_TOOLTIP]
-向敌人发射豌豆。
+Schießt mit Erbsen auf den Feind.
 
 [PIRATE]
 海盗港湾
@@ -55842,19 +55842,19 @@ VIP福利
 道 具
 
 [UI_BAG_PLANT_PIECE]
-植物碎片
+Pflanzenteile
 
 [UI_BAG_AVATAR_PIECE]
-装扮碎片
+Kostümteile
 
 [UI_BAG_ACCESSORY_PIECE]
-挂件碎片
+Accessoirteile
 
 [UI_BAG_OTHER_ITEM]
-其他道具
+Andere Gegenstände
 
 [UI_BAG_PLANT_LEVELUP]
-植物进阶
+Pflanzen Leveln
 
 [UI_BAG_TRANS_GENOSIS]
 转基因
@@ -55866,7 +55866,7 @@ VIP福利
 挂件兑换
 
 [UI_BAG_ITEM_USE]
-道具使用
+Verwenden
 
 [UI_BAG_PARTY_ASSIST_EXCHANGE]
 钻石兑换
@@ -62770,7 +62770,7 @@ NO41平行宇宙秘境说明
 您的账号已被封
 
 [WAVE_1]
-第一波
+Welle 1
 
 [WAVE_2]
 第二波
