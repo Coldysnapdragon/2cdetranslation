@@ -24588,97 +24588,97 @@ x {SPEED}
 解压缩失败
 
 [GACHA_ITEM_NORMAL_HEADER]
-普通宝物
+Normaler Schatz
 
 [GACHA_ITEM_NORMAL_HEADER10]
-普通宝物x10
+Normaler Schatz x10
 
 [GACHA_ITEM_NORMAL_DES]
-可获得 ^FF0000 {NUMBER} ^oldclr 金币
-额外赠送植物或植物碎片
-品质：^a3a3a3 白色 ^oldclr ^4ca830 绿色 ^oldclr ^3365ce 蓝色 ^oldclr ^7300c7 紫色 ^oldclr
+Holt ^FF0000 {NUMBER} ^oldclr Goldmünzen
+Zusätzliche Pflanzen oder Pflanzenfragmente
+Qualität: ^a3a3a3 Weiß ^oldclr ^4ca830 Grün ^oldclr ^3365ce Blau ^oldclr ^7300c7 Lila ^oldclr
 
 [GACHA_ITEM_RARE_HEADER]
-稀有宝物
+Seltener Schatz
 
 [GACHA_ITEM_RARE_HEADER10]
-稀有宝物x10
+Seltener Schatz x10
 
 [GACHA_ITEM_RARE_DES]
-可获得 ^FF0000 {NUMBER} ^oldclr 金币
-额外赠送植物或植物碎片
-品质：^3365ce 蓝色 ^oldclr ^7300c7 紫色 ^oldclr ^ef7600 橙色 ^oldclr
+Holt ^FF0000 {NUMBER} ^oldclr Goldmünzen
+Verschenkt zusätzliche Pflanzen oder Pflanzenfragmente
+Qualität: ^3365ce Blau ^oldclr ^7300c7 Lila ^oldclr ^ef7600 Orange ^oldclr
 
 [GACHA_ITEM_LEGEND_HEADER]
-传奇宝物
+Legendärer Schatz
 
 [GACHA_ITEM_LEGEND_HEADER10]
-传奇宝物x10
+Legendärer Schatz x10
 
 [GACHA_ITEM_LEGEND_DES]
-可获得 ^FF0000 {NUMBER} ^oldclr 金币
-赠送植物或植物碎片奖励
-品质：^7300c7 紫色 ^oldclr ^ef7600 橙色 ^oldclr
+Holt euch ^FF0000 {NUMBER} ^oldclr Goldmünzen
+Verschenkt zusätzliche Pflanzen oder Pflanzenfragmente
+Qualität: ^7300c7 Lila ^oldclr ^ef7600 Orange ^oldclr
 
 [GACHA_ITEM_AVATAR_HEADER]
-装扮宝物
+Kostümschatz
 
 [GACHA_ITEM_AVATAR_HEADER10]
-装扮宝物x10
+Kostümschatz x10
 
 [GACHA_ITEM_AVATAR_DES]
-可获得 ^FF0000 {NUMBER} ^oldclr 金币
-赠送装扮或装扮碎片奖励
+Holt euch ^FF0000 {NUMBER} ^oldclr-Münzen
+Verschenkte Kostüme oder Kostümfragmente als Belohnung
 
 [GACHA_ITEM_PREVIEW]
-Vorschau
+Ziehen
 
 [GACHA_ITEM_DRAW_NORMAL_DES]
-^FF0000 {NUMBER} ^oldclr 金币
-赠送植物或植物碎片奖励
+^FF0000 {NUMBER} ^oldclr Goldmünzen
+Belohnt mit einer Pflanze oder einem Pflanzenfragment.
 
 [GACHA_ITEM_DRAW_NORMAL_DES_10]
-^FF0000 {NUMBER} ^oldclr 金币
-赠送1棵植物和^FF0000 10-90 ^oldclr 个碎片
+^FF0000 {NUMBER} ^oldclr Goldmünzen
+Belohnt mit 1 Pflanze und ^FF0000 10–90 ^oldclr Fragmenten.
 
 [GACHA_ITEM_DRAW_RARE_DES]
-^FF0000 {NUMBER} ^oldclr 金币
-赠送一个^3365ce 蓝色 ^oldclr 或以上奖励
+^FF0000 {NUMBER} ^oldclr Goldmünzen
+Belohnt mit ^3365ce blauem ^oldclr oder höher.
 
 [GACHA_ITEM_DRAW_RARE_DES_10]
-^FF0000 {NUMBER} ^oldclr 金币
-赠送1棵植物和^FF0000 10-90 ^oldclr 个碎片
+^FF0000 {NUMBER} ^oldclr Goldmünzen
+Belohnt mit 1 Pflanze und ^FF0000 10–90 ^oldclr Scherben
 
 [GACHA_ITEM_DRAW_LEGEND_DES]
-^FF0000 {NUMBER} ^oldclr 金币
-赠送一个^7300c7 紫色 ^oldclr 或以上奖励
+^FF0000 {NUMBER} ^oldclr Goldmünzen
+Verschenke eine lila ^oldclr-Belohnung im Wert von ^7300c7 oder höher.
 
 [GACHA_ITEM_DRAW_LEGEND_DES_10]
-^FF0000 {NUMBER} ^oldclr 金币
-赠送1棵^FF9900 橙色植物 ^oldclr 和^FF0000 45-90 ^oldclr个碎片
+^FF0000 {NUMBER} ^oldclr Goldmünzen
+Verschenke eine orange ^FF9900 Pflanze ^oldclr und ^FF0000 45-90 ^oldclr Scherben.
 
 [GACHA_ITEM_DRAW_AVATAR_DES]
-^FF0000 {NUMBER} ^oldclr 金币
-赠送植物装扮或碎片
+^FF0000 {NUMBER} ^oldclr Goldmünzen
+Verschenke ein Pflanzenkostüm oder eine Scherbe.
 
 [GACHA_ITEM_DRAW_AVATAR_DES_10]
-^FF0000 {NUMBER} ^oldclr 金币
-赠送植物装扮或碎片
+^FF0000 {NUMBER} ^oldclr Goldmünzen
+Verschenke Pflanzenkostüme oder Fragmente
 
 [GACHA_TEM_DRAW_PRICE]
-{NUMBER}开启
+{NUMBER} geöffnet
 
 [GACHA_ACTIVITY_CLOSED]
-活动未开启
+Aktivität nicht geöffnet
 
 [GACHA_ACTIVITY_DATA_ERROR]
-活动配置出错
+Fehler bei der Aktivitätskonfiguration
 
 [GACHA_ACTIVITY_DATA_LOST]
-活动配置丢失
+Aktivitätskonfiguration verloren
 
 [GACHA_DRAW_FAILED]
-获取宝箱失败
+Schatzkiste konnte nicht abgerufen werden
 
 [EIGHTIES]
 摇滚年代
@@ -42173,49 +42173,49 @@ Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hin
 大招的落雷击中僵尸后还会产生3×3范围的电弧，造成额外的伤害
 
 [GERANIIFENCER]
-鹳草击剑手
+Storchschnabel-Fechter
 
 [GERANIIFENCER_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方2格
-{KEYWORD}特点：{STAT}向前冲刺一格发起攻击后跳回原地，可使巨人僵尸的攻击打空
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}鹳草击剑手唯一1次和植物比试是在一个醉酒的晚上，鹳草击剑手向玫瑰剑客发出了击剑的挑战，那天晚上发生了什么没人知道，只是从那以后鹳草击剑手就戒了酒
+{KEYWORD}Reichweite: {STAT}2 Felder vorwärts
+{KEYWORD}Funktionen: {STAT}Sprintet ein Feld vorwärts, um anzugreifen, und springt dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
+{KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanzen
+{FLAVOR}Das einzige Mal, dass der Storchschnabel-fechter mit Pflanzen konkurrierte, war in einer durchzechten Nacht. Er forderte den Rosenschwertkämpfer zu einem Fechtkampf heraus. Niemand weiß, was in dieser Nacht geschah, aber der Storchschnabel-fechter hat seitdem aufgehört zu trinken.
 
-[GERANIIFENCER_DESCRIPTION_HEADER]
-向前冲刺一格发起攻击后跳回原地，可使巨人僵尸的攻击打空
+[GERANIIFENCER_DESCRIPTIO N_HEADER]
+Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
 
 [GERANIIFENCER_TOOLTIP]
-向前冲刺一格发起攻击后跳回原地，可使巨人僵尸的攻击打空
+Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
 
 [GERANIIFENCER_PRODUCT_SHORT_DESC]
-向前冲刺一格发起攻击后跳回原地，可使巨人僵尸的攻击打空
+Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
 
 [GERANIIFENCER_SKILL_LEVEL1]
-强力冲锋
+Kraftvoller Angriff
 
 [GERANIIFENCER_SKILL_LEVEL1_DES]
-使前冲攻击有概率触发强力刺击，对小型僵尸造成短距离的击退。
+Erhöht die Chance, dass der Vorwärtsangriff einen kraftvollen Stich auslöst, der kleine Zombies auf kurze Distanz zurückstößt.
 
 [GERANIIFENCER_SKILL_LEVEL2]
-势大力沉
+Mächtige Kraft
 
 [GERANIIFENCER_SKILL_LEVEL2_DES]
-强力刺击的击退对中型僵尸也生效
+Der Rückstoß des mächtigen Stichs wirkt auch bei mittelgroßen Zombies.
 
 [GERANIIFENCER_SKILL_LEVEL5]
-巨力跳劈
+Kraftvoller Sprung
 
 [GERANIIFENCER_SKILL_LEVEL5_DES]
-每隔一段时间可将一次前冲攻击变为跳劈，对僵尸造成大量伤害并眩晕，如果击中巨人僵尸可秒杀其背后的小鬼僵尸
+Gelegentlich kannst du einen Vorwärtsangriff in einen Sprung umwandeln, der dem Zombie großen Schaden zufügt und ihn betäubt. Triffst du einen Gargantuar, kannst du den Wicht dahinter sofort töten.
 
 [STORE_PRODUCT_AVATAR_GERANIIFENCER_TITLE]
-鹳草击剑手装扮
+Storch-Fechter-Kostüm
 
 [GERANIIFENCER_AVATAR_NAME]
-鹳草击剑手装扮
+Storch-Fechter-Kostüm
 
 [STORE_PRODUCT_AVATAR_GERANIIFENCER]
-使大招结束后还会额外造成一次伤害并将僵尸浮空。
+Nach dem Ende der großen Attacke verursacht er zusätzlichen Schaden und lässt den Zombie schweben.
 
 
 [VAMPORCINI]
@@ -42265,97 +42265,97 @@ Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hin
 
 
 [BEANCHEMIST]
-豌豆药剂师
+Erbsenapotheker
 
 [BEANCHEMIST_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}扔出变形豌豆将僵尸变成豌豆，只能变形最大高于植物2阶的僵尸
-{KEYWORD}植物特征：{STAT}紫色植物
-{FLAVOR}豌豆药剂师非常喜欢豌豆，所以它想把什么都变成豌豆，但是它忘记了一点，出现的豌豆越多，被吃掉的豌豆也就越多。
+{KEYWORD}Reichweite: {STAT}1 Reihe voraus
+{KEYWORD}Funktionen: {STAT}Wirft eine verwandelnde Erbse aus, um Zombies in Erbsen zu verwandeln. Kann nur Zombies verwandeln, die zwei Level höher sind als der Apotheker.
+{KEYWORD}Pflanzenfunktionen: {STAT}Lila Pflanzen
+{FLAVOR}Der Erbsenapotheker liebt Erbsen sehr und möchte deshalb alles in Erbsen verwandeln. Doch er vergisst eines: Je mehr Erbsen erscheinen, desto mehr Erbsen werden auch gegessen.
 
 [BEANCHEMIST_DESCRIPTION_HEADER]
-豌豆药剂师扔出变形豌豆将僵尸变成豌豆
+Der Erbsenapotheker wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
 
 [BEANCHEMIST_TOOLTIP]
-豌豆药剂师扔出变形豌豆将僵尸变成豌豆
+Der Erbsenapotheker wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
 
 [BEANCHEMIST_PRODUCT_SHORT_DESC]
-豌豆药剂师扔出变形豌豆将僵尸变成豌豆
+Der Erbsenapotheker wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
 
 [BEANCHEMIST_SKILL_LEVEL1]
-无敌药剂
+Unbesiegbarer Trank
 
 [BEANCHEMIST_SKILL_LEVEL1_DES]
-变形产生的植物阶数为自身阶数+1(最高5阶)
+Die Stufe der durch die Verwandlung erzeugten Pflanze entspricht der Stufe der Pflanze selbst + 1 (bis Stufe 5).
 
 [BEANCHEMIST_SKILL_LEVEL2]
-强化药剂
+Stärkender Trank
 
-[BEANCHEMIST_SKILL_LEVEL2_DES]
-攻击冷却时间降低至13秒
+[B EANCHEMIST_SKILL_LEVEL2_DES]
+Angriffsabklingzeit auf 13 Sekunden reduziert.
 
 [BEANCHEMIST_SKILL_LEVEL5]
-遗留药剂
+Legacy-Trank
 
 [BEANCHEMIST_SKILL_LEVEL5_DES]
-豌豆击中僵尸之后留下一滩毒雾，下一个经过毒雾的僵尸也会被变形
+Nachdem die Erbse einen Zombie getroffen hat, hinterlässt sie eine Pfütze aus giftigem Nebel. Der nächste Zombie, der diesen Nebel durchquert, verwandelt sich ebenfalls.
 
 [STORE_PRODUCT_AVATAR_BEANCHEMIST_TITLE]
-豌豆药剂师装扮
+Erbsenapotheker-Kostüm
 
 [BEANCHEMIST_AVATAR_NAME]
-豌豆药剂师装扮
+Erbsenapotheker-Kostüm
 
 [STORE_PRODUCT_AVATAR_BEANCHEMIST]
-大招将僵尸变形为暗影豌豆
+Die Dünger Fähigkeit verwandelt Zombies in Schattenerbsen.
 
 [IMPATIENSSHOOTER]
-凤仙花射手
+Imperia Shooter
 
 [IMPATIENSSHOOTER_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}吐出染料子弹攻击前方僵尸，种下去一段时间后会给自己染色从而射出更强力的子弹。
-{KEYWORD}植物特征：{STAT}白色植物、粉色植物、橙色植物、紫色植物
-{FLAVOR} 一直想成为顶级化妆师的凤仙花射手虽然靠坚持不懈地在社交网络上上传自己染成各种颜色时的照片收获了一定的人气，可是她并不知道大家喜欢的其实是白色时的她。
+{KEYWORD}Reichweite: {STAT}1 Reihe voraus
+{KEYWORD}Funktionen: {STAT}Spuckt Farbkugeln aus, um Zombies vor ihnen anzugreifen. Nach einer Weile färbt es sich ein und verschießt stärkere Kugeln.
+{KEYWORD}Pflanzenfunktionen: {STAT}Weiße Pflanzen, rosa Pflanzen, orange Pflanzen, violette Pflanzen
+{FLAVOR} Obwohl Impatiens Shooter, die schon immer eine Top-Make-up-Artistin werden wollte, eine gewisse Popularität erlangte, indem sie ständig Fotos von sich in verschiedenen Farben in sozialen Netzwerken hochlud, ahnte sie nicht, dass die Leute sie tatsächlich mochten, als sie weiß war.
 
 [IMPATIENSSHOOTER_DESCRIPTION_HEADER]
-吐出染料子弹攻击前方僵尸
+Spuckt Farbkugeln aus, um Zombies vor ihm anzugreifen.
 
 [IMPATIENSSHOOTER_TOOLTIP]
-吐出染料子弹攻击前方僵尸
+Spuckt Farbkugeln aus, um Zombies vor ihm anzugreifen.
 
 [IMPATIENSSHOOTER_PRODUCT_SHORT_DESC]
-吐出染料子弹攻击前方僵尸
+Spuckt Farbkugeln aus, um Zombies vor ihm anzugreifen.
 
 [IMPATIENSSHOOTER_PRODUCT_SHORT_DESC]
-吐出染料子弹攻击前方僵尸
+Spuckt Farbkugeln aus, um Zombies vor ihm anzugreifen.
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1]
-快速染色
+Schnelles Färben
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1_DES]
-凤仙花射手给自己染色需要等待的时间缩短。
+Die Zeit, die der Impatiens-Schütze zum Färben benötigt, wurde verkürzt.
 
 [IMPATIENSSHOOTER_SKILL_LEVEL2]
-急速染色
+Schnelles Färben
 
 [IMPATIENSSHOOTER_SKILL_LEVEL2_DES]
-凤仙花射手给自己染色需要等待的时间再次缩短。
+Die Zeit, die der Impatiens-Schütze zum Färben benötigt, wurde erneut verkürzt.
 
 [IMPATIENSSHOOTER_SKILL_LEVEL5]
-紫色形态
+Lila Form
 
 [IMPATIENSSHOOTER_SKILL_LEVEL5_DES]
-凤仙花可以升级到更强力的紫色形态，吐出的紫色子弹粘性增强，有概率爆炸造成范围伤害和控制。
+Imperia kann sich in eine stärkere violette Form verwandeln. Die violetten Kugeln, die sie ausspuckt, haften stärker und können explodieren, was Flächenschaden und Kontrolle verursacht.
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER_TITLE]
-凤仙花射手装扮
+Imperia-Bogenschützenkostüm
 
 [IMPATIENSSHOOTER__AVATAR_NAME]
-凤仙花射手装扮
+Imperia-Bogenschützenkostüm
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER]
-大招吐出的子弹数量翻倍，由向正前方飞行改为散射
+Die Anzahl der von der ultimativen Fähigkeit abgefeuerten Kugeln verdoppelt sich. Die Kugeln fliegen nicht geradeaus, sondern werden verstreut.
 
 [TIGERSTOOL]
 虎头菇
@@ -52518,137 +52518,138 @@ Would you like to purchase a Security Gourd to push zombies back and add 30 seco
 最高等级
 
 [PERK_NAME_APPLYCONDITION]
-{CONDITION} 僵尸增益
+{CONDITION} Zombie-Buff
 
 [PERK_NAME_APPLYCONDITIONCHILL]
-冰冻
+Kälte
 
 [PERK_NAME_APPLYCONDITIONPOISONED]
-毒药
+Gift
 
 [PERK_NAME_APPLYCONDITIONHYPNOTIZED]
-魅惑
+Charme
 
 [PERK_NAME_APPLYCONDITIONSTALLED]
-减速
+Verlangsamung
 
 [PERK_NAME_APPLYCONDITIONSUNCARRIER50]
-太阳僵尸
+Sonnenzombie
 
-[PERK_NAME_APPLYCONDITIONSHRINKING ]
-变小
+[PERK_NAME_APPLYCONDITIONSHRINKING]
+Schrumpfen
 
 [PERK_NAME_APPLYCONDITIONBUTTER]
-黄油
+Butter
 
 [PERK_NAME_APPLYCONDITIONFREEZE]
-冻结
+Einfrieren
 
 [PERK_NAME_APPLYCONDITIONPLANTFOOD]
-能量豆
+Energiebohnen
 
 [PERK_NAME_BOSSBUSTERCANNON]
-僵博克星
+Zombie Buster
 
 [PERK_NAME_MINEISYOURS]
-地雷发射器
+Minenwerfer
 
 [PERK_NAME_MINEISYOURSSUNFLOWER]
-向日葵发射器
+Sonnenblumenwerfer
 
 [PERK_NAME_MOARSCORE]
-分数提升
+Punkteerhöhung
 
 [PERK_NAME_PENNYSHIELD]
-潘妮护盾
+Penny-Schild
 
-[PERK_NAME_PENNYSHIELDMULTIPLE]
-多重护盾
+[PERK_NAME_PENNYSHIELD]
+Penny-Schild K_NAME_PENNYSHIELDMULTIPLE]
+Mehrere Schilde
 
 [PERK_NAME_QUICKDELIVERY]
-加速
+Schnelle Verzögerung
 
 [PERK_NAME_SHOCKWAVE]
-低音爆炸
+Bass-Explosion
 
 [PERK_NAME_SUNBANK]
-阳光银行
+Sonnenscheinbank
 
 [PERK_NAME_SUNBREAK]
-阳光休息
+Sonnenscheinpause
 
 [PERK_NAME_TRAFFICJAM]
-交通堵塞
+Stau
 
 [PERK_NAME_ZOMBIEINHIBITOR]
-僵尸抑制剂
+Zombie Inhibitor
 
 [PERK_NAME_PENNYJUGGLED]
-反弹子弹
+Abpraller-Geschosse
 
 [PERK_NEXT_LEVEL]
-下一级
+Nächstes Level
 
 [PERK_NEXT_UPGRADE]
-增益下一等级: {CURRENT} / {NEXT}
+Verbesserung bei der Nächsten Stufe: {CURRENT} / {NEXT}
 
 [PERK_PROGRESSION_HEADER]
-新增益升级!
+Neues Verbesserungs-Upgrade!
 
 [PERK_SELECTION_NO_PERKS_WARNING]
-您尚未选择一个免费的增益！
-你确定你要继续吗？
+Du hast noch keinen kostenlosen Buff ausgewählt!
+Möchtest du wirklich fortfahren?
 
 [CHILL]
-冰冻
+Tiefkühle
 
 [POISONED]
-毒药
+Vergifte
 
 [HYPNOTIZED]
-魅惑
+Hypnotisiere
 
 [STALLED]
-大丽菊减速
+Verlangsame
 
 [SUNCARRIER50]
-阳光豆
+Hat 50 Sonnen 
 
 [SHRINKING]
-缩小
+Schrumpfen
 
 [SHRUNKEN]
-缩小
+Geschrumpft
 
 [BUTTER]
-黄油
+Buttere
 
 [SHADOWPOISONED]
-毒药
+Schattenvergiftet
 
 [FREEZE]
-冻结
+Einfrieren
 
 [HASPLANTFOOD]
-能量豆
+Hat Dünger
 
 [MORPHEDTOGARGANTUAR]
-魅惑菇魅惑
+Transformiert zum Gargantuar
 
 [SAPPED]
-粘液减速
+Saft
 
 [STUN]
-眩晕
+Gelähmt
 
 [TOSSED]
-击退
+Geschleudert
 
 [ASH]
-烧成灰烬
+Verascht
 
 [ELECTRIFY]
-电击击败
+Elektrifiziere
 
 [SUN_BREAK_DESCRIPTION]
 战斗开始后，可获得{BURSTS} X {SUN} 阳光!
