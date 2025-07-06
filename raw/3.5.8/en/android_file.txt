@@ -15405,39 +15405,39 @@ Verbessertes Rezept
 喷射花生米攻击并阻止僵尸前进。
 
 [STREETLAMP]
-路灯花
+Pflanterne
 
 [STREETLAMP_DESCRIPTION]
-{FLAVOR}路灯花蔑视科学，他就这样。其他植物吸收光能排出氧气，路灯花却吸收黑暗发出灯光。路灯花曾就此坦言：“我不说什么‘巫术魔法’之类的东西，我只使用'黑暗原力'这个词，我只是……我认为我已经说得够多的了。”
+{FLAVOR} Die Pflanterne verachtet die Wissenschaft, so ist das nun einmal. Andere Pflanzen absorbieren Lichtenergie und geben Sauerstoff ab, die Pflanterne hingegen absorbiert Dunkelheit und gibt Licht ab. Die Pflanterne sagte einmal freimütig: „Ich sage nichts wie ‚Hexerei‘ oder so etwas. Ich benutze nur den Begriff ‚dunkle Macht‘. Ich denke, ich habe genug gesagt.“
 
 [STREETLAMP_DESCRIPTION_HEADER]
-路灯花可以驱散迷雾并且看到隐形状态的盗贼僵尸。
+Pflanterne kann Nebel vertreiben und unsichtbare Zombies im Umkreis Sichtbar machen.
 
 [STREETLAMP_TOOLTIP]
-驱散迷雾并发现隐形的僵尸。
+vertreibt Nebel und macht unsichtbare Zombies sichtbar.
 
 [COFFEEBEAN]
-咖啡豆
+Kaffeebohne
 
 [COFFEEBEAN_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}矮个子
-{FLAVOR}“伙计伙计，快起来看上帝啊！”咖啡豆每次都喜欢用这句他最喜欢的电影台词来叫别人起床。还真别说，这法儿挺有效的，至少他的小伙伴每次睁眼都能看到一个鸟人的身影。
+{KEYWORD}Pflanzenmerkmale: {STAT}Shorty
+{FLAVOR}„ey, ey!, steh auf und sieh Gott!“ Kaffeebohne benutzt diesen Spruch aus seinem Lieblingsfilm immer gerne, um andere aufzuwecken. Er ist wirklich effektiv, zumindest können seine Freunde jedes Mal einen Vogelmenschen sehen, wenn sie die Augen öffnen.
 
 [COFFEEBEAN_DESCRIPTION_HEADER]
-咖啡豆可以唤醒范围内沉睡的植物并为他们增加少许攻击力。
+Kaffeebohne kann schlafende Pflanzen in einer 3x3 Reichweite wecken und ihre Angriffskraft etwas erhöhen.
 
 [COFFEEBEAN_TOOLTIP]
-唤醒植物并增加少许攻击力。
+Weckt Pflanzen auf und erhöht ihre Angriffskraft etwas.
 
 [OAKSHOOTER]
-橡木弓手
+Eichenschießer
 
 [OAKSHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}褐色植物
-{FLAVOR}橡木弓手从小打碎了无数邻居家的窗户玻璃才练到了如今的境界，为此他没有少挨老爸的巴掌。他有一个随身携带的日记，最后一页上写着：“僵尸膝盖：998/10000。”
+{KEYWORD}Pflanzeneigenschaften: {STAT}Braune Pflanze
+{FLAVOR}Eichenschießer hat seit seiner Kindheit unzählige Fenster seiner Nachbarn eingeschlagen, um sein aktuelles Level zu erreichen. Dafür wurde er von seinem Vater geohrfeigt. Er hat ein Tagebuch bei sich, dessen letzte Seite lautet: „Zombie-Knie: 998/10000.“
 
 [OAKSHOOTER_DESCRIPTION_HEADER]
-橡木弓手可以发射强力的箭矢攻击前方的僵尸。
+Der Eichenschießer kann mächtige Pfeile abfeuern, um Zombies vor ihm anzugreifen.
 
 [OAKSHOOTER_TOOLTIP]
 攻击前方的僵尸。
@@ -33637,16 +33637,16 @@ Werbung ansehen zum Aktualisierung
 有锁定属性，刷新花费提高
 
 [PLANT_FAMILY_SKILL_EXTRA_ATTACK]
-Angriffskraft erhöht
+Angriffskraft erhöht um
 
 [PLANT_FAMILY_SKILL_IMPROVED_ATK_RATE]
-Angriffsgeschwindigkeit erhöht
+Angriffsgeschwindigkeit erhöht um
 
 [PLANT_FAMILY_SKILL_IMPROVED_SUNPRODUCE_RATE]
-Produktionsgeschwindigkeit erhöht
+Produktionsgeschwindigkeit erhöht um
 
 [PLANT_FAMILY_SKILL_FAST_PLANT]
-Pflanzen-Abklingzeit verkürzt
+Pflanzen-Abklingzeit verkürzt um
 
 [PLANT_FAMILY_SKILL_EXTR A_SUNMONEY_25]
 Erzeugt 25 zusätzliche Sonnen
@@ -33655,46 +33655,46 @@ Erzeugt 25 zusätzliche Sonnen
 Erzeugt 50 zusätzliche Sonnen
 
 [PLANT_FAMILY_SKILL_EXTRA_HITPOINTS]
-Erhöht Gesundheit
+Erhöht Gesundheit um
 
 [PLANT_FAMILY_SKILL_EXTRA_DEFEND]
-Erhöht Verteidigung
+Erhöht Verteidigung um
 
 [PLANT_FAMILY_SKILL_REGENERATION]
-Regeneriert Gesundheit alle 5 Sekunden.
+Regeneriert Gesundheit alle 5 Sekunden um.
 
 [PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_50]
-Erhöht Gesundheit alle 5 Sekunden.
+Erhöht Gesundheit alle 5 Sekunden um.
 
 [PLANT_FAMILY_SKILL_IMPROVED_EXPLODE_DAMAGE]
-Erhöhter Explosionsschaden.
+Erhöhter Explosionsschaden um.
 
 [PLANT_FAMILY_SKILL_IMPROVED_LIGHTNING_DAMAGE]
-Erhöhter Blitzschaden.
+Erhöhter Blitzschaden um
 
 [PLANT_FAMILY_SKILL_IMPROVED_FLAME_DAMAGE]
-Erhöhter Feuerschaden.
+Erhöhter Feuerschaden um
 
 [PLANT_FAMILY_SKILL_IMPROVED_COLD_DAMAGE]
-Erhöhter Gefrierschaden.
+Erhöhter Gefrierschaden um
 
 [PLANT_FAMILY_SKILL_EXTRA_MELEE_ATTACK]
-Erhöhter Nahkampfschaden.
+Erhöhter Nahkampfschaden um.
 
 [PLANT_FAMILY_SKILL_LOWER_COST]
-Reduziert Sonnenlicht Verbrauch.
+Reduziert Sonnenlicht Verbrauch um.
 
 [PLANT_FAMILY_SKILL_INVINCIBLE]
-Wahrscheinlichkeit für 3 Sekunden Unbesiegbarkeit zu werden
+Wahrscheinlichkeit für 3 Sekunden Unbesiegbar zu werden
 
 [PLANT_FAMILY_SKILL_GHOST]
 Wahrscheinlichkeit des Seelenzustands
 
 [PLANT_FAMILY_SKILL_PLANT_SUN_REFUND]
-Wahrscheinlichkeit der Rückkehr des Sonnenlichts
+Wahrscheinlichkeit zur Rückkehr des Sonnenlichts
 
 [PLANT_FAMILY_NAME_50001]
-Rookie-Gruppe
+Beginner-Gruppe
 
 [PLANT_FAMILY_NAME_50002]
 Helles Licht
@@ -38500,68 +38500,69 @@ SDK初始化失败
 有概率飞出进化后的使徒，对僵尸造成更多伤害，并把僵尸吸干转变为干尸僵尸
 
 [GUARDSHROOM]
-守卫菇
+Wachpilz
 
 [GUARDSHROOM_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}紫色植物，成长
-{FLAVOR}363.154e+13和守卫菇有什么共同点？当戴夫问时，潘妮花了4个多小时才完成守卫菇的普查并从地下室出来。潘妮强烈表示这个数字是准确的，并已禁止其他人下楼。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanze, wächst
+{FLAVOR}Was haben 3,154e+13 und der Wachpilz gemeinsam? Nun, als Dave Penny bat, die Wachpilze zu zählen, verschwand Penny gute vier Stunden im Keller und kehrte mit dieser Zahl zurück. Penny ist felsenfest davon überzeugt, dass sie stimmt – und verbietet allen anderen, selbst da runter zu gehen.
 
 [GUARDSHROOM_DESCRIPTION_HEADER]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Ein amphibischer Pilz, der Miniversionen von sich selbst erzeugt, um angrenzende Pflanzen zu bewachen. Diese Minipilze können Zombies verschlingen und andere Pilze oder Pflanzen, mit denen sie sich ein Feld teilen, deutlich stärken.
 
 [GUARDSHROOM_TOOLTIP]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Vermehrt sich, um angrenzende Pflanzen zu schützen.
 
 [GUARDSHROOM_PRODUCT_SHORT_DESC]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Wachpilze können Gegner blockieren und kleine Wachpilze erzeugen, die Zombies verschlingen können.
 
 [GUARDSHROOM_AVATAR_NAME]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Wachpilze können Gegner blockieren und kleine Wachpilze erzeugen, die Zombies verschlingen können.
 
 [STORE_PRODUCT_AVATAR_GUARDSHROOM_TITLE]
-守卫菇装扮
+Wachpilz-Outfit
 
 [STORE_PRODUCT_AVATAR_GUARDSHROOM]
-大招可以吃掉的僵尸数量增加为7个
+Die Anzahl der Zombies, die mit der ultimativen Fähigkeit verschlungen werden können, wird auf 7 erhöht.
 
 [GUARDSHROOM_SKILL_LEVEL1]
-蘑菇强化
+Pilzverstärkung
 
 [GUARDSHROOM_SKILL_LEVEL1_DES]
-小守卫菇的消化时间减少；守卫菇的阳光消耗增加倍数降低至1.5倍
+Die Verdauungszeit kleiner Wachpilze wird verkürzt; der Multiplikator für den Sonnenlichtverbrauch von Wachpilzen wird auf das 1,5-Fache reduziert.
 
-[GUARDSHROOM_SKILL_LEVEL2]
-蘑菇进化
+[GUARDSHROOM_SKILL_LEVEL1_DES]
+Die Verdauungszeit kleiner Wachpilze wird verkürzt; Der Erhöhungsmultiplikator des Sonnenlichtverbrauchs von Wächterpilzen wurde auf das 1,5-Fache reduziert.
+Pilzentwicklung
 
 [GUARDSHROOM_SKILL_LEVEL2_DES]
-小守卫菇的消化时间进一步减少；守卫菇的阳光消耗不再增加
+Die Verdauungszeit des Wächterpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wächterpilzes erhöht sich nicht mehr.
 
 [GUARDSHROOM_SKILL_LEVEL5]
-深渊狂化
+Abgrundwahnsinn
 
 [GUARDSHROOM_SKILL_LEVEL5_DES]
-守卫菇现在会生成更强大的深渊小守卫菇，吞噬中体型的僵尸，并在死亡时将僵尸带入深渊
+Wächterpilze erzeugen nun stärkere Abgrundwächterpilze, verschlingen mittelgroße Zombies und befördern Zombies nach ihrem Tod in den Abgrund.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL1_DES]
-守卫菇能够阻挡部分会飞跃的僵尸,并且可以直接种植在水里和陆地；每隔一段时间守卫菇身边会降下小守卫菇，小守卫菇能够吃掉普通僵尸和小鬼僵尸；植物可以种植在小守卫菇上，当为蘑菇类植物时，可为其提供额外增益效果。当其上方本体植物释放大招时，小守卫菇会吸收能量，大招完成后可使其释放二次大招。
+Wächterpilze können fliegende Zombies blockieren und direkt im Wasser und an Land gepflanzt werden. Wächterpilze lassen gelegentlich Wächterpilze fallen und können gewöhnliche Zombies und Wicht-Zombies fressen. Pflanzen können auf Wächterpilzen gepflanzt werden. Als Pilzpflanzen verleihen sie zusätzliche Stärkungseffekte. Wenn die darüberliegende Hauptpflanze eine Dünger Attacke auslöst, absorbiert der kleine Wächterpilz Energie und kann nach Abschluss der Dünger Attacke eine zweite Dünger Attacke ausführen.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL2_DES]
-小守卫菇的消化时间减少；守卫菇的阳光消耗增加倍数降低至1.5倍
+Die Verdauungszeit des kleinen Wächterpilzes wurde verkürzt; die Erhöhung des Sonnenlichtverbrauchs des Wächterpilzes wurde auf das 1,5-Fache reduziert.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL3_DES]
-小守卫菇的消化时间进一步减少；守卫菇的阳光消耗不再增加
+Die Verdauungszeit des kleinen Wächterpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wächterpilzes erhöht sich nicht mehr.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die große Attacke der Energiebohne direkt auszulösen!
 
 [GUARDSHROOM_NEW_SKILL_LEVEL5_DES]
-守卫菇现在会生成一个更强大的深渊小守卫菇，此时深渊小守卫菇可以吞噬中体型的僵尸；当小守卫菇被僵尸啃食至死亡时，小守卫菇会改为掉入深渊地底，并使用触手把该僵尸一并拖入地底。
+Der Wächterpilz erzeugt jetzt einen stärkeren Abyss-Wächterpilz, der mittelgroße Zombies fressen kann. Stirbt der Wächterpilz, nachdem er von einem Zombie gefressen wurde, fällt er in den Abyss und zerrt den Zombie mit seinen Tentakeln zu Boden.
 
 [GUARDSHROOM_PLANTFOOD_DESCRIPTION]
-守卫菇伸出触手，吃掉前方 3x3 内的 5 个小体型僵尸（5阶可以吃中体型僵尸），对无法吃掉的僵尸造成伤害。同时在 3x3 范围内填满 8 个小守卫菇。
+Der Wächterpilz fährt seine Tentakel aus und frisst fünf kleine Zombies (Stufe 5 kann mittelgroße Zombies fressen) im 3x3-Bereich vor ihm. Dadurch wird den Zombies, die nicht gefressen werden können, Schaden zugefügt. Gleichzeitig füllt er den 3x3-Bereich mit acht Wächterpilzen.
 
 [GUARDSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-守卫菇伸出触手，吃掉前方 4x3 内的 7 个小体型僵尸（5阶可以吃中体型僵尸），对无法吃掉的僵尸造成伤害。同时在 3x3 范围内填满 8 个小守卫菇。
+Der Wächterpilz streckt seine Tentakeln aus und frisst sieben kleine Zombies (Stufe 5 kann auch mittelgroße Zombies fressen) im 4x3-Bereich vor ihm. Er fügt Zombies, die nicht gefressen werden können, Schaden zu. Füllt gleichzeitig einen 3x3-Bereich mit acht Wächterpilzen.
 
 [HOYACORDATA]
 粉丝心叶兰
@@ -38628,70 +38629,70 @@ SDK初始化失败
 所有被施加大招效果的植物都有50%概率直接释放能量豆大招，但最多触发2颗
 
 [PEAVINE] 
-豌豆藤蔓
+Erbsenranke
 
 [PEAVINE_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方单行
-{KEYWORD}特点：{STAT}有概率发射种植在其上的豌豆类植物的豌豆子弹
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}豌豆藤蔓拜师变身茄子学习模仿能力，但因为弯腰捡了块橡皮导致没学完整，只学会了一半，能模仿行动却不能模仿外形。
+{KEYWORD}Reichweite: {STAT}Einzelreihe vorne
+{KEYWORD}Merkmale: {STAT}Chance, Erbsengeschosse von darüber gepflanzten Erbsenpflanzen abzufeuern
+{KEYWORD}Pflanzenmerkmale: {STAT}Grünpflanzen, Erbsengewächse
+{FLAVOR} Die Erbsenrebe wurde zur Lehrlingin der Aubergine und lernte die Fähigkeit zur Nachahmung. Da sie sich jedoch bückte, um einen Radiergummi aufzuheben, lernte sie die Fähigkeit nicht vollständig und nur zur Hälfte. Sie konnte Handlungen nachahmen, aber nicht das Aussehen.
 
 [PEAVINE_DESCRIPTION_HEADER]
-有概率发射种植在其上的豌豆类植物的豌豆子弹
+Hat die Chance, Erbsengeschosse von darüber gepflanzten Erbsenpflanzen abzufeuern
 
 [PEAVINE_TOOLTIP]
-有概率发射种植在其上的豌豆类植物的豌豆子弹
+Hat die Chance, Erbsengeschosse von darüber gepflanzten Erbsenpflanzen abzufeuern
 
 [PEAVINE_PRODUCT_SHORT_DESC]
-有概率发射种植在其上的豌豆类植物的豌豆子弹
+Es besteht die Chance, Erbsengeschosse von den darüber gepflanzten Erbsenpflanzen abzufeuern.
 
 [PEAVINE_SKILL_LEVEL1]
-豌豆光芒
+Erbsenlicht
 
 [PEAVINE_SKILL_LEVEL1_DES]
-为上方的豌豆类植物提供15%的攻击力加成。复制上方豌豆子弹的概率提升。
+Verleiht den darüber gepflanzten Erbsenpflanzen einen Angriffskraftbonus von 15 %. Erhöht die Chance, die darüber gepflanzten Erbsengeschosse zu kopieren.
 
 [PEAVINE_SKILL_LEVEL2]
-光芒强化
+Lichtverstärkung
 
 [PEAVINE_SKILL_LEVEL2_DES]
-为上方的豌豆类植物提供30%的攻击力加成。复制上方豌豆子弹的概率进一步提升。
+Verleiht den darüber gepflanzten Erbsenpflanzen einen Angriffskraftbonus von 30 %. Erhöht die Chance, die darüber gepflanzten Erbsengeschosse zu kopieren.
 
 [PEAVINE_SKILL_LEVEL5]
-豌豆共生
+Erbsensymbiose
 
 [PEAVINE_SKILL_LEVEL5_DES]
-此技能生效时，当种植豌豆类植物时，会立即附带种植1棵豌豆类藤蔓。
+Wenn diese Fertigkeit wirksam ist, wird beim Pflanzen von Erbsenpflanzen sofort eine Erbsenranke gepflanzt.
 
 [STORE_PRODUCT_AVATAR_PEAVINE_TITLE]
-豌豆藤蔓装扮
+Erbsenranken-Kostüm
 
 [PEAVINE_AVATAR_NAME]
-豌豆藤蔓装扮
+Erbsenranken-Kostüm
 
 [STORE_PRODUCT_AVATAR_PEAVINE]
-大招有概率发射各种子弹。
+Die Dünger Fähigkeit bietet die Chance, verschiedene Erbsen abzufeuern.
 
 [PEAVINE_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在豌豆藤蔓右侧时，会向僵尸发射直线飞行的豌豆子弹。如果上方种植的是豌豆类植物时，则有20%概率触发子弹复制，发射此植物基础特性的豌豆子弹。
+Erscheint ein Zombie rechts neben der Erbsenranke, feuert er Erbsenkugeln geradlinig auf ihn ab. Handelt es sich bei der Pflanze darüber um eine Erbsenpflanze, besteht eine Chance von 20 %, eine Kugelreplikation auszulösen, die Erbsenkugeln mit den Grundeigenschaften dieser Pflanze abfeuert.
 
 [PEAVINE_NEW_SKILL_LEVEL2_DES]
-当豌豆藤蔓上种植的是豌豆类植物时，会出现豌豆强化光芒，使该植物获得15%的攻击力加成。子弹复制的触发概率提升至60%。
+Wenn eine Erbsenpflanze an der Erbsenranke gepflanzt wird, erscheint ein Erbsenverstärkungslicht, das der Pflanze einen Angriffskraftbonus von 15 % verleiht. Die Wahrscheinlichkeit, eine Kugelreplikation auszulösen, erhöht sich auf 60 %.
 
 [PEAVINE_NEW_SKILL_LEVEL3_DES]
-豌豆强化光芒获得加强，能使豌豆类植物获得30%的攻击力加成。子弹复制的触发概率提升至80%。
+Das Erbsenverstärkungslicht wird verstärkt, wodurch Erbsenpflanzen einen Angriffskraftbonus von 30 % erhalten. Die Wahrscheinlichkeit der Kugelreplikation steigt auf 80 %.
 
 [PEAVINE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [PEAVINE_NEW_SKILL_LEVEL5_DES]
-此技能生效时，当种植豌豆类植物时，会立即附带种植1棵豌豆类藤蔓。（此技能为全局生效技能，未携带植物也可生效，可控制技能开关）
+Wenn diese Fähigkeit wirksam ist, wird beim Pflanzen von Erbsenpflanzen sofort eine Erbsenranke gepflanzt. (Diese Fähigkeit ist global und kann auch ohne Pflanzen wirksam sein. Sie kann den Fähigkeitswechsel steuern.)
 
 [PEAVINE_PLANTFOOD_DESCRIPTION]
-豌豆藤蔓立刻连续发射60颗豌豆子弹，倾泻向右侧的僵尸。
+Die Erbsenranke feuert sofort 60 Erbsenkugeln hintereinander ab, die auf die Zombies rechts treffen.
 
 [PEAVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-豌豆藤蔓立刻连续发射60颗^ff0000^各种种类的^oldclr^豌豆子弹，倾泻向右侧的僵尸。
+Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hintereinander ab, die auf den Zombie rechts herabregnen.
 
 [MAYBEE]
 蜜蜂铃兰
