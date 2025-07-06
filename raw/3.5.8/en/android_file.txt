@@ -36624,14 +36624,14 @@ SDK初始化失败
 
 
 [BUDUHBOOM_FAMILY]
-阿福花科
+Afusaceae
 [BUDUHBOOM_GENUS]
-十二卷属
+Bauhinia
 [BUDUHBOOM_PEDIA]
-玉露——多肉界晶莹剔透的绿宝石
-    多年生肉质草本植物。
-    植株矮小，叶片呈莲座状排列，肉质肥厚，顶端透明或半透明，形成“窗”，如翡翠上的露珠而得名。而此“窗”不仅可爱，还是其渡过旱期的法宝。当旱季来临，植株大部分会缩回土中来减少水分蒸发，阳光就透过“窗”照射到内部组织来保证其进行光合作用。花序总状，花小（径约5毫米），6瓣，白色或淡粉色；果实椭圆形，内含黑色细小种子。花期3-5月，果期6-8月。
-    玉露原产于南非，现作为盆栽多肉植物世界广泛栽培，品种众多。喜凉爽的半阴环境，耐旱怕涝，多通过叶插和分株繁殖。
+Bauhinia – der kristallklare Smaragd in der Welt der Fleischpflanzen
+Mehrjährige, sukkulente Pflanze.
+Die Pflanze ist klein, hat rosettenförmige Blätter, dickes Fruchtfleisch und eine transparente oder durchscheinende Spitze, die ein „Fenster“ bildet, wie ein Tautropfen auf Jade – daher der Name. Dieses „Fenster“ ist nicht nur hübsch anzusehen, sondern auch eine magische Waffe, um Dürre zu überstehen. In der Trockenzeit zieht sich die Pflanze größtenteils in den Boden zurück, um die Wasserverdunstung zu reduzieren. Das Sonnenlicht fällt durch das „Fenster“ in das innere Gewebe und ermöglicht so die Photosynthese. Der Blütenstand ist traubenförmig, die Blüten sind klein (ca. 5 mm Durchmesser), sechsblättrig, weiß oder hellrosa; die Frucht ist oval und enthält kleine schwarze Samen. Die Blütezeit ist von März bis Mai, die Fruchtzeit von Juni bis August.
+Bauhinia stammt ursprünglich aus Südafrika und wird heute weltweit als Topfpflanze in vielen Sorten kultiviert. Sie bevorzugt einen kühlen, halbschattigen Standort, verträgt Trockenheit gut und fürchtet Staunässe. Die Vermehrung erfolgt meist durch Blattstecklinge und Teilung.
 
 
 [PAPHIOPEDILUM_FAMILY]
@@ -42692,52 +42692,52 @@ Fügt zwei Reihen verstreuter Projektile hinzu
 
 
 [ENTS]
-树灵护卫
+Baumgeistwächter
 
 [ENTS_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方2格
-{KEYWORD}特点：{STAT}通过呼吸作用恢复自身血量
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}树灵护卫每天都在维护它秀丽的头发，每掉一片树叶它都会叹一口气
+{KEYWORD}Reichweite: {STAT}2 Felder vorn
+{KEYWORD}Eigenschaften: {STAT}Regeneriert seine Gesundheit durch Atmung
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{FLAVOR}Der Baumgeistwächter pflegt täglich sein schönes Haar und seufzt jedes Mal, wenn ein Blatt fällt.
 
 [ENTS_DESCRIPTION_HEADER]
-受伤时能不断恢复自身血量
+Bei Verletzungen kann er seine Gesundheit kontinuierlich regenerieren.
 
 [ENTS_TOOLTIP]
-受伤时能不断恢复自身血量
+Bei Verletzungen kann er seine Gesundheit kontinuierlich regenerieren.
 
 [ENTS_PRODUCT_SHORT_DESC]
-受伤时能不断恢复自身血量
+Bei Verletzungen kann er seine Gesundheit kontinuierlich regenerieren.
 
 [ENTS_PRODUCT_SHORT_DESC]
-受伤时能不断恢复自身血量
+Bei Verletzungen kann er seine Gesundheit kontinuierlich regenerieren.
 
 [STORE_PRODUCT_AVATAR_ENTS]
-大招中心范围会生成巨型地刺，对僵尸造成更长时间的眩晕
+Das Zentrum der Spezialdünger Fähigkeit erzeugt einen riesigen Erdstachel, der Zombies länger betäubt.
 
-[ENTS_SKILL_LEVEL1]
-自然之力
+[EN TS_SKILL_LEVEL1]
+Naturkraft
 
 [ENTS_SKILL_LEVEL1_DES]
-攻击与血量提高，当面对的敌人大于等于3人时，每秒恢复600点血量
+Erhöht Angriff und Gesundheit. Stellt bei 3 oder mehr Gegnern 600 Gesundheitspunkte pro Sekunde wieder her.
 
 [ENTS_SKILL_LEVEL2]
-自然亲和
+Naturaffinität
 
 [ENTS_SKILL_LEVEL2_DES]
-攻击与血量提高，当面对的敌人大于等于3人时，每秒恢复900点血量
+Erhöht Angriff und Gesundheit. Stellt bei 3 oder mehr Gegnern 900 Gesundheitspunkte pro Sekunde wieder her.
 
-[ENTS_SKILL_LEVEL5]
-百年树人
+[ENTS_SKILL_LEVEL EL5]
+Hundertjähriger Baummensch
 
 [ENTS_SKILL_LEVEL5_DES]
-攻击与血量提高，当面对的敌人大于等于3人时，每秒恢复1500点血量，树灵还会挡住两次巨人的攻击
+Angriff und Gesundheit werden erhöht. Stellt bei 3 oder mehr Gegnern 1500 Gesundheitspunkte pro Sekunde wieder her. Der Baumgeist blockt außerdem zwei Angriffe des Gargantuars.
 
 [STORE_PRODUCT_AVATAR_ENTS_TITLE]
-树灵守卫装扮
+Baumgeist-Wächterkostüm
 
 [STORE_PRODUCT_AVATAR_ENTS]
-大招中心范围会生成巨型地刺，对僵尸造成更长时间的眩晕
+Im Zentrum der Spezialdünger Fähigkeit entsteht ein riesiger Erdspieß, der die Zombies länger betäubt.
 
 [HEATHSEEKER]
 石楠探索者
@@ -42848,216 +42848,234 @@ Explodierender Jadetau-Outfit
 Reduziert die Abklingzeit von dem Butterglöckchen um 20 %
 
 [FISHHOOKGRASS]
-鱼钩草
 
 [FISHHOOKGRASS_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}将僵尸钓过来，随后甩出，对碰撞到的第一个僵尸造成伤害和晕眩。
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 钓僵尸是一门技术活，像鱼钩草这样钓到僵尸之后还能扔出去的，那可是少之又少。
+{KEYWORD}Reichweite: {STAT}1 Reihe voraus
+{KEYWORD}Funktionen: {STAT}Fang Zombies und wirf sie dann hinaus. Der erste getroffene Zombie wird dabei betäubt und erleidet Schaden.
+{KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanze
+{FLAVOR} Zombies zu angeln ist eine Fähigkeit, und es gibt nur wenige Pflanzen wie Angelhakengras, die Zombies nach dem Fang hinauswerfen können.
 
 [FISHHOOKGRASS_DESCRIPTION_HEADER]
-攻击时能将僵尸钓过来之后再甩出去
+Beim Angriff kannst du Zombies einhaken und dann hinauswerfen.
 
 [FISHHOOKGRASS_TOOLTIP]
-攻击时能将僵尸钓过来之后再甩出去
+Beim Angriff kannst du Zombies einhaken und dann hinauswerfen.
 
 [FISHHOOKGRASS_PRODUCT_SHORT_DESC]
-攻击时能将僵尸钓过来之后再甩出去
+Beim Angriff kannst du Zombies einhaken und dann hinauswerfen.
 
 [STORE_PRODUCT_AVATAR_FISHHOOKGRASS]
-大招会钓起僵尸，并附加中毒效果（钩子效果会被其他僵尸所阻挡）
+Die ultimative Fähigkeit fängt Zombies ein und fügt einen Gifteffekt hinzu (der Hakeneffekt wird von anderen Zombies blockiert).
 
 [FISHHOOKGRASS_SKILL_LEVEL1]
-快速起钓
+Schnell Fische fangen
 
 [FISHHOOKGRASS_SKILL_LEVEL1_DES]
-钓鱼的准备时间降低至13秒
+Die Vorbereitungszeit zum Angeln wird auf 13 Sekunden reduziert.
 
 [FISHHOOKGRASS_SKILL_LEVEL2]
-超快手速
+Superschnelle Hand Geschwindigkeit
 
 [FISHHOOKGRASS_SKILL_LEVEL2_DES]
-钓鱼的准备时间降低至11秒
+Die Angelvorbereitungszeit wird auf 11 Sekunden reduziert.
 
 [FISHHOOKGRASS_SKILL_LEVEL5]
-蓄力一击
+Lade einen Powerschuss auf.
 
 [FISHHOOKGRASS_SKILL_LEVEL5_DES]
-钓中僵尸时会将僵尸甩出，可撞到其他僵尸将其一起击退，没撞到其他僵尸则会飞出场外
+Wenn du einen Zombie fängst, wirfst du ihn hinaus. Du kannst andere Zombies treffen, um sie gemeinsam abzuwehren. Triffst du keine anderen Zombies, fliegt er vom Feld.
 
 [STORE_PRODUCT_AVATAR_FISHHOOKGRASS_TITLE]
-鱼钩草装扮
+Fishhook-Graskostüm
 
 [FLOWERPOT]
-花盆
+Blumentopf
 
 [FLOWERPOT_DESCRIPTION]
-{KEYWORD}用法：{STAT} 可以种植在屋顶地形
-{KEYWORD}植物特征：{STAT}矮个子、褐色植物
-{FLAVOR}花盆应该是最悠闲的植物了，又不需要战斗，屋顶阳光又充足。没错，其实作为植物，它也需要光合作用。
+{KEYWORD}Verwendung:{STAT}Kann auf Dachgelände gepflanzt werden.
+
+{KEYWORD}Pflanzeneigenschaften:{STAT}Kleine, braune Pflanze.
+
+{FLAVOR}Blumentöpfe sollten die anspruchvollsten Pflanzen sein. Sie müssen nicht kämpfen, und das Dach hat reichlich Sonnenlicht. Ja, als Pflanze benötigt es auch Photosynthese.
 
 [FLOWERPOT_DESCRIPTION_HEADER]
-花盆可以在屋顶地形时承载植物。
+Blumentöpfe können Pflanzen auf Dächern tragen.
 
 [FLOWERPOT_TOOLTIP]
-花盆能够让非飞行植物种在屋顶上
+Blumentöpfe können nicht fliegende Pflanzen auf Dächern pflanzen.
 
 [BONUS_CARD_PIECE_FLOWERPOT]
-花盆碎片
+Blumentopffragmente
 
 [BONUS_CARD_PIECE_FLOWERPOT_DESCRIPTION]
-获得花盆碎片
+Blumentopffragmente erhalten
 
 [STORE_PRODUCT_AVATAR_FLOWERPOT_TITLE]
-花盆装扮
+Blumentopfkostüm
 
 [FLOWERPOT_AVATAR_NAME]
-花盆装扮
+Blumentopfkostüm
 
 [STORE_PRODUCT_AVATAR_FLOWERPOT]
-大招可以在3x3范围内生成花盆。
+Der Spezialdünger effekt kann Blumentöpfe in einem 3x3-Bereich erzeugen.
 
 [SPRING_FESTIVAL_DES]
-活动期间，玩家累计充值送稀有植物和装扮！
+Während des Events erhalten Spieler seltene Pflanzen und Kostüme für gesammelte Aufladungen!
 
 [SPRING_REFRASH_TIME]
-后更换植物
+Pflanze ersetzen nach:
 
 [SPRING_TIME_COUNT]
-活动倒计时：
+Event-Countdown:
 
 [EXP_PLANT_LOGIN_SUM_DAYS]
-已登录天数：{NUMBER}天
+Angemeldet seit: {NUMBER} Tagen
 
 [SPRING_EXPPLANT_TIPS]
-的体验卡时间已经过期，是否要购买该植物？
+Die Erfahrungskarte ist abgelaufen. Möchtest du diese Pflanze kaufen?
 
 [NEWER_PRESENT_FIRSTRECHARGE_TITLE]
-首充礼包
+Geschenkpaket für die erste Aufladung
 
 [NEWER_PRESENT_FIRSTRECHARGE_DES]
-首笔单笔充值满^00FF00 2元 ^oldclr 购买钻石，即可获得首充礼包！（一共可以获得^00FF00 155钻^oldclr 哦！）
+Mit der ersten Aufladung von ^00FF00 2 Yuan ^oldclr erhältst du Diamanten und das Geschenkpaket für die erste Aufladung! (Insgesamt können ^00FF00 155 Diamanten ^oldclr erhalten werden. Oh!)
 
 [PLANT_SPECIAL_LEFT_TIME]
-活动倒计时：{TIME}
+Event-Countdown: {TIME}
 
 [SOCCER_GAME_LEFT_TIME]
 {TIME}
 
 [STORE_CATEGORY_NAME_AD_FREE_DESC]
-购买终身免广告权益
+Lebenslang werbefreie Vorteile erwerben
 
 [STORE_CATEGORY_NAME_AD_FREE_SHORT_DESC]
-终身免广告权益
+Lebenslang werbefreie Vorteile
 
 [AD_FREE_BUY_SUCCESS_TEXT]
-购买成功，已获得终身免广告权益
+Kauf erfolgreich, lebenslange werbefreie Vorteile erhalten
 
 [AD_FREE_BUY_SUCCESS_TITLE]
-购买成功
+Kauf erfolgreich
 
 [ARTIFACT_WIND]
-神风神器
+Kamikaze-Artefakt
 
 [ARTIFACT_PRESENT_NEW_TITLE]
-神器礼包
+Artefaktgeschenk Paket
 
 [ARTIFACT_PRESENT_UNLOCK_TIP]
-每种类型的礼包都有一定的限购次数
+Jedes Geschenkpaket hat ein bestimmtes Kauflimit.
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_DESC]
-购买神器礼包
+Artefakt-Geschenkpaket kaufen
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC]
-神器礼包
+Artefakt-Geschenkpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_1]
-神风神器礼包
+Kamikaze-Artefakt-Geschenkpaket
 
-[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_2]
-闪电神器礼包
+[STORE_CATEGORY_NA ME_ARTIFACT_PRESENT_SHORT_DESC_2]
+Blitz-Artefakt-Geschenkpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_3]
-神器强化礼包1
+Artefakt-Verbesserungs-Geschenkpaket 1
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_4]
-神器强化礼包2
+Artefakt-Verbesserungs-Geschenkpaket 2
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_5]
-神器强化礼包3
+Artefakt-Verbesserungs-Geschenkpaket 3
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_6]
-章鱼神器礼包
+Artefakt-Verbesserungs-Geschenkpaket 7
+
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_7]
+Artefakt-Verbesserungs-Geschenkpaket 8
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_8]
-时间神器礼包
+Artefakt-Verbesserungs-Geschenkpaket 10
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_9]
-窜天猴神器礼包
+Artefakt-Verbesserungs-Geschenkpaket 21
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_10]
-飞碟神器礼包
+Artefakt-Verbesserungs-Geschenkpaket 32 SC_6]
+Oktopus-Artefaktpaket
+
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_8]
+Zeit-Artefaktpaket
+
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_9]
+Himmelsaffe-Artefaktpaket
+
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_10]
+Fliegende Untertasse-Artefaktpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_11]
-棱镜塔神器礼包
+Prismenturm-Artefaktpaket
 
-[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_12]
-号角神器礼包
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_1 Y_NAME_ARTIFACT_PRESENT_SHORT_DESC_12]
+Horn-Artefaktpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_13]
-黑洞神器礼包
+Schwarz Loch-Artefakt-Paket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_14]
-陨石神器礼包
+Meteoriten-Artefakt-Paket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_15]
-魔法帽神器礼包
+Zauberhut-Artefakt-Paket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_16]
-蜂巢神器礼包
+Waben-Artefakt-Geschenk-Paket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_17]
-神器礼包
+Artefakt-Geschenk-Paket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_18]
-酸液神器礼包
+Säure-Artefakt-Geschenk-Paket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_19]
-造雪神器礼包
+Schneeerzeugung-Artefakt-Geschenk Paket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_20]
-银之键神器礼包
+Silberschlüssel-Artefakt-Geschenkpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_21]
-小型祝福礼包
-
-[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_22]
-中型祝福礼包
+Silberschlüssel-Artefakt-Geschenkpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_23]
-大型祝福礼包
+ATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_21]
+Kleines Segens-Geschenkpaket
+
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_22]
+Mittelgroßes Segens-Geschenkpaket
+
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_23]
+Großes Segens-Geschenk Paket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_24]
-海神三叉戟神器礼包
+Poseidon-Dreizack-Artefaktpaket
 
-[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_25]
-全息神器礼包
+[STORE_CATEGORY_NAME_ARTIFACT_PR ESENT_SHORT_DESC_25]
+Holografisches Artefakt-Geschenkpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_26]
-保龄球神器礼包
+Bowling-Artefakt-Geschenkpaket
 
 [NEWER_PRESENT_NEW_TITLE]
-新手礼包
+Neuling-Geschenkpaket
 
 [NEWER_PRESENT_UNLOCK_TIP]
-购买前一个礼包后即可以解锁下一个礼包
+Schalte das nächste Geschenkpaket frei, nachdem du das vorherige gekauft hast.
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_DESC]
-购买礼包
+Geschenkpaket kaufen
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_1]
-萌新快乐礼包
+Happy Newbie-Geschenkpaket
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_2]
 植物砖家礼包
@@ -43656,561 +43674,560 @@ Reduziert die Abklingzeit von dem Butterglöckchen um 20 %
 {NUMBER}连击
 
 [FLATTENEDSHROOM]
-平顶菇
+Plattkopfpilz
 
 [FLATTENEDSHROOM_DESCRIPTION_HEADER]
-平顶菇可以堵住地面上的下水道洞。
+Plattkopfpilze können Abwasserlöcher im Boden verschließen.
 
 [FLATTENEDSHROOM_DESCRIPTION]
-{KEYWORD}用法：{STAT} 一次性使用
-{KEYWORD}特点：{STAT}堵住一个下水道洞
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR}平顶菇本想安安静静地晒晒阳光，却总是被人拿来修马路。它表示说“下水道下面可冷了”。
+{KEYWORD}Verwendung:{STAT}Einmalige Verwendung
+{KEYWORD}Funktionen:{STAT}Verschließt ein Abwasserloch
+{KEYWORD}Pflanzeneigenschaften:{STAT}Rote Pflanze
+{FLAVOR}Plattkopfpilze wollten sich gerne in der Sonne aalen, wurden aber immer für Straßenreparaturen verwendet. Er sagte: „Unter der Kanalisation ist es kalt.“
 
 [FLATTENEDSHROOM_TOOLTIP]
-把他种植在一个井洞上可以堵住蒸汽
+Pflanze ihn auf einem Brunnenloch, um Dampf zu blockieren.
 
 [LOTUSSHOOTER]
-莲藕射手
+Lotus-Wurzelschütze
 
 [LOTUSSHOOTER_DESCRIPTION_HEADER]
-可以吸收毒雾造成额外伤害。
+Kann Giftnebel absorbieren und so zusätzlichen Schaden verursachen.
 
 [LOTUSSHOOTER_DESCRIPTION]
-{KEYWORD}特点：{STAT}吸收身边的毒雾
-{KEYWORD}植物特征：{STAT}白色植物
-{FLAVOR} 莲藕射手是资深环保人士，看到漫天的雾霾，它总想射点什么。
+{KEYWORD}Eigenschaften:{STAT}Absorbiert giftigen Nebel
+{KEYWORD}Pflanzeneigenschaften:{STAT}Weiße Pflanze
+{FLAVOR} Der Lotuswurzelschütze ist ein erfahrener Umweltschützer. Wenn er den Dunst am Himmel sieht, will er immer etwas abschießen.
 
 [LOTUSSHOOTER_TOOLTIP]
-发射水箭进行攻击，可吸收毒雾并使攻击附带中毒效果
+Schießt Wasserpfeile ab, um anzugreifen. Diese absorbieren giftigen Nebel und verleihen dem Angriff eine vergiftende Wirkung.
 
 [LOTUSSHOOTER_SKILL_LEVEL1]
-多重水箭
+Mehrere Wasserpfeile
 
 [LOTUSSHOOTER_SKILL_LEVEL1_DES]
-有10%的几率进入连发状态，发射多枚急速水箭
+Es besteht eine 10%ige Chance, in den Salvenzustand zu wechseln und mehrere schnelle Wasserpfeile abzufeuern.
 
 [LOTUSSHOOTER_SKILL_LEVEL2]
-水箭大师
+Wasserpfeilmeister
 
 [LOTUSSHOOTER_SKILL_LEVEL2_DES]
-提升爆多重水箭效果100%。
+Erhöht die Wirkung mehrerer Salven um 100 %.
 
 [LOTUSSHOOTER_SKILL_LEVEL5]
-莲藕水枪
+Lotuswurzel-Wasserpistole
 
 [LOTUSSHOOTER_SKILL_LEVEL5_DES]
-有概率发射持续性水柱，对僵尸产生击退效果并造成持续性伤害
+Es besteht die Chance, eine kontinuierliche Wassersäule abzufeuern, die Zombies zurückstößt und kontinuierlichen Schaden verursacht.
 
 [LOTUSSHOOTER_AVATAR_NAME]
-莲藕装扮
+Lotuswurzel Kostüm
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER_TITLE]
-莲藕装扮
+Lotuswurzel-Kostüm
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER]
-额外形成水箭和酸液箭，水箭造成腐蚀效果，酸液箭造成范围伤害。
-
+Es werden zusätzliche Wasser- und Säurepfeile erzeugt. Wasserpfeile verursachen Korrosionseffekte, Säurepfeile verursachen Fernkampfschaden.
 
 [PASSIONFLOWER]
-番莲工程师
+Passionsblumen-Ingenieur
 
 [PASSIONFLOWER_DESCRIPTION_HEADER]
-都可以对上下2行造成持续伤害。
+Kann den oberen und unteren Reihen kontinuierlichen Schaden zufügen.
 
 [PASSIONFLOWER_DESCRIPTION]
-{KEYWORD}特点：{STAT}可以对攻击范围内的僵尸造成持续性伤害
-{KEYWORD}植物特征：{STAT}紫色植物
-{FLAVOR} 番莲立志要成为一名工程师，但到现在它只会造齿轮。
+{KEYWORD}Merkmale:{STAT}Kann Zombies in Angriffsreichweite kontinuierlichen Schaden zufügen.
+{KEYWORD}Pflanzenmerkmale:{STAT}Lila Pflanze
+{FLAVOR} Passionsblume strebt danach, Ingenieurin zu werden, kann aber bisher nur Zahnräder herstellen.
 
 [PASSIONFLOWER_TOOLTIP]
-发射齿轮攻击最近的僵尸，并对范围内的僵尸造成持续性伤害
+Schießt Zahnräder ab, um den nächsten Zombie anzugreifen und Zombies in Reichweite kontinuierlichen Schaden zuzufügen.
 
 [PASSIONFLOWER_SKILL_LEVEL1]
-机械专家
+Mechanischer Experte
 
 [PASSIONFLOWER_SKILL_LEVEL1_DES]
-有10%的几率发射出快速旋转的齿轮，对击中僵尸产生定身效果
+10 % Chance, schnell rotierende Zahnräder abzufeuern, die Zombies bewegungsunfähig machen.
 
 [PASSIONFLOWER_SKILL_LEVEL2]
-机械大师
+Mechanischer Meister
 
 [PASSIONFLOWER_SKILL_LEVEL2_DES]
-提升机械专家效果100%。
+Erhöht die Wirkung von Mechanischem Experten um 100 %.
 
 [PASSIONFLOWER_SKILL_LEVEL5]
-机械弹射
+Mechanischer Auswurf
 
 [PASSIONFLOWER_SKILL_LEVEL5_DES]
-有概率再抛投出一个齿轮，攻击到目标后会再次发射小齿轮攻击后一个僵尸
+Es besteht die Chance, ein weiteres Zahnrad abzuwerfen. Nach dem Angriff auf das Ziel schleudert es ein weiteres kleines Zahnrad, um den nächsten Zombie anzugreifen.
 
 [PASSIONFLOWER_AVATAR_NAME]
-番莲装扮
+Passionsblumenkostüm
 
 [STORE_PRODUCT_AVATAR_PASSIONFLOWER_TITLE]
-番莲装扮
+Passionsblumenkostüm
 
 [STORE_PRODUCT_AVATAR_PASSIONFLOWER]
-形成钻石齿轮造成范围伤害
+Bildet Diamantzahnräder, die Fernschaden verursachen.
 
 [VANILLA]
-吹风荚兰
+Vanille
 
 [VANILLA_DESCRIPTION_HEADER]
-可以吹走绅士僵尸的伞
+Kann den Regenschirm des Gentleman-Zombies wegblasen.
 
 [VANILLA_DESCRIPTION]
-{KEYWORD}特点：{STAT}可以吹走绅士僵尸的伞
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR} 吹风荚兰一直想成为一名理发师，但是他只能吹出各种造型
+{KEYWORD}Merkmale:{STAT}Kann den Regenschirm des Gentleman-Zombies wegblasen.
+
+{KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze.
+{FLAVOR} Blaskapsel: Vanille wollte schon immer Friseur werden, kann aber nur verschiedene Stile blasen.
 
 [VANILLA_TOOLTIP]
-可以吹走绅士僵尸的伞
+Kann den Regenschirm des Gentleman-Zombies wegblasen und somit auch den Zombie.
 
 [VANILLA_SKILL_LEVEL1]
-空气炮
+Luftkanone
 
 [VANILLA_SKILL_LEVEL1_DES]
-有10%的概率形成空气巨炮对目标造成伤害并且击退一格
+Es besteht eine 10%ige Chance, eine Luftkanone zu bilden, die das Ziel beschädigt und ein Feld zurückwirft.
 
 [VANILLA_SKILL_LEVEL2]
-气功炮
+Qigong-Kanone
 
 [VANILLA_SKILL_LEVEL2_DES]
-提升爆空气炮效果100%。
+Erhöht die Wirkung der explosiven Luftkanone um 100 %.
 
 [VANILLA_SKILL_LEVEL5]
-狂卷风
+Tornado
 
 [VANILLA_SKILL_LEVEL5_DES]
-有概率连续释放3个定身龙卷风随机对地图上目标造成定身效果
+Es besteht die Chance, drei aufeinanderfolgende Immobilisierungs-Tornados auszulösen, um zufällig ausgewählte Ziele auf der Karte zu immobilisieren.
 
 [VANILLA_AVATAR_NAME]
-吹风荚兰装扮
+Vanille-Kostüm
 
 [STORE_PRODUCT_AVATAR_VANILLA_TITLE]
-吹风荚兰装扮
-
+Vanille-Kostüm
 
 [STORE_PRODUCT_AVATAR_VANILLA]
-生成寒冰龙卷风有概率冰冻中体型僵尸与载具僵尸。
+Beim Erzeugen eines Eistornados Es besteht die Möglichkeit, mittelgroße Zombies und Fahrzeug-Zombies einzufrieren.
 
 [MULBERRY]
-桑葚爆破手
+Maulbeere
 
 [MULBERRY_DESCRIPTION_HEADER]
-丢出手雷对一格内僵尸造成伤害
+Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
 
 [MULBERRY_DESCRIPTION]
-{KEYWORD}特点：{STAT}丢出手雷对一格内僵尸造成伤害
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR} 他是一个军事迷，而且酷爱收集各种军事材料，有一天他把自己打扮成炮手的形象，在街上吓到不少植物~
+{KEYWORD}Funktionen:{STAT}Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
+{KEYWORD}Pflanzenfunktionen:{STAT}Rote Pflanze
+{FLAVOR} Er ist ein Militärfan und sammelt gerne alle möglichen militärischen Materialien. Eines Tages verkleidete er sich als Schütze und erschreckte damit viele Pflanzen auf der Straße.
 
 [MULBERRY_TOOLTIP]
-丢出手雷对一格内僵尸造成伤害
+Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
 
 [MULBERRY_SKILL_LEVEL1]
-爆破专家
+Sprengstoff
 
 [MULBERRY_SKILL_LEVEL1_DES]
-有10%概率破片手雷爆炸时会对周围僵尸造成溅射伤害。
+Es besteht eine 10%ige Chance, dass die Splittergranate bei der Explosion Flächenschaden an den umliegenden Zombies verursacht.
 
 [MULBERRY_SKILL_LEVEL2]
-爆破专精
+Sprengstoffexpertise
 
 [MULBERRY_SKILL_LEVEL2_DES]
-提升爆破专家效果100%。
+Erhöht die Wirkung von Sprengmeister um 100 %.
 
 [MULBERRY_SKILL_LEVEL5]
-趣味爆破
+Spaß-Sprengstoff
 
 [MULBERRY_SKILL_LEVEL5_DES]
-有概率释放随机手雷弹，爆破弹对敌方造成高额伤害并且有概率炸飞僵尸，闪光弹可以对3X3范围内敌方单位造成定身效果，毒气弹可以对3X3范围内敌方单位造成10秒中毒效果。
+Es besteht die Chance, zufällige Granaten abzuwerfen. Explosive Granaten verursachen hohen Schaden am Gegner und können Zombies in die Luft jagen. Blendgranaten können gegnerische Einheiten im Umkreis von 3x3 bewegungsunfähig machen, und Giftgasbomben können gegnerische Einheiten im Umkreis von 3x3 10 Sekunden lang vergiften.
 
 [MULBERRY_AVATAR_NAME]
-桑葚爆破装扮
+Maulbeeren-Kostüm
 
 [STORE_PRODUCT_AVATAR_MULBERRY_TITLE]
-桑葚爆破装扮
+Maulbeeren-Kostüm
 
 [STORE_PRODUCT_AVATAR_MULBERRY]
-有概率丢出巨大手雷对目标造成3X3范围的巨额伤害。
+Es besteht die Chance, eine riesige Granate zu werfen und dem Ziel im Umkreis von 3x3 großen Schaden zuzufügen.
 
 [CONVALLARIACHEMIST]
-芦藜药师
+Maiglöckchen Chemikerin
 
 [CONVALLARIACHEMIST_DESCRIPTION_HEADER]
-可以对攻击范围内的僵尸造成伤害附带中毒效果
+Kann Zombies in Angriffsreichweite mit einem Vergiftungseffekt Schaden zufügen.
 
 [CONVALLARIACHEMIST_DESCRIPTION]
-{KEYWORD}特点：{STAT}可以对攻击范围内的僵尸造成伤害附带中毒效果
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 芦藜药师从小学医，希望可以救死扶伤，但对于僵尸，可能死亡才是解脱
+{KEYWORD}Merkmale: {STAT}Kann Zombies in Angriffsreichweite mit Vergiftungseffekt Schaden zufügen.
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze
+{FLAVOR} Die Maiglöckchen Chemikerin lernt seit ihrer Kindheit Medizin, um Sterbende und Verwundete zu retten. Doch für Zombies ist der Tod oft der einzige Ausweg.
 
 [CONVALLARIACHEMIST_TOOLTIP]
-可以对攻击范围内的僵尸造成伤害附带中毒效果
+Kann Zombies in Angriffsreichweite mit Vergiftungseffekt Schaden zufügen.
 
 [CONVALLARIACHEMIST_SKILL_LEVEL1]
-毒药师
+Giftmeister
 
 [CONVALLARIACHEMIST_SKILL_LEVEL1_DES]
-有10%概率在地上一格范围内形成一滩毒液，毒液会对经过的僵尸造成中毒效果
+Es besteht eine 10%ige Chance, dass sich innerhalb eines Gitters auf dem Boden erscheint, welcher vorbeigehende Zombies vergiftet.
 
 [CONVALLARIACHEMIST_SKILL_LEVEL2]
-绝命毒师
+Breaking Bad-Meister
 
 [CONVALLARIACHEMIST_SKILL_LEVEL2_DES]
-提升毒药使效果100%。
+Erhöht die Giftwirkung um 100 %.
 
 [CONVALLARIACHEMIST_SKILL_LEVEL5]
-药剂大师
+Zaubertrankmeister
 
 [CONVALLARIACHEMIST_SKILL_LEVEL5_DES]
-有概率抛射更大的药剂瓶，砸在僵尸身上会溅射开来，使一格内的僵尸中毒。
+Kann eine größere Zaubertrankflasche werfen, die beim Aufprall auf einen Zombie spritzt und die Zombies innerhalb eines Gitters vergiftet.
 
 [CONVALLARIACHEMIST_AVATAR_NAME]
-芦藜装扮
+Avalon-Kostüm
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST_TITLE]
-芦藜装扮
+Averrhoa-Kostüm
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST]
-有概率扔出毒性更强的药剂，对僵尸造成3层中毒效果
+Es besteht die Möglichkeit, einen giftigeren Trank zu werfen, der Zombies dreifach vergiftet.
 
 [ZOMBIE_STEAM_WORKER]
-工人僵尸
+Arbeiter-Zombie
 
 [ZOMBIE_STEAM_WORKER_DESCRIPTION]
-每天起早贪黑，勤勤恳恳，只为了赚钱可以买点“脑子饼干”吃~
+Steh jeden Tag früh auf und bleibe lange auf, um fleißig zu arbeiten, nur um Geld zu verdienen und ein paar „Gehirnkekse“ zu kaufen.
 
 [ZOMBIE_STEAM_WORKER_DESCRIPTION_HEADER]
-每天工作的普通僵尸
+Ein gewöhnlicher Zombie, der jeden Tag arbeitet.
 
 [ZOMBIE_STEAM_ARMOR1]
-路障工人僵尸
+Straßensperren-Arbeiter-Zombie
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION]
-工人僵尸对自己脑袋上有路障这事情还挺高兴，因为代表自己升职了！
+Der Arbeiter-Zombie freut sich riesig über die Straßensperre auf seinem Kopf, denn sie bedeutet, dass er befördert wurde!
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION_HEADER]
-他的工人路障帽比普通工人强壮2倍
+Sein Arbeiter-Barrikadenhelm ist doppelt so stark wie der eines normalen Arbeiters.
 
 [ZOMBIE_STEAM_ARMOR2]
-铁桶工人僵尸
+Eiseneimer-Arbeiter-Zombie
 
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION]
-铁桶工人僵尸前几天得到升值加薪，他甚是高兴，于是让锻造工为他锻造一个标识性的铁桶头盔作为给自己的奖励，这铁桶不止为他抵挡了很多伤害，还突出了他的身份！
+Der Eiseneimer-Arbeiter-Zombie erhielt vor ein paar Tagen eine Beförderung und Gehaltserhöhung. Er freute sich riesig und bat den Schmied, ihm als Belohnung einen einzigartigen Eiseneimer-Helm anzufertigen. Dieser Eiseneimer hielt nicht nur viel Schaden aus, sondern unterstrich auch seine Identität!
 
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION_HEADER]
-这个锻造的铁桶很好保护他不受伤害
+Dieses geschmiedete Eisenfass schützt ihn vor Schaden.
 
 [ZOMBIE_STEAM_FLAG]
-蒸汽旗帜僵尸
+Steam-Flaggen-Zombie
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION]
-旗帜僵尸是除了监工僵尸外最具有信服力的，所有僵尸都对他可以井井有条的工作并且从来不加班感到神奇，这次还被颁发了最佳员工的锦旗标志他的能力！
+Der Flaggen-Zombie ist neben dem Aufseher-Zombie der überzeugendste Zombie. Alle Zombies sind von seiner ordentlichen Arbeit und seinen nie überstundenmachenden Leistungen begeistert. Dieses Mal wurde er für seine Fähigkeiten mit dem Wimpel des besten Mitarbeiters ausgezeichnet!
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION_HEADER]
-标志着一大波蒸汽僵尸的到来
+Markiert die Ankunft einer großen Welle von Steam-Zombies.
 
 [ZOMBIE_STEAM_GARGANTUAR]
-监工巨人僵尸
+Aufseher-Riesenzombie
 
 [ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION_HEADER]
-砸扁一切植物，还会投掷小鬼。
+Zerschmettert alle Pflanzen und schleudert Kobolde.
 
 [ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害：{STAT}使用巨型扳手，砸扁接触到的植物
-{KEYWORD}特点：{STAT}当受到伤害会扔出工业小鬼僵尸
+{KEYWORD}Schaden:{STAT}Zerquetscht Pflanzen bei Kontakt mit einem riesigen Schraubenschlüssel.
+{KEYWORD}Funktionen:{STAT}Wirft bei Beschädigung einen Industrie-Kobold-Zombie hinaus.
 
-{FLAVOR}监工巨人僵尸是小型工厂的小头头，一直保证工厂所生产的物品质量不会出现差错，虽然平时对工人非常严苛，而且自己脾气也非常暴躁，平时喜欢吸雪茄，但是不妨碍他是个好人。
+{FLAVOR}Der riesige Overwatch-Zombie ist der Chef einer kleinen Fabrik. Er sorgt stets für die einwandfreie Qualität der produzierten Waren. Obwohl er gegenüber Arbeitern meist sehr streng ist, ein sehr schlechtes Temperament hat und gerne Zigarren raucht, hindert ihn das nicht daran, ein guter Mensch zu sein.
 
 [ZOMBIE_STEAM_IMP]
-工业小鬼僵尸
+Industrie-Kobold-Zombie
 
 [ZOMBIE_STEAM_IMP_DESCRIPTION]
-靠着舅舅是监工巨人僵尸关系，被安排到工厂谋求一个职位，但是他平时工作还是比较刻苦的，而且头脑聪明。
+Weil sein Onkel der riesige Overwatch-Zombie ist, wurde ihm eine Stelle in der Fabrik zugeteilt. Er ist jedoch normalerweise fleißig und klug.
 
 [ZOMBIE_STEAM_IMP_DESCRIPTION_HEADER]
-被抛到你的大多数植物之后，然后步行前进
+Wird hinter die meisten deiner Pflanzen geworfen und läuft dann vorwärts.
 
 [ZOMBIE_STEAM_STOVE]
-锅炉僵尸
+Kessel-Zombie
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION]
-{KEYWORD}弱点：{STAT}被冰系植物击中会降低温度
+{KEYWORD}Schwäche:{STAT}Treffer von Eispflanzen senken die Temperatur.
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION]
-整日都在高温环境下工作，让他的脾气变得非常暴躁，所以尽量不要去招惹他，不过你去送他一杯冰水他会很高兴的。
+Die ganztägige Arbeit bei hohen Temperaturen macht ihn sehr reizbar. Versuche also, ihn nicht zu ärgern. Er freut sich aber über ein Glas Eiswasser.
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION_HEADER]
-温度升高会对植物造成毁灭伤害
+Steigende Temperaturen verursachen verheerende Schäden an Pflanzen.
 
 [ZOMBIE_STEAM_GENTLEMAN]
-绅士僵尸
+Gentleman-Zombie
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
-{KEYWORD}弱点：{STAT}会被吹风荚兰吹走雨伞
+{KEYWORD}Schwäche: {STAT}Regenschirme können vom Wind weggeweht werden.
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
-是一名贵族绅士，所以非常注重自己的仪态，每天出门都要打扮的整整齐齐，每天带着雨伞就是怕下雨弄乱他的仪表看上去不绅士。
+Er ist ein edler Gentleman und legt daher großen Wert auf seine Manieren. Er kleidet sich jeden Tag ordentlich, wenn er ausgeht. Er trägt jeden Tag einen Regenschirm dabei, weil er Angst hat, dass der Regen sein Aussehen ruiniert und ihn unedel aussehen lässt.
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
-可以跨越地面的防御与障碍
+Kann Bodenverteidigungen und Hindernisse überwinden.
 
 [ZOMBIE_STEAM_COAL_MINER]
-煤矿僵尸
+Kohlegruben-Zombie
 
 [ZOMBIE_STEAM_COAL_MINER_DESCRIPTION]
-{KEYWORD}弱点：{STAT} 被火系植物击中会加快燃烧速度
+{KEYWORD}Schwäche: {STAT} Von Feuerpflanzen getroffen zu werden, beschleunigt die Brenngeschwindigkeit.
 
 [ZOMBIE_STEAM_COAL_MINER_DESCRIPTION]
-每天推着矿车进进出出，只为了有一天能发现金矿可以一夜暴富，这样子工作的情况也就持续了365个日夜。
+Täglich die Lore rein und raus schieben, nur um eines Tages eine Goldmine zu finden und über Nacht reich zu werden. Diese Art von Arbeit dauerte 365 Tage und Nächte.
 
 [ZOMBIE_STEAM_COAL_MINER_DESCRIPTION_HEADER]
-可以倒出煤矿秒杀植物，一共可以倒1次
+Du kannst Kohle ausschütten, um Pflanzen sofort zu töten. Du kannst es insgesamt einmal einschenken.
 
 [NARRATIVE_STEAM_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}哇哦！这里是哪里？我的肚子又咕咕叫了！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow! Wo ist das? Mir knurrt schon wieder der Magen!
 
 [NARRATIVE_STEAM_1_INTRO_2]
-{SAY:WINNIE}欢迎来到蒸汽时代！这是本次时空旅行的第14站。
+{SAY:WINNIE}Willkommen im Dampfzeitalter! Dies ist die 14. Station dieser Zeitreise.
 
 [NARRATIVE_STEAM_1_INTRO_3]
-{EXCITED:CRAZYDAVE}好奇怪气味！这些洞中冒出的烟一点都没有食物味道好闻！
+{EXCITED:CRAZYDAVE}Was für ein seltsamer Geruch! Der Rauch, der aus diesen Löchern kommt, riecht überhaupt nicht nach Essen!
 
 [NARRATIVE_STEAM_1_INTRO_4]
-{SAY:WINNIE}数据显示这些洞中会冒出毒雾会对植物造成伤害。
+{SAY:WINNIE} Daten zeigen, dass giftiger Nebel aus diesen Löchern austritt und Pflanzen schädigt.
 
 [NARRATIVE_STEAM_1_INTRO_5]
-{EXCITED:CRAZYDAVE}啊啊啊啊啊！这些洞深不见底！让我恐高症都犯了！
+{EXCITED:CRAZYDAVE}Aaaaaaa! Diese Löcher sind so tief! Ich habe Höhenangst!
 
 [NARRATIVE_STEAM_1_INTRO_6]
-{SAY:WINNIE}据说此洞的深度达到6666米。
+{SAY:WINNIE}Es heißt, dieses Loch sei 6666 Meter tief.
 
 [NARRATIVE_STEAM_1_INTRO_7]
-{SAY:WINNIE}说不定再看一会儿，会有东西从里面钻出来。
+{SAY:WINNIE}Vielleicht kommt ja etwas heraus, wenn wir ein bisschen hinschauen.
 
 [NARRATIVE_STEAM_1_INTRO_8]
-{EXCITED:CRAZYDAVE}洞里肯定不会有其他东西！谁会住在那么深的洞里！
+{EXCITED:CRAZYDAVE}In dem Loch darf nichts anderes sein! Wer würde in so einem tiefen Loch leben?
 
 [NARRATIVE_STEAM_1_INTRO_9]
-{SAY:WINNIE}可是我们的探测仪器却不这么想。
+{SAY:WINNIE}Aber unsere Messgeräte glauben das nicht.
 
 [NARRATIVE_STEAM_1_INTRO_10]
-{SAY:WINNIE}使用平顶菇可以堵住洞口可以暂时防止毒雾和僵尸出来。
+{SAY:WINNIE}Verschließe das Loch mit dem Pilz mit der flachen Spitze und verhindere so vorübergehend, dass der giftige Nebel und die Zombies herauskommen.
 
 [NARRATIVE_STEAM_3_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}那里有个和我一样绅士的家伙！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Da ist ein Gentleman wie ich!
 
 [NARRATIVE_STEAM_3_INTRO_2]
-{SAY:WINNIE}这是蒸汽时代的绅士僵尸。
+{SAY:WINNIE}Das ist der Gentleman-Zombie aus dem Dampfzeitalter.
 
 [NARRATIVE_STEAM_3_INTRO_3]
-{EXCITED:CRAZYDAVE}嘿嘿！感觉可以和他交个朋友的感觉！
+{EXCITED:CRAZYDAVE}Hey! Ich glaube, ich könnte mich mit ihm anfreunden!
 
 [NARRATIVE_STEAM_3_INTRO_4]
-{SAY:WINNIE}绅士僵尸会越过肉盾植物对后方植物造成伤害。
+{SAY:WINNIE}Der Gentleman-Zombie überquert die Fleischschildpflanze und beschädigt die Pflanze dahinter.
 
 [NARRATIVE_STEAM_3_INTRO_5]
-{SAY:WINNIE}使用吹风荚兰可以吹掉绅士僵尸雨伞让其丢失特殊技能。
+{SAY:WINNIE}Benutze die Windblower-Orchidee, um den Regenschirm des Gentleman-Zombies wegzublasen und ihm seine besonderen Fähigkeiten zu nehmen.
 
 [NARRATIVE_STEAM_6_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}这些好多手上拿着零件的家伙！ 他们是在认真工作吗？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Da sind so viele Typen, die Teile in den Händen halten! Meinen die das ernst?
 
 [NARRATIVE_STEAM_6_INTRO_2]
-{SAY:WINNIE}当然不是，这些应该都是僵尸。
+{SAY:WINNIE}Natürlich nicht, das sollten alles Zombies sein.
 
 [NARRATIVE_STEAM_6_INTRO_3]
-{EXCITED:CRAZYDAVE}这里厨房在哪里？我想去看看没有美味的食物！
+{EXCITED:CRAZYDAVE}Wo ist hier die Küche? Ich will mal sehen, ob es hier leckeres Essen gibt!
 
 [NARRATIVE_STEAM_6_INTRO_4]
-{SAY:WINNIE}有没有厨房不知道！但是你需要一个强力射手攻击这些僵尸。
+{SAY:WINNIE}Ich weiß nicht, ob es eine Küche gibt! Aber man braucht einen starken Schützen, um diese Zombies anzugreifen.
 
 [NARRATIVE_STEAM_6_INTRO_5]
-{SAY:WINNIE}莲藕射手是蒸汽时代强力的远程输出，不仅可以吸收毒雾还对僵尸造成伤害。
+{SAY:WINNIE}Der Lotuswurzel-Schütze ist ein mächtiger Fernkampfwerfer im Dampfzeitalter. Er kann nicht nur giftigen Nebel absorbieren, sondern auch Zombies Schaden zufügen.
 
 [NARRATIVE_STEAM_13_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}我有密集恐惧症！这么那么多洞！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Ich habe eine Intensiv-Phobie! So viele Löcher!
 
 [NARRATIVE_STEAM_13_INTRO_2]
-{SAY:WINNIE}探测器显示从洞中会钻出植物或者僵尸。
+{SAY:WINNIE}Der Detektor zeigt an, dass Pflanzen oder Zombies aus den Löchern kommen.
 
 [NARRATIVE_STEAM_13_INTRO_3]
-{EXCITED:CRAZYDAVE}洞里面是不是有个弹簧床？
+{EXCITED:CRAZYDAVE}Ist in dem Loch ein Federbett?
 
 [NARRATIVE_STEAM_13_INTRO_4]
-{SAY:WINNIE}这个并没有。
+{SAY:WINNIE}So etwas gibt es nicht.
 
 [NARRATIVE_STEAM_13_INTRO_5]
-{SAY:WINNIE}使用锤子敲打僵尸会得到分数，敲打植物会扣除分数，达到一定分数就能过关。
+{SAY:WINNIE} Wenn du Zombies mit einem Hammer triffst, erhältst du Punkte, während du Pflanzen abziehst. Du schließest das Level ab, indem du eine bestimmte Punktzahl erreichst.
 
 [NARRATIVE_STEAM_13_INTRO_6]
-{SAY:WINNIE}消耗金币可以获得翻倍锤子，击打僵尸可以获得双倍分数。
+{SAY:WINNIE} Du erhältst einen Doppelhammer, indem du Goldmünzen ausgibst, und doppelte Punkte, wenn du Zombies triffst.
 
 [NARRATIVE_STEAM_13_INTRO_7]
-{SAY:WINNIE}消耗钻石可以获得无错对翻倍锤子，击打僵尸和植物都可以获得双倍分数。
+{SAY:WINNIE} Du erhältst einen korrekten Doppelhammer, indem du Diamanten ausgibst, und doppelte Punkte, indem du Zombies und Pflanzen triffst.
 
 [NARRATIVE_STEAM_16_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}那里有个身上背着锅炉的家伙是在减肥吗？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Versucht der Typ mit dem Kessel auf dem Rücken etwa abzunehmen?
 
 [NARRATIVE_STEAM_16_INTRO_2]
-{SAY:WINNIE}那是锅炉僵尸一段时间后会产生爆炸。
+{SAY:WINNIE}Der Kesselzombie explodiert nach einer Weile.
 
 [NARRATIVE_STEAM_16_INTRO_3]
-{EXCITED:CRAZYDAVE}我去问问他能不能背着那么重东西不累吗？
+{EXCITED:CRAZYDAVE}Ich werde ihn fragen, ob er es leid ist, so schwere Sachen zu tragen.
 
 [NARRATIVE_STEAM_16_INTRO_4]
-{SAY:WINNIE}理论上他不会感觉到累。
+{SAY:WINNIE}Theoretisch wird er nicht müde.
 
 [NARRATIVE_STEAM_16_INTRO_5]
-{SAY:WINNIE}用冰系植物可以延缓僵尸的爆炸时间。
+{SAY:WINNIE}Der Einsatz von Eispflanzen kann die Explosion von Zombies verzögern.
 
 [NARRATIVE_STEAM_21_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}有个推着车家伙过来了！上面肯定有很多好吃的零食！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Da schiebt ein Typ einen Karren! Da müssen bestimmt viele leckere Snacks drauf sein!
 
 [NARRATIVE_STEAM_21_INTRO_2]
-{SAY:WINNIE}数据显示那是煤矿工僵尸。
+{SAY:WINNIE}Die Daten zeigen, dass es ein Kohlebergarbeiter-Zombie ist.
 
 [NARRATIVE_STEAM_21_INTRO_3]
-{EXCITED:CRAZYDAVE}咦？那些黑的好像是墨汁玉米卷吗？新品种？
+{EXCITED:CRAZYDAVE}Hä? Die schwarzen sehen aus wie Tinten-Tacos? Eine neue Variante?
 
 [NARRATIVE_STEAM_21_INTRO_4]
-{SAY:WINNIE}那些并不是墨汁而是煤炭会掩埋僵尸。
+{SAY:WINNIE}Das ist keine Tinte, sondern Kohle, die die Zombies begräbt.
 
 [NARRATIVE_STEAM_21_INTRO_5]
-{SAY:WINNIE}使用火系植物可以燃烧煤炭！
+{SAY:WINNIE}Verwende Feuerpflanzen, um Kohle zu verbrennen!
 
 [PLANTING_NOT_ON_MANHOLE]
-不能放在井洞上
+Du Kannst nicht auf einem Kanalschacht pflanzen.
 
 [PLANTING_NEED_FLOWERPOT_FIRST]
-请先放置花盆
+Bitte stelle zuerst den Blumentopf auf.
 
 [PLANTING_FLOWERPOT_ON_FLOWERPOT]
-不能将花盆放置在花盆上
+Du kannst keinen Blumentopf auf einen anderen Blumentopf stellen.
 
 [PLANTING_NOT_ON_FLOWERPOT]
-{PLANT_NAME}不能种在花盆上
+{PLANT_NAME} kann nicht auf einen Blumentopf gepflanzt werden.
 
 [PLANTING_NOT_ON_ROOF]
-{PLANT_NAME}不能种在屋顶上
+{PLANT_NAME} kann nicht auf ein Dach gepflanzt werden.
 
 [PLANTING_FLOWERPOT_ONLY_ROOF]
-花盆只能种在屋顶上
+Blumentöpfe können nur auf Dächern gepflanzt werden.
 
-[PLANTING_NOT_ON_MAGIC_MIRROR]
-{PLANT_NAME}不能种在魔镜上
+[P LANTING_NOT_ON_MAGIC_MIRROR]
+{PLANT_NAME} kann nicht auf einen Zauberspiegel gepflanzt werden.
 
 [PLANTING_NOT_ON_YUANBAO]
-植物不能种在元宝上
+Pflanzen können nicht auf Barren gepflanzt werden.
 
 [PLANTING_NOT_ON_BONFIRE]
-植物不能种在火堆上
+Pflanzen können nicht auf einem Lagerfeuer
 
 [PLANTING_NOT_ON_SNOWBALL]
-植物不能种植在雪球上
+Pflanzen können nicht auf einem Schneeball gepflanzt werden.
 
 [PLANTING_ARTIFACT_EVOLUTION_NOT_ON_THIS]
-进化神器不能种在这里
+Evolutionsartefakte können hier nicht gepflanzt werden.
 
 [PLANTING_ARTIFACT_BLACKHOLE_NOT_ON_THIS]
-黑洞神器不能种在这里
+Schwarzloch-Artefakt kann hier nicht gepflanzt werden.
 
 [PLANTING_ARTIFACT_SILVERKEY_NOT_ON_THIS]
-银之键神器不能种在这里
+Silberschlüssel-Artefakt kann hier nicht gepflanzt werden.
 
 [PLANTING_ARTIFACT_ACID_NOT_ON_THIS]
-酸液神器不能种在这里
+Säure-Artefakt kann hier nicht gepflanzt werden.
 
 [PLANTING_WIZARD_CRUCIBLE_NOT_ACTIVATED]
-巫师坩埚还没有沸腾
+Zaubertiegel kocht noch nicht.
 
-[PLANTING_WIZARD_CRUCIBLE_NEW_SEEDPACKET]
-生成新的植物卡
+[PLANTING_WIZARD_CRUCIBLE_NOT_ACTIVATED] LE_NEW_SEEDPACKET]
+Neue Pflanze erzeugen. Karte
 
 [ZSHOP_TITLE]
-联赛商店
+Liga-Shop
 
 [ZSHOP_ITEM_UNLOCK_1]
-钢铁联赛解锁
+Stahlliga-Freischaltung
 
 [ZSHOP_ITEM_UNLOCK_2]
-青铜联赛解锁
+Bronzeliga-Freischaltung
 
 [ZSHOP_ITEM_UNLOCK_3]
-白银联赛解锁
+Silberliga-Freischaltung
 
 [ZSHOP_ITEM_UNLOCK_4]
-黄金联赛解锁
+Goldliga-Freischaltung
 
 [ZSHOP_ITEM_UNLOCK_5]
-翡翠联赛解锁
+Smaragdliga-Freischaltung
 
 [ZSHOP_ITEM_LOCK_ALERT]
-卖光了 或 联赛等级未达到
+Ausverkauft oder Liga-Level nicht erreicht
 
 [ZSHOP_BUY_TICKET_TITLE]
-Z钥匙小店
+Z-Schlüssel-Shop
 
 [ZSHOP_BUY_LIMIT]
-限 购 ^FF0000 1 ^oldclr 次
+Kauflimit: ^FF0000 1 ^oldclr mal
 
 [ZSHOP_BUY_LITTLE_KEY]
-小串Z钥匙
+Kleiner Stapel Z-Schlüssel
 
 [ZSHOP_BUY_BIG_KEY]
-大串Z钥匙
+Großer Stapel Z-Schlüssel
 
 [ZSHOP_GET_CHALLENGE_ONE_CHANCE]
-获得 ^FF0000 1 ^oldclr 次
-挑战机会
+Holen Sie sich 1 x ^FF0000 ^oldclr
+Herausforderungsmöglichkeiten
 
 [ZSHOP_GET_CHALLENGE_TEN_CHANCE]
-获得 ^FF0000 10 ^oldclr 次
-挑战机会
+Holen Sie sich 10 x ^FF0000 ^oldclr
+Herausforderungsmöglichkeit
 
 [ZSHOP_CHALLENGE_ONE_PRICE]
-1元
+1 Yuan
 
 [ZSHOP_CHALLENGE_TEN_PRICE]
-6元
+6 Yuan
 
 [MAT_ZMATCH_TICKET]
-Z联赛勋章
+Z-Liga-Medaille
 
 [STORE_CATEGORY_NAME_BATTLEZ1_DESC]
-购买1次Z联赛挑战
+Kaufe 1 Z-Liga-Herausforderung
 
 [STORE_CATEGORY_NAME_BATTLEZ1_SHORT_DESC]
-Z联赛挑战x1
+Z-Liga-Herausforderung x1
 
-[STORE_CATEGORY_NAME_BATTLEZ6_DESC]
-购买10次Z联赛挑战
+[ST ORE_CATEGORY_NAME_BATTLEZ6_DESC]
+Kaufe 10 Z-Liga- Herausforderungen
 
 [STORE_CATEGORY_NAME_BATTLEZ6_SHORT_DESC]
-Z联赛挑战x10
+Z-Liga-Herausforderungen x10
 
 [THE_LIMIT_LOTTERY]
-限时夺宝
+Zeitlich begrenzte Lotterie
 
 [THE_LIMIT_LOTTERY_NEW]
-幸运转盘
+Glücksrad
 
 [CUP_SHOP]
-奖杯商店
+Trophäenladen
 
 [LEVEL_OF_PLANT]
-{PLANT_LEVEL} 阶 
+{PLANT_LEVEL} Level
 
 [LUCK_VALUE]
-幸运 ^FF0000 {NUMBER} ^oldclr^
+Glücks-^FF0000 {NUMBER} ^oldclr^
 
 [LOTTERY_TIMES]
-抽 {NUMBER} 次
+Ziehung {NUMBER} Mal
 
 [LOTTERY_TIMES_EMPTY]
-免费次数已用完
+Freie Nutzungen sind aufgebraucht
 
 [LOTTERY_TIMES_GET_INFO]
 访问vivo游戏中心
@@ -44523,229 +44540,231 @@ vivo游戏中心特权
 [RIFT_ICON_NOT_ENOUGH]
 时空币不足
 
-[SOLD_OUT]
-卖光了
+[AUSVERKAUFT]
+Ausverkauft
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_1]
-快来体验粉丝心叶兰的强力辅助，还能获得雕像，在雕像商店中兑换稀有好礼。
+Erlebe die mächtige Unterstützung der Fächerherzblatt-Orchidee und erhalte eine Statue, die du im Statuenladen gegen ein seltenes Geschenk eintauschen kannst.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_1_1]
-快来体验尖刺秋葵的强力攻击，还能获得雕像，在雕像商店中兑换稀有好礼。
+Erlebe den mächtigen Angriff der Stachel-Okra und erhalte eine Statue, die du im Statuenladen gegen ein seltenes Geschenk eintauschen kannst.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_2]
-快来体验双枪松果的强力攻击，还能获得雕像，在雕像商店中兑换稀有好礼。
+Erlebe den mächtigen Angriff der Doppelkanonen-Kiefernzapfen und erhalte eine Statue, die du im Statuenladen gegen ein seltenes Geschenk eintauschen kannst.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_2_1]
-快来体验黏弹糯米的强力攻击，还能获得雕像，在雕像商店中兑换稀有好礼。
+Erlebe den mächtigen Angriff des Klebreises und erhalte eine Statue, die du im Statuenladen gegen ein seltenes Geschenk eintauschen kannst.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_3]
-快来体验热辣海枣的火焰攻击，还能获得雕像，在雕像商店中兑换稀有好礼。
+Erlebe den Feuerangriff der Heißen Dattelpalme und erhalte eine Statue, die du im Statuenladen gegen seltene Geschenke eintauschen kannst.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_3_1]
-快来体验烈焰菇的火焰攻击，还能获得雕像，在雕像商店中兑换稀有好礼。
+Erlebe den Feuerangriff des Flammenpilzes und erhalte eine Statue, die du im Statuenladen gegen seltene Geschenke eintauschen kannst.
 
 [RENAISSANCE_CHALLENGE_UNLOCK]
-{NUM1} 月 {NUM2} 日解锁
+Freigeschaltet am {NUM1} Monat {NUM2} Tag
 
 [PLANTAIN]
-芭蕉舞蹈家
+Bajiao-Tänzerin
 
 [PLANTAIN_DESCRIPTION_HEADER]
-把僵尸推至最后一格
+Schiebt den Zombie zum letzten Feld
 
 [PLANTAIN_DESCRIPTION]
-{KEYWORD}特点：{STAT}把僵尸推至最后一格
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 为了准备五周年的庆典活动，组织方特意邀请了植物界最  名的舞蹈家芭蕉作为特邀嘉宾出席。虽然芭蕉在植物界是巨星，但是却非常喜欢做慈善，她决定把这次出场费全部捐出给植物慈善机构，获得了外界一致好评。并且此次芭蕉将会带来她新创造的传统扇子舞，这个话题流量瞬间达到了植度网搜索第一名。如果想要在现场一睹她的风采，请一定要准时抢票哦！
+{KEYWORD}Features: {STAT}Schiebt den Zombie zum letzten Feld
+{KEYWORD}Pflanzenfeatures: {STAT}Grüne Pflanzen
+{FLAVOR} Zur Feier des fünften Jubiläums luden die Organisatoren Bajiao, die berühmteste Tänzerin der Pflanzenwelt, als Ehrengast ein. Obwohl Bajiao ein Superstar in der Pflanzenwelt ist, engagiert sie sich sehr für wohltätige Zwecke. Sie spendete ihre gesamten Auftrittshonorare an Pflanzenhilfsorganisationen, was ihr einhelliges Lob einbrachte. Dieses Mal präsentierte Bajiao ihren neu kreierten traditionellen Fächertanz, und der Traffic dieses Themas erreichte sofort den ersten Platz in der Zhidu.com-Suche. Wenn ihr ihren Stil sofort erleben wollt, schnappt euch rechtzeitig euer Ticket!
+
 [PLANTAIN_TOOLTIP]
-把僵尸推至最后一格
+Schiebt den Zombie zum letzten Gitter.
 
 [PLANTAIN_SKILL_LEVEL1]
-舞力恢复
+Tanzerholung
 
 [PLANTAIN_SKILL_LEVEL1_DES]
-减少1秒冷却时间
+Reduziert die Abklingzeit um 1 Sekunde.
 
 [PLANTAIN_SKILL_LEVEL2]
-舞力提升
+Tanzverbesserung
 
 [PLANTAIN_SKILL_LEVEL2_DES]
-提升舞力恢复效果100%。
+Erhöht den Tanzerholungseffekt um 100 %.
 
 [PLANTAIN_SKILL_LEVEL5]
-舞动乾坤
+Tanzt durch die Welt.
 
 [PLANTAIN_SKILL_LEVEL5_DES]
-有概率释放混乱旋风，造成僵尸混乱攻击其他僵尸。
+Es besteht die Chance, einen chaotischen Wirbelwind auszulösen, der Zombies dazu bringt, andere Zombies verwirrt anzugreifen.
 
 [PLANTAIN_AVATAR_NAME]
-芭蕉舞蹈家装扮
+Bananentänzer-Kostüm
 
 [STORE_PRODUCT_AVATAR_PLANTAIN_TITLE]
-芭蕉舞蹈家装扮
+Bananentänzer-Kostüm
 
 [STORE_PRODUCT_AVATAR_PLANTAIN]
-有概率释放彩灯龙卷风击退中型僵尸。
+Es besteht die Möglichkeit, einen bunten Lichttornado auszulösen, um mittelgroße Zombies abzuwehren.
 
 [PINECONE]
-双枪松果
+Doppelkanonenzapfen
 
 [PINECONE_DESCRIPTION_HEADER]
-击败僵尸后下次普攻可以释放特殊攻击
+Nach dem Sieg über einen Zombie kann der nächste normale Angriff einen Spezialangriff auslösen.
 
 [PINECONE_DESCRIPTION]
-{KEYWORD}特点：{STAT}击败僵尸后下次普攻可以释放特殊攻击
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR} 在神秘的西部小镇里，双枪松果是一名神枪手牛仔，打击各种侵犯他小镇的恶霸僵尸，让僵尸们一提到他的名字就瑟瑟发抖。他差一点就成为这名镇子的警长，但是被他拒绝了，因为他觉得警长太无趣还不如去酒吧喝一杯。
+{KEYWORD}Funktionen:{STAT}Nach dem Sieg über einen Zombie kann der nächste normale Angriff einen Spezialangriff auslösen.
+{KEYWORD}Pflanzenfunktionen:{STAT}Gelbe Pflanze
+{FLAVOR} In einer mysteriösen Westernstadt ist Doppelkanonenzapfen ein Scharfschützen-Cowboy, der gegen alle möglichen Zombies kämpft, die in seine Stadt eindringen und die Zombies schon bei der Erwähnung seines Namens erzittern lassen. Er wäre beinahe Sheriff der Stadt geworden, lehnte aber ab, weil er den Sheriff zu langweilig fand und es besser wäre, etwas in die Bar zu gehen.
 [PINECONE_TOOLTIP]
-击败僵尸后下次普攻可以释放特殊攻击
+Nachdem du einen Zombie besiegt hast, kannst du beim nächsten normalen Angriff einen Spezialangriff ausführen.
 
 [PINECONE_SKILL_LEVEL1]
-双发枪
+Doppelwaffe
 
 [PINECONE_SKILL_LEVEL1_DES]
-有10%概率双枪松果左右双枪依次各释放一次普攻
+Es besteht eine 10%ige Chance, dass die linke und rechte Waffe der Doppelwaffe abwechselnd einen normalen Angriff ausführen.
 
 [PINECONE_SKILL_LEVEL2]
-神枪手
+Scharfschütze
 
 [PINECONE_SKILL_LEVEL2_DES]
-提升双发枪效果100%。
+Erhöht die Wirkung der Doppelwaffe um 100 %.
 
 [PINECONE_SKILL_LEVEL5]
-爆破雷
+Sprenggranate
 
 [PINECONE_SKILL_LEVEL5_DES]
-有概率发射出一颗手雷，击中第一个目标后对其一格内目标造成伤害。
+Es besteht die Chance, eine Granate abzufeuern, die dem Ziel innerhalb eines Rasters nach dem ersten Ziel Schaden zufügt.
 
 [PINECONE_AVATAR_NAME]
-双枪牛仔装扮
+Cowboy-Outfit mit Doppelkanone
 
 [STORE_PRODUCT_AVATAR_PINECONE_TITLE]
-双枪牛仔装扮
+Cowboy-Outfit mit Doppelkanone
 
 [STORE_PRODUCT_AVATAR_PINECONE]
-有概率额外多释放一次跟踪弹，并且伤害提高
+Es besteht die Chance, eine zusätzliche Zielkugel abzufeuern, wodurch der Schaden erhöht wird.
 
 [ZMATCHSHOP_BUYTIMES_LIMIT]
-限购 ^FF0000 1 ^oldclr 次
+Kauflimit: ^FF0000 1 ^oldclr mal
 
 [JOUST_AVATAR_NAME]
 ID_NAME_{INDEX}
 
 [JOUST_AWARD_HEADER2]
-获得奖励
+Belohnungen erhalten
 
 [JOUST_BUTTON_FORFEIT]
-投降
+Aufgeben
 
 [JOUST_CONNECTING_MESSAGE]
-链接到服务器......
+Verbindung zum Server wird hergestellt …
 
 [JOUST_EXIT_DESCRIPTION]
-如果你现在终止，那么你的连胜奖励奖杯重置。
+Wenn du jetzt abbrichst, wird deine Siegesserie-Trophäe zurückgesetzt.
 
 [JOUST_EXIT_HEADER]
-你确定吗?
+Bist du sicher?
 
 [JOUST_FINDING_OPPONENT]
-寻找对手.....
+Suche einen Gegner...
 
 [JOUST_FREE_TICKETS]
-联赛商店
+Liga-Shop
 
 [JOUST_HOW_TO_PLAY]
-玩法说明
+Spielanleitung
 
 [JOUST_HOW_TO_PLAY_TITLE]
-玩法说明
+Spielanleitung
 
 [JOUST_HOWTOPLAY_1_DESCRIPTION]
-关卡内击败僵尸会获得分数，在规定时间内分数高的一方获胜。
+Besiege Zombies im Level, um Punkte zu sammeln. Die Seite mit der höchsten Punktzahl innerhalb der vorgegebenen Zeit gewinnt.
 
 [JOUST_HOWTOPLAY_2_DESCRIPTION]
-越是快速击败僵尸越是对你有利，僵尸离你家越远击败他获得分数越高。
+Je schneller du Zombies besiegst, desto besser. Je weiter die Zombies von deinem Zuhause entfernt sind, desto höher ist deine Punktzahl.
 
 [JOUST_HOWTOPLAY_3_DESCRIPTION]
-Battlez matches reward Crowns. Win Streaks reward bonus Crowns. Earn as many Crowns as you can to climb to the top of your leaderboard!
+Battlez-Matches belohnen dich mit Kronen. Siegesserien belohnen mit Bonus-Kronen. Verdiene so viele Kronen wie möglich, um an die Spitze deiner Bestenliste zu gelangen!
 
 [JOUST_HOWTOPLAY_4_DESCRIPTION]
-进入你的排行榜前3名，你就能晋升到一个更有竞争力的联赛，获得更好的回报，也能挑战更强的对手。
+Wenn du die Top 3 deiner Bestenliste erreichst, steigst du in eine wettbewerbsfähigere Liga auf, erhältst bessere Belohnungen und kannst stärkere Gegner herausfordern.
 
 [JOUST_HOWTOPLAY_5_DESCRIPTION]
-每一期的超Z联赛，于周五下午15:00开启，全部赛程为5周，第6周为结算周。在第6周的周五上午09:00结束。当期活动结束后，下期活动将全部进行等级重置。
+Jede Super-Z-Liga startet freitags um 15:00 Uhr. Der gesamte Zeitplan umfasst fünf Wochen, wobei die sechste Woche die Abrechnungswoche ist. Sie endet am Freitag der sechsten Woche um 9:00 Uhr. Nach dem Ende des aktuellen Events werden alle Level für das nächste Event zurückgesetzt.
 
 [JOUST_HOWTOPLAY_6_DESCRIPTION]
-玩家每天有一个免费的钥匙，免费钥匙次数使用完成后，才开启倒计时8小时，而不是每8个小时给你一个免费钥匙。如果玩家在此期间，花费钻石或者人民币购买了钥匙，免费的倒计时会停止。只有当玩家的钥匙数为0的时候，才会进入免费钥匙倒计时。
+Spieler erhalten täglich einen kostenlosen Schlüssel. Sobald die Anzahl der kostenlosen Schlüssel aufgebraucht ist, beginnt ein Countdown von 8 Stunden, anstatt alle 8 Stunden einen kostenlosen Schlüssel zu erhalten. Wenn der Spieler während dieses Zeitraums Diamanten oder RMB für den Kauf eines Schlüssels ausgibt, wird der Gratis-Countdown gestoppt. Erst wenn der Schlüsselzähler des Spielers 0 ist, beginnt der Gratis-Countdown.
 
 [JOUST_LEAGUE_NAME_BRICK]
-砖块联赛
+Steinliga
 
 [JOUST_LEAGUE_NAME_BRICK_SHORT]
-砖块
+Stein
 
 [JOUST_LEAGUE_NAME_CRYSTAL]
-水晶联赛
+Kristallliga
 
 [JOUST_LEAGUE_NAME_CRYSTAL_SHORT]
-水晶
+Kristall
 
 [JOUST_LEAGUE_NAME_GOLD]
-黄金联赛
+Goldliga
 
 [JOUST_LEAGUE_NAME_GOLD_SHORT]
-黄金
+Gold
 
 [JOUST_LEAGUE_NAME_IRON]
-钢铁联赛
+Eisenliga
 
 [JOUST_LEAGUE_NAME_IRON_SHORT]
-钢铁
+Eisen
 
 [JOUST_LEAGUE_NAME_JADE]
-翡翠联赛
+Jadeliga
 
 [JOUST_LEAGUE_NAME_JADE_SHORT]
-翡翠
+Jade
 
-[JOUST_LEAGUE_NAME_NONPLAYER]
-排行榜
+[JOUST_LEAGUE_NAME_JAD_SHORT]
+Jade OUST_LEAGUE_NAME_NONPLAYER]
+Ranglisten
 
 [JOUST_LEAGUE_NAME_SILVER]
-白银联赛
+Silberliga
 
 [JOUST_LEAGUE_NAME_SILVER_SHORT]
-白银
+Silber
 
 [JOUST_LEAGUE_NAME_SOIL]
-土堆联赛
+Erdliga
 
 [JOUST_LEAGUE_NAME_SOIL_SHORT]
-土堆
+Erdliga
 
 [JOUST_LEAGUE_NAME_WOOD]
-木头联赛
+Holzliga
 
 [JOUST_LEAGUE_NAME_WOOD_SHORT]
-木头
+Holz
 
 [JOUST_LOCAL_PLAYER_NAME]
-你
+Du
 
 [JOUST_NAME]
-超Z联赛
+Super-Z-Liga
 
 [JOUST_NEED_CONNECTION]
-请链接网络去战斗
+Bitte verbinde dich mit dem Netzwerk, um zu kämpfen.
 
 [JOUST_NEED_PROGRESS]
-需要 {COUNT} 更多植物解锁.
+Benötige {COUNT} weitere freigeschaltete Pflanzen.
 
 [JOUST_PLAY]
-开始游戏
+Spiel starten
 
 [JOUST_PLAY_ENTRY]
-免费次数刷新时间: {DURATION}
+Aktualisierungszeit der freien Zeiten: {DURATION}
 
 [JOUST_PLAY_FREE]
 Play (Free Ticket) TEMP
@@ -45373,321 +45392,321 @@ Your current streak:
 无法跳关，您的钻石不足
 
 [WHITEMELON_SKILL_LEVEL5]
-横纲之怒
+Yokozunas Wut
 
 [WHITEMELON_SKILL_LEVEL5_DES]
-白瓜相扑手普攻击退僵尸后，有20%几率将3X3范围内的普通僵尸震离地面。
+Nachdem der normale Angriff des Weißmelonen-Sumoringer Zombies abwehrt, besteht eine 20%ige Chance, normale Zombies im Umkreis von 3x3 vom Boden abzuschütteln.
 
 [ICESHROOM_SKILL1_LEVEL5]
-寒冰螺旋
+Eisspirale
 
 [ICESHROOM_SKILL1_LEVEL5_DES]
-寒冰菇长大后，普通攻击变为寒冰螺旋，攻击能对目标造成更多伤害。
+Wenn der Eispilz wächst, werden normale Angriffe zu Eisspiralen, die dem Ziel mehr Schaden zufügen können.
 
 [NETWORK_NOT_CONNECTED_AUTHEN_CHECK_FAILED]
-请联网之后重试。
+Bitte versuchen Sie es erneut, nachdem Sie eine Internetverbindung hergestellt haben.
 
 [BOSSCHALLENGE_TITLE]
-挑战僵博概率公示
+Ankündigung der Zombie-Wahrscheinlichkeits-Challenge
 
 [CHILDREN_DAY_CHALLENGE_LEVEL1]
-植物挑战 - 第1关
+Pflanzen-Challenge – Level 1
 
 [CHILDREN_DAY_CHALLENGE_LEVEL2]
-植物挑战 - 第2关
+Pflanzen-Challenge – Level 2
 
 [CHILDREN_DAY_CHALLENGE_LEVEL3]
-植物挑战 - 第3关
+Pflanzen-Challenge – Level 3
 
 [CHILDREN_DAY_CHALLENGE_LEVEL4]
-植物挑战 - 第4关
+Pflanzen-Challenge – Level 4
 
 [CHILDREN_DAY_CHALLENGE_LEVEL5]
-植物挑战 - 第5关
+Pflanzen-Challenge – Level 5
 
 [CHILDREN_DAY_CHALLENGE_LEVEL6]
-植物挑战 - 第6关
+Pflanzen-Challenge – Level 6
 
 [CHILDREN_DAY_CHALLENGE_LEVEL7]
-植物挑战 - 第7关
+Pflanzen-Challenge – Level 7
 
 [ANOTHER_CHILDREN_DAY_CHALLENGE_LEVEL1]
-植物挑战 - 第1关
+Pflanzen-Challenge – Level 1
 
 [ANOTHER_CHILDREN_DAY_CHALLENGE_LEVEL2]
-植物挑战 - 第2关
+Pflanzen-Herausforderung – Stufe 2
 
 [ANOTHER_CHILDREN_DAY_CHALLENGE_LEVEL3]
-植物挑战 - 第3关
+Pflanzen-Herausforderung – Stufe 3
 
 [ANOTHER_CHILDREN_DAY_CHALLENGE_LEVEL4]
-植物挑战 - 第4关
+Pflanzen-Herausforderung – Stufe 4
 
 [ANOTHER_CHILDREN_DAY_CHALLENGE_LEVEL5]
-植物挑战 - 第5关
+Pflanzen-Herausforderung – Stufe 5
 
 [ANOTHER_CHILDREN_DAY_CHALLENGE_LEVEL6]
-植物挑战 - 第6关
+Pflanzen-Herausforderung – Stufe 6
 
 [ANOTHER_CHILDREN_DAY_CHALLENGE_LEVEL7]
-植物挑战 - 第7关
+Pflanzen-Herausforderung – Stufe 7
 
 [DAVE_TREASURE_PASSLEVEL_1]
-任意世界关卡胜利1次
+Gewinne einmal ein beliebiges Weltlevel.
 
 [DAVE_TREASURE_PVP_1]
-花园战争胜利1次
+Gewinne einmal den Gartenkrieg.
 
 [DAVE_TREASURE_PVP_2]
-花园战争胜利2次
+Gewinne den Gartenkrieg. Zweimal
 
 [DAVE_TREASURE_PVZ1_1]
-参与1次回忆之旅
+Nimm einmal an Reise in die Erinnerungen teil.
 
 [DAVE_TREASURE_PVZ1_2]
-通关1次回忆之旅
+Schließe Reise in die Erinnerungen einmal ab.
 
 [DAVE_TREASURE_PVZ1_8]
-通关回忆之旅中任意关卡8次
+Schließe achtmal ein beliebiges Level in Reise in die Erinnerungen ab.
 
 [DAVE_TREASURE_PLANTADVENTURE_1]
-完成1次植物探险
+Schließe ein Pflanzenabenteuer ab.
 
 [DAVE_TREASURE_PLANTADVENTURE_2]
-完成2次植物探险
+Schließe zwei Pflanzenabenteuer ab.
 
 [DAVE_TREASURE_PASSLEVEL_2]
-任意世界关卡胜利2次
+Gewinne zweimal ein beliebiges Weltlevel.
 
 [DAVE_TREASURE_PASSLEVEL_3]
-任意世界关卡胜利3次
+Gewinne dreimal ein beliebiges Weltlevel.
 
 [DAVE_TREASURE_ENDLESS_1]
-无尽模式胜利过关1次
+Gewinne einmal den Endlosmodus.
 
 [DAVE_TREASURE_PASSHARDLEVEL_5]
-任意世界困难关卡胜利5次
+Gewinne eine beliebige Welt mit Schwierigkeitsgrad 5. Mal
 
 [DAVE_TREASURE_PLANTADVENTURE_5]
-完成5次植物探险
+Schließe 5 Pflanzenabenteuer ab
 
 [DAVE_TREASURE_BEATBOSS_3]
-击败任意BOSS3次
+Besiege 3-mal einen beliebigen BOSS
 
 [DAVE_TREASURE_BATTLEZ_3]
-超Z联赛胜利3次
+Gewinne 3-mal die Super Z Liga
 
 [DAVE_TREASURE_PASSHARDLEVEL_10]
-任意世界困难关卡胜利10次
+Gewinne 10-mal einen beliebigen Schwierigkeitsgrad
 
 [DAVE_TREASURE_PLANTADVENTURE_8]
-完成8次植物探险
+Schließe 8 Pflanzenabenteuer ab
 
 [DAVE_TREASURE_ENDLESS_5]
-无尽模式胜利过关5次
+Gewinne 5-mal den Endlosmodus
 
 [DAVE_TREASURE_ENDLESS_7]
-无尽模式胜利过关7次
+Gewinne 7-mal den Endlosmodus
 
 [DAVE_TREASURE_BATTLEZ_15]
-超Z联赛胜利15次
+Gewinne 15-mal die Super Z Liga
 
 [DAVE_TREASURE_PASSHARDLEVEL_30]
-任意世界困难关卡胜利30次
+Gewinne 30 schwere Level in Beliebige Welt
 
 [DAVE_TREASURE_PASSLEVEL_30]
-任意世界普通关卡胜利30次
+Gewinne 30 normale Level in einer beliebigen Welt.
 
 [DAVE_TREASURE_PVP_10]
-花园战争胜利10次
+Gewinne 10 Gartenkämpfe.
 
 [DAVE_TREASURE_NORMALDRAW_15]
-普通宝物抽取15次
+Ziehe 15-mal normale Schätze.
 
 [DAVE_TREASURE_PLANTADVENTURE_30]
-完成30次植物探险
+Schließe 30 Pflanzenabenteuer ab.
 
-[DAVE_TREASURE_ENDLESSBEATBOSS_5]
-在无尽模式中击败5次博士
+[DAVE_TREASURE_EN DLESSBEATBOSS_5]
+Besiege den Doktor 5-mal im Endlosmodus.
 
 [DAVE_TREASURE_EXTINGUISHFIRE_15]
-在任意关卡熄灭僵尸手中火把15次
+Lösche die Fackeln in den Händen von Zombies 15-mal in einem beliebigen Level.
 
 [DAVE_TREASURE_TRANSGENIC_10]
-转基因融合10次
+Führe 10-mal eine transgene Fusion durch.
 
 [ACCUMULATE_RECHARGE_REWARD]
-累计{NUM}天，每日充值30元即可领取
+Lade 30 Yuan auf. pro Tag für {NUM} Tage, um zu erhalten
 
 [DAVE_TREASURE]
-戴夫的神秘宝藏
+Daves geheimer Schatz
 
 [DAVE_TAB_AWARD]
-奖励
+Auszeichnung
 
 [DAVE_TAB_TASK]
-任务
+Aufgabe
 
 [DAVE_TAB_NORMAL]
-普通
+Normal
 
 [DAVE_TAB_HIGH]
-高级
+Hoch
 
 [DAVE_INTGETRAL]
-宝藏线索数量：
+Anzahl der Schatzhinweise:
 
 [DAVE_DISPLAY_BANNER_1]
-^FFFF00 高级权益 ^oldclr 
-购买后可以直接获得宝藏限定植物 并激活高级宝藏奖励
+^FFFF00 Erweiterte Vorteile ^oldclr
+
+Nach dem Kauf kannst du direkt schatzlimitierte Pflanzen erhalten und erweiterte Schatzbelohnungen aktivieren.
 
 [DAVE_DISPLAY_BANNER_2]
-^FFFF00 宝藏限定植物 ^oldclr 
-可以获得1阶限定植物X1
+^FFFF00 Schatzlimitierte Pflanzen ^oldclr
+Du kannst 1x limitierte Pflanzen der Stufe 1 erhalten.
 
 [DAVE_DISPLAY_BANNER_3]
-^FFFF00 宝藏限定植物装扮 ^oldclr 
-获得160个宝藏线索即可领取宝藏限定植物装扮X1
+^FFFF00 Schatzlimitierte Pflanzenkostüme ^oldclr
+
+Sammle 160 Schatzhinweise, um zu erhalten 1 x limitierte Pflanzenkostüme
 
 [DAVE_TREASURE_DESCRIPTION]
-每充值^FFFF00 1 ^oldclr 元可获得^FFFF00 5 ^oldclr 宝藏线索（购买高级权益不计入宝藏线索）
+Jede Aufladung von 1 ^oldclr Yuan kann 5 ^oldclr Schatzhinweise erhalten (der Kauf von erweiterten Privilegien zählt nicht als Schatzhinweise).
 
 [DAVE_NORMAL_CHALLENGE]
-普通挑战
+Normale Herausforderung
 
 [DAVE_HIGH_CHALLENGE]
-高级挑战
+Erweiterte Herausforderung
 
 [DAVE_NO_PRIVILEGE]
-未购买
+Nicht gekauft
 
 [STORE_CATEGORY_NAME_SECRET_TREASURE]
-购买高级权益
+Erwerb erweiterter Privilegien
 
 [STORE_CATEGORY_NAME_SECRET_TREASURE_SHORT_DESC_6]
-高级宝藏奖励权限和限定植物
+Erweiterte Schatzbelohnungsrechte und limitierte Pflanzen
 
 [MAT_LIMITLOTTERY_CRYSTAL]
-紫金币
+Lila Goldmünzen
 
 [MAT_LIMITLOTTERY_CUP]
-限时夺宝奖杯
+Zeitlich begrenzter Schatz Trophäe
 
 [MAT_RIFT_COIN]
-时空币
+Zeit- und Raummünzen
 
-[MAT_RIFT_COIN_NOT_ENOUGH]
-时空币不足
+[MA T_RIFT_COIN_NOT_ENOUGH]
+Nicht genügend Raum-Zeit-Münzen
 
 [MAT_PLANT_LEVELUP_BOOK]
-植物进阶书
+Pflanzen-Fortgeschrittenenbuch
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK]
-购买高级潘妮指南
+Fortgeschrittenen Penny-Leitfaden kaufen
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK_SHORT_DES]
-高级指南奖励权限
+Belohnungsberechtigung für den Fortgeschrittenen-Leitfaden
 
 [MAT_CARNIVAL_TICKET]
-兑换券
+Gutschein eintauschen
 
 [MAT_CARNIVAL_TICKET_USE]
-在狂欢嘉年华活动中购买超值礼包
+Vorteilspaket während des Karnevals kaufen
 
 [MAT_CARNIVAL_TICKET_GOT_WAY]
-购买获得
+Kaufen und erhalten
 
 [DAILY_ALREADY_LOGIN]
-你已^3AAD14 累计 ^oldclr 登录
+Du hast ^3AAD14 ^oldclr gesammelt Anmelden
 
 [DAVE_TREASURE_CHECK_PRIVILEGE]
-请检查是否有特权或刷新活动界面
+Bitte überprüfe, ob du über Berechtigungen verfügst, oder aktualisiere die Aktivitätsoberfläche.
 
 [DAVE_TREASURE_BUY_1]
-^FFFF00 60 ^oldclr 元购买
+^FFFF00 60 ^oldclr Yuan kaufen
 
 [DAVE_TREASURE_BUY_2]
-激活领取
+Aktivieren, um zu erhalten
 
 [DAVE_TREASURE_BUY_3]
-收集线索领取
+Hinweise sammeln, um zu erhalten
 
 [DAVE_TREASURE_BOUGHT]
-已购买
+Gekauft
 
 [HEAVEN_TREASURE]
-天宫寻宝
+Schatzsuche im Himmel
 
 [ACTIVITY_REFRESH]
-活动刷新
+Aktivität aktualisieren
 
 [ACTIVITY_HEAVENTREASURE_SHORT_DESCRIPTION]
-可获取芦荟医师DJ装扮装扮和其他更多稀有装扮奖励。
+Du kannst das Dr. Aloe DJ-Kostüm und andere seltene Kostümbelohnungen erhalten.
 
 [HEAVENTREASURE_DESCRIPTION_TITLE]
-活动说明
+Eventbeschreibung
 
 [HEAVENTREASURE_DESCRIPTION]
-活动规则：
-1.未使用的秘宝钥（抽奖代币）及凌霄币（兑换代币）在每月刷新与版本更新时会完整继承 
-2.在天宫寻宝活动中购买礼包获取秘宝钥，消耗秘宝钥可抽取芦荟医师DJ装扮装扮和其他豪华大奖
-3.天宫寻宝累积抽取次数、限购次数与兑换次数每月一日刷新
-4.每十次抽取，下次抽取享1-9折的随机折扣，每20次抽取获得保底大奖，保底大奖从保底奖池中抽取
-特惠礼包规则：
-    1.每月1日刷新一次特惠礼包，特惠礼包原价购买后生成优惠码，其他玩家在活动页面填入优惠码可3折购买特惠礼包
-    2.若自己的优惠码被他人使用成功，可领取70%返利的代币奖励
-    3.一个优惠码只能被使用一次。
-    4.优惠码被成功填入后不能再次被其他玩家填入，如果该玩家填入优惠码120秒没有购买特惠礼包，则该优惠码可以重新被其他玩家填入
-    5.注意，优惠码有效期为自购买日起至下月1日0点，请及时使用哦
-
+Eventregeln:
+1. Nicht verwendete Geheime Schatzschlüssel (Lotterie-Token) und Himmelsmünzen (Tausch-Token) werden bei monatlichen Aktualisierungen und Versionsupdates vollständig übernommen.
+2. Erwerben Sie Geschenkpakete im Tiangong-Schatzsuche-Event, um Geheime Schatzschlüssel zu erhalten. Mit Geheimen Schatzschlüsseln können Sie Aloe Doctor DJ-Kostüme und andere Luxuspreise gewinnen.
+3. Die Gesamtzahl der Ziehungen, die Kauflimits und die Tauschzeiten für die Tiangong-Schatzsuche werden am ersten Tag jedes Monats aktualisiert.
+4. Nach jeweils zehn Ziehungen gibt es für die nächste Ziehung einen zufälligen Rabatt von 10 % bis 90 %. Nach jeweils 20 Ziehungen gibt es einen garantierten Preis aus dem garantierten Preispool.
+Regeln für spezielle Geschenkpakete:
+1. Das spezielle Geschenkpaket wird einmal im Monat am 1. aktualisiert. Nach dem Kauf des Geschenkpakets zum Originalpreis wird ein Rabattcode generiert. Andere Spieler können diesen Code auf der Eventseite eingeben, um das Geschenkpaket mit 30 % Rabatt zu erwerben.
+2. Wird Ihr Rabattcode erfolgreich von anderen Spielern verwendet, erhalten Sie 70 % Rabatt in Form eines Tokens.
+3. Ein Rabattcode kann nur einmal verwendet werden.
+4. Nach erfolgreicher Eingabe des Gutscheincodes kann dieser nicht erneut von anderen Spielern verwendet werden. Wenn der Spieler den Gutscheincode eingibt und das Geschenkpaket nicht innerhalb von 120 Sekunden kauft, kann der Gutscheincode erneut von anderen Spielern verwendet werden.
+5. Der Gutscheincode ist vom Kaufdatum bis zum 1. des Folgemonats um 0:00 Uhr gültig. Bitte rechtzeitig nutzen.
 
 [HEAVEN_TREASURE_DESCRIPTION_TITLE_1]
-奖池概率公示
+Ankündigung der Gewinnwahrscheinlichkeit
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
-普通奖池：
-超级奖励	芦荟医师DJ装扮	   0.43%
-超级奖励	糖果篮子挂件       0.81%
-大奖	    秘宝券*10	         1.48%
-大奖	    装扮券*800	       1.15%
-大奖	    进阶书*1	         1.17%
-普通	    秘宝券*5	         4.76%	
-普通	    高级神器祝福券*10	  4.92%
-普通	    钻石*100	        14.99%
-普通	    灵霄币*1	        43.21%
-普通	    灵霄币*3	        21.82%
-大奖	    灵霄币*100	       1.01%
-普通	    灵霄币*20	         4.25%
+Normaler Gewinn:
+Superbelohnung: Aloe Doctor DJ-Kleid 0,43 %
+Superbelohnung: Süßigkeitenkorb-Anhänger 0,81 %
+Hauptpreis: Geheimes Schatzticket*10 1,48 %
+Hauptpreis: Kostümticket*800 1,15 %
+Hauptpreis: Erweitertes Buch*1 1,17 %
+Geheimes Schatzticket*5 4,76 %
+Erweitertes Artefakt-Segenticket*10 4,92 %
+Gewöhnlicher Diamant*100 14,99 %
+Gewöhnliche Lingxiao-Münze*1 43,21 %
+Gewöhnliche Lingxiao-Münze*3 21,82 %
+Hauptpreis: Lingxiao-Münze*100 1,01 %
+Gewöhnliches Lingxiao Münze*20 4,25 %
 
-保底奖池：
-超级奖励	芦荟医师DJ装扮	   2.25%
-超级奖励	糖果篮子挂件       3.36%
-大奖	    秘宝券*20	        9.31%
-大奖	    装扮券*800	      8.19%
-大奖	    进阶书*1	        7.05%
-大奖	    灵霄币*100	      4.15%
-大奖	    秘宝券*10	        19.07%
-大奖	    灵霄币*50	        11.63%
-大奖	    灵霄币*20	        34.99%
-
+Garantierter Preispool:
+Super-Belohnung: Aloe Doctor DJ-Anzug 2,25 %
+Super-Belohnung: Süßigkeitenkorb-Anhänger 3,36 %
+Hauptpreis: Geheimer Schatz-Gutschein*20 9,31 %
+Hauptpreis: Anzieh-Gutschein*800 8,19 %
+Hauptpreis: Fortgeschrittenes Buch*1 7,05 %
+Hauptpreis: Lingxiao-Münze*100 4,15 %
+Hauptpreis: Geheimer Schatz-Gutschein*10 19,07 %
+Hauptpreis: Lingxiao-Münze*50 11,63 %
+Hauptpreis: Lingxiao-Münze*20 34,99 %
 
 [HEAVEN_TREASURE_YOUR_CODE]
-您的优惠码：
+Ihr Rabattcode:
 
 [HEAVEN_TREASURE_TAB1]
-天宫寻宝
+Schatzsuche im Himmel
 
 [HEAVEN_TREASURE_TAB1_DES1]
-每10次抽取，获得1-9折随机折扣，每20次抽取获得保底大奖
+Sichere dir einen zufälligen Rabatt von 10 % Bis zu 90 % Rabatt bei jeder 10. Ziehung und ein garantierter Hauptgewinn bei jeder 20. Ziehung.
 
 [HEAVEN_TREASURE_TAB1_DES2]
-上次折扣：
+Letzter Rabatt:
 
 [HEAVEN_TREASURE_NO_DISCOUNT]
-无折扣
+Kein Rabatt
 
 [HEAVEN_TREASURE_TAB1_DES3]
-再抽取：
+Nächste Ziehung:
 
 [HEAVEN_TREASURE_TAB1_DES4]
 次，下次抽取享幸运折扣
@@ -45795,178 +45814,179 @@ Your current streak:
 优惠码已被使用
 
 [PLANT_LEVEL_UP_BOOK]
-进阶书进阶
+Fortschritt im Buch
 
 [PLANT_LEVEL_UP_GENERAL_CHIPS]
-万能碎片进阶
+Fortschrittliche Universalfragmente
 
 [PLANT_UNLOCK_SKILL]
-获得技能
+Fähigkeiten erwerben
 
 [PLANT_UNLOCK_CONSUME]
-进阶消耗
+Fortschrittlicher Verbrauch
 
 [MAT_DRAGON_TREASURE_CRYSTAL]
-龙晶
+Drachenkristall
 
 [MAT_DRAGON_TREASURE_INTEGRAL]
-宝库积分
+Schatzpunkte
 
 [DRAGON_TREASURE_DESCRIPTION]
-活动规则：
-1.从龙族宝库中获取奖励前，请先选定3个自选奖励，每次抽取时固定花费20龙晶，概率获得最终奖励。
-2.获取龙族宝库中的全部奖励后，将自动重置当前奖池；玩家从当前轮次的宝库中获取5次奖励以后，可以花费10龙晶手动重置抽奖。
-3.本次活动进度、龙晶及积分不继承至下期，活动结束后剩余龙晶会按1:1比例转换为钻石，剩余积分会按照1:100的比例转化为金币。
-4.玩家可通过花费龙晶获取龙族宝库中的奖励，具体概率为：
-自选奖励1（液压神器 长枪球兰红孩儿全身装扮 贪吃龙草碎片*20）   1.00%
-自选奖励2（定向碎片*10  神器祝福券*30  贪吃龙草碎片*10）   2.21%
-自选奖励3（贪吃龙草碎片*10  神器祝福券*30  定向碎片*10）1.89%
-基因原质*4      11.50%            万能基因币*60   11.50%
-时空能量罐*10   5.00%            时空立方*2      3.70%
-时空粉尘*10     13.00%           时空粉尘*20     5.00%
-时空水晶*5      3.20%              时空水晶*1      16.00%
-神秘水晶*6000   8.00%           神秘水晶*18000  2.50%
-钻石*200        2.50%              钻石*50         13.00%
+Aktivitätsregeln:
+
+1. Bevor du Belohnungen aus dem Drachenschatz erhältst, wähle bitte drei selbst gewählte Belohnungen aus. Bei jeder Ziehung gibst du 20 Drachenkristalle aus und hast die Chance, die letzte Belohnung zu erhalten.
+
+2. Nachdem du alle Belohnungen aus dem Drachenschatz erhalten hast, wird der aktuelle Preispool automatisch zurückgesetzt. Nachdem Spieler fünf Belohnungen aus der aktuellen Schatzrunde erhalten haben, können sie 10 Drachenkristalle ausgeben, um die Ziehung manuell zurückzusetzen.
+
+3. Der Fortschritt, die Drachenkristalle und die Punkte dieses Events werden nicht auf die nächste Periode übertragen. Nach Ende des Events werden die verbleibenden Drachenkristalle im Verhältnis 1:1 in Diamanten und die verbleibenden Punkte im Verhältnis 1:100 in Goldmünzen umgewandelt.
+4. Spieler können Belohnungen aus der Schatzkammer des Drachenclans erhalten, indem sie Drachenkristalle ausgeben. Die Wahrscheinlichkeiten sind:
+Ausgewählte Belohnung 1 (Hydraulikartefakt, Speer, Kugelorchidee, Roter-Junge-Ganzkörperkostüm, Fragmente des gierigen Drachengrases * 20) 1,00 %
+Ausgewählte Belohnung 2 (Richtungsfragmente * 10, Artefakt-Segensgutscheine * 30, Fragmente des gierigen Drachengrases * 10) 2,21 %
+Ausgewählte Belohnung 3 (Fragmente des gierigen Drachengrases * 10, Artefakt-Segensgutscheine * 30, Richtungsfragmente * 10) 1,89 %
+Gen-Essenz * 4 11,50 % Universelle Genmünzen * 60 11,50 %
+Raum-Zeit-Energietank * 10 5,00 % Raum-Zeit-Würfel * 2 3,70 %
+Raum-Zeit-Staub * 10 13,00 % Raum-Zeit-Staub * 20 5,00 %
+Raum-Zeit-Kristall * 5 3,20 % Raum-Zeit-Kristall * 1 16,00 %
+Mysteriöser Kristall * 6000 8,00 % Mystischer Kristall * 18000 2,50 %
+Diamant * 200 2,50 % Diamant * 50 13,00 %
 
 [DRAGON_TREASURE_DESCRIPTION_TITLE]
-龙族宝库活动说明
+Beschreibung der Drachenschatz-Aktivität
 
 [ACTIVITY_DRAGONT_REASURE_SHORT_DESCRIPTION]
-活动期间内玩家购买礼包可以获得礼包道具及龙晶，赠送额外数量积分，积分可前往商店兑换道具，龙晶用于宝库抽奖
+Während der Aktivität können Spieler, die Geschenkpakete kaufen, Geschenkpaket-Gegenstände und Drachenkristalle erhalten und zusätzliche Punkte sammeln. Punkte können im Shop gegen Gegenstände und Drachenkristalle gegen Schatzziehungen eingelöst werden.
 
 [DRAGON_TREASURE]
-龙族宝库
+Drachenschatz
 
 [DRAGON_TREASURE_TAB1]
-龙晶赠礼
+Drachenkristallgeschenke
 
 [DRAGON_TREASURE_TAB2]
-龙族商铺
+Drachenladen
 
 [DRAGON_TREASURE_TAB3]
-积分兑换
+Punkte einlösen
 
 [DRAGON_TREASURE_EXPIRED]
-龙族宝库道具过期结算
+Drachenschatzgegenstände abgelaufen
 
 [PRODUCT_DRAGON_TREASURE_45_SHORTDESC]
-限时龙晶礼包一
+Drachenkristall-Geschenkpaket 1 (befristet)
 
 [PRODUCT_DRAGON_TREASURE_68_SHORTDESC]
-限时龙晶礼包二
+Drachenkristall-Geschenkpaket 2 (befristet)
 
 [PRODUCT_DRAGON_TREASURE_30_SHORTDESC]
-初级龙晶礼包
+Drachenkristall-Geschenkpaket (primär)
 
 [PRODUCT_DRAGON_TREASURE_60_SHORTDESC]
-中级龙晶礼包
+Drachenkristall-Geschenk (mittelschwer) Paket
 
 [PRODUCT_DRAGON_TREASURE_128_SHORTDESC]
-高级龙晶礼包
-
+Erweitertes Drachenkristall-Geschenkpaket
 
 [TREASURE_PAVILION]
-奇珍宝箱
+Schatzkiste
 
 [TREASURE_PAVILION_BUNDLE]
-金块商店
+Goldnugget-Shop
 
 [TREASURE_PAVILION_EXPIRED]
-奇珍宝箱金块过期结算
+Goldnuggets in der Siedlung „Schatzkiste abgelaufen“
 
 [TREASURE_PAVILION_MAT_NOT_ENOUGH]
-当前金块数量不足，是否跳转金块商店进行购买？
+Die vorhandenen Goldnuggets reichen nicht aus. Möchtest du direkt zum Goldnugget-Shop gehen und welche kaufen?
 
 [TREASURE_PAVILION_DESCRIPTION]
-活动规则:
-1.奇珍宝箱活动开启时间为：4月10日0点-4月23日24点
-2.活动需要使用金块开启宝箱，单抽消耗1金块，十连消耗9金块，金块需要通过活动商店获取
-3.在每次开启宝箱时，都有概率获得奖池大奖，累计抽取30次必得优品及以上大奖，累计抽取60次必得史诗及以上大奖，累计90次必得传奇奖励2及以上大奖，累计180次必得传奇奖励1（每次必得仅会获得其中一个道具奖励）
-4.当获取到大奖时，将从所有档位的大奖中根据概率获得其中之一
-5.保底覆盖规则：当多个奖励同时触发保底时，高等级奖励将会覆盖低等级奖励。
-6.保底重置规则：当获得高等级奖励后，在该等级之下（包含该等级）的所有保底次数全部重置。
-7.每个传奇及史诗奖励仅可获取一次，已获得该奖励后概率会平均分给其他大奖。
-8.当活动结束后，剩余金块将清空，剩余金块会按照1：30比例转变为钻石。
-9.玩家抽取到神器奖励时，如果已拥有该神器，奖励自动转化为1500钻石。
+Aktivitätsregeln:
+1. Das Schatzkisten-Event findet von 0:00 Uhr am 10. April bis 24:00 Uhr am 23. April statt.
+2. Zum Öffnen der Schatzkiste werden Goldnuggets benötigt. Eine einzelne Ziehung verbraucht 1 Goldnugget, eine Ziehung mit zehn Ziehungen 9 Goldnuggets. Goldnuggets müssen über den Event-Shop erworben werden.
+3. Jedes Mal, wenn du die Schatztruhe öffnest, hast du die Chance, den Hauptpreis des Preispools zu gewinnen. Bei 30 Ziehungen gewinnt man garantiert den Premiumpreis oder höher, bei 60 Ziehungen den epischen Preis oder höher, bei 90 Ziehungen die legendäre Belohnung 2 oder höher und bei 180 Ziehungen die legendäre Belohnung 1 (bei jedem Gewinn erhältst du nur eine der Requisitenbelohnungen).
+4. Wenn du den Hauptpreis gewinnst, erhältst du je nach Wahrscheinlichkeit einen der Hauptpreise aller Stufen.
+5. Regel zur garantierten Mindestdeckung: Wenn mehrere Belohnungen gleichzeitig die Mindestgarantie auslösen, deckt die Belohnung der höheren Stufe die Belohnung der niedrigeren Stufe ab.
+6. Regel für das Zurücksetzen der garantierten Mindestzeit: Nach Erhalt einer hochstufigen Belohnung werden alle garantierten Mindestzeiten unter diesem Level (einschließlich dieses Levels) zurückgesetzt.
+7. Jede legendäre und epische Belohnung kann nur einmal erhalten werden. Nach Erhalt der Belohnung wird die Wahrscheinlichkeit gleichmäßig auf andere Hauptpreise verteilt.
+8. Nach Ende des Events werden die verbleibenden Goldnuggets gelöscht und im Verhältnis 1:30 in Diamanten umgewandelt.
+9. Wenn ein Spieler eine Artefaktbelohnung erhält und das Artefakt bereits besitzt, wird die Belohnung automatisch in 1.500 Diamanten umgewandelt.
 
-奖池概率公示：
-道具（概率）
-钻石*30（12%）
-钻石*150（5%）
-金币*50000（13%）
-金币*80000（7%）
-秘宝券*1（8%）
-珍稀的肥料挂件*1（9%）
-橙色培养液*2（10%）
-神秘水晶*5000（13%）
-神秘水晶*20000（8%）
-装扮券*50（10%）
-大奖（5%）
+Bekanntgabe der Gewinnwahrscheinlichkeit:
+Requisiten (Wahrscheinlichkeit)
+Diamanten*30 (12 %)
+Diamanten*150 (5 %)
+Goldmünzen*50.000 (13 %)
+Goldmünzen*80.000 (7 %)
+Geheimes Schatzticket*1 (8 %)
+Seltenes Düngemittel-Anhänger*1 (9 %)
+Orange Kulturflüssigkeit*2 (10 %)
+Mysteriöser Kristall*5.000 (13 %)
+Mysteriöser Kristall*20.000 (8 %)
+Cosplay-Ticket*50 (10 %)
+Hauptpreis (5 %)
 
-大奖概率公示：
-传奇大奖：
-虎头菇永劫无间联动装扮（7%）
-杜英投手永劫无间联动装扮（13%）
+Bekanntgabe der Gewinnwahrscheinlichkeit:
+Legendärer Hauptpreis:
+Tigerkopfpilz-Nakadashi-Verbindungskostüm (7 %)
+Du Ying-Krug-Nakadashi-Verbindungskostüm (13 %)
 
-史诗大奖：
-钻石*3000（5%）
-进阶书*1（5%）
-苹果迫击炮碎片*20（5%）
-电鳗香蕉碎片*20（5%）
-装扮券*1800（5%）
-万能碎片*20（5%）
-
-优品大奖：
-定向碎片*30（10%）
-蓄电雪松果植物碎片*30（10%）
-装扮券*1000（10%）
-高级神器祝福券*100（10%）
-基因原质*100（10%）
+Epischer Hauptpreis:
+Diamanten*3.000 (5 %)
+Fortbildungsbuch*1 (5 %)
+Apfelmörserfragment*2 0 (5 %)
+Zitteraal Bananenfragmente * 20 (5 %)
+Ankleidegutscheine * 1800 (5 %)
+Universalfragmente * 20 (5 %)
+Auszeichnungen für hervorragende Produkte:
+Richtungsfragmente * 30 (10 %)
+Elektrische Zedernzapfenpflanzenfragmente * 30 (10 %)
+Ankleidegutscheine * 1000 (10 %)
+Gutscheine für Segen für fortgeschrittene Artefakte * 100 (10 %)
+Genessenz * 100 (10 %)
 
 [TREASURE_PAVILION_DESCRIPTION_TITLE]
-奇珍宝箱活动说明
+Beschreibung des Schatztruhen-Events
 
 [REWARD_POOL]
-奖池奖励
+Belohnungspool-Belohnungen
 
 [TREASURE_PAVILION_RARE_1]
-传奇大奖
+Legendäre Auszeichnungen
 
-[TREASURE_PAVILION_RARE_2]
-史诗大奖
+[TREASURE E_PAVILION_RARE_2]
+Epischer Hauptpreis
 
 [TREASURE_PAVILION_RARE_3]
-优品大奖
+Premium-Hauptpreis Preis
 
 [TREASURE_PAVILION_RARE_4]
-稀有奖励
+Seltene Belohnung
 
 [LOTTERY_TIMES_MUST_GET]
-再抽{NUM}次必得
+Gewinne mit {NUM} weiteren Ziehungen
 
 [TREASURE_PAVILION_TIPS]
-剩余{NUM}抽必得优品及以上奖励
+Gewinne mit {NUM} verbleibenden Ziehungen
 
 [MAT_TREASURE_PAVILION_TOKEN]
-金块
+Goldnugget
 
 [MAT_TREASURE_PAVILION_TOKEN_USE]
-用于开启宝箱
+Zum Öffnen von Schatztruhen
 
 [MAT_TREASURE_PAVILION_TOKEN_GOT_WAY]
-金块商店购买获得
+Erhältlich durch Kauf im Goldnugget-Shop
 
 [PRODUCT_TREASURE_PAVILION]
-金块礼包
+Goldnuggets-Geschenkpaket
 
 [PRODUCT_TREASURE_PAVILION_30_SHORTDESC]
-小型金块礼包
+Kleines Goldnugget-Geschenkpaket
 
 [PRODUCT_TREASURE_PAVILION_98_SHORTDESC]
-中型金块礼包
+Mittelgroßes Gold Goldnuggets-Geschenkpackung
 
 [PRODUCT_TREASURE_PAVILION_328_SHORTDESC]
-大型金块礼包
+Große Goldnuggets-Geschenkpackung
 
 [PRODUCT_TREASURE_PAVILION_648_SHORTDESC]
 特大金块礼包
@@ -46060,343 +46080,344 @@ Your current streak:
 已结束
 
 [DO_NOT_NEED_TO_JUMP]
-你已经在这个世界了，不需要再跳转了！
+Du bist bereits in dieser Welt, du brauchst nicht noch einmal zu springen!
 
 [CANT_FINISH_TASK]
-无法领取奖励，请检查网络链接
+Belohnungen können nicht abgeholt werden. Bitte überprüfe den Netzwerklink.
 
 [TASK_BATTLEZ]
-参与1次超Z联赛
+Nehme an einer Super-Z-Liga teil.
 
 [TASK_BATTLEZ_DESCRIPTION]
-僵尸浪潮汹涌袭来，比拼谁杀得更多更快！
+Die Zombiewelle kommt. Kämpfe darum, wer mehr und schneller töten kann!
 
 [TASK_CHALLENGE_DESCRIPTION]
-带上最强的植物，挑战无尽中的高阶僵尸！
+Nimm die stärksten Pflanzen und fordere die hochstufigen Zombies in der Endlosigkeit heraus!
 
 [TASK_PENNY_DESCRIPTION]
-在每周更新的潘妮追击中接受考验，追求更高的分数与段位！
+Stell dich der Herausforderung in der wöchentlich aktualisierten Penny Chase und erreiche höhere Punktzahlen und Ränge!
 
 [TASK_PVZ1_DESCRIPTION]
-植物回归1阶，回忆初代经典，考验真正的技术！
+Pflanzen kehren auf Level 1 zurück, erinnern an die Klassiker der ersten Generation und stellen echte Fähigkeiten auf die Probe!
 
 [TASK_CUSTOMER_DESCRIPTION]
-游玩其他玩家设计的创意关卡，无限创意等你来！
+Spiele kreative Level, die von anderen Spielern entworfen wurden – grenzenlose Kreativität wartet auf dich!
 
 [TASK_PVP]
-参与1次对战中的花园战争
+Nimm an einer Gartenschlacht teil.
 
 [TASK_CHALLENGE]
-参与1次无尽挑战
+Nimm einmal an der Endlos-Herausforderung teil.
 
 [TASK_PENNY]
-参与1次潘妮追击
+Nimm einmal an der Penny-Jagd teil.
 
 [TASK_PVZ1]
-参与1次回忆之旅
+Nimm einmal an der Reise der Erinnerung teil.
 
 [TASK_CUSTOMER]
-参与1次创意庭院
+Nimm einmal am Kreativgarten teil.
 
 [TASK6_PVP]
-通关回忆之旅中任意关卡8次
+Schließe 8-mal ein beliebiges Level in der Reise der Erinnerung ab.
 
 [TASK_PVP_DESCRIPTION]
-可以挑战其他玩家的花园哦，还能获得各种奖励!
+Du kannst die Gärten anderer Spieler herausfordern und verschiedene Belohnungen erhalten!
 
 [TASK_PASSCHALLENGE]
-通关2次挑战关卡
+Schließe Herausforderungslevel 2-mal ab.
 
 [TASK_PASSCHALLENGE_DESCRIPTION]
-点击主界面中的【挑战】按钮可进入挑战关卡
+Klicke im Hauptfenster auf die Schaltfläche [Herausforderung], um das Herausforderungslevel zu starten.
 
 [TASK_PASSLEVEL]
-通关任意世界关卡4次
+Schließe ein beliebiges Weltlevel 4-mal ab.
 
 [TASK_PASSLEVEL_DESCRIPTION]
-任何世界的关卡获胜都可以完成任务哦！
+Mit dem Gewinn eines beliebigen Weltlevels ist die Aufgabe abgeschlossen!
 
 [TASK_COLLECTPLANTCHIPS]
-获得10个植物碎片
+Sammle 10 Pflanzenfragmente.
 
 [TASK_COLLECTPLANTCHIPS_DESCRIPTION]
-植物碎片可以通过潘妮小店、宝物、挑战、植物探险等获得哦！
+Pflanzenfragmente erhältst du in Pennys Shop, bei Schätzen, Herausforderungen, Pflanzenabenteuern usw.!
 
 [TASK_DAILYINTEGRAL]
-今日获得20积分
+Holt euch heute 20 Punkte.
 
 [TASK_DAILYINTEGRAL_DESCRIPTION]
-获得积分可以开启宝箱，获得稀有植物碎片
+Sammelt Punkte, um Schatztruhen zu öffnen und seltene Pflanzenfragmente zu erhalten.
 
 [TASK_BEATZOMBIES]
-击败僵尸！
+Besiegt Zombies!
 
 [TASK_BEATZOMBIES_DESCRIPTION]
-在{WORLDNAME}中击败{NUM}个{ZOMBIE}
+Besiege {NUM} {ZOMBIE} in {WORLDNAME}
 
 [TASK_WEEKLYINTEGRAL]
-本周获得150积分
+Erhalte diese Woche 150 Punkte.
 
 [TASK_WEEKLYINTEGRAL_DESCRIPTION]
-完成每日任务后可以获得积分
+Erhalte Punkte für das Erfüllen täglicher Aufgaben.
 
 [TASK_WORLDTASK_DESCRIPTION_EASY]
-在一次大规模攻击中生存下来！
+Überlebe einen massiven Angriff!
 
 [TASK_WORLDTASK_DESCRIPTION_HARD]
-小心那些高阶僵尸！
+Nimm dich vor den hochstufigen Zombies in Acht!
 
 [TASK_WORLDTASK_DESCRIPTION_EGYPT2]
-想要证明自己的实力吗，那就去挑战神秘埃及的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie im geheimnisvollen Ägypten heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_PIRATE3]
-想要证明自己的实力吗，那就去挑战海盗港湾的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Pirate Bay heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_COWBOY3]
-想要证明自己的实力吗，那就去挑战狂野西部的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie im Wilden Westen heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_KONGFU3]
-想要证明自己的实力吗，那就去挑战功夫世界的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in der Kung-Fu-Welt heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_FUTURE3]
-想要证明自己的实力吗，那就去挑战未来世界的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in der Zukunftswelt heraus!
 
-[TASK_WORLDTASK_DESCRIPTION_EIGHTIES3]
-想要证明自己的实力吗，那就去挑战摇滚年代的僵尸博士吧!
+[TASK_WORLDTASK_DESCRIPTION_FUTURE3]
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in der Zukunftswelt heraus! SK_DESCRIPTION_EIGHTIES3]
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Rock Age heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_DARK3]
-想要证明自己的实力吗，那就去挑战黑暗时代的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Dark Age heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_BEACH3]
-想要证明自己的实力吗，那就去挑战巨浪沙滩的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie am Big Wave Beach heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_DINO3]
-想要证明自己的实力吗，那就去挑战恐龙危机的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Dino Crisis heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_ICEAGE3]
-想要证明自己的实力吗，那就去挑战冰河世界的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Ice Age heraus!
 
-[TASK_WORLDTASK_DESCRIPTION_LOSTCITY3]
-想要证明自己的实力吗，那就去挑战失落之城的僵尸博士吧!
+[TASK_WORLDTASK_DESCRIPTION_L OSTCITY3]
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Lost City heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_SKYCITY3]
-想要证明自己的实力吗，那就去挑战天空之城的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Sky City heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_MODERN3]
-想要证明自己的实力吗，那就去挑战摩登世界的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Modern World heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_STEAM3]
-想要证明自己的实力吗，那就去挑战蒸汽世界的僵尸博士吧!
+Willst du deine Stärke beweisen? Fordere Dr. Zombie in Steam World heraus!
 
 [TASK_WORLDTASK_EGYPT1]
-通关神秘埃及第8天的简单关卡
+Schließe den einfachen Level von „Geheimnisvolles Ägypten“ an Tag 8 ab.
 
 [TASK_WORLDTASK_EGYPT2]
-通关神秘埃及第8天的困难关卡
+Schließe den schweren Level von „Geheimnisvolles Ägypten“ an Tag 8 ab.
 
 [TASK_WORLDTASK_EGYPT3]
-通关神秘埃及的终极挑战
+Schließe die ultimative Herausforderung von „Geheimnisvolles Ägypten“ ab.
 
 [TASK_WORLDTASK_PIRATE1]
-通关海盗港湾第8天的简单关卡
+Schließe den einfachen Level von „Piratenhafen“ an Tag 8 ab.
 
 [TASK_WORLDTASK_DESCRIPTION_PIRATE1]
-建立你的防线，抵挡僵尸进攻
+Stärke deine Verteidigung gegen Zombies.
 
 [TASK_WORLDTASK_PIRATE2]
-通关海盗港湾第8天的困难关卡
+Schließe den schweren Level von „Piratenhafen“ an Tag 8 ab.
 
 [TASK_WORLDTASK_PIRATE3]
-通关海盗港湾的终极挑战
+Schließe die ultimative Herausforderung von „Piratenhafen“ ab.
 
 [TASK_WORLDTASK_COWBOY1]
-通关狂野西部第8天的简单关卡
+Schließe den einfachen Level von „Wilder Westen“ an Tag 8 ab.
 
 [TASK_WORLDTASK_COWBOY2]
-通关狂野西部第8天的困难关卡
+Schließe den schweren Level von „Wilder Westen“ an Tag 8
 
 [TASK_WORLDTASK_COWBOY3]
-通关狂野西部的终极挑战
+Schaffe die ultimative Herausforderung des Wilden Westens.
 
 [TASK_WORLDTASK_KONGFU1]
-通关功夫世界第13天的简单关卡
+Schaffe das einfache Level von Kung-Fu-Welt an Tag 13.
 
 [TASK_WORLDTASK_KONGFU2]
-通关功夫世界第13天的困难关卡
+Schließe den schwierigen Level von Kung Fu World Tag 13.
 
 [TASK_WORLDTASK_KONGFU3]
-通关功夫世界的终极挑战
+Schließe die ultimative Herausforderung von Kung Fu World.
 
 [TASK_WORLDTASK_FUTURE1]
-通关未来世界第13天的简单关卡
+Schließe den einfachen Level von Future World Tag 13.
 
 [TASK_WORLDTASK_FUTURE2]
-通关未来世界第13天的困难关卡
+Schließe den schwierigen Level von Future World Tag 13.
 
 [TASK_WORLDTASK_FUTURE3]
-通关未来世界的终极挑战
+Schließe die ultimative Herausforderung von Future World.
 
 [TASK_WORLDTASK_EIGHTIES1]
-通关摇滚年代第13天的简单关卡
+Schließe den einfachen Level von Rock of Ages Tag 13.
 
 [TASK_WORLDTASK_EIGHTIES2]
-通关摇滚年代第13天的困难关卡
+Schließe den schweren Level von Rock of Ages Tag 13.
 
 [TASK_WORLDTASK_EIGHTIES3]
-通关摇滚年代的终极挑战
+Schließe die ultimative Herausforderung von Rock of Ages.
 
 [TASK_WORLDTASK_DARK1]
-通关黑暗时代第10天的简单关卡
+Schließe den einfachen Level von Dark Ages Tag. 10
 
 [TASK_WORLDTASK_DARK2]
-通关黑暗时代第10天的困难关卡
+Schließe den schweren Level von Dark Ages an Tag 1 ab.
 
 [TASK_WORLDTASK_DARK3]
-通关黑暗时代的终极挑战
+Schließe die ultimative Herausforderung von Dark Ages ab.
 
 [TASK_WORLDTASK_BEACH1]
-通关巨浪沙滩第11天的简单关卡
+Schließe den einfachen Level von Big Wave Beach an Tag 11 ab.
 
 [TASK_WORLDTASK_BEACH2]
-通关巨浪沙滩第11天的困难关卡
+Schließe den schweren Level von Big Wave Beach an Tag 11 ab.
 
 [TASK_WORLDTASK_BEACH3]
-通关巨浪沙滩的终极挑战
+Schließe die ultimative Herausforderung von Big Wave Beach ab.
 
 [TASK_WORLDTASK_DINO1]
-通关恐龙危机第11天的简单关卡
+Schließe den einfachen Level von Dino Crisis an Tag 11 ab.
 
 [TASK_WORLDTASK_DINO2]
-通关恐龙危机第11天的困难关卡
+Schließe den schweren Level von Dino Crisis an Tag 11 ab.
 
 [TASK_WORLDTASK_DINO3]
-通关恐龙危机的终极挑战
+Schließe die ultimative Herausforderung von Dino Crisis ab.
 
 [TASK_WORLDTASK_ICEAGE1]
-通关冰河世界第12天的简单关卡
+Schließe den einfachen Level von Eiswelt Tag 12
 
 [TASK_WORLDTASK_ICEAGE2]
-通关冰河世界第12天的困难关卡
+Schließe das schwere Level von Eiswelt Tag 12 ab.
 
 [TASK_WORLDTASK_ICEAGE3]
-通关冰河世界的终极挑战
+Schließe die ultimative Herausforderung von Eiswelt ab.
 
 [TASK_WORLDTASK_LOSTCITY1]
-通关失落之城第12天的简单关卡
+Schließe das einfache Level von Verlorene Stadt Tag 12 ab.
 
 [TASK_WORLDTASK_LOSTCITY2]
-通关失落之城第12天的困难关卡
+Schließe das schwere Level von Verlorene Stadt Tag 12 ab.
 
 [TASK_WORLDTASK_LOSTCITY3]
-通关失落之城的终极挑战
+Schließe die ultimative Herausforderung von Verlorene Stadt ab.
 
 [TASK_WORLDTASK_SKYCITY1]
-通关天空之城第15天的简单关卡
+Schließe das einfache Level von Himmelsstadt Tag 15 ab.
 
 [TASK_WORLDTASK_SKYCITY2]
-通关天空之城第15天的困难关卡
+Schließe das schwierige Level von Tag 15 von Himmelsstadt ab.
 
 [TASK_WORLDTASK_SKYCITY3]
-通关天空之城的终极挑战
+Schließe die ultimative Herausforderung von Himmelsstadt ab.
 
 [TASK_WORLDTASK_MODERN1]
-通关摩登世界第16天的简单关卡
+Schließe das einfache Level von 16. Tag der Modernen Welt
 
 [TASK_WORLDTASK_MODERN2]
-通关摩登世界第16天的困难关卡
+Schließe den schwierigen Level des 16. Tages der Modernen Welt.
 
 [TASK_WORLDTASK_MODERN3]
-通关摩登世界的终极挑战
+Schließe die ultimative Herausforderung der Modernen Welt.
 
 [TASK_WORLDTASK_STEAM1]
-通关蒸汽世界第9天的简单关卡
+Schließe den einfachen Level des 9. Tages der Steam-Welt.
 
 [TASK_WORLDTASK_STEAM2]
-通关蒸汽世界第9天的困难关卡
+Schließe den schweren Level des 9. Tages der Steam-Welt.
 
 [TASK_WORLDTASK_STEAM3]
-通关蒸汽世界的终极挑战
+Schließe die ultimative Herausforderung der Steam-Welt.
 
 [TASK_WORLDTASK_RENAI1]
-通关复兴时代第13天的简单关卡
+Schließe den einfachen Level des 13. Tages der Renaissance.
 
 [TASK_WORLDTASK_RENAI2]
-通关复兴时代第13天的困难关卡
+Schließe den schweren Level des 13. Tages der Renaissance.
 
 [TASK_WORLDTASK_RENAI3]
-通关复兴时代的终极挑战
+Schließe die ultimative Herausforderung der Heian-Zeit. Ära
 
 [TASK_WORLDTASK_HEIAN1]
-通关平安时代第13天的简单关卡
+Schließe das einfache Level des 13. Tages der Heian-Ära ab.
 
 [TASK_WORLDTASK_HEIAN2]
-通关平安时代第13天的困难关卡
+Schließe das schwere Level des 13. Tages der Heian-Ära ab.
 
 [TASK_WORLDTASK_HEIAN3]
-通关平安时代的终极挑战
+Schließe die ultimative Herausforderung der Heian-Ära ab.
 
 [TASK_WEEKLYINTEGRAL_DESCRIPTION_PLANTCHALLENGE]
-使用特定的植物通关限定关卡，获得稀有宝箱奖励！
+Schließe die limitierten Level mit bestimmten Pflanzen ab, um seltene Schatztruhen-Belohnungen zu erhalten!
 
 [TASK_WEEKLY_PLANTCHALLENGE_CACTUS]
-植物挑战——仙人掌！
+Pflanzen-Herausforderung – Kaktus!
 
 [TASK_WEEKLY_PLANTCHALLENGE_CAULIPOWER]
-植物挑战——超能花菜！
+Pflanzen-Herausforderung – Super-Blumenkohl!
 
 [TASK_WEEKLY_PLANTCHALLENGE_BLOOMINGHEART]
-植物挑战——铃儿草投手！
+Pflanzen-Herausforderung – Glockenblumenkrug!
 
 [TASK_WEEKLY_PLANTCHALLENGE_CHOMPER]
-植物挑战——大嘴花！
+Pflanzen-Challenge – Großmaulblume!
 
 [TASK_WEEKLY_PLANTCHALLENGE_COLDSNAPDRAGON]
-植物挑战——冰龙草！
+Pflanzen-Challenge – Eisdrachengras!
 
 [TASK_WEEKLY_PLANTCHALLENGE_DANDELION]
-植物挑战——蒲公英！
+Pflanzen-Challenge – Löwenzahn!
 
 [TASK_WEEKLY_PLANTCHALLENGE_ELECTRICBLUEBERRY]
-植物挑战——电击蓝莓！
+Pflanzen-Challenge – Elektrische Blaubeere!
 
 [TASK_WEEKLY_PLANTCHALLENGE_ELECTRICPEASHOOTE]
-植物挑战——电能豌豆！
+Pflanzen-Challenge – Elektrische Erbse!
 
 [TASK_WEEKLY_PLANTCHALLENGE_ESCAPEROOT]
-植物挑战——逃脱树根！
+Pflanzen-Challenge – Flucht vor den Baumwurzeln!
 
 [TASK_WEEKLY_PLANTCHALLENGE_EXPLODEONUT]
-植物挑战——爆炸坚果！
+Pflanzen-Challenge – Explodierende Nüsse!
 
 [TASK_WEEKLY_PLANTCHALLENGE_FIREPEASHOOTER]
-植物挑战——火焰射手！
+Pflanzen-Challenge – Feuer-Shooter!
 
 [TASK_WEEKLY_PLANTCHALLENGE_GRAPESHOT]
-植物挑战——爆裂葡萄！
+Pflanzen-Challenge – Knallende Trauben!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HOMINGTHISTLE]
-植物挑战——导向蓟！
+Pflanzen-Challenge – Wanderdistel!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HOTDATE]
-植物挑战——热辣海枣！
+Pflanzen-Challenge – Heißes Date!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HURRIKALE]
-植物挑战——飓风甘蓝！
+Pflanzen-Challenge – Hurrikan-Kohl!
 
 [TASK_WEEKLY_PLANTCHALLENGE_LAVAGUAVA]
-植物挑战——岩浆番石榴！
+Pflanzen-Challenge – Lava-Guave!
 
 [TASK_WEEKLY_PLANTCHALLENGE_MISSILETOE]
-植物挑战——槲寄冰仙子！
+Pflanzen-Challenge – Mistelzweig-Eisfee!
 
 [TASK_WEEKLY_PLANTCHALLENGE_PARSNIP]
-植物挑战——防风草！
+Pflanzen-Challenge – Pastinaken!
 
 [TASK_WEEKLY_PLANTCHALLENGE_POWERLILY]
-植物挑战——能量花！
+Pflanzen-Challenge – Powerblume!
 
 [TASK_WEEKLY_PLANTCHALLENGE_SAPFLING]
-植物挑战——树脂投手！
+Pflanzen-Challenge – Harzkrug!
 
 [TASK_WEEKLY_PLANTCHALLENGE_SHADOWPEASHOOTER]
 植物挑战——暗影豌豆！
@@ -46644,194 +46665,207 @@ x{NUM}
  
 
 [LEVEL_EDITOR_NAME_SET]
-关卡名称设置
+Levelnamen-Einstellung
 
 [LEVEL_EDITOR_NAME_SET_WARNNING]
-您输入的关卡名称包含敏感字符，请重新输入
+Der eingegebene Levelname enthält sensible Zeichen. Bitte wiederholen.
 
 [LEVEL_EDITOR_SUN_MONEY_SET]
-初始阳光设置（0 ~ 9000）
+Anfängliche Sonnenlichteinstellung (0–9000)
 
 [LEVEL_EDITOR_SENCE]
-场景
+Szene
 
 [LEVEL_EDITOR_SELECT_RARE]
-选择植物品质
+Pflanzenqualität auswählen
 
 [LEVEL_EDITOR_PLANT_SELECT]
-植物选择
+Pflanzenauswahl
 
 [LEVEL_EDITOR_PLANT_LEVEL_SETTING]
-统一植物阶数设置
+Einstellungen für die Pflanzenreihenfolge vereinheitlichen
 
 [LEVEL_EDITOR_PLANT_LEVEL_SETTING_DES]
-(统一植物阶数会将已设置的植物阶数统一为所修改的阶数)
+(Durch die Vereinheitlichung der Pflanzenreihenfolge wird die festgelegte Pflanzenreihenfolge mit der geänderten Reihenfolge vereinheitlicht.)
 
 [LEVEL_EDITOR_PLANT_LEVEL_SETTING_HINT]
-统一植物阶数会覆盖之前对于植物阶数的操作，确定要将所有植物的阶数设置为{NUM}阶么？
+Durch die Vereinheitlichung der Pflanzenreihenfolge wird die vorherige Bearbeitung der Pflanzenreihenfolge überschrieben. Sind Sie Möchten Sie die Reihenfolge aller Pflanzen wirklich auf {NUM} setzen?
 
 [LEVEL_EDITOR_EVIL_DAVE_SET_DISTANCE]
-安全距离
+Sicherheitsabstand
 
 [LEVEL_EDITOR_EVIL_DAVE_SET_ZOMBIE_TITLE]
-僵尸设置
+Zombie-Einstellungen
 
 [LEVEL_EDITOR_EVIL_DAVE_SET_PLANT_TITLE]
-植物设置
+Pflanzeneinstellungen
 
 [LEVEL_EDITOR_EVIL_DAVE_SET_PLANT_OK_BTN]
-确定
+OK
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_1]
-初始植物
+Anfängliche Pflanzen
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_2]
-一次进化植物
+Eine Evolutionspflanze
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_3]
-二次进化植物
+Zwei Evolutionspflanzen
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_4]
-三次进化植物
+Drei Evolutionspflanzen Pflanzen
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_5]
-四次进化植物
+Pflanzen der dreifachen Evolution
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_6]
-五次进化植物
+Pflanzen der dreifachen Evolution
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_7]
-六次进化植物
+Pflanzen der dreifachen Evolution GLE_HANDED_PACKET_5]
+Pflanzen der vierten Evolution
+
+[LEVEL_EDITOR_SINGLE_HANDED_PACKET_6]
+Pflanzen der fünften Evolution
+
+[LEVEL_EDITOR_SINGLE_HANDED_PACKET_7]
+Pflanzen der sechsten Evolution
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_8]
-七次进化植物
+Pflanzen der siebten Evolution
 
 [LEVEL_EDITOR_BAN_PLANT]
-禁用植物
+Pflanzen deaktivieren
 
 [LEVEL_EDITOR_BAN_PLANT_SET]
-禁用植物设置
+Pflanze deaktivieren Einstellungen
 
 [LEVEL_EDITOR_BAN_PRODUCT_PLANT]
-禁用生产植物
+Produktionsanlagen deaktivieren
 
 [LEVEL_EDITOR_BAN_ASH_PLANT]
-禁用灰烬植物
+Ascheanlagen deaktivieren
 
 [LEVEL_EDITOR_WEIGHT_SET]
-权重设置
+Gewichtseinstellungen
 
 [LEVEL_EDITOR_ALL_ZOMBIE_LEVEL]
-统一僵尸阶数
+Zombie-Level vereinheitlichen
 
 [LEVEL_EDITOR_SELECT_ZOMBIE]
-选择僵尸
+Zombie auswählen
 
 [LEVEL_EDITOR_ZOMBIE_LEVEL_SET]
-阶数设置
+Level-Einstellungen
 
 [LEVEL_EDITOR_ZOMBIE_WAVE_NUM]
-第{NUM}波
+Welle {NUM}
 
 [LINE_NUM]
-第{NUM}行
+Linie {NUM}
 
 [LEVEL_EDITOR_SANDSTORM]
-沙尘暴设置
+Sandsturm-Einstellungen
 
 [LEVEL_EDITOR_SNOWSTORM]
-寒冰风暴设置
+Schneesturm-Einstellungen
 
 [LEVEL_EDITOR_EVENT_INTERVAL_START]
-区间起点列
+Intervallstart Spalte
 
 [LEVEL_EDITOR_EVENT_INTERVAL_END]
-区间终点列
+Spalte Intervallende
 
 [LEVEL_EDITOR_EVENT_ROW_START]
-区间起点行
+Zeile Intervallstart
 
 [LEVEL_EDITOR_EVENT_ROW_END]
-区间终点行
+Zeile Intervallende
 
-[LEVEL_EDITOR_EVENT_ZOMBIE_LEVEL]
-僵尸等级设置
+[LEVEL_EDITOR_EVENT_ZOMBIE_LEVEL_EDITOR_EVENT_ROW_END]
+Zeile Intervallende
+
+[LEVEL_EDITOR_EVENT_ZOMBIE_LEVEL_EDITOR_EVENT_ROW_START]
+Zeile Intervallstart
+
+[LEVEL_EDITOR_EVENT_ROW_END]
+Zeile Intervallende VEL]
+Zombie-Level-Einstellung
 
 [HAPPY_VASE_BREAKER_TITLE]
-欢乐砸罐子
+Fröhliches Glaszertrümmern
 
 [HAPPY_VASE_BREAKER_TAB_ONE]
-砸罐子
+Zertrümmern Gläser
 
 [HAPPY_VASE_BREAKER_TAB_TWO]
-砸罐任务
+Glaszertrümmerungsaufgaben
 
 [HAPPY_VASE_BREAKER_TEXT_1]
-当前拥有砸罐锤
+Haben Sie aktuell einen Glaszertrümmerungshammer?
 
 [HAPPY_VASE_BREAKER_TEXT_NUM]
-个
 
 [HAPPY_VASE_BREAKER_POOL]
-奖池
-预览
+Belohnungspool
+Vorschau
 
 [HAPPY_VASE_BREAKER_RESET]
-重置
+Zurücksetzen
 
 [HAPPY_VASE_BREAKER_HAMMER_ERROR]
-未知活动错误，请检查网络连接或重新打开活动
+Unbekannter Eventfehler. Bitte überprüfen Sie die Netzwerkverbindung oder öffnen Sie das Event erneut.
 
 [HAPPY_VASE_BREAKER_DES_TITLE]
-砸罐说明
+Beschreibung des Glaszertrümmerns
 
 [HAPPY_VASE_BREAKER_DESCRIPTION]
-活动内容：
-1. 玩家通过所拥有的砸罐锤，砸开金罐可获得一件奖励。
-2. 当剩余的金罐，数量为零，可重置奖励，否则需要消耗砸罐锤重置，重置时会随机从奖励里面选择奖励卡池（有概率重置到当前卡池）
-3. 砸罐锤可通过活动页面内的每日任务，每日充值，累计充值获得。
-4. 每日任务和每日充值每天重置。
-5. 每次砸罐消耗的砸罐锤数量不一致。每期剩余的砸罐锤会清空。
-6. 如果玩家已经拥有了金罐里的植物，则奖励会转换成10个植物碎片，如果拥有金罐里的装扮，则会给15个装扮碎片。
-7. 每期活动有一棵头等植物大奖，玩家在砸取到头奖植物后，该头奖植物卡组在本期活动中不会再次出现。
-砸罐子概率公示
-一等奖励: 2.06%      二等奖励: 6.18%       三等奖励：9.36%       四等奖励: 26.22%       五等奖励：56.18%
+Eventinhalt:
+1. Spieler erhalten eine Belohnung, indem sie das Goldglas mit ihrem Glaszertrümmerungshammer zertrümmern.
+2. Wenn die Anzahl der Wenn die verbleibenden Goldgefäße null sind, kann die Belohnung zurückgesetzt werden. Andernfalls muss der Gefäßzertrümmerer verbraucht werden, um sie zurückzusetzen. Beim Zurücksetzen wird der Belohnungskartenpool zufällig aus den Belohnungen ausgewählt (es besteht die Möglichkeit, dass der aktuelle Kartenpool zurückgesetzt wird).
+3. Der Gefäßzertrümmerer kann durch tägliche Aufgaben, tägliche Aufladungen und kumulative Aufladungen auf der Eventseite erhalten werden.
+4. Tägliche Aufgaben und tägliche Aufladungen werden täglich zurückgesetzt.
+5. Die Anzahl der verbrauchten Gefäßzertrümmerer ist inkonsistent. Die verbleibenden Gefäßzertrümmerer werden in jedem Zeitraum geleert.
+6. Wenn der Spieler die Pflanze bereits im Goldgefäß hat, wird die Belohnung in 10 Pflanzenfragmente umgewandelt. Wenn der Spieler das Kostüm im Goldgefäß hat, erhält er 15 Kostümfragmente.
+7. In jedem Event gibt es einen Hauptpreis für eine erstklassige Pflanze. Nachdem der Spieler die erstklassige Pflanze zertrümmert hat, erscheint die erstklassige Pflanzenkartengruppe nicht mehr. Ereignis.
+Ankündigung der Wahrscheinlichkeit, das Gefäß zu zerschlagen
+Erster Preis: 2,06 % Zweiter Preis: 6,18 % Dritter Preis: 9,36 % Vierter Preis: 26,22 % Belohnung der fünften Klasse: 56,18 %
 
 [HAPPY_VASE_BREAKER_HAMMER_CONFIRM]
-是否消耗{NUM}砸罐锤砸开金罐
+Verbraucht man {NUM} Gefäßhämmer, um das goldene Gefäß zu zerschlagen?
 
 [HAPPY_VASE_BREAKER_RESET_CONFIRM]
-是否消耗{NUM}砸罐锤重置奖励
+Verbraucht man {NUM} Gefäßhämmer, um die Belohnung zurückzusetzen?
 
 [HAPPY_VASE_BREAKER_NOT_ENOUGH]
-砸罐锤不足
+Nicht genügend Gefäßhämmer
 
 [HAPPY_VASE_BREAKER_HAMMER_OBTAIN]
-恭喜获得{NUM}个砸罐锤
+Herzlichen Glückwunsch zu {NUM} Gefäßhämmern! Hämmer
 
 [HAPPY_VASE_BREAKER_ADVENTURE]
-完成植物探险{NUM}次
+Schließe {NUM} Pflanzenabenteuer ab.
 
 [HAPPY_VASE_BREAKER_GEM_CONSUME]
-消耗钻石{NUM}颗
+Verbrauche {NUM} Diamanten.
 
 [HAPPY_VASE_BREAKER_LOGIN]
-登录
+Anmelden
 
 [HAPPY_VASE_BREAKER_PASSWORLDLEVEL]
-累计通关{NUM}次{WORLD}世界{HARD}关卡
+Schließe {NUM} {WORLD} {HARD} Level ab.
 
 [HAPPY_VASE_BREAKER_WINNIE]
-累计在潘妮宝物中开启{NUM}个宝箱
+Öffne {NUM} Schatztruhen in Penny's Treasures.
 
 [HAPPY_VASE_BREAKER_CHALLENGE]
-完成{NUM}次挑战任务
+Schließe {NUM} Herausforderungsmissionen ab.
 
 [HAPPY_VASE_BREAKER_BATTLEZ]
-游玩{NUM}次创意庭院
+Besuche {NUM} Kreativgärten.
 
 [HAPPY_VASE_BREAKER_PVP]
-参与{NUM}次对战中的花园战争
+Nehme an {NUM} Gartenkriegen teil.
 
 [HAPPY_VASE_BREAKER_PVP_CHANGE]
 游玩{NUM}次创意庭院
@@ -47128,112 +47162,116 @@ x{NUM}
 可领取奖励不足
 
 [WATER]
-一键浇灌
+Bewässern mit nur einem Klick
 
 [WATER_GET]
-一键收获
+Ernten mit nur einem Klick
 
 [HARVEST]
-获得
+Holen
 
 [REFRESH_FRUIT]
-X{NUM}刷新
+X{NUM} aktualisieren
 
 [ARBORDAY_KETTLE_OBTAIN]
-恭喜获得{NUM}个{NAME}
+Herzlichen Glückwunsch zu {NUM} {NAME}
 
 [MAT_ARBORDAY_KETTLE]
-水壶
+Wasserkessel
 
 [ARBORDAY_FULL]
-奖励已满，请先领取奖励
+Belohnungen sind voll, bitte holt sie euch zuerst ab.
 
 [ARBORDAY_DESCRIPTION_TITLE]
-快乐植树说明
+Anleitung zum Bäumepflanzen
 
 [ARBORDAY_DESCRIPTION]
-活动内容：
+Aktivitätsinhalt:
 
-1.每消耗三个水壶可以开启宝箱一次，获得大量植物碎片,钻石,金币等奖励，可获得的奖励列表: ^FF8000^神器祝福券 突击竹兵 眩晕雏菊^oldclr^ ^8600FF^夜影龙葵 槲寄冰仙子^oldclr^ ^2828FF^原始坚果 芦笋战机 大力花菜^oldclr^ ^82D900^三重射手 爆炸坚果 石斛防风网^oldclr^
+1. Jedes Mal, wenn du drei Wasserkessel verbrauchst, kannst du die Schatztruhe einmal öffnen und viele Pflanzenfragmente, Diamanten, Goldmünzen und andere Belohnungen erhalten. Die Liste der Belohnungen, die du erhalten kannst: ^FF8000^ Artefaktsegen-Ticket, Angriffsbambussoldat, Schwindelerregendes Gänseblümchen^oldclr^ ^8600FF^ Nachtschatten, Nachtschatten-Mistel, Eisfee^oldclr^ ^2828FF^Ursprungsnüsse, Spargelkämpfer, Mächtiger Blumenkohl^oldclr^ ^82D900^Dreifachschütze, Explosive Nüsse, Dendrobium-Windschutznetz^oldclr^
 
-2.通过浇灌任务可以获得水壶，亦可通过钻石礼包获得。
+2. Du erhältst einen Kessel durch Bewässerungsaufgaben oder durch Diamant-Geschenkpakete.
 
-3.每消耗一个水壶都会累计个人和全服的浇灌进度，根据个人进度和全服进度可领取奖励！
+3. Jedes Mal, wenn du einen Kessel verbrauchst, wird dein persönlicher und serverweiter Bewässerungsfortschritt gesammelt. Du kannst Belohnungen basierend auf deinem persönlichen und serverweiten Fortschritt erhalten!
 
 [NEWYEAR_GOODS_SHORT_DESCRIPTION]
-参与超级自选活动，购买超值自选礼包
+Nehmen Sie am Super-Selbstauswahl-Event teil und erwerben Sie ein supergünstiges, selbst ausgewähltes Geschenkpaket.
 
 [NEWYEAR_GOODS_DESCRIPTION_TITLE]
-超级自选活动说明
+Beschreibung des Super-Selbstauswahl-Events
 
 [NEWYEAR_GOODS_DESCRIPTION]
-活动规则:
-1、礼盒内预置了许多物品，玩家可自己选择若干奖励放入栏位内。购买选好内容的礼包后可以获得对应物品。
-2、每个礼包每日限购一次。
-3、礼包共有6个档位，每个档位包含的内容不同。
+Eventregeln:
+1. Die Geschenkbox enthält viele voreingestellte Gegenstände. Spieler können mehrere Belohnungen auswählen und in die Spalte legen. Nach dem Kauf des Geschenkpakets mit dem ausgewählten Inhalt erhalten Sie die entsprechenden Gegenstände.
+
+2. Jedes Geschenkpaket ist auf einen Kauf pro Tag begrenzt.
+3. Es gibt sechs Stufen von Geschenkpaketen mit jeweils unterschiedlichen Inhalten.
 
 [PRODUCT_NEWYEARGOODS_6_SHORTDESC]
-超级自选小号礼包
+Super kleines Geschenkpaket (selbstgewählt)
 
 [PRODUCT_NEWYEARGOODS_30_SHORTDESC]
-超级自选中号礼包
+Super mittelgroßes Geschenkpaket (selbstgewählt)
 
 [PRODUCT_NEWYEARGOODS_68_SHORTDESC]
-超级自选大号礼包
+Super großes Geschenkpaket (selbstgewählt)
 
 [PRODUCT_NEWYEARGOODS_128_SHORTDESC]
-超级自选特大礼包
+Super extra großes Geschenkpaket (selbstgewählt)
 
 [PRODUCT_NEWYEARGOODS_328_SHORTDESC]
-超级自选巨大礼包
+Super riesiges Geschenkpaket (selbstgewählt)
 
 [PRODUCT_NEWYEARGOODS_648_SHORTDESC]
-超级自选超大礼包
+Super großes Geschenkpaket (selbstgewählt)
 
 [NEWYEAR_GOODS]
-超级自选
+Super großes Geschenkpaket (selbstgewählt)
+
+[NEWYEAR_GOODS]
+Super großes Geschenkpaket (selbstgewählt)
 
 [NEWYEAR_GOODS_BUNDLE]
-{NUM}元自选礼包
+{NUM} Yuan selbstgewähltes Geschenk Paket
 
 [NEWYEAR_GOODS_SELECTED]
-已选中礼包内容
+Ausgewählter Geschenkpaketinhalt
 
 [NEWYEAR_GOODS_NOT_SELECT_ALL]
-每个位置都要选择哦！
+Jede Position muss ausgewählt werden!
 
 [MAT_GENE_FACTOR]
-基因原质
+Gen-Essenz
 
 [MAT_GENE_FACTOR_USE]
-用来在基因编辑中提炼基因序列
+Zum Extrahieren von Gensequenzen in der Genomeditierung
 
 [MAT_GENE_FACTOR_GOT_WAY]
-购买基因礼包、双人对决段位奖励
+Genpakete kaufen, doppelte Duellrang-Belohnungen
 
 [MAT_UNIVERAL_GENE_SEQUENCE]
-万能基因币
+Universelle Genmünze
 
 [MAT_UNIVERAL_GENE_SEQUENCE_USE]
-用来在基因编辑的基因序列商店中兑换
+Zum Tausch im Gensequenz-Store der Genomeditierung
 
 [MAT_UNIVERAL_GENE_SEQUENCE_GOT_WAY]
-购买基因礼包
+Genpakete kaufen
 
 [GENE_SEQUENCE]
-基因序列
+Gensequenz
 
 [GENE_ESSENCE]
-基因精华
+Gen-Essenz
 
 [GENE_SEQUENCE_GROUP]
-基因序列组
+Gensequenzgruppe
 
 [NOT_YET_UNLOCKED]
 Noch nicht freigeschaltet
 
 [ALREADY_MAX_LEVEL]
-Maximales Level
+Maximale Stufe
 
 [BONUS_ATTRIBUTES]
 Bonusattribute
@@ -47263,9 +47301,9 @@ Beruf, der Boni gewährt oder negative Zustände von Pflanzen beseitigt
 Zähigkeit
 
 [PROFESSION_PROTECTOR_DESCRIPTION]
-Beruf mit guten Fähigkeiten für Zombies blockieren
+Beruf mit guten Fähigkeiten zum blockieren von Zombies
 
-[PROFESSION_SUNM AKER]
+[PROFESSION_SUNMAKER]
 Sonnenschein
 
 [PROFESSION_SUNMAKER_DESCRIPTION]
@@ -47275,7 +47313,7 @@ Berufe, die Sonnenlicht erzeugen können
 Spezialkräfte
 
 [PROFESSION_SPECIALIST_DESCRIPTION]
-Berufe mit besonderen Angriffsmethoden oder zur Abwehr von Zombies
+Berufe mit besonderen Angriffsmethoden oder Methoden zur Abwehr von Zombies
 
 [PLANT_DETAILS]
 Detaillierte Attribute
