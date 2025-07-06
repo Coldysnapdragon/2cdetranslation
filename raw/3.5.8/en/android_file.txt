@@ -2084,7 +2084,7 @@ FACEBOOK
 游戏结束
 
 [GAME_PAUSED]
-游戏暂停
+Spiel pausiert
 
 [GATE_COST]
 你需要
@@ -2093,13 +2093,13 @@ FACEBOOK
 {NUM_COST}来解锁！
 
 [GO_TO_EVENT]
-立即前往
+Zum Ereignis gehen
 
 [GOT_A_POWERUP]
-你获得了一个新的强化道具！
+Du hast ein Powerup erhalten！
 
 [GOT_AN_UPGRADE]
-升级成功！
+Du hast eine Verbesserung erhalten！
 
 [GRAVEBUSTER]
 噬碑藤
@@ -2129,7 +2129,7 @@ FACEBOOK
 
 
 [HIDE_LAWN]
-隐藏草地
+Rasen verstecken
 
 [ICEBURG]
 冰冻生菜
@@ -2228,10 +2228,10 @@ FACEBOOK
 完成该分支路线，可以获得珍贵道具!
 
 [KEYS]
-钥匙
+Schlüssel
 
 [LEAVE_BUTTON]
-离开
+Verlassen
 
 [LEAVE_DANGER_ROOM_GAME]
 你想回到世界地图吗？这样会失去当前关卡进度，你需要重新开始本关。
@@ -2252,13 +2252,13 @@ FACEBOOK
 若退出关卡，布置的植物不会被保存。
 
 [LEAVE_GAME_BUTTON]
-退出关卡
+Verlassen
 
 [LEAVE_GAME_HEADER]
-退出关卡？
+Möchtest du das Spiel verlassen？
 
 [LETS_ROCK_BUTTON]
-开始战斗
+Los Geht's!
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_HP]
 生命
@@ -2273,13 +2273,13 @@ FACEBOOK
 加速
 
 [START_GAME_BUTTON]
-开始游戏
+Starten
 
 [CHOOSER_RESET_BUTTON]
-清空卡槽
+Zurücksetzen
 
 [LIGHTNINGREED]
-闪电芦苇
+Blitzschilf
 
 [LIGHTNINGREED_DESCRIPTION]
 {KEYWORD}范围：{STAT}可以击中上下一行的目标 
@@ -2297,7 +2297,7 @@ FACEBOOK
 一次击中几只鸡或僵尸。
 
 [LOADING]
-读取中…
+Lädt…
 
 [LOCAL_PUSH_YETI_EVENT]
 宝藏雪人的餐盒里到底藏着什么秘密？打败它一探究竟。
@@ -2312,7 +2312,7 @@ Chinese_China
 <点击添加玩家>
 
 [MAINMENU_DELETE_PROFILE]
-删除
+Profil löschen
 
 [MAINMENU_DELETE_PROFILE_BODY]
 如果“删除”这个存档，你将失去该存档的所有游戏数据，包括你已经购买的道具。
@@ -2324,31 +2324,31 @@ Chinese_China
 编辑玩家
 
 [MAINMENU_EDIT_PROFILE]
-编辑存档
+Profil bearbeiten
 
 [MAINMENU_FACEBOOK_LOGIN]
 联系好友？
 
 [MAINMENU_KEEP_PROFILE]
-保留
+Profil Behalten
 
 [MAINMENU_NEW_PROFILE]
-新建存档
+Neues Profil
 
 [MAINMENU_PLAY]
 开始游戏
 
 [MAINMENU_SAVE]
-确定
+Speichern
 
 [MAINMENU_SELECT_PLAYER]
-选择玩家
+Spieler auswählen
 
 [MAINMENU_TAKE_PHOTO]
 拍摄照片
 
 [MAINMENU_WELCOME]
-欢迎
+Willkommen 
 
 [MAINMENU_ACCOUNT_BINDING]
 账号绑定
@@ -6111,7 +6111,7 @@ Kaufen
 穿过火炬树桩的豌豆会变成火弹。
 
 [TRY_AGAIN]
-再次尝试
+Erneut versuchen
 
 [TUTORIAL]
 教学关
@@ -6170,7 +6170,7 @@ Kaufen
 ???
 
 [UNIVERSE_MAP_TITLE]
-疯狂戴夫的时空玉米卷地图
+Weltkarte
 
 [UNLOCK_GATE]
 解锁
@@ -6197,64 +6197,64 @@ Kaufen
 未知错误
 
 [UPGRADE]
-升级
+Verbessern
 
 [RANK_UP]
-升阶
+Rangaufstieg
 
 [RANK_UP_MAX]
-已升满
+Maximales Upgrade
 
 [BLESS]
-祝福
+Segen
 
 [DLC_FILES_SIZE]
-文件大小：{SIZE_1}MB/{SIZE_2}MB
+Dateigröße: {SIZE_1}MB/{SIZE_2}MB
 
 [DLC_FILES_SIZE2]
 {SIZE_1}MB/{SIZE_2}MB
 
 [DLC_BLACKGROUND_BUTTON]
-后台下载
+Hintergrund-Download
 
 [DLC_INSTALL_BUTTON]
-立即安装
+Jetzt installieren
 
 [UUID_BIND_TIP_CONTENT]
-亲爱的玩家，建议您现在绑定手机设备，可以有效避免存档丢失
+Liebe Spieler, wir empfehlen euch, euer Mobilgerät jetzt zu binden, um verlorene Spielstände effektiv zu vermeiden.
 
 [UUID_BIND_TIP_OK]
-现在绑定
+Jetzt binden
 
 [UUID_BIND_DOUBLE_TIP_OK]
-继续绑定
+Bindung fortsetzen
 
 [UUID_BIND_TIP_CANCEL]
-稍后再说
+Wir besprechen das später. später
 
 [UUID_BIND_CANCEL_SETTING_TIP]
-您可以随时在登录界面的功能设置里进行存档绑定
+Du kannst Spielstände jederzeit in den Funktionseinstellungen im Login-Bereich binden.
 
 [UUID_BIND_TIP_DOUBLE_CONTENT]
-请确认您的游戏进度、资源数量正常，绑定存档后如需解绑请联系客服
+Bitte stelle sicher, dass dein Spielfortschritt und deine Ressourcenmenge normal sind. Falls du die Bindung nach dem Binden aufheben musst, wende dich bitte an den Kundenservice.
 
 [UUID_BIND_SUCCEED]
-绑定成功！请重启游戏
+Bindung erfolgreich! Bitte starte das Spiel neu.
 
 [UUID_BIND_SUCCEED_TIP]
-重启游戏
+Starte das Spiel neu.
 
 [UUID_BIND_FAIL]
-绑定失败！
+Bindung fehlgeschlagen!
 
 [UUID_BIND_SETTING_CONTENT]
-建议您现在绑定手机设备，可以有效避免存档丢失。在绑定前请确认您的游戏进度、资源数量正常，绑定存档后如需解绑请联系客服。
+Wir empfehlen dir, dein Mobilgerät jetzt zu binden, um verlorene Spielstände effektiv zu vermeiden. Bitte stelle vor dem Binden sicher, dass dein Spielfortschritt und deine Ressourcenmenge normal sind. Falls du die Bindung nach dem Binden aufheben musst, wende dich bitte an den Kundenservice.
 
 [LUA_UPDATE_TIP]
-更新提示
+Update-Tipps
 
 [LUA_UPDATE_CONTENT]
-检测到资源更新，资源大小{NUMBER}M，是否现在更新？
+Ressourcen-Update erkannt, Ressourcengröße {NUMBER} Möchten Sie jetzt aktualisieren?
 
 [LUA_UPDATE_DOWNLOADING]
 资源下载中...{NUMBER}%
@@ -6275,74 +6275,74 @@ Kaufen
 从服务器获取最新数据成功，请重新打开游戏以便生效
 
 [UPGRADE_7_SLOTS]
-可使用植物+1
+Samenplatz +1
 
 [UPGRADE_8_SLOTS]
-可使用植物+1
+Samenplatz +1
 
 [UPGRADE_PF_REFRESH]
-立即补充
+Sofort auffüllen
 
 [UPGRADE_PF_REFRESH_INFO]
-投放能量豆快速更新植物卡片。
+Du kannst Dünger verwenden, um Samenpäckchen sofort nutzbar zu machen.
 
 [UPGRADE_PF_SLOT]
-扩充的能量豆槽
+Dünger-platz erweitert
 
 [UPGRADE_PF_SLOT_DESCRIPTION]
-在一关中多保持一颗能量豆！
+Behalte einen weitere Dünger in jedem Level!
 
 
 [UPGRADE_PRICE]
 %s
 
 [UPGRADE_SEEDSLOT]
-额外卡片槽
+Zusätzlicher Samenbankplatz
 
 [UPGRADE_SEEDSLOT_DESCRIPTION]
-每关可选择多一棵植物
+Pro Level kann eine weitere Pflanze ausgewählt werden.
 
 [UPGRADE_SHOVEL_1]
-嘉奖阳光铲
+Belohnende Sonnenscheinschaufel
 
 [UPGRADE_SHOVEL_2]
-强化阳光铲
+Verbesserte Sonnenscheinschaufel
 
 [UPGRADE_SHOVEL_3]
-多产阳光铲
+Ertragreiche Sonnenscheinschaufel
 
 [UPGRADE_SHOVEL_DESCRIPTION]
-挖出植物后收回额外25%阳光
+25% mehr Sonnenschein nach dem Ausgraben von Pflanzen
 
 [UPGRADE_STARTING_SUN]
-强化初始阳光
+Verbesserter Sonnenschein beim Start
 
 [UPGRADE_STARTING_SUN_1]
-强化初始阳光
+Verbesserter Sonnenschein beim Start
 
 [UPGRADE_STARTING_SUN_2]
-强化初始阳光
+Verbesserter Sonnenschein beim Start
 
 [UPGRADE_STARTING_SUN_DESCRIPTION]
-开始关卡时多25初始阳光！
+25 mehr Sonnenschein beim Start eines Levels!
 
 [UPGRADE_WALLNUT_FIRSTAID]
-坚果包扎术
+Walnussverbandskasten
 
 [UPGRADE_WALLNUT_FIRSTAID_INFO]
-可以在受伤的坚果类植物上再种一棵坚果，以修复其损伤。
+Du kannst eine weitere Nuss auf eine beschädigte Nusspflanze pflanzen, um den Schaden zu entfernen.
 
 [UPGRADES]
-强化
+Verbesserungen
 
 [USER_ERROR_MESSAGE]
-请输入您的用户名，创建一个新的用户。用以储存您自己的最高成绩和游戏进程。
+Bitte gib deinen Benutzernamen ein, um einen neuen Benutzer zu erstellen. Deine besten Ergebnisse und dein Spielfortschritt werden gespeichert.
 
 [USERNAME_EMPTY]
-用户名称不能为空
+Benutzername darf nicht leer sein.
 
 [USERNAME_ERROR]
-用户名出错
+Benutzername-Fehler
 
 [VIEW_IN_ALMANAC]
 Im Lexikon suchen
@@ -49553,7 +49553,7 @@ J、秒杀礼包：购买礼包获得^FF0000^ 植物碎片*10^oldclr^和10-1000�
 K、神器材料礼包：购买礼包获得^FF0000^ 时空能量罐*20^oldclr^和10-180钻石，35%的概率获得时空立方*10；
 
 [CARNIVAL]
-狂欢嘉年华
+Karneval
 
 [CARNIVAL_SHORT_DESCRIPTION]
 参与狂欢嘉年华，购买兑换券，兑换超值礼包，更可获得惊喜奖励！
@@ -55873,58 +55873,58 @@ Accessoirteile
 Andere Gegenstände
 
 [UI_BAG_PLANT_LEVELUP]
-Pflanzen Leveln
+Pflanze Verbessern
 
 [UI_BAG_TRANS_GENOSIS]
 转基因
 
 [UI_BAG_AVATAR_EXCHANGE]
-装扮兑换
+Kostümtausch
 
 [UI_BAG_ACCESSORY_EXCHANGE]
-挂件兑换
+Accessoiretausch
 
 [UI_BAG_ITEM_USE]
 Verwenden
 
 [UI_BAG_PARTY_ASSIST_EXCHANGE]
-钻石兑换
+Diamantenbörse
 
 [UI_BAG_ITEM_COUNT]
-持有数量:^ff0000^{NUMS}^oldclr^
+Anzahl der Bestände: ^ff0000^{NUMS}^oldclr^
 
 [UI_BAG_ITEM_NAME]
 ^ff0000^{NAME}^oldclr^
 
 [UI_BAG_PIECE_TITLE]
-碎片作用:{DESC}
+Fragmentfunktion: {DESC}
 
 [UI_BAG_PLANT_PIECE_DESC]
-碎片作用:合成植物{DESC}
+Fragmentfunktion: Pflanzen synthetisieren {DESC}
 
 [UI_BAG_AVATAR_PIECE_DESC]
-碎片作用:合成{DESC}装扮
+Fragmentfunktion: {DESC} Kostüme synthetisieren
 
 [UI_BAG_ACCESSORY_PIECE_DESC]
-碎片作用:合成挂件{DESC}
+Fragmentfunktion: Anhänger synthetisieren {DESC}
 
 [UI_BAG_MATERIAL_DESC]
-材料作用:{DESC}
+Materialfunktion: {DESC}
 
 [UI_BAG_MATERIAL_OBJECT_DESC]
-藏品作用:{DESC}
+Sammlungsfunktion: {DESC}
 
 [UI_BAG_MATERIAL_RARE]
-藏品稀有度:
+Sammlung Seltenheit:
 
-[RARE1]
-稀有
+[SELTEN1]
+Selten
 
-[RARE2]
-史诗
+[SELTEN2]
+Episch
 
-[RARE3]
-传说
+[SELTEN3]
+Legendär
 
 [COLLECTION_USE]
 场上所有植物每秒有3%的概率进入持续5秒的精准打击状态，精准打击状态下植物的每次伤害额外追加20%的真实伤害。真实伤害无视护盾与防具(创意庭院模式下不生效)
