@@ -15875,104 +15875,105 @@ Lv.1 新手上路(0积分)                8钻石
 刷新
 
 [TODAY]
-今日
+Heute
 
 [TOMMORROW]
-明日
+Morgen
 
 [DANGERROOM_PLANTSTORE_NEED_CONNECT]
-自动刷新需要联网
+Automatische Aktualisierung erfordert Internetverbindung.
 
 [STEADY_MAX]
-已强化到最高等级
+Auf höchste Stufe verbessert
 
 [BUTTON_STEADY]
-强化
+Verbessern
 
 [BUTTON_RESET]
-重置
+Zurücksetzen
 
 [CURRENT_EFFECT]
-当前效果
+Aktueller Effekt
 
 [NEXT_EFFECT]
-下级预览
+Vorschau der nächsten Stufe
 
 [CONFIRM_STEADY_TITLE]
-挂件强化
+Zubehörverbesserung
 
 [CONFIRM_STEADY]
-是否花费以下材料进行强化
+Möchtest du die folgenden Materialien zur Verbesserung ausgeben?
+
 {MAT1}:{NUM1},{MAT2}:{NUM2},{MAT3}:{NUM3}
 
 [ACCESSORY_STEADY_SUCCESS_INFO]
-恭喜您获得 ^FF0000 {LEVEL}阶{NAME} ^oldclr 
+Herzlichen Glückwunsch zum Erreichen von ^FF0000 {LEVEL} Stufe {NAME} ^oldclr
 
 [ACCESSORY_STEADY_SUCCESS_TITLE]
-强化成功
+Stärkung Erfolg
 
 [MAT_SPACE_TIME_CRYSTAL]
-时空水晶
+Raum-Zeit-Kristall
 
 [MAT_SPACE_TIME_CRYSTAL2]
-时空水晶
+Raum-Zeit-Kristall
 
 [MAT_SPACE_TIME_CRYSTAL3]
-时空水晶
+Raum-Zeit-Kristall
 
 [MAT_SPACE_TIME_DUST]
-时空粉尘
+Raum-Zeit-Staub
 
 [MAT_SPACE_TIME_DUST2]
-时空粉尘
+Raum-Zeit-Staub
 
-[MAT_SPACE_TIME_DUST3]
-时空粉尘
+[MAT_SPACE_TIME_DUST UST3]
+Zeit- und Raum-Staub
 
 [MAT_SPACE_TIME_DUST4]
-时空粉尘
+Zeit- und Raum-Staub
 
 [CONFIRM_RESET_TITLE]
-挂件重置
+Anhänger zurücksetzen
 
 [CONFIRM_RESET]
-是否花费10钻石重置挂件
+Ob 10 Diamanten ausgegeben werden sollen, um den Anhänger zurückzusetzen
 
 [BONUS_CARD_PIECE_ICESHROOM]
-寒冰菇碎片
+Eispilzstück
 
 [BONUS_CARD_PIECE_ICESHROOM_DESCRIPTION]
-获得寒冰菇碎片
+Eispilz holen Stück
 
-[BONUS_CARD_PIECE_FIRESHROOM]
-烈焰菇碎片
+[BONUS_CARD_PIECE_FIRESHRO OM]
+Feuerpilzfragment
 
 [BONUS_CARD_PIECE_FIRESHROOM_DESCRIPTION]
-获得烈焰菇碎片
+Feuerpilzfragment erhalten
 
 [BONUS_CARD_PIECE_CARROTLAUNCHER]
-胡萝卜碎片
+Karottenfragment
 
 [BONUS_CARD_PIECE_CARROTLAUNCHER_DESCRIPTION]
-获得胡萝卜导弹车碎片
+Karotten-Raketenträgerfragment erhalten
 
 [BONUS_CARD_PIECE_DANDELION]
-蒲公英碎片
+Löwenzahnfragment
 
-[BONUS_CARD_PIECE_DANDELION_DESCRIPTION]
-获得蒲公英碎片
+[BONUS_CARD_PIECE_DANDELION] IECE_DANDELION_DESCRIPTION]
+Löwenzahnfragmente erhalten
 
 [BONUS_CARD_PIECE_BROCCOLI]
-大力花菜碎片
+Brokkolifragmente
 
 [BONUS_CARD_PIECE_BROCCOLI_DESCRIPTION]
-获得大力花菜碎片
+Brokkoli Fragmente erhalten
 
 [BONUS_CARD_PIECE_PAMEGRANATE]
-石榴碎片
+Granatapfelfragmente
 
 [BONUS_CARD_PIECE_PAMEGRANATE_DESCRIPTION]
-获得机枪石榴碎片
+Maschinengewehr-Granatapfelfragmente erhalten
 
 [BONUS_CARD_PIECE_SUNFLOWER]
 向日葵碎片
@@ -31172,58 +31173,68 @@ PIÑATA 派对
 哎呀！你需要完成神秘埃及-第二天来激活旅行日志。
 
 [QUESTS_DISABLED_HEADER]
-完成神秘埃及-第2天
+Schließe „Geheimnisvolles Ägypten – Tag 2“ ab.
 
 [QUESTS_DISABLED_LEVEL_COMPLETION]
-哎呀！旅行日志还无法激活。
+Ups! Reisetagebuch kann noch nicht aktiviert werden.
+
 [RESTART_BUTTON_FOR_COINS]
-重新开始 花费 {COST}
+Neustart: {COST} ausgeben
+
 [RESTORE_PURCHASES_BODY]
-成功恢复 {NUM_RESTORED} 购买！
+{NUM_RESTORED} Käufe erfolgreich wiederhergestellt!
 
 [RESTORE_PURCHASES_HEADER]
-恢复购买！
+Käufe wiederhergestellt!
 
 [RESTORE_PURCHASES_OFFLINE_BODY]
-设备需要连接至因特网才能恢复购买。
+Das Gerät muss mit dem Internet verbunden sein, um Käufe wiederherzustellen.
 
 [RESTORE_PURCHASES_OFFLINE_HEADER]
-连接错误
+Verbindungsfehler
+
 [RETRY_AD_FOOTER]
-花费金币再次尝试，或是观看广告来免费重试。
+Gib Münzen aus, um es erneut zu versuchen, oder sieh dir eine Anzeige an, um es kostenlos erneut zu versuchen.
 
 [RETRY_AD_HEADER]
-重新开始？
+Neustart?
 
 [RETRY_FOR_AD]
-观看广告重试
+Anzeige ansehen, um es erneut zu versuchen.
 
 [RETRY_FOR_COINS]
-重试花费 {COST}
+Wiederholkosten: {COST}
+
 [SECONDS]
-秒
+Sekunden
+
 [SEED_CHOOSER_NO_LILY_PAD_WARNING]
-你没有选择任何莲叶。你确定要继续吗？
+Du hast keine Seerosenblätter ausgewählt. Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_RECALL_PLANTS]
 Zurücksetzen
 
 [SEED_CHOOSER_RENT_PLANT]
-{RENT_COST} 租用
+{RENT_COST} Mieten
 
 [SEED_CHOOSER_RENT_PLANT_NOT_ENOUGH_COINS]
-哎呀！收集更多的金币来租用这棵植物。
+Ups! Sammle mehr Münzen, um diese Pflanze zu mieten.
 
 [SEED_CHOOSER_SUGGEST_PLANTS]
-提示
+Tipp
+
 [SEED_CHOOSER_UNOWNED_IN_SPINE]
-Erhältlich in{WORLDNAME}
+Zu finden in {WORLDNAME}
+
 [SETTINGS_BUILDVERSION_TITLE]
-Build Version
+Build-Version
+
 [SETTINGS_DATASHARING_PROMPT_DISABLED]
-游戏的使用数据分享功能已经关闭除了你直接提供给拓维的数据之外，拓维还会为了改善给您的产品和服务来收集特定的信息。通过软件升级，动态调整的内容，产品支持，以及与您的沟通来改善您使用拓维产品和服务时的体验。这些数据不会与任何第三方共享，也不会用来确认您的身份。当你关闭数据分享时，除了匿名的信息，拓维仍会继续收集一些合理的信息来保证产品和服务的运行。开启使用数据分享？
+Die Funktion zur Freigabe von Spielnutzungsdaten wurde deaktiviert. Zusätzlich zu den Daten, die du Tuowei direkt zur Verfügung stellst, sammelt Tuowei auch bestimmte Informationen, um die Produkte und Dienste für dich zu verbessern. Optimiere dein Erlebnis bei der Nutzung von Tuowei-Produkten und -Diensten durch Software-Upgrades, dynamisch angepasste Inhalte, Produktsupport und Kommunikation mit dir. Diese Daten werden nicht an Dritte weitergegeben und nicht zur Bestätigung deiner Identität verwendet. Wenn du die Datenfreigabe deaktivierst, sammelt Tuowei neben anonymen Daten weiterhin einige angemessene Informationen, um den Betrieb der Produkte und Dienste sicherzustellen. Freigabe von Nutzungsdaten aktivieren?
+
 [SETTINGS_DISPLAY_PCPID]
-玩家ID
+Spieler-ID
+
 [SETTINGS_DISPLAY_VERSION]
 Version
 [SETTINGS_MOREGAMES_MULTIPLATFORM_URL]
@@ -42406,94 +42417,97 @@ Die Anzahl der von der ultimativen Fähigkeit abgefeuerten Kugeln verdoppelt sic
 大招在啃咬后会追加2次伤害略低一点的爪击
 
 [SPRINGPRINCESS]
-公主弹簧草
+Prinzess Bohne
 
 [SPRINGPRINCESS_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方3行
-{KEYWORD}特点：{STAT}对僵尸射出弹簧将其弹开。
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 公主弹簧草作为弹簧王国的第137任公主，最讨厌别人提到她的身份，因为在弹簧王国除了她每个人都是国王或皇后。
+{KEYWORD}Reichweite: {STAT} 3 Reihen voraus
+{KEYWORD}Funktionen: {STAT} Schieße mit einer Feder auf einen Zombie, um ihn abzulenken.
+{KEYWORD}Pflanzenfunktionen: {STAT} Grüne Pflanzen
+{FLAVOR} Prinzess Bohne ist die 137. Prinzessin des Bohnenkönigreichs. Sie hasst es, wenn jemand ihre Identität erwähnt, denn außer ihr ist jeder im Bohnenkönigreich entweder König oder Königin.
 
 [SPRINGPRINCESS_DESCRIPTION_HEADER]
-射出弹簧对僵尸造成伤害并将其弹开
+Schießt Federn ab, die Zombies verletzen und abprallen lassen.
 
 [SPRINGPRINCESS_TOOLTIP]
-射出弹簧对僵尸造成伤害并将其弹开
+Schießt Federn ab, die Zombies verletzen und abprallen lassen.
 
 [SPRINGPRINCESS_PRODUCT_SHORT_DESC]
-射出弹簧对僵尸造成伤害并将其弹开
+Schießt Federn ab, die Zombies verletzen und abprallen lassen.
 
 [SPRINGPRINCESS_PRODUCT_SHORT_DESC]
-射出弹簧对僵尸造成伤害并将其弹开
+Schießt Federn ab, die Zombies verletzen und abprallen lassen.
+
+[SPRINGPRINCESS_PRODUCT_SHORT_DESC]
+Schießt Federn ab, die Zombies verletzen und abprallen lassen.
 
 [STORE_PRODUCT_AVATAR_SPRINGPRINCESS]
-大招发射的弹簧可击退更远的距离，造成更多的伤害。
+Die ultimative Fähigkeit verschießt Federn, die weiter zurückstoßen und so mehr Schaden verursachen.
 
 [SPRINGPRINCESS_SKILL_LEVEL1]
-强力弹簧
+Starke Feder
 
 [SPRINGPRINCESS_SKILL_LEVEL1_DES]
-弹簧子弹的击退距离提升半格
+Die Rückstoßdistanz von Federgeschossen wird um ein halbes Raster erhöht.
 
 [SPRINGPRINCESS_SKILL_LEVEL2]
-超强弹力
+Superstarke Elastizität
 
 [SPRINGPRINCESS_SKILL_LEVEL2_DES]
-弹簧子弹的击退距离再次提升半格
+Die Rückstoßdistanz von Federgeschossen wird erneut um ein halbes Raster erhöht.
 
 [SPRINGPRINCESS_SKILL_LEVEL5]
-彩色弹簧
+Bunte Feder
 
 [SPRINGPRINCESS_SKILL_LEVEL5_DES]
-攻击时有概率射出彩色的魔法弹簧，魔法弹簧会自动跳到最近的僵尸脚底将其弹开，重复几次后消失。
+Beim Angriff besteht die Chance, bunte magische Federn abzufeuern, die automatisch auf die Füße des nächsten Zombies springen und ihn wegschleudern. Nach mehrmaliger Wiederholung verschwinden sie.
 
 [STORE_PRODUCT_AVATAR_SPRINGPRINCESS_TITLE]
-公主弹簧草装扮
+Prinzessin-Bohnen-Outfit
 
 [STORE_PRODUCT_AVATAR_SPRINGPRINCESS]
-大招发射的弹簧可击退更远的距离，造成更多的伤害。
+Die durch den Dünger ausgelösten Federn können weiter zurückschlagen und mehr Schaden verursachen.
 
 [ORCHIDMAGE]
-扇贝兰法师
+Orchideen-Magierin
 
 [ORCHIDMAGE_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}引力球爆炸后吸引周围的僵尸至中心。
-{KEYWORD}植物特征：{STAT}紫色植物、飞行植物
-{FLAVOR}因为幼年时身体虚弱，扇贝兰法师苦修引力魔法。现在她已修习圆满，借助引力她可以脱离重力的束缚，并将这股力量化作抵御僵尸的力量。
+{KEYWORD}Reichweite: {STAT}1 Reihe voraus
+{KEYWORD}Merkmale: {STAT}Nach der Explosion des Schwerkraftballs zieht er die umliegenden Zombies in die Mitte.
+{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen, fliegende Pflanzen
+{FLAVOR}Wegen ihrer Schwäche in ihrer Kindheit praktizierte die Jakobsmuschel-Orchideen-Magierin Schwerkraftmagie. Nachdem sie ihre Praxis perfektioniert hat, kann sie sich mithilfe der Schwerkraft von den Fesseln der Schwerkraft befreien und diese Kraft in eine Kraft verwandeln, die Zombies widersteht.
 
 [ORCHIDMAGE_DESCRIPTION_HEADER]
-发射一枚引力球，爆炸后吸引周围的中小型僵尸至中心
+Schießt einen Schwerkraftball ab, der kleine und mittlere Zombies nach der Explosion in die Mitte zieht.
 
 [ORCHIDMAGE_TOOLTIP]
-发射一枚引力球，爆炸后吸引周围的中小型僵尸至中心
+Schießt einen Schwerkraftball ab, der kleine und mittlere Zombies nach der Explosion in die Mitte zieht.
 
 [ORCHIDMAGE_PRODUCT_SHORT_DESC]
-发射一枚引力球，爆炸后吸引周围的中小型僵尸至中心
+Schießt einen Schwerkraftball ab, der kleine und mittlere Zombies nach der Explosion in die Mitte zieht.
 
 [ORCHIDMAGE_SKILL_LEVEL1]
-引力束缚
+Schwerkraftbindung
 
-[ORCHIDMAGE_SKILL_LEVEL1_DES]
-有15%的概率对中小型僵尸造成引力束缚效果
+[ORCHIDMAGE_SKILL_ LEVEL1_DES]
+15 % Chance, bei kleinen und mittleren Zombies einen Schwerkraftbindungseffekt auszulösen.
 
 [ORCHIDMAGE_SKILL_LEVEL2]
-束缚强化
+Bindungsverstärkung
 
 [ORCHIDMAGE_SKILL_LEVEL2_DES]
-使引力束缚的触发概率提升至30%
+Erhöht die Auslösewahrscheinlichkeit der Schwerkraftbindung an 30 %
 
 [ORCHIDMAGE_SKILL_LEVEL5]
-引力黑洞
+Schwerkraft-Schwarzes Loch
 
 [ORCHIDMAGE_SKILL_LEVEL5_DES]
-有3棵小引力球时攻击时会将其一起发射出去，并在爆炸后生成持续3秒的黑洞。黑洞会持续造成伤害并吸引周围僵尸，中心的僵尸会被拖入黑洞。
+Wenn drei kleine Schwerkraftbälle vorhanden sind, werden sie beim Angriff gemeinsam abgefeuert. Nach der Explosion entsteht für 3 Sekunden ein Schwarzes Loch. Das Schwarze Loch verursacht weiterhin Schaden und zieht umliegende Zombies an. Die Zombies in der Mitte werden in das Schwarze Loch hineingezogen.
 
 [STORE_PRODUCT_AVATAR_ORCHIDMAGE_TITLE]
-扇贝兰法师装扮
+Orchideen-Magierkostüm
 
 [STORE_PRODUCT_AVATAR_ORCHIDMAGE]
-大招变为强化引力球，爆炸后吸引僵尸的距离翻倍
+Die Spezialdünger Fähigkeit ist ein verstärkter Schwerkraftball. Die Reichweite, mit der Zombies nach der Explosion angezogen werden, verdoppelt sich.
 
 [ZOYBEANPOD]
 僵尸豆荚
