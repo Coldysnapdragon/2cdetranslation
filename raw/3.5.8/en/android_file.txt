@@ -5684,7 +5684,7 @@ http://pvztmall.popcap.com.cn
 种子保卫战
 
 [STAT_AREA]
-区域
+Bereich
 
 [STAT_AREA_1BY4]
 1x4
@@ -5696,157 +5696,157 @@ http://pvztmall.popcap.com.cn
 3x3
 
 [STAT_AREA_FULLBOARD]
-全屏幕
+Vollbild
 
 [STAT_AREA_LANE]
-行
+Linie
 
 [STAT_AREA_SINGLE]
-单体目标
+Einzelziel
 
 [STAT_AREA_SQUARE]
-单格区域
+Einzelbereich
 
 [STAT_ATTRIBUTE]
-属性
+Attribut
 
 [STAT_DAMAGE]
-伤害
+Schaden
 
 [STAT_DAMAGE_DAMAGE0]
-无
+Keine
 
 [STAT_DAMAGE_DAMAGE1]
-轻微
+Leicht
 
 [STAT_DAMAGE_DAMAGE2]
-一般
+Normal
 
 [STAT_DAMAGE_DAMAGE3]
-中等
+Mittel
 
 [STAT_DAMAGE_DAMAGE4]
-大
+Schwer
 
 [STAT_DAMAGE_DAMAGE5]
-巨大
+Riesig
 
 [STAT_DAMAGE_DAMAGE6]
-超大
+Enorm
 
 [STAT_RANGE]
-范围
+Reichweite
 
-[STAT_RANGE_4WAY]
-4个方向
+[STAT_RANGE_4 WAY]
+4 Richtungen
 
 [STAT_RANGE_5WAY]
-5个方向
+5 Richtungen
 
 [STAT_RANGE_CLOSE]
-近身
+Nah
 
 [STAT_RANGE_FRONTBACK]
-身前和身后
+Vorne und hinten
 
 [STAT_RANGE_LOBBED]
-抛物线
+Parabel
 
 [STAT_RANGE_MULTIHIT]
-多个目标
+Mehrere Ziele
 
 [STAT_RANGE_MULTILANE]
-多条道路
+Mehrere Straßen
 
 [STAT_RANGE_3TILES]
-3格
+3 Kacheln
 
 [STAT_RANGE_STRAIGHT]
-直线
+Gerade Linie
 
 [STAT_RANGE_TOUCH]
-身体触碰
+Körperberührung
 
 [STAT_RECHARGE]
-冷却时间
+Abkühlzeit
 
 [STAT_RECHARGE_RECHARGE0]
-非常长
+Sehr lang
 
 [STAT_RECHARGE_RECHARGE1]
-长
+Lang
 
 [STAT_RECHARGE_RECHARGE2]
-缓慢
+Langsam
 
 [STAT_RECHARGE_RECHARGE3]
-中等
+Mittel
 
 [STAT_RECHARGE_RECHARGE4]
-短
+Kurz
 
 [STAT_SPEED]
-速度
+Geschwindigkeit
 
 [STAT_SPEED_SPEED0]
-龟速
+Langsam
 
 [STAT_SPEED_SPEED1]
-迟缓
+Langsam
 
 [STAT_SPEED_SPEED2]
-普通
+Normal
 
 [STAT_SPEED_SPEED3]
-迅猛
+Schnell
 
 [STAT_SPEED_SPEED4]
-高速
+Hoch
 
 [STAT_SPEED_SPEED5]
-极速
+Extrem
 
 [STAT_TOUGHNESS]
-强度
+Ausdauer
 
 [STAT_TOUGHNESS_ARMOR0]
-标准
+Typisch
 
 [STAT_TOUGHNESS_ARMOR1]
-略高
+Verbessert
 
 [STAT_TOUGHNESS_ARMOR2]
-高
+Hoch
 
 [STAT_TOUGHNESS_ARMOR3]
-非常高
+Sehr hoch
 
 [STAT_TOUGHNESS_TOUGHNESS0]
-脆弱
+Empfindlich
 
 [STAT_TOUGHNESS_TOUGHNESS1]
-普通
+Durchschnittlich
 
 [STAT_TOUGHNESS_TOUGHNESS2]
-结实
+Solide
 
 [STAT_TOUGHNESS_TOUGHNESS3]
-携带防具
+Geschützt
 
 [STAT_TOUGHNESS_TOUGHNESS4]
-携带笨重防具
+Fest
 
 [STAT_TOUGHNESS_TOUGHNESS5]
-携带坚硬防具
+Verstärkt
 
 [STAT_TOUGHNESS_TOUGHNESS6]
-携带机械装置
+Rundumverstärkt
 
 [STAT_TOUGHNESS_TOUGHNESS7]
-十分强壮
+Hervorragend
 
 [STAT_TOUGHNESS_TOUGHNESS8]
-不死之身
+Unsterblich
 
 [STAT_VARIABLE]
 ???
@@ -5855,25 +5855,25 @@ http://pvztmall.popcap.com.cn
 ???
 
 [STAT_INSTANTKILL_RESISTENCE]
-即死抗性
+Sofort-Kill-Resistenz
 
 [STAT_PHYSICAL_RESISTENCE]
-物理抗性
+Physische Resistenz
 
 [STAT_POISON_RESISTENCE]
-毒抗性
+Giftresistenz
 
 [STAT_LIGHTNING_RESISTENCE]
-电能抗性
+Elektrische Resistenz
 
 [STAT_MAGIC_RESISTENCE]
-魔法抗性
+Magieresistenz
 
 [STAT_FROST_RESISTENCE]
-冰抗性
+Frostresistenz
 
 [STAT_FLAME_RESISTENCE]
-火抗性
+Feuerresistenz
 
 [STAT_RESISTENCE_D]
 D
@@ -5894,141 +5894,139 @@ S
 SS
 
 [RANGE_0]
-右侧单行
+Einzelne Reihe rechts
 
 [RANGE_1]
-整行
+Ganze Reihe
 
 [RANGE_2]
-右侧1格
+1 Feld rechts
 
 [RANGE_3]
-左侧1格
+1 Feld links
 
 [RANGE_4]
-左右各1格
+1 Feld auf jeder Seite
 
 [RANGE_5]
-右侧3x3
+3x3 rechts
 
 [RANGE_6]
-周围3×3
+3x3 rundherum
 
 [RANGE_7]
-周围5×5
+5x5 rundherum
 
 [RANGE_8]
-右侧三行
+Drei Reihen rechts
 
 [RANGE_9]
-左右三行
+Drei Reihen links und rechts
 
 [RANGE_10]
-四个方向
+Vier Richtungen
 
 [RANGE_11]
-五个方向
+Fünf Richtungen
 
 [RANGE_12]
-十字方向
+Querrichtung
 
 [RANGE_13]
-右侧2x3
+2x3 rechts
 
 [RANGE_14]
-周围7×5
+7x5 rundherum
 
 [RANGE_15]
-周围5×3并上下左右各延伸1格
+5x3 rundherum und 1 Feld nach oben, unten, links und rechts
 
 [RANGE_16]
-右侧2格
+2 Felder rechts
 
 [RANGE_17]
-全屏
+Vollbild
 
 [RANGE_18]
-接触
+Kontakt
 
 [RANGE_19]
-右侧3格
+3 Felder rechts
 
 [RANGE_20]
-右侧5格
+5 Felder rechts
 
 [RANGE_21]
-右侧4格
+4 Felder rechts
 
 [RANGE_22]
-本格
+Hauptfeld
 
 [RANGE_23]
-被啃食
+Wird gefressen
 
 [RANGE_24]
-右侧4x3
+4x3 rechts
 
 [RANGE_25]
-左右各5格
+5 Felder auf jeder Seite
 
 [RANGE_26]
-十字各5格
+5 Felder auf jeder Seite des Kreuzes
 
 [RANGE_27]
-十字各6格
+6 Felder auf jeder Seite des Kreuzes
 
 [RANGE_28]
-左右各3格
+3 Gitter auf jeder Seite
 
 [RANGE_29]
-左右各2格
+2 Gitter auf jeder Seite
 
 [RANGE_30]
-十字各1格
+1 Gitter auf jedem Kreuz
 
 [RANGE_31]
-从左侧第三列至右侧全屏
+Vollbild von Dritte Spalte von links nach rechts
 
 [RANGE_32]
-右侧6格
+6 Raster rechts
 
 [RANGE_33]
-6个方向
+6 Richtungen
 
 [RANGE_34]
-右侧上中下三行
+Obere, mittlere und untere Reihe rechts
 
 [AREA_GROUP1]
-群体
+Gruppe
 
 [AREA_GROUP2]
-3×3 群体
+3×3-Gruppe
 
 [AREA_GROUP3]
-范围内群体
+Gruppe im Bereich
 
 [AREA_GROUP4]
-1×2 群体
+1×2-Gruppe
 
 [AREA_GROUP5]
-单格
-
-
+Einzeln
 
 [AREA_SINGLE]
-单体
+Einzeln
 
 [STORE_BEST_DEAL]
-成交
+Angebot
 
 [STORE_COMING_SOON]
-即将推出
+Demnächst verfügbar
 
 [STORE_MERCH_LINK]
-购买 T恤，玩具以及更多商品
+T-Shirts, Spielzeug und mehr kaufen
 
 [STORE_NO_PRICE]
-购买
+Kaufen
 
 [STORE_PURCHASE]
 %0.2f
@@ -6347,13 +6345,13 @@ SS
 用户名出错
 
 [VIEW_IN_ALMANAC]
-查看图鉴
+Im Lexikon suchen
 
 [VIEW_LAWN]
-查看草坪
+Rasen anzeigen
 
 [VIEW_UPGRADES]
-查看强化
+Verbesserungen Anzeigen
 
 [WALLNUT]
 坚果
@@ -15414,7 +15412,7 @@ Pflanterne
 Pflanterne kann Nebel vertreiben und unsichtbare Zombies im Umkreis Sichtbar machen.
 
 [STREETLAMP_TOOLTIP]
-vertreibt Nebel und macht unsichtbare Zombies sichtbar.
+Vertreibt Nebel und macht unsichtbare Zombies sichtbar.
 
 [COFFEEBEAN]
 Kaffeebohne
@@ -33661,13 +33659,13 @@ Erhöht Gesundheit um
 Erhöht Verteidigung um
 
 [PLANT_FAMILY_SKILL_REGENERATION]
-Regeneriert Gesundheit alle 5 Sekunden um.
+Regeneriert Gesundheit alle 5 Sekunden um
 
 [PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_50]
-Erhöht Gesundheit alle 5 Sekunden um.
+Erhöht Gesundheit alle 5 Sekunden um
 
 [PLANT_FAMILY_SKILL_IMPROVED_EXPLODE_DAMAGE]
-Erhöhter Explosionsschaden um.
+Erhöhter Explosionsschaden um
 
 [PLANT_FAMILY_SKILL_IMPROVED_LIGHTNING_DAMAGE]
 Erhöhter Blitzschaden um
@@ -33679,10 +33677,10 @@ Erhöhter Feuerschaden um
 Erhöhter Gefrierschaden um
 
 [PLANT_FAMILY_SKILL_EXTRA_MELEE_ATTACK]
-Erhöhter Nahkampfschaden um.
+Erhöhter Nahkampfschaden um
 
 [PLANT_FAMILY_SKILL_LOWER_COST]
-Reduziert Sonnenlicht Verbrauch um.
+Reduziert Sonnenlicht Verbrauch um
 
 [PLANT_FAMILY_SKILL_INVINCIBLE]
 Wahrscheinlichkeit für 3 Sekunden Unbesiegbar zu werden
@@ -47218,150 +47216,151 @@ X{NUM}刷新
 基因序列组
 
 [NOT_YET_UNLOCKED]
-暂未解锁
+Noch nicht freigeschaltet
 
 [ALREADY_MAX_LEVEL]
-已满级
+Maximales Level
 
 [BONUS_ATTRIBUTES]
-加成属性
+Bonusattribute
 
 [PLANT_CLASSIFY]
-植物分类
+Pflanzenklassifizierung
 
 [PROFESSION_SHOOTER]
-远程
+Fernkampf
 
 [PROFESSION_SHOOTER_DESCRIPTION]
-擅长远距离攻击的输出职业
+DPS-Beruf mit guten Fähigkeiten für Angriffe auf lange Distanz
 
 [PROFESSION_WARRIOR]
-先锋
+Vorhut
 
 [PROFESSION_WARRIOR_DESCRIPTION]
-擅长近距离攻击的输出职业
+DPS-Beruf mit guten Fähigkeiten für Angriffe auf kurze Distanz
 
 [PROFESSION_SUPPORTER]
-辅助
+Unterstützer
 
 [PROFESSION_SUPPORTER_DESCRIPTION]
-能提供增益加成或解除植物负面状态的职业
+Beruf, der Boni gewährt oder negative Zustände von Pflanzen beseitigt
 
 [PROFESSION_PROTECTOR]
-坚韧
+Zähigkeit
 
 [PROFESSION_PROTECTOR_DESCRIPTION]
-擅长阻挡僵尸的职业
+Beruf mit guten Fähigkeiten für Zombies blockieren
 
-[PROFESSION_SUNMAKER]
-阳光
+[PROFESSION_SUNM AKER]
+Sonnenschein
 
 [PROFESSION_SUNMAKER_DESCRIPTION]
-能生产阳光的职业
+Berufe, die Sonnenlicht erzeugen können
 
 [PROFESSION_SPECIALIST]
-奇兵
+Spezialkräfte
 
 [PROFESSION_SPECIALIST_DESCRIPTION]
-拥有特殊攻击手段或克制僵尸的职业
+Berufe mit besonderen Angriffsmethoden oder zur Abwehr von Zombies
 
 [PLANT_DETAILS]
-详细属性
+Detaillierte Attribute
 
 [DETAIL_SUNCOST]
-阳光消耗
+Sonnenscheinverbrauch
 
 [DETAIL_COOLDOWN]
-种植冷却
+Pflanzenkühlung
 
 [DETAIL_HITPOINT]
-生命值
+Gesundheit
 
 [DETAIL_DAMAGE]
-攻击力
+Angriffskraft
 
 [DETAIL_ATTACK_INTERVAL]
-攻击间隔
+Angriffsintervall
 
 [DETAIL_RANGE]
-攻击范围
+Angriffsreichweite
 
 [DETAIL_AREA]
-攻击目标
+Angriffsfläche
 
 [DETAIL_DURATION]
-持续时间
+Dauer
 
 [DETAIL_REST]
-攻击休息
+Angriffspause
 
 [DETAIL_YIELD]
-阳光产量
+Sonnenlichtertrag
 
 [DETAIL_YIELD_INTERVAL]
-生产间隔
+Produktionsintervall
 
 [PLANT_LIST]
-植物列表
+Pflanzenliste
 
 [PLANT_SKILL]
-植物技能
+Pflanzenfähigkeit
 
 [GENE_TALENT_TOTAL_LEVEL]
-基因序列总等级：{NUM1}/{NUM2}
+Gesamtstufe der Gensequenz: {NUM1}/{NUM2}
 
 [GENE_TALENT_UNLOCK_ENHANCEMENT_NEED]
-需要基因序列等级：{NUM}
+Erforderliche Gensequenzstufe: {NUM}
 
 [GENE_TALENT_UNLOCK_TALENT_NEED]
-需要{NUM}
+Benötigt {NUM}
 
-[GENE_TALENT_UPGRADE_COST_TIPS]
-升级将消耗基因序列{NUM}级
+[GENE_TALENT_UPGRADE_COS T_TIPS]
+Upgrades verbrauchen {NUM} Gensequenzstufen.
 
 [GENE_TALENT_TITLE_SHOOTER_1]
-攻击力加成-远程
+Angriffskraftbonus – Langstrecken
 
 [GENE_TALENT_DESCRIPTION_SHOOTER_1]
-给全部远程植物提供的攻击力加成效果
+Angriffskraftbonus für alle Pflanzen mit großer Reichweite.
 
 [GENE_DESCRIPTION_TITLE]
-基因编辑玩法说明
+Genbearbeitung Anleitung
 
 [GENE_DESCRIPTION]
-基因编辑玩法规则：
-1.基因编辑中可以通过消耗基因原质来提炼基因序列。也可以在基因序列商店中通过消耗万能基因币直接兑换。
-2.每个基因序列在解锁后可以给对应植物提供加成效果，并在升级后提升加成数值，满级为10级。
-3.升级基因序列需要该植物对应的基因精华，每级消耗1点基因精华。
+Spielregeln für die Genbearbeitung:
 
-基因提炼规则：
-1.提炼出的基因序列稀有度概率公示：白色基因序列30%、绿色基因序列25%、蓝色基因序列20%、紫色基因序列15%、橙色基因序列10%。
-2.首次提炼出的基因序列会解锁该基因序列；再次提炼出时会转换该植物对应的基因精华；满级后提炼出时会转换为万能基因币。
-3.转换数量规则为：白色13枚、绿色16枚、蓝色19枚、紫色22枚、橙色25枚。
+1. Gensequenzen können durch den Verbrauch von Genessenz während der Genbearbeitung verfeinert werden. Sie können auch direkt im Gensequenz-Store gegen universelle Genmünzen eingetauscht werden.
 
-基因序列商店规则：
-1.基因序列根据稀有度区别价格：白色39枚、绿色48枚、蓝色57枚、紫色66枚、橙色75枚。
-2.未解锁时可购买到基因序列；已解锁时可购买到基因精华；已满级后该植物基因将从商店中消失。
+2. Jede Gensequenz verleiht der entsprechenden Pflanze nach dem Freischalten einen Bonuseffekt. Dieser Bonuswert erhöht sich nach dem Upgrade auf maximal 10.
 
-基因原质和万能基因币获取途径：
-1.每位玩家初始获得10个基因原质。
-2.基因原质可通过双人对决中的段位奖励获得。
-3.基因原质和万能基因币可通过购买基因礼包及其他付费礼包获得。
+3. Das Upgrade einer Gensequenz erfordert die entsprechende Genessenz der Pflanze. Jedes Level verbraucht 1 Genessenz.
+
+Regeln für die Genextraktion:
+1. Die Wahrscheinlichkeit der Seltenheit der extrahierten Gensequenz wird angegeben: weiße Gensequenz 30 %, grüne Gensequenz 25 %, blaue Gensequenz 20 %, violette Gensequenz 15 %, orange Gensequenz 10 %.
+2. Die erste extrahierte Gensequenz schaltet die Gensequenz frei. Bei erneuter Extraktion wird die der Pflanze entsprechende Genessenz umgewandelt. Bei Erreichen des maximalen Levels wird die Extraktion in universelle Genmünzen umgewandelt.
+3. Die Umrechnungsmengenregel lautet: 13 weiße, 16 grüne, 19 blaue, 22 violette und 25 orangefarbene Gensequenzen.
+Regeln für den Gensequenz-Shop:
+1. Der Preis der Gensequenzen variiert je nach Seltenheit: 39 weiße, 48 grüne, 57 blaue, 66 violette und 75 orangefarbene Gensequenzen.
+2. Gensequenzen können gekauft werden, wenn sie noch nicht freigeschaltet sind. Genessenz kann gekauft werden, wenn sie freigeschaltet ist. Das Pflanzengen verschwindet nach Erreichen des Höchstlevels aus dem Shop.
+So erhältst du Genessenz und universelle Genmünzen:
+1. Jeder Spieler erhält zunächst 10 Genessenz.
+2. Genessenz kann durch Rangbelohnungen in Zwei-Spieler-Duellen erhalten werden.
+3. Genessenz und universelle Genmünzen können durch den Kauf von Genpaketen und anderen kostenpflichtigen Geschenkpaketen erhalten werden.
 
 [GENE_HOWTOPLAY_1_DESCRIPTION]
-植物基因编辑能给植物提供额外的加成效果，让植物变得更加强大，更好地守卫家园抵御僵尸！
+Die Genbearbeitung von Pflanzen verleiht Pflanzen zusätzliche Bonuseffekte, die sie stärker machen und ihre Behausungen besser gegen Zombies verteidigen können!
 
 [GENE_HOWTOPLAY_2_DESCRIPTION]
-消耗基因原质在基因提炼机中加工，可以获得随机基因序列。如果已解锁该基因序列，则会转化为基因精华。
+Indem du Genesenz konsumierst und in einem Genveredler verarbeitest, erhältst du eine zufällige Gensequenz. Sobald die Gensequenz freigeschaltet wurde, wird sie in Genesenz umgewandelt.
 
 [GENE_HOWTOPLAY_3_DESCRIPTION]
-基因精华用于升级此植物的基因序列等级，等级提升后加成数值也会提升，满级为10级。
+Genesenz dient zum Verbessern des Gensequenzlevels dieser Pflanze. Der Bonuswert erhöht sich mit jedem Level. Das Maximallevel liegt bei 10.
 
 [GENE_HOWTOPLAY_4_DESCRIPTION]
-满级时再次获得基因精华和购买基因编辑礼包，都可获得万能基因币，在商店内可直接购买心仪的基因序列。
+Sobald das Maximallevel erreicht ist, erhältst du universelle Genmünzen, indem du Genesenz erneut erhältst und Genbearbeitungs-Geschenkpakete kaufst. Die gewünschte Gensequenz kannst du direkt im Shop erwerben.
 
 [GENE_FACTOR_SHOP]
-购买基因礼包
+Genpakete kaufen
 
 [GENE_FACTOR_BUNDLE1]
 小份基因礼包
