@@ -42204,7 +42204,7 @@ Storchschnabel-Fechter
 Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
 
 [GERANIIFENCER_TOOLTIP]
-Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
+Greift ein Feld vorwärts an und zurück,um Gargantuare Auszuweichen.
 
 [GERANIIFENCER_PRODUCT_SHORT_DESC]
 Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
@@ -43749,7 +43749,7 @@ Kann den oberen und unteren Reihen kontinuierlichen Schaden zufügen.
 {FLAVOR} Passionsblume strebt danach, Ingenieurin zu werden, kann aber bisher nur Zahnräder herstellen.
 
 [PASSIONFLOWER_TOOLTIP]
-Schießt Zahnräder ab, um den nächsten Zombie anzugreifen und Zombies in Reichweite kontinuierlichen Schaden zuzufügen.
+Schießt Zahnräder ab, um den Zombies in Reichweite kontinuierlichen Schaden zuzufügen.
 
 [PASSIONFLOWER_SKILL_LEVEL1]
 Mechanischer Experte
@@ -43791,7 +43791,7 @@ Kann den Regenschirm des Gentleman-Zombies wegblasen.
 {FLAVOR}Vanille wollte schon immer Friseur werden, kann aber nur verschiedene Stile blasen.
 
 [VANILLA_TOOLTIP]
-Kann den Regenschirm des Gentleman-Zombies wegblasen und somit auch den Zombie.
+Kann den Regenschirm des Gentleman-Zombies wegblasen.
 
 [VANILLA_SKILL_LEVEL1]
 Luftkanone
@@ -44624,13 +44624,13 @@ Nach dem Sieg über einen Zombie kann der nächste normale Angriff einen Spezial
 {KEYWORD}Pflanzenfunktionen:{STAT}Gelbe Pflanze
 {FLAVOR} In einer mysteriösen Westernstadt ist Doppelkanonenzapfen ein Scharfschützen-Cowboy, der gegen alle möglichen Zombies kämpft, die in seine Stadt eindringen und die Zombies schon bei der Erwähnung seines Namens erzittern lassen. Er wäre beinahe Sheriff der Stadt geworden, lehnte aber ab, weil er den Sheriff zu langweilig fand und es besser wäre, etwas in die Bar zu gehen.
 [PINECONE_TOOLTIP]
-Nachdem du einen Zombie besiegt hast, kannst du beim nächsten normalen Angriff einen Spezialangriff ausführen.
+Nach dem besiegen eines Zombies,führt einen Spezialangriff aus.
 
 [PINECONE_SKILL_LEVEL1]
 Doppelwaffe
 
 [PINECONE_SKILL_LEVEL1_DES]
-Es besteht eine 10%ige Chance, dass die linke und rechte Waffe der Doppelwaffe abwechselnd einen normalen Angriff ausführen.
+Es besteht eine 10%ige Chance, dass die linke und rechte Waffe der Doppelwaffe abwechselnd nutzt und einen normalen Angriff ausführst.
 
 [PINECONE_SKILL_LEVEL2]
 Scharfschütze
