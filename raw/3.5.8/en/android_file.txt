@@ -33856,6 +33856,8 @@ Karnevalsparty
 Aus dem Abgrund
 
 [PLANT_FAMILT_BOOST_TITLE]
+
+
 Effekte der Pflanzenfamilie:
 
 [PLANT_FAMILT_BOOST_RESEARCH]
