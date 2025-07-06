@@ -42265,28 +42265,28 @@ Nach dem Ende der großen Attacke verursacht er zusätzlichen Schaden und lässt
 
 
 [BEANCHEMIST]
-Erbsenapotheker
+Erbsenapothekerin
 
 [BEANCHEMIST_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Funktionen: {STAT}Wirft eine verwandelnde Erbse aus, um Zombies in Erbsen zu verwandeln. Kann nur Zombies verwandeln, die zwei Level höher sind als der Apotheker.
 {KEYWORD}Pflanzenfunktionen: {STAT}Lila Pflanzen
-{FLAVOR}Der Erbsenapotheker liebt Erbsen sehr und möchte deshalb alles in Erbsen verwandeln. Doch er vergisst eines: Je mehr Erbsen erscheinen, desto mehr Erbsen werden auch gegessen.
+{FLAVOR}Die Erbsenapothekerin liebt Erbsen sehr und möchte deshalb alles in Erbsen verwandeln. Doch sie vergass eines: Je mehr Erbsen erscheinen, desto mehr Erbsen werden auch gegessen.
 
 [BEANCHEMIST_DESCRIPTION_HEADER]
-Der Erbsenapotheker wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
+Die Erbsenapothekerin wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
 
 [BEANCHEMIST_TOOLTIP]
-Der Erbsenapotheker wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
+Die Erbsenapothekerin wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
 
 [BEANCHEMIST_PRODUCT_SHORT_DESC]
-Der Erbsenapotheker wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
+Die Erbsenapothekerin wirft eine deformierte Erbse, um Zombies in Erbsen zu verwandeln.
 
 [BEANCHEMIST_SKILL_LEVEL1]
 Unbesiegbarer Trank
 
 [BEANCHEMIST_SKILL_LEVEL1_DES]
-Die Stufe der durch die Verwandlung erzeugten Pflanze entspricht der Stufe der Pflanze selbst + 1 (bis Stufe 5).
+Die Stufe der durch die Verwandlung erzeugten Pflanze entspricht der Stufe der Apothekerin selbst + 1 (bis Stufe 5).
 
 [BEANCHEMIST_SKILL_LEVEL2]
 Stärkender Trank
@@ -42301,52 +42301,52 @@ Legacy-Trank
 Nachdem die Erbse einen Zombie getroffen hat, hinterlässt sie eine Pfütze aus giftigem Nebel. Der nächste Zombie, der diesen Nebel durchquert, verwandelt sich ebenfalls.
 
 [STORE_PRODUCT_AVATAR_BEANCHEMIST_TITLE]
-Erbsenapotheker-Kostüm
+Erbsenapothekerin-Kostüm
 
 [BEANCHEMIST_AVATAR_NAME]
-Erbsenapotheker-Kostüm
+Erbsenapothekerin-Kostüm
 
 [STORE_PRODUCT_AVATAR_BEANCHEMIST]
 Die Dünger Fähigkeit verwandelt Zombies in Schattenerbsen.
 
 [IMPATIENSSHOOTER]
-Imperia Shooter
+Fleißiges Lieschen Schützin
 
 [IMPATIENSSHOOTER_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Funktionen: {STAT}Spuckt Farbkugeln aus, um Zombies vor ihnen anzugreifen. Nach einer Weile färbt es sich ein und verschießt stärkere Kugeln.
 {KEYWORD}Pflanzenfunktionen: {STAT}Weiße Pflanzen, rosa Pflanzen, orange Pflanzen, violette Pflanzen
-{FLAVOR} Obwohl Impatiens Shooter, die schon immer eine Top-Make-up-Artistin werden wollte, eine gewisse Popularität erlangte, indem sie ständig Fotos von sich in verschiedenen Farben in sozialen Netzwerken hochlud, ahnte sie nicht, dass die Leute sie tatsächlich mochten, als sie weiß war.
+{FLAVOR} Obwohl die Fleißiges Lieschen Schützin, welche schon immer eine Top-Make-up-Artistin werden wollte, eine gewisse Popularität erlangte, indem sie ständig Fotos von sich in verschiedenen Farben in sozialen Netzwerken hochlud, ahnte sie nicht, dass die Leute sie tatsächlich mochten, als sie weiß war.
 
 [IMPATIENSSHOOTER_DESCRIPTION_HEADER]
-Spuckt Farbkugeln aus, um Zombies vor ihm anzugreifen.
+Spuckt Farbkugeln aus, um Zombies vor ihr anzugreifen.
 
 [IMPATIENSSHOOTER_TOOLTIP]
-Spuckt Farbkugeln aus, um Zombies vor ihm anzugreifen.
+Spuckt Farbkugeln aus, um Zombies vor ihr anzugreifen.
 
 [IMPATIENSSHOOTER_PRODUCT_SHORT_DESC]
-Spuckt Farbkugeln aus, um Zombies vor ihm anzugreifen.
+Spuckt Farbkugeln aus, um Zombies vor ihr anzugreifen.
 
 [IMPATIENSSHOOTER_PRODUCT_SHORT_DESC]
-Spuckt Farbkugeln aus, um Zombies vor ihm anzugreifen.
+Spuckt Farbkugeln aus, um Zombies vor ihr anzugreifen.
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1]
 Schnelles Färben
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1_DES]
-Die Zeit, die der Impatiens-Schütze zum Färben benötigt, wurde verkürzt.
+Die Zeit, die die Fleißiges Lieschen Schützin zum Färben benötigt, wird verkürzt.
 
 [IMPATIENSSHOOTER_SKILL_LEVEL2]
 Schnelles Färben
 
 [IMPATIENSSHOOTER_SKILL_LEVEL2_DES]
-Die Zeit, die der Impatiens-Schütze zum Färben benötigt, wurde erneut verkürzt.
+Die Zeit, die die Fleißiges Lieschen Schützin zum Färben benötigt, wird erneut verkürzt.
 
 [IMPATIENSSHOOTER_SKILL_LEVEL5]
 Lila Form
 
 [IMPATIENSSHOOTER_SKILL_LEVEL5_DES]
-Imperia kann sich in eine stärkere violette Form verwandeln. Die violetten Kugeln, die sie ausspuckt, haften stärker und können explodieren, was Flächenschaden und Kontrolle verursacht.
+Das Fleißige Lieschen kann sich in eine stärkere violette Form verwandeln. Die violetten Kugeln, die sie ausspuckt, haften stärker und können explodieren, was Flächenschaden und Verlangsamung verursacht.
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER_TITLE]
 Imperia-Bogenschützenkostüm
