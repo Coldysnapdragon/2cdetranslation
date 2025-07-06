@@ -33694,12 +33694,18 @@ Erhöhter Nahkampfschaden um
 Reduziert Sonnenlicht Verbrauch um
 
 [PLANT_FAMILY_SKILL_INVINCIBLE]
+
+
 Wahrscheinlichkeit für 3 Sekunden Unbesiegbar zu werden
 
 [PLANT_FAMILY_SKILL_GHOST]
+
+
 Wahrscheinlichkeit des Seelenzustands
 
 [PLANT_FAMILY_SKILL_PLANT_SUN_REFUND]
+
+
 Wahrscheinlichkeit zur Rückkehr des Sonnenlichts
 
 [PLANT_FAMILY_NAME_50001]
@@ -43780,7 +43786,7 @@ Kann den Regenschirm des Gentleman-Zombies wegblasen.
 {KEYWORD}Merkmale:{STAT}Kann den Regenschirm des Gentleman-Zombies wegblasen.
 
 {KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze.
-{FLAVOR} Blaskapsel: Vanille wollte schon immer Friseur werden, kann aber nur verschiedene Stile blasen.
+{FLAVOR}Vanille wollte schon immer Friseur werden, kann aber nur verschiedene Stile blasen.
 
 [VANILLA_TOOLTIP]
 Kann den Regenschirm des Gentleman-Zombies wegblasen und somit auch den Zombie.
@@ -43816,30 +43822,30 @@ Beim Erzeugen eines Eistornados Es besteht die Möglichkeit, mittelgroße Zombie
 Maulbeere
 
 [MULBERRY_DESCRIPTION_HEADER]
-Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
+Wirft Granaten, um Zombies innerhalb eines Feldes Schaden zuzufügen.
 
 [MULBERRY_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
 {KEYWORD}Pflanzenfunktionen:{STAT}Rote Pflanze
-{FLAVOR} Er ist ein Militärfan und sammelt gerne alle möglichen militärischen Materialien. Eines Tages verkleidete er sich als Schütze und erschreckte damit viele Pflanzen auf der Straße.
+{FLAVOR} Er ist ein Militärfan und sammelt gerne alle möglichen militärischen Materialien. Eines Tages verkleidete er sich als Schütze und erschreckte damit Pflanzen auf der Straße.
 
 [MULBERRY_TOOLTIP]
-Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
+Wirft Granaten, um Zombies innerhalb eines Feldes Schaden zuzufügen.
 
 [MULBERRY_SKILL_LEVEL1]
-Sprengstoff
+Sprengstoff-anfänger
 
 [MULBERRY_SKILL_LEVEL1_DES]
 Es besteht eine 10%ige Chance, dass die Splittergranate bei der Explosion Flächenschaden an den umliegenden Zombies verursacht.
 
 [MULBERRY_SKILL_LEVEL2]
-Sprengstoffexpertise
+Sprengstoff-expertise
 
 [MULBERRY_SKILL_LEVEL2_DES]
 Erhöht die Wirkung von Sprengmeister um 100 %.
 
 [MULBERRY_SKILL_LEVEL5]
-Spaß-Sprengstoff
+Spaßiger-Sprengstoff
 
 [MULBERRY_SKILL_LEVEL5_DES]
 Es besteht die Chance, zufällige Granaten abzuwerfen. Explosive Granaten verursachen hohen Schaden am Gegner und können Zombies in die Luft jagen. Blendgranaten können gegnerische Einheiten im Umkreis von 3x3 bewegungsunfähig machen, und Giftgasbomben können gegnerische Einheiten im Umkreis von 3x3 10 Sekunden lang vergiften.
@@ -44565,7 +44571,7 @@ Erlebe den Feuerangriff des Flammenpilzes und erhalte eine Statue, die du im Sta
 Freigeschaltet am {NUM1} Monat {NUM2} Tag
 
 [PLANTAIN]
-Bajiao-Tänzerin
+Bajiao-Bananen-Tänzerin
 
 [PLANTAIN_DESCRIPTION_HEADER]
 Schiebt den Zombie zum letzten Feld
@@ -44573,13 +44579,13 @@ Schiebt den Zombie zum letzten Feld
 [PLANTAIN_DESCRIPTION]
 {KEYWORD}Features: {STAT}Schiebt den Zombie zum letzten Feld
 {KEYWORD}Pflanzenfeatures: {STAT}Grüne Pflanzen
-{FLAVOR} Zur Feier des fünften Jubiläums luden die Organisatoren Bajiao, die berühmteste Tänzerin der Pflanzenwelt, als Ehrengast ein. Obwohl Bajiao ein Superstar in der Pflanzenwelt ist, engagiert sie sich sehr für wohltätige Zwecke. Sie spendete ihre gesamten Auftrittshonorare an Pflanzenhilfsorganisationen, was ihr einhelliges Lob einbrachte. Dieses Mal präsentierte Bajiao ihren neu kreierten traditionellen Fächertanz, und der Traffic dieses Themas erreichte sofort den ersten Platz in der Zhidu.com-Suche. Wenn ihr ihren Stil sofort erleben wollt, schnappt euch rechtzeitig euer Ticket!
+{FLAVOR} Zur Feier des fünften Jubiläums luden die Organisatoren Bajiao, die berühmteste Tänzerin der Pflanzenwelt, als Ehrengästin ein. Obwohl Bajiao ein Superstar in der Pflanzenwelt ist, engagiert sie sich sehr für wohltätige Zwecke. Sie spendete ihre gesamten Auftrittshonorare an Pflanzenhilfsorganisationen, was ihr einhelligen Lob einbrachte. Dieses Mal präsentierte Bajiao ihren neu kreierten traditionellen Fächertanz, und der Traffic von diesem Themas erreichte sofort den ersten Platz in der Zhidu.com-Suche. Wenn ihr ihren Stil sofort erleben wollt, schnappt euch rechtzeitig euer Ticket!
 
 [PLANTAIN_TOOLTIP]
 Schiebt den Zombie zum letzten Gitter.
 
 [PLANTAIN_SKILL_LEVEL1]
-Tanzerholung
+Tänzer-erholung
 
 [PLANTAIN_SKILL_LEVEL1_DES]
 Reduziert die Abklingzeit um 1 Sekunde.
