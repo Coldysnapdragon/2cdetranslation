@@ -33657,7 +33657,7 @@ Produktionsgeschwindigkeit erhöht um
 [PLANT_FAMILY_SKILL_FAST_PLANT]
 Pflanzen-Abklingzeit verkürzt um
 
-[PLANT_FAMILY_SKILL_EXTR A_SUNMONEY_25]
+[PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_25]
 Erzeugt 25 zusätzliche Sonnen
 
 [PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_50]
@@ -33694,13 +33694,9 @@ Erhöhter Nahkampfschaden um
 Reduziert Sonnenlicht Verbrauch um
 
 [PLANT_FAMILY_SKILL_INVINCIBLE]
-
-
 Wahrscheinlichkeit für 3 Sekunden Unbesiegbar zu werden
 
 [PLANT_FAMILY_SKILL_GHOST]
-
-
 Wahrscheinlichkeit des Seelenzustands
 
 [PLANT_FAMILY_SKILL_PLANT_SUN_REFUND]
@@ -38544,6 +38540,9 @@ Die Anzahl der Zombies, die mit der ultimativen Fähigkeit verschlungen werden k
 [GUARDSHROOM_SKILL_LEVEL1]
 Pilzverstärkung
 
+[GUARDSHROOM_SKILL_LEVEL2]
+Pilz-Macht
+
 [GUARDSHROOM_SKILL_LEVEL1_DES]
 Die Verdauungszeit kleiner Wachpilze wird verkürzt; der Multiplikator für den Sonnenlichtverbrauch von Wachpilzen wird auf das 1,5-Fache reduziert.
 
@@ -42825,7 +42824,7 @@ Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +1
 [BUDUHBOOM_SKILL1_LEVEL2]
 Butterhölle
 
-[BUDUHBOOM_ SKILL_LEVEL2]
+[BUDUHBOOM_SKILL_LEVEL2]
 Butterhölle
 
 [BUDUHBOOM_SKILL_LEVEL2_DES]
