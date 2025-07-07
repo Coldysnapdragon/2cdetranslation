@@ -36971,143 +36971,144 @@ Bauhinia stammt ursprünglich aus Südafrika und wird heute weltweit als Topfpfl
     树高可达15米；叶片椭圆形至卵形，边缘具圆钝锯齿；伞房花序，具花3-7朵，花白色带红晕，花瓣5枚；果实扁球形，果皮颜色多样因品种而异，以红、黄色为主。花期5月，果期7-10月。
     原产欧亚大陆中部，现广泛栽培于全球温带区域。中国是最大生产国（年产量占全球40%以上），主产区包括黄土高原、渤海湾等地。苹果”称谓历经语言流变：汉代将西域传入的绵苹果称为“柰”；唐代借译梵文佛经中“频婆果”指代其改良品种，后经语音转化演变为“苹婆”和“平波”等；至明代《群芳谱》始见“苹果”规范定名。中国古代栽培的绵苹果存在果肉绵软、储藏期短等缺陷，现代商业栽培品种多属西洋苹果品系，1871年由美国传教士倪维斯首次引入山东烟台，现主流品种如“富士”（1952年日本育成）系1966年引入的杂交改良品种。因“苹”与“平”同音，在中国寓意平安吉祥。
 
-[MULBERRY_FAMILY]
-桑科
-[MULBERRY_GENUS]
-桑属
-[MULBERRY_PEDIA]
-桑葚——紫玉般的天然馈赠 
-    落叶乔木或灌木。
-    高3-10米，树皮灰褐色；叶片多为心形，边缘具粗钝锯齿；花单性，雌雄异株，腋生或生于芽鳞腋内，与叶同时生出；雌花簇生成穗状，雄花为葇荑花序；果实为整个花序形成的复合果实即聚花果（俗称“桑葚”），成熟时红色或黑紫色。花期4-5月，果期5-8月。  
-    原产于中国中部北部，现广泛栽培于温带至亚热带地区。“桑”字在甲骨文为“𣏐”，象形一株枝叶繁茂的树木。“葚”（“甚”有“极、多”之意）可能暗指桑果密集丛生的形态，商周文献已用“葚”特指桑实，如《诗经》中即有“于嗟鸠兮，无食桑葚”的记载。作为“农桑之本”，它自新石器时代便与人类共生，以桑叶饲蚕缫丝，催生了璀璨的丝绸文明，成为“丝绸之路”的源头符号。而桑葚富含花青素等营养，可鲜食、酿酒或制成果干，入药有滋阴补血、明目安神之效。此外，其树皮纤维可造纸，枝条可编筐，木材坚硬科制作乐器、雕刻等，全株经济价值极高。
+[MAULBEERGEWICHT]
+Moraceae
+[MAULBEERGATTUNG]
+Maulbeere
+[MAULBEERPEDIA]
+Maulbeere – ein Geschenk der Natur wie lila Jade
+Laubabwerfender Baum oder Strauch.
+3–10 Meter hoch, mit graubrauner Rinde; die Blätter sind meist herzförmig mit groben, stumpfen Zacken am Rand; die Blüten sind eingeschlechtig, zweihäusig, achselständig oder in den Achseln der Knospenschuppen und wachsen gleichzeitig mit den Blättern; die weiblichen Blüten stehen in Ähren, die männlichen sind Kätzchen; die Frucht ist eine zusammengesetzte Frucht, die aus dem gesamten Blütenstand gebildet wird, nämlich ein Polykarp (allgemein als „Maulbeere“ bekannt), das im reifen Zustand rot oder dunkelviolett ist. Die Blütezeit ist April-Mai, die Fruchtzeit Mai-August.
+
+Ursprünglich im nördlichen Zentralchina angebaut, wird sie heute in gemäßigten bis subtropischen Regionen weit verbreitet angebaut. Das Wort „Maulbeere“ in der Orakelknochenschrift lautet „𣏐“ und bezeichnet einen Baum mit üppigen Ästen und Blättern. „葚“ („甚“ bedeutet „extrem viele“) könnte sich auf die dicht gedrängte Form der Maulbeerfrüchte beziehen. „葚“ wurde in Dokumenten der Shang- und Zhou-Dynastie verwendet, um sich speziell auf Maulbeerfrüchte zu beziehen, wie beispielsweise in der Aufzeichnung „Ach, Tauben, esst keine Maulbeeren“ im Buch der Lieder. Als „Wurzel der Landwirtschaft und des Maulbeerbaums“ existierte er seit der Jungsteinzeit mit dem Menschen zusammen. Maulbeerbäume wurden zur Fütterung von Seidenraupen und zum Abspulen von Seide mit Maulbeerblättern verwendet, was die Entstehung der brillanten Seidenkultur ermöglichte und zum Ursprungssymbol der „Seidenstraße“ wurde. Maulbeeren sind reich an Nährstoffen wie Anthocyanen. Sie können frisch gegessen, zu Wein verarbeitet oder als Trockenfrüchte verarbeitet werden. Sie werden als Medizin verwendet, um Yin und Blut zu nähren, die Sehkraft zu verbessern und den Geist zu beruhigen. Darüber hinaus können die Rindenfasern zur Papierherstellung, die Zweige zum Korbflechten und das harte Holz zur Herstellung von Musikinstrumenten und Schnitzereien verwendet werden. Die gesamte Pflanze hat einen extrem hohen wirtschaftlichen Wert.
 
 [EGGPLANTNINJA_FAMILY]
-茄科
+Solanaceae
 [EGGPLANTNINJA_GENUS]
-茄属
+Solanum
 [EGGPLANTNINJA_PEDIA]
-茄——餐桌上软香的紫色精灵
-    一年生草本至亚灌木。
-    高可达1米；叶片较大，卵形至长卵圆形，叶面覆盖绒毛，边缘具波状圆裂；花单生，花柄长，常下垂；花萼近钟形，密被绒毛及小皮刺；花冠星状辐形，淡紫色或白色；浆果形态多样，常见为紫黑色，也有绿色、白色等品种。花期6-8月，果期7-10月。
-    其野生祖先可能起源于南亚至东南亚地区，现代广泛栽培于全球温暖地区。“茄子”此名源于梵语“vātiṅgaṇa”，经西域传入后，中古汉语取其中音节“ṅga”音译为“伽”，唐代逐渐简化为“茄”（见《本草拾遗》）。其果实为常见蔬菜，但需注意：未成熟果实含茄碱，生食可能引发中毒。中国传统医学中，根、茎、叶被认为具利尿作用，叶片曾有外用麻醉的民间记载（需专业指导）。
+Aubergine – die zarte und duftende lila Fee auf dem Tisch
+Einjähriges Kraut bis Halbstrauch.
+Sie kann bis zu 1 Meter hoch werden. Die Blätter sind groß, eiförmig bis länglich, haarig und die Ränder gewellt und kreisrund. Die Blüten stehen einzeln, mit langen Stielen und hängen oft herab. Der Kelch ist fast glockenförmig, dicht mit Haaren und kleinen Stacheln bedeckt. Die Blütenkrone ist sternförmig und strahlenförmig, lavendelfarben oder weiß. Die Beeren haben verschiedene Formen, meist violett-schwarz, aber auch grün-weiße Sorten. Die Blütezeit dauert von Juni bis August, die Fruchtzeit von Juli bis Oktober.
+Ihre wilden Vorfahren stammen vermutlich aus Süd- und Südostasien und werden heute weltweit in warmen Regionen angebaut. Der Name „Aubergine“ leitet sich vom Sanskrit „vātiṅgaṇa“ ab. Nach der Einführung aus den westlichen Regionen übernahmen die Mittelchinesen die Silbe „ṅga“ und transkribierten sie als „伽“. In der Tang-Dynastie wurde sie schrittweise zu „茄“ vereinfacht (siehe „Kompendium der Materia Medica“). Die Frucht ist ein weit verbreitetes Gemüse, jedoch ist zu beachten, dass die unreifen Früchte Solanin enthalten, das roh verzehrt zu Vergiftungen führen kann. In der traditionellen chinesischen Medizin wird den Wurzeln, Stängeln und Blättern eine harntreibende Wirkung zugeschrieben, und es gibt Überlieferungen über die Verwendung der Blätter zur äußeren Anästhesie (ärztliche Anleitung erforderlich).
 
-[PLANTAIN_FAMILY]
-芭蕉科
-[PLANTAIN_GENUS]
-芭蕉属
-[PLANTAIN_PEDIA]
-芭蕉——绿影摇曳的庭院雅客
-    多年生高大草本植物。
-    虽形似树木，实为草本；株高2.5-4米，螺旋状排列的叶鞘重叠形成假茎；叶片巨大，长椭圆形，长可达3米，中脉粗壮隆起，侧脉平行；穗状花序顶生，雄花生于花序上部，雌花生于花序下部；浆果肉质三棱状，长圆形，具3-5棱，种子黑色。花期集中于6-7月，果期在9-10月。
-    “一叶舒展（芭），一叶焦枯（蕉）”（宋代《埤雅》），故得名。原产亚洲热带及日本琉球群岛，其耐寒性优于香蕉，我国秦岭—淮河以南地区作为观赏植物广泛栽培。“雨打芭蕉闲听雨，道是有愁又无愁”（苏轼《点绛唇》），古典文学中常用其寄托离愁别绪。根、叶、花均可入药，具清热、解毒、利尿之效；叶纤维可制芭蕉布（称蕉葛）及造纸。芭蕉果实味苦涩、种子多，不可食用，市场上销售的可食用芭蕉为小果野蕉和野蕉天然杂交的形成的三倍体栽培品种，并非此种。
+[WEGEBÄRENGEWICHT]
+Musaceae
+[WEGEBÄRENGATTUNG]
+Musa
+[WEGEBÄRENPEDIA]
+Musa – ein Gartengast mit wiegenden grünen Schatten
+Eine hohe, mehrjährige Pflanze.
+Obwohl sie wie ein Baum aussieht, ist sie tatsächlich eine Pflanze. Die Pflanze wird 2,5–4 Meter hoch und hat spiralförmig angeordnete, sich überlappende Blattscheiden, die einen Scheinstamm bilden. Die Blätter sind groß, länglich und bis zu 3 Meter lang, mit einer dicken, erhabenen Mittelrippe und parallelen Seitenadern. Der ährenförmige Blütenstand ist endständig, wobei die männlichen Blüten im oberen und die weiblichen im unteren Teil des Blütenstandes wachsen. Die Beeren sind fleischig, dreieckig, länglich, mit 3–5 Rippen, und die Samen sind schwarz. Die Blütezeit konzentriert sich auf Juni/Juli, die Fruchtzeit auf September/Oktober.
+„Ein Blatt streckt sich (Banane), ein Blatt brennt (Jiao)“ (Song-Dynastie „Bi Ya“), daher der Name. Die Banane stammt aus dem tropischen Asien und den Ryūkyū-Inseln Japans. Sie ist kälteresistenter als Bananen und wird in der Region Qinling-Huaihe meines Landes häufig als Zierpflanze angebaut. „Wenn ich dem Regen lausche, der auf die Bananenblätter trifft, fühle ich mich traurig und doch nicht traurig“ (Su Shis „Dian Jiang Lip“). In der klassischen Literatur wird dieser Vers oft verwendet, um die Trauer des Abschieds auszudrücken. Wurzeln, Blätter und Blüten können als Medizin verwendet werden und wirken hitzelösend, entgiftend und harntreibend. Aus den Blattfasern lassen sich Bananenstoff (Bananen-Kudzu) und Papier herstellen. Die Bananenfrucht schmeckt bitter und hat viele Kerne, daher ist sie nicht essbar. Die im Handel erhältliche essbare Banane ist eine triploide Sorte, die durch natürliche Kreuzung von kleinfrüchtiger Wildbanane und Wildbanane entstanden ist, nicht diese Art.
 
 [PINECONE_FAMILY]
-松科
+Kieferngewächse
 [PINECONE_GENUS]
-松属
+Kieferngattung
 [PINECONE_PEDIA]
-松果——可开可合的天然湿度计
-    松果是松科植物（如红松、油松、华山松）的雌球果。成熟松果呈卵圆形或圆柱形，长3-20厘米不等，表面覆盖木质化鳞片，呈螺旋状排列。每枚鳞片内侧藏两粒带翅种子，干燥时鳞片张开释放种子，潮湿时闭合保护。这样的开合机制确保种子在最佳环境传播，民间也因此曾用它作简易湿度计。松科植物为雌雄同株裸子植物，雄球花春末散发黄色花粉，依赖风力传播；雌球花授粉后需1-3年发育成熟，北半球寒温带至亚热带均有分布。
-    松果可为松鼠、交嘴雀提供食物，昆虫幼虫寄生鳞片间，枯落松果成为蚂蚁巢穴建材。古罗马以松果装饰酒神杖，象征生命力；北欧神话中，松果是雷神之锤的化身；佛教法器“金刚杵”顶部造型亦源于松果，寓意智慧开悟。 
+Kiefernzapfen – natürliche Hygrometer, die sich öffnen oder schließen lassen
+Kiefernzapfen sind die weiblichen Zapfen von Kieferngewächsen (z. B. Rotkiefer, Chinesische Kiefer und Chinesische Kiefer). Reife Kiefernzapfen sind oval oder zylindrisch, 3–20 cm lang und mit spiralförmig angeordneten, verholzten Schuppen bedeckt. Jeder Schuppen enthält zwei geflügelte Samen. Im trockenen Zustand öffnen sich die Schuppen, um die Samen freizugeben, im nassen Zustand schließen sie sich zum Schutz. Dieser Öffnungs- und Schließmechanismus sorgt dafür, dass sich die Samen optimal verbreiten, weshalb er von den Menschen als einfaches Hygrometer genutzt wurde. Kieferngewächse sind einhäusige Nacktsamer. Männliche Zapfen geben im späten Frühjahr gelben Pollen ab und verbreiten sich durch Wind. Weibliche Zapfen benötigen nach der Bestäubung 1–3 Jahre, um auszureifen. Sie sind auf der Nordhalbkugel von der gemäßigten bis zur subtropischen Zone verbreitet.
+Kiefernzapfen dienen Eichhörnchen und Kreuzschnäbeln als Nahrung. Insektenlarven parasitieren zwischen den Schuppen. Abgestorbene Kiefernzapfen dienen als Baumaterial für Ameisennester. Im antiken Rom wurden Kiefernzapfen zur Dekoration des Dionysosstabes verwendet, um Lebenskraft zu symbolisieren. In der nordischen Mythologie sind Kiefernzapfen die Verkörperung von Thors Hammer. Auch die obere Form des buddhistischen Ritualinstruments „Vajra“ stammt von Kiefernzapfen ab und symbolisiert Weisheit und Erleuchtung.
 
 [WAXGOURD_FAMILY]
-葫芦科
+Cucurbitaceae
 [WAXGOURD_GENUS]
-冬瓜属
+Wachsmelone
 [WAXGOURD_PEDIA]
-冬瓜——披“冬霜”的瓜
-    一年生蔓生草本植物。
-    其茎蔓粗壮，密被黄褐色硬毛，具棱沟；叶片肾状近圆形，掌状5-7浅裂，叶面粗糙，背面密被茸毛；雌雄同株，花单生，花冠黄色，辐状；果实形态多样，常见长圆柱形，表面被硬毛和白霜。花果期为夏季。
-    “冬瓜”一名源自其果实表皮成熟后覆盖的白色蜡粉，宛如冬日霜雪而得名；另有别名白瓜、枕瓜等，均与果实形态或颜色相关。主要分布于亚洲热带、亚热带地区，现广泛栽培，成为全球热带至温带地区的重要蔬菜作物。果实除作蔬菜外，还可制蜜饯；果皮和种子入药，具利尿、清热之效。
+Wintermelone – mit Winterfrost bedeckte Melone
+Einjähriges, kriechendes Kraut.
+Die Stängel sind dick und dicht mit gelbbraunen, harten Haaren und Rillen bedeckt. Die Blätter sind nierenförmig, fast rund und palmenförmig mit fünf bis sieben flachen Lappen. Die Blattoberfläche ist rau, die Blattrückseite dicht behaart. Die Blüten sind einhäusig, einzeln, die Blütenkrone gelb und strahlenförmig. Die Früchte sind unterschiedlich geformt, oft länglich, mit harten Haaren und weißem Bereif auf der Oberfläche. Die Blüte- und Fruchtzeit ist der Sommer.
+
+Der Name „Wintermelone“ leitet sich von dem weißen Wachs ab, das die Fruchtschale nach der Reifung bedeckt und an Winterfrost und Schnee erinnert. Weitere Bezeichnungen sind „Weiße Melone“ und „Kissenmelone“, die sich alle auf die Form oder Farbe der Frucht beziehen. Die Wintermelone ist hauptsächlich in tropischen und subtropischen Regionen Asiens verbreitet und wird heute weit verbreitet angebaut. Sie hat sich zu einer wichtigen Gemüsepflanze in tropischen und gemäßigten Regionen weltweit entwickelt. Neben der Verwendung als Gemüse kann die Frucht auch zu kandierten Früchten verarbeitet werden. Schale und Kerne werden als Medizin verwendet und wirken harntreibend und hitzelösend.
 
 [ULTOMATO_FAMILY]
-茄科
+Solanaceae
 [ULTOMATO_GENUS]
-茄属
+Solanum
 [ULTOMATO_PEDIA]
-番茄——从“狼桃”到餐桌上的“红色黄金”
-    一年生草本植物。
-    株高0.5-2米，全株密被腺毛；叶为羽状复叶或羽状深裂；聚伞花序，常3-7朵花；花萼辐状，裂片披针形，果时宿存；花冠辐状，5-6裂，黄色；浆果扁球状或近球状，颜色因品种而异。花果期夏秋季。
-    “番茄”，又名“西红柿”，均因传入途径和形态而得名。原产于南美洲安第斯山脉，16世纪传入欧洲后广泛栽培，明朝万历年间传入中国，如今广泛栽培于全球温带至热带地区。野生番茄果实仅1-2克，因茄科植物多含毒素，长期被当地的印加人和阿兹特克人视为有毒的观赏植物，被称为“狼桃”。传入欧洲后最初也仅用于装饰或象征爱情（因其鲜艳的外表）的礼物，得名“爱情果”。1820年，美国人罗伯特当众食用番茄，彻底打消了大众疑虑，番茄从此登上餐桌，逐步成为家常食材。番茄富含维生素C、番茄红素等成分，具有抗氧化、防癌功效，被誉为“红色黄金”。
-    花语：挑战与革新
+Tomate – vom „Wolfspfirsich“ bis zum „Rotgold“ auf dem Tisch
+Einjähriges Kraut.
+Die Pflanze wird 0,5–2 Meter hoch und ist dicht mit Drüsenhaaren bedeckt. Die Blätter sind gefiedert, zusammengesetzt oder tief gefiedert. Der Blütenstand besteht aus 3–7 Blüten. Der Kelch ist strahlenförmig, die Lappen lanzettlich, die Frucht bleibt bestehen. Die Krone ist strahlenförmig, 5–6-lappig und gelb. Die Beeren sind flach oder fast kugelig und variieren je nach Sorte in ihrer Farbe. Blüte- und Fruchtzeit sind Sommer und Herbst.
+
+Die Tomate, auch bekannt als „Tomate“, ist nach ihrem Verbreitungsweg und ihrer Morphologie benannt. Sie stammt ursprünglich aus den Anden in Südamerika. Nach ihrer Einführung in Europa im 16. Jahrhundert wurde sie weit verbreitet angebaut. Sie wurde während der Wanli-Zeit der Ming-Dynastie in China eingeführt. Heute wird sie weltweit in gemäßigten bis tropischen Regionen angebaut. Die wilden Tomatenfrüchte wiegen nur 1–2 Gramm. Da Nachtschattengewächse Giftstoffe enthalten, galten sie bei den einheimischen Inkas und Azteken lange Zeit als giftige Zierpflanzen und wurden „Wolfspfirsiche“ genannt. Nach ihrer Einführung in Europa dienten sie aufgrund ihrer leuchtenden Erscheinung zunächst nur als Dekoration oder als Liebessymbol und wurden „Liebesfrucht“ genannt. Im Jahr 1820 aß der Amerikaner Robert in aller Öffentlichkeit Tomaten und zerstreute damit die öffentlichen Bedenken. Von da an standen Tomaten auf dem Tisch und wurden allmählich zu einer alltäglichen Zutat. Tomaten sind reich an Vitamin C, Lycopin und anderen Inhaltsstoffen, wirken antioxidativ und krebshemmend und werden als „rotes Gold“ bezeichnet. Blütensprache: Herausforderung und Innovation
 
 [STRAWBURST_FAMILY]
-蔷薇科
+Rosaceae
 [STRAWBURST_GENUS]
-草莓属
+Erdbeere
 [STRAWBURST_PEDIA]
-草莓——甜蜜的爱情果实
-    多年生草本植物。
-    植株低矮，具匍匐茎；三出复叶，边缘具锯齿；聚伞花序，花白色，花瓣5-8枚；果实为聚合果，食用的果肉为其膨大的花托，表面密布细小颗粒实为其果实。花期3-5月；果期5-7月。温室栽培可在全年进行种植和结实。
-    为美洲产的两种草莓Fragaria virgirniana与 F. chiloensis杂交的八倍体植物，现广泛栽培于全球温带地区。其名源自中文“莓”（指草本果实）及“草”（生长形态），英文名“strawberry”则因传统栽培时常用稻草（straw）护果防腐。除了鲜食，还广泛用于制作果酱、甜品、饮料等。在日本和现代西方，草莓常被赋予“幸福”、“甜蜜爱情”的寓意。在日本，情人节或表达好感时，赠送草莓隐含“愿你幸福”的祝福，赠送“草莓巧克力”则为爱的告白。在现代西方，草莓作为甜品装饰常用于婚礼或庆典中，烘托喜庆氛围。
-    花语：甜蜜的爱情、幸福预感、完美与尊重
+Erdbeere – süße Frucht der Liebe
+Mehrjähriges Kraut.
+Die Pflanze ist niedrig und hat kriechende Stängel. Die Blätter sind dreiblättrig mit gezähnten Rändern. Der Blütenstand ist weiß und hat 5–8 Blütenblätter. Die Frucht ist eine Sammelfrucht. Das essbare Fruchtfleisch befindet sich im vergrößerten Blütenboden, und die Oberfläche ist dicht mit kleinen Partikeln bedeckt, die die Frucht darstellen. Die Blütezeit dauert von März bis Mai, die Fruchtzeit von Mai bis Juli. Im Gewächshausanbau kann die Erdbeere das ganze Jahr über gepflanzt und geerntet werden.
+Es handelt sich um eine oktoploide Pflanze, eine Kreuzung aus zwei amerikanischen Erdbeersorten, Fragaria virgirniana und F. chiloensis. Sie wird heute weltweit in gemäßigten Regionen angebaut. Der Name Erdbeere leitet sich vom chinesischen Wort „Beere“ (krautige Frucht) und „Gras“ (Wuchsform) ab. Der englische Name „Erdbeere“ rührt daher, dass Stroh beim traditionellen Anbau oft zum Schutz der Frucht verwendet wurde, um sie vor Fäulnis zu schützen. Erdbeeren werden nicht nur frisch verzehrt, sondern auch häufig zur Herstellung von Marmelade, Desserts, Getränken usw. verwendet. In Japan und modernen westlichen Ländern werden Erdbeeren oft mit der Bedeutung von „Glück“ und „süßer Liebe“ in Verbindung gebracht. In Japan bedeutet das Verschenken von Erdbeeren zum Valentinstag oder als Ausdruck der Zuneigung den Segen „Ich wünsche dir Glück“, und das Verschenken von „Erdbeerschokolade“ ist ein Liebesbekenntnis. Im modernen Westen werden Erdbeeren oft als Dessertdekoration bei Hochzeiten oder Feiern verwendet, um eine festliche Atmosphäre zu schaffen. Blumensprache: Süße Liebe, Vorahnung von Glück, Vollkommenheit und Respekt
 
 [DAZEYCHAIN_FAMILY]
-菊科
+Asteraceae
 [DAZEYCHAIN_GENUS]
-科雏菊属
+Dazey
 [DAZEYCHAIN_PEDIA]
-雏菊——草地上的“白昼之眼”
-    多年生或一年生草本植物。
-    植株低矮，高约10厘米；叶基生，莲座状丛生，匙形，上半部叶缘具波状钝齿；头状花序单生，直径2-3厘米，外层舌状花白色或粉色，雌性；中央管状花黄色，两性；瘦果倒卵形，被细毛。花期3-6月，果期6-8月。
-    雏菊因其花朵娇小如雏鸟而得名。其英文名“Daisy”源自古英语“dægesēage”（白昼之眼），因其外层舌状花在白天阳光充足时展开（像睁开的眼睛），夜晚或阴天时闭合（像闭上的眼睛），仿佛一朵“白昼之眼”。其花朵可食用（制沙拉、花茶），古罗马时期曾用于治疗伤口；现代其提取物则应用于抗敏护肤品以缓解皮肤炎症。在欧洲传说中，雏菊是森林精灵的化身，维京人还将其作为爱情预兆——通过摘花瓣占卜“他爱我/不爱我”。
-    花语：暗恋与纯洁（白色）、天真与希望（粉色）
+Gänseblümchen – „Auge des Tageslichts“ im Gras
+Mehrjährige oder einjährige Pflanze.
+Die Pflanze ist klein, etwa 10 cm hoch; die Blätter sind grundständig, rosettenförmig, löffelförmig und an den oberen Blatträndern gewellte, stumpfe Zähne. Der Blütenstand ist einzeln und hat einen Durchmesser von 2–3 cm. Die äußeren Zungenblüten sind weiß oder rosa und weiblich. Die zentralen Röhrenblüten sind gelb und zwittrig. Die Achänen sind verkehrt eiförmig und fein behaart. Die Blütezeit ist von März bis Juni, die Fruchtzeit von Juni bis August.
+Das Gänseblümchen verdankt seinen Namen seinen Blüten, die so klein wie Vogelküken sind. Der englische Name „Daisy“ leitet sich vom altenglischen „dægesēage“ (Tagesauge) ab, da sich die äußeren Zungenblüten bei vollem Sonnenlicht öffnen (wie ein offenes Auge) und sich nachts oder an bewölkten Tagen schließen (wie ein geschlossenes Auge), genau wie ein „Tagesauge“. Die Blüten sind essbar (für Salate und aromatisierten Tee) und wurden im antiken Rom zur Wundbehandlung verwendet; moderne Extrakte werden in antiallergischen Hautpflegeprodukten zur Linderung von Hautentzündungen eingesetzt. In europäischen Legenden gelten Gänseblümchen als Verkörperung von Waldelfen, und die Wikinger nutzten sie auch als Liebeszeichen – indem sie Blütenblätter pflückten, um vorherzusagen: „Er liebt mich/nicht.“ Blumensprache: Heimliche Liebe und Reinheit (weiß), Unschuld und Hoffnung (rosa)
 
 [HOCUSCROCUS_FAMILY]
-鸢尾科
+Iridaceae
 [HOCUSCROCUS_GENUS]
-番红花属
+Krokus
 [HOCUSCROCUS_PEDIA]
-番红花——秋日里的血色瑰宝
-    多年生草本植物。
-    地下具扁圆球状球茎；叶片基生，9-15枚，条形，灰绿色；花茎极短，几乎不伸出地面；花1-2朵，淡蓝、红紫或白色，具香气，花被6片2轮排列；最显著的特征是其橙红色花柱，顶端三分枝下垂，柱头膨大呈喇叭状；蒴果椭圆形。花果期为秋季。
-    “番红花”中的“番”指其外来属性，因古代经西藏传入，亦称“藏红花”。原产于欧洲南部，现中国各地均有栽培。花柱及柱头供药用，具有活血、化瘀、通经等功效。园林应用的番红花为该属的杂交品种，主要亲本为春番红花，故多春季开花。
-    花语：真心与喜悦
+Krokus – der blutige Schatz im Herbst
+Mehrjährige Pflanze.
+Die abgeflachte Zwiebel befindet sich unter der Erde. Die grundständigen Blätter sind 9–15, linealisch und graugrün. Die Blütenstiele sind sehr kurz und ragen kaum über den Boden hinaus. Die Blüten sind ein- bis zweimal hellblau, rötlich-violett oder weiß und duftend. Die Blütenhülle ist zweirund mit sechs Blütenblättern angeordnet. Das auffälligste Merkmal ist der orangerote Griffel mit drei herabhängenden Zweigen an der Spitze. Die Narbe ist vergrößert und trompetenförmig. Die Kapsel ist oval. Die Blüte- und Fruchtzeit ist der Herbst.
+Das „Fächer“ in „Safran“ weist auf seine fremdartige Natur hin. Da er in der Antike aus Tibet eingeführt wurde, wird er auch „Safran“ genannt. Er ist in Südeuropa heimisch und wird heute in verschiedenen Teilen Chinas angebaut. Griffel und Narbe werden medizinisch verwendet und sollen die Durchblutung fördern, Blutstauungen lösen und die Menstruation fördern. Der in Gärten verwendete Safran ist eine Hybridsorte dieser Gattung, deren Hauptstammbaum der Frühlingssafran ist. Daher blüht er hauptsächlich im Frühling.
+Blumensprache: Aufrichtigkeit und Freude
 
 [HEAVENDATURA_FAMILY]
-茄科
+Solanaceae
 [HEAVENDATURA_GENUS]
-木曼陀罗属
+Heavendatura
 [HEAVENDATURA_PEDIA]
-木本曼陀罗——美丽又危险的“天使号角”
-    常绿小乔木。
-    株高可达2-5米；叶片卵状披针形，全缘或微波状或有不规则缺刻状齿；花单生，下垂，喇叭形，花冠长可达30厘米；花白色，栽培品种还有黄、粉、橙色等；浆果状蒴果，表面平滑，广卵状，但许多栽培品种不结果。花期因气候而异，在温暖地区可全年开放，盛花期多在夏秋季节。  
-    “曼陀罗”源自梵语“Mandala”，意为“坛场”，因其花形似佛教法坛。在欧洲，因其喇叭型花下垂而得名“天使的号角”，而草本的曼陀罗花向上则被称为“魔鬼的号角”。原产南美洲安第斯山区，现广泛引种于全球热带、亚热带地区作为观赏植物，其叶和花含莨菪碱和东莨菪碱，误食可致幻甚至致命。我国分布有3种草本曼陀罗（曼陀罗、毛曼陀罗和洋金花），同样含莨菪碱和东莨菪碱，在古代常用于外科镇痛。据传华佗的“麻沸散”和古代“蒙汗药”均以这些曼陀罗为主要成分。
-    花语：危险之美、虚幻的爱
+Heavendatura – das schöne und gefährliche „Engelshorn“
+Immergrüner kleiner Baum.
+Die Wuchshöhe kann 2–5 Meter erreichen. Die Blätter sind eiförmig-lanzettlich, mit ganzrandigen oder gewellten Rändern oder unregelmäßig gezähnten Zähnen. Die Blüten stehen einzeln, hängend und trompetenförmig, die Blütenkrone kann bis zu 30 cm lang werden. Die Blüten sind weiß, bei Kultursorten sind auch gelbe, rosa, orange usw. Blüten vorhanden. Die beerenartige Kapsel hat eine glatte Oberfläche und ist breit eiförmig. Viele Kultursorten tragen jedoch keine Früchte. Die Blütezeit variiert je nach Klima. In warmen Gebieten kann die Pflanze das ganze Jahr über blühen, wobei die Blütezeit meist im Sommer und Herbst liegt.
+
+„Mandala“ leitet sich vom Sanskrit-Wort „Mandala“ ab, das „Altar“ bedeutet, da die Blütenform an den buddhistischen Altar erinnert. In Europa wird die Pflanze wegen ihrer hängenden, trompetenförmigen Blüten „Engelshorn“ genannt, während die nach oben gerichteten Blüten der krautigen Datura „Teufelshorn“ heißen. Die Pflanze stammt ursprünglich aus den Anden Südamerikas und ist heute weltweit als Zierpflanze in tropischen und subtropischen Regionen verbreitet. Seine Blätter und Blüten enthalten Hyoscyamin und Scopolamin, die bei versehentlichem Verzehr Halluzinationen auslösen oder sogar tödlich sein können. In meinem Land sind drei Arten von Stechapfel (Datura, Datura stramonium und Datura datura) verbreitet, die ebenfalls Hyoscyamin und Scopolamin enthalten und in der Antike häufig zur chirurgischen Schmerzlinderung eingesetzt wurden. Es heißt, dass sowohl Hua Tuos „Ma Fei San“ als auch das antike „Meng Han Yao“ diese Stechapfelsorten als Hauptbestandteile verwenden.
+Blumensprache: Gefährliche Schönheit, trügerische Liebe
 
 [PLANT_PEDIA]
-植物百科
+Pflanzenlexikon
 
 [PLANT_PEDIA_REWARD]
-植物百科奖励
+Pflanzenlexikon-Belohnung
 
 [ALOES]
-芦荟医师
+Aloe Vera Arzt
 
 [ALOES_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 芦荟游走于各大化妆品新品发布会，借机推销她的产品“芦荟水”。今年整个护肤品市场都在讲美白，这可是芦荟的强项。
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{FLAVOR} Aloe Vera ist bei wichtigen Kosmetikneuheiten im Fokus und nutzt die Gelegenheit, für ihr Produkt „Aloe Vera Wasser“ zu werben. In diesem Jahr ist die aufhellende Wirkung der Aloe Vera auf dem gesamten Hautpflegemarkt ein Thema.
 
 [ALOES_DESCRIPTION_HEADER]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [ALOES_TOOLTIP]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [ALOES_PRODUCT_SHORT_DESC]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [ALOES_PRODUCT_SHORT_DESC]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [STORE_PRODUCT_AVATAR_ALOES]
-制造的水雾中包含冰晶，被冰晶笼罩的僵尸会被冻结
+Der erzeugte Wassernebel enthält Eiskristalle, und die von Eiskristallen bedeckten Zombies werden eingefroren.
 
 [STORE_PRODUCT_AVATAR_ALOES_TITLE]
-芦荟装扮
+Aloe-Vera-Kleid
 
 [ALOES_SKILL_LEVEL1]
-晶莹水润
+Kristallklar und feucht
 
 [ALOES_SKILL_LEVEL1_DES]
 有概率抛出一个增加攻击力和攻速的水滴
@@ -47746,154 +47747,154 @@ Orange
 魔术菇大招召唤僵尸时有{Param_1}%的概率额外召唤一只僵尸
 
 [GENE_DESCRIPTION_MULBERRY]
-桑葚爆破手扔出毒气弹的概率增加{Param_1}%（5阶后生效）
+Die Wahrscheinlichkeit, dass der Maulbeer-Blaster Giftbomben wirft, erhöht sich um {Param_1} % (wirksam ab Level 5).
 
 [GENE_DESCRIPTION_OLIVEPIT]
-橄榄坑封堵时间减少{Param_1}秒
+Die Versiegelungszeit des Olivenkerns wird um {Param_1} Sekunden verkürzt.
 
 [GENE_DESCRIPTION_WINTERMELON]
-冰西瓜投手直接命中已经冰减速的僵尸有{Param_1}%概率冰冻该僵尸
+Der Eismelonenkrug hat eine Wahrscheinlichkeit von {Param_1} %, einen durch Eis verlangsamten Zombie einzufrieren, wenn er direkt getroffen wird.
 
 [GENE_DESCRIPTION_BEARBERRY]
-熊果臼炮大招有{Param_1}%概率卡膛而向右侧随机一个方向多发射一枚炮弹
+Der Bärentraubenmörser: Die ultimative Fertigkeit hat eine Chance von {Param_1} %, eine Ladehemmung zu verursachen und eine zusätzliche Granate in eine zufällige Richtung nach rechts abzufeuern.
 
 [GENE_DESCRIPTION_JEWELRABBIT]
-双生卯兔休息时间缩短{Param_1}%
+Die Ruhezeit der Zwillingskaninchen wird um {Param_1} % verkürzt.
 
 [GENE_DESCRIPTION_LANCERHOYA]
-长枪球兰攻击后减少蓄力时间{Param_1}秒
+Die Ladezeit der Speerorchidee nach Angriffe werden um {Param_1} Sekunden reduziert.
 
 [GENE_DESCRIPTION_BEANCHEMIST]
-豌豆药剂师变形出寒冰或暗影豌豆时，有{Param_1}%概率使植物释放大招。
+Wenn sich der Erbsenapotheker in eine Eis- oder Schattenerbse verwandelt, besteht eine Chance von {Param_1} %, dass die Pflanze die ultimative Fähigkeit freisetzt.
 
 [GENE_DESCRIPTION_SPRINGBEAN]
-弹簧豆弹飞僵尸的概率增加{Param_1}%（2阶后生效）
+Die Wahrscheinlichkeit, dass Frühlingsbohnen Zombies in die Luft jagen, erhöht sich um {Param_1} % (wirksam ab Level 2).
 
 [GENE_DESCRIPTION_STREETLAMP]
-路灯花生命值增加{Param_1}%
+Die Gesundheit von Straßenlaternenblüten erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_PEAPOD]
-豌豆荚随叠种个数增加攻击力{Param_1}%
+Die Angriffskraft von Erbsenschoten erhöht sich um {Param_1} % mit der Anzahl überlappender Pflanzen.
 
 [GENE_DESCRIPTION_TORCHWOOD]
-火炬树桩可点燃非豌豆类子弹，这些子弹在点燃后伤害增加{Param_1}%
+Fackelholzstümpfe können andere Kugeln als Erbsen entzünden, deren Schaden nach der Zündung um {Param_1} % steigt.
 
 [GENE_DESCRIPTION_PUMPKIN]
-南瓜头种植时额外获得一个{Param_1}点生命值的南瓜面甲
+Wenn du einen Kürbiskopf pflanzt, erhältst du zusätzliche {Param_1} Punkte Gesundheit.
 
 [GENE_DESCRIPTION_LAVAGUAVA]
-岩浆番石榴攻击力增加{Param_1}%
+Lavaguave erhöht die Angriffskraft um {Param_1} %
 
 [GENE_DESCRIPTION_IMITATER]
-变身茄子会在被模仿植物的属性上额外增加攻防{Param_1}%
+Die Verwandlung in eine Aubergine erhöht Angriff und Verteidigung der imitierten Pflanze um {Param_1} %.
 
 [GENE_DESCRIPTION_IMPPEAR]
-小黄梨四阶落地释放大招的概率增加{Param_1}%
+Die Wahrscheinlichkeit, einen großen Angriff auszuführen, wenn die gelbe Birne der vierten Stufe auf dem Boden landet, erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_POWERPLANT]
-瓷砖萝卜降低阳光消耗{Param_1}%
+Die geflieste Karotte reduziert den Sonnenlichtverbrauch um {Param_1} %.
 
 [GENE_DESCRIPTION_CACTUS]
-仙人掌的大招强化针刺额外附带电流，有{Param_1}%的概率使命中的僵尸麻痹
+Der große Angriff des Kaktus ist stärker. Die chemischen Nadeln werden zusätzlich mit elektrischem Strom aufgeladen, wodurch die getroffenen Zombies mit einer Wahrscheinlichkeit von {Param_1} % gelähmt werden.
 
 [GENE_DESCRIPTION_TANGLEKELP]
-缠绕水草种植冷却时间缩短{Param_1}%
+Die Abkühlzeit des Pflanzens von Verworrenem Wasserkraut wird um {Param_1} % verkürzt.
 
 [GENE_DESCRIPTION_CHILIBEAN]
-巴豆种植冷却时间缩短{Param_1}%
+Die Die Abkühlzeit der Krotonpflanzung wird um {Param_1} % verkürzt.
 
 [GENE_DESCRIPTION_FIREPEASHOOTER]
-火焰豌豆射手攻击力增加{Param_1}%
+Die Angriffskraft der Flammenerbsenkanone wird um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_PINEAPPLE]
-旋转菠萝生命值增加{Param_1}%
+Die Gesundheit der Spinnenden Ananas wird um {Param_1} % erhöht.
 
-[GENE_DESCRIPTION_HEATHSEEKER]
-石楠探索者有{Param_1}%概率使发射的飞镖数量翻倍
+[GENE_DESCRIPTION_HEATHS EEKER]
+Heather Explorer hat eine Chance von {Param_1} %, die Anzahl der abgefeuerten Pfeile zu verdoppeln.
 
 [GENE_DESCRIPTION_SQUASH]
-窝瓜攻击后不消失且返回原地的概率增加{Param_1}%（2阶后生效）
+Die Wahrscheinlichkeit, dass Squash nach einem Angriff nicht verschwindet und zur Ausgangsposition zurückkehrt, erhöht sich um {Param_1} % (wirksam ab Stufe 2).
 
 [GENE_DESCRIPTION_BYTTNERIAMETEORHAMMER]
-刺果流星锤蓄力攻击伤害提高{Param_1}%
+Der Schaden des aufgeladenen Angriffs des Bulgur-Meteorhammers erhöht sich um {Param_1} %
 
 [GENE_DESCRIPTION_BUTTERCUP]
-黄油毛茛攻击速度增加{Param_1}%
+Die Angriffsgeschwindigkeit von Butterblume erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_GATLINGPEA]
-机枪豌豆大招后保留辅助机枪并在每次攻击时额外对右侧3行各发射6发子弹，{Param_1}次攻击后结束
+Nach dem ultimativen Angriff der Gatling-Erbse bleibt die zusätzliche Gatling-Erbse erhalten und wird bei jedem Angriff zusätzlich eingesetzt. Feuert jeweils 6 Kugeln in die 3 Reihen rechts ab und endet nach {Param_1} Angriffen.
 
 [GENE_DESCRIPTION_MANGOSTEEN]
-聚能山竹大招伤害增加{Param_1}%
+Erhöht den Schaden der ultimativen Mangostan-Attacke um {Param_1} %.
 
 [GENE_DESCRIPTION_ICELOTUS]
-滴水冰莲水潭持续时间延长{Param_1}%
+Erhöht die Dauer des tropfenden Eislotus-Pools um {Param_1} %.
 
 [GENE_DESCRIPTION_GOLDLEAF]
-黄金叶种植冷却时间缩短{Param_1}%
+Verkürzt die Abklingzeit der Goldblatt-Pflanzung um {Param_1} %
 
 [GENE_DESCRIPTION_BLOOMERANG]
-回旋镖射手攻击速度增加{Param_1}%
+Erhöht die Angriffsgeschwindigkeit des Bumerang-Werfers um {Param_1} %.
 
 [GENE_DESCRIPTION_ANTHURIUM]
-电离红掌大电球的伤害提升{Param_1}%
+Ionisiertes Anthurium: Der Schaden des Elektroballs wird um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_HOMINGTHISTLE]
-导向蓟连续发射两颗子弹的概率增加{Param_1}%（2阶后生效）
+Die Wahrscheinlichkeit, dass Homing Thistle zwei Kugeln hintereinander abfeuert, wird um {Param_1} % erhöht (wirksam ab Level 2).
 
 [GENE_DESCRIPTION_AGAVE]
-龙舌兰攻击时有{Param_1}%概率额外挥出一道与斩击攻击力一致的剑气，对右侧第3格至第5格的僵尸造成伤害
+Beim Angriff hat Agave eine Wahrscheinlichkeit von {Param_1} %, zusätzliche Schwertenergie mit der gleichen Angriffskraft wie beim Hiebangriff zu schwingen und Zombies im 3. bis 5. Feld rechts Schaden zuzufügen.
 
 [GENE_DESCRIPTION_HYDROCOTYLEDRUMMER]
-铜钱草鼓手为乐团植物提供的攻击力攻速增幅效果提升{Param_1}%
+Der Effekt der Angriffskraft- und Angriffsgeschwindigkeitssteigerung durch den Copper Coin Drummer für die Bandpflanzen. Erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_THYMEWARP]
-逆时草种植冷却时间缩短{Param_1}%
+Abklingzeit der Graspflanzung um {Param_1} % reduziert.
 
 [GENE_DESCRIPTION_CROWNFLOWER]
-激光皇冠花大招伤害增加{Param_1}%
+Ultimativer Schaden der Laserkronenblume um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_BURDOCKBATTER]
-牛蒡击球手每次大招的首次热力状态有{Param_1}%概率触发后仍然保留
+Der erste Hitzezustand jeder Ultimativfähigkeit von Kletten-Schlagmann hat eine Chance von {Param_1} %, nach Auslösung erhalten zu bleiben.
 
 [BATTLE_ORDER_AUTUMN]
-金秋出游
+Herbstausflug
 
 [BATTLE_ORDER_WINTER]
-冬日庆典
+Winterfest
 
 [BATTLE_ORDER_SPRINGFESTIVAL]
-冬日派对
+Winterparty
 
 [BATTLE_ORDER_SPRING]
-童趣庆典
+Kinderfest
 
 [BATTLE_ORDER_SUMMER]
-金秋出游
+Herbstausflug
 
 [BATTLE_ORDER_TAB1]
-寻宝等级
+Schatzsuche Level
 
 [BATTLE_ORDER_TAB2]
-开启宝藏
+Schätze freischalten
 
 [BATTLE_ORDER_TAB3]
-任务挑战
+Quest-Herausforderungen
 
 [BATTLE_ORDER_TAB4]
-好礼秒杀
+Gute Geschenke
 
 [BATTLE_ORDER_TAB5_AUTUMN]
-金秋出游
+Herbstausflug
 
 [BATTLE_ORDER_TAB5_WINTER]
-幸运冬日
+Glücklicher Winter
 
 [BATTLE_ORDER_TAB5_SPRINGFESTIVAL]
-冬日派对
+Winterfest
 
 [BATTLE_ORDER_TAB5_SPRING]
-童趣庆典
+Kinderfest
 
 [BATTLE_ORDER_TAB5_SUMMER]
 清凉一夏
@@ -51402,74 +51403,73 @@ Karneval
 种植冷却缩短10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_1]
-桑葚爆破手周年庆装扮
+Maulbeeren Blaster-Jubiläumskostüm
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_2]
-桑葚成长礼包装扮
+Maulbeeren Wachstumsgeschenkkostüm
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_2]
-种植冷却减少10%
+Pflanzen-Abklingzeit um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_JEWELRABBIT_1]
-双生卯兔成长礼包装扮
+Zwillingskaninchen-Wachstumsgeschenkkostüm
 
-[NEW_AVATAR_DESCRIPTION_JEWELRABBIT_1]
-种植冷却减少10%
-
+[NEW_AVATAR_DESCRIPTION_JEWELRABBIT_ 1]
+Pflanzen-Abklingzeit um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_1]
-熊果臼炮周年庆装扮
+Bearberry Mörser-Jubiläumskostüm Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BEARBERRY_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_1]
-豌豆迫击炮周年庆装扮
+Jubiläumskostüm „Kleiner Erbsenmörser“
 
 [NEW_AVATAR_DESCRIPTION_SLINGPEA_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MOONFLOWER_1]
-月光花周年庆装扮
+Jubiläumskostüm „Mondblume“
 
-[NEW_AVATAR_DESCRIPTION_MOONFLOWER_1]
-阳光产出间隔缩短5秒
+[NEW_AVATAR_DESCRIPTION _MOONFLOWER_1]
+Das Intervall zwischen der Sonnenlichtproduktion wird um 5 Sekunden verkürzt.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_1]
-小喷菇周年庆装扮
+Jubiläumskostüm „Puffpilz“
 
 [NEW_AVATAR_DESCRIPTION_PUFFSHROOM_1]
-攻击力增加15%
+Angriffskraft erhöht um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_2]
-荸荠兄弟成长装扮
+Wachstumskostüm der Wasserkastanienbrüder
 
 [NEW_AVATAR_DESCRIPTION_ELEOCURLING_2]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_2]
-厨师杓兰成长装扮
+Wachstumskostüm des Küchenchefs Laveran
 
-[NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
-攻击力增加10%
+[NEW_ AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_1]
-聚能山竹成长装扮
+Energiefokussiertes Mangostan-Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_MANGOSTEEN_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_1]
-橄榄坑成长装扮
+Olivenkernwachstum Kostüm
 
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_1]
-种植冷却缩短20%
+Abklingzeit beim Pflanzen um 20 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_2]
-橄榄坑眼镜装扮
+Olivengrubenbrillen-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_2]
 休息时间减少5s
@@ -70916,49 +70916,49 @@ Accessoire
 吹风荚兰吹出一个^ff0000^大寒冰龙卷风，使僵尸减速，造成更高伤害或直接吹飞小体型僵尸。^oldclr^吹飞5个僵尸后龙卷风消散。
 
 [MULBERRY_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在桑葚爆破手右侧时，会发射出一个手榴弹，砸中僵尸后对小范围内的僵尸造成500点爆炸伤害。
+Erscheint ein Zombie rechts von der Maulbeere, feuert dieser eine Granate ab, die den Zombie trifft und ihm in geringem Umkreis 500 Explosionsschaden zufügt.
 
 [MULBERRY_NEW_SKILL_LEVEL2_DES]
-桑葚爆破手攻击时有10%的概率发射破片手雷，对周围3×3的僵尸造成750点爆炸伤害。
+Beim Angriff hat die Maulbeere eine Chance von 10 %, eine Splittergranate abzufeuern, die den Zombies im umliegenden 3×3-Bereich 750 Explosionsschaden zufügt.
 
 [MULBERRY_NEW_SKILL_LEVEL3_DES]
-爆破专家技能的触发概率提升100%，攻击时有10%的概率发射破片手雷，爆炸伤害提升至1000点。
+Die Auslösewahrscheinlichkeit der Fertigkeit „Sprengexperte“ ist um 100 % erhöht. Außerdem besteht eine Chance von 10 %, beim Angriff eine Splittergranate abzufeuern, wodurch der Explosionsschaden auf 1000 Punkte erhöht wird.
 
 [MULBERRY_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger Fähigkeit direkt freizusetzen – ein großer Move!
 
 [MULBERRY_NEW_SKILL_LEVEL5_DES]
-有4%的概率扔出毒气弹，使周围3×3的僵尸进入持续10秒、每秒造成僵尸生命值20%伤害的^701edf^中毒Ⅰ^oldclr^状态。有12%的概率扔出闪光弹，使周围3×3的僵尸^848484^眩晕Ⅰ^oldclr^2秒。有4%的概率扔出爆破弹，对僵尸造成高额伤害且有概率炸飞小范围中小体型僵尸。
+Es besteht eine 4%ige Chance, eine Gasbombe zu werfen. Diese versetzt Zombies im Umkreis von 3×3 für 10 Sekunden in den Zustand „vergiftet Ⅰ^oldclr^“ und verursacht 20 % Schaden pro Sekunde. Es besteht eine 12%ige Chance, eine Blitzbombe zu werfen. Diese betäubt Zombies im Umkreis von 3×3 für 2 Sekunden. Es besteht eine 4%ige Chance, eine Explosionsbombe zu werfen. Diese verursacht hohen Schaden an Zombies und kann kleine und mittelgroße Zombies in geringer Entfernung in die Luft jagen.
 
 [MULBERRY_PLANTFOOD_DESCRIPTION]
-桑葚爆破手一次召唤多颗手雷弹，连续向全屏僵尸抛射6颗手雷弹，对僵尸造成爆炸伤害。
+Die Maulbeere beschwört mehrere Granaten gleichzeitig und wirft kontinuierlich sechs Granaten auf Zombies im gesamten Bildschirm, die Explosionsschaden verursachen.
 
 [MULBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
-桑葚爆破手一次召唤多颗手雷弹，连续向全屏僵尸抛射^ff0000^7颗手雷弹并追加1颗大手雷^oldclr^，对僵尸造成爆炸伤害。
+Die Maulbeere beschwört mehrere Granaten gleichzeitig und wirft kontinuierlich sieben Granaten und eine zusätzliche große Granate auf Zombies auf dem gesamten Bildschirm, die Explosionsschaden verursachen.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在电能豌豆右侧时，会发射一个直线飞行的电豌豆，穿透所有僵尸造成伤害并对周围至多2个僵尸造成命中伤害两倍的溅射伤害。
+Wenn ein Zombie rechts von der Elektro-Erbse erscheint, schleudert er eine Elektro-Erbse, die geradlinig fliegt, alle Zombies durchdringt und ihnen Schaden zufügt. Bis zu zwei Zombies in der Umgebung erleiden doppelten Flächenschaden.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-电能豌豆攻击时有20%的概率发射一个300点伤害的高能闪电球，可以使僵尸^ff9600^麻痹Ⅰ^oldclr^1秒。
+Beim Angriff der Elektroerbse besteht eine Chance von 20 %, einen energiereichen Blitzball mit 300 Schaden abzufeuern, der Zombies innerhalb von 1 Sekunde lähmen kann.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-闪电球升级为雷暴球，触发概率提升至30%，伤害提升至400。
+Der Blitzball wird zu einem Gewitterball aufgewertet, mit einer Auslösewahrscheinlichkeit von 30 % und einem Schaden von 400.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率发射一个紫色闪电球，在命中僵尸后生成一个持续3秒、吸引周围僵尸的电能磁场，每秒对僵尸造成270点伤害。
+Beim Angriff besteht eine Chance von 20 %, einen violetten Blitzball abzufeuern. Trifft ein Zombie, erzeugt die elektrische Erbse ein Magnetfeld, das 3 Sekunden lang anhält und umstehende Zombies anzieht. Es verursacht 270 Schaden pro Sekunde.
 
 [ELECTRICPEASHOOTER_PLANTFOOD_DESCRIPTION]
-电能豌豆发射3个大闪电球，对僵尸造成伤害后爆裂向周围扩散出6个小闪电球。
+Die elektrische Erbse schießt drei große Blitzbälle ab, die explodieren und sechs kleine Blitzbälle verteilen, nachdem sie den Zombie verletzt haben.
 
 [ELECTRICPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-电能豌豆发射3个大闪电球，对僵尸造成伤害后爆裂向周围扩散出6个小闪电球，^ff0000^并额外追加2棵紫色闪电球，对僵尸造成伤害与^oldclr^^ff9600^麻痹Ⅰ^oldclr^^ff0000^。^oldclr^
+Die elektrische Erbse schießt drei große Blitzbälle ab, die explodieren und sechs kleine Blitzbälle verteilen, nachdem sie Zombies verletzt haben. ^ff0000^ Außerdem fügt sie zwei weitere violette Blitzbälle hinzu, die Zombies verletzen und ^oldclr^^ff9600^ lähmen. ^oldclr^
 
 [ICYCURRANT_NEW_SKILL_LEVEL1_DES]
-两棵寒冰醋栗之间会连接出现冰地，当僵尸靠近寒冰醋栗或经过冰地时，会受到伤害并减速。
+Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken nähern oder Eisboden durchqueren, werden sie beschädigt und verlangsamt.
 
 [ICYCURRANT_NEW_SKILL_LEVEL2_DES]
 寒冰醋栗对僵尸攻击时有10%的概率对僵尸造成75点伤害并^0072ff^冻结Ⅰ^oldclr^僵尸3秒。
