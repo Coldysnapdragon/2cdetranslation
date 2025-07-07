@@ -136,57 +136,56 @@
 哇！航海家！！
 
 [ADVICE_ALMANAC_FROM_PLANTS]
-点击地图上的植物也可进入图鉴
+Klicke auf die Pflanzen auf der Karte, um die Illustration zu öffnen.
 
 [ADVICE_BOUGHT_PLANTFOOD]
-记得储备能量豆，以防万一！
+Denk daran, dir vorsichtshalber Energiebohnen zuzulegen!
 
 [ADVICE_BUY_PLANTFOOD]
-使用钻石购买更多的能量豆！
+Kaufe mit Diamanten mehr Energiebohnen!
 
 [ADVICE_CANT_PLANT_THERE]
-你不能种在那里
+Dort kannst du nicht pflanzen.
 
 [ADVICE_CANT_SHOVEL_THERE]
-你不能在那里铲除植物！
+Dort kannst du keine Pflanzen schaufeln!
 
 [ADVICE_CANT_APPLY_PLANTFOOD_THERE]
-你不能在那里释放能量豆！
+Dort kannst du keine Energiebohnen freigeben!
 
 [ADVICE_CLICK_COIN]
-点击金币进行收集！
+Klicke auf die Münzen, um sie einzusammeln!
 
 [ADVICE_CLICK_KEY]
-点击钥匙拾取！
+Klicke auf den Schlüssel, um ihn aufzuheben!
 
 [ADVICE_CLICK_ON_GRASS]
-将卡片拖放到草地上！
+Ziehe die Karten per Drag & Drop auf das Gras!
 
 [ADVICE_CLICK_PEASHOOTER]
-拖动并种植另一棵豌豆射手！
+Ziehe und pflanze eine weitere Erbsenkanone!
 
 [ADVICE_TILE_PLANTS_ON_TILES]
-该植物不能种植在能量格上!
+Diese Pflanze kann nicht auf einem Stromnetz gepflanzt werden!
 
 [ADVICE_CLICK_PLANT]
-将铲子拖到植物上，将其挖掉！
+Ziehe die Schaufel über eine Pflanze, um sie auszugraben!
 
 [ADVICE_CLICK_SEED_PACKET]
-点击并按住豌豆射手卡片
+Tippe und halte die Erbsenkanonen-Karte.
 
 [ADVICE_CLICK_SHOVEL]
-那些植物挡道了！
-使用铲子移除它们！
+Diese Pflanzen sind im Weg!
+Benutze die Schaufel, um sie zu entfernen!
 
 [ADVICE_COLLECT_COINS]
-收集金币，这是很有用的资源！
+Sammle Münzen, sie sind eine nützliche Ressource!
 
 [ADVICE_COLLECT_KEYS]
-我很好奇这玩意儿能用来打开什么家伙！
+Ich frage mich, was dieses Ding alles freischalten kann!
 
 [ADVICE_COLLECT_PLANT]
-点击植物将其添至
-你的植物收藏中！
+Tippe auf eine Pflanze, um sie deiner Pflanzensammlung hinzuzufügen!
 
 [ADVICE_COLLECT_SUN]
 点击下落的阳光来收集它们！
@@ -226,75 +225,71 @@
 更多星星已经出现在地图上！返回先前的关卡收集它们吧！
 
 [ADVICE_GOTO_ALMANAC]
-请点击图鉴
+Bitte klicke auf die Illustration.
 
 [ADVICE_GOTO_STORE]
-访问商店
+Besuche den Shop.
 
 [ADVICE_GOTO_GACHA]
-你获得了潘妮宝物的开启权限，现在让我们去尝试一下
+Du hast die Erlaubnis erhalten, Pennys Schatz zu öffnen. Jetzt lass es uns versuchen.
 
 [ADVICE_GOTO_UNIVERSE_VIEW]
-你完成了神秘埃及关卡！点击时空地图按钮！
+Du hast das mysteriöse Ägypten-Level abgeschlossen! Klicke auf die Zeitkarten-Schaltfläche!
 
 [ADVICE_GRAVEBUSTERS_ON_GRAVES]
-噬碑藤只能种在墓碑上
+Grabfressende Ranken können nur auf Grabsteinen gepflanzt werden.
 
 [ADVICE_HUGE_WAVE]
-一大波僵尸即将来袭！
+Eine große Zombiewelle kommt!
 
 [ADVICE_SOCCER_NEAR_END]
-剩余时间还有30秒！
+Noch 30 Sekunden!
 
 [ADVICE_POOYANBOSS_WAVE]
-警告！警告！前方高能！
+Warnung! Warnung! Hohe Energie voraus!
 
 [ADVICE_WOLF_BOSS_WAVE]
-一只危险的僵尸正在接近...
+Ein gefährlicher Zombie nähert sich ...
 
 [ADVICE_KEEP_DIGGING]
-一直挖吧，直到你的
-草坪上没有植物！
-
+Grabe weiter, bis dein Rasen frei von Pflanzen ist!
 
 [ADVICE_KEEP_USING_POWERUPS]
-继续使用金手指闯关！
+Benutze weiterhin Cheat-Codes, um die Level zu meistern!
 
 [ADVICE_MORE_SUNFLOWERS]
-你需要更多的向日葵，
-这样你才能更快的种植植物！
-
+Du brauchst mehr Sonnenblumen, damit deine Pflanzen schneller wachsen!
 
 [ADVICE_NEW_LEVEL]
-解锁了下一关！
+Nächstes Level freigeschaltet!
 
 [ADVICE_NEW_PLANT]
-获取你的新植物！
+Hol dir deine neue Pflanze!
 
 [ADVICE_NOT_ENOUGH_SUN]
-你需要更多的阳光才能种植它！
+Du brauchst mehr Sonne, damit sie wächst!
 
 [ADVICE_NOT_ENOUGH_TIMES]
-次数用完了！
+Deine Zeit ist abgelaufen!
 
 [ADVICE_SKILL_LOCK]
-技能未解锁
+Fähigkeit freigeschaltet
 
 [ADVICE_NO_MORE_BRAINS]
-没有更多的脑子了！
+Keine Gehirne mehr!
 
 [ADVICE_OPEN_KEYGATE]
-点击门解锁！
+Klicke auf die Tür, um sie zu öffnen!
 
 [ADVICE_PEASHOOTER_DIED]
-你的一棵豌豆射手死了！
-试试在更靠左的地方种植它们！
+Eine deiner Erbsenkanonen ist gestorben!
+Versuche, sie weiter links zu pflanzen!
 
 [ADVICE_PLANT_FOOD_BANK_FULL]
-能量豆已满！立即使用库存的能量豆，避免浪费！
+Die Energiebank ist voll! Benutze sie sofort, um sie nicht zu verschwenden!
 
 [ADVICE_PLANT_NOT_ON_GRAVE]
-你不能把植物种在墓碑上
+Du kannst keine Pflanzen auf Grabsteinen pflanzen.
 
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
 你不能把植物种在石化僵尸上
@@ -6371,173 +6366,173 @@ Verbesserungen Anzeigen
 挡住僵尸，保护它身后的植物。
 
 [WARNING_CAMELMINIGAME_1]
-准备…
+Vorbereiten...
 
 [WARNING_CAMELMINIGAME_2]
-开始…
+Los...
 
 [WARNING_CAMELMINIGAME_3]
-开火！
+Feuer!
 
 [WARNING_CANNONMINIGAME_1]
-准备…
+Vorbereiten...
 
 [WARNING_CANNONMINIGAME_2]
-开始…
+Los...
 
 [WARNING_CANNONMINIGAME_3]
-开火！
+Feuer!
 
 [WARNING_RIVERCROSSING_1]
-好！
+OK!
 
 [WARNING_RIVERCROSSING_2]
-准备…
+Vorbereiten...
 
 [WARNING_RIVERCROSSING_3]
-开始！
+Los!
 
 [WARNING_FINAL_WAVE]
-最后一波攻势
+Letzte Welle
 
 [WARNING_RAIDINGPARTY]
-海盗登船了！
+Piraten sind an Bord!
 
 [WARNING_SANDSTORM]
-沙尘暴！
+Sandsturm!
 
 [WARNING_HEIAN_WIND]
-风即将降临！
+Der Wind kommt!
 
 [WARNING_RENAI_NIGHT_1]
-黑夜即将降临！
+Die Nacht bricht herein!
 
 [WARNING_RENAI_NIGHT_2]
-请做好准备…
+Bitte mach dich bereit...
 
 [WARNING_RENAI_NIGHT_3]
-开始！
+Los!
 
 [WARNING_STANDARD_1]
-好…
+Achtung…
 
 [WARNING_STANDARD_2]
-准备…
+Fertig…
 
 [WARNING_STANDARD_3]
-开始！
+PFLANZEN！
 
 [WARNING_THUNDER_TIP]
-雷云风暴来袭！
+Ein Gewitter zieht auf!
 
 [WARNING_PARACHUTERAIN]
-空投注意！空投注意！
+Achtung, Fallschirmsprung! Achtung, Fallschirmsprung!
 
 [WARNING_GRAVESTONE_SPAWN]
-小心，墓碑松动了！
+Vorsicht, der Grabstein ist lose!
 
 [WARNING_FAIRY_TALE_WIND_TIP]
-起风了！
+Der Wind weht!
 
 [WARNING_FAIRY_TALE_FOG_TIP]
-起雾了！
+Nebel zieht auf!
 
 [WARNING_BLACK_HOLE_TIP]
-黑洞要吸植物了！
+Das Schwarze Loch wird die Pflanzen aussaugen!
 
 [WELCOME_USER_NAME_2]
-你好，%s!
+Hallo, %s!
 
 [WEST_CHALLENGE_MINIGAME_A_NAME]
-围栏之战-第1天
+Kampf um den Zaun – Tag 1
 
 [WEST_CHALLENGE_MINIGAME_B_NAME]
-围栏之战-第2天
+Kampf um den Zaun – Tag 2
 
 [WEST_CHALLENGE_MINIGAME_C_NAME]
-围栏之战-第3天
+Kampf um den Zaun – Tag 3
 
 [WEST_LEVEL_NAME]
-狂野西部-第{LEVEL_NUMBER}天
+Wilder Westen – Tag {LEVEL_NUMBER}
 
 [WHO_ARE_YOU]
-你是谁？
+Wer bist du?
 
 [WINTERMELON]
-冰西瓜投手
+Eismelonenkrug
 
 [WINTERMELON_DESCRIPTION]
-{KEYWORD}发射速度：{STAT}1/2倍速
-{KEYWORD}范围：{STAT}抛掷
-{KEYWORD}特点：{STAT}受伤的僵尸也被冰冻
-{KEYWORD}植物特征：{STAT}蓝色植物
-{FLAVOR}你可能在这部伟大的纪录片中会认出冰西瓜的富有磁性的声音，比如“这上面很冷”“冰冻重击”还有“冲浪的因纽特人”。
+{KEYWORD}Feuergeschwindigkeit: {STAT}½x
+{KEYWORD}Reichweite: {STAT}Wurf
+{KEYWORD}Eigenschaften: {STAT}Verletzte Zombies werden ebenfalls eingefroren
+{KEYWORD}Pflanzeneigenschaften: {STAT}Blaue Pflanzen
+{FLAVOR}Vielleicht kennst du die melodische Stimme der Eismelone aus der großartigen Dokumentation, z. B. „It's cold up there“, „Frozen Slam“ und „Surfing Inuit“.
 
 [WINTERMELON_DESCRIPTION_HEADER]
-冰西瓜投手能造成范围性的伤害并让僵尸减速。
+Der Eismelonenkrug verursacht Flächenschaden und verlangsamt Zombies.
 
 [WINTERMELON_PLANTFOOD]
-发射重型冰西瓜并打击草坪上的所有僵尸。
+Feuere schwere Eismelonen ab und triff alle Zombies auf dem Rasen.
 
 [WINTERMELON_TOOLTIP]
-重重打击成群的僵尸，并减慢它们的速度。
+Trifft Zombiegruppen hart und verlangsamt sie.
 
 [WORLD_MAP_MENU_BUTTON]
-菜单
+Menü
 
 [WORLD_MAP_SOCIAL_BUTTON]
-好友
+Freunde
 
 [WORLD_MAP_STORE_BUTTON]
-商店
+Shop
 
 [DANGERROOM_TRAINING_RECORD_LEVEL]
-记录{NUMBER}关
+Erreiche Level {NUMBER} 
 
 [WORLD_NAME_COMING_SOON]
-即将推出
+Demnächst verfügbar
 
 [WORLD_NAME_COWBOY]
-狂野西部
+Wilder Westen
 
 [WORLD_NAME_EGYPT]
-神秘埃及
+Altes Ägypten
 
 [WORLD_NAME_PIRATE]
-海盗港湾
+Piratensee
 
 [WORLD_NAME_DARK]
-黑暗时代
+Mittelalter
 
 [WORLD_NAME_DARKAGE]
-黑暗时代
+Mittelalter
 
 [WORLD_NAME_BEACH]
-巨浪沙滩
+Riesen Wellen Strand
 
 [WORLD_NAME_ICEAGE]
-冰河世界
+Forstbeulen Höhlen
 
 [WORLD_NAME_SKYCITY]
-天空之城
+Luftstadt
 
 [WORLD_NAME_LOSTCITY]
-失落之城
+Verlorene Stadt
 
 [WORLD_NAME_STEAM]
-蒸汽时代
+Dampf-Zeitalter
 
 [WORLD_NAME_RENAI]
-复兴时代
+Renaissance-Zeitalter
 
 [WORLD_NAME_HEIAN]
-平安时代
+Heian-Zeitalter
 
 [WORLD_NAME_TALE]
-童话森林
+Märchenwald
 
 [LOSTCITY_LEVEL_NAME]
-失落之城-第{LEVEL_NUMBER}天
+Die Verlorene Stadt – Tag {LEVEL_NUMBER}
 
 [DARK]
 黑暗时代
@@ -24175,83 +24170,84 @@ x {SPEED}
 网络连接失败，请在良好的网络环境下进行挑战活动，避免损失。
 
 [BOARD_ALMANAC_WARNING]
-警告：新僵尸出现！
+Warnung: Ein neuer Zombie ist aufgetaucht!
 
 [BOARD_ALMANAC_RECOMMEND_PLANT]
-推荐植物：
+Empfohlene Pflanzen:
 
 [LOTTERY_RESULT_PIECE_OWNED]
-当前拥有：{NAME}碎片 ^00FF00 {NUMBER} ^oldclr 个
+Aktuell im Besitz: {NAME} Fragmente ^00FF00 {NUMBER} ^oldclr
 
 [SUMMERY_LOTTERY_NET_ERROR]
-网络连接失败，请保持在良好的联网状态下抽奖。
-(联网失败时，抽奖道具不会被扣除)
+Netzwerkverbindung fehlgeschlagen. Bitte stellen Sie eine stabile Netzwerkverbindung für die Ziehung sicher.
+
+(Bei einem Netzwerkausfall werden die gezogenen Gegenstände nicht abgezogen.)
 
 [SUMMERY_LOTTERY_LACK_MATERIAL]
-{ITEM}数量不足,请获得足够的数量后再试用。
+Nicht genügend {ITEM}. Bitte besorgen Sie sich eine ausreichende Menge, bevor Sie es erneut versuchen.
 
 [SUMMERY_LOTTERY_UNKONW_BONUS]
-奖励无法识别。
+Die Belohnung kann nicht eingelöst werden.
 
 [GET_CRYSTAL]
-获得{ITEM}
+Holen Sie sich {ITEM}
 
 [MAT_COIN_FIRE]
-炎晶
+Flammenkristall
 
 [MAT_COIN_ICE]
-冰晶
+Eiskristall
 
 [MAT_EVOLUTION_FIREFLOWER]
-赤焰稀土
+Rote Flamme, seltene Erde
 
 [MAT_MEDAL]
-宝石
+Edelstein
 
 [MAT_REDPACKET_GOLD]
-宝开通宝
+Baokai Tongbao
 
 [MAT_FESTIVAL_CURRENCY]
-新春碎片
+Neujahrsfragment
 
 [MAT_REDPACKET_S]
-小红包
+Kleiner roter Umschlag
 
 [MAT_REDPACKET_B]
-大红包
+Großer roter Umschlag
 
 [MAT_NUTRIENT_0]
-5阶白色培养液
+Weißes Nährmedium Stufe 5
 
 [MAT_NUTRIENT_1]
-5阶绿色培养液
+Grünes Nährmedium Stufe 5, Nährlösung
 
 [MAT_NUTRIENT_2]
-5阶蓝色培养液
+Blaue Nährlösung Stufe 5
 
 [MAT_NUTRIENT_3]
-5阶紫色培养液
+Violette Nährlösung Stufe 5
 
 [MAT_NUTRIENT_4]
-5阶橙色培养液
+Orange Kultur Stufe 5 Lösung
 
 [NORMAL_LOGIN_CHEST]
-普通宝箱
+Normale Schatztruhe
 
 [LEGEND_LOGIN_CHEST]
-精品宝箱
+Exquisite Schatztruhe
 
 [MAT_GACHAKEY_NORMAL]
-普通宝箱钥匙
+Normaler Schatztruhenschlüssel
 
 [MAT_GACHAKEY_NORMAL_MULTI]
-普通宝箱钥匙组
+Normales Schatztruhenschlüsselset
 
 [MAT_GACHAKEY_RARE]
-稀有宝箱钥匙
+Seltener Schatztruhenschlüssel
 
 [MAT_GACHAKEY_RARE_MULTI]
-稀有宝箱钥匙组
+Seltenes Schatztruhenschlüsselset
 
 [MAT_GACHAKEY_LEGEND]
 传奇宝箱钥匙
@@ -75868,8 +75864,6 @@ DJ芦荟
 下个金钟罩充能还剩{NUM}秒
 
 [PVZ2_CHINESE_END]
-
-D]
 
 
 
