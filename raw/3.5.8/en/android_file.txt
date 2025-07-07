@@ -834,7 +834,7 @@
 {STR_COST}
 
 [CABBAGEPULT]
-卷心菜投手
+Kohlapult
 
 [CABBAGEPULT_DESCRIPTION]
 {KEYWORD}植物特征：{STAT}绿色植物
