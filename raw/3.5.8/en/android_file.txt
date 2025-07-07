@@ -606,7 +606,7 @@ Schließen
 Auf der Karte anzeigen
 
 [ALMANAC_PLANTS]
-Pflanzen anzeigen
+Pflanzen
 
 [ALMANAC_PURCHASE]
 {PRODUCT_NAME} kaufen
@@ -615,10 +615,10 @@ Pflanzen anzeigen
 Auf der Karte anzeigen
 
 [ALMANAC_UPGRADES]
-Upgrades anzeigen
+Verbesserungen
 
 [ALMANAC_ZOMBIES]
-Zombies anzeigen
+Zombies
 
 [APP_UPDATE_REQUIRED]
 Bitte lade die neueste Version von Plants vs. Zombies 2 aus dem AppStore herunter.
@@ -885,130 +885,132 @@ Bonus: {SCORE}
 棒极了！现在尽力炸飞更多僵尸吧！
 
 [category_1_name]
-根目录
+Stammverzeichnis
 
 [category_13_name]
-植物大战僵尸2 金币商店
+Plants vs. Zombies 2 Münzshop
 
 [category_14_name]
-金币
+Münzen
 
 [category_15_name]
-植物大战僵尸2 地图商店
+Plants vs. Zombies 2 Kartenshop
 
 [category_18_name]
-门
+Tür
 
 [category_2_name]
-默认目录
+Standardverzeichnis
 
 [category_3_name]
-植物大战僵尸2 商店
+Plants vs. Zombies 2 Shop
 
 [category_4_name]
-金币
+Münzen
 
 [category_6_name]
-植物
+Pflanzen
 
 [category_7_name]
-强化
+Verbesserungen
 
 [category_8_name]
-礼包
+Pakete
 
 [CELLULAR_PERMISSION_BODY]
-您想使用蜂窝数据网络来下载额外内容包吗？
-您可以稍后在选项菜单里改变这一设定。
+Möchten Sie mobile Daten zum Herunterladen zusätzlicher Inhaltspakete verwenden?
+Sie können dies später im Optionsmenü ändern.
 
 [CELLULAR_PERMISSION_HEADER]
-下载更新？
+Updates herunterladen?
 
 [CHALLENGE_LASTSTAND_A_NAME]
-坚不可摧-第1天
+Unzerstörbar – Tag 1
 
 [CHALLENGE_LASTSTAND_B_NAME]
-坚不可摧-第2天
+Unzerstörbar – Tag 2
 
 [CHALLENGE_LASTSTAND_C_NAME]
-坚不可摧-第3天
+Unzerstörbar – Tag 3
 
 [CHALLENGE_PRESET_A_NAME]
-植物危机-第1天
+Pflanzenkrise – Tag 1
 
 [CHALLENGE_PRESET_B_NAME]
-植物危机-第2天
+Pflanzenkrise – Tag 2
 
-[CHALLENGE_PRESET_C_NAME]
-植物危机-第3天
+[CHALLENGE_PRESET_ C_NAME]
+Pflanzenkrise – Tag 3
 
 [CHALLENGE_PRESET_NAME]
-植物危机
+Pflanzenkrise
 
 [CHALLENGE_PROTECT_A_NAME]
-种子保卫战-第1天
+Samenverteidigung – Tag 1
 
 [CHALLENGE_PROTECT_B_NAME]
-种子保卫战-第2天
+Samenverteidigung – Tag 2
 
 [CHALLENGE_PROTECT_C_NAME]
-种子保卫战-第3天
+Samenverteidigung – Tag 3
 
 [CHALLENGE_PROTECT_NAME]
-种子保卫战
+Samen Verteidigung
 
 [CHALLENGE_BRONZE_A_NAME]
-铜人阵-第1天
+Bronze-Mann-Formation – Tag 1
 
 [CHALLENGE_BRONZE_B_NAME]
-铜人阵-第2天
+Bronze-Mann-Formation – Tag 2
 
 [CHALLENGE_BRONZE_C_NAME]
-铜人阵-第3天
+Bronze-Mann-Formation – Tag 3
 
 [CHALLENGE_BRONZE_NAME]
-铜人阵
+Bronze-Mann-Formation
 
 [CHALLENGE_REMAINING]
-余{NUMBER}
+Verbleibende {NUMBER}
 
 [RIVERCROSSING_DODORIDER]
-已通过:{NUMBER}
+Bestanden: {NUMBER}
 
-[RIVERCROSSING_REMAIN_DODORIDERS]
-剩余次数:{NUMBER}
+[RIVERCROSSING _REMAIN_DODORIDERS]
+Verbleibende Anzahl: {NUMBER}
 
 [POOYAN_SCORE]
-分数:{NUMBER}/
+Punktzahl: {NUMBER}/
 
 [POOYAN_TARGETSCORE]
-通关:{NUMBER}
+Bestanden: {NUMBER}
 
 [POOYAN_PASSED_CURRENT]
-已获得通关分数
+Erzielte Punktzahl
 
 [POOYAN_TIP_MOVE]
-滑动操作可以控制飞行器进行全屏移动
+Durch Wischen kann das Flugzeug gesteuert werden Vollbildmodus
 
 [POOYAN_TIP_CORE]
-这些阳光是飞船的能量核心，保护它们不受伤害！
+Diese Sonnenstrahlen bilden den Energiekern des Raumschiffs. Beschütze sie vor Schaden!
 
 [CHERRY_BOMB]
-樱桃炸弹
+Kirschbombe
 
 [CHERRY_BOMB_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}植物特征：{STAT}红色植物、面恶心善、双胞兄弟
-{FLAVOR}组建乐队是樱桃炸弹兄弟的梦想。“我们很想知道每种爆炸的节奏。我们颠覆音乐，引爆粉丝，轰动舞台，当然还有摧毁僵尸！喂，别忘记买明年的唱片！
+{KEYWORD}Anwendung: {STAT}Einmalige Anwendung, sofort wirksam
+
+{KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze, hässliches Gesicht und freundlich, Zwillingsbrüder
+
+{FLAVOR}Eine Band zu gründen ist der Traum der Cherry-Bomb-Brüder. Wir wollen den Rhythmus jeder Explosion kennen. Wir unterwandern die Musik, bringen die Fans zum Explodieren, heizen die Bühne an und vernichten natürlich Zombies! Hey, vergesst nicht, die Platte für nächstes Jahr zu kaufen!
 
 [CHERRY_BOMB_DESCRIPTION_HEADER]
-樱桃炸弹，能炸掉一定范围内的全部僵尸。由于一种下就会立刻爆炸，所以请把他们种在僵尸身边。 
+Kirschbomben können alle Zombies in einem bestimmten Umkreis in die Luft jagen. Da sie unmittelbar nach einer Explosion explodieren, platziert sie am besten in der Nähe von Zombies.
 
 [CHERRY_BOMB_PLANTFOOD]
-能量豆无效果。
+Energiebohnen haben keine Wirkung.
 
 [CHERRY_BOMB_TOOLTIP]
-炸飞附近区域内的所有僵尸。
+Sprengt alle Zombies in der Nähe in die Luft.
 
 [CHILIBEAN]
 巴豆
