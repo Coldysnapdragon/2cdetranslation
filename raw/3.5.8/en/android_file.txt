@@ -594,150 +594,149 @@
 使用铲子可以铲掉植物，为你想要种的植物腾出空间！
 
 [ADVICE_WAIT]
-等等！！！
+Warte!!!
 
 [ADVICE_ZOMBIE_ONSLAUGHT]
-别让僵尸靠近你的房子！
+Lass Zombies nicht in die Nähe deines Hauses kommen!
 
 [ALMANAC_CLOSE]
-关闭
+Schließen
 
 [ALMANAC_PLANT_VIEW_ON_MAP]
-在地图上查看
+Auf der Karte anzeigen
 
 [ALMANAC_PLANTS]
-查看植物
+Pflanzen anzeigen
 
 [ALMANAC_PURCHASE]
-购买{PRODUCT_NAME}
+{PRODUCT_NAME} kaufen
 
 [ALMANAC_UPGRADE_VIEW_ON_MAP]
-在地图上查看
+Auf der Karte anzeigen
 
 [ALMANAC_UPGRADES]
-查看强化
+Upgrades anzeigen
 
 [ALMANAC_ZOMBIES]
-查看僵尸
+Zombies anzeigen
 
 [APP_UPDATE_REQUIRED]
-请从AppStore下载最新的植物大战僵尸2
+Bitte lade die neueste Version von Plants vs. Zombies 2 aus dem AppStore herunter.
 
 [ARE_YOU_SURE]
-你确定吗？
+Bist du sicher?
 
 [AWARD_SCREEN_ALL_STARS]
-你获得了所有星星！
+Du hast alle Sterne!
 
 [AWARD_SCREEN_AND]
-和
+UND
 
 [AWARD_SCREEN_FINALDAY_COMPLETE]
-三星解锁开启！
+Drei-Sterne-Freischaltung läuft!
 
 [AWARD_SCREEN_FIRSTKEY_DESCRIPTION]
-这是一把古老的钥匙，现在你需要的只是一把古老的锁。
+Dies ist ein antiker Schlüssel. Jetzt brauchst du nur noch ein antikes Schloss.
 
 [AWARD_SCREEN_FIRSTKEY_TITLE]
-神秘埃及钥匙！
+Mysteriöser ägyptischer Schlüssel!
 
 [AWARD_SCREEN_GOAL_FAILED]
-^ff0000 目标失败
+^ff0000 Ziel fehlgeschlagen
 
 [AWARD_SCREEN_LAWN_MOWER_TRIGGERED]
-一台或多台小推车被触发了！
+Ein oder mehrere Wagen wurden ausgelöst!
 
 [AWARD_SCREEN_MAPGADGET_DESCRIPTION]
-一张蕴含着宇宙奥义的古老羊皮纸。
+Ein antikes Pergament mit den Geheimnissen des Universums.
 
 [AWARD_SCREEN_MAPGADGET_TITLE]
-时空地图
+Zeit- und Raumkarte
 
 [AWARD_SCREEN_MULTIPLE_PRESENTS]
-得到礼物！
+Sichern Sie sich ein Geschenk!
 
 [AWARD_SCREEN_NEW_PLANT]
-你得到了一棵新植物！
+Du hast eine neue Pflanze Freigeschaltet!
 
 [AWARD_SCREEN_NEW_AVATAR]
-你得到了一株新植物装扮！
+Du hast ein neues Pflanzenkostüm Freigeschaltet!
 
 [AWARD_SCREEN_AVATAR_PLANT_LOCKED]
-此装扮对应的植物还未解锁，赶紧去解锁植物吧！
+Die Pflanze für dieses Kostüm wurde noch nicht freigeschaltet. Schalte sie jetzt frei!
 
 [AWARD_SCREEN_NEW_UPGRADE]
-获得一个新的强化道具！
+Hol dir ein neues Power-Up-Item!
 
 [AWARD_SCREEN_NO_STAR]
-未获得星星
+Keine Sterne erhalten
 
 [AWARD_SCREEN_ONE_PRESENT]
-得到礼物！
+Hol dir ein Geschenk!
 
 [AWARD_SCREEN_POWERUP_TITLE]
-您解锁了新的道具！
+Du hast ein neues Item freigeschaltet!
 
 [AWARD_SCREEN_POWERUP_WIZARDFINGER_DESCRIPTION]
-召唤金手指的所有力量！
+Beschwöre die ganze Kraft des Goldfingers!
 
 [AWARD_SCREEN_POWERUPGADGET_DESCRIPTION]
-快进入破罐大师游戏内试试新获得的道具吧！
+Besuche das Pot Breaker-Spiel und probiere die neuen Items aus!
 
 [AWARD_SCREEN_PRIZE]
-你获得了奖励！
+Du hast eine Belohnung erhalten!
 
 [AWARD_SCREEN_STAR]
-你获得了一颗星！
+Du hast einen Stern erhalten!
 
 [AWARD_SCREEN_STAR_GOAL]
-目标: {CHALLENGE}
+Ziel: {CHALLENGE}
 
 [AWARD_SCREEN_STAR_LEVEL]
 {LEVEL}
 
 [AWARD_SCREEN_WORLDKEY_DESCRIPTION]
-可以用来解锁新世界 ，穿越到其他世界！
+Kann verwendet werden, um neue Welten freizuschalten und in andere Welten zu reisen!
 
-同时三星解锁已经开启！
+Gleichzeitig wird die Drei-Sterne-Freischaltung aktiviert!
 
 [AWARD_SCREEN_RETURN_WORLDKEY_DESCRIPTION]
-获得时空钥匙一把，可以用来解锁新世界 ，穿越到其他世界！
+Holt euch einen Raumzeit-Schlüssel, mit dem ihr neue Welten freischalten und in andere Welten reisen könnt!
 
 [AWARD_SCREEN_STARKEY_DESCRIPTION]
-三星解锁已经开启!
+Drei-Sterne-Freischaltung jetzt möglich!
 
 [AWARD_SCREEN_WORLDKEY_TITLE]
-时空钥匙
+Raumzeit-Schlüssel
 
 [AWARD_SCREEN_WORLDSTARUNLOCK_TITLE]
-三星罐头
+Drei-Sterne-Dose
 
 [AWARD_SCREEN_WORLDKEY_STAR_TITLE]
-三星时空钥匙
+Drei-Sterne-Raumzeit-Schlüssel
 
 [AWARD_SCREEN_WORLDTROPHY]
-你获得了奖杯！
+Du hast die Trophäe gewonnen!
 
 [AWARD_SCREEN_WORLDTROPHY_COWBOY]
-狂野西部的三星解锁已经开启！
-
+Drei-Sterne-Freischaltung im Wilden Westen jetzt möglich!
 
 [AWARD_SCREEN_WORLDTROPHY_EGYPT]
-神秘埃及的三星解锁已经开启！
-在神秘埃及关卡中获取更多星星，就能解锁新植物，并开启新的世界：海盗港湾！
+Drei-Sterne-Freischaltung im Mysteriösen Ägypten jetzt möglich!
+Hol dir mehr Sterne im Level „Geheimnisvolles Ägypten“, um neue Pflanzen und eine neue Welt freizuschalten: Pirate Bay!
 
 [AWARD_SCREEN_WORLDTROPHY_PIRATE]
-海盗港湾的三星解锁已经开启！
-在海盗港湾关卡中获取更多星星，就能解锁新植物，并开启新的世界：狂野西部！
+Drei-Sterne-Freischaltungen für Pirate Bay sind jetzt möglich!
+Hol dir mehr Sterne im Level „Pirate Bay“, um neue Pflanzen und eine neue Welt freizuschalten: Wilder Westen!
 
 [BACK_TO_MAP]
-返回地图
+Zurück zur Karte
 
 [BACK_TO_MENU]
-返回菜单
+Zurück zum Menü
 
 [BACK_TO_SHOP]
-返回商店
+Zurück zum Shop
 
 [BLOOMERANG]
 回旋镖射手
@@ -801,34 +800,34 @@
 快速出击，左右开弓击倒敌人。
 
 [BONKCHOY_SKILL_LEVEL5]
-撼地拳
+Groundshaker
 
 [BONKCHOY_SKILL_LEVEL5_DES]
-发动两次上钩拳后菜问会跳起砸下撼地拳，造成伤害并且眩晕僵尸
+Nach zwei Aufwärtshaken springt Nawen hoch und schlägt auf den Boden, wodurch er Schaden verursacht und Zombies betäubt.
 
 [BUTTON_CANCEL]
-取消
+Abbrechen
 
 [BUTTON_NO]
-否
+Nein
 
 [BUTTON_OK]
-确定
+OK
 
 [BUTTON_YES]
-是
+Ja
 
 [BUY_MORE]
-购买更多
+Mehr kaufen
 
 [BYPASS_COST]
-花费: $%s 元
+Kosten: $%s
 
 [BYPASS_GATE]
-闸门开启！
+Tor geöffnet!
 
 [BYPASS_KEYGATE]
-闸门开启
+Tor geöffnet
 
 [BYPASS_KEYGATE_COST]
 {STR_COST}
