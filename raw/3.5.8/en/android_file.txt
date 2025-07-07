@@ -14170,7 +14170,7 @@ LV.
 
 
 [HOLONUT]
-全息坚果
+Unend-Nuss
 
 [HOLONUT_DESCRIPTION]
 {KEYWORD}植物特征：{STAT}蓝色植物
@@ -75870,6 +75870,7 @@ DJ芦荟
 [PVZ2_CHINESE_END]
 
 D]
+
 
 
 
