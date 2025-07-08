@@ -13016,64 +13016,64 @@ LV.
 购买钻石x120。送十五个扭蛋
 
 [PLANT_PROPERTY_BASE]
-基础能力
+Basisfähigkeit
 
 [PLANT_PROPERTYUP_LEVEL1]
-战斗训练
+Kampftraining
 
 [PLANT_PROPERTYUP_LEVEL1_DES]
-经过戴夫的战斗训练，攻防属性提高50%。
+Nach Daves Kampftraining erhöhen sich Angriffs- und Verteidigungsattribute um 50 %.
 
 [PLANT_PROPERTYUP_LEVEL2]
-细胞活化
+Zellaktivierung
 
 [PLANT_PROPERTYUP_LEVEL2_DES]
-自身素质强化，攻防属性再次提高50%。
+Stärkt eure eigene Qualität, und Angriffs- und Verteidigungsattribute erhöhen sich erneut um 50 %.
 
 [PLANT_PROPERTYUP_LEVEL3]
-战斗能力
+Kampffähigkeit
 
 [PLANT_PROPERTYUP_LEVEL3_DES]
-获得超强的战斗能力，攻防属性提高150%。
+Erhältst du eine Super-Kampffähigkeit, werden Angriffs- und Verteidigungsattribute um 150 % erhöht.
 
 [PLANT_PROPERTYUP_LEVEL4]
-战斗能力
+Kampf-Meister 
 
 [PLANT_PROPERTYUP_LEVEL4_DES]
-获得超强的战斗能力，攻防属性提高150%。
+Erhalte Superkampffähigkeit und deine Angriffs- und Verteidigungsattribute werden um 150 % erhöht.
 
 [PLANT_WAKEUP_LEVEL1]
-能力觉醒
+Fähigkeitserweckung
 
 [PLANT_WAKEUP_LEVEL1_DES]
-四阶特殊能力：种植时有概率直接释放能量豆大招！
+Spezialfähigkeit Stufe 4: Es besteht die Chance, die Energiebohne beim Pflanzen direkt auszulösen!
 
 [PLANT_WAKEUP_LEVEL2]
-超进化
+Superentwicklung
 
 [PLANT_WAKEUP_LEVEL2_DES]
-五阶特殊能力！
+Spezialfähigkeit Stufe 5!
 
 [POTATOMINE_SKILL1_LEVEL1]
-快速安装
+Schnellinstallation
 
 [POTATOMINE_SKILL1_LEVEL1_DES]
-学习快速安装技巧，使土豆地雷的准备时间减少50%。
+Erlerne die Schnellinstallationsfähigkeiten, um die Vorbereitungszeit von Kartoffelminen um 50 % zu reduzieren.
 
 [POTATOMINE_SKILL1_LEVEL2]
-引信改良
+Verbesserte Sicherung
 
 [POTATOMINE_SKILL1_LEVEL2_DES]
-强化快速安装效果，使土豆地雷一种下就能立即准备完毕。
+Verstärkte Schnellinstallation, damit die Kartoffelmine direkt nach dem Pflanzen vorbereitet werden kann.
 
 [SUNFLOWER_SKILL1_LEVEL1]
-回收阳光
+Sonnenlicht recyceln
 
 [SUNFLOWER_SKILL1_LEVEL1_DES]
-使向日葵死亡后可以回收25阳光。
+Nach dem Tod der Sonnenblume werden 25 Sonnenlichtpunkte recycelt.
 
 [SUNFLOWER_SKILL1_LEVEL2]
-回收强化
+Recycling-Verbesserung
 
 [SUNFLOWER_SKILL1_LEVEL2_DES]
 向日葵死亡后会留下的阳光提升至75点。
