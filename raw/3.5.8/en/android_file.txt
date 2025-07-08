@@ -1041,71 +1041,71 @@ Sprengt alle Zombies in der Nähe in die Luft.
 吸引附近行的僵尸并阻挡他们前进。
 
 [CHOOSE_YOUR_PLANTS]
-选择你的植物
+Wähle deine Pflanze
 
 [CHOOSER_OBJECTIVES]
-目标: {MINSCORE}
+Ziel: {MINSCORE}
 
 [CHOOSER_POWERUPS]
-强化
+Powerups
 
 [CHOOSER_SELECT_PLANTS]
-选择植物
+Wähle deine Pflanzen!
 
 [CHOOSER_SHOW_COMPLETED_OBJECTIVE_HINTS]
-在关卡中出现完整提示
+Zeige alle Hinweise im Level
 
 [CLEOPATRA_EVENT_NOTIFICATION]
-这是埃及女王。
+Dies ist die Königin von Ägypten.
 
 [CLICK_TO_CONTINUE]
-点击继续游戏
+Klicke, um das Spiel fortzusetzen
 
 [CLICK_TO_RESUME]
-点击继续游戏
+Klicke, um das Spiel fortzusetzen
 
 [CLICK_TO_START]
-点击开始！
+Klicke, um zu starten!
 
 [COCONUTCANNON]
-椰子加农炮
+Kokosnusskanone
 
 [COCONUTCANNON_DESCRIPTION]
-{KEYWORD}用法：{STAT}点击开火
-{KEYWORD}范围：{STAT}直线
-{KEYWORD}特殊：{STAT}撞击目标后四面爆炸
-{KEYWORD}植物特征：{STAT}褐色植物、武器家族
-{FLAVOR}椰子加农炮不再年轻，却有着一头秀发，他依然活跃在最前线。至于秀发闪亮的原因，我们猜测大概是上了蜡了。
+{KEYWORD}Verwendung: {STAT}Klicken zum Abfeuern
+{KEYWORD}Reichweite: {STAT}Gerade Linie
+{KEYWORD}Spezial: {STAT}Explosion nach dem Auftreffen auf alle Seiten
+{KEYWORD}Pflanzenmerkmale: {STAT}Braune Pflanze, Waffenfamilie
+{FLAVOR}Kokosnusskanone ist nicht mehr jung, hat aber immer noch wunderschönes Haar. Er ist immer noch an vorderster Front aktiv. Was sein glänzendes Haar angeht, vermuten wir, dass es gewachst ist.
 
 [COCONUTCANNON_DESCRIPTION_HEADER]
-椰子加农炮可以把整条路线轰翻，造成中等威力的爆炸破坏。
+Kokosnusskanone kann die gesamte Route sprengen und mittleren Explosionsschaden verursachen.
 
 [COCONUTCANNON_PLANTFOOD]
-发射巨大的加农炮弹，被击中的僵尸会被推到草坪最右边并爆炸。
+Feuert eine riesige Kanonenkugel ab, und die getroffenen Zombies werden ganz nach rechts auf den Rasen geschleudert und explodieren.
 
 [COCONUTCANNON_TOOLTIP]
-点击加农炮发射会爆炸的椰子。
+Klicke auf die Kanone, um explodierende Kokosnüsse abzufeuern.
 
 [COIN_OFFERING1]
-500个金币！
+500 Münzen!
 
 [COIN_OFFERING2]
-1250个金币！
+1250 Münzen!
 
 [COIN_OFFERING3]
-7500个金币！
+7500 Münzen!
 
 [COIN_STORE]
-金币
+Münzen
 
 [STAMINA_STORE]
-补充体力
+Stärke deine Ausdauer.
 
 [COIN_STORE_TEXT]
-你需要更多金币。挑选如下金币包。
+Du brauchst mehr Münzen! Wähle aus den folgenden Münzpaketen.
 
 [COLLECT_PRIZES_BUTTON]
-收集
+Sammeln
 
 [COLOR_FLAVOR]
 ^oldclr^
@@ -6275,13 +6275,13 @@ Samenplatz +1
 Sofort auffüllen
 
 [UPGRADE_PF_REFRESH_INFO]
-Du kannst Dünger verwenden, um Samenpäckchen sofort nutzbar zu machen.
+Du kannst Spezialdünger verwenden, um Samenpäckchen sofort nutzbar zu machen.
 
 [UPGRADE_PF_SLOT]
-Dünger-platz erweitert
+Spezialdünger-platz erweitert
 
 [UPGRADE_PF_SLOT_DESCRIPTION]
-Behalte einen weitere Dünger in jedem Level!
+Behalte einen weitere Spezialdünger in jedem Level!
 
 
 [UPGRADE_PRICE]
@@ -32793,10 +32793,10 @@ Schrumpfveilchen
 射出的葡萄反弹次数增加两次
 
 [TACTICAL_CUKE]
-战术黄瓜
+Taktische Gurke
 
 [ARTIFACT_COMMON]
-神器
+Artefakte
 
 [ANNIVERSARY_CHALLENGE]
 冬日挑战
@@ -33769,7 +33769,7 @@ Meister der Kontrolle
 Meister der Magie
 
 [PLANT_FAMILY_NAME_50026]
-Blühend
+Der Wall
 
 [PLANT_FAMILY_NAME_50027]
 Sternzeichen
@@ -38553,7 +38553,7 @@ Abgrundwahnsinn
 Wächterpilze erzeugen nun stärkere Abgrundwächterpilze, verschlingen mittelgroße Zombies und befördern Zombies nach ihrem Tod in den Abgrund.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL1_DES]
-Wächterpilze können fliegende Zombies blockieren und direkt im Wasser und an Land gepflanzt werden. Wächterpilze lassen gelegentlich Wächterpilze fallen und können gewöhnliche Zombies und Wicht-Zombies fressen. Pflanzen können auf Wächterpilzen gepflanzt werden. Als Pilzpflanzen verleihen sie zusätzliche Stärkungseffekte. Wenn die darüberliegende Hauptpflanze eine Dünger Attacke auslöst, absorbiert der kleine Wächterpilz Energie und kann nach Abschluss der Dünger Attacke eine zweite Dünger Attacke ausführen.
+Wächterpilze können fliegende Zombies blockieren und direkt im Wasser und an Land gepflanzt werden. Wächterpilze lassen gelegentlich Wächterpilze fallen und können gewöhnliche Zombies und Wicht-Zombies fressen. Pflanzen können auf Wächterpilzen gepflanzt werden. Als Pilzpflanzen verleihen sie zusätzliche Stärkungseffekte. Wenn die darüberliegende Hauptpflanze eine Spezialdünger Attacke auslöst, absorbiert der kleine Wächterpilz Energie und kann nach Abschluss der Spezialdünger Attacke eine zweite Spezialdünger Attacke ausführen.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL2_DES]
 Die Verdauungszeit des kleinen Wächterpilzes wurde verkürzt; die Erhöhung des Sonnenlichtverbrauchs des Wächterpilzes wurde auf das 1,5-Fache reduziert.
@@ -38680,7 +38680,7 @@ Erbsenranken-Kostüm
 Erbsenranken-Kostüm
 
 [STORE_PRODUCT_AVATAR_PEAVINE]
-Die Dünger Fähigkeit bietet die Chance, verschiedene Erbsen abzufeuern.
+Die Spezialdünger Fähigkeit bietet die Chance, verschiedene Erbsen abzufeuern.
 
 [PEAVINE_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie rechts neben der Erbsenranke, feuert er Erbsenkugeln geradlinig auf ihn ab. Handelt es sich bei der Pflanze darüber um eine Erbsenpflanze, besteht eine Chance von 20 %, eine Kugelreplikation auszulösen, die Erbsenkugeln mit den Grundeigenschaften dieser Pflanze abfeuert.
@@ -40229,135 +40229,135 @@ Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hin
 不能在莲叶上种植水藤蔓
 
 [ICEWEED]
-寒冰地刺
+Eiskraut
 
 [ICEWEED_DESCRIPTION]
-{KEYWORD}范围：{STAT}自身所在格
-{KEYWORD}植物特征：{STAT}蓝色植物
-{FLAVOR} 被大联盟征召，寒冰地刺很兴奋，他迫不及待想要冷冻这些僵尸，並伤害他们。他执意要用“並”这个字。
+{KEYWORD}Reichweite: {STAT}Das Raster, in dem es sich befindet
+{KEYWORD}Pflanzenmerkmale: {STAT}Blaue Pflanze
+{FLAVOR}Das Eiskraut freut sich riesig, in die große Liga berufen zu werden. Er kann es kaum erwarten, diese Zombies einzufrieren und ihnen wehzutun. Er bestand darauf, das Wort „und“ zu verwenden.
 
 [ICEWEED_DESCRIPTION_HEADER]
-攻击所在格的僵尸，被寒冰地刺攻击的僵尸会进入冰霜减速状态
+Greift Zombies im Raster an, werden von Eiskraut angegriffene Zombies durch Frost verlangsamt.
 
 [ICEWEED_TOOLTIP]
-攻击所在格的僵尸，被寒冰地刺攻击的僵尸会进入冰霜减速状态
+Schaden und kühlen innerhalb eines Feldes.
 
 [ICEWEED_PRODUCT_SHORT_DESC]
-攻击所在格的僵尸，被寒冰地刺攻击的僵尸会进入冰霜减速状态
+Greift Zombies im Raster an, werden von Eiskraut angegriffene Zombies durch Frost verlangsamt.
 
 [ICEWEED_SKILL_LEVEL1]
-寒冷之刺
+Kalter Dorn
 
-[ICEWEED_SKILL_LEVEL1_DES]
-攻击时有20%的概率使僵尸进入2s冰冻状态
+[ICEWEED_S KILL_LEVEL1_DES]
+Beim Angriff besteht eine Chance von 20 % Zombies für 2 Sekunden einzufrieren.
 
 [ICEWEED_SKILL_LEVEL2]
-寒冷强化
+Kälteverstärkung
 
 [ICEWEED_SKILL_LEVEL2_DES]
-攻击时有40%的概率使僵尸进入2s冰冻状态
+Beim Angriff besteht eine Chance von 40 % Zombies für 2 Sekunden einzufrieren.
 
 [ICEWEED_SKILL_LEVEL5]
-寒冰地狱
+Eishölle
 
 [ICEWEED_SKILL_LEVEL5_DES]
-寒冰地刺的攻击范围扩大为十字范围，损失地刺时地刺发生一次爆炸，对伤害来源（巨人等）造成伤害以及一次冻结效果，同时对3*3范围内的僵尸造成少量伤害以及减速效果
+Die Angriffsreichweite der Eisstacheln wird auf eine Kreuzreichweite erweitert. Wenn die Stacheln verloren gehen, explodieren sie einmal und verursachen Schaden an der Schadensquelle (z. B. Riesen) sowie einen Gefriereffekt. Zombies im Umkreis von 3 x 3 Sekunden erleiden geringen Schaden und werden verlangsamt.
 
 [STORE_PRODUCT_AVATAR_ICEWEED_TITLE]
-寒冰地刺装扮
+Eiskraut-Kostüm
 
 [ICEWEED_AVATAR_NAME]
-寒冰地刺装扮
+Eiskraut-Kostüm
 
 [STORE_PRODUCT_AVATAR_ICEWEED]
-释放锯片后，向上下两行范围内额外发射两枚锯片，锯片对僵尸造成伤害和减速效果
+Nach dem Loslassen des Sägeblatts werden zwei weitere Sägeblätter in der oberen und unteren Linie abgefeuert, welche Zombies Schaden zufügen und sie verlangsamen.
 
-[ICEWEED_NEW_SKILL_LEVEL1_DES]
-攻击所在格的僵尸，被寒冰地刺攻击的僵尸会进入冰霜减速状态
+[ICEWEED_N EW_SKILL_LEVEL1_DES]
+Beim Angriff besteht eine Chance von 20 % Zombies für 2 Sekunden einzufrieren.
 
 [ICEWEED_NEW_SKILL_LEVEL2_DES]
-攻击时有20%的概率使僵尸进入2s冰冻状态
+Beim Angriff besteht eine Chance von 20 % Zombies für 2 Sekunden einzufrieren.
 
 [ICEWEED_NEW_SKILL_LEVEL3_DES]
-攻击时有40%的概率使僵尸进入2s冰冻状态
+Beim Angriff besteht eine Chance von 40 % Zombies für 2 Sekunden einzufrieren.
 
 [ICEWEED_NEW_SKILL_LEVEL4_DES]
-种植时有概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, die Spezialdünger Fähigkeit direkt auszulösen!
 
 [ICEWEED_NEW_SKILL_LEVEL5_DES]
-寒冰地刺的攻击范围扩大为十字范围，损失地刺时地刺发生一次爆炸，对伤害来源（巨人等）造成伤害以及一次冻结效果，同时对3*3范围内的僵尸造成少量伤害以及减速效果
+Die Angriffsreichweite der Eisstacheln wird auf eine Kreuzreichweite erweitert. Wenn die Stacheln verloren gehen, explodieren sie und verursachen Schaden an der Schadensquelle (z. B. Ein Gargantuar) sowie einen Gefriereffekt. Gleichzeitig verursacht es geringen Schaden und verlangsamt die Zombies im 3x3-Bereich.
 
 [ICEWEED_PLANTFOOD_DESCRIPTION]
-将本行的僵尸吸到本行所在区域，后生成一把锯片，击退本行中所有的僵尸至最后一行，并让僵尸冻结2s。同时将自身的刺增加至4根，在第四根刺存在时增加伤害，被攻击时优先损失第四根刺，第四根刺损失后失去伤害增加状态
+Saugt die Zombies dieser Reihe in den Bereich, in dem sich diese Reihe befindet, erzeugt dann ein Sägeblatt, stößt alle Zombies dieser Reihe bis zur letzten Reihe zurück und friert sie 2 Sekunden lang ein. Gleichzeitig erhöht es die Anzahl seiner eigenen Stacheln auf 4, erhöht den Schaden, sobald der vierte Stachel vorhanden ist, und priorisiert den Verlust des vierten Stachels bei einem Angriff. Nach dem Verlust des vierten Stachels erlischt die Schadenserhöhung.
 
 [ICEWEED_AVATAR_PLANTFOOD_DESCRIPTION]
-释放锯片后，向上下两行范围内额外发射两枚锯片，锯片对僵尸造成伤害和减速效果
+Nach dem Loslassen des Sägeblatts werden zwei weitere Sägeblätter in der oberen und unteren Reihe abgefeuert. Die Sägeblätter verursachen Schaden und verlangsamen die Zombies.
 
 [BUBBLECORAL]
-泡泡姬珊瑚
+
 
 [BUBBLECORAL_DESCRIPTION]
-{KEYWORD}范围：{STAT}整行
-{KEYWORD}特点：{STAT}点击切换不同形态
-{KEYWORD}植物特征：{STAT}粉色植物
-{FLAVOR}“笨...笨蛋，你一直点没法攻击了啦！”泡泡姬珊瑚生气的说，“真拿你没办法，哼！”
+{KEYWORD}Reichweite: {STAT}Gesamte Zeile
+{KEYWORD}Merkmale: {STAT}Klicken, um zwischen verschiedenen Formen zu wechseln
+{KEYWORD}Pflanzenmerkmale: {STAT}Rosa Pflanze
+{FLAVOR}„Dummkopf … Dummkopf!, du kannst nicht angreifen, wenn du ständig klickst!“, sagte die Blasenkoralle wütend. „Ich kann nichts mit dir anfangen!“
 
 [BUBBLECORAL_DESCRIPTION_HEADER]
-可以发射不同功能的泡泡进行攻击，对前方僵尸造成伤害
+Du kannst Blasen mit verschiedenen Funktionen abfeuern, um die Zombies vor dir anzugreifen und ihnen Schaden zuzufügen.
 
 [BUBBLECORAL_TOOLTIP]
-可以发射不同功能的泡泡进行攻击，对前方僵尸造成伤害
+Kann Blasen mit verschiedenen Funktionen abfeuern, um die Zombies vor sich anzugreifen.
 
 [BUBBLECORAL_PRODUCT_SHORT_DESC]
-可以发射不同功能的泡泡进行攻击，对前方僵尸造成伤害
+Kann Blasen mit verschiedenen Funktionen abfeuern, um die Zombies vor sich anzugreifen.
 
 [BUBBLECORAL_SKILL_LEVEL1]
-更多泡泡
+Mehr Blasen
 
 [BUBBLECORAL_SKILL_LEVEL1_DES]
-大泡泡造成伤害提升25%，中泡泡攻击速度增加25%，小泡泡发射数量增加至20颗
+Der Schaden großer Blasen erhöht sich um 25 %, die Angriffsgeschwindigkeit mittlerer Blasen um 25 % und die Anzahl kleiner Blasen steigt auf 20.
 
 [BUBBLECORAL_SKILL_LEVEL2]
-超多泡泡
+Noch Mehr Blasen
 
 [BUBBLECORAL_SKILL_LEVEL2_DES]
-大泡泡造成伤害提升50%，中泡泡攻击速度增加50%，小泡泡发射数量增加至25颗
+Der Schaden großer Blasen erhöht sich um 50 %, die Die Angriffsgeschwindigkeit mittlerer Blasen erhöht sich um 50 %, und die Anzahl der abgefeuerten kleinen Blasen steigt auf 25.
 
 [BUBBLECORAL_SKILL_LEVEL5]
-酸液泡泡
+Säureblasen
 
 [BUBBLECORAL_SKILL_LEVEL5_DES]
-发射的泡泡50%的概率为酸液泡泡。酸液泡泡对防具伤害增加，中泡泡和大泡泡爆炸后还会在地上留下酸液地表持续对僵尸造成伤害。
+Die abgefeuerten Blasen sind mit einer Wahrscheinlichkeit von 50 % Säureblasen. Säureblasen erhöhen den Schaden an Rüstungen. Mittlere und große Blasen hinterlassen nach der Explosion Säure auf dem Boden, die Zombies weiterhin Schaden zufügt.
 
 [BUBBLECORAL_AVATAR_NAME]
-泡泡姬珊瑚装扮
+Blasenkorallenkleid
 
 [STORE_PRODUCT_AVATAR_BUBBLECORAL]
-炸开生成更多的泡泡
+Macht eine Explosion, um mehr Blasen zu erzeugen.
 
 [STORE_PRODUCT_AVATAR_BUBBLECORAL_TITLE]
-泡泡姬珊瑚装扮
+Blasenkorallenkleid
 
 [BUBBLECORAL_NEW_SKILL_LEVEL1_DES]
-泡泡姬珊瑚可以发射三种不同功能的泡泡进行攻击，发射的泡泡可以对僵尸造成伤害。点击泡泡姬珊瑚即可切换不同攻击形态。
+Blasenkoralle kann drei verschiedene Blasen zum Angriff abfeuern, die Zombies Schaden zufügen können. Klicke auf Blasenkoralle, um zwischen verschiedenen Angriffsformen zu wechseln.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL2_DES]
-大泡泡造成伤害提升25%，中泡泡攻击速度增加25%，小泡泡发射数量增加至20颗
+Der Schaden großer Blasen erhöht sich um 25 %, die Angriffsgeschwindigkeit mittlerer Blasen um 25 % und die Anzahl der abgefeuerten kleinen Blasen auf 20.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL3_DES]
-大泡泡造成伤害提升50%，中泡泡攻击速度增加50%，小泡泡发射数量增加至25颗
+Der Schaden großer Blasen erhöht sich um 50 %, die Angriffsgeschwindigkeit mittlerer Blasen um 50 % und die Anzahl der abgefeuerten kleinen Blasen auf 25.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Energiebohnen direkt freizusetzen.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL5_DES]
-发射的泡泡50%的概率为酸液泡泡。酸液泡泡对防具伤害增加，中泡泡和大泡泡爆炸后还会在地上留下酸液地表持续对僵尸造成伤害。
+Es besteht eine 50-prozentige Chance, dass es sich bei den abgefeuerten Blasen um Säureblasen handelt. Säureblasen erhöhen den Schaden an der Rüstung. Mittlere und große Blasen hinterlassen nach der Explosion Säure auf dem Boden, die Zombies kontinuierlich Schaden zufügt.
 
 [BUBBLECORAL_PLANTFOOD_DESCRIPTION]
-吹出一个超大的泡泡，炸开后分散出超多泡泡
+Bläht eine riesige Blase, die in viele Blasen zerplatzt.
 
 [BUBBLECORAL_AVATAR_PLANTFOOD_DESCRIPTION]
-大招产生更多的泡泡
+Die Spezialdünger Fähigkeit rzeugt mehr Blasen.
 
 [PAPHIOPEDILUM]
 百宝兜兰
@@ -42318,7 +42318,7 @@ Erbsenapothekerin-Kostüm
 Erbsenapothekerin-Kostüm
 
 [STORE_PRODUCT_AVATAR_BEANCHEMIST]
-Die Dünger Fähigkeit verwandelt Zombies in Schattenerbsen.
+Die Spezialdünger Fähigkeit verwandelt Zombies in Schattenerbsen.
 
 [IMPATIENSSHOOTER]
 Fleißiges Lieschen Schützin
@@ -42465,7 +42465,7 @@ Beim Angriff besteht die Chance, bunte magische Federn abzufeuern, die automatis
 Prinzessin-Bohnen-Outfit
 
 [STORE_PRODUCT_AVATAR_SPRINGPRINCESS]
-Die durch den Dünger ausgelösten Federn können weiter zurückschlagen und mehr Schaden verursachen.
+Die durch den Spezialdünger ausgelösten Federn können weiter zurückschlagen und mehr Schaden verursachen.
 
 [ORCHIDMAGE]
 Orchideen-Magierin
@@ -42836,10 +42836,10 @@ Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +1.
 Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +2
 
 [BUDUHBOOM_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Dünger-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Attacke.
 
 [BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Dünger-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Attacke.
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]
 Explodierender Jadetau-Outfit
@@ -43741,7 +43741,7 @@ Kann den oberen und unteren Reihen kontinuierlichen Schaden zufügen.
 {FLAVOR} Passionsblume strebt danach, Ingenieurin zu werden, kann aber bisher nur Zahnräder herstellen.
 
 [PASSIONFLOWER_TOOLTIP]
-Schießt Zahnräder ab, um den Zombies in Reichweite kontinuierlichen Schaden zuzufügen.
+Schießt Zahnräder ab, um den Zombies kontinuierlichen Schaden zuzufügen.
 
 [PASSIONFLOWER_SKILL_LEVEL1]
 Mechanischer Experte
@@ -45814,13 +45814,13 @@ Nächste Ziehung:
 优惠码已被使用
 
 [PLANT_LEVEL_UP_BOOK]
-Fortschritt im Buch
+Buch verwenden
 
 [PLANT_LEVEL_UP_GENERAL_CHIPS]
-Fortschrittliche Universalfragmente
+Universalfragmente verwenden
 
 [PLANT_UNLOCK_SKILL]
-Fähigkeiten erwerben
+Fähigkeit erlernen
 
 [PLANT_UNLOCK_CONSUME]
 Fortschrittlicher Verbrauch
@@ -52551,7 +52551,7 @@ Gesamtstärke der Zombies
 Pflanzen-Upgrade
 
 [TOOL_PACKET_TOOL_RIFT_PLANTFOOD]
-Energiebohnen
+Spezialdünger
 
 [TOOL_PACKET_TOOL_RIFT_ARTIFACT]
 Artefakt-Verwendungs Anzahl
@@ -52682,7 +52682,7 @@ Schattenvergiftet
 Einfrieren
 
 [HASPLANTFOOD]
-Hat Dünger
+Hat Spezialdünger
 
 [MORPHEDTOGARGANTUAR]
 Transformiert zum Gargantuar
@@ -66434,7 +66434,7 @@ FPS：{NUM}
 重新匹配
 
 [NEW_PLANT_UI_LEVEL_UP_BTN_TEXT]
-Fortgeschritten
+Aufstufen
 
 [NEW_PLANT_UI_VALUE_DETAIL_BTN_TEXT]
 Detaillierte Attribute
