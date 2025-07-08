@@ -9904,107 +9904,107 @@ UC至尊大礼包
     全新功夫植物，全新玩法闪亮登场！和戴夫一起种下植物，体验全新的游戏欢乐吧！ 
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
-选择了旧进度
+Alter Fortschritt ausgewählt
 
 [SUMMARY_USE_OLDER_DATA_BODY]
-您将用一个旧的进度覆盖一个新的进度，您确定要这么做么？
+Sie sind dabei, einen neuen Fortschritt mit einem alten zu überschreiben. Möchten Sie das wirklich tun?
 
 [SUMMARY_TITLE]
-本地和云端的进度不同
+Lokaler und Cloud-Fortschritt unterscheiden sich.
 
 [SUMMARY_NOTICE]
-提示
+Tipp
 
 [SUMMARY_CLOUD]
-云端进度
+Cloud-Fortschritt
 
 [SUMMARY_UPLOAD_OK]
-进度已上传成功
+Fortschritt erfolgreich hochgeladen.
 
 [SUMMARY_DOWNLOADING]
-和云端通讯中
+Kommunikation mit der Cloud läuft.
 
 [SUMMARY_LOCAL]
-本地进度
+Lokaler Fortschritt
 
 [SUMMARY_NEWER_DATA_RECOMMENDATION]
-（进度较新推荐）
+(Empfohlen für neuere Fortschritte)
 
 [SUMMARY_USE_CLOUD]
-使用云端进度
+Cloud-Fortschritt verwenden
 
 [SUMMARY_USE_LOCAL]
-使用本地进度
+Lokalen Fortschritt verwenden
 
 [SUMMARY_START]
-开始游戏
+Spiel starten
 
-[SUMMARY_STAR]
-资源信息
+[SUMMARY_ST AR]
+Ressourceninformationen
 
 [SUMMARY_LEVEL]
-关卡进度
+Level-Fortschritt
 
 [COIN_NUM_TITLE]
-金币数量
+Münzen
 
 [HOW_MANY_COINS]
-{COIN_COUNT}枚
+{COIN_COUNT}
 
 [GEM_NUM_TITLE]
-钻石数量
+Diamanten
 
 [PLANT_NUM_TITLE]
-植物数量
+Pflanzen
 
 [AVATAR_NUM_TITLE]
-装扮数量
+Kostüme
 
 [HOW_MANY_GEMS]
-{GEM_COUNT}颗
+{GEM_COUNT}
 
 [SUMMARY_DAYS]
-第{DAY_COUNT}天
+{DAY_COUNT} Tag
 
 [SUMMARY_STAR_AMOUNT]
-{STAR_COUNT}颗
+{STAR_COUNT}
 
 [SUMMARY_LAST_TIME]
-{MONTH}/{DAY}   {HOUR}:{MIN}
+{MONTH}/{DAY} {HOUR}:{MIN}
 
 [CARD_GAME_AREA_STAR_NOT_ENOUGH]
-该卡牌章节的专属星星不足，需要{NUM}个星星
+Dieses Kartenkapitel hat nicht genügend exklusive Sterne und benötigt {NUM} Sterne.
 
 [CARD_GAME_AREA_STORE]
-星级奖励
+Sterne-Belohnungen
 
 [CARD_GAME_AREA_STORE_TIP]
-通关关卡并完成挑战任务积累星星，兑换植物等奖励！
+Level abschließen und abschließen Erfülle anspruchsvolle Aufgaben, um Sterne zu sammeln und Belohnungen wie Pflanzen einzulösen!
 
 [SECRET_AREA_STAR_NOT_ENOUGH]
-该秘境章节的专属徽章不足，需要{NUM}个徽章
+Dieses geheime Reich-Kapitel hat nicht genügend exklusive Abzeichen und benötigt {NUM} Abzeichen.
 
 [SECRET_AREA_STORE]
-秘境奖励
+Belohnungen des geheimen Reichs
 
 [SECRET_AREA_STORE_TIP]
-达成困难挑战累计该章节的专属徽章，兑换植物或藏品奖励！
+Schließe schwierige Herausforderungen ab, um exklusive Abzeichen für dieses Kapitel zu sammeln und Pflanzen oder Sammlungsbelohnungen einzulösen!
 
 [NETWORK_NOT_CONNECTED_TEXT_FOR_SYNC_PLAYERINFO]
-请正确设置你的网络，以保证游戏能正常使用云存档服务。
+Bitte richte dein Internet Netzwerk korrekt ein, damit das Spiel den Cloud-Archivdienst normal nutzen kann.
 
 [NETWORK_NOT_CONNECTED_DANGERROOM_UPLOAD_FAILED]
-网络连接失败，以至于无法将您的无尽模式分数上传。
-请修复网络并重新进入无尽模式，在排行榜处会重新上传分数。
+Die Netzwerkverbindung ist fehlgeschlagen, daher kann dein Endlosmodus-Punktestand nicht hochgeladen werden.
+Bitte repariere das Netzwerk und starte den Endlosmodus erneut. Dein Punktestand wird dann erneut in die Bestenliste hochgeladen.
 
 [VERSION_LIMIT_ERROR_TITLE]
-版本错误
+Versionsfehler
 
 [VERSION_LIMIT_ERROR_MSG]
-请前往App Store下载正式版本进行游戏
+Bitte besuche deinen App Store, um die offizielle Version herunterzuladen und das Spiel zu spielen.
 
 [DANGERROOM_CLOSED_TITLE]
-无法开始
+Start nicht möglich
 
 [DANGERROOM_CLOSED]
 可能是网络故障，或者无尽模式已经结束
