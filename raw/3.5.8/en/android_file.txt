@@ -72203,114 +72203,115 @@ Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken näh
 [HOCUSCROCUS_AVATAR_PLANTFOOD_DESCRIPTION]
 魔法番红花同时对场上最近的3个僵尸发射光线并在3个僵尸所在位置生成橙黄色迷雾，范围内的僵尸都会受到缩小效果影响，迷雾持续时间^ff0000^为6s。^oldclr^
 
-
 [SPRINGPRINCESS_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在公主弹簧草右侧时。公主弹簧草会将头上的卷发当作弹簧发射出去，对撞到的第一个僵尸造成伤害，随后随机弹到该僵尸周围一格，形成一个小弹簧，对第一个踩上去的僵尸造成一次击退1格的效果。不会影响植物种植，只会被僵尸触发。
+Wenn ein Zombie rechts von Prinzessin Frühlingsgras erscheint, nutzt Prinzessin Frühlingsgras ihr lockiges Haar als Feder, um dem ersten getroffenen Zombie Schaden zuzufügen. Anschließend springt sie zufällig auf ein Gitter um den Zombie herum und bildet eine kleine Feder, die dem ersten Zombie, der darauf tritt, einen Rückstoßeffekt von einem Gitter verursacht. Der Effekt hat keinen Einfluss auf das Pflanzen und wird nur von Zombies ausgelöst.
+
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL2_DES]
-公主弹簧草发射的弹簧得到了强化，击退距离提升了0.5格。
+Die von Prinzessin Frühlingsgras abgefeuerten Federn wurden verstärkt und die Rückstoßdistanz um 0,5 Gitter erhöht.
+
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL3_DES]
-公主弹簧草发射的弹簧得到了强化，击退距离提升了1格。
+Die von Prinzessin Frühlingsgras abgefeuerten Federn wurden verstärkt und die Rückstoßdistanz um ein Gitter erhöht.
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL5_DES]
-攻击时有25%概率射出彩色的魔法弹簧,魔法弹簧落在第一个僵尸脚底后将其击退，随后会自动寻找最近的一个僵尸弹到其脚下将其击退，重复此行为击退4个僵尸后消失。
+Beim Angriff besteht eine 25%ige Chance, bunte magische Federn abzufeuern. Diese Federn stoßen den ersten Zombie zurück, nachdem sie auf ihm gelandet sind. Anschließend findet er automatisch den nächsten Zombie und springt auf, um ihn zurückzustoßen. Wiederhole diesen Vorgang, nachdem du 4 Zombies zurückgestoßen hast und verschwunden bist.
 
 [SPRINGPRINCESS_PLANTFOOD_DESCRIPTION]
-公主弹簧草向全场每个僵尸脚下射出一个弹簧，弹簧可将僵尸击退1格，击退时造成伤害。
+Die Prinzess Bohne schießt eine Feder unter die Füße jeden Zombies's auf dem Feld. Die Feder kann die Zombies um ein Feld zurückstoßen und beim Zurückstoßen Schaden verursachen.
 
 [SPRINGPRINCESS_AVATAR_PLANTFOOD_DESCRIPTION]
-公主弹簧草向全场每个僵尸脚下射出一个弹簧，^ff0000^弹簧可将僵尸击退2格，击退时造成更高伤害。^oldclr^
+Die Prinzess Bohne schießt jedem Zombie auf dem Feld eine Feder unter die Füße. ^ff0000^ Die Feder kann die Zombies um 2 Felder zurückstoßen und verursacht dabei höheren Schaden. ^oldclr^
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在右侧时，会发射钻头子弹持续对穿过的僵尸造成每秒100点伤害。钻头子弹在穿过僵尸时自身和僵尸移动速度都会变慢，在钻了3秒后子弹过热爆炸，对当前僵尸造成30点伤害。对僵尸方障碍物攻击力翻倍！
+Wenn rechts ein Zombie erscheint, feuert er Bohrgeschosse ab, die den Zombies, die ihn durchdringen, kontinuierlich 100 Schadenspunkte pro Sekunde zufügen. Beim Bohren durch Zombies verlangsamt das Bohrgeschoss die Bewegungsgeschwindigkeit des Geschosses und der Zombies. Nach 3 Sekunden Bohrzeit überhitzt das Geschoß und explodiert, was dem aktuellen Zombie 30 Schadenspunkte zufügt. Verdoppelt die Angriffskraft gegen Zombiehindernisse!
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL2_DES]
-钻头子弹的旋转能力加强，在钻了4秒后才会过热爆炸。
+Die Rotationsfähigkeit des Bohrgeschosses wurde verbessert. Nach 4 Sekunden Bohrzeit überhitzt es und explodiert.
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL3_DES]
-保持旋转的技能效果提升100%，在钻了5秒后才会过热爆炸。
+Der Effekt der Fähigkeit, sich weiter zu drehen, wurde um 100 % erhöht. Nach 5 Sekunden Bohrzeit überhitzt es und explodiert.
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einsetzen besteht die Chance, die Energiebohne direkt auszulösen!
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL5_DES]
-突击竹兵发射的子弹升级成更大的钻头子弹，钻头持续时间结束时，最终的爆炸变成单格范围的爆炸。
+Die von den Angriffsbambussoldaten abgefeuerten Geschosse werden zu größeren Bohrgeschossen aufgewertet. Nach Ablauf der Bohrzeit wird die letzte Explosion zu einer Einzelgitterexplosion.
 
 [RIFLEBAMBOO_PLANTFOOD_DESCRIPTION]
-突击竹兵立即向右侧三行分别发射1发巨大的钻头子弹，对穿过的僵尸造成伤害和减速，并在爆炸时造成高额的单格范围伤害。
+Der Angriffsbambussoldat feuert sofort ein riesiges Bohrgeschoss auf jede der drei Reihen rechts ab. Es beschädigt und verlangsamt Zombies, die hindurchgehen, und verursacht bei der Explosion hohen Flächenschaden im Einzelgitter.
 
 [RIFLEBAMBOO_AVATAR_PLANTFOOD_DESCRIPTION]
-突击竹兵立即向右侧三行分别发射1发巨大的钻头子弹，对穿过的僵尸造成伤害和^ff0000^更强的减速^oldclr^，并在爆炸时^ff0000^造成更高的单格范围伤害并^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^2秒。^oldclr^
+Der Angriffsbambussoldat feuert sofort ein riesiges Bohrgeschoss auf jede der drei Reihen rechts ab. Es beschädigt und verlangsamt Zombies, die hindurchgehen, und verursacht bei der Explosion hohen Flächenschaden im Einzelgitter. ^ff0000^höheren Flächenschaden im Einzelgitter und^oldclr^^848484^Betäubung für Ⅰ^oldclr^^ff000^2 Sekunden. ^oldclr^
 
 [BUTTERCUP_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在黄油毛茛右侧时，黄油毛茛会制造一块黄油向前方甩动，甩到僵尸身上并且在地上留下一个黄油坑，僵尸踩到黄油坑时会受到攻击力伤害同时黄油坑消失，黄油坑持续一段时间没有被僵尸踩会消失。
+Wenn ein Zombie rechts von Butter Buttercup erscheint, erzeugt Butter Buttercup ein Stück Butter, schwingt es nach vorne und wirft es dem Zombie zu. Ein Butterkern bleibt auf dem Boden zurück. Tritt der Zombie auf den Butterkern, wird er durch die Angriffskraft beschädigt, und der Butterkern verschwindet. Der Butterkern verschwindet nach einer gewissen Zeit, wenn kein Zombie darauf tritt.
 
 [BUTTERCUP_NEW_SKILL_LEVEL2_DES]
-制造出更大块的黄油，掉落时黄油坑的厚度增加，2个僵尸踩到后消失。
+Erzeugt ein größeres Butterstück. Wenn es fällt, wird der Kern dicker. Er verschwindet, sobald zwei Zombies darauf treten.
 
 [BUTTERCUP_NEW_SKILL_LEVEL3_DES]
-制造出更大块的黄油，黄油掉落时黄油坑的厚度增加，3个僵尸踩到后消失。
+Erzeugt ein größeres Butterstück. Wenn die Butter fällt, wird der Kern dicker. Er verschwindet, sobald drei Zombies darauf treten.
 
 [BUTTERCUP_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger Fähigkeit direkt auszulösen!
 
 [BUTTERCUP_NEW_SKILL_LEVEL5_DES]
-攻击时必定额外扔出3个9号黄油，优先攻击右侧3x3范围内最左的僵尸。
+Beim Angriff wirft die Butterblume drei zusätzliche Butterkugeln der Größe 9 und greift vorrangig den Zombie ganz links im 3x3-Bereich rechts an.
 
 [BUTTERCUP_PLANTFOOD_DESCRIPTION]
-黄油毛茛丢出多块黄油，黄油落地造成3行的黄油坑，被砸到的僵尸造成伤害并且当僵尸走上黄油坑时也会被黄油定身，黄油坑在对下一个僵尸造成一次伤害并糊上一次黄油时消失。
+Butterblume wirft mehrere Butterkugeln, die drei Reihen Buttergruben auf dem Boden hinterlassen. Zombies, die von der Butter getroffen werden, erleiden Schaden und werden eingebuttert, wenn sie die Buttergrube betreten. Die Buttergrube verschwindet, nachdem sie den nächsten Zombie einmal verletzt hat und mit Butter bedeckt ist.
 
 [BUTTERCUP_AVATAR_PLANTFOOD_DESCRIPTION]
-黄油毛茛丢出多块黄油，黄油落地^ff0000^造成3行混入蛋糕和蜡烛的黄油坑^oldclr^，被砸到的僵尸造成伤害并且当僵尸走上黄油坑时也会被黄油定身，黄油坑对踩上它的^ff0000^下2个僵尸各造成一次伤害并糊上一次黄油后消失。^oldclr^
+Buttercup wirft mehrere Butterstücke, die drei Reihen Buttergruben mit Kuchen und Kerzen auf dem Boden bilden^ff0000^. Die von der Butter getroffenen Zombies erleiden Schaden und werden bewegungsunfähig, wenn sie die Buttergrube betreten. Die Buttergrube fügt den nächsten beiden Zombies^ff0000^, die einmal darauf treten, Schaden zu und wird einmal mit Butter bedeckt, bevor sie verschwindet. ^oldclr^
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在右侧2格内时，会甩出流星锤对所有僵尸造成伤害。不攻击时会旋转流星锤进行蓄力，10秒后蓄力完成，攻击范围变为右侧2格扇形范围，对单体僵尸击退并造成200点倍伤害。如果僵尸击退过程中撞到另一个僵尸则一起在原地^848484^眩晕Ⅰ^oldclr^3秒并再次受到伤害。
+Wenn ein Zombie innerhalb von zwei Feldern rechts erscheint, wirft er einen Meteorhammer, der alle Zombies verletzt. Wenn er nicht angreift, dreht er den Meteorhammer und lädt ihn auf. Nach 10 Sekunden ist der Ladevorgang abgeschlossen und die Angriffsreichweite beträgt zwei Felder rechts. Er stößt einen einzelnen Zombie ab und verursacht 200-fachen Schaden. Trifft ein Zombie während des Abstoßungsvorgangs einen anderen Zombie, wird dieser an derselben Stelle für ^848484^3 Sekunden betäubt und erleidet erneut Schaden.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL2_DES]
-刺果流星锤蓄力速度加快，持续9秒旋转流星锤就可以完成蓄力。
+Die Ladegeschwindigkeit des Dornigen Meteorhammers wird erhöht. Das Drehen des Meteorhammers dauert 9 Sekunden, um den Ladevorgang abzuschließen.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL3_DES]
-快速蓄力的技能效果提升100%，持续8秒旋转流星锤就可以完成蓄力。
+Die Wirkung der Fertigkeit „Schnelles Laden“ wird um 100 % erhöht. Das Drehen des Meteorhammers dauert 8 Sekunden, um den Ladevorgang abzuschließen.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL5_DES]
-蓄力攻击甩出的流星锤变为3颗刺果组合在一起的分裂流星锤，能对小范围内至多3个僵尸造成蓄力攻击。
+Der durch den Angriff abgefeuerte Meteorhammer verwandelt sich in einen gespaltenen Meteorhammer aus drei Dornfrüchten, der einen Angriff auf bis zu drei Zombies in geringer Reichweite ausführen kann.
 
 [BYTTNERIAMETEORHAMMER_PLANTFOOD_DESCRIPTION]
-刺果流星锤转动流星锤完成蓄力并重击右侧1格，对右侧2格扇形范围的所有僵尸造成冲击波伤害并击退1格。
+Der Dornfrucht-Meteorhammer dreht den Meteorhammer, um den Angriff abzuschließen, und trifft die rechte Seite ein Feld weit. Dadurch verursacht er Schockwellenschaden bei allen Zombies im fächerförmigen Bereich von zwei Feldern rechts und stößt sie ein Feld weit zurück.
 
 [BYTTNERIAMETEORHAMMER_AVATAR_PLANTFOOD_DESCRIPTION]
-刺果流星锤转动流星锤完成蓄力并重击右侧1格，对右侧2格扇形范围的所有僵尸造成^ff0000^更高的冲击波伤害^oldclr^并击退1格。
+Die Burrberry-Bolas rotieren, greifen an und treffen ein Feld weiter rechts. Sie verursachen ^ff0000^ höheren Schockwellenschaden^oldclr^ bei allen Zombies in einem fächerförmigen Bereich von zwei Feldern rechts und stoßen sie ein Feld zurück.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在僵尸豆荚右侧时，僵尸豆荚开始长大并在裂开后召唤出豆腐僵尸，豆腐僵尸会向右前进并啃食僵尸。
+Wenn ein Zombie rechts von der Zombiekapsel erscheint, beginnt diese zu wachsen und beschwört nach ihrer Spaltung einen Tofu-Zombie. Der Tofu-Zombie bewegt sich nach rechts und frisst den Zombie.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL2_DES]
-僵尸豆荚有50%的概率生产出胡萝卜帽僵尸。
+Die Zombiekapsel hat eine 50%ige Chance, einen Karottenhut-Zombie hervorzubringen.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL3_DES]
-僵尸豆荚有35%的概率生产出胡萝卜帽僵尸，有35%的概率生产出西瓜帽僵尸。
+Die Zombiekapsel hat eine 35%ige Chance, einen Karottenhut-Zombie und eine 35%ige Chance, einen Wassermelonenhut-Zombie zu produzieren.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt auszulösen!
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL5_DES]
-僵尸豆荚生产僵尸时有15%的概率生产出机枪僵尸，机枪僵尸可以发射豌豆进行远程攻击。
+Wenn die Zombiekapsel Zombies produziert, besteht eine 15%ige Chance, einen Maschinengewehr-Zombie zu produzieren, der Erbsen für Angriffe aus großer Entfernung verschießen kann.
 
 [ZOYBEANPOD_PLANTFOOD_DESCRIPTION]
-豆荚长大后裂开走出巨人豆腐僵尸，巨人豆腐僵尸敲击敌方僵尸。
+Wenn die Kapsel wächst, bricht sie auf und ein riesiger Tofu-Zombie kommt heraus. Der riesige Tofu-Zombie trifft den gegnerischen Zombie.
 
 [ZOYBEANPOD_AVATAR_PLANTFOOD_DESCRIPTION]
-豆荚长大后裂开走出巨人豆腐僵尸，^ff0000^豆腐僵尸手持长毛的萝卜，同时敲击的敌方僵尸有3秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^。^oldclr^
+Wenn die Kapsel wächst, bricht sie auf und ein riesiger Tofu-Zombie kommt heraus. ^ff0000^ Der Tofu-Zombie hält eine haarige Karotte in der Hand und trifft den gegnerischen Zombie 3 Sekunden lang. ^oldclr^^848484^BetäubungⅠ^oldclr^^ff000^. ^oldclr^
 
 [CROWNFLOWER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在右侧时，会发射出激光对僵尸持续造成每秒伤害。激光伤害随攻击时间持续增加，2秒后增加至3倍，再过5秒后增加至6倍。每次攻击会以当前最右侧的植物为目标，但会被大型僵尸或机械僵尸阻挡，激光的每秒总伤不变，会在穿透僵尸时衰减。
+Wenn rechts ein Zombie erscheint, feuert dieser einen Laser ab, der dem Zombie pro Sekunde kontinuierlich Schaden zufügt. Der Laserschaden erhöht sich mit der Angriffszeit, nach 2 Sekunden auf das Dreifache und nach weiteren 5 Sekunden auf das Sechsfache. Jeder Angriff zielt auf die Pflanze ganz rechts, wird aber von großen Zombies oder mechanischen Zombies abgewehrt. Der Gesamtschaden pro Sekunde des Lasers bleibt unverändert und nimmt beim Eindringen in den Zombie ab.
 
 [CROWNFLOWER_NEW_SKILL_LEVEL2_DES]
 第三阶段激光下再持续攻击5秒后会进入高能状态，高能状态下攻击会直接从第三阶段激光开始发射。高能状态可在未攻击时保留5秒。
@@ -75864,6 +75865,9 @@ DJ芦荟
 下个金钟罩充能还剩{NUM}秒
 
 [PVZ2_CHINESE_END]
+
+
+
 
 
 
