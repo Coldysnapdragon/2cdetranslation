@@ -136,57 +136,56 @@
 哇！航海家！！
 
 [ADVICE_ALMANAC_FROM_PLANTS]
-点击地图上的植物也可进入图鉴
+Klicke auf die Pflanzen auf der Karte, um die Illustration zu öffnen.
 
 [ADVICE_BOUGHT_PLANTFOOD]
-记得储备能量豆，以防万一！
+Denk daran, dir vorsichtshalber Energiebohnen zuzulegen!
 
 [ADVICE_BUY_PLANTFOOD]
-使用钻石购买更多的能量豆！
+Kaufe mit Diamanten mehr Energiebohnen!
 
 [ADVICE_CANT_PLANT_THERE]
-你不能种在那里
+Dort kannst du nicht pflanzen.
 
 [ADVICE_CANT_SHOVEL_THERE]
-你不能在那里铲除植物！
+Dort kannst du keine Pflanzen schaufeln!
 
 [ADVICE_CANT_APPLY_PLANTFOOD_THERE]
-你不能在那里释放能量豆！
+Dort kannst du keine Energiebohnen freigeben!
 
 [ADVICE_CLICK_COIN]
-点击金币进行收集！
+Klicke auf die Münzen, um sie einzusammeln!
 
 [ADVICE_CLICK_KEY]
-点击钥匙拾取！
+Klicke auf den Schlüssel, um ihn aufzuheben!
 
 [ADVICE_CLICK_ON_GRASS]
-将卡片拖放到草地上！
+Ziehe die Karten per Drag & Drop auf das Gras!
 
 [ADVICE_CLICK_PEASHOOTER]
-拖动并种植另一棵豌豆射手！
+Ziehe und pflanze eine weitere Erbsenkanone!
 
 [ADVICE_TILE_PLANTS_ON_TILES]
-该植物不能种植在能量格上!
+Diese Pflanze kann nicht auf einem Stromnetz gepflanzt werden!
 
 [ADVICE_CLICK_PLANT]
-将铲子拖到植物上，将其挖掉！
+Ziehe die Schaufel über eine Pflanze, um sie auszugraben!
 
 [ADVICE_CLICK_SEED_PACKET]
-点击并按住豌豆射手卡片
+Tippe und halte die Erbsenkanonen-Karte.
 
 [ADVICE_CLICK_SHOVEL]
-那些植物挡道了！
-使用铲子移除它们！
+Diese Pflanzen sind im Weg!
+Benutze die Schaufel, um sie zu entfernen!
 
 [ADVICE_COLLECT_COINS]
-收集金币，这是很有用的资源！
+Sammle Münzen, sie sind eine nützliche Ressource!
 
 [ADVICE_COLLECT_KEYS]
-我很好奇这玩意儿能用来打开什么家伙！
+Ich frage mich, was dieses Ding alles freischalten kann!
 
 [ADVICE_COLLECT_PLANT]
-点击植物将其添至
-你的植物收藏中！
+Tippe auf eine Pflanze, um sie deiner Pflanzensammlung hinzuzufügen!
 
 [ADVICE_COLLECT_SUN]
 点击下落的阳光来收集它们！
@@ -226,75 +225,71 @@
 更多星星已经出现在地图上！返回先前的关卡收集它们吧！
 
 [ADVICE_GOTO_ALMANAC]
-请点击图鉴
+Bitte klicke auf die Illustration.
 
 [ADVICE_GOTO_STORE]
-访问商店
+Besuche den Shop.
 
 [ADVICE_GOTO_GACHA]
-你获得了潘妮宝物的开启权限，现在让我们去尝试一下
+Du hast die Erlaubnis erhalten, Pennys Schatz zu öffnen. Jetzt lass es uns versuchen.
 
 [ADVICE_GOTO_UNIVERSE_VIEW]
-你完成了神秘埃及关卡！点击时空地图按钮！
+Du hast das mysteriöse Ägypten-Level abgeschlossen! Klicke auf die Zeitkarten-Schaltfläche!
 
 [ADVICE_GRAVEBUSTERS_ON_GRAVES]
-噬碑藤只能种在墓碑上
+Grabfressende Ranken können nur auf Grabsteinen gepflanzt werden.
 
 [ADVICE_HUGE_WAVE]
-一大波僵尸即将来袭！
+Eine große Zombiewelle kommt!
 
 [ADVICE_SOCCER_NEAR_END]
-剩余时间还有30秒！
+Noch 30 Sekunden!
 
 [ADVICE_POOYANBOSS_WAVE]
-警告！警告！前方高能！
+Warnung! Warnung! Hohe Energie voraus!
 
 [ADVICE_WOLF_BOSS_WAVE]
-一只危险的僵尸正在接近...
+Ein gefährlicher Zombie nähert sich ...
 
 [ADVICE_KEEP_DIGGING]
-一直挖吧，直到你的
-草坪上没有植物！
-
+Grabe weiter, bis dein Rasen frei von Pflanzen ist!
 
 [ADVICE_KEEP_USING_POWERUPS]
-继续使用金手指闯关！
+Benutze weiterhin Cheat-Codes, um die Level zu meistern!
 
 [ADVICE_MORE_SUNFLOWERS]
-你需要更多的向日葵，
-这样你才能更快的种植植物！
-
+Du brauchst mehr Sonnenblumen, damit deine Pflanzen schneller wachsen!
 
 [ADVICE_NEW_LEVEL]
-解锁了下一关！
+Nächstes Level freigeschaltet!
 
 [ADVICE_NEW_PLANT]
-获取你的新植物！
+Hol dir deine neue Pflanze!
 
 [ADVICE_NOT_ENOUGH_SUN]
-你需要更多的阳光才能种植它！
+Du brauchst mehr Sonne, damit sie wächst!
 
 [ADVICE_NOT_ENOUGH_TIMES]
-次数用完了！
+Deine Zeit ist abgelaufen!
 
 [ADVICE_SKILL_LOCK]
-技能未解锁
+Fähigkeit freigeschaltet
 
 [ADVICE_NO_MORE_BRAINS]
-没有更多的脑子了！
+Keine Gehirne mehr!
 
 [ADVICE_OPEN_KEYGATE]
-点击门解锁！
+Klicke auf die Tür, um sie zu öffnen!
 
 [ADVICE_PEASHOOTER_DIED]
-你的一棵豌豆射手死了！
-试试在更靠左的地方种植它们！
+Eine deiner Erbsenkanonen ist gestorben!
+Versuche, sie weiter links zu pflanzen!
 
 [ADVICE_PLANT_FOOD_BANK_FULL]
-能量豆已满！立即使用库存的能量豆，避免浪费！
+Die Energiebank ist voll! Benutze sie sofort, um sie nicht zu verschwenden!
 
 [ADVICE_PLANT_NOT_ON_GRAVE]
-你不能把植物种在墓碑上
+Du kannst keine Pflanzen auf Grabsteinen pflanzen.
 
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
 你不能把植物种在石化僵尸上
@@ -594,150 +589,149 @@
 使用铲子可以铲掉植物，为你想要种的植物腾出空间！
 
 [ADVICE_WAIT]
-等等！！！
+Warte!!!
 
 [ADVICE_ZOMBIE_ONSLAUGHT]
-别让僵尸靠近你的房子！
+Lass Zombies nicht in die Nähe deines Hauses kommen!
 
 [ALMANAC_CLOSE]
-关闭
+Schließen
 
 [ALMANAC_PLANT_VIEW_ON_MAP]
-在地图上查看
+Auf der Karte anzeigen
 
 [ALMANAC_PLANTS]
-查看植物
+Pflanzen
 
 [ALMANAC_PURCHASE]
-购买{PRODUCT_NAME}
+{PRODUCT_NAME} kaufen
 
 [ALMANAC_UPGRADE_VIEW_ON_MAP]
-在地图上查看
+Auf der Karte anzeigen
 
 [ALMANAC_UPGRADES]
-查看强化
+Verbesserungen
 
 [ALMANAC_ZOMBIES]
-查看僵尸
+Zombies
 
 [APP_UPDATE_REQUIRED]
-请从AppStore下载最新的植物大战僵尸2
+Bitte lade die neueste Version von Plants vs. Zombies 2 aus dem AppStore herunter.
 
 [ARE_YOU_SURE]
-你确定吗？
+Bist du sicher?
 
 [AWARD_SCREEN_ALL_STARS]
-你获得了所有星星！
+Du hast alle Sterne!
 
 [AWARD_SCREEN_AND]
-和
+UND
 
 [AWARD_SCREEN_FINALDAY_COMPLETE]
-三星解锁开启！
+Drei-Sterne-Freischaltung läuft!
 
 [AWARD_SCREEN_FIRSTKEY_DESCRIPTION]
-这是一把古老的钥匙，现在你需要的只是一把古老的锁。
+Dies ist ein antiker Schlüssel. Jetzt brauchst du nur noch ein antikes Schloss.
 
 [AWARD_SCREEN_FIRSTKEY_TITLE]
-神秘埃及钥匙！
+Mysteriöser ägyptischer Schlüssel!
 
 [AWARD_SCREEN_GOAL_FAILED]
-^ff0000 目标失败
+^ff0000 Ziel fehlgeschlagen
 
 [AWARD_SCREEN_LAWN_MOWER_TRIGGERED]
-一台或多台小推车被触发了！
+Ein oder mehrere Wagen wurden ausgelöst!
 
 [AWARD_SCREEN_MAPGADGET_DESCRIPTION]
-一张蕴含着宇宙奥义的古老羊皮纸。
+Ein antikes Pergament mit den Geheimnissen des Universums.
 
 [AWARD_SCREEN_MAPGADGET_TITLE]
-时空地图
+Zeit- und Raumkarte
 
 [AWARD_SCREEN_MULTIPLE_PRESENTS]
-得到礼物！
+Sichern Sie sich ein Geschenk!
 
 [AWARD_SCREEN_NEW_PLANT]
-你得到了一棵新植物！
+Du hast eine neue Pflanze Freigeschaltet!
 
 [AWARD_SCREEN_NEW_AVATAR]
-你得到了一株新植物装扮！
+Du hast ein neues Pflanzenkostüm Freigeschaltet!
 
 [AWARD_SCREEN_AVATAR_PLANT_LOCKED]
-此装扮对应的植物还未解锁，赶紧去解锁植物吧！
+Die Pflanze für dieses Kostüm wurde noch nicht freigeschaltet. Schalte sie jetzt frei!
 
 [AWARD_SCREEN_NEW_UPGRADE]
-获得一个新的强化道具！
+Hol dir ein neues Power-Up-Item!
 
 [AWARD_SCREEN_NO_STAR]
-未获得星星
+Keine Sterne erhalten
 
 [AWARD_SCREEN_ONE_PRESENT]
-得到礼物！
+Hol dir ein Geschenk!
 
 [AWARD_SCREEN_POWERUP_TITLE]
-您解锁了新的道具！
+Du hast ein neues Item freigeschaltet!
 
 [AWARD_SCREEN_POWERUP_WIZARDFINGER_DESCRIPTION]
-召唤金手指的所有力量！
+Beschwöre die ganze Kraft des Goldfingers!
 
 [AWARD_SCREEN_POWERUPGADGET_DESCRIPTION]
-快进入破罐大师游戏内试试新获得的道具吧！
+Besuche das Pot Breaker-Spiel und probiere die neuen Items aus!
 
 [AWARD_SCREEN_PRIZE]
-你获得了奖励！
+Du hast eine Belohnung erhalten!
 
 [AWARD_SCREEN_STAR]
-你获得了一颗星！
+Du hast einen Stern erhalten!
 
 [AWARD_SCREEN_STAR_GOAL]
-目标: {CHALLENGE}
+Ziel: {CHALLENGE}
 
 [AWARD_SCREEN_STAR_LEVEL]
 {LEVEL}
 
 [AWARD_SCREEN_WORLDKEY_DESCRIPTION]
-可以用来解锁新世界 ，穿越到其他世界！
+Kann verwendet werden, um neue Welten freizuschalten und in andere Welten zu reisen!
 
-同时三星解锁已经开启！
+Gleichzeitig wird die Drei-Sterne-Freischaltung aktiviert!
 
 [AWARD_SCREEN_RETURN_WORLDKEY_DESCRIPTION]
-获得时空钥匙一把，可以用来解锁新世界 ，穿越到其他世界！
+Holt euch einen Raumzeit-Schlüssel, mit dem ihr neue Welten freischalten und in andere Welten reisen könnt!
 
 [AWARD_SCREEN_STARKEY_DESCRIPTION]
-三星解锁已经开启!
+Drei-Sterne-Freischaltung jetzt möglich!
 
 [AWARD_SCREEN_WORLDKEY_TITLE]
-时空钥匙
+Raumzeit-Schlüssel
 
 [AWARD_SCREEN_WORLDSTARUNLOCK_TITLE]
-三星罐头
+Drei-Sterne-Dose
 
 [AWARD_SCREEN_WORLDKEY_STAR_TITLE]
-三星时空钥匙
+Drei-Sterne-Raumzeit-Schlüssel
 
 [AWARD_SCREEN_WORLDTROPHY]
-你获得了奖杯！
+Du hast die Trophäe gewonnen!
 
 [AWARD_SCREEN_WORLDTROPHY_COWBOY]
-狂野西部的三星解锁已经开启！
-
+Drei-Sterne-Freischaltung im Wilden Westen jetzt möglich!
 
 [AWARD_SCREEN_WORLDTROPHY_EGYPT]
-神秘埃及的三星解锁已经开启！
-在神秘埃及关卡中获取更多星星，就能解锁新植物，并开启新的世界：海盗港湾！
+Drei-Sterne-Freischaltung im Mysteriösen Ägypten jetzt möglich!
+Hol dir mehr Sterne im Level „Geheimnisvolles Ägypten“, um neue Pflanzen und eine neue Welt freizuschalten: Pirate Bay!
 
 [AWARD_SCREEN_WORLDTROPHY_PIRATE]
-海盗港湾的三星解锁已经开启！
-在海盗港湾关卡中获取更多星星，就能解锁新植物，并开启新的世界：狂野西部！
+Drei-Sterne-Freischaltungen für Pirate Bay sind jetzt möglich!
+Hol dir mehr Sterne im Level „Pirate Bay“, um neue Pflanzen und eine neue Welt freizuschalten: Wilder Westen!
 
 [BACK_TO_MAP]
-返回地图
+Zurück zur Karte
 
 [BACK_TO_MENU]
-返回菜单
+Zurück zum Menü
 
 [BACK_TO_SHOP]
-返回商店
+Zurück zum Shop
 
 [BLOOMERANG]
 回旋镖射手
@@ -801,40 +795,40 @@
 快速出击，左右开弓击倒敌人。
 
 [BONKCHOY_SKILL_LEVEL5]
-撼地拳
+Groundshaker
 
 [BONKCHOY_SKILL_LEVEL5_DES]
-发动两次上钩拳后菜问会跳起砸下撼地拳，造成伤害并且眩晕僵尸
+Nach zwei Aufwärtshaken springt Nawen hoch und schlägt auf den Boden, wodurch er Schaden verursacht und Zombies betäubt.
 
 [BUTTON_CANCEL]
-取消
+Abbrechen
 
 [BUTTON_NO]
-否
+Nein
 
 [BUTTON_OK]
-确定
+OK
 
 [BUTTON_YES]
-是
+Ja
 
 [BUY_MORE]
-购买更多
+Mehr kaufen
 
 [BYPASS_COST]
-花费: $%s 元
+Kosten: $%s
 
 [BYPASS_GATE]
-闸门开启！
+Tor geöffnet!
 
 [BYPASS_KEYGATE]
-闸门开启
+Tor geöffnet
 
 [BYPASS_KEYGATE_COST]
 {STR_COST}
 
 [CABBAGEPULT]
-卷心菜投手
+Kohlapult
 
 [CABBAGEPULT_DESCRIPTION]
 {KEYWORD}植物特征：{STAT}绿色植物
@@ -886,130 +880,132 @@ Bonus: {SCORE}
 棒极了！现在尽力炸飞更多僵尸吧！
 
 [category_1_name]
-根目录
+Stammverzeichnis
 
 [category_13_name]
-植物大战僵尸2 金币商店
+Plants vs. Zombies 2 Münzshop
 
 [category_14_name]
-金币
+Münzen
 
 [category_15_name]
-植物大战僵尸2 地图商店
+Plants vs. Zombies 2 Kartenshop
 
 [category_18_name]
-门
+Tür
 
 [category_2_name]
-默认目录
+Standardverzeichnis
 
 [category_3_name]
-植物大战僵尸2 商店
+Plants vs. Zombies 2 Shop
 
 [category_4_name]
-金币
+Münzen
 
 [category_6_name]
-植物
+Pflanzen
 
 [category_7_name]
-强化
+Verbesserungen
 
 [category_8_name]
-礼包
+Pakete
 
 [CELLULAR_PERMISSION_BODY]
-您想使用蜂窝数据网络来下载额外内容包吗？
-您可以稍后在选项菜单里改变这一设定。
+Möchten Sie mobile Daten zum Herunterladen zusätzlicher Inhaltspakete verwenden?
+Sie können dies später im Optionsmenü ändern.
 
 [CELLULAR_PERMISSION_HEADER]
-下载更新？
+Updates herunterladen?
 
 [CHALLENGE_LASTSTAND_A_NAME]
-坚不可摧-第1天
+Unzerstörbar – Tag 1
 
 [CHALLENGE_LASTSTAND_B_NAME]
-坚不可摧-第2天
+Unzerstörbar – Tag 2
 
 [CHALLENGE_LASTSTAND_C_NAME]
-坚不可摧-第3天
+Unzerstörbar – Tag 3
 
 [CHALLENGE_PRESET_A_NAME]
-植物危机-第1天
+Pflanzenkrise – Tag 1
 
 [CHALLENGE_PRESET_B_NAME]
-植物危机-第2天
+Pflanzenkrise – Tag 2
 
-[CHALLENGE_PRESET_C_NAME]
-植物危机-第3天
+[CHALLENGE_PRESET_ C_NAME]
+Pflanzenkrise – Tag 3
 
 [CHALLENGE_PRESET_NAME]
-植物危机
+Pflanzenkrise
 
 [CHALLENGE_PROTECT_A_NAME]
-种子保卫战-第1天
+Samenverteidigung – Tag 1
 
 [CHALLENGE_PROTECT_B_NAME]
-种子保卫战-第2天
+Samenverteidigung – Tag 2
 
 [CHALLENGE_PROTECT_C_NAME]
-种子保卫战-第3天
+Samenverteidigung – Tag 3
 
 [CHALLENGE_PROTECT_NAME]
-种子保卫战
+Samen Verteidigung
 
 [CHALLENGE_BRONZE_A_NAME]
-铜人阵-第1天
+Bronze-Mann-Formation – Tag 1
 
 [CHALLENGE_BRONZE_B_NAME]
-铜人阵-第2天
+Bronze-Mann-Formation – Tag 2
 
 [CHALLENGE_BRONZE_C_NAME]
-铜人阵-第3天
+Bronze-Mann-Formation – Tag 3
 
 [CHALLENGE_BRONZE_NAME]
-铜人阵
+Bronze-Mann-Formation
 
 [CHALLENGE_REMAINING]
-余{NUMBER}
+Verbleibende {NUMBER}
 
 [RIVERCROSSING_DODORIDER]
-已通过:{NUMBER}
+Bestanden: {NUMBER}
 
-[RIVERCROSSING_REMAIN_DODORIDERS]
-剩余次数:{NUMBER}
+[RIVERCROSSING _REMAIN_DODORIDERS]
+Verbleibende Anzahl: {NUMBER}
 
 [POOYAN_SCORE]
-分数:{NUMBER}/
+Punktzahl: {NUMBER}/
 
 [POOYAN_TARGETSCORE]
-通关:{NUMBER}
+Bestanden: {NUMBER}
 
 [POOYAN_PASSED_CURRENT]
-已获得通关分数
+Erzielte Punktzahl
 
 [POOYAN_TIP_MOVE]
-滑动操作可以控制飞行器进行全屏移动
+Durch Wischen kann das Flugzeug gesteuert werden Vollbildmodus
 
 [POOYAN_TIP_CORE]
-这些阳光是飞船的能量核心，保护它们不受伤害！
+Diese Sonnenstrahlen bilden den Energiekern des Raumschiffs. Beschütze sie vor Schaden!
 
 [CHERRY_BOMB]
-樱桃炸弹
+Kirschbombe
 
 [CHERRY_BOMB_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}植物特征：{STAT}红色植物、面恶心善、双胞兄弟
-{FLAVOR}组建乐队是樱桃炸弹兄弟的梦想。“我们很想知道每种爆炸的节奏。我们颠覆音乐，引爆粉丝，轰动舞台，当然还有摧毁僵尸！喂，别忘记买明年的唱片！
+{KEYWORD}Anwendung: {STAT}Einmalige Anwendung, sofort wirksam
+
+{KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze, hässliches Gesicht und freundlich, Zwillingsbrüder
+
+{FLAVOR}Eine Band zu gründen ist der Traum der Cherry-Bomb-Brüder. Wir wollen den Rhythmus jeder Explosion kennen. Wir unterwandern die Musik, bringen die Fans zum Explodieren, heizen die Bühne an und vernichten natürlich Zombies! Hey, vergesst nicht, die Platte für nächstes Jahr zu kaufen!
 
 [CHERRY_BOMB_DESCRIPTION_HEADER]
-樱桃炸弹，能炸掉一定范围内的全部僵尸。由于一种下就会立刻爆炸，所以请把他们种在僵尸身边。 
+Kirschbomben können alle Zombies in einem bestimmten Umkreis in die Luft jagen. Da sie unmittelbar nach einer Explosion explodieren, platziert sie am besten in der Nähe von Zombies.
 
 [CHERRY_BOMB_PLANTFOOD]
-能量豆无效果。
+Energiebohnen haben keine Wirkung.
 
 [CHERRY_BOMB_TOOLTIP]
-炸飞附近区域内的所有僵尸。
+Sprengt alle Zombies in der Nähe in die Luft.
 
 [CHILIBEAN]
 巴豆
@@ -2273,7 +2269,7 @@ Los Geht's!
 加速
 
 [START_GAME_BUTTON]
-Starten
+Spielen
 
 [CHOOSER_RESET_BUTTON]
 Zurücksetzen
@@ -4365,10 +4361,10 @@ Duplinator
 连续发射两发豌豆攻击敌人。
 
 [REPICK_BUTTON]
-重新选择
+Erneut auswählen
 
 [REPLAY_BUTTON]
-重放
+Wiederholen
 
 [RESTART_BUTTON]
 Neu starten
@@ -4380,8 +4376,7 @@ Das Level Neu starten
 Möchtest du das Level neu starten？
 
 [RESTART_LEVEL_BODY]
-你想要再次从头
-进行这一关卡么？
+Möchtest du dieses Level erneut starten?
 
 [RESTART_LEVEL_BUTTON]
 Level Neu starten
@@ -4396,86 +4391,83 @@ Fortfahren
 Spiel Fortfahren
 
 [RETRY]
-再试一次
+Erneut versuchen
 
 [TRY_FROM_START]
-从头再来
+Von vorne beginnen
 
 [RV_NAME_INVALID]
-不懂你叫什么…
+Ich kenne deinen Namen nicht ...
 
 [RV_NAME_SAME_AS_PLAYER]
-这是你的名字，笨蛋！
+Das ist dein Name, du Idiot!
 
 [SEED_CHOOSER_CHALLENGE_CONSUMABLE_PLANTS]
-Die Nutzung von {PLANT_NAME} wird als Verlust einer Pflanze für dieses Level gezählt. Fortfahren?
+{PLANT_NAME} hilft dir nicht, dieses Level zu bestehen.
 
-[SEED_CHOOSER_CHALLENGE_CONSUMABLE_PLANTS_PVZ1]
-使用{PLANT_NAME}将不利于通过本关，
-你确定要继续吗？
+Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_GRAVE_WARNING]
-In diesem Level gibt es keine Gräber. Möchtest du wirklich den Grabfresser auswählen?
+In diesem Level musst du eine Pflanze benutzen, um Zombies wegzublasen. Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_BLOW_WARNING]
-你没有选可吹飞僵尸的植物，确定要继续吗？
+Du hast keine Pflanze gewählt, die Zombies wegblasen kann. Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_SUN_WARNING]
-你没有选能生产阳光的植物，确定要继续吗？ 
+Du hast keine Pflanze gewählt, die Sonnenlicht erzeugen kann. Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_WARNING_TITLE]
 Warnung!
 
 [SEED_CHOOSER_SKY_CITY_PLANT_SURVIVE_WARNING]
-本关星级条件需要使用空中植物，确定不使用任何空中植物挑战本关么？
+Dieses Level erfordert den Einsatz von Flug-Pflanzen. Möchtest du wirklich keine Flug-Pflanzen verwenden?
 
 [SEEDBANK_PLANT_LOCKED]
- {PlantName} 不可以在此关中使用
+{PlantName} kann in diesem Level nicht verwendet werden.
 
 [SEEDBANK_PLANT_LOCKED_TEMPORARILY]
-完成 {LevelName} ， 在此关中解锁 {PlantName}的使用
+Schließe {LevelName} ab, um die Verwendung von {PlantName} in diesem Level freizuschalten.
 
 [SETTINGS_ABOUT_TEXT]
-这里可见游戏的所有信息。你现在看的就是。
+Alle Informationen zum Spiel findest du hier.
 
 [SETTINGS_ABOUT_TITLE]
 Über
 
 [SETTINGS_UUID_BIND_TITLE]
-设备绑定
+Gerätebindung
 
 [SETTINGS_UUID_UNBIND_TITLE]
-设备解绑
+Gerätebindung aufheben
 
 [SETTINGS_DEFINEID_TITLE]
-用户ID
+Benutzer-ID
 
 [SETTINGS_DATASHARING_DISABLE]
-关闭使用共享
+Freigabe deaktivieren
 
 [SETTINGS_DATASHARING_ENABLE]
-开启使用共享
+Freigabe aktivieren
 
 [SETTINGS_DATASHARING_PROMPT]
-除了你直接提供给拓维的信息，拓维同时收集其他部分信息用于改善产品和服务，协助软件升级，动态内容和产品支持。这些信息不会以能够识别你的方式与第三方共享。
+Zusätzlich zu den Informationen, die Sie Tuowei direkt zur Verfügung stellen, erhebt Tuowei weitere Informationen zur Verbesserung von Produkten und Dienstleistungen, zur Unterstützung bei Software-Upgrades, dynamischen Inhalten und zum Produktsupport. Diese Informationen werden nicht an Dritte weitergegeben, sodass Ihre Identität nicht erkennbar ist.
 
 [SETTINGS_USERID_TITLE]
-个人信息
+Persönliche Daten
 
 [SETTINGS_CONTRACTUS_TITLE]
-客服联系方式
+Kontaktdaten des Kundenservice
 
 [SETTINGS_USERID_PROMPT]
-您的个人信息:
+Ihre persönlichen Daten:
 
 [SETTINGS_UNKNOW_PROFILE]
-需要联网
+Internetverbindung erforderlich
 
 [SETTINGS_CONTRACT_PROMPT]
-客服联系方式:
+Kontaktdaten des Kundenservice:
 
 [SETTINGS_CONTRACT_PHONE]
-
 
 [SETTINGS_CONTRACT_EMAIL]
 客服邮箱: 2059044571@qq.com
@@ -4671,36 +4663,35 @@ http://pvztmall.popcap.com.cn
 购买周边产品
 
 [SETTINGS_TITLE]
-设置
+Einstellungen
 
 [ROTATION_SETTINGS]
-旋转设置
+Rotationseinstellungen
 
 [ZOMBIE_NUM]
-僵尸数量
+Zombie Anzahl
 
 [ROTATION_VELOCITY]
-旋转时间
+Drehzeit
 
 [STATUS_NUM]
-雕像数量
+Anzahl der Statuen
 
 [SHOW_TIME]
-初始展示时间
+Anfangsanzeigezeit
 
 [WAVE_SHOW_TIME]
-波次展示时间
+Wellenanzeigezeit
 
 [TRY_TIMES]
-额外尝试次数
+Anzahl weiterer Versuche
 
 [ROTATION_TIMES]
-旋转次数
+Anzahl der Rotationen
 
 [SLOW_PERFORMANCE]
-你的显示卡无法完全支持此功能。
-
-如果你的游戏运行速度过慢，请取消硬件加速功能。
+Ihre Grafikkarte unterstützt diese Funktion nicht vollständig.
+Wenn Ihr Spiel zu langsam läuft, deaktivieren Sie die Hardwarebeschleunigung.
 
 [SNAPDRAGON]
 火龙草
@@ -6370,173 +6361,173 @@ Verbesserungen Anzeigen
 挡住僵尸，保护它身后的植物。
 
 [WARNING_CAMELMINIGAME_1]
-准备…
+Vorbereiten...
 
 [WARNING_CAMELMINIGAME_2]
-开始…
+Los...
 
 [WARNING_CAMELMINIGAME_3]
-开火！
+Feuer!
 
 [WARNING_CANNONMINIGAME_1]
-准备…
+Vorbereiten...
 
 [WARNING_CANNONMINIGAME_2]
-开始…
+Los...
 
 [WARNING_CANNONMINIGAME_3]
-开火！
+Feuer!
 
 [WARNING_RIVERCROSSING_1]
-好！
+OK!
 
 [WARNING_RIVERCROSSING_2]
-准备…
+Vorbereiten...
 
 [WARNING_RIVERCROSSING_3]
-开始！
+Los!
 
 [WARNING_FINAL_WAVE]
-最后一波攻势
+Letzte Welle
 
 [WARNING_RAIDINGPARTY]
-海盗登船了！
+Piraten sind an Bord!
 
 [WARNING_SANDSTORM]
-沙尘暴！
+Sandsturm!
 
 [WARNING_HEIAN_WIND]
-风即将降临！
+Der Wind kommt!
 
 [WARNING_RENAI_NIGHT_1]
-黑夜即将降临！
+Die Nacht bricht herein!
 
 [WARNING_RENAI_NIGHT_2]
-请做好准备…
+Bitte mach dich bereit...
 
 [WARNING_RENAI_NIGHT_3]
-开始！
+Los!
 
 [WARNING_STANDARD_1]
-好…
+Achtung…
 
 [WARNING_STANDARD_2]
-准备…
+Fertig…
 
 [WARNING_STANDARD_3]
-开始！
+PFLANZEN！
 
 [WARNING_THUNDER_TIP]
-雷云风暴来袭！
+Ein Gewitter zieht auf!
 
 [WARNING_PARACHUTERAIN]
-空投注意！空投注意！
+Achtung, Fallschirmsprung! Achtung, Fallschirmsprung!
 
 [WARNING_GRAVESTONE_SPAWN]
-小心，墓碑松动了！
+Vorsicht, der Grabstein ist lose!
 
 [WARNING_FAIRY_TALE_WIND_TIP]
-起风了！
+Der Wind weht!
 
 [WARNING_FAIRY_TALE_FOG_TIP]
-起雾了！
+Nebel zieht auf!
 
 [WARNING_BLACK_HOLE_TIP]
-黑洞要吸植物了！
+Das Schwarze Loch wird die Pflanzen aussaugen!
 
 [WELCOME_USER_NAME_2]
-你好，%s!
+Hallo, %s!
 
 [WEST_CHALLENGE_MINIGAME_A_NAME]
-围栏之战-第1天
+Kampf um den Zaun – Tag 1
 
 [WEST_CHALLENGE_MINIGAME_B_NAME]
-围栏之战-第2天
+Kampf um den Zaun – Tag 2
 
 [WEST_CHALLENGE_MINIGAME_C_NAME]
-围栏之战-第3天
+Kampf um den Zaun – Tag 3
 
 [WEST_LEVEL_NAME]
-狂野西部-第{LEVEL_NUMBER}天
+Wilder Westen – Tag {LEVEL_NUMBER}
 
 [WHO_ARE_YOU]
-你是谁？
+Wer bist du?
 
 [WINTERMELON]
-冰西瓜投手
+Eismelonenkrug
 
 [WINTERMELON_DESCRIPTION]
-{KEYWORD}发射速度：{STAT}1/2倍速
-{KEYWORD}范围：{STAT}抛掷
-{KEYWORD}特点：{STAT}受伤的僵尸也被冰冻
-{KEYWORD}植物特征：{STAT}蓝色植物
-{FLAVOR}你可能在这部伟大的纪录片中会认出冰西瓜的富有磁性的声音，比如“这上面很冷”“冰冻重击”还有“冲浪的因纽特人”。
+{KEYWORD}Feuergeschwindigkeit: {STAT}½x
+{KEYWORD}Reichweite: {STAT}Wurf
+{KEYWORD}Eigenschaften: {STAT}Verletzte Zombies werden ebenfalls eingefroren
+{KEYWORD}Pflanzeneigenschaften: {STAT}Blaue Pflanzen
+{FLAVOR}Vielleicht kennst du die melodische Stimme der Eismelone aus der großartigen Dokumentation, z. B. „It's cold up there“, „Frozen Slam“ und „Surfing Inuit“.
 
 [WINTERMELON_DESCRIPTION_HEADER]
-冰西瓜投手能造成范围性的伤害并让僵尸减速。
+Der Eismelonenkrug verursacht Flächenschaden und verlangsamt Zombies.
 
 [WINTERMELON_PLANTFOOD]
-发射重型冰西瓜并打击草坪上的所有僵尸。
+Feuere schwere Eismelonen ab und triff alle Zombies auf dem Rasen.
 
 [WINTERMELON_TOOLTIP]
-重重打击成群的僵尸，并减慢它们的速度。
+Trifft Zombiegruppen hart und verlangsamt sie.
 
 [WORLD_MAP_MENU_BUTTON]
-菜单
+Menü
 
 [WORLD_MAP_SOCIAL_BUTTON]
-好友
+Freunde
 
 [WORLD_MAP_STORE_BUTTON]
-商店
+Shop
 
 [DANGERROOM_TRAINING_RECORD_LEVEL]
-记录{NUMBER}关
+Erreiche Level {NUMBER} 
 
 [WORLD_NAME_COMING_SOON]
-即将推出
+Demnächst verfügbar
 
 [WORLD_NAME_COWBOY]
-狂野西部
+Wilder Westen
 
 [WORLD_NAME_EGYPT]
-神秘埃及
+Altes Ägypten
 
 [WORLD_NAME_PIRATE]
-海盗港湾
+Piratensee
 
 [WORLD_NAME_DARK]
-黑暗时代
+Mittelalter
 
 [WORLD_NAME_DARKAGE]
-黑暗时代
+Mittelalter
 
 [WORLD_NAME_BEACH]
-巨浪沙滩
+Riesen Wellen Strand
 
 [WORLD_NAME_ICEAGE]
-冰河世界
+Forstbeulen Höhlen
 
 [WORLD_NAME_SKYCITY]
-天空之城
+Luftstadt
 
 [WORLD_NAME_LOSTCITY]
-失落之城
+Verlorene Stadt
 
 [WORLD_NAME_STEAM]
-蒸汽时代
+Dampf-Zeitalter
 
 [WORLD_NAME_RENAI]
-复兴时代
+Renaissance-Zeitalter
 
 [WORLD_NAME_HEIAN]
-平安时代
+Heian-Zeitalter
 
 [WORLD_NAME_TALE]
-童话森林
+Märchenwald
 
 [LOSTCITY_LEVEL_NAME]
-失落之城-第{LEVEL_NUMBER}天
+Die Verlorene Stadt – Tag {LEVEL_NUMBER}
 
 [DARK]
 黑暗时代
@@ -9913,107 +9904,107 @@ UC至尊大礼包
     全新功夫植物，全新玩法闪亮登场！和戴夫一起种下植物，体验全新的游戏欢乐吧！ 
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
-选择了旧进度
+Alter Fortschritt ausgewählt
 
 [SUMMARY_USE_OLDER_DATA_BODY]
-您将用一个旧的进度覆盖一个新的进度，您确定要这么做么？
+Sie sind dabei, einen neuen Fortschritt mit einem alten zu überschreiben. Möchten Sie das wirklich tun?
 
 [SUMMARY_TITLE]
-本地和云端的进度不同
+Lokaler und Cloud-Fortschritt unterscheiden sich.
 
 [SUMMARY_NOTICE]
-提示
+Tipp
 
 [SUMMARY_CLOUD]
-云端进度
+Cloud-Fortschritt
 
 [SUMMARY_UPLOAD_OK]
-进度已上传成功
+Fortschritt erfolgreich hochgeladen.
 
 [SUMMARY_DOWNLOADING]
-和云端通讯中
+Kommunikation mit der Cloud läuft.
 
 [SUMMARY_LOCAL]
-本地进度
+Lokaler Fortschritt
 
 [SUMMARY_NEWER_DATA_RECOMMENDATION]
-（进度较新推荐）
+(Empfohlen für neuere Fortschritte)
 
 [SUMMARY_USE_CLOUD]
-使用云端进度
+Verwenden
 
 [SUMMARY_USE_LOCAL]
-使用本地进度
+Verwenden
 
 [SUMMARY_START]
-开始游戏
+Spiel starten
 
-[SUMMARY_STAR]
-资源信息
+[SUMMARY_ST AR]
+Ressourceninformationen
 
 [SUMMARY_LEVEL]
-关卡进度
+Level-Fortschritt
 
 [COIN_NUM_TITLE]
-金币数量
+Münzen
 
 [HOW_MANY_COINS]
-{COIN_COUNT}枚
+{COIN_COUNT}
 
 [GEM_NUM_TITLE]
-钻石数量
+Diamanten
 
 [PLANT_NUM_TITLE]
-植物数量
+Pflanzen
 
 [AVATAR_NUM_TITLE]
-装扮数量
+Kostüme
 
 [HOW_MANY_GEMS]
-{GEM_COUNT}颗
+{GEM_COUNT}
 
 [SUMMARY_DAYS]
-第{DAY_COUNT}天
+{DAY_COUNT} Level
 
 [SUMMARY_STAR_AMOUNT]
-{STAR_COUNT}颗
+{STAR_COUNT}
 
 [SUMMARY_LAST_TIME]
-{MONTH}/{DAY}   {HOUR}:{MIN}
+{MONTH}/{DAY} {HOUR}:{MIN}
 
 [CARD_GAME_AREA_STAR_NOT_ENOUGH]
-该卡牌章节的专属星星不足，需要{NUM}个星星
+Dieses Kartenkapitel hat nicht genügend exklusive Sterne und benötigt {NUM} Sterne.
 
 [CARD_GAME_AREA_STORE]
-星级奖励
+Sterne-Belohnungen
 
 [CARD_GAME_AREA_STORE_TIP]
-通关关卡并完成挑战任务积累星星，兑换植物等奖励！
+Level abschließen und abschließen Erfülle anspruchsvolle Aufgaben, um Sterne zu sammeln und Belohnungen wie Pflanzen einzulösen!
 
 [SECRET_AREA_STAR_NOT_ENOUGH]
-该秘境章节的专属徽章不足，需要{NUM}个徽章
+Dieses geheime Reich-Kapitel hat nicht genügend exklusive Abzeichen und benötigt {NUM} Abzeichen.
 
 [SECRET_AREA_STORE]
-秘境奖励
+Belohnungen des geheimen Reichs
 
 [SECRET_AREA_STORE_TIP]
-达成困难挑战累计该章节的专属徽章，兑换植物或藏品奖励！
+Schließe schwierige Herausforderungen ab, um exklusive Abzeichen für dieses Kapitel zu sammeln und Pflanzen oder Sammlungsbelohnungen einzulösen!
 
 [NETWORK_NOT_CONNECTED_TEXT_FOR_SYNC_PLAYERINFO]
-请正确设置你的网络，以保证游戏能正常使用云存档服务。
+Bitte richte dein Internet Netzwerk korrekt ein, damit das Spiel den Cloud-Archivdienst normal nutzen kann.
 
 [NETWORK_NOT_CONNECTED_DANGERROOM_UPLOAD_FAILED]
-网络连接失败，以至于无法将您的无尽模式分数上传。
-请修复网络并重新进入无尽模式，在排行榜处会重新上传分数。
+Die Netzwerkverbindung ist fehlgeschlagen, daher kann dein Endlosmodus-Punktestand nicht hochgeladen werden.
+Bitte repariere das Netzwerk und starte den Endlosmodus erneut. Dein Punktestand wird dann erneut in die Bestenliste hochgeladen.
 
 [VERSION_LIMIT_ERROR_TITLE]
-版本错误
+Versionsfehler
 
 [VERSION_LIMIT_ERROR_MSG]
-请前往App Store下载正式版本进行游戏
+Bitte besuche deinen App Store, um die offizielle Version herunterzuladen und das Spiel zu spielen.
 
 [DANGERROOM_CLOSED_TITLE]
-无法开始
+Start nicht möglich
 
 [DANGERROOM_CLOSED]
 可能是网络故障，或者无尽模式已经结束
@@ -13020,64 +13011,64 @@ LV.
 购买钻石x120。送十五个扭蛋
 
 [PLANT_PROPERTY_BASE]
-基础能力
+Basisfähigkeit
 
 [PLANT_PROPERTYUP_LEVEL1]
-战斗训练
+Kampftraining
 
 [PLANT_PROPERTYUP_LEVEL1_DES]
-经过戴夫的战斗训练，攻防属性提高50%。
+Nach Daves Kampftraining erhöhen sich Angriffs- und Verteidigungsattribute um 50 %.
 
 [PLANT_PROPERTYUP_LEVEL2]
-细胞活化
+Zellaktivierung
 
 [PLANT_PROPERTYUP_LEVEL2_DES]
-自身素质强化，攻防属性再次提高50%。
+Stärkt eure eigene Qualität, und Angriffs- und Verteidigungsattribute erhöhen sich erneut um 50 %.
 
 [PLANT_PROPERTYUP_LEVEL3]
-战斗能力
+Kampffähigkeit
 
 [PLANT_PROPERTYUP_LEVEL3_DES]
-获得超强的战斗能力，攻防属性提高150%。
+Erhältst du eine Super-Kampffähigkeit, werden Angriffs- und Verteidigungsattribute um 150 % erhöht.
 
 [PLANT_PROPERTYUP_LEVEL4]
-战斗能力
+Kampf-Meister 
 
 [PLANT_PROPERTYUP_LEVEL4_DES]
-获得超强的战斗能力，攻防属性提高150%。
+Erhalte Superkampffähigkeit und deine Angriffs- und Verteidigungsattribute werden um 150 % erhöht.
 
 [PLANT_WAKEUP_LEVEL1]
-能力觉醒
+Fähigkeitserweckung
 
 [PLANT_WAKEUP_LEVEL1_DES]
-四阶特殊能力：种植时有概率直接释放能量豆大招！
+Spezialfähigkeit Stufe 4: Es besteht die Chance, die Energiebohne beim Pflanzen direkt auszulösen!
 
 [PLANT_WAKEUP_LEVEL2]
-超进化
+Superentwicklung
 
 [PLANT_WAKEUP_LEVEL2_DES]
-五阶特殊能力！
+Spezialfähigkeit Stufe 5!
 
 [POTATOMINE_SKILL1_LEVEL1]
-快速安装
+Schnellinstallation
 
 [POTATOMINE_SKILL1_LEVEL1_DES]
-学习快速安装技巧，使土豆地雷的准备时间减少50%。
+Erlerne die Schnellinstallationsfähigkeiten, um die Vorbereitungszeit von Kartoffelminen um 50 % zu reduzieren.
 
 [POTATOMINE_SKILL1_LEVEL2]
-引信改良
+Verbesserte Sicherung
 
 [POTATOMINE_SKILL1_LEVEL2_DES]
-强化快速安装效果，使土豆地雷一种下就能立即准备完毕。
+Verstärkte Schnellinstallation, damit die Kartoffelmine direkt nach dem Pflanzen vorbereitet werden kann.
 
 [SUNFLOWER_SKILL1_LEVEL1]
-回收阳光
+Sonnenlicht recyceln
 
 [SUNFLOWER_SKILL1_LEVEL1_DES]
-使向日葵死亡后可以回收25阳光。
+Nach dem Tod der Sonnenblume werden 25 Sonnenlichtpunkte recycelt.
 
 [SUNFLOWER_SKILL1_LEVEL2]
-回收强化
+Recycling-Verbesserung
 
 [SUNFLOWER_SKILL1_LEVEL2_DES]
 向日葵死亡后会留下的阳光提升至75点。
@@ -14169,7 +14160,7 @@ LV.
 
 
 [HOLONUT]
-全息坚果
+Unend-Nuss
 
 [HOLONUT_DESCRIPTION]
 {KEYWORD}植物特征：{STAT}蓝色植物
@@ -24174,83 +24165,84 @@ x {SPEED}
 网络连接失败，请在良好的网络环境下进行挑战活动，避免损失。
 
 [BOARD_ALMANAC_WARNING]
-警告：新僵尸出现！
+Warnung: Ein neuer Zombie ist aufgetaucht!
 
 [BOARD_ALMANAC_RECOMMEND_PLANT]
-推荐植物：
+Empfohlene Pflanzen:
 
 [LOTTERY_RESULT_PIECE_OWNED]
-当前拥有：{NAME}碎片 ^00FF00 {NUMBER} ^oldclr 个
+Aktuell im Besitz: {NAME} Fragmente ^00FF00 {NUMBER} ^oldclr
 
 [SUMMERY_LOTTERY_NET_ERROR]
-网络连接失败，请保持在良好的联网状态下抽奖。
-(联网失败时，抽奖道具不会被扣除)
+Netzwerkverbindung fehlgeschlagen. Bitte stellen Sie eine stabile Netzwerkverbindung für die Ziehung sicher.
+
+(Bei einem Netzwerkausfall werden die gezogenen Gegenstände nicht abgezogen.)
 
 [SUMMERY_LOTTERY_LACK_MATERIAL]
-{ITEM}数量不足,请获得足够的数量后再试用。
+Nicht genügend {ITEM}. Bitte besorgen Sie sich eine ausreichende Menge, bevor Sie es erneut versuchen.
 
 [SUMMERY_LOTTERY_UNKONW_BONUS]
-奖励无法识别。
+Die Belohnung kann nicht eingelöst werden.
 
 [GET_CRYSTAL]
-获得{ITEM}
+Holen Sie sich {ITEM}
 
 [MAT_COIN_FIRE]
-炎晶
+Flammenkristall
 
 [MAT_COIN_ICE]
-冰晶
+Eiskristall
 
 [MAT_EVOLUTION_FIREFLOWER]
-赤焰稀土
+Rote Flamme, seltene Erde
 
 [MAT_MEDAL]
-宝石
+Edelstein
 
 [MAT_REDPACKET_GOLD]
-宝开通宝
+Baokai Tongbao
 
 [MAT_FESTIVAL_CURRENCY]
-新春碎片
+Neujahrsfragment
 
 [MAT_REDPACKET_S]
-小红包
+Kleiner roter Umschlag
 
 [MAT_REDPACKET_B]
-大红包
+Großer roter Umschlag
 
 [MAT_NUTRIENT_0]
-5阶白色培养液
+Weißes Nährmedium Stufe 5
 
 [MAT_NUTRIENT_1]
-5阶绿色培养液
+Grünes Nährmedium Stufe 5, Nährlösung
 
 [MAT_NUTRIENT_2]
-5阶蓝色培养液
+Blaue Nährlösung Stufe 5
 
 [MAT_NUTRIENT_3]
-5阶紫色培养液
+Violette Nährlösung Stufe 5
 
 [MAT_NUTRIENT_4]
-5阶橙色培养液
+Orange Kultur Stufe 5 Lösung
 
 [NORMAL_LOGIN_CHEST]
-普通宝箱
+Normale Schatztruhe
 
 [LEGEND_LOGIN_CHEST]
-精品宝箱
+Exquisite Schatztruhe
 
 [MAT_GACHAKEY_NORMAL]
-普通宝箱钥匙
+Normaler Schatztruhenschlüssel
 
 [MAT_GACHAKEY_NORMAL_MULTI]
-普通宝箱钥匙组
+Normales Schatztruhenschlüsselset
 
 [MAT_GACHAKEY_RARE]
-稀有宝箱钥匙
+Seltener Schatztruhenschlüssel
 
 [MAT_GACHAKEY_RARE_MULTI]
-稀有宝箱钥匙组
+Seltenes Schatztruhenschlüsselset
 
 [MAT_GACHAKEY_LEGEND]
 传奇宝箱钥匙
@@ -33657,7 +33649,7 @@ Produktionsgeschwindigkeit erhöht um
 [PLANT_FAMILY_SKILL_FAST_PLANT]
 Pflanzen-Abklingzeit verkürzt um
 
-[PLANT_FAMILY_SKILL_EXTR A_SUNMONEY_25]
+[PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_25]
 Erzeugt 25 zusätzliche Sonnen
 
 [PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_50]
@@ -33700,6 +33692,8 @@ Wahrscheinlichkeit für 3 Sekunden Unbesiegbar zu werden
 Wahrscheinlichkeit des Seelenzustands
 
 [PLANT_FAMILY_SKILL_PLANT_SUN_REFUND]
+
+
 Wahrscheinlichkeit zur Rückkehr des Sonnenlichts
 
 [PLANT_FAMILY_NAME_50001]
@@ -33850,6 +33844,8 @@ Karnevalsparty
 Aus dem Abgrund
 
 [PLANT_FAMILT_BOOST_TITLE]
+
+
 Effekte der Pflanzenfamilie:
 
 [PLANT_FAMILT_BOOST_RESEARCH]
@@ -36966,143 +36962,144 @@ Bauhinia stammt ursprünglich aus Südafrika und wird heute weltweit als Topfpfl
     树高可达15米；叶片椭圆形至卵形，边缘具圆钝锯齿；伞房花序，具花3-7朵，花白色带红晕，花瓣5枚；果实扁球形，果皮颜色多样因品种而异，以红、黄色为主。花期5月，果期7-10月。
     原产欧亚大陆中部，现广泛栽培于全球温带区域。中国是最大生产国（年产量占全球40%以上），主产区包括黄土高原、渤海湾等地。苹果”称谓历经语言流变：汉代将西域传入的绵苹果称为“柰”；唐代借译梵文佛经中“频婆果”指代其改良品种，后经语音转化演变为“苹婆”和“平波”等；至明代《群芳谱》始见“苹果”规范定名。中国古代栽培的绵苹果存在果肉绵软、储藏期短等缺陷，现代商业栽培品种多属西洋苹果品系，1871年由美国传教士倪维斯首次引入山东烟台，现主流品种如“富士”（1952年日本育成）系1966年引入的杂交改良品种。因“苹”与“平”同音，在中国寓意平安吉祥。
 
-[MULBERRY_FAMILY]
-桑科
-[MULBERRY_GENUS]
-桑属
-[MULBERRY_PEDIA]
-桑葚——紫玉般的天然馈赠 
-    落叶乔木或灌木。
-    高3-10米，树皮灰褐色；叶片多为心形，边缘具粗钝锯齿；花单性，雌雄异株，腋生或生于芽鳞腋内，与叶同时生出；雌花簇生成穗状，雄花为葇荑花序；果实为整个花序形成的复合果实即聚花果（俗称“桑葚”），成熟时红色或黑紫色。花期4-5月，果期5-8月。  
-    原产于中国中部北部，现广泛栽培于温带至亚热带地区。“桑”字在甲骨文为“𣏐”，象形一株枝叶繁茂的树木。“葚”（“甚”有“极、多”之意）可能暗指桑果密集丛生的形态，商周文献已用“葚”特指桑实，如《诗经》中即有“于嗟鸠兮，无食桑葚”的记载。作为“农桑之本”，它自新石器时代便与人类共生，以桑叶饲蚕缫丝，催生了璀璨的丝绸文明，成为“丝绸之路”的源头符号。而桑葚富含花青素等营养，可鲜食、酿酒或制成果干，入药有滋阴补血、明目安神之效。此外，其树皮纤维可造纸，枝条可编筐，木材坚硬科制作乐器、雕刻等，全株经济价值极高。
+[MAULBEERGEWICHT]
+Moraceae
+[MAULBEERGATTUNG]
+Maulbeere
+[MAULBEERPEDIA]
+Maulbeere – ein Geschenk der Natur wie lila Jade
+Laubabwerfender Baum oder Strauch.
+3–10 Meter hoch, mit graubrauner Rinde; die Blätter sind meist herzförmig mit groben, stumpfen Zacken am Rand; die Blüten sind eingeschlechtig, zweihäusig, achselständig oder in den Achseln der Knospenschuppen und wachsen gleichzeitig mit den Blättern; die weiblichen Blüten stehen in Ähren, die männlichen sind Kätzchen; die Frucht ist eine zusammengesetzte Frucht, die aus dem gesamten Blütenstand gebildet wird, nämlich ein Polykarp (allgemein als „Maulbeere“ bekannt), das im reifen Zustand rot oder dunkelviolett ist. Die Blütezeit ist April-Mai, die Fruchtzeit Mai-August.
+
+Ursprünglich im nördlichen Zentralchina angebaut, wird sie heute in gemäßigten bis subtropischen Regionen weit verbreitet angebaut. Das Wort „Maulbeere“ in der Orakelknochenschrift lautet „𣏐“ und bezeichnet einen Baum mit üppigen Ästen und Blättern. „葚“ („甚“ bedeutet „extrem viele“) könnte sich auf die dicht gedrängte Form der Maulbeerfrüchte beziehen. „葚“ wurde in Dokumenten der Shang- und Zhou-Dynastie verwendet, um sich speziell auf Maulbeerfrüchte zu beziehen, wie beispielsweise in der Aufzeichnung „Ach, Tauben, esst keine Maulbeeren“ im Buch der Lieder. Als „Wurzel der Landwirtschaft und des Maulbeerbaums“ existierte er seit der Jungsteinzeit mit dem Menschen zusammen. Maulbeerbäume wurden zur Fütterung von Seidenraupen und zum Abspulen von Seide mit Maulbeerblättern verwendet, was die Entstehung der brillanten Seidenkultur ermöglichte und zum Ursprungssymbol der „Seidenstraße“ wurde. Maulbeeren sind reich an Nährstoffen wie Anthocyanen. Sie können frisch gegessen, zu Wein verarbeitet oder als Trockenfrüchte verarbeitet werden. Sie werden als Medizin verwendet, um Yin und Blut zu nähren, die Sehkraft zu verbessern und den Geist zu beruhigen. Darüber hinaus können die Rindenfasern zur Papierherstellung, die Zweige zum Korbflechten und das harte Holz zur Herstellung von Musikinstrumenten und Schnitzereien verwendet werden. Die gesamte Pflanze hat einen extrem hohen wirtschaftlichen Wert.
 
 [EGGPLANTNINJA_FAMILY]
-茄科
+Solanaceae
 [EGGPLANTNINJA_GENUS]
-茄属
+Solanum
 [EGGPLANTNINJA_PEDIA]
-茄——餐桌上软香的紫色精灵
-    一年生草本至亚灌木。
-    高可达1米；叶片较大，卵形至长卵圆形，叶面覆盖绒毛，边缘具波状圆裂；花单生，花柄长，常下垂；花萼近钟形，密被绒毛及小皮刺；花冠星状辐形，淡紫色或白色；浆果形态多样，常见为紫黑色，也有绿色、白色等品种。花期6-8月，果期7-10月。
-    其野生祖先可能起源于南亚至东南亚地区，现代广泛栽培于全球温暖地区。“茄子”此名源于梵语“vātiṅgaṇa”，经西域传入后，中古汉语取其中音节“ṅga”音译为“伽”，唐代逐渐简化为“茄”（见《本草拾遗》）。其果实为常见蔬菜，但需注意：未成熟果实含茄碱，生食可能引发中毒。中国传统医学中，根、茎、叶被认为具利尿作用，叶片曾有外用麻醉的民间记载（需专业指导）。
+Aubergine – die zarte und duftende lila Fee auf dem Tisch
+Einjähriges Kraut bis Halbstrauch.
+Sie kann bis zu 1 Meter hoch werden. Die Blätter sind groß, eiförmig bis länglich, haarig und die Ränder gewellt und kreisrund. Die Blüten stehen einzeln, mit langen Stielen und hängen oft herab. Der Kelch ist fast glockenförmig, dicht mit Haaren und kleinen Stacheln bedeckt. Die Blütenkrone ist sternförmig und strahlenförmig, lavendelfarben oder weiß. Die Beeren haben verschiedene Formen, meist violett-schwarz, aber auch grün-weiße Sorten. Die Blütezeit dauert von Juni bis August, die Fruchtzeit von Juli bis Oktober.
+Ihre wilden Vorfahren stammen vermutlich aus Süd- und Südostasien und werden heute weltweit in warmen Regionen angebaut. Der Name „Aubergine“ leitet sich vom Sanskrit „vātiṅgaṇa“ ab. Nach der Einführung aus den westlichen Regionen übernahmen die Mittelchinesen die Silbe „ṅga“ und transkribierten sie als „伽“. In der Tang-Dynastie wurde sie schrittweise zu „茄“ vereinfacht (siehe „Kompendium der Materia Medica“). Die Frucht ist ein weit verbreitetes Gemüse, jedoch ist zu beachten, dass die unreifen Früchte Solanin enthalten, das roh verzehrt zu Vergiftungen führen kann. In der traditionellen chinesischen Medizin wird den Wurzeln, Stängeln und Blättern eine harntreibende Wirkung zugeschrieben, und es gibt Überlieferungen über die Verwendung der Blätter zur äußeren Anästhesie (ärztliche Anleitung erforderlich).
 
-[PLANTAIN_FAMILY]
-芭蕉科
-[PLANTAIN_GENUS]
-芭蕉属
-[PLANTAIN_PEDIA]
-芭蕉——绿影摇曳的庭院雅客
-    多年生高大草本植物。
-    虽形似树木，实为草本；株高2.5-4米，螺旋状排列的叶鞘重叠形成假茎；叶片巨大，长椭圆形，长可达3米，中脉粗壮隆起，侧脉平行；穗状花序顶生，雄花生于花序上部，雌花生于花序下部；浆果肉质三棱状，长圆形，具3-5棱，种子黑色。花期集中于6-7月，果期在9-10月。
-    “一叶舒展（芭），一叶焦枯（蕉）”（宋代《埤雅》），故得名。原产亚洲热带及日本琉球群岛，其耐寒性优于香蕉，我国秦岭—淮河以南地区作为观赏植物广泛栽培。“雨打芭蕉闲听雨，道是有愁又无愁”（苏轼《点绛唇》），古典文学中常用其寄托离愁别绪。根、叶、花均可入药，具清热、解毒、利尿之效；叶纤维可制芭蕉布（称蕉葛）及造纸。芭蕉果实味苦涩、种子多，不可食用，市场上销售的可食用芭蕉为小果野蕉和野蕉天然杂交的形成的三倍体栽培品种，并非此种。
+[WEGEBÄRENGEWICHT]
+Musaceae
+[WEGEBÄRENGATTUNG]
+Musa
+[WEGEBÄRENPEDIA]
+Musa – ein Gartengast mit wiegenden grünen Schatten
+Eine hohe, mehrjährige Pflanze.
+Obwohl sie wie ein Baum aussieht, ist sie tatsächlich eine Pflanze. Die Pflanze wird 2,5–4 Meter hoch und hat spiralförmig angeordnete, sich überlappende Blattscheiden, die einen Scheinstamm bilden. Die Blätter sind groß, länglich und bis zu 3 Meter lang, mit einer dicken, erhabenen Mittelrippe und parallelen Seitenadern. Der ährenförmige Blütenstand ist endständig, wobei die männlichen Blüten im oberen und die weiblichen im unteren Teil des Blütenstandes wachsen. Die Beeren sind fleischig, dreieckig, länglich, mit 3–5 Rippen, und die Samen sind schwarz. Die Blütezeit konzentriert sich auf Juni/Juli, die Fruchtzeit auf September/Oktober.
+„Ein Blatt streckt sich (Banane), ein Blatt brennt (Jiao)“ (Song-Dynastie „Bi Ya“), daher der Name. Die Banane stammt aus dem tropischen Asien und den Ryūkyū-Inseln Japans. Sie ist kälteresistenter als Bananen und wird in der Region Qinling-Huaihe meines Landes häufig als Zierpflanze angebaut. „Wenn ich dem Regen lausche, der auf die Bananenblätter trifft, fühle ich mich traurig und doch nicht traurig“ (Su Shis „Dian Jiang Lip“). In der klassischen Literatur wird dieser Vers oft verwendet, um die Trauer des Abschieds auszudrücken. Wurzeln, Blätter und Blüten können als Medizin verwendet werden und wirken hitzelösend, entgiftend und harntreibend. Aus den Blattfasern lassen sich Bananenstoff (Bananen-Kudzu) und Papier herstellen. Die Bananenfrucht schmeckt bitter und hat viele Kerne, daher ist sie nicht essbar. Die im Handel erhältliche essbare Banane ist eine triploide Sorte, die durch natürliche Kreuzung von kleinfrüchtiger Wildbanane und Wildbanane entstanden ist, nicht diese Art.
 
 [PINECONE_FAMILY]
-松科
+Kieferngewächse
 [PINECONE_GENUS]
-松属
+Kieferngattung
 [PINECONE_PEDIA]
-松果——可开可合的天然湿度计
-    松果是松科植物（如红松、油松、华山松）的雌球果。成熟松果呈卵圆形或圆柱形，长3-20厘米不等，表面覆盖木质化鳞片，呈螺旋状排列。每枚鳞片内侧藏两粒带翅种子，干燥时鳞片张开释放种子，潮湿时闭合保护。这样的开合机制确保种子在最佳环境传播，民间也因此曾用它作简易湿度计。松科植物为雌雄同株裸子植物，雄球花春末散发黄色花粉，依赖风力传播；雌球花授粉后需1-3年发育成熟，北半球寒温带至亚热带均有分布。
-    松果可为松鼠、交嘴雀提供食物，昆虫幼虫寄生鳞片间，枯落松果成为蚂蚁巢穴建材。古罗马以松果装饰酒神杖，象征生命力；北欧神话中，松果是雷神之锤的化身；佛教法器“金刚杵”顶部造型亦源于松果，寓意智慧开悟。 
+Kiefernzapfen – natürliche Hygrometer, die sich öffnen oder schließen lassen
+Kiefernzapfen sind die weiblichen Zapfen von Kieferngewächsen (z. B. Rotkiefer, Chinesische Kiefer und Chinesische Kiefer). Reife Kiefernzapfen sind oval oder zylindrisch, 3–20 cm lang und mit spiralförmig angeordneten, verholzten Schuppen bedeckt. Jeder Schuppen enthält zwei geflügelte Samen. Im trockenen Zustand öffnen sich die Schuppen, um die Samen freizugeben, im nassen Zustand schließen sie sich zum Schutz. Dieser Öffnungs- und Schließmechanismus sorgt dafür, dass sich die Samen optimal verbreiten, weshalb er von den Menschen als einfaches Hygrometer genutzt wurde. Kieferngewächse sind einhäusige Nacktsamer. Männliche Zapfen geben im späten Frühjahr gelben Pollen ab und verbreiten sich durch Wind. Weibliche Zapfen benötigen nach der Bestäubung 1–3 Jahre, um auszureifen. Sie sind auf der Nordhalbkugel von der gemäßigten bis zur subtropischen Zone verbreitet.
+Kiefernzapfen dienen Eichhörnchen und Kreuzschnäbeln als Nahrung. Insektenlarven parasitieren zwischen den Schuppen. Abgestorbene Kiefernzapfen dienen als Baumaterial für Ameisennester. Im antiken Rom wurden Kiefernzapfen zur Dekoration des Dionysosstabes verwendet, um Lebenskraft zu symbolisieren. In der nordischen Mythologie sind Kiefernzapfen die Verkörperung von Thors Hammer. Auch die obere Form des buddhistischen Ritualinstruments „Vajra“ stammt von Kiefernzapfen ab und symbolisiert Weisheit und Erleuchtung.
 
 [WAXGOURD_FAMILY]
-葫芦科
+Cucurbitaceae
 [WAXGOURD_GENUS]
-冬瓜属
+Wachsmelone
 [WAXGOURD_PEDIA]
-冬瓜——披“冬霜”的瓜
-    一年生蔓生草本植物。
-    其茎蔓粗壮，密被黄褐色硬毛，具棱沟；叶片肾状近圆形，掌状5-7浅裂，叶面粗糙，背面密被茸毛；雌雄同株，花单生，花冠黄色，辐状；果实形态多样，常见长圆柱形，表面被硬毛和白霜。花果期为夏季。
-    “冬瓜”一名源自其果实表皮成熟后覆盖的白色蜡粉，宛如冬日霜雪而得名；另有别名白瓜、枕瓜等，均与果实形态或颜色相关。主要分布于亚洲热带、亚热带地区，现广泛栽培，成为全球热带至温带地区的重要蔬菜作物。果实除作蔬菜外，还可制蜜饯；果皮和种子入药，具利尿、清热之效。
+Wintermelone – mit Winterfrost bedeckte Melone
+Einjähriges, kriechendes Kraut.
+Die Stängel sind dick und dicht mit gelbbraunen, harten Haaren und Rillen bedeckt. Die Blätter sind nierenförmig, fast rund und palmenförmig mit fünf bis sieben flachen Lappen. Die Blattoberfläche ist rau, die Blattrückseite dicht behaart. Die Blüten sind einhäusig, einzeln, die Blütenkrone gelb und strahlenförmig. Die Früchte sind unterschiedlich geformt, oft länglich, mit harten Haaren und weißem Bereif auf der Oberfläche. Die Blüte- und Fruchtzeit ist der Sommer.
+
+Der Name „Wintermelone“ leitet sich von dem weißen Wachs ab, das die Fruchtschale nach der Reifung bedeckt und an Winterfrost und Schnee erinnert. Weitere Bezeichnungen sind „Weiße Melone“ und „Kissenmelone“, die sich alle auf die Form oder Farbe der Frucht beziehen. Die Wintermelone ist hauptsächlich in tropischen und subtropischen Regionen Asiens verbreitet und wird heute weit verbreitet angebaut. Sie hat sich zu einer wichtigen Gemüsepflanze in tropischen und gemäßigten Regionen weltweit entwickelt. Neben der Verwendung als Gemüse kann die Frucht auch zu kandierten Früchten verarbeitet werden. Schale und Kerne werden als Medizin verwendet und wirken harntreibend und hitzelösend.
 
 [ULTOMATO_FAMILY]
-茄科
+Solanaceae
 [ULTOMATO_GENUS]
-茄属
+Solanum
 [ULTOMATO_PEDIA]
-番茄——从“狼桃”到餐桌上的“红色黄金”
-    一年生草本植物。
-    株高0.5-2米，全株密被腺毛；叶为羽状复叶或羽状深裂；聚伞花序，常3-7朵花；花萼辐状，裂片披针形，果时宿存；花冠辐状，5-6裂，黄色；浆果扁球状或近球状，颜色因品种而异。花果期夏秋季。
-    “番茄”，又名“西红柿”，均因传入途径和形态而得名。原产于南美洲安第斯山脉，16世纪传入欧洲后广泛栽培，明朝万历年间传入中国，如今广泛栽培于全球温带至热带地区。野生番茄果实仅1-2克，因茄科植物多含毒素，长期被当地的印加人和阿兹特克人视为有毒的观赏植物，被称为“狼桃”。传入欧洲后最初也仅用于装饰或象征爱情（因其鲜艳的外表）的礼物，得名“爱情果”。1820年，美国人罗伯特当众食用番茄，彻底打消了大众疑虑，番茄从此登上餐桌，逐步成为家常食材。番茄富含维生素C、番茄红素等成分，具有抗氧化、防癌功效，被誉为“红色黄金”。
-    花语：挑战与革新
+Tomate – vom „Wolfspfirsich“ bis zum „Rotgold“ auf dem Tisch
+Einjähriges Kraut.
+Die Pflanze wird 0,5–2 Meter hoch und ist dicht mit Drüsenhaaren bedeckt. Die Blätter sind gefiedert, zusammengesetzt oder tief gefiedert. Der Blütenstand besteht aus 3–7 Blüten. Der Kelch ist strahlenförmig, die Lappen lanzettlich, die Frucht bleibt bestehen. Die Krone ist strahlenförmig, 5–6-lappig und gelb. Die Beeren sind flach oder fast kugelig und variieren je nach Sorte in ihrer Farbe. Blüte- und Fruchtzeit sind Sommer und Herbst.
+
+Die Tomate, auch bekannt als „Tomate“, ist nach ihrem Verbreitungsweg und ihrer Morphologie benannt. Sie stammt ursprünglich aus den Anden in Südamerika. Nach ihrer Einführung in Europa im 16. Jahrhundert wurde sie weit verbreitet angebaut. Sie wurde während der Wanli-Zeit der Ming-Dynastie in China eingeführt. Heute wird sie weltweit in gemäßigten bis tropischen Regionen angebaut. Die wilden Tomatenfrüchte wiegen nur 1–2 Gramm. Da Nachtschattengewächse Giftstoffe enthalten, galten sie bei den einheimischen Inkas und Azteken lange Zeit als giftige Zierpflanzen und wurden „Wolfspfirsiche“ genannt. Nach ihrer Einführung in Europa dienten sie aufgrund ihrer leuchtenden Erscheinung zunächst nur als Dekoration oder als Liebessymbol und wurden „Liebesfrucht“ genannt. Im Jahr 1820 aß der Amerikaner Robert in aller Öffentlichkeit Tomaten und zerstreute damit die öffentlichen Bedenken. Von da an standen Tomaten auf dem Tisch und wurden allmählich zu einer alltäglichen Zutat. Tomaten sind reich an Vitamin C, Lycopin und anderen Inhaltsstoffen, wirken antioxidativ und krebshemmend und werden als „rotes Gold“ bezeichnet. Blütensprache: Herausforderung und Innovation
 
 [STRAWBURST_FAMILY]
-蔷薇科
+Rosaceae
 [STRAWBURST_GENUS]
-草莓属
+Erdbeere
 [STRAWBURST_PEDIA]
-草莓——甜蜜的爱情果实
-    多年生草本植物。
-    植株低矮，具匍匐茎；三出复叶，边缘具锯齿；聚伞花序，花白色，花瓣5-8枚；果实为聚合果，食用的果肉为其膨大的花托，表面密布细小颗粒实为其果实。花期3-5月；果期5-7月。温室栽培可在全年进行种植和结实。
-    为美洲产的两种草莓Fragaria virgirniana与 F. chiloensis杂交的八倍体植物，现广泛栽培于全球温带地区。其名源自中文“莓”（指草本果实）及“草”（生长形态），英文名“strawberry”则因传统栽培时常用稻草（straw）护果防腐。除了鲜食，还广泛用于制作果酱、甜品、饮料等。在日本和现代西方，草莓常被赋予“幸福”、“甜蜜爱情”的寓意。在日本，情人节或表达好感时，赠送草莓隐含“愿你幸福”的祝福，赠送“草莓巧克力”则为爱的告白。在现代西方，草莓作为甜品装饰常用于婚礼或庆典中，烘托喜庆氛围。
-    花语：甜蜜的爱情、幸福预感、完美与尊重
+Erdbeere – süße Frucht der Liebe
+Mehrjähriges Kraut.
+Die Pflanze ist niedrig und hat kriechende Stängel. Die Blätter sind dreiblättrig mit gezähnten Rändern. Der Blütenstand ist weiß und hat 5–8 Blütenblätter. Die Frucht ist eine Sammelfrucht. Das essbare Fruchtfleisch befindet sich im vergrößerten Blütenboden, und die Oberfläche ist dicht mit kleinen Partikeln bedeckt, die die Frucht darstellen. Die Blütezeit dauert von März bis Mai, die Fruchtzeit von Mai bis Juli. Im Gewächshausanbau kann die Erdbeere das ganze Jahr über gepflanzt und geerntet werden.
+Es handelt sich um eine oktoploide Pflanze, eine Kreuzung aus zwei amerikanischen Erdbeersorten, Fragaria virgirniana und F. chiloensis. Sie wird heute weltweit in gemäßigten Regionen angebaut. Der Name Erdbeere leitet sich vom chinesischen Wort „Beere“ (krautige Frucht) und „Gras“ (Wuchsform) ab. Der englische Name „Erdbeere“ rührt daher, dass Stroh beim traditionellen Anbau oft zum Schutz der Frucht verwendet wurde, um sie vor Fäulnis zu schützen. Erdbeeren werden nicht nur frisch verzehrt, sondern auch häufig zur Herstellung von Marmelade, Desserts, Getränken usw. verwendet. In Japan und modernen westlichen Ländern werden Erdbeeren oft mit der Bedeutung von „Glück“ und „süßer Liebe“ in Verbindung gebracht. In Japan bedeutet das Verschenken von Erdbeeren zum Valentinstag oder als Ausdruck der Zuneigung den Segen „Ich wünsche dir Glück“, und das Verschenken von „Erdbeerschokolade“ ist ein Liebesbekenntnis. Im modernen Westen werden Erdbeeren oft als Dessertdekoration bei Hochzeiten oder Feiern verwendet, um eine festliche Atmosphäre zu schaffen. Blumensprache: Süße Liebe, Vorahnung von Glück, Vollkommenheit und Respekt
 
 [DAZEYCHAIN_FAMILY]
-菊科
+Asteraceae
 [DAZEYCHAIN_GENUS]
-科雏菊属
+Dazey
 [DAZEYCHAIN_PEDIA]
-雏菊——草地上的“白昼之眼”
-    多年生或一年生草本植物。
-    植株低矮，高约10厘米；叶基生，莲座状丛生，匙形，上半部叶缘具波状钝齿；头状花序单生，直径2-3厘米，外层舌状花白色或粉色，雌性；中央管状花黄色，两性；瘦果倒卵形，被细毛。花期3-6月，果期6-8月。
-    雏菊因其花朵娇小如雏鸟而得名。其英文名“Daisy”源自古英语“dægesēage”（白昼之眼），因其外层舌状花在白天阳光充足时展开（像睁开的眼睛），夜晚或阴天时闭合（像闭上的眼睛），仿佛一朵“白昼之眼”。其花朵可食用（制沙拉、花茶），古罗马时期曾用于治疗伤口；现代其提取物则应用于抗敏护肤品以缓解皮肤炎症。在欧洲传说中，雏菊是森林精灵的化身，维京人还将其作为爱情预兆——通过摘花瓣占卜“他爱我/不爱我”。
-    花语：暗恋与纯洁（白色）、天真与希望（粉色）
+Gänseblümchen – „Auge des Tageslichts“ im Gras
+Mehrjährige oder einjährige Pflanze.
+Die Pflanze ist klein, etwa 10 cm hoch; die Blätter sind grundständig, rosettenförmig, löffelförmig und an den oberen Blatträndern gewellte, stumpfe Zähne. Der Blütenstand ist einzeln und hat einen Durchmesser von 2–3 cm. Die äußeren Zungenblüten sind weiß oder rosa und weiblich. Die zentralen Röhrenblüten sind gelb und zwittrig. Die Achänen sind verkehrt eiförmig und fein behaart. Die Blütezeit ist von März bis Juni, die Fruchtzeit von Juni bis August.
+Das Gänseblümchen verdankt seinen Namen seinen Blüten, die so klein wie Vogelküken sind. Der englische Name „Daisy“ leitet sich vom altenglischen „dægesēage“ (Tagesauge) ab, da sich die äußeren Zungenblüten bei vollem Sonnenlicht öffnen (wie ein offenes Auge) und sich nachts oder an bewölkten Tagen schließen (wie ein geschlossenes Auge), genau wie ein „Tagesauge“. Die Blüten sind essbar (für Salate und aromatisierten Tee) und wurden im antiken Rom zur Wundbehandlung verwendet; moderne Extrakte werden in antiallergischen Hautpflegeprodukten zur Linderung von Hautentzündungen eingesetzt. In europäischen Legenden gelten Gänseblümchen als Verkörperung von Waldelfen, und die Wikinger nutzten sie auch als Liebeszeichen – indem sie Blütenblätter pflückten, um vorherzusagen: „Er liebt mich/nicht.“ Blumensprache: Heimliche Liebe und Reinheit (weiß), Unschuld und Hoffnung (rosa)
 
 [HOCUSCROCUS_FAMILY]
-鸢尾科
+Iridaceae
 [HOCUSCROCUS_GENUS]
-番红花属
+Krokus
 [HOCUSCROCUS_PEDIA]
-番红花——秋日里的血色瑰宝
-    多年生草本植物。
-    地下具扁圆球状球茎；叶片基生，9-15枚，条形，灰绿色；花茎极短，几乎不伸出地面；花1-2朵，淡蓝、红紫或白色，具香气，花被6片2轮排列；最显著的特征是其橙红色花柱，顶端三分枝下垂，柱头膨大呈喇叭状；蒴果椭圆形。花果期为秋季。
-    “番红花”中的“番”指其外来属性，因古代经西藏传入，亦称“藏红花”。原产于欧洲南部，现中国各地均有栽培。花柱及柱头供药用，具有活血、化瘀、通经等功效。园林应用的番红花为该属的杂交品种，主要亲本为春番红花，故多春季开花。
-    花语：真心与喜悦
+Krokus – der blutige Schatz im Herbst
+Mehrjährige Pflanze.
+Die abgeflachte Zwiebel befindet sich unter der Erde. Die grundständigen Blätter sind 9–15, linealisch und graugrün. Die Blütenstiele sind sehr kurz und ragen kaum über den Boden hinaus. Die Blüten sind ein- bis zweimal hellblau, rötlich-violett oder weiß und duftend. Die Blütenhülle ist zweirund mit sechs Blütenblättern angeordnet. Das auffälligste Merkmal ist der orangerote Griffel mit drei herabhängenden Zweigen an der Spitze. Die Narbe ist vergrößert und trompetenförmig. Die Kapsel ist oval. Die Blüte- und Fruchtzeit ist der Herbst.
+Das „Fächer“ in „Safran“ weist auf seine fremdartige Natur hin. Da er in der Antike aus Tibet eingeführt wurde, wird er auch „Safran“ genannt. Er ist in Südeuropa heimisch und wird heute in verschiedenen Teilen Chinas angebaut. Griffel und Narbe werden medizinisch verwendet und sollen die Durchblutung fördern, Blutstauungen lösen und die Menstruation fördern. Der in Gärten verwendete Safran ist eine Hybridsorte dieser Gattung, deren Hauptstammbaum der Frühlingssafran ist. Daher blüht er hauptsächlich im Frühling.
+Blumensprache: Aufrichtigkeit und Freude
 
 [HEAVENDATURA_FAMILY]
-茄科
+Solanaceae
 [HEAVENDATURA_GENUS]
-木曼陀罗属
+Heavendatura
 [HEAVENDATURA_PEDIA]
-木本曼陀罗——美丽又危险的“天使号角”
-    常绿小乔木。
-    株高可达2-5米；叶片卵状披针形，全缘或微波状或有不规则缺刻状齿；花单生，下垂，喇叭形，花冠长可达30厘米；花白色，栽培品种还有黄、粉、橙色等；浆果状蒴果，表面平滑，广卵状，但许多栽培品种不结果。花期因气候而异，在温暖地区可全年开放，盛花期多在夏秋季节。  
-    “曼陀罗”源自梵语“Mandala”，意为“坛场”，因其花形似佛教法坛。在欧洲，因其喇叭型花下垂而得名“天使的号角”，而草本的曼陀罗花向上则被称为“魔鬼的号角”。原产南美洲安第斯山区，现广泛引种于全球热带、亚热带地区作为观赏植物，其叶和花含莨菪碱和东莨菪碱，误食可致幻甚至致命。我国分布有3种草本曼陀罗（曼陀罗、毛曼陀罗和洋金花），同样含莨菪碱和东莨菪碱，在古代常用于外科镇痛。据传华佗的“麻沸散”和古代“蒙汗药”均以这些曼陀罗为主要成分。
-    花语：危险之美、虚幻的爱
+Heavendatura – das schöne und gefährliche „Engelshorn“
+Immergrüner kleiner Baum.
+Die Wuchshöhe kann 2–5 Meter erreichen. Die Blätter sind eiförmig-lanzettlich, mit ganzrandigen oder gewellten Rändern oder unregelmäßig gezähnten Zähnen. Die Blüten stehen einzeln, hängend und trompetenförmig, die Blütenkrone kann bis zu 30 cm lang werden. Die Blüten sind weiß, bei Kultursorten sind auch gelbe, rosa, orange usw. Blüten vorhanden. Die beerenartige Kapsel hat eine glatte Oberfläche und ist breit eiförmig. Viele Kultursorten tragen jedoch keine Früchte. Die Blütezeit variiert je nach Klima. In warmen Gebieten kann die Pflanze das ganze Jahr über blühen, wobei die Blütezeit meist im Sommer und Herbst liegt.
+
+„Mandala“ leitet sich vom Sanskrit-Wort „Mandala“ ab, das „Altar“ bedeutet, da die Blütenform an den buddhistischen Altar erinnert. In Europa wird die Pflanze wegen ihrer hängenden, trompetenförmigen Blüten „Engelshorn“ genannt, während die nach oben gerichteten Blüten der krautigen Datura „Teufelshorn“ heißen. Die Pflanze stammt ursprünglich aus den Anden Südamerikas und ist heute weltweit als Zierpflanze in tropischen und subtropischen Regionen verbreitet. Seine Blätter und Blüten enthalten Hyoscyamin und Scopolamin, die bei versehentlichem Verzehr Halluzinationen auslösen oder sogar tödlich sein können. In meinem Land sind drei Arten von Stechapfel (Datura, Datura stramonium und Datura datura) verbreitet, die ebenfalls Hyoscyamin und Scopolamin enthalten und in der Antike häufig zur chirurgischen Schmerzlinderung eingesetzt wurden. Es heißt, dass sowohl Hua Tuos „Ma Fei San“ als auch das antike „Meng Han Yao“ diese Stechapfelsorten als Hauptbestandteile verwenden.
+Blumensprache: Gefährliche Schönheit, trügerische Liebe
 
 [PLANT_PEDIA]
-植物百科
+Pflanzenlexikon
 
 [PLANT_PEDIA_REWARD]
-植物百科奖励
+Pflanzenlexikon-Belohnung
 
 [ALOES]
-芦荟医师
+Aloe Vera Arzt
 
 [ALOES_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 芦荟游走于各大化妆品新品发布会，借机推销她的产品“芦荟水”。今年整个护肤品市场都在讲美白，这可是芦荟的强项。
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{FLAVOR} Aloe Vera ist bei wichtigen Kosmetikneuheiten im Fokus und nutzt die Gelegenheit, für ihr Produkt „Aloe Vera Wasser“ zu werben. In diesem Jahr ist die aufhellende Wirkung der Aloe Vera auf dem gesamten Hautpflegemarkt ein Thema.
 
 [ALOES_DESCRIPTION_HEADER]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [ALOES_TOOLTIP]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [ALOES_PRODUCT_SHORT_DESC]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [ALOES_PRODUCT_SHORT_DESC]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [STORE_PRODUCT_AVATAR_ALOES]
-制造的水雾中包含冰晶，被冰晶笼罩的僵尸会被冻结
+Der erzeugte Wassernebel enthält Eiskristalle, und die von Eiskristallen bedeckten Zombies werden eingefroren.
 
 [STORE_PRODUCT_AVATAR_ALOES_TITLE]
-芦荟装扮
+Aloe-Vera-Kleid
 
 [ALOES_SKILL_LEVEL1]
-晶莹水润
+Kristallklar und feucht
 
 [ALOES_SKILL_LEVEL1_DES]
 有概率抛出一个增加攻击力和攻速的水滴
@@ -38535,6 +38532,9 @@ Die Anzahl der Zombies, die mit der ultimativen Fähigkeit verschlungen werden k
 
 [GUARDSHROOM_SKILL_LEVEL1]
 Pilzverstärkung
+
+[GUARDSHROOM_SKILL_LEVEL2]
+Pilz-Macht
 
 [GUARDSHROOM_SKILL_LEVEL1_DES]
 Die Verdauungszeit kleiner Wachpilze wird verkürzt; der Multiplikator für den Sonnenlichtverbrauch von Wachpilzen wird auf das 1,5-Fache reduziert.
@@ -42196,7 +42196,7 @@ Storchschnabel-Fechter
 Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
 
 [GERANIIFENCER_TOOLTIP]
-Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
+Greift ein Feld vorwärts an und zurück,um Gargantuare Auszuweichen.
 
 [GERANIIFENCER_PRODUCT_SHORT_DESC]
 Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
@@ -42817,7 +42817,7 @@ Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +1
 [BUDUHBOOM_SKILL1_LEVEL2]
 Butterhölle
 
-[BUDUHBOOM_ SKILL_LEVEL2]
+[BUDUHBOOM_SKILL_LEVEL2]
 Butterhölle
 
 [BUDUHBOOM_SKILL_LEVEL2_DES]
@@ -43700,7 +43700,7 @@ Kann Giftnebel absorbieren und so zusätzlichen Schaden verursachen.
 {FLAVOR} Der Lotuswurzelschütze ist ein erfahrener Umweltschützer. Wenn er den Dunst am Himmel sieht, will er immer etwas abschießen.
 
 [LOTUSSHOOTER_TOOLTIP]
-Schießt Wasserpfeile ab, um anzugreifen. Diese absorbieren giftigen Nebel und verleihen dem Angriff eine vergiftende Wirkung.
+Schießt Wasserpfeile ab und absorbiert giftigen Nebel.
 
 [LOTUSSHOOTER_SKILL_LEVEL1]
 Mehrere Wasserpfeile
@@ -43741,7 +43741,7 @@ Kann den oberen und unteren Reihen kontinuierlichen Schaden zufügen.
 {FLAVOR} Passionsblume strebt danach, Ingenieurin zu werden, kann aber bisher nur Zahnräder herstellen.
 
 [PASSIONFLOWER_TOOLTIP]
-Schießt Zahnräder ab, um den nächsten Zombie anzugreifen und Zombies in Reichweite kontinuierlichen Schaden zuzufügen.
+Schießt Zahnräder ab, um den Zombies in Reichweite kontinuierlichen Schaden zuzufügen.
 
 [PASSIONFLOWER_SKILL_LEVEL1]
 Mechanischer Experte
@@ -43780,10 +43780,10 @@ Kann den Regenschirm des Gentleman-Zombies wegblasen.
 {KEYWORD}Merkmale:{STAT}Kann den Regenschirm des Gentleman-Zombies wegblasen.
 
 {KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze.
-{FLAVOR} Blaskapsel: Vanille wollte schon immer Friseur werden, kann aber nur verschiedene Stile blasen.
+{FLAVOR}Vanille wollte schon immer Friseur werden, kann aber nur verschiedene Stile blasen.
 
 [VANILLA_TOOLTIP]
-Kann den Regenschirm des Gentleman-Zombies wegblasen und somit auch den Zombie.
+Kann den Regenschirm des Gentleman-Zombies wegblasen.
 
 [VANILLA_SKILL_LEVEL1]
 Luftkanone
@@ -43816,30 +43816,30 @@ Beim Erzeugen eines Eistornados Es besteht die Möglichkeit, mittelgroße Zombie
 Maulbeere
 
 [MULBERRY_DESCRIPTION_HEADER]
-Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
+Wirft Granaten, um Zombies innerhalb eines Feldes Schaden zuzufügen.
 
 [MULBERRY_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
 {KEYWORD}Pflanzenfunktionen:{STAT}Rote Pflanze
-{FLAVOR} Er ist ein Militärfan und sammelt gerne alle möglichen militärischen Materialien. Eines Tages verkleidete er sich als Schütze und erschreckte damit viele Pflanzen auf der Straße.
+{FLAVOR} Er ist ein Militärfan und sammelt gerne alle möglichen militärischen Materialien. Eines Tages verkleidete er sich als Schütze und erschreckte damit Pflanzen auf der Straße.
 
 [MULBERRY_TOOLTIP]
-Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
+Wirft Granaten, um Zombies innerhalb eines Feldes Schaden zuzufügen.
 
 [MULBERRY_SKILL_LEVEL1]
-Sprengstoff
+Sprengstoff-anfänger
 
 [MULBERRY_SKILL_LEVEL1_DES]
 Es besteht eine 10%ige Chance, dass die Splittergranate bei der Explosion Flächenschaden an den umliegenden Zombies verursacht.
 
 [MULBERRY_SKILL_LEVEL2]
-Sprengstoffexpertise
+Sprengstoff-expertise
 
 [MULBERRY_SKILL_LEVEL2_DES]
 Erhöht die Wirkung von Sprengmeister um 100 %.
 
 [MULBERRY_SKILL_LEVEL5]
-Spaß-Sprengstoff
+Spaßiger-Sprengstoff
 
 [MULBERRY_SKILL_LEVEL5_DES]
 Es besteht die Chance, zufällige Granaten abzuwerfen. Explosive Granaten verursachen hohen Schaden am Gegner und können Zombies in die Luft jagen. Blendgranaten können gegnerische Einheiten im Umkreis von 3x3 bewegungsunfähig machen, und Giftgasbomben können gegnerische Einheiten im Umkreis von 3x3 10 Sekunden lang vergiften.
@@ -44565,7 +44565,7 @@ Erlebe den Feuerangriff des Flammenpilzes und erhalte eine Statue, die du im Sta
 Freigeschaltet am {NUM1} Monat {NUM2} Tag
 
 [PLANTAIN]
-Bajiao-Tänzerin
+Bajiao-Bananen-Tänzerin
 
 [PLANTAIN_DESCRIPTION_HEADER]
 Schiebt den Zombie zum letzten Feld
@@ -44573,13 +44573,13 @@ Schiebt den Zombie zum letzten Feld
 [PLANTAIN_DESCRIPTION]
 {KEYWORD}Features: {STAT}Schiebt den Zombie zum letzten Feld
 {KEYWORD}Pflanzenfeatures: {STAT}Grüne Pflanzen
-{FLAVOR} Zur Feier des fünften Jubiläums luden die Organisatoren Bajiao, die berühmteste Tänzerin der Pflanzenwelt, als Ehrengast ein. Obwohl Bajiao ein Superstar in der Pflanzenwelt ist, engagiert sie sich sehr für wohltätige Zwecke. Sie spendete ihre gesamten Auftrittshonorare an Pflanzenhilfsorganisationen, was ihr einhelliges Lob einbrachte. Dieses Mal präsentierte Bajiao ihren neu kreierten traditionellen Fächertanz, und der Traffic dieses Themas erreichte sofort den ersten Platz in der Zhidu.com-Suche. Wenn ihr ihren Stil sofort erleben wollt, schnappt euch rechtzeitig euer Ticket!
+{FLAVOR} Zur Feier des fünften Jubiläums luden die Organisatoren Bajiao, die berühmteste Tänzerin der Pflanzenwelt, als Ehrengästin ein. Obwohl Bajiao ein Superstar in der Pflanzenwelt ist, engagiert sie sich sehr für wohltätige Zwecke. Sie spendete ihre gesamten Auftrittshonorare an Pflanzenhilfsorganisationen, was ihr einhelligen Lob einbrachte. Dieses Mal präsentierte Bajiao ihren neu kreierten traditionellen Fächertanz, und der Traffic von diesem Themas erreichte sofort den ersten Platz in der Zhidu.com-Suche. Wenn ihr ihren Stil sofort erleben wollt, schnappt euch rechtzeitig euer Ticket!
 
 [PLANTAIN_TOOLTIP]
 Schiebt den Zombie zum letzten Gitter.
 
 [PLANTAIN_SKILL_LEVEL1]
-Tanzerholung
+Tänzer-erholung
 
 [PLANTAIN_SKILL_LEVEL1_DES]
 Reduziert die Abklingzeit um 1 Sekunde.
@@ -44616,13 +44616,13 @@ Nach dem Sieg über einen Zombie kann der nächste normale Angriff einen Spezial
 {KEYWORD}Pflanzenfunktionen:{STAT}Gelbe Pflanze
 {FLAVOR} In einer mysteriösen Westernstadt ist Doppelkanonenzapfen ein Scharfschützen-Cowboy, der gegen alle möglichen Zombies kämpft, die in seine Stadt eindringen und die Zombies schon bei der Erwähnung seines Namens erzittern lassen. Er wäre beinahe Sheriff der Stadt geworden, lehnte aber ab, weil er den Sheriff zu langweilig fand und es besser wäre, etwas in die Bar zu gehen.
 [PINECONE_TOOLTIP]
-Nachdem du einen Zombie besiegt hast, kannst du beim nächsten normalen Angriff einen Spezialangriff ausführen.
+Nach dem besiegen eines Zombies,führt einen Spezialangriff aus.
 
 [PINECONE_SKILL_LEVEL1]
 Doppelwaffe
 
 [PINECONE_SKILL_LEVEL1_DES]
-Es besteht eine 10%ige Chance, dass die linke und rechte Waffe der Doppelwaffe abwechselnd einen normalen Angriff ausführen.
+Es besteht eine 10%ige Chance, dass die linke und rechte Waffe der Doppelwaffe abwechselnd nutzt und einen normalen Angriff ausführst.
 
 [PINECONE_SKILL_LEVEL2]
 Scharfschütze
@@ -47298,7 +47298,7 @@ Unterstützer
 Beruf, der Boni gewährt oder negative Zustände von Pflanzen beseitigt
 
 [PROFESSION_PROTECTOR]
-Zähigkeit
+Verteidiger
 
 [PROFESSION_PROTECTOR_DESCRIPTION]
 Beruf mit guten Fähigkeiten zum blockieren von Zombies
@@ -47307,22 +47307,22 @@ Beruf mit guten Fähigkeiten zum blockieren von Zombies
 Sonnenschein
 
 [PROFESSION_SUNMAKER_DESCRIPTION]
-Berufe, die Sonnenlicht erzeugen können
+Beruf, der Sonnen erzeugen kann
 
 [PROFESSION_SPECIALIST]
-Spezialkräfte
+Sonderkommando
 
 [PROFESSION_SPECIALIST_DESCRIPTION]
-Berufe mit besonderen Angriffsmethoden oder Methoden zur Abwehr von Zombies
+Beruf mit besonderen Angriffsmethoden oder Methoden zur Abwehr von Zombies
 
 [PLANT_DETAILS]
 Detaillierte Attribute
 
 [DETAIL_SUNCOST]
-Sonnenscheinverbrauch
+Sonnenkosten
 
 [DETAIL_COOLDOWN]
-Pflanzenkühlung
+Auflade Zeit
 
 [DETAIL_HITPOINT]
 Gesundheit
@@ -47738,154 +47738,154 @@ Orange
 魔术菇大招召唤僵尸时有{Param_1}%的概率额外召唤一只僵尸
 
 [GENE_DESCRIPTION_MULBERRY]
-桑葚爆破手扔出毒气弹的概率增加{Param_1}%（5阶后生效）
+Die Wahrscheinlichkeit, dass der Maulbeer-Blaster Giftbomben wirft, erhöht sich um {Param_1} % (wirksam ab Level 5).
 
 [GENE_DESCRIPTION_OLIVEPIT]
-橄榄坑封堵时间减少{Param_1}秒
+Die Versiegelungszeit des Olivenkerns wird um {Param_1} Sekunden verkürzt.
 
 [GENE_DESCRIPTION_WINTERMELON]
-冰西瓜投手直接命中已经冰减速的僵尸有{Param_1}%概率冰冻该僵尸
+Der Eismelonenkrug hat eine Wahrscheinlichkeit von {Param_1} %, einen durch Eis verlangsamten Zombie einzufrieren, wenn er direkt getroffen wird.
 
 [GENE_DESCRIPTION_BEARBERRY]
-熊果臼炮大招有{Param_1}%概率卡膛而向右侧随机一个方向多发射一枚炮弹
+Der Bärentraubenmörser: Die ultimative Fertigkeit hat eine Chance von {Param_1} %, eine Ladehemmung zu verursachen und eine zusätzliche Granate in eine zufällige Richtung nach rechts abzufeuern.
 
 [GENE_DESCRIPTION_JEWELRABBIT]
-双生卯兔休息时间缩短{Param_1}%
+Die Ruhezeit der Zwillingskaninchen wird um {Param_1} % verkürzt.
 
 [GENE_DESCRIPTION_LANCERHOYA]
-长枪球兰攻击后减少蓄力时间{Param_1}秒
+Die Ladezeit der Speerorchidee nach Angriffe werden um {Param_1} Sekunden reduziert.
 
 [GENE_DESCRIPTION_BEANCHEMIST]
-豌豆药剂师变形出寒冰或暗影豌豆时，有{Param_1}%概率使植物释放大招。
+Wenn sich der Erbsenapotheker in eine Eis- oder Schattenerbse verwandelt, besteht eine Chance von {Param_1} %, dass die Pflanze die ultimative Fähigkeit freisetzt.
 
 [GENE_DESCRIPTION_SPRINGBEAN]
-弹簧豆弹飞僵尸的概率增加{Param_1}%（2阶后生效）
+Die Wahrscheinlichkeit, dass Frühlingsbohnen Zombies in die Luft jagen, erhöht sich um {Param_1} % (wirksam ab Level 2).
 
 [GENE_DESCRIPTION_STREETLAMP]
-路灯花生命值增加{Param_1}%
+Die Gesundheit von Straßenlaternenblüten erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_PEAPOD]
-豌豆荚随叠种个数增加攻击力{Param_1}%
+Die Angriffskraft von Erbsenschoten erhöht sich um {Param_1} % mit der Anzahl überlappender Pflanzen.
 
 [GENE_DESCRIPTION_TORCHWOOD]
-火炬树桩可点燃非豌豆类子弹，这些子弹在点燃后伤害增加{Param_1}%
+Fackelholzstümpfe können andere Kugeln als Erbsen entzünden, deren Schaden nach der Zündung um {Param_1} % steigt.
 
 [GENE_DESCRIPTION_PUMPKIN]
-南瓜头种植时额外获得一个{Param_1}点生命值的南瓜面甲
+Wenn du einen Kürbiskopf pflanzt, erhältst du zusätzliche {Param_1} Punkte Gesundheit.
 
 [GENE_DESCRIPTION_LAVAGUAVA]
-岩浆番石榴攻击力增加{Param_1}%
+Lavaguave erhöht die Angriffskraft um {Param_1} %
 
 [GENE_DESCRIPTION_IMITATER]
-变身茄子会在被模仿植物的属性上额外增加攻防{Param_1}%
+Die Verwandlung in eine Aubergine erhöht Angriff und Verteidigung der imitierten Pflanze um {Param_1} %.
 
 [GENE_DESCRIPTION_IMPPEAR]
-小黄梨四阶落地释放大招的概率增加{Param_1}%
+Die Wahrscheinlichkeit, einen großen Angriff auszuführen, wenn die gelbe Birne der vierten Stufe auf dem Boden landet, erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_POWERPLANT]
-瓷砖萝卜降低阳光消耗{Param_1}%
+Die geflieste Karotte reduziert den Sonnenlichtverbrauch um {Param_1} %.
 
 [GENE_DESCRIPTION_CACTUS]
-仙人掌的大招强化针刺额外附带电流，有{Param_1}%的概率使命中的僵尸麻痹
+Der große Angriff des Kaktus ist stärker. Die chemischen Nadeln werden zusätzlich mit elektrischem Strom aufgeladen, wodurch die getroffenen Zombies mit einer Wahrscheinlichkeit von {Param_1} % gelähmt werden.
 
 [GENE_DESCRIPTION_TANGLEKELP]
-缠绕水草种植冷却时间缩短{Param_1}%
+Die Abkühlzeit des Pflanzens von Verworrenem Wasserkraut wird um {Param_1} % verkürzt.
 
 [GENE_DESCRIPTION_CHILIBEAN]
-巴豆种植冷却时间缩短{Param_1}%
+Die Die Abkühlzeit der Krotonpflanzung wird um {Param_1} % verkürzt.
 
 [GENE_DESCRIPTION_FIREPEASHOOTER]
-火焰豌豆射手攻击力增加{Param_1}%
+Die Angriffskraft der Flammenerbsenkanone wird um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_PINEAPPLE]
-旋转菠萝生命值增加{Param_1}%
+Die Gesundheit der Spinnenden Ananas wird um {Param_1} % erhöht.
 
-[GENE_DESCRIPTION_HEATHSEEKER]
-石楠探索者有{Param_1}%概率使发射的飞镖数量翻倍
+[GENE_DESCRIPTION_HEATHS EEKER]
+Heather Explorer hat eine Chance von {Param_1} %, die Anzahl der abgefeuerten Pfeile zu verdoppeln.
 
 [GENE_DESCRIPTION_SQUASH]
-窝瓜攻击后不消失且返回原地的概率增加{Param_1}%（2阶后生效）
+Die Wahrscheinlichkeit, dass Squash nach einem Angriff nicht verschwindet und zur Ausgangsposition zurückkehrt, erhöht sich um {Param_1} % (wirksam ab Stufe 2).
 
 [GENE_DESCRIPTION_BYTTNERIAMETEORHAMMER]
-刺果流星锤蓄力攻击伤害提高{Param_1}%
+Der Schaden des aufgeladenen Angriffs des Bulgur-Meteorhammers erhöht sich um {Param_1} %
 
 [GENE_DESCRIPTION_BUTTERCUP]
-黄油毛茛攻击速度增加{Param_1}%
+Die Angriffsgeschwindigkeit von Butterblume erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_GATLINGPEA]
-机枪豌豆大招后保留辅助机枪并在每次攻击时额外对右侧3行各发射6发子弹，{Param_1}次攻击后结束
+Nach dem ultimativen Angriff der Gatling-Erbse bleibt die zusätzliche Gatling-Erbse erhalten und wird bei jedem Angriff zusätzlich eingesetzt. Feuert jeweils 6 Kugeln in die 3 Reihen rechts ab und endet nach {Param_1} Angriffen.
 
 [GENE_DESCRIPTION_MANGOSTEEN]
-聚能山竹大招伤害增加{Param_1}%
+Erhöht den Schaden der ultimativen Mangostan-Attacke um {Param_1} %.
 
 [GENE_DESCRIPTION_ICELOTUS]
-滴水冰莲水潭持续时间延长{Param_1}%
+Erhöht die Dauer des tropfenden Eislotus-Pools um {Param_1} %.
 
 [GENE_DESCRIPTION_GOLDLEAF]
-黄金叶种植冷却时间缩短{Param_1}%
+Verkürzt die Abklingzeit der Goldblatt-Pflanzung um {Param_1} %
 
 [GENE_DESCRIPTION_BLOOMERANG]
-回旋镖射手攻击速度增加{Param_1}%
+Erhöht die Angriffsgeschwindigkeit des Bumerang-Werfers um {Param_1} %.
 
 [GENE_DESCRIPTION_ANTHURIUM]
-电离红掌大电球的伤害提升{Param_1}%
+Ionisiertes Anthurium: Der Schaden des Elektroballs wird um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_HOMINGTHISTLE]
-导向蓟连续发射两颗子弹的概率增加{Param_1}%（2阶后生效）
+Die Wahrscheinlichkeit, dass Homing Thistle zwei Kugeln hintereinander abfeuert, wird um {Param_1} % erhöht (wirksam ab Level 2).
 
 [GENE_DESCRIPTION_AGAVE]
-龙舌兰攻击时有{Param_1}%概率额外挥出一道与斩击攻击力一致的剑气，对右侧第3格至第5格的僵尸造成伤害
+Beim Angriff hat Agave eine Wahrscheinlichkeit von {Param_1} %, zusätzliche Schwertenergie mit der gleichen Angriffskraft wie beim Hiebangriff zu schwingen und Zombies im 3. bis 5. Feld rechts Schaden zuzufügen.
 
 [GENE_DESCRIPTION_HYDROCOTYLEDRUMMER]
-铜钱草鼓手为乐团植物提供的攻击力攻速增幅效果提升{Param_1}%
+Der Effekt der Angriffskraft- und Angriffsgeschwindigkeitssteigerung durch den Copper Coin Drummer für die Bandpflanzen. Erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_THYMEWARP]
-逆时草种植冷却时间缩短{Param_1}%
+Abklingzeit der Graspflanzung um {Param_1} % reduziert.
 
 [GENE_DESCRIPTION_CROWNFLOWER]
-激光皇冠花大招伤害增加{Param_1}%
+Ultimativer Schaden der Laserkronenblume um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_BURDOCKBATTER]
-牛蒡击球手每次大招的首次热力状态有{Param_1}%概率触发后仍然保留
+Der erste Hitzezustand jeder Ultimativfähigkeit von Kletten-Schlagmann hat eine Chance von {Param_1} %, nach Auslösung erhalten zu bleiben.
 
 [BATTLE_ORDER_AUTUMN]
-金秋出游
+Herbstausflug
 
 [BATTLE_ORDER_WINTER]
-冬日庆典
+Winterfest
 
 [BATTLE_ORDER_SPRINGFESTIVAL]
-冬日派对
+Winterparty
 
 [BATTLE_ORDER_SPRING]
-童趣庆典
+Kinderfest
 
 [BATTLE_ORDER_SUMMER]
-金秋出游
+Herbstausflug
 
 [BATTLE_ORDER_TAB1]
-寻宝等级
+Schatzsuche Level
 
 [BATTLE_ORDER_TAB2]
-开启宝藏
+Schätze freischalten
 
 [BATTLE_ORDER_TAB3]
-任务挑战
+Quest-Herausforderungen
 
 [BATTLE_ORDER_TAB4]
-好礼秒杀
+Gute Geschenke
 
 [BATTLE_ORDER_TAB5_AUTUMN]
-金秋出游
+Herbstausflug
 
 [BATTLE_ORDER_TAB5_WINTER]
-幸运冬日
+Glücklicher Winter
 
 [BATTLE_ORDER_TAB5_SPRINGFESTIVAL]
-冬日派对
+Winterfest
 
 [BATTLE_ORDER_TAB5_SPRING]
-童趣庆典
+Kinderfest
 
 [BATTLE_ORDER_TAB5_SUMMER]
 清凉一夏
@@ -51394,74 +51394,73 @@ Karneval
 种植冷却缩短10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_1]
-桑葚爆破手周年庆装扮
+Maulbeeren Blaster-Jubiläumskostüm
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_2]
-桑葚成长礼包装扮
+Maulbeeren Wachstumsgeschenkkostüm
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_2]
-种植冷却减少10%
+Pflanzen-Abklingzeit um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_JEWELRABBIT_1]
-双生卯兔成长礼包装扮
+Zwillingskaninchen-Wachstumsgeschenkkostüm
 
-[NEW_AVATAR_DESCRIPTION_JEWELRABBIT_1]
-种植冷却减少10%
-
+[NEW_AVATAR_DESCRIPTION_JEWELRABBIT_ 1]
+Pflanzen-Abklingzeit um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_1]
-熊果臼炮周年庆装扮
+Bearberry Mörser-Jubiläumskostüm Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BEARBERRY_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_1]
-豌豆迫击炮周年庆装扮
+Jubiläumskostüm „Kleiner Erbsenmörser“
 
 [NEW_AVATAR_DESCRIPTION_SLINGPEA_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MOONFLOWER_1]
-月光花周年庆装扮
+Jubiläumskostüm „Mondblume“
 
-[NEW_AVATAR_DESCRIPTION_MOONFLOWER_1]
-阳光产出间隔缩短5秒
+[NEW_AVATAR_DESCRIPTION _MOONFLOWER_1]
+Das Intervall zwischen der Sonnenlichtproduktion wird um 5 Sekunden verkürzt.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_1]
-小喷菇周年庆装扮
+Jubiläumskostüm „Puffpilz“
 
 [NEW_AVATAR_DESCRIPTION_PUFFSHROOM_1]
-攻击力增加15%
+Angriffskraft erhöht um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_2]
-荸荠兄弟成长装扮
+Wachstumskostüm der Wasserkastanienbrüder
 
 [NEW_AVATAR_DESCRIPTION_ELEOCURLING_2]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_2]
-厨师杓兰成长装扮
+Wachstumskostüm des Küchenchefs Laveran
 
-[NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
-攻击力增加10%
+[NEW_ AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_1]
-聚能山竹成长装扮
+Energiefokussiertes Mangostan-Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_MANGOSTEEN_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_1]
-橄榄坑成长装扮
+Olivenkernwachstum Kostüm
 
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_1]
-种植冷却缩短20%
+Abklingzeit beim Pflanzen um 20 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_2]
-橄榄坑眼镜装扮
+Olivengrubenbrillen-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_2]
 休息时间减少5s
@@ -52543,31 +52542,31 @@ Would you like to purchase a Security Gourd to push zombies back and add 30 seco
 击杀僵尸时不产生额外的能量豆
 
 [MUTATOR_ZOMBIE_LEVEL]
-僵尸强度
+Zombiestärke
 
 [MUTATOR_ZOMBIE_LEVEL_DESC]
-僵尸的整体强度
+Gesamtstärke der Zombies
 
 [TOOL_PACKET_TOOL_RIFT_PLANT_LEVELUP]
-植物升阶
+Pflanzen-Upgrade
 
 [TOOL_PACKET_TOOL_RIFT_PLANTFOOD]
-能量豆
+Energiebohnen
 
 [TOOL_PACKET_TOOL_RIFT_ARTIFACT]
-神器使用次数
+Artefakt-Verwendungs Anzahl
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANT_LEVELUP]
-使用后植物阶级+1，但是不能超过养成的最高阶级。
+Nach der Nutzung erhöht sich das Pflanzenlevel um 1, kann aber die höchste Kultivierungsstufe nicht überschreiten.
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANTFOOD]
-使用后能量豆+1
+Spezialdünger erhöht sich nach der Nutzung um 1.
 
 [TOOL_PACKET_DESC_TOOL_RIFT_ARTIFACT]
-使用后神器使用次数+1
+Artefakt-Verwendungs Anzahl erhöht sich nach der Nutzung um 1.
 
 [PERK_MAX_LEVEL]
-最高等级
+Maximales Level
 
 [PERK_NAME_APPLYCONDITION]
 {CONDITION} Zombie-Buff
@@ -66435,267 +66434,270 @@ FPS：{NUM}
 重新匹配
 
 [NEW_PLANT_UI_LEVEL_UP_BTN_TEXT]
-进阶
+Fortgeschritten
 
 [NEW_PLANT_UI_VALUE_DETAIL_BTN_TEXT]
-详细属性
+Detaillierte Attribute
 
 [NEW_PLANT_UI_VALUE_AVATAR_BTN_TEXT]
-查看装扮
+Kostüme anzeigen
 
 [NEW_PLANT_UI_VALUE_AVATAR_DES_LABEL_TEXT]
-装扮加成
+Kostümbonus
 
-[NEW_PLANT_UI_VALUE_AVATAR_DES_TEXT_DEFAULT]
-无装扮加成
+[NEW_PLANT_UI_ VALUE_AVATAR_DES_TEXT_DEFAULT]
+Kein Kostümbonus
 
 [NEW_PLANT_UI_VALUE_ACCESSORY_BTN_TEXT]
-查看挂件
+Accessoires anzeigen
 
 [NEW_PLANT_UI_VALUE_ACCESSORY_DES_LABEL_TEXT]
-挂件加成
+Accessoirebonus
 
 [NEW_PLANT_UI_VALUE_ACCESSORY_DES_TEXT_DEFAULT]
-无挂件加成
+Kein Accessoire-Artikel Bonus
 
 [NEW_PLANT_UI_SORT_BY_TYPE_BTN_TEXT]
-筛选
+Filter
 
 [NEW_PLANT_UI_SORT_BY_VALUE_BTN_TEXT]
-排序
+Sortieren
 
 [NEW_PLANT_UI_SORT_BY_TYPE_ALL_TYPE_TEXT]
-分类
+Kategorie
 
 [NEW_PLANT_UI_SORT_BY_TYPE_ALL_RARE_TEXT]
-稀有度
+Seltenheit
 
 [NEW_PLANT_UI_SORT_BY_TYPE_ALL_TAG_TEXT]
-属性
+Eigenschaften
 
 [NEW_PLANT_UI_SORT_BY_TYPE_CONFIRM_BTN_TEXT]
-确认筛选
+Filter verwenden
 
 [NEW_PLANT_UI_PLANT_NUM_TEXT]
-全部({NUMBER1}/{NUMBER2})
+Alle ({NUMBER1}/{NUMBER2})
 
 [NEW_PLANT_UI_SWITCH_TO_OLD]
-确定要回到旧版界面吗？
+Möchten Sie wirklich zur alten Lexikon Version zurückkehren?
 
 [NEW_PLANT_UI_SWITCH_TO_NEW]
-确定要回到新版界面吗？
+Möchten Sie wirklich zur neuen Lexikon Version zurückkehren?
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_0]
-远程
+Fernkampf
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_1]
-先锋
+Vorhut
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_2]
-辅助
+Assist
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_3]
-坚韧
+Zähigkeit
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_4]
-阳光
+Sonnenschein
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_5]
-奇兵
+Schurke
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_0]
-白色
+Weiß
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_1]
-绿色
+Grün
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_2]
-蓝色
+Blau
 
-[NEW_PLANT_UI_SORT_BY_TYPE_RARE_3]
-紫色
+[NEW_PLANT_UI_SOR T_BY_TYPE_RARE_3]
+Lila
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_4]
-橙色
+Orange
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_0]
-生命
+Leben
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_1]
-攻击
+Angriff
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_2]
-射程
+Reichweite
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_3]
-种植
+Pflanzen
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_4]
-辅助
+Assistieren
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_5]
-控制
+Kontrolle
 
-[NEW_PLANT_UI_SORT_BY_VALUE_P_6]
-阶数
+[NEW_PLANT_UI_SORT_BY_VALUE_P_5]
+Kontrolle
+
+[NEW_PLANT_UI_SORT_BY_VALUE_P_6] LUE_P_6]
+Level
 
 [NEW_PLANT_UI_TAB_VALUE_DETAIL_TEXT]
-属性
+Attribute
 
 [NEW_PLANT_UI_TAB_VALUE_DETAIL_DES_TEXT]
-介绍
+Einführung
 
 [NEW_PLANT_UI_TAB_AVATAR_TEXT]
-装扮
+Outfit
 
 [NEW_PLANT_UI_TAB_ACCESSORY_TEXT]
 Accessoire
 
 [NEW_PLANT_UI_PLANT_VALUE_TAG_DPS]
-输出
+Leistung
 
 [NEW_PLANT_UI_PLANT_VALUE_HP_LABEL]
-生命
+Gesundheit
 
 [NEW_PLANT_UI_PLANT_VALUE_ATTACK_LABEL]
-攻击
+Angriff
 
-[NEW_PLANT_UI_PLANT_VALUE_RANGE_LABEL]
-射程
+[NEW_PLANT_UI_PLANT_VALUE_ RANGE_LABEL]
+Reichweite
 
 [NEW_PLANT_UI_PLANT_VALUE_PLANT_LABEL]
-种植
+Pflanzen
 
 [NEW_PLANT_UI_PLANT_VALUE_SUPPORT_LABEL]
-辅助
+Unterstützung
 
 [NEW_PLANT_UI_PLANT_VALUE_CONTROL_LABEL]
-控制
+Kontrolle
 
 [PLANT_SPECIAL_TAG_1]
-灼烧I
+Verbrennen I
 
 [PLANT_SPECIAL_TAG_3]
-眩晕I
+Betäuben I
 
 [PLANT_SPECIAL_TAG_5]
-冻结I
+Einfrieren I
 
 [PLANT_SPECIAL_TAG_7]
-中毒I
+Vergiften I
 
 [PLANT_SPECIAL_TAG_9]
-麻痹I
+Lähmen I
 
 [PLANT_SPECIAL_TAG_11]
-魅惑I
+Bezaubern I
 
 [PLANT_TAG_1]
-治疗
+Heilung
 
 [PLANT_TAG_2]
-支援
+Unterstützung
 
 [PLANT_TAG_3]
-削弱
+Schwächen
 
 [PLANT_TAG_4]
-产阳
+Yang-Produktion
 
 [PLANT_TAG_6]
-豌豆
+Erbse
 
 [PLANT_TAG_7]
-输出
+Ausgabe
 
 [PLANT_TAG_8]
-群攻
+Gruppenangriff
 
 [PLANT_TAG_9]
-火焰
+Flamme
 
 [PLANT_TAG_10]
-秒杀
+Sofort töten
 
 [PLANT_TAG_11]
-抛投
+Werfen
 
-[PLANT_TAG_12]
-手操
+[PLANT_TAG_1 ANT_TAG_12]
+Handbuch
 
 [PLANT_TAG_13]
-爆炸
+Explosion
 
 [PLANT_TAG_14]
-灰烬
+Asche
 
 [PLANT_TAG_27]
-电能
+Elektrizität
 
 [PLANT_TAG_17]
-寒冰
+Eis
 
 [PLANT_TAG_37]
-魔法
+Magie
 
 [PLANT_TAG_35]
-剧毒
+Gift
 
 [PLANT_TAG_15]
-暗影
+Schatten
 
 [PLANT_TAG_18]
-召唤
+Beschwörung
 
 [PLANT_TAG_19]
-消耗
+Verbrauch
 
 [PLANT_TAG_20]
-操控
+Kontrolle
 
-[PLANT_TAG_21]
-飞行
+[PLANT_ TAG_21]
+Fliegend
 
 [PLANT_TAG_22]
-水生
+Aquatisch
 
 [PLANT_TAG_23]
-低矮
+Klein
 
 [PLANT_TAG_24]
-高大
+Groß
 
 [PLANT_TAG_25]
-藤蔓
+Ranke
 
 [PLANT_TAG_28]
-防御
+Verteidigung
 
 [PLANT_TAG_29]
-减速
+Verlangsamung
 
 [PLANT_TAG_30]
-位移
+Verdrängung
 
 [PLANT_TAG_31]
-控场
+Kontrolle
 
 [PLANT_TAG_33]
-物理
+Physisch
 
 [WORLD_LEVEL_PACKAGE_TITLE]
-潘妮纪行
+Pennys Reisen
 
 [WORLD_LEVEL_PACKAGE_TIPS_TITLE]
-活动说明
+Ereignisbeschreibung
 
 [WORLD_LEVEL_PACKAGE_TIPS_DESC]
-1. 礼包开启跟随世界进度，在不同世界的不同阶段提供不同内容的礼包。
-2. 礼包开启需要玩家收集关卡内的星星。
-3. 礼包限时开启3天，结束后将不再展示也不可购买。
+1. Das Öffnen von Geschenkpaketen folgt dem Fortschritt der Welt. Geschenkpakete mit unterschiedlichem Inhalt werden in verschiedenen Phasen in verschiedenen Welten bereitgestellt.
+2. Um das Geschenkpaket zu öffnen, müssen Spieler im Level Sterne sammeln.
+3. Das Geschenkpaket ist für drei Tage verfügbar und wird nach dem Ende nicht mehr angezeigt oder zum Kauf angeboten.
 
 [WORLD_LEVEL_PACKAGE_0]
-小号礼包
+Kleines Geschenkpaket
 
 [WORLD_LEVEL_PACKAGE_1]
 中号礼包
@@ -70908,49 +70910,49 @@ Accessoire
 吹风荚兰吹出一个^ff0000^大寒冰龙卷风，使僵尸减速，造成更高伤害或直接吹飞小体型僵尸。^oldclr^吹飞5个僵尸后龙卷风消散。
 
 [MULBERRY_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在桑葚爆破手右侧时，会发射出一个手榴弹，砸中僵尸后对小范围内的僵尸造成500点爆炸伤害。
+Erscheint ein Zombie rechts von der Maulbeere, feuert dieser eine Granate ab, die den Zombie trifft und ihm in geringem Umkreis 500 Explosionsschaden zufügt.
 
 [MULBERRY_NEW_SKILL_LEVEL2_DES]
-桑葚爆破手攻击时有10%的概率发射破片手雷，对周围3×3的僵尸造成750点爆炸伤害。
+Beim Angriff hat die Maulbeere eine Chance von 10 %, eine Splittergranate abzufeuern, die den Zombies im umliegenden 3×3-Bereich 750 Explosionsschaden zufügt.
 
 [MULBERRY_NEW_SKILL_LEVEL3_DES]
-爆破专家技能的触发概率提升100%，攻击时有10%的概率发射破片手雷，爆炸伤害提升至1000点。
+Die Auslösewahrscheinlichkeit der Fertigkeit „Sprengexperte“ ist um 100 % erhöht. Außerdem besteht eine Chance von 10 %, beim Angriff eine Splittergranate abzufeuern, wodurch der Explosionsschaden auf 1000 Punkte erhöht wird.
 
 [MULBERRY_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger Fähigkeit direkt freizusetzen – ein großer Move!
 
 [MULBERRY_NEW_SKILL_LEVEL5_DES]
-有4%的概率扔出毒气弹，使周围3×3的僵尸进入持续10秒、每秒造成僵尸生命值20%伤害的^701edf^中毒Ⅰ^oldclr^状态。有12%的概率扔出闪光弹，使周围3×3的僵尸^848484^眩晕Ⅰ^oldclr^2秒。有4%的概率扔出爆破弹，对僵尸造成高额伤害且有概率炸飞小范围中小体型僵尸。
+Es besteht eine 4%ige Chance, eine Gasbombe zu werfen. Diese versetzt Zombies im Umkreis von 3×3 für 10 Sekunden in den Zustand „vergiftet Ⅰ^oldclr^“ und verursacht 20 % Schaden pro Sekunde. Es besteht eine 12%ige Chance, eine Blitzbombe zu werfen. Diese betäubt Zombies im Umkreis von 3×3 für 2 Sekunden. Es besteht eine 4%ige Chance, eine Explosionsbombe zu werfen. Diese verursacht hohen Schaden an Zombies und kann kleine und mittelgroße Zombies in geringer Entfernung in die Luft jagen.
 
 [MULBERRY_PLANTFOOD_DESCRIPTION]
-桑葚爆破手一次召唤多颗手雷弹，连续向全屏僵尸抛射6颗手雷弹，对僵尸造成爆炸伤害。
+Die Maulbeere beschwört mehrere Granaten gleichzeitig und wirft kontinuierlich sechs Granaten auf Zombies im gesamten Bildschirm, die Explosionsschaden verursachen.
 
 [MULBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
-桑葚爆破手一次召唤多颗手雷弹，连续向全屏僵尸抛射^ff0000^7颗手雷弹并追加1颗大手雷^oldclr^，对僵尸造成爆炸伤害。
+Die Maulbeere beschwört mehrere Granaten gleichzeitig und wirft kontinuierlich sieben Granaten und eine zusätzliche große Granate auf Zombies auf dem gesamten Bildschirm, die Explosionsschaden verursachen.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在电能豌豆右侧时，会发射一个直线飞行的电豌豆，穿透所有僵尸造成伤害并对周围至多2个僵尸造成命中伤害两倍的溅射伤害。
+Wenn ein Zombie rechts von der Elektro-Erbse erscheint, schleudert er eine Elektro-Erbse, die geradlinig fliegt, alle Zombies durchdringt und ihnen Schaden zufügt. Bis zu zwei Zombies in der Umgebung erleiden doppelten Flächenschaden.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-电能豌豆攻击时有20%的概率发射一个300点伤害的高能闪电球，可以使僵尸^ff9600^麻痹Ⅰ^oldclr^1秒。
+Beim Angriff der Elektroerbse besteht eine Chance von 20 %, einen energiereichen Blitzball mit 300 Schaden abzufeuern, der Zombies innerhalb von 1 Sekunde lähmen kann.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-闪电球升级为雷暴球，触发概率提升至30%，伤害提升至400。
+Der Blitzball wird zu einem Gewitterball aufgewertet, mit einer Auslösewahrscheinlichkeit von 30 % und einem Schaden von 400.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率发射一个紫色闪电球，在命中僵尸后生成一个持续3秒、吸引周围僵尸的电能磁场，每秒对僵尸造成270点伤害。
+Beim Angriff besteht eine Chance von 20 %, einen violetten Blitzball abzufeuern. Trifft ein Zombie, erzeugt die elektrische Erbse ein Magnetfeld, das 3 Sekunden lang anhält und umstehende Zombies anzieht. Es verursacht 270 Schaden pro Sekunde.
 
 [ELECTRICPEASHOOTER_PLANTFOOD_DESCRIPTION]
-电能豌豆发射3个大闪电球，对僵尸造成伤害后爆裂向周围扩散出6个小闪电球。
+Die elektrische Erbse schießt drei große Blitzbälle ab, die explodieren und sechs kleine Blitzbälle verteilen, nachdem sie den Zombie verletzt haben.
 
 [ELECTRICPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-电能豌豆发射3个大闪电球，对僵尸造成伤害后爆裂向周围扩散出6个小闪电球，^ff0000^并额外追加2棵紫色闪电球，对僵尸造成伤害与^oldclr^^ff9600^麻痹Ⅰ^oldclr^^ff0000^。^oldclr^
+Die elektrische Erbse schießt drei große Blitzbälle ab, die explodieren und sechs kleine Blitzbälle verteilen, nachdem sie Zombies verletzt haben. ^ff0000^ Außerdem fügt sie zwei weitere violette Blitzbälle hinzu, die Zombies verletzen und ^oldclr^^ff9600^ lähmen. ^oldclr^
 
 [ICYCURRANT_NEW_SKILL_LEVEL1_DES]
-两棵寒冰醋栗之间会连接出现冰地，当僵尸靠近寒冰醋栗或经过冰地时，会受到伤害并减速。
+Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken nähern oder Eisboden durchqueren, werden sie beschädigt und verlangsamt.
 
 [ICYCURRANT_NEW_SKILL_LEVEL2_DES]
 寒冰醋栗对僵尸攻击时有10%的概率对僵尸造成75点伤害并^0072ff^冻结Ⅰ^oldclr^僵尸3秒。
@@ -72199,114 +72201,113 @@ Accessoire
 [HOCUSCROCUS_AVATAR_PLANTFOOD_DESCRIPTION]
 魔法番红花同时对场上最近的3个僵尸发射光线并在3个僵尸所在位置生成橙黄色迷雾，范围内的僵尸都会受到缩小效果影响，迷雾持续时间^ff0000^为6s。^oldclr^
 
-
 [SPRINGPRINCESS_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在公主弹簧草右侧时。公主弹簧草会将头上的卷发当作弹簧发射出去，对撞到的第一个僵尸造成伤害，随后随机弹到该僵尸周围一格，形成一个小弹簧，对第一个踩上去的僵尸造成一次击退1格的效果。不会影响植物种植，只会被僵尸触发。
+Wenn ein Zombie rechts von Prinzessin Frühlingsgras erscheint, nutzt Prinzessin Frühlingsgras ihr lockiges Haar als Feder, um dem ersten getroffenen Zombie Schaden zuzufügen. Anschließend springt sie zufällig auf ein Gitter um den Zombie herum und bildet eine kleine Feder, die dem ersten Zombie, der darauf tritt, einen Rückstoßeffekt von einem Gitter verursacht. Der Effekt hat keinen Einfluss auf das Pflanzen und wird nur von Zombies ausgelöst.
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL2_DES]
-公主弹簧草发射的弹簧得到了强化，击退距离提升了0.5格。
+Die von Prinzessin Frühlingsgras abgefeuerten Federn wurden verstärkt und die Rückstoßdistanz um 0,5 Gitter erhöht.
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL3_DES]
-公主弹簧草发射的弹簧得到了强化，击退距离提升了1格。
+Die von Prinzessin Frühlingsgras abgefeuerten Federn wurden verstärkt und die Rückstoßdistanz um ein Gitter erhöht.
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL5_DES]
-攻击时有25%概率射出彩色的魔法弹簧,魔法弹簧落在第一个僵尸脚底后将其击退，随后会自动寻找最近的一个僵尸弹到其脚下将其击退，重复此行为击退4个僵尸后消失。
+Beim Angriff besteht eine 25%ige Chance, bunte magische Federn abzufeuern. Diese Federn stoßen den ersten Zombie zurück, nachdem sie auf ihm gelandet sind. Anschließend findet er automatisch den nächsten Zombie und springt auf, um ihn zurückzustoßen. Wiederhole diesen Vorgang, nachdem du 4 Zombies zurückgestoßen hast und verschwunden bist.
 
 [SPRINGPRINCESS_PLANTFOOD_DESCRIPTION]
-公主弹簧草向全场每个僵尸脚下射出一个弹簧，弹簧可将僵尸击退1格，击退时造成伤害。
+Die Prinzess Bohne schießt eine Feder unter die Füße jeden Zombies's auf dem Feld. Die Feder kann die Zombies um ein Feld zurückstoßen und beim Zurückstoßen Schaden verursachen.
 
 [SPRINGPRINCESS_AVATAR_PLANTFOOD_DESCRIPTION]
-公主弹簧草向全场每个僵尸脚下射出一个弹簧，^ff0000^弹簧可将僵尸击退2格，击退时造成更高伤害。^oldclr^
+Die Prinzess Bohne schießt jedem Zombie auf dem Feld eine Feder unter die Füße. ^ff0000^ Die Feder kann die Zombies um 2 Felder zurückstoßen und verursacht dabei höheren Schaden. ^oldclr^
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在右侧时，会发射钻头子弹持续对穿过的僵尸造成每秒100点伤害。钻头子弹在穿过僵尸时自身和僵尸移动速度都会变慢，在钻了3秒后子弹过热爆炸，对当前僵尸造成30点伤害。对僵尸方障碍物攻击力翻倍！
+Wenn rechts ein Zombie erscheint, feuert er Bohrgeschosse ab, die den Zombies, die ihn durchdringen, kontinuierlich 100 Schadenspunkte pro Sekunde zufügen. Beim Bohren durch Zombies verlangsamt das Bohrgeschoss die Bewegungsgeschwindigkeit des Geschosses und der Zombies. Nach 3 Sekunden Bohrzeit überhitzt das Geschoß und explodiert, was dem aktuellen Zombie 30 Schadenspunkte zufügt. Verdoppelt die Angriffskraft gegen Zombiehindernisse!
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL2_DES]
-钻头子弹的旋转能力加强，在钻了4秒后才会过热爆炸。
+Die Rotationsfähigkeit des Bohrgeschosses wurde verbessert. Nach 4 Sekunden Bohrzeit überhitzt es und explodiert.
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL3_DES]
-保持旋转的技能效果提升100%，在钻了5秒后才会过热爆炸。
+Der Effekt der Fähigkeit, sich weiter zu drehen, wurde um 100 % erhöht. Nach 5 Sekunden Bohrzeit überhitzt es und explodiert.
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einsetzen besteht die Chance, die Energiebohne direkt auszulösen!
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL5_DES]
-突击竹兵发射的子弹升级成更大的钻头子弹，钻头持续时间结束时，最终的爆炸变成单格范围的爆炸。
+Die von den Angriffsbambussoldaten abgefeuerten Geschosse werden zu größeren Bohrgeschossen aufgewertet. Nach Ablauf der Bohrzeit wird die letzte Explosion zu einer Einzelgitterexplosion.
 
 [RIFLEBAMBOO_PLANTFOOD_DESCRIPTION]
-突击竹兵立即向右侧三行分别发射1发巨大的钻头子弹，对穿过的僵尸造成伤害和减速，并在爆炸时造成高额的单格范围伤害。
+Der Angriffsbambussoldat feuert sofort ein riesiges Bohrgeschoss auf jede der drei Reihen rechts ab. Es beschädigt und verlangsamt Zombies, die hindurchgehen, und verursacht bei der Explosion hohen Flächenschaden im Einzelgitter.
 
 [RIFLEBAMBOO_AVATAR_PLANTFOOD_DESCRIPTION]
-突击竹兵立即向右侧三行分别发射1发巨大的钻头子弹，对穿过的僵尸造成伤害和^ff0000^更强的减速^oldclr^，并在爆炸时^ff0000^造成更高的单格范围伤害并^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^2秒。^oldclr^
+Der Angriffsbambussoldat feuert sofort ein riesiges Bohrgeschoss auf jede der drei Reihen rechts ab. Es beschädigt und verlangsamt Zombies, die hindurchgehen, und verursacht bei der Explosion hohen Flächenschaden im Einzelgitter. ^ff0000^höheren Flächenschaden im Einzelgitter und^oldclr^^848484^Betäubung für Ⅰ^oldclr^^ff000^2 Sekunden. ^oldclr^
 
 [BUTTERCUP_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在黄油毛茛右侧时，黄油毛茛会制造一块黄油向前方甩动，甩到僵尸身上并且在地上留下一个黄油坑，僵尸踩到黄油坑时会受到攻击力伤害同时黄油坑消失，黄油坑持续一段时间没有被僵尸踩会消失。
+Wenn ein Zombie rechts von Butter Buttercup erscheint, erzeugt Butter Buttercup ein Stück Butter, schwingt es nach vorne und wirft es dem Zombie zu. Ein Butterkern bleibt auf dem Boden zurück. Tritt der Zombie auf den Butterkern, wird er durch die Angriffskraft beschädigt, und der Butterkern verschwindet. Der Butterkern verschwindet nach einer gewissen Zeit, wenn kein Zombie darauf tritt.
 
 [BUTTERCUP_NEW_SKILL_LEVEL2_DES]
-制造出更大块的黄油，掉落时黄油坑的厚度增加，2个僵尸踩到后消失。
+Erzeugt ein größeres Butterstück. Wenn es fällt, wird der Kern dicker. Er verschwindet, sobald zwei Zombies darauf treten.
 
 [BUTTERCUP_NEW_SKILL_LEVEL3_DES]
-制造出更大块的黄油，黄油掉落时黄油坑的厚度增加，3个僵尸踩到后消失。
+Erzeugt ein größeres Butterstück. Wenn die Butter fällt, wird der Kern dicker. Er verschwindet, sobald drei Zombies darauf treten.
 
 [BUTTERCUP_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger Fähigkeit direkt auszulösen!
 
 [BUTTERCUP_NEW_SKILL_LEVEL5_DES]
-攻击时必定额外扔出3个9号黄油，优先攻击右侧3x3范围内最左的僵尸。
+Beim Angriff wirft die Butterblume drei zusätzliche Butterkugeln der Größe 9 und greift vorrangig den Zombie ganz links im 3x3-Bereich rechts an.
 
 [BUTTERCUP_PLANTFOOD_DESCRIPTION]
-黄油毛茛丢出多块黄油，黄油落地造成3行的黄油坑，被砸到的僵尸造成伤害并且当僵尸走上黄油坑时也会被黄油定身，黄油坑在对下一个僵尸造成一次伤害并糊上一次黄油时消失。
+Butterblume wirft mehrere Butterkugeln, die drei Reihen Buttergruben auf dem Boden hinterlassen. Zombies, die von der Butter getroffen werden, erleiden Schaden und werden eingebuttert, wenn sie die Buttergrube betreten. Die Buttergrube verschwindet, nachdem sie den nächsten Zombie einmal verletzt hat und mit Butter bedeckt ist.
 
 [BUTTERCUP_AVATAR_PLANTFOOD_DESCRIPTION]
-黄油毛茛丢出多块黄油，黄油落地^ff0000^造成3行混入蛋糕和蜡烛的黄油坑^oldclr^，被砸到的僵尸造成伤害并且当僵尸走上黄油坑时也会被黄油定身，黄油坑对踩上它的^ff0000^下2个僵尸各造成一次伤害并糊上一次黄油后消失。^oldclr^
+Buttercup wirft mehrere Butterstücke, die drei Reihen Buttergruben mit Kuchen und Kerzen auf dem Boden bilden^ff0000^. Die von der Butter getroffenen Zombies erleiden Schaden und werden bewegungsunfähig, wenn sie die Buttergrube betreten. Die Buttergrube fügt den nächsten beiden Zombies^ff0000^, die einmal darauf treten, Schaden zu und wird einmal mit Butter bedeckt, bevor sie verschwindet. ^oldclr^
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在右侧2格内时，会甩出流星锤对所有僵尸造成伤害。不攻击时会旋转流星锤进行蓄力，10秒后蓄力完成，攻击范围变为右侧2格扇形范围，对单体僵尸击退并造成200点倍伤害。如果僵尸击退过程中撞到另一个僵尸则一起在原地^848484^眩晕Ⅰ^oldclr^3秒并再次受到伤害。
+Wenn ein Zombie innerhalb von zwei Feldern rechts erscheint, wirft er einen Meteorhammer, der alle Zombies verletzt. Wenn er nicht angreift, dreht er den Meteorhammer und lädt ihn auf. Nach 10 Sekunden ist der Ladevorgang abgeschlossen und die Angriffsreichweite beträgt zwei Felder rechts. Er stößt einen einzelnen Zombie ab und verursacht 200-fachen Schaden. Trifft ein Zombie während des Abstoßungsvorgangs einen anderen Zombie, wird dieser an derselben Stelle für ^848484^3 Sekunden betäubt und erleidet erneut Schaden.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL2_DES]
-刺果流星锤蓄力速度加快，持续9秒旋转流星锤就可以完成蓄力。
+Die Ladegeschwindigkeit des Dornigen Meteorhammers wird erhöht. Das Drehen des Meteorhammers dauert 9 Sekunden, um den Ladevorgang abzuschließen.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL3_DES]
-快速蓄力的技能效果提升100%，持续8秒旋转流星锤就可以完成蓄力。
+Die Wirkung der Fertigkeit „Schnelles Laden“ wird um 100 % erhöht. Das Drehen des Meteorhammers dauert 8 Sekunden, um den Ladevorgang abzuschließen.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL5_DES]
-蓄力攻击甩出的流星锤变为3颗刺果组合在一起的分裂流星锤，能对小范围内至多3个僵尸造成蓄力攻击。
+Der durch den Angriff abgefeuerte Meteorhammer verwandelt sich in einen gespaltenen Meteorhammer aus drei Dornfrüchten, der einen Angriff auf bis zu drei Zombies in geringer Reichweite ausführen kann.
 
 [BYTTNERIAMETEORHAMMER_PLANTFOOD_DESCRIPTION]
-刺果流星锤转动流星锤完成蓄力并重击右侧1格，对右侧2格扇形范围的所有僵尸造成冲击波伤害并击退1格。
+Der Dornfrucht-Meteorhammer dreht den Meteorhammer, um den Angriff abzuschließen, und trifft die rechte Seite ein Feld weit. Dadurch verursacht er Schockwellenschaden bei allen Zombies im fächerförmigen Bereich von zwei Feldern rechts und stößt sie ein Feld weit zurück.
 
 [BYTTNERIAMETEORHAMMER_AVATAR_PLANTFOOD_DESCRIPTION]
-刺果流星锤转动流星锤完成蓄力并重击右侧1格，对右侧2格扇形范围的所有僵尸造成^ff0000^更高的冲击波伤害^oldclr^并击退1格。
+Die Burrberry-Bolas rotieren, greifen an und treffen ein Feld weiter rechts. Sie verursachen ^ff0000^ höheren Schockwellenschaden^oldclr^ bei allen Zombies in einem fächerförmigen Bereich von zwei Feldern rechts und stoßen sie ein Feld zurück.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在僵尸豆荚右侧时，僵尸豆荚开始长大并在裂开后召唤出豆腐僵尸，豆腐僵尸会向右前进并啃食僵尸。
+Wenn ein Zombie rechts von der Zombiekapsel erscheint, beginnt diese zu wachsen und beschwört nach ihrer Spaltung einen Tofu-Zombie. Der Tofu-Zombie bewegt sich nach rechts und frisst den Zombie.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL2_DES]
-僵尸豆荚有50%的概率生产出胡萝卜帽僵尸。
+Die Zombiekapsel hat eine 50%ige Chance, einen Karottenhut-Zombie hervorzubringen.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL3_DES]
-僵尸豆荚有35%的概率生产出胡萝卜帽僵尸，有35%的概率生产出西瓜帽僵尸。
+Die Zombiekapsel hat eine 35%ige Chance, einen Karottenhut-Zombie und eine 35%ige Chance, einen Wassermelonenhut-Zombie zu produzieren.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt auszulösen!
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL5_DES]
-僵尸豆荚生产僵尸时有15%的概率生产出机枪僵尸，机枪僵尸可以发射豌豆进行远程攻击。
+Wenn die Zombiekapsel Zombies produziert, besteht eine 15%ige Chance, einen Maschinengewehr-Zombie zu produzieren, der Erbsen für Angriffe aus großer Entfernung verschießen kann.
 
 [ZOYBEANPOD_PLANTFOOD_DESCRIPTION]
-豆荚长大后裂开走出巨人豆腐僵尸，巨人豆腐僵尸敲击敌方僵尸。
+Wenn die Kapsel wächst, bricht sie auf und ein riesiger Tofu-Zombie kommt heraus. Der riesige Tofu-Zombie trifft den gegnerischen Zombie.
 
 [ZOYBEANPOD_AVATAR_PLANTFOOD_DESCRIPTION]
-豆荚长大后裂开走出巨人豆腐僵尸，^ff0000^豆腐僵尸手持长毛的萝卜，同时敲击的敌方僵尸有3秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^。^oldclr^
+Wenn die Kapsel wächst, bricht sie auf und ein riesiger Tofu-Zombie kommt heraus. ^ff0000^ Der Tofu-Zombie hält eine haarige Karotte in der Hand und trifft den gegnerischen Zombie 3 Sekunden lang. ^oldclr^^848484^BetäubungⅠ^oldclr^^ff000^. ^oldclr^
 
 [CROWNFLOWER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在右侧时，会发射出激光对僵尸持续造成每秒伤害。激光伤害随攻击时间持续增加，2秒后增加至3倍，再过5秒后增加至6倍。每次攻击会以当前最右侧的植物为目标，但会被大型僵尸或机械僵尸阻挡，激光的每秒总伤不变，会在穿透僵尸时衰减。
+Wenn rechts ein Zombie erscheint, feuert dieser einen Laser ab, der dem Zombie pro Sekunde kontinuierlich Schaden zufügt. Der Laserschaden erhöht sich mit der Angriffszeit, nach 2 Sekunden auf das Dreifache und nach weiteren 5 Sekunden auf das Sechsfache. Jeder Angriff zielt auf die Pflanze ganz rechts, wird aber von großen Zombies oder mechanischen Zombies abgewehrt. Der Gesamtschaden pro Sekunde des Lasers bleibt unverändert und nimmt beim Eindringen in den Zombie ab.
 
 [CROWNFLOWER_NEW_SKILL_LEVEL2_DES]
 第三阶段激光下再持续攻击5秒后会进入高能状态，高能状态下攻击会直接从第三阶段激光开始发射。高能状态可在未攻击时保留5秒。
@@ -75861,7 +75862,11 @@ DJ芦荟
 
 [PVZ2_CHINESE_END]
 
-D]
+
+
+
+
+
 
 
 
