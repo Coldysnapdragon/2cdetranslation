@@ -47303,7 +47303,7 @@ Unterstützer
 Beruf, der Boni gewährt oder negative Zustände von Pflanzen beseitigt
 
 [PROFESSION_PROTECTOR]
-Zähigkeit
+Verteidiger
 
 [PROFESSION_PROTECTOR_DESCRIPTION]
 Beruf mit guten Fähigkeiten zum blockieren von Zombies
@@ -47312,22 +47312,22 @@ Beruf mit guten Fähigkeiten zum blockieren von Zombies
 Sonnenschein
 
 [PROFESSION_SUNMAKER_DESCRIPTION]
-Berufe, die Sonnenlicht erzeugen können
+Beruf, der Sonnen erzeugen kann
 
 [PROFESSION_SPECIALIST]
-Spezialkräfte
+Sonderkommando
 
 [PROFESSION_SPECIALIST_DESCRIPTION]
-Berufe mit besonderen Angriffsmethoden oder Methoden zur Abwehr von Zombies
+Beruf mit besonderen Angriffsmethoden oder Methoden zur Abwehr von Zombies
 
 [PLANT_DETAILS]
 Detaillierte Attribute
 
 [DETAIL_SUNCOST]
-Sonnenscheinverbrauch
+Sonnenkosten
 
 [DETAIL_COOLDOWN]
-Pflanzenkühlung
+Auflade Zeit
 
 [DETAIL_HITPOINT]
 Gesundheit
@@ -72206,10 +72206,8 @@ Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken näh
 [SPRINGPRINCESS_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von Prinzessin Frühlingsgras erscheint, nutzt Prinzessin Frühlingsgras ihr lockiges Haar als Feder, um dem ersten getroffenen Zombie Schaden zuzufügen. Anschließend springt sie zufällig auf ein Gitter um den Zombie herum und bildet eine kleine Feder, die dem ersten Zombie, der darauf tritt, einen Rückstoßeffekt von einem Gitter verursacht. Der Effekt hat keinen Einfluss auf das Pflanzen und wird nur von Zombies ausgelöst.
 
-
 [SPRINGPRINCESS_NEW_SKILL_LEVEL2_DES]
 Die von Prinzessin Frühlingsgras abgefeuerten Federn wurden verstärkt und die Rückstoßdistanz um 0,5 Gitter erhöht.
-
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL3_DES]
 Die von Prinzessin Frühlingsgras abgefeuerten Federn wurden verstärkt und die Rückstoßdistanz um ein Gitter erhöht.
@@ -75865,6 +75863,8 @@ DJ芦荟
 下个金钟罩充能还剩{NUM}秒
 
 [PVZ2_CHINESE_END]
+
+
 
 
 
