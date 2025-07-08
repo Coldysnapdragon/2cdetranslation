@@ -9931,10 +9931,10 @@ Lokaler Fortschritt
 (Empfohlen für neuere Fortschritte)
 
 [SUMMARY_USE_CLOUD]
-Cloud-Fortschritt verwenden
+Verwenden
 
 [SUMMARY_USE_LOCAL]
-Lokalen Fortschritt verwenden
+Verwenden
 
 [SUMMARY_START]
 Spiel starten
@@ -9964,7 +9964,7 @@ Kostüme
 {GEM_COUNT}
 
 [SUMMARY_DAYS]
-{DAY_COUNT} Tag
+{DAY_COUNT} Level
 
 [SUMMARY_STAR_AMOUNT]
 {STAR_COUNT}
@@ -52542,31 +52542,31 @@ Would you like to purchase a Security Gourd to push zombies back and add 30 seco
 击杀僵尸时不产生额外的能量豆
 
 [MUTATOR_ZOMBIE_LEVEL]
-僵尸强度
+Zombiestärke
 
 [MUTATOR_ZOMBIE_LEVEL_DESC]
-僵尸的整体强度
+Gesamtstärke der Zombies
 
 [TOOL_PACKET_TOOL_RIFT_PLANT_LEVELUP]
-植物升阶
+Pflanzen-Upgrade
 
 [TOOL_PACKET_TOOL_RIFT_PLANTFOOD]
-能量豆
+Energiebohnen
 
 [TOOL_PACKET_TOOL_RIFT_ARTIFACT]
-神器使用次数
+Artefakt-Verwendungs Anzahl
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANT_LEVELUP]
-使用后植物阶级+1，但是不能超过养成的最高阶级。
+Nach der Nutzung erhöht sich das Pflanzenlevel um 1, kann aber die höchste Kultivierungsstufe nicht überschreiten.
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANTFOOD]
-使用后能量豆+1
+Spezialdünger erhöht sich nach der Nutzung um 1.
 
 [TOOL_PACKET_DESC_TOOL_RIFT_ARTIFACT]
-使用后神器使用次数+1
+Artefakt-Verwendungs Anzahl erhöht sich nach der Nutzung um 1.
 
 [PERK_MAX_LEVEL]
-最高等级
+Maximales Level
 
 [PERK_NAME_APPLYCONDITION]
 {CONDITION} Zombie-Buff
@@ -66434,267 +66434,270 @@ FPS：{NUM}
 重新匹配
 
 [NEW_PLANT_UI_LEVEL_UP_BTN_TEXT]
-进阶
+Fortgeschritten
 
 [NEW_PLANT_UI_VALUE_DETAIL_BTN_TEXT]
-详细属性
+Detaillierte Attribute
 
 [NEW_PLANT_UI_VALUE_AVATAR_BTN_TEXT]
-查看装扮
+Kostüme anzeigen
 
 [NEW_PLANT_UI_VALUE_AVATAR_DES_LABEL_TEXT]
-装扮加成
+Kostümbonus
 
-[NEW_PLANT_UI_VALUE_AVATAR_DES_TEXT_DEFAULT]
-无装扮加成
+[NEW_PLANT_UI_ VALUE_AVATAR_DES_TEXT_DEFAULT]
+Kein Kostümbonus
 
 [NEW_PLANT_UI_VALUE_ACCESSORY_BTN_TEXT]
-查看挂件
+Accessoires anzeigen
 
 [NEW_PLANT_UI_VALUE_ACCESSORY_DES_LABEL_TEXT]
-挂件加成
+Accessoirebonus
 
 [NEW_PLANT_UI_VALUE_ACCESSORY_DES_TEXT_DEFAULT]
-无挂件加成
+Kein Accessoire-Artikel Bonus
 
 [NEW_PLANT_UI_SORT_BY_TYPE_BTN_TEXT]
-筛选
+Filter
 
 [NEW_PLANT_UI_SORT_BY_VALUE_BTN_TEXT]
-排序
+Sortieren
 
 [NEW_PLANT_UI_SORT_BY_TYPE_ALL_TYPE_TEXT]
-分类
+Kategorie
 
 [NEW_PLANT_UI_SORT_BY_TYPE_ALL_RARE_TEXT]
-稀有度
+Seltenheit
 
 [NEW_PLANT_UI_SORT_BY_TYPE_ALL_TAG_TEXT]
-属性
+Eigenschaften
 
 [NEW_PLANT_UI_SORT_BY_TYPE_CONFIRM_BTN_TEXT]
-确认筛选
+Filter verwenden
 
 [NEW_PLANT_UI_PLANT_NUM_TEXT]
-全部({NUMBER1}/{NUMBER2})
+Alle ({NUMBER1}/{NUMBER2})
 
 [NEW_PLANT_UI_SWITCH_TO_OLD]
-确定要回到旧版界面吗？
+Möchten Sie wirklich zur alten Lexikon Version zurückkehren?
 
 [NEW_PLANT_UI_SWITCH_TO_NEW]
-确定要回到新版界面吗？
+Möchten Sie wirklich zur neuen Lexikon Version zurückkehren?
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_0]
-远程
+Fernkampf
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_1]
-先锋
+Vorhut
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_2]
-辅助
+Assist
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_3]
-坚韧
+Zähigkeit
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_4]
-阳光
+Sonnenschein
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_5]
-奇兵
+Schurke
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_0]
-白色
+Weiß
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_1]
-绿色
+Grün
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_2]
-蓝色
+Blau
 
-[NEW_PLANT_UI_SORT_BY_TYPE_RARE_3]
-紫色
+[NEW_PLANT_UI_SOR T_BY_TYPE_RARE_3]
+Lila
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_4]
-橙色
+Orange
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_0]
-生命
+Leben
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_1]
-攻击
+Angriff
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_2]
-射程
+Reichweite
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_3]
-种植
+Pflanzen
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_4]
-辅助
+Assistieren
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_5]
-控制
+Kontrolle
 
-[NEW_PLANT_UI_SORT_BY_VALUE_P_6]
-阶数
+[NEW_PLANT_UI_SORT_BY_VALUE_P_5]
+Kontrolle
+
+[NEW_PLANT_UI_SORT_BY_VALUE_P_6] LUE_P_6]
+Level
 
 [NEW_PLANT_UI_TAB_VALUE_DETAIL_TEXT]
-属性
+Attribute
 
 [NEW_PLANT_UI_TAB_VALUE_DETAIL_DES_TEXT]
-介绍
+Einführung
 
 [NEW_PLANT_UI_TAB_AVATAR_TEXT]
-装扮
+Outfit
 
 [NEW_PLANT_UI_TAB_ACCESSORY_TEXT]
 Accessoire
 
 [NEW_PLANT_UI_PLANT_VALUE_TAG_DPS]
-输出
+Leistung
 
 [NEW_PLANT_UI_PLANT_VALUE_HP_LABEL]
-生命
+Gesundheit
 
 [NEW_PLANT_UI_PLANT_VALUE_ATTACK_LABEL]
-攻击
+Angriff
 
-[NEW_PLANT_UI_PLANT_VALUE_RANGE_LABEL]
-射程
+[NEW_PLANT_UI_PLANT_VALUE_ RANGE_LABEL]
+Reichweite
 
 [NEW_PLANT_UI_PLANT_VALUE_PLANT_LABEL]
-种植
+Pflanzen
 
 [NEW_PLANT_UI_PLANT_VALUE_SUPPORT_LABEL]
-辅助
+Unterstützung
 
 [NEW_PLANT_UI_PLANT_VALUE_CONTROL_LABEL]
-控制
+Kontrolle
 
 [PLANT_SPECIAL_TAG_1]
-灼烧I
+Verbrennen I
 
 [PLANT_SPECIAL_TAG_3]
-眩晕I
+Betäuben I
 
 [PLANT_SPECIAL_TAG_5]
-冻结I
+Einfrieren I
 
 [PLANT_SPECIAL_TAG_7]
-中毒I
+Vergiften I
 
 [PLANT_SPECIAL_TAG_9]
-麻痹I
+Lähmen I
 
 [PLANT_SPECIAL_TAG_11]
-魅惑I
+Bezaubern I
 
 [PLANT_TAG_1]
-治疗
+Heilung
 
 [PLANT_TAG_2]
-支援
+Unterstützung
 
 [PLANT_TAG_3]
-削弱
+Schwächen
 
 [PLANT_TAG_4]
-产阳
+Yang-Produktion
 
 [PLANT_TAG_6]
-豌豆
+Erbse
 
 [PLANT_TAG_7]
-输出
+Ausgabe
 
 [PLANT_TAG_8]
-群攻
+Gruppenangriff
 
 [PLANT_TAG_9]
-火焰
+Flamme
 
 [PLANT_TAG_10]
-秒杀
+Sofort töten
 
 [PLANT_TAG_11]
-抛投
+Werfen
 
-[PLANT_TAG_12]
-手操
+[PLANT_TAG_1 ANT_TAG_12]
+Handbuch
 
 [PLANT_TAG_13]
-爆炸
+Explosion
 
 [PLANT_TAG_14]
-灰烬
+Asche
 
 [PLANT_TAG_27]
-电能
+Elektrizität
 
 [PLANT_TAG_17]
-寒冰
+Eis
 
 [PLANT_TAG_37]
-魔法
+Magie
 
 [PLANT_TAG_35]
-剧毒
+Gift
 
 [PLANT_TAG_15]
-暗影
+Schatten
 
 [PLANT_TAG_18]
-召唤
+Beschwörung
 
 [PLANT_TAG_19]
-消耗
+Verbrauch
 
 [PLANT_TAG_20]
-操控
+Kontrolle
 
-[PLANT_TAG_21]
-飞行
+[PLANT_ TAG_21]
+Fliegend
 
 [PLANT_TAG_22]
-水生
+Aquatisch
 
 [PLANT_TAG_23]
-低矮
+Klein
 
 [PLANT_TAG_24]
-高大
+Groß
 
 [PLANT_TAG_25]
-藤蔓
+Ranke
 
 [PLANT_TAG_28]
-防御
+Verteidigung
 
 [PLANT_TAG_29]
-减速
+Verlangsamung
 
 [PLANT_TAG_30]
-位移
+Verdrängung
 
 [PLANT_TAG_31]
-控场
+Kontrolle
 
 [PLANT_TAG_33]
-物理
+Physisch
 
 [WORLD_LEVEL_PACKAGE_TITLE]
-潘妮纪行
+Pennys Reisen
 
 [WORLD_LEVEL_PACKAGE_TIPS_TITLE]
-活动说明
+Ereignisbeschreibung
 
 [WORLD_LEVEL_PACKAGE_TIPS_DESC]
-1. 礼包开启跟随世界进度，在不同世界的不同阶段提供不同内容的礼包。
-2. 礼包开启需要玩家收集关卡内的星星。
-3. 礼包限时开启3天，结束后将不再展示也不可购买。
+1. Das Öffnen von Geschenkpaketen folgt dem Fortschritt der Welt. Geschenkpakete mit unterschiedlichem Inhalt werden in verschiedenen Phasen in verschiedenen Welten bereitgestellt.
+2. Um das Geschenkpaket zu öffnen, müssen Spieler im Level Sterne sammeln.
+3. Das Geschenkpaket ist für drei Tage verfügbar und wird nach dem Ende nicht mehr angezeigt oder zum Kauf angeboten.
 
 [WORLD_LEVEL_PACKAGE_0]
-小号礼包
+Kleines Geschenkpaket
 
 [WORLD_LEVEL_PACKAGE_1]
 中号礼包
