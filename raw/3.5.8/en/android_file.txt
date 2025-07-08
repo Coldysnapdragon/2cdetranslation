@@ -2332,7 +2332,7 @@ Profil Behalten
 Neues Profil
 
 [MAINMENU_PLAY]
-开始游戏
+Spiel Starten
 
 [MAINMENU_SAVE]
 Speichern
@@ -2341,83 +2341,83 @@ Speichern
 Spieler auswählen
 
 [MAINMENU_TAKE_PHOTO]
-拍摄照片
+Foto
 
 [MAINMENU_WELCOME]
 Willkommen 
 
 [MAINMENU_ACCOUNT_BINDING]
-账号绑定
+Kontobindung
 
 [PLATFORM_ACCOUNT_BINDING_WEIBO]
-绑定微博
+Weibo-Bindung
 
 [PLATFORM_ACCOUNT_BINDING_WECHAT]
-绑定微信
+WeChat-Bindung
 
 [PLATFORM_ACCOUNT_BINDING_QQ]
-绑定QQ
+QQ-Bindung
 
 [PLATFORM_ACCOUNT_UNBOUND]
-解除绑定
+Bindung aufheben
 
 [PLATFORM_ACCOUNT_TRANSFER]
-账号转移
+Kontoübertragung
 
 [PLATFORM_ACCOUNT_BIND_TITLE]
-账号绑定
+Kontobindung
 
 [PLATFORM_ACCOUNT_TRANSFER_TITLE]
-账号转移
+Kontoübertragung
 
 [ACCOUNT_BIND_TITLE_REWARD]
-账号绑定奖励
+Belohnung für Kontobindung
 
 [ENTER_GAME_ERROR_TITLE]
-进入游戏异常
+Spielzugang fehlerhaft
 
 [ENTER_GAME_ERROR_DESC_20013]
-网络繁忙，请稍后再试
-<ErrorCode : 20013>
+Netzwerk ausgelastet. Bitte versuchen Sie es später erneut.
+<Fehlercode: 20013>
 
 [PLATFORM_BINDING_TITLE]
-绑定账号
+Konto binden
 
 [PLATFORM_UNBOUND_TITLE]
-解除绑定
+Bindung aufheben
 
 [PLATFORM_TRANSFER_TITLE]
-转移账号
+Konto übertragen
 
 [PLATFORM_WECHATUNINSTALLED_DESC]
-未安装微信
+WeChat ist nicht installiert.
 
 [PLATFORM_BINDING_DESC]
-绑定账号将使你的存档可以转移到其他设备上，但最多只能绑定3台设备，确认要继续吗?
+Das Binden des Kontos ermöglicht die Übertragung Ihres Spielstands auf andere Geräte. Sie können jedoch nur bis zu drei Geräte binden. Möchten Sie wirklich fortfahren?
 
 [PLATFORM_UNBOUND_DESC]
-解除绑定将使你的存档无法往其他设备上转移，确认要继续吗?
+Das Aufheben der Bindung verhindert die Übertragung Ihres Spielstands auf andere Geräte. Möchten Sie wirklich fortfahren?
 
 [PLATFORM_TRANSFER_DESC1]
-转移账号可以将其他设备上的存档转移到本设备上，确认要继续吗?
+Das übertragene Konto kann Spielstände von anderen Geräten auf dieses Gerät übertragen. Möchten Sie wirklich fortfahren?
 
 [PLATFORM_TRANSFER_DESC2]
-你的本地存档已经绑定了账号，若想转移账号请先解除本地账号的绑定状态。
+Ihr lokaler Spielstand wurde an ein Konto gebunden. Wenn Sie ein Konto übertragen möchten, trennen Sie bitte zuerst die Verknüpfung des lokalen Kontos.
 
 [ERRORV234_TITLE]
-获取第三方SDK绑定信息异常
+Ungewöhnlicher Abruf der SDK-Bindungsinformationen von Drittanbietern
 
 [ERRORV234_DESC]
-获取第三方SDK绑定信息异常，请联系GM。
+Ungewöhnlicher Abruf der SDK-Bindungsinformationen von Drittanbietern. Bitte wenden Sie sich an den GM.
 
 [PLATFORM_LOGIN_DIALOG_TITLE]
-账号绑定状态
+Status der Kontobindung
 
 [PLATFORM_TRANSFER_DIALOG_TITLE]
-账号转移状态
+Status der Kontoübertragung
 
 [PLATFORM_LOGIN_DIALOG_BINDINGSUCCESS]
-账号绑定成功
+Kontobindung erfolgreich
 
 [PLATFORM_LOGIN_DIALOG_UNBOUNDSUCCESS]
 账号解绑成功
@@ -2516,8 +2516,6 @@ Willkommen
 权衡着各个角度，不停地思索着。她做了充足的研究，并且，时刻注意最新出版资料。
 这就是成功者们总是最先进的原因。 
 
-
-
 [MARIGOLD_DESCRIPTION_HEADER]
 金盏花可以提供硬币。
 
@@ -2546,7 +2544,7 @@ Willkommen
 投出西瓜， 重重打击成群的僵尸。
 
 [MENU_BUTTON]
-菜单
+Menü
 
 [MINECART_TUTORIAL_1]
 可以沿轨道拖动采矿车
@@ -22543,74 +22541,76 @@ ca=拿到3星|把僵尸死光|等时间耗尽|拿到1星|
 失落之城-第20天
 
 [COMPLAIN_ICON]
-投诉点我
+Hier klicken, um eine Beschwerde einzureichen
 
 [COMPLAIN_TITLE]
-客服信息
+Kundenservice-Informationen
 
 [COMPLAIN_CONTENT_TIME]
-客服时间：9:00-18:00
+Kundenservicezeiten: 9:00–18:00 Uhr
 
-客服邮箱：  csonline@139.com
+Kundenservice-E-Mail: csonline@139.com
 
 [COMPLAIN_CONTENT]
-客服时间：9:00-18:00
+Kundenservicezeiten: 9:00–18:00 Uhr
 
-客服QQ:  4008932088 
+Kundenservice-QQ: 4008932088
 
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
+Hinweis: Klicken Sie auf „Personen suchen“, um den öffentlichen Account von „Tuowei Games“ anzuzeigen. Klicken Sie auf „Folgen“.
 
 [COMPLAIN_CONTENT_A]
-客服时间：9:00-18:00
+Kundenservicezeiten: 9:00–18:00 Uhr
 
-客服QQ:  4008932088 
+Kundenservice-QQ: 4008932088
 
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
+Hinweis: Klicken Sie auf „Personen suchen“, um den öffentlichen Account von „Tuowei Games“ anzuzeigen. Klicken Sie auf „Folgen“.
 
 [COMPLAIN_CONTENT_HUAWEI]
-客服时间：9:00-18:00
+Kundenservice Uhrzeit: 9:00–18:00 Uhr
 
 [AGE_TIP]
-《植物大战僵尸2》游戏适龄提示
+Altersgerechte Tipps für „Plants vs. Zombies 2“
 
 [AGE_TIP_CONTENT]
-1）本游戏是一款策略塔防游戏，适用于年满12周岁及以上的用户，建议未成年人在家长监督下使用游戏产品。
 
-2）本游戏角色、剧情均为虚构，不会与现实生活相混淆。集成了即时战略、塔防御战和卡片收集等要素，玩家需要控制卡牌合理运用抵御的进攻达成任务目标，游戏内不含有语音及聊天功能。
+1) Dieses Spiel ist ein Strategie-Tower-Defense-Spiel und für Nutzer ab 12 Jahren geeignet. Minderjährigen wird empfohlen, das Spiel unter Aufsicht ihrer Eltern zu nutzen.
 
-3）根据国家相关要求，游戏中有用户实名认证系统，未通过实名认证的用户不可进入游戏；认证为未成年人的用户除周五、周六、周日及法定节假日每日20时至21时外其他时间均不可进入游戏。 
-游戏中部分玩法和道具需要付费。认证为未成年人的用户将接受以下管理： 
-未满8周岁的用户不能付费；8周岁以上未满16周岁的未成年人用户，单次充值金额不得超过50元人民币，每月充值金额累计不得超过200元人民币；16周岁以上的未成年人用户，单次充值金额不得超过100元人民币，每月充值金额累计不得超过400元人民币。
+2) Die Charaktere und Handlungsstränge sind fiktiv und nicht mit der Realität zu verwechseln. Das Spiel beinhaltet Elemente wie Echtzeitstrategie, Tower-Defense-Schlachten und Kartensammeln. Spieler müssen die Karten kontrollieren und sinnvoll einsetzen, um Angriffen standzuhalten und die Missionsziele zu erreichen. Es gibt keine Sprach- und Chatfunktion.
 
-4）游戏中需要玩家合理分配资源，提升植物等级，排列战场阵型来提高阵容强度以获得对战的胜利，并需要根据战场的突发事件调整战斗策略，有助于锻炼玩家的逻辑思维能力及随机应变能力。
+3) Gemäß den geltenden nationalen Vorschriften ist im Spiel eine Echtnamen-Authentifizierung verfügbar. Nutzer ohne Echtnamen-Authentifizierung können das Spiel nicht betreten. Minderjährige Nutzer können das Spiel nur von 20:00 bis 21:00 Uhr (freitags, samstags, sonntags und an gesetzlichen Feiertagen) betreten.
 
+Einige Spielfunktionen und Requisiten sind kostenpflichtig. Für Minderjährige gelten folgende Regeln:
+
+Nutzer unter 8 Jahren können nicht bezahlen. Für Minderjährige zwischen 8 und 16 Jahren beträgt die einmalige Aufladung maximal 50 RMB und die monatliche Aufladung maximal 200 RMB. Für Minderjährige ab 16 Jahren beträgt die einmalige Aufladung maximal 100 RMB und die monatliche Aufladung maximal 400 RMB.
+
+4) Im Spiel müssen Spieler Ressourcen sinnvoll verteilen, Fabriken verbessern und Schlachtfeldformationen bilden, um die Stärke ihrer Aufstellung zu erhöhen und die Schlacht zu gewinnen. Sie müssen ihre Kampfstrategie an unerwartete Ereignisse auf dem Schlachtfeld anpassen, um ihr logisches Denkvermögen und ihre Anpassungsfähigkeit zu trainieren.
 
 [REDEEM_TITLE]
-补单
+Bestellung abschließen
 
 [REDEEM_SUCCESS_TITLE]
-补单成功
+Bestellung erfolgreich abgeschlossen
 
 [REDEEM_SUCCESS_TEXT]
-补单成功，请进入游戏领取缺失物品。
+Bestellung erfolgreich abgeschlossen. Bitte betrete das Spiel, um die fehlenden Gegenstände abzuholen.
 
 [REDEEM_FAILED_TITLE]
-补单失败
+Bestellung konnte nicht abgeschlossen werden.
 
 [REDEEM_FAILED_TEXT]
-补单失败，未查询到缺失的订单，请稍候再试。
+Bestellung konnte nicht abgeschlossen werden. Die fehlende Bestellung wurde nicht gefunden. Bitte versuche es später erneut.
 
 [DANGERROOM_SKIP_LEVEL_TITLE]
-跳过关卡
+Level überspringen
 
 [DANGERROOM_SKIP_LEVEL_MSG]
-跳过关卡
+Level überspringen
 
 [DANGERROOM_SKIP_LEVEL_NEXT_BOSS_MSG]
-跳{NUMS}关
+{NUMS} Level überspringen
 
 [DANGERROOM_ENTER_LEVEL_MSG]
-进入关卡
+Level betreten
 
 [DANGERROOM_SKIP_TXT]
 您昨天已通过第{LEVEL}层，获得直接跳至{TOLEVEL}层权限，是否确认跳过？（跳过关卡同样可以获得奖励）
@@ -31096,73 +31096,73 @@ PIÑATA 派对
 {STEP_COUNT} 僵尸剩余！
 
 [QUEST_PLAY_LABEL]
-开始游戏
+Spiel starten
 
 [QUEST_PLAY_NEXT_LEVEL]
-下一关
+Nächstes Level
 
 [QUEST_PLAY_NEXT_LEVEL_LABEL]
-下一关
+Nächstes Level
 
 [QUEST_POINTS_LABEL]
-{XP} 分
+{XP} Punkte
 
 [QUEST_PROGRESS_STEP_LABEL]
-步骤 {N}：
+Schritt {N}:
 
 [QUEST_RANK_HEADER]
-等级
+Rang
 
 [QUEST_RANK_NEXT_REWARD]
-奖励
+Belohnungen
 
 [QUEST_RANK_REWARD]
-奖励
+Belohnungen
 
 [QUEST_RANK_ROLLUP_AWARD_DESCRIPTION]
-你已经完成了一些任务，它们甚至还没出现！时间旅行真是有趣。
+Du hast einige Quests abgeschlossen, bevor sie überhaupt erschienen sind! Zeitreisen machen Spaß.
 
 [QUEST_RANK_ROLLUP_AWARD_TITLE]
-任务完成
+Quest abgeschlossen
 
 [QUEST_RANK_UP_AWARD_DESCRIPTION]
-你在旅行日志中加入了又一篇记录。这样的表现值得嘉奖！
+Du hast deinem Reisetagebuch einen weiteren Eintrag hinzugefügt. Solche Leistungen verdienen eine Belohnung!
 
 [QUEST_RANK_UP_AWARD_TITLE]
-新的等级！
+Neuer Rang!
 
 [QUEST_RECYCLE_BUTTON_CONFIRMATION_HEADER]
-你确定吗？
+Bist du sicher?
 
 [QUEST_RECYCLE_BUTTON_CONFIRMATION_TEXT]
-如果你刷新这个任务，你会丢失当前的进度，然后用一个新的任务替换它。你可以每天刷新 {X} 次
+Wenn du diese Quest aktualisierst, verlierst du deinen aktuellen Fortschritt und er wird durch einen neuen ersetzt. Du kannst die Quest {X} Mal pro Tag aktualisieren.
 
 [QUEST_REVEAL_HEADER]
-你有一个新的任务，完成它来彰显你的实力吧！
+Du hast eine neue Quest. Schließe sie ab und zeige dein Können!
 
 [QUEST_REWARD_LABEL]
-奖励
+Belohnungen
 
 [QUEST_REWARD_LABEL_RIFT]
-奖励：
+Belohnungen:
 
 [QUEST_SKIP_LABEL]
-跳过
+Überspringen
 
 [QUEST_STEP_LABEL]
-步骤：
+Schritte:
 
 [QUEST_TOAST_QUEST_COMPLETED]
-任务完成
+Quest abgeschlossen
 
 [QUEST_ZOMBIES_LEFT_LABEL]
-{STEP_COUNT} 僵尸剩余
+{STEP_COUNT} Zombies übrig
 
 [QUESTS_DISABLED_50MB]
-哎呀！你需要下载额外的内容才能激活旅行日志。
+Ups! Du musst zusätzliche Inhalte herunterladen, um das Reisetagebuch zu aktivieren.
 
 [QUESTS_DISABLED_EGYPT2]
-哎呀！你需要完成神秘埃及-第二天来激活旅行日志。
+Ups! Du musst „Altes Ägypten – Tag 2“ abschließen, um das Reisetagebuch zu aktivieren.
 
 [QUESTS_DISABLED_HEADER]
 Schließe „Geheimnisvolles Ägypten – Tag 2“ ab.
