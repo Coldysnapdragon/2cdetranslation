@@ -2269,7 +2269,7 @@ Los Geht's!
 加速
 
 [START_GAME_BUTTON]
-Starten
+Spielen
 
 [CHOOSER_RESET_BUTTON]
 Zurücksetzen
@@ -4361,10 +4361,10 @@ Duplinator
 连续发射两发豌豆攻击敌人。
 
 [REPICK_BUTTON]
-重新选择
+Erneut auswählen
 
 [REPLAY_BUTTON]
-重放
+Wiederholen
 
 [RESTART_BUTTON]
 Neu starten
@@ -4376,8 +4376,7 @@ Das Level Neu starten
 Möchtest du das Level neu starten？
 
 [RESTART_LEVEL_BODY]
-你想要再次从头
-进行这一关卡么？
+Möchtest du dieses Level erneut starten?
 
 [RESTART_LEVEL_BUTTON]
 Level Neu starten
@@ -4392,86 +4391,83 @@ Fortfahren
 Spiel Fortfahren
 
 [RETRY]
-再试一次
+Erneut versuchen
 
 [TRY_FROM_START]
-从头再来
+Von vorne beginnen
 
 [RV_NAME_INVALID]
-不懂你叫什么…
+Ich kenne deinen Namen nicht ...
 
 [RV_NAME_SAME_AS_PLAYER]
-这是你的名字，笨蛋！
+Das ist dein Name, du Idiot!
 
 [SEED_CHOOSER_CHALLENGE_CONSUMABLE_PLANTS]
-Die Nutzung von {PLANT_NAME} wird als Verlust einer Pflanze für dieses Level gezählt. Fortfahren?
+{PLANT_NAME} hilft dir nicht, dieses Level zu bestehen.
 
-[SEED_CHOOSER_CHALLENGE_CONSUMABLE_PLANTS_PVZ1]
-使用{PLANT_NAME}将不利于通过本关，
-你确定要继续吗？
+Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_GRAVE_WARNING]
-In diesem Level gibt es keine Gräber. Möchtest du wirklich den Grabfresser auswählen?
+In diesem Level musst du eine Pflanze benutzen, um Zombies wegzublasen. Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_BLOW_WARNING]
-你没有选可吹飞僵尸的植物，确定要继续吗？
+Du hast keine Pflanze gewählt, die Zombies wegblasen kann. Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_SUN_WARNING]
-你没有选能生产阳光的植物，确定要继续吗？ 
+Du hast keine Pflanze gewählt, die Sonnenlicht erzeugen kann. Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_WARNING_TITLE]
 Warnung!
 
 [SEED_CHOOSER_SKY_CITY_PLANT_SURVIVE_WARNING]
-本关星级条件需要使用空中植物，确定不使用任何空中植物挑战本关么？
+Dieses Level erfordert den Einsatz von Flug-Pflanzen. Möchtest du wirklich keine Flug-Pflanzen verwenden?
 
 [SEEDBANK_PLANT_LOCKED]
- {PlantName} 不可以在此关中使用
+{PlantName} kann in diesem Level nicht verwendet werden.
 
 [SEEDBANK_PLANT_LOCKED_TEMPORARILY]
-完成 {LevelName} ， 在此关中解锁 {PlantName}的使用
+Schließe {LevelName} ab, um die Verwendung von {PlantName} in diesem Level freizuschalten.
 
 [SETTINGS_ABOUT_TEXT]
-这里可见游戏的所有信息。你现在看的就是。
+Alle Informationen zum Spiel findest du hier.
 
 [SETTINGS_ABOUT_TITLE]
 Über
 
 [SETTINGS_UUID_BIND_TITLE]
-设备绑定
+Gerätebindung
 
 [SETTINGS_UUID_UNBIND_TITLE]
-设备解绑
+Gerätebindung aufheben
 
 [SETTINGS_DEFINEID_TITLE]
-用户ID
+Benutzer-ID
 
 [SETTINGS_DATASHARING_DISABLE]
-关闭使用共享
+Freigabe deaktivieren
 
 [SETTINGS_DATASHARING_ENABLE]
-开启使用共享
+Freigabe aktivieren
 
 [SETTINGS_DATASHARING_PROMPT]
-除了你直接提供给拓维的信息，拓维同时收集其他部分信息用于改善产品和服务，协助软件升级，动态内容和产品支持。这些信息不会以能够识别你的方式与第三方共享。
+Zusätzlich zu den Informationen, die Sie Tuowei direkt zur Verfügung stellen, erhebt Tuowei weitere Informationen zur Verbesserung von Produkten und Dienstleistungen, zur Unterstützung bei Software-Upgrades, dynamischen Inhalten und zum Produktsupport. Diese Informationen werden nicht an Dritte weitergegeben, sodass Ihre Identität nicht erkennbar ist.
 
 [SETTINGS_USERID_TITLE]
-个人信息
+Persönliche Daten
 
 [SETTINGS_CONTRACTUS_TITLE]
-客服联系方式
+Kontaktdaten des Kundenservice
 
 [SETTINGS_USERID_PROMPT]
-您的个人信息:
+Ihre persönlichen Daten:
 
 [SETTINGS_UNKNOW_PROFILE]
-需要联网
+Internetverbindung erforderlich
 
 [SETTINGS_CONTRACT_PROMPT]
-客服联系方式:
+Kontaktdaten des Kundenservice:
 
 [SETTINGS_CONTRACT_PHONE]
-
 
 [SETTINGS_CONTRACT_EMAIL]
 客服邮箱: 2059044571@qq.com
@@ -4667,36 +4663,35 @@ http://pvztmall.popcap.com.cn
 购买周边产品
 
 [SETTINGS_TITLE]
-设置
+Einstellungen
 
 [ROTATION_SETTINGS]
-旋转设置
+Rotationseinstellungen
 
 [ZOMBIE_NUM]
-僵尸数量
+Zombie Anzahl
 
 [ROTATION_VELOCITY]
-旋转时间
+Drehzeit
 
 [STATUS_NUM]
-雕像数量
+Anzahl der Statuen
 
 [SHOW_TIME]
-初始展示时间
+Anfangsanzeigezeit
 
 [WAVE_SHOW_TIME]
-波次展示时间
+Wellenanzeigezeit
 
 [TRY_TIMES]
-额外尝试次数
+Anzahl weiterer Versuche
 
 [ROTATION_TIMES]
-旋转次数
+Anzahl der Rotationen
 
 [SLOW_PERFORMANCE]
-你的显示卡无法完全支持此功能。
-
-如果你的游戏运行速度过慢，请取消硬件加速功能。
+Ihre Grafikkarte unterstützt diese Funktion nicht vollständig.
+Wenn Ihr Spiel zu langsam läuft, deaktivieren Sie die Hardwarebeschleunigung.
 
 [SNAPDRAGON]
 火龙草
