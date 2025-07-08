@@ -40294,7 +40294,7 @@ Saugt die Zombies dieser Reihe in den Bereich, in dem sich diese Reihe befindet,
 Nach dem Loslassen des Sägeblatts werden zwei weitere Sägeblätter in der oberen und unteren Reihe abgefeuert. Die Sägeblätter verursachen Schaden und verlangsamen die Zombies.
 
 [BUBBLECORAL]
-
+Blasenkoralle
 
 [BUBBLECORAL_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Gesamte Zeile
@@ -50485,70 +50485,70 @@ Karneval
 阳光产出时间间隔减少4秒
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ORCHIDMAGE_1]
-扇贝兰成长礼包装扮
+Geschenkpaket-Kostüm „Jakobsmuschel-Orchidee“
 
 [NEW_AVATAR_DESCRIPTION_ORCHIDMAGE_1]
-种植冷却时间缩短10%
+Abklingzeit des Pflanzens um 10 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CONVALLARIACHEMIST_2]
-芦藜药师超级装扮
+Superkostüm Eisenkraut
 
 [NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_2]
-2、3、5阶技能触发概率增加10%
+Wahrscheinlichkeit für das Auslösen von Fertigkeiten der Stufen 2, 3 und 5 um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_2]
-烈焰火蕨哪吒装扮
+Nezha-Kostüm „Feuriger Farn“
 
 [NEW_AVATAR_DESCRIPTION_INFERNO_2]
-攻击间隔降低1s
+Angriffsintervall verkürzt um 1 Sek.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_4]
-原始豌豆锦衣卫装扮
+Primitives Erbsen-Jinyiwei-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_4]
-阳光消耗降低20点
+Sonnenlichtverbrauch um 20 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_1]
-百宝兜兰国风装扮
+Papyrus-Kostüm im chinesischen Stil
 
 [NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_1]
-攻击力增加20%
+Angriffskraft um 20% erhöht
 
-[NEW_AVATAR_SHORT_DESCRIPTION_MAGNETSHROOM_1]
-磁力菇国风装扮
+[NEW_AVATAR_SHORT_DESCRIPTIO N_MAGNETSHROOM_1]
+Magnetpilz-Kleid im chinesischen Stil
 
 [NEW_AVATAR_DESCRIPTION_MAGNETSHROOM_1]
-休息时间减少1s
+Ruhezeit wird reduziert um 1 s
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_1]
-梅小美国风装扮
+Mei Xiao Kleid im amerikanischen Stil
 
 [NEW_AVATAR_DESCRIPTION_WINTERSWEET_1]
-攻击力增加10%
+Angriffskraft um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_2]
-小黄梨国风装扮
+Gelbes Birnenkleid im chinesischen Stil
 
 [NEW_AVATAR_DESCRIPTION_IMPPEAR_2]
-眩晕时间增加1s
+Betäubungszeit um 1 s erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNSHROOM_1]
-阳光菇国风装扮
+Sonnenscheinpilz-Kostüm im chinesischen Stil
 
 [NEW_AVATAR_DESCRIPTION_SUNSHROOM_1]
-阳光产出增加25
+Erhöht die Sonnenlichtausbeute um 25%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_2]
-电击钩吻成长装扮
+Elektrisches Gelsemium-Wachstum Kostüm
 
 [NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_2]
-攻击间隔缩短20%
+Angriffsintervall um 20% verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_1]
-豌豆春节装扮
+Erbsen-Frühlingsfest-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PEASHOOTER_1]
-攻击速度增加20%
+Erhöht die Angriffsgeschwindigkeit um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_2]
 激光豆六一装扮
@@ -72328,67 +72328,67 @@ Wenn rechts ein Zombie erscheint, feuert dieser einen Laser ab, der dem Zombie p
 激光皇冠花鼓起花苞蓄力，向右侧、右上和右下各发射1个激光球，击飞沿途的中小型僵尸，在接触大型僵尸或机械僵尸时引爆对僵尸造成伤害。^ff0000^激光球会在飞行过程中对周围格的僵尸扩散出闪电链造成伤害。^oldclr^该秒杀无阶数限制
 
 [ORCHIDMAGE_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在右侧时，会发射一个向右飞行的引力球，引力球会在穿过首个僵尸1格时炸开对周围3×3的僵尸造成伤害，并将僵尸向中心拉扯0.5格。当有僵尸出现在右侧1格时，会将头顶的小引力球发射出去，将单个僵尸击退1格。
+Wenn ein Zombie rechts erscheint, schleudert sie einen Schwerkraftball nach rechts. Dieser explodiert, sobald er das erste Zombie-Feld (1) durchquert. Er fügt den umliegenden 3×3 Zombies Schaden zu und zieht sie 0,5 Felder zur Mitte. Erscheint ein Zombie ein Feld rechts, schleudert er einen kleinen Schwerkraftball auf seinen Kopf, der einen einzelnen Zombie ein Feld zurückwirft.
 
 [ORCHIDMAGE_NEW_SKILL_LEVEL2_DES]
-引力球对僵尸造成伤害时，有15%的概率对中小型僵尸造成引力束缚效果。
+Wenn der Schwerkraftball Zombies Schaden zufügt, besteht eine 15%ige Chance, bei kleinen und mittelgroßen Zombies einen Schwerkraftbindungseffekt auszulösen.
 
 [ORCHIDMAGE_NEW_SKILL_LEVEL3_DES]
-引力束缚的触发概率提升100%，有30%的概率对中小型僵尸造成引力束缚效果。
+Die Wahrscheinlichkeit, dass Schwerkraftbindung ausgelöst wird, ist um 100 % erhöht. Es besteht eine 30%ige Chance, bei kleinen und mittelgroßen Zombies einen Schwerkraftbindungseffekt auszulösen.
 
 [ORCHIDMAGE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger Fähigkeit direkt auszulösen!
 
 [ORCHIDMAGE_NEW_SKILL_LEVEL5_DES]
-当有3颗小引力球时攻击时会将其一起发射出去，并在爆炸后生成持续3秒的黑洞。黑洞会每秒造成1次伤害并拉扯周围中小型僵尸0.5格和大型僵尸0.3格。中心的中小型僵尸会被拖入黑洞秒杀。小引力球每10秒恢复1颗。
+Wenn drei kleine Gravitationsbälle vorhanden sind, werden sie beim Angriff gleichzeitig abgefeuert. Nach der Explosion entsteht ein schwarzes Loch, das 3 Sekunden lang anhält. Das schwarze Loch verursacht 1 Schaden pro Sekunde und zieht die umliegenden kleinen und mittleren Zombies um 0,5 Blöcke und die großen Zombies um 0,3 Blöcke mit sich. Die kleinen und mittleren Zombies in der Mitte werden in das schwarze Loch gezogen und sofort getötet. Alle 10 Sekunden wird ein kleiner Gravitationsball wiederhergestellt.
 
 [ORCHIDMAGE_PLANTFOOD_DESCRIPTION]
-扇贝兰法师立即完成一次冷却并瞄准全屏4个僵尸连续发出4颗引力球，每颗引力球对周围3×3的僵尸造成伤害和拉扯0.5格。
+Die Orchideen-Magierin beendet sofort eine Abklingzeit und zielt auf vier Zombies im Vollbildmodus, um nacheinander vier Gravitationsbälle auszustoßen. Jeder Gravitationsball fügt den umliegenden 3×3 Zombies Schaden zu und zieht sie 0,5 Blöcke weit.
 
 [ORCHIDMAGE_AVATAR_PLANTFOOD_DESCRIPTION]
-扇贝兰法师立即完成一次冷却并瞄准全屏4个僵尸连续发出4颗^ff0000^强化引力球^oldclr^，每颗引力球对周围3×3的僵尸^ff0000^造成更高的伤害和拉扯1格。^oldclr^
+Die Orchideen-Magierin beendet sofort eine Abklingzeit und zielt auf 4 Zombies auf dem Bildschirm, um kontinuierlich 4 ^ff0000^ verstärkte Gravitationsbälle^oldclr^ auszusenden. Jeder Gravitationsball fügt den umliegenden 3×3 Zombies höheren Schaden zu^ff0000^ und zieht sie um 1 Feld weit. ^oldclr^
 
 [JACKOLANTERN_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在杰克南瓜灯右侧3格时南瓜会向前方地面喷射出一条地面上的火射线，对射线范围内的僵尸造成伤害。南瓜灯会随时间在额头积攒火焰，每次攻击都会消耗自身积攒的火焰，当火焰熄灭后南瓜灯需要逐渐休息恢复火焰才可以继续攻击。
+Wenn ein Zombie 3 Felder rechts von der Kürbislaterne erscheint, feuert der Kürbis einen Feuerstrahl auf den Boden vor ihm ab, der den Zombies in Reichweite Schaden zufügt. Die Kürbislaterne sammelt mit der Zeit Flammen auf ihrer Stirn, und jeder Angriff verbraucht die angesammelten Flammen. Sobald die Flammen erloschen sind, muss sich die Kürbislaterne langsam ausruhen und die Flammen wiederherstellen, bevor sie weiter angreifen kann.
 
 [JACKOLANTERN_NEW_SKILL_LEVEL2_DES]
-杰克南瓜灯的火焰可以喷射得更远，南瓜火焰的范围变为4格。
+Die Flammen der Kürbislaterne können weiter gesprüht werden, und die Reichweite der Kürbisflammen beträgt nun 4 Felder.
 
 [JACKOLANTERN_NEW_SKILL_LEVEL3_DES]
-杰克南瓜灯的火焰可以喷射得更远，南瓜火焰的范围变为5格。
+Die Flamme der Kürbislaterne kann weiter gesprüht werden, und die Reichweite der Kürbisflamme beträgt nun 5 Felder.
 
 [JACKOLANTERN_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen.
 
 [JACKOLANTERN_NEW_SKILL_LEVEL5_DES]
-每过15秒从南瓜嘴里飞出一只荧光蓝绿色的南瓜幽灵，追踪非本行最左侧的一个僵尸，追踪到后附身到僵尸身上，使僵尸反向行走，在路过僵尸时点燃它本身和经过的僵尸持续造成^ef0123^灼烧Ⅰ^oldclr^伤害。
+Alle 15 Sekunden fliegt ein fluoreszierender blaugrüner Kürbisgeist aus dem Maul des Kürbisses und verfolgt den Zombie ganz links, der sich nicht in derselben Reihe befindet. Nachdem er den Zombie verfolgt hat, nimmt er Besitz vom Zombie und lässt ihn in die entgegengesetzte Richtung laufen. Beim Vorbeigehen am Zombie entzündet er sich selbst und den vorbeigehenden Zombie und verursacht ^ef0123^burnⅠ^oldclr^ Schaden.
 
 [JACKOLANTERN_PLANTFOOD_DESCRIPTION]
-南瓜灯向全场随机放出9簇南瓜幽灵火焰，燃烧本格内的所有僵尸，持续5秒。
+Die Kürbislaterne entfesselt zufällig neun Flammenbündel aus Kürbisgeistern auf dem gesamten Feld und verbrennt alle Zombies im Feld 5 Sekunden lang.
 
 [JACKOLANTERN_AVATAR_PLANTFOOD_DESCRIPTION]
-南瓜灯向全场随机放出9簇南瓜幽灵火焰，燃烧本格内的所有僵尸，持续5秒。^ff0000^在火焰燃烧时会溅出糖果形的小火花，对火焰周围造成伤害。^oldclr^
+Die Kürbislaterne entfesselt zufällig neun Flammenbündel aus Kürbisgeistern auf dem gesamten Feld und verbrennt alle Zombies im Feld 5 Sekunden lang. ^ff0000^ Wenn die Flamme brennt, spritzen kleine Funken in Bonbonform heraus und verursachen Schaden im umliegenden Bereich. ^oldclr^
 
 [BEANCHEMIST_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在豌豆药剂师右侧时，会发射一颗变形豌豆命中僵尸后会将不高于自身两阶的僵尸变形，对大型僵尸和机械僵尸和无法变形的僵尸直接造成伤害。有70%的概率发射普通变形豌豆，有20%的概率发射寒冰变形豌豆，有10%的概率发射暗影变形豌豆。
+Wenn ein Zombie rechts von der Erbsenapothekerin erscheint, schleudert sie eine Verwandlungserbse. Trifft sie den Zombie,Welcher maximal zwei Level höher ist als die Apothekerin selbst, verwandelt der Zombie sich in eine Erbse. Große Zombies, mechanische Zombies und nicht verwandlungsfähige Zombies werden dadurch direkt beschädigt. Die Chance, eine normale Verwandlungserbse zu schleudern, liegt bei 70 %, eine Eisverwandlungserbse bei 20 % und eine Schattenverwandlungserbse bei 10 %.
 
 [BEANCHEMIST_NEW_SKILL_LEVEL2_DES]
-变形豌豆产变形产生的植物为自身阶数+1。
+Die Pflanze, die von der Verwandlungserbse produziert wird, hat die gleiche Stufe wie die Apothekerin +1.
 
 [BEANCHEMIST_NEW_SKILL_LEVEL3_DES]
-豌豆药剂师的准备时间缩短为13秒。
+Die Vorbereitungszeit der Erbsenapothekerin wird auf 13 Sekunden reduziert.
 
 [BEANCHEMIST_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger Fähigkeit direkt einzusetzen!
 
 [BEANCHEMIST_NEW_SKILL_LEVEL5_DES]
-豌豆药剂命中后会留下一滩毒雾，毒雾持续10秒。下一个经过毒雾的僵尸也会被变形或受到1秒的^701edf^中毒Ⅰ^oldclr^效果影响，中毒效果每秒造成攻击力的伤害，随后药水消失。毒雾不影响植物的种植。
+Nachdem der Erbsentrank getroffen hat, hinterlässt er einen Giftnebel, der 10 Sekunden lang anhält. Der nächste Zombie, der den Giftnebel durchquert, wird ebenfalls verwandelt oder für 1 Sekunde vom Gifteffekt ^701edf^ Ⅰ^oldclr^ beeinflusst, der die Angriffskraft pro Sekunde verringert. Anschließend verschwindet der Trank. Der Giftnebel hat keinen Einfluss auf das Pflanzen.
 
 [BEANCHEMIST_PLANTFOOD_DESCRIPTION]
-豌豆药剂师会向距离自身最近的3个僵尸投掷1瓶药剂，将其变形为豌豆射手，或对无法变形的僵尸造成伤害。
+Die Erbsenapothekerin wirft eine Flasche Trank auf die drei Zombies in ihrer Nähe und verwandelt sie in Erbsenkanonen oder fügt Zombies, die nicht verwandelt werden können, Schaden zu.
 
 [BEANCHEMIST_AVATAR_PLANTFOOD_DESCRIPTION]
-豌豆药剂师会向距离自身最近的3个僵尸^ff0000^投掷1瓶暗影药剂，将其变形为暗影豌豆^oldclr^，或对无法变形的僵尸造成伤害。
+Die Erbsenapothekerin wirft eine Flasche Schattentrank auf die drei Zombies, die ihr am nächsten sind^ff0000^ und verwandelt sie in Schattenerbsen^oldclr^ oder fügt Zombies, die nicht verwandelt werden können, Schaden zu.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL1_DES]
 当僵尸出现在右侧时，会潜入地底在僵尸脚下钻出并造成伤害，如果是小型僵尸则直接击飞。攻击后会留下1个持续5秒的坑洞，秒杀首个经过的僵尸后被填平。该秒杀无阶数限制。
