@@ -40357,7 +40357,7 @@ Es besteht eine 50-prozentige Chance, dass es sich bei den abgefeuerten Blasen u
 Bläht eine riesige Blase, die in viele Blasen zerplatzt.
 
 [BUBBLECORAL_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Spezialdünger Fähigkeit rzeugt mehr Blasen.
+Die Spezialdünger Fähigkeit erzeugt mehr Blasen.
 
 [PAPHIOPEDILUM]
 百宝兜兰
