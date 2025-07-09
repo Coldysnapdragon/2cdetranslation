@@ -10,6 +10,70 @@
 [ACHIEVE_COWBOY_STARS_TITLE]
 咦嗬
 
+[SEAGODTREASURE_SELECT_TITLE]
+Wähle eine der Belohnungen
+
+[SEAGODTREASURE_SELECT_DESCRIPTION]
+Wähle eine der folgenden Belohnungen!
+
+[ADVICE_PLANT_NOT_DEEPSEA]
+Diese Pflanze kann nicht im Meer gepflant werden
+
+[SEASHROOM]
+Meeres-Pilz
+
+[SEASHROOM_DESCRIPTION]
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{FLAVOR}Seepilze und Boviste sind entfernte Verwandte. Niemand weiß, wann sich ihre Vorfahren trennten, aber bei Familienfeiern finden immer Poolpartys statt.
+
+[SEASHROOM_DESCRIPTION_HEADER]
+Meerespilze können im Wasser gepflanzt werden, haben eine kurze Reichweite und sind nur von kurzer Dauer.
+
+[SEASHROOM_TOOLTIP]
+Meerespilze können im Wasser gepflanzt werden, haben eine kurze Reichweite und sind nur von kurzer Dauer.
+
+[SEASHROOM_PRODUCT_SHORT_DESC]
+Meerespilze können im Wasser gepflanzt werden, haben eine kurze Reichweite und sind nur von kurzer Dauer.
+
+[SEASHROOM_AVATAR_NAME]
+Meerespilze können im Wasser gepflanzt werden, haben eine kurze Reichweite und sind nur von kurzer Dauer.
+
+[STORE_PRODUCT_AVATAR_SEASHROOM_TITLE]
+Meerespilz-Kostüm
+
+[STORE_PRODUCT_AVATAR_SEASHROOM]
+Ultimative Angriffskraft um 50 % erhöht
+
+[SEASHROOM_SKILL_LEVEL1]
+Überlebensverbesserung
+
+[SEASHROOM_SKILL_LEVEL1_DES]
+Die Überlebenszeit des Meerespilzes wurde auf 90 Sekunden erhöht.
+
+[SEASHROOM_SKILL_LEVEL2]
+Extrem lange Standby-Zeit
+
+[SEASHROOM_SKILL_LEVEL2_DES]
+Die Überlebenszeit des Meerespilzes wurde auf 120 Sekunden erhöht.
+
+[SEASHROOM_NEW_SKILL_LEVEL1_DES]
+Meerespilze können direkt im Wasser gepflanzt werden. Im Meerwasser ändert sich die Richtung je nach Pflanzbereich. Nach dem Einpflanzen greift der Seepilz Zombies innerhalb von drei Feldern rechts in derselben Spalte an und verursacht innerhalb eines Feldes geringen Schaden. Der Seepilz kann nur 60 Sekunden auf dem Feld überleben.
+
+[SEASHROOM_NEW_SKILL_LEVEL2_DES]
+Die Überlebenszeit des Meerespilzes erhöht sich auf 90 Sekunden.
+
+[SEASHROOM_NEW_SKILL_LEVEL3_DES]
+Die Überlebenszeit des Meerespilzes erhöht sich auf 120 Sekunden.
+
+[SEASHROOM_NEW_SKILL_LEVEL4_DES]
+Beim Einpflanzen besteht die Chance, die Energiebohne direkt mit einem großen Angriff auszulösen!
+
+[SEASHROOM_PLANTFOOD_DESCRIPTION]
+Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um einen großen Angriff auszulösen. Die Verschwindezeit wird zurückgesetzt.
+
+[SEASHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine große Bewegung zu starten. Die Verschwindezeit wird zurückgesetzt.
+
 [ACHIEVE_DOG_WHISPERER_DESC]
 在死神僵尸召唤出墓碑之前干掉他！
 
@@ -73493,6 +73557,251 @@ Die Erbsenapothekerin wirft eine Flasche Schattentrank auf die drei Zombies, die
 [ADVICE_COPYCATS]
 放置魔术帽后，可能出现任意植物或任意僵尸，请谨慎种植位置！利用出现的植物击败僵尸
 
+[NARRATIVE_ATLANTIS_1_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}U-Boot-Modus aktiviert ... 100 %.
+
+[NARRATIVE_ATLANTIS_1_INTRO_2]
+{SAY:WINNIE}Dave, Daten zeigen, dass wir gleich zu Unterwasserruinen gelangen, die vor zehntausend Jahren versunken waren.
+
+[NARRATIVE_ATLANTIS_1_INTRO_3]
+{EXCITED:CRAZYDAVE}Unterwasserruinen, verlorene Tacos!
+
+[NARRATIVE_ATLANTIS_1_INTRO_4]
+{EXCITED:CRAZYDAVE}Wir haben nach diesen verlorenen Dingen gesucht, richtig!
+
+[NARRATIVE_ATLANTIS_1_INTRO_5]
+{SAY:WINNIE}Der Detektor zeigt an, dass die Unterwasserzombies nach Gehirnen gesucht haben.
+
+[NARRATIVE_ATLANTIS_1_INTRO_6]
+{SAY:WINNIE}Benutzer Dave, wir müssen vorbereitet sein!
+
+[NARRATIVE_ATLANTIS_1_INTRO_7]
+{EXCITED:CRAZYDAVE}Ich mache den Föhn fertig, in Wasser eingeweichte Tacos schmecken nicht.
+
+[NARRATIVE_ATLANTIS_2_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Vorsicht, es gibt mehr als einen Außenseiter in diesem Meer!
+
+[NARRATIVE_ATLANTIS_2_INTRO_2]
+{EXCITED:CRAZYDAVE}Kann Schwimmen wirklich beim Abnehmen helfen?
+
+[NARRATIVE_ATLANTIS_3_INTRO_3]
+{SAY:WINNIE}Äh, mach dir keine Gedanken um die Details ...
+
+[NARRATIVE_ATLANTIS_3_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Da scheint etwas außerhalb des U-Boots zu sein.
+
+[NARRATIVE_ATLANTIS_3_INTRO_2]
+{SAY:WINNIE}Weichtiere, Kopffüßer, Käfer, Sepia, Tintenfisch, Sepia
+
+[NARRATIVE_ATLANTIS_3_INTRO_3]
+{SAY:WINNIE}Ihre Tinte ist nicht leicht zu handhaben, sei vorsichtig!
+
+[NARRATIVE_ATLANTIS_3_INTRO_4]
+{EXCITED:CRAZYDAVE}! !
+
+[NARRATIVE_ATLANTIS_3_INTRO_5]
+{EXCITED:CRAZYDAVE}Diesmal gibt es Meeresfrüchte-Tacos!
+
+[NARRATIVE_ATLANTIS_4_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Sterne, sind wir im Weltraum?
+
+[NARRATIVE_ATLANTIS_4_INTRO_2]
+{SAY:WINNIE}Es wurde festgestellt, dass es kein echter Stern, sondern ein Seestern war.
+
+[NARRATIVE_ATLANTIS_4_INTRO_3]
+{SAY:WINNIE}Der aufgeschreckte Seestern drehte sich und traf das U-Boot, wodurch der Wasserfluss beschleunigt wurde.
+
+[NARRATIVE_ATLANTIS_4_INTRO_4]
+{EXCITED:CRAZYDAVE}Mir wird langsam schwindelig.
+
+[NARRATIVE_ATLANTIS_5_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Ich weiß, Quallen!
+
+[NARRATIVE_ATLANTIS_5_INTRO_2]
+{EXCITED:CRAZYDAVE}Sie kann Quallensauce auspressen.
+
+[NARRATIVE_ATLANTIS_5_INTRO_3]
+{SAY:WINNIE}Der Wassergehalt von Quallen liegt bei 95 bis 98 %. Ich glaube nicht, dass sie Quallensauce auspressen können.
+
+[NARRATIVE_ATLANTIS_5_INTRO_4]
+{SAY:WINNIE}Die verängstigte Qualle wird unsere Pflanzen vernichten.
+
+[NARRATIVE_ATLANTIS_5_INTRO_5]
+{EXCITED:CRAZYDAVE}Quallensauce!
+
+[NARRATIVE_ATLANTIS_6_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Ist das eine magische Muschel? Kann sie meine Frage beantworten?
+
+[NARRATIVE_ATLANTIS_6_INTRO_2]
+{SAY:WINNIE}Die Wahrscheinlichkeit, eine Antwort zu hören, liegt bei 0 %, und die Wahrscheinlichkeit, Benutzer Dave schreien zu hören, bei 100 %.
+
+[NARRATIVE_ATLANTIS_6_INTRO_3]
+{SAY:WINNIE}Zombies schmücken ihre Köpfe gerne mit Einsiedlerkrebsen, um sie sicherer zu machen!
+
+[NARRATIVE_ATLANTIS_6_INTRO_4]
+{EXCITED:CRAZYDAVE}Ich glaube, ich kenne den Ursprung der Straßensperre.
+
+[NARRATIVE_ATLANTIS_7_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Warnung! Sensoren erkennen erhöhten Wasserdurchfluss.
+
+[NARRATIVE_ATLANTIS_7_INTRO_2]
+{SAY:WINNIE}Benutzer Dave, wir müssen einen Reaktionsplan erstellen.
+
+[NARRATIVE_ATLANTIS_7_INTRO_3]
+{EXCITED:CRAZYDAVE}Deaktiviere den Sensor!
+
+[NARRATIVE_ATLANTIS_8_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Jedes Mal, wenn ich einen Kugelfisch sehe, möchte ich ihn anstupsen.
+
+[NARRATIVE_ATLANTIS_8_INTRO_2]
+{SAY:WINNIE}Ich schlage vor, du gibst diese Idee auf, User Dave.
+
+[NARRATIVE_ATLANTIS_8_INTRO_3]
+{SAY:WINNIE}Die losen Ballons fliegen überall herum, und die Kugelfische auch.
+
+[NARRATIVE_ATLANTIS_8_INTRO_4]
+{EXCITED:CRAZYDAVE}Ich liebe Ballons!
+
+[NARRATIVE_ATLANTIS_9_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE}Einige mächtige Wesen sind erschienen.
+
+[NARRATIVE_ATLANTIS_9_INTRO_2]
+{AUFGEWICKELT:CRAZYDAVE}Ich hätte auch gern eine Qualle, die mich hält und mit mir schwimmt.
+
+[NARRATIVE_ATLANTIS_9_INTRO_3]
+{SAG:WINNIE}Das ist vielleicht keine so gute Idee, User Dave.
+
+[NARRATIVE_ATLANTIS_10_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE}Die Zombies werden immer aggressiver.
+
+[NARRATIVE_ATLANTIS_10_INTRO_2]
+{SAY:WINNIE}Das könnte bedeuten, dass wir unserem Ziel näher kommen.
+
+[NARRATIVE_ATLANTIS_10_INTRO_3]
+{EXCITED:CRAZYDAVE}Ich fange an, das Leben an Land zu vermissen.
+
+[NARRATIVE_ATLANTIS_11_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Was sind das für Fische mit den spitzen Mäulern?
+
+[NARRATIVE_ATLANTIS_11_INTRO_2]
+{SAY:WINNIE}Das sind Segelfische, die schnellsten Fische im Meer.
+
+[NARRATIVE_ATLANTIS_11_INTRO_3]
+{SAY:WINNIE}Pass auf, sie könnten das Deck des U-Boots treffen, weil sie zu schnell schwimmen.
+
+[NARRATIVE_ATLANTIS_11_INTRO_4]
+{EXCITED:CRAZYDAVE}Haben wir das U-Boot versichert?
+
+[NARRATIVE_ATLANTIS_12_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Kann dieser undichte Kreislauf voller fauler Gurken dem Druck des Tiefseewassers wirklich standhalten?
+
+[NARRATIVE_ATLANTIS_12_INTRO_2]
+{SAY:zombossicon}Wie schade! Ich habe dein blödes Unterwasserabenteuer bereits abgeschlossen!
+
+[NARRATIVE_ATLANTIS_12_INTRO_3]
+{SAY:zombossicon}Die fliegenden Ruinenzombies im Meer werden deine Träume zerstören! Deine Überreste werden Teil der Ruinen und für immer begraben!
+
+[NARRATIVE_ATLANTIS_12_INTRO_4]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Für immer in den Unterwasserruinen leben? Es wäre schön, wenn es eine Sauna unter dem Meer gäbe.
+
+[NARRATIVE_ATLANTIS_12_INTRO_5]
+{SAY:WINNIE} Sehen heißt glauben, Dave-kun. Wir werden die Geheimnisse der Ruinen selbst lüften.
+
+[ATLANTIS_FINAL_LEVEL]
+Unterwasserwelt – Letzte Herausforderung
+
+[HEIAN_LEVEL_NAME]
+Heian-Zeit – Tag {LEVEL_NUMBER} 
+
+[ATLANTIS_LEVEL_NAME]
+Unterwasserwelt – Tag {LEVEL_NUMBER}
+
+[ZOMBIE_ATLANTIS_BASIC]
+Gewöhnlicher Meereszombie
+
+[ZOMBIE_ATLANTIS_BASIC_DESCRIPTION]
+Der gewöhnliche Meereszombie steckt voller böser Absichten, die ihm jedes Mal einfallen, wenn er „Gehirn~“ ruft.
+
+[ZOMBIE_ATLANTIS_BASIC_DESCRIPTION_HEADER]
+Gewöhnlicher Zombie in der Unterwasserwelt
+
+[PLAYERS_TRIP_TO_ATLANTIS]
+{PLAYER}s Reise in die Unterwasserwelt!
+
+[WORLD_NAME_ATLANTIS]
+Unterwasserwelt
+
+[DANGER_ROOM_ATLANTIS_LEVEL_NAME]
+Unterwasserwelt – Level {LEVEL_NUMBER}
+
+[DANGER_ROOM_ATLANTIS_TITLE_WELCOME]
+Willkommen in der Unterwasserwelt!
+
+[ATLANTIS]
+Unterwasserwelt
+
+[VASEBREAKER_ATLANTIS_LEVEL_NAME_1]
+Unterwasser: Fast and Furious
+
+[VASEBREAKER_ATLANTIS_LEVEL_NAME_2]
+Unterwasser: Papas freier Tag
+
+[VASEBREAKER_ATLANTIS_LEVEL_NAME_3]
+Unterwasser: Fallen ... Es fiel
+
+[TASK_WORLDTASK_ATLANTIS1]
+Schließe den einfachen Level des 13. Tages der Unterwasserwelt ab.
+
+[TASK_WORLDTASK_ATLANTIS2]
+Schließe den schweren Level des 13. Tages der Unterwasserwelt ab.
+
+[TASK_WORLDTASK_ATLANTIS3]
+Schließe die ultimative Herausforderung der Unterwasserwelt ab.
+
+[ZOMBIE_ATLANTIS_FLAG]
+Zombie mit Meeresflagge
+
+[ZOMBIE_ATLANTIS_FLAG_DESCRIPTION]
+Die Unterwasserzombies glauben, dass die Richtung der Meeresströmung die Richtung des Gehirns darstellt. Daher wird die Zombie-Meeresflagge jeden Freitagmorgen gehisst, um die Meeresströmung zu messen, und jeden Sonntagabend wieder eingeholt.
+
+[ZOMBIE_ATLANTIS_FLAG_DESCRIPTION_HEADER]
+Es markiert die Ankunft einer großen „Welle“ seetangumhüllter Zombies.
+
+[ZOMBIE_ATLANTIS_ARMOR1]
+Ozean-Barriere-Zombie
+
+[ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION]
+Was ist der Unterschied zwischen Auf- und Abschweben und Herumfliegen? Was bedeutet die Existenz von Barrikaden im Ozean? Vielleicht ist dies das gemeinsame Meisterwerk von Weltraumphilosophen und Meeresfrüchtekünstlern.
+
+[ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION_HEADER]
+Sein Unterwasser-Barrikadenfass macht ihn doppelt so stark wie gewöhnliche Ozean-Zombies.
+
+[ZOMBIE_ATLANTIS_ARMOR2]
+Ozean-Eisenfass-Zombie
+
+[ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION]
+Warum schwebte das Eisenfass nicht durch den Auftrieb davon? Warum verrottete das Holz nicht im Wasser? Der Zombie, der so eine Frage stellte, muss Wasser im Gehirn haben. Wo ist das Gehirn?
+
+[ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION_HEADER]
+Der Eiseneimer auf seinem Kopf bietet hervorragenden Schutz vor Schaden.
+
+[ZOMBIE_ATLANTIS_gargantuar]
+Ruinen-Riesenzombie
+
+[ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION]
+Der Legende nach riss ein gewaltiger Riese eine Steinsäule um und verursachte eine Flut, die das wunderschöne Königreich untergehen ließ. Es gibt auch eine Legende, dass es für bestimmte Gruppen erschwingliche Flugerlebnisse unter dem Meer gibt. Ruinen-Riesenzombie wird dir sagen, welche Legende wahr ist.
+
+[ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION_HEADER]
+Zerschmettere alle Pflanzen und wirf Kobolde.
+
+[ZOMBIE_ATLANTIS_imp]
+Ruinen-Wicht-Zombie
+
+[ZOMBIE_ATLANTIS_imp_DESCRIPTION]
+Schöne Ideale beginnen immer im Kleinen zu verfallen. Wenn diese scheinbar unbedeutenden Dinge immer mehr werden, sinken sie schließlich. Ruinen-Kobold-Zombies lieben diese Theorie.
+
+[ZOMBIE_ATLANTIS_imp_DESCRIPTION_HEADER]
+Kann über deine Schilde geworfen werden und landet direkt auf dem U-Boot.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_1]
 电能豌豆六一装扮
