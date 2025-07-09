@@ -73758,6 +73758,299 @@ Schließe den schweren Level des 13. Tages der Unterwasserwelt ab.
 [TASK_WORLDTASK_ATLANTIS3]
 Schließe die ultimative Herausforderung der Unterwasserwelt ab.
 
+[OXYGENALGAE]
+Sauerstoffalgen
+
+[OXYGENALGAE_DESCRIPTION]
+{KEYWORD}Merkmale:{STAT}Produziert Sauerstoff und verteilt ihn, wodurch Landpflanzen in einem Umkreis von 3 x 3 Metern im Meerwasser wachsen und überleben können.
+{KEYWORD}Pflanzenmerkmale:{STAT}Weiße Pflanzen, die Sauerstoff liefern, endloses Sonnenlicht.
+{FLAVOR}Sauerstoffalgen betreiben täglich aerobes Training, wodurch sie angeblich die Umgebung kontinuierlich mit Sauerstoff versorgen können.
+
+[OXYGENALGAE_DESCRIPTION_HEADER]
+Versorgt umliegende Pflanzen mit Sonnenlicht und Sauerstoff
+
+[OXYGENALGAE_TOOLTIP]
+Versorgt umliegende Pflanzen mit Sonnenlicht und Sauerstoff
+
+[OXYGENALGAE_PRODUCT_SHORT_DESC]
+Versorgt umliegende Pflanzen mit Sonnenlicht und Sauerstoff
+
+[OXYGENALGAE_SKILL_LEVEL1]
+Photosynthese
+
+[OXYGENALGAE_SKILL_LEVEL1_DES]
+Erhöht leicht die Gesundheit und Angriffskraft umliegender Pflanzen und verkürzt das Zeitintervall für die Sonnenlichtproduktion.
+
+[OXYGENALGAE_SKILL_LEVEL2]
+Extrem schnelle Sauerstoffversorgung
+
+[OXYGENALGAE_SKILL_LEVEL2_DES]
+Erhöht weiter die Gesundheit und Angriffskraft umliegender Pflanzen und verkürzt das Zeitintervall für die Sonnenlichtproduktion.
+
+[STORE_PRODUCT_AVATAR_OXYGENALGAE]
+Die große Aktion erzeugt sofort 125 Punkte Sonnenlicht und erhöht leicht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich, 10 Sekunden lang.
+
+[STORE_PRODUCT_AVATAR_OXYGENALGAE_TITLE]
+Sauerstoff-Algenkostüm
+
+[OXYGENALGAE_AVATAR_NAME]
+Sauerstoff-Algenkostüm
+
+[OXYGENALGAE_NEW_SKILL_LEVEL1_DES]
+Versorgt umliegende Pflanzen mit Sonnenlicht und Sauerstoff.
+
+[OXYGENALGAE_NEW_SKILL_LEVEL2_DES]
+Erhöht die Gesundheit und Angriffskraft umliegender Pflanzen leicht und verkürzt das Zeitintervall für die Sonnenlichtproduktion.
+
+[OXYGENALGAE_NEW_SKILL_LEVEL3_DES]
+Erhöht die Gesundheit und Angriffskraft umliegender Pflanzen weiter und verkürzt das Zeitintervall für die Sonnenlichtproduktion.
+
+[OXYGENALGAE_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine mittlere Chance, Energiebohnen freizusetzen. Direkt
+
+[OXYGENALGAE_PLANTFOOD_DESCRIPTION]
+Die große Attacke erzeugt sofort 125 Sonnenlicht und erhöht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich 10 Sekunden lang leicht.
+
+[OXYGENALGAE_AVATAR_PLANTFOOD_DESCRIPTION]
+Die große Attacke erzeugt sofort 125 Sonnenlicht und erhöht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich 10 Sekunden lang leicht.
+
+[AQUAWEED]
+
+[AQUAWEED_DESCRIPTION_HEADER]
+Haie herbeirufen, um Feinde anzugreifen
+
+[AQUAWEED_DESCRIPTION]
+{KEYWORD}Funktionen:{STAT}Haie herbeirufen, um Feinde anzugreifen und zu verschlingen. Große Haie können herbeigerufen werden, wenn die Bedingungen erfüllt sind.
+{KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanzen, Meerespflanzen, Haie herbeirufen
+{FLAVOR}Wegen seines Bartes gilt er bei anderen Pflanzen als weiser Mann und Anführer, der Meerespflanzen, darunter auch kleine Haie, dazu bringt, im Meer zu leben.
+
+[MEGAGATLING_DESCRIPTION_HEADER]
+Haie beschwören, um Feinde anzugreifen
+
+[AQUAWEED_TOOLTIP]
+Haie beschwören, um Feinde anzugreifen
+
+[OLIVEPIT_PRODUCT_SHORT_DESC]
+Haie beschwören, um Feinde anzugreifen
+
+[AQUAWEED_SKILL_LEVEL1]
+Haie trainieren
+
+[AQUAWEED_SKILL_LEVEL1_DES]
+Beim Beschwören kleiner Haie besteht eine Chance von 15 %, zwei zu beschwören. Die Angriffskraft der kleinen Haie wird erhöht und die Zeit, die kleinen Haie erneut zu beschwören, verkürzt sich.
+
+[AQUAWEED_SKILL_LEVEL2]
+Hai-Anführer
+
+[AQUAWEED_SKILL_LEVEL2_DES]
+Beim Beschwören kleiner Haie besteht eine Chance von 20 %, zwei zu beschwören. Die Angriffskraft der kleinen Haie wird erhöht und die Zeit, die kleinen Haie erneut zu beschwören, verkürzt sich. Schneller
+
+[AQUAWEED_SKILL_LEVEL5]
+Ozean-Overlord
+
+[AQUAWEED_SKILL LL_LEVEL5_DES]
+Jede Beschwörung hat die Chance, einen speziellen kleinen Hai (Roter Hai) zu beschwören, der Zombies direkt frisst.
+
+[AQUAWEED_SUPERSKILL]
+Ozean-Overlord
+
+[AQUAWEED-SUPERSKILL_DES]
+Jede Beschwörung hat die Chance, einen speziellen kleinen Hai (z. B. einen Roten Hai) zu beschwören, der Zombies direkt frisst.
+
+[STORE_PRODUCT_AVATAR_AQUAWEED]
+Nachdem die Alge die große Attacke ausgeführt hat, beschwört sie drei weitere kleine Haie, darunter auch Roten Haien. Diese wirken an Land nicht.
+
+[AQUAWEED_NEW_SKILL_LEVEL1_DES]
+Beschwöre kleine Haie, um den Feind anzugreifen. Die kleinen Haie verschlingen Zombies mit weniger als 40 % Gesundheit und kehren dann zum Seegras zurück, um ihre Energie wieder aufzufüllen. Nach dreimaliger Rückkehr des kleinen Hais ist das Seegras vollständig aufgefüllt und die große Attacke wird ausgelöst, um einen großen Hai zu beschwören, der verheerenden Schaden an einreihigen Zombies verursacht. Die Stufe 1 kann kleine und mittelgroße Zombies der Stufe 2 sofort töten.
+
+[AQUAWEED_NEW_SKILL_LEVEL2_DES]
+Beim Beschwören eines kleinen Hais besteht eine Chance von 15 %, zwei Haie zu beschwören. Die Angriffskraft der Haie wird erhöht und die Zeit bis zum erneuten Beschwören der Haie verkürzt sich. Die große Attacke der Stufe 2 kann kleine und mittelgroße Zombies der Stufe 4 sofort töten.
+
+[AQUAWEED_NEW_SKILL_LEVEL3_DES]
+Beim Beschwören eines kleinen Hais besteht eine 20%ige Chance, zwei Haie zu beschwören. Die Angriffskraft der Haie wird erhöht und die Zeit bis zum erneuten Beschwören der Haie verkürzt sich. Die große Attacke der 3. Stufe kann kleine und mittlere Zombies der 6. Stufe sofort töten.
+
+[AQUAWEED_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die große Attacke der Energiebohne direkt freizusetzen. Die große Attacke der 4. Stufe kann kleine und mittlere Zombies der 8. Stufe sofort töten.
+
+[AQUAWEED_NEW_SKILL_LEVEL5_DES]
+Jede Beschwörung hat die Chance, einen speziellen kleinen Hai (Roter Hai) zu beschwören, der Zombies direkt frisst. Die große Attacke der 5. Stufe kann kleine und mittlere Zombies der 10. Stufe sofort töten.
+
+[STORE_PRODUCT_AVATAR_AQUAWEED_TITLE]
+Poseidon-Kostüm
+
+[KELPGUARD_SKILL_LEVEL1]
+Ausdauer
+
+[KELPGUARD_SKILL_LEVEL1_DES]
+Die Anzahl der benötigten Zombies, um den beschädigten Zustand zu erreichen, wurde auf 4 geändert.
+
+[KELPGUARD_SKILL_LEVEL2]
+Eiserner Wille
+
+[KELPGUARD_SKILL_LEVEL2_DES]
+Die Anzahl der benötigten Zombies, um den beschädigten Zustand zu erreichen, wurde auf 5 geändert.
+
+[KELPGUARD_NEW_SKILL_LEVEL1_DES]
+Kelp Guard kann nur im Wasser platziert werden. Er wird gleichzeitig in der ersten und sechsten Reihe derselben Spalte platziert. In der Mitte bildet sich eine Kelp-Bremsschwelle, die Zombies blockiert. Wenn drei Zombies die Bremsschwelle berühren, wird alle 5 Sekunden ein Teil der Bremsschwelle zerstört, bis sie vollständig zerstört ist. Wenn keine Zombies mit der Bremsschwelle kollidieren, wird sie nach einiger Zeit wiederhergestellt. Wenn die Kelp-Bremsschwelle in gutem Zustand ist, kann sie die Auswirkungen von Meeresströmungen blockieren.
+
+[KELPGUARD_NEW_SKILL_LEVEL2_DES]
+Wenn 4 Zombies die Bremsschwelle berühren, wird ein Teil der Bremsschwelle beschädigt.
+
+[KELPGUARD_NEW_SKILL_LEVEL3_DES]
+Wenn 5 Zombies die Bremsschwelle berühren, wird ein Teil der Bremsschwelle beschädigt.
+
+[KELPGUARD_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht die Chance, die Energiebohne direkt mit einem großen Angriff auszulösen!
+
+[KELPGUARD_PLANTFOOD_DESCRIPTION]
+Wenn der Kelp Guard den großen Angriff ausführt, wird direkt eine komplette Bremsschwelle erzeugt. Die Bremsschwelle des Kelp Guards wird dabei nicht zerstört. Nach kurzer Aufladung werden die Zombies auf der Bremsschwelle ein Feld weit zurückgestoßen.
+
+[KELPGUARD_AVATAR_PLANTFOOD_DESCRIPTION]
+Wenn Kelp Guard seine ultimative Fähigkeit aktiviert, erzeugt er direkt einen vollständigen Bremsschwellenwert. Kelp Guards Bremsschwelle wird dabei nicht zerstört und stößt nach kurzer Aufladung Zombies auf der Bremsschwelle um zwei Felder zurück.
+
+[WARNING_SPERM_WHALE_BACKGROUND_DESC_1]
+Pottwale sind unterwegs, bitte seid vorsichtig!
+
+[WARNING_SPERM_WHALE_BACKGROUND_DESC_2]
+Pottwale kommen näher!
+
+[PLANTING_NOT_ON_SWORDFISH]
+Kann nicht auf Schwertfischen platziert werden.
+
+[ZOMBIE_FAT_DIVE]
+Tieftauchende Zombies
+
+[ZOMBIE_FAT_DIVE_DESCRIPTION]
+Der Druck der Mitspieler wird immer größer, und alle blasen Zombies zu Ballons auf. Glücklicherweise verstehen tieftauchende Zombies in der neuen Umgebung endlich die wahre Bedeutung des Zombietauchens. Sollten sie entfernt werden?
+
+[ZOMBIE_FAT_DIVE_DESCRIPTION_HEADER]
+Bei indirektem Beschuss platzt der Sauerstofftank auf seinem Rücken und setzt Sauerstoff frei, der den tieftauchenden Zombie schnell vorwärts treibt.
+
+[ZOMBIE_LANTERNFISH_RIDER]
+Schwertfischreiter-Zombie
+
+[ZOMBIE_LANTERNFISH_RIDER_DESCRIPTION]
+Der Schwertfischreiter-Zombie träumt von einer Poolparty im Garten unter dem Meer, doch die Gestaltung eines Außenpools unter dem Meer gestaltet sich schwierig.
+
+[ZOMBIE_LANTERNFISH_RIDER_DESCRIPTION_HEADER]
+Berührt er ein U-Boot, kann er die Bombe an seinem Körper zünden und dem U-Boot schweren Schaden zufügen.
+
+[POSEIDONTREASURE]
+Poseidons Schatz
+
+[POSEIDONTREASURE_TAB1]
+Schatzverlosung
+
+[POSEIDONTREASURE_TAB2]
+Spezial-Geschenkpaket
+
+[POSEIDONTREASURE_TAB3]
+Ultimativer Schatz
+
+[POSEIDONTREASURE_TAB4]
+Poseidons Schatz
+
+[POSEIDONTREASURE_TAB1_DESC]
+Jedes 30. Mal ziehen, erhältst du eine ultimative Schatztruhe.
+
+[POSEIDONTREASURE_TAB3_DESC]
+Öffne bis zu ^ffff00^{NUM}^oldclr^. Du erhältst garantiert eine rote Belohnung im ultimativen Schatz.
+
+[MAT_POSEIDON_TREASURE_TICKET]
+Poseidons Token
+
+[MAT_POSEIDON_TREASURE_TICKET_USE]
+Belohnungen im Poseidons Schatz ziehen Event
+
+[MAT_POSEIDON_TREASURE_TICKET_GOT_WAY]
+Kaufe ein Geschenkpaket im Poseidon-Schatz-Event.
+
+[PRODUCT_POSEIDONTREASURE_6_SHORTDESC]
+Poseidon-Geschenkpaket (Grundstufe) ... OSEIDONTREASURE_30_SHORTDESC]
+Poseidon-Geschenkpaket (Mittelstufe)
+
+[PRODUCT_POSEIDONTREASURE_98_SHORTDESC]
+Poseidon-Geschenkpaket (Fortgeschrittene)
+
+[PRODUCT_POSEIDONTREASURE_328_SHORTDESC]
+Poseidon-Geschenkpaket (Exklusiv)
+
+[POSEIDONTREASURE_EXPIRED]
+Belohnungen (abgelaufen) für Poseidons Schatz-Event
+
+[POSEIDON_DESCRIPTION_1]
+Basisbelohnungen:
+Prestige-Box: 0,55 % des Hauptpreises
+Poseidon-Schatzkiste: 0,75 % des Hauptpreises
+Richtungsfragment*1: 5,10 %
+Richtungsfragment*2: 2,33 %
+Richtungsfragment*10: 1,05 %
+Diamant*888: 3,57 %
+Diamant*288: 15,03 %
+Diamant*150: 21,10 %
+Weltraumwürfel*10: 1,01 %
+Weltraumwürfel*5: 1,42 %
+Weltraumwürfel*2: 2,31 %
+Weltraumwürfel*1: 6,26 %
+Goldmünze*88888: 6,81 %
+Goldmünze*166666: 11,37 %
+Mysteriöser Kristall*5000: 12,42 %
+Mysteriöser Kristall*10000: 8,92 %
+
+Wahrscheinlichkeitsanzeige für Prestige-Schatztruhen:
+Super-Maschinengewehr-Ganzkörperkostüm: 1,15 % Hauptpreis
+Meeresgott-Graspflanze Fragmente*10: 23,22 %
+Fortschrittsbuch: 14,05 %
+Universalfragmente*10: 14,93 %
+Meeresgott-Graspflanzenfragmente*20: 11,61 %
+Meeresgott-Graspflanzenfragmente*30: 7,74 %
+Diamanten*1888: 21,49 %
+Meeresgott-Graspflanzenfragmente*40: 5,81 %
+
+[POSEIDON_DESCRIPTION]
+Aktivitätsregeln:
+1. Kaufe das Poseidon-Geschenkpaket, um Poseidon-Token zu erhalten, mit denen du Schätze ziehen kannst.
+2. Für jeweils 100 Yuan gekaufter Poseidon-Geschenkpakete erhältst du einen Poseidon-Schatz, mit dem du eine Belohnung deiner Wahl einlösen kannst.
+3. Poseidon-Schätze stehen zur Auswahl: neue dynamische Avatare, neue Poseidon-Graskostüme, neue Match-Blumen-Boxerkostüme und Super-Maschinengewehr-Shooter. Fragmente * 10, Kürbisartefakte und andere Requisiten
+4. Bei jeder kumulierten Schatzziehung von 30 Malen könnt ihr einen Ultimativen Schatz erhalten, mit dem ihr zufällig eine Belohnung erhalten könnt.
+5. Der Ultimative Schatz kann zufällig ein Super-Maschinengewehr-Ganzkörperkostüm, Poseidon-Grasfragmente * 10, Universalfragmente, Diamanten und einen Gegenstand aus dem Fortgeschrittenenbuch enthalten.
+6. Der Ultimative Schatz wird zehnmal geöffnet, um ein Super-Maschinengewehr-Ganzkörperkostüm zu erhalten.
+7. Bei der ersten Einzelziehung des Tages gibt es 36 % Rabatt. Bitte nutzt die Event-Token rechtzeitig. Nach Ende des Events werden die verbleibenden Poseidon-Token im Verhältnis 1:30 in Diamanten umgewandelt, und die Poseidon-Schatzkiste und die Ultimative Schatzkiste werden im Verhältnis 1:500 in Diamanten umgewandelt.
+
+[KELPGUARD]
+Seegrass Wächter
+
+[KELPGUARD_DESCRIPTION]
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+{FLAVOR}Kelp Guard versucht immer wieder, seine Bremsschwellen zu durchbrechen, aber es gelingt ihm nicht.
+
+[KELPGUARD_DESCRIPTION_HEADER]
+Kelp Guard kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
+
+[KELPGUARD_TOOLTIP]
+Kelp Guard kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
+
+[KELPGUARD_PRODUCT_SHORT_DESC]
+Kelp Guard kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
+
+[KELPGUARD_AVATAR_NAME]
+Kelp Guard kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
+
+[STORE_PRODUCT_AVATAR_KELPGUARD_TITLE]
+Kelp Guard Kostüm
+
+[STORE_PRODUCT_AVATAR_KELPGUARD]
+Die Anzahl der zurückgeworfenen Zombies erhöht sich auf zwei Felder.
+
+[AQUAWEED_AVATAR_NAME]
+Poseidon-Kostüm
+
+[AQUAWEED_PLANTFOOD_DESCRIPTION]
+Nachdem das Poseidon-Gras den großen Hai freigelassen hat, beschwört es drei weitere kleine Haie. Jeder kleine Hai hat eine Chance von 15 %, sich in einen roten Hai zu verwandeln. Funktioniert nicht an Land.
+
+[AQUAWEED_AVATAR_PLANTFOOD_DESCRIPTION]
+Nachdem das Poseidon-Gras den großen Hai freigelassen hat, beschwört es drei weitere kleine Haie. Jeder kleine Hai hat eine Chance von 15 %, sich in einen roten Hai zu verwandeln. Funktioniert nicht an Land.
+
 [ZOMBIE_ATLANTIS_FLAG]
 Zombie mit Meeresflagge
 
