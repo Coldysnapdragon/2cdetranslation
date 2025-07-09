@@ -73755,12 +73755,12 @@ Schließe den schweren Level des 13. Tages der Unterwasserwelt ab.
 Schließe die ultimative Herausforderung der Unterwasserwelt ab.
 
 [OXYGENALGAE]
-Sauerstoffalgen
+Sauerstoffalge
 
 [OXYGENALGAE_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Produziert Sauerstoff und verteilt ihn, wodurch Landpflanzen in einem Umkreis von 3 x 3 Metern im Meerwasser wachsen und überleben können.
 {KEYWORD}Pflanzenmerkmale:{STAT}Weiße Pflanzen, die Sauerstoff liefern, endloses Sonnenlicht.
-{FLAVOR}Sauerstoffalgen betreiben täglich aerobes Training, wodurch sie angeblich die Umgebung kontinuierlich mit Sauerstoff versorgen können.
+{FLAVOR}Die Sauerstoffalge betreiben täglich aerobes Training, wodurch sie angeblich die Umgebung kontinuierlich mit Sauerstoff versorgen können.
 
 [OXYGENALGAE_DESCRIPTION_HEADER]
 Versorgt umliegende Pflanzen mit Sonnenlicht und Sauerstoff
@@ -73784,7 +73784,7 @@ Extrem schnelle Sauerstoffversorgung
 Erhöht weiter die Gesundheit und Angriffskraft umliegender Pflanzen und verkürzt das Zeitintervall für die Sonnenlichtproduktion.
 
 [STORE_PRODUCT_AVATAR_OXYGENALGAE]
-Die große Aktion erzeugt sofort 125 Punkte Sonnenlicht und erhöht leicht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich, 10 Sekunden lang.
+Der Spezialdünger Effekt erzeugt sofort 125 Sonnen und erhöht leicht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich für 10 Sekunden.
 
 [STORE_PRODUCT_AVATAR_OXYGENALGAE_TITLE]
 Sauerstoff-Algenkostüm
@@ -73802,15 +73802,16 @@ Erhöht die Gesundheit und Angriffskraft umliegender Pflanzen leicht und verkür
 Erhöht die Gesundheit und Angriffskraft umliegender Pflanzen weiter und verkürzt das Zeitintervall für die Sonnenlichtproduktion.
 
 [OXYGENALGAE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, Energiebohnen freizusetzen. Direkt
+Beim Pflanzen besteht eine mittlere Chance, Die Spezialdünger Fähigkeit sofort freizusetzen.
 
 [OXYGENALGAE_PLANTFOOD_DESCRIPTION]
-Die große Attacke erzeugt sofort 125 Sonnenlicht und erhöht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich 10 Sekunden lang leicht.
+Die Spezialdünger Fähigkeit erzeugt sofort 125 Sonnen und erhöht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich für 10 Sekunden leicht.
 
 [OXYGENALGAE_AVATAR_PLANTFOOD_DESCRIPTION]
-Die große Attacke erzeugt sofort 125 Sonnenlicht und erhöht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich 10 Sekunden lang leicht.
+Die Spezialdünger Fähigkeit erzeugt sofort 125 Sonnen und erhöht die Angriffsgeschwindigkeit von Pflanzen im 3*3-Bereich 10 Sekunden leicht.
 
 [AQUAWEED]
+Seegrass
 
 [AQUAWEED_DESCRIPTION_HEADER]
 Haie herbeirufen, um Feinde anzugreifen
@@ -73818,7 +73819,7 @@ Haie herbeirufen, um Feinde anzugreifen
 [AQUAWEED_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Haie herbeirufen, um Feinde anzugreifen und zu verschlingen. Große Haie können herbeigerufen werden, wenn die Bedingungen erfüllt sind.
 {KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanzen, Meerespflanzen, Haie herbeirufen
-{FLAVOR}Wegen seines Bartes gilt er bei anderen Pflanzen als weiser Mann und Anführer, der Meerespflanzen, darunter auch kleine Haie, dazu bringt, im Meer zu leben.
+{FLAVOR}Wegen seines Bartes gilt er bei anderen Pflanzen als weiser Mann und Anführer der Meerespflanzen, darunter auch kleine Haie.
 
 [MEGAGATLING_DESCRIPTION_HEADER]
 Haie beschwören, um Feinde anzugreifen
@@ -73854,7 +73855,7 @@ Ozean-Overlord
 Jede Beschwörung hat die Chance, einen speziellen kleinen Hai (z. B. einen Roten Hai) zu beschwören, der Zombies direkt frisst.
 
 [STORE_PRODUCT_AVATAR_AQUAWEED]
-Nachdem die Alge die große Attacke ausgeführt hat, beschwört sie drei weitere kleine Haie, darunter auch Roten Haien. Diese wirken an Land nicht.
+Nachdem das Seegrass die große Attacke ausgeführt hat, beschwört sie drei weitere kleine Haie, darunter auch Rote Haie. Diese funktionieren an Land nicht.
 
 [AQUAWEED_NEW_SKILL_LEVEL1_DES]
 Beschwöre kleine Haie, um den Feind anzugreifen. Die kleinen Haie verschlingen Zombies mit weniger als 40 % Gesundheit und kehren dann zum Seegras zurück, um ihre Energie wieder aufzufüllen. Nach dreimaliger Rückkehr des kleinen Hais ist das Seegras vollständig aufgefüllt und die große Attacke wird ausgelöst, um einen großen Hai zu beschwören, der verheerenden Schaden an einreihigen Zombies verursacht. Die Stufe 1 kann kleine und mittelgroße Zombies der Stufe 2 sofort töten.
@@ -73896,13 +73897,13 @@ Wenn 4 Zombies die Bremsschwelle berühren, wird ein Teil der Bremsschwelle besc
 Wenn 5 Zombies die Bremsschwelle berühren, wird ein Teil der Bremsschwelle beschädigt.
 
 [KELPGUARD_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohne direkt mit einem großen Angriff auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger Fähigkeit direkt auszulösen!
 
 [KELPGUARD_PLANTFOOD_DESCRIPTION]
-Wenn der Kelp Guard den großen Angriff ausführt, wird direkt eine komplette Bremsschwelle erzeugt. Die Bremsschwelle des Kelp Guards wird dabei nicht zerstört. Nach kurzer Aufladung werden die Zombies auf der Bremsschwelle ein Feld weit zurückgestoßen.
+Wenn der Seetang-Wächter die Spezialdünger-Fähigkeit ausführt, wird direkt eine komplette Bremsschwelle erzeugt. Die Bremsschwelle des Seetang Wächter's wird dabei nicht zerstört. Nach kurzer Aufladung werden die Zombies auf der Bremsschwelle ein Feld weit zurückgestoßen.
 
 [KELPGUARD_AVATAR_PLANTFOOD_DESCRIPTION]
-Wenn Kelp Guard seine ultimative Fähigkeit aktiviert, erzeugt er direkt einen vollständigen Bremsschwellenwert. Kelp Guards Bremsschwelle wird dabei nicht zerstört und stößt nach kurzer Aufladung Zombies auf der Bremsschwelle um zwei Felder zurück.
+Wenn der Seetang Wächter seine Spezialdünger Fähigkeit aktiviert, erzeugt er direkt einen vollständigen Bremsschwellenwert. Seetang Wächter's Bremsschwelle wird dabei nicht zerstört und stößt nach kurzer Aufladung Zombies auf der Bremsschwelle um zwei Felder zurück.
 
 [WARNING_SPERM_WHALE_BACKGROUND_DESC_1]
 Pottwale sind unterwegs, bitte seid vorsichtig!
@@ -74018,7 +74019,7 @@ Seetang Wächter
 
 [KELPGUARD_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
-{FLAVOR}Kelp Guard versucht immer wieder, seine Bremsschwellen zu durchbrechen, aber es gelingt ihm nicht.
+{FLAVOR}Der Seetang Wächter versucht immer wieder, seine Bremsschwellen zu durchbrechen, aber es gelingt ihm nicht.
 
 [KELPGUARD_DESCRIPTION_HEADER]
 Der Seetang Wächter kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
