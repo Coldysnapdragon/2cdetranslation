@@ -39146,137 +39146,137 @@ Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hin
 [HAPPYLEEK_AVATAR_PLANTFOOD_DESCRIPTION]
 生产阳光后额外喷出一口留在场上的气体持续让僵尸换行
 
-[NIGHTCAP] 
-暗夜菇
+[NIGHTCAP]
+Nachtporling
 
 [NIGHTCAP_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方4格
-{KEYWORD}特点：{STAT}攻击僵尸使其减速并中毒，暗夜形态下不会受到伤害
-{KEYWORD}植物特征：{STAT}紫色植物
-{FLAVOR} 暗夜菇一直对正义有着敏锐的感觉，从她还是个小孢子的时候起，她就开始观看深夜忍者电影，而不是专注于她的真菌学作业
+{KEYWORD}Reichweite: {STAT}4 Blöcke
+{KEYWORD}Eigenschaften: {STAT}Verlangsamt und vergiftet Zombies, kann in Nachtgestalt nicht verletzt werden
+{KEYWORD}Pflanzeneigenschaften: {STAT}Lila Pflanze
+{FLAVOR} Nachtporling hatte schon immer einen ausgeprägten Sinn für Gerechtigkeit, seit sie als winzige Spore spätabends Ninja-Filme schaute, anstatt sich auf ihre Mykologie-Hausaufgaben zu konzentrieren.
 
 [NIGHTCAP_DESCRIPTION_HEADER]
-攻击僵尸使其减速并中毒，暗夜形态下不会受到伤害
+Verlangsamt und vergiftet Zombies, kann in Nachtgestalt nicht verletzt werden
 
 [NIGHTCAP_TOOLTIP]
-攻击僵尸使其减速并中毒，暗夜形态下不会受到伤害
+Verlangsamt und vergiftet Zombies, kann in Nachtgestalt nicht verletzt werden
 
 [NIGHTCAP_PRODUCT_SHORT_DESC]
-攻击僵尸使其减速并中毒，暗夜形态下不会受到伤害
+Verlangsamt und vergiftet Zombies, kann in Nachtgestalt nicht verletzt werden
 
 [NIGHTCAP_SKILL_LEVEL1]
-忍术训练
+Ninjutsu Training
 
-[NIGHTCAP_SKILL_LEVEL1_DES]
-暗夜菇的攻击范围增加1格，暗夜形态的冷却时间减少2.5秒
+[NIGHTCAP_SKILL_LEVEL2] ILL_LEVEL1_DES]
+Die Angriffsreichweite von Nachtporling erhöht sich um 1 Gitter, und die Abklingzeit der Nightcap-Form verringert sich um 2,5 Sekunden.
 
 [NIGHTCAP_SKILL_LEVEL2]
-忍术强化
+Ninjutsu-Verbesserung
 
 [NIGHTCAP_SKILL_LEVEL2_DES]
-暗夜菇的攻击范围再次增加1格，暗夜形态的冷却时间再次减少2.5秒
+Die Angriffsreichweite von Nachtporling erhöht sich erneut um 1 Gitter, und die Abklingzeit der Nightcap-Form verringert sich erneut um 2,5 Sekunden.
 
 [NIGHTCAP_SKILL_LEVEL5]
-能量飞溅
+Energiespritzer
 
 [NIGHTCAP_SKILL_LEVEL5_DES]
-暗夜菇有概率将能量球融合起来向前进攻，攻击到僵尸后分别朝上下方向分裂出两个小能量球，小能量球可造成伤害和眩晕效果。
+Nachtporling hat die Chance, die Energiebälle zu verschmelzen und nach vorne anzugreifen. Nach dem Angriff auf den Zombie teilt sich dieser in zwei kleine Energiebälle auf, die nach oben und unten zeigen. Die kleinen Energiebälle können Schaden verursachen und Betäubungseffekte verursachen.
 
 [STORE_PRODUCT_AVATAR_NIGHTCAP_TITLE]
-暗夜菇装扮
+Nachtmützenkostüm
 
 [NIGHTCAP_AVATAR_NAME]
-暗夜菇装扮
+Nachtmützenkostüm
 
 [STORE_PRODUCT_AVATAR_NIGHTCAP]
-释放大招后还还将把最后一波子弹回收到植物身上对碰到的僵尸再次造成伤害
+Nach dem ultimativen Move wird die letzte Kugelwelle auf die Pflanze zurückgeführt und fügt den Zombies, denen sie erneut begegnet, Schaden zu.
 
 [NIGHTCAP_NEW_SKILL_LEVEL1_DES]
-当暗夜菇种植后所在地块出现毒液，对经过的僵尸造成持续伤害并^701edf^中毒Ⅰ^oldclr^。当植物受到攻击或控制时将进入暗夜形态，免疫此次攻击或控制，期间植物不会受到伤害，暗夜形态持续10秒，结束后进入10秒的冷却时间。当僵尸进入暗夜菇右侧4格时，暗夜菇将对4格内所有僵尸进行攻击，对僵尸造成伤害，并让僵尸减速以及^701edf^中毒Ⅰ^oldclr^。
+Wenn der Nachtporling gepflanzt wird, erscheint Gift auf dem Feld, in dem es sich befindet. Es verursacht kontinuierlichen Schaden an den vorbeikommenden Zombies und vergiftet sie. Wird die Pflanze angegriffen oder kontrolliert, nimmt sie die Nachtform an und ist immun gegen diesen Angriff oder diese Kontrolle. Die Pflanze erleidet während dieser Zeit keinen Schaden. Die Nachtform hält 10 Sekunden an und beginnt dann mit einer Abklingzeit von 10 Sekunden. Wenn der Zombie die vier Felder rechts vom Nachtpilz betritt, greift dieser alle Zombies in diesen vier Feldern an und fügt ihnen Schaden zu, verlangsamt sie und vergiftet sie.
 
 [NIGHTCAP_NEW_SKILL_LEVEL2_DES]
-暗夜菇的攻击范围增加1格，暗夜形态的冷却时间减少2.5秒
+Die Angriffsreichweite des Nachtporling's erhöht sich um 1 Gitter, und die Abklingzeit der Nachtpilzform verringert sich um 2,5 Sekunden.
 
 [NIGHTCAP_NEW_SKILL_LEVEL3_DES]
-暗夜的攻击范围再次增加1格，暗夜形态的冷却时间再次减少2.5秒
+Die Angriffsreichweite des Nachtporling's erhöht sich erneut um 1 Gitter, und die Abklingzeit der Nachtpilzform verringert sich erneut um 2,5 Sekunden.
 
 [NIGHTCAP_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, die Spezialdünger Fähigkeit direkt auszulösen!
 
 [NIGHTCAP_NEW_SKILL_LEVEL5_DES]
-暗夜菇的每次攻击有15%概率，将所有的小能量球融合成大能量球向前发射直到第6格消失，大能量球在飞行过程中击中僵尸后，将会朝上下分别分裂出1颗小能量球，每格最多触发1次，小能量球会分别朝上下直线飞行直到击中僵尸或飞出场外，击中僵尸后产生爆炸，对单格范围内僵尸造成伤害并且^848484^眩晕Ⅰ^oldclr^0.5秒
+Jeder Angriff des Nachtporling hat eine Chance von 15 %, alle kleinen Energiebälle zu einem großen zu verschmelzen und diesen nach vorne zu schleudern, bis das sechste Feld verschwindet. Trifft der große Energieball im Flug einen Zombie, teilt er sich auf und ab in kleine Energiebälle auf. Jedes Feld kann maximal einmal ausgelöst werden. Die kleinen Energiebälle fliegen geradeaus auf und ab, bis sie einen Zombie treffen oder das Feld verlassen. Nach dem Treffen explodieren sie und fügen den Zombies im Umkreis eines Feldes Schaden zu. Außerdem werden sie 0,5 Sekunden lang betäubt.
 
 [NIGHTCAP_PLANTFOOD_DESCRIPTION]
-暗夜菇对前方5*3范围内的的僵尸造成3次伤害，若范围僵尸存活，则^701edf^中毒Ⅰ^oldclr^并后退1格。暗夜菇暗夜形态的冷却时间立即结束。
+Der Nachtporling fügt den Zombies im Umkreis von 5*3 vor ihm 3 Schadenspunkte zu. Überleben die Zombies im Umkreis, werden sie vergiftet und ziehen sich 1 Feld zurück. Die Abklingzeit der Nachtgestalt des Nachtpilzes endet sofort.
 
 [NIGHTCAP_AVATAR_PLANTFOOD_DESCRIPTION]
-暗夜菇对前方5*3范围内的的僵尸造成3次伤害，若范围僵尸存活，则^701edf^中毒Ⅰ^oldclr^并后退1格，^ff0000^最后一波子弹将会回收到暗夜菇身上对碰到的僵尸再次造成一次伤害^oldclr^。暗夜菇暗夜形态的冷却时间立即结束。
+Der Nachtporling fügt Zombies im Umkreis von 5*3 vor ihm 3 Schadenspunkte zu. Überleben die Zombies im Umkreis, werden sie vergiftet ^701edf^ und ziehen sich 1 Feld zurück. ^ff0000^ Die letzte Kugelwelle wird auf den Dunkelpilz zurückgeführt, um den Zombies, die er berührt, weiteren Schaden zuzufügen ^oldclr^. Die Abklingzeit der Dunkelgestalt des Dunkelpilzes endet sofort.
 
 [PYREVINE] 
-柴堆藤蔓
+Scheiterranke
 
 [PYREVINE_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方2格
-{KEYWORD}特点：{STAT}喷射火焰持续攻击僵尸
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR} 柴堆藤蔓考虑着他的财产、他的财富、他的巨额财富。他觉得这应该让他高兴，但尽管如此，他还是感到焦虑和恐惧。
+{KEYWORD}Reichweite: {STAT}2 Blöcke vorn
+{KEYWORD}Eigenschaften: {STAT}Spritzt Flammen, um Zombies kontinuierlich anzugreifen
+{KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanze
+{FLAVOR} Die Scheiterranke denkt an seinem Besitz, seinem Reichtum und seinem enormen Reichtum. Er glaubt, dass ihn das glücklich machen sollte, doch trotzdem ist er ängstlich und verängstigt.
 
 [PYREVINE_DESCRIPTION_HEADER]
-喷射火焰持续攻击僵尸
+Sprüht Flammen, um Zombies kontinuierlich anzugreifen.
 
 [PYREVINE_TOOLTIP]
-喷射火焰持续攻击僵尸
+Sprüht Flammen, um Zombies kontinuierlich anzugreifen.
 
 [PYREVINE_PRODUCT_SHORT_DESC]
-喷射火焰持续攻击僵尸
+Sprüht Flammen, um Zombies kontinuierlich anzugreifen.
 
 [PYREVINE_SKILL_LEVEL1]
-火焰升腾
+Flammen steigen auf
 
 [PYREVINE_SKILL_LEVEL1_DES]
-当柴堆藤蔓上种植的是火焰类植物时，使该植物获得15%的攻击力加成。柴堆藤蔓攻击范围增加1格。
+Wenn eine Flammenpflanze auf einer Feuerranke gepflanzt wird, erhält sie einen Angriffsbonus von 15 %. Die Angriffsreichweite der Feuerranke erhöht sich um 1 Feld.
 
 [PYREVINE_SKILL_LEVEL2]
-火焰强化
+Feuerverstärkung
 
 [PYREVINE_SKILL_LEVEL2_DES]
-柴堆藤蔓上方的火焰类植物获得30%的攻击力加成。柴堆藤蔓的攻击范围再次增加1格。
+Feuerpflanzen über Feuerranken erhalten einen 30 % höheren Angriffskraftbonus. Die Angriffsreichweite der Feuerranke erhöht sich erneut um 1 Feld.
 
 [PYREVINE_SKILL_LEVEL5]
-冲天地焰
+Himmelsflamme
 
 [PYREVINE_SKILL_LEVEL5_DES]
-柴堆藤蔓造成伤害时，有概率喷出地焰，对僵尸造成额外伤害，并击飞1段距离
+Wenn die Scheiterranke Schaden verursacht, besteht die Chance, dass sie eine Himmelsflamme ausstößt. Diese fügt Zombies zusätzlichen Schaden zu und stößt sie über eine gewisse Distanz zurück.
 
 [STORE_PRODUCT_AVATAR_PYREVINE_TITLE]
-柴堆藤蔓装扮
+Scheiterranken-Kostüm
 
 [PYREVINE_AVATAR_NAME]
-柴堆藤蔓装扮
+Scheiterranken-Kostüm
 
 [STORE_PRODUCT_AVATAR_PYREVINE]
-释放大招的火焰变为十字型
+Die Flamme nimmt nach dem Auslösen der ultimativen Fähigkeit die Form eines Kreuzes an.
 
 [PYREVINE_NEW_SKILL_LEVEL1_DES]
-当柴堆藤蔓前方2格出现僵尸时，柴堆藤蔓将喷出火焰，每秒对僵尸造成伤害。藤蔓不受冰冻影响，并且每隔1.5秒融化3*3范围内的冰块
+Wenn ein Zombie zwei Felder vor der Scheiterranke erscheint, spuckt die Feuerranke Flammen aus, die dem Zombie pro Sekunde Schaden zufügen. Ranken sind nicht von Gefrieren betroffen und schmelzen alle 1,5 Sekunden Eis in einem Umkreis von 3*3.
 
 [PYREVINE_NEW_SKILL_LEVEL2_DES]
-当柴堆藤蔓上种植的是火焰类植物时，使该植物获得15%的攻击力加成。柴堆藤蔓的攻击范围加1格
+Wenn eine Feuerpflanze auf der Scheiterranke gepflanzt wird, erhält diese einen Angriffskraftbonus von 15 %. Die Angriffsreichweite der Scheiterhaufenranke erhöht sich um 1 Gitter.
 
 [PYREVINE_NEW_SKILL_LEVEL3_DES]
-柴堆藤蔓上方的火焰类植物获得30%的攻击力加成。柴堆藤蔓的攻击范围再次增加1格
+Die Feuerpflanze über der Scheiterranke erhält einen Angriffskraftbonus von 30 %. Die Angriffsreichweite der Scheiterhaufenranke erhöht sich um ein weiteres Gitter.
 
 [PYREVINE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger Fähigkeit direkt auszulösen!
 
 [PYREVINE_NEW_SKILL_LEVEL5_DES]
-柴堆藤蔓每次造成伤害时，有10%的概率向前方喷出地焰，地焰将逐渐蔓延至藤蔓攻击范围最远端，被地焰攻击到的僵尸将受到150点伤害，并且向后击飞1段距离
+Jedes Mal, wenn die Scheiterranke Schaden verursacht, besteht eine 10%ige Chance, dass sie Bodenflammen spuckt, die sich allmählich bis zum äußersten Ende der Angriffsreichweite der Ranke ausbreiten. Von den Bodenflammen angegriffene Zombies erleiden 150 Schadenspunkte und werden 1 Distanz zurückgestoßen.
 
 [PYREVINE_PLANTFOOD_DESCRIPTION]
-柴堆藤蔓喷出怒火，怒火贯穿一行对僵尸造成伤害
+Die Scheiterranke speit wütendes Feuer, das eine Reihe durchdringt und Zombies Schaden zufügt.
 
 [PYREVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-柴堆藤蔓喷出怒火，^ff0000^怒火以藤蔓为中心向十字型蔓延^oldclr^，对僵尸造成伤害
+Die Scheiterranke speit wütendes Feuer. ^ff0000^ Das Feuer breitet sich kreuzförmig mit der Ranke im Zentrum aus^oldclr^ und fügt Zombies Schaden zu.
 
 [WATERRABBIT] 
 兔极
