@@ -73558,16 +73558,16 @@ Die Erbsenapothekerin wirft eine Flasche Schattentrank auf die drei Zombies, die
 放置魔术帽后，可能出现任意植物或任意僵尸，请谨慎种植位置！利用出现的植物击败僵尸
 
 [NARRATIVE_ATLANTIS_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}U-Boot-Modus aktiviert ... 100 %.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}U-Boot-Modus 100% aktiviert.
 
 [NARRATIVE_ATLANTIS_1_INTRO_2]
 {SAY:WINNIE}Dave, Daten zeigen, dass wir gleich zu Unterwasserruinen gelangen, die vor zehntausend Jahren versunken waren.
 
 [NARRATIVE_ATLANTIS_1_INTRO_3]
-{EXCITED:CRAZYDAVE}Unterwasserruinen, verlorene Tacos!
+{EXCITED:CRAZYDAVE}Unterwasserruinen, das heißt verlorene Tacos!
 
 [NARRATIVE_ATLANTIS_1_INTRO_4]
-{EXCITED:CRAZYDAVE}Wir haben nach diesen verlorenen Dingen gesucht, richtig!
+{EXCITED:CRAZYDAVE}Wir haben nach diesen verlorenen Dingen gesucht,richtig?
 
 [NARRATIVE_ATLANTIS_1_INTRO_5]
 {SAY:WINNIE}Der Detektor zeigt an, dass die Unterwasserzombies nach Gehirnen gesucht haben.
@@ -73576,7 +73576,7 @@ Die Erbsenapothekerin wirft eine Flasche Schattentrank auf die drei Zombies, die
 {SAY:WINNIE}Benutzer Dave, wir müssen vorbereitet sein!
 
 [NARRATIVE_ATLANTIS_1_INTRO_7]
-{EXCITED:CRAZYDAVE}Ich mache den Föhn fertig, in Wasser eingeweichte Tacos schmecken nicht.
+{EXCITED:CRAZYDAVE}Ich mache schonmal den Föhn fertig, in Wasser eingeweichte Tacos schmecken nämlich nicht.
 
 [NARRATIVE_ATLANTIS_2_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Vorsicht, es gibt mehr als einen Außenseiter in diesem Meer!
@@ -73584,7 +73584,7 @@ Die Erbsenapothekerin wirft eine Flasche Schattentrank auf die drei Zombies, die
 [NARRATIVE_ATLANTIS_2_INTRO_2]
 {EXCITED:CRAZYDAVE}Kann Schwimmen wirklich beim Abnehmen helfen?
 
-[NARRATIVE_ATLANTIS_3_INTRO_3]
+[NARRATIVE_ATLANTIS_2_INTRO_3]
 {SAY:WINNIE}Äh, mach dir keine Gedanken um die Details ...
 
 [NARRATIVE_ATLANTIS_3_INTRO_1]
