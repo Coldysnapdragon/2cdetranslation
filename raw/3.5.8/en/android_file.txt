@@ -73951,10 +73951,10 @@ Ultimativer Schatz
 Poseidons Schatz
 
 [POSEIDONTREASURE_TAB1_DESC]
-Jedes 30. Mal ziehen, erhältst du eine ultimative Schatztruhe.
+Bei Jedem 30. Mal ziehen, erhältst du eine ultimative Schatztruhe.
 
 [POSEIDONTREASURE_TAB3_DESC]
-Öffne bis zu ^ffff00^{NUM}^oldclr^. Du erhältst garantiert eine rote Belohnung im ultimativen Schatz.
+Öffne bis zu ^ffff00^{NUM}^oldclr^. Dann erhältst du garantiert eine rote Belohnung im ultimativen Schatz.
 
 [MAT_POSEIDON_TREASURE_TICKET]
 Poseidons Token
@@ -74018,26 +74018,26 @@ Aktivitätsregeln:
 7. Bei der ersten Einzelziehung des Tages gibt es 36 % Rabatt. Bitte nutzt die Event-Token rechtzeitig. Nach Ende des Events werden die verbleibenden Poseidon-Token im Verhältnis 1:30 in Diamanten umgewandelt, und die Poseidon-Schatzkiste und die Ultimative Schatzkiste werden im Verhältnis 1:500 in Diamanten umgewandelt.
 
 [KELPGUARD]
-Seegrass Wächter
+Seetang Wächter
 
 [KELPGUARD_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
 {FLAVOR}Kelp Guard versucht immer wieder, seine Bremsschwellen zu durchbrechen, aber es gelingt ihm nicht.
 
 [KELPGUARD_DESCRIPTION_HEADER]
-Kelp Guard kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
+Der Seetang Wächter kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
 
 [KELPGUARD_TOOLTIP]
-Kelp Guard kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
+Erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
 
 [KELPGUARD_PRODUCT_SHORT_DESC]
-Kelp Guard kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
+Der Seetang Wächter kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
 
 [KELPGUARD_AVATAR_NAME]
-Kelp Guard kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
+Der Seetang Wächter kann nur im Meerwasser gepflanzt werden. Er erzeugt Bremsschwellen und blockiert Zombies und Meeresströmungen.
 
 [STORE_PRODUCT_AVATAR_KELPGUARD_TITLE]
-Kelp Guard Kostüm
+Seetang Wächter Kostüm
 
 [STORE_PRODUCT_AVATAR_KELPGUARD]
 Die Anzahl der zurückgeworfenen Zombies erhöht sich auf zwei Felder.
@@ -74061,7 +74061,7 @@ Die Unterwasserzombies glauben, dass die Richtung der Meeresströmung die Richtu
 Es markiert die Ankunft einer großen „Welle“ seetangumhüllter Zombies.
 
 [ZOMBIE_ATLANTIS_ARMOR1]
-Ozean-Barriere-Zombie
+Ozean-Barrierefass-Zombie
 
 [ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION]
 Was ist der Unterschied zwischen Auf- und Abschweben und Herumfliegen? Was bedeutet die Existenz von Barrikaden im Ozean? Vielleicht ist dies das gemeinsame Meisterwerk von Weltraumphilosophen und Meeresfrüchtekünstlern.
@@ -74079,19 +74079,19 @@ Warum schwebte das Eisenfass nicht durch den Auftrieb davon? Warum verrottete da
 Der Eiseneimer auf seinem Kopf bietet hervorragenden Schutz vor Schaden.
 
 [ZOMBIE_ATLANTIS_gargantuar]
-Ruinen-Riesenzombie
+Ruinen-Gargantuar-zombie
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION]
-Der Legende nach riss ein gewaltiger Riese eine Steinsäule um und verursachte eine Flut, die das wunderschöne Königreich untergehen ließ. Es gibt auch eine Legende, dass es für bestimmte Gruppen erschwingliche Flugerlebnisse unter dem Meer gibt. Ruinen-Riesenzombie wird dir sagen, welche Legende wahr ist.
+Der Legende nach riss ein gewaltiger Gargantuar eine Steinsäule um und verursachte eine Flut, die das wunderschöne Königreich untergehen ließ. Es gibt auch eine Legende, dass es für bestimmte Gruppen erschwingliche Flugerlebnisse unter dem Meer gibt. Ruinen-Gargantuar-Zombie wird dir sagen, welche Legende wahr ist.
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION_HEADER]
-Zerschmettere alle Pflanzen und wirf Kobolde.
+ZerschmettertPflanzen und wirft einen Wicht.
 
 [ZOMBIE_ATLANTIS_imp]
 Ruinen-Wicht-Zombie
 
 [ZOMBIE_ATLANTIS_imp_DESCRIPTION]
-Schöne Ideale beginnen immer im Kleinen zu verfallen. Wenn diese scheinbar unbedeutenden Dinge immer mehr werden, sinken sie schließlich. Ruinen-Kobold-Zombies lieben diese Theorie.
+Schöne Ideale beginnen immer im Kleinen zu verfallen. Wenn diese scheinbar unbedeutenden Dinge immer mehr werden, sinken sie schließlich. Ruinen-Wicht-Zombies lieben diese Theorie.
 
 [ZOMBIE_ATLANTIS_imp_DESCRIPTION_HEADER]
 Kann über deine Schilde geworfen werden und landet direkt auf dem U-Boot.
