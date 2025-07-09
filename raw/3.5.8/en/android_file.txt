@@ -73918,7 +73918,7 @@ Pottwale kommen näher!
 Kann nicht auf Schwertfischen platziert werden.
 
 [ZOMBIE_FAT_DIVE]
-Tieftauchende Zombies
+Tieftauchender Zombie
 
 [ZOMBIE_FAT_DIVE_DESCRIPTION]
 Der Druck der Mitspieler wird immer größer, und alle blasen Zombies zu Ballons auf. Glücklicherweise verstehen tieftauchende Zombies in der neuen Umgebung endlich die wahre Bedeutung des Zombietauchens. Sollten sie entfernt werden?
