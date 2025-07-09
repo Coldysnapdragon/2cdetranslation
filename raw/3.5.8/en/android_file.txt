@@ -474,117 +474,119 @@ Du kannst keine Pflanzen auf Grabsteinen pflanzen.
 在之前已完成的关卡还可获得更多星星。
 
 [ADVICE_START_NEW_LEVEL]
-点击新关卡！
+Klicke auf ein neues Level!
 
 [ADVICE_TAP_EGYPT]
-看起来你需要更多星星！点击回到神秘埃及关卡！
+Sieht so aus, als ob du mehr Sterne brauchst! Klicke zurück zum Level „Geheimnisvolles Ägypten“!
 
 [ADVICE_TAP_PIRATE]
-点击海盗港湾世界！
+Klicke auf „Piratenhafenwelt“!
 
 [ADVICE_TAP_POWERUP]
-点击金手指！
+Klicke auf den Cheat-Finger!
 
 [ADVICE_USE_FLICK]
-用手指滑过僵尸
+Bewege deinen Finger über die Zombies.
 
 [ADVICE_USE_FLICK_BETTER]
-将僵尸划向你想让他移动的方向！
+Bewege die Zombies in die gewünschte Bewegungsrichtung!
 
 [ADVICE_USE_PINCH]
-用手指捏僵尸
+Zwicke die Zombies
 
 [ADVICE_USE_PINCH_BETTER]
-对准僵尸用手指捏
+Zwicke die Zombies mit deinem Finger.
 
 [ADVICE_USE_WIZARDFINGER]
-把手指放在你的目标附近
+Platziere deinen Finger in der Nähe deines Ziels.
 
 [ADVICE_USE_WIZARDFINGER_BETTER]
-确保你的手指放在屏幕上
+Stelle sicher, dass dein Finger auf dem Bildschirm ist.
 
 [ADVICE_TAP_SUNFLOWER]
-点击向日葵！
+Klicke auf die Sonnenblume!
 
 [ADVICE_TAP_TO_PLANT_SUNFLOWER]
-点击地面将向日葵种植下来！
+Tippe auf den Boden, um die Sonnenblume zu pflanzen!
 
 [ADVICE_WAITING_FOR_SUN]
-等待向日葵生产阳光吧！
+Warte, bis die Sonnenblume Sonnenlicht produziert!
 
 [ADVICE_PLANT_THREE_SUNFLOWER]
-向日葵是非常重要的植物，能生产阳光！
-尝试种植三棵向日葵吧！
+Sonnenblumen sind sehr wichtige Pflanzen, da sie Sonnenlicht produzieren können!
+
+Versuche, drei Sonnenblumen zu pflanzen!
 
 [ADVICE_WAITING_FOR_ZOMBIE]
-有一只僵尸出现了！
+Ein Zombie ist aufgetaucht!
 
 [ADVICE_TAP_PEASHOOTER]
-点击豌豆射手！
+Tippe auf die Erbsenkanone!
 
 [ADVICE_TAP_TO_PLANT_PEASHOOTER]
-把豌豆射手拖动到场地上种植吧！
+Ziehe die Erbsenkanone auf das Feld, um sie einzupflanzen!
 
 [ADVICE_WAITING_FOR_KILLING_ZOMBIE]
-让我们杀死这个入侵的僵尸！
+Töten wir diesen eindringenden Zombie!
 
 [ADVICE_WAITING_FOR_BUCKET_ZOMBIE]
-有一只带着铁桶的僵尸出现了！他看起来很厉害！
+Ein Zombie mit einem Eimer ist aufgetaucht! Er sieht fantastisch aus!
 
 [ADVICE_TAP_PF]
-让我们试试在豌豆射手上使用能量豆是什么效果！
+Probieren wir aus, welche Wirkung die Energiebohnen auf die Erbsenkanone haben!
 
 [ADVICE_COLLECT_PF]
-点击收集跳来跳去的能量豆，应该可以帮到我们!
+Klicke, um die springenden Energiebohnen einzusammeln. Sie sollten uns helfen!
 
 [ADVICE_TAP_TO_USE_PF]
-让我们试试在豌豆射手上使用能量豆是什么效果！
+Probieren wir aus, welche Wirkung die Energiebohnen auf die Erbsenkanone haben!
 
 [ADVICE_WAITING_FOR_KILLING_BUCKET_ZOMBIE]
-干得漂亮！现在铁桶僵尸已经毫无威胁，让我们干掉它！
+Gut gemacht! Der Eimer-Zombie ist jetzt keine Bedrohung mehr. Töte ihn!
 
 [ADVICE_PLANT_ON_SPECIFIC_GRID]
-请种在指定位置!
+Bitte pflanze ihn an der angegebenen Stelle!
 
 [ADVICE_WAITING_FOR_PF_ZOMBIE]
-出现了一个携带能量豆的僵尸，把它干掉就能获得能量豆了！
+Ein Zombie mit Energiebohnen erscheint. Töte ihn und du erhältst Energiebohnen!
 
 [ADVICE_LAST_HINT]
-多种植向日葵来获取阳光，多种植植物来抵御大波僵尸的进攻！
+Pflanze mehr Sonnenblumen, um Sonnenlicht zu bekommen, und pflanze mehr Pflanzen, um den Angriffen großer Zombiewellen standzuhalten!
 
 [ADVICE_TUTORIAL_TITLE]
-小提示
+Tipps
 
 [ADVICE_TUTORIAL_RULE]
-请按照提示进行操作！
+Bitte folge den Anweisungen!
 
 [ADVICE_ANIM_PLANT_SUNFLOWER]
-小提示：
-1. 拖动向日葵卡片到草坪中可以种植向日葵。
-2. 向日葵可以产出阳光。
+Tipps:
+1. Ziehe die Sonnenblumenkarte auf den Rasen, um Sonnenblumen zu pflanzen.
+2. Sonnenblumen können Sonnenlicht produzieren.
 
 [ADVICE_IMG_ZOMBIE_HINT]
-小提示：
-1. 僵尸会吃掉你的植物。
-2. 绝对不要让僵尸走到左边的房子前！
+Tipps:
+1. Zombies fressen deine Pflanzen.
+2. Lass Zombies niemals an das Haus links heran!
 
 [ADVICE_ANIM_PLANT_PEASHOOTER]
-小提示：
-1. 拖动豌豆射手卡片到草坪中可以种植豌豆射手。
-2. 豌豆射手可以攻击前来进攻的僵尸。
+Tipps:
+1. Ziehe die Erbsenkanonenkarte auf den Rasen, um Erbsenkanonen zu pflanzen.
+2. Erbsenkanonen können Zombies angreifen, die angreifen.
 
 [ADVICE_IMG_BUCKET_ZOMBIE]
-小提示：
-1. 铁桶僵尸拥有超级坚固的铁桶抵御你的攻击，在植物过少的情况下需要使用^00FF00 能量豆^oldclr^来对付它！
+Tipps:
+1. Der Eimer-Zombie hat einen superstarken Eimer, um deinen Angriffen standzuhalten. Wenn zu wenige Pflanzen vorhanden sind, musst du ^00FF00 Energiebohnen^oldclr^ einsetzen, um ihn zu bekämpfen!
 
 [ADVICE_ANIM_PLANTFOOD]
-小提示：
-1. 拖动能量豆到植物身上可以释放强大的能量豆大招！
-2. 豌豆射手的能量豆大招可以对付非常强壮的僵尸。
+Tipps:
+1. Ziehe die Energiebohnen zu den Pflanzen, um die mächtige Energiebohnen-Attacke auszulösen!
+
+2. Mit der Energiebohnen-Attacke der Erbsenpistole kannst du selbst sehr starke Zombies besiegen.
 
 [ADVICE_IMG_PF_ZOMBIE]
-小提示：
-1. 干掉浑身冒绿光的僵尸可以获得能量豆，是你过关的一大助力！
+Tipps:
+1. Töte die Zombies mit grünem Licht, um Energiebohnen zu erhalten. Das ist eine große Hilfe beim Bestehen des Levels!
 
 [ADVICE_ABOUT_PLANT_ARMORFLAME]
 请将植甲拼装者-炎星种在2格空地上
@@ -1193,117 +1195,117 @@ Möchten Sie das Spiel fortsetzen oder das Level neu starten?
 Fortfahren！
 
 [COPA_PICTURE_WARNING]
-您的照片将只会被保存在这台设备上。
+Deine Fotos werden nur auf diesem Gerät gespeichert.
 
 [COST]
 Kosten
 
 [COWBOY]
-狂野西部
+Wilder Westen
 
 [COWBOY_KEYGATE_HEADER]
-西部之门
+Tor des Westens
 
 [KONGFU_KEYGATE_HEADER]
-功夫之门
+Tor des Kung-Fu
 
 [ICEAGE_KEYGATE_HEADER]
-冰河之门
+Tor der Eiszeit
 
 [COWBOY_MINIGAME_TUTORIAL_1]
-种植传送带上的植物以开始关卡！
+Pflanze die Pflanzen auf dem Förderband, um das Level zu starten!
 
 [COWBOY_MINIGAME_TUTORIAL_2]
-种植传送带上的植物以开始关卡！
+Pflanze die Pflanzen auf dem Förderband, um das Level zu starten!
 
 [COWBOY_MINIGAME_TUTORIAL_3]
-种植传送带上的植物以开始关卡！
+Pflanze die Pflanzen auf dem Förderband, um das Level zu starten!
 
 [SINGLE_HANDED_TUTORIAL_1]
-上下移动矿车可以攻击不同线路的僵尸！
+Bewege die Lore auf und ab, um Zombies in verschiedenen Reihen anzugreifen!
 
 [SINGLE_HANDED_TUTORIAL_2]
-拾取强化豆能够升级你的植物！
+Sammle Power-Bohnen, um deine Pflanzen zu verbessern!
 
 [SINGLE_HANDED_TUTORIAL_3]
-移动矿车来躲避炸弹的伤害！
+Bewege die Lore, um Bombenschäden zu vermeiden!
 
 [EVIL_DAVE_TUTORIAL_1]
-将僵尸卡片拖入警戒线右方可放入僵尸！
+Ziehe die Zombiekarte rechts neben die Absperrung, um den Zombie hineinzusetzen!
 
 [EVIL_DAVE_TUTORIAL_2]
-僵尸每成功吃掉一棵植物，可以获得一定的阳光！
+Jedes Mal, wenn ein Zombie eine Pflanze erfolgreich frisst, erhält er eine bestimmte Menge Sonnenlicht!
 
 [EVIL_DAVE_TUTORIAL_3]
-成功吃掉所有植物即可获得胜利！
+Gewinne, indem du alle Pflanzen frisst!
 
 [OAK_TRAIN_TUTORIAL_1]
-点击出现的僵尸可以向它发射箭矢，射中头部可以打出爆头伤害！
+Klicke auf den erscheinenden Zombie, um Pfeile auf ihn abzufeuern. Ein Kopftreffer kann Kopfschussschaden verursachen!
 
 [OAK_TRAIN_TUTORIAL_2]
-选中普通箭矢时再点击一次即可重新装填箭矢，请多注意箭矢的余量！
+Wenn ein normaler Pfeil ausgewählt ist, klicke erneut, um die Pfeile neu zu laden. Achte bitte auf die restlichen Pfeile!
 
 [OAK_TRAIN_TUTORIAL_3]
-击中特殊的箭矢可以获得特殊箭矢，能打出强力的伤害！
+Du erhältst Spezialpfeile, indem du Spezialpfeile triffst, die starken Schaden verursachen können!
 
 [OAK_TRAIN_TUTORIAL_4]
-点击下方的箭矢图标可以切换箭矢
+Klicke auf das Pfeilsymbol unten, um die Pfeile zu wechseln.
 
 [TOWER_DEFEND_TUTORIAL_1]
-点击植物可消耗阳光升级！
+Klicke auf die Pflanze, um Sonnenlicht zu verbrauchen und sie zu verbessern!
 
 [TOWER_DEFEND_TUTORIAL_2]
-每棵植物最多升级两次！
+Jede Pflanze kann bis zu zweimal verbessert werden!
 
 [TOWER_DEFEND_TUTORIAL_3]
-不同的植物能升级成更多的其他植物，活用他们的技能过关吧！
+Verschiedene Pflanzen können zu weiteren Pflanzen verbessert werden. Nutze ihre Fähigkeiten, um das Level zu meistern!
 
 [CREATE_NEW_USER]
-(创建一个新的玩家)
+(Neuen Spieler erstellen)
 
 [CREDITS_PVZ_TITLE]
-植物大战僵尸2
-奇妙时空之旅
-来自宝开
+Plants vs. Zombies 2
+Eine wundervolle Reise durch Zeit und Raum
+Von PopCap
 
 [CREDTIS_CHINA_PRODUCER]
-制作人
+Produzent
 
 [CREDTIS_CHINA_DEVELOPER]
-发行总监
+Publishing Director
 
 [CREDTIS_CHINA_GOUDAN]
-开发总监
+Development Director
 
 [CREDTIS_CHINA_MANAGER]
-高级产品经理
+Senior Product Manager
 
 [CREDTIS_CHINA_PM]
-运营总监
+Operation Director
 
 [CREDTIS_CHINA_ST]
-产品运营
+Product Operation
 
 [CREDTIS_CHINA_DESIGNER]
-游戏设计
+Game Design
 
 [CREDTIS_CHINA_TD]
-技术总监
+Technical Director
 
 [CREDTIS_CHINA_ENGINEER]
-游戏软件工程师
+Game Software Engineer
 
 [CREDTIS_CHINA_LEAD_ARTIST]
-美术经理
+Art Manager
 
-[CREDTIS_CHINA_ ARTIST]
-美术
+[CREDTIS_CHINA_ARTIST]
+Künstler
 
 [CREDTIS_CHINA_QAMANAGER]
-品质保证经理
+Qualitätssicherungsmanager
 
 [CREDTIS_CHINA_QA]
-品质保证
+Qualitätssicherung
 
 [CREDTIS_CHINA_BN_MANAGER]
 商务总监
@@ -1471,176 +1473,158 @@ x {NUMBER}
 奖品！
 
 [DAVE_CANNONMINIGAME_12_KILLED_1]
-超-超-超准啊！！
+Super-super-präzise!!!
 
 [DAVE_CANNONMINIGAME_12_KILLED_2]
-不可思议！！！
+Unglaublich!!!
 
 [DAVE_CANNONMINIGAME_12_KILLED_3]
-爆爽！！
+So cool!!!
 
 [DAVE_CANNONMINIGAME_3_KILLED_1]
-帅气！
+Cool!
 
 [DAVE_CANNONMINIGAME_3_KILLED_2]
-不错！
+Nicht schlecht!
 
 [DAVE_CANNONMINIGAME_3_KILLED_3]
-还行！
+Alles klar!
 
 [DAVE_CANNONMINIGAME_5_KILLED_1]
-无人可挡了！
+Unaufhaltsam!
 
 [DAVE_CANNONMINIGAME_5_KILLED_2]
-漂亮！
+Wunderschön!
 
 [DAVE_CANNONMINIGAME_5_KILLED_3]
-疯狂！
+Verrückt!
 
 [DAVE_CANNONMINIGAME_8_KILLED_1]
-太棒了！
+Super!
 
 [DAVE_CANNONMINIGAME_8_KILLED_2]
-疯狂连击！！
+Verrückte Combos!
 
 [DAVE_CANNONMINIGAME_8_KILLED_3]
-哇喔喔喔喔！
-
-[DELETE_BUTTON]
-删除
-
-[DELETE_USER_WARNING]
-这样将从用户名录中永久删除 '%s'。
-
-[DELETING_CHILD_PROFILES_HEADER]
-警告！
-
-[DELETING_CHILD_PROFILES_INFO]
-增加新的档案会删除非初始档案，确定这样做吗？
-
-[DIALOG_ARE_YOU_EXPERIENCED]
-之前玩过植物大战僵尸吗？
-
-[DIALOG_NO_DONT_SKIP]
-开始教学
+Ooo ... [DIALOG_NO_DONT_SKIP]
+Tutorial starten
 
 [DIALOG_NO_HAVENT_PLAYED]
-什么是僵尸？
+Was ist ein Zombie?
 
 [DIALOG_SKIP_TUTORIAL]
-想玩教学关卡吗?
+Möchtest du das Tutorial spielen?
 
 [DIALOG_STRING_CANCEL]
-取消
+Abbrechen
 
 [DIALOG_STRING_NO]
-否
+Nein
 
 [DIALOG_STRING_OK]
-确定
+OK
 
 [DIALOG_STRING_YES]
-是
-
+Ja
 
 [DIALOG_WARNING]
-警告
+Warnung
 
 [DIALOG_YES_PLAYED_PVZ]
-前往
+Weiter
 
 [DIALOG_YES_SKIP_TUTORIAL]
-跳过
+Überspringen
 
 [RANK_AVATAR_SELECT_TITLE]
-选择背景
+Hintergrund auswählen
 
 [RANK_AVATAR_CONTENT_TITLE]
-第一赛季
+Staffel 1
 
 [CUSTOMER]
-创意庭院
+Kreativer Hof
 
 [RANK_AVATAR_CONTENT_CONTENT]
-致在第一赛季的创意庭院中努力创作的玩家
+An alle Spieler, die in Staffel 1 hart am Kreativer Hof gearbeitet haben
 
 [RANK_AVATAR_CONTENT_TITLE_61000]
-首席创作家
+Chef Schöpfer
 
 [RANK_AVATAR_CONTENT_CONTENT_61000]
-致在创意庭院中努力创作的玩家
+An alle Spieler, die fleißig im Kreativgarten arbeiten
 
 [RANK_AVATAR_CONTENT_TITLE_61001]
-童话森林
+Märchenwald
 
 [RANK_AVATAR_CONTENT_CONTENT_61001]
-童话森林的美好与深邃，希望与你一同分享
+Ich hoffe, die Schönheit und Tiefe des Märchenwaldes mit euch teilen zu können.
 
 [RANK_AVATAR_CONTENT_TITLE_61002]
-锦鲤
+Koi
 
 [RANK_AVATAR_CONTENT_CONTENT_61002]
-双人对决第1赛季宗师段位奖励
+Doppelduell Saison 1 – Großmeister-Rang-Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61003]
-春来
+Der Frühling kommt
 
 [RANK_AVATAR_CONTENT_CONTENT_61003]
-双人对决第2赛季宗师段位奖励
+Doppelduell Saison 2 – Großmeister-Rang Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61004]
-虹兔
+Regenbogenhase
 
 [RANK_AVATAR_CONTENT_CONTENT_61004]
-双人对决第3赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 3
 
 [RANK_AVATAR_CONTENT_TITLE_61005]
-闪亮登场
+Aufsehenerregendes Debüt
 
 [RANK_AVATAR_CONTENT_CONTENT_61005]
-双人对决第4赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 4
 
 [RANK_AVATAR_CONTENT_TITLE_61006]
-立夏
+Sommeranfang
 
-[RANK_AVATAR_CONTENT_CONTENT_61006]
-双人对决第5赛季宗师段位奖励
+[RANK_AVATAR_CONTENT_CO NTENT_61006]
+Großmeister-Belohnungen für Doppelduell Saison 5 Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61007]
-海滩
+Strand
 
 [RANK_AVATAR_CONTENT_CONTENT_61007]
-双人对决第6赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 6
 
 [RANK_AVATAR_CONTENT_TITLE_61008]
-街头涂鸦
+Straßengraffiti
 
-[RANK_AVATAR_CONTENT_CONTENT_61008]
-双人对决第7赛季宗师段位奖励
+[RANK_AVATAR_CONTENT_CONTENT_6100 8]
+Großmeister-Belohnungen für Doppelduell Saison 7
 
 [RANK_AVATAR_CONTENT_TITLE_61009]
-夏日森林
+Sommerwald
 
 [RANK_AVATAR_CONTENT_CONTENT_61009]
-双人对决第8赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 8
 
 [RANK_AVATAR_CONTENT_TITLE_61011]
-周年庆典
+Jubiläum Feier
 
 [RANK_AVATAR_CONTENT_CONTENT_61011]
-双人对决第9赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell in Saison 9
 
 [RANK_AVATAR_CONTENT_TITLE_61010]
-赏月
+Mondbeobachtung
 
 [RANK_AVATAR_CONTENT_CONTENT_61010]
-双人对决第10赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell, Saison 10
 
 [RANK_AVATAR_CONTENT_TITLE_61012]
-争论
+Debatte
 
 [RANK_AVATAR_CONTENT_CONTENT_61012]
-双人对决第11赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell, Saison 11
 
 [RANK_AVATAR_CONTENT_TITLE_61013]
 合影
@@ -39493,70 +39477,70 @@ Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hin
 大招旋转中每6发子弹会夹杂一发穿甲弹，穿甲弹可穿透僵尸并造成更大伤害
 
 [ELECTRICPEEL]
-电鳗香蕉
+Zitterschale
 
 [ELECTRICPEEL_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方4格
-{KEYWORD}特点：{STAT}释放电鳗向前移动，电击僵尸
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR}电鳗香蕉冷静沉着，它不会让任何人靠近它的衣服，这是有充分理由的。事实证明，它正在保护周围的人免受衣服的伤害。当被问及时，电鳗香蕉说道：“别碰我的衣服，你不会喜欢接下来发生的事情的！”，同时发出嗡嗡的电声，语气谨慎。
+{KEYWORD}Reichweite: {STAT}4 Blöcke voraus
+{KEYWORD}Funktionen: {STAT}Löst den Zitteraal aus, um vorwärts zu gehen und Zombies zu schocken.
+{KEYWORD}Pflanzenfunktionen: {STAT}Gelbe Pflanze
+{FLAVOR}Die Zitterschale ist ruhig und gelassen und lässt niemanden an ihre Kleidung heran – und das aus gutem Grund. Es stellt sich heraus, dass sie die Menschen in ihrer Umgebung vor ihrer Kleidung schützt. Auf die Frage, ob sie meine Kleidung nicht anfassen soll, antwortete die Zitterschale: „Fass meine Kleidung nicht an, das wird dir nicht gefallen!“, während sie ein summendes elektrisches Geräusch von sich gab und vorsichtig sprach.
 
 [ELECTRICPEEL_DESCRIPTION_HEADER]
-释放电鳗向前移动，电击僵尸
+Lasse den Zitteraal los, um vorwärts zu gehen und die Zombies zu schocken.
 
 [ELECTRICPEEL_TOOLTIP]
-释放电鳗向前移动，电击僵尸
+Lasse den Zitteraal los, um vorwärts zu gehen und die Zombies zu schocken.
 
 [ELECTRICPEEL_PRODUCT_SHORT_DESC]
-释放电鳗向前移动，电击僵尸
+Lasse den Zitteraal los, um vorwärts zu gehen und die Zombies zu schocken.
 
 [ELECTRICPEEL_SKILL_LEVEL1]
-电鳗加强
+Zitteraal-Verbesserung
 
 [ELECTRICPEEL_SKILL_LEVEL1_DES]
-植物的攻击距离增加1格，电鳗的移动速度增加20%
+Erhöht die Angriffsreichweite der Zitterschale um 1 Raster und die Bewegungsgeschwindigkeit von Zitteraalen um 20 %.
 
 [ELECTRICPEEL_SKILL_LEVEL2]
-电鳗升级
+Zitteraal-Verbesserung
 
 [ELECTRICPEEL_SKILL_LEVEL2_DES]
-植物的攻击距离再次增加1格，电鳗的移动速度再次增加20%
+Die Angriffsreichweite der Zitterschale erhöht sich erneut um 1 Raster und die Bewegungsgeschwindigkeit von Zitteraalen erneut um 20 %.
 
 [ELECTRICPEEL_SKILL_LEVEL5]
-闪电鳗
+Blitzaal
 
 [ELECTRICPEEL_SKILL_LEVEL5_DES]
-攻击时有概率丢出闪电鳗，闪电能够捆绑僵尸，间隔时间释放电击，麻痹捆绑的僵尸对单格范围造成伤害，并对周围僵尸造成扩散伤害。
+Beim Angriff besteht die Chance, einen Blitzaal zu schleudern. Dieser kann Zombies mit Blitzen fesseln und in Intervallen Elektroschocks auslösen. Diese lähmen die gefesselten Zombies und verursachen Schaden im Bereich des Gitters sowie bei umstehenden Zombies.
 
 [STORE_PRODUCT_AVATAR_ELECTRICPEEL_TITLE]
-电鳗香蕉装扮
+Zitterschale-Bananenkostüm
 
 [ELECTRICPEEL_AVATAR_NAME]
-电鳗香蕉装扮
+Zitterschale-Bananenkostüm
 
 [STORE_PRODUCT_AVATAR_ELECTRICPEEL]
-大招召唤的超级电鳗造成更高的伤害。
+Der durch die ultimative Fähigkeit beschworene Super-Zitteraal verursacht höheren Schaden.
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL1_DES]
-当右侧4格范围内出现僵尸时，将释放出身上的电鳗向前移动到攻击范围最远处后返回自身，往返期间对撞到的僵尸造成伤害。当植物种植在水中时，电鳗的攻击力增加，并且电鳗穿梭在水面上时，将对水面施加闪电，闪电每0.5秒对僵尸造成伤害，电鳗离开水面1秒后，闪电消失。
+Erscheint ein Zombie im rechten 4-Felder-Bereich, wird der Zitteraal auf dem Körper freigelassen und bewegt sich bis zum äußersten Punkt der Angriffsreichweite, bevor er wieder in seine ursprüngliche Position zurückkehrt. Dabei fügt er den Zombies, die er trifft, Schaden zu. Wird die Pflanze im Wasser platziert, erhöht sich die Angriffskraft des Zitteraals. Wenn der Zitteraal über die Wasseroberfläche gleitet, wird die Wasseroberfläche von Blitzen getroffen. Der Blitz fügt den Zombies alle 0,5 Sekunden Schaden zu und verschwindet 1 Sekunde, nachdem der Zitteraal die Wasseroberfläche verlassen hat.
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL2_DES]
-植物的攻击距离增加1格，电鳗的移动速度增加20%。
+Die Angriffsreichweite der Zitterschale erhöht sich um 1 Feld und die Bewegungsgeschwindigkeit des Zitteraals um 20 %.
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL3_DES]
-植物的攻击距离再次增加1格，电鳗的移动速度再次增加20%。
+Die Angriffsreichweite der Zitterschale erhöht sich erneut um 1 Feld und die Bewegungsgeschwindigkeit des Zitteraals um 20 %.
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohne direkt loszulassen!
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL5_DES]
-电鳗香蕉攻击时有20%的概率丢出闪电鳗向前移动，捆绑在移动路径上第一只可捆绑的僵尸身上，每3秒发动电击，对单格范围造成伤害，^ff9600^麻痹Ⅰ^oldclr^捆绑的僵尸1.5秒，并对3*3范围内的僵尸造成50%攻击力的扩散伤害。闪电鳗最多存在10秒，对首个捆绑的僵尸和路径上撞到的不可捆绑的僵尸造成150%攻击力的伤害
+Wenn die Zitterschale angreift, hat sie eine Chance von 20 %, einen Blitzaal auszustoßen und sich vorwärts zu bewegen. Dieser bindet sich an den ersten Zombie, der auf dem Weg gebunden werden kann, und löst alle 3 Sekunden einen Elektroschock aus, der Schaden in einem einzigen Gitterbereich verursacht, den gefesselten Zombie 1,5 Sekunden lang lähmt und den Zombies im Umkreis von 3*3 50 % ihrer Angriffskraft zufügt. Der Blitzaal existiert maximal 10 Sekunden und fügt dem ersten gebundenen Zombie und den nicht gebundenen Zombies, die er auf dem Weg trifft, 150 % der Angriffskraft zu.
 
 [ELECTRICPEEL_PLANTFOOD_DESCRIPTION]
-召唤出一只超级电鳗，穿透前方一行距离，直接秒杀路径上的中小型僵尸，对不能秒杀的僵尸造成伤害。可秒杀僵尸的阶数一般不超过植物本身阶数的2倍。
+Beschwört einen Super-Zitteraal, durchdringt die Distanz vor euch, tötet kleine und mittelgroße Zombies auf dem Weg direkt und fügt Zombies, die nicht sofort getötet werden können, Schaden zu. Die Stufe der Zombies, die sofort getötet werden können, ist in der Regel maximal doppelt so hoch wie die Stufe der Pflanze selbst.
 
 [ELECTRICPEEL_AVATAR_PLANTFOOD_DESCRIPTION]
-召唤出一只超级电鳗，穿透前方一行距离，直接秒杀路径上的中小型僵尸，对不能秒杀的僵尸造成^ff0000^更高的伤害^oldclr^。可秒杀僵尸的阶数一般不超过植物本身阶数的2倍。
+Beschwört einen Super-Zitteraal, der eine Linie vor euch durchdringt und kleine und mittelgroße Zombies auf seinem Weg sofort tötet. Er fügt Zombies, die nicht sofort getötet werden können, ^ff0000^ mehr Schaden^oldclr^ zu. Die Stufe der Zombies, die sofort getötet werden können, ist in der Regel maximal doppelt so hoch wie die Stufe der Pflanze selbst.
 
 [WIZARDTHORNS]
 荆棘巫师
@@ -39625,70 +39609,70 @@ Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hin
 荆棘巫师召唤法阵，在右侧一格召唤^ff0000^5捆并列的大荆棘^oldclr^，向右移动4格，对穿透的所有僵尸造成伤害。每捆荆棘可以触发2次与普攻效果一致的荆棘缠绕。释放大招后，立即结束休息。
 
 [TRISTERIXAPHYLLUS]
-寄生仙钗
+Blattlose Riemenblume
 
 [TRISTERIXAPHYLLUS_DESCRIPTION]
-{KEYWORD}范围：{STAT}全场
-{KEYWORD}特点：{STAT}魅惑目标僵尸并眩晕周围其他僵尸
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR}植物们面对她时，总是搞不清楚在和一株什么东西说话。因此，寄生仙钗总是很懊恼：“为什么他们总是搞不清楚我的身份呢？我是植物，植物是我，整个我都是植物，整个植物才是整个我。”寄生仙钗此刻建立了完美的私人生存哲学，或许她也忘了是否有“本来面目”这回事了。
+{KEYWORD}Reichweite: {STAT}Gesamtes Feld
+{KEYWORD}Merkmale: {STAT}Zombie bezaubern und andere Zombies in der Nähe betäuben
+{KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze
+{FLAVOR}Wenn Pflanzen ihr gegenüberstehen, wissen sie immer nicht, womit sie sprechen. Deshalb ist die Blattlose Riemenblume immer verärgert: „Warum können sie meine Identität nicht immer herausfinden? Ich bin eine Pflanze, und die Pflanze ist ich. Mein ganzes Ich bin eine Pflanze, und die ganze Pflanze ist mein ganzes Ich.“ Die parasitäre Blattlose Riemenblume hat in diesem Moment eine perfekte private Überlebensphilosophie entwickelt. Vielleicht hat sie vergessen, ob es so etwas wie „ursprüngliches Aussehen“ gibt.
 
 [TRISTERIXAPHYLLUS_DESCRIPTION_HEADER]
-借助候鸟将种子丢在僵尸头上，在僵尸头上开花后魅惑僵尸
+Setzt Zugvögel ein, um Samen auf die Köpfe der Zombies fallen zu lassen. Sobald die Blumen auf den Köpfen der Zombies erblühen, bezaubern sie die Zombies.
 
 [TRISTERIXAPHYLLUS_TOOLTIP]
-借助候鸟将种子丢在僵尸头上，在僵尸头上开花后魅惑僵尸
+Setzt Zugvögel ein und hypnotisiert die Zombies.
 
 [TRISTERIXAPHYLLUS_PRODUCT_SHORT_DESC]
-借助候鸟将种子丢在僵尸头上，在僵尸头上开花后魅惑僵尸
+Setzt Zugvögel ein, um Samen auf die Köpfe der Zombies fallen zu lassen. Sobald die Blumen auf den Köpfen der Zombies erblühen, bezaubern sie die Zombies.
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL1]
-快速恢复
+Schnelle Erholung
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL1_DES]
-休息时间缩短2.5秒，花雾时长延长1秒，可魅惑3阶僵尸
+Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Dauer des Blumennebels um 1 Sekunde verlängert. kann nun Stufe 3 Zombies bezaubern.
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL2]
-狂野生长
+Wildwuchs
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL2_DES]
-休息时间缩短5秒，花雾时长延长2秒，可魅惑5阶僵尸
+Ruhezeit um 5 Sekunden verkürzt, Blütennebeldauer um 2 Sekunden verlängert, kann Zombies der 5. Stufe bezaubern.
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL5]
-魅神花种
+Blumensamen bezaubern
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL5_DES]
-有概率长出更艳丽的花朵，喷出花粉的效果由眩晕变为向右行走，可魅惑10阶僵尸
+Es besteht die Chance, farbenfrohere Blumen wachsen zu lassen. Der Effekt des Pollensprühens ändert sich von Schwindel zu Rechtslaufen. Kann Zombies der 10. Stufe bezaubern.
 
 [STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS_TITLE]
-寄生仙钗装扮
+Parasitäres Feen-Haarnadelkostüm
 
-[TRISTERIXAPHYLLUS_AVATAR_NAME]
-寄生仙钗装扮
+[TRISTERIXAPHYLLUS_AVATA R_NAME]
+Parasitäres Haarnadelkostüm
 
 [STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS]
-大招引来的鸟的数量上升到6只
+Die Anzahl der Vögel, die von Die ultimative Fähigkeit erhöht sich auf Stufe 6.
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL1_DES]
-当场内有僵尸时，花瓣会张开露出花芯，随后飞来一只鸟吃掉仙钗的花芯，并飞到僵尸头上将花芯吐出糊住僵尸的脸，僵尸被糊住后无法行动，随后僵尸头上的仙钗会盛开，仙钗盛开的瞬间会喷出花粉，魅惑头上长花的僵尸并暂时眩晕十字格内的其他僵尸3秒，随后仙钗凋谢
+Wenn Zombies in der Nähe sind, öffnen sich die Blütenblätter und geben den Kern frei. Ein Vogel fliegt herbei, frisst den Kern der Haarnadel und fliegt zum Kopf des Zombies, um ihn auszuspucken und sein Gesicht zu bedecken. Der Zombie ist blockiert und kann sich nicht bewegen. Anschließend blüht die Haarnadel auf seinem Kopf auf. Sobald die Haarnadel blüht, versprüht sie Pollen, die den Zombie mit Blumen auf seinem Kopf bezaubern und andere Zombies im Kreuzgitter 3 Sekunden lang betäuben. Anschließend verwelkt die Haarnadel.
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL2_DES]
-休息时间缩短2.5秒，花雾时长延长1秒，可魅惑3阶僵尸
+Die Ruhezeit verkürzt sich um 2,5 Sekunden und die Dauer des Blumennebels verlängert sich um 1 Sekunde. Kann Zombies der Stufe 3 bezaubern.
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL3_DES]
-休息时间缩短5秒，花雾时长延长2秒，可魅惑5阶僵尸
+Die Ruhezeit verkürzt sich um 5 Sekunden und die Dauer des Blumennebels verlängert sich um 2 Sekunden. Kann Zombies der Stufe 5 bezaubern.
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招，可魅惑7阶僵尸
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen. Kann auch nun Zombies der Stufe 7 bezaubern.
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL5_DES]
-有概率长出更艳丽的花朵，喷出花粉的效果由眩晕变为向右行走，可魅惑10阶僵尸
+Es besteht die Chance, buntere Blumen zu wachsen. Der Effekt des Pollensprühens ändert sich von Betäubung zu Rechtslauf und kann Zombies der Stufe 10 bezaubern.
 
 [TRISTERIXAPHYLLUS_PLANTFOOD_DESCRIPTION]
-仙钗开出一朵大花，可供5只鸟一起吞食，最多控制住5只僵尸。
+Die Blattlose Riemenblume lässt eine große Blume erblühen, die von fünf Vögeln gleichzeitig verschluckt werden kann und bis zu fünf Zombies kontrollieren kann.
 
 [TRISTERIXAPHYLLUS_AVATAR_PLANTFOOD_DESCRIPTION]
-大招引来的鸟的数量上升到6只
+Die Anzahl der durch die große Spezialdünger-Fähigkeit angelockten Vögel erhöht sich auf sechs.
 
 [CHAINSAWBURMANNII]
 锯齿锦地罗
@@ -65070,91 +65054,103 @@ ca=大招能用金箍棒把僵尸砸进地里|提升大招高能激光的伤害|
 召唤一只战斗机僵尸
 
 [SPEEDUP_STAFF]
-加速权杖
+Beschleunigungsstab
 
 [SPEEDUP_STAFF_DES]
-选择一个指定的格子创造一个加速权杖，使周围一圈墓碑的生产速度提升50%。
+Wähle ein bestimmtes Raster, um einen Beschleunigungsstab zu erstellen. Dieser erhöht die Produktionsgeschwindigkeit der umliegenden Grabsteine um 50 %.
 
 [CURSE]
-诅咒
+Fluch
 
 [CURSE_DES]
-回合结束时此牌仍在手中，则受到10%伤害。消耗。
+Befindet sich diese Karte am Ende der Runde noch auf deiner Hand, erleidest du 10 % Schaden. Verbrauche sie.
 
 [TAG_CURSE]
-诅咒
+Fluch
 
 [TAG_DEFAULT]
-缺失
+Fehlt
 
 [TAG_CONSUME]
-消耗
+Verbrauchen
 
 [TAG_ZOMBIE]
-僵尸
+Zombie
 
 [TAG_PLANT]
-植物
+Pflanze
 
 [TAG_ARTIFACT]
-神器
+Artefakt
 
 [TAG_CREATURE]
-生物
+Kreatur
 
 [TAG_SKILL]
-技能
+Fähigkeit
 
 [TAG_SPECIAL]
-特殊
+Spezial
 
 [TAG_SUMMON]
-召唤
+Beschwören
 
 [CARD_GAME_MODULE_STATE_INIT]
-初始
+Initial
 
 [CARD_GAME_MODULE_STATE_INTRO]
-准备
+Vorbereiten
 
 [CARD_GAME_MODULE_STATE_PICK]
-抽卡
+Ziehen
 
 [CARD_GAME_MODULE_STATE_PLAYERACTION]
-玩家回合
+Spieler Spielzug
 
 [CARD_GAME_MODULE_STATE_PLAYERDISCARD]
-弃牌
+Ablegen
 
 [CARD_GAME_MODULE_STATE_ENEMYACTION]
-敌人回合
+Gegnerischer Spielzug
 
 [CARD_GAME_MODULE_STATE_ROUNDFINISH]
-回合结束
+Runde beendet
 
 [CARD_GAME_MODULE_STATE_RESULT]
-结果
+Ergebnis
 
 [CARD_GAME_MODULE_STATE_END]
-完毕
+Beendet
 
 [CARD_GAME_INTENTION_SUMMON_DESC_1]
-召唤僵尸1
+Zombie 1 beschwören
 
 [CARD_GAME_INTENTION_SUMMON_DESC_2]
-召唤僵尸2
+Zombie 2 beschwören
 
 [CARD_GAME_INTENTION_SUMMON_DESC_3]
-召唤僵尸3
+Zombie 3 beschwören
+
+[CARD_GAME_INTENTION_SUMMON_DESC_4]
+Zombie beschwören 4
+
+[CARD_GAME_INTENTION_SUMMON_DESC_5]
+Zombie 5 beschwören
+
+[CARD_GAME_INTENTION_SUMMON_DESC_6]
+Zombie 7 beschwören
+
+[CARD_GAME_INTENTION_S ME_INTENTION_SUMMON_DESC_3]
+Zombie 3 beschwören
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_1]
-召唤小鬼帐篷
+Goblinzelt beschwören
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_2]
-召唤巨人帐篷
+Riesenzelt beschwören
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_3]
-给玩家随机塞入诅咒卡
+Fluchkarten zufällig in Spieler einteilen
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_4]
 生成飓风
