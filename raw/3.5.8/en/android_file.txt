@@ -58294,7 +58294,7 @@ Spielfreigabe
 Bitte schließe zuerst den normalen Modus ab, um diesen Schwierigkeitsgrad freizuschalten.
 
 [PLAYERS_TRIP_TO_MEMORY]
-{PLAYER}s Reise nach Erinnerung
+{PLAYER}s Reise zur Erinnerung
 
 [S3_MEMORY_LEVEL_NAME_001]
 Sonnenschein-Raubtier
@@ -61819,7 +61819,7 @@ Im normalen Modus gilt: Je mehr Levelziele du auswählst, desto mehr Belohnungen
 Im schwierigen Modus kannst du nur zwei Pflanzen der zweiten Generation zum Kämpfen einsetzen (in manchen Leveln können die vorab ausgewählten Pflanzen der zweiten Generation das Limit für Pflanzen der zweiten Generation nicht überschreiten). Außerdem sind die Zombies mächtiger.
 
 [MODE_HOWTOPLAY_5_DESCRIPTION]
-In allen Modi wird durch die Verwendung von Raum-Zeit-Spezialdünger-Fähigkeitn Raum-Zeit-Energie wiederhergestellt.
+In allen Modi wird durch die Verwendung von Raum-Zeit-Spezialdünger die Raum-Zeit-Energie wiederhergestellt.
 
 [AUTH_LOGIN_ERROR_TEXT]
 Das Netzwerk schwankt ungewöhnlich stark. Bitte klicke, um das Spiel später zu starten.
