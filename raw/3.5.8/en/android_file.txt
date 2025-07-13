@@ -17331,7 +17331,7 @@ Noch keine Internetverbindung.
 Das Event ist beendet.
 
 [SALES_TIME_DAYS]
-{DAYS}天
+{DAYS}Tage
 
 [SALES_BUY_SUCCESS_TITLE]
 购买成功
@@ -17483,7 +17483,7 @@ Das Event ist beendet.
 活动已结束
 
 [REMAIN_DAYS]
-{DAYS}天
+{DAYS}Tage
 
 [GEILIVABLE_LOTTERY_SPECIAL_BONUS_DES]
 三周年限量抱枕
@@ -17495,998 +17495,991 @@ Das Event ist beendet.
 恭喜你获得以下物品
 
 [UNIQUE_FERTILIZER]
-珍稀的肥料
+Seltenes Düngemittel
 
 [UNIQUE_FERTILIZER_DES]
-一袋顶过去五袋，腰不酸了腿不疼了，一口气打五个僵尸！
+Ein Beutel entspricht fünf Beuteln. Deine Hüften und Beine schmerzen nicht mehr. Du kannst fünf Zombies gleichzeitig töten!
 
 [UNIQUE_FERTILIZER_BOOST_DES]
-效果：植物攻击能力增加20%。^FF0000 仅限攻击类植物使用
+Effekt: Erhöht die Angriffskraft von Pflanzen um 20 %. ^FF0000 Nur für angreifende Pflanzen
 
 [UNIQUE_DRUM]
-时空铁桶
+Zeit- und Raumfass
 
 [UNIQUE_DRUM_DES]
-这可是僵尸都没有的铁桶，据说带着它就可以穿越时空
+Dieses Fass haben Zombies nicht. Man sagt, man könne damit durch Zeit und Raum reisen.
 
 [UNIQUE_DRUM_BOOST_DES]
-效果：植物防护能力提升20%。^FF0000 一次性植物无法使用
+Effekt: Die Abwehrfähigkeit von Pflanzen wird um 20 % erhöht. ^FF0000 Einwegpflanzen können nicht verwendet werden.
 
 [UNIQUE_ACCELERATE]
-加速花盆
+Beschleunigungsblumentopf
 
 [UNIQUE_ACCELERATE_DES]
-侧面有一块铭牌：“少一分耕耘,多一分收获”
+An der Seite befindet sich eine Plakette: „Weniger Arbeit, mehr Ernte.“
 
 [UNIQUE_ACCELERATE_BOOST_DES]
-效果：种植冷却缩短30%并略微提升防护能力。^FF0000 仅限四阶植物使用
+Effekt: Die Abklingzeit des Pflanzens wird um 30 % verkürzt und die Abwehrfähigkeit leicht erhöht. ^FF0000 Nur für Pflanzen der Stufe 4 verfügbar
 
 [UNIQUE_REGENERATION]
-万能医药箱
+Universal-Medizinbox
 
 [UNIQUE_REGENERATION_DES]
-外表的伤痛容易医治，内心的伤痛只能让时间来治疗
+Äußerer Schmerz ist leicht zu heilen, innerer Schmerz jedoch nur mit der Zeit.
 
 [UNIQUE_REGENERATION_BOOST_DES]
-效果：每3秒恢复大量生命。^FF0000 一次性植物无法使用
+Effekt: Stellt alle 3 Sekunden eine große Menge Gesundheit wieder her. ^FF0000 Kann nicht von Einwegpflanzen verwendet werden.
 
 [UNIQUE_SUNMONEY]
-聚光花盆
+Blumentopf mit Scheinwerfer
 
 [UNIQUE_SUNMONEY_DES]
-这个花盆可以储存很多的阳光，以备不时之需
+Dieser Blumentopf kann viel Sonnenlicht für den Notfall speichern.
 
 [UNIQUE_SUNMONEY_BOOST_DES]
-效果：阳光产出增加25点并略微提升防护能力。^FF0000 仅限四阶植物使用
+Effekt: Erhöht die Sonnenlichtausbeute um 25 Punkte und verbessert die Verteidigung leicht. ^FF0000 Nur für Pflanzen der Stufe 4 verfügbar
 
 [UNIQUE_CLOCK]
-戴夫的闹钟
+Daves Wecker
 
 [UNIQUE_CLOCK_DES]
-戴夫认为传统的闹钟更可靠，于是他一直留着这只没电的闹钟
+Dave hielt herkömmliche Wecker für zuverlässiger und behielt deshalb diesen kaputten Wecker.
 
 [UNIQUE_CLOCK_BOOST_DES]
-效果：休息时间缩短20%。
+Effekt: Reduziert die Ruhezeit um 20 %.
 
 [UNIQUE_COST]
-太阳能花盆
+Solar-Blumentopf
 
 [UNIQUE_COST_DES]
-太阳能热水器，哦不，是花盆，拥有神奇的力量
+Solar-Warmwasserbereiter – oh nein, es ist ein Blumentopf mit magischen Kräften.
 
 [UNIQUE_COST_BOOST_DES]
-效果：降低阳光消耗25点并略微提升防护能力。^FF0000 仅限100阳光以上四阶植物使用
+Effekt: Reduziert den Sonnenlichtverbrauch um 25 Punkte und erhöht die Verteidigungsfähigkeit leicht. ^FF0000 Nur verfügbar für Pflanzen der Stufe 4 mit mehr als 100 Sonnenlicht.
 
 [UNIQUE_EXPLODE]
-超能火药桶
+Super-Schießpulverfass
 
 [UNIQUE_EXPLODE_DES]
-上面贴着“严禁烟火”，但是僵尸来袭时就不管这些了！
+Es steht „Kein Feuerwerk erlaubt“, aber das spielt keine Rolle, wenn Zombies angreifen!
 
 [UNIQUE_EXPLODE_BOOST_DES]
-效果：爆炸伤害增加24%。
+Effekt: Erhöht den Explosionsschaden um 24 %.
 
 [UNIQUE_TORCH]
-燃烧的火把
+Brennende Fackel
 
 [UNIQUE_TORCH_DES]
-树皮榨干后掰成长条的小块,用藤条缠起来，一个火把就做好了！
+Rinde auspressen, in kleine Stücke brechen und mit Ranken umwickeln – fertig ist die Fackel!
 
 [UNIQUE_TORCH_BOOST_DES]
-效果：火焰伤害增加24%。
+Effekt: Erhöht den Feuerschaden um 24 %.
 
 [UNIQUE_SNOWFLAKE]
-闪耀雪花挂坠
+Glänzender Schneeflockenanhänger
 
 [UNIQUE_SNOWFLAKE_DES]
-这可是真的雪花，看到那亮光没？每个雪花里都有一个精灵
+Das sind echte Schneeflocken! Siehst du das Licht? In jeder Schneeflocke steckt eine Fee.
 
 [UNIQUE_SNOWFLAKE_BOOST_DES]
-效果：冰冻伤害增加24%。
+Effekt: Erhöht den Frostschaden um 24 %.
 
 [UNIQUE_POLE]
-巨人的电线杆
+Riesentelegrafenmast
 
 [UNIQUE_POLE_DES]
-早期的电线杆是木制的，后来才有了钢筋混凝土电线杆
+Frühe Telegrafenmasten bestanden aus Holz, später kamen auch Telegrafenmasten aus Stahlbeton auf.
 
 [UNIQUE_POLE_BOOST_DES]
-效果：闪电伤害增加24%。
+Effekt: Blitzschaden um 24 % erhöht.
 
 [UNIQUE_DUCK]
-小黄鸭游泳圈
+Kleiner gelber Enten-Schwimmring
 
 [UNIQUE_DUCK_DES]
-在海边游泳还是带着游泳圈更安全一些，水草表示不能理解
+Ein Schwimmring ist beim Schwimmen am Strand sicherer, da die Wasserpflanzen ihn nicht verstehen.
 
 [UNIQUE_DUCK_BOOST_DES]
-效果：使植物直接种在水面上并略微提升防护能力^FF0000 仅限四阶非水生植物使用
+Effekt: Pflanzen werden direkt auf der Wasseroberfläche gepflanzt und ihre Abwehrfähigkeit wird leicht verbessert. ^FF0000 Nur für Nicht-Wasserpflanzen der vierten Stufe verfügbar.
 
 [EPIC_FERTILIZER]
-高级肥料
+Fortschrittlicher Dünger
 
 [EPIC_FERTILIZER_DES]
-闻着这味道，感觉一定是真正的纯天然无公害有机肥料！
+Wenn man das riecht, muss es ein wirklich natürlicher, schadstofffreier organischer Dünger sein!
 
 [EPIC_FERTILIZER_BOOST_DES]
-效果：植物攻击能力增加15%。
+Effekt: Pflanzenangriffsfähigkeit um 15 % erhöht
 
 [EPIC_DRUM]
-精制铁桶
+Veredelter Eiseneimer
 
 [EPIC_DRUM_DES]
-磁力菇收集了铁桶并且加以改造，表面更加光滑坚固！
+Magnetpilz hat den Eiseneimer eingesammelt und modifiziert, wodurch die Oberfläche glatter und stärker wurde!
 
 [EPIC_DRUM_BOOST_DES]
-效果：植物防护能力提升15%。^FF0000 一次性植物无法使用
+Effekt: Pflanzenverteidigungsfähigkeit um 15 % erhöht. ^FF0000 Einwegpflanzen können nicht verwendet werden.
 
 [EPIC_REGENERATION]
-高级医药箱
+Verbesserte Medizinbox
 
 [EPIC_REGENERATION_DES]
-坚果、高坚果、全息坚果经常抢这个箱子却不知道互相分享
+Nüsse, Hochnüsse und Holografische Nüsse schnappen sich diese Box oft, wissen aber nicht, wie sie sie untereinander teilen können.
 
 [EPIC_REGENERATION_BOOST_DES]
-效果：每3秒恢复中量生命。^FF0000 一次性植物无法使用
+Effekt: Stellt alle 3 Sekunden eine mittlere Menge Leben wieder her. ^FF0000 Einwegpflanzen können nicht verwendet werden.
 
 [EPIC_CLOCK]
-精巧的闹钟
+Exquisiter Wecker
 
 [EPIC_CLOCK_DES]
-早起的鸟儿有虫吃，所以虫子们现在都喜欢睡懒觉了
+Der frühe Vogel fängt den Wurm, deshalb schlafen die Käfer jetzt gerne aus.
 
 [EPIC_CLOCK_BOOST_DES]
-效果：休息时间缩短10%。
+Effekt: Die Ruhezeit wird um 10 % verkürzt.
 
 [EPIC_EXPLODE]
-高级火药桶
+Verbessertes Schießpulverfass
 
 [EPIC_EXPLODE_DES]
-火龙草一直想看看火药桶里面是什么，但是其他植物不许它接近
+Der Feuerdrache wollte schon immer sehen, was sich im Schießpulverfass befindet, aber andere Pflanzen lassen ihn nicht näher heran.
 
 [EPIC_EXPLODE_BOOST_DES]
-效果：爆炸伤害增加18%。
+Effekt: Erhöht den Explosionsschaden um 18 %.
 
 [EPIC_TORCH]
-精制的火把
+Veredelte Fackel
 
 [EPIC_TORCH_DES]
-你就像那冬天里的一把火，熊熊火焰温暖了我的心窝
+Du bist wie ein Feuer im Winter, die lodernde Flamme wärmt mein Herz.
 
 [EPIC_TORCH_BOOST_DES]
-效果：火焰伤害增加18%。
+Effekt: Erhöht den Feuerschaden um 18 %.
 
 [EPIC_SNOWFLAKE]
-精制雪花挂坠
+Veredelter Schneeflockenanhänger
 
 [EPIC_SNOWFLAKE_DES]
-纯银打造的挂坠，是戴夫的妈妈的妈妈的妈妈送给他的
+Ein Anhänger aus reinem Silber, den Dave von der Mutter seiner Mutter geschenkt bekam.
 
 [EPIC_SNOWFLAKE_BOOST_DES]
-效果：冰冻伤害增加18%。
+Effekt: Erhöht den Gefrierschaden um 18 %.
 
 [EPIC_POLE]
-坚固的电线杆
+Ein stabiler Strommast
 
 [EPIC_POLE_DES]
-电线杆上总站着一排小麻雀，叽叽喳喳的讲最新的八卦
+Auf dem Strommast steht immer eine Reihe Spatzen, die den neuesten Klatsch und Tratsch verbreiten.
 
 [EPIC_POLE_BOOST_DES]
-效果：闪电伤害增加18%。
+Effekt: Erhöht den Blitzschaden um 18 %.
 
 [MAGIC_FERTILIZER]
-普通肥料
+Gewöhnlicher Dünger
 
 [MAGIC_FERTILIZER_DES]
-植物要定期施肥才会茁壮成长，不过这味道有点……受不了啊！
+Pflanzen müssen regelmäßig gedüngt werden, um zu gedeihen, aber der Geruch ist etwas ... unerträglich!
 
 [MAGIC_FERTILIZER_BOOST_DES]
-效果：植物攻击能力增加10%。
+Effekt: Erhöht die Angriffsfähigkeit der Pflanzen um 10 %.
 
 [MAGIC_DRUM]
-普通铁桶
+Gewöhnlicher Eiseneimer
 
 [MAGIC_DRUM_DES]
-磁力菇辛苦收集来的铁桶，现在发挥大作用了！
+Der Eiseneimer, den Magnetpilz mühsam gesammelt hat, ist jetzt wieder von Nutzen!
 
 [MAGIC_DRUM_BOOST_DES]
-效果：植物防护能力提升10%。^FF0000 一次性植物无法使用
+Effekt: Erhöht die Verteidigungsfähigkeit der Pflanzen um 10 %. ^FF0000 Einwegpflanzen können nicht verwendet werden.
 
 [MAGIC_REGENERATION]
-普通医药箱
+Gewöhnlicher Erste-Hilfe-Kasten
 
 [MAGIC_REGENERATION_DES]
-植物受伤了也会很疼的，所以要及时治疗才不会留下后遗症
+Pflanzen empfinden Schmerzen bei Verletzungen. Daher ist eine rechtzeitige Behandlung notwendig, um Folgeschäden zu vermeiden.
 
 [MAGIC_REGENERATION_BOOST_DES]
-效果：每3秒恢复少量生命。^FF0000 一次性植物无法使用
+Effekt: Stellt alle 3 Sekunden etwas Gesundheit wieder her. ^FF0000 Einwegpflanzen können nicht verwendet werden.
 
 [MAGIC_TORCH]
-普通的火把
+Gewöhnliche Fackel
 
 [MAGIC_TORCH_DES]
-植物们讨厌僵尸的火把所以仿制了一个，但是效果不太一样
+Pflanzen hassen Zombie-Fackeln, deshalb haben sie eine kopiert. Der Effekt ist jedoch nicht ganz derselbe.
 
 [MAGIC_TORCH_BOOST_DES]
-效果：火焰伤害增加12%。
+Effekt: Erhöht den Feuerschaden um 12 %.
 
 [MAGIC_SNOWFLAKE]
-普通雪花挂坠
+Gewöhnlicher Schneeflockenanhänger
 
 [MAGIC_SNOWFLAKE_DES]
-想要保存雪花可不是容易的事儿，这件只是仿制品……
+Schneeflocken zu retten ist nicht leicht. Dies ist nur eine Nachbildung...
 
 [MAGIC_SNOWFLAKE_BOOST_DES]
-效果：冰冻伤害增加12%。
+Effekt: Erhöht den Gefrierschaden um 12 %.
 
 [MAGIC_POLE]
-普通电线杆
+Gewöhnlicher Strommast
 
 [MAGIC_POLE_DES]
-每根电线杆都有独一无二的编号，可以帮助定位呢~
+Jeder Strommast hat eine eindeutige Nummer, die bei der Lokalisierung hilft.
 
 [MAGIC_POLE_BOOST_DES]
-效果：闪电伤害增加12%。
+Effekt: Erhöht den Blitzschaden um 12 %.
 
 [NORMAL_FERTILIZER]
-过期的肥料
+Abgelaufener Dünger
 
 [NORMAL_FERTILIZER_DES]
-肥料中的养分已经流失殆尽了，勉强还能压榨一点作用
+Die Nährstoffe im Dünger sind verloren gegangen und können kaum noch herausgepresst werden.
 
 [NORMAL_FERTILIZER_BOOST_DES]
-效果：植物攻击能力增加5%。
+Effekt: Erhöht die Angriffsfähigkeit von Pflanzen um 5 %.
 
 [NORMAL_DRUM]
-损坏的铁桶
+Beschädigter Eiseneimer
 
 [NORMAL_DRUM_DES]
-戴夫打扫庭院时捡到的铁桶，好像有点漏水……
+Der Eiseneimer, den Dave beim Aufräumen des Hofes aufgehoben hat, scheint ein wenig zu lecken ...
 
 [NORMAL_DRUM_BOOST_DES]
-效果：植物防护能力提升5%。^FF0000 一次性植物无法使用
+Effekt: Erhöht die Verteidigungsfähigkeit der Pflanze um 5 %. ^FF0000 Einwegpflanzen können nicht verwendet werden.
 
 [NORMAL_REGENERATION]
-损坏的医药箱
+Beschädigte Medizinbox
 
 [NORMAL_REGENERATION_DES]
-过期的药片可千万不能吃，不仅不治病而且还有害呢！
+Nimm keine abgelaufenen Pillen ein. Sie heilen nicht nur keine Krankheiten, sondern sind auch schädlich!
 
 [NORMAL_REGENERATION_BOOST_DES]
-效果：每3秒恢复微量生命。^FF0000 一次性植物无法使用
+Effekt: Stellt alle 3 Sekunden eine kleine Menge Leben wieder her. ^FF0000 Einwegpflanzen können nicht verwendet werden.
 
 [EPIC_COST]
-节能罐
+Energiespardose
 
 [EPIC_COST_DES]
-小朋友和植物都需要多多的晒太阳才能茁壮成长呢
+Sowohl Kinder als auch Pflanzen benötigen mehr Sonnenlicht zum Gedeihen.
 
 [EPIC_COST_BOOST_DES]
-效果：降低阳光消耗10点。
-
+Effekt: Reduziert den Sonnenlichtverbrauch um 10 Punkte.
 
 [SUPER_CLOCK]
-紫色手套
+Lila Handschuhe
 
 [SUPER_CLOCK_DES]
-戴夫的新手套，上面的时尚气息让他的舞蹈更有魅力了！
+Daves neue Handschuhe – der Stil macht seinen Tanz noch attraktiver!
 
 [SUPER_CLOCK_BOOST_DES]
-效果：1.攻击力增加12%    2.增加攻速5%   3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 12 %. 2. Erhöht die Angriffsgeschwindigkeit um 5 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_BOOST_DES_1]
-效果：1.攻击力增加15%   2.增加攻速7%    3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 15 %. 2. Erhöht die Angriffsgeschwindigkeit um 7 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_BOOST_DES_2]
-效果：1.攻击力增加18%   2.增加攻速9%    3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 18 %. 2. Erhöht die Angriffsgeschwindigkeit um 9 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_BOOST_DES_3]
-效果：1.攻击力增加20%   2.增加攻速12%    3.击杀僵尸有10%概率产生能量豆
+Effekt: 1. Erhöht die Angriffskraft um 20 %. 2. Erhöht die Angriffsgeschwindigkeit um 12 %. 3. Das Töten von Zombies hat eine 10%ige Chance, Energiebohnen zu erzeugen.
 
 [SUPER_CLOCK_BOOST_DES_4]
-效果：1.攻击力增加25%   2.增加攻速15%    3.击杀僵尸有15%概率产生能量豆
+Effekt: 1. Erhöht die Angriffskraft um 25 %. 2. Erhöht die Angriffsgeschwindigkeit um 15 %. 3. Beim Töten von Zombies besteht eine 15%ige Chance, Energiebohnen zu erzeugen.
 
 [SUPER_CLOCK_BOOST_DES_5]
-效果：1.攻击力增加30%   2.增加攻速20%    3.击杀僵尸有18%概率产生能量豆
+Effekte: 1. Erhöht die Angriffskraft um 30 %. 2. Erhöht die Angriffsgeschwindigkeit um 20 %. 3. Beim Töten von Zombies besteht eine 18%ige Chance, Energiebohnen zu erzeugen.
 
 [SUPER_CLOCK_1]
-红蜡烛
+Rote Kerze
 
 [SUPER_CLOCK_1_DES]
-点燃这根蜡烛，庆贺植物们的胜利！
+Zünde diese Kerze an, um den Sieg der Pflanzen zu feiern!
 
 [SUPER_CLOCK_1_BOOST_DES]
-效果：1.火焰伤害增加10% 2.种植冷却时间缩短15% 3.未解锁
+Effekt: 1. Erhöht den Feuerschaden um 10 %. 2. Reduziert die Abkühlzeit beim Pflanzen um 15 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_1_BOOST_DES_1]
-效果：1.火焰伤害增加12% 2.种植冷却时间缩短18% 3.未解锁
+Effekt: 1. Erhöht den Feuerschaden um 12 %. 2. Reduziert die Abkühlzeit beim Pflanzen um 18 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_1_BOOST_DES_2]
-效果：1.火焰伤害增加16% 2.种植冷却时间缩短20% 3.未解锁
+Effekt: 1. Erhöht den Feuerschaden um 16 %. 2. Reduziert die Abkühlzeit beim Pflanzen um 20 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_1_BOOST_DES_3]
-效果：1.火焰伤害增加20% 2.种植冷却时间缩短25% 3.击杀僵尸有15%概率产生阳光（每场最多500）
+Effekt: 1. Erhöht den Feuerschaden um 20 %. 2. Reduziert die Abkühlzeit beim Pflanzen um 25 %. 3. Das Töten von Zombies hat eine 15%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel)
 
 [SUPER_CLOCK_1_BOOST_DES_4]
-效果：1.火焰伤害增加24% 2.种植冷却时间缩短30% 3.击杀僵尸有18%概率产生阳光（每场最多500）
+Effekt: 1. Erhöht den Feuerschaden um 24 %. 2. Reduziert die Abkühlzeit des Pflanzens um 30 %. 3. Das Töten von Zombies hat eine Chance von 18 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_1_BOOST_DES_5]
-效果：1.火焰伤害增加27% 2.种植冷却时间缩短35% 3.击杀僵尸有22%概率产生阳光（每场最多500） 
-
+Effekt: 1. Erhöht den Feuerschaden um 27 %. 2. Reduziert die Abkühlzeit des Pflanzens um 35 %. 3. Das Töten von Zombies hat eine Chance von 22 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_2]
-白蜡烛
+Weiße Kerze
 
 [SUPER_CLOCK_2_DES]
-早早准备好的，用以祭奠被打败的僵尸博士
+Frühzeitig vorbereitet, um dem besiegten Dr. Zombie zu gedenken.
 
 [SUPER_CLOCK_2_BOOST_DES]
-效果：1.火焰伤害增加8% 2.种植冷却时间缩短15% 3.未解锁
+Effekt: 1. Erhöht den Feuerschaden um 8 %. 2. Reduziert die Abkühlzeit des Pflanzens um 15 %. 3. Freigeschaltet
 
 [SUPER_CLOCK_2_BOOST_DES_1]
-效果：1.火焰伤害增加10% 2.种植冷却时间缩短18% 3.未解锁
+Effekt: 1. Erhöht den Feuerschaden um 10 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 18 %. 3. Freigeschaltet
 
 [SUPER_CLOCK_2_BOOST_DES_2]
-效果：1.火焰伤害增加12% 2.种植冷却时间缩短20% 3.未解锁
+Effekt: 1. Erhöht den Feuerschaden um 12 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 20 %. 3. Freigeschaltet
 
 [SUPER_CLOCK_2_BOOST_DES_3]
-效果：1.火焰伤害增加16% 2.种植冷却时间缩短25% 3.降低阳光消耗25点
+Effekt: 1. Erhöht den Feuerschaden um 16 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 25 %. 3. Verkürzung des Sonnenlichtverbrauchs um 25 Punkte.
 
 [SUPER_CLOCK_2_BOOST_DES_4]
-效果：1.火焰伤害增加20% 2.种植冷却时间缩短30% 3.降低阳光消耗30点
+Effekt: 1. Erhöht den Feuerschaden um 20 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 30 %. 3. Verkürzung des Sonnenlichtverbrauchs um 30 %. Punkte
 
 [SUPER_CLOCK_2_BOOST_DES_5]
-效果：1.火焰伤害增加22% 2.种植冷却时间缩短35% 3.降低阳光消耗35点
-
+Effekt: 1. Erhöht den Feuerschaden um 22 %. 2. Reduziert die Abkühlzeit des Pflanzens um 35 %. 3. Reduziert den Sonnenlichtverbrauch um 35 Punkte.
 
 [SUPER_CLOCK_4]
-月亮锅盔
+Mondkuchen
 
 [SUPER_CLOCK_4_DES]
-月亮的光芒虽然柔和，但是仍然为植物们提供了有力的支援
+Obwohl das Mondlicht sanft ist, bietet es Pflanzen dennoch starken Halt.
 
 [SUPER_CLOCK_4_BOOST_DES]
-效果：1.每3秒回复90点生命 2.种植冷却时间缩短12% 3.未解锁
+Effekt: 1. Regeneriert alle 3 Sekunden 90 Lebenspunkte. 2. Reduziert die Abkühlzeit des Pflanzens um 12 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_4_BOOST_DES_1]
-效果：1.每3秒回复130点生命 2.种植冷却时间缩短15% 3.未解锁
+Effekt: 1. Regeneriert alle 3 Sekunden 130 Lebenspunkte. 2. Reduziert die Abkühlzeit des Pflanzens um 15 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_4_BOOST_DES_2]
-效果：1.每3秒回复150点生命 2.种植冷却时间缩短18% 3.未解锁
+Effekt: 1. Regeneriert 150 Lebenspunkte alle 3 Sekunden 2. Reduziert die Abkühlzeit beim Pflanzen um 18 % 3. Freigeschaltet
 
 [SUPER_CLOCK_4_BOOST_DES_3]
-效果：1.每3秒回复180点生命 2.种植冷却时间缩短20% 3.生命提升15%
+Effekt: 1. Regeneriert 180 Lebenspunkte alle 3 Sekunden 2. Reduziert die Abkühlzeit beim Pflanzen um 20 % 3. Erhöht das Leben um 15 %
 
 [SUPER_CLOCK_4_BOOST_DES_4]
-效果：1.每3秒回复200点生命 2.种植冷却时间缩短25% 3.生命提升20%
+Effekt: 1. Regeneriert 200 Lebenspunkte alle 3 Sekunden 2. Reduziert die Abkühlzeit beim Pflanzen um 25 % 3. Erhöht das Leben um 20 %
 
 [SUPER_CLOCK_4_BOOST_DES_5]
-效果：1.每3秒回复220点生命 2.种植冷却时间缩短30% 3.生命提升25%
+Effekt: 1. Regeneriert 220 Lebenspunkte alle 3 Sekunden 2. Reduziert die Abkühlzeit beim Pflanzen um 30 % 3. Erhöht das Leben um 25 %
 
 [SUPER_CLOCK_3]
-太阳锅盔
+Sonnentopfhelm
 
 [SUPER_CLOCK_3_DES]
-因为汇聚了阳光的力量，所以锅盔看起来金灿灿的
+Weil es Sammelt die Kraft des Sonnenlichts, der Topfhelm sieht golden aus.
 
 [SUPER_CLOCK_3_BOOST_DES]
-效果：1.每3秒回复90点生命 2.植物被啃咬时对僵尸造成眩晕（触发间隔12秒） 3.未解锁
+Effekt: 1. Regeneriert alle 3 Sekunden 90 Lebenspunkte. 2. Bei einem Biss in die Pflanze wird der Zombie betäubt (Auslöseintervall: 12 Sekunden). 3. Freigeschaltet.
 
 [SUPER_CLOCK_3_BOOST_DES_1]
-效果：1.每3秒回复140点生命 2.植物被啃咬时对僵尸造成眩晕（触发间隔11秒） 3.未解锁
+Effekt: 1. Regeneriert alle 3 Sekunden 140 Lebenspunkte. 2. Bei einem Biss in die Pflanze wird der Zombie betäubt (Auslöseintervall: 11 Sekunden). 3. Freigeschaltet.
 
 [SUPER_CLOCK_3_BOOST_DES_2]
-效果：1.每3秒回复180点生命 2.植物被啃咬时对僵尸造成眩晕（触发间隔10秒） 3.未解锁
+Effekt: 1. Regeneriert alle 3 Sekunden 180 Lebenspunkte. 2. Bei einem Biss in die Pflanze wird der Zombie betäubt (Auslöseintervall: 10 Sekunden). 3. Freigeschaltet.
 
 [SUPER_CLOCK_3_BOOST_DES_3]
-效果：1.每3秒回复200点生命 2.植物被啃咬时对僵尸造成眩晕（触发间隔8秒） 3.生命提升15%
+Effekt: 1. Regeneriert alle 3 Sekunden 200 Lebenspunkte. 2. Bei einem Pflanzenbiss wird der Zombie betäubt (Auslöseintervall: 8 Sekunden). 3. Erhöht die Gesundheit um 15 %.
 
 [SUPER_CLOCK_3_BOOST_DES_4]
-效果：1.每3秒回复220点生命 2.植物被啃咬时对僵尸造成眩晕（触发间隔6秒） 3.生命提升20% 
+Effekt: 1. Regeneriert alle 3 Sekunden 220 Lebenspunkte. 2. Bei einem Pflanzenbiss wird der Zombie betäubt (Auslöseintervall: 6 Sekunden). 3. Erhöht die Gesundheit um 20 %.
 
 [SUPER_CLOCK_3_BOOST_DES_5]
-效果：1.每3秒回复240点生命 2.植物被啃咬时对僵尸造成眩晕（触发间隔4秒） 3.生命提升25%
+Effekt: 1. Regeneriert alle 3 Sekunden 240 Lebenspunkte. 2. Pflanzen betäuben Zombies bei einem Biss (Auslöseintervall: 4 Sekunden). 3. Erhöht die Gesundheit um 25 %.
 
 [SUPER_CLOCK_5]
-公主冰冠
+Eiskrone der Prinzessin
 
 [SUPER_CLOCK_5_DES]
-由寒冰射手精心打造的冰冠，希望将它送给最美丽的公主
+Die Eiskrone wurde sorgfältig vom Eisbogenschützen gefertigt, um sie der Schönsten zu schenken. Prinzessin
 
 [SUPER_CLOCK_5_BOOST_DES]
-效果：1.冰冻伤害增加10% 2.击杀僵尸有5%概率产生阳光（每场最多500） 3.未解锁
+Effekt: 1. Erhöht den Gefrierschaden um 10 %. 2. Töten von Zombies hat eine 5%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Freigeschaltet
 
 [SUPER_CLOCK_5_BOOST_DES_1]
-效果：1.冰冻伤害增加12% 2.击杀僵尸有7%概率产生阳光（每场最多500） 3.未解锁
+Effekt: 1. Erhöht den Gefrierschaden um 12 %. 2. Töten von Zombies hat eine 7%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Freigeschaltet
 
 [SUPER_CLOCK_5_BOOST_DES_2]
-效果：1.冰冻伤害增加15% 2.击杀僵尸有9%概率产生阳光（每场最多500） 3.未解锁
+Effekt: 1. Erhöht den Gefrierschaden um 15 %. 2. Töten von Zombies hat eine 9%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Freigeschaltet
 
 [SUPER_CLOCK_5_BOOST_DES_3]
-效果：1.冰冻伤害增加18% 2.击杀僵尸有12%概率产生阳光（每场最多500） 3.降低阳光消耗20点
+Effekt: 1. Erhöht den Gefrierschaden um 18 %. 2. Töten von Zombies hat eine 12 % Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Reduziert den Sonnenlichtverbrauch um 20 Punkte.
 
 [SUPER_CLOCK_5_BOOST_DES_4]
-效果：1.冰冻伤害增加20% 2.击杀僵尸有15%概率产生阳光（每场最多500） 3.降低阳光消耗25点
+Effekt: 1. Erhöht den Gefrierschaden um 20 %. 2. Töten von Zombies hat eine 15 %ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Reduziert den Sonnenlichtverbrauch um 25 Punkte.
 
 [SUPER_CLOCK_5_BOOST_DES_5]
-效果：1.冰冻伤害增加22% 2.击杀僵尸有18%概率产生阳光（每场最多500） 3.降低阳光消耗30点
+Effekt: 1. Erhöht den Gefrierschaden um 22 %. 2. Töten von Zombies hat eine 18 %ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Reduziert den Sonnenlichtverbrauch um 30 Punkte.
 
 [SUPER_CLOCK_6]
-女王冰冠
+Eiskrone der Königin
 
 [SUPER_CLOCK_6_DES]
-戴上它，即使在夏天的沙漠也会有凉爽的感觉
+Tragen Sie sie und fühlen Sie sich selbst im Sommer kühl. Wüste
 
 [SUPER_CLOCK_6_BOOST_DES]
-效果：1.冰冻伤害增加10% 2.击杀僵尸有5%概率产生阳光（每场最多500） 3.未解锁
+Effekte: 1. Erhöht den Gefrierschaden um 10 %. 2. Das Töten von Zombies hat eine 5%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Freigeschaltet
 
 [SUPER_CLOCK_6_BOOST_DES_1]
-效果：1.冰冻伤害增加12% 2.击杀僵尸有8%概率产生阳光（每场最多500） 3.未解锁
+Effekt: 1. Erhöht den Gefrierschaden um 12 %. 2. Das Töten von Zombies hat eine Chance von 8 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Freigeschaltet.
 
 [SUPER_CLOCK_6_BOOST_DES_2]
-效果：1.冰冻伤害增加16% 2.击杀僵尸有12%概率产生阳光（每场最多500） 3.未解锁
+Effekt: 1. Erhöht den Gefrierschaden um 16 %. 2. Das Töten von Zombies hat eine Chance von 12 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Freigeschaltet.
 
 [SUPER_CLOCK_6_BOOST_DES_3]
-效果：1.冰冻伤害增加20% 2.击杀僵尸有15%概率产生阳光（每场最多500） 3.降低阳光消耗25点
+Effekt: 1. Erhöht den Gefrierschaden um 20 %. 2. Das Töten von Zombies hat eine Chance von 15 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Reduziert den Sonnenlichtverbrauch um 25 Punkte.
 
 [SUPER_CLOCK_6_BOOST_DES_4]
-效果：1.冰冻伤害增加24% 2.击杀僵尸有18%概率产生阳光（每场最多500） 3.降低阳光消耗30点
+Effekt: 1. Erhöht den Gefrierschaden um 24 %. Das Töten von Zombies hat eine Chance von 18 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Reduziert den Sonnenlichtverbrauch um 30 Punkte.
 
 [SUPER_CLOCK_6_BOOST_DES_5]
-效果：1.冰冻伤害增加27% 2.击杀僵尸有22%概率产生阳光（每场最多500） 3.降低阳光消耗35点
+Effekt: 1. Erhöht den Gefrierschaden um 27 %. 2. Das Töten von Zombies hat eine Chance von 22 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel). 3. Reduziert den Sonnenlichtverbrauch um 35 Punkte.
 
 [SUPER_CLOCK_7]
-牛仔手套
+Cowboyhandschuhe
 
 [SUPER_CLOCK_7_DES]
-西部的风情如此迷人，戴夫也戴上了牛仔手套，准备戴着手套吃玉米卷
+Der Westernstil ist so charmant, dass Dave ebenfalls Cowboyhandschuhe anzog und sich darauf vorbereitete, mit Handschuhen Tacos zu essen.
 
 [SUPER_CLOCK_7_BOOST_DES]
-效果：1.攻击力增加10% 2.击杀僵尸有3%概率产生金币（每次100金币，最高5000金币） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 10 %. 2. Das Töten von Zombies hat eine Chance von 3 %, Goldmünzen zu erzeugen (100 Goldmünzen pro Mal, bis zu 5000 Goldmünzen). 3. Freigeschaltet
 
 [SUPER_CLOCK_7_BOOST_DES_1]
-效果：1.攻击力增加12% 2.击杀僵尸有5%概率产生金币（每次100金币，最高5000金币） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 12 %. 2. Tötet Zombies mit einer Chance von 5 %, Goldmünzen zu erhalten (je 100 Goldmünzen, bis zu 5000 Goldmünzen). 3. Freigeschaltet
 
 [SUPER_CLOCK_7_BOOST_DES_2]
-效果：1.攻击力增加15% 2.击杀僵尸有7%概率产生金币（每次100金币，最高5000金币） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 15 %. 2. Tötet Zombies mit einer Chance von 7 %, Goldmünzen zu erhalten (je 100 Goldmünzen, bis zu 5000 Goldmünzen). 3. Freigeschaltet
 
 [SUPER_CLOCK_7_BOOST_DES_3]
-效果：1.攻击力增加18% 2.击杀僵尸有9%概率产生金币（每次100金币，最高5000金币） 3.休息时间缩短15%
+Effekt: 1. Erhöht die Angriffskraft um 18 %. 2. Tötet Zombies mit einer Chance von 9 %, Goldmünzen zu erhalten (je 100 Goldmünzen, bis zu 5000 Goldmünzen). 3. Verkürzt die Ruhezeit um 15 %
 
 [SUPER_CLOCK_7_BOOST_DES_4]
-效果：1.攻击力增加21% 2.击杀僵尸有11%概率产生金币（每次100金币，最高5000金币） 3.休息时间缩短18%
+Effekt: 1. Erhöht die Angriffskraft um 21 %. 2. Töte Zombies mit einer Chance von 11 %, Goldmünzen zu erhalten (100 Goldmünzen pro Mal, bis zu 5000 Goldmünzen). 3. Verkürzung der Ruhezeit um 18 %.
 
 [SUPER_CLOCK_7_BOOST_DES_5]
-效果：1.攻击力增加24% 2.击杀僵尸有15%概率产生金币（每次100金币，最高5000金币） 3.休息时间缩短25%
+Effekt: 1. Erhöht die Angriffskraft um 24 %. 2. Töte Zombies haben eine Chance von 15 %, Goldmünzen zu erhalten (100 Goldmünzen pro Mal, bis zu 5000 Goldmünzen). 3. Verkürzung der Ruhezeit um 25 %.
 
 [SUPER_CLOCK_8]
-聚能电池
+Energiespeicherbatterie
 
 [SUPER_CLOCK_8_DES]
-强效聚能电池，提供充足电力，是杀僵御敌，居家旅行必备之物
+Eine leistungsstarke Energiespeicherbatterie mit ausreichend Energie ist unverzichtbar zum Töten von Zombies, zur Verteidigung von Feinden und für den Heimgebrauch. Reisen
 
 [SUPER_CLOCK_8_BOOST_DES]
-效果：1.闪电伤害增加10% 2.种植冷却时间缩短15% 3.未解锁
+Effekt: 1. Blitzschaden um 10 % erhöht, 2. Abklingzeit beim Pflanzen um 15 % verkürzt, 3. Freigeschaltet
 
 [SUPER_CLOCK_8_BOOST_DES_1]
-效果：1.闪电伤害增加12% 2.种植冷却时间缩短18% 3.未解锁
+Effekt: 1. Blitzschaden um 12 % erhöht, 2. Abklingzeit beim Pflanzen um 18 % verkürzt, 3. Freigeschaltet
 
 [SUPER_CLOCK_8_BOOST_DES_2]
-效果：1.闪电伤害增加16% 2.种植冷却时间缩短20% 3.未解锁
+Effekt: 1. Blitzschaden um 16 % erhöht, 2. Abklingzeit beim Pflanzen um 20 % verkürzt, 3. Freigeschaltet
 
 [SUPER_CLOCK_8_BOOST_DES_3]
-效果：1.闪电伤害增加20% 2.种植冷却时间缩短25% 3.降低阳光消耗25点
+Effekt: 1. Blitzschaden um 20 % erhöht, 2. Abklingzeit beim Pflanzen um 25 % verkürzt, 3. Sonnenlichtverbrauch um 25 Punkte reduziert
 
 [SUPER_CLOCK_8_BOOST_DES_4]
-效果：1.闪电伤害增加24% 2.种植冷却时间缩短30% 3.降低阳光消耗30点
+Effekt: 1. Blitzschaden um 24 % erhöht. 2. Abklingzeit des Pflanzens um 30 % reduziert. 3. Sonnenlichtverbrauch um 30 Punkte reduziert.
 
 [SUPER_CLOCK_8_BOOST_DES_5]
-效果：1.闪电伤害增加27% 2.种植冷却时间缩短35% 3.降低阳光消耗35点
+Effekt: 1. Blitzschaden um 27 % erhöht. 2. Abklingzeit des Pflanzens um 35 % reduziert. 3. Sonnenlichtverbrauch um 35 Punkte reduziert.
 
 [SUPER_CLOCK_9]
-节能电池
+Energiesparbatterie
 
 [SUPER_CLOCK_9_DES]
-强效锁定电量，一节更比两节强，听说潘妮的燃料电池拆开，里面就是它
+Sperrt die Energie stark. Eins ist besser als zwei. Ich habe gehört, Pennys Brennstoffzelle ist zerlegt und befindet sich im Inneren.
 
 [SUPER_CLOCK_9_BOOST_DES]
-效果：1.闪电伤害增加10% 2.击杀僵尸有3%概率产生金币（每次100金币，最高5000金币） 3.未解锁
+Effekt: 1. Blitzschaden um 10 % erhöht. 2. Das Töten von Zombies hat eine 3%ige Chance, Goldmünzen zu erhalten (100 Goldmünzen pro Mal, bis zu 5000 Goldmünzen). 3. Freigeschaltet
 
 [SUPER_CLOCK_9_BOOST_DES_1]
-效果：1.闪电伤害增加12% 2.击杀僵尸有5%概率产生金币（每次100金币，最高5000金币） 3.未解锁
+Effekt: 1. Blitzschaden um 12 % erhöht. 2. Beim Töten von Zombies besteht eine 5%ige Chance, Goldmünzen zu erhalten (je 100 Goldmünzen, bis zu 5000 Goldmünzen). 3. Freigeschaltet
 
 [SUPER_CLOCK_9_BOOST_DES_2]
-效果：1.闪电伤害增加15% 2.击杀僵尸有7%概率产生金币（每次100金币，最高5000金币） 3.未解锁
+Effekt: 1. Blitzschaden um 15 % erhöht. 2. Beim Töten von Zombies besteht eine 7%ige Chance, Goldmünzen zu erhalten (je 100 Goldmünzen, bis zu 5000 Goldmünzen). 3. Freigeschaltet
 
 [SUPER_CLOCK_9_BOOST_DES_3]
-效果：1.闪电伤害增加18% 2.击杀僵尸有9%概率产生金币（每次100金币，最高5000金币） 3.降低阳光消耗20点
+Effekt: 1. Blitzschaden um 18 % erhöht. 2. Beim Töten von Zombies besteht eine 9%ige Chance, Goldmünzen zu erhalten (je 100 Goldmünzen, bis zu 5000 Goldmünzen). 3. Sonnenlichtverbrauch um 20 % reduziert Punkte
 
 [SUPER_CLOCK_9_BOOST_DES_4]
-效果：1.闪电伤害增加20% 2.击杀僵尸有11%概率产生金币（每次100金币，最高5000金币） 3.降低阳光消耗25点
+Effekt: 1. Blitzschaden um 20 % erhöht. 2. Beim Töten von Zombies besteht eine 11%ige Chance, Goldmünzen zu erhalten (100 Goldmünzen pro Tötung, bis zu 5000 Goldmünzen). 3. Reduziert den Sonnenlichtverbrauch um 25 Punkte.
 
 [SUPER_CLOCK_9_BOOST_DES_5]
-效果：1.闪电伤害增加22% 2.击杀僵尸有15%概率产生金币（每次100金币，最高5000金币） 3.降低阳光消耗30点
+Effekt: 1. Blitzschaden um 22 % erhöht. 2. Beim Töten von Zombies besteht eine 15%ige Chance, Goldmünzen zu erhalten (100 Goldmünzen pro Tötung, bis zu 5000 Goldmünzen). 3. Reduziert den Sonnenlichtverbrauch um 30 Punkte.
 
 [SUPER_CLOCK_10]
-强效杀虫剂
+Starkes Insektizid
 
 [SUPER_CLOCK_10_DES]
-毒影菇最近常常抱怨他的毒不太好用，现在"它"来了,戴夫再也不用担心毒影菇了。
+Der giftige Schattenpilz hat sich in letzter Zeit über seine mangelnde Wirksamkeit beschwert. Jetzt, wo er da ist, muss sich Dave keine Sorgen mehr um den giftigen Schattenpilz machen.
 
 [SUPER_CLOCK_10_BOOST_DES]
-效果：1.毒系伤害增加10% 2.种植冷却时间缩短15% 3.未解锁
+Effekt: 1. Erhöht den Giftschaden um 10 %. 2. Reduziert die Abkühlzeit beim Pflanzen um 15 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_10_BOOST_DES_1]
-效果：1.毒系伤害增加12% 2.种植冷却时间缩短18% 3.未解锁
+Effekt: 1. Erhöht den Giftschaden um 12 %. 2. Reduziert die Abkühlzeit beim Pflanzen um 18 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_10_BOOST_DES_2]
-效果：1.毒系伤害增加16% 2.种植冷却时间缩短20% 3.未解锁
+Effekt: 1. Erhöht den Giftschaden um 16 %. 2. Reduziert die Abkühlzeit beim Pflanzen um 20 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_10_BOOST_DES_3]
-效果：1.毒系伤害增加20% 2.种植冷却时间缩短25% 3.击杀僵尸有15%概率产生阳光（每场最多500）
+Effekt: 1. Erhöht den Giftschaden um 20 %. 2. Reduziert die Abkühlzeit beim Pflanzen um 25 %. 3. Das Töten von Zombies hat eine 15%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel)
 
 [SUPER_CLOCK_10_BOOST_DES_4]
-效果：1.毒系伤害增加24% 2.种植冷却时间缩短30% 3.击杀僵尸有18%概率产生阳光（每场最多500）
+Effekt: 1. Giftschaden um 24 % erhöht. 2. Abklingzeit des Pflanzens um 30 % verkürzt. 3. Beim Töten von Zombies besteht eine Chance von 18 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_10_BOOST_DES_5]
-效果：1.毒系伤害增加27% 2.种植冷却时间缩短35% 3.击杀僵尸有22%概率产生阳光（每场最多500）
+Effekt: 1. Giftschaden um 27 % erhöht. 2. Abklingzeit des Pflanzens um 35 % verkürzt. 3. Beim Töten von Zombies besteht eine Chance von 22 %, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_11]
-杀虫剂
+Insektizid
 
 [SUPER_CLOCK_11_DES]
-效果依旧和当年一样，还是原来的味道，原来的感觉，只是使用起来有点麻烦
+Der Effekt ist derselbe wie zuvor, der ursprüngliche Geschmack und das ursprüngliche Gefühl bleiben erhalten, die Anwendung ist jedoch etwas umständlich.
 
 [SUPER_CLOCK_11_BOOST_DES]
-效果：1.毒系伤害增加10% 2.种植冷却时间缩短12% 3.未解锁
+Effekt: 1. Giftschaden 10 % erhöht. 2. Abklingzeit des Pflanzens um 12 % verkürzt. 3. Freigeschaltet.
 
 [SUPER_CLOCK_11_BOOST_DES_1]
-效果：1.毒系伤害增加12% 2.种植冷却时间缩短15% 3.未解锁
+Effekt: 1. Giftschaden um 12 % erhöht. 2. Abklingzeit des Pflanzens um 15 % verkürzt. 3. Freigeschaltet.
 
 [SUPER_CLOCK_11_BOOST_DES_2]
-效果：1.毒系伤害增加15% 2.种植冷却时间缩短18% 3.未解锁
+Effekt: 1. Giftschaden um 15 % erhöht. 2. Abklingzeit des Pflanzens um 18 % verkürzt. 3. Freigeschaltet.
 
 [SUPER_CLOCK_11_BOOST_DES_3]
-效果：1.毒系伤害增加18% 2.种植冷却时间缩短20% 3.休息时间缩短15%
+Effekt: 1. Giftschaden um 18 % erhöht. 2. Abklingzeit des Pflanzens um 20 % verkürzt. 3. Ruhezeit um 15 % verkürzt.
 
 [SUPER_CLOCK_11_BOOST_DES_4]
-效果：1.毒系伤害增加20% 2.种植冷却时间缩短25% 3.休息时间缩短18%
+Effekt: 1. Giftschaden um 20 % erhöht. 2. Abklingzeit des Pflanzens um 25 % verkürzt. 3. Ruhezeit um 18 % reduzieren
 
 [SUPER_CLOCK_11_BOOST_DES_5]
-效果：1.毒系伤害增加22% 2.种植冷却时间缩短30% 3.休息时间缩短25%
+Effekt: 1. Giftschaden um 22 % erhöhen 2. Abklingzeit des Pflanzens um 30 % reduzieren 3. Ruhezeit um 25 % verkürzen
 
 [SUPER_CLOCK_12]
-大爆竹
+Großer Kracher
 
 [SUPER_CLOCK_12_DES]
-瞧瞧，这大家伙，分量十分充足，不管是谁来都可以炸飞
+Seht euch mal den großen Kerl an! Er ist echt schwer. Egal wer kommt, er kann ihn in die Luft jagen.
 
 [SUPER_CLOCK_12_BOOST_DES]
-效果：1.爆炸伤害增加10% 2.休息时间缩短8% 3.未解锁
+Effekt: 1. Explosionsschaden um 10 % erhöhen 2. Ruhezeit um 8 % reduzieren 3. Freigeschaltet
 
 [SUPER_CLOCK_12_BOOST_DES_1]
-效果：1.爆炸伤害增加12% 2.休息时间缩短10% 3.未解锁
+Effekt: 1. Explosionsschaden um 12 % erhöhen 2. Ruhezeit um 10 % reduzieren 3. Freigeschaltet
 
 [SUPER_CLOCK_12_BOOST_DES_2]
-效果：1.爆炸伤害增加16% 2.休息时间缩短12% 3.未解锁
+Effekt: 1. Erhöht den Explosionsschaden um 16 %. 2. Reduziert die Ruhezeit um 12 %. 3. Freigeschaltet
 
 [SUPER_CLOCK_12_BOOST_DES_3]
-效果：1.爆炸伤害增加20% 2.休息时间缩短15% 3.击杀僵尸有15%概率产生阳光（每场最多500）
+Effekt: 1. Erhöht den Explosionsschaden um 20 %. 2. Reduziert die Ruhezeit um 15 %. 3. Das Töten von Zombies hat eine 15%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_12_BOOST_DES_4]
-效果：1.爆炸伤害增加24% 2.休息时间缩短18% 3.击杀僵尸有18%概率产生阳光（每场最多500）
+Effekt: 1. Erhöht den Explosionsschaden um 24 %. 2. Reduziert die Ruhezeit um 18 %. 3. Das Töten von Zombies hat eine 18%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_12_BOOST_DES_5]
-效果：1.爆炸伤害增加27% 2.休息时间缩短25% 3.击杀僵尸有22%概率产生阳光（每场最多500）
+Effekt: 1. Erhöht den Explosionsschaden um 27 %. 2. Reduziert die Ruhezeit um 25 % 3. Das Töten von Zombies hat eine 22-prozentige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_13]
-爆竹
+Knallkörper
 
 [SUPER_CLOCK_13_DES]
-精简小巧，方便携带的爆竹，别看它只有一点点大，使用得当必有奇效
+Einfache und kompakte, leicht zu tragende Knallkörper. Sie sind nicht nur ein bisschen groß, sondern entfalten bei richtiger Anwendung wundersame Effekte.
 
 [SUPER_CLOCK_13_BOOST_DES]
-效果：1.爆炸伤害增加10% 2.休息时间缩短8% 3.未解锁
+Effekt: 1. Erhöht den Explosionsschaden um 10 %. 2. Reduziert die Ruhezeit um 8 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_13_BOOST_DES_1]
-效果：1.爆炸伤害增加12% 2.休息时间缩短10% 3.未解锁
+Effekt: 1. Erhöht den Explosionsschaden um 12 %. 2. Reduziert die Ruhezeit um 10 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_13_BOOST_DES_2]
-效果：1.爆炸伤害增加15% 2.休息时间缩短12% 3.未解锁
+Effekt: 1. Erhöht den Explosionsschaden um 15 %. 2. Reduziert die Ruhezeit um 12 % 3. Freigeschaltet
 
 [SUPER_CLOCK_13_BOOST_DES_3]
-效果：1.爆炸伤害增加18% 2.休息时间缩短15% 3.降低阳光消耗20点
+Effekt: 1. Erhöht den Explosionsschaden um 18 % 2. Reduziert die Ruhezeit um 15 % 3. Reduziert den Sonnenlichtverbrauch um 20 Punkte
 
 [SUPER_CLOCK_13_BOOST_DES_4]
-效果：1.爆炸伤害增加20% 2.休息时间缩短18% 3.降低阳光消耗25点
+Effekt: 1. Erhöht den Explosionsschaden um 20 % 2. Reduziert die Ruhezeit um 18 % 3. Reduziert den Sonnenlichtverbrauch um 25 Punkte
 
 [SUPER_CLOCK_13_BOOST_DES_5]
-效果：1.爆炸伤害增加22% 2.休息时间缩短20% 3.降低阳光消耗30点
-
+Effekt: 1. Erhöht den Explosionsschaden um 22 % 2. Reduziert die Ruhezeit um 20 % 3. Reduziert den Sonnenlichtverbrauch um 30 Punkte
 
 [SUPER_CLOCK_14]
-小时钟
+Kleine Uhr
 
 [SUPER_CLOCK_14_DES]
-小巧的时钟，里面蕴藏着和潘妮穿越时空一样的力量
+Eine kleine Uhr, die die gleiche Kraft wie Pennys Zeitreise enthält.
 
 [SUPER_CLOCK_14_BOOST_DES]
-效果：1.有10%的概率重置植物的种植冷却时间 2.种植冷却时间缩短10% 3.未解锁
+Effekt: 1. Es besteht eine 10%ige Chance, die Abklingzeit des Pflanzens zurückzusetzen. 2. Die Abklingzeit des Pflanzens wird um 10 % verkürzt. 3. Freigeschaltet.
 
 [SUPER_CLOCK_14_BOOST_DES_1]
-效果：1.有13%的概率重置植物的种植冷却时间 2.种植冷却时间缩短13% 3.未解锁
+Effekt: 1. Es besteht eine 13%ige Chance, die Abklingzeit des Pflanzens zurückzusetzen. 2. Die Abklingzeit des Pflanzens wird um 13 % verkürzt. 3. Freigeschaltet.
 
 [SUPER_CLOCK_14_BOOST_DES_2]
-效果：1.有16%的概率重置植物的种植冷却时间 2.种植冷却时间缩短16% 3.未解锁
+Effekt: 1. Es besteht eine 16%ige Chance, die Abklingzeit des Pflanzens zurückzusetzen. 2. Die Abklingzeit des Pflanzens wird um 16 % verkürzt. 3. Freigeschaltet
 
 [SUPER_CLOCK_14_BOOST_DES_3]
-效果：1.有19%的概率重置植物的种植冷却时间 2.种植冷却时间缩短19% 3.种植时返回10%消耗阳光
+Effekt: 1. Die Abklingzeit beim Pflanzen wird mit einer Chance von 19 % zurückgesetzt. 2. Die Abklingzeit beim Pflanzen wird um 19 % verkürzt. 3. 10 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [SUPER_CLOCK_14_BOOST_DES_4]
-效果：1.有19%的概率重置植物的种植冷却时间 2.种植冷却时间缩短19% 3.种植时返回13%消耗阳光
+Effekt: 1. Die Abklingzeit beim Pflanzen wird mit einer Chance von 19 % zurückgesetzt. 2. Die Abklingzeit beim Pflanzen wird um 19 % verkürzt. 3. 13 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [SUPER_CLOCK_14_BOOST_DES_5]
-效果：1.有25%的概率重置植物的种植冷却时间 2.种植冷却时间缩短25% 3.种植时返回16%消耗阳光
+Effekt: 1. Die Abklingzeit beim Pflanzen wird mit einer Chance von 25 % zurückgesetzt. 2. Die Abklingzeit beim Pflanzen wird um 25 % verkürzt. 3. 16 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [SUPER_CLOCK_15]
-加速时钟
+Beschleunigung Die Uhr
 
 [SUPER_CLOCK_15_DES]
-小巧的时钟，零件保存完好，里面蕴藏着和潘妮穿越时空一样的力量
+Eine kleine Uhr mit gut erhaltenen Teilen, die dieselbe Kraft wie Pennys Zeitreise besitzt.
 
 [SUPER_CLOCK_15_BOOST_DES]
-效果：1.有10%的概率重置植物的种植冷却时间 2.种植冷却时间缩短10% 3.未解锁
+Effekt: 1. Die Pflanz-Abklingzeit der Pflanze wird mit einer Chance von 10 % zurückgesetzt. 2. Die Pflanz-Abklingzeit wird um 10 % verkürzt. 3. Freigeschaltet.
 
 [SUPER_CLOCK_15_BOOST_DES_1]
-效果：1.有16%的概率重置植物的种植冷却时间 2.种植冷却时间缩短16% 3.未解锁
+Effekt: 1. Die Pflanz-Abklingzeit von Pflanzen wird mit einer Chance von 16 % zurückgesetzt. 2. Die Pflanz-Abklingzeit wird um 16 % verkürzt. 3. Freigeschaltet.
 
 [SUPER_CLOCK_15_BOOST_DES_2]
-效果：1.有19%的概率重置植物的种植冷却时间 2.种植冷却时间缩短19% 3.未解锁
+Effekt: 1. Die Pflanz-Abklingzeit von Pflanzen wird mit einer Chance von 19 % zurückgesetzt. 2. Die Pflanz-Abklingzeit wird um 19 % verkürzt. 3. Freigeschaltet. Freigeschaltet
 
 [SUPER_CLOCK_15_BOOST_DES_3]
-效果：1.有25%的概率重置植物的种植冷却时间 2.种植冷却时间缩短25% 3.种植时返回10%消耗阳光
+Effekt: 1. Die Abklingzeit von Pflanzen wird mit einer Chance von 25 % zurückgesetzt. 2. Die Abklingzeit wird um 25 % verkürzt. 3. 10 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [SUPER_CLOCK_15_BOOST_DES_4]
-效果：1.有31%的概率重置植物的种植冷却时间 2.种植冷却时间缩短31% 3.种植时返回15%消耗阳光
+Effekt: 1. Die Abklingzeit von Pflanzen wird mit einer Chance von 31 % zurückgesetzt. 2. Die Abklingzeit wird um 31 % verkürzt. 3. 15 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [SUPER_CLOCK_15_BOOST_DES_5]
-效果：1.有37%的概率重置植物的种植冷却时间 2.种植冷却时间缩短37% 3.种植时返回20%消耗阳光
+Effekt: 1. Die Abklingzeit von Pflanzen wird mit einer Chance von 37 % zurückgesetzt. 2. Die Abklingzeit wird um 37 % verkürzt. 3. 20 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [SUPER_CLOCK_16]
-警用电击棍
+Polizei Elektroschocker
 
 [SUPER_CLOCK_16_DES]
-蕴含着强大电力的武器，防僵尸必备，不过仅限专业人员使用
+Waffen mit starker Elektrizität sind für die Zombie-Abwehr unerlässlich, aber nur für Profis.
 
 [SUPER_CLOCK_16_BOOST_DES]
-效果：1.闪电伤害增加12% 2.增加攻速5% 3.未解锁
+Effekt: 1. Erhöht den Blitzschaden um 12 %. 2. Erhöht die Angriffsgeschwindigkeit um 5 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_16_BOOST_DES_1]
-效果：1.闪电伤害增加15% 2.增加攻速7% 3.未解锁
+Effekt: 1. Erhöht den Blitzschaden um 15 %. 2. Erhöht die Angriffsgeschwindigkeit um 7 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_16_BOOST_DES_2]
-效果：1.闪电伤害增加18% 2.增加攻速9% 3.未解锁
+Effekt: 1. Erhöht den Blitzschaden um 18 %. 2. Erhöht die Angriffsgeschwindigkeit um 9 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_16_BOOST_DES_3]
-效果：1.闪电伤害增加20% 2.增加攻速12% 3.种植冷却时间缩短10%
+Effekt: 1. Erhöht den Blitzschaden um 20 %. 2. Erhöht die Angriffsgeschwindigkeit um 12 %. 3. Verkürzt die Abklingzeit des Pflanzens um 10 %
 
 [SUPER_CLOCK_16_BOOST_DES_4]
-效果：1.闪电伤害增加25% 2.增加攻速15% 3.种植冷却时间缩短20%
+Effekt: 1. Erhöht den Blitzschaden um 25 %. 2. Erhöht die Angriffsgeschwindigkeit um 15 %. 3. Verkürzt die Abklingzeit des Landens um 20 %.
 
 [SUPER_CLOCK_16_BOOST_DES_5]
-效果：1.闪电伤害增加30% 2.增加攻速20% 3.种植冷却时间缩短30%
+Effekt: 1. Erhöht den Blitzschaden um 30 %. 2. Erhöht die Angriffsgeschwindigkeit um 20 %. 3. Verkürzt die Abklingzeit des Landens um 30 %.
 
 [SUPER_CLOCK_17]
-电击棍
+Elektroschocker
 
 [SUPER_CLOCK_17_DES]
-蕴含着强大电力的武器，防僵尸必备，适合所有人员使用
+Waffen mit starker Elektrizität, unverzichtbar für die Zombie-Abwehr, für alle geeignet.
 
 [SUPER_CLOCK_17_BOOST_DES]
-效果：1.闪电伤害增加10% 2.增加攻速4% 3.未解锁
+Effekt: 1. Erhöht den Blitzschaden um 10 %. 2. Erhöht die Angriffsgeschwindigkeit um 4 %. 3. Freigeschaltet
 
 [SUPER_CLOCK_17_BOOST_DES_1]
-效果：1.闪电伤害增加12% 2.增加攻速6% 3.未解锁
+Effekt: 1. Erhöht den Blitzschaden um 12 %. 2. Erhöht die Angriffsgeschwindigkeit um 6 %. 3. Freigeschaltet
 
 [SUPER_CLOCK_17_BOOST_DES_2]
-效果：1.闪电伤害增加15% 2.增加攻速8% 3.未解锁
+Effekt: 1. Erhöht den Blitzschaden um 15 %. 2. Erhöht die Angriffsgeschwindigkeit um 8 %. 3. Freigeschaltet
 
 [SUPER_CLOCK_17_BOOST_DES_3]
-效果：1.闪电伤害增加18% 2.增加攻速10% 3.击杀僵尸有15%概率产生金币（每次100金币）
+Effekt: 1. Erhöht den Blitzschaden um 18 %. 2. Erhöht die Angriffsgeschwindigkeit um 10 %. 3. Beim Töten von Zombies besteht eine 15%ige Chance, Goldmünzen zu erhalten (je 100 Goldmünzen).
 
 [SUPER_CLOCK_17_BOOST_DES_4]
-效果：1.闪电伤害增加20% 2.增加攻速13% 3.击杀僵尸有20%概率产生金币（每次100金币）
+Effekt: 1. Erhöht den Blitzschaden um 20 %. 2. Erhöht die Angriffsgeschwindigkeit um 13 %. 3. Beim Töten von Zombies besteht eine 20%ige Chance, Goldmünzen zu erhalten. (Jedes Mal 100 Goldmünzen)
 
 [SUPER_CLOCK_17_BOOST_DES_5]
-效果：1.闪电伤害增加25% 2.增加攻速15% 3.击杀僵尸有25%概率产生金币（每次100金币）
+Effekte: 1. Erhöht den Blitzschaden um 25 %. 2. Erhöht die Angriffsgeschwindigkeit um 15 %. 3. Das Töten von Zombies hat eine 25-prozentige Chance, Goldmünzen zu erhalten (jedes Mal 100 Goldmünzen).
 
 [PAINKILLER_1]
-止疼剂
+Schmerzmittel
 
 [PAINKILLER_1_DES]
-当你疼的时候，没有什么能比止疼剂更能让人安心了。当前，请在医生的指导下使用哦！
+Bei Schmerzen gibt es nichts Besseres als Schmerzmittel. Bitte verwenden Sie diese nur unter ärztlicher Aufsicht!
 
 [PAINKILLER_1_BOOST_DES]
-效果：1.每3秒回复150点生命 2.生命提升15% 3.未解锁
+Effekt: 1. Alle 3 Sekunden 150 Lebenspunkte wiederherstellen. 2. Lebenspunkte um 15 % erhöhen. 3. Freigeschaltet.
 
 [PAINKILLER_1_BOOST_DES_1]
-效果：1.每3秒回复170点生命 2.生命提升18% 3.未解锁
+Effekt: 1. Alle 3 Sekunden 170 Lebenspunkte wiederherstellen. 2. Lebenspunkte um 18 % erhöhen. 3. Freigeschaltet.
 
 [PAINKILLER_1_BOOST_DES_2]
-效果：1.每3秒回复190点生命 2.生命提升21% 3.未解锁
+Effekt: 1. Alle 3 Sekunden 190 Lebenspunkte wiederherstellen. 2. Lebenspunkte um 21 % erhöhen. 3. Freigeschaltet.
 
 [PAINKILLER_1_BOOST_DES_3]
-效果：1.每3秒回复210点生命 2.生命提升24% 3.每秒受到的伤害超过500点时，下一秒受到的伤害降低30%
+Effekt: 1. Alle 3 Sekunden 210 Lebenspunkte wiederherstellen. 2. Lebenspunkte um 24 % erhöhen. 3. Wenn der erlittene Schaden pro Sekunde 500 Punkte überschreitet, wird der erlittene Schaden in der nächsten Sekunde um 30 %
 
 [PAINKILLER_1_BOOST_DES_4]
-效果：1.每3秒回复230点生命 2.生命提升27% 3.每秒受到的伤害超过500点时，下一秒受到的伤害降低40%
+Effekt: 1. Alle 3 Sekunden 230 Lebenspunkte wiederherstellen. 2. Lebenspunkte um 27 % erhöhen. 3. Wenn der erlittene Schaden pro Sekunde 500 Punkte überschreitet, wird der erlittene Schaden in der nächsten Sekunde um 40 % reduziert.
 
 [PAINKILLER_1_BOOST_DES_5]
-效果：1.每3秒回复250点生命 2.生命提升30% 3.每秒受到的伤害超过500点时，下一秒受到的伤害降低50%
+Effekt: 1. Alle 3 Sekunden 250 Lebenspunkte wiederherstellen. 2. Lebenspunkte um 30 % erhöhen. 3. Wenn der erlittene Schaden pro Sekunde 500 Punkte überschreitet, wird der erlittene Schaden in der nächsten Sekunde um 50 % reduziert.
 
 [PAINKILLER_2]
-止疼片
+Schmerzmittel
 
 [PAINKILLER_2_DES]
-当你疼的时候，可以来两片止疼片来缓解疼痛。虽然效果可能不太好，但是强在谁都能用。
+Bei Schmerzen können Sie zwei Schmerzmittel einnehmen, um die Schmerzen zu lindern. Auch wenn die Wirkung möglicherweise nicht besonders gut ist, ist der Vorteil, dass sie von jedem angewendet werden können.
 
 [PAINKILLER_2_BOOST_DES]
-效果：1.每3秒回复120点生命 2.种植冷却时间缩短10% 3.未解锁
+Effekt: 1. Alle 3 Sekunden 120 LP wiederherstellen. 2. Abklingzeit des Pflanzens um 10 % reduzieren. 3. Freigeschaltet.
 
 [PAINKILLER_2_BOOST_DES_1]
-效果：1.每3秒回复140点生命 2.种植冷却时间缩短12% 3.未解锁
+Effekt: 1. Alle 3 Sekunden 140 LP wiederherstellen. 2. Abklingzeit des Pflanzens um 12 % reduzieren. 3. Freigeschaltet.
 
 [PAINKILLER_2_BOOST_DES_2]
-效果：1.每3秒回复160点生命 2.种植冷却时间缩短14% 3.未解锁
+Effekt: 1. Alle 3 Sekunden 160 LP wiederherstellen. 2. Abklingzeit des Pflanzens um 14 % reduzieren. 3. Freigeschaltet.
 
 [PAINKILLER_2_BOOST_DES_3]
-效果：1.每3秒回复180点生命 2.种植冷却缩短16% 3.每秒受到伤害超过500点时，下一秒受到的伤害降低10%
+Effekt: 1. Alle 3 Sekunden 180 LP wiederherstellen. 2. Abklingzeit des Pflanzens um 16 % reduzieren. 3. Wenn der erlittene Schaden pro Sekunde 500 Punkte überschreitet, wird der erlittene Schaden in der nächsten Sekunde um 10 %
 
 [PAINKILLER_2_BOOST_DES_4]
-效果：1.每3秒回复200点生命 2.种植冷却缩短18% 3.每秒受到伤害超过500点时，下一秒受到的伤害降低20%
+Effekt: 1. Regeneriert alle 3 Sekunden 200 LP. 2. Reduziert die Abklingzeit des Pflanzens um 18 %. 3. Wenn der erlittene Schaden pro Sekunde 500 Punkte überschreitet, wird der erlittene Schaden in der nächsten Sekunde um 20 % reduziert.
 
 [PAINKILLER_2_BOOST_DES_5]
-效果：1.每3秒回复220点生命 2.种植冷却缩短20% 3.每秒受到伤害超过500点时，下一秒受到的伤害降低30%
+Effekt: 1. Regeneriert alle 3 Sekunden 220 LP. 2. Reduziert die Abklingzeit des Pflanzens um 20 %. 3. Wenn der erlittene Schaden pro Sekunde 500 Punkte überschreitet, wird der erlittene Schaden in der nächsten Sekunde um 30 % reduziert.
 
 [SLINGSHOT_1]
-金属弹弓
+Metallschleuder
 
 [SLINGSHOT_1_DES]
-全金属打造，更加强大的冲击力！不过使用有危险，注意不要误伤哦。
+Vollmetallschleuder mit höherer Durchschlagskraft! Die Verwendung ist jedoch gefährlich. Vorsicht also, um andere nicht versehentlich zu verletzen.
 
 [SLINGSHOT_1_BOOST_DES]
-效果：1.攻击力增加18% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加5%（至多增加50%） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 18 %. 2. Wenn 5 Sekunden lang nicht angegriffen wird, erhöht sich der Schaden des nächsten Angriffs jede Sekunde um 5 % (bis zu 50 %). 3. Freigeschaltet.
 
 [SLINGSHOT_1_BOOST_DES_1]
-效果：1.攻击力增加21% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加6%（至多增加60%） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 21 %. 2. Wenn 5 Sekunden lang nicht angegriffen wird, erhöht sich der Schaden des nächsten Angriffs jede Sekunde um 6 % (bis zu 60 %). 3. Freigeschaltet.
 
 [SLINGSHOT_1_BOOST_DES_2]
-效果：1.攻击力增加24% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加7%（至多增加70%） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 24 %. 2. Wenn 5 Sekunden lang nicht angegriffen wird, erhöht sich der Schaden des nächsten Angriffs jede Sekunde um 7 % (bis zu 70 %). 3. Freigeschaltet.
 
 [SLINGSHOT_1_BOOST_DES_3]
-效果：1.攻击力增加27% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加8%（至多增加80%） 3.种植冷却时间缩短20%
+Effekt: 1. Erhöht die Angriffskraft um 27 %. 2. Wenn Greift man 5 Sekunden lang nicht an, erhöht sich der Schaden des nächsten Angriffs jede Sekunde um 8 % (bis zu 80 %). 3. Die Abklingzeit des Pflanzens verkürzt sich um 20 %.
 
 [SLINGSHOT_1_BOOST_DES_4]
-效果：1.攻击力增加30% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加9%（至多增加90%） 3.种植冷却时间缩短25%
+Effekt: 1. Erhöht die Angriffskraft um 30 %. 2. Greift man 5 Sekunden lang nicht an, erhöht sich der Schaden des nächsten Angriffs jede Sekunde um 9 % (bis zu 90 %). 3. Die Abklingzeit des Pflanzens verkürzt sich um 25 %.
 
 [SLINGSHOT_1_BOOST_DES_5]
-效果：1.攻击力增加33% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加10%（至多增加100%） 3.种植冷却时间缩短30%
+Effekt: 1. Erhöht die Angriffskraft um 33 %. 2. Greift man 5 Sekunden lang nicht an, erhöht sich der Schaden des nächsten Angriffs jede Sekunde um 10 % (bis zu 100 %). 3. Die Abklingzeit des Pflanzens verkürzt sich um 30 %.
 
 [SLINGSHOT_2]
-木质弹弓
+Holz Schleuder
 
 [SLINGSHOT_2_DES]
-木质手柄，握感舒适，能够有效射击！不过使用有危险，注意不要误伤哦。
+Holzgriff, angenehm in der Hand, für effektives Schießen! Die Benutzung ist jedoch gefährlich. Vorsicht vor versehentlichen Verletzungen.
 
 [SLINGSHOT_2_BOOST_DES]
-效果：1.攻击力增加10% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加1%（至多增加10%） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 10 %. 2. Erhöht den Schaden des nächsten Angriffs nach 5 Sekunden Inaktivität jede Sekunde um 1 % (bis zu 10 %). 3. Freigeschaltet.
 
 [SLINGSHOT_2_BOOST_DES_1]
-效果：1.攻击力增加13% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加2%（至多增加20%） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 13 %. 2. Erhöht den Schaden des nächsten Angriffs nach 5 Sekunden Inaktivität jede Sekunde um 2 % (bis zu 20 %). 3. Freigeschaltet.
 
 [SLINGSHOT_2_BOOST_DES_2]
-效果：1.攻击力增加16% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加3%（至多增加30%） 3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 16 %. 2. Erhöht den Schaden des nächsten Angriffs nach 5 Sekunden Inaktivität jede Sekunde um 3 % (bis zu 30 %). 3. Freigeschaltet.
 
 [SLINGSHOT_2_BOOST_DES_3]
-效果：1.攻击力增加19% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加4%（至多增加40%） 3.种植时返回10%消耗阳光
+Effekt: 1. Erhöht die Angriffskraft um 19 %. 2. Wenn du 5 Sekunden lang nicht angreifst, erhöht sich der Schaden des nächsten Angriffs jede weitere Sekunde um 4 % (bis zu 40 %). 3. 10 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [SLINGSHOT_2_BOOST_DES_4]
-效果：1.攻击力增加22% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加5%（至多增加50%） 3.种植时返回15%消耗阳光
+Effekt: 1. Erhöht die Angriffskraft um 22 %. 2. Wenn du 5 Sekunden lang nicht angreifst, erhöht sich der Schaden des nächsten Angriffs jede weitere Sekunde um 5 % (bis zu 50 %). 3. 15 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [SLINGSHOT_2_BOOST_DES_5]
-效果：1.攻击力增加25% 2.当5秒未攻击时，之后每1秒使下一次攻击伤害增加6%（至多增加60%） 3.种植时返回20%消耗阳光
+Effekt: 1. Erhöht die Angriffskraft um 25 %. 2. Wenn du 5 Sekunden lang nicht angreifst, erhöht sich der Schaden des nächsten Angriffs jede weitere Sekunde um 6 % (bis zu 60 %). 3. 20 % des beim Pflanzen verbrauchten Sonnenlichts werden zurückgegeben.
 
 [MAGIC_BOOK_1]
-高阶魔法书
+Fortgeschrittene Magie Buch
 
 [MAGIC_BOOK_1_DES]
-从老旧书箱里翻出来的书，但轻轻掸一下积攒的灰后像一本刚买的新书，该说不愧是魔法书吗。
+Dieses Buch wurde in einem alten Bücherregal gefunden. Nach dem vorsichtigen Abstauben sieht es aus wie neu gekauft. Es ist tatsächlich ein Zauberbuch.
 
 [MAGIC_BOOK_1_BOOST_DES]
-效果：1.魔法伤害增加10% 2.定身控制时长增加1% 3.未解锁
+Effekt: 1. Erhöht den magischen Schaden um 10 %. 2. Erhöht die Dauer der Bewegungslosigkeit um 1 %. 3. Freigeschaltet.
 
 [MAGIC_BOOK_1_BOOST_DES_1]
-效果：1.魔法伤害增加12% 2.定身控制时长增加2% 3.未解锁
+Effekt: 1. Erhöht den magischen Schaden um 12 %. 2. Erhöht die Dauer der Bewegungslosigkeit um 2 %. 3. Freigeschaltet.
 
 [MAGIC_BOOK_1_BOOST_DES_2]
-效果：1.魔法伤害增加16% 2.定身控制时长增加4% 3.未解锁
+Effekt: 1. Erhöht den magischen Schaden um 16 %. 2. Erhöht die Dauer der Bewegungslosigkeit um 4 %. 3. Freigeschaltet.
 
 [MAGIC_BOOK_1_BOOST_DES_3]
-效果：1.魔法伤害增加20% 2.定身控制时长增加6% 3.种植返还10%阳光花费
+Effekt: 1. Erhöht den magischen Schaden um 20 %. 2. Erhöht die Dauer der Bewegungslosigkeit um 6 %. 3. Pflanzen gibt 10 % der Sonnenlichtkosten zurück.
 
 [MAGIC_BOOK_1_BOOST_DES_4]
-效果：1.魔法伤害增加24% 2.定身控制时长增加8% 3.种植返还15%阳光花费
+Effekt: 1. Erhöht den magischen Schaden 2. Erhöht die Dauer der Immobilisierung um 24 %. 3. Das Pflanzen gibt 15 % der Sonnenlichtkosten zurück.
 
 [MAGIC_BOOK_1_BOOST_DES_5]
-效果：1.魔法伤害增加27% 2.定身控制时长增加10% 3.种植返还20%阳光花费
+Effekte: 1. Erhöhter Magieschaden um 27 %. 2. Erhöhte Dauer der Immobilisierungskontrolle um 10 %. 3. Das Pflanzen gibt 20 % der Sonnenlichtkosten zurück.
 
 [MAGIC_BOOK_2]
-学徒魔法书
+Buch der Zauberlehrlinge
 
 [MAGIC_BOOK_2_DES]
-从老旧书箱底翻出来的书，抖了一下掉了一片书页，哎！应该不会有人知道怎么弄坏的吧。
+In dem Buch, das ich unten in einem alten Bücherregal gefunden habe, ist beim Schütteln eine Seite abgefallen. Hey! Niemand sollte wissen, wie es beschädigt wurde.
 
 [MAGIC_BOOK_2_BOOST_DES]
-效果：1.魔法伤害增加10% 2.定身控制时长增加1% 3.未解锁
-使用
+Effekt: 1. Erhöht den magischen Schaden um 10 %. 2. Erhöht die Dauer der Immobilisierung um 1 %. 3. Freigeschaltet.
+Benutzen
 [MAGIC_BOOK_2_BOOST_DES_1]
-效果：1.魔法伤害增加12% 2.定身控制时长增加2% 3.未解锁
+Effekt: 1. Erhöht den magischen Schaden um 12 %. 2. Erhöht die Dauer der Immobilisierung um 2 %. 3. Freigeschaltet.
 
 [MAGIC_BOOK_2_BOOST_DES_2]
-效果：1.魔法伤害增加15% 2.定身控制时长增加3% 3.未解锁
+Effekt: 1. Erhöht den magischen Schaden um 15 %. 2. Erhöht die Dauer der Immobilisierung um 3 %. 3. Freigeschaltet.
 
 [MAGIC_BOOK_2_BOOST_DES_3]
-效果：1.魔法伤害增加18% 2.定身控制时长增加4% 3.种植冷却时间缩短10%
+Effekt: 1. Erhöht den magischen Schaden um 18 %. 2. Erhöht die Dauer der Immobilisierung um 4 %. 3. Verkürzt die Abklingzeit des Pflanzens um 10 %.
 
 [MAGIC_BOOK_2_BOOST_DES_4]
-效果：1.魔法伤害增加20% 2.定身控制时长增加6% 3.种植冷却时间缩短15%
+Effekt: 1. Erhöht den magischen Schaden um 20 %. 2. Erhöht die Dauer der Immobilisierung um 6 %. 3. Verkürzt die Abklingzeit des Einpflanzens um 15 %.
 
 [MAGIC_BOOK_2_BOOST_DES_5]
-效果：1.魔法伤害增加22% 2.定身控制时长增加8% 3.种植冷却时间缩短20%
+Effekt: 1. Erhöht den magischen Schaden um 22 %. 2. Erhöht die Dauer der Immobilisierungskontrolle um 8 %. 3. Verkürzt die Abklingzeit des Einpflanzens um 20 %.
 
 [SUN_GEAR_1]
-阳光齿轮
+Sonnenausrüstung
 
 [SUN_GEAR_1_DES]
-不知从哪辆车上掉下的齿轮，竟然还有阳光的图案。
+Ich weiß nicht, aus welchem Auto es gefallen ist, aber es hat ein Sonnenmuster.
 
 [SUN_GEAR_1_BOOST_DES]
-效果：1.阳光产出增加20点并略微提升防护能力。^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短15% 3.未解锁
+Effekt: 1. Erhöht die Sonnenlichtausbeute um 20 Punkte und verbessert die Schutzfähigkeit leicht. ^FF0000 Nur verfügbar für Sonnenlichtpflanzen der Stufe 4^oldclr 2. Reduziert die Abklingzeit des Pflanzens um 15 %. 3. Freigeschaltet
 
 [SUN_GEAR_1_BOOST_DES_1]
-效果：1.阳光产出增加20点并略微提升防护能力。^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短18% 3.未解锁
+Effekt: 1. Erhöht die Sonnenlichtausbeute um 20 Punkte und verbessert die Schutzfähigkeit leicht. ^FF0000 Nur verfügbar für Sonnenlichtpflanzen der Stufe 4^oldclr 2. Reduziert die Abklingzeit des Pflanzens um 18 %. 3. Freigeschaltet
 
 [SUN_GEAR_1_BOOST_DES_2]
-效果：1.阳光产出增加20点并略微提升防护能力。^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短21% 3.未解锁
+Effekt: 1. Erhöht die Sonnenlichtausbeute um 20 Punkte und erhöht den Schutz leicht. ^FF0000 Nur verfügbar für Sonnenlichtpflanzen der Stufe 4^oldclr 2. Reduziert die Abklingzeit des Pflanzens um 21 %. 3. Freigeschaltet
 
 [SUN_GEAR_1_BOOST_DES_3]
-效果：1.阳光产出增加25点并略微提升防护能力。^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短24% 3.种植时返回15%消耗阳光
+Effekt: 1. Erhöht die Sonnenlichtausbeute um 25 Punkte und erhöht den Schutz leicht. ^FF0000 Nur verfügbar für Sonnenscheinpflanzen der Stufe 4^oldclr 2. Abklingzeit beim Pflanzen um 24 % reduziert 3. Gibt 15 % des beim Pflanzen verbrauchten Sonnenlichts zurück.
 
 [SUN_GEAR_1_BOOST_DES_4]
-效果：1.阳光产出增加25点并略微提升防护能力。^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短27% 3.种植时返回20%消耗阳光
+Effekt: 1. Erhöht die Sonnenlichtausbeute um 25 Punkte und erhöht den Schutz leicht. ^FF0000 Nur verfügbar für Sonnenscheinpflanzen der Stufe 4^oldclr 2. Abklingzeit beim Pflanzen um 27 % reduziert 3. Gibt 20 % des beim Pflanzen verbrauchten Sonnenlichts zurück.
 
 [SUN_GEAR_1_BOOST_DES_5]
-效果：1.阳光产出增加25点并略微提升防护能力。^FF0000 仅限四阶阳光系植物使用^oldclr 2.种植冷却时间缩短30% 3.种植时返回25%消耗阳光
-
+Effekt: 1. Erhöht die Sonnenlichtausbeute um 25 Punkte und erhöht die Verteidigung leicht. ^FF0000 Nur verfügbar für Sonnenscheinpflanzen der Stufe 4^oldclr 2. Abklingzeit beim Pflanzen um 30 % reduziert 3. 25 % des verbrauchten Sonnenscheins beim Pflanzen werden zurückgegeben
 
 [TRAVEL_TOGETHER_1]
-时光胶囊
+Zeitkapsel
 
 [TRAVEL_TOGETHER_1_DES]
-埋入地下的时光胶囊，里面装着和玩伴之间的欢乐回忆，长大再打开吧！
+Die unter der Erde vergrabene Zeitkapsel enthält schöne Erinnerungen mit Spielkameraden. Öffne sie, wenn du groß bist!
 
 [TRAVEL_TOGETHER_1_BOOST_DES]
-效果：1.种植冷却时间缩短15%   2.休息时间缩短10%    3.未解锁
+Effekt: 1. Abkühlzeit beim Pflanzen um 15 % verkürzt. 2. Ruhezeit um 10 % verkürzt. 3. Freigeschaltet.
 
 [TRAVEL_TOGETHER_1_BOOST_DES_1]
-效果：1.种植冷却时间缩短20%   2.休息时间缩短15%    3.未解锁
+Effekt: 1. Abkühlzeit beim Pflanzen um 20 % verkürzt. 2. Ruhezeit um 15 % verkürzt. 3. Freigeschaltet.
 
 [TRAVEL_TOGETHER_1_BOOST_DES_2]
-效果：1.种植冷却时间缩短25%   2.休息时间缩短20%    3.未解锁
+Effekt: 1. Abkühlzeit beim Pflanzen um 25 % verkürzt. 2. Ruhezeit um 20 % verkürzt. 3. Freigeschaltet.
 
 [TRAVEL_TOGETHER_1_BOOST_DES_3]
-效果：1.种植冷却时间缩短30%   2.休息时间缩短25%    3. 种植时返回15%消耗阳光
+Effekt: 1. Abkühlzeit beim Pflanzen um 30 % verkürzt. 2. Ruhezeit um 25 % verkürzt. 3. 15 % des verbrauchten Sonnenlichts werden zurückgegeben, wenn Pflanzen
 
 [TRAVEL_TOGETHER_1_BOOST_DES_4]
-效果：1.种植冷却时间缩短35%   2.休息时间缩短30%    3. 种植时返回20%消耗阳光
+Effekt: 1. Abklingzeit des Pflanzens um 35 % verkürzt. 2. Ruhezeit um 30 % verkürzt. 3. Gibt 20 % des beim Pflanzen verbrauchten Sonnenlichts zurück.
 
 [TRAVEL_TOGETHER_1_BOOST_DES_5]
-效果：1.种植冷却时间缩短40%   2.休息时间缩短35%    3. 种植时返回25%消耗阳光
+Effekt: 1. Abklingzeit des Pflanzens um 40 % verkürzt. 2. Ruhezeit um 35 % verkürzt. 3. Gibt 25 % des beim Pflanzen verbrauchten Sonnenlichts zurück.
 
 [HERO_CAPE_1]
-降魔披风
+Dämonentötender Umhang
 
 [HERO_CAPE_1_DES]
-某位著名英雄降妖除魔时所穿戴的披风，还存留着英雄的力量。
+Ein Umhang, den ein berühmter Held bei der Dämonenaustreibung trug, bewahrt noch heute die Macht des Helden.
 
 [HERO_CAPE_1_BOOST_DES]
-效果：1.攻击力增加5%   2.种植冷却时间缩短12%    3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 5 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 12 %. 3. Freigeschaltet.
 
 [HERO_CAPE_1_BOOST_DES_1]
-效果：1.攻击力增加10%   2.种植冷却时间缩短15%    3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 10 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 15 %. 3. Freigeschaltet.
 
 [HERO_CAPE_1_BOOST_DES_2]
-效果：1.攻击力增加15%   2.种植冷却时间缩短18%    3.未解锁
+Effekt: 1. Erhöht die Angriffskraft um 15 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 18 %. 3. Freigeschaltet.
 
 [HERO_CAPE_1_BOOST_DES_3]
-效果：1.攻击力增加20%   2.种植冷却时间缩短20%    3.四阶大招概率增加5%
+Effekt: 1. Erhöht die Angriffskraft um 20 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 20 %. 3. Erhöht die Wahrscheinlichkeit des großen Angriffs der vierten Stufe um 5 %.
 
 [HERO_CAPE_1_BOOST_DES_4]
-效果：1.攻击力增加25%   2.种植冷却时间缩短25%    3.四阶大招概率增加10%
+Effekt: 1. Erhöht die Angriffskraft um 25 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 25 %. 3. Erhöht die Wahrscheinlichkeit des großen Angriffs der vierten Stufe um 10 %.
 
 [HERO_CAPE_1_BOOST_DES_5]
-效果：1.攻击力增加30%   2.种植冷却时间缩短30%    3.四阶大招概率增加15%
-
+Effekt: 1. Erhöht die Angriffskraft um 30 %. 2. Verkürzung der Abkühlzeit beim Pflanzen um 30 %. 3. Erhöht die Wahrscheinlichkeit des großen Angriffs der vierten Stufe um 15 %.
 
 [CANDY_BASKET]
-糖果篮子
+Süßigkeitenkorb
 
 [CANDY_BASKET_DES]
-装满糖果的篮子，充满甜蜜和幸福的味道
+Ein Korb voller Süßigkeiten, voller Süße und Glück.
 
 [CANDY_BASKET_BOOST_DES]
-效果：1.攻击力增加5%   2.攻击间隔缩短12%    3.击杀时特效触发概率15%
+Effekt: 1. Erhöht die Angriffskraft um 5 %. 2. Verkürzung des Angriffsintervalls um 12 %. 3. Die Wahrscheinlichkeit, dass Spezialeffekte beim Töten ausgelöst werden, beträgt 15 %.
 
 [CANDY_BASKET_BOOST_DES_1]
-效果：1.攻击力增加10%   2.攻击间隔缩短15%    3.击杀时特效触发概率25%
+Effekt: 1. Erhöht die Angriffskraft um 10 %. Reduziert das Angriffsintervall um 15 %. 3. Die Wahrscheinlichkeit, dass Spezialeffekte beim Töten ausgelöst werden, beträgt 25 %.
 
 [CANDY_BASKET_BOOST_DES_2]
-效果：1.攻击力增加15%   2.攻击间隔缩短18%    3.击杀时特效触发概率50%
+Effekt: 1. Erhöht die Angriffskraft um 15 %. 2. Reduziert das Angriffsintervall um 18 %. 3. 50 % Chance, dass Spezialeffekte beim Töten ausgelöst werden.
 
 [CANDY_BASKET_BOOST_DES_3]
-效果：1.攻击力增加20%   2.攻击间隔缩短20%    3.击杀时特效触发概率75%
+Effekte: 1. Erhöht die Angriffskraft um 20 %. 2. Reduziert das Angriffsintervall um 20 %. 3. 75 % Chance, dass Spezialeffekte beim Töten ausgelöst werden.
 
 [CANDY_BASKET_BOOST_DES_4]
-效果：1.攻击力增加25%   2.攻击间隔缩短25%    3.击杀时特效触发概率100%
+Effekte: 1. Erhöht die Angriffskraft um 25 %. 2. Reduziert das Angriffsintervall um 25 %. 3. 100 % Chance, dass Spezialeffekte beim Töten ausgelöst werden.
 
 [CANDY_BASKET_BOOST_DES_5]
-效果：1.攻击力增加30%   2.攻击间隔缩短30%    3.击杀时特效触发概率100%
-
+Effekte: 1. Erhöht die Angriffskraft um 30 %. 2. Reduziert die Intervall um 30 % 3. 100 % Chance, dass Spezialeffekte beim Töten ausgelöst werden.
 
 [ADVICE_TAP_BUTTER_POWERUP]
-点击黄油技能按钮！
+Tippe auf die Butter-Fähigkeitstaste!
 
 [ADVICE_USE_BUTTER_POWERUP]
-点击僵尸来定住他！
+Tippe auf den Zombie, um ihn einzufrieren!
 
 [ADVICE_ENCOURAGE_BUTTER_POWERUP]
-使用黄油来使僵尸短时间停止移动！
+Benutze Butter, um Zombies kurzzeitig an der Bewegung zu hindern!
 
 [ADVICE_TAP_MOVEVASE_POWERUP]
-点击移动罐子按钮！
+Tippe auf die Glas bewegen-Taste!
 
 [ADVICE_USE_MOVEVASE_POWERUP_BREAK_VASE]
-现在请砸碎罐子！
+Zerschlage jetzt das Glas!
 
 [ADVICE_USE_MOVEVASE_POWERUP_SELECT_LOCATION]
-把罐子移动到有植物的那一行
+Bewege das Glas zur Pflanzenreihe.
 
 [ADVICE_USE_MOVEVASE_POWERUP_SELECT_VASE]
-现在请点击罐子！
+Tippe jetzt auf das Glas!
 
 [ADVICE_ENCOURAGE_MOVEVASE_POWERUP]
-使用移动技能把罐子移动到有植物的路线上！
+Benutze die Bewegen-Fähigkeit, um das Glas in die Pflanzenreihe zu bewegen!
 
 [ADVICE_TAP_REVEAL_POWERUP]
-点击透视罐子技能按钮！
+Tippe auf die Schaltfläche „Glas anzeigen“!
 
 [ADVICE_USE_REVEAL_POWERUP]
-现在请点击一个罐子！
+Klicke jetzt auf ein Glas!
 
 [ADVICE_ENCOURAGE_REVEAL_POWERUP]
-透视技能可以帮助你做出下一步的选择！
+Die Perspektive-Fähigkeit hilft dir bei deiner nächsten Entscheidung!
 
 [ADVICE_VASEBREAKER_TUTORIAL_1]
-点击一个罐子来查看里面是什么！
+Klicke auf ein Glas, um zu sehen, was drin ist!
 
 [ADVICE_VASEBREAKER_TUTORIAL_2]
-清除所有的罐子和僵尸，完成关卡！
+Entferne alle Gläser und Zombies, um das Level abzuschließen!
 
 [ADVICE_PLANT_NOT_ON_VASES]
-植物不能种植在罐子上！
+Pflanzen können nicht auf Gläsern gepflanzt werden!
 
 [WARNING_BREAK]
-让我们砸碎一切吧！
+Lasst uns alles zerschmettern!
 
 [ACCESSORY_FULL_TITLE]
 Rucksack voll
@@ -18754,132 +18747,132 @@ VIP月卡
 [PRODUCT_PLANTTRIAL_18_DES]
 二阶植物橡果
 
-[DAY1]
-第一天
+[TAG1]
+Tag 1
 
-[DAY2]
-第二天
+[TAG2]
+Tag 2
 
-[DAY3]
-第三天
+[TAG3]
+Tag 3
 
-[DAY4]
-第四天
+[TAG4]
+Tag 4
 
-[DAY5]
-第五天
+[TAG5]
+Tag 5
 
-[DAY6]
-第六天
+[TAG6]
+Tag 6
 
-[DAY7]
-第七天
+[TAG7]
+Tag 7
 
 [PLANT_OBTAINED]
-已领取
+Erhalten
 
 [REDPACK_TITLE]
-全民开红包，好礼来相送！
+Öffnet alle roten Umschläge, Geschenke kommen!
 
 [DUMPLING_TITLE]
-缤纷端午 幸运粽子
+Buntes Drachenbootfest: Glücksbringer-Zongzi
 
 [FESTIVAL_EVENT_TITLE_OLD]
-金秋出游
+Goldener Herbstausflug
 
 [FESTIVAL_EVENT_TITLE]
-童趣乐园
+Kinderparadies
 
 [WELFARE_EVENT_TITLE]
-限时活动
+Zeitlich begrenztes Event
 
 [DAILY_SIGN_EVENT_TITLE]
-签到送好礼
+Anmelden und ein Geschenk erhalten
 
 [EXP_PLANT_EVENT_TITLE]
-体验卡
+Erfahrungskarte
 
 [EXP_PLANT_BUY_REWARD_TITLE]
-获得奖励
+Belohnungen erhalten
 
-[EXP_PLANT_VIEW_OK]
-确认
+[EXP_PLANT_ VIEW_OK]
+Bestätigt
 
 [EXP_PLANT_ALREADY_BOUGHT_TITLE]
-已购买
+Gekauft
 
 [EXP_PLANT_ALREADY_BOUGHT_TEXT]
-您已购买过一次此植物的体验卡
+Du hast die Erfahrungskarte für diese Pflanze bereits einmal gekauft.
 
 [REDPACK_NUM_DESC]
-剩余扭蛋
+Verbleibend Kapseln
 
 [REDPACK_ACTIVE_TIME]
-活动时间：腊月二十五起至正月初六(2/13-2/24)
+Aktionszeitraum: vom 25. Tag des zwölften Mondmonats bis zum 6. Tag des ersten Mondmonats (13.02.–24.02.)
 
 [REDPACK_OPEN_TOTAL]
-您已累计开启扭蛋 {REDPACK_COUNT}
+Du hast insgesamt {REDPACK_COUNT} Kapseln geöffnet.
 
 [REDPACK_NOT_ENOUGH]
-扭蛋数量不足，是否需要购买扭蛋？
+Die Anzahl der Kapseln reicht nicht aus. Musst du Kapseln kaufen?
 
 [REDPACK_BTN_BUY]
-购买扭蛋
+Kapseln kaufen
 
 [REDPACK_LEADERBOARD]
-富豪榜
+Liste der Reichsten
 
 [REDPACK_DESC]
-春节限定植物，稀有橙色植物等你拿！
+Limitierte Pflanzen zum Frühlingsfest: Seltene Orangenpflanzen warten auf dich!
 
 [REDPACK_LEADERBOARD_RANK]
-排名
+Rangliste
 
 [REDPACK_LEADERBOARD_NAME]
-玩家
+Spieler
 
 [REDPACK_LEADERBOARD_SCORE]
-已开扭蛋
+Gacha geöffnet
 
 [REDPACK_LEADERBOARD_BACK]
-我再想想
+Lass mich darüber nachdenken.
 
 [REDPACK_LEADERBOARD_PREVIEW]
-查看奖励
+Belohnungen ansehen
 
 [REDPACK_LEADERBOARD_GET]
-领取奖励
+Belohnungen erhalten
 
 [REDPACK_LEADERBOARD_PRIZE_GOT]
-您获得了
+Du hast
 
 [REDPACK_LEADERBOARD_PRIZE_GOT_TITLE]
-奖励列表
+Belohnungsliste
 
 [REDPACK_LEADERBOARD_PRIZE_DESC]
-打开红包可获得春节^FF0000 限时植物^oldclr -^528000 竹员外，^oldclr以及海滩新植物和^FF0000 全新植物挂件！^oldclr
-在正月初六(2.24)前开红包还可参与富豪榜竞选并获得奖励：
-第1名                 树脂投手碎片*90 四阶挂件超能火药桶 四阶挂件小黄鸭游泳圈
-第2名                树脂投手碎片*80 四阶挂件超能火药桶 四阶挂件小黄鸭游泳圈
-第3名                树脂投手碎片*70 四阶挂件超能火药桶 四阶挂件小黄鸭游泳圈
-第4~10名          树脂投手碎片*60 四阶挂件超能火药桶 四阶挂件小黄鸭游泳圈
-第11~50名        树脂投手碎片*50 三阶挂件高能火药桶
-第51~100名      树脂投手碎片*40 三阶挂件高能火药桶
-第101~200名    树脂投手碎片*30 三阶挂件高能火药桶
-第201~500名   树脂投手碎片*20 三阶挂件高能火药桶
-第501~1000名  树脂投手碎片*10 三阶挂件高能火药桶
+Öffne den roten Umschlag und erhalte die zeitlich begrenzte Frühlingsfestpflanze ^FF0000 ^oldclr -^528000 Zhu Yuanwai, ^oldclr und neue Strandpflanzen sowie ^FF0000 neue Pflanzenanhänger! ^oldclr
+Öffne den roten Umschlag vor dem sechsten Tag des ersten Mondmonats (2.24), um an der Wahl der Reichen teilzunehmen und Belohnungen zu erhalten:
+Nr. 1 Harzkrugfragmente * 90 Anhänger der vierten Stufe: Superenergie-Schießpulverfass; Anhänger der vierten Stufe: Kleiner gelber Entenschwimmring
+Nr. 2 Harzkrugfragmente * 80 Anhänger der vierten Stufe: Superenergie-Schießpulverfass; Anhänger der vierten Stufe: Kleiner gelber Entenschwimmring
+Nr. 3 Harzkrugfragmente * 70 Anhänger der vierten Stufe: Superenergie-Schießpulverfass; Anhänger der vierten Stufe: Kleiner gelber Entenschwimmring
+Nr. 4–10 Harzkrugfragmente * 60 Anhänger der vierten Stufe: Superenergie-Schießpulverfass; Anhänger der vierten Stufe: Kleiner gelber Entenschwimmring
+Nr. 11–50 Harzkrugfragmente * 50 Anhänger der dritten Stufe: Hochenergie-Schießpulverfass
+Nr. 51–100 Harzkrugfragmente * 40 Anhänger der dritten Stufe Hochenergie-Schießpulverfass
+Nr. 101–200 Harzkrugfragmente * 30 Anhänger Hochenergie-Schießpulverfässer der dritten Stufe
+Nr. 201–500 Harzkrugfragmente * 20 Anhänger Hochenergie-Schießpulverfässer der dritten Stufe
+Nr. 501–1000 Harzkrugfragmente * 10 Anhänger Hochenergie-Schießpulverfässer der dritten Stufe
 
 [REDPACK_OPEN]
-欢乐开扭蛋
+Gazhapon-Eröffnung
 
 [REDPACK_DESCRIPTION_TITLE]
-欢乐开扭蛋说明标题
+Gazhapon-Beschreibung (Titel)
 
 [REDPACK_DESCRIPTION]
-欢乐开扭蛋说明内容
+Gazhapon-Beschreibung (Inhalt)
 
 [REDPACK_BUY]
-再来几个
+Mehr
 
 [REDPACK_CLICK_OPEN]
 点击打开
@@ -75206,98 +75199,101 @@ Beschreibung
 在高压地带活动中通过抽取获得
 
 [MAT_TOY_CLOCKWORK]
-高压电池
+Hochspannungsbatterie
 
 [MAT_TOY_CLOCKWORK_USE]
-在高压地带活动中抽奖消耗的道具
+Gegenstände, die während des Hochspannungszonen-Events in der Verlosung verbraucht wurden
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
-在高压地带活动礼包商店中购买获得
+Erhältlich durch Kauf im Geschenkpaket-Shop des Hochspannungszonen-Events
 
 [TOY_NIGHT_EXPIRED]
-高压地带过期奖励
+Abgelaufene Belohnungen der Hochspannungszone
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-活动规则：
-1、通过购买礼包获得高压电池，消耗高压电池在活动中抽取奖励，高压电池与临界电池无法继承至下期活动，活动结束后根据1：10与1：1的比例自动转化为钻石。
-2、每次抽奖有概率获得临界电池或其他奖励，幸运的小僵僵有概率直接获取山竹超级装扮。
-3、若连续20次内抽奖未抽到大奖，则下次抽奖奖励会在保底奖池中抽取。
-4、重复抽到的超级装扮会自动转化为200个临界电池奖励。
+Eventregeln:
 
-保底奖池概率：
-山竹超级装扮：    3.72%    大奖
-临界电池*1300：      5.28%    大奖
-临界电池*700：      12.55%    大奖
-临界电池*500：      11.10%    大奖
-钻石*1888：         32.17%    大奖
-潘妮秘宝券*10：      35.18%    大奖
+1. Erhaltet Hochspannungsbatterien durch Kauf von Geschenkpaketen und verbraucht Hochspannungsbatterien, um während des Events Belohnungen zu erhalten. Hochspannungsbatterien und kritische Batterien können nicht auf das nächste Event übertragen werden. Nach Eventende werden sie automatisch im Verhältnis 1:10 und 1:1 in Diamanten umgewandelt.
 
-奖励概率公示：
-山竹超级装扮：  0.17%    大奖
-临界电池*1300：    0.21%    大奖
-临界电池*700：     0.43%    大奖
-临界电池*500：     0.85%    大奖
-临界电池*100：     6.09%    普通
-临界电池*50：     16.00%    普通
-临界电池*20：     12.00%    普通
-临界电池*10：     35.00%    普通
-装扮券*500：       2.50%    普通
-装扮券*100：       9.75%    普通
-潘妮秘宝券*1：     17.00%    普通
+2. Bei jeder Verlosung besteht die Chance, kritische Batterien oder andere Belohnungen zu erhalten. Der kleine Glückszombie hat die Chance, direkt das Mangostan-Superkleid zu gewinnen.
+
+3. Wenn Sie den Hauptpreis nicht innerhalb von 20 aufeinanderfolgenden Ziehungen gewinnen, wird der nächste Preis aus dem garantierten Preispool ausgezahlt.
+4. Wiederholte Superkostüme werden automatisch in 200 kritische Batterien als Belohnung umgewandelt.
+
+Garantierte Gewinnwahrscheinlichkeit:
+Mangosteen Super Dress: 3,72 % Hauptgewinn
+Critical Battery*1300: 5,28 % Hauptgewinn
+Critical Battery*700: 12,55 % Hauptgewinn
+Critical Battery*500: 11,10 % Hauptgewinn
+Diamond*1888: 32,17 % Hauptgewinn
+Penny Secret Treasure Ticket*10: 35,18 % Hauptgewinn
+
+Bekanntgabe der Gewinnwahrscheinlichkeit:
+Mangosteen Super Dress: 0,17 % Hauptgewinn
+Critical Battery*1300: 0,21 % Hauptgewinn
+Critical Battery*700: 0,43 % Hauptgewinn
+Critical Battery*500: 0,85 % Hauptgewinn
+Critical Battery*100: 6,09 % Normalgewinn
+Critical Battery*50: 16,00 % Normalgewinn
+Critical Battery*20: 12,00 % Normal
+Kritische Batterie*10: 35,00 % Normal
+Anziehgutschein*500: 2,50 % Normal
+Anziehgutschein*100: 9,75 % Normal
+Gutschein für geheimen Penny-Schatz*1: 17,00 % Normal
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-如已拥有,自动转换为临界电池奖励
+Wenn bereits vorhanden, wird automatisch in die Belohnung für kritische Batterie umgewandelt.
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
-活动说明
+Eventbeschreibung
 
 [MINIGAME_COLLECTION_TITLE]
-趣味竞赛
+Witziger Wettbewerb
 
 [MINIGAME_COLLECTION_TAB1]
-迷你游戏
+Minispiel
 
 [MINIGAME_COLLECTION_TAB2]
-活动奖励
+Eventbelohnung
 
 [MINIGAME_COLLECTION_TAB3]
-迷你强化
+Mini-Verbesserung
 
-[MINIGAME_COLLECTION_TAB4]
-活动说明
+[MINIGAME_COLLECTIO N_TAB4]
+Eventbeschreibung
 
 [MINIGAME_COLLECTION_NORMAL_LEVEL]
-普通模式
+Normal Modus
 
 [MINIGAME_COLLECTION_HARD_LEVEL]
-困难模式
+Schwerer Modus
 
 [MINIGAME_COLLECTION_ACTIVITY_TIME_OVER]
-活动结束
+Eventende
 
 [MINIGAME_COLLECTION_TIPS_INFO]
-活动说明
+Eventbeschreibung
 
 [MINIGAME_COLLECTION_SHORT_DESCRIPTION]
-参与趣味竞赛小游戏，领取丰厚奖励！
+Nimm an lustigen Wettkämpfen teil und erhalte tolle Belohnungen!
 
 [MINIGAME_COLLECTION_UNLOCK_DESC]
-当前关卡未解锁
+Das aktuelle Level ist nicht freigeschaltet.
 
 [ACTIVITY_NEW_MINIGAME_CAMELCARD]
-记忆骆驼牌
+Kamelkarten-Memory
 
 [ACTIVITY_NEW_MINIGAME_BOWLING]
-坚果保龄球
+Nuss-Bowling
 
 [ACTIVITY_NEW_MINIGAME_COPYCAT]
-猜猜我是谁
+Rate, wer ich bin!
 
 [ACTIVITY_NEW_MINIGAME_KLOTSKI]
-汽车华容道
+Auto Huarong Road
 
 [ACTIVITY_NEW_MINIGAME_SKYWAR]
-空中战争
+Himmelskrieg
 
 [PLAYERS_TRIP_TO_MINIGAME]
 {PLAYER}的趣味竞赛
