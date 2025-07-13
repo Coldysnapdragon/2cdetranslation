@@ -11246,111 +11246,112 @@ Start nicht möglich
 ^oldclr 
 
 [CHRISTMAS_ACCESSORY_FREE_BUTTON]
-免费领取
+Kostenlos erhalten
 
 [CHRISTMAS_ACCESSORY_COIN_BUTTON]
-。{COINS}领取
+Mit {COINS} erhalten
 
 [CHRISTMAS_ACCESSORY_GEM_BUTTON]
-。{GEMS}领取
+Mit {GEMS} erhalten
 
 [CHRISTMAS_OPEN_UNCONNECTED_TITLE]
-网络断开
+Netzwerkverbindung unterbrochen
 
 [CHRISTMAS_OPEN_UNCONNECTED]
-由于网络较差，奖励初始化失败。
-可能您将无法正常获得奖励，请尝试关闭活动中心，调整网络链接再试。
+Die Initialisierung der Belohnung ist aufgrund einer schlechten Netzwerkverbindung fehlgeschlagen.
+Möglicherweise können Sie die Belohnungen nicht wie gewohnt erhalten. Schließen Sie das Aktivitätscenter, passen Sie die Netzwerkverbindung an und versuchen Sie es erneut.
 
 [CHRISTMAS_GOLDEN_EGG_CLOSED_TITLE]
-活动未开放
+Aktivität nicht geöffnet
 
 [CHRISTMAS_GOLDEN_EGG_CLOSED]
-砸金蛋活动尚未开放，或者活动已经结束。
+Die Aktivität „Goldenes Ei zerschlagen“ ist noch nicht geöffnet oder beendet.
 
 [CHRISTMAS_GOLDEN_EGG_NO_BONUS_TITLE]
-没有奖励
+Keine Belohnung
 
 [CHRISTMAS_GOLDEN_EGG_NO_BONUS]
-奖池中你所有的植物已经达到3阶，去看看其他活动吧！
+Alle deine Pflanzen im Preispool haben Level 3 erreicht. Sieh dir andere Aktivitäten an!
 
 [CHRISTMAS_ACCESSORY_SOLD_OUT_BUTTON]
-明天再来
+Komm morgen wieder vorbei.
 
 [CHRISTMAS_ACCESSORY_REFRESH_HINT]
-礼包内容每天重置
+Der Inhalt des Geschenkpakets wird täglich zurückgesetzt.
 
 [CHRISTMAS_GOLDEN_EGG_CONNECTING_TITLE]
-请稍后
+Bitte warten.
 
 [CHRISTMAS_GOLDEN_EGG_CONNECTING]
-正在获取奖励信息……
-如果这个提示多次出现，请尝试关闭活动中心，调整网络链接再试。
+Informationen zur Belohnung werden abgerufen...
+
+Wenn diese Meldung mehrmals erscheint, schließe das Aktivitätscenter, passe die Netzwerkverbindung an und versuche es erneut.
 
 [CHRISTMAS_GOLDEN_EGG_UNCONNECTED_TITLE]
-网络故障
+Netzwerkfehler
 
 [CHRISTMAS_GOLDEN_EGG_UNCONNECTED]
-可能是活动已结束或者网络故障，请尝试关闭活动中心，调整网络链接再试。
+Das Event ist möglicherweise beendet oder das Netzwerk ist ausgefallen. Bitte schließen Sie das Event-Center, passen Sie die Netzwerkverbindung an und versuchen Sie es erneut.
 
 [CHRISTMAS_GOLDEN_EGG_HAMMERS_INFO]
-每天累计充值{RMB}元均可获得{HAMMERS}个锤子。
+Jeden Tag, wenn Sie {RMB} Yuan aufladen, erhalten Sie {HAMMERS} Hämmer.
 
 [CHRISTMAS_GOLDEN_EGG_NOT_BUY_BUTTON]
-我再想想
+Ich überlege.
 
 [CHRISTMAS_GOLDEN_EGG_BUY_BUTTON]
-去充值
+Aufladen
 
 [LIMITED_GACHA_CONFIRM_TITLE]
-确认抽奖
+Ziehung bestätigen
 
 [LIMITED_GACHA_CONFIRM_TITLE_NEW]
-确认兑换
+Umtausch bestätigen
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_ONE]
-限时宝物单抽券不足，确认花费{NUMBER}钻石兑换限时宝物单抽券并抽奖吗？
+Das zeitlich begrenzte Einzellos reicht nicht aus. Möchten Sie {NUMBER} Diamanten ausgeben, um das zeitlich begrenzte Einzellos einzutauschen und an der Lotterie teilzunehmen?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_TEN]
-限时宝物十连券不足，确认花费{NUMBER}钻石兑换限时宝物十连券并抽奖吗？
+Das zeitlich begrenzte Zehnerlos reicht nicht aus. Möchten Sie {NUMBER} Diamanten ausgeben, um das zeitlich begrenzte Zehnerlos einzutauschen und an der Lotterie teilzunehmen?
 
 [LIMITED_GACHA_CONFIRM_TEXT]
-秘宝券不足，确认要花费{PRICE}钻石兑换秘宝券X{NUM}并抽奖吗？
+Nicht genügend Schatztickets. Möchtest du wirklich {PRICE} Diamanten ausgeben, um Schatztickets X{NUM} einzutauschen und an der Lotterie teilzunehmen?
 
 [LIMITED_GACHA_CONFIRM_TEXT_2]
-确认要花费{PRICE}秘宝券抽奖吗？
+Möchtest du wirklich {PRICE} Schatztickets ausgeben, um an der Lotterie teilzunehmen?
 
 [LIMITED_GACHA_CONFIRM_BUY]
-确认
+Bestätigen
 
 [LIMITED_GACHA_CONFIRM_BUY_CANCEL]
-取消
+Abbrechen
 
 [WORLDCUP_GAME_LEFT_TIME]
-倒计时:{NUMBER}
+Countdown: {NUMBER}
 
 [PLANT_WARS_CREDIT_TEXT]
 {NUMBER}
 
 [PLANT_WARS_CREDIT_BAR_TEXT]
-{NUMBER}%
+{NUMBER} %
 
 [PLANT_WARS_CREDIT_STAR_TEXT]
-积分>={NUMBER}
+Punkte > = {NUMBER}
 
 [PLANT_WARS_TITLE_ICON_CRYSTAL]
--{NUMBER}
+- {NUMBER}
 
 [PLANT_WARS_TITLE_ICON_SHIELD]
-无敌
+Unbesiegbarkeit
 
 [PLANT_WARS_TITLE_ICON_IMMUNE_CONTROL]
-抵抗
+Resistenz
 
 [PLANT_WARS_TITLE_ANTI_CONTROL]
-减伤
+Schaden Reduzierung
 
 [CHRISTMAS_GOLDEN_EGG_NOT_ENOUGH_HAMMER_TITLE]
-锤子不足
+Nicht genug Hammer
 
 [CHRISTMAS_GOLDEN_EGG_NOT_ENOUGH_HAMMER]
 没有足够的锤子，是否充值获取更多锤子？
@@ -12933,128 +12934,125 @@ Kostüm
 Kostüm Teil
 
 [ACCESSORY_EXCHANGE_FAILED]
-挂件兑换失败
+Anhängertausch fehlgeschlagen
 
 [ACCESSORY_EXCHANGE_FAILED_TEXT]
-挂件兑换失败，可能是背包已满或者没有网络连接
+Anhängertausch fehlgeschlagen. Möglicherweise ist der Rucksack voll oder es besteht keine Netzwerkverbindung.
 
 [GET_IT_BY_THE_WAY]
-.可以通过以下途径获得:
+Sie können ihn auf folgende Weise erhalten:
 
 [GEM_BOX]
-潘妮的宝物
+Pennys Schatz
 
 [GOLD_CAN]
-幸运宝藏
+Glücksschatz
 
 [PENDANT_CAN]
-挂件宝藏
+Anhängerschatz
 
 [RECHARGE_CAN_GOT]
-充值获得
+Aufladen, um zu erhalten
 
 [NATIONAL_CAN_GOT]
-2015国庆纪念活动
+Nationalfeiertag 2015
 
-[LIMIT_TIME_CAN_GOT]
-限时特惠
+[LIMIT_TIME _CAN_GOT]
+Zeitlich begrenztes Angebot
 
 [CHILDRENDAY]
-儿童节
+Kindertag
 
 [CHILDREN_DAY_CAN_GOT]
-儿童节专属活动
+Exklusives Kindertag-Event
 
 [SUMMER_HOT_CAN_GOT]
-盛夏狂欢冰火挑战
+Sommerkarneval Eis und Feuer Herausforderung
 
 [THREE_YEAR_CHARGE_CAN_GOT]
-盛夏狂欢限时宝物
+Sommerkarneval: Zeitlich begrenzter Schatz
 
 [TO_BE_AWAIT]
-敬请期待
+Bleib dran!
 
 [GEM_RECHARGE]
-充值奖励
+Aufladebelohnung
 
 [TWOYEAR_CAN_GOT]
-两周年纪念活动
+Event zum zweijährigen Jubiläum
 
 [SPRING_CAN_GOT]
-春节活动
+Frühlingsfest
 
 [PLANT_INFO_RETURN]
-返 回
+Zurück
 
 [PLANT_LEVEL]
 LV.
 
 [PLANT_AVATAR_COMPENSATION_CONTENT]
-亲爱的各位玩家：
-每日挑战的结算闪退问题已经紧急修复，对此给您造成的不便我们深表歉意，我们向所有玩家发放100钻石补偿。
+Liebe Spieler:
+Der Absturz der Abrechnung in der täglichen Herausforderung wurde dringend behoben. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten. Als Entschädigung erhalten alle Spieler 100 Diamanten.
 
 [GACHA_COMPENSATION_CONTENT]
-亲爱的各位玩家：
-每日挑战的结算闪退问题已经紧急修复，对此给您造成的不便我们深表歉意，我们向所有玩家发放100钻石补偿。
-
-[PVP_FOR_WANDOUJIA_COMPENSATION_CONTENT]
-亲爱的各位玩家：
-感谢您的更新，您现在可以在实验室升级僵尸的可用人口和防守可用阳光数了。为了保证游戏公平性，我们重置了所有人的防守阵容，回收了所有人的僵尸，并把它们变成了钻石返还给您，请务必收下！祝您游戏愉快！
+Liebe Spieler:
+Der Absturz der Abrechnung in der täglichen Herausforderung wurde dringend behoben. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten. Als Entschädigung erhalten alle Spieler 100 Diamanten. [PVP_FOR_WANDOUJIA_COMPENSATION_CONTENT]
+Liebe Spieler,
+Vielen Dank für euer Update. Ihr könnt jetzt die verfügbare Population und das Verteidigungssonnenlicht der Zombies im Labor verbessern. Um die Fairness im Spiel zu gewährleisten, haben wir die Verteidigungsaufstellung aller Spieler zurückgesetzt, alle Zombies recycelt, sie in Diamanten umgewandelt und euch zurückgegeben. Nehmt sie bitte unbedingt an! Ich wünsche euch viel Spaß beim Spielen!
 
 [CHALLENGE_TITLE]
-{CHALLENGE_NAME}第{DAY_COUNT}天
+{CHALLENGE_NAME} Tag {DAY_COUNT}
 
 [STORE_CATEGORY_NAME_GACHA]
-宝物
+Schatz
 
 [STORE_CATEGORY_NAME_EVENT1_SHORT_DESC]
-潘妮的宝物
+Pennys Schatz
 
 [STORE_CATEGORY_NAME_EVENT10_SHORT_DESC]
-潘妮的宝物x10
+Pennys Schatz x10
 
-[STORE_CATEGORY_NAME_EVENT1_DESC]
-可以获得植物、装扮或碎片
+[STORE_CATEGORY_NAME_EVENT1_DES C]
+Kann Pflanzen, Kostüme oder Fragmente erhalten.
 
 [STORE_CATEGORY_NAME_EVENT10_DESC]
-至少能获得一棵完整的植物
+Kann mindestens eine vollständige Pflanze erhalten.
 
 [STORE_CATEGORY_GACHA_BUTTON_BUY_10_TIMES]
-300开启
+300 geöffnet
 
 [STORE_CATEGORY_GACHA_BUTTON_BUY_1_TIMES]
-35开启
+35 geöffnet
 
 [SPRING_GIFT_DES]
-^ffff00^{PLANT_NAME}^oldclr^ ^ff0000^直升三阶^oldclr^
+^ffff00^{PLANT_NAME}^oldclr^ ^ff0000^Upgrade auf Level 3^oldclr^
 
 [SPRING_GIFT_GEM_DES]
-^ff0000^{GEM_COUNT}^oldclr^ ^ffff00^颗钻石^oldclr^
+^ff0000^{GEM_COUNT}^oldclr^ ^ffff00^Diamanten^oldclr^
 
 [SPRING_GIFT_ACTIVITY_DATA]
-活动日期:^ff0000^7月1日至7月7日^oldclr^
+Aktivitätsdatum:^ff0000^1. bis 7. Juli^oldclr^
 
 [SPRING_GIFT_ACTIVITY_REWARD]
-本日充值奖励
+Heutiger Aufladebonus
 
 [SPRING_GIFT_ACTIVITY_REWARD_DES]
-您今日单笔充值达到30元，获得以下赠礼
+Deine Aufladung erreicht heute 30 Yuan und du erhältst folgende Geschenke:
 
 [SPRING_GIFT_REWARD_FAIL_TITLE]
-赠礼领取失败
+Geschenkesammlung Fehlgeschlagen
 
 [SPRING_GIFT_REWARD_ALREADY_NOT_INIT]
-赠礼一定被戴夫吃掉了
-可能需要重新启动客户端再试。
+Das Geschenk wurde wohl von Dave verzehrt. Möglicherweise musst du den Client neu starten und es erneut versuchen.
 
 [SPRING_GIFT_REWARD_ALREADY_GOT_TEXT]
-今天已经领取过赠礼了，明天再来吧！
+Du hast das Geschenk heute bereits erhalten. Schau morgen wieder vorbei!
 
 [TODAY_SURPRISE_REWARD]
-今日惊喜奖励：
+Heutige Überraschungsbelohnung:
 
 [CAN_BE_OBTAINED]
-可获得：
+Du kannst erhalten:
 
 [DAILY_SINGLE_RECHARGE_REWARD]
 每日单笔充值
@@ -15642,163 +15640,162 @@ Der Eichenschießer kann mächtige Pfeile abfeuern, um Zombies vor ihm anzugreif
 金豆兑换
 
 [GET_ACCESSORY_PIECE]
-你获得了挂件碎片
+Du hast ein Anhängerfragment erhalten.
 
 [GET_PLANT_PIECE]
-你获得了植物碎片
+Du hast ein Pflanzenfragment erhalten.
 
 [PIECE_COUNT]
-碎片{PIECES}个
+Fragmente {PIECES}
 
 [DANGER_ROOM_PLAYER_TITLE]
-称   号:
+Titel:
 
 [DANGER_ROOM_PLAYER_HIGHEST_SCORE]
-最高积分:
+Höchste Punktzahl:
 
 [DANGER_ROOM_PLAYER_CURRENT_REWARD]
-当前奖励:
+Aktuelle Belohnung:
 
 [DANGER_ROOM_PLAYER_REWARD_GET]
-奖励发放:
+Belohnungsverteilung:
 
 [DANGER_ROOM_PLAYER_REWARD_GET_VALUE]
-{DAY_COUNT}天
+{DAY_COUNT} Tage
 
 [DANGER_ROOM_PLAYER_CURRENT_REWARD_VALUE]
 x {REWARD_COUNT}
 
 [DANGER_ROOM_PLAYER_BTN_EXCHANGE]
-前往植物兑换
+Zur Pflanze Austausch
 
 [DANGER_ROOM_PLAYER_BTN_RULE]
-详细规则
+Detaillierte Regeln
 
 [DANGER_ROOM_PLAYER_BTN_REWARD]
-领取奖励
+Belohnungen erhalten
 
 [DANGERROOM_REQUEST_RANK_LIST]
-显示排行榜
+Ranglisten anzeigen
 
 [DANGER_ROOM_TIP_TITLE_1]
-危机初现
+Der Beginn der Krise
 
 [DANGER_ROOM_TIP_TITLE_2]
-激烈交锋
+Erbitterte Konfrontation
 
 [DANGER_ROOM_TIP_TITLE_3]
-僵尸围城
+Zombie-Belagerung
 
 [DANGER_ROOM_TIP_TITLE_4]
-最后之战
+Die letzte Schlacht
 
 [DANGER_ROOM_TIP_CONTENT]
-进    度：{PROGRESS_COUNT}/{MAX_COUNT}
-过关奖励：x{REWARD_COUNT}
-积    分：{SCORE_COUNT}
+Fortschrittsgrad: {PROGRESS_COUNT}/{MAX_COUNT}
+Belohnungen für bestandene Level: x{REWARD_COUNT}
+Punkte: {SCORE_COUNT}
 
 [GIFT_GET_TITLE]
-福利礼包
+Vorteilspaket
 
 [GIFT_GET_DES]
-输入激活码获得福利
+Gib den Aktivierungscode ein, um Vorteile zu erhalten.
 
 [PLANT_OBTAIN_TITLE_4]
-无尽兑换
+Endloser Tausch
 
 [PRESENT_TITLE_35]
-新手启航礼包
+Anfänger-Starterpaket
 
 [PRESENT_TITLE_36]
-舒心畅玩礼包
+Komfortables Spielpaket
 
-[PRESENT_TITLE_37]
-至尊豪华礼包
+[PRESENT_TITLE_ 37]
+Supreme Deluxe Geschenkpaket
 
 [PRESENT_DES_35]
-50000金币，15钻石
+50.000 Goldmünzen, 15 Diamanten
 
 [PRESENT_DES_36]
-80000金币，回旋镖射手，30钻石
+80.000 Goldmünzen, Bumerang-Shooter, 30 Diamanten
 
 [PRESENT_DES_37]
-100000金币，双重射手，50钻石
+100.000 Goldmünzen, Doppel-Shooter, 50 Diamanten
 
 [DANGER_ROOM_TITLE_LEVEL_1]
-Lv.9神话缔造者
+Mythisch Stufe 9 Schöpfer
 
 [DANGER_ROOM_TITLE_LEVEL_2]
-Lv.8僵尸终结者
+Zombie-Terminator Stufe 8
 
 [DANGER_ROOM_TITLE_LEVEL_3]
-Lv.7僵尸屠夫
+Zombie-Schlächter Stufe 7
 
 [DANGER_ROOM_TITLE_LEVEL_4]
-Lv.6僵尸克星
+Zombie-Killer Stufe 6
 
 [DANGER_ROOM_TITLE_LEVEL_5]
-Lv.5僵尸杀手
+Zombie-Killer Stufe 5
 
 [DANGER_ROOM_TITLE_LEVEL_6]
-Lv.4猎僵大师
+Zombie-Jäger Stufe 4
 
 [DANGER_ROOM_TITLE_LEVEL_7]
-Lv.3熟练猎手
+Jäger Stufe 3
 
 [DANGER_ROOM_TITLE_LEVEL_8]
-Lv.2菜鸟猎手
+Jäger-Anfänger Stufe 2
 
 [DANGER_ROOM_TITLE_LEVEL_9]
-Lv.1新手上路
+Anfänger Stufe 1
 
 [DANGER_ROOM_ACCOUNT_DESC]
-你已经通关 ^00e46e 第{LEVEL_COUNT}层 ^oldclr ，获得 ^00e46e {SCORE_COUNT} ^oldclr 无尽积分，当前称号为 ^00e46e {ACCOUNT_NAME} ^oldclr ！
+Du hast das Spiel abgeschlossen. ^00e46e {LEVEL_COUNT}tes Level ^oldclr, erhalte ^00e46e {SCORE_COUNT} ^oldclr unendlich viele Punkte, aktueller Titel ist ^00e46e {ACCOUNT_NAME} ^oldclr!
 
 [NOT_IN_ACTIVITY_TIME]
-不在活动时间内
+Keine Aktivitätszeit
 
 [NOT_IN_ACTIVITY_TITLE]
-活动已结束
+Aktivität beendet
 
 [ACTIVITY_NOT_OPEN]
-暂未开放
+Noch nicht geöffnet
 
 [OBTAINED_TODAY]
-今日已领
+Heute erhalten
 
 [TOMORROW_OPEN]
-明日可领取
+Morgen verfügbar
 
 [HAS_OBTAINED_ALL]
-全部领完
+Alle erhalten
 
 [NOT_CONNECTED]
-尚未联网
+Noch nicht mit dem Internet verbunden
 
 [ACTIVITY_CLOSED]
-活动结束
+Aktivität beendet
 
 [NOT_IN_ACTIVITY_TEXT]
-请等待下次活动开启。
+Bitte warten Sie, bis die nächste Aktivität beginnt.
 
 [NOT_ENOUGH_LIFE_TITLE]
-没有足够次数
+Nicht genügend Zeiten
 
 [DANGERROOM_BUYLIFE_FAILED_TITLE]
-购买失败
+Kauf fehlgeschlagen
 
 [DANGERROOM_START_FAILED]
-无法开始无尽模式
+Endlosmodus konnte nicht gestartet werden
 
 [DANGERROOM_BUYLIFE_FAILED]
-可能是网络故障，请稍后重试。
+Möglicherweise liegt ein Netzwerkfehler vor. Bitte versuchen Sie es später erneut.
 
 [NOT_ENOUGH_LIFE_SOLD_OUT]
-今日无尽挑战次数已用光
-休息一下，明天再来吧！
+Die heutigen Endlos-Herausforderungszeiten sind aufgebraucht. Machen Sie eine Pause und versuchen Sie es morgen erneut!
 
 [NOT_ENOUGH_LIFE_TEXT]
-只需50钻即可购买一次挑战次数，确认要购买吗？
+Sie können eine Herausforderungszeit für nur 50 Diamanten kaufen. Möchten Sie sie wirklich kaufen?
 
 [DANGERROOM_BUY_BUTTON]
 买买买！
@@ -16455,138 +16452,136 @@ Holt euch verschlungene Wassergrasfragmente
 获得强酸柠檬碎片
 
 [BONUS_ACCESSORY_PIECE_EPIC_FERTILIZER]
-肥料碎片
+Düngerfragmente
 
 [BONUS_ACCESSORY_PIECE_EPIC_FERTILIZER_DESCRIPTION]
-获得高级肥料碎片
+Erhalte fortschrittliche Düngerfragmente.
 
 [BONUS_ACCESSORY_PIECE_EPIC_DRUM]
-铁桶碎片
+Trommelfragmente
 
 [BONUS_ACCESSORY_PIECE_EPIC_DRUM_DESCRIPTION]
-获得精制铁桶碎片
+Erhalte raffinierte Trommelfragmente.
 
 [BONUS_ACCESSORY_PIECE_EPIC_EXPLODE]
-火药桶碎片
+Schießpulverfassfragmente
 
 [BONUS_ACCESSORY_PIECE_EPIC_EXPLODE_DESCRIPTION]
-获得高级火药桶碎片
-
+Erhalte fortschrittliche Schießpulverfassfragmente.
 
 [DANGER_ROOM_FESTIVAL_LEVEL_ONE_TITLE_WELCOME]
-欢迎来到无尽挑战——危机初现
+Willkommen zur Endlosen Herausforderung – Krise. Beginnt
 
 [DANGER_ROOM_FESTIVAL_LEVEL_TWO_TITLE_WELCOME]
-欢迎来到无尽挑战——激烈交锋
+Willkommen zur Endlosen Herausforderung – Erbitterter Kampf
 
 [DANGER_ROOM_FESTIVAL_LEVEL_THREE_TITLE_WELCOME]
-欢迎来到无尽挑战——僵尸围城
+Willkommen zur Endlosen Herausforderung – Zombie-Belagerung
 
 [DANGER_ROOM_FESTIVAL_LEVEL_FOUR_TITLE_WELCOME]
-欢迎来到无尽挑战——最后之战
+Willkommen zur Endlosen Herausforderung – Endkampf
 
 [SNAKE_HIT_BLOCK_MESSAGE]
-怎么回事，脑袋好痛……
+Was ist los? Mein Kopf tut weh...
 
 [SNAKE_HIT_BODY_MESSAGE]
-哎呀，好像咬到了什么东西
+Ups, ich hab mir wohl was angebissen.
 
 [SNAKE_RUN_OUT_BOARDER_MESSAGE]
-勇敢的消灭僵尸，不要逃跑
+Bravo, töte die Zombies, lauf nicht weg.
 
 [SNAKE_REVIVE_TIP1]
-鳄梨吃不掉障碍物呢~消耗^00e46e {GEM_COUNT}颗钻石 ^oldclr 继续游戏吗？
+Avocados können keine Hindernisse fressen. ~ Verbrauche ^00e46e {GEM_COUNT} Diamanten. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP2]
-鳄梨不可以咬到自己哦~消耗^00e46e {GEM_COUNT}颗钻石 ^oldclr 继续游戏吗？
+Avocados können sich nicht selbst beißen. ~ Verbrauche ^00e46e {GEM_COUNT} Diamanten. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP3]
-不要跑到场地外边哦~消耗^00e46e {GEM_COUNT}颗钻石 ^oldclr 继续游戏吗？
+Lauf nicht aus dem Veranstaltungsort. ~ Verbrauche ^00e46e {GEM_COUNT} Diamanten. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP4]
-僵尸要吃掉脑子了！消耗^00e46e {GEM_COUNT}颗钻石 ^oldclr 召唤小推车吗？
+Zombies fressen Gehirne! Verbrauche ^00e46e {GEM_COUNT} Diamanten ^oldclr. Einen Karren beschwören?
 
 [REVIVE_DODORIDER_DIED_OUT]
-没有挑战次数了，是否消耗^00e46e {GEM_COUNT}颗钻石 ^oldclr 购买1次挑战次数？
+Es gibt keine weiteren Herausforderungen. Möchtest du ^00e46e {GEM_COUNT} Diamanten ^oldclr verbrauchen, um eine Herausforderung zu kaufen?
 
 [REVIVE_DODORIDER_DIED_OUT_CANCELED]
-渡渡鸟的历险失败了……
+Das Abenteuer des Dodos ist gescheitert...
 
 [REVIVE_MOMOTARO_DIED_OUT_CANCELED]
-僵太郎的历险失败了……
+Zhontaros Abenteuer ist gescheitert...
 
 [DODORIDER_SUCCESSFULLY_CROSSEDRIVER_1]
-干得漂亮！
+Super gemacht!
 
 [DODORIDER_SUCCESSFULLY_CROSSEDRIVER_2]
-成功抵达！
+Erfolgreich angekommen!
 
 [DODORIDER_SUCCESSFULLY_CROSSEDRIVER_3]
-太厉害了！
+Super!
 
 [DODORIDER_SUCCESSFULLY_CROSSEDRIVER_4]
-有惊无险！
+Es war knapp!
 
 [STARVING_CHOMPER_SPAWNED]
-有新的大嘴花出现了！
+Ein neuer Chomper ist aufgetaucht!
 
 [RIVERCROSSING_TIP_MOVE_LEFT]
-点击前方或者向左滑动可以使渡渡鸟前进
+Klicke auf die Vorderseite oder schiebe nach links, um den Dodo vorwärts zu bewegen.
 
 [RIVERCROSSING_TIP_MOVE_UP]
-点击上方或者向上滑动可以使渡渡鸟向上移动
+Klicke auf die Oberseite oder schiebe nach oben, um den Dodo nach oben zu bewegen.
 
 [RIVERCROSSING_TIP_MOVE_RIGHT]
-点击后方或者向右滑动可以使渡渡鸟前进
+Klicke auf die Rückseite oder schiebe nach rechts, um den Dodo vorwärts zu bewegen.
 
 [RIVERCROSSING_TIP_MOVE_DOWN]
-点击下方或者向下滑动可以使渡渡鸟向下移动
+Klicke auf die Unterseite oder schiebe nach unten, um den Dodo nach unten zu bewegen.
 
 [RIVERCROSSING_TIP_LETS_PLAY]
-让我们开始前进，躲开路上的植物，借助冰块到达对岸吧！
+Lasst uns vorwärts gehen, den Pflanzen auf der Straße ausweichen und das Eis nutzen, um die andere Seite zu erreichen!
 
 [RIVERCROSSING_TIP_DODORIDER_DIED]
-哦不～～～
+Oh nein~~~~
 
 [RIVERCROSSING_TIP_DODORIDER_RUNOUT]
-哦不～～～
+Oh nein~~~~
 
 [NINJAJUMP_TIP_MOVE_LEFT]
-点击前方或者向左滑动可以使僵太郎前进
+Klicke auf die Vorderseite oder schiebe nach links, damit Zontarou vorwärts geht.
 
 [NINJAJUMP_TIP_MOVE_UP]
-点击上方或者向上滑动可以使僵太郎向上移动
+Klicke auf die Oberseite oder schiebe nach oben, damit Zontarou nach oben geht.
 
 [NINJAJUMP_TIP_MOVE_RIGHT]
-点击后方或者向右滑动可以使僵太郎前进
+Klicke auf die Rückseite oder schiebe nach rechts, damit Zontarou vorwärts geht.
 
 [NINJAJUMP_TIP_MOVE_DOWN]
-点击下方或者向下滑动可以使僵太郎向下移动
+Klicke auf die Unterseite oder schiebe nach unten, damit Zontarou nach unten geht.
 
 [NINJAJUMP_TIP_LETS_PLAY]
-让我们开始前进，躲开路上的旋风和飞镖，成功窃取情报吧！
-
+Lasst uns vorwärts gehen, den Wirbelstürmen und Pfeilen auf der Straße ausweichen und erfolgreich die Informationen stehlen!
 
 [SNAKE_ADD_TIP]
-鳄梨的小伙伴增加啦！
+Avocados Freunde haben zugenommen!
 
 [SNAKE_SLOW_TIP]
-鳄梨的速度变慢了！
+Avocado wird langsamer!
 
 [SNAKE_INTRO_TIP1]
-滑动改变方向
+Wischen, um die Richtung zu ändern
 
 [SNAKE_INTRO_TIP2]
-不要离开场地！
+Verlasse das Feld nicht!
 
 [SNAKE_INTRO_TIP3]
-躲开障碍物！
+Weiche Hindernissen aus!
 
 [BEACH]
-巨浪沙滩
+Riesen Wellen Strand
 
 [BEACH_LEVEL_NAME]
-巨浪沙滩 第{LEVEL_NUMBER}天
+Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 
 [BANANA]
 香蕉火箭炮
@@ -17222,118 +17217,118 @@ Es besteht die Möglichkeit, dass sich ein Spinfeuerwerk bildet, das gegnerische
 砸毁经过的水中植物，然后带着冲浪板上岸。
 
 [ACCESSORY_NAME_1]
-超级拳套
+Super-Boxhandschuh
 
 [ACCESSORY_DES_1]
-从戴夫车库里翻出来的老旧花盆，看起来没什么特别之处。
+Ein alter Blumentopf aus Daves Garage. Er sieht nicht besonders aus.
 
 [ACCESSORY_BOOST_DES_1]
-效果：使种在花盆中的植物生命增加10%。
+Effekt: Erhöht die Lebensdauer der im Blumentopf gepflanzten Pflanzen um 10 %.
 
 [PLANT_ACCESSORY_OBTAIN_TITLE_1]
-挂件
+Anhänger
 
 [PLANT_ACCESSORY_OBTAIN_TITLE_2]
-兑换
+Austauschen
 
 [PLANT_ACCESSORY_OBTAIN_TITLE_3]
-出售
+Verkaufen
 
 [PLANT_ACCESSORY_OBTAIN_TITLE_4]
-强化
+Verbessern
 
 [BUTTON_BIND]
-使用挂件
+Anhänger verwenden
 
 [BUTTON_SWITCH]
-切换挂件
+Anhänger wechseln
 
 [BUTTON_UNBIND]
-卸下挂件
+Anhänger entfernen
 
 [BUTTON_NOT_ENOUGH_LEVEL]
-等级不够
+Level nicht hoch genug
 
 [BUTTON_UNUSEBLE]
-不可使用
+Kann nicht verwendet werden
 
 [BUTTON_EXCHANGE]
-兑换
+Austauschen
 
 [BUTTON_SALE]
-出售
+Verkaufen
 
 [EXCHANGE_CONFIRM_TITLE]
-挂件兑换
+Anhänger austauschen
 
 [EXCHANGE_CONFIRM_MESSAGE]
-兑换此挂件需要消耗 {GOLD_COUNT} 金币，确认要兑换吗？
+Der Austausch dieses Anhängers kostet etwas {GOLD_COUNT} Goldmünzen. Möchten Sie sie wirklich umtauschen?
 
 [SALE_CONFIRM_TITLE]
-挂件出售
+Anhänger zu verkaufen
 
 [SALE_CONFIRM_MESSAGE]
-确认要出售此挂件吗？
+Möchten Sie diesen Anhänger wirklich verkaufen?
 
 [SWITCH_CONFIRM_TITLE]
-挂件切换
+Anhänger wechseln
 
 [SWITCH_CONFIRM_MESSAGE]
-该挂件正在被{PLANT_NAME_1}使用，切换花盆将会卸下{PLANT_NAME_2}的挂件，需要切换吗？
+Dieser Anhänger wird von {PLANT_NAME_1} verwendet. Durch Wechseln des Blumentopfs wird der Anhänger von {PLANT_NAME_2} entfernt. Möchten Sie ihn wechseln?
 
 [OWNED_PIECES]
-拥有碎片 {PIECE_COUNT}
+Besessene Fragmente: {PIECE_COUNT}
 
 [REQUIRED_PIECES]
-需要碎片 {PIECE_COUNT}
+Benötigte Fragmente: {PIECE_COUNT}
 
 [PENDANTCAN_TIP]
-^00ff00^ 可获得1-4阶挂件或碎片 ^oldclr^
+^00ff00^ Anhänger oder Fragmente der Stufen 1–4 können erhalten werden: ^oldclr^
 
 [SPRINGGIFT_GEMDES]
-^ffff00^ {NUMBER}钻石 ^oldclr^
+^ffff00^ {NUMBER} Diamanten: ^oldclr^
 
 [SPRINGGIFT_DES]
-^ffff00^ 三阶{NAME} ^oldclr^
+^ffff00^ 3. Stufe: {NAME}: ^oldclr^
 
 [ACTIVITYDATA]
-活动日期:^ff0000^ 即日起-3月31日 ^oldclr^
+Aktivitätsdatum: ^ff0000^ Jetzt – 31. März: ^oldclr^
 
 [SPRINGACTIVITYREWARD]
-本日充值奖励
+Heutige Aufladebelohnungen:
 
 [SPRINGACTIVITYREWARDDES]
-您今日单笔充值达到30元，获得以下赠礼
+Deine Aufladesumme erreicht heute 30 Yuan und du erhältst folgendes: Geschenke
 
 [SPRINGACTIVITYREWARDERROR]
-今日已售完，明天有新货
+Die heutigen Angebote sind ausverkauft. Neue Artikel sind morgen verfügbar.
 
 [BOSS_FIGHT_START]
-挑战BOSS
+BOSS-Herausforderung
 
 [BOSS_FIGHT_CLOSED]
-BOSS挑战活动未开放。
+Die BOSS-Herausforderung ist nicht geöffnet.
 
 [BOSS_FIGHT_TIME_OPENED]
 00:00:00
 
 [BOSS_FIGHT_UNCONNECTED]
-尚未联网
+Noch keine Internetverbindung.
 
 [BOSS_FIGHT_TIME_OVER]
-活动结束
+Event endet.
 
 [BOSS_FIGHT_COMPLETED]
-您已完成今日的BOSS挑战！
+Du hast die heutige BOSS-Herausforderung abgeschlossen!
 
 [SALES_TITLE]
-新年特惠
+Neujahrsangebot
 
 [SALES_TIME_UNCONNECTED]
-尚未联网
+Noch keine Internetverbindung.
 
 [SALES_TIME_OVER]
-活动结束
+Das Event ist beendet.
 
 [SALES_TIME_DAYS]
 {DAYS}天
@@ -18494,166 +18489,168 @@ BOSS挑战活动未开放。
 让我们砸碎一切吧！
 
 [ACCESSORY_FULL_TITLE]
-背包已满
+Rucksack voll
 
 [ACCESSORY_FULL_MESSAGE]
-背包已满，无法兑换更多挂件
+Rucksack voll, keine weiteren Anhänger einlösbar
 
 [ACCESSORY_SOLD_TXT]
-出售价格：{PRICE}
+Verkaufspreis: {PRICE}
 
 [BEACH_UNLOCK_TIP]
-该世界非常危险，需要至少有一棵三阶植物才能解锁。
+Diese Welt ist sehr gefährlich. Du benötigst mindestens eine Pflanze der Stufe 3, um sie freizuschalten.
 
 [ADVICE_GOTO_DANGERROOM]
-新的挑战模式：无尽挑战开启了，让我们去看看吧……
+Neuer Herausforderungsmodus: Die Endlos-Herausforderung ist geöffnet. Schaut sie euch an!
 
 [BUTTON_ACCESSORY_LINK]
-获取
+Holt euch
 
 [AWARD_SCREEN_NEW_ACCESSORY]
-你得到了一个新挂件！
+Du hast einen neuen Anhänger!
 
 [SALE_SUCCESS_TITLE]
-出售成功
+Verkauf erfolgreich
 
 [SALE_SUCCESS_MESSAGE]
-出售成功，获得{GOLD_COUNT}金币
+Verkauf erfolgreich, {GOLD_COUNT} Goldmünzen erhalten
 
 [RESET_SUCCESS_REWARD]
-返还奖励
+Belohnung zurückgeben
 
 [RESET_SUCCESS_TITLE]
-重置成功
+Zurücksetzen erfolgreich
 
 [RESET_SUCCESS_MESSAGE]
-重置成功，已返还相应材料
+Zurücksetzen erfolgreich, entsprechende Materialien wurden zurückgegeben
 
 [RESET_FAILED_MESSAGE]
-重置失败，{CODE}
+Zurücksetzen fehlgeschlagen, {CODE}
 
-[RESET_FAILED_MESSAGE_DIFICIENCY]
-重置失败，钻石不足
+[RES ET_FAILED_MESSAGE_DIFICIENCY]
+Zurücksetzen fehlgeschlagen, nicht genügend Diamanten
 
 [STEADY_FAILED_MESSAGE]
-强化失败，{CODE}
+Verbesserung fehlgeschlagen, {CODE}
 
 [SUPER_ACCESSORY_STEADY_DES_TITLE]
-强化说明
+Verbesserungsbeschreibung
 
 [SUPER_ACCESSORY_STEADY_DES_DESCRIPTION]
-1.挂件强化对象只能是新的超级挂件
-2.超级挂件需要特定材料进行进一步强化
-3.强化消耗如下：
-          初始强化到1级：20个粉尘    1000金币
-           1级强化到2级：30个粉尘    1500金币
-           2级强化到3级：50个粉尘    2000金币   5个时空水晶
-           3级强化到4级：70个粉尘    2000金币  15个时空水晶
-           4级强化到5级：100个粉尘  2000金币  30个时空水晶
+1. Das Anhänger-Verbesserungsobjekt kann nur ein neuer Superanhänger sein.
+2. Superanhänger benötigen bestimmte Materialien für die weitere Verbesserung
+3. Der Verbesserungsverbrauch ist wie folgt:
+Anfängliche Verbesserung auf Stufe 1: 20 Staub, 1000 Goldmünzen
+Stufe 1 bis Stufe 2: 30 Staub, 1500 Goldmünzen
+Stufe 2 bis Stufe 3: 50 Staub, 2000 Goldmünzen, 5 Raum-Zeit-Kristalle
+Stufe 3 bis Stufe 4: 70 Staub, 2000 Goldmünzen, 15 Raum-Zeit-Kristalle
+Stufe 4 bis Stufe 5: 100 Staub, 2000 Goldmünzen, 30 Raum-Zeit-Kristalle
 
 [NUM_OWNED_ACCESSORY]
-挂件数量：{OWNED_COUNT}/{TOTAL_COUNT}
+Anzahl der Anhänger: {OWNED_COUNT}/{TOTAL_COUNT}
 
 [NOT_BIND_ACCESSORY]
-尚未佩戴挂件
+Noch kein Anhänger getragen
 
 [STORE_GIFT_LABORDAY_LASERBEAN_GIFT]
-激光豆礼包
+Laserbohnen-Geschenk Paket
 
 [STORE_GIFT_LABORDAY_LASERBEAN_GIFT_DESC]
-进阶激光豆与装扮
-^009900 (限时10.1-10.12)^oldclr
+Fortgeschrittene Laserbohne und Kostüm
+
+^009900 (Begrenzte Zeit vom 1.10. bis 12.10.)^oldclr
 
 [STORE_GIFT_LABORDAY_DOUBLESAMARA_GIFT]
-枇杷礼包
+Mispel-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_DOUBLESAMARA_GIFT_DESC]
-进阶旋涡枇杷与装扮
-^009900 限时即日起至9.16^oldclr
+Fortgeschrittene Whirlpool-Mispel und Kostüm
+
+^009900 Begrenzte Zeit bis 16.9.^oldclr
 
 [STORE_GIFT_LABORDAY_ASPARAGUS_GIFT]
-芦笋礼包
+Spargel-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_ASPARAGUS_GIFT_DESC]
-进阶芦笋战机与装扮
-^009900 限时即日起至9.16^oldclr
+Fortgeschrittener Spargelkämpfer und Kostüm
+^009900 Begrenzte Zeit bis 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_ANTHURIUM_GIFT]
-红掌礼包
+Anthurien-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_ANTHURIUM_GIFT_DESC]
-进阶电离红掌与装扮
-^009900 限时即日起至9.16^oldclr
+Fortgeschrittene ionisierte Anthurie und Kostüm
+^009900 Nur für kurze Zeit bis 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_HOSERBEAN_GIFT]
-蚕豆礼包
+Ackerbohnen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_HOSERBEAN_GIFT_DESC]
-进阶蚕豆突击队与装扮
-^009900 限时即日起至9.16^oldclr
+Fortgeschrittenes Ackerbohnen-Kommando und Kostüm
+^009900 Nur für kurze Zeit bis 9.16^oldclr
 
 [STORE_GIFT_LABORDAY_SAUCER_GIFT]
-飞碟瓜礼包
+Fliegende Untertassen-Melone-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SAUCER_GIFT_DESC]
-进阶飞碟瓜与装扮
-^009900 限时即日起至9.16^oldclr
+Fortgeschrittene fliegende Untertassen-Melone und Kostüm
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
 
 [STORE_GIFT_LABORDAY_GROUDCHERRY_GIFT]
-灯笼草礼包
+Laternengras-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_GROUDCHERRY_GIFT_DESC]
-进阶灯笼草与装扮
-^009900 限时即日起至9.16^oldclr
+Erweitertes Laternengras und Verkleidung
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
 
 [STORE_GIFT_LABORDAY_PINEAPPLE_GIFT]
-菠萝礼包
+Ananas-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PINEAPPLE_GIFT_DESC]
-进阶旋转菠萝与装扮
-^009900 限时即日起至9.16^oldclr
+Erweiterte rotierende Ananas und Verkleidung
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
 
 [GEMRETURN_ONCEREWARD]
-一次性返钻
+Einmaliger Diamant-Rabatt
 
 [GEMRETURN_ONCEREWARD_DES]
-60倍返钻活动现已结束，这里是你尚未领取的{GEMS}钻石。
+60-facher Diamant-Rabatt Das Event ist beendet. Hier sind die {GEMS} Diamanten, die du noch nicht eingefordert hast.
 
 [GEMRETURN_REWARD_NOW]
-确认领取
+Bestätigen
 
 [GEMRETURN_DES]
-即日起充值0.1元即可获得60颗钻石，分7日返还（需联网）
+Laden Sie ab sofort 0,1 Yuan auf und erhalten Sie 60 Diamanten. Diese werden Ihnen innerhalb von 7 Tagen zurückerstattet (Internetverbindung erforderlich).
 
 [GEMRETURN_ACTIVE]
-...     立刻激活
+... Jetzt aktivieren
 
 [GEMRETURN_BUY]
-...     立刻购买
+... Jetzt kaufen
 
 [GEMRETURN_PRODUCT_DES]
-可获得%d钻石
+%d Diamanten sichern
 
 [PRODUCT_DIAMONDS_GEMRETURN]
-60倍返钻
+60-facher Diamanten-Rabatt
 
 [PRODUCT_GEM_REWARD]
-1元付费返钻活动
+1 Yuan Diamanten-Rabattaktion
 
 [PRODUCT_GEM_REWARD_SHORTDESC]
-钻石周卡
+Diamanten-Wochenkarte
 
 [PRODUCT_IOS_CUKE_PACKAGE]
-1元黄瓜礼包
+1 Yuan Gurken-Geschenkpaket
 
 [PRODUCT_IOS_CUKE_PACKAGE_SHORTDESC]
-1元黄瓜礼包
+1 Yuan Gurken-Geschenk Paket
 
 [PRODUCT_MONTHLY_CARD]
-30元畅玩月卡
+30 Yuan kostenlose Monatskarte
 
 [PRODUCT_MONTHLY_CARD_SHORTDESC]
-30元畅玩月卡
+30 Yuan kostenlose Monatskarte
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP]
 6元酷炫达人卡
@@ -50451,13 +50448,13 @@ Magische Bohnenstangen können nicht gepflanzt werden auf Schienen
 花火僵尸每天都尝试往家传的烟花筒里放入新的元素，除了他自己外谁也不知道该怎么使用他的烟花筒。
 
 [NEW_AVATAR_PACKAGE]
-装扮背包
+Dekorativer Rucksack
 
 [ACCESSORY_PACKAGE]
-挂件背包
+Zubehör-Rucksack
 
 [ACCESSORY_USE_BY_PLANT]
-正在被{PLANT}使用
+Verwendet von {PLANT}
 
 [NEW_AVATAR_EFFECT]
 Ausrüstungseffekt
@@ -56132,187 +56129,187 @@ Legendär
 时空秘境
 
 [UI_BAG_PIECE_WAY]
-获取途径:{DESC}
+Erhaltsweg: {DESC}
 
 [UI_BAG_PIECE_PLANT_TITLE]
-植物特点
+Pflanzenmerkmale
 
 [UI_BAG_PIECE_PLANT_TITLE2]
-植物碎片
+Pflanzenfragmente
 
 [UI_BAG_PIECE_AVATAR_TITLE]
-装扮特点
+Kleidermerkmale
 
 [UI_BAG_PIECE_AVATAR_TITLE2]
-装扮碎片
+Kleiderfragmente
 
 [UI_BAG_PIECE_ACCESSORY_TITLE]
-挂件特点
+Anhängermerkmale
 
 [UI_BAG_PIECE_ACCESSORY_TITLE2]
-挂件碎片
+Anhängerfragmente
 
 [UI_BAG_PIECE_ITEM_TITLE]
-道具
+Gegenstände
 
 [UI_BAG_OBJECT_ITEM_TITLE]
-藏品
+Sammlungen
 
 [UI_BAG_ACTIVITY_NOT_OPEN]
-活动尚未开放！
+Aktivität noch nicht geöffnet!
 
 [UI_BAG_ACTIVITY_NOT_OPEN_TITLE]
-系统提示
+Systemaufforderung
 
 [UI_BAG_ITEM_COUNT]
-拥有数量: {NUMS}
+Anzahl der Gegenstände: {NUMS}
 
 [MAT_NUTRIENT_4_USE]
-四阶植物升至五阶的材料
+Materialien zum Aufrüsten von Pflanzen der Stufe 4 auf Stufe 5
 
 [MAT_NUTRIENT_4_GOT_WAY]
-无尽商店、限时礼包
+Endlos-Shop, zeitlich begrenztes Geschenkpaket
 
 [MAT_NUTRIENT_3_USE]
-四阶植物升至五阶的材料
+Materialien zum Aufrüsten von Pflanzen der Stufe 4 auf Stufe 5
 
 [MAT_NUTRIENT_3_GOT_WAY]
-无尽商店、限时礼包
+Endlos-Shop, zeitlich begrenztes Geschenkpaket
 
 [MAT_NUTRIENT_2_USE]
-四阶植物升至五阶的材料
+Materialien zum Aufrüsten von Pflanzen der Stufe 4 auf Stufe 5
 
 [MAT_NUTRIENT_2_GOT_WAY]
-无尽商店、限时礼包
+Endlos-Shop, zeitlich begrenztes Geschenkpaket
 
 [MAT_NUTRIENT_1_USE]
-四阶植物升至五阶的材料
+Materialien zum Aufrüsten von Pflanzen der Stufe 4 auf Stufe 5
 
 [MAT_NUTRIENT_1_GOT_WAY]
-无尽商店、限时礼包
+Endlos Shop, zeitlich begrenztes Geschenkpaket
 
 [MAT_NUTRIENT_0_USE]
-四阶植物升至五阶的材料
+Materialien zum Aufwerten von Pflanzen der Stufe 4 auf Stufe 5
 
 [MAT_NUTRIENT_0_GOT_WAY]
-无尽商店、限时礼包
+Endlos-Shop, zeitlich begrenztes Geschenkpaket
 
 [MAT_PLANT_LEVELUP_BOOK_USE]
-植物在升至2-4阶段的任意一次过程中，使用进阶书，在不消耗金币及植物碎片的情况下，即可升一阶。注意：在4阶升5阶时不可使用
+Wenn eine Pflanze auf Stufe 2–4 aufgewertet wird, kann sie mithilfe des Fortschrittsbuchs auf die nächste Stufe aufgewertet werden, ohne dass Goldmünzen oder Pflanzenfragmente verbraucht werden. Hinweis: Kann nicht beim Upgrade von Level 4 auf Level 5 verwendet werden.
 
 [MAT_PLANT_LEVELUP_BOOK_GOT_WAY]
-戴夫的神秘宝藏
+Daves mysteriöser Schatz
 
 [MAT_SPACE_TIME_CRYSTAL_USE]
-强化超级挂件的材料
+Material zur Verstärkung von Superanhängern
 
 [MAT_SPACE_TIME_CRYSTAL_GOT_WAY]
-潘妮追击商店
+Pennys Jagdladen
 
 [MAT_SPACE_TIME_DUST_USE]
-强化超级挂件的材料
+Material zur Verstärkung von Superanhängern
 
-[MAT_SPACE_TIME_DUST_GOT_WAY]
-潘妮追击商店
+[MAT_SPACE_TIME_DUST_GOT _WAY]
+Penny Chase Shop
 
 [MAT_ZMATCH_TICKET_USE]
-用于在超Z联赛商店兑换物品
+Kann im Super Z League Shop eingetauscht werden.
 
 [MAT_ZMATCH_TICKET_GOT_WAY]
-Z联赛结算奖励
+Z League Siedlungsbelohnungen
 
 [MAT_RIFT_COIN_USE]
-用于在潘妮追击商店兑换物品
+Kann im Penny Chase Shop eingetauscht werden.
 
 [MAT_RIFT_COIN_GOT_WAY]
-潘妮追击玩法奖励
+Penny Chase Gameplay Belohnungen
 
 [MAT_SECRET_GACHA_TICKET_USE]
-用于秘宝召唤
+Für die Beschwörung geheimer Schätze
 
 [MAT_SECRET_GACHA_TICKET_GOT_WAY]
-首充礼包
+Geschenkpaket für die erste Ladung
 
 [MAT_LIMITLOTTERY_CRYSTAL_USE]
-用于限时夺宝抽奖
+Für die zeitlich begrenzte Schatzsuche-Lotterie
 
 [MAT_LIMITLOTTERY_CRYSTAL_GOT_WAY]
-购买礼包
+Geschenkpaket kaufen
 
 [MAT_LIMITLOTTERY_CUP_USE]
-用于在限时夺宝商店兑换物品
+Für den Tausch von Gegenständen im zeitlich begrenzten Schatzsuche-Shop
 
 [MAT_LIMITLOTTERY_CUP_GOT_WAY]
-限时夺宝抽奖
+Zeitlich begrenzte Schatzsuche-Lotterie
 
 [MAT_RICHMAN_COIN_USE]
-用于在复兴大剧院商店兑换物品
+Für den Tausch von Gegenständen im Fuxing Grand Theater-Shop
 
 [MAT_RICHMAN_COIN_GOT_WAY]
-文艺大剧院活动奖励
+Kunsttheater-Event Belohnungen
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE_USE]
-用于植物挑战挑战活动兑换物品
+Zum Tauschen von Gegenständen für die Pflanzen-Herausforderung
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE_GOT_WAY]
-植物挑战挑战活动奖励
+Belohnungen für die Pflanzen-Herausforderung
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE_1_USE]
-用于植物挑战活动兑换物品
+Zum Tauschen von Gegenständen für die Pflanzen-Herausforderung
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE_1_GOT_WAY]
-植物挑战活动奖励
+Belohnungen für die Pflanzen-Herausforderung
 
 [MAT_BOSSRUSH_CRYSTAL_BLUE_USE]
-用于挑战僵博活动抽奖
+Zum Ziehen von Gegenständen für die Zombie-Herausforderung
 
 [MAT_BOSSRUSH_CRYSTAL_BLUE_GOT_WAY]
-挑战僵博活动奖励
+Belohnungen für die Zombie-Herausforderung
 
 [MAT_ARTIFACT_VIAL_USE]
-强化神器的材料
+Materialien zur Verstärkung von Artefakten
 
 [MAT_ARTIFACT_VIAL_GOT_WAY]
-潘妮追击商店，神器礼包购买
+Penny Pursuit Shop, Artefakt-Geschenkpaket Kauf
 
 [MAT_ARTIFACT_CUBE_USE]
-神器突破的材料
+Materialien für Artefakt-Durchbrüche
 
 [MAT_ARTIFACT_CUBE_GOT_WAY]
-潘妮追击商店，神器礼包购买
+Penny Pursuit Shop, Artefakt-Geschenkpaket kaufen
 
 [MAT_CALLOFWISH_TICKET_USE]
-用于心愿召唤
+Für Wunschbeschwörungen
 
-[MAT_CALLOFWISH_TICKET_GOT_WAY]
-心愿召唤活动
+[MAT_CALLOFWISH_TICKET_GOT_W AY]
+Wunschbeschwörungs-Event
 
 [PRODUCT_CALLOFWISH_LIMIT_30]
-购买初级特惠礼包
+Primäres Spezial-Geschenkpaket kaufen
 
 [PRODUCT_CALLOFWISH_LIMIT_30_SHORTDESC]
-初级特惠礼包
+Primäres Spezial-Geschenkpaket
 
 [PRODUCT_CALLOFWISH_LIMIT_68]
-购买中级特惠礼包
+Mittelstufe Spezial-Geschenkpaket kaufen
 
 [PRODUCT_CALLOFWISH_LIMIT_68_SHORTDESC]
-中级特惠礼包
+Mittelstufe Spezial-Geschenkpaket
 
-[PRODUCT_CALLOFWISH_LIMIT_128]
-购买高级特惠礼包
+[PRODUCT_CALL OFWISH_LIMIT_128]
+Premium-Spezial-Geschenkpaket kaufen Paket
 
 [PRODUCT_CALLOFWISH_LIMIT_128_SHORTDESC]
-高级特惠礼包
+Premium-Spezialpaket
 
 [PRODUCT_CALLOFWISH_DAILY_6]
-购买每日基础礼包
+Tages-Basispaket kaufen
 
 [PRODUCT_CALLOFWISH_DAILY_6_SHORTDESC]
-每日基础礼包
+Tages-Basispaket
 
 [PRODUCT_CALLOFWISH_DAILY_12]
-购买每日尽享礼包
+Tages-Vergnügungspaket kaufen
 
 [PRODUCT_CALLOFWISH_DAILY_12_SHORTDESC]
 每日尽享礼包
