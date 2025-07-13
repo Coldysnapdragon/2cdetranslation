@@ -4607,25 +4607,25 @@ Kontaktdaten des Kundenservice:
 版本号：{VersionName}
 
 [SETTINGS_FPS_TITLE]
-帧率设置
+Bilder pro Sekunde
 
 [SETTINGS_FPS_ENABLE]
-60帧
+60 fps
 
 [SETTINGS_FPS_DISABLE]
-30帧
+30 fps
 
 [SETTINGS_DATASHARING_TITLE]
-使用数据分享
+Datenfreigabe nutzen
 
 [SETTINGS_DOWNLOADPREFS_TITLE]
-下载偏好
+Download-Einstellungen
 
 [SETTINGS_ENABLE_WWAN_DOWNLOADS]
-你不在wifi环境下，是否确定要更新版本？
+Sie befinden sich nicht in einer WLAN-Umgebung. Möchten Sie die Version wirklich aktualisieren?
 
 [SETTINGS_EULA_TITLE]
-最终用户许可协议
+Endbenutzer-Lizenzvereinbarung
 
 [SETTINGS_EULA_URL]
 http://tos.ea.com/legalapp/mobileeula/US/{LOCALE}/OTHER/
@@ -4634,31 +4634,31 @@ http://tos.ea.com/legalapp/mobileeula/US/{LOCALE}/OTHER/
 http://filead.talkyun.com.cn/tw/twyh.htm
 
 [SETTINGS_GAMECREDITS_TITLE]
-制作人员
+Hersteller
 
 [SETTINGS_HELP_TITLE]
-帮助
+Hilfe
 
 [SETTINGS_HELP_URL]
-http://www.popcap.com.cn/helpform.html
+http://www.popcap.com.cn/helpfor m.html
 
 [SETTINGS_LEGAL_TEXT]
-重要的法律文本
+Wichtiger Rechtstext
 
 [SETTINGS_LEGAL_TITLE]
-法务团队
+Rechtliches Team
 
 [SETTINGS_MERCH_URL]
 http://www.pvzstore.com/?utm_source={DEVICETYPE}&utm_medium={OPENEDFROM}&utm_campaign={LANGUAGE}
 
 [SETTINGS_MOREGAMES_TITLE]
-更多游戏
+Weitere Spiele
 
 [SETTINGS_MOREGAMES_URL]
-http://canvas.popcap.com/games/plants-vs-zombies-2/ios/{DEVICETYPE}
+http://canvas.popcap.com/games/plants-vs-zombies -2/ios/{DEVICETYPE}
 
 [SETTINGS_PRIVACY_TITLE]
-隐私政策
+Datenschutz Datenschutzerklärung
 
 [SETTINGS_PRIVACY_URL]
 http://filead.talkyun.com.cn/tw/twys.htm
@@ -4667,7 +4667,7 @@ http://filead.talkyun.com.cn/tw/twys.htm
 http://filead.talkyun.com.cn/tw/twys.htm
 
 [SETTINGS_TERMS_TITLE]
-服务条款协议
+Nutzungsbedingungen
 
 [SETTINGS_TERMSOFSERVICE_URL]
 http://filead.talkyun.com.cn/tw/twyh.htm
@@ -4676,7 +4676,7 @@ http://filead.talkyun.com.cn/tw/twyh.htm
 http://filead.talkyun.com.cn/tw/twyh.htm
 
 [SETTINGS_PERSONAL_TITLE]
-已收集得个人信息清单
+Liste der personenbezogenen Daten erfasst
 
 [SETTINGS_PERSONAL_URL]
 http://filead.talkyun.com.cn/tw/geren.htm
@@ -4685,7 +4685,7 @@ http://filead.talkyun.com.cn/tw/geren.htm
 http://filead.talkyun.com.cn/tw/geren.htm
 
 [SETTINGS_INVENTORY_TITLE]
-sdk共享清单
+SDK-Freigabeliste
 
 [SETTINGS_INVENTORY_URL]
 http://filead.talkyun.com.cn/tw/sdk.htm 
@@ -5529,7 +5529,7 @@ Widerstehe erfolgreich einer großen Welle von Piratenzombies.
 Der letzte Tag
 
 [STARCHALLENGE_STEAM_FINALE]
-Widerstehe erfolgreich einer großen Welle von Dampfzombies.
+Widerstehe erfolgreich einer großen Welle von industrieller Zombies.
 
 [STARCHALLENGE_STEAM_FINALE_NAME]
 Der letzte Tag
@@ -6583,13 +6583,13 @@ Luftstadt
 Verlorene Stadt
 
 [WORLD_NAME_STEAM]
-Dampf-Zeitalter
+Industrielle Revolution
 
 [WORLD_NAME_RENAI]
-Renaissance-Zeitalter
+Renaissance - Ära
 
 [WORLD_NAME_HEIAN]
-Heian-Zeitalter
+Heian - Ära
 
 [WORLD_NAME_TALE]
 Märchenwald
@@ -6598,10 +6598,10 @@ Märchenwald
 Die Verlorene Stadt – Tag {LEVEL_NUMBER}
 
 [DARK]
-黑暗时代
+Mittelalter
 
 [DARKAGE]
-黑暗时代
+Mittelalter
 
 [WORLD_PREVIEW_STAR_UNLOCK_MSG]
 解锁还需
