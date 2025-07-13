@@ -66,7 +66,7 @@ Die Überlebenszeit des Meerespilzes erhöht sich auf 90 Sekunden.
 Die Überlebenszeit des Meerespilzes erhöht sich auf 120 Sekunden.
 
 [SEASHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Energiebohne direkt mit einem großen Angriff auszulösen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff auszulösen!
 
 [SEASHROOM_PLANTFOOD_DESCRIPTION]
 Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um einen großen Angriff auszulösen. Die Verschwindezeit wird zurückgesetzt.
@@ -203,10 +203,10 @@ Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und
 Klicke auf die Pflanzen auf der Karte, um die Illustration zu öffnen.
 
 [ADVICE_BOUGHT_PLANTFOOD]
-Denk daran, dir vorsichtshalber Energiebohnen zuzulegen!
+Denk daran, dir vorsichtshalber Spezialdünger-Fähigkeitn zuzulegen!
 
 [ADVICE_BUY_PLANTFOOD]
-Kaufe mit Diamanten mehr Energiebohnen!
+Kaufe mit Diamanten mehr Spezialdünger-Fähigkeitn!
 
 [ADVICE_CANT_PLANT_THERE]
 Dort kannst du nicht pflanzen.
@@ -215,7 +215,7 @@ Dort kannst du nicht pflanzen.
 Dort kannst du keine Pflanzen schaufeln!
 
 [ADVICE_CANT_APPLY_PLANTFOOD_THERE]
-Dort kannst du keine Energiebohnen freigeben!
+Dort kannst du keine Spezialdünger-Fähigkeitn freigeben!
 
 [ADVICE_CLICK_COIN]
 Klicke auf die Münzen, um sie einzusammeln!
@@ -530,13 +530,13 @@ Töten wir diesen eindringenden Zombie!
 Ein Zombie mit einem Eimer ist aufgetaucht! Er sieht fantastisch aus!
 
 [ADVICE_TAP_PF]
-Probieren wir aus, welche Wirkung die Energiebohnen auf die Erbsenkanone haben!
+Probieren wir aus, welche Wirkung die Spezialdünger-Fähigkeitn auf die Erbsenkanone haben!
 
 [ADVICE_COLLECT_PF]
-Klicke, um die springenden Energiebohnen einzusammeln. Sie sollten uns helfen!
+Klicke, um die springenden Spezialdünger-Fähigkeitn einzusammeln. Sie sollten uns helfen!
 
 [ADVICE_TAP_TO_USE_PF]
-Probieren wir aus, welche Wirkung die Energiebohnen auf die Erbsenkanone haben!
+Probieren wir aus, welche Wirkung die Spezialdünger-Fähigkeitn auf die Erbsenkanone haben!
 
 [ADVICE_WAITING_FOR_KILLING_BUCKET_ZOMBIE]
 Gut gemacht! Der Eimer-Zombie ist jetzt keine Bedrohung mehr. Töte ihn!
@@ -545,7 +545,7 @@ Gut gemacht! Der Eimer-Zombie ist jetzt keine Bedrohung mehr. Töte ihn!
 Bitte pflanze ihn an der angegebenen Stelle!
 
 [ADVICE_WAITING_FOR_PF_ZOMBIE]
-Ein Zombie mit Energiebohnen erscheint. Töte ihn und du erhältst Energiebohnen!
+Ein Zombie mit Spezialdünger-Fähigkeitn erscheint. Töte ihn und du erhältst Spezialdünger-Fähigkeitn!
 
 [ADVICE_LAST_HINT]
 Pflanze mehr Sonnenblumen, um Sonnenlicht zu bekommen, und pflanze mehr Pflanzen, um den Angriffen großer Zombiewellen standzuhalten!
@@ -573,17 +573,17 @@ Tipps:
 
 [ADVICE_IMG_BUCKET_ZOMBIE]
 Tipps:
-1. Der Eimer-Zombie hat einen superstarken Eimer, um deinen Angriffen standzuhalten. Wenn zu wenige Pflanzen vorhanden sind, musst du ^00FF00 Energiebohnen^oldclr^ einsetzen, um ihn zu bekämpfen!
+1. Der Eimer-Zombie hat einen superstarken Eimer, um deinen Angriffen standzuhalten. Wenn zu wenige Pflanzen vorhanden sind, musst du ^00FF00 Spezialdünger-Fähigkeitn^oldclr^ einsetzen, um ihn zu bekämpfen!
 
 [ADVICE_ANIM_PLANTFOOD]
 Tipps:
-1. Ziehe die Energiebohnen zu den Pflanzen, um die mächtige Energiebohnen-Attacke auszulösen!
+1. Ziehe die Spezialdünger-Fähigkeitn zu den Pflanzen, um die mächtige Spezialdünger-Fähigkeitn-Attacke auszulösen!
 
-2. Mit der Energiebohnen-Attacke der Erbsenpistole kannst du selbst sehr starke Zombies besiegen.
+2. Mit der Spezialdünger-Fähigkeitn-Attacke der Erbsenpistole kannst du selbst sehr starke Zombies besiegen.
 
 [ADVICE_IMG_PF_ZOMBIE]
 Tipps:
-1. Töte die Zombies mit grünem Licht, um Energiebohnen zu erhalten. Das ist eine große Hilfe beim Bestehen des Levels!
+1. Töte die Zombies mit grünem Licht, um Spezialdünger-Fähigkeitn zu erhalten. Das ist eine große Hilfe beim Bestehen des Levels!
 
 [ADVICE_ABOUT_PLANT_ARMORFLAME]
 请将植甲拼装者-炎星种在2格空地上
@@ -818,27 +818,25 @@ Zurück zum Shop
 
 
 [BLOVER]
-三叶草
+Wehblatt
 
 [BLOVER_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}特点：{STAT}吹走屏幕上所有飞行僵尸
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}三叶草五岁生日那天，他得到一个很闪亮的生日蛋糕。他许好愿望，然后深吸一口气
-却只吹灭了60%的蜡烛。但他没有放弃，小时候那次
-失败促使他更加的努力，直到现在。
+{KEYWORD}Verwendung: {STAT}Einmalige Anwendung, sofort wirksam
+{KEYWORD}Funktionen: {STAT}Puste alle fliegenden Zombies auf dem Bildschirm weg
+{KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanzen
+{FLAVOR}Als glücklichster Glücksklee aller Zeiten ist das Wehblatt auch aktueller Preisträger des renommierten Stunt-Awards. Es ist zu bewundern in \"Allein unter Wurzeln\", \"Das Grünzeug schlägt zurück\" und \"Findet Blume\". Außerdem leitet es immer dienstags einen Stuntkurs im Gemeindezentrum.
 
 [BLOVER_DESCRIPTION_HEADER]
-三叶草吹走空中所有僵尸。
+Wehblätter pusten alle Zombies in der Luft fort.
 
 [BLOVER_PLANTFOOD]
-能量豆无效果。
+Kein Spezialdünger-Effekt.
 
 [BLOVER_TOOLTIP]
-吹走所有飘在天上的僵尸。
+Pustet alle fliegenden und gleitenden Zombies fort
 
 [BLOVER_PRODUCT_SHORT_DESC]
-吹走所有飘在天上的僵尸
+Pustet alle fliegenden Zombies fort
 
 [BONKCHOY]
 菜问
@@ -861,7 +859,7 @@ Zurück zum Shop
 Groundshaker
 
 [BONKCHOY_SKILL_LEVEL5_DES]
-Nach zwei Aufwärtshaken springt Nawen hoch und schlägt auf den Boden, wodurch er Schaden verursacht und Zombies betäubt.
+Nach zwei Aufwärtshaken springt Packchoy hoch und schlägt auf den Boden, wodurch er Schaden verursacht und Zombies betäubt.
 
 [BUTTON_CANCEL]
 Abbrechen
@@ -934,13 +932,13 @@ Kohlapult
 Bonus: {SCORE}
 
 [ARROW_RELOAD_TIP]
-重新装填中……
+Neu laden...
 
 [CANNON_TUTORIAL_1]
-点击椰子加农炮开火
+Klicke auf die Kokosnusskanone, um zu feuern.
 
 [CANNON_TUTORIAL_2]
-棒极了！现在尽力炸飞更多僵尸吧！
+Super! Jetzt schieß so viele Zombies wie möglich in die Luft!
 
 [category_1_name]
 Stammverzeichnis
@@ -1065,7 +1063,7 @@ Kirschbombe
 Kirschbomben können alle Zombies in einem bestimmten Umkreis in die Luft jagen. Da sie unmittelbar nach einer Explosion explodieren, platziert sie am besten in der Nähe von Zombies.
 
 [CHERRY_BOMB_PLANTFOOD]
-Energiebohnen haben keine Wirkung.
+Spezialdünger-Fähigkeitn haben keine Wirkung.
 
 [CHERRY_BOMB_TOOLTIP]
 Sprengt alle Zombies in der Nähe in die Luft.
@@ -13113,7 +13111,7 @@ Erhalte Superkampffähigkeit und deine Angriffs- und Verteidigungsattribute werd
 Fähigkeitserweckung
 
 [PLANT_WAKEUP_LEVEL1_DES]
-Spezialfähigkeit Stufe 4: Es besteht die Chance, die Energiebohne beim Pflanzen direkt auszulösen!
+Spezialfähigkeit Stufe 4: Es besteht die Chance, die Spezialdünger-Fähigkeit beim Pflanzen direkt auszulösen!
 
 [PLANT_WAKEUP_LEVEL2]
 Superentwicklung
@@ -16255,172 +16253,188 @@ Maschinengewehr-Granatapfelfragmente erhalten
 获得仙桃碎片
 
 [BONUS_CARD_PIECE_BLOVER]
-三叶草碎片
+Kleefragment
 
 [BONUS_CARD_PIECE_BLOVER_DESCRIPTION]
-获得三叶草碎片
+Kleefragment erhalten
 
 [BONUS_CARD_PIECE_EMPEA]
-黄桃碎片
+Gelbes Pfirsichfragment
 
 [BONUS_CARD_PIECE_EMPEA_DESCRIPTION]
-获得脉冲黄桃碎片
+Pulsgelbes Pfirsichfragment erhalten
 
 [BONUS_CARD_PIECE_MAGNIFYINGGRASS]
-棱镜草碎片
+Prismatisches Grasfragment
 
 [BONUS_CARD_PIECE_MAGNIFYINGGRASS_DESCRIPTION]
-获得棱镜草碎片
+Prismatisches Grasfragment erhalten
 
 [BONUS_CARD_PIECE_POWERPLANT]
-萝卜碎片
+Rettichfragment
 
-[BONUS_CARD_PIECE_POWERPLANT_DESCRIPTION]
-获得瓷砖萝卜碎片
+[BONUS_CARD_PIECE_EMPEA_DESCRIPTION]
+Pulsgelbes Pfirsichfragment erhalten
+
+[BONUS_CARD_PIECE_MAGNIFYINGGRASS]
+Prismatisches Gras Fragment
+
+[BONUS_CARD_PIECE_MAGNIFYINGGRASS_DESCRIPTION]
+Prismatisches Grasfragment erhalten
+
+[BONUS_CARD_PIECE_POWERPLANT]
+Rettichfragment
+
+[BONUS_CARD_PIECE_EMPEA_DESCRIPTION]
+Pulvergelbes Pfirsichfragment erhalten RD_PIECE_POWERPLANT_DESCRIPTION]
+Rettichfragment erhalten
 
 [BONUS_CARD_PIECE_LASER_BEAN]
-激光豆碎片
+Laserbohnenfragment
 
 [BONUS_CARD_PIECE_LASER_BEAN_DESCRIPTION]
-获得激光豆碎片
+Laserbohnenfragment erhalten
 
 [BONUS_CARD_PIECE_HOLONUT]
-全息碎片
+Holografisches Fragment
 
 [BONUS_CARD_PIECE_HOLONUT_DESCRIPTION]
-获得全息坚果碎片
+Holografisches Nussfragment erhalten
 
 [BONUS_CARD_PIECE_STARFRUIT]
-星星果碎片
+Sternfrucht Fragment
 
 [BONUS_CARD_PIECE_STARFRUIT_DESCRIPTION]
-获得星星果碎片
+Sternfruchtfragment erhalten
 
-[BONUS_CARD_PIECE_CITRON]
-柚子碎片
+[BONUS_CARD_PIECE_STARFRUIT_DESCRIPTION]
+Sternfruchtfragment erhalten
+
+[BONUS_CARD_PIECE_STARFRUIT_DESCRIPTION] ONUS_CARD_PIECE_CITRON]
+Zitronenfragment
 
 [BONUS_CARD_PIECE_CITRON_DESCRIPTION]
-获得充能柚子碎片
+Das geladene Zitronenfragment erhalten
 
 [BONUS_CARD_PIECE_SUNSHROOM]
-阳光菇碎片
+Sonnenscheinpilzfragment
 
 [BONUS_CARD_PIECE_SUNSHROOM_DESCRIPTION]
-获得阳光菇碎片
+Sonnenscheinpilzfragment erhalten
 
 [BONUS_CARD_PIECE_STREETLAMP]
-路灯花碎片
+Straßenlaternenblumenfragment
 
 [BONUS_CARD_PIECE_STREETLAMP_DESCRIPTION]
-获得路灯花碎片
+Straßenlaternenblumenfragment erhalten Fragment
 
 [BONUS_CARD_PIECE_COFFEEBEAN]
-咖啡豆碎片
+Kaffeebohnenfragment
 
-[BONUS_CARD_PIECE_COFFEEBEAN_DESCRIPTION]
-获得咖啡豆碎片
+[BONUS_CARD_ PIECE_COFFEEBEAN_DESCRIPTION]
+Kaffeebohnenfragmente erhalten
 
 [BONUS_CARD_PIECE_PUFFSHROOM]
-小喷菇碎片
+Puffpilzfragmente
 
 [BONUS_CARD_PIECE_PUFFSHROOM_DESCRIPTION]
-获得小喷菇碎片
+Puffpilzfragmente erhalten
 
 [BONUS_CARD_PIECE_SUNBEAN]
-阳光豆碎片
+Sonnenscheinbohnenfragmente
 
 [BONUS_CARD_PIECE_SUNBEAN_DESCRIPTION]
-获得阳光豆碎片
+Sonnenscheinbohnenfragmente erhalten
 
 [BONUS_CARD_PIECE_MAGNETSHROOM]
-磁力菇碎片
+Magnetische Pilzfragmente
 
 [BONUS_CARD_PIECE_MAGNETSHROOM_DESCRIPTION]
-获得磁力菇碎片
+Magnetische Pilzfragmente erhalten
 
-[BONUS_CARD_PIECE_FUMESHROOM]
-大喷菇碎片
+[ BONUS_CARD_PIECE_FUMESHROOM]
+Rauchpilz-Fragment
 
 [BONUS_CARD_PIECE_FUMESHROOM_DESCRIPTION]
-获得大喷菇碎片
+Rauchpilz-Fragment erhalten
 
 [BONUS_CARD_PIECE_HYPNOSHROOM]
-魅惑菇碎片
+Hypnopilz-Fragment
 
 [BONUS_CARD_PIECE_HYPNOSHROOM_DESCRIPTION]
-获得魅惑菇碎片
+Hypnopilz-Fragment erhalten
 
 [BONUS_CARD_PIECE_PEANUT]
-花生射手碎片
+Erdnuss-Shooter-Fragment
 
 [BONUS_CARD_PIECE_PEANUT_DESCRIPTION]
-获得花生射手碎片
+Erdnuss-Shooter-Fragment erhalten
 
 [BONUS_CARD_PIECE_OAKSHOOTER]
-橡木碎片
+Eichen-Fragment
 
 [BONUS_CARD_PIECE_OAKSHOOTER_DESCRIPTION]
-获得橡木弓手碎片
+Eichen-Bogenschützen-Fragment erhalten
 
 [BONUS_CARD_PIECE_CRACKER]
-竹员外碎片
+Zhu Yuanwai Fragment
 
 [BONUS_CARD_PIECE_CRACKER_DESCRIPTION]
-获得竹员外碎片
+Holt euch das Zhu Yuanwai-Fragment
 
 [BONUS_CARD_PIECE_CHOMPER]
-大嘴花碎片
+Hackmesser-Fragment
 
 [BONUS_CARD_PIECE_CHOMPER_DESCRIPTION]
-获得大嘴花碎片
+Holt euch das Hackmesser-Fragment
 
 [BONUS_CARD_PIECE_SWEETPOTATO]
-甜薯碎片
+Süßkartoffel-Fragment
 
 [BONUS_CARD_PIECE_SWEETPOTATO_DESCRIPTION]
-获得甜薯碎片
+Holt euch das Süßkartoffel-Fragment
 
-[BONUS_CARD_PIECE_SAPFLING]
-树脂投手碎片
+[BO NUS_CARD_PIECE_SAPFLING]
+Harzkrug-Fragment
 
 [BONUS_CARD_PIECE_SAPFLING_DESCRIPTION]
-获得树脂投手碎片
+Holt euch das Harzkrug-Fragment
 
 [BONUS_CARD_PIECE_GHOSTPEPPER]
-幽灵辣椒碎片
+Geisterpfeffer-Fragment
 
 [BONUS_CARD_PIECE_GHOSTPEPPER_DESCRIPTION]
-获得幽灵辣椒碎片
+Holt euch das Geisterpfeffer-Fragment
 
 [BONUS_CARD_PIECE_LILYPAD]
-莲叶碎片
+Lily-Blatt-Fragment
 
 [BONUS_CARD_PIECE_LILYPAD_DESCRIPTION]
-获得莲叶碎片
+Lotusblatt-Fragment
 
 [BONUS_CARD_PIECE_BOWLINGBULB]
-保龄泡泡碎片
+Bowling-Blasen-Fragment
 
-[BONUS_CARD_PIECE_BOWLINGBULB_DESCRIPTION]
-获得保龄泡泡碎片
+[BONUS_ CARD_PIECE_BOWLINGBULB_DESCRIPTION]
+Bowling-Blasen-Fragment
 
 [BONUS_CARD_PIECE_BANANA]
-香蕉火箭炮碎片
+Bananen-Bazooka-Fragment
 
 [BONUS_CARD_PIECE_BANANA_DESCRIPTION]
-获得香蕉火箭炮碎片
+Bananen-Bazooka-Fragment
 
 [BONUS_CARD_PIECE_GUACODILE]
-鳄梨碎片
+Avocado-Fragment
 
 [BONUS_CARD_PIECE_GUACODILE_DESCRIPTION]
-获得鳄梨碎片
+Avocado Fragmente
 
 [BONUS_CARD_PIECE_TANGLEKELP]
-缠绕水草碎片
+Fragmente von verschlungenem Wassergras
 
 [BONUS_CARD_PIECE_TANGLEKELP_DESCRIPTION]
-获得缠绕水草碎片
+Holt euch verschlungene Wassergrasfragmente
 
 [BONUS_CARD_PIECE_HOMINGTHISTLE]
 导向蓟碎片
@@ -36057,132 +36071,134 @@ SDK初始化失败
 
 
 [RAPEFLOWER_FAMILY]
-十字花科
+Brassicaceae
 [RAPEFLOWER_GENUS]
-芸薹属
+Brassica
 [RAPEFLOWER_PEDIA]
-油菜：大地的黄金诗行
-     一至二年生草本。
-    株高可达1.5米；茎直立，分枝性强，稍带粉霜；基生叶羽状深裂，形似莲花座；茎生叶披针形，无叶柄抱茎而生；总状花序在花期成伞房状，花瓣黄色，4枚呈十字形展开；果实为细长角果。 花期3-4月，果期5月。
-    嫩叶可食，古称“芸薹”（《中国植物志》中的中文名），种子含油率约40％，为主要油料植物之一，因此得名“油菜”。原产于地中海沿岸与西亚，汉代经丝绸之路传入中国。现全球广泛种植，中国长江流域为最大产区，占世界总产1/4。油菜花田是早春重要的蜜源植物，为传粉网络提供关键生态支持；其根系分泌的硫苷类化合物能有效抑制土传病原菌，与水稻等作物轮作可降低后续作物的化肥需求。
-    花语：平凡者的灿烂”、丰收和希望
-
+Raps: Goldene Poesie der Erde
+Ein- bis zweijähriges Kraut.
+Die Pflanze kann bis zu 1,5 Meter hoch werden. Der Stängel ist aufrecht, stark verzweigt und leicht puderig. Die Grundblätter sind tief gefiedert und haben die Form eines Lotussitzes. Die Stängelblätter sind lanzettlich, ohne Blattstiele und wachsen am Stängel. Die Blütentrauben sind während der Blütezeit doldenförmig und tragen gelbe Blütenblätter, von denen vier kreuzförmig sind. Die Frucht ist eine schlanke Schote. Die Blütezeit ist März-April, die Fruchtzeit Mai.
+Die jungen Blätter sind essbar. In der Antike wurde die Pflanze „Brassica“ genannt (der chinesische Name in „Flora of China“). Der Ölgehalt der Samen beträgt etwa 40 %. Raps zählt zu den wichtigsten Ölpflanzen, daher auch der Name. Er ist an der Mittelmeerküste und in Westasien heimisch und gelangte während der Han-Dynastie über die Seidenstraße nach China. Heute wird er weltweit angebaut, wobei das Jangtse-Becken in China mit einem Viertel der weltweiten Gesamtproduktion das größte Anbaugebiet ist. Rapsfelder sind im zeitigen Frühjahr wichtige Nektarpflanzen und leisten wichtige ökologische Unterstützung für das Bestäubungsnetzwerk. Die von den Wurzeln abgesonderten Glucosinolatverbindungen können bodenbürtige Krankheitserreger wirksam hemmen, und Fruchtfolge mit Kulturpflanzen wie Reis kann den Düngemittelbedarf nachfolgender Kulturen reduzieren.
+Blumensprache: „Die Genialität der einfachen Leute“, Ernte und Hoffnung
 
 [DEODARCEDAR_FAMILY]
-松科
+Pinaceae
 [DEODARCEDAR_GENUS]
-雪松属
+Cedrus
 [DEODARCEDAR_PEDIA]
-雪松：喜马拉雅山上的来客
-    常绿大乔木。
-    树高可达50米，胸径3米；树冠幼时呈尖塔形，树皮裂成不规则的鳞片；针叶硬质，三棱形，簇生于短枝顶端；雌雄同株，雄球花长卵圆形，雌球花卵圆形；球果成熟前淡绿色，熟时红褐色，种子近三角状，种翅宽大。我国各地栽培的雪松，雄球花常于第一年秋末抽出，次年早春较雌球花约早一周开放，经人工授粉后，种子能正常发育，球果第二年10月成熟。
-    雪松因其针叶表皮被蜡质，在阳光下呈现银白色光泽，远观如披薄雪而得名。原生分布于喜马拉雅山脉西北部至阿富汗一带，在我国长江流域及北方多地作为景观树广泛栽培。其木材坚实致密，可作建筑、桥梁、造船、家具及器具等用。
-
+Cedrus: Besucher aus dem Himalaya
+Großer immergrüner Baum.
+Der Baum kann eine Höhe von 50 Metern und einen Brusthöhendurchmesser von 3 Metern erreichen. In jungen Jahren ist die Krone turmförmig und die Rinde ist in unregelmäßige Schuppen zerbrochen. Die Nadeln sind hart, dreieckig und sitzen gebündelt an der Spitze kurzer Zweige. Die männlichen Zapfen sind einhäusig, die weiblichen oval. Vor der Reife sind die Zapfen hellgrün, im reifen Zustand rotbraun. Die Samen sind nahezu dreieckig und die Samenflügel breit. Bei den in verschiedenen Teilen meines Landes kultivierten Zedern werden die männlichen Zapfen oft im Spätherbst des ersten Jahres gezogen und blühen etwa eine Woche früher als die weiblichen Zapfen im zeitigen Frühjahr des folgenden Jahres. Nach künstlicher Bestäubung können sich die Samen normal entwickeln und die Zapfen reifen im Oktober des zweiten Jahres.
+Die Zeder verdankt ihren Namen ihren wachsartigen Nadeln, die in der Sonne silbrig-weiß schimmern und aus der Ferne wie eine dünne Schneeschicht aussehen. Die Olive ist im Nordwesten des Himalayas bis nach Afghanistan heimisch und wird im Jangtse-Becken und an vielen Orten im Norden Afghanistans als Landschaftsbaum kultiviert. Ihr Holz ist fest und dicht und kann für Bauwesen, Brücken, Schiffsbau, Möbel und Gebrauchsgegenstände verwendet werden.
 
 [OLIVE_FAMILY]
-木犀科
+Oleaceae
 [OLIVE_GENUS]
-橄榄属
+Olive
 [OLIVE_PEDIA]
-橄榄：地中海阳光的绿色凝萃
-    常绿小乔木。
-    高可达10米；树皮灰色；叶革质，披针形，对生，叶面深绿，叶背密被银灰色鳞片；圆锥花序腋生或顶生，花芳香，白色；果椭圆形，成熟时呈紫黑色。花期：地中海气候区4-5月，中国5-6月；果期：10月至次年2月，需霜冻催化油脂积累。
-    “橄榄”源于古波斯语“zaytūn”（“油果”），经丝路传入后音译得名；《中国植物志》的中文名为“木犀榄”以别与橄榄科的橄榄。可能原产于小亚细亚，后广栽于地中海地区，现全球亚热带地区都有栽培。其果肉可榨油即橄榄油，因富含不饱和脂肪酸而被WHO列为健康油脂标杆。《圣经》诺亚方舟故事中，鸽子衔回橄榄枝预示灾难结束；希腊神话中，雅典娜以橄榄树赢得雅典守护神之位，因此象征“和平与胜利”，故奥运会上的冠军花环均用橄榄枝编制。
-    花语：和平与胜利
-
+Olive: Grünes Kondensat mediterraner Sonne
+Immergrüner kleiner Baum.
+Sie kann bis zu 10 Meter hoch werden. Die Rinde ist grau. Die Blätter sind ledrig, lanzettlich, gegenständig, auf der Blattoberfläche dunkelgrün und auf der Blattrückseite dicht mit silbergrauen Schuppen bedeckt. Die Rispen stehen achselständig oder endständig, die Blüten sind duftend und weiß. Die Früchte sind oval und im reifen Zustand purpurschwarz. Blütezeit: April-Mai im Mittelmeerraum, Mai-Juni in China. Fruchtperiode: Von Oktober bis Februar des Folgejahres ist Frost erforderlich, um die Ölbildung zu beschleunigen.
+„Olive“ leitet sich vom altpersischen „zaytūn“ („Ölfrucht“) ab, das nach seiner Einführung über die Seidenstraße transkribiert wurde. Der chinesische Name in der Flora Chinas lautet „Muxiolan“, um sie von den Oliven aus der Familie der Ölbaumgewächse zu unterscheiden. Die Olive stammt vermutlich aus Kleinasien und wurde später im Mittelmeerraum weit verbreitet. Heute wird sie weltweit in subtropischen Regionen angebaut. Aus ihrem Fruchtfleisch lässt sich Öl gewinnen, nämlich Olivenöl, das von der WHO aufgrund seines hohen Gehalts an ungesättigten Fettsäuren als gesundes Öl eingestuft wird. In der biblischen Geschichte von der Arche Noah brachte die Taube einen Olivenzweig zurück, um das Ende der Katastrophe vorherzusagen. In der griechischen Mythologie erlangte Athene mit dem Olivenbaum die Stellung der Schutzpatronin Athens. Dieser symbolisiert „Frieden und Sieg“, weshalb die Siegerkränze bei den Olympischen Spielen alle aus Olivenzweigen bestehen.
+Blumensprache: Frieden und Sieg
 
 [ELECTRICITEA_FAMILY]
-山茶科
+Theaceae
 [ELECTRICITEA_GENUS]
-山茶属
+Kamelie
 [ELECTRICITEA_PEDIA]
-茶：东方树叶的生命密码
-    常绿灌木或小乔木。
-    高1-3米，野生种可达10米；叶革质，长圆形或椭圆形，边缘有锯齿；花1-3朵腋生，白色，花瓣5-6枚，雄蕊多数，雌蕊单生，柱头3裂；蒴果3球形，成熟时裂开。花期为10月至翌年2月，果实次年秋季成熟，但人工茶园多修剪控制结果。
-    “茶”字源于巴蜀古方言“槚”（jiǎ），唐代陆羽《茶经》统一称“茶”。绿茶因杀青工艺（高温钝化酶活性）保留叶绿素得名，与发酵茶（红茶、乌龙茶）形成对比。其野生种遍见于长江以南各省的山区，现广泛种植于北纬18°-37°的亚热带山地，栽培品种毛被及叶型变化大。
-    花语：谦逊的馈赠
-
+Tee: Der Lebenscode orientalischer Blätter
+Immergrüne Sträucher oder kleine Bäume. 1–3 Meter hoch, Wildarten können bis zu 10 Meter hoch werden; die Blätter sind ledrig, länglich oder elliptisch, mit gezähnten Rändern; 1–3 Blüten sind achselständig, weiß, mit 5–6 Blütenblättern, vielen Staubblättern, einzelnen Stempeln und dreilappigen Narben; die Kapseln sind dreikugelig und spalten sich bei Reife. Die Blütezeit dauert von Oktober bis Februar des Folgejahres, die Früchte reifen im Herbst des Folgejahres. Künstliche Teegärten werden jedoch meist beschnitten, um die Fruchtbildung zu kontrollieren. Das Wort „Tee“ stammt aus dem alten Bashu-Dialekt „槚“ (jiǎ) und wurde in Lu Yus „Klassiker des Tees“ der Tang-Dynastie einheitlich als „Tee“ bezeichnet. Grüner Tee verdankt seinen Namen dem Verwelkungsprozess (hohe Temperaturen inaktivieren die Enzymaktivität) und dem damit verbundenen Erhalt des Chlorophylls, im Gegensatz zu fermentiertem Tee (Schwarztee, Oolong-Tee). Seine Wildarten kommen in den Bergregionen der Provinzen südlich des Jangtsekiang vor und werden heute weit verbreitet in subtropischen Gebirgen zwischen 18° und 37° nördlicher Breite angebaut. Die kultivierten Sorten weisen eine große Variationsbreite in Haar- und Blattform auf.
+Blumensprache: bescheidenes Geschenk
 
 [HYDROCOTYLEDRUMMER_FAMILY]
-五加科
+Araliaceae
 [HYDROCOTYLEDRUMMER_GENUS]
-天胡荽属
+Hydroxycilantro
 [HYDROCOTYLEDRUMMER_PEDIA]
-野天胡荽：湿地的绿色铜钱草
-    多年生草本。
-    茎细长匍匐，节处生根；叶片圆形或肾形，直径1-4厘米，边缘浅裂呈波浪状，形似迷你香菇伞盖，叶面光滑；伞形花序腋生，小花白色或淡绿色，花瓣5枚；果实为双悬果，扁圆形，表面具纵棱。花期5-8月，果期8-10月。
-    因其圆形叶片形似铜钱，民间俗称“铜钱草”，亦像香菇菌盖又名“香菇草”。原产欧洲、北非及西亚的溪边湿地，18世纪作为观赏植物引入东亚。其能快速覆盖水域表面，减少水土流失，其根系可吸收水体过剩氮磷元素，对富营养化水域的藻类繁殖具有抑制作用。但其入侵性强，在北美、澳洲等地已形成生态威胁。人工栽培时需设置物理隔离带，定期修剪避免种子扩散。
-    花语：随遇而安、聚财纳福、和谐圆满
+Hydroxycilantro: Grüner Wassernabel in Feuchtgebieten
 
+Mehrjähriges Kraut.
+
+Der Stängel ist schlank und kriechend und hat Wurzeln an den Knoten. Die Blätter sind rund oder nierenförmig, 1–4 cm im Durchmesser, flach gelappt und gewellt und ähneln den Schirmen von Mini-Champignons. Die Blattoberfläche ist glatt. Die Dolden stehen achselständig, die kleinen Blüten sind weiß oder hellgrün und haben fünf Blütenblätter. Die Frucht ist eine doppelt hängende, abgeflachte Frucht mit länglichen Rippen an der Oberfläche. Die Blütezeit ist von Mai bis August, die Fruchtzeit von August bis Oktober.
+
+Wegen seiner runden Blätter, die an Kupfermünzen erinnern, ist es im Volksmund als „Kupfermünzengras“ bekannt. Wegen seiner Ähnlichkeit mit dem Pilzhut wird es auch „Pilzgras“ genannt. Es ist in Feuchtgebieten an Flussufern in Europa, Nordafrika und Westasien heimisch und wurde im 18. Jahrhundert als Zierpflanze nach Ostasien eingeführt. Es kann die Wasseroberfläche schnell bedecken und Bodenerosion reduzieren. Ihre Wurzeln können überschüssigen Stickstoff und Phosphor aus dem Wasser aufnehmen, was die Algenvermehrung in eutrophen Gewässern hemmt. Sie ist jedoch hochinvasiv und stellt in Nordamerika, Australien und anderen Regionen eine ökologische Bedrohung dar. Bei künstlicher Kultivierung muss eine physische Isolationszone eingerichtet und regelmäßig beschnitten werden, um die Ausbreitung von Samen zu verhindern.
+Blumensprache: Sei zufrieden mit dem, was du hast, sammle Reichtum und Segen und sei harmonisch und vollkommen.
 
 [ALOES_FAMILY]
-阿福花科
+Aloesaceae
 [ALOES_GENUS]
-芦荟属
+Aloe
 [ALOES_PEDIA]
-芦荟：沙漠中的绿色医生
-    多年生肉质草本。
-    剑形叶片呈莲座状排列，表面覆盖蜡质角质层，能有效反射强烈阳光并减少水分蒸发。叶片内部充满透明凝胶状组织，可储存大量水分，使其在极端干旱条件下存活数月。光合作用采用景天酸代谢（CAM）途径，夜间吸收二氧化碳来减少水分流失。叶边缘的刺既有防御功能，又能收集夜间空气中的冷凝水。总状花序，花橙黄色；蒴果呈三棱柱形，成熟后裂开释放种子。花果期集中在春夏季（5-7月）。
-    “芦”喻其叶似芦苇丛生，“荟”取“聚集”之意（宋《开宝本草》）。原产于阿拉伯半岛及非洲东北部干旱地区，古埃及人发现芦荟的凝胶状汁液具有强大的防腐和修复作用，用作外伤治疗和制作木乃伊的防腐剂，称其为“不朽之血”，据传埃及艳后克里奥帕特拉还将芦荟汁作为护肤品和防晒剂。现广布全球热带、亚热带地区，中国福建、云南等地大量栽培，用作观赏及药用。
-    花语：洁身自爱、不受干扰
+Aloe: Grüner Arzt in der Wüste
+Mehrjährige, sukkulente Pflanze.
+Die schwertförmigen Blätter sind rosettenförmig angeordnet und an der Oberfläche mit einer wachsartigen Kutikula bedeckt, die starkes Sonnenlicht effektiv reflektiert und die Wasserverdunstung reduziert. Das Blattinnere ist mit transparentem, gallertartigem Gewebe gefüllt, das große Mengen Wasser speichern kann und so selbst unter extremen Dürrebedingungen monatelang überleben kann. Die Photosynthese erfolgt über den Crassulaceen-Säurestoffwechsel (CAM). Nachts absorbiert sie Kohlendioxid, um den Wasserverlust zu reduzieren. Die Dornen am Blattrand dienen der Abwehr und können nachts Kondenswasser aus der Luft sammeln. Der Blütenstand ist orange-gelb, die Kapsel dreieckig-prismatisch und reißt auf, um die reifen Samen freizugeben. Die Blüte- und Fruchtzeit konzentriert sich auf Frühling und Sommer (Mai–Juli).
 
+„Lu“ bedeutet schilfartige Blätter, „hui“ bedeutet „Sammeln“ (Kaibao Materia Medica der Song-Dynastie). Die Aloe Vera stammt ursprünglich aus den Trockengebieten der Arabischen Halbinsel und Nordostafrikas. Die alten Ägypter entdeckten die starke antiseptische und heilende Wirkung des gelartigen Saftes der Aloe Vera. Er wird als Konservierungsmittel bei der Traumabehandlung und Mumifizierung verwendet und als „unsterbliches Blut“ bezeichnet. Kleopatra, die ägyptische Königin, soll Aloe-Vera-Saft auch als Hautpflegemittel und Sonnenschutzmittel verwendet haben. Aloe Vera ist heute in tropischen und subtropischen Regionen weltweit weit verbreitet. In Fujian, Yunnan und anderen chinesischen Regionen wird sie in großen Mengen zu Zier- und Heilzwecken angebaut.
+Blumensprache: rein, selbstbewusst und ungestört
 
 [NARCISSUSSHOOTER_FAMILY]
-石蒜科
+Amaryllidaceae
 [NARCISSUSSHOOTER_GENUS]
-水仙属
+Narzisse
 [NARCISSUSSHOOTER_PEDIA]
-水仙：冬日自恋的“凌波仙子”
-    多年生草本植物。
-    株高约40厘米；鳞茎卵球形；叶基生，长带状；伞形花序顶生，3-8朵花，具淡雅清香；花瓣6片，白色，中心具杯状金黄色副花冠；雄蕊6枚，雌蕊单生。副花冠既能形成物理屏障保护花蕊，鲜艳的颜色又能吸引传粉昆虫。此外，水仙属不同物种的副花冠形态各异，帮助其吸引不同的传粉昆虫，实现资源分割。蒴果室背开裂，种子近球形。花果期为12月至翌年3月。
-    原产于地中海沿岸，约唐代经丝绸之路传入中国，现见浙江、福建沿海岛屿。作为我国冬季室内水培花卉代表，因其清丽脱俗而被誉为“凌波仙子”。西方神话中，绝美少年Narcissus痴恋水中自己倒影，终日枯坐池畔而亡化为了水仙花，因此水仙花和“自恋”同名为“Narcissus”。其鳞茎有毒，含生物碱可提取药用成分。国内所见多为三倍体栽培品种，难自然结实，以鳞茎分株繁殖。
-    花语：思念与纯洁（中国），自恋与重生（西方）。
+Narzisse: die narzisstische „Lingbo-Fee“ im Winter
+Mehrjähriges Kraut. Die Pflanze wird etwa 40 cm hoch; die Zwiebel ist eiförmig; die Blätter sind grundständig, lang und bandförmig; die Dolde ist endständig und trägt 3–8 Blüten mit einem leichten, eleganten Duft; die sechs Blütenblätter sind weiß und haben in der Mitte eine becherförmige, goldene Krone. Die Narzisse hat sechs Staubblätter und einen einzelnen Stempel. Die Krone kann eine physische Barriere zum Schutz der Staubblätter bilden, und die leuchtende Farbe lockt bestäubende Insekten an. Die Kronen verschiedener Narzissenarten haben zudem unterschiedliche Formen, was ihnen hilft, unterschiedliche bestäubende Insekten anzulocken und eine Ressourcenaufteilung zu erreichen. Die Kapselkammer ist auf der Rückseite gespalten, und die Samen sind nahezu kugelförmig. Die Blüte- und Fruchtzeit dauert von Dezember bis März des Folgejahres.
 
+Sie ist an der Mittelmeerküste heimisch und wurde während der Tang-Dynastie über die Seidenstraße nach China eingeführt. Heute ist sie auf den Küsteninseln Zhejiang und Fujian zu finden. Als Vertreterin der winterlichen Hydrokultur-Zimmerblumen ist sie in China aufgrund ihrer Schönheit als „Fee von Lingbo“ bekannt. In der westlichen Mythologie war der schöne Junge Narziss von seinem eigenen Spiegelbild im Wasser besessen. Er saß den ganzen Tag am Teich, starb und verwandelte sich in eine Narzisse. Daher werden Narzissen und Narzissmus auch „Narcissus“ genannt. Ihre Zwiebeln sind giftig und enthalten Alkaloide, die für medizinische Zwecke extrahiert werden können. Die meisten heimischen Sorten sind triploide Sorten, die auf natürliche Weise schwer Früchte tragen und durch Zwiebelteilung vermehrt werden.
+Blumensprache: Fehlen und Reinheit (China), Narzissmus und Wiedergeburt (Westen).
 
 [TULIPTRUMPETER_FAMILY]
-百合科
+Liliaceae
 [TULIPTRUMPETER_GENUS]
-郁金香属
+Tulpengattung
 [TULIPTRUMPETER_PEDIA]
-郁金香：春日的绚烂号手
-    多年生草本植物。
-    株高约50厘米，具卵球形鳞茎；叶3-5枚，披针形；花单生于茎顶，花瓣6片，形似高脚杯，花色丰富；蒴果圆柱状，有三棱，成熟时开裂，种子扁平。因所见皆园艺品种，需用鳞茎分株繁殖才能保留亲本的观赏性状。花果期为春季。
-    原产于中亚及地中海沿岸，其名“Tulip”源于土耳其语“Tülbent”（头巾），因其杯状花型与其相似。16世纪经土耳其传入欧洲，后由荷兰发扬光大，引进我国时因形似姜科的郁金而得名。在17世纪荷兰“郁金香狂热”中，稀有品种的球茎价格堪比豪宅，成为史上首个经济泡沫案例。现为荷兰国花及主要经济作物，为世界春季常用观赏花卉。其鳞茎含少量生物碱可入药，有毒勿自行食用。
-    花语：炽热的爱(红色)、永恒的深情（紫色）、失恋后的新生（白色）、阳光与友谊（黄色）
+Tulpe: Die prächtige Frühlingstrompeter
+Mehrjähriges Kraut.
+Die Pflanze ist etwa 50 cm hoch und hat eine eiförmige Zwiebel; 3–5 Blätter, lanzettlich; die Blüte steht einzeln am oberen Ende des Stängels, hat sechs Blütenblätter, ist kelchförmig und farbenprächtig. Die Kapsel ist zylindrisch mit drei Kanten und reißt bei Reife auf. Die Samen sind flach. Da es sich bei allen gezeigten Sorten um Gartenbausorten handelt, ist eine Teilung der Zwiebeln erforderlich, um die dekorativen Eigenschaften der Elternpflanze zu erhalten. Blüte- und Fruchtzeit ist im Frühjahr.
 
+Ursprünglich in Zentralasien und an der Mittelmeerküste angebaut, leitet sich der Name „Tulpe“ vom türkischen „Tülbent“ (Turban) ab, da die becherförmige Blütenform diesem ähnelt. Die Tulpe wurde im 16. Jahrhundert über die Türkei nach Europa eingeführt und anschließend in den Niederlanden weiterentwickelt. Bei ihrer Einführung in mein Land wurde sie nach der Form der Kurkuma aus der Ingwerfamilie benannt. Während der „Tulpenmanie“ in den Niederlanden im 17. Jahrhundert waren die Preise für seltene Zwiebelsorten mit denen von Luxusimmobilien vergleichbar, was zur ersten Wirtschaftsblase der Geschichte führte. Heute ist sie die Nationalblume und wichtigste Nutzpflanze der Niederlande und wird im Frühling weltweit häufig als Zierblume verwendet. Ihre Zwiebeln enthalten geringe Mengen an Alkaloiden, die als Medizin verwendet werden können. Essen Sie sie nicht selbst, falls sie giftig sind.
+Blumensprache: glühende Liebe (rot), ewige Zuneigung (lila), Wiedergeburt nach einem gebrochenen Herzen (weiß), Sonnenschein und Freundschaft (gelb)
 
 [PASSIONFLOWER_FAMILY]
-西番莲科
+Passionsblumengewächse
 [PASSIONFLOWER_GENUS]
-西番莲属
+Passionsblumengattung
 [PASSIONFLOWER_PEDIA]
-西番莲：热带藤蔓上的奇迹之花
-    多年生常绿草质藤本植物。
-    茎圆柱形，具卷须，可攀附至数米高；叶片掌状5深裂；花朵与卷须对生；萼片和花瓣各5枚，淡绿色；外副花冠裂片3轮，丝状，内副花冠流苏状；雌雄蕊基部合生形成雌雄蕊柄，雄蕊5枚，子房卵圆球形，花柱3枚，紫红色；浆果卵圆形，成熟时橙黄色或紫红色。花期5-7月；果期因品种而异。
-    原产于南美洲，约17世纪经欧洲传入中国，又因花形似莲而得名“西番莲”。其属学名为“Passiflora”，源自拉丁语“flospassionis”（耶稣受难之花），因17世纪在南美洲的西班牙牧师传教士将其花朵结构代表基督受难的各种象征。现广泛分布于全球热带及亚热带地，中国广西、云南、广东等地已规模化引种栽培，偶见逸生于湿润山林。其花大而奇特，可作庭园观赏植物；全草可入药，具有祛风消热等功效。
-    花语：虔诚之心，憧憬
+Passionsblume: Wunderblume an tropischen Kletterpflanzen
 
+Mehrjährige, immergrüne, krautige Kletterpflanze.
+
+Der Stängel ist zylindrisch mit Ranken, die mehrere Meter hoch werden können; die Blätter sind handförmig fünflappig; Blüten und Ranken sind gegenständig; Kelch- und Kronblätter sind jeweils fünfzählig und hellgrün; die äußeren Kronenlappen sind dreiwirtelig und filamentös, die innere Krone ist quastenförmig. Die Basis der Staubblätter und Stempel ist zum Androgynophor mit 5 Staubblättern verwachsen, der Fruchtknoten ist oval und hat 3 Griffel, die purpurrot sind. Die Beeren sind oval und im reifen Zustand orangegelb oder purpurrot. Die Blütezeit ist Mai–Juli; die Fruchtzeit variiert je nach Sorte.
+Sie ist in Südamerika heimisch und wurde im 17. Jahrhundert über Europa nach China eingeführt. Sie wird auch „Passionsblume“ genannt, weil ihre Blüte einem Lotus ähnelt. Ihr Gattungsname ist „Passiflora“, was vom lateinischen „flospassionis“ (Blume der Passion Jesu) stammt, weil spanische Priester und Missionare in Südamerika im 17. Jahrhundert ihre Blütenstruktur verwendeten, um verschiedene Symbole der Passion Christi darzustellen. Heute ist sie in tropischen und subtropischen Gebieten auf der ganzen Welt weit verbreitet. Guangxi, Yunnan, Guangdong und andere Regionen Chinas haben die Pflanze in großem Umfang eingeführt und kultiviert. Gelegentlich wächst sie in feuchten Bergen und Wäldern. Ihre großen, eigentümlichen Blüten eignen sich als Zierpflanze im Garten; die ganze Pflanze kann als Heilmittel verwendet werden, da sie Wind und Hitze vertreibt.
+Blumensprache: frommes Herz, Sehnsucht
 
 [LOTUSSHOOTER_FAMILY]
-莲科
+Nelumbo-Familie
 [LOTUSSHOOTER_GENUS]
-莲属
+Nelumbo-Gattung
 [LOTUSSHOOTER_PEDIA]
-藕：淤泥中的白玉走廊
-    藕是莲（俗称荷花）的地下茎，呈圆柱形，节部缢缩，上生黑色鳞叶，下生须状不定根。具放射状通气孔道适应水下缺氧环境。其断裂时会有“藕断丝连”的现象，拉出的丝为导管壁的螺纹状纤维，主要起支持导管的作用。秋冬成熟的藕长可达1.5米，重达5公斤，淀粉含量高达20%，堪称“水下粮仓”。虽可用莲子繁殖，但农业生产多采用藕节顶芽进行无性繁殖，保留品种优良性状。
-    “藕”取“草”字头与“耦”（双生之意），暗喻其节节相连。我国食用藕的历史悠久，早在新石器时代河姆渡遗址已发现碳化藕粉。因“藕”与“偶”谐音，寓意“佳偶天成”，常用于婚庆仪式中。而在水域生态中，藕的根状茎网络可稳定底泥、吸收沉积物中的营养盐，减少水体富营养化；其孔道结构促进水体-底泥间的氧气交换，为鱼虾等水生动物改善栖息环境。
-
+Lotuswurzel: Weißer Jadekorridor im Schlamm
+Die Lotuswurzel ist der unterirdische Stamm der Lotosblume (allgemein bekannt als Lotosblume). Er ist zylindrisch, an den Knoten verengt und trägt oben schwarze Schuppenblätter und unten schnurrhaarartige Adventivwurzeln. Er verfügt über radiale Belüftungskanäle, um sich an die hypoxische Unterwasserumgebung anzupassen. Beim Brechen entsteht das Phänomen „gebrochene Lotuswurzel, aber verbundene Seide“. Die gezogene Seide ist die fadenförmige Faser der Kanalwand, die hauptsächlich die Rolle der Kanalstütze spielt. Die reife Lotuswurzel kann im Herbst und Winter 1,5 Meter lang und bis zu 5 Kilogramm schwer werden. Der Stärkegehalt beträgt bis zu 20 %, was sie zu einer „Kornkammer unter Wasser“ macht. Obwohl die Pflanze mit Lotussamen vermehrt werden kann, wird in der Landwirtschaft meist die ungeschlechtliche Vermehrung der oberen Knospen der Lotusknoten genutzt, um die hervorragenden Eigenschaften der Sorte zu erhalten.
+„Lotus“ ist eine Kombination aus dem chinesischen Schriftzeichen für „Gras“ und „Paar“ (Zwillinge), was bedeutet, dass die beiden miteinander verbunden sind. In meinem Land hat der Verzehr von Lotuswurzeln eine lange Tradition. In der Jungsteinzeit wurde in Hemudu karbonisiertes Lotuswurzelpulver gefunden. Da „Lotus“ und „Paar“ Homophone sind, bedeutet es „ein perfektes Paar“ und wird häufig bei Hochzeitszeremonien verwendet. In der aquatischen Ökologie kann das Rhizomnetzwerk der Lotuswurzeln den Bodenschlamm stabilisieren, Nährstoffe aus dem Sediment aufnehmen und die Eutrophierung von Gewässern reduzieren. Seine Porenstruktur fördert den Sauerstoffaustausch zwischen Gewässer und Bodenschlamm und verbessert so den Lebensraum für Wassertiere wie Fische und Garnelen.
 
 [WITCHHAZEL_FAMILY]
-金缕梅科
+
+Witchhazel-Familie
+
 [WITCHHAZEL_GENUS]
-金缕梅属
+
+Witchhazel-Gattung
+
 [WITCHHAZEL_PEDIA]
-金缕梅：古老的魔法护肤精灵
-    落叶灌木或小乔木。
-    高可达8米；嫩枝有星状绒毛；叶宽倒卵圆形，边缘具波状锯齿；花数朵形成头状或短穗状花序，花瓣4枚，黄色带状。蒴果卵圆形，成熟时果皮暴裂将种子弹射出去，完成种子传播。花期12月至翌年3月，果期9-11月。
-    因花瓣如金丝缕、冬季绽放远观似蜡梅而得名。原产中国长江流域的中海拔次生林或灌丛中，是我国特有的第三纪孑遗植物。它的英文名为“Chinese Witch Hazel”，因美洲原住民会用当地的北美金缕梅用于占卜（Witch）和皮肤消炎（现仍是众多护肤品牌青睐的成分），其叶形似榛树（Hazel）。作为极少数冬季开花的温带植物，金缕梅为早春前的传粉昆虫提供珍贵蜜源，维系生态链的连续性。
-    花语：灵感，抚慰伤痕
+Hamamelis: eine uralte magische Hautpflege-Elf
+
+Laubabwerfender Strauch oder kleiner Baum.
+Sie kann bis zu 8 Meter hoch werden. Die jungen Zweige sind sternförmig behaart. Die Blätter sind breit verkehrt eiförmig und am Rand gewellt. Mehrere Blüten bilden einen Kopf oder einen kurzen, ährenförmigen Blütenstand mit vier gelben, bandförmigen Blütenblättern. Die Kapsel ist oval. Bei Reife platzt die Schale auf und die Samen werden ausgestoßen, wodurch die Samenverbreitung abgeschlossen ist. Die Blütezeit dauert von Dezember bis März des Folgejahres, die Fruchtzeit von September bis November.
+
+Der Name kommt daher, dass seine Blütenblätter wie goldene Fäden aussehen und er aus der Ferne wie eine Winterpflaume aussieht, wenn er im Winter blüht. Er ist in den Sekundärwäldern oder Sträuchern in mittleren Höhenlagen im Jangtse-Becken Chinas heimisch und ist eine einzigartige Reliktpflanze des Tertiärs in China. Sein englischer Name lautet „Chinesische Zaubernuss“, da die amerikanischen Ureinwohner die einheimische nordamerikanische Zaubernuss zur Wahrsagerei (Witch) und als entzündungshemmendes Mittel für die Haut verwenden (sie ist noch heute ein beliebter Inhaltsstoff vieler Hautpflegeprodukte). Seine Blätter sind haselnussartig geformt (Hazel). Als eine der wenigen Pflanzen in gemäßigten Regionen, die im Winter blühen, liefert die Zaubernuss bestäubenden Insekten schon vor dem Frühjahr wertvollen Nektar und erhält so die Kontinuität der ökologischen Kette.
+
+Blumensprache: Inspiration, lindernde Narben
 
 
 [CACTUS_FAMILY]
@@ -36302,128 +36318,138 @@ SDK初始化失败
 
 
 [BLOVER_FAMILY]
-豆科
+Fabaceae
 [BLOVER_GENUS]
-车轴草属
+Trifolium
 [BLOVER_PEDIA]
-三叶草：幸运的绿色信使
-    短期多年生草本，生长期达5年。
-    茎匍匐或直立，高10-30厘米；掌状三出复叶，小叶卵圆形，叶面常具白色V形斑纹，夜间会折叠闭合以减少夜间热量的散失；花序球形，花冠白色、乳黄色或淡红色，具香气；荚果长圆形。花果期5-10月。
-    因叶片具三片小叶而得名，又因形似车轴，花白色而得名“白车轴草”（《中国植物志》中的中文名）。原产欧洲和北非，现世界各地均有栽培。为优良牧草，抗性极佳，也可作为绿肥、堤岸防护草种、草坪装饰，以及蜜源和药材等用。四叶草是三叶草发生变异产生的，据传在自然界中出现的概率极低，为十万分之一，因此发现四叶草被做为幸运的象征。
-    花语：希望、爱与信仰、幸运（四叶草）
+Klee: Glücksbote
 
+Kurzlebige, mehrjährige Pflanze, wächst 5 Jahre lang.
+
+Stämme kriechend oder aufrecht, 10–30 cm hoch; handförmig dreiblättrige Blätter, eiförmige Fiederblättchen, oft mit weißer V-förmiger Zeichnung auf der Blattoberfläche, nachts gefaltet und geschlossen, um den Wärmeverlust zu reduzieren; Blütenstand kugelig, Blütenkrone weiß, cremegelb oder hellrot, duftend; Schoten länglich. Blüte- und Fruchtzeit Mai–Oktober.
+
+Der Name Weißklee leitet sich von den drei Fiederblättchen der Blätter ab, und aufgrund seiner achsenähnlichen Form und der weißen Blüten wird er auch „Weißklee“ genannt (chinesischer Name in der „Flora von China“). Er ist in Europa und Nordafrika heimisch und wird heute weltweit angebaut. Er ist ein ausgezeichnetes Futtergras mit hervorragender Widerstandsfähigkeit. Es kann auch als Gründüngung, Böschungsschutzgras, Rasendekoration, Nektarquelle und Heilmittel verwendet werden. Vierblättriges Kleeblatt ist eine Mutation des dreiblättrigen Klees. Man sagt, dass die Wahrscheinlichkeit seines Vorkommens in der Natur extrem gering ist (eins zu hunderttausend), daher gilt die Entdeckung des vierblättrigen Klees als Glückssymbol.
+Blumensprache: Hoffnung, Liebe und Glaube, Glück (vierblättriges Kleeblatt)
 
 [BAMBOO_FAMILY]
-禾本科
+Gramineae
 [BAMBOO_GENUS]
-竹亚科
+Bambusunterfamilie
 [BAMBOO_PEDIA]
-竹笋：破土而出的生命密码
-    竹笋是竹类植物的幼嫩茎芽，由地下横走的竹鞭节部萌发。其外层包裹褐色或黄绿色箨壳，密被绒毛或斑点，内藏乳白色笋肉，质地脆嫩。按生长季节和形态可分冬笋（冬季休眠芽，短粗如锥）与春笋（春雨后破土，细长似剑），生长高峰期单日可抽高30厘米以上，展现惊人的爆发力。
-    全球竹类90%物种分布于亚洲，中国长江流域为竹笋主产区。“笋”字最早见于甲骨文，上部“竹”表类属，下部“旬”喻其十日成竹的速生特性。《诗经》“其蔌维何，维笋及蒲”印证其3000年食用史。用鲜嫩的笋切片晒干，由于形似玉兰花瓣而被称为“玉兰片”。
+Bambussprossen: Der Code des Lebens, der aus dem Boden bricht
+Bambussprossen sind junge Stängelknospen von Bambuspflanzen, die aus den unterirdischen horizontalen Bambuspeitschenknoten sprießen. Ihre äußere Schicht ist von braunen oder gelbgrünen Hüllen umhüllt, die dicht mit Flaum oder Flecken bedeckt sind und milchig-weißes, knackiges Sprossfleisch enthalten. Je nach Wachstumsperiode und Morphologie unterscheidet man Wintertriebe (im Winter ruhende Triebe, kurz und dick wie Zapfen) und Frühlingstriebe (die nach Frühlingsregen aus dem Boden brechen, schlank wie Schwerter). In der Wachstumsphase kann der Bambus mehr als 30 cm pro Tag wachsen und zeigt dabei eine erstaunliche Wachstumskraft.
 
+90 % der weltweiten Bambusarten sind in Asien verbreitet, und das Jangtse-Becken in China ist das Hauptanbaugebiet für Bambussprossen. Das Wort „Spross“ taucht erstmals in der Orakelknochenschrift auf. Der obere Teil „竹“ weist auf die Kategorie hin, der untere Teil „旬“ auf das schnelle Wachstum, das innerhalb von zehn Tagen zu Bambus heranwächst. Das „Buch der Lieder“ „Was sind die Gemüse? Es sind Sprossen und Rohrkolben“ bestätigt die 3000-jährige Geschichte des Verzehrs. Frische Triebe werden in Scheiben geschnitten und getrocknet und aufgrund ihrer Ähnlichkeit mit Magnolienblüten „Magnolienscheiben“ genannt.
 
 [TURNIP_FAMILY]
-十字花科
+
+Cruciferae
+
 [TURNIP_GENUS]
-萝卜属
+
+Rettich
+
 [TURNIP_PEDIA]
-萝卜：土地中的朴拙智者
-    二年生草本。
-    主根膨大成肉质直根，表皮白、红、绿或紫黑，形状从长锥到圆球各异；茎有分枝，无毛，稍具粉霜；基生叶和下部叶片羽状半裂，上部茎生叶长圆形。总状花序，花白色或粉红色，4瓣呈十字形排列。果实为圆柱形长角果，成熟后果皮木质化，自然裂开散播。花期4-5月，果期5-6月。
-    起源于西亚至地中海沿岸，5000年前埃及已栽培。中国《诗经》称“菲”，汉代张骞引入后渐称“莱菔”，后演化为“萝卜”，取“草根丰茂”之意。现全球温带广植，中国年产量占世界40%，山东潍县青萝卜、北京心里美尤为著名。此外，其种子和叶可入药用于消食化痰，种子榨油工业用及食用。
+Rettich: Der einfache und weise Mann im Land
+
+Zweijähriges Kraut.
+
+Die Pfahlwurzel schwillt zu einer fleischigen Pfahlwurzel mit weißer, roter, grüner oder violett-schwarzer Epidermis an. Die Form variiert von einem langen Kegel bis zu einer runden Kugel. Der Stängel ist verzweigt, kahl und leicht pulverförmig. Die Grundblätter und die unteren Blätter sind gefiedert-spaltig, die oberen Stängelblätter sind länglich. Die Blüten sind weiß oder rosa und die vier Blütenblätter sind kreuzförmig angeordnet. Die Frucht ist eine zylindrische Schote. Bei Reife verholzt die Schale und spaltet und breitet sich auf natürliche Weise aus. Die Blütezeit ist April-Mai, die Fruchtzeit Mai-Juni.
+Die Pflanze stammt ursprünglich aus Westasien und der Mittelmeerküste und wurde vor 5.000 Jahren in Ägypten kultiviert. Im chinesischen „Buch der Lieder“ wurde er „Fei“ genannt. Nachdem Zhang Qian ihn in der Han-Dynastie eingeführt hatte, wurde er allmählich „Rettich“ genannt. Später entwickelte er sich zu „Rettich“, was „üppige Graswurzeln“ bedeutet. Heute wird er weltweit in gemäßigten Zonen angebaut, und Chinas jährliche Produktion beträgt 40 % der Weltproduktion. Besonders bekannt sind der Shandong Weixian Grüne Rettich und der Beijing Xinlimei. Darüber hinaus können seine Samen und Blätter als Medizin zur Verdauung und gegen Schleimbildung verwendet werden, und die Samen dienen der industriellen Ölgewinnung und dem Konsum.
 
 
 [FIREGOURD_FAMILY]
-葫芦科
+Cucurbitaceae
 [FIREGOURD_GENUS]
-葫芦属
+Cucurbitaceae
 [FIREGOURD_PEDIA]
-葫芦：藤蔓上的福禄
-    一年生攀援草本。
-    茎蔓生，密被柔毛，卷须分2-5叉；叶片心状卵形，不分裂或3-5裂；雌雄同株，花单生，白色五瓣，黄昏绽放，借夜行蛾类传粉；果实形态多变，幼果青绿可食，成熟后果壳木质化，轻而中空，可浮水传播种子，堪称“植物漂流瓶”。花期夏季，果期秋季。
-    “葫”源自波斯语“hūl”，意为经西域传入；“芦”取“蔓生”之意。但葫芦原产地目前仍有争议，普遍认为原产非洲，通过洋流（果实漂浮）或人类迁徙从非洲扩散至亚洲、美洲，现亦广泛栽培于世界热带到温带地区。古称“瓠”或“匏”，浙江余姚河姆渡遗址（约7000年前）出土的碳化葫芦皮，《诗经》中“匏有苦叶”的记载，证明其在我国栽培历史悠久。除了食用还可作为盛酒容器、舀水瓢以及乐器（如葫芦丝），也可药用。因中空特性，葫芦被赋予“虚怀若谷”、“包容万象”的寓意；道家视其为法器，象征“天地一壶”；民间婚俗悬挂寓意“福禄双全”。
+Kürbis: Glücksbringer
+Einjährige Kletterpflanze.
+Die Stängel sind kriechend, dicht mit weichen Haaren bedeckt, und die Ranken sind in zwei bis fünf Zweige unterteilt. Die Blätter sind herzförmig und eiförmig, ungeteilt oder drei- bis fünflappig; die Pflanzen sind einhäusig; die Blüten stehen einzeln, weiß mit fünf Blütenblättern, blühen in der Dämmerung und werden von Nachtfaltern bestäubt; die Früchte sind vielfältig geformt, die jungen Früchte sind grün und essbar, die reifen Fruchtschalen holzig, leicht und hohl und können auf dem Wasser schwimmen und so ihre Samen verbreiten, was als „treibende Pflanzenflaschen“ bezeichnet wird. Die Blütezeit ist Sommer, die Fruchtzeit Herbst.
 
+„Hu“ leitet sich vom persischen Wort „hūl“ ab, was so viel bedeutet wie „durch die westlichen Regionen eingeführt werden“; „Lu“ bedeutet „klettern“. Der Ursprung des Kürbisses ist jedoch umstritten. Man geht allgemein davon aus, dass er ursprünglich aus Afrika stammt und sich von dort durch Meeresströmungen (schwimmende Früchte) oder menschliche Migration nach Asien und Amerika verbreitete. Heute wird er in tropischen bis gemäßigten Regionen der Welt weit verbreitet angebaut. In der Antike wurde er „瓠“ oder „匏“ genannt. Die verkohlte Kürbisschale, die vor etwa 7.000 Jahren an der Hemudu-Stätte in Yuyao, Zhejiang, ausgegraben wurde, und der Eintrag „匏 hat bittere Blätter“ im „Buch der Lieder“ belegen die lange Tradition des Anbaus in China. Er ist nicht nur essbar, sondern kann auch als Weinbehälter, Wasserschöpfer und Musikinstrument (wie z. B. das Hulusi) verwendet werden und findet auch Anwendung in der Medizin. Aufgrund seiner Hohlheit wird dem Kürbis die Bedeutung von „aufgeschlossen“ und „allumfassend“ zugeschrieben; Taoisten betrachten ihn als magisches Werkzeug und symbolisieren „die Welt ist ein Topf“. Bei volkstümlichen Hochzeitsbräuchen wird er aufgehängt, um „Glück und Glück“ zu symbolisieren.
 
 [PEACH_FAMILY]
-蔷薇科
+Rosaceae
 [PEACH_GENUS]
-李属
+Prunus
 [PEACH_PEDIA]
-桃：春日的粉色仙味
-    落叶小乔木。
-    高3-8米，树皮暗灰褐色；叶椭圆状披针形，边缘细锯齿；花单生，花梗近无，花瓣5枚，粉色或白色，雄蕊约20-30枚，雌蕊单生；果实为核果，球形或扁圆，表皮被绒毛。花期3-4月；果期因品种而异。
-    桃字由“木”和“兆”（表音兼表意，象征果实多或裂开的果核）组成，本义指桃树及其果实。原产中国，4000年前已驯化，《诗经》“桃之夭夭”为证，现世界各地均有栽植。英语“peach”源自拉丁语“malum persicum”（波斯苹果），暗示桃可能经丝绸之路从中国传入西方，而将波斯误认为原产地。除了果实可食，树干上分泌的胶质俗称桃胶，可食用，也供药用，有和血益气之效。因《山海经》等古籍记载桃树镇鬼的传说，桃木常作辟邪法器，制成“桃符”悬挂于门上驱邪（后演变为春联）。
-    花语：爱情的俘虏  
-
+Pfirsich: Der rosafarbene Feenduft des Frühlings
+Laubwerfender kleiner Baum.
+3–8 Meter hoch, dunkelgraubraune Rinde; Blätter elliptisch-lanzettlich, fein gezähnte Ränder; Blüten einzeln, Stiele fast fehlend, 5 Blütenblätter, rosa oder weiß, etwa 20–30 Staubblätter, einzelner Stempel; Frucht ist eine Steinfrucht, kugelig oder abgeflacht, mit kurz weichhaariger Epidermis. Blütezeit März–April; Fruchtzeit variiert je nach Sorte.
+Das Wort „Pfirsich“ setzt sich aus „木“ (Holz) und „兆“ (phonetisch und ideographisch, symbolisiert reiche Früchte oder aufgebrochene Kerne) zusammen. Seine ursprüngliche Bedeutung bezieht sich auf Pfirsichbäume und ihre Früchte. Ursprünglich stammt er aus China und wurde vor 4.000 Jahren domestiziert, wie das „桃之夭夭“ im Buch der Lieder belegt. Heute wird er auf der ganzen Welt angepflanzt. Das englische Wort „Peach“ leitet sich vom lateinischen „malum persicum“ (persischer Apfel) ab. Dies lässt darauf schließen, dass der Pfirsich möglicherweise über die Seidenstraße aus China in den Westen gelangte und Persien fälschlicherweise als Ursprungsort angesehen wurde. Neben der essbaren Frucht ist auch das aus dem Stamm abgesonderte Harz als Pfirsichharz bekannt. Es ist essbar und kann auch medizinisch verwendet werden. Es wirkt blutharmonisierend und regenerierend auf das Qi. Aufgrund der Legende, dass Pfirsichbäume Geister vertreiben können, wie sie in alten Büchern wie dem „Klassiker der Berge und Meere“ beschrieben wird, wird Pfirsichholz oft als magisches Mittel zur Abwehr böser Geister eingesetzt. Es werden „Pfirsichzauber“ hergestellt und an Türen gehängt, um böse Geister abzuwehren (später wurden daraus Frühlingsfest-Reime). Blumensprache: Gefangene der Liebe
 
 [CHERRY_BOMB_FAMILY]
-蔷薇科
+Rosaceae
 [CHERRY_BOMB_GENUS]
-李属
+Prunus
 [CHERRY_BOMB_PEDIA]
-樱桃：春日舌尖的甜蜜盛宴
-    落叶乔木。
-    高2-6米，树皮灰白色；叶卵形至椭圆形，边缘有尖锐重锯齿；花序伞房状，先叶开花，花瓣5枚，白色或淡粉，雄蕊30-50枚，雌蕊单生。核果近球形，红色。花期3-4月，果期5-6月。
-    因莺鸟喜食其果，古称“莺桃”，后谐音为“樱桃”，原生长江流域，现广泛栽培于欧亚温带。除了食用，也可酿酒，枝、叶、根、花也可供药用。由于中国樱桃较小不易储存，畅销的“车厘子”多为欧洲甜樱桃的改良品种。其栽培品种需冷量高（7℃以下时长达800小时）正常开花结果，使其成为研究气候变化对果树影响的“哨兵物种”。樱桃因其鲜红欲滴的颜色和心形果实 ，在欧洲文化中常被赋予丰收、青春、爱情与诱惑的意象。
-    花语：纯真与天真、爱情与珍惜、希望与新生
+Kirsche: Ein süßer Gaumenschmaus im Frühling
+Laubabwerfender Baum.
+2–6 Meter hoch, mit grauweißer Rinde; die Blätter sind eiförmig bis elliptisch, mit scharfen, doppelten Zacken am Rand; der Blütenstand ist doldenförmig und blüht vor dem Laubaustrieb. Er hat fünf Blütenblätter, ist weiß oder hellrosa, 30–50 Staubblätter und einzelne Stempel. Die Steinfrucht ist fast kugelig und rot. Blütezeit ist März–April, Fruchtzeit Mai–Juni.
 
+Wegen der Früchte, die Grasmücken gerne fressen, wurde die Kirsche in der Antike „Grasmückenpfirsich“ genannt und später als „Kirsche“ ausgesprochen. Sie ist im Jangtse-Einzugsgebiet heimisch und wird heute in der gemäßigten Zone Eurasiens weit verbreitet angebaut. Neben dem Verzehr kann man auch Wein daraus herstellen, und Zweige, Blätter, Wurzeln und Blüten finden auch Verwendung in der Medizin. Da chinesische Kirschen klein und schwer zu lagern sind, sind die meistverkauften Kirschen meist verbesserte Sorten europäischer Süßkirschen. Die kultivierten Sorten benötigen hohe Temperaturen (bis zu 800 Stunden unter 7 °C), um normal zu blühen und Früchte zu tragen. Dies macht sie zu einer „Wachstumsart“ für die Erforschung der Auswirkungen des Klimawandels auf Obstbäume. Kirschen mit ihrer leuchtend roten Farbe und den herzförmigen Früchten werden in der europäischen Kultur oft mit dem Symbol für Ernte, Jugend, Liebe und Versuchung in Verbindung gebracht.
+Blumensprache: Unschuld und Naivität, Liebe und Wertschätzung, Hoffnung und Wiedergeburt
 
 [RHEUMNOBILE_FAMILY]
-蓼科
+Polygonaceae
 [RHEUMNOBILE_GENUS]
-大黄属
+Rheum
 [RHEUMNOBILE_PEDIA]
-塔黄：高山之巅的“黄金宝塔”
-    多年生草本植物。
-    高1-2米；茎单生不分枝，粗壮挺直；基生叶数片，呈莲座状，近革质；总状花序分枝腋生，常5-8枝成丛，花被片6或较少；果实宽卵形，种子心状卵形。花果期6-9月，正值高山短暂的夏季。
-    作为典型的高山植物，塔黄主要分布在海拔4000-4800米的在喜马拉雅山脉和横断山区的高山流石滩上。因其花序由多层乳黄色或淡绿色苞片包裹，形似一座金黄色的宝塔而得名“塔黄”。这些苞片半透明，能透光并保温，为其花朵和幼果构建了“温室"，使其免受高寒环境的伤害，此外可为小型高山昆虫提供庇护所，它的存在有助于稳定高山脆弱的生态环境。
-    花语：坚韧与奇迹 
+Rheum nobilis: „Goldene Pagode“ auf dem Berggipfel
+Mehrjähriges Kraut. 1–2 Meter hoch; der Stängel ist einzeln und unverzweigt, kräftig und aufrecht; die grundständigen Blätter sind mehrere, rosettenförmig, fast ledrig; die Blütentrauben sind achselständig verzweigt, oft 5–8-ästig in Büscheln, die Blütenhüllblätter sind maximal 6; die Früchte sind breit eiförmig, die Samen herzförmig und eiförmig. Die Blüte- und Fruchtzeit dauert von Juni bis September, während des kurzen Sommers in den Bergen.
 
+Als typische Alpenpflanze ist der Turmgelbe hauptsächlich an den alpinen Felsstränden des Himalaya und des Hengduan-Gebirges in 4000–4800 Metern Höhe verbreitet. Seinen Namen verdankt er seinem Blütenstand, der von mehreren Schichten milchig-gelber oder hellgrüner Hochblätter umhüllt ist, die einer goldenen Pagode ähneln. Diese Hochblätter sind lichtdurchlässig, licht- und wärmespeichernd und bilden ein „Gewächshaus“ für die Blüten und jungen Früchte, um sie vor den Schäden der Höhenkälte zu schützen. Darüber hinaus bietet sie kleinen Alpeninsekten Schutz. Ihre Existenz trägt zur Stabilisierung des empfindlichen ökologischen Umfelds der Berge bei.
+Blumensprache: Zähigkeit und Wunder
 
 [BUBBLECORAL_FAMILY]
-仙人掌科
+Kakteenfamilie
 [BUBBLECORAL_GENUS]
-仙人掌属
+Kakteengattung
 [BUBBLECORAL_PEDIA]
-姬珊瑚：多肉界的“招财手”
-    多年生肉质小灌木。
-    株高约15厘米，茎细圆柱形茎肉质，呈珊瑚状分枝。茎表面密布白色刺座，着生细小白刺；花顶生，粉红色或白色；浆果椭球型。花期为夏季，果期为秋季。
-    株形小巧的植物常用“姬”来命名，丛生形态似珊瑚而得名，又因茎干细长条状名“仙人条”，多分枝似手掌而名“招财手”。原产墨西哥和美国西南部，现各地多栽培用作多肉观赏盆栽。
+Koralle: „Geldverdiener“ in der Welt der Fleischpflanzen
+Mehrjähriger, sukkulenter Strauch.
+Die Pflanze wird etwa 15 cm hoch und hat einen schlanken, zylindrischen Stamm und fleischige, korallenartige Zweige. Die Stängeloberfläche ist dicht mit weißen Areolen mit winzigen weißen Dornen bedeckt; die Blüten sind endständig, rosa oder weiß; die Beeren sind ellipsoid. Die Blütezeit ist Sommer, die Fruchtzeit Herbst.
 
+Die kleine Pflanze wird oft „Ji“ genannt. Ihr Name leitet sich von ihrer korallenartigen, büschelartigen Form ab. Wegen seiner schlanken Stängel wird er auch „Xianren Tiao“ und wegen seiner vielen palmenartigen Zweige „Zhaocai Hand“ genannt. Er ist in Mexiko und im Südwesten der USA heimisch und wird heute vielerorts als sukkulente Zierpflanze im Topf kultiviert.
 
 [WINTERRAMBUTAN_FAMILY]
-无患子科
-[WINTERRAMBUTAN_GENUS]
-韶子属
-[WINTERRAMBUTAN_PEDIA]
-红毛丹——热带果林的毛荔枝
-    常绿乔木。
-    高10余米；羽状复叶互生，小叶2-3对，薄革质椭圆形。聚伞圆锥花序顶生或腋生，花小，单性，无花瓣，雌雄异株。果实椭圆形，红色，长约5厘米，果皮密被柔软刺，假种皮肉质白色（食用部分）与种皮粘连，包裹种子。花期夏初，果期秋初。
-    原产亚洲热带，马来群岛一带种植较多，通称“Rambutan”（意为“毛茸茸的果子”），因果实形态和口味与荔枝相似也常被称为“毛荔枝”，是东南亚地区备受喜爱的水果。此外，其果壳可煎茶或作染料，树皮和根也可做茶饮，有降火消炎之效。
 
+Sapindaceae
+
+[WINTERRAMBUTAN_GENUS]
+
+Sauvignon
+
+[WINTERRAMBUTAN_PEDIA]
+Rambutan – die haarige Litschi der tropischen Obstwälder
+
+Immergrüner Baum.
+
+Über 10 Meter hoch; die gefiederten, zusammengesetzten Blätter sind wechselständig, mit 2–3 Blättchenpaaren, dünn, ledrig, elliptisch. Die Rispen sind endständig oder achselständig, die Blüten sind klein, eingeschlechtig, ohne Blütenblätter und zweihäusig. Die Frucht ist oval, rot, etwa 5 cm lang und trägt dichte, weiche Dornen an der Fruchtwand. Der fleischige, weiße Samenmantel (essbarer Teil) haftet an der Samenschale und umhüllt die Samen. Die Blütezeit ist der Frühsommer, die Fruchtzeit der Frühherbst.
+
+Die Pflanze stammt ursprünglich aus dem tropischen Asien und ist im Malaiischen Archipel weit verbreitet. Sie ist allgemein als „Rambutan“ (bedeutend mit „haarige Frucht“) bekannt und wird aufgrund ihrer ähnlichen Form und ihres Geschmacks oft auch als „haarige Litschi“ bezeichnet. Sie ist in Südostasien eine beliebte Frucht. Ihre Schale kann zur Herstellung von Tee oder zum Färben verwendet werden, und auch ihre Rinde und Wurzeln können als Tee verwendet werden, der feuer- und entzündungshemmend wirkt.
 
 [BURDOCKBATTER_FAMILY]
-菊科
+Asteraceae
 [BURDOCKBATTER_GENUS]
-牛蒡属
+Arctium
 [BURDOCKBATTER_PEDIA]
-牛蒡——药食两用的“牛尾”根
-    二年生草本植物。
-    植株高可达2米，肉质直根，圆柱形，长可达1米；茎直立，粗壮，带紫色；叶宽卵形，长可达30厘米；头状花序在茎顶排成疏松的或圆锥状伞房花序，总苞卵球形，苞片顶端有倒钩刺，果实成熟期可帮助果实挂附在动物皮毛上帮其传播至远方；小花紫红色；瘦果倒长卵形，浅褐色。花果期6-9月。
-    因其植株粗壮似“牛”，野外丛生为“蒡”而得名，另一说因其根似牛尾得名。广布欧亚大陆，因其肉质根味道清香，且有清热解毒、疏风利咽之效，为东亚地区广受欢迎的保健食材，各国各地也普遍栽培。其果实也可入药，具疏散风热等功效。
-
+Klette – die „Ochsenschwanz“-Wurzel, die sowohl als Heilpflanze als auch als Nahrungsmittel verwendet wird.
+Zweijähriges Kraut.
+Die Pflanze kann bis zu 2 Meter hoch werden, hat fleischige, zylindrische Pfahlwurzeln und wird bis zu 1 Meter lang. Der Stängel ist aufrecht, kräftig und violett; die Blätter sind breit eiförmig und bis zu 30 cm lang. Die Körbchen stehen in lockeren oder kegelförmigen Dolden am oberen Ende des Stängels, die Hülle ist eiförmig, und die Tragblätter haben an der Spitze stachelige Dornen, die den Früchten helfen können, am Fell von Tieren zu hängen und sich während der Fruchtreife über weite Gebiete zu verbreiten. Die kleinen Blüten sind purpurrot; die Achänen sind länglich eiförmig und hellbraun. Die Blüte- und Fruchtzeit dauert von Juni bis September.
+Da die Pflanze robust wie eine Kuh ist, wird sie „Klette“ genannt, wenn sie in freier Natur in Büscheln wächst. Eine andere Überlieferung besagt, dass ihre Wurzeln an Ochsenschwänze erinnern. Die Klette ist in Eurasien weit verbreitet. Ihre duftenden, fleischigen Wurzeln wirken hitzelösend, entgiftend, windvertreibend und lindernd bei Halsschmerzen. Sie ist ein beliebtes Naturheilmittel in Ostasien und wird auch in verschiedenen Ländern angebaut. Ihre Früchte werden auch als Medizin verwendet und wirken wind- und hitzevertreibend.
 
 
 [JEWELRABBIT_FAMILY]
-番杏科
+Aizoaceae
 [JEWELRABBIT_GENUS]
-碧光环属
-[JEWELRABBIT_PEDIA]
-碧光环——多肉界的“小兔子”
-    多年生草本植物。
-    株高可达15厘米；茎褐色肉质，顶端生对生的肉质叶组成，呈半球形；新叶从中长出，细长对生，形似兔耳；花白色，果实呈元宝形。花果期因地域和养护条件而异，一般在秋季至春季间。
-    因叶片形态常被多肉植物爱好者称为“小兔子”，原产南非。因其可爱的形态而常作为盆栽观赏，喜温暖和散射光充足的环境，耐旱忌涝，忌强光暴晒。
+JEWELRABBIT_PEDIA
+JEWELRABBIT_PEDIA – „Kleines Kaninchen“ in der Welt der Sukkulenten
+Mehrjähriges Kraut.
+Die Pflanze wird bis zu 15 cm hoch; der Stängel ist braun und fleischig, mit gegenständigen, fleischigen Blättern an der Spitze, die halbkugelig sind. Es wachsen neue Blätter, die schlank und gegenständig sind und an Hasenohren erinnern; die Blüten sind weiß und die Früchte barrenförmig. Die Blüte- und Fruchtzeit variiert je nach Region und Pflegebedingungen und liegt in der Regel zwischen Herbst und Frühjahr.
+
+Wegen ihrer Blattform wird sie von Sukkulentenliebhabern oft „kleines Kaninchen“ genannt und stammt ursprünglich aus Südafrika. Aufgrund ihrer niedlichen Form wird sie oft als Topfpflanze zum Betrachten verwendet. Sie mag einen warmen, diffusen Lichteinfall, ist trockenheitsresistent, staunässeresistent und verträgt viel Sonnenlicht.
 
 
 [HEATHSEEKER_FAMILY]
@@ -38638,7 +38664,7 @@ Die Verdauungszeit des kleinen Wächterpilzes wurde verkürzt; die Erhöhung des
 Die Verdauungszeit des kleinen Wächterpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wächterpilzes erhöht sich nicht mehr.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die große Attacke der Energiebohne direkt auszulösen!
+Beim Pflanzen besteht die Chance, die große Attacke der Spezialdünger-Fähigkeit direkt auszulösen!
 
 [GUARDSHROOM_NEW_SKILL_LEVEL5_DES]
 Der Wächterpilz erzeugt jetzt einen stärkeren Abyss-Wächterpilz, der mittelgroße Zombies fressen kann. Stirbt der Wächterpilz, nachdem er von einem Zombie gefressen wurde, fällt er in den Abyss und zerrt den Zombie mit seinen Tentakeln zu Boden.
@@ -38768,7 +38794,7 @@ Wenn eine Erbsenpflanze an der Erbsenranke gepflanzt wird, erscheint ein Erbsenv
 Das Erbsenverstärkungslicht wird verstärkt, wodurch Erbsenpflanzen einen Angriffskraftbonus von 30 % erhalten. Die Wahrscheinlichkeit der Kugelreplikation steigt auf 80 %.
 
 [PEAVINE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [PEAVINE_NEW_SKILL_LEVEL5_DES]
 Wenn diese Fähigkeit wirksam ist, wird beim Pflanzen von Erbsenpflanzen sofort eine Erbsenranke gepflanzt. (Diese Fähigkeit ist global und kann auch ohne Pflanzen wirksam sein. Sie kann den Fähigkeitswechsel steuern.)
@@ -39559,7 +39585,7 @@ Die Angriffsreichweite der Zitterschale erhöht sich um 1 Feld und die Bewegungs
 Die Angriffsreichweite der Zitterschale erhöht sich erneut um 1 Feld und die Bewegungsgeschwindigkeit des Zitteraals um 20 %.
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohne direkt loszulassen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt loszulassen!
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL5_DES]
 Wenn die Zitterschale angreift, hat sie eine Chance von 20 %, einen Blitzaal auszustoßen und sich vorwärts zu bewegen. Dieser bindet sich an den ersten Zombie, der auf dem Weg gebunden werden kann, und löst alle 3 Sekunden einen Elektroschock aus, der Schaden in einem einzigen Gitterbereich verursacht, den gefesselten Zombie 1,5 Sekunden lang lähmt und den Zombies im Umkreis von 3*3 50 % ihrer Angriffskraft zufügt. Der Blitzaal existiert maximal 10 Sekunden und fügt dem ersten gebundenen Zombie und den nicht gebundenen Zombies, die er auf dem Weg trifft, 150 % der Angriffskraft zu.
@@ -40424,7 +40450,7 @@ Der Schaden großer Blasen erhöht sich um 25 %, die Angriffsgeschwindigkeit mit
 Der Schaden großer Blasen erhöht sich um 50 %, die Angriffsgeschwindigkeit mittlerer Blasen um 50 % und die Anzahl der abgefeuerten kleinen Blasen auf 25.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Energiebohnen direkt freizusetzen.
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Spezialdünger-Fähigkeitn direkt freizusetzen.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 50-prozentige Chance, dass es sich bei den abgefeuerten Blasen um Säureblasen handelt. Säureblasen erhöhen den Schaden an der Rüstung. Mittlere und große Blasen hinterlassen nach der Explosion Säure auf dem Boden, die Zombies kontinuierlich Schaden zufügt.
@@ -47727,91 +47753,91 @@ Orange
 南瓜巫师获得新南瓜的时间减少{Param_1}秒
 
 [GENE_DESCRIPTION_BLOVER]
-三叶草种植冷却时间缩短{Param_1}%
+Abklingzeit für Wehblatt um {Param_1} % reduziert.
 
 [GENE_DESCRIPTION_BONKCHOY]
-菜问大招伤害增加{Param_1}%
+Schaden von Caiwens ultimativer Attacke um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_POWERLILY]
-能量花种植冷却时间缩短{Param_1}%
+Abklingzeit für Energieblumenpflanzung um {Param_1} % reduziert.
 
 [GENE_DESCRIPTION_PHATBEET]
-魔音甜菜大招伤害增加{Param_1}%
+Schaden von Phatbeets ultimativer Attacke um {Param_1} % erhöht.
 
-[GENE_DESCRIPTION_HURRIKALE]
-飓风甘蓝种植冷却时间缩短{Param_1}%
+[GENE_DESCRIPTION_PHATBEET] CRIPTION_HURRIKALE]
+Abklingzeit für Hurrikankohlpflanzung um {Param_1} % reduziert.
 
 [GENE_DESCRIPTION_PRIMALPEASHOOTER]
-原始豌豆射手攻击力增加{Param_1}%
+Angriffskraft der primitiven Erbsenschleuder erhöht um {Param_1} %
 
 [GENE_DESCRIPTION_TWINSUNFLOWER]
-双胞胎向日葵返还阳光概率增加{Param_1}%
+Die Wahrscheinlichkeit, dass Zwillingssonnenblumen Sonnenlicht zurückgeben, ist um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_PRIMALSUNFLOWER]
-原始向日葵种植冷却时间缩短{Param_1}%
+Die Abklingzeit für das Pflanzen primitiver Sonnenblumen wurde um {Param_1} % verkürzt.
 
 [GENE_DESCRIPTION_CHESTNUT]
-板栗小队小板栗重生间隔减少{Param_1}秒
+Das Intervall zwischen den Kastanien-Respawns im Kastanien-Team wird um {Param_1} Sekunden verkürzt.
 
 [GENE_DESCRIPTION_TOADSTOOL]
-金蟾菇吞咽结束后生产阳光增加{Param_1}点
+Nach dem Verschlucken des Goldenen Krötenpilzes erhöht sich die erzeugte Sonnenlichtmenge um {Param_1} Punkte.
 
 [GENE_DESCRIPTION_ELECTRICBLUEBERRY]
-电击蓝莓攻击速度增加{Param_1}%
+Die Angriffsgeschwindigkeit der elektrischen Blaubeere erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_SLINGPEA]
-豌豆迫击炮弹射豌豆伤害增加{Param_1}%，炸弹豌豆伤害增加{Param_2}%
+Der Schaden von Erbsenmörsergranaten erhöht sich um {Param_1} %, und der Schaden von Bombenerbsen erhöht sich um {Param_2} %
 
 [GENE_DESCRIPTION_BIRTHSUNFLOWER]
-向日葵歌手攻击力加成效果增加{Param_1}%
+Der Angriffskraftbonus von Sonnenblumensänger erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_CHARDGUARD]
-甜菜护卫恢复叶子的间隔减少{Param_1}秒
+Das Intervall zwischen der Blattregeneration von Beet Guard verringert sich um {Param_1} Sekunden.
 
 [GENE_DESCRIPTION_ELAEOCARPUS]
-杜英投手扣杀时能够击杀的僵尸生命值提升{Param_1}%
+Die Gesundheit von Zombies, die von Elaeocarpus beim Zerschmettern getötet werden können, erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_HOTDATE]
-热辣海枣种植冷却时间缩短{Param_1}%
+Verkürzt die Abklingzeit des Pflanzens heißer Datteln um {Param_1} %.
 
 [GENE_DESCRIPTION_ALOES]
-芦荟医师普通水滴的攻击力加成效果增加{Param_1}%
+Erhöht den Angriffskraftbonus der gewöhnlichen Wassertropfen von Aloe Doctor um {Param_1} %.
 
 [GENE_DESCRIPTION_KIWIFRUIT]
-猕猴桃延长金箍棒持续时间{Param_1}秒
+Kiwi erhöht die Dauer des goldenen Reifens um {Param_1} Sekunden
 
 [GENE_DESCRIPTION_HORSEBEAN]
-蚕豆突击队休息时间缩短{Param_1}%
+Ackerbohnen-Kommando-Ruhe = Verkürzt die Ruhezeit um {Param_1} %.
 
 [GENE_DESCRIPTION_SHRINKINGVIOLET]
-缩小紫罗兰使僵尸缩小后受到的伤害增加{Param_1}%
+Schrumpfendes Violett erhöht den Schaden, den Zombies nach dem Schrumpfen erleiden, um {Param_1} %.
 
 [GENE_DESCRIPTION_DRAFTODIL]
-气流水仙花吹飞小鬼僵尸的概率增加{Param_1}%
+Die Wahrscheinlichkeit, dass Narzisse Imp-Zombies wegbläst, erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_SHADOWPEASHOOTER]
-暗影豌豆随场上月光花数量增加攻击力{Param_1}%
+Die Angriffskraft der Schattenerbse erhöht sich um {Param_1} % mit der Anzahl der Mondblumen auf dem Feld.
 
-[GENE_DESCRIPTION_BOOMFLOWER]
-爆炸桔梗气球爆炸时有{Param_1}%造成1秒眩晕，气球叠加后概率叠加
+[GENE E_DESCRIPTION_BOOMFLOWER]
+Wenn der explodierende Platycodon-Ballon explodiert, besteht eine Chance von {Param_1} %, eine 1-sekündige Betäubung zu verursachen. Die Wahrscheinlichkeit, Ballons zu stapeln, ist erhöht.
 
 [GENE_DESCRIPTION_MISSILETOE]
-槲寄冰仙子休息时间缩短{Param_1}%
+Die Ruhezeit der Mistel-Eisfee verkürzt sich um {Param_1} %.
 
 [GENE_DESCRIPTION_NEKOTAIL]
-猫尾草普通攻击发射的尖刺有{Param_1}%概率穿透僵尸
+Die vom normalen Angriff des Rohrkolbengrases abgefeuerten Stacheln haben eine Chance von {Param_1} %, Zombies zu durchdringen.
 
 [GENE_DESCRIPTION_SNAPDRAGON]
-火龙草普攻造成持续5秒灼烧伤害，灼烧伤害为攻击伤害的{Param_1}%
+Angriffe mit Feuerdrachengras verursachen 5 Sekunden lang Brandschaden, was {Param_1} % des Angriffsschadens entspricht.
 
 [GENE_DESCRIPTION_COLDSNAPDRAGON]
-冰龙草攻击速度增加{Param_1}%
+Die Angriffsgeschwindigkeit von Eisdrachengras erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_CAULIPOWER]
-超能花菜种植冷却时间缩短{Param_1}%
+Die Abklingzeit für das Pflanzen von Super-Blumenkohl verkürzt sich um {Param_1} %.
 
 [GENE_DESCRIPTION_MAGICSHROOM]
-魔术菇大招召唤僵尸时有{Param_1}%的概率额外召唤一只僵尸
+Wenn die ultimative Fähigkeit des Zauberpilzes einen Zombie beschwört, besteht eine Chance von {Param_1} %, einen weiteren Zombie zu beschwören
 
 [GENE_DESCRIPTION_MULBERRY]
 Die Wahrscheinlichkeit, dass der Maulbeer-Blaster Giftbomben wirft, erhöht sich um {Param_1} % (wirksam ab Level 5).
@@ -51680,154 +51706,154 @@ DJ甜菜兔年装扮
 皇冠花成长礼包装扮
 
 [STORE_PRODUCT_AVATAR_BLOVER_TITLE]
-三叶草眼镜
+Kleebrille
 
 [STORE_PRODUCT_AVATAR_BLOVER]
-降低阳光消耗25
+Reduziert den Sonnenlichtverbrauch um 25 %.
 
 [STORE_PRODUCT_AVATAR_HURRIKALE_TITLE]
-飓风围巾
+Hurrikan-Schal
 
 [STORE_PRODUCT_AVATAR_HURRIKALE]
-降低阳光消耗25
+Reduziert den Sonnenlichtverbrauch um 25 %.
 
 [STORE_PRODUCT_AVATAR_POWERLILY_TITLE]
-能量花眼镜
+Kraftblumenbrille
 
 [STORE_PRODUCT_AVATAR_POWERLILY]
-降低种植冷却20%
+Reduziert die Abklingzeit beim Pflanzen um 20 %.
 
 [STORE_PRODUCT_AVATAR_JALAPENO_TITLE]
-火爆棕帽
+Feuerbrauner Hut
 
 [STORE_PRODUCT_AVATAR_JALAPENO]
-降低种植冷却20%
+Reduziert die Abklingzeit beim Pflanzen um 20 %.
 
-[STORE_PRODUCT_AVATAR_INTENSIVECARROT_TITLE]
-复活萝卜眼镜
+[STORE_PRODUCT_AVATAR_INTENS IVECARROT_TITLE]
+Wiederbelebungskarotte Brille
 
 [STORE_PRODUCT_AVATAR_INTENSIVECARROT]
-降低阳光消耗25
+Sonnenlichtverbrauch um 25 reduzieren
 
 [MAZE_STATUE_SET_LABEL]
-局数:{NUMBER}
+Anzahl der Runden: {NUMBER}
 
 [MAZE_STATUE_TARGET_LABEL]
-剩余僵尸:{NUMBER}
+Verbleibende Zombies: {NUMBER}
 
 [MAZE_STATUE_LIFE_LABEL]
-剩余:{NUMBER}
+Verbleibend: {NUMBER}
 
 [STARCHALLENGE_MAZE_STATUE_NAME]
-雕像迷阵
+Statuenlabyrinth
 
 [STARCHALLENGE_MAZE_STATUE]
-找出所有隐藏的僵尸
+Finde alle versteckten Zombies
 
 [CARD_GAME_CHALLENGE_NAME]
-牌面纷争
+Kartenstreit
 
 [CARD_GAME_CHALLENGE]
-合理利用卡牌，战胜敌人
+Setze Karten sinnvoll ein, um den Gegner zu besiegen.
 
 [MAZE_STATUE_DIED_TIP]
-锤子已用完，是否消耗^00e46e {GEM_COUNT}颗钻石 ^oldclr 补充?
+Der Hammer ist aufgebraucht. Möchtest du ihn verbrauchen? ^00e46e {GEM_COUNT} Diamanten ^oldclr hinzugefügt?
 
 [MAZE_STATUE_FAILED_TIP]
-僵尸没有找出来，潘妮对你很失望！
+Die Zombies wurden nicht gefunden. Penny ist sehr enttäuscht von dir!
 
 [YOU_ARE_CHEATING_NOW]
-您的植物等級存在作弊嫌疑！！！
+Dein Pflanzenlevel wird des Betrugs verdächtigt!
 
 [EVENT0_HEADER]
-起点
+Startpunkt
 
 [EVENT0_DES]
-每完成一圈获得一次奖励
+Erhalte eine Belohnung für jede abgeschlossene Runde.
 
 [EVENT1_HEADER]
-前进轨道车
+Fahre mit dem Rennwagen vorwärts.
 
 [EVENT1_DES]
-坐上轨道车，前进若干步
+Steige in den Rennwagen und fahre ein paar Schritte vorwärts.
 
 [EVENT2_HEADER]
-再次启动
+Starte erneut.
 
 [EVENT2_DES]
-再次启动，前进若干步
+Starte erneut und fahre ein paar Schritte vorwärts.
 
 [EVENT3_HEADER]
-保龄泡泡碎片
+Bowling-Blasenfragmente
 
 [EVENT3_DES]
-获得保龄泡泡碎片x1
+Bowling-Blasenfragmente x1 erhalten.
 
 [EVENT4_HEADER]
-剧院硬币x3
+Theatermünze x3
 
 [EVENT4_DES]
-获得3枚剧院硬币
+3 Theatermünzen erhalten.
 
 [EVENT5_HEADER]
-植物碎片宝箱
+Pflanzenfragmenttruhe
 
 [EVENT5_DES]
-获得一个植物碎片宝箱
+Erhalte eine Pflanzenfragmenttruhe.
 
 [EVENT6_HEADER]
-装扮碎片宝箱
+Kosmetikfragmenttruhe
 
 [EVENT6_DES]
-获得一个装扮碎片宝箱
+Erhalte ein Kosmetikfragment. Truhe
 
 [EVENT7_HEADER]
-小游戏/传送带
+Minispiel/Förderband
 
 [EVENT7_DES]
-胜利获得剧院硬币
+Gewinne Theatermünzen
 
 [EVENT8_HEADER]
-小游戏/传送带
+Minispiel/Förderband
 
 [EVENT8_DES]
-胜利获得剧院硬币
+Gewinne Theatermünzen
 
 [EVENT9_HEADER]
-BOSS关卡
+BOSS-Level
 
 [EVENT9_DES]
-胜利获得大量剧院硬币
+Gewinne viele Theatermünzen
 
 [EVENT10_HEADER]
-猜拳
+Schere-Papier-Schere
 
 [EVENT10_DES]
-获得/失去剧院硬币
+Theatermünzen gewinnen/verlieren
 
 [EVENT11_HEADER]
-后退轨道车
+Zurückverfolgen
 
 [EVENT11_DES]
-坐上轨道车，后退若干步
+Steige in den Waggon und gehe ein paar Schritte zurück.
 
 [EVENT12_HEADER]
-剧院硬币x4
+Theatermünze x4
 
 [EVENT12_DES]
-获得4枚剧院硬币
+Holt 4 Theatermünzen
 
 [EVENT13_HEADER]
-事件14标题
+Event 14 Titel
 
 [EVENT13_DES]
-事件14描述
+Beschreibung von Event 14
 
 [DICE_NOT_ENOUGH_DIALOG_TITLE]
-电力豆不足
+Nicht genügend Powerbohnen
 
 [DICE_NOT_ENOUGH_DIALOG_TEXT]
-购买更多电力豆吗？
+Mehr Powerbohnen kaufen?
 
 [DICE_WILL_CLEAR_DIALOG_TITLE]
 系统提示
@@ -52672,7 +52698,7 @@ Butter
 Einfrieren
 
 [PERK_NAME_APPLYCONDITIONPLANTFOOD]
-Energiebohnen
+Spezialdünger-Fähigkeitn
 
 [PERK_NAME_BOSSBUSTERCANNON]
 Zombie Buster
@@ -58200,7 +58226,7 @@ x{NUM} 开始
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP_PVZ1]
-Die Verwendung von Energiebohnen schließt die Herausforderung nicht ab. Möchtest du sie verwenden?
+Die Verwendung von Spezialdünger-Fähigkeitn schließt die Herausforderung nicht ab. Möchtest du sie verwenden?
 
 [MAT_PVZ1MODE_COIN]
 Goldene Schneckenmünzen
@@ -61779,7 +61805,7 @@ Im normalen Modus gilt: Je mehr Levelziele du auswählst, desto mehr Belohnungen
 Im schwierigen Modus kannst du nur zwei Pflanzen der zweiten Generation zum Kämpfen einsetzen (in manchen Leveln können die vorab ausgewählten Pflanzen der zweiten Generation das Limit für Pflanzen der zweiten Generation nicht überschreiten). Außerdem sind die Zombies mächtiger.
 
 [MODE_HOWTOPLAY_5_DESCRIPTION]
-In allen Modi wird durch die Verwendung von Raum-Zeit-Energiebohnen Raum-Zeit-Energie wiederhergestellt.
+In allen Modi wird durch die Verwendung von Raum-Zeit-Spezialdünger-Fähigkeitn Raum-Zeit-Energie wiederhergestellt.
 
 [AUTH_LOGIN_ERROR_TEXT]
 Das Netzwerk schwankt ungewöhnlich stark. Bitte klicke, um das Spiel später zu starten.
@@ -68792,148 +68818,148 @@ Kleines Geschenkpaket
 星星果全身散发出光芒自身^ff0000^开始逆时针旋转，一边旋转一边向5个方向发射出大星星。^oldclr^
 
 [BLOVER_NEW_SKILL_LEVEL1_DES]
-转动自己的叶子制造出狂风，在3秒的时间内吹走全场处于飞行状态的僵尸，迷雾和蒸汽。
+Rotieren Sie ihre Blätter, um einen starken Wind zu erzeugen, der alle fliegenden Zombies, Nebel und Dampf in 3 Sekunden wegbläst.
 
 [BLOVER_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [BLOVER_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [EMPEA_NEW_SKILL_LEVEL1_DES]
-种植之后爆炸并发射出可以脉冲瘫痪5×5范围内的所有机械僵尸单位持续10s。
+Nach dem Einpflanzen explodiert sie und feuert einen Impuls ab, der alle mechanischen Zombie-Einheiten im Umkreis von 5×5 für 10 Sekunden lähmen kann.
 
 [EMPEA_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [EMPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [CITRON_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在充能柚子右侧时，充能柚子会释放出高能粒子炮攻击僵尸。之后充能柚子会花费3秒落地，并进入6.5秒的蓄能休息时间。
+Wenn ein Zombie rechts neben der Energie-Grapefruit erscheint, feuert diese eine hochenergetische Partikelkanone ab, um den Zombie anzugreifen. Die Energie-Grapefruit benötigt 3 Sekunden, um zu landen, und beginnt eine 6,5 Sekunden lange Ruhephase.
 
 [CITRON_NEW_SKILL_LEVEL2_DES]
-充能柚子的蓄能技术得到了提升蓄能速度加快了25%。
+Die Energiespeichertechnologie der Energie-Grapefruit wurde verbessert und die Energiespeichergeschwindigkeit um 25 % erhöht.
 
 [CITRON_NEW_SKILL_LEVEL3_DES]
-充能柚子的蓄能技术得到了进一步升级蓄能速度加快40%。
+Die Energiespeichertechnologie der Energie-Grapefruit wurde weiter verbessert und die Energiespeichergeschwindigkeit um 40 % erhöht.
 
 [CITRON_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [CITRON_NEW_SKILL_LEVEL5_DES]
-发射淡蓝色的等离子闪电球，击中僵尸后爆炸对3×3范围内的僵尸造成900点溅射伤害，并留下一片3×3范围伤害为100/秒持续2秒的电子云。
+Feuert einen hellblauen Plasmablitz ab. Nach einem Zombietreffer explodiert die Waffe und verursacht 900 Flächenschaden an Zombies im Umkreis von 3×3. Außerdem hinterlässt sie eine Elektronenwolke mit 3×3 Reichweite und 100 Schaden pro Sekunde für 2 Sekunden.
 
 [CITRON_PLANTFOOD_DESCRIPTION]
-发射等离子炮，击飞整行的小体型僵尸和非未来中体型僵尸，清除整行的障碍物。接触到未来中体型机械单位，大体型僵尸会爆炸并终止冲击。发射粒子炮后充能柚子进入休息。该秒杀无阶数限制(无尽模式该秒杀限制不超过植物本身阶数)。
+Feuert eine Plasmakanone ab, um eine Reihe kleiner und mittelgroßer Zombies (außer Zukunfts-Zombies) wegzustoßen und die Hindernisse in der gesamten Reihe zu beseitigen. Berührt ein großer Zombie eine mittelgroße Zukunfts-Maschine, explodiert er und beendet den Aufprall. Nach dem Abfeuern der Partikelkanone ladet ihr die Grapefruit auf und legt euch zur Ruhe. Für diesen Sofortkill gibt es keine Levelbegrenzung (im Endlosmodus liegt die Limitierung bei der Pflanzenstufe).
 
 [CITRON_AVATAR_PLANTFOOD_DESCRIPTION]
-发射等离子炮，击飞整行的小体型僵尸和非未来中体型僵尸，清除整行的障碍物。接触到未来中体型机械单位，大体型僵尸会爆炸并终止冲击。^ff0000^电子炮会向外扩散闪电链，对右侧三行僵尸造成伤害。^oldclr^发射粒子炮后充能柚子进入休息。该秒杀无阶数限制(无尽模式秒杀限制不超过植物本身阶数)。
+Feuert eine Plasmakanone ab, um eine Reihe kleiner und mittelgroßer Zombies (außer Zukunfts-Zombies) wegzustoßen und die Hindernisse in der gesamten Reihe zu beseitigen. Berührt ein großer Zombie eine zukünftige mittlere mechanische Einheit, explodiert diese und beendet den Aufprall. ^ff0000^ Die Elektronenkanone entfacht eine Blitzkette, die die drei Zombiereihen rechts beschädigt. ^oldclr^ Nach dem Abfeuern der Partikelkanone verharrt die geladene Grapefruit. Für diesen Sofortkill gibt es keine Rangbegrenzung (im Endlosmodus liegt die Begrenzung für den Sofortkill nicht über dem Rang der Pflanze selbst).
 
 [HOLONUT_NEW_SKILL_LEVEL1_DES]
-只要底座不被破坏，全息坚果就可以无限复活，投影消失后15秒全息坚果会恢复至全满生命值。
+Solange die Basis nicht zerstört wird, kann die holografische Nuss unendlich oft wiederbelebt werden. 15 Sekunden nach dem Verschwinden der Projektion ist die Gesundheit der holografischen Nuss vollständig wiederhergestellt.
 
 [HOLONUT_NEW_SKILL_LEVEL2_DES]
-全息坚果恢复投影的速度加快，投影消失后10秒恢复。
+Die holografische Nuss regeneriert die Projektion schneller und wird 10 Sekunden nach dem Verschwinden der Projektion wiederhergestellt.
 
 [HOLONUT_NEW_SKILL_LEVEL3_DES]
-全息坚果恢复投影的速度更快了，投影消失后7.5秒恢复。
+Die holografische Nuss regeneriert die Projektion schneller. Sie wird 7,5 Sekunden nach dem Verschwinden der Projektion wiederhergestellt.
 
 [HOLONUT_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HOLONUT_NEW_SKILL_LEVEL5_DES]
-全息坚果的投影每次恢复时，生命值额外增加1000点（最高不超过10000点）。
+Jedes Mal, wenn die Projektion der holografischen Nuss wiederhergestellt wird, erhöht sich der Gesundheitswert um weitere 1.000 Punkte (bis maximal 10.000 Punkte).
 
 [HOLONUT_PLANTFOOD_DESCRIPTION]
-在自己的前方创造一道屏障，可以阻挡所有行上僵尸的攻击并阻挡飞行僵尸，屏障吸收一定伤害后消失。
+Erzeugt eine Barriere vor sich, die die Angriffe aller Zombies in der Reihe und fliegende Zombies abwehrt. Die Barriere verschwindet, nachdem sie eine bestimmte Schadensmenge absorbiert hat.
 
 [HOLONUT_AVATAR_PLANTFOOD_DESCRIPTION]
-在自己的前方^ff0000^创造两道屏障，^oldclr^可以阻挡所有行上僵尸的攻击并阻挡飞行僵尸，屏障吸收一定伤害后消失。
+Erzeugt zwei Barrieren vor sich (^ff0000^,^oldclr^), die die Angriffe aller Zombies in der Reihe und fliegende Zombies blockieren können. Die Barrieren verschwinden, nachdem sie eine bestimmte Menge Schaden absorbiert haben.
 
 [POWERPLANT_NEW_SKILL_LEVEL1_DES]
-瓷砖萝卜被种植后钻入地下，将本格变为能量地砖，当对种植在上面的植物使用能量豆后，所有其他能量地砖上的植物都会释放一次大招。
+Nach dem Einpflanzen bohrt sich die Karotte in den Boden und verwandelt das ursprüngliche Gitter in ein Energiefeld. Wenn die Spezialdünger-Fähigkeitn auf die darauf gepflanzte Pflanze angewendet werden, lösen alle anderen Pflanzen auf den Energiefeldern eine starke Attacke aus.
 
 [POWERPLANT_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [POWERPLANT_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在胡萝卜导弹车右侧时，胡萝卜导弹车会瞄准僵尸发射胡萝卜导弹，发射4枚导弹后，胡萝卜导弹车需要休息14秒。
+Wenn ein Zombie rechts neben dem Karottenraketenwagen erscheint, zielt der Karottenraketenwagen auf den Zombie und feuert eine Karottenrakete ab. Nach dem Abfeuern von vier Raketen benötigt der Karottenraketenwagen eine Ruhezeit von 14 Sekunden.
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL2_DES]
-胡萝卜导弹车强化了自己的发射技巧，一次可以发射两枚导弹，休息时间变为12秒。
+Der Karottenraketenwagen hat verbesserte Schussfähigkeiten und kann nun zwei Raketen gleichzeitig abfeuern. Die Ruhezeit beträgt 12 Sekunden.
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL3_DES]
-胡萝卜导弹车精湛的发射技巧让他可以一次性发射4枚导弹，休息时间变为11秒。
+Die hervorragenden Schussfähigkeiten des Karottenraketenwagens ermöglichen es ihm, vier Raketen gleichzeitig abzufeuern. Die Ruhezeit beträgt 11 Sekunden.
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einsetzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszulösen!
 
 [CARROTLAUNCHER_PLANTFOOD_DESCRIPTION]
-变身大炮瞄准自身右侧最靠近的僵尸发射一枚具有20000点生命值的导弹。导弹被啃食完毕后爆炸对3×3范围内的僵尸造成伤害。如果目标格上有植物，导弹会直接爆炸造成3×3范围的爆炸。
+Die Transformationskanone zielt auf den Zombie rechts von ihr und feuert eine Rakete mit 20.000 Lebenspunkten ab. Nachdem die Rakete aufgefressen wurde, explodiert sie und verursacht Zombies im Umkreis von 3×3 Schaden. Befindet sich eine Pflanze auf dem Zielfeld, explodiert die Rakete direkt und verursacht eine Explosion im Umkreis von 3×3.
 
 [CARROTLAUNCHER_AVATAR_PLANTFOOD_DESCRIPTION]
-变身大炮瞄准自身右侧最靠近的僵尸发射一枚具有2000点生命值的导弹。导弹被啃食完毕后爆炸对3×3范围能的僵尸^ff0000^造成巨大伤害。^oldclr^如果目标格上有植物，导弹会直接爆炸造成3×3范围的爆炸。
+Die Transformationskanone zielt auf den Zombie rechts von ihr und feuert eine Rakete mit 2.000 Lebenspunkten ab. Nachdem die Rakete aufgefressen wurde, explodiert sie und verursacht Zombies im Umkreis von 3×3 Schaden.^ff0000^. ^oldclr^ Befindet sich eine Pflanze auf dem Zielfeld, explodiert die Rakete direkt und verursacht eine Explosion im Umkreis von 3×3.
 
 [PUFFSHROOM_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在小喷菇右侧4格时，小喷菇会发射孢子攻击僵尸，小喷菇持续60秒后自动消失。
+Wenn ein Zombie vier Felder rechts vom kleinen Puffpilz erscheint, feuert der kleine Puffpilz Sporen ab, um den Zombie anzugreifen. Nach 60 Sekunden verschwindet er automatisch.
 
 [PUFFSHROOM_NEW_SKILL_LEVEL2_DES]
-栽培技术的提升使小喷菇的种植时间缩短为3.5秒。
+Die verbesserte Anbautechnologie hat die Pflanzzeit des kleinen Puffpilzes auf 3,5 Sekunden verkürzt.
 
 [PUFFSHROOM_NEW_SKILL_LEVEL3_DES]
-栽培技术的提升使小喷菇的种植时间缩短为2秒。
+Die verbesserte Anbautechnologie hat die Pflanzzeit des kleinen Puffpilzes auf 2 Sekunden verkürzt.
 
 [PUFFSHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Die Wahrscheinlichkeit, beim Pflanzen direkt die Spezialdünger-Fähigkeit (große Attacke) freizusetzen, ist gering!
 
 [PUFFSHROOM_PLANTFOOD_DESCRIPTION]
-小喷菇们团结合力，当小喷菇释放大招时所有的小喷菇都会一起喷射孢子，并将小喷菇的存在时间恢复至60s。
+Die kleinen Puffpilze sind vereint. Wenn der kleine Puffpilz seine große Attacke ausführt, versprühen alle Puffpilze gemeinsam Sporen, und seine Lebensdauer wird auf 60 Sekunden zurückgesetzt.
 
 [PUFFSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-小喷菇们团结合力，当小喷菇释放大招时所有的小喷菇都会一起^ff0000^喷射高伤害的孢子，^oldclr^并将小喷菇的存在时间恢复至60s。
+Die Puffpilze versammeln sich. Wenn die Puffpilze ihre ultimative Attacke ausführen, versprühen alle gemeinsam ^ff0000^ Sporen mit hohem Schaden, ^oldclr^ und stellen die Lebensdauer der Puffpilze auf 60 Sekunden zurück.
 
 [HYPNOSHROOM_NEW_SKILL_LEVEL1_DES]
-魅惑菇含有对僵尸特殊的毒素，吃掉他的僵尸会被^ff4284^魅惑Ⅰ^oldclr^，调转方向为你战斗。
+Der Zauberpilz enthält ein spezielles Gift für Zombies. Zombies, die ihn fressen, werden ^ff4284^Zauber I^oldclr^ und wenden sich dem Kampf zu.
 
 [HYPNOSHROOM_NEW_SKILL_LEVEL2_DES]
-^ff4284^魅惑Ⅰ^oldclr^僵尸之后为僵尸增加10%的生命值。
+^ff4284^Charm I^oldclr^ Nach den Zombies erhöht sich die Gesundheit der Zombies um 10 %.
 
 [HYPNOSHROOM_NEW_SKILL_LEVEL3_DES]
-^ff4284^魅惑Ⅰ^oldclr^僵尸之后为僵尸增加20%的生命值。
+^ff4284^Charm I^oldclr^ Nach den Zombies erhöht sich die Gesundheit der Zombies um 20 %.
 
 [HYPNOSHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die direkt freizusetzen!
 
 [HYPNOSHROOM_PLANTFOOD_DESCRIPTION]
-魅惑菇散发出光芒，杀死啃食他的僵尸，并生成一只与地图等阶相同的铁桶僵尸。
+Der Hypnopilz strahlt Licht aus, tötet die Zombies, die ihn fressen, und erzeugt einen Eimer-Zombie auf dem gleichen Level wie der Pilz ist.
 
 [HYPNOSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-魅惑菇散发出光芒，杀死啃食他的僵尸，并生成一只与地图等阶相同的^ff0000^巨人僵尸。^oldclr^
+Der Hypnopilz strahlt Licht aus, tötet die Zombies, die ihn fressen, und erzeugt einen ^ff0000^ Gargantuar Zombie auf dem gleichen Level wie der Pilz ist. ^oldclr^
 
 [SUNSHROOM_NEW_SKILL_LEVEL1_DES]
-刚种植的阳光菇会经过2次成长成长为完全阳光菇，随着他的成长阳光的产量也会增加。18秒成长至第二阶段，72秒成长至第三阶段。
+Der frisch gepflanzte Sonnenpilz wächst nach zwei Wachstumsphasen zu einem vollwertigen Sonnenpilz heran. Mit zunehmendem Wachstum erhöht sich auch die Sonnenlichtabgabe. Er erreicht die zweite Stufe in 18 Sekunden und die dritte in 72 Sekunden.
 
 [SUNSHROOM_NEW_SKILL_LEVEL2_DES]
-阳光菇每阶段生长所需时间变为原先的60%
+Die Wachstumszeit des Sonnenpilzes wird auf 60% der ursprünglichen Zeit reduziert.
 
 [SUNSHROOM_NEW_SKILL_LEVEL3_DES]
-阳光菇每阶段生长所需时间变为原先的25%
+Die Wachstumszeit des Sonnenpilzes wird auf 25% der ursprünglichen Zeit reduziert.
 
 [SUNSHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [SUNSHROOM_NEW_SKILL_LEVEL5_DES]
-将阳光孢子散布在周围，使自身3X3范围内的植物攻击力上升50%，真菌攻击力上升100%
+Verteilt die Sonnenscheinsporen und erhöht die Angriffskraft von Pflanzen im 3x3-Bereich um 50% und die von Pilzen um 100%.
 
 [SUNSHROOM_PLANTFOOD_DESCRIPTION]
-阳光菇蓄势待发直接成长到第三阶段并生产225点阳光。
+Der Sonnenpilz kann direkt in die dritte Wachstumsphase wachsen und 225 Sonnenlichtpunkte produzieren.
 
 [SUNSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-阳光菇蓄势待发直接成长到第三阶段并生产225点阳光和^ff0000^一定数量的金币。^oldclr^
+Sonnenpilze wachsen direkt bis zur dritten Stufe und produzieren 225 Sonnenlicht und ^ff0000^ eine bestimmte Menge Goldmünzen. ^oldclr^
 
 [SUNBEAN_NEW_SKILL_LEVEL1_DES]
 吃了他，你也会变成光。在僵尸吃掉阳光豆后，僵尸受到伤害后会掉落阳光。
@@ -71027,7 +71053,7 @@ Beim Angriff der Elektroerbse besteht eine Chance von 20 %, einen energiereichen
 Der Blitzball wird zu einem Gewitterball aufgewertet, mit einer Auslösewahrscheinlichkeit von 30 % und einem Schaden von 400.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
+Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine Chance von 20 %, einen violetten Blitzball abzufeuern. Trifft ein Zombie, erzeugt die elektrische Erbse ein Magnetfeld, das 3 Sekunden lang anhält und umstehende Zombies anzieht. Es verursacht 270 Schaden pro Sekunde.
@@ -72298,7 +72324,7 @@ Die von Prinzessin Frühlingsgras abgefeuerten Federn wurden verstärkt und die 
 Die von Prinzessin Frühlingsgras abgefeuerten Federn wurden verstärkt und die Rückstoßdistanz um ein Gitter erhöht.
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 25%ige Chance, bunte magische Federn abzufeuern. Diese Federn stoßen den ersten Zombie zurück, nachdem sie auf ihm gelandet sind. Anschließend findet er automatisch den nächsten Zombie und springt auf, um ihn zurückzustoßen. Wiederhole diesen Vorgang, nachdem du 4 Zombies zurückgestoßen hast und verschwunden bist.
@@ -72319,7 +72345,7 @@ Die Rotationsfähigkeit des Bohrgeschosses wurde verbessert. Nach 4 Sekunden Boh
 Der Effekt der Fähigkeit, sich weiter zu drehen, wurde um 100 % erhöht. Nach 5 Sekunden Bohrzeit überhitzt es und explodiert.
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL4_DES]
-Beim Einsetzen besteht die Chance, die Energiebohne direkt auszulösen!
+Beim Einsetzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [RIFLEBAMBOO_NEW_SKILL_LEVEL5_DES]
 Die von den Angriffsbambussoldaten abgefeuerten Geschosse werden zu größeren Bohrgeschossen aufgewertet. Nach Ablauf der Bohrzeit wird die letzte Explosion zu einer Einzelgitterexplosion.
@@ -72361,7 +72387,7 @@ Die Ladegeschwindigkeit des Dornigen Meteorhammers wird erhöht. Das Drehen des 
 Die Wirkung der Fertigkeit „Schnelles Laden“ wird um 100 % erhöht. Das Drehen des Meteorhammers dauert 8 Sekunden, um den Ladevorgang abzuschließen.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Einpflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszulösen!
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL5_DES]
 Der durch den Angriff abgefeuerte Meteorhammer verwandelt sich in einen gespaltenen Meteorhammer aus drei Dornfrüchten, der einen Angriff auf bis zu drei Zombies in geringer Reichweite ausführen kann.
@@ -72382,7 +72408,7 @@ Die Zombiekapsel hat eine 50%ige Chance, einen Karottenhut-Zombie hervorzubringe
 Die Zombiekapsel hat eine 35%ige Chance, einen Karottenhut-Zombie und eine 35%ige Chance, einen Wassermelonenhut-Zombie zu produzieren.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt auszulösen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL5_DES]
 Wenn die Zombiekapsel Zombies produziert, besteht eine 15%ige Chance, einen Maschinengewehr-Zombie zu produzieren, der Erbsen für Angriffe aus großer Entfernung verschießen kann.
@@ -72445,7 +72471,7 @@ Die Flammen der Kürbislaterne können weiter gesprüht werden, und die Reichwei
 Die Flamme der Kürbislaterne kann weiter gesprüht werden, und die Reichweite der Kürbisflamme beträgt nun 5 Felder.
 
 [JACKOLANTERN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [JACKOLANTERN_NEW_SKILL_LEVEL5_DES]
 Alle 15 Sekunden fliegt ein fluoreszierender blaugrüner Kürbisgeist aus dem Maul des Kürbisses und verfolgt den Zombie ganz links, der sich nicht in derselben Reihe befindet. Nachdem er den Zombie verfolgt hat, nimmt er Besitz vom Zombie und lässt ihn in die entgegengesetzte Richtung laufen. Beim Vorbeigehen am Zombie entzündet er sich selbst und den vorbeigehenden Zombie und verursacht ^ef0123^burnⅠ^oldclr^ Schaden.
@@ -73894,7 +73920,7 @@ Beim Beschwören eines kleinen Hais besteht eine Chance von 15 %, zwei Haie zu b
 Beim Beschwören eines kleinen Hais besteht eine 20%ige Chance, zwei Haie zu beschwören. Die Angriffskraft der Haie wird erhöht und die Zeit bis zum erneuten Beschwören der Haie verkürzt sich. Die große Attacke der 3. Stufe kann kleine und mittlere Zombies der 6. Stufe sofort töten.
 
 [AQUAWEED_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die große Attacke der Energiebohne direkt freizusetzen. Die große Attacke der 4. Stufe kann kleine und mittlere Zombies der 8. Stufe sofort töten.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die große Attacke der Spezialdünger-Fähigkeit direkt freizusetzen. Die große Attacke der 4. Stufe kann kleine und mittlere Zombies der 8. Stufe sofort töten.
 
 [AQUAWEED_NEW_SKILL_LEVEL5_DES]
 Jede Beschwörung hat die Chance, einen speziellen kleinen Hai (Roter Hai) zu beschwören, der Zombies direkt frisst. Die große Attacke der 5. Stufe kann kleine und mittlere Zombies der 10. Stufe sofort töten.
@@ -76496,6 +76522,18 @@ DJ芦荟
 下个金钟罩充能还剩{NUM}秒
 
 [PVZ2_CHINESE_END]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
