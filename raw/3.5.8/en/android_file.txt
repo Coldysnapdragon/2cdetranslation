@@ -356,122 +356,119 @@ Die Energiebank ist voll! Benutze sie sofort, um sie nicht zu verschwenden!
 Du kannst keine Pflanzen auf Grabsteinen pflanzen.
 
 [ADVICE_PLANT_NOT_ON_SARRACENIA_FOSSIL]
-你不能把植物种在石化僵尸上
+Pflanzen können nicht auf versteinerten Zombies gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_GLIDING]
-你不能把植物种在飞行器残骸上
+Pflanzen können nicht auf Flugzeugwracks gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_HEALERSTAFF]
-你不能把植物种在手杖上
+Pflanzen können nicht auf Spazierstöcken gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_LOLLIPOPS]
-植物并不喜欢棒棒糖
+Pflanzen mögen keine Lollis.
 
 [ADVICE_PLANT_NOT_ON_GUN]
-你不能把植物种在长枪上
+Pflanzen können nicht auf Speeren gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_KING]
-你不能把植物种在国王僵尸上
+Pflanzen können nicht auf Königszombies gepflanzt werden.
 
-[ADVICE_PLANT_NOT_ON_MOLD]
-你不能把植物种在发霉的地方
+[ADVICE_PLANT_NOT_ON_KING]
+ICE_PLANT_NOT_ON_MOLD]
+Pflanzen können nicht gepflanzt werden auf Schimmel
 
 [ADVICE_PLANT_NOT_ON_POTIONS]
-你不能把植物种在魔药上
+Pflanzen können nicht auf Zaubertränken gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_DUMPLING]
-你不能把植物种在饺子上
+Pflanzen können nicht auf Knödeln gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_TANGYUAN]
-你不能把植物种在汤圆上
+Pflanzen können nicht auf Klebreisbällchen gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_PIGBANK]
-你不能把植物种在存钱罐上
+Pflanzen können nicht auf Sparschweinen gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_PLANTSEED]
-你不能把植物种在植物种子上
+Pflanzen können nicht auf Pflanzensamen gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_ZOMBIE_CHANGER]
-你不能把植物种在改造装置上
+Pflanzen können nicht in Terrarien gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_TURKEY]
-你不能把植物种在火鸡上
+Pflanzen können nicht auf Truthahn
 
 [ADVICE_PLANT_NOT_ON_FIRECRACKER]
-你不能把植物种在爆竹上
+Pflanzen können nicht auf Feuerwerkskörpern gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_RAIL]
-不能直接种在轨道上，必须有采矿车
+Pflanzen können nicht direkt auf Schienen gepflanzt werden; eine Lore ist erforderlich.
 
 [ADVICE_PLANT_NOT_ON_SEEING_STAR]
-不能在规定格子内种其他植物
+Andere Pflanzen können nicht im angegebenen Raster gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_SCORCH]
-你不能把植物种在燃烧的瓷砖上
+Pflanzen können nicht auf brennenden Kacheln gepflanzt werden.
 
-[ADVICE_PLANT_NOT_ON_SHARKS]
-你不能把植物种在鲨鱼群上
+[ADVICE_PLANT_NOT_ON_SCORCH] NT_NOT_ON_SHARKS]
+Pflanzen können nicht auf Haien gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_SURFBOARD]
-你不能把植物种在冲浪板上
+Pflanzen können nicht auf Surfbrettern gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_WATER]
-请先种莲叶
+Pflanze zuerst Lilien.
 
 [ADVICE_PLANT_NOT_IN_SKY]
-该植物不能种在空中
+Diese Pflanze Kann nicht in der Luft gepflanzt werden.
 
 [ADVICE_PLANT_NOT_IN_GOLDROAD]
-该植物不能种在这里
+Diese Pflanze kann hier nicht gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_GUIDE_DOOR]
-你不能把植物种在暗道上
+Du kannst keine Pflanzen auf dem Geheimpfad pflanzen.
 
 [ADVICE_PLANT_SUNFLOWER1]
-向日葵是非常重要的植物！
+Sonnenblumen sind sehr wichtige Pflanzen!
 
 [ADVICE_PLANT_SUNFLOWER2]
-至少要种下三棵向日葵！
+Pflanze mindestens drei Sonnenblumen!
 
 [ADVICE_PLANT_SUNFLOWER3]
-种下至少三棵向日葵，这样你才有更多的
-机会能在僵尸的攻势中活下来！
+Pflanze mindestens drei Sonnenblumen, um den Zombieangriff zu überleben!
 
 [ADVICE_PLANT_SUNFLOWER4]
-至少要种下三棵向日葵
+Es müssen mindestens drei Sonnenblumen gepflanzt werden.
 
 [ADVICE_PLANTED_PEASHOOTER]
-干得漂亮！你也可以先点击卡片,
-再点击想种植的地点。
+Gut gemacht! Du kannst auch zuerst auf die Karte und dann auf den gewünschten Ort klicken.
 
 [ADVICE_PLANTING_NEEDS_GROUND]
-地刺只能种在坚固的地面上
+Wurzelpflanzen können nur auf festem Boden gepflanzt werden.
 
 [ADVICE_NOT_ON_PLANKS]
-{PLANT_NAME}不能种在甲板上
+{PLANT_NAME} kann nicht auf einem Deck gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_FROST]
-不能把植物种在冰面上
+Kann nicht auf Eis gepflanzt werden.
 
 [ADVICE_SEED_REFRESH]
-种子需要一段时间的
-恢复才能再次种植
+Die Samen benötigen etwas Zeit, um sich zu erholen, bevor sie erneut gepflanzt werden können.
 
 [ADVICE_SEED_REFRESH_IZOMBIE]
-僵尸需要一段时间的
-恢复才能再次使用
+Zombies brauchen eine Weile, um sich zu erholen, bevor sie wieder eingesetzt werden können.
 
 [ADVICE_REACH_MAX_SIZE]
-已经达到最大数量！
+Die maximale Anzahl wurde erreicht!
 
 [ADVICE_LOCKED]
-还未解锁！
+Noch nicht freigeschaltet!
 
 [ADVICE_NOT_ON_ICEBLOCKS]
-该植物不能直接种植在冰块上
+Diese Pflanze kann nicht direkt auf Eisblöcken gepflanzt werden.
 
 [ADVICE_STAR_CHALLENGES_UNLOCKED]
-在之前已完成的关卡还可获得更多星星。
+Du erhältst weitere Sterne, indem du bereits abgeschlossene Level abschließt.
 
 [ADVICE_START_NEW_LEVEL]
 Klicke auf ein neues Level!
@@ -480,7 +477,7 @@ Klicke auf ein neues Level!
 Sieht so aus, als ob du mehr Sterne brauchst! Klicke zurück zum Level „Geheimnisvolles Ägypten“!
 
 [ADVICE_TAP_PIRATE]
-Klicke auf „Piratenhafenwelt“!
+Klicke auf „Piratensee“!
 
 [ADVICE_TAP_POWERUP]
 Klicke auf den Cheat-Finger!
@@ -30199,21 +30196,23 @@ PIÑATA 派对
 [NOT_ENOUGH_SPROUTS]
 没有幼苗了。玩其它关卡来获得更多幼苗吧！
 [OBJECTIVE_CHALLENGE_HEADER_DOUBLE]
-关卡目标
+Levelziele
 
 [OBJECTIVE_CHALLENGE_HEADER_MULTIPLE]
-关卡目标
+Levelziele
 
 [OBJECTIVE_CHALLENGE_HEADER_SINGLE]
-关卡目标
+Levelziel
 
 [OFFLINE_FACEBOOK_LOGIN_BODY]
-请连接网络以便登录FACEBOOK
+Bitte verbinden Sie sich mit dem Internet, um sich bei Facebook anzumelden.
 
 [OFFLINE_NO_NETWORK_CONNECTION]
-无网络连接
+Keine Internetverbindung.
+
 [OR]
-或者
+Oder
+
 [PERFUMESHROOM]
 香水蘑菇
 
@@ -41797,13 +41796,13 @@ Die Spezialdünger Fähigkeit erzeugt mehr Blasen.
 电圈达到最大后还会收缩回来再次对僵尸造成一次伤害，电圈收缩到山竹身上后造成一次爆炸以山竹为中心留下3×3范围的电力场对僵尸造成持续伤害。
 
 [PROTECT_DUMPLING_CHALLENGE_FAILED_TEXT]
-热腾腾的饺子被僵尸吃完了！
+Die heißen Teigtaschen wurden von Zombies gefressen!
 
 [PROTECT_TURKEY_CHALLENGE_FAILED_TEXT]
-热腾腾的火鸡被僵尸吃完了！
+Der heiße Truthahn wurde von Zombies gefressen!
 
 [PROTECT_TANGYUAN_CHALLENGE_FAILED_TEXT]
-热腾腾的汤圆被僵尸吃完了！
+Der heiße Tangyuan wurde von Zombies gefressen!
 
 [INFERNO]
 烈焰火蕨
@@ -53399,10 +53398,10 @@ Energiefliegen
 植物被种植后，每秒有3%的概率进入缺水状态，缺水状态植物无法攻击，使用右下角浇水壶浇灌植物解除缺水状态
 
 [STARCHALLENGE_PROTECT_THE_PLANT]
-生存并保护面临危险的植物
+Überlebe und schütze gefährdete Pflanzen
 
 [STARCHALLENGE_PROTECT_THE_PLANT_NAME]
-保护我方种子
+Schütze unser Saatgut
 
 [JOUST_LEAGUE_NAME_WOOD_SHORT_1]
 原木
@@ -57343,73 +57342,72 @@ ca=对我通关很有帮助|娱乐性大于实用性|整体偏弱或有副作用
 本关主题
 
 [CHALLENGE_PURPOSE]
-挑战目标
+Herausforderungsziel
 
 [CHALLENGE_PURPOSE_2]
-挑战
-目标
+Herausforderungsziel
 
 [PVZ1_MODE_START_LEVEL]
-回忆之旅-第{NUM}天
+Erinnerungsreise – Tag {NUM}
 
 [PVZ1_BOSS_LEVEL_MODE_DESC]
-无畏号来袭，守住你的屋顶！
+Der Dreadnought kommt, haltet euch gut fest!
 
 [PVZ1_MODE_TIME_ENERGY_BANK_TIPS_TITLE]
-提示
+Tipps
 
 [PVZ1_MODE_TIME_ENERGY_BANK_TIPS_DESC]
-道具消耗：挑战普通关卡成功后消耗1个时空稳定器
-道具发放：每日00:00补满所有时空稳定器
-道具上限：4个,可通过钻石购买超过上限
+Gegenstandsverbrauch: 1 Raum-Zeit-Stabilisator wird nach erfolgreichem Abschluss eines normalen Levels verbraucht.
+Gegenstandsverteilung: Alle Raum-Zeit-Stabilisatoren werden täglich um 0:00 Uhr aufgefüllt.
+Gegenstandslimit: 4, mehr als das Limit können mit Diamanten erworben werden.
 
 [PVZ1_MODE_START_LEVEL_TIPS_TITLE]
-奖励提示
+Belohnungstipps
 
 [PVZ1_MODE_START_LEVEL_TIPS_DESC]
-1. 普通难度下,每个关卡每周第一次通关时获得大量蜗牛币、钻石、金币
-2. 通关时选择的挑战目标越多,获得蜗牛币越多
-3. 未勾选的挑战目标可以再次挑战关卡获得该目标奖励
-3. 困难关卡首次通关,除了能获得钻石奖励和金币奖励外，还能获得特殊的彩色蜗牛币（僵博关卡除外）
+1. Im normalen Schwierigkeitsgrad erhältst du jede Woche eine große Menge Schneckenmünzen, Diamanten und Goldmünzen, wenn du jedes Level zum ersten Mal abschließt.
+2. Je mehr Herausforderungsziele du beim Abschließen eines Levels auswählst, desto mehr Schneckenmünzen erhältst du.
+3. Du kannst das Level erneut für nicht markierte Herausforderungsziele spielen, um das Ziel zu erreichen. Belohnung
+3. Wenn du ein schwieriges Level zum ersten Mal abschließt, erhältst du Diamanten und Goldmünzen sowie speziell gefärbte Schneckenmünzen (außer in Zombie-Leveln).
 
 [PVZ1_MODE_SELECT_LEVEL_CHALLENGE_CHOOSE_DESC]
-(选择目标越多，奖励越高)
+(Je mehr Ziele du auswählst, desto höher ist die Belohnung.)
 
 [PVZ1_MODE_SELECT_LEVEL_THEME_NO_USE_DESC]
-当前关卡主题不生效
+Das aktuelle Level-Thema ist nicht wirksam.
 
 [PVZ1MODE_SELECT_LEVEL_CHALLENGE_COMPLETE_DESC]
-^FF0000 {NAME}(完成) ^oldclr 
+^FF0000 {NAME} (Abgeschlossen) ^oldclr
 
 [FIRST_REWARD_TITLE]
-首通
+Erster Durchgang
 
 [PVZ1MODE_SHOP_TITLE]
-回忆之旅商店
+Reminiscence Journey Shop
 
 [LEVEL_EDITOR_SHOP_TITLE]
-DIY关卡商店
+DIY-Level Shop
 
 [PVZ1MODE_SHOP_BUY_CONFIRM]
-是否花费 {NUMS} 蜗牛币购买？
+Möchtest du {NUMS} Schneckenmünzen ausgeben, um zu kaufen?
 
 [PVZ2_UNCHRATED_MODE_SHOP_BUY_NORMAL_CONFIRM]
-是否花费 {NUMS} 普通币购买？
+Möchtest du {NUMS} normale Münzen ausgeben, um zu kaufen?
 
 [PVZ2_UNCHRATED_MODE_SHOP_BUY_HARD_CONFIRM]
-是否花费 {NUMS} 高级币购买？
+Möchtest du {NUMS} Premiummünzen ausgeben, um zu kaufen?
 
 [CUSTOM_LEVEL_SHOP_BUY_CONFIRM2]
-是否花费 {NUMS} 创作币购买？
+Möchtest du {NUMS} Kreativmünzen ausgeben, um zu kaufen?
 
 [CUSTOM_LEVEL_SHOP_BUY_CONFIRM1]
-是否花费 {NUMS} 游玩币购买？
+Möchtest du {NUMS} Spielmünzen ausgeben, um zu kaufen?
 
 [PVZ1MODE_SHOP_BUY_TIME]
-限购次数 : {NUM1} / {NUM2}
+Anzahl der Käufe: {NUM1} / {NUM2}
 
 [PVZ1MODE_SHOP_BUY_TIME_UNLIMITED]
-限购次数 : 无限
+Anzahl der Käufe: unbegrenzt
 
 [PVZ1MODE_SHOP_TIPS_DESC]
 1. 玩家可以通过完成回忆之旅的关卡获取代币，在商店兑换各种物品
@@ -58202,98 +58200,100 @@ x{NUM} 开始
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP_PVZ1]
-使用能量豆将无法完成挑战, 是否使用?
+Die Verwendung von Energiebohnen schließt die Herausforderung nicht ab. Möchtest du sie verwenden?
 
 [MAT_PVZ1MODE_COIN]
-金蜗牛币
+Goldene Schneckenmünzen
 
 [MAT_PVZ1MODE_COIN_HARD]
-彩蜗牛币
+Bunte Schneckenmünzen
 
 [GACHA_AGAIN_10_TIMES_NEW]
-{NUMBER}再抽10次
+{NUMBER} Ziehe 10 weitere Male
 
 [GACHA_AGAIN_1_TIMES_NEW]
-{NUMBER}再抽1次
+{NUMBER} Ziehe 1 weitere Male
 
 [THE_LIMIT_LOTTERY_OVERVIEW_TITLE]
-玩法说明
+Spielanleitung
 
 [THE_LIMIT_LOTTERY_OVERVIEW_CONTENT]
-限时夺宝：
-1.限时夺宝中可以消耗紫金币来抽取强力植物或碎片，最高可直接获得三阶橙色植物！
-2.如果已有该植物会转化为90个对应的植物碎片。
-3.3阶植物被抽到后会显示为获得状态，且不会再被抽出。
-4.每抽一次获得一点幸运值，幸运值越高越容易获得稀有道具。
-5.幸运值未达到100时，如果抽到了奖杯，幸运值会清空。
-6.幸运值达到100后幸运值会清空归零，且下一发必定出奖杯。
-7.奖杯可用于在奖杯商店内兑换指定的3阶植物。同一个植物仅兑换一次。
+Zeitlich begrenzte Schatzsuche:
+
+1. Bei der zeitlich begrenzten Schatzsuche kannst du lila Goldmünzen verbrauchen, um mächtige Pflanzen oder Fragmente zu ziehen und direkt die orangefarbene Pflanze der dritten Stufe zu erhalten!
+
+2. Besitzt du die Pflanze bereits, wird sie in 90 entsprechende Pflanzenfragmente umgewandelt.
+3. Nachdem eine Pflanze der Stufe 3 gezogen wurde, wird sie als erhalten angezeigt und nicht erneut gezogen.
+4. Für jede Ziehung erhältst du einen Glückspunkt. Je höher der Glückspunkt, desto leichter erhältst du seltene Gegenstände.
+5. Erreicht der Glückswert nicht 100, wird er gelöscht, sobald du eine Trophäe ziehst.
+6. Erreicht der Glückswert 100, wird er auf Null zurückgesetzt, und bei der nächsten Ziehung erhältst du definitiv eine Trophäe.
+7. Die Trophäe kann im Trophäenladen gegen eine bestimmte Pflanze der Stufe 3 eingetauscht werden. Dieselbe Pflanze kann nur einmal eingetauscht werden.
 
 [MAT_PVZ1MODE_COIN_USE]
-用于回忆之旅商店
+Verwendet für den „Reise der Erinnerungen“-Shop.
 
 [MAT_PVZ1MODE_COIN_GOT_WAY]
-回忆之旅活动
+„Reise der Erinnerungen“-Event
 
 [MAT_PVZ1MODE_COIN_HARD_USE]
-用于回忆之旅商店
+Verwendet für den „Reise der Erinnerungen“-Shop.
 
 [MAT_PVZ1MODE_COIN_HARD_GOT_WAY]
-回忆之旅活动
+„Reise der Erinnerungen“-Event
 
 [PVZ1MODE]
-回忆之旅
+„Reise der Erinnerungen“
 
 [NUM_OBTAIN]
-{NUM}个可领取
+{NUM} können eingefordert werden.
 
 [PVZ1MODE_CREDITS_PLAY]
-播 放
+Spielfreigabe
 
 [PVZ1MODE_HARD_MOUDLE_NOT_OPEN]
-请先完成普通模式以解锁该难度
+Bitte schließe zuerst den normalen Modus ab, um diesen Schwierigkeitsgrad freizuschalten.
 
 [PLAYERS_TRIP_TO_MEMORY]
-{PLAYER}的回忆之旅
+{PLAYER}s Reise nach Erinnerung
 
 [S3_MEMORY_LEVEL_NAME_001]
-阳光掠夺者
+Sonnenschein-Raubtier
 
 [S3_MEMORY_LEVEL_NAME_002]
-大钢琴家
+Der große Pianist
 
 [S3_MEMORY_LEVEL_NAME_003]
-冲呀
+Los geht's!
 
 [S3_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S3_MEMORY_LEVEL_NAME_005]
-三叶草的快乐
+Die Freude am Kleeblatt
 
 [S3_MEMORY_LEVEL_NAME_006]
-有小偷
+Es gibt einen Dieb.
 
 [S3_MEMORY_LEVEL_NAME_007]
-挖掘技术哪家强
+Wer hat die beste Bergbautechnologie?
 
 [S3_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombies kommen.
 
 [S3_MEMORY_LEVEL_NAME_009]
-三叶草的快乐
+Die Freude am Klee
 
 [S3_MEMORY_LEVEL_NAME_010]
-迪斯科
+Disko
 
 [S3_MEMORY_LEVEL_NAME_011]
-智械危机
+Omnic-Krise
 
 [S3_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_013]
-墓志铭
+Epitaph
 
 [S3_MEMORY_LEVEL_NAME_014]
 飞跃巅峰
@@ -61725,122 +61725,120 @@ young式摇滚
 僵博来袭
 
 [PVZ1_MODE_NO_CHALLENGE_CHOOSE]
-未选择任何挑战目标
+Kein Herausforderungsziel ausgewählt
 
 [PVZ1MODE_TIME_COUNTDOWN]
-活动剩余时间：
+Verbleibende Aktivitätszeit:
 
 [PVZ1MODE_TIME_RESET]
-普通模式进度重置时间：
+Fortschritt im Normalmodus zurücksetzen:
 
 [PVZ1_HOW_TO_PLAY_1]
-时空能量条
+Zeit- und Raumenergieleiste
 
 [PVZ1_HOWTOPLAY_1_DESCRIPTION]
-时空能量会随游戏进程不断消耗，到达一定值后会出现特殊机制
+Zeit- und Raumenergie wird im Spielverlauf verbraucht. Sobald ein bestimmter Wert erreicht ist, werden spezielle Mechanismen aktiviert.
 
 [PVZ1_HOW_TO_PLAY_2]
-时空机制
+Zeit- und Raummaschine
 
 [PVZ1_HOWTOPLAY_2_DESCRIPTION]
-一共有三种特殊机制：时间虫洞、时空裂缝、时空黑洞
+Es gibt drei spezielle Mechanismen: Zeit-Wurmloch, Zeit-Raum-Riss und Zeit-Raum-Schwarzes Loch.
 
 [PVZ1_HOW_TO_PLAY_3]
-时空虫洞
+Zeit-Raum Wurmloch
 
 [PVZ1_HOWTOPLAY_3_DESCRIPTION]
-时间虫洞会将植物或者僵尸传送到随机位置
+Das Zeit-Wurmloch teleportiert Pflanzen oder Zombies an zufällige Orte.
 
 [PVZ1_HOW_TO_PLAY_4]
-时空裂缝
+Raum-Zeit-Riss
 
 [PVZ1_HOWTOPLAY_4_DESCRIPTION]
-时空裂缝会产生一些特殊僵尸
+Der Raum-Zeit-Riss erzeugt besondere Zombies.
 
-[PVZ1_HOW_TO_PLAY_5]
-时空黑洞
+[PVZ1_HOW_TO_PLAY_4] LAY_5]
+Schwarzes Raum-Zeit-Loch
 
 [PVZ1_HOWTOPLAY_5_DESCRIPTION]
-时空黑洞会将所有植物强制向前移动
+Schwarzes Raum-Zeit-Loch zwingt alle Pflanzen, sich vorwärts zu bewegen.
 
 [MODE_HOW_TO_PLAY_1]
-玩法说明
+Spielanleitung
 
 [MODE_HOWTOPLAY_1_DESCRIPTION]
-受神秘的时空之力的影响所有植物全部变为1阶
+Beeinflusst von der mysteriösen Kraft der Raum-Zeit erreichen alle Pflanzen Level 1.
 
 [MODE_HOWTOPLAY_2_DESCRIPTION]
-挑战一次普通难度关卡消耗一个时空稳定器，该装置会每天补满或者用钻石补充
+Das Bewältigen eines normalen Schwierigkeitsgrades verbraucht Raum-Zeit. Stabilisator, der täglich mit Diamanten aufgefüllt wird.
 
 [MODE_HOWTOPLAY_3_DESCRIPTION]
-在普通模式下，选择越多的关卡目标，获得的奖励数量越高
+Im normalen Modus gilt: Je mehr Levelziele du auswählst, desto mehr Belohnungen erhältst du.
 
 [MODE_HOWTOPLAY_4_DESCRIPTION]
-困难模式下，只能使用两颗2代植物进行作战（一些关卡强制预选的2代植物不占用2代植物数量限制），僵尸更加强大
+Im schwierigen Modus kannst du nur zwei Pflanzen der zweiten Generation zum Kämpfen einsetzen (in manchen Leveln können die vorab ausgewählten Pflanzen der zweiten Generation das Limit für Pflanzen der zweiten Generation nicht überschreiten). Außerdem sind die Zombies mächtiger.
 
 [MODE_HOWTOPLAY_5_DESCRIPTION]
-在所有模式下，使用时空能量豆会恢复时空能量
+In allen Modi wird durch die Verwendung von Raum-Zeit-Energiebohnen Raum-Zeit-Energie wiederhergestellt.
 
 [AUTH_LOGIN_ERROR_TEXT]
-网络波动异常，请稍后再点击开始游戏。
-
+Das Netzwerk schwankt ungewöhnlich stark. Bitte klicke, um das Spiel später zu starten.
 
 [TEAM_PLANT]
-植物编队
 
 [LEVEL_SCORE]
-关卡分数
+Level-Punktzahl
 
 [ZOMBIE_DETAILS]
-僵尸详情
+Zombie-Details
 
 [ENTRIES_DETAILS]
-词条详情
+Eintragsdetails
 
 [INTEGRAL_NUM]
-积分 {NUM}
+Punkte {NUM}
 
 [NODE_ONE_SCORE]
-节点1: {NUM}
+Knoten 1: {NUM}
 
 [NODE_TWO_SCORE]
-节点2: {NUM}
+Knoten 2: {NUM}
 
 [GET_TARGET_SCORE]
-获得 {NUM} 分
+Erreiche {NUM} Punkte
 
 [LEVEL_PASS_TOGAL]
-通关目标
+Ziel erreicht
 
 [STAR_TOGAL]
-星数目标
+Ziel mit Stern
 
 [SUGGEST_ATTRIBUTES]
-建议属性:
+Vorgeschlagene Attribute:
 
 [PLANT_TEAM_NOT_ENOUGH]
-队伍植物未满
+Team-Anlagen sind nicht voll
 
 [PLANT_TEAM_FULL]
-队伍植物已满
+Team-Anlagen sind voll
 
 [PLANT_WARS_LEADERBOARD]
-排行榜
+Rangliste
 
 [PLANT_WARS_LEADERBOARD_BONUS]
-排行奖励
+Ranglistenbonus
 
 [PLANT_WARS_STAR_REWARD]
-星数奖励
+Sternebonus
 
 [PLANT_WARS_CURRENT_SCORE]
-我的积分： {NUMS}
+Meine Punkte: {NUMS}
 
 [PLANT_WARS_CURRENT_RANK]
-排名：{NUMS}
+Rangliste: {NUMS}
 
 [PLANT_WARS_CURRENT_HIGH_SCORE]
-本期最高：{NUMS}
+Höchste Punktzahl in diesem Zeitraum: {NUMS}
 
 [PLANT_WARS_LEADERBOARD_BONUS_RANK_DESC_0]
 0% ~ 5%
@@ -74218,150 +74216,149 @@ Kann über deine Schilde geworfen werden und landet direkt auf dem U-Boot.
 
 
 [STARCHALLENGE_PVZ1KLOTSKI_NAME]
-汽车华容道
+Auto Huarong Road
 
 [PVZ1KLOTSKI_DIED_OUT_CANCELED]
-步数用尽了
+Schritte erschöpft
 
 [PVZ1KLOTSKI_ROUNDS]
-剩余步数:{NUMBER}
+Anzahl der verbleibenden Schritte: {NUMBER}
 
 [NFSLINKAGE_TASK_NAME_1]
-消耗 {NUM} 钻石
+Verbrauche {NUM} Diamanten
 
 [NFSLINKAGE_TASK_NAME_2]
-获得 {NUM} 片植物碎片
+Sammle {NUM} Pflanzenfragmente
 
 [NFSLINKAGE_TASK_NAME_4]
-完成 {NUM} 次每日任务
+Erfülle {NUM} tägliche Aufgaben
 
 [NFSLINKAGE_TASK_NAME_5]
-获得 {NUM} 片装扮/挂件碎片
+Sammle {NUM} Kleidungsstücke/Anhängerfragmente
 
 [NFSLINKAGE_TASK_NAME_6]
-获得豌豆射手飞车装扮
+Holt euch das Peashooter Speed Dressup
 
 [NFSLINKAGE_TASK_NAME_8]
-每日通关1次创意庭院关卡
+Schließe das Level „Kreativer Hof“ einmal ab Tag
 
 [NFSLINKAGE_TASK_NAME_7]
-每日通关1次回忆之旅关卡
+Schließe das Level „Reise der Erinnerungen“ einmal täglich ab.
 
 [PENNY_GIFT_SHORT_DESCRIPTION]
-打开潘妮的未来礼盒，获取超值奖励
+Öffne Pennys Zukunftsgeschenkbox und erhalte eine tolle Belohnung.
 
 [PENNY_GIFT_DESCRIPTION_TITLE]
-潘妮的未来礼盒活动说明
+Beschreibung der Penny-Zukunftsgeschenkbox-Aktivität
 
 [PENNY_GIFT_DESCRIPTION]
-1、在自选配置中点击左侧的潘妮头像选择未来礼盒种类后随机从已选择的配置中挑选八个礼盒组成本轮奖励（最少选择3个奖励类别）。
-2、玩家可花费潘妮金币购买未来礼盒并获取对应奖励，在购买未来礼盒时潘妮会根据您当前轮次中已购买的礼盒数量进行折扣。
-3、每次购买未来礼盒，除了固定获得的商品内容外，将会额外获得概率产出，领取更多奖品和钻石，点击未来礼盒右上角的“?”按钮可以查看详情。
-4、当礼盒界面的物品全部购买完后，会自动刷新一套奖励配置（不消耗刷新次数）。
-5、累计购买多款未来礼盒，可以解锁个人进度奖励，购买未来礼盒的代币数量越多，奖励越丰厚。
-6、购买未来礼盒积攒全服进度，解锁全服进度奖励。需要至少购买1次未来礼盒才可领取全服进度奖励。
-7、玩家花费潘妮金币购买潘妮的未来礼盒后，根据购买的礼盒的价格总价登上榜单，登上榜单后在结算时会额外获得丰厚奖励。
-8、当期未消耗的潘妮金币将在活动结束后按照1:10的比例自动转化成对应的钻石奖励，不可保留至下期。
-9、各种类中额外产出的概率如下：①强化材料类——33.33%   ②植物及植物装扮类——10.00%。
+1. Klicke in der selbstgewählten Konfiguration links auf Pennys Avatar, um die Art der Zukunftsgeschenkbox auszuwählen. Wähle anschließend zufällig acht Geschenkboxen aus der gewählten Konfiguration aus, um diese Belohnungsrunde zu bilden (mindestens drei Belohnungskategorien auswählen).
+2. Spieler können Pennys Goldmünzen ausgeben, um Zukunftsgeschenkboxen zu kaufen und entsprechende Belohnungen zu erhalten. Beim Kauf von Zukunftsgeschenkboxen gewährt Penny Rabatte basierend auf der Anzahl der in der aktuellen Runde gekauften Geschenkboxen.
+3. Bei jedem Kauf einer Zukunftsgeschenkbox erhältst du zusätzlich zum festen Produktinhalt zusätzliche Wahrscheinlichkeitsauswertungen, weitere Preise und Diamanten und kannst Details durch Klicken auf das „?“ in der oberen rechten Ecke der Zukunftsgeschenkbox einsehen.
+4. Nach dem Kauf aller Artikel auf der Geschenkbox-Oberfläche werden die Belohnungskonfigurationen automatisch aktualisiert (ohne Aktualisierungszeiten zu benötigen).
+5. Durch den Kauf mehrerer Zukunftsgeschenkboxen kannst du persönliche Fortschrittsbelohnungen freischalten. Je mehr Token du Zukunftsgeschenkboxen kaufst, desto üppiger sind die Belohnungen.
+6. Kaufe Zukunftsgeschenkboxen, um Serverfortschritt zu sammeln und Serverfortschrittsbelohnungen freizuschalten. Du musst mindestens eine Zukunftsgeschenkbox kaufen, um Serverfortschrittsbelohnungen zu erhalten.
+7. Nachdem Spieler Pennys Goldmünzen für den Kauf von Pennys Zukunftsgeschenkbox ausgegeben haben, werden sie entsprechend dem Gesamtpreis der gekauften Geschenkbox in die Liste aufgenommen. Sobald sie auf der Liste stehen, erhalten sie beim Abschluss zusätzliche großzügige Belohnungen.
+8. Nach Ende des Events werden die nicht verbrauchten Penny-Münzen automatisch im Verhältnis 1:10 in entsprechende Diamantenbelohnungen umgewandelt und können erst im nächsten Zeitraum einbehalten werden.
+9. Die Wahrscheinlichkeit für zusätzlichen Output in jeder Kategorie beträgt: ① Verstärkungsmaterialien: 33,33 % ② Pflanzen und Pflanzendekorationen: 10,00 %
 
 [PRODUCT_PENNYGIFTBOX_30_SHORTDESC]
-入门礼包盒
+Geschenkbox für Anfänger
 
 [PRODUCT_PENNYGIFTBOX_68_SHORTDESC]
-初级礼包盒
+Geschenkbox für Anfänger
 
 [PRODUCT_PENNYGIFTBOX_198_SHORTDESC]
-中级礼包盒
+Geschenkbox für Fortgeschrittene
 
 [PRODUCT_PENNYGIFTBOX_328_SHORTDESC]
-高级礼包盒
+Geschenkbox für Fortgeschrittene
 
 [PRODUCT_PENNYGIFTBOX_648_SHORTDESC]
-超级礼包盒
+Super-Geschenkbox
 
 [MAT_PENNY_GIFT_TOKEN]
-潘妮金币
+Pen-Penny-Goldmünze
 
 [MAT_PENNY_GIFT_TOKEN_USE]
-用于潘妮未来礼盒购买道具
+Kann zum Kauf von Artikeln in der Penny Future-Geschenkbox verwendet werden.
 
 [MAT_PENNY_GIFT_TOKEN_GOT_WAY]
-潘妮未来礼盒中购买金币礼包获得
+Erhältlich durch den Kauf von Goldmünzen-Geschenkpaketen in der Penny Future-Geschenkbox.
 
 [MAT_LUCKYCHEST]
-幸运宝箱第Ⅲ期
+Glücks-Schatzkistenphase III
 
 [MAT_LUCKYCHEST_USE]
-开启幸运宝箱后可以随机获取丰厚奖励，仅可在2025年4月1日-5月26日使用
+Nach dem Öffnen der Glücksschatzkiste erhältst du zufällig ausgewählte Belohnungen. Die Kiste kann nur vom 1. April bis 26. Mai 2025 genutzt werden.
 
 [MAT_LUCKYCHEST_GOT_WAY]
-幸运宝藏活动获取、每周特惠礼包购买获取
+Erhältlich im Glücksschatz-Event, beim wöchentlichen Kauf spezieller Geschenkpakete.
 
-[NFS_LINKAGE_TAB1]
-新春签到
+[NFS_LINKAGE_TAB 1]
+Neujahrs-Anmeldung
 
 [NFS_LINKAGE_TAB2]
-元宝任务
+Yuanbao-Mission
 
 [NFS_LINKAGE_TAB3]
-兑换商店
+Tauschladen
 
 [NFSLINKAGE_DESCRIPTION_TITLE]
-元宝大作战活动说明
+Beschreibung des Yuanbao-Kampf-Events
 
 [NFSLINKAGE_DESCRIPTION]
-活动规则
-1.玩家活动期间每日登录期间，可以领取超值奖励，签到奖励共14天
-2.元宝任务分为每日任务和活动任务，每日任务每日0点刷新，每日可完成一次
-3.活动任务存在多阶段任务，只有完成上一阶段任务后，才会显示下一阶段
-4.完成元宝任务可获得元宝，消耗元宝可在兑换商店中兑换道具奖励
-5.兑换商店兑换需要在活动开启期间兑换，各位小僵僵记得及时兑换哦
+Eventregeln
+1. Spieler können während des Events beim täglichen Login wertvolle Belohnungen erhalten. Die Anmeldebelohnungen sind insgesamt 14 Tage gültig.
+2. Yuanbao-Missionen sind in Tages- und Event-Missionen unterteilt. Tägliche Missionen werden täglich um 0:00 Uhr aktualisiert und können einmal täglich abgeschlossen werden.
+3. Es gibt mehrere Level von Event-Missionen. Erst nach Abschluss des vorherigen Levels wird der nächste angezeigt.
+4. Schließe die Yuanbao-Mission ab. Du erhältst Barren durch das Erfüllen von Aufgaben und kannst im Einlöseshop durch Verbrauch von Barren Belohnungen einlösen.
+5. Die Einlösung im Einlöseshop muss während des Events erfolgen. Denk also daran, sie rechtzeitig einzulösen.
 
 [MAT_NFSLINKAGE_INTEGRAL]
-元宝
+Barren
 
 [NFSLINKAGE_TITLE]
-元宝大作战
+Barrenkrieg
 
 [MAT_NFSLINKAGE_TICKET]
-元宝
+Barren
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
-活动期间内，玩家可以登录领取14天超值奖励，完成活动任务可获得元宝，在兑换商店可消耗元宝换取超值奖励哦！
-
+Während des Events können sich Spieler anmelden und 14 Tage lang Super-Belohnungen erhalten. Barren erhältst du durch das Erfüllen von Event-Aufgaben. Verbrauche Barren im Einlöseshop und tausche sie gegen Super-Belohnungen ein!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}滑动手指拖动车辆进行移动，水平车辆左右移动，垂直车辆上下移动
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Bewege das Fahrzeug mit dem Finger. Horizontale Fahrzeuge bewegen sich nach links und rechts, vertikale nach oben und unten.
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_2]
-{SAY:CRAZYDAVE}快想办法移开车辆让我回家吧，外面的僵尸太吓人了！
+{SAY:CRAZYDAVE}Finde schnell einen Weg, das Fahrzeug zu bewegen, damit ich nach Hause kann. Die Zombies draußen sind zu gruselig!
 
 [NARRATIVE_TUTORIAL_KLOTSKI_NEWPLAYER_3]
 {NPC_EXIT:crazydave}
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIZARDTHORNS_1]
-荆棘巫师成长礼包装扮
+Kostüm „Wachstumsgeschenkpaket“ des Dornenzauberers
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-向日葵歌手奥运装扮
+Olympiakostüm „Sonnenblumensängerin“
 
 [PLANTWARS_WORLD_THEME_TITLE]
-僵局逃脱
+Flucht aus der Sackgasse
 
 [PLANTWARS_WORLD_LEVEL_PASS_CONDITION]
-成功抵挡僵尸的入侵
+Zombie-Invasion erfolgreich abgewehrt
 
 [PLANTWARS_WORLD_UNLOCK]
-当前僵局逃脱未开放
+Der Flucht aus der Sackgasse ist derzeit nicht möglich.
 
 [PLANTWARS_WORLD_SCORE_DESC]
-积分 {NUMS}
+Punkte: {NUMS}
 
 [PLANTWARS_WORLD_TEXT_DESC]
-测试：1000
+Test: 1000
 
 [PLANTWARS_KEY_INFO_TITLE]
-说明
+Beschreibung
 
 [PLANTWARS_KEY_INFO_TEXT_ALL]
 1、开启时间
@@ -75342,152 +75339,153 @@ Kann über deine Schilde geworfen werden und landet direkt auf dem U-Boot.
 历史伤害: {NUMBER}  
 
 [STARCHALLENGE_TRAINING]
-在30秒内尽可能打出更多伤害
+Verursache in 30 Sekunden so viel Schaden wie möglich.
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-六一响叮当
+Jingle Bells
 
 [GINGLEBELL_TASKDESCRIPTION]
-最新关卡对巨人僵尸造成伤害达 {NUMBER}  
+Füge dem Riesenzombie im letzten Level {NUMBER} Schaden zu.
 
 [A_PILE_SNOWMEN1_TITLE]
-火焰训练-关卡一
+Flammentraining – Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-火焰训练-关卡二
+Flammentraining – Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-火焰训练-关卡三
+Flammentraining – Level 3
 
 [CONVEYER_BELT1_TITLE]
-电击训练-关卡一
+Elektroschocktraining – Level 1
 
 [CONVEYER_BELT2_TITLE]
-电击训练-关卡二
+Elektroschocktraining – Level 2
 
 [CONVEYER_BELT3_TITLE]
-电击训练-关卡三
+Elektroschocktraining – Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-物理训练-关卡一
+Körpertraining – Stufe 1
 
 [RANDOM_SNOWMEN2_TITLE]
-物理训练-关卡二
+Körpertraining – Stufe 2
 
 [RANDOM_SNOWMEN3_TITLE]
-物理训练-关卡三
+Körpertraining – Stufe 3
 
 [GINGLEBELL_S1_1_TITLE]
-火焰训练-关卡一
+Flammentraining – Stufe 1
 
 [GINGLEBELL_S1_2_TITLE]
-火焰训练-关卡二
+Flammentraining – Stufe 2
 
 [GINGLEBELL_S1_3_TITLE]
-火焰训练-关卡三
+Flammentraining – Stufe 3
 
 [GINGLEBELL_S2_1_TITLE]
-电击训练-关卡一
+Elektroschocktraining – Stufe 1
 
 [GINGLEBELL_S2_2_TITLE]
-电击训练-关卡二
+Elektroschocktraining – Stufe 2
 
 [GINGLEBELL_S2_3_TITLE]
-电击训练-关卡三
+Elektroschocktraining – Stufe drei
 
 [GINGLEBELL_S3_1_TITLE]
-物理训练-关卡一
+Körpertraining Stufe 1
 
 [GINGLEBELL_S3_2_TITLE]
-物理训练-关卡二
+Körpertraining Stufe 2
 
 [GINGLEBELL_S3_3_TITLE]
-物理训练-关卡三
+Körpertraining Stufe 3
 
 [GINGLEBELL_S4_1_TITLE]
-火焰训练-关卡一
+Flammentraining Stufe 1
 
 [GINGLEBELL_S4_2_TITLE]
-火焰训练-关卡二
+Flammentraining Stufe 2
 
 [GINGLEBELL_S4_3_TITLE]
-火焰训练-关卡三
+Flammentraining Stufe 3
 
 [GINGLEBELL_S5_1_TITLE]
-电击训练-关卡一
+Elektroschocktraining Stufe 1
 
 [GINGLEBELL_S5_2_TITLE]
-电击训练-关卡二
+Elektroschocktraining Stufe 2
 
 [GINGLEBELL_S5_3_TITLE]
-电击训练-关卡三
+Elektroschocktraining Stufe 3
 
 [GINGLEBELL_S6_1_TITLE]
-物理训练-关卡一
+Physisches Training – Stufe 1
 
 [GINGLEBELL_S6_2_TITLE]
-物理训练-关卡二
+Physisches Training – Stufe 2
 
 [GINGLEBELL_S6_3_TITLE]
-物理训练-关卡三
+Physisches Training – Stufe 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
-挑战在30秒内打出最高的伤害！
+Fordere heraus, in 30 Sekunden den höchsten Schaden zu verursachen!
 
 [SNOWNIGHTSTAGE2_LEVEL_NAME]
-电击训练 - 第 {LEVEL_NUMBER} 关
+Elektroschocktraining – Stufe {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-火焰训练 - 第 {LEVEL_NUMBER} 关
+Feuertraining – Stufe {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-物理训练 - 第 {LEVEL_NUMBER} 关
+Körpertraining – Stufe {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}的六一响叮当之旅
+{PLAYER}s Jingle Bells Trip
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
-日月金银花冬日装扮
+Sonne-Mond-Geißblatt-Winteroutfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WATERRABBIT_1]
-兔极企鹅装扮
+Kaninchen-Pinguin-Outfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DAZEYCHAIN_1]
-眩晕雏菊迷糊眼镜装扮
+Dizzy Daisy: Verwirrende Brille Outfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEAPOD_1]
-豌豆荚3D眼镜装扮
+Wandoujia 3D-Brillen-Outfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_3]
-聚能山竹全身装扮
+Energiespendendes Mangostan-Ganzkörper-Outfit
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0]
-蓝色挂件碎片5片自选
+5 blaue Anhängerfragmente deiner Wahl
+
 [MAT_BATTLE_ORDER_BLUE_ACCE0_USE]
-使用可自选奖励并获得
-[MAT_BATTLE_ORDER_BLUE_ACCE0_GOT_WAY]
-各种令营活动中获取
+Wähle eine Belohnung aus und erhalte:
+[MAT_BATTLE_ORDER_BLUE_ACCE0 _GOT_WAY]
+Erhältlich bei verschiedenen Camp-Aktivitäten
 
 [MAT_BATTLE_ORDER_BLUE_ACCE1]
-蓝色挂件碎片15片自选
+15 blaue Anhängerfragmente deiner Wahl
 [MAT_BATTLE_ORDER_BLUE_ACCE1_USE]
-使用可自选奖励并获得
+Wähle Belohnungen aus und Erhalten
 [MAT_BATTLE_ORDER_BLUE_ACCE1_GOT_WAY]
-各种令营活动中获取
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE0]
-紫色挂件碎片5片自选
+5 lila Anhängerfragmente deiner Wahl
 [MAT_BATTLE_ORDER_PURPLE_ACCE0_USE]
-使用可自选奖励并获得
+Nutze die optionale Belohnung und erhalte
 [MAT_BATTLE_ORDER_PURPLE_ACCE0_GOT_WAY]
-各种令营活动中获取
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE1]
-紫色挂件碎片15片自选
+15 lila Anhängerfragmente deiner Wahl
 [MAT_BATTLE_ORDER_PURPLE_ACCE1_USE]
-使用可自选奖励并获得
+Nutze die optionale Belohnung und erhalte
 [MAT_BATTLE_ORDER_PURPLE_ACCE1_GOT_WAY]
-各种令营活动中获取
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE0]
 橙色挂件碎片5片自选
