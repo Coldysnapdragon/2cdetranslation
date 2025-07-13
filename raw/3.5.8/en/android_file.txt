@@ -6524,20 +6524,20 @@ Wilder Westen – Tag {LEVEL_NUMBER}
 Wer bist du?
 
 [WINTERMELON]
-Eismelonenkrug
+Wintermelone
 
 [WINTERMELON_DESCRIPTION]
 {KEYWORD}Feuergeschwindigkeit: {STAT}½x
 {KEYWORD}Reichweite: {STAT}Wurf
 {KEYWORD}Eigenschaften: {STAT}Verletzte Zombies werden ebenfalls eingefroren
 {KEYWORD}Pflanzeneigenschaften: {STAT}Blaue Pflanzen
-{FLAVOR}Vielleicht kennst du die melodische Stimme der Eismelone aus der großartigen Dokumentation, z. B. „It's cold up there“, „Frozen Slam“ und „Surfing Inuit“.
+{FLAVOR}Vielleicht kennst du die Stimme der Wintermelone aus den unglaublichen Dokumentarfilmen "Kalt hier oben", "Eisbingo" und "Surfen in Schweden".
 
 [WINTERMELON_DESCRIPTION_HEADER]
-Der Eismelonenkrug verursacht Flächenschaden und verlangsamt Zombies.
+Die Wintermelone verursacht Flächenschaden und verlangsamt Zombies.
 
 [WINTERMELON_PLANTFOOD]
-Feuere schwere Eismelonen ab und triff alle Zombies auf dem Rasen.
+Feuert schwere Eismelonen ab und trifft alle Zombies auf dem Rasen.
 
 [WINTERMELON_TOOLTIP]
 Trifft Zombiegruppen hart und verlangsamt sie.
@@ -16377,10 +16377,10 @@ Eichen-Fragment
 Eichen-Bogenschützen-Fragment erhalten
 
 [BONUS_CARD_PIECE_CRACKER]
-Zhu Yuanwai Fragment
+Vermieter Bambus Fragment
 
 [BONUS_CARD_PIECE_CRACKER_DESCRIPTION]
-Holt euch das Zhu Yuanwai-Fragment
+Holt euch das Vermieter Bambus Fragment
 
 [BONUS_CARD_PIECE_CHOMPER]
 Hackmesser-Fragment
@@ -17038,23 +17038,23 @@ Holt euch verschlungene Wassergrasfragmente
 莲小蓬能够发射鱼雷攻击前方僵尸。
 
 [CRACKER]
-竹员外
+Vermieter Bambus
 
 [CRACKER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}竹员外一个人住在烟花镇西边的一所大宅子里，别看他面相凶恶，其实他是一个喜欢小孩子的和善老头。每到过年的时候他都会给镇上的小孩子送鞭炮和烟花，希望他们能开开心心地过新年。而他最大的愿望，是希望他在远方学艺的孙子竹笋有一天能踩着鞭炮的碎屑敲响这座宅子的大门……
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen
+{FLAVOR}Vermieter Bambus lebt allein in einem großen Haus westlich von Feuerwerksstadt. Obwohl er grimmig wirkt, ist er in Wirklichkeit ein freundlicher alter Mann, der Kinder mag. Jedes Jahr zum chinesischen Neujahrsfest verteilt er Knallkörper und Feuerwerk an die Kinder der Stadt, in der Hoffnung, dass sie das neue Jahr fröhlich feiern können. Sein größter Wunsch ist es, dass sein Enkel Zhusun, der an einem fernen Ort Fähigkeiten lernt, eines Tages auf die Trümmer der Knallkörper treten und an die Tür seines Hauses klopfen kann …
 
 [CRACKER_DESCRIPTION_HEADER]
-竹员外能对接近的僵尸造成爆炸伤害。
+Vermieter Bambus kann Zombies in der Nähe Explosionsschaden zufügen.
 
 [CRACKER_TOOLTIP]
-竹员外能对接近的僵尸造成爆炸伤害。
+Kann Zombies in der Nähe Explosionsschaden zufügen.
 
 [CRACKER_SKILL_LEVEL5]
-旋转烟花
+Spinnfeuerwerk
 
 [CRACKER_SKILL_LEVEL5_DES]
-有概率形成旋转烟花对周围敌方单位造成伤害。
+Es besteht die Möglichkeit, dass sich ein Spinfeuerwerk bildet, das gegnerischen Einheiten in der Nähe Schaden zufügt.
 
 [SAPFLING]
 树脂投手
@@ -47846,7 +47846,7 @@ Die Wahrscheinlichkeit, dass der Maulbeer-Blaster Giftbomben wirft, erhöht sich
 Die Versiegelungszeit des Olivenkerns wird um {Param_1} Sekunden verkürzt.
 
 [GENE_DESCRIPTION_WINTERMELON]
-Der Eismelonenkrug hat eine Wahrscheinlichkeit von {Param_1} %, einen durch Eis verlangsamten Zombie einzufrieren, wenn er direkt getroffen wird.
+Die Wintermelone hat eine Wahrscheinlichkeit von {Param_1} %, einen durch Eis verlangsamten Zombie einzufrieren, wenn er direkt getroffen wird.
 
 [GENE_DESCRIPTION_BEARBERRY]
 Der Bärentraubenmörser: Die ultimative Fertigkeit hat eine Chance von {Param_1} %, eine Ladehemmung zu verursachen und eine zusätzliche Granate in eine zufällige Richtung nach rechts abzufeuern.
@@ -49810,95 +49810,94 @@ Karneval
 恭喜玩家{NAME}在“狂欢嘉年华”中触发了惊喜礼包，额外获得{INFO}
 
 [PLANTING_NOT_ON_ROLLER]
-不能种在圆环上
+Kann nicht auf einem Kreis gepflanzt werden.
 
 [PLANTING_NOT_ON_SCHOOLBUS]
-植物不喜欢冰淇淋车
+Pflanzen mögen keine Eiswagen.
 
 [PLANTING_NOT_ON_TRAIN]
-植物不喜欢小火车
+Pflanzen mögen keine Züge.
 
 [PLANTING_NOT_ON_RENAI_TILE]
-不能种在机关地块上
+Kann nicht auf einem Maschinenplättchen gepflanzt werden.
 
 [PLANTING_NOT_ON_HEIAN_BOX]
-不能种在赛钱箱上
+Kann nicht auf einer Spardose gepflanzt werden.
 
 [PLANTING_NOT_ON_FIRECRACKER]
-不能种在爆竹上
+Kann nicht auf Knallkörpern gepflanzt werden.
 
 [PLANTING_NOT_ON_SCARECROW]
-不能种在稻草人上
+Kann nicht auf Vogelscheuchen gepflanzt werden.
 
 [PLANTING_NOT_ON_RAIL_MAGICBEANS]
-魔法豆茎不能种在轨道上
+Magische Bohnenstangen können nicht gepflanzt werden auf Schienen
 
 [NARRATIVE_RENAI_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}哇！这里看上去像是有很多玉米卷的地方！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow! Hier gibt es bestimmt jede Menge Tacos!
 
 [NARRATIVE_RENAI_1_INTRO_2]
-{SAY:WINNIE}欢迎加入新的时空旅程！这里是13世纪，充满了文艺气息的欧洲。
+{SAY:WINNIE}Willkommen zu einer neuen Zeitreise! Wir befinden uns im 13. Jahrhundert, Europa ist voller literarischer Atmosphäre.
 
 [NARRATIVE_RENAI_1_INTRO_3]
-{SAY:WINNIE}探测仪显示我们正在博物馆里。
+{SAY:WINNIE}Der Detektor zeigt an, dass wir uns in einem Museum befinden.
 
 [NARRATIVE_RENAI_1_INTRO_4]
-{EXCITED:CRAZYDAVE}看那些家伙的领子像不像玉米卷，没准他们也喜欢吃玉米卷呢！
+{EXCITED:CRAZYDAVE}Schau dir mal die Kragen der Typen an. Sehen die aus wie Tacos? Vielleicht mögen sie auch Tacos!
 
 [NARRATIVE_RENAI_1_INTRO_5]
-{SAY:WINNIE}他们喜不喜欢玉米卷不知道，但是他们肯定还是最喜欢脑子。
+{SAY:WINNIE}Ich weiß nicht, ob sie Tacos mögen, aber Gehirne mögen sie definitiv am liebsten.
 
 [NARRATIVE_RENAI_1_INTRO_6]
-{EXCITED:CRAZYDAVE}快看！那些圆圆的东西是什么?呃！我猜是新型玉米卷？
+{EXCITED:CRAZYDAVE}Schau mal! Was sind das für runde Dinger? Ugh! Ich schätze, das sind neue Tacos?
 
 [NARRATIVE_RENAI_1_INTRO_7]
-{SAY:WINNIE}那是维特鲁威人圆环，合理运用圆环，它会成为对付僵尸的秘密武器！
+{SAY:WINNIE}Das ist der Kreis des vitruvianischen Menschen. Wenn du den Kreis richtig einsetzt, wird er zur Geheimwaffe gegen Zombies!
 
 [NARRATIVE_RENAI_1_INTRO_8]
-{SAY:WINNIE}冬瓜守卫可以助我们使用秘密武器。
+{SAY:WINNIE}Die Wintermelonenwache kann uns helfen, die Geheimwaffe einzusetzen.
 
 [NARRATIVE_RENAI_1_INTRO_9]
-{EXCITED:CRAZYDAVE}那些地上的箭头是什么？好像在说前面有玉米卷！
+{EXCITED:CRAZYDAVE}Was sind das für Pfeile auf dem Boden? Sie scheinen zu sagen, dass es weiter vorne Tacos gibt!
 
 [NARRATIVE_RENAI_1_INTRO_10]
-{SAY:WINNIE}地上的箭头决定着圆环的滚动方向。
+{SAY:WINNIE}Die Pfeile auf dem Boden zeigen die Richtung an, in die der Ring rollt.
 
 [NARRATIVE_RENAI_3_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}啊啊啊啊啊天哪！这里的雾气快弄得我睁不开眼睛了！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Oh mein Gott! Der Nebel hier macht es mir fast unmöglich, die Augen zu öffnen!
 
 [NARRATIVE_RENAI_3_INTRO_2]
-{SAY:WINNIE}我们的探测仪显示，这些雾气有毒，小心了！
+{SAY:WINNIE}Unsere Detektoren zeigen, dass der Nebel giftig ist. Vorsicht!
 
 [NARRATIVE_RENAI_3_INTRO_3]
-{EXCITED:CRAZYDAVE}快看那家伙手里拿着瓶子，该不会是什么玉米卷味的饮料吧！
+{EXCITED:CRAZYDAVE}Sieh dir die Flasche in der Hand des Typen an. Das ist kein Getränk mit Taco-Geschmack!
 
 [NARRATIVE_RENAI_3_INTRO_4]
-{SAY:WINNIE}那是调香师僵尸，他手里的瓶子可以制造毒雾对植物造成伤害。
+{SAY:WINNIE}Das ist der Parfümeur-Zombie. Die Flasche in seiner Hand kann giftigen Nebel erzeugen, der Pflanzen schädigt.
 
 [NARRATIVE_RENAI_3_INTRO_5]
-{EXCITED:CRAZYDAVE}哦！这该死的毒雾，我快窒息了！
+{EXCITED:CRAZYDAVE}Oh! Dieser verdammte giftige Nebel, ich ersticke!
 
 [NARRATIVE_RENAI_3_INTRO_6]
-{EXCITED:CRAZYDAVE}我们需要一种可以净化毒雾的植物！
+{EXCITED:CRAZYDAVE}Wir brauchen eine Pflanze, die den giftigen Nebel reinigen kann!
 
 [NARRATIVE_RENAI_3_INTRO_7]
-{SAY:WINNIE}芦荟医师可以净化调香师制造的毒雾，并增加植物的攻击力。
-
+{SAY:WINNIE}Aloe Doctor kann den giftigen Nebel des Parfümeurs reinigen und die Angriffskraft von Pflanzen erhöhen.
 
 [NARRATIVE_RENAI_5_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}我看到很多不可思议的雕像，这可太有意思了！哈哈！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Ich habe viele seltsame Statuen gesehen, das ist so interessant! Haha!
 
 [NARRATIVE_RENAI_5_INTRO_2]
-{EXCITED:CRAZYDAVE}哦！快看看那些石头雕像！
+{EXCITED:CRAZYDAVE}Oh! Schau dir diese Steinstatuen an!
 
 [NARRATIVE_RENAI_5_INTRO_3]
-{EXCITED:CRAZYDAVE}这可真有意思哈哈哈！我敢打赌它们肯定是因为偷吃了玉米卷！
+{EXCITED:CRAZYDAVE}Das ist so interessant, hahaha! Ich wette, sie haben die Tacos geklaut!
 
 [NARRATIVE_RENAI_5_INTRO_4]
-{SAY:WINNIE}那些是僵尸雕像，他们会在夜晚变成真正的僵尸，我们要在白天把他们打碎才好！
+{SAY:WINNIE}Das sind Zombiestatuen. Sie verwandeln sich nachts in echte Zombies. Wir müssen sie tagsüber zerschlagen!
 
 [NARRATIVE_RENAI_5_INTRO_5]
-{SAY:WINNIE}当心夜幕降临。
+{SAY:WINNIE}Pass auf die Nacht auf.
 
 [NARRATIVE_RENAI_7_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}嘿！那里有个像是在雕琢的家伙是在干嘛？
@@ -50461,130 +50460,134 @@ Karneval
 正在被{PLANT}使用
 
 [NEW_AVATAR_EFFECT]
-装扮效果
+Ausrüstungseffekt
 
 [NEW_AVATAR_WEAR]
-穿戴
+Tragen
 
 [NEW_AVATAR_TAKE_OFF]
-脱下
+Ausziehen
 
 [NEW_AVATAR_EXCHANGE]
-合成
+Synthese
 
 [NEW_AVATAR_EQUIPED]
-已装备
+Ausgerüstet
 
 [NEW_AVATAR_NOT_ACQUIRED]
-未获得
+Nicht erhalten
 
 [NEW_AVATAR_BUFF]
-属性增益：
+Erlente Fähigkeit:
 
 [NEW_AVATAR_GET]
-获得途径：
+Erhaltsmöglichkeiten:
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_2]
-机枪豌豆限定装扮
+Gatling-Erbsen-Kostüm (Limitiert)
 
 [NEW_AVATAR_DESCRIPTION_GATLINGPEA_2]
-植物攻击力增加20%
+Pflanzenangriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_1]
-曼德拉草成长装扮
+Mandragora Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_MANDRAKE_1]
-植物攻击力增加20%
+Pflanzenangriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NIGHTCAP_1]
-暗夜菇成长礼包装扮
+Nightcap-Wachstumsgeschenkpaket-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_NIGHTCAP_1]
-种植冷却缩短20%
+Pflanzenabklingzeit um 20 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_1]
-机枪豌豆联动装扮
+Maschinengewehr-Erbsenverbindungskostüm
 
 [NEW_AVATAR_DESCRIPTION_GATLINGPEA_1]
-植物攻击力增加10%
+Pflanzenangriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOYACORDATA_1]
-粉丝心叶兰圣诞装扮
+Fächerherzblatt-Orchideen-Weihnachtskostüm
 
-[NEW_AVATAR_DESCRIPTION_HOYACORDATA_1]
-种植冷却缩短20%
+[NEW_AVATAR_DESCRIPTION_GATLINGPEA_1]
+IPTION_HOYACORDATA_1]
+Pflanzenabklingzeit 20 % kürzer
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LEMON_1]
-强酸柠檬圣诞装扮
+Weihnachtskleid mit Zitronensäure
 
 [NEW_AVATAR_DESCRIPTION_LEMON_1]
-植物攻击力增加20%
+Pflanzenangriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GHOSTPEPPER_1]
-幽灵辣椒灯笼装扮
+Laternenkleid mit Geisterpfeffer
 
 [NEW_AVATAR_DESCRIPTION_GHOSTPEPPER_1]
-种植冷却缩短20%
+Abklingzeit von Pflanzen um 20 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_3]
-派对助力苹果装扮
+Party-Boost-Apfelkleid
 
 [NEW_AVATAR_DESCRIPTION_APPLEMORTAR_3]
-增加2技能概率10%
+Erhöht die Wahrscheinlichkeit für Fertigkeit 2 um 10 %.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_1]
-剑叶龙血树成长装扮
+Dracaena-Schwertblatt-Wachstumskleid
 
 [NEW_AVATAR_DESCRIPTION_DRACAENA_1]
-植物攻击力增加20%
+Erhöht die Angriffskraft von Pflanzen um 20 %.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DEODARCEDAR_1]
-蓄电雪松果成长装扮
+Energiespeicherndes Zedernzapfen-Wachstumskleid
 
 [NEW_AVATAR_DESCRIPTION_DEODARCEDAR_1]
-植物攻击力增加20%
+Erhöht die Angriffskraft von Pflanzen um 20 %.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DEODARCEDAR_1]
+Pflanzenangriff Kraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_1]
-蛇妖瓶子草成长装扮
+Wachstumskleid
 
 [NEW_AVATAR_DESCRIPTION_SARRACENIA_1]
-植物攻击力增加20%
+Pflanzenangriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_3]
-原始豌豆河姆渡装扮
+Urzeiterbsenkanonen-Hemudu-Kleid
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_3]
-种植冷却缩短15%
+Pflanzen-Abklingzeit um 15 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALSUNFLOWER_2]
-原葵河姆渡装扮
+Primitives Sonnenblumen-Hemudu-Kleid
 
 [NEW_AVATAR_DESCRIPTION_PRIMALSUNFLOWER_2]
-种植冷却缩短15%
+Pflanzen-Abklingzeit um 15 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ICELOTUS_1]
-滴水冰莲联动装扮
+Tropfender Eislotus-Verbindungskostüm
 
 [NEW_AVATAR_DESCRIPTION_ICELOTUS_1]
-种植冷却时间缩短10%
+Die Abklingzeit des Pflanzens wurde um 10 % verkürzt.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAGONROAR_1]
-龙吼草联动装扮
+Drachengebrüll-Gras-Verbindungskostüm
 
 [NEW_AVATAR_DESCRIPTION_DRAGONROAR_1]
-种植冷却时间缩短10%
+Die Abklingzeit des Pflanzens wurde um 10 % verkürzt.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_DRAGONCANE_1]
-蔗师父联动装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_DRAGONROAR_1] AGONCANE_1]
+Drachenstock-Meister-Verbindungskostüm
 
 [NEW_AVATAR_DESCRIPTION_DRAGONCANE_1]
-植物攻击力增加10%
+Angriffskraft der Pflanzen wurde um 10 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_5]
-向日葵联动装扮
+Sonnenblume Verknüpfungskostüm
 
 [NEW_AVATAR_DESCRIPTION_SUNFLOWER_5]
-阳光产出时间间隔减少4秒
+Das Erzeugungsintervall des Sonnenlichts wurde um 4 Sekunden verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ORCHIDMAGE_1]
 Geschenkpaket-Kostüm „Jakobsmuschel-Orchidee“
@@ -50596,16 +50599,16 @@ Abklingzeit des Pflanzens um 10 % verkürzt
 Superkostüm Eisenkraut
 
 [NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_2]
-Wahrscheinlichkeit für das Auslösen von Fertigkeiten der Stufen 2, 3 und 5 um 10 % erhöht
+Wahrscheinlichkeit für das Auslösen der Fertigkeiten der Stufen 2, 3 und 5 um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_2]
-Nezha-Kostüm „Feuriger Farn“
+Nezha-Kostüm „Feuriger Farn"
 
 [NEW_AVATAR_DESCRIPTION_INFERNO_2]
-Angriffsintervall verkürzt um 1 Sek.
+Angriffsintervall um 1 Sek. verkürzt.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_4]
-Primitives Erbsen-Jinyiwei-Kostüm
+Primitive Erbsen-Jinyiwei-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_4]
 Sonnenlichtverbrauch um 20 Punkte reduziert
@@ -50614,886 +50617,898 @@ Sonnenlichtverbrauch um 20 Punkte reduziert
 Papyrus-Kostüm im chinesischen Stil
 
 [NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_1]
-Angriffskraft um 20% erhöht
+Angriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTIO N_MAGNETSHROOM_1]
 Magnetpilz-Kleid im chinesischen Stil
 
 [NEW_AVATAR_DESCRIPTION_MAGNETSHROOM_1]
-Ruhezeit wird reduziert um 1 s
+Die Ruhezeit wird um 1 reduziert S
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_1]
 Mei Xiao Kleid im amerikanischen Stil
 
 [NEW_AVATAR_DESCRIPTION_WINTERSWEET_1]
-Angriffskraft um 10% erhöht
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_2]
-Gelbes Birnenkleid im chinesischen Stil
+Gelbes Birnenkleid im chinesischen Still
 
 [NEW_AVATAR_DESCRIPTION_IMPPEAR_2]
-Betäubungszeit um 1 s erhöht
+Betäubungszeit um 1 Sekunde erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNSHROOM_1]
 Sonnenscheinpilz-Kostüm im chinesischen Stil
 
 [NEW_AVATAR_DESCRIPTION_SUNSHROOM_1]
-Erhöht die Sonnenlichtausbeute um 25%
+Erhöht das Sonnenlichtausbeuteum 25 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_2]
 Elektrisches Gelsemium-Wachstum Kostüm
 
 [NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_2]
-Angriffsintervall um 20% verkürzt
+Angriffsintervall um 20 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_1]
 Erbsen-Frühlingsfest-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PEASHOOTER_1]
-Erhöht die Angriffsgeschwindigkeit um 20%
+Erhöht die Angriffsgeschwindigkeit um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_2]
-激光豆六一装扮
+Laser Bean Kindertagskostüm
 
 [NEW_AVATAR_DESCRIPTION_LASER_BEAN_2]
-攻击力增加15%
+Angriffskraft um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_1]
-蚕豆突击队六一装扮
+Kindertag des Saubohnenkommandos Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHESTNUT_1]
-板栗六一装扮
+Kastanien-Kindertagskostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GREENTURNIP_1]
-捣蛋萝卜六一装扮
+Unartiges Karotten-Kindertagskostüm
 
-[NEW_AVATAR_DESCRIPTION_GREENTURNIP_1]
-攻击速度提升15%
+[NEW_AVATAR_D ESCRIPTION_GREENTURNIP_1]
+Angriffsgeschwindigkeit um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHOMPER_1]
-大嘴花春节装扮
+Geparden-Frühlingsfestkostüm
 
 [NEW_AVATAR_DESCRIPTION_CHOMPER_1]
-种植冷却缩短20%
+Abklingzeit des Pflanzens um 20 % reduziert
 
 [NEW_AVATAR_DESCRIPTION_CHOMPER_3]
-消化时间减少3秒
+Verdauungszeit um 3 Sekunden reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHOMPER_2]
-大嘴花周年装扮
+Geparden-Jubiläum Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHOMPER_3]
-钢铁大嘴花超级装扮
+Stahlgeparden-Superkostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ALOES_2]
-芦荟医师周年装扮
+Aloe Vera Arzt-Jubiläumsoutfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_1]
-黄金蓓蕾周年装扮
+Goldene Knospe-Jubiläumsoutfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_3]
-激光豆周年装扮
+Laserbohnen-Jubiläumsoutfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POWERLILY_1]
-能量花周年装扮
+Kraftblumen-Jubiläumsoutfit
 
-[NEW_AVATAR_SHORT_DESCRIPTION_CHAINSAWBURMANNII_1]
-锯齿锦地罗礼包装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_C HAINSAWBURMANNII_1]
+Kieferzahn-Brokat-Geschenktütenkostüm
 
 [NEW_AVATAR_DESCRIPTION_CHOMPER_2]
-降低阳光消耗30点
+Reduziert den Sonnenlichtverbrauch um 30 Punkte
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FIREPEASHOOTER_1]
-火焰豌豆周年装扮
+Feuererbsen-Jubiläum Kostüm
 
 [NEW_AVATAR_DESCRIPTION_FIREPEASHOOTER_1]
-火焰伤害增加20%
+Erhöht den Feuerschaden um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_2]
-槲寄冰仙子周年装扮
+Mistelzweig-Eisfeen-Wochen-Jahreskostüm
 
 [NEW_AVATAR_DESCRIPTION_MISSILETOE_2]
-种植冷却缩短10%
+Pflanzen-Abklingzeit um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOLONUT_2]
-全息坚果周年装扮
+Holografisches Nuss-Jubiläumskostüm
 
 [NEW_AVATAR_DESCRIPTION_HOLONUT_2]
-种植冷却缩短10%
+Pflanzen-Abklingzeit um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_2]
-杜英投手周年装扮
+Döbelndes Krug-Jubiläumskostüm
 
-[NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_2]
-种植冷却缩短10%
+[NEW_AVATAR_DESCRIPTION_ELAEOCAR PUS_2]
+Pflanzen-Abklingzeit verkürzt um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_1]
-牛蒡击球手成长装扮
+Klettenschläger-Wachstums-Outfit
 
 [NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_1]
-植物攻击力增加10%
+Pflanzenangriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_2]
-牛蒡击球手相声装扮
+Klettenschläger-Crosstalk-Outfit
 
 [NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_2]
-攻击力增加20%
+Angriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EYWA_1]
-女娲派对助力装扮
+Nu Wa-Party-Support-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_EYWA_1]
-种植冷却减少20%
+Pflanzen-Abklingzeit um 20 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TUPISTRASTALKER_1]
-潜行开口箭新春装扮
+Stealth-Offener-Pfeil-Neujahr Kostüm
 
 [NEW_AVATAR_DESCRIPTION_TUPISTRASTALKER_1]
-种植冷却减少10%
+Abklingzeit von Pflanzen um 10 % reduziert
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_2]
-蛇妖瓶子草墨镜装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_SAR RACENIA_2]
+Kleid mit Sonnenbrille und Schlangendämonen-Kanne
 
 [NEW_AVATAR_DESCRIPTION_SARRACENIA_2]
-攻击速度增加20%
+Angriffsgeschwindigkeit um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAFTODIL_2]
-气流水仙花灯笼装扮
+Kleid mit Narzissen-Laterne in der Luftströmung
 
 [NEW_AVATAR_DESCRIPTION_DRAFTODIL_2]
-攻击速度增加20%
+Angriffsgeschwindigkeit um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]
-电击钩吻派对助力装扮
+Kleid mit Elektroschock-Haken-Kuss-Party-Unterstützung
 
-[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_1]
-攻击力增加10%
+[NEW_A VATAR_DESCRIPTION_WIREGELSEMIUM_1]
+Angriffskraft erhöht um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
-大喷菇舞狮装扮
+Großes Pilz-Löwentanzkostüm
 
 [NEW_AVATAR_DESCRIPTION_FUMESHROOM_1]
-攻击速度增加10%
+Angriffsgeschwindigkeit um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_RHUBARBARIAN_1]
-蛮族大黄成长礼包装扮
+Barbarisches Rhabarber-Wachstums-Geschenkpaketkostüm
 
-[NEW_AVATAR_DESCRIPTION_RHUBARBARIAN_1]
-攻击力增加10%
+[NEW_AVATAR_DESCRIPTION_RHUBARBAR IAN_1]
+Erhöht die Angriffskraft um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FIRECRACKERFLOWER_1]
-疯狂炮仗花成长装扮
+Verrücktes Feuerwerksblumen-Wachstumsoutfit
 
 [NEW_AVATAR_DESCRIPTION_FIRECRACKERFLOWER_1]
-攻击速度增加20%
+Erhöht die Angriffsgeschwindigkeit um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COCONUTCANNON_2]
-椰子礼帽
+Kokosnusshut
 
 [NEW_AVATAR_DESCRIPTION_COCONUTCANNON_2]
-降低阳光消耗50点。
+Reduziert den Sonnenlichtverbrauch um 50 Punkte.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_1]
-激光金链
+Laser-Goldkette
 
 [NEW_AVATAR_DESCRIPTION_LASER_BEAN_1]
-降低阳光消耗25点。
+Reduziert den Sonnenlichtverbrauch um 25 Punkte.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CELERYSTALKER_1]
-芹菜斗士盔
+Sellerie-Lautsprecherhelm
 
 [NEW_AVATAR_DESCRIPTION_CELERYSTALKER_1]
-植物攻击力增加20%。
+Erhöht die Angriffskraft von Pflanzen um 20 %.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GRAPESHOT_1]
-葡萄彩气球
+Traubenballon
 
 [NEW_AVATAR_DESCRIPTION_GRAPESHOT_1]
-种植冷却缩短20%
+Abklingzeit beim Pflanzen um 20 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_1]
-坚果墙泳装
+Nusswand-Badeanzug
 
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_1]
-植物生命值提升15%
+Pflanzengesundheit um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_1]
-寒霜白毛丹成长装扮
+Frost-Rambutan-Wachstums-Outfit
 
 [NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_1]
-攻击间隔缩短20%
+Angriffsintervall um 20 % reduziert
 
-[NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_2]
-猫尾草蛋糕装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_NEKOT AIL_2]
+Rohrkolbenkuchen Kleid
 
 [NEW_AVATAR_DESCRIPTION_NEKOTAIL_2]
-攻击力增加20%
+Angriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_2]
-原始坚果cos装扮
+Primitive-Nuss-Cosplay-Kleid
 
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_2]
-阳光消耗降低10点
+Sonnenlichtverbrauch um 10 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_3]
-剑叶龙血树礼服装扮
+Drachenblutbaum-Kleid
 
 [NEW_AVATAR_DESCRIPTION_DRACAENA_3]
-阳光消耗降低25点
+Sonnenlichtverbrauch um 25 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_2]
-龙舌兰礼帽装扮
+Tequilahut-Kleid
 
 [NEW_AVATAR_DESCRIPTION_AGAVE_2]
-攻击间隔减少15%
+Angriffsintervall um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUMPKIN_1]
-南瓜头埃及装扮
+Ägyptisches Kürbiskopfkostüm
 
 [NEW_AVATAR_DESCRIPTION_PUMPKIN_1]
-生命值增加30%
+Gesundheit um 30 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_2]
-天使星星果怪盗装扮
+Sternfruchtdieb-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_2]
-攻击力增加20%
+Angriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_2]
-电鳗香蕉超级装扮
+Superkostüm: Zitteraal-Banane
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICPEEL_2]
-阳光消耗减少35点
+Sonnenlichtverbrauch um 35 Punkte reduziert
 
-[NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_1]
-双胞胎礼帽
+[NEW_AVATAR_SHORT_DESCRIPTION _TWINSUNFLOWER_1]
+Zwillinge Hut
 
 [NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_1]
-阳光产出增加25点
+Erhöht die Sonnenlichtleistung um 25 Punkte
 
 [NEW_AVATAR_SOURCE_ACTIVITY]
-活动产出
+Aktivitätsleistung
 
 [NEW_AVATAR_SOURCE_GROUTHBAG]
-成长礼包产出
+Wachstumsgeschenkpaketleistung
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BLOOMERANG_2]
-回旋镖彩蛋帽
+Bumerang-Ostereierhut
 
 [NEW_AVATAR_DESCRIPTION_BLOOMERANG_2]
-植物攻击力增加10%
+Erhöht die Angriffskraft von Pflanzen um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KERNELPULT_2]
-玉米加油头带
+Mais-Jubel-Stirnband
 
 [NEW_AVATAR_DESCRIPTION_KERNELPULT_2]
-攻击速度增加10%
+Erhöht die Angriffsgeschwindigkeit um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNAPDRAGON_3]
-火龙草礼帽
+Weidenröschenhut
 
 [NEW_AVATAR_DESCRIPTION_SNAPDRAGON_3]
-攻击速度增加30%
+Erhöht die Angriffsgeschwindigkeit um 30 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOLONUT_1]
-全息科技面包机
+Holografischer Brotbackautomat
 
 [NEW_AVATAR_DESCRIPTION_HOLONUT_1]
-植物生命值提升20%
+Erhöht die Pflanzengesundheit um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_XSHOT_1]
-芜菁望远镜头带
+Rübenteleskop-Stirnband
 
 [NEW_AVATAR_DESCRIPTION_XSHOT_1]
-植物攻击力增加10%
+Erhöht die Angriffskraft der Pflanzen um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_2]
-猕猴桃围巾
+Kiwi-Schal
 
-[NEW_AVATAR_DESCRIPTION_KIWIFRUIT_2]
-攻击速度增加15%
+[NEW_AVATAR _DESCRIPTION_KIWIFRUIT_2]
+Angriffsgeschwindigkeit um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_2]
-菜问牛年装扮
+Naiwen-Ochsenjahr-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BONKCHOY_2]
-种植冷却缩短20%
+Pflanzen-Abklingzeit um 20 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KERNELPULT_1]
-玉米绅士套装
+Mais-Gentleman-Set
 
 [NEW_AVATAR_DESCRIPTION_KERNELPULT_1]
-降低阳光消耗20点
+Sonnenlichtverbrauch um 20 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TORCHWOOD_1]
-树桩蓝色泳镜
+Baumstumpfblaue Schwimmbrille
 
 [NEW_AVATAR_DESCRIPTION_TORCHWOOD_1]
-生命值提升20%
+Gesundheit erhöht um 20 %
 
-[NEW_AVATAR_SHORT_DESCRIPTION_MAGNIFYINGGRASS_1]
-棱镜草礼帽
+[NEW_AVATAR_SHORT_DESCRIPTION_KERNELPULT_1]
+ESCRIPTION_MAGNIFYINGGRASS_1]
+Prismatischer Grashut
 
 [NEW_AVATAR_DESCRIPTION_MAGNIFYINGGRASS_1]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_STUNION_1]
-洋葱飞行套装
+Zwiebel-Fliegeranzug
 
 [NEW_AVATAR_DESCRIPTION_STUNION_1]
-种植冷却缩短20%
+Abklingzeit von Pflanzen um 20 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LAVAGUAVA_1]
-番石榴花圈
+Guavenkranz
 
 [NEW_AVATAR_DESCRIPTION_LAVAGUAVA_1]
-爆炸伤害增加20%
+Explosionsschaden um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TOADSTOOL_1]
-金蟾菇爆炸头
+Goldener Krötenpilz Afro
 
 [NEW_AVATAR_DESCRIPTION_TOADSTOOL_1]
-生命值提升20%
+Erhöht die Gesundheit um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICBLUEBERRY_1]
-三孔插座帽
+Dreiloch-Stecksockelhut
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICBLUEBERRY_1]
-闪电伤害增加20%
+Erhöht den Blitzschaden um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_1]
-冰龙草冰激凌
+Eisdrachengras-Eiscreme
 
 [NEW_AVATAR_DESCRIPTION_COLDSNAPDRAGON_1]
-冰冻伤害增加30%
+Erhöht den Kälteschaden um 30 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_1]
-树根西部警长帽
+Western-Sheriffhut aus Baumwurzeln
 
 [NEW_AVATAR_DESCRIPTION_ESCAPEROOT_1]
-降低阳光消耗30点
+Reduziert den Sonnenlichtverbrauch um 30
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ALOES_1]
-芦荟战旗套装
+Aloe-Vera-Banner-Set
 
 [NEW_AVATAR_DESCRIPTION_ALOES_1]
-降低阳光消耗20点
+Reduziert den Sonnenlichtverbrauch um 20 Punkte.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PARSNIP_1]
-防风草蟹壳帽
+Winddichter Krabbenpanzerhut
 
 [NEW_AVATAR_DESCRIPTION_PARSNIP_1]
-增加攻击力30%
+Erhöht die Angriffskraft um 30 %.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_1]
-冰仙子围巾
+Eisfeenschal
 
 [NEW_AVATAR_DESCRIPTION_MISSILETOE_1]
-阳光消耗降低30点
+Reduziert den Sonnenlichtverbrauch um 30 Punkte.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_1]
-原豌浴帽
+Primärer Erbsen-Duschhut
 
-[NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_1]
-攻击力增加20%
+[NEW_AVATAR _DESCRIPTION_PRIMALPEASHOOTER_1]
+Angriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALSUNFLOWER_1]
-原葵恐龙帽
+Ur-Sonnenblumen-Dinosaurierhut
 
 [NEW_AVATAR_DESCRIPTION_PRIMALSUNFLOWER_1]
-阳光消耗降低25点
+Sonnenlichtverbrauch um 25 Punkte reduziert
 
 [NEW_AVATAR_SOURCE_ACTIVITY_EXCLUSIVE]
-活动专属装扮
+Exklusives Aktivitätskostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ICEBURG_1]
-冰冻生菜豌豆耳罩
+Ohrenschützer aus gefrorenem Salat und Erbsen
 
 [NEW_AVATAR_DESCRIPTION_ICEBURG_1]
-种植冷却缩短20%
+Abklingzeit beim Pflanzen um 20 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POTATOMINE_1]
-土豆海绵眼镜
+Kartoffelschwammgläser
 
-[NEW_AVATAR_SHORT_DESCRIPTION_STARFRUIT_1]
-星星果假发
+[NE W_AVATAR_SHORT_DESCRIPTION_STARFRUIT_1]
+Sternfrucht-Perücke
 
 [NEW_AVATAR_DESCRIPTION_STARFRUIT_1]
-攻击速度提高15%
+Angriffsgeschwindigkeit um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REDSTINGER_1]
-红针花探险帽
+Abenteuerhut der Rotnadelblume
 
 [NEW_AVATAR_DESCRIPTION_REDSTINGER_1]
-攻击速度提高10%
+Angriffsgeschwindigkeit um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_STALLIA_1]
-大丽菊面具
+Dahlienmaske
 
 [NEW_AVATAR_DESCRIPTION_STALLIA_1]
-种植冷却缩短10%
+Abklingzeit des Pflanzens um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_1]
-原始土豆虎纹装扮
+Primitives Kartoffel-Tigerstreifen-Outfit ...REDSTINGER_1]
+Angriffsgeschwindigkeit erhöht um 10 %
 
-[NEW_AVATAR_DESCRIPTION_PRIMALPOTATOMINE1]
-爆炸伤害增加15%
+[NEW_AVATAR_SHORT_DESCRIPTION_STALLIA_1]
+Dahlienmaske
+
+[NEW_AVATAR_DESCRIPTION_STALLIA_1]
+Abklingzeit beim Pflanzen um 10 % reduziert
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_1]
+Primitives Kartoffel-Tigerstreifen-Outfit
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_1] EW_AVATAR_DESCRIPTION_PRIMALPOTATOMINE1]
+Explosionsschaden um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BLOOMINGHEARTS_1]
-铃儿草蝴蝶结
+Glockenblumenbogen
 
 [NEW_AVATAR_DESCRIPTION_BLOOMINGHEARTS]
-攻击速度提升15%
+Angriffsgeschwindigkeit erhöht um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIBEAST_1]
-野兽猕猴桃头饰
+Kiwi-Bestien-Kopfstück
 
 [NEW_AVATAR_DESCRIPTION_KIWIBEAST]
-生命值提升15%
+Gesundheit um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNAPDRAGON_1]
-火龙草兔耳帽
+Löwenmäulchen-Hasenohrenmütze
 
 [NEW_AVATAR_DESCRIPTION_SNAPDRAGON]
-攻击力增加20%
+Angriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_1]
-冰西瓜夹子风扇
+Eis-Wassermelonen-Clip-Fächer
 
 [NEW_AVATAR_DESCRIPTION_WINTERMELON]
-使2技能冻结的概率增加7%（仅对2阶以上植物有效）
+Erhöht die Chance, Fertigkeit 2 einzufrieren, um 7 % (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHARDGUARD_1]
-甜菜腰带
+Rote-Bete-Gürtel
 
 [NEW_AVATAR_DESCRIPTION_CHARDGUARD]
-使甜菜护卫叶片的恢复时间减少10秒（仅对2阶以上植物有效）
+Erhöht die Erholungszeit von Beet Guardian Blades um 10 Sekunden (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DUSKLOBBER_1]
-幽暮投手鸭舌帽
+Dämmerungskrug-Kappe
 
 [NEW_AVATAR_DESCRIPTION_DUSKLOBBER]
-提升2技能的概率10%（仅对2阶以上植物有效）
+Erhöht die Wahrscheinlichkeit von Fertigkeit 2 um 10 % (nur wirksam für Pflanzen über Stufe 2)
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WITCHHAZEL_1]
-金缕梅女巫睡帽
+Hamamelis-Nachtmütze
 
-[NEW_AVATAR_DESCRIPTION_WITCHHAZEL]
-金缕梅女巫的施法蓄力时间减少3秒
+[NEW_AVATAR_DESCRIPTION_WITCHH AZEL]
+Verkürzt die Aufladezeit der Zauber der Hamamelis-Hexe um 3 Sekunden.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GRIMROSE_1]
-暗樱草阔檐帽
+Dunkle Primel mit breiter Krempe
 
 [NEW_AVATAR_DESCRIPTION_GRIMROSE]
-提升2技能的概率15%（仅对2阶以上植物有效）
+Erhöht die Wahrscheinlichkeit von Fertigkeit 2 um 15 % (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_1]
-芦苇兔耳
+Schilfkaninchen-Ohren
 
-[NEW_AVATAR_DESCRIPTION_LIGHTNINGREED]
-闪电伤害增加20%
+[NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_1]
+Schilfkaninchen-Ohren INGREED]
+Blitzschaden erhöht um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_1]
-双重射手棉帽
+Baumwollhut mit Doppel-Shooter
 
 [NEW_AVATAR_DESCRIPTION_REPEATER]
-攻击速度增加10%
+Angriffsgeschwindigkeit um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPIKEROCK_1]
-钢地刺护目镜
+Stahlstachel-Schutzbrille
 
 [NEW_AVATAR_DESCRIPTION_SPIKEROCK]
-植物攻击力增加10%
+Pflanzenangriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_1]
-寒冰射手棉帽
+Baumwollhut des Frostbogenschützen
 
 [NEW_AVATAR_DESCRIPTION_SNOWPEA]
-冰冻伤害增加10%
+Erhöht den Gefrierschaden um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SQUASH_1]
-窝瓜头带
+Kreischen Stirnband
 
 [NEW_AVATAR_DESCRIPTION_SQUASH]
-降低阳光消耗10点
+Reduziert den Sonnenlichtverbrauch um 10 Punkte
 
-[NEW_AVATAR_SHORT_DESCRIPTION_CHILIBEAN_1]
-巴豆围巾
+[NEW_AVATAR_SHORT_DESCRIPTION_CHILIBEA N_1]
+Kroton-Schal
 
 [NEW_AVATAR_DESCRIPTION_CHILIBEAN]
-种植冷却缩短10%
+Abklingzeit beim Pflanzen um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_2]
-冰瓜绒帽
+Wintermelonen-Samthut
 
 [NEW_AVATAR_DESCRIPTION_WINTERMELON_2]
-冰冻伤害增加15%
+Eisschaden um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CITRON_1]
-柚子冰杯帽
+Yuzu-Eisbecherhut
 
-[NEW_AVATAR_DESCRIPTION_CITRON]
-攻击力增加10%
+[NEW_AVATAR_ DESCRIPTION_CITRON]
+Erhöht die Angriffskraft um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AKEE_1]
-阿开木木头带
+Akaimu-Holz Gürtel
 
 [NEW_AVATAR_DESCRIPTION_AKEE]
-攻击速度增加15%
+Erhöht die Angriffsgeschwindigkeit um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICCURRANT_1]
-醋栗节能灯
+Johannisbeere-Energiesparlampe
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICCURRANT]
-闪电伤害增加20%
+Blitzschaden um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_1]
-菜问春节装扮
+Caiwen-Frühlingsfestkostüm
 
 [NEW_AVATAR_DESCRIPTION_BONKCHOY]
-生命值提升20%
+Gesundheit um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_2]
-原豌春节装扮
+Primärerbsen-Frühlingsfestkostüm
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_2]
-提升子弹击中僵尸击退概率
+Erhöht die Wahrscheinlichkeit, dass Kugeln Zombies treffen und zurückstoßen
 
 [STORE_PRODUCT_AVATAR_GOLDBLOOM_TITLE]
-黄金蓓蕾装扮
+Goldenes Knospenkleid
 
 [STORE_PRODUCT_AVATAR_GOLDBLOOM]
-降低种植CD20%
+Reduziert die Pflanz-CD um 20 %
 
 [STORE_PRODUCT_AVATAR_EMPEA_TITLE]
-脉冲黄桃装扮
+Pfirsichgelbes Kleid
 
 [STORE_PRODUCT_AVATAR_EMPEA]
-降低种植CD20%
+Reduziert die Pflanz-CD um 20 %
 
 [STORE_PRODUCT_AVATAR_GOLDLEAF_TITLE]
-黄金叶装扮
+Goldenes Blattkleid
 
 [STORE_PRODUCT_AVATAR_GOLDLEAF]
-降低种植CD20%
+Reduziert die Pflanz-CD um 20 %
 
 [STORE_PRODUCT_AVATAR_HOTPOTATO_TITLE]
-烤马铃薯装扮
+Ofenkartoffelkostüm
 
 [STORE_PRODUCT_AVATAR_HOTPOTATO]
-降低种植CD20%
+Reduziert die Pflanz-CD um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_1]
-龙舌兰春节装扮
+Tequila-Frühlingsfestkostüm
 
 [NEW_AVATAR_DESCRIPTION_AGAVE]
-攻击力提升15%
+Erhöht die Angriffskraft um 1,5 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CABBAGEPULT_1]
-卷心菜春节装扮
+Kohl-Frühlingsfestkostüm
 
 [NEW_AVATAR_DESCRIPTION_CABBAGEPULT]
-提升攻击速度10%
+Erhöht die Angriffsgeschwindigkeit um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CABBAGEPULT_2]
-卷心菜头饰
+Kohl-Kopfschmuck
 
 [NEW_AVATAR_DESCRIPTION_CABBAGEPULT_2]
-攻击力提升10%
+Erhöht die Angriffskraft um 10 %
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SPRINGBEAN_1]
-弹簧豆草裙
+[NEW_AVATAR_ SHORT_DESCRIPTION_SPRINGBEAN_1]
+Frühlingsbohnengras Rock
 
 [NEW_AVATAR_DESCRIPTION_SPRINGBEAN_1]
-降低种植CD20%
+Reduziert die Abklingzeit beim Pflanzen um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THREEPEATER_1]
-三重射手铁锅
+Dreifachschützen-Eisentopf
 
 [NEW_AVATAR_DESCRIPTION_THREEPEATER_1]
-提升攻击速度20%
+Erhöht die Angriffsgeschwindigkeit um 20 %
 
-[NEW_AVATAR_SHORT_DESCRIPTION_THREEPEATER_2]
-三重射手六一装扮
+[NEW_AVATAR_SHORT_DESCRIPTION _THREEPEATER_2]
+Dreifachschützen-Kostüm zum 1. Juni
 
 [NEW_AVATAR_DESCRIPTION_THREEPEATER_2]
-提升攻击力15%
+Erhöht die Angriffskraft um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ENDURIAN_1]
-榴莲球衣
+Durian-Trikot
 
 [NEW_AVATAR_DESCRIPTION_ENDURIAN_1]
-生命值提升15%
+Gesundheitswert erhöht sich um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPLITPEA_1]
-双向射手圣与魔头饰
+Zwei-Wege-Shooter: Heiliger und Dämon (Dekoration)
 
 [NEW_AVATAR_DESCRIPTION_SPLITPEA_1]
-提升攻击速度10%
+Erhöht die Angriffsgeschwindigkeit um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MELONPULT_1]
-西瓜投手水手帽
+Matrosenhut mit Wassermelonenkrug
 
 [NEW_AVATAR_DESCRIPTION_MELONPULT_1]
-攻击力提升20%
+Erhöht die Angriffskraft um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MELONPULT_3]
-西瓜礼帽
+Wassermelonen-Topper
 
 [NEW_AVATAR_DESCRIPTION_MELONPULT_3]
-提升攻击速度15%
+Erhöht die Angriffsgeschwindigkeit um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_2]
-双重射手维京帽
+Doppel-Shooter: Wikinger Hut
 
 [NEW_AVATAR_DESCRIPTION_REPEATER_2]
-提升攻击速度15%
+Erhöht die Angriffsgeschwindigkeit um 15 %.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BLOOMERANG_1]
-回旋镖射手飞侠帽
+Bumerang-Shooter-Flying-Man-Hut
 
 [NEW_AVATAR_DESCRIPTION_BLOOMERANG_1]
-攻击力提升15%
+Angriffskraft um 15 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_2]
-闪电芦苇高礼帽
+Blitzrohr-Zylinder
 
 [NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_2]
-闪电伤害增加15%
+Blitzschaden um 15 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COCONUTCANNON_1]
-椰子复古帽
+Kokosnuss-Retrohut
 
 [NEW_AVATAR_DESCRIPTION_COCONUTCANNON_1]
-爆炸伤害增加35%。
+Explosionsschaden um 35 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNAPDRAGON_2]
-火龙草铁盔
+Weidenröschen-Eisenhelm
 
 [NEW_AVATAR_DESCRIPTION_SNAPDRAGON_2]
-火焰伤害增加45%。
+Feuerschaden um 45 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GARLIC_1]
-硅胶手套
+Silikonhandschuhe
 
 [NEW_AVATAR_DESCRIPTION_GARLIC_1]
-生命值提高20%
+Gesundheit um 20 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPIKEROCK_2]
-钢地刺单片镜
+Stahlstachelmonokel
 
 [NEW_AVATAR_DESCRIPTION_SPIKEROCK_2]
-植物攻击力增加20%。
+Pflanzenangriffskraft um 20 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPORESHROOM_1]
-蓝色折纸帽
+Blauer Origami-Hut
 
 [NEW_AVATAR_DESCRIPTION_SPORESHROOM_1]
-攻击速度增加10%
+Angriffsgeschwindigkeit um 10 % erhöhen
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MAGNIFYINGGRASS_2]
-儿童节日礼帽
+Weihnachtshut für Kinder
 
 [NEW_AVATAR_DESCRIPTION_MAGNIFYINGGRASS_2]
-降低种植的阳光消耗10点
+Sonnenlichtverbrauch der Pflanzen um 10 Punkte reduzieren
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MELONPULT_2]
-西瓜玩具盒
+Wassermelonen-Spielzeugkiste
 
 [NEW_AVATAR_DESCRIPTION_MELONPULT_2]
-提升2技能连续抛射的概率10%（仅对2阶以上植物有效）
+Wahrscheinlichkeit der kontinuierlichen Projektion von Fertigkeit 2 um 10 % erhöhen (nur wirksam für Pflanzen über Stufe 2)
 
 [NEW_AVATAR_SHORT_DESCRIPTION_VANILLA_1]
-儿童高筒帽
+Zylinderhut für Kinder
 
 [NEW_AVATAR_DESCRIPTION_VANILLA_1]
-提升2技能使出空气炮的概率10%（仅对2阶以上植物有效）
+Erhöht Erhöht die Wahrscheinlichkeit, mit Fertigkeit 2 eine Luftkanone einzusetzen, um 10 % (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EXPLODEONUT_1]
-星星眼镜
+Sternbrille
 
 [NEW_AVATAR_DESCRIPTION_EXPLODEONUT_1]
-提升2技能死亡后留下土豆地雷的概率10%（仅对2阶以上植物有效）
+Erhöht die Wahrscheinlichkeit, Kartoffelminen nach dem Tod mit Fertigkeit 2 zu verlassen, um 10 % (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_1]
-气球金箍
+Goldener Ballonreifen
 
 [NEW_AVATAR_DESCRIPTION_KIWIFRUIT_1]
-降低阳光消耗20点
+Reduziert den Sonnenlichtverbrauch um 20 Punkte.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ICEBURG_2]
-复古耳罩
+Vintage-Ohrenschützer
 
 [NEW_AVATAR_DESCRIPTION_ICEBURG_2]
-植物攻击力增加20%
+Erhöht die Angriffskraft von Pflanzen um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_2]
-绿色绒线帽
+Grüner Wollhut
 
 [NEW_AVATAR_DESCRIPTION_SNOWPEA_2]
-攻击速度增加15%
+Erhöht die Angriffsgeschwindigkeit um 15 %
 
-[NEW_AVATAR_SHORT_DESCRIPTION_TALLNUT_1]
-高坚果学者装
+[NEW_AVATAR_SHORT_DESCRIPTION_TALLN UT_1]
+Gelehrtenanzug der Großen Nuss
 
 [NEW_AVATAR_DESCRIPTION_TALLNUT_1]
-植物生命值提升20%
+Erhöht die Pflanzengesundheit um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_1]
-暗影豌豆女巫帽
+Hexenhut der Schattenerbse
 
 [NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_1]
-攻击速度增加10%并且暗影状态多拖拽1次僵尸
+Erhöht die Angriffsgeschwindigkeit um 10 % und zieht Zombies erneut in den Schattenzustand.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_1]
-猫尾草小型快递纸箱
+Rohrkolben Kleine Gras-Kurierkiste
 
 [NEW_AVATAR_DESCRIPTION_NEKOTAIL_1]
-电击针刺出现概率增加10%（仅对2阶以上植物有效）
+Elektroschock: Die Wahrscheinlichkeit, dass Nadeldornen erscheinen, erhöht sich um 10 % (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POKRA_1]
-尖刺秋葵娃娃假发
+Okra-Puppenperücke mit Stacheln
 
 [NEW_AVATAR_DESCRIPTION_POKRA_1]
-攻击时高速穿刺连击概率提升10%（仅对2阶以上植物有效）
+Die Wahrscheinlichkeit von Hochgeschwindigkeits-Stichkombos während Angriffen erhöht sich um 10 % (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_1]
-向日葵海盗船长帽
+Sonnenblumen-Piratenkapitänshut
 
 [NEW_AVATAR_DESCRIPTION_SUNFLOWER_1]
-阳光产出时间间隔减少4秒
+Das Zeitintervall zwischen der Sonnenlichtproduktion verringert sich um 4 Sekunden.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_1]
-天使星星果眼镜
+[NEW_AVATAR_SHORT_DESCRIPTION_PINKSTAR FRUIT_1]
+Engelssternfrucht Brille
 
 [NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_1]
-普攻时出现红色星星概率增加5%，蓝色星星概率增加5%（仅对2阶以上植物有效）
+Rote Sterne erscheinen bei normalem Angriff und blaue Sterne bei normalem Angriff. Die Wirkung erhöht sich um 5 % (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_2]
-豌豆圣诞装扮
+Weihnachtskostüm „Erbsen“
 
 [NEW_AVATAR_DESCRIPTION_PEASHOOTER_2]
-普攻时有10%的概率连发2枚子弹
+10 % Chance, bei normalem Angriff zwei Kugeln hintereinander abzufeuern.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_1]
-坚果圣诞装扮
+Weihnachtskostüm „Walnuss“
 
-[NEW_AVATAR_DESCRIPTION_WALLNUT_1]
-种植冷却缩短10%
+[NEW_AVATAR_DESCRIPTION _WALLNUT_1]
+Abklingzeit für das Pflanzen um 10 % reduziert.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COBCANNON_1]
-玉米加农炮圣诞帽
+Maiskanone Weihnachtsmann Hut
 
 [NEW_AVATAR_DESCRIPTION_COBCANNON_1]
-降低阳光消耗50点
+Reduziert den Sonnenlichtverbrauch um 50 Punkte.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_1]
-茄子忍者圣诞装扮
+Auberginen-Ninja-Weihnachtskostüm
 
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_1]
-普攻时出现爆炸飞镖的概率增加10%
+Erhöht die Wahrscheinlichkeit, dass bei normalen Angriffen explosive Pfeile erscheinen, um 10 %.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_1]
-水晶兰圣诞装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROP A_1]
+Monotropa-Weihnachtskostüm
 
 [NEW_AVATAR_DESCRIPTION_MONOTROPA_1]
-植物攻击力增加10%
+Pflanzenangriffskraft um 10 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POTATOMINE_2]
-土豆地雷虎年装扮
+Kartoffelmine: Jahr des Tigers Kostüm
 
 [NEW_AVATAR_DESCRIPTION_POTATOMINE_2]
-爆炸伤害增加10%
+Explosionsschaden um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_1]
-向日葵歌手虎年装扮
+Sonnenblumensängerin: Jahr des Tigers Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BIRTHSUNFLOWER_1]
-阳光产出时间间隔减少10%
+Sonnenlichterzeugungsintervall um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHARDGUARD_2]
-甜菜护卫虎年装扮
+Beet Guard Tiger Year Kostüm
 
 [NEW_AVATAR_DESCRIPTION_CHARDGUARD_2]
-种植冷却缩短10%
+Pflanzen-Abklingzeit um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_1]
-荸荠兄弟虎年装扮
+Wasserkastanienbrüder-Tiger Year Kostüm
 
 [NEW_AVATAR_DESCRIPTION_ELEOCURLING_1]
-攻击力增加8%
+Angriffskraft um 8 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_1]
-苹果迫击炮虎年装扮
+Apfelmörser-Tiger Year Kostüm
 
-[NEW_AVATAR_DESCRIPTION_APPLEMORTAR_1]
-种植冷却缩短10%
+[NEW_ AVATAR_DESCRIPTION_APPLEMORTAR_1]
+Pflanzen-Abklingzeit um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DEVILSFLOWER_1]
-深渊魔爪花成长礼包装扮
+Abyssal Claw Flower Growth Geschenkpaket Kostüm
 
 [NEW_AVATAR_DESCRIPTION_DEVILSFLOWER_1]
-植物攻击力增加20%
+Pflanzenangriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CTHULHUACTINIA_1]
-深渊海葵成长礼包装扮
+Geschenkpaketkostüm „Abyssisches Anemonenwachstum“
 
 [NEW_AVATAR_DESCRIPTION_CTHULHUACTINIA_1]
-植物攻击力增加20%
+Pflanzenangriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CACTUS_1]
-仙人掌派对助力装扮
+Kaktus-Party-Assistenzkostüm
 
 [NEW_AVATAR_DESCRIPTION_CACTUS_1]
-二阶技能概率提升
+Erhöhte Wahrscheinlichkeit für Fertigkeiten der zweiten Stufe
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_1]
-厨师杓兰六一装扮
+Chef Shaolans Kindertagskostüm
 
 [NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_1]
-攻击速度增加10%
+Angriffsgeschwindigkeit um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_1]
-杜英投手六一装扮
+Elaeeo Pitcher-Outfit vom 1. Juni
 
 [NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_1]
-普攻羽毛球多弹射1次
+Allgemeiner Angriffs-Badminton wird erneut ausgeschlossen.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOMINGTHISTLE_1]
-导向蓟六一装扮
+Guide-Distel Juni 1. Outfit
 
 [NEW_AVATAR_DESCRIPTION_HOMINGTHISTLE_1]
-减少50阳光消耗
+Reduziert den Sonnenlichtverbrauch um 50
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TALLNUT_2]
-高坚果六一装扮
+Tall Nut 1. Juni Outfit
 
-[NEW_AVATAR_DESCRIPTION_TALLNUT_2]
-技能伤害增加100
+[NEW_AVATAR_DESCRIPTION_ TALLNUT_2]
+Fertigkeitsschaden um 100 erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_2]
-向日葵六一装扮
+Sonnenblumen-Kindertag-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_SUNFLOWER_2]
-向日葵死亡后葵瓜子留存时间增加5秒
+Nach dem Tod der Sonnenblume erhöht sich die Verweildauer der Sonnenblumenkerne um 5 Sekunden.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TIGERSTOOL_1]
-虎头菇成长装扮
+Tigerpilz-Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_TIGERSTOOL_1]
-休息时间减少10%
+Ruhezeit reduziert um 10 %
 
-[NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_2]
-茄子忍者成长装扮
+[NEW_AVATAR_ SHORT_DESCRIPTION_EGGPLANTNINJA_2]
+Auberginen-Ninja-Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_2]
-攻击力增加10%
+Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNAPPEA_1]
-食人花成长装扮
+Piranha-Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_SNAPPEA_1]
-种植冷却缩短10%
+Die Abklingzeit des Pflanzens wurde um 10 % verringert.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_1]
 Maulbeeren Blaster-Jubiläumskostüm
@@ -51520,7 +51535,7 @@ Bearberry Mörser-Jubiläumskostüm Kostüm
 Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_1]
-Jubiläumskostüm „Kleiner Erbsenmörser“
+Jubiläumskostüm „Kleiner „Erbsenmörser“
 
 [NEW_AVATAR_DESCRIPTION_SLINGPEA_1]
 Angriffskraft um 10 % erhöht
@@ -51546,7 +51561,7 @@ Angriffskraft um 10 % erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_2]
 Wachstumskostüm des Küchenchefs Laveran
 
-[NEW_ AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
+[NEU_ AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
 Angriffskraft um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_1]
@@ -51565,145 +51580,148 @@ Abklingzeit beim Pflanzen um 20 % verkürzt
 Olivengrubenbrillen-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_2]
-休息时间减少5s
+Ruhezeit um 5 Sekunden verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EMPEA_1]
-脉冲黄桃万圣节装扮
+Pulse Peach Halloween Kostüm
 
 [NEW_AVATAR_DESCRIPTION_EMPEA_1]
-降低阳光消耗15
+Reduziert den Sonnenlichtverbrauch um 15 %.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_3]
-菜问万圣节装扮
+Caiwen-Halloweenkostüm
 
 [NEW_AVATAR_DESCRIPTION_BONKCHOY_3]
-攻击力增加20%
+Angriffskraft um 20 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_3]
-向日葵万圣节装扮
+Sonnenblumen-Halloweenkostüm
 
 [NEW_AVATAR_DESCRIPTION_SUNFLOWER_3]
-种植冷却缩短20%
+Abklingzeit des Pflanzens um 20 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_2]
-苹果迫击炮成长装扮
+Apfelmörser-Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_APPLEMORTAR_2]
-攻击速度增加10%
+Angriffsgeschwindigkeit um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_4]
-向日葵圣诞节装扮
+Sonnenblumen-Weihnachtskostüm
 
 [NEW_AVATAR_DESCRIPTION_SUNFLOWER_4]
-阳光产出时间间隔减少4秒
+Zeitintervall der Sonnenlichtproduktion um 4 Sekunden reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_2]
-坚果万圣节装扮
+Halloween-Nüsse Kostüm
 
 [NEW_AVATAR_DESCRIPTION_WALLNUT_2]
-种植冷却缩短10%
+Abkühlzeit beim Pflanzen um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CROWNFLOWER_1]
-激光皇冠花圣诞装扮
+Weihnachtskostüm „Laser-Kronenblume“
 
 [NEW_AVATAR_DESCRIPTION_CROWNFLOWER_1]
-植物攻击力增加10%
+Angriffskraft von Pflanzen um 10 % erhöht
 
-[NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPULT_1]
-火鸡投手圣诞节装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPU LT_1]
+Weihnachtsoutfit „Truthahnkrug“
 
 [NEW_AVATAR_DESCRIPTION_TURKEYPULT_1]
-攻击速度增加10%
+Angriffsgeschwindigkeit um 10 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPULT_2]
-火鸡投手奶嘴装扮
+Schnuller-Outfit „Truthahnkrug“
 
 [NEW_AVATAR_DESCRIPTION_TURKEYPULT_2]
-种植冷却缩短20%
+Abkühlzeit beim Pflanzen um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
-暗影豌豆草帽装扮
+Shadow Pea Strohhut-Outfit
 
 [NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_2]
-植物攻击力增加20%
+Pflanzenangriff: Erhöht die Angriffskraft um 20 %.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOLLYKNIGHT_1]
-冬青骑士福字装扮
+Holy Knight Fu Zi Kostüm
 
 [NEW_AVATAR_DESCRIPTION_HOLLYKNIGHT_1]
-种植冷却缩短20%
+Pflanzen-Abklingzeit wird um 20 % verkürzt.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HEAVENDATURA_2]
-留声曼陀罗成长装扮
+Echo Mandragora Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_HEAVENDATURA_2]
-植物攻击力增加15%
+Pflanzenangriffskraft erhöht sich um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_1]
-烈焰火蕨眼镜装扮
+Flammenfarn-Brillenkostüm
 
-[NEW_AVATAR_DESCRIPTION_INFERNO_1]
-阳光消耗减少30
+[NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_1]
+Flammenfarn-Brillenkostüm
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HEAVENDATURA_2] EW_AVATAR_DESCRIPTION_INFERNO_1]
+Sonnenlichtverbrauch um 30 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BOOMFLOWER_1]
-爆炸桔梗圣诞节装扮
+Explodierendes Platycodon-Weihnachtskostüm
 
 [NEW_AVATAR_DESCRIPTION_BOOMFLOWER_1]
-阳光消耗减少50
+Sonnenlichtverbrauch um 50 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PHATBEET_1]
-DJ甜菜兔年装扮
+DJ Beet Rabbit Jahr Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PHATBEET_1]
-植物攻击力增加10%
+Erhöht die Angriffskraft von Pflanzen um 10 %
 
-[NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_1]
-雷龙草兔年装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_ THUNDERSNAPDRAGON_1]
+Donnerdrachen-Gras-Kaninchen-Jahreskostüm
 
 [NEW_AVATAR_DESCRIPTION_THUNDERSNAPDRAGON_1]
-植物攻击力增加10%
+Erhöht die Angriffskraft von Pflanzen um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_1]
-小黄梨兔年装扮
+Birnen-Kaninchen-Jahreskostüm
 
 [NEW_AVATAR_DESCRIPTION_IMPPEAR_1]
-种植冷却缩短10%
+Abklingzeit des Pflanzens um 10 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PINECONE_1]
-双枪松果兔年装扮
+Doppelkanonen-Kaninchen-Jahreskostüm
 
 [NEW_AVATAR_DESCRIPTION_PINECONE_1]
-攻击速度增加10%
+Erhöhte Angriffsgeschwindigkeit 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_1]
-铜钱草鼓手兔年装扮
+Hydrocotyled-Trommler-Kostüm für das Jahr des Hasen
 
 [NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_1]
-种植冷却缩短10%
+Pflanzen-Abklingzeit um 10 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CONVALLARIACHEMIST_1]
-芦藜药师成长装扮
+Wachstumskostüm des Rekonvaleszenten-Chemikers
 
 [NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_1]
-植物攻击力增加10%
+Pflanzenangriffskraft um 10 % erhöht
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_2]
-熊果臼炮成长装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_ BEARBERRY_2]
+Bärentrauben-Mörser-Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_BEARBERRY_2]
-攻击速度增加10%
+Angriffsgeschwindigkeit erhöht um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAFTODIL_1]
-气流水仙花成长装扮
+Narzissen-Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_DRAFTODIL_1]
-攻击速度增加10%
+Angriffsgeschwindigkeit um 10 % erhöht
 
 [NEW_AVATAR_DESCRIPTION_CROWNFLOWER_2]
-种植冷却缩短15%
+Pflanzen-Abklingzeit um 15 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CROWNFLOWER_2]
-皇冠花成长礼包装扮
+Kronenblumen-Wachstums-Geschenkkostüm
 
 [STORE_PRODUCT_AVATAR_BLOVER_TITLE]
 Kleebrille
@@ -57486,157 +57504,163 @@ Anzahl der Käufe: unbegrenzt
 致在回忆之旅中一同前行的玩家
 
 [MEMORIESNEKOTAIL]
-赛季限定猫尾草
+Saisonlimitiertes Rohrkolbengras
 
 [SUMMER_MEMORIES_HEAD_ID_25345]
-喵喵
+Miau, miau
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25345]
-致在回忆之旅中一同前行的玩家
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen unterwegs sind
 
 [MEMORIESBIRTHSUNFLOWER]
-赛季限定歌手向日葵
+Saisonlimitierte Sängerin Sonnenblume
 
 [SUMMER_MEMORIES_HEAD_ID_25353]
-迎春之歌
+Lied zur Begrüßung des Frühlings
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25353]
-致在回忆之旅中一同前行的玩家
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen unterwegs sind
 
 [SUMMER_MEMORIES_HEAD_ID_25357]
-气球飘扬
+Fliegende Ballons
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25357]
-致在回忆之旅中一同前行的玩家
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen unterwegs sind Erinnerungen
 
 [SUMMER_MEMORIES_HEAD_ID_25363]
-热到融化
+Zum Schmelzen heiß
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25363]
-致在回忆之旅中一同前行的玩家
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen sind
 
 [SUMMER_MEMORIES_HEAD_ID_25380]
-秋日的回忆
+Herbst-Erinnerungen
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25380]
-致在回忆之旅中一同前行的玩家
-
-[SUMMER_MEMORIES_HEAD_ID_25381]
-圣诞冬青
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen sind
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25381]
-致在回忆之旅中一同前行的玩家
+Weihnachtsstechpalme
+
+[SUMMER_MEMORIES_HEAD_ID_25381]
+Weihnachtsstechpalme
+
+[SUMMER_MEMORIES_HEAD_ID_25381]
+Weihnachtsstechpalme
+
+[SUMMER_MEMORIES_HEAD_DES ... MORIES_HEAD_DES_ID_25381]
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen sind
 
 [SUMMER_MEMORIES_HEAD_ID_25382]
-兔年快乐
+Frohes Jahr des Hasen
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25382]
-致在回忆之旅中一同前行的玩家
-
-[SUMMER_MEMORIES_HEAD_ID_25383]
-挥洒青春
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen sind
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25383]
-致在回忆之旅中一同前行的玩家
+Verbringt eure Jugend
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25383]
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen sind
 
 [PLANT_TREE_HEAD_ID_25384]
-智慧之树
+Baum der Weisheit
 
-[PLANT_TREE_HEAD_DES_ID_25384]
-植树节活动限定头像
+[PLANT_TREE_HEAD_DES_ID_2 5384]
+Tag des Baumes – limitiertes Event Avatar
 
 [SUMMER_MEMORIES_HEAD_ID_25385]
-开怀仙桃
+Happy Peach
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25385]
-致在回忆之旅中一同前行的玩家
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen sind
 
 [SUMMER_MEMORIES_HEAD_ID_25386]
-冲浪菠萝
+Surfing Pineapple
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25386]
-致在回忆之旅中一同前行的玩家
+An alle Spieler, die gemeinsam auf der Reise der Erinnerungen sind
 
 [TENYEAR_MEMORIES_HEAD_ID_25465]
-十周年纪念
+Zehnjähriges Jubiläum
 
 [TENYEAR_MEMORIES_HEAD_DES_ID_25465]
-十周年人气代言“植”冠军限定头像，致十年来所有的陪伴与热爱
+Zehnjähriges Jubiläum: „Plant“, der limitierte Champion-Avatar, für all die Kameradschaft und Liebe in den letzten zehn Jahren Jahre
 
 [SUMMER_MEMORIES_HEAD_ID_25387]
-快乐偶像宅
+Glückliches Idol-Zuhause
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25387]
-致在回忆之旅中一同前行的玩家
+An die Spieler, die gemeinsam auf der Reise der Erinnerungen gehen
 
 [SUMMER_MEMORIES_HEAD_ID_25388]
-丰收的喜悦
+Die Freude der Ernte
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25388]
-致在回忆之旅中一同前行的玩家
+An die Spieler, die gemeinsam auf der Reise der Erinnerungen gehen
 
 [SUMMER_MEMORIES_HEAD_ID_25389]
-热情似火
+Leidenschaftlich
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25389]
-致在回忆之旅中一同前行的玩家
+An die Spieler, die gemeinsam auf der Reise der Erinnerungen gehen
 
 [SUMMER_MEMORIES_HEAD_ID_25390]
-过年狂吃
+Wie verrückt essen während des chinesischen Neujahrs Jahr
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25390]
-致在回忆之旅中一同前行的玩家
+An die Spieler, die gemeinsam auf der Reise der Erinnerungen unterwegs sind
 
 [SUMMER_MEMORIES_HEAD_ID_25391]
-兔极的蔑视
+Kaninchenverachtung
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25391]
-致在回忆之旅中一同前行的玩家
+An die Spieler, die gemeinsam auf der Reise der Erinnerungen unterwegs sind
 
 [SUMMER_MEMORIES_HEAD_ID_25392]
-全息震撼
+Holografischer Schock
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25392]
-致在回忆之旅中一同前行的玩家
+An die Spieler, die gemeinsam auf der Reise der Erinnerungen unterwegs sind
 
 [SUMMER_MEMORIES_HEAD_ID_25393]
-食欲之秋
+Herbst der Lust
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25393]
-致在回忆之旅中一同前行的玩家
+An die Spieler, die gemeinsam auf der Reise der Erinnerungen unterwegs sind Erinnerungen
 
 [UNCHARTED_ICEAGE_ID_25390]
-来杯拿铁
+Eine Tasse Latte
 
 [UNCHARTED_ICEAGE_HEAD_DES_ID_25390]
-冬天与拿铁更配哦
+Der Winter eignet sich besser für Latte.
 
 [UNCHARTED_ICEAGE_ID_25391]
-拿铁翻了
+Der Latte ist umgekippt.
 
 [UNCHARTED_ICEAGE_HEAD_DES_ID_25391]
-注意轻拿轻放
+Bitte vorsichtig damit umgehen.
 
 [UNCHARTED_TALE_ID_10000]
-童话秘境征服者
+Eroberer des geheimen Märchenreichs
 
 [UNCHARTED_TALE_HEAD_DES_ID_10000]
-完美通关童话秘境的证明
+Beweis für die erfolgreiche Eroberung des geheimen Märchenreichs
 
 [UNCHARTED_NO42_HEAD_ID_10000]
-平行宇宙征服者
+Eroberer des Paralleluniversums
 
 [UNCHARTED_NO42_HEAD_DES_ID_10000]
-完美通关42号平行宇宙的证明
+Beweis für eine Perfekte Räumung des 42. Paralleluniversums
 
 [UNCHARTED_NO42_HEAD_ID_10001]
-阿巴阿巴
+Aba Aba
 
 [UNCHARTED_NO42_HEAD_DES_ID_10001]
-完美通关41号平行宇宙的证明
+Beweis für die perfekte Räumung des 41. Paralleluniversums
 
 [UNCHARTED_CHILDRENSDAY_HEAD_ID_25709]
-我是大哥大
+Ich bin der große Bruder
 
 [UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25709]
 完美通关六一限时秘境的证明
@@ -57838,332 +57862,332 @@ x{NUM} 开始
 未定义
 
 [PVZ1MODE_SANDSTORM]
-沙尘暴
+Sandsturm
 
 [PVZ1MODE_ICESTORM]
-寒冰风暴
+Eissturm
 
 [PVZ1MODE_BRICK]
-僵博瓷砖
+Zombie-Kacheln
 
 [PVZ1MODE_POTION]
-邪恶药水
+Trank des Bösen
 
 [PVZ1MODE_THUNDER]
-雷云风暴
+Gewitter
 
 [PVZ1MODE_BARREL]
-滚桶危机
+Fasskrise
 
 [PVZ1MODE_BUBBLE]
-泡泡雨
+Seifenblasenregen
 
 [PVZ1MODE_PROTECTOR]
-电磁盾发生器
+Elektromagnetischer Schildgenerator
 
 [PVZ1MODE_FIRECRACKER]
-新春爆竹
+Neujahrsknaller
 
 [PVZ1MODE_DUMPLING]
-保护饺子
+Knödel schützen
 
-[PVZ1MODE_TURKEY]
-保护火鸡
+[PVZ1MODE_TUR KEY]
+Truthahn schützen
 
 [PVZ1MODE_TANGYUAN]
-保护汤圆
+Klebreis schützen Bälle
 
 [PVZ1MODE_ZOMBIETENT]
-僵尸帐篷
+Zombiezelt
 
-[PVZ1MODE_FESTIVALTENT]
-新年帐篷
+[PVZ1MODE_FESTIVALENT]
+Silvesterzelt
 
 [PVZ1MODE_SUMMERFIREWORKS]
-夏日烟火
+Sommerfeuerwerk
 
 [PVZ1MODE_MAGICMIST]
-魔力迷雾
+Magischer Nebel
 
 [PVZ1MODE_TOXICWATER]
-水里有毒
+Giftiges Wasser
 
 [PVZ1MODE_TERRAINCHANGE]
-活动平台
+Aktivitätsplattform
 
 [PVZ1MODE_PROTECTOR_NORMAL_DESC]
-根据电磁盾僵尸改造的电磁盾发生器闪亮登场！（脉冲黄桃有妙用）
+Der elektromagnetische Schildgenerator, modifiziert zum elektromagnetischen Schildzombie, steht auf der Bühne! (Pulsierender gelber Pfirsich hat einen magischen Effekt.)
 
 [PVZ1MODE_PROTECTOR_HARD_DESC]
-根据电磁盾僵尸改造的电磁盾发生器闪亮登场！（脉冲黄桃有妙用）
+Der elektromagnetische Schildgenerator, modifiziert zum elektromagnetischen Schildzombie, steht auf der Bühne! (Pulsgelber Pfirsich hat eine magische Wirkung)
 
 [PVZ1MODE_FIRECRACKER_NORMAL_DESC]
-一起来点爆竹吧！
+Lasst uns ein paar Knallkörper zünden!
 
 [PVZ1MODE_FIRECRACKER_HARD_DESC]
-一起来点爆竹吧！
+Lasst uns ein paar Knallkörper zünden!
 
 [PVZ1MODE_DUMPLING_NORMAL_DESC]
-阻止僵尸偷吃掉你的所有饺子！
+Haltet Zombies davon ab, all eure Knödel zu fressen!
 
 [PVZ1MODE_DUMPLING_HARD_DESC]
-阻止僵尸偷吃掉你的所有饺子！
+Haltet Zombies davon ab, all eure Knödel zu fressen!
 
 [PVZ1MODE_TANGYUAN_NORMAL_DESC]
-阻止僵尸偷吃掉你的所有汤圆！
+Haltet Zombies davon ab, all eure Tangyuan zu fressen!
 
 [PVZ1MODE_TANGYUAN_HARD_DESC]
-阻止僵尸偷吃掉你的所有汤圆！
+Haltet Zombies davon ab, all eure Tangyuan zu fressen!
 
 [PVZ1MODE_TURKEY_NORMAL_DESC]
-帮助戴夫保护所有散落在庭院的火鸡！
+Hilf Dave, alle Truthähne im Garten zu beschützen!
 
 [PVZ1MODE_TURKEY_HARD_DESC]
-帮助戴夫保护所有散落在庭院的火鸡！
+Hilf Dave, alle Truthähne im Garten zu beschützen!
 
 [PVZ1MODE_SANDSTORM_NORMAL_DESC]
-沙暴裹挟着僵尸快速进场
+Der Sandsturm kommt mit Zombies.
 
 [PVZ1MODE_SANDSTORM_HARD_DESC]
-沙暴裹挟着僵尸快速进场，沙暴能够反弹子弹！
+Der Sandsturm kommt mit Zombies und kann Kugeln abprallen lassen!
 
 [PVZ1MODE_ICESTORM_NORMAL_DESC]
-冰风暴裹挟着僵尸快速进场，冻住沿途的植物！
+Der Eissturm kommt mit Zombies und friert die Pflanzen ein!
 
 [PVZ1MODE_ICESTORM_HARD_DESC]
-冰风暴裹挟着僵尸快速进场，冻住沿途的植物，还能反弹子弹！
+Der Eissturm kommt mit Zombies und friert die Pflanzen ein und kann Kugeln abprallen lassen!
 
 [PVZ1MODE_BRICK_NORMAL_DESC]
-僵博瓷砖能够为僵尸提供速度增益
+Zombie-Plättchen können Zombies Geschwindigkeits-Buffs verleihen.
 
 [PVZ1MODE_BRICK_HARD_DESC]
-僵博瓷砖能够为僵尸提供护盾、速度、攻击增益
+Zombie-Plättchen können Zombies Schild-, Geschwindigkeits- und Angriffs-Buffs verleihen.
 
 [PVZ1MODE_POTION_NORMAL_DESC]
-场上会出现红色药水和绿色药水
+Rote und grüne Tränke erscheinen auf dem Feld.
 
 [PVZ1MODE_POTION_HARD_DESC]
-场上会出现红色药水、绿色药水、蓝色药水
+Rote, grüne und blaue Tränke erscheinen auf dem Feld.
 
 [PVZ1MODE_THUNDER_NORMAL_DESC]
-天空中降下的闪电会为植物增加正负电荷状态（电离红掌有妙用）
+Blitze vom Himmel erhöhen den positiven und negativen Ladungsstatus von Pflanzen (ionisierte Anthurien sind nützlich).
 
 [PVZ1MODE_THUNDER_HARD_DESC]
-天空中降下的闪电会为植物增加正负电荷状态，有概率直接劈毁植物
+Blitze vom Himmel erhöhen den positiven und negativen Ladungsstatus von Pflanzen. Es besteht die Möglichkeit, dass die Pflanzen direkt Zerstört
 
 [PVZ1MODE_BARREL_NORMAL_DESC]
-小心炸药桶和僵尸桶！（或许地刺有妙用）
+Vorsicht vor Spreng- und Zombiefässern! (Spikes können hilfreich sein.)
 
 [PVZ1MODE_BARREL_HARD_DESC]
-小心快速滚动的炸药桶和僵尸桶！
+Vorsicht vor den schnell rollenden Spreng- und Zombiefässern!
 
 [PVZ1MODE_BUBBLE_NORMAL_DESC]
-天空中漂浮着美丽的气泡，让人不忍心吹走（三叶草有妙用）
+Wunderschöne Blasen schweben am Himmel, die Spieler nur ungern wegpusten (Kleeblätter sind hilfreich).
 
 [PVZ1MODE_BUBBLE_HARD_DESC]
-天空中漂浮着美丽的气泡，会快速带走你的植物
+Wunderschöne Blasen schweben am Himmel, die deine Pflanzen schnell zerstören.
 
 [PVZ1MODE_ZOMBIETENT_NORMAL_DESC]
-僵尸帐篷会源源不断地产生新的僵尸,尽快摧毁它们！
+Das Zombiezelt erzeugt ständig neue Zombies. Zerstöre sie so schnell wie möglich!
 
 [PVZ1MODE_FESTIVALTENT_NORMAL_DESC]
-新年帐篷会源源不断地产生新年僵尸,尽快摧毁它们！
+Das Neujahrszelt erzeugt ständig Neujahrszombies. Zerstöre sie so schnell wie möglich!
 
 [PVZ1MODE_SUMMERFIREWORKS_NORMAL_DESC]
-一起来看烟火吧！
+Schauen wir uns gemeinsam das Feuerwerk an!
 
 [PVZ1MODE_SUMMERFIREWORKS_HARD_DESC]
-一起来看烟火吧！
+Schauen wir uns gemeinsam das Feuerwerk an!
 
 [PVZ1MODE_MAGICMIST_NORMAL_DESC]
-这片迷雾能为僵尸带来强大的护盾！
+Dieser Nebel bietet Zombies einen mächtigen Schutz!
 
 [PVZ1MODE_MAGICMIST_HARD_DESC]
-这片迷雾能为僵尸带来强大的护盾！
+Dieser Nebel bietet Zombies einen mächtigen Schutz!
 
 [PVZ1MODE_TOXICWATER_NORMAL_DESC]
-有人在水里投毒！记得带上回复类植物！
+Jemand hat das Wasser vergiftet! Denkt daran, Heilpflanzen mitzubringen!
 
 [PVZ1MODE_TOXICWATER_HARD_DESC]
-有人在水里投毒！记得带上回复类植物！
+Jemand hat das Wasser vergiftet! Denkt daran, Heilpflanzen mitzubringen!
 
 [PVZ1MODE_TERRAINCHANGE_NORMAL_DESC]
-利用活动平台升降的时机，抓紧种植植物进行防御吧！
+Nutzt die Gelegenheit, wenn die bewegliche Plattform auf und ab geht, um Pflanzen zur Verteidigung zu pflanzen!
 
 [PVZ1MODE_TERRAINCHANGE_HARD_DESC]
-利用活动平台升降的时机，抓紧种植植物进行防御吧！
+Nutze die Gelegenheit, wenn sich die bewegliche Plattform hebt und senkt, um Pflanzen zur Verteidigung zu pflanzen!
 
 [PVZ1MODE_TURKEY]
-守护火鸡
+Truthähne bewachen
 
 [PVZ1MODE_TURKEY_NORMAL_DESC]
-帮助戴夫保护所有散落在庭院的火鸡
+Hilf Dave, alle im Garten verstreuten Truthähne zu beschützen.
 
 [PVZ1MODE_TURKEY_HARD_DESC]
-帮助戴夫保护所有散落在庭院的火鸡
+Hilf Dave, alle im Garten verstreuten Truthähne zu beschützen.
 
 [PVZ1MODE_SPRINGBOARD]
-弹跳板
+Sprungbrett
 
 [PVZ1MODE_SPRINGBOARD_NORMAL_DESC]
-僵尸们在使用弹跳板入侵庭院，注意防御！
+Zombies benutzen Sprungbretter, um in den Garten einzudringen. Vorsicht vor der Verteidigung!
 
 [PVZ1MODE_SPRINGBOARD_HARD_DESC]
-僵尸们在使用弹跳板入侵庭院，注意防御！
+Zombies benutzen Sprungbretter, um in den Garten einzudringen. Vorsicht vor der Verteidigung!
 
 [PVZ1MODE_ZOMBIECHANGER]
-僵尸改造装置
+Zombie-Transformationsgerät
 
 [PVZ1MODE_ZOMBIECHANGER_NORMAL_DESC]
-僵尸博士最新科技，可将普通僵尸改造为巨人僵尸，只是有时会失败
+Die neueste Technologie des Zombie Doctors kann gewöhnliche Zombies in riesige Zombies verwandeln, scheitert aber manchmal.
 
 [PVZ1MODE_ZOMBIECHANGER_HARD_DESC]
-僵尸博士最新科技，可将普通僵尸改造为巨人僵尸，只是有时会失败
+Die neueste Technologie des Zombie Doctors kann gewöhnliche Zombies in riesige Zombies verwandeln, scheitert aber manchmal.
 
 [PVZ1MODE_MAGICMIRROR]
-传送魔镜
+Transmissionsspiegel
 
 [PVZ1MODE_MAGICMIRROR_NORMAL_DESC]
-场上出现魔镜，在镜子间传送僵尸和子弹
+Ein magischer Spiegel erscheint auf dem Spielfeld, und Zombies und Kugeln werden zwischen den Spiegeln übertragen.
 
 [PVZ1MODE_MAGICMIRROR_HARD_DESC]
-场上出现魔镜，在镜子间传送僵尸和子弹
+Ein magischer Spiegel erscheint auf dem Spielfeld, und Zombies und Kugeln werden zwischen den Spiegeln übertragen. Spiegel
 
 [PVZ1MODE_BOWLING]
-坚果保龄球
+Nuss-Bowling
 
 [PVZ1MODE_BOWLING_NORMAL_DESC]
-掷出各式坚果消灭僵尸赢得胜利
+Wirf verschiedene Nüsse, um Zombies zu eliminieren und zu gewinnen.
 
 [PVZ1MODE_SEEINGSTARS]
-看星星
+Sieh die Sterne.
 
-[PVZ1MODE_SEEINGSTARS_NORMAL_DESC]
-根据提示种上相同植物赢得胜利
+[PVZ1MODE_SEEING STARS_NORMAL_DESC]
+Gewinne, indem du die gleichen Pflanzen gemäß den Anweisungen pflanzt.
 
 [PVZ1MODE_OVERWHELM]
-排山倒海
+Überwältigen
 
 [PVZ1MODE_OVERWHELM_DESC]
-唔，你看它们像柱子一样
+Na ja, sie sehen aus wie Säulen.
 
 [PVZ1MODE_TOUCHING]
-打地鼠
+Maulwurf-Schlag
 
 [PVZ1MODE_TOUCHING_NORMAL_DESC]
-疯狂点击
+Klicke wie verrückt.
 
 [PVZ1MODE_COPYCATS]
-猜猜我是谁
+Rate mal, wer ich bin. Uhr
 
-[PVZ1MODE_COPYCATS_NORMAL_DESC]
-惊喜礼物盒中会随机出现植物和僵尸
+[PVZ1MODE_COPYCATS_NORMAL_DESC] ORMAL_DESC]
+Pflanzen und Zombies erscheinen zufällig in der Überraschungsgeschenkbox.
 
 [PVZ1MODE_IZOMBIE]
-僵尸大作战
+Zombie-Krieg
 
 [PVZ1MODE_IZOMBIE_NORMAL_DESC]
-植物僵尸VS传统僵尸
+Pflanzenzombies gegen herkömmliche Zombies
 
 [PVZ1MODE_ZOMBOSS_LOCKED]
-完成所有关卡的挑战目标后解锁!
+Wird freigeschaltet, nachdem die Herausforderungsziele aller Level erreicht wurden!
 
 [UNCHARTED_ANNIVERSARY_HALLOWEEN_LEVEL_LOCKED]
-秘境关卡每日解锁1关，该关卡尚未到达解锁时间。
+Das geheime Level wird täglich um ein Level freigeschaltet. Der Freischaltzeitpunkt für dieses Level ist noch nicht erreicht.
 
 [UNCHARTED_ANNIVERSARY_HALLOWEEN_202411_LEVEL_LOCKED]
-秘境关卡每日解锁1关，该关卡尚未到达解锁时间。
-
+Das geheime Level wird täglich um ein Level freigeschaltet. Der Freischaltzeitpunkt für dieses Level ist noch nicht erreicht.
 
 [UNCHARTED_ANNIVERSARY_SELECT_LEVEL_LOCKED]
-秘境关卡每日解锁2关，该关卡尚未到达解锁时间。
+Das geheime Level schaltet täglich zwei Level frei. Der Freischaltzeitpunkt für dieses Level ist noch nicht erreicht.
 
 [UNCHARTED_SPRING_FESTIVAL_2024_SELECT_LEVEL_LOCKED]
-当前关卡未解锁，请完成前置关卡。
+Das aktuelle Level ist noch nicht freigeschaltet. Bitte schließe das vorherige Level ab.
 
 [UNCHARTED_MODE_HOW_TO_PLAY_1]
-提示
+Tipps
 
 [UNCHARTED_MODE_HOW_TO_PLAY_2]
-提示
+Tipps
 
 [UNCHARTED_MODE_HOW_TO_PLAY_3]
-提示
+Tipps
 
 [UNCHARTED_MODE_HOWTOPLAY_1_DESCRIPTION]
-英雄植物有收集阳光和初始冷却的种植条件，条件完成后即可种植
+Heldenpflanzen müssen Sonnenlicht und anfängliche Kühlung sammeln. Sie können gepflanzt werden, sobald diese Bedingungen erfüllt sind.
 
 [UNCHARTED_MODE_HOWTOPLAY_2_DESCRIPTION]
-获得阳光增长收集阳光进度条；初始冷却随时间恢复
+Sonnenlicht erhöht den Fortschrittsbalken; die anfängliche Abkühlung erholt sich mit der Zeit.
 
 [UNCHARTED_MODE_HOWTOPLAY_3_DESCRIPTION]
-英雄仅能种植1棵，死亡或被铲掉后经过复活冷却即可再次部署
+Helden können nur eine Pflanze pflanzen. Nach dem Tod oder dem Wegschaufeln können sie nach der Wiederauferstehungsabkühlung erneut eingesetzt werden.
 
+[UNCHARTED_MODE_HOWTOPLAY_3_DESCRIPTION]
 [UNCHARTED_MODE_HOWTOPLAY_4_DESCRIPTION]
-英雄在场时，僵尸被击杀会为英雄增长经验值
+Wenn der Held anwesend ist, erhöhen die getöteten Zombies seine Erfahrungspunkte.
 
 [UNCHARTED_MODE_HOWTOPLAY_5_DESCRIPTION]
-经验条满后，英雄升级，属性获得提升并获得技能点
+Wenn die Erfahrungsleiste voll ist, steigt der Held im Level auf, seine Attribute verbessern sich und er erhält Fertigkeitspunkte.
 
 [UNCHARTED_MODE_HOWTOPLAY_6_DESCRIPTION]
-点击英雄出现技能选项，点击技能图标2次完成加点，消耗技能点获得对应的技能效果
+Klicke auf den Helden, um die Fertigkeitsoptionen anzuzeigen. Klicke zweimal auf das Fertigkeitssymbol, um die Punkte zu vervollständigen, und verbrauche die Fertigkeitspunkte, um den entsprechenden Fertigkeitseffekt zu erhalten.
 
 [UNCHARTED_MODE_HOWTOPLAY_7_DESCRIPTION]
-如果英雄解锁了大招能量条，可以点击图标释放大招
+Wenn der Held die Energieleiste für die ultimative Fertigkeit freigeschaltet hat, kannst du auf das Symbol klicken, um die ultimative Fertigkeit freizuschalten.
 
 [UNCHARTED_MODE_HOWTOPLAY_8_DESCRIPTION]
-大招能量条随时间恢复
+Die Energieleiste für die ultimative Fertigkeit regeneriert sich mit der Zeit.
 
 [NARRATIVE_PVZ1MODE_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}又是风平浪静的一天，晒晒太阳，打打僵尸！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Noch ein friedlicher Tag! Genieße die Sonne und töte Zombies!
 
 [NARRATIVE_PVZ1MODE_1_INTRO_2]
-{SAY:WINNIE}警告：时空能量波动异常，侦测到危险信号
+{SAY:WINNIE}Warnung: Ungewöhnliche Schwankungen der Raum-Zeit-Energie, Gefahrensignale erkannt.
 
 [NARRATIVE_PVZ1MODE_1_INTRO_3]
-{SAY:CRAZYDAVE}嘿伙计，这事常有！出发出发出发！会会这帮日本武士！
+{SAY:CRAZYDAVE}Hey Mann, das passiert ständig! Los geht's! Triff diese japanischen Samurai!
 
 [NARRATIVE_PVZ1MODE_1_INTRO_4]
-{SAY:WINNIE}仪器显示......哦戴夫......又走了
+{SAY:WINNIE}Das Instrument zeigt … Oh, Dave … schon wieder weg.
 
 [NARRATIVE_PVZ1MODE_2_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}我的头好晕！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Mir ist so schwindelig!
 
 [NARRATIVE_PVZ1MODE_2_INTRO_2]
-{SAY:WINNIE}我们好像被时空乱流传送到了10多年前
+{SAY:WINNIE}Es scheint, als wären wir durch die Raum-Zeit-Turbulenzen in die Zeit vor über 10 Jahren zurückversetzt worden.
 
 [NARRATIVE_PVZ1MODE_2_INTRO_3]
-{SAY:WINNIE}探测仪显示周围的时空能量更加混乱了
+{SAY:WINNIE}Der Detektor zeigt, dass die Raum-Zeit-Energie um uns herum chaotischer ist.
 
 [NARRATIVE_PVZ1MODE_2_INTRO_4]
-{SAY:CRAZYDAVE}后备箱里还有台时空稳定器！
+{SAY:CRAZYDAVE}Im Kofferraum ist ein Raum-Zeit-Stabilisator!
 
 [NARRATIVE_PVZ1MODE_2_INTRO_5]
-{SAY:WINNIE}那帮阴魂不散的僵尸又来了，我来启动时空稳定器
+{SAY:WINNIE} Diese Zombies sind wieder da. Ich starte den Raum-Zeit-Stabilisator.
 
 [PVZ_ERROR_46001]
-玩家对战数据丢失
+Spieler-Kampfdaten verloren.
 
 [PVZ_ERROR_46002]
-时空稳定器不足，无法开始游戏
+Unzureichender Raum-Zeit-Stabilisator, Spiel kann nicht gestartet werden.
 
 [PVZ_ERROR_46003]
-对战模式类型不对
+Falscher Kampfmodustyp.
 
 [PVZ_ERROR_46004]
-普通关卡对战信息丢失
+Informationen zum normalen Kampflevel verloren.
 
 [PVZ_ERROR_46005]
-关卡超过最大关卡数
+Level überschreitet die maximale Levelanzahl.
 
 [PVZ_ERROR_46006]
-困难关卡对战信息丢失
+Informationen zum schwierigen Kampflevel verloren.
 
 [PVZ_ERROR_46007]
-请求的关卡数不正确
+Die angeforderte Levelanzahl ist falsch.
 
 [HEADSHOT_GAMEINFO_NAME]
-{NAME}头像
+{NAME} Avatar
 
 [NARRATIVE_TUTORIAL_PVZ1_INTRO_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}潘妮好像追踪到了一道神秘信号，快跟我来看看吧！
@@ -58172,55 +58196,55 @@ x{NUM} 开始
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_CUSTOM_LEVEL_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}我已经厌倦了那些熟悉的关卡，就不能有些新花样吗？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ich habe die immer gleichen Level satt. Können wir nicht ein paar neue Wendungen haben?
 
 [NARRATIVE_TUTORIAL_CUSTOM_LEVEL_INTRO_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}我已经把院子整理了一遍，戴夫，你可以按你喜欢的方式布置它了。
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Ich habe den Garten schon aufgeräumt, Dave. Du kannst ihn dekorieren, wie du willst.
 
 [NARRATIVE_TUTORIAL_CUSTOM_LEVEL_INTRO_3]
-{PLAYFUL:crazydave}这可真棒，潘妮，这样我就能把院子打造成我梦想中的关卡了。
+{PLAYFUL:crazydave}Super, Penny, dann kann ich den Garten in das Level meiner Träume verwandeln.
 
 [NARRATIVE_TUTORIAL_CUSTOM_LEVEL_INTRO_4]
-{PLAYFUL:winnie}是的戴夫，我已经把铲子和花盆拿过来了，还有你最爱的植物和种子。
+{PLAYFUL:winnie}Ja, Dave, ich habe die Schaufel und den Blumentopf mitgebracht, sowie deine Lieblingspflanzen und -samen.
 
 [NARRATIVE_TUTORIAL_CUSTOM_LEVEL_INTRO_5]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_CARD_GAME_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}嘿，潘妮，我听说最近有一种新奇的卡牌玩法？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hey, Penny, ich habe gehört, es gibt kürzlich eine neue Art, Karten zu spielen?
 
 [NARRATIVE_TUTORIAL_CARD_GAME_INTRO_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}是的，戴夫，我已经为你准备好了，我猜你会喜欢的。
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Ja, Dave, ich habe es für dich vorbereitet. Ich denke, es wird dir gefallen.
 
 [NARRATIVE_TUTORIAL_CARD_GAME_INTRO_3]
-{PLAYFUL:crazydave}可是，为什么除了我喜欢的植物，还有僵尸？
+{PLAYFUL:crazydave}Aber warum gibt es neben den Pflanzen, die ich mag, auch Zombies?
 
 [NARRATIVE_TUTORIAL_CARD_GAME_INTRO_4]
-{PLAYFUL:winnie}不要在意这些细节，戴夫，它们只是卡牌。
+{PLAYFUL:winnie}Mach dir keine Gedanken über die Details, Dave, es sind nur Karten.
 
 [NARRATIVE_TUTORIAL_CARD_GAME_INTRO_5]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_NEW_PVP_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}其他世界的植物种植好手发来了挑战，要去看看吗？
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Ein Pflanzenzüchter aus einer anderen Welt hat eine Herausforderung geschickt. Möchtest du sie dir ansehen?
 
 [NARRATIVE_TUTORIAL_NEW_PVP_INTRO_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}当然！要说植物种植方面我可不会输给任何人！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Na klar! Beim Pflanzenanbau kann ich nichts falsch machen!
 
 [NARRATIVE_TUTORIAL_NEW_PVP_INTRO_3]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}警告！警告！侦测到变异僵尸！
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Warnung! Warnung! Mutierte Zombies entdeckt!
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}奇怪，我们来到哪儿了？这还是我的后院吗？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Komisch, wo sind wir? Ist das noch mein Garten?
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_3]
-{NPC_ENTER:crazydave}{PLAYFUL:winnie}地点确认，当前所在地为东方的西天取经之路。
+{NPC_ENTER:crazydave}{PLAYFUL:winnie}Ort bestätigt. Aktueller Ort ist die Reise vom Osten in den Westen.
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_4]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}哦，你知道吗潘妮，我还是想念我的后院，是时候准备回去了。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Oh, weißt du was, Penny, ich vermisse meinen Garten immer noch. Es ist Zeit, mich auf die Rückkehr vorzubereiten.
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_5]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
@@ -69352,70 +69376,70 @@ Sonnenpilze wachsen direkt bis zur dritten Stufe und produzieren 225 Sonnenlicht
 甜薯在6秒的时间内吸引3×3范围内的僵尸，^ff0000^并恢复自身生命值至满值。^oldclr^
 
 [CRACKER_NEW_SKILL_LEVEL1_DES]
-当有僵尸接触到竹员外时，愤怒的竹员外会点燃引线发生爆炸并对范围内的僵尸造成伤害。
+Wenn ein Zombie den Bambusstab berührt, zündet dieser die Zündschnur und explodiert.
 
 [CRACKER_NEW_SKILL_LEVEL2_DES]
-竹员外爆炸后会掉落一截竹子，对一格内僵尸造成1350点伤害。
+Nach der Explosion des Bambusstabs fällt ein Stück Bambus herunter, das den Zombies in einem Raster 1350 Schaden zufügt.
 
 [CRACKER_NEW_SKILL_LEVEL3_DES]
-竹员外爆炸后掉落两截竹子，对两格内的僵尸造成1800点伤害。
+Nach der Explosion des Bambusstabs fallen zwei Stücke Bambus herunter, die den Zombies in zwei Rastern 1800 Schaden zufügen.
 
 [CRACKER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [CRACKER_NEW_SKILL_LEVEL5_DES]
-爆炸后有概率掉落一个伤害合计2200点的烟花。
+Nach der Explosion besteht die Chance, einen Feuerwerkskörper mit einem Gesamtschaden von 2200 abzuwerfen.
 
 [CRACKER_PLANTFOOD_DESCRIPTION]
-竹员外向右侧列出一行爆竹，对整行僵尸造成伤害。
+Der Vermieter Bambus listet rechts eine Reihe von Feuerwerkskörpern auf, die der gesamten Zombiereihe Schaden zufügen.
 
 [CRACKER_AVATAR_PLANTFOOD_DESCRIPTION]
-竹员外向右侧列出一行爆竹，对整行僵尸造成伤害。^ff0000^并炸飞沿途生命值低于其伤害的小体型僵尸，对不能被击飞的小体型僵尸造成2秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^。^oldclr^
+Der Vermieter Bambus listet rechts eine Reihe von Feuerwerkskörpern auf, die der gesamten Zombiereihe Schaden zufügen. ^ff0000^ und sprengt unterwegs kleine Zombies in die Luft, deren Gesundheit geringer ist als sein Schaden. Außerdem verursacht er 2 Sekunden lang ^oldclr^^848484^stunⅠ^oldclr^^ff0000^ bei kleinen Zombies, die nicht weggesprengt werden können. ^oldclr^
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在莲小蓬右侧时，莲小蓬会投射导弹(陆地)或发射鱼雷(水中)攻击面前的僵尸，鱼雷在命中时会对约 2×1 范围内的僵尸造成等值溅射伤害。
+Wenn Zombies rechts von Lian Xiaopeng erscheinen, feuert dieser Raketen (an Land) oder Torpedos (im Wasser) ab, um die Zombies vor ihm anzugreifen. Trifft der Torpedo, verursacht er bei Zombies im Umkreis von etwa 2×1 gleich großen Flächenschaden.
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL2_DES]
-莲小蓬发射的炸弹有15%的几率击晕僵尸。
+Von Lotus abgefeuerte Bomben haben eine Chance von 15 %, Zombies zu betäuben.
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL3_DES]
-莲小蓬发射的炸弹有30%的几率击晕僵尸。
+Von Lotus abgefeuerte Bomben haben eine Chance von 30 %, Zombies zu betäuben.
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, Spezialdünger-Fähigkeitn direkt freizusetzen!
 
 [LOTUSSHOWER_PLANTFOOD_DESCRIPTION]
-莲小蓬发射一枚导弹对2×1范围内的僵尸造成伤害(陆上)，或是发射一枚鱼雷对整行僵尸造成伤害并在底线造成范围2×1的爆炸(水中)。
+Lotus feuert eine Rakete ab, um Zombies im Umkreis von 2×1 (an Land) zu treffen, oder einen Torpedo, um die gesamte Zombiereihe zu treffen und eine Explosion im Umkreis von 2×1 an der unteren Linie (im Wasser) zu verursachen.
 
 [LOTUSSHOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-莲小蓬发射一枚导弹对^ff0000^3×3范围内的僵尸造成伤害(陆上)^oldclr^，或是发射一枚鱼雷对整行僵尸造成伤害并在底线造成范围^ff0000^为3×3爆炸(水中)。^oldclr^
+Lotus feuert eine Rakete ab, um Zombies im Umkreis von 3×3 (an Land) zu treffen, ^oldclr^, oder einen Torpedo, um die gesamte Zombiereihe zu treffen und eine Explosion im Umkreis von 3×3 (^ff0000^) an der unteren Linie (im Wasser) zu verursachen. ^oldclr^
 
 [SAPFLING_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在树脂投手右侧时，树脂投手会投掷出树脂减缓僵尸的移动。树脂会减缓踏在树脂上的僵尸 50%的速度。树脂会在 7 秒后消散。
+Wenn ein Zombie rechts vom Harzkrug erscheint, wirft der Harzkrug Harz, um den Zombie zu verlangsamen. Das Harz verlangsamt Zombies, die darauf treten, um 50 %. Das Harz löst sich nach 7 Sekunden auf.
 
 [SAPFLING_NEW_SKILL_LEVEL2_DES]
-树脂投手投出的树脂有15%的概率将僵尸变成琥珀，持续2s。
+Das vom Harzkrug geworfene Harz hat eine Chance von 15 %, Zombies für 2 Sekunden in Bernstein zu verwandeln.
 
 [SAPFLING_NEW_SKILL_LEVEL3_DES]
-树脂投手投出的树脂有30%的概率将僵尸变成琥珀，持续2s。
+Das vom Harzkrug geworfene Harz hat eine Chance von 30 %, Zombies für 2 Sekunden in Bernstein zu verwandeln.
 
 [SAPFLING_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [SAPFLING_PLANTFOOD_DESCRIPTION]
-树脂投手鼓足力气向全屏随机投射20块持续时间15秒的树脂。
+Der Harzkrug verwendet all seine Kraft, um 15 Sekunden lang zufällig 20 Harzstücke über den gesamten Bildschirm zu werfen.
 
 [SAPFLING_AVATAR_PLANTFOOD_DESCRIPTION]
-树脂投手鼓足力气向全屏随机投射20块持续时间15秒的树脂，^ff0000^僵尸踩在树脂上会变成琥珀持续2s。^oldclr^
+Der Harzkrug bündelt seine ganze Kraft, um 15 Sekunden lang zufällig 20 Harzstücke über den gesamten Bildschirm zu schleudern. ^ff0000^ Zombies, die auf das Harz treten, verwandeln sich für 2 Sekunden in Bernstein. ^oldclr^
 
 [HURRIKALE_NEW_SKILL_LEVEL1_DES]
-飓风甘蓝转动叶子造出冰冷的飓风，在 3 秒的持续时间内以 2 格/秒的速度吹退僵尸并对僵尸们造成 8 秒的冰减速效果。
+Hurrikankohl wirbelt seine Blätter und erzeugt so einen eisigen Hurrikan, der Zombies 3 Sekunden lang mit 2 Blöcken/Sekunde zurückwirft und sie 8 Sekunden lang verlangsamt.
 
 [HURRIKALE_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [HURRIKALE_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL1_DES]
 当有僵尸出现在火焰豌豆射手右侧时，火焰豌豆射手会发射赤火豌豆攻击僵尸。
@@ -76532,8 +76556,7 @@ DJ芦荟
 
 
 
-
-
+_END]
 
 
 
