@@ -6496,7 +6496,7 @@ PFLANZEN！
 Ein Gewitter zieht auf!
 
 [WARNING_PARACHUTERAIN]
-Achtung, Fallschirmsprung! Achtung, Fallschirmsprung!
+Zombies von Oben!
 
 [WARNING_GRAVESTONE_SPAWN]
 Vorsicht, der Grabstein ist lose!
@@ -6508,7 +6508,7 @@ Der Wind weht!
 Nebel zieht auf!
 
 [WARNING_BLACK_HOLE_TIP]
-Das Schwarze Loch wird die Pflanzen aussaugen!
+Das Schwarze Loch wird die Pflanzen aufsaugen!
 
 [WELCOME_USER_NAME_2]
 Hallo, %s!
@@ -52867,22 +52867,22 @@ Elektrifiziere
 击杀 {NUMBER} 章鱼僵尸.
 
 [CHALLENGE_APPLY_ZOMBIE_CONDITIONS_CHILL]
-冰冻僵尸{COUNT} 次!
+Frieren Sie Zombies {COUNT} Mal ein!
 
 [CHALLENGE_DESTROY_HEALERSTAFFS]
-摧毁{GRID_ITEMS}治愈物件
+Zerstören Sie {GRID_ITEMS} Heildtäbe
 
 [CHALLENGE_DESTROY_ICEBLOCKS]
-摧毁{GRID_ITEMS}冰块
+Zerstören Sie {GRID_ITEMS} Eisblöcke
 
 [CHALLENGE_DESTROY_STONEBLOCKS]
-摧毁 {GRID_ITEMS} 石块
+Zerstören Sie {GRID_ITEMS} Steinblöcke
 
 [CHALLENGE_PLANT_DEFEAT_ZOMBIES_NAME]
-使用指定植物击败僵尸
+Besiegen Sie Zombies mit einer bestimmten Pflanze.
 
 [CHALLENGE_PLANT_DEFEAT_ZOMBIES]
-使用{NAME}击败僵尸{NUMBER}次
+Besiegen Sie Zombies {NUMBER} Mal mit {NAME}.
 
 [APPLY_CONDITION_DESCRIPTION]
 战斗开始后，每隔{TIME}秒会产生{CONDITION}效果，并持续{DURATION}秒！
@@ -53057,31 +53057,31 @@ Elektrifiziere
 [STORE_CATEGORY_NAME_NEWRECALL_BUNDLE_SHORT_DES_10]
 
 [STARCHALLENGE_RIFT_LASTSTAND]
-在有限的阳光下预先种植并在僵尸的攻击中幸存下来!
+Bepflanzt mit wenig Sonnenlicht und überlebt die Zombies!
 
 [STARCHALLENGE_RIFT_NORMAL]
-在僵尸的攻击中幸存下来!
+Überlebt die Zombies!
 
 [STARCHALLENGE_SCORE_TO_BEAT]
-达到目标分数: {NUMBER}
+Erreicht Zielpunktzahl: {NUMBER}
 
 [STARCHALLENGE_SPEND_SUN_HOLDOUT]
-不要在 {COUNT} 秒内使用阳光
+Verwendet kein Sonnenlicht innerhalb von {COUNT} Sekunden.
 
 [STARCHALLENGE_SURVIVE_LEVEL_TIME]
-生存 {TIME} 分钟!
+Überlebt {TIME} Minuten!
 
 [STARCHALLENGE_TOMBSTONES]
-大量的墓碑使你的种植复杂化
+Sehr große Grabsteine erschweren das Pflanzen.
 
 [STARCHALLENGE_TOMBSTONES_NAME]
-墓碑
+Grabsteine
 
 [WARNING_HOTDOGS]
-机械小鬼僵尸们要来了！
+Die mechanischen Kobold-Zombies kommen!
 
 [OBJECTIVE_BONUS_CHALLENGE_HEADER]
-奖励目标
+Bonusziel
 
 [JOUST_COUNTDOWN_1]
 1
@@ -53119,7 +53119,7 @@ Elektrifiziere
 增益
 
 [BACK_BUTTON]
-返回
+Zurück
 
 [RIFT_PERK_SELECTION_BACK_BUTTON]
 关卡目标
