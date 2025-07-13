@@ -1107,7 +1107,7 @@ Sprengt alle Zombies in der Nähe in die Luft.
 吸引附近行的僵尸并阻挡他们前进。
 
 [CHOOSE_YOUR_PLANTS]
-Wähle deine Pflanze
+Wähle deine Pflanzen!
 
 [CHOOSER_OBJECTIVES]
 Ziel: {MINSCORE}
@@ -5236,489 +5236,515 @@ Wenn Ihr Spiel zu langsam läuft, deaktivieren Sie die Hardwarebeschleunigung.
 允许进入%s世界！
 
 [STARCHALLENGE_BULLET_SYMBOL]
-
+• 
 
 [STARCHALLENGE_PROTECT_THE_PUFFSHROOMS]
-使用能量豆保护小喷菇不会消失
+Verwende Spezialdünger um die Pustepilze vor dem Verschwinden zu schützen.
 
 [STARCHALLENGE_CAMEL_MINIGAME]
-成功配对所有僵尸手中的图案。
+Verbinde die Muster in den Händen aller Zombies.
 
 [STARCHALLENGE_CAMEL_MINIGAME_NAME]
-木乃伊记忆
+Mumien Memory
 
 [STARCHALLENGE_CANNON_MINIGAME]
-达到目标分数
+Erreiche die Zielpunktzahl.
 
 [STARCHALLENGE_CANNON_MINIGAME_NAME]
-加农炮之战
+Kanonenschlacht
 
 [STARCHALLENGE_CHALLENGE_HEADER_DOUBLE]
-通关条件：
+Bedingungen:
 
 [STARCHALLENGE_CHALLENGE_HEADER_MULTIPLE]
-通关条件：
+Bedingungen:
 
 [STARCHALLENGE_CHALLENGE_HEADER_SINGLE]
-通关条件：
+Bedingungen:
 
 [STARCHALLENGE_CORRAL_MINIGAME]
-成功抵挡僵尸入侵
+Widerstehe der Zombie-Invasion.
 
 [STARCHALLENGE_CORRAL_MINIGAME_NAME]
-围栏之战
+Zaunschlacht
 
 [STARCHALLENGE_COWBOY_FINALE]
-成功抵抗大波西部僵尸入侵。
+Widerstehe der Invasion einer großen Welle Wilder Westen Zombies.
 
 [STARCHALLENGE_COWBOY_FINALE_NAME]
-最后一天
+Der letzte Tag
 
 [STARCHALLENGE_DEFAULT_DEFEAT_ZOMBIES]
-打倒僵尸！
+Nieder mit den Zombies!
 
 [STARCHALLENGE_DEVIL]
-在无坚不摧模式中击败来自功夫世界的火药魔头。
+Besiege den Schießpulverdämon aus der Kung-Fu-Welt.
 
 [STARCHALLENGE_EGYPT_FINALE]
-成功抵抗大波埃及僵尸入侵。
+Widerstehe erfolgreich einer großen Welle ägyptischer Zombies.
 
 [STARCHALLENGE_EGYPT_FINALE_NAME]
-最后一天
+Der letzte Tag
 
 [STARCHALLENGE_FUTURE_FINALE]
-在未来模式的大波攻击后存活
+Überlebe eine große Zombiewelle in der Fernen Zukunft.
 
 [STARCHALLENGE_DARK_FINALE]
-在黑暗时代的大波僵尸攻击后存活
+Überlebe eine große Zombiewelle im Mittelalter.
 
 [STARCHALLENGE_DARK_FINALE_NAME]
-“最后”一天
+Der letzte Tag
 
 [STARCHALLENGE_RENAI_FINALE]
-在复兴时代的大波僵尸攻击后存活
+Überlebe eine große Zombiewelle in der Renaissance.
 
-[STARCHALLENGE_RENAI_FINALE_NAME]
-“最后”一天
+[STAR CHALLENGE_RENAI_FINALE_NAME]
+Der letzte Tag
 
 [DARK_FINALE_NAME]
-黑暗时代-终极挑战
+Mittelalter – Letzte Herausforderung
 
 [DARK_FINALE_NAME1]
-时空穿梭-黑暗时代
+Zeitreise – Dunkle Zeitalter
 
 [STARCHALLENGE_BEACH_FINALE]
-在巨浪沙滩的大批僵尸攻击后存活
+Überlebe den Zombieangriff am Big Wave Beach.
 
 [STARCHALLENGE_BEACH_FINALE_NAME]
-猎鲨之战
+Hai Jagd
 
 [STARCHALLENGE_FUTURE_FINALE_NAME]
-最后一天
+Der letzte Tag
 
 [STARCHALLENGE_LOSTCITY_FINALE_NAME]
-“终极”挑战
+Die „Finale“ Herausforderung
 
 [STARCHALLENGE_25_COWBOY_FINALE_NAME]
-狂野西部-终极挑战
+Wilder Westen – Finale-Herausforderung
 
 [STARCHALLENGE_25_LOSTCITY_FINALE_NAME]
-失落之城-终极挑战
+Verlorene Stadt – Finale-Herausforderung
 
 [STARCHALLENGE_25_LOSTCITY_FINALE_NAME1]
-时空穿梭-失落之城
-
+Zomboss – Verlorene Stadt
 
 [STARCHALLENGE_25_PIRATE_FINALE_NAME]
-海盗港湾-终极挑战
+Piratenbucht – Final-Herausforderung
 
 [STARCHALLENGE_25_BEACH_FINALE_NAME]
-巨浪沙滩-终极挑战
-
+Big Wave Beach – Final-Herausforderung
 
 [STARCHALLENGE_LOSTCITY_FINALE]
-击败僵尸博士的飞艇座驾
+Besiege Dr. Zomboss' Heißluftballon 
 
 [STARCHALLENGE_KILL_ZOMBIES_IN_TIME]
-在{TIME}秒内击杀{ZOMBIES}个僵尸
+Töte {ZOMBIES} Zombies in {TIME} Sekunden
 
 [STARCHALLENGE_KILL_ZOMBIES_IN_TIME_NAME]
-及时击杀僵尸
+Töte Zombies Rechtzeitig
 
 [STARCHALLENGE_LASTSTAND_MINIGAME]
-建立你的防线，抵挡僵尸进攻
+Baue deine Verteidigung auf, um den Zombies standzuhalten.
 
 [STARCHALLENGE_LASTSTAND_MINIGAME_NAME]
-坚不可摧
+Letzte Verteidigung
 
 [STARCHALLENGE_MOLD_MINIGAME]
-霉菌来袭，困难重重
+Überlebe ohne in Dave's Schimmelpilz zu pflanzen.
 
 [STARCHALLENGE_MOLD_MINIGAME_NAME]
-霉菌危机
+Schimmelpilz
 
 [STARCHALLENGE_LAWN_MOWER_WARNING]
-不启动任何小推车完成这一目标。
+verliere keine Rasenmäher.
 
 [STARCHALLENGE_MASTER_THE_CONVEYOR]
-成功抵挡僵尸的入侵。
+Widerstehe der Zombie-Invasion.
 
 [STARCHALLENGE_MASTER_THE_CONVEYOR_NAME]
-传送带
+Förderband
 
 [STARCHALLENGE_RIVERCROSSING_NAME]
-渡渡鸟历险记
+Dodo-Abenteuer
 
 [STARCHALLENGE_RIVERCROSSING]
-穿过危险的冰面和河流，避开大嘴花的威胁，到达安全地带。
+Überquere das gefährliche Eis und den Fluss, weiche der Bedrohung durch die Schnapper aus und erreiche das Ziel.
 
 [CHALLENGE_RIVERCROSSING_NAME]
-渡渡鸟历险记-第{LEVEL_NUMBER}天
+Dodo-Abenteuer – Tag {LEVEL_NUMBER}
 
 [STARCHALLENGE_NINJAJUMP_NAME]
-僵太郎历险记
+Ninja-Wicht Abenteuer
 
 [STARCHALLENGE_NINJAJUMP]
-躲过危险的旋风，避开茄子忍者的威胁，成功潜入窃取情报。
+Weiche dem gefährlichen Wirbelwind aus, meide die Bedrohung durch den Oberginen-Ninja und schleiche dich erfolgreich ein, um Informationen zu stehlen.
 
 [STARCHALLENGE_ELIMINATE_NAME]
-植物迷阵
+Pflanzenlabyrinth
 
 [STARCHALLENGE_ELIMINATE]
-链接相同的植物子弹，发动攻击击败僵尸。
+Verbinde dieselben Pflanzenkugeln, um Angriffe zu starten und Zombies zu besiegen.
 
 [STARCHALLENGE_SEEDRAIN_NAME]
-天降奇兵
+Es regnet Samen
 
 [STARCHALLENGE_SEEDRAIN]
-配置从天而降的军团，抵抗僵尸的入侵。
+Setze die vom Himmel herabsteigende Armee ein, um die Zombie-Invasion abzuwehren.
 
 [STARCHALLENGE_BESIEGN_NAME]
-围追堵截
+Suchen und abfangen
 
 [STARCHALLENGE_BESIEGN]
-设置障碍和植物，防止僵尸抵达终点。
+Errichte Hindernisse und Pflanzen, um die Zombies nicht zum Ende zu lassen.
 
 [STARCHALLENGE_BESIEGE_NAME]
-围追堵截
+Suchen und abfangen
 
 [STARCHALLENGE_BESIEGE]
-设置障碍和植物，防止僵尸抵达终点。
+Errichte Hindernisse und Pflanzen, um die Zombies nicht zum Ende zu lassen.
 
 [STARCHALLENGE_LOSTCITY_CONVEYOR_NAME]
-传送带
+Förderband
 
 [STARCHALLENGE_LOSTCITY_CONVEYOR]
-利用从传送带上获得的植物，抵挡失落之城僵尸的入侵。
+Benutze die Pflanzen vom Förderband, um die Zombie-Invasion in der Verlorenen Stadt abzuwehren.
 
 [STARCHALLENGE_LOSTCITY_LASTSTAND_NAME]
-无坚不摧
+Letzte Verteidigung
 
 [STARCHALLENGE_LOSTCITY_LASTSTAND]
-建立无坚不摧的防线，抵挡失落之城僵尸的入侵。
+Baue eine undurchdringliche Verteidigung, um der Zombie-Invasion in der Verlorenen Stadt standzuhalten.
 
 [STARCHALLENGE_LOSTCITY_RAIN_NAME]
-雨林之夜
+Regenwaldnacht
 
 [STARCHALLENGE_LOSTCITY_RAIN]
-利用闪电照亮夜空的瞬间，种植植物抵挡僵尸入侵。
+Nutze den Moment, wenn ein Blitz den Nachthimmel erhellt, um Pflanzen zu pflanzen und so der Zombie-Invasion zu widerstehen.
 
 [STARCHALLENGE_LOSTCITY_VASEBREAKER_NAME]
-失落之罐
+Verlorene Vasen
 
 [STARCHALLENGE_LOSTCITY_VASEBREAKER]
-敲碎场上所有的罐子，并干掉所有的僵尸。
+Zerschmettere alle Vasen auf dem Feld und töte alle Zombies.
 
 [STARCHALLENGE_LOSTCITY_GOLDROAD_NAME]
-黄金之路
+Goldene Straße
 
 [STARCHALLENGE_LOSTCITY_GOLDROAD]
-在仅存的道路上种植植物，抵挡僵尸的入侵。
+Pflanze Pflanzen auf der verbleibenden Straße, um der Zombie-Invasion standzuhalten.
 
 [STARCHALLENGE_LOSTCITY_BOSS_NAME]
-终极挑战
+Die ultimative Herausforderung
 
 [STARCHALLENGE_LOSTCITY_BOSS]
-抵挡僵尸的入侵，击败僵尸博士的飞艇。
+Widerstehe der Zombie-Invasion und besiege Dr. Zomboss's Heißluftballon.
 
 [PLANTING_NOT_ON_BESIEGE_BOX]
-不能放在其他的箱子上
+Kann nicht auf anderen Kisten platziert werden.
 
 [PLANTING_NOT_ON_STATUE]
-不能种植在雕像上
+Kann nicht auf Statuen platziert werden.
 
 [PLANTING_NOT_ON_BUFF_TILE]
-不能种植在瓷砖上
+Kann nicht auf Kacheln platziert werden.
 
 [PLANTING_NOT_ON_SUSHI]
-不能种植在寿司上
+Kann nicht auf Sushi platziert werden.
 
 [PLANTING_NOT_ON_HEAVY_SHIELD]
-你不能把植物种在盾牌上
+Kann nicht auf Schilden platziert werden.
 
 [PLANTING_NOT_ON_FOG]
-你不能把植物种在迷雾上
+Kann nicht auf Nebel platziert werden.
 
 [PLANTING_NOT_ON_VAN_MIST]
-你不能把植物种在烟尘上
+Kann nicht auf Rauch platziert werden.
 
 [PLANTING_BESIEGE_BOX_NOT_HERE]
-箱子不能放在这里，至少要有一条通路
+Kiste kann hier nicht platziert werden. Es muss mindestens ein Durchgang vorhanden sein.
+
+[PLANTING_NOT_ON_FOG]
+Kann nicht auf Nebel platziert werden.
+
+[PLANTING_NOT_ON_VAN_MIST]
+Du Kann nicht auf Rauch gepflanzt werden.
+
+[PLANTING_BESIEGE_BOX_NOT_HERE]
+Kiste kann hier nicht platziert werden. Es muss mindestens ein Durchgang vorhanden sein.
+
+[PLANTING_NOT_ON_FOG]
+Kiste kann nicht auf Nebel gepflanzt werden.
+
+[PLANTING_NOT_ON_VAN_MIST]
+Kiste kann nicht auf Rauch gepflanzt werden.
 
 [PLANTING_BESIEGE_BOX_NOT_ON_ZOMBIE]
-箱子不能放在有僵尸的格子里
+Kisten können nicht in einem Raster mit Zombies platziert werden.
 
 [PLANTING_BESIEGE_BOX_IN_TUTORIAL_POINT]
-请将箱子放在箭头指向的格子里
+Bitte platziere die Kiste im Raster, auf das der Pfeil zeigt.
 
 [PLANTING_ON_BESIEGE_BOX]
-植物只能种在箱子上
+Pflanzen können nur auf Kisten gepflanzt werden.
 
 [BESIEGE_HOME_HP]
-飞船耐久:{NUMBER}
+Schiffshaltbarkeit: {NUMBER}
 
 [BESIEGE_FAILED_TIP]
-你没能成功阻止僵尸军团的进攻
+Du konntest die Zombiearmee nicht aufhalten. Angriff
 
 [BESIEGE_TIP_TAP_SHOVEL]
-点击铁铲
+Klicke auf die Schaufel.
 
 [BESIEGE_TIP_MOVE_BESIEGE_BOX]
-木质的箱子可以被铁铲移除
+Holzkisten können mit der Schaufel entfernt werden.
 
 [BESIEGE_FAILED_GAME_TIP]
-飞船修理失败，是否花费 ^00e46e {GEM_COUNT}颗钻石 ^oldclr 购买维修需要的零件？
+Die Reparatur des Schiffes ist fehlgeschlagen. Möchtest du ^00e46e {GEM_COUNT} Diamanten ^oldclr ausgeben, um die benötigten Teile für die Reparatur zu kaufen?
 
 [STARCHALLENGE_FISH_NAME]
-一炮当关
+Schieße um das Level zu schaffen.
 
 [STARCHALLENGE_FISH]
-发射主炮，击落僵尸获得足够的分数过关。
+Feuere die Hauptkanone ab und schieße Zombies ab, um genügend Punkte für das Level zu sammeln.
 
 [STARCHALLENGE_POOYAN_NAME]
-壮植凌云
+Züchte starke Pflanzen.
 
 [STARCHALLENGE_POOYAN]
-躲避僵尸和子弹，击败强大的敌人。
+Weiche Zombies und Kugeln aus und besiege mächtige Gegner.
 
 [STARCHALLENGE_PAOKU]
-生存下去获得对应分数。
+Überlebe und sammle entsprechende Punkte.
 
 [STARCHALLENGE_CONVEYORBELT]
-利用从传送带上获得的植物，抵挡僵尸的入侵。
+Benutze die Pflanzen vom Förderband, um der Zombie-Invasion standzuhalten.
 
 [CHALLENGE_BESIEGN_NAME]
-围追堵截-第{LEVEL_NUMBER}天
+Erobern und abfangen – Tag {LEVEL_NUMBER}
 
 [CHALLENGE_FISH_NAME]
-一炮当关-第{LEVEL_NUMBER}天
+Schießen und blockieren – Tag {LEVEL_NUMBER}
 
 [CHALLENGE_POOYAN_NAME]
-壮植凌云-第{LEVEL_NUMBER}天
+Pflanzen am Himmel – Tag {LEVEL_NUMBER}
 
 [STARCHALLENGE_PIRATE_FINALE]
-成功抵抗大波海盗僵尸入侵。
+Widerstehe erfolgreich einer großen Welle von Piratenzombies.
 
 [STARCHALLENGE_PIRATE_FINALE_NAME]
-最后一天
+Der letzte Tag
 
 [STARCHALLENGE_STEAM_FINALE]
-成功抵抗大波蒸汽僵尸入侵。
+Widerstehe erfolgreich einer großen Welle von Dampfzombies.
 
 [STARCHALLENGE_STEAM_FINALE_NAME]
-最后一天
+Der letzte Tag
 
 [STARCHALLENGE_PLANT_BEFORE_LINE]
-不能种在发霉的地盘上。
+Kann nicht auf schimmeligem Boden gepflanzt werden.
 
 [STARCHALLENGE_SKYCITY]
-抵挡飞行僵尸们的攻击。
+Wehre die Angriffe fliegender Zombies ab.
 
 [STARCHALLENGE_SKYCITY_NAME]
-天空之城
+Das Schloss im Himmel
 
 [STARCHALLENGE_PLANT_BEFORE_LINE_NAME]
-发霉的地盘
+Schimmeliges Gelände
 
 [STARCHALLENGE_PLANTFOOD_USED]
-花费{COUNT}个或更少的能量豆！
+Gib nicht mehr als {COUNT} Spezialdünger aus!
 
 [STARCHALLENGE_PLANTS_AT_ONCE]
-不得拥有超过{COUNT} 棵植物
+Besitze nicht mehr als {COUNT} Pflanzen.
 
 [STARCHALLENGE_PLANTS_AT_ONCE_NAME]
-同步植物
+Pflanzen synchronisieren
 
 [STARCHALLENGE_PLANTS_LOST]
-不要失去超过 {COUNT} 棵植物
+Verliere nicht mehr als {COUNT} Pflanzen.
 
 [STARCHALLENGE_PLANTS_LOST_NAME]
-失去的植物
+Verlorene Pflanzen
 
 [STARCHALLENGE_PLANTS_LOST_SINGLE]
-不要失去超过 {COUNT} 棵植物
+Verliere nicht mehr als {COUNT} Pflanzen.
 
 [STARCHALLENGE_PLANTS_PLANTED]
-种植{COUNT}棵或更少植物！
+Pflanze {COUNT} oder weniger Pflanzen!
 
 [STARCHALLENGE_PLANTS_PLANTED_NAME]
-已种植的植物
+Gepflanzte Pflanzen
 
 [STARCHALLENGE_POWERUP_DEMO]
-使用金手指过关
+Cheatcodes nutzen, um das Level zu meistern
 
 [STARCHALLENGE_POWERUP_DEMO_NAME]
-金手指演示
+Cheatcode-Demo
 
 [STARCHALLENGE_PRESET_PLANTS]
-使用选定的植物抵挡僵尸的进攻
+Widersteht mit ausgewählten Pflanzen dem Zombie-Angriff.
 
 [STARCHALLENGE_PRESET_PLANTS_NAME]
-植物危机
+Pflanzenkrise
 
 [STARCHALLENGE_PROTECT_THE_PLANT]
-成功闯关，并保护处于危险状态的植物
+Schließt das Level erfolgreich ab und schützt die gefährdete Pflanze.
 
-[STARCHALLENGE_PROTECT_THE_PLANT_NAME]
-种子保卫战
+[STARCHALLENGE_POWERUP_DEMO_NAME]
+Cheatcode-Demo
+
+[STARCHALLENGE_PRESET_PLANTS]
+Widersteht mit ausgewählten Pflanzen dem Zombie-Angriff.
+
+[STARCHALLENGE_PRESET_PLANTS_NAME]
+Vorgegebene Pflanzen
+
+[STARCHALLENGE_PROTECT_THE_PLANT]
+Überlebe und schütze die bedrohten Pflanzen.
+
+[STARCHALLENGE_POWERUP_DEMO_NAME]
+Cheatcode-Demo: TARCHALLENGE_PROTECT_THE_PLANT_NAME]
+Beschütze die Pflanze.
 
 [STARCHALLENGE_RETAIN_MOWERS]
-不要失去任何小推车
+Verliere keine Rasenmäher.
 
 [STARCHALLENGE_RETAIN_MOWERS_NAME]
-维护小推车
+Halte die Rasenmäher in Schach.
 
 [STARCHALLENGE_SPEND_SUN_HOLDOUT]
-不要在{COUNT}秒内使用阳光
+Verwende die Sonne {COUNT} Sekunden lang nicht.
 
 [STARCHALLENGE_SPEND_SUN_HOLDOUT_NAME]
-阳光保卫战
+Beschütze die Sonne.
 
 [STARCHALLENGE_SUN_PRODUCED]
-至少生产{COUNT} 阳光
+Erzeuge mindestens {COUNT} Sonnenlicht.
 
 [STARCHALLENGE_SUN_PRODUCED_NAME]
-产生的阳光
+Erzeugtes Sonnenlicht.
 
 [STARCHALLENGE_SUN_USED]
-不得花费多于{COUNT} 的阳光
+Verwende nicht mehr als {COUNT} Sonnenlicht
 
 [STARCHALLENGE_SUN_USED_NAME]
-使用的阳光
+Sonnenlicht verbraucht
 
 [STARCHALLENGE_ZOMBIE_DISTANCE]
-别让僵尸踩坏花坛
+Lass Zombies nicht die Blumenbeete zertrampeln.
 
 [STARCHALLENGE_ZOMBIE_DISTANCE_NAME]
-花坛
+Blumenbeete
 
 [STARCHALLENGE_ZOMBIES_ONSCREEN]
-在草地上有{COUNT}只僵尸也可能更多！
+Es sind {COUNT} Zombies auf dem Rasen, vielleicht sogar mehr!
 
 [STARCHALLENGE_PLANT_FREEZE]
-不能有超过{COUNT}棵植物结冰
+Es können maximal {COUNT} Pflanzen eingefroren werden.
 
 [STARCHALLENGE_PLANT_FREEZE_NAME]
-结冰的植物
+Gefrorene Pflanzen
 
 [STARCHALLENGE_PLANT_SURVIVE]
-通关时有{COUNT}棵植物幸存
+Beende das Spiel mit {COUNT} überlebenden Pflanzen.
 
 [STARCHALLENGE_PLANT_SURVIVE_NAME]
-幸存的植物
+Überlebende Pflanzen
 
-[STARCHALLENGE_CARD_GAME_TURN_PASS]
-在{COUNT}回合内获得胜利
+[STARCHALLENGE_CARD_GAME_ TURN_PASS]
+Gewinne in {COUNT} Runden.
 
 [STARCHALLENGE_CARD_GAME_TURN_PASS_NAME]
-限时通关
+Gewinne innerhalb des Zeitlimits.
 
 [STARCHALLENGE_SANDSTORM_ZOMBIE_KILL_DESC]
-击败{COUNT}只在沙尘暴中的僵尸
+Besiege {COUNT} Zombies, die sich nur in Sandstürmen befinden.
 
 [STARCHALLENGE_SANDSTORM_ZOMBIE_KILL_NAME]
-沙尘暴击杀
+Sandsturm-Kill
 
-[STARCHALLENGE_BUFFERTILE_ZOMBIE_KILL_DESC]
-击败{COUNT}只在瓷砖强化的僵尸
+[STARCHALLENGE_B UFFERTILE_ZOMBIE_KILL_DESC]
+Besiege {COUNT} Zombies, die nur durch Kacheln verstärkt werden.
 
 [STARCHALLENGE_BUFFERTILE_ZOMBIE_KILL_NAME]
-瓷砖强化击杀
+Kachelverstärkter Kill
 
 [STARCHALLENGE_POTION_ZOMBIE_KILL_DESC]
-击败{COUNT}只药水强化的僵尸
+Besiege {COUNT} Zombies, die durch Tränke verstärkt werden.
 
 [STARCHALLENGE_POTION_ZOMBIE_KILL_NAME]
-药水强化击杀
+Trankverstärkter Kill
 
 [STARCHALLENGE_BARREL_POWDER_ZOMBIE_KILL_DESC]
-使用爆炸桶击败{COUNT}只僵尸
+Benutze Sprengfässer, um {COUNT} Zombies zu besiegen.
 
 [STARCHALLENGE_BARREL_POWDER_ZOMBIE_KILL_NAME]
-爆炸桶击杀
+Töte mit Sprengfässern.
 
 [STARCHALLENGE_BLOW_BARREL_ZOMBIE_DESC]
-吹飞{COUNT}只怪物桶中掉落的僵尸
+Schleudere {COUNT} Zombies aus Monsterfässern weg.
 
-[STARCHALLENGE_BLOW_BARREL_ZOMBIE_NAME]
-怪物桶吹飞
+[STARCHALLENGE_BLOW_B ARREL_ZOMBIE_NAME]
+Spreng das Monsterfass in die Luft.
 
 [STARCHALLENGE_FIREWORKS_ZOMBIE_KILL_DESC]
-使用烟火消灭{COUNT}只僵尸
+Töte {COUNT} Zombies mit Feuerwerk.
 
 [STARCHALLENGE_FIREWORKS_ZOMBIE_KILL_NAME]
-烟火击杀
+Töte mit Feuerwerk.
 
 [STARCHALLENGE_FIRECRACKER_ZOMBIE_KILL_DESC]
-使用爆竹消灭{COUNT}只僵尸
+Töte {COUNT} Zombies mit Feuerwerkskörpern.
 
-[STARCHALLENGE_FIRECRACKER_ZOMBIE_KILL_NAME]
-爆竹击杀
+[STAR CHALLENGE_FIRECRACKER_ZOMBIE_KILL_NAME]
+Töte mit Feuerwerkskörpern.
 
-[STARCHALLENGE_TENT_ZOMBIE_KILL_DESC]
-击败{COUNT}只帐篷生产的僵尸
+[STAR CHALLENGE_TENT_ZOMBIE_KILL_DESC]
+Besiege {COUNT} im Zelt produzierte Zombies.
 
 [STARCHALLENGE_POTION_ZOMBIE_KILL_NAME]
-帐篷僵尸击杀
+Töte Zelt-Zombies.
 
 [STARCHALLENGE_UNFREEZE_PLANTS_DESC]
-解冻{COUNT}棵植物
+Taue {COUNT} Pflanzen auf.
 
-[STARCHALLENGE_UNFREEZE_PLANTS_NAME]
-解冻植物
+[ST ARCHALLENGE_UNFREEZE_PLANTS_NAME]
+Pflanzen auftauen
 
 [STARCHALLENGE_PROTECT_PLANTS_BY_PROTECTER_SHIELD_DESC]
-不要被电磁盾僵尸击飞{COUNT}棵植物
+Verhindere, dass die Schildzombies {COUNT} Pflanzen umstoßen.
 
 [STARCHALLENGE_PROTECT_PLANTS_BY_PROTECTER_SHIELD_NAME]
-保护植物不受电磁盾僵尸击飞
+Schütze Pflanzen vor Schildzombies.
 
 [STARCHALLENGE_BLOW_ZOMBIE]
-吹飞{COUNT}个僵尸
+Schleudere {COUNT} Zombies um.
 
 [STARCHALLENGE_BLOW_ZOMBIE_NAME]
-吹飞的僵尸
+Schleudere Zombies um.
 
 [STARCHALLENGE_PLANTFOOD_NONUSE]
-不使用能量豆过关
+Schaffe das Level, ohne Spezialdünger zu verwenden.
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_NAME]
-禁止能量豆
+Spezialdünger ist verboten.
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP]
-使用能量豆将无法获得星星, 是否使用?
+Du erhältst keine Sterne, wenn du Spezialdünger verwendest. Möchtest du sie verwenden?
 
 [MISTAKE_CLICK]
-我点错了
+Ich habe den falschen Knopf angeklickt.
 
 [NEVER_REMIND_AGAIN]
-不再提醒
+Nicht mehr erinnern.
 
 [STARCHALLENGE_PROTECT_PLANT]
-保卫场上初始存在的植物不被僵尸吃掉
+Schütze die Pflanzen, die sich ursprünglich auf dem Feld befinden, vor Zombies.
 
 [STARCHALLENGE_PROTECT_PLANT_NAME]
-种子保卫战
+Schütze die bedrohten Pflanzen
 
 [STAT_AREA]
 Bereich
