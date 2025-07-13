@@ -19736,190 +19736,191 @@ ca=拿到3星|把僵尸死光|等时间耗尽|拿到1星|
 {FLAVOR} 冰风酋长僵尸通过一次吹树叶大赛击败了其他的僵尸当选了整个部落的酋长，俗话说新僵上任三把火，于是他决定在整个部落举行一次运动会，闻讯而来的有著名跑步健将渡渡鸟骑士僵尸和滑雪僵尸、著名举重选手穴居僵尸、著名铁饼运动员地懒巨人僵尸等……这一次的运动会有且仅有一个项目：吹气球……
 
 [ZOMBIE_SLIMES]
-史莱姆僵尸
+Schleim-Zombie
 
 [ZOMBIE_SLIMES_DESCRIPTION]
-千万别在史莱姆僵尸面前洗发胶。至于是洗完后更有利于他咬你的脑袋，还是这会产生更多的史莱姆僵尸，还是这会让史莱姆僵尸脆弱的同情心泛滥？可能都是。
+Wasche dir niemals vor einem Schleim-Zombie die Haare mit Haargel. Kann er dir dann leichter in den Kopf beißen, werden dadurch mehr Schleim-Zombies produziert oder wird die zerbrechliche Sympathie des Schleim-Zombies überschwemmt? Wahrscheinlich alles.
 
 [ZOMBIE_SLIMES_DESCRIPTION_HEADER]
-被击杀后会分裂
+Spaltet sich nach dem Tod.
 
 [ZOMBIE_SLIMES_GARGANTUAR]
-史莱姆僵尸
+Schleim-Zombie
 
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION]
-千万别在史莱姆僵尸面前洗发胶。至于是洗完后更有利于他咬你的脑袋，还是这会产生更多的史莱姆僵尸，还是这会让史莱姆僵尸脆弱的同情心泛滥？可能都是。
+Wasche dir niemals vor einem Schleim-Zombie die Haare mit Haargel. Kann er dir dann leichter in den Kopf beißen, werden dadurch mehr Schleim-Zombies produziert oder wird die zerbrechliche Sympathie des Schleim-Zombies überschwemmt? Wahrscheinlich beides.
 
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
-被击杀后会分裂
-
+Spaltet sich beim Töten.
 
 [ELIMINATE_TIP1]
-很好！
+Super!
 
 [ELIMINATE_TIP2]
-颤抖吧僵尸博士！
+Dr. Zombie, zitter!
 
 [ELIMINATE_TIP3]
-僵尸末日！！奖励能量豆！
+Zombie-Apokalypse!! Bonus-Energiebohnen!
 
 [ELIMINATE_LOSE]
-你的植物被僵尸吃掉了！
+Deine Pflanzen wurden von Zombies gefressen!
 
 [ELIMINATE_RELOAD]
-时空穿梭！！
+Zeitreise!!
 
 [ELIMINATE_TIP_FREEZINGWIND]
-消除冰块旁边的豆子可以融化它！
+Entferne die Bohnen neben dem Eis, um es zu schmelzen!
 
 [ELIMINATE_TIP_SHIELD]
-小心，护盾会抵挡很多子弹！
+Vorsicht, der Schild hält viele Kugeln ab!
 
 [ELIMINATE_REVIVE_TIP1]
-行动次数已用尽，是否消耗^00e46e {GEM_COUNT}颗钻石 ^oldclr 购买3步？
+Die Anzahl der Aktionen ist aufgebraucht. Möchtest du ^00e46e {GEM_COUNT} Diamanten ^oldclr ausgeben, um 3 Schritte zu kaufen?
 
 [ELIMINATE_STEP_COUNT]
-{STEP_COUNT}步
+{STEP_COUNT} Schritte
 
 [ELIMINATE_NEED_INTRO_TIP]
-  连消7颗以上会奖励能量豆！
+Du erhältst Energiebohnen, wenn du mehr als 7 hintereinander eliminierst!
 
 [ELIMINATE_ELIMINATE_PLANTFOOD_TIP]
-消除能量豆上下左右的球就可以激活它了！试试看吧~
-     点击任意位置继续
+Du aktivierst den Spezialdünger, indem du die Bälle oben, unten, links und rechts eliminierst! Probier es aus!
+
+Klicke irgendwo, um fortzufahren.
 
 [ELIMINATE_BUY_PLANTFOOD_TIP]
-直接购买能量豆可以更快的击败僵尸博士！
-     点击任意位置继续
+Du kannst Dr. Zombie schneller besiegen, indem du Spezialdünger direkt kaufst!
+
+Klicke irgendwo, um fortzufahren.
 
 [POOYAN_SHOOTER_DIED_TIP]
-飞行器已损坏，是否消耗^00e46e {GEM_COUNT}颗钻石 ^oldclr 修复?
+Das Flugzeug ist beschädigt. Möchtest du ^00e46e {GEM_COUNT} Diamanten ^oldclr ausgeben, um es zu reparieren?
 
 [POOYAN_FAILED_TIP]
-飞行器被僵尸打坏了！
+Das Flugzeug wurde von Zombies beschädigt!
 
 [POOYAN_FAILED_SCORE_TIP]
-没有得到足够的分数！
+Du hast nicht genügend Punkte!
 
 [FISHING_ENERGY_NEED_RESET_TIP]
-只需要花费^00e46e {GEM_COUNT}颗钻石 ^oldclr 即可获得1000阳光，是否需要购买？
+Du brauchst nur ^00e46e {GEM_COUNT} Diamanten ^oldclr, um 1000 Sonnenlicht zu erhalten. Musst du es kaufen?
 
 [FISHING_FAILED_TIP]
-主炮能量耗尽了！
+Die Energie des Hauptgeschützes ist erschöpft!
 
 [FISHING_CHANGE_CANNON_TIP]
-当前主炮能量不足，请切换至低一级主炮
+Die aktuelle Energie des Hauptgeschützes reicht nicht aus. Bitte wechsle zu einer niedrigeren Hauptwaffe.
 
 [FISHING_INTRO_USECANNON1]
-消耗阳光可以发射主炮攻击僵尸
+Du kannst Sonnenlicht nutzen, um die Hauptwaffe abzufeuern und Zombies anzugreifen.
 
 [FISHING_INTRO_CHANGELASER]
-点击按钮可以切换主炮
+Klicke auf die Schaltfläche, um die Hauptwaffe zu wechseln.
 
 [FISHING_INTRO_CANNONDESC]
-高级的火炮威力更大，但是也需要消耗更多阳光
+Waffen höherer Stufen sind stärker, verbrauchen aber auch mehr Sonnenlicht.
 
 [FISHING_INTRO_WINCONDITION]
-收集满足够的阳光即可过关
+Sammle genügend Sonnenlicht, um das Level abzuschließen.
 
 [FISHING_CRAZY_TIP]
-进入能量暴走状态，主炮不消耗阳光
+Im Energierausch verbraucht die Hauptwaffe kein Sonnenlicht.
 
 [FISHING_HIGHSCORE_TIP]
-发现敌方首领，击杀他即可获得大量阳光和分数！
+Finde den gegnerischen Anführer und töte ihn, um jede Menge Sonne und Punkte zu erhalten!
 
 [BEGIN_SWIPE]
-开始划动!
+Wische los!
 
 [NARRATIVE_SEEDRAIN_ACORN_INTRO_1]
-{NPC_ENTER:crazydave}{SAY:crazydave}橡果能够克制海象僵尸。
+{NPC_ENTER:crazydave}{SAY:crazydave}Eicheln können Walross-Zombies zurückhalten.
 
 [NARRATIVE_SEEDRAIN_DAVE_INTRO_1]
-{NPC_ENTER:crazydaveicon}{PLAYFUL}这一关可以直接选择卡片种植植物。
+{NPC_ENTER:crazydaveicon}{PLAYFUL}In diesem Level kannst du Karten direkt auswählen, um Pflanzen zu pflanzen.
 
 [NARRATIVE_ELIMINATE_INTRO_1]
-{NPC_ENTER:crazydaveicon}{PLAYFUL}将颜色相同的球连起来，看看会发生什么。
+{NPC_ENTER:crazydaveicon}{PLAYFUL}Verbinde gleichfarbige Bälle und schau, was passiert.
 
 [NARRATIVE_PLANTTRIAL_BLOOMERANG_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现 骆驼僵尸，他的防御力很强，普通攻击需要很久才能将他击破。
+{NPC_ENTER:crazydave}{SAY}Vor uns befindet sich ein Kamel-Zombie. Er hat eine starke Verteidigung und es dauert lange, ihn mit normalen Angriffen zu besiegen.
 
 [NARRATIVE_PLANTTRIAL_BLOOMERANG_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的回旋镖射手吧，一次攻击可穿透多个目标，很适合对抗骆驼僵尸。
+{EXCITED:crazydave}{SAY}Probiert den neuen Bumerang-Shooter aus. Er kann mehrere Ziele mit einem Angriff durchdringen und eignet sich daher hervorragend für den Kampf gegen Kamel-Zombies.
 
 [PLANTTRIAL_BLOOMERANG_INTO1]
-请将植物种植到闪光的那一列。
+Bitte pflanzt die Pflanzen in die blinkende Spalte.
 
 [PLANTTRIAL_BLOOMERANG_INTO2]
-请不要放在别的行，我有强迫症，这样会不舒服。
+Bitte pflanzt sie nicht in andere Reihen. Ich leide unter einer Zwangsstörung und würde mich damit unwohl fühlen.
 
 [PLANTTRIAL_BLOOMERANG_INTO3]
-放心，前3次种植试用植物不需要消耗阳光，尽情感受他们的威力吧。
+Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt ihre Kraft nach Herzenslust.
 
 [NARRATIVE_PLANTTRIAL_BONKCHOY_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现 墓碑召唤者，他会间歇性召唤出一个墓碑打乱我们的阵型，务必第一时间消灭。
+{NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Grabsteinbeschwörer gefunden. Er beschwört immer wieder Grabsteine, um unsere Formation zu stören. Wir müssen ihn so schnell wie möglich zerstören.
 
 [NARRATIVE_PLANTTRIAL_BONKCHOY_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的菜问吧，以高攻速见长，拳拳到肉，能够输出惊人的伤害。
+{EXCITED:crazydave}{SAY}Probiert das neu eingetroffene Gemüse. Es ist für seine hohe Angriffsgeschwindigkeit bekannt und kann mit jedem Schlag enormen Schaden verursachen.
 
 [NARRATIVE_PLANTTRIAL_SNAPDRAGON_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现滚筒僵尸，当滚筒爆炸时释放出里面的小鬼僵尸，务必需要小心。
+{NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Trommelzombie gefunden. Wenn die Trommel explodiert, wird der Geisterzombie im Inneren freigelassen. Sei vorsichtig.
 
 [NARRATIVE_PLANTTRIAL_SNAPDRAGON_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的火龙草吧，火力覆盖上中下三排，范围攻击型植物的代表。
+{EXCITED:crazydave}{SAY}Probiere das neu eingetroffene Feuerdrachengras. Es hat Feuerkraft und deckt die oberen, mittleren und unteren Reihen ab. Es ist eine Pflanze mit Fernangriff.
 
 [NARRATIVE_PLANTTRIAL_KERNELPULT_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现 海鸥僵尸，他们会飞过河道从空中攻击我们的薄弱区域。
+{NPC_ENTER:crazydave}{SAY}Wir haben Möwenzombies vor uns entdeckt. Sie fliegen über den Fluss und greifen unsere Schwachstellen aus der Luft an.
 
 [NARRATIVE_PLANTTRIAL_KERNELPULT_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的玉米投手吧，当投射出玉米块的时候能够秒杀海鸥僵尸。
+{EXCITED:crazydave}{SAY}Probiere den neu eingetroffenen Maiskrug. Er kann Möwenzombies sofort töten, wenn er Maisblöcke auswirft.
 
 [NARRATIVE_PLANTTRIAL_TWINSUNFLOWER_INFO_1]
-{NPC_ENTER:crazydave}{SAY}厌倦了每次都需要好久才能种齐经济作物嘛。
+{NPC_ENTER:crazydave}{SAY}Ich habe es satt, so lange mit dem Anbau all der Nutzpflanzen zu verbringen.
 
 [NARRATIVE_PLANTTRIAL_TWINSUNFLOWER_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的双胞胎向日葵吧，他的产量是普通向日葵的两倍，从而节省有限的地块。
+{EXCITED:crazydave}{SAY}Probiert die neu eingetroffenen Zwillingssonnenblumen. Sie tragen doppelt so viel Ertrag wie normale Sonnenblumen und schonen so die begrenzten Flächen.
 
 [NARRATIVE_PLANTTRIAL_SPIKEROCK_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现钢琴僵尸，他们的琴声会让周围的僵尸翩翩起舞，改变路径。
+{NPC_ENTER:crazydave}{SAY}Vor euch befinden sich Klavierzombies. Ihre Klaviermusik bringt die Zombies um sie herum zum Tanzen und lässt sie ihre Wege ändern.
 
 [NARRATIVE_PLANTTRIAL_SPIKEROCK_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的钢地刺吧，种在钢琴僵尸脚下能够直接消灭它们。
+{EXCITED:crazydave}{SAY}Probiert die neu eingetroffenen Stahlstacheln. Platziert sie unter den Füßen der Klavierzombies, um sie direkt zu töten.
 
 [NARRATIVE_PLANTTRIAL_FIREGROUND_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现鸡贼僵尸，他们死亡时会丢出一大波鸡，冲击你的阵型。
+{NPC_ENTER:crazydave}{SAY}Vor uns befinden sich Hühnerzombies. Wenn sie sterben, schleudern sie eine große Hühnerwelle los, die eure Formation angreift.
 
 [NARRATIVE_PLANTTRIAL_FIREGROUND_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的火葫芦吧，完美破解鸡群阵。
+{EXCITED:crazydave}{SAY}Probiert den neu eingetroffenen Feuerkürbis aus, der die Hühnerformation perfekt durchbrechen kann.
 
 [NARRATIVE_PLANTTRIAL_STARFRUIT_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现迪斯科僵尸，他会召唤很多随从骚扰我们。
+{NPC_ENTER:crazydave}{SAY}Vor uns befinden sich Disco-Zombies, die viele Anhänger herbeirufen, um uns zu belästigen.
 
 [NARRATIVE_PLANTTRIAL_STARFRUIT_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的星星果吧，高性价比，可对分散的目标造成大量伤害。
+{EXCITED:crazydave}{SAY}Probiert die neu eingetroffene Sternfrucht. Sie ist kostengünstig und kann verstreuten Zielen großen Schaden zufügen.
 
 [NARRATIVE_PLANTTRIAL_FUTURE_GARGANTUAR_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现机械巨人僵尸，他会秒杀途经的植物。
+{NPC_ENTER:crazydave}{SAY}Vor euch befinden sich mechanische Riesenzombies, die vorbeiziehende Pflanzen sofort vernichten.
 
 [NARRATIVE_PLANTTRIAL_FUTURE_GARGANTUAR_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的柚子吧，单体伤害爆发极强，大招还有效克制机械巨人僵尸。
+{EXCITED:crazydave}{SAY}Probiert die neu eingetroffene Grapefruit. Sie verursacht starken Schaden an einzelnen Zielen, und ihre ultimative Fähigkeit kann den mechanischen Riesenzombie effektiv zurückhalten.
 
 [NARRATIVE_PLANTTRIAL_FUMESHROOM_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现小丑僵尸，他会反弹我方的远程攻击。
+{NPC_ENTER:crazydave}{SAY}Vor uns befindet sich ein Clown-Zombie. Er wehrt unsere Fernkampfangriffe ab.
 
 [NARRATIVE_PLANTTRIAL_FUMESHROOM_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的大喷菇吧，他的攻击能够免疫小丑僵尸的伤害
+{EXCITED:crazydave}{SAY}Probiert den neuen Großen Schleuderpilz aus. Sein Angriff kann gegen den Schaden des Clown-Zombies immun sein.
 
 [NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现骑士僵尸，他能够轻易冲破我们的阵型
+{NPC_ENTER:crazydave}{SAY}Vor uns befindet sich ein Ritter-Zombie. Er kann unsere Formation leicht durchbrechen.
 
 [NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的烈焰菇吧，他能够生成火墙阻挡僵尸的进攻。
+{EXCITED:crazydave}{SAY}Probiert den neuen Flammenpilz aus. Er kann eine Feuerwand erzeugen, um die Angriffe der Zombies abzuwehren.
 
 [NARRATIVE_PLANTTRIAL_LOTUSSHOWER_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现渔夫僵尸，他会在后方偷袭我们
+{NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Fischerzombie gefunden. Er wird uns von hinten angreifen.
 
 [NARRATIVE_PLANTTRIAL_LOTUSSHOWER_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的莲小蓬吧，他的大招会优先攻击后方的僵尸，尤其是渔夫僵尸。
+{EXCITED:crazydave}{SAY}Probiert den neu eingetroffenen Lotus Xiaopeng aus. Seine ultimative Fähigkeit greift vorrangig Zombies im Hintergrund an, insbesondere Fischerzombie.
 
 [NARRATIVE_PLANTTRIAL_LEMON_INFO_1]
 {NPC_ENTER:crazydave}{SAY}前方发现贝壳僵尸，他的贝壳能够抵挡很多伤害。
@@ -44023,19 +44024,19 @@ Der Flaggen-Zombie ist neben dem Aufseher-Zombie der überzeugendste Zombie. All
 Markiert die Ankunft einer großen Welle von Steam-Zombies.
 
 [ZOMBIE_STEAM_GARGANTUAR]
-Aufseher-Riesenzombie
+Aufseher-Gargantuar
 
 [ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION_HEADER]
-Zerschmettert alle Pflanzen und schleudert Kobolde.
+Zerschmettert alle Pflanzen und schleudert Wichte.
 
 [ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Schaden:{STAT}Zerquetscht Pflanzen bei Kontakt mit einem riesigen Schraubenschlüssel.
-{KEYWORD}Funktionen:{STAT}Wirft bei Beschädigung einen Industrie-Kobold-Zombie hinaus.
+{KEYWORD}Funktionen:{STAT}Wirft bei Beschädigung einen Industrie-Wicht-Zombie hinaus.
 
 {FLAVOR}Der riesige Overwatch-Zombie ist der Chef einer kleinen Fabrik. Er sorgt stets für die einwandfreie Qualität der produzierten Waren. Obwohl er gegenüber Arbeitern meist sehr streng ist, ein sehr schlechtes Temperament hat und gerne Zigarren raucht, hindert ihn das nicht daran, ein guter Mensch zu sein.
 
 [ZOMBIE_STEAM_IMP]
-Industrie-Kobold-Zombie
+Industrie-Wicht-Zombie
 
 [ZOMBIE_STEAM_IMP_DESCRIPTION]
 Weil sein Onkel der riesige Overwatch-Zombie ist, wurde ihm eine Stelle in der Fabrik zugeteilt. Er ist jedoch normalerweise fleißig und klug.
@@ -53111,7 +53112,7 @@ Sehr große Grabsteine erschweren das Pflanzen.
 Grabsteine
 
 [WARNING_HOTDOGS]
-Die mechanischen Kobold-Zombies kommen!
+Die mechanischen Wicht-Zombies kommen!
 
 [OBJECTIVE_BONUS_CHALLENGE_HEADER]
 Bonusziel
@@ -56978,109 +56979,116 @@ Tages-Vergnügungspaket kaufen
 圣诞节装扮的斗篷僵尸。
 
 [ZOMBIE_CARNIE_MAGICIAN]
-魔术师僵尸
+Zombie-Zauberer
 
 [ZOMBIE_CARNIE_MAGICIAN_DESCRIPTION]
-魔术师僵尸
+Zombie-Zauberer
 
 [ZOMBIE_CARNIE_MAGICIAN_DESCRIPTION_HEADER]
-魔术师僵尸
+Zombie-Zauberer
 
 [ZOMBIE_CARNIE_DOVE]
-魔术师鸽子僵尸
+Zombie-Tauben-Zauberer
 
 [ZOMBIE_CARNIE_DOVE_DESCRIPTION]
-魔术师鸽子僵尸
+Zombie-Tauben-Zauberer
 
 [ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
-魔术师鸽子僵尸
+Zombie-Tauben-Zauberer
 
-[ZOMBIE_CARNIE_MAGICIAN_ARTIFACT]
-魔术师僵尸
+[ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
+Zombie-Tauben-Zauberer
+
+[ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
+Zombie-Tauben-Zauberer
+
+[ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
+MBIE_CARNIE_MAGICIAN_ARTIFACT]
+Magier Zombie
 
 [ZOMBIE_CARNIE_MAGICIAN_ARTIFACT_DESCRIPTION]
-魔术师僵尸
+Zombie-Zombie
 
 [ZOMBIE_CARNIE_MAGICIAN_ARTIFACT_DESCRIPTION_HEADER]
-魔术师僵尸
+Zombie-Zombie
 
 [ZOMBIE_ZOMBIE_MONEYTREE]
-春节摇钱树僵尸
+Geldbaum-Zombie des Frühlingsfests
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION]
-只在春节出没的僵尸，树上长满了元宝，可转化成无数的金币。
+Zombies, die nur während des Frühlingsfests erscheinen. Ihre Bäume sind voller Barren, die in unzählige Goldmünzen umgewandelt werden können.
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION_HEADER]
-新年特殊僵尸。
+Spezielle Neujahrs-Zombies.
 
 [ZOMBIE_ZOMBIE_YEARMONSTER]
-春节年兽僵尸
+Chinesisches Neujahrs-Zombie
 
 [ZOMBIE_ZOMBIE_YEARMONSTER_DESCRIPTION_HEADER]
-新年特殊僵尸。
+Spezielle Neujahrs-Zombies.
 
 [ZOMBIE_ZOMBIE_YEARMONSTER_DESCRIPTION]
-只在春节出没的僵尸，不知为何特别惧怕红色和爆炸。
+Zombies, die nur während des chinesischen Neujahrs erscheinen und aus irgendeinem Grund besonders Angst vor Rot und Explosionen haben.
 
 [ZOMBIE_ICEYEARMONSTER]
-寒冰年兽僵尸
+Eisjahr-Zombie
 
 [ZOMBIE_ICEYEARMONSTER_DESCRIPTION]
-经过冰河的修行，不再惧怕红色和爆炸。
+Nach dem Training im Eisfluss haben sie keine Angst mehr vor Rot und Explosionen.
 
 [ZOMBIE_ICEYEARMONSTER_DESCRIPTION_HEADER]
-新年特殊僵尸
+Neujahrs-Special-Zombie
 
 [ZOMBIE_CHILDREN_TOCAR]
-玩具车僵尸
+Spielzeugauto-Zombie
 
 [ZOMBIE_CHILDREN_TOYGUN]
-玩具枪小鬼僵尸
+Spielzeugpistolen-Kobold-Zombie
 
 [ZOMBIE_CHILDREN_LOLIPOPS]
-棒棒糖僵尸
+Lollipop-Zombie
 
 [ZOMBIE_CHILDREN_BALLON]
-气球书包僵尸
+Ballon-Schultaschen-Zombie
 
 [ZOMBIE_CHILDREN_SCHOOLBAG]
-书包僵尸
+Schultaschen-Zombie
 
 [ZOMBIE_CHILDRENSDAY]
-儿童节普通僵尸
+Kindertag-Zombie
 
 [ZOMBIE_CHILDRENSDAY_DESCRIPTION]
-在儿童节这天穿上童装服饰，这一天他仿佛回到小时候。
+Am Kindertag trägt er Kinderkleidung und scheint in seine Kindheit zurückgekehrt zu sein.
 
 [ZOMBIE_CHILDRENSDAY_DESCRIPTION_HEADER]
-童装打扮的普通僵尸。
+Gewöhnlicher Zombie in Kinderkleidung.
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1]
-儿童节路障僵尸
+Kindertags-Straßensperren-Zombie
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1_DESCRIPTION]
-儿童节路障僵尸正在寻找刚刚还在手中的冰淇淋去哪里了，你有看到吗？
+Kindertags-Straßensperren-Zombie sucht nach dem Eis, das er gerade noch in der Hand hatte. Hast du es gesehen?
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1_DESCRIPTION_HEADER]
-童装打扮的路障僵尸。
+Ein Straßensperren-Zombie in Kinderkleidung.
 
 [ZOMBIE_CHILDRENSDAY_ARMOR2]
-儿童节铁桶僵尸
+Kindertags-Eimer-Zombie
 
 [ZOMBIE_CHILDRENSDAY_ARMOR2_DESCRIPTION]
-儿童节铁桶僵尸拿着他的小鸭子水桶，正要去和他的小伙伴打水仗。
+Kindertags-Eimer-Zombie hält seinen Enteneimer und ist kurz davor, mit seinen Freunden eine Wasserschlacht zu veranstalten.
 
 [ZOMBIE_CHILDRENSDAY_ARMOR2_DESCRIPTION_HEADER]
-童装打扮的铁桶僵尸
+Fass-Zombie in Kinderkleidung
 
 [ZOMBIE_CHILDRENSDAY_FLAG]
-儿童节旗帜僵尸
+Kindertags-Flaggen-Zombie
 
 [ZOMBIE_CHILDRENSDAY_FLAG_DESCRIPTION]
-儿童节旗帜僵尸高举着手中的旗帜，引领着身后的小鬼僵尸前进，生怕他们走丢。
+Der Kindertags-Flaggen-Zombie hält die Flagge hoch in der Hand und führt die Geister-Zombies hinter sich her, aus Angst, sie könnten sich verlaufen.
 
 [ZOMBIE_CHILDRENSDAY_FLAG_DESCRIPTION_HEADER]
-童装打扮的旗帜僵尸。
+Flaggen-Zombie in Kinderkleidung.
 
 [ZOMBIE_CHILDRENSDAY_GARGANTUAR]
 儿童节巨人僵尸
@@ -57121,148 +57129,148 @@ Tages-Vergnügungspaket kaufen
 
 
 [ZOMBIE_PARKOUR]
-保安普通僵尸
+Sicherheitsbeamter, gewöhnlicher Zombie
 
 [ZOMBIE_PARKOUR_DESCRIPTION]
-当他穿上来自神秘联动的装扮时，这一刻他终于达成心愿，他不再普通了。
+Als er das Kostüm der mysteriösen Verbindung anzog, erfüllte sich sein Wunsch: Er war nicht länger gewöhnlich.
 
 [ZOMBIE_PARKOUR_DESCRIPTION_HEADER]
-保安装扮的普通僵尸。
+Ein gewöhnlicher Zombie, verkleidet als Sicherheitsbeamter.
 
 [ZOMBIE_PARKOUR_FLAG]
-保安旗帜僵尸
+Sicherheitsbeamter, Flaggenzombie
 
 [ZOMBIE_PARKOUR_FLAG_DESCRIPTION]
-当他举起手中的旗帜时，他的目标只有一个，那就是突破植物防线，吃到脑子。
+Als er die Flagge in der Hand hielt, hatte er nur ein Ziel: die Verteidigungslinie der Anlage zu durchbrechen und das Gehirn zu fressen.
 
 [ZOMBIE_PARKOUR_FLAG_DESCRIPTION_HEADER]
-手持旗帜，所有联动僵尸闻风而动。
+Mit der Flagge in der Hand bewegten sich alle Verbindungszombies auf die Nachricht hin.
 
 [ZOMBIE_PARKOUR_ARMOR1]
-保安路障僵尸
+Sicherheits-Straßensperren-Zombie
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION]
-路障僵尸路过一个大厦时，一个油漆桶突然从空中掉落，还好他的路障救了他一命，可惜新买的制服变脏了，他只能顶着一身彩色去上班
+Als der Straßensperren-Zombie an einem Gebäude vorbeikam, fiel plötzlich ein Farbeimer vom Himmel. Glücklicherweise rettete ihm die Straßensperre das Leben, doch leider wurde seine neue Uniform schmutzig, sodass er in einer bunten Uniform zur Arbeit gehen musste.
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION_HEADER]
-他的路障不知为啥多了色彩。
+Aus irgendeinem Grund hatte seine Straßensperre mehr Farben.
 
 [ZOMBIE_PARKOUR_ARMOR2]
-保安铁桶僵尸
+Sicherheits-Eimer-Zombie
 
 [ZOMBIE_PARKOUR_ARMOR2_DESCRIPTION]
-只听到“咻”的一声，半空中突然出现一个三色的方形盒子，一言不合就把他的铁桶顶飞并且扣在他的头上，现在他得顶着奇怪的箱子，去寻找属于他的铁桶。
+Mit einem „Wusch“-Geräusch erschien plötzlich eine dreifarbige quadratische Kiste in der Luft und stieß wortlos seinen Eimer weg und setzte ihn ihm auf den Kopf. Nun muss er die seltsame Kiste tragen, um seinen Eimer zu finden.
 
 [ZOMBIE_PARKOUR_ARMOR2_DESCRIPTION_HEADER]
-他的铁桶与众不同。
+Sein Eiseneimer ist anders als die anderen.
 
 [ZOMBIE_PARKOUR_GARGANTUAR]
-保安巨人僵尸
+Sicherheits Gargantuarzombie
 
 [ZOMBIE_PARKOUR_GARGANTUAR_DESCRIPTION]
-今天是他升职的第一天，现在他只想早点下班，买一双新皮鞋来庆祝他的升职。
+Heute ist der erste Tag seiner Beförderung. Er möchte einfach nur früher Feierabend machen und sich zur Feier des Tages neue Lederschuhe kaufen.
 
 [ZOMBIE_PARKOUR_GARGANTUAR_DESCRIPTION_HEADER]
-荣升保安队长的巨人僵尸。
+Gargantuar Zombie zum Sicherheitskapitän befördert.
 
 [ZOMBIE_PARKOUR_IMP]
-保安小鬼僵尸
+Sicherheitsbeamter Wicht
 
 [ZOMBIE_PARKOUR_IMP_DESCRIPTION]
-当小鬼僵尸穿上这身装扮之后，嗅觉瞬间被放大百倍，现在他的眼里全是美味的脑子。
+Wenn der Wicht dieses Outfit anzieht, wird sein Geruchssinn sofort hundertfach verstärkt. Jetzt sieht er nur noch köstliche Gehirne.
 
 [ZOMBIE_PARKOUR_IMP_DESCRIPTION_HEADER]
-这一刻，他化身神探，汪汪汪。
+In diesem Moment verwandelte er sich in einen Detektiv, wau wau wau.
 
 [ZOMBIE_PARKOUR_RUNNER]
-街头跑酷僵尸
+Street-Parkour-Zombie
 
 [ZOMBIE_PARKOUR_RUNNER_DESCRIPTION]
-这是一个特立独行的僵尸，他特意遮住他的下半脸，因为他觉得这样很酷。他每天都在练习跑酷，就是希望有一天能翻越高坚果。
+Das ist ein einzigartiger Zombie. Er bedeckt absichtlich seine untere Gesichtshälfte, weil er das cool findet. Er trainiert jeden Tag Parkour, in der Hoffnung, eines Tages über eine hohe Nuss zu klettern.
 
 [ZOMBIE_PARKOUR_RUNNER_DESCRIPTION_HEADER]
-一个酷字贯穿一生
+Springt über Pflanzen.
 
 [ZOMBIE_NEEDFORSPEED]
-竞速普通僵尸
+Normaler Rennzombie
 
 [ZOMBIE_NEEDFORSPEED_DESCRIPTION]
-普通僵尸摸了摸身上的汽车，穿上它感觉速度倍增。
+Ein normaler Zombie berührte das Auto an seinem Körper und spürte, dass er damit doppelt so schnell war.
 
 [ZOMBIE_NEEDFORSPEED_DESCRIPTION_HEADER]
-一身竞速搭配的普通僵尸
+Normaler Zombie im Rennoutfit
 
 [ZOMBIE_NEEDFORSPEED_ARMOR2]
-竞速铁桶僵尸
+Renn-Fass-Zombie
 
 [ZOMBIE_NEEDFORSPEED_ARMOR2_DESCRIPTION]
-果然赛车竞速就应该头戴安全帽，铁桶僵尸默默扶正了他的铁桶。
+Rennwagen sollten natürlich Helme tragen. Der Fass-Zombie richtete sein Fass lautlos auf.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR2_DESCRIPTION_HEADER]
-他希望把铁桶牢牢的固定在头上
+Er hofft, den Eiseneimer fest auf seinem Kopf befestigen zu können.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1]
-竞速路障僵尸
+Straßensperren-Zombie
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1_DESCRIPTION]
-马上上班迟到的他，在路边看到了一个雪糕筒，他试着戴在头上正好合适。
+Er war kurz davor, zu spät zur Arbeit zu kommen, als er am Straßenrand eine Eistüte sah. Er versuchte, sie aufzusetzen, und sie passte perfekt.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1_DESCRIPTION_HEADER]
-找到新玩具的路障僵尸
+Straßensperren-Zombie hat ein neues Spielzeug gefunden.
 
 [ZOMBIE_NEEDFORSPEED_FLAG]
-竞速旗帜僵尸
+Rennflaggen-Zombie
 
 [ZOMBIE_NEEDFORSPEED_FLAG_DESCRIPTION]
-今天的旗帜格外的轻盈，旗帜所指就是终点。
+Die heutige Flagge ist besonders leicht und zeigt zur Ziellinie.
 
 [ZOMBIE_NEEDFORSPEED_FLAG_DESCRIPTION_HEADER]
-手中的旗帜就是竞速的风向标
+Die Flagge in seiner Hand ist die Wetterfahne des Rennens.
 
 [ZOMBIE_NEEDFORSPEED_GARGANTUAR]
-街头巨人僵尸
+Straßen-Gargantuar-Zombie
 
 [ZOMBIE_NEEDFORSPEED_GARGANTUAR_DESCRIPTION]
-一身运动劲装服饰，今天的他格外的运动，挥动武器的速度也快了一些
+Er trägt Sportkleidung. Heute ist er besonders aktiv und schwingt seine Waffe schneller.
 
 [ZOMBIE_NEEDFORSPEED_GARGANTUAR_DESCRIPTION_HEADER]
-今日运动量达标
+Das heutige Trainingsvolumen hat das Ziel erreicht.
 
 [ZOMBIE_NEEDFORSPEED_IMP]
-街头小鬼僵尸
+Straßen-Wicht-Zombie
 
 [ZOMBIE_NEEDFORSPEED_IMP_DESCRIPTION]
-兜帽一戴，街头起范，今天的小鬼格外帅气
+Mit der Kapuze im Streetstyle sieht der Junge von heute besonders gut aus.
 
 [ZOMBIE_NEEDFORSPEED_IMP_DESCRIPTION_HEADER]
-他时刻认为自己是六人众中最帅的一个
+Er hält sich immer für den Schönsten unter den Sechs.
 
 [ZOMBIE_ZOMBIE_VAN]
-飞驰巨兽
+Fliegendes Ungetüm
 
 [ZOMBIE_ZOMBIE_VAN_DESCRIPTION]
-驾驶着僵尸博士研究的新式卡车巨兽，他可以上下左右随便漂移
+Mit dem neuen, von Dr. Zombie erforschten Truck-Ungetüm kann er auf und ab, nach links und rechts driften.
 
 [ZOMBIE_ZOMBIE_VAN_DESCRIPTION_HEADER]
-这位僵尸女士能否邀请你去兜风
+Ladet dich diese Zombie-Lady zu einer Fahrt ein?
 
 [ZOMBIE_NEUROPATHY]
-玩偶匣僵尸
+Spielzeugkisten-Zombie
 
 [ZOMBIE_NEUROPATHY_DESCRIPTION]
-玩偶匣僵尸终于不再颤抖，但这并不意味着他的疯病好了，而是代表他疯的更彻底。
+Der Spielzeugkisten-Zombie hat endlich aufgehört zu zittern. Das bedeutet aber nicht, dass sein Wahnsinn geheilt ist, sondern dass er noch verrückter ist.
 
 [ZOMBIE_NEUROPATHY_DESCRIPTION_HEADER]
-彻底疯狂
+Explodiert nach einer kurzen Weile
 
 [ZOMBIE_PVZ1_BUNGEE]
-蹦极僵尸
+Bungee-Zombie
 
 [ZOMBIE_PVZ1_BUNGEE_DESCRIPTION]
-蹦极僵尸最爱冒险。毕竟，如果你不再活着，那再体验次死亡又有何妨呢
+Bungee-Zombies lieben Abenteuer. Denn wenn man nicht mehr lebt, warum nicht noch einmal sterben?
 
 [ZOMBIE_PVZ1_BUNGEE_DESCRIPTION_HEADER]
-从天而降
+Vom Himmel fallen und Pflanzen klauen
 
 [ZOMBIE_CATAPULT]
 Katapult Zombie
@@ -75114,89 +75122,95 @@ Beschreibung
 7.完成个人任务挑战，获取更多积分兑换奖励！（个人任务代币仅可自己领取，队友不共享奖励）
 
 [ZOMBIE_DARK_KING_ELITE]
-精英国王僵尸
+Elite-König-Zombie
+
 [ZOMBIE_DARK_KING_ELITE_DESCRIPTION_HEADER]
-精英国王僵尸具备韧性条机制，物理属性攻击可削减其韧性（眩晕效果可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-König-Zombie verfügt über einen Zähigkeitsbalken. Physische Angriffe können seine Zähigkeit verringern (Betäubungseffekte können sie stark reduzieren). Das Leeren des Zähigkeitsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Zähigkeitsbalken wiederhergestellt ist. Sobald der Zombie Zähigkeitswerte hat, kann er Schaden begrenzen.
+
 [ZOMBIE_DARK_KING_ELITE_DESCRIPTION]
-在那个由愚蠢统治着的黑暗时代，一代代僵尸们努力奋斗，终于发现了利用重重的黄金压晕他们的君主，从而帮助君主长眠的好方法。这个伟大的新时代被僵史学家称为黄金时代。
+In diesem dunklen Zeitalter der Dummheit arbeiteten Generationen von Zombies hart und fanden schließlich eine Methode, ihre Monarchen mit schwerem Gold zu betäuben und ihnen beim Schlafen zu helfen. Diese großartige neue Ära wird von Zombiehistorikern das Goldene Zeitalter genannt.
 
 [ZOMBIE_DARK_WIZARD_ELITE]
-精英魔法师僵尸
+Elite-Zauberer-Zombie
+
 [ZOMBIE_DARK_WIZARD_ELITE_DESCRIPTION_HEADER]
-精英魔法师僵尸具备韧性条机制，物理属性攻击可削减其韧性（眩晕效果可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Zauberer-Zombie verfügt über einen Widerstandsbalken. Physische Angriffe können seine Widerstandskraft verringern (Betäubungseffekte können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Widerstandsbalken wieder aufgefüllt ist, kann er Schaden begrenzen.
+
 [ZOMBIE_DARK_WIZARD_ELITE_DESCRIPTION]
-在某一次魔法师大会上，一个见多识广的魔法师僵尸提出，魔法书可以用来垫桌角。这震惊了在场的所有僵尸。
-从此以后，成功学会这项高新技术的都成为了魔法师僵尸中的精英。
+Auf einer Zaubererkonferenz schlug ein gut informierter Zauberer-Zombie vor, Zauberbücher als Polster für die Tischecken zu verwenden. Dies schockierte alle anwesenden Zombies.
+Von da an wurden diejenigen, die diese Hightech-Technologie erfolgreich erlernten, zur Elite der Zauberer-Zombies.
 
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3]
-精英魔镜皇后僵尸
+Elite-Spiegelkönigin-Zombie
+
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION_HEADER]
-精英魔镜皇后僵尸具备韧性条机制，物理属性攻击可削减其韧性（眩晕效果可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Die Elite-Spiegelkönigin verfügt über einen Widerstandsbalken. Physische Angriffe können ihre Widerstandskraft verringern (Betäubungseffekte können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
+
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION]
-魔镜皇后僵尸每天花大量的时间沉醉在魔镜中的自己。她幻想魔镜中的自己比现在更强大，更美丽。某一天，魔镜终于回应了皇后的愿望。
+Die Elite-Spiegelkönigin verbringt täglich viel Zeit damit, sich im Zauberspiegel zu vergnügen. Sie stellt sich vor, dass ihr Selbst im Spiegel stärker und schöner ist als sie selbst. Eines Tages erhörte der Zauberspiegel endlich den Wunsch der Königin.
 
 [NIGHTTHETOY_TIP]
-电池商店
+Batterieladen
 
 [NIGHTTHETOY_SHOP]
-电池商店
+Batterieladen
 
 [NIGHTTHETOY_TASK]
-活动任务
+Aktivitätsaufgabe
 
 [NIGHTTHETOY_GACHA]
-抽取记录
+Ziehungsrekord
 
 [NIGHTTHETOY_TIP_FAILED]
-奖券数量不足
+Nicht genügend Tickets
 
 [NIGHTTHETOY_GUARANTEE]
-再抽取 {NUMS} 次必得大奖
+Ziehe {NUMS} Mal mehr, um den Hauptpreis zu gewinnen.
 
 [NIGHT_THE_TOY_REWARD_PLAYER_WITH_ITEMCOUNT_DESC]
-^FFFF00 {NAME} ^oldclr 抽取了 ^0775F7 {ITEM} ^oldclr x {NUMS} 
+^FFFF00 {NAME} ^oldclr zog ^0775F7 {ITEM} ^oldclr x {NUMS} 
 
 [NIGHT_THE_TOY_REWARD_PLAYER_DESC]
-^FFFF00 {NAME} ^oldclr 抽取了 ^0000FF {ITEM} ^oldclr
+^FFFF00 {NAME} ^oldclr zog ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-高压地带
+Hochdruckzone
 
 [TOYNIGHT_TITLE]
-高压地带
+Hochdruckzone
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-初级高压礼包
+Hochdruck-Geschenkpaket (Primär)
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-中级高压礼包
+Hochdruck-Geschenkpaket (Mittelstufe)
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-高级高压礼包
+Hochdruck-Geschenkpaket (Fortgeschrittene)
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
-初级限购礼包
+Primär-Geschenkpaket (Limitierte Bestellung)
 
 [PRODUCT_TOY_NIGHT_198_SHORTDESC]
-高级限购礼包
+Premium-Geschenkpaket (Limitierte Bestellung)
 
 [TOYNIGHT_TASK_1]
-首次进入活动
+Nehmen Sie zum ersten Mal am Event teil.
 
 [TOYNIGHT_TASK_2]
-获得山竹超级装扮
+Holen Sie sich das Mangostan-Superkostüm.
 
 [TOYNIGHT_TASK_3]
-获得本期活动中山竹4个装扮
+Holen Sie sich 4 Mangostan-Kostüme in diesem Event
 
 [MAT_TOY_PARTS]
-临界电池
+Kritische Batterie
 
 [MAT_TOY_PARTS_USE]
-在高压地带活动电池商店中兑换奖励
+Während des Hochspannungszonen-Events im Batterieladen gegen Belohnungen eintauschen.
 
 [MAT_TOY_PARTS_GOT_WAY]
-在高压地带活动中通过抽取获得
+Während des Hochspannungszonen-Events die Ziehung abschließen.
 
 [MAT_TOY_CLOCKWORK]
 Hochspannungsbatterie
@@ -75388,7 +75402,7 @@ Verursache in 30 Sekunden so viel Schaden wie möglich.
 Jingle Bells
 
 [GINGLEBELL_TASKDESCRIPTION]
-Füge dem Riesenzombie im letzten Level {NUMBER} Schaden zu.
+Füge dem Gargantuar im letzten Level {NUMBER} Schaden zu.
 
 [A_PILE_SNOWMEN1_TITLE]
 Flammentraining – Level 1
@@ -76368,6 +76382,7 @@ x{NUMS}完成
 从响叮当活动、每月签到和问卷调查获得
 
 [ZOMBIE_JOURNEY_TO_THE_WEST]
+Ein Zombie aus „Reise in den Westen“
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
 Ein Zombie im Stil von „Reise in den Westen“.
@@ -76426,13 +76441,13 @@ Linienumbruch: Bewegt sich an das Ende anderer Linien und bewegt sich in regelm�
 ^573701^ Nach speziellem Training kann er immun gegen Kontrolle, Deformation und sofortige Tötung sein.^oldclr^
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-Hammerriesen-Zombie
+Hammer-Gargantuar-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
 Zerschmettert Pflanzen mit einem schweren Hammer.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-Mit seiner enormen Stärke und unvergleichlichen Kraft ist er der König auf dem Schlachtfeld. Die legendäre Geschichte des Hammerriesen bedarf keiner weiteren Erklärung.
+Mit seiner enormen Stärke und unvergleichlichen Kraft ist er der König auf dem Schlachtfeld. Die legendäre Geschichte des Hammer Gargantuar's bedarf keiner weiteren Erklärung.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
 Eisentopf-Zombie
@@ -76459,7 +76474,7 @@ Kongming-Laternen-Zombie
 Kongming-Laternen tragen Zombies über Hindernisse und Bodenverteidigungen.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION]
-Der Kongming-Laternen-Zombie erscheint, nachdem die Kongming-Laterne in den Himmel aufgestiegen und verglüht ist.
+Der Kongming-Laternen-Zombie erscheint, nachdem die Kongming-Laterne in den Himmel aufsteigt und verglüht.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT]
 Katapult-Zombie
@@ -76471,10 +76486,10 @@ Wirft Steine auf deine Pflanzen.
 Der Katapult-Zombie arbeitet fleißig hinter den Kulissen, um die „Zauberkünste“ anderer zu unterstützen.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN]
-Schießpulver-Kobold-Zombie
+Schießpulver-Wicht-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION_HEADER]
-Ein übereifriger Kobold, der eine Bombe, die er trägt, zünden und so einer einzelnen Pflanze tödlichen Schaden zufügen kann.
+Ein übereifriger Wicht, der eine Bombe, die er trägt, zünden und so einer einzelnen Pflanze tödlichen Schaden zufügen kann.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION]
 „Sag den verrückten kleinen Fans, die Selbstzerstörung lieben, dass nicht nur das Schießpulver von hier kommt, sondern auch die Selbstzerstörung von hier verbreitet wird!“ – „Zombie Minus 3,5 großartige Erfindungen“
