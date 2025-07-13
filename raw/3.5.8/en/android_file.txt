@@ -824,7 +824,7 @@ Wehblatt
 {KEYWORD}Verwendung: {STAT}Einmalige Anwendung, sofort wirksam
 {KEYWORD}Funktionen: {STAT}Puste alle fliegenden Zombies auf dem Bildschirm weg
 {KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanzen
-{FLAVOR}Als glücklichster Glücksklee aller Zeiten ist das Wehblatt auch aktueller Preisträger des renommierten Stunt-Awards. Es ist zu bewundern in \"Allein unter Wurzeln\", \"Das Grünzeug schlägt zurück\" und \"Findet Blume\". Außerdem leitet es immer dienstags einen Stuntkurs im Gemeindezentrum.
+{FLAVOR}Als glücklichster Glücksklee aller Zeiten ist das Wehblatt auch aktueller Preisträger des renommierten Stunt-Awards. Es ist zu bewundern in "Allein unter Wurzeln", "Das Grünzeug schlägt zurück" und "Findet Blume". Außerdem leitet es immer dienstags einen Stuntkurs im Gemeindezentrum.
 
 [BLOVER_DESCRIPTION_HEADER]
 Wehblätter pusten alle Zombies in der Luft fort.
@@ -74158,7 +74158,7 @@ Ruinen-Gargantuar-zombie
 Der Legende nach riss ein gewaltiger Gargantuar eine Steinsäule um und verursachte eine Flut, die das wunderschöne Königreich untergehen ließ. Es gibt auch eine Legende, dass es für bestimmte Gruppen erschwingliche Flugerlebnisse unter dem Meer gibt. Ruinen-Gargantuar-Zombie wird dir sagen, welche Legende wahr ist.
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION_HEADER]
-ZerschmettertPflanzen und wirft einen Wicht.
+Zerschmettert Pflanzen und wirft einen Wicht.
 
 [ZOMBIE_ATLANTIS_imp]
 Ruinen-Wicht-Zombie
@@ -76368,195 +76368,173 @@ x{NUMS}完成
 从响叮当活动、每月签到和问卷调查获得
 
 [ZOMBIE_JOURNEY_TO_THE_WEST]
-西游基础僵尸
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
-普通的西游主题僵尸。
+Ein Zombie im Stil von „Reise in den Westen“.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
-西游普通僵尸一路向西，翻越十万八千里，历经九九八十一难，寻求属于他的脑子。
+Ein Zombie aus „Reise in den Westen“ reist nach Westen, legt 174.000 Kilometer zurück und durchläuft 81 Prüfungen auf der Suche nach seinem Gehirn.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1]
-西游路障僵尸
+Ein Zombie mit Straßensperre aus „Reise in den Westen“
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION_HEADER]
-他的竹篓路障让他比普通僵尸强壮两倍。
+Seine Bambus-Straßensperre macht ihn doppelt so stark wie einen normalen Zombie.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION]
-有人告诉西游路障僵尸应该阻挡往西边走的师徒，所以他成了西游路障僵尸。不过西游路上的路障材质似乎不太结实。
+Jemand beauftragte den Zombie der Reise in den Westen, Meister und Lehrling daran zu hindern, nach Westen zu reisen. So wurde er zum Zombie der Reise in den Westen. Das Material der Straßensperre auf der Reise in den Westen scheint jedoch nicht sehr robust zu sein.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2]
-西游铁瓷杯僵尸
+Zombie der Reise in den Westen: Eiserner Porzellanbecher
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
-他的铁瓷杯头盔能极大程度地承受伤害。
+Sein Helm aus eisernem Porzellanbecher ist äußerst widerstandsfähig.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
-《磁铁经》里记载了磁铁的制造工艺。可惜经书前面一半泡了水，所以僵尸们只发明出了“瓷”铁。
+Der Herstellungsprozess von Magneten ist im „Magnet-Sutra“ beschrieben. Leider wurde die erste Hälfte des Sutra in Wasser eingeweicht, sodass die Zombies nur das „Porzellan“-Eisen erfanden.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG]
-西游旗子僵尸
+Reise in den Westen Flaggenzombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION_HEADER]
-举着旗子的西游僵尸，通常意味着一大波僵尸的来临。
+Ein Reise in den Westen Zombie mit einer Flagge deutet meist auf eine große Zombiewelle hin.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
-地府房地产经济被旅游业打压得濒临崩溃，大量僵尸都尝试通过乱改生死簿的方式离开地府，从而享受西游旗子僵尸最近推出的八折优惠。
+Die Immobilienwirtschaft der Unterwelt steht aufgrund der Tourismusbranche kurz vor dem Zusammenbruch. Zahlreiche Zombies versuchen, die Unterwelt zu verlassen, indem sie das Buch von Leben und Tod ändern, um vom kürzlich eingeführten 20%-Rabatt des Reise in den Westen Flaggenzombies zu profitieren.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER]
-土地公僵尸
+Landgott-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION_HEADER]
-这种僵尸通过挖隧道来穿过你的防御。
+Dieser Zombie gräbt Tunnel, um deine Verteidigung zu durchbrechen.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION]
-土地公僵尸最近迷上了特工电影，渴望能在村口的“情报”工作中贡献出自己的力量。
+Der Landherr-Zombie ist seit Kurzem von Spionagefilmen besessen und möchte seine Kräfte unbedingt bei der Geheimdienstarbeit am Dorfeingang einsetzen.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY]
-红孩儿僵尸
+Roter Junge-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION_HEADER]
-红孩儿是镇守号山的圣婴大亡，神通广大，口吐三昧真火。不过作为一个僵尸，实在不适合坐什么莲花宝座。
+Roter Junge ist das Heilige Kind, das den Haoshan-Berg bewacht. Er verfügt über große magische Kräfte und spuckt Samadhi-Wahres Feuer. Als Zombie ist er jedoch nicht für einen Lotusthron geeignet.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION]
-火焰弹：每隔一段时间发射4颗火焰弹，对植物造成高额伤害。
-三味真火：发射三味真火，延直线移动并烧毁所有遇到的植物，可被冰冻生菜的大招熄灭。
-位移换行：每隔一段时间，移动至其他行末尾并行进。
+Flammenbombe: Feuert in regelmäßigen Abständen 4 Flammenbomben ab und verursacht hohen Pflanzenschaden.
+Samadhi True Fire: Feuert Samadhi True Fire ab, bewegt sich geradlinig und verbrennt alle Pflanzen, die ihm begegnen. Die Aktion kann durch den ultimativen Angriff von Frozen Lettuce gelöscht werden.
+Linienumbruch: Bewegt sich an das Ende anderer Linien und bewegt sich in regelmäßigen Abständen vorwärts.
 
 [ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_RED_BOY]
-^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+^573701^ Nach speziellem Training kann er immun gegen Kontrolle, Deformation und sofortige Tötung sein.^oldclr^
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-重锤巨人僵尸
+Hammerriesen-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
-使用重锤粉碎植物
+Zerschmettert Pflanzen mit einem schweren Hammer.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-气拔山兮，力盖世，战场上的王者。重锤巨人的传奇故事已无需多言。
+Mit seiner enormen Stärke und unvergleichlichen Kraft ist er der König auf dem Schlachtfeld. Die legendäre Geschichte des Hammerriesen bedarf keiner weiteren Erklärung.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
-铁锅僵尸
+Eisentopf-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION_HEADER]
-有时候他藏着一个收来的铁锅当护甲。
+Manchmal versteckt er einen gesammelten Eisentopf als Rüstung.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION]
-西部片里常见的剧情。往西走的片好像也算西部片，没啥问题。
+Eine gängige Handlung in Westernfilmen. Filme über die Reise in den Westen gelten offenbar als Western, kein Problem.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR]
-元帅明星僵尸
+Marshal-Star-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
-一位全身包裹铠甲冲击你防线的僵尸。
+Ein Zombie in Rüstung, der deine Verteidigung angreift.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
-元帅明星僵尸近期战斗中的每一次失败都被天庭实况转播，观众对他的支持率下降到了负110％。
+Jede Niederlage von Marshal Star Zombie in den letzten Schlachten wurde live im Himmel übertragen, und die Zuschauerzustimmung sank auf minus 110 %.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON]
-孔明灯僵尸
+Kongming-Laternen-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION_HEADER]
-孔明灯会带着僵尸越过障碍及地面防御物。
+Kongming-Laternen tragen Zombies über Hindernisse und Bodenverteidigungen.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION]
-放出的孔明灯飞向天空燃烧殆尽后，孔明灯僵尸便出现了。
+Der Kongming-Laternen-Zombie erscheint, nachdem die Kongming-Laterne in den Himmel aufgestiegen und verglüht ist.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT]
-投石车僵尸
+Katapult-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION_HEADER]
-对你的植物投掷石块
+Wirft Steine auf deine Pflanzen.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION]
-投石车僵尸一直在幕后兢兢业业的为他人的“仙术”做贡献。
+Der Katapult-Zombie arbeitet fleißig hinter den Kulissen, um die „Zauberkünste“ anderer zu unterstützen.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN]
-火药小鬼僵尸
+Schießpulver-Kobold-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION_HEADER]
-一个太过狂热的小鬼，能引爆扛着的炸弹，对单格植物造成致命伤害。
+Ein übereifriger Kobold, der eine Bombe, die er trägt, zünden und so einer einzelnen Pflanze tödlichen Schaden zufügen kann.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION]
-“告诉那些热爱自爆的疯狂小粉丝们，不仅火药来自这里，自爆这一津津乐道的行为也是从这里传出去的！”——《僵尸负三点五大发明》
+„Sag den verrückten kleinen Fans, die Selbstzerstörung lieben, dass nicht nur das Schießpulver von hier kommt, sondern auch die Selbstzerstörung von hier verbreitet wird!“ – „Zombie Minus 3,5 großartige Erfindungen“
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT]
-鱼叉小妖僵尸
+Harpunen-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION_HEADER]
-是个远距离对植物造成伤害的僵尸。
+Er ist ein Zombie, der Pflanzen aus der Ferne Schaden zufügt.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION]
-鱼叉小妖每天反复练习投掷三叉戟，为的就是在毛脸雷公打进来的时候快速卸甲跑路。
+Harpunen-Zombie übt täglich das Werfen von Dreizacken, damit er seine Rüstung schnell ablegen und weglaufen kann, wenn der haarige Donnergott angreift.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI]
-黄眉大亡
+Huangmei Dawang
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION_HEADER]
-黄眉爷爷，黄眉大亡。设像显能，与汝赌赛。谁曾言“强者为尊该让我，英雄只此敢争先”？然合当如此？此间之瓜，击颅则痛剧。
+Großvater Huangmei, Huangmei Dawang. Ich werde mein Können zeigen und mit dir konkurrieren. Wer hat gesagt: „Die Starken sollten respektiert werden, und Helden sollten die Ersten sein“? Stimmt das? Die Melone hier wird dir am Kopf wehtun.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION]
-腾云驾雾：腾云状态下，黄眉大亡不会受到攻击，直至落地。
-召唤僵尸：挥动狼牙棒，召唤大量西游僵尸进攻。
-人种袋：投掷人种袋，吸取整行所有植物，可用灰烬破坏。
-金钵：投掷金钵，砸扁 2x2 范围内的所有植物。
-位移换行：不会往前走，每隔一段时间移动至其他行。
+In den Wolken fliegen: Wenn Huangmei Dawang in den Wolken fliegt, wird er erst angegriffen, wenn er zu Boden fällt.
+Zombies beschwören: Schwinge die Keule, um eine große Anzahl von Zombies aus „Reise in den Westen“ zum Angriff herbeizurufen.
+Menschensack: Wirf den Menschensack, um alle Pflanzen in der Reihe zu absorbieren und sie mit Asche zu zerstören.
+Goldene Schale: Wirf die goldene Schale, um alle Pflanzen in einem 2x2-Bereich zu zerquetschen.
+Verschiebungslinienumbruch: Bewegt sich nicht vorwärts, sondern wechselt in regelmäßigen Abständen zu anderen Linien.
 
 [ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_HUANGMEI]
-^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+^573701^Nach speziellem Training kannst du immun gegen Kontrolle, Deformation und sofortige Tötung sein^oldclr^
 
 [ADVERTISEMENT_HEAD_ID_25696]
-时间加速
+Zeitbeschleunigung
 
 [ADVERTISEMENT_HEAD_DES_ID_25696]
-购买终身免广告卡获得
+Kaufe eine lebenslang werbefreie Karte, um Folgendes zu erhalten:
 
 [HARVEST_BATTLE_HEAD_ID_25692]
-玉龙太子
+Prinz Yulong
 
 [HARVEST_BATTLE_HEAD_DES_ID_25692]
-在农场大作战活动中，通过超级玉米兑换
+Im Farmkampf-Event kannst du Supermais eintauschen.
 
-[TIANGONG_HEAD_ID_25698]
-金银大王
+[TIANGO NG_HEAD_ID_25698]
+Gold- und Silberkönig
 
 [HARVEST_BATTLE_HEAD_ID_25699]
-登峰造极
+Erreiche den Gipfel
 
 [HARVEST_BATTLE_HEAD_DES_ID_25699]
-在农场大作战活动中，通过超级玉米兑换
+Im Farmkampf-Event kannst du Supermais eintauschen.
 
 [TIANGONG_HEAD_ID_25712]
-DJ芦荟
+DJ Aloe
 
 [TIANGONG_HEAD_DES_ID_25698]
-在天宫寻宝活动中，累积抽取阶段奖励获取
+Sammle im Tiangong-Schatzjagd-Event die Belohnungen in der Extraktionsphase.
 
 [PVP_ERROR_76030]
-检测到道具作弊
+Gegenstandsbetrug erkannt.
 
 [ZOMBOSS_QIGONG_CURE_WARNING]
-下个金钟罩充能还剩{NUM}秒
+Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]
-
-
-
-
-
-
-
-
-
-
-_END]
-
-
-
-
-
-
-
-
-
-
