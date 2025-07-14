@@ -37018,17 +37018,19 @@ Mehrjährige, sukkulente Pflanze.
 Die Pflanze ist klein, hat rosettenförmige Blätter, dickes Fruchtfleisch und eine transparente oder durchscheinende Spitze, die ein „Fenster“ bildet, wie ein Tautropfen auf Jade – daher der Name. Dieses „Fenster“ ist nicht nur hübsch anzusehen, sondern auch eine magische Waffe, um Dürre zu überstehen. In der Trockenzeit zieht sich die Pflanze größtenteils in den Boden zurück, um die Wasserverdunstung zu reduzieren. Das Sonnenlicht fällt durch das „Fenster“ in das innere Gewebe und ermöglicht so die Photosynthese. Der Blütenstand ist traubenförmig, die Blüten sind klein (ca. 5 mm Durchmesser), sechsblättrig, weiß oder hellrosa; die Frucht ist oval und enthält kleine schwarze Samen. Die Blütezeit ist von März bis Mai, die Fruchtzeit von Juni bis August.
 Bauhinia stammt ursprünglich aus Südafrika und wird heute weltweit als Topfpflanze in vielen Sorten kultiviert. Sie bevorzugt einen kühlen, halbschattigen Standort, verträgt Trockenheit gut und fürchtet Staunässe. Die Vermehrung erfolgt meist durch Blattstecklinge und Teilung.
 
-
 [PAPHIOPEDILUM_FAMILY]
-兰科
+Orchidaceae
 [PAPHIOPEDILUM_GENUS]
-兜兰属
+Venusschuh
 [PAPHIOPEDILUM_PEDIA]
-兜兰——植物界的“拖鞋公主”
-    多年生草本植物。株高15-60厘米；叶长圆形排成2列，茎短而包藏于叶基内；多单花顶生，花色丰富；果实为蒴果，种子细小。花期多为春季，果期多为春夏之间。
-    兜兰属的植物的统称，因其下部花瓣特化成兜状而得名，又因形似包头拖鞋而名“拖鞋兰”。其可爱的“兜”其实是个巧妙的陷阱。当花盛开时，昆虫受吸引而来，一不小心就会掉入“兜”中，而其内壁光滑，只有一条通往花蕊的路可以攀爬，就这样昆虫在逃生过程中不知不觉地帮助兜兰完成了传粉。
-    主要分布在亚洲的热带地区至太平洋岛屿，约110种，多附生于树干或岩石上；我国分布有39个，均为国家重点保护植物。其花秀雅深受人们喜爱，培育的园艺品种已超过2万个。
-    花语：美人、勤俭
+Venusschuh – die „Pantoffelprinzessin“ der Pflanzenwelt
+Mehrjährige Pflanze. Wuchshöhe 15–60 cm; längliche Blätter in zwei Reihen angeordnet, kurze, im Blattgrund verborgene Stiele; Einzelblüten meist endständig und kräftig gefärbt; die Frucht ist eine Kapsel mit kleinen Samen. Die Blütezeit liegt meist im Frühjahr, die Fruchtzeit meist zwischen Frühling und Sommer.
+
+Eine allgemeine Bezeichnung für Pflanzen der Gattung Venusschuh. Der Name kommt von den taschenförmigen unteren Blütenblättern. Auch „Pantoffelorchidee“ wird genannt, da sie wie ein Pantoffel mit ausgestopfter Zehe aussieht. Ihre niedliche „Tasche“ ist eine raffinierte Falle. Wenn die Blüte blüht, werden Insekten angelockt und fallen in die „Tasche“, wenn sie nicht aufpassen. Die Innenwand ist glatt, und es gibt nur einen Weg zum Staubblatt. Auf diese Weise helfen Insekten dem Paphiopedilum unwissentlich bei der vollständigen Bestäubung während des Fluchtprozesses.
+
+Die Pflanze ist hauptsächlich in tropischen Gebieten Asiens und auf pazifischen Inseln verbreitet. Es gibt etwa 110 Arten, die meisten wachsen auf Baumstämmen oder Felsen. In China sind 39 Arten verbreitet, die alle unter nationalem Naturschutz stehen. Die eleganten Blüten erfreuen sich großer Beliebtheit, und über 20.000 Gartenbausorten wurden kultiviert.
+
+Blumensprache: Schönheit, Fleiß
 
 
 [WIREGELSEMIUM_FAMILY]
@@ -40749,137 +40751,145 @@ Bläht eine riesige Blase, die in viele Blasen zerplatzt.
 Die Spezialdünger Fähigkeit erzeugt mehr Blasen.
 
 [PAPHIOPEDILUM]
-百宝兜兰
+Venusschuh
 
 [PAPHIOPEDILUM_DESCRIPTION]
-{KEYWORD}范围：{STAT}单行
-{KEYWORD}特点：{STAT}扔出随机道具
-{KEYWORD}植物特征：{STAT}粉色植物
-{FLAVOR}谁都不知道百宝兜兰的口袋有多能装，激光豆的竹蜻蜓、土豆地雷的眼罩……大家总是对口袋里的下一个“惊喜”充满了期待，说不定啥时候还能变个传送门出来。甚至僵尸都罕见地对百宝兜兰作出了正面评价，至少零食挺好吃的
+{KEYWORD}Reichweite: {STAT}Einzelne Zeile
+{KEYWORD}Eigenschaften: {STAT}Wirft zufällige Gegenstände
+{KEYWORD}Pflanzeneigenschaften: {STAT}Rosa Pflanze
+{FLAVOR}Niemand weiß, wie viel in die Tasche von Venusschuh passt. Die Bambuslibelle von Laser Bean, die Augenmaske von der Kartoffelmine … Jeder freut sich immer auf die nächste „Überraschung“ in der Tasche. Vielleicht verwandelt sie sich ja irgendwann in ein Portal. Selbst Zombies äußern sich selten positiv über den Venusschuh. Zumindest sind die Snacks lecker.
 
 [PAPHIOPEDILUM_DESCRIPTION_HEADER]
-用抛投形式扔出各种道具，产生各种效果
+Wirf verschiedene Dinge, um verschiedene Effekte zu erzielen.
 
 [PAPHIOPEDILUM_TOOLTIP]
-用抛投形式扔出各种道具，产生各种效果
+Wirf verschiedene Dinge mit verschiedenen Effekten
 
 [PAPHIOPEDILUM_PRODUCT_SHORT_DESC]
-用抛投形式扔出各种道具，产生各种效果
+Wirf verschiedene Requisiten, um verschiedene Effekte zu erzielen.
 
 [PAPHIOPEDILUM_SKILL_LEVEL1]
-再来一个
+Noch eine
 
 [PAPHIOPEDILUM_SKILL_LEVEL1_DES]
-有10%的概率可以连续丢出2个随机道具
+Es besteht eine 10%ige Chance, zwei zufällige Requisiten hintereinander zu werfen.
 
-[PAPHIOPEDILUM_SKILL_LEVEL2]
-再来两个
+[PAPHIO PEDILUM_SKILL_LEVEL2]
+Zwei weitere
 
 [PAPHIOPEDILUM_SKILL_LEVEL2_DES]
-连续丢出2个随机道具的概率提升至20%，同时有10%的概率连续丢出3个随机道具
+Die Wahrscheinlichkeit, zwei zufällige Gegenstände hintereinander fallen zu lassen, wird auf 20 % erhöht. Es besteht eine 10%ige Chance, drei zufällige Gegenstände hintereinander fallen zu lassen. Reihe
 
 [PAPHIOPEDILUM_SKILL_LEVEL5]
-空中支援
+Luftunterstützung
 
 [PAPHIOPEDILUM_SKILL_LEVEL5_DES]
-在道具池中添加一个信标，信标落下后会在5×5范围内随机落下炸弹进行轰炸，共5发炸弹每发造成3×3的范围火焰伤害
+Fügt dem Gegenstandspool ein Leuchtfeuer hinzu. Sobald das Leuchtfeuer fällt, werden zufällig Bomben in einem Umkreis von 5×5 abgeworfen. Insgesamt 5 Bomben, jede mit 3×3 Feuerschaden.
 
 [PAPHIOPEDILUM_AVATAR_NAME]
-百宝兜兰装扮
+Paphiopedilum-Kostüm
 
 [STORE_PRODUCT_AVATAR_PAPHIOPEDILUM]
-扔出更多的道具
+Werft weitere Requisiten
 
 [STORE_PRODUCT_AVATAR_PAPHIOPEDILUM_TITLE]
-百宝兜兰装扮
+Paphiopedilum-Kostüm
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL1_DES]
-用抛投形式扔出各种道具(小零食,黄油块,铁砧,炸弹,橡胶锤)
+Wirft verschiedene Dinge (Snacks, Butter, Amboss, Bombe, Gummihammer)
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL2_DES]
-有10%的概率可以连续丢出2个随机道具
+Es besteht eine 10%ige Chance, zwei zufällige Dinge hintereinander zu werfen.
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL3_DES]
-连续丢出2个随机道具的概率提升至20%，同时有10%的概率连续丢出3个随机道具
+Die Wahrscheinlichkeit, zwei zufällige Dinge hintereinander zu werfen, erhöht sich auf 20%. 10% Wahrscheinlichkeit, 3 zufällige Requisiten hintereinander zu werfen.
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [PAPHIOPEDILUM_NEW_SKILL_LEVEL5_DES]
-在道具池中添加一个信标，信标落下后会在5×5范围内随机落下炸弹进行轰炸，共5发炸弹每发造成3×3的范围火焰伤害
+Fügt dem Gegenstandspool ein Leuchtfeuer hinzu. Sobald das Leuchtfeuer fällt, werden zufällig Bomben in einem Umkreis von 5×5 zum Bombardieren abgeworfen. Insgesamt 5 Bomben, die jeweils 3×3 Feuerschaden verursachen.
 
 [PAPHIOPEDILUM_PLANTFOOD_DESCRIPTION]
-向场上每个僵尸丢出1个随机道具，场上僵尸数量少于5个时，也会至少丢出5个道具
+Wirft jedem Zombie auf dem Feld 1 zufälliges Objekt zu. Wenn weniger als 5 Zombies auf dem Feld sind, werden mindestens 5 Objekte geworfen.
 
 [PAPHIOPEDILUM_AVATAR_PLANTFOOD_DESCRIPTION]
-扔出更多的道具
+Wirft mehr Objekte
 
+[NEW_PLANT_UI_VALUE_AVATAR_DES_TEXT_DEFAULT]
+Kein Kostümbonus
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SPLITPEA_2]
+Mehrweg-Erbsen-Rotkäppchen-Kostüm
+
+[NEW_AVATAR_DESCRIPTION_SPLITPEA_2]
+Angriffskraft um 10 % erhöht
 
 [EYWA]
-女娲蛇尾草
+Nuwa Schlangenschwanzgras
 
 [EYWA_DESCRIPTION]
-{KEYWORD}范围：{STAT}全屏
-{KEYWORD}特点：{STAT}捏出植物小人
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}出于对植物本体论的深刻认知和实践，即使在这个每天对抗僵尸的浮躁年代，女娲蛇尾草也总是主张植物同胞们要好好对待那些没有眼睛的植物，不要总是把它们扔出去对付僵尸。她对某位疯狂的大胡子发明家的情感也是独一无二的。
+{KEYWORD}Bereich: {STAT}Vollbild
+{KEYWORD}Funktionen: {STAT}Pflanzenfiguren zum Ausknipsen
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen
+{FLAVOR}Dank ihres tiefen Verständnisses und ihrer praktischen Anwendung der Pflanzenontologie plädiert Nuwa Schlangenschwanzgras selbst in dieser ungestümen Zeit des täglichen Kampfes gegen Zombies stets dafür, dass andere Pflanzen Pflanzen ohne Augen gut behandeln und sie nicht ständig wegwerfen sollten, um sich um Zombies zu kümmern. Auch ihre Gefühle für einen gewissen verrückten bärtigen Erfinder sind einzigartig.
 
 [EYWA_DESCRIPTION_HEADER]
-捏出植物小人，植物小人会自己寻找僵尸攻击
+Erstelle einen Pflanzenmenschen. Der Pflanzenmensch findet Zombies, die er angreifen kann.
 
 [EYWA_TOOLTIP]
-捏出植物小人，植物小人会自己寻找僵尸攻击
+Erstelle einen Pflanzenmenschen. Der Pflanzenmensch findet Zombies, die er angreifen kann.
 
 [EYWA_PRODUCT_SHORT_DESC]
-捏出植物小人，植物小人会自己寻找僵尸攻击
+Erstelle einen Pflanzenmenschen. Der Pflanzenmensch findet Zombies, die er angreifen kann.
 
 [EYWA_SKILL_LEVEL1]
-快速进化
+Schnelle Entwicklung
 
 [EYWA_SKILL_LEVEL1_DES]
-首次捏人会直接捏出步枪小人，所有形态植物小人升级所需攻击次数减少1次
+Wenn du einen Menschen erschaffst, wird direkt ein Schütze erschaffen. Die Anzahl der Angriffe, die zum Verbessern aller Pflanzenmenschenformen benötigt werden, wird um 1 reduziert.
 
 [EYWA_SKILL_LEVEL2]
-极速进化
+Schnelle Entwicklung
 
-[EYWA_SKILL_LEVEL2_DES]
-首次捏人会直接捏出迫击炮小人，所有形态植物小人升级所需攻击次数减少2次
+[EYWA_SKILL_LEVEL L2_DES]
+Wenn du zum ersten Mal einen Charakter erstellst, wird direkt ein Mörsermensch erschaffen. Die Anzahl der Angriffe, die zum Aufrüsten aller Fabrikpuppen benötigt werden, wird um das Zweifache reduziert.
 
 [EYWA_SKILL_LEVEL5]
-空军科技
+Luftwaffentechnologie
 
 [EYWA_SKILL_LEVEL5_DES]
-首次捏人会直接捏出坦克小人，坦克小人消失时有概率出现一架飞机，额外投下一颗核弹后再飞走，核弹有3×3的爆炸范围，对范围内的僵尸造成伤害和退化效果
+Wenn du deinen Charakter zum ersten Mal erstellst, erstellst du direkt einen Panzerfahrer. Verschwindet dieser, besteht die Chance, dass ein Flugzeug erscheint, das eine weitere Atombombe abwirft, bevor es davonfliegt. Die Atombombe hat eine Explosionsreichweite von 3×3 und verursacht bei Zombies in Reichweite Schaden und Degradationseffekte.
 
 [EYWA_AVATAR_NAME]
-女娲蛇尾草装扮
+Nuwa Schlangenschwanz-Graskostüm
 
 [STORE_PRODUCT_AVATAR_EYWA]
-额外出现一个拥有更大炸弹的小人
+Ein zusätzlicher Mann mit einer größeren Bombe erscheint.
 
-[STORE_PRODUCT_AVATAR_EYWA_TITLE]
-女娲蛇尾草装扮
+[STORE_PRODUCT_AVATA R_EYWA_TITLE]
+Nu Wa Schlangenschwanz-Graskostüm
 
 [EYWA_NEW_SKILL_LEVEL1_DES]
-捏出植物小人，植物小人会自己寻找僵尸攻击，植物小人攻击僵尸一定次数后会进化
+Erstellt einen Pflanzenmenschen. Dieser findet Zombies zum Angreifen und entwickelt sich nach einer bestimmten Anzahl von Angriffen weiter.
 
 [EYWA_NEW_SKILL_LEVEL2_DES]
-首次捏人会直接捏出步枪小人，所有形态植物小人升级所需攻击次数减少1次
+Wenn ihr einen Menschen erschafft, wird automatisch ein Schütze erschaffen. Die Anzahl der Angriffe, die zum Verbessern aller Pflanzenmenschenformen benötigt werden, verringert sich um 1.
 
 [EYWA_NEW_SKILL_LEVEL3_DES]
-首次捏人会直接捏出迫击炮小人，所有形态植物小人升级所需攻击次数减少2次
+Wenn ihr einen Menschen erschafft, wird automatisch ein Mörser erschaffen. Die Anzahl der Angriffe, die zum Verbessern aller Pflanzenmenschenformen benötigt werden, verringert sich um 1. Pflanzenmenschen werden um 2 reduziert.
 
 [EYWA_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招
+Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen Energiebohnen direkt freizusetzen. Großer Zug.
 
 [EYWA_NEW_SKILL_LEVEL5_DES]
-首次捏人会直接捏出坦克小人，坦克小人从坦克中跳出在空中消失的过程中有概率出现一架飞机接住小人，额外投下一颗核弹后再飞走，核弹有3×3的爆炸范围，对范围内的僵尸造成伤害和退化效果
+Wenn du zum ersten Mal einen Charakter erstellst, erstellst du direkt einen Panzermann. Wenn der Panzermann aus dem Panzer springt und in der Luft verschwindet, besteht die Chance, dass ein Flugzeug erscheint, den Mann auffängt, eine zusätzliche Atombombe abwirft und davonfliegt. Die Atombombe hat eine Explosionsreichweite von 3×3 und verursacht Schaden und Degradation bei Zombies in Reichweite.
 
 [EYWA_PLANTFOOD_DESCRIPTION]
-女娲草抽出藤条甩出5团泥点，泥点随机降落在前方2列的随机格子中变成炸弹小人，冲向最近的僵尸爆炸，造成3×3的范围伤害
+Das Nuwa-Gras zieht Ranken aus und wirft fünf Schlammpunkte aus. Die Schlammpunkte landen zufällig in den Zufallsfeldern der vorderen beiden Spalten und verwandeln sich in einen Bombenmann. Es stürmt auf den nächsten Zombie zu und explodiert. Dabei verursacht es Schaden in Höhe von 3×3.
 
 [EYWA_AVATAR_PLANTFOOD_DESCRIPTION]
-额外出现一个拥有更大炸弹的小人
+Ein weiterer Mann mit einer größeren Bombe erscheint.
 
 [MAPLEBLADE]
 枫影剑客
@@ -47856,7 +47866,7 @@ Fernkampf
 DPS-Beruf mit guten Fähigkeiten für Angriffe auf lange Distanz
 
 [PROFESSION_WARRIOR]
-Vorhut
+Nahkampf
 
 [PROFESSION_WARRIOR_DESCRIPTION]
 DPS-Beruf mit guten Fähigkeiten für Angriffe auf kurze Distanz
@@ -67136,10 +67146,10 @@ Möchten Sie wirklich zur neuen Lexikon Version zurückkehren?
 Fernkampf
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_1]
-Vorhut
+Nahkampf
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_2]
-Assist
+Unterstützer
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_3]
 Zähigkeit
@@ -67148,7 +67158,7 @@ Zähigkeit
 Sonnenschein
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_5]
-Schurke
+Sonderkommando
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_0]
 Weiß
@@ -67159,7 +67169,7 @@ Grün
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_2]
 Blau
 
-[NEW_PLANT_UI_SOR T_BY_TYPE_RARE_3]
+[NEW_PLANT_UI_SORT_BY_TYPE_RARE_3]
 Lila
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_4]
@@ -67183,10 +67193,7 @@ Assistieren
 [NEW_PLANT_UI_SORT_BY_VALUE_P_5]
 Kontrolle
 
-[NEW_PLANT_UI_SORT_BY_VALUE_P_5]
-Kontrolle
-
-[NEW_PLANT_UI_SORT_BY_VALUE_P_6] LUE_P_6]
+[NEW_PLANT_UI_SORT_BY_VALUE_P_6]
 Level
 
 [NEW_PLANT_UI_TAB_VALUE_DETAIL_TEXT]
@@ -67238,7 +67245,7 @@ Vergiften I
 Lähmen I
 
 [PLANT_SPECIAL_TAG_11]
-Bezaubern I
+Hypnotisieren I
 
 [PLANT_TAG_1]
 Heilung
