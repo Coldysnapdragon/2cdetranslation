@@ -45048,6 +45048,48 @@ Unterwasser-Geheimnis
 [AVATARCOLLECTIONS_THEME_TITLE14]
 Unterwasser-Geheimnis
 
+[NFSLINKAGE_TASK_NAME_9]
+Spiele täglich ein Unterwasser Level.
+
+[NFSLINKAGE_TASK_NAME_10]
+Schließe das 12. Unterwasserwelt-Level ab.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_4]
+Holografische Raserei
+
+[NEW_AVATAR_DESCRIPTION_BONKCHOY_4]
+Abklingzeit der Pflanze um 30 % reduziert
+
+[ACTIVITY_SEAGODTREASURE_SHORT_DESCRIPTION]
+Du kannst das Super-Maschinengewehr-Outfit und andere seltene Belohnungen erhalten.
+
+[MAT_POSEIDON_TREASURE]
+Poseidons Schatzkiste
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MATCHFLOWER_1]
+Blumenumhang-Outfit anpassen
+
+[NEW_AVATAR_DESCRIPTION_MATCHFLOWER_1]
+Sonnenlichtverbrauch um 15 % reduziert
+
+[TREASURE_GOT_HEAD_ID_25713]
+Unterströmung
+
+[TREASURE_GOT_HEAD_DES_ID_25713]
+Aus Poseidons Schatztruhe
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MEGAGATLING_1]
+Super-Maschinengewehr-Erbsenoffizier-Kostüm
+
+[NEW_AVATAR_DESCRIPTION_MEGAGATLING_1]
+Angriffskraft um 25 % erhöht
+
+[NEW_AVATAR_SHORT_DESCRIPTION_STARFRUIT_1]
+Sternfrucht-Perücke
+
+[NEW_AVATAR_DESCRIPTION_STARFRUIT_1]
+Erhöht die Angriffsgeschwindigkeit um 15 %
+
 [AVATARCOLLECTIONS_THEME_TITLE14]
 Unterwasser-Geheimnis S_THEME_DES14]
 Das blaue Meer, die dunkle Flut brandet
@@ -51669,6 +51711,42 @@ Erhöhte Wahrscheinlichkeit für Fertigkeiten der zweiten Stufe
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_1]
 Chef Shaolans Kindertagskostüm
+
+[NEW_AVATAR_SHORT_DESCRIPTION_TALLNUT_2]
+Kindertags-Outfit
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_3]
+Maschinengewehr-Erbsenkopfhörer-Outfit
+
+[NEW_AVATAR_DESCRIPTION_GATLINGPEA_3]
+Erhöht die Angriffskraft um 15 %
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_2]
+Hydrocotyled-Trommler-Krawatten-Outfit
+
+[NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_2]
+Angriffsintervall um 15 % reduziert
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GUARDSHROOM_1]
+Wachpilz-Zauberer-Outfit
+
+[NEW_AVATAR_SHORT_DESCRIPTION_CACTUS_2]
+Schatten der Tiefsee
+
+[NEW_AVATAR_DESCRIPTION_CACTUS_2]
+Beim ersten Einsatz von Spezialdünger im Shukuchi-Modus verdoppelt sich die Anzahl der verstreuten Stacheln in der ersten Welle.
+
+[NEW_AVATAR_DESCRIPTION_GUARDSHROOM_1]
+Sonnenlichtverbrauch um 25 % reduziert
+
+[NEW_AVATAR_DESCRIPTION_TALLNUT_2]
+Fertigkeitsschaden um 100 erhöht
+
+[NEW_AVATAR_SHORT_DESCRIPTION_TALLNUT_1]
+Hochwallnuss-Gelehrten-Outfit
+
+[NEW_AVATAR_DESCRIPTION_TALLNUT_1]
+Erhöht die Pflanzengesundheit um 20 %
 
 [NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_1]
 Angriffsgeschwindigkeit um 10 % erhöht
@@ -76372,197 +76450,200 @@ Erhältlich bei verschiedenen Lageraktivitäten
 恭喜您被选中成为今日最幸运玩家
 
 [AVATARCOLLECTIONS_TITLE]
-收藏册
+Sammlung
 
 [AVATARCOLLECTION_DESCRIPTION_TITLE]
-功能说明
+Funktionsbeschreibung
 
 [AVATARCOLLECTION_DESCRIPTION]
-1、收藏册中拥有不同的主题内容，每一个主题内容下都会有若干个符合主题且需要收藏的物品，玩家可以查看所需收藏品的详细信息。
-2、当玩家将某一主题下需要收藏的物品都收集完毕后，会获得一个符合主题的超级奖励。
+1. Die Sammlung hat verschiedene Themen. Zu jedem Thema gibt es passende Gegenstände, die gesammelt werden müssen. Spieler können detaillierte Informationen zu den benötigten Sammlungen einsehen.
+2. Wenn der Spieler alle Gegenstände eines bestimmten Themas gesammelt hat, erhält er eine passende Superbelohnung.
 
 [AVATARCOLLECTIONS_PROGRESS]
-收集进度:{NUMBER1}/{NUMBER2}
+Sammelfortschritt: {NUMBER1}/{NUMBER2}
 
 [AVATARCOLLECTIONS_THEME_TITLE0]
-圣诞快乐！
+Frohe Weihnachten!
 
 [AVATARCOLLECTIONS_THEME_DES0]
-缤纷圣诞，心愿闪亮！
+Frohe Weihnachten! Strahlende Grüße!
 
 [AVATARCOLLECTIONS_THEME_TITLE1]
-新年到
+Das neue Jahr naht
 
 [AVATARCOLLECTIONS_THEME_DES1]
-新年福到，福星高照！
+Das neue Jahr naht, mögen die Sterne des Glücks hell leuchten!
 
 [AVATARCOLLECTIONS_THEME_TITLE2]
-童心未泯
+Kindliche Unschuld ist noch da
 
 [AVATARCOLLECTIONS_THEME_DES2]
-纯真如初，梦想依旧！
+Unschuldig wie eh und je, Träume bleiben dieselben!
 
 [AVATARCOLLECTIONS_HEAD_ID_25657]
-童心未泯
+Kindliche Unschuld ist noch da
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25657]
-纯真如初，梦想依旧！
+Unschuldig wie eh und je, Träume bleiben dieselben!
 
 [AVATARCOLLECTIONS_THEME_TITLE3]
-惊魂万圣夜
+Halloween des Grauens
 
 [AVATARCOLLECTIONS_THEME_DES3]
-南瓜灯亮，惊魂夜魅！
+Kürbislaternen leuchten, und die Nacht ist voller Schrecken!
 
 [AVATARCOLLECTIONS_THEME_TITLE4]
-现代科技
+Moderne Technologie
 
 [AVATARCOLLECTIONS_THEME_DES4]
-科技赋能，火力无限！
+Technologie verleiht unbegrenzte Feuerkraft!
 
 [AVATARCOLLECTIONS_HEAD_ID_25658]
-现代科技
+Moderne Technologie
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25658]
-科技赋能，火力无限！
+Technologie verleiht unbegrenzte Feuerkraft!
 
 [AVATARCOLLECTIONS_THEME_TITLE5]
-别忘了绅士
+Vergiss den Gentleman nicht!
 
 [AVATARCOLLECTIONS_THEME_DES5]
-风度翩翩，优雅永存！
+Anmutig und elegant, für immer!
 
 [AVATARCOLLECTIONS_THEME_TITLE6]
-童趣派对
+Kinderparty
 
 [AVATARCOLLECTIONS_THEME_DES6]
-童年的玩具最好玩！
+Kinderspielzeug macht am meisten Spaß!
 
 [AVATARCOLLECTIONS_HEAD_ID_25679]
-童趣派对
+Kinderparty
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25679]
-童年的玩具最好玩！
+Kinderspielzeug macht einfach am meisten Spaß!
 
 [AVATARCOLLECTIONS_THEME_TITLE7]
-就是这么豪
+So luxuriös!
 
 [AVATARCOLLECTIONS_THEME_DES7]
-金钱在手，天下我有！
+Mit Geld in der Hand gehört mir die Welt!
 
 [AVATARCOLLECTIONS_HEAD_ID_25680]
-就是这么豪
+So luxuriös!
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25680]
-金钱在手，天下我有！
+Mit Geld in der Hand gehört mir die Welt!
 
 [AVATARCOLLECTIONS_THEME_TITLE8]
-武侠国风
+Kampfkunst
 
 [AVATARCOLLECTIONS_THEME_DES8]
-千秋万载，一统江湖！
+Vereine seit Tausenden von Jahren die Welt!
 
 [AVATARCOLLECTIONS_THEME_TITLE9]
-大智若愚
+Große Weisheit erscheint töricht
 
 [AVATARCOLLECTIONS_THEME_DES9]
-一加一等于二吗？
+Ist eins plus eins zwei?
 
 [AVATARCOLLECTIONS_HEAD_ID_25682]
-大智若愚
+Große Weisheit erscheint töricht
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25682]
-一加一等于二吗？
+Ist eins plus eins zwei?
 
 [AVATARCOLLECTIONS_THEME_TITLE10]
-大闹天宫
+Chaos im Himmel
 
 [AVATARCOLLECTIONS_THEME_DES10]
-十万天兵有什么好怕的
+Was ist so beängstigend an 100.000 himmlischen Soldaten?
 
 [AVATARCOLLECTIONS_HEAD_ID_25681]
-大闹天宫
+Chaos im Himmel
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25681]
-十万天兵有什么好怕的
+Was ist so beängstigend an 100.000 himmlischen Soldaten?
 
 [AVATARCOLLECTIONS_THEME_TITLE11]
-青春活力
+Jugendliche Vitalität
 
 [AVATARCOLLECTIONS_THEME_DES11]
-纪念我们逝去的青春
+Im Gedenken an unsere verlorene Jugend
 
 [AVATARCOLLECTIONS_THEME_TITLE12]
-神秘力量
+Geheimnisvolle Kraft
 
 [AVATARCOLLECTIONS_THEME_DES12]
-聚能！进化！电击！
+Energie sammeln! Evolution! Elektroschock!
 
 [AVATARCOLLECTIONS_HEAD_ID_25683]
-神秘力量
+Geheimnisvolle Kraft
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25683]
-聚能！进化！电击！
+Energie sammeln! Evolution! Elektroschock!
 
 [AVATARCOLLECTIONS_NOT_EXIST]
-未拥有
+Nicht im Besitz
 
 [PLANTING_NOT_ON_SNOWMAN]
-不能种在雪人上
+Kann nicht auf einem Schneemann gepflanzt werden.
 
 [HARVEST_BATTLE_HEAD_ID_25647]
-风声鹤唳
+Ein Sturm des Schreckens
 
 [HARVEST_BATTLE_HEAD_DES_ID_25647]
-在农场大作战活动中，通过超级玉米兑换
+Eintausch gegen Supermais während Farmkämpfen
 
 [TOYS_HEAD_ID_25648]
-九色降临
+Neun Farben steigen herab
 
-[TOYS_HEAD_DES_ID_25648]
-参与活动国风怀古行获得
+[TOYS_HEAD_ID_25649]
+Neun Farben steigen herab
+
+[ AD_DES_ID_25648]
+Nehmen Sie am Event „National Style Nostalgia Tour“ teil, um Folgendes zu erhalten:
 
 [TOYS_HEAD_ID_25678]
-烈焰狂欢
+Flammenkarneval
 
 [TOYS_HEAD_DES_ID_25678]
-参与活动烈焰的狂欢获得
+Nehmen Sie am Event „Flammenkarneval“ teil, um Folgendes zu erhalten: Erhalten
 
 [TOYS_HEAD_ID_25693]
-恩爱夫妇
+Liebespaar
 
 [TOYS_HEAD_DES_ID_25693]
-参与活动西游降魔录获得
+Nehmen Sie am Event „Reise in den Westen, um Dämonen zu besiegen“ teil, um Folgendes zu erhalten:
 
 [TOYS_HEAD_ID_25700]
-高压地带
+Hochspannungszone
 
-[TOYS_HEAD_DES_ID_25700]
-参与活动高压地带获得
+[TOYS_HEAD _DES_ID_25700]
+Nehmen Sie am Event teil, um die Hochdruckzone zu erreichen:
 
 [PARALLEL_SPIKEWEED]
-41号地刺
+Spike Nr. 41
 
 [PARALLEL_SPIKEWEED_TOOLTIP]
-她不是普通的地刺，它可以秒杀所有的僵尸博士机甲
+Sie ist kein gewöhnlicher Spike. Er kann alle Dr. Zombie-Mechas in Sekundenschnelle töten.
 
 [PARALLEL_SPIKEWEED_DESCRIPTION_HEADER]
-眼神多了一丝忧郁
+In ihren Augen liegt ein Hauch von Melancholie.
 
 [PARALLEL_SPIKEWEED_DESCRIPTION]
-她不是普通的地刺，它可以秒杀所有的僵尸博士机甲
+Sie ist kein gewöhnlicher Spike. Die Erdspieße können alle Zombie-Doktor-Mechas in Sekundenschnelle töten.
 
 [PARALLEL_SPLITPEA]
-41号双向射手
+Doppelschütze Nr. 41
 
 [PARALLEL_SPLITPEA_TOOLTIP]
-41号的双向射手是罕见的白羊座
+Doppelschütze Nr. 41 ist ein seltener Widder.
 
 [PARALLEL_SPLITPEA_DESCRIPTION_HEADER]
-左侧的豌豆比右侧的豌豆长一毫米
+Die linke Erbse ist einen Millimeter länger als die rechte.
 
 [PARALLEL_SPLITPEA_DESCRIPTION]
-41号的双向射手是罕见的白羊座
+Doppelschütze Nr. 41 ist ein seltener Widder.
 
 [PARALLEL_WINTERMELON]
 41号冰西瓜投手
