@@ -15367,48 +15367,48 @@ Verbessertes Rezept
 从黑暗时代，毁灭所有的东西。
 
 [SUNSHROOM]
-阳光菇
+Sonnenpilz
 
 [SUNSHROOM_DESCRIPTION]
-{KEYWORD}生产阳光：{STAT}开始少量，之后正常，最后大量。
-{KEYWORD}植物特征：{STAT}黄色植物、蘑菇家族、无尽阳光
-{FLAVOR}众所周知，阳光菇拥有迷人的微笑和开朗的性格，但老实讲，即便是他也有过黑暗的日子。身处黑暗还得把东西一直照亮实属不易。
+{KEYWORD}Sonnenlichtproduktion: {STAT}Anfangs gering, dann normal und schließlich groß.
+{KEYWORD}Pflanzeneigenschaften: {STAT}Gelbe Pflanzen, Pilzfamilie, endloses Sonnenlicht
+{FLAVOR}Oh, sicher. Der Sonnenpilz ist für sein Dauergrinsen und seine sonnige Art bekannt. Aber selbst er kennt dunkle Tage. Immerhin ist es nicht leicht, die Sonnenseiten des Lebens zu sehen, wenn man im Schatten lebt.
 
 [SUNSHROOM_DESCRIPTION_HEADER]
-阳光菇可以生产阳光，并且随着它的成长，单次获得的阳光会不断增加。
+Sonnenpilze produzieren zuerst kleine, dann normale und schließlich große Sonnen.
 
 [SUNSHROOM_TOOLTIP]
-不断提供更多阳光。
+Produziert mit der Zeit mehr Sonne
 
 [PUFFSHROOM]
-小喷菇
+Pustepilz
 
 [PUFFSHROOM_DESCRIPTION_HEADER]
-小喷菇射程很近并只能持续一段时间。
+Pustepilze sind Nahdistanzschützen, die für begrenzte Zeit leben.
 
 [PUFFSHROOM_DESCRIPTION]
-{KEYWORD}特点：{STAT} 存活时间有限
-{KEYWORD}植物特征：{STAT}紫色植物、蘑菇家族、矮个子
-{FLAVOR}小喷菇对所有最新的网络时尚无所不知。他沉溺在“菇博”，“菇信”和“美菇秀秀”中不能自拔。但是有时候他还是会想念草坪网友聚会,那种纯朴简单的友情一去不返。
+{KEYWORD}Merkmale: {STAT} Begrenzte Überlebenszeit
+{KEYWORD}Pflanzenmerkmale: {STAT} Lilafarbene Pflanzen, Pilzfamilie, kleiner Wuchs
+{FLAVOR}Der Pustepilz ist immer auf den neuesten sozialen Netzwerken dabei – von Pilzbook über PfifferXing bis PustaGram. Aber manchmal vermisst er die gute alte Zeit, in der man nur über das Myzel mit anderen Pilzen vernetzt war.
 
 [PUFFSHROOM_TOOLTIP]
-近程射手，可持续一定时间
+Nahdistanzschütze, lebt für begrenzte Zeit
 
 [FUMESHROOM]
-大喷菇
+Stinkpilz
 
 [FUMESHROOM_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}紫色植物、蘑菇家族
-{FLAVOR}“我是一个充满自信,无所不能的蘑菇，”大喷菇如是说道，“但是有时候，当我吃下能量豆，我听到有植物在窃窃私语。他们居然叫我‘气球菇’!他们根本不知道这有多伤人!”
+{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanzen, Pilzfamilie
+{FLAVOR}„Eigentlich bin ich wirklich mit mir zufrieden“, sagt der Stinkpilz. „Aber manchmal, wenn ich Spezialdünger kriege, kann ich sie hören. Wie sie mich ‚Ballon-Pilz‘ nennen. Bestimmt wissen sie nicht, wie sehr mich das trifft.“
 
 [FUMESHROOM_TOOLTIP]
-喷射有害气体，可对指定区域的所有僵尸造成伤害。
+Verschießt Stinkwolken, die allen Zombies in einem Bereich schaden
 
 [FUMESHROOM_DESCRIPTION_HEADER]
-大喷菇喷射的有害气体可对前方一定区域的所有僵尸造成伤害。
+Stinkpilze verschießen Stinkwolken, die allen Zombies in einem Bereich schaden.
 
 [SUNBEAN]
-阳光豆
+Sonnenbohne
 
 [SUNBEAN_DESCRIPTION]
 {KEYWORD}植物特征：{STAT}黄色植物、无尽阳光
@@ -15427,7 +15427,7 @@ Verbessertes Rezept
 阳光豆装扮
 
 [MAGNETSHROOM]
-磁力菇
+Magnetpilz
 
 [MAGNETSHROOM_DESCRIPTION]
 {KEYWORD}特点：{STAT}移除僵尸们所有的金属物品
@@ -15441,7 +15441,7 @@ Verbessertes Rezept
 吸走铁桶、头盔或其它金属物品。
 
 [HYPNOSHROOM]
-魅惑菇
+Hypnopilz
 
 [HYPNOSHROOM_DESCRIPTION]
 {KEYWORD}特点：{STAT}让一只僵尸为你作战
@@ -15455,7 +15455,7 @@ Verbessertes Rezept
 让一只僵尸为你作战。
 
 [PEANUT]
-花生射手
+Erbs-Nuss
 
 [PEANUT_DESCRIPTION]
 {KEYWORD}植物特征：{STAT}褐色植物、攻守兼备
@@ -16368,10 +16368,10 @@ Hypnopilz-Fragment
 Hypnopilz-Fragment erhalten
 
 [BONUS_CARD_PIECE_PEANUT]
-Erdnuss-Shooter-Fragment
+Erbs-Nuss-Fragment
 
 [BONUS_CARD_PIECE_PEANUT_DESCRIPTION]
-Erdnuss-Shooter-Fragment erhalten
+Erbs-Nuss-Fragment erhalten
 
 [BONUS_CARD_PIECE_OAKSHOOTER]
 Eichen-Fragment
@@ -51251,7 +51251,7 @@ Kleid mit Elektroschock-Haken-Kuss-Party-Unterstützung
 Angriffskraft erhöht um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
-Großes Pilz-Löwentanzkostüm
+Stinkpilz-Löwentanzkostüm
 
 [NEW_AVATAR_DESCRIPTION_FUMESHROOM_1]
 Angriffsgeschwindigkeit um 10 % erhöht
@@ -69504,127 +69504,127 @@ Der Sonnenpilz kann direkt in die dritte Wachstumsphase wachsen und 225 Sonnenli
 Sonnenpilze wachsen direkt bis zur dritten Stufe und produzieren 225 Sonnenlicht und ^ff0000^ eine bestimmte Menge Goldmünzen. ^oldclr^
 
 [SUNBEAN_NEW_SKILL_LEVEL1_DES]
-吃了他，你也会变成光。在僵尸吃掉阳光豆后，僵尸受到伤害后会掉落阳光。
+Nachdem ein Zombie eine Sonnenbohne gefressen hat, lässt er Sonnenlicht fallen, wenn er beschädigt wird. Die Anzahl an Sonnen hängt von den HP des Zombie's ab.
 
 [SUNBEAN_PLANTFOOD_DESCRIPTION]
-阳光豆发出光芒，杀死啃食他的僵尸，瞬间释放相当于僵尸血量40%的阳光（上限为600点）。
+Die Sonnenbohne strahlt Licht aus, tötet den Zombie, der sie frisst, und gibt sofort Sonnenlicht ab, das 40 % der Gesundheit des Zombies entspricht (bis zu 600 Punkte).
 
 [SUNBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-阳光豆发出光芒，杀死啃食他的僵尸，瞬间释放相当于僵尸血量40%的阳光（上限为600点）。
+Die Sonnenbohne strahlt Licht aus und tötet den Zombie, der sie frisst.
 
 [FUMESHROOM_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在大喷菇右侧4格时，大喷菇憋气吐出毒雾攻击僵尸。
+Wenn ein Zombie vier Felder rechts vom Stinkpilz erscheint, hält der Stinkpilz den Atem an und spuckt Nebel aus, um den Zombie anzugreifen.
 
 [FUMESHROOM_NEW_SKILL_LEVEL2_DES]
-大喷菇喷射出的毒雾中混合着可以让僵尸定身的毒素攻击，有8%的概率定身僵尸。
+Der giftige Nebel des Stinkpilzes ist mit Toxinen versetzt, die Zombies verlangsamen können. Die Wahrscheinlichkeit, Zombies zu verlangsamen, liegt bei 8 %.
 
 [FUMESHROOM_NEW_SKILL_LEVEL3_DES]
-对毒素的深入研究，毒素对僵尸更有效，有16%的概率定身僵尸。
+Dank intensiver Forschung zu Toxinen sind Toxine jetzt effektiver gegen Zombies und haben eine Chance von 16 %, Zombies zu verlangsamen.
 
 [FUMESHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [FUMESHROOM_PLANTFOOD_DESCRIPTION]
-大喷菇吸取空气迅速膨胀，然后释放出大量的毒雾，可以将本行僵尸向后击退最多10格并持续造成伤害5秒。
+Der Stinkpilz absorbiert Luft und dehnt sich schnell aus. Anschließend setzt er eine große Menge giftigen Nebels frei, der Zombies in derselben Reihe bis zu 10 Felder weit zurückdrängen und 5 Sekunden lang kontinuierlich Schaden verursachen kann.
 
 [FUMESHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-大喷菇吸取空气迅速膨胀^ff0000^同时将右侧2×3范围内的僵尸吸引至本行，^oldclr^然后释放出大量的毒雾，可以将本行僵尸向后击退最多10格并持续造成伤害5秒。
+Der Stinkpilz absorbiert Luft und dehnt sich schnell aus^ff0000^, während er Zombies im 2×3-Bereich rechts von dieser Reihe anlockt,^oldclr^ und setzt dann eine große Menge giftigen Nebels frei, der Zombies in dieser Reihe bis zu 10 Felder weit zurückdrängen und 5 Sekunden lang kontinuierlich Schaden verursachen kann.
 
 [PEANUT_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在花生射手右侧时，花生射手会发射花生攻击僵尸，坚硬的外壳让花生射手可以更好地抵挡僵尸的攻击。花生射手的生命值低于50%时攻速减半。
+Wenn ein Zombie rechts von der Erbs-Nuss erscheint, schießt dieser Erdnüsse, um die Zombies anzugreifen. Die harte Schale ermöglicht es der Erbs-Nuss, den Angriffen der Zombies besser zu widerstehen. Die Angriffsgeschwindigkeit der Erbs-Nuss halbiert sich, wenn ihre Gesundheit unter 50 % liegt.
 
 [PEANUT_NEW_SKILL_LEVEL2_DES]
-花生上下两个脑袋可以一起攻击，有25%几率同时射出两个花生。
+Ober- und Unterkopf der Erbs-Nuss können gemeinsam angreifen. Es besteht eine 25-prozentige Chance, zwei Erdnüsse gleichzeitig abzuschießen.
 
 [PEANUT_NEW_SKILL_LEVEL3_DES]
-花生的默契程度更上一层楼，有50%的几率同时射出两个花生。
+Das stillschweigende Verständnis der Erbs-Nuss hat ein höheres Level erreicht. Es besteht eine 50-prozentige Chance, zwei Erdnüsse gleichzeitig abzuschießen.
 
 [PEANUT_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [PEANUT_PLANTFOOD_DESCRIPTION]
-花生射手快速发射出大量花生，恢复自身的生命值同时获得一个可以吸收4000伤害的金属头盔。
+Die Erbs-Nuss verschießt schnell eine große Anzahl Erdnüsse, regeneriert seine Gesundheit und erhält einen Metallhelm, der 4000 Schaden absorbieren kann.
 
 [PEANUT_AVATAR_PLANTFOOD_DESCRIPTION]
-花生射手快速发射出大量花生，恢复自身的生命值同时获得一个可以^ff0000^吸收6000伤害的金属头盔。^oldclr^
+Die Erbs-Nuss verschießt schnell eine große Menge Erdnüsse, regeneriert seine Gesundheit und erhält einen Metallhelm, der ^ff0000^ 6000 Schaden absorbieren kann. ^oldclr^
 
 [MAGNETSHROOM_NEW_SKILL_LEVEL1_DES]
-运用自己头上的磁铁从僵尸身上拿走铁制防具，可以吸走范围内不高于自己阶数的僵尸的铁质防具。
+Benutze den Magneten an deinem Kopf, um Zombies die Eisenrüstung zu entfernen. Du kannst die Eisenrüstung von Zombies in Reichweite absorbieren, die nicht höher als dein Level sind.
 
 [MAGNETSHROOM_NEW_SKILL_LEVEL2_DES]
-可以吸取2阶僵尸的金属防具，休息时间减少为8.5秒。
+Du kannst die Metallrüstung von Zombies der Stufe 2 absorbieren, wobei die Ruhezeit auf 8,5 Sekunden verkürzt wird.
 
 [MAGNETSHROOM_NEW_SKILL_LEVEL3_DES]
-可以吸取3阶僵尸的金属防具，休息时间减少为7秒。
+Kann die Metallrüstung von Zombies der Stufe 3 absorbieren, wobei die Ruhezeit auf 7 Sekunden verkürzt wird.
 
 [MAGNETSHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen. Starker Move!
 
 [MAGNETSHROOM_PLANTFOOD_DESCRIPTION]
-释放强力磁场吸收全场最多20个铁质防具和物品，并向所在行右侧扔出对僵尸造成伤害。
+Löst ein starkes Magnetfeld aus, um bis zu 20 Eisenpanzerungen und Gegenstände im Feld zu absorbieren und sie nach rechts zu werfen, um Zombies Schaden zuzufügen.
 
 [MAGNETSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-释放强力磁场吸收全场最多20个铁质防具和物品，并向所在行右侧扔出对僵尸^ff0000^造成巨大伤害。^oldclr^
+Löst ein starkes Magnetfeld aus, um bis zu 20 Eisenpanzerungen und Gegenstände im Feld zu absorbieren und sie nach rechts zu werfen, um Zombies großen Schaden zuzufügen. ^ff0000^ ^oldclr^
 
 [STREETLAMP_NEW_SKILL_LEVEL1_DES]
-使5×3范围和路灯花上下左右正方向各延伸一格的的范围内的迷雾被照散，或是使隐身单位现形。
+Verteitelt Nebel in einem 5×3 großen Bereich und in dem Bereich, der sich ein Feld nach oben, unten, links und rechts von der Pflanzterne erstreckt, oder deckt unsichtbare Einheiten auf.
 
 [STREETLAMP_PLANTFOOD_DESCRIPTION]
-路灯花全力发光，在30秒的时间中，全屏的黑暗迷雾散去。
+Die Pflanzterne leuchtet mit voller Kraft und vertreibt 30 Sekunden lang den dunklen Nebel auf dem gesamten Bildschirm.
 
 [STREETLAMP_AVATAR_PLANTFOOD_DESCRIPTION]
-路灯花全力发光，在30秒的时间中，全屏的黑暗迷雾散去^ff0000^并对僵尸造成3秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^。^oldclr^
+Das Straßenlaub leuchtet mit voller Kraft und vertreibt 30 Sekunden lang den dunklen Nebel auf dem gesamten Bildschirm. ^ff0000^ und verursacht 3 Sekunden lang Betäubung bei Zombies. ^oldclr^^848484^StunⅠ^oldclr^^ff0000^. ^oldclr^
 
 [COFFEEBEAN_NEW_SKILL_LEVEL1_DES]
-在经过 2 秒的动作后唤醒 3×3 范围内的植物并为它们提供 5 秒的 10%的攻击力加成效果。
+Nach 2 Sekunden Aktion werden Pflanzen in einem Umkreis von 3×3 aufgeweckt und erhalten 5 Sekunden lang einen Angriffsbonus von 10 %.
 
 [COFFEEBEAN_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [COFFEEBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [ICESHROOM_NEW_SKILL_LEVEL1_DES]
-发射对僵尸造成冰减速的寒冰魔法球，种植后30秒成长为二阶段，60秒成长为三阶段。第三阶段后发射大魔法球，命中僵尸后会瞄准周围其它僵尸发射小冰球，小冰球伤害为大魔法球的一半。
+Schießt einen Eisball ab, der Zombies verlangsamt. Nach dem Pflanzen erreicht er innerhalb von 30 Sekunden die zweite Stufe und innerhalb von 60 Sekunden die dritte Stufe. Nach der dritten Stufe schießt er einen großen Ball ab. Trifft er einen Zombie, zielt er auf andere Zombies in der Umgebung und schießt kleine Eisbälle ab. Der Schaden der kleinen Eisbälle ist halb so groß wie der der großen.
 
 [ICESHROOM_NEW_SKILL_LEVEL2_DES]
-使寒冰菇成长速度提升50%，并有7.5%概率^0072ff^冻结Ⅰ^oldclr^僵尸。
+Erhöht die Wachstumsrate des Eispilzes um 50 % und hat eine Chance von 7,5 %, Zombies einzufrieren.
 
 [ICESHROOM_NEW_SKILL_LEVEL3_DES]
-使寒冰菇成长速度提升100%，并有15%概率^0072ff^冻结Ⅰ^oldclr^僵尸。
+Erhöht die Wachstumsrate des Eispilzes um 100 % und hat eine Chance von 15 %, I^oldclr^-Zombies einzufrieren.
 
 [ICESHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [ICESHROOM_NEW_SKILL_LEVEL5_DES]
-寒冰菇长大后，第三阶段的攻击变为寒冰螺旋，能扩散出大魔法球80%伤害的小冰球。
+Wenn der Eispilz wächst, wird die dritte Angriffsstufe zu einer Eisspirale, die kleine Eisbälle mit 80 % Schaden der großen Zauberkugel verteilen kann.
 
 [ICESHROOM_PLANTFOOD_DESCRIPTION]
-立刻成长至第三阶段，并制造两个3×3范围的冰窟，使小体型陆行僵尸落入其中，持续7秒。该秒杀无阶数限制。
+Wächst sofort zur dritten Stufe, erzeugt zwei 3×3 große Eishöhlen und lässt kleine Landzombies hineinfallen. Dieser Effekt hält 7 Sekunden lang an. Dieser sofortige Kill hat kein Stufenlimit.
 
 [ICESHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-立刻成长至第三阶段，^ff0000^并制造三个3×3范围的冰窟，^oldclr^使小体型陆行僵尸落入其中，持续7秒。该秒杀无阶数限制。
+Wächst sofort zur dritten Stufe, ^ff0000^, und erzeugt drei 3×3 große Eishöhlen. ^oldclr^ lässt kleine Landzombies hineinfallen, was 7 Sekunden lang anhält. Dieser sofortige Kill hat keine Stufenbegrenzung.
 
 [FIRESHROOM_NEW_SKILL_LEVEL1_DES]
-发射火球攻击僵尸种植后30秒成长为二阶段，60秒成长为三阶段。第三阶段后发射大火球，命中僵尸后会瞄准周围其它僵尸发射小火球，小火球伤害为大火球的一半。
+Schießt Feuerbälle, um Zombies anzugreifen. Nach dem Einpflanzen wächst er in 30 Sekunden zur zweiten Stufe und in 60 Sekunden zur dritten Stufe. Nach der dritten Stufe schießt er einen großen Feuerball ab. Trifft er einen Zombie, zielt er auf andere Zombies in der Umgebung und schießt kleine Feuerbälle ab. Der Schaden des kleinen Feuerballs ist halb so groß wie der des großen Feuerballs.
 
 [FIRESHROOM_NEW_SKILL_LEVEL2_DES]
-烈焰菇每阶段生长所需时间变为原先的75%，并额外提升15%伤害。
+Die Wachstumszeit jedes Flammenpilz-Stadiums wird auf 75 % der ursprünglichen Zeit reduziert und der Schaden um weitere 15 % erhöht.
 
 [FIRESHROOM_NEW_SKILL_LEVEL3_DES]
-烈焰菇每阶段生长所需时间变为原先的50%，并额外提升30%伤害。
+Die Wachstumszeit jedes Flammenpilz-Stadiums wird auf 50 % der ursprünglichen Zeit reduziert und der Schaden um weitere 30 % erhöht.
 
 [FIRESHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [FIRESHROOM_NEW_SKILL_LEVEL5_DES]
-烈焰菇长大后，第三阶段的攻击变为魔法火球，对僵尸造成80%溅射伤害。
+Wenn der Flammenpilz wächst, wird die dritte Angriffsstufe zu einem magischen Feuerball, der Zombies 80 % Flächenschaden zufügt.
 
 [FIRESHROOM_PLANTFOOD_DESCRIPTION]
-立刻成长至第三阶段，制造一座火墙，阻挡僵尸并造成伤害，持续7秒。
+Wächst sofort zur dritten Stufe, erzeugt eine Feuerwand, blockt Zombies und verursacht 7 Sekunden lang Schaden.
 
 [FIRESHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-立刻成长至第三阶段，制造一座火墙，阻挡僵尸并造成伤害，持续7秒。^ff0000^火墙熄灭时附带爆炸效果。^oldclr^
+Wächst sofort zur dritten Stufe und erzeugt eine Feuerwand, die Zombies blockiert und 7 Sekunden lang Schaden verursacht. ^ff0000^ Die Feuerwand explodiert, wenn sie erlischt. ^oldclr^
 
 [OAKSHOOTER_NEW_SKILL_LEVEL1_DES]
 当僵尸出现在橡木弓手右侧时，橡木弓手会蓄力发射箭矢攻击僵尸。
