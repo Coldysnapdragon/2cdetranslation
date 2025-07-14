@@ -14742,7 +14742,7 @@ Allein
 Erfolgreich einer großen Zombiewelle widerstanden.
 
 [STARCHALLENGE_HIDDEN_NAME]
-Ankündigung
+Ankündigungen
 
 [STARCHALLENGE_HIDDEN]
 Baustelle voraus, bitte umleiten.
