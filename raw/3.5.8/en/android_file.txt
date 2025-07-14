@@ -6500,6 +6500,9 @@ Der Wind weht!
 [WARNING_FAIRY_TALE_FOG_TIP]
 Nebel zieht auf!
 
+[WARNING_TIDE_WAVE_TIP]
+Es tritt eine Meeresströmung auf!
+
 [WARNING_BLACK_HOLE_TIP]
 Das Schwarze Loch wird die Pflanzen aufsaugen!
 
@@ -44963,6 +44966,145 @@ Your current streak:
 
 [JOUST_RESULTS_WINSTREAK_TITLE]
 当前连胜
+
+[RANK_AVATAR_CONTENT_TITLE_61045]
+Tausend Meilen unter dem Meer
+
+[RANK_AVATAR_CONTENT_CONTENT_61045]
+Großmeister-Rang-Belohnungen für Doppelduell-Saison 33
+
+[RANK_AVATAR_CONTENT_TITLE_61005]
+Aufsehenerregendes Debüt
+
+[RANK_AVATAR_CONTENT_CONTENT_61005]
+Großmeister-Belohnungen für Doppelduell, Saison 4
+
+[RANK_AVATAR_CONTENT_TITLE_61006]
+Sommeranfang
+
+[RANK_AVATAR_CONTENT_CONTENT_61006]
+Großmeister-Belohnungen für Doppelduell, Saison 5
+
+[RANK_AVATAR_CONTENT_TITLE_61008]
+Straßengraffiti
+
+[RANK_AVATAR_CONTENT_CONTENT_61008]
+Großmeister-Rang-Belohnungen für Doppelduell, Saison 7
+
+[AVATARCOLLECTIONS_THEME_DES9]
+Ist eins plus eins gleich zwei?
+
+[AVATARCOLLECTIONS_HEAD_ID_25682]
+Große Weisheit erscheint töricht.
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25682]
+Ist eins plus eins gleich zwei?
+
+[AVATARCOLLECTIONS_THEME_TITLE10]
+Chaos im Himmel
+
+[AVATARCOLLECTIONS_THEME_DES10]
+Was ist so beängstigend an 100.000 himmlischen Soldaten?
+
+[AVATARCOLLECTIONS_HEAD_ID_25681]
+Chaos im Himmel
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25681]
+Was ist so beängstigend an 100.000 himmlischen Soldaten?
+
+[AVATARCOLLECTIONS_THEME_TITLE11]
+Jugendliche Vitalität
+
+[AVATARCOLLECTIONS_THEME_DES11]
+In Erinnerung an unsere verlorene Jugend
+
+[AVATARCOLLECTIONS_THEME_TITLE12]
+Geheimnisvolle Kraft
+
+[AVATARCOLLECTIONS_THEME_DES12]
+Energie sammeln! Evolution! Elektroschock!
+
+[AVATARCOLLECTIONS_HEAD_ID_25683]
+Geheimnisvolle Kraft
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25683]
+Energie! Evolution! Elektroschock!
+
+[AVATARCOLLECTIONS_THEME_TITLE13]
+Sommerfest
+
+[AVATARCOLLECTIONS_THEME_DES13]
+Energiegeladener, aufregender Sommer
+
+[AVATARCOLLECTIONS_HEAD_ID_25715]
+Holografische Projektion
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25715]
+Kommen und gehen, spurlos schlagen
+
+[AVATARCOLLECTIONS_THEME_TITLE14]
+Unterwasser-Geheimnis
+
+[AVATARCOLLECTIONS_THEME_TITLE14]
+Unterwasser-Geheimnis
+
+[AVATARCOLLECTIONS_THEME_TITLE14]
+Unterwasser-Geheimnis S_THEME_DES14]
+Das blaue Meer, die dunkle Flut brandet
+
+[AVATARCOLLECTIONS_HEAD_ID_25716]
+Unterwasser Geheimnis
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25716]
+Das blaue Meer, die dunkle Flut brandet
+
+[AVATARCOLLECTIONS_NOT_EXIST]
+Nicht im Besitz
+
+[PLANTING_NOT_ON_SNOWMAN]
+Kann nicht auf einem Schneemann gepflanzt werden
+
+[PLANTING_NOT_IN_KELPGUARD]
+Pflanzen können nicht zwischen Kelp-Schutzvorrichtungen gepflanzt werden
+
+[P LANTING_KELPGUARD_ONLY_DEEPSEA]
+Kelp-Schutzvorrichtungen können nur auf See gepflanzt werden
+
+[HARVEST_BATTLE_HEAD_ID_25647]
+Der Wind heult
+
+[HARVEST_BATTLE_HEAD_DES_ID_25647]
+Im Farm-Kampf-Event gegen Supermais tauschen
+
+[TOYS_HEAD_ID_25648]
+Neun Farben sind Kommt
+
+[TOYS_HEAD_DES_ID_25648]
+Erhältlich durch die Teilnahme an der Veranstaltung „National Style Nostalgia Tour“
+
+[TOYS_HEAD_ID_25678]
+Flammenkarneval
+
+[TOYS_HEAD_DES_ID_25678]
+Erhältlich durch die Teilnahme an der Veranstaltung „Flammenkarneval“
+
+[TOYS_HEAD_ID_25693]
+Liebendes Paar
+
+[TOYS_HEAD_DES_ID_25693]
+Erhältlich durch die Teilnahme an der Veranstaltung „Reise in den Westen: Dämonen bezwingen“
+
+[TOYS_HEAD_ID_25700]
+Hochdruckgebiet
+
+[TOYS_HEAD_DES_ID_25700]
+Erhältlich durch die Teilnahme an der Veranstaltung „Hochdruckgebiet“
+
+[TOYS_HEAD_ID_25712]
+Schatten der Tiefe Meer
+
+[TOYS_HEAD_DES_ID_25712]
+Erhältlich durch die Teilnahme am Event „Unterwasseroperation“
 
 [JOUST_TOURNAMENT_ENDED]
 比赛结束
