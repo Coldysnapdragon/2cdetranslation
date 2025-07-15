@@ -30,7 +30,7 @@ Meeres-Pilz
 Meerespilze können im Wasser gepflanzt werden, haben eine kurze Reichweite und sind nur von kurzer Dauer.
 
 [SEASHROOM_TOOLTIP]
-Meerespilze können im Wasser gepflanzt werden, haben eine kurze Reichweite und sind nur von kurzer Dauer.
+Können im Wasser gepflanzt werden, haben eine kurze Reichweite und Lebensdauer.
 
 [SEASHROOM_PRODUCT_SHORT_DESC]
 Meerespilze können im Wasser gepflanzt werden, haben eine kurze Reichweite und sind nur von kurzer Dauer.
@@ -7884,7 +7884,7 @@ Der Zauberpilz kann Spielkarten abfeuern, um Zombies vor und hinter ihnen anzugr
 Der Harzwerfer wirft Harz, das Zombies verlangsamt.
 
 [GHOSTPEPPER_PRODUCT_SHORT_DESC]
-Der Geisterpfeffer kann Zombies erschrecken und Schaden zufügen.
+Der Geist-Peperoni kann Zombies erschrecken und Schaden zufügen.
 
 [PEPPERPULT_PRODUCT_SHORT_DESC]
 Der Pfefferwerfer kann Zombies vor sich angreifen und umliegende Pflanzen erwärmen.
@@ -17068,44 +17068,46 @@ Saftling
 树脂投手投出的树脂能够减速僵尸。
 
 [GHOSTPEPPER]
-Geisterpepperoni
+Geist-Peperoni
 
 [GHOSTPEPPER_DESCRIPTION]
-{KEYWORD}伤害说明: {STAT}对接近的僵尸造成持续伤害。
-{KEYWORD}特点: {STAT}生效后一段时间会自爆。
-{KEYWORD}植物特征：{STAT}白色植物、飞行植物、矮个子
-{FLAVOR}当你看着她的时候你可能不会认识她，幽灵辣椒去什么地方的时候并不会一直都套着她那张白色床单。她第一次套上床单还是在某一年的万圣节派对上，每个人都为此精心准备了装扮而她觉得装扮成一个古老的鬼魂会比较有意思。但是从那以后她跟床单之间似乎有了一种心有灵犀的感觉，如同陷入爱河一般。
+{KEYWORD}Schadensbeschreibung: {STAT} Verursacht kontinuierlichen Schaden an Zombies in der Nähe.
+{KEYWORD}Merkmale: {STAT} Explodiert nach einiger Zeit.
+{KEYWORD}Pflanzenmerkmale: {STAT} Weiße Pflanzen, fliegende Pflanzen, kleine Menschen
+{FLAVOR}Ob du es glaubst oder nicht, die Geist-Peperoni trug nicht immer dieses weiße Bettlaken. Eigentlich hatte sie es nur einmal zu einer Halloween-Party übergeworfen. Alle anderen hatten aufwändige Kostüme, aber die Peperoni fand es lustig, sich als das gute alte Gespenst zu verkleiden. Lange Rede, kurzer Sinn: Die Peperoni verliebte sich in ihre Verkleidung und hatte ihre Berufung gefunden.
 
 [GHOSTPEPPER_DESCRIPTION_HEADER]
-幽灵辣椒能对接近的僵尸造成持续伤害。
+Geist-Peperonis suchen vorbeiziehende Zombies heim und explodieren nach einiger Zeit.
 
 [GHOSTPEPPER_TOOLTIP]
-幽灵辣椒能够对接近的僵尸造成持续伤害。
+Sucht vorbeiziehende Zombies heim und explodiert nach einiger Zeit
 
 [ZOMBIE_BEACH]
-ZOMBIE_BEACH_DESCRIPTION]
-{FLAVOR}ZOMBIE_BEACH_DESCRIPTION ZOMBIE hat erst kürzlich bemerkt, dass er nur einen Pantoffel anhat. Er glaubt, er hätte ihn beim Limbo-Tanzen auf der Irrlichtparty verloren. Aber ehrlich gesagt war er in der Nacht halb eingeschlafen ... wahrscheinlich hat er ihn irgendwo verloren.
+Schmalzlocken-Zombie
+
+[ZOMBIE_BEACH_DESCRIPTION]
+{FLAVOR}Er hat erst kürzlich bemerkt, dass er nur einen Pantoffel anhat. Er glaubt, er hätte ihn beim Limbo-Tanzen auf der Irrlichtparty verloren. Aber ehrlich gesagt war er in der Nacht halb eingeschlafen ... wahrscheinlich hat er ihn irgendwo verloren.
 
 [ZOMBIE_BEACH_DESCRIPTION_HEADER]
 Ein echter Strandschläger.
 
 [ZOMBIE_BEACH_ARMOR1]
-Straßensperren-ZOMBIE
+Schmalzlocken-Pylonenzombie
 
 [ZOMBIE_BEACH_ARMOR1_DESCRIPTION]
-{FLAVOR}Man sagt: „Geh am Strand spazieren!“ Andere sagen: „Trage die Armbinde!“ Genau das macht Straßensperren-ZOMBIE. Er ist der Beste darin, Anweisungen zu befolgen.
+{FLAVOR}Man sagt: „Geh am Strand spazieren!“ Andere sagen: „Trage die Armbinde!“ Genau das macht Straßensperren-pompadourzombie. Er ist der Beste darin, Anweisungen zu befolgen.
 
 [ZOMBIE_BEACH_ARMOR1_DESCRIPTION_HEADER]
-Seine Seestern-Barrikade macht ihn doppelt so stark wie ein normales Wams.
+Seine Seestern-Barrikade macht ihn doppelt so stark wie ein normaler Schmalzlocken-zombie.
 
 [ZOMBIE_BEACH_ARMOR2]
-Fasswams
+Schmalzlocken-Eimerzombie
 
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION]
-{FLAVOR}Fasswams versuchte, Ukulele zu lernen. Angesichts seiner Größe fiel es ihm leichter als Gitarre zu spielen. Aber seine steifen Finger … ließen ihn einfach nicht spielen. Jetzt kann er einfach auf sein Wams hauen, und es scheint ihm ziemlich gut zu gehen.
+{FLAVOR}Der Schmalzlocken-Eimerzombie wollte Ukulele lernen. Er dachte, je kleiner die Gitarre, desto einfacher. Leider waren seine steifen Finger nicht dafür gemacht. Jetzt kloppt er nur auf seinem Eimer rum. Das kann er sogar nur halb so schlecht.
 
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION_HEADER]
-Das Muschelwams bietet hervorragenden Schutz vor Verletzungen.
+Sein muschelbesetzter Eimer macht ihn widerstandsfähiger gegen Schaden.
 
 [ZOMBIE_BEACH_FEM]
 Bikini-Zombie
@@ -17126,13 +17128,13 @@ Barrikade Bikini Zombie
 Ihre Seestern-Barrikade macht sie doppelt so stark wie Bikini-Zombie.
 
 [ZOMBIE_BEACH_FEM_ARMOR2]
-Fass-Bikini-Zombie
+Bikini-Eimerzombie
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION]
-{FLAVOR} Bikini-Zombie hatte einst große Ambitionen. Sie wollte nicht nur am Strand rumhängen. Ihr Lebenstraum: Mitglied einer internationalen Synchronschwimmmannschaft zu werden. Leider kann sie keine Nasenklammer benutzen. Wenn sie eine Nase hätte …
+{FLAVOR}Der Bikini-Eimerzombie hatte Großes vor, wollte mehr, als nur am Strand herumzulungern. Das Ziel der Zombiedame: auf internationalen Synchronschwimm-Wettkämpfen dabei sein. Leider scheiterte sie an der Nasenklammer – wie sollte sie die nur ohne Nase befestigen?
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION_HEADER]
-Das Granatenfass bietet hervorragenden Schutz vor Verletzungen.
+Der muschelbesetzte Eimer schützt hervorragend gegen Schaden.
 
 [ZOMBIE_BEACH_FISHERMAN]
 Fischer-Zombie
@@ -17140,21 +17142,21 @@ Fischer-Zombie
 [ZOMBIE_BEACH_FISHERMAN_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Kann Pflanzen nach rechts ziehen.
 {KEYWORD}Funktionen:{STAT}Die nächste Pflanze wird aus dem Rasen gefischt.
-{FLAVOR}Jeder kennt den Fischer-Zombie nicht mehr. Er prahlt ständig mit seinen großen Fängen. Immer wieder behauptet er, einen „großen Fisch“ gefangen zu haben. Doch die Wahrheit ist: Niemand hat ihn jemals einen Fisch fangen sehen. Nicht ein einziges Mal. Das ist etwas zu verdächtig.
+{FLAVOR}Alle haben sie so satt, die Angelgeschichten vom Fischer-Zombie. Immerzu prahlt er damit, was für einen dicken Fang er wieder gemacht hat. Ständig hat er „was Großes“ an der Angel. Tatsächlich hat ihn aber noch nie jemand mit einem Fisch gesehen. Ist doch ein bisschen verdächtig, oder? 
 
 [ZOMBIE_BEACH_FISHERMAN_DESCRIPTION_HEADER]
-Wirft einen Haken aus, um weit entfernte Pflanzen zu fangen.
+Wirft seine Rute aus und angelt weit entfernte Pflanzen zu sich hin.
 
 [ZOMBIE_BEACH_SHELL]
-Panzer-Zombie
+Schalen-Zombie
 
 [ZOMBIE_BEACH_SHELL_DESCRIPTION]
-{KEYWORD}Funktionen:{STAT}Kann mit Panzern verschiedenen anormalen Bedingungen widerstehen.
-{KEYWORD}Funktionen:{STAT}Kann mit Panzern Pflanzen an Land zerquetschen.
-{FLAVOR}Der Panzer-Zombie beneidete den Möwen-Zombie um seine Flugfähigkeit. Um sich seinen Traum zu erfüllen, kaufte er für viel Geld starken Kleber von einem schäbigen Ladenbesitzer und klebte sich damit zwei Panzer an die Arme. Die Qualität des Klebers ist jedoch immer noch recht gut. Selbst als er in den Sand fiel, blieben die Panzer an seinem Arm.
+{KEYWORD}Funktionen:{STAT}Kann mit der Schale verschiedenen anormalen Bedingungen widerstehen.
+{KEYWORD}Funktionen:{STAT}Kann mit der Schale Pflanzen an Land zerquetschen.
+{FLAVOR}Der Schalen-Zombie beneidete den Möwen-Zombie um seine Flugfähigkeit. Um sich seinen Traum zu erfüllen, kaufte er für viel Geld starken Kleber von einem schäbigen Ladenbesitzer und klebte sich damit zwei Nuschelschalen an die Arme. Die Qualität des Klebers ist jedoch immer noch recht gut. Selbst als er in den Sand fiel, blieben die Panzer an seinem Arm.
 
 [ZOMBIE_BEACH_SHELL_DESCRIPTION_HEADER]
-Benutze Panzer, um Pflanzen zu verteidigen und anzugreifen.
+Benutzt eine Muschelschale, um sich vor Pflanzen zu verteidigen und anzugreifen.
 
 [ZOMBIE_BEACH_FLAG]
 Strandflaggen-Zombie
@@ -17166,21 +17168,21 @@ Strandflaggen-Zombie
 Er führte eine große „Welle“ von Zombies an.
 
 [ZOMBIE_BEACH_GARGANTUAR]
-Tiefsee-Riesenzombie
+Tiefsee-Gargantua
 
 [ZOMBIE_BEACH_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Schaden: {STAT}Verwendet Treibholz, um Pflanzen zu zerstören.
 {KEYWORD}Eigenschaften: {STAT}Wirft bei Schaden den Meerjungfrauen-Kobold-Zombie hinaus.
-{FLAVOR}Der große Kerl liebt Wasser. Wenn er im Wasser versinkt, fühlt er sich federleicht und frei schwebend. Vor allem aber fühlt er sich in diesem kostbaren Moment, als wäre die Last des Meerjungfrauen-Kobold-Zombies von seinen Schultern genommen worden.
+{FLAVOR}Der große Kerl liebt Wasser. Wenn er im Wasser versinkt, fühlt er sich federleicht und frei schwebend. Vor allem aber fühlt er sich in diesem kostbaren Moment, als wäre die Last des Meerjungfrauen-Wicht-Zombies von seinen Schultern genommen worden.
 
 [ZOMBIE_BEACH_GARGANTUAR_DESCRIPTION_HEADER]
-Der Riesenzombie ist ein harter Kerl.
+Der Gargantua ist ein harter Kerl.
 
 [ZOMBIE_BEACH_IMP]
-Meerjungfrauen-Kobold-Zombie
+Meerjungfrauen-Wicht-Zombie
 
 [ZOMBIE_BEACH_IMP_DESCRIPTION]
-{FLAVOR}Der Meerjungfrauen-Kobold-Zombie kann sich nicht entscheiden, ob er die ultimative Kokosnussschale oder den ultimativen Muschelschmuck tragen soll. Glatte Kokosnussschalen sind unverzichtbar. Aber Schalen liegen voll im Trend.
+{FLAVOR}Der Meerjungfrauen-Wicht-Zombie kann sich nicht entscheiden, ob er die ultimative Kokosnussschale oder den ultimativen Muschelschmuck tragen soll. Glatte Kokosnussschalen sind unverzichtbar. Aber Schalen liegen voll im Trend.
 
 [ZOMBIE_BEACH_IMP_DESCRIPTION_HEADER]
 Durchdringt parabolisch deine Verteidigung und bewegt sich dann vorwärts.
@@ -40670,7 +40672,7 @@ Beim Angriff besteht eine Chance von 40 % Zombies für 2 Sekunden einzufrieren.
 Beim Einpflanzen besteht die Chance, die Spezialdünger Fähigkeit direkt auszulösen!
 
 [ICEWEED_NEW_SKILL_LEVEL5_DES]
-Die Angriffsreichweite der Eisstacheln wird auf eine Kreuzreichweite erweitert. Wenn die Stacheln verloren gehen, explodieren sie und verursachen Schaden an der Schadensquelle (z. B. Ein Gargantuar) sowie einen Gefriereffekt. Gleichzeitig verursacht es geringen Schaden und verlangsamt die Zombies im 3x3-Bereich.
+Die Angriffsreichweite der Eisstacheln wird auf eine Kreuzreichweite erweitert. Wenn die Stacheln verloren gehen, explodieren sie und verursachen Schaden an der Schadensquelle (z. B. Ein Gargantua) sowie einen Gefriereffekt. Gleichzeitig verursacht es geringen Schaden und verlangsamt die Zombies im 3x3-Bereich.
 
 [ICEWEED_PLANTFOOD_DESCRIPTION]
 Saugt die Zombies dieser Reihe in den Bereich, in dem sich diese Reihe befindet, erzeugt dann ein Sägeblatt, stößt alle Zombies dieser Reihe bis zur letzten Reihe zurück und friert sie 2 Sekunden lang ein. Gleichzeitig erhöht es die Anzahl seiner eigenen Stacheln auf 4, erhöht den Schaden, sobald der vierte Stachel vorhanden ist, und priorisiert den Verlust des vierten Stachels bei einem Angriff. Nach dem Verlust des vierten Stachels erlischt die Schadenserhöhung.
@@ -42581,18 +42583,18 @@ Storchschnabel-Fechter
 
 [GERANIIFENCER_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}2 Felder vorwärts
-{KEYWORD}Funktionen: {STAT}Sprintet ein Feld vorwärts, um anzugreifen, und springt dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
+{KEYWORD}Funktionen: {STAT}Sprintet ein Feld vorwärts, um anzugreifen, und springt dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
 {KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanzen
 {FLAVOR}Das einzige Mal, dass der Storchschnabel-fechter mit Pflanzen konkurrierte, war in einer durchzechten Nacht. Er forderte den Rosenschwertkämpfer zu einem Fechtkampf heraus. Niemand weiß, was in dieser Nacht geschah, aber der Storchschnabel-fechter hat seitdem aufgehört zu trinken.
 
 [GERANIIFENCER_DESCRIPTIO N_HEADER]
-Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
+Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
 
 [GERANIIFENCER_TOOLTIP]
-Greift ein Feld vorwärts an und zurück,um Gargantuare Auszuweichen.
+Greift ein Feld vorwärts an und zurück,um Gargantuae Auszuweichen.
 
 [GERANIIFENCER_PRODUCT_SHORT_DESC]
-Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuars fehlschlagen.
+Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
 
 [GERANIIFENCER_SKILL_LEVEL1]
 Kraftvoller Angriff
@@ -42610,7 +42612,7 @@ Der Rückstoß des mächtigen Stichs wirkt auch bei mittelgroßen Zombies.
 Kraftvoller Sprung
 
 [GERANIIFENCER_SKILL_LEVEL5_DES]
-Gelegentlich kannst du einen Vorwärtsangriff in einen Sprung umwandeln, der dem Zombie großen Schaden zufügt und ihn betäubt. Triffst du einen Gargantuar, kannst du den Wicht dahinter sofort töten.
+Gelegentlich kannst du einen Vorwärtsangriff in einen Sprung umwandeln, der dem Zombie großen Schaden zufügt und ihn betäubt. Triffst du einen Gargantua, kannst du den Wicht dahinter sofort töten.
 
 [STORE_PRODUCT_AVATAR_GERANIIFENCER_TITLE]
 Storch-Fechter-Kostüm
@@ -43124,7 +43126,7 @@ Erhöht Angriff und Gesundheit. Stellt bei 3 oder mehr Gegnern 900 Gesundheitspu
 Hundertjähriger Baummensch
 
 [ENTS_SKILL_LEVEL5_DES]
-Angriff und Gesundheit werden erhöht. Stellt bei 3 oder mehr Gegnern 1500 Gesundheitspunkte pro Sekunde wieder her. Der Baumgeist blockt außerdem zwei Angriffe des Gargantuars.
+Angriff und Gesundheit werden erhöht. Stellt bei 3 oder mehr Gegnern 1500 Gesundheitspunkte pro Sekunde wieder her. Der Baumgeist blockt außerdem zwei Angriffe des Gargantuas.
 
 [STORE_PRODUCT_AVATAR_ENTS_TITLE]
 Baumgeist-Wächterkostüm
@@ -44324,7 +44326,7 @@ Der Flaggen-Zombie ist neben dem Aufseher-Zombie der überzeugendste Zombie. All
 Markiert die Ankunft einer großen Welle von Steam-Zombies.
 
 [ZOMBIE_STEAM_GARGANTUAR]
-Aufseher-Gargantuar
+Aufseher-Gargantua
 
 [ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION_HEADER]
 Zerschmettert alle Pflanzen und schleudert Wichte.
@@ -53313,7 +53315,7 @@ Einfrieren
 Hat Spezialdünger
 
 [MORPHEDTOGARGANTUAR]
-Transformiert zum Gargantuar
+Transformiert zum Gargantua
 
 [SAPPED]
 Saft
@@ -57682,13 +57684,13 @@ Mit einem „Wusch“-Geräusch erschien plötzlich eine dreifarbige quadratisch
 Sein Eiseneimer ist anders als die anderen.
 
 [ZOMBIE_PARKOUR_GARGANTUAR]
-Sicherheits Gargantuarzombie
+Sicherheits Gargantuazombie
 
 [ZOMBIE_PARKOUR_GARGANTUAR_DESCRIPTION]
 Heute ist der erste Tag seiner Beförderung. Er möchte einfach nur früher Feierabend machen und sich zur Feier des Tages neue Lederschuhe kaufen.
 
 [ZOMBIE_PARKOUR_GARGANTUAR_DESCRIPTION_HEADER]
-Gargantuar Zombie zum Sicherheitskapitän befördert.
+Gargantua Zombie zum Sicherheitskapitän befördert.
 
 [ZOMBIE_PARKOUR_IMP]
 Sicherheitsbeamter Wicht
@@ -57745,7 +57747,7 @@ Die heutige Flagge ist besonders leicht und zeigt zur Ziellinie.
 Die Flagge in seiner Hand ist die Wetterfahne des Rennens.
 
 [ZOMBIE_NEEDFORSPEED_GARGANTUAR]
-Straßen-Gargantuar-Zombie
+Straßen-Gargantua-Zombie
 
 [ZOMBIE_NEEDFORSPEED_GARGANTUAR_DESCRIPTION]
 Er trägt Sportkleidung. Heute ist er besonders aktiv und schwingt seine Waffe schneller.
@@ -69474,7 +69476,7 @@ Beim Pflanzen besteht die Chance, die direkt freizusetzen!
 Der Hypnopilz strahlt Licht aus, tötet die Zombies, die ihn fressen, und erzeugt einen Eimer-Zombie auf dem gleichen Level wie der Pilz ist.
 
 [HYPNOSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Hypnopilz strahlt Licht aus, tötet die Zombies, die ihn fressen, und erzeugt einen ^ff0000^ Gargantuar Zombie auf dem gleichen Level wie der Pilz ist. ^oldclr^
+Der Hypnopilz strahlt Licht aus, tötet die Zombies, die ihn fressen, und erzeugt einen ^ff0000^ Gargantua Zombie auf dem gleichen Level wie der Pilz ist. ^oldclr^
 
 [SUNSHROOM_NEW_SKILL_LEVEL1_DES]
 Der frisch gepflanzte Sonnenpilz wächst nach zwei Wachstumsphasen zu einem vollwertigen Sonnenpilz heran. Mit zunehmendem Wachstum erhöht sich auch die Sonnenlichtabgabe. Er erreicht die zweite Stufe in 18 Sekunden und die dritte in 72 Sekunden.
@@ -69851,22 +69853,22 @@ Die Säurezitrone feuert eine große Menge sauren Regens auf den gesamten Bildsc
 Säurezitronen werden auf den gesamten Bildschirm abgefeuert und fügen Zombies auf dem gesamten Bildschirm Schaden zu. ^ff0000^ Saurer Regen kann das Meerwasser mit Säure füllen und Zombies 10 Sekunden lang kontinuierlich Schaden zufügen. ^oldclr^
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies um Ghost Pepper herum erscheinen, verwandelt sich Ghost Pepper in einen Geist, um Zombies zu erschrecken. Er fügt jedem Zombie jede halbe Sekunde 30 Schaden zu und explodiert nach 10 Sekunden, um allen Gegnern in einem 3x3 großen Bereich 450 Schaden zuzufügen.
+Wenn Zombies um Geist-Peperoni herum erscheinen, verwandelt sich Ghost Pepper in einen Geist, um Zombies zu erschrecken. Er fügt jedem Zombie jede halbe Sekunde 30 Schaden zu und explodiert nach 10 Sekunden, um allen Gegnern in einem 3x3 großen Bereich 450 Schaden zuzufügen.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL2_DES]
-Ghost Peppers Angriffsreichweite erweitert sich zu einem Kreuz.
+Geist-Peperoni's Angriffsreichweite erweitert sich zu einem Kreuz.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL3_DES]
-Ghost Peppers Angriffsreichweite erhöht sich in jede Richtung um ein Feld.
+Geist-Peperoni's Angriffsreichweite erhöht sich in jede Richtung um ein Feld.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Energiebohnen-Fähigkeit direkt freizusetzen!
 
 [GHOSTPEPPER_PLANTFOOD_DESCRIPTION]
-Ghost Pepper öffnet sein Maul und verursacht 3 Sekunden lang Schreckensschaden an Zombies in einem 3×3 großen Bereich um sich selbst.
+Geist-Peperoni öffnet sein Maul und verursacht 3 Sekunden lang Schreckensschaden an Zombies in einem 3×3 großen Bereich um sich selbst.
 
 [GHOSTPEPPER_AVATAR_PLANTFOOD_DESCRIPTION]
-Ghost Pepper öffnet sein Maul und verursacht 3 Sekunden lang Schreckensschaden^ff0000^ an Zombies in einem 3×3 großen Bereich um sich selbst. Zombies werden während dieser Zeit schwindlig. ^oldclr^
+Geist-Peperoni öffnet sein Maul und verursacht 3 Sekunden lang Schreckensschaden^ff0000^ an Zombies in einem 3×3 großen Bereich um sich selbst. Zombies werden während dieser Zeit schwindlig. ^oldclr^
 
 [SWEETPOTATO_NEW_SKILL_LEVEL1_DES]
 Der süße Geruch der Süßkartoffel ist nicht so stark wie der des Gehirns, lockt aber dennoch Zombies im betroffenen Bereich in die eigene Reihe.
@@ -74676,10 +74678,10 @@ Warum schwebte das Eisenfass nicht durch den Auftrieb davon? Warum verrottete da
 Der Eiseneimer auf seinem Kopf bietet hervorragenden Schutz vor Schaden.
 
 [ZOMBIE_ATLANTIS_gargantuar]
-Ruinen-Gargantuar-zombie
+Ruinen-Gargantua-zombie
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION]
-Der Legende nach riss ein gewaltiger Gargantuar eine Steinsäule um und verursachte eine Flut, die das wunderschöne Königreich untergehen ließ. Es gibt auch eine Legende, dass es für bestimmte Gruppen erschwingliche Flugerlebnisse unter dem Meer gibt. Ruinen-Gargantuar-Zombie wird dir sagen, welche Legende wahr ist.
+Der Legende nach riss ein gewaltiger Gargantua eine Steinsäule um und verursachte eine Flut, die das wunderschöne Königreich untergehen ließ. Es gibt auch eine Legende, dass es für bestimmte Gruppen erschwingliche Flugerlebnisse unter dem Meer gibt. Ruinen-Gargantua-Zombie wird dir sagen, welche Legende wahr ist.
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION_HEADER]
 Zerschmettert Pflanzen und wirft einen Wicht.
@@ -75918,7 +75920,7 @@ Verursache in 30 Sekunden so viel Schaden wie möglich.
 Jingle Bells
 
 [GINGLEBELL_TASKDESCRIPTION]
-Füge dem Gargantuar im letzten Level {NUMBER} Schaden zu.
+Füge dem Gargantua im letzten Level {NUMBER} Schaden zu.
 
 [A_PILE_SNOWMEN1_TITLE]
 Flammentraining – Level 1
@@ -76960,13 +76962,13 @@ Linienumbruch: Bewegt sich an das Ende anderer Linien und bewegt sich in regelm�
 ^573701^ Nach speziellem Training kann er immun gegen Kontrolle, Deformation und sofortige Tötung sein.^oldclr^
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-Hammer-Gargantuar-Zombie
+Hammer-Gargantua-Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
 Zerschmettert Pflanzen mit einem schweren Hammer.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-Mit seiner enormen Stärke und unvergleichlichen Kraft ist er der König auf dem Schlachtfeld. Die legendäre Geschichte des Hammer Gargantuar's bedarf keiner weiteren Erklärung.
+Mit seiner enormen Stärke und unvergleichlichen Kraft ist er der König auf dem Schlachtfeld. Die legendäre Geschichte des Hammer Gargantua's bedarf keiner weiteren Erklärung.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
 Eisentopf-Zombie
