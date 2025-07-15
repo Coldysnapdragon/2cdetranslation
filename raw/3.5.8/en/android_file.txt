@@ -7854,106 +7854,106 @@ Mittelalter
 缠绕水草可以缠住一个僵尸并沉入水底。
 
 [HOMINGTHISTLE_PRODUCT_SHORT_DESC]
-导向蓟可以自动瞄准一个最近的敌人攻击。
+Homing Thistle kann automatisch den nächsten Gegner anvisieren.
 
 [LEMON_PRODUCT_SHORT_DESC]
-强酸柠檬可以腐蚀铁制护甲。
+Stark säurehaltige Zitrone kann Eisenpanzerung korrodieren.
 
 [LOTUSSHOWER_PRODUCT_SHORT_DESC]
-莲小蓬可以发射鱼雷攻击前方僵尸。
+Lotus kann Torpedos abfeuern, um Zombies vor ihm anzugreifen.
 
 [CRACKER_PRODUCT_SHORT_DESC]
-竹员外可以将僵尸炸飞！
+Zhu Yuanwai kann Zombies in die Luft jagen!
 
 [CHESTNUT_PRODUCT_SHORT_DESC]
-板栗小队可以召唤板栗攻击前方区域内的僵尸。
+Der Kastanientrupp kann Kastanien beschwören, um Zombies vor ihm anzugreifen.
 
 [RAFFLESIA_PRODUCT_SHORT_DESC]
-大王花可以攻击前方最后一个僵尸。
+Rafflesia kann den letzten Zombie vor ihm angreifen.
 
 [ACORN_PRODUCT_SHORT_DESC]
-旋风橡果可以攻击前方一排僵尸，并重创海象僵尸。
+Tornado-Eichel kann die Zombiereihe vor ihm angreifen und Walross-Zombies schwer beschädigen.
 
 [XSHOT_PRODUCT_SHORT_DESC]
-旋转芜菁可以向四个方向同时发射子弹。
+Die Spinnende Rübe kann Kugeln in vier Richtungen gleichzeitig abfeuern.
 
 [SUGARCANE_PRODUCT_SHORT_DESC]
-竹小弟可以顶住接近的僵尸，阻止它们前进。
+Der Bambusmann kann herannahende Zombies aufhalten und sie am Vorrücken hindern.
 
 [ROSESWORDMAN_PRODUCT_SHORT_DESC]
-玫瑰剑客可以攻击接近的僵尸，并对生命较低的僵尸发动强力攻击。
+Der Rosenschwertkämpfer kann herannahende Zombies angreifen und Zombies mit geringerer Gesundheit mit mächtigen Angriffen belegen.
 
 [MAGICSHROOM_PRODUCT_SHORT_DESC]
-魔术菇可以发射扑克牌攻击前后方的僵尸。
+Der Zauberpilz kann Spielkarten abfeuern, um Zombies vor und hinter ihnen anzugreifen.
 
 [SAPFLING_PRODUCT_SHORT_DESC]
-树脂投手投出的树脂能减速僵尸。
+Der Harzwerfer wirft Harz, das Zombies verlangsamt.
 
 [GHOSTPEPPER_PRODUCT_SHORT_DESC]
-幽灵辣椒能够恐吓僵尸并造成伤害。
+Der Geisterpfeffer kann Zombies erschrecken und Schaden zufügen.
 
 [PEPPERPULT_PRODUCT_SHORT_DESC]
-辣椒投手能攻击前方的僵尸并温暖周围的植物。
+Der Pfefferwerfer kann Zombies vor sich angreifen und umliegende Pflanzen erwärmen.
 
 [HURRIKALE_PRODUCT_SHORT_DESC]
-飓风甘蓝能使僵尸减速并后退。
+Hurrikan-Grünkohl verlangsamt Zombies und zwingt sie, zurückzuweichen.
 
 [FIREPEASHOOTER_PRODUCT_SHORT_DESC]
-火焰豌豆能攻击前方的僵尸并温暖周围的植物。
+Feuererbsen greifen Zombies vor sich an und erwärmen umliegende Pflanzen.
 
 [HOTPOTATO_PRODUCT_SHORT_DESC]
-烤马铃薯能融化冻结的冰块。
+Ofenkartoffeln schmelzen gefrorenes Eis.
 
 [CHARDGUARD_PRODUCT_SHORT_DESC]
-甜菜护卫能弹飞僵尸并阻挡僵尸前进。
+Rübenwächter stoßen Zombies ab und blockieren ihren Vormarsch.
 
 [STUNION_PRODUCT_SHORT_DESC]
-眩晕洋葱能使僵尸陷入定身状态。
+Betäubungszwiebeln machen Zombies bewegungsunfähig.
 
 [POWERPLANT_PRODUCT_SHORT_DESC]
-建立强化瓷砖,以供玩家种植植物
+Baue Power-Up-Plättchen, auf denen Spieler Pflanzen anbauen können.
 
 [STARFRUIT_PRODUCT_SHORT_DESC]
-向五个方向发射小星星。
+Schießt kleine Sterne in fünf Richtungen.
 
 [JALAPENO_PRODUCT_SHORT_DESC]
-给一条线上的僵尸造成巨大的伤害。
+Fügt Zombies in einer Linie großen Schaden zu.
 
 [PUFFSHROOM_PRODUCT_SHORT_DESC]
-攻击一定距离内的僵尸，一段时间后消失。
+Greift Zombies in einer bestimmten Entfernung an und verschwindet nach einer Weile.
 
 [FUMESHROOM_PRODUCT_SHORT_DESC]
-攻击一定距离内的所有僵尸。
+Greift alle Zombies in einer bestimmten Entfernung an.
 
 [HYPNOSHROOM_PRODUCT_SHORT_DESC]
-使吃掉魅惑菇的僵尸为你作战。
+Lass Zombies, die Zauberpilze fressen, für dich kämpfen.
 
 [SUNSHROOM_PRODUCT_SHORT_DESC]
-可以产出阳光，随着自身成长能增加产出阳光数。
+Kann Sonnenlicht erzeugen, dessen Menge mit zunehmendem Wachstum zunimmt.
 
 [SUNBEAN_PRODUCT_SHORT_DESC]
-使吃掉阳光豆的僵尸被攻击时掉落阳光。
+Zombies, die Sonnenlichtbohnen fressen, lassen bei Angriff Sonnenlicht fallen.
 
 [PEANUT_PRODUCT_SHORT_DESC]
-阻挡僵尸前进并能攻击僵尸。
+Blockiert Zombies am Vorwärtskommen und kann Zombies angreifen.
 
 [MAGNETSHROOM_PRODUCT_SHORT_DESC]
-吸走僵尸身上的金属物品。
+Saugt Metallgegenstände von Zombies weg.
 
 [STREETLAMP_PRODUCT_SHORT_DESC]
-驱散迷雾并且发现隐形的僵尸。
+Vertreibt Nebel und findet unsichtbare Zombies.
 
 [COFFEEBEAN_PRODUCT_SHORT_DESC]
-唤醒沉睡的植物并暂时提升攻击力。
+Weckt ruhende Pflanzen auf und erhöht vorübergehend ihre Angriffskraft.
 
 [ICESHROOM_PRODUCT_SHORT_DESC]
-随着成长释放不同的寒冰法术攻击前方僵尸。
+Während er wächst, setzt er verschiedene Eiszauber frei, um Zombies vor ihm anzugreifen.
 
 [FIRESHROOM_PRODUCT_SHORT_DESC]
-随着成长释放不同的火焰法术攻击前方僵尸。
+Während er wächst, setzt er verschiedene Feuerzauber frei, um Zombies vor ihm anzugreifen.
 
 [OAKSHOOTER_PRODUCT_SHORT_DESC]
-射出强力的箭矢攻击前方僵尸。
+Schießt mächtige Pfeile ab, um Zombies vor ihnen anzugreifen.
 
 [BONUS_GOLD_1]
 金币
@@ -10758,85 +10758,85 @@ Start nicht möglich
 磁力菇装扮
 
 [STREETLAMP_AVATAR_NAME]
-路灯花装扮
+Straßenlaternen-Kostüm
 
 [ICESHROOM_AVATAR_NAME]
-寒冰菇装扮
+Eispilz-Kostüm
 
 [FIRESHROOM_AVATAR_NAME]
-烈焰菇装扮
+Feuerpilz-Kostüm
 
 [OAKSHOOTER_AVATAR_NAME]
-橡木弓手装扮
+Eichenbogenschützen-Kostüm
 
 [CHOMPER_AVATAR_NAME]
-大嘴花装扮
+Kapitelblumen-Kostüm
 
 [SWEETPOTATO_AVATAR_NAME]
-甜薯装扮
+Süßkartoffel-Kostüm
 
 [LILYPAD_AVATAR_NAME]
-莲叶装扮
+Lotusblatt-Kleid
 
 [BOWLINGBULB_AVATAR_NAME]
-保龄装扮
+Bowling-Kleid
 
 [BANANA_AVATAR_NAME]
-香蕉装扮
+Bananen-Kleid
 
 [GUACODILE_AVATAR_NAME]
-鳄梨装扮
+Avocado-Kleid
 
 [TANGLEKELP_AVATAR_NAME]
-水草装扮
+Wasserpflanzen-Kleid
 
 [HOMINGTHISTLE_AVATAR_NAME]
-导向装扮
+Guide Kleid
 
 [LOTUSSHOWER_AVATAR_NAME]
-莲蓬装扮
+Lotuskleid
 
-[LEMON_AVATAR_NAME]
-柠檬装扮
+[LEMON_A VATAR_NAME]
+Zitronenkostüm
 
 [CRACKER_AVATAR_NAME]
-竹员外装扮
+Mr. Bamboo Kostüm
 
 [CHESTNUT_AVATAR_NAME]
-板栗装扮
+Kastanienkostüm
 
 [RAFFLESIA_AVATAR_NAME]
-大王花装扮
+Rafflesia-Kostüm
 
 [ACORN_AVATAR_NAME]
-橡果装扮
+Eichelkostüm
 
 [XSHOT_AVATAR_NAME]
-芜菁装扮
+Rübenkostüm
 
 [SUGARCANE_AVATAR_NAME]
-竹小弟装扮
+Rosenmannkostüm
 
-[ROSESWORDMAN_AVATAR_NAME]
-玫瑰装扮
+[ROSESWORDMAN_AVATAR_NAME] ATAR_NAME]
+Rosenoutfit
 
 [MAGICSHROOM_AVATAR_NAME]
-魔术菇装扮
+Zauberpilz-Outfit
 
 [SAPFLING_AVATAR_NAME]
-树脂装扮
+Harz-Outfit
 
 [FIREPEASHOOTER_AVATAR_NAME]
-火焰射手装扮
+Feuerschütze Outfit
 
 [PEPPERPULT_AVATAR_NAME]
-辣椒投手装扮
+Pfefferkrug-Outfit
 
 [CHARDGUARD_AVATAR_NAME]
-甜菜装扮
+Rüben-Outfit
 
 [STUNION_AVATAR_NAME]
-洋葱装扮
+Zwiebel-Outfit
 
 [ACTIVITY_DOUBLE_COINS]
 活动时间！获得双倍的金币奖励！
@@ -16972,71 +16972,71 @@ Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 发射种子，受到攻击时，会直线向前冲咬所有遇到的僵尸。
 
 [HOMINGTHISTLE]
-导向蓟
+Lenkdistel
 
 [HOMINGTHISTLE_DESCRIPTION]
-{KEYWORD}范围：{STAT}草坪全范围
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}别奢望可以靠近导向蓟。那个时候他早已经盯上你了。他能看穿任何伪装。就好像带着激光枪一样…瞄准着你的灵魂。
+{KEYWORD}Reichweite: {STAT}Der gesamte Rasen
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen
+{FLAVOR}Rechne nicht damit, die Lenkdistel zu nahe zu kommen. Sie hat dich bereits im Visier. Sie durchschaut jede Verkleidung. Es ist, als hätte sie eine Laserpistole bei sich ... und zielt auf deine Seele.
 
 [HOMINGTHISTLE_DESCRIPTION_HEADER]
-导向蓟会对离自己最近的目标发射跟踪弹。
+Die Lenkdistel feuert Zielsuchraketen auf das nächstgelegene Ziel ab.
 
 [HOMINGTHISTLE_TOOLTIP]
-攻击最靠左的目标
+Greift das Ziel ganz links an.
 
 [LILYPAD]
-莲叶
+Seerosenblatt
 
 [LILYPAD_DESCRIPTION]
-{KEYWORD}用法：{STAT} 可以种植非水生植物
-{KEYWORD}植物特征：{STAT}绿色植物、水生植物、矮个子
-{FLAVOR}不太有人知道，原来莲叶超级喜欢广场舞。他一上场，就仿佛舞池里滑动的圆盘横扫全场。他特爱这种舞可以令自己突破极限，飘飘欲仙的感觉。
+{KEYWORD}Verwendung: {STAT}Kann Pflanzen anbauen, die nicht im Wasser wachsen.
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen, Wasserpflanzen, kleine Menschen.
+{FLAVOR}Nur wenige wissen, dass das Seerosenblatt Square Dance liebt. Sobald es die Bühne betrat, rutschte eswie eine Scheibe über die Tanzfläche und fegte über den gesamten Saal. Besonders liebte es das Gefühl, bei dieser Art des Tanzens die Grenzen zu überschreiten und durch die Luft zu schweben.
 
 [LILYPAD_DESCRIPTION_HEADER]
-莲叶可以让你在它上面种植非水生植物。
+Auf dem Seerosenblatt können Pflanzen angebaut werden, die nicht im Wasser wachsen.
 
 [LILYPAD_TOOLTIP]
-可以将非水生植物种植在莲叶上
+Nicht-Wasserpflanzen können auf dem Seerosenblatt gepflanzt werden.
 
 [TANGLEKELP]
-缠绕水草
+Schlingtang
 
 [TANGLEKELP_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、水生植物
-{FLAVOR}缠绕水草喜欢沉思。他主攻哲学。如果拉着他喝上一杯草根啤酒，他就开始不停地讲尼采的“查拉图斯特拉如是说”，要么就是死磕康德的“纯理性批判”，听起来的确很高大上，不过有时你只不过想聊点轻松的话题，比如水底的温度是多少。
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grünpflanzen, Wasserpflanzen
+{FLAVOR}Schlingtang mag es tiefgründig. Immerhin hat er Philosophie studiert. Triff dich mit ihm auf ein Wurzelbier, und er fängt ungefragt an, über Nietzsches „Also sprach Zucchini“ oder Kants „Kritik der reinen Topfpflanze“ zu reden. Ist ja ganz nett. Aber manchmal wäre leichte Konversation doch etwas netter, oder? Frag ihn doch mal, wie das Wasser ist.
 
 [TANGLEKELP_DESCRIPTION_HEADER]
-缠绕水草是一种可以把接近他的第一个僵尸拉进水中的水生植物。
+Schlingtang ist eine Wasserpflanze, die den ersten Zombie, der sich ihr nähert, ins Wasser ziehen kann.
 
 [TANGLEKELP_TOOLTIP]
-能够把一只僵尸拖进水里的水生植物
+Wasserpflanze, die Zombies ins Wasser ziehen kann.
 
 [LEMON]
-强酸柠檬
+Starke Zitronensäure
 
 [LEMON_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR}别看柠檬喜欢玩水，他其实是个旱鸭子。虽然他跟人讲起小时候下水捉鱼的故事时总是一副信誓旦旦的样子，但是配合他现在的形象和身下那个萌萌的游泳圈一起看的话，这实在不是一件有说服力的事情。
+{KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze
+{FLAVOR}Zitrone spielt zwar gerne im Wasser, ist aber eigentlich ein Landratte. Er wirkt zwar immer selbstbewusst, wenn er von seiner Kindheitsgeschichte erzählt, in der er im Wasser Fische gefangen hat, doch in Kombination mit seinem aktuellen Aussehen und dem niedlichen Schwimmring unter ihm wirkt das nicht überzeugend.
 
 [LEMON_DESCRIPTION_HEADER]
-强酸柠檬可以对铁制护甲造成额外的伤害。
+Starke Zitronensäure kann Eisenpanzerungen zusätzlich beschädigen.
 
 [LEMON_TOOLTIP]
-柠檬能够能够腐蚀铁制护甲。
+Zitrone kann Eisenpanzerungen korrodieren.
 
 [LOTUSSHOWER]
-莲小蓬
+Lian Xiaopeng
 
 [LOTUSSHOWER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、水生植物
-{FLAVOR}莲小蓬是植物枪械爱好者俱乐部的成员，为了展现他的身份，他特意去做了一个左轮手枪的造型。对新造型非常满意的他决定去自己的哥哥莲叶那炫耀一番。出门的时候他无意中扫到电视里在播放功夫世界武僧僵尸入侵的消息，看了看那些个武僧的头顶，莲小蓬突然有种不想出门的感觉……
+{KEYWORD}Pflanzenmerkmale: {STAT}Grünpflanzen, Wasserpflanzen
+{FLAVOR}Lian Xiaopeng ist Mitglied im Club der Pflanzenwaffen-Enthusiasten. Um seine Identität zu zeigen, hat er sich bewusst die Form eines Revolvers gegeben. Er war sehr zufrieden mit der neuen Form und beschloss, vor seinem Bruder Lian Ye anzugeben. Als er ausging, sah er zufällig im Fernsehen die Nachricht von der Invasion der Mönchszombies in der Kung-Fu-Welt. Beim Anblick der Köpfe dieser Mönche verspürte Lian Xiaopeng plötzlich das Gefühl, nicht mehr hinausgehen zu wollen …
 
 [LOTUSSHOWER_DESCRIPTION_HEADER]
-莲小蓬在水中比在陆地上拥有更强的战斗力。
+Lian Xiaopengs Kampfkraft ist im Wasser stärker als an Land.
 
 [LOTUSSHOWER_TOOLTIP]
-莲小蓬能够发射鱼雷攻击前方僵尸。
+Lian Xiaopeng kann Torpedos abfeuern, um Zombies vor ihm anzugreifen.
 
 [CRACKER]
 Vermieter Bambus
@@ -17058,7 +17058,7 @@ Spinnfeuerwerk
 Es besteht die Möglichkeit, dass sich ein Spinfeuerwerk bildet, das gegnerischen Einheiten in der Nähe Schaden zufügt.
 
 [SAPFLING]
-树脂投手
+Saftling
 
 [SAPFLING_DESCRIPTION]
 {KEYWORD}伤害说明: {STAT}无法造成伤害，但是会在地上留下树脂
@@ -17073,7 +17073,7 @@ Es besteht die Möglichkeit, dass sich ein Spinfeuerwerk bildet, das gegnerische
 树脂投手投出的树脂能够减速僵尸。
 
 [GHOSTPEPPER]
-幽灵辣椒
+Geisterpepperoni
 
 [GHOSTPEPPER_DESCRIPTION]
 {KEYWORD}伤害说明: {STAT}对接近的僵尸造成持续伤害。
@@ -17088,139 +17088,137 @@ Es besteht die Möglichkeit, dass sich ein Spinfeuerwerk bildet, das gegnerische
 幽灵辣椒能够对接近的僵尸造成持续伤害。
 
 [ZOMBIE_BEACH]
-飞机头僵尸
-
-[ZOMBIE_BEACH_DESCRIPTION]
-{FLAVOR}飞机头僵尸最近才注意到他只穿了一支拖鞋。他认为自己一定是那晚的鬼火舞会上跳林波舞时弄丢的。不过说真的，那天他整晚都是迷迷糊糊的…拖鞋可能被他丢到不知道哪里去了。
+ZOMBIE_BEACH_DESCRIPTION]
+{FLAVOR}ZOMBIE_BEACH_DESCRIPTION ZOMBIE hat erst kürzlich bemerkt, dass er nur einen Pantoffel anhat. Er glaubt, er hätte ihn beim Limbo-Tanzen auf der Irrlichtparty verloren. Aber ehrlich gesagt war er in der Nacht halb eingeschlafen ... wahrscheinlich hat er ihn irgendwo verloren.
 
 [ZOMBIE_BEACH_DESCRIPTION_HEADER]
-普通的海滩混混僵尸。
+Ein echter Strandschläger.
 
 [ZOMBIE_BEACH_ARMOR1]
-路障飞机头僵尸
+Straßensperren-ZOMBIE
 
 [ZOMBIE_BEACH_ARMOR1_DESCRIPTION]
-{FLAVOR}人家说，沙滩走起！又有人说，路障筒戴起！是啊，路障飞机头僵尸就这么做了。他最擅长按照说明做事情。
+{FLAVOR}Man sagt: „Geh am Strand spazieren!“ Andere sagen: „Trage die Armbinde!“ Genau das macht Straßensperren-ZOMBIE. Er ist der Beste darin, Anweisungen zu befolgen.
 
 [ZOMBIE_BEACH_ARMOR1_DESCRIPTION_HEADER]
-他的海星路障桶让他比普通的飞机头僵尸强壮2倍。
+Seine Seestern-Barrikade macht ihn doppelt so stark wie ein normales Wams.
 
 [ZOMBIE_BEACH_ARMOR2]
-铁桶飞机头僵尸
+Fasswams
 
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION]
-{FLAVOR}铁桶飞机头僵尸试过学习怎么玩四弦琴。考虑到尺寸大小，他发现比起吉他四弦琴更容易学习。但是他僵硬的手指…就是没法弹啊。如今他也就能敲敲自己的铁桶了，而且似乎还做得还挺不赖的。
+{FLAVOR}Fasswams versuchte, Ukulele zu lernen. Angesichts seiner Größe fiel es ihm leichter als Gitarre zu spielen. Aber seine steifen Finger … ließen ihn einfach nicht spielen. Jetzt kann er einfach auf sein Wams hauen, und es scheint ihm ziemlich gut zu gehen.
 
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION_HEADER]
-贝壳铁桶提供了极好的保护使他免受伤害。
+Das Muschelwams bietet hervorragenden Schutz vor Verletzungen.
 
 [ZOMBIE_BEACH_FEM]
-比基尼僵尸
+Bikini-Zombie
 
 [ZOMBIE_BEACH_FEM_DESCRIPTION_HEADER]
-普通的沙滩比基尼僵尸。
+Ein normaler Strand-Bikini-Zombie.
 
 [ZOMBIE_BEACH_FEM_DESCRIPTION]
-{FLAVOR}我们以前没见过一个女性僵尸是不是有点奇怪？有人说是的，有人说不会。不管哪样，比基尼僵尸习惯了探寻新的地方。她不怕去女性僵尸从未去过的地方。你可以称她为先锋，也可以说她是个英雄。
+{FLAVOR}Ist es nicht ein bisschen seltsam, dass wir noch nie einen weiblichen Zombie gesehen haben? Manche sagen ja, manche sagen nein. So oder so, Bikini Zombie ist es gewohnt, neue Orte zu erkunden. Sie hat keine Angst davor, dorthin zu gehen, wo noch nie ein weiblicher Zombie zuvor war. Man könnte sie eine Pionierin nennen, oder man könnte sie eine Heldin nennen.
 
 [ZOMBIE_BEACH_FEM_ARMOR1]
-路障比基尼僵尸
+Barrikade Bikini Zombie
 
 [ZOMBIE_BEACH_FEM_ARMOR1_DESCRIPTION]
-{FLAVOR}看没看到路障比尼基僵尸路障筒上的海星？那是她自己安上去的。因为这个她也获得了不少赞美。并且不可否认，现在貌似人人都使用海星装饰。她可是潮流先驱，领头人。
+{FLAVOR}Hast du den Seestern auf der Barrikade von Barrikade Bikini Zombie gesehen? Sie hat ihn selbst angebracht. Sie hat dafür viele Komplimente bekommen. Und es ist unbestreitbar, dass heutzutage jeder Seesterne zur Dekoration verwendet. Sie ist eine Trendsetterin, eine Anführerin.
 
 [ZOMBIE_BEACH_FEM_ARMOR1_DESCRIPTION_HEADER]
-她的海星路障桶让她比比基尼僵尸强壮2倍。
+Ihre Seestern-Barrikade macht sie doppelt so stark wie Bikini-Zombie.
 
 [ZOMBIE_BEACH_FEM_ARMOR2]
-铁桶比基尼僵尸
+Fass-Bikini-Zombie
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION]
-{FLAVOR}比基尼僵尸曾经有过雄心壮志。她不想成天只是在海滩上混混。她的人生梦想：成为国际花样游泳队的一员。可悲的是，她没法用鼻塞。如果她有鼻子的话倒是…
+{FLAVOR} Bikini-Zombie hatte einst große Ambitionen. Sie wollte nicht nur am Strand rumhängen. Ihr Lebenstraum: Mitglied einer internationalen Synchronschwimmmannschaft zu werden. Leider kann sie keine Nasenklammer benutzen. Wenn sie eine Nase hätte …
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION_HEADER]
-贝壳铁桶提供了极好的保护使她免受伤害。
+Das Granatenfass bietet hervorragenden Schutz vor Verletzungen.
 
 [ZOMBIE_BEACH_FISHERMAN]
-渔夫僵尸
+Fischer-Zombie
 
 [ZOMBIE_BEACH_FISHERMAN_DESCRIPTION]
-{KEYWORD}特点：{STAT}能把植物向右拉
-{KEYWORD}特点：{STAT}离他最近的植物会被钓出草坪
-{FLAVOR}关于渔夫僵尸的故事，大家都听腻了。他总是对钓到的战利品有多大吹嘘一番。一次又一次，他声称曾经钓到个“大块头”。但是事情的真相是，没人见过他真的钓过一条鱼。哪怕一次也没有。这可有点太令人怀疑了。
+{KEYWORD}Funktionen:{STAT}Kann Pflanzen nach rechts ziehen.
+{KEYWORD}Funktionen:{STAT}Die nächste Pflanze wird aus dem Rasen gefischt.
+{FLAVOR}Jeder kennt den Fischer-Zombie nicht mehr. Er prahlt ständig mit seinen großen Fängen. Immer wieder behauptet er, einen „großen Fisch“ gefangen zu haben. Doch die Wahrheit ist: Niemand hat ihn jemals einen Fisch fangen sehen. Nicht ein einziges Mal. Das ist etwas zu verdächtig.
 
 [ZOMBIE_BEACH_FISHERMAN_DESCRIPTION_HEADER]
-抛出鱼钩钓取远处的植物。
+Wirft einen Haken aus, um weit entfernte Pflanzen zu fangen.
 
 [ZOMBIE_BEACH_SHELL]
-贝壳僵尸
+Panzer-Zombie
 
 [ZOMBIE_BEACH_SHELL_DESCRIPTION]
-{KEYWORD}特点：{STAT}能够利用贝壳抵挡各种异常状态
-{KEYWORD}特点：{STAT}在陆地上能够利用贝壳碾压植物
-{FLAVOR}贝壳僵尸非常羡慕海鸥僵尸能够在空中飞行，为了满足自己的梦想，他从黑心的商店老板那里花大价钱购买了强力胶水将两块贝壳黏在了他的手臂上。不管怎么说，胶水的质量还是蛮好的，就算他一头栽进沙子里的时候也没有从他的手臂上掉下来。
+{KEYWORD}Funktionen:{STAT}Kann mit Panzern verschiedenen anormalen Bedingungen widerstehen.
+{KEYWORD}Funktionen:{STAT}Kann mit Panzern Pflanzen an Land zerquetschen.
+{FLAVOR}Der Panzer-Zombie beneidete den Möwen-Zombie um seine Flugfähigkeit. Um sich seinen Traum zu erfüllen, kaufte er für viel Geld starken Kleber von einem schäbigen Ladenbesitzer und klebte sich damit zwei Panzer an die Arme. Die Qualität des Klebers ist jedoch immer noch recht gut. Selbst als er in den Sand fiel, blieben die Panzer an seinem Arm.
 
 [ZOMBIE_BEACH_SHELL_DESCRIPTION_HEADER]
-利用贝壳来防御和攻击植物。
+Benutze Panzer, um Pflanzen zu verteidigen und anzugreifen.
 
 [ZOMBIE_BEACH_FLAG]
-沙滩旗子僵尸
+Strandflaggen-Zombie
 
 [ZOMBIE_BEACH_FLAG_DESCRIPTION]
-{FLAVOR}谈到最有不满情绪的僵尸，沙滩旗子僵尸绝对排得上号。其他僵尸没人能体会到像他这样举着旗子游泳是多困难的一件事，也从来没想过感谢他艰难完成了不得不做的工作。所以一点也不奇怪——他曾经去别的地方面试找工作。
+{FLAVOR}Wenn wir schon von den verärgertesten Zombies sprechen: Der Strandflaggen-Zombie gehört definitiv dazu. Keiner der anderen Zombies konnte verstehen, wie schwierig es war, mit einer Flagge wie ihm zu schwimmen, und niemand dachte daran, ihm für seine schwierige Aufgabe zu danken. Kein Wunder also, dass er einmal zu einem Vorstellungsgespräch für einen anderen Job ging.
 
 [ZOMBIE_BEACH_FLAG_DESCRIPTION_HEADER]
-引领着一大“波”僵尸的到来。
+Er führte eine große „Welle“ von Zombies an.
 
 [ZOMBIE_BEACH_GARGANTUAR]
-深海巨人僵尸
+Tiefsee-Riesenzombie
 
 [ZOMBIE_BEACH_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害：{STAT}使用浮木摧毁植物
-{KEYWORD}特点：{STAT}当受到伤害会扔出美人鱼小鬼僵尸
-{FLAVOR}大块头喜欢有水的地方。当他沉入水里，会感到自己轻如鸿毛，自由飞翔。最重要的是，在这珍贵的时刻，他仿佛感觉到美人鱼小鬼僵尸的重量已经从他的肩膀消失了。
+{KEYWORD}Schaden: {STAT}Verwendet Treibholz, um Pflanzen zu zerstören.
+{KEYWORD}Eigenschaften: {STAT}Wirft bei Schaden den Meerjungfrauen-Kobold-Zombie hinaus.
+{FLAVOR}Der große Kerl liebt Wasser. Wenn er im Wasser versinkt, fühlt er sich federleicht und frei schwebend. Vor allem aber fühlt er sich in diesem kostbaren Moment, als wäre die Last des Meerjungfrauen-Kobold-Zombies von seinen Schultern genommen worden.
 
 [ZOMBIE_BEACH_GARGANTUAR_DESCRIPTION_HEADER]
-巨人僵尸的力气可不是盖的.
+Der Riesenzombie ist ein harter Kerl.
 
 [ZOMBIE_BEACH_IMP]
-美人鱼小鬼僵尸
+Meerjungfrauen-Kobold-Zombie
 
 [ZOMBIE_BEACH_IMP_DESCRIPTION]
-{FLAVOR}美人鱼小鬼僵尸对戴顶极的椰壳还是顶极的贝壳首饰拿不了主意。光滑的椰壳是必不可少的。但贝壳实在超超超级潮。
+{FLAVOR}Der Meerjungfrauen-Kobold-Zombie kann sich nicht entscheiden, ob er die ultimative Kokosnussschale oder den ultimativen Muschelschmuck tragen soll. Glatte Kokosnussschalen sind unverzichtbar. Aber Schalen liegen voll im Trend.
 
 [ZOMBIE_BEACH_IMP_DESCRIPTION_HEADER]
-抛物线式越过你的防线，然后辗转前进。
+Durchdringt parabolisch deine Verteidigung und bewegt sich dann vorwärts.
 
 [ZOMBIE_BEACH_OCTOPUS]
-章鱼僵尸
+Oktopus-Zombie
 
 [ZOMBIE_BEACH_OCTOPUS_DESCRIPTION]
-{KEYWORD}特点：{STAT}在章鱼被消灭之前植物会一直被缠住
-{FLAVOR}事情的起因其实很无厘头。某一天，章鱼僵尸决定养一只章鱼宠物。但却由此喜爱得不得了，就养了一只又一只的章鱼…不断。接下来你明白的，他成了章鱼庇护所的志愿者。而且现在，好吧，没人想直接告诉他，他简直快成了海底世界的猫夫人了。你真该看看他房子养了多少只，真是相当惊人。
+{KEYWORD}Features:{STAT}Pflanzen bleiben verheddert, bis der Oktopus zerstört ist.
+{FLAVOR}Wie alles begann, ist ziemlich lächerlich. Eines Tages beschloss Oktopus-Zombie, sich einen Oktopus als Haustier zuzulegen. Aber er liebte ihn so sehr, dass er sich immer mehr Tiere zulegte ... und plötzlich arbeitet er ehrenamtlich in einem Oktopus-Schutzgebiet. Und jetzt, nun ja, niemand will es ihm direkt sagen, ist er so etwas wie die Katzendame der Unterwasserwelt. Ihr solltet mal sehen, wie viele er in seinem Haus hat, es ist wirklich erstaunlich.
 
 [ZOMBIE_BEACH_OCTOPUS_DESCRIPTION_HEADER]
-扔出章鱼捆绑你的植物。
+Wirf Oktopusse, um deine Pflanzen festzubinden.
 
 [ZOMBIE_BEACH_SNORKEL]
-浮潜僵尸
+Schnorchelnder Zombie
 
 [ZOMBIE_BEACH_SNORKEL_DESCRIPTION]
-{KEYWORD}特点：{STAT}浮潜躲过攻击
-{FLAVOR}浮潜僵尸追求比基尼僵尸的时候真是心累。他试过送花，珠宝甚至巧克力酱的脑子。但是毫无成效。其实主要是因为透过潜水眼镜根本看不清他的脸啊。
+{KEYWORD}Funktionen: {STAT}Schnorcheln, um Angriffen auszuweichen
+{FLAVOR}Der schnorchelnde Zombie ist echt nervig, wenn er Bikini Zombie den Hof macht. Er hat es mit Blumen, Schmuck und sogar Schokoladensauces Gehirn versucht. Aber nichts funktioniert. Hauptsächlich, weil er sein Gesicht durch seine Taucherbrille nicht klar sehen kann.
 
 [ZOMBIE_BEACH_SNORKEL_DESCRIPTION_HEADER]
-浮潜僵尸会潜水。
+Der schnorchelnde Zombie kann tauchen.
 
 [ZOMBIE_BEACH_SURFER]
-冲浪僵尸
+Surfender Zombie
 
 [ZOMBIE_BEACH_SURFER_DESCRIPTION]
-{KEYWORD}伤害：{STAT}使用冲浪板摧毁一棵植物
-{FLAVOR}冲浪僵尸去年才开始玩冲浪的。起初他玩冲浪只是想让自己看上去很酷。但他确实是个天才。现在他可是进入前10强的好手，而且进入职业巡回赛成为选手，的确是够酷。
+{KEYWORD}Schaden:{STAT}Zerstöre eine Pflanze mit einem Surfbrett.
+{FLAVOR}Der Surfende Zombie hat letztes Jahr mit dem Surfen angefangen. Anfangs wollte er nur cool aussehen. Aber er ist ein Genie. Jetzt ist er ein Top-10-Spieler und ein Profi-Tourspieler, was echt cool ist.
 
 [ZOMBIE_BEACH_SURFER_DESCRIPTION_HEADER]
-砸毁经过的水中植物，然后带着冲浪板上岸。
+Zerstöre die Wasserpflanzen, wenn du vorbeikommst, und trage dann das Surfbrett an Land.
 
 [ACCESSORY_NAME_1]
 Super-Boxhandschuh
@@ -25349,7 +25347,7 @@ Dieser Beutel ist voller Münzen, genau wie dein Kopf voller Gehirne ist!
 Münzen, Münzen, Münzen! Stille deinen Hunger nach Power-Ups und!
 
 [AWARD_SCREEN_MONEYBAG_DESCRIPTION_03]
-Ein Beutel voller Münzen ist besser als ein Beutel voller Kobold-Zombies!
+Ein Beutel voller Münzen ist besser als ein Beutel voller Wicht-Zombies!
 
 [AWARD_SCREEN_MONEYBAG_DESCRIPTION_04]
 Tut mir leid, dein epischer, unendlicher Münzbeutel ist einem anderen Zombie in die Hände gefallen.
@@ -31702,97 +31700,98 @@ Verbinde identische Pflanzenkugeln, um Zombies anzugreifen und zu besiegen.
 新手挑战：第三关
 
 [VASEBREAKER_FAIRYTALE_LEVEL_NAME_1]
-童话挑战包！
+Märchen-Herausforderungspaket!
 
 [VASEBREAKER_FAIRYTALE_LEVEL_NAME_2]
-童话挑战包！
+Märchen-Herausforderungspaket!
 
 [VASEBREAKER_FAIRYTALE_LEVEL_NAME_3]
-童话挑战包！
+Märchen-Herausforderungspaket!
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_1]
-功夫挑战：初出茅庐
+Kung-Fu-Herausforderung: Anfänger
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_2]
-功夫挑战：游刃有余
+Kung-Fu-Herausforderung: Meisterschaft
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_3]
-功夫挑战：炉火纯青
+Kung-Fu-Herausforderung: Meisterschaft
 
 [VASEBREAKER_LEVEL_NAME]
-破罐者-第 {LEVEL_NUMBER} 关
+Topfbrecher - {LEVEL_NUMBER} =
 
 [VASEBREAKER_PACK_01_DESCRIPTION]
-新手挑战包
+Anfänger-Herausforderungspaket
 
 [VASEBREAKER_PACK_02_DESCRIPTION]
-埃及挑战包
+Ägypten-Herausforderungspaket
 
 [VASEBREAKER_PACK_03_DESCRIPTION]
-海盗挑战包
+Piraten-Herausforderungspaket
 
 [VASEBREAKER_PACK_04_DESCRIPTION]
-西部挑战包
+Western-Herausforderungspaket
 
 [VASEBREAKER_PACK_05_DESCRIPTION]
-新春挑战包
+Neujahrs-Herausforderung Paket
 
 [VASEBREAKER_PACK_06_DESCRIPTION]
-黑暗挑战包
+Dunkle Herausforderungspaket
 
 [VASEBREAKER_PACK_07_DESCRIPTION]
-摇滚挑战包
+VASEBREAKER_PACK_07_DESCRIPTION]
+Felsen Herausforderungspaket
 
 [VASEBREAKER_PACK_08_DESCRIPTION]
-失落挑战包
+Verloren Herausforderungspaket
 
 [VASEBREAKER_PACK_09_DESCRIPTION]
-摩登挑战包
+Moderne Herausforderungspaket
 
 [VASEBREAKER_PACK_10_DESCRIPTION]
-冰河挑战包
+Eis Herausforderungspaket
 
 [VASEBREAKER_PACK_11_DESCRIPTION]
-巨浪挑战包
+Große Welle Herausforderungspaket
 
 [VASEBREAKER_PACK_12_DESCRIPTION]
-恐龙挑战包
+Dinosaurier Herausforderungspaket
 
-[VASEBREAKER_PACK_13_DESCRIPTION]
-未来挑战包
+[VASEBREAKER_PACK_13_DESCRIPTION] ER_PACK_13_DESCRIPTION]
+Zukunftsherausforderung Paket
 
 [VASEBREAKER_PACK_14_DESCRIPTION]
-平安挑战包
+Friedens-Herausforderungspaket
 
 [VASEBREAKER_PACK_15_DESCRIPTION]
-童话挑战包
+Märchen-Herausforderungspaket
 
 [VASEBREAKER_PACK_16_DESCRIPTION]
-功夫挑战包
+Kung-Fu-Herausforderungspaket
 
 [VASEBREAKER_PACK_17_DESCRIPTION]
-春节挑战包
+Frühlingsfest-Herausforderungspaket
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_1]
-春节挑战：一帆风顺
+Frühlingsfest-Herausforderung: Alles glatt
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_2]
-春节挑战：二人同心
+Chinesisches Neujahrs-Herausforderung: Zwei Herzen vereint
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_3]
-春节挑战：三生有幸
+Chinesisches Neujahrs-Herausforderung: Drei Leben voller Glück
 
 [VASEBREAKER_HEIAN_LEVEL_NAME_1]
-平安挑战：下忍考试
+Heian-Herausforderung: Genin Prüfung
 
 [VASEBREAKER_HEIAN_LEVEL_NAME_2]
-平安挑战：中忍考试
+Heian-Herausforderung: Chunin-Prüfung
 
 [VASEBREAKER_HEIAN_LEVEL_NAME_3]
-平安挑战：上忍考试
+Heian-Herausforderung: Jonin-Prüfung
 
 [VASEBREAKER_DARK_LEVEL_NAME_1]
-黑暗挑战：黑暗大军
+Dunkle Herausforderung: Dunkle Armee
 
 [VASEBREAKER_DARK_LEVEL_NAME_2]
 黑暗挑战：挑战来临
@@ -45575,13 +45574,13 @@ Anmeldefehler
 Deine Versionsnummer ist zu niedrig. Bitte aktualisiere auf die neueste Version, um dich anzumelden.
 
 [NARCISSUSSHOOTER]
-Daffodil Shooter
+Daffodil
 
 [NARCISSUSSHOOTER_DESCRIPTION_HEADER]
-Große Blasen können Zombies und Kobold-Zombies die Rüstung rauben.
+Große Blasen können Zombies und Wicht-Zombies die Rüstung rauben.
 
 [NARCISSUSSHOOTER_DESCRIPTION]
-{KEYWORD}Merkmale:{STAT}Große Blasen können Zombies und Kobold-Zombies die Rüstung rauben.
+{KEYWORD}Merkmale:{STAT}Große Blasen können Zombies und Wicht-Zombies die Rüstung rauben.
 {KEYWORD}Pflanzenmerkmale:{STAT}Weiße Pflanze
 {FLAVOR}Daffodil ist eine Aristokratin, die seit ihrer Kindheit eine höhere Bildung genießt, aber ein frecher und süßer, kluger Geist ist. Der Kontrast zwischen aristokratischem Temperament und frecher Persönlichkeit macht sie bei ihren Freunden sehr beliebt.
 [NARCISSUSSHOOTER_TOOLTIP]
@@ -53403,7 +53402,7 @@ Töte {NUMBER} Zombie-Hühner.
 Töte {NUMBER} Friedliche normale Zombies.
 
 [DEFEAT_X_IMPS]
-Töte {NUMBER} Kobold-Zombies.
+Töte {NUMBER} Wicht-Zombies.
 
 [DEFEAT_X_BALLISTA]
 Töte {NUMBER} Batterien.
@@ -56619,31 +56618,31 @@ Legendär
 时空秘境-童话森林困难模式
 
 [FAIRY_TALE]
-童话世界
+Märchenwelt
 
 [COLLECTION_FAIRYTALE_NAME1]
-红皇后扑克牌
+Rote-Königin-Poker
 
 [COLLECTION_FAIRYTALE_DESCRIPTION1]
-场上所有植物每秒有2%的概率进入持续10秒的精准打击状态，精准打击状态下植物的每次伤害额外追加30%的真实伤害。真实伤害无视护盾与防具。(创意庭院模式下不生效)
+Alle Pflanzen auf dem Feld haben eine Chance von 2 %, in einen Präzisionsschlagzustand zu geraten, der 10 Sekunden pro Sekunde anhält. Jeder Schaden, den die Pflanze im Präzisionsschlagzustand verursacht, erhöht den wahren Schaden um 30 %. Wahrer Schaden ignoriert Schilde und Rüstung. (Nicht wirksam im Kreativhof-Modus.)
 
 [COLLECTION_FAIRYTALE_NAME2]
-红皇后扑克牌
+Rote-Königin-Poker
 
 [COLLECTION_FAIRYTALE_NAME3]
-红皇后扑克牌
+Rote-Königin-Poker
 
 [COLLECTION_FAIRYTALE_DESCRIPTION]
-场上所有植物每秒有{STUFF_1}%的概率进入持续{STUFF_2}秒的精准打击状态，精准打击状态下植物的每次伤害额外追加{STUFF_4}%的真实伤害。真实伤害无视护盾与防具。(创意庭院模式下不生效)
+Alle Pflanzen auf dem Feld haben eine Chance von {STUFF_1} %, in einen Präzisionsschlagzustand zu geraten, der {STUFF_2} Sekunden pro Sekunde anhält. Jeder Schaden, den die Pflanze im Präzisionsschlagzustand verursacht, erhöht den wahren Schaden um {STUFF_4} %. Wahrer Schaden ignoriert Schilde und Rüstung. (Nicht wirksam im Kreativhof-Modus.)
 
 [COLLECTION_FAIRYTALE_GOT_WAY]
-时空秘境-童话世界
+Geheimes Reich von Zeit und Raum – Märchenwelt
 
 [NEW_AVATAR_SOURCE_ACTIVITY_AND_TIMESPACESECRET]
-活动产出、时空秘境
+Aktivitätsausgabe, Geheimes Reich von Zeit und Raum
 
 [TIMESPACESECRET]
-时空秘境
+Geheimes Reich zwischen Zeit und Raum
 
 [UI_BAG_PIECE_WAY]
 Erhaltsweg: {DESC}
@@ -57566,7 +57565,7 @@ Neujahrs-Special-Zombie
 Spielzeugauto-Zombie
 
 [ZOMBIE_CHILDREN_TOYGUN]
-Spielzeugpistolen-Kobold-Zombie
+Spielzeugpistolen-Wicht-Zombie
 
 [ZOMBIE_CHILDREN_LOLIPOPS]
 Lollipop-Zombie
@@ -69738,160 +69737,162 @@ Wächst sofort zur dritten Stufe und erzeugt eine Feuerwand, die Zombies blockie
 保龄泡泡做好准备，当有僵尸出现在右侧时依次发射^ff0000^高伤害的烈焰保龄球，可以减速僵尸10秒的寒冰保龄球，可以^oldclr^^ff9600^麻痹Ⅰ^oldclr^^ff0000^僵尸1秒的闪电保龄球。它们都能造成溅射伤害。^oldclr^
 
 [TANGLEKELP_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在缠绕水草右侧时，缠绕水草会沉入水中并在僵尸经过时将他拖入海底。当僵尸阶数高于他或者为巨人僵尸时则造成固定伤害。
+Erscheint ein Zombie rechts neben der Verworrenen Wasserpflanze, sinkt diese ins Wasser und zieht den Zombie auf den Meeresgrund. Ist der Zombie größer oder ein Riesenzombie, verursacht er festen Schaden.
 
 [TANGLEKELP_NEW_SKILL_LEVEL2_DES]
-缠绕水草在缠住僵尸后还能抓住僵尸挥舞并击退右侧的僵尸1格。
+Nachdem sich die Verworrene Wasserpflanze mit dem Zombie verwickelt hat, kann sie ihn auch packen und schwingen, um den Zombie rechts um ein Feld zurückzustoßen.
 
 [TANGLEKELP_NEW_SKILL_LEVEL3_DES]
-缠绕水草的大力挥舞能够攻击左右前方的僵尸可击退僵尸1格。
+Der kraftvolle Schwung der Verworrenen Wasserpflanze kann die Zombies links und rechts vor ihnen angreifen und um ein Feld zurückstoßen.
 
 [TANGLEKELP_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Angriff!
 
 [TANGLEKELP_PLANTFOOD_DESCRIPTION]
-缠绕水草随机对水中的3个单位进行攻击。
+Das Verworrene Wasserkraut greift zufällig 3 Einheiten im Wasser an.
 
 [TANGLEKELP_AVATAR_PLANTFOOD_DESCRIPTION]
-缠绕水草随机对水中的^ff0000^5个单位进行攻击。^oldclr^
+Verworrene Wasserpflanzen greifen zufällig ^ff0000^5 Einheiten im Wasser an. ^oldclr^
 
 [BANANA_NEW_SKILL_LEVEL1_DES]
-点击香蕉火箭炮后获得准星，再点击场内任意一格，香蕉火箭炮会从炮筒发射香蕉导弹，对 2×1 范围内的僵尸造成伤害，之后进入 20 秒的休息时间。
+Klicke auf den Bananenraketenwerfer, um das Fadenkreuz zu erhalten. Klicke dann auf ein beliebiges Gitter im Feld. Der Bananenraketenwerfer feuert Bananenraketen aus dem Fass ab, die Zombies im Umkreis von 2×1 Schaden zufügen. Anschließend ruht er sich 20 Sekunden lang aus.
 
 [BANANA_NEW_SKILL_LEVEL2_DES]
-炸弹装填加快休息时间缩短为17s。
+Das Nachladen von Bomben wird beschleunigt und die Ruhezeit auf 17 Sekunden verkürzt.
 
 [BANANA_NEW_SKILL_LEVEL3_DES]
-装填速度进一步加快休息时间缩短为14s。
+Die Nachladegeschwindigkeit wird weiter erhöht und die Ruhezeit auf 14 Sekunden verkürzt.
 
 [BANANA_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [BANANA_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率发射一枚伤害为3600的导弹，导弹会在6s后爆炸并对 3×3 范围造成 4500 点伤害。
+Beim Angriff besteht eine 20%ige Chance, eine Rakete mit 3600 Schaden abzufeuern. Die Rakete explodiert nach 6 Sekunden und verursacht 4500 Schaden in einem Umkreis von 3×3.
 
 [BANANA_PLANTFOOD_DESCRIPTION]
-全力发射向全屏随机发射4枚香蕉炮弹并进入休息状态。
+Bei voller Kraft werden 4 Bananenbomben zufällig über den gesamten Bildschirm abgefeuert und gehen in den Ruhezustand über.
 
 [BANANA_AVATAR_PLANTFOOD_DESCRIPTION]
-全力发射向全屏随机发射4枚香蕉炸弹^ff0000^并追加一枚伤害稍低的炮弹，^oldclr^之后进入休息状态。
+Bei voller Kraft werden 4 Bananenbomben zufällig auf den gesamten Bildschirm abgefeuert^ff0000^ und eine zusätzliche Bombe mit etwas geringerem Schaden hinzugefügt.^oldclr^ Anschließend wird der Ruhezustand aktiviert.
 
 [GUACODILE_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在鳄梨右侧时鳄梨将会发射果核或者牙套。当鳄梨时受到伤害或僵尸靠近鳄梨时，鳄梨会发起冲锋对沿途的僵尸造成0.2s/次频率的伤害，冲锋伤害为150。
+Wenn ein Zombie rechts neben der Avocado erscheint, feuert die Avocado einen Kern oder eine Klammer ab. Wird die Avocado beschädigt oder nähert sich ein Zombie der Avocado, lädt sich die Avocado auf und fügt den Zombies auf dem Weg mit einer Frequenz von 0,2 s/Zeit Schaden zu. Der Ladeschaden beträgt 150.
 
 [GUACODILE_NEW_SKILL_LEVEL2_DES]
-有20%的概率发射鳄梨的牙套造成50%的额外伤害。冲锋伤害上升为225。
+Es besteht eine 20%ige Chance, die Klammern der Avocado abzufeuern und so 50 % zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 225.
 
 [GUACODILE_NEW_SKILL_LEVEL3_DES]
-有40%的概率发射鳄梨的钻石牙套造成100%的额外伤害。冲锋伤害上升为300。
+Es besteht eine 40%ige Chance, die Diamantspangen der Avocado zu schleudern und so 100 % zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 300.
 
 [GUACODILE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！冲锋伤害上升为375。
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt mit einem großen Move auszulösen! Der Aufladeschaden erhöht sich auf 375.
 
 [GUACODILE_PLANTFOOD_DESCRIPTION]
-击退前方一格的僵尸，并释放两个与自身冲锋性质一样的小鳄梨，小鳄梨会直接冲出场外。
+Stoße die Zombies vor dir zurück und lasse zwei kleine Avocados mit denselben Aufladeeigenschaften wie du los. Die kleinen Avocados stürmen vom Feld.
 
 [GUACODILE_AVATAR_PLANTFOOD_DESCRIPTION]
-击退前方一格的僵尸，并释放两个与自身冲锋性质一样的小鳄梨，^ff0000^小鳄梨到达第九列后会调转方向向左移动从左侧直接冲出场外。^oldclr^
+Stoße die Zombies vor dir zurück und lasse zwei kleine Avocados mit denselben Aufladeeigenschaften wie du los. ^ff0000^ Die kleinen Avocados drehen sich nach Erreichen der neunten Spalte um, bewegen sich nach links und stürmen von links aus dem Feld. ^oldclr^
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在场内时，导向蓟会发射针刺对它发动攻击。导向蓟总是会优先锁定攻击场内最左侧的僵尸。
+Wenn ein Zombie auf dem Feld erscheint, feuert Homing Thistle Nadeln ab, um ihn anzugreifen. Homing Thistle priorisiert dabei immer den Zombie ganz links auf dem Feld.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL2_DES]
-导向蓟有25%的概率连续发射两根针刺。
+Homing Thistle hat eine Chance von 25 %, zwei Nadeln hintereinander abzufeuern.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL3_DES]
-导向蓟有50%的概率连续发射两根针刺。
+Homing Thistle hat eine Chance von 50 %, zwei Nadeln hintereinander abzufeuern.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [HOMINGTHISTLE_PLANTFOOD_DESCRIPTION]
-发射至少10根伤害为自身攻击力4倍的针刺，若场上僵尸大于10，则导向蓟发射的针刺数目与场内僵尸数目一致。
+Feuert mindestens 10 Nadeln ab, deren Schaden dem Vierfachen der eigenen Angriffskraft entspricht. Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von Homingthistle abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
 
 [HOMINGTHISTLE_AVATAR_PLANTFOOD_DESCRIPTION]
-发射至少10根伤害为自身攻击力4倍的针刺，^ff0000^针刺有概率附带火焰或者寒冰属性，^oldclr^若场上僵尸大于10，则导向蓟发射的针刺数目与场内僵尸数目一致。
+Schießt mindestens 10 Nadeln mit einem Schaden, der dem Vierfachen der eigenen Angriffskraft entspricht. ^ff0000^ Die Nadeln können Feuer- oder Eisattribute haben. ^oldclr^ Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von Homingthistle abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
 
 [CHOMPER_NEW_SKILL_LEVEL1_DES]
-当有阶数不高于大嘴花的小体型僵尸出现在大嘴花前方一格时，大嘴花会张开大嘴一口吞下它，并进入30秒的吞咽时间；当遇到不可吞食单位时，大嘴花将会发动啃咬伤害。
+Wenn ein kleiner Zombie mit einem Level, das nicht höher als Homingthistle ist, ein Feld vor Homingthistle erscheint, öffnet Homingthistle sein Maul und verschlingt ihn in einem Zug. Die Schluckzeit beträgt 30 Sekunden. Trifft Homingthistle auf eine nicht verschlingbare Einheit, verursacht sie Bissschaden.
 
 [CHOMPER_NEW_SKILL_LEVEL2_DES]
-大嘴花在吃掉一个僵尸后打嗝，将附近的所有僵尸击退1格。
+Nachdem Homingthistle einen Zombie gefressen hat, rülpst sie und stößt alle Zombies in der Nähe um ein Feld zurück.
 
 [CHOMPER_NEW_SKILL_LEVEL3_DES]
-大嘴花吃掉一个僵尸后打嗝，将附近所有僵尸击退3格。
+Nachdem die Pflanze einen Zombie gefressen hat, rülpst sie und stößt alle Zombies in der Nähe um drei Felder zurück.
 
 [CHOMPER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, den ultimativen Energiebohnen-Move direkt einzusetzen!
 
 [CHOMPER_NEW_SKILL_LEVEL5_DES]
-大嘴花有20%的概率直接吞噬他右侧3格内所有常规大小的僵尸，对不可吞食单位造成300点伤害。
+Die Pflanze hat eine 20%ige Chance, alle Zombies normaler Größe innerhalb von drei Feldern rechts von ihr direkt zu verschlingen und dabei 300 Schaden an nicht verschlingbaren Einheiten zu verursachen.
 
 [CHOMPER_PLANTFOOD_DESCRIPTION]
-开始吸气，将本行最多3只僵尸吸至自身嘴边，吞下它们，或是对不可吞吃的僵尸造成500×(1+植物阶数)点啃咬伤害，然后吐出旋风将它们吹至底线。
+Beginnt zu inhalieren, saugt bis zu 3 Zombies derselben Reihe in sein Maul, verschluckt sie oder fügt nicht verschlingbaren Zombies 500×(1+Pflanzenlevel) Bissschaden zu und spuckt dann einen Wirbelwind aus, der sie zur untersten Linie reißt.
 
 [CHOMPER_AVATAR_PLANTFOOD_DESCRIPTION]
-开始吸气，将本行最多3只僵尸吸至自身嘴边，吞下它们，或是对不可吞吃的僵尸造成500×(1+植物阶数)点啃咬伤害，然后吐出旋风将它们吹至底线，^ff0000^同时吹落不高于自身阶数的僵尸的铁桶防御。^oldclr^
+Beginnt zu inhalieren, saugt bis zu 3 Zombies derselben Reihe in euer Maul, verschluckt sie oder fügt nicht verschlingbaren Zombies 500×(1+Pflanzenlevel) Bissschaden zu und spuckt dann einen Wirbelwind aus, der sie zur untersten Linie reißt. ^ff0000^ Währenddessen reißt er die Eisenfass-Verteidigung von Zombies nieder, die nicht höher als euer Level sind. ^oldclr^
 
 [LEMON_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在强酸柠檬右侧时，强酸柠檬会喷射酸液腐蚀僵尸，酸液攻击对铁质防具会造成双倍伤害。
+Wenn ein Zombie rechts neben der starken Säurezitrone erscheint, sprüht diese Säure, um den Zombie zu korrodieren. Der Säureangriff verursacht doppelten Schaden an Eisenpanzerungen.
 
 [LEMON_NEW_SKILL_LEVEL2_DES]
-强酸柠檬可以一次发射两发酸液，并且对路障防具也能造成两倍伤害。
+Die starke Säurezitrone kann zwei Säureschüsse gleichzeitig abfeuern und auch doppelten Schaden an Straßensperrenpanzerungen verursachen.
 
 [LEMON_NEW_SKILL_LEVEL3_DES]
-强酸柠檬一次可以发射3枚酸液，对所有防具造成2倍伤害，对所有僵尸额外造成30%伤害。
+Die Säurezitrone kann drei Säuretropfen gleichzeitig abfeuern und so allen Panzerungen den doppelten Schaden und allen Zombies 30 % zusätzlichen Schaden zufügen.
 
 [LEMON_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Angriff!
 
 [LEMON_NEW_SKILL_LEVEL5_DES]
-强酸柠檬攻击时有15%的概率发射一枚可以击退小体型僵尸伤害为450点的柠檬片，在接触到任意敌对单位后返回，被击退的僵尸会带动沿途的所有小体型僵尸一起被击退。
+Beim Angriff hat die Säurezitrone eine Chance von 15 %, eine Zitronenscheibe abzufeuern, die kleine Zombies mit 450 Schadenspunkten zurückdrängt. Nach Kontakt mit einer feindlichen Einheit kehrt sie zurück. Die zurückgedrängten Zombies treiben alle anderen kleinen Zombies auf dem Weg mit sich und werden gemeinsam zurückgedrängt.
+
 
 [LEMON_PLANTFOOD_DESCRIPTION]
-强酸柠檬向全屏发射大量酸雨对全屏僵尸造成伤害。
+Die Säurezitrone feuert eine große Menge sauren Regens auf den gesamten Bildschirm ab und fügt allen Zombies auf dem gesamten Bildschirm Schaden zu.
+
 
 [LEMON_AVATAR_PLANTFOOD_DESCRIPTION]
-强酸柠檬向全屏发射大量对全屏僵尸造成伤害，^ff0000^酸雨可以让海水浸满酸液对僵尸持续造成伤害10秒。^oldclr^
+Säurezitronen werden auf den gesamten Bildschirm abgefeuert und fügen Zombies auf dem gesamten Bildschirm Schaden zu. ^ff0000^ Saurer Regen kann das Meerwasser mit Säure füllen und Zombies 10 Sekunden lang kontinuierlich Schaden zufügen. ^oldclr^
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在幽灵辣椒周围时，幽灵辣椒会变成鬼魂恐吓僵尸会以30点伤害每半秒对每个僵尸造成伤害，并在10秒后爆炸对3x3区域内的所有敌人造成450点伤害
+Wenn Zombies um Ghost Pepper herum erscheinen, verwandelt sich Ghost Pepper in einen Geist, um Zombies zu erschrecken. Er fügt jedem Zombie jede halbe Sekunde 30 Schaden zu und explodiert nach 10 Sekunden, um allen Gegnern in einem 3x3 großen Bereich 450 Schaden zuzufügen.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL2_DES]
-幽灵辣椒的攻击范围扩张至十字形状。
+Ghost Peppers Angriffsreichweite erweitert sich zu einem Kreuz.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL3_DES]
-幽灵辣椒的攻击范围向每个方向再增加一格。
+Ghost Peppers Angriffsreichweite erhöht sich in jede Richtung um ein Feld.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohnen-Fähigkeit direkt freizusetzen!
 
 [GHOSTPEPPER_PLANTFOOD_DESCRIPTION]
-幽灵辣椒张大嘴巴，对以自身为中心的 3×3 范围内的僵尸造成持续3秒的恐吓伤害。
+Ghost Pepper öffnet sein Maul und verursacht 3 Sekunden lang Schreckensschaden an Zombies in einem 3×3 großen Bereich um sich selbst.
 
 [GHOSTPEPPER_AVATAR_PLANTFOOD_DESCRIPTION]
-幽灵辣椒张大嘴巴，对以自身为中心的 3×3 范围内的僵尸造成持续3秒的恐吓伤害^ff0000^并且使僵尸在此期间晕眩。^oldclr^
+Ghost Pepper öffnet sein Maul und verursacht 3 Sekunden lang Schreckensschaden^ff0000^ an Zombies in einem 3×3 großen Bereich um sich selbst. Zombies werden während dieser Zeit schwindlig. ^oldclr^
 
 [SWEETPOTATO_NEW_SKILL_LEVEL1_DES]
-甜薯散发出的香甜气息虽然不及脑子，但还是会吸引影响范围内的僵尸到自身所在行。
+Der süße Geruch der Süßkartoffel ist nicht so stark wie der des Gehirns, lockt aber dennoch Zombies im betroffenen Bereich in die eigene Reihe.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL2_DES]
-甜薯的生命值上升至6800。
+Süßkartoffels Gesundheit stieg auf 6800.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL3_DES]
-甜薯的生命值上升至9600。
+Süßkartoffels Gesundheit stieg auf 9600.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [SWEETPOTATO_NEW_SKSKILL_LEVEL5_DES]
-强酸柠檬攻击时有15%的概率发射一枚可以击退小体型僵尸伤害为450点的柠檬片，在接触到任意敌对单位后返回，被击退的僵尸会带动沿途的所有小体型僵尸一起被击退，柠檬片没有回收前，强酸柠檬不会发动攻击。
+Beim Angriff hat die Starke Säurezitrone eine 15%ige Chance, eine Zitronenscheibe zu schleudern, die kleine Zombies mit 450 Schadenspunkten abwehrt. Nach Kontakt mit einer feindlichen Einheit kehrt sie zurück. Die abgewehrten Zombies führen alle kleinen Zombies auf dem Weg mit sich, die gemeinsam abgewehrt werden. Die Starke Säurezitrone greift erst an, wenn die Zitronenscheibe wiedergefunden wurde.
 
 [SWEETPOTATO_PLANTFOOD_DESCRIPTION]
-甜薯在6秒的时间内吸引3×3范围内的僵尸。
+Süßkartoffeln ziehen innerhalb von 6 Sekunden Zombies in einem Umkreis von 3×3 an.
 
 [SWEETPOTATO_AVATAR_PLANTFOOD_DESCRIPTION]
-甜薯在6秒的时间内吸引3×3范围内的僵尸，^ff0000^并恢复自身生命值至满值。^oldclr^
+Süßkartoffeln ziehen innerhalb von 6 Sekunden Zombies in einem Umkreis von 3×3 an, ^ff0000^ und stellen ihre Gesundheit wieder her. ^oldclr^
 
 [CRACKER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie den Bambusstab berührt, zündet dieser die Zündschnur und explodiert.
