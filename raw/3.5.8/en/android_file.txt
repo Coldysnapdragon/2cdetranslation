@@ -64854,28 +64854,28 @@ Märchenwald – Tag 6
 Märchenwald – Tag 7
 
 [FOR EST_LEVEL_NAME_08]
-Märchenwald – Tag 1
+Märchenwald – Tag 8
 
 [FOREST_LEVEL_NAME_09]
-Märchenwald – Tag 2
+Märchenwald – Tag 9
 
 [FOREST_LEVEL_NAME_10]
-Märchenwald – Tag 3
+Märchenwald – Tag 10
 
 [FOREST_LEVEL_NAME_11]
-Märchenwald – Tag 4
+Märchenwald – Tag 11
 
 [FOREST_LEVEL_NAME_12]
-Märchenwald – Tag 5
+Märchenwald – Tag 12
 
 [FOREST_LEVEL_NAME_13]
-Märchenwald – Tag 6
+Märchenwald – Tag 13
 
 [FOREST_LEVEL_NAME_14]
-Märchenwald – Tag 7
+Märchenwald – Tag 14
 
 [FOREST_LEVEL_NAME_15]
-Märchenwald – Der Märchen-Zombie-Blog kommt
+Märchenwald – Der Märchen-Zombie-Boss
 
 [PLAYERS_TRIP_TO_HALLOWEEN]
 {PLAYER}的惊魂万圣夜之旅
