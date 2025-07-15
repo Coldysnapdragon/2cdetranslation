@@ -64579,69 +64579,69 @@ ca=大招能用金箍棒把僵尸砸进地里|提升大招高能激光的伤害|
 一年只能绑定4台设备
 
 [UNCHARTED_FAIRYTALE_WORLD]
-时空秘境
+Geheimes Raumzeit-Reich
 
 [UNCHARTED_ENTRY_DESCRIPTION]
-1.时空秘境中拥有各种不同的新世界和新僵尸等待你来探索，每个世界都有普通和困难关卡。
-2.普通与困难模式关卡分别拥有首通奖励与正常过关奖励，首通奖励在第一次通关时获得，且无法重复领取。
-3.普通模式关卡全部通关后解锁困难模式关卡。
-4.困难关卡需要消耗时空秘匙进行解锁。
-5.困难模式有额外的挑战目标，达成后获得该秘境章节的专属徽章，未达成不影响正常通关。
-6.专属徽章累计到一定数量后可以领取额外奖励，其中包含植物碎片与藏品奖励。
+1. Im geheimen Raumzeit-Reich warten verschiedene neue Welten und neue Zombies darauf, von dir erkundet zu werden. Jede Welt hat normale und schwierige Level.
+2. Für den normalen und schwierigen Modus gibt es jeweils eine Belohnung für den ersten bzw. den normalen Durchgang. Die Belohnung für den ersten Durchgang erhältst du, wenn du das Level zum ersten Mal abschließt, und kann nicht wiederholt eingefordert werden.
+3. Nachdem alle Level des normalen Modus abgeschlossen sind, werden die schwierigen Level freigeschaltet.
+4. Für schwierige Level benötigst du den geheimen Raumzeit-Schlüssel.
+5. Der schwierige Modus bietet zusätzliche Herausforderungsziele. Nach Erreichen dieser erhältst du das exklusive Abzeichen des geheimen Kapitels. Das Nichterreichen dieser Ziele hat keinen Einfluss auf den normalen Abschluss.
+6. Nachdem du eine bestimmte Anzahl exklusiver Abzeichen gesammelt hast, kannst du zusätzliche Belohnungen erhalten, darunter Pflanzenfragmente und Sammelbelohnungen.
 
 [UNCHARTED_ENTRY_DESCRIPTION_TITLE]
-时空秘境说明
+Beschreibung des Geheimen Reichs der Raumzeit
 
 [UNCHARTED_ANNIVERSARY_TIPS_TITLE]
-秘境挑战说明
+Beschreibung der Herausforderung „Geheimes Reich“
 
 [UNCHARTED_ANNIVERSARY_TIPS_DESC]
-1.左侧难度Ⅰ、难度Ⅱ、难度Ⅲ为默认勾选。
-2.每行挑战选择框每行可向右滑动，点击具体挑战目标，则该目标出现勾选标记，对应效果将在关卡中生效。
-3.当选择的挑战目标中最高星数为1星，则默认勾选难度Ⅰ；选择的挑战中最高星数为2星，则默认勾选难度Ⅱ；选择的挑战中最高星数为3星，则默认勾选难度Ⅲ。
-4.历史星星数只记录当前关卡最高到达星数，不记录多次挑战累计星数。
+1. Schwierigkeitsgrad Ⅰ, Schwierigkeitsgrad Ⅱ und Schwierigkeitsgrad Ⅲ links sind standardmäßig aktiviert.
+2. Jede Zeile des Herausforderungsauswahlfelds kann nach rechts verschoben werden. Klicke auf ein bestimmtes Herausforderungsziel. Daraufhin erscheint ein Häkchen, und der entsprechende Effekt wird im Level wirksam.
+3. Wenn die höchste Sternenzahl im ausgewählten Herausforderungsziel 1 Stern ist, ist Schwierigkeitsgrad Ⅰ standardmäßig aktiviert. Wenn die höchste Sternenzahl im ausgewählten Herausforderungsziel 2 Sterne ist, ist Schwierigkeitsgrad Ⅱ standardmäßig aktiviert. Wenn die höchste Sternezahl in der ausgewählten Herausforderung 3 Sterne beträgt, ist Schwierigkeitsgrad 3 standardmäßig aktiviert.
+4. Die historische Sternezahl erfasst nur die höchste Sternezahl, die im aktuellen Level erreicht wurde, nicht jedoch die kumulierte Sternezahl mehrerer Herausforderungen.
 
 [UNCHARTED_ANNIVERSARY_LEVEL_TITLE]
-周年挑战-{NAME}
+Jubiläums-Herausforderung – {NAME}
 
 [UNCHARTED_ANNIVERSARY_STAR_RECORD_TITLE]
-历史星星数
+Sternenrekord
 
 [UNCHARTED_ANNIVERSARY_CHALLENGE_TITLE]
-可选挑战
+Optionale Herausforderungen
 
 [UNCHARTED_ANNIVERSARY_TOTAL_STAR_TITLE]
-星星总计
+Gesamtzahl Sterne
 
 [UNCHARTED_ANNIVERSARY_SELECTED_CHALLENGE_TITLE]
-已选挑战
+Ausgewählte Herausforderungen
 
 [UNCHARTED_ANNIVERSARY_SELECTED_CHALLENGE_DEFAULT_DESC]
-^FF0000 点击左边 ^oldclr 选择勾选挑战(可多选)
+^FF0000 Klicke links auf ^oldclr. Wähle die Herausforderung aus (Mehrfachauswahl möglich).
 
 [UNCHARTED_ANNIVERSARY_TASK_BUTTON_TITLE]
-查看任务
+Aufgabe ansehen
 
 [UNCHARTED_ANNIVERSARY_TASK_TITLE]
-本关任务
+Aufgabe für diese Level
 
 [PVZ2_UNCHARTED_MODE_KEY_NOT_ENOUGH]
-钥匙数量不足，钥匙每天刷新，请明日再来。
+Nicht genügend Schlüssel. Die Schlüssel werden täglich aktualisiert. Bitte schau morgen wieder vorbei.
 
 [PVZ2_UNCHARTED_MODE_UNLOCK_HARD_LEVEL]
-是否需要消耗钥匙解锁困难关卡？
+Benötigst du Schlüssel, um schwierige Level freizuschalten?
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_TITLE]
-激活高级权益
+Premium-Vorteile aktivieren
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_BTN]
-45元激活
+45 Yuan Aktivierung
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_STAR_DESC]
 {NUMS}/{NUMS_MAX}
 
 [PVZ2_UNCHARTED_MODE_TIPS_TITLE]
-提示
+Tipps
 
 [PVZ2_UNCHARTED_MODE_TALE_2_HARD_TIPS_DESC]
 困难模式的boss关卡解锁条件为使用钥匙解锁前面7关
@@ -64773,115 +64773,115 @@ ca=大招能用金箍棒把僵尸砸进地里|提升大招高能激光的伤害|
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [PLAYERS_TRIP_TO_FOREST]
-{PLAYER}的童话森林之旅
+{PLAYER}s märchenhafter Waldausflug
 
 [FOREST_LEVEL_NAME_001_H]
-平凡一天的开始
+Der Beginn eines gewöhnlichen Tages
 
 [FOREST_LEVEL_NAME_002_H]
-青蛙呱呱叫
+Frösche quaken
 
 [FOREST_LEVEL_NAME_003_H]
-硬茬
+Hardcore
 
 [FOREST_LEVEL_NAME_004_H]
-深层迷雾
+Dichter Nebel
 
 [FOREST_LEVEL_NAME_005_H]
-卷土重来
+Comeback
 
 [FOREST_LEVEL_NAME_006_H]
-巫师集会
+Zauberertreffen
 
 [FOREST_LEVEL_NAME_007_H]
-总攻
+Generalangriff
 
 [FOREST_LEVEL_NAME_08_H]
-魔镜魔镜
+Spieglein, Spieglein
 
 [FOREST_LEVEL_NAME_09_H]
-最美丽的人是？
+Wer ist der schönste Mensch?
 
 [FOREST_LEVEL_NAME_10_H]
-那必须是我了
+Das muss ich sein.
 
 [FOREST_LEVEL_NAME_11_H]
-坩埚来喽
+Hier kommt der Schmelztiegel.
 
 [FOREST_LEVEL_NAME_12_H]
-加一点能量豆
+Fügt ein paar Energiebohnen hinzu.
 
 [FOREST_LEVEL_NAME_13_H]
-加一点植物
+Fügt ein paar Pflanzen hinzu.
 
 [FOREST_LEVEL_NAME_14_H]
-味道好极了
+Schmeckt super.
 
 [FOREST_LEVEL_NAME_15_H]
-童话僵博来袭
+Ein märchenhaftes Zombiespiel kommt.
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_SHIELD]
-魔力迷雾
+Magischer Nebel
 
-[PVZ2_UNCHARTED_MODE_MODE_DESC_SHIELD]
-这片邪门的迷雾能为僵尸带来强大的护盾，或许只有森林中的微风才能吹走这些迷雾
+[PVZ2_UNCHARTED_MODE_ MODE_DESC_SHIELD]
+Dieser seltsame Nebel kann Zombies einen mächtigen Schutzschild bieten. Vielleicht kann nur die Brise im Wald den Nebel vertreiben.
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CRUCIBLE]
-魔力坩埚
+Magischer Schmelztiegel
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CRUCIBLE]
-加一颗能量豆让坩埚进入沸腾状态，再丢入几颗植物，鬼知道会有什么东西出来
+Füge eine Energiebohne hinzu, um den Schmelztiegel zum Kochen zu bringen, und gib anschließend ein paar Pflanzen hinein. Wer weiß, was dabei herauskommt?
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_MIRROR]
-魔镜
+Magischer Spiegel
 
-[PVZ2_UNCHARTED_MODE_MODE_DESC_MIRROR]
-魔镜总是成双成对的出现，一面进，一面出
+[PVZ2_UNCHARTED_MODE_MODE_DESC_MIRROR] ROR]
+Der magische Spiegel erscheint immer paarweise, einer drin, einer draußen.
 
 [FOREST_LEVEL_NAME_01]
-童话森林-第1天
+Märchenwald – Tag 1
 
 [FOREST_LEVEL_NAME_02]
-童话森林-第2天
+Märchenwald – Tag 2
 
 [FOREST_LEVEL_NAME_03]
-童话森林-第3天
+Märchenwald – Tag 3
 
 [FOREST_LEVEL_NAME_04]
-童话森林-第4天
+Märchenwald – Tag 4
 
 [FOREST_LEVEL_NAME_05]
-童话森林-第5天
+Märchenwald – Tag 5
 
 [FOREST_LEVEL_NAME_06]
-童话森林-第6天
+Märchenwald – Tag 6
 
 [FOREST_LEVEL_NAME_07]
-童话森林-第7天
+Märchenwald – Tag 7
 
-[FOREST_LEVEL_NAME_08]
-童话森林-第1天
+[FOR EST_LEVEL_NAME_08]
+Märchenwald – Tag 1
 
 [FOREST_LEVEL_NAME_09]
-童话森林-第2天
+Märchenwald – Tag 2
 
 [FOREST_LEVEL_NAME_10]
-童话森林-第3天
+Märchenwald – Tag 3
 
 [FOREST_LEVEL_NAME_11]
-童话森林-第4天
+Märchenwald – Tag 4
 
 [FOREST_LEVEL_NAME_12]
-童话森林-第5天
+Märchenwald – Tag 5
 
 [FOREST_LEVEL_NAME_13]
-童话森林-第6天
+Märchenwald – Tag 6
 
 [FOREST_LEVEL_NAME_14]
-童话森林-第7天
+Märchenwald – Tag 7
 
 [FOREST_LEVEL_NAME_15]
-童话森林-童话僵博来袭
+Märchenwald – Der Märchen-Zombie-Blog kommt
 
 [PLAYERS_TRIP_TO_HALLOWEEN]
 {PLAYER}的惊魂万圣夜之旅
