@@ -10010,7 +10010,7 @@ Verwenden
 [SUMMARY_START]
 Spiel starten
 
-[SUMMARY_ST AR]
+[SUMMARY_STAR]
 Ressourceninformationen
 
 [SUMMARY_LEVEL]
@@ -12135,88 +12135,88 @@ Ich habe Erfahrung
 、
 
 [STORE_PRODUCT_AVATAR_BRAMBLE]
-降低种植冷却。
+Reduziert die Abklingzeit des Pflanzens.
 
 [STORE_PRODUCT_AVATAR_COFFEEBEAN]
-降低种植冷却。
+Reduziert die Abklingzeit des Pflanzens.
 
 [STORE_PRODUCT_AVATAR_FLATTENEDSHROOM]
-大招会使分身增加1个。
+Die ultimative Fähigkeit erhöht die Anzahl der Klone um 1.
 
 [STORE_PRODUCT_AVATAR_JACKFRUIT]
-增加堵住地道口后的生命值。
+Erhöht den Gesundheitswert nach dem Blockieren des Tunneleingangs.
 
 [STORE_PRODUCT_AVATAR_OLIVE]
-降低种植冷却。
+Reduziert die Abklingzeit des Pflanzens.
 
 [STORE_PRODUCT_AVATAR_IMITATER]
-变换后的植物种植冷却减少。
+Die Abklingzeit des Pflanzens nach der Transformation wird reduziert.
 
 [STORE_PRODUCT_AVATAR_BRAMBLE_TITLE]
-原始荆棘装扮
+Primitives Brombeer-Outfit
 
 [STORE_PRODUCT_AVATAR_COFFEEBEAN_TITLE]
-咖啡豆装扮
+Kaffeebohnen-Outfit
 
 [STORE_PRODUCT_AVATAR_FLATTENEDSHROOM_TITLE]
-平顶菇装扮
+Flachkopf-Pilz-Outfit
 
 [STORE_PRODUCT_AVATAR_JACKFRUIT_TITLE]
-菠萝蜜装扮
+Jackfrucht-Outfit
 
 [STORE_PRODUCT_AVATAR_OLIVE_TITLE]
-油橄榄装扮
+Oliven-Outfit
 
 [STORE_PRODUCT_AVATAR_IMITATER_TITLE]
-变身茄子装扮
+Verwandle dich in ein Auberginen-Kostüm
 
 [STORE_PRODUCT_AVATAR_SUNFLOWER]
-大招有概率产生少量金币
+Die ultimative Fähigkeit bietet die Chance, eine kleine Menge Goldmünzen zu generieren.
 
 [STORE_PRODUCT_AVATAR_POWERPLANT]
-瓷砖地板的外观会改变
+Das Aussehen des Fliesenbodens verändert sich.
 
 [STORE_PRODUCT_AVATAR_GRAVEBUSTER]
-噬碑藤在啃掉墓碑后会产生阳光
+Die Grabsteinranke wird Erzeugt Sonnenlicht, nachdem der Grabstein gegessen wurde.
 
 [STORE_PRODUCT_AVATAR_SUNFLOWER]
-大招有概率产生少量金币
+Die ultimative Fähigkeit kann eine kleine Menge Goldmünzen generieren.
 
 [STORE_PRODUCT_AVATAR_TWINSUNFLOWER]
-大招有概率产生一些金币
+Die ultimative Fähigkeit kann Goldmünzen generieren.
 
 [STORE_PRODUCT_AVATAR_POTATO]
-大招额外分裂一棵土豆地雷
+Die ultimative Fähigkeit spaltet eine zusätzliche Kartoffelmine.
 
 [STORE_PRODUCT_AVATAR_POTATOMINE]
-大招额外分裂一棵土豆地雷
+Die ultimative Fähigkeit spaltet eine zusätzliche Kartoffelmine.
 
 [STORE_PRODUCT_AVATAR_SNAPDRAGON]
-大招的攻击距离增加
+Die Angriffsreichweite der ultimativen Fähigkeit erhöht sich.
 
 [STORE_PRODUCT_AVATAR_BLOOMERANG]
-大招发射出巨大的回旋镖
+Die ultimative Fähigkeit schleudert einen riesigen Bumerang.
 
 [STORE_PRODUCT_AVATAR_CABBAGEPULT]
-大招能扔出闪电卷心菜
+Die ultimative Fähigkeit kann Blitzkohl werfen.
 
 [STORE_PRODUCT_AVATAR_SPRINGBEAN]
-大招能将僵尸震晕
+Die ultimative Fähigkeit kann betäuben. Zombies
 
 [STORE_PRODUCT_AVATAR_WALLNUT]
-大招获得更加坚固的水晶甲
+Ultimate erhält stärkere Kristallrüstung
 
 [STORE_PRODUCT_AVATAR_TALLNUT]
-大招获得更加坚固的水晶甲
+Ultimate erhält stärkere Kristallrüstung
 
 [STORE_PRODUCT_AVATAR_REPEATER]
-大招有概率发射各种子弹。
+Ultimate kann verschiedene Kugeln abfeuern.
 
 [STORE_PRODUCT_AVATAR_KERNELPULT]
-大招投出燃烧的黄油，造成更多伤害
+Ultimate wirft brennende Butter und verursacht so mehr Schaden.
 
 [STORE_PRODUCT_AVATAR_COCONUTCANNON]
-大招能够震晕横向的僵尸
+Ultimate kann horizontale Zombies betäuben.
 
 [STORE_PRODUCT_AVATAR_PEAPOD]
 大招能发射燃烧的大豌豆
@@ -34712,19 +34712,19 @@ Zurück zur Familienoberfläche
 吃掉靠近的僵尸，吐掉恐龙蛋。
 
 [BRAMBLE]
-胆小荆棘
+Schüchterner Dorn
 
 [BRAMBLE_DESCRIPTION]
-{KEYWORD}特点： {STAT}抵挡雷龙踩踏
-{KEYWORD}植物特征：{STAT}褐色植物
+{KEYWORD}Merkmale: {STAT}Widersteht dem Trampeln von Brontosauriern
+{KEYWORD}Pflanzenmerkmale: {STAT}Braune Pflanzen
 
-{FLAVOR}胆小荆棘毕生只专注一件大胆的事情，就是和雷龙的脚过不去。
+{FLAVOR}Schüchterne Dornen konzentrieren sich auf eine kühne Sache in ihrem Leben: den Füßen von Brontosauriern entgegenzutreten.
 
 [BRAMBLE_DESCRIPTION_HEADER]
-胆小荆棘能够抵挡雷龙的踩踏。
+Schüchterne Dornen können dem Trampeln von Brontosauriern widerstehen.
 
 [BRAMBLE_TOOLTIP]
-抵挡雷龙踩踏。
+Widersteht dem Trampeln von Brontosauriern.
 
 [DRAGONCANE]
 蔗师父
@@ -71043,13 +71043,13 @@ Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 ^ff0000^龙吼草发出咆哮震慑全场的僵尸 2 秒，^oldclr^吓退由于霸王龙而引发的恐龙狂潮，随机吞下附近的 3 只可吞噬僵尸。
 
 [BRAMBLE_NEW_SKILL_LEVEL1_DES]
-当胆小荆棘存在于雷龙的踩踏范围内时，它将以自身的消失为代价免除这次踩踏带来的影响。
+Befindet sich Bramble in der Reichweite des Donnerdrachen, wird es von dessen Auswirkungen verschont und verschwindet.
 
 [BRAMBLE_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine Spezialdünger-Attacke.
 
 [BRAMBLE_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine Spezialdünger-Attacke.
 
 [PRIMALRAFFLESIA_NEW_SKILL_LEVEL1_DES]
 当有僵尸出现在原始大王花右侧时，原始大王花会吐出毒液球。毒液球命中僵尸后会在僵尸所在格留下一摊持续7秒的毒液，使经过的僵尸减速。
