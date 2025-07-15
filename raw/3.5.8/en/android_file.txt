@@ -14328,37 +14328,38 @@ Unend-Nuss
 发射胡萝卜飞弹，对前方僵尸造成大威力伤害。
 
 [DANDELION]
-蒲公英
+Pusteblume
 
 [DANDELION_DESCRIPTION_HEADER]
-蒲公英可以发射威力强大的绒球，轰炸前方的敌人。
+Pusteblume kann mächtige Flaumbälle abfeuern, um Gegner vor ihm zu bombardieren.
 
 [DANDELION_DESCRIPTION]
-{KEYWORD}范围：{STAT}单格伤害
-{KEYWORD}植物特征：{STAT}白色植物
-{FLAVOR}蒲公英曾经是一个普通的文艺青年，没事的时候他喜欢躺在大树下看书，以及在看书的间隙中仰望天空。他的梦想是成为一名翱翔在蓝天下的飞行员，于是当他长大以后，他成为了一名机场联络员……是的，您没有看错，因为长年不正确的看书姿势导致他的视力下降得厉害，他没能通过飞行员体检！
+{KEYWORD}Reichweite: {STAT}Einzelgitterschaden
+{KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze
+{FLAVOR}Die Pusteblume war einst eine gewöhnliche, gebildete Jugendliche. Wenn sie nichts zu tun hatte, lag sie gern unter einem großen Baum, las Bücher und schaute zwischendurch in den Himmel. Ihr Traum war es, Pilot zu werden und den blauen Himmel zu befliegen. Als sie erwachsen wurde, wurde sie Verbindungsmann am Flughafen ... Ja, richtig gelesen: Aufgrund der jahrelangen falschen Lesehaltung verschlechterte sich ihr Sehvermögen stark, und sie fiel bei der ärztlichen Untersuchung für Piloten durch!
 
 [DANDELION_TOOLTIP]
-发射绒球，对前方敌人造成大威力伤害。
+Schießt Flaumbälle ab, um Gegnern vor ihnen starken Schaden zuzufügen.
+
 [DANDELION_SKILL1_LEVEL5]
-大号炸弹
+Große Bombe
 
 [DANDELION_SKILL1_LEVEL5_DES]
-蒲公英在普通攻击时有30%概率投放一颗更大的炸弹，对僵尸的伤害提升。
+Löwenzahn hat eine 30%ige Chance, bei normalen Angriffen eine größere Bombe abzuwerfen, die den Schaden an Zombies erhöht.
 
 [BROCCOLI]
-大力花菜
+Brokkoli
 
 [BROCCOLI_DESCRIPTION_HEADER]
-大力花菜可以挥动僵尸攻击前后方。
+Brokkoli kann Zombies schwingen, um sie von vorne und hinten anzugreifen.
 
 [BROCCOLI_DESCRIPTION]
-{KEYWORD}范围：{STAT}前后单格
-{KEYWORD}植物特征：{STAT}绿色植物、武艺高强
-{FLAVOR}大力花菜曾经梦想着成为一位超级英雄，就像他经常看的漫画中的那些英雄一样。为此他拒绝了可爱的番茄妹妹的告白，参加了学校的柔道社，上学在学校苦练功夫，放学去学校背后的小巷子里匡扶正义……终于有一天，他收到了学校的留级通知书。
+{KEYWORD}Reichweite: {STAT}Einzelnes Gitter vorne und hinten
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze, hohe Kampfkünste
+{FLAVOR}Brokkoli träumte einst davon, ein Superheld zu werden, genau wie die Helden in den Comics, die er oft las. Aus diesem Grund lehnte er das Geständnis der süßen Tomatenschwester ab, trat dem Judo-Club der Schule bei, trainierte intensiv Kung-Fu und ging nach der Schule in die Gasse hinter der Schule, um für Gerechtigkeit zu sorgen … Schließlich erhielt er eines Tages von der Schule die Benachrichtigung, dass er die Klasse wiederholen müsse.
 
 [BROCCOLI_TOOLTIP]
-抓住僵尸，挥动它攻击前后方。
+Schnappt sich einen Zombie und schwingt ihn.
 
 [PAMEGRANATE]
 机枪石榴
