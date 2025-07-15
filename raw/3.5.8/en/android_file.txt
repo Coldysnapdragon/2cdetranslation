@@ -6795,587 +6795,678 @@ Mittelalter
 发射海盗小鬼僵尸穿越你的防线。最终大炮爆炸时投下多个海盗小鬼僵尸。
 
 [ZOMBIE_CHICKEN]
-僵尸鸡
+Zombie-Huhn
 
 [ZOMBIE_CHICKEN_DESCRIPTION]
-{FLAVOR}咯咯哒！
+{FLAVOR}Gacker!
 
 [ZOMBIE_CHICKEN_DESCRIPTION_HEADER]
-一旦挣脱束缚，鸡群会全速扑向你的脑子！
+Einmal losgelassen, wetzen diese Hühner rasant über den Rasen. Sie wollen dein Hirn auspicken!
 
 [ZOMBIE_CHICKEN_FARMER]
-鸡贼僵尸
+Hühnerwürger-Zombie
 
 [ZOMBIE_CHICKEN_FARMER_DESCRIPTION]
-{KEYWORD}特点：{STAT}打倒后召唤僵尸鸡
+{KEYWORD}Besonderheit: {STAT}beschwört Zombie-Hühner, wenn er Schaden erleidet
 
-{FLAVOR}鸡贼僵尸发布了第四篇鸟类学论文，又呕心沥血研究了四年强子对撞机，终于掌握了让油炸鸡块起死回生的秘密。
+{FLAVOR}Nach vier wissenschaftlichen Arbeiten zur Ornithologie und vier Jahren Forschung am CERN hat der Hühnerwürger-Zombie endlich das Rätsel gelöst, was zuerst da war.
 
 [ZOMBIE_CHICKEN_FARMER_DESCRIPTION_HEADER]
-一旦打包的绳索被弄断，就会放出一笼鸡出来。
+Setzt eine Schar Hühner frei, wenn sein Bindedraht reißt.
 
 [ZOMBIE_COWBOY]
-牛仔僵尸
+Zombiecowboy
 
 [ZOMBIE_COWBOY_ARMOR1]
-路障牛仔僵尸
+Pylonen-Cowboy
 
 [ZOMBIE_COWBOY_ARMOR1_DESCRIPTION]
-{FLAVOR} 你好，我是警长！请靠边停马，请出示你的驾驶证，上路证和有脑证。
+{FLAVOR}Er ist der Sheriff hier. Reiten Sie rechts ran, und dann Pferdeführerschein, Papiere und Hirnnachweis bitte!
 
 [ZOMBIE_COWBOY_ARMOR1_DESCRIPTION_HEADER]
-他的牛皮路障桶让他比普通牛仔强壮2倍。
+Sein Pylon aus Rindsleder macht ihn doppelt so zäh wie normale Cowboys.
 
 [ZOMBIE_COWBOY_ARMOR2]
-铁桶牛仔僵尸
+Eimer-Cowboy
 
 [ZOMBIE_COWBOY_ARMOR2_DESCRIPTION]
-{FLAVOR}它是巴豆烹饪大赛的五届冠军。埃及的僵尸们对巴豆是外行，但牛仔们是巴豆的粉丝，巴豆吃得越多，就越有脑子。
+{FLAVOR}Fünfmaliger Sieger im großen Chili-Kochwettbewerb. Diese Ägypter haben doch keine Ahnung von Chili. Ganz anders die bohnenbegeisterten Cowboys!
 
 [ZOMBIE_COWBOY_ARMOR2_DESCRIPTION_HEADER]
-热辣的烹饪锅提供了极好的保护使他免受伤害。
+Mit dem Chili-Kochtopf auf dem Kopf ist er besonders robust.
 
 [ZOMBIE_COWBOY_DESCRIPTION]
-{FLAVOR}牛仔僵尸觉得所有恶劣的，卑鄙的，臭名昭著的恶棍僵尸都集中在西部，东部，和南部。所以他急于来中部海岸来碰碰运气，看看能不能闯出一片天下。
+{FLAVOR}Der Zombiecowboy denkt, er sei der härteste, übelste, stärkste Schurke im Westen, Süden und Osten. Und der zentralen Küstenregion wird er es schon auch noch zeigen!
 
 [ZOMBIE_COWBOY_DESCRIPTION_HEADER]
-普通的牛仔僵尸。
+Ein ganz normaler, großmäuliger Zombiecowboy.
 
 [ZOMBIE_COWBOY_FLAG]
-旗子牛仔僵尸
+Flaggen-Zombiecowboy
 
 [ZOMBIE_COWBOY_FLAG_DESCRIPTION]
-{FLAVOR}他是旗帜鲜明的思想领袖，嗯…好吧，抢脑子领袖。
+{FLAVOR}Der "Lone Brainer" führt das Pack an.
 
 [ZOMBIE_COWBOY_FLAG_DESCRIPTION_HEADER]
-标志着一大“波”脏兮兮僵尸的到来。
+Kündigt die Ankunft einer großen, staubigen Zombiewelle an.
 
 [ZOMBIE_EXPLORER]
-探险家僵尸
+Zombie-Entdecker
 
 [ZOMBIE_EXPLORER_DESCRIPTION]
-{KEYWORD}特点：{STAT}火炬烧毁接触到的植物
-{KEYWORD}弱点：{STAT}冰冻生菜、寒冰射手之类的冷冻攻击可以熄灭火炬
+{KEYWORD}Besonderheit: {STAT}Fackel zerstört Pflanzen bei Kontakt
+{KEYWORD}Schwäche: {STAT}Kälteattacken löschen die Fackel
 
-{FLAVOR}探险家僵尸的络腮胡令人印象深刻，他在里面藏了各种各样的小吃，能维持他长达几周的探险。
+{FLAVOR}Er hat immer eine extragroße Portion Rippchen dabei, die er auf seinen ausgedehnten Entdeckungsreisen wegsnackt.
 
 [ZOMBIE_EXPLORER_DESCRIPTION_HEADER]
-手持可以不断烧毁植物的火把。
+Trägt eine Fackel, die deine Pflanzen sofort zerstören kann.
 
 [ZOMBIE_MUMMY]
-木乃伊僵尸
+Mumien-Zombie
 
 [ZOMBIE_MUMMY_ARMOR1]
-路障木乃伊僵尸
+Pylonen-Mumie
 
 [ZOMBIE_MUMMY_ARMOR1_DESCRIPTION]
-{FLAVOR}路障木乃伊僵尸喜欢经典复古的金字塔形路障。作为一个时尚潮“尸”，引领潮流是他的座右铭。
+{FLAVOR}Die Pylonen-Mumie zieht die runde Pylonenform der typischen Pyramidenform vor. Das ist einfach eine Frage von Mode und Stil.
 
 [ZOMBIE_MUMMY_ARMOR1_DESCRIPTION_HEADER]
-他的眼镜蛇路障桶头饰让他比普通木乃伊强壮2倍。
+Dank ihres Kobrapylons ist sie doppelt so robust wie normale Mumien.
 
 [ZOMBIE_MUMMY_ARMOR2]
-铁桶木乃伊僵尸
+Eimer-Mumie
 
 [ZOMBIE_MUMMY_ARMOR2_DESCRIPTION]
-{KEYWORD}特点：{STAT}防护很高，快用能量豆大招解决他！
-
-{FLAVOR}八卦大揭秘：铁桶木乃伊僵尸的铁桶是象牙做的哦！！哈哈没有啦，开个玩笑。是塑料做的。
+{FLAVOR}Die Eimer-Mumie hat an der Zombieakademie mit Magna Zom Laude promoviert - über den Zwerchfelleinsatz beim Zombie-Stöhnen.
 
 [ZOMBIE_MUMMY_ARMOR2_DESCRIPTION_HEADER]
-他头上的铁桶极大地保护他免受伤害。
+Ihr Sandeimer bietet ihr hervorragenden Schutz.
 
 [ZOMBIE_MUMMY_DESCRIPTION]
-{FLAVOR}他是一个僵尸还是一个木乃伊？实际情况一点也不神秘，他只是为了防晒在身上裹满卷筒纸而已。他是个僵尸，就这么简单！
+{FLAVOR}Ist es eine Mumie? Ist es ein Zombie? Tja, wie es aussieht ein Zombie, der sich mit Toilettenpapier eingewickelt hat, um sich gegen die Sonne zu schützen. Echt wahr!
 
 [ZOMBIE_MUMMY_DESCRIPTION_HEADER]
-常见的木乃伊僵尸。
+Normaler, mumifizierter Zombie.
 
 [ZOMBIE_MUMMY_FLAG]
-旗子木乃伊僵尸
+Flaggen-Zombiemumie
 
 [ZOMBIE_MUMMY_FLAG_DESCRIPTION]
-{FLAVOR}旗子木乃伊僵尸自认为是独树一帜的领袖，但事实却不是这样，嗯，你可别当着他的面说，他其实是个导游。
+{FLAVOR}Der ägyptische Flaggen-Zombie ist so weit zurück, dass er denkt, er sei der erste. Jaja, wedel nur schön!
 
 [ZOMBIE_MUMMY_FLAG_DESCRIPTION_HEADER]
-标志着一大“波”卷筒纸僵尸的到来。
+Kündigt die Ankunft einer großen, sandigen Zombiewelle an.
 
 [ZOMBIE_PHARAOH]
-法老僵尸
+Pharaoh-Zombie
 
 [ZOMBIE_PHARAOH_DESCRIPTION]
-{KEYWORD}速度特点：{STAT}饿虎扑食般前进
-{KEYWORD}弱点：{STAT}坚果能挡住他一小会儿，还是用能量豆大招消灭它比较保险
+{KEYWORD}Tempo: {STAT}wie ein hungriger Zombie, wenn er frei ist
 
-{FLAVOR}他是法老王的表弟，也是当时的储君。他承诺当他掌权时候会禁止使用石棺，但不幸的是在一起与山羊之间的交通事故中他英年早逝。而这些被详尽的记载在石棺的背面的事迹，也没什么人能看得见。
+{FLAVOR}Der Großcousin von König Tot-Ench-Amun kämpfte sich mit seinem magischen Sarkophag an die Spitze, kam dann aber bei einem unglücklichen Ziegen-Unfall frühzeitig ums Leben. Seine Geschichte ist detailliert auf der Rückseite seines Sarkophags eingraviert, die leider nie jemand sehen wird.
 
 [ZOMBIE_PHARAOH_DESCRIPTION_HEADER]
-他身上的石棺提供了坚固的防御，但同时，也减缓了行动速度。
+Sein Sarkophag schützt ihn, macht den eigentlich schnellen Zombie aber auch langsam.
 
 [ZOMBIE_PIANO]
-钢琴僵尸
+Pianisten-Zombie
 
 [ZOMBIE_PIANO_DESCRIPTION]
-{KEYWORD}伤害：{STAT}用钢琴压扁植物
-{KEYWORD}特点：{STAT}召唤牛仔僵尸舞者，穿梭于不同道路
+{KEYWORD}Schaden: {STAT}zermalmt Pflanzen mit seinem Klavier
+{KEYWORD}Besonderheit: {STAT}bringt Cowboy-Zombies dazu, die Reihen zu wechseln
 
-{FLAVOR}钢琴僵尸只会两支曲子，两首都是口哨独奏。
+{FLAVOR}Der Pianisten-Zombie kennt nur zwei Songs, aber das sind beides echte Heuler!
 
 [ZOMBIE_PIANO_DESCRIPTION_HEADER]
-他弹奏的音乐激发跳舞僵尸切换路线，从而摧毁植物。
+Sein rollendes Piano zermalmt Pflanzen, und seine Musik bringt tanzende Zombies dazu, die Reihen zu wechseln.
 
 [ZOMBIE_PIRATE]
-海盗僵尸
+Zombiepirat
 
 [ZOMBIE_PIRATE_ARMOR1]
-路障海盗僵尸
+Pylonen-Pirat
 
 [ZOMBIE_PIRATE_ARMOR1_DESCRIPTION]
-{FLAVOR}路障海盗僵尸长着一张大众脸。当问及他最喜欢吃什么，他认真思索片刻，紧了紧领带，说“啦嗷嚅脑子嘶。。”作为邻居，也许可以让他来借个杯子？
+{FLAVOR}Der Pylonen-Pirat ist ein einfacher Zombie. Sein Lieblingsgericht? Er denkt kurz nach, richtet seinen Schal und ruft begeistert: "Rrrurraarrgehirrrn!" Hättest du als guter Nachbar vielleicht noch etwas übrig?
 
 [ZOMBIE_PIRATE_ARMOR1_DESCRIPTION_HEADER]
-他那带有海盗标志的路障让他比普通海盗僵尸强两倍。
+Mit seinem Totenkopf-Pylon ist er doppelt so robust wie normale Piraten.
 
 [ZOMBIE_PIRATE_ARMOR2]
-铁桶海盗僵尸
+Eimer-Pirat
 
 [ZOMBIE_PIRATE_ARMOR2_DESCRIPTION]
-{FLAVOR}铁桶海盗僵尸寻寻觅觅他的宝贝铁桶。你知道吗？啊？在哪？上面哪儿？大点声，他耳朵不好使。
+{FLAVOR}Der Eimer-Pirat sucht seinen Eimer. Hast du ihn gesehen? Wo? Wo oben? Sprich lauter, er kann dich nicht hören.
 
 [ZOMBIE_PIRATE_ARMOR2_DESCRIPTION_HEADER]
-坚固的木桶提供了极好的保护使他免受伤害。
+Sein stabiler Holzeimer bietet ihm hervorragenden Schutz.
+
+[ZOMBIE_PIRATE_ARMOR4]
+Fasskopf-Zombie
+
+[ZOMBIE_PIRATE_ARMOR4_DESCRIPTION]
+{FLAVOR}Das Fass des Fasskopf-Zombies wurde vom Meeresboden der Tiefsee geborgen und ist von absolut höchster Qualität – wenn auch eine Spur zu eng.
+
+[ZOMBIE_PIRATE_ARMOR4_DESCRIPTION_HEADER]
+Die Fass-artige Kopfbedeckung des Fasskopf-Zombies bietet erhöhten Schutz.
 
 [ZOMBIE_PIRATE_BARREL]
-海盗僵尸桶  
+Piratenfass
 
 [ZOMBIE_PIRATE_BARREL_DESCRIPTION]
-{FLAVOR}里面会有什么？会不会是金子？或者其他的宝藏？天知道！
+{FLAVOR}Was da wohl drin ist? Gold etwa? Oder ein anderer Schatz? Wer weiß!
 
 [ZOMBIE_PIRATE_BARREL_DESCRIPTION_HEADER]
-封住的木桶向前滚动，一旦被破坏，里面的小鬼僵尸即蜂拥而出。
+Enthält Zombie-Wichte, die bei Zerstörung herausfliegen.
 
 [ZOMBIE_PIRATE_CAPTAIN]
-海盗船长僵尸
+Zombiepiraten-Kapitän
 
 [ZOMBIE_PIRATE_CAPTAIN_DESCRIPTION]
-{KEYWORD}特点：{STAT}宠物鹦鹉偷走植物
-{KEYWORD}弱点：{STAT}玉米投手的黄油能击落鹦鹉，但尽快消灭海盗船长才更重要
+{KEYWORD}Besonderheit: {STAT}Papagei stiehlt Pflanzen
 
-{FLAVOR}海盗船长僵尸其实并不是船长，他只是在洗衣房拿错了衣服。不过他觉得带个眼罩挺酷的。另外，鹦鹉只是他的一个朋友，出于礼貌，它只是来配合一下的。
+{FLAVOR}Der Zombiepiraten-Kapitän ist eigentlich gar kein Kapitän. Seine Wäsche wurde nur in der Reinigung vertauscht und er fand den Augenklappen-Look ganz schick. Naja, und der Papagei nannte ihn immer so, da hat er den Namen "Käpt'n" einfach übernommen.
 
 [ZOMBIE_PIRATE_CAPTAIN_DESCRIPTION_HEADER]
-他的鹦鹉会叼走你的植物，然后飞回主人身边。
+Sein Papagei stiehlt deine Pflanzen und kehrt dann zum Kapitän zurück.
 
 [ZOMBIE_PIRATE_CAPTAIN_PARROT]
-僵尸鹦鹉
+Zombie-Papagei
 
 [ZOMBIE_PIRATE_CAPTAIN_PARROT_DESCRIPTION]
-{KEYWORD}特点：{STAT}可飞到其他行列的植物将其掠走
+{KEYWORD}Besonderheit: {STAT}kann mit Pflanzen in anderen Reihen davonfliegen
 
-{FLAVOR}他是革命性的第三代空军战士。他希望能与海盗兄弟们并肩作战，就像他的父亲和祖母那样。
+{FLAVOR}Ein Flieger-As der dritten Generation. Wie schon sein Vater und seine Großmutter Salty Anne hat er sich ganz dem Piratenleben verschworen.
 
 [ZOMBIE_PIRATE_CAPTAIN_PARROT_DESCRIPTION_HEADER]
-迅速飞离海盗船长并偷走你的一棵植物。
+Fliegt vom Kapitän aus los, um in Windeseile Pflanzen zu stehlen.
 
 [ZOMBIE_PIRATE_DESCRIPTION]
-{FLAVOR}想紧跟海盗时尚风潮可不那么简单，不过请记住，只要你站在潮湿的甲板上那就已经很“潮”了。
+{FLAVOR}Mit den neuesten Piratentrends mitzuhalten, ist nicht einfach. Aber vergiss nicht: Er hat das Planking praktisch erfunden!
 
 [ZOMBIE_PIRATE_DESCRIPTION_HEADER]
-在地板上晃悠的普通僵尸。
+Ein normaler, plankengehender Zombie.
 
 [ZOMBIE_PIRATE_FLAG]
-旗子海盗僵尸
+Flaggen-Zombiepirat
 
 [ZOMBIE_PIRATE_FLAG_DESCRIPTION]
-{FLAVOR}僵尸，不需要介绍。
+{FLAVOR}Dieser Zombie braucht keine weitere Vorstellung.
 
 [ZOMBIE_PIRATE_FLAG_DESCRIPTION_HEADER]
-标志着一大“波”僵尸来了。
+Kündigt die Ankunft einer großen, salzigen Zombiewelle an.
+
+[ZOMBIE_PIRATE_FLAG_VETERAN]
+Totenkopfflaggen-Zombie
+
+[ZOMBIE_PIRATE_FLAG_VETERAN_DESCRIPTION]
+{FLAVOR}Der Totenkopfflaggen-Zombie ist fest mit seiner Flagge verwachsen. Als Hirne mampfende Einheit sind die beiden eine Inspiration für Untote aller Art.
+
+[ZOMBIE_PIRATE_FLAG_VETERAN_DESCRIPTION_HEADER]
+Der Totenkopfflaggen-Zombie kündigt die Ankunft von vielen, vielen Zombies an.
+
+[ZOMBIE_PIRATE_GARGANTUAR]
+Gargantua-Pirat
+
+[ZOMBIE_PIRATE_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Schaden: {STAT}Schlägt Pflanzen mit Hai
+{KEYWORD}Besonderheit: {STAT}Wirft mit einem Piratenwicht, wenn er Schaden nimmt
+
+{FLAVOR}Der Gargantua-Pirat mag Plankenspaziergänge, Überfälle im Mondlicht und den Geruch von Kanonen. Ein echter Romantiker.
+
+[ZOMBIE_PIRATE_GARGANTUAR_DESCRIPTION_HEADER]
+Ein enormer Zombie mit einzigartigem Haiangriff.
 
 [ZOMBIE_PIRATE_IMP]
-海盗小鬼僵尸
+Zombiepirat-Wicht
 
 [ZOMBIE_PIRATE_IMP_DESCRIPTION]
-{FLAVOR}海盗小鬼僵尸以擦鞋为业，兼职伦敦街头的扒手。但他专偷大号的靴子。口头禅是“该偷战利靴了！”
+{FLAVOR}Als Stiefelputzer und Kleinganove auf den Straßen von London hatte er sich auf den Diebstahl übergroßer Botten spezialisiert. "Zeigt her eure Schuhe", das war sein Wahlspruch.
 
 [ZOMBIE_PIRATE_IMP_DESCRIPTION_HEADER]
-喜欢挤在狭小的空间里，比如滚桶中，或者加农炮的炮管里。
+Hält sich besonders gern in Fässern und Kanonen auf.
 
 [ZOMBIE_PONCHO]
-斗篷僵尸
+Poncho-Zombie
 
 [ZOMBIE_PONCHO_DESCRIPTION]
-{KEYWORD}特点：{STAT}有时携带防护栅栏
+{KEYWORD}Besonderheit: {STAT}trägt ab und zu einen schützenden Kaminrost
 
-{FLAVOR}壁炉盖是他的心爱之物，所以他披上斗篷，保护壁炉盖不受铁锈的困扰。另外他正在寻找一匹配得上壁炉盖的机器马。
+{FLAVOR}Der Kaminrost ist sein ganzer Stolz. Der Poncho ist nur als Rostschutz da. Außerdem sucht er nach seinem mechanischen Pferd.
 
 [ZOMBIE_PONCHO_DESCRIPTION_HEADER]
-有时候他藏着一个装甲板当护甲。
+Trägt manchmal eine verborgene Panzerung.
 
 [ZOMBIE_PROSPECTOR]
-淘金僵尸
+Goldgräber-Zombie
 
 [ZOMBIE_PROSPECTOR_DESCRIPTION]
-{KEYWORD}特点：{STAT}出现于草地左侧
+{KEYWORD}Besonderheit: {STAT}erscheint nach einer Dynamitexplosion auf der linken Seite des Rasens
 
-{FLAVOR}“有个僵尸老头子，整天筛沙找金子。直到下起雨点子，它终于吃到了脑子…等等，等等！！为啥他少了只靴子！！”
+{FLAVOR}"Es gab mal nen Zombie namens Finn, der hatt' außer Gold nichts im Sinn. Doch dann probierte er Hirn, süß und saftig wie Birn', und .... Moment, wo ist sein anderer Schuh?"
 
 [ZOMBIE_PROSPECTOR_DESCRIPTION_HEADER]
-当他的引线被点燃，他会直接被炸到场地的后方。
+Fliegt über deine Verteidigungslinien, wenn seine Lunte abgebrannt ist.
 
 [ZOMBIE_RA]
-太阳神僵尸
+Ra-Zombie
 
 [ZOMBIE_RA_DESCRIPTION]
-{KEYWORD}特点：{STAT}试图偷走阳光
-{KEYWORD}弱点：{STAT}尽快消灭他就能拿回被偷的阳光
+{KEYWORD}Besonderheit: {STAT}versucht, Sonnen zu stehlen
 
-{FLAVOR}太阳神僵尸的神秘力量并不来源于太阳神，他试图解释一下缘由，但不幸的是没人知道他说了些什么。
+{FLAVOR}Der Ra-Zombie ist nicht, wie der Name vermuten lässt, nach dem Sonnengott Ra benannt. Er sagt gern ziemlich oft "Ra".
 
 [ZOMBIE_RA_DESCRIPTION_HEADER]
-会尝试偷取阳光并一直保管着。
+Versucht, Sonnen zu stehlen. Aber doch nur, um sie aufzubewahren!
 
 [ZOMBIE_SEAGULL]
-海鸥僵尸
+Möwen-Zombie
 
 [ZOMBIE_SEAGULL_DESCRIPTION]
-{KEYWORD}特点：{STAT}越过地刺和冰冻生菜等低矮植物
-{KEYWORD}弱点：{STAT}玉米投手的黄油能够直接击落海鸥僵尸
+{KEYWORD}Besonderheit: {STAT}gleitet über niedrige Pflanzen wie Stachelkraut und Eisbergsalat hinweg
 
-{FLAVOR}海鸥僵尸已经成功达到了累计飞行里程积分，他现在正盘算着去世界顶级大学，享受一个脑子盛宴假期。
+{FLAVOR}Der Möwen-Zombie hat seine Vielfliegermeilen zusammengekratzt und will nun eine zerebrale Gourmetreise um den Globus antreten.
 
 [ZOMBIE_SEAGULL_DESCRIPTION_HEADER]
-即使没有地板也能越过低矮的植物或者水面。
+Überquert Wassergräben ohne Planke und fliegt über niedrige Pflanzen hinweg.
 
 [ZOMBIE_SWASHBUCKLER]
-飞索僵尸
+Haudegen-Zombie
 
 [ZOMBIE_SWASHBUCKLER_DESCRIPTION]
-{KEYWORD}特点：{STAT}降落于草地前四格
+{KEYWORD}Besonderheit: {STAT}schwingt sich über vier Felder mitten auf deinen Rasen
 
-{FLAVOR}他一丝不苟，他气势咄咄，你以为他是个冷酷的家伙？其实他每三周就会给家里写信，寄些脑子和战利品。作为僵尸他有一副好心肠。
+{FLAVOR}Er poltert. Er flucht. Aber er schreibt auch jeden dritten Sonntag nach Hause und schickt Gehirn und Schätze mit. Denn tief drin ist er doch ein guter Zombie.
 
 [ZOMBIE_SWASHBUCKLER_DESCRIPTION_HEADER]
-倚靠绳索荡秋千从而降落到场地的中间地带。
+Schwingt sich an einem Seil mitten auf deinen Rasen.
 
 [ZOMBIE_TOMB_RAISER]
-死神僵尸
+Grab-Beschwörer
 
 [ZOMBIE_TOMB_RAISER_DESCRIPTION]
-{KEYWORD}特点：{STAT}在草地上制造墓碑
-{KEYWORD}弱点：{STAT}用噬碑藤吃掉墓碑，用卷心菜直接攻击墓碑后面的僵尸
+{KEYWORD}Besonderheit: {STAT}erschafft Gräber auf deinem Rasen
 
-{FLAVOR}他十分享受抛脑子游戏。他也常常在尚未完成“坐下”“握手”训练前跑到在院子里挖坑。他始终在寻找自己的尾巴。
+{FLAVOR}Er träumt davon, zu apportieren, hechelnd auf der Jagd nach Hirn. Mit Vorliebe verbuddelt er sich im Garten, doch leider ist er nicht stubenrein. Und jagt immer noch seinem Schwanz hinterher.
 
 [ZOMBIE_TOMB_RAISER_DESCRIPTION_HEADER]
-抛出骨头创建墓碑。
+Wirft Knochen, um Gräber zu erschaffen.
 
 [ZOMBIE_TREASUREYETI]
-宝藏雪人   
+Schatz-Yeti
 
 [ZOMBIE_TREASUREYETI_DESCRIPTION]
-{KEYWORD}特点：{STAT}一段时间后会逃跑
-{KEYWORD}特点：{STAT}携带宝藏
+{KEYWORD}Tempo: {STAT}rennt nach kurzer Zeit davon
+{KEYWORD}Besonderheit: {STAT}hat einen Schatz dabei
 
-{FLAVOR}神秘的宝藏雪人拎着餐盒在脑子山中神出鬼没，似乎是准备回到它那与世隔绝的山中小屋去。
+{FLAVOR}Der seltene und wundersame Yeti wurde schon öfter beobachtet, wie er mit seiner Frühstücksdose zu seiner entlegenen Berghütte stapfte.
 
 [ZOMBIE_TREASUREYETI_DESCRIPTION_HEADER]
-一种罕见和奇怪的生物，他总是携带着神秘的雪人宝藏。
+Eine seltene und kuriose Kreatur, die immer ein paar belegte Brote dabei hat.
 
 [ZOMBIE_TUTORIAL]
-普通僵尸
+Einfacher Zombie
 
 [ZOMBIE_TUTORIAL_ARMOR1]
-路障僵尸
+Pylonen-Zombie 
 
 [ZOMBIE_TUTORIAL_ARMOR1_DESCRIPTION]
-{FLAVOR}一个疯狂的夜晚，风雨大作，电闪齐鸣。梦醒时分，路障僵尸发现他手中捏着一张路障和强力粘合剂的神秘收据。
+{FLAVOR}Nach einer wilden Nacht wachte der Pylonen Zombie mit einem mysteriösen Kassenbeleg über einen Pylon und Industriekleber in der Hand auf.
 
 [ZOMBIE_TUTORIAL_ARMOR1_DESCRIPTION_HEADER]
-他的路障头盔让他比普通僵尸强壮两倍。
+Sein Verkehrspylon-Hut macht ihn doppelt so zäh wie normale Zombies.
 
 [ZOMBIE_TUTORIAL_ARMOR2]
-铁桶僵尸
+Eimer-Zombie 
 
 [ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION]
-{FLAVOR}曾几何时，铁桶僵尸因为超级“铁桶”战略被奉为僵尸中的天才。僵尸们一直盼望他还有些秘密的杀手锏。江郎才尽还是暗藏绝技？谁知道呢。
+{FLAVOR}Noch vor ein paar Jahren wurde der Eimer-Zombie für seinen innovativen Kopfschutz als Genie gefeiert. Heute fragen sich die meisten Zombies, ob da noch mal was Neues kommt. Aber da können sie lange warten!
 
 [ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION_HEADER]
-他的铁桶头盔能极大程度地承受伤害。
+Sein Eimerhut schützt ihn sehr gut vor Schäden. 
+
+[ZOMBIE_TUTORIAL_ARMOR4]
+Ziegelkopf-Zombie
+
+[ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION]
+{FLAVOR}Nach eingehender Beratung mit diversen Märchenbuch-Wölfen wurde beschlossen, dass Stroh- und Holzhelme einfach nichts taugen. Es sollten schon Ziegelstein-Helme sein.
+
+[ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION_HEADER]
+Die Ziegelstein-Helme der Ziegelkopf-Zombies überzeugen mit ziegelhafter Zähigkeit.
 
 [ZOMBIE_TUTORIAL_DESCRIPTION]
-{FLAVOR}普通僵尸讨厌“普通”这个词。他不觉得自己普通平凡，他希望轰轰烈烈活一场，即使会伤害别人。
+{FLAVOR}Der einfache Zombie hasst den Begriff "einfach". Er sieht sich nicht als gewöhnliche Leiche. Er ist ein Individuum, verdammt! Das wirst du schon sehen, wenn du tot bist!
 
 [ZOMBIE_TUTORIAL_DESCRIPTION_HEADER]
-普通的花园园艺僵尸。
+Gewöhnlicher Wald-und-Wiesen-Zombie 
 
 [ZOMBIE_TUTORIAL_FLAG]
-旗子僵尸
+Flaggen-Zombie 
 
 [ZOMBIE_TUTORIAL_FLAG_DESCRIPTION]
-{FLAVOR}旗子僵尸常管自己叫“老子”，由于读写困难，他认为僵尸们喊的“脑子” 是在高呼他的名字。所以他一直觉得自己是大人物。
+{FLAVOR}Flaggen-Zombie "Brian" ist nicht gerade der hellste und denkt ständig, alle anderen Zombies reden mit ihm. Zumindest fühlt er sich wichtig.
 
 [ZOMBIE_TUTORIAL_FLAG_DESCRIPTION_HEADER]
-他的旗子标志着一大堆或“波”僵尸“冲”过来了。
+Seine Flagge kündigt einen ganzen Haufen oder eine "Welle" von Zombies an. 
+
+[ZOMBIE_TUTORIAL_FLAG_VETERAN]
+Demo-Zombie
+
+[ZOMBIE_TUTORIAL_FLAG_VETERAN_DESCRIPTION]
+{FLAVOR}Der Demo-Zombie hat sein ganzes Geld für eine Vollleder-Flagge ausgegeben. Aber die war jeden Penny wert!
+
+[ZOMBIE_TUTORIAL_FLAG_VETERAN_DESCRIPTION_HEADER]
+Der Demo-Zombie (bzw. seine Flagge) kündigt eine ganze Welle oder einen „Haufen“ von Zombies an.
+
+[ZOMBIE_TUTORIAL_GARGANTUAR]
+Gargantua
+
+[ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Schaden: {STAT}Plättet Pflanzen mit einem Mast
+{KEYWORD}Besonderheit: {STAT}Wirft mit einem Wicht, wenn er Schaden nimmt
+
+{FLAVOR}Der Gargantua ist die personifizierte Übermacht. Diesem hungrigen Riesen entkommt niemand. Furcht kennt er nicht, und er lässt sich von niemandem etwas sagen. Naja, das stimmt nicht ganz.
+
+[ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION_HEADER]
+Der Gargantua ist wirklich ein ziemlicher Brocken.
+
+[ZOMBIE_TUTORIAL_IMP]
+Wicht
+
+[ZOMBIE_TUTORIAL_IMP_DESCRIPTION]
+{FLAVOR}Was ihm an Reichweite fehlt, macht er mit seiner extremen Zombie-Fiesheit wieder wett. Besser nicht provozieren!
+
+
+[ZOMBIE_TUTORIAL_IMP_DESCRIPTION_HEADER]
+Wird hinter deine Verteidigungslinien geschleudert und schlurft dann weiter.
+
+[ZOMBIE_VASE_GARGANTUAR]
+Vasen-Gargantua
+
+[ZOMBIE_VASE_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Schaden: {STAT}Plättet Pflanzen mit einem Mast
+{KEYWORD}Besonderheit: {STAT}Wirft mit einem Wicht, wenn er Schaden nimmt
+
+{FLAVOR}Die Enge der keramischen Wände seines Heims beeinträchtigen den unstillbaren Hunger, die immensen Kräfte und das riesige Zerstörungspotenzial des Vasen-Gargantua nicht im Geringsten. Er ist nur nicht besonders gut zu Fuß.
+
+[ZOMBIE_VASE_GARGANTUAR_DESCRIPTION_HEADER]
+Ein gigantischer Zombie, der in einen winzigen Nicht-Lebensraum gezwängt wurde.
 
 [ZOMBIE_WEST_BULL]
-机器牛
+Zombie-Stier
 
 [ZOMBIE_WEST_BULL_DESCRIPTION]
-{KEYWORD}特点：{STAT}向场地后方抛出小鬼僵尸
-{KEYWORD}弱点：{STAT}抛出的小鬼僵尸会被高坚果阻挡
+{KEYWORD}Besonderheit: {STAT}schleudert seinen Wicht-Reiter im Tiefflug über Pflanzen
+{KEYWORD}Schwäche: {STAT}fliegender Wicht wird von Hochwall-Nüssen abgeblockt
 
-{FLAVOR}它不是你想象中的那种愤怒的公牛，它喜欢花，喜欢在田野里奔跑，喜欢在树下乘乘凉，喜欢在草地上打打滚。当遇到那个“她”的时候，它想安定下来成个家。天那，要是它不是一只机器牛就好了。
+{FLAVOR}Er ist kein wilder Stier. Er liebt Blumen, streunt über die Felder, macht Picknicks unter Bäumen und genießt lange Spaziergänge. Er möchte doch nur die Kuh fürs Leben finden und sesshaft werden. Zu blöd, dass er ein Roboter ist.
 
 [ZOMBIE_WEST_BULL_DESCRIPTION_HEADER]
-将其背上的小鬼僵尸扔到场地后方。
+Kann seinen Zombie-Reiter hinter die meisten deiner Verteidigungsanlagen schleudern.
 
 [ZOMBIE_WEST_BULLRIDER]
-骑牛小鬼僵尸
+Zombie-Stierreiter
 
 [ZOMBIE_WEST_BULLRIDER_DESCRIPTION]
-{FLAVOR}骑牛小鬼僵尸他梦想成为竞技小丑，但由于小丑装的样子让他自己觉得恐怖，所以他放弃了。
+{FLAVOR}Eigentlich träumte er von einer Karriere als Rodeo-Clown. Aber die Clownschminke war ihm einfach zu eklig.
 
 [ZOMBIE_WEST_BULLRIDER_DESCRIPTION_HEADER]
-他能被胯下的牛抛到场地后方，越过大部分的植物（除了高坚果）。当然，落地之后，他就只能改为步行了。
+Wird über alle bis auf die höchsten Pflanzen geschleudert und zieht dann zu Fuß weiter.
 
+[ZOMBIE_ZOMBOSSMECH_BEACH]
+Zombot-Hai-Tech-U-Boot
+
+[ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION]
+{KEYWORD}Besonderheit: {STAT}Das Turbinenmaul zieht Pflanzen an
+
+{KEYWORD}Besonderheit: {STAT}Beschworene Zombie-Haie können Pflanzen verschlingen
+
+
+
+{FLAVOR}Das Zombot-Hai-Tech-U-Boot ist eines von Dr. Zomboss' Lieblingsprojekten. Tagein, tagaus tüftelte er an seinen Unterwasser-Mechanismen herum, fertigte sorgsam per Hand die fast undurchdringliche Außenhaut des Hais und spitzte die rasiermesserscharfen Fangzähne an. Im Innern des furchteinflößenden Mauls der Maschine installierte er eine tödliche Turbine. Zomboss weinte Freudentränen, als sein Meisterstück vollendet war. Man kann über das böse Genie sagen, was man will, aber er ist mit Leidenschaft bei der Sache!
+
+[ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION_HEADER]
+Eine unersättliche Fressmaschine aus der Schwärze der Tiefsee.
 
 [ZOMBIES]
-僵尸
+Zombies
 
 
 [PVZ2_CHINESE_START]
 
 [EXIT_GAME_HEADER]
-退出游戏？
+Spiel beenden?
 
 [EXIT_GAME_INFO]
-你确定想要退出游戏吗？
+Möchtest du das Spiel wirklich beenden?
 
 [EXIT_BUTTON]
-退出
+Beenden
 
 [PAY_CONFIRM_BUTTON]
-确认支付
+Zahlung bestätigen
 
 [PAY_CONFIRM_DESC]
-购买 {NAME}（{NUMBER}个）
+{NAME} ({NUMBER}) kaufen
 
 [UNLOCK_GAME_HEADER]
-解锁完整版游戏？
+Vollversion des Spiels freischalten?
 
 [UNLOCK_GAME_INFO]
-你是否要花费￥6解锁完整版本?
+Möchtest du 6 ¥ ausgeben, um die Vollversion freizuschalten?
 
 [UNLOCK_BUTTON]
-解锁
+Freischalten
 
 [UNLOCK_GAME_SUCCESS_INFO]
-解锁成功！
+Erfolgreich freigeschaltet!
 
 [SUN_STORE]
-阳光
+Sonnen
 
 [SUN_STORE_TEXT]
-如果需要更多的阳光，点击购买
+Wenn du mehr Sonne brauchst, klicke hier, um sie zu kaufen.
 
 [GEM_STORE]
-钻石
+Diamanten
 [GEM_STORE_TEXT]
-如果需要更多的钻石，点击购买
+Wenn du mehr Diamanten brauchst, klicke hier, um sie zu kaufen.
 
 [MAINMENU_NEWGAME]
-新游戏
+Neues Spiel
 
 [MAINMENU_CONTINUE]
-继续游戏
+Spiel fortsetzen
 
 [NEW_GAME_HEADER]
-新游戏
+Neues Spiel
 
 [NEW_GAME_BODY]
-你确认要建新游戏吗?
-这样做会导致本游戏进程丢失。
+Möchtest du wirklich ein neues Spiel erstellen?
+
+Dadurch geht der Spielfortschritt verloren.
 
 [PROFILE_ERROR]
-无法创建新游戏。
+Es konnte kein neues Spiel erstellt werden.
 
 [STORE_CATEGORY_NAME_AVATAR_TICKET]
-装扮券
+Ankleideticket
 
 [AVATAR_TICKET_DESCRIPTION]
-活动规则：
-1、玩家可以通过装扮券在植物装扮处购买部分植物初始装扮。
-2、玩家可以在装扮券商店和部分活动中获取装扮券。
-3、玩家首次在装扮券商店购买装扮券时将会额外获赠一定数量的装扮券奖励
-  装扮券礼包种类         购买获得数量       赠送数量
-6元小份装扮券礼包           60                 18
-30元中份装扮券礼包          330                132
-68元大份装扮券礼包          780                360
-128小箱装扮券礼包           1550               700
-328中箱装扮券礼包           4100               2050
-648大箱装扮券礼包           8450               4650
-3、装扮出售范围：
-（1）装扮券仅可兑换初始装扮，不包含主线赠送装扮、功能限定装扮、稀有装扮、新植物装扮等特殊投放装扮
-（2）部分稀有装扮将会不定期限时开放装扮券购买，新植物装扮将会随版本更新逐步开放购买
-4、后续项目组会不定期进行可供购买植物装扮更新，请关注更新公告
-5、购买植物装扮所需装扮券数量：
-    品质           购买所需装扮券数量
-白色植物                  60
-绿色植物                  120
-蓝色植物                  180
-紫色植物                  250
-紫色特殊植物              500
-橙色植物                  400
-橙色特殊植物              800
+Aktivitätsregeln:
+
+1. Spieler können mit dem Ankleideticket einige der ersten Pflanzenkostüme im Pflanzenkostümladen erwerben.
+
+2. Spieler können das Ankleideticket im Ankleideticketladen und bei einigen Aktivitäten erhalten.
+3. Wenn ein Spieler zum ersten Mal einen Ankleidegutschein im Ankleidegutscheinladen kauft, erhält er eine bestimmte Anzahl zusätzlicher Ankleidegutscheinbelohnungen.
+Kostümgutscheinpakettyp Anzahl der Käufe Anzahl der Geschenke
+6 Yuan kleines Kostümgutscheinpaket 60 18
+30 Yuan mittleres Kostümgutscheinpaket 330 132
+68 Yuan großes Kostümgutscheinpaket 780 360
+128 kleine Kostümgutscheinpakete 1550 700
+328 mittlere Kostümgutscheinpakete 4100 2050
+648 große Kostümgutscheinpakete 8450 4650
+3. Umfang des Kostümverkaufs:
+(1) Kostümgutscheine können nur gegen Erstkostüme eingetauscht werden, ausgenommen Spezialkostüme wie kostenlose Hauptkostüme, Kostüme mit eingeschränkter Funktion, seltene Kostüme und neue Pflanzenkostüme.
+(2) Einige seltene Kostüme werden in unregelmäßigen Abständen mit Kostümgutscheinen erhältlich sein, und neue Pflanzenkostüme werden nach und nach mit der Versionsaktualisierung verfügbar sein.
+4. Das Projektteam wird die verfügbaren Pflanzenkostüme von Zeit zu Zeit aktualisieren. Bitte beachten Sie die Aktualisierung. Ankündigung
+5. Anzahl der benötigten Kostümgutscheine zum Kauf von Pflanzenkostümen:
+Qualität Anzahl der benötigten Kostümgutscheine zum Kauf
+Weiße Pflanzen: 60
+Grüne Pflanzen: 120
+Blaue Pflanzen: 180
+Lila Pflanzen: 250
+Lila Spezialpflanzen: 500
+Orange Pflanzen: 400
+Orange Spezialpflanzen: 800
 
 [AVATAR_TICKET_TITLE]
-装扮券说明
+Beschreibung des Dekorationstickets
 
 [STORE_CATEGORY_NAME_COINS]
-金币
+Münzen
 
 [LUCKYCHEST_DES_DESCRIPTION]
-1、活动2025年4月1日至2025年5月26日，玩家通关主线关卡（普通及困难）、秘境、无尽、潘妮追击、回忆、双人、僵局逃脱关卡后可以累计每日通关进度
-2. 本期幸运宝箱仅可在2025年4月1日至2025年5月26日使用，活动结束过期后失效
-3、当每日通关的累计关卡数达到1、5、10次后可以领取幸运宝箱，通关进度每日刷新，不可累计至第二天
-4、打开幸运宝箱后可以随机获得游戏内丰厚道具奖励
-5、每个幸运宝箱在打开后会有三次升级机会，当三次升级机会都被使用完后将会开启当前宝箱获取奖励；
-6、每种品质的幸运宝箱最终的综合获得概率为：普通宝箱43%   中级宝箱29%  高级宝箱17%  史诗宝箱7%  传奇宝箱4%
-7、每个宝箱中道具的出现概率如下：
-普通宝箱 绿色植物碎片30% 蓝色植物碎片20% 紫色植物碎片10% 绿色植物装扮碎片5% 蓝色植物装扮碎片3% 紫色植物装扮碎片1.5% 橙色植物装扮碎片0.5%  蓝色培养液8.71% 紫色培养液2.86% 橙色培养液1.43% 188钻石5% 150装扮券1% 高级神器祝福券9% 666钻石2%
-中级宝箱 绿色植物碎片22.5% 蓝色植物碎片13.6% 紫色植物碎片15.5% 橙色植物碎片8.4% 绿色植物装扮碎片4.67% 蓝色植物装扮碎片2.28% 紫色植物装扮碎片2.10% 橙色植物装扮碎片0.95%  蓝色培养液7.67% 紫色培养液2.29% 橙色培养液2.14% 188钻石6.5% 150装扮券3% 高级神器祝福券5.4% 666钻石3%
-高级宝箱 绿色植物碎片16.72% 蓝色植物碎片9.25% 紫色植物碎片18.91% 橙色植物碎片15.12% 绿色植物装扮碎片3.52% 蓝色植物装扮碎片1.73% 紫色植物装扮碎片2.94% 橙色植物装扮碎片1.81%  紫色培养液1.83% 橙色培养液3.21% 188钻石8.45% 150装扮券9% 高级神器祝福券3.24% 666钻石4.27%
-史诗宝箱 紫色植物碎片32.78% 橙色植物碎片27.22% 紫色植物装扮碎片5.5% 橙色植物装扮碎片4.5% 150装扮券19.33% 666钻石10.67%
-传奇宝箱 橙色植物碎片74% 橙色植物装扮碎片25% 其他植物碎片1%
+1. Das Event findet vom 1. April bis zum 26. Mai 2025 statt. Spieler können täglich Fortschritt sammeln, indem sie die Hauptlevel (normal und schwierig), das Geheime Reich, Endlos, Penny Chase, Erinnerungen, Doppellevel und Deadlock Escape abschließen.
+2. Diese Glücksschatztruhe kann nur vom 1. April bis zum 26. Mai 2025 verwendet werden und verfällt nach dem Event.
+3. Wenn die kumulierte Anzahl der täglich abgeschlossenen Level 1, 5 und 10 erreicht, können Sie eine Glücksschatztruhe erhalten. Der Fortschritt wird täglich aktualisiert und kann nicht auf den nächsten Tag übertragen werden.
+4. Nach dem Öffnen der Glücksschatztruhe können Sie zufällig wertvolle Requisiten im Spiel erhalten.
+5. Jede Glücksschatztruhe bietet nach dem Öffnen drei Upgrade-Möglichkeiten. Sind alle drei Upgrade-Möglichkeiten ausgeschöpft, öffnet sich die aktuelle Schatztruhe, um Belohnungen zu erhalten.
+6. Die endgültige Gesamtwahrscheinlichkeit für den Erhalt jeder Glücksschatztruhe beträgt: Normale Schatztruhe 43 %, Mittlere Schatztruhe 29 %, Fortgeschrittene Schatztruhe 17 %, Epische Schatztruhe 7 %, Legendäre Schatztruhe 4 %.
+7. Die Wahrscheinlichkeit, dass in jeder Schatztruhe Requisiten erscheinen, ist wie folgt:
+Normale Schatztruhe: Grüne Pflanzenfragmente 30 %, Blaue Pflanzenfragmente 20 %, Violette Pflanzenfragmente 10 %, Grüne Pflanzenkleidfragmente 5 %, Blaue Pflanzenkleidfragmente 3 %, Violette Pflanzenkleidfragmente 1,5 %, Orange Pflanzenkleidfragmente 0,5 %, Blaue Kulturflüssigkeit 8,71 %, Violette Kulturflüssigkeit 2,86 %, Orange Kulturflüssigkeit 1,43 %, 188 Diamanten 5 %, 150 Verkleidungscoupons 1 %, Fortgeschrittene Artefaktsegencoupons 9 %, 666 Diamanten 2 %.
+Mittelschwere Schatztruhe: Grüne Pflanzenfragmente 22,5 %, Blaue Pflanzenfragmente 13,6 %, Violette Pflanzenfragmente 15,5 %, Orange Pflanzenfragmente 8,4 %, Grüne Pflanze Verkleidungsfragmente 4,67 % Blaue Pflanzenverkleidungsfragmente 2,28 % Lila Pflanzenverkleidungsfragmente 2,10 % Orange Pflanzenverkleidungsfragmente 0,95 % Blaue Kulturflüssigkeit 7,67 % Lila Kulturflüssigkeit 2,29 % Orange Kulturflüssigkeit 2,14 % 188 Diamanten 6,5 % 150 Verkleidungscoupons 3 % Segenscoupons für fortgeschrittene Artefakte 5,4 % 666 Diamanten 3 %
+Fortschrittliche Schatztruhe Grüne Pflanzenfragmente 16,72 % Blaue Pflanzenfragmente 9,25 % Lila Pflanzenfragmente 18,91 % Orange Pflanzenfragmente 15,12 % Grüne Pflanzenkleidfragmente 3,52 % Blaue Pflanzenkleidfragmente 1,73 % Lila Pflanzenkleidfragmente 2,94 % Orange Pflanzenkleidfragmente 1,81 % Lila Kulturflüssigkeit 1,83 % Orange Kulturflüssigkeit 3,21 % 188 Diamanten 8,45 % 150 Kleidercoupons 9 % Segensgutscheine für fortgeschrittene Artefakte 3,24 % 666 Diamanten 4,27 %
+Epische Schatztruhe: Lila Pflanzenfragmente 32,78 % Orange Pflanzenfragmente 27,22 % Lila Pflanzenkleidfragmente 5,5 % Orange Pflanzenkleidfragmente 4,5 % Gutscheine für 150 Kleider 19,33 % 666 Diamanten 10,67 %
+Legendäre Schatztruhe: Orange Pflanzenfragmente 74 % Orange Pflanzenkleidfragmente 25 % Andere Pflanzenfragmente 1 %
 
 [LUCKYCHEST_DES_TITLE]
-幸运宝藏活动说明
+Beschreibung des Glücksschatz-Events
 
 [STORE_CATEGORY_NAME_PVP_COINS]
-星币
+Sternmünzen
 
 [STORE_CATEGORY_NAME_STAMINA]
-补充体力
+Auffüllen Ausdauer
 
 [STORE_CATEGORY_NAME_GEMS]
-钻石
+Diamanten
 
 [STORE_CATEGORY_NAME_SUNS]
-阳光
+Sonnenschein
 
 [STORE_CATEGORY_NAME_FUELS]
-能量电池
+Energiebatterie
 
 [STORE_CATEGORY_NAME_MYSTERY]
-神秘水晶
+Mysteriöser Kristall
 
-[STORE_CATEGORY_NAME_PVZ1MODE_TIME_ENERGY]
-时空稳定器
+[STORE_CATEGORY_NAME_PVZ 1MODE_TIME_ENERGY]
+Zeit- und Raumstabilisator
 
 [STORE_CATEGORY_NAME_PLANTS]
-植物
+Pflanzen
 
 [STORE_CATEGORY_NAME_PLANTS_STONE]
-无尽兑换
+Endloser Tausch
 
 [STORE_CATEGORY_NAME_BUNDLES]
-礼包
+Geschenkpakete
 
 [STORE_CATEGORY_NAME_AVATARS]
-装扮
+Kosmetik
 
 [STORE_CATEGORY_NAME_FUEL]
-电池
+Batterie
 
 [PRODUCT_STAMINA_10_DESC]
-10点体力
+10 Ausdauer
 
 [PRODUCT_STAMINA_20_DESC]
-22点体力
-^FF0000 含赠送2个
+22 Ausdauerpunkte
+^FF0000 Enthält 2 gratis
 
 [PRODUCT_STAMINA_50_DESC]
-55点体力
-^FF0000 含赠送5个
+55 Ausdauerpunkte
+^FF0000 Enthält 5 gratis
 
 [PRODUCT_STAMINA_100_DESC]
-110点体力
-^FF0000 含赠送10个
-
+110 Ausdauerpunkte
+^FF0000 Enthält 10 gratis
 
 [PRODUCT_COIN_10000_DESC]
-10000个金币
+10.000 Goldmünzen
 
 [PRODUCT_COIN_20000_DESC]
-50000个金币
-^FF0000 另送5000个
+50.000 Goldmünzen
+^FF0000 Plus 5.000 gratis
 
 [PRODUCT_COIN_40000_DESC]
-100000个金币
-^FF0000 另送30000个
+100.000 Goldmünzen
+^FF0000 30.000 mehr
 
 [PRODUCT_COIN_10000_SHORT_DESC]
-金币
+Gold
 
 [PRODUCT_COIN_20000_SHORT_DESC]
-小堆金币
+Kleiner Goldhaufen
 
 [PRODUCT_COIN_40000_SHORT_DESC]
-大堆金币
+Großer Goldhaufen
 
 [PRODUCT_PVP_COIN_1_DESC]
-500个星币
+500 Sternmünzen
 
 [PRODUCT_PVP_COIN_2_DESC]
-1500个星币
-^FF0000 另送500个
+1500 Sternmünzen
+^FF0000 500 mehr
 
 [PRODUCT_PVP_COIN_3_DESC]
-5000个星币
-^FF0000 另送2500个
+5000 Sternmünzen
+^FF0000 2500 mehr
 
 [PRODUCT_PVP_COIN_4_DESC]
-20000个星币
-^FF0000 另送20000个
+20.000 Sternmünzen
+^FF0000 20.000 mehr
 
 [PRODUCT_PVP_COIN_1_SHORT_DESC]
-星币
+Stern Münzen
 
 [PRODUCT_PVP_COIN_2_SHORT_DESC]
-小堆星币
+Kleiner Haufen Sternmünzen
 
 [PRODUCT_PVP_COIN_3_SHORT_DESC]
-中堆星币
+Mittlerer Haufen Sternmünzen
 
 [PRODUCT_PVP_COIN_4_SHORT_DESC]
-大堆星币
+Großer Haufen Sternmünzen
 
 [PRODUCT_NEW_PVP_COIN_1_DESC]
-5000个星币
+5.000 Sternmünzen
 
 [PRODUCT_NEW_PVP_COIN_2_DESC]
-15000个星币
-^FF0000 另送5000个
+15.000 Sternmünzen
+^FF0000 5.000 mehr
 
 [PRODUCT_NEW_PVP_COIN_3_DESC]
-50000个星币
-^FF0000 另送25000个
+50.000 Sternmünzen
+^FF0000 25.000 mehr
 
 [PRODUCT_NEW_PVP_COIN_1_SHORT_DESC]
-小堆星币
+Kleiner Haufen Sternmünzen Münzen
 
 [PRODUCT_NEW_PVP_COIN_2_SHORT_DESC]
-中堆星币
+Mittlerer Stapel Sternmünzen
 
 [PRODUCT_NEW_PVP_COIN_3_SHORT_DESC]
-大堆星币
+Großer Stapel Sternmünzen
 
 [PRODUCT_STAMINA_10_SHORT_DESC]
-体力x10
+Ausdauer x10
 
 [PRODUCT_STAMINA_20_SHORT_DESC]
-体力x22
+Ausdauer x22
 
 [PRODUCT_STAMINA_50_SHORT_DESC]
 体力x55
@@ -14201,31 +14292,22 @@ Recycling-Verbesserung
 未来时空奖杯
 
 [EMPEA]
-脉冲黄桃
+E.M.Pfirsich
 
 [EMPEA_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}特殊：{STAT}设备失灵
-{KEYWORD}植物特征：{STAT}橙色植物、矮个子
-{FLAVOR}如果你要去和脉冲黄桃一起吃饭聚会，给你个小提示，吃饭的时候别埋头玩手机。
+{KEYWORD}Nutzung: {STAT}einmalig, sofort
+{KEYWORD}Besonderheit: {STAT}deaktiviert Maschinen
+
+{FLAVOR}Hat genug davon, ständig wegen seiner samtweichen Haut aufgezogen zu werden. "In mir steckt viel mehr, Leute. Wartet mal, bis ihr meinen harten Kern gesehen habt!"
 
 [EMPEA_DESCRIPTION_HEADER]
-脉冲黄桃一旦启动会使整片区域的所有机器设备失灵。
+E.M.Pfirsiche explodieren und deaktivieren alle Maschinen in einem Bereich.
 
 [EMPEA_PLANTFOOD]
-能量豆无效果。
+Kein Spezialdünger-Effekt.
 
 [EMPEA_TOOLTIP]
-使区域内所有设备失灵。
-
-[EMPEA_PRODUCT_SHORT_DESC]
-使区域内所有设备失灵
-
-[EMPEA_PLANTFOOD_DESCRIPTION]
-
-
-[EMPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-
+Deaktiviert alle Maschinen in einem Bereich
 
 [HOLONUT]
 Unend-Nuss
@@ -14583,128 +14665,146 @@ Schnappt sich einen Zombie und schwingt ihn.
 要使用强化道具吗？
 
 [ZOMBIE_FOOTBALL_MECH]
-机甲橄榄球僵尸
+Mecha-Football-Zombie
 
 [ZOMBIE_FOOTBALL_MECH_DESCRIPTION]
-{KEYWORD}特点: {STAT}不会吞噬植物而是将其向后推动一格
+{KEYWORD}Besonderheit: {STAT}schiebt Pflanzen nach links, statt sie zu essen
 
-{FLAVOR}虽然已经过了巅峰期，但机甲－橄榄球僵尸已经准备好重回球场了。除非他得到脑子，否则脑震荡永远不会困扰他。
+{FLAVOR}Der Mecha-Football-Zombie hat seine besten Zeiten hinter sich, ist jetzt aber bereit, wieder aufgestellt zu werden. Solange er kein Hirn bekommt, muss man sich auch keine Sorgen um Gehirnerschütterungen machen.
 
 [ZOMBIE_FOOTBALL_MECH_DESCRIPTION_HEADER]
-将植物推出草坪。
+Schiebt Pflanzen über den Rasen.
 
 [ZOMBIE_FUTURE]
-未来僵尸
+Zukunftszombie
 
 [ZOMBIE_FUTURE_ARMOR1]
-路障未来僵尸
+Pylonen-Zukunftszombie
 
 [ZOMBIE_FUTURE_ARMOR1_DESCRIPTION]
-{FLAVOR}他每次试图计算出拥有完美圆周率的路障体积时，最终总会陷入享用脑子派的白日梦中。
+{FLAVOR}Hat versucht, das Volumen seines mathematisch perfekten Pylonen zu berechnen, kommt dabei aber immer ins Träumen ... von Hirn.
 
 [ZOMBIE_FUTURE_ARMOR1_DESCRIPTION_HEADER]
-他的聚合物质路障桶让他比未来僵尸强壮很多。
+Sein Polypolymer-Pylon verleiht ihm die doppelte Ausdauer eines normalen Zukunftszombies.
 
 [ZOMBIE_FUTURE_ARMOR2]
-铁桶未来僵尸
+Eimer-Zukunftszombie
 
 [ZOMBIE_FUTURE_ARMOR2_DESCRIPTION]
-{FLAVOR}其他僵尸叫他活在2008年的老古董，那是一个简单的年代，脑子是脑子，僵尸是僵尸，再难的工作一周也只需要七件西装。
+{FLAVOR}Die anderen Zombies halten ihn für altmodisch, weil er nostalgische Gefühle für das Jahr 2008 hegt. Damals war alles noch einfacher - Hirn war Hirn, Zombies waren Zombies, und diese freakigen Pflanzen haben sich um ihren eigenen Kram gekümmert.
 
 [ZOMBIE_FUTURE_ARMOR2_DESCRIPTION_HEADER]
-高科技铁桶提供了极好的保护使他免受伤害。
+Sein Techno-Eimer verstärkt seinen Schutz immens.
+
+[ZOMBIE_FUTURE_ARMOR4]
+Holo-Kopf-Zombie
+
+[ZOMBIE_FUTURE_ARMOR4_DESCRIPTION]
+{FLAVOR}Die einzigartige Färbung seines Kraftfelds kommt durch bestimmte Oberwellen und eine großzügige Portion violetter Farbe zustande.
+
+[ZOMBIE_FUTURE_ARMOR4_DESCRIPTION_HEADER]
+Das am Kopf des Holo-Kopf-Zombies angebrachte Kraftfeld liefert Hyper-Schutz.
 
 [ZOMBIE_FUTURE_DESCRIPTION]
-{FLAVOR}未来僵尸非常喜欢红色套装。未来纪事录-编号23：红衣衫，去霉运，旺事业。
+Zukunftszombies stehen rote Hemden gut. Zukunftsfakt Nr. 23: Roten Hemden stößt nichts Schlimmes zu.
 
 [ZOMBIE_FUTURE_DESCRIPTION_HEADER]
-穿着未来感十足，红色连身衣的普通僵尸。
+Ein normaler, futuristischer Overall-Zombie.
 
 [ZOMBIE_FUTURE_FLAG]
-旗帜未来僵尸
+Flaggen-Zukunftszombie
 
 [ZOMBIE_FUTURE_FLAG_DESCRIPTION]
-{FLAVOR}有时候，旗帜未来僵尸不太喜欢高科技引领者的称号，因为这表示他必须在任何时候都走在最前面。
+{FLAVOR}Manchmal bedauert der Flaggen-Zukunftszombie, an vorderster Front der Zombiewellen-Vormarschtechnologie eingesetzt zu werden.
 
 [ZOMBIE_FUTURE_FLAG_DESCRIPTION_HEADER]
-引领着一大“波”未来僵尸的到来。
+Kündigt die Ankunft einer großen, zukunftstauglichen Zombiewelle an.
+
+[ZOMBIE_FUTURE_FLAG_VETERAN]
+Robo-Demo-Zombie
+
+[ZOMBIE_FUTURE_FLAG_VETERAN_DESCRIPTION]
+{FLAVOR}Wenn du genau hinsiehst, wirst du feststellen, dass die Flagge des Robo-Demo-Zombies ein hochmodernes Stück Hover-Technologie an einem Stock ist.
+
+[ZOMBIE_FUTURE_FLAG_VETERAN_DESCRIPTION_HEADER]
+Der Robo-Demo-Zombie kündigt mit seiner Flagge eine überdurchschnittlich große Ansammlung von Zombies an.
 
 [ZOMBIE_FUTURE_GARGANTUAR]
-机甲巨人僵尸
+Gargantua Prima
 
 [ZOMBIE_FUTURE_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害：{STAT}用机械臂压扁植物
-{KEYWORD}伤害：{STAT}眼睛可以随机发射激光燃烧整条道路
-{KEYWORD}特点：{STAT}当受到伤害时会抛出小型僵尸机器人
+{KEYWORD}Schaden: {STAT}zerquetscht Pflanzen mit seinen Armen
+{KEYWORD}Schaden: {STAT}verbrennt zufällige Felder mit Laseraugen
+{KEYWORD}Besonderheit: {STAT}lässt einen Käferbot los, wenn er beschädigt wird
 
-{FLAVOR}驾驶机甲巨人的机师都由僵尸博士亲自选出来。他们是小鬼僵尸里的精英。技术出众，短小精悍，无所畏惧！对，没错，他们大多数都会在驾驶时调成手动挡。
+{FLAVOR}Die Pilotenwichte der Gargantua-Prima-Serie werden von Dr. Zomboss höchstpersönlich ausgesucht. Sie sind die Wicht-Elite. Klein, gemein und furchtlos müssen sie sein. Aber vor allem müssen sie wissen, wie man eine Gangschaltung betätigt.
 
 [ZOMBIE_FUTURE_GARGANTUAR_DESCRIPTION_HEADER]
-武装到牙齿：厚重铠甲，镭射眼，威力无比的机械臂，以及小型僵尸机器人部署发射系统。
+Hat einfach alles: starke Rüstung, Laseraugen, Quetscharme und Käferbot-Einsatzsystem.
 
 [ZOMBIE_FUTURE_IMP]
-机器虫小鬼僵尸
+Käferbot-Wicht
 
 [ZOMBIE_FUTURE_IMP_DESCRIPTION]
-{FLAVOR}他一直想“环游世界”、“主宰命运”和“找找有趣的大脑享受一番”。但他仍然不明白他怎么就会被这份7X24小时的工作拖住，一直被关在机器虫狭小的操控室里。
+{FLAVOR}Er wollte immer "die Welt sehen", "sein eigener Chef sein" und "interessante Hirne kennenlernen und verspeisen". Bis heute hat er nicht verstanden, warum er rund um die Uhr in diesem engen Käferbot sitzt.
 
 [ZOMBIE_FUTURE_IMP_DESCRIPTION_HEADER]
-穿越你的防线空降着陆，然后向前爬行。
+Landet hinter deinen Verteidigungslinien auf dem Rasen und hüpft dann vorwärts.
 
 [ZOMBIE_FUTURE_JETPACK]
-喷射器僵尸
+Raketenrucksack-Zombie
 
 [ZOMBIE_FUTURE_JETPACK_DESCRIPTION]
-{KEYWORD}特点：{STAT}可以喷射式飞行穿越大部分低矮的植物
-{KEYWORD}弱点：{STAT}会被高大植物阻挡
+{KEYWORD}Besonderheit: {STAT}schwebt über niedrige Pflanzen, gelangt mit Raketenschub über fast alle anderen Pflanzen
+{KEYWORD}Schwäche: {STAT}Große blockierende Pflanzen
 
-{FLAVOR}他的喷射器是 2113年未来科技大爆炸时期的热门产品，但是他却不知道他买的这一款不可以升级到最新的操作系统。
+{FLAVOR}Der Raketenrucksack-Zombie war Vorreiter während des Hirnerwerb-Technikbooms im Jahr 2113. Wer hätte gedacht, dass er auf Version 1.0 des einfachen Raketenrucksacks hängenbleibt?
 
 [ZOMBIE_FUTURE_JETPACK_DESCRIPTION_HEADER]
-除了会被高大植物阻挡之外，可以借助喷射器越过所有的植物。
+Überschwebt mit Raketenschub alle Pflanzenbarrieren außer den allerhöchsten.
 
 [ZOMBIE_FUTURE_JETPACK_DISCO]
-喷射器舞者
+Disco-Raketenrucksack-Zombie
 
 [ZOMBIE_FUTURE_JETPACK_DISCO_DESCRIPTION]
-{KEYWORD}特点：{STAT}可以喷射式飞行穿越大部分低矮的植物
-{KEYWORD}弱点：{STAT}会被高大植物阻挡
+{KEYWORD}Besonderheit: {STAT}schwebt über niedrige Pflanzen, gelangt mit Raketenschub über fast alle anderen Pflanzen
+{KEYWORD}Schwäche: {STAT}Große blockierende Pflanzen
 
-{FLAVOR}一名为跳舞而“活”的僵尸，他是音乐舞剧““迪斯科复辟！复仇！”原班人马之一，他的招牌舞步是“割草机”。
+{FLAVOR}Dieser Zombie "lebt" für das Drama und war Mitglied des Originalensembles des Musicals "Disco ist WIEDER DA! Und will Rache!" Sein charakteristischer Tanz-Move ist der "Unkrauthacker".
 
 [ZOMBIE_FUTURE_JETPACK_DISCO_DESCRIPTION_HEADER]
-除了会被高大植物阻挡之外，可以借助喷射器越过所有的植物，还会随着节奏跳迪斯科。
+Überschwebt mit Raketenschub alle Pflanzenbarrieren außer den allerhöchsten. Und zwar mit Stil.
 
 [ZOMBIE_DISCO_MECH]
-迪斯科3000
+Disco-Tron 3000
 
 [ZOMBIE_DISCO_MECH_DESCRIPTION]
-{KEYWORD}特点：{STAT}召唤喷气迪斯科僵尸
+{KEYWORD}Besonderheit: {STAT}beschwört Disco-Raketenrucksack-Zombies
 
-{FLAVOR}经过了长时间严苛的研发，解决了悬挂和跳针的问题。现在迪斯科3000成为舞步最为华丽的邪恶机器人。
+{FLAVOR}Nach einigen anfänglichen Schwierigkeiten mit dem Kotelettenkontrollsystem entwickelte sich der Disco-Tron 3000 zu dem geschmeidigen Tanzroboter des Verderbens, als der er heute bekannt ist.
 
 [ZOMBIE_DISCO_MECH_DESCRIPTION_HEADER]
-让舞者僵尸们嗨翻全场。
+Bringt Disco-Zombies ins Spiel, wenn der Beat nachlässt.
 
 [ZOMBIE_FUTURE_PROTECTOR]
-电磁盾僵尸
+Schild-Zombie
 
 [ZOMBIE_FUTURE_PROTECTOR_DESCRIPTION]
-{KEYWORD}特点：{STAT}建立激光盾防卫前方的普通子弹攻击
+{KEYWORD}Besonderheit: {STAT}erzeugt einen Schild zum Schutz vor Angriffen
 
-{FLAVOR}电磁盾僵尸利用它在“启动啃咬”竞赛活动中获取的奖金，开发了这个护盾系统。它的缺陷是在开启护盾后，阻隔了植物的同时也阻隔了wifi。
+{FLAVOR}Der Schild-Zombie hat sein System unter Einsatz von Kapital aus einer Biss-Funding-Kampagne entwickelt. Das ursprüngliche Ziel, Pflanzen aus dem Wettbewerb zu schubsen, wurde nicht erreicht.
 
 [ZOMBIE_FUTURE_PROTECTOR_DESCRIPTION_HEADER]
-使用强力护盾保护自己和附近的僵尸。
+Schützt sich und Zombies in der Nähe mit einem Kraftfeld.
 
 [ZOMBIE_MECH_CONE]
-机甲路障僵尸
+Robo-Pylonen-Zombie
 
 [ZOMBIE_MECH_CONE_DESCRIPTION]
-{FLAVOR}僵尸工程师认为橙色路障的造型可以给予僵尸完美的防御。于是经过完美的设计和严谨的制造，成品展现在大家的面前。这时，有人想起了铁桶。
+{FLAVOR}Zombie-Ingenieure hielten den orangefarbenen Pylonen für das Nonplusultra im Bereich der Zombieschutztechnologie. Erst nachdem sie das Design des Robo-Pylonen perfektioniert hatten, erinnerte sich jemand an den Eimer.
 
 [ZOMBIE_MECH_CONE_DESCRIPTION_HEADER]
-路障形状的机甲为机师提供了惊人的保护防御力。
+Der metallverstärkte Pylon bietet seinem Piloten phänomenalen Schutz.
 
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}我们到了一个由机械主宰的未来世界！
@@ -14722,7 +14822,7 @@ Schnappt sich einen Zombie und schwingt ihn.
 {EXCITED}比如现在!
 
 [STARCHALLENGE_SUNBOMBS_NAME]
-Sonnensturm
+Sonnenbomben
 
 [STARCHALLENGE_FUTURE_CONVEYOR]
 Erfolgreich einer großen Zombiewelle widerstanden.
@@ -17140,12 +17240,79 @@ Der muschelbesetzte Eimer schützt hervorragend gegen Schaden.
 Fischer-Zombie
 
 [ZOMBIE_BEACH_FISHERMAN_DESCRIPTION]
-{KEYWORD}Funktionen:{STAT}Kann Pflanzen nach rechts ziehen.
-{KEYWORD}Funktionen:{STAT}Die nächste Pflanze wird aus dem Rasen gefischt.
-{FLAVOR}Alle haben sie so satt, die Angelgeschichten vom Fischer-Zombie. Immerzu prahlt er damit, was für einen dicken Fang er wieder gemacht hat. Ständig hat er „was Großes“ an der Angel. Tatsächlich hat ihn aber noch nie jemand mit einem Fisch gesehen. Ist doch ein bisschen verdächtig, oder? 
+{KEYWORD}Besonderheit: {STAT}Zieht Pflanzen nach rechts
+
+{KEYWORD}Besonderheit: {STAT}Pflanzen neben ihm werden vom Rasen geschleudert
+
+
+
+{FLAVOR}Alle haben sie so satt, die Angelgeschichten vom Fischer-Zombie. Immerzu prahlt er damit, was für einen dicken Fang er wieder gemacht hat. Ständig hat er „was Großes“ an der Angel. Tatsächlich hat ihn aber noch nie jemand mit einem Fisch gesehen. Ist doch ein bisschen verdächtig, oder?
 
 [ZOMBIE_BEACH_FISHERMAN_DESCRIPTION_HEADER]
 Wirft seine Rute aus und angelt weit entfernte Pflanzen zu sich hin.
+
+[ZOMBIE_BEACH_FLAG]
+Flaggen-Strandzombie
+
+[ZOMBIE_BEACH_FLAG_DESCRIPTION]
+{FLAVOR}Wo wir gerade von unzufriedenen Zombies sprechen – der Flaggen-Strandzombie hat die Nase voll. Die anderen verstehen anscheinend gar nicht, wie schwierig es ist, gleichzeitig zu schwimmen und eine Flagge zu halten. Nicht einer dankt ihm für seine harte und so wichtige Arbeit. Aber die werden sich noch wundern: Er hat schon Bewerbungen auf andere Jobs rausgeschickt.
+
+[ZOMBIE_BEACH_FLAG_DESCRIPTION_HEADER]
+Kündigt die Ankunft einer großen, nassen Zombiewelle an.
+
+[ZOMBIE_BEACH_GARGANTUAR]
+Tiefsee-Gargantua
+
+[ZOMBIE_BEACH_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Schaden: {STAT}zerschmettert Pflanzen mit Treibholz
+{KEYWORD}Besonderheit: {STAT}wirft einen Meerjungfrau-Wicht, wenn er Schaden nimmt
+
+{FLAVOR}Dieser große Bursche liebt das Wasser. Denn darin fühlt er sich leicht wie eine Feder. Als ob er fliegt. Und vor allem fühlt er sich dann, als sei das Gewicht des Meerjungfrau-Wichts von seinen Schultern genommen.
+
+[ZOMBIE_BEACH_GARGANTUAR_DESCRIPTION_HEADER]
+Ein Zombie-Titan, der kein Problem damit hat, seine Gegner nass zu machen.
+
+[ZOMBIE_BEACH_IMP]
+Meerjungfrau-Wicht
+
+[ZOMBIE_BEACH_IMP_DESCRIPTION]
+{FLAVOR}Der Meerjungfrau-Wicht konnte sich nicht zwischen einem Oberteil aus Kokosnuss-Schalen und einem aus Muscheln entscheiden. Am Ende wurde es dann aber doch die Kokosnuss-Version. Die Muschel-Welle ist doch längst passé.
+
+[ZOMBIE_BEACH_IMP_DESCRIPTION_HEADER]
+Lässt sich hinter deine Verteidigung spülen und zappelt dann vorwärts.
+
+[ZOMBIE_BEACH_OCTOPUS]
+Okto-Zombie
+
+[ZOMBIE_BEACH_OCTOPUS_DESCRIPTION]
+{KEYWORD}Besonderheit: {STAT}Gefesselte Pflanzen bleiben untätig, bis ihr Oktopus zerstört wird
+
+{FLAVOR}Es fing alles ganz harmlos an. Eines Tages entschloss sich der Okto-Zombie, einen Oktopus als Haustier zu erstehen. Der gefiel ihm so gut, dass er sich noch einen kaufte, und noch einen ... und noch einen. Nach kurzer Zeit bewarb er sich als freiwilliger Helfer beim lokalen Oktopus-Heim. Keiner traut sich, es ihm zu sagen, aber der Okto-Zombie ist das Unterwasser-Pendant zur verrückten Katzen-Lady. Das ganze Haus voller Oktopoden ... der Wahnsinn.
+
+[ZOMBIE_BEACH_OCTOPUS_DESCRIPTION_HEADER]
+Wirft Oktopoden auf deine Pflanzen und fesselt sie damit.
+
+[ZOMBIE_BEACH_SNORKEL]
+Schnorchel-Zombie 
+
+[ZOMBIE_BEACH_SNORKEL_DESCRIPTION]
+{KEYWORD}Besonderheit: {STAT}Taucht unter, um Angriffen auszuweichen
+
+{FLAVOR}Der Schnorchel-Zombie hat echt alles versucht, um die Bikinizombies für sich einzunehmen. Blumen. Schmuck. Kandiertes Hirn. Aber nichts funktioniert. Irgendwie sehen die Damen offenbar nicht den Zombie hinter dem Schnorchel.
+
+[ZOMBIE_BEACH_SNORKEL_DESCRIPTION_HEADER]
+Sie können unter Wasser schwimmen. 
+
+[ZOMBIE_BEACH_SURFER]
+Surfer-Zombie
+
+[ZOMBIE_BEACH_SURFER_DESCRIPTION]
+{KEYWORD}Schaden: {STAT}kann eine Pflanze mit seinem Board plätten
+
+{FLAVOR}Der Surfer-Zombie hat letztes Jahr mit dem Surfen angefangen. Zuerst nur, weil er dachte, dann cool zu sein. Wie sich herausstellte, ist er aber ein echtes Naturtalent und auf dem besten Weg in den Profizirkus. Jetzt IST er wirklich cool.
+
+[ZOMBIE_BEACH_SURFER_DESCRIPTION_HEADER]
+Surft auf dem Wasser an Pflanzen vorbei und trägt dann sein Board an Land.
 
 [ZOMBIE_BEACH_SHELL]
 Schalen-Zombie
@@ -17157,65 +17324,6 @@ Schalen-Zombie
 
 [ZOMBIE_BEACH_SHELL_DESCRIPTION_HEADER]
 Benutzt eine Muschelschale, um sich vor Pflanzen zu verteidigen und anzugreifen.
-
-[ZOMBIE_BEACH_FLAG]
-Strandflaggen-Zombie
-
-[ZOMBIE_BEACH_FLAG_DESCRIPTION]
-{FLAVOR}Wenn wir schon von den verärgertesten Zombies sprechen: Der Strandflaggen-Zombie gehört definitiv dazu. Keiner der anderen Zombies konnte verstehen, wie schwierig es war, mit einer Flagge wie ihm zu schwimmen, und niemand dachte daran, ihm für seine schwierige Aufgabe zu danken. Kein Wunder also, dass er einmal zu einem Vorstellungsgespräch für einen anderen Job ging.
-
-[ZOMBIE_BEACH_FLAG_DESCRIPTION_HEADER]
-Er führte eine große „Welle“ von Zombies an.
-
-[ZOMBIE_BEACH_GARGANTUAR]
-Tiefsee-Gargantua
-
-[ZOMBIE_BEACH_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Schaden: {STAT}Verwendet Treibholz, um Pflanzen zu zerstören.
-{KEYWORD}Eigenschaften: {STAT}Wirft bei Schaden den Meerjungfrauen-Kobold-Zombie hinaus.
-{FLAVOR}Der große Kerl liebt Wasser. Wenn er im Wasser versinkt, fühlt er sich federleicht und frei schwebend. Vor allem aber fühlt er sich in diesem kostbaren Moment, als wäre die Last des Meerjungfrauen-Wicht-Zombies von seinen Schultern genommen worden.
-
-[ZOMBIE_BEACH_GARGANTUAR_DESCRIPTION_HEADER]
-Der Gargantua ist ein harter Kerl.
-
-[ZOMBIE_BEACH_IMP]
-Meerjungfrauen-Wicht-Zombie
-
-[ZOMBIE_BEACH_IMP_DESCRIPTION]
-{FLAVOR}Der Meerjungfrauen-Wicht-Zombie kann sich nicht entscheiden, ob er die ultimative Kokosnussschale oder den ultimativen Muschelschmuck tragen soll. Glatte Kokosnussschalen sind unverzichtbar. Aber Schalen liegen voll im Trend.
-
-[ZOMBIE_BEACH_IMP_DESCRIPTION_HEADER]
-Durchdringt parabolisch deine Verteidigung und bewegt sich dann vorwärts.
-
-[ZOMBIE_BEACH_OCTOPUS]
-Oktopus-Zombie
-
-[ZOMBIE_BEACH_OCTOPUS_DESCRIPTION]
-{KEYWORD}Features:{STAT}Pflanzen bleiben verheddert, bis der Oktopus zerstört ist.
-{FLAVOR}Wie alles begann, ist ziemlich lächerlich. Eines Tages beschloss Oktopus-Zombie, sich einen Oktopus als Haustier zuzulegen. Aber er liebte ihn so sehr, dass er sich immer mehr Tiere zulegte ... und plötzlich arbeitet er ehrenamtlich in einem Oktopus-Schutzgebiet. Und jetzt, nun ja, niemand will es ihm direkt sagen, ist er so etwas wie die Katzendame der Unterwasserwelt. Ihr solltet mal sehen, wie viele er in seinem Haus hat, es ist wirklich erstaunlich.
-
-[ZOMBIE_BEACH_OCTOPUS_DESCRIPTION_HEADER]
-Wirf Oktopusse, um deine Pflanzen festzubinden.
-
-[ZOMBIE_BEACH_SNORKEL]
-Schnorchelnder Zombie
-
-[ZOMBIE_BEACH_SNORKEL_DESCRIPTION]
-{KEYWORD}Funktionen: {STAT}Schnorcheln, um Angriffen auszuweichen
-{FLAVOR}Der schnorchelnde Zombie ist echt nervig, wenn er Bikini Zombie den Hof macht. Er hat es mit Blumen, Schmuck und sogar Schokoladensauces Gehirn versucht. Aber nichts funktioniert. Hauptsächlich, weil er sein Gesicht durch seine Taucherbrille nicht klar sehen kann.
-
-[ZOMBIE_BEACH_SNORKEL_DESCRIPTION_HEADER]
-Der schnorchelnde Zombie kann tauchen.
-
-[ZOMBIE_BEACH_SURFER]
-Surfender Zombie
-
-[ZOMBIE_BEACH_SURFER_DESCRIPTION]
-{KEYWORD}Schaden:{STAT}Zerstöre eine Pflanze mit einem Surfbrett.
-{FLAVOR}Der Surfende Zombie hat letztes Jahr mit dem Surfen angefangen. Anfangs wollte er nur cool aussehen. Aber er ist ein Genie. Jetzt ist er ein Top-10-Spieler und ein Profi-Tourspieler, was echt cool ist.
-
-[ZOMBIE_BEACH_SURFER_DESCRIPTION_HEADER]
-Zerstöre die Wasserpflanzen, wenn du vorbeikommst, und trage dann das Surfbrett an Land.
 
 [ACCESSORY_NAME_1]
 Super-Boxhandschuh
@@ -20766,7 +20874,7 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 因PvP将于近期关闭，星币购买入口已关闭
 
 [SKYCITY]
-天空之城
+Luftstadt
 
 [UPGRADE_CANNON_1]
 普通火炮
@@ -21126,17 +21234,16 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 大招能缩小僵尸的体型并降低它们的能力一段时间。
 
 [ELECTRICBLUEBERRY]
-电击蓝莓
-
-[ELECTRICBLUEBERRY_DESCRIPTION_HEADER]
-电击蓝莓可以对一定范围内的僵尸造成巨大的伤害。
+Elektro-Blaubeere
 
 [ELECTRICBLUEBERRY_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}蓝色植物、十万伏特
-{FLAVOR}电击蓝莓为自己既能够保持中性又能够带电的能力感到无比自豪，“我喜欢让僵尸们不断推测我的行踪”，她说道，“僵尸们总是在被我的闪电劈得四分五裂的时候惊叹道，‘天哪，我可没看见那玩意儿向我劈来！’”
+{FLAVOR} Die Elektro-Blaubeere ist elektrisch UND eklektisch. „Ich liebe es, meine Feinde zu überraschen“, sagt sie. „Der letzte Gedanke, den ein Zombie hat, sollte ‚Wow, was war das denn‘ lauten.“
+
+[ELECTRICBLUEBERRY_DESCRIPTION_HEADER]
+Die Elektro-Blaubeere elektrifiziert Zombies nach dem Zufallsprinzip.
 
 [ELECTRICBLUEBERRY_TOOLTIP]
-电击蓝莓可以对一定范围内的僵尸造成巨大的伤害。
+Elektrifiziert Zombies nach dem Zufallsprinzip
 
 [ELECTRICBLUEBERRY_PLANTFOOD]
 产生一块小型雷云，产生三段电击。
@@ -21212,20 +21319,16 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 大招获得更结实的水晶护甲。
 
 [ENDURIAN]
-榴莲
-
-[ENDURIAN_DESCRIPTION_HEADER]
-榴莲可以阻挡僵尸前进并对攻击他的僵尸造成伤害。
+Endurian
 
 [ENDURIAN_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR}“当别人提到我的时候，他们说我太难以接近了，因为我总是很害怕别人的接近。并且，我的气味有点难闻。”榴莲这么说着。但是实际上，他知道他比自己说的更糟糕：他的脾气非常暴躁。
+{FLAVOR}„Wenn andere Pflanzen über mich sprechen, sagen sie, ich sei zu schroff. Sie sagen, dass man nur schwer auf mich eingehen könne, da ich niemanden an mich ran ließe. Außerdem soll ich schrecklich stinken", sagt der Endurian. In seinem tiefsten Inneren weiß er jedoch, dass damit nicht alles gesagt ist. Er ist nämlich auch sehr schnell reizbar.
+
+[ENDURIAN_DESCRIPTION_HEADER]
+Endurians sind defensive Pflanzen, die angreifenden Zombies Schaden zufügen.
 
 [ENDURIAN_TOOLTIP]
-榴莲可以阻挡僵尸前进并对攻击他的僵尸造成伤害。
-
-[ENDURIAN_PLANTFOOD]
-获得铁制护甲。
+Verteidigt und fügt dabei angreifenden Zombies Schaden zu
 
 [BIRTHSUNFLOWER_PRODUCT_SHORT_DESC]
 向日葵歌手
@@ -26380,17 +26483,18 @@ Endloses Training
 Beste Auswahl
 
 [ELECTRICCURRANT]
-Elektrische rote Johannisbeere
+Elektro-Ribisel
 
 [ELECTRICCURRANT_DESCRIPTION]
-{KEYWORD} Verwendung: {STAT} Gruppeneffekt (Elektrizität)
-{FLAVOR} Elektrizität funktioniert Wundert sich, sagt Elektrische Johannisbeere, „aber Elektromagnetismus ist ihre Stärke.“
+{KEYWORD}Nutzung: {STAT}betrifft einen Bereich (Elektrozaun)
+{FLAVOR}
+„Elektrizität ist ja für sich genommen schon ein schönes Phänomen“, sagt die Elektro-Ribisel, „aber erst beim Elektromagnetismus geht richtig die Post ab.“ 
 
 [ELECTRICCURRANT_DESCRIPTION_HEADER]
-Elektrische Johannisbeere erzeugt ein elektrisches Gitter zwischen Pflanzen in einer Spalte oder Reihe.
+Pflanze Elektro-Ribiseln in derselben Reihe oder Spalte, um Elektrozäune zwischen ihnen zu ziehen. 
 
 [ELECTRICCURRANT_TOOLTIP]
-Erzeugt ein elektrisches Gitter.
+Errichtet Elektrozäune
 
 [EPIC_QUEST_AWARD_BODY]
 Halte Ausschau nach weiteren epischen Quests!
