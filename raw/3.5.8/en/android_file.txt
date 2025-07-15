@@ -5447,26 +5447,20 @@ Kann nicht auf Sushi platziert werden.
 [PLANTING_NOT_ON_HEAVY_SHIELD]
 Kann nicht auf Schilden platziert werden.
 
-[PLANTING_NOT_ON_FOG]
-Kann nicht auf Nebel platziert werden.
-
 [PLANTING_NOT_ON_VAN_MIST]
 Kann nicht auf Rauch platziert werden.
 
-[PLANTING_BESIEGE_BOX_NOT_HERE]
-Kiste kann hier nicht platziert werden. Es muss mindestens ein Durchgang vorhanden sein.
-
 [PLANTING_NOT_ON_FOG]
 Kann nicht auf Nebel platziert werden.
 
 [PLANTING_NOT_ON_VAN_MIST]
-Du Kann nicht auf Rauch gepflanzt werden.
+Du Kannst nicht auf Rauch pflanzen.
 
 [PLANTING_BESIEGE_BOX_NOT_HERE]
-Kiste kann hier nicht platziert werden. Es muss mindestens ein Durchgang vorhanden sein.
+Du kannst hier nicht pflanzen. Es muss mindestens ein Durchgang vorhanden sein.
 
 [PLANTING_NOT_ON_FOG]
-Kiste kann nicht auf Nebel gepflanzt werden.
+Du kannst nicht auf Nebel pflanzen.
 
 [PLANTING_NOT_ON_VAN_MIST]
 Kiste kann nicht auf Rauch gepflanzt werden.
