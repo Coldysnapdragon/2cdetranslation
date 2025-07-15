@@ -69641,73 +69641,73 @@ Wächst sofort zur dritten Stufe und erzeugt eine Feuerwand, die Zombies blockie
 橡木弓手向天空射出60支^ff0000^攻击力更强的光箭矢随机命中僵尸。^oldclr^
 
 [DANDELION_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在蒲公英右侧时，蒲公英会释放出绒球。绒球内有一颗炸弹，当绒球移动到僵尸正上方时，绒球会丢出炸弹攻击僵尸。
+Wenn ein Zombie rechts neben einer Pusteblume erscheint, wirft die Pusteblume einen Pompon ab. Darin befindet sich eine Bombe. Bewegt sich der Pompon direkt über den Zombie, wirft er die Bombe ab und greift ihn an.
 
 [DANDELION_NEW_SKILL_LEVEL2_DES]
-使蒲公英发射的绒球可以携带两枚炸弹。
+Ermöglicht es der Pusteblume, zwei Bomben zu tragen.
 
 [DANDELION_NEW_SKILL_LEVEL3_DES]
-使蒲公英发射的绒球可以携带三枚炸弹。
+Ermöglicht es der Pusteblume, drei Bomben zu tragen.
 
 [DANDELION_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Chance, die Energiebohne direkt freizusetzen. (Große Bewegung!)
 
 [DANDELION_NEW_SKILL_LEVEL5_DES]
-蒲公英在释放绒球时有30%的概率发出一枚更大的炸弹造成270点伤害。
+Beim Abwerfen eines Pompons hat der Löwenzahn eine 30%ige Chance, eine größere Bombe mit 270 Schadenspunkten abzufeuern.
 
 [DANDELION_PLANTFOOD_DESCRIPTION]
-发出5个高爆炸弹，对任意5个格子种的僵尸造成伤害。
+Sende 5 Sprengbomben ab, die Zombies in 5 beliebigen Feldern Schaden zufügen.
 
 [DANDELION_AVATAR_PLANTFOOD_DESCRIPTION]
-发出5个高爆炸弹，^ff0000^对面前的场地进行地毯式轰炸。^oldclr^
+Sende 5 Sprengbomben ab, die das Feld vor dir mit einem Flächenbombardement von ^ff0000^ bombardieren. ^oldclr^
 
 [BROCCOLI_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在大力花菜右侧一格时，大力花菜会伸出手抓住僵尸并前后锤击该僵尸两次，之后进入6秒的休息时间，无法抓住飞行僵尸和大型僵尸。
+Wenn ein Zombie ein Feld rechts vom Brokkoli erscheint, greift Der Brokkoli nach dem Zombie und schlägt zweimal mit dem Hammer auf ihn ein. Anschließend ruht er sich 6 Sekunden lang aus und kann keine fliegenden oder großen Zombies greifen.
 
 [BROCCOLI_NEW_SKILL_LEVEL2_DES]
-大力花菜使用全力有20%的概率把僵尸直接扔出场外。
+Wenn Der Brokkoli seine volle Kraft einsetzt, besteht eine 20%ige Chance, den Zombie direkt aus dem Feld zu werfen.
 
 [BROCCOLI_NEW_SKILL_LEVEL3_DES]
-大力花菜使用全力有40%的概率直接把僵尸扔出场外。
+Wenn Der Brokkoli seine volle Kraft einsetzt, besteht eine 40%ige Chance, den Zombie direkt aus dem Feld zu werfen.
 
 [BROCCOLI_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohnen-Fähigkeit direkt freizusetzen!
 
 [BROCCOLI_NEW_SKSKILL_LEVEL5_DES]
-蒲公英在释放绒球时有30%的概率发出一枚更大的炸弹造成270点伤害。
+Beim Loslassen des Pompons hat Rittersporn eine 30%ige Chance, eine größere Bombe mit 270 Schadenspunkten freizusetzen.
 
 [BROCCOLI_PLANTFOOD_DESCRIPTION]
-吸引一只远处的僵尸，对3×3范围内的僵尸造成伤害，然后将这只僵尸扔出场外。
+Lockt einen entfernten Zombie an, fügt Zombies im Umkreis von 3×3 Schaden zu und wirft ihn anschließend vom Feld.
 
 [BROCCOLI_AVATAR_PLANTFOOD_DESCRIPTION]
-吸引一只远处的僵尸，对3×3范围内的僵尸造成伤害，然后将这只僵尸扔出场外，^ff0000^并对扔出僵尸本行的僵尸造成伤害。^oldclr^
+Lockt einen entfernten Zombie an, fügt Zombies im Umkreis von 3×3 Schaden zu und wirft ihn anschließend vom Feld. ^ff0000^ und fügt dem Zombie in derselben Reihe Schaden zu, in der er geworfen wurde. ^oldclr^
 
 [PAMEGRANATE_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在机枪石榴右侧3×2的区域时，机枪石榴会连续吐出3波石榴籽攻击僵尸，僵尸距离机枪石榴越近受到的伤害越高。
+Wenn Zombies im 3×2-Bereich rechts vom Maschinengewehr-Granatapfel erscheinen, spuckt dieser drei Wellen Granatapfelkerne aus, um die Zombies anzugreifen. Je näher die Zombies am Maschinengewehr-Granatapfel sind, desto höher ist ihr Schaden.
 
 [PAMEGRANATE_NEW_SKILL_LEVEL2_DES]
-机枪石榴的攻击范围扩大至3×3。
+Die Angriffsreichweite des Maschinengewehr-Granatapfels wurde auf 3×3 erweitert.
 
 [PAMEGRANATE_NEW_SKILL_LEVEL3_DES]
-机枪石榴的攻击范围扩大至3×4。
+Die Angriffsreichweite des Maschinengewehr-Granatapfels wurde auf 3×4 erweitert.
 
 [PAMEGRANATE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohne direkt mit einem großen Angriff einzusetzen!
 
 [PAMEGRANATE_PLANTFOOD_DESCRIPTION]
-向前方扇形区域(约 3×4)发射子弹。
+Feuert Kugeln auf den fächerförmigen Bereich vor euch (ca. 3×4).
 
 [PAMEGRANATE_AVATAR_PLANTFOOD_DESCRIPTION]
-向前方扇形区域(约 3×4)发射命中后^ff0000^可以造成约2×1溅射的子弹，溅射伤害为命中伤害的1/2。^oldclr^
+Schießt auf den fächerförmigen Bereich (ca. 3×4) vor euch und trifft ihn. Es können ca. 2×1 Flächengeschosse verursacht werden. Der Flächenschaden beträgt die Hälfte des Trefferschadens. ^oldclr^
 
 [LILYPAD_NEW_SKILL_LEVEL1_DES]
-漂浮在水面承载非水生植物，让他们可以种在巨浪沙滩的海面上。
+Schwimmt auf der Wasseroberfläche und transportiert Pflanzen, die nicht im Wasser wachsen. Diese können dann am Big Wave Beach angepflanzt werden.
 
 [LILYPAD_PLANTFOOD_DESCRIPTION]
-在自己的上下左右各生成一个莲叶。
+Generiert ein Seerosenblatt über, unter, links und rechts von sich selbst.
 
 [LILYPAD_AVATAR_PLANTFOOD_DESCRIPTION]
-以自身为^ff0000^中心的 3×3 范围内各生成一个莲叶。^oldclr^
+Generiert ein Seerosenblatt im 3×3-Bereich mit sich selbst als Mittelpunkt^ff0000^. ^oldclr^
 
 [BOWLINGBULB_NEW_SKILL_LEVEL1_DES]
 当有僵尸出现在保龄泡泡右侧时，保龄泡泡会将三个保龄球依次发射出去。保龄球击中僵尸后会以 45°的偏角发生反弹，此后每次偏转 90°。保龄泡泡本身每隔约 4 秒会恢复一个保龄球。保龄泡泡会优先发射和恢复攻击力最小的保龄球
