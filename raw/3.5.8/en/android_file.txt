@@ -17106,17 +17106,17 @@ Schlingtang ist eine Wasserpflanze, die den ersten Zombie, der sich ihr nähert,
 Wasserpflanze, die Zombies ins Wasser ziehen kann.
 
 [LEMON]
-Starke Zitronensäure
+Zitrone
 
 [LEMON_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze
-{FLAVOR}Zitrone spielt zwar gerne im Wasser, ist aber eigentlich ein Landratte. Er wirkt zwar immer selbstbewusst, wenn er von seiner Kindheitsgeschichte erzählt, in der er im Wasser Fische gefangen hat, doch in Kombination mit seinem aktuellen Aussehen und dem niedlichen Schwimmring unter ihm wirkt das nicht überzeugend.
+{FLAVOR}Die Zitrone spielt zwar gerne im Wasser, ist aber eigentlich ein Landratte. Er wirkt zwar immer selbstbewusst, wenn er von seiner Kindheitsgeschichte erzählt, in der er im Wasser Fische gefangen hat, doch in Kombination mit seinem aktuellen Aussehen und dem niedlichen Schwimmring unter ihm wirkt das nicht überzeugend.
 
 [LEMON_DESCRIPTION_HEADER]
-Starke Zitronensäure kann Eisenpanzerungen zusätzlich beschädigen.
+Die Zitrone kann Eisenpanzerungen zusätzlich beschädigen.
 
 [LEMON_TOOLTIP]
-Zitrone kann Eisenpanzerungen korrodieren.
+Die Zitrone kann Eisen-Rüstungen korrodieren.
 
 [LOTUSSHOWER]
 Lian Xiaopeng
