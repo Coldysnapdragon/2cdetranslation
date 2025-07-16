@@ -35579,22 +35579,22 @@ Herzlichen Glückwunsch zu den folgenden Belohnungen:
 可以迷惑恐龙攻击僵尸
 
 [ZOMBIE_NEWSPAPER_VETERAN]
-周日版僵尸
-
-[ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION_HEADER]
-报纸保护僵尸，当报纸被毁灭时，他们会被激怒。
+Sonntagsausgaben-Zombie
 
 [ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION]
-周日版的僵尸真的很喜欢漫画，每次都要去漫画店购买大量新出漫画，他最爱漫画是僵尸忍者，航僵王，僵魂。
+{FLAVOR}Der Sonntagsausgaben-Zombie LIEBT die Comic-Seite. Umso wütender wird er, wenn sie zerfetzt wird, bevor er sie zuende lesen konnte.
+
+[ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION_HEADER]
+Die Zeitung schützt den Zombie. Wenn sie zerstört wird, wird er wütend.
 
 [ZOMBIE_MODERN_SOLAR_TRUCK]
-太阳能车僵尸
+Solarauto-Zombie
 
 [ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION_HEADER]
-能量满时候对植物进行撞击，没能量时候会吸收植物的能量。
+Wenn die Energie voll ist, trifft es die Pflanzen und stößt zurück. Wenn sie leer ist, absorbiert sie die Energie der Pflanzen mit einem Strahl.
 
 [ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION]
-最讨厌黑暗的僵尸，平时喜欢开着车去晒晒太阳，在晒太阳时候就在思考什么时候可以住在太阳上面。
+Der Zombie, der die Dunkelheit am meisten hasst, fährt am liebsten Auto, um die Sonne zu genießen. Und während er in der Sonne liegt, denkt er darüber nach, wann er von der Sonne leben kann.
 
 [ZOMBIE_BEGHOULED_NEWSPAPER]
 报纸僵尸
@@ -35606,76 +35606,74 @@ Herzlichen Glückwunsch zu den folgenden Belohnungen:
 报纸能保护僵尸，而报纸被击毁后僵尸会暴怒。
 
 [PLANTBUNDLE_TITLE]
-超值套餐
+Sparpaket
 
 [PLANTBUNDLE_DISCOUNT]
-折
+Rabatt
 
 [PLANTBUNDLE_ORIGINAL_PRICE]
-原价
+Originalpreis
 
 [GEM_BUY_GEM]
-钻石
+Diamant
 
 [PLANTBUNDLE_SALE_PRICE]
-现价
+Aktueller Preis
 
 [PLANTBUNDLE_CONFIRM_BUY]
-立即购买
+Jetzt kaufen
 
 [PLANTBUNDLE_LIMITED_BUY]
-限购 ^FF0000 {NUMBER} ^oldclr 次
+Limitiert auf ^FF0000 {NUMBER} ^oldclr Mal
 
 [PLANTBUNDLE_EXPIRE_TIME]
-活动倒计时：
+Event-Countdown:
 
 [PLANTBUNDLE_DESCRIPTION]
-每天都有不同橙色植物套餐等你抢购！
+Täglich warten verschiedene orange Pflanzenpakete auf dich!
 
 [PLANTBUNDLE_ACTIVITY_DATA_LOST]
-活动配置丢失
+Aktivitätskonfiguration verloren
 
 [PLANTBUNDLE_ACTIVITY_CLOSED]
-活动未开启
+Aktivität nicht geöffnet
 
 [PLANTBUNDLE_ACTIVITY_EMPTY_CONFIG]
-活动配置为空
+Aktivitätskonfiguration ist leer
 
 [PLANTBUNDLE_ACTIVITY_DATA_ERROR]
-活动配置出错
+Fehler bei der Aktivitätskonfiguration
 
 [PLANTBUNDLE_PURCHASE_SUCCESS_TITLE]
-购买成功
-
-[PLANTBUNDLE_PURCHASE_SUCCESS_DES]
-购买成功，物品已发放
+Kauf erfolgreich ... NTBUNDLE_PURCHASE_SUCCESS_DES]
+Kauf erfolgreich, Artikel wurde ausgegeben
 
 [PLANTBUNDLE_PLANT_PIECE_DES]
-植物碎片
+Pflanzenfragmente
 
 [PLANTBUNDLE_AVATAR_PIECE_DES]
-植物装扮碎片
+Pflanzenkostümfragmente
 
 [DAVECLUB_ACTIVITY_10651]
-消耗钻石抽奖
+Diamantenverbrauch für Lotterie
 
 [DAVECLUB_ACTIVITY_DES_10651]
-每天任意消费一定数量的钻石可以抽取稀有植物碎片和稀有挂件！
+Du kannst seltene Pflanzenfragmente ziehen und seltene Anhänger, indem du täglich eine bestimmte Anzahl Diamanten verbrauchst!
 
 [DAVECLUB_ACTIVITY_10653]
-超值套餐
+Vorteilspaket
 
 [DAVECLUB_ACTIVITY_DES_10653]
-可以获得稀有5阶橙色植物碎片和装扮碎片哦！！不要错过哦！！限时抢购！！
+Du kannst seltene orange Pflanzenfragmente der 5. Stufe und Kostümfragmente erhalten! Nicht verpassen! Nur für kurze Zeit!
 
 [WECHAT_ALREADY_SHARED]
-分享
+Teilen
 
 [WECHAT_ALREADY_GOT_REWARD]
-已领取
+Erhalten
 
 [GEM_OFFER_GOTO]
-前往
+Weiter
 
 [RECALL_OFFER_CLAIM]
 领取
@@ -36027,45 +36025,45 @@ Herzlichen Glückwunsch zu den folgenden Belohnungen:
 由于您购买的 PVP  CD道具 具有时效性，无法补发，现给补发{QUANTITY}颗钻石，请务必收下。
 
 [MISSILETOE]
-槲寄冰仙子
-
-[MISSILETOE_SKILL_LEVEL1]
-冰源减蓄
-
-[MISSILETOE_SKILL_LEVEL1_DES]
-减少植物的蓄力时间1秒
-
-[MISSILETOE_SKILL_LEVEL2]
-快输蓄源
-
-[MISSILETOE_SKILL_LEVEL2_DES]
-使冰源减蓄的技能效果提升100%。
-
-[MISSILETOE_SKILL_LEVEL5]
-寒冰仙弹
-
-[MISSILETOE_SKILL_LEVEL5_DES]
-释放寒冰导弹造成高额伤害并且一段时间后造成范围伤害
-
-[STORE_PRODUCT_AVATAR_MISSILETOE]
-大招有概率掉落寒冰陨石并且留下冰坑对僵尸造成减速
-
-[STORE_PRODUCT_AVATAR_MISSILETOE_TITLE]
-槲寄冰仙子装扮
+Donnerbesen
 
 [MISSILETOE_DESCRIPTION]
-{KEYWORD}用法：{STAT} 点住槲寄冰仙子，拖动到轰炸目标上
-{KEYWORD}范围：{STAT}草坪全范围
-{KEYWORD}特点：{STAT}影响范围造成小面积爆炸
-{KEYWORD}植物特征：{STAT}蓝色植物
-{FLAVOR}槲寄冰每年的圣诞节都会赐福给那些善良的人们，但是由于太过马虎，偶尔会失手发射1颗冰弹造成一点小事故~。
+{KEYWORD}Nutzung: {STAT}Tippen, um zu bewaffnen, auf Zielfeld tippen, um zu feuern
+{KEYWORD}Reichweite: {STAT}Beliebiges Rasen-Feld
+{KEYWORD}Besonderheit: {STAT}Explodiert beim Aufprall und verursacht Umgebungsschaden in einem 3x3 Bereich
+{KEYWORD}Pflanzeneigenschaften: {STAT}Blaue Pflanzen.
+
+{FLAVOR}Mistelzweig, was für ein blöder Name. Hatte das nicht was mit Liebe und Küssen zu tun? Bäh! Schnell mal ins Lexikon geschaut, ob es nicht eine treffendere Bezeichnung für ihr ruppiges Temperament gibt ... Donnerbesen! Ja, DONNERBESEN! Perfekt!! Und botanisch immer noch korrekt!
 
 [MISSILETOE_DESCRIPTION_HEADER]
-槲寄冰仙子可以发射寒冰炮弹到草坪任意格子上。
+Donnerbesens eiskalte Schüsse beschädigen, kühlen und verlangsamen Zombies.
 
 [MISSILETOE_TOOLTIP]
-点击槲寄冰仙子，然后点一个格子，就会发射寒冰炮弹
+Ballert eiskalt los
 
+[MISSILETOE_SKILL_LEVEL1]
+Eisquellenreduzierung
+
+[MISSILETOE_SKILL_LEVEL1_DES]
+Reduziert die Ladezeit von Pflanzen um 1 Sekunde.
+
+[MISSILETOE_SKILL_LEVEL2]
+Quelle schnell übertragen.
+
+[MISSILETOE_SKILL_LEVEL2_DES]
+Erhöht den Skilleffekt der Eisquellenreduzierung um 100 %.
+
+[MISSILETOE_SKILL_LEVEL5]
+Eisfeen-Kugel
+
+[MISSILETOE_SKILL_LEVEL5_DES]
+Feuert Eisgeschosse ab, um hohen Schaden zu verursachen und nach einer gewissen Zeit Flächenschaden zu verursachen.
+
+[STORE_PRODUCT_AVATAR_MISSILETOE]
+Die ultimative Fähigkeit bietet die Chance, Eismeteoriten abzuwerfen und Eisgruben zu hinterlassen, um Zombies zu verlangsamen.
+
+[STORE_PRODUCT_AVATAR_MISSILETOE_TITLE]
+Mistelzweig-Eisfeen-Kostüm
 
 [STORE_PRODUCT_CHARGE_TITLE]
 充值大返利 装扮抽奖随意领
@@ -57817,7 +57815,7 @@ Mit einem „Wusch“-Geräusch erschien plötzlich eine dreifarbige quadratisch
 Sein Eiseneimer ist anders als die anderen.
 
 [ZOMBIE_PARKOUR_GARGANTUAR]
-Sicherheits Gargantuazombie
+Sicherheits gargantua
 
 [ZOMBIE_PARKOUR_GARGANTUAR_DESCRIPTION]
 Heute ist der erste Tag seiner Beförderung. Er möchte einfach nur früher Feierabend machen und sich zur Feier des Tages neue Lederschuhe kaufen.
@@ -57880,7 +57878,7 @@ Die heutige Flagge ist besonders leicht und zeigt zur Ziellinie.
 Die Flagge in seiner Hand ist die Wetterfahne des Rennens.
 
 [ZOMBIE_NEEDFORSPEED_GARGANTUAR]
-Straßen-Gargantua-Zombie
+Straßen-gargantua
 
 [ZOMBIE_NEEDFORSPEED_GARGANTUAR_DESCRIPTION]
 Er trägt Sportkleidung. Heute ist er besonders aktiv und schwingt seine Waffe schneller.
@@ -74811,10 +74809,10 @@ Warum schwebte das Eisenfass nicht durch den Auftrieb davon? Warum verrottete da
 Der Eiseneimer auf seinem Kopf bietet hervorragenden Schutz vor Schaden.
 
 [ZOMBIE_ATLANTIS_gargantuar]
-Ruinen-Gargantua-zombie
+Ruinen-gargantua
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION]
-Der Legende nach riss ein gewaltiger Gargantua eine Steinsäule um und verursachte eine Flut, die das wunderschöne Königreich untergehen ließ. Es gibt auch eine Legende, dass es für bestimmte Gruppen erschwingliche Flugerlebnisse unter dem Meer gibt. Ruinen-Gargantua-Zombie wird dir sagen, welche Legende wahr ist.
+Der Legende nach riss ein gewaltiger Gargantua eine Steinsäule um und verursachte eine Flut, die das wunderschöne Königreich untergehen ließ. Es gibt auch eine Legende, dass es für bestimmte Gruppen erschwingliche Flugerlebnisse unter dem Meer gibt. Ruinen-gargantua wird dir sagen, welche Legende wahr ist.
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION_HEADER]
 Zerschmettert Pflanzen und wirft einen Wicht.
@@ -77095,7 +77093,7 @@ Linienumbruch: Bewegt sich an das Ende anderer Linien und bewegt sich in regelm�
 ^573701^ Nach speziellem Training kann er immun gegen Kontrolle, Deformation und sofortige Tötung sein.^oldclr^
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-Hammer-Gargantua-Zombie
+Hammer-gargantua
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
 Zerschmettert Pflanzen mit einem schweren Hammer.
