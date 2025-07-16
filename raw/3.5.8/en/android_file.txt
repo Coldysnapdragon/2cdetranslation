@@ -21792,26 +21792,26 @@ Verteidigt und fügt dabei angreifenden Zombies Schaden zu
 攻击有一定概率触发爆炸，对当格僵尸造成群体伤害
 
 [GATLINGPEA]
-机枪豌豆
+Maschinengewehr-Erbse
 
 [GATLINGPEA_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}某次研究中心的爆炸事故发生时，一棵芦苇刚好被闪电击中，于是他变成了闪电芦苇侠；而与此同时，正在操作机枪的豌豆射手也被击中，这就是我们全新的超级英雄——机枪豌豆的来历。
+{KEYWORD}Pflanzenmerkmale: {STAT}Grünpflanzen, Erbsengewächse
+{FLAVOR}Bei einer Explosion in einem Forschungszentrum wurde ein Schilfrohr vom Blitz getroffen, wodurch es zum Blitz-Schilfmann wurde. Gleichzeitig wurde auch der Erbsenschütze, der das Maschinengewehr bediente, getroffen. So entstand unser neuer Superheld – die Maschinengewehr-Erbse.
 
 [GATLINGPEA_DESCRIPTION_HEADER]
-机枪豌豆能够一次射出4发豌豆攻击前方敌人。
+Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner vor sich anzugreifen.
 
 [GATLINGPEA_PLANTFOOD]
-拿出很多把机枪射击三行敌人。
+Schalte viele Maschinengewehre aus und schieße drei Reihen Gegner ab.
 
 [GATLINGPEA_TOOLTIP]
-机枪豌豆能够一次射出4发豌豆攻击前方敌人。
+Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner vor sich anzugreifen.
 
 [GATLINGPEA_PRODUCT_SHORT_DESC]
-机枪豌豆能够一次射出4发豌豆攻击前方敌人。
+Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner vor ihr anzugreifen.
 
 [GATLINGPEA_AVATAR_NAME]
-机枪豌豆装扮
+Gatling-Erbsen-Kostüm
 
 [STORE_PRODUCT_AVATAR_GATLINGPEA]
 大招拿出很多把机枪射击三行敌人，使用包括冰弹火弹鬼火弹在内的一切弹药。
@@ -22011,145 +22011,156 @@ Verteidigt und fügt dabei angreifenden Zombies Schaden zu
 {FLAVOR} 伴随着天空之城的建造，僵尸博士不惜花重金引入隐形飞行器。在强电实验室历经三天三夜的实验，被强电烧焦了十次头发后，仲裁者 - X型隐形飞行器终于诞生了！没错，一件令无数僵尸们神魂颠倒的史上最神秘飞行器。据说，它能带给僵尸们他们缺失已久的安全感。
 
 [ZOMBIE_LOSTCITY]
-普通失落僵尸
+Abenteurer-Zombie
 
 [ZOMBIE_LOSTCITY_ARMOR1]
-路障失落僵尸
+Pylonen-Abenteurer-Zombie
 
 [ZOMBIE_LOSTCITY_ARMOR1_DESCRIPTION]
-没人曾料到他是利文斯通博士，哪怕就一次，他希望有人会。
+Niemand hält ihn für Dr. Unlivingstone, obwohl er das gerne so hätte.
 
 [ZOMBIE_LOSTCITY_ARMOR1_DESCRIPTION_HEADER]
-他头上的远征造型路障筒使其比普通冒险僵尸强壮2倍。
+Sein Expeditionspylon macht ihn doppelt so zäh wie normale Abenteurer.
 
 [ZOMBIE_LOSTCITY_ARMOR2]
-铁桶失落僵尸
+Eimer-Abenteurer-Zombie
 
 [ZOMBIE_LOSTCITY_ARMOR2_DESCRIPTION]
-铁桶失落僵尸最伟大的发现就是，某个早晨没有任何预见或原因他的头上出现了一个铁桶。 
+Die größte Entdeckung, die der Eimer-Abenteurer je gemacht hat, war die, dass er eines Morgens ohne jegliche Vorwarnung oder Grund einen Eimer auf seinem Kopf hatte.
 
 [ZOMBIE_LOSTCITY_ARMOR2_DESCRIPTION_HEADER]
-他的铁桶帽子可以提供巨大的保护。
+Sein robuster Eimer bietet guten Schutz vor Schaden.
 
 [ZOMBIE_LOSTCITY_BUG]
-失落昆虫僵尸
+Käfer-Zombie
 
 [ZOMBIE_LOSTCITY_BUG_DESCRIPTION]
-失落昆虫僵尸和昆虫真是完美组合，一方面因为昆虫为昆虫僵尸提供了非常棒的移动力，但主要原因是他们都对骑马极其不感兴趣。
+Der Käfer-Zombie und sein Käfer sind ein großartiges Team. Nicht nur, weil der Käfer dem Käfer-Zombie große Mobilität verleiht, sondern vor allem, weil sich beide keinen Deut für Pferde interessieren.
 
 [ZOMBIE_LOSTCITY_BUG_DESCRIPTION_HEADER]
-失落昆虫僵尸从空中跨过地面的防御和障碍。
+Der Käfer trägt den Zombie über am Boden befindliche Verteidigungsanlagen und hebt ihn über Barrieren.
 
 [ZOMBIE_LOSTCITY_CRYSTALSKULL]
-失落考古学家
+Türkis-Schädel-Zombie
 
 [ZOMBIE_LOSTCITY_CRYSTALSKULL_DESCRIPTION]
-和著名的水晶骷髅不同，失落考古学家手上的绿松石骷髅完全没有神秘感，平凡如尘土。
+Im Gegensatz zu den deutlich bekannteren Kristallschädeln sind Türkis-Schädel vollkommen unmysteriös und so gewöhnlich wie nur irgendwas.
 
 [ZOMBIE_LOSTCITY_CRYSTALSKULL_DESCRIPTION_HEADER]
-使用骷髅来盗取阳光，然后使用破坏性光束来释放能量。
+Nutzt seinen Schädel, um Sonnen zu stehlen, und setzt die Energie dann in Form eines zerstörerischen Strahls frei.
 
 [ZOMBIE_LOSTCITY_DESCRIPTION]
-普通失落僵尸只是想体验痛痛快快开心的精彩表演，但是表演却在失落城市里完结了。“嗯…是的，保持安静。”当时这就是他能说的全部。
+Der Abenteurer-Zombie war auf der Suche nach Unterhaltung und ist irgendwie in der Verlorenen Stadt gelandet. „Hmm. Ja. In der Tat", ist alles, was er dazu zu sagen hatte.
 
 [ZOMBIE_LOSTCITY_DESCRIPTION_HEADER]
-普通发型师胡子僵尸
+Ein regulärer Zombie mit einem sorgfältig frisierten Schnauzbart.
 
 [ZOMBIE_LOSTCITY_EXCAVATOR]
-失落发掘者僵尸
+Gräber-Zombie
 
 [ZOMBIE_LOSTCITY_EXCAVATOR_DESCRIPTION]
-{KEYWORD}伤害：{STAT}用铲子抵挡来自正面的直线物理攻击,但对抛投攻击完全无效
+{KEYWORD}Schaden: {STAT}blockt Geschosse ab, ist aber verwundbar gegenüber Wurfgeschossen
 
-{FLAVOR}失落发掘者僵尸曾经听过一首关于锤子的歌。他很喜欢这个创意，但是对于他来说又有点过于主流了-所以他带了个铲子。现在他很自信自己明显是最酷的僵尸，其他僵尸就是太妒忌而不愿承认而已。
+{FLAVOR}Der Gräber-Zombie hat einmal ein Lied über einen Hammer gehört. Der Gedanke hat ihm gefallen, aber er hat sich entschieden, dass das zu "Mainstream" für ihn wäre. Deswegen hat er sich eine Schaufel besorgt. Jetzt hält er sich für den coolsten Zombie - die anderen sind nur zu neidisch, um es zuzugeben.
 
 [ZOMBIE_LOSTCITY_EXCAVATOR_DESCRIPTION_HEADER]
-将植物连根拔起，扔在他身后。
+Gräbt Pflanzen aus und wirft sie hinter sich.
 
 [ZOMBIE_LOSTCITY_FLAG]
-旗帜失落僵尸
+Flaggen-Abenteurer-Zombie
 
 [ZOMBIE_LOSTCITY_FLAG_DESCRIPTION]
-旗帜失落僵尸带队的时候总是带队喊号子. 至少，他已经习惯这样了。
+Der Flaggen-Abenteurer-Zombie schreit „Halali!", wenn er zum Angriff bläst. Zumindest schreit er das in seinem Kopf.
 
 [ZOMBIE_LOSTCITY_FLAG_DESCRIPTION_HEADER]
-标志着一大波强悍僵尸的到来。
+Zeichen für die Ankunft einer unerschütterlichen "Welle" von Zombies.
 
 [ZOMBIE_LOSTCITY_GARGANTUAR]
-失落巨人僵尸
+Träger-Gargantua
 
 [ZOMBIE_LOSTCITY_GARGANTUAR_DESCRIPTION]
-{KEYWORD}特点：{STAT}受到伤害时抛出失落小鬼僵尸
-{FLAVOR}失落巨人僵尸的梦想是在探寻之旅中变得强大和有影响力。可能这是为什么小鬼僵尸总是能牵着他到处跑。有梦想总归是好的。
+{KEYWORD}Besonderheit: {STAT}wirft einen Verlorene-Stadt-Wicht, wenn er Schaden nimmt
+
+
+
+{FLAVOR}Der Träger-Gargantua träumt von einer Entdeckung, die ihn mächtig und einflussreich macht. Vielleicht wird er dann von den Wichten herumgetragen. Man soll nie aufhören zu träumen.
 
 [ZOMBIE_LOSTCITY_GARGANTUAR_DESCRIPTION_HEADER]
-探寻愤怒能源的可怕怪兽。
+Ein schrecklicher Koloss in entdeckerischer Rage.
 
 [ZOMBIE_LOSTCITY_IMP]
-失落小鬼僵尸
+Verlorene-Stadt-Wicht-Zombie
 
 [ZOMBIE_LOSTCITY_IMP_DESCRIPTION]
-{FLAVOR}裙带关系使得失落小鬼僵尸得以存在。他是昆虫僵尸隔了三辈的二表弟，但是他成功地利用这种关系而进入甜美演出团，从而乘着一个小箱子到处游走。
+{FLAVOR}Vetternwirtschaft hat den Verlorene-Stadt-Wicht dahin gebracht, wo er jetzt ist. Er ist der zweite Cousin dritten Grades vom Käfer-Zombie, woraus er Kapital geschlagen hat, sodass er jetzt in einer kleinen Kiste herumgetragen wird.
 
 [ZOMBIE_LOSTCITY_IMP_DESCRIPTION_HEADER]
-被失落巨人僵尸扔出跨过植物防线，然后步行前进。
+Wird über die meisten Verteidigungsanlagen geworfen und geht dann zu Fuß weiter.
 
 [ZOMBIE_LOSTCITY_IMPPORTER]
-失落小鬼搬运工僵尸
+Wicht-Träger
 
 [ZOMBIE_LOSTCITY_IMPPORTER_DESCRIPTION]
-失落小鬼搬运工僵尸其貌不扬但是实力杠杠的。而且他更有魅力，聪明，受过良好的教育。
+Der Wicht-Träger ist stärker, als er aussieht. Und charmanter, intelligenter und gebildeter!
 
 [ZOMBIE_LOSTCITY_IMPPORTER_DESCRIPTION_HEADER]
-在黄金地砖上放下背包，背包会变成僵尸传送门。
+Wirft ein Paket auf ein Gold-Feld, das sich in ein Zelt verwandelt und Zombies freigibt.
 
 [ZOMBIE_LOSTCITY_JANE]
-失落洋伞僵尸
+Sonnenschirm-Zombie
 
 [ZOMBIE_LOSTCITY_JANE_DESCRIPTION]
-天气根本不是原因，当她所打造的是冒险生活的一种时，失落洋伞僵尸是为了奢华的生活品质而活着的。她资助了失落城市探险队并且出发去察看探险的结果，从不会忘记带着她的爱物-遮阳伞。“带伞是以防遇到下雨，”她曾这样解释-但是“下雨”听起来只会像是在说“美味的脑子”。
+Der Sonnenschirm-Zombie ist unverhältnismäßig reich und lebt ein Leben voller Luxus, wobei sie doch eigentlich ein Leben voller Abenteuer wollte. Sie hat die Expedition in die Verlorene Stadt finanziert und wollte ihre Wunder mit eigenen Augen sehen, wobei ihr treuer Sonnenschirm nicht fehlen darf. „Für den Fall, dass es regnet", erklärt sie, auch wenn es sich nur nach „Hirn" anhörte. 
 
 [ZOMBIE_LOSTCITY_JANE_DESCRIPTION_HEADER]
-洋伞可以抵挡抛投攻击。
+Der Sonnenschirm schützt vor Wurfgeschossen.
 
 [ZOMBIE_LOSTCITY_LOSTPILOT]
-失落飞行员僵尸
+Verlorener Zombie-Pilot
 
 [ZOMBIE_LOSTCITY_LOSTPILOT_DESCRIPTION]
-他造了个飞机师的假执照，确信没人会发觉。但是其实早就被人识破了。
+Er hat seinen Pilotenschein gefälscht, in der Hoffnung, dass keiner was merkt. Tja, da hat er sich geirrt.
 
 [ZOMBIE_LOSTCITY_LOSTPILOT_DESCRIPTION_HEADER]
-被吊挂并扔到防线后面。
+Landet hinter der Verteidigung
 
 [ZOMBIE_LOSTCITY_RELICHUNTER]
-遗迹猎人僵尸
+Reliktjäger-Zombie
 
 [ZOMBIE_LOSTCITY_RELICHUNTER_DESCRIPTION]
-遗迹猎人在他的时代，的确曾探寻到相当厉害的遗迹。玩偶，古董，古玩…他真的是无所不“猎”。
+Der Reliktjäger hat in seinen besten Zeiten beeindruckende Relikte erhascht. Götzenfiguren, Antiquitäten, Kuriositäten ... er war da nicht wählerisch.
 
 [ZOMBIE_LOSTCITY_RELICHUNTER_DESCRIPTION_HEADER]
-荡秋千到防线后面。
+Schwingt sich hinter die Verteidigungslinien.
 
 [ZOMBIE_LOSTCITY_GUIDE]
-失落向导僵尸
+Verlorener Zombie-Führer
 
 [ZOMBIE_LOSTCITY_GUIDE_DESCRIPTION]
-失落向导僵尸能获得这份工作不是因为他的智慧，而是他手上的那张地图，所以他无比感谢他那个因为喜欢到处淘古董而破产的老爹。
+Der Verlorene Zombie-Führer bekam diesen Job nicht wegen seiner Weisheit, sondern wegen der Karte in seiner Hand. Daher ist er seinem Vater, der wegen seiner Liebe zur Antiquitätenjagd bankrott ging, äußerst dankbar.
 
 [ZOMBIE_LOSTCITY_GUIDE_DESCRIPTION_HEADER]
-打开一个暗门，让僵尸能快速通过一段距离。
+Öffnet eine Geheimtür, durch die Zombies schnell eine Strecke zurücklegen können.
 
 [ZOMBIE_LOSTCITY_DOCTOR]
-失落医生僵尸
+Verlorener Zombie-Doktor
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION]
-作为一名经常不小心甩出手上针筒的不称职医生，失落医生僵尸表面上很受大家尊敬，但是背地里一直被称作是“那个花钱买执照的家伙”。
+Oberflächlich betrachtet wird der Verlorene Zombie-Doktor als inkompetenter Arzt respektiert, der oft versehentlich Spritzen in seiner Hand wegwirft. Hinter den Kulissen wird er jedoch immer als „der Typ, der die Lizenz bezahlt hat“ bezeichnet.
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
-扔出针筒，让僵尸加速前进
+Wirf die Spritze, um die Zombies zu beschleunigen.
 
 [ZOMBIE_ZOMBOSSMECH_LOSTCITY]
-飞艇僵尸博士
+Zombot-Fluggondel
+
+[ZOMBIE_ZOMBOSSMECH_LOSTCITY_DESCRIPTION]
+{KEYWORD}Besonderheit: {STAT}Wirft Zombies und Sandsäcke ab
+
+{FLAVOR}Nach zahlreichen Fehlschlägen mit den unterschiedlichsten Zerstörungsmaschinen hat Dr. Zomboss sich nun für eine umweltfreundlichere, federleichte Option entschieden, um Unfrieden und Zerstörung zu säen.
+
+[ZOMBIE_ZOMBOSSMECH_LOSTCITY_DESCRIPTION_HEADER]
+Die schwebende Festung aus den Lüften.
 
 [ZOMBIE_GENERAL_CAESAR_PHASE1]
 凯撒僵尸
