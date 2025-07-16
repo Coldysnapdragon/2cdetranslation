@@ -28966,118 +28966,118 @@ Demo
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_OLD_4]
 {TIRED:WINNIEICON}……
 [NARRATIVE_EIGHTIES_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}等等！我记得在小时候追松鼠时闻到过这种气味！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Warte! Ich weiß noch, wie ich das als Kind beim Eichhörnchenjagen gerochen habe!
 
 [NARRATIVE_EIGHTIES_1_INTRO_2]
-{SAY:WINNIE}没错，戴夫同学。我们好像到了摇滚年代。
+{SAY:WINNIE}Stimmt, Dave. Wir scheinen im Rock'n'Roll-Zeitalter angekommen zu sein.
 
 [NARRATIVE_EIGHTIES_1_INTRO_3]
-{SAY:WINNIE}我怀疑音乐节奏也许会影响僵尸的速度。
+{SAY:WINNIE}Ich frage mich, ob das Tempo der Musik die Geschwindigkeit der Zombies beeinflusst.
 
 [NARRATIVE_EIGHTIES_1_INTRO_4]
-{EXCITED:CRAZYDAVE}我正在感受韵律，我正在感受韵律！
+{EXCITED:CRAZYDAVE}Ich spüre den Rhythmus, ich spüre den Rhythmus!
 
 [NARRATIVE_EIGHTIES_15_OUTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}有人在教室里给我传过一张小纸条，潘妮！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{AUFGEWICKELT:CRAZYDAVE}Jemand hat mir im Unterricht einen Zettel zugeworfen, Penny!
 
 [NARRATIVE_EIGHTIES_15_OUTRO_2]
-{SAY:CRAZYDAVE}上面写着约我在午休时到自行车棚后面见面，说要给我一个大大的惊喜！
+{SAY:CRAZYDAVE}Da stand, sie wollten mich in der Mittagspause hinter dem Fahrradschuppen treffen. Sie sagten, sie hätten eine große Überraschung für mich!
 
 [NARRATIVE_EIGHTIES_15_OUTRO_3]
-{SAY:WINNIE}我怀疑这张纸条很可疑，戴夫同学。
+{SAY:WINNIE}Ich finde diesen Zettel verdächtig, Dave.
 
 [NARRATIVE_EIGHTIES_16_INTRO_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}你有没有感觉到怪怪的？你砸到脑袋了？还是‘挖’了它？
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Fühlst du etwas Seltsames? Hast du dir den Kopf gestoßen? Oder hat es dir gefallen?
 
 [NARRATIVE_EIGHTIES_16_INTRO_2]
-{SAY:ZOMBOSSICON}派对已经结束！在我磅礴的重金属巨人僵尸的音乐力量面前颤抖吧！
+{SAY:ZOMBOSSICON}Die Party ist vorbei! Zittert vor der musikalischen Kraft meines mächtigen Heavy-Metal-Riesenzombies!
 
 [NARRATIVE_EIGHTIES_16_INTRO_3]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}我好害怕啊，潘妮！距离午夜还有两分钟！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Ich habe solche Angst, Penny! Zwei Minuten vor Mitternacht!
 
 [NARRATIVE_EIGHTIES_16_INTRO_4]
-{SAY:WINNIE}勇敢点，戴夫同学。我们用摇滚来摆平它……
+{SAY:WINNIE}Sei tapfer, Dave. Wir rocken ab...
 
 [NARRATIVE_EIGHTIES_17_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}嗯！潘妮，你有没有闻到什么怪味？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Hmm! Penny, riechst du was Komisches?
 
 [NARRATIVE_EIGHTIES_17_INTRO_2]
-{SAY:WINNIE}没有啊，戴夫同学。只有霹雳舞僵尸。
+{SAY:WINNIE}Nein, Dave. Nur Breakdance-Zombies.
 
 [NARRATIVE_EIGHTIES_17_INTRO_3]
-{SAY:CRAZYDAVE}也许它们是大蒜味的！
+{SAY:CRAZYDAVE}Vielleicht riechen sie nach Knoblauch!
 
 [NARRATIVE_EIGHTIES_2_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}小心点，戴夫同学。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Sei vorsichtig, Dave.
 
 [NARRATIVE_EIGHTIES_2_INTRO_2]
-{SAY:WINNIE}我相信有些特别的僵尸会在听到喜欢的音乐时会有特殊能力。
+{SAY:WINNIE}Ich glaube, manche Zombies haben besondere Kräfte, wenn sie Musik hören, die ihnen gefällt.
 
 [NARRATIVE_EIGHTIES_2_INTRO_3]
-{EXCITED:CRAZYDAVE}你是说它们在疯狂时会更加疯狂？
+{EXCITED:CRAZYDAVE}Du meinst, sie werden noch verrückter, wenn sie verrückter sind?
 
 [NARRATIVE_EIGHTIES_2_INTRO_4]
-{SAY:WINNIE}对，没错，你说的对极了，戴夫同学。
+{SAY:WINNIE}Ja, du hast vollkommen recht, Dave.
 
 [NARRATIVE_EIGHTIES_22_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}孢子菇有一种特殊的能力，戴夫同学。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Sporenpilze haben eine besondere Fähigkeit, Dave.
 
 [NARRATIVE_EIGHTIES_22_INTRO_2]
-{SAY:WINNIE}当它们消灭一只僵尸后，会在那个僵尸倒下的位置形成新的孢子菇。
+{SAY:WINNIE}Wenn sie einen Zombie töten, bildet sich an der Stelle, an der der Zombie gefallen ist, ein neuer Sporenpilz.
 
 [NARRATIVE_EIGHTIES_22_INTRO_3]
-{EXCITED:CRAZYDAVE}嘿呦喂！孢子菇意味着更多的蘑菇！
+{EXCITED:CRAZYDAVE}Hey! Sporenpilze bedeuten mehr Pilze!
 
 [NARRATIVE_EIGHTIES_26_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}那么，潘妮，你觉得能不能用复活萝卜复活死去的植物？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Also, Penny, meinst du, du könntest mit der Auferstehungskarotte tote Pflanzen wiederbeleben?
 
 [NARRATIVE_EIGHTIES_26_INTRO_2]
-{SAY:WINNIE}这……这完全正确，戴夫同学。
+{SAY:WINNIE}Genau ... genau richtig, Dave-kun.
 
 [NARRATIVE_EIGHTIES_26_INTRO_3]
-{SAY:WINNIE}对不起。当你聚精会神时，会让我感到困惑。
+{SAY:WINNIE}Entschuldige. Es verwirrt mich, wenn du dich konzentrierst.
 
 [NARRATIVE_EIGHTIES_3_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}我对这个产生了一种真正的仙人掌感觉，潘妮！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Bei dem hier bekomme ich richtig Kaktus-Vibes, Penny!
 
 [NARRATIVE_EIGHTIES_3_INTRO_2]
-{SAY:WINNIE}其实，仙人掌随着时间改变了，戴夫同学。
+{SAY:WINNIE}Eigentlich hat sich der Kaktus mit der Zeit verändert, Dave.
 
 [NARRATIVE_EIGHTIES_3_INTRO_3]
-{SAY:WINNIE}现在它在用棘刺造成远程伤害，但也会躲起来并在僵尸靠近时造成地面伤害。
+{SAY:WINNIE}Jetzt verursacht er mit seinen Stacheln Fernkampfschaden, versteckt sich aber auch und verursacht Bodenschaden, wenn Zombies näher kommen.
 
 [NARRATIVE_EIGHTIES_3_INTRO_4]
-{EXCITED:CRAZYDAVE}这真是太仙人掌了……随时在转换攻守姿态！
+{EXCITED:CRAZYDAVE}Das ist echt ein Kaktus ... ständig im Wechsel zwischen Angriff und Verteidigung!
 
 [NARRATIVE_EIGHTIES_32_INTRO_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}嗯……你在上面有危险。你是个蠢货，我就知道！
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Hmm ... du bist da oben in Gefahr. Du bist ein Idiot, ich weiß es!
 
 [NARRATIVE_EIGHTIES_32_INTRO_2]
-{SAY:ZOMBOSSICON}听清楚了：你终会放弃，你终会失望，你总爱到处乱跑，而我会让你老实下来。
+{SAY:ZOMBOSSICON}Hör zu: Du wirst aufgeben, du wirst enttäuscht sein, du wirst immer herumrennen, und ich werde dich dazu bringen, stillzuhalten.
 
 [NARRATIVE_EIGHTIES_32_INTRO_3]
-{SAY:ZOMBOSSICON}我会让你哭，我会跟你说再见，我不是个好人——我警告你！
+{SAY:ZOMBOSSICON}Ich werde dich zum Weinen bringen, ich werde mich verabschieden. Ich bin kein guter Mensch – ich warne dich!
 
 [NARRATIVE_EIGHTIES_32_INTRO_4]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}哎呦！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}Autsch!
 
 [NARRATIVE_EIGHTIES_32_OUTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}呀呀！好险啊……那么多激动人心的节拍和节奏转换！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}Juhu! Das war knapp ... so viele spannende Beats und Rhythmuswechsel!
 
 [NARRATIVE_EIGHTIES_32_OUTRO_2]
-{SAY:WINNIE}我担心我们只对僵尸博士的阴谋按下了暂停键而已。
+{SAY:WINNIE}Ich fürchte, wir haben Dr. Zombies Handlung gerade erst pausiert.
 
 [NARRATIVE_EIGHTIES_32_OUTRO_3]
-{NPC_EXIT:CRAZYDAVE}{NPC_EXIT:WINNIE}{NPC_ENTER:ZOMBOSSICON}是啊，下一段曲子，只会更糟！你想象不到的糟！
+{NPC_EXIT:CRAZYDAVE}{NPC_EXIT:WINNIE}{NPC_ENTER:ZOMBOSSICON}Ja, das nächste Lied wird noch schlimmer! Schlimmer, als du es dir vorstellen kannst!
 
 [NARRATIVE_EIGHTIES_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}潘妮！潘妮！潘妮！一支麦克风！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Penny! Penny! Penny! Ein Mikrofon!
 
 [NARRATIVE_EIGHTIES_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:CRAZYDAVE}卡拉OK时间到！我的橘子梦想终于要成真了！
+{SAY:CRAZYDAVE}Es ist Karaoke-Zeit! Mein orangefarbener Traum wird endlich wahr!
 
 [NARRATIVE_EIGHTIES_OUTRO_DANGER_ROOM_KEY_3]
-{SAY:WINNIE}小心点，戴夫同学。突然捡到这支麦克风，搞不好又要掀起一场腥风血雨！ 
+{SAY:WINNIE}Sei vorsichtig, Dave. Wenn du dieses Mikrofon findest, könnte es ein weiteres Blutbad anrichten!
 
 [NARRATIVE_EPIC_QUEST_BEGHOULED_BLITZ_001_1_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}潘妮！这些植物能交换位置！
