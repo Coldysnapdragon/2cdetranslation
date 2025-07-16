@@ -577,9 +577,9 @@ Tipps:
 
 [ADVICE_ANIM_PLANTFOOD]
 Tipps:
-1. Ziehe die Spezialdünger-Fähigkeitn zu den Pflanzen, um die mächtige Spezialdünger-Fähigkeitn-Attacke auszulösen!
+1. Ziehe die Spezialdünger-Fähigkeitn zu den Pflanzen, um die mächtige Spezialdünger-Fähigkeit auszulösen!
 
-2. Mit der Spezialdünger-Fähigkeitn-Attacke der Erbsenpistole kannst du selbst sehr starke Zombies besiegen.
+2. Mit der Spezialdünger-Fähigkeit der Erbsenpistole kannst du selbst sehr starke Zombies besiegen.
 
 [ADVICE_IMG_PF_ZOMBIE]
 Tipps:
@@ -21090,90 +21090,91 @@ Luftstadt
 大招发射更多的梅花攻击敌人。
 
 [WINTERSWEET]
-梅小美
+Mei Xiaomei
 
 [WINTERSWEET_DESCRIPTION_HEADER]
-发射可以散射的梅花攻击前方僵尸。
+Schießt verstreute Pflaumenblüten ab, um die Zombies vor ihr anzugreifen.
 
 [WINTERSWEET_DESCRIPTION]
-{KEYWORD}特点：{STAT}发出的梅花在命中僵尸后会散射
-{KEYWORD}植物特征：{STAT}褐色植物
-{FLAVOR}从小训练投掷技能的梅小美是各种游乐场内套圈小游戏店主的噩梦，到她对这种被她称作“小孩子的游戏”的小游戏丧失兴趣为止，从一脸苦逼的店家手中赢来的奖品已经足够堆满一个小房间。据说最近她迷上了打靶，附近的几家经营射击小游戏的店家已经准备关门歇业避避风头了。
+{KEYWORD}Merkmale:{STAT}Die Pflaumenblüten zerstreuen sich, nachdem sie die Zombies getroffen haben.
+
+{KEYWORD}Pflanzenmerkmale:{STAT}Braune Pflanzen
+{FLAVOR}Mei Xiaomei, die seit ihrer Kindheit Wurfkünste trainiert, ist der Albtraum der Besitzer von Ringwurfspielen in verschiedenen Vergnügungsparks. Als sie das Interesse an diesem Spiel, das sie „Kinderspiel“ nannte, verlor, füllten die Preise, die sie von den verbittert dreinblickenden Ladenbesitzern gewann, einen kleinen Raum. Man sagt, sie sei kürzlich dem Zielschießen verfallen, und mehrere Schießspielläden in der Nähe bereiten ihre Schließung vor, um nicht im Rampenlicht zu stehen.
 
 [WINTERSWEET_TOOLTIP]
-发射可以散射的梅花攻击前方僵尸。
+Schießt verstreute Pflaumenblüten ab, um die Zombies vor ihm anzugreifen.
 
 [WINTERSWEET_PLANTFOOD]
-朝前方一定角度内发射大量梅花。
+Schießt eine große Anzahl Pflaumenblüten in einem bestimmten Winkel nach vorne.
 
 [SAUCER_PRODUCT_SHORT_DESC]
-飞碟瓜能发出光线捕捉接近的僵尸
+Die UFO-Melone kann Licht aussenden, um sich nähernde Zombies zu fangen.
 
 [SAUCER_AVATAR_NAME]
-飞碟装扮
+UFO-Kostüm
 
 [STORE_PRODUCT_AVATAR_SAUCER_TITLE]
-飞碟装扮
+UFO-Kostüm
 
 [STORE_PRODUCT_AVATAR_SAUCER]
-大招可以使定身的时间延长
+Der ultimative Move kann die Immobilisierungsdauer verlängern.
 
 [SAUCER]
-飞碟瓜
+UFO-Melone
 
 [SAUCER_DESCRIPTION_HEADER]
-飞碟瓜能发出光线捕捉接近的僵尸
+Die UFO-Melone kann Licht aussenden, um sich nähernde Zombies zu fangen.
 
 [SAUCER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}黄色植物、飞行植物、外星人
-{FLAVOR}大家总是误把飞碟瓜当做外星生物，但是大家慢慢发现，它只不过是因为过于内向而不敢融入大家。不过，千万不要惹飞碟瓜生气，被它的光照到可不是一件轻松的事情。
+{KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze, fliegende Pflanze, außerirdisch
+{FLAVOR}Die UFO-Melone wird fälschlicherweise für eine außerirdische Kreatur gehalten, doch mit der Zeit stellt sich heraus, dass sie zu introvertiert ist, um sich in alle Gesellschaft zu integrieren. Aber ärgere die Fliegenden Untertassenmelone nicht, sie lässt sich nicht leicht von ihrem Licht erleuchten.
 
 [SAUCER_TOOLTIP]
-飞碟瓜能发出光线捕捉接近的僵尸
+Die Fliegende Untertassenmelone kann einen Strahl aussenden, um sich nähernde Zombies zu fangen.
 
 [SAUCER_PLANTFOOD]
-大招可以使场上的僵尸暂时无法移动。
+Die ultimative Fähigkeit kann Zombies auf dem Spielfeld vorübergehend bewegungsunfähig machen.
 
 [SAUCER_SKILL_LEVEL1]
-捕捉光线
+Fliegende Untertassenmelone
 
 [SAUCER_SKILL_LEVEL1_DES]
-使飞碟瓜的光线能捕捉生命较低的僵尸。
+Ermöglicht dem Strahl der Fliegenden Untertassenmelone, Zombies mit geringerer Gesundheit zu fangen.
 
 [SAUCER_SKILL_LEVEL2]
-反引力装置
+Anti-Schwerkraftgerät
 
 [SAUCER_SKILL_LEVEL2_DES]
-使飞碟瓜的捕捉光线能捕捉生命值更高的僵尸。
+Ermöglicht dem Fangstrahl der Fliegenden Untertassenmelone, Zombies mit höherer Gesundheit zu fangen.
 
 [GROUNDCHERRY_PRODUCT_SHORT_DESC]
-灯笼草能发现隐形状态下的僵尸
+Laternenpflanze kann Zombies im unsichtbaren Zustand erkennen.
 
 [GROUNDCHERRY_AVATAR_NAME]
-灯笼装扮
+Laternenkostüm
 
 [STORE_PRODUCT_AVATAR_GROUNDCHERRY_TITLE]
-灯笼装扮
+Laternenkostüm
 
 [STORE_PRODUCT_AVATAR_GROUNDCHERRY]
-大招时场上所有产生阳光的植物会立即生成一次阳光。
+Wenn die ultimative Fähigkeit eingesetzt wird, erzeugen alle Pflanzen auf dem Feld, die Sonnenlicht erzeugen, sofort Sonnenlicht.
 
 [GROUNDCHERRY]
-灯笼草
+Laternengras
 
 [GROUNDCHERRY_DESCRIPTION_HEADER]
-灯笼草能发现隐形状态下的僵尸
+Laternengras kann Zombies im unsichtbaren Zustand erkennen.
 
 [GROUNDCHERRY_DESCRIPTION]
-{KEYWORD}特点：{STAT}持续一段时间且不能被攻击
-{KEYWORD}植物特征：{STAT}红色植物、飞行植物
-{FLAVOR}灯笼草很快就与火炬树桩和火龙草成了形影不离的好朋友，他们自称为“火焰三剑客”。不过夏威夷风情酒廊似乎不太敢招待他们三个，老板可不愿意再看见烧焦的酒桌。
+{KEYWORD}Eigenschaften:{STAT}Hält eine Zeit lang an und kann nicht angegriffen werden.
+{KEYWORD}Pflanzeneigenschaften:{STAT}Rote Pflanze, fliegende Pflanze.
+{FLAVOR}Laternengras freundete sich schnell mit Torchwood und Dragon Grass an. Sie nannten sich die „Flame Three Musketeers“. Die Hawaiian Style Lounge schien jedoch nicht gewillt zu sein, die drei zu bewirten. Der Chef wollte den verbrannten Tisch nicht wiedersehen.
 
 [GROUNDCHERRY_TOOLTIP]
-灯笼草能发现隐形状态下的僵尸
+Laternengras kann Zombies im unsichtbaren Zustand erkennen.
 
 [GROUNDCHERRY_PLANTFOOD]
-大招可以使短时间内场上所有隐形僵尸现行。
+Der ultimative Move lässt alle unsichtbaren Zombies auf dem Feld für kurze Zeit erscheinen.
 
 [PINEAPPLE_PRODUCT_SHORT_DESC]
 菠萝可以阻挡僵尸前进并有机会反弹远程子弹。
@@ -24659,75 +24660,75 @@ Seltenes Schatztruhenschlüsselset
 请点确定再次验证，如再次验证失败，请稍后重新登录游戏领取商品。
 
 [MORNINGGLORY]
-喇叭花
+Prunkwinde
 
 [MORNINGGLORY_DESCRIPTION]
-{KEYWORD}特点：{STAT}反弹僵尸发射的音波，进阶后喇叭花之间会合奏增加攻击力。
-{KEYWORD}植物特征：{STAT}绿色植物 紫色植物
-{FLAVOR}喇叭花一直饱受楼上装修的噪音打扰，他请教邻居DJ甜菜如何解决之后，立马下单买了一个MSR-7耳机。
+{KEYWORD}Funktionen:{STAT}Reflektiert die Schallwellen von Zombies. Nach dem Vorrücken spielen die Prunkwinden zusammen, um die Angriffskraft zu erhöhen.
+{KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanze Lila Pflanze
+{FLAVOR}Die Prunkwinde wurde durch den Lärm der Renovierung im Obergeschoss gestört. Nachdem er seinen Nachbarn Fettebeete nach einer Lösung gefragt hatte, bestellte er sofort ein MSR-7-Headset.
 
 [MORNINGGLORY_DESCRIPTION_HEADER]
-发射音波攻击僵尸，并反弹僵尸发射的音波。
+Sendet Schallwellen aus, um Zombies anzugreifen und reflektiert die von Zombies ausgesendeten Schallwellen.
 
 [MORNINGGLORY_PLANTFOOD]
-发射一个音障，阻挡一行僵尸前进并造成持续伤害。
+Erzeugt eine Schallbarriere, um den Vormarsch einer Zombie-Linie zu blockieren und kontinuierlichen Schaden zu verursachen.
 
 [MORNINGGLORY_TOOLTIP]
-发射音波攻击僵尸，可反弹僵尸发射的音波。
+Sendet Schallwellen aus, um Zombies anzugreifen und reflektiert die von Zombies ausgesendeten Schallwellen.
 
 [MORNINGGLORY_PRODUCT_SHORT_DESC]
-喇叭花会发射音波攻击僵尸，并反弹僵尸发射的音波。
+Die Prunkwinde sendet Schallwellen aus, um Zombies anzugreifen, und reflektiert die von ihnen ausgesendeten Schallwellen.
 
 [MORNINGGLORY_AVATAR_NAME]
-喇叭花装扮
+Prunkwinden-Kostüm
 
 [STORE_PRODUCT_AVATAR_MORNINGGLORY]
-大招发射一个音障，阻挡三行僵尸前进并造成持续伤害。
+Die ultimative Fähigkeit erzeugt eine Schallbarriere, die den Vormarsch von drei Zombiereihen blockiert und kontinuierlichen Schaden verursacht.
 
 [STORE_PRODUCT_AVATAR_MORNINGGLORY_TITLE]
-喇叭花装扮
+Prunkwinden-Kostüm
 
 [MORNINGGLORY_SKILL_LEVEL1]
-合奏节拍
+Ensemble-Schlag
 
 [MORNINGGLORY_SKILL_LEVEL1_DES]
-相邻的喇叭花会产生合奏效果，提升攻击力。
+Benachbarte Prunkwinden erzeugen einen Ensemble-Effekt, der die Angriffskraft erhöht.
 
 [MORNINGGLORY_SKILL_LEVEL2]
-合奏增强
+Ensemble-Verbesserung
 
 [MORNINGGLORY_SKILL_LEVEL2_DES]
-增加可合奏的数量，额外增加攻击力。
+Erhöht die Anzahl spielbarer Ensembles und die Angriffskraft.
 
 [MORNINGGLORY_SKILL_LEVEL5]
-节奏音浪
+Rhythmische Schallwelle
 
 [MORNINGGLORY_SKILL_LEVEL5_DES]
-普通攻击时，有一定概率触发节奏音浪，连续发射三个3X1范围的大音波，第三道音波伤害更高。
+Bei einem normalen Angriff besteht eine gewisse Wahrscheinlichkeit, die rhythmische Schallwelle auszulösen. Diese schleudert kontinuierlich drei große Schallwellen mit einer Reichweite von 3x1. Die dritte Schallwelle verursacht höheren Schaden.
 
 [EA_SQUARED_NO_ADS_AVAILABLE]
-当前没有可用的广告，请联网后再试。
+Derzeit sind keine Anzeigen verfügbar. Bitte versuchen Sie es erneut, nachdem Sie eine Internetverbindung hergestellt haben.
 
 [BOSS_CHALLENGE_INFO1]
-1、本次活动为竞速模式，越快击败BOSS，在排行榜上的成绩越高。
+1. Dieses Event ist ein Rennmodus. Je schneller du den BOSS besiegst, desto höher ist deine Bestenliste.
 
 [BOSS_CHALLENGE_INFO2]
-2、每期活动时长为一周，排行榜奖励在下一期活动时发放。
+2. Jedes Event dauert eine Woche. Die Bestenlisten-Belohnungen werden im nächsten Event vergeben.
 
 [BOSS_CHALLENGE_INFO3]
-3、每期排名由每日最高成绩的分数之和决定，请尽量每天都参加。
+3. Die Rangliste jedes Zeitraums ergibt sich aus der Summe der höchsten Tagespunktzahlen. Nimm bitte täglich teil.
 
 [BOSS_CHALLENGE_TITLE]
-排行榜奖励预览
+Vorschau der Ranglisten-Belohnungen
 
 [BOSS_CHALLENGE_INFO_LAST_ITEM]
-5000名以后
+Nach 5000
 
 [BOSS_CHALLENGE_INFO_RANK]
-{RANK}名
+{RANK}
 
 [BOSS_CHALLENGE_HEAD_ID_10000]
-这是个头像
+Dies ist ein Avatar
 
 [PVZ_ERROR_20017]
 Der Server ist ausgelastet. Bitte versuchen Sie es später erneut.
@@ -69506,10 +69507,10 @@ Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 Nach dem Einpflanzen explodiert sie und feuert einen Impuls ab, der alle mechanischen Zombie-Einheiten im Umkreis von 5×5 für 10 Sekunden lähmen kann.
 
 [EMPEA_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [EMPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [CITRON_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben der Energie-Grapefruit erscheint, feuert diese eine hochenergetische Partikelkanone ab, um den Zombie anzugreifen. Die Energie-Grapefruit benötigt 3 Sekunden, um zu landen, und beginnt eine 6,5 Sekunden lange Ruhephase.
@@ -69557,10 +69558,10 @@ Erzeugt zwei Barrieren vor sich (^ff0000^,^oldclr^), die die Angriffe aller Zomb
 Nach dem Einpflanzen bohrt sich die Karotte in den Boden und verwandelt das ursprüngliche Gitter in ein Energiefeld. Wenn die Spezialdünger-Fähigkeitn auf die darauf gepflanzte Pflanze angewendet werden, lösen alle anderen Pflanzen auf den Energiefeldern eine starke Attacke aus.
 
 [POWERPLANT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit.
 
 [POWERPLANT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit.
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben dem Karottenraketenwagen erscheint, zielt der Karottenraketenwagen auf den Zombie und feuert eine Karottenrakete ab. Nach dem Abfeuern von vier Raketen benötigt der Karottenraketenwagen eine Ruhezeit von 14 Sekunden.
@@ -70984,25 +70985,25 @@ Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 凝聚激光发射更强力的电磁炮攻击僵尸，在5秒内对僵尸造成大量伤害，^ff0000^同时会在命中区域3×3 范围内造成雷暴伤害。^oldclr^
 
 [MORNINGGLORY_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在喇叭花右侧时，喇叭花会弹奏乐器向前方发射音波攻击僵尸，并可以反弹重金属巨人僵尸、狂舞灭碎者、贝斯手僵尸的音波攻击。
+Wenn ein Zombie rechts von der  erscheint, spielt Prunkwinde ein Instrument, um Schallwellen auszustoßen und den Zombie anzugreifen. Sie kann die Schallwellenangriffe von Heavy Metal Giant Zombie, Dancing Destroyer und Bassist Zombie abprallen lassen.
 
 [MORNINGGLORY_NEW_SKILL_LEVEL2_DES]
-两个喇叭花相邻时，弹起合奏，每有一个喇叭花，喇叭花的攻击力上升15%，最多2个喇叭花。
+Wenn zwei  nebeneinander stehen, spielen sie zusammen. Pro Prunkwinde erhöht sich deren Angriffskraft um 15 %, bis zu zwei Prunkwinden.
 
 [MORNINGGLORY_NEW_SKILL_LEVEL3_DES]
-三个喇叭花相邻时，弹起合奏，每有一个喇叭花，喇叭花的攻击力上升15%，最多3个喇叭花。
+Wenn drei Prunkwinden nebeneinander stehen, spielen sie zusammen. Pro Prunkwinde erhöht sich deren Angriffskraft um 15 %, bis zu drei Prunkwunden.
 
 [MORNINGGLORY_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [MORNINGGLORY_NEW_SKILL_LEVEL5_DES]
-攻击时有25%的概率发射两道伤害为900，可以攻击3行的大音波和一道伤害为1200，可以攻击3行的大音波。
+Beim Angriff besteht eine Chance von 25 %, zwei große Schallwellen mit 900 Schaden und einer Reichweite von 3 Reihen sowie eine große Schallwelle mit 1200 Schaden und einer Reichweite von 3 Reihen auszulösen.
 
 [MORNINGGLORY_PLANTFOOD_DESCRIPTION]
-推出一个单格的音障，把僵尸推至喇叭花右侧三格并造成持续 6 秒的伤害
+Drückt eine Schallbarriere mit einem Gitter aus, schiebt Zombies drei Gitter rechts von der Prunkwinde und verursacht 6 Sekunden lang Schaden.
 
 [MORNINGGLORY_AVATAR_PLANTFOOD_DESCRIPTION]
-推出^ff0000^一个范围为 3 行的音障，把僵尸推至喇叭花右侧三格并造成持续 6 秒的伤害。^oldclr^
+Drückt eine Schallbarriere mit 3 Reihen aus, schiebt Zombies drei Gitter rechts von der Prunkwinde und verursacht 6 Sekunden lang Schaden. ^oldclr^
 
 [GRAPESHOT_NEW_SKILL_LEVEL1_DES]
 种植后爆裂葡萄立刻爆炸对3×3范围内的僵尸造成爆炸伤害。爆炸后爆裂葡萄会弹出八个小葡萄并向8个方向弹射。小葡萄会弹射数次并对僵尸造成伤害。
@@ -72717,13 +72718,13 @@ Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken näh
 钩爪嘉兰吸引右侧3×3范围内至多5个僵尸至右侧1格并使出蓄力一拳，对所有僵尸造成伤害并击退3格，^ff0000^如果是中小型僵尸则击飞。^oldclr^
 
 [FLOWERPOT_NEW_SKILL_LEVEL1_DES]
-花盆可以种植在屋顶地形并承载其他植物的种植，使植物能够安全稳固的种植在屋顶。
+Blumentöpfe können auf Dächern aufgestellt werden und andere Pflanzen aufnehmen. So können Pflanzen sicher und stabil auf Dächern platziert werden.
 
 [FLOWERPOT_PLANTFOOD_DESCRIPTION]
-在自己的上下左右各生成一个花盆。
+Generiert einen Blumentopf über, unter, links und rechts von sich selbst.
 
 [FLOWERPOT_AVATAR_PLANTFOOD_DESCRIPTION]
-以自身为中心的 3×3 范围内各生成一个花盆。
+Generiert einen Blumentopf in einem 3×3 großen Bereich mittig zu sich selbst.
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL1_DES]
 当僵尸出现在右侧时，会发射花瓣颜色的染料子弹对僵尸造成伤害，每隔20秒能对自己染色提升形态。染料颜色越深控制效果越强：粉色颜料能使僵尸减速2秒；橙色颜料能黏住僵尸1秒。
