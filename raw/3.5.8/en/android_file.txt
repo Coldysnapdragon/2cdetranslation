@@ -2231,22 +2231,23 @@ Zum Schatz-Interface springen
 Zum Gegenstand-Interface springen
 
 [KERNELPULT]
-玉米投手
+Kornapult 
 
 [KERNELPULT_DESCRIPTION]
-{KEYWORD}伤害：{STAT}轻微（玉米粒）中等（黄油）
-{KEYWORD}特点：{STAT}黄油可以暂时固定僵尸
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR}玉米投手原来是电影院的引座员，不过自从看了“油炸绿番茄”这个电影后，他发现自己是天生演戏的料，于是他带着他的黄油和玉米粒，向演艺圈进军。
+{KEYWORD}Schaden: {STAT}gering (Korn), normal (Butter)
+{KEYWORD}Besonderheit: {STAT}Butter lähmt Zombies
+{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanzen
+
+{FLAVOR}Während seiner Arbeit als Platzanweiser im Cineplex sah das Kornapult den Film "Grüne Tomaten" und fand seine höhere Bestimmung. Es packte Schalen, Körner und Butter ein und zog in den Kampf.
 
 [KERNELPULT_DESCRIPTION_HEADER]
-玉米投手，投掷玉米粒和黄油。
+Kornapulte schleudern Maiskörner und Butter auf Zombies. 
 
 [KERNELPULT_PLANTFOOD]
-触发黄油风暴，使草坪上所有的僵尸停滞几秒钟。
+Löst einen Buttersturm aus, der jeden Zombie auf dem Rasen für einige Sekunden lähmt.
 
 [KERNELPULT_TOOLTIP]
-向僵尸投掷玉米粒和黄油块。
+Schleudert Maiskörner mit Butter auf Zombies
 
 [KEY_GATE]
 Schlüsseltor
@@ -2315,19 +2316,18 @@ Zurücksetzen
 Blitzschilf
 
 [LIGHTNINGREED_DESCRIPTION]
-{KEYWORD}范围：{STAT}可以击中上下一行的目标 
-{KEYWORD}特殊：{STAT}多个目标的连锁攻击
-{KEYWORD}植物特征：{STAT}绿色植物、十万伏特
-{FLAVOR}这可能有些令人吃惊。闪电芦苇是业余无线电的热衷者。它的呼号是“闪0电3嗝1”。每周二你可以在调频收听到它给年纪大的植物们朗读经典。这周主题：理智的种子与情感。
+{FLAVOR}Das mag dich schockieren, aber das Blitzschilf ist ein leidenschaftlicher Amateurfunker. Sein Sendezeichen lautet "El3ktro-Sch1uckauf". Schalte jeden Dienstag ein, wenn es aus Klassikern der Weltliteratur liest. Diese Woche: Die Blumen des Bösen.
+{KEYWORD}Spezial: {STAT}Kettenangriff auf mehrere Ziele
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen, 100.000 Volt
 
 [LIGHTNINGREED_DESCRIPTION_HEADER]
-闪电芦苇会对路线上最近的僵尸发射闪电，并且其电压会形成电弧扫过附近的僵尸。
+Blitzschilf verschießt Blitze auf den nächsten Zombie, bis zu eine Reihe entfernt. Der Blitz schlägt dann auf andere Zombies über.
 
 [LIGHTNINGREED_PLANTFOOD]
-产生一朵云，云会对飘过的僵尸发射闪电攻击。
+Schickt eine Gewitterwolke über den Rasen, die Zombies unter ihr mit Blitzen eindeckt.
 
 [LIGHTNINGREED_TOOLTIP]
-一次击中几只鸡或僵尸。
+Grillt mehrere Hühner oder Zombies auf einmal
 
 [LOADING]
 Lädt…
@@ -2563,22 +2563,23 @@ Kontobindung erfolgreich
 产生金币。
 
 [MELONPULT]
-西瓜投手
+Melonapult 
 
 [MELONPULT_DESCRIPTION]
-{KEYWORD}发射速度：{STAT}1/2倍速
-{KEYWORD}范围：{STAT}抛掷
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}“人人都说我的头长得像个西瓜”，投手家族的二把手说。“可能是真的吧。”千万别问它是不是无籽西瓜，它一听就翻脸。
+{KEYWORD}Feuerrate: {STAT}1/2x
+{KEYWORD}Reichweite: {STAT}Wurf
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+
+{FLAVOR}„Alle sagen, mein Kopf sieht aus wie eine Melone“, sagt das mittlere der Pult-Geschwister, „und sie haben Recht.“ Frag aber besser nicht, ob es praktisch kernfrei ist. Das ist unverschämt und geht dich auch wirklich nichts an!
 
 [MELONPULT_DESCRIPTION_HEADER]
-西瓜投手能对成群的僵尸造成巨大伤害。
+Melonapulte verursachen großen Schaden an Gruppen von Zombies. 
 
 [MELONPULT_PLANTFOOD]
-发射重型西瓜并打击草坪上的所有僵尸。
+Schleudert schwere Melonen gegen jeden Zombie auf dem Rasen.
 
 [MELONPULT_TOOLTIP]
-投出西瓜， 重重打击成群的僵尸。
+Verursacht großen Schaden an Gruppen von Zombies
 
 [MENU_BUTTON]
 Menü
@@ -3799,7 +3800,7 @@ Kanonenschlacht – Tag 3
 Piratentor
 
 [PIRATE_LEVEL_NAME]
-Piratenbucht – Tag {LEVEL_NUMBER}
+Piratensee - Tag {LEVEL_NUMBER}
 
 [PLANT]
 Pflanzen
@@ -3898,47 +3899,47 @@ Heißekartoffeln dürfen nur auf Eisblöcken gepflanzt werden.
 Bitte geben Sie Ihren Namen ein:
 
 [POTATOMINE]
-土豆地雷
+Kartoffelmine 
 
 [POTATOMINE_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，需要一定时间准备才能启动。
-{KEYWORD}范围：{STAT}近身
-{KEYWORD}植物特征：{STAT}褐色植物、武器家族、矮个子
-{FLAVOR}土豆地雷是个兢兢业业工作的好同志，在热火朝天的工作气氛中他很享受。什么？他只是个小个子？你没见过他的身体吧？想见么？
+{KEYWORD}Nutzung: {STAT}einmalig, verzögert
+{KEYWORD}Reichweite: {STAT}Nahbereich
+{KEYWORD}Pflanzeneigenschaften: {STAT}Braune Pflanze, Waffenfamilie, Kleinwuchs
+{KEYWORD}Reichweite: {STAT}Kontakt
+
+{FLAVOR}Ob du es glaubst oder nicht, SPUDOW! ist nicht über Nacht entstanden. Die Kartoffelmine hat mehrere krasse Sprüche ausprobiert, daran gefeilt, sie wieder verworfen und sich schließlich entschieden, bei Altbewährtem zu bleiben.
 
 [POTATOMINE_DESCRIPTION_HEADER]
-土豆地雷一触即爆，但是准备时间有点长。把他们种在僵尸的前方。
+Kartoffelminen explodieren bei Kontakt, brauchen aber Zeit zum Aufladen. Pflanze sie in einiger Entfernung vor Zombies.
 
 [POTATOMINE_PLANTFOOD]
-本体立刻准备完成，并在草地上随机方格内种下2个准备完成的克隆体。
+Wird sofort scharf und verschießt 2 scharfe Klone auf zufällige Felder auf dem Rasen.
 
 [POTATOMINE_TOOLTIP]
-炸飞碰到它的敌人，但安放后需要花费一段时间来启动自己。
+Explodiert bei Kontakt, das Scharfmachen dauert jedoch etwas
 
 [POWERLILY]
-能量花
+Powerlilie
 
 [POWERLILY_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}特点：{STAT}制造一颗能量豆
+{KEYWORD}Nutzung: {STAT}einmalig, sofort
+{KEYWORD}Besonderheit: {STAT}produziert 1 Spezialdünger
 
-{FLAVOR}从小到大，能量花成长的每一步都是三好学生的范儿，她一直致力于为广大的植物同胞们带来满满的正能量。
+{FLAVOR}Vom Sämling zum Setzling zur vollen Blüte – die Powerlilie weiß als Persönlichkeitscoach, wie Pflanzen das ganze Potenzial aus sich herausholen können.
 
 [POWERLILY_DESCRIPTION_HEADER]
-能量花可以凭空制造一颗能量豆。
+Powerlilien produzieren Spezialdünger - einfach so!
 
 [POWERLILY_PLANTFOOD]
-能量豆无效果。
+Kein Spezialdünger-Effekt.
 
 [POWERLILY_TOOLTIP]
-制造一颗能量豆。
+Produziert einen nutzbaren Spezialdünger
 
 [POWERLILY_PLANTFOOD_DESCRIPTION]
  
-
 [POWERLILY_AVATAR_PLANTFOOD_DESCRIPTION]
  
-
 [POWERUP_DEMO]
 Cheat-Finger-Demo
 
@@ -6121,39 +6122,42 @@ Kaufen
 点击宝盒获得奖励。
 
 [THREEPEATER]
-三重射手
+Triplinator 
 
 [THREEPEATER_DESCRIPTION]
-{KEYWORD}伤害：{STAT}中等（每颗）
-{KEYWORD}范围：{STAT}三线
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族。
-{FLAVOR}三重射手热爱多人电玩，但分屏总是不管用，因为左边的射手爱耍小手段。
+{KEYWORD}Schaden: {STAT}normal (je Erbse)
+{KEYWORD}Reichweite: {STAT}drei Reihen
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze, Familie der Hülsenfrüchtler.
+
+{FLAVOR}Der Triplinator liebt Multiplayer-Videospiele. Allerdings nicht im Splitscreen-Modus - der linke Kopf schummelt ständig!
 
 [THREEPEATER_DESCRIPTION_HEADER]
-三重射手可以在三条道上同时射出豌豆。
+Triplinatoren verschießen Erbsen in drei Reihen. 
 
 [THREEPEATER_PLANTFOOD]
-发射出一波豌豆，在草坪上形成一波豌豆波浪。
+Feuert eine ganze Wand von Erbsen über den Rasen.
 
 [THREEPEATER_TOOLTIP]
-在三条道上同时发射豌豆。
+Verschießt Erbsen in drei Reihen
 
 [TORCHWOOD]
-火炬树桩
+Zunderholz 
 
 [TORCHWOOD_DESCRIPTION]
-{KEYWORD}特点：{STAT}让穿过他的豌豆变成火球造成两倍伤害。
-{KEYWORD}植物特征：{STAT}褐色植物、面恶心善、浑身浴火
-{FLAVOR}因为兴趣相投，火炬树桩和火龙草迅速成为了好朋友。你可以在类似场合见到他们，比如夏威夷土著风情酒廊，或者是文艺复兴风格的马戏团。
+{KEYWORD}Besonderheit: {STAT}Immun gegen Frost
+{KEYWORD}Besonderheit: {STAT}Wärmt Pflanzen in der Nähe
+{KEYWORD} Pflanzeneigenschaften: {STAT} Braune Pflanzen, hässliche Gesichter, gutes Herz und in Feuer getauchte Körper
+
+{FLAVOR}Zunderholz und Drachenmäulchen sind dicke Freunde geworden. Am liebsten hängen sie in der Tiki-Lounge oder beim Mittelalterfest ab.
 
 [TORCHWOOD_DESCRIPTION_HEADER]
-火炬树桩可以把穿过他的豌豆变成火球，造成两倍伤害。
+Erbsen, die durch Zunderholz fliegen, werden zu Feuerbällen, die doppelt so viel Schaden verursachen. 
 
 [TORCHWOOD_PLANTFOOD]
-永久燃烧蓝色火焰，蓝焰豌豆的杀伤力是火焰豌豆的两倍。
+Blaue Flammen züngeln hoch und machen aus Erbsen, die hindurch fliegen, doppelt wirksame Blaufeuer-Erbsen.
 
 [TORCHWOOD_TOOLTIP]
-穿过火炬树桩的豌豆会变成火弹。
+Hindurchfliegende Erbsen werden zu Feuerbällen
 
 [TRY_AGAIN]
 Erneut versuchen
@@ -6189,21 +6193,22 @@ Super! Lass die Zombies nicht dein Gehirn fressen!
 Versuche, sie durch einen Stromschlag zu töten!
 
 [TWINSUNFLOWER]
-双胞向日葵
+Doppelsonnenblume 
 
 [TWINSUNFLOWER_DESCRIPTION]
-{KEYWORD}阳光产量：{STAT}双倍
-{KEYWORD}植物特征：{STAT}黄色植物、无尽阳光
-{FLAVOR}双胞向日葵的闪亮奢华墨镜让它超有明星范儿。时时都得招架狗仔的突然袭击。
+{KEYWORD}Sonnenproduktion: {STAT}doppelt
+{KEYWORD}Pflanzeneigenschaften: {STAT} gelbe Pflanzen, endloses Sonnenlicht
+
+{FLAVOR}Die superschicke, aber auch ultrateure Sonnenbrillenkollektion der Doppelsonnenblume ist ein echter Hit. Seitdem sie sie trägt, kann sie nirgends mehr hin, ohne von der Klatschmohnpresse belagert zu werden.
 
 [TWINSUNFLOWER_DESCRIPTION_HEADER]
-双胞向日葵提供两倍的阳光产量。
+Doppelsonnenblumen erzeugen doppelt so viele Sonnen wie normale Sonnenblumen. 
 
 [TWINSUNFLOWER_PLANTFOOD]
-持续产出许多额外阳光。
+Produziert sofort viele zusätzliche Sonnen.
 
 [TWINSUNFLOWER_TOOLTIP]
-为你提供两倍于普通向日葵的阳光。
+Erzeugt doppelt so viele Sonnen wie eine Sonnenblume
 
 [UI_SOCIAL_FRIEND_PICKER_MSG]
 Verlasse dieses tolle Spiel
