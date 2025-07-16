@@ -2031,22 +2031,22 @@ Geheimnisvolles Ägypten – Ultimative Herausforderung
 Dunkles Zeitalter – Ultimative Herausforderung
 
 [HEIAN_FINAL_LEVEL]
-Heian-Ära – Ultimative Herausforderung
+Heian Ära – Ultimative Herausforderung
 
 [HEIAN_LEVEL_NAME]
-Heian-Ära – {LEVEL_NUMBER} Tag
+Heian Ära – Tag {LEVEL_NUMBER}
 
 [SKYCITY_FINAL_LEVEL]
-Das Schloss im Himmel – Ultimative Herausforderung
+Luftstadt – Ultimative Herausforderung
 
 [SKYCITY_FINAL_LEVEL1]
-Zeitreise – Das Schloss im Himmel
+Zeitreise – Luftstadt
 
 [SKYCITY_KEYGATE_HEADER]
 Tor des Himmels
 
 [SKYCITY_LEVEL_NAME]
-Das Schloss im Himmel – {LEVEL_NUMBER} Tag
+Luftstadt – Tag {LEVEL_NUMBER}
 
 [ENTER_UNIQUE_PLAYER_NAME]
 Der eingegebene Benutzername wird bereits verwendet. Bitte geben Sie einen neuen Benutzernamen ein.
@@ -3872,19 +3872,19 @@ Schießt mit Erbsen auf den Feind.
 {PLAYER}的巨浪沙滩之旅
 
 [PLAYERS_TRIP_TO_ICEAGE]
-{PLAYER}的冰河世界之旅
+{PLAYER}s Reise in die Frostbeulen-Höhlen!
 
 [PLAYERS_TRIP_TO_SKYCITY]
-{PLAYER}的天空之旅
+{PLAYER}s Reise zur Luftstadt!
 
 [PLAYERS_TRIP_TO_LOSTCITY]
-{PLAYER}的失落之旅
+{PLAYER}s Reise zur Verlorenen Stadt
 
 [PLAYERS_TRIP_TO_HEIAN]
-{PLAYER}的平安时代之旅！
+{PLAYER}'s Reise zur Heian Ära!
 
 [WARNING_LOW_TIDE]
-小心，退潮了！
+Ebbe!
 
 [ADVICE_PLANT_BOWLING_FOUL_LINE]
 保龄泡泡只能种在警示牌左侧
@@ -6398,7 +6398,7 @@ Benutzername darf nicht leer sein.
 Benutzername-Fehler
 
 [VIEW_IN_ALMANAC]
-Im Lexikon suchen
+IM LEXIKON SUCHEN
 
 [VIEW_LAWN]
 Rasen anzeigen
@@ -6407,20 +6407,20 @@ Rasen anzeigen
 Verbesserungen Anzeigen
 
 [WALLNUT]
-坚果
+Wall-Nuss 
 
 [WALLNUT_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}褐色植物
-{FLAVOR}在球迷们的坚定呼声下，此前宣布退役的保龄球联赛冠军坚果高调宣布回归。努力!加油! 
+{KEYWORD} Pflanzeneigenschaften: {STAT} Braune Pflanzen
+{FLAVOR}Die Tage als Bowling-Champion in der Profiliga sind vorbei. Heute sucht die Wall-Nuss nach neuen Herausforderungen in der Verteidigung deines Rasens. STILLGESTANDEN!
 
 [WALLNUT_DESCRIPTION_HEADER]
-坚果拥有足以保护其它植物的坚硬外壳。
+Wall-Nüsse haben harte Schalen, mit denen sie andere Pflanzen beschützen können. 
 
 [WALLNUT_PLANTFOOD]
-变出金属盔甲，大大提高了坚果的防御。
+Erhält eine Metallrüstung und so eine deutlich höhere Ausdauer.
 
 [WALLNUT_TOOLTIP]
-挡住僵尸，保护它身后的植物。
+Wehrt Zombies ab und schützt deine Pflanzen
 
 [WARNING_CAMELMINIGAME_1]
 Vorbereiten...
@@ -6601,16 +6601,16 @@ Mittelalter
 Mittelalter
 
 [WORLD_PREVIEW_STAR_UNLOCK_MSG]
-解锁还需
+Freischaltung noch erforderlich
 
 [WORLD_PREVIEW_STAR_UNLOCK]
-继续收集
+Sammeln Sie weiter
 
 [WORLD_PREVIEW_BUY_NOW_MSG]
-或花费
+Oder geben Sie aus
 
 [WORLD_PREVIEW_BUY_NOW]
-立即解锁
+Jetzt freischalten
 
 [WORLD_PREVIEW_DESCRIPTION_COWBOY]
 这是1850年，淘金热席卷整个西部。
@@ -6732,28 +6732,27 @@ Mittelalter
 宝藏雪人出现了！
 
 [ZOMBIE_BARRELROLLER]
-滚桶僵尸
+Fassroller-Zombie
 
 [ZOMBIE_BARRELROLLER_DESCRIPTION]
-{KEYWORD}特点：{STAT}用滚桶压扁植物，被消灭后桶中释放出小鬼僵尸
-{KEYWORD}弱点：{STAT}滚筒压到地刺就被扎破了
+{KEYWORD}Schaden: {STAT}zermalmt Pflanzen mit dem Fass
+{KEYWORD}Besonderheit: {STAT}bei Zerstörung fliegen Wichte aus dem Fass
 
-{FLAVOR}滚桶僵尸是一家地下俱乐部的资深会员，不过太小众你肯定没听说过。小秘密，他的左手比右手长了那么一点。
+{FLAVOR}Der Fassroller-Zombie ist Mitglied eines supergeheimen Untergrundclubs. Wahrscheinlich hast du noch nie davon gehört. Außerdem ist sein linker Arm etwas länger als der rechte.
 
 [ZOMBIE_BARRELROLLER_DESCRIPTION_HEADER]
-滚桶不仅可以压毁植物同时还为他提供极好的保护。
+Das rollende Fass zermalmt Pflanzen und bietet ihm einen hervorragenden Schutz.
 
 [ZOMBIE_CAMEL_ALMANAC]
-骆驼僵尸
+Kamelzombies
 
 [ZOMBIE_CAMEL_ALMANAC_DESCRIPTION]
-{KEYWORD}特点：{STAT}三只或更多的僵尸组队来袭
-{KEYWORD}弱点：{STAT}能够攻击一行僵尸的植物是他（们）的克星
+{KEYWORD}Besonderheit: {STAT}treten in Gruppen von drei oder mehr Zombies auf
 
-{FLAVOR}这里只有一只骆驼，真的！…
+{FLAVOR}Die Kamelzombies sind hervorragende Gesellschaftstänzer, sie üben jeden Tag mit ihren mysteriös bemalten Schildern. Sie nennen das den "Kameltanz".
 
 [ZOMBIE_CAMEL_ALMANAC_DESCRIPTION_HEADER]
-紧随其他骆驼僵尸的步伐前进。
+Tritt immer in Gruppen mit anderen Kamelzombies auf.
 
 [ZOMBIE_CAMEL_MANYHUMP]
 骆驼僵尸
@@ -6784,15 +6783,16 @@ Mittelalter
 两个骆驼组的组长。
 
 [ZOMBIE_CANNON]
-小鬼僵尸炮
+Wicht-Kanone
 
 [ZOMBIE_CANNON_DESCRIPTION]
-{KEYWORD}特点：{STAT}发射大波小鬼僵尸攻击，需尽快消灭
-{KEYWORD}弱点：{STAT}回旋镖投手进行穿透攻击，或者用椰子加农炮和他对轰，这就是尽快消灭的意思
-{FLAVOR}小鬼僵尸们加入了“大炮的使命”兄弟会，在这里很容易获得晋升的机会，因为根据传统，每次战役大炮都会射出当时的最高领袖。
+{KEYWORD}Schaden: {STAT}verschießt Wichte in die Mitte des Rasens
+{KEYWORD}Besonderheit: {STAT}explodiert in einem Regen von Wichten, wenn sie nicht schnell zerstört wird
+
+{FLAVOR}Die Wichte sind Mitglieder in der Studentenverbindung Kanonia. Keine schlagende Verbindung - eine durchschlagende!
 
 [ZOMBIE_CANNON_DESCRIPTION_HEADER]
-发射海盗小鬼僵尸穿越你的防线。最终大炮爆炸时投下多个海盗小鬼僵尸。
+Verschießt Piratenwichte hinter deine Verteidigungsanlagen. Kann in einem Regen aus Wichten explodieren.
 
 [ZOMBIE_CHICKEN]
 Zombie-Huhn
@@ -19477,186 +19477,195 @@ ca=拿到3星|把僵尸死光|等时间耗尽|拿到1星|
 收集1001颗星星|收集101颗星星|收集56颗星星|ca=根本没法开启|
 
 [ICEAGE]
-冰河世界
+Frostbeulen-Höhlen
 
 [ICEAGE_LAST]
-冰河世界-终极挑战
+Frostbeulen-Höhlen - Letzte Herausforderung 
 
 [ICEAGE_LAST1]
-时空穿梭-冰河世界
+Frostbeulen-Höhlen - Letzte Herausforderung 
 
 [ICEAGE_LEVEL_NAME]
-冰河世界-第{LEVEL_NUMBER}天
+Frostbeulen-Höhlen – Tag {LEVEL_NUMBER}
 
 [XSHOT]
-旋转芜菁
-
-[XSHOT_DESCRIPTION_HEADER]
-旋转芜菁可以沿着4个对角线发射子弹，每个方向瞄向一个目标。
+Rotorübe
 
 [XSHOT_DESCRIPTION]
-{KEYWORD}范围：{STAT}四方向发射
-{KEYWORD}植物特征：{STAT}紫色植物、飞行植物
-{FLAVOR}有时候旋转芜菁会听到其它植物互相八卦。“你注意到没？某某某发胖了。”他们还会说，像这样的话题“我听说某某某正在和某某某约会，你能相信吗？”但是旋转芜菁不是这种爱八卦的类型。对于在别人背后议论八卦，她更有兴趣事情是尽力超越别人。
+{KEYWORD}Reichweite: {STAT}Strahlt in vier Richtungen
+{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen, fliegende Pflanzen
+{FLAVOR}Manchmal bekommt die Rotorübe mit, wie die anderen Pflanzen lästern. „Hast du gesehen, wie der zugenommen hat?“ sagen sie, oder: „Ich hab gehört, der-und-der ist jetzt mit soundso zusammen. Kaum zu glauben!“ Aber die Rotorübe ist kein Lästermäulchen. Sie redet nicht über andere hinter ihren Blattrücken. Vielmehr schwebt sie über den Dingen.
 
-[XSHOT_TOOLTIP]
-沿着4个对角线的方向发射子弹
+[XSHOT_DESCRIPTION_HEADER]
+Rotorüben verschießen Projektile in die vier Diagonalen, in jede Richtung mit Ziel.
 
 [XSHOT_PLANTFOOD]
-在4个对角线方向快速喷射子弹流。
+Feuert schnell reihum in alle vier Diagonalen.
+
+[XSHOT_TOOLTIP]
+Schießt in die Diagonalen, bist zu vier Richtungen auf einmal
 
 [SUGARCANE]
-竹小弟
+Zuckerrohr
 
 [SUGARCANE_DESCRIPTION_HEADER]
-竹小弟可以顶住僵尸，阻止它们前进。
+Zuckerrohr kann Zombies zurückhalten und ihren Vormarsch stoppen.
 
 [SUGARCANE_DESCRIPTION]
-{KEYWORD}特点：{STAT}僵尸越少，能坚持的时间越长。
-{KEYWORD}特点：{STAT}在没有顶住僵尸的时候会逐渐恢复。
-{KEYWORD}植物特征：{STAT}绿色植物、武艺高强
-{FLAVOR}竹小弟自小开始跟着邻镇的一个戏班子跑腿，自小跑龙套的他希望有一天成为班里的台柱子，于是他苦练各种功夫，终于有一天练成了连续后空翻的看家本领。皇天不负苦心人，竹小弟终于接到了第一场他担纲主角的戏，主要剧情是这样的：有一天，在森林中一只凶猛的狼绑架了小猪，猪妈妈勇敢地寻找狼的巢穴来救它……
+{KEYWORD}Eigenschaften:{STAT}Je weniger Zombies es gibt, desto länger kann er durchhalten.
+{KEYWORD}Eigenschaften:{STAT}Er erholt sich allmählich, wenn er keine Zombies zurückhält.
+{KEYWORD}Pflanzeneigenschaften:{STAT}Grüne Pflanzen, starke Kampfkünste
+{FLAVOR}Das Zuckerrohr begann schon in jungen Jahren, für eine Truppe in der Nachbarstadt Besorgungen zu erledigen. Er war von klein auf ein Nebendarsteller und hoffte, eines Tages zur tragenden Säule der Truppe zu werden. Deshalb übte er verschiedene Kung-Fu-Techniken und beherrschte schließlich eines Tages die einzigartige Fähigkeit des kontinuierlichen Rückwärtssaltos. Gott lässt diejenigen nicht im Stich, die hart arbeiten.
 
 [SUGARCANE_TOOLTIP]
-顶住僵尸，阻挡僵尸前进。
+Hält Zombies fest und blockiert ihren Vormarsch.
 
 [SUGARCANE_PLANTFOOD]
-凌空跳起，将僵尸击飞并眩晕一段时间。
+Er Springt in die Luft, stößt die Zombies weg und betäube sie für kurze Zeit.
 
 [ROSESWORDMAN]
-玫瑰剑客
+Rosen-Schwertkämpfer
 
 [ROSESWORDMAN_DESCRIPTION_HEADER]
-玫瑰剑客可以攻击接近的僵尸，并对低生命的僵尸发动强力攻击。
+Der Rosen-Schwertkämpfer kann sich nähernde Zombies angreifen und mächtige Angriffe auf Zombies mit niedrigem Lebenspunkt ausführen.
 
 [ROSESWORDMAN_DESCRIPTION]
-{KEYWORD}特点：{STAT}对生命值很低的僵尸发动强力攻击。
-{KEYWORD}植物特征：{STAT}红色植物、武艺高强
-{FLAVOR}这名来自遥远东方的神秘剑客自称为凡尔赛·高，他在酒馆里喝酒的时候总是吹嘘自己是一名超越时代的艺术家。“这些粗鲁的家伙根本无法理解我想表达的东西！”他总是如此愤愤不平地说道，“那位著名的歌手向日葵，我曾经给她画过一幅划时代的画像，但是她居然宣称我画的是垃圾！这可是我唯一一幅除了玫瑰之外的画像！我还特意在画的下面签上了自己名字的缩写，我敢打赌光凭这个签名就足以使这副画成为无价之宝……嗝~”
+{KEYWORD}Funktionen: {STAT} Führe mächtige Angriffe auf Zombies mit sehr niedrigem Lebenspunkt aus.
+{KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanze, starke Kampfkünste
+{FLAVOR}Dieser mysteriöse Schwertkämpfer aus dem Fernen Osten nennt sich Versailles Gao. Wenn er in der Taverne trinkt, prahlt er stets damit, ein Künstler zu sein, der seiner Zeit voraus ist. „Diese unhöflichen Typen verstehen überhaupt nicht, was ich ausdrücken will!“, sagte er immer empört: „Diese berühmte Sängerin Sonnenblume, ich habe einmal ein bahnbrechendes Porträt für sie gemalt, aber sie behauptete tatsächlich, mein Gemälde sei Mist! Dies ist mein einziges Porträt außer Rosen! Ich habe außerdem meine Initialen unter das Gemälde geschrieben. Ich wette, diese Signatur allein macht dieses Gemälde zu einem unbezahlbaren Schatz … Schluckauf~“
 
 [ROSESWORDMAN_TOOLTIP]
-攻击接近的僵尸，对血量较低的僵尸造成巨大伤害。
+Greift nahe Zombies an und fügt bei niedrigen Leben großen Schaden zu.
 
 [ROSESWORDMAN_PLANTFOOD]
-发动剑气攻击前方一定范围内的僵尸。
+Schleudert Schwertenergie ab, um Zombies in einem bestimmten Umkreis vor ihm anzugreifen.
 
 [MAGICSHROOM]
-魔术菇
+Zauberpilz
 
 [MAGICSHROOM_DESCRIPTION_HEADER]
-魔术菇可以发射扑克攻击前后方的僵尸。
+Der Zauberpilz kann Schürhaken abfeuern, um Zombies von vorne und hinten anzugreifen.
 
 [MAGICSHROOM_DESCRIPTION]
-{KEYWORD}特点：{STAT}可以攻击前方或者后方的僵尸。
-{KEYWORD}植物特征：{STAT}蘑菇家族
-{FLAVOR}在成为耀眼的魔术菇之前，魔术菇只不过是蘑菇村落中最普通的圆脑袋蘑菇，但是这一切都在它接触魔术世界的时候改变了。“对！我就是一个耀眼的明星！”魔术菇熟练地耍着手中的扑克，这是他认为自己最英俊的姿态。不要愚蠢地以为魔术菇的帽子里面藏了一只兔子，掀开它你就完蛋了！
+{KEYWORD}Merkmale:{STAT}Kann Zombies von vorne oder hinten angreifen.
+
+{KEYWORD}Pflanzenmerkmale:{STAT}Pilzfamilie
+{FLAVOR}Bevor er zum schillernden Zauberpilz wurde, war der Zauberpilz nur der gewöhnlichste Pilz mit dem runden Kopf im Pilzdorf. Doch das änderte sich, als er mit der magischen Welt in Berührung kam. „Ja! Ich bin ein schillernder Stern!“ Zauberpilz spielte gekonnt mit dem Schürhaken in seiner Hand, was er für seine schönste Haltung hielt. Glaub bloß nicht, dass sich im Hut des Zauberpilzes ein Kaninchen verbirgt. Wenn du es öffnest, bist du erledigt!
 
 [MAGICSHROOM_TOOLTIP]
-攻击前方或后方的僵尸。
+Greife Zombies von vorne oder hinten an.
 
 [MAGICSHROOM_PLANTFOOD]
-施展一次大变活僵的魔术！
+Führe einen Zaubertrick aus und verwandle dich in einen Zombie!
 
 [CHESTNUT]
-板栗小队
+Kastanien-Trupp
 
 [CHESTNUT_DESCRIPTION_HEADER]
-板栗小队可以召唤板栗小兵攻击前方一定区域内的僵尸。
+Der Kastanien-Trupp kann Kastaniensoldaten beschwören, um Zombies in einem bestimmten Bereich vor sich anzugreifen.
 
 [CHESTNUT_DESCRIPTION]
-{KEYWORD}特点：{STAT}召唤持续存在的板栗小兵
-{KEYWORD}植物特征：{STAT}绿色植物、攻守兼备、兄弟成群
-{FLAVOR}小板栗们最喜欢住在一起生活，当有人问起原因时，他们就会跟对方自豪地讲述一群刚毕业的小板栗挤在一栋小屋内艰苦奋斗，互相扶持，誓要出栗头地的故事。当然在故事的最后他们还会不忘小小地抱怨一下某个外号“靓仔”的小板栗挤占太多空间的不良行径……而跟他们认识了很多年的毛竹同学一句话道出了真相：“他们不过是没钱付房租罢了。”
+{KEYWORD}Merkmale: {STAT}Beschwört Kastaniensoldaten, die bestehen bleiben.
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen, sowohl offensiv als auch defensiv, Brüder in Gruppen.
+{FLAVOR}Kastanien leben gerne zusammen. Wenn jemand fragt, warum, erzählen sie stolz von einer Gruppe frischgebackener Kastanien, die sich in ein kleines Haus gequetscht, hart gearbeitet, sich gegenseitig unterstützt und geschworen haben, sich einen Namen zu machen. Natürlich werden sie am Ende der Geschichte nicht vergessen, sich über das schlechte Benehmen eines Kastanienjungen mit dem Spitznamen „hübscher Junge“ zu beschweren, der zu viel Platz einnahm … und Maozhu, ein Klassenkamerad, der sie schon lange kennt, sagte die Wahrheit: „Sie haben einfach kein Geld, um die Miete zu bezahlen.“
 
 [CHESTNUT_TOOLTIP]
-召唤板栗小兵攻击前方一定区域内的僵尸。
+Ruft Kastaniensoldaten herbei, um Zombies anzugreifen.
 
 [CHESTNUT_PLANTFOOD]
-召唤一支板栗小队向前冲锋。
+Rufe ein Kastanienteam herbei, um vorzustürmen.
 
 [RAFFLESIA]
-大王花
+Rafflesia
 
 [RAFFLESIA_DESCRIPTION_HEADER]
-大王花可以攻击前方躲在后方的僵尸。
+Rafflesia kann Zombies angreifen, die sich im Hintergrund verstecken.
 
 [RAFFLESIA_DESCRIPTION]
-{KEYWORD}特点：{STAT}攻击最后方的僵尸
-{KEYWORD}植物特征：{STAT}矮个子
-{FLAVOR}大王花是公园里最受孩子们欢迎的员工之一，每次他出现的地方总会被孩子们团团围住，大王花很享受这种感觉，“我吹泡泡的技术是最棒的！孩子们都很喜欢看我吹泡泡”每次他都这么向别人介绍自己。他不知道的是，别人在点头微笑的同时大多会感觉很疑惑：大王花不是负责卖气球的吗？
+{KEYWORD}Funktionen:{STAT}Zombies im Hintergrund angreifen
+{KEYWORD}Funktionen der Pflanze:{STAT}Kurz
+{FLAVOR}Rafflesia ist einer der beliebtesten Mitarbeiter im Park. Jedes Mal, wenn er auftaucht, ist er von Kindern umringt. Rafflesia genießt dieses Gefühl. „Ich kann Seifenblasen einfach super! Kinder sehen mir gerne dabei zu.“ So stellt er sich jedes Mal vor. Was er nicht weiß: Während die anderen nicken und lächeln, sind die meisten verwirrt: Ist Rafflesia nicht für den Verkauf von Luftballons zuständig?
 
 [RAFFLESIA_TOOLTIP]
-攻击躲在后方的僵尸。
+Hintere Zombies angreifen.
 
 [RAFFLESIA_PLANTFOOD]
-发射5颗子弹，攻击每行最后面的僵尸。
+Feuert 5 Kugeln ab und greift den letzten Zombie in jeder Reihe an.
 
 [ACORN]
-旋风橡果
+Zyklon-Eichel
 
 [ACORN_DESCRIPTION_HEADER]
-旋风橡果可以攻击前方一排的僵尸，并击断海象僵尸的牙齿。
+Zyklon-Eichel kann die Zombies in der Reihe vor ihm angreifen und den Walross-Zombies die Zähne brechen.
 
 [ACORN_DESCRIPTION]
-{KEYWORD}特点：{STAT}攻击前方一排僵尸，并击断海象僵尸的牙齿。
-{KEYWORD}植物特征：{STAT}旋风家族、龅牙小子
-{FLAVOR}旋风橡果非常喜欢运动。他曾经与回旋镖竞争过植物运动会飞盘表演赛的冠军，可惜后者用一手四方飞盘的技术打败了他。为了能在下一届运动会中能有出彩表现，他开始疯狂练习跑步，他对自己拥有玩飞盘的经验感觉信心满满：他已经可以利用旋转跑出最快的起步速度——副作用是冲出一段距离之后会回旋回来。
+{KEYWORD}Funktionen:{STAT}Greift die Zombies in der Reihe vor sich an und bricht dem Walross-Zombies die Zähne.
+
+{KEYWORD}Pflanzenfunktionen:{STAT}Zyklon-Familie, Hasenzahnjunge
+{FLAVOR}Zyklon-Eichel ist sehr sportbegeistert.Sie konkurrierte einmal mit Boomerang um die Meisterschaft im Frisbee-Schauwettbewerb der Pflanzenspiele, doch leider besiegte ihn Boomerang mit seiner vierseitigen Frisbee-Technik. Um beim nächsten Sporttreffen eine gute Leistung abzuliefern, begann er, wie verrückt zu rennen. Er vertraute auf seine Frisbee-Erfahrung: Er konnte die Rotation bereits nutzen, um mit höchster Startgeschwindigkeit zu laufen – der Nebeneffekt ist, dass er nach einer gewissen Strecke zurückdreht.
 
 [ACORN_TOOLTIP]
-攻击前方的僵尸，并能击断海象僵尸的牙齿。
+Greift Zombies an und zerbricht dem Walross-Zombies die Zähne.
 
 [ACORN_PLANTFOOD]
-挂起一阵旋风，对前方的僵尸造成巨大的伤害。
+Erzeugt einen Wirbelwind, der den Zombies vor sich großen Schaden zufügt.
 
 [STUNION]
-眩晕洋葱
-
-[STUNION_DESCRIPTION_HEADER]
-眩晕洋葱可以呼出令草坪上身边的僵尸眩晕的气团
+Zwierbel
 
 [STUNION_DESCRIPTION]
-{KEYWORD}用法：{STAT} 一次性使用，一旦僵尸靠近就会激活
-{KEYWORD}特点：{STAT}眩晕身边的僵尸
-{KEYWORD}植物特征：{STAT}橙色植物、矮个子
-{FLAVOR}哦，当然，每个人都知道眩晕洋葱作为战士以他强大的气团在战场上驰骋多年。但他可远不止这点本事。他是一个多才多艺的钢琴家。他会说五种流利的语言。哎呀，他在业余时间还是青葱年少组织的组长。这位老兄层次很多哦。来吧，一层层剥开，你就会看到。
+{KEYWORD}Nutzung: {STAT}Einfache Verwendung; wird aktiviert, wenn ein Zombie in der Nähe ist
+{KEYWORD}Funktionen: {STAT} Betäubt Zombies in der Nähe.
+{KEYWORD}Pflanzenfunktionen: {STAT} Orangefarbene Pflanzen, kurz
+{KEYWORD}Besonderheit: {STAT}Lähmt Zombies in der Nähe
 
-[STUNION_TOOLTIP]
-令草坪上身边的僵尸眩晕
+{FLAVOR}Natürlich kennt jeder die Zwierbel als kampfgestählten Krieger mit kräftigem Atem. Dabei kann sie noch so viel mehr. Sie spielt zauberhaft Klavier. Spricht fünf Sprachen fließend. In ihrer Freizeit leitet sie den Chor „Die flotten Schalotten“. Ein vielschichtiger Charakter!
+
+[STUNION_DESCRIPTION_HEADER]
+Zwierbeln atmen eine Gaswolke aus, die nahe stehende Zombies in der Reihe lähmt.
 
 [STUNION_PLANTFOOD]
-可以立刻向右侧三列草坪呼出一大朵眩晕气团。
+Atmet jäh eine große Wolke lähmenden Gases nach rechts, über drei Reihen hinweg.
+
+[STUNION_TOOLTIP]
+Lähmt nahe stehende Zombies in der Reihe
 
 [CHARDGUARD]
-甜菜护卫
-
-[CHARDGUARD_DESCRIPTION_HEADER]
-甜菜护卫是防守反击型植物，可以将僵尸击退。
+Mangold-Mangler
 
 [CHARDGUARD_DESCRIPTION]
-{KEYWORD}特点：{STAT}击退僵尸3次
-{KEYWORD}植物特征：{STAT}橙色植物
-{FLAVOR}你也许还记得WWF里(世界蔬叶摔角大赛)甜菜护卫的闪光时代。当时他获得“男仔中的男仔”金腰带，那真的是嗨翻全场，万众瞩目！他的动作！他的战风！他的气势！大家爱死他了。那个时候他确实是人气明星。当然，那也已经是之前的事情了。但是如今如果你仔细观察，当甜菜护卫和僵尸战斗的时候，你会看到他使用的正是看家招式-摔跤动作。称之为“一击入魂”的秘技-真是百用百中。
+{KEYWORD}Funktionen: {STAT} Schlägt Zombies bis zu dreimal.
+{KEYWORD}Pflanzenfunktionen: {STAT} Orangenpflanze
+{FLAVOR}Vielleicht erinnerst du dich an den Mangold-Mangler aus seiner Zeit bei der WWF (der World Wirsing Federation). Wenn er im Ring stand – Junge, was für eine Show! Seine Moves! Sein Stil! Seine Haltung! Die Menge liebte ihn, und er war eine Zeitlang der Star. Alles lange her! Aber wenn du dem Mangler genau zusiehst, kannst du sehen, wie er seine alten Tricks auf die Zombies anwendet. Das gute alte Hau-sie-um-Manöver zum Beispiel – das funktioniert einfach immer.
 
-[CHARDGUARD_TOOLTIP]
-拦截僵尸并将其击退
+[CHARDGUARD_DESCRIPTION_HEADER]
+Mangold-Mangler sind Defensiv-Blocker, die Zombies zurück schleudern können.
 
 [CHARDGUARD_PLANTFOOD]
-恢复全血，然后对6格范围内的僵尸造成伤害并击退。
+Lädt voll auf und schubst und schadet dann Zombies auf 6 angrenzenden Feldern.
+
+[CHARDGUARD_TOOLTIP]
+Blockt und schleudert Zombies 3 mal zurück
 
 [HURRIKALE]
-飓风甘蓝
-
-[HURRIKALE_DESCRIPTION_HEADER]
-飓风甘蓝吹出飓风将所有僵尸推出场外。
+Hurrikohl
 
 [HURRIKALE_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立刻生效
-{KEYWORD}特点：{STAT}向僵尸吹出飓风
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}可以说用“金刚无敌吹奏手”来形容飓风甘蓝真是一语中的。他是双年展爱乐乐团首席长号手。同时还精通小号，萨克斯和大号。但是，老兄，你应该看看他使用富鲁格号的演奏。哥们绝对是一绝~！
+{KEYWORD}Nutzung: {STAT}Einfache Verwendung, sofortige Wirkung
+
+{KEYWORD}Besonderheit: {STAT}Kühlt getroffene Zombies herunter
+
+{KEYWORD}Besonderheit: {STAT}Bläst fliegende Zombies in der eigenen Reihe fort
+
+{KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanzen
+
+{FLAVOR}Dem Hurrikohl geht so schnell nicht die Puste aus. Immerhin ist er der erste Posaunist des vielgerühmten Gemüsehausorchesters. Er spielt außerdem ganz gut Trompete, Saxophon und Tuba. Aber vor allem solltest du ihn mal am Flügelhorn hören, da geht er richtig ab.
+
+[HURRIKALE_DESCRIPTION_HEADER]
+Der Hurrikohl pustet alle Zombies in seiner Reihe mit einem eiskalten Wind zurück.
 
 [HURRIKALE_TOOLTIP]
-吹出将僵尸推至底线的飓风
+Bläst einen eiskalten Wind, der Zombies in seiner Reihe zurückdrängt
 
 [FIREPEASHOOTER]
 火焰豌豆射手
@@ -19708,151 +19717,154 @@ ca=拿到3星|把僵尸死光|等时间耗尽|拿到1星|
 在草坪挑选随机目标发射大量爆炸性辣椒，同时融化附近的冰块。
 
 [ZOMBIE_ICEAGE]
-洞穴僵尸
-
-[ZOMBIE_ICEAGE_DESCRIPTION_HEADER]
-普通的穴居僵尸
-
-[ZOMBIE_ICEAGE_DESCRIPTION]
-{FLAVOR}洞穴僵尸被通知要和植物开战时，正忙着在洞穴墙壁上绘制手印。他不清楚为什么要和植物开战，但他只希望可以尽快回来继续绘画。因为他当时正处于灵感迸发的状态，计划着诸多大作。总算艺术学校的磨练要有回报了。
+Der Höhlenzombie
 
 [ZOMBIE_ICEAGE_ARMOR1]
-洞穴路障僵尸
-
-[ZOMBIE_ICEAGE_ARMOR1_DESCRIPTION_HEADER]
-他头上巨大的号角路障筒使其比普通洞穴僵尸强壮2倍。
+Der Pylon-Höhlenzombie
 
 [ZOMBIE_ICEAGE_ARMOR1_DESCRIPTION]
-{FLAVOR}洞穴路障僵尸是第一个发明了圆锥路障的僵尸。号角的臃肿，到平庸的木化石都不是他的菜…于是突发奇想！一个圆锥锥体诞生了！圆锥路障的发明改变了僵尸的一切。一切的一切。
+{FLAVOR}Der Pylon-Höhlenzombie gilt als der Erfinder des Pylons. Er band ein Mammuthorn an ein Stück versteinertes Holz, und zack! Ein Pylon! Diese Erfindung sollte für die Zombies alles verändern. ALLES.
+
+[ZOMBIE_ICEAGE_ARMOR1_DESCRIPTION_HEADER]
+Mit seinem Mammuthorn-Pylon ist er doppelt so robust wie normale Höhlenzombies.
 
 [ZOMBIE_ICEAGE_ARMOR2]
-洞穴石桶僵尸
-
-[ZOMBIE_ICEAGE_ARMOR2_DESCRIPTION_HEADER]
-他的石桶帽子可以提供巨大的保护免受伤害。
+Der Eimer-Höhlenzombie
 
 [ZOMBIE_ICEAGE_ARMOR2_DESCRIPTION]
-{FLAVOR}洞穴石桶僵尸喜欢岩石。他喜欢许许多多的岩石。他把石头绑在头上，并把它称为桶。其他的洞穴僵尸没人知道什么叫“桶”，但他们喜欢他的风格。
+{FLAVOR}Der Eimer-Höhlenzombie mag Steine. Er LIEBT sie. Deshalb hat er sich einen an seinen Kopf gebunden und ihn „Eimer“ getauft. Die anderen Höhlenzombies wissen nicht, was ein „Eimer“ ist, aber sie mögen seinen Stil.
+
+[ZOMBIE_ICEAGE_ARMOR2_DESCRIPTION_HEADER]
+Sein Stein-„Eimer“ schützt hervorragend gegen Schaden.
 
 [ZOMBIE_ICEAGE_ARMOR3]
-冰砖僵尸
-
-[ZOMBIE_ICEAGE_ARMOR3_DESCRIPTION_HEADER]
-他头上的冰砖可以提供超强的保护免受伤害。
+Blockbirnen-Zombie
 
 [ZOMBIE_ICEAGE_ARMOR3_DESCRIPTION]
-{FLAVOR}有一天，一个洞穴僵尸低头探身到冰流里，经历了糟糕的一天，因此他在冰柱里躺了很长一段时间考虑生命的渺小。当他起身时才发现，他的脑袋被包裹在冰块里。最终，他的人生有了意义！他是独一无二的！他是冰砖僵尸！至少，他的故事始于他头上冻着这个。
+{FLAVOR}Eines Tages fiel ein Höhlenzombie kopfüber in einen Gletscherfluss. Der Tag war schon schlimm gewesen, und so lag er da im eiskalten Wasser und dachte über die eigene Bedeutungslosigkeit nach. Als er sich schließlich aufrappelte, war sein Kopf in Eis eingeschlossen. Nun hatte sein Leben einen Sinn! Er war einzigartig! Er war der Blockbirnen-Zombie! So lautet jedenfalls seine Version der Geschichte.
+
+[ZOMBIE_ICEAGE_ARMOR3_DESCRIPTION_HEADER]
+Der Eisblock auf seinem Kopf schützt ihn hervorragend gegen Schaden.
+
+[ZOMBIE_ICEAGE_DESCRIPTION]
+{FLAVOR}Der Höhlenzombie war ganz darin vertieft, seine Höhlenwand mit Handabdrücken zu verschönern, als er zum Kampf gegen die Pflanzen gerufen wurde. Er ist sich nicht sicher, warum er das tun soll, und hofft, bald wieder malen zu dürfen. Immerhin soll sich der Malkurs an der Zombie-VHS doch gelohnt haben.
+
+[ZOMBIE_ICEAGE_DESCRIPTION_HEADER]
+Ein ganz normaler Höhlenzombie.
 
 [ZOMBIE_ICEAGE_DODO]
-渡渡鸟骑士僵尸
-
-[ZOMBIE_ICEAGE_DODO_DESCRIPTION_HEADER]
-渡渡鸟带着一个小鬼僵尸。渡渡鸟可以起飞越过障碍和植物。
+Dodo-Reiter-Zombie
 
 [ZOMBIE_ICEAGE_DODO_DESCRIPTION]
-{FLAVOR}渡渡鸟骑士僵尸认为渡渡鸟是交通的未来。他认为，使用纳税人的钱建立公共渡渡鸟骑乘系统不仅仅是一个明智的开支，而且有助于绝大多数僵尸更迅速到达他们需要去的地方。每个人都告诉他，渡渡鸟没有前途，但他就是不听。
+{FLAVOR}Der Dodo-Reiter glaubt, dass Dodos das Fortbewegungsmittel der Zukunft sind. Für ihn steht fest, dass ein öffentliches Dodo-Transportsystem eine kluge Verwendung von Steuergeldern wäre – und alle Zombies schneller von A nach B bringen würde. Alle anderen zweifeln daran, dass Dodos die Zukunft sind, aber er will davon nichts hören.
+
+[ZOMBIE_ICEAGE_DODO_DESCRIPTION_HEADER]
+Ein Dodo-Vogel mit einem Wicht-Reiter. Der Dodo kann über Barrikaden und stressige Pflanzen flattern.
 
 [ZOMBIE_ICEAGE_FLAG]
-洞穴旗帜僵尸
-
-[ZOMBIE_ICEAGE_FLAG_DESCRIPTION_HEADER]
-标志着一大波冰雪僵尸的到来。
+Der Flaggen-Höhlenzombie
 
 [ZOMBIE_ICEAGE_FLAG_DESCRIPTION]
-{FLAVOR}洞穴旗帜僵尸干举旗这行已经很长一段时间了。可以说是他毕生的工作。他的确也很擅长。但有时，只是有时，他渴望改变。他想知道，是否他也能善长干点别的东西。他有时在想是否抛弃这个工作就会有一个全新的开始。他很确定他有中年危机。
+{FLAVOR}Der Flaggen-Höhlenzombie ist schon lange im Flaggenschwenkgeschäft tätig. Das ist sein Lebenswerk, und er ist gut darin. Doch ab und an sehnt er sich leise nach etwas Abwechslung. Vielleicht gibt es ja noch andere Dinge, die er gut könnte ... wie wäre es nur, alles zurück zu lassen und einen Neubeginn zu wagen! Das muss die Midlife-Crisis sein!
+
+[ZOMBIE_ICEAGE_FLAG_DESCRIPTION_HEADER]
+Kündigt die Ankunft einer großen, frostigen Zombiewelle an.
 
 [ZOMBIE_ICEAGE_GARGANTUAR]
-地懒巨人僵尸
-
-[ZOMBIE_ICEAGE_GARGANTUAR_DESCRIPTION_HEADER]
-披着地懒皮毛的巨人僵尸与小鬼僵尸的组合。背着3只雪人小鬼僵尸并且可以一次性全部投掷出去。
+Faultier-Gargantua
 
 [ZOMBIE_ICEAGE_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害：{STAT}使用冰锤摧毁植物
-{KEYWORD}特点：{STAT}当受到一定伤害就会投掷出雪人小鬼僵尸
-{FLAVOR}曾几何时，地懒巨人僵尸与雪人小鬼僵尸交恶。他用过香皂，药剂，甚至懒人口水牌药膏，试图摆脱他们......但是都无济于事。而今事实是，他已经慢慢习惯了他们的存在。该死的是很痒，而且他们总是很吵，唠叨不休。不过，在这一点上，如果真的把他们都清理掉了，他也许会有点怀念。
+{KEYWORD}Schaden: {STAT}Plättet Pflanzen mit einem Eiszapfen
+
+{KEYWORD}Besonderheit: {STAT}Schleudert Yeti-Wichte, wenn er Schaden nimmt
+
+
+
+{FLAVOR}Irgendwo hat sich der Faultier-Gargantua diese schrecklichen Yeti-Wichte eingefangen. Er hat alles versucht, um sie loszuwerden: Seife, Puder, eine Salbe aus Faultiersabber ... doch nichts funktionierte. Mittlerweile hat er sich an die juckenden Begleiter gewöhnt, auch wenn ihn ihr stetes Gezanke oft nervt. Wahrscheinlich würde er sie sogar vermissen, wenn sie nicht mehr da wären.
+
+[ZOMBIE_ICEAGE_GARGANTUAR_DESCRIPTION_HEADER]
+Ein massiver Zombie im Faultierpelz mit schwerem Wichtbefall. Trägt und wirft drei statt nur einen Wicht.
 
 [ZOMBIE_ICEAGE_HUNTER]
-猎人僵尸
-
-[ZOMBIE_ICEAGE_HUNTER_DESCRIPTION_HEADER]
-是个会对远距离的植物扔雪球直到它们冻起来的僵尸。
+Zombie-Jäger
 
 [ZOMBIE_ICEAGE_HUNTER_DESCRIPTION]
-{FLAVOR}哇嚓嚓嚓嚓...猎人僵尸其实并没有杀死过剑齿虎。他只是在一个旧货店里发现了这身虎皮。另外，他是一个素食主义者。别告诉任何人。
+{FLAVOR}Pssst ... der Zombie-Jäger hat den Säbelzahntiger gar nicht selbst erlegt. Er hat das Fell aus einem Trödelladen. Außerdem ist er Vegetarier. Aber nicht weitersagen!
+
+[ZOMBIE_ICEAGE_HUNTER_DESCRIPTION_HEADER]
+Der Zombie wirft Schneebälle, die Pflanzen zu Eisblöcken herunterkühlen.
 
 [ZOMBIE_ICEAGE_IMP]
-雪人小鬼僵尸
-
-[ZOMBIE_ICEAGE_IMP_DESCRIPTION_HEADER]
-被投掷出去可以越过你大部分的防线，然后漫步向前进。
+Yeti-Wicht
 
 [ZOMBIE_ICEAGE_IMP_DESCRIPTION]
-{FLAVOR}雪人小鬼僵尸最近拿起了针织棒。他开始学习织围巾，转而是织手套，最终他把野人僵尸所有的头发都剃掉拿来织出一身毛衣。当这些针织棒握在手中，他就会有从所未有的安宁。
+{FLAVOR}Der Yeti-Wicht hat neuerdings mit Stricken angefangen. Erst strickte er einen Schal, dann Handschuhe und schließlich einen Ganzkörperanzug – aus dem Haar, das er dem Yeti-Zombie abschnitt. Oh, wie gerne er strickt! Mit den Nadeln in den Händen fühlt er sich ruhiger als je zuvor.
+
+[ZOMBIE_ICEAGE_IMP_DESCRIPTION_HEADER]
+Wird über die meisten Verteidigungspflanzen geschleudert und zottelt dann weiter.
 
 [ZOMBIE_ICEAGE_TROGLOBITE]
-穴居僵尸
-
-[ZOMBIE_ICEAGE_TROGLOBITE_DESCRIPTION_HEADER]
-可以推动雪球穿越草坪的强壮僵尸。
+Troglobit
 
 [ZOMBIE_ICEAGE_TROGLOBITE_DESCRIPTION]
-{FLAVOR}穴居僵尸从有记忆开始就一直是从早到晚在推运冰砖越过苔原。这真是寒冷和疲惫的工作，坦率地说，他已经准备好要去度假休息了。他希望改变一下，去阳光明媚的地方。他想在沙滩上放松放松。他听说每年的这个时候大浪湾很不错。
+{FLAVOR}Der Troglobit schiebt, seit er denken kann, tagaus, tagein Eisklötze durch die Tundra. Eine kalte, anstrengende Arbeit! Er ist wirklich urlaubsreif und würde gerne mal wo hin, wo es warm und sonnig ist. Etwas am Strand abhängen. Der Riesenwellen-Strand soll um diese Jahreszeit ja schön sein!
+
+[ZOMBIE_ICEAGE_TROGLOBITE_DESCRIPTION_HEADER]
+Ein starker Zombie, der Eisblöcke über den Rasen schieben kann.
 
 [ZOMBIE_ICEAGE_WEASEL]
-冰鼬
-
-[ZOMBIE_ICEAGE_WEASEL_DESCRIPTION_HEADER]
-一旦被放出，冰鼬会全力冲刺，越过浮冰来啃咬你的脑子。
+Eiswiesel
 
 [ZOMBIE_ICEAGE_WEASEL_DESCRIPTION]
-{FLAVOR}嘶嘶-嗑-咦！
+{FLAVOR}Kri-KRIEEEE!
+
+[ZOMBIE_ICEAGE_WEASEL_DESCRIPTION_HEADER]
+Wenn sie einmal losgelassen werden, wetzen Wiesel wieselflink selbst über Eisschollen, um an deinem Hirn zu nagen.
 
 [ZOMBIE_ICEAGE_WEASELHOARDER]
-冰鼬僵尸
-
-[ZOMBIE_ICEAGE_WEASELHOARDER_DESCRIPTION_HEADER]
-这个僵尸隐蔽在携带一堆冰鼬的树桶里。一旦树桶被击破，冰鼬就会被释放出来。
+Wiesel-Horder
 
 [ZOMBIE_ICEAGE_WEASELHOARDER_DESCRIPTION]
-{KEYWORD}特点：{STAT}当受到伤害就会释放冰鼬
-{FLAVOR}冰鼬僵尸声称“来吧！我的小冰鼬”这首歌是她创作的。而现在，她一直要求版权费补偿。但大家都无视她。他们知道，冰鼬僵尸甚至连音都发不全，更不用说写出如此脍炙人口，朗朗上口的小调了。
+ {KEYWORD}Besonderheit: {STAT}Lässt Zombie-Eiswiesel los, wenn er Schaden nimmt{FLAVOR}. Der Wiesel-Horder beansprucht für sich, den Song „Pop! Goes the Weasel“ geschrieben zu haben. Und verlangt seit Äonen Tantiemen dafür. Aber die anderen ignorieren ihn einfach. Sie wissen, wie unmusikalisch er ist. Nie würde er einen witzigen Song darüber hinkriegen, wie ein zu fest gedrücktes Nagetier klingt!
+
+[ZOMBIE_ICEAGE_WEASELHOARDER_DESCRIPTION_HEADER]
+Zombie, der sich mit einem Rudel Schneewiesel in einem Klotz versteckt. Diese werden freigelassen, sobald der Klotz kaputt geht.
 
 [ZOMBIE_ZOMBOSSMECH_ICEAGE]
-獠牙征服者
-
-[ZOMBIE_ZOMBOSSMECH_ICEAGE_DESCRIPTION_HEADER]
-来自远古时代的长毛象可以喷射雪球。
+Zombot-Stoßzahn-Meister 10.000 BC
 
 [ZOMBIE_ZOMBOSSMECH_ICEAGE_DESCRIPTION]
-{FLAVOR}僵尸博士自己也没想到自己能想出要造一个使用机械机能喷射冰雪的武装猛犸的主意。 但僵尸博士当时并没有意识到，他对长毛象的皮毛过敏。现在，每当他想要透口气把脏东西排出时，不得不服用抗过敏药。
+{FLAVOR}Dr. Zomboss war von sich selbst beeindruckt, als ihm die Idee kam, ein bewaffnetes, kuschliges Mechanik-Mammut zu bauen, das Schnee und Eis speien kann. Woran er nicht dachte: Er ist allergisch gegen Mammutfell. Jetzt muss er tonnenweise Antihistaminika einwerfen, bevor er mit dem Ding eine Runde dreht.
+
+[ZOMBIE_ZOMBOSSMECH_ICEAGE_DESCRIPTION_HEADER]
+Das Mecha-Mammut mit urzeitlichem Eis-Atem.
 
 [ZOMBIE_ICEAGE_SKI]
-滑雪僵尸
+Ski-Zombie
 
 [ZOMBIE_ICEAGE_SKI_DESCRIPTION_HEADER]
-滑雪僵尸可以从趴下的海象僵尸身上起飞。
+Der Ski-Zombie kann vom liegenden Walross-Zombie abheben.
 
 [ZOMBIE_ICEAGE_SKI_DESCRIPTION]
-{FLAVOR} 滑雪僵尸喜欢挑战和冒险，他非常希望能像小时候看的那些表演者一样，从一个小斜坡上起飞，在空中做出各种复杂动作，然后安然落地。于是在他成年之后，他勇敢地去尝试了——当年的他还是太小了，看不到表演场地前竖着一块牌子：危险动作，切勿模仿……
+{FLAVOR} Der Ski-Zombie liebt Herausforderungen und Abenteuer. Er möchte unbedingt so sein wie die Artisten, die er als Kind gesehen hat: von einem kleinen Hang abheben, komplexe Bewegungen in der Luft ausführen und sicher landen. Als Erwachsener versuchte er es mutig – er war damals noch zu jung und konnte das Schild vor dem Veranstaltungsort nicht sehen: „Gefährliche Bewegungen, nicht nachahmen …“
 
 [ZOMBIE_ICEAGE_WALRUS]
-海象僵尸
+Walross-Zombie
 
 [ZOMBIE_ICEAGE_WALRUS_DESCRIPTION_HEADER]
-体力耗尽后会趴下来休息。
+Wenn er erschöpft ist, legt er sich hin, um sich auszuruhen und ein Ski Zombie nutzt ihn als Rampe.
 
 [ZOMBIE_ICEAGE_WALRUS_DESCRIPTION]
-{FLAVOR} 海象僵尸一直对自己的体重不满意，于是它给自己制定了一个计划：每天跑步五公里。可是当他开始实施这个计划的时候，他发现自己忽略了一个严重的问题：他没有脚……没有脚怎么能跑“步”呢？他想了很久也没有解决这个问题，于是他决定在没有解决这个问题之前无限期搁置这个计划……
+{FLAVOR} Der Walross-Zombie war schon immer unzufrieden mit seinem Gewicht und fasste deshalb einen Plan: Jeden Tag fünf Kilometer laufen. Doch als er diesen Plan in die Tat umsetzte, stellte er fest, dass er ein gravierendes Problem übersehen hatte: Er hatte keine Füße ... Wie sollte er ohne Füße laufen? Er dachte lange darüber nach, konnte das Problem aber nicht lösen und beschloss, den Plan auf unbestimmte Zeit zu verschieben, bis er dieses Problem gelöst hatte ...
 
 [ZOMBIE_ICEAGE_CHIEF]
-冰风酋长僵尸
+Eiswind-Häuptling-Zombie
 
 [ZOMBIE_ICEAGE_CHIEF_DESCRIPTION_HEADER]
-能吹出寒风，冻结前方的植物
+Kann kalten Wind blasen und die Pflanzen davor einfrieren.
 
 [ZOMBIE_ICEAGE_CHIEF_DESCRIPTION]
-{FLAVOR} 冰风酋长僵尸通过一次吹树叶大赛击败了其他的僵尸当选了整个部落的酋长，俗话说新僵上任三把火，于是他决定在整个部落举行一次运动会，闻讯而来的有著名跑步健将渡渡鸟骑士僵尸和滑雪僵尸、著名举重选手穴居僵尸、著名铁饼运动员地懒巨人僵尸等……这一次的运动会有且仅有一个项目：吹气球……
+{FLAVOR}Der Eiswind-Häuptling-Zombie besiegte andere Zombies in einem Laubbläserwettbewerb und wurde zum Häuptling des gesamten Stammes gewählt. Wie das Sprichwort sagt, hat ein neuer Zombie bei seinem Amtsantritt drei Dinge zu tun, also beschloss er, ein Sporttreffen für den gesamten Stamm abzuhalten. Als er die Neuigkeiten hörte, waren unter den berühmten Läufern Dodo Zombie und Ski Zombie, der berühmte Gewichtheber Höhlen Zombie, der berühmte Diskuswerfer Faultier-Gargantua usw. ... Dieses Mal gibt es bei dem Sporttreffen nur eine Disziplin: Luftballons pusten ...
 
 [ZOMBIE_SLIMES]
 Schleim-Zombie
@@ -25915,11 +25927,13 @@ WEASEL ENSEMBLE
 
 [DANGER_ROOM_FUTURE_TITLE_WELCOME]
 欢迎来到未来的恐惧！
+
 [DANGER_ROOM_ICEAGE_LEVEL_NAME]
-冰封的战场-第 {LEVEL_NUMBER} 关
+Eisiges Schlachtfeld – Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_ICEAGE_TITLE_WELCOME]
-欢迎来到冰封的战场！
+Willkommen auf dem Eisigen Schlachtfeld!
+
 [DANGER_ROOM_LOSTCITY_LEVEL_NAME]
 失落的恐惧-第 {LEVEL_NUMBER} 关
 
@@ -27600,6 +27614,7 @@ Du musst mit Google Play verbunden sein, um Erfolge und Ranglisten nutzen zu kö
 
 [GOOGLE_PLAY_FAILED_HEADER]
 Nicht mit GOOGLE PLAY verbunden
+
 [GRAPESHOT]
 Explodierende Trauben
 [GRAPESHOT_DESCRIPTION]
@@ -27616,10 +27631,12 @@ Explodieren und Geschosse schleudern
 
 [HES_GOT_YOUR_BACK]
 Pass auf, ob du hinter dir bist – und vor dir!
+
 [HOURS]
-Stunden
+h
 [ICEAGE_DANGER_ROOM_NAME]
-Eiszeit-Gefahr
+Eisiges Schlachtfeld
+
 [INGAME_RESTORE_PURCHASE_ITEM_BUTTON]
 Holen
 
@@ -28011,8 +28028,9 @@ PIÑATA 派对
 接受
 [MAINMENU_LEGAL_READ_AND_ACCEPTED]
 我已阅读并接受：
+
 [MINUTES]
-分钟
+m
 
 [MKTG_EIGHTIES_1]
 《植物大战僵尸2》的粉丝们，你们好！摇滚年代（A面）在此。我们对游戏做了些小小的调整，确保能够让你们乐翻天。感谢你们的热情参与！像往常一样，敬请分享你们对游戏的看法，并在每次更新后为我们打分。
@@ -28054,10 +28072,10 @@ Super-Z-Liga
 Industrielle Revolution – Tag {LEVEL_NUMBER}
 
 [RENAI_LEVEL_NAME]
-Renaissance – Tag {LEVEL_NUMBER}
+Renaissance Ära – Tag {LEVEL_NUMBER}
 
 [RENAI_FINALE_NAME]
-Renaissance – Letzte Herausforderung
+Renaissance Ära – Letzte Herausforderung
 
 [STEAM_FINALE_NAME]
 Industrielle Revolution– Letzte Herausforderung
@@ -65561,7 +65579,7 @@ Märchenwald – Der Märchen-Zombie-Boss
 拖动车辆进行移动，在规定的步数内，让戴夫能够回到住宅中！
 
 [PLAYERS_TRIP_TO_ICEAGENIGHTMARE]
-{PLAYER}的冰河噩梦
+{PLAYER}的冰河噩
 
 [ACCOUNT_REMOVE_CONTENT_1]
 亲爱的玩家，您正在进行账号删除操作，继续将会导致：
@@ -74404,7 +74422,7 @@ Die Erbsenapothekerin wirft eine Flasche Schattentrank auf die drei Zombies, die
 Unterwasserwelt – Letzte Herausforderung
 
 [HEIAN_LEVEL_NAME]
-Heian-Zeit – Tag {LEVEL_NUMBER} 
+Heian Ära – Tag {LEVEL_NUMBER} 
 
 [ATLANTIS_LEVEL_NAME]
 Unterwasserwelt – Tag {LEVEL_NUMBER}
