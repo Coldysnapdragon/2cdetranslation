@@ -3893,10 +3893,10 @@ Bowling-Bubbles dürfen nur links vom Warnschild gepflanzt werden.
 Kann nur in den drei Spalten links gepflanzt werden.
 
 [ADVICE_PLANT_LILYPADS_ON_WET]
-Seerosen dürfen nur rechts von der Hochwasserlinie gepflanzt werden.
+Seerosenblätterblätter dürfen nur rechts von der Hochwasserlinie gepflanzt werden.
 
 [ADVICE_PLANT_LILYPADS_ON_ROAD]
-Seerosen dürfen nur in Schwimmbecken gepflanzt werden.
+Seerosenblätter dürfen nur in Schwimmbecken gepflanzt werden.
 
 [ADVICE_HOTPOTATO_ONLY_ON_ICEBLOCKS]
 Heißekartoffeln dürfen nur auf Eisblöcken gepflanzt werden.
@@ -17077,18 +17077,18 @@ Die Lenkdistel feuert Zielsuchraketen auf das nächstgelegene Ziel ab.
 Greift das Ziel ganz links an.
 
 [LILYPAD]
-Seerosenblatt
+Seerosenblätterblatt
 
 [LILYPAD_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Kann Pflanzen anbauen, die nicht im Wasser wachsen.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen, Wasserpflanzen, kleine Menschen.
-{FLAVOR}Nur wenige wissen, dass das Seerosenblatt Square Dance liebt. Sobald es die Bühne betrat, rutschte eswie eine Scheibe über die Tanzfläche und fegte über den gesamten Saal. Besonders liebte es das Gefühl, bei dieser Art des Tanzens die Grenzen zu überschreiten und durch die Luft zu schweben.
+{FLAVOR}Nur wenige wissen, dass das Seerosenblätterblatt Square Dance liebt. Sobald es die Bühne betrat, rutschte eswie eine Scheibe über die Tanzfläche und fegte über den gesamten Saal. Besonders liebte es das Gefühl, bei dieser Art des Tanzens die Grenzen zu überschreiten und durch die Luft zu schweben.
 
 [LILYPAD_DESCRIPTION_HEADER]
-Auf dem Seerosenblatt können Pflanzen angebaut werden, die nicht im Wasser wachsen.
+Auf dem Seerosenblätterblatt können Pflanzen angebaut werden, die nicht im Wasser wachsen.
 
 [LILYPAD_TOOLTIP]
-Nicht-Wasserpflanzen können auf dem Seerosenblatt gepflanzt werden.
+Nicht-Wasserpflanzen können auf dem Seerosenblätterblatt gepflanzt werden.
 
 [TANGLEKELP]
 Schlingtang
@@ -25337,13 +25337,13 @@ Kürbislaternen können nicht auf Eisenbahnwaggons gepflanzt werden.
 Pflanzen können nicht auf Kratern gepflanzt werden.
 
 [ADVICE_NOT_ON_LILYPAD]
-Bodenpflanzen können nicht auf Seerosenblättern gepflanzt werden.
+Bodenpflanzen können nicht auf Seerosenblätterblättern gepflanzt werden.
 
 [ADVICE_PLANT_FOOD_NOT_SIMULTANEOUS]
 Spezialdünger erzeugt zu viele Pflanzen.
 
 [ADVICE_PLANT_MORE_LILYPADS]
-Versuchen Sie, mehr Seerosenblätter zu platzieren.
+Versuchen Sie, mehr Seerosenblätterblätter zu platzieren.
 
 [ADVICE_PLANT_NOT_ON_ARCADE_MACHINE]
 Pflanzen können nicht auf einer Spielkonsole gepflanzt werden.
@@ -31461,7 +31461,7 @@ Wiederholkosten: {COST}
 Sekunden
 
 [SEED_CHOOSER_NO_LILY_PAD_WARNING]
-Du hast keine Seerosenblätter ausgewählt. Möchtest du wirklich fortfahren?
+Du hast keine Seerosenblätterblätter ausgewählt. Möchtest du wirklich fortfahren?
 
 [SEED_CHOOSER_RECALL_PLANTS]
 Zurücksetzen
@@ -69849,10 +69849,10 @@ Schießt auf den fächerförmigen Bereich (ca. 3×4) vor euch und trifft ihn. Es
 Schwimmt auf der Wasseroberfläche und transportiert Pflanzen, die nicht im Wasser wachsen. Diese können dann am Big Wave Beach angepflanzt werden.
 
 [LILYPAD_PLANTFOOD_DESCRIPTION]
-Generiert ein Seerosenblatt über, unter, links und rechts von sich selbst.
+Generiert ein Seerosenblätterblatt über, unter, links und rechts von sich selbst.
 
 [LILYPAD_AVATAR_PLANTFOOD_DESCRIPTION]
-Generiert ein Seerosenblatt im 3×3-Bereich mit sich selbst als Mittelpunkt^ff0000^. ^oldclr^
+Generiert ein Seerosenblätterblatt im 3×3-Bereich mit sich selbst als Mittelpunkt^ff0000^. ^oldclr^
 
 [BOWLINGBULB_NEW_SKILL_LEVEL1_DES]
 当有僵尸出现在保龄泡泡右侧时，保龄泡泡会将三个保龄球依次发射出去。保龄球击中僵尸后会以 45°的偏角发生反弹，此后每次偏转 90°。保龄泡泡本身每隔约 4 秒会恢复一个保龄球。保龄泡泡会优先发射和恢复攻击力最小的保龄球
