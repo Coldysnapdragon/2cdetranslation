@@ -11531,7 +11531,7 @@ Nicht genug Hammer
 功夫世界下半部分的三星解锁已经开启！
 
 [STARCHALLENGE_KONGFU_FINALE]
-Erfolgreich einer großen Welle von Kung-Fu-Zombies widerstanden.
+Wiederstehe einer großen Welle von Kung-Fu-Zombies.
 
 [STARCHALLENGE_KONGFU_FINALE_NAME]
 Der letzte Tag
@@ -14822,10 +14822,10 @@ Der metallverstärkte Pylon bietet seinem Piloten phänomenalen Schutz.
 Sonnenbomben
 
 [STARCHALLENGE_FUTURE_CONVEYOR]
-Erfolgreich einer großen Zombiewelle widerstanden.
+Überlebe eine große Zombiewelle.
 
 [STARCHALLENGE_SUNBOMBS]
-Erfolgreich einer großen Zombiewelle widerstanden.
+Überlebe eine große Zombiewelle und versorge dich mit Sonnenbomben.
 
 [STARCHALLENGE_SINGLE_NAME]
 Allein
