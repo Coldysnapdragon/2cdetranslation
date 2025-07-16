@@ -3887,22 +3887,22 @@ Schießt mit Erbsen auf den Feind.
 Ebbe!
 
 [ADVICE_PLANT_BOWLING_FOUL_LINE]
-保龄泡泡只能种在警示牌左侧
+Bowling-Bubbles dürfen nur links vom Warnschild gepflanzt werden.
 
 [ADVICE_PLANT_NEW_BOWLING_FOUL_LINE]
-只能种植在左边三列
+Kann nur in den drei Spalten links gepflanzt werden.
 
 [ADVICE_PLANT_LILYPADS_ON_WET]
-莲叶只能种在涨潮线的右侧
+Seerosen dürfen nur rechts von der Hochwasserlinie gepflanzt werden.
 
 [ADVICE_PLANT_LILYPADS_ON_ROAD]
-莲叶只能种在泳池里
+Seerosen dürfen nur in Schwimmbecken gepflanzt werden.
 
 [ADVICE_HOTPOTATO_ONLY_ON_ICEBLOCKS]
-烤马铃薯只能种植在冰块之上
+Heißekartoffeln dürfen nur auf Eisblöcken gepflanzt werden.
 
 [PLEASE_ENTER_NAME]
-请输入您的名字：
+Bitte geben Sie Ihren Namen ein:
 
 [POTATOMINE]
 土豆地雷
@@ -10195,93 +10195,92 @@ Start nicht möglich
 恭喜你获得了累充奖励！赶紧选择一颗植物吧！
 
 [RECHARGE]
-充值
+Aufladen
 
 [RECHARGE_PACKAGE_REWARD_TITLE]
-充值礼包
+Geschenkpaket aufladen
 
 [RECHARGE_PACKAGE_FIRST_RECHARGE_TITLE]
-首充礼包
+Geschenkpaket zum ersten Aufladen
 
 [RECHARGE_TOTAL_NUM]
-已充值{NUMBER}元
+{NUMBER} Yuan aufgeladen
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
-已充值****元
+**** Yuan aufgeladen
 
 [RECHARGE_HIDE_BTN]
-隐藏
+Ausblenden
 
 [RECHARGE_SHOW_BTN]
-显示
+Einblenden
 
 [RECHARGE_NOTICE_TITLE]
-累计充值有好礼！
+Kumulative Aufladungen bringen Geschenke!
 
 [RECHARGE_NOTICE_DESC_FOR_LOTTERY]
-游戏内累计充满2元，游戏内获得双倍金币收入，购买金币植物更迅速！
-累计充满6元，每日可参与2次幸运抽奖！幸运大礼随你挑！
-累计充值满10元，即可获得超值随机植物礼包！
-累计充满20元，永久开启游戏内2倍速，战斗僵尸更给力！
-累计充满30元，立即获赠游戏内大神器--樱桃炸弹！大范围高伤害！
-从此秒杀僵尸不是梦！
+Lade insgesamt 2 Yuan im Spiel auf, verdoppele dein Goldmünzeneinkommen und kaufe schneller Goldmünzenpflanzen!
+Lade insgesamt 6 Yuan auf und nimm täglich an zwei Verlosungen teil! Wähle dein Glücksgeschenk!
+Mit einer Gesamtaufladung von 10 Yuan erhältst du ein supergünstiges Geschenkpaket mit zufälligen Pflanzen!
+Mit einer Gesamtaufladung von 20 Yuan öffnest du das Spiel dauerhaft mit doppelter Geschwindigkeit und kannst Zombies noch kraftvoller bekämpfen!
+Mit einer Gesamtaufladung von 30 Yuan erhältst du sofort das großartige Artefakt des Spiels: die Kirschbombe! Hoher Schaden!
+Ab sofort ist es kein Traum mehr, Zombies in Sekundenschnelle zu töten!
 
 [RECHARGE_NOTICE_DESC]
-游戏内累计充满2元，游戏内获得双倍金币收入，购买金币植物更迅速！
-累计充值满10元，即可获得超值随机植物礼包！
-累计充满20元，永久开启游戏内2倍速，战斗僵尸更给力！
-累计充满30元，立即获赠游戏内大神器--樱桃炸弹！大范围高伤害！
-从此秒杀僵尸不是梦！
+Mit einer Gesamtaufladung von 2 Yuan im Spiel verdoppelst du deine Goldmünzen-Einnahmen und kannst Goldmünzen-Pflanzen schneller kaufen!
+Mit einer Gesamtaufladung von 10 Yuan erhältst du ein supergünstiges Geschenkpaket mit zufälligen Pflanzen!
+Mit einer Gesamtaufladung von 20 Yuan öffnest du das Spiel dauerhaft mit doppelter Geschwindigkeit und kannst Zombies noch kraftvoller bekämpfen! Mit einer Gesamtaufladung von 30 Yuan erhältst du sofort das großartige Artefakt des Spiels: die Kirschbombe! Gewaltiger Schaden!
+Ab sofort ist das Töten von Zombies in Sekundenschnelle kein Traum mehr!
 
 [TOTAL_LOGIN_DAYS]
-{DAY_COUNT}天
+{DAY_COUNT} Tage
 
 [STORE_GIFT_LUXURY_GIFT]
-至尊无敌大礼包
+Super-unbesiegbares Geschenkpaket
 
 [STORE_GIFT_ONSALE_GIFT]
-圣诞促销大礼包
+Weihnachtsgeschenkpaket
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT]
-冰冻生菜装扮
+Eissalatkleid
 
 [STORE_GIFT_LABORDAY_CHERRYBOOM_GIFT]
-樱桃装扮
+Kirschkleid
 
 [STORE_GIFT_LABORDAY_ONE_GIFT]
-攻守兼备包
+Offensiv- und Defensivpaket
 
 [STORE_GIFT_LABORDAY_TWO_GIFT]
-好评双件套
+Zweiteiliges Set mit guten Bewertungen
 
 [STORE_GIFT_LABORDAY_THREE_GIFT]
-加农炮组合
+Kanonenset
 
 [STORE_GIFT_LABORDAY_FOUR_GIFT]
-豌豆组合包
+Erbsenset
 
 [STORE_GIFT_LABORDAY_FIVE_GIFT]
-杀鸡放火包
+Töte das Huhn und zünde das Huhn
 
 [STORE_GIFT_LABORDAY_SIX_GIFT]
-功夫双件套
+Kung-Fu-Zweiteiler
 
 [STORE_GIFT_LABORDAY_SEVEN_GIFT]
-玉米组合包
+Mais-Set
 
 [STORE_GIFT_LUXURY_GIFT_DESC]
-包含冰西瓜、变身茄子、椰子加农炮、闪电芦苇、钢地刺、高坚果的高富帅碾压大礼包。
+Enthält Eiswassermelone, Aubergine, Kokosnusskanone, Blitzrohr, Stahlstacheln und hohe Nüsse.
 
 [STORE_GIFT_ONSALE_GIFT_DESC]
-包含冰西瓜、闪电芦苇、高坚果的新手促销礼包。
+Enthält Eiswassermelone, Blitzrohr und hohe Nüsse.
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT_DESC]
-冰冻生菜装扮
-^009900 (限时5.1-5.7)^oldclr
+Eisburger-Outfit
+^009900 (Begrenzte Zeit 5.1–5.7)^oldclr
 
 [STORE_GIFT_LABORDAY_CHERRYBOOM_GIFT_DESC]
-樱桃炸弹装扮
-^009900 (限时5.1-5.7)^oldclr
+Kirschbomben-Outfit
+^009900 (Begrenzte Zeit 5.1–5.7)^oldclr
 
 [STORE_GIFT_LABORDAY_ICEBURG_DESC]
 最新冰冻生菜装扮！
@@ -10782,55 +10781,55 @@ Start nicht möglich
 你已经拥有了^00FF00 %s^oldclr 和^00FF00 %d/%d^oldclr 的^00FF00 %s^oldclr ，原价^00FF00 %d钻石^oldclr 的礼包只需要^00FF00 %d钻石^oldclr 即可获得！
 
 [REPEATER_AVATAR_NAME]
-双重射手装扮
+Doppelschützen-Outfit
 
 [BONKCHOY_AVATAR_NAME]
-菜问装扮
+Naiwen-Outfit
 
 [COCONUTCANNON_AVATAR_NAME]
-椰子加农炮装扮
+Kokosnusskanonen-Outfit
 
 [PEAPOD_AVATAR_NAME]
-豌豆荚装扮
+Erbsenschoten-Outfit
 
 [SPIKEWEED_AVATAR_NAME]
-地刺装扮
+Stachel-Outfit
 
 [SPIKEROCK_AVATAR_NAME]
-钢地刺装扮
+Stahlstachel-Outfit
 
 [KERNELPULT_AVATAR_NAME]
-玉米投手装扮
+Körnerpult-Outfit
 
 [CARROTLAUNCHER_AVATAR_NAME]
-胡萝卜装扮
+Karotten-Outfit
 
 [DANDELION_AVATAR_NAME]
-蒲公英装扮
+Löwenzahnkleid
 
 [BROCCOLI_AVATAR_NAME]
-花菜装扮
+Blumenkohlkleid
 
 [PAMEGRANATE_AVATAR_NAME]
-石榴装扮
+Granatapfelkleid
 
 [PUFFSHROOM_AVATAR_NAME]
-小喷菇装扮
+Kleiner Sprühpilz Kleid
 
 [FUMESHROOM_AVATAR_NAME]
-大喷菇装扮
+Stinkpilz kleid
 
 [HYPNOSHROOM_AVATAR_NAME]
-魅惑菇装扮
+Hypnopilz kleid
 
 [SUNSHROOM_AVATAR_NAME]
-阳光菇装扮
+Sonnenpilz kleid
 
 [PEANUT_AVATAR_NAME]
-花生装扮
+Erbs-Nuss kleid
 
 [MAGNETSHROOM_AVATAR_NAME]
-磁力菇装扮
+Magnetpilzkleid
 
 [STREETLAMP_AVATAR_NAME]
 Straßenlaternen-Kostüm
@@ -10914,88 +10913,90 @@ Rüben-Outfit
 Zwiebel-Outfit
 
 [ACTIVITY_DOUBLE_COINS]
-活动时间！获得双倍的金币奖励！
+Aktivitätszeit! Hol dir doppelte Goldmünzen-Belohnungen!
 
 [RECHARGE_DOUBLE_COINS]
-累计充值特权！获得双倍的金币奖励！
+Gesammelte Aufladeprivilegien! Hol dir doppelte Goldmünzen-Belohnungen!
 
 [ACTIVITY_RECHARGE_URFOLD_COINS]
-活动时间及累计充值特权双重奖励！获得四倍的金币奖励！
+Aktivitätszeit und gesammelte Aufladeprivilegien verdoppeln sich! Hol dir vierfache Goldmünzen-Belohnungen!
 
 [STORE_GIFT_LUXURY_GIFT_BUY_FINISH]
-恭喜您已获得至尊无敌大礼包！ 
-礼包包含冰西瓜、变身茄子、椰子加农炮、闪电芦苇、钢地刺、高坚果
+Herzlichen Glückwunsch zum Supreme Invincible Geschenkpaket!
+
+Das Geschenkpaket enthält Eiswassermelone, Transformierte Aubergine, Kokosnusskanone, Blitzrohr, Stahl-Erdspieß und Hohe Nüsse.
 
 [STORE_GIFT_ONSALE_GIFT_BUY_FINISH]
-恭喜您已获得圣诞促销大礼包！
-礼包包含冰西瓜、闪电芦苇、高坚果的新手促销礼包。
+Herzlichen Glückwunsch zum Weihnachtsgeschenkpaket!
+
+Das Geschenkpaket enthält Eiswassermelone, Blitzrohr und Hohe Nüsse für Anfänger.
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT_BUY_FINISH]
-恭喜您已获得冰冻生菜装扮礼包！
+Herzlichen Glückwunsch zum Eisburger-Ankleidepaket!
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT_BUY_FINISH]
-恭喜您已获得三重射手装扮装扮礼包！
+Herzlichen Glückwunsch zum Dreifach-Shooter-Ankleidepaket!
 
 [STORE_GIFT_LABORDAY_CHERRYBOOM_GIFT_BUY_FINISH]
-恭喜您已获得樱桃炸弹装扮装扮礼包！
+Herzlichen Glückwunsch zum Kirschbomben-Ankleidepaket!
 
 [STORE_GIFT_LABORDAY_ONE_GIFT_BUY_FINISH]
-恭喜您已获得攻守兼备植物套装！
-礼包包含冰西瓜，高坚果。
+Herzlichen Glückwunsch zum Angriffs- und Verteidigungspflanzen-Set!
+Das Paket enthält Eiswassermelone und hohe Nüsse.
 
 [STORE_GIFT_LABORDAY_TWO_GIFT_BUY_FINISH]
-恭喜您已获得好评装扮两件套！
-礼包包含双重射手装扮，菜问装扮。
+Herzlichen Glückwunsch zum zweiteiligen „Gute Bewertungen“-Ankleidepaket!
+Das Paket enthält die Doppelschützen-Anziehsachen und die Caiwen-Anziehsachen.
 
 [STORE_GIFT_LABORDAY_THREE_GIFT_BUY_FINISH]
-恭喜您已获得加农炮组合包！
-礼包包含椰子加农炮，椰子加农炮装扮。
+Herzlichen Glückwunsch zum Kanonenpaket!
+Das Paket enthält die Kokosnusskanone und das Kokosnusskanonenkostüm.
 
 [STORE_GIFT_LABORDAY_FOUR_GIFT_BUY_FINISH]
-恭喜您已获得豌豆组合包！
-礼包包含豌豆荚，豌豆荚装扮。
+Herzlichen Glückwunsch zum Erbsenpaket!
+Das Paket enthält die Erbsenschote und das Erbsenschotekostüm.
 
 [STORE_GIFT_LABORDAY_FIVE_GIFT_BUY_FINISH]
-恭喜您已获得杀鸡放火包！
-礼包包含闪电芦苇，火炬树桩。
+Herzlichen Glückwunsch zum Hühner- und Feuerpaket!
+Das Paket enthält das Blitzrohr und den Fackelstumpf.
 
 [STORE_GIFT_LABORDAY_SIX_GIFT_BUY_FINISH]
-恭喜您已获得功夫植物两件套！
-礼包包含火葫芦，仙桃。
+Herzlichen Glückwunsch zum Kung-Fu-Pflanzen-Zweiteiler!
+Das Paket enthält den Feuerkürbis und den Feenpfirsich.
 
 [STORE_GIFT_LABORDAY_SEVEN_GIFT_BUY_FINISH]
-恭喜您已获得玉米组合包！
-礼包包含玉米投手，玉米投手装扮。
+Herzlichen Glückwunsch! Du hast das Maispaket erhalten!
+Das Paket enthält einen Maiskrug und ein Maiskrugkostüm.
 
 [STORE_SALE_ALL_GIFT]
-您已购买了本期所有的礼包！
+Du hast alle Geschenkpakete dieser Ausgabe gekauft!
 
 [KONGFU_STRING_START]
-功夫世界文字配置开始
+Kungfu-Welt-Textkonfiguration beginnt
 
 [KEY_GATE_COMING_SOON]
-即将开启
+Demnächst verfügbar
 
 [WAIT_FOR_BOSS_COMING_TIP]
-“终极”挑战
+„Ultimative“ Herausforderung
 
 [WAIT_FOR_FUTURE_BOSS_COMING_DES]
-僵尸博士即将降临，敬请期待
+Dr. Zomboss erscheint bald, bitte bleiben Sie dran!
 
 [WAIT_FOR_DARK_BOSS_COMING_DES]
-僵尸博士即将降临，敬请期待
+Dr. Zomboss erscheint bald, bitte bleiben Sie dran!
 
 [PLAYERS_TRIP_TO_KONGFU]
-{PLAYER}的功夫世界之旅
+{PLAYER}s Reise zur Kungfu Ära!
 
 [KONGFU_LEVEL_NAME]
-功夫世界-第{LEVEL_NUMBER}天
+Kungfuwelt – Tag {LEVEL_NUMBER}
 
 [RNDBOSS_LEVEL_NAME]
-穿越时空僵王挑战
+Zeitreisende Zombiekönig-Herausforderung
 
 [PLANT_ADVENTURE]
-植物探险
+Pflanzenabenteuer
 
 [PLANT_ADVENTURE_FINISHED_FAILED]
 网络不给力哦，请重新联网后再试
@@ -15622,118 +15623,116 @@ Greift die Zombies vor sich an.
 可以随着自身的成长释放越来越强大的法术攻击前方的僵尸。
 
 [DARK_LEVEL_NAME]
-黑暗时代-第{LEVEL_NUMBER}天
+Mittelalter - Nacht {LEVEL_NUMBER}
 
 [DARKAGES_LEVEL_NAME]
-黑暗时代-第{LEVEL_NUMBER}天
+Mittelalter - Nacht {LEVEL_NUMBER}
 
 [WORLD_MAP_TIME_LEVEL_DECS]
-这种神奇的墓碑看上去很坚固，你可能需要一些时间才能清理掉它。点击立即解锁可以立即清理完毕。
+Dieser magische Grabstein sieht sehr massiv aus und es kann eine Weile dauern, ihn zu entfernen. Klicke auf „Jetzt freischalten“, um ihn sofort zu entfernen.
 
 [WORLD_MAP_TIME_LEVEL_DECS_HEADER]
-神奇的墓碑
+Magischer Grabstein
 
 [WORLD_MAP_TIME_LEVEL_UNLOCK_1]
-立即解锁
+Jetzt freischalten
 
 [WORLD_MAP_TIME_LEVEL_UNLOCK_2]
-消耗
+Verbrauchen
 
 [WORLD_MAP_TIME_LEVEL_UNLOCK_3]
-钻石即可立即解锁当前关卡，需要立即解锁吗？
+Diamanten können verwendet werden, um das aktuelle Level sofort freizuschalten. Möchtest du es sofort freischalten?
 
 [LOGIN_REWARD]
-登录奖励
+Login-Belohnung
 
 [LOGIN_REWARD_BODY]
-360登录成功，请领取35钻石的奖励。
+360-Grad-Login erfolgreich. Bitte hol dir die Belohnung von 35 Diamanten ab.
 
 [DAILY_REWARD_COMPENSATION_CONTENT]
-亲爱的各位玩家：
+Liebe Spieler,
 
-《植物大战僵尸2》2月签到版本因为一些大家心里都懂的原因导致没能顺利按期更新%>_<%。为了表示对各位玩家的歉意，小豌豌特意在本次更新中为亲爱的玩家们找回了失去的奖励：
-1. 100钻石
-2. 甜薯碎片x10
+Die Februar-Anmeldeversion von „Plants vs. Zombies 2“ wurde aus bekannten Gründen nicht wie geplant aktualisiert. Um uns bei allen Spielern zu entschuldigen, hat Xiao Wanwan mit diesem Update die verlorenen Belohnungen für unsere Spieler wiederhergestellt:
+1. 100 Diamanten
+2. 10 Süßkartoffelfragmente
 
-感谢大家对《植物大战僵尸2》的支持，祝大家在植物大战僵尸2中度过一个愉快的假期！
-————————小豌豌
+Vielen Dank für eure Unterstützung von „Plants vs. Zombies 2“. Ich wünsche euch allen schöne Feiertage mit Plants vs. Zombies 2!
+————————Xiao Wanwan
 
 [DAILY_REWARD_COMPENSATION_CONTENT_SPECIAL]
-亲爱的各位玩家：
+Liebe Spieler,
 
-《植物大战僵尸2》2月签到版本因为一些大家心里都懂的原因导致没能顺利按期更新%>_<%。为了表示对各位玩家的歉意，小豌豌特意在本次更新中为亲爱的玩家们找回了失去的奖励：
-1. 100钻石
-2. 甜薯碎片x10
+Die Februar-Anmeldeversion von „Plants vs. Zombies 2“ wurde aus bekannten Gründen nicht wie geplant aktualisiert. %>_<%. Um uns bei allen Spielern zu entschuldigen, hat Little Pea mit diesem Update die verlorenen Belohnungen für unsere lieben Spieler wiederhergestellt:
+1. 100 Diamanten
+2. 10 Süßkartoffelfragmente
 
-巨浪沙滩版本上线后，甜薯、莲叶、大嘴花、保龄泡泡4个植物由于数据错乱导致的消失或多出情况，我们已经按照出错前的碎片和阶数进行恢复，并给予玩家50钻石的补偿。
+Nach der Veröffentlichung der Big Wave Beach-Version verschwanden die vier Pflanzen Süßkartoffel, Lotusblatt, Großmaulblume und Bowlingblase aufgrund einer Datenverwechslung oder tauchten wieder auf. Wir haben sie gemäß den Fragmenten und Leveln vor dem Fehler wiederhergestellt und die Spieler mit 50 Diamanten entschädigt.
 
-感谢大家对《植物大战僵尸2》的支持，祝大家在植物大战僵尸2中度过一个愉快的假期！
-————————小豌豌
+Vielen Dank für eure Unterstützung von „Plants vs. Zombies 2“ und ich wünsche euch allen frohe Feiertage mit Plants vs. Zombies 2!
+———————— Kleine Erbse
 
 [COMPEN_OBTAIN]
-领取
+Hol es dir
 
 [ADVICE_PLANT_TANGLEKELP_ON_LILYPAD]
-水草只能种在水中
+Wasserpflanzen können nur im Wasser gepflanzt werden.
 
 [ADVICE_PLANT_LILYPAD_ON_LILYPAD]
-莲叶不能种在莲叶上
+Lilyenblätter können nicht auf Lilienblättern gepflanzt werden.
 
 [ADVICE_NEED_LILYPAD_FIRST]
-请先种一棵莲叶
+Bitte pflanze zuerst ein Lilienblatt.
 
 [ADVICE_NO_BANANA_ON_RAILCART]
-香蕉太滑了不适合矿车
+Bananen sind zu rutschig für Loren.
 
 [ADVICE_PLANT_NOT_ON_TIDE]
-这里无法种植
+Kann hier nicht gepflanzt werden.
 
 [ADVICE_PLANT_ONLY_ON_WAVES]
-水生植物只能种在水中
+Wasserpflanzen können nur im Wasser gepflanzt werden.
 
 [DANGER_ROOM_BUTTON_RESET]
-更换未选中的卡片
+Nicht ausgewählte Karten ersetzen
 
 [STORE_CATEGORY_NAME_LUCKYLEAF_DESC]
-幸运宝藏
+Glücksschatz
 
 [STORE_CATEGORY_NAME_LUCKYLEAF_SHORT_DESC]
-射中靶子，抽取掉落的植物或者碎片奖励
+Triff das Ziel und sammle die abgeworfenen Pflanzen oder Trümmer als Belohnung ein.
 
 [STORE_CATEGORY_NAME_TREASURE_DESC]
-潘妮的宝物
+Pennys Schatz
 
 [STORE_CATEGORY_NAME_TREASURE_SHORT_DESC]
-有可能获得所有植物
-
+Es ist möglich, alle Pflanzen zu erhalten.
 
 [LEAF_NOT_ENOUGH_DIALOG_TITLE]
-金豆不足
+Nicht genug Goldbohnen
 
 [LEAF_NOT_ENOUGH_DIALOG_TEXT]
-获取更多金豆吗？
-
+Mehr Goldbohnen?
 
 [LEAF_NOT_ENOUGH_DIALOG_YES]
-获取金豆
+Goldbohnen erhalten
 
 [TREASURE_BONUS_RESULT_NO_LEAF]
-你获得 ^00e46e {BONUS_NAME} x {CHIP_COUNT} ^oldclr
+Du erhältst ^00e46e {BONUS_NAME} x {CHIP_COUNT} ^oldclr
 
 [TREASURE_BONUS_RESULT]
-你获得 ^00e46e {BONUS_NAME} x {CHIP_COUNT} ^oldclr 和 ^00e46e 金豆 x {LEAF_COUNT} ^oldclr
+Du erhältst ^00e46e {BONUS_NAME} x {CHIP_COUNT} ^oldclr und ^00e46e Goldbohnen x {LEAF_COUNT} ^oldclr
 
 [TREASURE_BONUS_RESULT_LEAF]
-从金罐中找到了 ^00e46e 金豆 x {LEAF_COUNT} ^oldclr
+^00e46e Goldbohnen x {LEAF_COUNT} im Goldtopf gefunden ^oldclr
 
 [TREASURE_LEAF_STORE]
-金豆兑换
+Goldbohnen-Tausch
 
 [TREASURE_LEAF_BEGIN]
-砸一次
+Einmal zerschlagen
 
 [PLANT_OBTAIN_TITLE_3]
-金豆兑换
+Goldbohnen-Tausch
 
 [GET_ACCESSORY_PIECE]
 Du hast ein Anhängerfragment erhalten.
@@ -15894,139 +15893,141 @@ Die heutigen Endlos-Herausforderungszeiten sind aufgebraucht. Machen Sie eine Pa
 Sie können eine Herausforderungszeit für nur 50 Diamanten kaufen. Möchten Sie sie wirklich kaufen?
 
 [DANGERROOM_BUY_BUTTON]
-买买买！
+Kaufen, kaufen, kaufen!
 
 [DANGERROOM_NOT_BUY_BUTTON]
-我再想想
+Lass mich darüber nachdenken.
 
 [PROGRESS_TIP]
-进度提示
+Fortschrittstipps
 
 [PROGRESS_TIP_TEXT]
-您正在进行一个关卡的挑战，开启新的挑战将会放弃之前的进度，确定要重新开启吗？
+Du befindest dich gerade in einem Level. Wenn du eine neue Herausforderung beginnst, wird der vorherige Fortschritt abgebrochen. Möchtest du wirklich neu starten?
 
 [ACTIVITY_HAS_CLOSED]
-活动已结束
+Die Aktivität ist beendet.
 
 [ACTIVITY_PASS_DAY]
-数据已过期，请刷新活动界面
+Das Datenvolumen ist abgelaufen. Bitte aktualisiere die Aktivitätsoberfläche.
 
 [BUY_LIFE_TIP]
-购买次数提示
+Tipps zum Kauf von Spielzeiten
 
 [BUY_LIFE_TIP_TEXT]
-您是否要花{GEM_COUNT}颗钻石购买一次游戏次数？
+Möchtest du {GEM_COUNT} Diamanten ausgeben, um Spielzeit zu kaufen?
 
 [BUY_MYSTERY_SHOP_TIP]
-购买商品提示
+Kauftipps
 
 [BUY_MYSTERY_SHOP_TEXT]
-是否确认购买？
+Möchten Sie wirklich kaufen?
 
 [BUY_MYSTERY_SHOP_NOT_ENOUGH_TIP]
-材料不足
+Nicht genügend Materialien
 
 [BUY_MYSTERY_SHOP_NOT_ENOUGH_TEXT]
-是否前往充值？
+Möchten Sie aufladen?
 
 [REWARD_GET_TIP]
-领取成功
+Erfolgreich erhalten
 
 [DANGERROOM_BONUS_REOBETAINED]
-补领钻石成功
-共计补领了{GEMS}钻石
+Diamantenersatz erfolgreich
+Insgesamt {GEMS} Diamanten wurden ersetzt.
 
 [REWARD_GET_TIP_TEXT]
-你在上期无尽挑战中最高获得{SCORE_COUNT}分，获得称号：{ACCOUNT_NAME}，获得排名奖励{REWARD_COUNT}{REWARD_NAME}。
+Sie haben in der letzten Endlos-Herausforderung die höchste Punktzahl von {SCORE_COUNT} erreicht, den Titel {ACCOUNT_NAME} erhalten und die Ranglistenbelohnung {REWARD_COUNT}{REWARD_NAME} erhalten.
 
 [REWARD_GET_TIP_FAILED]
-领取失败
+Abholen fehlgeschlagen
 
 [DANGERROOM_LEVEL_REWARD_BTN]
-补领奖励
+Belohnung zurückfordern
 
 [REWARD_GET_TIP_FAILED_TEXT]
-没有可以领取的无尽奖励，可能是奖励并未开放或您已领取过本次奖励。
+Es gibt keine Endlosbelohnung. Möglicherweise ist die Belohnung noch nicht verfügbar oder du hast sie bereits eingefordert.
 
 [DANGERROOM_BONUS_UNCONNECTED_INLEVEL]
-由于网络故障，奖励中的钻石领取失败！
-（金币和碎片可正常领取）
-在网络改善后
-排行榜处或跳关时可补领钻石奖励。
+Aufgrund eines Netzwerkfehlers können die Diamanten in der Belohnung nicht eingefordert werden!
+(Goldmünzen und -fragmente können normal eingefordert werden.)
+Nachdem das Netzwerk verbessert wurde, kannst du die Diamanten in der Bestenliste oder beim Levelaufstieg einfordern.
 
 [DANGERROOM_BONUS_UNCONNECTED]
-由于没有网络连接，无尽奖励领取失败！
+Aufgrund einer fehlenden Netzwerkverbindung kann die Endlosbelohnung nicht eingefordert werden!
 
 [REWARD_TYPE_GEM]
-钻石
+Diamanten
 
 [REWARD_TYPE_COIN]
-金币
+Goldmünzen
 
 [REWARD_TYPE_STONE]
-无尽奖章
+Endlosmedaillen
 
 [REWARD_TYPE_LEAF]
-金豆
+Goldbohnen
 
 [REWARD_RULE_TITLE]
-奖励规则
+Belohnungsregeln
 
 [REWARD_RULE_TEXT]
-玩法规则：
-1. 每天拥有2次免费的挑战次数，挑战次数会在当天凌晨12点重置。
-2. 活动每7天结算一次排名奖励，你只能在每期活动结束后方可领取上一期的排名奖励。
-3. 奖励的数量与你上一期的历史最高成绩有关。
-奖励规则：
-第1名                               800钻石
-第2名                               500钻石
-第3名                               400钻石
-第4-10名                            300钻石
-第11-100名                          200钻石
-第101-1000名                        150钻石
-Lv.9 神话缔造者(3500000积分)        108钻石
-Lv.8 僵尸终结者(3000000积分)        88钻石
-Lv.7 僵尸屠夫(2500000积分)          68钻石
-Lv.6 僵尸克星(2000000积分)          58钻石
-Lv.5 僵尸杀手(1500000积分)          48钻石
-Lv.4 猎僵大师(1000000积分)          38钻石
-Lv.3 熟练猎手(500000积分)           28钻石
-Lv.2 菜鸟猎手(100000积分)           18钻石
-Lv.1 新手上路(0积分)                8钻石     
+Spielregeln:
+
+1. Du hast täglich zwei kostenlose Herausforderungen. Die Zeiten werden jeweils um 0:00 Uhr zurückgesetzt.
+
+2. Die Ranglistenbelohnungen werden alle 7 Tage vergeben. Du kannst die Ranglistenbelohnungen des vorherigen Zeitraums erst nach Abschluss jeder Aktivität einfordern.
+
+3. Die Anzahl der Belohnungen richtet sich nach deiner höchsten Punktzahl im vorherigen Zeitraum.
+Belohnungsregeln:
+1. Platz: 800 Diamanten
+2. Platz: 500 Diamanten
+3. Platz: 400 Diamanten
+4.–10. Platz: 300 Diamanten
+11.–100. Platz: 200 Diamanten
+101.–1000. Platz: 150 Diamanten
+Stufe 9: Mythenmacher (3.500.000 Punkte) 108 Diamanten
+Stufe 8: Zombie-Terminator (3.000.000 Punkte) 88 Diamanten
+Stufe 7: Zombietöter (2.500.000 Punkte) 68 Diamanten
+Stufe 6: Zombiekiller (2.000.000 Punkte) 58 Diamanten
+Stufe 5: Zombiekiller (1.500.000 Punkte) 48 Diamanten
+Stufe 4: Zombiejäger-Meister (1.000.000 Punkte) 38 Diamanten
+Stufe 3: Geschickter Jäger (500.000 Punkte) 28 Diamanten
+Lv. 2 Rookie Hunter (100.000 Punkte) 18 Diamanten
+Lv. 1 Novice (0 Punkte) 8 Diamanten
 
 [NO_RANK_TITLE]
-没有排名
+Keine Rangliste
 
 [NO_RANK_TEXT]
-当前没有排名，请玩一局游戏并确保网络正确连接。
+Derzeit keine Rangliste. Bitte spiele ein Spiel und stelle sicher, dass die Netzwerkverbindung korrekt ist.
 
 [LEFT_ACTIVITY_DAYS]
-可获得^FF0000 出战阵容^oldclr^植物
-挑战剩余^FF0000 {DAY_COUNT}^oldclr^天
+Holen Sie sich ^FF0000^oldclr^ Pflanzen in der Kampfaufstellung.
+Verbleibende Herausforderung: ^FF0000 {DAY_COUNT}^oldclr^ Tage
 
 [RANK_TEXT]
-第{RANK_COUNT}名
+{RANK_COUNT}
 
 [RANK_TEXT_MINIGAME]
-第{RANK_START}-{RANK_END}名
+{RANK_START}-{RANK_END}
 
 [RANK_TEXT_OUTORDER]
-{RANK_COUNT}名以外
+{RANK_COUNT}
 
 [STONE_NOT_ENOUGH_DIALOG_YES]
-获取宝石
+Juwelen erhalten
 
 [STONE_NOT_ENOUGH_DIALOG_TITLE]
-宝石不足
+Nicht genügend Juwelen
 
 [STONE_NOT_ENOUGH_DIALOG_TEXT]
-获取更多宝石吗？
+Mehr Juwelen erhalten?
 
 [STONE_STORE_REFRESH]
-下次自动刷新时间
+Nächster automatischer Aktualisierungszeitpunkt
 
 [STONE_STORE_REFRESH_IMM]
-刷新
+Aktualisieren
 
 [TODAY]
 Heute
@@ -17920,7 +17921,7 @@ Effekt: 1. Erhöht den Feuerschaden um 27 %. 2. Reduziert die Abkühlzeit des Pf
 Weiße Kerze
 
 [SUPER_CLOCK_2_DES]
-Frühzeitig vorbereitet, um dem besiegten Dr. Zombie zu gedenken.
+Frühzeitig vorbereitet, um dem besiegten Dr. Zomboss zu gedenken.
 
 [SUPER_CLOCK_2_BOOST_DES]
 Effekt: 1. Erhöht den Feuerschaden um 8 %. 2. Reduziert die Abkühlzeit des Pflanzens um 15 %. 3. Freigeschaltet
@@ -19883,7 +19884,7 @@ Spaltet sich beim Töten.
 Super!
 
 [ELIMINATE_TIP2]
-Dr. Zombie, zitter!
+Dr. Zomboss, zitter!
 
 [ELIMINATE_TIP3]
 Zombie-Apokalypse!! Bonus-Spezialdünger-Fähigkeitn!
@@ -19915,7 +19916,7 @@ Du aktivierst den Spezialdünger, indem du die Bälle oben, unten, links und rec
 Klicke irgendwo, um fortzufahren.
 
 [ELIMINATE_BUY_PLANTFOOD_TIP]
-Du kannst Dr. Zombie schneller besiegen, indem du Spezialdünger direkt kaufst!
+Du kannst Dr. Zomboss schneller besiegen, indem du Spezialdünger direkt kaufst!
 
 Klicke irgendwo, um fortzufahren.
 
@@ -21881,130 +21882,133 @@ Gatling-Erbsen-Kostüm
 释放紫色芦苇箭对一直线僵尸造成伤害。
 
 [ZOMBIE_SKYCITY]
-普通飞行员僵尸
+Gewöhnlicher Pilot-Zombie
 
 [ZOMBIE_SKYCITY_DESCRIPTION_HEADER]
-普通的飞行员僵尸
+Gewöhnlicher Pilot-Zombie
 
 [ZOMBIE_SKYCITY_DESCRIPTION]
-{FLAVOR} 千万不要小看普通飞行员僵尸，在空中保持平衡而不是四脚朝天并不是一件容易的事情。飞翔带给他们自由的感觉，当然，那是在他们还有脑子的时候。
+{FLAVOR} Unterschätze den gewöhnlichen Pilot-Zombie nicht. Es ist nicht leicht, in der Luft das Gleichgewicht zu halten, ohne auf den Rücken zu fallen. Fliegen gibt ihnen ein Gefühl von Freiheit – natürlich nur, wenn sie noch Verstand haben.
 
 [ZOMBIE_SKYCITY_ARMOR1]
-路障飞行员僵尸
+Straßensperren-Pilot-Zombie
 
 [ZOMBIE_SKYCITY_ARMOR1_DESCRIPTION_HEADER]
-用强力胶黏上的路障使他比普通的飞行员僵尸强壮2倍！
+Die mit Sekundenkleber befestigte Straßensperre macht ihn doppelt so stark wie den gewöhnlichen Pilot-Zombie!
 
 [ZOMBIE_SKYCITY_ARMOR1_DESCRIPTION]
-{FLAVOR} 为了适应空中强劲的风速，路障飞行员僵尸购买了一款新型强效粘合剂。尽管僵尸们都建议他不要将路障带到高空中，但是他自认为那是他时尚形象的象征。
+{FLAVOR} Um sich an die starken Winde am Himmel anzupassen, hat der Straßensperren-Pilot-Zombie einen neuen, starken Klebstoff gekauft. Obwohl ihm alle Zombies davon abrieten, die Straßensperre in großer Höhe zu nehmen, hielt er sie für ein Symbol seines modischen Images.
 
 [ZOMBIE_SKYCITY_ARMOR2]
-铁桶飞行员僵尸
+Fasspilot-Zombie
 
 [ZOMBIE_SKYCITY_ARMOR2_DESCRIPTION_HEADER]
-头顶的桶状零件为他提供了超强的防护能力！
+Die fassförmigen Teile an seinem Kopf bieten ihm extrem starken Schutz!
 
 [ZOMBIE_SKYCITY_ARMOR2_DESCRIPTION]
-{FLAVOR} 听见了吗？上升气流撞击铁桶所发出的哐当声，对，那就是僵尸们最喜爱的音乐，它总是可以给僵尸们枯燥无味的生活带来乐趣。这也是铁桶飞行员僵尸最受僵尸们追捧的原因。
+{FLAVOR} Hast du es gehört? Das klirrende Geräusch der aufsteigenden Luft, die auf das Fass trifft – ja, das ist die Lieblingsmusik der Zombies. Sie bringt immer Spaß in ihr langweiliges Leben. Deshalb ist der Fasspilot-Zombie auch der beliebteste Zombie.
 
 [ZOMBIE_SKYCITY_FLAG]
-旗帜飞行员僵尸
+Flaggenpilot-Zombie
 
 [ZOMBIE_SKYCITY_FLAG_DESCRIPTION_HEADER]
-引领着一大波飞行僵尸的到来！
+Führt eine große Welle fliegender Zombies an!
 
 [ZOMBIE_SKYCITY_FLAG_DESCRIPTION]
-{FLAVOR} 在飞行旗帜僵尸看来，若是想要走在时尚的前沿，一面鲜明的旗帜是非常重要的。然而，僵尸们却只关心他能否带领他们找到新鲜的脑子，时尚什么的，并不能拿来吃啊。
+{FLAVOR} Für den Flaggenzombie ist eine leuchtende Flagge sehr wichtig, um in Sachen Mode ganz vorne mit dabei zu sein. Die Zombies interessieren sich jedoch nur dafür, ob er sie auf neue Ideen bringt. Mode und Ähnliches sind nicht essbar.
 
 [ZOMBIE_SKYCITY_ELECTRIC]
-闪电枪僵尸
+Blitzkanonen-Zombie
 
 [ZOMBIE_SKYCITY_ELECTRIC_DESCRIPTION_HEADER]
-使用闪电枪发射电荷攻击植物。
+Mit der Blitzkanone kannst du elektrische Ladungen abfeuern und Pflanzen angreifen.
 
 [ZOMBIE_SKYCITY_ELECTRIC_DESCRIPTION]
-{FLAVOR} 闪电枪僵尸拥有 “科学怪人”的外号，他每天都待在实验室里尝试研发更强大的闪电枪。不过他显然对于自己满头飞舞的银发而感到十分的苦恼。“有时候，为了科学是需要牺牲一些自己的形象的。”闪电枪僵尸并不在乎这些。
+{FLAVOR} Der Blitzkanonen-Zombie hat den Spitznamen „Frankenstein“. Er verbringt täglich Zeit im Labor, um eine noch stärkere Blitzkanone zu entwickeln. Sein silbernes Haar ist ihm jedoch sichtlich zu schaffen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Dem Blitzkanonen-Zombie ist das egal.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC]
-精英闪电枪僵尸
+Elite-Blitzkanonen-Zombie
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION_HEADER]
-使用闪电枪发射电荷攻击植物。
+Benutzt eine Blitzkanone, um elektrische Ladungen auf Pflanzen abzufeuern.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION]
-{FLAVOR} 闪电枪僵尸拥有 “科学怪人”的外号，他每天都待在实验室里尝试研发更强大的闪电枪。不过他显然对于自己满头飞舞的银发而感到十分的苦恼。“有时候，为了科学是需要牺牲一些自己的形象的。”闪电枪僵尸并不在乎这些。
+{FLAVOR} Der Blitzkanonen-Zombie, Spitzname „Frankenstein“, verbringt seine Tage im Labor mit dem Versuch, eine noch stärkere Blitzkanone zu entwickeln. Doch seine fliegenden silbernen Haare machen ihm sichtlich zu schaffen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Dem Blitzkanonen-Zombie ist das egal.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL]
-闪电枪僵尸
+Blitzkanonen-Zombie
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL_DESCRIPTION_HEADER]
-使用闪电枪发射电荷攻击植物。
+Benutzt eine Blitzkanone, um elektrische Ladungen auf Pflanzen abzufeuern.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL_DESCRIPTION]
-{FLAVOR} 更强的电荷，更大的范围，更强大的闪电枪僵尸携带更强大的闪电枪2.0王者归来！至于这背后到底献祭了多少根头发，闪电枪僵尸并不在乎。
+{FLAVOR} Stärkere Ladung, größere Reichweite, stärkerer Blitzkanonen-Zombie kehrt mit einer stärkeren Blitzkanone 2.0 zurück! Wie viele Haare dafür geopfert wurden, ist dem Blitzkanonen-Zombie egal.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD]
-闪电枪僵尸
+Blitzkanonen-Zombie
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD_DESCRIPTION_HEADER]
-使用闪电枪发射电荷攻击植物。
+Mit der Blitzkanone feuerst du elektrische Ladungen ab und greifst Pflanzen an.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD_DESCRIPTION]
-{FLAVOR} 闪电枪僵尸拥有 “科学怪人”的外号，他每天都待在实验室里尝试研发更强大的闪电枪。不过他显然对于自己满头飞舞的银发而感到十分的苦恼。“有时候，为了科学是需要牺牲一些自己的形象的。”闪电枪僵尸并不在乎这些。
+{FLAVOR} Der Blitzkanonen-Zombie hat den Spitznamen „Frankenstein“. Er arbeitet täglich im Labor und versucht, eine stärkere Blitzkanone zu entwickeln. Seine fliegenden silbernen Haare machen ihm jedoch offensichtlich große Sorgen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Blitzgewehr-Zombie kümmert das nicht.
 
 [ZOMBIE_SKYCITY_BATTLEPLANE]
-战斗机僵尸
+Jäger-Zombie
 
 [ZOMBIE_SKYCITY_BATTLEPLANE_DESCRIPTION_HEADER]
-使用战斗机上的机枪攻击植物和飞船。
+Benutze das Maschinengewehr des Jägers, um Pflanzen und Raumschiffe anzugreifen.
 
 [ZOMBIE_SKYCITY_BATTLEPLANE_DESCRIPTION]
-{FLAVOR} 为了成为一名优秀的战斗机僵尸，在飞行学校学习期间，他总共学习了97门飞行课程、通过了81场考试、经历了101场模拟飞行演练… …他总是滔滔不绝地和别人提起自己高超的飞行技术，不过坐过他的飞机的僵尸似乎都不愿意再次提及这个话题。
+{FLAVOR} Um ein exzellenter Kampfzombie zu werden, absolvierte er während seiner Ausbildung an der Flugschule insgesamt 97 Flugkurse, bestand 81 Prüfungen und absolvierte 101 simulierte Flugübungen. … Er spricht immer mit anderen über seine hervorragenden Flugkünste, doch die Zombies, die sein Flugzeug gestohlen haben, scheinen dieses Thema nur ungern wieder zu erwähnen.
 
 [ZOMBIE_SKYCITY_GARGANTUAR]
-飞行巨人僵尸
+Fliegender Riesenzombie
 
 [ZOMBIE_SKYCITY_GARGANTUAR_DESCRIPTION_HEADER]
-砸扁一切植物，向飞船上投掷飞行小鬼僵尸。
+Zerschmettere alle Pflanzen und wirf fliegende Wichtel-Zombies auf das Raumschiff.
 
 [ZOMBIE_SKYCITY_GARGANTUAR_DESCRIPTION]
-{FLAVOR} 飞行巨人僵尸因为其庞大的体型占用了更多的飞行道而被迫缴纳三倍的通行费，他对此感到非常愤怒。“说真的，我真的只想做一只无忧无虑的小鬼僵尸。”飞行巨人僵尸无奈地看着干瘪的钱包，“不过只是在某些情况下。”
+{FLAVOR} Der fliegende Riesenzombie ist sehr wütend darüber, dass er die dreifache Maut zahlen muss, weil seine enorme Größe mehr Fahrspuren beansprucht. „Ehrlich gesagt, möchte ich einfach nur ein unbeschwerter kleiner Zombie sein.“ Der fliegende Riesenzombie blickte hilflos auf die geschrumpfte Brieftasche. „Aber nur manchmal.“
 
 [ZOMBIE_SKYCITY_TWINSPLANE]
-双舱飞机僵尸
+Zweikabinen-Flugzeug-Zombie
 
 [ZOMBIE_SKYCITY_TWINSPLANE_DESCRIPTION_HEADER]
-两个机舱全部被击毁后才会坠落
+Er stürzt erst ein, wenn beide Kabinen zerstört sind.
 
 [ZOMBIE_SKYCITY_TWINSPLANE_DESCRIPTION]
-{FLAVOR} 双舱飞行僵尸拥有“环球旅行”、“征服世界”的探险梦。然而他们兄弟俩从未在去哪儿探险这个问题上达成一致。“我简直无法同一个没有脑子的家伙沟通！”他们总是这样气鼓鼓地抱怨对方。
+{FLAVOR} Der Zweikabinen-Flug-Zombie träumt von einer Weltreise und der Eroberung der Welt. Doch die beiden Brüder haben sich nie auf ein Abenteuer geeinigt. „Ich kann mich mit so einem Idioten nicht verständigen!“, beklagen sie sich ständig gegenseitig.
 
 [ZOMBIE_SKYCITY_GGTIMP]
-飞行小鬼僵尸
+Fliegender Zombie-Kobold
 
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION_HEADER]
-擅长登陆作战的小鬼僵尸
+Ein Zombie-Kobold, spezialisiert auf Landeoperationen.
 
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION]
-{FLAVOR} 飞行小鬼僵尸曾经为是否要投身飞行事业而苦恼过，然而当他在飞行商店里找到了那副令他神魂颠倒的护目镜时，他就再也不愿意取下它了。为了戴护目镜而成为飞行员听上去非常的愚蠢，不过你不得不承认，那副护目镜真的很赞。
+{FLAVOR} Der fliegende Zombie-Kobold zögerte einst, eine Karriere als Flieger anzustreben. Doch als er im Fliegerladen eine Schutzbrille fand, die ihn faszinierte, wollte er sie nie wieder abnehmen. Pilot zu werden, nur um eine Schutzbrille zu tragen, klingt zwar blöd, aber man muss zugeben, die Schutzbrille ist wirklich toll.
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER]
-飞弹僵尸
+Raketen-Zombie
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER_DESCRIPTION_HEADER]
-如果你没能用手指将飞弹僵尸划飞，它将命中你的飞船造成巨大的伤害。
+Wenn du es nicht schaffst, den Raketen-Zombie mit dem Finger wegzuschnippen, trifft er dein Schiff und verursacht großen Schaden.
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER_DESCRIPTION]
-{FLAVOR} 飞弹僵尸是空中飞行俱乐部的部长。他是一位令无数飞行员僵尸们尊敬的部长，一直兢兢业业、任劳任怨地维护着空中的秩序。僵尸们商量着要送他一个聪明的脑子作为回馈，不过这似乎难以在他退休之前实现。
+{FLAVOR} Missile Zombie ist der Minister des Air Flying Clubs. Er wird von unzähligen Piloten-Zombies respektiert und arbeitet unermüdlich für die Ordnung in der Luft. Die Zombies diskutieren, ihm als Belohnung ein kluges Gehirn zu geben, doch es scheint schwierig, dies vor seinem Ruhestand zu erreichen.
+
 
 [ZOMBIE_INVISIBLE_PLANE]
-仲裁者-X型
+Arbitrator-X Typ
+
 
 [ZOMBIE_INVISIBLE_PLANE_DESCRIPTION_HEADER]
-发动隐形光束，使身后的僵尸进入隐形状态
+Starte den unsichtbaren Strahl, um die Zombies hinter ihm unsichtbar zu machen.
+
 
 [ZOMBIE_INVISIBLE_PLANE_DESCRIPTION]
-{FLAVOR} 伴随着天空之城的建造，僵尸博士不惜花重金引入隐形飞行器。在强电实验室历经三天三夜的实验，被强电烧焦了十次头发后，仲裁者 - X型隐形飞行器终于诞生了！没错，一件令无数僵尸们神魂颠倒的史上最神秘飞行器。据说，它能带给僵尸们他们缺失已久的安全感。
+{FLAVOR} Beim Bau der Himmelsstadt investierte Dr. Zomboss viel Geld in die Einführung unsichtbarer Flugzeuge. Nach drei Tagen und drei Nächten voller Experimente im Hochspannungslabor und nachdem sein Haar zehnmal durch starke Elektrizität verbrannt worden war, war das unsichtbare Flugzeug vom Typ Arbitrator-X endlich geboren! Genau, die geheimnisvollste Flugmaschine der Geschichte, die unzählige Zombies fasziniert hat. Man sagt, sie könne Zombies das Gefühl von Sicherheit geben, das sie lange vermisst haben.
 
 [ZOMBIE_LOSTCITY]
 Abenteurer-Zombie
@@ -24890,28 +24894,28 @@ Aktivitätskonfiguration verloren
 Schatzkiste konnte nicht abgerufen werden
 
 [EIGHTIES]
-Rock of Ages
+Neon-Mixtape-Tour
 
 [EIGHTIES_LAST]
-Rock of Ages – Ultimative Herausforderung
+Neon-Mixtape-Tour – Ultimative Herausforderung
 
 [EIGHTIES_LAST1]
-Zeitreise – Rock of Ages
+Zeitreise – Neon-Mixtape-Tour
 
 [EIGHTIES_LEVEL_NAME]
-Rock of Ages – Tag {LEVEL_NUMBER}
+Neon-Mixtape-Tour: Tag {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_EIGHTIES]
 {PLAYER}s Reise zum Rock of Ages
 
 [WORLD_NAME_EIGHTIES]
-Rock of Ages
+Neon-Mixtape-Tour
 
 [WARNING_BASSRAIN]
 Bassist Zombie hat seinen großen Auftritt!
 
 [ACHIEVE_ALL_IN_JEST_DESC]
-Schließe ein Level ab, ohne von den Clown-Zombies angegriffen zu werden.
+Schließe ein Level ab, ohne von den Hoffnar-Zombies angegriffen zu werden.
 
 [ACHIEVE_ALL_IN_JEST_TITLE]
 Alles nur ein Witz.
@@ -25919,7 +25923,7 @@ WEASEL ENSEMBLE
 亚瑟的挑战-第 {LEVEL_NUMBER} 关
 
 [DANGER_ROOM_DINO_LEVEL_NAME]
-大脑焦油坑-第 {LEVEL_NUMBER} 关
+La-Brainsa-Teergruben
 
 [DANGER_ROOM_DINO_TITLE_WELCOME]
 欢迎来到大脑焦油坑！
@@ -26417,13 +26421,13 @@ Willkommen auf dem Eisigen Schlachtfeld!
 大脑焦油坑
 
 [DINO]
-恐龙危机
+Jurassisches Moor
 
 [DINO_LEVEL_NAME]
-恐龙危机-第{LEVEL_NUMBER}天
+Jurassisches Moor – Tag {LEVEL_NUMBER}
 
 [DINO_LEVEL_NAME1]
-时空穿梭-恐龙危机
+Jurassisches Moor
 
 [DINONIP]
 香水蘑菇
@@ -29284,116 +29288,116 @@ Demo
 {SAY:ZOMBOSSICON}真有意思！
 
 [NARRATIVE_ESCAPEROOT_LOD_1]
-{NPC_ENTER:WINNIE}{SAY:WINNIE}点击逃脱树根，然后再点击另一棵植物，让它们互换位置。
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Klicke auf die Fluchtwurzel und dann auf eine andere Pflanze, um ihre Positionen zu tauschen.
 
 [NARRATIVE_ESCAPEROOT_LOD_2]
-{SAY:WINNIE}当有僵尸靠近时，逃脱树根会爆炸。
+{SAY:WINNIE}Die Fluchtwurzel explodiert, wenn sich ein Zombie nähert.
 
 [NARRATIVE_FUTURE_CHALLENGE_LASTSTAND_A_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}我喜欢存些阳光，留到阴雨天用。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Ich hebe mir gerne etwas Sonne für Regentage auf.
 
 [NARRATIVE_FUTURE_CHALLENGE_LASTSTAND_A_2]
-{TIRED:WINNIE}可以让你不至于变成泡菜，或是使用脉冲黄桃。
+{TIRED:WINNIE}Kann dich davor bewahren, zur Essiggurke zu werden, oder benutze Pulspfirsich.
 
 [NARRATIVE_FUTURE_CHALLENGE_PRESET_A_1]
-{NPC_ENTER:WINNIE}{SAY}朋友能选，这些植物却不能选。
+{NPC_ENTER:WINNIE}{SAG}Du kannst dir deine Freunde aussuchen, aber diese Pflanzen nicht.
 
 [NARRATIVE_FUTURE_CHALLENGE_PRESET_A_2]
-{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}可我有一些最好的朋友恰好就是植物！
+{NPC_ENTER:CRAZYDAVE}{AUFGEWUNDERT:CRAZYDAVE}Aber einige meiner besten Freunde sind zufällig Pflanzen!
 
 [NARRATIVE_FUTURE_CHALLENGE_PRESET_B_1]
-{NPC_ENTER:CRAZYDAVE}{TIRED}看来我们这里火力不足啊，潘妮。
+{NPC_ENTER:CRAZYDAVE}{MÜDE}Sieht so aus, als ob uns hier die Feuerkraft fehlt, Penny.
 
 [NARRATIVE_FUTURE_CHALLENGE_PRESET_B_2]
-{NPC_ENTER:WINNIE}{SAY}你需要生产大量阳光
+{NPC_ENTER:WINNIE}{SAY}Du musst viel Sonnenlicht erzeugen.
 
 [NARRATIVE_FUTURE_CHALLENGE_PRESET_B_3]
-{EXCITED:WINNIE}然后点击棱镜草发动攻击！
+{EXCITED:WINNIE}Dann klicke auf das Prismagras, um anzugreifen!
 
 [NARRATIVE_FUTURE_CHALLENGE_PROTECTPLANTS_A_1]
-{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}保护那些充能柚子！
+{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}Schütze die geladenen Grapefruits!
 
 [NARRATIVE_FUTURE_CHALLENGE_PROTECTPLANTS_A_2]
-{EXCITED:CRAZYDAVE}像那样坚守阵地绝非易事。
+{EXCITED:CRAZYDAVE}Es ist keine leichte Aufgabe, so eine Position zu halten.
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_3]
-{TIRED:WINNIE}……
+{TIRED:WINNIE}...
 
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_4]
-{SAY:CRAZYDAVE}嘿，草坪怎么了？那么亮闪闪的！
+{SAY:CRAZYDAVE}Hey, was ist mit dem Gras los? Es glänzt!
 
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_5]
-{SAY:WINNIE}我在草地上侦测到一排强化瓷砖！
+{SAY:WINNIE}Ich habe eine Reihe verstärkter Fliesen im Gras entdeckt!
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY}欢迎回来，园丁，
+{NPC_ENTER:ZOMBOSSICON}{SAY}Willkommen zurück, Gärtner!
 
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_2]
-{SAY:ZOMBOSSICON}你的脑子早在多年前就被收走过。
+{SAY:ZOMBOSSICON}Dein Gehirn wurde dir vor Jahren genommen.
 
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_3]
-{SAY:ZOMBOSSICON}马上搞定，僵尸博士。
+{SAY:ZOMBOSSICON}Ich krieg's hin, Dr. Zomboss.
 
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_4]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}小心啊邻居，我相当确定他说的不是我的脑子！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Vorsicht, Nachbar! Ich bin mir ziemlich sicher, dass er nicht von meinem Gehirn spricht!
 
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_5]
-{PLAYFUL:WINNIE}可我觉得，有证据表明刚好相反。
+{PLAYFUL:WINNIE}Aber ich glaube, es gibt Beweise für das Gegenteil.
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_1]
-{NPC_ENTER:ZOMBOSSICON}你的邻居在你对抗僵尸的战斗中能帮上大忙，难道不是好事吗？
+{NPC_ENTER:ZOMBOSSICON}Ist es nicht gut, dass deine Nachbarn dir im Kampf gegen Zombies eine große Hilfe sein können?
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_2]
-{SAY:ZOMBOSSICON}疯狂戴夫的用处，只会令他无能的一面黯然失色。
+{SAY:ZOMBOSSICON}Crazy Daves Nützlichkeit überschattet nur seine Inkompetenz.
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_3]
-{SAY:ZOMBOSSICON}但是，只要说出这句密语，我的潜伏间谍就会与你为敌。
+{SAY:ZOMBOSSICON}Aber wenn du dieses Codewort aussprichst, werden sich meine Schläferagenten gegen dich wenden.
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_4]
-{SAY:ZOMBOSSICON}听仔细了，密语就是“催眠僵博术”。
+{SAY:ZOMBOSSICON}Hör gut zu, das Codewort lautet „Hypnotischer Zombie“.
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_5]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{SPECIAL1}你好啊，邻居！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{SPECIAL1}Hallo, Nachbar!
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_6]
-{PLAYFUL}我能不能借你的脑子一用？呃，我说的是辣椒酱！
+{PLAYFUL}Kann ich mir dein Gehirn ausleihen? Äh, ich meine die Chilisauce!
 
 [NARRATIVE_FUTURE_MAGNIFYING_GRASS_FAILURE_1]
-{NPC_ENTER:CRAZYDAVE}{SAY}哎呀，你真应该再试试看！
+{NPC_ENTER:CRAZYDAVE}{SAY}Ups, du solltest es noch einmal versuchen!
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_1]
-{NPC_ENTER:WINNIE}你可以决定早些使用一台割草机。
+{NPC_ENTER:WINNIE}Vielleicht entscheidest du dich ja, lieber früher als später einen Rasenmäher zu benutzen.
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_2]
-{EXCITED:WINNIE}抓准时机，长按割草机。
+{EXCITED:WINNIE}Nutze die Gelegenheit und halte den Rasenmäher fest.
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_3]
-{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}有时那正是最有逻辑的事！
+{NPC_ENTER:CRAZYDAVE}{SAY:CRAZYDAVE}Manchmal ist das einfach logisch!
 
 [NARRATIVE_FUTURE_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}我用疯狂的眼睛监视着UFB！也就是不明飞行脑的缩写！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Ich schaue mir das UFB mit meinen verrückten Augen an! Das ist die Abkürzung für Unbekanntes Fliegendes Gehirn!
 
 [NARRATIVE_FUTURE_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:WINNIE}里面有比脑子更加可怕的东西。
+{SAY:WINNIE}Da drin gibt es Dinge, die noch gruseliger sind als Gehirne.
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:CRAZYDAVE}{SPECIAL2}噢！真是……不可思议！
+{NPC_ENTER:CRAZYDAVE}{SPECIAL2}Oh! Das ist ... unglaublich!
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_2]
-{EXCITED:CRAZYDAVE}我又想吃那个魅惑玉米卷了！我需要我的时间机器！
+{EXCITED:CRAZYDAVE}Ich will diesen verzauberten Taco nochmal! Ich brauche meine Zeitmaschine!
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_3]
-{TIRED:CRAZYDAVE}什么？等等……我说的什么？
+{TIRED:CRAZYDAVE}Was? Warte... was habe ich gesagt?
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:CRAZYDAVE}{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}催眠僵博术……催眠僵博术！
+{NPC_EXIT:CRAZYDAVE}{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Hypnotischer Zombie...Hypnotischer Zombie!
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_5]
-{SAY:ZOMBOSSICON}见鬼，是不是应该叫做僵博催眠术才对？
+{SAY:ZOMBOSSICON} Verdammt, sollte es nicht Zombieologie heißen?
 
 [NARRATIVE_FUTURE_ZOMBIENOTE_1]
-{NPC_ENTER:CRAZYDAVEICON}{SAY}好像出现问题了。你能过来修修吗，潘妮？
+{NPC_ENTER:CRAZYDAVEICON}{SAY} Irgendwas stimmt nicht. Kannst du kommen und es reparieren, Penny?
 
 [NARRATIVE_FUTURE_ZOMBIENOTE_2]
-{NPC_ENTER:WINNIEICON}{TIRED}你是不是试着把它拔出，又插回去了？
+{NPC_ENTER:WINNIEICON}{TIRED} Hast du versucht, den Stecker zu ziehen und wieder einzustecken?
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_1]
 {NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}向前看，忠实的信徒们！
@@ -31971,14 +31975,17 @@ Dunkle Herausforderung: Dunkle Armee
 摩登挑战: 掉...掉下来了
 
 [VIEW_PICKS]
-显示选择
+Auswahl anzeigen
+
 [WARNING_BEGHOULED_SWAP]
-交换！
+Tauschen!
+
 [WARNING_LEPRACHAUNS]
-小精灵！
+Wichte!
 
 [WARNING_LOD]
-保护你的房子！
+Schütze dein Haus!
+
 [WASABIWHIP]
 炙热山葵
 
@@ -31991,31 +31998,36 @@ Dunkle Herausforderung: Dunkle Armee
 {KEYWORD}特点： {STAT}抵抗寒冷并温暖周围的植物
 
 {FLAVOR}“抽人的技巧全在手腕上”，炙热山葵说。“好吧，准确的说也不是手腕，毕竟我没有手腕。你得，呃……自己成为手腕。”
+
 [WORLD_NAME_DINO]
-恐龙危机
+Jurassisches Moor
+
 [WORLD_NAME_EIGHTIES]
-摇滚年代
+Neon-Mixtape-Tour
+
 [WORLD_NAME_MODERN]
-摩登世界
+Moderne
+
 [WORLD_PREVIEW_BEACH_HIGHLIGHT_COUNT]
 38
 
 [WORLD_PREVIEW_BEACH_TITLE]
-大浪沙滩！
+Riesen Wellen Strand！
+
 [WORLD_PREVIEW_BUY_NOW_HEADER]
-马上购买
+Jetzt kaufen!
 
 [WORLD_PREVIEW_COWBOY_HIGHLIGHT_COUNT]
 36
 
 [WORLD_PREVIEW_COWBOY_TITLE]
-狂野西部！
+Wilder Westen!
 
 [WORLD_PREVIEW_DARK_HIGHLIGHT_COUNT]
 26
 
 [WORLD_PREVIEW_DARK_TITLE]
-黑暗时代！
+Mittelalter!
 [WORLD_PREVIEW_DESCRIPTION_DINO]
 在这恐怖蜥蜴丑陋的脚下，整个大地都在颤抖。恐龙徘徊在过去，嘲讽这史前僵尸们，让他们对古代非常厌恶。
 
@@ -32027,47 +32039,47 @@ Dunkle Herausforderung: Dunkle Armee
 38
 
 [WORLD_PREVIEW_DINO_TITLE]
-恐龙危机
+Jurrasisches Moor
 [WORLD_PREVIEW_EIGHTIES_HIGHLIGHT_COUNT]
 39
 
 [WORLD_PREVIEW_EIGHTIES_TITLE]
-摇滚年代
+Neon Mixtape Tour!
 
 [WORLD_PREVIEW_FUTURE_HIGHLIGHT_COUNT]
 34
 
 [WORLD_PREVIEW_FUTURE_TITLE]
-遥远未来！
+Ferne Zukunft!
 
 [WORLD_PREVIEW_HIGHLIGHT_SUBTEXT]
-全新道具
+Enthält:
 
 [WORLD_PREVIEW_ICEAGE_HIGHLIGHT_COUNT]
 36
 
 [WORLD_PREVIEW_ICEAGE_TITLE]
-冰霜洞窟！
+Frostbeulen Höhlen!
 [WORLD_PREVIEW_LOSTCITY_HIGHLIGHT_COUNT]
 38
 
 [WORLD_PREVIEW_LOSTCITY_TITLE]
-失落之城！
+Verlorene Stadt!
 
 [WORLD_PREVIEW_MODERN_HIGHLIGHT_COUNT]
 40
 
 [WORLD_PREVIEW_MODERN_TITLE]
-摩登世界
+Moderne!
 
 [WORLD_PREVIEW_PIRATE_HIGHLIGHT_COUNT]
 36
 
 [WORLD_PREVIEW_PIRATE_HIGHLIGHT_SUBTEXT]
-使用钥匙
+Verwenden von Schlüsseln
 
 [WORLD_PREVIEW_PIRATE_TITLE]
-海盗海洋！
+Piratensee!
 [WORLD_PREVIEW_TEASER_DINO]
 +31关卡
 +1无限区域！
@@ -32084,49 +32096,49 @@ Dunkle Herausforderung: Dunkle Armee
 +5植物
 +3头目战！
 [WORLD_PREVIEW_USE_KEY]
-使用钥匙
+Schlüssel benutzen
 
 [WORLD_PREVIEW_USE_KEY_HEADER]
-解锁
+Freischalten
 
 [WORLDKEY_GIFT_BRIEF_BODY_TEXT]
-这把钥匙可以解锁新世界！
+Dieser Schlüssel schaltet neue Welten frei!
 
 [WORLDKEY_GIFT_COMPLETIONIST_BODY_TEXT]
-拿好你的钥匙！你或许在接下来的旅行日志任务中会用到它们。 
+Schnapp dir deine Schlüssel! Du könntest sie in der nächsten Reisetagebuch-Quest brauchen.
 
 [WORLDKEY_GIFT_MIDPLAYER_BODY_TEXT]
-在旅行日志中检查你的推荐目的地。 
+Sieh dir deine empfohlenen Ziele im Reisetagebuch an.
 
 [WORLDKEY_GIFT_NEWPLAYER_BODY_TEXT]
-这把钥匙可以解锁新世界！在旅行日志中检查你的推荐目的地。
+Dieser Schlüssel schaltet neue Welten frei! Sieh dir deine empfohlenen Ziele im Reisetagebuch an.
 
 [WORLDKEY_GIFT_TITLE_TEXT]
-你好，时间旅行者！这是一把免费的世界钥匙。
+Hallo Zeitreisender! Hier ist ein kostenloser Weltenschlüssel.
 
 [WORLDMAP_EVENT_LOD_BEACH1_HERE_DESC]
-大浪沙滩第一部分已经开启！
+Big Wave Beach Teil 1 ist jetzt geöffnet!
 
 [WORLDMAP_EVENT_LOD_BEACH1_HERE_TITLE]
-感受全新的僵尸之潮吧。
+Spüre die neue Zombiewelle.
 
 [WORLDMAP_EVENT_LOD_BEACH1_TEASER_DESC]
-……还有大浪沙滩第一部分的预览。
+… und eine Vorschau auf Big Wave Beach Teil 1.
 
 [WORLDMAP_EVENT_LOD_BEACH1_TEASER_TITLE]
-赶上这僵尸之潮……
+Fang die Zombiewelle…
 
 [WORLDMAP_EVENT_LOD_BEACH2_HERE_DESC]
-你不需要海滩垫子。
+Du brauchst keine Strandmatte.
 
 [WORLDMAP_EVENT_LOD_BEACH2_HERE_TITLE]
-沉浸在大浪沙滩的派对中吧！
+Verliere dich in der Party am Big Wave Beach!
 
 [WORLDMAP_EVENT_LOD_BEACH2_TEASER_DESC]
-预览大浪沙滩第二部分的内容！
+Vorschau auf Big Wave Beach Teil 2!
 
 [WORLDMAP_EVENT_LOD_BEACH2_TEASER_TITLE]
-追踪苦菜随着大浪闪亮登场！
+Spüre das bittere Gemüse und zeige dich strahlend in den großen Wellen!
 
 [WORLDMAP_EVENT_LOD_BIRTHDAYZ_DEFAULT_DESC]
 在5月12号每胜利一次都会获得宝石。
@@ -32510,62 +32522,67 @@ Dunkle Herausforderung: Dunkle Armee
 在今天的彩罐派对中尝试魅力无穷的地瓜！
 
 [WORLDMAP_EVENT_LOD_TITLE]
-彩罐派对现已开放！
+Piñata-Party jetzt geöffnet!
 
 [WORLDMAP_EVENT_LOD_UPCOMING_BUTTON]
-还没有
+Noch nicht
 
 [WORLDMAP_EVENT_LOD_UPCOMING_DESC]
-下一个
+Weiter
 
 [WORLDMAP_EVENT_LOD_UPCOMING_HOLIDAY_DESC]
-下一个
+Weiter
 
 [WORLDMAP_EVENT_LOD_UPCOMING_HOLIDAY_TITLE]
-派对
+Party
 
 [WORLDMAP_EVENT_LOD_UPCOMING_TITLE]
-派对
+Party
 
 [WORLDMAP_EVENT_PLAY_NOW]
-游玩活动
+Event spielen
 
 [WORLDMAP_EVENT_REPLAY_NOW]
-重开活动
+Event erneut öffnen
 
 [WORLDMAP_EVENT_REPLAY_NOW_FOR_COINS]
-重试： {COST}
+Erneut versuchen: {COST}
 
 [WORLDMAP_EVENT_RESUME]
-继续活动
+Event fortsetzen
 
 [WORLDMAP_EVENT_TIME_TWISTER_DEFAULT_DESC]
-旋风炙热山葵登场！
+Der Wasabi-Wirbelwind ist da!
 
 [WORLDMAP_EVENT_TIME_TWISTER_DEFAULT_TITLE]
-快来感受爽快的时空扭曲活动！
+Erlebe das erfrischende Zeitreise-Event!
 
 [WORLDMAP_EVENT_YETI_DESC]
-追捕他夺取大量奖励！
+Jage ihn und sichere dir tolle Belohnungen!
 
 [WORLDMAP_EVENT_YETI_TITLE]
-发现野人！
+Finde den wilden Mann!
+
 [ZEN_GARDEN_ALL_RARE]
-100%稀有！
+100 % selten!
+
 [ZEN_GARDEN_CONFIRM_SALE]
-卖出植物？
+Verkaufst du Pflanzen?
+
 [ZEN_GARDEN_HALF_BONUS]
-+50%额外收益
++50 % zusätzliches Einkommen
+
 [ZEN_GARDEN_MULTIPLANT_HEADER]
-种植多棵幼苗？
+Pflanzst du mehrere Setzlinge?
 
 [ZEN_GARDEN_MULTIPLANT_TEXT]
-你可以种植多棵幼苗来增加获得优秀或稀有植物的几率。
+Du kannst mehrere Setzlinge pflanzen, um die Chance auf hervorragende oder seltene Pflanzen zu erhöhen.
 
 [ZEN_GARDEN_NO_BONUS]
-无增益
+Kein Bonus
+
 [ZEN_GARDEN_WORTH_NO_SPROUTS]
-蜜蜂会拿走你的植物，但它还长得不够大。仍然卖出？
+Die Bienen werden deine Pflanze nehmen, aber sie wird noch nicht groß genug sein. Trotzdem verkaufen?
 
 [ZOMBIE_DINO]
 Jurassischer Zombie
@@ -33070,88 +33087,88 @@ Artefakte
 更换头像失败
 
 [PEASHOOTER_HEAD_DES]
-豌豆射手头像，帅哥的象征！
+Erbsenkanonenkopf, Symbol für attraktive Männer!
 
 [SUNFLOWER_HEAD_DES]
-向日葵头像，美女的象征！
+Sonnenblumenkopf, Symbol der Schönheit!
 
 [PLAYERS_TRIP_TO_BOSSRACEEVENT]
-{PLAYER}的极限竞速赛之旅
+{PLAYER}s Extreme Racing Tour
 
 [BOSS_CHALLENGE_HEAD_ID_25003]
-周年冠军头像
+Jubiläums-Champion-Kopf
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25003]
-连游戏设计师都玩不过你！
+Selbst Spieleentwickler können dich nicht schlagen!
 
 [BOSS_CHALLENGE_HEAD_ID_25004]
-周年亚军头像
+Jubiläums-Zweitplatzierter-Kopf
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25004]
-当你仰望巅峰的时候，无数的人也在仰望着你！
+Wenn du nach oben schaust, schauen unzählige andere auch zu dir auf!
 
 [BOSS_CHALLENGE_HEAD_ID_25005]
-周年季军头像
+Jubiläums-Avatar für den dritten Platz
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25005]
-有资格站上领奖台的高手之证，你的战绩将无人不知无人不晓！
+Der Beweis, dass du ein Meister bist, der es verdient, aufs Podium zu steigen. Deine Erfolge werden jedem bekannt sein!
 
 [BOSS_CHALLENGE_HEAD_ID_25006]
-周年巅峰头像
+Jubiläums-Avatar für den Gipfel
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25006]
-精英中的精英，强者中的强者！
+Die Elite unter den Eliten, der Stärkste unter den Starken!
 
 [BOSS_CHALLENGE_HEAD_ID_25007]
-周年大师头像
+Jubiläums-Meister-Avatar
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25007]
-光凭这个就能证明你是万里挑一的人物！
+Allein das beweist, dass du einzigartig bist!
 
 [BOSS_CHALLENGE_HEAD_ID_25008]
-周年勇士头像
+Jubiläums-Krieger-Avatar
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25008]
-最杰出的玩家的证明，没有人比你们更了解这个游戏了！
+Beweis für die herausragendsten Spieler: Niemand kennt dieses Spiel besser als du!
 
 [BOSS_CHALLENGE_HEAD_ID_25009]
-周年纪念头像
+Jubiläums-Avatar
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25009]
-3周年的风雨，感谢您的陪伴和见证，时空之旅因为你们而无比精彩！
+Vielen Dank für deine Begleitung und dein Mitwirken am 3. Jubiläum. Dank dir ist die Reise durch Zeit und Raum so wunderbar!
 
 [BOSS_CHALLENGE_HEAD_ID_25010]
-周年冠军头像II
+Jubiläums-Champion-Avatar II
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25010]
-游戏设计师再一次败给了你！
+Der Spieleentwickler hat wieder gegen dich verloren!
 
 [BOSS_CHALLENGE_HEAD_ID_25011]
-周年亚军头像II
+Jubiläums-Avatar für den zweiten Platz II
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25011]
-当你仰望巅峰的时候，无数的人也在仰望着你！
+Wenn du zum Gipfel aufschaust, schauen unzählige Menschen auch zu dir auf!
 
 [BOSS_CHALLENGE_HEAD_ID_25012]
-周年季军头像II
+Jubiläums-Avatar für den dritten Platz II
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25012]
-有资格站上领奖台的高手之证，你的战绩将无人不知无人不晓！
+Der Beweis eines Meisters, der es verdient, auf dem Siegerpodest zu stehen – deine Leistungen werden jedem bekannt sein!
 
 [BOSS_CHALLENGE_HEAD_ID_25013]
-周年巅峰头像II
+Jubiläums-Gipfel-Avatar II
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25013]
-精英中的精英，强者中的强者！
+Die Elite unter den Eliten, die Stärksten unter den Starken!
 
 [BOSS_CHALLENGE_HEAD_ID_25014]
-周年大师头像II
+Jubiläums-Meisterporträt II
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25014]
-光凭这个就能证明你是万里挑一的人物！
+Das allein beweist, dass du einzigartig bist!
 
 [BOSS_CHALLENGE_HEAD_ID_25015]
-周年勇士头像II	
+Jubiläums-Kriegerporträt II
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25015]
 最杰出的玩家的证明，没有人比你们更了解这个游戏了！
@@ -33372,7 +33389,7 @@ Fällt auf einem riesigen Lautsprecher vom Himmel und zerquetscht dabei deine Pf
 二阶玫瑰剑客
 
 [STARCHALLENGE_SKYCITY_FINALE]
-Besiege Dr. Zombies Transformer.
+Besiege Dr. Zombosss Transformer.
 
 [TITLE_OPEN_CHEST]
 Öffne den Schatz.
@@ -33603,172 +33620,173 @@ Für Spieler, die die letzte Belohnung im Event „Geheimnisvoller Schatz“ erh
 穿梭时空的传奇大神，请收下我们的膝盖！
 
 [FIRSTCREATE]
-创作
+Erstellen
 
 [LEVEL_EDITOR_HEAD_ID_25343]
-创作
+Erstellen
 
 [LEVEL_EDITOR_HEAD_DES_ID_25343]
-致在创意庭院中努力创作的玩家
+An alle Spieler, die fleißig im Kreativgarten arbeiten
 
 [FIRSTPLAY]
-游玩
+Spielen
 
 [LEVEL_EDITOR_HEAD_ID_25344]
-游玩
+Spielen
 
 [LEVEL_EDITOR_HEAD_DES_ID_25344]
-致在创意庭院中大量游玩的玩家
+An alle Spieler, die viel im Kreativgarten gespielt haben
 
 [SPRINGSKY]
-春日的天空
+Frühlingshimmel
 
 [LEVEL_EDITOR_HEAD_ID_25347]
-春日的天空
+Frühlingshimmel
 
 [LEVEL_EDITOR_HEAD_DES_ID_25347]
-致在第二赛季的创意庭院中努力创作的玩家
+An alle Spieler, die in der zweiten Saison fleißig im Kreativgarten gearbeitet haben
 
 [SPRINGGROUND]
-春日的大地
+Frühling Boden
 
-[LEVEL_EDITOR_HEAD_ID_25348]
-春日的大地
+[LEVEL_EDITOR_HEAD_DES_ID_25347]
+D_ID_25348]
+Frühlingsland
 
 [LEVEL_EDITOR_HEAD_DES_ID_25348]
-致在第二赛季的创意庭院中大量游玩的玩家
+An alle Spieler, die in der zweiten Staffel viel im Kreativhof gespielt haben:
 
-[ZOMBIEWAITER]
-午后茶点服务生
+[ZOMBIEWATER]
+Kellner für den Nachmittagstee
 
 [LEVEL_EDITOR_HEAD_ID_25355]
-午后茶点服务生
+Kellner für den Nachmittagstee
 
 [LEVEL_EDITOR_HEAD_DES_ID_25355]
-是时候在童话世界的氛围中一起来上一份下午茶了
+Zeit für einen Nachmittagstee in der Atmosphäre einer Märchenwelt.
 
 [SUNFLOWERMEAL]
-午后茶点向日葵
+Sonnenblume für den Nachmittagstee
 
 [LEVEL_EDITOR_HEAD_ID_25356]
-午后茶点向日葵
+Sonnenblume für den Nachmittagstee
 
 [LEVEL_EDITOR_HEAD_DES_ID_25356]
-向日葵表示非常喜欢童话世界的氛围和美味的下午茶
+Sonnenblume sagte, dass ihr die Atmosphäre der Märchenwelt sehr gut gefallen hat. und der köstliche Nachmittagstee
 
 [DRAGONCANEMARTIAL]
-武术家蔗师傅
+Kampfkünstler Meister Cane
 
-[LEVEL_EDITOR_HEAD_ID_25371]
-武术家蔗师傅
+[LEVEL L_EDITOR_HEAD_ID_25371]
+Meister Cane, ein Kampfkünstler
 
 [LEVEL_EDITOR_HEAD_DES_ID_25371]
-蔗师傅每天都会对着木桩锻炼技艺
+Meister Cane übt täglich seine Fähigkeiten an einem Holzpfahl.
 
 [ZOMBIESAUSAGE]
-特殊的香肠
+Spezialwurst
 
 [LEVEL_EDITOR_HEAD_ID_25372]
-特殊的香肠
+Spezialwurst
 
 [LEVEL_EDITOR_HEAD_DES_ID_25372]
-这个特殊的香肠总是会试图跳上餐桌
+Diese Spezialwurst versucht immer, auf den Tisch zu springen.
 
 [PENNYCLASS_FIRST]
-植物学士
+Bachelor der Botanik
 
 [PENNYCLASS_FIRST_HEAD_ID_25349]
-植物学士
+Bachelor der Botanik
 
 [PENNYCLASS_FIRST_HEAD_DES_ID_25349]
-潘妮课堂入门考试完成的证明
+Nachweis des Abschlusses von Penny Aufnahmeprüfung
 
 [PENNYCLASS_SECOND]
-植物硕士
+Master of Botany
 
-[PENNYCLASS_SECOND_HEAD_ID_25350]
-植物硕士
+[PENNYCLASS_ SECOND_HEAD_ID_25350]
+Master of Plants
 
 [PENNYCLASS_SECOND_HEAD_DES_ID_25350]
-潘妮课堂初级训练完成的证明
+Nachweis über den Abschluss der Penny Classroom Primary Training
 
 [PENNYCLASS_THIRD]
-植物博士
+Master of Plants
 
 [PENNYCLASS_THIRD_HEAD_ID_25351]
-植物博士
+Master of Plants
 
 [PENNYCLASS_THIRD_HEAD_DES_ID_25351]
-潘妮课堂进阶考核完成的证明
+Nachweis über den Abschluss der Penny Classroom Advanced Assessment
 
 [PENNYCLASS_FOURTH]
-植物大师
+Master of Plants
 
 [PENNYCLASS_FOURTH_HEAD_ID_25352]
-植物大师
+Master of Pflanzen
 
 [PENNYCLASS_FOURTH_HEAD_DES_ID_25352]
-潘妮课堂终极试炼完成的证明
+Nachweis über den Abschluss des Penny Classroom Final Trials
 
 [USERINFO_1]
-请填写信息，以便获奖后及时通知您。（带^FF0000^*^oldclr^项为必填）
+Bitte füllen Sie die Informationen aus, damit Sie rechtzeitig nach dem Gewinn des Preises benachrichtigt werden können. (Elemente mit ^FF0000^*^oldclr^ sind erforderlich.)
 
 [USERINFO_2]
-我们尊重并保护您的信息，只将其用于改善服务。
+Wir respektieren und schützen Ihre Daten und verwenden sie ausschließlich zur Verbesserung unserer Dienste.
 
 [USERINFO_3]
-男
+Männlich
 
 [USERINFO_4]
-女
+Weiblich
 
 [USERINFO_5]
-^FF0000^   *^oldclr^ 邮箱：
+^FF0000^ *^oldclr^ E-Mail:
 
 [USERINFO_6]
-电话：
+Telefon:
 
 [USERINFO_7]
-年龄：
+Alter:
 
 [USERINFO_8]
-保存并领取        30
+Speichern und 30 einfordern
 
 [USERINFO_9]
-性别：
+Geschlecht:
 
 [SETTINGHEADSHOT_1]
-只能输入八个字！
+Sie können maximal acht Zeichen eingeben!
 
 [SETTINGHEADSHOT_2]
-账号信息
+Kontoinformationen
 
 [SETTINGHEADSHOT_3]
-返回菜单
+Zurück zum Menü
 
 [SETTINGHEADSHOT_4]
-x500更改名字
+500-facher Namenswechsel
 
 [SETTINGHEADSHOT_5]
-月卡特权更改名字
+Monatliche Kartenprivilegien: Namenswechsel
 
 [SETTINGHEADSHOT_6]
-免费更改名字
+Kostenlose Namensänderung
 
 [SELECTHEADSHOT_1]
-更换
+Ändern
 
 [SELECTHEADSHOT_2]
-头像名最长八个字
+Avatarname kann bis zu acht Zeichen lang sein.
 
 [SELECTHEADSHOT_3]
-这里告诉你怎么得到这个头像，大概最长不会超过三行？
+So erhalten Sie diesen Avatar, der wahrscheinlich nicht länger als drei Zeilen ist.
 
 [CUKEPACKAGE_1]
-战术黄瓜毁灭包
+Tactical Cucumber Destruction Pack
 
 [CUKEPACKAGE_2]
-购买毁灭包
+Destruction Pack kaufen
 
 [PLANT_FAMILY_FAMILY_LEVEL]
 {LEVEL} Stufe
@@ -33852,52 +33870,52 @@ Kostenlos aktualisieren
 Werbung ansehen zum Aktualisierung
 
 [PLANT_FAMILY_FREE_REFRESH_REMAIN]
-今天还可免费{count}次
+{count} Mal heute frei
 
 [PLANT_FAMILY_LOCKED]
-未解锁
+Nicht freigeschaltet
 
 [PLANT_FAMILY_NONE_PROPERTY]
-无属性
+Keine Immobilie
 
 [PLANT_FAMILY_DONOT_REFRESH]
-属性不会刷新
+Immobilien werden nicht aktualisiert.
 
 [PLANT_FAMILY_UNLOCK_DESC]
-解锁新属性
+Neue Immobilien freischalten
 
 [PLANT_FAMILY_REFRESH_NOTICE]
-您已经获得了一个优秀的属性，确定要继续刷新吗？
+Sie haben eine ausgezeichnete Immobilie erhalten. Möchten Sie die Aktualisierung wirklich fortsetzen?
 
 [PLANT_FAMILY_SAVE_NOTICE]
-您当前的优秀属性将被替换，确定要继续吗？
+Ihre aktuelle ausgezeichnete Immobilie wird ersetzt. Möchten Sie wirklich fortfahren?
 
 [PLANT_FAMILY_LOCK_FOR_REFRESH_NOTICE]
-被锁定的属性不会被刷新更改，一次只能锁定一个属性
+Gesperrte Attribute werden durch die Aktualisierung nicht geändert. Es kann immer nur ein Attribut gesperrt sein.
 
 [PLANT_FAMILY_UNLOCK_FOR_REFRESH_NOTICE]
-属性已解锁，刷新会影响本属性
+Attribut wurde entsperrt. Die Aktualisierung wirkt sich auf dieses Attribut aus.
 
 [PLANT_FAMILY_LOCK_FOR_REFRESH_NOTICE2]
-注意：刷新出的属性还没替换，锁定将删除所有新属性
+Hinweis: Aktualisierte Attribute wurden nicht ersetzt. Durch die Sperrung werden alle neuen Attribute gelöscht.
 
 [PLANT_FAMILY_UNLOCK_NOTICE_INFO1]
-使用
+Verwenden
 
 [PLANT_FAMILY_UNLOCK_NOTICE_INFO2]
-解锁新属性?
+Neue Attribute entsperren?
 
 [PLANT_FAMILY_REFRESH_NOTICE_INFO1]
-花费
+Ausgeben
 
 [PLANT_FAMILY_REFRESH_NOTICE_INFO2]
-刷新
+Aktualisieren
 
 [PLANT_FAMILY_REFRESH_NOTICE_INFO3]
-个属性？
+Attribute?
 
 [PLANT_FAMILY_REFRESH_NOTICE_INFO4]
-有锁定属性，刷新花费提高
+Es ist gesperrt und die Aktualisierungskosten sind erhöht.
 
 [PLANT_FAMILY_SKILL_EXTRA_ATTACK]
 Angriffskraft erhöht um
@@ -34961,189 +34979,189 @@ Widersteht dem Trampeln von Brontosauriern.
 已达到最大种植上限！
 
 [ZOMBIE_DINO_PUSHEGG]
-推蛋小鬼僵尸
+Eierschiebender Wichtelzombie
 
 [ZOMBIE_DINO_PUSHEGG_DESCRIPTION_HEADER]
-伪装成小恐龙的小鬼僵尸，虽然比别的小鬼僵尸强悍，但真正的威胁是被他推动的龙蛋。
+Obwohl der als kleiner Dinosaurier verkleidete Wichtelzombie stärker ist als andere Wichtelzombie, ist die wahre Bedrohung das Drachenei, das er schiebt.
 
 [ZOMBIE_DINO_PUSHEGG_DESCRIPTION]
-推蛋小鬼僵尸成功躲过了恐龙的袭击，并推走了龙蛋，但忽略了自己长得太矮看不到前路的致命问题。
+Der Wichtelzombie wich dem Angriff des Dinosauriers erfolgreich aus und schob das Drachenei weg, ignorierte dabei aber das fatale Problem, dass er zu klein war, um den Weg vor sich zu sehen.
 
 [ZOMBIE_DINO_STEALEGG]
-偷蛋小鬼僵尸
+Eierstehlender Wichtelzombie
 
 [ZOMBIE_DINO_STEALEGG_DESCRIPTION_HEADER]
-抱着龙蛋逃跑的小鬼僵尸，重心不稳导致他经常仆街，并把龙蛋甩出去，要是压到植物就惨了。
+Der Wichtelzombie, der mit dem Drachenei davonlief, hatte einen instabilen Schwerpunkt, wodurch er häufig hinfiel und das Drachenei herausschleuderte. Es wäre schrecklich gewesen, wenn er die Pflanzen zerquetscht hätte.
 
 [ZOMBIE_DINO_STEALEGG_DESCRIPTION]
-没钱买伪装服的偷蛋小鬼僵尸选择了简单粗暴的偷蛋方式，抱着走，被恐龙追已成为他的家常便饭。
+Der Brenneier-Zombie, der kein Geld für Tarnkleidung hatte, wählte eine einfache und primitive Methode, Eier zu stehlen. Er trug die Eier und wurde von Dinosauriern verfolgt.
 
 [ZOMBIE_DINO_EGGSHELL]
-蛋壳小鬼僵尸
+Eierschalen-Zombie
 
 [ZOMBIE_DINO_EGGSHELL_DESCRIPTION_HEADER]
-伪装成龙蛋的小鬼僵尸，蛋壳除了卖萌之外，还能提供一些防御作用。
+Der Brenneier-Zombie verkleidet sich als Drachenei. Die Eierschale ist nicht nur niedlich, sondern bietet auch Schutz.
 
 [ZOMBIE_DINO_EGGSHELL_DESCRIPTION]
-当其他小鬼僵尸还在想办法偷龙蛋的时候，蛋壳小鬼僵尸已经学会把自己伪装成龙蛋的恶作剧了，真是一僵还有一僵高。
+Während andere Brenneier-Zombies noch versuchten, Dracheneier zu stehlen, hatte der Eierschalen-Zombie bereits gelernt, sich als Drachenei zu verkleiden. Es war wirklich ein Trick.
 
 [PLAYERS_TRIP_TO_DINOSAURDANGER]
-{PLAYER}的鸡年冒险之旅
+{PLAYER}s Abenteuer im Jahr des Hahns
 
 [DINOSAUR1_LEVEL_NAME]
-鸡群大暴走
+Hühner-Amoklauf
 
 [DINOSAUR2_LEVEL_NAME]
-进鸡的巨人
+Riese dringt ins Huhn ein
 
 [DINOSAUR3_LEVEL_NAME]
-猛龙过僵
+Drache passiert Zombies
 
 [DINOSAUR4_LEVEL_NAME]
-辞旧迎新
+Tschüss, alt, auf ins Neue
 
 [DINOSAUR5_LEVEL_NAME]
-上校炸鸡
+Colonel Fried Chicken
 
 [STORE_PRODUCT_AVATAR_COBCANNON_TITLE]
-玉米加农炮装扮
+Maiskanonen-Kostüm
 
 [STORE_PRODUCT_AVATAR_COBCANNON]
-大招结束时玉米芯变为追踪导弹攻击僵尸。
+Wenn die ultimative Fähigkeit endet, verwandelt sich der Maiskolben in eine zielsuchende Rakete, die Zombies angreift.
 
 [LOST_NETWORK_ACTIVE_BUBBLE_TITLE]
-超值
+Tolles Preis-Leistungs-Verhältnis
 
 [LOST_NETWORK_ACTIVE_BUBBLE_TEXT]
-{PERCENT}%！
+{PERCENT} %!
 
 [LOST_NETWORK_ACTIVE_TIME_PRE]
-礼包刷新：
+Geschenkpaket aktualisiert:
 
 [LOST_NETWORK_ACTIVE_OLD_COST_1]
-原价
+Originalpreis
 
 [LOST_NETWORK_ACTIVE_OLD_COST_3]
-元
+Yuan
 
 [LOST_NETWORK_ACTIVE_BUY_BUTTON]
-{COST}元
+{COST}Yuan
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL1]
-一阶{PLANT}
+Erste Bestellung {PLANT}
 
-[LOST_NETWORK_ACTIVE_PLANT_LEVEL2]
-二阶{PLANT}
+[LOST_NETWORK_ACTIVE_P LANT_LEVEL2]
+Level 2 {PLANT}
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL3]
-三阶{PLANT}
+Level 3 {PLANT}
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL4]
-四阶{PLANT}
+Level 4 {PLANT}
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL5]
-五阶{PLANT}
+Level 5 {PLANT}
 
 [APPLEMORTAR]
-苹果迫击炮
+Apfel Mörser
 
 [APPLEMORTAR_DESCRIPTION]
-{KEYWORD}范围： {STAT}邻近三行
-{KEYWORD}特点： {STAT}对僵尸造成短暂的僵直状态
-{KEYWORD}植物特征：{STAT}红色植物、武器家族
+{KEYWORD}Reichweite: {STAT}Drei nebeneinanderliegende Reihen
+{KEYWORD}Eigenschaften: {STAT}Verursacht kurze Erstarrung bei Zombies
+{KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanzen, Waffenfamilie
 
-{FLAVOR}每日一苹果，僵尸远离我。
+{FLAVOR}Ein Apfel am Tag, Zombies bleiben fern.
 
 [APPLEMORTAR_DESCRIPTION_HEADER]
-苹果迫击炮可以攻击邻近三行的僵尸，并对僵尸造成短暂的僵直。
+Apfelmörser kann Zombies in drei nebeneinanderliegenden Reihen angreifen und kurzzeitig erstarren.
 
 [APPLEMORTAR_TOOLTIP]
-可以攻击邻近三行的僵尸，并对僵尸造成短暂的僵直。
+Kann Zombies in drei nebeneinanderliegenden Reihen angreifen und vorübergehend betäuben.
 
 [APPLEMORTAR_SKILL_LEVEL1]
-走火
+Fehlzündung
 
 [APPLEMORTAR_SKILL_LEVEL1_DES]
-每次攻击后有概率走火，多发射一颗随机目标的苹果核炮弹。
+Nach jedem Angriff besteht die Möglichkeit einer Fehlzündung, und es wird eine zusätzliche Apfelkerngranate auf ein zufälliges Ziel abgefeuert.
 
 [APPLEMORTAR_SKILL_LEVEL2]
-走神
+Fehlfokus
 
 [APPLEMORTAR_SKILL_LEVEL2_DES]
-提升走火概率。
+Erhöht die Wahrscheinlichkeit von Fehlschüssen.
 
 [APPLEMORTAR_SUPERSKILL_NAME]
-伊登的苹果
+Edens Apfel
 
 [APPLEMORTAR_SUPERSKILL_DES]
-苹果核炮弹进化为金苹果爆弹，可造成一格范围伤害。
+Apfelkernschalen entwickeln sich zu goldenen Apfelbomben, die Flächenschaden von einem Feld verursachen können.
 
 [STORE_PRODUCT_AVATAR_APPLEMORTAR_TITLE]
-苹果迫击炮装扮
+Apfelmörser-Kostüm
 
 [STORE_PRODUCT_AVATAR_APPLEMORTAR]
-发射生化苹果爆弹，对僵尸造成中毒效果。
+Feuert biochemische Apfelbomben ab, die Zombies vergiften.
 
 [FIRECRACKERFLOWER]
-疯狂炮仗花
+Verrückte Feuerwerksblume
 
 [FIRECRACKERFLOWER_DESCRIPTION]
-{KEYWORD}范围： {STAT}邻近三行
-{KEYWORD}特点： {STAT}对僵尸造成短暂的眩晕状态
-{KEYWORD}植物特征：{STAT}红色植物、武器家族
+{KEYWORD}Reichweite: {STAT}Drei nebeneinanderliegende Reihen
+{KEYWORD}Eigenschaften: {STAT}Betäubt Zombies kurzzeitig
+{KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanzen, Waffenfamilie
 
-{FLAVOR}我有两串炮仗，左手那串叫“嘣”，右手那串叫“啪”。
+{FLAVOR}Ich habe zwei Feuerwerksketten: die in meiner linken Hand heißt „Bang“, die in meiner rechten Hand heißt „Pa“.
 
 [FIRECRACKERFLOWER_DESCRIPTION_HEADER]
-疯狂炮仗花可以攻击邻近三行的僵尸，并对僵尸造成短暂的眩晕。
+Die Verrückte Feuerwerksblume kann Zombies in drei nebeneinanderliegenden Reihen angreifen und kurzzeitig betäuben.
 
 [FIRECRACKERFLOWER_TOOLTIP]
-可以攻击邻近三行的僵尸，并对僵尸造成短暂的眩晕。
+Kann Zombies in drei nebeneinanderliegenden Reihen angreifen und kurzzeitig betäuben.
 
 [FIRECRACKERFLOWER_SKILL_LEVEL1]
-加长炮仗
+Verlängerter Feuerwerkskörper
 
 [FIRECRACKERFLOWER_SKILL_LEVEL1_DES]
-炮仗的持续时间延长0.25秒。
+Die Dauer des Feuerwerkskörpers wird um 0,25 Sekunden verlängert.
 
 [FIRECRACKERFLOWER_SKILL_LEVEL2]
-超长炮仗
+Extra langer Feuerwerkskörper
 
 [FIRECRACKERFLOWER_SKILL_LEVEL2_DES]
-炮仗的持续时间延长0.5秒。
+Die Dauer des Feuerwerkskörpers wird um 0,5 Sekunden verlängert.
 
 [FIRECRACKERFLOWER_SKILL_LEVEL5]
-炮仗精通
+Feuerwerkskörper-Fähigkeit
 
 [FIRECRACKERFLOWER_SKILL_LEVEL5_DES]
-攻击时会顶出一箱烟花，对目标所在格内的僵尸造成眩晕效果，持续1.5秒，同时每0.25秒造成45点伤害，后续进入该格中的僵尸也会受该效果影响。
+Beim Angriff wird eine Kiste mit Feuerwerkskörpern ausgeworfen, die die Zombies im Zielfeld 1,5 Sekunden lang betäubt und alle 0,25 Sekunden 45 Schaden verursacht. Auch Zombies, die das Gitter betreten, sind von diesem Effekt betroffen.
 
 [STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER_TITLE]
-疯狂炮仗花装扮
+Verrücktes Feuerwerksblumenkostüm
 
 [STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER]
-发射强化炮仗，对僵尸造成灼烧效果。
+Verstärke Feuerwerkskörper, die Zombies verbrennen.
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL1_DES]
-当邻近3行出现僵尸时，疯狂炮仗花会对其投掷炮仗串，炮仗串持续1.5秒，每0.25秒对僵尸造成1次伤害，炮仗串持续期间僵尸会受到^848484^眩晕Ⅰ^oldclr^效果影响。
+Wenn Zombies in den drei angrenzenden Reihen erscheinen, wirft die Verrückte Feuerwerksblume Feuerwerksketten auf sie. Die Feuerwerksketten halten 1,5 Sekunden an und verursachen alle 0,25 Sekunden 1 Schaden. Während der Dauer der Feuerwerkskette werden die Zombies vom Effekt ^848484^stunⅠ^oldclr^ betroffen.
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL2_DES]
-炮仗的持续时间延长0.25秒。
+Die Dauer des Feuerwerkskörpers verlängert sich um 0,25 Sekunden.
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL3_DES]
-炮仗的持续时间延长0.5秒。
+Die Dauer des Feuerwerkskörpers verlängert sich um 0,5 Sekunden.
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Platzieren besteht die Chance, den Energiebohnen-Big-Move direkt auszulösen!
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL5_DES]
-攻击时会顶出一箱烟花，对目标所在格内的僵尸造成^848484^眩晕Ⅰ^oldclr^效果，持续1.5秒，同时每0.25秒造成45点伤害，后续进入该格中的僵尸也会受该效果影响。
+Beim Angriff wird eine Kiste mit Feuerwerkskörpern abgeworfen, die Zombies im Zielfeld 1,5 Sekunden lang den Effekt ^848484^stunⅠ^oldclr^ zufügt und alle 0,25 Sekunden 45 Schaden verursacht. Auch Zombies, die das Feld betreten, sind von diesem Effekt betroffen.
 
 [FIRECRACKERFLOWER_PLANTFOOD_DESCRIPTION]
-朝每个僵尸投掷1串炮仗串，对单格内的僵尸造成伤害。
+Wirft eine Feuerwerkskette auf jeden Zombie und fügt den Zombies im Raster Schaden zu.
 
 [FIRECRACKERFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-朝每个僵尸投掷1串炮仗串，对单格内的僵尸造成伤害，之后还会对僵尸造成灼烧效果，持续6秒。
+Wirft eine Feuerwerkskette auf jeden Zombie und fügt den Zombies im Raster Schaden zu. Anschließend verbrennt der Effekt 6 Sekunden lang.
 
 [ESCAPEROOT]
 逃脱树根
@@ -35239,21 +35257,6 @@ Widersteht dem Trampeln von Brontosauriern.
 
 [STORE_PRODUCT_AVATAR_WITCHHAZEL]
 使金缕梅女巫释放大招时获得的植物同时也会施放大招。
-
-[ELECTRICCURRANT]
-电流醋栗
-
-[ELECTRICCURRANT_DESCRIPTION]
-{KEYWORD}用法： {STAT}同一行或列的两个电流醋栗之间会形成一道电墙
-{KEYWORD}植物特征：{STAT}红色植物、十万伏特
-
-{FLAVOR}“电是一种非常好的自然现象，”电流醋栗说道，“但电磁才是真实存在的整体。”
-
-[ELECTRICCURRANT_DESCRIPTION_HEADER]
-同一行或列的电流醋栗之间可以形成电墙，对经过的僵尸造成伤害。
-
-[ELECTRICCURRANT_TOOLTIP]
-可以形成电墙，对经过的僵尸造成伤害。
 
 [ELECTRICCURRANT_SKILL_LEVEL1]
 高压电流
@@ -35523,61 +35526,61 @@ Herzlichen Glückwunsch zu den folgenden Belohnungen:
 领取失败，请检查网络
 
 [PLANTING_NOT_ON_DUSKSEED]
-你不能把植物种在藤蔓上
+Du kannst nicht auf Ranken pflanzen.
 
 [PLANTING_NOT_ON_BOUNDTILE]
-你不能把植物种在弹跳板上
+Du kannst nicht auf einem Sprungkissen pflanzen.
 
 [PLANTING_NOT_ON_OBSTACLE]
-不能把植物种在冰地上
+Du kannst nicht auf Eis pflanzen.
 
 [PLANTING_NOT_ON_COAL_TRUCK]
-你不能把植物种在煤矿车上
+Du kannst nicht auf einem Kohlelaster pflanzen.
 
 [PLANTING_NOT_ON_COAL]
-你不能把植物种在煤矿上
+Du kannst nicht auf einer Kohlenmine pflanzen.
 
 [WECHAT_SHARE_SUCCESS_MSG_SECOND]
-分享成功
+Teilen erfolgreich
 
 [WECHAT_SHARE_SESSION_TXT]
-微信好友
+WeChat-Freunde
 
 [WECHAT_SHARE_TIMELINE_TXT]
-朋友圈
+Freundeskreis
 
 [ZOMBIE_EXPLOSION_PROOF]
-防爆警察僵尸
+Explosionsgeschützter Polizeizombie
 
 [WECHAT_SHARE_NOT_INSTALLED]
-请先安装微信
+Bitte installiere WeChat  Zuerst
 
 [ZOMBIE_EXPLOSION_PROOF_DESCRIPTION_HEADER]
-扔出烟雾弹罩住你的植物
+Wirf eine Rauchbombe, um deine Pflanzen zu bedecken.
 
 [ZOMBIE_EXPLOSION_PROOF_DESCRIPTION]
-"你有权保持沉默,但你所说的话将成为呈堂证供！"，他总是对着镜子反复练习着这段警告，自从警校毕业以来，他想用这句话耍帅很久了。
+„Du hast das Recht zu schweigen, aber deine Aussage wird vor Gericht als Beweismittel verwendet!“ Diese Warnung übte er immer vor dem Spiegel. Seit seinem Abschluss an der Polizeiakademie wollte er mit diesem Satz schon lange angeben.
 
 [ZOMBIE_MODERN_MINER]
-矿工僵尸
+Bergbau-Zombie
 
 [ZOMBIE_MODERN_MINER_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Kann Pflanzen direkt aus der letzten Reihe ausgraben.
 
 [ZOMBIE_MODERN_MINER_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Bergbau-Zombie muss drei Tage die Woche auf die Erlaubnis zum Graben warten.
 
-[DINONIP_PRODUCT_SHORT_DESC]
-可以迷惑恐龙攻击僵尸
+ [DINONIP_PRODUCT_SHORT_DESC]
+Kann Dinosaurier verwirren, um Zombies anzugreifen.
 
 [PITAYA_PRODUCT_SHORT_DESC]
-投出小萝卜导弹， 重重打击空中和地面成群的僵尸。
+Wirft Karottenraketen, um Zombiegruppen in der Luft und am Boden zu treffen.
 
 [PRIMALSUNFLOWER_PRODUCT_SHORT_DESC]
-产出大号阳光
+Erzeugt eine große Sonne.
 
 [PERFUMESHROOM_PRODUCT_SHORT_DESC]
-可以迷惑恐龙攻击僵尸
+Kann Dinosaurier verwirren, um Zombies anzugreifen.
 
 [ZOMBIE_NEWSPAPER_VETERAN]
 Sonntagsausgaben-Zombie
@@ -36067,67 +36070,67 @@ Die ultimative Fähigkeit bietet die Chance, Eismeteoriten abzuwerfen und Eisgru
 Mistelzweig-Eisfeen-Kostüm
 
 [STORE_PRODUCT_CHARGE_TITLE]
-充值大返利 装扮抽奖随意领
+Lade dein Guthaben auf und sichere dir tolle Rabatte. Außerdem kannst du mit etwas Glück Kostüme bei der Verlosung gewinnen.
 
 [STORE_PRODUCT_CHARGE_ACCUMULATE]
-累积充值{NUM}元：
+Gesammelte Guthabenaufladung von {NUM} Yuan:
 
 [STORE_PRODUCT_CHARGECANAWARD]
-充值{NUM}元领取
+Lade {NUM} Yuan auf und erhalte:
 
 [STORE_PRODUCT_ACTIVITY_DES]
-活动内容：活动期间，玩家充值达到相应额度均可领取到对应奖励，充值达到{NUM}元还可以领取^ff0000^装扮奖励！^oldclr^
+Event-Inhalt: Während des Events können Spieler, die ihr Guthaben aufladen, entsprechende Belohnungen erhalten. Wer sein Guthaben auf {NUM} Yuan auflädt, erhält außerdem ^ff0000^ Kostümbelohnungen! ^oldclr^
 
 [STORE_PRODUCT_ACTIVITY_ONLYONCE]
-只能领取一次
+Kann nur einmal beansprucht werden.
 
 [MINIGAME_RANK_NOTOPEN]
-排行帮暂未开启
+Rangliste noch nicht geöffnet.
 
 [MINI_GAME_T1]
-埃及连连对
+Ägypten-Link
 
 [MINI_GAME_T2]
-炮轰海盗僵
+Piraten-Zombies bombardieren
 
 [MINI_GAME_T3]
-天空大乱炸
+Himmelsbombardierung
 
 [MINI_GAME_T4]
-交换未来位 
+Zukünftige Positionen tauschen
 
 [MINI_GAME_T5]
-黑暗小猪屋 
+Dunkles Schweinehaus
 
 [MINI_GAME_T6]
-巨浪贪吃蛇 
+Riesige Wellenschlange
 
 [MINI_GAME_T7]
-罐头猜猜看
+Errate die Dose.
 
 [ACTIVITY_SUMMERY_FIRE_COST_2]
-宝石:{COUNT}
+Juwel: {COUNT}
 
 [CHARGEDOUBLE_FESTIVAL_NOUSE]
-没有合适数据
+Keine passenden Daten.
 
 [PLANTDEFENCEGAMEMODE_DAYS]
-双旦保卫战守护你的植物吧
+Schütze deine Pflanzen im Doppelte Feiertagsverteidigung
 
 [FESTIVAL_EVENT_LEFT_TIME]
-活动还剩：{TIME}
+Verbleibendes Event: {TIME}
 
 [FESTIVAL_EVENT_LEFT_TIME_SHOP]
-活动倒计时：{TIME}
+Event-Countdown: {TIME}
 
 [BUYPLANT_BUTTON]
-购买
+Kaufen
 
 [BUYPLANT_TITLE]
-^ff0000^{PLANTNAME}^oldclr^限定购买
+^ff0000^{PLANTNAME}^oldclr^Limitierter Kauf
 
 [BUYPLANT_LEFT_TIME]
-剩余体验时间:
+Verbleibende Erfahrungszeit:
 
 [ELECTRICPEASHOOTER]
 电能豌豆
@@ -46882,47 +46885,47 @@ Erhalte Punkte für das Erfüllen täglicher Aufgaben.
 Nimm dich vor den hochstufigen Zombies in Acht!
 
 [TASK_WORLDTASK_DESCRIPTION_EGYPT2]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie im geheimnisvollen Ägypten heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss im geheimnisvollen Ägypten heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_PIRATE3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Pirate Bay heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Pirate Bay heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_COWBOY3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie im Wilden Westen heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss im Wilden Westen heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_KONGFU3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in der Kung-Fu-Welt heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in der Kung-Fu-Welt heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_FUTURE3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in der Zukunftswelt heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in der Zukunftswelt heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_FUTURE3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in der Zukunftswelt heraus! SK_DESCRIPTION_EIGHTIES3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Rock Age heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in der Zukunftswelt heraus! SK_DESCRIPTION_EIGHTIES3]
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Rock Age heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_DARK3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Dark Age heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Dark Age heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_BEACH3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie am Big Wave Beach heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss am Big Wave Beach heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_DINO3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Dino Crisis heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Dino Crisis heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_ICEAGE3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Ice Age heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Ice Age heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_L OSTCITY3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Lost City heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Lost City heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_SKYCITY3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Sky City heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Sky City heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_MODERN3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Modern World heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Modern World heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_STEAM3]
-Willst du deine Stärke beweisen? Fordere Dr. Zombie in Steam World heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Steam World heraus!
 
 [TASK_WORLDTASK_EGYPT1]
 Schließe den einfachen Level von „Geheimnisvolles Ägypten“ an Tag 8 ab.
@@ -53661,7 +53664,7 @@ Himmelsteam
 Lähme Zombies für {NUMBER} Sekunden!
 
 [BOSS_BUSTER_CANNON_DESCRIPTION]
-Füge Dr. Zombie im Zombie-Herausforderungslevel alle {TIME} Sekunden {DAMAGE} Schadenspunkte zu!
+Füge Dr. Zomboss im Zombie-Herausforderungslevel alle {TIME} Sekunden {DAMAGE} Schadenspunkte zu!
 
 [GARGANTUAR_INHIBITOR_DESCRIPTION]
 Ersetze die Riesenzombies im Level durch normale Zombies!
@@ -57907,7 +57910,7 @@ Er hält sich immer für den Schönsten unter den Sechs.
 Fliegendes Ungetüm
 
 [ZOMBIE_ZOMBIE_VAN_DESCRIPTION]
-Mit dem neuen, von Dr. Zombie erforschten Truck-Ungetüm kann er auf und ab, nach links und rechts driften.
+Mit dem neuen, von Dr. Zomboss erforschten Truck-Ungetüm kann er auf und ab, nach links und rechts driften.
 
 [ZOMBIE_ZOMBIE_VAN_DESCRIPTION_HEADER]
 Ladet dich diese Zombie-Lady zu einer Fahrt ein?
@@ -76989,7 +76992,7 @@ Nehmen Sie am Event teil, um die Hochdruckzone zu erreichen:
 Spike Nr. 41
 
 [PARALLEL_SPIKEWEED_TOOLTIP]
-Sie ist kein gewöhnlicher Spike. Er kann alle Dr. Zombie-Mechas in Sekundenschnelle töten.
+Sie ist kein gewöhnlicher Spike. Er kann alle Dr. Zomboss-Mechas in Sekundenschnelle töten.
 
 [PARALLEL_SPIKEWEED_DESCRIPTION_HEADER]
 In ihren Augen liegt ein Hauch von Melancholie.
