@@ -7452,336 +7452,348 @@ Ausdauer x10
 Ausdauer x22
 
 [PRODUCT_STAMINA_50_SHORT_DESC]
-体力x55
+Ausdauer x55
 
 [PRODUCT_STAMINA_100_SHORT_DESC]
-体力x110
+Ausdauer x110
 
 [PRODUCT_PLANTTRIAL_1_IOS]
-植物奇遇－1阶回旋镖射手
+Pflanzenabenteuer – Bumerang-Shooter Level 1
 
 [PRODUCT_GEM_60_DESC_IOS]
-60颗钻石
+60 Diamanten
 
 [PRODUCT_GEM_20_DESC_ANDROID]
-20颗钻石
+20 Diamanten
 
 [PRODUCT_GEM_60_DESC_ANDROID]
-60颗钻石
-赠送 ^FF0000 3^oldclr^ 个
+60 Diamanten
+Verschenke ^FF0000 3^oldclr^
 
 [PRODUCT_GEM_100_DESC_ANDROID]
-100颗钻石
-赠送 ^FF0000 5^oldclr^ 个
+100 Diamanten
+Verschenke ^FF0000 5^oldclr^ Stück
 
 [PRODUCT_GEM_200_DESC_ANDROID]
-200颗钻石
-赠送 ^FF0000 15^oldclr^ 个
+200 Diamanten
+Verschenke ^FF0000 15 alte Karten
 
 [PRODUCT_GEM_300_DESC_ANDROID]
-300颗钻石
-赠送 ^FF0000 30^oldclr^ 个
+300 Diamanten
+Verschenke 30 alte Karten
 
 [PRODUCT_GEM_1000_DESC_ANDROID]
-1000颗钻石
-赠送 ^FF0000 150^oldclr^ 个
+1000 Diamanten
+Verschenke 150 alte Karten
 
 [PRODUCT_GEM_NEWER_PRESENT_ANDROID]
-20颗钻石
+
+20 Diamanten
 
 [PRODUCT_GEM_ADVANCE_NEWER_PRESENT_ANDROID]
-105颗钻石
+
+105 Diamanten
 
 [PRODUCT_GEM_PLAY_CARD_ANDROID]
-通关奖励
+
+Ausverkaufsbonus
 
 [PRODUCT_GEM_330_DESC_ANDROID]
-100颗钻石
-^FF0000 另送5颗
+
+100 Diamanten
+
+5 weitere Karten sichern
 
 [PRODUCT_GEM_780_DESC_ANDROID]
-200颗钻石
-^FF0000 另送15颗
+
+200 Diamanten
+
+^FF0000 Hol dir 15 weitere
 
 [PRODUCT_GEM_1480_DESC_ANDROID]
-300颗钻石
-^FF0000 另送30颗
+
+300 Diamanten
+
+^FF0000 Hol dir 30 weitere
 
 [PRODUCT_GEM_330_DESC_IOS]
-300颗钻石
-^FF0000 另送30颗
+
+300 Diamanten
+
+^FF0000 30 weitere Diamanten
 
 [PRODUCT_GEM_780_DESC_IOS]
-680颗钻石
-^FF0000 另送100颗
+680 Diamanten
+^FF0000 100 weitere Diamanten
 
 [PRODUCT_GEM_1480_DESC_IOS]
-1280颗钻石
-^FF0000 另送250颗
+1280 Diamanten
+^FF0000 250 weitere Diamanten
 
 [PRODUCT_GEM_4108_DESC_IOS]
-3280颗钻石
-^FF0000 另送828颗
+3280 Diamanten
+^FF0000 828 weitere Diamanten
 
 [PRODUCT_GEM_8468_DESC_IOS]
-6480颗钻石
-^FF0000 另送1988颗
+6480 Diamanten
+^FF0000 1988 weitere Diamanten
 
 [PRODUCT_GEM_60_DESC_QQ]
-20颗钻石
+20 Diamanten
 
 [PRODUCT_GEM_330_DESC_QQ]
-60颗钻石
-^FF0000 另送6颗
+60 Diamanten
+^FF0000 6 weitere
 
 [PRODUCT_GEM_60_DESC]
-60颗钻石
+60 Diamanten
 
 [PRODUCT_GEM_330_DESC]
-300颗钻石
-^FF0000 另送30颗
+300 Diamanten
+^FF0000 30 weitere
 
 [PRODUCT_GEM_780_DESC]
-680颗钻石
-^FF0000 另送100颗
+680 Diamanten
+^FF0000 100 weitere
 
 [PRODUCT_GEM_1480_DESC]
-1280颗钻石
-^FF0000 另送250颗
+1280 Diamanten
+^FF0000 250 weitere
 
 [PRODUCT_GEM_3080_DESC]
-2580颗钻石
-^FF0000 另送500颗
+2580 Diamanten
+^FF0000 500 weitere
 
 [PRODUCT_GEM_3980_DESC]
-3280颗钻石
-^FF0000 另送700颗
+3280 Diamanten
+^FF0000 700 mehr
 
 [PRODUCT_GEM_700_DESC_ANDROID]
-700颗钻石
-赠送 ^FF0000 100^oldclr^ 个
+700 Diamanten
+Geschenkaktion: ^FF0000 100 Stück
 
 [PRODUCT_GEM_1500_DESC_ANDROID]
-1500颗钻石
-赠送 ^FF0000 200^oldclr^ 个
+1500 Diamanten
+Geschenkaktion: ^FF0000 200 Stück
 
 [PRODUCT_GEM_3000_DESC_ANDROID]
-3000颗钻石
-赠送 ^FF0000 450^oldclr^ 个
+3000 Diamanten
+Geschenkaktion: ^FF0000 450 Stück
 
 [PRODUCT_GEM_6000_DESC_ANDROID]
-6000颗钻石
-赠送 ^FF0000 1000^oldclr^ 个
+6000 Diamanten
+Geschenkaktion: ^FF0000 1000 Stück
 
 [PRODUCT_GEM_7500_DESC_ANDROID]
-7500颗钻石
-赠送 ^FF0000 1600^oldclr^ 个
+7500 Diamanten
+Geschenkaktion: ^FF0000 1600^oldclr^
 
 [PRODUCT_GEM_700_SHORT_DESC]
-超大箱钻石
+Supergroße Diamantenbox
 
 [PRODUCT_GEM_1500_SHORT_DESC]
-巨箱钻石
+Riesige Diamantenbox
 
 [PRODUCT_GEM_NEWER_PRESENT_DESC]
-至尊礼包
+Erweitertes Geschenkpaket
 
 [PRODUCT_GEM_ADVANCE_NEWER_PRESENT_DESC]
-至尊白金礼包
+Erweitertes Platin-Geschenkpaket
 
 [PRODUCT_GEM_PLAY_CARD_DESC]
-通关奖励
+Ausverkaufsprämien
 
 [PRODUCT_PLANTTRIAL_1_SHORT_DESC]
-1阶回旋镖射手
+Bumerang-Shooter Level 1
 
 [PRODUCT_GEM_20_SHORT_DESC]
-小袋钻石
+Kleiner Beutel Diamanten
 
 [PRODUCT_GEM_60_SHORT_DESC]
-小袋钻石
+Kleiner Beutel Diamanten
 
 [PRODUCT_GEM_100_SHORT_DESC]
-大袋钻石
+Großer Beutel Diamanten
 
 [PRODUCT_GEM_330_SHORT_DESC]
-大袋钻石
+Großer Beutel Diamanten
 
 [PRODUCT_GEM_780_SHORT_DESC]
-小箱钻石
+Kleine Schachtel Diamanten
 
-[PRODUCT_GEM_1480_SHORT_DESC]
-大箱钻石
+[PRODUCT_GEM_780_SHORT_DESC]
+T_GEM_1480_SHORT_DESC]
+Große Schachtel Diamanten
 
 [PRODUCT_GEM_4108_SHORT_DESC]
-小车钻石
+Kleines Auto von Diamanten
 
 [PRODUCT_GEM_8468_SHORT_DESC]
-大车钻石
+Großes Auto voller Diamanten
 
 [PRODUCT_GEM_3080_SHORT_DESC]
-小箱钻石
+Kleine Schachtel mit Diamanten
 
 [PRODUCT_GEM_3980_SHORT_DESC]
-大箱钻石
+Große Schachtel mit Diamanten
 
 [PRODUCT_GEM_200_SHORT_DESC]
-小箱钻石
+Kleine Schachtel mit Diamanten
 
 [PRODUCT_GEM_300_SHORT_DESC]
-大箱钻石
+Große Schachtel mit Diamanten
 
-[PRODUCT_GEM_1000_SHORT_DESC]
-超大箱钻石
+[PRODUCT_GEM_100 0_SHORT_DESC]
+Supergroße Schachtel mit Diamanten
 
 [PRODUCT_GEM_3000_SHORT_DESC]
-小车钻石
+Kleine Autodiamanten
 
 [PRODUCT_GEM_6000_SHORT_DESC]
-大车钻石
+Große Autodiamanten
 
 [PRODUCT_GEM_7500_SHORT_DESC]
-超大车钻石
+Supergroßes Auto Diamanten
 
 [PRODUCT_BUNDLE_10_SHORT_DESC]
-特惠礼包
+Spezial-Geschenkpaket
 
 [PRODUCT_BUNDLE_60_SHORT_DESC]
-经典礼包
+Klassisches Geschenkpaket
 
 [PRODUCT_BUNDLE_300_SHORT_DESC]
-畅玩礼包
+Spiel-Geschenkpaket
 
-[PRODUCT_BUNDLE_680_SHORT_DESC]
-白金礼包
+[PRODUCT_BUNDLE_ 680_SHORT_DESC]
+Platin-Geschenkpaket
 
 [PRODUCT_BUNDLE_1280_SHORT_DESC]
-豪华礼包
+Luxus-Geschenkpaket
 
 [PRODUCT_BUNDLE_3280_SHORT_DESC]
-至尊礼包
+Supreme-Geschenkpaket
 
 [PRODUCT_BUNDLE_6480_SHORT_DESC]
-荣耀礼包
+Glory-Geschenkpaket
 
 [PRODUCT_BUNDLE_860_SHORT_DESC]
-超值蓝色礼包
+Blaues Geschenkpaket
 
 [PRODUCT_BUNDLE_1980_SHORT_DESC]
-超值紫色礼包
+Lila Geschenkpaket Paket
 
 [PRODUCT_BUNDLE_5280_SHORT_DESC]
-超值橙色礼包
+Preiswertes Orangen-Geschenkpaket
 
 [PRODUCT_SUN_500_DESC]
-增加^FF0000 500 ^oldclr 阳光
+Füge ^FF0000 500 ^oldclr Sonnenschein hinzu
 
 [PRODUCT_SUN_1000_DESC]
-增加^FF0000 1000 ^oldclr 阳光
+Füge ^FF0000 1000 ^oldclr Sonnenschein hinzu
 
 [PRODUCT_SUN_2000_DESC]
-增加^FF0000 2000 ^oldclr 阳光
+Füge ^FF0000 2000 ^oldclr Sonnenschein hinzu
 
 [PRODUCT_SUN_3000_DESC]
-增加^FF0000 3000 ^oldclr 阳光
+Füge ^FF0000 3000 ^oldclr Sonnenschein hinzu
 
 [PRODUCT_SUN_5000_DESC]
-增加^FF0000 5000 ^oldclr 阳光
+Füge ^FF0000 5000 ^oldclr Sonnenschein hinzu
 
 [PRODUCT_SUN_500_SHORT_DESC]
-阳光
+Sonnenschein
 
 [PRODUCT_SUN_1000_SHORT_DESC]
-小堆阳光
+Ein kleiner Sonnenschein
 
 [PRODUCT_SUN_2000_SHORT_DESC]
-大堆阳光
+Ein Großer Sonnenscheinhaufen
 
 [PRODUCT_SUN_3000_SHORT_DESC]
-一坨阳光
+Ein Sonnenscheinhaufen
 
 [PRODUCT_SUN_5000_SHORT_DESC]
-两坨阳光
+Zwei Sonnenscheinhaufen
 
 [PRODUCT_FUEL_15_DESC]
-^FF0000 15 ^oldclr 颗电池
+^FF0000 15 ^oldclr Batterien
 
 [PRODUCT_TIME_ENERGY_15_DESC]
-^FF0000 4 ^oldclr 颗时空稳定器
+^FF0000 4 ^oldclr Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_15_SHORT_DESC]
-中盒电池
+Mittlere Box-Batterie
 
 [PRODUCT_TIME_ENERGY_15_SHORT_DESC]
-中盒时空稳定器
+Mittlere Box-Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_FREE_DESC]
-^FF0000 5 ^oldclr 颗电池
+^FF0000 5 ^oldclr Batterien
 
 [PRODUCT_TIME_ENERGY_FREE_DESC]
-^FF0000 1 ^oldclr 颗时空稳定器
+^FF0000 1 ^oldclr Raum-Zeit Stabilisator
 
 [PRODUCT_FUEL_FREE_SHORT_DESC]
-月卡电池
+Monatskartenbatterie
 
 [PRODUCT_TIME_ENERGY_FREE_SHORT_DESC]
-月卡时空稳定器
+Monatskarten-Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_5_DESC]
-^FF0000 5 ^oldclr 颗电池
+^FF0000 5 ^oldclr Batterien
 
 [PRODUCT_TIME_ENERGY_5_DESC]
-^FF0000 1 ^oldclr 颗时空稳定器
+^FF0000 1 ^oldclr Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_5_SHORT_DESC]
-小盒电池
+Kleine Boxbatterie
 
 [PRODUCT_TIME_ENERGY_5_SHORT_DESC]
-小盒时空稳定器
+Kleine Box Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_30_DESC]
-^FF0000 30 ^oldclr 颗电池
+^FF0000 30 ^oldclr Batterien
 
 [PRODUCT_TIME_ENERGY_30_DESC]
-^FF0000 8 ^oldclr 颗时空稳定器
+^FF0000 8 ^oldclr Raum-Zeit Stabilisator
 
 [PRODUCT_FUEL_30_SHORT_DESC]
-大盒电池
+Große Schachtel Batterien
 
 [PRODUCT_TIME_ENERGY_30_SHORT_DESC]
-大盒时空稳定器
+Große Schachtel Raum-Zeit-Stabilisator
 
 [PRODUCT_MYSTERY_CRYSTAL_FREE_DESC]
-^FF0000 1000 ^oldclr 颗水晶
+^FF0000 1000 ^oldclr Kristalle
 
 [PRODUCT_MYSTERY_CRYSTAL_FREE_SHORT_DESC]
-月卡水晶
+Monatskarten-Kristall
 
 [PRODUCT_MYSTERY_CRYSTAL_1000_DESC]
-^FF0000 6000 ^oldclr 颗水晶
+^FF0000 6000 ^oldclr Kristalle
 
 [PRODUCT_MYSTERY_CRYSTAL_1000_SHORT_DESC]
-小份水晶
+Kleiner Kristall
 
 [PRODUCT_MYSTERY_CRYSTAL_5000_DESC]
-^FF0000 30000 ^oldclr 颗水晶
-^FF0000 另送6000颗 ^oldclr
+^FF0000 30000 ^oldclr Kristalle
+^FF0000 Erhalte 6000 weitere ^oldclr
 
 [PRODUCT_MYSTERY_CRYSTAL_5000_SHORT_DESC]
-中份水晶
+Mittelgroße Kristalle
 
 [PRODUCT_MYSTERY_CRYSTAL_10000_DESC]
-^FF0000 68000 ^oldclr 颗水晶
-^FF0000 另送16000颗 ^oldclr
+^FF0000 68000 ^oldclr-Kristalle
+^FF0000 Erhalte 16000 weitere ^oldclr
 
 [PRODUCT_MYSTERY_CRYSTAL_10000_SHORT_DESC]
-大份水晶
+Große Kristalle
 
 [MONTHLY_CARD_FREE_GET]
-领取成功
+Erfolgreich erhalten
 
 [GRAVEBUSTER_PRODUCT_SHORT_DESC]
-噬碑藤会吃掉墓碑。
+Grabfresser fressen Grabsteine.
 
 [KERNELPULT_PRODUCT_SHORT_DESC]
 向僵尸投掷玉米粒和黄油块。
@@ -30434,17 +30446,18 @@ Oder
 正在下载……
 
 [PHATBEET]
-魔音甜菜
+Fette Bete
 
 [PHATBEET_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR}魔音甜菜拥有劲爆的节奏和韵律，还有令人沉迷的曲子，不过只有短短几秒。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanzen
+{FLAVOR} Die Fette Bete steht für krasse Reime, dope Beats und Killer-Kombos – in Personalunion.
 
 [PHATBEET_DESCRIPTION_HEADER]
-魔音甜菜每隔数秒都会弹奏造成伤害。
+Die Fette Bete haut sekündlich Schaden raus.
 
 [PHATBEET_TOOLTIP]
-每隔数秒用弹奏造成伤害
+Haut alle paar Sekunden Schaden raus
+
 [PINATA_PARTY_COSTUME_REWARD_TEXT]
 新的造型！
 
@@ -30480,12 +30493,15 @@ Oder
 
 [PLAYERS_TRIP_TO_LOD__BIRTHDAY]
 {PLAYER}的生日派对！
+
 [PLAYERS_TRIP_TO_MODERN]
 {PLAYER}s Reise in die Moderne！
+
 [PLAYERS_TRIP_TO_PREVIEW]
-{PLAYER}的植物游乐园！
+{PLAYER}s Botanischer Spielplatz!
+
 [POWERUP_BEGHOULED_SHOVEL]
-强力铲子
+Kraftvolle Schaufel
 
 [PLAYERS_TRIP_TO_STEAM]
 {PLAYER}s Reise zur Industriellen Revolution！
@@ -63652,1048 +63668,1068 @@ Welle 1
 第八波
 
 [PLANT_SPECIAL_TAG_TIPS_TITLE]
-^2f8101^技能状态^oldclr^
+^2f8101^Fähigkeitsstatus^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_1]
-对普通僵尸造成持续的火焰伤害，命中精英僵尸时则造成10点火属性韧性值削减。
+Verursacht bei normalen Zombies anhaltenden Feuerschaden. Bei Treffern auf Elite-Zombies verringert sich die Widerstandsfähigkeit des Feuerattributs um 10 Punkte.
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_3]
-对普通僵尸造成短暂的眩晕，命中精英僵尸时则造成10点物理属性韧性值削减。
+Verursacht bei normalen Zombies eine kurze Betäubung. Bei Treffern auf Elite-Zombies verringert sich die Widerstandsfähigkeit des physischen Attributs um 10 Punkte.
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_5]
-对普通僵尸造成冻结效果，命中精英僵尸时则造成10点冰属性韧性值削减。
+Verursacht bei normalen Zombies einen Gefriereffekt. Bei Treffern auf Elite-Zombies verringert sich die Widerstandsfähigkeit des Eisattributs um 10 Punkte.
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_7]
-对普通僵尸造成持续的中毒效果，命中精英僵尸时则造成10点毒属性韧性值削减。
+Verursacht bei normalen Zombies einen anhaltenden Vergiftungseffekt. Bei Treffern gegen Elite-Zombies verringert sich die Widerstandskraft des Gift-Attributs um 10 Punkte.
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_9]
-对普通僵尸造成短暂的麻痹，命中精英僵尸时则造成10点电能属性韧性值削减。
+Verursacht bei normalen Zombies vorübergehende Lähmung. Bei Treffern gegen Elite-Zombies verringert sich die Widerstandskraft des Elektro-Attributs um 10 Punkte.
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_11]
-对普通僵尸造成魅惑效果，命中精英僵尸时则造成10点魔法属性韧性值削减。
+Verursacht bei normalen Zombies einen Zaubereffekt. Bei Treffern gegen Elite-Zombies verringert sich die Widerstandskraft des Magie-Attributs um 10 Punkte.
 
 [ELITE_ZOMBIE_TIPS_TITLE]
-^2f8101^精英僵尸^oldclr^
+^2f8101^Elite-Zombie^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_ARMOR3_ELITE]
-^573701^当场地内出现3个或以上同类型僵尸时，将在短暂准备时间后触发融合效果，多个僵尸融合成一个大僵尸。融合后的僵尸变大、血量和攻击力继承融合前的僵尸、视作精英僵尸免疫控制效果。^oldclr^
+^573701^Wenn drei oder mehr Zombies desselben Typs auf dem Feld erscheinen, wird nach kurzer Vorbereitungszeit der Fusionseffekt ausgelöst, und mehrere Zombies verschmelzen zu einem großen Zombie. Der fusionierte Zombie wird größer und seine Gesundheit und Angriffskraft übernehmen die des Zombies vor der Fusion. Er gilt als Elite-Zombie und ist immun gegen Kontrolleffekte. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_HUNTER_ELITE]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training kann er immun gegen Kontrolle, Deformation und sofortige Tötung sein. Erleidet er innerhalb von 3 Sekunden eine bestimmte Menge Schaden, wird er unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_WEASELHOARDER_ELITE]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training ist es immun gegen Kontrolle, Deformation und sofortige Tötung. Erleidet es innerhalb von 3 Sekunden eine bestimmte Menge Schaden, wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_WEASEL_ELITE]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training ist es immun gegen Kontrolle, Deformation und sofortige Tötung. Erleidet es innerhalb von 3 Sekunden eine bestimmte Menge Schaden, wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_CHIEF_ELITE]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training ist es immun gegen Kontrolle, Deformation und sofortige Tötung. Erleidet es innerhalb von 3 Sekunden eine bestimmte Menge Schaden, wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_CHIEF_ELITE]
+^573701^Nach speziellem Training ist es immun gegen Kontrolle, Deformation und sofortige Tötung. Nach einer bestimmten Schadensmenge innerhalb von 3 Sekunden wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_BUMPERCAR_ELITE]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training kann es immun gegen Kontrolle, Deformation und sofortige Tötung sein. Nach einer bestimmten Schadensmenge innerhalb von 3 Sekunden wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ZOMBIE_VAN]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training kann es immun gegen Kontrolle, Deformation und sofortige Tötung sein. Nach einer bestimmten Schadensmenge innerhalb von 3 Sekunden wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_PLANTWARS_MIRROR_QUEEN_PHASE3]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training ist es immun gegen Kontrolle, Deformation und sofortige Tötung. Erleidet es innerhalb von 3 Sekunden eine bestimmte Menge Schaden, wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_DARK_WIZARD_ELITE]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training ist es immun gegen Kontrolle, Deformation und sofortige Tötung. Erleidet es innerhalb von 3 Sekunden eine bestimmte Menge Schaden, wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_DARK_KING_ELITE]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach speziellem Training ist es immun gegen Kontrolle, Deformation und sofortige Tötung. Erleidet es innerhalb von 3 Sekunden eine bestimmte Menge Schaden, wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_DARK_KING_ELITE]
+^573701^Nach speziellem Training ist es immun gegen Kontrolle, Deformation und sofortige Tötung. Nach einer bestimmten Schadensmenge innerhalb von 3 Sekunden wird es unbesiegbar und kehrt nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_SKYCITY_ELECTRIC]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach speziellem Training bist du immun gegen Kontrolle, Deformation und sofortige Tötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach speziellem Training bist du immun gegen Kontrolle, Deformation und sofortige Tötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_HEALER]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_HEALER_PVZ1_NORMAL]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_HEALER_PVZ1_HARD]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_BALLISTA]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_BALLISTA_PVZ1_HARD]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_HEIAN_ONMYOJI]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_HEIAN_ONMYOJI_PVZ1_HARD]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEYEARMONSTER]
-^573701^经过特训后能够免疫控制、变形、秒杀，在3秒内受到一定伤害后进入无敌状态，一段时间后恢复常态。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Erleidest du innerhalb von 3 Sekunden eine bestimmte Menge Schaden, verlierst du dich in einem unbesiegbaren Zustand und kehrst nach einiger Zeit in den Normalzustand zurück. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_BUMPERCAR]
-^573701^经过特训后能够免疫控制、变形、秒杀，每次受到的伤害将会降低至500点。^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und Soforttötung. Der erlittene Schaden wird auf 500 Punkte reduziert. ^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ZOMBIE_YEARMONSTER]
-^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und sofortige Tötung.^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_PUMPKIN_KNIGHT]
-^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und sofortige Tötung.^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_MIRROR_QUEEN_PHASE1]
-^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und sofortige Tötung.^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_GENERAL_CAESAR_PHASE1]
-^573701^经过特训后能够免疫控制、变形、秒杀^oldclr^
+^573701^Nach Spezialtraining bist du immun gegen Kontrolle, Deformation und sofortige Tötung.^oldclr^
 
 [PLANT_WARS_CREDIT_TEXT_LABEL]
-积分：
+Punkte:
 
 [PENNY_CLASSROOM_TITLE]
-潘妮课堂
+Penny Classroom
 
 [PENNY_CLASSROOM_SHOP_TITLE]
-课堂商店
+Classroom-Shop
 
 [MAT_PENNY_CLASSROOM_COIN]
-课堂积分
+Classroom-Punkte
 
 [PENNY_CLASSROOM_TIPS]
-1.通关潘妮课堂内的课程后，可以获得课堂积分，在积分商店中兑换奖励。
-2.潘妮课堂中的课程会按天数依次开放，每天解锁一关。
-3.完成上一课程后可挑战下一课程，课程不可重复挑战。
-4.完成每个阶段5株植物的对应关卡后，可领取该阶段的课堂头像，并解锁下一阶段的挑战课程。
-5.课堂挑战关卡中的植物阶数为关卡固定阶数，不与玩家植物阶数一致。
-6.积分商店全部被兑换完毕后，潘妮课堂关闭。
+1. Nach Abschluss der Level im Penny Classroom erhältst du Classroom-Punkte und kannst im Punkte-Shop Belohnungen einlösen.
+2. Die Level im Penny Classroom werden nacheinander (Tagesanzahl) freigeschaltet, wobei jeden Tag ein Level freigeschaltet wird.
+3. Nach Abschluss des vorherigen Levels kannst du den nächsten Level in Angriff nehmen. Dieser Level kann nicht wiederholt werden.
+4. Nach Abschluss des entsprechenden Levels mit 5 Pflanzen in jeder Stufe erhältst du den Klassenavatar dieser Stufe und schaltest den Herausforderungslevel der nächsten Stufe frei.
+5. Das Pflanzenlevel im Klassenherausforderungslevel ist das feste Level des Levels und stimmt nicht mit dem Pflanzenlevel des Spielers überein.
+6. Nachdem alle Punkte im Shop eingelöst wurden, wird Penny Classroom geschlossen.
 
 [PENNY_CLASSROOM_BEGINNER_LEVEL]
-入门考试
+Aufnahmeprüfung
 
 [PENNY_CLASSROOM_EASY_LEVEL]
-初级训练
+Grundausbildung
 
 [PENNY_CLASSROOM_NORMAL_LEVEL]
-进阶考核
+Fortgeschrittenen-Prüfung
 
 [PENNY_CLASSROOM_HARD_LEVEL]
-终极试炼
+Abschlussprüfung
 
 [PENNY_CLASSROOM_GOT]
-可获得：
+Verfügbar:
 
 [PENNY_CLASSROOM_TEST_BTN]
-前往答题
+Zu den Fragen
 
 [PENNY_CLASSROOM_TEST_NOT_OPEN]
-明日解锁
+Morgen freigeschaltet
 
 [PENNY_CLASSROOM_LEVEL_BTN]
-前往关卡
+Zur Stufe
 
 [PENNY_CLASSROOM_PROGRESS_DESC]
 {NUMS} / 5
 
 [PENNY_CLASSROOM_FINAL_BONUS_TIPS]
-完成课堂挑战，成为植物大师并获得^ED7424 4阶植物^oldclr！
+Schließe die Klassenherausforderung ab, werde Pflanzenmeister und erhalte ^ED7424 Pflanze Stufe 4 ^oldclr!
 
 [PENNY_CLASSROOM_FINAL_BONUS_TITLE]
-最终奖励
+Abschlussbelohnung
 
 [PENNY_CLASSROOM_EASY_LEVEL_LOCK_DESC]
-完成^FF0000 入门考试^oldclr中全部课堂挑战后解锁
+Freigeschaltet nach Abschluss aller Klassenraum-Herausforderungen der ^FF0000 Aufnahmeprüfung^oldclr
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_LOCK_DESC]
-完成^FF0000 初级训练^oldclr中全部课堂挑战后解锁
+Freigeschaltet nach Abschluss aller Klassenraum-Herausforderungen der ^FF0000 Grundausbildung^oldclr
 
 [PENNY_CLASSROOM_HARD_LEVEL_LOCK_DESC]
-完成^FF0000 进阶考核^oldclr中全部课堂挑战后解锁
+Abschluss der ^FF0000 Fortgeschrittenenprüfung^Freigeschaltet nach Abschluss aller Klassen der oldclr
 
 [PENNY_CLASSROOM_BEGINNER_LEVEL_TITLE]
-{NAME}入门考试
+{NAME} Anfängerprüfung
 
 [PENNY_CLASSROOM_EASY_LEVEL_TITLE]
-{NAME}初级训练
+{NAME} Grundausbildung
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_TITLE]
-{NAME}进阶考核
+{NAME} Fortgeschrittene Prüfung
 
 [PENNY_CLASSROOM_HARD_LEVEL_TITLE]
-{NAME}终极试炼
+{NAME} Abschlussprüfung
 
 [PENNY_CLASSROOM_SHOP_TAB_BACHELOR]
-植物学士
+Bachelor der Botanik
 
 [PENNY_CLASSROOM_SHOP_TAB_MASTER]
-植物硕士
+Master der Botanik
 
 [PENNY_CLASSROOM_SHOP_TAB_DOCTOR]
-植物博士
+Doktor der Botanik
 
 [PENNY_CLASSROOM_SHOP_TAB_GREATMASTER]
-植物大师
+Lehramt für Master der Botanik
 
 [PENNY_CLASSROOM_START_LEVEL_THEME]
-考试主题
+Prüfungsthema
 
 [PENNY_CLASSROOM_GOTBONUS_TITLE]
-完成考试可获得
+Schließe die Prüfung ab, um
 
 [PENNY_CLASSROOM_SURVEY_NUM_TITLE]
-第{NUMS}/10题
+Frage zu erhalten {NUMS}/10
 
 [PENNY_CLASSROOM_SURVEY_HINT]
-点击选项完成答题
+Klicken Sie auf die Option, um die Frage zu beantworten.
 
 [PENNY_CLASSROOM_SURVEY_NEXT_QUESTION]
-下一题
+Nächste Frage
 
 [PENNY_CLASSROOM_SURVEY_REDO_QUESTION]
-重新答题
+Frage erneut beantworten
 
 [PENNY_CLASSROOM_SURVEY_DEFAULT_DIALOG_DESC]
-点击选项请答题
+Klicken Sie auf die Option, um die Frage zu beantworten.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_PRIMALSUNFLOWER]
-原始向日葵的主要功能是？
+Was ist die Hauptfunktion der primitiven Sonnenblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_PRIMALSUNFLOWER]
-ca=生产阳光|对僵尸造成伤害|阻挡僵尸前进|治疗或辅助友方植物|
+ca=Sonnenlicht erzeugen | Zombies Schaden zufügen | Zombies am Vormarsch hindern | Freundliche Pflanzen behandeln oder unterstützen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵的主要功能是生产阳光。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Hauptfunktion der Sonnenblume ist die Erzeugung von Sonnenlicht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵是向日葵系列的植物，功能与阳光有关。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Die Sonnenblume ist eine Pflanze aus der Familie der Sonnenblumen und ihre Funktion hängt mit Sonnenlicht zusammen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_1_PRIMALSUNFLOWER]
-原始向日葵的主要用法是？
+Was ist die Hauptverwendung der Sonnenblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_PRIMALSUNFLOWER]
-ca=放在前线阻挡僵尸|放在安全位置攻击僵尸|放在安全位置生产阳光|放在前线生产阳光|
+ca=Stelle sie an vorderster Front, um Zombies abzuwehren. | Stelle sie in eine sichere Position, um Zombies anzugreifen. | Stelle sie in eine sichere Position, um Sonnenlicht zu erzeugen. | Stelle sie an vorderster Front, um Sonnenlicht zu erzeugen.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_1_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵的主要用法是放在安全位置生产阳光。
+Wenn du richtig antwortest, bist du ein Pflanzenexperte!
+Der Hauptzweck von primitiven Sonnenblumen besteht darin, sie an einem sicheren Ort zu platzieren, damit sie Sonnenlicht produzieren.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵最好能稳定生产阳光，来支撑后续的阳光消耗。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Primitive Sonnenblumen sollten am besten stabil Sonnenlicht produzieren, um den nachfolgenden Sonnenlichtverbrauch zu unterstützen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_PRIMALSUNFLOWER]
-原始向日葵初始产出的是哪种类型的阳光？
+Welche Art von Sonnenlicht produziert die primitive Sonnenblume anfänglich?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_PRIMALSUNFLOWER]
-ca=大号阳光|普通阳光|小号阳光|不生产阳光|
+ca=Großer Sonnenschein|Normaler Sonnenschein|Kleiner Sonnenschein|Produziert kein Sonnenlicht|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵初始产出的是大号阳光。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die ursprüngliche Sonnenblume erzeugt zunächst viel Sonnenlicht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_2_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵的阳光产出效率是比较高的哦。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Die ursprüngliche Sonnenblume erzeugt relativ effizient Sonnenlicht.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_PRIMALSUNFLOWER]
-原始向日葵在恐龙危机世界中能得到什么增益？
+Welche Vorteile bietet die Ur-Sonnenblume in der Welt von Dino Crisis?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_PRIMALSUNFLOWER]
-ca=增加生命值|增加攻击力伤害|增加额外的阳光产出|减少种植的阳光消耗|
+ca=Erhöht Gesundheit | Erhöht Angriffsschaden | Erhöht zusätzliche Sonnenlichtausbeute | Reduziert den Sonnenlichtverbrauch für Pflanzen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵在恐龙危机世界中能额外产出25点阳光。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Ur-Sonnenblume kann in der Welt von Dino Crisis 25 zusätzliches Sonnenlicht produzieren.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵在恐龙危机世界中能让阳光更加富裕。
+Wenn du falsch antwortest, beantworte die Frage bitte erneut.
+Die Ur-Sonnenblume kann in der Welt von Dino Crisis für mehr Sonnenlicht sorgen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_PRIMALSUNFLOWER]
-原始向日葵升至2阶后获得了什么能力？
+Welche Fähigkeiten erhält die Primitive Sonnenblume ab Level 2?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_PRIMALSUNFLOWER]
-ca=有一定概率生产额外的阳光|攻击造成点燃的持续伤害|使发射的激光变为2道|近身攻击有概率冰冻僵尸|
+ca=hat eine gewisse Chance, zusätzliches Sonnenlicht zu erzeugen | Angriffe verursachen kontinuierlichen Zündschaden | lässt die abgefeuerten Laser doppelt abfeuern | Nahkampfangriffe können Zombies einfrieren |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵在2阶后有一定概率生产100点阳光。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Primitive Sonnenblume hat nach Level 2 eine gewisse Chance, 100 Sonnenlicht zu erzeugen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵在2阶后能让阳光更加富裕。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Die Primitive Sonnenblume kann ab Stufe 2 für mehr Sonnenlicht sorgen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_PRIMALSUNFLOWER]
-原始向日葵升至3阶后获得了什么能力？
+Welche Fähigkeit erhält die Primitive Sonnenblume ab Stufe 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_PRIMALSUNFLOWER]
-ca=使火焰变成鬼火，伤害增加|必定生产额外的阳光|攻击有一定概率击晕僵尸|有概率扔出冻结僵尸的冰瓜片|
+ca=Verwandelt Flammen in Irrlichter und erhöht so den Schaden. | Erzeugt immer zusätzliches Sonnenlicht. | Angriffe haben eine gewisse Chance, Zombies zu betäuben. | Es besteht die Möglichkeit, Eisscheiben zu werfen, die Zombies einfrieren. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵在3阶后必定生产100点阳光。
+Wenn du die Frage richtig beantwortest, bist du ein Pflanzenmeister!
+Primitive Sonnenblumen produzieren ab Level 3 garantiert 100 Sonnenlicht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_5_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵在3阶后强化了2阶时获得的能力。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Primitive Sonnenblumen verstärken ihre Fähigkeiten ab Level 3 auf Level 2.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_PRIMALSUNFLOWER]
-原始向日葵升至4阶后获得了什么能力？
+Welche Fähigkeiten erhält die Primitive Sonnenblume ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_PRIMALSUNFLOWER]
-ca=种植时有概率返还一定阳光|种植时有概率获得护盾|种植时有概率能造成范围伤害|种植时有概率直接释放能量豆大招|
+ca=Wahrscheinlichkeit, eine bestimmte Menge Sonnenlicht zurückzugeben, wenn sie gepflanzt wird | Wahrscheinlichkeit, einen Schild zu erhalten, wenn sie gepflanzt wird | Wahrscheinlichkeit, Fernkampfschaden zu verursachen, wenn sie gepflanzt wird | Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen, wenn sie gepflanzt wird |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵在4阶后种植时有概率直接释放能量豆大招。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Primitive Sonnenblume hat eine Chance, den ultimativen Energiebohnen-Attack direkt auszulösen, wenn sie nach Level 4 gepflanzt wird.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵在4阶后能够更加频繁地释放能量豆大招。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Die Primitive Sonnenblume kann den ultimativen Energiebohnen-Attack ab Level 4 häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_PRIMALSUNFLOWER]
-原始向日葵升至5阶后获得了什么能力？
+Welche Fähigkeiten erhält die Primitive Sonnenblume ab Level 5?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_PRIMALSUNFLOWER]
-ca=豌豆子弹升级为超级豌豆子弹|闪电攻击有几率变为高能闪电|产阳光时点亮花瓣，全部点亮后产出额外阳光|死亡后留下小樱桃地雷|
+ca=Erbsengeschosse werden zu Super-Erbsengeschossen aufgewertet | Blitzangriffe können zu Hochenergieblitzen werden | Blütenblätter leuchten auf, wenn Sonnenlicht erzeugt wird, und erzeugen zusätzliches Sonnenlicht, nachdem alle leuchten | Hinterlässt nach dem Tod eine kleine Kirschmine |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵在5阶后产阳光时点亮花瓣，全部点亮后产出额外阳光。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Primitive Sonnenblumen leuchten ab Level 5, wenn Sonnenlicht erzeugt wird, und erzeugen zusätzliches Sonnenlicht, nachdem alle leuchten.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵在5阶后增强了阳光产出能力。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Primitive Sonnenblumen können ab Level 5 verstärkt Sonnenlicht produzieren.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_PRIMALSUNFLOWER]
-原始向日葵的能量豆大招是？
+Was ist der ultimative Angriffszug der Energiebohne der Ur-Sonnenblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_PRIMALSUNFLOWER]
-ca=使自己和周围的植物获得护盾|发射根据向日葵数量增伤的光束|立即生产阳光|使周围植物获得攻击力和攻速提升|
+ca=Verleiht euch und den umliegenden Pflanzen einen Schild. | Feuert einen Strahl ab, der den Schaden basierend auf der Anzahl der Sonnenblumen erhöht. | Erzeugt sofort Sonnenlicht. | Erhöht die Angriffskraft und das Angriffstempo der umliegenden Pflanzen.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵的能量豆大招是立即生产225点阳光。
+Wenn du die Frage richtig antwortest, bist du ein Pflanzenmeister!
+
+Der ultimative Angriffszug der Energiebohne der Ur-Sonnenblume erzeugt sofort 225 Punkte Sonnenlicht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵的能量豆大招能快速提供阳光。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Der ultimative Move der Energiebohne der Ur-Sonnenblume kann schnell Sonnenlicht erzeugen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_PRIMALSUNFLOWER]
-原始向日葵的装扮效果是？
+Welche Wirkung hat das Kostüm der Ur-Sonnenblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_PRIMALSUNFLOWER]
-ca=发射5颗燃烧的大豌豆|大招能额外产出金币|丢出使僵尸减速的冰水滴|降低种植冷却时间|
+ca=Schießt 5 brennende Erbsen ab|Ultimative Fähigkeit kann zusätzliche Goldmünzen produzieren|Wirft Eiswassertropfen, die Zombies verlangsamen|Verkürzt die Abkühlzeit beim Pflanzen|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_PRIMALSUNFLOWER]
-答对了，你就是植物大师！
-原始向日葵的装扮效果是大招额外产出500金币。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Das Kostüm der Ursonnenblume gewährt mit der ultimativen Fertigkeit zusätzliche 500 Goldmünzen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_PRIMALSUNFLOWER]
-答错了，请重新答题吧。
-原始向日葵的装扮效果可以让玩家获得额外的资源。
-
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Das Kostüm der Ursonnenblume ermöglicht es Spielern, zusätzliche Ressourcen zu erhalten.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_ELECTRICBLUEBERRY]
-电击蓝莓的主要功能是？
+Was ist die Hauptfunktion der elektrischen Blaubeere?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_ELECTRICBLUEBERRY]
-ca=生产阳光|对僵尸造成伤害|阻挡僵尸前进|治疗或辅助友方植物|
+ca=Sonnenlicht erzeugen | Zombies Schaden zufügen | Zombies am Vorankommen hindern | Freundliche Pflanzen heilen oder unterstützen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓的主要功能是对僵尸造成伤害。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Hauptfunktion der elektrischen Blaubeere ist es, Zombies Schaden zuzufügen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓释放的雷云具有强大的威力。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Die von der elektrischen Blaubeere freigesetzte Gewitterwolke hat enorme Kraft.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_1_ELECTRICBLUEBERRY]
-电击蓝莓的主要用法是？
+Wofür wird die elektrische Blaubeere hauptsächlich verwendet?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_ELECTRICBLUEBERRY]
-ca=放在前线阻挡僵尸|放在安全位置生产阳光|放在前线攻击僵尸|放在安全位置攻击僵尸|
+ca=Stelle sie an vorderster Front, um Zombies abzuwehren. | Stelle sie an eine sichere Position, um Sonnenlicht zu erzeugen. | Stelle sie an vorderster Front, um Zombies anzugreifen. | Stelle sie an eine sichere Position, um Zombies anzugreifen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_1_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓的主要用法是放在安全位置攻击僵尸。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Elektrische Blaubeeren werden hauptsächlich dazu verwendet, sie an einer sicheren Position zu platzieren, um Zombies anzugreifen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓虽然拥有高额的伤害，但自身防护能力很弱。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Elektrische Blaubeeren verursachen zwar hohen Schaden, ihre Verteidigungsfähigkeit ist jedoch sehr schwach.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_ELECTRICBLUEBERRY]
-电击蓝莓释放的雷云能够追踪僵尸造成伤害。
+Die Gewitterwolken der elektrischen Blaubeeren können Zombies verfolgen und Schaden verursachen.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_ELECTRICBLUEBERRY]
-ca=正确|错误| | |
+ca=True|False| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓释放的雷云能够追踪僵尸造成伤害。
+Wenn du richtig geantwortet hast, bist du ein Pflanzenmeister!
+Die Gewitterwolke der elektrischen Blaubeere kann Zombies verfolgen und Schaden verursachen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_2_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓释放的雷云能够追踪敌人造成伤害。
+Wenn du falsch geantwortet hast, beantworte die Frage bitte erneut.
+Die Gewitterwolke der elektrischen Blaubeere kann Feinde verfolgen und Schaden verursachen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_ELECTRICBLUEBERRY]
-电击蓝莓的初始追踪范围是右侧3格至左侧3格。
+Der anfängliche Verfolgungsbereich von Electric Blueberry beträgt 3 Felder nach rechts bis 3 Felder nach links.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_ELECTRICBLUEBERRY]
-ca=正确|错误| | |
+ca=True|False| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓的初始追踪范围是右侧3格至左侧3格。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Der anfängliche Verfolgungsbereich von Electric Blueberry beträgt 3 Felder nach rechts bis 3 Felder nach links.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓的初始追踪范围是右侧3格至左侧3格。
+Wenn du falsch antwortest, beantworte die Frage bitte erneut.
+Der anfängliche Verfolgungsbereich von Electric Blueberry beträgt 3 Felder nach rechts bis 3 Felder nach links.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_ELECTRICBLUEBERRY]
-电击蓝莓升至2阶后获得了什么能力？
+Welche Fähigkeit erhält die Elektrische Blaubeere ab Level 2?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_ELECTRICBLUEBERRY]
-ca=有概率投掷出黄油控制僵尸|有概率发射红色星星|追踪范围扩大至整行|使中毒的持续时间增长|
+ca=Chance, Butter zu werfen, um Zombies zu kontrollieren | Chance, rote Sterne abzuschießen | Verfolgungsbereich auf die gesamte Reihe erweitert | Verlängert die Dauer der Vergiftung |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓在2阶后追踪范围扩大至整行。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Der Verfolgungsbereich der Elektrischen Blaubeere erweitert sich ab Level 2 auf die gesamte Reihe.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓在2阶后提升了雷云的追踪能力。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Elektrische Blaubeere verbessert die Verfolgungsfähigkeit von Gewitterwolken ab Level 2.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_ELECTRICBLUEBERRY]
-电击蓝莓升至3阶后获得了什么能力？
+Welche Fähigkeit erhält die elektrische Blaubeere ab Level 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_ELECTRICBLUEBERRY]
-ca=追踪范围扩大至全场|红色火焰提升蓝色火焰|有概率在爆炸后生产一个土豆地雷|攻击时有概率发射扇形豌豆|
+ca=Verfolgungsbereich auf das gesamte Feld erweitert | Rote Flammen verstärken blaue Flammen | Chance, nach Explosion eine Kartoffelmine zu erzeugen | Chance, beim Angriff fächerförmige Erbsen abzuwerfen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓在3阶后追踪范围扩大至全场。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Der Verfolgungsbereich elektrischer Blaubeeren erweitert sich ab Level 3 auf das gesamte Feld.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_5_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓在3阶后进一步提升了雷云的追踪能力。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Elektrische Blaubeeren verbessern die Fähigkeit, Gewitterwolken nach Level 3 zu verfolgen, zusätzlich.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_ELECTRICBLUEBERRY]
-电击蓝莓升至4阶后获得了什么能力？
+Welche Fähigkeit erhalten elektrische Blaubeeren nach Erreichen von Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_ELECTRICBLUEBERRY]
-ca=种植时有概率返还一定阳光|种植时有概率获得护盾|种植时有概率能造成范围伤害|种植时有概率直接释放能量豆大招|
+ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Flächenschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Energiebohne direkt auszulösen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓在4阶后种植时有概率直接释放能量豆大招。
+Wenn du die Frage richtig beantwortet hast, bist du ein Pflanzenmeister!
+
+Ab Level 4 besteht die Chance, dass elektrische Blaubeeren die Energiebohne direkt auslösen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓在4阶后能够更加频繁地释放能量豆大招。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 4 können elektrische Blaubeeren den Energiebohnen-Big-Move häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_ELECTRICBLUEBERRY]
-电击蓝莓升至5阶后获得了什么能力？
+Welche Fähigkeit erhält die elektrische Blaubeere ab Level 5?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_ELECTRICBLUEBERRY]
-ca=有概率发射单格范围伤害和击退的岩石豌豆|蓝色火焰提升紫色火焰|有概率将雷云升级为十字雷云|种植后返还一定阳光|
+ca=Es besteht die Chance, Zuckererbsen mit Einzelgitter-Reichweitenschaden und Rückstoß zu schleudern. | Blaue Flammen verstärken violette Flammen. | Es besteht die Chance, Gewitterwolken zu Kreuzgewitterwolken aufzuwerten. | Geben nach dem Pflanzen eine bestimmte Menge Sonnenlicht zurück.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓在5阶后有概率将雷云升级为十字雷云,对范围内所有僵尸造成伤害。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Ab Level 5 hat die Elektrische Blaubeere die Chance, die Gewitterwolke zu einer Kreuzgewitterwolke zu verbessern, die allen Zombies in Reichweite Schaden zufügt.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓在5阶后能一次攻击更多的僵尸。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 5 kann die Elektrische Blaubeere mehrere Zombies gleichzeitig angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_ELECTRICBLUEBERRY]
-电击蓝莓的能量豆大招是？
+Was ist der ultimative Move der Energiebohne der Elektrischen Blaubeere?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_ELECTRICBLUEBERRY]
-ca=对前方吐出火焰攻击僵尸|使周围的植物获得攻击加成|释放一个连续攻击3次的大雷云|向前砍出穿透整行的剑气|
+ca=Spuckt Feuer, um Zombies vor sich anzugreifen | Verleiht umliegenden Pflanzen einen Angriffsbonus | Löst eine große Gewitterwolke aus, die dreimal hintereinander angreift | Schneidet mit Schwertenergie nach vorne, die die gesamte Reihe durchdringt |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓的能量豆大招是释放一个连续攻击3次的大雷云。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Der ultimative Angriff der Energiebohne von Electric Blueberry setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓的能量豆大招能释放更加强大的雷云攻击。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Der ultimative Angriff der Energiebohne von Electric Blueberry kann einen stärkeren Gewitterwolkenangriff auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_ELECTRICBLUEBERRY]
-电击蓝莓的装扮效果是？
+Welchen kosmetischen Effekt hat Electric Blueberry?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_ELECTRICBLUEBERRY]
-ca=大雷云能缩小僵尸的体型并降低能力一段时间|使阳光产量增加|在爆炸后留下葡萄汁|投掷出燃烧的黄油，造成更多伤害|
+ca=Große Gewitterwolke kann Zombies verkleinern und ihre Fähigkeiten vorübergehend reduzieren. | Erhöht die Sonnenlichtproduktion. | Hinterlässt Traubensaft nach der Explosion. | Wirf brennende Butter, um mehr Schaden zu verursachen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_ELECTRICBLUEBERRY]
-答对了，你就是植物大师！
-电击蓝莓的装扮效果是大雷云能缩小僵尸体型并降低能力一段时间。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+
+Der kosmetische Effekt von Elektrische Blaubeere besteht darin, dass Große Gewitterwolke Zombies verkleinern und ihre Fähigkeiten vorübergehend reduzieren kann.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_ELECTRICBLUEBERRY]
-答错了，请重新答题吧。
-电击蓝莓的装扮效果是利用雷电削弱僵尸的能力。
+Wenn du falsch antwortest, beantworte die Frage bitte erneut.
 
+Der kosmetische Effekt von Elektrische Blaubeere besteht darin, die Fähigkeiten von Zombies durch Blitze zu schwächen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_TALLNUT]
-高坚果的主要功能是？
+Was ist die Hauptfunktion der Hohen Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_TALLNUT]
-ca=生产阳光|对僵尸造成伤害|阻挡僵尸前进|治疗或辅助友方植物|
+ca=Sonnenlicht erzeugen | Zombies Schaden zufügen | Zombies am Vorrücken hindern | Freundliche Pflanzen behandeln oder unterstützen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_TALLNUT]
-答对了，你就是植物大师！
-高坚果的主要功能是阻挡僵尸前进。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Hauptfunktion der Hohen Nuss besteht darin, Zombies am Vorrücken zu hindern.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_TALLNUT]
-答错了，请重新答题吧。
-高坚果是坚果系列的植物，坚果的外壳十分坚硬。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Die Hohe Nuss ist eine Pflanze aus der Nussfamilie. Ihre Schale ist sehr hart.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_1_TALLNUT]
-高坚果的主要用法是？
+Wozu dient die Hohe Nuss hauptsächlich?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_TALLNUT]
-ca=放在前线阻挡僵尸|放在安全位置阻挡僵尸|放在安全位置生产阳光|放在安全位置攻击僵尸|
+ca=Stelle sie an vorderster Front, um Zombies abzuwehren. | Stelle sie an eine sichere Position, um Zombies abzuwehren. | Stelle sie an eine sichere Position, um Sonnenlicht zu erzeugen. | Stelle sie an eine sichere Position, um Zombies anzugreifen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_1_TALLNUT]
-答对了，你就是植物大师！
-高坚果的主要用法是放在前线阻挡僵尸。
+Wenn du es richtig machst, bist du ein Pflanzenmeister!
+Die Hohe Nuss wird hauptsächlich an vorderster Front eingesetzt, um Zombies abzuwehren.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_TALLNUT]
-答错了，请重新答题吧。
-高坚果的生命值非常高，能够阻挡僵尸的猛烈进攻。
+Falsche Antwort, bitte erneut beantworten.
+Die hohe Nuss hat sehr hohe Lebenspunkte und kann den Angriff von Zombies blockieren.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_TALLNUT]
-高坚果高个子的特点有什么优势？
+Welche Vorteile bietet die hohe Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_TALLNUT]
-ca=能移动得更加快|能跳跃得更加高|能发现更远的僵尸|能阻挡飞行僵尸的移动|
+ca=Kann sich schneller bewegen | Kann höher springen | Kann Zombies in größerer Entfernung finden | Kann die Bewegung fliegender Zombies blockieren |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_TALLNUT]
-答对了，你就是植物大师！
-高坚果能阻挡飞行僵尸的移动。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die hohe Nuss kann die Bewegung fliegender Zombies blockieren.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_2_TALLNUT]
-答错了，请重新答题吧。
-高坚果高个子能阻挡到更高移动的僵尸。
+Falsche Antwort, bitte erneut beantworten. Große Nüsse können größere Zombies blockieren.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_TALLNUT]
-拥有坚果包扎术后，可以叠加种植恢复高坚果的血量。
+Mit dem Nussverband kannst du große Nüsse stapeln und pflanzen, um ihre Gesundheit wiederherzustellen.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_TALLNUT]
-ca=正确|错误| | |
+ca=correct|wrong| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_TALLNUT]
-答对了，你就是植物大师！
-在拥有坚果包扎术后，可以叠加种植恢复高坚果的血量。
+Wenn du es richtig machst, bist du ein Pflanzenmeister!
+Mit dem Nussverband kannst du große Nüsse stapeln und pflanzen, um ihre Gesundheit wiederherzustellen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_TALLNUT]
-答错了，请重新答题吧。
-坚果包扎术能让所有坚果类植物叠加种植恢复血量。
+Falls du es falsch machst, beantworte die Frage bitte erneut.
+Mit dem Nussverband können alle Nusspflanzen gestapelt und gepflanzt werden, um ihre Gesundheit wiederherzustellen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_TALLNUT]
-高坚果拥有极高的生命值，是坚果的几倍？
+Die Hochnuss hat extrem hohe Lebenspunkte. Wie viel höher sind sie als die der Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_TALLNUT]
-ca=1倍|1.2倍|1.5倍|2倍|
+ca=1x|1,2x|1,5x|2x|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_TALLNUT]
-答对了，你就是植物大师！
-坚果的初始血量为4000，而高坚果的初始血量为8000。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Nuss hat 4000 Lebenspunkte, die Hochnuss 8000.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_TALLNUT]
-答错了，请重新答题吧。
-高坚果的血量比坚果的血量高很多。
+Wenn du falsch antwortest, beantworte die Frage bitte erneut.
+Die Hochnuss hat deutlich mehr Lebenspunkte als die der Nuss.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_TALLNUT]
-高坚果升至2阶后获得了什么能力？
+Welche Fähigkeiten erhält die Große Nuss ab Level 2?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_TALLNUT]
-ca=能攻击右方的僵尸|死亡后有概率向右倒下造成伤害|使范围内的僵尸缩小|发射的闪电有几率变为高能闪电|
+ca=Kann Zombies von rechts angreifen|Hat die Chance, nach dem Tod nach rechts zu fallen und Schaden zu verursachen|Verkleinert Zombies in Reichweite|Hat die Chance, Blitze in hochenergetische Blitze zu verwandeln|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_TALLNUT]
-答对了，你就是植物大师！
-高坚果在2阶后死亡有概率向右倒下造成伤害。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Ab Level 2 hat die Große Nuss die Chance, nach dem Tod nach rechts zu fallen und Schaden zu verursachen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_5_TALLNUT]
-答错了，请重新答题吧。
-高坚果在2阶后能利用自己高大的身躯与僵尸同归于尽。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 2 kann die Große Nuss ihren großen Körper nutzen, um Zombies zu besiegen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_TALLNUT]
-高坚果升至3阶后获得了什么能力？
+Welche Fähigkeiten erhält die Große Nuss ab Level 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_TALLNUT]
-ca=死亡后必定向右倒下造成伤害|能吸引周围的僵尸到身前|死亡后留下爆炸葵花籽|攻击冷却时间缩短|
+ca=Nach dem Tod fällt sie definitiv nach rechts und verursacht Schaden. | Kann umstehende Zombies anlocken. | Hinterlässt nach dem Tod explodierende Sonnenblumenkerne. | Die Abklingzeit des Angriffs ist verkürzt.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_TALLNUT]
-答对了，你就是植物大师！
-高坚果在3阶后死亡必定向右倒下造成伤害。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Nach dem Tod auf Level 3 fällt die Große Nuss definitiv nach rechts und verursacht Schaden.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_TALLNUT]
-答错了，请重新答题吧。
-高坚果在3阶后强化了2阶时获得的能力。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 3 verstärkt die Große Nuss ihre Fähigkeiten aus Level 2.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_TALLNUT]
-高坚果升至4阶后获得了什么能力？
+Welche Fähigkeiten erhält die Große Nuss ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_TALLNUT]
-ca=种植时有概率返还一定阳光|种植时有概率获得护盾|种植时有概率能造成范围伤害|种植时有概率直接释放能量豆大招|
+ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Fernkampfschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Energiebohne direkt mit einem großen Angriff einzusetzen.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_TALLNUT]
-答对了，你就是植物大师！
-高坚果在4阶后种植时有概率直接释放能量豆大招。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+
+Beim Pflanzen ab Level 4 besteht die Chance, die Energiebohne direkt mit einem großen Angriff einzusetzen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_TALLNUT]
-答错了，请重新答题吧。
-高坚果在4阶后能够更加频繁地释放能量豆大招。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 4 kann der Hochnuss die Energiebohne häufiger einsetzen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_TALLNUT]
-高坚果的能量豆大招是？
+Was ist die ultimative Attacke der Energiebohne des Hochnusses?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_TALLNUT]
-ca=获得坚固的钢铁盔甲|治疗周围的植物|发射能对僵尸造成伤害的大宝石|发射3枚燃烧弹|
+ca=Stahlpanzerung erhalten | Umliegende Pflanzen heilen | Große Edelsteine abschießen, die Zombies Schaden zufügen können | 3 Brandbomben abschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_TALLNUT]
-答对了，你就是植物大师！
-高坚果的能量豆大招是获得坚固的钢铁盔甲。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die ultimative Attacke der Energiebohne des Hochnusses ist, Stahlpanzerung zu erhalten.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_TALLNUT]
-答错了，请重新答题吧。
-高坚果的能量豆大招能更持久地抵挡僵尸。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Der ultimative Angriff der Energiebohne der Hohen Nuss kann Zombies länger widerstehen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_TALLNUT]
-高坚果的装扮效果是？
+Welchen Effekt hat die Dekoration der Hohen Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
-ca=召唤一枚巨型草莓并爆炸|大招获得更加坚固的水晶甲|向正前方向发射三枚黄金炮弹|发射火焰、寒冰、普通混杂的豌豆子弹|
+ca=Eine riesige Erdbeere beschwören und explodieren lassen | Ultimative Fähigkeit für eine stärkere Kristallrüstung | Drei goldene Granaten nach vorne schießen | Eine Mischung aus Feuer-, Eis- und gewöhnlichen Erbsengeschossen verschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_TALLNUT]
-答对了，你就是植物大师！
-高坚果的装扮效果是大招获得更加坚固的水晶甲。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Dekoration der Hohen Nuss bewirkt, dass die ultimative Fähigkeit eine stärkere Kristallrüstung verleiht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_TALLNUT]
-答错了，请重新答题吧。
-高坚果的装扮效果是让盔甲变得更加坚固。
-
+Falls du falsch geantwortet hast, beantworte die Frage bitte erneut.
+Die Verzierung der Hohen Nuss verstärkt die Rüstung.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_CHOMPER]
-大嘴花的主要功能是？
+Was ist die Hauptfunktion der Großmaulblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_CHOMPER]
-ca=生产阳光|对僵尸造成伤害（吞食）|阻挡僵尸前进|治疗或辅助友方植物|
+ca=Sonnenlicht erzeugen | Zombies Schaden zufügen (verschlucken) | Zombies blockieren | Verbündete Pflanzen heilen oder unterstützen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_CHOMPER]
-答对了，你就是植物大师！
-大嘴花的主要功能是吞食并消化身前僵尸。
+Wenn du richtig geantwortet hast, bist du der Meister der Pflanzen!
+Die Hauptfunktion der Großmaulblume besteht darin, die Zombies vor ihr zu verschlucken und zu verdauen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_CHOMPER]
-答错了，请重新答题吧。
-大嘴花能利用自己巨大的嘴巴去攻击僵尸。
+Falsche Antwort, bitte wiederholen.
+Die Großmaulblume kann mit ihrem riesigen Maul Zombies angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_1_CHOMPER]
-大嘴花的主要用法是？
+Wozu dient die Großmaulblume hauptsächlich?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_CHOMPER]
-ca=放在前线攻击僵尸|放在安全位置攻击僵尸|放在前线阻挡僵尸|放在安全位置生产阳光|
+ca=Stelle sie an vorderster Front, um Zombies anzugreifen. | Stelle sie in eine sichere Position, um Zombies anzugreifen. | Stelle sie an vorderster Front, um Zombies zu blockieren. | Stelle sie in eine sichere Position, um Sonnenlicht zu erzeugen.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_1_CHOMPER]
-答对了，你就是植物大师！
-大嘴花的主要用法是放在前线攻击僵尸。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Großmaulblume wird hauptsächlich verwendet, um Zombies an vorderster Front anzugreifen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_CHOMPER]
-答错了，请重新答题吧。
-大嘴花拥有强大的吞食秒杀能力，但攻击范围十分有限。
+Falsche Antwort, bitte erneut antworten.
+Die Großmaulblume hat eine starke Verschluck- und Tötungskraft, ihre Angriffsreichweite ist jedoch sehr begrenzt.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_CHOMPER]
-大嘴花在吞食完僵尸后，会进入消化时间，此时大嘴花？
+Nachdem die Großmaulblume den Zombie verschluckt hat, beginnt die Verdauung. Was ist jetzt mit der Großmaulblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_CHOMPER]
-ca=没有防护能力，需要其它植物保护|没有防护能力，无需其它植物保护|拥有防护能力，需要其它植物保护|拥有防护能力，无需其它植物保护|
+ca=keine Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|keine Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|hat Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|hat Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_CHOMPER]
-答对了，你就是植物大师！
-大嘴花在消化期间，没有防护能力，需要其它植物保护。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Während der Verdauungsphase hat die Großmaulblume keine Schutzfunktion und benötigt den Schutz anderer Pflanzen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_2_CHOMPER]
-答错了，请重新答题吧。
-大嘴花在消化期间容易受到僵尸的攻击。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Während der Verdauungsphase ist die Großmaulblume anfällig für Zombieangriffe.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_CHOMPER]
-大嘴花能够吞食巨人僵尸。
+Die Großmaulblume kann Riesenzombies fressen.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_CHOMPER]
-ca=正确|错误| | |
+ca=True|False| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_CHOMPER]
-答对了，你就是植物大师！
-大嘴花不能吞食巨人僵尸，但能对巨人僵尸发动啃咬攻击。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Großmaulblume kann Riesenzombies zwar nicht fressen, aber sie kann sie beißen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_CHOMPER]
-答错了，请重新答题吧。
-巨人僵尸的体型十分庞大，比大嘴花的嘴巴大得多。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Der Körper eines Riesenzombies ist sehr groß, viel größer als das Maul der Großmaulblume.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_CHOMPER]
-大嘴花升至2阶后获得了什么能力？
+Welche Fähigkeit erhält die Großmaulblume, sobald sie Level 2 erreicht?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_CHOMPER]
-ca=有概率把僵尸直接投出场外|治疗植物的同时，提升攻击力|吞食后将其他僵尸击退一格，减少消化时间|火焰持续时间延长|
+ca=Es besteht die Chance, Zombies direkt vom Feld zu werfen. | Erhöht die Angriffskraft beim Heilen von Pflanzen. | Schleudert andere Zombies nach dem Verschlucken um ein Feld zurück, verkürzt die Verdauungszeit. | Verlängert die Flammendauer.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_CHOMPER]
-答对了，你就是植物大师！
-大嘴花在2阶后，吞食后将其他僵尸击退一格，并减少消化时间。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Ab Level 2 der Großmaulblume stößt sie andere Zombies nach dem Verschlucken um ein Feld zurück und verkürzt die Verdauungszeit.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_CHOMPER]
-答错了，请重新答题吧。
-大嘴花在2阶后，能在吞食后让僵尸更难靠近自己。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 2 der Großmaulblume wird es für Zombies nach dem Verschlucken schwieriger, sich ihr zu nähern.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_CHOMPER]
-大嘴花升至3阶后获得了什么能力？
+Welche Fähigkeit erhält die Großmaulblume ab Level 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_CHOMPER]
-ca=有概率发射高伤害的电刺|死亡后留下幼年坚果|进一步减少消化时间|有概率多发射1颗苹果核炮弹|
+ca=Chance, hochschädigende elektrische Stacheln abzufeuern | Hinterlässt junge Nüsse nach dem Tod | Verkürzt die Verdauungszeit weiter | Chance, eine weitere Apfelkernschale abzufeuern |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_CHOMPER]
-答对了，你就是植物大师！
-大嘴花在3阶后进一步减少消化时间。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+
+Ab Level 3 verkürzt sich die Verdauungszeit des Umbrers weiter.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_5_CHOMPER]
-答错了，请重新答题吧。
-大嘴花在3阶后能更频繁地吞食僵尸。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+
+Ab Level 3 kann der Umbrer häufiger Zombies verschlingen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_CHOMPER]
-大嘴花升至4阶后获得了什么能力？
+Welche Fähigkeit erhält der Umbrer ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_CHOMPER]
-ca=种植时有概率返还一定阳光|种植时有概率获得护盾|种植时有概率能造成范围伤害|种植时有概率直接释放能量豆大招|
+ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Flächenschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Energiebohne direkt auszulösen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_CHOMPER]
-答对了，你就是植物大师！
-大嘴花在4阶后种植时有概率直接释放能量豆大招。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+
+Beim Pflanzen nach Level 4 besteht die Chance, dass die Großmaulblume die Energiebohne direkt auslöst.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_CHOMPER]
-答错了，请重新答题吧。
-大嘴花在4阶后能够更加频繁地释放能量豆大招。
+Wenn du falsch antwortest, beantworte die Frage bitte erneut.
+
+Ab Level 4 kann die Großmaulblume die Energiebohne häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_CHOMPER]
-大嘴花升至5阶后获得了什么能力？
+Welche Fähigkeit erhält die Großmaulblume ab Level 5?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_CHOMPER]
-ca=有概率张开大口吞食或啃咬前方3格所有僵尸|攻击模式进化为高速七连击后追加龙王击|有概率远程释放火球造成巨额伤害|有概率发射1个小仙人球|
+ca=Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen. | Drachenkönig-Angriff hinzufügen, nachdem sich die Hochgeschwindigkeits-Sieben-Treffer-Kombo entwickelt hat. | Chance, Feuerbälle aus der Ferne abzufeuern, die großen Schaden verursachen. | Chance, einen kleinen Kaktus zu schleudern. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_CHOMPER]
-答对了，你就是植物大师！
-大嘴花在5阶后有概率张开大口吞食或啃咬前方3格所有僵尸。
+Wenn du die Frage richtig beantwortet hast, bist du ein Pflanzenmeister!
+
+Ab Level 5 hat die Großmaulblume die Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_CHOMPER]
-答错了，请重新答题吧。
-大嘴花在5阶后能一次吞食或啃咬更多的僵尸。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 5 kann die Großmaulblume mehrere Zombies gleichzeitig verschlingen oder beißen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_CHOMPER]
-大嘴花的能量豆大招是？
+Was ist der ultimative Energiebohnen-Move der Großmaulblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_CHOMPER]
-ca=向前方扇形区域发射子弹|向全场僵尸发射1颗大卷心菜|吸3只僵尸吞食或啃咬，再把僵尸吹至底线|连续发射60发豌豆与1颗大豌豆|
+ca=Feuere Kugeln im fächerförmigen Bereich vor dir ab|Feuere 1 großen Kohlkopf auf alle Zombies|Sauge 3 Zombies ein, um sie zu fressen oder zu beißen, und puste sie dann zur Ziellinie|Feuere kontinuierlich 60 Erbsen und 1 große Erbse ab|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_CHOMPER]
-答对了，你就是植物大师！
-大嘴花的能量豆大招是吸3只僵尸吞食或啃咬，再把僵尸吹至底线。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die ultimative Fähigkeit der Energiebohne der Großmaulblume besteht darin, drei Zombies einzusaugen, zu fressen oder zu beißen und sie dann bis zur Ziellinie zu blasen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_CHOMPER]
-答错了，请重新答题吧。
-大嘴花的能量豆大招能吞噬或啃咬远距离的僵尸。
+Falls Sie falsch geantwortet haben, beantworten Sie die Frage bitte erneut.
+Die ultimative Fähigkeit der Energiebohne der Großmaulblume kann Zombies aus großer Entfernung fressen oder beißen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_CHOMPER]
-大嘴花的装扮效果是？
+Welche Wirkung hat das Kostüm der Großmaulblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_CHOMPER]
-ca=扩大大招吐出的火焰范围|使大招发射的高能激光具有溅射伤害|大招额外释放1个准备好的土豆地雷|大招吹僵尸可将铁桶防具吹落|
+ca=Vergrößert die Reichweite des Feuers, das durch die ultimative Fähigkeit ausgespuckt wird. | Der Hochenergielaser, der durch die ultimative Fähigkeit abgefeuert wird, verursacht Flächenschaden. | Die ultimative Fähigkeit setzt eine zusätzliche vorbereitete Kartoffelmine frei. | Die ultimative Fähigkeit kann die Eisenrohrpanzerung beim Blasen von Zombies wegblasen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_CHOMPER]
-答对了，你就是植物大师！
-大嘴花的装扮效果是大招吹僵尸可将铁桶防具吹落。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Das Kostüm der Großmaulblume bewirkt, dass die ultimative Fähigkeit die Eisenrohrpanzerung beim Aufblasen von Zombies wegblasen kann.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_CHOMPER]
-答错了，请重新答题吧。
-大嘴花的装扮效果是能强化大招吹僵尸的效果。
-
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Das Kostüm der Großmaulblume verstärkt die Wirkung der ultimativen Fähigkeit beim Aufblasen von Zombies.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_SQUASH]
-窝瓜的主要功能是？
+Was ist die Hauptfunktion des Kürbisses?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_SQUASH]
-ca=生产阳光|对僵尸造成伤害|阻挡僵尸前进|治疗或辅助友方植物|
+ca=Sonnenlicht erzeugen | Zombies Schaden zufügen | Zombies am Vorankommen hindern | Freundliche Pflanzen heilen oder unterstützen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_SQUASH]
-答对了，你就是植物大师！
-窝瓜的主要功能是对僵尸造成伤害，但攻击后会消失。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+
+Die Hauptfunktion des Tintenfischs besteht darin, Zombies Schaden zuzufügen. Nach einem Angriff verschwindet er jedoch.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_SQUASH]
-答错了，请重新答题吧。
-窝瓜能利用自己的跳跃能力压扁僵尸。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+
+Der Tintenfisch kann Zombies mit seiner Sprungkraft zerquetschen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_1_SQUASH]
-窝瓜的主要用法是？
+Was ist die Hauptfunktion des Tintenfischs?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_SQUASH]
-ca=放在前线攻击僵尸|放在安全位置攻击僵尸|放在前线阻挡僵尸|放在安全位置生产阳光|
+ca=Stelle ihn an die Front, um Zombies anzugreifen | Stelle ihn in eine sichere Position, um Zombies anzugreifen | Stelle ihn an die Front, um Zombies zu blockieren | Stelle ihn in eine sichere Position, um Sonnenlicht zu erzeugen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_1_SQUASH]
-答对了，你就是植物大师！
-窝瓜的主要用法是放在前线攻击僵尸。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Der Kürbis wird hauptsächlich dazu verwendet, ihn an die Front zu stellen, um Zombies anzugreifen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_SQUASH]
-答错了，请重新答题吧。
-窝瓜能跳跃压扁僵尸，但跳跃锁定范围有限。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Der Kürbis kann springen und Zombies zerquetschen, aber die Sprungreichweite ist begrenzt.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_SQUASH]
-窝瓜的跳跃锁定范围是？
+Wie groß ist die Sprungreichweite des Squash?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_SQUASH]
-ca=自身所在格|前方一格|自身和前方一格|自身、前方和后方一格|
+ca=das Gitter, auf dem du dich befindest|das Gitter davor|das Gitter und das Gitter davor|das Gitter, das Gitter davor und das Gitter dahinter|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_SQUASH]
-答对了，你就是植物大师！
-窝瓜的跳跃锁定范围是自身、前方和后方一格。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Die Sprungreichweite des Squids ist das Gitter davor und dahinter.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_2_SQUASH]
-答错了，请重新答题吧。
-窝瓜不仅能向右跳跃，也能向左跳跃。
+Wenn du falsch antwortest, beantworte die Frage bitte erneut.
+Der Squid kann nicht nur nach rechts, sondern auch nach links springen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_SQUASH]
-窝瓜在发现并锁定僵尸后，会变成无敌状态。
+Sobald der Tintenfisch den Zombie findet und anvisiert, wird er unbesiegbar.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_SQUASH]
-ca=正确|错误| | |
+ca=True|False| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_SQUASH]
-答对了，你就是植物大师！
-窝瓜在发现并锁定僵尸后，会变成无敌状态。
+Wenn du richtig geantwortet hast, bist du ein Pflanzenmeister!
+Wenn der Tintenfisch einen Zombie findet und sich an ihn klammert, wird er unbesiegbar.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_SQUASH]
-答错了，请重新答题吧。
-窝瓜在发现并锁定僵尸后，会变得十分坚固。
+Falls du falsch geantwortet hast, beantworte die Frage bitte erneut.
+Wenn der Tintenfisch einen Zombie findet und sich an ihn klammert, wird er sehr stark.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_SQUASH]
-窝瓜作为攻击后会消失的植物，不适合的使用方法是？
+Wie kann man den Tintenfisch, eine Pflanze, die nach einem Angriff verschwindet, am besten einsetzen?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_SQUASH]
-ca=应对高危险的精英僵尸|提前种植，应对僵尸突袭|消灭关卡第一只僵尸，来节省阳光种植向日葵|放在安全的位置，等待阳光产出|
+ca=Gehe mit gefährlichen Elite-Zombies um | Pflanzen Sie im Voraus, um Zombie-Angriffen zu entgehen | Eliminieren Sie den ersten Zombie im Level, um Sonnenlicht zu sparen und Sonnenblumen zu pflanzen | Stellen Sie die Pflanze an einen sicheren Ort und warten Sie, bis Sonnenlicht produziert wird |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_SQUASH]
-答对了，你就是植物大师！
-窝瓜不适合放在安全的位置，也不能产出阳光。
+Wenn Sie richtig antworten, sind Sie ein Pflanzenmeister!
+Der Kürbis eignet sich nicht zum Platzieren an einem sicheren Ort und kann kein Sonnenlicht produzieren.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_SQUASH]
-答错了，请重新答题吧。
-窝瓜具有应对精英僵尸，提前部署防线和节省阳光的使用方法。
+Wenn Sie falsch antworten, beantworten Sie die Frage bitte erneut.
+Der Kürbis beherrscht die Methode, mit Elite-Zombies umzugehen, indem er im Voraus Verteidigungsanlagen installiert und Sonnenlicht spart.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_SQUASH]
-窝瓜升至2阶后获得了什么能力？
+Welche Fähigkeit erhält der Kürbis nach dem Upgrade auf Level 2?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_SQUASH]
-ca=碾压后有概率不消失，而是返回原地|每攻击15次后可以发动一次上勾拳|每次能连续发射2枚飞弹|使掉落的叶片能够恢复|
+ca=Nach dem Zerquetschen besteht die Chance, dass er nicht verschwindet, sondern an seinen ursprünglichen Ort zurückkehrt. | Nach jeweils 15 Angriffen kann er einen Aufwärtshaken ausführen. | Kann jedes Mal zwei Raketen hintereinander abfeuern. | Regeneriert abgefallene Blätter.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_SQUASH]
-答对了，你就是植物大师！
-窝瓜在2阶后，碾压有概率不消失，而是返回原地。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Nach dem Upgrade auf Level 2 verschwindet der Tintenfisch nach dem Zerquetschen nicht, sondern kehrt an seinen ursprünglichen Ort zurück.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_5_SQUASH]
-答错了，请重新答题吧。
-窝瓜在2阶后能改变碾压后必定消失的特性。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 2 kann der Tintenfisch die Fähigkeit ändern, nach dem Zerquetschen zu verschwinden.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_SQUASH]
-窝瓜升至3阶后获得了什么能力？
+Welche Fähigkeit erhält der Tintenfisch nach Erreichen von Level 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_SQUASH]
-ca=提高碾压后不消失，而是返回原地的概率|缩短发射后的休息时间|子弹弹射次数+1|有概率发射能穿透僵尸的能量镖|
+ca=Erhöht die Wahrscheinlichkeit, nach dem Zerquetschen in die Ausgangsposition zurückzukehren, anstatt zu verschwinden. | Verkürzt die Ruhezeit nach dem Abfeuern. | Anzahl der Kugelauswürfe +1. | Chance, Energiepfeile abzufeuern, die Zombies durchdringen können. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_SQUASH]
-答对了，你就是植物大师！
-窝瓜在3阶后能提高碾压后不消失，而是返回原地的概率。
+Wenn du die Frage richtig beantwortet hast, bist du ein Pflanzenmeister!
+
+Ab Level 3 kann der Tintenfisch die Wahrscheinlichkeit erhöhen, nach dem Zerquetschen in die Ausgangsposition zurückzukehren, anstatt zu verschwinden.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_SQUASH]
-答错了，请重新答题吧。
-窝瓜在3阶后强化了2阶时获得的能力。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+
+Ab Level 3 verstärkt der Tintenfisch die Fähigkeit, die er auf Level 2 erlangt hat.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_SQUASH]
-窝瓜升至4阶后获得了什么能力？
+Welche Fähigkeit erhält der Tintenfisch ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_SQUASH]
-ca=种植时有概率返还一定阳光|种植时有概率获得护盾|种植时有概率能造成范围伤害|种植时有概率直接释放能量豆大招|
+ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Flächenschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Energiebohne direkt freizusetzen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_SQUASH]
-答对了，你就是植物大师！
-窝瓜在4阶后种植时有概率直接释放能量豆大招。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+Beim Pflanzen nach Level 4 besteht die Chance, dass der Kürbis direkt die Energiebohne-Attacke auslöst.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_SQUASH]
-答错了，请重新答题吧。
-窝瓜在4阶后能够更加频繁地释放能量豆大招。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Ab Level 4 kann der Kürbis die Energiebohne-Attacke häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_SQUASH]
-窝瓜的能量豆大招是？
+Was ist die Energiebohne-Attacke des Kürbisses?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_SQUASH]
-ca=施法将场上最左侧的僵尸变成大喷菇|使全场僵尸进入中毒状态|对全场其中两格进行跳压，最后跳压回原点|向全场发射4枚寒冰导弹|
+ca=Wirke einen Zauber, der den Zombie ganz links in einen riesigen Pilz verwandelt | Alle Zombies im Feld vergiftet | Springe und drücke zwei Felder im Feld, springe und drücke anschließend zurück zum Ursprung | Feuere 4 Eisraketen auf das gesamte Feld ab |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_SQUASH]
-答对了，你就是植物大师！
-窝瓜的能量豆大招是对全场其中两格进行跳压，最后跳压回原点。
+Wenn du richtig antwortest, bist du ein Pflanzenmeister!
+
+Woguas ultimativer Energiebohnen-Move besteht darin, zwei Felder im Feld zu springen und zu drücken und anschließend zum Ursprung zurückzuspringen und zu drücken.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_SQUASH]
-答错了，请重新答题吧。
-窝瓜的能量豆大招能无视攻击范围多次攻击。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Woguas ultimativer Energiebohnen-Move kann die Angriffsreichweite ignorieren und mehrfach angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_SQUASH]
-窝瓜的装扮效果是？
+Welche Wirkung hat Woguas Kostüm?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_SQUASH]
-ca=大招能用金箍棒把僵尸砸进地里|提升大招高能激光的伤害|大招额外再进行一次跳压|大招能发射伤害更高的光箭矢|
+ca=Ultimate kann Zombies mit dem goldenen Reifen zu Boden schmettern. | Erhöht den Schaden des ultimativen Hochenergielasers. | Ultimate kann zusätzlichen Sprungdruck erzeugen. | Ultimate kann Lichtpfeile mit höherem Schaden abfeuern. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_SQUASH]
-答对了，你就是植物大师！
-窝瓜的装扮效果是大招额外再进行一次跳压。
+Wenn du richtig antwortest, bist du der Meister der Pflanzen!
+
+Das Tintenfischkostüm verleiht dem Ultimate zusätzlichen Sprungdruck.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_SQUASH]
-答错了，请重新答题吧。
-窝瓜的装扮效果能强化大招跳压的。
+Falls du falsch antwortest, beantworte die Frage bitte erneut.
+Das Tintenfischkostüm kann den ultimativen Sprungdruck verstärken.
 
 [PENNY_CLASSROOM_PLANT_DESC_PRIMALSUNFLOWER]
-^276500 植物特性： ^oldclr 原始向日葵会^FF0000 产出大号阳光 ^oldclr。并且在恐龙危机世界中拥有额外的阳光产出。
-^276500 能量豆大招： ^oldclr 原始向日葵立即生产225点阳光。
+^276500 Pflanzeneigenschaften: ^oldclr Ursonnenblumen ^FF0000 produzieren große Sonnen ^oldclr. Und haben zusätzliche Sonnen in der Dino-Krisenwelt.
+^276500 Energiebohne Ultimativ: ^oldclr Ursonnenblumen produzieren sofort 225 Sonnen.
 
 [PENNY_CLASSROOM_PLANT_DESC_ELECTRICBLUEBERRY]
-^276500 植物特性：^oldclr 电击蓝莓会^FF0000 释放巨大伤害的雷云 ^oldclr，追踪攻击范围内的僵尸。面对巨人僵尸或僵尸博士十分有效。
-^276500 能量豆大招：^oldclr 电击蓝莓会释放一个连续攻击3次的大雷云。
+^276500 Pflanzeneigenschaften: ^oldclr Elektrische Blaubeere ^FF0000 setzt eine Gewitterwolke frei, die ^oldclr enormen Schaden verursacht und Zombies in Reichweite verfolgt. Sehr nützlich gegen Riesenzombies oder Dr. Zombie.
+^276500 Energiebohne Ultimativ: ^oldclr Elektrische Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_PLANT_DESC_TALLNUT]
-^276500 植物特性：^oldclr 高坚果作为重型防御植物，不仅能有效阻挡地面僵尸的移动，还^FF0000 能阻挡飞行僵尸 ^oldclr。
-^276500 能量豆大招：^oldclr 高坚果会获得坚固的盔甲。
+^276500 Pflanzenmerkmale: ^oldclr Tall Nuts sind schwere Verteidigungspflanzen, die nicht nur die Bewegung von Bodenzombies, sondern auch ^FF0000 fliegende Zombies effektiv blockieren können ^oldclr.
+^276500 Energiebohnen – Spezialattacke: ^oldclr Tall Nuts erhalten eine solide Panzerung.
 
 [PENNY_CLASSROOM_PLANT_DESC_CHOMPER]
-^276500 植物特性：^oldclr 大嘴花^FF0000 能吞食并消化身前僵尸 ^oldclr，遇到无法吞食的僵尸会发动啃咬攻击。
-^276500 能量豆大招：^oldclr 大嘴花会吸3只僵尸吞食或啃咬，再把僵尸吹至底线。
+^276500 Pflanzenmerkmale: ^oldclr Big Mouth Flower ^FF0000 kann Zombies vor sich verschlucken und verdauen ^oldclr und startet einen Beißangriff, wenn sie auf Zombies trifft, die nicht verschluckt werden können.
+^276500 Energiebohnen – Spezialattacke: ^oldclr Big Mouth Flower saugt drei Zombies ein, um sie zu verschlucken oder zu beißen, und schleudert sie dann in die unterste Reihe.
 
 [PENNY_CLASSROOM_PLANT_DESC_SQUASH]
-^276500 植物特性：^oldclr 窝瓜能锁定左右一格内的僵尸，在起跳后^FF0000 压扁格内所有僵尸 ^oldclr。
-^276500 能量豆大招：^oldclr 窝瓜会对全场其中两格进行跳压，最后跳压回原点。
+^276500 Pflanzenfunktionen: ^oldclr Squash kann Zombies im linken und rechten Raster erfassen und nach einem Sprung alle Zombies im Raster zerquetschen.
+^276500 Energiebohne Ultimativ: ^oldclr Squash springt und zerquetscht zwei Raster im Feld und springt schließlich zum Ursprung zurück.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_PRIMALSUNFLOWER]
-棱镜草拥有不俗的伤害能力，但前提是拥有足够阳光去当作弹药。原始向日葵就能够胜任这项工作。
+Prismatisches Gras hat eine hohe Schadenskraft, setzt aber ausreichend Sonnenlicht als Munition voraus. Primitive Sonnenblume kann diese Aufgabe erfüllen.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_ELECTRICBLUEBERRY]
-电击蓝莓升至3阶后，追踪范围扩大至全场。玩家可以将电击蓝莓种植在场上任意位置，植物布阵更加自由，也能应对更多类型的僵尸地形。
+Nachdem die elektrische Blaubeere auf Stufe 3 verbessert wurde, erweitert sich die Verfolgungsreichweite auf das gesamte Feld. Spieler können Schock-Blaubeeren überall auf dem Feld pflanzen. Dadurch werden die Pflanzenformationen flexibler und können mit mehr Zombie-Geländearten umgehen.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_TALLNUT]
-高坚果升至3阶后，死亡必定向右倒下造成范围伤害。虽然无法击杀巨人僵尸，但应对普通僵尸还是绰绰有余的。
+Wenn die Große Nuss auf Stufe 3 verbessert wird, fällt sie nach rechts, wenn sie stirbt, und verursacht Flächenschaden. Obwohl sie keine riesigen Zombies töten kann, reicht sie für gewöhnliche Zombies völlig aus.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_CHOMPER]
-大嘴花能无视僵尸血量，一口吞下与自身阶数相同的小体型僵尸，甚至能吞食一些带有特殊能力的僵尸，让它们的能力无用武之地。
+Die Großmaulblume ignoriert die Gesundheit von Zombies und verschlingt kleine Zombies gleichen Levels mit einem Biss. Sie kann sogar Zombies mit besonderen Fähigkeiten verschlingen und deren Fähigkeiten dadurch unbrauchbar machen.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_SQUASH]
-窝瓜能够对单格内的全部僵尸造成伤害。如果能设法把僵尸聚集在一个点，那就能最大化发挥窝瓜的作用。
+Der Kürbis kann allen Zombies in einem einzigen Feld Schaden zufügen. Wenn du versuchst, die Zombies an einem Punkt zu sammeln, kannst du die Rolle des Kürbisses maximieren.
 
-[PENNY_CLASSROOM_NORMAL_LEVEL_DESC_PRIMALSUNFLOWER] 
-瓷砖萝卜变化成的能量瓷砖能使种植在上面的植物联动释放大招，辅助能力非常强。但每次种植，所需阳光都会成倍上涨，高阳光产出的植物才能满足批量种植的要求。
+[PENNY_CLASSROOM_NORMAL_LEVEL_DESC_PRIMALSUNFLOWER]
+Die aus Radieschensteinen umgewandelten Energieplättchen können die darauf gepflanzten Pflanzen ihre ultimativen Attacken gleichzeitig auslösen lassen, und ihre zusätzliche Fähigkeit ist sehr stark. Allerdings steigt mit jeder Pflanzung der benötigte Sonnenlichtbedarf exponentiell an, und nur Pflanzen mit hoher Sonnenlichtausbeute können den Anforderungen für eine Massenpflanzung gerecht werden.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_ELECTRICBLUEBERRY]
-电击蓝莓升至4阶后，有较大的概率种植直接释放大招，而且种植冷却时间较短。所以能够利用批量种植甚至是铲掉重新种植的方式增加伤害。
+Nachdem die elektrische Blaubeere auf Stufe 4 aufgewertet wurde, ist die Wahrscheinlichkeit höher, dass sie ihre ultimative Attacke direkt nach der Pflanzung auslöst, und die Abkühlzeit der Pflanzung ist kurz. Daher kannst du Massenpflanzungen oder sogar Schaufeln und Neupflanzen einsetzen, um den Schaden zu erhöhen.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_TALLNUT]
-快速移动的鸡和冰鼬凭借移动速度的优势，很容易穿过远程植物的火力网。这时就需要坚固的高坚果来将它们拒之门外了。
+Flinke Hühner und Eiswiesel können dank ihres Geschwindigkeitsvorteils das Feuernetzwerk weitreichender Pflanzen leicht durchbrechen. Um sie aufzuhalten, braucht man eine robuste, große Nuss.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_CHOMPER]
-大嘴花的大招能够把面前全部的僵尸吹至底线，搭配上甜薯吸引僵尸换行的特性，或许能组合出不一样的火花。
+Die große Bewegung der Großmaulblume kann alle Zombies vor ihr in die unterste Reihe blasen. Kombiniert mit der Eigenschaft der Süßkartoffel, Zombies zum Linienwechsel anzulocken, können verschiedene Funken kombiniert werden.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_SQUASH]
-有些僵尸拥有远程的特殊技能，能够躲在僵尸群的后方攻击植物或增强僵尸。这时就需要一个勇敢的植物去突入僵尸阵地。
+Manche Zombies verfügen über besondere Fähigkeiten auf lange Distanz, mit denen sie sich hinter der Zombiegruppe verstecken und Pflanzen angreifen oder Zombies verstärken können. Um in die Zombieposition einzudringen, ist eine mutige Pflanze erforderlich.
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_PRIMALSUNFLOWER]
-地星发射井所发射的导弹不仅有高额的伤害，还有辐射僵尸的能力。但随着地星发射井数量增加，所需的阳光也会增加。这时就需要高阳光产出能力的植物了。
+Die vom Erdsternsilo abgefeuerten Raketen verursachen nicht nur hohen Schaden, sondern können auch Zombies bestrahlen. Mit zunehmender Anzahl der Erdsternsilos steigt jedoch auch der Sonnenlichtbedarf. Daher werden Pflanzen mit hoher Sonnenlichtausbeute benötigt.
+
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_ELECTRICBLUEBERRY]
-电击蓝莓升至5阶后，有概率将雷云升级为十字雷云，能对范围内的所有僵尸造成伤害，应对成群结队的僵尸也不成问题。
+Wenn die Elektrische Blaubeere Level 5 erreicht, besteht die Chance, ihre Gewitterwolke zu einer Kreuzgewitterwolke aufzuwerten. Diese kann allen Zombies in Reichweite Schaden zufügen und Zombiegruppen bekämpfen.
+
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_TALLNUT]
-高坚果能阻挡飞行僵尸的移动，再加上极高的生命值和坚固的能量豆大招盔甲。对抗再多的飞行僵尸也不在话下。
+Die Tallnut kann die Bewegung fliegender Zombies blockieren und dank ihrer extrem hohen Gesundheit und ihrer robusten Energiebohnenrüstung problemlos gegen viele fliegende Zombies kämpfen.
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_CHOMPER]
-大嘴花升至5阶后，有概率张开大口吞食或啃咬前方3格所有僵尸，这样面对成群的僵尸也能游刃有余了。
+Ab Level 5 hat die Maulblume die Chance, alle Zombies in den vorderen drei Feldern zu verschlingen oder zu beißen. So kann sie problemlos mit Zombiegruppen fertig werden.
+
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_SQUASH]
-窝瓜在发现并锁定僵尸后，会变成无敌状态。用来应对僵尸的冲锋攻击十分有效。
+Sobald die Blume die Zombies findet und erfasst, wird sie unbesiegbar. Sehr effektiv gegen Angriffe von Zombies.
 
 [PENNY_CLASSROOM_START_LEVEL_TITLE]
-关卡描述
+Levelbeschreibung
 
 [PENNY_CLASSROOM_START_LEVEL_PLANT_LIST_TITLE]
-阵容推荐
+Empfohlene Aufstellung
 
 [PENNY_CLASSROOM_START_LEVEL_BONUS_TITLE]
-关卡奖励
+Levelbelohnungen
 
 [PENNY_CLASSROOM_SHOP_BUY_CONFIRM]
-是否花费 {NUMS} 课堂币购买？
+Möchtest du {NUMS} Klassenzimmer-Münzen für den Kauf ausgeben?
 
 [MAT_PENNY_CLASSROOM_COIN_NOT_ENOUGH]
-课堂币不足
+Nicht genügend Klassenzimmer-Münzen
 
 [PENNY_CLASS_LEVEL1]
-初级训练 - 原始向日葵
+Primäre Ausbildung – Primitive Sonnenblume
 
 [PENNY_CLASS_LEVEL2]
-初级训练 - 电击蓝莓
+Grundausbildung – Elektrische Blaubeere
 
 [PENNY_CLASS_LEVEL3]
-初级训练 - 高坚果
+Grundausbildung – Hoher Nussgehalt
 
 [PENNY_CLASS_LEVEL4]
-初级训练 - 大嘴花
+Grundausbildung – Großmundige Blüte
 
 [PENNY_CLASS_LEVEL5]
-初级训练 - 窝瓜
+Grundausbildung – Melone
 
 [PENNY_CLASS_LEVEL6]
-进阶考核 - 原始向日葵
+Fortgeschrittenentest – Original Sonnenblume
 
 [PENNY_CLASS_LEVEL7]
-进阶考核 - 电击蓝莓
+Fortgeschrittenentest – Elektrische Blaubeere
 
 [PENNY_CLASS_LEVEL8]
-进阶考核 - 高坚果
+Fortgeschrittenentest – Hoher Nussgehalt
 
 [PENNY_CLASS_LEVEL9]
-进阶考核 - 大嘴花
+Fortgeschrittenentest – Großmundige Blüte
 
 [PENNY_CLASS_LEVEL10]
-进阶考核 - 窝瓜
+Fortgeschrittenentest – Melone
 
 [PENNY_CLASS_LEVEL11]
-终极试炼 - 原始向日葵
+Ultimativer Test – Original Sonnenblume
 
 [PENNY_CLASS_LEVEL12]
-终极试炼 - 电击蓝莓
+Ultimativ Prüfung – Elektrische Blaubeere
 
 [PENNY_CLASS_LEVEL13]
-终极试炼 - 高坚果
+Ultimative Prüfung – Hohe Nuss
 
 [PENNY_CLASS_LEVEL14]
-终极试炼 - 大嘴花
+Ultimative Prüfung – Großmaulige Blume
 
 [PENNY_CLASS_LEVEL15]
-终极试炼 - 窝瓜
+Ultimative Prüfung – Kürbis
 
 [BIND_UNIQUE_ID_TITLE]
 Gerät verknüpfen
