@@ -11888,60 +11888,57 @@ Diese Pflanze kann nicht auf einer Lore gepflanzt werden.
 他的头盔可以提供超高的防御力。
 
 [ZOMBIE_ZOMBOSSMECH_EGYPT]
-埃及僵尸博士
+Zombot-Sphinxinator
 
 [ZOMBIE_ZOMBOSSMECH_EGYPT_DESCRIPTION]
-{FLAVOR}都说车如其人，这句话对僵尸博士也一样适用。
+{KEYWORD}Besonderheit: {STAT}Raketenangriff, mit dem Grabsteine geschaffen werden können
+
+{FLAVOR}Dr. Zomboss meißelte seinen Sphinxinator aus magisch aufgeladenen Steinen verwunschener Gruften. Diese Art der Wiederverwertung bedeutet aber nicht, dass Zomboss plötzlich unter die Umweltengel gegangen ist. Das einzige, was bei ihm grün ist, ist seine Zunge.
 
 [ZOMBIE_ZOMBOSSMECH_EGYPT_DESCRIPTION_HEADER]
-驾驶沙漠专用高科技座驾的僵尸博士，会使用多种攻击方式。
+Der Pflanzenzerstörer der ägyptischen Antike.
 
 [ZOMBIE_ZOMBOSSMECH_PIRATE]
-海盗僵尸博士
+Zombot-Plankenläufer
 
 [ZOMBIE_ZOMBOSSMECH_PIRATE_DESCRIPTION]
-{FLAVOR}这辆传说中的水陆两用MKII型座驾是僵尸博士最近的心血之作。“它拥有超强的动力和迅捷的速度，更有强大的撞角作为攻坚武器”，博士这么对着围观的僵众们介绍了自己的作品。
+{KEYWORD}Besonderheit: {STAT}Kanone, die Wichte hinter deine Verteidigungslinien schießt
+
+{FLAVOR}„Die Segel gehisst und Schotten dicht! 15 Zombies auf des Totenmanns Kiste, ho! Und ein Eimer voll Hirn!“ Dr. Zomboss musste zugeben, dass ihm dieses Piratending zunehmend gefiel. Auch wenn er niemals gedacht hätte, einmal auf einem Boot auf einem anderen Boot zu landen.
 
 [ZOMBIE_ZOMBOSSMECH_PIRATE_DESCRIPTION_HEADER]
-驾驶海战专用高科技座驾的僵尸博士，会使用多种攻击方式。
+Der pflanzenplündernde Freibeuter der Ozeane.
 
 [ZOMBIE_ZOMBOSSMECH_COWBOY]
-西部僵尸博士
+Zombot-Kriegswagen
 
 [ZOMBIE_ZOMBOSSMECH_COWBOY_DESCRIPTION]
-{FLAVOR}动力动力动力，当博士完成他的新座驾时，动力装置成了一个大难题，信奉大力出奇迹的博士最终选择了一种超乎想象的动力架构——博士语——来推动这具座驾，你看它出场时候的效果就知道了。
+{KEYWORD}Besonderheit: {STAT}Raketenangriffe, die gegen Loren genutzt werden können
+
+{FLAVOR}Nehmt euch in Acht, ihr Farmer und Feldarbeiter. Denn der furchterregende Kriegswagen von Dr. Zomboss kommt die staubige Landstraße herunter gerumpelt, um Gärtnern wie Garten den Garaus zu machen.
 
 [ZOMBIE_ZOMBOSSMECH_COWBOY_DESCRIPTION_HEADER]
-驾驶平原专用高科技座驾的僵尸博士，会使用多种攻击方式。
+Die Wildwest-Postkutsche der Zerstörung.
 
 [ZOMBIE_ZOMBOSSMECH_FUTURE]
-未来僵尸博士
+Zombot-Zukunftstron
 
 [ZOMBIE_ZOMBOSSMECH_FUTURE_DESCRIPTION]
-{KEYWORD}特点： {STAT}以导弹攻击摧毁强化瓷砖。
+{KEYWORD}Besonderheit: {STAT}Raketenangriffe können Power-Felder zerstören
 
-{FLAVOR}当僵尸博士坐在他那未来大脑控制仓的舒服椅子上时，他差点都不想继续再当坏人了。当然，他这想法在看到一大片欢乐的植物之后立刻烟消云散了，他立马回到了自己的角色中——饥饿又邪恶的大反派。
+{FLAVOR}Wenn Dr. Zomboss sich gemütlich in seine futuristische Hirnkontrollkapsel kuschelt, fällt es ihm beinahe schwer, böse zu sein. Aber sobald er eine Wiese voller glücklicher Pflanzen sieht, ist er wieder genau, wie er sein soll: boshaft und hungrig.
 
 [ZOMBIE_ZOMBOSSMECH_FUTURE_DESCRIPTION_HEADER]
-在遥远时空中休假多年的僵尸博士，会使用各类高科技武器。
-
-[ZOMBIE_ZOMBOSSMECH_BEACH]
-沙滩僵尸博士
-
-[ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION]
-{FLAVOR}当僵尸博士的御用工程师小明在弄沉了他用上手指和脚趾都没能数清楚的实验船之后，新一代的僵尸博士专用水用座骑诞生了。它拥有可以在水中漂起来的能力，而且再也不会很快就生锈！虽然它的动力系统老是因为吃进太多水草而熄火，但是博士依然为它取了一个很酷炫的名字——大眼睛号。
-
-[ZOMBIE_ZOMBOSSMECH_BEACH_DESCRIPTION_HEADER]
-驾驶机械鲨鱼的僵尸博士，引领着大群鲨鱼前来。
+Kreation aus der fernen Zukunft, Schrecken eines jeden Power-Feldes.
 
 [ZOMBIE_ZOMBOSSMECH_STEAM]
-蒸汽僵尸博士
+Dr. Zomboss Rauchmaschine
 
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION]
-{FLAVOR}“这里没有红绿灯，对吧？”，僵尸博士站在他心爱的蒸汽火车上指着前方说道。
+{FLAVOR}„Hier gibt es doch keine Ampel, oder?“, fragte Dr. Zomboss, der auf seiner geliebten Dampflok stand und nach vorn zeigte.
 
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION_HEADER]
-来自蒸汽时代的僵尸博士和他的小火车们盛大登场。
+Dr. Zomboss aus der Industriellen Revolution und seine kleinen Züge haben einen großen Auftritt.
 
 [ZOMBIE_ZOMBOSSMECH_HYDRA]
 童话僵尸博士
@@ -11953,10 +11950,10 @@ Diese Pflanze kann nicht auf einer Lore gepflanzt werden.
 兼具科技和幻想的邪恶作品。
 
 [KONGFU]
-功夫世界
+Kongfu Ära
 
 [WORLD_NAME_KONGFU]
-功夫世界
+Kongfu Ära
 
 [WORLD_PREVIEW_DESCRIPTION_KONGFU]
 这是1673年，少林武术大行天下。
@@ -32568,296 +32565,301 @@ Dunkle Herausforderung: Dunkle Armee
 无增益
 [ZEN_GARDEN_WORTH_NO_SPROUTS]
 蜜蜂会拿走你的植物，但它还长得不够大。仍然卖出？
+
 [ZOMBIE_DINO]
-侏罗纪普通僵尸
+Jurassischer Zombie
 
 [ZOMBIE_DINO_ARMOR1]
-侏罗纪路障僵尸
+Jurassischer Pylonenkopf
 
 [ZOMBIE_DINO_ARMOR1_DESCRIPTION]
-侏罗纪路障僵尸想尝试锥形路标的生意。他觉得这在1亿5千万年前绝对会大卖。
+Der Jurassische Pylonen-Zombie will auf jeden Fall der erste sein, wenn in 150 Millionen Jahren der Markt für Verkehrspylonen durch die Decke geht.
 
 [ZOMBIE_DINO_ARMOR1_DESCRIPTION_HEADER]
-锥形路标，或者破旧的角用绳子绑在一起看起来像锥形的东西，都能提供一些保护。
+Pylonen, oder zumindest zu etwas Pylon-ähnlichem zusammengebundene Hörner, bieten mittleren Schutz.
 
 [ZOMBIE_DINO_ARMOR2]
-侏罗纪铁桶僵尸
+Jurassischer Eimerkopf
+
 [ZOMBIE_DINO_ARMOR2_DESCRIPTION]
-真正的问题，让人费解的秘密，是：他从哪儿找到蓝色毛皮来做外衣的？
+Die brennende Frage, das echte Mysterium, ist doch: Wo hat er den blauen Pelz für sein Outfit her?
 
 [ZOMBIE_DINO_ARMOR2_DESCRIPTION_HEADER]
-绘制粗糙的铁桶提供的防护跟真的也差不多。
+Primitive Zeichnungen von Eimern bieten genauso viel Schutz, wie echte Eimer.
 
 [ZOMBIE_DINO_ARMOR3]
-侏罗纪龙骨化石僵尸
+Jurassischer Fossilienkopf
 
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION]
-和他的名字相反的是，侏罗纪龙骨化石僵尸的头并不是化石。那个头骨估计最多只有一周的时间。
+Anders, als der Name vermuten lässt, ist der Fossilienkopf gar nicht aus Fossilien. Der Schädel ist höchstens anderthalb Wochen alt.
 
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION_HEADER]
-化石头骨不仅能提供大量的伤害吸收能力，还看上去非常高贵。 
+Fossilienschädel bieten nicht nur hervorragenden Schutz, sondern sehen auch echt klasse aus.
+
+[ZOMBIE_DINO_ARMOR4]
+Bernsteinkopf-Zombie
+
+[ZOMBIE_DINO_ARMOR4_DESCRIPTION]
+{FLAVOR}Wenn man DNA aus dem Bernsteinkopf-Zombie extrahieren und mit Frosch-DNA verschmelzen würde, wäre das sicherlich irgendwie illegal.
+
+[ZOMBIE_DINO_ARMOR4_DESCRIPTION_HEADER]
+Der Kopf des Bernsteinkopf-Zombies ist von einer Bernsteinkugel umgeben und deshalb besonders geschützt.
 
 [ZOMBIE_DINO_BULLY]
-侏罗纪野人僵尸
+Jurassischer Rüpel
 
 [ZOMBIE_DINO_BULLY_DESCRIPTION]
-侏罗纪野人僵尸很慢，很笨，味道很不好。但是，他们很守时。
+Der jurassische Rüpel ist langsam, dumm und stinkt. Aber zumindest ist er pünktlich.
 
 [ZOMBIE_DINO_BULLY_DESCRIPTION_HEADER]
-一个步履蹒跚，抗伤害能力很强的僵尸，而且免疫击退效果。
+Ein schleppend-langsamer, robuster Zombie, immun gegen die Rückschlag-Fähigkeit der Urzeit-Erbsenkanone.
+
+[ZOMBIE_DINO_BULLY_VETERAN]
+Jura-Felsklopper
+
+[ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION]
+{FLAVOR}Irgendjemand hat dem Jura-Felsklopper Felsbrocken an die Hände gebunden. Er bekommt sie nicht mehr ab (wie auch, mit Felsbrocken an den Händen!) und macht jetzt das Beste draus.
+
+[ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION_HEADER]
+Der Jura-Felsklopper verkloppt Pflanzen mit den Felsbrocken, die an seine Hände gebunden sind.
 
 [ZOMBIE_DINO_DESCRIPTION]
-侏罗纪普通僵尸可并不原始。你瞧，他们穿着领带和其它东西呢！
+Der Jurassische Zombie ist NICHT primitiv. Guck, er trägt eine Krawatte und alles!
 
 [ZOMBIE_DINO_DESCRIPTION_HEADER]
-不知多久以前的长胡子的普通僵尸。
+Ein normaler, bärtiger Zombie aus unvorstellbarer Vorzeit.
 
 [ZOMBIE_DINO_FLAG]
-侏罗纪旗子僵尸
+Jurassischer Flaggen-Zombie
 
 [ZOMBIE_DINO_FLAG_DESCRIPTION]
-他不仅有旗子，还很积极，并且渴望成功。成功与大脑。
+Er hat nicht nur eine Flagge, sondern auch eine Macher-Mentalität und einen extremen Erfolgshunger. Erfolgs- und Hirn-Hunger!
 
 [ZOMBIE_DINO_FLAG_DESCRIPTION_HEADER]
-标志着一大波跨时代僵尸的登场。
+Kündigt die Ankunft einer großen, epochalen Welle hochgradig anachronistischer Zombies an.
+
+[ZOMBIE_DINO_FLAG_VETERAN]
+Jura-Demo-Zombie
+
+[ZOMBIE_DINO_FLAG_VETERAN_DESCRIPTION]
+{FLAVOR}Wo hat der Jura-Demo-Zombie eigentlich seine schicke neue Flagge her? Das weiß niemand. Ein Mysterium. Sollte von der Polizei untersucht werden. Oder wir schmeißen zusammen und heuern einen Detektiv an. Echt geheimnisvoll!
+
+[ZOMBIE_DINO_FLAG_VETERAN_DESCRIPTION_HEADER]
+Der Jura-Demo-Zombie kündigt die Ankunft einer großen Zombiegruppe an.
 
 [ZOMBIE_DINO_GARGANTUAR]
-侏罗纪巨人僵尸
+Jurassischer Gargantua
 
 [ZOMBIE_DINO_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害： {STAT}用骨头粉碎植物
-{KEYWORD}特点： {STAT}受到伤害时发射侏罗纪小鬼僵尸
+{KEYWORD}Schaden: {STAT}Plättet Pflanzen mit einem Knochen
 
-{FLAVOR}侏罗纪巨人僵尸想知道几百万年前，为什么人类都还没出现，就有僵尸了。但这并不影响他粉碎植物。
+{KEYWORD}Besonderheit: {STAT}Wirft den Jurassischen Wicht, wenn er Schaden nimmt
+
+{FLAVOR}Der jurassische Gargantua wundert sich, wie es Zombies geben kann, Jahrmillionen bevor es überhaupt Menschen gibt. Was ihn aber nicht daran hindert, Pflanzen platt zu klopfen.
 
 [ZOMBIE_DINO_GARGANTUAR_DESCRIPTION_HEADER]
-史前的中生代废话提供者。
+Prähistorischer Peiniger mit mesozoischen Muskeln.
 
 [ZOMBIE_DINO_IMP]
-侏罗纪小鬼僵尸
+Jurassischer Wicht
 
 [ZOMBIE_DINO_IMP_DESCRIPTION]
-如果放置不管，这种可恶的小生物一定会破坏你的防线。
+Dieser kleine Fiesling kann ernsthafte Löcher in deine Verteidigung reißen, wenn man ihn lässt.
 
 [ZOMBIE_DINO_IMP_DESCRIPTION_HEADER]
-更弱、更小，但更凶狠的侏罗纪普通僵尸。
+Eine schwächere, kleinere, wesentlich böswilligere Version des typischen Jurassischen Zombies.
+
 [ZOMBIE_EGYPT_IMP]
-小鬼木乃伊僵尸
+Wicht-Mumie
 
 [ZOMBIE_EGYPT_IMP_DESCRIPTION]
-{FLAVOR}小鬼木乃伊僵尸还是喜欢懒懒的躺在墓穴里，跳到管子上，挠挠石棺什么的。他咳嗽出毛球的声音你是永远不会忘记的。
+{FLAVOR}Die Wicht-Mumie hängt gerne am Grab ab, springt über Urnen und kratzt am Sarkophag. Unvergesslich das Geräusch, wenn sie ein Gewölle hochhustet.
 
 [ZOMBIE_EGYPT_IMP_DESCRIPTION_HEADER]
-他们会被抛过大多数防线，然后向前逃窜。
+Wird über die meisten Verteidigungspflanzen geschleudert und schleicht dann weiter.
 
 [ZOMBIE_EIGHTIES]
-摇滚僵尸
+Neon-Zombie
 
 [ZOMBIE_EIGHTIES_8BIT]
-8位僵尸
+8-Bit Zombie
 
 [ZOMBIE_EIGHTIES_8BIT_DESCRIPTION]
-用光和位置坐标制作出来的僵尸仍然对大脑有着无尽的渴望。
+Dass er nur aus Lichtpunkten und Positionskoordinaten besteht, ändert nichts daran, dass dieser Ersatzzombie einen Mordshunger auf Hirn hat.
 
 [ZOMBIE_EIGHTIES_8BIT_DESCRIPTION_HEADER]
-用非常酷的街机制造出来的像素化僵尸有普通，路障以及铁桶口味。
+Ein Pixelzombie, entsprungen aus einem supercoolen Spielautomaten. Gibt es in der normalen, Pylonen- und Eimer-Version.
 
 [ZOMBIE_EIGHTIES_ARCADE]
-街机僵尸
+Arcade-Zombie
+
 [ZOMBIE_EIGHTIES_ARCADE_DESCRIPTION]
-当只有一枚硬币时，街机僵尸会在游戏机和洗衣机之间做出味道不太好的那个选择。
+Das letzte Kleingeld im Wasch- oder im Spielsalon verballern? Für den Arcade-Zombie keine Frage. Man riecht's!
 
 [ZOMBIE_EIGHTIES_ARCADE_DESCRIPTION_HEADER]
-推动街机机器，吐出8位僵尸。
+Schiebt einen Spielautomaten vor sich her, der 8-Bit-Zombies ausspuckt.
 
 [ZOMBIE_EIGHTIES_ARMOR1]
-摇滚路障僵尸
+Neon-Pylonen-Zombie
 
 [ZOMBIE_EIGHTIES_ARMOR1_DESCRIPTION]
-摇滚路障僵尸曾经非常相信退化论，但他后来忘记这个词的意思了。
+Der Neon-Pylonen-Zombie war ein großer Anhänger der Deevolutionstheorie, aber dann hat er vergessen, worum es dabei ging.
 
 [ZOMBIE_EIGHTIES_ARMOR1_DESCRIPTION_HEADER]
-路障会提供保护，还有助于集中听正义的声音。
+Der Pylon bietet Schutz und sorgt für einen Klasse-Sound.
 
 [ZOMBIE_EIGHTIES_ARMOR2]
-摇滚铁桶僵尸
+Neon-Eimer-Zombie
 
 [ZOMBIE_EIGHTIES_ARMOR2_DESCRIPTION]
-摇滚铁桶僵尸要翻遍整座垃圾山才能找到他喜欢的吸汗带。
+Der Neon-Eimer-Zombie hat auf der Müllhalde lange nach einem passenden Kopfband gesucht.
 
 [ZOMBIE_EIGHTIES_ARMOR2_DESCRIPTION_HEADER]
-铁桶会吸收伤害，没有什么为什么。
+Eimer mindern den Schaden. So funktionieren sie nun einmal.
 
 [ZOMBIE_EIGHTIES_BOOMBOX]
-录音机僵尸
+Ghettoblaster-Zombie
 
 [ZOMBIE_EIGHTIES_BOOMBOX_DESCRIPTION]
-{KEYWORD}特点：{STAT} 录音机对魔音甜菜无效
-{FLAVOR}录音机不想购买，出售或加工任何东西，他只想吃掉你的大脑。
+{KEYWORD}Besonderheit: {STAT} Der Ghettoblaster hat keine Auswirkungen auf Bodenpflanzen und Fette Beten
+
+{FLAVOR}Der Ghettoblaster-Zombie will nicht viel vom Leben als Untoter - nur dein Hirn!
 
 [ZOMBIE_EIGHTIES_BOOMBOX_DESCRIPTION_HEADER]
-高举着一台轰鸣着的录音机，用它动人心魄的旋律催眠所有的植物。
+Trägt einen Ghettoblaster, dessen Gedudel die Pflanzen einlullt.
 
 [ZOMBIE_EIGHTIES_BREAKDANCER]
-霹雳舞僵尸
+Breakdance-Zombie
 
 [ZOMBIE_EIGHTIES_BREAKDANCER_DESCRIPTION]
-用最低的消耗做出最新潮的动作。
+Er hat die freshesten Moves zum absoluten Sonderpreis im Angebot.
 
 [ZOMBIE_EIGHTIES_BREAKDANCER_DESCRIPTION_HEADER]
-在说唱力量的影响下能把其他僵尸往前踹。
+Mit der Power des Rap tritt er Pflanzen vor sich her.
 
 [ZOMBIE_EIGHTIES_DESCRIPTION]
-他正在减少用头撞击的次数，以免把头撞没了。
+Er lässt es mit dem Headbanging etwas ruhiger angehen, weil er fürchtet, dass ihm bald der Kopf abfällt.
 
 [ZOMBIE_EIGHTIES_DESCRIPTION_HEADER]
-普通的热爱音乐的摇滚年代僵尸。
+Ein ganz normaler, musikvernarrter Neon-Mixtape-Zombie.
 
 [ZOMBIE_EIGHTIES_FLAG]
-摇滚旗子僵尸
+Neon-Flaggen-Zombie
 
 [ZOMBIE_EIGHTIES_FLAG_DESCRIPTION]
-荧光色彩和黄色塑料彩带是这个时尚新潮、开天辟地的新款僵尸旗帜的特色。
+Phosphoreszierende Farben und kleine gelbe Plastikstreifen – das sind die Kennzeichen der revolutionären neuen Zombie-Flagge.
 
 [ZOMBIE_EIGHTIES_FLAG_DESCRIPTION_HEADER]
-他的出现意味着后面跟着一大“波”各种各样的音乐僵尸。
+Kündigt die Ankunft einer großen, groovigen Zombiewelle an.
 
 [ZOMBIE_EIGHTIES_GARGANTUAR]
-重金属巨人僵尸
+Hair-Metal-Gargantua
 
 [ZOMBIE_EIGHTIES_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害：{STAT}用吉他摧毁植物
-{KEYWORD}伤害：{STAT}播放金属乐的时候发动音波冲击
-{KEYWORD}特点：{STAT}受到伤害时抛出摇滚小鬼僵尸
-{FLAVOR}重金属巨人僵尸只会一种和弦，不过你最好知道他会没日没夜地不停演奏。
+{KEYWORD}Schaden: {STAT}Plättet Pflanzen mit seiner Gitarre
+{KEYWORD}Schaden: {STAT}Sendet einen tödlichen Schall aus, wenn Metal-Musik läuft
+{KEYWORD}Besonderheit: {STAT}Wirft mit Punk-Wichten, wenn er Schaden nimmt
+
+{FLAVOR}Der Hair-Metal-Gargantua kennt nur einen Akkord. Aber den spielt er die ganze Nacht ... oder noch länger.
 
 [ZOMBIE_EIGHTIES_GARGANTUAR_DESCRIPTION_HEADER]
-以毁灭性的强力摇滚主宰全场的巨兽。
+Ein ungeheuerliches „Monster of Rock“.
 
 [ZOMBIE_EIGHTIES_GLITTER]
-闪动僵尸
+Glitter-Zombie
 
 [ZOMBIE_EIGHTIES_GLITTER_DESCRIPTION]
-滑冰僵尸激励着各处的僵尸都把他们的脑子摇出来，也不管那还能不能找回来，至少在灯光亮起之前，他们都会混作一团。 
+Der Glitter-Zombie bringt andere Zombies dazu, Boogie zu tanzen, bis die Bude wackelt – oder zumindest, bis das Licht angeht und die Rausschmeißer den Laden räumen.
 
 [ZOMBIE_EIGHTIES_GLITTER_DESCRIPTION_HEADER]
-拖着迷人的彩色光带入场，在她感受节奏的时候，她会保护她身后的僵尸。
+Wenn ihr Beat läuft, zieht sie eine fantastische Regenbogen-Spur hinter sich her, die andere Zombies schützen kann.
 
 [ZOMBIE_EIGHTIES_IMP]
-摇滚小鬼僵尸
+Punk-Wicht
 
 [ZOMBIE_EIGHTIES_IMP_DESCRIPTION]
-摇滚小鬼僵尸所做的抒情诗都非常“平庸”，“语无伦次”，“完全是摇滚僵尸的最佳表现”。
+Kritiker sind sich uneins, ob die Texte des Punk-Wichts „banal“, „konfus“ oder „der künstlerische Gipfel der Zompunk-Bewegung“ sind.
 
 [ZOMBIE_EIGHTIES_IMP_DESCRIPTION_HEADER]
-会被抛到你的大多数防御工事之后，然后用疯狂的摇滚伤害你。
+Wird hinter die meisten deiner Verteidigungslinien geschleudert und rockt dort ab, bis deine Ohren bluten.
 
 [ZOMBIE_EIGHTIES_MC]
-说唱僵尸
+MC Zom-B
 
 [ZOMBIE_EIGHTIES_MC_DESCRIPTION]
-说唱僵尸并不想让你知道这件事，但他的华丽首饰其实只是从奶奶那里继承下来的镀金锌制品。
+Natürlich soll es keiner wissen. Aber das ganze Bling-Bling von MC Zom-B ist eigentlich nur vergoldeter Blechschmuck von seiner Oma.
 
 [ZOMBIE_EIGHTIES_MC_DESCRIPTION_HEADER]
-一边唱着他那恶心的低音，一边旋转麦克风伤害周围的植物。
+Er zieht Pflanzen in der Nähe eins mit dem Mikro über – und lässt wirklich kranke, verstörende Reime vom Stapel.
 
 [ZOMBIE_EIGHTIES_PUNK]
-朋克僵尸
+Punk-Zombie
 
 [ZOMBIE_EIGHTIES_PUNK_DESCRIPTION]
-{KEYWORD}弱点： {STAT}磁力菇可以吸走他的脑袋。
+{KEYWORD}Schwäche: {STAT}Magnetpilze reißen ihm den Kopf ab
 
-{FLAVOR}朋克僵尸的穿刺饰品代表了他的个体独立性和他对个人自由的信仰。当然也有可能只是因为他脸先着地掉进了缝纫机里。
+{FLAVOR}Die vielen Piercings unterstreichen die Persönlichkeit des Punk-Zombies – und seinen Glauben an die individuelle Freiheit. Das, oder er ist einfach mit dem Gesicht in eine Nähmaschine gelaufen.
 
 [ZOMBIE_EIGHTIES_PUNK_DESCRIPTION_HEADER]
-演奏他那乱七八糟的音乐时会把植物逼退一格。
+Wenn seine Musik läuft, tanzt er Pogo und schubst Pflanzen ein Feld zurück.
+
 [ZOMBIE_MODERN_ALLSTAR]
-全明星僵尸
+All-Star-Zombie
 
 [ZOMBIE_MODERN_ALLSTAR_DESCRIPTION]
-全明星僵尸是一位第三轮获选新秀，实力非常可靠。但是，拜托，他这薪水要求也太离谱了吧？年薪一千万个脑子？长达50年？
-
+Der All-Star-Zombie zeigt eine Menge Potenzial und wird von mehreren Mannschaften umworben. Doch seine Gehaltsvorstellungen sind astronomisch. Zehn Millionen Hirne pro Jahr? FÜNFZIG JAHRE LANG?
 
 [ZOMBIE_MODERN_ALLSTAR_DESCRIPTION_HEADER]
-一位全副武装冲击你的防线的僵尸。
+Ein schwerer Zombie, der sich in deine Verteidigungslinie stürzt.
 
 [ZOMBIE_MODERN_BALLOON]
-气球僵尸
+Ballon-Zombie 
 
 [ZOMBIE_MODERN_BALLOON_DESCRIPTION]
-气球僵尸自己都不知道这气球是哪儿来的，但他现在随着气球一起飞翔，并且可以看到下面的情形。
+Der Zombie hat keine Ahnung, wo der Ballon herkam. Aber er lässt sich jetzt einfach mal mit ihm treiben und ist für alles offen.
 
 [ZOMBIE_MODERN_BALLOON_DESCRIPTION_HEADER]
-气球会带着僵尸越过障碍及地面防御物。
+Der Ballon trägt Zombies über Hindernisse und Verteidigungen am Boden.
 
 [ZOMBIE_MODERN_NEWSPAPER]
-报纸僵尸
+Zeitung-Zombie
 
 [ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION]
-你真不能怪他那么沮丧。他就差那么一点点就能完成那个填字游戏了（23号纵行是“BRAINS”）
+Man kann schon verstehen, dass er sauer ist. Er war SO kurz davor, das Kreuzworträtsel zu lösen (23 senkrecht war „Hirn“).
 
 [ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION_HEADER]
-报纸能保护僵尸，而报纸被击毁后僵尸会暴怒。
+Die Zeitung schützt den Zombie. Wenn sie zerstört wird, wird er wütend.
 
 [ZOMBIE_MODERN_SUPERFANIMP]
-粉丝小鬼僵尸
+Superfan-Wicht
 
 [ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION]
-粉丝小鬼僵尸买了季票，订阅了队刊，而且他非常热衷于看到对方球队的球迷就冲上去爆炸一下。
+Der Superfan-Wicht hat Saisonkarten, den Mannschafts-Newsletter abonniert, und wenn er auf Fans des gegnerischen Teams stößt, explodiert er!
 
 [ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION_HEADER]
-一个太过狂热的小鬼，啦啦啦的狂热激情会让它爆炸。
-[ZOMBIE_TUTORIAL_GARGANTUAR]
-巨人僵尸
+Ein etwas zu enthusiastischer Wicht, der vor Feuereifer schnell explodiert.
 
-[ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害： {STAT}用电线杆砸碎植物
-{KEYWORD}特点： {STAT}受到伤害后扔出小鬼僵尸
-
-{FLAVOR}巨人僵尸毫无疑问是力量的化身。他是一架饥饿的推土机，在他面前你无路可逃。他就是挣脱束缚的恐惧。好吧，他的恐惧有一点被束缚了。
-
-[ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION_HEADER]
-巨人僵尸的确是个大麻烦。
-
-[ZOMBIE_TUTORIAL_IMP]
-小鬼僵尸
-
-[ZOMBIE_TUTORIAL_IMP_DESCRIPTION]
-{FLAVOR}他的恶劣态度（以它自己的话来说，“僵尸态度”）足以弥补他攻击距离的不足。别刺激他。
-
-[ZOMBIE_TUTORIAL_IMP_DESCRIPTION_HEADER]
-会被扔到你的防线之后，然后继续缓步推进。
-
-[ZOMBIE_VASE_GARGANTUAR]
-花瓶巨人僵尸
-
-[ZOMBIE_VASE_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害： {STAT}用电线杆砸碎植物
-{KEYWORD}特点： {STAT}受到伤害后扔出小鬼僵尸
-
-{FLAVOR}困住花瓶巨人僵尸的陶瓷在他的无尽饥饿、无穷力量，以及强大的花瓶摧毁能力面前毫无用处。不过，他其实可以走的更快些的。
-
-[ZOMBIE_VASE_GARGANTUAR_DESCRIPTION_HEADER]
-体型巨大的僵尸，却被困在了一个小小的无生命的空间里。
 [ZOMBIE_ZOMBOSSMECH_DINO]
-恐龙机械僵尸
+Zombot-Dinotronik-Mechosaurus
 
 [ZOMBIE_ZOMBOSSMECH_DINO_DESCRIPTION]
-{KEYWORD}特点： {STAT}召唤恐龙
+{KEYWORD}Besonderheit: {STAT}Beschwört Dinosaurier
 
-{FLAVOR}出于对时空完整性和简约品位的公然漠视，僵尸博士认为造一台巨型机械恐龙会是个很好的主意。
+{FLAVOR}Dr. Zomboss hat wirklich keine Manieren und keinen Stil, wenn es darum geht, wie man in anderen Zeitaltern auftritt. Da verwundert es nicht, dass er jetzt mit einem riesigen Metall-Dino aufkreuzt.
 
 [ZOMBIE_ZOMBOSSMECH_DINO_DESCRIPTION_HEADER]
-机械化的恐龙破坏力。
+Ein mechanisches Monstrum von dinosaurischer Destruktivität.
+
 [ZOMBIE_ZOMBOSSMECH_EIGHTIES]
-摇滚僵尸博士
+Zombot-Rampensau
 
 [ZOMBIE_ZOMBOSSMECH_EIGHTIES_DESCRIPTION]
-{KEYWORD}特点：{STAT}扬声器造成波动伤害（地面植物和魔音甜菜除外），并发动冲击波攻击
-{FLAVOR}在另一个世界，另一个时间里，僵尸博士会得到热烈的掌声，不过在这儿可不行，想都别想。
+{KEYWORD}Besonderheit: {STAT}Die Lautsprecher verursachen Passiv-Schaden (außer gegen Bodenpflanzen und Fette Beten) und senden Schockwellen aus.
+
+{FLAVOR}In einer anderen Welt, in einer anderen Zeit würde Dr. Zomboss den frenetischen Applaus bekommen, den er verdient - aber nicht hier und jetzt. Nee!
 
 [ZOMBIE_ZOMBOSSMECH_EIGHTIES_DESCRIPTION_HEADER]
-一个与僵尸博士最新的也是最痛苦的探索成果亲密接触的夜晚。
+Ein intimer Abend mit Dr. Zomboss – und ein Einblick in dessen kranke Gedankenwelt.
 
 [PHATBEET_PRODUCT_SHORT_DESC]
 魔音甜菜能够发出音波，对周围的僵尸造成伤害。
@@ -33166,15 +33168,15 @@ Artefakte
 潘妮小店
 
 [ZOMBIE_EIGHTIES_BASS]
-贝斯手僵尸
+Bassist-Zombie
 
 [ZOMBIE_EIGHTIES_BASS_DESCRIPTION_HEADER]
-踏着巨大的音箱从天而降，顺带压扁你的植物。
+Fällt auf einem riesigen Lautsprecher vom Himmel und zerquetscht dabei deine Pflanzen.
 
 [ZOMBIE_EIGHTIES_BASS_DESCRIPTION]
-{KEYWORD}特点： {STAT} 疯狂弹奏贝斯，发射致命音波，但会被喇叭花反射。
+{KEYWORD}Features: {STAT} Spielt wie verrückt Bass und sendet tödliche Schallwellen aus, die von Prunkwinden reflektiert werden.
 
-{FLAVOR}你无法阻止用生命去弹奏的贝斯手僵尸，直到他的音箱被破坏。对了，贝斯手僵尸最喜欢说的一句话就是“不服中单sala！”
+{FLAVOR}Du kannst den Bass-Zombie nicht davon abhalten, mit seinem Leben zu spielen.
 
 [DAILYSIGN_TW4399_TITLE]
 4399签到礼包
