@@ -2091,7 +2091,7 @@ Zombies haben deine Pflanzen gefressen!
 Du hast Dave versehentlich dreimal getroffen!
 
 [FUTURE]
-Zukunftswelt
+Ferne Zukunft
 
 [FUTURE_LAST]
 Zukunftswelt – Letzte Herausforderung
@@ -2106,7 +2106,7 @@ Zukunftsherausforderung 3 – {LEVEL_NUMBER}
 Zukunftsherausforderung 2 – {LEVEL_NUMBER}
 
 [FUTURE_LEVEL_NAME]
-Zukunftswelt – Tag {LEVEL_NUMBER}
+Die Ferne Zukunft – Tag {LEVEL_NUMBER}
 
 [BIRTHDAYZ_LEVEL_NAME]
 Battle of Ingots
@@ -2124,10 +2124,10 @@ Spiel vorbei
 Spiel pausiert
 
 [GATE_COST]
-你需要
+Du benötigst
 
 [GATE_CURRENT_BALANCE]
-{NUM_COST}来解锁！
+{NUM_COST} Sterne zum Freischalten!
 
 [GO_TO_EVENT]
 Zum Ereignis gehen
@@ -2157,13 +2157,9 @@ Du hast eine Verbesserung erhalten！
 把它种植在墓碑上，它就能咬掉墓碑。
 
 [HARDWARE_ACCELERATION_NOT_SUPPORTED]
-此电脑无法使用硬件加速。
+Hardwarebeschleunigung ist auf diesem Computer nicht verfügbar.
 
-你的显示卡无法
-满足此游戏的最
-低硬件需求。
-
-
+Ihre Grafikkarte erfüllt nicht die Mindestanforderungen für dieses Spiel.
 
 [HIDE_LAWN]
 Rasen verstecken
@@ -2207,12 +2203,9 @@ Rasen verstecken
 允许携带两张相同的植物卡片。
 
 [INVALID_WINDOWS_MODE]
-只有当你的桌面在16位或32位色模
-式下运行，窗口模式才是有效的。
+Der Fenstermodus ist nur verfügbar, wenn Ihr Desktop im 16-Bit- oder 32-Bit-Farbmodus läuft.
 
-
-
-如果你想要在窗口模式中运行游戏，那么你就要先退出游戏，将桌面转换为16位或32位色模式。
+Um das Spiel im Fenstermodus auszuführen, müssen Sie es beenden und den Desktop in den 16-Bit- oder 32-Bit-Farbmodus umschalten.
 
 [JALAPENO]
 火爆辣椒
@@ -2232,10 +2225,10 @@ Rasen verstecken
 烧光一整行的僵尸。
 
 [JUMP_TO_COLLECTIONS_VIEW]
-跳至宝物界面
+Zum Schatz-Interface springen
 
 [JUMP_TO_MACHINE_VIEW]
-跳至道具界面
+Zum Gegenstand-Interface springen
 
 [KERNELPULT]
 玉米投手
@@ -2256,13 +2249,13 @@ Rasen verstecken
 向僵尸投掷玉米粒和黄油块。
 
 [KEY_GATE]
-钥匙之门
+Schlüsseltor
 
 [KEYGATE_CHALLENGE_REWARD_DESC]
-完成该分支路线，可以获得珍贵道具!
+Schließe diese Abzweigroute ab, um einen wertvollen Gegenstand zu erhalten!
 
 [KEYGATE_CHALLENGE_REWARD_DESC_SINGLE]
-完成该分支路线，可以获得珍贵道具!
+Schließe diese Abzweigroute ab, um einen wertvollen Gegenstand zu erhalten!
 
 [KEYS]
 Schlüssel
@@ -2271,22 +2264,25 @@ Schlüssel
 Verlassen
 
 [LEAVE_DANGER_ROOM_GAME]
-你想回到世界地图吗？这样会失去当前关卡进度，你需要重新开始本关。
+Möchtest du zur Weltkarte zurückkehren? Dadurch verlierst du deinen Fortschritt im aktuellen Level und musst das Level neu starten.
 
 [LEAVE_DANGER_ROOM_GAME_HEADER]
-放弃挑战？
+Herausforderung abbrechen?
 
 [LEAVE_GAME_BODY]
-你确定要退出这一关卡吗？
-这样做将丢失当前关卡的进度。
+Möchtest du dieses Level wirklich beenden?
+
+Dadurch verlierst du deinen Fortschritt im aktuellen Level.
 
 [LEAVE_WORLDCUP_GAME_BODY]
-是否确认放弃比赛？
-放弃后门票将被消耗，并重新从第一关开始。
+Möchtest du das Spiel wirklich beenden?
+
+Wenn du das Level verlässt, wird dein Ticket verbraucht und du musst das erste Level neu starten.
 
 [LEAVE_GAME_BODY_ARENAEDIT]
-你确定要退出这一关卡吗？
-若退出关卡，布置的植物不会被保存。
+Möchtest du dieses Level wirklich beenden?
+
+Wenn du das Level verlässt, werden die platzierten Pflanzen nicht gespeichert.
 
 [LEAVE_GAME_BUTTON]
 Verlassen
@@ -2298,16 +2294,16 @@ Möchtest du das Spiel verlassen？
 Los Geht's!
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_HP]
-生命
+Gesundheit
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_ATTACK]
-攻击
+Angriff
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_INVISIBLE]
-隐身
+Unsichtbarkeit
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_SPEED_UP]
-加速
+Beschleunigung
 
 [START_GAME_BUTTON]
 Spielen
@@ -2337,34 +2333,34 @@ Blitzschilf
 Lädt…
 
 [LOCAL_PUSH_YETI_EVENT]
-宝藏雪人的餐盒里到底藏着什么秘密？打败它一探究竟。
+Welche Geheimnisse verbergen sich in der Lunchbox des Schatz-Yetis? Besiege ihn und finde es heraus.
 
 [LOCALE]
-Chinese_China
+Chinesisch_China
 
 [LOW_DISK_SPACE_WARNING]
-你的设备上存储容量太低。进度无法保存。
+Dein Gerät hat nicht mehr genügend Speicherplatz. Dein Fortschritt kann nicht gespeichert werden.
 
 [MAINMENU_CLICK_TO_ADD_PLAYER]
-<点击添加玩家>
+<Klicke hier, um einen Spieler hinzuzufügen>
 
 [MAINMENU_DELETE_PROFILE]
 Profil löschen
 
 [MAINMENU_DELETE_PROFILE_BODY]
-如果“删除”这个存档，你将失去该存档的所有游戏数据，包括你已经购买的道具。
+Wenn du diesen Spielstand löschst, verlierst du alle Spieldaten, einschließlich der gekauften Gegenstände.
 
 [MAINMENU_DELETE_PROFILE_HEADER]
-你确定吗？
+Bist du sicher?
 
 [MAINMENU_EDIT_PLAYER]
-编辑玩家
+Spieler bearbeiten
 
 [MAINMENU_EDIT_PROFILE]
 Profil bearbeiten
 
 [MAINMENU_FACEBOOK_LOGIN]
-联系好友？
+Freunde kontaktieren?
 
 [MAINMENU_KEEP_PROFILE]
 Profil Behalten
@@ -2588,58 +2584,58 @@ Kontobindung erfolgreich
 Menü
 
 [MINECART_TUTORIAL_1]
-可以沿轨道拖动采矿车
+Du kannst eine Lore entlang der Gleise ziehen.
 
 [MINECART_TUTORIAL_2]
-做得好！可在空的采矿车上种植任何植物
+Gut gemacht! Du kannst jede Pflanze auf einer leeren Lore pflanzen.
 
 [MULTIPLE_CHALLENGE_CONNECTOR]
-{CHALLENGE_ONE} ^C8C8C8 和 ^oldclr {CHALLENGE_TWO}
+{CHALLENGE_ONE} ^C8C8C8 und ^oldclr {CHALLENGE_TWO}
 
 [NAME_CONFLICT]
-此用户名已存在
+Dieser Benutzername existiert bereits.
 
 [NARRATIVE_TUTORIAL_DAILY_REWARD_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}看呐，这是给你的签到日历，每天过来标记一下就有丰厚奖励噢。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hier ist dein Anmeldekalender. Markiere ihn jeden Tag, um eine großzügige Belohnung zu erhalten.
 
 [NARRATIVE_TUTORIAL_DAILY_REWARD_2]
-{SAY:CRAZYDAVE}噢，对了！看下福利里面，潘妮给你写了一份七天指南，完成这份指南会有奖励的！
+{SAY:CRAZYDAVE}Ach ja, übrigens! Schau dir die Vorteile an. Penny hat einen 7-Tage-Leitfaden für dich geschrieben. Du erhältst eine Belohnung, wenn du ihn abschließt!
 
 [NARRATIVE_TUTORIAL_DAILY_REWARD_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_STAR_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}你通过击败僵尸已经收集了足够的星星了！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Du hast genug Sterne gesammelt, indem du Zombies besiegt hast!
 
 [NARRATIVE_TUTORIAL_STAR_INTRO_2]
-{SAY:CRAZYDAVE}打开星星兑换看看吧，里面有你现在需要的东西！
+{SAY:CRAZYDAVE}Öffne den Sternentausch und schau, was du jetzt brauchst!
 
 [NARRATIVE_TUTORIAL_STAR_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_STAR1_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}在这里面有许多丰富的奖励，需要你通关收集足够的星星去兑换噢！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Es gibt viele tolle Belohnungen darin. Du musst genug Sterne sammeln, um sie einzutauschen!
 
 [NARRATIVE_TUTORIAL_STAR1_INTRO_2]
-{SAY:CRAZYDAVE}现在领取你的奖励，继续前进吧！
+{SAY:CRAZYDAVE}Los und hol dir deine Belohnung!
 
 [NARRATIVE_TUTORIAL_STAR1_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_GACHA_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}后面的僵尸越来越强了，我想你需要一些支援。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Die Zombies dahinter werden immer stärker. Ich glaube, du brauchst Hilfe.
 
 [NARRATIVE_TUTORIAL_GACHA_INTRO_2]
-{SAY:CRAZYDAVE}打开这些宝物看看，或许当中会有能帮上你的植物！
+{SAY:CRAZYDAVE}Öffne diese Schätze und schau, ob es Pflanzen gibt, die dir helfen können!
 
 [NARRATIVE_TUTORIAL_GACHA_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_GACHA_AVATAR_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}啊哈！见识到那些植物的厉害了吗？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ahaha! Hast du gesehen, wie mächtig diese Pflanzen sind?
 
 [NARRATIVE_TUTORIAL_GACHA_AVATAR_INTRO_2]
-{SAY:CRAZYDAVE}他们还能有更厉害的表现，试着给找件装扮看看吧。
+{SAY:CRAZYDAVE}Sie können sogar noch mächtiger sein. Versuch, ein Kostüm für sie zu finden.
 
 [NARRATIVE_TUTORIAL_GACHA_AVATAR_INTRO_3]
 {NPC_EXIT:crazydave}
@@ -2829,58 +2825,58 @@ Menü
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [ADVICE_EGYPT1_HARD_LEVEL]
-解锁了困难关卡！
+Schwieriges Level freigeschaltet!
 
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}嘿！我们准备了一些好东西，只要付出一点代价就有丰厚的回报噢~
+{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Hey! Wir haben ein paar tolle Sachen vorbereitet. Zahlt einfach ein bisschen und ihr bekommt eine tolle Belohnung.
 
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_2]
 {NPC_EXIT:crazydave}
 
 [ADVICE_FIRST_RECHARGE]
-现在有首充礼包可以提升！
+Jetzt gibt es ein Geschenkpaket für die erste Ladung zum Upgraden!
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{PLAYFUL:crazydave}这里居然有骷髅标志！一定很危险！
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hier ist ein Totenkopfschild! Das muss gefährlich sein!
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA_INTRO_2]
-{SAY:WINNIE}或许我们该提升一下我们植物的阶数，以应对更强大的僵尸。
+{SAY:WINNIE}Vielleicht sollten wir den Rang unserer Pflanzen verbessern, um mit stärkeren Zombies fertig zu werden.
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA_INTRO_3]
-{SAY:CRAZYDAVE}那我们等什么呢？快来试试！
+{SAY:CRAZYDAVE}Worauf warten wir noch? Kommt vorbei und probiert es aus!
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA_INTRO_4]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}来试试打开传奇宝物的看看吧！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Kommt vorbei und versucht, den legendären Schatz zu öffnen!
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA1_INTRO_2]
-{SAY:WINNIE}我们之前存下的资源可够你一次十连了。
+{SAY:WINNIE}Die zuvor gesparten Ressourcen reichen für eine Zehnerziehung.
 
 [NARRATIVE_TUTORIAL_LEGEND_GACHA1_INTRO_3]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [GACHA_INTRO_3_FREE_GOT]
-免费十连抽
+Kostenlose Zehnerziehung
 
 [NARRATIVE_TUTORIAL_LEVEL_UP_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}现在有足够的植物碎片去升级你的仙人掌了！
+{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Jetzt hast du genug Pflanzenfragmente, um deinen Kaktus zu verbessern!
 
 [NARRATIVE_TUTORIAL_LEVEL_UP_INTRO_2]
 {NPC_EXIT:crazydave}
 
 [ADVICE_PLANT_LEVEL_UP]
-请进行植物进阶！
+Bitte verbessere deine Pflanzen!
 
 [ADVICE_PLANT_LEVEL_UP_END]
-完成植物进阶！
+Schließe den Pflanzen-Level-Up ab!
 
 [ADVICE_EGYPT6]
-解锁了下一关！
+Nächstes Level freigeschaltet!
 
 [ADVICE_EGYPT8]
-解锁了下一关！
+Nächstes Level freigeschaltet!
 
 [ADVICE_CHALLENGE]
 Tägliche Herausforderungen freigeschaltet! Schließe Herausforderungen ab, um Pflanzenfragmente zu erhalten.
@@ -3030,268 +3026,266 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:crazydave}{PLAYFUL}{LONG}这样看来，一套管子就足够玩转时空了，就像我叔叔麦洛的水上乐园！
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_A_1]
-{NPC_ENTER:winnie}{SAY}一大波僵尸要和我们决战。
+{NPC_ENTER:winnie}{SAGEN}Eine große Zombiewelle kommt, um uns zu bekämpfen.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_A_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}来的正好，让我们大战三回合吧！
+{NPC_ENTER:crazydave}{AUFGEWICKELT:crazydave}Du kommst gerade rechtzeitig, lass uns drei Runden kämpfen!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_B_1]
-{NPC_ENTER:crazydave}{SAY}我要去吃一整桶炸鸡！速度出发！
+{NPC_ENTER:crazydave}{SAGEN}Ich werde einen ganzen Eimer Hähnchen verdrücken! Los geht's!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_B_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}数据显示，戴夫已经把玉米卷遗忘了。
-
+{NPC_ENTER:winnie}{VERSPIELT:winnie}Die Daten zeigen, dass Dave die Tacos vergessen hat.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_C_1]
-{NPC_ENTER:winnie}{PLAYFUL}{START_DIALOG_MUSIC}干得漂亮，刚才真是一场恶战。
+{NPC_ENTER:winnie}{PLAYFUL}{START_DIALOG_MUSIC} Gut gemacht, es war ein harter Kampf.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_C_2]
-{NPC_ENTER:crazydave}{SAY:crazydave}是阿，你是怎么在那么多牛当中活下来的？
+{NPC_ENTER:crazydave}{SAY:crazydave}Ja, wie hast du zwischen all den Kühen überlebt?
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_A_1]
-{NPC_ENTER:crazydave}{SAY}回旋镖耍起来！芦苇的闪电亮起来！
+{NPC_ENTER:crazydave}{SAY}Bumerangs! Blitz des Schilfs!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_A_2]
-{EXCITED:crazydave}是时候亮出底牌了！
+{EXCITED:crazydave}Zeit, deine Karten auf den Tisch zu legen!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_1]
-{NPC_ENTER:winnie}{EXCITED}这也太多矿车了。
+{NPC_ENTER:winnie}{AUFGEFROREN}Das sind zu viele Loren.
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}他们数量越来越多了！
+{NPC_ENTER:crazydave}{AUFGEFROREN:crazydave}Es werden immer mehr!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_3]
-{PLAYFUL:crazydave}我不知道矿车原来还能做算术呢！
+{PLAYFUL:crazydave}Ich wusste gar nicht, dass Loren rechnen können!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_1]
-{NPC_ENTER:crazydave}{SAY}{START_DIALOG_MUSIC}我爷爷的爷爷曾是这一片的执法官。
+{NPC_ENTER:crazydave}{SAGEN}{START_DIALOG_MUSIC}Der Großvater meines Großvaters war hier der Ordnungshüter.
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_2]
-{NPC_ENTER:winnie}{EXCITED:winnie}那边那个人是他吗？
+{NPC_ENTER:winnie}{EXCITED:winnie}Ist er das da drüben?
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_3]
-{EXCITED:crazydave}哪儿？
+{EXCITED:crazydave}Wo?
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_4]
-{PLAYFUL:winnie}自己看。
+{PLAYFUL:winnie}Sieh selbst.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_A_1]
-{NPC_ENTER:crazydave}{EXCITED}你知道为什么我姓疯狂吗？
+{NPC_ENTER:crazydave}{EXCITED}Weißt du, warum mein Nachname Crazy ist?
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_A_2]
-{TIRED:crazydave}当然因为我很疯狂，比如说…
+{TIRED:crazydave}Natürlich bin ich verrückt, so wie ...
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_A_3]
-{SAY:crazydave}在矿车上种植物，
+{SAY:crazydave}Pflanzen auf einer Lore anbauen,
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_A_4]
-{PLAYFUL}就像你现在要做的事情一样…
+{PLAYFUL}Genau wie das, was du gleich tun wirst ...
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_B_1]
-{SAY:crazydave}他们包抄过来，志在夺脑！
+{SAY:crazydave}Sie wollen das Gehirn!
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_B_2]
-{NPC_ENTER:winnie}{TIRED:winnie}噢~不，他又在唱歌了。
+{NPC_ENTER:winnie}{TIRED:winnie}Oh nein, er singt schon wieder.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_1]
-{NPC_ENTER:winnie}{SAY}{START_DIALOG_MUSIC}我真不敢相信竟然有这么多鸡。
+{NPC_ENTER:winnie}{SAGEN}{START_DIALOG_MUSIC}Ich kann nicht glauben, wie viele Hühner es gibt.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}我为这些鸡哀悼！
+{NPC_ENTER:crazydave}{AUFGEWUNDEN:crazydave}Ich trauere um diese Hühner!
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_3]
-{SAY:winnie}历史会记得今天的。
+{SAGEN:winnie}Die Geschichte wird sich an diesen Tag erinnern.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_1]
-{NPC_ENTER:winnie}{SAY}这棵坚果即将面对一大波牛仔僵尸。
+{NPC_ENTER:winnie}{SAGEN}Dieser Verrückte muss sich einer Welle von Cowboy-Zombies stellen.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}一定要保住那棵坚果，我还要拿它当保龄球玩呢！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wir müssen diese Nuss retten. Ich will sie als Bowlingkugel benutzen!
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_3]
-{TIRED:winnie}那就得确保它不能被僵尸给吃了。
+{TIRED:winnie}Wir müssen dafür sorgen, dass sie nicht von Zombies gefressen wird.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_B_1]
-{NPC_ENTER:crazydave}{EXCITED}远处传来的是什么声音？
+{NPC_ENTER:crazydave}{EXCITED}Was ist das für ein Geräusch aus der Ferne?
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_B_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}是时空混乱发出的噪声。
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Es ist der Lärm des Chaos von Zeit und Raum.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_B_3]
-{SAY:crazydave}听起来像是钢琴演奏！
+{SAY:crazydave}Das klingt wie ein Klavierkonzert!
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_C_1]
-{NPC_ENTER:winnie}{EXCITED}{START_DIALOG_MUSIC}干得漂亮。
+{NPC_ENTER:winnie}{EXCITED}{START_DIALOG_MUSIC}Super gemacht.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_C_2]
-{NPC_ENTER:crazydave}{SAY:crazydave}你已经是西部第一猎手了！
+{NPC_ENTER:crazydave}{SAY:crazydave}Du bist jetzt der beste Jäger im Westen!
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_C_3]
-{EXCITED:crazydave}现在我们能去找金矿了吗？
+{EXCITED:crazydave}Können wir jetzt die Goldmine suchen?
 
 [NARRATIVE_COWBOY_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:winnie}{SAY}六发豌豆：
-上膛完毕
+{NPC_ENTER:winnie}{SAY}Six Peas:
+Geladen
 
 [NARRATIVE_COWBOY_INTRO_FIRSTLEVEL_2]
-{SAY}怀旧钢琴曲：
-下载完毕
+{SAY}Nostalgisches Klavier:
+Heruntergeladen
 
 [NARRATIVE_COWBOY_INTRO_FIRSTLEVEL_3]
-{SAY}获得玉米卷的概率：
-0.015%
+{SAY}Wahrscheinlichkeit, einen Taco zu bekommen:
+0,015 %
 
 [NARRATIVE_COWBOY_INTRO_FIRSTLEVEL_4]
-{TIRED}出错率：
-0.016%
+{TIRED}Fehlerrate:
+0,016 %
 
 [NARRATIVE_COWBOY_INTRO_LEVEL7_1]
-{NPC_ENTER:winnie}{SAY}我的监测器显示当地的牛都已经变成了僵尸。
+{NPC_ENTER:winnie}{SAY}Mein Monitor zeigt, dass sich die Kühe in Zombies verwandelt haben.
 
 [NARRATIVE_COWBOY_INTRO_LEVEL7_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}那这里的牛肉还能吃吗？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ist das Rindfleisch hier noch essbar?
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_1]
-{NPC_ENTER:winnie}{SAY:winnie}{START_DIALOG_MUSIC}戴夫，让我们向下一站出发！
+{NPC_ENTER:winnie}{SAY:winnie}{START_DIALOG_MUSIC}Dave, lass uns zum nächsten Halt gehen!
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_2]
-{NPC_ENTER:crazydave}{SPECIAL14}向着疯狂的夕阳奔跑吧！
+{NPC_ENTER:crazydave}{SPECIAL14}Lauf dem verrückten Sonnenuntergang entgegen!
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_3]
-{EXCITED:winnie}你认为下一次时空混乱会把我们带到哪里？
+{EXCITED:winnie}Wohin wird uns wohl das nächste Raum-Zeit-Chaos führen?
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_4]
-{SAY:winnie}我们能找到你的玉米卷吗？
+{SAY:winnie}Können wir deinen Taco finden?
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_5]
-{TIRED:winnie}还是你已经完全把它给忘了？
+{TIRED:winnie}Oder hast du ihn völlig vergessen?
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_6]
-{SAY:crazydave}{SPECIAL15}玉米卷一定会找到的，
+{SAY:crazydave}{SPECIAL15}Wir finden den Taco.
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_7]
-{SPECIAL16:crazydave}每个人心中都有一个玉米卷。
+{SPECIAL16:crazydave}Jeder hat einen Taco im Herzen.
 
 [NARRATIVE_COWBOY_WORLDMAP_INTRO_1]
-{NPC_ENTER:crazydaveicon}{SAY}坐上牛车，前往西部淘金！
+{NPC_ENTER:crazydaveicon}{SAY}Schlag den Ochsenkarren und fahre Richtung Westen zum Goldrausch!
 
 [NARRATIVE_COWBOY_WORLDMAP_INTRO_2]
-{SAY}带上植物，防备僵尸！
+{SAY}Bringt Pflanzen mit und nehmt euch vor Zombies in Acht!
 
 [NARRATIVE_COWBOY_WORLDMAP_INTRO_3]
-{EXCITED}金矿，我们来了！
+{EXCITED}Goldmine, wir kommen!
 
 [NARRATIVE_COWBOY_WORLDMAP_INTRO_4]
-{PLAYFUL}潘妮，你定位到西部最大的金矿了吗?
+{PLAYFUL}Penny, hast du die größte Goldmine des Westens gefunden?
 
 [NARRATIVE_COWBOY_WORLDMAP_INTRO_5]
-{NPC_ENTER:winnieicon}{SAY}我们的目标不是找玉米卷吗？
+{NPC_ENTER:winnieicon}{SAY}Suchen wir nicht nach Tacos?
 
 [NARRATIVE_COWBOY_WORLDMAP_INTRO_6]
-{EXCITED:crazydaveicon}但那可是金矿啊！
+{EXCITED:crazydaveicon}Aber das ist eine Goldmine!
 
 [NARRATIVE_COWBOY_ZOMBIENOTE_1]
-{NPC_ENTER:winnieicon}海报显示僵尸们在悬赏通缉脑子。
+{NPC_ENTER:winnieicon}Das Poster zeigt, dass Zombies ein Kopfgeld auf Gehirne aussetzen.
 
 [NARRATIVE_COWBOY_ZOMBIENOTE_2]
-{NPC_ENTER:crazydaveicon}哦，原来我的脑子那么值钱！
+{NPC_ENTER:crazydaveicon}Oh, mein Gehirn ist also so wertvoll!
 
 [NARRATIVE_COWBOY_ZOMBIENOTE_3]
-{PLAYFUL:winnieicon}那可未必，上面写明了不要疯子的大脑。
+{PLAYFUL:winnieicon}Das stimmt vielleicht nicht. Es steht eindeutig, dass sie die Gehirne von Verrückten nicht wollen.
 
 [NARRATIVE_DANGER_ROOM_FAILURE_1]
-{NPC_ENTER:crazydave}{SAY}啊天哪！僵尸吃了你的脑子。
+{NPC_ENTER:crazydave}{SAY}Oh mein Gott! Die Zombies haben dein Gehirn gefressen.
 
 [NARRATIVE_DANGER_ROOM_FAILURE_2]
 {tutorial}
 
 [NARRATIVE_DANGER_ROOM_FAILURE_3]
-{SAY}很好！你获得了额外的两个！
+{SAY}Super! Du hast zwei Extras!
 
 [NARRATIVE_DANGER_ROOM_INTRO_COWBOY_1]
-{NPC_ENTER:crazydave}{SAY}哈罗，亲爱的邻居，欢迎来到闹鬼岭。
+{NPC_ENTER:crazydave}{SAY}Hallo, lieber Nachbar, willkommen in Haunted Hill.
 
 [NARRATIVE_DANGER_ROOM_INTRO_COWBOY_2]
-{SAY}关于大波，其实就是指即将来袭的僵尸…
+{SAY}Die große Welle bezieht sich eigentlich auf die Zombies, die gleich angreifen werden ...
 
 [NARRATIVE_PROTECT_INTRO_1]
-{NPC_ENTER:crazydave}{SAY}看好这些元宝，别让僵尸给偷走了！
+{NPC_ENTER:crazydave}{SAY}Behalte diese Goldbarren im Auge, damit sie nicht von den Zombies gestohlen werden!
 
 [NARRATIVE_DANGER_ROOM_INTRO_EGYPT_1]
-{NPC_ENTER:crazydave}{SAY}哈罗，邻居！欢迎来到梦魇金字塔！
+{NPC_ENTER:crazydave}{SAY}Hallo, Nachbar! Willkommen in der Albtraumpyramide!
 
 [NARRATIVE_DANGER_ROOM_INTRO_EGYPT_2]
-{SAY}和普通金字塔没什么大差，只是，你懂的，让人汗毛倒竖！
+{SAY}Sie unterscheidet sich nicht von einer normalen Pyramide, aber, wisst ihr, sie lässt den Leuten die Haare zu Berge stehen!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_1]
-{NPC_ENTER:crazydave}{SAY}哈罗，邻居！欢迎来到无尽挑战！
+{NPC_ENTER:crazydave}{SAY}Hallo Nachbar! Willkommen zur Endlosen Herausforderung!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_2]
-{SAY}这里你需要面对无尽的僵尸冲击，请选择5个植物组成你的阵容，让我们看看你能走多远！
+{SAY}Hier musst du dich endlosen Zombieangriffen stellen. Wähle bitte 5 Pflanzen für deine Aufstellung aus. Mal sehen, wie weit du kommst!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_ONE_1]
-{NPC_ENTER:crazydave}{SAY}哈罗，邻居！欢迎来到无尽挑战！
+{NPC_ENTER:crazydave}{SAY}Hallo Nachbar! Willkommen zur Endlosen Herausforderung!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_ONE_2]
-{SAY}这里你需要面对无尽的僵尸冲击，请选择5个植物组成你的阵容，让我们看看你能走多远！
+{SAY}Hier musst du dich endlosen Zombieangriffen stellen. Wähle bitte 5 Pflanzen für deine Aufstellung aus. Mal sehen, wie weit du kommst!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_TWO_1]
-{NPC_ENTER:crazydave}{SAY}哈罗，邻居！欢迎来到无尽挑战！
+{NPC_ENTER:crazydave}{SAY}Hallo Nachbar! Willkommen zur endlosen Herausforderung!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_TWO_2]
-{SAY}这里你需要面对无尽的僵尸冲击，请选择5个植物组成你的阵容，让我们看看你能走多远！
+{SAY}Hier musst du dich endlosen Zombieangriffen stellen. Wähle bitte fünf Pflanzen für deine Aufstellung aus. Mal sehen, wie weit du kommst!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_THREE_1]
-{NPC_ENTER:crazydave}{SAY}哈罗，邻居！欢迎来到无尽挑战！
+{NPC_ENTER:crazydave}{SAY}Hallo Nachbar! Willkommen zur endlosen Herausforderung!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_THREE_2]
-{SAY}这里你需要面对无尽的僵尸冲击，请选择5个植物组成你的阵容，让我们看看你能走多远！
+{SAY}Hier musst du dich endlosen Zombieangriffen stellen. Wähle bitte 5 Pflanzen für dein Team aus. Mal sehen, wie weit du kommst!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_FOUR_1]
-{NPC_ENTER:crazydave}{SAY}哈罗，邻居！欢迎来到无尽挑战！
+{NPC_ENTER:crazydave}{SAY}Hallo, Nachbar! Willkommen zur endlosen Herausforderung!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_FOUR_2]
-{SAY}这里你需要面对无尽的僵尸冲击，请选择5个植物组成你的阵容，让我们看看你能走多远！
+{SAY}Hier musst du dich endlosen Zombieangriffen stellen. Wähle bitte 5 Pflanzen für dein Team aus. Mal sehen, wie weit du kommst!
 
 [NARRATIVE_DANGER_ROOM_INTRO_PIRATE_1]
-{NPC_ENTER:crazydave}{SAY}哈罗，亲爱的邻居，欢迎来到死人狂欢派对！
+{NPC_ENTER:crazydave}{SAY}Hallo, lieber Nachbar, willkommen zur Toten-Karnevalsparty!
 
 [NARRATIVE_DANGER_ROOM_INTRO_PIRATE_2]
-{PLAYFUL}我也想抢些回去。
+{PLAYFUL}Ich möchte mir etwas zurückholen.
 
 [NARRATIVE_DANGER_ROOM_INTROWRAPUP_1]
-{NPC_ENTER:crazydave}{PLAYFUL}好身手，看看你能走多远！
+{NPC_ENTER:crazydave}{PLAYFUL}Gute Fähigkeiten, mal sehen, wie weit du kommst!
 
 [NARRATIVE_DANGER_ROOM_POWER_1]
-{NPC_ENTER:winnie}{SAY}挑战地带比普通关卡更难！
+{NPC_ENTER:winnie}{SAY}Herausforderungsbereiche sind schwieriger als normale Level!
 
 [NARRATIVE_DANGER_ROOM_POWER_2]
-{SAY:winnie}每关只能买一次战术黄瓜和能量豆。
+{SAY:winnie}Du kannst Taktische Gurken und Energiebohnen nur einmal pro Level kaufen.
 
 [NARRATIVE_DANGER_ROOM_POWER_3]
-{EXCITED:winnie}祝好运！
+{EXCITED:winnie}Viel Glück!
 
 [NARRATIVE_DANGER_ROOM_SUCCESS_1]
-{NPC_ENTER:crazydave}{EXCITED}干得好，邻居！
+{NPC_ENTER:crazydave}{EXCITED}Gut gemacht, Nachbar!
 
 [NARRATIVE_DANGER_ROOM_SUCCESS_2]
 {tutorial}
 
 [NARRATIVE_DANGER_ROOM_SUCCESS_3]
-{SAY}在挑战地带，你可以把小推车带到下一关！
-
+{SAY}In der Challenge Zone kannst du den Wagen zum nächsten Level bringen!
 
 [NARRATIVE_DANGER_ROOM_SUCCESS_4]
 {tutorial}
 
 [NARRATIVE_DANGER_ROOM_SUCCESS_5]
-{SAY}你还可以把能量豆也带到下一关！
+{SAY}Du kannst auch die Energiebohnen zum nächsten Level tragen!
 
 [NARRATIVE_DANGER_ROOM_SUCCESS_6]
-{tutorial}
+{Tutorial}
 
 [NARRATIVE_DANGER_ROOM_SUCCESS_7]
-{PLAYFUL}祝你好运！
+{PLAYFUL}Viel Glück!
 
 [NARRATIVE_DANGER_ROOM_TUTORIAL_1]
 {NPC_ENTER:winnie}{tutorial}
@@ -3674,10 +3668,10 @@ Neuer Benutzer
 Nächster Stern
 
 [NO_WINDOWED_MODE]
-无窗口模式
+Kein Fenstermodus
 
 [NOT_SUPPORTED]
-不支持
+Nicht unterstützt
 
 [NUMBER_FORMAT_SEPARATOR]
 ,
@@ -3686,26 +3680,26 @@ Nächster Stern
 3
 
 [OPEN_ALL_PRESENTS_BUTTON]
-打开
+Öffnen
 
 [OPEN_BROWSER]
-打开浏览器
+Browser öffnen
 
 [OPEN_URL]
-请在你的浏览器中打开如下链接
+Bitte öffnen Sie den folgenden Link in Ihrem Browser.
 
 %s
 
-为了方便使用，这一链接已经被复制到你的剪贴板里。
+Zur einfacheren Verwendung wurde dieser Link in Ihre Zwischenablage kopiert.
 
 [OPEN_YOUR_PRESENTS]
-打开你的礼物！
+Öffnen Sie Ihre Geschenke!
 
 [OPENING_BROWSER]
-正在打开浏览器
+Browser wird geöffnet
 
 [OPTIONS_3D_ACCELERATION]
-3D加速
+3D-Beschleunigung
 
 [OPTIONS_FULL_SCREEN]
 Vollbildschirm
@@ -3714,43 +3708,43 @@ Vollbildschirm
 Musik
 
 [OPTIONS_SOUNDFX]
-Sound Lautstärke
+Lautstärke
 
 [OUT_OF_CONTENT_CONFIRM]
-现在下载
+Jetzt herunterladen
 
 [OUT_OF_CONTENT_HEADER]
-你需要为这个关卡下载相关内容。
+Du musst Inhalte für dieses Level herunterladen.
 
 [OUT_OF_CONTENT_REJECT]
-稍后下载
+Später herunterladen
 
 [OUTRO_ZOMBIESWON]
-僵尸们吃掉了你的脑子！
+Zombies haben dein Gehirn gefressen!
 
 [PACKET_LAST_STAND_LOCKED]
-在坚不可摧关卡的布阵阶段，这个植物不能被种植。
+Diese Pflanze kann während der Entstehungsphase des Unzerstörbar-Levels nicht gepflanzt werden.
 
 [PATCH_FAILED_BODY]
-申请内容错误。 (%d)
+Fehler im Anforderungsinhalt. (%d)
 
 [PATCH_FAILED_CANCELLED_HEADER]
-升级补丁失败
+Patch-Upgrade fehlgeschlagen
 
 [PATCH_FAILED_HEADER]
-升级补丁失败
+Patch-Upgrade fehlgeschlagen
 
 [PATCH_FAILED_SPACE_BODY]
-空间不够。
+Nicht genügend Speicherplatz.
 
 [PATCH_FAILED_SPACE_HEADER]
-升级补丁失败
+Patch-Upgrade fehlgeschlagen
 
 [PATCH_IS_AVAILABLE_HEADER]
-有更新。
+Update verfügbar.
 
 [PATCH_VERIFICATION_FAILED]
-下载的内容可能已经破损。更新内容将需要再被下载一次。
+Der heruntergeladene Inhalt ist möglicherweise beschädigt. Der aktualisierte Inhalt muss erneut heruntergeladen werden.
 
 [PAUSED_HEADER]
 Spiel Pausiert
@@ -3790,86 +3784,85 @@ Feuert viele Erbsen auf einmal ab.
 Schießt mit Erbsen auf den Feind.
 
 [PIRATE]
-海盗港湾
+Piratensee
 
 [PIRATE_CHALLENGE_MINIGAME_A_NAME]
-加农炮之战-第1天
+Kanonenschlacht – Tag 1
 
 [PIRATE_CHALLENGE_MINIGAME_B_NAME]
-加农炮之战-第2天
+Kanonenschlacht – Tag 2
 
 [PIRATE_CHALLENGE_MINIGAME_C_NAME]
-加农炮之战-第3天
+Kanonenschlacht – Tag 3
 
 [PIRATE_KEYGATE_HEADER]
-海盗之门
+Piratentor
 
 [PIRATE_LEVEL_NAME]
-海盗港湾-第{LEVEL_NUMBER}天
+Piratenbucht – Tag {LEVEL_NUMBER}
 
 [PLANT]
-植物
+Pflanzen
 
 [PLANT_FOOD_TUTORIAL_1]
-将能量豆拖到植物上
+Energiebohnen auf Pflanzen ziehen
 
 [PLANT_FOOD_TUTORIAL_2]
-点击并拖放能量豆到植物上！
+Energiebohnen anklicken und auf Pflanzen ziehen!
 
 [PLANT_FOOD_TUTORIAL_3]
-现在干掉铁桶僵尸！
+Töte jetzt die Fass-Zombies!
 
 [PLANT_FOOD_TUTORIAL_4]
-闪烁的僵尸携带有能量豆
+Die blinkenden Zombies tragen Energiebohnen.
 
 [PLANT_FOOD_TUTORIAL_5]
-点击以收集能量豆
+Klicke, um Energiebohnen zu sammeln.
 
 [PLANTS]
-植物
+Pflanzen
 
 [PLAY]
-返回游戏
+Zurück zum Spiel
 
 [PLAY_CURRENT_LEVEL]
-玩当前关卡！
+Spiele das aktuelle Level!
 
 [PLAY_LEVEL]
-游戏关卡
+Spiellevel
 
 [PLAY_LEVEL_AGAIN_BUTTON]
-再玩
-一次
+Erneut spielen
 
 [PLAY_NEXT_LEVEL]
-下一关！
+Nächstes Level!
 
 [PLAYERS_HOUSE]
-{PLAYER}的房子
+{PLAYER}s Haus
 
 [PLAYERS_TRIP_TO_DANGER_ROOM]
-准备好迎接无尽的僵尸大军！
+Gefahrenzentrale！
 
 [PLAYERS_TRIP_TO_EGYPT]
-{PLAYER}的神秘埃及之旅
+{PLAYER}s Reise ins Alte Ägypten!
 
 [PLAYERS_TRIP_TO_FUTURE]
-{PLAYER}的未来世界之旅！
+{PLAYER}s Reise in die Ferne Zukunft！
 
 [PLAYERS_TRIP_TO_PIRATE_SHIP]
-{PLAYER}的海盗港湾之旅！
+{PLAYER}s Reiss in die Piratensee！
 
 [PLAYERS_TRIP_TO_WEST]
-{PLAYER}的狂野西部之旅
+{PLAYER}s Reise in den Wilden Westen!
 
 [PLAYERS_TRIP_TO_DARK]
-{PLAYER}的黑暗时代之旅
+{PLAYER}s Reise ins Mittelalter!
 
 [PLAYERS_TRIP_TO_DARKAGES]
-{PLAYER}的黑暗时代之旅
+{PLAYER}s Reise ins Mittelalter!
 
 [PLAYERS_TRIP_TO_BEACH]
-{PLAYER}的巨浪沙滩之旅
+{PLAYER}s Reise in den Riesenwellen-Strand!
 
 [PLAYERS_TRIP_TO_ICEAGE]
 {PLAYER}s Reise in die Frostbeulen-Höhlen!
@@ -3947,91 +3940,91 @@ Bitte geben Sie Ihren Namen ein:
  
 
 [POWERUP_DEMO]
-金手指演示
+Cheat-Finger-Demo
 
 [POWERUP_FLICK]
-浮空指
+Schwebender Finger
 
 [POWERUP_FLICK_DESCRIPTION]
-划过僵尸将它弹开，划两次将它甩出屏幕！
+Wische über den Zombie, um ihn abprallen zu lassen, und wische zweimal, um ihn vom Bildschirm zu werfen!
 
 [POWERUP_PINCH]
-剪刀手
+Scherenhand
 
 [POWERUP_PINCH_DESCRIPTION]
-捏住僵尸剪掉它的脑袋
+Kneife den Zombie und schlage ihm den Kopf ab.
 
 [POWERUP_TEXT]
-恭喜，这会让你比宙斯更强大！
+Herzlichen Glückwunsch! Damit bist du mächtiger als Zeus!
 
 [POWERUP_WIZARDFINGER]
-电击指
+Elektrischer Finger
 
 [POWERUP_WIZARDFINGER_DESCRIPTION]
-在僵尸上按下手指，电击它们！
+Drücke deinen Finger auf den Zombie, um ihn zu schocken!
 
 [PREMIUM_PACKS]
-大礼包
+Premium-Pakete
 
 [PREVIEW_BUTTON]
-解锁
+Freischalten
 
 [PREVIEW_WORLD]
-预览世界地图
+Weltkarte ansehen
 
 [product_1_description]
-金币，金币，金币！
+Münzen, Münzen, Münzen!
 
 [product_1_name]
-金币礼包5000
+Goldmünzen-Paket 5000
 
 [product_1_short_description]
-金币礼包5000
+Goldmünzen-Paket 5000
 
 [product_10_description]
-铲除后+25%返还阳光！
++25 % Sonnenrendite nach Eliminierung!
 
 [product_10_name]
-强化—嘉奖阳光铲
+Verbesserung – Sonnenschaufel als Belohnung
 
 [product_10_short_description]
-嘉奖阳光铲
+Sonnenschaufel als Belohnung
 
 [product_11_description]
-+1卡片槽！
++1 Kartenfach!
 
 [product_11_name]
-强化—奖励卡片槽
+Verbesserung – Kartenfach als Belohnung
 
 [product_11_short_description]
-奖励卡片槽
+Kartenfach als Belohnung
 
 [product_12_description]
-+25 初始阳光！
++25 Sonneneinstrahlung am Anfang!
 
 [product_12_name]
-强化-阳光奖励道具
+Verstärkung – Sonnenschein-Belohnungsgegenstand
 
 [product_12_short_description]
-阳光奖励道具
+Sonnenschein-Belohnungsgegenstand
 
 [product_13_description]
-烧死敌人，购买强化道具，用额外阳光开始战斗！
+Verbrenne deine Gegner, kaufe Verstärkungsgegenstände und starte den Kampf mit extra viel Sonne!
 
 [product_13_name]
-包-能量
+Energiepaket
 
 [product_13_short_description]
-能量包
+Energiepaket
 
 [product_14_description]
-金币植物包
+Goldmünzen-Pflanzenpaket
 
 [product_14_name]
-包-金币植物
+Goldmünzen-Pflanzenpaket
 
 [product_14_short_description]
-金币植物包
+Goldmünzen-Pflanzenpaket
 
 [product_15_description]
 钥匙之门-神秘埃及-种子保卫战
@@ -4295,85 +4288,85 @@ Bitte geben Sie Ihren Namen ein:
 变身茄子
 
 [PROFILE_ADD_PHOTO]
-添加照片
+Foto hinzufügen
 
 [PURCHASE_COINS]
-购买更多金币吗？
+Mehr Coins kaufen?
 
 [PURCHASE_COINS_IN_APP_STORE]
-去应用商店购买金币？
+Coins im App Store kaufen?
 
 [PURCHASE_COMPLETE]
-感谢购买 {PRODUCT_NAME}！
+Vielen Dank für den Kauf von {PRODUCT_NAME}!
 
 [PURCHASE_DOUBLE_COMPLETE]
-感谢购买 %s，并获得首次充值双倍返还的钻石奖励！
+Vielen Dank für den Kauf von %s und doppelte Diamanten für Ihre erste Einzahlung!
 
 [PURCHASE_CONFIRMED]
-购买确认！
+Kauf bestätigt!
 
 [PURCHASE_CONFIRMED_HEADER]
-应用商店购买
+App Store-Kauf
 
 [PURCHASE_DIALOG_CONFIRMED_HEADER]
-购买成功！
+Kauf erfolgreich!
 
 [PURCHASE_DIALOG_HEADER]
-购买物品
+Artikel kaufen
 
 [PURCHASE_DIALOG_HEADER_EXTRA]
-付费购买
+Bezahlen
 
 [PURCHASE_PLANTTRIAL_DIALOG_HEADER]
-购买植物奇遇
+Pflanzenabenteuer kaufen
 
 [PURCHASE_DIALOG_BODY_CONNECT]
-正在连接服务器
+Verbindung zum Server wird hergestellt
 
 [PURCHASE_RESTORE_DIALOG_BODY_CONNECT]
-正在寻找丢失的宝物
+Suche nach verlorenem Schatz
 
 [PURCHASE_ERROR]
-无法连接商店。请重试。
+Verbindung zum Shop nicht möglich. Bitte versuchen Sie es erneut.
 
 [PURCHASE_ERROR_VALIDATE_BODY]
-服务器繁忙，请稍后重试。
+Server ausgelastet. Bitte versuchen Sie es später erneut.
 
 [PURCHASE_CHEAT_VALIDATE_BODY]
-验证失败。
+Validierung fehlgeschlagen.
 
 [PURCHASE_ERROR_BODY]
-无法完成购买。请重试。
+Kauf konnte nicht abgeschlossen werden. Bitte versuchen Sie es erneut.
 
 [PURCHASE_ERROR_HEADER]
-充值失败
+Aufladen fehlgeschlagen
 
 [PURCHASE_MAX_BODY]
-今日还可充值%d元。
+Heute können %d Yuan aufgeladen werden.
 
 [PURCHASE_ERROR_NOT_AUTHORIZED_BODY]
-在此设备上无权购买
+Keine Kaufberechtigung auf diesem Gerät.
 
 [PURCHASE_ERROR_NOT_AUTHORIZED_HEADER]
-错误：用户未经授权
+Fehler: Benutzer ist nicht autorisiert.
 
 [PURCHASE_ERROR_SERVICE_UNAVAILABLE_BODY]
-未连接网络或应用商店暂时故障
+Keine Netzwerkverbindung oder App Store vorübergehend ausgefallen.
 
 [PURCHASE_ERROR_SERVICE_UNAVAILABLE_HEADER]
-错误：服务无效
+Fehler: Dienst ungültig.
 
 [PURCHASE_KEY_GATE]
-购买钥匙开门？
+Schlüssel zum Öffnen der Tür kaufen?
 
 [PURCHASE_KEY_GATE_HEADER]
-解锁大门？
+Tor aufschließen?
 
 [PURCHASE_PLANTFOOD]
-购买能量豆？
+Energiebohnen kaufen?
 
 [PURCHASE_PLANTFOOD_WITH_COINS]
-花费%d钻石买一个能量豆？
+%d Diamanten ausgeben, um eine Energiebohne zu kaufen?
 
 [RENAME_BUTTON]
 Umbennen
@@ -4834,29 +4827,29 @@ Wenn Ihr Spiel zu langsam läuft, deaktivieren Sie die Hardwarebeschleunigung.
 
 
 [HERO]
-英雄
+Held
 
 [HEROPLANT_NO_HEROPLANT]
-你暂无解锁的英雄植物可用
+Du hast keine freigeschalteten Heldenpflanzen zur Verfügung.
 
 [HEROPLANT_NO_DETAILS]
-无法查看当前英雄植物详情
+Details der aktuellen Heldenpflanze können nicht angezeigt werden.
 
 [HEROPLANT_SELECT]
-选择你的英雄植物
-
+Wähle deine Heldenpflanze.
 
 [HEROPLANT_INTRO_DESCRIPTION_1]
-英雄升级了，点击英雄植物看看有什么惊喜！
+Der Held wurde aufgewertet. Klicke auf die Heldenpflanze, um die Überraschungen zu entdecken!
 
 [HEROPLANT_INTRO_DESCRIPTION_2]
-选择任意一个战技，点击可查看战技说明！
+Wähle eine beliebige Kampffertigkeit und klicke, um die Beschreibung der Kampffertigkeit anzuzeigen!
 
 [HEROPLANT_INTRO_DESCRIPTION_3]
-再次点击即可完成战技加点，使英雄植物获得加成！
+Klicke erneut, um die Kampffertigkeit zu erweitern und der Heldenpflanze einen Bonus zu verleihen!
 
 [MINIGAME_IMITATER]
-小游戏魔术菇
+Minispiel: Zauberpilz
+
 [MINIGAME_IMITATER_TOOLTIP]
 
 
@@ -6106,7 +6099,7 @@ Kaufen
 [SUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
 
 [SURVIVE_ZOMBIE_ATTACK]
-成功抵挡僵尸入侵
+Überlebe den Zombie Angriff!
 
 [TALLNUT]
 高坚果
@@ -17562,42 +17555,42 @@ Das Event ist beendet.
 钻石抽奖
 
 [HINT_DEFAULT_TITLE]
-提示
+Hinweis
 
 [HINT_DEFAULT_CONTENT]
-戴夫头上戴的不是帽子，是锅。
+Dave trägt keinen Hut, sondern einen Topf.
 
 [HINT_DEFAULT_BUTTON1]
-取消
+Abbrechen
 
 [HINT_DEFAULT_BUTTON2]
-确定
+Bestätigen
 
 [HINT_DEFAULT_UNCONNECTED_TITLE]
-网络不给力
+Netzwerk funktioniert nicht
 
 [HINT_DEFAULT_UNCONNECTED]
-可能是僵尸把网络当成脑子吃掉了吧
-一定是这样！
-请尝试恢复链接或者重启游戏再试试看。
+Vielleicht haben die Zombies das Netzwerk wie ihre Gehirne aufgefressen.
+So muss es sein!
+Bitte versuche, die Verbindung wiederherzustellen oder starte das Spiel neu und versuche es erneut.
 
 [NETWORK_FAILED_UNCONNECTED]
-尚未联网
+Keine Netzwerkverbindung
 
 [ACTIVE_CLOSED]
-活动已结束
+Die Aktion ist beendet.
 
 [REMAIN_DAYS]
 {DAYS}Tage
 
 [GEILIVABLE_LOTTERY_SPECIAL_BONUS_DES]
-三周年限量抱枕
+Limitierte Kissenedition zum 3. Jubiläum
 
 [GEILIVABLE_LOTTERY_SPECIAL_BONUS]
-三周年限量抱枕
+Limitierte Kissenedition zum 3. Jubiläum
 
 [GEILIVABLE_LOTTERY_BONUS_TITLE]
-恭喜你获得以下物品
+Herzlichen Glückwunsch zum Gewinn der folgenden Artikel
 
 [UNIQUE_FERTILIZER]
 Seltenes Düngemittel
@@ -30491,88 +30484,90 @@ Oder
 强力铲子
 
 [PLAYERS_TRIP_TO_STEAM]
-{PLAYER}的蒸汽时代之旅！
+{PLAYER}s Reise zur Industriellen Revolution！
 
 [PLAYERS_TRIP_TO_RENAI]
-{PLAYER}的复兴时代之旅！
+{PLAYER}s Reise zur Renaissance Ära！
 
 [PLAYERS_TRIP_TO_BATTLE]
-{PLAYER}的超Z联赛之旅！
+{PLAYER}s Reise zur Arena！
 
 [PLAYERS_TRIP_TO_ARTIFACT]
-{PLAYER}的神器收集之旅！
+{PLAYER}s Artefakt-Sammelreise!
 
 [PLAYERS_TRIP_TO_ARTIFACT_DEMO]
-{PLAYER}的神器体验之旅！
+{PLAYER}s Artefakt-Erlebnisreise!
 
 [PLAYERS_TRIP_TO_CARDGAME]
-{PLAYER}的卡牌冒险之旅！
+{PLAYER}s Kartenabenteuerreise!
 
 [PLAYERS_TRIP_TO_NEW_PVP]
-{PLAYER}的竞技场！
+{PLAYER}s Arena!
 
 [POWERUP_BEGHOULED_SHOVEL_DESCRIPTION]
-在僵尸迷阵中使用强力铲子来移除植物或是填满土坑！
+Nutze die mächtige Schaufel, um Pflanzen zu entfernen oder die Gruben im Zombie-Labyrinth zu füllen!
 
 [POWERUP_BEGHOULED_SHUFFLE]
-强力洗版
+Kraftvolles Mischen
 
 [POWERUP_BEGHOULED_SHUFFLE_DESCRIPTION]
-在僵尸迷阵中使用强力洗版来重置植物的位置，找到更多组合！
+Nutze das mächtige Mischen, um die Positionen der Pflanzen im Zombie-Labyrinth zurückzusetzen und neue Kombinationen zu finden!
 
 [POWERUP_FLAMETHROWER]
-火焰指
+Flammenfinger
 
 [POWERUP_FLAMETHROWER_DESCRIPTION]
-在冰霜洞窟中用手指按住屏幕来融化寒冰或是燃烧僵尸！
+Halte deinen Finger auf dem Bildschirm, um Eis zu schmelzen oder Zombies in den Frosthöhlen zu verbrennen!
+
 [POWERUP_NEW_BADGE]
-新
+NEU
 [POWERUP_SNOWBALL]
-冰雹指
+Hagelfinger
 
 [POWERUP_SNOWBALL_DESCRIPTION]
-按住一个僵尸来向它投掷冰冷的雪球！
+Halte einen Zombie fest, um einen eisigen Schneeball auf ihn zu schleudern!
 
 [POWERUP_VASEBREAKER_BUTTER]
-投掷黄油
+Butter werfen
 
 [POWERUP_VASEBREAKER_BUTTER_DESCRIPTION]
-在破罐者中点击一个僵尸并用黄油堵住他的嘴！
+Tippe einen Zombie in Jar Breaker an und bringe ihn mit Butter zum Würgen!
 
 [POWERUP_VASEBREAKER_BUTTER_UNLOCK]
-完成功夫挑战包解锁
+Freischaltung durch Abschluss des Kung-Fu-Herausforderungspakets.
 
 [POWERUP_VASEBREAKER_MOVE]
-移动罐子
+Bewege ein Glas.
 
 [POWERUP_VASEBREAKER_MOVE_DESCRIPTION]
-在破罐者游戏中，点击来选择罐子，再次点击可以把它重新放置在空格上！
+Klicke im Glasbrecher, um ein Glas auszuwählen. Klicke erneut, um es an einer leeren Stelle zu positionieren!
 
 [POWERUP_VASEBREAKER_MOVE_UNLOCK]
-在无尽模式中完成 {ENDLESS_WAVE} 波来解锁。
+Freischaltung durch Abschluss von {ENDLESS_WAVE} Wellen im Endlosmodus.
 
 [POWERUP_VASEBREAKER_REVEAL]
-查看罐子
+Glas ansehen
 
 [POWERUP_VASEBREAKER_REVEAL_DESCRIPTION]
-在破罐者游戏中，使用该道具可以查看一个罐子内的东西！
+Benutze im Glasbrecher diesen Gegenstand, um den Inhalt eines Glases anzusehen!
 
 [POWERUP_VASEBREAKER_REVEAL_UNLOCK]
-完成新手挑战包来解锁。
+Freischaltung durch Abschluss des Anfänger-Herausforderungspakets.
 [PREMIUM_PLANT_QUEST_DESC]
-试用高级植物并且以此获得奖励！
+Teste Premium-Pflanzen und werde dafür belohnt!
 
 [PREMIUM_PLANT_QUEST_LOD_DESC]
-{PLAYER}的高级植物任务
+{PLAYER}s Premium-Pflanzen-Quest
 
 [PREMIUM_PLANT_QUEST_LOD_NAME]
-高级植物任务！
+Premium-Pflanzen-Quest!
 
 [PREMIUM_PLANT_QUEST_TITLE]
-免费试用一棵高级植物吧！
+Teste eine Premium-Pflanze kostenlos!
 
 [PREVIEW_LEVEL_NAME]
-植物预览
+Pflanzenvorschau
+
 [PRIMALPEASHOOTER]
 原始豌豆射手
 
@@ -43615,85 +43610,85 @@ Geschenkpaket kaufen
 Happy Newbie-Geschenkpaket
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_2]
-植物砖家礼包
+Pflanzenexperte-Geschenkpaket
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_3]
-僵尸猎人礼包
+Zombiejäger-Geschenkpaket
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_4]
-达人进阶礼包
+Experten-Geschenkpaket (Fortgeschrittene)
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_5]
-超能大师礼包
+Superkraft-Meister-Geschenkpaket
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_6]
-王者归来礼包
+Königsrückkehr-Geschenkpaket
 
-[PLANT_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-原价198元
+[PLANT_SPECIAL_PURCHASE_BT N_NORMAL_PRICE]
+Originalpreis 198 Yuan
 
 [PLANT_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-68元购买
+Kaufen für 68 Yuan
 
 [STORE_CATEGORY_NAME_SECRET_STORE_DESC]
-购买礼包
+Geschenkpaket kaufen
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_1]
-初级狂欢礼包
+Karnevals-Geschenkpaket für Anfänger
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_2]
-中级狂欢礼包
+Karnevals-Geschenkpaket für Fortgeschrittene
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_3]
-高级狂欢礼包
+Karnevals-Geschenkpaket für Fortgeschrittene
 
-[STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_4]
-特级狂欢礼包
+[STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_4] ECRET_STORE_SHORT_DESC_4]
+Super-Karnevals-Geschenkpaket
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_5]
-顶级狂欢礼包
+Karnevals-Geschenkpaket der Extraklasse
 
 [SECRET_STORE_TITLE]
-神秘商店
+Geheim Shop
 
 [SECRET_STORE_END_TIME]
 {TIME}
 
 [SECRET_STORE_END_LABEL]
-活动结束仅剩
+Nur nach dem Event verfügbar.
 
 [DISCOUNT_SHOP_REFRESH_LABEL]
-奖池刷新倒计时
+Countdown zur Aktualisierung des Prämienpools
 
 [SECRET_STORE_REFRESH_LABEL]
-商品刷新倒计时
+Countdown zur Produktaktualisierung
 
 [SHOP_REFRESH_LABEL]
-刷新倒计时
+Countdown zur Aktualisierung
 
-[SHOP_REFRESH_COUNTDOWN_LABEL]
-商店重置倒计时
+[SHOP_REFRESH_COUNTDOWN_ LABEL]
+Countdown zur Shop-Zurücksetzung
 
 [SECRET_MIDDLE_STR]
-可获得
+Verfügbar
 
 [SECRET_BUY_STR]
-{NUMBER}元
+{NUMBER} Yuan
 
 [SECRET_BUY_STR_FREE]
-免费
+Kostenlos
 
 [SECRET_BUY_LEFT_STR]
-限购{NUMBER}次
+Limitiert auf {NUMBER} Mal
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_TITLE]
-无尽推荐礼包
+Endloses Empfehlungsgeschenk Paket
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_DESC]
-每个礼包只可购买一次，每周四12:00都会刷新通关进度和购买状态哦~
+Jedes Geschenkpaket kann nur einmal gekauft werden. Der Abverkaufsfortschritt und der Kaufstatus werden jeden Donnerstag um ca. 12:00 Uhr aktualisiert.
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_PRICE_DESC_NUM]
-通关第{NUMS}关可解锁
+Freischaltbar nach Abschluss von Level {NUMS}
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_PRICE_DESC1]
 通关第1关可解锁
@@ -64693,29 +64688,29 @@ ca=大招能用金箍棒把僵尸砸进地里|提升大招高能激光的伤害|
 终极试炼 - 窝瓜
 
 [BIND_UNIQUE_ID_TITLE]
-绑定设备
+Gerät verknüpfen
 
 [BIND_UNIQUE_ID_DESC]
-1.绑定设备可以将您的渠道账号、设备以及存档进行绑定
-2.当您在新设备上使用相同渠道账号登陆时，只有先绑定设备才能继续存档
-3.绑定设备后需要12小时后才能重新绑定其他设备
-4.恢复出厂设置、格式化、刷机等深度清理操作会定义为新设备
-5.一年之内只能绑定四台设备，每年1月1日重置绑定限制
+1. Das verknüpfte Gerät verknüpft dein Kanalkonto, dein Gerät und dein Archiv.
+2. Wenn du dich mit demselben Kanalkonto auf einem neuen Gerät anmeldest, kannst du erst nach dem Verknüpfen des Geräts mit dem Archivieren fortfahren.
+3. Nach dem Verknüpfen eines Geräts dauert es 12 Stunden, bis andere Geräte erneut verknüpft werden.
+4. Wiederherstellen der Werkseinstellungen, Formatieren, Flashen und andere gründliche Reinigungsvorgänge werden als neue Geräte definiert.
+5. Pro Jahr können nur vier Geräte verknüpft werden. Das Verknüpfungslimit wird jeweils am 1. Januar zurückgesetzt.
 
-[BIND_UNIQUE_ID_HINT]
-检测到您当前在新设备登陆，请先点击主界面的绑定设备重新绑定之后再开始游戏
+[BIND_UN IQUE_ID_HINT]
+Es wurde festgestellt, dass du dich gerade auf einem neuen Gerät anmeldest. Klicke bitte auf der Hauptoberfläche auf das verknüpfte Gerät, um die Verknüpfung erneut durchzuführen, bevor du das Spiel startest.
 
 [BIND_UNIQUE_ID_CLEAR_PROFILE]
-检测到您当前账号跟本地账号不符，点确定以清除本地存档
+Es wurde festgestellt, dass dein aktuelles Konto nicht mit dem lokalen Konto übereinstimmt. Klicken Sie auf „OK“, um das lokale Archiv zu löschen.
 
 [BIND_UNIQUE_ID_GO_BIND]
-绑定
+Binden
 
 [PVZ_ERROR_20320]
-绑定后需要12小时后才能绑定其他设备
+Nach dem Binden dauert es 12 Stunden, bis weitere Geräte gebunden werden.
 
 [PVZ_ERROR_20321]
-一年只能绑定4台设备
+Pro Jahr können nur vier Geräte gebunden werden.
 
 [UNCHARTED_FAIRYTALE_WORLD]
 Geheimes Raumzeit-Reich
@@ -66110,61 +66105,71 @@ Lv.{NUMBER}
 秒杀
 
 [ZOMBIE_BATTLE_TYPE_RARE_0]
-普通
+Gewöhnlich
 
 [ZOMBIE_BATTLE_TYPE_RARE_1]
-稀有
+Selten
 
 [ZOMBIE_BATTLE_TYPE_RARE_2]
-传说
+Legendär
 
 [ZOMBIE_BATTLE_TYPE_DESCRIPTION_0]
-近战
+Nahkampf
 
 [ZOMBIE_BATTLE_TYPE_DESCRIPTION_1]
-远程
+Fernkampf
 
 [ZOMBIE_BATTLE_TYPE_DESCRIPTION_2]
-特殊
+Spezial
 
-[ZOMBIE_NEW_PVP_ZOMBIE_GATLINGPEA]
-机枪豌豆僵尸
+[ZOMBIE_BATTLE_TYPE_DESCRIPTION_0]
+Nahkampf
+
+[ZOMBIE_BATTLE_TYPE_DESCRIPTION_1]
+Fernkampf
+
+[ZOMBIE_BATTLE_TYPE_DESCRIPTION_2]
+Spezial
+
+[ZOMBIE_BATTLE_TYPE_DESCRIPTION_1]
+Fernkampf E_NEW_PVP_ZOMBIE_GATLINGPEA]
+Gatling-Erbsen-Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_GATLINGPEA_DESCRIPTION_HEADER]
-能够发射4枚子弹
+Kann 4 Kugeln abfeuern
 
 [ZOMBIE_NEW_PVP_TUTORIAL]
-普通僵尸
+Gewöhnlicher Zombie
 
 [ZOMBIE_NEW_PVP_TUTORIAL_DESCRIPTION_HEADER]
-普普通通的一只僵尸，只会普通的啃食
+Ein gewöhnlicher Zombie, der nur frisst
 
-[ZOMBIE_NEW_PVP_CHICKEN]
-僵尸鸡
+[ZOMBIE_NEW_PVP_CHICKE N]
+Zombie-Huhn
 
 [ZOMBIE_NEW_PVP_CHICKEN_DESCRIPTION_HEADER]
-能够快速的接近植物
+Kann sich schnell Pflanzen nähern
 
 [ZOMBIE_NEW_PVP_BEGHOULED_NEWSPAPER]
-报纸僵尸
+Zeitungs-Zombie
 
 [ZOMBIE_NEW_PVP_BEGHOULED_NEWSPAPER_DESCRIPTION_HEADER]
-手中的报纸被破坏后会进入狂暴状态
+Verfällt in Raserei Nachdem die Zeitung in seiner Hand zerstört wurde
 
 [ZOMBIE_NEW_PVP_MODERN_ALLSTAR]
-全明星僵尸
+All-Star-Zombie
 
 [ZOMBIE_NEW_PVP_MODERN_ALLSTAR_DESCRIPTION_HEADER]
-快速冲刺进场并直接消灭第一颗接触的植物
+Sprintet schnell ins Feld und zerstört die erste Pflanze, die er berührt.
 
 [ZOMBIE_NEW_PVP_FUTURE_PROTECTOR]
-电磁盾僵尸
+Zombie mit elektromagnetischem Schild
 
 [ZOMBIE_NEW_PVP_FUTURE_PROTECTOR_DESCRIPTION_HEADER]
-入场一段时间后展开电磁盾阻挡子弹
+Nachdem er das Feld eine Weile betreten hat, setzt er einen elektromagnetischen Schild ein, um Kugeln abzuwehren.
 
 [ZOMBIE_NEW_PVP_BEACH_OCTOPUS]
-章鱼僵尸
+Oktopus-Zombie
 
 [ZOMBIE_NEW_PVP_BEACH_OCTOPUS_DESCRIPTION_HEADER]
 能够扔出章鱼困住植物
@@ -66571,40 +66576,40 @@ PVP同步出错。
 [NEW_PVP_PLANT_UPGRADE_DES_LEVEL_5]
 五阶：
 
-[ROUND]
-回合
+[RUNDE]
+Runde
 
 [NEW_PVP_DUAN_TIPS]
-本赛季完成^ff0000^{NUM}^oldclr^场对局即可解锁这些段位奖励!
+Schließe in dieser Saison ^ff0000^{NUM}^oldclr^ Spiele ab, um diese Rangbelohnungen freizuschalten!
 
 [NEW_PVP_DUAN_INFO_TITLE]
-休赛与段位继承说明
+Anleitung zur Saisonpause und Rangvererbung
 
 [NEW_PVP_DUAN_INFO_CONTENT]
-1.每个赛季持续时间为4周,赛季最后一日为休赛日,无法进行对战。
-2.当赛季结束时,段位在铜锅的玩家不进行重置,银锅与金锅玩家下降至银锅Ⅴ,钻锅、大师锅、宗师锅玩家下降10个小段位;段位重置后玩家初始星星数量为1。新赛季开启时,赛季任务进度也将会重置,请各位小僵僵尽快领取奖励。
-3. 铜锅段位的奖励不随赛季重置领取进度,每位玩家仅可领取一次铜锅段位奖励。其余段位奖励随赛季重置,每个赛季可重复领取。当本赛季进行过10场对战,且达到奖励对应的段位需求后,即可解锁并领取该段位奖励。
+1. Jede Saison dauert 4 Wochen. Der letzte Tag der Saison ist ein Saisonpausentag, an dem keine Spiele ausgetragen werden können.
+2. Nach Saisonende werden Spieler im Kupfertopf-Rang nicht zurückgesetzt. Spieler im Silbertopf- und Goldtopf-Rang werden auf Silbertopf V herabgestuft. Spieler im Diamanttopf-, Meistertopf- und Großmeistertopf-Rang werden um 10 kleine Ränge herabgestuft. Die anfängliche Anzahl an Sternen nach der Rangrücksetzung beträgt 1. Mit Beginn der neuen Saison wird auch der Fortschritt der Saisonmission zurückgesetzt. Bitte holt euch die Belohnungen so schnell wie möglich ab.
+3. Die Belohnungen des Kupfertopf-Rangs werden im Verlauf der Saison nicht zurückgesetzt. Jeder Spieler kann die Kupfertopf-Rangbelohnung nur einmal einfordern. Die verbleibenden Rangbelohnungen werden mit der Saison zurückgesetzt und können wiederholt eingefordert werden. Nach 10 gespielten Matches in dieser Saison und Erreichen der entsprechenden Ranganforderungen kann die Rangbelohnung freigeschaltet und eingefordert werden.
 
 [NEW_PVP_MAX_DUAN_OF_THE_SEASON]
-本赛季最高段位
+Höchster Rang dieser Saison
 
 [NEW_PVP_DUAN_RANK_0]
-铜锅
+Kupfertopf
 
 [NEW_PVP_DUAN_RANK_1]
-银锅
+Silbertopf
 
 [NEW_PVP_DUAN_RANK_2]
-金锅
+Goldtopf
 
 [NEW_PVP_DUAN_RANK_3]
-钻锅
+Diamanttopf
 
 [NEW_PVP_DUAN_RANK_4]
-大师锅
+Meistertopf
 
 [NEW_PVP_DUAN_RANK_5]
-宗师锅
+Großmeistertopf
 
 [ROMAN_NUM_1]
 Ⅰ
