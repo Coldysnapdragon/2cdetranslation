@@ -3485,160 +3485,160 @@ Heruntergeladen
 {NPC_EXIT:crazydave}{SAY:winnie}我的程序禁止使用粗话。
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_A_1]
-{NPC_ENTER:winnie}{SAY}起风了，大波僵尸要来了！
+{NPC_ENTER:winnie}{SAY}Der Wind weht, eine große Zombiewelle kommt!
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_A_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}准备好你的救生圈！必要时跳海逃生！
+{NPC_ENTER:crazydave}{AUFGEWICKELT:crazydave}Haltet euren Rettungsring bereit! Springt notfalls ins Meer, um zu entkommen!
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_1]
-{NPC_ENTER:winnie}{SAY}这几波来势汹汹啊。
+{NPC_ENTER:winnie}{SAY}Die Wellen kommen heftig.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_2]
-{NPC_ENTER:crazydave}{TIRED:crazydave}我身上还是干的呢。
+{NPC_ENTER:crazydave}{MÜDE:crazydave}Ich bin noch trocken.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_3]
-{TIRED:winnie}我是说一波波的僵尸。
+{TIRED:winnie}Ich meine die Zombiewellen.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_C_1]
-{NPC_ENTER:crazydave}{PLAYFUL}我们的船上载满了阳光。
+{NPC_ENTER:crazydave}{PLAYFUL}Unser Schiff ist voller Sonnenschein.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_C_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}是啊，都显得你有点多余了。
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Ja, du bist etwas überflüssig.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_C_3]
-{SPECIAL13:crazydave}啥-?
+{SPECIAL13:crazydave}Was?
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_A_1]
-{NPC_ENTER:winnie}{SAY}达成目标分数，看看你是否能击败我的高分。
+{NPC_ENTER:winnie}{SAY}Erreiche die Zielpunktzahl und schau, ob du meinen Highscore schlagen kannst.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_A_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}邻居，记得赢了后，署名“疯狂戴夫”。
+{NPC_ENTER:crazydave}{VERSPIELT:crazydave}Nachbar, vergiss nicht, „Crazy Dave“ zu unterschreiben, wenn du gewinnst.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_B_1]
-{NPC_ENTER:winnie}{TIRED}为什么突然出现了这么多海鸥？
+{NPC_ENTER:winnie}{MÜDE}Warum sind da plötzlich so viele Möwen?
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_B_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}无所谓，我们有加农炮，还有个高分等我们超越呢。
+{NPC_ENTER:crazydave}{AUFGEWUNDERT:crazydave}Macht nichts, wir haben Kanonen und einen Highscore, der darauf wartet, übertroffen zu werden.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_C_1]
-{NPC_ENTER:winnie}{SAY:winnie}恭喜你击败了我的分数。
+{NPC_ENTER:winnie}{SAG:winnie}Herzlichen Glückwunsch zu meinem Rekord.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_C_2]
-{TIRED:winnie}而且数据显示，你并没有作弊。
+{MÜDE:winnie}Und die Daten zeigen, dass du nicht geschummelt hast.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_C_3]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}他当然没有作弊，他只是用了金手指，哈哈！
+{NPC_ENTER:crazydave}{AUFGEWICKELT:crazydave}Natürlich hat er nicht geschummelt, er hat nur Cheat-Codes benutzt, haha!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_1]
-{NPC_ENTER:crazydave}{SAY}樱桃炸弹很厉害！
+{NPC_ENTER:crazydave}{SAG}Kirschbomben sind der Hammer!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_2]
-{PLAYFUL}一颗就能轰掉一片僵尸！
+{VERSPIELT}Man kann damit einen Haufen Zombies töten!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_3]
-{NPC_ENTER:winnie}{SAY:winnie}不要浪费，把它丢进僵尸群里吧。
+{NPC_ENTER:winnie}{SAG:winnie}Nicht verschwenden, sondern den Zombies überlassen.
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_B_1]
-{NPC_ENTER:crazydave}{SPECIAL12}椰子加农炮发射！！！
+{NPC_ENTER:crazydave}{SPECIAL12} Kokosnuss-Kanonenfeuer!!!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_C_1]
-{NPC_ENTER:crazydave}{TIRED}我感觉忘了什么东西。
+{NPC_ENTER:crazydave}{MÜDE}Ich glaube, ich habe etwas vergessen.
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_C_2]
-{NPC_ENTER:winnie}{SAY:winnie}向日葵？
+{NPC_ENTER:winnie}{SAG:winnie}Sonnenblumen?
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_C_3]
-{PLAYFUL:crazydave}不。是我的玉米卷。
+{PLAYFUL:crazydave}Nein. Meine Tacos.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_A_1]
-{NPC_ENTER:winnie}{SAY}记住，保护好那些豆子。
+{NPC_ENTER:winnie}{SAY}Denk dran, beschütze diese Bohnen.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_A_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}可别不管它们的死活啊！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ignoriere ihr Leben nicht!
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_B_1]
-{NPC_ENTER:crazydave}{PLAYFUL}那些弹簧豆生活在危机边缘。
+{NPC_ENTER:crazydave}{PLAYFUL}Diese Frühlingsbohnen leben am Rande der Gefahr.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_B_2]
-{NPC_ENTER:winnie}{SAY:winnie}面对“危险”，它们习以为常。
+{NPC_ENTER:winnie}{SAY:winnie}Sie sind es gewohnt, sich der Gefahr zu stellen.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_B_3]
-{PLAYFUL:winnie}有谁能把这个更新到图鉴里吗？
+{PLAYFUL:winnie}Kann das jemand in der Illustration aktualisieren?
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_C_1]
-{NPC_ENTER:crazydave}{SAY}现在清楚了，这些豆子已经被僵尸盯上了。
+{NPC_ENTER:crazydave}{SAY}Jetzt ist klar, dass die Bohnen von Zombies angegriffen werden.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_C_2]
-{EXCITED:crazydave}保护豆子们，一个都不能少！
+{EXCITED:crazydave}Schützt die Bohnen, lasst keine zurück!
 
 [NARRATIVE_PIRATE_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:winnie}我们的目标不是你的玉米卷么？
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:winnie}Haben wir es nicht auf eure Tacos abgesehen?
 
 [NARRATIVE_PIRATE_INTRO_FIRSTLEVEL_2]
-{SHOUT:crazydave}但那可是海盗啊！你不想看看他们的鹦鹉和假腿吗？
+{SHOUT:crazydave}Aber das sind Piraten! Willst du nicht ihre Papageien und Holzbeine sehen?
 
 [NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_1]
-{NPC_ENTER:crazydave}{SAY}{START_DIALOG_MUSIC}海盗生活确实精彩，可我有点头晕了，也许是想家了吧。
+{NPC_ENTER:crazydave}{SAY}{START_DIALOG_MUSIC} Das Piratenleben ist toll, aber mir ist etwas schwindelig. Vielleicht habe ich Heimweh.
 
 [NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_2]
-{TIRED}不，等等，其实是晕船了。
+{TIRED}Nein, warte, mir wird schlecht.
 
 [NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_3]
-{NPC_ENTER:winnie}{SAY:winnie}请摇下窗户。
+{NPC_ENTER:winnie}{SAY:winnie} Bitte kurbel das Fenster runter.
 
 [NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_4]
-{EXCITED:crazydave}没时间考虑这个。玉米卷等着我们去寻找！
+{EXCITED:crazydave}Keine Zeit, darüber nachzudenken. Es warten Tacos darauf, von uns gefunden zu werden!
 
 [NARRATIVE_PIRATE_WORLDMAP_INTRO_1]
-{NPC_ENTER:crazydaveicon}{SPECIAL11}我从小就想成为打击海盗的英雄。
+{NPC_ENTER:crazydaveicon}{SPECIAL11}Ich wollte schon als Kind ein Held sein und gegen Piraten kämpfen.
 
 [NARRATIVE_PIRATE_WORLDMAP_INTRO_2]
-{PLAYFUL}让我带一块甲板回去留作纪念吧！
+{PLAYFUL}Lass mich ein Stück des Decks als Souvenir mitnehmen!
 
 [NARRATIVE_PIRATE_WORLDMAP_INTRO_3]
-{NPC_ENTER:winnieicon}{TIRED}算了吧！我不太喜欢这里脏兮兮的甲板。
+{NPC_ENTER:winnieicon}{TIRED}Vergiss es! Ich mag die dreckigen Decks hier nicht wirklich.
 
 [NARRATIVE_PIRATE_ZOMBIENOTE_1]
-{NPC_ENTER:winnieicon}{SAY}看啊。这是张地图。
+{NPC_ENTER:winnieicon}{SAY}Sieh mal. Das ist eine Karte.
 
 [NARRATIVE_PIRATE_ZOMBIENOTE_2]
-{NPC_ENTER:crazydaveicon}{EXCITED}是宝藏地图！上面说没有僵尸。地图不会说谎！
+{NPC_ENTER:crazydaveicon}{AUFGEFROREN}Das ist eine Schatzkarte! Da steht, es gibt keine Zombies. Karten lügen nicht!
 
 [NARRATIVE_PIRATE_ZOMBIENOTE_3]
-{PLAYFUL:winnieicon}那我们的铲子可以派上用场了。
+{PLAYFUL:winnieicon}Dann könnte unsere Schaufel nützlich sein.
 
 [NARRATIVE_PIRATE_ZOMBIENOTE_4]
-{SHOUT:crazydaveicon}出发吧！争分夺秒啊！
+{SHOUT:crazydaveicon}Los geht's! Die Uhr tickt!
 
 [NARRATIVE_POWERUPS_TUTORIAL_INITIAL_1]
-{NPC_ENTER:winnie}{EXCITED}你现在可以打开神秘罐头了！
+{NPC_ENTER:winnie}{AUFGEFROREN}Du kannst jetzt die geheimnisvollen Dosen öffnen!
 
 [NARRATIVE_POWERUPS_TUTORIAL_INITIAL_2]
-{NPC_ENTER:crazydave}{SPECIAL6:crazydave}耶！让我们一起享受金手指的神奇力量吧！
+{NPC_ENTER:crazydave}{SPECIAL6:crazydave}Juhu! Lasst uns gemeinsam die magische Kraft der Cheat-Codes genießen!
 
 [NARRATIVE_POWERUPS_TUTORIAL_REPEAT_1]
-{NPC_ENTER:crazydave}你可以在这里试验你的金手指，免费！
+{NPC_ENTER:crazydave}Du kannst deine Cheat-Codes hier kostenlos testen!
 
 [NARRATIVE_STARGATE_INTRO_1]
-{NPC_ENTER:crazydaveicon}{SAY}这是什么？看上去像个上了锁的星星。
+{NPC_ENTER:crazydaveicon}{SAG}Was ist das? Es sieht aus wie ein verschlossener Stern.
 
 [NARRATIVE_STARGATE_INTRO_2]
-{EXCITED}我管它叫做……宇宙无敌魔幻星际霹雳门！！
+{AUFGEFROREN}Ich nenne es ... das unbezwingbare magische interstellare Donnertor des Universums!
 
 [NARRATIVE_STARGATE_INTRO_3]
-{NPC_ENTER:winnieicon}{TIRED}嗯..我觉得还是叫它时空之门吧。
+{NPC_ENTER:winnieicon}{MÜDE}Nun ... ich denke, wir sollten es das Tor von Raum und Zeit nennen.
 
 [NARRATIVE_STARGATE_INTRO_4]
-{SAY:winnieicon}我们只要获得时空钥匙就可以解锁这个门…
+{SAGEN:winnieicon}Wir können dieses Tor öffnen, wenn wir den Schlüssel zu Raum und Zeit bekommen ...
 
 [NARRATIVE_STARGATE_INTRO_5]
-{EXCITED:winnieicon}然后就可以进入到另一个时空旅行！
+{AUFGEFROREN:winnieicon}Dann können wir in eine andere Zeit und einen anderen Raum reisen!
 
 [NARRATIVE_STARGATE_INTRO_6]
-{SAY:winnieicon}地图显示了哪里有新的星星可以去获取！
+{SAGEN:winnieicon}Die Karte zeigt, wo es neue Sterne zu gewinnen gibt!
 
 [NARRATIVE_STARGATE_INTRO_7]
-{SAY:crazydaveicon}那么多星星，够疯狂！开工吧！
+{SAY:crazydaveicon}So viele Sterne, verrückt genug! Los geht's!
 
 [NARRATIVE_WIZARDFINGER_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}强化道具上线了，攻击
@@ -30248,83 +30248,86 @@ Demo
 [NARRATIVE_OUT_OF_CONTENT_SOON_9]
 {SAY:CRAZYDAVEICON}但是如果你在草坪上发现了我的玉米卷……
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY}你好，船长，
+{NPC_ENTER:ZOMBOSSICON}{SAY}Hallo, Kapitän,
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_2]
-{SAY:ZOMBOSSICON}请记住，你的帆船体积不足。
+{SAY:ZOMBOSSICON}Denken Sie daran, Ihr Segelboot ist zu klein.
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_3]
-{SAY:ZOMBOSSICON}诚挚的，埃德加 僵尸头头博士。
+{SAY:ZOMBOSSICON}Mit freundlichen Grüßen, Dr. Edgar Zombihead.
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_4]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{PLAYFUL:CRAZYDAVE}嗯？那是什么？
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{PLAYFUL:CRAZYDAVE}Hmm? Was ist das?
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_5]
-{TIRED:WINNIE}我们需要一艘更大的船。
+{TIRED:WINNIE}Wir brauchen ein größeres Schiff.
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_1]
-{NPC_ENTER:ZOMBOSSICON}我在你那破旧的时间机器上发现了一个神秘特质。
+{NPC_ENTER:ZOMBOSSICON}Ich habe eine mysteriöse Eigenschaft in deiner alten Zeitmaschine entdeckt.
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_2]
-{SAY:ZOMBOSSICON}它的本质特征与我自己的作品几乎完全一样。
+{SAY:ZOMBOSSICON}Ihre grundlegenden Merkmale sind fast identisch mit meinen eigenen Kreationen.
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_3]
-{SAY:ZOMBOSSICON}告诉我，潘妮最开始是怎么造出来的？
+{SAY:ZOMBOSSICON}Sag mir, wie wurde Penny überhaupt erschaffen?
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_4]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}难道我是僵尸机器人吗？
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}Bin ich ein Zombie-Roboter?
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_5]
-{TIRED:WINNIE}戴夫同学，我是僵尸博士的女儿吗？
+{TIRED:WINNIE}Dave, bin ich Dr. Zombies Tochter?
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_6]
-{NPC_ENTER:CRAZYDAVE}{PLAYFUL:CRAZYDAVE}那可真是个不错的三明治！那么，我错过了什么？
+{NPC_ENTER:CRAZYDAVE}{PLAYFUL:CRAZYDAVE}Das ist ein richtig gutes Sandwich! Was habe ich also verpasst?
 
 [NARRATIVE_PIRATE_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}终于，一个海盗掉落了战利品！ 
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Endlich hat ein Pirat Beute abgeworfen!
 
 [NARRATIVE_PIRATE_OUTRO_DANGER_ROOM_KEY_2]
-{PLAYFUL:WINNIE}我侦测到了比里面的宝藏更有挑战性的东西。 
+{PLAYFUL:WINNIE}Ich habe etwas entdeckt, das herausfordernder ist als der Schatz darin.
 
 [NARRATIVE_PIRATE_OUTRO_GARGANTUAR_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{PLAYFUL:WINNIE}这会非常有用！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{PLAYFUL:WINNIE}Das wird sehr nützlich sein!
 
 [NARRATIVE_PIRATE_OUTRO_GARGANTUAR_2]
-{SAY:WINNIE}有了它我们就能进入另一个世界。
+{SAY:WINNIE}Damit können wir eine andere Welt betreten.
 
 [NARRATIVE_PIRATE_OUTRO_GARGANTUAR_3]
-{TIRED:CRAZYDAVE}疯了！我还以为它可以把我们的船变大一点。
+{TIRED:CRAZYDAVE}Das ist ja Wahnsinn! Ich dachte, es würde unser Schiff größer machen.
+
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:WINNIE}求你了，告诉我你的创造过程吧。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:WINNIE}Bitte erzähl mir, wie du das gemacht hast.
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_2]
-{EXCITED:CRAZYDAVE}这很简单。我发现了一些乱七八糟的东西。
+{EXCITED:CRAZYDAVE}Das war einfach. Ich habe ein paar zufällige Dinge gefunden.
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_3]
-{SAY:CRAZYDAVE}我把它们放到两片面包中间……
+{SAY:CRAZYDAVE}Ich lege sie zwischen zwei Brotscheiben ...
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_4]
-{PLAYFUL:CRAZYDAVE}轰！超棒的三明治！
+{PLAYFUL:CRAZYDAVE}BUMM! Super Sandwich!
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_5]
-{NPC_EXIT:WINNIE}{NPC_EXIT:CRAZYDAVE}{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}真是毫无意义。我早该想到的。
+{NPC_EXIT:WINNIE}{NPC_EXIT:CRAZYDAVE}{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Das ist sinnlos. Daran hätte ich früher denken sollen.
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_6]
-{SAY:ZOMBOSSICON}总有一天我会得到答案的，戴夫的脑子会成为我的盘中之餐！
+{SAY:ZOMBOSSICON}Eines Tages werde ich die Antworten bekommen, und Daves Gehirn wird auf meinem Teller landen!
+
 [NARRATIVE_QUEST_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}潘妮，快看！在我的头上！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Penny, schau mal! Ich hab's auf dem Kopf!
 
 [NARRATIVE_QUEST_INTRO_2]
-{EXCITED:CRAZYDAVE}是旅行日志！
+{EXCITED:CRAZYDAVE}Es ist ein Reisetagebuch!
 
 [NARRATIVE_QUEST_INTRO_3]
-{PLAYFUL:CRAZYDAVE}那是什么，旅行日志？你会提供引导，进度查询和奖励？
+{PLAYFUL:CRAZYDAVE}Was ist das, ein Reisetagebuch? Gibt es Anleitungen, Fortschrittskontrollen und Belohnungen?
 
 [NARRATIVE_QUEST_INTRO_4]
-{SAY:WINNIE}日志不会说话的，戴夫同学。
+{SAY:WINNIE}Das Tagebuch spricht nicht, Dave-san.
 
 [NARRATIVE_QUEST_INTRO_5]
-{SAY:CRAZYDAVE}谢谢你，旅行日志！随便你吧！
+{SAY:CRAZYDAVE}Danke, Reisetagebuch! Was immer du willst!
+
 [NARRATIVE_STORE_INTRO_2]
 {NPC_ENTER:WINNIEICON}{EXCITED}最有趣的是，里面有特殊道具！ 
 
@@ -30466,9 +30469,9 @@ Oder
 [PLAYERS_EPIC_QUEST_GEMJAM]
 {PLAYER}的史诗宝石乐队任务！
 [PLAYERS_TRIP_TO_DINO]
-{PLAYER}的恐龙危机旅程！
+{PLAYER}s Reise in den Jurrasischen Moor!
 [PLAYERS_TRIP_TO_EIGHTIES]
-{PLAYER}的摇滚年代旅程
+{PLAYER}s Reise in die Neon Mixtape Tour!
 [PLAYERS_TRIP_TO_HOLIDAY]
 {PLAYER}的盛宴派对！
 [PLAYERS_TRIP_TO_LOD]
@@ -30477,7 +30480,7 @@ Oder
 [PLAYERS_TRIP_TO_LOD__BIRTHDAY]
 {PLAYER}的生日派对！
 [PLAYERS_TRIP_TO_MODERN]
-{PLAYER}的摩登世界之旅！
+{PLAYER}s Reise in die Moderne！
 [PLAYERS_TRIP_TO_PREVIEW]
 {PLAYER}的植物游乐园！
 [POWERUP_BEGHOULED_SHOVEL]
@@ -50511,555 +50514,559 @@ Magische Bohnenstangen können nicht gepflanzt werden auf Schienen
 {SAY:WINNIE}Pass auf die Nacht auf.
 
 [NARRATIVE_RENAI_7_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}嘿！那里有个像是在雕琢的家伙是在干嘛？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Hey! Was macht der Typ da drüben, der aussieht, als würde er schnitzen?
 
 [NARRATIVE_RENAI_7_INTRO_2]
-{SAY:WINNIE}那是雕刻家僵尸，它可以将原石雕刻成僵尸。
+{SAY:WINNIE}Das ist der Bildhauer-Zombie. Er kann aus einem rohen Stein einen Zombie schnitzen.
 
 [NARRATIVE_RENAI_7_INTRO_3]
-{EXCITED:CRAZYDAVE}看上去很有趣，我觉得我也有成为雕刻家的天分！
+{EXCITED:CRAZYDAVE}Sieht interessant aus. Ich glaube, ich habe auch das Talent zum Bildhauer!
 
 [NARRATIVE_RENAI_7_INTRO_4]
-{SAY:WINNIE}数据显示你的身材降低了99.9999%的成功率。
+{SAY:WINNIE}Daten zeigen, dass der Körper die Erfolgsrate um 99,9999 % reduziert.
 
 [NARRATIVE_RENAI_7_INTRO_5]
-{SAY:WINNIE}提前摧毁原石可以防止雕刻家僵尸雕刻出僵尸。
+{SAY:WINNIE}Wenn man den Rohstein vorher zerstört, kann man verhindern, dass der Zombie-Bildhauer einen Zombie schnitzt.
 
 [NARRATIVE_RENAI_14_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}那些家伙，穿的衣服好奇怪，还不好好走路！我敢打赌他们一定是喝醉了！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Die Typen tragen komische Klamotten und laufen nicht richtig! Ich wette, die sind betrunken!
 
 [NARRATIVE_RENAI_14_INTRO_2]
-{SAY:WINNIE}那是芭蕾舞僵尸，他们总是四个一组的出现。
+{SAY:WINNIE}Das sind Ballett-Zombies. Sie erscheinen immer in Vierergruppen.
 
 [NARRATIVE_RENAI_14_INTRO_3]
-{EXCITED:CRAZYDAVE}真是可怕的设定，四个人会需要分享同一个玉米卷吗？如果是这样，我宁愿一个人出场……
+{EXCITED:CRAZYDAVE}Was für ein schreckliches Szenario. Müssen sich vier Leute einen Taco teilen? Wenn ja, gehe ich lieber allein ...
 
 [NARRATIVE_RENAI_14_INTRO_4]
-{SAY:WINNIE}使用油橄榄可以阻止快速移动的芭蕾舞僵尸。
+{SAY:WINNIE}Benutze Olivenöl, um die schnellen Ballett-Zombies aufzuhalten.
 
 [NARRATIVE_RENAI_16_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}快看看那些石头雕像！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Sieh dir diese Steinstatuen an!
 
 [NARRATIVE_RENAI_16_INTRO_2]
-{SAY:WINNIE}那些是僵尸雕像，他们会在夜晚变成真正的僵尸，我们要趁着白天用工具解决他们！
+{SAY:WINNIE}Das sind Zombiestatuen. Nachts verwandeln sie sich in echte Zombies. Wir brauchen Werkzeuge, um sie tagsüber zu töten!
 
 [NARRATIVE_RENAI_16_INTRO_3]
-{EXCITED:CRAZYDAVE}这可真有意思哈哈哈！我敢打赌他们肯定是因为偷吃了玉米卷！
+{EXCITED:CRAZYDAVE}Das ist echt interessant, hahaha! Ich wette, sie haben die Tacos geklaut!
 
 [NARRATIVE_RENAI_16_INTRO_4]
-{SAY:WINNIE}注意工具数量有限。
+{SAY:WINNIE}Beachte, dass die Werkzeuge begrenzt sind.
 
 [NARRATIVE_HEIAN_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}哇！这里这里看上去像是有很多芥末味玉米卷的地方！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow! Hier gibt es bestimmt jede Menge Wasabi-Tacos!
 
 [NARRATIVE_HEIAN_1_INTRO_2]
-{SAY:WINNIE}欢迎加入新的时空旅程！这里是10世纪，平安时代的日本。
+{SAY:WINNIE}Willkommen zu einer neuen Zeitreise! Wir befinden uns im Japan des 10. Jahrhunderts, der Heian-Zeit.
 
 [NARRATIVE_HEIAN_1_INTRO_3]
-{SAY:WINNIE}探测仪显示我们正在富士山附近的一座神社里。
+{SAY:WINNIE}Der Detektor meldet, dass wir uns an einem Schrein in der Nähe des Fuji befinden.
 
 [NARRATIVE_HEIAN_1_INTRO_4]
-{EXCITED:CRAZYDAVE}看那些家伙的发型像不像玉米卷，没准他们头发里真的藏着玉米卷呢！
+{EXCITED:CRAZYDAVE}Die Typen haben Tacos im Haar, vielleicht sind ja welche im Haar!
 
 [NARRATIVE_HEIAN_1_INTRO_5]
-{SAY:WINNIE}根据扫描分析，他们的头发里面没有藏着玉米卷，而且他们戴的都是假发。
+{SAY:WINNIE}Laut Scan-Analyse haben sie keine Tacos im Haar versteckt, und sie tragen alle Perücken.
 
 [NARRATIVE_HEIAN_1_INTRO_6]
-{EXCITED:CRAZYDAVE}快看！那里的那个箱子是什么?呃！我猜是装玉米卷的餐盒？
+{EXCITED:CRAZYDAVE}Schau mal! Was ist das für eine Kiste da drüben? Äh! Ich schätze, es ist eine Taco-Lunchbox?
 
 [NARRATIVE_HEIAN_1_INTRO_7]
-{SAY:WINNIE}那是赛钱箱，合理运用不同的赛钱箱，它会帮助你更好的对付僵尸！
+{SAY:WINNIE}Das ist eine Geldkassette. Benutze verschiedene Geldkassetten richtig, das hilft dir, besser mit Zombies fertig zu werden!
 
 [NARRATIVE_HEIAN_1_INTRO_8]
-{SAY:WINNIE}当然，你得先往里面“投币”才行。喔，我是指你的能量豆
+{SAY:WINNIE}Natürlich musst du zuerst Münzen hineinwerfen. Oh, ich meine deine Energiebohnen.
 
 [NARRATIVE_HEIAN_1_INTRO_9]
-{SAY:WINNIE}阳光赛钱箱可以返回种在附近的植物的部分阳光。
-
+{SAY:WINNIE}Die Sonnenschein-Kasse kann einen Teil des Sonnenlichts an nahegelegene Pflanzen zurückgeben.
 
 [NARRATIVE_HEIAN_2_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}天呐！他们的手上抱着一根烟囱，而且还会冒火呢！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Oh mein Gott! Sie halten einen Schornstein in den Händen, und er brennt!
 
 [NARRATIVE_HEIAN_2_INTRO_2]
-{SAY:WINNIE}警告，那是花火僵尸，喷洒的烟花会把我们点着的！
+{SAY:WINNIE}Achtung, es ist ein Feuerwerkszombie. Das Feuerwerk, das sie versprühen, wird uns in Brand setzen!
 
 [NARRATIVE_HEIAN_2_INTRO_3]
-{EXCITED:CRAZYDAVE}哇！这火辣的感觉，他们是在里面加了辣椒酱吗？
+{EXCITED:CRAZYDAVE}Wow! Es ist so scharf! Haben sie Chilisauce dazugegeben?
 
 [NARRATIVE_HEIAN_2_INTRO_4]
-{SAY:WINNIE}冰莲的水滴可以浇灭花火筒喷出的烟花火苗。
+{SAY:WINNIE}Die Wassertropfen des Eislotus können die Flammen des Feuerwerks aus dem Feuerwerksrohr löschen.
 
 [NARRATIVE_HEIAN_2_INTRO_5]
-{EXCITED:CRAZYDAVE}那还等什么，快！
+{EXCITED:CRAZYDAVE}Worauf wartest du noch? Beeil dich!
 
 [NARRATIVE_HEIAN_3_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}噢！这是个不一般的赛钱箱，这次里面会装有玉米卷吗？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Oh! Das ist eine besondere Geldkassette. Sind diesmal Tacos drin?
 
 [NARRATIVE_HEIAN_3_INTRO_2]
-{SAY:WINNIE}留意赛钱箱上的图案，这个是能量赛钱箱，可以让附近的植物一起释放大招。
+{SAY:WINNIE}Achte auf das Muster auf der Geldkassette. Dies ist eine Energiekassette, die Pflanzen in der Nähe einen großen gemeinsamen Angriff auslösen kann.
 
 [NARRATIVE_HEIAN_4_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}还有其他的箱子吗？我希望有一个能装玉米卷的箱子！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Gibt es noch andere Kisten? Hoffentlich gibt es eine Kiste für Tacos!
 
 [NARRATIVE_HEIAN_4_INTRO_2]
-{SAY:WINNIE}亲爱的戴夫，暂时忘记玉米卷吧。这个是植物赛钱箱，
+{SAY:WINNIE}Lieber Dave, vergiss die Tacos erstmal. Dies ist die Geldkassette des Pflanzenwettbewerbs.
 
 [NARRATIVE_HEIAN_4_INTRO_3]
-{SAY:WINNIE}可以为你提供一个高阶植物，助你解决强力僵尸。
+{SAY:WINNIE} kann dir eine Pflanze mit hohem Level liefern, die dir hilft, mit mächtigen Zombies fertig zu werden.
 
 [NARRATIVE_HEIAN_5_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}那些家伙手里拿了好多东西！这是要来送礼吗？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Die Typen haben ganz schön was in der Hand! Wollen sie Geschenke verteilen?
 
 [NARRATIVE_HEIAN_5_INTRO_2]
-{SAY:WINNIE}请小心，他们是忍者小鬼僵尸，手里拿的是河豚,活的！
+{SAY:WINNIE} Vorsicht, das sind Ninja-Zombies, und sie halten lebende Kugelfische in der Hand!
 
 [NARRATIVE_HEIAN_5_INTRO_3]
-{EXCITED:CRAZYDAVE}这些家伙想干嘛？我敢打赌它们肯定是因为想偷吃我的玉米卷！
+{EXCITED:CRAZYDAVE} Was wollen die Typen? Ich wette, die wollen mir meine Tacos klauen!
 
 [NARRATIVE_HEIAN_5_INTRO_4]
-{SAY:WINNIE}该可能性的概率为0.01%。同时资料显示，他们是偷袭的专家。
+{SAY:WINNIE} Die Wahrscheinlichkeit dafür liegt bei 0,01 %. Und die Daten zeigen, dass sie Experten für Überraschungsangriffe sind.
 
 [NARRATIVE_HEIAN_5_INTRO_5]
-{SAY:WINNIE}但我们有千金藤，他可是处理这种忍者的专家。
+{SAY:WINNIE}Aber wir haben Senkinto, der ein Experte im Umgang mit diesen Ninjas ist.
 
 [NARRATIVE_HEIAN_6_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}呃，又是一个不同的箱子。反正里面也没有放玉米卷。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Äh, noch eine andere Kiste. Da sind sowieso keine Tacos drin.
 
 [NARRATIVE_HEIAN_6_INTRO_2]
-{SAY:WINNIE}对的，这个是跃升赛钱箱，可以让附近的植物和僵尸上升一阶，请小心使用。
+{SAY:WINNIE}Ja, das ist die Jump-Race-Kiste, mit der Pflanzen und Zombies in der Nähe eine Stufe höher steigen können. Bitte vorsichtig damit umgehen.
 
 [NARRATIVE_HEIAN_7_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}嘿！你闻到什么味道了么？玉米卷可比这玩意香一万倍！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Hey! Riechst du was? Ein Taco riecht 10.000 Mal besser als dieser!
 
 [NARRATIVE_HEIAN_7_INTRO_2]
-{SAY:WINNIE}戴夫，我没有鼻子，其次那是寿司师傅僵尸，他会做出相当美味的寿司，
+{SAY:WINNIE}Dave, ich habe keine Nase. Und zweitens ist das ein Sushi-Koch-Zombie. Er kann richtig leckeres Sushi machen.
 
 [NARRATIVE_HEIAN_7_INTRO_3]
-{SAY:WINNIE}让其他吃下去的僵尸变得更为难缠。
+{SAY:WINNIE}Es macht es für andere Zombies schwieriger, es zu essen.
 
 [NARRATIVE_HEIAN_7_INTRO_4]
-{SAY:WINNIE}不过,杓兰是一位特级厨师，正渴望着与这些寿司师傅进行美食对决。
+{SAY:WINNIE}Piaolan ist jedoch ein Spitzenkoch und brennt darauf, sich mit diesen Sushi-Köchen zu messen.
 
 [NARRATIVE_HEIAN_7_INTRO_5]
-{SAY:WINNIE}或许我们该让道了。
+{SAY:WINNIE}Vielleicht sollten wir nachgeben.
 
 [NARRATIVE_HEIAN_7_INTRO_6]
-{EXCITED:CRAZYDAVE}我是不是应该请他帮我做个玉米卷？
+{EXCITED:CRAZYDAVE}Soll ich ihn bitten, mir einen Taco zu machen?
 
 [NARRATIVE_HEIAN_11_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}哇！好大的风啊！感觉要把我的锅盔都吹掉了！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow! Was für ein starker Wind! Ich habe das Gefühl, mein Topfkuchen fliegt gleich weg!
 
 [NARRATIVE_HEIAN_11_INTRO_2]
-{SAY:WINNIE}资料显示，这个地方经常会有强风来袭，还有可能伴随着可怕的旋风，
+{SAY:WINNIE}Den Daten zufolge gibt es hier oft starken Wind, der von heftigen Wirbelstürmen begleitet sein kann.
 
 [NARRATIVE_HEIAN_11_INTRO_3]
-{SAY:WINNIE}这对我们的影响非常大。
+{SAY:WINNIE}Das hat große Auswirkungen auf uns.
 
 [NARRATIVE_HEIAN_11_INTRO_4]
-{EXCITED:CRAZYDAVE}哇哦！我们能对抗大自然的力量吗？
+{EXCITED:CRAZYDAVE}Wow! Können wir die Naturgewalten bekämpfen?
 
 [NARRATIVE_HEIAN_11_INTRO_5]
-{SAY:WINNIE}请使用石斛，他们可以挡住旋风，防止植物被吹走，种植一起的时候
+{SAY:WINNIE}Bitte verwendet Dendrobien. Sie können den Wirbelwind blockieren und verhindern, dass Pflanzen weggeweht werden. Zusammen gepflanzt,
 
 [NARRATIVE_HEIAN_11_INTRO_6]
-{SAY:WINNIE}还能团结起来提升力量。
+{SAY:WINNIE}Sie können sich auch zusammenschließen, um ihre Stärke zu erhöhen.
 
 [NARRATIVE_HEIAN_17_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}那些家伙，穿的衣服好奇怪，手里还拿着扇子！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Diese Typen tragen komische Klamotten und halten Fächer in der Hand!
 
 [NARRATIVE_HEIAN_17_INTRO_2]
-{EXCITED:CRAZYDAVE}我敢打赌他们一定很热了！
+{EXCITED:CRAZYDAVE}Ich wette, die sind heiß!
 
 [NARRATIVE_HEIAN_17_INTRO_3]
-{SAY:WINNIE}那是阴阳师僵尸，他们手里的是天狗的扇子，传说这把扇子可以招来强风。
+{SAY:WINNIE}Das sind Onmyoji-Zombies. Sie halten Tengus Fächer. Der Legende nach können diese Fächer starken Wind erzeugen.
 
 [NARRATIVE_HEIAN_17_INTRO_4]
-{EXCITED:CRAZYDAVE}啊哈！那确实会让大家都感觉凉快了。
+{EXCITED:CRAZYDAVE}Aha! Das wird bestimmt jedem ein cooles Gefühl geben.
 
 [NARRATIVE_HEIAN_13_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}你看他们，又戴帽子，又拿罐子的，这是要干嘛？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Sieh sie dir an. Sie tragen Hüte und halten Dosen. Was machen sie da?
 
 [NARRATIVE_HEIAN_13_INTRO_2]
-{SAY:WINNIE}经扫描，那是蓑衣僵尸，帽子可以防御投射攻击，
+{SAY:WINNIE}Nach dem Scannen ist es ein Zombie im Strohregenmantel. Der Hut schützt vor Projektilangriffen.
 
 [NARRATIVE_HEIAN_13_INTRO_3]
-{SAY:WINNIE}鱼篓可以吸收能量豆。
+{SAY:WINNIE}Der Fischkorb kann Energiebohnen absorbieren.
 
 [NARRATIVE_HEIAN_13_INTRO_3]
-{EXCITED:CRAZYDAVE}啊哈！那我们攻击正面不就行了？
+{EXCITED:CRAZYDAVE}Ahaha! Warum greifen wir dann nicht einfach von vorne an?
 
 [ZOMBIE_RENAI_WORKER]
-贵族僵尸
+Edler Zombie
 
 [ZOMBIE_RENAI_WORKER_DESCRIPTION]
-贵族僵尸特别喜欢聊艺术，“艺术才能体现我的高贵”他老是把这句话挂在嘴边。
+Der Edle Zombie spricht gerne über Kunst. „Kunst kann meinen Adel widerspiegeln.“ Das sagt er immer.
 
 [ZOMBIE_RENAI_WORKER_DESCRIPTION_HEADER]
-上流社会的普通贵族僵尸
+Ein gewöhnlicher Edelzombie der Oberschicht
 
 [ZOMBIE_RENAI_ARMOR1]
-路障贵族僵尸
+Edler Zombie mit Straßensperre
 
 [ZOMBIE_RENAI_ARMOR1_DESCRIPTION]
-某一天，贵族僵尸在路上捡到了这个路障，“这可比帽子艺术多了！”。
+Eines Tages entdeckte der Edle Zombie diese Straßensperre auf der Straße. „Das ist viel künstlerischer als ein Hut!“
 
 [ZOMBIE_RENAI_ARMOR1_DESCRIPTION_HEADER]
-带有花纹的锥形路障，在提升自己的贵族气质的同时还能提供一些保护。
+Die kegelförmige Straßensperre mit Mustern kann dein edles Temperament unterstreichen und dir Schutz bieten.
 
 [ZOMBIE_RENAI_ARMOR2]
-铁桶贵族僵尸
+Eiserner Fass-Zombie
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION]
-这个铁桶帽子在贵族僵尸里面可是奢侈品，一个就需要花费足足200个脑子购买。
+Dieser eiserne Fass-Hut ist ein Luxusartikel unter den edlen Zombies. Er kostet 200 Gehirne.
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION_HEADER]
-这个铁桶帽子能提供很好的保护，还是贵族阶级的象征。
+Dieser eiserne Fass-Hut bietet guten Schutz und ist zugleich ein Symbol der Adelsklasse.
 
 [ZOMBIE_RENAI_FLAG]
-贵族旗帜僵尸
+Edler Flaggen-Zombie
 
 [ZOMBIE_RENAI_FLAG_DESCRIPTION]
-贵族旗帜僵尸算是最趾高气昂的僵尸了，他最喜欢给其他僵尸发号施令，虽然其他僵尸也有点不满，可谁叫这是僵尸博士赠与的代表最高荣耀的旗帜呢。
+Der Edle Flaggen-Zombie ist der arroganteste Zombie. Er gibt anderen Zombies gerne Befehle. Obwohl andere Zombies etwas unzufrieden sind, ist dies die Flagge, die Dr. Zombie ihm als Zeichen höchster Ehre überreicht hat.
 
 [ZOMBIE_RENAI_FLAG_DESCRIPTION_HEADER]
-标志着一大波贵族僵尸的登场。
+Sie markiert das Erscheinen einer großen Anzahl edler Zombies.
 
 [ZOMBIE_RENAI_GARGANTUAR]
-贵族巨人僵尸
+Edler Riesenzombie
 
 [ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION_HEADER]
-老是偷走雕刻家小鬼僵尸的雕像。
+Stiehlt immer die Statuen des Bildhauer-Wichtelzombie.
 
 [ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害：{STAT}用僵尸雕像砸扁植物
-{KEYWORD}特点：{STAT}受到伤害时扔出雕刻家小鬼僵尸
+{KEYWORD}Schaden:{STAT}Zerschmettert Pflanzen mit Zombiestatuen.
 
-{FLAVOR}贵族巨人僵尸是阶级最高的贵族僵尸，但是他根本找不到称手的武器，没办法，只好去“借”一个。“贵族僵尸的事，怎么能叫偷呢，是借，借！！”
+{KEYWORD}Eigenschaften:{STAT}Wirft bei Schaden den Bildhauer-Wichtelzombie.
+
+{FLAVOR}Edler Riesenzombie ist die höchste Klasse der Edlen Zombies, findet aber keine passende Waffe und muss sich eine leihen. „Wie kann man das für Edlen Zombie stehlen? Es ist leihen, leihen!!“
 
 [ZOMBIE_RENAI_PERFUMER]
-调香师僵尸
+Parfüm-Zombie
 
 [ZOMBIE_RENAI_PERFUMER_DESCRIPTION]
-调香师僵尸手工制作的香水在贵族僵尸里面可是抢手货，没点关系可是根本买不到的。“作为贵族怎么能不喷点香水呢？再多喷一点，多喷一点，闻起来。。。嗯，更好吃了！！”
+Das handgemachte Parfüm des Parfüm-Zombies ist unter den edlen Zombies ein begehrtes Gut und ohne Beziehungen nicht zu bekommen. „Wie kann ich als Adliger da auf Parfüm verzichten? Sprüh mehr, sprüh mehr, es riecht … na ja, noch besser!!“
 
 [ZOMBIE_RENAI_PERFUMER_DESCRIPTION_HEADER]
-抛出对植物有毒的香水瓶，让植物无法攻击并受到伤害。
+Wirf eine Flasche Parfüm, das für Pflanzen giftig ist und sie unfähig macht, anzugreifen und Schaden zu nehmen.
 
 [ZOMBIE_RENAI_BALLET]
-芭蕾舞僵尸
+Ballett-Zombie
 
 [ZOMBIE_RENAI_BALLET_DESCRIPTION]
-“旋转，跳跃，我闭着眼”芭蕾舞僵尸最喜欢这首歌了。
+„Dreh dich, spring, ich schließe meine Augen“ – dieses Lied gefällt dem Ballet-Zombie am besten.
 
 [ZOMBIE_RENAI_BALLET_DESCRIPTION_HEADER]
-芭蕾舞僵尸会同时出来四只，跳芭蕾的时候还会变道！
+Vier Ballett-Zombies erscheinen gleichzeitig und wechseln beim Balletttanz die Bahnen!
 
 [ZOMBIE_RENAI_GLIDING]
-飞行器僵尸
+Flugmaschinen-Zombie
 
 [ZOMBIE_RENAI_GLIDING_DESCRIPTION]
-飞行器僵尸自称“达芬僵”，看看他新造的飞行器！如果掉下来那是僵尸体重问题，与产品无关。
+Der Flugmaschinen-Zombie nennt sich selbst „Da Vinci“. Sieh dir seine neue Flugmaschine an! Wenn sie abstürzt, liegt das am Gewicht des Zombies, nicht am Produkt.
 
 [ZOMBIE_RENAI_GLIDING_DESCRIPTION_HEADER]
-飞行器僵尸可以从空中跨过地面的防御和障碍，要是飞行器坠毁的时候不小心压倒植物就惨了。
+Der Flugmaschinen-Zombie kann Bodenverteidigungen und Hindernisse aus der Luft überwinden. Es wäre schrecklich, wenn die Flugmaschine beim Absturz versehentlich Pflanzen zerquetschen würde.
 
 [ZOMBIE_RENAI_CARVER]
-雕刻家小鬼僵尸
+Bildhauer-Wichtel-Zombie
 
 [ZOMBIE_RENAI_CARVER_DESCRIPTION]
-你听过“断臂的贵族僵尸”这个雕像没？这就是雕刻家小鬼僵尸雕刻的。雕刻家小鬼僵尸特别喜欢一整块的原石，这能激发出他的艺术灵感。
+Kennt ihr schon die Statue des „Edelen Zombies mit gebrochenen Armen“? Dies ist die Skulptur des Bildhauer-Wichtel-Zombies. Bildhauer-Wichtel-Zombies mögen besonders ein ganzes Stück Rohstein, das ihn künstlerisch inspirieren kann.
 
 [ZOMBIE_RENAI_CARVER_DESCRIPTION_HEADER]
-将原石雕刻成僵尸雕像，同时让他提早复活。
+Meißelt aus dem Rohstein eine Zombiestatue und lasst ihn vorzeitig wiederbeleben.
 
 [ZOMBIE_ROMAN]
-罗马僵尸
+Römischer Zombie
 
 [ZOMBIE_ROMAN_DESCRIPTION]
-最基本的罗马军团僵尸。
+Der einfachste römische Legionärs-Zombie.
 
 [ZOMBIE_ROMAN_DESCRIPTION_HEADER]
-他不确定“小数”是什么意思。
+Er ist sich nicht sicher, was „dezimal“ bedeutet.
 
 [ZOMBIE_ROMAN_ARMOR1]
-罗马路障僵尸
+Römischer Barrikaden-Zombie
 
 [ZOMBIE_ROMAN_ARMOR1_DESCRIPTION]
-大理石制成的交通路障提供了一些保护。
+Verkehrsbarrieren aus Marmor bieten einen gewissen Schutz.
 
 [ZOMBIE_ROMAN_ARMOR1_DESCRIPTION_HEADER]
-古罗马有足够的交通量来证明路障的合理性吗?历史学家说法不一。这是一场真正的辩论。
+Gab es im antiken Rom genug Verkehr, um Straßensperren zu rechtfertigen? Historiker sind sich uneinig. Es ist eine echte Debatte.
 
 [ZOMBIE_ROMAN_ARMOR2]
-罗马铁桶僵尸
+Römischer Fass-Zombie
 
 [ZOMBIE_ROMAN_ARMOR2_DESCRIPTION]
-一个有点花哨的水桶将这个僵尸与其他普通僵尸区分开来。
+Ein etwas ausgefallener Eimer unterscheidet diesen Zombie vom Rest der Meute.
 
 [ZOMBIE_ROMAN_ARMOR2_DESCRIPTION_HEADER]
-他们在古罗马就有这样的水桶，相信我。
+Glaub mir, solche Eimer gab es im alten Rom.
 
 [ZOMBIE_ROMAN_ARMOR3]
-百夫长僵尸
+Zenturio-Zombie
 
 [ZOMBIE_ROMAN_ARMOR3_DESCRIPTION]
-更高等级的罗马僵尸。
+Ein römischer Zombie höherer Stufe.
 
 [ZOMBIE_ROMAN_ARMOR3_DESCRIPTION_HEADER]
-您是否知道在古罗马，百夫长统治了一个世纪？那不疯狂吗？
+Wusstest du, dass im alten Rom Zenturionen ein Jahrhundert lang herrschten? Ist das nicht verrückt?
 
 [ZOMBIE_ROMAN_ARMOR4]
-石像僵尸
+Steinstatuen-Zombie
 
 [ZOMBIE_ROMAN_ARMOR4_DESCRIPTION]
-一个半身像意味着这个罗马僵尸可以承受更严重的打击。
+Eine Büste bedeutet, dass dieser römische Zombie härtere Schläge einstecken kann.
 
 [ZOMBIE_ROMAN_ARMOR4_DESCRIPTION_HEADER]
-半身像僵尸属于博物馆，上面有一个大牌子，上面写着“警告:这是僵尸!”
+Die Zombiebüste gehört ins Museum, mit einem großen Schild mit der Aufschrift „Achtung: Dies ist ein Zombie!“
 
 [ZOMBIE_ROMAN_FLAG]
-罗马旗帜僵尸
+Römischer Flaggen-Zombie
 
 [ZOMBIE_ROMAN_FLAG_DESCRIPTION]
-这个标志表明有更多的僵尸在路上!
+Dieses Schild zeigt an, dass weitere Zombies unterwegs sind!
 
 [ZOMBIE_ROMAN_FLAG_DESCRIPTION_HEADER]
-在古罗马，旗帜经常被用于战场上指挥部队的行动。不过，说吧:你到底需要往左挪多少方向?
+Im alten Rom wurden Flaggen oft verwendet, um die Truppenbewegungen auf dem Schlachtfeld zu lenken. Aber sag mir: Wie weit nach links musst du dich wirklich bewegen?
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC]
-罗马盾牌僵尸
+Römischer Schild-Zombie
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC_DESCRIPTION]
-一个愚蠢的，异常害羞的罗马僵尸，也拿着一个盾牌。
+Ein alberner, ungewöhnlich schüchterner römischer Zombie, der ebenfalls einen Schild trägt.
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC_DESCRIPTION_HEADER]
-盾牌保护他不受坏评论和伤害性的评论。
+Der Schild schützt ihn vor schlechten Bewertungen und verletzenden Kommentaren.
 
 [ZOMBIE_ROMAN_SHIELD_PAIR]
-罗马盾牌僵尸
+Römischer Schildzombie
 
 [ZOMBIE_ROMAN_SHIELD_PAIR_DESCRIPTION]
-一个愚蠢的，异常害羞的罗马僵尸，也拿着一个盾牌。
+Ein alberner, ungewöhnlich schüchterner römischer Zombie, der ebenfalls einen Schild trägt.
 
 [ZOMBIE_ROMAN_SHIELD_PAIR_DESCRIPTION_HEADER]
-盾牌保护他不受坏评论和伤害性的评论。
+Der Schild schützt ihn vor schlechten Bewertungen und verletzenden Kommentaren.
 
 [ZOMBIE_ROMAN_IMP]
-罗马小鬼僵尸
+Römischer Wichtelzombie
 
 [ZOMBIE_ROMAN_IMP_DESCRIPTION]
-小鬼僵尸戴着一个狮子模型。
+Der Wichtelzombie trägt eine Löwenfigur.
 
 [ZOMBIE_ROMAN_IMP_DESCRIPTION_HEADER]
-像所有的小鬼僵尸一样，罗马小鬼僵尸总是出现在你最不需要他的地方。
+Wie alle Wichtelzombie taucht auch der römische Wichtelzombie immer dort auf, wo man ihn am wenigsten braucht.
 
 [ZOMBIE_ROMAN_GARGANTUAR]
-罗马巨人僵尸
+Römischer Riesenzombie
 
 [ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION]
-戴头盔，投掷小鬼僵尸和网，这是一份真正的工作。
+Helm tragen, mit Zombie-Kobolden und Netzen um sich werfen – das ist ein echter Job.
 
 [ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION_HEADER]
-他从来不害怕使用他的圆柱。
+Er scheut sich nie, seine Säule zu benutzen.
 
 [ZOMBIE_ROMAN_HEALER]
-治愈者僵尸
+Heiler-Zombie
 
 [ZOMBIE_ROMAN_HEALER_DESCRIPTION]
-使用奇怪的罗马魔法治疗僵尸。
+Heilt Zombies mit seltsamer römischer Magie.
 
 [ZOMBIE_ROMAN_HEALER_DESCRIPTION_HEADER]
-温馨提示:如果你不想让自己的生活陷入悲惨和绝望的深渊，就尽快把这个臭家伙给干掉。
+Wichtiger Tipp: Wenn du nicht willst, dass dein Leben in Elend und Verzweiflung versinkt, töte diesen Stinker so schnell wie möglich.
 
 [ZOMBIE_ELITE_ROMAN_HEALER]
-精英治愈者僵尸
+Elite-Heiler-Zombie
 
 [ZOMBIE_ELITE_ROMAN_HEALER_DESCRIPTION]
-现在它会不仅会用奇怪的罗马魔法治疗全场僵尸，还会让它们无敌。
+Jetzt heilt er nicht nur alle Zombies mit seltsamer römischer Magie, sondern macht sie auch unbesiegbar.
 
 [ZOMBIE_ELITE_ROMAN_HEALER_DESCRIPTION_HEADER]
-通常治愈者僵尸只会对其他僵尸释放治愈魔法，直到有一天他被恶魔击败，灵魂来到雪山之巅击败了一只巨龙，从此这只老僵尸打开了新的大门，而神杖则得到了更大的魔力。
+Normalerweise wirkt der Heiler-Zombie nur auf andere Zombies Heilmagie, bis er eines Tages vom Teufel besiegt wurde und seine Seele auf den Gipfel des schneebedeckten Berges gelangte und einen Drachen besiegte. Seitdem hat dieser alte Zombie eine neue Tür geöffnet und sein Zauberstab verfügt über größere Magie.
 
 [ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_NORMAL]
-精英治愈者僵尸
+Elite-Heiler-Zombie
 
 [ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_NORMAL_DESCRIPTION]
-现在它会不仅会用奇怪的罗马魔法治疗全场僵尸，还会让它们无敌。
+Jetzt heilt er nicht nur alle Zombies mit seltsamer römischer Magie, sondern macht sie auch unbesiegbar.
 
 [ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_NORMAL_DESCRIPTION_HEADER]
-通常治愈者僵尸只会对其他僵尸释放治愈魔法，直到有一天他被恶魔击败，灵魂来到雪山之巅击败了一只巨龙，从此这只老僵尸打开了新的大门，而神杖则得到了更大的魔力。
+Normalerweise wirkt der Heiler-Zombie nur Heilmagie auf andere Zombies, bis er eines Tages vom Teufel besiegt wurde und seine Seele auf den Gipfel des schneebedeckten Berges gelangte und einen Drachen besiegte. Seitdem hat dieser alte Zombie eine neue Tür geöffnet und sein Stab hat größere magische Kräfte erlangt.
 
 [ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_HARD]
-精英治愈者僵尸
+Elite-Heiler-Zombie
 
 [ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_HARD_DESCRIPTION]
-现在它会不仅会用奇怪的罗马魔法治疗全场僵尸，还会让它们无敌。
+Jetzt heilt er nicht nur alle Zombies mit seltsamer römischer Magie, sondern macht sie auch unbesiegbar.
 
 [ZOMBIE_ELITE_ROMAN_HEALER_PVZ1_HARD_DESCRIPTION_HEADER]
-通常治愈者僵尸只会对其他僵尸释放治愈魔法，直到有一天他被恶魔击败，灵魂来到雪山之巅击败了一只巨龙，从此这只老僵尸打开了新的大门，而神杖则得到了更大的魔力。
+Normalerweise wirkt der Heiler-Zombie nur Heilmagie auf andere Zombies, bis er eines Tages vom Teufel besiegt wurde und seine Seele auf den Gipfel des schneebedeckten Berges gelangte und einen Drachen besiegte. Seitdem hat dieser alte Zombie eine neue Tür geöffnet und sein Stab hat größere magische Kraft erlangt.
 
 [ZOMBIE_ROMAN_BALLISTA]
-罗马攻城车
+Römisches Belagerungsfahrzeug
 
 [ZOMBIE_ROMAN_BALLISTA_DESCRIPTION]
-天呐!那个爆炸的花瓶里面居然藏有一个僵尸!这实在太令人惊讶了！
+Oh mein Gott! In dieser explodierenden Vase versteckt sich ein Zombie! Das ist wirklich überraschend!
 
 [ZOMBIE_ROMAN_BALLISTA_DESCRIPTION_HEADER]
-一辆来自古罗马的攻城车，攻城车僵尸向它的视野内最近的植物发射一个爆炸的花瓶
+Ein Belagerungsfahrzeug aus dem antiken Rom. Der Zombie schleudert eine explodierende Vase auf die nächstgelegene Pflanze in seinem Sichtfeld.
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA]
-精英罗马攻城车
+Elite-Belagerungsfahrzeug der Römer
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_DESCRIPTION]
-天呐!那些爆炸的花瓶里面居然除了僵尸还有鸡!这实在太令人难过了！
+Oh mein Gott! In diesen explodierenden Vasen befinden sich tatsächlich Hühner und Zombies! Das ist so traurig!
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_DESCRIPTION_HEADER]
-操纵这一辆攻城车的僵尸从小就与其他僵尸与众不同，他缺乏对幽默、讽刺的理解，习惯于显摆他超常的智商，由他亲手改造的攻城车虽然能一次丢出更多的花瓶，但由于他的坏人缘使得很少有僵尸愿意进入他的花瓶，这就导致他不得不往里面塞进去很多的鸡。
-
+Der Zombie, der dieses Belagerungsfahrzeug bedient, unterscheidet sich schon seit seiner Kindheit von anderen Zombies. Ihm fehlt das Verständnis für Humor und Ironie, und er ist es gewohnt, mit seinem außergewöhnlichen IQ anzugeben. Obwohl sein selbst modifiziertes Belagerungsfahrzeug mehrere Vasen gleichzeitig werfen kann, wagen sich aufgrund seiner geringen Popularität nur wenige Zombies in seine Vasen, weshalb er jede Menge Hühner hineinstopft.
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL]
-精英罗马攻城车
+Elite-Römisches Belagerungsfahrzeug
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL_DESCRIPTION]
-天呐!那些爆炸的花瓶里面居然除了僵尸还有鸡!这实在太令人难过了！
+Oh mein Gott! In diesen explodierenden Vasen befinden sich tatsächlich Hühner und Zombies! Das ist so traurig!
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL_DESCRIPTION_HEADER]
-操纵这一辆攻城车的僵尸从小就与其他僵尸与众不同，他缺乏对幽默、讽刺的理解，习惯于显摆他超常的智商，由他亲手改造的攻城车虽然能一次丢出更多的花瓶，但由于他的坏人缘使得很少有僵尸愿意进入他的花瓶，这就导致他不得不往里面塞进去很多的鸡。
+Der Zombie, der dieses Belagerungsfahrzeug steuert, unterscheidet sich schon seit seiner Kindheit von anderen Zombies. Ihm fehlt das Verständnis für Humor und Ironie, und er ist es gewohnt, mit seinem außergewöhnlichen IQ anzugeben. Obwohl sein selbst modifiziertes Belagerungsfahrzeug mehrere Vasen gleichzeitig werfen kann, wagen sich aufgrund seiner geringen Popularität nur wenige Zombies in seine Vasen, sodass er gezwungen ist, eine Menge Hühner hineinzustopfen.
+
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD]
-精英罗马攻城车
+Elite Roman BALLISTA
+
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD_DESCRIPTION]
-天呐!那些爆炸的花瓶里面居然除了僵尸还有鸡!这实在太令人难过了！
+Oh mein Gott! Diese explodierenden Vasen sind nicht nur mit Zombies, sondern auch mit Hühnern gefüllt! Das ist so traurig!
+
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD_DESCRIPTION_HEADER]
-操纵这一辆攻城车的僵尸从小就与其他僵尸与众不同，他缺乏对幽默、讽刺的理解，习惯于显摆他超常的智商，由他亲手改造的攻城车虽然能一次丢出更多的花瓶，但由于他的坏人缘使得很少有僵尸愿意进入他的花瓶，这就导致他不得不往里面塞进去很多的鸡。
+Der Zombie, der dieses Belagerungsfahrzeug steuert, unterscheidet sich schon seit seiner Kindheit von anderen Zombies. Ihm fehlt das Verständnis für Humor und Ironie, und er ist es gewohnt, mit seinem außergewöhnlichen IQ anzugeben. Obwohl das von ihm modifizierte Belagerungsfahrzeug mehrere Vasen gleichzeitig werfen kann, sind aufgrund seiner geringen Popularität nur wenige Zombies bereit, in seine Vasen einzudringen, was ihn dazu zwingt, eine Menge Hühner hineinzustopfen.
 
 [ZOMBIE_ZOMBIE_JALAPENO]
-辣椒僵尸
 
 [ZOMBIE_ZOMBIE_JALAPENO_DESCRIPTION]
-{KEYWORD}特点：{STAT}接触到植物后，会引爆并秒杀一行所有的植物
-{KEYWORD}弱点：{STAT}被植物吞掉后，便不会引起爆炸。
+{KEYWORD}Eigenschaften:{STAT}Berührt er Pflanzen, explodiert er und tötet sofort alle Pflanzen in der Reihe.
+{KEYWORD}Schwäche:{STAT}Wenn er von Pflanzen verschluckt wird, verursacht er keine Explosion.
 
-{FLAVOR}谁都知道在他的面前要谨言慎行，这都源自于他那“一点就着”的暴脾气。不过，要是邀请他吃那久负盛名的“脑锅”，想必他也一定不会拒绝。不过奇怪的是，就算是在僵友面前，他也总是一直带着这幅奇怪的头套。
+{FLAVOR}Jeder weiß, dass man in seiner Gegenwart vorsichtig sein sollte, was an seinem aufbrausenden Temperament liegt. Wenn man ihn jedoch einlädt, den berühmten „Gehirntopf“ zu essen, wird er definitiv nicht ablehnen. Das Seltsame ist jedoch, dass er selbst vor seinen Zombiefreunden immer diese seltsame Kopfbedeckung trägt.
 
 [ZOMBIE_ZOMBIE_JALAPENO_DESCRIPTION_HEADER]
-来自神秘时空的植物头僵尸，别让他碰到你的任何植物！！
+Ein pflanzenköpfiger Zombie aus einer mysteriösen Zeit und einem mysteriösen Raum. Lass ihn keine deiner Pflanzen berühren!
 
 [ZOMBIE_ZOMBIE_EXPLODENUT]
-爆炸坚果僵尸
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION]
-{KEYWORD}特点：{STAT}死亡后会对周围的植物造成大量的伤害！
-{KEYWORD}弱点：{STAT}被植物吞掉后，便不会引起爆炸。
+{KEYWORD}Eigenschaften:{STAT}Verursacht nach seinem Tod großen Schaden an den umliegenden Pflanzen!
 
-{FLAVOR}谁都不知道他从哪里来，就好像他是凭空出现的一样，神秘的植物头更是吸引了众多僵尸的目光，最新的《僵脑晚报》中报道了他曾出现的场所，“头套俱乐部”，哦~好吧，知僵知面不知心不是么？
+{KEYWORD}Schwäche:{STAT}Verursacht keine Explosion, nachdem er von Pflanzen verschluckt wurde.
+
+{FLAVOR}Niemand weiß, woher er kam, als wäre er aus dem Nichts erschienen. Der mysteriöse Pflanzenkopf hat die Aufmerksamkeit vieler Zombies auf sich gezogen. Die neuesten „Zombie Evening News“ berichteten über den Ort, an dem er einst erschien: den „Headgear Club“. Na ja, du kennst das Gesicht von Zombies, aber nicht ihr Herz, oder?
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
-来自神秘时空的植物头僵尸，别让他死亡时距离你的植物太近！
+Der Pflanzenkopf-Zombie aus der mysteriösen Zeit und dem mysteriösen Raum. Lass ihn nicht zu nahe an deine Pflanzen kommen, wenn er stirbt!
 
 [ZOMBIE_ZOMBIE_SNOWPEA]
-寒冰豌豆僵尸
+Eis-Erbsen-Zombie
 
 [ZOMBIE_ZOMBIE_SNOWPEA_DESCRIPTION]
-{KEYWORD}特点：{STAT}会射出让植物减速的寒冰豌豆
-{KEYWORD}弱点：{STAT}颈椎不好，不会低头射击地刺它们
+{KEYWORD}Eigenschaften:{STAT}Schießt Eis-Erbsen, die Pflanzen verlangsamen.
 
-{FLAVOR}“我们生来如此，这并不可怕”他淡然的说到，“我们自始至终不过是吃脑棋中的一枚棋子罢了”，没人知道他这句话所带来的的含义，更没人愿意去理解，毕竟有谁会在意喜欢带着头套的疯子说的话呢。
+{KEYWORD}Schwäche:{STAT}Halswirbel sind nicht gut, kann den Kopf nicht senken, um zu schießen und zu stechen.
+
+{FLAVOR}„Wir sind so geboren, das ist nicht schlimm“, sagte er ruhig. „Wir sind von Anfang bis Ende nur eine Schachfigur in diesem hirnfressenden Schachspiel.“ Niemand kennt die Bedeutung seiner Worte, und niemand will sie verstehen. Wen interessiert schon, was ein Verrückter sagt, der gerne eine Maske trägt?
 
 [ZOMBIE_ZOMBIE_SNOWPEA_DESCRIPTION_HEADER]
-来自神秘时空的植物头僵尸，当心他的寒冰子弹！
+Pflanzenkopf-Zombie aus mysteriöser Zeit und Raum, hüte dich vor seinen Eisgeschossen!
 
 [ZOMBIE_ZOMBIE_GATLINGPEA]
-机枪豌豆僵尸
+Maschinengewehr-Erbsen-Zombie
 
 [ZOMBIE_ZOMBIE_GATLINGPEA_DESCRIPTION]
-{KEYWORD}特点：{STAT}火力强大！会不断射出豌豆子弹！
-{KEYWORD}弱点：{STAT}颈椎不好，不会低头射击地刺它们
+{KEYWORD}Eigenschaften:{STAT}Starke Feuerkraft! Schießt ständig Erbsengeschosse!
 
-{FLAVOR}ZVP MKII的强大火力让他在任何时候，都能用最帅气的姿态迎接挑战，不管你承不承认，这玩意儿已经是他在群僵面前的标签了。以至于在公共场合，大家最先记起的不是他的名字，而是“那个带着奇怪头套的家伙”，这难免让他有些受伤。
+{KEYWORD}Schwäche:{STAT}Halswirbel sind nicht gut, Kopf kann nicht gesenkt werden, um zu schießen und zu stechen.
+
+{FLAVOR}Die hohe Feuerkraft des ZVP MKII ermöglicht es ihm, Herausforderungen jederzeit mit der besten Ausstrahlung zu meistern. Ob man es nun zugibt oder nicht, dieses Ding ist vor einer Gruppe von Zombies zu seinem Markenzeichen geworden. So sehr, dass sich die Leute in der Öffentlichkeit nicht als Erstes an seinen Namen erinnern, sondern an „den Typ mit der seltsamen Kapuze“, was ihn unweigerlich ein wenig verletzt.
 
 [ZOMBIE_ZOMBIE_GATLINGPEA_DESCRIPTION_HEADER]
-来自神秘时空的植物头僵尸，他的火力十分凶猛，快找掩体！
+Ein pflanzenköpfiger Zombie aus einer mysteriösen Zeit und einem mysteriösen Raum. Seine Feuerkraft ist enorm. Sucht schnell Deckung!
 
 [ZOMBIE_HEIAN_WORKER]
-武士僵尸
+Samurai-Zombie
 
 [ZOMBIE_HEIAN_WORKER_DESCRIPTION]
-戴上月代头的假发后，他就是一名入门武士了。
+Nachdem er eine Perücke mit Haarknoten getragen hatte, ist er nun ein Samurai der Einstiegsklasse.
 
 [ZOMBIE_HEIAN_WORKER_DESCRIPTION_HEADER]
-将军巨人僵尸麾下的普通武士僵尸
+Ein gewöhnlicher Samurai-Zombie unter dem Kommando des General-Riesenzombie.
 
 [ZOMBIE_HEIAN_ARMOR1]
-武士路障僵尸
+Samurai-Straßensperren-Zombie
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION]
-虽然是一名武士，但是并没有配发武器，而是戴上了特色的“富脑山”路障。
+Obwohl er ein Samurai ist, trägt er keine Waffen, sondern die charakteristische „Fu Nao Shan“-Straßensperre.
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION_HEADER]
-带有雪顶的锥形路障，能在烈日下带给自己一丝清凉。
+Die kegelförmige Straßensperre mit der schneebedeckten Spitze sorgt für etwas Abkühlung in der sengenden Sonne.
 
 [ZOMBIE_HEIAN_ARMOR2]
-武士铁桶僵尸
+Samurai-Fass-Zombie
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION]
-这个铁丝桶帽子虽然看上去是木质的，但是周围那两圈可是货真价实的上漆铁圈。
+Dieser Drahtfass-Hut sieht zwar aus wie Holz, doch die beiden Kreise darum bestehen aus lackiertem Eisen.
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION_HEADER]
-这个铁丝桶帽子能提供很好的保护，至少武士僵尸们是这样觉得的。
+Dieser Drahtfass-Hut bietet guten Schutz – zumindest denken das die Samurai-Zombies.
 
 [ZOMBIE_HEIAN_FLAG]
-武士旗帜僵尸
+Samurai-Flaggen-Zombie
 
 [ZOMBIE_HEIAN_FLAG_DESCRIPTION]
-武士旗帜僵尸高举着战斗的旗帜，引领将军们的部下掠夺脑子。
+Der Samurai-Flaggen-Zombie hält die Kriegsflagge hoch und führt die Männer der Generäle zur Gehirnplünderung.
 
 [ZOMBIE_HEIAN_FLAG_DESCRIPTION_HEADER]
-标志着一大波武士僵尸的登场。
+Dies markiert die Ankunft einer großen Welle von Samurai-Zombies.
 
 [ZOMBIE_HEIAN_GARGANTUAR]
-将军巨人僵尸
+Riesiger Zombiegeneral
 
 [ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION_HEADER]
-手上的剑玉重若千钧。
+Das Kendama in seiner Hand wiegt 500 Kilogramm.
 
 [ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害：{STAT}用剑玉砸扁植物
-{KEYWORD}特点：{STAT}受到伤害时扔出忍者小鬼僵尸
+{KEYWORD}Schaden: {STAT}Zerschmettert Pflanzen mit dem Kendama.
+{KEYWORD}Funktionen: {STAT}Wirft Ninja-Kobold-Zombies bei Schaden aus.
 
-{FLAVOR}将军巨人僵尸是这片区域武士僵尸们的头领，在僵尸博士不在的时候，就由他带领其他武士僵尸收集脑子了。而手上的剑玉则是他由小玩到大的玩具，当然，型号也随着他长大而改大了。
+{FLAVOR}Riesiger Zombiegeneral ist der Anführer der Samurai-Zombies in diesem Gebiet. Wenn Dr. Zombie nicht da ist, führt er die anderen Samurai-Zombies zum Gehirnsammeln an. Das Kendama in seiner Hand ist ein Spielzeug, mit dem er seit seiner Kindheit spielt. Natürlich hat sich auch seine Größe mit zunehmendem Alter verändert.
 
 [ZOMBIE_HEIAN_SUSHI]
-寿司师傅僵尸
+Sushi-Koch Zombie
 
 [ZOMBIE_HEIAN_SUSHI_DESCRIPTION]
-从富脑山食堂出师，做出来的寿司广受僵尸们欢迎。
+Er begann als Sushi-Koch im Fu Nao Mountain Restaurant, und sein Sushi ist bei Zombies sehr beliebt.
 
 [ZOMBIE_HEIAN_SUSHI_DESCRIPTION_HEADER]
-寿司师傅僵尸的寿司虽然不能满足僵尸们对脑子的渴望，但是仍然对僵尸们有着致命的吸引力。
+Obwohl das Sushi von Sushi-Koch Zombie den Hunger der Zombies nach Gehirnen nicht stillen kann, übt es dennoch eine tödliche Anziehungskraft auf sie aus.
 
 [ZOMBIE_HEIAN_NINJA]
-忍者小鬼僵尸
+Ninja-Kobold Zombie
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION]
-忍者小鬼僵尸经常会用烟雾弹来告诉大家，他来了！
+Ninja-Kobold Zombie benutzt oft Rauchbomben, um alle auf sein Kommen aufmerksam zu machen!
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
-忍者小鬼僵尸手里的河豚非比寻常，上面的刺，可是真的刺。
+Der Kugelfisch in den Händen des Ninja-Wichtel-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
 
 [ZOMBIE_HEIAN_HANABI]
-花火僵尸
+Feuerwerk-Zombie
 
 [ZOMBIE_HEIAN_HANABI_DESCRIPTION]
-{KEYWORD}特点：{STAT}一旦失去花火僵尸的操持，烟花筒就会失控！！
-{KEYWORD}弱点：{STAT}请试着把他沾湿。
+{KEYWORD}Eigenschaften:{STAT}Sobald der Feuerwerk-Zombie die Kontrolle verliert, gerät auch die Feuerwerksröhre außer Kontrolle!
 
-{FLAVOR}Biu~~~Bang！火光真美妙。
+{KEYWORD}Schwäche:{STAT}Bitte versucht, ihn nass zu machen.
+
+{FLAVOR}Biu~~~Bang! Das Feuer ist so wunderschön.
 
 [ZOMBIE_HEIAN_HANABI_DESCRIPTION_HEADER]
-花火僵尸每天都尝试往家传的烟花筒里放入新的元素，除了他自己外谁也不知道该怎么使用他的烟花筒。
+Der Feuerwerk-Zombie versucht täglich, der familieneigenen Feuerwerksröhre neue Elemente hinzuzufügen. Niemand außer ihm selbst weiß, wie man seine Feuerwerksröhre benutzt.
 
 [NEW_AVATAR_PACKAGE]
 Dekorativer Rucksack
