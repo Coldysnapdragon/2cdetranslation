@@ -29621,189 +29621,190 @@ Demo
 {SAY:SOLARFLARE}我是说……绝不！
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}这些洞穴僵尸还真是死心眼！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Diese Höhlenzombies sind wirklich stur!
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_2]
-{TIRED:CRAZYDAVE}它们绝不接受“没有脑子”这种答案！
+{TIRED:CRAZYDAVE}Mit "kein Hirn" geben sie sich nicht zufrieden!
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_3]
-{PLAYFUL:WINNIE}根据我的数据显示，这些穴居僵尸的头骨比其它僵尸的头骨要硬百分之33.2。
+{PLAYFUL:WINNIE}Meinen Daten zufolge sind die Schädel dieser Höhlenzombies 33,2 % härter als die anderer Zombies.
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_4]
-{SAY:WINNIE}我建议我们部署甜菜守卫。他有深藏不露的绝活。
+{SAY:WINNIE}Ich schlage vor, wir schicken den Beet Guard. Er hat einen geheimen Trick.
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_5]
-{PLAYFUL:CRAZYDAVE}你是说他的那招“敲死你们”？
+{PLAYFUL:CRAZYDAVE}Meinst du seinen „Hau dich um“-Move?
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_6]
-{PLAYFUL:CRAZYDAVE}它能把那些僵尸敲回它们的老家！
+{PLAYFUL:CRAZYDAVE}Der haut die Zombies in ihre alten Häuser zurück!
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_7]
-{TIRED:WINNIE}我猜那已经不是秘密了，那么这就是戴夫同学了？
+{TIRED:WINNIE}Ich schätze, das ist kein Geheimnis mehr. Ist das also Dave?
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}警，警告，戴夫同学！我的防、放、防冻霜、不、不够用了！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}Warnung, Warnung, Dave! Mein Frostschutzmittel reicht nicht mehr!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_2]
-{TIRED:WINNIE}如果我的系统被、被冻、冻、冻住，我们就永远困在这里了！
+{MÜDE:WINNIE}Wenn mein System einfriert, einfriert, einfriert, stecken wir für immer hier fest!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_3]
-{EXCITED:CRAZYDAVE}就算是世界末日我也不会让这种事情发生的，潘妮！
+{AUFGEWICKELT:CRAZYDAVE}Das lasse ich nicht zu, selbst wenn es das Ende der Welt bedeutet, Penny!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_4]
-{SAY:CRAZYDAVE}是时候放出火焰豌豆射手了！ 
+{SAGEN:CRAZYDAVE}Es ist Zeit, die brennenden Erbsenkanonen loszulassen!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_5]
-{PLAYFUL:CRAZYDAVE}她可以对僵尸释放热能，还能为附近的朋友取暖！ 
+{VERSPIELT:CRAZYDAVE}Sie kann Hitzeenergie an Zombies abgeben und Freunde in der Nähe warmhalten!
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_8]
-{SAY:CRAZYDAVE}别担心！我们会明智的种植它们来阻挡僵尸寒流！
+{SAY:CRAZYDAVE}Keine Sorge! Wir pflanzen sie geschickt, um die Zombie-Kälte abzuwehren!
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}全球变冷最讨厌了！我们需要热浪！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}Die globale Abkühlung ist das Schlimmste! Wir brauchen eine Hitzewelle!
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_2]
-{SAY:WINNIE}同意。请记住，我已经把雪球换成了火球。
+{SAY:WINNIE}Einverstanden. Denk dran, ich habe die Schneebälle durch Feuerbälle ersetzt.
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_3]
-{SAY:WINNIE}火焰发射器强化可以融化寒冰，也能对僵尸造成伤害！
+{SAY:WINNIE}Das Flammenwerfer-Powerup schmilzt Eis und fügt Zombies Schaden zu!
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_4]
-{PLAYFUL:CRAZYDAVE}真不错！你知道吗，他们说复仇就像是冰淇淋，越冷酷越好！
+{PLAYFUL:CRAZYDAVE}Das ist super! Man sagt ja, Rache ist wie Eiscreme: Je kälter, desto besser!
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_5]
-{PLAYFUL:CRAZYDAVE}可我觉得，复仇是火锅！越热越好！热情似火！还要蘸着辣酱！
+{PLAYFUL:CRAZYDAVE}Aber ich finde Rache ist Hot Pot! Je schärfer, desto besser! Wahnsinnig scharf! Und mit scharfer Soße!
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_6]
-{EXCITED:CRAZYDAVE}还要有玉米卷！
+{EXCITED:CRAZYDAVE}Und mit Tacos!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}我是僵尸头头。我写给你又一张恐吓信。
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Ich bin der Zombie-Oberhaupt. Ich habe dir einen weiteren Drohbrief geschrieben.
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_2]
-{SAY:ZOMBOSSICON}你有麻烦了。大——麻烦。事实上，是巨人僵尸的麻烦！
+{SAY:ZOMBOSSICON}Du steckst in Schwierigkeiten. In großen Schwierigkeiten. Genauer gesagt, in riesigen Zombie-Schwierigkeiten!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_3]
-{SAY:ZOMBOSSICON}地懒巨人僵尸砸！砸扁你颤抖的小植物！
+{SAY:ZOMBOSSICON}Riesenfaultier-Zombie zerschmettert! Zerschmettere deine zitternden kleinen Pflanzen!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_4]
-{SAY:ZOMBOSSICON}地懒巨人僵尸带来史前小鬼僵尸瘟疫！
+{SAY:ZOMBOSSICON}Riesenfaultier-Zombies bringen eine Plage prähistorischer Kobold-Zombies!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_5]
-{SAY:ZOMBOSSICON}祝你今天倒霉。诚挚的， 僵尸头头博士
+{SAY:ZOMBOSSICON}Ich wünsche dir einen schlechten Tag. Mit freundlichen Grüßen, Dr. Zombihead
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_6]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}我猜那个僵尸永远都不会进化。
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Ich vermute, dieser Zombie wird sich nie weiterentwickeln.
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_7]
-{SAY:CRAZYDAVE}哪怕是一百万、十亿、千万亿年也不会。
+{SAY:CRAZYDAVE}Nicht einmal in einer Million, Milliarde, Billiarde Jahren.
 
 [NARRATIVE_ICEAGE_INTRO_HURRIKALE_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}我的数据显示飓风甘蓝会有很大用处。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Meine Daten legen nahe, dass Hurrikan-Grünkohl sehr nützlich wäre.
 
 [NARRATIVE_ICEAGE_INTRO_HURRIKALE_2]
-{EXCITED:CRAZYDAVE}他吹出来的风可以冻住僵尸，让他们减速！
+{EXCITED:CRAZYDAVE}Der Wind, den er bläst, kann Zombies einfrieren und verlangsamen!
 
 [NARRATIVE_ICEAGE_INTRO_HURRIKALE_3]
-{PLAYFUL:CRAZYDAVE}这个家伙特别能吹！我是说，吹得很精彩那种。
+{PLAYFUL:CRAZYDAVE}Der Typ kann richtig stark blasen! Ich meine, der ist echt gut.
 [NARRATIVE_ICEAGE_INTRO_ICEBLOCKS_4]
-{SAY:CRAZYDAVE}我已经对这个想法感兴趣了！
+{SAY:CRAZYDAVE}Die Idee interessiert mich schon!
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}{SAY:CRAZYDAVE}太安静了。大家都去哪儿了？我有种不想的预感。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}{SAY:CRAZYDAVE}Es ist so still. Wo sind alle? Ich habe ein ungutes Gefühl.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_2]
-{SAY:WINNIE}我的扫描仪显示有僵尸躲在冰的下面。
+{SAY:WINNIE}Mein Scanner zeigt Zombies, die sich unter dem Eis verstecken.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_3]
-{SAY:CRAZYDAVE}我知道这个游戏！他们叫它躲猫猫，吃大脑！
+{SAY:CRAZYDAVE}Ich kenne dieses Spiel! Es heißt Versteckspiel und Gehirne fressen!
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_4]
-{PLAYFUL:CRAZYDAVE}该玩我们自己的游戏了：我叫它打地僵。
+{PLAYFUL:CRAZYDAVE}Es ist Zeit, unser eigenes Spiel zu spielen: Ich nenne es Bodenzombies.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_5]
-{SAY:WINNIE}狠狠的揍它们，它们就会掉出更好的锤子。
+{SAY:WINNIE}Wenn du sie hart triffst, lassen sie bessere Hämmer fallen.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_6]
-{SAY:CRAZYDAVE}我很抱歉。我控制不住。不得不说。现在是……锤子时间。
+{SAY:CRAZYDAVE}Tut mir leid. Ich kann nicht anders. Ich muss es sagen. Es ist ... Hammerzeit.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}这个地方让我感觉手脚冰凉。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}Ich bekomme hier kalte Füße.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_2]
-{SAY:CRAZYDAVE}我的双脚真的冰凉的了。
+{SAY:CRAZYDAVE}Ich habe richtig kalte Füße.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_3]
-{PLAYFUL:WINNIE}是时候打开暖气了。我推荐辣椒投手来完成这个任务。
+{PLAYFUL:WINNIE}Es ist Zeit, die Hitze anzuheizen. Ich empfehle dafür den Chilikrug.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_4]
-{SAY:WINNIE}他能朝僵尸投掷出火热的辣椒，让周围的僵尸也暖和起来。
+{SAY:WINNIE}Er kann scharfe Chilischoten auf Zombies werfen und sie so aufwärmen.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_5]
-{PLAYFUL:CRAZYDAVE}让我们来选一棵辣椒投手吧！这对我们当前的困境来说是完美的植物！
+{PLAYFUL:CRAZYDAVE}Lass uns einen Kannenpfeffer pflücken! Die perfekte Pflanze für unsere aktuelle Lage!
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_6]
-{TIRED:WINNIE}你说话一定要押韵吗，戴夫同学？一定要吗？
+{TIRED:WINNIE}Musst du dich reimen, Dave? Musst du?
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}我希望这些史前僵尸能乖乖回到它们的洞穴里去。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}Ich hoffe, diese prähistorischen Zombies kehren in ihre Höhlen zurück.
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_2]
-{EXCITED:WINNIE}戴夫同学，或许是时候尝试新策略了。
+{EXCITED:WINNIE}Dave, vielleicht ist es Zeit für eine neue Taktik.
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_3]
-{SAY:WINNIE}数据显示眩晕洋葱在这会是一个……有效的……盟友。
+{SAY:WINNIE}Daten zeigen, dass die Dizzy Onion hier ein ... effektiver ... Verbündeter wäre.
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_4]
-{PLAYFUL:CRAZYDAVE}好主意，潘妮！那个家伙的口气可以把人熏晕！
+{PLAYFUL:CRAZYDAVE}Super Idee, Penny! Der Atem von dem Kerl kann jeden ohnmächtig machen!
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_5]
-{SAY:CRAZYDAVE}毫不夸张。就连僵尸……也会被他嘴里的味道熏晕！
+{SAY:CRAZYDAVE}Stimmt. Sogar Zombies ... würden von seinem Mundgeschmack ohnmächtig werden!
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_6]
-{PLAYFUL:CRAZYDAVE}真恶心。但真心靠谱！
+{PLAYFUL:CRAZYDAVE}Das ist eklig. Aber es ist wirklich zuverlässig!
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}潘妮，我们现在需要一杯美美的热可可！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:CRAZYDAVE}Penny, wir brauchen jetzt eine schöne Tasse heißen Kakao!
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_2]
-{SAY:WINNIE}戴夫同学，那是没有经过验证的反僵尸武器。
+{SAG:WINNIE}Dave, das ist eine unbewiesene Waffe gegen Zombies.
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_3]
-{SAY:WINNIE}我推荐召唤旋转芜菁。
+{SAG:WINNIE}Ich empfehle, die Rübe zu beschwören.
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_4]
-{EXCITED:WINNIE}她可以浮在空中，朝四个方向射击僵尸！
+{AUFGEFROREN:WINNIE}Sie kann in der Luft schweben und Zombies in vier Richtungen abschießen!
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_5]
-{PLAYFUL:CRAZYDAVE}这孩子很有天分！或许她也知道怎么做热可可？
+{VERSPIELT:CRAZYDAVE}Dieses Kind hat Talent! Vielleicht weiß sie auch, wie man heißen Kakao macht?
 [NARRATIVE_ICEAGE_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED: WINNIE}戴夫同学，我侦测到一个冰块正在靠近。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED: WINNIE}Dave, ich habe einen Eiswürfel auf dich zukommen sehen.
 
 [NARRATIVE_ICEAGE_OUTRO_DANGER_ROOM_KEY_2]
-{EXCITED:CRAZYDAVE}看起来是冰棒僵尸。 
+{EXCITED:CRAZYDAVE}Sieht aus wie ein Eis-Zombie.
 
 [NARRATIVE_ICEAGE_OUTRO_DANGER_ROOM_KEY_3]
-{SAY:WINNIE}分析显示这个恐怖的冰块会解锁一个令人瑟瑟发抖的挑战。
+{SAY:WINNIE}Die Analyse zeigt, dass dieser Eis-Horror eine furchterregende Herausforderung freischaltet.
 
 [NARRATIVE_ICEAGE_OUTRO_DANGER_ROOM_KEY_4]
-{PLAYFUL:CRAZYDAVE}你知道我会怎么说吗？放----马过来！
+{PLAYFUL:CRAZYDAVE}Weißt du, was ich sagen will? Komm schon!
+
 [NARRATIVE_ICEAGE_ZOMBIENOTE_1]
-{NPC_ENTER:CRAZYDAVEICON}{TIRED:CRAZYDAVEICON}潘妮，你有没有四过舔冰棒的斯候簪到舌头？
+{NPC_ENTER:CRAZYDAVEICON}{TIRED:CRAZYDAVEICON}Penny, hast du dir schon mal beim Eislutschen die Zunge piercen lassen?
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_2]
-{NPC_ENTER:WINNIEICON}{TIRED:WINNIEICON}没有啊，戴夫同学。我没试过。
+{NPC_ENTER:WINNIEICON}{TIRED:WINNIEICON}Nein, Dave. Hab ich noch nicht probiert.
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_3]
-{SAY:CRAZYDAVEICON}呃……我也没有。那样做一定四疯了！
+{SAY:CRAZYDAVEICON}Äh ... ich auch nicht. Du wärst verrückt, so etwas zu tun!
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_4]
-{SAY:WINNIEICON}哎。在你的舌头恢复期间，请留意奇怪的石板。 
+{SAY:WINNIEICON}Hey. Halte während deiner Zungenheilung Ausschau nach dem seltsamen Stück.
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_5]
-{SAY:WINNIEICON}它似乎是警告牌，用洞穴僵尸语写的。
+{SAY:WINNIEICON}Es sieht aus wie ein Warnschild, geschrieben in der Sprache der Höhlenzombie.
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_6]
-{PLAYFUL:CRAZYDAVEICON}它有缩不要舔冰棒么？
+{PLAYFUL:CRAZYDAVEICON}Schrumpft es? Nicht am Eis lecken?
 
 [NARRATIVE_JACKOLANTERN_LOD_1]
 {NPC_ENTER:WINNIE}{SAY:WINNIE}点击杰克南瓜灯来释放火焰。
@@ -29904,304 +29905,304 @@ Demo
 {PLAYFUL:CRAZYDAVEICON}这样的话，告诉你正确的罐子！
 
 [NARRATIVE_MODERN_1_INTRO_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}啊哈！悖论计划……现在开始！
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Ahaha! Projekt Paradox ... startet jetzt!
 
 [NARRATIVE_MODERN_1_INTRO_2]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}时间线警告，戴夫同学！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Zeitlinienwarnung, Dave!
 
 [NARRATIVE_MODERN_1_INTRO_3]
-{SAY:WINNIE}我们回到了出发前的时刻！
+{SAY:WINNIE}Wir sind zu dem Moment zurückgekehrt, bevor wir aufgebrochen sind!
 
 [NARRATIVE_MODERN_1_INTRO_4]
-{SAY:WINNIE}如果我的猜测是正确的，僵尸头头博士想要阻止你最开始吃玉米卷的行为！
+{SAY:WINNIE}Wenn ich richtig vermute, wollte Dr. Zombie-Head dich von Anfang an davon abhalten, Tacos zu essen!
 
 [NARRATIVE_MODERN_1_INTRO_5]
-{SAY:WINNIE}我们的旅程就会不复存在！
+{SAY:WINNIE}Unsere Reise wäre vorbei!
 
 [NARRATIVE_MODERN_1_INTRO_6]
-{EXCITED:CRAZYDAVE}不-------------！
+{EXCITED:CRAZYDAVE}Nein-------------!
 
 [NARRATIVE_MODERN_1_INTRO_7]
-{EXCITED:crazydave}----------！抱歉，我在忙着喊“不。你刚有提到“玉米卷”么？
+{EXCITED:crazydave}----------! Entschuldigung, ich war zu beschäftigt damit, „Nein“ zu schreien. Hast du „Tacos“ erwähnt?
 
 [NARRATIVE_MODERN_1_INTRO_8]
-{SAY:WINNIE}我们必须小心，戴夫同学。僵尸头头博士会放出他各种时间的僵尸来对付我们！
+{SAY:WINNIE}Wir müssen vorsichtig sein, Dave. Dr. Zombie-Head wird seine verschiedenen Zeitzombies auf uns loslassen!
 
 [NARRATIVE_MODERN_1_INTRO_9]
-{EXCITED:CRAZYDAVE}玉米卷------！
+{EXCITED:CRAZYDAVE}Tacos------!
 
 [NARRATIVE_MODERN_11_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}我们捡起了一些暗影蘑菇的种子袋，戴夫同学。 
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Wir haben ein paar Säcke Schattenpilzsamen mitgenommen, Dave.
 
 [NARRATIVE_MODERN_11_INTRO_2]
-{SAY:WINNIE} 毒影菇是暗影系的植物，记得把它们种在月光花附近来获得额外效果。
+{SAY:WINNIE} Giftige Schattenpilze sind Schattenpflanzen. Denk daran, sie in der Nähe von Mondblumen zu pflanzen, um zusätzliche Effekte.
 
 [NARRATIVE_MODERN_11_INTRO_3]
-{EXCITED:CRAZYDAVE} 彼此紧靠就能获得胜利！
+{EXCITED:CRAZYDAVE} Bleibt zusammen, um zu gewinnen!
 
 [NARRATIVE_MODERN_15_OUTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} 看，潘妮！我的玉米卷！ 
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Schau mal, Penny! Meine Tacos!
 
 [NARRATIVE_MODERN_15_OUTRO_2]
-{SAY:WINNIE}不，戴夫同学！坚决不行！我侦测到了高等级陷阱！
+{SAY:WINNIE}Nein, Dave! Auf gar keinen Fall! Ich habe eine hochrangige Falle entdeckt!
 
 [NARRATIVE_MODERN_15_OUTRO_3]
-{EXCITED:CRAZYDAVE}但是……饥饿……食物……玉米卷！
+{EXCITED:CRAZYDAVE}Aber ... Hunger ... Essen ... Tacos!
 
 [NARRATIVE_MODERN_16_INTRO_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}笨蛋！你落入了我极其明显的陷阱当中！
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Dummkopf! Du bist in meine extrem offensichtliche Falle getappt. Falle!
 
 [NARRATIVE_MODERN_16_INTRO_2]
-{SAY:ZOMBOSSICON} 我的罐子和巨人僵尸阵会把你打到家都不认识！
+{SAY:ZOMBOSSICON} Meine Gläser und Riesenzombies werden dich zu Brei schlagen!
 
 [NARRATIVE_MODERN_16_INTRO_3]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}然后我就能吃玉米饼了？
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Und dann kann ich Tacos essen?
 
 [NARRATIVE_MODERN_17_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}幽暮投手是另外一棵暗影植物，戴夫同学。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Der Dämmerungsschütze ist eine weitere Schattenpflanze, Dave.
 
 [NARRATIVE_MODERN_17_INTRO_2]
-{SAY:WINNIE}它可以独自作战，投射爆炸性的物体。
+{SAY:WINNIE}Er kann alleine kämpfen und explosive Objekte schleudern.
 
 [NARRATIVE_MODERN_17_INTRO_3]
-{SAY:WINNIE}在它的强化状态下，可以向三条线一起发射！
+{SAY:WINNIE}In Im verstärkten Zustand kann es in drei Reihen gleichzeitig feuern!
 
 [NARRATIVE_MODERN_17_INTRO_4]
-{EXCITED:CRAZYDAVE}那和我拇指和鼻子的数量正好相同！
+{EXCITED:CRAZYDAVE}Das ist genau die gleiche Anzahl an Daumen und Nasen wie ich!
 
 [NARRATIVE_MODERN_19_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}逃脱树根是一棵狡猾的植物，戴夫同学。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE}Die Fluchtwurzel ist eine tückische Pflanze, Dave.
 
 [NARRATIVE_MODERN_19_INTRO_2]
-{SAY:WINNIE}当它受到威胁时，会变成一棵爆炸性的植物！
+{SAG:WINNIE}Wenn sie bedroht wird, verwandelt sie sich in eine explosive Pflanze!
 
 [NARRATIVE_MODERN_19_INTRO_3]
-{SAY:WINNIE}如果你点击它，再点击一下另一棵植物，它们就会互换位置！
+{SAG:WINNIE}Wenn du darauf klickst und dann auf eine andere Pflanze, tauschen sie die Plätze!
 
 [NARRATIVE_MODERN_19_INTRO_4]
-{SAY:WINNIE}你可以用逃脱树根来拯救有生命危险的  物！
+{SAG:WINNIE}Du kannst die Fluchtwurzel benutzen, um Tiere aus lebensbedrohlichen Situationen zu retten!
 
 [NARRATIVE_MODERN_19_INTRO_5]
-{EXCITED:CRAZYDAVE}什么？植物会全死掉吗？快叫警察！
+{EXCITED:CRAZYDAVE}Was? Werden alle Pflanzen sterben? Ruf die Polizei!
 
 [NARRATIVE_MODERN_2_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}月光花会释放阳光，戴夫同学。但这还不是全部。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Mondblumen strahlen Sonnenlicht aus, Dave. Aber das ist noch nicht alles.
 
 [NARRATIVE_MODERN_2_INTRO_2]
-{SAY:WINNIE}我的扫描显示它会释放特殊的光芒来强化同类植物。
+{SAY:WINNIE}Meine Scans zeigen, dass sie ein besonderes Licht abgeben, das Pflanzen derselben Art stärkt.
 
 [NARRATIVE_MODERN_2_INTRO_3]
-{SAY:WINNIE}把月光花种在一起应该可以提高它们的力量。
+{SAY:WINNIE}Mondblumen zusammen anzubauen sollte ihre Stärke erhöhen.
 
 [NARRATIVE_MODERN_2_INTRO_4]
-{SAY:WINNIE}我猜它们也会对其它暗影植物产生同样的效果。 
+{SAY:WINNIE}Ich vermute, sie haben den gleichen Effekt auf andere Schattenpflanzen.
 
 [NARRATIVE_MODERN_2_INTRO_5]
-{EXCITED:CRAZYDAVE}玉米卷-----！
+{EXCITED:CRAZYDAVE}Tacos-----!
 
 [NARRATIVE_MODERN_21_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}橄榄球僵尸非常危险，戴夫同学！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE}Fußball-Zombies sind gefährlich, Dave!
 
 [NARRATIVE_MODERN_21_INTRO_2]
-{SAY:WINNIE}它们会撞倒并摧毁碰到的第一个植物！
+{SAG:WINNIE}Sie reißen die erste Pflanze um, die ihnen über den Weg läuft!
 
 [NARRATIVE_MODERN_21_INTRO_3]
-{EXCITED:CRAZYDAVE}我要怪裁判！
+{EXCITED:CRAZYDAVE}Ich gebe dem Schiedsrichter die Schuld!
 
 [NARRATIVE_MODERN_22_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}喂，你好吗？我想这又是宝石迷阵，潘妮！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Hey, wie geht's? Ich glaube, das ist wieder Bejeweled, Penny!
 
 [NARRATIVE_MODERN_23_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}暗樱草是一个暗影植物，戴夫同学。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Die Dunkle Primel ist eine Schattenpflanze, Dave.
 
 [NARRATIVE_MODERN_23_INTRO_2]
-{SAY:WINNIE}它会拖走一只和它在同一条线上的僵尸。
+{SAY:WINNIE}Sie reißt einen Zombie weg, der sich auf derselben Linie befindet.
 
 [NARRATIVE_MODERN_23_INTRO_3]
-{SAY:WINNIE}当它强化之后，可以在消失之前处理掉三只僵尸。
+{SAY:WINNIE}Wenn sie gestärkt ist, kann sie es mit drei Zombies aufnehmen, bevor sie verschwindet.
 
 [NARRATIVE_MODERN_23_INTRO_4]
-{EXCITED:CRAZYDAVE}看起来它努力过头了！
+{EXCITED:CRAZYDAVE}Sieht aus, als würde sie sich zu sehr anstrengen!
 
 [NARRATIVE_MODERN_24_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}我听到了小脚丫的声音！啪嗒啪嗒的！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Ich höre kleine Füße! Schnipp, schnipp!
 
 [NARRATIVE_MODERN_24_INTRO_2]
-{SAY:WINNIE}要小心，戴夫同学。我侦测到前方有粉丝小鬼僵尸！
+{SAY:WINNIE}Sei vorsichtig, Dave. Ich habe da vorne einen Fanboy-Zombie entdeckt!
 
 [NARRATIVE_MODERN_24_INTRO_3]
-{SAY:WINNIE}他们的团队力量非常巨大！
+{SAY:WINNIE}Sie sind ein starkes Team!
 
 [NARRATIVE_MODERN_3_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}缩小紫罗兰的名字可是名副其实的，戴夫同学。 
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Das Shrinking Violet macht seinem Namen alle Ehre, Dave.
 
 [NARRATIVE_MODERN_3_INTRO_2]
-{SAY:WINNIE}它能缩小僵尸，让它们变得虚弱。
+{SAY:WINNIE}Es schrumpft Zombies und macht sie schwächer.
 
 [NARRATIVE_MODERN_3_INTRO_3]
-{EXCITED:CRAZYDAVE}迷你僵尸！离我的小腿远点！
+{EXCITED:CRAZYDAVE}Mini-Zombies! Finger weg von meinen Waden!
 
 [NARRATIVE_MODERN_25_INTRO_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}你的末日到了！
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Dein Ende ist da!
 
 [NARRATIVE_MODERN_25_INTRO_2]
-{SAY:ZOMBOSSICON}你对一个已经咬过的玉米卷的追寻让时空完全破碎了！
+{SAY:ZOMBOSSICON}Deine Jagd nach einem bereits angebissenen Taco hat Raum und Zeit zerstört!
 
 [NARRATIVE_MODERN_25_INTRO_3]
-{SAY:ZOMBOSSICON}而我却要恢复未来、现在和过去！
+{SAY:ZOMBOSSICON}Und ich will Zukunft, Gegenwart und Vergangenheit wiederherstellen!
 
 [NARRATIVE_MODERN_25_INTRO_4]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE} {SAY:WINNIE}这是真的吗，戴夫同学？
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE} {SAY:WINNIE}Stimmt das, Dave?
 
 [NARRATIVE_MODERN_25_INTRO_5]
-{SAY:WINNIE}我们的追寻把时间线都破坏了？
+{SAY:WINNIE}Hat unsere Suche die Zeitlinie zerstört?
 
 [NARRATIVE_MODERN_25_INTRO_6]
-{SAY:CRAZYDAVE}那么让我来说出你的烦恼吧：
+{SAY:CRAZYDAVE}Dann erzähle ich dir von deinen Problemen:
 
 [NARRATIVE_MODERN_25_INTRO_7]
-{SAY:CRAZYDAVE}*嗯哼*
+{SAY:CRAZYDAVE}*Ähm*
 
 [NARRATIVE_MODERN_25_INTRO_8]
-{EXCITED:CRAZYDAVE}玉米卷----！！！！！
+{EXCITED:CRAZYDAVE}Tacos----! ! ! ! !
 
 [NARRATIVE_MODERN_25_OUTRO_1]
-{NPC_ENTER:ZOMBOSSICON}笨蛋！你难道不在乎时间的准确性吗？
+{NPC_ENTER:ZOMBOSSICON}Idiot! Ist dir die Genauigkeit der Zeit egal?
 
 [NARRATIVE_MODERN_25_OUTRO_2]
-{SAY:ZOMBOSSICON}你不在乎每一个瞬间的顺序吗？
+{SAY:ZOMBOSSICON}Ist dir die Reihenfolge jedes einzelnen Augenblicks egal?
 
 [NARRATIVE_MODERN_25_OUTRO_3]
-{SAY:ZOMBOSSICON}蠢货！不学无术！戴锅子的家伙！
+{SAY:ZOMBOSSICON}Idiot! Ungebildet! Ein Typ mit einem Topf!
 
 [NARRATIVE_MODERN_25_OUTRO_4]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE} {EXCITED:CRAZYDAVE}那不是锅子，是带把手的盆子！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE} {EXCITED:CRAZYDAVE}Das ist kein Topf, das ist eine Schüssel mit Henkel!
 
 [NARRATIVE_MODERN_25_OUTRO_5]
-{SAY:WINNIE}我很担心，戴夫同学。如果他说的是真的怎么办？
+{SAY:WINNIE}Ich mache mir Sorgen, Dave. Was, wenn das stimmt, was er gesagt hat?
 
 [NARRATIVE_MODERN_25_OUTRO_6]
-{EXCITED:CRAZYDAVE}我除了玉米卷什么都不关心，潘妮！前进！
+{EXCITED:CRAZYDAVE}Mir ist alles egal außer Tacos, Penny! Nur zu!
 
 [NARRATIVE_MODERN_26_INTRO_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}求求你了，时间拉链，你必须听从道理！
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Bitte, Zeitreißverschluss, du musst auf die Vernunft hören!
 
 [NARRATIVE_MODERN_26_INTRO_2]
-{SAY:ZOMBOSSICON}时间的连贯性已经粉碎！我们的时代变得毫无意义！
+{SAY:ZOMBOSSICON}Die Kontinuität der Zeit ist zerstört! Unsere Zeit ist bedeutungslos geworden!
 
 [NARRATIVE_MODERN_26_INTRO_3]
-{SAY:ZOMBOSSICON}一切都变得自相矛盾！
+{SAY:ZOMBOSSICON}Alles ist widersprüchlich geworden!
 
 [NARRATIVE_MODERN_26_INTRO_4]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}把松鼠都放出来！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Lass die Eichhörnchen raus!
 
 [NARRATIVE_MODERN_26_OUTRO_1]
-{NPC_ENTER:ZOMBOSSICON}我说的都是实话，疯狂戴夫！
+{NPC_ENTER:ZOMBOSSICON}Ich sage dir die Wahrheit, Crazy Dave!
 
 [NARRATIVE_MODERN_26_OUTRO_2]
-{SAY:ZOMBOSSICON}我的话绝对不是在骗你！
+{SAY:ZOMBOSSICON}Ich lüge nicht!
 
 [NARRATIVE_MODERN_26_OUTRO_3]
-{SAY:ZOMBOSSICON}你不能重复吃一个玉米卷！小鬼僵尸来袭！
+{SAY:ZOMBOSSICON}Du kannst nicht zweimal denselben Taco essen! Die Imp-Zombies kommen!
 
 [NARRATIVE_MODERN_26_OUTRO_4]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}小鬼僵尸？我讨厌小鬼僵尸！非常讨厌！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Unsterbliche Zombies? Ich hasse unsterbliche Zombies! Ich hasse sie so sehr!
 
 [NARRATIVE_MODERN_27_INTRO_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}如果你不听我的话，你就会被摧毁！
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Wenn du nicht auf mich hörst, wirst du vernichtet!
 
 [NARRATIVE_MODERN_27_INTRO_2]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}你完全不可信！玉米卷---！！！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Du bist absolut unzuverlässig! Tacos---! ! !
 
 [NARRATIVE_MODERN_27_OUTRO_1]
-{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}戴夫同学，我求你了！你必须放弃你对旧玉米卷的臆想！
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Dave, ich flehe dich an! Gib deine alte Taco-Fantasie auf!
 
 [NARRATIVE_MODERN_27_OUTRO_10]
-{EXCITED:CRAZYDAVE}这是我这辈子，也是所有人这辈子最棒的一天！
+{EXCITED:CRAZYDAVE}Das ist der beste Tag meines Lebens und aller anderen!
 
 [NARRATIVE_MODERN_27_OUTRO_11]
-{SAY:WINNIE}的确，或许我们一直以来都错怪了僵尸头头博士……
+{SAY:WINNIE}Tatsächlich haben wir Dr. Zombiehead vielleicht die ganze Zeit zu Unrecht die Schuld gegeben ...
 
 [NARRATIVE_MODERN_27_OUTRO_12]
-{NPC_EXIT:CRAZYDAVE}{NPC_EXIT:WINNIE}{NPC_ENTER:ZOMBOSSICON} {SAY:ZOMBOSSICON}哈哈哈！或许你错怪了我！或许……你没有！
+{NPC_EXIT:CRAZYDAVE}{NPC_EXIT:WINNIE}{NPC_ENTER:ZOMBOSSICON} {SAY:ZOMBOSSICON}Hahahaha! Vielleicht irrst du dich in mir! Vielleicht ... bist du es nicht!
 
 [NARRATIVE_MODERN_27_OUTRO_13]
-{SAY:ZOMBOSSICON}我对未来当然没有什么邪恶的计划。又或许……我有？
+{SAY:ZOMBOSSICON}Ich habe sicher keine bösen Pläne für die Zukunft. Oder vielleicht doch?
 
 [NARRATIVE_MODERN_27_OUTRO_14]
-{SAY:ZOMBOSSICON}哇-哈-哈-哈-哈哈！我们会再见面！
+{SAY:ZOMBOSSICON}Wow-ha-ha-ha-ha-ha! Wir sehen uns wieder!
 
 [NARRATIVE_MODERN_27_OUTRO_2]
-{SAY:ZOMBOSSICON}它消失了，！但求求你，在这，拿着！
+{SAY:ZOMBOSSICON}Es ist weg! Aber bitte, hier, halt!
 
 [NARRATIVE_MODERN_27_OUTRO_3]
-{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE} {SAY:CRAZYDAVE}！
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE} {SAY:CRAZYDAVE}!
 
 [NARRATIVE_MODERN_27_OUTRO_4]
-{SAY:CRAZYDAVE}！！
+{SAY:CRAZYDAVE}! !
 
 [NARRATIVE_MODERN_27_OUTRO_5]
-{EXCITED:CRAZYDAVE}！！！！！！！！！
+{EXCITED:CRAZYDAVE}! ! ! ! ! ! ! ! !
 
 [NARRATIVE_MODERN_27_OUTRO_6]
-{SAY:CRAZYDAVE}这是……
+{SAY:CRAZYDAVE}Das ist...
 
 [NARRATIVE_MODERN_27_OUTRO_7]
-{SAY:CRAZYDAVE}这不会是……
+{SAY:CRAZYDAVE}Das kann nicht sein...
 
 [NARRATIVE_MODERN_27_OUTRO_8]
-{SPECIAL2}{EXCITED:CRAZYDAVE}玉米卷夹华夫饼！！！！
+{SPECIAL2}{EXCITED:CRAZYDAVE}Tacos und Waffeln! ! ! !
 
 [NARRATIVE_MODERN_27_OUTRO_9]
-{SAY:WINNIE}我侦测到了高等级的美味，戴夫同学。
+{SAY:WINNIE}Ich habe eine besondere Köstlichkeit entdeckt, Dave-san.
 
 [NARRATIVE_MODERN_5_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}龙葵是另外一种暗影植物，戴夫同学。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Nachtschatten ist eine weitere Schattenpflanze, Dave.
 
 [NARRATIVE_MODERN_5_INTRO_2]
-{SAY:WINNIE}它独自作战时可以拍打僵尸造成伤害。
+{SAY:WINNIE}Er kann Zombies schlagen und ihnen so Schaden zufügen, wenn sie alleine kämpfen.
 
 [NARRATIVE_MODERN_5_INTRO_3]
-{SAY:WINNIE}但如果它能种植在月光花的旁边，就会变得更加强大！
+{SAY:WINNIE}Aber wenn man ihn neben Mondblume pflanzt, wird er noch mächtiger!
 
 [NARRATIVE_MODERN_5_INTRO_4]
-{EXCITED:CRAZYDAVE}植物好兄弟？真是疯狂！
+{EXCITED:CRAZYDAVE}Pflanzenbrüder? Das ist verrückt!
 
 [NARRATIVE_MODERN_8_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}我检测到了一个植物组成的网格，戴夫同学。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE}Ich habe ein Pflanzenraster entdeckt, Dave.
 
 [NARRATIVE_MODERN_8_INTRO_2]
-{SAY:WINNIE}我的扫描设备显示，可以交换它们的位置来进行三个一组的配对消除游戏。
+{SAG:WINNIE}Mein Scanner sagt, wir können sie austauschen, um ein 3-Gewinnt-Spiel zu spielen.
 
 [NARRATIVE_MODERN_8_INTRO_3]
-{EXCITED:CRAZYDAVE}我在手机上看到过这样的游戏！
+{AUFGEFROREN:CRAZYDAVE}Das habe ich auf meinem Handy gesehen!
 
 [NARRATIVE_MODERN_9_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}我的侦测器显示氦气等级在增加，戴夫同学。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE}Mein Detektor sagt, der Heliumpegel steigt, Dave.
 
 [NARRATIVE_MODERN_9_INTRO_2]
-{SAY:WINNIE}我怀疑我们要面对一只或是很多只气球僵尸。
+{SAY:WINNIE}Ich vermute, wir müssen uns mit einem oder mehreren Ballon-Zombies herumschlagen.
 
 [NARRATIVE_MODERN_9_INTRO_3]
-{EXCITED:CRAZYDAVE}我讨厌一只或是很多只气球僵尸！
+{EXCITED:CRAZYDAVE}Ich hasse Ballon-Zombies!
 
 [NARRATIVE_MODERN_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}潘妮！一根长度随机的下水管！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Penny! Ein Abwasserrohr von beliebiger Länge!
 
 [NARRATIVE_MODERN_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:WINNIE}小心，戴夫同学。那根管子与肥料有过无数次接触！
+{SAY:WINNIE}Sei vorsichtig, Dave. Das Rohr ist schon öfter mit Dünger in Berührung gekommen!
 
 [NARRATIVE_MORE_LEVELS_1]
-{NPC_ENTER:WINNIEICON}{SAY}开放了的世界中还有很多关卡。
+{NPC_ENTER:WINNIEICON}{SAY}Es gibt noch viele weitere Level in der offenen Welt.
 
 [NARRATIVE_MORE_LEVELS_2]
-{EXCITED:WINNIEICON}而且还有很多植物和奖励等着你来收集。
+{EXCITED:WINNIEICON}Und es warten viele Pflanzen und Belohnungen darauf, von dir eingesammelt zu werden.
 
 [NARRATIVE_MORE_LEVELS_3]
-{NPC_ENTER:CRAZYDAVEICON}{EXCITED}还有，要记着玉米卷！
+{NPC_ENTER:CRAZYDAVEICON}{EXCITED}Und vergiss die Tacos nicht!
 
 [NARRATIVE_MORE_LEVELS_4]
-{TIRED:CRAZYDAVEICON}我们还没忘记你那丢失的宝贵玉米卷。
+{TIRED:CRAZYDAVEICON}Wir haben deine verlorenen Tacos nicht vergessen.
 
 [NARRATIVE_OUT_OF_CONTENT_FUTURE_NEXT_1]
 {NPC_ENTER:CRAZYDAVEICON}{START_DIALOG_MUSIC}你觉得未来会把我们带到哪儿去？
