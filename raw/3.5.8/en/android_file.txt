@@ -2094,7 +2094,7 @@ Du hast Dave versehentlich dreimal getroffen!
 Ferne Zukunft
 
 [FUTURE_LAST]
-Zukunftswelt – Letzte Herausforderung
+Ferne Zukunft – Letzte Herausforderung
 
 [FUTURE_CHALLENGE_ONE_NAME]
 Zukunftsherausforderung 1 – {LEVEL_NUMBER}
@@ -14908,7 +14908,7 @@ Himmelssturz – Tag {LEVEL_NUMBER}
 Schlüssel zum Zukunft
 
 [BONUS_CARD_KEY_FUTURE_DESCRI PTION]
-Holen Sie sich einen Schlüssel zur Zukunftswelt.
+Holen Sie sich einen Schlüssel zur Ferne Zukunft.
 
 [FUTURE_KEYGATE_HEADER]
 Tor der Zukunft
@@ -14920,16 +14920,16 @@ Tor der Dunkelheit
 Tor des Strandes
 
 [WORLD_NAME_FUTURE]
-Zukunftswelt
+Ferne Zukunft
 
 [PIECE_COME_FROM_MAGNIFYINGGRASS_LEVEL]
-Zukunftswelt – Tag 7
+Ferne Zukunft – Tag 7
 
 [PIECE_COME_FROM_REPEATER_LEVEL]
-Zukunftswelt – Tag 2
+Ferne Zukunft – Tag 2
 
 [PIECE_COME_FROM_SPIKEROCK_LEVEL]
-Zukunftswelt – Tag 5
+Ferne Zukunft – Tag 5
 
 [FREE_GEM_NEED_NETWORK_TEXT]
 Sie benötigen eine Internetverbindung, um die kostenlose Diamantenbelohnung zu erhalten.
@@ -46892,10 +46892,10 @@ Willst du deine Stärke beweisen? Fordere Dr. Zomboss im Wilden Westen heraus!
 Willst du deine Stärke beweisen? Fordere Dr. Zomboss in der Kung-Fu-Welt heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_FUTURE3]
-Willst du deine Stärke beweisen? Fordere Dr. Zomboss in der Zukunftswelt heraus!
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in der Ferne Zukunft heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_FUTURE3]
-Willst du deine Stärke beweisen? Fordere Dr. Zomboss in der Zukunftswelt heraus! SK_DESCRIPTION_EIGHTIES3]
+Willst du deine Stärke beweisen? Fordere Dr. Zomboss in der Ferne Zukunft heraus! SK_DESCRIPTION_EIGHTIES3]
 Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Rock Age heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_DARK3]
