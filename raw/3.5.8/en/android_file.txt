@@ -4727,39 +4727,40 @@ Ihre Grafikkarte unterstützt diese Funktion nicht vollständig.
 Wenn Ihr Spiel zu langsam läuft, deaktivieren Sie die Hardwarebeschleunigung.
 
 [SNAPDRAGON]
-火龙草
+Drachenmäulchen
 
 [SNAPDRAGON_DESCRIPTION]
-{KEYWORD}区域：{STAT}伤害前方6格以内所有僵尸
-{KEYWORD}植物特征：{STAT}满腹怒火
-{FLAVOR}即便火龙草是植物中最强大的龙，也无法阻止他插上梦想的翅膀，他想去海底世界一探究竟。
+{KEYWORD}Bereich: {STAT}schadet allen Zombies in den 6 Feldern vor ihm
+{KEYWORD} Pflanzeneigenschaften: {STAT} Voller Wut
+
+{FLAVOR}Das Drachenmäulchen ist der mächtigste Drache im Pflanzenreich. Trotzdem träumt es davon, einmal fliegen zu können und die Welt von oben zu sehen.
 
 [SNAPDRAGON_DESCRIPTION_HEADER]
-火龙草呼出的火焰可以造成6格伤害。
+Drachenmäulchen speien Feuer und verursachen Schaden in 6 angrenzenden Feldern.
 
 [SNAPDRAGON_PLANTFOOD]
-产生3x3方格的火焰，有巨大杀伤力。
+Setzt eine Fläche aus 3x3 Feldern in Brand, die gewaltigen Schaden verursacht.
 
 [SNAPDRAGON_TOOLTIP]
-朝前方大片区域喷射火焰。
+Deckt einen kompletten Bereich vor sich mit Feuer ein
 
 [SNOWPEA]
-寒冰射手
+Hagelzuckererbse 
 
 [SNOWPEA_DESCRIPTION]
-{KEYWORD}特殊：{STAT}冷冻僵尸
-{KEYWORD}植物特征：{STAT}蓝色植物、豌豆家族
-{FLAVOR}尽管外表很酷，寒冰射手很热爱他的朋友，尊老爱幼。聚会时他的拿手好戏是什么？当然是用冷笑话炒热全场～
+{KEYWORD}Besonderheit: {STAT}kühlt getroffene Zombies herunter
+{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanzen, Hülsenfrüchtler
+
+{FLAVOR}Hauptberuflich Pingpongprofi, geht die Hagelzuckererbse außerhalb der Saison gern Skifahren, spielt Bongos oder macht Höhlenexkursionen.
 
 [SNOWPEA_DESCRIPTION_HEADER]
-寒冰射手发射冰冻豆减慢僵尸速度。
+Hagelzuckererbsen verschießen gefrorene Erbsen, die den Zombies das Vorankommen erschweren.
 
 [SNOWPEA_PLANTFOOD]
-快速射出一波冰豌豆，并将面前的草坪变成冰道。
+Feuert eine Salve gefrorener Erbsen und belegt die eigene Reihe mit einer alles einfrierenden Eisschicht.
 
 [SNOWPEA_TOOLTIP]
-发射冰冻豆打击僵尸，减慢僵尸速度。
-
+Verschießt gefrorene Erbsen, die Zombies schädigen und aufhalten
 
 [MANDRAKE]
 酷跑曼德拉
@@ -4825,7 +4826,6 @@ Wenn Ihr Spiel zu langsam läuft, deaktivieren Sie die Hardwarebeschleunigung.
 
 [MANDRAKE_AVATAR_PLANTFOOD_DESCRIPTION]
 酷跑曼德拉向前高速冲锋，将整行的中小型僵尸击飞，对其他单位造成^ff0000^大量^oldclr^伤害。可秒杀僵尸的阶数一般不超过植物本身阶数的2倍。
-
 
 [HERO]
 Held
@@ -5128,93 +5128,98 @@ Minispiel: Zauberpilz
 大招向右侧发射的电力子弹变为穿透型。
 
 [SPIKEROCK]
-钢地刺
+Stachelstein 
 
 [SPIKEROCK_DESCRIPTION]
-{KEYWORD}特点：{STAT}不会被僵尸吃掉
-{KEYWORD}弱点：{STAT}承受滚桶僵尸3次攻击
-{KEYWORD}植物特征：{STAT}矮个子
-{FLAVOR}钢地刺是具有金属气质的植物，所以它决定在麦迪逊摇滚公园开一场重金属摇滚演唱会，消息一经发布，门票立即抢售一空。
+{KEYWORD}Besonderheit: {STAT}kann nicht von Zombies gefressen werden
+{KEYWORD}Schwäche: {STAT}hält drei Treffer von rollenden Zombies aus
+{KEYWORD} Pflanzenmerkmale: {STAT} Kleinwüchsig
+
+{FLAVOR}Als metallreichste Pflanze hat der Stachelstein sich entschlossen, im Madison Rock Garden das ultimative Metal-Konzert zu geben. Die Tickets sind schon seit vielen Ernten ausverkauft.
 
 [SPIKEROCK_DESCRIPTION_HEADER]
-钢地刺可以摧毁多个滚桶僵尸，并对踩到他的僵尸造成伤害。
+Stachelsteine zerstechen mehrere rollende Zombies und verletzen Zombies, die drauftreten.
 
 [SPIKEROCK_PLANTFOOD]
-将刺扎进所在行的所有僵尸，并对其造成伤害。
+Metallstacheln treiben alle Zombies in der Reihe hin zum Stachelstein und verletzen sie dabei.
 
 [SPIKEROCK_TOOLTIP]
-破坏最多三个滚动物体，并伤害从自己身上经过的僵尸。
+Zerstört 3 rollende Objekte, verletzt Zombies, die drauftreten
 
 [SPIKEWEED]
-地刺
+Stachelkraut 
 
 [SPIKEWEED_DESCRIPTION]
-{KEYWORD}特点：{STAT}不会被僵尸吃掉
-{KEYWORD}弱点：{STAT}被滚桶僵尸压扁
-{KEYWORD}植物特征：{STAT}绿色植物、矮个子
-{FLAVOR}地刺虽然出身贫寒，现在他的针灸事业可谓蒸蒸日上。 
+{KEYWORD}Besonderheit: {STAT}kann nicht von Zombies gefressen werden
+{KEYWORD}Schwäche: {STAT}wird von rollenden Zombies zermalmt
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen, kleiner Wuchs
+
+{FLAVOR}Das Stachelkraut kommt zwar aus einer üblen Nachbarschaft, konnte aber trotzdem eine blühende Akupunkturpraxis hochziehen.
 
 [SPIKEWEED_DESCRIPTION_HEADER]
-地刺可以摧毁一个滚桶僵尸，并对踩到他的僵尸造成伤害。
+Stachelkraut zerstört einen rollenden Zombie und verletzt Zombies, die drauftreten.
 
 [SPIKEWEED_PLANTFOOD]
-将刺扎进所在行的所有僵尸，并对其造成伤害。
+Stacheln treiben alle Zombies in der Reihe hin zum Stachelkraut und verletzen sie dabei.
 
 [SPIKEWEED_TOOLTIP]
-破坏一个滚动物体，并伤害从自己身上经过的僵尸。
+Zerstört 1 rollendes Objekt, verletzt Zombies, die drauftreten
 
 [SPLITPEA]
-双向射手
+Knallerbse 
 
 [SPLITPEA_DESCRIPTION]
-{KEYWORD}发射速度：{STAT}向前正常速度，向后两倍速度
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}前面的头说：“轮到我用眉毛了！”后面的头说：那只好一人一半了。虽然出生就差两分钟，可眉毛争夺战的硝烟永难停息。
+{KEYWORD}Feuerrate: {STAT}1x vorwärts, 2x rückwärts
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grünpflanzen, Hülsenfrüchtler
+
+{FLAVOR}"Ich bin mit den Augenbrauen dran", sagt Vordererbse. "OK, dann teilen wir sie", meint Hintererbse. Mit nur zwei Minuten Abstand erblickten sie das Licht der Welt. Doch ihr Augenbrauenkrieg geht ewig.
 
 [SPLITPEA_DESCRIPTION_HEADER]
-双向射手可以向前后两个方向发射豌豆。
+Knallerbsen verschießen Erbsen nach vorn und hinten. 
 
 [SPLITPEA_PLANTFOOD]
-向前后方快速射出高伤害的豌豆。
+Hat nach vorn den Spezialdünger-Effekt der Erbsenkanone und nach hinten den des Duplinators.
 
 [SPLITPEA_TOOLTIP]
-向前后两个方向发射豌豆。
+Verschießt Erbsen nach vorn und hinten
 
 [SPRINGBEAN]
-弹簧豆
+Federbohne
 
 [SPRINGBEAN_DESCRIPTION]
-{KEYWORD}特点：{STAT}将僵尸向后推或推进水里
-{KEYWORD}弱点：{STAT}弹起攻击后会犯困
-{KEYWORD}植物特征：{STAT}绿色植物、呆毛
-{FLAVOR}弹簧豆非常安静和内向，以至于没什么人了解他。但他的粉丝团却十分壮大，尤其受姑娘们的追捧。
+{KEYWORD}Besonderheit: {STAT}schubst Zombies zurück oder ins Wasser
+{KEYWORD}Schwäche: {STAT}wird nach dem Federn müde
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen, Alopezie
+
+{FLAVOR}Die Federbohne macht nicht viel Aufhebens um ihre Person. Trotzdem hat sie Millionen Fans und glühende Verehrer.
 
 [SPRINGBEAN_DESCRIPTION_HEADER]
-弹簧豆会把靠近的僵尸弹开。如果附近有水，僵尸就会被直接弹入水里。
+Federbohnen schubsen Zombies, die sich in ihre Nähe wagen, zurück - oder sogar ins Wasser.
 
 [SPRINGBEAN_PLANTFOOD]
-重重击地，把所有僵尸都弹回到草坪最右侧。
+Versetzt alle Zombies mit einem erschütternden Schlag zurück nach rechts.
 
 [SPRINGBEAN_TOOLTIP]
-将僵尸弹回后方，或直接弹入水里。
+Schubst Zombies zurück und in nahe Gewässer
 
 [SQUASH]
-窝瓜
+Matschkürbis 
 
 [SQUASH_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用
-{KEYWORD}区域：{STAT}目标周围所有僵尸
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}窝瓜只是他的艺名，他的本名叫…小明。
+{KEYWORD}Besonderheit: {STAT}mehr Schmetter-Angriffe bei Pflanzen auf höheren Stufen
+{KEYWORD}Bereich: {STAT}alle Zombies im Zielbereich
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+
+{FLAVOR}Matschkürbis ist eigentlich sein Künstlername. Sein Geburtsname lautet Tracy.
 
 [SQUASH_DESCRIPTION_HEADER]
-窝瓜会压扁第一个接近它的僵尸。
+Matschkürbisse zermatschen den ersten Zombie, der in ihre Nähe kommt.
 
 [SQUASH_PLANTFOOD]
-一下压扁草地上的多个棘手目标，然后返回原处。
+Zermatscht mehrere schwere Ziele auf dem Rasen und kehrt dann an seinen Ursprungsort zurück.
 
 [SQUASH_TOOLTIP]
-压扁接近的僵尸。
+Zermatscht Zombies. 
 
 [STAR_GATE]
 时空之门
@@ -14377,24 +14382,28 @@ Unend-Nuss
 发射等离子炮。
 
 [POWERPLANT]
-瓷砖萝卜
+Feldrübe
 
 [SUPER_POWERPLANT]
-瓷砖萝卜
+Feldrübe
 
 [POWERPLANT_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}紫色植物
-{FLAVOR}瓷砖萝卜常常标榜自己是井字游戏冠军。但大家却觉得，他这么说只是为了缓解突然蹲下在地板上画一些圈圈叉叉的尴尬。
+{KEYWORD}Nutzung: {STAT}Einfache Verwendung, sofortige Wirkung
+{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanzen
+
+{FLAVOR}DJ Feldrübe hat mit seinem Hit "Spür die Beete" allen den Boden unter den Füßen weggezogen. Mit seinem neuesten Mix versprüht er Power pur.
 
 [POWERPLANT_DESCRIPTION_HEADER]
-瓷砖萝卜可以建立强化瓷砖，以供玩家种植植物。
+Feldrüben erzeugen ein Power-Feld, wenn sie gepflanzt werden.
 
+[POWERPLANT_TOOLTIP]
+Erzeugt ein Power-Feld
 
 [SUPER_POWERPLANT_HEAD_ID_25330]
-独角瓷砖
+Einhorn-Kachel
 
 [SUPER_POWERPLANT_HEAD_DES_ID_25330]
-戴上后，可以改变瓷砖萝卜的生成的瓷砖图案。
+Nach dem Tragen kannst du das von Feldrüben generierte Kachelmuster ändern.
 
 [CARROTLAUNCHER]
 胡萝卜导弹车
@@ -14468,18 +14477,17 @@ Schnappt sich einen Zombie und schwingt ihn.
 {FLAVOR}每个人都很欣赏大嘴花的所作所为，因为他的大胃口在很多场合都曾拯救过他们。但说句真心话，大嘴花的朋友们认为他吃僵尸是件很粗鄙的事情。更何况他的口气！当他不理解别人为什么会送他薄荷的时候，实在没有人忍心告诉他真相。
 
 [SWEETPOTATO]
-甜薯
-
-[SWEETPOTATO_DESCRIPTION_HEADER]
-甜薯可以吸引附近的僵尸并阻挡他们前进。
+Süßkartoffel
 
 [SWEETPOTATO_DESCRIPTION]
-{KEYWORD}特殊：{STAT}不能吸引背后的僵尸
+{FLAVOR}Die Süßkartoffel ist genauso süß, wie sie aussieht. Ihr Lieblingstier ist das Einhorn. Ihre Lieblingsfarbe (Zitat): „Alle Farben des Regenbogens.“ Statt i-Pünktchen malt sie kleine Herzen. Ganz ehrlich, bei jedem anderen würde mich so viel Niedlichkeit abstoßen. Aber ihr steht das irgendwie.
+{KEYWORD} Spezial: {STAT} Kann keine Zombies hinter sich herlocken
 
-{FLAVOR}甜薯就像她看起来那样甜。她最喜欢的动物是独角兽。按她的原话说她最喜欢的颜色则是“彩虹的所有颜色”。当她写字母“i”的时候，她喜欢把点画成一颗心的形状。坦白来讲，对别人来说她的甜度简直无法忍受。但是对她来讲，这只是刚刚好而已。
+[SWEETPOTATO_DESCRIPTION_HEADER]
+Süßkartoffeln ziehen Zombies aus anderen Reihen an, wenn diese in ihre Nähe kommen.
 
-[POWERPLANT_TOOLTIP]
-建立强化瓷砖。
+[SWEETPOTATO_TOOLTIP]
+Zieht Zombies aus anderen Reihen an, wenn diese in ihre Nähe kommen
 
 [POWERTILE_TUTORIAL_1]
 给豌豆射手吃能量豆
@@ -21011,92 +21019,92 @@ Luftstadt
 大招能弹射到附近的僵尸。
 
 [ANTHURIUM]
-电离红掌
+Ionisierte Anthurie
 
 [ANTHURIUM_DESCRIPTION_HEADER]
-电离红掌能吸收闪电并攻击前方僵尸。
+Ionisierte Anthurie kann Blitze absorbieren und Zombies vor ihnen angreifen.
 
 [ANTHURIUM_DESCRIPTION]
-{KEYWORD}特点：{STAT}吸收周围植物身上的闪电效果
-{KEYWORD}植物特征：{STAT}红色植物、十万伏特、双胞兄弟
-{FLAVOR}不要为电离红掌中和正负电荷的能力而感到惊讶，看看兄弟俩全部都是满分的物理试卷你就明白了。但是它俩却始终无法理解对方的想法，比如在选择戴什么颜色的领带、在看纪录片还是电视剧、在去印度餐厅还是中餐厅约会这样的问题上。不过他们也明白，缺了对方，他们谁也不是操纵闪电的天才。
+{KEYWORD}Merkmale:{STAT}Absorbiert Blitzeffekte von umliegenden Pflanzen.
+{KEYWORD}Pflanzenmerkmale:{STAT}Rote Pflanze, 100.000 Volt, Zwillingsbrüder.
+{FLAVOR}Ist die Fähigkeit der ionisierten Anthurie die positiven und negativen Ladungen zu neutralisieren, nicht überraschend? Ein Blick auf die perfekten Physikarbeiten der Brüder genügt, und Sie werden es verstehen. Doch die Ideen des anderen können sie nie verstehen, wie zum Beispiel die Wahl der Krawattenfarbe, das Anschauen von Dokumentationen oder Fernsehserien oder Verabredungen in indischen oder chinesischen Restaurants. Aber sie wissen auch, dass keiner von ihnen ohne den anderen ein Genie im Umgang mit Blitzen ist.
 
 [ANTHURIUM_TOOLTIP]
-电离红掌能吸收闪电并攻击前方僵尸。
+Das Ionisiertes Anthurium kann Blitze absorbieren und Zombies vor sich angreifen.
 
 [ANTHURIUM_PLANTFOOD]
-发动闪电攻击场内的僵尸。
+Schleudert Blitze ab, um Zombies im Feld anzugreifen.
 
 [HORSEBEAN_PRODUCT_SHORT_DESC]
-蚕豆突击队能发动蚕豆突击队员攻击周围的僵尸。
+Das Bohnenkommando kann Bohnenkommandos abfeuern, um die Zombies in der Umgebung anzugreifen.
 
 [HORSEBEAN_AVATAR_NAME]
-蚕豆装扮
+Bohnenkostüm
 
 [STORE_PRODUCT_AVATAR_HORSEBEAN_TITLE]
-蚕豆装扮
+Bohnenkostüm
 
 [HORSEBEAN_SKILL_LEVEL1]
-突击！
+Angriff!
 
 [HORSEBEAN_SKILL_LEVEL1_DES]
-使蚕豆突击队员有20%的概率额外发动一次攻击。
+Gibt dem Bohnenkommando eine 20%ige Chance, einen zusätzlichen Angriff zu starten.
 
 [HORSEBEAN_SKILL_LEVEL2]
-士气如虹
+Moral
 
 [HORSEBEAN_SKILL_LEVEL2_DES]
-使蚕豆突击队员的突击技能概率提升100%。
+Erhöht die Angriffschance des Bohnenkommandos um 100 %.
 
 [HORSEBEAN_SKILL_LEVEL5]
-镭射激光
+Laser
 
 [HORSEBEAN_SKILL_LEVEL5_DES]
-使蚕豆突击队员有概率发射聚能激光。
+Gibt dem Bohnenkommando die Chance, einen fokussierten Laser abzufeuern.
 
 [STORE_PRODUCT_AVATAR_HORSEBEAN]
-大招使间隔变短。
+Die ultimative Fähigkeit verkürzt das Intervall.
 
 [HORSEBEAN]
-蚕豆突击队
+
 
 [HORSEBEAN_DESCRIPTION_HEADER]
-蚕豆突击队能发动突击队员攻击周围的僵尸。
+Bohnemkommando kann Kommandos starten, um Zombies in der Umgebung anzugreifen.
 
 [HORSEBEAN_DESCRIPTION]
-{KEYWORD}特点：{STAT}发动蚕豆突击战士攻击一定范围内的僵尸
-{KEYWORD}植物特征：{STAT}绿色植物、飞行植物、兄弟成群
-{FLAVOR}蚕豆们在飞行学校学习的时候获得了“最佳飞行员”的称号，毕业后，他们迫不及待地组成了一支飞行队。尽管蚕豆们常常吹嘘自己的飞行技术，不过大家似乎都不太敢踏上他们颠簸的母舰。
+{KEYWORD}Funktionen:{STAT} Starte ein das Bohnenkommando-Kommando, um Zombies in einem bestimmten Umkreis anzugreifen.
+{KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanzen, fliegende Pflanzen, Brüder in Gruppen.
+{FLAVOR}Als das Bohnenkommando die Flugschule besuchten, gewannen sie den Titel „Bester Pilot“. Nach ihrem Abschluss konnten sie es kaum erwarten, ein Flugteam zu bilden. Obwohl die  oft mit ihren Flugkünsten prahlen, scheint sich niemand zu trauen, ihr holpriges Mutterschiff zu betreten.
 
 [HORSEBEAN_TOOLTIP]
-蚕豆突击队能发动蚕豆突击队员攻击周围的僵尸。
+das Bohnenkommando-Kommandos können das Bohnenkommando-Kommandos starten, um die Zombies in ihrer Umgebung anzugreifen.
 
 [HORSEBEAN_PLANTFOOD]
-发动大量突击队员攻击场上的目标。
+Mobilisiere eine große Anzahl von Kommandos, um das Ziel auf dem Feld anzugreifen.
 
 [WINTERSWEET_PRODUCT_SHORT_DESC]
-梅小美发射的花朵攻击在命中前方敌人后会再次散射
+Der von Mei Xiaomei gestartete Blumenangriff zerstreut sich erneut, nachdem er den Gegner vor ihm getroffen hat.
 
 [WINTERSWEET_AVATAR_NAME]
-梅小美装扮
+Mei Xiaomei Kostüm
 
 [STORE_PRODUCT_AVATAR_WINTERSWEET_TITLE]
-梅小美装扮
+Mei Xiaomei Kostüm
 
 [WINTERSWEET_SKILL_LEVEL1]
-白梅绽开
+Weiße Pflaumenblüten
 
 [WINTERSWEET_SKILL_LEVEL1_DES]
-使梅小美每次攻击后有20%概率生成一朵白梅再次攻击。
+Gewährt Mei Xiaomei nach jedem Angriff eine 20%ige Chance, eine weiße Pflaumenblüte zu erzeugen, um erneut anzugreifen.
 
 [WINTERSWEET_SKILL_LEVEL2]
-繁花盛景
+Blühende Landschaft
 
 [WINTERSWEET_SKILL_LEVEL2_DES]
-使白梅绽开的触发概率提升100%。
+Erhöht die Chance, dass die Weiße Pflaumenblüte ausgelöst wird, um 100 %.
 
 [STORE_PRODUCT_AVATAR_WINTERSWEET]
-大招发射更多的梅花攻击敌人。
+Ultimative Fähigkeit lässt mehr Pflaumenblüten auf den Gegner los.
 
 [WINTERSWEET]
 Mei Xiaomei
@@ -21254,6 +21262,7 @@ Der ultimative Move lässt alle unsichtbaren Zombies auf dem Feld für kurze Zei
 Elektro-Blaubeere
 
 [ELECTRICBLUEBERRY_DESCRIPTION]
+{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanzen, 100.000 Volt
 {FLAVOR} Die Elektro-Blaubeere ist elektrisch UND eklektisch. „Ich liebe es, meine Feinde zu überraschen“, sagt sie. „Der letzte Gedanke, den ein Zombie hat, sollte ‚Wow, was war das denn‘ lauten.“
 
 [ELECTRICBLUEBERRY_DESCRIPTION_HEADER]
@@ -25695,46 +25704,49 @@ Kaktus
 礼包
 
 [CELERYSTALKER]
-潜伏芹菜
+Lauer-Sellerie
 
 [CELERYSTALKER_DESCRIPTION]
-{KEYWORD}特点： {STAT}等僵尸经过后，突然跳出来攻击
-{KEYWORD}植物特征：{STAT}绿色植物、矮个子
-{FLAVOR} 潜伏芹菜非常讨厌别人说他的攻击方式没特色。他觉得保持低调对植物来说更重要。
+{KEYWORD}Merkmale: {STAT}Wenn ein Zombie vorbeikommt, springt er plötzlich hervor und greift an.
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen, kurz
+
+{FLAVOR} Der Lauer-Sellerie verbittet sich jede Kritik an seinem Angriffsstil. Für ihn gehört Diskretion einfach zu den Grundprinzipien der Vegetation.
 
 [CELERYSTALKER_DESCRIPTION_HEADER]
-潜伏芹菜突然出现并从后面攻击僵尸。
+Der Lauer-Sellerie wartet, dass Zombies vorbeikommen und schnellt dann hervor, um sie hinterrücks anzugreifen.
 
 [CELERYSTALKER_TOOLTIP]
-突然出现并从后面攻击僵尸
+Schnellt hervor und greift Zombies hinterrücks an
+
 [COIN_BALANCE_ALERT]
-金币不足
+Nicht genügend Münzen
+
 [COLDSNAPDRAGON]
-冰龙草
+Eis-Drachenmäulchen
 
 [COLDSNAPDRAGON_DESCRIPTION]
-{KEYWORD}区域： {STAT}对前面6格僵尸减速，并造成伤害
-{KEYWORD}植物特征：{STAT}蓝色植物
+{KEYWORD}Bereich: {STAT}Verlangsamt und beschädigt Zombies auf den 6 vor ihm liegenden Feldern
+{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanzen
 
-{FLAVOR}当有人提到他堂兄火龙草的时候，冰龙草就会浑身散发出寒意。“我们对温度的概念很不一样，我不想讨论。”他说。
+{FLAVOR}Das Eis-Drachenmäulchen reagiert verschnupft, wenn jemand auf seinen Cousin, das Drachenmäulchen, zu sprechen kommt. „Wir haben ziemlich verschiedene Auffassungen von Temperatur, und ich möchte nicht darüber reden“, sagt er. Jemineh.
 
 [COLDSNAPDRAGON_DESCRIPTION_HEADER]
-冰龙草对前方的6格呼出冰冻雾气。
+Das Eis-Drachenmäulchen bläst Eisnebel auf 6 angrenzende Felder.
 
 [COLDSNAPDRAGON_TOOLTIP]
-对面前的区域呼出冰冻雾气
+Deckt den vor ihm liegenden Bereich mit Eisnebel ein.
 
 [COLDSNAPDRAGON_PRODUCT_SHORT_DESC]
-冰龙草对前方的6格呼出冰冻雾气。
+Eis-Drachenmäulchen stößt Eisnebel auf die sechs Felder vor sich aus.
 
 [COLDSNAPDRAGON_AVATAR_NAME]
-冰龙草装扮
+Eisdrachenmäulchen-Outfit
 
 [STORE_PRODUCT_AVATAR_COLDSNAPDRAGON]
-冰龙草对前方的9格呼出冰冻雾气，并冰冻全屏敌人一段时间。
+Eisdrachenmäulchen stößt Eisnebel auf die neun Felder vor sich aus und friert alle Gegner auf dem Bildschirm für eine gewisse Zeit ein.
 
 [STORE_PRODUCT_AVATAR_COLDSNAPDRAGON_TITLE]
-冰龙草装扮
+-Outfit
 
 [COLDSNAPDRAGON_SKILL_LEVEL1]
 寒冷吐息
@@ -31618,95 +31630,102 @@ Dunkle Alchemie
 Verbinde identische Pflanzenkugeln, um Zombies anzugreifen und zu besiegen.
 
 [STAT_VARIABLE_CURRANT]
-行与列
+Zeilen und Spalten
 [STORE_BUNDLES_ALL_PROFILES]
-在商城中购买的植物与升级会在所有档案中解锁
+Im Shop gekaufte Pflanzen und Upgrades werden in allen Profilen freigeschaltet.
 
 [STORE_COINS_CURRENT_PROFILE]
-在商城中购买的金币只会对当前档案有效。
+Im Shop gekaufte Münzen sind nur im aktuellen Profil verfügbar.
+
 [STORE_COSTUMES_CURRENT_PROFILE]
-植物装扮只会对当前档案有效
+Pflanzenkosmetik ist nur im aktuellen Profil verfügbar.
 
 [STORE_FEATURE_PLANT_CURRENT_PROFILE]
-戴夫说：“使用强力的新植物来击退僵尸！”
+Dave sagt: „Bekämpfe die Zombies mit mächtigen neuen Pflanzen!“
 
 [STORE_GEMS_CURRENT_PROFILE]
-你在商城中购买的宝石只会对当前档案生效
+Im Shop gekaufte Edelsteine sind nur im aktuellen Profil verfügbar.
 
 [STORE_HOT_DEALS_PROFILE_INFO]
-多么棒的每周精选！
+Was für eine tolle Wochenauswahl!
+
 [STORE_PLANTS_ALL_PROFILES]
-用宝石购买的植物只能在当前档案使用。在商城中购买的其它植物会对所有档案生效。
+Mit Edelsteinen gekaufte Pflanzen sind nur im aktuellen Profil verfügbar. Andere im Shop gekaufte Pflanzen sind in allen Profilen verfügbar.
 
 [STORE_PROMO]
-折扣
+Rabatt
 [STORE_SALE_DISCOUNT_OVER]
-超过 {NUMBER}%！
+Über {NUMBER} %!
 
 [STORE_SALE_DISCOUNT_SALE]
-促销！超过 {NUMBER}%！
+Angebot! Über {NUMBER} %!
 
 [STORE_SALE_REMAINING_DAYS]
-{DAYS} 天剩余
+Verbleibend {DAYS} Tage
 
 [STORE_SALE_REMAINING_TIME]
-即将结束 {DURATION}
+Endet bald {DURATION}
 
 [STORE_SALE_SEASONAL]
-季节道具！
+Saisonartikel!
 
 [STORE_SPROUTS_CURRENT_PROFILE]
-在商城中购买的幼苗只会对当前档案有效
+Im Shop gekaufte Sprossen funktionieren nur mit dem aktuellen Profil.
 
 [STORE_TRY_PLANT]
-尝试
+Ausprobieren
 
 [STORE_UPGRADES_ALL_PROFILES]
-在商城中购买的升级会对所有档案生效。
+Im Shop gekaufte Upgrades funktionieren mit allen Profilen.
 
 [STORE_WWF_LINK]
-关于我们的WWF关系
+Über unsere Beziehung zum WWF
 
 [STRAWBURST]
-爆炸草莓
+Erdbeerbömbchen
 
 [STRAWBURST_DESCRIPTION]
-{KEYWORD}用法： {STAT}点击发射
+{KEYWORD}Nutzung:{STAT} Zum Feuern antippen
+{KEYWORD} Verwendung: {STAT} Zum Auslösen klicken
 
-{FLAVOR} “越大越好”爆炸草莓说“不过小也有小的好处。而且你绝对不能低估中等大小的威力。我就是很喜欢各种不同大小而已，真的。”
+{FLAVOR} „Groß ist gut“, sagt das Erdbeerbömbchen. „Aber klein ist auch fein. Und mittel finde ich eigentlich auch prächtig. Ich mag alle Größen, denke ich.“
 
 [STRAWBURST_DESCRIPTION_HEADER]
-爆炸草莓会长成从小到大不同伤害的草莓！
+Das Erdbeerbömbchen lässt eine Beere für kleinen, mittleren oder schweren Schaden wachsen!
 
 [STRAWBURST_TOOLTIP]
-长出伤害从小到大的草莓。
+Lässt eine Beere für kleinen, mittleren oder schweren Schaden wachsen
+
 [SUGGEST_TUTORIAL_DESCRIPTION]
-需要帮忙挑选植物吗？强化选择可以让你获得强力的攻击者，防御者或是阳光生产者来帮助你获得胜利。
+Brauchst du Hilfe bei der Pflanzenauswahl? Verstärke deine Auswahl und erhalte einen mächtigen Angreifer, Verteidiger oder Sonnenproduzenten, der dir zum Sieg verhilft.
 
 [SUGGEST_TUTORIAL_TITLE]
-强化选择
+Verstärke deine Auswahl
 
 [THYMEWARP]
-逆时草
+Eigenthymian
 
 [THYMEWARP_DESCRIPTION]
-{KEYWORD}用法： {STAT}一次性使用，立即生效
-{KEYWORD}特点： {STAT}被传送回去的僵尸也会回复生命。
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} “性能可的它其受接要需们我”逆时草说，“限局常非性向单的间时得觉直一我。”
+{KEYWORD}Nutzung: {STAT}einfache Nutzung, sofortige Wirkung
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+
+{KEYWORD}Besonderheit: {STAT}Zurückgesetzte Zombies haben wieder volle Gesundheit
+
+{FLAVOR}„Sein Denkweisen andere für offen müssen wir“, sagt der Eigenthymian. „Ist Einbahnstraße keine Zeit die dass, gewusst immer habe ich.“
 
 [THYMEWARP_DESCRIPTION_HEADER]
-逆时草可以让时光倒流，把僵尸送回他们开始的地方。
+Der eigentümliche Eigenthymian schickt Zombies an ihren Ausgangspunkt zurück.
 
 [THYMEWARP_TOOLTIP]
-把僵尸送回开始的地方。
+Schickt Zombies an ihren Ausgangspunkt zurück
 
 [TIME_TWIST_PINATA_PARTIES]
 时间扭曲彩罐派对开始！
+
 [TRAVEL_LOG_CARD]
 旅行日志
 [UNIVERSE_DIFFICULTY]
-难度
+Schwierigkeit
 [UNLOCK_BEACH_DESC]
 使用世界钥匙解锁大浪沙滩的假日恐怖关卡！
 
@@ -47108,7 +47127,7 @@ Pflanzen-Herausforderung – Glockenblumenkrug!
 Pflanzen-Challenge – Großmaulblume!
 
 [TASK_WEEKLY_PLANTCHALLENGE_COLDSNAPDRAGON]
-Pflanzen-Challenge – Eisdrachengras!
+Pflanzen-Challenge – Eis-Drachenmäulchen!
 
 [TASK_WEEKLY_PLANTCHALLENGE_DANDELION]
 Pflanzen-Challenge – Löwenzahn!
@@ -48465,7 +48484,7 @@ Die vom normalen Angriff des Rohrkolbengrases abgefeuerten Stacheln haben eine C
 Angriffe mit Feuerdrachengras verursachen 5 Sekunden lang Brandschaden, was {Param_1} % des Angriffsschadens entspricht.
 
 [GENE_DESCRIPTION_COLDSNAPDRAGON]
-Die Angriffsgeschwindigkeit von Eisdrachengras erhöht sich um {Param_1} %.
+Die Angriffsgeschwindigkeit von Eis-Drachenmäulchen erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_CAULIPOWER]
 Die Abklingzeit für das Pflanzen von Super-Blumenkohl verkürzt sich um {Param_1} %.
@@ -51300,7 +51319,7 @@ Laser Bean Kindertagskostüm
 Angriffskraft um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_1]
-Kindertag des Saubohnenkommandos Kostüm
+Kindertag des Bohnenkommando's
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHESTNUT_1]
 Kastanien-Kindertagskostüm
@@ -51604,7 +51623,7 @@ Dreiloch-Stecksockelhut
 Erhöht den Blitzschaden um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_1]
-Eisdrachengras-Eiscreme
+Eis-Drachenmäulchen-Eiscreme
 
 [NEW_AVATAR_DESCRIPTION_COLDSNAPDRAGON_1]
 Erhöht den Kälteschaden um 30 %
@@ -72961,19 +72980,19 @@ Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Kugeln hintereinand
 地锯草甩出双手两侧的电锯对上下3×3范围内的僵尸造成伤害，受到伤害的僵尸持续抖动5秒，电锯的伤害各自结算，同时重置双手电锯的状态。^ff0000^电锯旋转时会产生火花，受到伤害的僵尸会被点燃，每秒受到伤害，持续5秒，再次受到伤害会重置点燃的持续时间。^oldclr^
 
 [HEATHSEEKER_NEW_SKILL_LEVEL1_DES]
-种植后石楠探索者会发出6枚飞镖子弹，自动追踪僵尸，每个飞镖可以穿透3次，当场上有携带护盾的僵尸时，飞镖会优先瞄准他们，每个飞镖可击碎一个护盾，当飞镖击碎了护盾时会直接消失
+Nach dem Pflanzen feuert der Heißen heide sechs Pfeile ab und verfolgt Zombies automatisch. Jeder Pfeil kann drei Mal eindringen. Befinden sich Zombies mit Schilden auf dem Feld, werden sie zuerst von den Pfeilen anvisiert. Jeder Pfeil kann einen Schild durchbrechen. Sobald der Pfeil den Schild durchbricht, verschwindet er sofort.
 
 [HEATHSEEKER_NEW_SKILL_LEVEL2_DES]
-石楠探索者的尖刺被强化了，每次发出7枚飞镖子弹，子弹的穿透次数变为4次。
+Die Stacheln von der Heißen heide wurden verstärkt und feuern nun sieben Pfeile ab, wodurch die Anzahl der Durchschläge vervierfacht wurde.
 
 [HEATHSEEKER_NEW_SKILL_LEVEL3_DES]
-石楠探索者的尖刺被强化了，每次发出8枚飞镖子弹，子弹的穿透次数变为5次。
+Die Stacheln von der Heißen heide wurden verstärkt und feuern nun acht Pfeile ab, wodurch die Anzahl der Durchschläge verfünffacht wurde.
 
 [HEATHSEEKER_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
 
 [HEATHSEEKER_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
 	  
 [ENTS_NEW_SKILL_LEVEL1_DES]
 Der riesige Körper des Baumwächters dient dem Schutz von Pflanzen. Er regeneriert automatisch seine Gesundheit um 300 Punkte pro Sekunde. Bei mehr als zwei Zombies erhöht sich die Regeneration auf 400 Punkte pro Sekunde. Er kann Baumspitzen um sich herum erzeugen, um Zombies anzugreifen. ^ff0000^ Er hat eine wundersame Wirkung auf Roller-Zombies. ^oldclr^
@@ -73147,22 +73166,22 @@ Wenn die Kapsel wächst, bricht sie auf und ein riesiger Tofu-Zombie kommt herau
 Wenn rechts ein Zombie erscheint, feuert dieser einen Laser ab, der dem Zombie pro Sekunde kontinuierlich Schaden zufügt. Der Laserschaden erhöht sich mit der Angriffszeit, nach 2 Sekunden auf das Dreifache und nach weiteren 5 Sekunden auf das Sechsfache. Jeder Angriff zielt auf die Pflanze ganz rechts, wird aber von großen Zombies oder mechanischen Zombies abgewehrt. Der Gesamtschaden pro Sekunde des Lasers bleibt unverändert und nimmt beim Eindringen in den Zombie ab.
 
 [CROWNFLOWER_NEW_SKILL_LEVEL2_DES]
-第三阶段激光下再持续攻击5秒后会进入高能状态，高能状态下攻击会直接从第三阶段激光开始发射。高能状态可在未攻击时保留5秒。
+Nach 5 Sekunden ununterbrochenem Angriff mit dem Laser der dritten Stufe wechselt der Energiezustand in den Zustand hoher Energie. Im Zustand hoher Energie wird der Angriff direkt vom Laser der dritten Stufe abgefeuert. Der Energiezustand kann 5 Sekunden lang aufrechterhalten werden, wenn nicht angegriffen wird.
 
 [CROWNFLOWER_NEW_SKILL_LEVEL3_DES]
-高能状态开启的要求时间减少，第三阶段激光下再持续攻击3秒后就会进入高能状态。
+Die benötigte Zeit zum Aktivieren des Energiezustands wurde reduziert. Nach 3 Sekunden ununterbrochenem Angriff mit dem Laser der dritten Stufe wechselt der Energiezustand in den Zustand hoher Energie.
 
 [CROWNFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [CROWNFLOWER_NEW_SKILL_LEVEL5_DES]
-第二阶段激光伤害提升至3.5倍，并能对最左侧的中小体型僵尸造成减速；第三阶段激光伤害提升至7倍，并能对最左侧的中小体型僵尸持续推动，对巨人僵尸造成减速。
+Der Schaden des Lasers der zweiten Stufe wird auf das 3,5-fache erhöht und kann kleine und mittelgroße Zombies ganz links verlangsamen. Der Schaden des Lasers der dritten Stufe wird auf das Siebenfache erhöht. Er kann kleine und mittelgroße Zombies ganz links kontinuierlich stoßen und riesige Zombies verlangsamen.
 
 [CROWNFLOWER_PLANTFOOD_DESCRIPTION]
-激光皇冠花鼓起花苞蓄力，向右侧、右上和右下各发射1个激光球，击飞沿途的中小型僵尸，在接触大型僵尸或机械僵尸时引爆对僵尸造成伤害。该秒杀无阶数限制
+Die Laserkronenblume schwillt an, lädt sich auf und feuert jeweils einen Laserball nach rechts, oben rechts und unten rechts ab, wodurch kleine und mittelgroße Zombies auf dem Weg weggestoßen werden. Bei Berührung mit einem großen oder mechanischen Zombie explodiert sie und fügt dem Zombie Schaden zu. Die Anzahl der Ränge für diesen Sofortkill ist unbegrenzt.
 
 [CROWNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-激光皇冠花鼓起花苞蓄力，向右侧、右上和右下各发射1个激光球，击飞沿途的中小型僵尸，在接触大型僵尸或机械僵尸时引爆对僵尸造成伤害。^ff0000^激光球会在飞行过程中对周围格的僵尸扩散出闪电链造成伤害。^oldclr^该秒杀无阶数限制
+Die Laserkronenblume schwillt an, lädt sich auf und feuert jeweils einen Laserball nach rechts, oben rechts und unten rechts ab, wodurch kleine und mittelgroße Zombies auf dem Weg weggestoßen werden. Bei Berührung mit einem großen oder mechanischen Zombie explodiert sie und fügt dem Zombie Schaden zu. ^ff0000^ Der Laserball sendet während des Fluges eine Blitzkette zu den Zombies im umgebenden Gitter und verursacht Schaden. ^oldclr^ Es gibt keine Begrenzung für die Anzahl der Ränge für diesen Sofortkill.
 
 [ORCHIDMAGE_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts erscheint, schleudert sie einen Schwerkraftball nach rechts. Dieser explodiert, sobald er das erste Zombie-Feld (1) durchquert. Er fügt den umliegenden 3×3 Zombies Schaden zu und zieht sie 0,5 Felder zur Mitte. Erscheint ein Zombie ein Feld rechts, schleudert er einen kleinen Schwerkraftball auf seinen Kopf, der einen einzelnen Zombie ein Feld zurückwirft.
@@ -73446,876 +73465,974 @@ Die Lanzen Wachsblume hebt seinen Speer an die Spitze seines Kopfes und wirbelt 
 参与破罐大师活动，稀有植物奖励等你来领！
 
 [INVATATION_TITLE]
-邀请有礼
+Geschenkeinladung
 
 [INVATATION_TAB_NAME1]
-招募报道
+Rekrutierungsbericht
 
 [INVATATION_TAB_NAME2]
-招募令
+Rekrutierungsauftrag
 
 [INVATATION_TAB_NAME3]
-招募任务
+Rekrutierungsmission
 
 [INVATATION_TAB_NAME4]
-招募抽奖
+Rekrutierungslotterie
 
 [INVATATION_DEFAULT_TEXT1]
-可填写邀请码
+Einladungscode kann eingegeben werden.
 
 [INVATATION_DEFAULT_TEXT2]
-不符合填写条件
+Nicht zutreffend. Füllen Sie die Bedingungen aus.
 
 [INVATATION_DEFAULT_TEXT3]
-已绑定
+Bereits gebunden.
 
 [INVATATION_TAB1_TEXT1]
-立即分享
+Jetzt teilen
 
 [INVATATION_TAB1_COPY_CODE]
-复制邀请码
+Einladungscode kopieren
 
 [INVATATION_TAB1_SHARED]
-分享并复制邀请码
+Einladung teilen und kopieren Code
 
 [INVATATION_TAB2_TEXT]
-仅限活动期间新创建的账号才可填写邀请码
+Nur neu erstellte Accounts während des Events können den Einladungscode eingeben.
 
-[INVATATION_TAB1_RECORD]
-邀请记录
+[INVATATION_TAB1_RECODE] RD]
+Einladungsdatensatz
 
 [INVATATION_GRADE_TASK_NAME_1_1]
-每日登录
+Täglicher Login
 
 [INVATATION_GRADE_TASK_NAME_1_2]
-招募人数达成{NUM}人
+{NUM} Spieler rekrutiert
 
 [INVATATION_GRADE_TASK_NAME_1_3]
-招募45星以上玩家达成{NUM}人
+{NUM} Spieler über 45 Sterne rekrutiert
 
 [ACTIVITY_NEW_TIPS_TITLE]
-提示
+Tipps
 
-[ACTIVITY_NEW_PLAYER_SURVEY_TIPS]
-活动说明
+[ACTIVITY_NEW_PLAYER_SURVE Y_TIPS]
+Aktivitätsbeschreibung
 
 [ACTIVITY_NEW_PIGGYBANK_TIPS]
-活动说明
+Aktivitätsbeschreibung
 
 [ACTIVITY_NEW_RICHMAN_TIPS]
-活动说明
+Aktivität Beschreibung
 
 [ACTIVITY_NEW_RECHARGEDAILYSIGN_TIPS]
-活动说明
+Aktivitätsbeschreibung
 
 [ACTIVITY_NEW_DISCOUNTSHOP_TIPS]
-活动说明
+Aktivitätsbeschreibung
 
 [ACTIVITY_NEW_PIGGY_BANK_LOGIN_TEXT]
-第   天
+Tag
 
 [TEN_YEAR_SHARE_BUTTON]
-分享
+Teilen
 
 [TEN_YEAR_START_BUTTON]
-回顾
+Bewertung
 
 [TENYEAR_RECORD_INDEX1_1]
-你好, 我的邻居！^FF0000 {NAME} ^oldclr
+Hallo, mein Nachbar! ^FF0000 {NAME} ^oldclr
 
 [TENYEAR_RECORD_INDEX1_2]
-    ^FF0000 {TIME} ^oldclr 你第一次来到我的花园。
+^FF0000 {TIME} ^oldclr Dein erster Besuch in meinem Garten.
 
 [TENYEAR_RECORD_INDEX1_3]
-嘿！ 我们已经认识^FF0000 {COUNT} ^oldclr 天了！
+Hey! Wir kennen uns seit ^FF0000 {COUNT} ^oldclr Tagen!
 
 [TENYEAR_RECORD_INDEX1_4]
-            十年来，我们和潘妮一同穿越了^FF0000 {COUNT} ^oldclr 个世界。
+In den letzten zehn Jahren sind wir mit Penny durch ^FF0000 {COUNT} ^oldclr-Welten gereist.
 
 [TENYEAR_RECORD_INDEX1_5]
-在浩瀚的pvz2的宇宙中，我们共同收集了^FF0000 {COUNT} ^oldclr 颗星星！
+Im riesigen PVZ2-Universum haben wir gemeinsam ^FF0000 {COUNT} ^oldclr-Sterne gesammelt!
+
 [TENYEAR_RECORD_INDEX1_6]
-                你有为我兑换玉米卷吗？
+Hast du schon Tacos für mich eingelöst?
 
 [TENYEAR_RECORD_INDEX2_1]
-据小僵僵名人堂统计:
-[TENYEAR_RECORD_INDEX2_2]
-    十年来你一共收集了^FF0000 {COUNT} ^oldclr 颗植物！
-[TENYEAR_RECORD_INDEX2_3]
-拥有植物装扮^FF0000 {COUNT} ^oldclr ！
-[TENYEAR_RECORD_INDEX2_4]
-        解锁^FF0000 {COUNT} ^oldclr 个植物家族！
-[TENYEAR_RECORD_INDEX2_5]
-    获得神器^FF0000 {COUNT} ^oldclr 个，
-[TENYEAR_RECORD_INDEX2_6]
-    其中^FF0000 {COUNT} ^oldclr 个神器等级达到^FF0000 30 ^oldclr 级，简
-[TENYEAR_RECORD_INDEX2_7]
-    直棒棒哒~~~
+Laut der Little Zombie Hall of Fame:
 
+[TENYEAR_RECORD_INDEX2_2]
+In den letzten zehn Jahren hast du insgesamt ^FF0000 {COUNT} ^oldclr-Pflanzen gesammelt!
+[TENYEAR_RECORD_INDEX2_3]
+Besitze ^FF0000 {COUNT} ^oldclr-Pflanzenkostüme!
+[TENYEAR_RECORD_INDEX2_4]
+Schalte ^FF0000 {COUNT} ^oldclr-Pflanzenfamilien frei!
+[TENYEAR_RECORD_INDEX2_5]
+Erhalte ^FF0000 {COUNT} ^oldclr-Artefakte.
+[TENYEAR_RECORD_INDEX2_6]
+Davon haben ^FF0000 {COUNT} ^oldclr-Artefakte ^FF0000 30 ^oldclr-Level erreicht.
+[TENYEAR_RECORD_INDEX2_7]
+Es ist fantastisch!
 
 [TENYEAR_RECORD_INDEX3_1]
-2020年我被僵尸博士绑架了，感谢你和潘妮一起解救我！
+2020 wurde ich von Dr. Zombie entführt. Danke, dass du mich mit Penny gerettet hast!
 [TENYEAR_RECORD_INDEX3_2]
-    2022年【创意庭院】 上线了！上线至今你一共发
+2022 ist [Creative Garden] online! Seit dem Start hast du insgesamt ^FF0000 {COUNT} ^oldclr selbst erstellte Level veröffentlicht!
 [TENYEAR_RECORD_INDEX3_3]
-        布过^FF0000 {COUNT} ^oldclr 个自制关卡！
+
 [TENYEAR_RECORD_INDEX3_4]
-2023年【双人对决】上线！ 至今你获得过的历史最高段
-[TENYEAR_RECORD_INDEX3_5]
-    位是^FF0000 {COUNT} ^oldclr
+2023 ist [Double Duel] online! Dein höchstes Level, das du je erreicht hast, ist ^FF0000 {COUNT} ^oldclr.
 
 [TENYEAR_RECORD_INDEX4_1]
-^FF0000 {NAME} ^oldclr ，我的好邻居，感谢这十年一路同行！
+^FF0000 {NAME} ^oldclr, mein lieber Nachbar, danke, dass du mich die letzten zehn Jahre begleitet hast!
 [TENYEAR_RECORD_INDEX4_2]
-    恭喜你获得了周年豪华奖励，赶紧点击领取吧！
+Herzlichen Glückwunsch zum Gewinn der Jubiläums-Luxusprämie! Klickt jetzt, um sie einzufordern!
 [TENYEAR_RECORD_INDEX4_3]
-                            ————爱你的戴夫
+———— Alles Liebe, Dave
 [PRODUCT_PLANT_CULTIVATE_20_SHORTDESC]
-植物培育限购礼包
+Geschenkpaket Pflanzenanbau (limitierter Kauf)
 
 [INVITATION_MAIN_TIPS_INFO]
-1.本期活动持续时间为2025年1月23日-2025年3月18日
-2.通关神秘埃及第六天，即可招募玩家
-3.活动期间，可以通过招募任务，或通过每日分享获得代币，使用代币可在招募抽奖中获得丰厚奖励；
-每期活动结束后，商店关闭、多余的代币清空回收
-4.招募规则：
-被邀请玩家需要满足以下任意一种条件：
-  1.活动期间新创建的账号并且通关神秘埃及第六天
-  2.距离上次登录时间30天以上（活动开始以后新注册的用户，大号开小号或者同一设备、同一账号等都不符合要求）
-（每期活动，每位符合条件的玩家只能被招募一次）
-被招募的玩家填写邀请码后，视为招募成功，立即获得一份奖励；
-每位玩家可以招募多名玩家（上限100名）；
-邀请码安卓和 iOS 不互通，安卓邀请码仅可邀请安卓玩家，ios邀请码仅可邀请ios玩家。
+1. Dieses Event läuft vom 23. Januar 2025 bis zum 18. März 2025.
+2. Nach Abschluss des sechsten Tages von „Geheimnisvolles Ägypten“ könnt ihr Spieler rekrutieren.
+3. Während des Events könnt ihr durch Rekrutierungsaufgaben oder tägliches Teilen Token erhalten und diese gegen attraktive Belohnungen in der Rekrutierungslotterie eintauschen.
+Nach jedem Event wird der Shop geschlossen und die überschüssigen Token werden gelöscht und recycelt.
+4. Rekrutierungsregeln:
+Die eingeladenen Spieler müssen eine der folgenden Bedingungen erfüllen:
+1. Ein neues Konto muss während des Events erstellt und der sechste Tag von „Geheimnisvolles Ägypten“ abgeschlossen worden sein.
+2. Mehr als 30 Tage seit der letzten Anmeldung (neu registrierte Benutzer nach Eventbeginn, Hauptkonto, das ein Zweitkonto eröffnet, oder dasselbe Gerät, dasselbe Konto usw. erfüllen die Anforderungen nicht).
+(Jedes Event und jeder berechtigte Spieler kann nur einmal rekrutiert werden.)
+Nachdem der rekrutierte Spieler den Einladungscode eingegeben hat, gilt die Rekrutierung als erfolgreich und er erhält sofort eine Belohnung.
+Jeder Spieler kann mehrere Spieler rekrutieren (bis zu 100).
+Einladungscodes für Android und iOS sind nicht kompatibel. Android-Einladungscodes können nur Android-Spieler einladen, iOS-Einladungscodes nur iOS-Spieler.
 
 [UIINVITATION_REWARD_BOX_0]
-神器进阶书多选一礼包
+Geschenkpaket „Artefakt-Fortgeschrittenes Buch“ (Multiple-Choice)
 
 [DAVEKITCHEN_DESCRIPTION_TITLE]
-戴夫厨房活动说明
+Beschreibung des Dave-Küchen-Events
 
 [DAVEKITCHEN_DESCRIPTION]
-1.活动期间内，完成多个模式关卡（追击、双人、无尽、回忆）挑战成功后，可以在戴夫厨房每日任务里面领取玉米和水，每天24点后重置任务
-2.玩家可以通过各种食材制作各个玉米卷，制作完成后可以获得戴夫赠送的谢礼，具体概率为：
-巨无霸玉米卷:（1）聚能山竹碎片30%（2）定向碎片60%（3）进阶书10%
-烤肉玉米卷：（1）神器祝福券40%（2）定向碎片30%（3）荸荠兄弟碎片30%
-熏肉玉米卷：（1）神器祝福券40%（2）深渊海葵碎片30%（3）橙色营养液30%
-蔬菜玉米卷：（1）100钻石 40%（2）刺果流星锤碎片40%（3）紫色营养液20%
-玉米卷：    （1）30钻石 40%（2）全息坚果碎片40%（3）蓝色营养液20%
-3.剩余的各个食材可以在制作界面兑换相应的钻石，金币道具。多余食材不累计到下期，请大家尽快兑换。
+1. Während des Events könnt ihr nach dem erfolgreichen Abschluss mehrerer Spielmodi (Verfolgung, Zwei-Spieler-Modus, Endlosmodus, Erinnerungen) in der täglichen Dave-Küchen-Aufgabe Mais und Wasser erhalten. Die Aufgabe wird täglich nach 24:00 Uhr zurückgesetzt.
+2. Spieler können verschiedene Tacos mit unterschiedlichen Zutaten zubereiten. Danach erhalten sie ein Dankeschön von Dave. Die genaue Wahrscheinlichkeit ist wie folgt:
+Big-Mac-Taco: (1) Energiesammelndes Mangostan-Fragment 30 % (2) Richtungsfragment 60 % (3) Fortgeschrittenes Buch 10 %
+Barbecue-Taco: (1) Artefakt-Segensgutschein 40 % (2) Richtungsfragment 30 % (3) Wasserkastanien-Brüder-Fragment 30 %
+Räucherfleisch-Taco: (1) Artefakt-Segensgutschein 40 % (2) Abgrundanemonen-Fragment 30 % (3) Orange Nährlösung 30 %
+Gemüse-Taco: (1) 100 Diamanten 40 % (2) Dornenfrucht-Meteorhammer-Fragment 40 % (3) Lila Nährlösung 20 %
+Schildkröte: (1) 30 Diamanten 40 % (2) Holografisches Nuss-Fragment 40 % (3) Blaue Nährlösung 20 %
+3. Die restlichen Zutaten können im Produktionsfenster gegen entsprechende Diamanten und Goldmünzen eingetauscht werden. Überschüssige Zutaten werden nicht für die nächste Periode übernommen. Bitte tauschen Sie sie so schnell wie möglich ein.
 
 [DAVEKITCHEN_SHORT_DESCRIPTION]
-帮助戴夫制作美味玉米卷，有概率获得钻石、神器祝福券、进阶书等谢礼。
+Hilf Dave beim Zubereiten leckerer Tacos und erhalte Diamanten, Artefakt-Segenskarten, fortgeschrittene Bücher und andere Dankeschön-Geschenke.
 
 [PLANT_FIGHTZODIAC_SHORT_DESCRIPTION]
-将获得的鞭炮向戴夫兑换奖励，有各种植物碎片可以获得！
+Tausche die Feuerwerkskörper, die du bei Dave erhältst, gegen Belohnungen ein und erhalte verschiedene Pflanzenfragmente!
 
 [PARTY_ASSIST_TITLE]
-派对助力
+Gruppenhilfe
 
 [PARTY_ASSIST_TAB_NAME1]
-派对助力
+Gruppenhilfe
 
 [PARTY_ASSIST_TAB_NAME2]
-助力商店
+Hilfe-Shop
 
 [PARTY_ASSIST_TAB_NAME3]
-限时任务
+Zeitlich begrenzte Aufgabe
 
 [PARTY_ASSIST_BUTTON_TITLE]
-立即助力
+Jetzt helfen
 
 [PARTY_ASSIST_BONUS_TITLE]
-奖励预览
+Belohnungsvorschau
 
 [PARTY_ASSIST_NEXT_LEVEL_BONUS]
-下层奖励
+Belohnung niedrigerer Stufe
 
 [PARTY_ASSIST_ALL_BONUS]
-全部奖励
+Alle Belohnungen
 
 [PARTY_ASSIST_RESET]
-是否重置奖池到初始状态？
+Belohnungspool auf den Ausgangszustand zurücksetzen?
 
 [PARTY_ASSIST_TICKETS_NOT_ENOUGH]
-当前助力票不足，是否跳转商店界面购买？
+Aktuell nicht genügend Hilfe-Tickets. Möchten Sie zum Kauf direkt in den Shop wechseln?
 
 [PARTY_ASSIST_CHOOSE_REWARD_TITLE]
-选择愿望奖励
+Wähle deine Wunschbelohnung
 
 [PARTY_ASSIST_ACTIVITY_COLLECTION_DESC]
-参与派对助力，助力攀登层数，赢取各种稀有奖励，更有机会获得超稀有装扮
+Nehme an der Gruppenhilfe teil, hilf beim Levelaufstieg, gewinne verschiedene seltene Belohnungen und sichere dir die Chance auf superseltene Kostüme.
 
 [PARTY_ASSIST_TIPS_DESC]
-活动规则：
-1.助力开始前，请先选定3个自选奖励，自选奖励将在到达相应层数时概率获得。
-2.累计3轮助力均到达10层，必定获得天使星星果怪盗装扮（该奖励仅能获得1次）。
-3.每助力一次，助力进度提升一级，并获得当层奖励，有小概率直接获得超级奖励（每层概率固定10%，如已获得该装扮，便不再遵循此规则）。累计三次助力进度到10级，必得超级奖励。
-4.每次助力到达10层后，可以重置自选奖励，玩家达到第5层及以上时，可以手动重置抽奖。
-5.完成限定任务可领取丰富奖励，任务的需求装扮可以在自选奖励中获得。
-6.本次活动进度及代币不继承至下期，活动结束后剩余代币会按1:10比例转换为钻石。
-7.活动结束后，需要到背包中选择对应代币图标，点击道具兑换按钮转换成钻石，请大家及时兑换，本期剩余代币会在下期活动的版本上线时清空哦。
+Regeln für die Aktivität:
+1. Wähle vor Beginn der Hilfe drei selbstgewählte Belohnungen aus. Die selbstgewählten Belohnungen werden mit der Wahrscheinlichkeit erhalten, sobald das entsprechende Level erreicht ist.
+2. Wenn du nach drei Runden Hilfe das 10. Level erreichst, erhältst du garantiert das Kostüm „Engel-Sternfrucht-Dieb“ (diese Belohnung kann nur einmal erhalten werden).
+3. Für jede Hilfe erhöht sich dein Hilfefortschritt um ein Level, und du erhältst die Belohnung des aktuellen Levels. Es besteht eine geringe Wahrscheinlichkeit, direkt eine Superbelohnung zu erhalten (die Wahrscheinlichkeit ist für jedes Level auf 10 % festgelegt. Wenn du das Kostüm bereits erhalten hast, gilt diese Regel nicht mehr). Wenn du Level 10 mit drei kumulierten Hilfen erreichst, erhältst du garantiert eine tolle Belohnung.
+4. Jedes Mal, wenn du hilfst, Level 10 zu erreichen, kannst du die selbstgewählten Belohnungen zurücksetzen. Ab Level 5 kannst du die Lotterie manuell zurücksetzen.
+5. Du kannst durch das Erfüllen begrenzter Aufgaben reichhaltige Belohnungen erhalten. Die dafür benötigten Kostüme erhältst du aus den selbstgewählten Belohnungen.
+6. Der Fortschritt und die Token dieses Events werden nicht auf den nächsten Zeitraum übertragen. Nach dem Event werden die verbleibenden Token im Verhältnis 1:10 in Diamanten umgewandelt.
+7. Wähle nach dem Event das entsprechende Token-Symbol im Rucksack aus und klicke auf die Schaltfläche „Requisitentausch“, um es in Diamanten umzuwandeln. Bitte tausche die Token rechtzeitig ein. Die verbleibenden Token dieses Zeitraums werden gelöscht, sobald die nächste Version des Events erscheint.
 
-派对助力抽取概率： 
-  助力层数1：自选装扮1：20%	 基因原质*2：70%	 天使星星果碎片*10：10%
-  助力层数2：自选装扮1：20%	 基因原质*2：70%	 天使星星果碎片*10：10%
-  助力层数3：自选装扮1：100%
-  助力层数4：自选装扮2：20%	 基因原质*5：70%	 锯齿锦地罗碎片*10：10%
-  助力层数5：自选装扮2：20%	 基因原质*5：70%	 定向碎片*10：10%
-  助力层数6：自选装扮2：100%
-  助力层数7：自选装扮3：20%	 基因原质*12：70%	 万能碎片*10：10%
-  助力层数8：自选装扮3：20%	 基因原质*12：70%	 万能碎片*10：10%
-  助力层数9：自选装扮3：20%	 基因原质*30：70%	 进阶书*1：10%
-  助力层数10：自选装扮3	100%
-
+Wahrscheinlichkeit der Parteiunterstützung:
+Unterstützungsstufe 1: Selbstgewähltes Kleid 1: 20 % Gen-Essenz * 2: 70 % Engelssternfruchtfragment * 10: 10 %
+Unterstützungsstufe 2: Selbstgewähltes Kleid 1: 20 % Gen-Essenz * 2: 70 % Engelssternfruchtfragment * 10: 10 %
+Unterstützungsstufe 3: Selbstgewähltes Kleid 1: 100 %
+Unterstützungsstufe 4: Selbstgewähltes Kleid 2: 20 % Gen-Essenz * 5: 70 % Sägezahn-Jindi-Luo-Fragment * 10: 10 %
+Unterstützungsstufe 5: Selbstgewähltes Kleid 2: 20 % Gen-Essenz * 5: 70 % Richtungsfragment * 10: 10 %
+Unterstützungsstufe 6: Selbstgewähltes Kleid 2: 100 %
+Unterstützungsstufe 7: Selbstgewähltes Kleid 3: 20 % Gen-Essenz * 12: 70 % Universalfragment * 10: 10 %
+Unterstützungsstufe 8: Selbstgewähltes Kostüm 3: 20 % Gen-Essenz * 12: 70 % Universalfragment * 10: 10 %
+Unterstützungsstufe 9: Selbstgewähltes Kostüm 3: 20 % Gen-Essenz * 30: 70 % Fortgeschrittenes Buch * 1: 10 %
+Unterstützungsstufe 10: Selbstgewähltes Kostüm 3 100 %
 
 [MAT_PARTY_ASSIST_TICKET]
-派对助力券
+Party-Unterstützungsticket
 
 [MAT_PARTY_ASSIST_TICKET_USE]
-派对助力活动中用于抽奖
+Wird für die Lotterie im Party-Unterstützungs-Event verwendet.
 
 [MAT_PARTY_ASSIST_TICKET_GOT_WAY]
-派对助力活动商店购买
+Kauf im Party-Unterstützungs-Event-Shop.
 
 [PARTY_ASSIST_EVENT_LIMITED]
-活动限定
+Eventbegrenzt
 
 [PARTY_ASSIST_EVENT_DESC]
-每次助力有^FA9A1C 10%^oldclr 概率额外获得
-^FA9A1C 3^oldclr 轮助力均到达^FA9A1C 10^oldclr 层时^FA9A1C 必定 ^oldclr 获得
+Jede Unterstützung hat eine ^FA9A1C 10 % ^oldclr Wahrscheinlichkeit, ein Ticket zu erhalten. Zusätzliche
+^FA9A1C 3^oldclr Unterstützungsrunden haben das ^FA9A1C 10^oldclr-Level erreicht. ^FA9A1C muss ^oldclr erhalten.
 
 [PARTY_ASSIST_HAS_GOT]
-已获得
+Wurde erhalten.
 
 [PARTY_ASSIST_RATIO]
-概率{NUMS}%
+Wahrscheinlichkeit {NUMS} %
 
 [PARTY_ASSIST_BUY_CONFIRM]
-消耗{NUMS}助力券进行一次助力
+Verbrauche {NUMS} Unterstützungsgutscheine, um einmal zu helfen.
 
 [PARTY_ASSIST_PLEASE_SET_WISH_FIRST]
-需要选择完所有愿望奖励
+Du musst alle Wunschbelohnungen auswählen.
 
 [PARTY_ASSIST_WISHING_POOL_GOT]
-已拥有
+Bereits im Besitz.
 
 [PARTY_ASSIST_NEXTLEVEL_TIPS]
-助力前往第^FA9A1C {NUMS}^oldclr 层
+Hilf der Ebene ^FA9A1C {NUMS}^oldclr.
 
 [PARTY_ASSIST_BONUS_TIPS]
-尚未选择助力自选奖励，请点击助力按钮选择奖励
+Du hast die selbstgewählte Unterstützungsbelohnung noch nicht ausgewählt. Klicke bitte auf die Schaltfläche „Unterstützung“, um sie auszuwählen.
 
 [PARTY_ASSIST_TASK_DES_0]
-获得天使星星果怪盗装扮
+Holt euch das Engel-Sternfrucht-Dieb-Kostüm.
 
 [PARTY_ASSIST_TASK_DES_1]
-获得天使星星果怪盗装扮以及猕猴桃气球金箍装扮，火焰豌豆周年装扮，剑叶龙血树礼服装扮
+Holt euch das Engel-Sternfrucht-Dieb-Kostüm, das Kiwi-Ballon-Goldreifen-Kostüm, das Flammenerbsen-Jubiläumskostüm und das Schwertblatt-Drachenblutbaum-Kleid. Kostüm
 
 [PARTY_ASSIST_TASK_DES_2]
-获得本期活动中所有装扮奖励
+Holen Sie sich alle Kostümbelohnungen dieses Events.
 
 [FUTURE_GIFT_TOKEN_NUM]
-当前剩余代币：{NUMBER}
+Verbleibende Token: {NUMBER}
 
 [FUTURE_GIFT_REFRESH_NUM]
-今日剩余次数：{NUMBER}
+Verbleibende Aktionen heute: {NUMBER}
 
 [FUTURE_GIFT_REFRESH]
-刷新礼包
+Geschenkpaket aktualisieren
 
 [FUTURE_GIFT_PRICE]
-{NUMBER}代币购买
+{NUMBER} Token zum Kaufen
 
 [FUTURE_GIFT_FREE_SHOP]
-当前免费礼包未领取，请先领取
+Das aktuelle kostenlose Geschenkpaket wurde noch nicht eingefordert. Bitte fordern Sie es zuerst an.
 
 [FUTURE_GIFT_FREE]
-免费购买
+Gratiskauf
 
 [FUTURE_GIFT_DESCRIPTION_TITLE]
-未来礼盒活动说明
+Beschreibung des zukünftigen Geschenkbox-Events
 
 [FUTURE_GIFT_BUY_GIFT]
-消耗{NUMS}礼盒代币购买礼盒
+Kaufe mit {NUMS} Geschenkbox-Token ein Geschenk. Geschenkbox
 
 [FUTURE_GIFT_REFRESH_CONFIRM]
-确定刷新礼盒内容吗？
+Möchten Sie den Inhalt der Geschenkbox wirklich aktualisieren?
 
 [FUTURE_GIFT_TITLE]
-未来礼盒活动
+Zukünftiges Geschenkbox-Event
 
 [FUTURE_GIFT_DESCRIPTION]
-活动规则:
-1、礼盒内预置了许多物品，玩家可自己选择若干奖励放入栏位内。购买选好内容的礼包后可以获得对应物品。
-2、每个礼包每日限购一次。
-3、礼包共有6个档位，每个档位包含的内容不同。
-4、当礼盒界面的物品全部购买完后，会自动刷新一套奖励配置（不消耗刷新次数）。
+Eventregeln:
+1. Die Geschenkbox enthält viele voreingestellte Gegenstände. Spieler können verschiedene Belohnungen auswählen und in die Spalte legen. Nach dem Kauf des Geschenkpakets mit dem ausgewählten Inhalt erhalten Sie die entsprechenden Gegenstände.
+2. Jedes Geschenkpaket kann nur einmal pro Tag gekauft werden.
+3. Es gibt 6 Geschenkpaketstufen mit jeweils unterschiedlichen Inhalten.
+4. Wenn alle Gegenstände im Geschenkbox-Interface gekauft wurden, werden die Belohnungskonfigurationen automatisch aktualisiert (ohne Aktualisierungszeit zu benötigen).
 
 [FUTURE_GIFT_TICKETS_NOT_ENOUGH]
-当前礼盒金币不足，是否跳转商店界面购买？
+Die Goldmünzen der Geschenkbox reichen nicht aus. Möchten Sie zum Kauf direkt ins Shop-Interface wechseln?
 
 [FUTURE_GIFT_INFO]
-未来礼盒活动说明
+Beschreibung des zukünftigen Geschenkbox-Events
 
 [PENNY_GIFT_TITLE]
-未来礼盒
+Zukünftige Geschenkbox
 
 [PENNY_GIFT_RANK_TITLE]
-潘妮金币数量
+Anzahl Penny-Goldmünzen
 
 [PENNY_GIFT_BUY_TIMES_CONSUME]
-达成{NUM}潘妮金币消耗
+Verbrauch von {NUM} Penny-Goldmünzen erreicht
 
 [PENNY_GIFT_TOKEN_CONSUME]
-潘妮金币消耗数量
+Anzahl verbrauchter Penny-Goldmünzen
 
 [PENNY_GIFT_RANK_NEED_TIMES]
-上榜需消耗一定潘妮金币数量
+Für die Rangliste ist eine bestimmte Anzahl Penny-Goldmünzen erforderlich.
 
 [PENNY_GIFT_PAVILION_EXPIRED]
-未来礼盒潘妮金币过期结算
+Abrechnung abgelaufener Penny-Goldmünzen für zukünftige Geschenkboxen
 
 [PENNY_GIFT_RANK_REWARD]
-未来礼盒活动结算奖励
+Belohnungen für zukünftige Geschenkbox-Events
 
 [PENNY_GIFT_BUY_ENOUGH]
-潘妮金币不足，前去购买
+Nicht genügend Penny-Goldmünzen. Kaufen
 
 [PENNY_GIFT_PRICE]
-原价{NUM}
+Ursprünglicher Preis: {NUM}
 
 [PENNY_GIFT_TOTAL_SERVER_BUY_TIMES]
-全服消耗潘妮金币数量
+Anzahl der vom gesamten Server verbrauchten Penny Coins
 
 [PENNY_GIFT_CONG_CONFIRM]
-确定当前配置吗？
+Sind Sie sich mit der aktuellen Konfiguration sicher?
 
 [PENNY_GIFT_REFRESH_TIMES]
-今日剩余刷新次数{NUM} (本页道具清空自动免费刷新)
+Anzahl der verbleibenden Aktualisierungen heute: {NUM} (Diese Seite wird gelöscht und automatisch kostenlos aktualisiert)
 
 [PENNY_GIFT_BUY_PENNY_GIFT]
-确定花费{NUM}潘妮金币购买道具吗？
+Möchten Sie wirklich {NUM} Penny Coins für den Kauf von Artikeln ausgeben?
 
 [PENNY_GIFT_CONG]
-自选配置
+Selbstgewählte Konfiguration
 
 [PENNY_GIFT_CONG_NOT_CHANGE]
-配置未更改
+Konfiguration wurde nicht geändert.
 
 [PENNY_GIFT_REFRESH_ERROR]
-配置种类少于{NUM}类，无法刷新
+Konfigurationstypen sind kleiner als {NUM}, Aktualisierung nicht möglich.
 
 [PENNY_GIFT_CONG_SUCCESS]
-配置成功
+Konfiguration erfolgreich.
 
 [PENNY_GIFT_CONG_NOT_ENOUGH]
-当前选择少于{NUM}类，无法配置
+Aktuelle Auswahl ist kleiner als {NUM}, Konfiguration nicht möglich.
 
 [PVZ_ERROR_75511]
-不满足条件
+Nicht erfüllte Bedingungen
 
 [PVZ_ERROR_75512]
-不能重复领取
+Kann nicht wiederholt eingefordert werden.
 
 [PENNY_GIFT_TIT]
-未来礼盒活动说明
+Beschreibung zukünftiger Geschenkbox-Events
 
 [TOURISM_OCTOBER_TITLE]
-六月同游
+Juni Tour
 
 [TOURISM_OCTOBER_DEFAULT_TEXT2]
-已在小队中，不符合填写条件
+Bereits im Team, erfüllt aber nicht die Teilnahmebedingungen.
 
 [MAT_TOURISM_OCTOBER]
-友谊币
+Freundschaftsmünze
 
-[TOURISM_OCTOBER_TIME]
-活动剩余时间
+[TOUR ISM_OCTOBER_TIME]
+Verbleibende Zeit bis zum Event
 
 [MAT_TOURISM_OCTOBER_USE]
-用于在六月同游活动兑换商店兑换奖励
+Kann verwendet werden, um Belohnungen im Juni-Tour-Event-Einlöseshop einzulösen.
 
 [MAT_TOURISM_OCTOBER_GOT_WAY]
-六月同游完成组队任务获得
+Erhältlich durch Abschluss der Teammission in der Juni-Tour.
 
 [TOURISM_OCTOBER_OK]
-已同意进组
+Teambeitritt zugestimmt.
 
 [TOURISM_OCTOBER_REFUSE]
-已拒绝进组
+Teambeitritt abgelehnt.
 
 [TOURISM_OCTOBER_TAB_NAME1]
-同游小队
+Reiseteam
 
 [RANK_AVATAR_CONTENT_TITLE_61030]
-秋钓
+Herbst Angeln
 
 [TOURISM_OCTOBER_TAB_NAME2]
-组队令
+Teambestellung
 
 [TOURISM_OCTOBER_TAB_NAME3]
-组队任务
+Teammission
 
 [TOURISM_OCTOBER_TAB_NAME4]
-兑换商店
+Einlöseshop
 
 [PVP_ERROR_75520]
-不满足领取条件， 没有加入小队
+Die Bedingungen für den Erhalt der Belohnung sind nicht erfüllt. Nicht dem Team beigetreten.
 
 [PVP_ERROR_75521]
-不是小队成员
+Kein Teammitglied.
 
 [PVP_ERROR_75522]
-不满足领取条件， 没有可领取代币数
+Die Bedingungen für den Erhalt konnten nicht erfüllt werden, keine Token verfügbar.
 
 [PVP_ERROR_75523]
-不满足领取条件， 可领取代币数不足
+Die Bedingungen für den Erhalt konnten nicht erfüllt werden, nicht genügend Token verfügbar.
 
 [PVP_ERROR_75524]
-邀请码格式不对，或该邀请码不存在
+Das Format des Einladungscodes ist falsch oder der Einladungscode existiert nicht.
 
 [TOURISM_OCTOBER_ERROR_75524]
-不能填写自己的邀请码
+Der eigene Einladungscode kann nicht eingegeben werden.
 
 [TOURISM_OCTOBER_INVITATION_SUCCESS]
-已申请进入小队
+Teammitgliedschaft beantragt
 
 [PVP_ERROR_75525]
-已加入小队，不能申请加入其它小队
+Bereits Mitglied im Team, kann sich nicht für andere Teams bewerben
 
 [PVP_ERROR_75526]
-邀请码格式不对，或该邀请码不存在
+Das Format des Einladungscodes ist falsch oder der Einladungscode existiert nicht.
 
 [PVP_ERROR_75527]
-该邀请码成员已加入其他小队
+Das Mitglied mit diesem Einladungscode ist anderen Teams beigetreten.
 
 [PVP_ERROR_75528]
-小队成员已满
+Das Team ist voll.
 
 [PVP_ERROR_75529]
-申请列表已满员
+Die Bewerbungsliste ist voll.
 
 [PVP_ERROR_75530]
-没有操作申请权限
+Keine Berechtigung für die Durchführung von Bewerbungen.
 
 [PVP_ERROR_75531]
-该成员已加入其它小队
+Das Mitglied ist einem anderen Team beigetreten.
 
 [PVP_ERROR_75532]
-该成员不在申请列表内
+Das Mitglied ist nicht in der Bewerbungsliste.
 
 [PVP_ERROR_75533]
-邀请码生成失败
+Einladung Codegenerierung fehlgeschlagen
 
 [PVP_ERROR_75534]
-不能重复申请加入
+Erneute Beitrittsbewerbung nicht möglich
 
 [PVP_ERROR_75535]
-该成员已加入其他小队，需重新打开页面刷新
+Das Mitglied ist einem anderen Team beigetreten. Sie müssen die Seite erneut öffnen und aktualisieren.
 
 [PVP_ERROR_76000]
-通过 普通 难度 第四关 后开放兑换
+Einlösbar nach Abschluss der vierten Stufe des normalen Schwierigkeitsgrads
 
 [PVP_ERROR_76001]
-通过 困难 难度 第七关 后开放兑换
-
+Einlösbar nach Abschluss der siebten Stufe des schweren Schwierigkeitsgrads
 
 [ALL_ARTIFACT]
-(唯一)所有神器
+(Einzigartig) Alle Artefakte
 
 [ARTIFACT_BLESS_SAVE_LEFT]
-保留
+Speichern
 
 [ARTIFACT_BLESS_SAVE_RIGHT]
-替换
+Ersetzen
 
 [ARTIFACT_BOOST_TYPE_1]
-攻击力增加
+Angriffskraft erhöhen
 
 [ARTIFACT_BOOST_TYPE_2]
-持续时间增加
+Dauer erhöhen
 
 [ARTIFACT_BOOST_TYPE_3]
-控制效果增加
+Kontrolleffekt erhöhen
 
 [ARTIFACT_BOOST_TYPE_4]
-冷却减少
+Abklingzeit verkürzen
 
 [ARTIFACT_BOOST_TYPE_5]
-使用次数增加
+Anzahl der Anwendungen erhöhen
 
 [ARTIFACT_BOOST_TYPE_6]
-被动2冷却减少
+Anzahl der Anwendungen erhöhen
 
 [ARTIFACT_BOOST_TYPE_7]
-被动1效果增加
+Anzahl der Anwendungen erhöhen
 
 [ARTIFACT_BOOST_TYPE_8]
-被动1全局生效
+Anzahl der Anwendungen erhöhen
 
 [ARTIFACT_BOOST_TYPE_9]
-携带该神器时初始阳光增加
+Anzahl der Anwendungen erhöhen Anwendungen
 
 [ARTIFACT_BOOST_TYPE_10]
-携带该神器时第一次种植无冷却
+Angriffskraft erhöhen
+
+[ARTIFACT_BOOST_TYPE_20]
+Dauer erhöhen
+
+[ARTIFACT_BOOST_TYPE_3]
+Kontrolleffekt erhöhen
+
+[ARTIFACT_BOOST_TYPE_40]
+Abklingzeit erhöhen
+
+[ARTIFACT_BOOST_TYPE_50]
+Anzahl der Anwendungen erhöhen
+
+[ARTIFACT_BOOST_TYPE_11]
+Angriffskraft erhöhen
+
+[ARTIFACT_BOOST_TYPE_20]
+Dauer erhöhen
+
+[ARTIFACT_BOOST_TYPE_31]
+Anzahl der Anwendungen erhöhen
+
+[ARTIFACT_BOOST_TYPE_41]
+Abklingzeit erhöhen
+
+[ARTIFACT_BOOST_TYPE_51]
+Anzahl der Anwendungen erhöhen
+
+[ARTIFACT_BOOST_TYPE_12]
+Angriffskraft erhöhen Kraft
+
+[ARTIFACT_BOOST_TYPE_13]
+Angriffskraft erhöht (TIFACT_BOOST_TYPE_6])
+Abklingzeit von Passiv 2 reduziert
+
+[ARTIFACT_BOOST_TYPE_7]
+Effekt von Passiv 1 erhöht
+
+[ARTIFACT_BOOST_TYPE_8]
+Globale Wirksamkeit von Passiv 1
+
+[ARTIFACT_BOOST_TYPE_9]
+Erhöhtes Sonnenlicht beim Tragen dieses Artefakts
+
+[ARTIFACT_BOOST_TYPE_10]
+Keine Abklingzeit für die erste Pflanzung beim Tragen dieses Artefakts
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL]
-派对助力礼包
+Gruppen-Unterstützungspaket
 
-[PRODUCT_PARTYASSIST_TREASURE_BOWL_6_SHORTDESC]
-初始助力礼包
+[PRODUCT_PARTYASSIST_TREASURE_ BOWL_6_SHORTDESC]
+Erstunterstützungspaket
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL_30_SHORTDESC]
-中级助力礼包
+Mittelstufe-Unterstützungspaket
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL_68_SHORTDESC]
-高级助力礼包
+Fortgeschritten Unterstützungspaket
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL_128_SHORTDESC]
-超级助力礼包
+Super-Unterstützungspaket
 
 [PRODUCT_DAVE_KITCHEN]
-戴夫厨房礼包
+Daves Küchenpaket
 
-[PRODUCT_DAVE_KITCHEN_6_SHORTDESC]
-小份肉礼包
+[PRODUCT_DAVE_KITCHE N_6_SHORTDESC]
+Kleines Fleisch-Geschenkpaket
 
 [PRODUCT_DAVE_KITCHEN_68_SHORTDESC]
-大份肉礼包
+Großes Fleisch-Geschenkpaket
 
 [ACTIVITY_COLLECTION_CUSTOM_VOTING_DESCRIPTION]
-票选心仪植物，团购植物由你决定
+Stimmen Sie für Ihre Lieblingspflanzen ab und entscheiden Sie über den Gruppenkauf von Pflanzen.
 
 [ACTIVITY_COLLECTION_PENNY_CLASSROOM_DESCRIPTION]
-通关潘妮课堂内的课程后，可以获得课堂积分，在积分商店中兑换奖励
+Nach Abschluss der Kurse in Pennys Klassenzimmer können Sie Klassenzimmerpunkte sammeln und Prämien einlösen. Shop
 
 [NEWPLAYER_COLLECTION_DISCOUNT_GEM]
-    {NUMS}
+{NUMS}
 
 [NEWPLAYER_COLLECTION_DISCOUNTSOHP_BUY_CONFIRM]
-确定购买该礼包？
+Möchten Sie dieses Geschenkpaket wirklich kaufen?
 
 [NEWPLAYER_COLLECTION_ACTIVITY_NOTICE_SEVENDAYS_UNLOCK_DESC]
-埃及2过关后
+Nach Ägypten 2
 
 [NEWPLAYER_COLLECTION_ACTIVITY_DISCOUNTSHOP_UNLOCK_DESC]
-埃及2过关后
+Nach Ägypten 2
 
 [NEWPLAYER_COLLECTION_ACTIVITY_PENNYCLASSROOM_UNLOCK_DESC]
-埃及7过关后
+Nach Ägypten 7
 
 [NEWPLAYER_COLLECTION_ACTIVITY_SPECIALGIFT_UNLOCK_DESC]
-埃及8过关后
+Nach Ägypten 8
 
-[ICEGAE_NIGHTMARE_LEVEL_NAME_01_N]
-冰河再临-第1关
+[ICEGAE_NIGHTMARE_LEVEL _NAME_01_N]
+Ice Age kehrt zurück – Level 1
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_02_N]
-冰河再临-第2关
+Ice Age kehrt zurück – Level 2
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_03_N]
-冰河再临-第3关
+Ice Age kehrt zurück – Level 3
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_04_N]
-冰河再临-第4关
+Die Rückkehr der Eiszeit – Level 4
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_05_N]
-冰河再临-第5关
+Die Rückkehr der Eiszeit – Level 5
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_06_N]
-冰河再临-第6关
+Die Rückkehr der Eiszeit – Level 6
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_07_N]
-冰河再临-第7关
+Die Rückkehr der Eiszeit – Level 7
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_08_N]
-冰河再临-第8关
+Die Rückkehr der Eiszeit – Level 8
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_09_N]
-冰河再临-第9关
+Die Rückkehr der Eiszeit – Level 9
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_10_N]
-冰河再临-第10关
+Die Rückkehr der Eiszeit – Level 10
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_01_H]
-冰河再临-第1关（困难）
+Die Rückkehr der Eiszeit – Level 1 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_02_H]
-冰河再临-第2关（困难）
+Die Rückkehr der Eiszeit – Level 2 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_03_H]
-冰河再临-第3关（困难）
+Die Rückkehr der Eiszeit – Level 3 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_04_H]
-冰河再临-第4关（困难）
+Die Rückkehr der Eiszeit – Level 4 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_05_H]
-冰河再临-第5关（困难）
+Die Rückkehr der Eiszeit – Level 5 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_06_H]
-冰河再临-第6关（困难）
+Die Rückkehr der Eiszeit – Level 6 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_07_H]
-冰河再临-第7关（困难）
+Die Rückkehr der Eiszeit – Level 7 (Schwer)
+
+[ICEGAE_NIGHTMARE_LEVEL_NAME_08_N]
+Die Rückkehr der Eiszeit – Level 8
+
+[ICEGAE_NIGHTMARE_LEVEL_NAME_09_N]
+Die Rückkehr der Eiszeit – Level 9
+
+[ICEGAE_NIGHTMARE_LEVEL_NAME_10_N]
+Die Rückkehr der Eiszeit – Level 10
+
+[ICEGAE_NIGHTMARE_LEVEL_NAME_04_H]
+Die Rückkehr der Eiszeit – Level 4 (Schwer)
+
+[ICEGAE_NIGHTMARE_LEVEL_NAME_05_H]
+Die Rückkehr der Eiszeit – Level 5 (Schwer)
+
+[ICEGAE_NIGHTMARE_LEVEL_NAME_06_H]
+Die Rückkehr der Eiszeit – Level 6 (Schwer)
+
+[ICEGAE_NIGHTMARE_LEVEL_NAME_07_H]
+Die Rückkehr der Eiszeit – Stufe 7 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_08_H]
-冰河再临-第8关（困难）
+Die Rückkehr der Eiszeit – Stufe 8 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_09_H]
-冰河再临-第9关（困难）
+Die Rückkehr der Eiszeit – Stufe 9 (Schwer)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_10_H]
-冰河再临-第10关（困难）
+Ice Age – Level 10 (Schwer)
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_SIGN_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}快瞧呀，我找到了好东西，送给你吧，里面可是有大量奖励的哦！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Schau mal, ich habe etwas Tolles gefunden. Ich gebe es dir. Es sind viele Belohnungen drin!
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_SIGN_INTRO_2]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_NOTICE_SEVENDAYS_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}嗯？刚刚经历了一场艰苦的战斗呢……
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hmm? Ich habe gerade einen harten Kampf hinter mir ...
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_NOTICE_SEVENDAYS_INTRO_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}数据表明您已经可以接受更强大的挑战了,有新的挑战降临了
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Daten zeigen, dass du bereit bist, größere Herausforderungen anzunehmen. Eine neue Herausforderung steht bevor.
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_DISCOUNTSHOP_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}嗯？刚刚经历了一场艰苦的战斗呢……
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hmm? Ich habe gerade einen harten Kampf hinter mir ...
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_DISCOUNTSHOP_INTRO_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}数据表明您已经可以接受更强大的挑战了,有新的挑战降临了
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Daten zeigen, dass du bereit bist, größere Herausforderungen anzunehmen. Eine neue Herausforderung wartet.
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_PENNYCLASSROOM_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}学习植物使用技巧并最终获得5棵4阶植物，能更好地对抗僵尸入侵。
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Erlerne den Umgang mit Pflanzen und erhalte fünf Pflanzen der Stufe 4, die die Zombie-Invasion besser bekämpfen können.
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_PENNYCLASSROOM_INTRO_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}好耶！下一个植物大师就是你！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Super! Der nächste Pflanzenmeister bist du!
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_PENNYCLASSROOM_INTRO_3]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_SPECIALGIFT_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}嗯？刚刚经历了一场艰苦的战斗呢……
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hä? Ich habe gerade einen harten Kampf hinter mir ...
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_SPECIALGIFT_INTRO_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}数据表明您已经可以接受更强大的挑战了,有新的挑战降临了
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Daten zeigen, dass du bereit bist, größere Herausforderungen anzunehmen. Eine neue Herausforderung steht bevor.
 
 [NARRATIVE_TUTORIAL_DAILY_REWARD_NEWPLAYER_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}看呐，这是给你的签到日历，每天过来标记一下就有丰厚奖励噢。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hier ist dein Anmeldekalender. Markiere ihn jeden Tag, um tolle Belohnungen zu erhalten.
 
 [NARRATIVE_TUTORIAL_DAILY_REWARD_NEWPLAYER_2]
-{SAY:CRAZYDAVE}噢，对了！旅行手册已经开启，超多新手福利哦，记得去看看！
+{SAY:CRAZYDAVE}Ach ja! Das Reisehandbuch wurde geöffnet und bietet viele Vorteile für Neulinge. Schaut unbedingt vorbei!
 
 [NARRATIVE_TUTORIAL_DAILY_REWARD_NEWPLAYER_3]
 {NPC_EXIT:crazydave}
 
 [NEWYEAR_GIFTBOX_INDEX1_1]
-你好, 我的邻居！^FF0000 {NAME} ^oldclr
+Hallo, mein Nachbar! ^FF0000 {NAME} ^oldclr
 
 [NEWYEAR_GIFTBOX_INDEX1_2]
-新的一周年，很高兴还能再次见到你。
+Es ist der neue Jahrestag, und ich freue mich, dich wiederzusehen.
 
 [NEWYEAR_GIFTBOX_INDEX1_3]
-上一年中，我们一共有 ^FF0000 {COUNT} ^oldclr 天在庭院中相见，
+Letztes Jahr trafen wir uns insgesamt ^FF0000 {COUNT} ^oldclr Tage im Hof.
 
 [NEWYEAR_GIFTBOX_INDEX1_4]
-平均每天在庭院中花费了 ^FF0000 {COUNT} ^oldclr 分钟。
+und verbrachten durchschnittlich ^FF0000 {COUNT} ^oldclr Minuten pro Tag im Hof.
 
 [NEWYEAR_GIFTBOX_INDEX1_5]
-你有见到我最爱的玉米卷吗？
+Habt ihr meine Lieblingstacos gesehen?
 
 [NEWYEAR_GIFTBOX_INDEX1_6]
-小僵僵名人堂告诉我
+Die kleine Zombie-Ruhmeshalle hat mir erzählt:
 
 [NEWYEAR_GIFTBOX_INDEX1_7]
-上一年你一共获得了 ^FF0000 {COUNT} ^oldclr 颗钻石，
+Letztes Jahr hast du insgesamt ^FF0000 {COUNT} ^oldclr-Diamanten verdient.
 [NEWYEAR_GIFTBOX_INDEX1_8]
-收集了^FF0000 {COUNT} ^oldclr枚植物，
+^FF0000 {COUNT} ^oldclr-Pflanzen gesammelt.
 [NEWYEAR_GIFTBOX_INDEX1_9]
-为 ^FF0000 {COUNT} ^oldclr 颗植物增添了新装扮
+^FF0000 {COUNT} ^oldclr-Pflanzen neue Kostüme hinzugefügt.
 [NEWYEAR_GIFTBOX_INDEX1_10]
-进行了 ^FF0000 {COUNT} ^oldclr 次植物探险，
+^FF0000 {COUNT} ^oldclr-Pflanzenexpeditionen absolviert.
 [NEWYEAR_GIFTBOX_INDEX1_11]
-完成了 ^FF0000 {COUNT} ^oldclr 次旅行原木任务，
+^FF0000 {COUNT} ^oldclr =Reisetagebuch abgeschlossen. Missionen.
 [NEWYEAR_GIFTBOX_INDEX1_12]
-努力，就一定能有回报。
+Harte Arbeit zahlt sich definitiv aus.
 [NEWYEAR_GIFTBOX_INDEX1_13]
-上一年中你在创意庭院中一共发布了 ^FF0000 {COUNT} ^oldclr 个自制关卡
-
+Letztes Jahr hast du insgesamt ^FF0000 {COUNT} ^oldclr benutzerdefinierte Level im Kreativgarten gepostet.
 [NEWYEAR_GIFTBOX_INDEX1_14]
-在双人对决中你获得的最高段位是 ^FF0000 {NAME} ^oldclr
+Dein höchster Rang in einem Zwei-Spieler-Duell war ^FF0000 {NAME} ^oldclr.
 [NEWYEAR_GIFTBOX_INDEX1_15]
-潘妮与我们一共进行了 ^FF0000 {COUNT} ^oldclr 次追击任务，
+Penny und ich haben insgesamt ^FF0000 {COUNT} ^oldclr Verfolgungsmissionen durchgeführt.
 [NEWYEAR_GIFTBOX_INDEX1_19]
-大家一起成功地击退了僵尸,
+Gemeinsam haben wir die Zombies erfolgreich abgewehrt.
 [NEWYEAR_GIFTBOX_INDEX1_18]
-真是太厉害了！
-
+Das ist unglaublich!
 
 [NEWYEAR_GIFTBOX_INDEX1_16]
- ^FF0000 {NAME} ^oldclr ，我的好邻居，感谢11周年一路同行！
- 
+^FF0000 {NAME} ^oldclr, mein lieber Nachbar, danke für deine Begleitung zum 11. Jahrestag!
+
 [NEWYEAR_GIFTBOX_INDEX1_17]
-我为你准备了一份周年礼物，拆开来看看吧！
+Ich habe ein Jubiläumsgeschenk für dich vorbereitet. Öffne es und sieh es dir an!
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_1]
-长枪球兰龙年装扮
+Lance Hoya Drachenjahr-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GERANIIFENCER_1]
-鹳草龙年装扮
+Storch Drachenjahr-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPARTANBAMBOO_1]
-斯巴达竹成长礼包装扮
+Spartanischer Bambus-Wachstums-Geschenkpaket-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_1]
-种植冷却减少10%
+Pflanzkühlung um 10 % reduziert
 
-[NEW_AVATAR_DESCRIPTION_2]
-攻击速度增加10%
+[NEW_AVATAR_DESCRIPTION_LANCERHOYA_1]
+Lance Hoya Drachenjahr-Kostüm
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GERANIIFENCER_1]
+Storch Drachenjahr-Kostüm
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SPARTANBAMBOO_1]
+Spartanischer Bambus-Wachstums-Geschenkpaket Kostüm
+
+[NEW_AVATAR_DESCRIPTION_1]
+Pflanzenkühlung um 10 % reduziert
+
+[NEW_AVATAR_DESCRIPTION_LANCERHOYA_1]
+IPTION_2]
+Angriffsgeschwindigkeit um 10 % erhöht
 
 [NEW_AVATAR_DESCRIPTION_3]
-植物攻击力增加20%
+Angriffskraft von Pflanzen um 20 % erhöht
 
 [NEW_AVATAR_DESCRIPTION_4]
-降低阳光消耗25
+Sonnenlichtverbrauch um 25 % reduziert
 
 [NEW_AVATAR_DESCRIPTION_5]
-种植冷却缩短10%
+Abkühlungszeit von Pflanzen um 10 % verkürzt
 
 [NEW_AVATAR_DESCRIPTION_6]
-闪电伤害增加20%
+Blitzschaden um 20 % erhöht
 
 [NEW_AVATAR_DESCRIPTION_7]
-休息时间减少10%
+Ruhezeit um 10 % reduziert
 
 [NEW_AVATAR_DESCRIPTION_8]
-降低阳光消耗20
+ESCRIPTION_8]
+Sonnenlichtverbrauch um 20
 
 [NEW_AVATAR_DESCRIPTION_9]
-植物攻击力增加15%
+Erhöht die Angriffskraft von Pflanzen um 15 %.
 
 [NEW_AVATAR_DESCRIPTION_10]
-种植冷却减少20%
+Verkürzt die Abklingzeit von Pflanzen um 20 %.
 
 [NEW_AVATAR_DESCRIPTION_11]
-降低阳光消耗30
+Reduziert den Sonnenlichtverbrauch um 30 %.
 
 [NEW_AVATAR_DESCRIPTION_2]
-攻击速度增加10%
+Erhöht die Angriffsgeschwindigkeit um 10 %.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNAPDRAGON_4]
-火龙草龙年装扮
+Feuerdrachengras-Jahr-des-Drachen-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_2]
-冰龙草龙年装扮
+Eisdrachengras-Jahr-des-Drachen-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_2]
-雷龙草龙年装扮
+Donnerdrachengras-Jahr-des-Drachen Kostüm
 
 [STORE_CATEGORY_NAME_AVATARTICKET]
-装扮券
+Cosplay-Gutschein
 
 [EXCHANGEAVATAR_PURCHASE]
-确认购买
+Kauf bestätigen
 
 [EXCHANGEAVATAR_TEXT1]
-当前拥有 ^FF0000 {COUNT} ^oldclr 张装扮券
+Aktuell ^FF0000 {COUNT} ^oldclr Cosplay-Gutscheine vorhanden
 
 [EXCHANGEAVATAR_TEXT2]
-购买需 ^FF0000 {COUNT} ^oldclr 张装扮券
+Für den Kauf werden ^FF0000 {COUNT} ^oldclr Verkleidungsgutscheine benötigt
 
 [EXCHANGEAVATAR_TEXT3]
-是否花费装扮券购买装扮
+Möchtest du die Verkleidungsgutscheine einlösen, um Verkleidungsgutscheine zu kaufen?
 
 [EXCHANGEAVATAR_TEXT4]
-当前装扮券不足，是否前往装扮券商店获取装扮券
+Die aktuellen Verkleidungsgutscheine reichen nicht aus. Möchtest du die Verkleidungsgutscheine im Verkleidungsgutscheinladen kaufen?
 
 [EXCHANGEAVATAR_ERROR]
-请更新至最新版本
+Bitte aktualisieren Sie auf die neueste Version.
 
 [EXCHANGEAVATAR_TUTORIAL_SLOT]
-使用装扮券购买植物装扮
+Benutzen Sie die Verkleidungsgutscheine, um Pflanzenverkleidungsgutscheine zu kaufen.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_1]
-仙桃永劫无间装扮
+Xiantao Ewige Trübsal Verkleidung
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_3]
-寒冰射手永劫无间装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_PEACH_2]
+Xiantao Ewige Trübsal Verkleidungsgutscheine
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEACH_3]
+Xiantao Ewige Trübsal Verkleidungsgutscheine
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEACH_4]
+Xiantao Ewige Trübsal Verkleidungsgutscheine
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEACH_5]
+Xiantao Ewige Trübsal Verkleidung Gutscheine
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEACH_6]
+Gutscheine für Xiantao Ewige Trübsal-Anzug
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEACH_7]
+Gutscheine für Xiantao Ewige Trübsal-Anzug
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEACH_8]
+Gutscheine für Xiantao Ewige Trübsal-Anzug
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEACH_9]
+Xiantao Ewige Trübsal-Kleid RT_DESCRIPTION_SNOWPEA_3]
+Nakadashi-Kostüm der Frostbogenschützen-Klinge
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_2]
-剑叶龙血树永劫无间装扮
+Nakadashi-Klinge Dracaena-Schwertblatt Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TIGERSTOOL_2]
-虎头菇永劫无间装扮
+Tigerkopfpilz-Nakadashi-Klingenkostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_3]
-杜英永劫无间装扮
+Eleutherodactylus-Nakadashi-Klingenkostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EAGLECLAW_1]
-电击鹰爪花飞车装扮
+Elektrisches Adlerklauenblumen-Schnellkleid
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_2]
-聚能山竹飞车装扮
+Energiegeladenes Mangostan-Schnellkleid
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOYACORDATA_2]
-粉丝心叶兰飞车装扮
+Fächerherzblatt-Orchideen-Schnellkleid
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_2]
-蚕豆突击队飞车装扮
+Favabohnen-Kommando-Schnellkleid
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SQUASH_2]
-窝瓜飞车装扮
+Nest Melonen-Speeder-Anziehspiel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_3]
-豌豆射手飞车装扮
+Erbsen-Shooter-Speeder-Anziehspiel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_1]
-电鳗香蕉派对助力装扮
+Zitteraal-Bananen-Party-Booster-Anziehspiel
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICPEEL_1]
-闪电伤害增加20%
+Blitzschaden um 20 % erhöht
 
 [NARRATIVE_RESILIENCE1_1]
-{NPC_ENTER:crazydave}哇，好像出现了不得了的僵尸。
+{NPC_ENTER:crazydave}Wow, da scheinen ja furchtbare Zombies aufgetaucht zu sein.
 
 [NARRATIVE_RESILIENCE2_1]
-{NPC_ENTER:winnie}小心点，这可不好对付。
+{NPC_ENTER:winnie}Vorsicht, das ist nicht leicht zu bewältigen.
 
 [NARRATIVE_RESILIENCE3_1]
-{NPC_ENTER:crazydave}让我使用最爱的豌豆射手进行攻击
+{NPC_ENTER:crazydave}Lass mich mit meiner Lieblings-Erbsenpistole angreifen.
 
 [NARRATIVE_RESILIENCE4_1]
-{NPC_ENTER:crazydave}怎么回事，完全打不动，这可怎么办？
+{NPC_ENTER:crazydave}Was ist los? Ich kann ihn überhaupt nicht treffen. Was soll ich tun?
 
 [NARRATIVE_RESILIENCE5_1]
-{NPC_ENTER:winnie}哔哔哔....检测报告出来了。
+{NPC_ENTER:winnie}Piep, piep, piep ... Der Testbericht ist da.
 
 [NARRATIVE_RESILIENCE5_2]
-{SAY:winnie}报告上说这是僵尸博士的最新杰作！需要想办法击破韧性值，才能打败它！
+{SAY:winnie}Der Bericht besagt, dass dies Dr. Zombies neuestes Meisterwerk ist! Wir müssen einen Weg finden, die Widerstandsfähigkeit zu durchbrechen, um ihn zu besiegen!
 
 [NARRATIVE_RESILIENCE5_3]
-{SAY:winnie}现在僵尸处于高额免伤状态，只有击破韧性才能对僵尸造成正常伤害哦。
+{SAY:winnie}Der Zombie ist jetzt hochgradig immun gegen Schaden. Nur wenn du die Widerstandsfähigkeit durchbrichst, kannst du ihm normalen Schaden zufügen.
 
 [NARRATIVE_RESILIENCE5_4]
-{SAY:winnie}黄条就是僵尸的韧性值，看到韧性值旁边的标志了吗？
+{SAY:winnie}Der gelbe Balken zeigt die Widerstandskraft des Zombies an. Siehst du das Symbol daneben?
 
 [NARRATIVE_RESILIENCE6_1]
-{NPC_ENTER:crazydave}那我可要仔细瞧瞧。
+{NPC_ENTER:crazydave}Dann muss ich genauer hinschauen.
 
 [NARRATIVE_RESILIENCE7_1]
-{NPC_ENTER:winnie}使用电能属性攻击每次可以使韧性值降低，给你召唤了5个电能豌豆快去试试吧！
+{NPC_ENTER:winnie}Angriffe mit elektrischem Energieattribut können die Widerstandskraft jedes Mal verringern. Ich habe 5 elektrische Energieerbsen für dich beschworen. Probier es aus!
 
 [NARRATIVE_RESILIENCE8_1]
-{NPC_ENTER:winnie}僵尸陷入虚弱状态了，快趁现在抓紧输出！不要让僵尸恢复过来！
+{NPC_ENTER:winnie}Der Zombie ist geschwächt. Beeil dich und verschwinde! Lass den Zombie sich nicht erholen!
 
 [NARRATIVE_RESILIENCE9_1]
-{NPC_ENTER:crazydave}呼！真是不容易！
+{NPC_ENTER:crazydave}Hm! Es ist wirklich nicht einfach!
 
 [NARRATIVE_RESILIENCE10_1]
-{NPC_ENTER:winnie}就是这样！遇到韧性僵尸时使用对应属性的植物可以更快击破韧性值！
+{NPC_ENTER:winnie}Genau! Wenn du einem zähen Zombie begegnest, nutze Pflanzen mit entsprechenden Attributen, um dessen Zähigkeitswert schneller zu brechen!
 
 [NARRATIVE_RESILIENCE10_2]
-{SAY:winnie}据报告上说还存在更加高阶的属性攻击可以对韧性值造成更多的伤害，这个就交由你探索吧！
+{SAY:winnie} Berichten zufolge gibt es fortgeschrittenere Attributangriffe, die die Zähigkeit stärker schädigen können. Entdecke sie!
 
 [NARRATIVE_COPYCATS1_1]
 {NPC_ENTER:crazydave}潘妮快看，怎么会有这么多魔术帽，你说哪一顶比较适合我呢？
@@ -74879,90 +74996,88 @@ Schöne Ideale beginnen immer im Kleinen zu verfallen. Wenn diese scheinbar unbe
 Kann über deine Schilde geworfen werden und landet direkt auf dem U-Boot.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_1]
-电能豌豆六一装扮
+Elektrische Erbse: Kindertag-Ankleidespiel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_2]
-向日葵歌手六一装扮
+Sonnenblumen-Sängerin: Kindertag-Ankleidespiel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_JACKFRUIT_1]
-菠萝蜜六一装扮
+Jackfrucht: Kindertag-Ankleidespiel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_JACKFRUIT_2]
-菠萝蜜眼罩装扮
+Jackfrucht-Augenmaske: Ankleidespiel
 
 [NEW_AVATAR_DESCRIPTION_JACKFRUIT_2]
-种子生命增加20%
+Samenlebensdauer um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_2]
-曼德拉草派对助力装扮
+Mandragora: Party-Assistenz-Ankleidespiel
 
-[NEW_AVATAR_SHORT_DESCRIPTION_HELICONIAGUNNER_1]
-蝎尾蕉成长礼包装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_HELICONIAGUNNE R_1]
+Skorpionschwanz Bananenwachstum-Geschenkpaket-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_1]
-贪吃龙草成长礼包装扮
+Gieriges Drachengras-Geschenkpaket-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_2]
-贪吃龙草超级装扮
+Gieriges Drachengras-Superkostüm
 
 [NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_2]
-所有回复能量效果增强50%
-
+Alle Energierückgewinnungseffekte sind um 50 % verstärkt.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HYPNOSHROOM_1]
-魅惑菇花环装扮
+Charmantes Pilzkranz-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_HYPNOSHROOM_1]
-种植冷却减少25%
+Die Abklingzeit des Pflanzens ist um 25 % reduziert.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_1]
-枫影剑客双刀装扮
+Ahorn-Schattenschwertkämpfer-Doppelklingen-Kostüm
 
-[NEW_AVATAR_DESCRIPTION_MAPLEBLADE_1]
-攻击力增加20%
+[NEW_AVATAR_DESCRIPTIO N_MAPLEBLADE_1]
+Erhöht die Angriffskraft um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ROSESWORDMAN_1]
-玫瑰剑客头盔装扮
+Rose-Schwertkämpfer-Helmkostüm
 
 [NEW_AVATAR_DESCRIPTION_ROSESWORDMAN_1]
-阳光消耗降低25
+Reduziert den Sonnenlichtverbrauch um 25 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_2]
-泡泡姬珊瑚促销装扮
+Bubbler-Korallen-Promotionskostüm
 
 [NEW_AVATAR_DESCRIPTION_BUBBLECORAL_2]
-攻击间隔减少20%
+Reduziert das Angriffsintervall um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EAGLECLAW_2]
-电击鹰爪花电池装扮
+Elektrisches Adlerklauen-Blumenbatteriekostüm
 
 [NEW_AVATAR_DESCRIPTION_EAGLECLAW_2]
-休息时间减少20%
+Reduziert die Ruhezeit um 20 %
 
-[NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_4]
-聚能山竹科幻机甲装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_M ANGOSTEEN_4]
+Energiefokussiertes Mangostan-Sci-Fi-Mecha-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_MANGOSTEEN_4]
-闪电伤害增加25%
+Blitzschaden um 25 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ALOES_3]
-芦荟医师DJ装扮
+Aloe-Doktor-DJ-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_ALOES_3]
-休息时间减少10%
+Ruhezeit um 10 % reduziert
 
-[NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_3]
-冰龙草探险家装扮
+[NEW_AVATAR_SHORT_D ESCRIPTION_COLDSNAPDRAGON_3]
+Eis-Löwenmaul-Entdecker-Outfit
 
 [NEW_AVATAR_DESCRIPTION_COLDSNAPDRAGON_3]
-阳光消耗降低25
+Sonnenlichtverbrauch um 25 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ICEWEED_1]
-寒冰地刺恶魔角装扮
+Eisstachel-Teufelshorn Outfit
 
 [NEW_AVATAR_DESCRIPTION_ICEWEED_1]
-攻击力增加20%
-
+Angriffskraft um 20 % erhöht
 
 [STARCHALLENGE_PVZ1KLOTSKI_NAME]
 Auto Huarong Road
@@ -75110,621 +75225,635 @@ Test: 1000
 Beschreibung
 
 [PLANTWARS_KEY_INFO_TEXT_ALL]
-1、开启时间
-本次秘境的时间为10月31号至11月21号。
-2、关卡解锁
-关卡随时间解锁，每天解锁一关。
-3、任务说明
-每个关卡都有指定任务，完成后可获得奖励。
-4、任务奖励
-每关的奖励不可重复获得
+1. Öffnungszeit
+Dieses geheime Reich ist vom 31. Oktober bis 21. November verfügbar.
+2. Level-Freischaltung
+Level werden nach und nach freigeschaltet, jeden Tag ein Level.
+3. Aufgabenbeschreibung
+Jedes Level hat eine bestimmte Aufgabe, für deren Abschluss Belohnungen erhalten werden.
+4. Aufgabenbelohnungen
+Die Belohnungen für jedes Level können nicht wiederholt erhalten werden.
 
 [PLANTWARS_KEY_INFO_TEXT_1]
-1、开启时间
-	
+1. Öffnungszeit
+
 [PLANTWARS_KEY_INFO_TEXT_2]
-本次秘境的时间为10月30号至11月28号。
+Dieses geheime Reich ist vom 30. Oktober bis 28. November verfügbar.
 
 [PLANTWARS_KEY_INFO_TEXT_3]
-2、关卡解锁
+2. Level-Freischaltung
 
 [PLANTWARS_KEY_INFO_TEXT_4]
-关卡随时间解锁，每天解锁一关。
+Level werden nach und nach freigeschaltet, jeden Tag ein Level.
 
 [PLANTWARS_KEY_INFO_TEXT_5]
-3、任务说明
+3. Missionsbeschreibung
 
 [PLANTWARS_KEY_INFO_TEXT_6]
-每个关卡都有指定任务，完成后可获得奖励。
+Jedes Level hat eine bestimmte Mission und nach Abschluss gibt es Belohnungen.
 
 [PLANTWARS_KEY_INFO_TEXT_7]
-4、任务奖励
+4. Missionsbelohnungen
 
 [PLANTWARS_KEY_INFO_TEXT_8]
-每关的奖励不可重复获得
+Belohnungen für jedes Level können nicht wiederholt erhalten werden.
 
-[PLAYER_TRIP_TO_PLANTWARS]
-植物保卫战之旅
+[PLANTWARS_TRIP_TO_PLANTWARS]
+Plant Wars Reise
 
 [PLANTWARS_LEVEL_NAME_NODE]
-第  {NUMS} 天
+{NUMS}ter Tag
 
 [PLANTWARS_LEVEL_NAME_NODE_A]
-第  {NUMS} 天   上层
+{NUMS}ter Tag Oberes Level
 
 [PLANTWARS_LEVEL_NAME_NODE_B]
-第  {NUMS} 天   下层
+{NUMS}ter Tag Unteres Level
 
 [PLANTWARS_TIMEOUT_DESC]
-时间到
+Zeit abgelaufen
 
 [PLANTWARS_ZOMBIEDIE_DESC]
-僵尸清光
+Zombies sind weg
 
 [PLANTWARS_ZOMBIEATEBRAIN_DESC]
-僵尸吃掉了你的大脑
+Zombies haben dich gefressen Gehirn
 
 [PLANTWARS_NEXT_NODE_TITLE]
-系统
+System
 
 [PLANTWARS_NEXT_NODE_DESC]
-打下一关
+Nächstes Level
 
 [PLANTWARS_NEXT_NODE_BTN_TITLE]
-确认
+Bestätigen
 
-[PLANTWARS_TIME_COUNTDOWN_DESC]
+[PLANTWARS_TIME_COUNTDOWN_D ESC]
 {LEVELNAME}
-倒计时：{TIME}
+Countdown: {TIME}
 
 [PLANTWARS_LEVEL_OFFSEASON_DESC]
-当前为休赛期，无法进行游戏
+Derzeit außerhalb der Saison, keine Spiele verfügbar
 
 [PLANTWARS_ZTCRYSTAL1_NAME]
-结晶
+Kristall
 
 [PLANTWARS_ZTCRYSTAL1_DESCRIPTION]
-免疫秒杀效果，在0.1秒内只会受到1次伤害，每次受到的伤害变为1点，僵尸的基础生命值降低
+Immun gegen sofortige Tötungseffekte, erleidet nur 1 Schaden in 0,1 Sekunden, jeder erlittene Schaden wird zu 1 Punkt, die Basisgesundheit des Zombies wird reduziert
 
 [PLANTWARS_ZTGRAVITY1_NAME]
-超重力
+Super Schwerkraft
 
-[PLANTWARS_ZTGRAVITY1_DESCRIPTION]
-不会受到击退和击飞效果影响
+[PLANTWARS_ZTGRAVITY1_NAME]
+AVITY1_DESCRIPTION]
+Nicht von Rückstoß- und Rückstoßeffekten betroffen
 
 [PLANTWARS_ZTSHIELD1_NAME]
-能量盾
+Energieschild
 
 [PLANTWARS_ZTSHIELD1_DESCRIPTION]
-前3次伤害无效，持续期间免疫秒杀效果
+Die ersten 3 Treffer sind wirkungslos und die Dauer ist immun gegen sofortige Tötungseffekte.
 
 [PLANTWARS_ZTSHIELD2_NAME]
-能量盾
+Energieschild
 
 [PLANTWARS_ZTSHIELD2_DESCRIPTION]
-前5次伤害无效，持续期间免疫秒杀效果
+Die ersten 5 Treffer sind wirkungslos und die Dauer ist immun gegen sofortige Tötungseffekte.
 
 [PLANTWARS_ZTSHIELD3_NAME]
-能量盾
+Energieschild
 
 [PLANTWARS_ZTSHIELD3_DESCRIPTION]
-前7次伤害无效，持续期间免疫秒杀效果
+Die ersten 7 Schadenspunkte sind wirkungslos und der sofortige Tötungseffekt ist während der Dauer
 
 [PLANTWARS_ZTIMMUNECONTROL1_NAME]
-不屈
+Unnachgiebig
 
 [PLANTWARS_ZTIMMUNECONTROL1_DESCRIPTION]
-受到的控制效果降低70%
+Der erhaltene Kontrolleffekt wird um 70 % reduziert.
 
 [PLANTWARS_ZTANTICONTROL1_NAME]
-定力
+Stabilität
 
 [PLANTWARS_ZTANTICONTROL1_DESCRIPTION]
-处于控制效果影响时，受到的伤害降低50%
+Unter dem Einfluss von Kontrolleffekten wird der erlittene Schaden um 50 % reduziert.
 
 [PLANTWARS_ZTATTACK1_NAME]
-强力
+Stark
 
 [PLANTWARS_ZTATTACK1_DESCRIPTION]
-攻击力增加50%
+Angriffskraft um 50 % erhöht.
 
 [PLANTWARS_ZTSPEED1_NAME]
-高速
+Hohe Geschwindigkeit
 
 [PLANTWARS_ZTSPEED1_DESCRIPTION]
-移动速度增加50%
+Bewegungsgeschwindigkeit um 50 % erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ORCHIDMAGE_2]
-扇贝兰法师派对装扮
+Jakobsmuschelorchidee Magier-Party-Outfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_3]
-猕猴桃全身装扮
+Kiwi-Ganzkörperkleid
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-向日葵歌手奥运装扮
+Olympia-Kleid der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-向日葵歌手奥运装扮
+Olympia-Kleid der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-向日葵歌手奥运装扮
+Olympia-Kleid der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-向日葵歌手奥运装扮
+Olympia-Kleid der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-向日葵歌手奥运装扮
+Olympia-Kleid der Sonnenblumensängerin
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
+Sonnenblume Sängerin Olympia-Kleid
 
 [ACCUMULATED_LOGIN_TITLE]
-庭院记录
+Gartenrekord
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CROWNFLOWER_3]
-激光皇冠花女王装扮
+Laserkrone Blumenkönigin Kleid
 
 [NEW_AVATAR_DESCRIPTION_CROWNFLOWER_3]
-降低阳光消耗30点
+Sonnenlichtverbrauch um 30 Punkte reduzieren
 
-[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_3]
-桑葚爆破手海盗装扮
+[NEW_AVATAR_SHORT_DE SCRIPTION_MULBERRY_3]
+Mulberry Blaster Piraten-Outfit
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_3]
-攻击速度增加20%
+Angriffsgeschwindigkeit um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NUKELAUNCHER_1]
-地星发射井金秋装扮
+Erdsilo Goldener Herbst-Outfit
 
 [NEW_AVATAR_DESCRIPTION_NUKELAUNCHER_1]
-攻击速度增加15%
+Angriffsgeschwindigkeit um 15 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_2]
-豌豆迫击炮金秋装扮
+Kleiner Erbsenmörser: Goldenes Herbst-Outfit
 
 [NEW_AVATAR_DESCRIPTION_SLINGPEA_2]
-种植冷却缩短15%
+Abklingzeit des Pflanzens um 15 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ICESHROOM_1]
-寒冰菇金秋装扮
+Eispilz-Goldener-Herbst-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_ICESHROOM_1]
-植物攻击力增加20%
+Pflanzenangriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUMPKINWITCH_1]
-南瓜巫师万圣节装扮
+Kürbiszauberer-Halloween-Kostüm
 
-[NEW_AVATAR_DESCRIPTION_PUMPKINWITCH_1]
-种植冷却缩短15%
+[NEW_AVATAR_DESCRIPTION_PUMPKINWITCH_1] ITCH_1]
+Abklingzeit des Pflanzens um 15 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HEAVENDATURA_1]
-留声曼陀罗金秋装扮
+Echo-Mandragora-Goldener-Herbst-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_HEAVENDATURA_1]
-种植冷却缩短20%
+Abklingzeit des Pflanzens um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAGONBRUIT_1]
-暴君火龙果白胡子装扮
+Tyrannen-Drachenfrucht-Weißbart-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_DRAGONBRUIT_1]
-攻击速度增加15%
+Angriffsgeschwindigkeit um 15 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TRISTERIXAPHYLLUS_1]
-寄生仙钗眼镜装扮
+Parasitäre Feen-Haarnadelbrillen-Outfit
 
 [NEW_AVATAR_DESCRIPTION_TRISTERIXAPHYLLUS_1]
-降低阳光消耗20点
+Reduziert den Sonnenlichtverbrauch um 20 Punkte
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_2]
-黑暗双胞葵超级装扮
+Dunkle Zwillingssonnenblume-Super-Outfit
 
 [NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_2]
-每次产生阳光的时候有15%的概率生产100金币
+Jedes Mal, wenn Sonnenlicht erzeugt wird, besteht eine 15-prozentige Chance, 100 Gold zu produzieren Münzen
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POWERPLANT_1]
-瓷砖萝卜超级装扮
+Karotten-Superkleid
 
 [NEW_AVATAR_DESCRIPTION_POWERPLANT_1]
-种植冷却缩短20%
+Abklingzeit beim Pflanzen um 20 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
-猕猴桃齐天大圣装扮
+Kiwi-Affenkönig-Kleid
 
 [NEW_AVATAR_DESCRIPTION_KIWIFRUIT_4]
-攻击速度增加25%
+Angriffsgeschwindigkeit um 25 % erhöht
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_3]
-牛蒡击球手牛魔王装扮
+[NEW_AVATAR_SHORT_DESCRIPTION_BUR DOCKBATTER_3]
+Burdock Batter Bull Demon King Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_3]
-阳光消耗降低25点
+Sonnenlichtverbrauch um 25 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_3]
-小白龙装扮
+Kleiner weißer Drache Kostüm
 
 [NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_3]
-种植冷却减少20%
+Abklingzeit des Pflanzens um 20 % reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_2]
-长枪球兰红孩儿装扮
+Lance Hoya: Roter Junge (Anzug)
 
 [NEW_AVATAR_DESCRIPTION_LANCERHOYA_2]
-阳光消耗降低25点
+Sonnenlichtverbrauch um 25 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_2]
-水晶兰观音装扮
+Kristallorchideen-Guanyin (Anzug)
 
 [NEW_AVATAR_DESCRIPTION_MONOTROPA_2]
-攻击间隔缩短15%
+Angriffsintervall um 15 % verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_3]
-荸荠兄弟金银大王装扮
+Wasserkastanienbrüder: Gold- und Silberkönig (Anzug)
 
-[NEW_AVATAR_DESCRIPTION_ELEOCURLING_3]
-休息时间减少10%
+[NEW_AVATAR_DESCRIPTION_ELEO CURLING_3]
+Ruhezeit um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIBEAST_2]
-野兽猕猴桃八戒装扮
+Kiwi-Bestie-Bajie-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_KIWIBEAST_2]
-攻击力增加20%
+Angriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FLAMELADY_1]
-火焰花女王芭蕉扇装扮
+Flammenblumenkönigin-Bananenfächer-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_FLAMELADY_1]
-阳光消耗降低25点
+Sonnenlichtverbrauch um 25 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_3]
-熊果臼炮沙僧装扮
+Bärentrauben-Mörser-Sandmönch-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BEARBERRY_3]
-攻击力增加20%
+Angriffskraft um 20 % erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_1]
-泡泡姬珊瑚成长装扮
+Blasenkorallen-Wachstum Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BUBBLECORAL_1]
-攻击力增加15%
+Angriffskraft um 15 % erhöht
 
 [PLAYERS_TRIP_TO_PLANTWARS]
-{PLAYER}的僵局逃脱行动！
+{PLAYER}s Flucht aus der Sackgasse!
 
 [PLANTWARS_LEVEL_NAME_W1_1]
-第一关
+Stufe 1
 
 [PLANTWARS_LEVEL_NAME_W1_1_A]
-第一关——上半场
+Stufe 1 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W1_1_B]
-第一关——下半场
+Stufe 1 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W1_2]
-第二关
+Stufe 2
 
 [PLANTWARS_LEVEL_NAME_W1_2_A]
-第二关——上半场
+Stufe 2 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W1_2_B]
-第二关——下半场
+Stufe 2 – Zweite Hälfte
 
-[PLANTWARS_LEVEL_NAME_W1_3]
-第三关
+[PLANTWARS_LEVEL_NAME_W1_2_B]
+Stufe 2 – Zweite Hälfte
+
+[PLANTWARS_LEVEL_NAME_W1_2_A]
+Stufe 2 – Erste Hälfte
+
+[PLANTWARS_LEVEL_NAME_W1_2_B]
+Stufe 2 – Zweite Hälfte AME_W1_3]
+Stufe 3
 
 [PLANTWARS_LEVEL_NAME_W1_3_A]
-第三关——上半场
+Level 3 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W1_3_B]
-第三关——下半场
+Level 3 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W1_4]
-第四关
+Level 4
 
 [PLANTWARS_LEVEL_NAME_W1_4_A]
-第四关——上半场
+Level 4 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W1_4_B]
-第四关——下半场
+Level 4 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W1_5]
-第五关
+Level 5
 
-[PLANTWARS_LEVEL_NAME_W1_5_A]
-第五关——上半场
+[PLANTWARS_LEVEL_NAME_W1_6] ANTWARS_LEVEL_NAME_W1_5_A]
+Level 5 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W1_5_B]
-第五关——下半场
-
+Level 5 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_1]
-第一关
+Level 1
 
 [PLANTWARS_LEVEL_NAME_W2_1_A]
-第一关——上半场
+Level 1 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_1_B]
-第一关——下半场
+Level 1 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_2]
-第二关
+Level 2
 
-[PLANTWARS_LEVEL_NAME_W2_2_A]
-第二关——上半场
+[PLANTWARS_LEVEL_NAME_NAM E_W2_2_A]
+Level 2 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_2_B]
-第二关——下半场
+Level 2 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_3]
-第三关
+Level 3
 
 [PLANTWARS_LEVEL_NAME_W2_3_A]
-第三关——上半场
+Level 3 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_3_B]
-第三关——下半场
+Level 3 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_4]
-第四关
+Level 4
 
 [PLANTWARS_LEVEL_NAME_W2_4_A]
-第四关——上半场
+Level 4 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_4_B]
-第四关——下半场
+Level 4 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_5]
-第五关
+Level 5
 
 [PLANTWARS_LEVEL_NAME_W2_5_A]
-第五关——上半场
+Level 5 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_5_B]
-第五关——下半场
-
+Level 5 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_1]
-第一关
+Level 1
 
 [PLANTWARS_LEVEL_NAME_W3_1_A]
-第一关——上半场
+Level 1 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_1_B]
-第一关——下半场
+Level 1 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_2]
-第二关
+Level 2
 
 [PLANTWARS_LEVEL_NAME_W3_2_A]
-第二关——上半场
+Level 2 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_2_B]
-第二关——下半场
+Level 2 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_3]
-第三关
+Level 3
 
 [PLANTWARS_LEVEL_NAME_W3_3_A]
-第三关——上半场
+Level 3 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_3_B]
-第三关——下半场
+Level 3 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_4]
-第四关
+Level 4
 
 [PLANTWARS_LEVEL_NAME_W3_4_A]
-第四关——上半场
+Level 4 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_4_B]
-第四关——下半场
+Level 4 – Zweite Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_5]
-第五关
+Level 5
 
 [PLANTWARS_LEVEL_NAME_W3_5_A]
-第五关——上半场
+Level 5 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W3_5_B]
-第五关——下半场
+Level 5 – Zweite Hälfte
 
-[PRODUCT_LUCKYCHEST_SHORTDESC]
-每周特惠礼包
+[PRODUCT_LUC KYCHEST_SHORTDESC]
+Wöchentliches Geschenkpaket
 
 [PRODUCT_01LUCKBOX_68_SHORTDESC]
-每周特惠礼包（一）
+Wöchentliches Geschenkpaket (I)
 
 [PRODUCT_02LUCKBOX_68_SHORTDESC]
-每周特惠礼包（二）
+Wöchentliches Geschenkpaket (II)
 
 [PRODUCT_03LUCKBOX_68_SHORTDESC]
-每周特惠礼包（三）
+Wöchentliches Geschenkpaket (III)
 
 [PRODUCT_04LUCKBOX_68_SHORTDESC]
-每周特惠礼包（四）
+Wöchentliches Geschenkpaket (IV)
 
 [PRODUCT_05LUCKBOX_68_SHORTDESC]
-每周特惠礼包（五）
+Wöchentliches Geschenkpaket (V)
 
 [PRODUCT_06LUCKBOX_68_SHORTDESC]
-每周特惠礼包（六）
+Wöchentliches Spezialpaket (Sechs)
 
 [PRODUCT_07LUCKBOX_68_SHORTDESC]
-每周特惠礼包（七）
+Wöchentliches Spezialpaket (Sieben)
 
 [PRODUCT_08LUCKBOX_68_SHORTDESC]
-每周特惠礼包（八）
+Wöchentliches Spezialpaket (Acht)
 
 [PLANTWARS_MODE_HOW_TO_PLAY_1]
-活动时间
+Aktivitätszeit
 
 [PLANTWARS_MODE_HOW_TO_PLAY_2]
-僵尸词条
+Zombie-Einträge
 
-[PLANTWARS_MODE_HOW_TO_PLAY_3]
-死亡墓碑
+[PLANTWARS_MODE_HOW_TO_ PLAY_3]
+Todesgrabstein
 
 [PLANTWARS_MODE_HOW_TO_PLAY_4]
-豌豆雨
+Erbsenregen
 
 [PLANTWARS_MODE_HOW_TO_PLAY_5]
-豌豆雨
+Erbsenregen
 
 [PLANTWARS_MODE_HOW_TO_PLAY_6]
-过关条件
+Clearing Bedingungen
 
 [PLANTWARS_MODE_HOW_TO_PLAY_7]
-积分计算
+Punkteberechnung
 
 [PLANTWARS_MODE_HOWTOPLAY_1_DESCRIPTION]
-活动开启时间为：4月30日14:00到7月31日0:00。
+Das Event beginnt am 30. April um 14:00 Uhr und endet am 31. Juli um 0:00 Uhr.
 
 [PLANTWARS_MODE_HOWTOPLAY_2_DESCRIPTION]
-带有词条的僵尸会额外受到增益效果，需谨慎对待。
+Zombies mit Einträgen erhalten zusätzliche Buffs. Sei also vorsichtig.
 
 [PLANTWARS_MODE_HOWTOPLAY_3_DESCRIPTION]
-本期无特殊机制，和普通模式相同，阻止僵尸吃掉你的脑子，通关后解锁下一关。
+Es gibt keinen speziellen Mechanismus in diesem Spiel. Es funktioniert wie im normalen Modus. Verhindere, dass Zombies dein Gehirn fressen. Schalte das nächste Level frei, nachdem du es abgeschlossen hast.
 
 [PLANTWARS_MODE_HOWTOPLAY_4_DESCRIPTION]
-分数计算为扣分制，消耗阳光、植物死亡以及使用能量豆会减少分数，根据剩余积分获得星级奖励。
+Die Punktzahl wird durch Subtraktion berechnet. Sonnenlichtverbrauch, Pflanzensterben und die Verwendung von Energiebohnen reduzieren die Punktzahl. Sternbelohnungen werden basierend auf den verbleibenden Punkten vergeben.
 
 [ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE]
-精英猎人僵尸
+Elite-Jäger-Zombie
 [ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE_DESCRIPTION_HEADER]
-精英猎人僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Jäger-Zombie verfügt über einen Zähigkeitsbalken. Angriffe mit Feuerattribut können seine Zähigkeit verringern (Brennangriffe können sie erheblich reduzieren). Das Leeren des Zähigkeitsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Zähigkeitsbalken wiederhergestellt ist. Sobald der Zähigkeitswert des Zombies erreicht ist, kann er Schaden begrenzen.
+
 [ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE_DESCRIPTION]
-其实僵尸每4年也会举办一次运动会，精英猎人僵尸包揽了第一届到。。 额。。现在是第几届来着的冠军，总之，他是冠军中的冠军。
+Zombies veranstalten übrigens alle vier Jahre ein Sporttreffen. Das erste davon hat der Elite-Jäger-Zombie vom Platz gefegt. . . . . Er hat bereits zum x-ten Mal die Meisterschaft gewonnen. Kurz gesagt: Er ist der Champion unter den Champions.
 
 [ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE]
-精英冰鼬僵尸
+Elite-Eiswiesel-Zombie
 [ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE_DESCRIPTION_HEADER]
-精英冰鼬僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eiswiesel-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandsfähigkeit verringern (Brennangriffe können sie erheblich reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Widerstandsbalken des Zombies wieder aufgefüllt ist, kann er Schaden begrenzen.
 [ZOMBIE_PLANTWARS_ICEAGE_WEASELHOARDER_ELITE_DESCRIPTION]
-某天，冰鼬僵尸遇到了一块新的空心木头，在里面发现了一只被冻硬的有两只尖牙的松鼠，在它旁边有一个松果，冰鼬僵尸和冰鼬一起啃了一下松果，然后他们变成了精英冰鼬僵尸。
+Eines Tages stieß der Eiswiesel-Zombie auf einen neuen hohlen Wald und fand darin ein gefrorenes Eichhörnchen mit zwei scharfen Zähnen. Daneben lag ein Tannenzapfen. Der Eiswiesel-Zombie und das Eiswiesel nagten gemeinsam den Tannenzapfen und wurden so zu Elite-Eiswiesel-Zombies.
 
 [ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE]
-精英冰风酋长僵尸
+Elite-Eishäuptling-Zombie
 [ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eishäuptling-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen schwachen Zustand. In diesem Zustand kann sich der Zombie weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Wenn der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_PLANTWARS_ICEAGE_CHIEF_ELITE_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Eishäuptling Zombie, dass der Mann mit der Bratpfanne in der gegenüberliegenden Höhle ein Ventilatorgerät herausnahm, woraufhin der Eishäuptling Zombie weggeblasen wurde. Nach vielen weggeblasenen Angriffen lernte der Eishäuptling Zombie nun, gegen das Ventilatorgerät zu kämpfen.
+
 
 [ZOMBIE_PLANTWARS_ICEYEARMONSTER]
-寒冰年兽僵尸
+Eisjahrbestie Zombie
+
 [ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION_HEADER]
-寒冰年兽僵尸僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Eisjahrbestie Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann sich der Zombie weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Wenn der Zombie Widerstandsbalken hat, kann er Schaden begrenzen.
 [ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION]
-经过冰河的修行，不再惧怕红色和爆炸。
+Nach dem Training im Gletscher hat es keine Angst mehr vor Rot und Explosionen.
 
 [PLANTWARS_HEAD_ID_25594]
-首席逃脱专家
+Führender Entfesselungskünstler
 
 [PLANTWARS_HEAD_DES_ID_25594]
-在第一赛季的僵局逃脱中获得15星
+Erreiche 15 Sterne in Deadlock Escape in Staffel 1.
 
 [PLANTWARS_HEAD_ID_25607]
-首席逃脱专家
+Führender Entfesselungskünstler
 
 [PLANTWARS_HEAD_DES_ID_25607]
-在第二赛季的僵局逃脱中获得15星
+Erreiche 15 Sterne in Deadlock Escape in Staffel 2.
 
 [PLANTWARS_HEAD_ID_25697]
-首席逃脱专家
+Führender Entfesselungskünstler
 
 [PLANTWARS_HEAD_DES_ID_25697]
-在第三赛季的僵局逃脱中获得15星
+Erreiche 15 Sterne in Deadlock Escape in Staffel 3.
 
 [PVZ_ERROR_45032]
-活动已结束
+Aktivität beendet.
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_DIAMOND_TITLE]
-钻石累计
+Diamant Akkumulation
 
-[ACTIVITY_NEW_AUTUMN_HARVEST_GOTO_BUTTON]
-瓜分奖池
+[ACTIVITY_NEW_AUTUMN_HARVEST_G OTO_BUTTON]
+Preispool teilen
 
 [HARVEST_BATTLE_HEAD_ID_25595]
-秋日贵族
+Autumn Noble
 
 [HARVEST_BATTLE_HEAD_DES_ID_25595]
-在农场大作战活动中，通过超级玉米兑换
+Im Farm Battle Event gegen Supermais eintauschen
 
 [TOYS_HEAD_ID_25327]
-饿龙来袭
+Hungry Dragon Attack
 
 [TOYS_HEAD_DES_ID_25327]
-参与活动玩具奇妙夜获得
+Nehmen Sie am Toy Wonderful Night Event teil und erhalten Sie
 
 [MONTHLY_POINT_HEAD_ID_25694]
-成长礼包
+Wachstums-Geschenkpaket
 
 [MONTHLY_POINT_HEAD_DES_ID_25694]
-通过成长礼包获得
+Erhältlich durch das Wachstums-Geschenkpaket
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_TIPS]
-钻石瓜分说明
-1.基础奖池20万钻石，全服每有一位玩家参与活动抽奖，每次抽奖奖池增加50钻
-2.钻石奖励中最高可瓜分10%！
+Anleitung zum Teilen von Diamanten
+1. Die Der Basispreispool beträgt 200.000 Diamanten. Für jeden Spieler auf dem Server, der an der Event-Lotterie teilnimmt, erhöht sich der Preispool jedes Mal um 50 Diamanten.
+2. Bis zu 10 % der Diamantenbelohnungen können geteilt werden!
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_MAIN_TIPS]
-活动说明
-1.购买礼包获取农场金币，赢得超级大奖，包含神器、大量钻石等奖励！
-2.最多30次抽到自选奖励，最多90次抽到超级玉米。
-3.活动结束后按代币按比例转化为为钻石，转换比率为农场金币1：30，超级玉米1：500
-4.如果一次抽取同时触发两种保底，则优先抽取自选奖励，下次抽取必定获得超级玉米奖励
+Event-Anleitung
+1. Kaufe ein Geschenkpaket, um Farmmünzen zu erhalten und Superpreise zu gewinnen, darunter Artefakte, viele Diamanten und andere Belohnungen!
+
+2. Du kannst bis zu 30 Mal deine eigenen Belohnungen und bis zu 90 Mal Supermais ziehen.
+3. Nach Ende des Events werden die Token proportional in Diamanten umgewandelt. Das Verhältnis beträgt 1:30 für Farmmünzen und 1:500 für Supermais.
+
+4. Wenn zwei garantierte Mindestanforderungen gleichzeitig erfüllt sind, wird zuerst die selbst gewählte Belohnung gezogen. Die nächste Ziehung erhält definitiv die Supermais-Belohnung.
 
 [AUTUMN_HARVEST_TITLE]
-农场大作战
+Farmkampf
 
 [MAT_AUTUMN_HARVEST_SUPERCORN]
-超级玉米
+Supermais
 
 [AUTUMN_HARVEST_SUPERCORN_EXCHANGE_CONFIRM]
-确认使用超级玉米进行兑换
+Bestätige die Verwendung von Supermais zum Tausch.
 
 [AUTUMN_HARVEST_GACHA_RECORD_TITLE]
-抽取记录
+Ziehungsprotokoll
 
 [AUTUMN_HARVEST_REWARD_PLAYER_TITLE]
-中奖名单
+Gewinnerliste
 
-[PRODUCT_AUTUMN_HARVEST_6_SHORTDESC]
-农场大作战初级礼包
+[ PRODUCT_AUTUMN_HARVEST_6_SHORTDESC]
+Farmkrieg-Hauptgeschenk Paket
 
 [PRODUCT_AUTUMN_HARVEST_30_SHORTDESC]
-农场大作战中级礼包
+Farm Wars Geschenkpaket (Mittelstufe)
 
 [PRODUCT_AUTUMN_HARVEST_98_SHORTDESC]
-农场大作战高级礼包
+Farm Wars Geschenkpaket (Fortgeschrittene)
 
 [PRODUCT_AUTUMN_HARVEST_45_SHORTDESC]
-农场大作战限购礼包A
+Farm Wars Geschenkpaket (Limited Purchase) A
 
 [PRODUCT_AUTUMN_HARVEST_68_SHORTDESC]
-农场大作战限购礼包B
+Farm Wars Geschenkpaket (Limited Purchase) B
 
 [AUTUMN_HARVEST_BONUS_PROBABILITY_DESC]
-奖励概率公示：
-保底奖励：
-	自选奖励（1.88%）
-	超级玉米（0.75%）
-钻石瓜分奖励：
-	奖池1%钻石（0.62%）
-	奖池3%钻石（0.26%）
-	奖池5%钻石（0.11%）
-	奖池10%钻石（0.04%）
-其他奖励：
-	基因原质*4（12.50%）
-	万能基因币*60（12.50%）
-	时空粉尘*10（14.00%）
-	时空粉尘*20（7.00%）
-	时空水晶*5（5.20%）
-	时空水晶*1（18.00%）
-	神秘水晶*6000（16.00%）
-	神秘水晶*18000（6.00%）
-	秘宝券*1（5.14%）
+Belohnungswahrscheinlichkeit:
+Garantierte Belohnung:
+Selbstgewählte Belohnungen (1,88 %)
+Supermais (0,75 %)
+Diamanten-Sharing-Belohnungen:
+1 % Diamanten im Preispool (0,62 %)
+3 % Diamanten im Preispool (0,26 %)
+5 % Diamanten im Preispool (0,11 %)
+10 % Diamanten im Preispool (0,04 %)
+Weitere Belohnungen:
+Gen-Essenz*4 (12,50 %)
+Universal-Gen-Münze*60 (12,50 %)
+Raumzeit-Staub*10 (14,00 %)
+Raumzeit-Staub*20 (7,00 %)
+Raumzeit-Kristall*5 (5,20 %)
+Raumzeit-Kristall*1 (18,00 %)
+Mysteriöser Kristall*6000 (16,00 %)
+Mysteriöser Kristall*18000 (6,00 %)
+Geheimes Schatzticket*1 (5,14 %)
 
 [AUTUMN_HARVEST_TIPS_DESC]
-再抽取{NUMS}次内必得自选奖励，{NUMS_2}次内必得超级玉米
+Ziehe erneut {NUMS} Mal, um die Belohnung deiner Wahl zu erhalten, und {NUMS_2} Mal, um den Supermais zu erhalten.
 
 [MAT_AUTUMN_HARVEST_TICKET]
-农场金币
+Goldmünzen farmen
 
 [MAT_AUTUMN_HARVEST_TICKET_USE]
 用于在农场大作战中抽取奖励
@@ -76011,90 +76140,89 @@ Auto Huarong Road
 Himmelskrieg
 
 [PLAYERS_TRIP_TO_MINIGAME]
-{PLAYER}的趣味竞赛
+{PLAYER}s lustiger Wettbewerb
 
 [MAT_MINIGAME_COIN]
-强化能量
+Power-up
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HEAVENDATURA_2]
-留声曼陀罗节成长装扮
+Mantra-Fest-Wachstumskostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOLLYKNIGHT_1]
-冬青骑士福字装扮
+Holy Knight Fu Zi-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
-暗影豌豆草帽装扮
+Schattenerbsen-Strohhut-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPULT_2]
-火鸡投手奶嘴装扮
+Truthahnkrug-Schnuller-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_1]
-烈焰火蕨眼镜装扮
+Feuerfarn-Brillen-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_3]
-茄子忍者「零」装扮
+Auberginen-Ninja „Zero“ Kostüm
 
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_3]
-攻击力提升30%
+Angriffskraft um 30 % erhöht
 
 [GINGLEBELL_TITLE]
-六一响叮当
+Jingle Bells am 1. Juni
 
 [GINGLEBELL_TIPS]
-活动在封榜期间,无法挑战
+Das Event ist beendet und kann nicht angefochten werden.
 
 [GINGLEBELL_RANK_DAMAGE_TEXT]
-累积伤害
+Kumulierter Schaden
 
 [GINGLEBELL_RANK_TEXT]
-全服排名前{NUMBER}%
+Die besten {NUMBER} % des Servers
 
 [GINGLEBELL_RANK_TEXT_1]
-参与奖
+Teilnahmeprämie
 
 [GINGLEBELL_RECORD]
-历史记录
+Historischer Rekord
 
 [GINGLEBELL_DESCRIPTION_TITLE]
-响叮当活动说明
+Jingle Bells Eventbeschreibung
 
 [GINGLEBELL_DESCRIPTION]
-活动规则：
-    1.在限定时间内对巨人造成的所有伤害即为通关分数。
-    2.通过最新解锁关卡获得的分数用于完成每日奖励任务，任务每天刷新。
-    3.活动时间内将会依次解锁三个主题（火焰训练、电击训练、物理训练），每个主题下有三个关卡。每两天解锁一个新关卡，每六天解锁新主题。
-    4.本期主题存在特殊机制，在三个主题中，分别对巨人造成若干次火焰、电击、物理伤害后，可再次对巨人造成一次高额伤害。巨人会拥有除对应属性外的所有抗性。
-    5.排行榜会依据最新主题下三关分数之和排序，解锁新主题后0点至10点期间封榜进行排行榜公示，公示期间活动关卡不可游玩。游玩非最新主题关卡不会计入排行榜分数。
-    6.10点排行榜公示结束后，自动发放排行榜奖励。6月17日排行榜公示延长至一天，期间不能挑战关卡。
-    7.检测到分数异常的玩家，活动期间打出的分数不再计入排行榜。
-    
+Eventregeln:
+1. Der gesamte Schaden, der dem Riesen innerhalb der begrenzten Zeit zugefügt wird, zählt als Räumungspunktzahl.
+2. Die Punkte für das Erreichen des letzten freigeschalteten Levels werden für die tägliche Belohnungsaufgabe verwendet, die täglich aktualisiert wird.
+3. Drei Themen (Feuertraining, Elektroschocktraining, Körpertraining) werden während des Events nacheinander freigeschaltet. Jedes Thema hat drei Level. Alle zwei Tage wird ein neues Level und alle sechs Tage ein neues Thema freigeschaltet.
+4. Dieses Thema verfügt über einen besonderen Mechanismus. Nachdem dem Riesen in den drei Themen mehrfach Feuer-, Elektroschock- und Körperschaden zugefügt wurde, kann ihm erneut hoher Schaden zugefügt werden. Der Riese verfügt dann über alle Resistenzen außer den entsprechenden Attributen.
+5. Die Rangliste wird nach der Summe der Punktzahlen der drei Level des neuesten Themas sortiert. Nach dem Freischalten des neuen Themas wird die Rangliste von 0 bis 10 Uhr für die Bekanntgabe der Rangliste geschlossen. Während dieser Zeit kann das Event-Level nicht gespielt werden. Das Spielen von Leveln, die älter als die neuesten Themen sind, wird nicht in die Rangliste eingerechnet.
+6. Nach Ende der Ranglistenbekanntgabe um 10:00 Uhr werden die Ranglistenbelohnungen automatisch vergeben. Die Ranglistenbekanntgabe am 17. Juni wird um einen Tag verlängert, und das Level kann während dieser Zeit nicht angefochten werden.
+7. Spieler mit ungewöhnlichen Punktzahlen werden nicht mehr in die Bestenliste aufgenommen.
 
 [GINGLEBELL_RANK]
-您的排名:{NUMBER}
+Dein Rang: {NUMBER}
 
 [GINGLEBELL_PARTIC_NUM]
-全服参与人数:{NUMBER}
+Anzahl der Teilnehmer auf dem gesamten Server: {NUMBER}
 
 [GINGLEBELL_RANK_REWARD_TITLE]
-六一响叮当排行榜奖励
+Jingle Bell Ranglisten-Belohnungen
 
 [GINGLEBELL_TAB1]
-主题挑战
+Themen-Herausforderungen
 
 [GINGLEBELL_TAB3]
-每日奖励
+Tägliche Belohnungen
 
 [PVZ2TRAINING_DPSDAMAGETEXT]
-每秒伤害: {NUMBER}  
+Schaden pro Sekunde: {NUMBER}
 
 [PVZ2TRAINING_TOTALDAMAGETEXT]
-总伤害: {NUMBER}
+Gesamtschaden: {NUMBER}
 
 [PVZ2TRAINING_DAMAGE1]
-本局伤害: {NUMBER}
+Schaden in dieser Runde: {NUMBER}
 
 [PVZ2TRAINING_DAMAGE2]
-历史伤害: {NUMBER}  
+Historischer Schaden: {NUMBER}
 
 [STARCHALLENGE_TRAINING]
 Verursache in 30 Sekunden so viel Schaden wie möglich.
@@ -76780,83 +76908,86 @@ Erhältlich bei verschiedenen Lageraktivitäten
 在农场大作战活动中，通过超级玉米兑换
 
 [AD_FREE_TITLE]
-终身免广告卡
+Lebenslang werbefreie Karte
 
 [AD_FREE_REWARD]
-可获得：
-钻石300
-终身免广告权益
+Sie erhalten:
+300 Diamanten
+Lebenslang werbefreie Vorteile
 
 [AD_FREE_DISCOUNT]
-超值800%
+800 % Wert
 
 [AD_FREE_BUY]
-18元
+18 Yuan
 
 [NEWYEAR_GIFT_HEAD_ID_25632]
-金银拜年
+Goldene und silberne Neujahrsgrüße
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25632]
-在新年礼包活动期间，达到活动中累计充值进度领取
+Erreichen Sie während des Neujahrsgeschenkpaket-Events den kumulierten Aufladefortschritt, um es zu erhalten.
 
 [NEWYEAR_GIFT_HEAD_ID_25675]
-惊喜大礼
+Überraschungsgeschenk
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25675]
-在庆典礼包活动期间，达到活动中累计充值进度领取
+Erreichen Sie während des Festgeschenkpaket-Events den kumulierten Aufladefortschritt, um es zu erhalten. es
 
-[NEWYEAR_GIFT_HEAD_ID_25695]
-卷帘大将
+[NEWYEAR_GIFT_HEAD_DES_ID_25675]
+Erreiche während des Festgeschenkpaket-Events den kumulativen Aufladefortschritt, um es zu erhalten.
+
+[NEWYEAR_GIFT_ HEAD_ID_25695]
+General des Rolling Curtain
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25695]
-在庆典礼包活动期间，达到活动中累计充值进度领取
+Erreiche während des Festgeschenkpaket-Events den kumulativen Aufladefortschritt, um es zu erhalten.
 
 [TEN_THOUSAND_HEAD_ID_25636]
-植物热爱者
+Pflanzenliebhaber
 
 [TEN_THOUSAND_HEAD_DES_ID_25636]
-在限时礼包中达到累计充值进度领取
+Erreiche den kumulativen Aufladefortschritt im zeitlich begrenzten Geschenkpaket, um es zu erhalten.
 
 [NEWYEARREDPACKETE_TAB0]
-新春头奖
+Neujahrs-Hauptpreis
 
 [NEWYEARREDPACKETE_TAB1]
-实物大奖
+Physischer Hauptpreis Preis
 
 [NEWYEARREDPACKETE_TAB1_BUTTON1]
-报名抽奖
+Registriere dich für die Verlosung
 
 [NEWYEARREDPACKETE_TAB1_BUTTON2]
-免费获取抽奖券
+Holt euch ein kostenloses Los
 
 [PRODUCT_NEWYEARREDPACKETE_TITLE]
-新春领红包
+Holt euch einen roten Umschlag zum neuen Jahr
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
-奖励预览：
-腊月廿八：^ff0000^万能碎片^oldclr^*200
-腊月廿九：^ff0000^进阶书^oldclr^*10
-正月初一：^ff0000^定向碎片^oldclr^*300
-正月初二：^ff0000^钻石^oldclr^*20250
-正月初三：^ff0000^限时夺宝奖杯^oldclr^*5
-正月初四：^ff0000^万能碎片^oldclr^*200
-正月初五：^ff0000^进阶书^oldclr^*10
-正月初六：^ff0000^定向碎片^oldclr^*300
-正月初七：^ff0000^钻石^oldclr^*20250
-正月初八：^ff0000^限时夺宝奖杯^oldclr^*5
-正月初九：^ff0000^万能碎片^oldclr^*200
-正月初十：^ff0000^进阶书^oldclr^*10
-正月十一：^ff0000^定向碎片^oldclr^*300
-正月十二：^ff0000^钻石^oldclr^*20250
+Vorschau des Preises:
+28. Tag des zwölften Mondmonats: ^ff0000^Universelle Fragmente^oldclr^*200
+29. Tag des zwölften Mondmonats: ^ff0000^Fortschrittsbuch^oldclr^*10
+1. Tag des ersten Mondmonats: ^ff0000^Zielfragmente^oldclr^*300
+2. Tag des ersten Mondmonats: ^ff0000^Diamanten^oldclr^*20250
+Dritter Tag des ersten Mondmonats: ^ff0000^Zeitlich begrenzte Schatztrophäe^oldclr^*5
+Vierter Tag des ersten Mondmonats: ^ff0000^Universelle Fragmente^oldclr^*200
+Fünfter Tag des ersten Mondmonats: ^ff0000^Fortschrittliches Buch^oldclr^*10
+Sechster Tag des ersten Mondmonats: ^ff 0000^Richtungsfragmente^oldclr^*300
+Siebter Tag des ersten Mondmonats: ^ff0000^Diamanten^oldclr^*20250
+Achter Tag des ersten Mondmonats: ^ff0000^Zeitlich begrenzte Schatztrophäe^oldclr^*5
+Neunter Tag des ersten Mondmonats: ^ff0000^Universelle Fragmente^oldclr^*200
+Der zehnte Tag des ersten Mondmonats: ^ff0000^Fortgeschrittenes Buch^oldclr^*10
+Der elfte Tag des ersten Mondmonats: ^ff0000^Richtungsfragmente^oldclr^*300
+Der zwölfte Tag des ersten Mondmonats: ^ff0000^Diamanten^oldclr^*20250
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
-头号幸运玩家奖
+Der Glückspilz-Preis
 
 [ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
-打开庆典礼包，获取超多钻石与稀有装扮
+Öffne das Festpaket, um viele Diamanten und seltene Kostüme zu erhalten
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
-恭喜您被选中成为今日最幸运玩家
+Herzlichen Glückwunsch zur Wahl zum glücklichsten Spieler des Tages!
 
 [AVATARCOLLECTIONS_TITLE]
 Sammlung
@@ -77055,35 +77186,35 @@ Die linke Erbse ist einen Millimeter länger als die rechte.
 Doppelschütze Nr. 41 ist ein seltener Widder.
 
 [PARALLEL_WINTERMELON]
-41号冰西瓜投手
+Eis-Wassermelonen-Krug Nr. 41
 
 [PARALLEL_WINTERMELON_TOOLTIP]
-火西瓜投手能造成范围性爆破伤害并使僵尸灼伤，每秒造成僵尸最大生命值100%的伤害，持续30秒。
+Der Feuer-Wassermelonen-Krug verursacht Explosionsschaden aus großer Entfernung und verbrennt Zombies. Der Schaden wird 30 Sekunden lang auf 100 % der maximalen Gesundheit des Zombies pro Sekunde reduziert.
 
 [PARALLEL_WINTERMELON_DESCRIPTION_HEADER]
-投掷西瓜的温度比一号宇宙高1摄氏度
+Die Temperatur der geworfenen Wassermelone ist 1 Grad Celsius höher als im Universum 1.
 
 [PARALLEL_WINTERMELON_DESCRIPTION]
-火西瓜投手能造成范围性爆破伤害并使僵尸灼伤，每秒造成僵尸最大生命值100%的伤害，持续30秒。
+Der Feuer-Wassermelonen-Krug verursacht Explosionsschaden aus großer Entfernung und verbrennt Zombies. Der Schaden wird 30 Sekunden lang auf 100 % der maximalen Gesundheit des Zombies pro Sekunde reduziert.
 
 [BATTLE_ORDER_BUTTON_DESC]
-x{NUMS}完成
+x{NUMS} abgeschlossen
 
 [BATTLE_ORDER_BUTTON_TIPS_DESC]
-当前拥有 ^FF0000 {ALLNUMS} ^oldclr 战令券
-是否需要花费 ^FF0000 {NUMS} ^oldclr 战令券完成任务？
+Aktuell ^FF0000 {ALLNUMS} ^oldclr Battle Pass-Tickets vorhanden
+Benötigst du ^FF0000 {NUMS} ^oldclr Battle Pass-Tickets, um die Mission abzuschließen?
 
 [BATTLE_ORDER_BUTTON_NOT_ENOUGH_DESC]
-战令券不足
+Nicht genügend Battle Pass-Tickets
 
 [MAT_BATTLE_ORDER_TICKET]
-战令券
+Battle Pass-Tickets
 
 [MAT_BATTLE_ORDER_TICKET_USE]
-用于完成战令任务（潘妮的追击指南、戴夫的神秘宝藏、令营活动、双人战令）
+Wird zum Abschließen von Battle Pass-Missionen (Pennys Verfolgungsleitfaden, Daves geheimnisvoller Schatz, Camp-Events, Duo-Battle Pass) benötigt.
 
 [MAT_BATTLE_ORDER_TICKET_GOT_WAY]
-从响叮当活动、每月签到和问卷调查获得
+Erhältlich bei Jingle Bells-Events, monatlichen Check-ins und Fragebögen.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST]
 Ein Zombie aus „Reise in den Westen“
