@@ -7006,17 +7006,7 @@ Totenkopfflaggen-Zombie
 [ZOMBIE_PIRATE_FLAG_VETERAN_DESCRIPTION_HEADER]
 Der Totenkopfflaggen-Zombie kündigt die Ankunft von vielen, vielen Zombies an.
 
-[ZOMBIE_PIRATE_GARGANTUAR]
-Gargantua-Pirat
 
-[ZOMBIE_PIRATE_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Schaden: {STAT}Schlägt Pflanzen mit Hai
-{KEYWORD}Besonderheit: {STAT}Wirft mit einem Piratenwicht, wenn er Schaden nimmt
-
-{FLAVOR}Der Gargantua-Pirat mag Plankenspaziergänge, Überfälle im Mondlicht und den Geruch von Kanonen. Ein echter Romantiker.
-
-[ZOMBIE_PIRATE_GARGANTUAR_DESCRIPTION_HEADER]
-Ein enormer Zombie mit einzigartigem Haiangriff.
 
 [ZOMBIE_PIRATE_IMP]
 Zombiepirat-Wicht
@@ -12810,34 +12800,40 @@ Ultimate kann horizontale Zombies betäuben.
 ^FF3300 玉米投手植物+装扮^oldclr 今日^FF3300 5折^oldclr 打包出售！从此让僵尸寸步难移！
 
 [ZOMBIE_EGYPT_GARGANTUAR]
-埃及巨人僵尸
-
-[ZOMBIE_EGYPT_GARGANTUAR_DESCRIPTION_HEADER]
-砸扁一切植物，还会投掷小鬼。
+Mumifizierter Gargantua
 
 [ZOMBIE_EGYPT_GARGANTUAR_DESCRIPTION]
-{KEYWORD}特点：{STAT}血量超高，砸扁接触到的植物，投掷小鬼
-{KEYWORD}弱点：{STAT}冰冻生菜能让巨人僵尸减速，借此机会赶快消灭他吧！
+{KEYWORD}Schaden: {STAT}Plättet Pflanzen mit dem Sarkophag
+{KEYWORD}Besonderheit: {STAT}Wirft mit einer Wicht-Mumie, wenn er Schaden nimmt
 
-{FLAVOR}天崩地裂，法老召唤的远古巨人，难道金字塔就是这帮家伙建造的？
+{FLAVOR}Fakt Nr. 1: Die Pyramiden wurden errichtet, um den mumifizierten Gargantua klein wirken zu lassen. Hat nicht funktioniert. Fakt Nr. 2: Der Sphinx fehlt nicht die Nase ... das ist das Gesicht des ... Gargantua.
+
+[ZOMBIE_EGYPT_GARGANTUAR_DESCRIPTION_HEADER]
+Ein massiver Zombie aus einer illustren Mumien-Ahnenreihe.
 
 [ZOMBIE_PIRATE_GARGANTUAR]
-海盗巨人僵尸
-
-[ZOMBIE_PIRATE_GARGANTUAR_DESCRIPTION_HEADER]
-砸扁一切植物，还会投掷小鬼。
+Gargantua-Pirat
 
 [ZOMBIE_PIRATE_GARGANTUAR_DESCRIPTION]
-{FLAVOR}惊涛骇浪也阻挡不了这巨人。它来自无底的深渊，力大无穷，也喜欢金枪鱼寿司。
+{KEYWORD}Schaden: {STAT}Schlägt Pflanzen mit Hai
+{KEYWORD}Besonderheit: {STAT}Wirft mit einem Piratenwicht, wenn er Schaden nimmt
+
+{FLAVOR}Der Gargantua-Pirat mag Plankenspaziergänge, Überfälle im Mondlicht und den Geruch von Kanonen. Ein echter Romantiker.
+
+[ZOMBIE_PIRATE_GARGANTUAR_DESCRIPTION_HEADER]
+Ein enormer Zombie mit einzigartigem Haiangriff.
 
 [ZOMBIE_COWBOY_GARGANTUAR]
-西部巨人僵尸
-
-[ZOMBIE_COWBOY_GARGANTUAR_DESCRIPTION_HEADER]
-砸扁一切植物，还会投掷小鬼
+Wildwest-Gargantua
 
 [ZOMBIE_COWBOY_GARGANTUAR_DESCRIPTION]
-{FLAVOR}它是第一批到西部做生意的僵尸。它原本以烙铁为生，但因错误地估计了马蹄的尺寸而失业，这导致了它的暴怒。
+{KEYWORD}Schaden: {STAT}Plättet Pflanzen mit Brandeisen
+{KEYWORD}Besonderheit: {STAT}Lässt einen Bullenreiter los, wenn er beschädigt wird
+
+{FLAVOR}Mag Süßes.
+
+[ZOMBIE_COWBOY_GARGANTUAR_DESCRIPTION_HEADER]
+Ein Riesenzombie mit Markenbewusstsein.
 
 [ZOMBIE_KONGFU_STRONG_BRONZE]
 大汉铜人僵尸
@@ -15320,146 +15316,148 @@ Verbessertes Rezept
 获取签到配置错误，请保持网络畅通，重启游戏。
 
 [ZOMBIE_DARK]
-农夫僵尸
-
-[ZOMBIE_DARK_DESCRIPTION]
-{FLAVOR}听到有人喊道, "醒来吧亡灵!" 农夫僵尸睁开了双眼，但他已经记不起以前的任何事情了。
-
-[ZOMBIE_DARK_DESCRIPTION_HEADER]
-常规普通的低等僵尸。
+Bauernzombie
 
 [ZOMBIE_DARK_ARMOR1]
-路障农夫僵尸
+Pylonen-Bauer
 
 [ZOMBIE_DARK_ARMOR1_DESCRIPTION]
-{FLAVOR}路障农夫僵尸对自己脑袋上有个路障这事挺高兴的。局势艰难啊，老兄!要知道很多僵尸连这个都没有呢!
+{FLAVOR}Der Pylonen-Bauer ist einfach nur froh, den Pylon auf dem Kopf zu tragen. Immerhin sind es harte Zeiten. Manche Zombies müssen ohne auskommen!
 
 [ZOMBIE_DARK_ARMOR1_DESCRIPTION_HEADER]
-坚硬的路障让他比农夫僵尸强壮2倍。
+Mit seinem steinernen Pylon ist er doppelt so robust wie normale Bauern.
 
 [ZOMBIE_DARK_ARMOR2]
-铁桶农夫僵尸
+Eimer-Bauer
 
 [ZOMBIE_DARK_ARMOR2_DESCRIPTION]
-{FLAVOR}没有其他僵尸知道铁桶农夫僵尸的铁桶究竟有多少功能,没错,在战斗中它是出色的头盔。就在昨晚，他用这个桶做了丰盛的炖脑子大餐。还有,下次你去看他乐队演出的时候，记得看看他是用什么当脚鼓的。
+{FLAVOR}Die anderen Zombies begreifen nicht, wie vielseitig die Kopfbedeckung des Eimer-Bauerns ist. Einerseits ein Helm für die Schlacht. Andererseits ein prima Kochpott für Hirn-Eintopf. Und drauf rumtrommeln kann man auch.
 
 [ZOMBIE_DARK_ARMOR2_DESCRIPTION_HEADER]
-这个锻造成的铁桶很好的保护他不受伤害。
+Sein geschmiedeter Eimer schützt hervorragend gegen Schaden.
 
 [ZOMBIE_DARK_ARMOR3]
-骑士僵尸
+Zombieritter
 
 [ZOMBIE_DARK_ARMOR3_DESCRIPTION]
-{FLAVOR}当他被国王僵尸晋升为骑士时所有人都觉得不可思议.虽然他从来没有告诉过其他人,但在他内心深处也怀疑自己是否有资格披上这身戎装.不过这一切都没有关系,就像他们说的那样:"你就装吧,一直装到你有资格就行了"
-
+{FLAVOR}Der Zombieritter war über den Ritterschlag durch den Zombiekönig genauso überrascht wie alle anderen. Natürlich würde er das nie zugeben, aber er weiß nicht, ob er das Zeug dazu hat. Doch wie sagt man so schön: „Einfach immer so tun, als ob!“
 
 [ZOMBIE_DARK_ARMOR3_DESCRIPTION_HEADER]
-国王赐予他的头盔提供了抵抗惊人伤害的效果。
+Sein vom König verliehener Helm schützt ihn bestens gegen Schaden.
+
+[ZOMBIE_DARK_DESCRIPTION]
+{FLAVOR}Das letzte, woran sich der Bauernzombie erinnert, ist, dass jemand rief: „Bringt die Untoten raus!“ Und plötzlich war er hier.
+
+[ZOMBIE_DARK_DESCRIPTION_HEADER]
+Reguläre, niedere Zombieklasse.
 
 [ZOMBIE_DARK_FLAG]
-黑暗旗子僵尸
+Flaggen-Zombiebauer
 
 [ZOMBIE_DARK_FLAG_DESCRIPTION]
-{FLAVOR}朋友们不停的告诉黑暗旗子僵尸,没有比授予旗子更高的奖励了.但是当他看到其他僵尸被授予铁桶,路障,甚至头盔时,他觉得他的朋友们这么说只是为了让他好过一些.
+{FLAVOR}Angeblich soll es ja keine größere Ehre geben, als das Schlachtbanner zu tragen. Doch wenn der Flaggen-Zombiebauer andere Mitstreiter mit Pylonen, Eimern und sogar Helmen sieht, schwant ihm, dass man ihn nur trösten wollte.
 
 [ZOMBIE_DARK_FLAG_DESCRIPTION_HEADER]
-标志着一大波黑暗僵尸的到来。
+Kündigt die Ankunft einer großen, dunklen Zombiewelle an.
 
 [ZOMBIE_DARK_GARGANTUAR]
-黑暗巨人僵尸
+Mittelalter-Gargantua
 
 [ZOMBIE_DARK_GARGANTUAR_DESCRIPTION]
-{KEYWORD}伤害：{STAT} 使用锤子摧毁植物
-{KEYWORD}特点：{STAT}当受到伤害时就会扔出僧侣小鬼僵尸
-{FLAVOR}当黑暗巨人僵尸想要买条合适的裤子时，他不得不跑到"巨人服装专柜”去买。他真的想不去，因为这实在让人觉得很难堪。他也想去去其他僵尸经常逛的普通柜台。
+{KEYWORD}Schaden: {STAT}zerquetscht Pflanzen mit seinem Hammer
+{KEYWORD}Besonderheit: {STAT}lässt einen Mönchswicht los, wenn er beschädigt wird
+
+{FLAVOR}Seine Pantinen muss der Mittelalter-Gargantua im Schuhgeschäft „Rübezahl“ kaufen. Das ist ihm total peinlich. Wie gerne würde er da einkaufen, wo alle anderen Zombies hingehen.
 
 [ZOMBIE_DARK_GARGANTUAR_DESCRIPTION_HEADER]
-挥舞锤子的巨大僵尸。
+Gewaltiger Zombie mit Hammer-Angriff.
 
 [ZOMBIE_DARK_IMP]
-僧侣小鬼僵尸
+Mönchswicht-Zombie
 
 [ZOMBIE_DARK_IMP_DESCRIPTION]
-{FLAVOR}坦白讲，僧侣小鬼僵尸之所以选择穿上修士的长袍,成为一名名虔诚的僧侣.完全是因为他迷上了现在的发型.
+{FLAVOR}Eigentlich hat der Mönchswicht-Zombie sich nur für die Kutte entschieden, weil es den schicken Haarschnitt gratis dazu gab.
 
 [ZOMBIE_DARK_IMP_DESCRIPTION_HEADER]
-会在你的防线后方被召唤出，然后蹒跚前进
+Landet hinter dem Großteil deiner Verteidigungen und watschelt dann vorwärts.
 
 [ZOMBIE_DARK_IMP_DRAGON]
-恶龙小鬼僵尸
+Drachenwicht-Zombie
 
 [ZOMBIE_DARK_IMP_DRAGON_DESCRIPTION]
-{KEYWORD}特点：{STAT}免疫火球伤害
-{FLAVOR}恶龙小鬼僵尸知道他的年纪已经不小了,已经不适合穿得像个过万圣节的小孩了。但是他不在乎。让别人说去吧。因为他觉得自己有着龙的灵魂,每当他穿上这套衣服时他更接近真实的自我。
+{KEYWORD}Besonderheit: {STAT}immun gegen Feuerschaden
+
+{FLAVOR}Der Zombiewicht weiß, dass er für ein Drachenkostüm eigentlich zu alt ist. Aber das ist ihm egal. Sollen die anderen doch lästern – der Drache ist sein Seelentier, und deshalb steht er zu seinem Outfit.
 
 [ZOMBIE_DARK_IMP_DRAGON_DESCRIPTION_HEADER]
-会被吐到你防线的后方，然后向前爬行。
+Landet hinter dem Großteil deiner Verteidigungen und krallt sich dann vorwärts.
 
 [ZOMBIE_DARK_JUGGLER]
-小丑僵尸
+Hofnarr-Zombie
 
 [ZOMBIE_DARK_JUGGLER_DESCRIPTION]
-{FLAVOR}噢,没错，大家都爱取笑丑角僵尸那滑稽可笑的样子。但是没有人知道他拥有顶尖艺术学院表演系硕士学位。在草坪的另一侧,他常年与一些优秀的古典剧团合作。但有些时候他只是为了生活。
+{FLAVOR}Jeder liebt die Narreteien des Hofnarr-Zombies. Was aber keiner weiß, ist, dass er einen Schauspielabschluss an der Akademie der untoten Künste gemacht hat. Er stand sogar mit einigen der besten Theatertruppen diesseits des Rasens auf der Bühne. Aber manchmal muss man eben auch einfach etwas Geld verdienen.
 
 [ZOMBIE_DARK_JUGGLER_DESCRIPTION_HEADER]
-反弹任何指向他的攻击。
+Schießt auf ihn abgefeuerte Projektile zurück.
 
 [ZOMBIE_DARK_KING]
-国王僵尸
+Zombiekönig
 
 [ZOMBIE_DARK_KING_DESCRIPTION]
-{FLAVOR}正如同莎士比亚写道，“当你的头上戴上皇冠,你将从此忐忑难安。”对此，僵尸国王再赞同不过了。你想想,当脑袋上始终戴着这个皇冠，想要好好睡一晚简直比登天还难。你能想象这玩艺有多不舒服么？
+{FLAVOR}Wie Shakespeare einst schrieb: „Schwer ruht das Haupt, das eine Krone drückt." Der Zombiekönig könnte es nicht besser sagen. Es ist einfach unglaublich schwierig, mit einer Krone auf dem Kopf zu schlafen. Das elende Ding ist so unbequem!
 
 [ZOMBIE_DARK_KING_DESCRIPTION_HEADER]
-赐予周围的农夫僵尸骑士头盔。
+Verteilt Ritterhelme an Zombiebauern in der Nähe.
 
 [ZOMBIE_DARK_WIZARD]
-魔法师僵尸
+Zombie-Zauberer
 
 [ZOMBIE_DARK_WIZARD_DESCRIPTION]
-{FLAVOR}所有的僵尸都认为,魔法师僵尸有着令人惊叹的魔法力量。但是他们不理解的是…为啥他要变羊?众所周知,如果把植物变成僵尸,比现在有帮助多了。当然了这样的话谁敢当面和他说呢?
+{FLAVOR}Alle Zombies sind sich einig: Der Zauberer hat wirklich beeindruckende Sprüche auf Lager. Aber warum verwandelt er immer alle in Schafe? Jeder weiß doch, dass es viel praktischer wäre, wenn er die Pflanzen einfach in, tja, weitere Zombies verwandeln würde. Aber das traut sich natürlich wieder keiner zu sagen.
 
 [ZOMBIE_DARK_WIZARD_DESCRIPTION_HEADER]
-将植物变成毫无抵抗力的羊。
+Verwandelt Pflanzen in passive Schafe.
 
 [ZOMBIE_DARK_ARCHMAGE]
-大法师僵尸
+Erzmagier-Zombie
 
 [ZOMBIE_DARK_ARCHMAGE_DESCRIPTION]
-{FLAVOR}大法师僵尸最讨厌别人看他的帽子，他最经常做的事情就是使敢于注视他的路人陷入沉睡。后来有一天他经过了一面巨大的镜子旁边……
+{FLAVOR}Erzmagier-Zombie hasst es, wenn Leute seinen Hut ansehen. Er bringt Passanten, die es wagen, ihn anzusehen, oft zum Einschlafen. Eines Tages kam er an einem riesigen Spiegel vorbei ...
 
 [ZOMBIE_DARK_ARCHMAGE_DESCRIPTION_HEADER]
-使一块区域内的植物陷入沉睡。
+Schläfert Pflanzen in einem 3x3 Bereich ein.
 
 [ZOMBIE_DARK_CAVALRY]
-骑兵僵尸
+Kavallerie-Zombie
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION]
-{FLAVOR}骑兵僵尸拥有僵尸里少有的荣誉感和自尊心，所以他从不允许别人打听他是为什么变成僵尸的。至于为什么……
-一位著名的僵尸先哲曾经说过：“淹死的都是会水的……”
+{FLAVOR}Kavallerie-Zombie besitzt ein unter Zombies seltenes Ehrgefühl und Selbstwertgefühl. Daher lässt er es nie zu, dass andere ihn fragen, warum er ein Zombie geworden ist. Warum ...
+Ein berühmter Zombie-Weiser sagte einst: „Wer ertrinkt, kann gut schwimmen ...“
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION_HEADER]
-能够发起威力强大的冲锋。
+Kann einen mächtigen Angriff starten. Bei diesem wird eine Lanze fallen gelassen die wie ein Grab ist und läuft seperat von seinem Pferd weiter.
 
 [ZOMBIE_DARK_ROGUE]
-盗贼僵尸
+Dieb-Zombie
 
 [ZOMBIE_DARK_ROGUE_DESCRIPTION]
-{FLAVOR}作为一名专业人士，盗贼僵尸生前非常具有职业精神。为了能够更好地履行自己的职责，他特意找一位巫师配置了隐形药剂。嗯，药剂的作用还是很明显的，就是副作用有些大……
+{FLAVOR}Der Dieb-Zombie war zu Lebzeiten ein Profi. Um seine Aufgaben besser erfüllen zu können, suchte er einen Zauberer, der einen Unsichtbarkeitstrank herstellte. Die Wirkung des Tranks ist zwar deutlich spürbar, aber die Nebenwirkungen sind etwas heftig ...
 
 [ZOMBIE_DARK_ROGUE_DESCRIPTION_HEADER]
-在喝下药水后能进入隐形状态。
+Nachdem er den Trank getrunken hat, kann er sich unsichtbar machen.
 
 [ZOMBIE_ZOMBOSSMECH_DARK]
-黑暗机械龙
+Dunkler Zombot-Drache
 
 [ZOMBIE_ZOMBOSSMECH_DARK_DESCRIPTION]
-{KEYWORD}伤害：{STAT} 呼出的火焰气息可以伤害摧毁植物
-{KEYWORD}特点：{STAT}投掷火球可以孵化恶龙小鬼僵尸
-{FLAVOR}伴随着毁灭世界的轰鸣,僵尸博士在炙热的火山中心打造出他的机械魔龙,随后在极寒的野兽末日之湖中将其淬火.最后填入致死煤矿中的绝命毒煤为他驱动.噢,对了,他的涂装由邻居家的小明完成。
+{KEYWORD}Schaden: {STAT}Spuckt Feuer und zerstört Pflanzen
+{KEYWORD}Besonderheit: {STAT}Aus Feuerbällen können Drachenwicht-Zombies schlüpfen
+
+{FLAVOR}Dr. Zomboss schmiedete seinen dunklen Drachen tief im Innern eines Vulkans. Dann härtete er das Biest im kalten See der Verdammnis aus. Zuletzt befüllte er den Kamin des Untiers mit Kohle aus den Minen von Mordio. Naja, und dann hat Carl das Viech noch schnell lackiert.
 
 [ZOMBIE_ZOMBOSSMECH_DARK_DESCRIPTION_HEADER]
-从黑暗时代，毁灭所有的东西。
+Der Schrecken aus alten, finsteren Zeiten.
 
 [SUNSHROOM]
 Sonnenpilz
@@ -15598,7 +15596,7 @@ Eichenschießer
 Der Eichenschießer kann mächtige Pfeile abfeuern, um Zombies vor ihm anzugreifen.
 
 [OAKSHOOTER_TOOLTIP]
-攻击前方的僵尸。
+Greift die Zombies vor sich an.
 
 [ICESHROOM]
 寒冰菇
