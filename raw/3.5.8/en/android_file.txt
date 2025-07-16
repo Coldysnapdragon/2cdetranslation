@@ -2940,13 +2940,13 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {MÜDE}Hast du etwas zu fressen?
 
 [NARRATIVE_3702]
-{NPC_ENTER:winnie}{SAG:winnie}Energiebohnen sind reich an Vitaminen und Mineralstoffen.
+{NPC_ENTER:winnie}{SAG:winnie}Spezialdünger-Fähigkeitn sind reich an Vitaminen und Mineralstoffen.
 
 [NARRATIVE_3703]
 {VERSPIELT:winnie}Sie sind ein perfektes Frühstücks-Essential!
 
 [NARRATIVE_3800]
-{NPC_ENTER:crazydave}{AUFGEWUNDERT}Wirken Energiebohnen auch bei anderen Pflanzen?
+{NPC_ENTER:crazydave}{AUFGEWUNDERT}Wirken Spezialdünger-Fähigkeitn auch bei anderen Pflanzen?
 
 [NARRATIVE_3900]
 {NPC_ENTER:crazydave}{MÜDE}{LANG}Ah! Deine Pflanze wurde gefressen! Bitte versuche es noch einmal!
@@ -12082,7 +12082,7 @@ Feuerkürbisstück!
 Kiesbürstenstück!
 
 [ADVICE_ENERGY_GRID_PLANT]
-Pflanze Pflanzen auf diesem Raster, um Energiebohnen zu ernten!
+Pflanze Pflanzen auf diesem Raster, um Spezialdünger-Fähigkeitn zu ernten!
 
 Je teurer die Pflanze, desto schneller erntest du!
 
@@ -17884,13 +17884,13 @@ Effekt: 1. Erhöht die Angriffskraft um 15 %. 2. Erhöht die Angriffsgeschwindig
 Effekt: 1. Erhöht die Angriffskraft um 18 %. 2. Erhöht die Angriffsgeschwindigkeit um 9 %. 3. Freigeschaltet.
 
 [SUPER_CLOCK_BOOST_DES_3]
-Effekt: 1. Erhöht die Angriffskraft um 20 %. 2. Erhöht die Angriffsgeschwindigkeit um 12 %. 3. Das Töten von Zombies hat eine 10%ige Chance, Energiebohnen zu erzeugen.
+Effekt: 1. Erhöht die Angriffskraft um 20 %. 2. Erhöht die Angriffsgeschwindigkeit um 12 %. 3. Das Töten von Zombies hat eine 10%ige Chance, Spezialdünger-Fähigkeitn zu erzeugen.
 
 [SUPER_CLOCK_BOOST_DES_4]
-Effekt: 1. Erhöht die Angriffskraft um 25 %. 2. Erhöht die Angriffsgeschwindigkeit um 15 %. 3. Beim Töten von Zombies besteht eine 15%ige Chance, Energiebohnen zu erzeugen.
+Effekt: 1. Erhöht die Angriffskraft um 25 %. 2. Erhöht die Angriffsgeschwindigkeit um 15 %. 3. Beim Töten von Zombies besteht eine 15%ige Chance, Spezialdünger-Fähigkeitn zu erzeugen.
 
 [SUPER_CLOCK_BOOST_DES_5]
-Effekte: 1. Erhöht die Angriffskraft um 30 %. 2. Erhöht die Angriffsgeschwindigkeit um 20 %. 3. Beim Töten von Zombies besteht eine 18%ige Chance, Energiebohnen zu erzeugen.
+Effekte: 1. Erhöht die Angriffskraft um 30 %. 2. Erhöht die Angriffsgeschwindigkeit um 20 %. 3. Beim Töten von Zombies besteht eine 18%ige Chance, Spezialdünger-Fähigkeitn zu erzeugen.
 
 [SUPER_CLOCK_1]
 Rote Kerze
@@ -19886,7 +19886,7 @@ Super!
 Dr. Zombie, zitter!
 
 [ELIMINATE_TIP3]
-Zombie-Apokalypse!! Bonus-Energiebohnen!
+Zombie-Apokalypse!! Bonus-Spezialdünger-Fähigkeitn!
 
 [ELIMINATE_LOSE]
 Deine Pflanzen wurden von Zombies gefressen!
@@ -19907,7 +19907,7 @@ Die Anzahl der Aktionen ist aufgebraucht. Möchtest du ^00e46e {GEM_COUNT} Diama
 {STEP_COUNT} Schritte
 
 [ELIMINATE_NEED_INTRO_TIP]
-Du erhältst Energiebohnen, wenn du mehr als 7 hintereinander eliminierst!
+Du erhältst Spezialdünger-Fähigkeitn, wenn du mehr als 7 hintereinander eliminierst!
 
 [ELIMINATE_ELIMINATE_PLANTFOOD_TIP]
 Du aktivierst den Spezialdünger, indem du die Bälle oben, unten, links und rechts eliminierst! Probier es aus!
@@ -24969,7 +24969,7 @@ Lass das Angeln nicht zu. Schließe ein Level ab, indem du deine Pflanzen weghak
 Fliegenfischen fehlgeschlagen.
 
 [ACHIEVE_FUNGUS_HUMONGOUS_DESC]
-Benutze eine Energiebohne, um 20 kleine Puffpilze zu aktivieren.
+Benutze eine Spezialdünger-Fähigkeit, um 20 kleine Puffpilze zu aktivieren.
 
 [ACHIEVE_FUNGUS_HUMONGOUS_TITLE]
 Riese Pilze
@@ -25301,7 +25301,7 @@ Fluchtwurzeln können nicht gegen Orte getauscht werden, an denen sie nicht gepf
 Fluchtwurzeln können nicht gegen Pflanzen getauscht werden, die genommen oder versetzt wurden.
 
 [ADVICE_ESCAPEROOT_CANT_SWAP_PLANTFOODED_PLANTS]
-Fluchtwurzeln können nicht gegen Pflanzen getauscht werden, die Energiebohnen verwenden.
+Fluchtwurzeln können nicht gegen Pflanzen getauscht werden, die Spezialdünger-Fähigkeitn verwenden.
 
 [ADVICE_ESCAPEROOT_CANT_SWAP_THIS_PLANT]
 Fluchtwurzeln können nicht gegen diese Pflanze getauscht werden.
@@ -25365,7 +25365,7 @@ Bodenpflanzen können nicht auf Brettern gepflanzt werden.
 Schalte neue Welten mit dem Weltenschlüssel frei.
 
 [ADVICE_REFRESH_PUFFSHROOMS]
-Energiebohnen können alle kleinen Blätterpilze sofort regenerieren.
+Spezialdünger-Fähigkeitn können alle kleinen Blätterpilze sofort regenerieren.
 
 [ADVICE_RETURN_TO_UNIVERSE_VIEW]
 Du hast einen Raum-Zeit-Schlüssel erhalten! Klicke hier, um die Raum-Zeit-Karte anzuzeigen.
@@ -38849,91 +38849,97 @@ Kristallklar und feucht
 有概率发射豌豆连弹，对直线上范围敌人造成伤害
 
 [JACKOLANTERN]
-杰克南瓜灯
+Kürbislaterne
+
+[jackolantern_back_for_limited_time]
+Die Kürbislaterne ist zurück – nur für kurze Zeit!
 
 [JACKOLANTERN_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}橙色植物，满腹怒火
-{FLAVOR}“Trick or treat！”杰克南瓜灯试图让其他植物们交出糖果，他要好好的保存在自己空空的肚肚里。可是他不小心一边念一边将火焰喷给僵尸了，也许僵尸们在心里也想学他。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Orange Pflanze, voller Wut
+{KEYWORD}Nutzung: {STAT}Einmal antippen für Einzel-Flammenstoß, halten für mächtigeren Flammenstrahl
+
+{KEYWORD}Besonderheit: {STAT}Feuerkraft lädt mit der Zeit nach
+
+{FLAVOR} „Buh! Hahaharharhaaaa!“ gröhlt die Kürbislaterne. Tja, wenn sie in der Nähe ist, wird es ernsthaft gruselig. Verlass dich drauf.
 
 [JACKOLANTERN_DESCRIPTION_HEADER]
-杰克南瓜灯会向前方喷火，对僵尸造成伤害
+Kürbislaternen speien Feuer ihre Reihe herunter und verursachen hohen Brandschaden auf kurze Distanz.
 
 [JACKOLANTERN_TOOLTIP]
-杰克南瓜灯会向前方喷火，对僵尸造成伤害
+Feuert Flammenstöße über kurze Distanz.
 
 [JACKOLANTERN_PRODUCT_SHORT_DESC]
-杰克南瓜灯会向前方喷火，对僵尸造成伤害
+Kürbislaternen spucken Feuer und fügen Zombies Schaden zu.
 
 [JACKOLANTERN_AVATAR_NAME]
-杰克南瓜灯会向前方喷火，对僵尸造成伤害
+Kürbislaternen spucken Feuer und fügen Zombies Schaden zu.
 
 [STORE_PRODUCT_AVATAR_JACKOLANTERN]
-大招的幽灵火焰会溅出小火花，持续对周围造成伤害
+Die Geisterflamme der ultimativen Fähigkeit erzeugt kleine Funken und verursacht kontinuierlich Schaden in der Umgebung.
 
-[STORE_PRODUCT_AVATAR_JACKOLANTERN_TITLE]
-杰克南瓜灯装扮
+[STORE_PRODUCT_AVATAR_JACKOLANTERN_TI TLE]
+Kürbislaternenkostüm
 
 [JACKOLANTERN_SKILL_LEVEL1]
-火量增加
+Feuer verstärken
 
 [JACKOLANTERN_SKILL_LEVEL1_DES]
-增加火焰范围距离1格
+Feuerreichweite um 1 Feld erhöhen
 
 [JACKOLANTERN_SKILL_LEVEL2]
-火量加强
+Feuer verstärken
 
 [JACKOLANTERN_SKILL_LEVEL2_DES]
-增加火焰范围距离1格
+Feuerreichweite um 1 Feld erhöhen Quadrat
 
 [JACKOLANTERN_SKILL_LEVEL5]
-南瓜幽灵 
+Kürbisgeist
 
 [JACKOLANTERN_SKILL_LEVEL5_DES]
-每过一段时间会产生一只南瓜幽灵，对僵尸进行附身诱导，僵尸会持续向反方向行走一段时间。
+Hin und wieder erscheint ein Kürbisgeist und nimmt den Zombie in Besitz, wodurch dieser eine Zeit lang in die entgegengesetzte Richtung läuft.
 
 [LANCERHOYA]
-长枪球兰
+Lanzen-Wachsblume
 
 [LANCERHOYA_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}长枪球兰对于长枪的使用非常的精通，即使是移动靶也能精准命中，比如那些逃跑的僵尸，和在脸上飞的苍蝇
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{FLAVOR}Die Lanzen-Wachsblume, auch Lanzen-Hoya genannt, ist sehr geübt im Umgang mit Speeren und kann selbst bewegliche Ziele, wie z. B. fliehende Zombies und Fliegen, welche ihm ins Gesicht fliegen, präzise treffen.
 
 [LANCERHOYA_DESCRIPTION_HEADER]
-长枪球兰投掷长矛，对僵尸造成伤害
+Die Lanzen-Wachsblume wirft Speere und fügt Zombies Schaden zu.
 
 [LANCERHOYA_TOOLTIP]
-长枪球兰投掷长矛，对僵尸造成伤害
+Die Lanzen-Wachsblume wirft Speere und fügt Zombies Schaden zu.
 
 [LANCERHOYA_PRODUCT_SHORT_DESC]
-长枪球兰投掷长矛，对僵尸造成伤害
+Die Lanzen-Wachsblume wirft Speere und fügt Zombies Schaden zu.
 
 [LANCERHOYA_AVATAR_NAME]
-长枪球兰投掷长矛，对僵尸造成伤害
+Die Lanzen-Hoya wirft Speere und fügt Zombies Schaden zu.
 
-[STORE_PRODUCT_AVATAR_LANCERHOYA]
-范围扩大为5×5，旋转会将僵尸浮空后砸向地面，造成额外伤害
+[STORE_PRODUCT_AVATAR_LAN CERHOYA]
+Die Reichweite erweitert sich auf 5×5 und die Rotation lässt Zombies schweben und schleudert sie dann zu Boden um zusätzlichen Schaden zu verursachen.
 
 [STORE_PRODUCT_AVATAR_LANCERHOYA_TITLE]
-长枪球兰装扮
+Lanzen Wachsblume Kostüm
 
 [LANCERHOYA_SKILL_LEVEL1]
-快速蓄力
+Schnellladung
 
 [LANCERHOYA_SKILL_LEVEL1_DES]
-蓄力所需时间减少2.5秒
+Ladezeit um 2,5 Sekunden reduziert
 
 [LANCERHOYA_SKILL_LEVEL2]
-强力控制
+Starke Kontrolle
 
 [LANCERHOYA_SKILL_LEVEL2_DES]
-蓄力所需时间减少2.5秒
+Ladezeit um 2,5 Sekunden reduziert
 
 [LANCERHOYA_SKILL_LEVEL5]
-横扫千军
+Feind niederstrecken
 
 [LANCERHOYA_SKILL_LEVEL5_DES]
-蓄力攻击释放时会挑起自身前方2格内的所有僵尸，伤害额外增加60%
-
+Beim Angriff werden alle Zombies im Umkreis von zwei Feldern vor dem Angriff provoziert, wodurch der Schaden um 60 % erhöht wird.
 
 [CTHULHUACTINIA]
 深渊海葵
@@ -41007,7 +41013,7 @@ Wenn ihr einen Menschen erschafft, wird automatisch ein Schütze erschaffen. Die
 Wenn ihr einen Menschen erschafft, wird automatisch ein Mörser erschaffen. Die Anzahl der Angriffe, die zum Verbessern aller Pflanzenmenschenformen benötigt werden, verringert sich um 1. Pflanzenmenschen werden um 2 reduziert.
 
 [EYWA_NEW_SKILL_LEVEL4_DES]
-Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen Energiebohnen direkt freizusetzen. Großer Zug.
+Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen Spezialdünger-Fähigkeitn direkt freizusetzen. Großer Zug.
 
 [EYWA_NEW_SKILL_LEVEL5_DES]
 Wenn du zum ersten Mal einen Charakter erstellst, erstellst du direkt einen Panzermann. Wenn der Panzermann aus dem Panzer springt und in der Luft verschwindet, besteht die Chance, dass ein Flugzeug erscheint, den Mann auffängt, eine zusätzliche Atombombe abwirft und davonfliegt. Die Atombombe hat eine Explosionsreichweite von 3×3 und verursacht Schaden und Degradation bei Zombies in Reichweite.
@@ -43374,6 +43380,7 @@ Explodierender Jadetau-Outfit
 Reduziert die Abklingzeit von dem Butterglöckchen um 20 %
 
 [FISHHOOKGRASS]
+Angelhakengrass
 
 [FISHHOOKGRASS_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
@@ -53243,7 +53250,7 @@ Die Menge an Sonne, die zu Beginn des Kampfes genutzt werden kann
 Anfangsenergiebohnen
 
 [MUTATOR_STARTING_PLANTFOOD_DESC]
-Menge an Energiebohnen zu Beginn eines Kampfes
+Menge an Spezialdünger-Fähigkeitn zu Beginn eines Kampfes
 
 [MUTATOR_STARTING_SUN]
 Anfangs Sonnenlicht
@@ -53297,10 +53304,10 @@ Mechanismus der nächsten Welle
 Mechanismus der nächsten Welle kann verwendet werden.
 
 [MUTATOR_RIFT_TIMED_TOOL_NO_PRODUCE_PF]
-Energiebohnen-Debuff
+Spezialdünger-Fähigkeitn-Debuff
 
 [MUTATOR_RIFT_TIMED_TOOL_NO_PRODUCE_PF_DESC]
-Beim Töten von Zombies werden keine zusätzlichen Energiebohnen generiert.
+Beim Töten von Zombies werden keine zusätzlichen Spezialdünger-Fähigkeitn generiert.
 
 [MUTATOR_ZOMBIE_LEVEL]
 Zombiestärke
@@ -64937,7 +64944,7 @@ Das muss ich sein.
 Hier kommt der Schmelztiegel.
 
 [FOREST_LEVEL_NAME_12_H]
-Fügt ein paar Energiebohnen hinzu.
+Fügt ein paar Spezialdünger-Fähigkeitn hinzu.
 
 [FOREST_LEVEL_NAME_13_H]
 Fügt ein paar Pflanzen hinzu.
@@ -64958,7 +64965,7 @@ Dieser seltsame Nebel kann Zombies einen mächtigen Schutzschild bieten. Viellei
 Magischer Schmelztiegel
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CRUCIBLE]
-Füge eine Energiebohne hinzu, um den Schmelztiegel zum Kochen zu bringen, und gib anschließend ein paar Pflanzen hinein. Wer weiß, was dabei herauskommt?
+Füge eine Spezialdünger-Fähigkeit hinzu, um den Schmelztiegel zum Kochen zu bringen, und gib anschließend ein paar Pflanzen hinein. Wer weiß, was dabei herauskommt?
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_MIRROR]
 Magischer Spiegel
@@ -67344,7 +67351,7 @@ Gesundheit
 [NEW_PLANT_UI_PLANT_VALUE_ATTACK_LABEL]
 Angriff
 
-[NEW_PLANT_UI_PLANT_VALUE_ RANGE_LABEL]
+[NEW_PLANT_UI_PLANT_VALUE_RANGE_LABEL]
 Reichweite
 
 [NEW_PLANT_UI_PLANT_VALUE_PLANT_LABEL]
@@ -69721,7 +69728,7 @@ Erhöht die Wachstumsrate des Eispilzes um 50 % und hat eine Chance von 7,5 %, Z
 Erhöht die Wachstumsrate des Eispilzes um 100 % und hat eine Chance von 15 %, I^oldclr^-Zombies einzufrieren.
 
 [ICESHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ICESHROOM_NEW_SKILL_LEVEL5_DES]
 Wenn der Eispilz wächst, wird die dritte Angriffsstufe zu einer Eisspirale, die kleine Eisbälle mit 80 % Schaden der großen Zauberkugel verteilen kann.
@@ -69742,7 +69749,7 @@ Die Wachstumszeit jedes Flammenpilz-Stadiums wird auf 75 % der ursprünglichen Z
 Die Wachstumszeit jedes Flammenpilz-Stadiums wird auf 50 % der ursprünglichen Zeit reduziert und der Schaden um weitere 30 % erhöht.
 
 [FIRESHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [FIRESHROOM_NEW_SKILL_LEVEL5_DES]
 Wenn der Flammenpilz wächst, wird die dritte Angriffsstufe zu einem magischen Feuerball, der Zombies 80 % Flächenschaden zufügt.
@@ -69784,7 +69791,7 @@ Ermöglicht es der Pusteblume, zwei Bomben zu tragen.
 Ermöglicht es der Pusteblume, drei Bomben zu tragen.
 
 [DANDELION_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, die Energiebohne direkt freizusetzen. (Große Bewegung!)
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen. (Große Bewegung!)
 
 [DANDELION_NEW_SKILL_LEVEL5_DES]
 Beim Abwerfen eines Pompons hat der Löwenzahn eine 30%ige Chance, eine größere Bombe mit 270 Schadenspunkten abzufeuern.
@@ -69805,7 +69812,7 @@ Wenn Der Brokkoli seine volle Kraft einsetzt, besteht eine 20%ige Chance, den Zo
 Wenn Der Brokkoli seine volle Kraft einsetzt, besteht eine 40%ige Chance, den Zombie direkt aus dem Feld zu werfen.
 
 [BROCCOLI_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Energiebohnen-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [BROCCOLI_NEW_SKSKILL_LEVEL5_DES]
 Beim Loslassen des Pompons hat Rittersporn eine 30%ige Chance, eine größere Bombe mit 270 Schadenspunkten freizusetzen.
@@ -69826,7 +69833,7 @@ Die Angriffsreichweite des Maschinengewehr-Granatapfels wurde auf 3×3 erweitert
 Die Angriffsreichweite des Maschinengewehr-Granatapfels wurde auf 3×4 erweitert.
 
 [PAMEGRANATE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohne direkt mit einem großen Angriff einzusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff einzusetzen!
 
 [PAMEGRANATE_PLANTFOOD_DESCRIPTION]
 Feuert Kugeln auf den fächerförmigen Bereich vor euch (ca. 3×4).
@@ -69874,7 +69881,7 @@ Nachdem sich die Verworrene Wasserpflanze mit dem Zombie verwickelt hat, kann si
 Der kraftvolle Schwung der Verworrenen Wasserpflanze kann die Zombies links und rechts vor ihnen angreifen und um ein Feld zurückstoßen.
 
 [TANGLEKELP_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Angriff!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
 
 [TANGLEKELP_PLANTFOOD_DESCRIPTION]
 Das Verworrene Wasserkraut greift zufällig 3 Einheiten im Wasser an.
@@ -69892,7 +69899,7 @@ Das Nachladen von Bomben wird beschleunigt und die Ruhezeit auf 17 Sekunden verk
 Die Nachladegeschwindigkeit wird weiter erhöht und die Ruhezeit auf 14 Sekunden verkürzt.
 
 [BANANA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BANANA_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, eine Rakete mit 3600 Schaden abzufeuern. Die Rakete explodiert nach 6 Sekunden und verursacht 4500 Schaden in einem Umkreis von 3×3.
@@ -69913,7 +69920,7 @@ Es besteht eine 20%ige Chance, die Klammern der Avocado abzufeuern und so 50 % z
 Es besteht eine 40%ige Chance, die Diamantspangen der Avocado zu schleudern und so 100 % zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 300.
 
 [GUACODILE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt mit einem großen Move auszulösen! Der Aufladeschaden erhöht sich auf 375.
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt mit einem großen Move auszulösen! Der Aufladeschaden erhöht sich auf 375.
 
 [GUACODILE_PLANTFOOD_DESCRIPTION]
 Stoße die Zombies vor dir zurück und lasse zwei kleine Avocados mit denselben Aufladeeigenschaften wie du los. Die kleinen Avocados stürmen vom Feld.
@@ -69931,7 +69938,7 @@ Homing Thistle hat eine Chance von 25 %, zwei Nadeln hintereinander abzufeuern.
 Homing Thistle hat eine Chance von 50 %, zwei Nadeln hintereinander abzufeuern.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszulösen!
 
 [HOMINGTHISTLE_PLANTFOOD_DESCRIPTION]
 Feuert mindestens 10 Nadeln ab, deren Schaden dem Vierfachen der eigenen Angriffskraft entspricht. Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von Homingthistle abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
@@ -69949,7 +69956,7 @@ Nachdem Homingthistle einen Zombie gefressen hat, rülpst sie und stößt alle Z
 Nachdem die Pflanze einen Zombie gefressen hat, rülpst sie und stößt alle Zombies in der Nähe um drei Felder zurück.
 
 [CHOMPER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, den ultimativen Energiebohnen-Move direkt einzusetzen!
+Beim Pflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt einzusetzen!
 
 [CHOMPER_NEW_SKILL_LEVEL5_DES]
 Die Pflanze hat eine 20%ige Chance, alle Zombies normaler Größe innerhalb von drei Feldern rechts von ihr direkt zu verschlingen und dabei 300 Schaden an nicht verschlingbaren Einheiten zu verursachen.
@@ -69970,7 +69977,7 @@ Die starke Säurezitrone kann zwei Säureschüsse gleichzeitig abfeuern und auch
 Die Säurezitrone kann drei Säuretropfen gleichzeitig abfeuern und so allen Panzerungen den doppelten Schaden und allen Zombies 30 % zusätzlichen Schaden zufügen.
 
 [LEMON_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Angriff!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
 
 [LEMON_NEW_SKILL_LEVEL5_DES]
 Beim Angriff hat die Säurezitrone eine Chance von 15 %, eine Zitronenscheibe abzufeuern, die kleine Zombies mit 450 Schadenspunkten zurückdrängt. Nach Kontakt mit einer feindlichen Einheit kehrt sie zurück. Die zurückgedrängten Zombies treiben alle anderen kleinen Zombies auf dem Weg mit sich und werden gemeinsam zurückgedrängt.
@@ -69993,7 +70000,7 @@ Geist-Peperoni's Angriffsreichweite erweitert sich zu einem Kreuz.
 Geist-Peperoni's Angriffsreichweite erhöht sich in jede Richtung um ein Feld.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohnen-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [GHOSTPEPPER_PLANTFOOD_DESCRIPTION]
 Geist-Peperoni öffnet sein Maul und verursacht 3 Sekunden lang Schreckensschaden an Zombies in einem 3×3 großen Bereich um sich selbst.
@@ -70011,7 +70018,7 @@ Süßkartoffels Gesundheit stieg auf 6800.
 Süßkartoffels Gesundheit stieg auf 9600.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszulösen!
 
 [SWEETPOTATO_NEW_SKSKILL_LEVEL5_DES]
 Beim Angriff hat die Starke Säurezitrone eine 15%ige Chance, eine Zitronenscheibe zu schleudern, die kleine Zombies mit 450 Schadenspunkten abwehrt. Nach Kontakt mit einer feindlichen Einheit kehrt sie zurück. Die abgewehrten Zombies führen alle kleinen Zombies auf dem Weg mit sich, die gemeinsam abgewehrt werden. Die Starke Säurezitrone greift erst an, wenn die Zitronenscheibe wiedergefunden wurde.
@@ -72866,25 +72873,25 @@ Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken näh
 虎头菇张开血盆大口对右侧3×3范围内的僵尸释放一次撕咬造成巨大伤害，^ff0000^并发动2次斩击。^oldclr^
 
 [DRAFTODIL_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在水仙花射手右侧时，水仙花射手会向前方喷射空气弹，对命中的僵尸造成伤害，有50%的概率会造成僵直，会吹飞飞行僵尸，有30%的概率吹飞小鬼僵尸。
+Wenn ein Zombie rechts von der Sturmglocke erscheint, feuert dieser Luftgeschosse nach vorne ab, die den getroffenen Zombies Schaden zufügen. Dabei besteht eine Chance von 50 %, dass er steif wird und fliegende Zombies weggeschleudert werden. Eine Chance von 30 %, dass Wichte weggeschleudert werden, besteht ebenfalls.
 
 [DRAFTODIL_NEW_SKILL_LEVEL2_DES]
-气流水仙花制造更强的气流，有40%的概率吹飞小鬼僵尸。
+Die Sturmglocke erzeugt einen stärkeren Luftstrom und hat eine Chance von 40 %, dass Wichte weggeschleudert werden.
 
 [DRAFTODIL_NEW_SKILL_LEVEL3_DES]
-气流水仙花制造更强的气流，有50%的概率吹飞小鬼僵尸。
+Die Sturmglocke erzeugt einen stärkeren Luftstrom und hat eine Chance von 50 %, dass Wichte weggeschleudert werden.
 
 [DRAFTODIL_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine mittlere Chance, die  direkt freizusetzen.
 
 [DRAFTODIL_NEW_SKILL_LEVEL5_DES]
-攻击时有15%概率射出更强大的气球子弹，可穿透一个僵尸，对第一个僵尸造成时间更长的僵直，有极高概率吹飞小型僵尸，对第二个僵尸造成普通子弹的效果。
+Beim Angriff besteht eine 15%ige Chance, eine stärkere Ballonkugel abzufeuern. Diese kann einen Zombie durchdringen und den ersten Zombie länger steif machen. Kleine Zombies werden mit hoher Wahrscheinlichkeit weggeblasen, wodurch der zweite Zombie die Wirkung normaler Kugeln erleidet.
 
 [DRAFTODIL_PLANTFOOD_DESCRIPTION]
-气流水仙花制造出强大的气流连续发出10枚子弹并吹飞当前行的飞行僵尸。
+Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Kugeln hintereinander ab und sprengt die fliegenden Zombies in der aktuellen Reihe weg.
 
 [DRAFTODIL_AVATAR_PLANTFOOD_DESCRIPTION]
-气流水仙花制造出强大的气流对^ff0000^右侧3行各连续发出10枚子弹并吹飞当前行的飞行僵尸。^oldclr^
+Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Kugeln hintereinander rechts von ^ff0000^ ab und sprengt die fliegenden Zombies in der aktuellen Reihe weg. ^oldclr^
 
 [GARDENERGRASS_NEW_SKILL_LEVEL1_DES]
 当有僵尸进入地锯草的右侧2格内时，地锯草会使用头顶的锯子对所有僵尸进行攻击，每秒造成伤害并控制僵尸，僵尸会持续抖动且无法行动，同时锯子会在15秒内逐渐过热，在过热状态下，地锯草无法进行攻击，过热的电锯会在10秒后恢复。
@@ -72923,25 +72930,25 @@ Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken näh
 此植物无能量豆大招。
 	  
 [ENTS_NEW_SKILL_LEVEL1_DES]
-树灵守卫巨大的身躯是为了保护植物而存在的，会自动恢复自身生命值，每秒恢复300点，当面对的僵尸超过2个时，恢复增加到每秒400点，可以在身边生产树木尖刺攻击僵尸。^ff0000^对滚筒僵尸有奇效。^oldclr^
+Der riesige Körper des Baumwächters dient dem Schutz von Pflanzen. Er regeneriert automatisch seine Gesundheit um 300 Punkte pro Sekunde. Bei mehr als zwei Zombies erhöht sich die Regeneration auf 400 Punkte pro Sekunde. Er kann Baumspitzen um sich herum erzeugen, um Zombies anzugreifen. ^ff0000^ Er hat eine wundersame Wirkung auf Roller-Zombies. ^oldclr^
 
 [ENTS_NEW_SKILL_LEVEL2_DES]
-与大自然的共鸣强化了树灵守卫的恢复能力，当面对的僵尸超过2个时，每秒恢复600点生命值。
+Die Resonanz mit der Natur stärkt die Regenerationsfähigkeit des Baumwächters. Bei mehr als zwei Zombies regeneriert er 600 Gesundheitspunkte pro Sekunde.
 
 [ENTS_NEW_SKILL_LEVEL3_DES]
-与大自然的共鸣强化了树灵守卫的恢复能力，当面对的僵尸超过2个时，每秒恢复900点生命值。
+Die Resonanz mit der Natur stärkt die Regenerationsfähigkeit des Baumwächters. Bei mehr als zwei Zombies regeneriert er 900 Gesundheitspunkte pro Sekunde.
 
 [ENTS_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [ENTS_NEW_SKILL_LEVEL5_DES]
-与大自然的共鸣强化了树灵守卫的恢复能力，当面对的僵尸超过2个时，每秒恢复1500点生命值，可以抵挡巨人僵尸的攻击，每次受到巨人僵尸攻击后会掉落树叶，树叶全部掉落后再受到巨人僵尸的攻击会直接死亡。
+Die Resonanz mit der Natur stärkt die Regenerationsfähigkeit des Baumgeistwächters. Bei mehr als zwei Zombies regeneriert er 1500 Lebenspunkte pro Sekunde und kann Angriffen von Riesenzombies widerstehen. Nach einem Angriff von Riesenzombies fallen Blätter ab. Sobald alle Blätter abgefallen sind, stirbt er bei einem erneuten Angriff von Riesenzombies.
 
 [ENTS_PLANTFOOD_DESCRIPTION]
-树灵护卫召唤3x3范围的树木尖刺，范围内的所有僵尸将会被顶起并受到伤害，落地后受到5秒^848484^眩晕Ⅰ^oldclr^，如果僵尸携带魔力护盾，尖刺攻击会击碎护盾。
+Der Baumgeistwächter beschwört Baumspitzen in einem Umkreis von 3x3. Alle Zombies in diesem Umkreis werden hochgehoben und verletzt. Nach der Landung sind sie 5 Sekunden lang betäubt. ^848484^I^oldclr^. Tragen die Zombies magische Schilde, zerstören die Spitzen diese.
 
 [ENTS_AVATAR_PLANTFOOD_DESCRIPTION]
-树灵护卫召唤3x3范围的树木尖刺，范围内的所有僵尸将会被顶起并受到500点伤害，落地后受到5秒^848484^眩晕Ⅰ^oldclr^。^ff0000^在大招范围的中心格生成巨型尖刺，格子内的僵尸将会被击飞得更高，落地后造成8s眩晕，^oldclr^如果僵尸携带魔力护盾，尖刺攻击会击碎护盾
+Der Baumgeistwächter beschwört Baumspitzen in einem Umkreis von 3x3. Alle Zombies in diesem Umkreis werden hochgehoben und erleiden 500 Schadenspunkte. Nach der Landung sind sie 5 Sekunden lang betäubt.^848484^I^oldclr^. ^ff0000^ In der Mitte des ultimativen Umkreises wird ein riesiger Stachel erzeugt. Die Zombies im Raster werden höher geschleudert und nach der Landung 8 Sekunden lang betäubt. ^oldclr^ Trägt der Zombie einen magischen Schild, zerschmettert der Stachelangriff diesen.
 
 [HATMUSHROOM_NEW_SKILL_LEVEL1_DES]
 当有僵尸出现在疯帽菇右侧时，疯帽菇会扔出帽子对僵尸造成攻击力伤害，帽子会在受击僵尸3×3范围内弹射，至多弹射2次，首个受到攻击的僵尸会有8%概率触发时空倒流效果，受到时空倒流效果影响的僵尸会在原地僵直5秒，随后向右传送。
@@ -73196,26 +73203,25 @@ Die Erbsenapothekerin wirft eine Flasche Schattentrank auf die drei Zombies, die
 双生卯兔潜入地底，随后在^ff0000^右侧5×5范围^oldclr^内连续钻出6次，击飞中小型僵尸并对大型僵尸造成伤害。该秒杀无阶数限制。
 
 [LANCERHOYA_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在右侧时，会将长矛向右投掷出对僵尸造成伤害。每隔20秒，植物完成蓄力身上出现金光，点击后用长枪将右侧2格内1个小型僵尸挑起，并连续戳击使僵尸浮空1.5秒，造成1000点伤害。
+Wenn rechts ein Zombie erscheint, wird der Speer nach rechts geworfen, um ihm Schaden zuzufügen. Alle 20 Sekunden lädt die Pflanze die Pflanze vollständig auf, und ein goldenes Licht erscheint auf ihrem Körper. Klicke darauf und nimm mit dem Speer einen kleinen Zombie im Umkreis von zwei Feldern rechts auf. Stiche ihn 1,5 Sekunden lang in der Luft und verursache 1000 Schaden.
 
 [LANCERHOYA_NEW_SKILL_LEVEL2_DES]
-长枪球兰的长枪连击蓄力时间缩短至17.5秒。
+Die Ladezeit der Speer-Kombo der Speer-Orchidee wurde auf 17,5 Sekunden verkürzt.
 
 [LANCERHOYA_NEW_SKILL_LEVEL3_DES]
-快速蓄力的技能效果提升100%，长枪连击蓄力时间缩短至15秒。
+Die Wirkung der Schnellladefähigkeit wurde um 100 % erhöht, und die Ladezeit der Speer-Kombo wurde auf 15 Sekunden verkürzt.
 
 [LANCERHOYA_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [LANCERHOYA_NEW_SKILL_LEVEL5_DES]
-长枪球兰习得横扫千军技能，蓄力攻击升级为范围内群体，伤害提升至5000点。
+Die Lanzen Wachsblume erlernt die Fähigkeit „Feind umzingeln“. Der aufgeladene Angriff wird innerhalb der Reichweite zu einem Gruppenangriff aufgewertet und der Schaden erhöht sich auf 5000 Punkte.
 
 [LANCERHOYA_PLANTFOOD_DESCRIPTION]
-长枪球兰将长枪举到头顶并快速旋转，将周围3×3范围的僵尸拉扯至右侧1格，并持续造成伤害。
+Die Lanzen Wachsblume hebt seinen Speer an die Spitze seines Kopfes und wirbelt ihn schnell herum. Dadurch werden die Zombies im 3×3-Bereich um ein Feld nach rechts gezogen und verursachen kontinuierlich Schaden.
 
 [LANCERHOYA_AVATAR_PLANTFOOD_DESCRIPTION]
-长枪球兰将长枪举到头顶并快速旋转，将^ff0000^周围5×5范围^oldclr^的僵尸拉扯至右侧1格，并持续造成伤害。^ff0000^最后追加砸地1次造成高额伤害。^oldclr^
-
+Die Lanzen Wachsblume hebt seinen Speer an die Spitze seines Kopfes und wirbelt ihn schnell herum. Dadurch werden die Zombies im Umkreis von 5×5 um ^oldclr^ ein Feld nach rechts gezogen und verursachen kontinuierlich Schaden. ^ff0000^ Abschließend fügt er einen Bodenschlag hinzu, der hohen Schaden verursacht. ^oldclr^
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL1_DES]
 每间隔20秒伸出触手将1x3范围的1只僵尸拖入地底，消化结束后花苞进入开放状态；花苞开放后，当本行出现僵尸，发射一道光线攻击前方所有僵尸造成400点伤害；种植海葵后左上角出现裂缝，裂缝在经过一段时间后裂开出现眼球，点击眼球释放光线对全场僵尸造成伤害，植物本体吞食的僵尸越多，眼球造成的伤害越高。该秒杀无阶数限制。
