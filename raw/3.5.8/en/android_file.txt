@@ -797,25 +797,24 @@ Zurück zum Menü
 Zurück zum Shop
 
 [BLOOMERANG]
-回旋镖射手
+Blumerang
 
 [BLOOMERANG_DESCRIPTION]
-{KEYWORD}特点：{STAT}能一次击中三个目标，每个目标攻击两次
+{KEYWORD}Funktionen:{STAT}Kann drei Ziele gleichzeitig treffen und jedes Ziel zweimal angreifen
 
-{FLAVOR}回旋镖射手是防守团队的新成员。它最爱和朋友考拉熊一起，散散步，听听流行歌，无比惬意。
+{FLAVOR}Der Blumerang ist der erste Neuzugang zu deinem Verteidigungsteam. Er genießt ausgedehnte Spaziergänge mit seinem Freund, dem Koala. Dabei hören sie am liebsten Krautrock.
 
 [BLOOMERANG_DESCRIPTION_HEADER]
-回旋镖射手投出回旋镖，对最多三个目标造成两次伤害！
+Der Blumerang trifft mehrere Ziele in seiner Reihe – und zwar auf dem Hin- und dem Rückflug!
 
 [BLOOMERANG_PLANTFOOD]
-扔出多枚回旋镖，能击中上下左右所有僵尸。
+Schleudert viele Bumerangs und trifft damit alle Zombies links, rechts, oben und unten.
 
 [BLOOMERANG_TOOLTIP]
-投出回旋镖，对最多三个目标造成二次伤害。
+Trifft bis zu drei Ziele in seiner Reihe jeweils doppelt
 
 [BLOOMERANG_PRODUCT_SHORT_DESC]
-投出回旋镖，对最多三个目标造成二次伤害。
-
+Trifft bis zu drei Ziele in seiner Reihe jeweils doppelt
 
 [BLOVER]
 Wehblatt
@@ -889,38 +888,39 @@ Tor geöffnet
 {STR_COST}
 
 [CABBAGEPULT]
-Kohlapult
+Kohlapult 
 
 [CABBAGEPULT_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}卷心菜投手从丰收大学荣获投手博士学位，关于如何成为人生赢家，它总是滔滔不绝。他也常常吹嘘他做的汤，不过吃过的人都不愿意提及这个话题。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+
+{FLAVOR}Das Kohlapult hat an der altehrwürdigen Universität von Kohlogna promoviert und weiß einiges übers Durchstarten. Außerdem kocht es eine großartige Suppe!
 
 [CABBAGEPULT_DESCRIPTION_HEADER]
-投掷卷心菜，卷心菜能越过障碍物，击中后方的敌人。
+Kohlapulte schleudern Kohlköpfe auf den Feind. 
 
 [CABBAGEPULT_PLANTFOOD]
-向草坪上的每个僵尸投掷大号卷心菜。
+Trifft jeden Zombie auf dem Rasen mit einem großen Kohlkopf.
 
 [CABBAGEPULT_TOOLTIP]
-朝敌人投射可以越过障碍物的卷心菜。
+Schleudert Kohlköpfe über Hindernisse hinweg auf den Feind
 
 [CAMEL_MINIGAME_TUTORIAL_1]
-点击一个僵尸翻开他的骆驼牌！
+Klicke auf einen Zombie, um seine Kamelkarte umzudrehen!
 
 [CAMEL_MINIGAME_TUTORIAL_2]
-好的！现在点击另一个僵尸
+Okay! Klicke jetzt auf einen anderen Zombie.
 
 [CAMEL_MINIGAME_TUTORIAL_3]
-太棒了！继续配对，赢得比赛！
+Super! Bilde weiterhin Kombinationen und gewinne das Spiel!
 
 [CANNON_COMBO]
-{COMBO}x 连击！
+{COMBO}x Kombination!
 
 [CANNON_MINSCORE]
-目标: {MINSCORE}
+Ziel: {MINSCORE}
 
 [CANNON_SCORE]
-分数: {SCORE}
+Punktzahl: {SCORE}
 
 [RIFT_CANNON_SCORE]
 {SCORE}
@@ -1069,22 +1069,23 @@ Spezialdünger-Fähigkeitn haben keine Wirkung.
 Sprengt alle Zombies in der Nähe in die Luft.
 
 [CHILIBEAN]
-巴豆
+Chilibohne
 
 [CHILIBEAN_DESCRIPTION]
-{KEYWORD}用法：{STAT}啃食
-{KEYWORD}特点：{STAT}杀伤啃食的僵尸并释放晕眩的气体
-{KEYWORD}植物特征：{STAT}红色植物、呆毛、矮个子
-{FLAVOR}他不是天生脸红，那是憋红的。
+{KEYWORD}Nutzung: {STAT}wird gefressen
+{KEYWORD}Besonderheit: {STAT}der Zombie, der sie frisst, vergeht in einer atemberaubend stinkenden Gaswolke
+{KEYWORD} Pflanzenmerkmale: {STAT} rote Pflanze, abstehende Haare, kleiner Wuchs
+
+{FLAVOR}Sie ist nicht rot, weil sie sich schämt. Sie versucht krampfhaft, dichtzuhalten.
 
 [CHILIBEAN_DESCRIPTION_HEADER]
-巴豆送上的是肠胃瘫痪的“大礼”！
+Chilibohnen sorgen für frischen Wind im Verdauungstrakt.
 
 [CHILIBEAN_PLANTFOOD]
-向草坪上任意方位发射三颗巴豆。
+Verschießt 3 Chilibohnen-Klone an zufällige Stellen auf dem Rasen.
 
 [CHILIBEAN_TOOLTIP]
-释放毒气，僵尸食用后失去战斗力。
+Zombies, die sie essen, gehen zugrunde und setzen Gas frei
 
 [CHOMPER]
 大嘴花
@@ -2139,22 +2140,23 @@ Du hast ein Powerup erhalten！
 Du hast eine Verbesserung erhalten！
 
 [GRAVEBUSTER]
-噬碑藤
+Grabfresser 
 
 [GRAVEBUSTER_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性，只对墓碑有效
-{KEYWORD}特点：{STAT}吃掉墓碑
-{KEYWORD}植物特征：{STAT}绿色植物、伶牙俐齿
-{FLAVOR}尽管看上去外表凶恶，脾气暴躁，但噬碑藤其实只是想给你个温柔的拥抱。除非你是一只小狗，没错，他怕狗。
+{KEYWORD}Nutzung: {STAT}einmalig, muss auf Gräbern gepflanzt werden
+{KEYWORD}Besonderheit: {STAT}entfernt Gräber
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen, scharfe Zähne
+
+{FLAVOR}Er mag stachelig oder schlecht gelaunt erscheinen. Doch eigentlich will der Grabfresser dich nur umarmen. Es sei denn, du bist ein Welpe, vor denen hat er panische Angst.
 
 [GRAVEBUSTER_DESCRIPTION_HEADER]
-噬碑藤会吃掉墓碑。
+Grabfresser fressen die Gräber, auf denen sie gepflanzt werden.
 
 [GRAVEBUSTER_PLANTFOOD]
-能量豆无效果。
+Kein Spezialdünger-Effekt.
 
 [GRAVEBUSTER_TOOLTIP]
-把它种植在墓碑上，它就能咬掉墓碑。
+Pflanze ihn auf einem Grab, um es zu entfernen
 
 [HARDWARE_ACCELERATION_NOT_SUPPORTED]
 Hardwarebeschleunigung ist auf diesem Computer nicht verfügbar.
@@ -2165,42 +2167,43 @@ Ihre Grafikkarte erfüllt nicht die Mindestanforderungen für dieses Spiel.
 Rasen verstecken
 
 [ICEBURG]
-冰冻生菜
+Eisbergsalat
 
 [ICEBURG_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，接触生效
-{KEYWORD}特点：{STAT}爆炸，暂时冷冻一名僵尸
-{KEYWORD}植物特征：{STAT}蓝色植物、矮个子
-{FLAVOR}当它忽闪着大眼时，看它的人会被迷得神魂颠倒，灵魂出窍。不过，只对僵尸有效。
+{KEYWORD}Nutzung: {STAT}einmalig, bei Kontakt
+{KEYWORD}Besonderheit: {STAT}explodiert und lässt einen Zombie vorübergehend erstarren
+{KEYWORD}Pflanzeneigenschaften: {STAT}Blaue Pflanze, kleiner Wuchs
+
+{FLAVOR}Verliere dich besser nicht in Eisbergs verträumten Augen. Das könnte das letzte sein, was du tust ... aber nur, wenn du ein Zombie bist.
 
 [ICEBURG_DESCRIPTION_HEADER]
-踩上冰冻生菜的僵尸会被冻住。
+Eisbergsalat friert einen Zombie ein, der auf ihn tritt.
 
 [ICEBURG_PLANTFOOD]
-瞬间冰冻草坪上的所有僵尸。
+Friert alle Zombies auf dem Rasen blitzartig ein.
 
 [ICEBURG_TOOLTIP]
-冻住踩到它的僵尸，还能熄灭火炬。
+Friert Zombies ein, die auf ihn treten, und löscht Flammen
 
 [IMITATED_PLANT]
-模仿 {PLANT}
+Imitator {PLANT} 
 
 [IMITATER]
-变身茄子
+Imitator 
 
 [IMITATER_DESCRIPTION]
-{KEYWORD}特殊：{STAT}可以模仿其他植物
+{KEYWORD}Besonderheit: {STAT}kann jede andere Pflanze imitieren 
 
-{FLAVOR}变身茄子在法国进修过表演艺术，在街头表演中完善了他的最新节目“关在盒子里的茄子”。
+{FLAVOR}Der Imitator hat französisches Theater an der Julienne studiert und als Straßenkünstler seine "Kartoffel in der Kiste"-Technik perfektioniert.
 
 [IMITATER_DESCRIPTION_HEADER]
-变身茄子允许你同一个关卡携带两张相同的植物卡片！
+Durch Imitatoren kannst du in einem Level zwei Exemplare derselben Pflanze benutzen! 
 
 [IMITATER_PLANTFOOD]
-所复制植物的特效。
+Vollzieht den Spezialdünger-Effekt für die imitierte Pflanze.
 
 [IMITATER_TOOLTIP]
-允许携带两张相同的植物卡片。
+Gibt dir zwei Exemplare derselben Pflanze
 
 [INVALID_WINDOWS_MODE]
 Der Fenstermodus ist nur verfügbar, wenn Ihr Desktop im 16-Bit- oder 32-Bit-Farbmodus läuft.
@@ -2208,21 +2211,22 @@ Der Fenstermodus ist nur verfügbar, wenn Ihr Desktop im 16-Bit- oder 32-Bit-Far
 Um das Spiel im Fenstermodus auszuführen, müssen Sie es beenden und den Desktop in den 16-Bit- oder 32-Bit-Farbmodus umschalten.
 
 [JALAPENO]
-火爆辣椒
+Jalapeño 
 
 [JALAPENO_DESCRIPTION]
-{KEYWORD}用法：{STAT}一次性使用，立即生效
-{KEYWORD}植物特征：{STAT}红色植物、面恶心善、满腹怒火
-{FLAVOR}在白天他是火爆辣椒，夜晚他将变身成为超级英雄———缝纫侠。他的绝招是打蝴蝶结。
+{KEYWORD}Nutzung: {STAT}einmalig, sofort
+{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanze, hässlich aber freundlich, voller Wut
+
+{FLAVOR}Diese Jalapeño hat tagsüber richtig Pfeffer und wird nachts zur Makramee-Bürgerwehr. Ihre Geheimwaffe: ihre Knoten.
 
 [JALAPENO_DESCRIPTION_HEADER]
-火爆辣椒可以摧毁一整条线上的僵尸。
+Jalapeños zerstören eine ganze Reihe von Zombies. 
 
 [JALAPENO_PLANTFOOD]
-能量豆无效果。
+Kein Spezialdünger-Effekt.
 
 [JALAPENO_TOOLTIP]
-烧光一整行的僵尸。
+Zerstört eine ganze Reihe von Zombies
 
 [JUMP_TO_COLLECTIONS_VIEW]
 Zum Schatz-Interface springen
@@ -2316,10 +2320,10 @@ Zurücksetzen
 Blitzschilf
 
 [LIGHTNINGREED_DESCRIPTION]
-{FLAVOR}Das mag dich schockieren, aber das Blitzschilf ist ein leidenschaftlicher Amateurfunker. Sein Sendezeichen lautet "El3ktro-Sch1uckauf". Schalte jeden Dienstag ein, wenn es aus Klassikern der Weltliteratur liest. Diese Woche: Die Blumen des Bösen.
 {KEYWORD}Spezial: {STAT}Kettenangriff auf mehrere Ziele
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen, 100.000 Volt
 
+{FLAVOR}Das mag dich schockieren, aber das Blitzschilf ist ein leidenschaftlicher Amateurfunker. Sein Sendezeichen lautet "El3ktro-Sch1uckauf". Schalte jeden Dienstag ein, wenn es aus Klassikern der Weltliteratur liest. Diese Woche: Die Blumen des Bösen.
 [LIGHTNINGREED_DESCRIPTION_HEADER]
 Blitzschilf verschießt Blitze auf den nächsten Zombie, bis zu eine Reihe entfernt. Der Blitz schlägt dann auf andere Zombies über.
 
@@ -4376,22 +4380,23 @@ Umbennen
 Nutzer Umbenennen
 
 [REPEATER]
-Duplinator
+Duplinator 
 
 [REPEATER_DESCRIPTION]
-{KEYWORD}伤害：{STAT}中等（每颗）
-{KEYWORD}发射速度：{STAT}两倍
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR}如果你对双重射手好，他会加倍报答。如果你惹了他，那你可能会得到加倍的反击。当然他的人际关系相当好，大家最愿意做的就是借钱给他。
+{KEYWORD}Schaden: {STAT}normal (je Erbse)
+{KEYWORD}Feuerrate: {STAT}2x
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grünpflanzen
+
+{FLAVOR}"Alle fragen immer, ob wir uns nicht irgendwo her kennen", sagt der Duplinator. "Alle fragen immer, ob wir uns nicht irgendwo her kennen. Moment, habe ich das nicht gerade schon gesagt?"
 
 [REPEATER_DESCRIPTION_HEADER]
-双重射手能一次发射两颗豌豆。
+Duplinatoren verschießen zwei Erbsen auf einmal.
 
 [REPEATER_PLANTFOOD]
-连续发射一串豌豆，压轴的巨型豌豆对目标造成巨大伤害。
+Feuert eine Salve Erbsen und dann eine riesige Erbse, die bei einem Ziel massiven Schaden verursacht.
 
 [REPEATER_TOOLTIP]
-连续发射两发豌豆攻击敌人。
+Schießt zwei Erbsen auf den Feind ab
 
 [REPICK_BUTTON]
 Erneut auswählen
@@ -6083,21 +6088,22 @@ Kaufen
 %0.2f
 
 [SUNFLOWER]
-向日葵
+Sonnenblume 
 
 [SUNFLOWER_DESCRIPTION]
-{KEYWORD}阳光产量：{STAT}中等
-{KEYWORD}植物特征：{STAT}黄色植物、无尽阳光
-{FLAVOR}出道以来，她的第一首主打歌“Zombies On Your Lawn”在社交网络上大红大紫。因此趁热打铁，正在加紧录制“向日葵炫舞秀”的视频，请大家拭目以待！
+{KEYWORD}Sonnenproduktion: {STAT}normal
+{KEYWORD}Pflanzeneigenschaften: {STAT}Gelbe Pflanzen, endloser Sonnenschein
+
+{FLAVOR}Seit ihrem ersten Überraschungshit "Zombies auf deinem Rasen" hat die Sonnenblume viele weitere tolle Videos auf ihrem YouTube-Kanal gepostet. Derzeit verpasst sie ihrer Bewerbung für das "Let's Dance - Sonnenblumenspecial" den letzten Schliff.
 
 [SUNFLOWER_DESCRIPTION_HEADER]
-向日葵，为你生产更多阳光的基础植物。尽可能多地种植吧！
+Sonnenblumen sind wichtig, denn sie produzieren Sonnen. Pflanze so viele wie möglich! 
 
 [SUNFLOWER_PLANTFOOD]
-持续产出大量阳光。
+Produziert sofort mehrere Sonnen.
 
 [SUNFLOWER_TOOLTIP]
-为你提供更多阳光。
+Gibt dir Extra-Sonne
 
 [SUNFLOWER_PLANTFOOD_DESCRIPTION]
 
@@ -6107,24 +6113,25 @@ Kaufen
 Überlebe den Zombie Angriff!
 
 [TALLNUT]
-高坚果
+Hochwall-Nuss 
 
 [TALLNUT_DESCRIPTION]
-{KEYWORD}特点：{STAT}阻挡被扔出的小鬼僵尸
-{KEYWORD}植物特征：{STAT}褐色植物、高个子
-{FLAVOR}高坚果专为高个人士开了服装连锁店。“良心生意，多余的料子会送还给您。”
+{KEYWORD}Besonderheit: {STAT}wehrt abgeschossene Wichte ab
+{KEYWORD}Pflanzenmerkmale: {STAT}Braune Pflanzen, hoch
+
+{FLAVOR}Die Hochwall-Nuss führt einen Herrenausstatter für besonders große Männer. Motto: Spartanische Sportmoden für den sparsamen Spargeltarzan.
 
 [TALLNUT_DESCRIPTION_HEADER]
-高坚果是有名的重型防御植物，他可以有效地阻挡僵尸的前进。 
+Hochwall-Nüsse sind massive Pflanzen, die niedrig fliegende Zombies abwehren.
 
 [TALLNUT_PLANTFOOD]
-变出金属盔甲，大大提高了坚果的防御。
+Erhält eine Metallrüstung und so eine deutlich höhere Ausdauer.
 
 [TALLNUT_TOOLTIP]
-巨型坚果墙阻挡僵尸的前进。
+Massive Mauer, die niedrig fliegende Zombies abwehrt
 
 [TAP_TO_REVEAL_PRIZES]
-点击宝盒获得奖励。
+Tippe auf die Schatzkiste, um Belohnungen zu erhalten.
 
 [THREEPEATER]
 Triplinator 
@@ -14335,51 +14342,48 @@ Unend-Nuss
 每隔一段时间可以重生。
 
 [LASER_BEAN]
-激光豆
+Laserbohne
 
 [LASER_BEAN_DESCRIPTION]
-{KEYWORD}范围：{STAT}整条线上的僵尸
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}经过了激光眼科手术后，他获得了不可思议的能力。现在激光豆拥有了强大的能量，以及不眨眼游戏中的压倒性实力。
+{KEYWORD}Reichweite: {STAT}alle Zombies in einer Reihe
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+
+{FLAVOR}Nachdem beim Lasern ihrer Augen alles auf furchtbare Weise gut gegangen war, verspürte die Laserbohne eine gewisse Zielstrebigkeit sowie eine ganz neue Begeisterung für Blickduelle.
 
 [LASER_BEAN_DESCRIPTION_HEADER]
-激光豆向整条路线开火，击溃他前面的所有僵尸。
-
-[LASER_BEAN_PLANTFOOD]
-能量豆无效果。
+Laserbohnen feuern eine Reihe entlang und treffen alle Zombies, die sich vor ihnen befinden.
 
 [LASER_BEAN_TOOLTIP]
-朝僵尸群发射激光。
+Feuert einen Laserstrahl ab, der Zombies durchdringt
 
 [MAGNIFYINGGRASS]
-棱镜草
+Vergrößerungsgras
 
 [MAGNIFYINGGRASS_DESCRIPTION]
-{KEYWORD}特点：{STAT}点击消耗一个阳光进行一次攻击
-{KEYWORD}植物特征：{STAT}白色植物
-{FLAVOR}棱镜草知道如何运用隐藏在彩虹中的无穷能量。在他冷峻的面孔下，驱动五彩缤纷的辐射对抗僵尸大军使他获得巨大的享受与满足。
+{KEYWORD}Besonderheit: {STAT}antippen, um Sonne für einen Angriff zu nutzen
+{KEYWORD} Pflanzeneigenschaften: {STAT} Weiße Pflanzen
+
+{FLAVOR}Das Vergrößerungsgras hat die Mächte des Regenbogens entschlüsselt. Unter seiner stoischen Oberfläche schlummert eine kindische Freude daran, Zombies mit farbenfroher Zerstörung zu überschütten.
 
 [MAGNIFYINGGRASS_DESCRIPTION_HEADER]
-棱镜草可以将阳光聚焦成一团色彩斑斓的辐射攻击波。
-
-[MAGNIFYINGGRASS_PLANTFOOD]
-能量豆无效果。
+Vergrößerungsgras verwandelt Sonne in einen farbigen Blitz der Zerstörung.
 
 [MAGNIFYINGGRASS_TOOLTIP]
-点击后使用阳光发射辐射攻击波。
+Antippen, um Sonne für einen mächtigen Angriff zu nutzen
 
 [CITRON]
-充能柚子
+Zedrate
 
 [CITRON_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}橙色植物、十万伏特
-{FLAVOR}“厚积而薄发”是充能柚子座右铭，少年老成的性格让人觉得他渊博，稳重。有人问他成功的秘诀时，他指了指他家那台大屏等离子电视机。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Orange Pflanze, 100.000 Volt
+
+{FLAVOR}Die Zedrate ist alleiniger Patentinhaber und einziger Verwender des "Vitamin-C-20-Stunden-Superenergieschubs" und damit allzeit bereit. "Worauf warten wir noch?!"
 
 [CITRON_DESCRIPTION_HEADER]
-充能柚子可以发射等离子炮。
+Zedraten schießen mit mächtigen Plasmakugeln.
 
 [CITRON_TOOLTIP]
-发射等离子炮。
+Schießt mit mächtigen Plasmakugeln
 
 [POWERPLANT]
 Feldrübe
@@ -14544,135 +14548,133 @@ Zieht Zombies aus anderen Reihen an, wenn diese in ihre Nähe kommen
 {SAY:crazydave}前进，魅惑菇们！
 
 [STARFRUIT]
-星星果
+Sternfrucht 
 
 [STARFRUIT_DESCRIPTION]
-{KEYWORD}范围：{STAT}向五个方向开火
-{KEYWORD}植物特征：{STAT}黄色植物、矮个子
-{FLAVOR}他是个来自小城镇的水果，来到大城市找到了未来之路。他最喜欢的交通方式是：传送带，螺旋桨直升机，和火箭。哇欧～～
+{KEYWORD}Reichweite: {STAT}Feuer in fünf Richtungen
+{KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze, kurz
+
+{FLAVOR}Nur eine Kleinstadtfrucht, die in die große Stadt gegangen ist und ihren Weg in die Zukunft gefunden hat. Lieblingstransportmittel: Beförderungsbänder, Hoverboards und Raketen. HUIIIIIII!
 
 [STARFRUIT_DESCRIPTION_HEADER]
-星星果可以向五个方向发射小星星。
-
-[STARFRUIT_PLANTFOOD]
-能量豆无效果。
+Sternfrüchte verschießen Sterne in fünf Richtungen.
 
 [STARFRUIT_TOOLTIP]
-向五个方向发射小星星。
+Verschießt Sterne in fünf Richtungen
 
 [WORLD_PREVIEW_DISCLAIMER]
-内容包一旦购买可以多用户享用！
+Nach dem Kauf kann das Inhaltspaket von mehreren Benutzern verwendet werden!
 
 [ZEN_GARDEN]
-休闲花园
+Entspannender Garten
 
 [ZEN_GARDEN_BEE_TUTORIAL_USE_BEE]
-点选一个植物，蜜蜂会加速它的成长！
+Klicke auf eine Pflanze und die Biene beschleunigt ihr Wachstum!
 
 [ZEN_GARDEN_BOOST_CONFIRMATION_DIALOG_BODY]
-持续{BOOST_DURATION}
+Hält {BOOST_DURATION} an
 
 [ZEN_GARDEN_BOOST_CONFIRMATION_DIALOG_TITLE]
-确定要强化{PLANT_NAME}吗？
+Möchtest du {PLANT_NAME} wirklich verstärken?
 
 [ZEN_GARDEN_BOOST_CONFIRMATION_DISABLE_BUTTON]
-稍后
+Später
 
 [ZEN_GARDEN_BOOST_CONFIRMATION_ENABLE_BUTTON]
-现在就要
+Jetzt
 
 [ZEN_GARDEN_BUY_SLOT_DIALOG_BODY]
-将种子拖放到一个花盆里种植下去，可以收获很赞的战利品和强化道具！
+Ziehe Samen per Drag & Drop in einen Blumentopf, um tolle Beute und Power-Ups zu pflanzen und zu ernten!
 
 [ZEN_GARDEN_BUY_SLOT_DIALOG_TITLE]
-想要购买空置的花盆卡槽？
+Möchtest du einen leeren Blumentopfplatz kaufen?
 
 [ZEN_GARDEN_DESTROY_BOOST_DIALOG_BODY]
-你确定要铲掉这棵植物吗？这会失去它将产出的强化道具。
+Möchtest du diese Pflanze wirklich ausgraben? Du verlierst die Power-Ups, die sie produziert.
 
 [ZEN_GARDEN_DESTROY_BOOST_DIALOG_TITLE]
-你确定吗？
+Bist du sicher?
 
 [ZEN_GARDEN_GEM_REWARD_TEXT]
-{NUMBER} 宝石
+{NUMBER} Edelsteine
 
 [ZEN_GARDEN_INSTA_GROW_BUTTON]
-完成
+Fertig
 
 [ZEN_GARDEN_INTRO_TUTORIAL_COLLECT_BOOST]
-这是一个强化道具！
+Das ist ein Booster!
 
 [ZEN_GARDEN_INTRO_TUTORIAL_COLLECT_COINS]
-在你种植收获强化道具时，还有一些金币！
+Beim Pflanzen und Ernten von Boostern erhältst du Münzen!
 
 [ZEN_GARDEN_INTRO_TUTORIAL_PLACE_SPROUT_ADVICE]
-再播种一颗种子。
+Pflanze noch einen Samen.
 
 [ZEN_GARDEN_INTRO_TUTORIAL_RETURN_REMINDER]
-经常回到禅意花园强化你的植物！
+Kehre oft in den Zen-Garten zurück, um deine Pflanzen zu stärken!
 
 [ZEN_GARDEN_INTRO_TUTORIAL_USE_BOOST]
-向日葵现在被强化成功！这个强化植物可以持续一关。
+Die Sonnenblume ist jetzt gestärkt! Diese gestärkte Pflanze hält eine Stufe lang.
 
 [ZEN_GARDEN_INTRO_TUTORIAL_WATER_PLANT_FOR_BOOST]
-可以再次浇水。培育她长大获取强化道具！
+Du kannst sie wieder gießen. Lass sie wachsen, um Booster zu erhalten!
 
 [ZEN_GARDEN_INTRO_TUTORIAL_WATER_PLANT_FOR_COINS]
-这是向日葵！她现在需要浇水。
+Das ist die Sonnenblume! Sie braucht jetzt Wasser.
 
 [ZEN_GARDEN_MARIGOLD_TUTORIAL_COLLECT_COINS]
-金盏花长大了！她为你产出了硬币！
+Die Ringelblume ist gewachsen! Sie produziert Münzen für dich!
 
 [ZEN_GARDEN_MARIGOLD_TUTORIAL_COLLECT_COINS_2]
-这是最后一堆金币，同时她也消失了。
+Dies ist der letzte Münzhaufen, und sie verschwindet.
 
 [ZEN_GARDEN_MARIGOLD_TUTORIAL_PLACE_SPROUT_ADVICE]
-播种种子。
+Samen säen.
 
 [ZEN_GARDEN_MARIGOLD_TUTORIAL_PLACE_SPROUT_ADVICE_2]
-你现在可以再播种一颗种子！
+Du kannst jetzt einen weiteren Samen säen!
 
 [ZEN_GARDEN_MARIGOLD_TUTORIAL_RETURN_REMINDER]
-经常回到禅意花园收获你的硬币！
+Kehre oft in den Zen-Garten zurück, um deine Münzen einzusammeln!
 
 [ZEN_GARDEN_MARIGOLD_TUTORIAL_WATER_PLANT_FOR_COINS]
-这是金盏花！她需要浇水。
+Das ist die Ringelblume! Sie muss gegossen werden.
 
 [ZEN_GARDEN_MARIGOLD_TUTORIAL_WATER_PLANT_FOR_COINS_2]
-可以对金盏花再次浇水了。
+Es ist Zeit, die Ringelblume wieder zu gießen.
 
 [ZEN_GARDEN_NO_EMPTY_POTS]
-没有空置的花盆！
+Keine leeren Töpfe!
 
 [ZEN_GARDEN_TIMESPAN_H]
-{HOURS}小时
+{HOURS} Stunden
 
 [ZEN_GARDEN_TIMESPAN_HM]
-{HOURS}小时 {MINUTES}分钟
+{HOURS} Stunden {MINUTES} Minuten
 
 [ZEN_GARDEN_TIMESPAN_HMS]
-{HOURS}小时 {MINUTES}分钟 {SECONDS}秒
+{HOURS} Stunden {MINUTES} Minuten {SECONDS} Sekunden
 
 [ZEN_GARDEN_TIMESPAN_M]
-{MINUTES}分钟
+{MINUTES} Minuten
 
 [ZEN_GARDEN_TIMESPAN_MS]
-{MINUTES}分钟 {SECONDS}秒
+{MINUTES} Minuten {SECONDS} Sekunden
 
 [ZEN_GARDEN_TIMESPAN_S]
-{SECONDS}秒
+{SECONDS} Sekunden
 
 [ZEN_GARDEN_TIMESPAN_D]
-{DAY}天
+{DAY} Tage
 
 [ZENGARDEN_USE_BOOST_BODY]
-当放置在草地上时会立刻获得能量豆一样的效果。
+Wenn es auf Gras platziert wird, erhält es sofort die gleiche Wirkung wie Energiebohnen.
 
 [ZENGARDEN_USE_BOOST_BUTTON]
-强化道具
+Booster
 
 [ZENGARDEN_USE_BOOST_HEADER]
-要使用强化道具吗？
+Möchtest du einen Booster verwenden?
 
 [ZOMBIE_FOOTBALL_MECH]
 Mecha-Football-Zombie
@@ -15534,45 +15536,48 @@ Sonnenbohne
 阳光豆装扮
 
 [MAGNETSHROOM]
-Magnetpilz
+Magnetpilz 
 
 [MAGNETSHROOM_DESCRIPTION]
-{KEYWORD}特点：{STAT}移除僵尸们所有的金属物品
-{KEYWORD}植物特征：{STAT}红色植物、蘑菇家族
-{FLAVOR}虽然磁力菇外形奇特，但是对找女朋友完全没有影响。可真谈了恋爱却都维持不长，每个姑娘都因为同一个理由和他分手:太粘人。
+{KEYWORD}Besonderheit:{STAT} Entfernt metallische Objekte von Zombies
+{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanzen, Pilzfamilie
+
+{FLAVOR}Trotz seines ungewöhnlichen Äußeren hat der Magnetpilz kein Problem, Mädels kennenzulernen. Nur leider hält es nie besonders lange. Am Ende finden sie immer, dass er zu viel klammert.
 
 [MAGNETSHROOM_DESCRIPTION_HEADER]
-吸走铁桶、铁盔或其它金属物品。
+Magnetpilze entfernen Helme und andere metallische Objekte von Zombies. 
 
 [MAGNETSHROOM_TOOLTIP]
-吸走铁桶、头盔或其它金属物品。
+Entfernt Helme und andere metallische Objekte von Zombies
 
 [HYPNOSHROOM]
 Hypnopilz
 
 [HYPNOSHROOM_DESCRIPTION]
-{KEYWORD}特点：{STAT}让一只僵尸为你作战
-{KEYWORD}植物特征：{STAT}蘑菇家族
-{FLAVOR}魅惑菇认为说服僵尸为植物而战毫无挑战。但是他还没说服过任何一只僵尸鸡。“会有那么一天的，”他说，“一定会有那一天的。”
+{KEYWORD}Merkmale: {STAT} Lass einen Zombie für dich kämpfen.
+{KEYWORD}Pflanzenmerkmale: {STAT} Pilzfamilie
+
+{FLAVOR}Für den Hypnopilz ist es ein Leichtes, Zombies auf die Seite der Pflanzen zu ziehen. Leider gelingt es ihm aber nicht, sie dazu zu bringen, wie Hühner zu gackern. „Eines Tages schaffe ich das auch noch“, ist er sich sicher.
 
 [HYPNOSHROOM_DESCRIPTION_HEADER]
-当僵尸吃下魅惑菇后，他将会掉转方向为你作战。
+Wenn Zombies Hypnopilze fressen, drehen sie sich um und kämpfen für dich.
 
 [HYPNOSHROOM_TOOLTIP]
-让一只僵尸为你作战。
+Lässt einen Zombie für dich kämpfen
 
 [PEANUT]
 Erbs-Nuss
 
 [PEANUT_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}褐色植物、攻守兼备
-{FLAVOR}花生射手知道有些人对他挺"过敏"。他试着了解他们的顾虑,并且给予对方足够的空间。即便如此,他仍然会情不自禁地怀念以前的时光-回到那个人人爱花生的时代。
+{KEYWORD}Pflanzeneigenschaften: {STAT}Braune Pflanzen, sowohl angreifend als auch defensiv
+
+{FLAVOR}Die Erbs-Nuss weiß, dass manche Menschen ziemlich „allergisch“ auf ihn reagieren. Er versucht, ihre Bedenken zu verstehen und ihnen genügend Raum zu geben. Trotzdem kann er nicht anders, als die alten Zeiten zu vermissen – die Zeit, als alle Erbs-Nüsse liebten.
 
 [PEANUT_DESCRIPTION_HEADER]
-花生射手可以阻挡僵尸的前进并可以喷射花生米。
+Die Erbs-Nuss kann Zombies blockieren und Erdnüsse verschießen.
 
 [PEANUT_TOOLTIP]
-喷射花生米攻击并阻止僵尸前进。
+Schießt Erdnüsse, um Zombies anzugreifen und zu blockieren.
 
 [STREETLAMP]
 Pflanterne
@@ -16147,220 +16152,225 @@ Granatapfelfragmente
 Maschinengewehr-Granatapfelfragmente erhalten
 
 [BONUS_CARD_PIECE_SUNFLOWER]
-向日葵碎片
+Sonnenblumenfragment
 
 [BONUS_CARD_PIECE_SUNFLOWER_DESCRIPTION]
-获得向日葵碎片
+Sonnenblumenfragment erhalten
 
 [BONUS_CARD_PIECE_PEASHOOTER]
-豌豆碎片
+Erbsenfragment
 
 [BONUS_CARD_PIECE_PEASHOOTER_DESCRIPTION]
-获得豌豆射手碎片
+Erbsenkanonenfragment erhalten
 
 [BONUS_CARD_PIECE_WALLNUT]
-坚果碎片
+Nussfragment
 
 [BONUS_CARD_PIECE_WALLNUT_DESCRIPTION]
-获得坚果碎片
+Nussfragment erhalten
 
 [BONUS_CARD_PIECE_POTATOMINE]
-地雷碎片
+Minenfragment
 
 [BONUS_CARD_PIECE_POTATOMINE_DESCRIPTION]
-获得土豆地雷碎片
+Kartoffelminenfragment erhalten
 
 [BONUS_CARD_PIECE_ICEBURG]
-生菜碎片
+Salatfragment
 
-[BONUS_CARD_PIECE_ICEBURG_DESCRIPTION]
-获得冰冻生菜碎片
+[BONUS_CARD _PIECE_ICEBURG_DESCRIPTION]
+Gefrorene Salatfragmente erhalten
 
 [BONUS_CARD_PIECE_TWINSUNFLOWER]
-双胞碎片
+Zwillingsfragmente
 
 [BONUS_CARD_PIECE_TWINSUNFLOWER_DESCRIPTION]
-获得双胞向日葵碎片
+Zwillingssonnenblumenfragmente erhalten
 
 [BONUS_CARD_PIECE_BLOOMERANG]
-回旋镖碎片
+Bumerangfragmente
 
-[BONUS_CARD_PIECE_BLOOMERANG_DESCRIPTION]
-获得回旋镖射手碎片
+[BONUS_CARD_PIECE_BLOOM ERANG_DESCRIPTION]
+Bumerang-Shooter-Fragment erhalten
 
 [BONUS_CARD_PIECE_BONKCHOY]
-菜问碎片
+Caiwen-Fragment
 
 [BONUS_CARD_PIECE_BONKCHOY_DESCRIPTION]
-获得菜问碎片
+Caiwen-Fragment erhalten
 
 [BONUS_CARD_PIECE_REPEATER]
-双重碎片
+Doppelfragment
 
 [BONUS_CARD_PIECE_REPEATER_DESCRIPTION]
-获得双重射手碎片
+Doppel-Shooter-Fragment erhalten Stück
 
 [BONUS_CARD_PIECE_CABBAGEPULT]
-卷心菜碎片
+Kohlstück
 
 [BONUS_CARD_PIECE_CABBAGEPULT_DESCRIPTION]
-获得卷心菜投手碎片
+Kohlkrugstück holen
 
 [BONUS_CARD_PIECE_TORCHWOOD]
-树桩碎片
+Baumstumpfstück
 
 [BONUS_CARD_PIECE_TORCHWOOD_DESCRIPTION]
-获得火炬树桩碎片
+Fackelholzstumpfstück holen
 
-[BONUS_CARD_PIECE_SNOWPEA]
-寒冰碎片
+[BONUS_CARD_ PIECE_SNOWPEA]
+Eisfragmente
 
 [BONUS_CARD_PIECE_SNOWPEA_DESCRIPTION]
-获得寒冰射手碎片
+Eiswerferfragmente holen
 
 [BONUS_CARD_PIECE_CHERRY_BOMB]
-樱桃碎片
+Kirschfragmente
 
 [BONUS_CARD_PIECE_CHERRY_BOMB_DESCRIPTION]
-获得樱桃炸弹碎片
+Kirschbombenfragmente holen
 
 [BONUS_CARD_PIECE_GRAVEBUSTER]
-噬碑藤碎片
+Grabebuschranke Fragment
 
 [BONUS_CARD_PIECE_GRAVEBUSTER_DESCRIPTION]
-获得噬碑藤碎片
+Grabbuster-Fragment erhalten
 
 [BONUS_CARD_PIECE_SPRINGBEAN]
-弹簧豆碎片
+Frühlingsbohnen-Fragment
 
 [BONUS_CARD_PIECE_SPRINGBEAN_DESCRIPTION]
-获得弹簧豆碎片
+Frühlingsbohnen-Fragment erhalten
 
 [BONUS_CARD_PIECE_SPIKEWEED]
-地刺碎片
+Spikeweed-Fragment
 
-[BONUS_CARD_PIECE_SPIKEWEED_DESCRIPTION]
-获得地刺碎片
+[BONUS_CARD_PIECE_SPIKEWEED] IECE_SPIKEWEED_DESCRIPTION]
+Spikeweed-Fragment erhalten
 
 [BONUS_CARD_PIECE_SNAPDRAGON]
-保龄泡泡碎片
+Bowling-Blasen-Fragment
 
 [BONUS_CARD_PIECE_SNAPDRAGON_DESCRIPTION]
-获得保龄泡泡碎片
+Bowling-Blasen-Fragment erhalten
 
 [BONUS_CARD_PIECE_POWERLILY]
-能量花碎片
+Powerblume Fragment
 
 [BONUS_CARD_PIECE_POWERLILY_DESCRIPTION]
-获得能量花碎片
+CRIPTION erhalten]
+Energieblumen-Fragment erhalten
 
 [BONUS_CARD_PIECE_TALLNUT]
-高坚果碎片
+Hohes Nuss-Fragment
 
 [BONUS_CARD_PIECE_TALLNUT_DESCRIPTION]
-获得高坚果碎片
+Hohes Nuss-Fragment erhalten
 
 [BONUS_CARD_PIECE_SPIKEROCK]
-钢地刺碎片
+Stahlstachel-Fragment
 
 [BONUS_CARD_PIECE_SPIKEROCK_DESCRIPTION]
-获得钢地刺碎片
+Stahlstachel-Fragment erhalten
 
 [BONUS_CARD_PIECE_COCONUTCANNON]
-椰子碎片
+Kokosnuss-Fragment
 
 [BONUS_CARD_PIECE_COCONUTCANNON_DESCRIPTION]
-获得椰子加农炮碎片
+Kokosnuss-Kanonen-Fragment erhalten
 
 [BONUS_CARD_PIECE_KERNELPULT]
-玉米碎片
+Mais Fragment
 
 [BONUS_CARD_PIECE_KERNELPULT_DESCRIPTION]
-获得玉米投手碎片
+Maiskrug-Fragment erhalten
 
-[BONUS_CARD_PIECE_LIGHTNINGREED]
-芦苇碎片
+[BONUS_CARD_PIECE E_LIGHTNINGREED]
+Schilf-Fragment
 
 [BONUS_CARD_PIECE_LIGHTNINGREED_DESCRIPTION]
-获得闪电芦苇碎片
+Blitzschilf-Fragment erhalten
 
 [BONUS_CARD_PIECE_SQUASH]
-窝瓜碎片
+Kürbis-Fragment
 
 [BONUS_CARD_PIECE_SQUASH_DESCRIPTION]
-获得窝瓜碎片
+Kürbis-Fragment erhalten
 
 [BONUS_CARD_PIECE_CHILIBEAN]
-巴豆碎片
+Kroton-Fragment
 
 [BONUS_CARD_PIECE_CHILIBEAN_DESCRIPTION]
-获得巴豆碎片
+ONUS_CARD_PIECE_CHILIBEAN_DESCRIPTION]
+Kroton-Fragment erhalten
 
 [BONUS_CARD_PIECE_JALAPENO]
-辣椒碎片
+Chili Fragment
 
 [BONUS_CARD_PIECE_JALAPENO_DESCRIPTION]
-获得火爆辣椒碎片
+Scharfes Chili-Fragment erhalten
 
 [BONUS_CARD_PIECE_SPLITPEA]
-双向碎片
+Zwei-Wege-Fragment
 
 [BONUS_CARD_PIECE_SPLITPEA_DESCRIPTION]
-获得双向射手碎片
+Zwei-Wege-Shooter-Fragment erhalten
 
 [BONUS_CARD_PIECE_THREEPEATER]
-三重碎片
+Dreifach-Fragment
 
 [BONUS_CARD_PIECE_THREEPEATER_DESCRIPTION]
-获得三重射手碎片
+Dreifach-Shooter-Fragment erhalten
 
 [BONUS_CARD_PIECE_WINTERMELON]
-冰西瓜碎片
+Eis-Wassermelonen-Fragment
 
 [BONUS_CARD_PIECE_WINTERMELON_DESCRIPTION]
-获得冰西瓜碎片
+Eis-Wassermelonen-Fragment erhalten
 
 [BONUS_CARD_PIECE_MELONPULT]
-西瓜投手碎片
+Wassermelonen-Krug Fragmente
 
 [BONUS_CARD_PIECE_MELONPULT_DESCRIPTION]
-获得西瓜投手碎片
+Wassermelonenkrugfragmente erhalten
 
 [BONUS_CARD_PIECE_PEAPOD]
-豌豆荚碎片
+Erbsenschotenfragmente
 
 [BONUS_CARD_PIECE_PEAPOD_DESCRIPTION]
-获得豌豆荚碎片
+Erbsenschotenfragmente erhalten
 
-[BONUS_CARD_PIECE_IMITATER]
-茄子碎片
+[BONUS_CARD_PIECE_PEAPOD_DESCRIPTION]
+Erbsenschotenfragmente erhalten
+
+[BONUS_CARD_PIECE E_IMITATER]
+Auberginenfragment
 
 [BONUS_CARD_PIECE_IMITATER_DESCRIPTION]
-获得变身茄子碎片
+Das transformierte Auberginenfragment erhalten
 
 [BONUS_CARD_PIECE_BAMBOO]
-竹笋碎片
+Bambussprossenfragment
 
 [BONUS_CARD_PIECE_BAMBOO_DESCRIPTION]
-获得竹笋碎片
+Das Bambussprossenfragment erhalten
 
 [BONUS_CARD_PIECE_TURNIP]
-白萝卜碎片
+Weißer Rettich Fragment
 
-[BONUS_CARD_PIECE_TURNIP_DESCRIPTION]
-获得白萝卜碎片
+[BONUS_CARD_PI ECE_TURNIP_DESCRIPTION]
+Rettichfragmente erhalten
 
 [BONUS_CARD_PIECE_FIREGOURD]
-火葫芦碎片
+Feuerkürbisfragmente
 
 [BONUS_CARD_PIECE_FIREGOURD_DESCRIPTION]
-获得火葫芦碎片
+Feuerkürbisfragmente erhalten
 
 [BONUS_CARD_PIECE_PEACH]
-仙桃碎片
+Pfirsichfragmente
 
 [BONUS_CARD_PIECE_PEACH_DESCRIPTION]
-获得仙桃碎片
+Pfirsichfragmente erhalten
 
 [BONUS_CARD_PIECE_BLOVER]
 Kleefragment
@@ -16547,22 +16557,22 @@ Fragmente von verschlungenem Wassergras
 Holt euch verschlungene Wassergrasfragmente
 
 [BONUS_CARD_PIECE_HOMINGTHISTLE]
-导向蓟碎片
+Fragment der Lenkdistel
 
 [BONUS_CARD_PIECE_HOMINGTHISTLE_DESCRIPTION]
-获得导向蓟碎片
+Fragment der Lenkdistel erhalten
 
 [BONUS_CARD_PIECE_LOTUSSHOWER]
-莲小蓬碎片
+Fragment des Lotospuffs
 
 [BONUS_CARD_PIECE_LOTUSSHOWER_DESCRIPTION]
-获得莲小蓬碎片
+Fragment des Lotospuffs erhalten
 
 [BONUS_CARD_PIECE_LEMON]
-强酸柠檬碎片
+Fragment der Zitrone
 
 [BONUS_CARD_PIECE_LEMON_DESCRIPTION]
-获得强酸柠檬碎片
+Fragment der Zitrone erhalten
 
 [BONUS_ACCESSORY_PIECE_EPIC_FERTILIZER]
 Düngerfragmente
@@ -16697,20 +16707,25 @@ Riesen Wellen Strand
 Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 
 [BANANA]
-香蕉火箭炮
+Bananenwerfer
 
 [BANANA_DESCRIPTION]
-{KEYWORD}用法：{STAT} 点住香蕉，拖动到轰炸目标上
-{KEYWORD}范围：{STAT}草坪全范围
-{KEYWORD}特点：{STAT}影响范围造成小面积爆炸
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR}尽量不抱成见看人是很重要的。成见往往办错事。而且也会伤害到别人。不过坦白地讲…香蕉火箭炮完全单纯就是香蕉而已。
+{KEYWORD}Nutzung: {STAT}Zum Scharfmachen antippen, dann zum Feuern auf Zielfeld tippen
+
+{KEYWORD}Reichweite: {STAT}Beliebiges Rasen-Feld
+
+{KEYWORD}Besonderheit: {STAT}Explodiert beim Aufprall und verursacht Umgebungsschaden in einem kleinen Bereich
+
+{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanzen
+
+
+{FLAVOR}Es ist wichtig, dass wir Vorurteile vermeiden. Oft sind sie einfach falsch. Und verletzend. Aber ganz ehrlich ... der Bananenwerfer ist wirklich VOLL Banane!
 
 [BANANA_DESCRIPTION_HEADER]
-香蕉火箭炮可以发射香蕉炮弹到草坪任意格子上。
+Bananenwerfer können explosive Bananen auf ein beliebiges Rasen-Feld schießen.
 
 [BANANA_TOOLTIP]
-点击香蕉，然后点一个格子，就会发射香蕉炮弹
+Erst Banane, dann Spielfeld antippen und explosive Banane losschicken
 
 [SHADOWSHROOM]
 毒影菇
@@ -16840,66 +16855,38 @@ Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 {KEYWORD}植物特征：{STAT}绿色植物，蓝色植物，矮个子，暗影家族
 {FLAVOR}很容易就能看到薄暮投手，但这只是因为她受过广泛的训练，而且真的喜欢抛物线。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [BLOOMINGHEARTS]
-铃儿草投手
-
-[BLOOMINGHEARTS_TOOLTIP]
-向僵尸投掷爱心花朵
- 
-[BLOOMINGHEARTS_SKILL_LEVEL1]
-痴心绝对
-
-[BLOOMINGHEARTS_SKILL_LEVEL1_DES]
-有10%概率在击中僵尸后，会形成巨大爱心印记，铃儿草投手会优先攻击带有巨大爱心印记的敌方单位。
-
-[BLOOMINGHEARTS_SKILL_LEVEL2]
-爱之永恒
-
-[BLOOMINGHEARTS_SKILL_LEVEL2_DES]
-使痴心绝对效果提升100%
-
-[STORE_PRODUCT_AVATAR_BLOOMINGHEARTS]
-形成巨大花心弹药，造成额外伤害
-
-[STORE_PRODUCT_AVATAR_BLOOMINGHEARTS_TITLE]
-铃儿草装扮
-
-[BLOOMINGHEARTS_DESCRIPTION_HEADER]
-爱心印记可以叠加伤害
+Blühendes Herz
 
 [BLOOMINGHEARTS_DESCRIPTION]
+{KEYWORD}Besonderheit: {STAT} Mit jedem Treffer wird höherer Schaden verursachten 
+{KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze, voller Liebe, kurz
 
-{KEYWORD}特点：{STAT}爱心印记可以叠加伤害
-{KEYWORD}植物特征：{STAT}红色植物，充满爱心，矮个子
-{FLAVOR}铃儿草投手喜欢僵尸。她从她的伙伴那里得到了一些谣言，但她立场坚定。她喜欢僵尸，不为此道歉。
+{FLAVOR}Das Blühende Herz liebt Zombies. Ihre Mitpflanzen necken sie dafür, aber sie steht dazu. Warum sollte sie sich dafür entschuldigen, dass sie ein Herz für Zombies hat?
 
+[BLOOMINGHEARTS_DESCRIPTION_HEADER]
+Die Projektile der Blühenden Herzen betören Zombies und verursachen mit mehr Treffern steigenden Schaden.
 
+[BLOOMINGHEARTS_TOOLTIP]
+Verschießt Projektile, deren Schaden mit Anzahl der Treffer zunimmt
 
+[BLOOMINGHEARTS_SKILL_LEVEL1]
+Absolute Liebe
 
+[BLOOMINGHEARTS_SKILL_LEVEL1_DES]
+Es besteht eine 10%ige Chance, dass nach dem Treffen eines Zombies ein riesiges Herzzeichen entsteht. Das Blühende Herz greift vorrangig gegnerische Einheiten mit einem riesigen Herzzeichen an.
 
+[BLOOMINGHEARTS_SKILL_LEVEL2]
+Ewige Liebe
 
+[BLOOMINGHEARTS_SKILL_LEVEL2_DES]
+Erhöht die Wirkung von Absoluter Liebe um 100 %.
 
+[STORE_PRODUCT_AVATAR_BLOOMINGHEARTS]
+Bildet eine riesige Herzmunition, die zusätzlichen Schaden verursacht.
 
+[STORE_PRODUCT_AVATAR_BLOOMINGHEARTS_TITLE]
+Blühendes-Herz Kostüm
 
 [NIGHTSHADE]
 夜影龙葵
@@ -16911,7 +16898,6 @@ Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 夜影再生
 [NIGHTSHADE_SKILL_LEVEL1_DES]
 使植物叶子恢复速度提升
-
 
 [NIGHTSHADE_SKILL_LEVEL2]
 快速生长
@@ -16932,16 +16918,6 @@ Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 {KEYWORD}特点：{STAT}在暗影状态下的时候，会用力投掷和重新长出树叶
 {KEYWORD}植物特征：{STAT}蓝色植物，紫色植物，暗影一族
 {FLAVOR}对于茄属植物来说，攻击是一种责任和特权。他来自一长串热情的追踪者，他的家人包括三名国王、四名大使和一名总统。
-
-
-
-
-
-
-
-
-
-
 
 [MOONFLOWER]
 月光花
@@ -16976,13 +16952,6 @@ Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 {KEYWORD}特点：{STAT}月光散发出一种光芒，可以使邻近的影子植物产生能量
 {KEYWORD}植物特征：{STAT}蓝色植物，紫色植物，暗影一族，无尽阳光
 {FLAVOR}月光花是一个很厉害的合作者。她会与任何合作者之间达成很好的默契。
-
-
-
-
-
-
-
 
 [GRIMROSE]
  暗樱草
@@ -17023,14 +16992,6 @@ Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 [GRIMROSE_SKILL_LEVEL5_DES]
 把僵尸拉进土中后，会在原地放出暗影爆炸，对当格范围内的僵尸造成大量伤害
 
-
-
-
-
-
-
-
-
 [EXPLODEONUT_SKILL_LEVEL2]
 爆破精通
 
@@ -17050,33 +17011,38 @@ Riesen Wellen Strand - Tag {LEVEL_NUMBER}
 爆炸坚果装扮
 
 [BOWLINGBULB]
-保龄泡泡
+Bowlingknolle
 
 [BOWLINGBULB_DESCRIPTION]
-{KEYWORD}伤害：{STAT}越大的泡泡伤害越强
-{KEYWORD}植物特征：{STAT}兄弟成群
-{FLAVOR}猜猜哪个队直到现在蝉联五次冠军？没错，就是保龄泡泡队。他们现在如日中天。你和你的队友以为可以有什么办法打败他们吗？呵呵，继续做梦去吧，伙计。
+{KEYWORD}Schaden: {STAT}Größere Knollen verursachen mehr Schaden
+{KEYWORD} Pflanzenmerkmale: {STAT} Brüder in Gruppen
+
+{FLAVOR}Rate mal, wer seit fünf Jahren die Ligameisterschaft dominiert? Na klar, das Team Bowlingknolle. Sie haben einfach einen LAUF. Glaubst du, du und deine Kumpels könnt sie stoppen? Tja, träumt weiter!
 
 [BOWLINGBULB_DESCRIPTION_HEADER]
-保龄泡泡发射的泡泡可以弹射多个僵尸。
+Bowlingknollen können mehrere Zombies aus dem Weg bowlen.
 
 [BOWLINGBULB_TOOLTIP]
-发出弹射泡泡弹射多个僵尸
+Rollt hüpfende Kugeln, die mehrere Zombies erwischen können
 
 [GUACODILE]
-鳄梨
+Guakodil
 
 [GUACODILE_DESCRIPTION]
-{KEYWORD}用途：{STAT} 冲刺攻击后消失
-{KEYWORD}特点：{STAT}可以种植在水上
-{KEYWORD}植物特征：{STAT}绿色植物、伶牙俐齿、水生植物、矮个子
-{FLAVOR}问起鳄梨自己的事情，他就会呵呵道：“我曾经被类似熊夹子的陷阱夹过。我总是能吐射出令全场植物妒忌的强力精准，岩石般坚硬的子弹。呵呵，人们说我能在水上漂。我非常喜欢墨西哥辣味卷。”没错，这家伙是有点点飘飘然不过他知道自己在做什么。
+{KEYWORD}Nutzung: {STAT}Pflanze verschwindet nach Sturmangriff
+
+{KEYWORD}Besonderheit: {STAT}Kann auf Wasser gepflanzt werden
+
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen, scharfe Zähne, Wasserpflanzen, Kleinwuchs
+
+
+{FLAVOR}Auf die Frage, was es so auszeichnet, grinst das Guakodil sein schiefes Grinsen: „Ich bin ein Guakodil. Ich habe ein Gebiss wie eine Bärenfalle. Ich spucke mit steinharten Kernen, und das mit einer Geschwindigkeit und Präzision, um die mich alle beneiden. Mann, ich kann sogar übers Wasser gehen. Ich bin ein Rundumpaket, wie eine gute Enchilada!“ Tja, Bescheidenheit ist nicht gerade die Stärke des Guakodils.
 
 [GUACODILE_DESCRIPTION_HEADER]
-鳄梨可以远距离发射种子。当受到攻击时，他们会直线向前冲咬所有遇到的僵尸。
+Guakodile verschießen Kerne auf die Distanz. Wenn sie angegriffen werden, stürmen sie vom Rasen und beißen dabei alle Zombies, die ihren Weg kreuzen.
 
 [GUACODILE_TOOLTIP]
-发射种子，受到攻击时，会直线向前冲咬所有遇到的僵尸。
+Verschießt Kerne, überrennt Zombies vor ihm, wenn es angegriffen wird
 
 [HOMINGTHISTLE]
 Lenkdistel
@@ -17162,22 +17128,24 @@ Kann Zombies in der Nähe Explosionsschaden zufügen.
 Spinnfeuerwerk
 
 [CRACKER_SKILL_LEVEL5_DES]
-Es besteht die Möglichkeit, dass sich ein Spinfeuerwerk bildet, das gegnerischen Einheiten in der Nähe Schaden zufügt.
+Es besteht die Möglichkeit, dass sich ein Spinfeuerwerk bildet, das gegnerischen Einheiten in der Nähe Schaden zufügt
 
 [SAPFLING]
 Saftling
 
 [SAPFLING_DESCRIPTION]
-{KEYWORD}伤害说明: {STAT}无法造成伤害，但是会在地上留下树脂
-{KEYWORD}特点: {STAT}减缓经过树脂上的僵尸的移动速度
+{KEYWORD}Schadensdetails: {STAT}Verursacht keinen Trefferschaden, aber eine Pfütze voller Sirup
 
-{FLAVOR}看到树脂投手那强健的投臂你就会本能地相信他的厉害。他虽然还很年轻，但是所有人都觉得他是个很有天赋的“小学生”。一些著名的松果球队的预备队一直在注意他，认为他能成长为一名核心球员。当然，有人批评他总是投出一些黏糊糊的曲线球，认为这是一种犯规的行为。但是，他使用的可是纯天然无污染的树脂，我们翻遍了整本规则，也没有找到这是一种犯规行为的条目。
+{KEYWORD}Besonderheit: {STAT}Verlangsamt Zombies, die in die Pfütze treten
+
+
+{FLAVOR}Du musst den Wurfarm des Saftlings einfach gesehen haben. Er ist vielleicht noch jung, aber alle sind sich einig, der Junge hat TALENT. Scouts sämtlicher Pinienzapfenballteams haben bereits ein Auge auf ihn geworfen, vielleicht spielt er schon bald in der ersten Liga. Klar – manch einer kritisiert ihn für seine unglaublich klebrige Spuckekugel. Aber das ist ganz natürlicher Sirup, also vollkommen legal.
 
 [SAPFLING_DESCRIPTION_HEADER]
-树脂投手能减速僵尸。
+Saftlinge verursachen Sirup-Pfützen, die Zombies verlangsamen
 
 [SAPFLING_TOOLTIP]
-树脂投手投出的树脂能够减速僵尸。
+Verursacht Zombies verlangsamende Sirup-Pfützen
 
 [GHOSTPEPPER]
 Geist-Peperoni
@@ -30604,64 +30572,65 @@ Teste eine Premium-Pflanze kostenlos!
 Pflanzenvorschau
 
 [PRIMALPEASHOOTER]
-原始豌豆射手
+Urzeit-Erbsenkanone
 
 [PRIMALPEASHOOTER_DESCRIPTION]
-{KEYWORD}特点： {STAT}原始豌豆射手偶尔能击退僵尸
-{KEYWORD}植物特征：{STAT}绿色植物、狂野生长、豌豆家族
+{KEYWORD}Besonderheit: {STAT}Urzeit-Erbsenkanonen stoßen gelegentlich Zombies zurück.
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grünpflanzen, Wildwuchs, Hülsenfrüchtler
 
-{FLAVOR}原始豌豆射手也许很原始，但他依然参与了不少软件开发相关课程且表现优异。
+{FLAVOR}Die Urzeit-Erbsenkanone mag primitiv sein, aber das hält sie nicht davon ab, mehrere Softwareentwickler-Kurse zu belegen und erfolgreich zu absolvieren.
 
 [PRIMALPEASHOOTER_DESCRIPTION_HEADER]
-原始豌豆射手能够向僵尸发射重型眩晕豌豆。
+Urzeit-Erbsenkanonen verschießen schwere, lähmende Erbsen auf Zombies.
 
 [PRIMALPEASHOOTER_TOOLTIP]
-发射重型眩晕豌豆
+Verschießt schwere, lähmende Erbsen
 
 [PRIMALPOTATOMINE]
-原始土豆地雷
+Urzeit-Kartoffelmine
 
 [PRIMALPOTATOMINE_DESCRIPTION]
-{KEYWORD}用法： {STAT}单次使用，延迟激活。
-{KEYWORD}范围： {STAT}周围所有区域
-{KEYWORD}植物特征：{STAT}褐色植物、狂野生长、武器家族、矮个子
+{KEYWORD}Nutzung: {STAT}einmalig, verzögert
+{KEYWORD}Reichweite: {STAT}Umgebungsbereich
+{KEYWORD} Pflanzenmerkmale: {STAT} Braune Pflanze, Wildwuchs, Waffengewächs, Kleinwuchs
 
-{FLAVOR}原始土豆地雷并不觉得自己很原始。对他来说，他是最前沿的科技。谁知道呢？或许他真的是。
+{FLAVOR}Die Urzeit-Kartoffelmine hält sich selbst nicht für urzeitlich. Ihrer Ansicht nach ist sie hochmodern. Und wer weiß? Vielleicht stimmt das ja.
 
 [PRIMALPOTATOMINE_DESCRIPTION_HEADER]
-原始土豆地雷比普通土豆地雷要贵一些，但它们激活得非常快，而且会对大范围的敌人造成伤害。
+Urzeit-Kartoffelminen kosten mehr als normale Kartoffelminen, aber sind schneller einsatzbereit und verursachen einen größeren Schaden in der Umgebung.
 
 [PRIMALPOTATOMINE_TOOLTIP]
-爆炸造成范围伤害。
+Explodiert und verursacht Schaden in der Umgebung
 
 [PRIMALSUNFLOWER]
-原始向日葵
+Urzeit-Sonnenblume
 
 [PRIMALSUNFLOWER_DESCRIPTION]
-{KEYWORD}日光产出： {STAT}大号太阳
-{KEYWORD}植物特征：{STAT}黄色植物、狂野生长、无尽阳光
+{KEYWORD}Sonnenproduktion: {STAT}große Sonnen
+{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanzen, wildes Wachstum, endloses Sonnenlicht
 
-{FLAVOR}原始向日葵刚来到日光产出行业，所以请对她耐心一点。她在阳光制造产业中不限量自助餐厅的早期试用者。
+{FLAVOR}Die Urzeit-Sonnenblume ist noch neu im Sonnengeschäft, also hab etwas Geduld mit ihr. Ihr etwas antiquierter Ansatz lautet: "Nimm so viel, du kriegen kannst!"
 
 [PRIMALSUNFLOWER_DESCRIPTION_HEADER]
-原始向日葵会产出大号太阳，而不是普通太阳。
+Urzeit-Sonnenblumen erzeugen große Sonnen, anstatt normale.
 
 [PRIMALSUNFLOWER_TOOLTIP]
-产出大号太阳。
+Produziert große Sonnen
 
 [PRIMALWALLNUT]
-原始坚果墙
+Urzeit-Wall-Nuss
 
 [PRIMALWALLNUT_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}褐色植物、狂野生长、高个子
+{KEYWORD}Pflanzenmerkmale: {STAT}Braune Pflanze, Wildwuchs, hoch
 
-{FLAVOR}“呼噜”，原始坚果墙说。“呼噜呼噜呼噜”，他继续说道。“哦库噜呼噜呼噜”，他总结道。一个非常有想法的坚果，那就是原始坚果墙。
+{FLAVOR}„Grunz“, erklärt die Urzeit-Wall-Nuss. „Grunz, uga, grunz-gronz“, fährt sie fort. Und zieht das Fazit: „Uga-Urg, Grunzi-grunz-grunz.“ Wirklich eine meinungsstarke Nuss.
 
 [PRIMALWALLNUT_DESCRIPTION_HEADER]
-原始坚果墙有比传统的坚果墙价格要贵一些，但它们可以很快种好。
+Urzeit-Wall-Nüsse kosten etwas mehr als typische Wall-Nüsse, können aber schneller gepflanzt werden.
 
 [PRIMALWALLNUT_TOOLTIP]
-可以快速种植并阻挡僵尸的墙。
+Ein schnell gepflanzter Wall, der Zombies fernhält
+
 [PRODUCT_131_DESCRIPTION]
 如此多的金币！
 
@@ -51762,7 +51731,6 @@ Erhöht die Wahrscheinlichkeit von Fertigkeit 2 um 15 % (nur wirksam für Pflanz
 Schilfkaninchen-Ohren
 
 [NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_1]
-Schilfkaninchen-Ohren INGREED]
 Blitzschaden erhöht um 20 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_1]
