@@ -252,41 +252,39 @@ Ich frage mich, was dieses Ding alles freischalten kann!
 Tippe auf eine Pflanze, um sie deiner Pflanzensammlung hinzuzufügen!
 
 [ADVICE_COLLECT_SUN]
-点击下落的阳光来收集它们！
+Klicke auf die fallenden Sonnenstrahlen, um sie einzusammeln!
 
 [ADVICE_COLLECTED_SUN]
-继续收集阳光！
-你需要阳光以种植更多植物
+Sammle weiterhin Sonnenstrahlen!
 
+Du brauchst Sonnenstrahlen, um weitere Pflanzen zu pflanzen.
 
 [ADVICE_DANGER_ROOM_UNLOCKED]
-无尽挑战解锁！
+Endlose Herausforderung freigeschaltet!
 
 [ADVICE_DONE_DIGGING]
-挖掉后可以种其它的植物
+Du kannst weitere Pflanzen pflanzen, nachdem du sie ausgegraben hast.
 
 [ADVICE_EARNED_SECOND_STAR]
-干得漂亮！又一颗星星！星星
-可用来解锁神秘奖励！
-
+Gut gemacht! Noch ein Stern! Sterne
+können verwendet werden, um geheimnisvolle Belohnungen freizuschalten!
 
 [ADVICE_EARNED_STAR]
-闯关成功，
-你获得了一颗星星！
-
+Du hast das Level erfolgreich abgeschlossen
+und einen Stern verdient!
 
 [ADVICE_ENOUGH_SUN]
-太好了！你已经有足够的阳光
-进行下一次种植了！
+Super! Du hast genug Sonnenstrahlen
+für die nächste Pflanzung!
 
 [ADVICE_PLANT_NOT_ON_TENT]
-植物不能种植在背包帐篷上
+Pflanzen können nicht auf einem Rucksackzelt gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_FISHERMAN]
-植物不能种植在渔夫僵尸之上
+Pflanzen können nicht auf einem Fischer-Zombie gepflanzt werden.
 
 [ADVICE_GET_MORE_STARS]
-更多星星已经出现在地图上！返回先前的关卡收集它们吧！
+Es sind mehr Sterne auf der Karte erschienen! Kehre zu vorherigen Levels zurück, um sie einzusammeln!
 
 [ADVICE_GOTO_ALMANAC]
 Bitte klicke auf die Illustration.
@@ -307,7 +305,7 @@ Grabfressende Ranken können nur auf Grabsteinen gepflanzt werden.
 EINE RIESIGE WELLE VON ZOMBIES NÄHERT SICH! 
 
 [ADVICE_SOCCER_NEAR_END]
-Noch 30 Sekunden!
+NOCH 30 SEKUNDEN!
 
 [ADVICE_POOYANBOSS_WAVE]
 Warnung! Warnung! Hohe Energie voraus!
@@ -319,7 +317,7 @@ Ein gefährlicher Zombie nähert sich ...
 Grabe weiter, bis dein Rasen frei von Pflanzen ist!
 
 [ADVICE_KEEP_USING_POWERUPS]
-Benutze weiterhin Cheat-Codes, um die Level zu meistern!
+Benutze weiterhin Power-ups, um die Level zu meistern!
 
 [ADVICE_MORE_SUNFLOWERS]
 Du brauchst mehr Sonnenblumen, damit deine Pflanzen schneller wachsen!
@@ -646,10 +644,10 @@ Tipps:
 {SAY:winnie}探测仪可不这么想。
 
 [ADVICE_MASKUI_SUN]
-阳光是生产植物必须的资源，点击阳光将它增加到你的储备库里！
+Sonnenlicht ist eine wichtige Ressource für den Pflanzenanbau. Klicke darauf, um es deinem Vorrat hinzuzufügen!
 
 [ADVICE_MASKUI_SHOVELE]
-使用铲子可以铲掉植物，为你想要种的植物腾出空间！
+Benutze eine Schaufel, um Pflanzen zu entfernen und Platz für die Pflanzen zu schaffen, die du anbauen möchtest!
 
 [ADVICE_WAIT]
 Warte!!!
@@ -4379,7 +4377,7 @@ Tor aufschließen?
 Spezialdünger kaufen?
 
 [PURCHASE_PLANTFOOD_WITH_COINS]
-%d Juwelen ausgeben, um eine Energiebohne zu kaufen?
+%d Juwelen ausgeben, um eine Spezialdünger-Fähigkeit zu kaufen?
 
 [RENAME_BUTTON]
 Umbennen
@@ -15243,103 +15241,103 @@ Verbessertes Rezept
 使橡木弓手在攻击目标时有概率发射寒冰箭矢
 
 [UNLOCK_STAR_LEVEL]
-进阶到%d阶解锁
+Freischaltung nach Erreichen von Level %d
 
 [CURRENT_PLANTS_LEVEL_IS_LOW]
-该关卡有{ZOMBIE_LEVEL}阶僵尸出没，建议携带{PLANT_LEVEL}阶植物，是否重新选择？
+Dieses Level hat {ZOMBIE_LEVEL} Zombies. Es wird empfohlen, {PLANT_LEVEL} Pflanzen mitzubringen. Möchten Sie die Auswahl erneut durchführen?
 
 [FILTER_WARNING]
-您输入的名字包含敏感字符，请重新输入
+Der eingegebene Name enthält sensible Zeichen. Bitte geben Sie ihn erneut ein.
 
 [NOTICE_CONTENT_IOS]
-亲爱的玩家：
+Liebe Spieler,
 
-潘妮和程序员们强强联手，修复了一些重要的存档问题，账号转移功能也重新开放啦！在自检中潘妮还发现游戏的卡顿减少了很多，也很久没有出现闪退了。
+Penny und die Programmierer haben gemeinsam wichtige Archivprobleme behoben und die Kontoübertragungsfunktion wieder aktiviert! Beim Selbsttest stellte Penny außerdem fest, dass das Spiel deutlich weniger hängen geblieben ist und schon lange nicht mehr abstürzt.
 
-【十倍收益 超强福利】
-现在充值1元即可获得105钻石，太合算了有木有？
-（获赠的钻石分7日领取，无需连续登录）
+[Zehnfaches Einkommen, tolle Vorteile]
+Jetzt können Sie 105 Diamanten erhalten, indem Sie 1 Yuan aufladen. Ist das nicht ein gutes Angebot?
+(Die erhaltenen Diamanten können innerhalb von 7 Tagen eingelöst werden. Eine ständige Anmeldung ist nicht erforderlich.)
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
 
-——小豌豌
+——Little Pea
 
 [BONUS_KEY_EGYPT_SHORT]
-埃及钥匙
+Ägypten-Schlüssel
 
 [BONUS_KEY_PIRATE_SHORT]
-海盗钥匙
+Piraten-Schlüssel
 
 [BONUS_KEY_COWBOY_SHORT]
-西部钥匙
+Western-Schlüssel
 
 [BONUS_KEY_KONGFU_SHORT]
-功夫钥匙
+Kung-Fu-Schlüssel
 
 [BONUS_KEY_FUTURE_SHORT]
-未来钥匙
+Zukunfts-Schlüssel
 
 [BONUS_KEY_DARK_SHORT]
-黑暗钥匙
+Dunkel-Schlüssel
 
 [BONUS_KEY_BEACH_SHORT]
-沙滩钥匙
+Sand-Schlüssel
 
 [BONUS_KEY_ICEAGE_SHORT]
-冰河钥匙
+Eis-Schlüssel
 
 [DISPLAY_ACTION_NORMAL]
-普通攻击
+Normaler Angriff
 
 [DISPLAY_ACTION_PLANTFOOD]
-大招攻击
+Ultimativer Angriff
 
 [DISPLAY_ACTION_AVATAR]
-装扮大招
+Dekoration: Ultimativ
 
 [DAILY_REWARD_ERROR_TITLE]
-网络异常
+Netzwerk Abnormal
 
 [DAILY_REWARD_ERROR_CONTENT]
-网络异常，请重新启动游戏后再签到。
+Netzwerkstörung. Bitte starte das Spiel neu und melde dich erneut an.
 
 [ICLOUD_PROFILE_ERROR]
-云存错误
+Cloud-Speicherfehler
 
 [NETWORK_ERROR_TITLE]
-网络错误
+Netzwerkfehler
 
 [BIRTHDAY_ERROR_DESC_21306]
-您已经领取过生日奖励！
+Du hast deinen Geburtstagsbonus bereits erhalten!
 
 [INSTANT_STATUS_ERROR_DESC_23017]
-您的每日副本次数已经用光，本次碎片无法同步至服务器。
+Du hast deine täglichen Kopierzeiten aufgebraucht und dieses Fragment kann nicht mit dem Server synchronisiert werden.
 
 [INSTANT_STATUS_ERROR_DESC_21513]
-您的每日副本次数已经用光
+Dein tägliches Kopierkontingent ist aufgebraucht.
 
 [ICLOUD_PROFILE_ERROR_FOR_UPLOAD]
-无法使用云存备份存档<{NUMBER}>，正在使用本地存档进行游戏。
+Cloud-Backup <{NUMBER}> kann nicht verwendet werden. Spiel wird mit lokalem Speicher gespielt.
 
 [AVATAR_BUTTON_CONTENT]
-更多装扮即将开放
+Weitere Kostüme sind in Kürze verfügbar.
 
 [PLANT_OBTAIN_TITLE_1]
-星星兑换
+Sternentausch
 
 [PLANT_OBTAIN_TITLE_2]
-金币购买
+Münzen kaufen
 
 [PLANT_OBTAIN_BUTTON]
-查看
+Ansehen
 
 [GET_FREE_MYSTERY_CRYSTAL_BUTTON]
-免费领取
+Kostenlos erhalten
 
 [DAILY_REWARD_CONFIG_ERROR_TITLE]
-签到配置错误
+Fehler bei der Anmeldekonfiguration
 
 [DAILY_REWARD_CONFIG_ERROR_CONTENT]
-获取签到配置错误，请保持网络畅通，重启游戏。
+Fehler beim Abrufen der Anmeldekonfiguration. Bitte halten Sie das Netzwerk geöffnet und starten Sie das Spiel neu.
 
 [ZOMBIE_DARK]
 Bauernzombie
@@ -23319,76 +23317,76 @@ Gruppe {NUMBER}
 关卡奖励
 
 [ADVICE_PLANT_ON_LEFT_REDLINE]
-植物只能放在警戒线的左边
+Pflanzen können nur links vom Kordon platziert werden.
 
 [ADVICE_LAST_STAND_PLANT]
-将植物全部种到场地上，再开始战斗。如果种错了不必担心，使用右下角的铲子吧！
+Pflanze alle Pflanzen auf dem Feld, bevor du den Kampf beginnst. Keine Sorge, falls du die falschen Pflanzen pflanzt – benutze die Schaufel in der unteren rechten Ecke!
 
 [ADVICE_WORLD_CUP_PLANT]
-将植物种满在规定格子内，即可开始游戏！
+Pflanze alle Pflanzen im vorgegebenen Raster und starte das Spiel!
 
 [ADVICE_WORLD_CUP_START_HINT]
-阵容已准备完毕，点击按钮即可开始游戏！
+Die Aufstellung ist fertig. Klicke auf den Button, um das Spiel zu starten!
 
 [PROTECT_CHRISTMAS_FAIL_MESSAGE]
-僵尸们偷光了你的元宝！！！
+Die Zombies haben dein ganzes Gold gestohlen!
 
 [GO_TO_LOTTERY]
-{CURRENCY_COST}燃放爆竹
+{CURRENCY_COST} Feuerwerk
 
 [SAVE_PLANT_BUTTON]
-保存并退出
+Speichern und beenden
 
 [ARENA_PLANT_TEST_TITLE]
-拖拽植物更换阵容
+Pflanzen ziehen, um die Aufstellung zu ändern
 
 [PLAYERS_TRIP_TO_ARENA_PLANT]
-竞技场-阵容更换
+Arena – Aufstellung ändern
 
 [PLAYERS_TRIP_TO_ARENA_BATTLE]
-竞技场
+Arena
 
 [ARENA_BATTLE_TEST_TITLE]
-竞技场
+Arena
 
 [SHARE_TO_WECHAT_FRIENDS]
-分享到微信
+Auf WeChat teilen
 
 [SHARE_TO_WECHAT_TIMELINE]
-分享到朋友圈
+Auf Moments teilen
 
 [ARENA_SAVE_PLANT_TITLE]
-确认保存
+Speichern bestätigen
 
 [ARENA_SAVE_PLANT_TEXT]
-确定要保存当前阵容?
+Möchtest du die aktuelle Aufstellung wirklich speichern?
 
 [ARENA_TIME_OUT_PLANT_TITLE]
-有人吗？
+Jemand?
 
 [ARENA_TIME_OUT_PLANT_TEXT]
-您已经有一段时间没有操作，僵尸世界将会重新加载！
+Du warst eine Weile inaktiv. Zombie World wird neu geladen!
 
 [ARENA_TIME_OUT_ARENA_TITLE]
-网络连接
+Netzwerkverbindung
 
 [ARENA_TIME_OUT_ARENA_TEXT]
-抱歉，您的网络暂时无反应，我们将会重新载入，请检查您的网络设置。
+Entschuldigung, dein Netzwerk reagiert vorübergehend nicht. Wir laden neu. Bitte überprüfe deine Netzwerkeinstellungen.
 
 [PVP_MAP_HOUSE_NAME]
-%s的小屋
+%s' Hütte
 
 [PVP_MAP_USER_00]
-我
+Ich
 
 [PVP_MAP_USER_01]
-老王
+Lao Wang
 
 [PVP_MAP_USER_02]
-程序
+Programmierer
 
 [PVP_MAP_USER_03]
-策划
+Planer
 
 [PVP_MAP_USER_04]
 美术
@@ -38267,90 +38265,91 @@ Kristallklar und feucht
 攻击的时候会射出2轮飞镖
 
 [CYPRIPEDIUM]
-厨师杓兰
+Chefkoch Cypripedium
 
 [CYPRIPEDIUM_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR} 厨师杓兰曾经是首屈一指的顶级大厨，做出来的汤羹美味至极，直到有一天他接触到了一本新食谱《哞哞城厨艺精粹》，并奉若圣典，他的料理就开始产生了令人意外的效果。
+{KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze
+{FLAVOR}Der Chefkoch Cypripedium war einst ein Spitzenkoch und kochte köstliche Suppen, bis er eines Tages auf ein neues Kochbuch stieß: „Die Essenz der Küche von Moo Moo City“. Er betrachtete es als heiliges Buch und seine Kochkünste führten zu unerwarteten Ergebnissen.
 
 [CYPRIPEDIUM_DESCRIPTION_HEADER]
-厨师杓兰的汤汁会使僵尸绕道而行。
+Chefkoch Cypripediums Suppe lässt Zombies sich gegenseitig meiden.
 
 [CYPRIPEDIUM_TOOLTIP]
-厨师杓兰的汤汁会使僵尸绕道而行。
+Chefkoch Cypripediums Suppe lässt Zombies sich meiden.
 
 [CYPRIPEDIUM_PRODUCT_SHORT_DESC]
-厨师杓兰的汤汁会使僵尸绕道而行。
+Chefkoch Cypripediums Suppe lässt Zombies sich meiden.
 
 [CYPRIPEDIUM_AVATAR_NAME]
-厨师杓兰的汤汁会使僵尸绕道而行。
+Chefkoch Cypripediums Suppe lässt Zombies sich meiden.
 
 [STORE_PRODUCT_AVATAR_CYPRIPEDIUM]
-在大招发动后，范围内的僵尸还会被麻痹一段时间。
+Nach Aktivierung der ultimativen Fähigkeit werden Zombies in Reichweite vorübergehend gelähmt.
 
 [STORE_PRODUCT_AVATAR_CYPRIPEDIUM_TITLE]
-厨师杓兰装扮
+Kostüm des Chefkoch Cypripedium's
 
 [CYPRIPEDIUM_SKILL_LEVEL1]
-浓缩料理
+Kondensierte Gerichte
 
 [CYPRIPEDIUM_SKILL_LEVEL1_DES]
-有概率发射一枚浓缩料理，使子弹影响效果变为1格范围。
+Es besteht die Möglichkeit, ein konzentriertes Gericht abzufeuern, wodurch die Reichweite der Kugel ein Feld beträgt.
 
 [CYPRIPEDIUM_SKILL_LEVEL2]
-工序稳定
+Stabiles Verfahren
 
 [CYPRIPEDIUM_SKILL_LEVEL2_DES]
-浓缩料理的概率提升至100%
+Die Wahrscheinlichkeit konzentrierter Gerichte wurde auf 100 % erhöht.
 
 [CYPRIPEDIUM_SKILL_LEVEL5]
-新式料理
+Neue Gerichte
 
 [CYPRIPEDIUM_SKILL_LEVEL5_DES]
-新创的料理现在会使子弹附带中毒效果。
+Neue Gerichte verursachen nun eine Vergiftung der Kugeln.
+
 
 [SLINGPEA]
-豌豆迫击炮
+Schleudererbse
 
 [SLINGPEA_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR} 豌豆迫击炮密切关注着整个战斗场景，“如果有什么东西溜了进来，”他若有所思地说，“那就是我的错，如果发生了这种事，我是不会原谅我自己的。”
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grünpflanzen, Hülsenfrüchtler
+{FLAVOR}Die Schleudererbse behält das gesamte Schlachtfeld im Blick. Eine wirklich aufmerksame Vertreterin ihrer Art. „Wenn hier wer durchkommt, wäre das meine Schuld“, sagt sie. „Das könnte ich mir nie verzeihen.“
 
 [SLINGPEA_DESCRIPTION_HEADER]
-吐出子弹对僵尸们造成伤害
+Schleudererbsen verschießen 5 Erbsen auf einmal und nehmen dabei die Zombies ins Visier, die deinem Haus am nächsten sind.
 
 [SLINGPEA_TOOLTIP]
-吐出子弹对僵尸们造成伤害
+Verschießt 5 Erbsen über das gesamte Spielfeld
 
 [SLINGPEA_PRODUCT_SHORT_DESC]
-吐出子弹对僵尸们造成伤害
+Verschießt 5 Erbsen über das gesamte Spielfeld
 
 [SLINGPEA_AVATAR_NAME]
-豌豆迫击炮装扮
+Schleudererbse-Kostüm
 
 [STORE_PRODUCT_AVATAR_SLINGPEA]
-每一波子弹有50%的几率变成蓝火子弹，50%的几率变成黄色子弹
+Jede Kugelwelle hat eine Chance von 50 %, sich in blaue Feuergeschosse und eine Chance von 50 %, sich in gelbe Geschosse zu verwandeln.
 
 [STORE_PRODUCT_AVATAR_SLINGPEA_TITLE]
-豌豆迫击炮装扮
+-Kostüm
 
 [SLINGPEA_SKILL_LEVEL1]
-弹力豌豆           
+Elastische Erbse
 
 [SLINGPEA_SKILL_LEVEL1_DES]
-有概率发射五颗弹射子弹，会有弹射效果，最多弹射2个僵尸。
+Es besteht die Chance, fünf Querschläger abzufeuern, die einen Abpralleffekt haben und bis zu zwei Zombies treffen können.
 
 [SLINGPEA_SKILL_LEVEL2]
-强化豌豆
+Erbse stärken
 
 [SLINGPEA_SKILL_LEVEL2_DES]
-使弹力豌豆技能效果提升100%
+Erhöht die Wirkung der Fähigkeit „Elastische Erbse“ um 100 %.
 
 [SLINGPEA_SKILL_LEVEL5]
-爆炸豌豆
+Explosive Erbse
 
 [SLINGPEA_SKILL_LEVEL5_DES]
-有概率发射5颗炸弹豌豆，随机对地图上一格内的僵尸造成伤害。
+Es besteht die Chance, 5 explosive Erbsen abzufeuern, die Zombies in einem zufälligen Raster auf der Karte Schaden zufügen.
 
 [TULIPTRUMPETER]
 郁金香号手
@@ -39851,7 +39850,7 @@ Bun Chi Kleid
 Nach dem großen Angriff springst du erneut hoch, um Zombies im Umkreis von 3*3 Schaden zuzufügen und ihren Nagschaden 18 Sekunden lang um 80% zu reduzieren.
 
 [WATERRABBIT_NEW_SKILL_LEVEL1_DES]
-Bun Chi verursacht in jeder Angriffsrunde 5 Schaden. Der letzte Angriff verdoppelt den Schaden und stößt die angreifenden Zombies zurück. Nach einer Angriffsrunde wachsen lila Blüten auf Rabbit Jis Kopf. Die lila Blüten wachsen nach jeder Angriffsrunde. Jede Schicht lila Blüten erhöht Rabbit Jis Angriffskraft um weitere 20%. Wenn die violetten Blüten reif sind, klicke manuell auf Rabbit Ji, um einen schweren Angriff auszuführen. Dieser verursacht Schaden an Zombies im Umkreis von 3 x 3 und reduziert den Nageschaden der Zombies 18 Sekunden lang um 80%. Anschließend verschwinden die violetten Blüten. Wenn violette Blüten vorhanden sind, wird der Rückstoßeffekt normaler Angriffe verbessert.
+Bun Chi verursacht in jeder Angriffsrunde 5 Schaden. Der letzte Angriff verdoppelt den Schaden und stößt die angreifenden Zombies zurück. Nach einer Angriffsrunde wachsen lila Blüten auf Bun chis Kopf. Die lila Blüten wachsen nach jeder Angriffsrunde. Jede Schicht lila Blüten erhöht Bun chis Angriffskraft um weitere 20%. Wenn die violetten Blüten reif sind, klicke manuell auf Bun chi, um einen schweren Angriff auszuführen. Dieser verursacht Schaden an Zombies im Umkreis von 3 x 3 und reduziert den Nageschaden der Zombies 18 Sekunden lang um 80%. Anschließend verschwinden die violetten Blüten. Wenn violette Blüten vorhanden sind, wird der Rückstoßeffekt normaler Angriffe verbessert.
 
 [WATERRABBIT_NEW_SKILL_LEVEL2_DES]
 Bun Chi's normaler Angriff ändert sich von Einzelangriff auf Gruppenangriff mit maximal 3 Zombies.
@@ -39860,7 +39859,7 @@ Bun Chi's normaler Angriff ändert sich von Einzelangriff auf Gruppenangriff mit
 Bun Chi's normale Angriffsziele sind auf 5 Zombies begrenzt, und die Angriffsreichweite erhöht sich um 1 Raster.
 
 [WATERRABBIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohne direkt auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [WATERRABBIT_NEW_SKILL_LEVEL5_DES]
 Nachdem die violette Blume gereift ist, kann sie sich durch eine weitere Angriffsrunde zu einer gelben Blume entwickeln. Sobald die violette Blume gereift ist und sich zu einer gelben Blume entwickelt hat, kannst du manuell klicken, um den schweren Angriff auszulösen. Der schwere Angriff der gelben Blume stößt Zombies zusätzlich 1,5 Felder weit zurück. Bevor sich die violette Blume zu einer gelben Blume entwickelt, wächst die violette Blume alle 6 Sekunden um eine Stufe, sofern sich Rabbit nicht im Angriffszustand befindet.
@@ -40203,13 +40202,13 @@ Die Blattlose Riemenblume lässt eine große Blume erblühen, die von fünf Vög
 Die Anzahl der durch die große Spezialdünger-Fähigkeit angelockten Vögel erhöht sich auf sechs.
 
 [CHAINSAWBURMANNII]
-Chainsaw Burmannii
+Kettensägen Burmannii
 
 [CHAINSAWBURMANNII_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Ein Kreis
 {KEYWORD}Eigenschaften: {STAT}Wirft einen Bumerang, der sich um sich selbst dreht und umstehende Zombies angreift
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
-{FLAVOR}Chainsaw Burmannii war seit seiner Kindheit gut in Kreisbewegungen und dachte naiverweise, dass ihn das zu einem Physikgenie machen würde. Doch als Erwachsener nutzte er dieses Talent und gewann mehrere Jo-Jo-Weltmeisterschaften.
+{FLAVOR}Kettensägen Burmannii war seit seiner Kindheit gut in Kreisbewegungen und dachte naiverweise, dass ihn das zu einem Physikgenie machen würde. Doch als Erwachsener nutzte er dieses Talent und gewann mehrere Jo-Jo-Weltmeisterschaften.
 
 [CHAINSAWBURMANNII_DESCRIPTION_HEADER]
 Wirft einen Bumerang um sich und greift die umstehenden Zombies kontinuierlich an.
@@ -40251,13 +40250,13 @@ Beim Abschuss eines Bumerangs besteht die Chance, dass er größer wird und dopp
 Wenn sich Zombies im Umkreis von 3×3 befinden, Drei Bumerangs werden abgefeuert und durchdringen alle Zombies. Jeder Bumerang verursacht bei jedem Treffer Feuerschaden. Der Bumerang dreht sich weiter um sich selbst und kehrt nach einer gewissen Zeit der kontinuierlichen Rotation zurück. Nach der Rückkehr verharrt die Pflanze in einem Ruhezustand und erholt sich nach 5 Sekunden.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL2_DES]
-1 von 3 Bumerangs verwandelt sich in blaue Flammen. Schaden verdoppelt sich, Ruhezeit verkürzt sich um 2,5 Sekunden.
+1 von 3 Bumerangs verwandeln sich mit blauen Flammen. Schaden verdoppelt sich, Die Ruhezeit verkürzt sich um 2,5 Sekunden.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL3_DES]
-2 von 3 Bumerangs verwandelt sich in blaue Flammen. Schaden verdoppelt sich, Ruhezeit verkürzt sich um weitere 2,5 Sekunden.
+2 von 3 Bumerangs verwandeln sich mit blauen Flammen. Schaden verdoppelt sich, Die Ruhezeit verkürzt sich um weitere 2,5 Sekunden.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen. (Große Aktion!)
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die  direkt freizusetzen.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL5_DES]
 Einer der beiden blauen Flammenbumerangs verwandelt sich in eine violette Flamme, verdreifacht den Schaden und erweitert die Angriffsreichweite auf 5×5, sodass jedes Mal sechs Bumerangs geschleudert werden.
@@ -40324,7 +40323,7 @@ Das Angriffsintervall wird um 0,25 reduziert und der Schadensmultiplikator um da
 Das Angriffsintervall wird um 0,5 reduziert und der Schadensmultiplikator um das 2-fache erhöht.
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL4_DES]
-Beim Platzieren besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
+Beim Platzieren besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL5_DES]
 Das Ende des Drahtes kann andere elektrische Anlagen anvisieren. Beim Anvisieren anderer elektrischer Anlagen wird die Angriffskraft der Zielanlage entsprechend der Stärke des aktuellen Drahtes erhöht.
@@ -43095,46 +43094,46 @@ Orchideen-Magierkostüm
 Die Spezialdünger Fähigkeit ist ein verstärkter Schwerkraftball. Die Reichweite, mit der Zombies nach der Explosion angezogen werden, verdoppelt sich.
 
 [ZOYBEANPOD]
-僵尸豆荚
+Megamame
 
 [ZOYBEANPOD_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}豆腐僵尸向前行走啃咬其他僵尸。
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}虽然豆腐僵尸们不太能打，但是至少他们外形到位了，完美混入僵尸群。并且因为他们闻起来有阵阵清香，拥有如此明显的特征，其他植物也不会误伤他们了。
+{KEYWORD}Reichweite: {STAT} 1 Reihe vorwärts
+{KEYWORD}Merkmale: {STAT} Tofu-Zombies laufen vorwärts und beißen andere Zombies.
+{KEYWORD}Pflanzenmerkmale: {STAT} Grüne Pflanzen
+{FLAVOR}Megamame ist felsenfest überzeugt: "Pflanzliche Zomboiden zu entwickeln, ist ein Paradebeispiel für gelungene Mimikry – und ethisch voll vertretbar!"
 
 [ZOYBEANPOD_DESCRIPTION_HEADER]
-生成豆腐僵尸，豆腐僵尸向前行走啃咬其他僵尸
+Megamamen wachsen aus Sprösslingen zu vollständigen Schoten heran und springen dann auf, um Pflanzen-Zomboiden freizulassen, die die Zombies angreifen.
 
 [ZOYBEANPOD_TOOLTIP]
-生成豆腐僵尸，豆腐僵尸向前行走啃咬其他僵尸
+Lässt nützliche Zomboiden sprießen!
 
 [ZOYBEANPOD_PRODUCT_SHORT_DESC]
-生成豆腐僵尸，豆腐僵尸向前行走啃咬其他僵尸
+Lässt nützliche Zomboiden sprießen!
 
 [ZOYBEANPOD_SKILL_LEVEL1]
-胡萝卜帽
+Karottenhut
 
 [ZOYBEANPOD_SKILL_LEVEL1_DES]
-生成的僵尸50%概率是胡萝卜帽僵尸
+Der generierte Zombie hat eine 50%ige Chance ein Karottenhut-Zombie zu sein.
 
 [ZOYBEANPOD_SKILL_LEVEL2]
-西瓜帽
+Wassermelonenhut
 
 [ZOYBEANPOD_SKILL_LEVEL2_DES]
-生成的僵尸35%概率是胡萝卜帽僵尸，35%概率是西瓜帽僵尸
+Der generierte Zombie hat eine 35%ige Chance ein Karottenhut-Zombie und eine 35%ige Chance ein Wassermelonenhut-Zombie zu werden.
 
 [ZOYBEANPOD_SKILL_LEVEL5]
-机枪僵尸
+Maschinengewehr-Zombie
 
 [ZOYBEANPOD_SKILL_LEVEL5_DES]
-生成的僵尸15%概率是机枪豌豆僵尸
+Es besteht eine 15%ige Chance, dass der generierte Zombie ein Maschinengewehr-Erbsen-Zombie ist.
 
 [STORE_PRODUCT_AVATAR_ZOYBEANPOD_TITLE]
-僵尸豆荚装扮
+Megamame Kostüm
 
 [STORE_PRODUCT_AVATAR_ZOYBEANPOD]
-豆荚长大后裂开走出巨型豆腐僵尸手里拿的甜菜升级为长毛的萝卜，同时敲击的敌方僵尸有3秒眩晕。
+Wenn die Schote wächst, platzt sie auf und der riesige Tofu-Zombie kommt heraus. Die Rote Bete in seiner Hand verwandelt sich in eine haarige Karotte. Der getroffene gegnerische Zombie wird 3 Sekunden lang betäubt.
 
 [RIFLEBAMBOO]
 突击竹兵
@@ -43346,16 +43345,16 @@ Feuersturm gelenkter Pfeile.
 Feuersturm gelenkter Pfeile.
 
 [HEATHSEEKER_SKILL1_LEVEL1]
-尖刺强化
+Stachel-Verbesserung
 
 [HEATHSEEKER_SKILL1_LEVEL1_DES]
-子弹数量+1，每颗子弹穿透次数+1
+Anzahl der Kugeln +1, Anzahl der Durchschläge pro Kugel +1
 
 [HEATHSEEKER_SKILL1_LEVEL2]
-尖刺进化
+Stachel-Evolution
 
 [HEATHSEEKER_SKILL1_LEVEL2_DES]
-子弹数量再次+1，每颗子弹穿透次数再次+1
+Anzahl der Kugeln +1, Anzahl der Durchschläge pro Kugel +1
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER_TITLE]
 Heiße Heide Kostüm
@@ -43799,245 +43798,243 @@ Freischaltbar nach Abschluss von Level {NUMS}
 植物套餐感恩礼包
 
 [PLANT_LIMIT_LOTTERY]
-限时转盘
+Zeitlich begrenztes Glücksrad
 
 [PLANT_SPECIAL_OFFER_AVATAR_NAME]
-装扮
+Outfit
 
 [PLANT_SPECIAL_OFFER_PREVIEW]
-预览
+Vorschau
 
 [STORE_CATEGORY_NAME_PLANT_SPECIAL_OFFER_DESC]
-购买植物套餐
+Pflanzenpaket kaufen
 
 [STORE_CATEGORY_NAME_PLANT_SPECIAL_OFFER_SHORT_DESC]
-植物套餐
-
+Pflanzenpaket
 
 [ENDLESS_CATEGORY_NAME_PLANT_SPECIAL_OFFER_DESC]
-购买无尽礼包
+Endloses Geschenkpaket kaufen
 
 [ENDLESS_CATEGORY_NAME_PLANT_SPECIAL_OFFER_SHORT_DESC]
-无尽礼包
+Endloses Geschenkpaket
 
 [PRODUCT_LION_DANCE_01]
-购买小号鞭炮礼包
+Kleines Knallerpaket kaufen
 
-[PRODUCT_LION_DANCE_01_SHORTDESC]
-小号鞭炮礼包
+[PRODUCT_LION_DANCE_01_SH ORTDESC]
+Kleines Knallergeschenk Paket
 
 [PRODUCT_LION_DANCE_02]
-购买特惠鞭炮礼包
+Kaufe ein spezielles Feuerwerkskörper-Geschenkpaket
 
 [PRODUCT_LION_DANCE_02_SHORTDESC]
-特惠鞭炮礼包
+Kaufe ein spezielles Feuerwerkskörper-Geschenkpaket
 
 [PRODUCT_LION_DANCE_03]
-购买中号鞭炮礼包
+Kaufe ein mittleres Feuerwerkskörper-Geschenkpaket
 
 [PRODUCT_LION_DANCE_03_SHORTDESC]
-中号鞭炮礼包
+Kaufe ein mittleres Feuerwerkskörper-Geschenkpaket
 
 [PRODUCT_LION_DANCE_04]
-购买大号鞭炮礼包
+Kaufe ein großes Feuerwerkskörper-Geschenkpaket
 
 [PRODUCT_LION_DANCE_04_SHORTDESC]
-大号鞭炮礼包
+Kaufe ein großes Feuerwerkskörper-Geschenkpaket
 
 [PLANT_OFFER_LABEL_NAME]
-额外还送
+Zusätzliches Geschenk
 
 [PLANT_OFFER_OPEN_TEXT]
-如果已拥有同类植物或装扮，将会转换成相应数量的碎片
+Wenn du die gleiche Pflanze oder das gleiche Kostüm bereits besitzt, wird es in die entsprechende Anzahl an Fragmenten umgewandelt.
 
 [PLANT_OFFER_OPEN_TITLE]
-植物套餐
+Pflanze Paket
 
 [ACTIVITY_HOME_RECGAGE_AWARD]
-节日特惠 限时热卖
+Ferien-Sonderangebot (befristet)
 
 [PVZ_ERROR_75000]
-检测到数据异常，重新载入存档。
+Datenanomalie erkannt. Spielstand wird neu geladen.
 
 [PVZ_ERROR_90000]
-同步云存档失败。
+Cloud-Spielstand konnte nicht synchronisiert werden.
 
 [PVZ_ERROR_90001]
-您的本地存档存在非法数据，将使用云端存档继续游戏。
+Ihre lokale Speicherdatei enthält ungültige Daten. Sie werden die Cloud-Speicherdatei verwenden, um das Spiel fortzusetzen.
 
 [PVZ_ERROR_90002]
-上传本地存档失败
+Das Hochladen der lokalen Speicherdatei ist fehlgeschlagen.
 
 [PVZ_ERROR_75012]
-您的数据已被工作人员更改，重新载入存档成功。
+Ihre Daten wurden vom Team geändert. Die Speicherdatei wurde erfolgreich neu geladen.
 
 [PVZ_ERROR_75706]
-本局对战已经开始。
+Das Spiel wurde gestartet.
 
 [PVZ_LOGIN_CHEAT_ERROR]
-经系统检测您的存档异常，已经被禁止登陆，如有疑问请联系客服QQ：4008932088
-您的UID：{UID}
+Das System hat festgestellt, dass Ihr Spielstand fehlerhaft ist und Ihnen die Anmeldung verweigert wurde. Bei Fragen wenden Sie sich bitte an den Kundenservice unter QQ: 4008932088
+Ihre UID: {UID}
 
 [PVZ_COPY_INFO]
-点击复制
+Zum Kopieren klicken
 
 [PVZ_COPY_COMPLETE]
-复制成功
+Kopieren erfolgreich
 
 [PVZ_PROFILE_ERROR]
-存档异常
+Spielstand fehlerhaft
 
 [PVZ_PROFILE_CHECK_CHEAT]
-请先登陆，或在检测网络状态正常后重新登陆
+Bitte melden Sie sich zuerst an oder melden Sie sich erneut an, nachdem Sie überprüft haben, ob der Netzwerkstatus normal ist.
 
 [EXIT_GAME]
-退出游戏
+Spiel beenden
 
 [PVZ_LOGIN_GO_UPDATE]
-去更新
+Zum Update
 
 [PVZ_LOGIN_LOW_VERSION]
-您的当前版本过低，请使用最新版本进行游戏！
+Deine aktuelle Version ist zu niedrig. Bitte verwende die neueste Version, um das Spiel zu spielen!
 
 [PVZ_LOGIN_LOW_VERSION_WWAN]
-您当前不是wifi网络下，确定使用流量下载更新？
+Du bist derzeit nicht mit einem WLAN verbunden. Möchtest du wirklich Datenverkehr zum Herunterladen von Updates nutzen?
 
 [PVZ_LOGIN_ERROR_TOKEN]
-网络错误，请重新登录。
+Netzwerkfehler. Bitte melde dich erneut an.
 
 [PVZ_LOGIN_LOW_SETTING_WIFI]
-设置wifi
+WLAN einrichten
 
 [PVZ_LOGIN_LOW_ALSO_UPDATE]
-仍然更新
+Aktualisiere weiterhin
 
 [PVZ_LOGIN_ANTI_ADDICTION]
-对不起，根据我国相关法规，未成年人不可在周五、周六、周日和法定节假日20时至21时以外时间登录游戏。请您合理安排游戏时间。
+Entschuldigung! Minderjährige dürfen sich gemäß den geltenden Gesetzen und Vorschriften unseres Landes freitags, samstags, sonntags und an gesetzlichen Feiertagen nicht außerhalb der Zeit von 20:00 bis 21:00 Uhr im Spiel anmelden. Bitte teile deine Spielzeit entsprechend ein.
 
 [STORE_CATEGORY_NAME_DUMPLING1_SHORT_DESC]
-粽子x1
+1 x Knödel
 
 [STORE_CATEGORY_NAME_DUMPLING10_SHORT_DESC]
-小型祝福礼包
+Kleines Segensgeschenkpaket
 
 [STORE_CATEGORY_NAME_DUMPLING1_DESC]
-购买一个粽子
+Knödel kaufen
 
 [STORE_CATEGORY_NAME_DUMPLING10_DESC]
-购买小型祝福礼包
+Kleines Segensgeschenkpaket kaufen
 
 [DUMPLING_NUM_DESC]
-已收到粽子
+Knödel erhalten
 
 [DUMPLING_OPEN]
-剥开粽子
+Knödel öffnen
 
 [ONBINDING_FAILED_45015]
-绑定失败，您的存档已经绑定过三次。
+Bindung fehlgeschlagen. Ihr Archiv wurde dreimal gebunden.
 
 [ONBINDING_FAILED_45020]
-绑定失败，您的存档最多只能绑定3台设备。
+Bindung fehlgeschlagen. Ihr Archiv kann maximal an 3 Geräte gebunden werden.
 
 [ONTRANSFER_FAILED_45016]
-转移失败，您的存档已经转移过三次。
+Übertragung fehlgeschlagen. Dein Archiv wurde dreimal übertragen.
 
 [ONTRANSFER_FAILED_45019]
-转移失败，您的存档已经被封停，请联系客服。
+Übertragung fehlgeschlagen, dein Spielstand wurde gesperrt. Bitte kontaktiere den Kundenservice.
 
 [ONTRANSFER_FAILED_45016]
-转移失败，您的存档已经转移过三次。
+Übertragung fehlgeschlagen, dein Spielstand wurde dreimal übertragen.
 
 [WORLDCUP_TUTORIAL_ADVICE_1]
-只可以在有标记的地方种植植物，来布置你的阵型!
+Du kannst Pflanzen nur an markierten Stellen pflanzen, um deine Formation zu bilden!
 
 [WORLDCUP_TUTORIAL_ADVICE_2]
-头上有球权标记的僵尸出现！
+Ein Zombie mit einer Ballbesitzmarkierung auf dem Kopf erscheint!
 
 [WORLDCUP_TUTORIAL_ADVICE_3]
-干掉它，你的植物就会获得球权和拥有一次射门机会！
+Töte ihn, und deine Pflanze bekommt den Ball und kann schießen!
 
 [WORLDCUP_TUTORIAL_ADVICE_4]
-将球拖到植物上就可以射门！
+Du kannst schießen, indem du den Ball auf die Pflanze ziehst!
 
 [WORLDCUP_TUTORIAL_ADVICE_5]
-限制时间内必须战胜僵尸，才算胜利，平局则需再次挑战！
+Du musst den Zombie innerhalb des Zeitlimits besiegen, um zu gewinnen. Bei einem Unentschieden musst du erneut antreten!
 
 [WORLDCUP_TUTORIAL_ADVICE_6]
-加油吧，亲爱的玩家，在运动会上大展风采！完成教学关卡可以获得冰球奖牌哦！！！
+Los, liebe Spieler, zeigt euer Talent beim Sporttreffen! Ihr könnt eine Hockey-Medaille gewinnen, indem ihr das Tutorial-Level abschließt!
 
 [PVZ_WORLDCUP_TITLE]
-冰球赛
+Hockeyspiel
 
 [PVZ_WORLDCUP_DES]
- 玩法概述：
-·游戏中会出现大量的僵尸，其中头上有球权的僵尸走到我方底线则算进一球。
-·玩家扮演植物一方，要布置阵容，布置好阵容后，植物击杀有球权标识的僵尸则会获得球权能量豆，拖动冰球能量豆到有球权的植物上，则可以发射足球。
-·拖动能量豆到非拥有球权的植物，则是先将球传给该植物再进行射门。
-·冰球在前进的路上没有僵尸阻挡或者杀死僵尸则继续前进，前进到底线则算玩家获得一分。
-·时间结束后进球一方多的获胜，如平局玩家可以再次挑战。
-·完成关卡会获得丰厚的奖励哦 ！
+Spielübersicht:
+·Im Spiel erscheinen viele Zombies. Wenn ein Zombie mit einem Ball auf dem Kopf unsere Grundlinie erreicht, wird das als Tor gewertet.
+·Der Spieler schlüpft in die Rolle der Pflanze und muss die Aufstellung treffen. Sobald die Aufstellung getroffen ist, erhält die Pflanze die Ball-Energiebohne, wenn sie den Zombie mit der Ballmarkierung tötet. Zieht die Hockey-Energiebohne zur Pflanze mit dem Ball, und ihr könnt den Football schießen.
+· Ziehe die Energiebohne zu der Pflanze, die keinen Ball hat, und spiele den Ball vor dem Schuss an die Pflanze weiter.
+· Wenn kein Zombie den Hockey auf dem Weg nach vorne blockiert oder der Zombie getötet wird, bewegt er sich weiter vorwärts. Erreicht er die Grundlinie, erhält der Spieler einen Punkt.
+· Nach Ablauf der Zeit gewinnt die Mannschaft mit den meisten Toren. Bei Unentschieden können die Spieler erneut antreten.
+· Schließe das Level ab und erhalte tolle Belohnungen!
 
 [PVZ_WORLDCUP_LEFT_TICKET]
-剩余票数: {NUM}
+Anzahl der verbleibenden Tickets: {NUM}
 
 [PVZ_WORLDCUP_SELECT_TEAM]
-选择球队
+Wähle ein Team
 
 [PVZ_WORLDCUP_SELECTTEAM_TITLE]
-选择球队
+Wähle ein Team
 
 [PVZ_WORLDCUP_BEGIN]
-开始比赛
+Spiel starten
 
 [PVZ_WORLDCUP_RESULT]
-比赛结果
+Spielergebnis
 
 [PVZ_WORLDCUP_VICTORY]
-胜利
+Sieg
 
 [PVZ_WORLDCUP_DEFEATED]
-失败
+Niederlage
 
 [PVZ_WORLDCUP_RESELECTTEAM]
-重选球队
+Wähle ein Team erneut
 
 [PVZ_WORLDCUP_ENDGAME]
-结束游戏
+Spiel beenden
 
 [PVZ_WORLDCUP_RULE]
-冰球赛活动规则
+Hockey-Spielregeln
 
 [PVZ_WORLDCUP_BUYTICKETS]
-没有挑战次数了，是否消耗^4FC148 {GEM_COUNT}颗钻石 ^oldclr 购买1张门票？
+Keine weiteren Challenge-Zeiten. Möchtest du verbrauchen? ^4FC148 {GEM_COUNT} Diamanten ^oldclr 1 Ticket kaufen?
 
 [PVZ_WORLDCUP_CANNOT_BUYTICKETS]
-购买次数已用完
+Die Anzahl der Käufe ist aufgebraucht.
 
 [PVZ_WORLDCUP_TEAM1_DES_1]
-^ffed86 防御型 ^oldclr  通过将僵尸冰冻起来来建立优势并获得游戏胜利。
+^ffed86 Defensiv ^oldclr Verschaffe dir einen Vorteil und gewinne das Spiel, indem du Zombies einfrierst.
 
 [PVZ_WORLDCUP_TEAM1_DES_2]
-进攻指数: ^00e46e 3 ^oldclr
+Offensivwertung: ^00e46e 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM1_DES_3]
-防守指数: ^00e46e 4 ^oldclr
+Defensivwertung: ^00e46e 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM1_DES_4]
-综合实力: ^00e46e 3 ^oldclr
+Gesamtstärke: ^00e46e 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM1_DES_5]
-^ffed86 阵容 ^oldclr : 水晶兰   冰龙草   寒冰菇
+^ffed86 Aufstellung ^oldclr: Kristallorchidee, Eisdrachengras, Eispilz
 [PVZ_WORLDCUP_TEAM1_DES_6]
 
-
 [PVZ_WORLDCUP_TEAM5_DES_1]
-^ffed86 防御型 ^oldclr  植物家族的骑士们，不会让任何一个僵尸带着球靠近他们身边。
+^ffed86 Defensiv ^oldclr Die Ritter der Pflanzenfamilie lassen keinen Zombie mit dem Ball an sich heran.
 
 [PVZ_WORLDCUP_TEAM5_DES_2]
-进攻指数: ^ee2c2c 4 ^oldclr
+Offensivwertung: ^ee2c2c 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM5_DES_3]
-防守指数: ^00e46e 3 ^oldclr
+Defensivwertung: ^00e46e 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM5_DES_4]
 综合实力: ^ee2c2c 4 ^oldclr
@@ -44248,16 +44245,16 @@ Freischaltbar nach Abschluss von Level {NUMS}
 当前赛事进度  {NUM} / 7
 
 [PVZ_WORLDCUP_UNLOCKTEAM]
-解锁球队
+Team freischalten
 
 [PVZ_SUMMER_RECHARGEREWARD]
-充值大返利
+Aufladerabatt
 
 [STEAM_MINIGAME_GOAL]
-目标 : {NUMBER}
+Ziel: {NUMBER}
 
 [STEAM_CONTINUITYHIT_GOAL]
-{NUMBER}连击
+{NUMBER}-Kombination
 
 [FLATTENEDSHROOM]
 Plattkopfpilz
@@ -44969,162 +44966,160 @@ vivo游戏中心特权
 4.团购购买的植物为3阶或2阶植物，在已经有相同植物的情况下，会折算成同等级的植物碎片，装扮为装扮碎片
 
 [VOTE]
-投票
+Abstimmen
 
 [VOTE_NUMBER]
-^FFFF00 票数：^oldclr ^FF0000 {NUM} ^oldclr
+^FFFF00 Stimmen: ^oldclr ^FF0000 {NUM} ^oldclr
 
 [VOTE_COUNTER]
-投票倒计时
+Countdown zur Abstimmung
 
 [VOTE_RESULT]
-投票结果
+Abstimmungsergebnisse
 
 [VOTE_RESULT_DES]
-以下是本次投票评选结果
+Die folgenden Ergebnisse dieser Abstimmung:
 
 [VOTE_NO_TICKETS]
-票数不足
+Nicht genügend Stimmen
 
 [VOTE_CONFIRM]
-确认投票？
+Abstimmung bestätigen?
 
 [VOTE_SUCCESS]
-投票成功！
+Abstimmung erfolgreich!
 
 [VOTE_NEED]
-投票满 ^FF0000 {NUM} ^oldclr 票
+Stimmen erreicht: ^FF0000 {NUM} ^oldclr
 
 [VOTE_REWARD]
-投票奖励
+Stimmbelohnungen
 
 [VOTE_CUSTOM]
-定制投票
+Individuelle Abstimmung
 
 [HINT_CONFIRM]
-确认提示
+Bestätigungshinweis
 
 [VOTE_HINT_CONFIRM]
-是否确认为此植物投下您宝贵的一票？
+Möchtest du wirklich für diese Pflanze stimmen?
 
 [NO_CONDITIONS]
-未满足条件
+Bedingungen nicht erfüllt
 
 [LUCKBAG_ANNOUNCEMENT_TITLE]
-六一福袋
+Glückstüte vom 1. Juni
 
 [LUCKBAG_ANNOUNCEMENT_CONTENT]
-活动内容：选定6颗心仪植物进入福袋，开启福袋后必得其中橙色植物*1 + 紫色植物*1
+Eventinhalt: Wähle 6 Pflanzen deiner Wahl aus und lege sie in die Glückstüte. Nach dem Öffnen der Glückstüte erhältst du eine orangefarbene Pflanze + eine violette Pflanze*1.
 
 [LUCKBAG_TITLE]
-六一福袋
+1. Juni Glückstüte
 
 [LUCKBAG_SELECT_PLANT]
-选择植物
+Pflanze auswählen
 
 [LUCKBAG_RESELECT_PLANT]
-重新选择
+Erneut auswählen
 
 [LUCKBAG_SELECT_TITLE]
-六一福袋礼包配置
+Konfiguration des Geschenkpakets der Glückstüte vom 1. Juni
 
 [LUCKBAG_CONFIRM]
-福袋确认
+Glückstüte bestätigen
 
 [LUCKBAG_CONFIRM_CONTENT]
-您选择的福袋植物为：
+Die von dir ausgewählte Glückstütenpflanze ist:
 
 [LUCKBAG_BUY]
-45元激活
+45 Yuan Aktivierung
 
 [LUCKBAG_DESCRIPTION]
-福袋说明
+Beschreibung der Glückstüte
 
 [LUCKBAG_SELECT_ALL]
-每一行都要选的哦！
+Du musst jede Zeile auswählen!
 
 [LUCKBAG_DESCRIPTION_CONTENT]
-活动内容：
-1. 一共可以选择4棵橙色植物，2棵紫色植物放进福袋里面，开启福袋后必得其中橙色植物*1 + 紫色植物*1。
-2. 福袋可以重复购买，植物也可以重新选择。
-3. 如果玩家已经拥有了福袋里的植物，则奖励会转换成10个植物碎片。
+Aktivitätsinhalt:
+1. Du kannst insgesamt 4 orangefarbene und 2 violette Pflanzen für die Glückstüte auswählen. Nach dem Öffnen der Wundertüte musst du 1 orangefarbene Pflanze* + 1 violette Pflanze* erhalten.
+2. Wundertüten können wiederholt gekauft und Pflanzen erneut ausgewählt werden.
+3. Wenn der Spieler die Pflanzen bereits in der Wundertüte hat, wird die Belohnung in 10 Pflanzenfragmente umgewandelt.
 
-福袋概率公示
-橙色植物: 
-第一行植物 34.9%     第二行植物  30.3%   
-第三行植物 21.8%      第四行植物  13.0%
-紫色植物:
-第五行植物 36.4%      第六行植物  63.6%
+Wundertüten-Wahrscheinlichkeitsanzeige
+Orangefarbene Pflanzen:
+1. Reihe: 34,9 %, 2. Reihe: 30,3 %, 3. Reihe: 21,8 %, 4. Reihe: 13,0 %
+Violette Pflanzen:
+5. Reihe: 36,4 %, 6. Reihe: 63,6 %
 
 [LUCKBAG_COUNT]
-第{NUM}个
+{NUM}
 
 [LUCKBAG_SELECT]
-已选择
+Ausgewählt
 
 [LUCKBAG_TICKET]
-用券购买
+Mit Gutscheinen kaufen
 
 [LUCKBAG_TICKET_BUY]
-确认使用福袋券购买福袋？
+Möchtest du den Wundertüten-Gutschein wirklich zum Kauf der Wundertüte verwenden?
 
 [THEATER_SHOP_TITLE]
-剧院道具屋
+Theaterrequisitenladen
 
 [THEATER_REFRESH_CURRENCY]
-硬币刷新
+Coin-Aktualisierung
 
 [THEATER_REFRESH_ADS]
-看广告刷新
+Anzeigen ansehen und aktualisieren
 
 [THEATER_REFRESH_CURRENCY_CONFIRM]
-确定花费1硬币刷新商店？
+Möchten Sie wirklich 1 Münze ausgeben, um den Shop zu aktualisieren?
 
 [REFRESH_CURRENCY_CONFIRM]
-确定花费{NUMS}代币刷新商店？
+Möchten Sie wirklich {NUMS} Token ausgeben, um den Shop zu aktualisieren?
 
 [REFRESH_CURRENCY_CONFIRM_AD]
-确定花费{NUMS}代币或 ^FF0000 观看1次广告 ^oldclr 刷新商店（剩余{LEFT}次）？
+Möchten Sie wirklich {NUMS} Token oder ^FF0000 ausgeben, um 1 Anzeige anzusehen, ^oldclr, um den Shop zu aktualisieren ({LEFT} Mal verbleibend)?
 
 [DAILY_SIGN_CONFIRM_AD]
-^FF0000 观看1次广告 ^oldclr 补签1天？
+^FF0000, um 1 Anzeige anzusehen, ^oldclr, um sich für einen Tag anzumelden?
 
 [THEATER_PACKETS_DESCRIPTION]
-购买^FFFF00 1000 ^oldclr 金币赠送^FFFF00 1 ^oldclr 电力豆
-电力豆可用于文艺大剧院，触发事件获得^ef7600 橙色植物 ^oldclr 与稀有道具
+Kaufe 1000 ^oldclr-Goldmünzen für ^FFFF00 und erhalte 1 ^oldclr-Powerbohne gratis. Powerbohnen können im Großen Theater für Literatur und Kunst eingesetzt werden. Durch das Auslösen von Ereignissen erhältst du ^ef7600 orangefarbene Pflanzen, ^oldclr und seltene Gegenstände.
 
 [WINNETREASURE_AVATAR]
-装扮概率
+Verkleidungswahrscheinlichkeit
 
 [WINNETREASURE_AVATARPIECE]
-装扮碎片概率
+Verkleidungsfragmentwahrscheinlichkeit
 
 [RENAISSANCE_CHALLENGE]
-植物挑战
+Pflanzenherausforderung
 
 [RENAISSANCE_CHALLENGE_1]
-植物挑战
+Pflanzenherausforderung
 
 [STATUE_SHOP]
-雕像商店
+Statuenladen
 
 [STATUE_SHOP_1]
-雕像商店
+Statuenladen
 
 [STATUE_BUNDLE]
-雕像礼包
+Statuenpaket
 
 [STATUE_BUNDLE_1]
-雕像礼包
+Statuenpaket
 
 [MATERIAL_NOT_ENOUGH]
-材料不足
+Nicht genügend Materialien
 
 [OPERATE_TOO_FREQUENTLY]
-操作太频繁
+Operation zu häufig
 
 [RIFT_ICON_NOT_ENOUGH]
-时空币不足
+Nicht genügend Raum-Zeit-Münzen
 
 [AUSVERKAUFT]
 Ausverkauft
@@ -46758,92 +46753,92 @@ Große Goldnuggets-Geschenkpackung
 特大金块礼包
 
 [PENNY_GUIDE]
-潘妮的追击指南
+Leitfaden für Penny Jagd
 
 [PENNY_ADVANCED_GUIDE_DES]
-^FFFF00 高级指南 ^oldclr 
-活动期间，完成任务领取积分，积攒足够积分即可获得丰富潘妮追击奖励。
+^FFFF00 Erweiterter Leitfaden ^oldclr
+Erledige während des Events Aufgaben, um Punkte zu erhalten und genügend Punkte zu sammeln, um reichhaltige Belohnungen für Pennys Verfolgung zu erhalten.
 
 [PENNY_ADVANCED_GUIDE_BUY]
-^FFFF00 30 ^oldclr 元购买
+^FFFF00 30 ^oldclr Yuan kaufen
 
 [PENNY_INTGETRAL]
-积分数量：
+Punkteanzahl:
 
 [PENNY_GUIDE_PASS_LEVEL_3]
-通关3次潘妮追击关卡
+Penny Chase-Level 3-mal abschließen
 
 [PENNY_GUIDE_KILL_ZOMBIE_50]
-在潘妮追击关卡中消灭50只僵尸
+50 Zombies im Penny Chase-Level töten
 
 [PENNY_GUIDE_OBTAIN_SIGNAL_50]
-获得僵博50信号
+50 Signale von Zombies erhalten
 
 [PENNY_GUIDE_CONSUME_FUEL_35]
-累计消耗35燃料电池
+35 Brennstoffzellen verbrauchen
 
 [PENNY_GUIDE_ZOMBIE_BOSS_6]
-累计完成挑战僵博6次
+6 Zombie-Herausforderungen abschließen
 
 [PENNY_GUIDE_OBTAIN_SIGNAL_200]
-累计获得僵博200信号
+200 Signale von Zombies erhalten
 
-[PENNY_GUIDE_WIN_ZOMBIE_BOSS_2]
-累计成功挑战僵博2次
+[PENNY_GUIDE_WIN_ZOMBIE_BOSS OSS_2]
+Zombie Bo 2-mal erfolgreich herausgefordert
 
 [PENNY_GUIDE_OBTAIN_SUNMONEY_25000]
-在潘妮追击中产出25000阳光
+Produziere 25.000 Sonnenschein während Pennys Verfolgung.
 
 [PENNY_GUIDE_ADD_PLANT_400]
-在潘妮追击中种植400植物
+Pflanze 400 Pflanzen während Pennys Verfolgung.
 
 [PENNY_GUIDE_KILL_ZOMBIE_500]
-在潘妮追击中消灭500僵尸
+Töte 500 Zombies während Pennys Verfolgung.
 
 [PENNY_GUIDE_PLANTFOOD_50]
-在潘妮追击中释放50次大招
+Setze 50 Ultimates während Pennys Verfolgung frei.
 
 [TRAVELLOG]
-旅行原木
+Reisetagebuch
 
 [TRAVEL_LOG_DAILY_TASK]
-每日任务
+Tägliche Aufgaben
 
 [TRAVEL_LOG_WEEKLY_TASK]
-特殊事件
+Besondere Ereignisse
 
 [TRAVEL_LOG_WORLD_TASK]
-世界任务
+Weltaufgaben
 
 [TRAVEL_LOG_PROGRASS]
-进度
+Fortschritt
 
 [TRAVEL_LOG_COMPLETED_TASK]
-已完成
+Abgeschlossen
 
 [TRAVEL_LOG_RESET_TASK]
-已重置
+Zurückgesetzt
 
 [TRAVEL_LOG_OBTAINED]
-您已领取过该宝箱，无法再次领取
+Du hast diese Schatztruhe bereits beansprucht und kannst sie nicht erneut beanspruchen.
 
 [DAY_HOUR]
-{NUM1}天{NUM2}时
+{NUM1} Tage{NUM2} Stunden
 
 [HOUR_MIN]
-{NUM1}时{NUM2}分
+{NUM1} Stunden{NUM2} Minuten
 
 [MIN_SEC]
-{NUM1}分{NUM2}秒
+{NUM1} Minuten{NUM2} Sekunden
 
 [UNLIMITED]
-不限
+Unbegrenzt
 
 [UNKNOWN]
-未知
+Unbekannt
 
 [FINISHED]
-已结束
+Beendet
 
 [DO_NOT_NEED_TO_JUMP]
 Du bist bereits in dieser Welt, du brauchst nicht noch einmal zu springen!
@@ -48450,7 +48445,7 @@ Nach dem Verschlucken des Goldenen Krötenpilzes erhöht sich die erzeugte Sonne
 Die Angriffsgeschwindigkeit der elektrischen Blaubeere erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_SLINGPEA]
-Der Schaden von Erbsenmörsergranaten erhöht sich um {Param_1}%, und der Schaden von Bombenerbsen erhöht sich um {Param_2}%
+Der Schaden von Schleudererbsegranaten erhöht sich um {Param_1}%, und der Schaden von Bombenerbsen erhöht sich um {Param_2}%
 
 [GENE_DESCRIPTION_BIRTHSUNFLOWER]
 Der Angriffskraftbonus von Sonnenblumensänger erhöht sich um {Param_1}%.
@@ -52130,7 +52125,7 @@ Kaktus-Party-Assistenzkostüm
 Erhöhte Wahrscheinlichkeit für Fertigkeiten der zweiten Stufe
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_1]
-Chef Shaolans Kindertagskostüm
+Chefkoch Cypripediums Kindertagskostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TALLNUT_2]
 Kindertags-Outfit
@@ -52238,7 +52233,7 @@ Bearberry Mörser-Jubiläumskostüm Kostüm
 Angriffskraft um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_1]
-Jubiläumskostüm „Kleiner „Erbsenmörser“
+Jubiläumskostüm „Kleiner „Schleudererbse“
 
 [NEW_AVATAR_DESCRIPTION_SLINGPEA_1]
 Angriffskraft um 10% erhöht
@@ -54306,1373 +54301,1369 @@ Schütze unser Saatgut
 恭喜你获得了首充礼包！赶紧选择一个奖励吧！
 
 [EQUIP]
-装备
+Ausrüsten
 
 [UNEQUIP]
-卸下
+Ablegen
 
 [SWITCH]
-切换
+Wechseln
 
 [ARROW_TO]
 {NUM1}→{NUM2}
 
 [SKILL_PREVIEW]
-技能预览
+Fertigkeitsvorschau
 
 [ARTIFACT_SELECT]
-选择你的神器
+Wähle dein Artefakt
 
 [ARTIFACT]
-神器
+Artefakt
 
 [ARTIFACT_CULTIVATION]
-神器强化
+Artefaktverstärkung
 
 [ARTIFACT_LEVEL_UP]
-神器升级
+Artefakt-Upgrade
 
 [ARTIFACT_RANK_UP]
-神器进阶
+Artefakt-Rangliste
 
 [DETAILS]
-详情
+Details
 
 [MAT_ARTIFACT_BLESS_NORMAL]
-普通祝福券
+Normales Segensticket
 
 [MAT_ARTIFACT_BLESS_ADVANCE]
-高级祝福券
+Erweitertes Segensticket
 
 [MAT_ARTIFACT_BLESS_NORMAL_USE]
-用于神器普通祝福
+Für Artefakt (Normal) Segen
 
 [MAT_ARTIFACT_BLESS_NORMAL_GOT_WAY]
-回忆之旅商店彩色蜗牛币兑换
+Eintauschbar gegen farbige Schneckenmünzen im Shop „Reise der Erinnerungen“
 
 [MAT_ARTIFACT_BLESS_ADVANCE_USE]
-用于神器高级祝福
+Für die erweiterte Segnung von Artefakten
 
 [MAT_ARTIFACT_BLESS_ADVANCE_GOT_WAY]
-神器商店礼包购买获得
+Erhältlich durch den Kauf von Geschenkpaketen im Artefakt-Shop
 
 [MAT_AVATAR_TICKET]
-装扮兑换券
+Dekorativer Tauschgutschein
 
 [MAT_AVATAR_TICKET_USE]
-用于兑换装扮
+Eintauschbar gegen Kostüme
 
 [MAT_AVATAR_TICKET_GOT_WAY]
-装扮商店购买获得
+Erhältlich durch den Kauf von Kostümen im Kostüm-Shop
 
 [ARTIFACT_BLESS_CHECK_FAILED_TITLE]
-提示
+Tipp
 
 [ARTIFACT_BLESS_CHECK_FAILED_TXT]
-没有足够的祝福券！
+Nicht genügend Segensgutscheine!
 
 [ARTIFACT_BLESS]
-神器祝福
+Artefaktsegen
 
 [ARTIFACT_BLESS_NORMAL]
-普通祝福
+Normaler Segen
 
 [ARTIFACT_BLESS_ADVANCED]
-高级祝福
+Erweiterter Segen
 
 [ARTIFACT_BLESS_MATERIAL_ADVANCE_NOT_ENOUGH]
-高级祝福券不足，是否跳转到神器礼包商店？
+Nicht genügend Gutscheine für fortgeschrittene Segnungen. Möchtest du direkt zum Shop für Artefakt-Geschenkpakete wechseln?
 
 [ARTIFACT_BLESS_MATERIAL_NORMAL_NOT_ENOUGH]
-普通祝福券不足，可以通过回忆之旅商店等途径获取。
+Nicht genügend Gutscheine für normale Segnungen. Du kannst sie über den Shop für Erinnerungsreisen und andere Kanäle erhalten.
 
 [ARTIFACT_BLESS_LEGEND_TIPS]
-高稀有度祝福概率提升，距离必出传奇还差^ff0000^{LEFT_COUNT}^oldclr^抽！
+Die Wahrscheinlichkeit für Segnungen hoher Seltenheit ist erhöht. Bis zum legendären Segen sind noch ^ff0000^{LEFT_COUNT}^oldclr^ Ziehungen übrig!
 
 [ARTIFACT_CURRENT_BLESS]
-当前神器祝福
+Aktueller Artefaktsegen
 
 [ARTIFACT_GLOBAL_BLESS]
-全局神器祝福
+Globaler Artefaktsegen
 
 [ARTIFACT_DETAILS_PREVIEW]
-神器效果详细预览
+Detaillierte Vorschau der Artefakteffekte
 
 [ARTIFACT_PREVIEW]
-祝福预览
+Vorschau des Segens
 
 [ARTIFACT_BLESS_DESCRIPTION_TITLE]
-祝福说明
+Beschreibung des Segens
 
 [ARTIFACT_BLESS_DESCRIPTION]
-1、可消耗祝福券对满级神器附加额外的增强效果。
-2、增强效果有^777777^普通^oldclr^,^0072ff^稀有^oldclr^,^8f43f5^史诗^oldclr^和^ec6a00^传奇^oldclr^4种等级
-3、2种祝福券刷出每个等级的概率不同，高级祝福券还可锁住一个属性只刷新另一个
-     普通祝福券概率(普通 54%，稀有 30%，史诗 15%，传奇1%)  高级祝福券概率(普通 17%，稀有 50%，史诗 30%，传奇 3%)
-4、会出现的增强效果有神器伤害增加，神器持续时间增加，神器控制效果增强，神器主动冷却缩减，神器使用次数增加， 神器被动2触发时间缩短，神器被动1效果增强，该神器的被动1不上场也会生效，初始阳光增加，首颗植物不进入冷却 以上10种
-5、普通~史诗的属性只对当前神器生效，传奇属性除了有特殊说明的个别效果以外对所有神器生效，并且具有唯一性，已经刷出的传奇属性在其他神器的祝福中不会再出现
-6、每种神器能够生效的属性不一样，不会在祝福中刷出不生效的属性的普通~史诗等级
-7、普通~史诗的效果会有浮动，传奇效果没有浮动，为固定属性。
-8、高级祝福券每60抽会必出1个传奇属性，这期间哪怕刷出过传奇属性也不会重置。
-
+1. Verbrauchbare Segensscheine können Artefakten der höchsten Stufe zusätzliche Verstärkungseffekte verleihen.
+2. Die Verstärkungseffekte umfassen die Stufen ^777777^gewöhnlich^altclr^, ^0072ff^selten^altclr^, ^8f43f5^episch^altclr^ und ^ec6a00^legend^altclr^4.
+3. Die Wahrscheinlichkeit, dass zwei Arten von Segensscheinen auf jeder Stufe erneuert werden, ist unterschiedlich. Erweiterte Segensgutscheine können auch ein Attribut sperren und nur das andere aktualisieren.
+Wahrscheinlichkeit für gewöhnliche Segensgutscheine (gewöhnlich 54 %, selten 30 %, episch 15 %, legendär 1 %).
+Wahrscheinlichkeit für erweiterte Segensgutscheine (gewöhnlich 17 %, selten 50 %, episch 30 %, legendär 3 %).
+4. Zu den Verstärkungseffekten gehören erhöhter Artefaktschaden, erhöhte Artefaktdauer, verbesserter Artefaktkontrolleffekt, verkürzte aktive Abklingzeit des Artefakts, verlängerte Artefaktnutzungszeiten, verkürzte Auslösezeit für Passiv 2 des Artefakts, verbesserter Passiv 1-Effekt des Artefakts, Passiv 1 des Artefakts wird auch dann wirksam, wenn es sich nicht auf dem Spielfeld befindet, erhöhtes anfängliches Sonnenlicht und keine Abklingzeit der ersten Pflanze.
+5. Die Attribute von gewöhnlich bis episch gelten nur für das aktuelle Artefakt. Die legendären Attribute gelten für alle Artefakte mit Ausnahme der individuellen Effekte mit besonderen Anweisungen und sind einzigartig. Die entfernten legendären Attribute erscheinen nicht erneut in den Segnungen anderer Artefakte.
+6. Jedes Artefakt hat unterschiedliche Attribute, die wirksam sein können. Attribute, die nicht effektiv sind, werden durch den Segen nicht entfernt.
+7. Die Effekte von gewöhnlich bis episch schwanken, während die legendären Effekte unverändert bleiben und feste Attribute sind.
+8. Alle 60 Ziehungen des erweiterten Segenstickets ergeben 1 legendäres Attribut. Selbst wenn das legendäre Attribut in diesem Zeitraum entfernt wurde, wird es nicht zurückgesetzt.
 
 [ARTIFACT_LEVEL_UP_CONFIRM]
-确认强化神器？
+Möchten Sie das Artefakt verstärken?
 
 [ARTIFACT_RANK_UP_CONFIRM]
-确认进阶神器？
+Möchten Sie das Artefakt verbessern?
 
 [ARTIFACT_SKILL_LEVEL_UP]
-技能强化
+Fähigkeitsverbesserung
 
 [ARTIFACT_SKILL_LEVEL_UP_CONSUME]
-强化消耗
+Verbesserungsverbrauch
 
 [ARTIFACT_SKILL_GET]
-获得技能
+Fähigkeiten erhalten
 
 [ARTIFACT_SKILL_RANK_UP_CONSUME]
-进阶消耗
+Erweiterter Verbrauch
 
 [ARTIFACT_WAY_TO_GET]
-暂未开放，请关注后续运营活动，从商店神器礼包中购买神器本体礼包即可抢先体验。
+Noch nicht geöffnet. Bitte beachte die nachfolgenden Operationsaktivitäten und kaufe das Artefaktkörper-Geschenkpaket im Artefakt-Geschenkpaket-Shop, um es zuerst zu erleben.
 
 [ARTIFACT_WIND]
-神风神器
+Kamikaze-Artefakt
 
 [ARTIFACT_WIND_DESCRIPTION]
-扇出神风击退全场僵尸，并创造出旋风将他们聚集到一个格子里。
+Sende einen göttlichen Wind, um alle Zombies auf dem Feld abzuwehren, und erzeuge einen Wirbelwind, um sie in einem Gitter zu sammeln.
 
 [ARTIFACT_NO_ARTIFACT]
-你暂无解锁的神器可用
+Du hast keine freigeschalteten Artefakte zur Verfügung.
 
 [ARTIFACT_NO_DETAILS]
-无法查看当前神器详情
+Die aktuellen Artefaktdetails können nicht angezeigt werden.
 
 [ARTIFACT_WIND_SKILL_1]
-神风来袭
+Kamikaze-Angriff
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_1]
-主动使用：创造出神风将全场中小型僵尸击退{MainField_1}格，再在中排右边第2格创造出大旋风将周围5×5范围的僵尸聚集到中间，持续{MainField_2}秒，技能冷却30秒, 每场战斗可使用{MainField_4}次。
+Aktiv einsetzen: Erzeuge einen Kamikaze-Angriff, um alle kleinen und mittleren Zombies im Feld um {MainField_1} Felder abzuwehren. Erzeuge anschließend einen großen Wirbelwind im zweiten Feld rechts in der mittleren Reihe, um die Zombies im umliegenden 5×5-Bereich in der Mitte zu versammeln. Die Fähigkeit hält {MainField_2} Sekunden an, die Abklingzeit beträgt 30 Sekunden. Kann {MainField_4} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_WIND_SKILL_2]
-忍术精通
+Ninjutsu-Meisterschaft
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_2]
-被动生效：忍者类植物的攻防属性增加{PassiveField1_1}%。
+Passiver Effekt: Die Angriffs- und Verteidigungsattribute von Ninja-Pflanzen erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_WIND_SKILL_3]
-天赐神风
+Gottgegebener Wind
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_3]
-被动生效：每隔{PassiveField2_1}秒，会在随机一行创造出神风将该行僵尸击退{PassiveField2_2}格。
+Passiver Effekt: Alle {PassiveField2_1} Sekunden wird in einer zufälligen Reihe ein göttlicher Wind erzeugt, der Zombies in dieser Reihe um {PassiveField2_2} Felder zurückdrängt.
 
 [ARTIFACT_WIND_SKILL_4]
-风力升级
+Windkraft-Upgrade
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_4]
-被动生效：使用主动技能创造的神风有{PassiveField3_1}%概率将中小体型僵尸直接吹飞。
+Passiver Effekt: Der durch die aktive Fertigkeit erzeugte Wind hat eine Chance von {PassiveField3_1} %, kleine und mittelgroße Zombies wegzublasen.
 
 [ARTIFACT_LIGHTNING]
-闪电神器
+Blitzartefakt
 
 [ARTIFACT_LIGHTNING_DESCRIPTION]
-对全场僵尸附加随机电荷，电荷能造成眩晕，减速，百分比减血等效果。
+Fügt allen Zombies auf dem Feld zufällige Ladungen hinzu. Die Ladungen können Schwindel, Verlangsamung, prozentuale Gesundheitsreduzierung und andere Effekte verursachen.
 
 [ARTIFACT_LIGHTNING_SKILL_1]
-双重电荷
+Doppelte Ladung
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_1]
-主动使用：对全场僵尸随机附加一层正电荷或负电荷，5秒后再次释放此效果。当僵尸身上有2层正电荷时,每秒失去{MainField_1}%的血量,持续10秒。2层负电荷时，眩晕{MainField_2}秒。1层正电荷和1层负电荷时,攻击与移动速度下降{MainField_3}%, 持续{MainField_4}秒。技能冷却30秒, 每场战斗可使用{MainField_6}次。
+Aktive Anwendung: Fügt allen Zombies auf dem Feld zufällig eine Schicht positiver oder negativer Ladung hinzu und löst diesen Effekt nach 5 Sekunden erneut aus. Wenn sich zwei Schichten positiver Ladung auf dem Zombie befinden, verliert er 10 Sekunden lang {MainField_1} % seiner Gesundheit pro Sekunde. Bei zwei Schichten negativer Ladung wird die Fähigkeit {MainField_2} Sekunden lang betäubt. Bei einer positiven und einer negativen Ladung verringert sich die Angriffs- und Bewegungsgeschwindigkeit {MainField_4} Sekunden lang um {MainField_3} %. Die Fähigkeit kühlt 30 Sekunden lang ab und kann {MainField_6} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_LIGHTNING_SKILL_2]
-闪电精通
+Blitzbeherrschung
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_2]
-被动生效：闪电类植物的攻防属性增加{PassiveField1_1}%。
+Passiver Effekt: Die Angriffs- und Verteidigungsattribute von Blitzpflanzen erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_LIGHTNING_SKILL_3]
-天罚
+Himmlische Strafe
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_3]
-被动生效：每隔20秒，对随机5个僵尸劈下一道闪电，对其造成当前生命值{PassiveField2_2}%的伤害。
+Passiver Effekt: Alle 20 Sekunden trifft ein Blitz fünf zufällig ausgewählte Zombies und verursacht Schaden in Höhe von {PassiveField2_2} % ihrer aktuellen Gesundheit.
 
 [ARTIFACT_LIGHTNING_SKILL_4]
-连锁电荷
+Kettenladung
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_4]
-被动生效：带电荷的僵尸死亡时有{PassiveField3_1}%概率对其周围的1~2个僵尸附加一层随机电荷效果，一层电荷在僵尸身上会持续20秒。
+Passiver Effekt: Wenn ein Zombie mit Ladung stirbt, besteht eine Chance von {PassiveField3_1} %, dass 1–2 Zombies in seiner Umgebung einen zufälligen Ladungseffekt erhalten. Eine Ladungsschicht hält 20 Sekunden lang an.
 
 [KILL_DESC]
-用{NAME}击杀{NUMBER}只僵尸
+Töte {NUMBER} Zombies mit {NAME}
 
 [ARTIFACT_VASE]
-投罐神器
+Dosenwurf-Artefakt
 
 [ARTIFACT_VASE_DESCRIPTION]
-全场随机扔下10个罐子，罐子里会随机掉出僵尸，植物卡片和阳光。
+10 Dosen fallen zufällig vom Feld. Zombies, Pflanzenkarten und Sonnenlicht fallen zufällig aus den Dosen.
 
 [ARTIFACT_VASE_SKILL_1]
-陶罐雨
+Topfregen
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_1]
-主动使用：全场随机扔下10个罐子。罐子里会随机掉出能量豆僵尸，植物卡片和阳光等物品，物品强度与神器等级相关，技能冷却30秒, 每场战斗可使用{MainField_2}次。
+Aktiv einsetzen: 10 Dosen fallen zufällig vom Feld. Energiebohnen-Zombies, Pflanzenkarten und Sonnenlicht fallen zufällig aus dem Gefäß. Die Stärke der Gegenstände hängt vom Level des Artefakts ab. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_2} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_VASE_SKILL_2]
-投掷精通
+Wurfmeister
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_2]
-被动生效：抛投类植物的攻防属性增加{PassiveField1_1}%。
+Passiver Effekt: Die Angriffs- und Verteidigungsattribute geworfener Pflanzen erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_VASE_SKILL_3]
-天降陶罐
+Tontöpfe fallen lassen
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_3]
-被动生效：每隔{PassiveField2_1}秒，全场随机掉落一个陶罐。
+Passiver Effekt: Alle {PassiveField2_1} Sekunden fällt ein zufälliger Tontopf vom Feld.
 
 [ARTIFACT_VASE_SKILL_4]
-陶罐翻新
+Tontöpfe renovieren
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_4]
-被动生效：罐子内的物品变成更好的，更强的，更美丽的东西。
+Passiver Effekt: Die Gegenstände im Gefäß werden besser, stärker und schöner.
 
 [ARTIFACT_CURE]
-治愈神器
+Artefakt heilen
 
 [ARTIFACT_CURE_DESCRIPTION]
-治愈全场植物并赋予它们无敌护盾
+Heilt alle Pflanzen und verleiht ihnen einen Unverwundbarkeitsschild.
 
 [ARTIFACT_CURE_SKILL_1]
-生命鼓动
+Lebensschub
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_1]
-主动使用：所有植物血量回复{MainField_1}%，同时赋予无敌效果，持续{MainField_2}秒，技能冷却30秒, 每场战斗可使用{MainField_4}次。
+Aktiv einsetzen: Die Gesundheit aller Pflanzen wird um {MainField_1} % wiederhergestellt und Unverwundbarkeit für {MainField_2} Sekunden gewährt. Die Abklingzeit der Fertigkeit beträgt 30 Sekunden. Die Fertigkeit kann {MainField_4} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_CURE_SKILL_2]
-治愈精通
+Heilungsbeherrschung
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_2]
-被动生效：所有植物的回复效果提升{PassiveField1_1}%
+Passiver Effekt: Die Heilwirkung aller Pflanzen wird um {PassiveField1_1} % erhöht.
 
 [ARTIFACT_CURE_SKILL_3]
-再生
+Regeneration
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_3]
-被动生效：所有植物每20秒回复自身{PassiveField2_1}%的生命值。
+Passiver Effekt: Alle Pflanzen regenerieren alle 20 Sekunden {PassiveField2_1} % ihrer eigenen Gesundheit.
 
 [ARTIFACT_CURE_SKILL_4]
-自然气息
+Natürlicher Atem
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_4]
-被动生效：主动技能的持续时间增加{PassiveField3_2}%，释放时还会使所有植物增加100%的攻速，持续{PassiveField3_1}秒。
+Passiver Effekt: Die Dauer der aktiven Fertigkeit wird um {PassiveField3_2} % erhöht. Nach dem Auslösen erhöht sich außerdem die Angriffsgeschwindigkeit aller Pflanzen für {PassiveField3_1} Sekunden um 100 %.
 
 [ARTIFACT_SHIELD]
-护盾神器
+Schildartefakt
 
 [ARTIFACT_SHIELD_DESCRIPTION]
-召唤覆盖5行的护盾向前推动，将碰到的僵尸推开。
+Beschwört einen Schild mit fünf Reihen und schiebt ihn vorwärts, um Zombies, denen er begegnet, wegzustoßen.
 
 [ARTIFACT_SHIELD_SKILL_1]
-叹息之墙
+Seufzermauer
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_1]
-主动使用：召唤覆盖5行的盾墙向前推动，碰到僵尸后会将僵尸推开，僵尸不会攻击大盾，盾墙拦住的僵尸越多大盾移动速度越慢，大盾持续{MainField_1}秒，技能冷却30秒, 每场战斗可使用{MainField_3}次。
+Aktiv einsetzen: Beschwört eine Schildmauer mit fünf Reihen und schiebt sie vorwärts. Trifft sie auf Zombies, schiebt sie diese weg. Zombies greifen den Schild nicht an. Je mehr Zombies die Schildmauer blockiert, desto langsamer bewegt sich der Schild. Der Schild hält {MainField_1} Sekunden an, und die Fertigkeit kühlt 30 Sekunden ab. Sie kann {MainField_3} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_SHIELD_SKILL_2]
-防御精通
+Verteidigungsmeisterschaft
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_2]
-被动生效：防御类植物的攻防属性提升{PassiveField1_1}%
+Passiver Effekt: Die Angriffs- und Verteidigungsattribute von Verteidigungspflanzen werden um {PassiveField1_1} % erhöht.
 
 [ARTIFACT_SHIELD_SKILL_3]
-自主护盾
+Autonomer Schild
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_3]
-被动生效：所有植物在种下去{PassiveField2_1}秒内没有受到攻击的话会生成一个生命值为{PassiveField2_2}的护盾保护自己。
+Passiver Effekt: Alle Pflanzen erzeugen einen Schild mit einem Gesundheitswert von {PassiveField2_2} zum Schutz, wenn sie nicht innerhalb von {PassiveField2_1} Sekunden nach dem Pflanzen angegriffen werden.
 
 [ARTIFACT_SHIELD_SKILL_4]
-强力盾墙
+Starker Schildwall
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_4]
-被动生效：僵尸对盾墙移动速度的影响降低。
+Passiver Effekt: Der Einfluss von Zombies auf die Bewegungsgeschwindigkeit des Schildwalls wird verringert.
 
 [ARTIFACT_SQUID]
-章鱼神器
+Oktopus-Artefakt
 
 [ARTIFACT_SQUID_DESCRIPTION]
-召唤章鱼缠住全场僵尸
+Beschwöre einen Oktopus, um alle Zombies zu verwickeln.
 
 [ARTIFACT_SQUID_SKILL_1]
-天降章鱼
+Oktopus fällt vom Himmel.
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_1]
-主动使用：召唤章鱼缠绕住全场所有中小体型僵尸，被缠住的僵尸失去所有行动能力，不会受到植物攻击，章鱼只会被其他僵尸啃食，每只章鱼有{MainField_1}点生命值，技能冷却30秒, 每场战斗可使用{MainField_3}次。
+Aktiv einsetzen: Beschwöre einen Oktopus, um alle kleinen und mittelgroßen Zombies im Feld zu verwickeln. Die verwickelten Zombies verlieren jegliche Mobilität und können nicht von Pflanzen angegriffen werden. Der Oktopus wird nur von anderen Zombies gefressen. Jeder Oktopus hat {MainField_1} Lebenspunkte. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_3} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_SQUID_SKILL_2]
-动物精通
+Tierbeherrschung
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_2]
-被动生效：带有动物特征的植物的攻防属性增加{PassiveField1_1}%。
+Passiver Effekt: Die Angriffs- und Verteidigungsattribute von Pflanzen mit tierischen Eigenschaften erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_SQUID_SKILL_3]
-神奇章鱼
+Fantastischer Oktopus
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_3]
-被动生效：每隔{PassiveField2_1}秒，掉落{PassiveField2_2}个章鱼缠住最靠近的僵尸。
+Passiver Effekt: Alle {PassiveField2_1} Sekunden werden {PassiveField2_2} Oktopusse fallen gelassen, um den nächsten Zombie zu verwickeln.
 
 [ARTIFACT_SQUID_SKILL_4]
-超级触手
+Supertentakel
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_4]
-被动生效：被章鱼缠住的僵尸每秒会受到其最大生命值{PassiveField3_1}%的伤害，并且大型僵尸也可以被缠住。
+Passiver Effekt: Von Oktopussen gefangene Zombies erleiden pro Sekunde {PassiveField3_1} % ihrer maximalen Gesundheit an Schaden. Auch große Zombies können gefangen werden.
 
 [ARTIFACT_ARCADE]
-街机神器
+Arcade-Artefakt
 
 [ARTIFACT_ARCADE_DESCRIPTION]
-通过连击屏幕召唤8比特豌豆射手。
+Beschwöre eine 8-Bit-Erbsenkanone durch Tippen auf den Bildschirm.
 
 [ARTIFACT_ARCADE_SKILL_1]
-连击游戏
+Kombo-Spiel
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_1]
-主动使用：在最左边的空位上召唤出2排8比特豌豆射手，全场时间暂停5秒，此时可连续点击屏幕，5秒后根据点击次数，8比特豌豆射手会发射出不同数量的子弹，每颗子弹造成{MainField_1}点伤害，发射完子弹后所有8比特豌豆射手消失，技能冷却30秒，每场战斗可使用{MainField_3}次
+Aktiv einsetzen: Beschwöre zwei Reihen 8-Bit-Erbsenkanonen auf dem linken freien Feld. Das Spiel wird für 5 Sekunden pausiert. Du kannst währenddessen kontinuierlich auf den Bildschirm klicken. Nach 5 Sekunden feuert die 8-Bit-Erbsenkanone je nach Klickanzahl eine unterschiedliche Anzahl von Kugeln ab. Jede Kugel verursacht {MainField_1} Schadenspunkte. Nach dem Abfeuern der Kugeln verschwinden alle 8-Bit-Erbsenkanonen. Die Fertigkeit kühlt 30 Sekunden lang ab. Kann {MainField_3} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_ARCADE_SKILL_2]
-能量精通
+Energiebeherrschung
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_2]
-被动生效：能量植物的攻防属性提升{PassiveField1_1}%
+Passiver Effekt: Angriffs- und Verteidigungsattribute der Energiepflanze erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_ARCADE_SKILL_3]
-豌豆残像
+Erbsennachbild
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_3]
-被动生效：所有8比特豌豆射手在发射完子弹后仍然会持续{PassiveField2_1}秒
+Passiver Effekt: Alle 8-Bit-Erbsenkanonen halten nach dem Abfeuern einer Kugel {PassiveField2_1} Sekunden lang an.
 
 [ARTIFACT_ARCADE_SKILL_4]
-子弹变异
+Kugelmutation
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_4]
-被动生效：8比特豌豆射手发射的子弹会随机变成冰冻，火焰，原始中的一种
+Passiver Effekt: Kugeln, die von 8-Bit-Erbsenkanonen abgefeuert werden, werden zufällig zu Eis-, Feuer- oder Primitivkugeln.
 
 [ARTIFACT_TIME]
-时间神器
+Zeit Artefakt
 
 [ARTIFACT_TIME_DESCRIPTION]
-将所有僵尸传送到起点
+Teleportiert alle Zombies zum Startpunkt.
 
 [ARTIFACT_TIME_SKILL_1]
-时光倒流
+Zeitreise
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_1]
-主动使用：全场僵尸血量回满退回到起点，技能冷却30秒，每场战斗可使用{MainField_2}次
+Aktive Anwendung: Alle Zombies kehren zum Startpunkt zurück, nachdem ihre Gesundheit vollständig wiederhergestellt ist. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_2} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_TIME_SKILL_2]
-休息缩短
+Ruhezeit verkürzt
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_2]
-被动生效：植物的休息时间缩短{PassiveField1_1}%
+Passiver Effekt: Die Ruhezeit der Pflanze wird um {PassiveField1_1} % verkürzt.
 
 [ARTIFACT_TIME_SKILL_3]
-暂停结界
+Pause-Barriere
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_3]
-被动生效：主动技能激活时，在右边3×5的范围内的创造出时间暂停结界，在其中的植物和僵尸行动会停止但仍然会受到攻击，持续{PassiveField2_1}秒
+Passiver Effekt: Wenn die aktive Fertigkeit aktiviert wird, entsteht im rechten Bereich (3×5) eine Zeit-Pause-Barriere. Pflanzen und Zombies darin bleiben stehen, werden aber weiterhin angegriffen. Die Wirkung hält {PassiveField2_1} Sekunden an.
 
 [ARTIFACT_TIME_SKILL_4]
-加速结界
+Geschwindigkeitsbarriere
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_4]
-被动生效：主动技能激活时，还会在左边3×5的范围内创造出加速结界，在其中的植物行动会加速{PassiveField3_1}%，持续时间与暂停结界相同。
-
+Passiver Effekt: Bei Aktivierung der aktiven Fertigkeit entsteht links im Bereich von 3×5 eine Beschleunigungsbarriere. Pflanzen darin bewegen sich um {PassiveField3_1} % schneller. Die Dauer entspricht der Pausenbarriere.
 
 [ARTIFACT_WEATHERMONKEY]
-窜天猴神器
+Wetteraffe-Artefakt
 
 [ARTIFACT_WEATHERMONKEY_DESCRIPTION]
-发射能对僵尸造成伤害并击退的窜天猴爆竹。
+Verschießt Wetteraffe-Kracher, die Zombies Schaden zufügen und sie abwehren.
 
 [ARTIFACT_WEATHERMONKEY_SKILL_1]
-窜天爆竹
+Himmelsaffe
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_1]
-主动使用：在场地左边召唤并发射窜天猴爆竹，窜天猴向右飞行并在撞到僵尸后爆炸。爆炸造成3×3范围的{MainField_1}点伤害并击退小范围的僵尸。每3秒发射一波，共{MainField_2}波。技能冷却30秒，每场战斗可使用{MainField_4}次。
+Aktiv einsetzen: Beschwöre und feuere ein Himmelsaffen-Feuerwerk auf der linken Seite des Feldes ab. Der Himmelsaffe fliegt nach rechts und explodiert, nachdem er einen Zombie getroffen hat. Die Explosion verursacht {MainField_1} Schadenspunkte in einem Umkreis von 3×3 und stößt Zombies in geringem Umkreis zurück. Feuert alle 3 Sekunden eine Welle ab, insgesamt also {MainField_2} Wellen. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_4} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_WEATHERMONKEY_SKILL_2]
-军火精通
+Arsenal-Meisterschaft
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_2]
-被动生效：军火库家族的植物攻防属性增加{PassiveField1_1}%
+Passiver Effekt: Erhöht die Angriffs- und Verteidigungsattribute von Pflanzen der Arsenal-Familie um {PassiveField1_1} %.
 
 [ARTIFACT_WEATHERMONKEY_SKILL_3]
-爆竹连天
+Knallkörper
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_3]
-被动生效：每隔15秒，发射5个追踪僵尸并造成单体伤害的小窜天猴爆竹，对其造成当前生命值{PassiveField2_1}%的伤害。
+Passiver Effekt: Feuert alle 15 Sekunden fünf kleine Affen-Knallkörper ab, die Zombies verfolgen und Einzelzielschaden verursachen. Sie fügen dem Zombie {PassiveField2_1} % seines aktuellen Gesundheitswerts zu.
 
 [ARTIFACT_WEATHERMONKEY_SKILL_4]
-火力加强
+Feuerkraftverstärkung
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_4]
-被动生效：大窜天猴会在接触到首个僵尸后，推动僵尸2格后再爆炸。
+Passiver Effekt: Nachdem der große Affe den ersten Zombie berührt hat, schiebt er ihn zwei Felder weit, bevor er explodiert.
 
 [ARTIFACT_MAGICBEANS]
-魔豆神器
+Magische Bohnen-Artefakte
 
 [ARTIFACT_MAGICBEANS_DESCRIPTION]
-长出魔豆顶飞僵尸，掉落豆荚炸烂僵尸。
+Züchtet magische Bohnen, die Zombies umhauen, und lässt Kapseln fallen, die Zombies explodieren lassen.
 
 [ARTIFACT_MAGICBEANS_SKILL_1]
-种植魔豆
+Zauberbohnen züchten
 
 [ARTIFACT_MAGICBEANS_SKILL_2]
-豌豆精通
+Erbsenmeister
 
 [ARTIFACT_MAGICBEANS_SKILL_3]
-豆荚爆炸
+Bohnenkapselexplosion
 
 [ARTIFACT_MAGICBEANS_SKILL_4]
-新生豌豆
+Neugeborene Erbsen
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_1]
-主动使用：选择一个格子播撒1颗魔豆种子,片刻后种子发芽并瞬间长成巨大的豆藤，顶飞3X3范围内的所有植物和僵尸，豆藤拥有{MainField_1}点生命值，豆藤可阻挡僵尸，每隔一段时间掉落一个豆荚对单格僵尸造成{MainField_2}点伤害，冷却{MainField_3}秒，每场战斗可使用{MainField_4}次。
+Aktiv einsetzen: Wähle ein Raster und säe einen magischen Bohnensamen. Nach einem Moment keimt der Samen und wächst sofort zu einer riesigen Bohnenranke heran, die alle Pflanzen und Zombies im Umkreis von 3x3 umhaut. Die Bohnenranke hat {MainField_1} Lebenspunkte. Sie kann Zombies blockieren. Hin und wieder lässt es eine Bohnenkapsel fallen, die einem einzelnen Grid-Zombie {MainField_2} Schadenspunkte zufügt. Die Abklingzeit beträgt {MainField_3} Sekunden. Es kann {MainField_4} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_2]
-被动生效：精英豌豆家族的植物攻防属性增加{PassiveField1_1}%
+Passiver Effekt: Erhöht die Angriffs- und Verteidigungsattribute von Elite-Erbsenpflanzen um {PassiveField1_1} %.
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_3]
-被动生效：掉落的豆荚爆炸时，向周围8个方向散射出巨型豌豆，对击中的僵尸造成{PassiveField2_1}点伤害。
+Passiver Effekt: Wenn die Kapsel explodiert, werden Riesenerbsen in 8 Richtungen verstreut und verursachen {PassiveField2_1} Schadenspunkte bei den getroffenen Zombies.
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_4]
-被动生效：豆荚爆裂时，有概率掉落豌豆类植物的卡片。
+Passiver Effekt: Wenn die Kapsel explodiert, besteht die Chance, dass eine Erbsenpflanzenkarte fällt.
 
 [ARTIFACT_DEVOLVE]
-退化神器
+Artefakt degenerieren
 
 [ARTIFACT_DEVOLVE_DESCRIPTION]
-将僵尸退化为更弱的其他僵尸
+Zombies zu schwächeren Zombies degenerieren
 
 [ARTIFACT_DEVOLVE_SKILL_1]
-退化光波
+Lichtwelle degenerieren
 
 [ARTIFACT_DEVOLVE_SKILL_2]
-法师精通
+Magier-Meisterschaft
 
 [ARTIFACT_DEVOLVE_SKILL_3]
-定时退化
+Zeitgesteuerte Degeneration
 
 [ARTIFACT_DEVOLVE_SKILL_4]
-强力退化
+Starke Degeneration
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_1]
-主动使用：将场上除巨人外的所有僵尸替换为同阶级的随机下位僵尸，冷却{MainField_5}秒，每场战斗可使用{MainField_6}次。
+Aktiver Einsatz: Ersetze alle Zombies auf dem Feld außer Riesen durch zufällige Zombies niedrigeren Levels desselben Levels. Abklingzeit {MainField_5} Sekunden, kann {MainField_6} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_2]
-被动生效：法师类植物攻防属性增加{PassiveField1_1}%。
+Passiver Effekt: Erhöht die Angriffs- und Verteidigungsattribute von Magierpflanzen um {PassiveField1_1} %.
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_3]
-被动生效：每隔{PassiveField2_1}秒，随机选择3个僵尸进行退化。
+Passiver Effekt: Alle {PassiveField2_1} Sekunden werden zufällig 3 Zombies ausgewählt, die degeneriert werden.
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_4]
-被动生效：退化有30%概率将僵尸直接变成小鸡。
+Passiver Effekt: Es besteht eine 30-prozentige Chance, dass der Zombie direkt in ein Huhn verwandelt wird.
 
 [ARTIFACT_GASHAPON]
-扭蛋神器
+Gachapon-Artefakt
 
 [ARTIFACT_GASHAPON_DESCRIPTION]
-转出三个扭蛋，根据扭蛋给予相应效果。
+Drei Gashapons werden ausgerollt und die entsprechenden Effekte werden entsprechend den Gashapons ausgelöst.
 
 [ARTIFACT_GASHAPON_SKILL_1]
-幸运扭蛋
+Glücks-Gashapon
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_1]
-主动使用：转出三个扭蛋，当出现两个相同的扭蛋时给予相应效果，如果出现三个相同的扭蛋，则大幅度增强效果。毒影菇能使全场僵尸中毒；鳄梨能群体冲撞僵尸；超能花菜能魅惑僵尸；冰冻生菜能冰冻全场僵尸；阳光雨会使天空中下阳光雨。技能冷却30秒，每场战斗可使用{MainField_3}次。
+Aktiv einsetzen: Drei Gashapons werden ausgerollt. Erscheinen zwei identische Gashapons, werden entsprechende Effekte ausgelöst. Erscheinen drei identische Gashapons, wird der Effekt deutlich verstärkt. Giftige Schattenpilze können alle Zombies vergiften; Avocados können Zombies in Gruppen angreifen; Super-Blumenkohl kann Zombies bezaubern; Gefrorener Salat kann alle Zombies einfrieren; Sonnenregen lässt Sonnenregen vom Himmel fallen. Die Abklingzeit der Fertigkeit beträgt 30 Sekunden und kann {MainField_3}-mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_GASHAPON_SKILL_2]
-概率精通
+Wahrscheinlichkeitsmeisterschaft
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_2]
-被动生效：带有概率特殊攻击的植物攻防属性增加{PassiveField1_1}%
+Passiver Effekt: Erhöht die Angriffs- und Verteidigungsattribute von Pflanzen mit Wahrscheinlichkeit für Spezialangriffe um {PassiveField1_1} %.
 
 [ARTIFACT_GASHAPON_SKILL_3]
-每局保底
+Garantiertes Minimum pro Spiel
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_3]
-被动生效：1次未转出三个相同的扭蛋，则下次必定转出三个相同的扭蛋。（每局游戏重置）
+Passiver Effekt: Wenn nicht drei identische Kapseln in einem Spiel erhalten werden, werden beim nächsten Mal drei identische Kapseln erhalten. (Wird jedes Spiel zurückgesetzt.)
 
 [ARTIFACT_GASHAPON_SKILL_4]
-扭蛋翻新
+Gachapon-Renovierung
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_4]
-被动生效：扭蛋神器内的物品变成更好的，更强的，更美丽的东西。毒影菇替换为芦藜药师；鳄梨替换为防风草；超能花菜替换为魅惑菇；冰冻生菜替换为水晶兰；阳光雨获得升级。
+Passiver Effekt: Die Gegenstände im Gachapon-Artefakt werden besser, stärker und schöner. Giftiger Schattenpilz wird durch Eisenkraut ersetzt; Avocado durch Pastinake; Super-Blumenkohl wird durch Zauberpilz ersetzt; Gefrorener Salat wird durch Kristallorchidee ersetzt; Sonnenregen wird aufgewertet.
 
 [ARTIFACT_GASHAPON_RESULT_2]
-两个相同
+Zwei gleiche
 
 [ARTIFACT_GASHAPON_RESULT_3]
-三个相同
+Drei gleiche
 
 [ARTIFACT_GASHAPON_AFFECT_0]
-使全场僵尸中毒减速，并持续受到伤害
+Vergiftet alle Zombies, verlangsamt sie und fügt ihnen Schaden zu.
 
 [ARTIFACT_GASHAPON_AFFECT_1]
-召唤一群小鳄梨向右冲锋，对僵尸造成伤害
+Beschwört eine Gruppe kleiner Avocados, die nach rechts stürmen und Zombies Schaden zufügen.
 
 [ARTIFACT_GASHAPON_AFFECT_2]
-魅惑2只僵尸
+Bezaubert 2 Zombies.
 
 [ARTIFACT_GASHAPON_AFFECT_3]
-冰冻全场僵尸7.5秒
+Friert alle Zombies 7,5 Sekunden lang ein.
 
 [ARTIFACT_GASHAPON_AFFECT_4]
-300点阳光雨
+300 Punkte Sonnenlichtregen
 
 [ARTIFACT_GASHAPON_AFFECT_5]
-使全场僵尸中毒减速，并持续受到百分比伤害
+[ASHAPON_AFFECT_5]
+Vergiftet alle Zombies, verlangsamt sie und fügt ihnen prozentualen Schaden zu.
 
 [ARTIFACT_GASHAPON_AFFECT_6]
-召唤一群小防风草向右冲锋，对僵尸造成伤害
+Beschwört eine Gruppe kleiner Pastinaken, die nach rechts stürmen und Zombies Schaden zufügen.
 
 [ARTIFACT_GASHAPON_AFFECT_7]
-魅惑3只僵尸，并增强生命值
+Bezaubert 3 Zombies und erhöht ihre Gesundheit.
 
 [ARTIFACT_GASHAPON_AFFECT_8]
-使全场僵尸变成雪人15秒
+Verwandelt alle Zombies 15 Sekunden lang in Schneemänner.
 
 [ARTIFACT_GASHAPON_AFFECT_9]
-600点阳光雨
+600 Punkte Sonnenlichtregen.
 
 [ARTIFACT_GASHAPON_AFFECT_03]
-使全场僵尸中毒减速，并持续受到高额伤害
+Vergiftet alle Zombies, verlangsamt sie und fügt ihnen hohen Schaden zu.
 
 [ARTIFACT_GASHAPON_AFFECT_13]
-召唤一群大鳄梨向右冲锋，对僵尸造成高额伤害
+Beschwört eine Gruppe riesiger Avocados, die nach rechts stürmen und Zombies hohen Schaden zufügen. Zombies
 
 [ARTIFACT_GASHAPON_AFFECT_23]
-魅惑6只僵尸
+Verzaubere 6 Zombies
 
 [ARTIFACT_GASHAPON_AFFECT_33]
-冰冻全场僵尸15秒
+Friere alle Zombies 15 Sekunden lang ein.
 
 [ARTIFACT_GASHAPON_AFFECT_43]
-1200点阳光雨
+1200 Punkte Sonnenlichtregen
 
 [ARTIFACT_GASHAPON_AFFECT_53]
-使全场僵尸中毒减速，并持续受到高额百分比伤害
+Vergifte und verlangsame alle Zombies und erleide dauerhaft hohen Schaden.
 
 [ARTIFACT_GASHAPON_AFFECT_63]
-召唤一群大防风草向右冲锋，对僵尸造成高额伤害
+Rufe eine Gruppe Riesenpastinaken herbei, die nach rechts stürmen und Zombies hohen Schaden zufügen.
 
 [ARTIFACT_GASHAPON_AFFECT_73]
-魅惑9只僵尸，并增强大量生命值
+Verzaubere 9 Zombies und erhöhe ihre Gesundheit.
 
 [ARTIFACT_GASHAPON_AFFECT_83]
-使全场僵尸变成雪人25秒
+Verwandle alle Zombies 25 Sekunden lang in Schneemänner. Sekunden
 
 [ARTIFACT_GASHAPON_AFFECT_93]
-2400点阳光雨
-
+2400 Punkte Sonnenscheinregen
 
 [ARTIFACT_UFO]
-飞碟神器
+Fliegende Untertasse
 
 [ARTIFACT_UFO_DESCRIPTION]
-召唤飞碟尝试带走全场僵尸
+Beschwöre eine fliegende Untertasse, um alle Zombies zu vernichten.
 
 [ARTIFACT_UFO_SKILL_1]
-飞碟来袭
+Angriff mit fliegender Untertasse
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_1]
-主动使用：召唤一架飞碟进场将所有僵尸向上吸入，持续{MainField_2}秒，僵尸越小速度越快，被吸入到飞碟里的僵尸会被带走，未被吸入的僵尸从半空摔落并造成伤害。冷却30秒，每场战斗可使用{MainField_6}次。
+Aktiv einsetzen: Beschwöre eine fliegende Untertasse, die das Feld betritt und alle Zombies {MainField_2} Sekunden lang nach oben saugt. Je kleiner die Zombies, desto schneller die Geschwindigkeit. In die fliegende Untertasse gesaugte Zombies werden weggenommen, während nicht eingesaugte Zombies aus der Luft fallen und Schaden verursachen. Abklingzeit 30 Sekunden, kann {MainField_6} Mal pro Gefecht eingesetzt werden.
 
 [ARTIFACT_UFO_SKILL_2]
-飞行精通
+Flugbeherrschung
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_2]
-被动生效：飞行类植物植物攻防属性增加{PassiveField1_1}%
+Passiver Effekt: Fliegende Pflanzen erhöhen Angriffs- und Verteidigungsattribute um {PassiveField1_1} %.
 
 [ARTIFACT_UFO_SKILL_3]
-子母飞碟
+UFO
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_3]
-被动生效：每隔{PassiveField2_1}秒，召唤3个小飞碟，吸收场上最近的3个僵尸，持续时间与主动相同。
+Passiver Effekt: Alle {PassiveField2_1} Sekunden werden drei kleine fliegende Untertassen beschworen, die die drei nächstgelegenen Zombies auf dem Feld absorbieren. Die Dauer entspricht der des aktiven Effekts.
 
 [ARTIFACT_UFO_SKILL_4]
-重力减弱
+Schwächung der Schwerkraft
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_4]
-被动生效：僵尸在飘起状态下受到植物攻击会被击退，击退距离与僵尸体型相关。
+Passiver Effekt: Zombies werden zurückgestoßen, wenn sie schwebend von Pflanzen angegriffen werden. Die Rückstoßdistanz hängt von der Größe des Zombies ab.
 
 [ARTIFACT_PRISMTOWER]
-棱镜塔神器
+Prismatischer Turm
 
 [ARTIFACT_PRISMTOWER_DESCRIPTION]
-发射激光持续对僵尸造成越来越高的伤害
+Feuert Laser ab, um Zombies kontinuierlich zunehmenden Schaden zuzufügen.
 
 [ARTIFACT_PRISMTOWER_SKILL_1]
-棱镜射线
+Prismatische Strahlen
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_1]
-主动使用开关神器，该神器初始储能上限为100，开启时会消耗储能对最近的一个僵尸发射激光造成持续伤害，此伤害会随时间增加，关闭后伤害重置为初始伤害并缓慢回复储能，激光的初始每秒伤害为僵尸生命值上限的{MainField_1}%+{MainField_2}点，每秒增加僵尸生命值上限的{MainField_3}%+{MainField_4}点
+Nutzt aktiv das Schalter-Artefakt. Die anfängliche Energiespeichergrenze dieses Artefakts beträgt 100. Sobald es aktiviert ist, verbraucht es Energie, um Laser auf den nächsten Zombie abzufeuern und ihm kontinuierlichen Schaden zuzufügen. Dieser Schaden erhöht sich mit der Zeit. Nach dem Ausschalten wird der Schaden auf den ursprünglichen Wert zurückgesetzt und der Energiespeicher langsam wiederhergestellt. Der anfängliche Schaden pro Sekunde des Lasers beträgt {MainField_1} % + {MainField_2} Punkte der oberen Gesundheitsgrenze des Zombies und erhöht sich um {MainField_3} % + {MainField_4} Punkte der oberen Gesundheitsgrenze des Zombies pro Sekunde.
 
 [ARTIFACT_PRISMTOWER_SKILL_2]
-储备改良
+Reserveverbesserung
 
-[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_2]
-被动生效：神器的储能上限增加至{PassiveField1_1}，能量回复速度加快到每秒{PassiveField1_2}
+[ARTIFACT_PRISMTOWER_S KILL_DESCRIPTION_2]
+Passiver Effekt: Die obere Grenze des Energiespeichers des Artefakts wird auf {PassiveField1_1} erhöht und die Energierückgewinnungsgeschwindigkeit auf {PassiveField1_2} pro Sekunde beschleunigt.
 
 [ARTIFACT_PRISMTOWER_SKILL_3]
-快速充能
+Schnelle Wiederaufladung
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_3]
-被动生效：激光的伤害增幅速度加快{PassiveField2_1}%
+Passiver Effekt: Die Schadenssteigerungsrate des Lasers wird beschleunigt durch {PassiveField2_1} %
 
 [ARTIFACT_PRISMTOWER_SKILL_4]
-爆炸射线
+Explosionsstrahl
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_4]
-激光射死一个僵尸时会根据当前秒伤造成爆炸伤害，伤害为当前秒伤的200%
+Wenn der Laser einen Zombie tötet, verursacht er Explosionsschaden basierend auf dem aktuellen DPS. Der Schaden beträgt 200 % des aktuellen DPS.
 
 [ARTIFACT_SWARM]
-一窝蜂神器
+Schwarm-Artefakt
 
 [ARTIFACT_SWARM_DESCRIPTION]
-某神秘一族的工匠赠与戴夫的武器，能够连续发射弹药
+Eine Waffe, die Dave von einem Handwerker aus einer mysteriösen Familie geschenkt wurde und kontinuierlich Munition abfeuern kann.
 
 [ARTIFACT_SWARM_SKILL_1]
-炮火连天
+Dauerfeuer
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_1]
-武器初始拥有90颗子弹，可通过点击神器对最靠近左侧的僵尸连续发射少量子弹，长按可进入连射状态，发射更多子弹；当神器处于闲置状态时，开始恢复子弹
+Die Waffe hat anfangs 90 Schuss. Klicke auf das Artefakt, um kontinuierlich wenige Kugeln auf den Zombie links neben dir abzufeuern. Halte die Taste gedrückt, um in den Dauerfeuermodus zu wechseln und weitere Kugeln abzufeuern. Wenn das Artefakt inaktiv ist, beginnt es, Kugeln wiederherzustellen.
 
 [ARTIFACT_SWARM_SKILL_2]
-侠肝义胆
+Ritterlich
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_2]
-被动生效：仙桃、杜英投手、虎头菇、剑叶龙血树、寒冰射手攻防属性增加{PassiveField1_1}%
+Passiver Effekt: Xiantao, Du Ying-Krug, Tigerkopfpilz, Schwertblatt-Drachenblutbaum, Eisschütze – Angriffs- und Verteidigungsattribute werden um {PassiveField1_1} % erhöht.
 
 [ARTIFACT_SWARM_SKILL_3]
-快速填充
+Schnelles Nachfüllen
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_3]
-子弹数量上限提高至{PassiveField2_1}，且每秒子弹恢复速度提升至10
+Die Obergrenze der Kugelanzahl wird auf {PassiveField2_1} erhöht, und die Kugelwiederherstellungsgeschwindigkeit erhöht sich auf 10 pro Sekunde.
 
-[ARTIFACT_SWARM_SKILL_4]
-火力增强
+[ARTIFACT_SWARM_SKILL ILL_4]
+Feuerkraftverbesserung
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_4]
-长按后发射的子弹由赤火子弹变为蓝火子弹，伤害翻倍；每发射4颗子弹后会发射一枚大子弹，子弹伤害为赤火子弹的3倍，且对命中的中小体型的僵尸0.1格的击退效果
+Nach langem Drücken ändert sich die abgefeuerte Kugel von roter zu blauer Feuerkugel. Der Schaden verdoppelt sich. Nach vier abgefeuerten Kugeln wird eine große Kugel abgefeuert. Der Schaden ist dreimal so hoch wie der der roten Feuerkugel und kleine und mittelgroße Zombies werden mit einem Rückstoßeffekt von 0,1 Quadraten zurückgeworfen.
 
 [ARTIFACT_HOLO]
-全息神器
+Holografisches Artefakt
 
 [ARTIFACT_HOLO_DESCRIPTION]
-召唤场上植物的复制投影以共同抵御僵尸
+Beschwört die Kopie der Pflanzen auf dem Feld, um gemeinsam gegen die Zombies zu kämpfen. Leiche
 
 [ARTIFACT_HOLO_SKILL_1]
-全息投影
+Holografische Projektion
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_1]
-主动使用:点击神器按钮后，左侧投影仪开启，立即在全场所有植物上生成一个全息投影，投影会跟本体一样攻击僵尸但不会施法能量豆大招，持续{MainField_1}秒，持续时间内本体的攻击力上升{MainField_2}%并可以抵挡部分僵尸技能，技能冷却30秒, 每场战斗可使用{MainField_5}次。
-
+Aktivierung: Nach dem Klicken auf die Artefakt-Schaltfläche schaltet sich der linke Projektor ein und erzeugt sofort eine holografische Projektion auf allen Pflanzen im Feld. Die Projektion greift Zombies wie den Hauptkörper an, wirkt aber keine Energiebohnen-Fähigkeiten. Die Projektion hält {MainField_1} Sekunden an. Während dieser Zeit erhöht sich die Angriffskraft des Hauptkörpers um {MainField_2} % und kann einigen Zombie-Fähigkeiten widerstehen. Die Fähigkeit kühlt 30 Sekunden lang ab und kann {MainField_5} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_HOLO_SKILL_2]
-科技进步
+Technologischer Fortschritt
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_2]
-被动生效：未来科技家族植物攻防属性增加{PassiveField1_1}%
+Passiver Effekt: Angriffs- und Verteidigungsattribute von Pflanzen der Zukunftstechnologiefamilie werden um {PassiveField1_1} % erhöht.
 
 [ARTIFACT_HOLO_SKILL_3]
-便携投影
+Tragbare Projektion
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_3]
-被动生效：每隔{PassiveField2_1}秒，向全场随机3个植物释放全息投影
+Passiver Effekt: Alle {PassiveField2_1} Sekunden wird eine holografische Projektion auf 3 zufällig ausgewählte Pflanzen im Feld ausgelöst.
 
 [ARTIFACT_HOLO_SKILL_4]
-僵尸解析
+Zombieanalyse
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_4]
-被动生效：释放主动技能时，也会对全场最左侧的10个僵尸进行全息投影（复制一个相同的我方僵尸单位）
+Passiver Effekt: Beim Ausführen aktiver Fähigkeiten wird die holografische Projektion auch auf die 10 Zombies ganz links im Feld angewendet (eine identische Zombieeinheit von unserer Seite kopieren).
 
-
-[ARTIFACT_DINOSAURHORN]
-恐龙号角神器
+[ARTIFACT_DINOSAURHOR N]
+Dinosaurierhorn Artefakt
 
 [ARTIFACT_DINOSAURHORN_DESCRIPTION]
-发动龙潮突袭对全场僵尸造成大量伤害
+Starte einen Drachenflut-Angriff, um allen Zombies auf dem Feld massiven Schaden zuzufügen.
 
 [ARTIFACT_DINOSAURHORN_SKILL_1]
-龙潮突袭
+Drachenflut-Angriff
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_1]
-主动使用：每行召唤两只恐龙向场内冲刺，踩死中小体型僵尸，每只恐龙最多踩死3只僵尸；未被击杀的僵尸会受到眩晕和伤害
+Aktiv einsetzen: Rufe zwei Dinosaurier pro Reihe herbei, die auf das Feld sprinten und kleine und mittelgroße Zombies zu Tode trampeln. Jeder Dinosaurier kann bis zu drei Zombies zu Tode trampeln. Zombies, die nicht getötet werden, werden betäubt und verletzt.
 
 [ARTIFACT_DINOSAURHORN_SKILL_2]
-原初解放
+Ursprüngliche Befreiung
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_2]
-被动生效：原始类植物植物攻防属性增加{PassiveField1_1}%
+Passiver Effekt: Angriffs- und Verteidigungsattribute primitiver Pflanzen werden um {PassiveField1_1} % erhöht.
 
-[ARTIFACT_DINOSAURHORN_SKILL_3]
-强化眩晕
+[ARTIFACT_DINOSAURHORN_SKILL L_3]
+Verstärkte Betäubung
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_3]
-僵尸的眩晕时间变为{PassiveField2_1}秒
+Die Betäubungsdauer der Zombies beträgt {PassiveField2_1} Sekunden.
 
 [ARTIFACT_DINOSAURHORN_SKILL_4]
-雷龙践踏
+Donnerdrachen-Stampfer
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_4]
-每间隔秒{PassiveField3_1}，对前场僵尸发动雷龙踩踏，范围内的僵尸会受到5000点伤害和4s眩晕
+Alle {PassiveField3_1} Sekunden wird Donnerdrachen-Stampfer auf die vorderen Zombies angewendet. Zombies in Reichweite erleiden 5000 Schaden und werden 4 Sekunden lang betäubt.
 
 [ARTIFACT_WATERGUN]
-水枪神器
+Wasserpistolen-Artefakt
 
 [ARTIFACT_WATERGUN_DESCRIPTION]
-发动水柱使全场僵尸后移，并伴随水滴效果
+Schleudert eine Wassersäule ab, um alle Zombies zurückzudrängen, begleitet von einem Wassertropfeneffekt.
 
 [ARTIFACT_WATERGUN_SKILL_1]
-水柱喷射
-
-[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_1]
-主动使用：每行释放一条强力水柱推动僵尸后移
+Wassersäulenspray
 
 [ARTIFACT_WATERGUN_SKILL_2]
-原初解放
-
-[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_2]
-被动生效：水/冰类植物植物攻防属性增加{PassiveField1_1}%
+Wassersäulenspray
 
 [ARTIFACT_WATERGUN_SKILL_3]
-雨露均沾
+UN_SKILL_DESCRIPTION_1]
+Aktiver Einsatz: Entfesselt in jeder Reihe eine mächtige Wassersäule, um Zombies zurückzudrängen.
+
+[ARTIFACT_WATERGUN_SKILL_2]
+Ursprüngliche Befreiung
+
+[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_2]
+Passiver Effekt: Wasser-/Eispflanzen erhöhen die Angriffs- und Verteidigungsattribute von Pflanzen um {PassiveField1_1} %
+
+[ARTIFACT_WATERGUN_SKILL_3]
+Regen und Tau werden gleichmäßig verteilt.
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒对前三排植物进行洒水，增加攻速
+Sprühe alle {PassiveField2_1} Sekunden Wasser auf die ersten drei Pflanzenreihen, um die Angriffsgeschwindigkeit zu erhöhen.
 
 [ARTIFACT_WATERGUN_SKILL_4]
-推力爆发
+Schubsalve
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_4]
-每秒击退距离增加
-
+Erhöht die Rückstoßdistanz pro Sekunde.
 
 [ARTIFACT_BEEHIVE]
-蜂巢神器
+Bienenstock-Artefakt
 
 [ARTIFACT_BEEHIVE_DESCRIPTION]
-召唤蜜蜂攻击敌人
+Beschwöre Bienen, um Gegner anzugreifen.
 
 [ARTIFACT_BEEHIVE_SKILL_1]
-蜜蜂出击
+Bienenangriff
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_1]
-主动使用：每次种植植物时，会产生一只蜜蜂飞向蜂巢内，上限15只，点击技能按钮会释放所有蜜蜂攻击场上最靠近的僵尸，每只蜜蜂每秒造成{MainField_2}点伤害，在攻击10次后返回蜂巢，可重复释放，冷却时间30秒。
+Aktiv einsetzen: Jedes Mal, wenn du eine Pflanze pflanzt, fliegt eine Biene in den Bienenstock (bis zu 15 Bienen). Klicke auf die Fertigkeitstaste, um alle Bienen loszulassen und den nächsten Zombie auf dem Feld anzugreifen. Jede Biene verursacht {MainField_2} Schadenspunkte pro Sekunde. Nach 10 Angriffen kehrt sie zum Bienenstock zurück. Sie kann wiederholt losgelassen werden und hat eine Abklingzeit von 30 Sekunden.
 
 [ARTIFACT_BEEHIVE_SKILL_2]
-快速种植
+Schnelles Pflanzen
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_2]
-被动生效：植物的种植冷却减少{PassiveField1_1}%
+Passiver Effekt: Die Abklingzeit des Pflanzens wird um {PassiveField1_1} % reduziert.
 
 [ARTIFACT_BEEHIVE_SKILL_3]
-超级繁殖
+Superzucht
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_3]
-种植植物时有{PassiveField2_1}%概率额外产生1只蜜蜂
+Beim Pflanzen einer Pflanze besteht eine Chance von {PassiveField2_1} %, dass eine zusätzliche Biene entsteht.
 
 [ARTIFACT_BEEHIVE_SKILL_4]
-蜜蜂合体
+Bienenfusion
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_4]
-当蜂巢内蜜蜂的数量高于15只时，多余的蜜蜂会自动合成，变为大蜜蜂，大蜜蜂的攻击速度和可造成伤害翻倍，并且攻击会带有毒素，减速僵尸并造成每秒最大生命值1%的伤害
-
+Wenn die Anzahl der Bienen im Stock 15 überschreitet, verschmelzen die überzähligen Bienen automatisch zu einer großen Biene. Angriffsgeschwindigkeit und Schaden der großen Biene werden verdoppelt. Der Angriff enthält Giftstoffe, die Zombies verlangsamen und 1 % der maximalen Gesundheit pro Sekunde schädigen.
 
 [ARTIFACT_SILVERKEY]
-银之键神器
+Silberschlüssel-Artefakt
 
 [ARTIFACT_SILVERKEY_DESCRIPTION]
-开启真理之门吸收敌人
+Öffne das Tor der Wahrheit, um den Feind zu absorbieren.
 
-[ARTIFACT_SILVERKEY_SKILL_1]
-真理门扉
+[ARTIFACT_ SILVERKEY_SKILL_1]
+Tür der Wahrheit
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_1]
-主动使用：选择一个格子释放，召唤出真理之门，将门扉右侧的中小型僵尸吸收到门内，吸收范围为右侧三行位置，每次可吸收6+当前神器等级*0.2（向下取整）只僵尸，可重复释放，冷却时间30秒，每场战斗可使用{MainField_4}次
+Aktiv einsetzen: Wähle ein Gitter zum Freigeben aus, beschwöre die Tür der Wahrheit und absorbiere die kleinen und mittleren Zombies rechts von der Tür. Der Absorptionsbereich liegt bei den drei rechten Reihen. Jedes Mal können 6 Zombies + aktuelles Artefaktlevel * 0,2 (abgerundet) absorbiert werden. Kann wiederholt freigelassen werden. Abklingzeit 30 Sekunden. Kann {MainField_4}-mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_SILVERKEY_SKILL_2]
-深渊加强
+Abgrundverstärkung
 
-[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_2]
-被动生效：深渊类植物的攻防属性增加{PassiveField1_1}%
+[ARTIFACT_ SILVERKEY_SKILL_DESCRIPTION_2]
+Passiver Effekt: Erhöht Angriff und Verteidigung. Attribute von Abgrundpflanzen um {PassiveField1_1} %
 
 [ARTIFACT_SILVERKEY_SKILL_3]
-触手之殇
+Tentakel-Tod
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，在场地上随机3个中小型僵尸脚下出现触手，将僵尸拖入地面，并吐出能量，单次最多3只僵尸，若场上没有对应僵尸，则跳过此次抓取。
+Alle {PassiveField2_1} Sekunden erscheinen Tentakel unter den Füßen von drei zufällig ausgewählten kleinen und mittelgroßen Zombies auf dem Feld, ziehen die Zombies in den Boden und spucken Energie aus. Maximal drei Zombies können gleichzeitig gefangen werden. Befindet sich kein entsprechender Zombie auf dem Feld, wird diese Gefangennahme übersprungen.
 
 [ARTIFACT_SILVERKEY_SKILL_4]
-信徒荣光
+Ruhm des Gläubigen
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_4]
-真理之门在吸收完僵尸后，从门扉后将走出1只融合巨人信徒僵尸，巨人信徒僵尸的阶数根据吸收到的僵尸数量决定
-
+Nachdem das Tor der Wahrheit Zombies absorbiert hat, tritt ein verschmolzener riesiger Gläubiger-Zombie hinter der Tür hervor. Das Level des riesigen Gläubigenzombies wird durch die Anzahl der absorbierten Zombies bestimmt.
 
 [ARTIFACT_BLACKHOLE]
-黑洞神器
+Schwarzes Loch-Artefakt
 
 [ARTIFACT_BLACKHOLE_DESCRIPTION]
-召唤黑洞牵引僵尸
+Beschwöre ein Schwarzes Loch, um Zombies anzulocken.
 
 [ARTIFACT_BLACKHOLE_SKILL_1]
-神秘黑洞
+Mysteriöses Schwarzes Loch
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_1]
-主动使用：将僵尸朝黑洞方向拉扯，不同重量的僵尸拉扯的速度不同，非巨人僵尸在进入黑洞中心时会直接被吸走，巨人僵尸则会每秒受到{MainField_2}点伤害，黑洞持续{MainField_1}秒
+Aktiv einsetzen: Ziehe die Zombies zum Schwarzen Loch. Zombies unterschiedlichen Gewichts ziehen mit unterschiedlicher Geschwindigkeit. Nicht-riesige Zombies werden direkt weggesaugt, wenn sie das Zentrum des Schwarzen Lochs erreichen. Riesige Zombies erleiden {MainField_2} Schadenspunkte pro Sekunde, und das Schwarze Loch bleibt {MainField_1} Sekunden bestehen.
 
 [ARTIFACT_BLACKHOLE_SKILL_2]
-引力波
+Gravitationswelle
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_2]
-被动生效：黑洞消失时，还会再释放1次引力波，将僵尸全部向黑洞中心拉扯
+Passiver Effekt: Wenn das Schwarze Loch verschwindet, wird eine weitere Gravitationswelle freigesetzt, die alle Zombies ins Zentrum des Schwarzen Lochs zieht.
 
 [ARTIFACT_BLACKHOLE_SKILL_3]
-小型黑洞
+Kleines Schwarzes Loch
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，在地图右侧5×5范围内存在僵尸的随机1个格子中生成1个黑洞，黑洞会将3×3范围内的僵尸向其中吸引，持续{PassiveField2_2}秒
+Alle {PassiveField2_1} Sekunden wird in einem zufälligen Raster im 5×5-Bereich auf der rechten Kartenseite, wo sich Zombies befinden, ein Schwarzes Loch erzeugt. Das Schwarze Loch zieht Zombies im Umkreis von 3×3 für {PassiveField2_2} Sekunden an.
 
-[ARTIFACT_BLACKHOLE_SKILL_4]
-超强吸力
+[A RTIFACT_BLACKHOLE_SKILL_4]
+Superstarker Sog
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_4]
-释放技能时，会吸走释放位置的1个地块，位于该地块上的植物也会消失，经过消失地块的僵尸会直接落下，消失的地块会在{PassiveField3_1}秒后复原，巨人僵尸不会受到该效果影响
+Beim Auslösen der Fertigkeit wird ein Block Land an der Auslöseposition weggesaugt, und die Pflanzen auf dem Block verschwinden. Zombies, die den verschwundenen Block durchqueren, fallen direkt. Der verschwundene Block erholt sich nach {PassiveField3_1} Sekunden. Riesenzombies sind von diesem Effekt nicht betroffen.
 
 [ARTIFACT_METEOR]
-陨石神器
+Meteorartefakt
 
 [ARTIFACT_METEOR_DESCRIPTION]
-落下陨石轰击僵尸
+Fallende Meteoriten bombardieren Zombies.
 
 [ARTIFACT_METEOR_SKILL_1]
-流星火雨
+Meteorschauer
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_1]
-主动使用：选择一个格子释放，对该格子的5×5范围内随机砸下5颗陨石，被砸到的植物和至多3个中小型僵尸会被消灭，其余僵尸受到{MainField_4}点伤害并眩晕，落地之后会停留在落点灼烧路过的僵尸，每秒造成{MainField_8}点伤害，同时穿过陨石的豌豆子弹会附加火焰，技能冷却30秒，每场战斗可使用{MainField_11}次
+Aktiv einsetzen: Wähle ein Gitter zum Abwerfen aus und lasse zufällig 5 Meteoriten fallen. Die getroffenen Pflanzen und bis zu 3 kleine und mittlere Zombies werden zerstört. Die verbleibenden Zombies erleiden {MainField_4} Schadenspunkte und werden betäubt. Nach der Landung bleiben sie am Landepunkt und verbrennen vorbeikommende Zombies. Sie verursachen dabei {MainField_8} Schadenspunkte pro Sekunde. Gleichzeitig werden die Erbsengeschosse, die die Meteoriten durchschlagen, mit Feuer verstärkt. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_11}-mal pro Gefecht eingesetzt werden.
 
 [ARTIFACT_METEOR_SKILL_2]
-火焰强化
+Flammenverstärkung
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_2]
-增加陨石的火焰伤害，10级后变为蓝火，伤害增加至{PassiveField1_1}，20级变为紫火，伤害增加至{PassiveField1_2}
+Erhöht den Feuerschaden von Meteoriten. Ab Stufe 10 wird es zu blauem Feuer und der Schaden erhöht sich auf {PassiveField1_1}. Auf Stufe 20 verwandelt es sich in violettes Feuer und der Schaden erhöht sich auf {PassiveField1_2}.
 
 [ARTIFACT_METEOR_SKILL_3]
-天降陨石
+Meteoritenabwurf
 
-[ARTIFACT_METEOR_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，随机在地图右侧5×5范围内存在僵尸的1个格子内砸下一颗陨石
+[ARTIFACT_ METEOR_SKILL_DESCRIPTION_3]
+Alle {PassiveField2_1} Sekunden fällt zufällig ein Meteorit in ein 5×5-großes Zombie-Raster auf der rechten Kartenseite.
 
 [ARTIFACT_METEOR_SKILL_4]
-焚身烈焰
+Flammen
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_4]
-经过灼烧区域的僵尸会被点燃，每秒受到的灼烧伤害将被替换为最大生命值的{PassiveField3_1}%，持续10秒
+Zombies, die den brennenden Bereich durchqueren, geraten in Brand. Der pro Sekunde erlittene Brandschaden wird durch {PassiveField3_1} % ihrer maximalen Gesundheit ersetzt. Dieser Schaden hält 10 Sekunden lang an.
 
 [ARTIFACT_MAGICHAT]
-魔法帽神器
+Zauberhut Artefakt
 
 [ARTIFACT_MAGICHAT_DESCRIPTION]
-召唤魔法师僵尸攻击敌方僵尸
+Beschwöre einen Magierzombie, um feindliche Zombies anzugreifen.
 
 [ARTIFACT_MAGICHAT_SKILL_1]
-魔法召唤
+Magische Beschwörung
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_1]
-主动使用：在每行最左侧召唤1个阶数为当前神器等级/6（向上取整）的魔法师僵尸，持续15秒，魔法师僵尸可以向右传送本行的敌方僵尸
+Aktiv: Beschwöre einen Magierzombie mit der aktuellen Artefaktstufe/6 (aufgerundet) auf der linken Seite jeder Reihe für 15 Sekunden. Der Zauberzombie kann die gegnerischen Zombies in dieser Reihe nach rechts teleportieren.
 
 [ARTIFACT_MAGICHAT_SKILL_2]
-鸽子魔术
+Taubenmagie
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_2]
-被动生效：魔法师僵尸还可以召唤鸽子叼走本行的敌方僵尸
+Passiver Effekt: Der Zauberzombie kann auch Tauben beschwören, um die gegnerischen Zombies in dieser Reihe zu vertreiben.
 
 [ARTIFACT_MAGICHAT_SKILL_3]
-召唤仪式
+Beschwörungsritual
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，在随机1行召唤1个魔法师僵尸，持续15秒
+Alle {PassiveField2_1} Sekunden wird für 15 Sekunden ein Zauberzombie in einer zufälligen Reihe beschworen.
 
-[ARTIFACT_MAGICHAT_SKILL_4]
-能力强化
+[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_3] ICHAT_SKILL_4]
+Fähigkeitsverbesserung
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_4]
-当魔法师僵尸释放传送效果时，会直接将目标传送到底线（巨人僵尸会传送2格），释放鸽子时，会一次性释放2只鸽子并允许其拖动中型僵尸
-
+Wenn der Zauberzombie den Teleportationseffekt auslöst, teleportiert er sich direkt Das Ziel wird zur unteren Linie teleportiert (der Riesenzombie teleportiert sich zwei Felder weit). Beim Loslassen der Taube werden jeweils zwei Tauben freigelassen, die mittelgroße Zombies mit sich ziehen können.
 
 [ARTIFACT_EVOLUTION]
-进化神器
+Evolutionsartefakt
 
 [ARTIFACT_EVOLUTION_DESCRIPTION]
-进化我方植物
+Entwickle unsere Pflanzen
 
 [ARTIFACT_EVOLUTION_SKILL_1]
-进化光线
+Entwickle das Licht
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_1]
-主动使用：使用时指定3×3范围，将该范围内的植物进化为阳光消耗高于自身的植物，不会变形成为消耗性植物，进化后的植物保留进化前植物的阶数，技能冷却30秒，每场战斗可使用{MainField_2}次
-
+Aktive Nutzung: Gib bei der Nutzung einen Bereich von 3×3 an und entwickle die Pflanzen innerhalb dieses Bereichs zu Pflanzen, die mehr Sonnenlicht verbrauchen als sie selbst. Sie verwandeln sich nicht in verzehrbare Pflanzen. Die weiterentwickelten Pflanzen. Die Kreatur behält die Ordnung der Pflanze vor der Evolution bei. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_2} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_EVOLUTION_SKILL_2]
-强者通吃
+Die Starken nehmen alles
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_2]
-被动生效：阳光消耗大于等于300的植物攻防属性增加{PassiveField1_1}%
+Passiver Effekt: Die Angriffs- und Verteidigungsattribute von Pflanzen mit einem Sonnenlichtverbrauch von mindestens 300 erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_EVOLUTION_SKILL_3]
-定时进化
+Zeitgesteuerte Evolution
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，随机在空地上产生1颗阳光消耗≤100的植物，不会生成消耗性植物
+Alle {PassiveField2_1} Sekunden wird zufällig eine Pflanze mit einem Sonnenlichtverbrauch von ≤100 auf dem freien Boden generiert. Es werden keine verbrauchbaren Pflanzen generiert.
 
 [ARTIFACT_EVOLUTION_SKILL_4]
-无中生有
+Etwas aus dem Nichts erschaffen
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_4]
-释放技能时，如果范围内存在没有植物的空位时，则会在空位上随机生成1个阳光消耗≤100的植物，不会生成消耗性植物
+Beim Freigeben einer Fertigkeit wird in einem leeren Feld ohne Pflanzen zufällig eine Pflanze mit einem Sonnenlichtverbrauch von ≤100 generiert. Es werden keine verbrauchbaren Pflanzen generiert.
 
 [ARTIFACT_MIDASTOUCH]
-点金神器
+Goldenes Artefakt
 
 [ARTIFACT_MIDASTOUCH_DESCRIPTION]
-暂时将僵尸点金，时间内击杀掉落金币
+Verwandelt Zombies vorübergehend in Gold. Tötet sie innerhalb einer bestimmten Zeit, und sie lassen Goldmünzen fallen.
 
 [ARTIFACT_MIDASTOUCH_SKILL_1]
-点僵成金
+Zombies in Gold verwandeln
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_1]
-主动使用：将场上的所有中小型僵尸变成金色雕像使其无法行动，持续{MainField_1}秒，在此期间小体型僵尸死亡会掉落{MainField_2}金币，中体型僵尸会掉落2倍，技能冷却30秒，每场战斗可使用{MainField_5}次
+Aktiv einsetzen: Verwandelt alle kleinen und mittleren Zombies auf dem Feld in goldene Statuen und macht sie {MainField_1} Sekunden lang bewegungsunfähig. Während dieser Zeit lassen kleine Zombies {MainField_2} Goldmünzen fallen, wenn sie sterben, und mittlere Zombies lassen {MainField_2} Goldmünzen fallen, wenn sie sterben. Zombies werden doppelt so oft fallen gelassen, die Abklingzeit der Fertigkeit beträgt 30 Sekunden und kann {MainField_5} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_MIDASTOUCH_SKILL_2]
-妙不可言
+Erstaunlich
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_2]
-每场战斗可获得的金币上限增加{PassiveField1_1}
+Die Obergrenze an Goldmünzen, die pro Kampf erhalten werden können, wird um {PassiveField1_1} erhöht.
 
 [ARTIFACT_MIDASTOUCH_SKILL_3]
-能量满溢
+Energieüberlauf
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，将距离左侧最近的3个中小型僵尸变成金色雕像
+Alle {PassiveField2_1} Sekunden werden die drei kleinen und mittleren Zombies links neben ihnen in goldene Statuen verwandelt.
 
 [ARTIFACT_MIDASTOUCH_SKILL_4]
-巨人炼金术
+Riesenalchemie
 
-[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_4]
-点金效果现在会对巨人僵尸也生效，但是时间会减半，巨人僵尸在时间内死亡会掉落1600金币
+[ARTIFACT_MIDASTOUCH_SKILL_ DESCRIPTION_4]
+Der Goldeffekt wirkt jetzt auch auf Riesenzombies, aber die Zeit wird halbiert. Riesige Zombies lassen 1600 Goldmünzen fallen, wenn sie innerhalb der Zeit sterben.
 
 [ARTIFACT_ACID]
-酸液神器
+Säureartefakt
 
 [ARTIFACT_ACID_DESCRIPTION]
-制造酸液坑，使路过僵尸沉没
+Erstelle eine Säuregrube, um vorbeikommende Zombies zu versenken.
 
 [ARTIFACT_ACID_SKILL_1]
-喷洒酸液
+Säure sprühen
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_1]
-主动使用：选择一个可种植植物的地块释放，将该地块改造成一块无法种植植物的酸液池，路过的小型僵尸会掉进池内，一段时间后被完全溶解死亡，酸液池只能同时溶解一个僵尸，2块连续的酸液池可溶解中大型僵尸，对酸液池使用神器可将酸液回收并增加1次使用次数，该神器每场战斗可使用{MainField_2}次
+Aktiv nutzen: Wähle ein bepflanzbares Feld aus und löse es frei. Dadurch verwandelt sich das Feld in einen Säurepool, in dem keine Pflanzen gepflanzt werden können. Vorbeikommende kleine Zombies fallen in den Pool und werden nach einiger Zeit vollständig aufgelöst und getötet. Der Säurepool kann jeweils nur einen Zombie auflösen. Zwei aufeinanderfolgende Säurepools können mittlere und große Zombies auflösen. Durch die Verwendung des Artefakts im Säurebecken kann die Säure recycelt und die Anzahl der Anwendungen um 1 erhöht werden. Dieses Artefakt kann {MainField_2} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_ACID_SKILL_2]
-酸性毒液
+Säuregift
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_2]
-毒系植物的攻防属性增加{PassiveField1_1}%
+Erhöht die Angriffs- und Verteidigungsattribute giftiger Pflanzen um {PassiveField1_1} %.
 
 [ARTIFACT_ACID_SKILL_3]
-酸性加强
+Säureverstärkung
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_3]
-酸液池的溶解速度加快{PassiveField2_1}%
+Die Auflösung des Säurebeckens wird um {PassiveField2_1} % beschleunigt.
 
 [ARTIFACT_ACID_SKILL_4]
-酸液改造
+Säuretransformation
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_4]
-僵尸被溶解后根据其体型生成属于我方的酸液僵尸，酸液僵尸可对防具造成2倍伤害，死亡后爆炸使3×3范围内的僵尸受到伤害并赋予受到伤害增加的效果，持续10秒。
+Nach der Auflösung des Zombies wird ein Säurezombie entsprechend seiner Körpergröße generiert, der zu unserer Seite gehört. Der Säurezombie kann Rüstungsschaden verdoppeln. Nach seinem Tod explodiert er und fügt Zombies im Umkreis von 3×3 Schaden zu. Der Effekt erhöht den Schaden, der 10 Sekunden anhält.
 
 [ARTIFACT_SNOWDRIFT]
-造雪神器
+Schneeerzeugungsartefakt
 
 [ARTIFACT_SNOWDRIFT_DESCRIPTION]
-冻结全场僵尸并将其变成雪人
+Friert alle Zombies ein und verwandelt sie in Schneemänner.
 
 [ARTIFACT_SNOWDRIFT_SKILL_1]
-寒冰风暴
+Eissturm
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_1]
-主动使用：吹出大雪时全场僵尸冻结，中小体型僵尸被缓慢向右击退并被变成雪人，雪人生命值削弱为原僵尸的30%，吹雪持续{MainField_2}秒，冷却30秒，每场战斗可使用{MainField_6}次
+Aktiv einsetzen: Beim Ausblasen von starkem Schnee frieren alle Zombies ein. Kleine und mittlere Zombies werden langsam nach rechts zurückgeschoben und in Schneemänner verwandelt. Die Gesundheit der Schneemänner wird auf 30 % der ursprünglichen Zombies reduziert. Das Schneeblasen dauert {MainField_2} Sekunden und hat eine Abklingzeit von 30 Sekunden. Du kannst {MainField_ 6} Mal verwenden.
 
 [ARTIFACT_SNOWDRIFT_SKILL_2]
-强化冻结
+Verbessertes Einfrieren
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_2]
-所有冰冻减速和冻结的持续时间增加{PassiveField1_1}%
+Alle Einfrierverlangsamungen und -dauern erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_SNOWDRIFT_SKILL_3]
-雪球投掷
+Schneeballwerfen
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，射出雪球将距离左侧最近的3个僵尸冻结5秒，中小体型僵尸会被变成雪人。
+Schießt alle {PassiveField2_1} Sekunden einen Schneeball ab, um die drei Zombies links am nächsten für 5 Sekunden einzufrieren. Kleine und mittlere Zombies verwandeln sich in Schneemänner.
 
 [ARTIFACT_SNOWDRIFT_SKILL_4]
-封喉冰锥
+Eiskegel
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_4]
-主动技能持续时间内会持续射出冰锥，冰锥击中雪人会将其秒杀，击中巨人会造成伤害，每个冰锥可贯通3次。
+Während der aktiven Fertigkeit werden weiterhin Eiskegel abgefeuert. Trifft ein Eiskegel einen Schneemann, wird dieser sofort getötet. Trifft er einen Riesen, verursacht er Schaden. Jeder Eiskegel kann dreimal eindringen.
 
 [ARTIFACT_SKATEBOARD]
-滑板神器
+Skateboard-Artefakt
 
 [ARTIFACT_SKATEBOARD_DESCRIPTION]
-植物乘坐滑板出场释放华丽大招
+Pflanzen fahren Skateboards und zeigen spektakuläre Moves.
 
 [ARTIFACT_SKATEBOARD_SKILL_1]
-巨星登场
+Superstars erscheinen.
 
 [ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_1]
-主动使用：释放技能后一颗随机植物乘坐滑板入场从左向右移动，滑动过程中植物释放华丽大招并且可以随时上下划动屏幕改变滑板的行数，伤害与神器等级相关，冷却30秒，每场战斗可使用{MainField_2}次
+Aktiv nutzen: Nach dem Auslösen der Fähigkeit fährt eine zufällig ausgewählte Pflanze auf einem Skateboard in das Feld und bewegt sich von links nach rechts. Während des Rutschens zeigt die Pflanze spektakuläre Moves und kann jederzeit durch Wischen auf dem Bildschirm die Anzahl der Skateboardreihen ändern. Der Schaden hängt vom Artefaktlevel ab, die Abklingzeit beträgt 30 Sekunden und kann {MainField_2} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_SKATEBOARD_SKILL_2]
-偶像练习
+Idol-Übung
 
-[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_2]
-滑板相关植物的攻防属性增加{PassiveField1_1}%
+[ARTIFACT_SKATE BOARD_SKILL_DESCRIPTION_2]
+Erhöht die Angriffs- und Verteidigungsattribute von Skateboard-Pflanzen um {PassiveField1_1} %.
 
 [ARTIFACT_SKATEBOARD_SKILL_3]
-滑板撞击
+Skateboard-Kollision
 
 [ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，向最近的3个僵尸发射3个滑板，滑板会将碰到的第一个僵尸秒杀，随后垂直插在地上阻挡僵尸
+Alle {PassiveField2_1} Sekunden werden 3 Skateboards auf die 3 nächstgelegenen Zombies geschossen. Die Skateboards töten den ersten Zombie, den sie treffen, sofort und bleiben dann senkrecht im Boden stecken, um die Zombies zu blockieren.
 
 [ARTIFACT_SKATEBOARD_SKILL_4]
-闪耀巨星
+Leuchtender Stern
 
 [ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_4]
-滑板上的所有植物变为其上位替代植物，强化每种植物的效果。
+Alle Pflanzen auf dem Skateboard werden zu ihren Ersatzpflanzen auf höherer Ebene, wodurch deren Wirkung verstärkt wird.
 
 [ARTIFACT_DRAGON]
-龙灯神器
+Drachenlaternen-Artefakt
 
 [ARTIFACT_DRAGON_DESCRIPTION]
-召唤龙灯撞击穿透僵尸造成伤害
+Beschwört eine Drachenlaterne, um Zombies zu treffen und zu durchdringen und Schaden zu verursachen.
 
 [ARTIFACT_DRAGON_SKILL_1]
-龙灯盘旋
+Schwebende Drachenlaterne
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_1]
-主动使用：召唤龙灯进场盘旋，龙灯会以距离最近的僵尸为目标移动，穿过僵尸后每0.1秒造成{MainField_1}点伤害，龙灯的长度随着神器等级成长，龙灯存在{MainField_3}秒，技能冷却{MainField_4}秒，每场战斗可使用{MainField_5}次。
+Aktiv einsetzen: Beschwört eine Drachenlaterne, die das Feld betritt und schwebt. Die Drachenlaterne bewegt sich auf den nächsten Zombie zu und verursacht alle 0,1 Sekunden {MainField_1} Schadenspunkte, nachdem sie ihn durchquert hat. Die Länge der Drachenlaterne wächst mit dem Artefaktlevel. Die Drachenlaterne existiert {MainField_3} Sekunden, die Fertigkeit kühlt {MainField_4} Sekunden ab und kann {MainField_5} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_DRAGON_SKILL_2]
-龙族欢腾
+Freude des Drachenstammes
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_2]
-龙类植物的攻防属性增加{PassiveField1_1}%
+Die Angriffs- und Verteidigungsattribute der Drachenpflanzen erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_DRAGON_SKILL_3]
-龙灯游行
+Drachenlaternenparade
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，飞出1只小型龙灯，以场地上最靠左的僵尸为目标直线飞行直到离开场地，期间对穿透的僵尸每0.1秒造成{PassiveField2_2}点伤害。
+Alle {PassiveField2_1} Sekunden fliegt eine kleine Drachenlaterne auf den Zombie ganz links auf dem Feld zu. Sie fliegt geradlinig, bis sie das Feld verlässt. Dabei verursacht sie dem Zombie, den sie durchdringt, alle 0,1 Sekunden {PassiveField2_2} Schadenspunkte.
+
 
 [ARTIFACT_DRAGON_SKILL_4]
-单龙戏珠
+Einzelner Drache spielt mit einer Perle
+
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_4]
-当场上存在龙灯时，每隔5秒抛出1个绣球到场地上，龙灯会优先以绣球为目标移动，吞食下绣球后，龙灯的在场持续时间延长3秒，且龙灯变大，持续5秒。
+Wenn sich eine Drachenlaterne auf dem Feld befindet, wird alle 5 Sekunden ein Ball auf das Feld geworfen. Die Drachenlaterne bewegt sich zuerst zum Ball. Nachdem sie den Ball verschluckt hat, verlängert sich ihre Verweildauer auf dem Feld um 3 Sekunden. Die Drachenlaterne wird größer und hält 5 Sekunden an.
 
 [ARTIFACT_GUITAR]
-摇滚神器
+Felsartefakt
 
 [ARTIFACT_GUITAR_DESCRIPTION]
-看准时机点击乐符演奏乐曲，根据演奏评价释放强力音波
+Klicke im richtigen Moment auf die Noten, um die Musik abzuspielen und entsprechend der Leistungsbewertung kraftvolle Schallwellen freizusetzen.
 
 [ARTIFACT_GUITAR_SKILL_1]
-渐强声浪
+Verstärkte Schallwellen
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_1]
-主动使用：释放技能后暂停时间并连续出现10个音符，需根据时机点击每个音符，成功时会增加评价，结束后会释放强力音波，音波的伤害和范围根据评价与神器等级决定，冷却30秒，每场战斗可使用{MainField_5}次
+Aktiv einsetzen: Nach dem Freigeben der Fertigkeit wird die Zeit angehalten und 10 Noten erscheinen nacheinander. Klicke jede Note entsprechend dem Timing an. Bei Erfolg erhöht sich die Bewertung. Nach dem Ende wird eine kraftvolle Schallwelle freigesetzt. Schaden und Reichweite der Schallwelle hängen von der Bewertung und dem Artefaktlevel ab. Die Abklingzeit beträgt 30 Sekunden und kann {MainField_5} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_GUITAR_SKILL_2]
-王牌乐队
+Ace Band
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_2]
-音乐类植物的攻防属性增加{PassiveField1_1}%
+Die Angriffs- und Verteidigungsattribute von Musikpflanzen erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_GUITAR_SKILL_3]
-过渡乐符
+Übergehende Musiknoten
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，向最近的3个僵尸发射3个音符，造成{PassiveField2_2}点伤害和击退，还会增加经过的植物50%的攻击速度，持续10秒
+Alle {PassiveField2_1} Sekunden werden 3 Musiknoten auf die nächsten 3 Zombies abgefeuert. Diese verursachen {PassiveField2_2} Schadenspunkte und Rückstoß. Die Angriffsgeschwindigkeit vorbeikommender Pflanzen wird um 50 % erhöht. Die Wirkung hält 10 Sekunden an.
 
 [ARTIFACT_GUITAR_SKILL_4]
-扩音音箱
+Verstärkte Lautsprecher
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_4]
-使用主动技能后掉落2个音响持续对周围3×3范围放出音波，每秒攻击{PassiveField3_1}次，每道音波造成{PassiveField3_2}点伤害和{PassiveField3_3}秒的眩晕,演奏评价越好持续时间越长。
+Nach Einsatz der aktiven Fertigkeit: Zwei Lautsprecher werden fallengelassen, um kontinuierlich Schallwellen im 3×3-Bereich auszustrahlen. Sie greifen {PassiveField3_1} Mal pro Sekunde an. Jede Schallwelle verursacht {PassiveField3_2} Schadenspunkte und {PassiveField3_3} Sekunden Betäubung. Je besser die Leistung, desto länger die Dauer.
 
 [ARTIFACT_TRIDENT]
-海神三叉戟神器
 
 [ARTIFACT_TRIDENT_DESCRIPTION]
-使用海洋之力，召唤海之喷泉顶飞僵尸
+Nutze die Kraft des Ozeans, um die Meeresfontäne zu beschwören und Zombies umzuhauen.
 
 [ARTIFACT_TRIDENT_SKILL_1]
-海洋咆哮
+Ozeanbrüllen
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_1]
-主动使用：召唤{MainField_4}波喷泉，每1波在场地格子中僵尸数量最多的{MainField_1}个格子上喷出喷泉，能够直接击飞地块上的中小型僵尸，上限为{MainField_2}个，其余僵尸向上腾空后落地，受到{MainField_5}点伤害并眩晕4秒，对巨人僵尸效果减半，技能冷却{MainField_6}秒，每场战斗可使用{MainField_7}次。
- 
+Aktiv einsetzen: {MainField_4} Fontänenwellen beschwören. Jede Welle spuckt Fontänen auf die {MainField_1}-Felder mit der größten Anzahl an Zombies im Feld. Kleine und mittelgroße Zombies können direkt am Boden umgeworfen werden, maximal {MainField_2}. Die verbleibenden Zombies fliegen hoch und fallen zu Boden, erleiden dabei {MainField_5} Schadenspunkte und sind 4 Sekunden lang betäubt. Bei riesigen Zombies halbiert sich die Wirkung. Die Fertigkeit kühlt {MainField_6} Sekunden ab und kann {MainField_7} Mal pro Kampf eingesetzt werden.
+
 [ARTIFACT_TRIDENT_SKILL_2]
-神兵利器
+Magische Waffen
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_2]
-手持兵器的植物攻防属性增加{PassiveField1_1}%
+Die Angriffs- und Verteidigungsattribute von Pflanzen mit Waffen erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_TRIDENT_SKILL_3]
-深渊水池
+Abyssischer Teich
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，场上最靠左侧的{PassiveField2_2}个中小型僵尸所在地块变为水池，路过的1个中小型僵尸直接掉入水中死亡，随后地块恢复正常，水池最多存在15秒。
+Alle {PassiveField2_1} Sekunden verwandelt sich der Bereich, in dem sich {PassiveField2_2} kleine und mittlere Zombies ganz links im Feld befinden, in einen Teich. Ein vorbeikommender kleiner oder mittlerer Zombie fällt ins Wasser und stirbt. Anschließend wird der Bereich wieder normal. Der Teich besteht maximal 15 Sekunden lang.
 
 [ARTIFACT_TRIDENT_SKILL_4]
-冲击龙卷
+Einschlag-Tornado
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_4]
-所有喷泉喷出后，在地图最侧出现水龙卷，水龙卷在移动时会将5行范围内的僵尸全部吸引到中心点，随后推动到第9列，巨人被推动3个后恢复正常。
-
+Nachdem alle Brunnen versprüht wurden, erscheint am anderen Ende der Karte ein Wassertornado. Er zieht alle Zombies im Umkreis von fünf Reihen zum Mittelpunkt und schiebt sie dann in die neunte Spalte. Nachdem drei Riesen weggeschoben wurden, kehren sie in ihren Normalzustand zurück.
 
 [ARTIFACT_CALABASH]
-葫芦神器
+Kürbis-Artefakt
 
 [ARTIFACT_CALABASH_DESCRIPTION]
-将全场指定体型僵尸吸入葫芦中秒杀
+Saugt alle Zombies einer bestimmten Größe in den Kürbis und tötet sie sofort.
 
 [ARTIFACT_CALABASH_SKILL_1]
-叫你一声
+Ruft dich an.
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_1]
-使用葫芦出现3种僵尸体型，选择其中一种之后，葫芦会开始将全场所有指定体型的僵尸吸入葫芦，持续吸收5秒，每种体型的僵尸占用葫芦不同的容量(2/6/10)，当葫芦吸收僵尸后会缓慢消化，每消化10点容量，会产出一颗丹药，丹药根据吸收体型有3种效果，将丹药拖到植物身上可对其使用
+Benutzt den Kürbis, um drei Zombiegrößen zu erschaffen. Nach der Auswahl eines Zombies saugt der Kürbis alle Zombies der angegebenen Größe 5 Sekunden lang in sich hinein. Jede Zombiegröße beansprucht eine andere Kapazität des Kürbisses (2/6/10). Nachdem der Kürbis die Zombies absorbiert hat, beginnt er langsam zu verdauen. Pro 10 verdauten Kapazitätspunkten wird eine Pille produziert. Die Pille hat je nach Größe des Absorbers drei Effekte. Ziehe die Pille zur Pflanze, um sie zu verwenden.
 
 [ARTIFACT_CALABASH_SKILL_2]
-龙的传人
+Nachkommen des Drachen
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_2]
-功夫类植物攻防属性增加{PassiveField1_1}%
+Angriffs- und Verteidigungsattribute von Kung-Fu-Pflanzen um {PassiveField1_1} % erhöht
 
 [ARTIFACT_CALABASH_SKILL_3]
-赛博炼丹
+Cyber-Alchemie
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_3]
-葫芦的最大容量提升{PassiveField2_1}点,消化速度提升{PassiveField2_2}%
+Die maximale Kapazität des Kürbisses wird um {PassiveField2_1} Punkte erhöht, die Verdauungsgeschwindigkeit um {PassiveField2_2} %.
 
 [ARTIFACT_CALABASH_SKILL_4]
-极品丹药
+Hochwertiges Elixier
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_4]
-生成丹药时有概率额外生成一颗唤雷丹，唤雷丹被使用后在其周围劈下9道闪电造成范围伤害
-
+Beim Herstellen eines Elixiers besteht die Chance, eine zusätzliche Donnerruf-Pille zu erhalten. Nach der Verwendung der Donnerruf-Pille schlagen 9 Blitze um sie herum ein und verursachen Flächenschaden.
 
 [ARTIFACT_CAMERA]
-相机神器
+Kamera-Artefakt
 
 [ARTIFACT_CAMERA_DESCRIPTION]
-使用相机完成拍照，使用相片完成植物回溯
+Nutze die Kamera zum Fotografieren und schließe die Pflanzenverfolgung mithilfe von Fotos ab.
 
 [ARTIFACT_CAMERA_SKILL_1]
-记录一下
+Aufnehmen
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_1]
-点击神器按钮弹出窗口，左侧为相机神器拍照功能，点击后可以直接完成拍照操作，右侧为相框，当拍照完成后，拍下的照片会填充到相框中；拍照时相机闪光灯闪烁，对僵尸造成{MainField_1}秒眩晕效果，冷却时间30秒；使用照片进行回溯，回溯后的植物受到无敌保护，持续{MainField_2}秒，每场战斗可使用{MainField_4}次。
+Klicke auf die Artefakt-Schaltfläche, um ein Fenster zu öffnen. Links befindet sich die Fotofunktion des Kamera-Artefakts. Klicke darauf, um direkt zu fotografieren. Rechts befindet sich der Fotorahmen. Nach der Aufnahme wird das Foto in den Fotorahmen eingepasst. Beim Fotografieren blitzt der Kamerablitz auf und betäubt Zombies {MainField_1} Sekunden lang mit einer Abklingzeit von 30 Sekunden. Benutze das Foto zum Zurückspulen. Die Pflanzen sind nach dem Zurückspulen {MainField_2} Sekunden lang unverwundbar. Jeder Kampf kann {MainField_4} Mal genutzt werden.
 
 [ARTIFACT_CAMERA_SKILL_2]
-当心眼睛
+Achte auf deine Augen!
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_2]
-带有眩晕效果的植物攻防属性增加{PassiveField1_1}%
+Die Angriffs- und Verteidigungsattribute von Pflanzen mit Betäubungseffekten erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_CAMERA_SKILL_3]
-闪光灯！
+Blitz!
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒照相机的闪光灯闪烁，对每一行最前的一个中小体型僵尸造成3s眩晕效果。
+Der Kamerablitz blitzt alle {PassiveField2_1} Sekunden auf und verursacht einen 3-sekündigen Betäubungseffekt auf dem ersten kleinen oder mittleren Zombie in jeder Reihe.
 
 [ARTIFACT_CAMERA_SKILL_4]
-鬼魂来袭
+Geister kommen!
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_4]
-使用相机及使用回溯功能后，生成五个鬼魂，鬼魂生成后向前移动，碰到僵尸后停止，对当前格的中小体型僵尸造成持续恐吓效果
-
+Nachdem du die Kamera und die Backtracking-Funktion benutzt hast, werden fünf Geister generiert. Nachdem die Geister erzeugt wurden, bewegen sie sich vorwärts und bleiben stehen, sobald sie Zombies berühren. Dies führt zu einer anhaltenden Einschüchterung kleiner und mittelgroßer Zombies im aktuellen Raster.
 
 [ARTIFACT_SOULBELL]
-摄魂铃神器
+Seelenfänger-Glocke
 
 [ARTIFACT_SOULBELL_DESCRIPTION]
-摇动摄魂铃控制僵尸进行作战
+Schüttelt die Seelenfänger-Glocke, um Zombies im Kampf zu kontrollieren.
 
 [ARTIFACT_SOULBELL_SKILL_1]
-夺心魄
+Seelenraub
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_1]
-主动使用：释放技能后摇动摄魂铃，朝场上的僵尸丢出符咒，被符咒贴上的中小型僵尸将被我方操控进行攻击，大型僵尸将被定身，持续{MainField_1}秒，冷却30秒，每场战斗可使用{MainField_6}次
+Aktiv einsetzen: Schüttelt nach dem Auslösen der Fertigkeit die Seelenfänger-Glocke und belegt die Zombies auf dem Feld mit einem Zauber. Die kleinen und mittelgroßen Zombies, die mit dem Zauber verbunden sind, werden von uns zum Angriff kontrolliert, während die großen Zombies für {MainField_1} Sekunden bewegungsunfähig gemacht werden (Abklingzeit 30 Sekunden). Pro Kampf kann {M ainField_6} Mal eingesetzt werden.
 
 [ARTIFACT_SOULBELL_SKILL_2]
-操控大师
+Meister der Kontrolle
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_2]
-操控僵尸的植物攻防属性增{PassiveField1_1}%
+Die Kontrolle der Pflanzenangriffs- und Verteidigungsattribute von Zombies erhöht sich um {PassiveField1_1} %.
 
 [ARTIFACT_SOULBELL_SKILL_3]
-僵尸军团
+Zombiearmee
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，从地图左侧召唤出5个符咒僵尸
+Alle {PassiveField2_1} Sekunden werden 5 Zauberzombies vom linken Kartenrand herbeigerufen.
 
 [ARTIFACT_SOULBELL_SKILL_4]
-摄魂大法
+Seelenfangtechnik
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_4]
-摄魂铃的符咒可控制巨人僵尸，控制时间为{PassiveField3_1}秒
+Der Zauber der Seelenfangglocke kann riesige Zombies {PassiveField3_1} Sekunden lang kontrollieren.
 
 [ARTIFACT_GRAVITY]
-超重力神器
+Supergravitationsartefakt
 
 [ARTIFACT_GRAVITY_DESCRIPTION]
-释放超重力波，将僵尸压入地底
+Supergravitationswellen freisetzen, um Zombies in den Boden zu drücken.
 
 [ARTIFACT_GRAVITY_SKILL_1]
-重力压制
+Schwerkraftunterdrückung
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_1]
-主动使用：超重力神器释放重力波，在指定位置生成一个大范围的重力场，重力场生效期间会将僵尸持续压入地下，持续{MainField_1}秒，冷却30秒，每场战斗可使用{MainField_7}次，注意：部分植物的子弹也会受到重力效果影响！
+Aktiv einsetzen: Das Supergravitationsartefakt setzt Schwerkraftwellen frei, um an der angegebenen Stelle ein großflächiges Gravitationsfeld zu erzeugen. Während des Gravitationsfelds werden die Zombies {MainField_1} Sekunden lang kontinuierlich in den Boden gedrückt. Die Abklingzeit beträgt 30 Sekunden. Das Artefakt kann {MainField_7} Mal pro Kampf eingesetzt werden. Hinweis: Auch einige Pflanzengeschosse werden vom Gravitationseffekt beeinflusst!
 
 [ARTIFACT_GRAVITY_SKILL_2]
-适应重力
+An Schwerkraft anpassen
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_2]
-部分利用重力的植物攻防属性增{PassiveField1_1}%
+Die Angriffs- und Verteidigungsattribute einiger Pflanzen, die Schwerkraft nutzen, erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_GRAVITY_SKILL_3]
-小型重力场
+Kleines Schwerkraftfeld
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，在地图右侧生成一个小范围的重力场
+Alle {PassiveField2_1} Sekunden wird auf der rechten Seite der Karte ein kleines Schwerkraftfeld erzeugt.
 
 [ARTIFACT_GRAVITY_SKILL_4]
-超高重力
+Extrem hohe Schwerkraft
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_4]
-强化重力，使得经过的僵尸会以极快的速度被压入地底
+Verstärkt die Schwerkraft, sodass vorbeikommende Zombies mit hoher Geschwindigkeit in den Boden gedrückt werden.
 
 [ARTIFACT_HYDRAULIC]
-液压神器
+Hydraulisches Artefakt
 
 [ARTIFACT_HYDRAULIC_DESCRIPTION]
-将植物压缩成卡片，可重新种植
+Komprimiert Pflanzen zu Karten. Neu bepflanzt
 
 [ARTIFACT_HYDRAULIC_SKILL_1]
-压缩植物
+Pflanzen komprimieren
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_1]
-主动使用：选择一个格子释放，3×3范围内的所有植物会被压扁，随后变成植物卡片，植物卡片存在{MainField_1}秒，可拖动植物卡片重新种植，每场战斗可使用{MainField_3}次，冷却时间10秒
+Aktiv nutzen: Wähle ein freizugebendes Raster aus. Alle Pflanzen im Bereich von 3×3 werden abgeflacht und in Pflanzenkarten umgewandelt. Pflanzenkarten sind {MainField_1} Sekunden lang gültig und können zum Neubepflanzen gezogen werden. Sie können {MainField_3} Mal pro Kampf eingesetzt werden und halten 10 Sekunden lang an.
 
 [ARTIFACT_HYDRAULIC_SKILL_2]
-压力强化
+Druckverstärkung
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_2]
-锤击类植物的攻防属性增加{PassiveField1_1}%
+Die Angriffs- und Verteidigungsattribute von Hammerpflanzen erhöhen sich um {PassiveField1_1} %.
 
 [ARTIFACT_HYDRAULIC_SKILL_3]
-小压一下
+Leicht drücken
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，将最靠近的3个僵尸压进土里，造成伤害和无法移动效果
+Alle {PassiveField2_1} Sekunden werden die drei nächstgelegenen Zombies in den Boden gedrückt, was Schaden verursacht und sie bewegungsunfähig macht.
 
 [ARTIFACT_HYDRAULIC_SKILL_4]
-僵尸打包
+Zombies packen
 
-[ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_4]
-范围内的僵尸会被变成僵尸卡片，僵尸卡片可移动到任意位置重新变成敌方僵尸，僵尸卡片持续15秒，时间到后仍未使用的卡片会在原地重新变成敌方僵尸
+[ARTIFACT_HYDRAULIC_SKILL_5]
+Zombies packen
+
+[ARTIFACT_HYDRAULIC_SKILL_6]
+Packen Zombies
+
+[ARTIFACT_HYDRAULIC_SKILL_7]
+Pack Zombies CT_HYDRAULIC_SKILL_DESCRIPTION_4]
+Zombies in Reichweite verwandeln sich in Zombiekarten. Zombiekarten können an einen beliebigen Ort verschoben und wieder in gegnerische Zombies verwandelt werden. Zombiekarten bleiben 15 Sekunden lang bestehen. Karten, die nach Ablauf der Zeit nicht verwendet werden, verwandeln sich am ursprünglichen Ort wieder in gegnerische Zombies.
 
 [ARTIFACT_BOWLING]
-保龄球神器
+Bowling-Artefakt
 
 [ARTIFACT_BOWLING_DESCRIPTION]
-滚出保龄球击倒僵尸
+Rolle die Bowlingkugel aus, um Zombies zu besiegen.
 
 [ARTIFACT_BOWLING_SKILL_1]
-总有一个能撞到
+Es gibt immer eine, die treffen kann.
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_1]
-主动使用：每行召唤{MainField_1}个随机种类的坚果保龄球。保龄球种类：坚果球、菠萝蜜、原始坚果球、巨型坚果球
+Aktive Nutzung: Jede Reihe beschwört {MainField_1} zufällige Arten von Bowlingkugeln. Bowlingkugeltypen: Nusskugel, Jackfrucht, Original-Nusskugel, Riesen-Nusskugel
 
 [ARTIFACT_BOWLING_SKILL_2]
-球形强化
+Ballverbesserung
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_2]
-球形植物的攻防属性增加{PassiveField1_1}%，强化植物包括聚能山竹、荸荠兄弟、寒霜白毛丹、坚果、爆炸坚果、原始坚果、全息坚果、波罗蜜、充能柚子、导向蓟、板栗小队、贪吃龙草。
+Die Angriffs- und Verteidigungsattribute kugelförmiger Pflanzen erhöhen sich um {PassiveField1_1} %. Zu den verbesserten Pflanzen gehören Energie-Mangostan, Wasserkastanienbrüder, Frostweiße Butternuss, Nuss, Explosive Nuss, Original-Nuss, Holografische Nuss, Jackfrucht, Aufladende Pampelmuse, Leitdistel, Kastanientrupp und Gieriges Drachengras.
 
 [ARTIFACT_BOWLING_SKILL_3]
-试试水
+Teste die Gewässer
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_3]
-每隔{PassiveField2_1}秒，在随机一行生成一个随机种类的保龄球
+Generiere alle {PassiveField2_1} Sekunden eine zufällige Bowlingkugel in einer zufälligen Reihe.
 
 [ARTIFACT_BOWLING_SKILL_4]
-冠军保龄球
+Champion-Bowling
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_4]
-生成的保龄球种类变为：寒霜白毛丹、菠萝蜜帝、化石盔甲原始坚果球、贪吃龙球
-
+Die generierten Bowlingkugeltypen wurden geändert zu: Frostweiße Haarbutter, Jackfruchtkaiser, Fossile Rüstung Original Nusskugel, Gieriger Drachenball
 
 [PRIVACY_RULE_BTN_TXT]
-隐私条款
+Datenschutzbestimmungen
 
 [SETTING_LOGOUT_TITLE]
-账号注销
+Kontoabmeldung
 
 [SETTING_LOGOUT_TEXT]
-因本游戏属于单机类型，无法自
-行注销账号。如有注销需求请
-联系客服，客服联系方式：
-QQ公众号 4008932088。
-客服会在3-5个工作日内与您联系。
+Da es sich bei diesem Spiel um ein eigenständiges Spiel handelt, kannst du dich nicht selbst von deinem Konto abmelden. Wenn Sie sich abmelden müssen, wenden Sie sich bitte an den Kundenservice. Die Kontaktinformationen für den Kundenservice lauten:
+QQ-Telefonnummer 4008932088.
+Der Kundenservice wird sich innerhalb von 3-5 Werktagen bei Ihnen melden.
 
 [SETTING_LOGOUT_TEXT_A]
-因本游戏属于单机类型，无法自
-行注销账号。如有注销需求请
-联系客服，客服联系方式：
-QQ公众号 4008932088。
-客服会在3-5个工作日内与您联系。
+Da es sich bei diesem Spiel um ein eigenständiges Spiel handelt, können Sie sich nicht selbst von Ihrem Konto abmelden. Wenn Sie sich abmelden müssen, wenden Sie sich bitte an den Kundenservice. Die Kontaktinformationen für den Kundenservice lauten:
+QQ-Telefonnummer 4008932088.
+Der Kundenservice wird sich innerhalb von 3-5 Werktagen bei Ihnen melden.
 
 [PRIVACY_RULE_BTN_TXT]
-隐私条款
+Datenschutzbestimmungen
 
 [PRIVACY_RULE_TXT_1]
-拓维信息系统股份有限公司用户使用许可服务协议
- 
-欢迎申请使用拓维信息系统股份有限公司（下文亦称为“拓维公司”）提供的服务！
- 
-《拓维信息系统股份有限公司用户使用许可服务协议》（以下简称“本协议”）由您与拓维信息系统股份有限公司游戏服务提供方共同缔结，本协议具有合同效力。为保障您的合法权益，请您在同意并接受本协议所有条款前务必审慎阅读、充分理解各条款内容，特别是免除或限制责任的条款，以及开通或使用某项服务的单独协议。限制、免责条款可能以黑体加粗形式提示您注意。
- 
-当您在线点击“同意”或“接受”键后，视为您已详细阅读理解了本协议的全部内容，并同意遵守本协议的规定。除非您已阅读并接受本协议所有条款，否则您无权使用拓维信息系统股份有限公司游戏服务。您使用拓维信息系统股份有限公司游戏服务即视为您已阅读并同意签署本协议。此后您不得以未阅读/未同意本协议内容或类似理由提出任何形式的抗辩。
- 
-如果您未满18周岁的，需在监护人的陪同下阅读本协议，并在取得监护人对用户享用拓维信息系统股份有限公司提供的拓维游戏服务、向拓维信息系统股份有限公司支付费用的行为，以及对本协议全部条款的同意之后，方可享用拓维信息系统股份有限公司提供的拓维游戏服务。
- 
-本协议一旦发生变更，将会及时更新。您若不同意对服务条款的变更，您应停止使用或主动取消相关服务，否则，您的任何对相关服务的登录、查看等行为将被视为您对相关变更条款的理解和接受。开发者和用户同意、理解并遵循以下条款，该部分条款不仅适用于拓维信息系统股份有限公司游戏服务，若开发者的其他相关服务涉及类似、相关情形的，也同时适用，均有约束力。
+Benutzerlizenzvertrag der Tuowei Information System Co., Ltd.
+
+Willkommen bei der Anmeldung für die Dienste der Tuowei Information System Co., Ltd. (nachfolgend „Tuowei Company“ genannt)!
+
+Die „Benutzerlizenz-Servicevereinbarung der Tuowei Information System Co., Ltd.“ (nachfolgend „diese Vereinbarung“) wird von Ihnen und dem Spieleanbieter der Tuowei Information System Co., Ltd. gemeinsam geschlossen und hat vertraglichen Charakter. Um Ihre Rechte und Interessen zu wahren, lesen Sie bitte sorgfältig alle Klauseln, bevor Sie den Bedingungen dieser Vereinbarung zustimmen und diese akzeptieren, insbesondere den Haftungsausschluss und die Haftungsbeschränkung sowie die separate Vereinbarung zur Eröffnung oder Nutzung eines bestimmten Dienstes. Einschränkungen und Haftungsausschlüsse können zur Erinnerung fett hervorgehoben sein.
+
+Wenn Sie online auf „Zustimmen“ oder „Akzeptieren“ klicken, gilt dies als Ihre Kenntnisnahme und Zustimmung zu den Bestimmungen dieser Vereinbarung. Sofern Sie nicht alle Bedingungen dieser Vereinbarung gelesen und akzeptiert haben, sind Sie nicht berechtigt, die Spieledienste der Tuowei Information Systems Co., Ltd. zu nutzen. Ihre Nutzung der Spieledienste der Tuowei Information Systems Co., Ltd. setzt voraus, dass Sie diese Vereinbarung gelesen und unterzeichnet haben. Danach ist eine Einrede wegen Nichtlesens/Nichteinverständnisses mit dem Inhalt dieser Vereinbarung oder ähnlichen Gründen nicht zulässig.
+
+Wenn Sie unter 18 Jahre alt sind, müssen Sie diese Vereinbarung in Begleitung Ihres Erziehungsberechtigten lesen und dessen Zustimmung zur Nutzung der von Tuowei Information Systems Co., Ltd. bereitgestellten Tuowei-Spieledienste, zur Zahlung von Gebühren an Tuowei Information Systems Co., Ltd. und zu allen Bedingungen dieser Vereinbarung einholen, bevor Sie die von Tuowei Information Systems Co., Ltd. bereitgestellten Tuowei-Spieledienste nutzen können.
+
+Sobald diese Vereinbarung geändert wird, wird sie zeitnah aktualisiert. Wenn Sie mit den Änderungen der Nutzungsbedingungen nicht einverstanden sind, sollten Sie die Nutzung der entsprechenden Dienste einstellen oder diese kündigen. Andernfalls gelten Ihre Anmeldungen, Aufrufe und sonstigen Aktionen bei den entsprechenden Diensten als Ihr Verständnis und Ihre Zustimmung zu den entsprechenden Änderungen. Entwickler und Nutzer akzeptieren, verstehen und befolgen die folgenden Bedingungen. Diese gelten nicht nur für die Spieledienste der Tuowei Information Systems Co., Ltd., sondern auch für andere verwandte Dienste des Entwicklers in ähnlichen oder verwandten Situationen und sind verbindlich.
 
 [PRIVACY_RULE_TXT_2]
-第一章     定义
+Kapitel 1     Definition
  
 如无特别说明，下列术语在本协议中的含义为：
  
@@ -56622,120 +56613,120 @@ VIP福利
 海盗登船
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_4]
-时空裂缝
+Raum-Zeit-Riss
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_5]
-龙潮突袭
+Angriff der Drachenflut
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_6]
-寒冰风暴
+Eissturm
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_7]
-云顶之袭
+Angriff der Wolkendecke
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_8]
-时空黑洞
+Raum-Zeit-Schwarzes Loch
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_9]
-召唤僵尸
+Zombies beschwören
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_TITLE]
-机甲风暴事件设置
+Einstellungen für Mech-Sturm-Ereignisse
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_BTN_LEFT]
-区间所在列
+Spalte mit dem Intervall lokalisiert
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_BTN_RIGHT]
-僵尸数量
+Anzahl der Zombies
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_TEXT]
-(小鬼僵尸每1秒出现1个，4秒后剩余的全部出现)
+(Jede Sekunde erscheint ein Kobold-Zombie, alle übrigen nach 4 Sekunden.)
 
 [LEVEL_EDITOR_WAVE_EVENT_RAIDING_PARTY_TITLE]
-海盗登船事件设置
+Einstellungen für Piraten-Enter-Events
 
 [LEVEL_EDITOR_WAVE_EVENT_RAIDING_PARTY_BTN_LEFT]
-僵尸数量
+Anzahl der Zombies
 
 [LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_TITLE]
-云顶之袭事件设置
+Einstellungen für Cloudtop-Raid-Events
 
-[LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_BTN_LEFT]
-终点所在列
+[LEVEL_EDITOR_WAVE_EVENT_PARACHUTE TE_RAIN_BTN_LEFT]
+Die Spalte mit dem Ziel lokalisiert
 
 [LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_TEXT]
-(失落飞行员僵尸每1秒出现2个，共4个)
+(Je 1 Sekunde erscheinen 2 Zombies vom Typ „Lost Pilot“, insgesamt 4)
 
 [LEVEL_EDITOR_WAVE_EVENT_RAIDING_PARTY_BTN_LEFT]
-僵尸数量
+Anzahl der Zombies
 
 [LEVEL_EDITOR_WAVE_EVENT_BLACK_HOLE_TITLE]
-时空黑洞事件设置
+Einstellungen für das Zeit- und Raum-Schwarzloch-Ereignis
 
 [LEVEL_EDITOR_WAVE_EVENT_BLACK_HOLE_BTN_LEFT]
-向右吸引格数
+Anzahl der nach rechts gezogenen Gitter
 
 [LEVEL_EDITOR_WAVE_EVENT_DINO_STRIKE_TITLE]
-龙潮突袭
+Drachenflut-Raid
 
-[LEVEL_EDITOR_WAVE_EVENT_DINO_STRIKE_BTN_LEFT]
-出现行数
+[LEVEL_EDITOR_WAVE_EVENT _DINO_STRIKE_BTN_LEFT]
+Anzahl der Zeilen
 
 [LEVEL_EDITOR_WAVE_EVENT_DINO_STRIKE_BTN_RIGHT]
-触发时间
+Auslösezeit
 
 [LEVEL_EDITOR_WAVE_EVENT_PORTAL_TITLE]
-时空裂缝设置
+Einstellungen für Zeit- und Raumknacken
 
 [LEVEL_EDITOR_WAVE_EVENT_PORTAL_BTN_LEFT]
-出现列数
+Anzahl der Spalten
 
 [LEVEL_EDITOR_WAVE_EVENT_PORTAL_BTN_RIGHT]
-出现行数
+Anzahl der Zeilen
 
 [LEVEL_EDITOR_WAVE_EVENT_PORTAL_BTN_WORLD]
-裂缝世界选择
+Weltauswahl knacken
 
 [LEVEL_EDITOR_WAVE_EVENT_SUMMON_ZOMBIE_TITLE]
-召唤僵尸设置
+Einstellungen für Zombiebeschwörung
 
 [PVZ2_CHEATING_CHECK_TITLE]
-警 告
+Warnung
 
 [PVZ2_CHEATING_WARNING_1]
-亲爱的小僵僵，系统检测到您的数据存在异常
-请规范您的游戏行为，后续检测发现后会清除您的榜单排名
+Lieber Zhuangjiang, das System hat festgestellt, dass deine Daten nicht korrekt sind.
+Bitte passe dein Spielverhalten an. Dein Ranking wird nach einer erneuten Erkennung gelöscht.
 
 [PVZ2_CHEATING_WARNING_2]
-亲爱的小僵僵，系统检测到您的数据存在异常
-您的榜单排名已被清空，请规范您的游戏行为
-后续检测发现会进行封号处理。如有问题请联系客服
-客服qq公众号：4008932088
+Lieber Zhuangjiang, das System hat festgestellt, dass deine Daten nicht korrekt sind.
+Dein Ranking wurde gelöscht. Bitte passe dein Spielverhalten an.
+Eine erneute Erkennung führt zur Kontosperrung. Bei Fragen wende dich bitte an den Kundenservice.
+Kundenservice-QQ-Telefonnummer: 4008932088
 
 [PVZ2_CHEATING_WARNING_3]
-亲爱的小僵僵，系统检测到您的数据存在异常
-您的榜单排名已被清空，请规范您的游戏行为
-后续检测发现会进行封号处理。如有问题请联系客服
-客服qq公众号：4008932088
+Lieber Zhuangjiang, das System hat festgestellt, dass deine Daten nicht korrekt sind.
+Dein Ranking wurde gelöscht. Bitte passe dein Spielverhalten an.
+Eine erneute Erkennung führt zur Kontosperrung. Bei Fragen wenden Sie sich bitte an den Kundenservice.
+Kundenservice-QQ-Telefonnummer: 4008932088
 
 [PVZ2_CHEATING_WARNING_4]
-您的账号已被封禁，如有问题请联系客服
-客服qq公众号：4008932088
+Ihr Konto wurde gesperrt. Bei Fragen wenden Sie sich bitte an den Kundenservice.
+Kundenservice-QQ-Telefonnummer: 4008932088
 
 [PVZ2_CHEATING_WARNING_5]
-您的账号已被封禁，如有问题请联系客服
-客服qq公众号：4008932088
+Ihr Konto wurde gesperrt. Bei Fragen wenden Sie sich bitte an den Kundenservice.
+Kundenservice-QQ-Telefonnummer: 4008932088
 
 [PVZ2_CHEATING_WARNING_6]
-您的账号已被封禁，如有问题请联系客服
-客服qq公众号：4008932088
+Ihr Konto wurde gesperrt. Bei Fragen wenden Sie sich bitte an den Kundenservice.
+Kundenservice-QQ-Telefonnummer: 4008932088
 
 [PVZ2_CHEATING_WARNING_7]
-您的账号已被封禁，如有问题请联系客服
-客服qq公众号：4008932088
+Ihr Konto wurde gesperrt. Bei Fragen wenden Sie sich bitte an den Kundenservice.
+Kundenservice-QQ-Telefonnummer: 4008932088
 
 [UI_BAG_TITLE]
-道 具
+Rucksack
 
 [UI_BAG_PLANT_PIECE]
 Pflanzenteile
@@ -56753,7 +56744,7 @@ Andere Gegenstände
 Pflanze Verbessern
 
 [UI_BAG_TRANS_GENOSIS]
-转基因
+Gentechnisch verändert
 
 [UI_BAG_AVATAR_EXCHANGE]
 Kostümtausch
@@ -56804,10 +56795,10 @@ Episch
 Legendär
 
 [COLLECTION_USE]
-场上所有植物每秒有3%的概率进入持续5秒的精准打击状态，精准打击状态下植物的每次伤害额外追加20%的真实伤害。真实伤害无视护盾与防具(创意庭院模式下不生效)
+Alle Pflanzen auf dem Feld haben eine 3%ige Chance, in einen Präzisionsschlagzustand zu geraten, der 5 Sekunden pro Sekunde anhält. Jeder Schaden, den die Pflanze im Präzisionsschlagzustand verursacht, erhöht den wahren Schaden um 20 %. Der wahre Schaden ignoriert Schilde und Rüstungen (nicht wirksam im Kreativhof-Modus).
 
 [COLLECTION_GOT_WAY]
-时空秘境-童话森林困难模式
+Zeit und Raum – Geheimnisvolles Reich – Märchenwald, Schwierigkeitsgrad
 
 [FAIRY_TALE]
 Märchenwelt
@@ -62628,120 +62619,122 @@ Höchste Punktzahl in diesem Zeitraum: {NUMS}
 累计获得积分
 
 [PVZ1_ACHIEVEMENT_TITLE]
-成就
+Erfolg
 
 [PVZ1_ACHIEVEMENT_FINISH]
-成就已完成！
+Erfolg abgeschlossen!
 
 [PVZ1_ACHIEVEMENT_NAME_1]
-光芒万丈
+Brillantes Licht
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_1]
-在单场战斗结束时剩余8888点阳光
+8888 Sonnen verbleiben am Ende einer Schlacht
 
 [PVZ1_ACHIEVEMENT_NAME_2]
-疯狂之旅
+Verrückte Reise
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_2]
-完成困难难度所有关卡
+Schließe alle Level auf dem Schwierigkeitsgrad „Schwer“ ab.
 
 [PVZ1_ACHIEVEMENT_NAME_3]
-生死时速
-
-[PVZ1_ACHIEVEMENT_DESCRIPTION_3]
-在时空能量高于50%的情况下击败一次精英僵尸
-
-[PVZ1_ACHIEVEMENT_NAME_4]
-光辉岁月
+Geschwindigkeit
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_4]
-不携带二代植物通关一个赛季内全部的困难精英僵尸关卡
+CHIEVEMENT_DESCRIPTION_3]
+Besiege einmal einen Elite-Zombie, wenn die Raum-Zeit-Energie über 50 % liegt.
+
+[PVZ1_ACHIEVEMENT_NAME_4]
+Glorreiche Jahre
+
+[PVZ1_ACHIEVEMENT_DESCRIPTION_4]
+Schließe alle schwierigen Elite-Zombie-Level einer Saison ab, ohne die zweite Generation zu tragen. Pflanzen
 
 [PVZ1_ACHIEVEMENT_NAME_5]
-极限挑战
+Extreme Herausforderung
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_5]
-不要失去多于10株植物通关一次困难精英僵尸关卡
+Schließe ein schwieriges Elite-Zombie-Level ab, ohne mehr als 10 Pflanzen zu verlieren.
 
 [PVZ1_ACHIEVEMENT_NAME_6]
-万磁王
+Magneto
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_6]
-使用磁力菇累计吸取200个金属物品
+Nutze Magnetismus, um 200 Metallobjekte zu absorbieren.
 
 [PVZ1_ACHIEVEMENT_NAME_7]
-豌豆爱好者
+Erbsenliebhaber
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_7]
-使用豌豆射手累计击败200只僵尸
+Besiege 200 Zombies mit der Erbsenkanone.
 
 [PVZ1_ACHIEVEMENT_NAME_8]
-魅力四射
+Bezaubernd
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_8]
-使用魅惑菇累计魅惑200只僵尸
+Nutze Zauberpilz, um 200 zu bezaubern. Zombies
 
 [PVZ1_ACHIEVEMENT_NAME_9]
-挑战达人
+Herausforderungsmeister
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_9]
-完成两次不同主题下的全部普通关卡
+Schließe alle normalen Level in zwei verschiedenen Themen ab.
 
 [PVZ1_ACHIEVEMENT_NAME_10]
-精英狩猎
+Elite-Jagd
 
-[PVZ1_ACHIEVEMENT_DESCRIPTION_10]
-击败4个不同的精英僵尸
+[PV Z1_ACHIEVEMENT_DESCRIPTION_10]
+Besiege 4 verschiedene Elite-Zombies.
 
 [PVZ1_ACHIEVEMENT_NAME_11]
-精英杀手
+Elite-Killer
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_11]
-累计击败32次精英僵尸
+Besiege insgesamt 32 Elite-Zombies.
 
 [PVZ1_ACHIEVEMENT_NAME_12]
-掌握时空
+Meister der Raumzeit
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_12]
-在时空能量高于50%的情况下通关32次关卡
+Wenn die Raumzeit-Energie über 50 % der Fälle liegt, schließe 32 ab. Level
 
 [PVZ1_ACHIEVEMENT_INTEGRAL_REWARD_DESCRIPTION_1]
-精品宝箱x1
+Exquisite Schatztruhe x1
 
 [PVZ1_ACHIEVEMENT_INTEGRAL_REWARD_DESCRIPTION_2]
-普通蜗牛币x1000
+Gewöhnliche Schneckenmünze x1000
 
 [PVZ1_ACHIEVEMENT_INTEGRAL_REWARD_DESCRIPTION_3]
-钻石x200
+Diamant x200
 
 [PVZ1_ACHIEVEMENT_INTEGRAL_REWARD_DESCRIPTION_4]
-橙色培养液x10
+VEMENT_INTEGRAL_REWARD_DESCRIPTION_4]
+Orangefarbenes Nährmedium x10
 
 [PVZ1_ACHIEVEMENT_INTEGRAL_REWARD_DESCRIPTION_5]
-代抽券x5
+Los x5
 
 [PVZ1_ACHIEVEMENT_INTEGRAL_REWARD_DESCRIPTION_6]
-头像
+Avatar
 
 [PVZ1_ACHIEVEMENT_INTEGRAL]
-成就代币
+Erfolgstoken
 
-[PVZ1ACHIEVEMENT]
-成就
+[PVZ1ACHI EVEMENT]
+Erfolg
 
 [REWARD_DETAILS]
-奖励详情
+Belohnungsdetails
 
 [PVZ1_ACHIEVEMENT_INFO_BTN_TITLE]
-成就说明
+Erfolgsbeschreibung
 
 [PVZ1_ACHIEVEMENT_INFO_BTN_TEXT]
-1、每个成就的成就币仅能领取一次
-2、成就币达到规定值时，可以领取奖励
-3、成就的任务和进度不会跟随赛季进行重置
+1. Jede Erfolgsmünze kann nur einmal eingefordert werden.
+2. Sobald die Erfolgsmünze den angegebenen Wert erreicht, kann die Belohnung eingefordert werden.
+3. Aufgabe und Fortschritt des Erfolgs werden mit der Saison nicht zurückgesetzt.
 
 [ANNIVERSARY_KEY_INFO_TITLE]
-秘境说明
+Geheime Beschreibung
 
 [ANNIVERSARY_KEY_INFO_TEXT_1]
 1、开启时间
@@ -63287,419 +63280,467 @@ NO41平行宇宙秘境说明
 关卡下载成功！
 
 [CUSTOM_LEVEL_DEFAULT_TIPS]
-操作成功
+Vorgang erfolgreich
 
 [REPORT]
-举报
+Melden
 
 [COLLECT_LEVEL]
-收藏关卡
+Erfasster Level
 
 [COLLECTED_LEVEL]
-已收藏
+Erfasst
 
 [CUSTOM_LEVEL_REPORT_TIPS]
-举报提示
+Tipps melden
 
 [CUSTOM_LEVEL_REPORTED]
-已举报
+Gemeldet
 
 [CUSTOM_LEVEL_REPORT_SURE]
-确定要举报该关卡吗？
+Möchten Sie diesen Level wirklich melden?
 
 [CUSTOM_LEVEL_PLAY_COIN_FULL]
-今日可获得的代币已到上限
+Das Limit der heute verfügbaren Token wurde erreicht.
 
 [CUSTOM_LEVEL_PLAY_COIN_LIMIT]
-今日上限：{NUM1}/{NUM2}
+Heutiges Limit: {NUM1}/{NUM2}
 
 [CUSTOM_LEVEL_NO_REWARD]
-通关时长不到30秒
-无法获得游玩币
+Die Level-Abschlusszeit beträgt weniger als 30 Sekunden.
+Spielmünzen konnten nicht erhalten werden.
 
 [CUSTOM_LEVEL_REWARED]
-当前关卡已获得过游玩币
+Das aktuelle Level hat Spielmünzen erhalten.
 
 [CUSTOM_LEVEL_ERROR]
-游戏代币结算异常
+Die Abrechnung der Spieltoken ist abnormal.
 
 [CUSTOM_LEVEL_SUPPORT_TIPS]
-点赞提示
+Trinkgeld für „Gefällt mir“
 
 [CUSTOM_LEVEL_SUPPORT_SURE]
-确定要点赞该关卡吗？
+Möchtest du dieses Level wirklich „Gefällt mir“ geben?
 
 [CUSTOM_LEVEL_SUPPORT_APPRAISE]
-点赞评价
+Liken und kommentieren
 
 [CUSTOM_LEVEL_NOT_SUPPORT_TIPS]
-点踩提示
+Tipps anklicken und ablehnen
 
 [CUSTOM_LEVEL_NOT_SUPPORT_SURE]
-确定要点踩该关卡吗？
+Möchten Sie dieses Level wirklich anklicken und ablehnen?
 
 [CUSTOM_LEVEL_FLTER_WORLD_SELECT_TITLE]
-世界选择
+Weltauswahl
 
 [CUSTOM_LEVEL_FLTER_STYLE_SELECT_TITLE]
-玩法选择
+Spielauswahl
 
 [CUSTOM_LEVEL_FILTER_ALL]
-全部
+Alle
 
 [CUSTOM_LEVEL_WORLD_TYPE_0]
-神秘埃及
+Geheimnisvolles Ägypten
 
 [CUSTOM_LEVEL_WORLD_TYPE_1]
-海盗港湾
+Piratenbucht
 
 [CUSTOM_LEVEL_WORLD_TYPE_2]
-西部世界
+Piratenbucht
+
+[CUSTOM_LEVEL_WORLD_SELECT_TITLE]
+Weltauswahl
+
+[CUSTOM_LEVEL_FLTER_STYLE_SELECT_TITLE]
+Spielauswahl
+
+[CUSTOM_LEVEL_FILTER_ALL]
+Alle
+
+[CUSTOM_LEVEL_WORLD_TYPE_0]
+Geheimnisvolles Ägypten
+
+[CUSTOM_LEVEL_WORLD_TYPE_1]
+Piratenbucht Bucht
 
 [CUSTOM_LEVEL_WORLD_TYPE_3]
-功夫世界
+Piratenbucht
+
+[CUSTOM_LEVEL_WORLD_SELECT_TITLE]
+Weltauswahl
+
+[CUSTOM_LEVEL_FLTER_STYLE_SELECT_TITLE]
+Spielauswahl
+
+[CUSTOM_LEVEL_FILTER_ALL]
+Alle
+
+[CUSTOM_LEVEL_WORLD_TYPE_0]
+Geheimnisvolles Ägypten
+
+[CUSTOM_LEVEL_WORLD_TYPE_1]
+Piratenbucht
+
+[CUSTOM_LEVEL_WORLD_TYPE M_LEVEL_WORLD_TYPE_2]
+Westwelt
+
+[CUSTOM_LEVEL_WORLD_TYPE_3]
+Kungfu-Welt
 
 [CUSTOM_LEVEL_WORLD_TYPE_4]
-未来世界
+Zukunftswelt
 
 [CUSTOM_LEVEL_WORLD_TYPE_5]
-黑暗世界
+Dunkle Welt
 
 [CUSTOM_LEVEL_WORLD_TYPE_6]
-巨浪沙滩
+Große Welle Strand
 
 [CUSTOM_LEVEL_WORLD_TYPE_7]
-冰河世纪
+Eiszeit
 
 [CUSTOM_LEVEL_WORLD_TYPE_8]
-僵尸迷阵
+Zombie-Labyrinth
 
 [CUSTOM_LEVEL_WORLD_TYPE_9]
-邪恶戴夫
+Böser Dave
 
 [CUSTOM_LEVEL_WORLD_TYPE_10]
-剧院惊魂
+Theater-Terror
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_0]
-总排行
+Gesamtwertung
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_1]
-月排行
+Monatswertung
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_2]
-周排行
+Wochenwertung
 
 [CUSTOM_LEVEL_CREATE_LEVEL_TITLE]
-创建关卡
+Level erstellen
 
-[CUSTOM_LEVEL_CREATE_LEVEL_CHOOSE_PLAY_STYPE_TITLE]
-选择玩法
+[CUSTOM_LEVEL_CREATE_LEVEL_TITLE] EL_CHOOSE_PLAY_STYPE_TITLE]
+Spielstil wählen
 
 [CUSTOM_LEVEL_CREATE_LEVEL_CHOOSE_MODE_TITLE]
-选择模式
+Wähle einen Modus
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_0]
-自选植物
+Wähle deine eigenen Pflanzen
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_1]
-传送带
+Förderband
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_2]
-坚不可摧
+Unzerstörbar
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_3]
-坚不可摧
+Unzerstörbar
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_0]
-自选植物
+Wähle deine eigenen Pflanzen
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_1]
-传送带
+Förderband
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_2]
-坚不可摧
+Unzerstörbar
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_3]
-僵尸迷阵
+Zombie Labyrinth
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_4]
-疯狂博士
+Verrückter Arzt
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_5]
-剧院惊魂
+Theater-Horror
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_6]
-单枪匹马
+Einhändig
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_7]
-砸罐子
+Töpfer zerschlagen
 
-[LEVEL_EDITOR_TOWER_DEFEND_BOARDGRID_SETTING_TITLE]
-地面选择
+[LEVEL_EDITOR_TOWER_DEFEN D_BOARDGRID_SETTING_TITLE]
+Bodenauswahl
 
 [LEVEL_EDITOR_TOWER_DEFEND_SLIDER_TITLE]
-进化阳光消耗
+Evolution Sonnenlichtverbrauch
 
 [CUSTOM_LEVEL_TOWER_DEFEND_LEVELUP_TITLE]
-进化目标植物
+Evolution Zielpflanze
 
 [CUSTOM_LEVEL_TOWER_DEFEND_SWITCH_ZOMBIE_EDITOR_TITLE]
-僵尸编辑
+Zombie Bearbeitung
 
 [CUSTOM_LEVEL_TOWER_DEFEND_SWITCH_PLANT_EDITOR_TITLE]
-植物编辑
+Pflanzenbearbeitung
 
 [LEVEL_EDITOR_SINGLE_HANDED_SLIDER_TITLE]
-进化击杀僵尸数量
+Evolution tötet Zombies
 
 [CUSTOM_LEVEL_SINGLE_HANDED_LEVELUP_TITLE]
-进化目标植物
+Evolutionszielpflanze
 
 [CUSTOM_LEVEL_VASE_BREAKER_BOTTLE_NUM]
-当前配置的植物和僵尸数量为： {NUMS} / {MAX}
+Die aktuell konfigurierte Anzahl an Pflanzen und Zombies beträgt: {NUMS} / {MAX}
 
 [CUSTOM_LEVEL_VASE_BREAKER_SELECT_FIRST_HINT_TITLE]
-请先设置
-罐子数量
+Bitte lege zuerst die Anzahl der Gefäße fest.
 
 [CUSTOM_LEVEL_VASE_BREAKER_AUTO_SET_TITLE]
-当前配置的植物或僵尸数量不满足要求，自动配置会将多余或缺少的数量均分到每一个目标身上。
+Die aktuell konfigurierte Anzahl an Pflanzen oder Zombies entspricht nicht den Anforderungen. Die automatische Konfiguration verteilt die überschüssige oder fehlende Anzahl gleichmäßig auf jedes Ziel.
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER_BUTTON]
-罐子数量设置
+Anzahl der Gläser festlegen
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER_HINT]
-罐子数量只能是5的倍数
+Die Anzahl der Gläser kann nur ein Vielfaches von 5 sein.
 
 [CUSTOM_LEVEL_VASE_BREAKER_SELECT_PLANT_OR_ZOMBIE]
-请选择植物或者僵尸
+Bitte Pflanze oder Zombie auswählen.
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER]
-设置数量
+Anzahl festlegen
 
 [CUSTOM_LEVEL_VASE_BREAKER_PLANT_TITLE]
-植物
+Pflanze
 
 [CUSTOM_LEVEL_VASE_BREAKER_ZOMBIE_TITLE]
-僵尸
+Zombie
 
-[CUSTOM_LEVEL_VASE_BREAKER_AUTO_SET_BUTTON]
-自动配置
+[CUSTOM_LEVEL_VASE_BREAKER_SELECT_PLANT_OR_ZOMBIE]
+Bitte Pflanze oder Zombie auswählen. Zombie
+
+[CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER]
+Nummer festlegen
+
+[CUSTOM_LEVEL_VASE_BREAKER_PLANT_TITLE]
+Pflanze
+
+[CUSTOM_LEVEL_VASE_BREAKER_ZOMBIE_TITLE]
+Zombie
+
+[CUSTOM_LEVEL_VASE_BREAKER_SELECT_PLANT_OR_ZOMBIE_TITLE]
+Zombie L_VASE_BREAKER_AUTO_SET_BUTTON]
+Automatische Konfiguration
 
 [CUSTOM_LEVEL_VASE_BREAKER_RETURN_BUTTON]
-返回配置
+Konfiguration zurückgeben
 
 [CUSTOM_LEVEL_EVALUATION_RATE_1]
-好评如潮
+Überwiegend positive Bewertungen
 
 [CUSTOM_LEVEL_EVALUATION_RATE_2]
-多半好评
+Überwiegend positiv Bewertungen
 
 [CUSTOM_LEVEL_EVALUATION_RATE_3]
-褒贬不一
+Gemischte Bewertungen
 
 [CUSTOM_LEVEL_EVALUATION_RATE_4]
-多半差评
+Überwiegend negative Bewertungen
 
 [CUSTOM_LEVEL_EVALUATION_RATE_5]
-差评如潮
+Überwiegend negative Bewertungen
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND]
-“为你推荐” 功能设置
+Einstellungen der Funktion „Empfohlen“
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_DESCRIPTION]
-本页可配置首页 “为你推荐” 功能的开启情况，禁用该功能后，您将失去发现最新和有趣的关卡的机会
+Auf dieser Seite können Sie die Anzeige der Funktion „Empfohlen“ auf der Startseite konfigurieren. Wenn du diese Funktion deaktivierst, verlierst du die Chance, die neuesten und interessantesten Levels zu entdecken.
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_DISABLE]
-禁用 “为你推荐” 功能
+Deaktiviere die Funktion „Empfohlen für dich“.
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_ENABLE]
-启用 “为你推荐” 功能
+Aktiviere die Funktion „Empfohlen für dich“.
 
 [CUSTOM_LEVEL_SETTING_PHONE]
-关联手机号
+Verknüpfe deine Handynummer.
 
 [CUSTOM_LEVEL_SETTING_PHONE_DESCRIPTION]
-关联手机号后，即可在创作者平台登录并申请开通创作激励功能。首次成功关联手机号，可以获得大量钻石奖励哦！
+Nachdem du deine Handynummer verknüpft hast, kannst du dich auf der Creator-Plattform anmelden und die Funktion „Erstellungsprämie“ aktivieren. Wenn du deine Handynummer zum ersten Mal erfolgreich verknüpft hast, kannst du viele Diamant-Prämien erhalten!
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT1]
-当前未关联手机号，关联后可获得奖励
+Derzeit nicht mit einer Handynummer verknüpft. Prämien erhalten Sie nach der Verknüpfung.
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT2]
-已关联手机号（{NUMBER1}）,{NUMBER2}天后可重新关联
+Bereits mit einer Handynummer ({NUMBER1}) verknüpft. Sie können die Verknüpfung nach {NUMBER2} Tagen erneuern.
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT3]
-已关联手机号（{NUMBER1}）,当前可重新关联
+Bereits mit einer Handynummer ({NUMBER1}) verknüpft. Sie können die Verknüpfung jetzt erneuern.
 
 [GOTO_LINK]
-立即关联
+Jetzt verknüpfen
 
 [PHONE_LINKED]
-已关联
+Verknüpft
 
 [GOTO_RELINK]
-重新关联
+Erneut verknüpfen
 
 [CUSTOM_LEVEL_SETTING_LINKED]
-（已关联）
+(Verknüpft)
 
 [CUSTOM_LEVEL_SETTING_NOT_LINKED]
-（未关联）
+(Nicht verknüpft)
 
 [PHONE_NUMBER]
-手机号
+Telefonnummer
 
 [VERIFICATION_CODE]
-验证码
+Verifizierungscode
 
 [NOT_EMPTY]
-不能为空
+Darf nicht leer sein
 
 [FORMAT_ERROR]
-格式错误
+Formatfehler
 
 [SEND_CODE]
-发送验证码
+Verifizierungscode senden
 
 [CODE_ERROR]
-验证码错误
+Verifizierungscode-Fehler
 
 [RESEND_CODE]
-重新发送
+Erneut senden
 
 [RESEND_CODE_EXTRA]
-（{NUMBER}s）
+({NUMBER}s)
 
 [READ_AND_AGREE_PROTOCOL]
-请阅读并同意协议
+Bitte lesen Sie die Vereinbarung und stimmen Sie ihr zu.
 
 [LINKED_USE_PROTOCOL_1]
-我已阅读并同意
+Ich habe die Vereinbarung gelesen und stimme ihr zu.
 
 [LINKED_USE_PROTOCOL_2]
-《用户使用许可服务协议》
+Benutzerlizenzservice Vereinbarung
 
 [CUSTOM_LEVEL_LINKED_SUCCESS]
-手机号关联成功
+Mobiltelefonnummer erfolgreich verknüpft
 
 [CUSTOM_LEVEL_SETTING_LINKED_DESCRIPTION]
-关联手机号可以在创作者后台登录并使用创作者激励功能
-首次成功关联手机号后可以获得关联奖励，仅支持中国大陆手机号(+86)
-^FF0000^每60天可以重新关联一次手机号^oldclr^
+Du kannst dich im Creator-Backend anmelden und die Creator-Prämienfunktion nutzen, indem du deine Handynummer verknüpfst.
+Nach der ersten erfolgreichen Verknüpfung deiner Handynummer erhältst du die Verknüpfungsprämie. Es werden nur Mobilfunknummern aus Festlandchina (+86) unterstützt.
+^FF0000^Sie können Ihre Mobilfunknummer alle 60 Tage neu verknüpfen.^oldclr^
 
 [CUSTOM_LEVEL_SETTING_CERTIFICATION]
-成为认证创作者
+Werden Sie zertifizierter Entwickler.
 
 [CUSTOM_LEVEL_SETTING_CERTIFICATION_DESCRIPTION]
-成为认证创作者，通过创作高质量关卡获得【庭院积分】，可在创作平台兑换对应的奖励
+Werden Sie zertifizierter Entwickler und erhalten Sie [Gartenpunkte] durch das Erstellen hochwertiger Level. Diese können auf der Kreativplattform gegen entsprechende Prämien eingelöst werden.
 
 [CUSTOM_LEVEL_SETTING_CERTIFICATION_TERM1]
-历史发布关卡数≥3个
+Die Anzahl der bisher veröffentlichten Level beträgt ≥ 3.
 
 [CUSTOM_LEVEL_SETTING_CERTIFICATION_TERM2]
-历史收获的总游玩数≥25次
+Die Gesamtzahl der bisher gewonnenen Spiele beträgt ≥ 25.
 
 [CUSTOM_LEVEL_SETTING_CERTIFICATION_HINT]
-已申请认证，请等待审核
+Die Zertifizierung wurde beantragt. Bitte warten Sie. Überprüfung
 
 [CERTIFICATION_SUCCESS]
-认证成功
+Zertifizierung erfolgreich
 
 [MEETS_THE]
-已符合
+Bereits erfüllt
 
 [NOT_MEETS_THE]
-未符合
+Nicht erfüllt
 
 [GOTO_CERTIFICATION]
-立即认证
+Jetzt zertifizieren
 
 [VERIFIED]
-已认证
+Zertifiziert
 
 [UNDER_REVIEW]
-审核中
+Wird geprüft
 
 [CUSTOM_LEVEL_SETTING_UNDER_REVIEW_TIPS]
-已提交认证，请耐心等待认证结果
+Zur Zertifizierung eingereicht. Bitte warten Sie auf das Zertifizierungsergebnis.
 
 [CUSTOM_LEVEL_SETTING_VERIFIED]
-（已认证）
+(Zertifiziert)
 
 [CUSTOM_LEVEL_SETTING_NOT_VERIFIED]
-（未认证）
+(Nicht zertifiziert)
 
 [CUSTOM_LEVEL_SETTING_ACTIVATION]
-激活创作者权益
+Erstellerrechte aktivieren
 
 [CUSTOM_LEVEL_SETTING_ACTIVATION_DESCRIPTION]
-在关联手机号界面中绑定手机号，并使用绑定的手机号在创作平台登录并确认，即可申请开通创作激励功能。使用创作激励功能，可以为自己的关卡设置激励道具选项，邀请小伙伴们游玩关卡并使用道具。获取【庭院积分】收益，结算后可以在创作者平台兑换超丰厚的奖品！
+Verknüpfen Sie Ihre Handynummer mit der verknüpften Handynummer und melden Sie sich mit der verknüpften Handynummer auf der Erstellungsplattform an, um die Erstellungsbonus-Funktion zu aktivieren. Mit der Erstellungsbonus-Funktion können Sie Bonusoptionen für Ihre eigenen Level festlegen und Freunde einladen, Level zu spielen und Bonusse zu verwenden. Sichern Sie sich [Gartenpunkte] und lösen Sie nach der Abrechnung supergroßzügige Preise auf der Creator-Plattform ein!
 
 [CUSTOM_LEVEL_SETTING_GOTO_CREATOR_PLATFORM]
-前往创作者平台
+Zur Creator-Plattform
 
 [CUSTOM_LEVEL_SETTING_ACTIVATED]
-（已激活）
+(Aktiviert)
 
 [CUSTOM_LEVEL_SETTING_NOT_ACTIVATED]
-（未激活）
+(Nicht aktiviert)
 
 [CUSTOM_LEVEL_SETTING_MUST_LINKED]
-（须先关联手机）
+(Telefon muss zuerst verknüpft werden)
 
-[CUSTOM_LEVEL_ALLOW_BUY_SUNMONEY]
-允许购买阳光
+[CUSTOM_LEVEL_ALLOW_BUY_S UNMONEY]
+Kauf von Sonnenlicht möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_PLANTFOOD]
-允许购买能量豆
+Kauf von Energiebohnen möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_MOWER]
-允许购买小推车
+Kauf von Karren möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_HAMMER]
-允许购买锤子
+Kauf von Hämmern möglich
 
 [CAN_NOT_SET]
-无法设置
+Kann nicht Set
 
 [CUSTOM_LEVEL_SETTING_CLOSE_RECOMMEND_TITLE]
-禁用 “为你推荐”功能
+Funktion „Empfohlen“ deaktivieren
 
 [CUSTOM_LEVEL_SETTING_HINT_DESC]
-禁用“为你推荐”功能，您将失去发现最新和有趣的关卡的机会。
+Wenn Sie die Funktion „Empfohlen“ deaktivieren, verlieren Sie die Möglichkeit, neue und interessante Level zu entdecken.
 
 [CUSTOM_LEVEL_SETTING_HINT_TITLE]
-禁用提示
+Hinweis deaktivieren
 
 [LINE_NUM]
-第{NUM}行
+Zeile {NUM}
 
 [PVZ_ERROR_46203]
-您的账号已被封
+Ihr Konto wurde gesperrt.
 
 [WAVE_1]
 Welle 1
 
 [WAVE_2]
-第二波
+Welle 2
 
 [WAVE_3]
-第三波
+Welle 3
 
 [WAVE_4]
-第四波
+Welle 4
 
 [WAVE_5]
-第五波
+Welle 5
 
 [WAVE_6]
-第六波
+Welle 6
 
 [WAVE_7]
-第七波
+Welle 7
 
 [WAVE_8]
-第八波
+Welle 8
 
 [PLANT_SPECIAL_TAG_TIPS_TITLE]
 ^2f8101^Fähigkeitsstatus^oldclr^
@@ -64035,7 +64076,7 @@ Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Primitive Sonnenblumen können ab Level 5 verstärkt Sonnenlicht produzieren.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_PRIMALSUNFLOWER]
-Was ist der ultimative Angriffszug der Energiebohne der Ur-Sonnenblume?
+Was ist der ultimative Angriffszug der Spezialdünger-Fähigkeit der Ur-Sonnenblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_PRIMALSUNFLOWER]
 ca=Verleiht euch und den umliegenden Pflanzen einen Schild. | Feuert einen Strahl ab, der den Schaden basierend auf der Anzahl der Sonnenblumen erhöht. | Erzeugt sofort Sonnenlicht. | Erhöht die Angriffskraft und das Angriffstempo der umliegenden Pflanzen.
@@ -64043,11 +64084,11 @@ ca=Verleiht euch und den umliegenden Pflanzen einen Schild. | Feuert einen Strah
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_PRIMALSUNFLOWER]
 Wenn du die Frage richtig antwortest, bist du ein Pflanzenmeister!
 
-Der ultimative Angriffszug der Energiebohne der Ur-Sonnenblume erzeugt sofort 225 Punkte Sonnenlicht.
+Der ultimative Angriffszug der Spezialdünger-Fähigkeit der Ur-Sonnenblume erzeugt sofort 225 Punkte Sonnenlicht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_PRIMALSUNFLOWER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der ultimative Move der Energiebohne der Ur-Sonnenblume kann schnell Sonnenlicht erzeugen.
+Der ultimative Move der Spezialdünger-Fähigkeit der Ur-Sonnenblume kann schnell Sonnenlicht erzeugen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_PRIMALSUNFLOWER]
 Welche Wirkung hat das Kostüm der Ur-Sonnenblume?
@@ -64177,18 +64218,18 @@ Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Ab Level 5 kann die Elektrische Blaubeere mehrere Zombies gleichzeitig angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_ELECTRICBLUEBERRY]
-Was ist der ultimative Move der Energiebohne der Elektrischen Blaubeere?
+Was ist der ultimative Move der Spezialdünger-Fähigkeit der Elektrischen Blaubeere?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_ELECTRICBLUEBERRY]
 ca=Spuckt Feuer, um Zombies vor sich anzugreifen | Verleiht umliegenden Pflanzen einen Angriffsbonus | Löst eine große Gewitterwolke aus, die dreimal hintereinander angreift | Schneidet mit Schwertenergie nach vorne, die die gesamte Reihe durchdringt |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_ELECTRICBLUEBERRY]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Der ultimative Angriff der Energiebohne von Electric Blueberry setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
+Der ultimative Angriff der Spezialdünger-Fähigkeit von Electric Blueberry setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_ELECTRICBLUEBERRY]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der ultimative Angriff der Energiebohne von Electric Blueberry kann einen stärkeren Gewitterwolkenangriff auslösen.
+Der ultimative Angriff der Spezialdünger-Fähigkeit von Electric Blueberry kann einen stärkeren Gewitterwolkenangriff auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_ELECTRICBLUEBERRY]
 Welchen kosmetischen Effekt hat Electric Blueberry?
@@ -64316,21 +64357,21 @@ Beim Pflanzen ab Level 4 besteht die Chance, die Spezialdünger-Fähigkeit direk
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_TALLNUT]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 4 kann der Hochnuss die Energiebohne häufiger einsetzen.
+Ab Level 4 kann der Hochnuss die Spezialdünger-Fähigkeit häufiger einsetzen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_TALLNUT]
-Was ist die ultimative Attacke der Energiebohne des Hochnusses?
+Was ist die ultimative Attacke der Spezialdünger-Fähigkeit des Hochnusses?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_TALLNUT]
 ca=Stahlpanzerung erhalten | Umliegende Pflanzen heilen | Große Edelsteine abschießen, die Zombies Schaden zufügen können | 3 Brandbomben abschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die ultimative Attacke der Energiebohne des Hochnusses ist, Stahlpanzerung zu erhalten.
+Die ultimative Attacke der Spezialdünger-Fähigkeit des Hochnusses ist, Stahlpanzerung zu erhalten.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_TALLNUT]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der ultimative Angriff der Energiebohne der Hohen Nuss kann Zombies länger widerstehen.
+Der ultimative Angriff der Spezialdünger-Fähigkeit der Hohen Nuss kann Zombies länger widerstehen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_TALLNUT]
 Welchen Effekt hat die Dekoration der Hohen Nuss?
@@ -64446,7 +64487,7 @@ Beim Pflanzen nach Level 4 besteht die Chance, dass die Großmaulblume die Spezi
 [PENNY_CLASSROOM_SURVEY_WRONG_6_CHOMPER]
 Wenn du falsch antwortest, beantworte die Frage bitte erneut.
 
-Ab Level 4 kann die Großmaulblume die Energiebohne häufiger auslösen.
+Ab Level 4 kann die Großmaulblume die Spezialdünger-Fähigkeit häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_CHOMPER]
 Welche Fähigkeit erhält die Großmaulblume ab Level 5?
@@ -64471,11 +64512,11 @@ ca=Feuere Kugeln im fächerförmigen Bereich vor dir ab|Feuere 1 großen Kohlkop
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die ultimative Fähigkeit der Energiebohne der Großmaulblume besteht darin, drei Zombies einzusaugen, zu fressen oder zu beißen und sie dann bis zur Ziellinie zu blasen.
+Die ultimative Fähigkeit der Spezialdünger-Fähigkeit der Großmaulblume besteht darin, drei Zombies einzusaugen, zu fressen oder zu beißen und sie dann bis zur Ziellinie zu blasen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_CHOMPER]
 Falls Sie falsch geantwortet haben, beantworten Sie die Frage bitte erneut.
-Die ultimative Fähigkeit der Energiebohne der Großmaulblume kann Zombies aus großer Entfernung fressen oder beißen.
+Die ultimative Fähigkeit der Spezialdünger-Fähigkeit der Großmaulblume kann Zombies aus großer Entfernung fressen oder beißen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_CHOMPER]
 Welche Wirkung hat das Kostüm der Großmaulblume?
@@ -64601,14 +64642,14 @@ ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzug
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_SQUASH]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Beim Pflanzen nach Level 4 besteht die Chance, dass der Kürbis direkt die Energiebohne-Attacke auslöst.
+Beim Pflanzen nach Level 4 besteht die Chance, dass der Kürbis direkt die Spezialdünger-Fähigkeit-Attacke auslöst.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 4 kann der Kürbis die Energiebohne-Attacke häufiger auslösen.
+Ab Level 4 kann der Kürbis die Spezialdünger-Fähigkeit-Attacke häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_SQUASH]
-Was ist die Energiebohne-Attacke des Kürbisses?
+Was ist die Spezialdünger-Fähigkeit-Attacke des Kürbisses?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_SQUASH]
 ca=Wirke einen Zauber, der den Zombie ganz links in einen riesigen Pilz verwandelt | Alle Zombies im Feld vergiftet | Springe und drücke zwei Felder im Feld, springe und drücke anschließend zurück zum Ursprung | Feuere 4 Eisraketen auf das gesamte Feld ab |
@@ -64639,11 +64680,11 @@ Das Tintenfischkostüm kann den ultimativen Sprungdruck verstärken.
 
 [PENNY_CLASSROOM_PLANT_DESC_PRIMALSUNFLOWER]
 ^276500 Pflanzeneigenschaften: ^oldclr Ursonnenblumen ^FF0000 produzieren große Sonnen ^oldclr. Und haben zusätzliche Sonnen in der Dino-Krisenwelt.
-^276500 Energiebohne Ultimativ: ^oldclr Ursonnenblumen produzieren sofort 225 Sonnen.
+^276500 Spezialdünger-Fähigkeit Ultimativ: ^oldclr Ursonnenblumen produzieren sofort 225 Sonnen.
 
 [PENNY_CLASSROOM_PLANT_DESC_ELECTRICBLUEBERRY]
 ^276500 Pflanzeneigenschaften: ^oldclr Elektrische Blaubeere ^FF0000 setzt eine Gewitterwolke frei, die ^oldclr enormen Schaden verursacht und Zombies in Reichweite verfolgt. Sehr nützlich gegen Riesenzombies oder Dr. Zombie.
-^276500 Energiebohne Ultimativ: ^oldclr Elektrische Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
+^276500 Spezialdünger-Fähigkeit Ultimativ: ^oldclr Elektrische Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_PLANT_DESC_TALLNUT]
 ^276500 Pflanzenmerkmale: ^oldclr Tall Nuts sind schwere Verteidigungspflanzen, die nicht nur die Bewegung von Bodenzombies, sondern auch ^FF0000 fliegende Zombies effektiv blockieren können ^oldclr.
@@ -64655,7 +64696,7 @@ Das Tintenfischkostüm kann den ultimativen Sprungdruck verstärken.
 
 [PENNY_CLASSROOM_PLANT_DESC_SQUASH]
 ^276500 Pflanzenfunktionen: ^oldclr Squash kann Zombies im linken und rechten Raster erfassen und nach einem Sprung alle Zombies im Raster zerquetschen.
-^276500 Energiebohne Ultimativ: ^oldclr Squash springt und zerquetscht zwei Raster im Feld und springt schließlich zum Ursprung zurück.
+^276500 Spezialdünger-Fähigkeit Ultimativ: ^oldclr Squash springt und zerquetscht zwei Raster im Feld und springt schließlich zum Ursprung zurück.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_PRIMALSUNFLOWER]
 Prismatisches Gras hat eine hohe Schadenskraft, setzt aber ausreichend Sonnenlicht als Munition voraus. Primitive Sonnenblume kann diese Aufgabe erfüllen.
@@ -67347,7 +67388,7 @@ Eigenschaften
 Filter verwenden
 
 [NEW_PLANT_UI_PLANT_NUM_TEXT]
-Alle ({NUMBER1}/{NUMBER2})
+Gesamt ({NUMBER1}/{NUMBER2})
 
 [NEW_PLANT_UI_SWITCH_TO_OLD]
 Möchten Sie wirklich zur alten Lexikon Version zurückkehren?
@@ -67568,109 +67609,109 @@ Ereignisbeschreibung
 Kleines Geschenkpaket
 
 [WORLD_LEVEL_PACKAGE_1]
-中号礼包
+Mittelgroßes Geschenkpaket
 
 [WORLD_LEVEL_PACKAGE_2]
-大号礼包
+Großes Geschenkpaket
 
 [WORLD_LEVEL_PACKAGE_LIMIT_BUY_DESC]
-限购  ^FF0000 {NUMS} ^oldclr^ 次
+Kauflimit: ^FF0000 {NUMS} ^oldclr^ mal
 
 [WORLD_LEVEL_PACKAGE_BUY_CONFIRM]
-是否购买等级礼包
+Möchten Sie das Level-Geschenkpaket kaufen?
 
 [WORLD_LEVEL_PACKAGE_DESC_TITLE]
-礼品预览
+Geschenkvorschau
 
 [WORLD_LEVEL_PACKAGE_BUY_CONFIRM]
-确认购买礼包
+Geschenkpaket kaufen
 
 [WORLD_LEVEL_PACKAGE_PRICE_0]
-6 元
+6 Yuan
 
 [WORLD_LEVEL_PACKAGE_PRICE_1]
-30 元
+30 Yuan
 
 [WORLD_LEVEL_PACKAGE_PRICE_2]
-60 元
+60 Yuan
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_0_SHORTDESC]
-小号等级礼包
+Geschenkpaket klein
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_1_SHORTDESC]
-中号等级礼包
+Geschenkpaket mittel
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_2_SHORTDESC]
-大号等级礼包
+Geschenkpaket groß
 
 [CORNUCOPIA_TITLE]
-聚宝盆
+Füllhorn
 
 [EXP_CORNUCOPIA]
-聚宝盆经验
+Füllhorn Erfahrung
 
 [CORNUCOPIA_ACTIVITY_COUNTDOWN_TITLE]
-结束倒计时
+Countdown beenden
 
 [CORNUCOPIA_SHOP_COUNTDOWN_TITLE]
-兑换倒计时
+Countdown für Tauschbörsen
 
 [CORNUCOPIA_LEADERBOARD_COUNTDOWN_TITLE]
-公示倒计时
+Countdown für Veröffentlichungen
 
 [CORNUCOPIA_MAX_LEVEL]
-已满级
+Maximales Level
 
 [CORNUCOPIA_ACTIVITY_TIME_OVER]
-活动结束
+Event endet
 
 [CORNUCOPIA_SERVER_TOTAL_PROGRESS_GEM]
-聚宝盆奖池累计
+Cornucopia-Preispool-Ansammlung
 
 [CORNUCOPIA_TOTAL_GACHA_TITLE]
-累计抽取{NUMS}次
+{NUMS} Ziehungen kumulativ
 
 [CORNUCOPIA_CURRENT_TITLE]
-当前
+Aktuell
 
 [CORNUCOPIA_NEXT_TITLE]
-下一级
+Nächstes Level
 
 [CORNUCOPIA_NEXT_LEVEL_DESC]
-距离下一级还要{NUMS}成长值，充值或完成任务可以获得成长值
+Du benötigst {NUMS} Wachstumspunkte Um das nächste Level zu erreichen, erhältst du Wachstumspunkte durch Aufladen oder Erfüllen von Aufgaben.
 
 [CORNUCOPIA_GACHA_TIPS_DESC]
-单次最高可以获得5000钻石大奖哦！
+Du kannst bis zu 5.000 Diamanten mit einem einzigen Preis gewinnen!
 
 [CORNUCOPIA_HARVEST_COOLDOWN_TITLE]
-收获加速
+Erntebeschleunigung
 
 [CORNUCOPIA_LOCK_TITLE]
-档位
+Ausrüstung
 
 [CORNUCOPIA_GACHA_ONE_TITLE]
-抽奖一次
+Einmal ziehen
 
 [CORNUCOPIA_GACHA_TEN_TITLE]
-抽奖十次
+Zehnmal ziehen
 
 [CORNUCOPIA_TAB_NAME1]
-聚宝盆
+Füllhorn
 
 [CORNUCOPIA_TAB_NAME2]
-等级任务
+Level-Aufgabe
 
 [CORNUCOPIA_TAB_NAME3]
-特惠礼包
+Spezial-Geschenkpaket
 
 [CORNUCOPIA_TAB_NAME4]
-兑换商店
+Tauschladen
 
 [CORNUCOPIA_TAB_NAME5]
-瓜分奖池
+Preispool teilen
 
 [CORNUCOPIA_GOTO_LEVEL]
-去升级
+Zum Upgrade
 
 [CORNUCOPIA_LEVEL_DESC]
 {NUM1} / {NUM2}
@@ -68859,67 +68900,67 @@ Kleines Geschenkpaket
 
 
 [PEASHOOTER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在豌豆射手右侧时，会向僵尸发射直线飞行的豌豆子弹。
+Erscheint ein Zombie rechts neben der Erbsenkanone, feuert er Erbsengeschosse geradlinig auf den Zombie ab.
 
 [PEASHOOTER_NEW_SKILL_LEVEL2_DES]
-豌豆射手攻击时有10%的概率连续发射5颗豌豆子弹。
+Beim Angriff der Erbsenkanone besteht eine 10%ige Chance, fünf Erbsengeschosse hintereinander abzufeuern.
 
 [PEASHOOTER_NEW_SKILL_LEVEL3_DES]
-豌豆连发的触发概率提升100%，攻击时有20%的概率连续发射5颗豌豆子弹。
+Die Wahrscheinlichkeit, den Erbsenschuss auszulösen, erhöht sich um 100 %, und die Chance, fünf Erbsengeschosse hintereinander abzufeuern, beträgt 20 %.
 
 [PEASHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen.
 
 [PEASHOOTER_NEW_SKILL_LEVEL5_DES]
-豌豆射手发射的豌豆子弹升级为超级豌豆子弹，子弹伤害提升至210。
+Die Erbsengeschosse der Erbsenschleuder werden zu Super-Erbsengeschossen aufgewertet, deren Schaden auf 210 erhöht wird.
 
 [PEASHOOTER_PLANTFOOD_DESCRIPTION]
-豌豆射手化身超级士兵状态，连续发射60颗豌豆子弹，倾泻向右侧的僵尸。5阶时变为80颗豌豆子弹。
+Die Erbsenschleuder wird zum Supersoldaten und feuert 60 Erbsengeschosse hintereinander ab, die auf die Zombies rechts niederprasseln. Auf Stufe 5 sind es 80 Erbsengeschosse.
 
 [PEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-豌豆射手化身超级士兵状态，^ff0000^发射出3颗大豌豆，每颗大豌豆穿透僵尸并造成超高伤害！^oldclr^
+Die Erbsenschleuder wird zum Supersoldaten und feuert ^ff0000^ drei große Erbsen ab, die jeweils die Zombies durchdringen und extrem hohen Schaden verursachen! ^oldclr^
 
 [SUNFLOWER_NEW_SKILL_LEVEL1_DES]
-向日葵可以持续产出阳光，为种植其它植物做好准备。
+Sonnenblumen können kontinuierlich Sonnenlicht produzieren und so das Pflanzen anderer Pflanzen vorbereiten.
 
 [SUNFLOWER_NEW_SKILL_LEVEL2_DES]
-向日葵死亡后会留下25点阳光。
+Sonnenblumen hinterlassen nach ihrem Tod 25 Sonnenlichtpunkte.
 
 [SUNFLOWER_NEW_SKILL_LEVEL3_DES]
-向日葵死亡后会留下的阳光提升至75点。
+Das nach dem Tod der Sonnenblume verbleibende Sonnenlicht erhöht sich auf 75 Punkte.
 
 [SUNFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine 25% Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [SUNFLOWER_NEW_SKILL_LEVEL5_DES]
-向日葵死亡后会在留下一颗爆炸葵花籽，当僵尸经过时爆炸对单格范围造成最大生命值10%的伤害。爆炸葵花籽会在10秒后消失。
+Nach dem Tod der Sonnenblume hinterlässt sie einen explodierenden Sonnenblumenkern. Kommt ein Zombie vorbei, explodiert dieser und verursacht 10 % des maximalen Gesundheitswerts im Einzelgitterbereich. Der explodierende Sonnenblumenkern verschwindet nach 10 Sekunden.
 
 [SUNFLOWER_PLANTFOOD_DESCRIPTION]
-向日葵绽放出光芒并快乐地舞动，立刻生产300点阳光。
+Die Sonnenblume blüht und tanzt fröhlich und erzeugt sofort 300 Sonnenlichtpunkte.
 
 [SUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-向日葵绽放出光芒并快乐地舞动，立刻生产300点阳光，^ff0000^并且有概率额外生产100金币。^oldclr^
+Die Sonnenblume blüht und tanzt fröhlich. Sie produziert sofort 300 Sonnenlicht, ^ff0000^ und hat die Chance, zusätzlich 100 Goldmünzen zu produzieren. ^oldclr^
 
 [WALLNUT_NEW_SKILL_LEVEL1_DES]
-坚果会用自己坚硬的身体挡住僵尸，保护它身后的植物。
+Die Nuss nutzt ihren harten Körper, um Zombies abzuwehren und die Pflanzen dahinter zu schützen.
 
 [WALLNUT_NEW_SKILL_LEVEL2_DES]
-坚果在死亡时有50%概率产生一次爆炸，震退附近的僵尸。
+Wenn eine Wallnuss stirbt, besteht eine 50%ige Chance auf eine Explosion, die Zombies in der Nähe abwehrt.
 
 [WALLNUT_NEW_SKILL_LEVEL3_DES]
-坚果在死亡时爆炸的概率提升至100%。
+Wenn eine Wallnuss stirbt, erhöht sich die Wahrscheinlichkeit einer Explosion auf 100 %.
 
 [WALLNUT_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [WALLNUT_NEW_SKILL_LEVEL5_DES]
-坚果周围会围绕3个属性的坚果核，自动攻击靠近的僵尸。火焰果核造成90点伤害；雷电果核造成60点伤害并造成1.5秒的^ff9600^麻痹Ⅰ^oldclr^；寒冰果核造成60点伤害并使僵尸进入10秒减速状态。
+Nüsse sind von drei Nusskernen mit unterschiedlichen Eigenschaften umgeben, die Zombies in der Nähe automatisch angreifen. Flammenkerne verursachen 90 Schaden; Blitzkerne verursachen 60 Schaden und verursachen 1,5 Sekunden lang ^ff9600^ LähmungⅠ^oldclr^; Eiskerne verursachen 60 Schaden und verlangsamen Zombies 10 Sekunden lang.
 
 [WALLNUT_PLANTFOOD_DESCRIPTION]
-坚果立刻外壳硬化，恢复生命值并穿上一层坚硬的钢铁盔甲，能够阻挡僵尸的啃食。
+Die Nussschale härtet sofort aus, ihre Gesundheit wird wiederhergestellt und sie erhält eine Schicht aus hartem Stahlpanzer, der dem Nagen der Zombies standhält.
 
 [WALLNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-坚果立刻外壳硬化，恢复生命值并穿上一层^ff0000^更加坚硬的水晶盔甲，能够抵挡更久的僵尸啃食。^oldclr^
+Die Nussschale härtet sofort aus, ihre Gesundheit wird wiederhergestellt und sie erhält eine Schicht aus ^ff0000^ härterem Kristallpanzer, der dem Nagen der Zombies länger standhält. ^oldclr^
 
 [POTATOMINE_NEW_SKILL_LEVEL1_DES]
 土豆地雷会炸飞接触到它的僵尸，但安放后需要花费一段时间来启动自己。
@@ -70196,10 +70237,10 @@ Wenn die Feuer-Erbsenkanone wütend ist, spuckt sie Feuer^ff0000^ und erzeugt ei
 Heiße Kartoffeln können Eiswürfel schmelzen.
 
 [HOTPOTATO_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Energiebohne.
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [HOTPOTATO_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Energiebohne.
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [PEPPERPULT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben dem Pfefferkrug erscheint, wirft der Pfefferkrug brennende Paprikaschoten auf den Zombie. Die Paprikaschoten zerbrechen beim Auftreffen auf den Zombie und verursachen Flächenschaden in Höhe von 25% der Angriffskraft bei den Zombies in einem 3×3-Bereich um die Paprika herum.
@@ -70211,7 +70252,7 @@ Die flammenden Paprikaschoten des Pfefferkrugs verursachen Zombies pro Sekunde 7
 Die blauen Flammenpaprika des Pfefferkrugs verursachen Zombies pro Sekunde 100 Schaden^ef0123^burnⅠ^oldclr^. Wiederholte Angriffe verlängern die Brenndauer.
 
 [PEPPERPULT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [PEPPERPULT_PLANTFOOD_DESCRIPTION]
 Der Pfefferkrug verwandelt sich in eine Pfefferkanone und wirft drei große Paprikaschoten mit dem 8-fachen Schaden seiner eigenen Angriffskraft.
@@ -70229,7 +70270,7 @@ Die Blätter des Rübenwächters wachsen alle 60 Sekunden nach.
 Die Blätter des Rübenwächters wachsen alle 40 Sekunden nach.
 
 [CHARDGUARD_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohne direkt mit einem großen Move freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Move freizusetzen!
 
 [CHARDGUARD_NEW_SKILL_LEVEL5_DES]
 Von Beet Guard abgewehrte Zombies werden nach der Landung 2 Sekunden lang betäubt.
@@ -70250,7 +70291,7 @@ Das von der Betäubungszwiebel freigesetzte Gas kann die Zombies ein Feld rechts
 Das von der Betäubungszwiebel freigesetzte Gas kann die Zombies ein Feld rechts davon 16 Sekunden lang bewegungsunfähig machen.
 
 [STUNION_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Energiebohne direkt auszulösen. (Große Attacke!)
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen. (Große Attacke!)
 
 [STUNION_NEW_SKSKILL_LEVEL5_DES]
 Zombies, die vom Beet Guard zurückgeworfen werden, werden nach der Landung 2 Sekunden lang betäubt.
@@ -70271,7 +70312,7 @@ Die Rübe hat eine Chance von 25%, Kugeln mit dem doppelten Schaden ihrer eigene
 Die Rübe hat eine Chance von 50%, Kugeln mit dem doppelten Schaden ihrer eigenen Angriffskraft abzufeuern.
 
 [XSHOT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [XSHOT_PLANTFOOD_DESCRIPTION]
 Die Spinnende Rübe feuert 14 Kugeln gleichzeitig in vier Richtungen ab und hat eine siebenfache Angriffskraft.
@@ -70289,7 +70330,7 @@ Das Angriffsintervall von Rafflesia wurde auf 8,5 Sekunden verkürzt.
 Das Angriffsintervall von Rafflesia wurde auf 7 Sekunden verkürzt.
 
 [RAFFLESIA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [RAFFLESIA_PLANTFOOD_DESCRIPTION]
 Rafflesia schießt gleichzeitig fünf Blasen mit dem 8-fachen Schaden ihrer eigenen Angriffskraft ab und greift zufällig Zombies auf dem Feld an.
@@ -70307,7 +70348,7 @@ Die Aufziehzeit verkürzt sich auf 4,25 s.
 Die Aufziehzeit verkürzt sich auf 3,5 s.
 
 [ACORN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ACORN_PLANTFOOD_DESCRIPTION]
 Erzeuge einen Wirbelwind, der Zombies in dieser Reihe Schaden zufügt und Hindernisse in dieser Reihe zerstört.
@@ -70325,7 +70366,7 @@ Die Angriffskraft der kleinen Kastanie erhöht sich auf 7,5, und das Kastaniente
 Die Angriffskraft der kleinen Kastanie erhöht sich auf 10, und das Kastanienteam kann fünf kleine Kastanien freisetzen.
 
 [CHESTNUT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen! Die Angriffskraft der kleinen Kastanie erhöht sich auf 12,5!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen! Die Angriffskraft der kleinen Kastanie erhöht sich auf 12,5!
 
 [CHESTNUT_NEW_SKILL_LEVEL5_DES]
 Die kleine Kastanie färbt sich rot, ihre Angriffskraft steigt auf 20 und ihre Lebenspunkte auf 3000.
@@ -70346,7 +70387,7 @@ Bambus‘ Gesundheit steigt auf 6600.
 Bambus‘ Gesundheit steigt auf 9200.
 
 [SUGARCANE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohne direkt mit einem großen Move auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Move auszulösen!
 
 [SUGARCANE_PLANTFOOD_DESCRIPTION]
 Stöße mit einem kräftigen Stoß die Zombies vor dir zurück und betäube sie ^848484^Ⅰ^oldclr^5 Sekunden.
@@ -70397,7 +70438,7 @@ Der Angriff des Spargelkämpfers hat eine Chance von 30%, einen Durchdringungsef
 Der Angriff des Spargelkämpfers hat eine Chance von 40%, einen Durchdringungseffekt zu verursachen, der alle Zombies in einem Raster verletzt.
 
 [ASPARAGUS_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt freizusetzen – ein großer Angriff!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
 
 [ASPARAGUS_PLANTFOOD_DESCRIPTION]
 Der Spargelkämpfer setzt einen Helm auf und feuert mit voller Kraft, um drei Reihen Zombies nacheinander zu beschädigen.
@@ -70415,7 +70456,7 @@ Die fliegende Untertassenmelone kann Zombies mit weniger als 500 Lebenspunkten f
 Die fliegende Untertassenmelone kann Zombies mit weniger als 800 Lebenspunkten fangen.
 
 [SAUCER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen. Großer Move! Die fliegende Untertassenmelone kann Zombies mit weniger als 1000 KP fangen.
+Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen. Großer Move! Die fliegende Untertassenmelone kann Zombies mit weniger als 1000 KP fangen.
 
 [SAUCER_PLANTFOOD_DESCRIPTION]
 Die fliegende Untertassenmelone schießt einen Strahl ab, der das gesamte Feld kontrolliert und alle Zombies auf dem Bildschirm für ^848484^ Ⅰ^oldclr^10 Sekunden betäubt.
@@ -70433,7 +70474,7 @@ Beim Angriff besteht eine 20%ige Chance, dass die Mitglieder des Saubohnen-Teams
 Beim Angriff besteht eine 40%ige Chance, dass die Mitglieder des Saubohnen-Teams zweimal angreifen.
 
 [HORSEBEAN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, dass die Energiebohne direkt freigesetzt wird!
+Beim Pflanzen besteht eine mittlere Chance, dass die Spezialdünger-Fähigkeit direkt freigesetzt wird!
 
 [HORSEBEAN_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 25%ige Chance, dass das Saubohnen-Kommando einen Laser mit 4000 Schaden abfeuert. (Laser lösen keine Kombos aus.)
@@ -70463,7 +70504,7 @@ Die Ruhezeit, nachdem die sich drehende Ananas Kugeln abprallen lässt, wird auf
 Die Ruhezeit, nachdem die Spinnende Ananas Kugeln abprallen lässt, wurde auf 2 Sekunden verkürzt.
 
 [PINEAPPLE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt loszulassen!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt loszulassen!
 
 [PINEAPPLE_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 25%ige Wahrscheinlichkeit, einen Laser mit 2000 Schaden abzufeuern. Nach dem Auslösen des Lasers hat die Saubohne außerdem eine 50%ige Wahrscheinlichkeit, zweimal hintereinander anzugreifen.
@@ -70484,7 +70525,7 @@ Der Zauberpilz hat eine 10%ige Chance, zwei Karten abzufeuern.
 Der Zauberpilz hat eine 10%ige Chance, drei Karten abzufeuern.
 
 [MAGICSHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [MAGICSHROOM_NEW_SKILL_LEVEL5_DES]
 Beim Angriff hat der Zauberpilz eine Chance von 40%, eine goldene Karte mit 450 Schaden zu schleudern. Diese Karte fügt einem Zombie im Einzelfeld Schaden zu und kehrt nach 2 Sekunden zurück.
@@ -70505,7 +70546,7 @@ Finde die Schwachstelle des Zombies, und der Angriff hat eine Chance von 25%, do
 Finde die Schwachstelle des Zombies, und der Angriff hat eine Chance von 50%, doppelten Schaden zu verursachen.
 
 [ROSESWORDMAN_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Angriff!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
 
 [ROSESWORDMAN_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 30%ige Chance, nach vorne zu springen und Zombies im Umkreis von vier Feldern rechts zweimal 450 Schaden zuzufügen.
@@ -70565,7 +70606,7 @@ Der Bonuseffekt der vom Sonnenblumensänger nach dem Singen erzeugten Aura wird 
 Der Bonuseffekt der Aura, die der Sonnenblumensänger nach dem Singen erzeugt, wird auf 20% erhöht.
 
 [BIRTHSUNFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohne direkt auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BIRTHSUNFLOWER_NEW_SKILL_LEVEL5_DES]
 Nachdem der Sonnenblumensänger Sonnenlicht erzeugt hat, sendet er Noten an die aktuelle Reihe. Die Zombies, die von den Noten getroffen werden, werden ^848484^ Ⅰ^oldclr^2 Sekunden lang betäubt.
@@ -70649,7 +70690,7 @@ Wenn der Rote-Stachler in Angriffsform ist, erhöht sich seine Angriffsgeschwind
 Wenn RedSTINGER in Angriffsform ist, erhöht sich die Angriffsgeschwindigkeit kontinuierlicher Angriffe um 30%. Stirbt er in Verteidigungsform, explodiert er und fügt Zombies im Umkreis von 2×1 200 Schaden zu.
 
 [REDSTINGER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Energiebohne direkt freizusetzen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [REDSTINGER_PLANTFOOD_DESCRIPTION]
 RedSTINGER öffnet seine Blütenblätter und verschießt einen riesigen Strahl, der Zombies verlangsamen und Schaden verursachen kann.
@@ -70667,7 +70708,7 @@ Das von Stinkeblüte freigesetzte giftige Gas verzögert den Verlangsamungseffek
 Es besteht eine 25%ige Chance, Zombies 3 Sekunden lang mit Parfüm zu betäuben.
 
 [STALLIA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Energiebohne direkt freizusetzen – ein großer Move!
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [STALLIA_PLANTFOOD_DESCRIPTION]
 Die Stinkeblüte setzt violettes Parfüm frei, das das gesamte Feld bedeckt und alle Zombies auf dem Feld 18 Sekunden lang verlangsamt.
@@ -70706,7 +70747,7 @@ Nach dem Verschlucken und Verdauen erzeugt der Goldene Krötenpilz 75 Punkte Son
 Die Zunge des goldenen Krötenpilzes ist länger geworden und die Angriffsreichweite um 1 Feld erhöht.
 
 [TOADSTOOL_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TOADSTOOL_PLANTFOOD_DESCRIPTION]
 Der goldene Krötenpilz öffnet sein Maul und verschlingt oder leckt sofort viermal alle Reihen im rechten Angriffsbereich. Nach 5 Sekunden Verdauung erzeugt er die entsprechende Menge Sonnenlicht.
@@ -70724,7 +70765,7 @@ Wenn ein Schneemann einen Zombie trifft, wird dieser 10 Sekunden lang durch Eis 
 Wenn ein Schneemann einen Zombie trifft, besteht eine 10%ige Chance, dass dieser 2 Sekunden lang eingefroren wird.
 
 [COTTONYETI_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, dass die Energiebohne direkt freigesetzt wird!
+Beim Pflanzen besteht eine hohe Chance, dass die Spezialdünger-Fähigkeit direkt freigesetzt wird!
 
 [COTTONYETI_PLANTFOOD_DESCRIPTION]
 Wirft die Nase heraus, um einen riesigen Schneemann zu beschwören. Dieser beschädigt den 3×3 großen Bereich um den linken Zombie davor und friert ihn 3 Sekunden lang ein.
@@ -70799,7 +70840,7 @@ Wenn Mei Xiaomei angreift, besteht eine Chance von 20%, eine weitere Pflaumenbl�
 Wenn Mei Xiaomei angreift, besteht eine 40%ige Chance, eine weitere Pflaumenblüte abzuschießen.
 
 [WINTERSWEET_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [WINTERSWEET_PLANTFOOD_DESCRIPTION]
 Wirf einen Ball aus Pflaumenblüten in die Luft. Nach dem Fangen schleudert er sofort 30 Pflaumenblüten in einem fächerförmigen Bereich vor sich.
@@ -70838,7 +70879,7 @@ Beim Angriff von Engelssternfrucht besteht eine 35%ige Chance, einen roten Stern
 Beim Angriff von Engelssternfrucht besteht eine 35%ige Chance, einen roten Stern mit 140 Schadenspunkten oder einen blauen Stern mit 140 Schadenspunkten und Verlangsamungseffekt abzufeuern.
 
 [PINKSTARFRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen! Die Angriffskraft blauer und roter Sterne beträgt 175 Punkte.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen! Die Angriffskraft blauer und roter Sterne beträgt 175 Punkte.
 
 [PINKSTARFRUIT_NEW_SKILL_LEVEL5_DES]
 Rote und blaue Sterne haben eine Angriffskraft von 210 Punkten und es besteht eine 30%ige Chance, eine Runde durchdringender Sterne mit einem Schaden von 630 Punkten abzufeuern.
@@ -70883,7 +70924,7 @@ Die Flamme wird blau und die Angriffskraft erhöht sich.
 
 
 [FLAMELADY_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [FLAMELADY_NEW_SKILL_LEVEL5_DES]
 Nutze violette Flammen für Nahkampfangriffe und ändere Fernangriffe, indem du gleichzeitig 3 bis 5 rote, blaue und violette Feuerbälle mit unterschiedlicher Angriffsstärke wirfst.
@@ -70904,7 +70945,7 @@ Die Waffe der Maschinengewehr-Erbse wurde verbessert. Beim Angriff besteht eine 
 Die Waffe der Maschinengewehr-Erbse wurde verbessert. Beim Angriff besteht eine 50%ige Chance, 10 fächerförmige Erbsen anzuheften.
 
 [GATLINGPEA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, die Energiebohne direkt auszulösen!
+Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [GATLINGPEA_NEW_SKILL_LEVEL5_DES]
 Supererbsen mit schnellerer Angriffsgeschwindigkeit und höherem Schaden.
@@ -70979,7 +71020,7 @@ Nach dem Töten eines Zombies besteht die Chance, andere Pilzarten auf derselben
 Nach dem Töten von Zombies besteht die Chance, weitere Pilzarten auf derselben Stufe wie die aktuellen Pilze zu produzieren.
 
 [SPORESHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen. (Große Aktion!)
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen. (Große Aktion!)
 
 [SPORESHROOM_PLANTFOOD_DESCRIPTION]
 Sporenpilze verschießen 3 Sporen mit dem 45-fachen ihrer eigenen Angriffskraft. Sie greifen zufällig 3 Einheiten auf dem Feld an und produzieren nach dem Töten des Ziels neue Sporenpilze.
@@ -70997,7 +71038,7 @@ Knoblauchs Gesundheit wurde erhöht.
 Zombies, die Knoblauch essen, verlieren 30 Lebenspunkte.
 
 [GARLIC_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [GARLIC_NEW_SKILL_LEVEL5_DES]
 Alle 8 Sekunden kann ein Spezialschock ausgelöst werden, der die instabile Panzerung von Zombies bis Level 8 durchbricht und 3 Sekunden lang 270 Schaden pro Sekunde verursacht.
@@ -71054,7 +71095,7 @@ Beim Angriff besteht eine Chance von 15%, eine Nadel mit 135 Schaden abzufeuern.
 Beim Angriff besteht eine Chance von 30%, eine Nadel mit 180 Schaden abzufeuern.
 
 [NEKOTAIL_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Angriff!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [NEKOTAIL_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, einen violetten Schilfpfeil abzufeuern, der 240 Schadenspunkte verursacht und eine ganze Reihe durchdringt.
@@ -72566,10 +72607,10 @@ Der Dendrobium-Windschutz rotiert schnell und wehrt alle Zombies sofort ein Feld
 Der Dendrobium-Windschutz rotiert schnell und wehrt alle Zombies sofort ein Feld weiter nach rechts ab. Er stellt alle Blätter und Gesundheit wieder her. Die Dendrobium-Windschutze in den angrenzenden Feldern darüber und darunter rotieren ebenfalls schnell und wehren Zombies ab. Er stellt alle Blätter und Gesundheit wieder her. ^oldclr^
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies rechts erscheinen, werfen sie übelriechende Suppe, die den getroffenen Zombies Schaden zufügt und sie 3 Sekunden lang übelriechend macht. Der übelriechende Zustand führt dazu, dass die Zombies rechts die Linie wechseln (^ff0000^) und einen wundersamen Effekt auf das vom Sushi-Zombie geworfene Sushi haben! ^oldclr^
+Wenn Zombies rechts erscheinen, werfen sie übelriechende Suppe, die den getroffenen Zombies Schaden zufügt und sie 3 Sekunden lang übelriechend macht. Der übelriechende Zustand führt dazu, dass die Zombies rechts die Linie wechseln ^ff0000^ und einen wundersamen Effekt auf das vom Sushi-Zombie geworfene Sushi haben! ^oldclr^
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL2_DES]
-Chefkoch Shaolan hat eine 50%ige Chance, konzentrierte Suppe zu werfen, die Zombies im Umkreis eines Rasters Schaden zufügt und sie übelriechend macht.
+Chefkoch Cypripedium hat eine 50%ige Chance, konzentrierte Suppe zu werfen, die Zombies im Umkreis eines Rasters Schaden zufügt und sie übelriechend macht.
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL3_DES]
 Die Wahrscheinlichkeit, dass konzentrierte Gerichte die Fertigkeit auslösen, ist um 100% erhöht, und es besteht eine 100%ige Chance, konzentrierte Suppe zu werfen.
@@ -72578,13 +72619,13 @@ Die Wahrscheinlichkeit, dass konzentrierte Gerichte die Fertigkeit auslösen, is
 Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL5_DES]
-Chef Shaolan veränderte die Suppenart. Sie färbte sich lila und verursachte bei Zombies im Zustand „Foul“ 200 Punkte Giftschaden (^701edf^ Ⅰ^oldclr^) pro Sekunde.
+Chefkoch Cypripedium veränderte die Suppenart. Sie färbte sich lila und verursachte bei Zombies im Zustand „Foul“ 200 Punkte Giftschaden (^701edf^ Ⅰ^oldclr^) pro Sekunde.
 
 [CYPRIPEDIUM_PLANTFOOD_DESCRIPTION]
-Chef Shaolan drückte den Topf zusammen, zielte auf den Zombie ganz links in der rechten Reihe und warf einen großen Suppenball. Dieser verursachte bei allen Zombies im Umkreis von 5×5 Schaden und versetzte sie für 3 Sekunden in den Zustand „Foul“.
+Chefkoch Cypripedium drückte den Topf zusammen, zielte auf den Zombie ganz links in der rechten Reihe und warf einen großen Suppenball. Dieser verursachte bei allen Zombies im Umkreis von 5×5 Schaden und versetzte sie für 3 Sekunden in den Zustand „Foul“.
 
 [CYPRIPEDIUM_AVATAR_PLANTFOOD_DESCRIPTION]
-Chefkoch Shaolan drückte den Topf, zielte auf den Zombie ganz links in der rechten Reihe und warf einen großen Suppenball. Nach dem Auftreffen verursachte er allen Zombies im Umkreis von 5×5 Schaden und versetzte sie für 3 Sekunden in den Zustand des Unheils ^ff0000^ und für 5 Sekunden in ^oldclr^^848484^ Schwindelgefühl Ⅰ^oldclr^^ff0000^. ^oldclr^
+Chefkoch Cypripedium drückte den Topf, zielte auf den Zombie ganz links in der rechten Reihe und warf einen großen Suppenball. Nach dem Auftreffen verursachte er allen Zombies im Umkreis von 5×5 Schaden und versetzte sie für 3 Sekunden in den Zustand des Unheils ^ff0000^ und für 5 Sekunden in ^oldclr^^848484^ Schwindelgefühl Ⅰ^oldclr^^ff0000^. ^oldclr^
 
 [GUMNUT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie ein Feld rechts erscheint, bläst er Blasen, um an ihm zu haften, und verschwindet dann. Der Kaugummi wird vom aktuellen Zombie und dem dahinterstehenden Zombie gefressen. Der Kaugummi hat 8000 Lebenspunkte und erhöht sich mit der Gesundheit des Zombies.
@@ -73166,7 +73207,7 @@ Die Zombiekapsel hat eine 50%ige Chance, einen Karottenhut-Zombie hervorzubringe
 Die Zombiekapsel hat eine 35%ige Chance, einen Karottenhut-Zombie und eine 35%ige Chance, einen Wassermelonenhut-Zombie zu produzieren.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Pflanzen besteht eine 50% Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL5_DES]
 Wenn die Zombiekapsel Zombies produziert, besteht eine 15%ige Chance, einen Maschinengewehr-Zombie zu produzieren, der Erbsen für Angriffe aus großer Entfernung verschießen kann.
@@ -75411,7 +75452,7 @@ Erdsilo Goldener Herbst-Outfit
 Angriffsgeschwindigkeit um 15%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_2]
-Kleiner Erbsenmörser: Goldenes Herbst-Outfit
+Schleudererbse: Goldenes Herbst-Outfit
 
 [NEW_AVATAR_DESCRIPTION_SLINGPEA_2]
 Abklingzeit des Pflanzens um 15% reduziert
