@@ -206,7 +206,7 @@ Klicke auf die Pflanzen auf der Karte, um die Illustration zu öffnen.
 Denk daran, dir vorsichtshalber Spezialdünger-Fähigkeitn zuzulegen!
 
 [ADVICE_BUY_PLANTFOOD]
-Kaufe mit Diamanten mehr Spezialdünger-Fähigkeitn!
+Kaufe mit Juwelen mehr Spezialdünger-Fähigkeitn!
 
 [ADVICE_CANT_PLANT_THERE]
 Dort kannst du nicht pflanzen.
@@ -2468,91 +2468,92 @@ Status der Kontoübertragung
 Kontobindung erfolgreich
 
 [PLATFORM_LOGIN_DIALOG_UNBOUNDSUCCESS]
-账号解绑成功
+Kontoaufhebung erfolgreich
 
 [PLATFORM_LOGIN_DIALOG_UNBOUNDFAILED]
-账号解绑失败
+Kontoaufhebung fehlgeschlagen
 
 [PLATFORM_LOGIN_DIALOG_BINDINGFAILED]
-账号绑定失败
+Kontobindung fehlgeschlagen
 
 [ONBINDING_FAILED]
-账号绑定失败
+Kontobindung fehlgeschlagen
 
 [ONUNBOUND_FAILED]
-账号解绑失败
+Kontoaufhebung fehlgeschlagen
 
 [ONTRANSFER_FAILED]
-账号转移失败
+Kontoübertragung fehlgeschlagen
 
 [PLATFORM_LOGIN_DIALOG_TRANSFERSUCCESS]
-账号转移已成功
+Kontoübertragung erfolgreich
 
 [CLEARNOTIFYRETRYDETAILSUCCESS]
-账号数据已被转移
+Kontodaten wurden übertragen
 
 [CLEARNOTIFYRETRYDETAILFAILED]
-账号数据转移失败
+Kontodatenübertragung fehlgeschlagen
 
 [CLEARNOTIFYRETRYTITLE]
-数据转移
+Datenübertragung
 
 [ONBINDING_FAILED_20310]
-该账号已被其他设备绑定，请先解绑
+Das Konto ist bereits mit anderen Geräten verknüpft. Zuerst trennen
 
 [ONUNBOUND_FAILED_20320]
-该设备绑定了其他账号，无法解绑
+Dieses Gerät ist an andere Konten gebunden und kann nicht getrennt werden.
 
 [ONTRANSFER_FAILED_20316]
-目标设备已绑定其他账号，请先解绑
+Das Zielgerät ist an andere Konten gebunden. Bitte trennen Sie zuerst die Verbindung.
 
 [ONTRANSFER_FAILED_20317]
-该账号并未绑定任何设备
+Dieses Konto ist an kein Gerät gebunden.
 
 [ONTRANSFER_FAILED_20315]
-无法将数据转移到同一台设备
+Daten können nicht auf dasselbe Gerät übertragen werden.
 
 [ONTRANSFER_FAILED_20322]
-无法将高版本的客户端存档转换到低版本客户端内
+Client-Archive mit höherer Version können nicht in Clients mit niedrigerer Version konvertiert werden.
 
 [PLATFORM_BIND_DESC]
-账号绑定可以将你的存档和账号进行绑定
-请选择你需要绑定的账户类型
+Die Kontobindung kann Ihre Archive an Ihr Konto binden.
+Bitte wählen Sie den zu bindenden Kontotyp.
 
 [PLATFORM_TRANSFER_DESC]
-转移账号可以将其他存档转移到本设备上
-本设备上原来的账号将会被删除
+Übertragene Konten können andere Archive auf dieses Gerät übertragen.
+Das ursprüngliche Konto auf diesem Gerät wird gelöscht.
 
 [FREE_GEM_GET_TEXT]
-获取免费钻石
+Erhalte Kostenlose Juwelen
 
 [HEALTH_NOTICE_CONTENT]
-抵制不良游戏，拒绝盗版游戏 注意自我保护，谨防受骗上当 适度游戏益脑，沉迷游戏伤身 合理安排时间，享受健康生活
+Vermeide schlechte Spiele und lehne Raubkopien ab. Achte auf deinen Selbstschutz und hüte dich vor Täuschungen. Mäßiges Spielen ist gut für das Gehirn, übermäßiges Spielen schadet dem Körper. Achte auf eine vernünftige Zeiteinteilung und genieße ein gesundes Leben.
 
 [HEALTH_NOTICE_TITLE]
-健康游戏忠告
+Tipps für gesundes Spielen
 
 [HEALTH_NOTICE_CONTENT_2]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：湘B2-20100081-55A  备案查询：https://beian.miit.gov.cn/
-游戏著作权人：Electronic Arts Inc.；出版服务单位：拓维信息系统股份有限公司
+Dieses Online-Spiel ist für Nutzer ab 12 Jahren geeignet. Bitte schränken Sie Ihre Spielzeit im Interesse Ihrer Gesundheit ein. Vermeiden Sie schädliche Spiele und Raubkopien.
+Schützen Sie sich und lassen Sie sich nicht täuschen. Moderates Spielen ist gut für das Gehirn, Spielsucht hingegen schädlich für den Körper. Teilen Sie Ihre Zeit sinnvoll ein und genießen Sie ein gesundes Leben.
+Genehmigungsnummer: Xinchu Shenzi\[2013] Nr. 1509; Publikationsnummer: ISBN978-7-89989-834-5; ICP-Anmeldenummer: Xiang B2-20100081-55A. Anmeldeanfrage: https://beian.miit.gov.cn/
+Rechtsinhaber des Spiels: Electronic Arts Inc.; Verlag: Tuowei Information System Co., Ltd.
 
 [HEALTH_NOTICE_CONTENT_3]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：湘B2-20100081-55A
+Dieses Online-Spiel ist für Nutzer ab 12 Jahren geeignet. Achten Sie auf Ihre Gesundheit und achten Sie auf eine vernünftige Spielzeit. Vermeiden Sie schädliche Spiele und Raubkopien.
+Schützen Sie sich vor Betrug. Moderates Spielen ist gut für das Gehirn, aber Spielsucht schadet dem Körper. Teilen Sie Ihre Zeit sinnvoll ein und genießen Sie ein gesundes Leben.
+
+Zulassungsnummer: Neue Zulassungsnummer [2013] 1509; Publikationsnummer: ISBN978-7-89989-834-5; ICP-Anmeldenummer: Hunan B2-20100081-55A
 
 [HEALTH_NOTICE_CONTENT_4]
-游戏著作权人：Electronic Arts Inc.；出版服务单位：拓维信息系统股份有限公司
+Rechtsinhaber des Spiels: Electronic Arts Inc.; Verlagsservice: Tuowei Information Systems Co., Ltd.
 
 [HEALTH_NOTICE_CONTENT_5]
-备案查询：https://beian.miit.gov.cn/
+Anfrage: https://beian.miit.gov.cn/
 
 [HEALTH_NOTICE_CONTENT_3_1]
-本网络游戏适合年满12周岁以上的用户使用。为了您的健康，请合理控制游戏时间。抵制不良游戏，拒绝盗版游戏。
-注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
-批准文号：新出审字\[2013]1509号；出版物号：ISBN978-7-89989-834-5；ICP备案号：视听备【2023】B4327
+Dieses Online-Spiel ist für Nutzer ab 12 Jahren geeignet. Achten Sie im Interesse Ihrer Gesundheit darauf, Ihre Spielzeit angemessen zu begrenzen. Boykottieren Sie schlechte Spiele und lehnen Sie Raubkopien ab.
+Schützen Sie sich und lassen Sie sich nicht täuschen. Moderates Spielen ist gut für das Gehirn, aber Spielsucht schadet dem Körper. Teilen Sie Ihre Zeit sinnvoll ein und genießen Sie ein gesundes Leben.
+Zulassungsnummer: Neue Prüfungsnummer [2013] 1509; Veröffentlichungsnummer: ISBN978-7-89989-834-5; ICP-Anmeldenummer: Audiovisuelle Aufzeichnung [2023] B4327
 
 [MARIGOLD]
 金盏花
@@ -4312,7 +4313,7 @@ Coins im App Store kaufen?
 Vielen Dank für den Kauf von {PRODUCT_NAME}!
 
 [PURCHASE_DOUBLE_COMPLETE]
-Vielen Dank für den Kauf von %s und doppelte Diamanten für Ihre erste Einzahlung!
+Vielen Dank für den Kauf von %s und doppelte Juwelen für Ihre erste Einzahlung!
 
 [PURCHASE_CONFIRMED]
 Kauf bestätigt!
@@ -4378,7 +4379,7 @@ Tor aufschließen?
 Spezialdünger kaufen?
 
 [PURCHASE_PLANTFOOD_WITH_COINS]
-%d Diamanten ausgeben, um eine Energiebohne zu kaufen?
+%d Juwelen ausgeben, um eine Energiebohne zu kaufen?
 
 [RENAME_BUTTON]
 Umbennen
@@ -5497,7 +5498,7 @@ Klicke auf die Schaufel.
 Holzkisten können mit der Schaufel entfernt werden.
 
 [BESIEGE_FAILED_GAME_TIP]
-Die Reparatur des Schiffes ist fehlgeschlagen. Möchtest du ^00e46e {GEM_COUNT} Diamanten ^oldclr ausgeben, um die benötigten Teile für die Reparatur zu kaufen?
+Die Reparatur des Schiffes ist fehlgeschlagen. Möchtest du ^00e46e {GEM_COUNT} Juwelen ^oldclr ausgeben, um die benötigten Teile für die Reparatur zu kaufen?
 
 [STARCHALLENGE_FISH_NAME]
 Schieße um das Level zu schaffen.
@@ -6257,7 +6258,7 @@ Update erforderlich. Bitte starte das Spiel neu, nachdem du eine Internetverbind
 Nach erfolgreichem Update kannst du folgende Belohnungen erhalten:
 
 [UPDATE_REWARD_BODY]
-Mysteriöse Pflanzen-Geschenkbox x1, Diamant x30, Goldmünze x50000
+Mysteriöse Pflanzen-Geschenkbox x1, Juwel x30, Goldmünze x50000
 
 [UPDATE_UNKNOWN_ERROR_BODY]
 Unbekannter Fehler.
@@ -7274,9 +7275,9 @@ Sonnen
 Wenn du mehr Sonne brauchst, klicke hier, um sie zu kaufen.
 
 [GEM_STORE]
-Diamanten
+Juwelen
 [GEM_STORE_TEXT]
-Wenn du mehr Diamanten brauchst, klicke hier, um sie zu kaufen.
+Wenn du mehr Juwelen brauchst, klicke hier, um sie zu kaufen.
 
 [MAINMENU_NEWGAME]
 Neues Spiel
@@ -7340,10 +7341,10 @@ Münzen
 5. Jede Glücksschatztruhe bietet nach dem Öffnen drei Upgrade-Möglichkeiten. Sind alle drei Upgrade-Möglichkeiten ausgeschöpft, öffnet sich die aktuelle Schatztruhe, um Belohnungen zu erhalten.
 6. Die endgültige Gesamtwahrscheinlichkeit für den Erhalt jeder Glücksschatztruhe beträgt: Normale Schatztruhe 43 %, Mittlere Schatztruhe 29 %, Fortgeschrittene Schatztruhe 17 %, Epische Schatztruhe 7 %, Legendäre Schatztruhe 4 %.
 7. Die Wahrscheinlichkeit, dass in jeder Schatztruhe Requisiten erscheinen, ist wie folgt:
-Normale Schatztruhe: Grüne Pflanzenfragmente 30 %, Blaue Pflanzenfragmente 20 %, Violette Pflanzenfragmente 10 %, Grüne Pflanzenkleidfragmente 5 %, Blaue Pflanzenkleidfragmente 3 %, Violette Pflanzenkleidfragmente 1,5 %, Orange Pflanzenkleidfragmente 0,5 %, Blaue Kulturflüssigkeit 8,71 %, Violette Kulturflüssigkeit 2,86 %, Orange Kulturflüssigkeit 1,43 %, 188 Diamanten 5 %, 150 Verkleidungscoupons 1 %, Fortgeschrittene Artefaktsegencoupons 9 %, 666 Diamanten 2 %.
-Mittelschwere Schatztruhe: Grüne Pflanzenfragmente 22,5 %, Blaue Pflanzenfragmente 13,6 %, Violette Pflanzenfragmente 15,5 %, Orange Pflanzenfragmente 8,4 %, Grüne Pflanze Verkleidungsfragmente 4,67 % Blaue Pflanzenverkleidungsfragmente 2,28 % Lila Pflanzenverkleidungsfragmente 2,10 % Orange Pflanzenverkleidungsfragmente 0,95 % Blaue Kulturflüssigkeit 7,67 % Lila Kulturflüssigkeit 2,29 % Orange Kulturflüssigkeit 2,14 % 188 Diamanten 6,5 % 150 Verkleidungscoupons 3 % Segenscoupons für fortgeschrittene Artefakte 5,4 % 666 Diamanten 3 %
-Fortschrittliche Schatztruhe Grüne Pflanzenfragmente 16,72 % Blaue Pflanzenfragmente 9,25 % Lila Pflanzenfragmente 18,91 % Orange Pflanzenfragmente 15,12 % Grüne Pflanzenkleidfragmente 3,52 % Blaue Pflanzenkleidfragmente 1,73 % Lila Pflanzenkleidfragmente 2,94 % Orange Pflanzenkleidfragmente 1,81 % Lila Kulturflüssigkeit 1,83 % Orange Kulturflüssigkeit 3,21 % 188 Diamanten 8,45 % 150 Kleidercoupons 9 % Segensgutscheine für fortgeschrittene Artefakte 3,24 % 666 Diamanten 4,27 %
-Epische Schatztruhe: Lila Pflanzenfragmente 32,78 % Orange Pflanzenfragmente 27,22 % Lila Pflanzenkleidfragmente 5,5 % Orange Pflanzenkleidfragmente 4,5 % Gutscheine für 150 Kleider 19,33 % 666 Diamanten 10,67 %
+Normale Schatztruhe: Grüne Pflanzenfragmente 30 %, Blaue Pflanzenfragmente 20 %, Violette Pflanzenfragmente 10 %, Grüne Pflanzenkleidfragmente 5 %, Blaue Pflanzenkleidfragmente 3 %, Violette Pflanzenkleidfragmente 1,5 %, Orange Pflanzenkleidfragmente 0,5 %, Blaue Kulturflüssigkeit 8,71 %, Violette Kulturflüssigkeit 2,86 %, Orange Kulturflüssigkeit 1,43 %, 188 Juwelen 5 %, 150 Verkleidungscoupons 1 %, Fortgeschrittene Artefaktsegencoupons 9 %, 666 Juwelen 2 %.
+Mittelschwere Schatztruhe: Grüne Pflanzenfragmente 22,5 %, Blaue Pflanzenfragmente 13,6 %, Violette Pflanzenfragmente 15,5 %, Orange Pflanzenfragmente 8,4 %, Grüne Pflanze Verkleidungsfragmente 4,67 % Blaue Pflanzenverkleidungsfragmente 2,28 % Lila Pflanzenverkleidungsfragmente 2,10 % Orange Pflanzenverkleidungsfragmente 0,95 % Blaue Kulturflüssigkeit 7,67 % Lila Kulturflüssigkeit 2,29 % Orange Kulturflüssigkeit 2,14 % 188 Juwelen 6,5 % 150 Verkleidungscoupons 3 % Segenscoupons für fortgeschrittene Artefakte 5,4 % 666 Juwelen 3 %
+Fortschrittliche Schatztruhe Grüne Pflanzenfragmente 16,72 % Blaue Pflanzenfragmente 9,25 % Lila Pflanzenfragmente 18,91 % Orange Pflanzenfragmente 15,12 % Grüne Pflanzenkleidfragmente 3,52 % Blaue Pflanzenkleidfragmente 1,73 % Lila Pflanzenkleidfragmente 2,94 % Orange Pflanzenkleidfragmente 1,81 % Lila Kulturflüssigkeit 1,83 % Orange Kulturflüssigkeit 3,21 % 188 Juwelen 8,45 % 150 Kleidercoupons 9 % Segensgutscheine für fortgeschrittene Artefakte 3,24 % 666 Juwelen 4,27 %
+Epische Schatztruhe: Lila Pflanzenfragmente 32,78 % Orange Pflanzenfragmente 27,22 % Lila Pflanzenkleidfragmente 5,5 % Orange Pflanzenkleidfragmente 4,5 % Gutscheine für 150 Kleider 19,33 % 666 Juwelen 10,67 %
 Legendäre Schatztruhe: Orange Pflanzenfragmente 74 % Orange Pflanzenkleidfragmente 25 % Andere Pflanzenfragmente 1 %
 
 [LUCKYCHEST_DES_TITLE]
@@ -7356,7 +7357,7 @@ Sternmünzen
 Auffüllen Ausdauer
 
 [STORE_CATEGORY_NAME_GEMS]
-Diamanten
+Juwelen
 
 [STORE_CATEGORY_NAME_SUNS]
 Sonnenschein
@@ -7483,38 +7484,38 @@ Ausdauer x110
 Pflanzenabenteuer – Bumerang-Shooter Level 1
 
 [PRODUCT_GEM_60_DESC_IOS]
-60 Diamanten
+60 Juwelen
 
 [PRODUCT_GEM_20_DESC_ANDROID]
-20 Diamanten
+20 Juwelen
 
 [PRODUCT_GEM_60_DESC_ANDROID]
-60 Diamanten
+60 Juwelen
 Verschenke ^FF0000 3^oldclr^
 
 [PRODUCT_GEM_100_DESC_ANDROID]
-100 Diamanten
+100 Juwelen
 Verschenke ^FF0000 5^oldclr^ Stück
 
 [PRODUCT_GEM_200_DESC_ANDROID]
-200 Diamanten
+200 Juwelen
 Verschenke ^FF0000 15 alte Karten
 
 [PRODUCT_GEM_300_DESC_ANDROID]
-300 Diamanten
+300 Juwelen
 Verschenke 30 alte Karten
 
 [PRODUCT_GEM_1000_DESC_ANDROID]
-1000 Diamanten
+1000 Juwelen
 Verschenke 150 alte Karten
 
 [PRODUCT_GEM_NEWER_PRESENT_ANDROID]
 
-20 Diamanten
+20 Juwelen
 
 [PRODUCT_GEM_ADVANCE_NEWER_PRESENT_ANDROID]
 
-105 Diamanten
+105 Juwelen
 
 [PRODUCT_GEM_PLAY_CARD_ANDROID]
 
@@ -7522,99 +7523,99 @@ Ausverkaufsbonus
 
 [PRODUCT_GEM_330_DESC_ANDROID]
 
-100 Diamanten
+100 Juwelen
 
 5 weitere Karten sichern
 
 [PRODUCT_GEM_780_DESC_ANDROID]
 
-200 Diamanten
+200 Juwelen
 
 ^FF0000 Hol dir 15 weitere
 
 [PRODUCT_GEM_1480_DESC_ANDROID]
 
-300 Diamanten
+300 Juwelen
 
 ^FF0000 Hol dir 30 weitere
 
 [PRODUCT_GEM_330_DESC_IOS]
 
-300 Diamanten
+300 Juwelen
 
-^FF0000 30 weitere Diamanten
+^FF0000 30 weitere Juwelen
 
 [PRODUCT_GEM_780_DESC_IOS]
-680 Diamanten
-^FF0000 100 weitere Diamanten
+680 Juwelen
+^FF0000 100 weitere Juwelen
 
 [PRODUCT_GEM_1480_DESC_IOS]
-1280 Diamanten
-^FF0000 250 weitere Diamanten
+1280 Juwelen
+^FF0000 250 weitere Juwelen
 
 [PRODUCT_GEM_4108_DESC_IOS]
-3280 Diamanten
-^FF0000 828 weitere Diamanten
+3280 Juwelen
+^FF0000 828 weitere Juwelen
 
 [PRODUCT_GEM_8468_DESC_IOS]
-6480 Diamanten
-^FF0000 1988 weitere Diamanten
+6480 Juwelen
+^FF0000 1988 weitere Juwelen
 
 [PRODUCT_GEM_60_DESC_QQ]
-20 Diamanten
+20 Juwelen
 
 [PRODUCT_GEM_330_DESC_QQ]
-60 Diamanten
+60 Juwelen
 ^FF0000 6 weitere
 
 [PRODUCT_GEM_60_DESC]
-60 Diamanten
+60 Juwelen
 
 [PRODUCT_GEM_330_DESC]
-300 Diamanten
+300 Juwelen
 ^FF0000 30 weitere
 
 [PRODUCT_GEM_780_DESC]
-680 Diamanten
+680 Juwelen
 ^FF0000 100 weitere
 
 [PRODUCT_GEM_1480_DESC]
-1280 Diamanten
+1280 Juwelen
 ^FF0000 250 weitere
 
 [PRODUCT_GEM_3080_DESC]
-2580 Diamanten
+2580 Juwelen
 ^FF0000 500 weitere
 
 [PRODUCT_GEM_3980_DESC]
-3280 Diamanten
+3280 Juwelen
 ^FF0000 700 mehr
 
 [PRODUCT_GEM_700_DESC_ANDROID]
-700 Diamanten
+700 Juwelen
 Geschenkaktion: ^FF0000 100 Stück
 
 [PRODUCT_GEM_1500_DESC_ANDROID]
-1500 Diamanten
+1500 Juwelen
 Geschenkaktion: ^FF0000 200 Stück
 
 [PRODUCT_GEM_3000_DESC_ANDROID]
-3000 Diamanten
+3000 Juwelen
 Geschenkaktion: ^FF0000 450 Stück
 
 [PRODUCT_GEM_6000_DESC_ANDROID]
-6000 Diamanten
+6000 Juwelen
 Geschenkaktion: ^FF0000 1000 Stück
 
 [PRODUCT_GEM_7500_DESC_ANDROID]
-7500 Diamanten
+7500 Juwelen
 Geschenkaktion: ^FF0000 1600^oldclr^
 
 [PRODUCT_GEM_700_SHORT_DESC]
-Supergroße Diamantenbox
+Supergroße Juwelenbox
 
 [PRODUCT_GEM_1500_SHORT_DESC]
-Riesige Diamantenbox
+Riesige Juwelenbox
 
 [PRODUCT_GEM_NEWER_PRESENT_DESC]
 Erweitertes Geschenkpaket
@@ -7629,44 +7630,44 @@ Ausverkaufsprämien
 Bumerang-Shooter Level 1
 
 [PRODUCT_GEM_20_SHORT_DESC]
-Kleiner Beutel Diamanten
+Kleiner Beutel Juwelen
 
 [PRODUCT_GEM_60_SHORT_DESC]
-Kleiner Beutel Diamanten
+Kleiner Beutel Juwelen
 
 [PRODUCT_GEM_100_SHORT_DESC]
-Großer Beutel Diamanten
+Großer Beutel Juwelen
 
 [PRODUCT_GEM_330_SHORT_DESC]
-Großer Beutel Diamanten
+Großer Beutel Juwelen
 
 [PRODUCT_GEM_780_SHORT_DESC]
-Kleine Schachtel Diamanten
+Kleine Schachtel Juwelen
 
 [PRODUCT_GEM_780_SHORT_DESC]
 T_GEM_1480_SHORT_DESC]
-Große Schachtel Diamanten
+Große Schachtel Juwelen
 
 [PRODUCT_GEM_4108_SHORT_DESC]
-Kleines Auto von Diamanten
+Kleines Auto von Juwelen
 
 [PRODUCT_GEM_8468_SHORT_DESC]
-Großes Auto voller Diamanten
+Großes Auto voller Juwelen
 
 [PRODUCT_GEM_3080_SHORT_DESC]
-Kleine Schachtel mit Diamanten
+Kleine Schachtel mit Juwelen
 
 [PRODUCT_GEM_3980_SHORT_DESC]
-Große Schachtel mit Diamanten
+Große Schachtel mit Juwelen
 
 [PRODUCT_GEM_200_SHORT_DESC]
-Kleine Schachtel mit Diamanten
+Kleine Schachtel mit Juwelen
 
 [PRODUCT_GEM_300_SHORT_DESC]
-Große Schachtel mit Diamanten
+Große Schachtel mit Juwelen
 
 [PRODUCT_GEM_100 0_SHORT_DESC]
-Supergroße Schachtel mit Diamanten
+Supergroße Schachtel mit Juwelen
 
 [PRODUCT_GEM_3000_SHORT_DESC]
 Kleine Autodiamanten
@@ -7675,7 +7676,7 @@ Kleine Autodiamanten
 Große Autodiamanten
 
 [PRODUCT_GEM_7500_SHORT_DESC]
-Supergroßes Auto Diamanten
+Supergroßes Auto Juwelen
 
 [PRODUCT_BUNDLE_10_SHORT_DESC]
 Spezial-Geschenkpaket
@@ -8166,28 +8167,28 @@ Goldmünzen
 Erhalte 50.000 Goldmünzen
 
 [BONUS_DIAMOND_1]
-Diamant
+Juwel
 
 [BONUS_DIAMOND_1_DESCRIPTION]
-18 Diamanten erhalten
+18 Juwelen erhalten
 
 [BONUS_DIAMOND_2]
-Diamanten
+Juwelen
 
 [BONUS_DIAMOND_2_DESCRIPTION]
-38 Diamanten erhalten
+38 Juwelen erhalten
 
 [BONUS_DIAMOND_3]
-Diamanten
+Juwelen
 
 [BONUS_DIAMOND_3_DESCRIPTION]
-58 Diamanten erhalten
+58 Juwelen erhalten
 
 [BONUS_DIAMOND_4]
-Diamanten
+Juwelen
 
 [BONUS_DIAMOND_4_DESCRIPTION]
-38 Diamanten erhalten
+38 Juwelen erhalten
 
 [BONUS_CARD_GOLD_250]
 100 Goldmünzen
@@ -8214,22 +8215,22 @@ Diamanten
 5000 Goldmünzen erhalten
 
 [BONUS_CARD_DIAMOND_5]
-5 Diamanten
+5 Juwelen
 
 [BONUS_CARD_DIAMOND_5_DESCRIPTION]
-5 Diamanten erhalten
+5 Juwelen erhalten
 
 [BONUS_CARD_DIAMOND_10]
-10 Diamanten erhalten
+10 Juwelen erhalten
 
 [BONUS_CARD_DIAMOND_10_DESCRIPTION]
-10 Diamanten
+10 Juwelen
 
 [BONUS_CARD_DIAMOND_50]
-50 Diamanten erhalten
+50 Juwelen erhalten
 
 [BONUS_CARD_DIAMOND_50_DESCRIPTION]
-50 Diamanten erhalten
+50 Juwelen erhalten
 
 [BONUS_MAGIC_FERTILIZER]
 Anhänger
@@ -8430,15 +8431,15 @@ Freischaltbedingungen:
 {STAR}/{STARREQ}
 
 [WORLDINFO_GEM_UNLOCK_TITLE]
-Mit Diamanten freischalten
+Mit Juwelen freischalten
 
 [WORLDINFO_GEM_UNLOCK_DES]
-{GEMS} Diamanten ausgeben, um {WORLDNAME} freizuschalten?
+{GEMS} Juwelen ausgeben, um {WORLDNAME} freizuschalten?
 
 (Die Anzahl der zum Freischalten einer Welt benötigten Sterne erhöht sich mit der Gesamtzahl der freigeschalteten Welten.)
 
 [WORLDINFO_GEM_UNLOCK_DES_ANDROID]
-{GEMS} Diamanten ausgeben, um diese Welt freizuschalten?
+{GEMS} Juwelen ausgeben, um diese Welt freizuschalten?
 (Die Anzahl der zum Freischalten einer Welt benötigten Sterne steigt mit der Gesamtzahl der freigeschalteten Welten.)
 
 [WORLDINFO_STAR_UNLOCK_TITLE]
@@ -8594,10 +8595,10 @@ Yuan
 Jetzt kaufen!
 
 [GEM_NOT_ENOUGH_DIALOG_TITLE]
-Nicht genug Diamanten!
+Nicht genug Juwelen!
 
 [GEM_NOT_ENOUGH_DIALOG_TEXT]
-Mehr Diamanten kaufen?
+Mehr Juwelen kaufen?
 
 [STAMINA_NOT_ENOUGH_DIALOG_TITLE]
 Nicht genügend Ausdauer!
@@ -8738,7 +8739,7 @@ Wehre die Zombie-Invasion ab und hol dir neue Pflanzen.
 Schneemann-Schatz
 
 [ADVICE_SUNBANK_TUTORIAL_FAKEGEM]
-Mit Diamanten kannst du zusätzliches Sonnenlicht kaufen!
+Mit Juwelen kannst du zusätzliches Sonnenlicht kaufen!
 
 [ADVICE_GOTO_STARTASKPANEL]
 Sieh dir deine Belohnungen an!
@@ -8753,7 +8754,7 @@ Sieh dir deine Belohnungen an!
 {NPC_ENTER:crazydaveicon}{PLAYFUL}Das ist unglaublich! Wenn du mehr Level abschließt, kannst du mehr Pflanzen bekommen!
 
 [NARRATIVE_SUNBANK_TUTORIAL_1]
-{NPC_ENTER:winnie}Ich habe noch ein paar Diamanten gefunden.
+{NPC_ENTER:winnie}Ich habe noch ein paar Juwelen gefunden.
 
 [NARRATIVE_SUNBANK_TUTORIAL_2]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Penny, du wirst immer zuverlässiger!
@@ -8853,10 +8854,10 @@ Jubiläums-Supreme-Auszeichnung
 Ausverkaufsverlosung
 
 [NEWER_PRESENT_DES]
-Laden Sie jetzt einfach 2 Yuan ^oldclr auf, um einen kleinen Beutel Diamanten zu kaufen und das Supreme-Geschenkpaket zu erhalten! (Sie erhalten insgesamt 30 Diamanten ^oldclr!)
+Laden Sie jetzt einfach 2 Yuan ^oldclr auf, um einen kleinen Beutel Juwelen zu kaufen und das Supreme-Geschenkpaket zu erhalten! (Sie erhalten insgesamt 30 Juwelen ^oldclr!)
 
 [NEWER_PRESENT_ADVANCE_DES]
-Laden Sie jetzt nur noch 10 Yuan ^oldclr auf, um das Goldmünzen-Geschenkpaket zu kaufen und das Supreme-Platin-Geschenkpaket zu erhalten! (Sie erhalten insgesamt ^00FF00 155 Diamanten^oldclr!)
+Laden Sie jetzt nur noch 10 Yuan ^oldclr auf, um das Goldmünzen-Geschenkpaket zu kaufen und das Supreme-Platin-Geschenkpaket zu erhalten! (Sie erhalten insgesamt ^00FF00 155 Juwelen^oldclr!)
 
 [NEWER_PRESENT_FOR_CHINAMOBILEMM_DES]
 Jetzt nur noch 0,1 Yuan zum Kaufen. Die Chance ist begrenzt und kommt nicht wieder!
@@ -8883,10 +8884,10 @@ Artikel erhalten
 Bitte geben Sie unten den Aktivierungscode ein, den Sie vom Kundenservice erhalten haben.
 
 [NEWER_BAG_PLANT_GET_CONTENT]
-Herzlichen Glückwunsch zu 30.000 Goldmünzen, 10 Diamanten, 3 Schlüsseln für das Mysteriöse Ägypten, 3 Schlüsseln für den Piratenhafen und 3 Schlüsseln für den Wilden Westen!
+Herzlichen Glückwunsch zu 30.000 Goldmünzen, 10 Juwelen, 3 Schlüsseln für das Mysteriöse Ägypten, 3 Schlüsseln für den Piratenhafen und 3 Schlüsseln für den Wilden Westen!
 
 [QQ_BAG_PLANT_GET_CONTENT]
-Herzlichen Glückwunsch zu 38.888 Goldmünzen, 8 Diamanten, 3 Schlüsseln für das Mysteriöse Ägypten, 3 Schlüsseln für den Piratenhafen und 3 Schlüsseln für den Wilden Westen!
+Herzlichen Glückwunsch zu 38.888 Goldmünzen, 8 Juwelen, 3 Schlüsseln für das Mysteriöse Ägypten, 3 Schlüsseln für den Piratenhafen und 3 Schlüsseln für den Wilden Westen!
 
 [NEWER_BAG_PLANT_GET_TIP]
 Gib den Aktivierungscode ein, um das Newbie-Geschenk zu erhalten.
@@ -8913,7 +8914,7 @@ Der Aktivierungscode existiert nicht oder wurde bereits verwendet!
 Der Aktivierungscode wurde erfolgreich eingelöst!
 
 [GEMS_RESTORE_CODE_SUCCEED_CONTENT]
-Der Aktivierungscode wurde erfolgreich eingegeben und Sie haben {GEM_COUNT} Diamanten wiederhergestellt.
+Der Aktivierungscode wurde erfolgreich eingegeben und Sie haben {GEM_COUNT} Juwelen wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_SUCCEED_TITLE]
 Die Berechtigungen wurden erfolgreich wiederhergestellt!
@@ -9900,13 +9901,13 @@ Du hast ein Geschenk erhalten
 Du hast
 
 [LOTTERY_RESULT_1]
-^00e46e 5 Diamanten
+^00e46e 5 Juwelen
 
 [LOTTERY_RESULT_2]
-^00e46e 50 Diamanten
+^00e46e 50 Juwelen
 
 [LOTTERY_RESULT_3]
-^00e46e 500 Diamanten
+^00e46e 500 Juwelen
 
 [LOTTERY_RESULT_4]
 ^00e46e 500 Gold
@@ -9955,7 +9956,7 @@ Jetzt hast du genug Geld, um Schneemänner zu bauen!
 
 [LOTTERY_TIMES_RESULT_4]
 Herzlichen Glückwunsch! Belohnung für 20 Ziehungen erhalten:
-^00e46e 50 Diamanten ^oldclr
+^00e46e 50 Juwelen ^oldclr
 
 Oh mein Gott, du bist so hartnäckig!
 
@@ -9967,7 +9968,7 @@ Hochwertige und stilvolle Pflanzen sind kein Traum!
 
 [LOTTERY_TIMES_RESULT_6]
 Herzlichen Glückwunsch! Belohnung für 50 Ziehungen erhalten:
-^00e46e 100 Diamanten ^oldclr
+^00e46e 100 Juwelen ^oldclr
 
 Oh mein Gott, betrügst du?
 
@@ -10033,7 +10034,7 @@ Jackfrucht kann Geheimgänge versiegeln, und Rote Nadel hat drei Formen.
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_0 align=center width=1016 height=320>
 
 [Gartenkriege beginnen bald]
-Die neue PvP-Funktion wurde aktiviert. Spiele jetzt PvP und erhalte 10 Diamanten für jeden Sieg und maximal 50 Diamanten pro Tag!
+Die neue PvP-Funktion wurde aktiviert. Spiele jetzt PvP und erhalte 10 Juwelen für jeden Sieg und maximal 50 Juwelen pro Tag!
 Es gibt außerdem spannende tägliche PvP-Erfolgsaktivitäten, die du meistern kannst, und seltene Pflanzenfragmente warten darauf, von dir eingesammelt zu werden!
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_4 align=center width=1016 height=320>
 
@@ -10046,7 +10047,7 @@ Laden Sie vom 1. bis 22. Februar auf, um kostenlose Geschenkpakete zu erhalten.
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
 
 [Melden Sie sich für Pflanzen an, Überraschungen nacheinander]
-Die neue Kiwi-Pflanze steht auf der Bühne in Februar. Meldet euch weiterhin an, um Pflanzen der zweiten Stufe und großzügige Diamantenbelohnungen zu erhalten!
+Die neue Kiwi-Pflanze steht auf der Bühne in Februar. Meldet euch weiterhin an, um Pflanzen der zweiten Stufe und großzügige Juwelenbelohnungen zu erhalten!
 
 ——Little Pea
 
@@ -10139,7 +10140,7 @@ Münzen
 {COIN_COUNT}
 
 [GEM_NUM_TITLE]
-Diamanten
+Juwelen
 
 [PLANT_NUM_TITLE]
 Pflanzen
@@ -11061,7 +11062,7 @@ Es scheint lange zu dauern ...
 Klicken Sie auf die Schaltfläche „Start“, um das Pflanzenteam zu konfigurieren.
 
 [INTRO_PLANTADVENTURE_SKIP]
-Sie können Diamanten verwenden, um die Expedition sofort abzuschließen.
+Sie können Juwelen verwenden, um die Expedition sofort abzuschließen.
 
 Zum ersten Mal kostenlos.
 
@@ -11166,7 +11167,7 @@ Kostenlos öffnen
 Pflanzenenergie nicht ausreichend
 
 [PLANT_ADVENTURE_CONFIRM_BUY_PLANT_SPIRIT_DES]
-Dein Pflanzenteam hat noch Pflanzen, die ihre volle Energie nicht wiederhergestellt haben. Du kannst Erholungstränke für {GEMS} Diamanten kaufen. Möchtest du sie kaufen?
+Dein Pflanzenteam hat noch Pflanzen, die ihre volle Energie nicht wiederhergestellt haben. Du kannst Erholungstränke für {GEMS} Juwelen kaufen. Möchtest du sie kaufen?
 
 [PLANT_ADVENTURE_AUTO_PLANT_FAILED]
 Entschuldige, deine aktuell verfügbaren Pflanzen erfüllen die Expeditionsbedingungen nicht.
@@ -11175,19 +11176,19 @@ Entschuldige, deine aktuell verfügbaren Pflanzen erfüllen die Expeditionsbedin
 Sofort abschließen?
 
 [PLANT_ADVENTURE_SKIP_TITLE_DES]
-Möchtest du ^ff0000 {GEMS} Diamanten^oldclr oder ^ff0000 für Werbung^oldclr ausgeben, um deinen Pflanzen zu helfen, die aktuelle Abenteueraufgabe sofort abzuschließen?
+Möchtest du ^ff0000 {GEMS} Juwelen^oldclr oder ^ff0000 für Werbung^oldclr ausgeben, um deinen Pflanzen zu helfen, die aktuelle Abenteueraufgabe sofort abzuschließen?
 
 [PLANT_ADVENTURE_FREESKIP_TITLE_DES]
 Möchtest du die Monatskarte nutzen, um die aktuelle Abenteueraufgabe sofort kostenlos abzuschließen?
 
 [PLANT_ADVENTURE_ADD_CHANCE_BOTH_TITLE_DES]
-Möchtest du ^ff0000 {GEMS} Diamanten^oldclr oder ^ff0000 für Werbung^oldclr ausgeben, um die Anzahl der Abenteuer zu erhöhen?
+Möchtest du ^ff0000 {GEMS} Juwelen^oldclr oder ^ff0000 für Werbung^oldclr ausgeben, um die Anzahl der Abenteuer zu erhöhen?
 
 [PLANT_ADVENTURE_ADD_CHANCE_AD_TITLE_DES]
 Möchtest du ^ff0000 für Werbung^oldclr ausgeben, um die Anzahl der Abenteuer zu erhöhen?
 
 [PLANT_ADVENTURE_ADD_CHANCE_GEM_TITLE_DES]
-Möchtest du ^ff0000 {GEMS} Diamanten^oldclr ausgeben, um eine weitere Expedition hinzuzufügen?
+Möchtest du ^ff0000 {GEMS} Juwelen^oldclr ausgeben, um eine weitere Expedition hinzuzufügen?
 
 [PLANT_ADVENTURE_ADD_CHANCE_TITLE]
 Anzahl erhöhen?
@@ -11429,13 +11430,13 @@ Ziehung bestätigen
 Umtausch bestätigen
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_ONE]
-Das zeitlich begrenzte Einzellos reicht nicht aus. Möchten Sie {NUMBER} Diamanten ausgeben, um das zeitlich begrenzte Einzellos einzutauschen und an der Lotterie teilzunehmen?
+Das zeitlich begrenzte Einzellos reicht nicht aus. Möchten Sie {NUMBER} Juwelen ausgeben, um das zeitlich begrenzte Einzellos einzutauschen und an der Lotterie teilzunehmen?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_TEN]
-Das zeitlich begrenzte Zehnerlos reicht nicht aus. Möchten Sie {NUMBER} Diamanten ausgeben, um das zeitlich begrenzte Zehnerlos einzutauschen und an der Lotterie teilzunehmen?
+Das zeitlich begrenzte Zehnerlos reicht nicht aus. Möchten Sie {NUMBER} Juwelen ausgeben, um das zeitlich begrenzte Zehnerlos einzutauschen und an der Lotterie teilzunehmen?
 
 [LIMITED_GACHA_CONFIRM_TEXT]
-Nicht genügend Schatztickets. Möchtest du wirklich {PRICE} Diamanten ausgeben, um Schatztickets X{NUM} einzutauschen und an der Lotterie teilzunehmen?
+Nicht genügend Schatztickets. Möchtest du wirklich {PRICE} Juwelen ausgeben, um Schatztickets X{NUM} einzutauschen und an der Lotterie teilzunehmen?
 
 [LIMITED_GACHA_CONFIRM_TEXT_2]
 Möchtest du wirklich {PRICE} Schatztickets ausgeben, um an der Lotterie teilzunehmen?
@@ -13117,13 +13118,13 @@ LV.
 
 [PLANT_AVATAR_COMPENSATION_CONTENT]
 Liebe Spieler:
-Der Absturz der Abrechnung in der täglichen Herausforderung wurde dringend behoben. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten. Als Entschädigung erhalten alle Spieler 100 Diamanten.
+Der Absturz der Abrechnung in der täglichen Herausforderung wurde dringend behoben. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten. Als Entschädigung erhalten alle Spieler 100 Juwelen.
 
 [GACHA_COMPENSATION_CONTENT]
 Liebe Spieler:
-Der Absturz der Abrechnung in der täglichen Herausforderung wurde dringend behoben. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten. Als Entschädigung erhalten alle Spieler 100 Diamanten. [PVP_FOR_WANDOUJIA_COMPENSATION_CONTENT]
+Der Absturz der Abrechnung in der täglichen Herausforderung wurde dringend behoben. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten. Als Entschädigung erhalten alle Spieler 100 Juwelen. [PVP_FOR_WANDOUJIA_COMPENSATION_CONTENT]
 Liebe Spieler,
-Vielen Dank für euer Update. Ihr könnt jetzt die verfügbare Population und das Verteidigungssonnenlicht der Zombies im Labor verbessern. Um die Fairness im Spiel zu gewährleisten, haben wir die Verteidigungsaufstellung aller Spieler zurückgesetzt, alle Zombies recycelt, sie in Diamanten umgewandelt und euch zurückgegeben. Nehmt sie bitte unbedingt an! Ich wünsche euch viel Spaß beim Spielen!
+Vielen Dank für euer Update. Ihr könnt jetzt die verfügbare Population und das Verteidigungssonnenlicht der Zombies im Labor verbessern. Um die Fairness im Spiel zu gewährleisten, haben wir die Verteidigungsaufstellung aller Spieler zurückgesetzt, alle Zombies recycelt, sie in Juwelen umgewandelt und euch zurückgegeben. Nehmt sie bitte unbedingt an! Ich wünsche euch viel Spaß beim Spielen!
 
 [CHALLENGE_TITLE]
 {CHALLENGE_NAME} Tag {DAY_COUNT}
@@ -13153,7 +13154,7 @@ Kann mindestens eine vollständige Pflanze erhalten.
 ^ffff00^{PLANT_NAME}^oldclr^ ^ff0000^Upgrade auf Level 3^oldclr^
 
 [SPRING_GIFT_GEM_DES]
-^ff0000^{GEM_COUNT}^oldclr^ ^ffff00^Diamanten^oldclr^
+^ff0000^{GEM_COUNT}^oldclr^ ^ffff00^Juwelen^oldclr^
 
 [SPRING_GIFT_ACTIVITY_DATA]
 Aktivitätsdatum:^ff0000^1. bis 7. Juli^oldclr^
@@ -14966,7 +14967,7 @@ Ferne Zukunft – Tag 2
 Ferne Zukunft – Tag 5
 
 [FREE_GEM_NEED_NETWORK_TEXT]
-Sie benötigen eine Internetverbindung, um die kostenlose Diamantenbelohnung zu erhalten.
+Sie benötigen eine Internetverbindung, um die kostenlose Juwelenbelohnung zu erhalten.
 
 [STAR_CHALLENGE_FUTURE_CONVEYOR]
 Widerstehe erfolgreich der Invasion einer großen Welle zukünftiger Zombies.
@@ -15672,19 +15673,19 @@ Jetzt freischalten
 Verbrauchen
 
 [WORLD_MAP_TIME_LEVEL_UNLOCK_3]
-Diamanten können verwendet werden, um das aktuelle Level sofort freizuschalten. Möchtest du es sofort freischalten?
+Juwelen können verwendet werden, um das aktuelle Level sofort freizuschalten. Möchtest du es sofort freischalten?
 
 [LOGIN_REWARD]
 Login-Belohnung
 
 [LOGIN_REWARD_BODY]
-360-Grad-Login erfolgreich. Bitte hol dir die Belohnung von 35 Diamanten ab.
+360-Grad-Login erfolgreich. Bitte hol dir die Belohnung von 35 Juwelen ab.
 
 [DAILY_REWARD_COMPENSATION_CONTENT]
 Liebe Spieler,
 
 Die Februar-Anmeldeversion von „Plants vs. Zombies 2“ wurde aus bekannten Gründen nicht wie geplant aktualisiert. Um uns bei allen Spielern zu entschuldigen, hat Xiao Wanwan mit diesem Update die verlorenen Belohnungen für unsere Spieler wiederhergestellt:
-1. 100 Diamanten
+1. 100 Juwelen
 2. 10 Süßkartoffelfragmente
 
 Vielen Dank für eure Unterstützung von „Plants vs. Zombies 2“. Ich wünsche euch allen schöne Feiertage mit Plants vs. Zombies 2!
@@ -15694,10 +15695,10 @@ Vielen Dank für eure Unterstützung von „Plants vs. Zombies 2“. Ich wünsch
 Liebe Spieler,
 
 Die Februar-Anmeldeversion von „Plants vs. Zombies 2“ wurde aus bekannten Gründen nicht wie geplant aktualisiert. %>_<%. Um uns bei allen Spielern zu entschuldigen, hat Little Pea mit diesem Update die verlorenen Belohnungen für unsere lieben Spieler wiederhergestellt:
-1. 100 Diamanten
+1. 100 Juwelen
 2. 10 Süßkartoffelfragmente
 
-Nach der Veröffentlichung der Big Wave Beach-Version verschwanden die vier Pflanzen Süßkartoffel, Lotusblatt, Großmaulblume und Bowlingblase aufgrund einer Datenverwechslung oder tauchten wieder auf. Wir haben sie gemäß den Fragmenten und Leveln vor dem Fehler wiederhergestellt und die Spieler mit 50 Diamanten entschädigt.
+Nach der Veröffentlichung der Big Wave Beach-Version verschwanden die vier Pflanzen Süßkartoffel, Lotusblatt, Großmaulblume und Bowlingblase aufgrund einer Datenverwechslung oder tauchten wieder auf. Wir haben sie gemäß den Fragmenten und Leveln vor dem Fehler wiederhergestellt und die Spieler mit 50 Juwelen entschädigt.
 
 Vielen Dank für eure Unterstützung von „Plants vs. Zombies 2“ und ich wünsche euch allen frohe Feiertage mit Plants vs. Zombies 2!
 ———————— Kleine Erbse
@@ -15840,13 +15841,13 @@ Komfortables Spielpaket
 Supreme Deluxe Geschenkpaket
 
 [PRESENT_DES_35]
-50.000 Goldmünzen, 15 Diamanten
+50.000 Goldmünzen, 15 Juwelen
 
 [PRESENT_DES_36]
-80.000 Goldmünzen, Bumerang-Shooter, 30 Diamanten
+80.000 Goldmünzen, Bumerang-Shooter, 30 Juwelen
 
 [PRESENT_DES_37]
-100.000 Goldmünzen, Doppel-Shooter, 50 Diamanten
+100.000 Goldmünzen, Doppel-Shooter, 50 Juwelen
 
 [DANGER_ROOM_TITLE_LEVEL_1]
 Mythisch Stufe 9 Schöpfer
@@ -15921,7 +15922,7 @@ Möglicherweise liegt ein Netzwerkfehler vor. Bitte versuchen Sie es später ern
 Die heutigen Endlos-Herausforderungszeiten sind aufgebraucht. Machen Sie eine Pause und versuchen Sie es morgen erneut!
 
 [NOT_ENOUGH_LIFE_TEXT]
-Sie können eine Herausforderungszeit für nur 50 Diamanten kaufen. Möchten Sie sie wirklich kaufen?
+Sie können eine Herausforderungszeit für nur 50 Juwelen kaufen. Möchten Sie sie wirklich kaufen?
 
 [DANGERROOM_BUY_BUTTON]
 Kaufen, kaufen, kaufen!
@@ -15945,7 +15946,7 @@ Das Datenvolumen ist abgelaufen. Bitte aktualisiere die Aktivitätsoberfläche.
 Tipps zum Kauf von Spielzeiten
 
 [BUY_LIFE_TIP_TEXT]
-Möchtest du {GEM_COUNT} Diamanten ausgeben, um Spielzeit zu kaufen?
+Möchtest du {GEM_COUNT} Juwelen ausgeben, um Spielzeit zu kaufen?
 
 [BUY_MYSTERY_SHOP_TIP]
 Kauftipps
@@ -15963,8 +15964,8 @@ Möchten Sie aufladen?
 Erfolgreich erhalten
 
 [DANGERROOM_BONUS_REOBETAINED]
-Diamantenersatz erfolgreich
-Insgesamt {GEMS} Diamanten wurden ersetzt.
+Juwelenersatz erfolgreich
+Insgesamt {GEMS} Juwelen wurden ersetzt.
 
 [REWARD_GET_TIP_TEXT]
 Sie haben in der letzten Endlos-Herausforderung die höchste Punktzahl von {SCORE_COUNT} erreicht, den Titel {ACCOUNT_NAME} erhalten und die Ranglistenbelohnung {REWARD_COUNT}{REWARD_NAME} erhalten.
@@ -15979,15 +15980,15 @@ Belohnung zurückfordern
 Es gibt keine Endlosbelohnung. Möglicherweise ist die Belohnung noch nicht verfügbar oder du hast sie bereits eingefordert.
 
 [DANGERROOM_BONUS_UNCONNECTED_INLEVEL]
-Aufgrund eines Netzwerkfehlers können die Diamanten in der Belohnung nicht eingefordert werden!
+Aufgrund eines Netzwerkfehlers können die Juwelen in der Belohnung nicht eingefordert werden!
 (Goldmünzen und -fragmente können normal eingefordert werden.)
-Nachdem das Netzwerk verbessert wurde, kannst du die Diamanten in der Bestenliste oder beim Levelaufstieg einfordern.
+Nachdem das Netzwerk verbessert wurde, kannst du die Juwelen in der Bestenliste oder beim Levelaufstieg einfordern.
 
 [DANGERROOM_BONUS_UNCONNECTED]
 Aufgrund einer fehlenden Netzwerkverbindung kann die Endlosbelohnung nicht eingefordert werden!
 
 [REWARD_TYPE_GEM]
-Diamanten
+Juwelen
 
 [REWARD_TYPE_COIN]
 Goldmünzen
@@ -16010,21 +16011,21 @@ Spielregeln:
 
 3. Die Anzahl der Belohnungen richtet sich nach deiner höchsten Punktzahl im vorherigen Zeitraum.
 Belohnungsregeln:
-1. Platz: 800 Diamanten
-2. Platz: 500 Diamanten
-3. Platz: 400 Diamanten
-4.–10. Platz: 300 Diamanten
-11.–100. Platz: 200 Diamanten
-101.–1000. Platz: 150 Diamanten
-Stufe 9: Mythenmacher (3.500.000 Punkte) 108 Diamanten
-Stufe 8: Zombie-Terminator (3.000.000 Punkte) 88 Diamanten
-Stufe 7: Zombietöter (2.500.000 Punkte) 68 Diamanten
-Stufe 6: Zombiekiller (2.000.000 Punkte) 58 Diamanten
-Stufe 5: Zombiekiller (1.500.000 Punkte) 48 Diamanten
-Stufe 4: Zombiejäger-Meister (1.000.000 Punkte) 38 Diamanten
-Stufe 3: Geschickter Jäger (500.000 Punkte) 28 Diamanten
-Lv. 2 Rookie Hunter (100.000 Punkte) 18 Diamanten
-Lv. 1 Novice (0 Punkte) 8 Diamanten
+1. Platz: 800 Juwelen
+2. Platz: 500 Juwelen
+3. Platz: 400 Juwelen
+4.–10. Platz: 300 Juwelen
+11.–100. Platz: 200 Juwelen
+101.–1000. Platz: 150 Juwelen
+Stufe 9: Mythenmacher (3.500.000 Punkte) 108 Juwelen
+Stufe 8: Zombie-Terminator (3.000.000 Punkte) 88 Juwelen
+Stufe 7: Zombietöter (2.500.000 Punkte) 68 Juwelen
+Stufe 6: Zombiekiller (2.000.000 Punkte) 58 Juwelen
+Stufe 5: Zombiekiller (1.500.000 Punkte) 48 Juwelen
+Stufe 4: Zombiejäger-Meister (1.000.000 Punkte) 38 Juwelen
+Stufe 3: Geschickter Jäger (500.000 Punkte) 28 Juwelen
+Lv. 2 Rookie Hunter (100.000 Punkte) 18 Juwelen
+Lv. 1 Novice (0 Punkte) 8 Juwelen
 
 [NO_RANK_TITLE]
 Keine Rangliste
@@ -16123,7 +16124,7 @@ Zeit- und Raum-Staub
 Anhänger zurücksetzen
 
 [CONFIRM_RESET]
-Ob 10 Diamanten ausgegeben werden sollen, um den Anhänger zurückzusetzen
+Ob 10 Juwelen ausgegeben werden sollen, um den Anhänger zurückzusetzen
 
 [BONUS_CARD_PIECE_ICESHROOM]
 Eispilzstück
@@ -16624,19 +16625,19 @@ Ups, ich hab mir wohl was angebissen.
 Bravo, töte die Zombies, lauf nicht weg.
 
 [SNAKE_REVIVE_TIP1]
-Avocados können keine Hindernisse fressen. ~ Verbrauche ^00e46e {GEM_COUNT} Diamanten. ^oldclr. Spiel fortsetzen?
+Avocados können keine Hindernisse fressen. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP2]
-Avocados können sich nicht selbst beißen. ~ Verbrauche ^00e46e {GEM_COUNT} Diamanten. ^oldclr. Spiel fortsetzen?
+Avocados können sich nicht selbst beißen. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP3]
-Lauf nicht aus dem Veranstaltungsort. ~ Verbrauche ^00e46e {GEM_COUNT} Diamanten. ^oldclr. Spiel fortsetzen?
+Lauf nicht aus dem Veranstaltungsort. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP4]
-Zombies fressen Gehirne! Verbrauche ^00e46e {GEM_COUNT} Diamanten ^oldclr. Einen Karren beschwören?
+Zombies fressen Gehirne! Verbrauche ^00e46e {GEM_COUNT} Juwelen ^oldclr. Einen Karren beschwören?
 
 [REVIVE_DODORIDER_DIED_OUT]
-Es gibt keine weiteren Herausforderungen. Möchtest du ^00e46e {GEM_COUNT} Diamanten ^oldclr verbrauchen, um eine Herausforderung zu kaufen?
+Es gibt keine weiteren Herausforderungen. Möchtest du ^00e46e {GEM_COUNT} Juwelen ^oldclr verbrauchen, um eine Herausforderung zu kaufen?
 
 [REVIVE_DODORIDER_DIED_OUT_CANCELED]
 Das Abenteuer des Dodos ist gescheitert...
@@ -17385,7 +17386,7 @@ Benötigte Fragmente: {PIECE_COUNT}
 ^00ff00^ Anhänger oder Fragmente der Stufen 1–4 können erhalten werden: ^oldclr^
 
 [SPRINGGIFT_GEMDES]
-^ffff00^ {NUMBER} Diamanten: ^oldclr^
+^ffff00^ {NUMBER} Juwelen: ^oldclr^
 
 [SPRINGGIFT_DES]
 ^ffff00^ 3. Stufe: {NAME}: ^oldclr^
@@ -18620,7 +18621,7 @@ Zurücksetzen erfolgreich, entsprechende Materialien wurden zurückgegeben
 Zurücksetzen fehlgeschlagen, {CODE}
 
 [RES ET_FAILED_MESSAGE_DIFICIENCY]
-Zurücksetzen fehlgeschlagen, nicht genügend Diamanten
+Zurücksetzen fehlgeschlagen, nicht genügend Juwelen
 
 [STEADY_FAILED_MESSAGE]
 Verbesserung fehlgeschlagen, {CODE}
@@ -18703,16 +18704,16 @@ Erweiterte rotierende Ananas und Verkleidung
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
 
 [GEMRETURN_ONCEREWARD]
-Einmaliger Diamant-Rabatt
+Einmaliger Juwel-Rabatt
 
 [GEMRETURN_ONCEREWARD_DES]
-60-facher Diamant-Rabatt Das Event ist beendet. Hier sind die {GEMS} Diamanten, die du noch nicht eingefordert hast.
+60-facher Juwel-Rabatt Das Event ist beendet. Hier sind die {GEMS} Juwelen, die du noch nicht eingefordert hast.
 
 [GEMRETURN_REWARD_NOW]
 Bestätigen
 
 [GEMRETURN_DES]
-Laden Sie ab sofort 0,1 Yuan auf und erhalten Sie 60 Diamanten. Diese werden Ihnen innerhalb von 7 Tagen zurückerstattet (Internetverbindung erforderlich).
+Laden Sie ab sofort 0,1 Yuan auf und erhalten Sie 60 Juwelen. Diese werden Ihnen innerhalb von 7 Tagen zurückerstattet (Internetverbindung erforderlich).
 
 [GEMRETURN_ACTIVE]
 ... Jetzt aktivieren
@@ -18721,16 +18722,16 @@ Laden Sie ab sofort 0,1 Yuan auf und erhalten Sie 60 Diamanten. Diese werden Ihn
 ... Jetzt kaufen
 
 [GEMRETURN_PRODUCT_DES]
-%d Diamanten sichern
+%d Juwelen sichern
 
 [PRODUCT_DIAMONDS_GEMRETURN]
-60-facher Diamanten-Rabatt
+60-facher Juwelen-Rabatt
 
 [PRODUCT_GEM_REWARD]
-1 Yuan Diamanten-Rabattaktion
+1 Yuan Juwelen-Rabattaktion
 
 [PRODUCT_GEM_REWARD_SHORTDESC]
-Diamanten-Wochenkarte
+Juwelen-Wochenkarte
 
 [PRODUCT_IOS_CUKE_PACKAGE]
 1 Yuan Gurken-Geschenkpaket
@@ -18769,7 +18770,7 @@ VIP月卡
 即日起充值1元即可获得105返钻，分7日返还（需联网）
 
 [PRODUCT_DIAMONDS_REWARD]
-Holen Sie sich {GEMS} Diamanten.
+Holen Sie sich {GEMS} Juwelen.
 
 [PLANT_OBTAIN_CLOSED]
 Nicht geöffnet
@@ -18778,13 +18779,13 @@ Nicht geöffnet
 Das Event ist nicht geöffnet.
 
 [PRODUCT_DIAMONDS_REWARD_CLOSED]
-Das 1-Yuan-Diamanten-Rabatt-Event ist noch nicht geöffnet. Bitte versuchen Sie es erneut.
+Das 1-Yuan-Juwelen-Rabatt-Event ist noch nicht geöffnet. Bitte versuchen Sie es erneut.
 
 [PRODUCT_GEM_REWARD_GET_FAILED_TITLE]
 Einlösung fehlgeschlagen
 
 [PRODUCT_GEM_REWARD_GET_FAILED]
-Der Diamanten-Rabatt konnte nicht eingelöst werden. Bitte überprüfen Sie das Netzwerk oder öffnen Sie es erneut und versuchen Sie es erneut.
+Der Juwelen-Rabatt konnte nicht eingelöst werden. Bitte überprüfen Sie das Netzwerk oder öffnen Sie es erneut und versuchen Sie es erneut.
 
 [PRODUCT_BUY_MOWER_DES]
 Kleinen Karren beschwören
@@ -19905,7 +19906,7 @@ Entferne die Bohnen neben dem Eis, um es zu schmelzen!
 Vorsicht, der Schild hält viele Kugeln ab!
 
 [ELIMINATE_REVIVE_TIP1]
-Die Anzahl der Aktionen ist aufgebraucht. Möchtest du ^00e46e {GEM_COUNT} Diamanten ^oldclr ausgeben, um 3 Schritte zu kaufen?
+Die Anzahl der Aktionen ist aufgebraucht. Möchtest du ^00e46e {GEM_COUNT} Juwelen ^oldclr ausgeben, um 3 Schritte zu kaufen?
 
 [ELIMINATE_STEP_COUNT]
 {STEP_COUNT} Schritte
@@ -19924,7 +19925,7 @@ Du kannst Dr. Zomboss schneller besiegen, indem du Spezialdünger direkt kaufst!
 Klicke irgendwo, um fortzufahren.
 
 [POOYAN_SHOOTER_DIED_TIP]
-Das Flugzeug ist beschädigt. Möchtest du ^00e46e {GEM_COUNT} Diamanten ^oldclr ausgeben, um es zu reparieren?
+Das Flugzeug ist beschädigt. Möchtest du ^00e46e {GEM_COUNT} Juwelen ^oldclr ausgeben, um es zu reparieren?
 
 [POOYAN_FAILED_TIP]
 Das Flugzeug wurde von Zombies beschädigt!
@@ -19933,7 +19934,7 @@ Das Flugzeug wurde von Zombies beschädigt!
 Du hast nicht genügend Punkte!
 
 [FISHING_ENERGY_NEED_RESET_TIP]
-Du brauchst nur ^00e46e {GEM_COUNT} Diamanten ^oldclr, um 1000 Sonnenlicht zu erhalten. Musst du es kaufen?
+Du brauchst nur ^00e46e {GEM_COUNT} Juwelen ^oldclr, um 1000 Sonnenlicht zu erhalten. Musst du es kaufen?
 
 [FISHING_FAILED_TIP]
 Die Energie des Hauptgeschützes ist erschöpft!
@@ -23132,7 +23133,7 @@ Fragmente kaufen?
 Fortschritt wird geladen...
 
 [CONSUMPTION_GEM_REWARD]
-Diamanten x{GEM}
+Juwelen x{GEM}
 
 [CONSUMPTION_COIN_REWARD]
 Münzen x{COIN}
@@ -24320,7 +24321,7 @@ Du hast nur eine Chance, {NAME} direkt zu vervollständigen!
 Gib {COST_NUM} Yuan aus, um {PLANT_LEVEL} Level {PLANT_NAME} zu kaufen und {COIN_NUM} Münzen zusätzlich zu erhalten.
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_2]
-Gib {COST_NUM} Diamanten aus, um {PLANT_LEVEL} Level {PLANT_NAME} zu kaufen und {COIN_NUM} Münzen zusätzlich zu erhalten.
+Gib {COST_NUM} Juwelen aus, um {PLANT_LEVEL} Level {PLANT_NAME} zu kaufen und {COIN_NUM} Münzen zusätzlich zu erhalten.
 
 [FREE_TIMES]
 Gratis x {NUMBER}
@@ -33423,7 +33424,7 @@ Besiege Dr. Zombosss Transformer.
 Öffne den Schatz.
 
 [CONTENT_OPEN_CHEST]
-Gib ^00FF00{NUMBER} Diamanten^oldclr aus, um dein Glück zu versuchen.
+Gib ^00FF00{NUMBER} Juwelen^oldclr aus, um dein Glück zu versuchen.
 
 [BOSS_CHALLENGE_HEAD_ID_25017]
 Winter-Challenge-Champion
@@ -35647,7 +35648,7 @@ Rabatt
 Originalpreis
 
 [GEM_BUY_GEM]
-Diamant
+Juwel
 
 [PLANTBUNDLE_SALE_PRICE]
 Aktueller Preis
@@ -35687,10 +35688,10 @@ Pflanzenfragmente
 Pflanzenkostümfragmente
 
 [DAVECLUB_ACTIVITY_10651]
-Diamantenverbrauch für Lotterie
+Juwelenverbrauch für Lotterie
 
 [DAVECLUB_ACTIVITY_DES_10651]
-Du kannst seltene Pflanzenfragmente ziehen und seltene Anhänger, indem du täglich eine bestimmte Anzahl Diamanten verbrauchst!
+Du kannst seltene Pflanzenfragmente ziehen und seltene Anhänger, indem du täglich eine bestimmte Anzahl Juwelen verbrauchst!
 
 [DAVECLUB_ACTIVITY_10653]
 Vorteilspaket
@@ -43504,7 +43505,7 @@ Die Erfahrungskarte ist abgelaufen. Möchtest du diese Pflanze kaufen?
 Geschenkpaket für die erste Aufladung
 
 [NEWER_PRESENT_FIRSTRECHARGE_DES]
-Mit der ersten Aufladung von ^00FF00 2 Yuan ^oldclr erhältst du Diamanten und das Geschenkpaket für die erste Aufladung! (Insgesamt können ^00FF00 155 Diamanten ^oldclr erhalten werden. Oh!)
+Mit der ersten Aufladung von ^00FF00 2 Yuan ^oldclr erhältst du Juwelen und das Geschenkpaket für die erste Aufladung! (Insgesamt können ^00FF00 155 Juwelen ^oldclr erhalten werden. Oh!)
 
 [PLANT_SPECIAL_LEFT_TIME]
 Event-Countdown: {TIME}
@@ -44334,7 +44335,7 @@ Passionsblumenkostüm
 Passionsblumenkostüm
 
 [STORE_PRODUCT_AVATAR_PASSIONFLOWER]
-Bildet Diamantzahnräder, die Fernschaden verursachen.
+Bildet Juwelzahnräder, die Fernschaden verursachen.
 
 [VANILLA]
 Vanille
@@ -44632,7 +44633,7 @@ Du kannst Kohle ausschütten, um Pflanzen sofort zu töten. Du kannst es insgesa
 {SAY:WINNIE} Du erhältst einen Doppelhammer, indem du Goldmünzen ausgibst, und doppelte Punkte, wenn du Zombies triffst.
 
 [NARRATIVE_STEAM_13_INTRO_7]
-{SAY:WINNIE} Du erhältst einen korrekten Doppelhammer, indem du Diamanten ausgibst, und doppelte Punkte, indem du Zombies und Pflanzen triffst.
+{SAY:WINNIE} Du erhältst einen korrekten Doppelhammer, indem du Juwelen ausgibst, und doppelte Punkte, indem du Zombies und Pflanzen triffst.
 
 [NARRATIVE_STEAM_16_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Versucht der Typ mit dem Kessel auf dem Rücken etwa abzunehmen?
@@ -45260,7 +45261,7 @@ Wenn du die Top 3 deiner Bestenliste erreichst, steigst du in eine wettbewerbsf�
 Jede Super-Z-Liga startet freitags um 15:00 Uhr. Der gesamte Zeitplan umfasst fünf Wochen, wobei die sechste Woche die Abrechnungswoche ist. Sie endet am Freitag der sechsten Woche um 9:00 Uhr. Nach dem Ende des aktuellen Events werden alle Level für das nächste Event zurückgesetzt.
 
 [JOUST_HOWTOPLAY_6_DESCRIPTION]
-Spieler erhalten täglich einen kostenlosen Schlüssel. Sobald die Anzahl der kostenlosen Schlüssel aufgebraucht ist, beginnt ein Countdown von 8 Stunden, anstatt alle 8 Stunden einen kostenlosen Schlüssel zu erhalten. Wenn der Spieler während dieses Zeitraums Diamanten oder RMB für den Kauf eines Schlüssels ausgibt, wird der Gratis-Countdown gestoppt. Erst wenn der Schlüsselzähler des Spielers 0 ist, beginnt der Gratis-Countdown.
+Spieler erhalten täglich einen kostenlosen Schlüssel. Sobald die Anzahl der kostenlosen Schlüssel aufgebraucht ist, beginnt ein Countdown von 8 Stunden, anstatt alle 8 Stunden einen kostenlosen Schlüssel zu erhalten. Wenn der Spieler während dieses Zeitraums Juwelen oder RMB für den Kauf eines Schlüssels ausgibt, wird der Gratis-Countdown gestoppt. Erst wenn der Schlüsselzähler des Spielers 0 ist, beginnt der Gratis-Countdown.
 
 [JOUST_LEAGUE_NAME_BRICK]
 Steinliga
@@ -46419,7 +46420,7 @@ Hauptpreis: Kostümticket*800 1,15 %
 Hauptpreis: Erweitertes Buch*1 1,17 %
 Geheimes Schatzticket*5 4,76 %
 Erweitertes Artefakt-Segenticket*10 4,92 %
-Gewöhnlicher Diamant*100 14,99 %
+Gewöhnlicher Juwel*100 14,99 %
 Gewöhnliche Lingxiao-Münze*1 43,21 %
 Gewöhnliche Lingxiao-Münze*3 21,82 %
 Hauptpreis: Lingxiao-Münze*100 1,01 %
@@ -46584,7 +46585,7 @@ Aktivitätsregeln:
 
 2. Nachdem du alle Belohnungen aus dem Drachenschatz erhalten hast, wird der aktuelle Preispool automatisch zurückgesetzt. Nachdem Spieler fünf Belohnungen aus der aktuellen Schatzrunde erhalten haben, können sie 10 Drachenkristalle ausgeben, um die Ziehung manuell zurückzusetzen.
 
-3. Der Fortschritt, die Drachenkristalle und die Punkte dieses Events werden nicht auf die nächste Periode übertragen. Nach Ende des Events werden die verbleibenden Drachenkristalle im Verhältnis 1:1 in Diamanten und die verbleibenden Punkte im Verhältnis 1:100 in Goldmünzen umgewandelt.
+3. Der Fortschritt, die Drachenkristalle und die Punkte dieses Events werden nicht auf die nächste Periode übertragen. Nach Ende des Events werden die verbleibenden Drachenkristalle im Verhältnis 1:1 in Juwelen und die verbleibenden Punkte im Verhältnis 1:100 in Goldmünzen umgewandelt.
 4. Spieler können Belohnungen aus der Schatzkammer des Drachenclans erhalten, indem sie Drachenkristalle ausgeben. Die Wahrscheinlichkeiten sind:
 Ausgewählte Belohnung 1 (Hydraulikartefakt, Speer, Kugelorchidee, Roter-Junge-Ganzkörperkostüm, Fragmente des gierigen Drachengrases * 20) 1,00 %
 Ausgewählte Belohnung 2 (Richtungsfragmente * 10, Artefakt-Segensgutscheine * 30, Fragmente des gierigen Drachengrases * 10) 2,21 %
@@ -46594,7 +46595,7 @@ Raum-Zeit-Energietank * 10 5,00 % Raum-Zeit-Würfel * 2 3,70 %
 Raum-Zeit-Staub * 10 13,00 % Raum-Zeit-Staub * 20 5,00 %
 Raum-Zeit-Kristall * 5 3,20 % Raum-Zeit-Kristall * 1 16,00 %
 Mysteriöser Kristall * 6000 8,00 % Mystischer Kristall * 18000 2,50 %
-Diamant * 200 2,50 % Diamant * 50 13,00 %
+Juwel * 200 2,50 % Juwel * 50 13,00 %
 
 [DRAGON_TREASURE_DESCRIPTION_TITLE]
 Beschreibung der Drachenschatz-Aktivität
@@ -46653,13 +46654,13 @@ Aktivitätsregeln:
 5. Regel zur garantierten Mindestdeckung: Wenn mehrere Belohnungen gleichzeitig die Mindestgarantie auslösen, deckt die Belohnung der höheren Stufe die Belohnung der niedrigeren Stufe ab.
 6. Regel für das Zurücksetzen der garantierten Mindestzeit: Nach Erhalt einer hochstufigen Belohnung werden alle garantierten Mindestzeiten unter diesem Level (einschließlich dieses Levels) zurückgesetzt.
 7. Jede legendäre und epische Belohnung kann nur einmal erhalten werden. Nach Erhalt der Belohnung wird die Wahrscheinlichkeit gleichmäßig auf andere Hauptpreise verteilt.
-8. Nach Ende des Events werden die verbleibenden Goldnuggets gelöscht und im Verhältnis 1:30 in Diamanten umgewandelt.
-9. Wenn ein Spieler eine Artefaktbelohnung erhält und das Artefakt bereits besitzt, wird die Belohnung automatisch in 1.500 Diamanten umgewandelt.
+8. Nach Ende des Events werden die verbleibenden Goldnuggets gelöscht und im Verhältnis 1:30 in Juwelen umgewandelt.
+9. Wenn ein Spieler eine Artefaktbelohnung erhält und das Artefakt bereits besitzt, wird die Belohnung automatisch in 1.500 Juwelen umgewandelt.
 
 Bekanntgabe der Gewinnwahrscheinlichkeit:
 Requisiten (Wahrscheinlichkeit)
-Diamanten*30 (12 %)
-Diamanten*150 (5 %)
+Juwelen*30 (12 %)
+Juwelen*150 (5 %)
 Goldmünzen*50.000 (13 %)
 Goldmünzen*80.000 (7 %)
 Geheimes Schatzticket*1 (8 %)
@@ -46676,7 +46677,7 @@ Tigerkopfpilz-Nakadashi-Verbindungskostüm (7 %)
 Du Ying-Krug-Nakadashi-Verbindungskostüm (13 %)
 
 Epischer Hauptpreis:
-Diamanten*3.000 (5 %)
+Juwelen*3.000 (5 %)
 Fortbildungsbuch*1 (5 %)
 Apfelmörserfragment*2 0 (5 %)
 Zitteraal Bananenfragmente * 20 (5 %)
@@ -47593,7 +47594,7 @@ Herzlichen Glückwunsch zu {NUM} Gefäßhämmern! Hämmer
 Schließe {NUM} Pflanzenabenteuer ab.
 
 [HAPPY_VASE_BREAKER_GEM_CONSUME]
-Verbrauche {NUM} Diamanten.
+Verbrauche {NUM} Juwelen.
 
 [HAPPY_VASE_BREAKER_LOGIN]
 Anmelden
@@ -47934,9 +47935,9 @@ Anleitung zum Bäumepflanzen
 [ARBORDAY_DESCRIPTION]
 Aktivitätsinhalt:
 
-1. Jedes Mal, wenn du drei Wasserkessel verbrauchst, kannst du die Schatztruhe einmal öffnen und viele Pflanzenfragmente, Diamanten, Goldmünzen und andere Belohnungen erhalten. Die Liste der Belohnungen, die du erhalten kannst: ^FF8000^ Artefaktsegen-Ticket, Angriffsbambussoldat, Schwindelerregendes Gänseblümchen^oldclr^ ^8600FF^ Nachtschatten, Nachtschatten-Mistel, Eisfee^oldclr^ ^2828FF^Ursprungsnüsse, Spargelkämpfer, Mächtiger Blumenkohl^oldclr^ ^82D900^Dreifachschütze, Explosive Nüsse, Dendrobium-Windschutznetz^oldclr^
+1. Jedes Mal, wenn du drei Wasserkessel verbrauchst, kannst du die Schatztruhe einmal öffnen und viele Pflanzenfragmente, Juwelen, Goldmünzen und andere Belohnungen erhalten. Die Liste der Belohnungen, die du erhalten kannst: ^FF8000^ Artefaktsegen-Ticket, Angriffsbambussoldat, Schwindelerregendes Gänseblümchen^oldclr^ ^8600FF^ Nachtschatten, Nachtschatten-Mistel, Eisfee^oldclr^ ^2828FF^Ursprungsnüsse, Spargelkämpfer, Mächtiger Blumenkohl^oldclr^ ^82D900^Dreifachschütze, Explosive Nüsse, Dendrobium-Windschutznetz^oldclr^
 
-2. Du erhältst einen Kessel durch Bewässerungsaufgaben oder durch Diamant-Geschenkpakete.
+2. Du erhältst einen Kessel durch Bewässerungsaufgaben oder durch Juwel-Geschenkpakete.
 
 3. Jedes Mal, wenn du einen Kessel verbrauchst, wird dein persönlicher und serverweiter Bewässerungsfortschritt gesammelt. Du kannst Belohnungen basierend auf deinem persönlichen und serverweiten Fortschritt erhalten!
 
@@ -52458,7 +52459,7 @@ Kartenstreit
 Setze Karten sinnvoll ein, um den Gegner zu besiegen.
 
 [MAZE_STATUE_DIED_TIP]
-Der Hammer ist aufgebraucht. Möchtest du ihn verbrauchen? ^00e46e {GEM_COUNT} Diamanten ^oldclr hinzugefügt?
+Der Hammer ist aufgebraucht. Möchtest du ihn verbrauchen? ^00e46e {GEM_COUNT} Juwelen ^oldclr hinzugefügt?
 
 [MAZE_STATUE_FAILED_TIP]
 Die Zombies wurden nicht gefunden. Penny ist sehr enttäuscht von dir!
@@ -52830,7 +52831,7 @@ Speichersynchronisierung fehlgeschlagen. Bitte stellen Sie sicher, dass die Netz
 Sie haben einen Artikel nicht erhalten. Bitte überprüfen Sie ihn.
 
 [BUY_MOWER_PRICE_TEXT]
-{NUMBER} Diamanten
+{NUMBER} Juwelen
 
 [STORE_CATEGORY_NAME_SECRET_GACHA]
 Geheimer Schatz
@@ -52841,11 +52842,11 @@ Beschreibung des geheimen Schatzes
 [SECRET_GACHA_OVERVIEW_CONTENT]
 1. Spieler können Geheime-Schatz-Tickets verwenden, um Belohnungen zu ziehen. Die Ziehung erfolgt in eine einzelne Ziehung und zehn aufeinanderfolgende Ziehungen – eine einzelne Ziehung verbraucht 1 Geheime-Schatz-Ticket, zehn aufeinanderfolgende Ziehungen verbrauchen 10 Geheime-Schatz-Tickets.
 2. Durch kumulatives Aufladen und andere Aktivitäten können Sie das Geheime-Schatz-Einzelziehungsticket erhalten, das als Verbrauchsgegenstand für eine einzelne Ziehung verwendet werden kann.
-3. Wenn der Spieler ein Einzelziehungsticket besitzt, verbraucht er zunächst das Einzelziehungsticket für die Ziehung. Wenn das Los aufgebraucht ist, kann er Diamanten ausgeben, um ein Los für die Ziehung zu kaufen.
+3. Wenn der Spieler ein Einzelziehungsticket besitzt, verbraucht er zunächst das Einzelziehungsticket für die Ziehung. Wenn das Los aufgebraucht ist, kann er Juwelen ausgeben, um ein Los für die Ziehung zu kaufen.
 4. Spieler können die gewünschte Hauptpreispflanze ersetzen, indem sie auf den Pflanzenwunsch-Button in der unteren rechten Ecke klicken.
 5. Nach dem Ersetzen der gewünschten Pflanze wird die Hauptpreis-Belohnungspflanze als Ersatzpflanze mit einem separaten Preispool verwendet.
 6. Die Hauptpreispflanze wird täglich automatisch aktualisiert. Die aktualisierte Pflanze ist nicht in der Liste der ersetzbaren Pflanzen enthalten. Wenn du auf eine gewünschte Pflanze stößt, achte bitte auf die Zeit und ziehe sie rechtzeitig!
-7. Neben Diamanten und Pflanzenbelohnungen dienen die restlichen Belohnungsblasen im Preispool nur zur Anzeige und enthalten nicht alle Belohnungen.
+7. Neben Juwelen und Pflanzenbelohnungen dienen die restlichen Belohnungsblasen im Preispool nur zur Anzeige und enthalten nicht alle Belohnungen.
 
 [SECRET_GACHA_TITLE]
 Wahrscheinlichkeitsankündigung
@@ -52863,7 +52864,7 @@ Anhängerfragmente
 Münzen
 
 [SECRET_GACHA_LOTTERY_PENDANT]
-Diamanten
+Juwelen
 
 [SECRET_GACHA_COIN_PENDANT]
 Mysteriöse Kristalle
@@ -52873,11 +52874,11 @@ Gurkenbomben
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC_PARAM]
 Aktivitätsbeschreibung: {MONTH} {START} - {END}. Melde dich täglich an, um reichhaltige Belohnungen zu erhalten.
-Du kannst außerdem durch Aufladen erweiterte Belohnungen erhalten. Diamanten während dieses Zeitraums.
+Du kannst außerdem durch Aufladen erweiterte Belohnungen erhalten. Juwelen während dieses Zeitraums.
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC]
 Eventbeschreibung: Vom 1. bis 10. Juni kannst du dir täglich tolle Belohnungen sichern, indem du dich anmeldest.
-In diesem Zeitraum kannst du außerdem erweiterte Belohnungen erhalten, indem du Diamanten auflädst.
+In diesem Zeitraum kannst du außerdem erweiterte Belohnungen erhalten, indem du Juwelen auflädst.
 
 [RECHARGE_DAILYSIGN_ACTIVITY_TIME_COUNTDOWN]
 {TIME}
@@ -52906,21 +52907,21 @@ Erweitert Anmelden
 Erhalten
 
 [DISCOUNT_SHOP_ACTIVITY_DESC]
-Lade während des Events vom 1. bis 10. Juni täglich beliebig viele Diamanten auf, um
+Lade während des Events vom 1. bis 10. Juni täglich beliebig viele Juwelen auf, um
 Artikel aus dem Tagesrabattpool zu kaufen.
 
 [DISCOUNT_SHOP_ACTIVITY_DESC_PARAM]
-Lade während des Events vom {MONTH} Monat {START} Tag bis {MONTH} Monat {END} Tag täglich beliebig viele Diamanten auf, um
+Lade während des Events vom {MONTH} Monat {START} Tag bis {MONTH} Monat {END} Tag täglich beliebig viele Juwelen auf, um
 Artikel aus dem Tagesrabattpool zu kaufen.
 
 [DISCOUNT_SHOP_ACTIVITY_DIAMOND]
-Aktueller Diamant
+Aktueller Juwel
 
 [DISCOUNT_SHOP_ACTIVITY_TIME_COUNTDOWN_PARAM]
 {TIME}
 
 [DISCOUNT_SHOP_GEM_COST]
-{NUM} Diamanten
+{NUM} Juwelen
 
 [DISCOUNT_SHOP_ACTIVITY_BUY_BTN]
 Kaufen
@@ -52983,9 +52984,9 @@ Bestenlistenbeschreibung
 Die Plätze 1 bis 3 im Blockrang steigen in den Bronzerang auf, die Plätze 4 bis 6 in den Eisenrang und die Plätze 7 bis 9 in den Ziegelrang.
 Die Plätze 1 bis 2 im Ziegelrang steigen in den Silberrang auf, die Plätze 3 bis 5 in den Bronzerang und die Plätze 6 bis 8 in den Eisenrang.
 Die Plätze 1 bis 2 im Eisenrang steigen in den Goldrang auf, die Plätze 3 bis 4 in den Silberrang und die Plätze 5 bis 7 in den Bronzerang.
-Die Plätze 1 bis 2 im Bronzerang steigen in den Diamantrang auf, die Plätze 3 bis 4 in den Goldrang und die Plätze 5 bis 6 in den Silberrang.
-Die Plätze 1 bis 3 im Silberrang steigen in den Diamantrang auf. Die Plätze 4 bis 6 steigen in den Gold-Rang auf.
-Die Top 5 im Gold-Rang steigen in den Diamant-Rang auf, die Top 3 im Diamant-Rang in den Legenden-Rang.
+Die Plätze 1 bis 2 im Bronzerang steigen in den Juwelrang auf, die Plätze 3 bis 4 in den Goldrang und die Plätze 5 bis 6 in den Silberrang.
+Die Plätze 1 bis 3 im Silberrang steigen in den Juwelrang auf. Die Plätze 4 bis 6 steigen in den Gold-Rang auf.
+Die Top 5 im Gold-Rang steigen in den Juwel-Rang auf, die Top 3 im Juwel-Rang in den Legenden-Rang.
 6. Wenn du in eine neue Liga aufsteigst, erhältst du einen neuen exklusiven Avatar für Pennys Verfolgung.
 7. Jede Liga dauert 7 Tage, und acht Ligen bilden eine Saison mit 56 Tagen.
 
@@ -53017,7 +53018,7 @@ Jede Woche gibt es neue Level. Schließe das Level ab, erfülle Dr. Zombies Stan
 Erreiche das Levelziel, um Pennys mächtige Buff-Funktion zu erhalten. Nutze eine Buff-Funktion kostenlos pro Level. Der Buff wird nach jedem Level zurückgesetzt.
 
 [RIFT_HOWTOPLAY_3_DESCRIPTION]
-Pennys Verfolgungslevel verbraucht eine bestimmte Menge an Batterie. Die Batterie regeneriert sich mit der Zeit oder kann mit Diamanten aufgefüllt werden.
+Pennys Verfolgungslevel verbraucht eine bestimmte Menge an Batterie. Die Batterie regeneriert sich mit der Zeit oder kann mit Juwelen aufgefüllt werden.
 
 [RIFT_HOWTOPLAY_4_DESCRIPTION]
 Fordere Dr. Zombie in einem 3-Runden-Duell heraus! Schließe alle 3 Runden erfolgreich ab, um viele Belohnungen zu erhalten.
@@ -56745,7 +56746,7 @@ Accessoiretausch
 Verwenden
 
 [UI_BAG_PARTY_ASSIST_EXCHANGE]
-Diamantenbörse
+Juwelenbörse
 
 [UI_BAG_ITEM_COUNT]
 Anzahl der Bestände: ^ff0000^{NUMS}^oldclr^
@@ -58095,16 +58096,16 @@ Tipps
 [PVZ1_MODE_TIME_ENERGY_BANK_TIPS_DESC]
 Gegenstandsverbrauch: 1 Raum-Zeit-Stabilisator wird nach erfolgreichem Abschluss eines normalen Levels verbraucht.
 Gegenstandsverteilung: Alle Raum-Zeit-Stabilisatoren werden täglich um 0:00 Uhr aufgefüllt.
-Gegenstandslimit: 4, mehr als das Limit können mit Diamanten erworben werden.
+Gegenstandslimit: 4, mehr als das Limit können mit Juwelen erworben werden.
 
 [PVZ1_MODE_START_LEVEL_TIPS_TITLE]
 Belohnungstipps
 
 [PVZ1_MODE_START_LEVEL_TIPS_DESC]
-1. Im normalen Schwierigkeitsgrad erhältst du jede Woche eine große Menge Schneckenmünzen, Diamanten und Goldmünzen, wenn du jedes Level zum ersten Mal abschließt.
+1. Im normalen Schwierigkeitsgrad erhältst du jede Woche eine große Menge Schneckenmünzen, Juwelen und Goldmünzen, wenn du jedes Level zum ersten Mal abschließt.
 2. Je mehr Herausforderungsziele du beim Abschließen eines Levels auswählst, desto mehr Schneckenmünzen erhältst du.
 3. Du kannst das Level erneut für nicht markierte Herausforderungsziele spielen, um das Ziel zu erreichen. Belohnung
-3. Wenn du ein schwieriges Level zum ersten Mal abschließt, erhältst du Diamanten und Goldmünzen sowie speziell gefärbte Schneckenmünzen (außer in Zombie-Leveln).
+3. Wenn du ein schwieriges Level zum ersten Mal abschließt, erhältst du Juwelen und Goldmünzen sowie speziell gefärbte Schneckenmünzen (außer in Zombie-Leveln).
 
 [PVZ1_MODE_SELECT_LEVEL_CHALLENGE_CHOOSE_DESC]
 (Je mehr Ziele du auswählst, desto höher ist die Belohnung.)
@@ -62512,7 +62513,7 @@ Spielanleitung
 Beeinflusst von der mysteriösen Kraft der Raum-Zeit erreichen alle Pflanzen Level 1.
 
 [MODE_HOWTOPLAY_2_DESCRIPTION]
-Das Bewältigen eines normalen Schwierigkeitsgrades verbraucht Raum-Zeit. Stabilisator, der täglich mit Diamanten aufgefüllt wird.
+Das Bewältigen eines normalen Schwierigkeitsgrades verbraucht Raum-Zeit. Stabilisator, der täglich mit Juwelen aufgefüllt wird.
 
 [MODE_HOWTOPLAY_3_DESCRIPTION]
 Im normalen Modus gilt: Je mehr Levelziele du auswählst, desto mehr Belohnungen erhältst du.
@@ -65653,7 +65654,7 @@ Die Eiszeit kehrt zurück – Tag 7
 
 [ACCOUNT_REMOVE_CONTENT_1]
 Liebe Spieler, ihr löscht euer Konto. Wenn ihr fortfahrt, hat dies folgende Folgen:
-1. Eure Diamanten, Goldmünzen, Pflanzen, Kostüme, Anhänger, Artefakte, Fragmente, Spielmarken in jedem Modus, Requisiten und andere Gegenstände werden gelöscht.
+1. Eure Juwelen, Goldmünzen, Pflanzen, Kostüme, Anhänger, Artefakte, Fragmente, Spielmarken in jedem Modus, Requisiten und andere Gegenstände werden gelöscht.
 2. Eure Spieldaten wie Weltlevel, Schwierigkeitsgrad, Penny Chase, Endlose Herausforderung, Super-Z-Liga, Raumzeit-Geheimreich, Pflanzenfamilie, Reise der Erinnerungen, Kreativer Garten usw. werden gelöscht.
 3. Eure Kontoinformationen werden gelöscht und können nicht wiederhergestellt werden.
 Solltet ihr einen Fehler machen, klickt bitte oben rechts auf „Schließen“. Eure Spieldaten bleiben dann erhalten.
@@ -66637,7 +66638,7 @@ Anleitung zur Saisonpause und Rangvererbung
 
 [NEW_PVP_DUAN_INFO_CONTENT]
 1. Jede Saison dauert 4 Wochen. Der letzte Tag der Saison ist ein Saisonpausentag, an dem keine Spiele ausgetragen werden können.
-2. Nach Saisonende werden Spieler im Kupfertopf-Rang nicht zurückgesetzt. Spieler im Silbertopf- und Goldtopf-Rang werden auf Silbertopf V herabgestuft. Spieler im Diamanttopf-, Meistertopf- und Großmeistertopf-Rang werden um 10 kleine Ränge herabgestuft. Die anfängliche Anzahl an Sternen nach der Rangrücksetzung beträgt 1. Mit Beginn der neuen Saison wird auch der Fortschritt der Saisonmission zurückgesetzt. Bitte holt euch die Belohnungen so schnell wie möglich ab.
+2. Nach Saisonende werden Spieler im Kupfertopf-Rang nicht zurückgesetzt. Spieler im Silbertopf- und Goldtopf-Rang werden auf Silbertopf V herabgestuft. Spieler im Juweltopf-, Meistertopf- und Großmeistertopf-Rang werden um 10 kleine Ränge herabgestuft. Die anfängliche Anzahl an Sternen nach der Rangrücksetzung beträgt 1. Mit Beginn der neuen Saison wird auch der Fortschritt der Saisonmission zurückgesetzt. Bitte holt euch die Belohnungen so schnell wie möglich ab.
 3. Die Belohnungen des Kupfertopf-Rangs werden im Verlauf der Saison nicht zurückgesetzt. Jeder Spieler kann die Kupfertopf-Rangbelohnung nur einmal einfordern. Die verbleibenden Rangbelohnungen werden mit der Saison zurückgesetzt und können wiederholt eingefordert werden. Nach 10 gespielten Matches in dieser Saison und Erreichen der entsprechenden Ranganforderungen kann die Rangbelohnung freigeschaltet und eingefordert werden.
 
 [NEW_PVP_MAX_DUAN_OF_THE_SEASON]
@@ -66653,7 +66654,7 @@ Silbertopf
 Goldtopf
 
 [NEW_PVP_DUAN_RANK_3]
-Diamanttopf
+Juweltopf
 
 [NEW_PVP_DUAN_RANK_4]
 Meistertopf
@@ -69976,7 +69977,7 @@ Wenn ein Zombie rechts neben der Avocado erscheint, feuert die Avocado einen Ker
 Es besteht eine 20%ige Chance, die Klammern der Avocado abzufeuern und so 50 % zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 225.
 
 [GUACODILE_NEW_SKILL_LEVEL3_DES]
-Es besteht eine 40%ige Chance, die Diamantspangen der Avocado zu schleudern und so 100 % zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 300.
+Es besteht eine 40%ige Chance, die Juwelspangen der Avocado zu schleudern und so 100 % zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 300.
 
 [GUACODILE_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt mit einem großen Move auszulösen! Der Aufladeschaden erhöht sich auf 375.
@@ -73612,12 +73613,12 @@ Beschreibung des Dave-Küchen-Events
 Big-Mac-Taco: (1) Energiesammelndes Mangostan-Fragment 30 % (2) Richtungsfragment 60 % (3) Fortgeschrittenes Buch 10 %
 Barbecue-Taco: (1) Artefakt-Segensgutschein 40 % (2) Richtungsfragment 30 % (3) Wasserkastanien-Brüder-Fragment 30 %
 Räucherfleisch-Taco: (1) Artefakt-Segensgutschein 40 % (2) Abgrundanemonen-Fragment 30 % (3) Orange Nährlösung 30 %
-Gemüse-Taco: (1) 100 Diamanten 40 % (2) Dornenfrucht-Meteorhammer-Fragment 40 % (3) Lila Nährlösung 20 %
-Schildkröte: (1) 30 Diamanten 40 % (2) Holografisches Nuss-Fragment 40 % (3) Blaue Nährlösung 20 %
-3. Die restlichen Zutaten können im Produktionsfenster gegen entsprechende Diamanten und Goldmünzen eingetauscht werden. Überschüssige Zutaten werden nicht für die nächste Periode übernommen. Bitte tauschen Sie sie so schnell wie möglich ein.
+Gemüse-Taco: (1) 100 Juwelen 40 % (2) Dornenfrucht-Meteorhammer-Fragment 40 % (3) Lila Nährlösung 20 %
+Schildkröte: (1) 30 Juwelen 40 % (2) Holografisches Nuss-Fragment 40 % (3) Blaue Nährlösung 20 %
+3. Die restlichen Zutaten können im Produktionsfenster gegen entsprechende Juwelen und Goldmünzen eingetauscht werden. Überschüssige Zutaten werden nicht für die nächste Periode übernommen. Bitte tauschen Sie sie so schnell wie möglich ein.
 
 [DAVEKITCHEN_SHORT_DESCRIPTION]
-Hilf Dave beim Zubereiten leckerer Tacos und erhalte Diamanten, Artefakt-Segenskarten, fortgeschrittene Bücher und andere Dankeschön-Geschenke.
+Hilf Dave beim Zubereiten leckerer Tacos und erhalte Juwelen, Artefakt-Segenskarten, fortgeschrittene Bücher und andere Dankeschön-Geschenke.
 
 [PLANT_FIGHTZODIAC_SHORT_DESCRIPTION]
 Tausche die Feuerwerkskörper, die du bei Dave erhältst, gegen Belohnungen ein und erhalte verschiedene Pflanzenfragmente!
@@ -73665,8 +73666,8 @@ Regeln für die Aktivität:
 3. Für jede Hilfe erhöht sich dein Hilfefortschritt um ein Level, und du erhältst die Belohnung des aktuellen Levels. Es besteht eine geringe Wahrscheinlichkeit, direkt eine Superbelohnung zu erhalten (die Wahrscheinlichkeit ist für jedes Level auf 10 % festgelegt. Wenn du das Kostüm bereits erhalten hast, gilt diese Regel nicht mehr). Wenn du Level 10 mit drei kumulierten Hilfen erreichst, erhältst du garantiert eine tolle Belohnung.
 4. Jedes Mal, wenn du hilfst, Level 10 zu erreichen, kannst du die selbstgewählten Belohnungen zurücksetzen. Ab Level 5 kannst du die Lotterie manuell zurücksetzen.
 5. Du kannst durch das Erfüllen begrenzter Aufgaben reichhaltige Belohnungen erhalten. Die dafür benötigten Kostüme erhältst du aus den selbstgewählten Belohnungen.
-6. Der Fortschritt und die Token dieses Events werden nicht auf den nächsten Zeitraum übertragen. Nach dem Event werden die verbleibenden Token im Verhältnis 1:10 in Diamanten umgewandelt.
-7. Wähle nach dem Event das entsprechende Token-Symbol im Rucksack aus und klicke auf die Schaltfläche „Requisitentausch“, um es in Diamanten umzuwandeln. Bitte tausche die Token rechtzeitig ein. Die verbleibenden Token dieses Zeitraums werden gelöscht, sobald die nächste Version des Events erscheint.
+6. Der Fortschritt und die Token dieses Events werden nicht auf den nächsten Zeitraum übertragen. Nach dem Event werden die verbleibenden Token im Verhältnis 1:10 in Juwelen umgewandelt.
+7. Wähle nach dem Event das entsprechende Token-Symbol im Rucksack aus und klicke auf die Schaltfläche „Requisitentausch“, um es in Juwelen umzuwandeln. Bitte tausche die Token rechtzeitig ein. Die verbleibenden Token dieses Zeitraums werden gelöscht, sobald die nächste Version des Events erscheint.
 
 Wahrscheinlichkeit der Parteiunterstützung:
 Unterstützungsstufe 1: Selbstgewähltes Kleid 1: 20 % Gen-Essenz * 2: 70 % Engelssternfruchtfragment * 10: 10 %
@@ -74206,7 +74207,7 @@ Habt ihr meine Lieblingstacos gesehen?
 Die kleine Zombie-Ruhmeshalle hat mir erzählt:
 
 [NEWYEAR_GIFTBOX_INDEX1_7]
-Letztes Jahr hast du insgesamt ^FF0000 {COUNT} ^oldclr-Diamanten verdient.
+Letztes Jahr hast du insgesamt ^FF0000 {COUNT} ^oldclr-Juwelen verdient.
 [NEWYEAR_GIFTBOX_INDEX1_8]
 ^FF0000 {COUNT} ^oldclr-Pflanzen gesammelt.
 [NEWYEAR_GIFTBOX_INDEX1_9]
@@ -74879,9 +74880,9 @@ Poseidon-Schatzkiste: 0,75 % des Hauptpreises
 Richtungsfragment*1: 5,10 %
 Richtungsfragment*2: 2,33 %
 Richtungsfragment*10: 1,05 %
-Diamant*888: 3,57 %
-Diamant*288: 15,03 %
-Diamant*150: 21,10 %
+Juwel*888: 3,57 %
+Juwel*288: 15,03 %
+Juwel*150: 21,10 %
 Weltraumwürfel*10: 1,01 %
 Weltraumwürfel*5: 1,42 %
 Weltraumwürfel*2: 2,31 %
@@ -74898,7 +74899,7 @@ Fortschrittsbuch: 14,05 %
 Universalfragmente*10: 14,93 %
 Meeresgott-Graspflanzenfragmente*20: 11,61 %
 Meeresgott-Graspflanzenfragmente*30: 7,74 %
-Diamanten*1888: 21,49 %
+Juwelen*1888: 21,49 %
 Meeresgott-Graspflanzenfragmente*40: 5,81 %
 
 [POSEIDON_DESCRIPTION]
@@ -74907,9 +74908,9 @@ Aktivitätsregeln:
 2. Für jeweils 100 Yuan gekaufter Poseidon-Geschenkpakete erhältst du einen Poseidon-Schatz, mit dem du eine Belohnung deiner Wahl einlösen kannst.
 3. Poseidon-Schätze stehen zur Auswahl: neue dynamische Avatare, neue Poseidon-Graskostüme, neue Match-Blumen-Boxerkostüme und Super-Maschinengewehr-Shooter. Fragmente * 10, Kürbisartefakte und andere Requisiten
 4. Bei jeder kumulierten Schatzziehung von 30 Malen könnt ihr einen Ultimativen Schatz erhalten, mit dem ihr zufällig eine Belohnung erhalten könnt.
-5. Der Ultimative Schatz kann zufällig ein Super-Maschinengewehr-Ganzkörperkostüm, Poseidon-Grasfragmente * 10, Universalfragmente, Diamanten und einen Gegenstand aus dem Fortgeschrittenenbuch enthalten.
+5. Der Ultimative Schatz kann zufällig ein Super-Maschinengewehr-Ganzkörperkostüm, Poseidon-Grasfragmente * 10, Universalfragmente, Juwelen und einen Gegenstand aus dem Fortgeschrittenenbuch enthalten.
 6. Der Ultimative Schatz wird zehnmal geöffnet, um ein Super-Maschinengewehr-Ganzkörperkostüm zu erhalten.
-7. Bei der ersten Einzelziehung des Tages gibt es 36 % Rabatt. Bitte nutzt die Event-Token rechtzeitig. Nach Ende des Events werden die verbleibenden Poseidon-Token im Verhältnis 1:30 in Diamanten umgewandelt, und die Poseidon-Schatzkiste und die Ultimative Schatzkiste werden im Verhältnis 1:500 in Diamanten umgewandelt.
+7. Bei der ersten Einzelziehung des Tages gibt es 36 % Rabatt. Bitte nutzt die Event-Token rechtzeitig. Nach Ende des Events werden die verbleibenden Poseidon-Token im Verhältnis 1:30 in Juwelen umgewandelt, und die Poseidon-Schatzkiste und die Ultimative Schatzkiste werden im Verhältnis 1:500 in Juwelen umgewandelt.
 
 [KELPGUARD]
 Seetang Wächter
@@ -75084,7 +75085,7 @@ Schritte erschöpft
 Anzahl der verbleibenden Schritte: {NUMBER}
 
 [NFSLINKAGE_TASK_NAME_1]
-Verbrauche {NUM} Diamanten
+Verbrauche {NUM} Juwelen
 
 [NFSLINKAGE_TASK_NAME_2]
 Sammle {NUM} Pflanzenfragmente
@@ -75113,12 +75114,12 @@ Beschreibung der Penny-Zukunftsgeschenkbox-Aktivität
 [PENNY_GIFT_DESCRIPTION]
 1. Klicke in der selbstgewählten Konfiguration links auf Pennys Avatar, um die Art der Zukunftsgeschenkbox auszuwählen. Wähle anschließend zufällig acht Geschenkboxen aus der gewählten Konfiguration aus, um diese Belohnungsrunde zu bilden (mindestens drei Belohnungskategorien auswählen).
 2. Spieler können Pennys Goldmünzen ausgeben, um Zukunftsgeschenkboxen zu kaufen und entsprechende Belohnungen zu erhalten. Beim Kauf von Zukunftsgeschenkboxen gewährt Penny Rabatte basierend auf der Anzahl der in der aktuellen Runde gekauften Geschenkboxen.
-3. Bei jedem Kauf einer Zukunftsgeschenkbox erhältst du zusätzlich zum festen Produktinhalt zusätzliche Wahrscheinlichkeitsauswertungen, weitere Preise und Diamanten und kannst Details durch Klicken auf das „?“ in der oberen rechten Ecke der Zukunftsgeschenkbox einsehen.
+3. Bei jedem Kauf einer Zukunftsgeschenkbox erhältst du zusätzlich zum festen Produktinhalt zusätzliche Wahrscheinlichkeitsauswertungen, weitere Preise und Juwelen und kannst Details durch Klicken auf das „?“ in der oberen rechten Ecke der Zukunftsgeschenkbox einsehen.
 4. Nach dem Kauf aller Artikel auf der Geschenkbox-Oberfläche werden die Belohnungskonfigurationen automatisch aktualisiert (ohne Aktualisierungszeiten zu benötigen).
 5. Durch den Kauf mehrerer Zukunftsgeschenkboxen kannst du persönliche Fortschrittsbelohnungen freischalten. Je mehr Token du Zukunftsgeschenkboxen kaufst, desto üppiger sind die Belohnungen.
 6. Kaufe Zukunftsgeschenkboxen, um Serverfortschritt zu sammeln und Serverfortschrittsbelohnungen freizuschalten. Du musst mindestens eine Zukunftsgeschenkbox kaufen, um Serverfortschrittsbelohnungen zu erhalten.
 7. Nachdem Spieler Pennys Goldmünzen für den Kauf von Pennys Zukunftsgeschenkbox ausgegeben haben, werden sie entsprechend dem Gesamtpreis der gekauften Geschenkbox in die Liste aufgenommen. Sobald sie auf der Liste stehen, erhalten sie beim Abschluss zusätzliche großzügige Belohnungen.
-8. Nach Ende des Events werden die nicht verbrauchten Penny-Münzen automatisch im Verhältnis 1:10 in entsprechende Diamantenbelohnungen umgewandelt und können erst im nächsten Zeitraum einbehalten werden.
+8. Nach Ende des Events werden die nicht verbrauchten Penny-Münzen automatisch im Verhältnis 1:10 in entsprechende Juwelenbelohnungen umgewandelt und können erst im nächsten Zeitraum einbehalten werden.
 9. Die Wahrscheinlichkeit für zusätzlichen Output in jeder Kategorie beträgt: ① Verstärkungsmaterialien: 33,33 % ② Pflanzen und Pflanzendekorationen: 10,00 %
 
 [PRODUCT_PENNYGIFTBOX_30_SHORTDESC]
@@ -75757,7 +75758,7 @@ Erreiche 15 Sterne in Deadlock Escape in Staffel 3.
 Aktivität beendet.
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_DIAMOND_TITLE]
-Diamant Akkumulation
+Juwel Akkumulation
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_G OTO_BUTTON]
 Preispool teilen
@@ -75781,16 +75782,16 @@ Wachstums-Geschenkpaket
 Erhältlich durch das Wachstums-Geschenkpaket
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_TIPS]
-Anleitung zum Teilen von Diamanten
-1. Die Der Basispreispool beträgt 200.000 Diamanten. Für jeden Spieler auf dem Server, der an der Event-Lotterie teilnimmt, erhöht sich der Preispool jedes Mal um 50 Diamanten.
-2. Bis zu 10 % der Diamantenbelohnungen können geteilt werden!
+Anleitung zum Teilen von Juwelen
+1. Die Der Basispreispool beträgt 200.000 Juwelen. Für jeden Spieler auf dem Server, der an der Event-Lotterie teilnimmt, erhöht sich der Preispool jedes Mal um 50 Juwelen.
+2. Bis zu 10 % der Juwelenbelohnungen können geteilt werden!
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_MAIN_TIPS]
 Event-Anleitung
-1. Kaufe ein Geschenkpaket, um Farmmünzen zu erhalten und Superpreise zu gewinnen, darunter Artefakte, viele Diamanten und andere Belohnungen!
+1. Kaufe ein Geschenkpaket, um Farmmünzen zu erhalten und Superpreise zu gewinnen, darunter Artefakte, viele Juwelen und andere Belohnungen!
 
 2. Du kannst bis zu 30 Mal deine eigenen Belohnungen und bis zu 90 Mal Supermais ziehen.
-3. Nach Ende des Events werden die Token proportional in Diamanten umgewandelt. Das Verhältnis beträgt 1:30 für Farmmünzen und 1:500 für Supermais.
+3. Nach Ende des Events werden die Token proportional in Juwelen umgewandelt. Das Verhältnis beträgt 1:30 für Farmmünzen und 1:500 für Supermais.
 
 4. Wenn zwei garantierte Mindestanforderungen gleichzeitig erfüllt sind, wird zuerst die selbst gewählte Belohnung gezogen. Die nächste Ziehung erhält definitiv die Supermais-Belohnung.
 
@@ -75829,11 +75830,11 @@ Belohnungswahrscheinlichkeit:
 Garantierte Belohnung:
 Selbstgewählte Belohnungen (1,88 %)
 Supermais (0,75 %)
-Diamanten-Sharing-Belohnungen:
-1 % Diamanten im Preispool (0,62 %)
-3 % Diamanten im Preispool (0,26 %)
-5 % Diamanten im Preispool (0,11 %)
-10 % Diamanten im Preispool (0,04 %)
+Juwelen-Sharing-Belohnungen:
+1 % Juwelen im Preispool (0,62 %)
+3 % Juwelen im Preispool (0,26 %)
+5 % Juwelen im Preispool (0,11 %)
+10 % Juwelen im Preispool (0,04 %)
 Weitere Belohnungen:
 Gen-Essenz*4 (12,50 %)
 Universal-Gen-Münze*60 (12,50 %)
@@ -76053,7 +76054,7 @@ Abgelaufene Belohnungen der Hochspannungszone
 [TOY_NIGHT_MAIN_TIPS_INFO]
 Eventregeln:
 
-1. Erhaltet Hochspannungsbatterien durch Kauf von Geschenkpaketen und verbraucht Hochspannungsbatterien, um während des Events Belohnungen zu erhalten. Hochspannungsbatterien und kritische Batterien können nicht auf das nächste Event übertragen werden. Nach Eventende werden sie automatisch im Verhältnis 1:10 und 1:1 in Diamanten umgewandelt.
+1. Erhaltet Hochspannungsbatterien durch Kauf von Geschenkpaketen und verbraucht Hochspannungsbatterien, um während des Events Belohnungen zu erhalten. Hochspannungsbatterien und kritische Batterien können nicht auf das nächste Event übertragen werden. Nach Eventende werden sie automatisch im Verhältnis 1:10 und 1:1 in Juwelen umgewandelt.
 
 2. Bei jeder Verlosung besteht die Chance, kritische Batterien oder andere Belohnungen zu erhalten. Der kleine Glückszombie hat die Chance, direkt das Mangostan-Superkleid zu gewinnen.
 
@@ -76908,7 +76909,7 @@ Lebenslang werbefreie Karte
 
 [AD_FREE_REWARD]
 Sie erhalten:
-300 Diamanten
+300 Juwelen
 Lebenslang werbefreie Vorteile
 
 [AD_FREE_DISCOUNT]
@@ -76964,23 +76965,23 @@ Vorschau des Preises:
 28. Tag des zwölften Mondmonats: ^ff0000^Universelle Fragmente^oldclr^*200
 29. Tag des zwölften Mondmonats: ^ff0000^Fortschrittsbuch^oldclr^*10
 1. Tag des ersten Mondmonats: ^ff0000^Zielfragmente^oldclr^*300
-2. Tag des ersten Mondmonats: ^ff0000^Diamanten^oldclr^*20250
+2. Tag des ersten Mondmonats: ^ff0000^Juwelen^oldclr^*20250
 Dritter Tag des ersten Mondmonats: ^ff0000^Zeitlich begrenzte Schatztrophäe^oldclr^*5
 Vierter Tag des ersten Mondmonats: ^ff0000^Universelle Fragmente^oldclr^*200
 Fünfter Tag des ersten Mondmonats: ^ff0000^Fortschrittliches Buch^oldclr^*10
 Sechster Tag des ersten Mondmonats: ^ff 0000^Richtungsfragmente^oldclr^*300
-Siebter Tag des ersten Mondmonats: ^ff0000^Diamanten^oldclr^*20250
+Siebter Tag des ersten Mondmonats: ^ff0000^Juwelen^oldclr^*20250
 Achter Tag des ersten Mondmonats: ^ff0000^Zeitlich begrenzte Schatztrophäe^oldclr^*5
 Neunter Tag des ersten Mondmonats: ^ff0000^Universelle Fragmente^oldclr^*200
 Der zehnte Tag des ersten Mondmonats: ^ff0000^Fortgeschrittenes Buch^oldclr^*10
 Der elfte Tag des ersten Mondmonats: ^ff0000^Richtungsfragmente^oldclr^*300
-Der zwölfte Tag des ersten Mondmonats: ^ff0000^Diamanten^oldclr^*20250
+Der zwölfte Tag des ersten Mondmonats: ^ff0000^Juwelen^oldclr^*20250
 
 [UINEWYEARREDPACKET_DES_REWARD_TITLE]
 Der Glückspilz-Preis
 
 [ACTIVITY_NEWYEARPACK_SHORT_DESCRIPTION]
-Öffne das Festpaket, um viele Diamanten und seltene Kostüme zu erhalten
+Öffne das Festpaket, um viele Juwelen und seltene Kostüme zu erhalten
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 Herzlichen Glückwunsch zur Wahl zum glücklichsten Spieler des Tages!
