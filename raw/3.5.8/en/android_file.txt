@@ -39788,69 +39788,73 @@ Die Scheiterranke speit wütendes Feuer, das eine Reihe durchdringt und Zombies 
 Die Scheiterranke speit wütendes Feuer. ^ff0000^ Das Feuer breitet sich kreuzförmig mit der Ranke im Zentrum aus^oldclr^ und fügt Zombies Schaden zu.
 
 [WATERRABBIT] 
-兔极
+Bun Chi
 
 [WATERRABBIT_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1格
-{KEYWORD}特点：{STAT}使用耳朵持续拍击僵尸，每轮攻击后兔极头上的紫花将会成长
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}     一种聪明的植物曾经说过……“在你的草坪上，用很小的力量就能取得巨大的成果！” 下雨的时候……会打雷……总之……速度是强大草坪防御的本质。” 这到底是什么意思？！
+{KEYWORD}Besonderheit: {STAT}Erreiche mit aufeinanderfolgenden Kettenangriffen maximal 5 Chi-Boni. Jeder Bonus verbessert deinen Schaden und die Rückschlagwirkung.
+{KEYWORD}Besonderheit: {STAT}Tippe bei Stufe 5 auf die leuchtende Blume, um einen verheerenden Donnerschlag-Angriff zu entfesseln.
+{KEYWORD}Reichweite: {STAT} 1 Gitter vorn
+{KEYWORD}Funktionen: {STAT} Benutze deine Ohren, um Zombies kontinuierlich zu schlagen. Nach jeder Angriffsrunde wächst die lila Blume auf dem Kopf des Kaninchens.
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+
+{FLAVOR}Eine weise Pflanze sagte einmal: „Schon kleine Anstrengungen auf dem Rasen können große Ergebnisse zeitigen! Wenn es regnet, dann ... donnert es ... und irgendwas von wegen ... Flinkheit ist die beste Verteidigung.“ Was soll das überhaupt heißen?
 
 [WATERRABBIT_DESCRIPTION_HEADER]
-使用耳朵持续拍击僵尸，每轮攻击后兔极头上的紫花将会成长
+Bun Chi verkettet fünf schnelle Schläge zu einem Angriff. Nach jeder Kette erhöht sich der Chi-Bonus und damit der Schaden – und das bis zu fünf Mal. Auf der letzten Stufe kannst du Bun Chi antippen, um den Donnerschlag-Angriff zu entfesseln.
 
 [WATERRABBIT_TOOLTIP]
-使用耳朵持续拍击僵尸，每轮攻击后兔极头上的紫花将会成长
+Bun Chi erhöht mit jedem nachfolgenden Kettenangriff die Schadenswirkung!
 
 [WATERRABBIT_PRODUCT_SHORT_DESC]
-使用耳朵持续拍击僵尸，每轮攻击后兔极头上的紫花将会成长
+Bun Chi erhöht mit jedem nachfolgenden Kettenangriff die Schadenswirkung!
+
 [WATERRABBIT_SKILL_LEVEL1]
-连环巴掌
+Ohrfeigen
 
 [WATERRABBIT_SKILL_LEVEL1_DES]
-兔极的普通攻击由单体变为群体，上限为3个僵尸
+Bun Chi's normaler Angriff wechselt von Einzelangriff zu Gruppenangriff mit maximal 3 Zombies.
 
 [WATERRABBIT_SKILL_LEVEL2]
-耳朵拍拍
+Ohrklopfen
 
 [WATERRABBIT_SKILL_LEVEL2_DES]
-兔极的普通攻击目标数量上限增加到5个僵尸，攻击范围增加1格。
+Bun Chi's normale Angriffsziele sind auf 5 Zombies begrenzt, und die Angriffsreichweite erhöht sich um ein Raster.
 
 [WATERRABBIT_SKILL_LEVEL5]
-界限突破
+Grenzdurchbruch
 
 [WATERRABBIT_SKILL_LEVEL5_DES]
-兔极头上的紫花可以进化成黄花，处于黄花状态时，手动重击额外附加击退效果。当兔极未处于攻击状态时，每经过6秒，紫花将成长1个阶段。
+Die violette Blume auf Kaninchens Kopf kann sich zu einer gelben Blume entwickeln. Im Zustand der gelben Blume verursacht ein manueller schwerer Angriff einen zusätzlichen Rückstoßeffekt. Wenn Kaninchen nicht im Angriffszustand ist, wächst die violette Blume alle 6 Sekunden um eine Stufe.
 
 [STORE_PRODUCT_AVATAR_WATERRABBIT_TITLE]
-兔极装扮
+Bun Chi Kleid
 
 [WATERRABBIT_AVATAR_NAME]
-兔极装扮
+Bun Chi Kleid
 
 [STORE_PRODUCT_AVATAR_WATERRABBIT]
-释放大招后再次跃起对3*3范围内的僵尸造成伤害并使僵尸的啃食伤害降低80%，持续18秒
+Nach dem großen Angriff springst du erneut hoch, um Zombies im Umkreis von 3*3 Schaden zuzufügen und ihren Nagschaden 18 Sekunden lang um 80 % zu reduzieren.
 
 [WATERRABBIT_NEW_SKILL_LEVEL1_DES]
-兔极每轮攻击共造成5段伤害，最后一击伤害翻倍并击退攻击的僵尸。1轮攻击结束，兔极头上长出紫花，紫花在每轮攻击后成长，每层紫花使兔极的攻击力额外增加20%，当紫花成熟后，手动点击兔极释放重击，对3*3范围内的僵尸造成伤害，并使僵尸啃食伤害降低80%，持续18秒，随后紫花消失。存在紫花时，普攻的击退效果提升。
+Bun Chi verursacht in jeder Angriffsrunde 5 Schaden. Der letzte Angriff verdoppelt den Schaden und stößt die angreifenden Zombies zurück. Nach einer Angriffsrunde wachsen lila Blüten auf Rabbit Jis Kopf. Die lila Blüten wachsen nach jeder Angriffsrunde. Jede Schicht lila Blüten erhöht Rabbit Jis Angriffskraft um weitere 20 %. Wenn die violetten Blüten reif sind, klicke manuell auf Rabbit Ji, um einen schweren Angriff auszuführen. Dieser verursacht Schaden an Zombies im Umkreis von 3 x 3 und reduziert den Nageschaden der Zombies 18 Sekunden lang um 80 %. Anschließend verschwinden die violetten Blüten. Wenn violette Blüten vorhanden sind, wird der Rückstoßeffekt normaler Angriffe verbessert.
 
 [WATERRABBIT_NEW_SKILL_LEVEL2_DES]
-兔极的普通攻击由单体变为群体，上限为3个僵尸
+Bun Chi's normaler Angriff ändert sich von Einzelangriff auf Gruppenangriff mit maximal 3 Zombies.
 
 [WATERRABBIT_NEW_SKILL_LEVEL3_DES]
-兔极的普通攻击目标数量上限增加到5个僵尸，攻击范围增加1格
+Bun Chi's normale Angriffsziele sind auf 5 Zombies begrenzt, und die Angriffsreichweite erhöht sich um 1 Raster.
 
 [WATERRABBIT_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohne direkt auszulösen!
 
 [WATERRABBIT_NEW_SKILL_LEVEL5_DES]
-紫花在成熟之后，可以通过再1轮的攻击进化为黄花。紫花成熟以及进化为黄花时都可手动点击释放重击，黄花释放的重击额外附加将僵尸击退1.5格的效果。当紫花未进化成黄花前，若兔极未处于攻击状态时，每经过6秒，紫花将成长1个阶段。
+Nachdem die violette Blume gereift ist, kann sie sich durch eine weitere Angriffsrunde zu einer gelben Blume entwickeln. Sobald die violette Blume gereift ist und sich zu einer gelben Blume entwickelt hat, kannst du manuell klicken, um den schweren Angriff auszulösen. Der schwere Angriff der gelben Blume stößt Zombies zusätzlich 1,5 Felder weit zurück. Bevor sich die violette Blume zu einer gelben Blume entwickelt, wächst die violette Blume alle 6 Sekunden um eine Stufe, sofern sich Rabbit nicht im Angriffszustand befindet.
 
 [WATERRABBIT_PLANTFOOD_DESCRIPTION]
-兔极对前方3*3范围内的僵尸连续造成2次伤害，最后1次伤害击退范围内的僵尸1.5格
+Bun Chi fügt Zombies im Umkreis von 3*3 vor ihm 2 aufeinanderfolgende Schadenspunkte zu. Der letzte Schaden stößt Zombies in Reichweite um 1,5 Felder zurück.
 
 [WATERRABBIT_AVATAR_PLANTFOOD_DESCRIPTION]
-兔极对前方3*3范围内的僵尸连续造成2次伤害后，^ff0000^再次跃起对3*3范围内僵尸造成伤害并使僵尸的啃食伤害降低80%，持续18秒^oldclr^，最后1次伤害击退范围内的僵尸1.5格
+Nachdem Bun Chi Zombies im 3*3-Bereich vor ihm zwei aufeinanderfolgende Schadenspunkte zugefügt hat, springt ^ff0000^ erneut hoch, um Zombies im 3*3-Bereich Schaden zuzufügen und den Nagschaden der Zombies 18 Sekunden lang um 80 % zu reduzieren. ^oldclr^ Der letzte Schaden stößt Zombies in Reichweite um 1,5 Felder zurück.
 
 [GLUTTONYDRAGON]
 贪吃龙草
@@ -40184,137 +40188,137 @@ Die Blattlose Riemenblume lässt eine große Blume erblühen, die von fünf Vög
 Die Anzahl der durch die große Spezialdünger-Fähigkeit angelockten Vögel erhöht sich auf sechs.
 
 [CHAINSAWBURMANNII]
-锯齿锦地罗
+Chainsaw Burmannii
 
 [CHAINSAWBURMANNII_DESCRIPTION]
-{KEYWORD}范围：{STAT}周围一圈
-{KEYWORD}特点：{STAT}甩出回旋镖围绕自身旋转并攻击周围僵尸
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}锯齿锦地罗从小擅长圆周运动，他天真的认为这有助于成为一名物理学天才。但事实上长大后的他靠这项天赋蝉联了数次悠悠球世界冠军。
+{KEYWORD}Reichweite: {STAT}Ein Kreis
+{KEYWORD}Eigenschaften: {STAT}Wirft einen Bumerang, der sich um sich selbst dreht und umstehende Zombies angreift
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{FLAVOR}Chainsaw Burmannii war seit seiner Kindheit gut in Kreisbewegungen und dachte naiverweise, dass ihn das zu einem Physikgenie machen würde. Doch als Erwachsener nutzte er dieses Talent und gewann mehrere Jo-Jo-Weltmeisterschaften.
 
 [CHAINSAWBURMANNII_DESCRIPTION_HEADER]
-甩出回旋镖围绕自身旋转并持续攻击周围僵尸
+Wirft einen Bumerang um sich und greift die umstehenden Zombies kontinuierlich an.
 
 [CHAINSAWBURMANNII_TOOLTIP]
-甩出回旋镖围绕自身旋转并持续攻击周围僵尸
+Wirft einen Bumerang um sich und greift die umstehenden Zombies kontinuierlich an.
 
 [CHAINSAWBURMANNII_PRODUCT_SHORT_DESC]
-甩出回旋镖围绕自身旋转并持续攻击周围僵尸
+Wirft einen Bumerang um sich und greift die umstehenden Zombies kontinuierlich an.
 
-[CHAINSAWBURMANNII_SKILL_LEVEL1]
-火焰增幅
+[CHAINSAWBURMANNII_SK ILL_LEVEL1]
+Flammenverstärkung
 
 [CHAINSAWBURMANNII_SKILL_LEVEL1_DES]
-3枚回旋镖中有1枚变成蓝色火焰，伤害2倍，休息时间缩短2.5秒
+1 von 3 Bumerangs verwandelt sich in blaue Flammen. Schaden verdoppelt sich, Ruhezeit um 2,5 Sekunden verkürzt.
 
 [CHAINSAWBURMANNII_SKILL_LEVEL2]
-炽热之火
+Sengendes Feuer
 
 [CHAINSAWBURMANNII_SKILL_LEVEL2_DES]
-3枚回旋镖中有2枚变成蓝色火焰，伤害2倍，休息时间再缩短2.5秒
+2 von 3 Bumerangs verwandelt sich in blaue Flammen. Schaden verdoppelt sich, Ruhezeit um weitere 2,5 Sekunden verkürzt
 
 [CHAINSAWBURMANNII_SKILL_LEVEL5]
-备用武装
+Ersatzwaffen
 
 [CHAINSAWBURMANNII_SKILL_LEVEL5_DES]
-2枚蓝色火焰回旋镖中有1枚变成紫色火焰，伤害3倍,并且攻击范围扩大为周围5×5，每次攻击丢出6枚回旋镖
+Einer der beiden blauen Flammenbumerangs verwandelt sich in eine violette Flamme. Der Schaden wird verdreifacht, die Angriffsreichweite auf 5×5 erweitert und jedes Mal werden 6 Bumerangs geworfen.
 
 [STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII_TITLE]
-锯齿锦地罗装扮
+Sägezahn-Jindi-Luo-Kostüm
 
-[CHAINSAWBURMANNII_AVATAR_NAME]
-锯齿锦地罗装扮
+[CHA INSAWBURMANNII_AVATAR_NAME]
+Kettensägen-Burmanni-Kostüm
 
 [STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII]
-回旋镖发射时有概率变为更大的回旋镖，造成双倍的伤害
+Beim Abschuss eines Bumerangs besteht die Chance, dass er größer wird und doppelten Schaden verursacht.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL1_DES]
-当周围3×3范围内有僵尸时，甩出3枚回旋镖，穿透所有僵尸，每枚回旋镖每次撞击僵尸造成火属性伤害。回旋镖会围绕自身持续旋转，持续公转一段时间后返回。返回后植物进入休息状态，5秒后恢复。
+Wenn sich Zombies im Umkreis von 3×3 befinden, Drei Bumerangs werden abgefeuert und durchdringen alle Zombies. Jeder Bumerang verursacht bei jedem Treffer Feuerschaden. Der Bumerang dreht sich weiter um sich selbst und kehrt nach einer gewissen Zeit der kontinuierlichen Rotation zurück. Nach der Rückkehr verharrt die Pflanze in einem Ruhezustand und erholt sich nach 5 Sekunden.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL2_DES]
-3枚回旋镖中有1枚变成蓝色火焰，伤害2倍，休息时间缩短2.5秒
+1 von 3 Bumerangs verwandelt sich in blaue Flammen. Schaden verdoppelt sich, Ruhezeit verkürzt sich um 2,5 Sekunden.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL3_DES]
-3枚回旋镖中有2枚变成蓝色火焰，伤害2倍，休息时间再缩短2.5秒
+2 von 3 Bumerangs verwandelt sich in blaue Flammen. Schaden verdoppelt sich, Ruhezeit verkürzt sich um weitere 2,5 Sekunden.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen. (Große Aktion!)
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL5_DES]
-2枚蓝色火焰回旋镖中有1枚变成紫色火焰，伤害3倍,并且攻击范围扩大为周围5×5，每次攻击丢出6枚回旋镖
+Einer der beiden blauen Flammenbumerangs verwandelt sich in eine violette Flamme, verdreifacht den Schaden und erweitert die Angriffsreichweite auf 5×5, sodass jedes Mal sechs Bumerangs geschleudert werden.
 
 [CHAINSAWBURMANNII_PLANTFOOD_DESCRIPTION]
-植物一边旋转一边向外不断发射回旋镖，回旋镖的火焰颜色会随阶级上升而改变
+Die Pflanze dreht sich und schleudert kontinuierlich Bumerangs. Die Flammenfarbe des Bumerangs ändert sich mit steigendem Level.
 
 [CHAINSAWBURMANNII_AVATAR_PLANTFOOD_DESCRIPTION]
-回旋镖发射时有概率变为更大的回旋镖，造成双倍的伤害
+Beim Abfeuern eines Bumerangs besteht die Chance, dass er sich in einen größeren Bumerang verwandelt und doppelten Schaden verursacht.
 
 [WIREGELSEMIUM]
-电击钩吻
+Elektrisches Gelsemium
 
 [WIREGELSEMIUM_DESCRIPTION]
-{KEYWORD}用法：{STAT} 点击或点住钩吻，拖动到目标上
-{KEYWORD}范围：{STAT}草坪全范围
-{KEYWORD}特点：{STAT}影响范围造成电属性伤害
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}电击钩吻体内有一半植拉夫血统，也许这就是它放弃下毒而转修电学的原因
+{KEYWORD}Anwendung: {STAT}Gelsemium anklicken oder gedrückt halten und zum Ziel ziehen.
+{KEYWORD}Reichweite: {STAT}Der gesamte Rasen.
+{KEYWORD}Eigenschaften: {STAT}Beeinflusst die Reichweite und verursacht elektrischen Schaden.
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen.
+{FLAVOR}Das Elektrisches Gelsemium hat die Hälfte seiner Phytohora-Blutlinie. Vielleicht hat es deshalb die Giftwirkung aufgegeben und sich der Elektrotechnik zugewandt.
 
 [WIREGELSEMIUM_DESCRIPTION_HEADER]
-电击钩吻可以发射雷针到草坪任意格子上
+Elektrisches Gelsemium kann Blitzableiter zu jedem beliebigen Gitter auf dem Rasen abfeuern.
 
 [WIREGELSEMIUM_TOOLTIP]
-点击钩吻，然后点一个格子，就会发射雷针
+Klicke auf Gelsemium und dann auf ein Gitter, um einen Blitzableiter abzufeuern.
 
 [WIREGELSEMIUM_PRODUCT_SHORT_DESC]
-钩吻可以手动瞄准指定目标。
+Gelsemium kann manuell zielen. auf ein von dir bestimmtes Ziel
 
 [WIREGELSEMIUM_SKILL_LEVEL1]
-快速通电
+Schnelles Einschalten
 
 [WIREGELSEMIUM_SKILL_LEVEL1_DES]
-攻击间隔减少0.25，伤害倍增上限增加1倍
+Angriffsintervall um 0,25 reduziert, Schadensmultiplikator-Obergrenze um das 1-fache erhöht
 
 [WIREGELSEMIUM_SKILL_LEVEL2]
-超导增幅
+Supraleitungsverstärkung
 
 [WIREGELSEMIUM_SKILL_LEVEL2_DES]
-攻击间隔减少0.5，伤害倍增上限增加2倍
+Angriffsintervall um 0,5 reduziert, Schadensmultiplikator-Obergrenze um das 2-fache erhöht
 
 [WIREGELSEMIUM_SKILL_LEVEL5]
-电能转化
+Elektrische Energieumwandlung
 
 [WIREGELSEMIUM_SKILL_LEVEL5_DES]
-电线的终点可以以其他电系植物为目标，以其他电系植物为目标时，会根据当前电线的强度，增强目标植物的攻击力
+Das Ende des Drahtes kann andere Kraftwerke angreifen. Beim Anvisieren anderer elektrischer Anlagen erhöht sich deren Angriffskraft entsprechend der Stromstärke des Drahtes.
 
 [WIREGELSEMIUM_AVATAR_NAME]
-电击钩吻装扮
+Elektrisches Gelsemium-Kostüm
 
 [STORE_PRODUCT_AVATAR_WIREGELSEMIUM]
-大招伤害增强50%。
+Ultimativer Schaden um 50 % erhöht.
 
 [STORE_PRODUCT_AVATAR_WIREGELSEMIUM_TITLE]
-电击钩吻装扮
+Elektrisches Gelsemium-Kostüm
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL1_DES]
-点击电击钩吻后获得准星，再点击场内任意一格，电击钩吻会发射雷针，持续对碰到电线和落点3×3范围内的僵尸造成伤害，雷针如果连接到其他钩吻上则会强化其伤害
+Klicke auf das elektrische Gelsemium, um das Fadenkreuz zu erhalten. Klicke dann auf ein beliebiges Gitter im Feld. Das elektrische Gelsemium feuert Blitzableiter ab, die Zombies im Umkreis von 3×3 um den Draht und den Landepunkt kontinuierlich Schaden zufügen. Wenn die Blitzableiter mit anderem Gelsemium verbunden sind, erhöht sich ihr Schaden.
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL2_DES]
-攻击间隔减少0.25，伤害倍增上限增加1倍
+Das Angriffsintervall wird um 0,25 reduziert und der Schadensmultiplikator um das 1-fache erhöht.
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL3_DES]
-攻击间隔减少0.5，伤害倍增上限增加2倍
+Das Angriffsintervall wird um 0,5 reduziert und der Schadensmultiplikator um das 2-fache erhöht.
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Platzieren besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL5_DES]
-电线的终点可以以其他电系植物为目标，以其他电系植物为目标时，会根据当前电线的强度，增强目标植物的攻击力
+Das Ende des Drahtes kann andere elektrische Anlagen anvisieren. Beim Anvisieren anderer elektrischer Anlagen wird die Angriffskraft der Zielanlage entsprechend der Stärke des aktuellen Drahtes erhöht.
 
 [WIREGELSEMIUM_PLANTFOOD_DESCRIPTION]
-向全屏发射电线，对全屏僵尸造成1次伤害
+Schießt Drähte über den gesamten Bildschirm und fügt Zombies auf dem gesamten Bildschirm 1 Schaden zu.
 
 [WIREGELSEMIUM_AVATAR_PLANTFOOD_DESCRIPTION]
-大招伤害增强50%
+Der Schaden der Spezialdünger Fertigkeit wird um 50 % erhöht.
 
 [DRAGONBRUIT]
 暴君火龙果
