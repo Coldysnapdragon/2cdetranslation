@@ -3862,7 +3862,7 @@ Gefahrenzentrale！
 {PLAYER}s Reise in die Ferne Zukunft！
 
 [PLAYERS_TRIP_TO_PIRATE_SHIP]
-{PLAYER}s Reiss in die Piratensee！
+{PLAYER}s Reise in die Piratensee！
 
 [PLAYERS_TRIP_TO_WEST]
 {PLAYER}s Reise in den Wilden Westen!
@@ -8058,676 +8058,678 @@ Während er wächst, setzt er verschiedene Feuerzauber frei, um Zombies vor ihm 
 Schießt mächtige Pfeile ab, um Zombies vor ihnen anzugreifen.
 
 [BONUS_GOLD_1]
-金币
+Gold
 
 [BONUS_GOLD_1_DESCRIPTION]
-获得10000个金币
+Erhalte 10.000 Gold
 
 [BONUS_GOLD_2]
-金币
+Gold
 
 [BONUS_GOLD_2_DESCRIPTION]
-获得20000个金币
+Erhalte 20.000 Gold
 
 [BONUS_GOLD_3]
-金币
+Gold
 
 [BONUS_GOLD_3_DESCRIPTION]
-获得30000个金币
+Erhalte 30.000 Gold
 
 [BONUS_GOLD_4]
-金币
+Gold
 
 [BONUS_GOLD_4_DESCRIPTION]
-获得20000个金币
+Erhalte 20.000 Gold
 
 [BONUS_GOLD_5]
-金币
+Gold
 
 [BONUS_GOLD_5_DESCRIPTION]
-获得30000个金币
+Erhalte 30.000 Goldmünzen
 
 [BONUS_GOLD_6]
-金币
+Goldmünzen
 
 [BONUS_GOLD_6_DESCRIPTION]
-获得50000个金币
+Erhalte 50.000 Goldmünzen
 
 [BONUS_GOLD_7]
-金币
+Goldmünzen
 
 [BONUS_GOLD_7_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_8]
-金币
+Goldmünzen
 
 [BONUS_GOLD_8_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_9]
-金币
+Goldmünzen
 
 [BONUS_GOLD_9_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_10]
-金币
+Goldmünzen
 
 [BONUS_GOLD_10_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_11]
-金币
+Goldmünzen
 
 [BONUS_GOLD_11_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_12]
-金币
+Gold Münzen
 
 [BONUS_GOLD_12_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_13]
-金币
+Goldmünzen
 
 [BONUS_GOLD_13_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_14]
-金币
+Goldmünzen
 
 [BONUS_GOLD_14_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_15]
-金币
+Goldmünzen
 
 [BONUS_GOLD_15_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_16]
-金币
+Goldmünzen
 
 [BONUS_GOLD_16_DESCRIPTION]
-获得50000个金币
+50.000 Goldmünzen erhalten
 
 [BONUS_GOLD_17]
-金币
+Gold Münzen
 
 [BONUS_GOLD_17_DESCRIPTION]
-获得50000个金币
+Erhalte 50.000 Goldmünzen
 
 [BONUS_GOLD_18]
-金币
+Goldmünzen
 
 [BONUS_GOLD_18_DESCRIPTION]
-获得50000个金币
+Erhalte 50.000 Goldmünzen
 
 [BONUS_DIAMOND_1]
-钻石
+Diamant
 
 [BONUS_DIAMOND_1_DESCRIPTION]
-获得18颗钻石
- 
+18 Diamanten erhalten
+
 [BONUS_DIAMOND_2]
-钻石
+Diamanten
 
 [BONUS_DIAMOND_2_DESCRIPTION]
-获得38颗钻石
- 
+38 Diamanten erhalten
+
 [BONUS_DIAMOND_3]
-钻石
+Diamanten
 
 [BONUS_DIAMOND_3_DESCRIPTION]
-获得58颗钻石
- 
+58 Diamanten erhalten
+
 [BONUS_DIAMOND_4]
-钻石
+Diamanten
 
 [BONUS_DIAMOND_4_DESCRIPTION]
-获得38颗钻石
+38 Diamanten erhalten
 
 [BONUS_CARD_GOLD_250]
-100金币
+100 Goldmünzen
 
 [BONUS_CARD_GOLD_250_DESCRIPTION]
-获得100个金币
+100 Goldmünzen erhalten
 
 [BONUS_CARD_GOLD_500]
-500金币
+500 Gold Münzen
 
 [BONUS_CARD_GOLD_500_DESCRIPTION]
-获得500个金币
+500 Goldmünzen erhalten
 
 [BONUS_CARD_GOLD_1000]
-1000金币
+1000 Goldmünzen
 
 [BONUS_CARD_GOLD_1000_DESCRIPTION]
-获得1000个金币
+1000 Goldmünzen erhalten
 
 [BONUS_CARD_GOLD_5000]
-5000金币
+5000 Goldmünzen
 
 [BONUS_CARD_GOLD_5000_DESCRIPTION]
-获得5000个金币
+5000 Goldmünzen erhalten
 
 [BONUS_CARD_DIAMOND_5]
-5颗钻石
+5 Diamanten
 
 [BONUS_CARD_DIAMOND_5_DESCRIPTION]
-获得5颗钻石
+5 Diamanten erhalten
 
 [BONUS_CARD_DIAMOND_10]
-10颗钻石
+10 Diamanten erhalten
 
 [BONUS_CARD_DIAMOND_10_DESCRIPTION]
-获得10颗钻石
+10 Diamanten
 
 [BONUS_CARD_DIAMOND_50]
-50颗钻石
+50 Diamanten erhalten
 
 [BONUS_CARD_DIAMOND_50_DESCRIPTION]
-获得50颗钻石
+50 Diamanten erhalten
 
 [BONUS_MAGIC_FERTILIZER]
-挂件
+Anhänger
 
 [BONUS_MAGIC_FERTILIZER_DESCRIPTION]
-普通肥料
+Gewöhnlicher Dünger
 
 [BONUS_MAGIC_DRUM]
-挂件
+Anhänger
 
 [BONUS_MAGIC_DRUM_DESCRIPTION]
-普通铁桶
+Gewöhnlicher Eiseneimer
 
 [BONUS_MAGIC_SNOWFLAKE]
-挂件
+Anhänger
 
 [BONUS_MAGIC_SNOWFLAKE_DESCRIPTION]
-普通雪花挂坠
+Gewöhnliche Schneeflocke Anhänger
 
 [BONUS_MAGIC_FERTILIZER_2]
-挂件
+Anhänger
 
 [BONUS_MAGIC_FERTILIZER_DESCRIPTION_2]
-普通肥料
+Gewöhnlicher Dünger
 
 [BONUS_MAGIC_TORCH]
-挂件
+Anhänger
 
 [BONUS_MAGIC_TORCH_DESCRIPTION]
-普通火把
+Gewöhnliche Fackel
 
 [BONUS_MAGIC_REGENERATION]
-挂件
+Anhänger
 
 [BONUS_MAGIC_REGENERATION_DESCRIPTION]
-普通医药箱
+Gewöhnlicher Erste-Hilfe-Kasten
 
 [BONUS_MAGIC_POLE]
-挂件
+Anhänger
 
 [BONUS_MAGIC_POLE_DESCRIPTION]
-普通电线杆
+Gewöhnlicher Strommast
 
 [BONUS_CARD_GARCHA_GIFT]
-抽奖好礼
+Gewinnspiel-Geschenk
 
 [BONUS_CARD_KEY_EGYPT]
-埃及关卡钥匙
+Schlüssel für Ägypten
 
 [BONUS_CARD_KEY_EGYPT_DESCRIPTION]
-获得埃及关卡钥匙一枚
+Schlüssel für Ägypten erhalten
 
 [BONUS_CARD_KEY_PIRATE]
-海盗关卡钥匙
+Schlüssel für Piraten
 
 [BONUS_CARD_KEY_PIRATE_DESCRIPTION]
-获得海盗关卡钥匙一枚
+Schlüssel für Piraten erhalten
 
 [BONUS_CARD_KEY_COWBOY]
-西部关卡钥匙
+Schlüssel für Western
 
 [BONUS_CARD_KEY_COWBOY_DESCRIPTION]
-获得西部关卡钥匙一枚
+Schlüssel für Western erhalten Level
 
 [BONUS_CARD_KEY_KONGFU]
-功夫世界钥匙
+Schlüssel zur Kung-Fu-Welt
 
 [BONUS_CARD_KEY_KONGFU_DESCRIPTION]
-获得功夫世界钥匙一枚
+Holen Sie sich einen Schlüssel zur Kung-Fu-Welt.
 
 [BONUS_CARD_KEY_DARK]
-黑暗时代钥匙
+Schlüssel zum Dunklen Zeitalter
 
 [BONUS_CARD_KEY_DARK_DESCRIPTION]
-获得黑暗时代钥匙一枚
+Holen Sie sich einen Schlüssel zum Dunklen Zeitalter.
 
 [BONUS_CARD_KEY_BEACH]
-巨浪沙滩钥匙
+Schlüssel zum Big Wave Beach
 
 [BONUS_CARD_KEY_BEACH_DESCRIPTION]
-获得巨浪沙滩钥匙一枚
+Holen Sie sich einen Schlüssel zum Big Wave Beach.
 
 [UPGRADE_6_SLOTS]
-可使用植物+1
+Kann Pflanzen nutzen +1
 
 [UPGRADE_6_SLOTS_INFO]
-额外得到一个卡槽，可多使用一棵植物。
+Holen Sie sich einen zusätzlichen Kartenplatz, der Ihnen erlaubt, eine weitere Pflanze zu nutzen.
 
 [UPGRADE_7_SLOTS_INFO]
-额外得到一个卡槽，可多使用一棵植物。
+Holen Sie sich einen zusätzlichen Kartenplatz und nutzen Sie eine weitere Pflanze.
 
 [UPGRADE_8_SLOTS_INFO]
-额外得到一个卡槽，可多使用一棵植物。
+Holen Sie sich einen zusätzlichen Steckplatz und nutzen Sie eine weitere Pflanze.
 
 [UPGRADE_SHOVEL_1_INFO]
-把铲子升级成为阳光铲，当铲掉植物后，可以回收更多阳光。
+Verbessern Sie die Schaufel zu einer Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
 
 [UPGRADE_SHOVEL_2_INFO]
-升级阳光铲，当铲掉植物后，可以回收更多阳光。
+Verbessern Sie die Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
 
 [UPGRADE_SHOVEL_3_INFO]
-升级阳光铲，当铲掉植物后，可以回收更多阳光。
+Verbessern Sie die Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
 
 [UPGRADE_SHOVEL_4_INFO]
-升级阳光铲，当铲掉植物后，可以回收更多阳光。
+Verbessern Sie die Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_1]
-升级能量豆
+Energiebohnen aufwerten
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_1_INFO]
-增加一个能量豆卡槽。
+Fügen Sie einen Energiebohnen-Kartensteckplatz hinzu.
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_2]
-升级能量豆
+Energiebohnen aufwerten
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_2_INFO]
-增加一个能量豆卡槽。
+Fügt einen Energiebohnen-Kartenplatz hinzu.
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_3]
-升级能量豆
+Energiebohnen aufwerten
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_3_INFO]
-增加一个能量豆卡槽。
+Fügt einen Energiebohnen-Kartenplatz hinzu.
 
 [UPGRADE_STARTING_SUN_1_INFO]
-在关卡开始能携带更多阳光。
- 
+Kann zu Beginn eines Levels mehr Sonne tragen.
+
 [UPGRADE_STARTING_SUN_2_INFO]
-在关卡开始能携带更多阳光。
+Kann zu Beginn eines Levels mehr Sonne tragen.
 
 [UPGRADE_STARTING_SUN_3_INFO]
-在关卡开始能携带更多阳光。
+Kann zu Beginn eines Levels mehr Sonnenlicht tragen.
 
 [UPGRADE_STARTING_SUN_4_INFO]
-在关卡开始能携带更多阳光。
+Kann zu Beginn eines Levels mehr Sonnenlicht tragen.
 
 [OBTAIN_MOWER]
-获得小推车
+Hol dir eine Karre
 
 [UPGRADE_MOWER]
-简单模式小推车
+Karre im einfachen Modus
 
 [UPGRADE_MOWER_1_INFO]
-得到神秘埃及简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Hol dir die einfache Karre „Mystisches Ägypten“, die einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_2_INFO]
-得到海盗港湾简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Hol dir die einfache Karre „Pirate Bay“, die einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_3_INFO]
-得到狂野西部简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Hol dir die einfache Karre „Wilder Westen“, die einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_8_INFO]
-得到冰河世界简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Hol dir die einfache Karre „Eiswelt“, die einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_10_INFO]
-得到失落之城简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Hol dir die einfache Karre „Verlorene Stadt“, die einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_11_INFO]
-得到摇滚年代简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Holt euch den einfachen Wagen des Felsens der Zeit, der einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_12_INFO]
-得到恐龙危机简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Holt euch den einfachen Wagen der Dinokrise, der einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_13_INFO]
-得到摩登世界简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Holt euch den einfachen Wagen der modernen Welt, der einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_14_INFO]
-得到蒸汽时代简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Holt euch den einfachen Wagen des Dampfzeitalters, der einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_15_INFO]
-得到复兴时代简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Holt euch den einfachen Wagen der Renaissance, der einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_MOWER_16_INFO]
-得到平安时代简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Holt euch den einfachen Wagen der Heian-Zeit, der einem Zombieangriff auf das Haus standhält.
 
 [UPGRADE_TREASURE_YETI]
-解锁宝藏雪人
+Schatzschneemann freischalten
 
 [UPGRADE_TREASURE_YETI_DESCRIPTION]
-解锁宝藏雪人
+Schatzschneemann freischalten
 
 [UPGRADE_SHOVEL]
-阳光铲
+Sonnenscheinschaufel
 
 [WORLDINFO_GOTO]
-进入
+Eintreten
 
 [WORLDINFO_UNLOCK_BY_STAR]
-立即解锁
+Jetzt freischalten
 
 [WORLDINFO_UNLOCK_BY_GEM]
-{GEMS}立即解锁
+{GEMS} Jetzt freischalten
 
 [WORLDINFO_UNLOCK_PROGRESS_DES]
-解锁条件：
+Freischaltbedingungen:
 
 [WORLDINFO_UNLOCK_PROGRESS_DES_PERCENT]
 {STAR}/{STARREQ}
 
 [WORLDINFO_GEM_UNLOCK_TITLE]
-使用钻石解锁
+Mit Diamanten freischalten
 
 [WORLDINFO_GEM_UNLOCK_DES]
-是否花费{GEMS}颗钻石解锁{WORLDNAME}?
-(解锁世界所需要的星星会随着你已经解锁的世界总数上涨.)
+{GEMS} Diamanten ausgeben, um {WORLDNAME} freizuschalten?
+
+(Die Anzahl der zum Freischalten einer Welt benötigten Sterne erhöht sich mit der Gesamtzahl der freigeschalteten Welten.)
 
 [WORLDINFO_GEM_UNLOCK_DES_ANDROID]
-是否花费{GEMS}颗钻石解锁这个世界？
-(解锁世界所需要的星星会随着你已经解锁的世界总数上涨.)
+{GEMS} Diamanten ausgeben, um diese Welt freizuschalten?
+(Die Anzahl der zum Freischalten einer Welt benötigten Sterne steigt mit der Gesamtzahl der freigeschalteten Welten.)
 
 [WORLDINFO_STAR_UNLOCK_TITLE]
-使用星星解锁
+Freischalten mit Sternen
 
 [WORLDINFO_STAR_UNLOCK_DES]
-解锁世界所需要的星星会随着你已经解锁的世界总数上涨，确定要解锁这个世界吗？
+Die Anzahl der zum Freischalten einer Welt benötigten Sterne steigt mit der Gesamtzahl der freigeschalteten Welten. Möchtest du diese Welt wirklich freischalten?
 
 [WORLDINFO_UNLOCK_COMFIRM]
-确认解锁
+Entsperren bestätigen
 
 [WORLDINFO_UNLOCK_CANCEL]
-我再想想
+Ich überlege kurz.
 
 [AWARD_SCREEN_NEW_BONUS]
-获得奖励
+Belohnung sichern
 
 [CODE_REWARD_TITLE]
-礼包兑换
+Geschenkpaket einlösen
 
 [CODE_REWARD_TIP]
-请输入您获得的礼包码
+Bitte geben Sie den Code des erhaltenen Geschenkpakets ein.
 
 [CODE_IS_ERROR]
-此兑换码当前不可使用:
+Dieser Einlösecode ist derzeit nicht verfügbar:
 
 [CODE_TIME_RANGE]
-使用时间:
+Nutzungszeitraum:
 
 [CODE_USE_OBJ]
-使用对象:
+Nutzungsgegenstand:
 
 [CODE_COMMON_ERROR]
-请输入正确的验证码！
+Bitte geben Sie den korrekten Verifizierungscode ein!
 
 [PLANT_OBTAIN]
-领取
+Holen
 
 [GEM_RETURN_BUY_BTN]
-购买
+Kaufen
 
 [WORLDINFO_COMING_SOON_TITLE]
-全新世界即将推出
+Eine neue Welt erscheint bald.
 
 [WORLDINFO_COMING_SOON]
-这个世界尚未开放，敬请期待！
+Diese Welt ist noch nicht freigeschaltet. Bleiben Sie dran!
 
 [WORLDINFO_DIFFICULTY_TIP_TITLE]
-解锁世界难度警告
+Warnung zum Schwierigkeitsgrad der Freischaltung
 
 [WORLDINFO_DIFFICULTY_TIP]
-这个世界难度很大，请酌情解锁！
+Diese Welt ist sehr schwierig. Bitte schalten Sie sie nach eigenem Ermessen frei!
 
 [CHILDREN_DAY_CHALLENGE_TITLE]
-植物挑战
+Pflanzen-Challenge
 
 [CHILDREN_DAY_CHALLENGE_TITLE_1]
-植物挑战
+Pflanzen-Challenge
 
 [CHILDREN_DAY_WIN_HEADER_TITLE]
-植物挑战胜利
+Gewinn der Pflanzen-Challenge
 
 [CHILDREN_DAY_WIN_HEADER_TITLE_1]
-植物挑战胜利
+Gewinn der Pflanzen-Challenge
 
 [CHILDREN_DAY_DZ_FOOT]
-每天参与植物挑战可以获得大量奖品
+Nehmen Sie täglich an der Pflanzen-Challenge teil und gewinnen Sie viele Preise.
 
 [CHILDREN_DAY_DZ_FOOT_1]
-每天参与植物挑战可以获得大量奖品
+Nehmen Sie täglich an der Pflanzen-Challenge teil und gewinnen Sie viele Preise.
 
 [LABOR_DAY_CHALLENGE_TITLE]
-劳动节挑战
+Labor Day Challenge
 
 [LABOR_DAY_CHALLENGE_LEVEL1]
-劳动节挑战 - 第1关
+Labor Day Challenge – Level 1
 
 [LABOR_DAY_CHALLENGE_LEVEL2]
-劳动节挑战 - 第2关
+Labor Day Challenge – Level 2
 
 [LABOR_DAY_CHALLENGE_LEVEL3]
-劳动节挑战 - 第3关
+Labor-Day-Herausforderung – Stufe 3
 
 [LABOR_DAY_CHALLENGE_LEVEL4]
-劳动节挑战 - 第4关
+Labor-Day-Herausforderung – Stufe 4
 
 [LABOR_DAY_CHALLENGE_LEVEL5]
-劳动节挑战 - 第5关
+Labor-Day-Herausforderung – Stufe 5
 
 [LABOR_DAY_CHALLENGE_LEVEL6]
-劳动节挑战 - 第6关
+Labor Day-Herausforderung – Stufe 6
 
 [LABOR_DAY_CHALLENGE_LEVEL7]
-劳动节挑战 - 第7关
+Labor Day-Herausforderung – Stufe 7
 
 [STAR_CONVERT_TITLE]
-星星兑换
+Sternentausch
 
 [STAR_CONVERT_INFO_TITLE]
-星星兑换说明
+Anleitung zum Sternentausch
 
 [STAR_CONVERT_INFO]
-1. 在各个世界通关后获得的星星数量会累计总和。当达到规定数量的时候可以领取相应奖励。
-2. 已拥有的植物升级后，星星兑换不可重复获得，再领取不会得到植物碎片。
+1. Die Anzahl der Sterne, die du nach dem Abschließen jeder Welt erhältst, wird gesammelt. Sobald die angegebene Anzahl erreicht ist, kannst du die entsprechende Belohnung erhalten.
+2. Nachdem deine Pflanze verbessert wurde, kann der Sternentausch nicht wiederholt durchgeführt werden. Du erhältst auch keine Pflanzenfragmente, wenn du ihn erneut erhältst.
 
 [STAR_CONVERT_SUCCESS_TITLE]
-领取成功
+Erfolgreich erhalten
 
 [STAR_CONVERT_TOTAL]
-总星数
+Gesamtzahl der Sterne
 
 [STAR_CONVERT_TUTORIAL_SLOT]
-点击领取获得奖励
+Klicken Sie hier, um die Belohnung zu erhalten.
 
 [STAR_CONVERT_SUCCESS]
-恭喜您获得 ^4FC148 {REWARD} ^oldclr^
+Herzlichen Glückwunsch zum Erhalt von ^4FC148 {REWARD} ^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL1]
-^4FC148 一阶{PLANT} ^oldclr^
+^4FC148 Erster Ordnung {PLANT} ^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL2]
-^4FC148 二阶{PLANT} ^oldclr^
+^4FC148 Zweiter Ordnung {PLANT} ^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL3]
-^4FC148 三阶{PLANT} ^oldclr^
+^4FC148 Dritter Ordnung {PLANT} ^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL4]
-^4FC148 四阶{PLANT} ^oldclr^
+^4FC148 Vierter Ordnung {PLANT} ^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL5]
-^4FC148 五阶{PLANT} ^oldclr^
+
+^4FC148 Level 5 {PLANT} ^oldclr^
 
 [PLANT_OBTAIN_STAR]
-收集{STAR_NUM}颗星星获得
+Erreiche durch das Sammeln von {STAR_NUM} Sternen.
 
 [PLANT_OBTAIN_TITLE]
-星星植物
+Sternpflanzen
 
 [FRIEND_LIST_TITLE]
-我的好友
+Meine Freunde
 
 [PLANT_BUY_WITH_PIECE]
-补齐
+Füllen
 
 [PLANT_BUY_WITHOUT_PIECE]
-购买
+Kaufen
 
 [GEM_BUY_RMB]
-元
+Yuan
 
 [PLANT_BUY_FULL_PIECE]
-立即获得
+Jetzt kaufen!
 
 [GEM_NOT_ENOUGH_DIALOG_TITLE]
-钻石不足
+Nicht genug Diamanten!
 
 [GEM_NOT_ENOUGH_DIALOG_TEXT]
-购买更多钻石吗？
+Mehr Diamanten kaufen?
 
 [STAMINA_NOT_ENOUGH_DIALOG_TITLE]
-体力不足
+Nicht genügend Ausdauer!
 
 [STAMINA_NOT_ENOUGH_DIALOG_TEXT]
-购买更多体力吗？
+Mehr Ausdauer kaufen?
 
 [COIN_NOT_ENOUGH_DIALOG_TITLE]
-金币不足
+Nicht genügend Münzen!
 
 [COIN_NOT_ENOUGH_DIALOG_TEXT]
-购买更多金币吗？
+Mehr Münzen kaufen?
 
 [GEM_NOT_ENOUGH_DIALOG_YES]
-购买
+Kauf
 
 [RIFT_REACH_MAX_INTERVAL_TITLE]
-超时
+Zeitüberschreitung
 
 [RIFT_REACH_MAX_INTERVAL_TEXT]
-你已超时，请重新开始关卡。
+Zeitüberschreitung. Bitte starte das Level neu.
 
 [RIFT_CHECK_FAILED_TITLE]
-检测未通过
+Prüfung fehlgeschlagen
 
 [RIFT_CHECK_FAILED_TEXT_21622]
-活动配置信息错误。
+Fehler bei den Aktivitätskonfigurationsinformationen.
 
 [RIFT_CHECK_FAILED_TEXT_46331]
-植物匹配项不存在（非法植物)。
+Pflanzen-Passendes Objekt existiert nicht (unzulässige Pflanze).
 
 [RIFT_CHECK_FAILED_TEXT_46321]
-流水号缺失。
+Seriennummer fehlt.
 
 [RIFT_CHECK_FAILED_TEXT_46320]
-玩家战斗流水号数据异常。
+Die Seriennummer des Spielerkampfs ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46208]
-解析参数失败。
+Parameteranalyse fehlgeschlagen.
 
 [RIFT_CHECK_FAILED_TEXT_46322]
-数据时间异常。
+Datenzeit ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_22003]
-战斗配置信息读取失败。
+Die Kampfkonfigurationsinformationen konnten nicht gelesen werden.
 
 [RIFT_CHECK_FAILED_TEXT_46323]
-植物所需阳光验证异常。
+Die Überprüfung des benötigten Sonnenlichts der Anlage ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46324]
-cd冷却验证异常。
+Die Überprüfung der Kühlleistung der Klimaanlage ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46325]
-植物等级验证异常。
+Die Überprüfung der Anlagenebene ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46326]
-植物家族属性验证异常。
+Die Überprüfung der Anlagenfamilienattribute ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46327]
-玩家挂件信息异常。
+Die Informationen zum Spieleranhänger sind abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46328]
-植物攻速数据异常。
+Die Daten zur Angriffsgeschwindigkeit von Pflanzen sind anormal.
 
 [RIFT_CHECK_FAILED_TEXT_46329]
-初始检测异常。
+Anomalie bei der ersten Erkennung.
 
 [RIFT_CHECK_FAILED_TEXT_46330]
-能量豆检测异常。
+Anormale Erkennung von Energiebohnen.
 
 [RIFT_CHECK_FAILED_TEXT_21623]
-玩家记录数据异常。
+Anormale Spielerdaten.
 
 [RIFT_CHECK_FAILED_TEXT_46332]
-僵尸信息匹配异常。
+Anormale Übereinstimmung der Zombieinformationen.
 
 [RIFT_CHECK_FAILED_TEXT_46333]
-植物属性匹配异常。
+Anormale Übereinstimmung der Pflanzenattribute.
 
 [RIFT_CHECK_FAILED_TEXT_21624]
-道具消耗阳光数据匹配异常。
+Anormale Übereinstimmung der Daten zum Sonnenlichtverbrauch von Gegenständen.
 
 [RIFT_CHECK_FAILED_TEXT_46334]
-道具消耗类型异常。
+Art des Gegenstandsverbrauchs ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46335]
-掉落阳光数量匹配异常。
+Die Anzahl des abgeworfenen Sonnenlichts entspricht der Abnormalität.
 
 [RIFT_CHECK_FAILED_TEXT_46336]
-能量豆匹配异常。
+Die Übereinstimmung der Energiebohnen ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46341]
-植物种植数匹配异常。
+Die Anzahl der Pflanzenpflanzungen ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46337]
-神器使用次数匹配异常。
+Die Anzahl der Artefaktnutzungen ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46338]
-僵尸死亡数匹配异常。
+Die Anzahl der Zombie-Tode ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46339]
-阳光总消耗数据异常大于获得阳光。
+Der gesamte Sonnenlichtverbrauch ist ungewöhnlich höher als das erhaltene Sonnenlicht.
 
 [RIFT_CHECK_FAILED_TEXT_46310]
-关卡接受数据次数异常。
+Die Häufigkeit, mit der das Level Daten empfängt, ist ungewöhnlich.
 
 [NETWORK_NOT_CONNECTED_TITLE]
-网络故障
+Netzwerkfehler
 
 [NETWORK_NOT_CONNECTED_TEXT]
-请检查你的网络状态或者下次再试。
+Bitte überprüfe deinen Netzwerkstatus oder versuche es beim nächsten Mal erneut.
 
 [NETWORK_NOT_CONNECTED_TEXT_INCUNSUMPTION_TAB]
-网络故障？
-一定是网络被僵尸当成脑子吃掉了！
-但是在网络故障下，奖励的显示可能会不正确，且无法领取。
-请在网络正常后重新查看！
+Netzwerkfehler?
+Das Netzwerk muss von Zombies aufgefressen worden sein, als wäre es ihr Gehirn!
+Bei einem Netzwerkfehler kann die Anzeige von Belohnungen jedoch fehlerhaft sein und nicht einlösbar sein.
+Bitte überprüfe es erneut, sobald die Netzwerkverbindung wieder normal ist!
 
 [NETWORK_CLOUD_SYNC_ERROR]
-网络不稳定，云存档同步失败，请稍后再试。
+Das Netzwerk ist instabil und die Synchronisierung des Cloud-Speichers ist fehlgeschlagen. Bitte versuche es später erneut.
 
 [NETWORK_CLOUD_FIRST_SYNC_ERROR]
-请先同步云存，再进行游戏。
+Bitte synchronisiere zuerst den Cloud-Speicher und spiele dann das Spiel.
 
 [YETI_ESCAPE_DIALOG_TITLE]
-宝藏雪人逃跑了
+Der Schatz-Schneemann ist entkommen
 
 [YETI_ESCAPE_DIALOG_TEXT]
-你需要在宝藏雪人逃跑前将其击倒，这样才能获得它的宝藏！
+Du musst den Schatz-Schneemann umhauen, bevor er entkommt, damit du seinen Schatz schnappen kannst!
 
 [YETI_ENTER_ADVICE]
-击败宝藏雪人，获得神秘奖励，留神别让它跑了。
+Besiege den Schatz-Schneemann und erhalte eine geheimnisvolle Belohnung. Pass auf, dass er nicht wegläuft.
 
 [STARCHALLENGE_YETI_DEMO]
 Wehre die Zombie-Invasion ab und hol dir neue Pflanzen.
@@ -8812,995 +8814,1009 @@ Supreme-Geschenkpaket
 Supreme-Platin-Geschenkpaket
 
 [PRESENT_TITLE_1000]
-360至尊大礼包
+360 Supreme Geschenkpaket
 
 [PRESENT_TITLE_1001]
-OPPO至尊大礼包
+OPPO Supreme Geschenkpaket
 
 [PRESENT_TITLE_1002]
-小米至尊大礼包
+Xiaomi Supreme Geschenkpaket
 
 [PRESENT_TITLE_1003]
-联想至尊大礼包
+Lenovo Supreme Geschenkpaket
 
 [PRESENT_TITLE_1004]
-BAIDU至尊大礼包
+BAIDU Supreme Geschenkpaket
 
 [PRESENT_TITLE_1005]
-4399至尊大礼包
+4399 Supreme Geschenkpaket
 
 [PRESENT_TITLE_1006]
-UC至尊大礼包
+UC Supreme Geschenkpaket
 
 [PRESENT_TITLE_1007]
-周年幸运奖
+Jubiläums-Glückspreis
 
 [PRESENT_TITLE_1008]
-周年启航奖
+Jubiläums-Segelpreis
 
 [PRESENT_TITLE_1009]
-周年畅玩奖
+Jubiläums-Freispiel Auszeichnung
 
 [PRESENT_TITLE_1010]
-周年豪华奖
+Jubiläums-Deluxe-Auszeichnung
 
 [PRESENT_TITLE_1011]
-周年至尊奖
+Jubiläums-Supreme-Auszeichnung
 
 [CARD_PLAY_TITLE]
-通关抽奖
+Ausverkaufsverlosung
 
 [NEWER_PRESENT_DES]
-现在只需充值^00FF00 2元 ^oldclr 购买小袋钻石，即可获得至尊礼包！（一共可以获得^00FF00 30钻^oldclr 哦！）
+Laden Sie jetzt einfach 2 Yuan ^oldclr auf, um einen kleinen Beutel Diamanten zu kaufen und das Supreme-Geschenkpaket zu erhalten! (Sie erhalten insgesamt 30 Diamanten ^oldclr!)
 
 [NEWER_PRESENT_ADVANCE_DES]
-现在只需充值^00FF00 10元 ^oldclr 购买金币礼包，即可获得至尊白金礼包！（一共可以获得^00FF00 155钻^oldclr 哦！）
+Laden Sie jetzt nur noch 10 Yuan ^oldclr auf, um das Goldmünzen-Geschenkpaket zu kaufen und das Supreme-Platin-Geschenkpaket zu erhalten! (Sie erhalten insgesamt ^00FF00 155 Diamanten^oldclr!)
 
 [NEWER_PRESENT_FOR_CHINAMOBILEMM_DES]
-现在购买只需0.1元，机会有限，时不再来哟！
+Jetzt nur noch 0,1 Yuan zum Kaufen. Die Chance ist begrenzt und kommt nicht wieder!
 
 [NEWER_PRESENT_QUIT]
-丢弃礼包
+Geschenkpaket entsorgen
 
 [NEWER_PRESENT_BUY]
-立即充值
+Jetzt aufladen
 
 [GEMS_RESTORE_BUSY_TIP]
-系统繁忙，请等待10秒钟后重试输入激活码
+Das System ist ausgelastet. Bitte warten Sie 10 Sekunden und versuchen Sie erneut, den Aktivierungscode einzugeben.
 
 [GEMS_RESTORE_BUTTON_TITLE]
-点击领取
+Klicken, um zu erhalten
 
 [GEMS_RESTORE_DES]
-使用激活码领取道具
+Verwenden Sie den Aktivierungscode, um den Artikel zu erhalten.
 
 [GEMS_RESTORE_TITLE]
-领取道具
+Artikel erhalten
 
 [GEMS_RESTORE_TIP]
-请于下方输入客服提供给您的激活码
+Bitte geben Sie unten den Aktivierungscode ein, den Sie vom Kundenservice erhalten haben.
 
 [NEWER_BAG_PLANT_GET_CONTENT]
-恭喜你获得金币X30000，钻石X10，神秘埃及钥匙、海盗港湾钥匙、狂野西部钥匙各3把！
+Herzlichen Glückwunsch zu 30.000 Goldmünzen, 10 Diamanten, 3 Schlüsseln für das Mysteriöse Ägypten, 3 Schlüsseln für den Piratenhafen und 3 Schlüsseln für den Wilden Westen!
 
 [QQ_BAG_PLANT_GET_CONTENT]
-恭喜你获得金币X38888，钻石X8，神秘埃及钥匙、海盗港湾钥匙、狂野西部钥匙各3把！
+Herzlichen Glückwunsch zu 38.888 Goldmünzen, 8 Diamanten, 3 Schlüsseln für das Mysteriöse Ägypten, 3 Schlüsseln für den Piratenhafen und 3 Schlüsseln für den Wilden Westen!
 
 [NEWER_BAG_PLANT_GET_TIP]
-输入激活码，领取新手好礼
+Gib den Aktivierungscode ein, um das Newbie-Geschenk zu erhalten.
 
 [NEWER_BAG_PLANT_GET_TITLE]
-新手卡礼包
+Newbie-Karten-Geschenkpaket
 
 [QQ_BAG_PLANT_GET_TITLE]
-新手礼包
+Newbie-Geschenkpaket
 
 [NEWER_BAG_CODE_ERROR_TITLE]
-激活码错误
+Fehler beim Aktivierungscode
 
 [NEWER_BAG_CODE_ERROR_CONTENT]
-激活码不存在或已被使用！
+Der Aktivierungscode existiert nicht oder wurde bereits verwendet!
 
 [GEMS_RESTORE_CODE_ERROR_TITLE]
-激活码错误
+Fehler beim Aktivierungscode
 
 [GEMS_RESTORE_CODE_ERROR_CONTENT]
-激活码不存在或已被使用！
+Der Aktivierungscode existiert nicht oder wurde bereits verwendet!
 
 [GEMS_RESTORE_CODE_SUCCEED_TITLE]
-兑换激活码成功！
+Der Aktivierungscode wurde erfolgreich eingelöst!
 
 [GEMS_RESTORE_CODE_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复{GEM_COUNT}钻石
+Der Aktivierungscode wurde erfolgreich eingegeben und Sie haben {GEM_COUNT} Diamanten wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_SUCCEED_TITLE]
-特权恢复成功！
+Die Berechtigungen wurden erfolgreich wiederhergestellt!
 
 [GEMS_RESTORE_CODE_RECHARGE_SUCCEED_DESCRIPTION]
-道具恢复成功！
+Die Gegenstände wurden erfolgreich wiederhergestellt!
 
 [GEMS_RESTORE_CODE_RECHARGE_SPEEDUP_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复两倍速度
+Der Aktivierungscode wurde erfolgreich eingegeben und die doppelte Geschwindigkeit wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_CHERRYBOMB_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复樱桃炸弹
+Der Aktivierungscode wurde erfolgreich eingegeben und die Kirschbomben wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_DOUBLECOIN_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复两倍金币
+Der Aktivierungscode wurde erfolgreich eingegeben und die doppelte Anzahl an Goldmünzen wiederhergestellt.
 
-[GEMS_RESTORE_CODE_RECHARGE_DOUBLELOTTERY_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复两倍抽奖
+[GE MS_RESTORE_CODE_RECHARGE_DOUBLELOTTERY_SUCCEED_CONTENT]
+Der Aktivierungscode wurde erfolgreich eingegeben und die doppelte Ziehung wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_THREEPEATER_AVATAR_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复三发射手装扮
+Der Aktivierungscode wurde erfolgreich eingegeben und die Drei-Werfer-Waffe wiederhergestellt. Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CHERRYBOMB_AVATAR_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复樱桃炸弹装扮{LEVEL_NUMBER}
+Aktivierungscode: Die Eingabe war erfolgreich. Du hast das Kirschbombenkostüm {LEVEL_NUMBER} wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_ICEBURG_AVATAR_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复冰冻生菜装扮
+Der Aktivierungscode wurde erfolgreich eingegeben. Du hast das Eissalatkostüm wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_WINTERMELON_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复冰西瓜{LEVEL_NUMBER}阶和装扮
+Der Aktivierungscode wurde erfolgreich eingegeben. Du hast das Eiswassermelonen-Level {LEVEL_NUMBER} und das Kostüm wiederhergestellt.
 
-[GEMS_RESTORE_CODE_RECHARGE_CITRON_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复充能柚子{LEVEL_NUMBER}阶和装扮
+[GEMS_RESTORE_CODE_RECHARGE_ICEBURG_AVATAR_SUCCEED_CONTENT] ESTORE_CODE_RECHARGE_CITRON_AVATAR_LEVEL_SUCCEED_CONTENT]
+Der Aktivierungscode wurde erfolgreich eingegeben. Du hast Level {LEVEL_NUMBER} und Kostüm von Charging Citron wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_PEAPOD_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复豌豆荚{LEVEL_NUMBER}阶和装扮
+Der Aktivierungscode wurde erfolgreich eingegeben und du hast Level {LEVEL_NUMBER} und Kostüm von Peapod wiederhergestellt.
 
-[GEMS_RESTORE_CODE_RECHARGE_SNOWPEA_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复寒冰射手{LEVEL_NUMBER}阶和装扮
+[GEMS_RESTORE_CODE_RECHARGE_SN OWPEA_AVATAR_LEVEL_SUCCEED_CONTENT]
+Der Aktivierungscode wurde erfolgreich eingegeben und du hast Level und Outfit des Eisbogenschützen {LEVEL_NUMBER} wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复全息坚果{LEVEL_NUMBER}阶和装扮
+Der Aktivierungscode wurde erfolgreich eingegeben und du hast Level und Outfit der Holo-Nuss {LEVEL_NUMBER} wiederhergestellt.
 
-[GEMS_RESTORE_CODE_RECHARGE_TURNIP_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复白萝卜{LEVEL_NUMBER}阶和装扮
+[GEMS_RESTORE_CODE_RECHARGE_TURNIP_AVATAR_LEVEL_SU CCEED_CONTENT]
+Der Aktivierungscode wurde erfolgreich eingegeben. Du hast die Stufe und das Kostüm des weißen Rettichs ({LEVEL_NUMBER}) wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_STARFRUIT_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复星星果{LEVEL_NUMBER}阶和装扮
+Der Aktivierungscode wurde erfolgreich eingegeben. Du hast die Stufe und das Kostüm der Sternfrucht ({LEVEL_NUMBER}) wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_TORCHWOOD_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复火炬树桩{LEVEL_NUMBER}阶和装扮
+Die Eingabe des Aktivierungscodes war erfolgreich. Du hast die Stufe und das Kostüm des Fackelstumpfs ({LEVEL_NUMBER}) wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复闪电芦苇{LEVEL_NUMBER}阶和装扮
+Der Aktivierungscode wurde erfolgreich eingegeben. Du hast die Stufe und das Kostüm des Blitzrohrs ({LEVEL_NUMBER}) wiederhergestellt. Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_BONKCHOY_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复菜问{LEVEL_NUMBER}阶和装扮
+Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Gemüsefrage-Kostüms und das Kostüm wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_LASER_BEAN_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复激光豆{LEVEL_NUMBER}阶和装扮
+Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Laserbeans-Kostüms und das Kostüm wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_FIREGOURD_AVATAR_LEVEL_SUCCEED_CONTENT]
-激活码输入成功，您已经恢复火龙草{LEVEL_NUMBER}阶和装扮
-
- 
+Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Feuerdrachengras-Kostüms und das Kostüm wiederhergestellt.
  
 [GEMS_RESTORE_CODE_RECHARGE_SUNFLOWER_LV0_SUCCEED_CONTENT]
-一阶向日葵加装扮
-	   
+Sonnenblume der ersten Stufe plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_TWINSUNFLOWER_LV0_SUCCEED_CONTENT]
-一阶双胞胎向日葵加装扮
-	   
+Zwillingssonnenblume der ersten Stufe plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_GRAVEBUSTER_LV0_SUCCEED_CONTENT]
-一阶噬碑藤加装扮
-	   
+Grabbuschranke der ersten Stufe plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_ICEBURG_LV0_SUCCEED_CONTENT]
-一阶冰冻生菜加装扮
-	   
+Eissalat der ersten Stufe plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_CHERRY_BOMB_LV0_SUCCEED_CONTENT]
-一阶樱桃炸弹加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_TORCHWOOD_LV0_SUCCEED_CONTENT]
-一阶火炬树桩加装扮
-	   
+Kirschbombe der ersten Stufe plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARG E_TORCHWOOD_LV0_SUCCEED_CONTENT]
+Fackelholzstumpf (1. Stufe) plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_CHILIBEAN_LV0_SUCCEED_CONTENT]
-一阶巴豆加装扮
-	   
+Kroton (1. Stufe) plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_JALAPENO_LV0_SUCCEED_CONTENT]
-一阶火爆辣椒加装扮
-	   
+Scharfe Paprika (1. Stufe) plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_SQUASH_LV0_SUCCEED_CONTENT]
-一阶窝瓜加装扮
-	   
+Kürbis (1. Stufe) plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_IMITATER_LV0_SUCCEED_CONTENT]
-一阶变身茄子加装扮
-	   
+Verwandelte Aubergine (1. Stufe) plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_PEASHOOTER_LV0_SUCCEED_CONTENT]
-一阶豌豆射手加装扮
-	   
+Erbsenpistole (1. Stufe) plus Kostüm =
+
 [GEMS_RESTORE_CODE_RECHARGE_POTATOMINE_LV0_SUCCEED_CONTENT]
-一阶土豆地雷加装扮
-	   
+Kartoffelmine der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_WALLNUT_LV0_SUCCEED_CONTENT]
-一阶坚果加装扮
-	   
+Nuss der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_REPEATER_LV0_SUCCEED_CONTENT]
-一阶双重射手加装扮
-	   
+Doppel-Shooter der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_THREEPEATER_LV0_SUCCEED_CONTENT]
-一阶三重射手加装扮
-	   
+Dreifach-Shooter der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_TALLNUT_LV0_SUCCEED_CONTENT]
-一阶高坚果加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_BLOOMERANG_LV0_SUCCEED_CONTENT]
-一阶回旋镖射手加装扮
-	   
+Hohe Nuss der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_BLO OMERANG_LV0_SUCCEED_CONTENT]
+Bumerang-Shooter der ersten Stufe mit Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_BONKCHOY_LV0_SUCCEED_CONTENT]
-一阶菜问加装扮
-	   
+Gemüsefrage der ersten Stufe mit Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_CABBAGEPULT_LV0_SUCCEED_CONTENT]
-一阶卷心菜投手加装扮
-	   
+Kohlkrug der ersten Stufe mit Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_SNOWPEA_LV0_SUCCEED_CONTENT]
-一阶寒冰射手加装扮
-	   
+Eis-Shooter der ersten Stufe mit Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_KERNELPULT_LV0_SUCCEED_CONTENT]
-一阶玉米投手加装扮
-	   
+Maiskrug der ersten Stufe mit Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_POWERLILY_LV0_SUCCEED_CONTENT]
-一阶能量花加装扮
-	   
+Energieblume der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_SNAPDRAGON_LV0_SUCCEED_CONTENT]
-一阶火龙草加装扮
-	   
+Feuerdrachengras der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEWEED_LV0_SUCCEED_CONTENT]
-一阶地刺加装扮
-	   
+Spike der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV0_SUCCEED_CONTENT]
-一阶椰子加农炮加装扮
-	   
+Kokosnusskanone der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_LV0_SUCCEED_CONTENT]
-一阶闪电芦苇加装扮
-	   
+Blitzrohr der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV0_SUCCEED_CONTENT]
-一阶钢地刺加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_SPLITPEA_LV0_SUCCEED_CONTENT]
-一阶双向射手加装扮
-	   
+Stahlspike der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV0_SUCCEED_CONTENT]
+Kokosnusskanone der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_LV0_SUCCEED_CONTENT]
+Blitzrohr der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV0_SUCCEED_CONTENT]
+Stahlstachel der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV0_SUCCEED_CONTENT] E_RECHARGE_SPLITPEA_LV0_SUCCEED_CONTENT]
+Zweiwege-Shooter der ersten Stufe mit zusätzlicher Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_SPRINGBEAN_LV0_SUCCEED_CONTENT]
-一阶弹簧豆加装扮
-	   
+Frühlingsbohne der ersten Stufe mit Zusätzliche Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_MELONPULT_LV0_SUCCEED_CONTENT]
-一阶西瓜投手加装扮
-	   
+Wassermelonenkrug der ersten Stufe mit zusätzlicher Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_PEAPOD_LV0_SUCCEED_CONTENT]
-一阶豌豆荚加装扮
-	   
+Erbsenschote der ersten Stufe mit zusätzlicher Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_WINTERMELON_LV0_SUCCEED_CONTENT]
-一阶冰西瓜投手加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_TURNIP_LV0_SUCCEED_CONTENT]
-一阶白萝卜加装扮
-	   
+Eiswassermelonenkrug der ersten Stufe mit zusätzlicher Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_TURNIP_LV0_SUCCEED_CONTENT NT]
+Weißer Rettich der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_FIREGOURD_LV0_SUCCEED_CONTENT]
-一阶火葫芦加装扮
-	   
+Feuerkürbis der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_PEACH_LV0_SUCCEED_CONTENT]
-一阶仙桃加装扮
-	   
+Feenpfirsich der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_BAMBOO_LV0_SUCCEED_CONTENT]
-一阶竹笋加装扮
-	   
+Bambussprossen der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_LASER_BEAN_LV0_SUCCEED_CONTENT]
-一阶激光豆加装扮
-	   
+Laserbohne der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_BLOVER_LV0_SUCCEED_CONTENT]
-一阶三叶草加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_CITRON_LV0_SUCCEED_CONTENT]
-一阶充能柚子加装扮
-	   
+Kleeblatt der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_CIT RON_LV0_SUCCEED_CONTENT]
+Grapefruit der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_EMPEA_LV0_SUCCEED_CONTENT]
-一阶脉冲黄桃加装扮
-	   
+Pulsgelber Pfirsich der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_LV0_SUCCEED_CONTENT]
-一阶全息坚果加装扮
-	   
+Holografische Nuss der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_MAGNIFYINGGRASS_LV0_SUCCEED_CONTENT]
-一阶棱镜草加装扮
-	   
+Prismagras der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_POWERPLANT_LV0_SUCCEED_CONTENT]
-一阶瓷砖萝卜加装扮
-	   
+Karotte der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_STARFRUIT_LV0_SUCCEED_CONTENT]
-一阶星星果加装扮
+Sternfrucht der ersten Stufe plus Dekoration
 	   
 [GEMS_RESTORE_CODE_RECHARGE_CARROTLAUNCHER_LV0_SUCCEED_CONTENT]
-一阶胡萝卜导弹车加装扮
-	   
+Karotten-Raketenauto der ersten Stufe mit Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_PUFFSHROOM_LV0_SUCCEED_CONTENT]
-一阶小喷菇加装扮
-	   
+Kleiner Puffpilz der ersten Stufe mit Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_FUMESHROOM_LV0_SUCCEED_CONTENT]
-一阶大喷菇加装扮
-	   
+Großer Puffpilz der ersten Stufe mit Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_HYPNOSHROOM_LV0_SUCCEED_CONTENT]
-一阶魅惑菇加装扮
-	   
+Charm-Pilz der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_SUNSHROOM_LV0_SUCCEED_CONTENT]
-一阶阳光菇加装扮
-	   
+Sonnenpilz der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_SUNBEAN_LV0_SUCCEED_CONTENT]
-一阶阳光豆加装扮
-	   
+Sonnenbohne (erste Stufe) plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_PEANUT_LV0_SUCCEED_CONTENT]
-一阶花生射手加装扮
-	   
+Erdnuss-Shooter (erste Stufe) plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_MAGNETSHROOM_LV0_SUCCEED_CONTENT]
-一阶磁力菇加装扮
-	   
+Magnetpilz (erste Stufe) plus Dekoration (Ankleiden)
+
 [GEMS_RESTORE_CODE_RECHARGE_STREETLAMP_LV0_SUCCEED_CONTENT]
-一阶路灯花加装扮
-	   
+Straßenlaternenblume (erste Stufe) plus Ankleiden
+
 [GEMS_RESTORE_CODE_RECHARGE_COFFEEBEAN_LV0_SUCCEED_CONTENT]
-一阶咖啡豆加装扮
-	   
+Kaffeebohne (erste Stufe) plus Kleid hoch
+
 [GEMS_RESTORE_CODE_RECHARGE_ICESHROOM_LV0_SUCCEED_CONTENT]
-一阶寒冰菇加装扮
-	   
+Eispilz der ersten Stufe plus Verkleidung
+
 [GEMS_RESTORE_CODE_RECHARGE_FIRESHROOM_LV0_SUCCEED_CONTENT]
-一阶烈焰菇加装扮
-	   
+Feuerpilz der ersten Stufe plus Kostüme
+
 [GEMS_RESTORE_CODE_RECHARGE_OAKSHOOTER_LV0_SUCCEED_CONTENT]
-一阶橡木弓手加装扮
-	   
+Eichenbogenschütze der ersten Stufe plus Kostüme
+
 [GEMS_RESTORE_CODE_RECHARGE_BROCCOLI_LV0_SUCCEED_CONTENT]
-一阶大力花菜加装扮
-	   
+Brokkoli der ersten Stufe plus Kostüme
+
 [GEMS_RESTORE_CODE_RECHARGE_PAMEGRANATE_LV0_SUCCEED_CONTENT]
-一阶机枪石榴加装扮
-	   
+Maschinengewehr-Granatapfel der ersten Stufe plus Kostüme
+
 [GEMS_RESTORE_CODE_RECHARGE_CHOMPER_LV0_SUCCEED_CONTENT]
-一阶大嘴花 加装扮
-	   
+Großmaulblume (erste Stufe) – Dekoration hinzufügen
+
 [GEMS_RESTORE_CODE_RECHARGE_LILYPAD_LV0_SUCCEED_CONTENT]
-一阶莲叶加装扮
-	   
+Lotusblatt (erste Stufe) – Dekoration hinzufügen
+
 [GEMS_RESTORE_CODE_RECHARGE_BOWLINGBULB_LV0_SUCCEED_CONTENT]
-一阶保龄泡泡加装扮
-	   
+Bowlingblase (erste Stufe) – Dekoration hinzufügen
+
 [GEMS_RESTORE_CODE_RECHARGE_BANANA_LV0_SUCCEED_CONTENT]
-一阶香蕉火箭炮加装扮
-	   
+Bananenrakete (erste Stufe) – Dekoration hinzufügen
+
 [GEMS_RESTORE_CODE_RECHARGE_GUACODILE_LV0_SUCCEED_CONTENT]
-一阶鳄梨加装扮
-	   
+Avocado (erste Stufe) Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_TANGLEKELP_LV0_SUCCEED_CONTENT]
-一阶缠绕水草 加装扮
-	   
+Verworrene Wasserpflanze (erste Stufe): Kostüme hinzufügen
+
 [GEMS_RESTORE_CODE_RECHARGE_HOMINGTHISTLE_LV0_SUCCEED_CONTENT]
-一阶导向蓟加装扮
-	   
+Leitfaden Distel (erste Stufe): Kostüme hinzufügen
+
 [GEMS_RESTORE_CODE_RECHARGE_SWEETPOTATO_LV0_SUCCEED_CONTENT]
-一阶甜薯加装扮
-	   
+Süßkartoffel (erste Stufe): Kostüme hinzufügen
+
 [GEMS_RESTORE_CODE_RECHARGE_LOTUSSHOWER_LV0_SUCCEED_CONTENT]
-一阶莲小蓬加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_LEMON_LV0_SUCCEED_CONTENT]
-一阶强酸柠檬加装扮
-	   
+Lotus-Taro (erste Stufe): Kostüme hinzufügen
+
+[GEMS_RESTORE_CODE_RECHARGE_LEMON_LV0_SUC CEED_CONTENT]
+Starke Säure Zitrone (erste Stufe): Plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_GHOSTPEPPER_LV0_SUCCEED_CONTENT]
-一阶幽灵辣椒加装扮
-	   
+Geisterpfeffer-Plus-Kostüm der ersten Stufe
+
 [GEMS_RESTORE_CODE_RECHARGE_CRACKER_LV0_SUCCEED_CONTENT]
-一阶竹员外加装扮
-	   
+Bambus-Offizielles-Plus-Kostüm der ersten Stufe
+
 [GEMS_RESTORE_CODE_RECHARGE_HURRIKALE_LV0_SUCCEED_CONTENT]
-一阶飓风甘蓝加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_FIREPEASHOOTER_LV0_SUCCEED_CONTENT]
-一阶火焰豌豆加装扮
-	   
+Hurrikan-Kohl-Plus-Kostüm der ersten Stufe
+
+[GEMS_RESTORE_CODE_RECHARG E_FIREPEASHOOTER_LV0_SUCCEED_CONTENT]
+Feuererbsen-Plus-Kostüm der ersten Stufe
+
 [GEMS_RESTORE_CODE_RECHARGE_HOTPOTATO_LV0_SUCCEED_CONTENT]
-一阶烤马铃薯加装扮
-	   
+Ofenkartoffel-Plus-Kostüm der ersten Stufe Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_PEPPERPULT_LV0_SUCCEED_CONTENT]
-一阶辣椒投手加装扮
+Pfefferkrug (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CHARDGUARD_LV0_SUCCEED_CONTENT]
-一阶甜菜护卫加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_STUNION_LV0_SUCCEED_CONTENT]
-一阶眩晕洋葱加装扮
-	   
+Rübenwächter (1. Stufe) plus Kostüm
+
+[GE MS_RESTORE_CODE_RECHARGE_STUNION_LV0_SUCCEED_CONTENT]
+Betäubungszwiebel (1. Stufe) plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_XSHOT_LV0_SUCCEED_CONTENT]
-一阶旋转芜菁加装扮
-	   
+Rübe (1. Stufe) plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_ACORN_LV0_SUCCEED_CONTENT]
-一阶旋风橡果加装扮
-	   
+Zyklon-Eichel (1. Stufe) plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_RAFFLESIA_LV0_SUCCEED_CONTENT]
-一阶大王花加装扮
+Rafflesia der ersten Stufe plus Dekoration
 	   
 [GEMS_RESTORE_CODE_RECHARGE_CHESTNUT_LV0_SUCCEED_CONTENT]
-一阶板栗小队加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_SUGARCANE_LV0_SUCCEED_CONTENT]
-一阶竹小弟加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_ROSESWORDMAN_LV0_SUCCEED_CONTENT]
-一阶玫瑰剑客加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_MAGICSHROOM_LV0_SUCCEED_CONTENT]
-一阶魔术菇加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_DOUBLESAMARA_LV0_SUCCEED_CONTENT]
-一阶旋涡枇杷加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_ASPARAGUS_LV0_SUCCEED_CONTENT]
-一阶芦笋战机加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_ANTHURIUM_LV0_SUCCEED_CONTENT]
-一阶电离红掌加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_HORSEBEAN_LV0_SUCCEED_CONTENT]
-一阶豌豆突击队加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_SAUCER_LV0_SUCCEED_CONTENT]
-一阶飞碟瓜加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_SAPFLING_LV0_SUCCEED_CONTENT]
-一阶树脂投手加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_DANDELION_LV0_SUCCEED_CONTENT]
-一阶蒲公英加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_GROUNDCHERRY_LV0_SUCCEED_CONTENT]
-一阶灯笼草加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_ELECTRICBLUEBERRY_LV0_SUCCEED_CONTENT]
-一阶电击蓝莓加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_BIRTHSUNFLOWER_LV0_SUCCEED_CONTENT]
-一阶向日葵歌手加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_GREENTURNIP_LV0_SUCCEED_CONTENT]
-一阶捣蛋萝卜加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_ENDURIAN_LV0_SUCCEED_CONTENT]
-一阶榴莲加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV0_SUCCEED_CONTENT]
-一阶棉小雪加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_GOLDLEAF_LV0_SUCCEED_CONTENT]
-一阶金叶子加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_AKEE_LV0_SUCCEED_CONTENT]
-一阶阿开木加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV0_SUCCEED_CONTENT]
-一阶红针花加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_STALLIA_LV0_SUCCEED_CONTENT]
-一阶大丽菊加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_LAVAGAUVA_LV0_SUCCEED_CONTENT]
-一阶番石榴加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_TOADSTOOL_LV0_SUCCEED_CONTENT]
-一阶金蟾菇加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_AGAVE_LV0_SUCCEED_CONTENT]
-一阶龙舌兰加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV0_SUCCEED_CONTENT]
-一阶菠萝蜜加装扮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT]
-一阶猕猴桃加装扮
+Kastanien-Teamkostüm der ersten Stufe
 
-[GEMS_RESTORE_CODE_RECHARGE_DRAGONFRUIT_LV0_SUCCEED_CONTENT]
-一阶火龙果加装扮
-	   
+[GEMS_RESTORE_CODE_RECHARGE_SUGARCANE_LV0_SUCCEED_CONTENT]
+Bambusbruderkostüm der ersten Stufe
+
+[GEMS_RESTORE_CODE_RECHARGE_ROSESWORDMAN_LV0_SUCCEED_CONTENT]
+Rosenschwertkämpferkostüm der ersten Stufe
+
+[GEMS_RESTORE_CODE_RECHARGE_MAGICSHROOM_LV0_SUCCEED_CONTENT]
+Zauberpilz-Plus-Kostüm der ersten Stufe
+
+[GEMS_RESTORE_CODE_RECHARGE_DOUBLESAMARA_LV0_SUCCEED_CONTENT]
+Wirbelmispel-Plus-Kostüm der ersten Stufe Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_ASPARAGUS_LV0_SUCCEED_CONTENT]
+Spargelkämpfer (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_ANTHURIUM_LV0_SUCCEED_CONTENT]
+Ionisierte rote Anthurie (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE _HORSEBEAN_LV0_SUCCEED_CONTENT]
+Erbsenkommando (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_SAUCER_LV0_SUCCEED_CONTENT]
+Fliegende Untertassenmelone (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_SAPFLING_LV0_SUCCEED_CONTENT]
+Harzkrug (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_DANDELION_LV0_SUCCEED_CONTENT]
+Löwenzahn (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_DANDELION_LV0_SUCCEED_CONTENT] RE_CODE_RECHARGE_GROUNDCHERRY_LV0_SUCCEED_CONTENT]
+Laternengras (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_ELECTRICBLUEBERRY_LV0_SUCCEED_CONTENT]
+Elektrische Blaubeere (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_BIRTHSUNFLOWER_LV0_SUCCEED_CONTENT]
+Sonnenblumensängerin (1. Stufe) plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_GREENTURNIP_LV0_SUCCE ED_CONTENT]
+Erste Stufe schelmische Karotte plus Kostüm
+
+[GEMS_RESTORE_CODE_RECHARGE_ENDURIAN_LV0_SUCCEED_CONTENT]
+Durian-Plus-Kostüm der ersten Stufe
+
+[GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV0_SUCCEED_CONTENT]
+Baumwollschnee-Plus-Kostüm der ersten Stufe
+
+[GEMS_RESTORE_CODE_RECHARGE_GOLDLEAF_LV0_SUCCEED_CONTENT]
+Goldblatt-Plus-Kostüm der ersten Stufe
+
+[GEMS_RESTORE_CODE_RECHARGE_AKE E_LV0_SUCCEED_CONTENT]
+Akaimu-Plus-Dekoration der ersten Stufe
+
+[GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV0_SUCCEED_CONTENT]
+Rote Nadelblume der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_STALLIA_LV0_SUCCEED_CONTENT]
+Dahlie der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_LAVAGAUVA_LV0_SUCCEED_CONTENT]
+Guave der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE CHARGE_TOADSTOOL_LV0_SUCCEED_CONTENT]
+Goldkrötenpilz der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_AGAVE_LV0_SUCCEED_CONTENT]
+Agave der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV0_SUCCEED_CONTENT]
+Jackfrucht der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT]
+Kiwi der ersten Stufe plus Dekoration
+
+[GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT] E_CODE_RECHARGE_DRAGONFRUIT_LV0_SUCCEED_CONTENT]
+Drachenfrucht der ersten Stufe plus Dekoration
+
 [GEMS_RESTORE_CODE_RECHARGE_SUNFLOWER_LV3_SUCCEED_CONTENT]
-三阶向日葵
-	   
+Sonnenblume der dritten Stufe
+
 [GEMS_RESTORE_CODE_RECHARGE_TWINSUNFLOWER_LV3_SUCCEED_CONTENT]
-三阶双胞胎向日葵
-	   
+Zwillingssonnenblume der dritten Stufe
+
 [GEMS_RESTORE_CODE_RECHARGE_GRAVEBUSTER_LV3_SUCCEED_CONTENT]
-三阶噬碑藤
+Denkmalfresser der dritten Stufe Rebe
 	   
 [GEMS_RESTORE_CODE_RECHARGE_ICEBURG_LV3_SUCCEED_CONTENT]
-三阶冰冻生菜
-	   
+Eisburger, Level 3
+
 [GEMS_RESTORE_CODE_RECHARGE_CHERRY_BOMB_LV3_SUCCEED_CONTENT]
-三阶樱桃炸弹
-	   
+Kirschbombe, Level 3
+
 [GEMS_RESTORE_CODE_RECHARGE_TORCHWOOD_LV3_SUCCEED_CONTENT]
-三阶火炬树桩
-	   
+Fackelholzstumpf, Level 3
+
 [GEMS_RESTORE_CODE_RECHARGE_CHILIBEAN_LV3_SUCCEED_CONTENT]
-三阶巴豆
-	   
-[GEMS_RESTORE_CODE_RECHARGE_JALAPENO_LV3_SUCCEED_CONTENT]
-三阶火爆辣椒
-	   
+Kroton, Level 3
+
+[GEMS_RESTORE_CODE_RECHARGE_JALA PENO_LV3_SUCCEED_CONTENT]
+Scharfe Paprika, Level 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SQUASH_LV3_SUCCEED_CONTENT]
-三阶窝瓜
-	   
+Level 3 Gurke
+
 [GEMS_RESTORE_CODE_RECHARGE_IMITATER_LV3_SUCCEED_CONTENT]
-三阶变身茄子
-	   
+Verwandelte Aubergine (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_PEASHOOTER_LV3_SUCCEED_CONTENT]
-三阶豌豆射手
-	   
+Erbsenkanone (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_POTATOMINE_LV3_SUCCEED_CONTENT]
-三阶土豆地雷
-	   
+Kartoffelmine (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_WALLNUT_LV3_SUCCEED_CONTENT]
-三阶坚果
-	   
+Walnuss (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_REPEATER_LV3_SUCCEED_CONTENT]
-三阶双重射手
-	   
+Doppelt (Level 3) Shooter
+
 [GEMS_RESTORE_CODE_RECHARGE_THREEPEATER_LV3_SUCCEED_CONTENT]
-三阶三重射手
-	   
+Dreifach-Shooter (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_TALLNUT_LV3_SUCCEED_CONTENT]
-三阶高坚果
-	   
-[GEMS_RESTORE_CODE_RECHARGE_BLOOMERANG_LV3_SUCCEED_CONTENT]
-三阶回旋镖射手
-	   
+Große Nuss (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_BLOOME RANG_LV3_SUCCEED_CONTENT]
+Bumerang-Shooter (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_BONKCHOY_LV3_SUCCEED_CONTENT]
-三阶菜问
-	   
+Kohlkrug (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_CABBAGEPULT_LV3_SUCCEED_CONTENT]
-三阶卷心菜投手
-	   
+Kohl (Level 3) Krug
+
 [GEMS_RESTORE_CODE_RECHARGE_SNOWPEA_LV3_SUCCEED_CONTENT]
-三阶寒冰射手
-	   
+Eiswerfer, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_KERNELPULT_LV3_SUCCEED_CONTENT]
-三阶玉米投手
-	   
+Maiskrug, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_POWERLILY_LV3_SUCCEED_CONTENT]
-三阶能量花
-	   
+Energieblume, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SNAPDRAGON_LV3_SUCCEED_CONTENT]
-三阶火龙草
-	   
+Feuerdrachengras, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEWEED_LV3_SUCCEED_CONTENT]
-三阶地刺
-	   
+Erde, Stufe 3 Stachel
+
 [GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV3_SUCCEED_CONTENT]
-三阶椰子加农炮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_LV3_SUCCEED_CONTENT]
-三阶闪电芦苇
-	   
+Kokosnusskanone, Stufe 3
+
+[GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV3_SUCCEED_CONTENT] CHARGE_LIGHTNINGREED_LV3_SUCCEED_CONTENT]
+Blitzrohr, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV3_SUCCEED_CONTENT]
-三阶钢地刺
-	   
+Stahlstachel, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SPLITPEA_LV3_SUCCEED_CONTENT]
-三阶双向射手
-	   
+Zwei-Wege-Shooter, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SPRINGBEAN_LV3_SUCCEED_CONTENT]
-三阶弹簧豆
-	   
+Feder, Stufe 3 Bohne
+
 [GEMS_RESTORE_CODE_RECHARGE_MELONPULT_LV3_SUCCEED_CONTENT]
-三阶西瓜投手
-	   
+Wassermelonenkrug (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_PEAPOD_LV3_SUCCEED_CONTENT]
-三阶豌豆荚
-	   
+Erbsenschote (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_WINTERMELON_LV3_SUCCEED_CONTENT]
-三阶冰西瓜投手
-	   
+Eiswassermelonenkrug (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_TURNIP_LV3_SUCCEED_CONTENT]
-三阶白萝卜
-	   
+Weißer Rettich (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_FIREGOURD_LV3_SUCCEED_CONTENT]
-三阶火葫芦
-	   
-[GEMS_RESTORE_CODE_RECHARGE_PEACH_LV3_SUCCEED_CONTENT]
-三阶仙桃
-	   
+Feuerkürbis (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_WINTERMELON_LV3_SUCCEED_CONTENT]
+Level 3 Eiswassermelonenkrüge
+
+[GEMS_RESTORE_CODE_RECHARGE_TURNIP_LV3_SUCCEED_CONTENT]
+Weißer Rettich (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_FIREGOURD_LV3_SUCCEED_CONTENT]
+Feuerkürbis (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_WINTERMELON_LV3_SUCCEED_CONTENT] [GEMS_RESTORE_CODE_RECHARGE_PEACH_LV3_SUCCEED_CONTENT]
+Unsterblicher Pfirsich (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_BAMBOO_LV3_SUCCEED_CONTENT]
-三阶竹笋
-	   
+Bambussprossen (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_LASER_BEAN_LV3_SUCCEED_CONTENT]
-三阶激光豆
-	   
+Laser (Level 3) Bohne
+
 [GEMS_RESTORE_CODE_RECHARGE_BLOVER_LV3_SUCCEED_CONTENT]
-三阶三叶草
-	   
+Kleeblatt Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_CITRON_LV3_SUCCEED_CONTENT]
-三阶充能柚子
+Grapefruit aufladen Stufe 3
 	   
 [GEMS_RESTORE_CODE_RECHARGE_EMPEA_LV3_SUCCEED_CONTENT]
-三阶脉冲黄桃
-	   
+Gelber Pfirsich dritter Ordnung
+
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_LV3_SUCCEED_CONTENT]
-三阶全息坚果
-	   
+Holografische Nuss dritter Ordnung
+
 [GEMS_RESTORE_CODE_RECHARGE_MAGNIFYINGGRASS_LV3_SUCCEED_CONTENT]
-三阶棱镜草
-	   
+Prismengras dritter Ordnung
+
 [GEMS_RESTORE_CODE_RECHARGE_POWERPLANT_LV3_SUCCEED_CONTENT]
-三阶瓷砖萝卜
-	   
+Karotte dritter Ordnung
+
 [GEMS_RESTORE_CODE_RECHARGE_STARFRUIT_LV3_SUCCEED_CONTENT]
-三阶星星果
-	   
-[GEMS_RESTORE_CODE_RECHARGE_CARROTLAUNCHER_LV3_SUCCEED_CONTENT]
-三阶胡萝卜导弹车
-	   
+Sternfrucht dritter Ordnung ... DE_RECHARGE_CARROTLAUNCHER_LV3_SUCCEED_CONTENT]
+Stufe 3 Karotten-Raketenwagen
+
 [GEMS_RESTORE_CODE_RECHARGE_PUFFSHROOM_LV3_SUCCEED_CONTENT]
-三阶小喷菇
-	   
+Kleiner Puffpilz, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_FUMESHROOM_LV3_SUCCEED_CONTENT]
-三阶大喷菇
-	   
+Großer Puffpilz, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_HYPNOSHROOM_LV3_SUCCEED_CONTENT]
-三阶魅惑菇
-	   
+Zauberpilz, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SUNSHROOM_LV3_SUCCEED_CONTENT]
-三阶阳光菇
+Sonnenpilz, Stufe 3
 
-[GEMS_RESTORE_CODE_RECHARGE_SUNBEAN_LV3_SUCCEED_CONTENT]
-三阶阳光豆
-	   
+[GEMS_RESTORE_CODE_RECHARGE_ SUNBEAN_LV3_SUCCEED_CONTENT]
+Sonnenpilz, Stufe 3 Bohne
+
 [GEMS_RESTORE_CODE_RECHARGE_PEANUT_LV3_SUCCEED_CONTENT]
-三阶花生射手
-	   
-[GEMS_RESTORE_CODE_RECHARGE_MAGNETSHROOM_LV3_SUCCEED_CONTENT]
-三阶磁力菇
-	   
-[GEMS_RESTORE_CODE_RECHARGE_STREETLAMP_LV3_SUCCEED_CONTENT]
-三阶路灯花
-	   
-[GEMS_RESTORE_CODE_RECHARGE_COFFEEBEAN_LV3_SUCCEED_CONTENT]
-三阶咖啡豆
-	   
-[GEMS_RESTORE_CODE_RECHARGE_ICESHROOM_LV3_SUCCEED_CONTENT]
-三阶寒冰菇
-	   
-[GEMS_RESTORE_CODE_RECHARGE_FIRESHROOM_LV3_SUCCEED_CONTENT]
-三阶烈焰菇
-	   
-[GEMS_RESTORE_CODE_RECHARGE_OAKSHOOTER_LV3_SUCCEED_CONTENT]
-三阶橡木弓手
-	   
-[GEMS_RESTORE_CODE_RECHARGE_BROCCOLI_LV3_SUCCEED_CONTENT]
-三阶大力花菜
-	   
-[GEMS_RESTORE_CODE_RECHARGE_PAMEGRANATE_LV3_SUCCEED_CONTENT]
-三阶机枪石榴
-	   
-[GEMS_RESTORE_CODE_RECHARGE_CHOMPER_LV3_SUCCEED_CONTENT]
-三阶大嘴花 
-	   
-[GEMS_RESTORE_CODE_RECHARGE_LILYPAD_LV3_SUCCEED_CONTENT]
-三阶莲叶
-	   
-[GEMS_RESTORE_CODE_RECHARGE_BOWLINGBULB_LV3_SUCCEED_CONTENT]
-三阶保龄泡泡
-	   
-[GEMS_RESTORE_CODE_RECHARGE_BANANA_LV3_SUCCEED_CONTENT]
-三阶香蕉火箭炮
-	   
-[GEMS_RESTORE_CODE_RECHARGE_GUACODILE_LV3_SUCCEED_CONTENT]
-三阶鳄梨
-	   
-[GEMS_RESTORE_CODE_RECHARGE_TANGLEKELP_LV3_SUCCEED_CONTENT]
-三阶缠绕水草 
-	   
-[GEMS_RESTORE_CODE_RECHARGE_HOMINGTHISTLE_LV3_SUCCEED_CONTENT]
-三阶导向蓟
-	   
-[GEMS_RESTORE_CODE_RECHARGE_SWEETPOTATO_LV3_SUCCEED_CONTENT]
-三阶甜薯
-	   
-[GEMS_RESTORE_CODE_RECHARGE_LOTUSSHOWER_LV3_SUCCEED_CONTENT]
-三阶莲小蓬
-	   
-[GEMS_RESTORE_CODE_RECHARGE_LEMON_LV3_SUCCEED_CONTENT]
-三阶强酸柠檬
-	   
-[GEMS_RESTORE_CODE_RECHARGE_GHOSTPEPPER_LV3_SUCCEED_CONTENT]
-三阶幽灵辣椒
-	   
-[GEMS_RESTORE_CODE_RECHARGE_CRACKER_LV3_SUCCEED_CONTENT]
-三阶竹员外
-	   
-[GEMS_RESTORE_CODE_RECHARGE_HURRIKALE_LV3_SUCCEED_CONTENT]
-三阶飓风甘蓝
-	   
-[GEMS_RESTORE_CODE_RECHARGE_FIREPEASHOOTER_LV3_SUCCEED_CONTENT]
-三阶火焰豌豆
-	   
-[GEMS_RESTORE_CODE_RECHARGE_HOTPOTATO_LV3_SUCCEED_CONTENT]
-三阶烤马铃薯
-	   
-[GEMS_RESTORE_CODE_RECHARGE_PEPPERPULT_LV3_SUCCEED_CONTENT]
-三阶辣椒投手
+Erdnuss-Shooter (Level 3)
 
-[GEMS_RESTORE_CODE_RECHARGE_CHARDGUARD_LV3_SUCCEED_CONTENT]
-三阶甜菜护卫
-	   
+[GEMS_RESTORE_CODE_RECHARGE_MAGNETSHROOM_LV3_SUCCEED_CONTENT]
+Magnetpilz (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_STREETLAMP_LV3_SUCCEED_CONTENT]
+Straßenlaternenblume (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_COFFEEBEAN_LV3_SUCCEED_CONTENT]
+Kaffeebohne (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_ICESHROOM_LV3_SUCCEED_CONTENT]
+Eispilz (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_FIRESHROOM_LV3_SUCCEED_CONTENT]
+Level Flammenpilz (3)
+
+[GEMS_RESTORE_CODE_RECHARGE_OAKSHOOTER_LV3_SUCCEED_CONTENT]
+Eichenbogenschütze (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_BROCCOLI_LV3_SUCCEED_CONTENT]
+Brokkoli (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_PAMEGRANATE_LV3_SUCCEED_CONTENT]
+Maschinengewehr-Granatapfel (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_CHOMPER_LV3_SUCCEED_CONTENT]
+Großmaulblume (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_LILYPAD_LV3_SUCCEED_CONTENT]
+Lotus (Stufe 3) Pad
+
+[GEMS_RESTORE_CODE_RECHARGE_BOWLINGBULB_LV3_SUCCEED_CONTENT]
+Bowling-Blase, Level 3
+
+[GEMS_RESTORE_CODE_RECHARGE_BANANA_LV3_SUCCEED_CONTENT]
+Bananenrakete, Level 3
+
+[GEMS_RESTORE_CODE_RECHARGE_GUACODILE_LV3_SUCCEED_CONTENT]
+Avocado, Level 3
+
+[GEMS_RESTORE_CODE_RECHARGE_TANGLEKELP_LV3_SUCCEED_CONTENT]
+Verworrene Wasserpflanze, Level 3
+
+[GEMS_RESTORE_CODE_RECHARGE_HOMINGTHISTLE_LV3_SUCCEED_CONTENT]
+Heimdistel, Level 3
+
+[GEMS_RESTORE_CODE_RECHARGE_SWEETPOTATO_LV3_SUCCEED_CONTENT]
+Level Süßkartoffel (3)
+
+[GEMS_RESTORE_CODE_RECHARGE_LOTUSSHOWER_LV3_SUCCEED_CONTENT]
+Lotus-Puff (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECH ARGE_LEMON_LV3_SUCCEED_CONTENT]
+Zitrone (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_GHOSTPEPPER_LV3_SUCCEED_CONTENT]
+Geisterpfeffer (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_CRACKER_LV3_SUCCEED_CONTENT]
+Bambus (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_HURRIKALE_LV3_SUCCEED_CONTENT]
+Hurrikanwind (Stufe 3) Kohl
+
+[GEMS_RESTORE_CODE_RECHARGE_FIREPEASHOOTER_LV3_SUCCEED_CONTENT]
+Feuererbse (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_HOTPOTATO_LV3_SUCCEED_CONTENT]
+Ofenkartoffel (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_PEPPERPULT_LV3_SUCCEED_CONTENT]
+Pfefferkrug (Level 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_PEPPERPULT_LV3_SUCCEED_CONTENT] HARGE_CHARDGUARD_LV3_SUCCEED_CONTENT]
+Rübenwächter (Level 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_STUNION_LV3_SUCCEED_CONTENT]
-三阶眩晕洋葱
-	   
+Betäubung (Level 3) Zwiebel
+
 [GEMS_RESTORE_CODE_RECHARGE_XSHOT_LV3_SUCCEED_CONTENT]
-三阶旋转芜菁
-	   
+Rotierende Rübe, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_ACORN_LV3_SUCCEED_CONTENT]
-三阶旋风橡果
+Zyklon-Eichel, Stufe 3
 	   
 [GEMS_RESTORE_CODE_RECHARGE_RAFFLESIA_LV3_SUCCEED_CONTENT]
-三阶大王花
-	   
+Rafflesia, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_CHESTNUT_LV3_SUCCEED_CONTENT]
-三阶板栗小队
-	   
+Kastanien-Trupp, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SUGARCANE_LV3_SUCCEED_CONTENT]
-三阶竹小弟
-	   
+Bambusmann, Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_ROSESWORDMAN_LV3_SUCCEED_CONTENT]
-三阶玫瑰剑客
-	   
-[GEMS_RESTORE_CODE_RECHARGE_MAGICSHROOM_LV3_SUCCEED_CONTENT]
-三阶魔术菇
-	   
+Rosenschwertkämpfer, Stufe 3
+
+[GEMS_RESTORE_CODE_RECHARGE_ROSESWORDMAN_LV3_SUCCEED_CONTENT] E_CODE_RECHARGE_MAGICSHROOM_LV3_SUCCEED_CONTENT]
+Magie dritter Ordnung Pilz
+
 [GEMS_RESTORE_CODE_RECHARGE_DOUBLESAMARA_LV3_SUCCEED_CONTENT]
-三阶旋涡枇杷
-	   
+Whirlpool-Mispel dritter Ordnung
+
 [GEMS_RESTORE_CODE_RECHARGE_ASPARAGUS_LV3_SUCCEED_CONTENT]
-三阶芦笋战机
-	   
+Spargelkämpfer dritter Ordnung
+
 [GEMS_RESTORE_CODE_RECHARGE_ANTHURIUM_LV3_SUCCEED_CONTENT]
-三阶电离红掌
-	   
-[GEMS_RESTORE_CODE_RECHARGE_HORSEBEAN_LV3_SUCCEED_CONTENT]
-三阶豌豆突击队
-	   
+Ionisierte Anthurie dritter Ordnung
+
+[GEMS_RESTORE_CODE_R ECHARGE_HORSEBEAN_LV3_SUCCEED_CONTENT]
+Erbsenkommando Stufe 3
+
 [GEMS_RESTORE_CODE_RECHARGE_SAUCER_LV3_SUCCEED_CONTENT]
-三阶飞碟瓜
-	   
+Untertasse Stufe 3 Melone
+
 [GEMS_RESTORE_CODE_RECHARGE_SAPFLING_LV3_SUCCEED_CONTENT]
-三阶树脂投手
-	   
+Harzkrug (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_DANDELION_LV3_SUCCEED_CONTENT]
-三阶蒲公英
-	   
-[GEMS_RESTORE_CODE_RECHARGE_GROUNDCHERRY_LV3_SUCCEED_CONTENT]
-三阶灯笼草
-	   
+Löwenzahn (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_GROUNDCHE RRY_LV3_SUCCEED_CONTENT]
+Laternengras (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_ELECTRICBLUEBERRY_LV3_SUCCEED_CONTENT]
-三阶电击蓝莓
-	   
+Elektrische Blaubeere (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_BIRTHSUNFLOWER_LV3_SUCCEED_CONTENT]
-三阶向日葵歌手
-	   
+Sonnenblume (Stufe 3) Sängerin
+
 [GEMS_RESTORE_CODE_RECHARGE_GREENTURNIP_LV3_SUCCEED_CONTENT]
-三阶捣蛋萝卜
-	   
-[GEMS_RESTORE_CODE_RECHARGE_ENDURIAN_LV3_SUCCEED_CONTENT]
-三阶榴莲
-	   
+Rettich (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_ENDU RIAN_LV3_SUCCEED_CONTENT]
+Durian (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV3_SUCCEED_CONTENT]
-三阶棉小雪
-	   
+Schneebaumwolle (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_GOLDLEAF_LV3_SUCCEED_CONTENT]
-三阶金叶子
-	   
+Blattgold (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_AKEE_LV3_SUCCEED_CONTENT]
-三阶阿开木
-	   
-[GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV3_SUCCEED_CONTENT]
-三阶红针花
-	   
+Akaimu (Stufe 3)
+
+[GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV3_SUCCEED_CONTENT ENT]
+Rote Nadelblume (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_STALLIA_LV3_SUCCEED_CONTENT]
-三阶大丽菊
-	   
+Dahlie (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_LAVAGAUVA_LV3_SUCCEED_CONTENT]
-三阶番石榴
-	   
+Guave (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_TOADSTOOL_LV3_SUCCEED_CONTENT]
-三阶金蟾菇
-	   
+Goldkrötenpilz (Stufe 3)
+
 [GEMS_RESTORE_CODE_RECHARGE_AGAVE_LV3_SUCCEED_CONTENT]
-三阶龙舌兰
-	   
-[GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV3_SUCCEED_CONTENT]
-三阶菠萝蜜
-	   
+Agave (Stufe 3)
+
+[GEMS_ RESTORE_CODE_RECHARGE_JACKFRUIT_LV3_SUCCEED_CONTENT]
+Dritte Stufe Jackfrucht
+
 [GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV3_SUCCEED_CONTENT]
-三阶猕猴桃
+Kiwifrucht dritter Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_DRAGONFRUIT_LV3_SUCCEED_CONTENT]
-三阶火龙果
-	   
+Drachenfrucht dritter Stufe
+
 [GEMS_RESTORE_CODE_RECHARGE_PUMPKINWITCH_LV3_SUCCEED_CONTENT]
-三阶南瓜巫师
-	   
+Kürbiszauberer dritter Stufe
+
 [GEMS_RESTORE_CODE_RECHARGE_PINEAPPLE_LV3_SUCCEED_CONTENT]
-三阶旋转菠萝
-	   
+Rotierende Ananas dritter Ordnung
+
 [GEMS_RESTORE_CODE_RECHARGE_PUMPKINWITCH_LV0_SUCCEED_CONTENT]
-一阶南瓜巫师加装扮
-	   
+Kürbiszauberer erster Ordnung plus Kostüm
+
 [GEMS_RESTORE_CODE_RECHARGE_PINEAPPLE_LV0_SUCCEED_CONTENT]
-一阶旋转菠萝加装扮
+Rotierendes Ananas-Plus-Kostüm der ersten Bestellung
 
 [PLANT_BAG_PLANT_GET_TITLE]
-你得到了礼包
+Du hast eine Geschenktüte erhalten.
 
 [PLANT_BAG_PLANT_VIEW]
-点击查看所获得的礼包
+Klicke hier, um die erhaltene Geschenktüte anzuzeigen.
 
 [PLANT_BAG_PLANT_TITLE]
-植物礼包
+Pflanzen-Geschenktüte
 
 [PLANT_BAG_PLANT_OPEN_BUTTOM]
-立即打开
+Jetzt öffnen
 
 [PLANT_BAG_REWARD]
-累计充值满1000元，即可获得。
+Holen Sie sich dieses Geschenkpaket, wenn Sie 1.000 Yuan aufgeladen haben.
 
 [PLANT_BAG_REWARD_TIPS]
-累计充值满10元，即获赠植物礼包
-（随机获得一棵强力植物）！
+Holen Sie sich ein Pflanzen-Geschenkpaket, wenn Sie 10 Yuan aufgeladen haben
+(Eine mächtige Pflanze wird zufällig erhalten)!
 
 [PLANT_BAG_REWARD_TIPS_QQ]
-累计充值满10元，即获赠植物礼包
-（随机获得一棵强力植物）！
+Holen Sie sich ein Pflanzen-Geschenkpaket, wenn Sie 10 Yuan aufgeladen haben
+(Eine mächtige Pflanze wird zufällig erhalten)!
 
 [PLANT_BAG_REWARD_COINS]
-由于您已经获得了所有商店中的植物，奖励您60000金币！
+Da Sie alle Pflanzen im Shop gesammelt haben, erhalten Sie 60.000 Goldmünzen!
 
 [PLANT_BAG_PLANT_INTRO_INFO]
-随机获得一棵超值植物！
+Holen Sie sich zufällig eine wertvolle Pflanze!
 
 [CHANGE_SPEED_TUTORIAL]
-试试加速功能!速战速决击败僵尸!
+Probiere die Beschleunigungsfunktion aus! Besiege die Zombies im Handumdrehen!
 
 [CHNAGE_SPEED_TIPS]
-累计充值满20元，即可无限使用关卡加速功能！
+Wenn du insgesamt 20 Yuan auflädst, kannst du die Beschleunigungsfunktion unbegrenzt nutzen!
 
 [CHNAGE_SPEED_TIPS_QQ]
-累计充值满20元，即可无限使用关卡加速功能！
+Wenn du insgesamt 20 Yuan auflädst, kannst du die Beschleunigungsfunktion unbegrenzt nutzen!
 
 [BUTTON_RECHARGE_NOW]
-立即充值
+Jetzt aufladen
 
 [RECHARGE_GET_VIP_TITLE]
-充值即享特权
+Genieße Privilegien nach dem Aufladen
 
 [BUY_PLANT_TITLE]
-植物碎片不足
+Nicht genügend Pflanzenfragmente
 
 [PLANT_PIECE]
-植物碎片
+Pflanzenfragmente
 
 [PLANT_AVATAR_PIECE]
-装扮碎片
+Kleidfragmente
 
 [PLANT_AVATAR_UNLOCKED]
-您已拥有该装扮
+Du besitzt dieses Kleid bereits.
 
 [BUY_PLANT_DESC]
-尚未集齐该植物的全部碎片，现有碎片^00FF00 {NEED_COUNT}/{MAX_COUNT} ^oldclr，是否补足？
+Du hast noch nicht alle Fragmente dieser Pflanze gesammelt. Die vorhandenen Fragmente sind ^00FF00 {NEED_COUNT}/{MAX_COUNT} ^oldclr. Möchtest du sie auffüllen?
 
 [BUY_PLANT_BUY]
-补足
+Erneuern
 
 [BUY_AVATAR_TITLE]
-植物装扮碎片不足
+Nicht genügend Pflanzenkostümfragmente
 
 [BUY_AVATAR_DESC]
-尚未集齐该植物装扮的全部碎片，现有碎片^00FF00 {NEED_COUNT}/{MAX_COUNT} ^oldclr，是否补足？
+Es wurden noch nicht alle Fragmente des Pflanzenkostüms gesammelt. Die vorhandenen Fragmente sind ^00FF00 {NEED_COUNT}/{MAX_COUNT} ^oldclr. Möchtest du nachrüsten?
 
 [BUY_GACHA_TITLE]
-钥匙不足
+Nicht genügend Schlüssel
 
 [BUY_GACHA_DESC]
-您的钥匙数量不足，是否希望购买^00FF00 {KEY_COUNT}枚 ^oldclr 钥匙开启宝藏？
+Du hast nicht genügend Schlüssel. Möchtest du ^00FF00 {KEY_COUNT} ^oldclr Schlüssel kaufen, um den Schatz zu öffnen?
 
 [DATA_ERROR_HEADER]
-数据异常
+Datenfehler
 
 [DIA_FAKE_SAVE_WARNING]
-监测到存档数据异常，系统已将异常数据清除!
+Es wurde eine Anomalie in den gespeicherten Daten festgestellt. Das System hat diese gelöscht!
 
 [DIA_FAKE_SAVE_WARNING_301]
-监测到存档数据异常，系统已将异常数据清除!
-<Error Code : 301>
+Es wurde eine Anomalie in den gespeicherten Daten festgestellt. Das System hat diese gelöscht!
+<Fehlercode: 301>
 
 [DIA_FAKE_SAVE_WARNING_302]
-监测到存档数据异常，系统已将异常数据清除!
-<Error Code : 302>
+Es wurde eine Anomalie in den gespeicherten Daten festgestellt. Das System hat diese gelöscht!
+<Fehlercode: 302>
 
 [DATA_ERROR_CONTENT]
-监测到外挂程序导致的数据异常，请重新启动游戏
+Es wurde eine vom Plug-in-Programm verursachte Datenanomalie festgestellt. Bitte starte das Spiel neu.
 
 [NEED_CONNTECT_INTERNET_FOR_RECHARGE_CHECK_HEAD]
-更新失败
+Update fehlgeschlagen
 
 [NEED_CONNTECT_INTERNET_FOR_RECHARGE_CHECK_TEXT]
-无法获得更新信息。
-请检查你的网络状态以确保游戏能正常更新。
+Update-Informationen konnten nicht abgerufen werden.
+Bitte überprüfe deinen Netzwerkstatus, um sicherzustellen, dass das Spiel normal aktualisiert werden kann.
 
 [SUN_FROM_FRIEND_TITLE]
-好友阳光
+Freundes Sonnenschein
 
 [FRIEND_TIME_HOUR]
-%d小时
+%d Stunden
 
 [FRIEND_TIME_MIN_SECOND]
 %02d:%02d
 
 [WE_CHAT_SHARE]
-分享
+Teilen
 
 [GOTO_NEW_WORLD]
-前往新世界
+Besuche die neue Welt
 
 [SHARE_GET_AWARD]
-获得新物品
+Holt euch neue Items
 
 [SHARE_GET_STAR]
-获得星星
+Holt euch Sterne
 
 [SHARE_UNLOCK_NEW_WORLD]
-解锁新世界
+Schaltet die neue Welt frei
 
 [SHARE_TO_QQ]
-分享到QQ好友
+Mit QQ-Freunden teilen
 
 [SHARE_TO_WECHAT_FRIEND]
-分享到好友
+Mit Freunden teilen
 
 [SHARE_TO_WECHAT_ZONE]
-分享到朋友圈
+Mit Moments teilen
 
 [SHARE_CANCLE]
-取消
+Abbrechen
 
 [CONNECTING]
-与服务器通讯
+Mit dem Server kommunizieren
 
 [SYNCING]
-同步存档中
+Spielstände werden synchronisiert
 
 [SYNCING_FAILED_TITLE]
-存档同步失败
+Synchronisierung der Spielstände fehlgeschlagen
 
 [SYNCING_FAILED_TEXT]
-必须同步成功后才能进入游戏，请确保网络连接正常，点击“确定”重试。
+Die Synchronisierung muss erfolgreich sein, bevor Sie das Spiel starten können. Bitte stellen Sie sicher, dass die Netzwerkverbindung normal ist, und klicken Sie auf „OK“, um es erneut zu versuchen.
 
 [SYNCING_WAITING_TITLE]
-等待同步存档
+Warte auf Synchronisierung der Spielstände
 
 [SYNCING_WAITING_TEXT]
-等待同步存档中，请确保网络连接正常。
+Warte auf Synchronisierung der Spielstände. Bitte stellen Sie sicher, dass die Netzwerkverbindung normal ist.
 
 [NET_CONNECTING]
-服务器通讯中...
+Kommunikation mit dem Server läuft...
 
 [NET_CONNECTING_DOWNLOAD]
-关卡下载中...
+Level wird heruntergeladen...
 
 [NET_CONNECTING_FETCHING]
-关卡恢复中...
+Level wird wiederhergestellt...
 
 [NET_CONNECTING_SAVING]
-保存中...
+Speichern...
 
 [NET_CONNECTING_NEW_PVP_QUERY_PLAYER]
-等待其他玩家...
+Warte auf andere Spieler...
 
 [NET_CONNECTING_NEW_PVP_QUERY_PLAYER_MATCHING]
-搜索其他玩家...
+Suche nach anderen Spielern...
 
 [DIALOG_WAITING]
 Warten
@@ -9884,197 +9900,195 @@ Du hast ein Geschenk erhalten
 Du hast
 
 [LOTTERY_RESULT_1]
-^00e46e 5钻石
+^00e46e 5 Diamanten
 
 [LOTTERY_RESULT_2]
-^00e46e 50钻石
+^00e46e 50 Diamanten
 
 [LOTTERY_RESULT_3]
-^00e46e 500钻石
+^00e46e 500 Diamanten
 
 [LOTTERY_RESULT_4]
-^00e46e 500金币
+^00e46e 500 Gold
 
 [LOTTERY_RESULT_5]
-^00e46e 2000金币
+^00e46e 2000 Gold
 
 [LOTTERY_RESULT_6]
-^00e46e 10000金币
+^00e46e 10000 Gold
 
 [LOTTERY_RESULT_7]
-^00e46e 豌豆荚碎片
+^00e46e Erbsenschotenfragment
 
 [LOTTERY_RESULT_8]
-^00e46e 椰果加农炮碎片
+^00e46e Kokosnusskanonenfragment
 
 [LOTTERY_RESULT_9]
-^00e46e 变身茄子碎片
+^00e46e Verwandelte Aubergine Fragment
 
 [LOTTERY_RESULT_10]
-^00e46e 分支钥匙x1
+^00e46e Filialschlüssel x1
 
 [LOTTERY_RESULT_11]
-^00e46e 分支钥匙x2
+^00e46e Filialschlüssel x2
 
 [LOTTERY_RESULT_12]
-^00e46e 分支钥匙x3
+^00e46e Filialschlüssel x3
 
 [LOTTERY_TIMES_RESULT_1]
-恭喜你！获得了首次抽奖的奖励：
-^00e46e 5000金币 ^oldclr 
+Herzlichen Glückwunsch! Du hast den ersten Preis der Ziehung gewonnen:
+^00e46e 5000 Goldmünzen ^oldclr
 
-你好厉害哟，累计抽奖更多次数将获得更好的奖励！
+Du bist großartig! Je mehr du ziehst, desto bessere Preise erhältst du!
 
 [LOTTERY_TIMES_RESULT_2]
-恭喜你！获得了5次抽奖的奖励：
-^00e46e 所有世界支线钥匙*3 ^oldclr 
+Herzlichen Glückwunsch! Du hast den Preis für 5 Ziehungen gewonnen:
+^00e46e Alle Welt-Filialschlüssel*3 ^oldclr
 
-这下不愁开门了！
+Jetzt musst du dir keine Sorgen mehr machen, die Tür zu öffnen!
 
 [LOTTERY_TIMES_RESULT_3]
-恭喜你！获得了10次抽奖的奖励：
-^00e46e 20000金币 ^oldclr 
+Herzlichen Glückwunsch! Belohnung für 10 Ziehungen erhalten:
+^00e46e 20.000 Goldmünzen ^oldclr
 
-有钱打雪人了吧！
+Jetzt hast du genug Geld, um Schneemänner zu bauen!
 
 [LOTTERY_TIMES_RESULT_4]
-恭喜你！获得了20次抽奖的奖励：
-^00e46e 50钻石 ^oldclr 
+Herzlichen Glückwunsch! Belohnung für 20 Ziehungen erhalten:
+^00e46e 50 Diamanten ^oldclr
 
-天呐你真有毅力！
+Oh mein Gott, du bist so hartnäckig!
 
 [LOTTERY_TIMES_RESULT_5]
-恭喜你！获得了30次抽奖的奖励：
-^00e46e 50000金币 ^oldclr
+Herzlichen Glückwunsch! Belohnung für 30 Ziehungen erhalten:
+^00e46e 50.000 Goldmünzen ^oldclr
 
-高端洋气上档次的植物不是梦！
+Hochwertige und stilvolle Pflanzen sind kein Traum!
 
 [LOTTERY_TIMES_RESULT_6]
-恭喜你！获得了50次抽奖的奖励：
-^00e46e 100钻石 ^oldclr
+Herzlichen Glückwunsch! Belohnung für 50 Ziehungen erhalten:
+^00e46e 100 Diamanten ^oldclr
 
-神呐你是作弊的吧？
+Oh mein Gott, betrügst du?
 
 [NARRATIVE_ON_LOTTERY_1]
-{NPC_ENTER:crazydaveicon}{SAY}你今天的抽奖次数已经用完了，请明天再来吧！
+{NPC_ENTER:crazydaveicon}{SAY}Du hast deine Ziehungschance heute vertan. Versuche es bitte morgen noch einmal!
 
 [NARRATIVE_SERVER_ERROR_1]
-{NPC_ENTER:crazydaveicon}{SAY}连接失败，请检查你的网络设置！
+{NPC_ENTER:crazydaveicon}{SAY}Verbindung fehlgeschlagen. Bitte überprüfe deine Netzwerkeinstellungen!
 
 [NARRATIVE_TACTICAL_CUKE_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}数据显示，现在是使用秘密武器的最佳时机。
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Daten zeigen, dass jetzt der beste Zeitpunkt ist, Geheimwaffen einzusetzen.
 
 [NARRATIVE_TACTICAL_CUKE_INTRO_2]
-{EXCITED:crazydave}这些战术黄瓜送你了，别问为什么，因为我疯了~！！
+{EXCITED:crazydave}Diese taktischen Gurken sind für dich. Frag nicht warum, ich bin nämlich verrückt!
 
 [NARRATIVE_EAT_PLANTFOOD_INTRO_1]
-{NPC_ENTER:crazydave}{SAY: crazydave }我们来试试卷心菜投手吃了能量豆会怎样！
+{NPC_ENTER:crazydave}{SAY: crazydave}Lass uns ausprobieren, was passiert, wenn der Kohlkrug die Energiebohnen isst!
 
 [NARRATIVE_USE_PLANTFOOD_INTRO_1]
-{NPC_ENTER:winnie}{SAY:winnie}干得漂亮！太华丽了！我们继续前进吧！
+{NPC_ENTER:winnie}{SAG:winnie}Super gemacht! Super! Weiter geht's!
 
 [NARRATIVE_EAT_PLANTFOOD1_INTRO_1]
-{NPC_ENTER:crazydave}{SAY: crazydave }我们来试试仙人掌吃了能量豆会怎样！
+{NPC_ENTER:crazydave}{SAG: crazydave}Mal sehen, was passiert, wenn ein Kaktus Energiebohnen frisst!
 
 [NARRATIVE_USE_PLANTFOOD1_INTRO_1]
-{NPC_ENTER:winnie}{SAY:winnie}干得漂亮！太华丽了！我们继续前进吧！
+{NPC_ENTER:winnie}{SAG:winnie}Super gemacht! Super! Weiter geht's!
 
 [TACTICAL_CUKE_ADVICE_USE_PLANTFOOD]
-在新植物上使用能量豆看看会有什么惊喜！
+Verwende Energiebohnen für neue Pflanzen und lass dich überraschen!
 
 [TACTICAL_CUKE_ADVICE_AT_LAST]
-如果事态紧急，记得使用战术黄瓜来解围！
+Wenn es dringend wird, vergiss nicht, taktische Gurken zu verwenden!
 
 [TACTICAL_CUKE_ADVICE_FIRST_TIME]
-你现在可以使用战术黄瓜来解围了！
+Du kannst jetzt taktische Gurken einsetzen!
 
 [STAR_PLANT_DESC_1]
-你收集
+Du hast
 
 [STAR_PLANT_DESC_2]
-{STAR_COUNT}颗，获得了{PLANT_NAME}！
+{STAR_COUNT} Stücke gesammelt und {PLANT_NAME} erhalten!
 
 [STAR_PLANT_TITLE]
-集齐星星获得新植物！
+Sammle alle Sterne, um eine neue Pflanze zu erhalten!
 
 [STAR_PLANT_TO_PIECES_TITLE]
-已经拥有该植物，获得等额碎片
+Du hast diese Pflanze bereits? Erhalte die gleiche Anzahl an Stücken.
 
 [NOTICE_JOIN]
-参加活动
+Nehme am Event teil.
 
 [NOTICE_CONTENT_FIRST]
-亲爱的玩家：
+Liebe Spieler:
 
-戴夫为了神奇的玉米卷来到了传说中的失落之城！在这块被诅咒的大地上，各路宝藏猎人都无一幸免地成为了僵尸。
+Dave kam wegen der magischen Tacos in die legendäre Verlorene Stadt! In diesem verfluchten Land sind alle Schatzsucher zu Zombies geworden.
 
-【失落之城 遗迹探险】
-太阳伞僵尸免疫抛射，向导僵尸会开启暗道。
-飞行员僵尸从天而降，考古僵尸远距离攻击。
-魔高一尺，道高一丈，植物军团也有了新的小伙伴！
-金蟾菇能吞僵尸产阳光，大丽菊擅长群体缓速。
-菠萝蜜可以封装暗道，红针   具备三种形态。
+[Erkundung der Ruinen der Verlorenen Stadt]
+Sonnenschirm-Zombies sind immun gegen Projektile, und Führer-Zombies können Geheimgänge öffnen.
+Pilot-Zombies fallen vom Himmel, und Archäologische Zombies greifen aus der Ferne an.
+Der Teufel ist 30 cm hoch, und der Weg ist 3 Meter hoch. Auch die Pflanzenarmee hat neue Freunde!
+Der Goldene Krötenpilz kann Zombies verschlucken, um Sonnenlicht zu erzeugen, und Dahlie kann Gruppen gut verlangsamen.
+Jackfrucht kann Geheimgänge versiegeln, und Rote Nadel hat drei Formen.
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_0 align=center width=1016 height=320>
 
-【花园大战 一触即发】
-全新PvP功能已经开启。 现在来玩PvP，每次获胜将得到10钻奖励，一天最多获得50钻！
-更有精彩PvP每日成就活动供您挑战，稀有植物碎片等你来领！
+[Gartenkriege beginnen bald]
+Die neue PvP-Funktion wurde aktiviert. Spiele jetzt PvP und erhalte 10 Diamanten für jeden Sieg und maximal 50 Diamanten pro Tag!
+Es gibt außerdem spannende tägliche PvP-Erfolgsaktivitäten, die du meistern kannst, und seltene Pflanzenfragmente warten darauf, von dir eingesammelt zu werden!
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_4 align=center width=1016 height=320>
 
-【六重好礼 喜迎新春】
-2月1日-2月15日点爆竹即可抽取春节限定植物，玩元宝大作战赢红包
-2月7日-2月22日免费猜灯谜赢红包
-2月1日-2月11日充值即能砸金蛋抽好奖
-2月12日-2月22日充值即有大返利
-2月1日-2月22日充值就有免费大礼包
+[Sechs Geschenke zum Neujahrsfest]
+Zünden Sie vom 1. bis 15. Februar Knallkörper an, um limitierte Frühlingsfestpflanzen zu gewinnen, und spielen Sie Yuanbao-Kampf, um rote Umschläge zu gewinnen.
+Lösen Sie vom 7. bis 22. Februar kostenlos Laternenrätsel, um rote Umschläge zu gewinnen.
+Laden Sie vom 1. bis 11. Februar auf, um goldene Eier zu zerschlagen und tolle Preise zu gewinnen.
+Laden Sie vom 12. bis 22. Februar auf, um tolle Rabatte zu erhalten.
+Laden Sie vom 1. bis 22. Februar auf, um kostenlose Geschenkpakete zu erhalten.
 <image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
 
-【签到植物 惊喜连连】
-2月新植物猕猴桃粉墨登场，坚持签到即可获得二阶植物与丰厚钻石奖励！
+[Melden Sie sich für Pflanzen an, Überraschungen nacheinander]
+Die neue Kiwi-Pflanze steht auf der Bühne in Februar. Meldet euch weiterhin an, um Pflanzen der zweiten Stufe und großzügige Diamantenbelohnungen zu erhalten!
 
-——小豌豌
+——Little Pea
 
 [NOTICE_CONTENT_FIRST_LABORDAY]
-亲爱的各位玩家：
+Liebe Spieler:
 
-《植物大战僵尸2》迎五一最新版本与大家见面啦！
-小豌豌也拿出了最棒的宝贝来回馈大家！
+Die neueste Version von „Plants vs. Zombies 2“ ist zum 1. Mai da!
+Little Pea hat außerdem die besten Schätze für euch herausgesucht!
 
-【新 ^ff0000^ 装扮 ^oldclr^ 限时购买】
-冰冻生菜 ^ff0000^ 装扮 ^oldclr^ -装备后就能发射水晶子弹，威力同豌豆射手喔~
-三重射手 ^ff0000^ 装扮 ^oldclr^ -装备后大招获得双倍爆发力！
-樱桃炸弹 ^ff0000^ 装扮 ^oldclr^ -装备后炸死僵尸获得额外阳光！
+[Neues ^ff0000^ Kostüm ^oldclr^ Zeitlich begrenzter Kauf]
+Gefrorener Salat ^ff0000^ Kostüm ^oldclr^ – Nach dem Ausrüsten könnt ihr Kristallkugeln mit der gleichen Kraft wie der Erbsenschütze abfeuern.
+Dreifachschütze ^ff0000^ Kostüm ^oldclr^ – Nach dem Ausrüsten erhält der ultimative Zug die doppelte Sprengkraft!
+Kirschbombe ^ff0000^ Kostüm ^oldclr^ – Nach dem Ausrüsten könnt ihr Zombies töten, um zusätzliches Sonnenlicht zu erhalten!
 
-以上 ^ff0000^ 装扮 ^oldclr^ 仅售7天（5月1日-5月7日），逾期不候喔~
-友情提示：大家记得要先获得植物才能戴上 ^ff0000^ 装扮 ^oldclr^ 哟~
+Das oben genannte ^ff0000^ Kostüm ^oldclr^ ist nur 7 Tage lang (1. bis 7. Mai) erhältlich und wird nach Ablauf der Frist nicht mehr verfügbar sein.
 
-【每天一款特价礼包】
-5月1日 冰西瓜+高坚果
-5月2日 双重射手 ^ff0000^ 装扮 ^oldclr^ +菜问 ^ff0000^ 装扮 ^oldclr^ 
-5月3日 椰子加农炮+椰子加农炮 ^ff0000^ 装扮 ^oldclr^ 
-5月4日 豌豆荚+豌豆荚 ^ff0000^ 装扮 ^oldclr^ 
-5月5日 闪电芦苇+火炬树桩
-5月6日 火葫芦+仙桃
-5月7日 玉米投手+玉米投手 ^ff0000^ 装扮 ^oldclr^ 
+Freundliche Erinnerung: Denkt daran, zuerst die Pflanze zu besorgen, bevor ihr das ^ff0000^ Kostüm ^oldclr^ anzieht.
 
-超值组合礼包每天一换，商城限时礼包等着你喔！
-                                       
-									        小豌豌
-	
+[Jeden Tag ein besonderes Geschenkpaket]
+1. Mai: Eiswassermelone + Große Nüsse
+2. Mai: Doppelschützen-^ff0000^ Kostüm ^oldclr^ + Caiwen-^ff0000^ Kostüm ^oldclr^
+3. Mai: Kokosnusskanone + Kokosnusskanone-^ff0000^ Kostüm ^oldclr^
+4. Mai: Erbsenschote + Erbsenschote-^ff0000^ Kostüm ^oldclr^
+5. Mai: Blitzrohr + Fackelstumpf
+6. Mai: Feuerkürbis + Feenpfirsich
+7. Mai: Maiskrug + Maiskrug ^ff0000^ Outfit ^oldclr^
+
+Die supergünstigen Kombinations-Geschenkpakete wechseln täglich, und die zeitlich begrenzten Geschenkpakete warten auf dich!
+
+Little Pea
+
 [NOTICE_CONTENT_FIRST_DEVIL_COMING]
-亲爱的植物小伙伴们，
-       功夫世界迎来史无前例的重大更新！
-       众所期待的功夫世界下半段已经开放！准备好你最强大的植物阵容吧，因为无比强大的持刀大侠和他的兄弟火药魔头将驻扎在功夫世界的后期等待你的挑战！
-       同时，僵尸博士也趁乱登场！在新开放的每日挑战中，你将遭遇僵尸博士，难度将一次比一次猛烈！击败他可以获得最新的五大植物装扮，而这些新装扮也将给植物带来前所未有的新能力！
-       新BOSS，新关卡，新植物装扮，海量新内容，还等什么，快快进入游戏体验吧！
+Liebe Pflanzenfreunde,
+Kung Fu World hat ein beispielloses, großes Update eingeläutet!
 
+Die mit Spannung erwartete zweite Hälfte von Kung Fu World ist eröffnet! Bereite deine mächtigste Pflanzenaufstellung vor, denn der extrem mächtige, messerschwingende Held und sein Bruder, der Schießpulverdämon, warten im späteren Level von Kung Fu World auf deine Herausforderung!
+
+Gleichzeitig nutzte Dr. Zombie das Chaos für seinen Auftritt! In der neu eröffneten täglichen Herausforderung triffst du auf Dr. Zombie, und der Schwierigkeitsgrad wird jedes Mal höher! Wenn du ihn besiegst, erhältst du die fünf neuesten Pflanzenkostüme, die Pflanzen außerdem beispiellose neue Fähigkeiten verleihen!
+Neue BOSS, neue Level, neue Pflanzenkostüme, riesige neue Inhalte – worauf wartet ihr noch? Stürzt euch ins Spielerlebnis!
 
 [NOTICE_CONTENT_FIRST_QQ]
-亲爱的植物小伙伴们， 
-    疯狂戴夫已经穿越到中国来啦，大波功夫僵尸磨刀霍霍向你的脑子袭来！ 
-    与此同时，我们为大家准备了更加刺激的每日挑战，觉得僵尸还不够厉害？远古的巨人僵尸已经被召唤！每次只打败一个雪人僵尸不过瘾？我们有雪人大暴走，大批马年雪人僵尸向你袭来！
-    全新植物装扮系统已经上线！给植物们穿上新的服饰，除了更华丽，还能解锁新的植物技能！而每天击败巨人，就能获得这些宝贵的奖品！
-    全新功夫植物，全新玩法闪亮登场！和戴夫一起种下植物，体验全新的游戏欢乐吧！ 
+Liebe Pflanzenfreunde, Crazy Dave ist nach China gereist, und eine riesige Welle von Kung-Fu-Zombies wetzt ihre Messer, um euer Gehirn anzugreifen! Gleichzeitig haben wir weitere spannende tägliche Herausforderungen für euch vorbereitet. Denkt ihr, Zombies sind nicht mächtig genug? Die uralten Riesenzombies wurden beschworen! Reicht es euch nicht, jedes Mal nur einen Schneemann-Zombie zu besiegen? Wir veranstalten einen Schneemann-Amoklauf, und im Jahr des Pferdes kommen eine große Anzahl von Schneemann-Zombies auf euch zu! Das neue Pflanzen-Verkleidungssystem ist jetzt online! Verkleidet Pflanzen in neue Kostüme, macht sie nicht nur prächtiger, sondern schaltet auch neue Pflanzenfähigkeiten frei! Und ihr könnt diese wertvollen Preise gewinnen, indem ihr täglich Riesen besiegt! Brandneue Kung-Fu-Pflanzen und eine brandneue Spielweise sind da! Pflanzen Sie mit Dave Pflanzen und erleben Sie die Freude an einem brandneuen Spiel!
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
 Alter Fortschritt ausgewählt
@@ -10180,46 +10194,46 @@ Bitte besuche deinen App Store, um die offizielle Version herunterzuladen und da
 Start nicht möglich
 
 [DANGERROOM_CLOSED]
-可能是网络故障，或者无尽模式已经结束
+Möglicherweise liegt ein Netzwerkfehler vor oder der Endlosmodus wurde beendet.
 
 [NETWORK_NOT_CONNECTED_ON_FIRST_LOGIN]
-提示：新版本第一次进入游戏需要读取网络数据，请打开网络连接。
+Tipp: Die neue Version muss beim ersten Spielstart Netzwerkdaten lesen. Bitte öffne die Netzwerkverbindung.
 
 [RECHARGE_REWARD_TITLE]
-充值{RECHARGE_COUNT}元奖励
+Lade {RECHARGE_COUNT} Yuan Belohnung auf.
 
 [RECHARGE_REWARD_PLANT_PIECES]
-恭喜你获得了樱桃炸弹碎片x30，立刻升级去感受他更加强大的威力吧！
+Herzlichen Glückwunsch zu 30 Kirschbombenfragmenten. Upgrade sofort, um ihre noch größere Kraft zu erleben!
 
 [RECHARGE_REWARD_BAG]
-恭喜你获得随机植物礼包！
+Herzlichen Glückwunsch zu einer zufälligen Pflanzen-Geschenktüte!
 
 [RECHARGE_REWARD_COIN]
-恭喜你开启双倍金币奖励！过关后的金币收入将会翻倍！
+Herzlichen Glückwunsch zur doppelten Goldmünzen-Belohnung! Die Goldmünzen-Einnahme nach Abschluss des Levels wird verdoppelt!
 
 [RECHARGE_REWARD_LOTTERY]
-恭喜你开启每日2次幸运转盘功能！
+Herzlichen Glückwunsch zum zweimal täglichen Glücksrad-Gewinn!
 
 [RECHARGE_REWARD_SPEEDUP]
-恭喜你开启游戏内2倍速功能，赶紧进入游戏内体验吧！
+Herzlichen Glückwunsch zur Aktivierung der 2x-Beschleunigungsfunktion im Spiel. Jetzt spielen und erleben!
 
 [RECHARGE_REWARD_BOMB]
-恭喜你获得樱桃炸弹！进入游戏感受它的威力吧！
+Herzlichen Glückwunsch zur Kirschbombe! Jetzt spielen und ihre Kraft spüren!
 
 [RECHARGE_PIECE]
-恭喜你获得樱桃炸弹碎片x30！立刻升级来增强它的威力吧！
+Herzlichen Glückwunsch zu 30 Kirschbombenstücken! Jetzt upgraden, um ihre Kraft zu steigern!
 
 [RECHARGE_REWARD_PLANT_SELECT_PURPLE_3_1]
-植物三选一
+Wähle eine von drei Pflanzen.
 
 [RECHARGE_REWARD_PLANT_SELECT_PURPLE_3_1_DES]
-恭喜你获得了累充奖励！赶紧选择一颗植物吧！
+Herzlichen Glückwunsch zur kumulativen Aufladebelohnung! Wähle jetzt eine Pflanze!
 
 [RECHARGE_REWARD_PLANT_SELECT_ORANGE_3_1]
-植物三选一
+Wähle eine von drei Pflanzen.
 
 [RECHARGE_REWARD_PLANT_SELECT_ORANGE_3_1_DES]
-恭喜你获得了累充奖励！赶紧选择一颗植物吧！
+Herzlichen Glückwunsch zum Erhalt der kumulativen Aufladebelohnung! Wähle jetzt eine Pflanze!
 
 [RECHARGE]
 Aufladen
@@ -10832,16 +10846,16 @@ Körnerpult-Outfit
 Karotten-Outfit
 
 [DANDELION_AVATAR_NAME]
-Löwenzahnkleid
+Pusteblume kleid
 
 [BROCCOLI_AVATAR_NAME]
-Blumenkohlkleid
+Brokkoli kleid
 
 [PAMEGRANATE_AVATAR_NAME]
 Granatapfelkleid
 
 [PUFFSHROOM_AVATAR_NAME]
-Kleiner Sprühpilz Kleid
+Pustepilz Kleid
 
 [FUMESHROOM_AVATAR_NAME]
 Stinkpilz kleid
@@ -10868,7 +10882,7 @@ Eispilz-Kostüm
 Feuerpilz-Kostüm
 
 [OAKSHOOTER_AVATAR_NAME]
-Eichenbogenschützen-Kostüm
+Eichenbogenschütze-Kostüm
 
 [CHOMPER_AVATAR_NAME]
 Schnapper-Kostüm
@@ -10877,7 +10891,7 @@ Schnapper-Kostüm
 Süßkartoffel-Kostüm
 
 [LILYPAD_AVATAR_NAME]
-Lotusblatt-Kleid
+Seerosenblatt-Kleid
 
 [BOWLINGBULB_AVATAR_NAME]
 Bowling-Kleid
@@ -10889,7 +10903,7 @@ Bananen-Kleid
 Guakodil-Kleid
 
 [TANGLEKELP_AVATAR_NAME]
-Wasserpflanzen-Kleid
+Schlingtang-Kleid
 
 [HOMINGTHISTLE_AVATAR_NAME]
 Lenkdistel Kleid
@@ -10931,7 +10945,7 @@ Saftling-Outfit
 Feuer-Erbsenkanone Outfit
 
 [PEPPERPULT_AVATAR_NAME]
-Pfefferkrug-Outfit
+Paprikapult-Outfit
 
 [CHARDGUARD_AVATAR_NAME]
 Mangold-Mangler-Outfit
@@ -11026,319 +11040,321 @@ Zeitreisende Zombiekönig-Herausforderung
 Pflanzenabenteuer
 
 [PLANT_ADVENTURE_FINISHED_FAILED]
-网络不给力哦，请重新联网后再试
+Netzwerkfehler. Bitte versuchen Sie es nach Wiederherstellung der Verbindung erneut.
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED]
-通关{DUNGEON}后开启
+Öffnen nach Abschluss von {DUNGEON}
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED_HARD]
-通关{DUNGEON}^FF0000 困难模式^oldclr 后开启
+Öffnen nach Abschluss von {DUNGEON}^FF0000 Schwerer Modus^oldclr
 
 [PLANT_ADVENTURE_UNCONNECTED]
-尚未联网
+Noch keine Netzwerkverbindung.
 
 [PLANT_ADVENTURE_UNINITED]
-存档出错
+Fehler beim Speichern der Datei.
 
 [PLANT_ADVENTURE_INTUTORIAL]
-貌似很久……
+Es scheint lange zu dauern ...
 
 [INTRO_PLANTADVENTURE_START]
-点击开始按钮可以配置的植物小队
+Klicken Sie auf die Schaltfläche „Start“, um das Pflanzenteam zu konfigurieren.
 
 [INTRO_PLANTADVENTURE_SKIP]
-消耗钻石可以让你的小队立刻完成探险。
-第一次就算免费赠送吧。
+Sie können Diamanten verwenden, um die Expedition sofort abzuschließen.
+
+Zum ersten Mal kostenlos.
 
 [INTRO_PLANTADVENTURE_AUTO]
-点击这里可以快速自动配置小队
+Klicke hier, um das Team schnell und automatisch zu konfigurieren.
 
 [INTRO_PLANTADVENTURE_BEGIN]
-队伍配置完成后就可以开始探险了
+Nachdem die Teamkonfiguration abgeschlossen ist, kannst du das Abenteuer beginnen.
 
 [INTRO_PLANTADVENTURE_FINISH]
-快去看看你的植物小队为你带回了什么战利品吧！
+Sieh dir an, welche Beute dein Pflanzenteam für dich mitgebracht hat!
 
 [PLANT_ADVENTURE_CLOSED]
-植物探险尚未开启
+Pflanzenabenteuer ist noch nicht geöffnet.
 
 [PLANT_ADVENTURE_GO]
-前往探险
+Zum Abenteuer
 
 [PLANT_ADVENTURE_OPENED_TITLE]
-探险区域开启
+Abenteuerbereich ist geöffnet.
 
 [PLANT_ADVENTURE_DUNGEON_TEAM_COUNT]
-空闲小队：{ILDE}/{MAX}
+Leeres Team: {ILDE}/{MAX}
 
 [PLANT_ADVENTURE_DUNGEON_TITLE]
-探险：{DUNGEON}
+Abenteuer: {DUNGEON}
 
 [PLANT_ADVENTURE_DUNGEON_AWARD]
-可能获得：
+Mögliche Belohnung:
 
 [PLANT_ADVENTURE_DUNGEON_TIME]
-探险时间：
+Abenteuerzeit:
 
 [PLANT_ADVENTURE_DUNGEON_CHANCES_LEFT]
-剩余次数：{CHANCES}
+Verbleibende Zeit: {CHANCES}
 
 [PLANT_ADVENTURE_DUNGEON_TIME_LEFT]
-剩余时间：
+Verbleibende Zeit:
 
 [PLANT_ADVENTURE_DUNGEON_START]
-开 始
+Starten
 
 [PLANT_DAVECLUB_PARTIN]
-去参加
+Teilnehmen
 
 [PLANT_SEVENDAYSLOGIN_AWARD]
-领取
+Hol es dir!
 
 [PLANT_ADVENTURE_DUNGEON_SUSPEND]
-中 止
+Stoppen
 
 [PLANT_ADVENTURE_DUNGEON_SKIP]
-立即完成
+Jetzt abschließen
 
 [PLANT_ADVENTURE_OPENED_HINT]
-恭喜您成功通过了^FF0000 植物碎片关卡^oldclr ，
-现在可以^3DA538 派出植物小队^oldclr 对这里进行^FF0000 探险^oldclr 了。
+Herzlichen Glückwunsch zum erfolgreichen Abschluss des ^FF0000 Pflanzenfragment-Levels^oldclr.
+Jetzt kannst du hier ^3DA538 ein Pflanzenteam ^oldclr zum ^FF0000 Erkunden schicken^oldclr.
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_TEXT]
-本周水晶：
+Kristall dieser Woche:
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_LIMIT_TEXT]
-已达上限
+Limit erreicht.
 
 [PLANT_ADVENTURE_BONUS_AD_BEFORE_WATCH]
-观看广告，可翻倍领取奖励
-剩余次数：
+Sieh dir die Anzeige an, um die Belohnung zu verdoppeln.
+Verbleibende Male:
 
 [PLANT_ADVENTURE_BONUS_AD_AFTER_WATCH]
-恭喜您已经获得翻倍奖励
-剩余次数：
+Herzlichen Glückwunsch, du hast die Belohnung verdoppelt.
+Verbleibende Male:
 
 [PLANT_ADVENTURE_BONUS_TITLE]
-探险完成
+Expedition abgeschlossen
 
 [PLANT_ADVENTURE_BONUS_HINT]
-植物们成功从^00FF00 {DUNGEON}^oldclr 探险归来，
-经过艰苦的战斗，他们找到了一些有价值的东西。
+Die Pflanzen sind erfolgreich von der ^00FF00 {DUNGEON}^oldclr-Expedition zurückgekehrt.
+Nach einem harten Kampf haben sie etwas Wertvolles gefunden.
 
 [PLANT_ADVENTURE_BONUS_BUTTON_SURPRISE]
-意外发现
+Überraschungsfund
 
 [PLANT_ADVENTURE_BONUS_BUTTON_FINISHED]
-完成探险
+Abenteuer abgeschlossen
 
 [PLANT_ADVENTURE_SURPRISE_TITLE]
-意外发现
+Überraschungsfund
 
 [PLANT_ADVENTURE_SURPRISE_HINT]
-报告！我们在探险时遇到了一名商人，潘妮表示他手里的袋子里有我们想要的东西！
+Bericht! Wir sind während unserer Expedition einem Händler begegnet, und Penny meinte, er hätte etwas in seiner Tasche, das wir brauchten!
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_GIVEUP]
-忍痛放弃
+Schmerzensreich aufgeben
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_OPEN]
-.. {GEMS} 开启
+.. {GEMS} geöffnet
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_FREE]
-免费开启
+Kostenlos öffnen
 
 [PLANT_ADVENTURE_CONFIRM_BUY_PLANT_SPIRIT_TILE]
-植物精力不足
+Pflanzenenergie nicht ausreichend
 
 [PLANT_ADVENTURE_CONFIRM_BUY_PLANT_SPIRIT_DES]
-您的植物小队中尚有植物未恢复到精力饱满的状态，消耗{GEMS}钻石可以购买恢复药剂，是否购买？
+Dein Pflanzenteam hat noch Pflanzen, die ihre volle Energie nicht wiederhergestellt haben. Du kannst Erholungstränke für {GEMS} Diamanten kaufen. Möchtest du sie kaufen?
 
 [PLANT_ADVENTURE_AUTO_PLANT_FAILED]
-抱歉，您当前的可用植物不能满足探险条件
+Entschuldige, deine aktuell verfügbaren Pflanzen erfüllen die Expeditionsbedingungen nicht.
 
 [PLANT_ADVENTURE_SKIP_TITLE]
-立即完成？
+Sofort abschließen?
 
 [PLANT_ADVENTURE_SKIP_TITLE_DES]
-是否花费^ff0000 {GEMS}钻石^oldclr 或^ff0000 观看广告^oldclr 来帮助你的植物立刻完成当前的探险任务？
+Möchtest du ^ff0000 {GEMS} Diamanten^oldclr oder ^ff0000 für Werbung^oldclr ausgeben, um deinen Pflanzen zu helfen, die aktuelle Abenteueraufgabe sofort abzuschließen?
 
 [PLANT_ADVENTURE_FREESKIP_TITLE_DES]
-是否使用月卡权限立即免费完成当前的探险任务？
+Möchtest du die Monatskarte nutzen, um die aktuelle Abenteueraufgabe sofort kostenlos abzuschließen?
 
 [PLANT_ADVENTURE_ADD_CHANCE_BOTH_TITLE_DES]
-是否花费^ff0000 {GEMS}钻石^oldclr 或^ff0000 观看广告^oldclr 来增加一次探险次数？
+Möchtest du ^ff0000 {GEMS} Diamanten^oldclr oder ^ff0000 für Werbung^oldclr ausgeben, um die Anzahl der Abenteuer zu erhöhen?
 
 [PLANT_ADVENTURE_ADD_CHANCE_AD_TITLE_DES]
-是否^ff0000 观看广告^oldclr 来增加一次探险次数？
+Möchtest du ^ff0000 für Werbung^oldclr ausgeben, um die Anzahl der Abenteuer zu erhöhen?
 
 [PLANT_ADVENTURE_ADD_CHANCE_GEM_TITLE_DES]
-是否花费^ff0000 {GEMS}钻石^oldclr 来增加一次探险次数？
+Möchtest du ^ff0000 {GEMS} Diamanten^oldclr ausgeben, um eine weitere Expedition hinzuzufügen?
 
 [PLANT_ADVENTURE_ADD_CHANCE_TITLE]
-增加次数？
+Anzahl erhöhen?
 
 [PLANT_ADVENTURE_FREESKIP_TITLE_DES_FAILED_TITLE]
-月卡免费立即完成失败
+Monatskarte sofort kostenlos abschließen fehlgeschlagen
 
 [PLANT_ADVENTURE_FREESKIP_TITLE_DES_FAILED]
-可能是网络错误，或者月卡已过期。
-请在地图上查看月卡状态，或者等网络恢复后重试。
+Möglicherweise liegt ein Netzwerkfehler vor oder die Monatskarte ist abgelaufen.
+Bitte überprüfe den Status der Monatskarte auf der Karte oder versuche es erneut, nachdem die Netzwerkverbindung wiederhergestellt ist.
 
 [PLANT_ADVENTURE_SUSPEND_TITLE]
-取消探险
+Expedition abbrechen
 
 [PLANT_ADVENTURE_SUSPEND_TITLE_DES]
-植物小队已经出发，现在中止将无法获得任何奖励 ，确认需要中止探险吗？
+Das Pflanzenteam ist aufgebrochen. Wenn du jetzt abbrichst, erhältst du keine Belohnungen. Bist du sicher, dass du die Expedition abbrechen möchtest?
 
 [PLANT_ADVENTURE_BUY_PLANT_SPIRIT]
-买买买
+Kaufen, kaufen, kaufen
 
 [PLANT_ADVENTURE_BUY_PLANT_SKIP]
-立即完成
+Jetzt abschließen
 
 [PLANT_ADVENTURE_SUSPEND]
-我要取消
+Ich möchte abbrechen
 
 [PLANT_ADVENTURE_NOT_BUTTON]
-我再想想
+Ich denke darüber nach
 
 [PLANT_ADVENTURE_TEAMEDITOR_NEEDPLANTS]
-需要植物：{PLANTS}棵
+Benötigte Pflanzen: {PLANTS}
 
 [PLANT_ADVENTURE_TEAMEDITOR_PLANTTYPE]
-植物特征：
+Pflanzenmerkmale:
 
-[PLANT_ADVENTURE_TEAMEDITOR_AUTO_BUTTON]
-自动选择
+[PLANT_ADVENTURE_TEAMEDITOR_AUTO_BUT TON]
+Automatische Auswahl
 
 [PLANT_ADVENTURE_TEAMEDITOR_START_BUTTON]
-开始探险
+Abenteuer starten
 
 [ADVENTURE_FLAGS_DES_PRODUCT]
-生产植物x1
+Produktionsanlage x1
 
 [ADVENTURE_FLAGS_DES_ATTACK]
-攻击植物x1
+Angriffsanlage 1 x
 
 [ADVENTURE_FLAGS_DES_DEFENCE]
-防御植物x1
+Verteidigungspflanze 1 x
 
 [ADVENTURE_FLAGS_DES_SKILL]
-功能植物x1
+Fähigkeitspflanze 1 x
 
 [ADVENTURE_FLAGS_DES_BOMB]
-爆炸植物x1
+Sprengpflanze 1 x
 
 [ADVENTURE_FLAGS_DES_WATER]
-水生植物x1
+Wasserpflanze 1 x
 
+[ADVENTURE_FLAGS_DES_WATER]
 [ADVENTURE_FLAGS_DES_SKY]
-空中植物x1
+Himmelspflanze 1 x
 
 [ADVENTURE_FLAGS_DES_RED]
-红色植物x1
+Rote Pflanze 1 x
 
 [ADVENTURE_FLAGS_DES_GREEN]
-绿色植物x1
+Grüne Pflanze 1 x
 
 [ADVENTURE_FLAGS_DES_YELLOW]
-黄色植物x1
+Gelbe Pflanze 1 x
 
 [ADVENTURE_FLAGS_DES_BLACK]
-黑色植物x1
+Schwarze Pflanze 1 x
 
 [ADVENTURE_FLAGS_DES_BLUE]
-蓝色植物x1
+Blaue Pflanze 1 x
 
 [ADVENTURE_FLAGS_DES_BROWN]
-褐色植物x1
+Braune Pflanze 1 x
 
 [ADVENTURE_FLAGS_DES_WHITE]
-白色植物x1
+Weiße Pflanze 1 x
 
-[ADVENTURE_FLAGS_DES_ORANGE]
-橙色植物x1
+[ADVENTURE_FLAGS_DES_WHITE] [TURE_FLAGS_DES_ORANGE]
+Orange Pflanze 1 x
 
 [ADVENTURE_FLAGS_DES_PURPLE]
-紫色植物x1
+Lila Pflanze 1 x
 
 [ADVENTURE_FLAGS_DES_LEVEL2]
-二阶植物x1
+Pflanze Stufe 2 1 x
 
 [ADVENTURE_FLAGS_DES_LEVEL3]
-三阶植物x1
+Pflanze Stufe 3 1 x
 
 [ADVENTURE_FLAGS_DES_LEVEL4]
-四阶植物x1
+Pflanze Stufe 4 1 x
 
 [ADVENTURE_FLAGS_DES_SHORT]
-矮个子x1
+Kleiner Junge 1 x
 
 [ADVENTURE_FLAGS_DES_GAGTOOTH]
-龅牙小子x1
+Bucktooth Junge 1 x
 
 [ADVENTURE_FLAGS_DES_AHOGE]
-呆毛x1
+Ahoge x1
 
 [ADVENTURE_FLAGS_DES_OLD]
-老当益壮x1
+Alt, aber stark x1
 
 [ADVENTURE_FLAGS_DES_FIREBOMB]
-满腹怒火x1
+Voller Wut x1
 
 [ADVENTURE_FLAGS_DES_ILLLOOKING]
-面恶心善x1
+Ekelhaft, aber freundlich x1
 
 [ADVENTURE_FLAGS_DES_SHROOM]
-蘑菇家族x1
+Pilzfamilie x1
 
 [ADVENTURE_FLAGS_DES_FLY]
-飞行植物x1
+Fliegende Pflanze x1
 
 [ADVENTURE_FLAGS_DES_MAGE]
-神秘法师x1
+Mystischer Magier x1
 
 [ADVENTURE_FLAGS_DES_ELECTRIC]
-十万伏特x1
+Hunderttausend Volt x1
 
 [ADVENTURE_FLAGS_DES_AQUATIC]
-水生植物x1
+Wasserpflanze x1
 
 [ADVENTURE_FLAGS_DES_FIRMTEETH]
-伶牙俐齿x1
+Scharfe Zähne x1
 
 [ADVENTURE_FLAGS_DES_PEA]
-豌豆家族x1
+Erbsenbohnenfamilie x1
 
 [ADVENTURE_FLAGS_DES_WEAPON]
-武器家族x1
+Waffenfamilie x1
 
 [ADVENTURE_FLAGS_DES_BROTHERS]
-兄弟成群x1
+Brüder x1
 
 [ADVENTURE_FLAGS_DES_ROTATION]
-旋风家族x1
+Wirbelwindfamilie x1
 
 [ADVENTURE_FLAGS_DES_SUN]
-无尽阳光x1
+Endloser Sonnenschein x1
 
 [ADVENTURE_FLAGS_DES_TALL]
-高个子x1
+Groß x1
 
 [ADVENTURE_FLAGS_DES_PEANUT]
-攻守兼备x1
+Offensiv und defensiv x1
 
 [ADVENTURE_FLAGS_DES_BURN]
-浑身浴火x1
+In Flammen brennend x1
 
 [ADVENTURE_FLAGS_DES_ET]
-外星人x1
+Alien x1
 
 [ADVENTURE_FLAGS_DES_TWINS]
-双胞兄弟x1
+Zwillingsbrüder x1
 
 [ADVENTURE_FLAGS_DES_KONGFU]
-武艺高强x1
+Kampfkunstfertigkeiten x1
 
 [ADVENTURE_FLAGS_UNACHIVED_COLOR_PRE]
 ^FF0000 
@@ -11458,101 +11474,97 @@ Schaden Reduzierung
 Nicht genug Hammer
 
 [CHRISTMAS_GOLDEN_EGG_NOT_ENOUGH_HAMMER]
-没有足够的锤子，是否充值获取更多锤子？
+Ich habe nicht genug Hämmer. Möchtest du sie aufladen, um mehr Hämmer zu bekommen?
 
 [CHRISTMAS_GOLDEN_EGG_NOT_ENOUGH_HAMMER_LEFT]
-没有足够的锤子，现在充值也无法获得更多的锤子了，明天再来吧。
+Ich habe nicht genug Hämmer. Du kannst jetzt keine weiteren Hämmer durch Aufladen bekommen. Komm morgen wieder.
 
 [NARRATIVE_KONGFU_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}啊，这里是功夫世界，我要看气功表演！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Ah, das ist die Welt des Kung Fu. Ich möchte die Qigong-Vorstellung sehen!
 
 [NARRATIVE_KONGFU_INTRO_FIRSTLEVEL_2]
-{SAY:winnie}数据显示，会武术的僵尸危险系数提升2倍
+{SAY:winnie}Daten zeigen, dass Zombies, die Kampfkunst beherrschen, doppelt so gefährlich sind.
 
 [NARRATIVE_KONGFU_INTRO_FIRSTLEVEL_3]
-{SAY:crazydave}还要小心那些兵器架，好像僵尸特别喜欢拿上面的东西！
+{SAY:crazydave}Auch Vorsicht vor den Waffenständern! Zombies scheinen sich dort gerne Dinge zu stehlen!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL6_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}为什么功夫世界里会有抱着炸弹的僵尸？
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Warum halten Zombies in der Kung-Fu-Welt Bomben?
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL6_2]
-{SAY:winnie}因为探测仪发现附近有大量爆炸物，小心被点燃的引线！
+{SAY:winnie}Weil der Detektor in der Nähe viel Sprengstoff gefunden hat, sei vorsichtig mit der brennenden Zündschnur!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL6_3]
-{SAY:crazydave}要是我一定在场地上种满冰冻生菜，那才疯狂！
-
+{SAY:crazydave}Wenn ich das ganze Feld mit gefrorenem Salat bepflanzen müsste, wäre das verrückt!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL9_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}探测仪检测到时空黑洞正在形成！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Der Detektor hat die Entstehung eines Raum-Zeit-Schwarzen Lochs registriert!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL9_2]
-{SAY:crazydave}哇呀，我们的植物都会被吸进去的！
-
+{SAY:crazydave}Wow, unsere Pflanzen werden eingesaugt!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL14_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}黑洞，我讨厌时空黑洞！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Schwarzes Loch, ich hasse Raum-Zeit-Schwarze Löcher!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL14_2]
-{SAY:winnie}数据显示有一种神秘的功夫世界植物可以抵挡时空黑洞。
+{SAY:winnie}Daten zeigen, dass es eine mysteriöse Kung-Fu-Weltpflanze gibt, die Raum-Zeit-Schwarzen Löchern widerstehen kann.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL14_3]
-{SAY:crazydave}我知道，但是还有许多兵器架要对付！
-
+{SAY:crazydave}Ich weiß, aber es gibt noch viele Waffenständer, mit denen ich mich auseinandersetzen muss!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL15_1]
-{NPC_ENTER:crazydave}{SPECIAL7}哼哼哈兮，我要学双节棍！
+{NPC_ENTER:crazydave}{SPECIAL7}Hey, ich möchte Nunchakus lernen!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL15_2]
-{NPC_ENTER:winnie}{TIRED}{START_DIALOG_MUSIC}数据显示一大波功夫僵尸正在逼近
+{NPC_ENTER:winnie}{MÜDE}{START_DIALOG_MUSIC}Den Daten zufolge nähert sich eine große Welle von Kung-Fu-Zombies.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL15_3]
-{NPC_ENTER:crazydave}{SPECIAL8}不怕，我们的功夫植物比它们更疯狂！
-
+{NPC_ENTER:crazydave}{SPECIAL8}Keine Sorge, unsere Kung-Fu-Pflanzen sind noch verrückter!
 
 [NARRATIVE_KONGFU_OUTRO_KONGFU_LEVEL15_1]
-{NPC_ENTER:winnie}{TIRED}{START_DIALOG_MUSIC}这里的功夫世界僵尸已经被清空了。
+{NPC_ENTER:winnie}{MÜDE}{START_DIALOG_MUSIC}Die Kung-Fu-Welt-Zombies wurden hier besiegt.
 
 [NARRATIVE_KONGFU_OUTRO_KONGFU_LEVEL15_2]
-{NPC_ENTER:crazydave}{SPECIAL8}我相信不久的将来，还会有更加强大的功夫世界僵尸出现的，让我们出发！
+{NPC_ENTER:crazydave}{SPECIAL8}Ich glaube, dass es in naher Zukunft noch mächtigere Kung-Fu-Welt-Zombies geben wird. Los geht's!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL31_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}听说用冰冻类植物可以灭火！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Ich habe gehört, dass man mit gefrorenen Pflanzen Feuer löschen kann!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL31_2]
-{SAY:winnie}确保拥有足够数量的冰冻生菜或者冰豌豆。
+{SAY:winnie}Stell sicher, dass du genügend gefrorenen Salat oder gefrorene Erbsen hast.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL32_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}我恨那些架着火把的兵器架！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Ich hasse diese Waffenständer mit Fackeln drauf!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL32_2]
-{SAY:winnie}如果我们有火葫芦，就能有效清理兵器架了。
+{SAY:winnie}Wenn wir einen Feuerkürbis hätten, könnten wir die Waffenständer effizienter aufräumen.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL33_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}哇呀呀，这些烧着的引线让我发疯！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Wow, diese brennenden Zündschnüre machen mich wahnsinnig!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL33_2]
-{SAY:winnie}数据显示戴夫需要一个冰西瓜才能满意。
+{SAY:winnie}Die Daten zeigen, dass Dave eine gefrorene Wassermelone braucht, um satt zu sein.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL34_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}分析显示白萝卜的根很深，所以能抵御黑洞的吸收。
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Analysen zeigen, dass Rettich tiefwurzelnd ist und daher der Absorption durch Schwarze Löcher widerstehen kann.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL34_2]
-{SAY:crazydave}我知道，但是我的白萝卜不见了！
+{SAY:crazydave}Ich weiß, aber mein Rettich ist weg!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL35_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}探测仪显示时空黑洞的威胁级别正在提升。
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Der Detektor zeigt, dass die Bedrohung durch das Raum-Zeit-Schwarze Loch zunimmt.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL35_2]
-{SAY:crazydave}我再也不吃玉米卷了，我要白萝卜！！
+{SAY:crazydave}Ich will keine Maisbrötchen mehr, ich will weißen Rettich!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL36_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}警报，前方出现目前为止最大黑洞。
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Achtung, das bisher größte schwarze Loch taucht vor dir auf.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL36_2]
-{SAY:crazydave}不怕，我的白萝卜已经吃了能量豆了！
+{SAY:crazydave}Keine Sorge, mein weißer Rettich hat die Energiebohnen gefressen!
 
 [AWARD_SCREEN_WORLDTROPHY_KONGFU]
-功夫世界下半部分的三星解锁已经开启！
+Die Drei-Sterne-Freischaltung der unteren Hälfte der Kung-Fu-Welt ist freigeschaltet!
 
 [STARCHALLENGE_KONGFU_FINALE]
 Wiederstehe einer großen Welle von Kung-Fu-Zombies.
@@ -11698,222 +11710,223 @@ Diese Pflanze kann nicht auf einer Lore gepflanzt werden.
 为周围的植物提供治疗
 
 [ZOMBIE_KONGFU_BASIC]
-功夫普通僵尸
+Kung-Fu-Zombies
 
 [ZOMBIE_KONGFU_BASIC_DESCRIPTION]
-{FLAVOR}别小看这些普通僵尸，他们好歹也学了许多年功夫（至于忘了多少就不好说了）。
+{FLAVOR}Unterschätze diese gewöhnlichen Zombies nicht! Sie haben jahrelang Kung Fu gelernt (schwer zu sagen, wie viel sie vergessen haben).
 
 [ZOMBIE_KONGFU_BASIC_DESCRIPTION_HEADER]
-普通的功夫世界僵尸。
+Gewöhnliche Kung-Fu-Zombies.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1]
-路障功夫僵尸
+Kung-Fu-Zombies mit Straßensperren
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1_DESCRIPTION]
-{FLAVOR}为什么功夫僵尸还需要路障作为保护？答案是，这样显得比较时髦。
+{FLAVOR}Warum brauchen Kung-Fu-Zombies Straßensperren zum Schutz? Weil sie modischer aussehen.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1_DESCRIPTION_HEADER]
-他的路障头盔让他比普通僵尸强壮两倍。
-
+Sein Straßensperrenhelm macht ihn doppelt so stark wie gewöhnliche Zombies.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2]
-铁茶壶功夫僵尸
+Eiserner Teekannen-Kung-Fu-Zombie
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2_DESCRIPTION]
-{FLAVOR}不要误会，原本他的目的只是表演头顶茶壶的杂技。
+{FLAVOR}Versteht mich nicht falsch, sein ursprünglicher Zweck war es, mit einer Teekanne auf dem Kopf Akrobatik zu vollführen.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2_DESCRIPTION_HEADER]
-他的铁茶壶头盔能极大程度地承受伤害。
+Sein eiserner Teekannenhelm hält enormen Schaden aus.
 
 [ZOMBIE_KONGFU_HAMMER]
-锤子僵尸
+Hammer-Zombie
 
 [ZOMBIE_KONGFU_HAMMER_DESCRIPTION]
-{FLAVOR}锤子僵尸人称“僵旋风”，他以快速旋转手中的锤子而不头晕著称。
+{FLAVOR}Der Hammer-Zombie ist auch als „Zombie-Zyklon“ bekannt. Er ist dafür bekannt, seinen Hammer schnell zu drehen, ohne dass ihm schwindelig wird.
 
 [ZOMBIE_KONGFU_HAMMER_DESCRIPTION_HEADER]
-能发出锤子旋风，反弹直线而来的豌豆子弹（注：无法反弹投掷类子弹）。
+Kann einen Hammerzyklon aussenden, um geradlinig fliegende Erbsengeschosse abzulenken (Hinweis: Wurfgeschosse können nicht abgelenkt werden).
 
 [ZOMBIE_KONGFU_SELFEXPLODE]
-自爆僵尸
+Selbstexplosions-Zombie
 
 [ZOMBIE_KONGFU_SELFEXPLODE_DESCRIPTION]
-{FLAVOR}自爆僵尸不会功夫，所以他一直很自卑地待在功夫世界，直到他发现了自己的火药天分后，地位骤升。
+{FLAVOR}Der Selbstexplosions-Zombie beherrscht kein Kung-Fu und war daher in der Kung-Fu-Welt sehr unterlegen, bis er sein Talent für Schießpulver entdeckte und sein Status sprunghaft anstieg.
 
 [ZOMBIE_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
-碰到植物后，能引爆手里的炸弹，对大范围植物造成致命伤害。
+Nachdem er Pflanzen berührt hat, kann er die Bombe in seiner Hand zünden und Pflanzen in einem großen Umkreis tödlichen Schaden zufügen.
 
 [ZOMBIE_KONGFU_FLAG]
-功夫旗子僵尸
+Kung-Fu-Flaggen-Zombie
 
 [ZOMBIE_KONGFU_FLAG_DESCRIPTION]
-{FLAVOR}旗子僵尸是天生的领导者，因此他不需要会功夫，只需要会舞旗即可。
+{FLAVOR}Der Flaggen-Zombie ist ein geborener Anführer. Er muss kein Kung-Fu beherrschen, sondern nur eine Flagge schwenken.
 
 [ZOMBIE_KONGFU_FLAG_DESCRIPTION_HEADER]
-举着旗子的功夫僵尸，通常意味着一大波僵尸的来临。
+Ein Kung-Fu-Zombie mit einer Flagge deutet in der Regel auf die Ankunft einer großen Zombiewelle hin.
 
 [ZOMBIE_KONGFU_TORCH]
-功夫火把僵尸
+Kung-Fu-Fackel-Zombie
 
 [ZOMBIE_KONGFU_TORCH_DESCRIPTION]
-{KEYWORD}特点：{STAT}火炬伤害接触的植物
-{KEYWORD}弱点：{STAT}冷冻攻击熄灭火炬
+{KEYWORD}Eigenschaften: {STAT}Fackel beschädigt Pflanzen bei Kontakt.
 
-{FLAVOR}说实话，功夫火把僵尸是埃及探险家僵尸的鼻祖。 
+{KEYWORD}Schwäche: {STAT}Gefrierangriff löscht Fackel.
+
+{FLAVOR}Ehrlich gesagt ist der Kung-Fu-Fackel-Zombie der Vorfahre des ägyptischen Entdecker-Zombies.
 
 [ZOMBIE_KONGFU_TORCH_DESCRIPTION_HEADER]
-手持可以不断烧毁植物的火把。
+Hält eine Fackel, die Pflanzen dauerhaft verbrennen kann.
 
 [ZOMBIE_KONGFU_GONG]
-功夫铜锣僵尸
+Kung-Fu-Gong-Zombie
 
 [ZOMBIE_KONGFU_GONG_DESCRIPTION]
-{FLAVOR}铜锣僵尸本是自爆僵尸的兄弟，他们都不会功夫，不同的是，铜锣僵尸对乐器更有兴趣。
+{FLAVOR}Gong-Zombie ist der Bruder des Selbstzerstörungs-Zombies. Beide beherrschen kein Kung-Fu, doch Gong-Zombie interessiert sich mehr für Musikinstrumente.
 
 [ZOMBIE_KONGFU_GONG_DESCRIPTION_HEADER]
-敲锣打鼓，能召唤出自爆僵尸。
+Schlag die Gongs und Trommeln, um den selbstexplosiven Zombie zu beschwören.
 
 [ZOMBIE_KONGFU_QIGONG]
-功夫气功僵尸
+Kung-Fu-Qigong-Zombie
 
 [ZOMBIE_KONGFU_QIGONG_DESCRIPTION]
-{FLAVOR}气功僵尸是真正的功夫僵尸，听说他是某位气功高人的关门弟子。比起蛮力，气功僵尸更喜欢用内力来解决问题。 
+{FLAVOR}Der Qigong-Zombie ist ein echter Kung-Fu-Zombie. Man sagt, er sei der letzte Schüler eines Qigong-Meisters. Statt roher Gewalt setzt der Qigong-Zombie lieber innere Stärke ein, um Probleme zu lösen.
 
 [ZOMBIE_KONGFU_QIGONG_DESCRIPTION_HEADER]
-能发动气功，吸收前方一横排的植物（除非有白萝卜的阻挡）。
+Kann Qigong aktivieren, um die Pflanzen in der Reihe davor zu absorbieren (sofern sie nicht durch weiße Radieschen blockiert werden).
 
 [ZOMBIE_KONGFU_DRINK]
-喝酒僵尸
+Betrunkener Zombie
 
 [ZOMBIE_KONGFU_DRINK_DESCRIPTION]
-{FLAVOR}坏消息是，喝酒僵尸的醉拳强得可怕！好消息是，他的拳法都忘得差不多了
+{FLAVOR}Die schlechte Nachricht ist, dass das Boxen des betrunkenen Zombies im betrunkenen Zustand furchtbar ist! Die gute Nachricht ist, dass er seine Boxkünste fast vergessen hat.
 
 [ZOMBIE_KONGFU_DRINK_DESCRIPTION_HEADER]
-喝酒后，能进入狂暴状态。
+Nach dem Trinken kann er gewalttätig werden.
 
 [ZOMBIE_KONGFU_MONK_CONE]
-武僧路障僵尸
+Kriegermönch-Straßensperren-Zombie
 
 [ZOMBIE_KONGFU_MONK_CONE_DESCRIPTION]
-{FLAVOR}你以为武僧就不用头戴护甲了吗？你错了，其实他以为那是耍帅的斗笠
+{FLAVOR}Glaubst du, Mönche brauchen keine Rüstung? Da irrst du dich. Er hält sie für einen Hut, mit dem er angeben kann.
 
 [ZOMBIE_KONGFU_MONK_CONE_DESCRIPTION_HEADER]
-他的路障让他比普通武僧僵尸要厉害两倍。
+Seine Straßensperre macht ihn doppelt so mächtig wie gewöhnliche Mönchszombies.
 
 [ZOMBIE_KONGFU_MONK_BUCKET]
-武僧铁茶壶僵尸
+Kriegermönch-Eisenteekanne-Zombie
 
 [ZOMBIE_KONGFU_MONK_BUCKET_DESCRIPTION]
-{FLAVOR}这种僵尸除了练武，还负责庙里的烧水工作。
+{FLAVOR}Neben Kampfkünsten ist dieser Zombie auch für das Kochen von Wasser im Tempel zuständig.
 
 [ZOMBIE_KONGFU_MONK_BUCKET_DESCRIPTION_HEADER]
-他头上的铁茶壶能让他极大地承受伤害。
+Die eiserne Teekanne auf seinem Kopf ermöglicht es ihm, viel Schaden auszuhalten.
 
 [ZOMBIE_KONGFU_MONK_BASIC]
-武僧普通僵尸
+Mönch-Zombie
 
 [ZOMBIE_KONGFU_MONK_BASIC_DESCRIPTION]
-{FLAVOR}站桩，蹲马步，静坐，外加渴望脑子，这些构成了武僧僵尸的每日任务
+{FLAVOR}Stehen, Hocken, Sitzen und der Hunger nach Gehirnen gehören zu den täglichen Aufgaben des Mönch-Zombies.
 
 [ZOMBIE_KONGFU_MONK_BASIC_DESCRIPTION_HEADER]
-生前习武的普通僵尸。
+Ein gewöhnlicher Zombie, der zu Lebzeiten Kampfkünste praktizierte.
 
 [ZOMBIE_KONGFU_MONK_FLAG]
-武僧旗子僵尸
+Mönch-Flaggen-Zombie
 
 [ZOMBIE_KONGFU_MONK_FLAG_DESCRIPTION]
-{FLAVOR}武僧旗帜僵尸每天都会清点堂里的旗帜数量。
+{FLAVOR}Der Mönch-Flaggen-Zombie zählt täglich die Flaggen in der Halle.
 
 [ZOMBIE_KONGFU_MONK_FLAG_DESCRIPTION_HEADER]
-挥舞旗帜，引领一大波僵尸前来。
+Schwenk eine Flagge und führe eine große Zombiewelle an.
 
 [ZOMBIE_KONGFU_MONK_DRINK]
-喝酒武僧僵尸
- 
+Trinkernder Mönch-Zombie
+
 [ZOMBIE_KONGFU_MONK_DRINK_DESCRIPTION]
-{FLAVOR}因为犯戒而受罚？喝酒武僧僵尸可不用担心这个。
- 
+{FLAVOR}Bestraft für Regelverstöße? Der trinkende Mönch-Zombie muss sich darüber keine Sorgen machen.
+
 [ZOMBIE_KONGFU_MONK_DRINK_DESCRIPTION_HEADER]
-喝酒后，能进入狂暴状态。
- 
+Nach dem Trinken kannst du in einen gewalttätigen Zustand geraten.
+
 [ZOMBIE_KONGFU_MONK_BLADE]
-大刀武僧僵尸
+Klingenmönch-Zombie
  
 [ZOMBIE_KONGFU_MONK_BLADE_DESCRIPTION]
-{FLAVOR}有僵湖传言说他以唐诗刀法闻名于世，实际上那是躺尸刀法
- 
-[ZOMBIE_KONGFU_MONK_BLADE_DESCRIPTION_HEADER]
-拥有超强攻击力的武僧僵尸。
- 
-[ZOMBIE_KONGFU_MONK_IMP]
-武僧小鬼僵尸
- 
-[ZOMBIE_KONGFU_MONK_IMP_DESCRIPTION]
-{FLAVOR}身轻如燕，这不是夸张的修辞手法。
- 
-[ZOMBIE_KONGFU_MONK_IMP_DESCRIPTION_HEADER]
-身轻如燕，身怀轻功绝技。
- 
-[ZOMBIE_KONGFU_MONK_TORCH]
-火把武僧僵尸
- 
-[ZOMBIE_KONGFU_MONK_TORCH_DESCRIPTION]
-{KEYWORD}特点：{STAT}火炬伤害接触的植物
-{KEYWORD}弱点：{STAT}冷冻攻击熄灭火炬
+{FLAVOR}Im Zombiesee kursiert das Gerücht, er sei für seine Tang-Poesie-Klingentechnik berühmt, doch in Wirklichkeit handelt es sich um die Leichenlügen-Klingentechnik.
 
-{FLAVOR}燃烧的火焰限制了他转动火把的速度。
- 
+[ZOMBIE_KONGFU_MONK_BLADE_DESCRIPTION_HEADER]
+Ein Mönchszombie mit extrem starker Angriffskraft.
+
+[ZOMBIE_KONGFU_MONK_IMP]
+Ein Mönchskobold-Zombie.
+
+[ZOMBIE_KONGFU_MONK_IMP_DESCRIPTION]
+{FLAVOR}Leicht wie eine Schwalbe – das ist keine Übertreibung.
+
+[ZOMBIE_KONGFU_MONK_IMP_DESCRIPTION_HEADER]
+Leicht wie eine Schwalbe besitzt er die einzigartige Fähigkeit des Qinggong.
+
+[ZOMBIE_KONGFU_MONK_TORCH]
+Fackel-Mönch-Zombie
+
+[ZOMBIE_KONGFU_MONK_TORCH_DESCRIPTION]
+{KEYWORD}Eigenschaften:{STAT}Fackel beschädigt Pflanzen bei Kontakt.
+
+{KEYWORD}Schwäche:{STAT}Frostangriffe löschen Fackeln.
+
+{FLAVOR}Die brennenden Flammen begrenzen die Geschwindigkeit, mit der er die Fackel drehen kann.
+
 [ZOMBIE_KONGFU_MONK_TORCH_DESCRIPTION_HEADER]
-手持可以不断烧毁植物的火把。
- 
+Hält eine Fackel, die Pflanzen kontinuierlich verbrennen kann.
+
 [ZOMBIE_KONGFU_MONK_NUNCHAKU]
-双截棍武僧僵尸
+Nunchuck-Mönch-Zombie
 
 [ZOMBIE_KONGFU_MONK_NUNCHAKU_DESCRIPTION]
-{FLAVOR}双截棍武僧僵尸非常喜欢向其他僵尸炫耀自己的棍法，直到他耍双截棍的时候敲到了自己的头。
- 
+{FLAVOR}Der Nunchuck-Mönch-Zombie liebt es, anderen Zombies seine Stockkünste zu demonstrieren, bis er sich beim Einsatz seines Nunchaku selbst am Kopf schlägt.
+
 [ZOMBIE_KONGFU_MONK_NUNCHAKU_DESCRIPTION_HEADER]
-使用双截棍弹回一切正面平射的子弹，击飞所有敢于阻挡在他面前的植物。
+Mit dem Nunchaku lenkst du alle Kugeln von vorn ab und stößt alle Pflanzen weg, die sich ihm in den Weg stellen.
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE]
-持刀大侠
+Messerkämpfer
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE_DESCRIPTION]
-{FLAVOR}一刀东来，天外飞仙。这是持刀大侠的成名绝技，但他自己更愿意称之为“天外飞僵”。
+{FLAVOR}Ein Messer kommt aus dem Osten, und die Fee fliegt vom Himmel. Dies ist die berühmte Fähigkeit des Messerkämpfers, doch er nennt sie lieber „Fliegender Zombie vom Himmel“.
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE_DESCRIPTION_HEADER]
-召唤功夫僵尸，善于使用刀和盾。
+Beschwöre Kung-Fu-Zombies, die gut mit Schwertern und Schilden umgehen können.
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG]
-气功教主
+Qigong-Meister
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG_DESCRIPTION]
-{FLAVOR}气功教主被称为功夫世界最有威望的宗师，他的一身内力令无数僵尸折服。不过这样的强大存在，有时候也会因为房租而苦恼。
+{FLAVOR}Der Qigong-Meister gilt als der renommierteste Meister der Kung-Fu-Welt. Seine innere Stärke hat unzählige Zombies beeindruckt. Doch seine mächtige Existenz gerät manchmal wegen der Miete in Schwierigkeiten.
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG_DESCRIPTION_HEADER]
-内力的集大成者，极度危险。
+Der Meister der inneren Stärke ist extrem gefährlich.
 
 [ELITE_ZOMBIE_TIPS_TEXT_KONGFU_ZOMBOSS_QIGONG]
-气功教主可以释放金钟罩技能。
-金钟罩共有冰、火两个属性，需要使用对应的克制属性对韧性条造成伤害，金钟罩持续期间，气功教主会缓慢为自己恢复血量，直至阶段上限。
+Der Qigong-Meister kann die Fähigkeit „Goldene Glocke“ einsetzen.
+Die Goldene Glocke besitzt zwei Eigenschaften: Eis und Feuer. Nutze die entsprechende Fähigkeit, um die Widerstandsleiste zu beschädigen. Während der Wirkungsdauer der Goldenen Glocke regeneriert der Qigong-Meister langsam seine Gesundheit bis zum Levellimit.
 
 [ZOMBIE_KONGFU_ZOMBOSS_EXPLOSIVE]
-火药魔头
+Schießpulverbestie
 
 [ZOMBIE_KONGFU_ZOMBOSS_EXPLOSIVE_DESCRIPTION]
-{FLAVOR}火药魔头总有乱扔垃圾的坏习惯，在发现了炸药的威力后，他仿佛打开了新世界的大门。
+{FLAVOR}Die Schießpulverbestie hatte schon immer die schlechte Angewohnheit, Müll herumzuwerfen. Nachdem sie die Macht des Dynamits entdeckt hatte, schien sie die Tür zu einer neuen Welt geöffnet zu haben.
 
 [ZOMBIE_KONGFU_ZOMBOSS_EXPLOSIVE_DESCRIPTION_HEADER]
-扔出各色爆炸物和僵尸。
+Wirft alle Arten von Sprengstoff und Zombies.
 
 [ZOMBIE_kongfu_basic_armor3]
-元帅僵尸
+Marschall-Zombie
 
 [ZOMBIE_kongfu_basic_armor3_DESCRIPTION]
-{FLAVOR}被任命为元帅是功夫僵尸们至高无上的荣耀。
+{FLAVOR}Die Ernennung zum Marschall ist die höchste Ehre für Kung-Fu-Zombies.
 
 [ZOMBIE_kongfu_basic_armor3_DESCRIPTION_HEADER]
-他的头盔可以提供超高的防御力。
+Sein Helm bietet extrem hohen Schutz.
 
 [ZOMBIE_ZOMBOSSMECH_EGYPT]
 Zombot-Sphinxinator
@@ -21040,10 +21053,10 @@ Gibt dem Bohnenkommando die Chance, einen fokussierten Laser abzufeuern.
 Die ultimative Fähigkeit verkürzt das Intervall.
 
 [HORSEBEAN]
-
+Bohnenkommando
 
 [HORSEBEAN_DESCRIPTION_HEADER]
-Bohnemkommando kann Kommandos starten, um Zombies in der Umgebung anzugreifen.
+Bohnenkommando kann Kommandos starten, um Zombies in der Umgebung anzugreifen.
 
 [HORSEBEAN_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT} Starte ein das Bohnenkommando-Kommando, um Zombies in einem bestimmten Umkreis anzugreifen.
@@ -43288,25 +43301,25 @@ Baumgeist-Wächterkostüm
 Im Zentrum der Spezialdünger Fähigkeit entsteht ein riesiger Erdspieß, der die Zombies länger betäubt.
 
 [HEATHSEEKER]
-石楠探索者
+Heiße Heide
 
 [HEATHSEEKER_DESCRIPTION]
-{KEYWORD}范围：{STAT}全屏索敌
-{KEYWORD}特点：{STAT}放出尖刺刺穿几个僵尸，可以击破魔力护盾
-{KEYWORD}植物特征：{STAT}粉色植物
-{FLAVOR} 石楠探索者一直认为，两点之间的最短距离是一条经过精心设计的曲线，穿过几个僵尸，看起来也很漂亮。不用说，他们在几何课上苦苦挣扎。
+{KEYWORD}Reichweite: {STAT}Durchsucht den gesamten Bildschirm
+{KEYWORD}Funktionen: {STAT}Versetzt Stacheln, die mehrere Zombies durchbohren und magische Schilde durchbrechen können
+{KEYWORD}Pflanzenfunktionen: {STAT}Rosa Pflanzen
+{FLAVOR}Heiße Heide ist überzeugt: Die kürzeste Strecke zwischen zwei Punkten ist ein hinreißender Schnörkel, der nicht nur durch mehrere Zombies führt, sondern auch noch toll aussieht. Irgendwie nachvollziehbar, dass Heiße Heide in Geometrie bisher nicht so gut abschneidet.
 
 [HEATHSEEKER_DESCRIPTION_HEADER]
-放出尖刺刺穿几个僵尸，可以击破魔力护盾
+Heiße Heiden sind Pflanzen der Speer-Minze-Familie für den Soforteinsatz. Sie entfachen einen Feuersturm gelenkter Pfeile mit hoher Durchschlagskraft.
 
 [HEATHSEEKER_TOOLTIP]
-放出尖刺刺穿几个僵尸，可以击破魔力护盾
+Feuersturm gelenkter Pfeile.
 
 [HEATHSEEKER_PRODUCT_SHORT_DESC]
-放出尖刺刺穿几个僵尸，可以击破魔力护盾
+Feuersturm gelenkter Pfeile.
 
 [HEATHSEEKER_PRODUCT_SHORT_DESC]
-放出尖刺刺穿几个僵尸，可以击破魔力护盾
+Feuersturm gelenkter Pfeile.
 
 [HEATHSEEKER_SKILL1_LEVEL1]
 尖刺强化
@@ -43321,10 +43334,10 @@ Im Zentrum der Spezialdünger Fähigkeit entsteht ein riesiger Erdspieß, der di
 子弹数量再次+1，每颗子弹穿透次数再次+1
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER_TITLE]
-石楠探索者装扮
+Heiße Heide Kostüm
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER]
-降低种植冷却20%
+Reduziert die Abkühlungszeit zum Pflanzen um 20 %
 
 [BUDUHBOOM]
 Butterglöckchen
@@ -52535,238 +52548,241 @@ Event 14 Titel
 Beschreibung von Event 14
 
 [DICE_NOT_ENOUGH_DIALOG_TITLE]
-Nicht genügend Powerbohnen
+Nicht genügend Spezialdünger
 
 [DICE_NOT_ENOUGH_DIALOG_TEXT]
-Mehr Powerbohnen kaufen?
+Mehr Spezialdünger kaufen?
 
 [DICE_WILL_CLEAR_DIALOG_TITLE]
-系统提示
+Systemaufforderung
 
 [DICE_WILL_CLEAR_DIALOG_TEXT]
-您的电力豆当前剩余{NUMBER}个，将在明天重置，是否继续玩下去？
+Du hast aktuell {NUMBER} Powerbohnen übrig. Diese werden morgen zurückgesetzt. Möchtest du weiterspielen?
 
 [DICE_WILL_CLEAR_DIALOG_OK]
-退出
+Beenden
 
 [DICE_WILL_CLEAR_DIALOG_CANCEL]
-玩下去
+Spielen
 
 [OVERVIEW_LABEL]
-活动说明
+Ereignisbeschreibung
 
 [OVERVIEW_TITLE]
-玩法说明
+Spielanleitung
 
 [OVERVIEW_CONTENT]
-1.玩家每天可以免费获得10个电力豆，电力豆可用于启动电能豌豆指示器，每次启动将消耗1个电力豆，若玩家拥有的电力豆数量不足11个，将在隔日被重置；玩家可以购买额外的电力豆
-2.窝瓜根据指示器动画显示的点数进行移动，移动完成后将触发格子内的事件。事件种类：起点、关卡（传送带、小游戏、BOSS挑战）、轨道车（前进或后退随机步数）、宝箱（植物碎片宝箱、装扮碎片宝箱）、剧院硬币奖励、猜拳小游戏、再扔一次、大奖（橙色碎片）
-3.完成事件可获得对应的奖励。每完成一圈，必得奖励：紫色植物碎片和剧院硬币
-4.剧院硬币可以在道具屋兑换奖励
-5.植物碎片宝箱概率公示：紫色植物碎片：7.69%；蓝色植物碎片：30.76%；绿色植物碎片：61.54%
-6.装扮碎片宝箱概率公示：橙色植物装扮碎片：4.27%；紫色植物装扮碎片：18.80%；蓝色植物装扮碎片：25.64%；绿色植物装扮碎片：51.28%
+1. Spieler können täglich 10 Powerbohnen kostenlos erhalten. Mit Powerbohnen kann die Anzeige für elektrische Energieerbsen aktiviert werden. Jede Aktivierung verbraucht 1 Powerbohne. Besitzt der Spieler weniger als 11 Powerbohnen, wird die Anzeige am nächsten Tag zurückgesetzt. Spieler können zusätzliche Powerbohnen kaufen.
+2. Die Erbse bewegt sich entsprechend der in der Anzeigeanimation angezeigten Punkte. Nach Abschluss der Bewegung wird das Ereignis im Raster ausgelöst. Eventtypen: Startpunkt, Level (Förderband, Minispiel, BOSS-Herausforderung), Eisenbahnwaggon (zufällige Schritte vorwärts oder rückwärts), Schatztruhe (Pflanzenfragment-Schatztruhe, Kleiderfragment-Schatztruhe), Theatermünzen-Belohnung, Schere-Stein-Papier-Minispiel, Nochmal werfen, Hauptpreis (oranges Fragment)
+3. Schließe das Event ab, um die entsprechende Belohnung zu erhalten. Für jede abgeschlossene Runde erhältst du die Belohnung: violette Pflanzenfragmente und Theatermünzen.
+4. Theatermünzen können im Requisitenhaus gegen Belohnungen eingetauscht werden.
+5. Wahrscheinlichkeitsanzeige für Pflanzenfragment-Schatztruhen: violette Pflanzenfragmente: 7,69 %; blaue Pflanzenfragmente: 30,76 %; grüne Pflanzenfragmente: 61,54 %
+6. Wahrscheinlichkeitsanzeige für Kleiderfragment-Schatztruhen: orange Pflanzenkleidfragmente: 4,27 %; violette Pflanzenkleidfragmente: 18,80 %; blaue Pflanzenkleidfragmente: 25,64 % Grüne Pflanzenkleidfragmente: 51,28 %
 [OVERVIEW_CONFIRM]
-确定
+Bestätigen
 
 [BONUS_ROLL_TITLE]
-系统提示
+Systemaufforderung
 
 [BONUS_ROLL_TEXT]
-剧院逛累了？
-现在可以一次使用10个
-或100个电力豆，直接获得奖励
+Haben Sie keine Lust mehr auf Theaterbesuche?
+Du kannst jetzt 10 oder 100 Powerbohnen gleichzeitig verwenden, um direkt Belohnungen zu erhalten.
 
 [ROLL_1]
-1电力豆
+1 Powerbohne
 
 [ROLL_10]
-10电力豆
+10 Powerbohnen
 
 [ROLL_100]
-100电力豆
+100 Powerbohnen
 
 [VASEBREAKER_RENAI_LEVEL_NAME_1]
-六一挑战: 狂轰滥炸
+Herausforderung vom 1. Juni: Bombardierung
 
 [VASEBREAKER_RENAI_LEVEL_NAME_2]
-六一挑战: 火力全开
+Herausforderung vom 1. Juni: Volles Feuer
 
 [VASEBREAKER_RENAI_LEVEL_NAME_3]
-六一挑战: 混合大战
+Herausforderung vom 1. Juni: Gemischte Wärme
 
 [VASEBREAKER_ICEAGE_LEVEL_NAME_1]
-冰河挑战: 需求温暖
+Eiszeit-Herausforderung: Wärme benötigt
 
 [VASEBREAKER_ICEAGE_LEVEL_NAME_2]
-冰河挑战: 动物世界
+Eiszeit-Herausforderung: Tierwelt
 
 [VASEBREAKER_ICEAGE_LEVEL_NAME_3]
-冰河挑战: 让气球飞一会儿
+Eiszeit-Herausforderung: Lass den Ballon fliegen während
 
 [VASEBREAKER_EIGHTIES_LEVEL_NAME_1]
-摇滚挑战: 摇滚天团
+Rock-Herausforderung: Rockband
 
 [VASEBREAKER_EIGHTIES_LEVEL_NAME_2]
-摇滚挑战: 亮晶晶
+Rock-Herausforderung: Funkelnd
 
 [VASEBREAKER_EIGHTIES_LEVEL_NAME_3]
-摇滚挑战: 才艺大赛
+Rock-Herausforderung: Talentwettbewerb
 
 [MD5_CHECK_FAILED_TITLE]
-检测到作弊
+Cheating erkannt
 
 [MD5_CHECK_FAILED_DESC]
-^FF0000 检测到作弊，请重新下载游戏！！^oldclr
+^FF0000 Cheating erkannt. Bitte lade das Spiel erneut herunter! ^oldclr
 
 [AUTH_LIMIT_TITLE]
-防沉迷提示
+Anti-Sucht-Erinnerung
 
 [AUTH_LIMIT_DESC]
-您今日的游戏时间已经达到上限(法定节假日为每日3小时，工作日为1.5小时)，或者现在时间为22:00到8:00之间。
-根据防沉迷规则，今日将无法继续进入游戏。
+Deine heutige Spielzeit hat das maximale Limit erreicht (3 Stunden pro Tag an gesetzlichen Feiertagen und 1,5 Stunden an Werktagen) oder die aktuelle Uhrzeit liegt zwischen 22:00 und 8:00 Uhr.
+Aufgrund der Anti-Sucht-Regeln kannst du das Spiel heute nicht weiter nutzen.
 
 [NO_AUTH_TITLE]
-没有开启权限
+Keine Berechtigungen aktiviert
 
 [NO_AUTH_DESC]
-部分权限为实现本游戏核心功能的必要权限，若您拒绝授权会导致我们无法为您提供本游戏核心功能。
-^FF0000 若您因未打开权限导致部分功能无法使用，请您退出游戏后重新打开授权即可启用。^oldclr
+Für die Kernfunktionen des Spiels sind bestimmte Berechtigungen erforderlich. Wenn du die Autorisierung verweigerst, können wir dir die Kernfunktionen des Spiels nicht zur Verfügung stellen.
+^FF0000 Sollten einige Funktionen aufgrund fehlender Berechtigungen nicht nutzbar sein, beende bitte das Spiel und aktiviere sie erneut. ^oldclr
 
 [AUTH_PAYMENT_PER_LIMIT_TITLE]
-单笔充值上限
+Obergrenze für Einzelaufladungen
 
 [AUTH_PAYMENT_PER_LIMIT_DESC]
-根据相关法律法规，您的单次充值金额不得超过{PRICE}元人民币，请适度消费
+Gemäß geltenden Gesetzen und Vorschriften darf Ihr Einzelaufladungsbetrag {PRICE} Yuan nicht überschreiten. Bitte geben Sie sparsam aus.
 
 [AUTH_PAYMENT_TOTAL_LIMIT_TITLE]
-累积充值上限
+Kumulatives Aufladungslimit
 
 [AUTH_PAYMENT_TOTAL_LIMIT_DESC]
-您每月最多可以充值{PRICE}元人民币。
-本次充值后你的累计充值金额将超过上限，根据相关法律法规，本次无法进行充值。
-请适度消费。
+Sie können monatlich bis zu {PRICE} Yuan aufladen.
+Nach dieser Aufladung überschreitet Ihr kumulativer Aufladungsbetrag die Obergrenze. Gemäß geltenden Gesetzen und Vorschriften ist eine erneute Aufladung nicht mehr möglich.
+Bitte geben Sie sparsam aus.
 
 [RICHMAN_WORLDLEVEL_TITLE]
-系统提示
+Systemaufforderung
 
 [RICHMAN_WORLDLEVEL_DESCRIPTION]
-戏台下传来一阵阵骚动，
-前往维护现场秩序
-^FF0000^（过关奖励：剧院硬币）^
+Unter der Bühne herrschte ein Tumult.
+Geh, um die Ordnung aufrechtzuerhalten.
+^FF0000^ (Level-Belohnung: Theatermünzen)^
 
 [RICHMAN_WORLDLEVEL_ESCAPE_BTN]
-溜走
+Flucht
 
 [RICHMAN_WORLDLEVEL_ENTER_BTN]
-前往
+Geh
 
-[RICHMAN_BOSS_BATTLE_TITLE]
-系统提示
+[RICHMAN_BOSS_BATTLE_T ITLE]
+Systemaufforderung
 
 [RICHMAN_BOSS_BATTLE_DESCRIPTION_1]
-BOSS发现了你的踪迹，
-鼓足勇气前往挑战，还是
-悄悄离开这里
-^FF0000^（过关奖励：大量硬币）^
+Der Boss hat deine Spur gefunden.
+Fasse den Mut, dich herauszufordern, oder
+geh leise von hier weg.
+^FF0000^ (Freigabebelohnung: viele Münzen)^
 
 [RICHMAN_BOSS_BATTLE_DESCRIPTION_2]
-BOSS发现了你的踪迹，
-鼓足勇气前往挑战，还是
-悄悄离开这里
-^FF0000^（过关奖励：大量硬币）^
+Der Boss hat deine Spur gefunden.
+Fasse den Mut, dich herauszufordern, oder
+geh leise von hier weg.
+^FF0000^ (Freigabe Belohnung: viele Münzen)^
 
-[RICHMAN_BOSS_BATTLE_DESCRIPTION_3]
-BOSS发现了你的踪迹，
-鼓足勇气前往挑战，还是
-悄悄离开这里
-^FF0000^（过关奖励：大量硬币）^
+[RICHMAN_BO SS_BATTLE_DESCRIPTION_3]
+Der BOSS hat deine Spur gefunden.
+Nimm deinen Mut zusammen und fordere heraus, oder
+geh leise von hier weg.
+^FF0000^ (Belohnung für das Bestehen des Levels: viele Münzen)^
 
 [RICHMAN_BOSS_BATTLE_ESCAPE_BTN]
-溜走
+Flucht
 
 [RICHMAN_BOSS_BATTLE_ENTER_BTN]
-战斗
+Kämpfe
 
 [RICHMAN_GUESS_GAME_TITLE]
-系统提示
+Systemmeldungen
 
-[RICHMAN_GUESS_GAME_DESC]
-一名戏剧演员说你今天运
-气很好，想要与你比试一番
-^FF0000^（胜利奖励：赢得2/20剧院硬币，
-失败奖励：失去2/20剧院硬币）^
+[RICHMAN_GUESS_GAM E_DESC]
+Ein Theaterschauspieler hat gesagt, du hast heute Glück und möchte mit dir konkurrieren.
+^FF0000^ (Gewinnbelohnung: 2/20 Theatermünzen gewinnen,
+Misserfolgsbelohnung: 2/20 Theatermünzen verlieren)^
 
 [RICHMAN_GUESS_GAME_ESCAPE]
-剧院硬币不足，无法参与比试
+Nicht genügend Theatermünzen, kann nicht am Wettbewerb teilnehmen.
 
 [RICHMAN_GUESS_GAME_BTN_2]
-2枚比试
+Wettbewerb für 2 Münzen
 
 [RICHMAN_GUESS_GAME_BTN_20]
-20枚比试
+Gewinnspiel mit 20 Münzen
 
 [RICHMAN_GUESS_GAME_BTN_ESCAPE]
-退出
+Ausgang
 
 [RICHMAN_GUESS_GAME_SCISSOR]
-剪刀
+Schere
 
 [RICHMAN_GUESS_GAME_ROCK]
-石头
+Stein
 
 [RICHMAN_GUESS_GAME_PAPER]
-布
+Papier
 
 [RICHMAN_GUESS_GAME_RESULT_WIN]
-胜
+Gewinnen
 
 [RICHMAN_GUESS_GAME_RESULT_LOSE]
-负
+Verlieren ...WIN]
+Gewinnen
 
-[RICHMAN_GUESS_GAME_RESULT_DRAW]
-平
+[RICHMAN_GUESS_GAME_RESULT_LOSE]
+Verlieren AME_RESULT_DRAW]
+Flach
 
 [STORE_CATEGORY_NAME_RICHMAN_1]
-购买剧院小礼包
+Kaufe ein kleines Theater-Geschenkpaket
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_1]
-剧院小礼包
+A Kleines Theater-Geschenkpaket
 
 [STORE_CATEGORY_NAME_RICHMAN_12]
-购买剧院大礼包
+Großes Theater-Geschenkpaket kaufen
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_12]
-剧院大礼包
+Großes Theater-Geschenkpaket
 
 [STORE_CATEGORY_NAME_RICHMAN_88]
-购买剧院超级礼包
+Theater-Superpaket kaufen
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_88]
-剧院超级礼包
+Theater-Superpaket
 
 [STORE_CATEGORY_NAME_RICHMAN_168]
-购买剧院豪华礼包
+Theater-Deluxepaket kaufen
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_168]
-剧院豪华礼包
+Theater-Deluxepaket
 
-[STORE_CATEGORY_NAME_RICHMAN_248]
-购买剧院豪华大礼包
+[STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_168]
+Theater-Deluxepaket
+
+[STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_168] EGORY_NAME_RICHMAN_248]
+Luxuriöse Theater-Geschenktüte kaufen
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_248]
-剧院豪华大礼包
+Luxuriöse Theater-Geschenktüte
 
 [STORE_CATEGORY_NAME_LUCKBAG_45]
-购买六一福袋
+Glückstüte zum Kindertag kaufen
 
 [STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]
-六一福袋
+Glückstüte zum Kindertag
 
 [MAT_RICHMAN_COIN]
-剧院硬币
+Theatermünze
 
 [DANGERROOM_SELECT_INFO]
-已选择植物：{NUMBER_1}/{NUMBER_2}
+Ausgewählte Pflanzen: {NUMBER_1}/{NUMBER_2}
 
 [NARRATIVE_DANGERROOM_SELECT_TUTORIAL_1]
 {NPC_ENTER:winnie}{PLAYFUL:winnie}哇噢，你现在已经拥有了很多植物。
@@ -52784,384 +52800,383 @@ BOSS发现了你的踪迹，
 {NPC_EXIT:winnie}
 
 [DANGERROOM_SELECT_TUTORIAL_OK]
-确定
+OK
 
 [DECOMPRESS_TIPS_1]
-解压需要一定时间，请耐心等待
+Das Dekomprimieren dauert einige Zeit. Bitte haben Sie etwas Geduld.
 
 [DECOMPRESS_TIPS_2]
-正在解压文件{NUMBER1}/{NUMBER2}，剩余时间（预计）：{NUMBER3}秒
+Dateien {NUMBER1}/{NUMBER2} werden dekomprimiert. Verbleibende Zeit (geschätzt): {NUMBER3} Sekunden.
 
 [DECOMPRESS_TIPS_3]
-正在加载核心资源，剩余时间（预计）：3秒
+Kernressourcen werden geladen. Verbleibende Zeit (geschätzt): 3 Sekunden.
 
 [COINSTORE_AD_LEFT]
-今日剩余{NUMBER}次观看广告获取奖励的次数
+Die Anzahl der {NUMBER} Anzeigen, die heute angesehen werden müssen, um Belohnungen zu erhalten.
 
 [COINSTORE_AD_LEFT_SUN]
-本局游戏剩余{NUMBER}次观看广告获取奖励的次数
+Die Anzahl der {NUMBER} Anzeigen, die in diesem Spiel angesehen werden müssen, um Belohnungen zu erhalten.
 
 [NETWORK_PROFILE_SYNC_FAILED_TITLE]
-同步存档失败
+Speichersynchronisierung fehlgeschlagen.
 
 [NETWORK_PROFILE_SYNC_FAILED_DESC]
-无法同步存档，请确保网络正确连接。
+Speichersynchronisierung fehlgeschlagen. Bitte stellen Sie sicher, dass die Netzwerkverbindung ordnungsgemäß hergestellt ist.
 
 [LOST_PURCHASE_DIALOG_DES]
-您有一笔未到账的物品，请查收。
+Sie haben einen Artikel nicht erhalten. Bitte überprüfen Sie ihn.
 
 [BUY_MOWER_PRICE_TEXT]
-{NUMBER}钻石
+{NUMBER} Diamanten
 
 [STORE_CATEGORY_NAME_SECRET_GACHA]
-秘宝
+Geheimer Schatz
 
 [SECRET_GACHA_OVERVIEW_TITLE]
-秘宝说明
+Beschreibung des geheimen Schatzes
 
 [SECRET_GACHA_OVERVIEW_CONTENT]
-1.玩家可通过使用秘宝券抽取奖励：抽奖分为单次抽取和十连抽——单次抽取消耗1张秘宝券，十连抽消耗10张秘宝券
-2.通过累计充值等活动途径，可以获取秘宝单抽券，单抽券可作为单次抽取的消耗物
-3.玩家拥有单抽券，则优先消耗单抽券进行抽取，待单抽券使用尽，可花费钻石购买单抽券进行抽奖
-4.玩家可以通过点击右下角的植物心愿按钮，替换意愿大奖植物
-5.替换意愿植物后，大奖奖励植物即为替换的指定植物，具备单独的奖池
-6.大奖植物每天会自动刷新，刷新的植物不在可替换的植物列表里，碰到意愿植物，要注意时间及时抽取哦！
-7.奖池中除了钻石和植物奖励以外，其余的奖励气泡只做展示作用，不包含所有奖励
+1. Spieler können Geheime-Schatz-Tickets verwenden, um Belohnungen zu ziehen. Die Ziehung erfolgt in eine einzelne Ziehung und zehn aufeinanderfolgende Ziehungen – eine einzelne Ziehung verbraucht 1 Geheime-Schatz-Ticket, zehn aufeinanderfolgende Ziehungen verbrauchen 10 Geheime-Schatz-Tickets.
+2. Durch kumulatives Aufladen und andere Aktivitäten können Sie das Geheime-Schatz-Einzelziehungsticket erhalten, das als Verbrauchsgegenstand für eine einzelne Ziehung verwendet werden kann.
+3. Wenn der Spieler ein Einzelziehungsticket besitzt, verbraucht er zunächst das Einzelziehungsticket für die Ziehung. Wenn das Los aufgebraucht ist, kann er Diamanten ausgeben, um ein Los für die Ziehung zu kaufen.
+4. Spieler können die gewünschte Hauptpreispflanze ersetzen, indem sie auf den Pflanzenwunsch-Button in der unteren rechten Ecke klicken.
+5. Nach dem Ersetzen der gewünschten Pflanze wird die Hauptpreis-Belohnungspflanze als Ersatzpflanze mit einem separaten Preispool verwendet.
+6. Die Hauptpreispflanze wird täglich automatisch aktualisiert. Die aktualisierte Pflanze ist nicht in der Liste der ersetzbaren Pflanzen enthalten. Wenn du auf eine gewünschte Pflanze stößt, achte bitte auf die Zeit und ziehe sie rechtzeitig!
+7. Neben Diamanten und Pflanzenbelohnungen dienen die restlichen Belohnungsblasen im Preispool nur zur Anzeige und enthalten nicht alle Belohnungen.
 
 [SECRET_GACHA_TITLE]
-概率公示
+Wahrscheinlichkeitsankündigung
 
 [SECRET_GACHA_LEGENDPLANTS_PIECE]
-植物
+Pflanzen
 
 [SECRET_GACHA_EPICPLANTS_PIECE]
-装扮碎片
+Kosmetikfragmente
 
 [SECRET_GACHA_BLUEPLANTS_PIECE]
-挂件碎片
+Anhängerfragmente
 
 [SECRET_GACHA_EVENT_WHITEPIECE]
-金币
+Münzen
 
 [SECRET_GACHA_LOTTERY_PENDANT]
-钻石
+Diamanten
 
 [SECRET_GACHA_COIN_PENDANT]
-神秘水晶
+Mysteriöse Kristalle
 
 [SECRET_GACHA_COIN_PENDANT]
-黄瓜炸弹
+Gurkenbomben
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC_PARAM]
-活动说明，{MONTH}月{START}日——{END}日，每日签到可得丰厚奖励，
-期间充值任意钻石还能同时获得高级奖励。
+Aktivitätsbeschreibung: {MONTH} {START} - {END}. Melde dich täglich an, um reichhaltige Belohnungen zu erhalten.
+Du kannst außerdem durch Aufladen erweiterte Belohnungen erhalten. Diamanten während dieses Zeitraums.
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC]
-活动说明，6月1日——10日，每日签到可得丰厚奖励，
-期间充值任意钻石还能同时获得高级奖励。
+Eventbeschreibung: Vom 1. bis 10. Juni kannst du dir täglich tolle Belohnungen sichern, indem du dich anmeldest.
+In diesem Zeitraum kannst du außerdem erweiterte Belohnungen erhalten, indem du Diamanten auflädst.
 
 [RECHARGE_DAILYSIGN_ACTIVITY_TIME_COUNTDOWN]
 {TIME}
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DAY_PARAM]
-第
+Der
 {NUM}
-天
+Tag
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DAY_DESC]
-累计{NUM}天
+Insgesamt {NUM} Tage
 
 [RECHARGE_DAILYSIGN_ACTIVITY_NO_RECHARGE]
-未充值
+Nicht aufgeladen
 
-[RECHARGE_DAILYSIGN_ACTIVITY_ALREADY_RECHARGE]
-已充值
+[RECHARGE_DAILYSIGN_ACTIVITY_AL READY_RECHARGE]
+Aufgeladen
 
 [RECHARGE_DAILYSIGN_ACTIVITY_NORMAL_SIGN]
-普通签到
+Normale Anmeldung
 
 [RECHARGE_DAILYSIGN_ACTIVITY_ADVANCE_SIGN]
-豪华签到
+Erweitert Anmelden
 
 [RECHARGE_DAILYSIGN_ACTIVITY_GOT]
-已领取
+Erhalten
 
 [DISCOUNT_SHOP_ACTIVITY_DESC]
-活动期间，6月1日————6月10日，每天充值任意数量钻石，即可
-购买当日折扣奖池内道具。
+Lade während des Events vom 1. bis 10. Juni täglich beliebig viele Diamanten auf, um
+Artikel aus dem Tagesrabattpool zu kaufen.
 
 [DISCOUNT_SHOP_ACTIVITY_DESC_PARAM]
-活动期间，{MONTH}月{START}日————{MONTH}月{END}日，每天充值任意数量钻石，即可
-购买当日折扣奖池内道具。
+Lade während des Events vom {MONTH} Monat {START} Tag bis {MONTH} Monat {END} Tag täglich beliebig viele Diamanten auf, um
+Artikel aus dem Tagesrabattpool zu kaufen.
 
 [DISCOUNT_SHOP_ACTIVITY_DIAMOND]
-当前钻石
+Aktueller Diamant
 
 [DISCOUNT_SHOP_ACTIVITY_TIME_COUNTDOWN_PARAM]
 {TIME}
 
 [DISCOUNT_SHOP_GEM_COST]
-{NUM} 钻石
+{NUM} Diamanten
 
 [DISCOUNT_SHOP_ACTIVITY_BUY_BTN]
-购买
+Kaufen
 
 [DISCOUNT_SHOP_ACTIVITY_GOT]
-已购买
+Gekauft
 
 [DISCOUNT_SHOP_TIPS]
-今日尚未有充值记录，
-请充值以激活专享折扣特权。
+Heute keine Aufladung möglich.
+Bitte laden Sie Ihr Guthaben auf, um den exklusiven Rabatt zu erhalten.
 
 [DISCOUNT_SHOP_CANCEL]
-取消
+Abbrechen
 
 [DISCOUNT_SHOP_RECHARGE]
-充值
+Aufladen
 
 [RIFT_RESULT_SCREEN_LABEL_COST_TIME]
-耗时 {NUMS} 秒
+Zeitaufwand: {NUMS} Sekunden
 
 [RIFT_RESULT_SCREEN_LABEL_GET_SCORE]
-获得 {NUMS} 积分
+Erreiche {NUMS} Punkte
 
 [RIFT_RESULT_SCREEN_LABEL_CURRENT_SCORE]
-目前积分：{NUMS}
+Aktuelle Punkte: {NUMS}
 
 [RIFT_BUTTON_FORFEIT]
-放弃
+Aufgeben
 
 [RIFT_DOWN_FOR_MAINTENANCE]
-潘妮的追击在维护中，一会儿再来看看!
+Penny's Pursuit wird gewartet. Schau später noch einmal vorbei!
 
 [RIFT_EXIT_DESCRIPTION]
-如果你投降，你将失去这场比赛的电池。
+Wenn du aufgibst, verlierst du deine Batterie für dieses Spiel.
 
 [RIFT_EXIT_HEADER]
-你想投降吗?
+Möchtest du aufgeben?
 
 [RIFT_FUEL_BANK_TIME_TO_NEXT]
-MORE FUEL IN: {DURATION}
+MEHR TREIBSTOFF IN: {DURATION}
 
 [RIFT_FUEL_STORE_TIME_HEADER]
-MORE FUEL:
+MEHR TREIBSTOFF:
 
 [RIFT_FUEL_STORE_TIME_TO_NEXT]
 {DURATION}
 
 [RIFT_FUEL_STORE_TIME_TO_NEXT_DAYS]
-{DAYS} DAYS
+{DAYS} TAGE
 
 [RIFT_LEADERBOARD_OVERVIEW_TITLE]
-排行榜说明
+Bestenlistenbeschreibung
 
 [RIFT_LEADERBOARD_OVERVIEW_CONTENT]
-1.玩家可通过完成潘妮的追击关卡，获取积分。
-2.玩家在每个关卡中获得的积分，取最高值，之后所有关卡的积分汇总作为自己的总积分。
-3.玩家按照总积分在排行榜中进行排名。
-4.根据你的排行榜名次，你就能晋升到一个更有竞争力的联赛，获得更好的回报，也能挑战更强的对手。
-5.具体的晋级规则为：
-原木段位的1~3名晋级至青铜 4~6名晋级至黑铁 7~9名晋级为砖块，
-砖块段位的1~2名晋级至白银 3~5名晋级至青铜 6~8名晋级为黑铁，
-黑铁段位的1~2名晋级至黄金 3~4名晋级至白银 5~7名晋级为青铜，
-青铜段位的1~2名晋级至钻石 3~4名晋级至黄金 5~6名晋级为白银，
-白银段位的1~3名晋级至钻石 4~6名晋级至黄金，
-黄金段位的前5名晋级至钻石
-钻石段位的前3名晋级至传奇 
-6.晋级新的联赛，你将获得新的潘妮的追击专属头像。
-7.每期联赛为期7天，八期联赛组成一个赛季，为期56天。
+1. Spieler können Punkte sammeln, indem sie Pennys Quest-Level abschließen.
+2. Die in jedem Level erzielten Punkte werden als Höchstwert genommen, anschließend werden die Punkte aller Level zur Gesamtpunktzahl addiert.
+3. Die Spieler werden in der Bestenliste nach ihrer Gesamtpunktzahl platziert.
+4. Basierend auf Ihrem Rang in der Bestenliste steigen Sie in eine wettbewerbsfähigere Liga auf, erhalten bessere Belohnungen und können stärkere Gegner herausfordern.
+5. Die genauen Beförderungsregeln lauten:
+Die Plätze 1 bis 3 im Blockrang steigen in den Bronzerang auf, die Plätze 4 bis 6 in den Eisenrang und die Plätze 7 bis 9 in den Ziegelrang.
+Die Plätze 1 bis 2 im Ziegelrang steigen in den Silberrang auf, die Plätze 3 bis 5 in den Bronzerang und die Plätze 6 bis 8 in den Eisenrang.
+Die Plätze 1 bis 2 im Eisenrang steigen in den Goldrang auf, die Plätze 3 bis 4 in den Silberrang und die Plätze 5 bis 7 in den Bronzerang.
+Die Plätze 1 bis 2 im Bronzerang steigen in den Diamantrang auf, die Plätze 3 bis 4 in den Goldrang und die Plätze 5 bis 6 in den Silberrang.
+Die Plätze 1 bis 3 im Silberrang steigen in den Diamantrang auf. Die Plätze 4 bis 6 steigen in den Gold-Rang auf.
+Die Top 5 im Gold-Rang steigen in den Diamant-Rang auf, die Top 3 im Diamant-Rang in den Legenden-Rang.
+6. Wenn du in eine neue Liga aufsteigst, erhältst du einen neuen exklusiven Avatar für Pennys Verfolgung.
+7. Jede Liga dauert 7 Tage, und acht Ligen bilden eine Saison mit 56 Tagen.
 
 [RIFT_HOW_TO_PLAY_1]
-欢迎来到潘妮的追击!
+Willkommen bei Pennys Verfolgung!
 
 [RIFT_HOW_TO_PLAY_2]
-潘妮增益
+Penny-Gewinn
 
 [RIFT_HOW_TO_PLAY_3]
-潘妮电池
+Penny-Batterie
 
 [RIFT_HOW_TO_PLAY_4]
-挑战僵尸博士
+Fordere Dr. Zombie heraus
 
 [RIFT_HOW_TO_PLAY_5]
-关卡类型
+Leveltyp
 
 [RIFT_HOW_TO_PLAY_6]
-首通奖励
+Belohnung für den ersten Durchgang
 
 [RIFT_HOW_TO_PLAY_TITLE]
-玩法说明
+Spielanleitung
 
 [RIFT_HOWTOPLAY_1_DESCRIPTION]
-每周都有新关卡。完成关卡，将僵尸博士定位信号值填满到100%，然后挑战僵尸博士获得奖励!
+Jede Woche gibt es neue Level. Schließe das Level ab, erfülle Dr. Zombies Standortsignal auf 100 % und fordere Dr. Zombie anschließend heraus, um Belohnungen zu erhalten!
 
 [RIFT_HOWTOPLAY_2_DESCRIPTION]
-完成关卡目标，抽取潘妮的强大增益功能。每场关卡免费使用一个增益功能，增益在每期关卡结束后重置
+Erreiche das Levelziel, um Pennys mächtige Buff-Funktion zu erhalten. Nutze eine Buff-Funktion kostenlos pro Level. Der Buff wird nach jedem Level zurückgesetzt.
 
 [RIFT_HOWTOPLAY_3_DESCRIPTION]
-潘妮的追击关卡消耗一定量电池。电池会随时间恢复，或者可以用钻石来补充电池。
+Pennys Verfolgungslevel verbraucht eine bestimmte Menge an Batterie. Die Batterie regeneriert sich mit der Zeit oder kann mit Diamanten aufgefüllt werden.
 
 [RIFT_HOWTOPLAY_4_DESCRIPTION]
-在3轮的对决中挑战僵尸博士 !成功完成所有的3轮挑战，可获得大量奖励
+Fordere Dr. Zombie in einem 3-Runden-Duell heraus! Schließe alle 3 Runden erfolgreich ab, um viele Belohnungen zu erhalten.
 
 [RIFT_HOWTOPLAY_5_DESCRIPTION]
-(1)经典:生存模式(2)坚不可摧:部署好你的防御阵容并击败僵尸(3)竞技场:预设一套防御阵容并获得高分(4)计时:生存一定时间(5)迷你游戏:独特的游戏玩法,像保龄球
+(1) Klassisch: Überlebensmodus (2) Unzerstörbar: Errichte deine Verteidigung und besiege die Zombies. (3) Arena: Stelle deine Verteidigung ein und erziele Highscores. (4) Timer: Überlebe eine bestimmte Zeit. (5) Minispiel: Einzigartiges Gameplay, ähnlich wie Bowling.
 
 [RIFT_HOWTOPLAY_6_DESCRIPTION]
-首次完成任何级别的关卡，可以获得额外的首通奖励!
+Schließe ein beliebiges Level zum ersten Mal ab, um zusätzliche Belohnungen für den ersten Durchgang zu erhalten!
 
 [RIFT_LEVEL_NAME]
-潘妮的追击
+Penny Jagd
 
 [RIFT_LEVEL_PLAY]
-x{FUEL_AMT} 开始
+x{FUEL_AMT} Start
 
 [RIFT_LEVEL_SETUP_TITLE]
-选择关卡 {LEVEL_NUMBER} 难度:
+Level auswählen: {LEVEL_NUMBER} Schwierigkeitsgrad:
 
 [RIFT_LEVEL_SETUP_TITLE_NEW]
-潘妮的追击-第{LEVEL_NUMBER}天
+Pennys Jagd – Tag {LEVEL_NUMBER}
 
 [RIFT_LEVEL_SETUP_BONUS]
-奖励预览
+Belohnungsvorschau
 
 [SIGN_NOW]
-立即签到
+Jetzt anmelden
 
 [RIFT_LIBRARY_TAB]
-增益背包
+Buff-Rucksack
 
 [RIFT_LIBRARY_TIPS_DESCRIPTION]
-1. 增益背包中的增益通过完成关卡奖励目标抽取
-2. 背包中显示目前拥有的增益
-3. 增益背包每周期清空，需要重新获取
-4. 增益可以在关卡中免费使用一个
+1. Die Buffs im Buff-Rucksack werden durch das Erreichen der Level-Belohnungsziele freigeschaltet.
+2. Der Rucksack zeigt die aktuellen Buffs an.
+3. Der Buff-Rucksack wird nach jedem Zyklus geleert und muss neu erhalten werden.
+4. Der Buff kann im Level kostenlos verwendet werden.
 
 [RIFT_NAME]
-潘妮的追击
+Pennys Jagd
 
 [RIFT_BOSS_DOUBLE_REWARD_TITLE]
-双倍奖励
+Doppelt Belohnungen
 
 [RIFT_BOSS_DOUBLE_REWARD_CHOOSE_BTN_ONE]
-单倍
+Einzeln
 
 [RIFT_BOSS_DOUBLE_REWARD_CHOOSE_BTN_TWO]
-双倍
+Doppelt
 
 [RIFT_BOSS_DOUBLE_REWARD_DESC]
-僵尸博士厌倦每天上班，现在可以选择获得双倍通关奖励，但僵博的休息时间会延长至20小时
+Zombie Doctor hat es satt, jeden Tag zu arbeiten. Er kann sich nun für die doppelte Anzahl an Freiraumbelohnungen entscheiden, die Ruhezeit des Zombie-Arztes wird jedoch auf 20 Stunden verlängert.
 
 [RIFT_NEED_CONNECTION]
-为潘妮的追击连接通讯
+Kommunikation für Pennys Verfolgung herstellen
 
 [RIFT_NODE_UNLOCK_DAYS]
-{DAYS}天内准备就绪 
+Bereit in {DAYS} Tagen
 
 [RIFT_NODE_UNLOCK_TIME]
-{DURATION}准备就绪
+{DURATION} Bereit
 
 [RIFT_OUTRO_BONUS_OBJECTIVE_TEXT]
-{OBJ_DONE}/{OBJ_TOTAL} 奖励目标完成
+{OBJ_DONE}/{OBJ_TOTAL} Bonusziel erreicht
 
 [RIFT_OUTRO_ZPS_TEXT]
-+{ZPS_AMT}% 信号
++{ZPS_AMT} % Signal
 
 [RIFT_OVER_DESCRIPTION]
-请确保你有最新的游戏版本，或稍后回来参加一个新的活动!
+Stellen Sie sicher, dass Sie die neueste Version des Spiels haben, oder kommen Sie später wieder, um an einem neuen Event teilzunehmen!
 
 [RIFT_OVER_HEADER]
-当前没有追击事件
+Aktuelles Verfolgungsereignis
 
 [RIFT_PERK_SELECTION_TITLE]
-增益选择
+Vorteilsauswahl
 
 [SELECTED_PERKS_HEADER]
-增益选择
+Vorteilsauswahl
 
 [PENNY_PERK_CHOOSE_TITLE]
-增益选择
+Vorteilsauswahl
 
 [RIFT_PERK_UPDATE_TAB]
-增益指引
+Vorteilsübersicht
 
 [RIFT_TIMER_HOURS]
-{HOURS}小时
+{HOURS} Stunden
 
 [RIFT_TIMER_SECONDS]
-{SECONDS}秒
+{SECONDS} Sekunden
 
 [RIFT_TITLE_TEXT_01]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_02]
-罗马入侵!
+Römische Invasion!
 
-[RIFT_TITLE_TEXT_03]
-罗马入侵!
+[RI FT_TITLE_TEXT_03]
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_04]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_05]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_06]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_07]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_08]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_09]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_10]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_TITLE_TEXT_11]
-罗马入侵!
+Römische Invasion!
 
 [RIFT_ZOMBOSS_BONUS_ALERT]
-奖金结算阶段
+BONUSPREIS-PHASE!
 
 [RIFT_ZOMBOSS_CHALLENGE_DESCRIPTION]
-存活并在{MINUTES} 分钟内耗尽{BARS}管僵尸博士血量
+Überlebe und leere {BARS} Zomboss-Gesundheitsbalken in {MINUTES} Minuten
 
 [RIFT_ZOMBOSS_FIGHT]
-挑战！
+Kämpfe!
 
 [RIFT_ZOMBOSS_LEVEL_SETUP_TITLE]
-挑战僵尸博士！
+Bekämpfe Dr. Zomboss!
 
 [RIFT_ZOMBOSS_LEVEL_SETUP_DOUBLE_TITLE]
-挑战僵尸博士！ X2
+Bekämpfe Dr. Zomboss! X2
 
 [RIFT_ZOMBOSS_OUT_TO_LUNCH]
-出去吃饭
+Mittagessen
 
 [RIFT_ZOMBOSS_OVER_DESCRIPTION]
-时间到了，僵尸博士逃脱了！ 但他把这个留下了......
+Die Zeit ist abgelaufen und Zomboss ist entkommen! Er hat das hier zurückgelassen ...
 
 [RIFT_ZOMBOSS_OVER_HEADER]
 ???ZombossOverHeaderString???
 
 [RIFT_ZOMBOSS_PROGRESS_LOSE_TITLE]
-您没有击败僵尸博士！
+Du hast Dr. Zomboss nicht besiegt!
 
 [RIFT_ZOMBOSS_PROGRESS_TITLE]
-僵尸博士已经逃脱！
+Dr. Zomboss ist entkommen!
 
 [RIFT_ZOMBOSS_PROGRESS_WIN_TITLE]
-胜利!
+Sieg!
 
 [RIFT_ZOMBOSS_READY]
-就绪!
+Bereit!
 
 [RIFT_ZOMBOSS_REFRESH_TIME]
-{TIME}之前
+vor {TIME}
 
 [CHALLENGE_DESTROY_GRAVESTONES]
 Zerstöre {GRID_ITEMS} Grabsteine.
@@ -53188,19 +53203,19 @@ Lass nicht mehr als {NUM_EXPLODE} Jalapeño-Zombies explodieren. Mal
 Lass den explodierenden Nuss-Zombie nicht öfter als {NUM_EXPLODE} Mal explodieren.
 
 [RIFT_ZPS_LABEL]
-Signal: {ZPS_AMT} %
+ZPS {ZPS_AMT}%
 
 [ZOMBOSS_RIFT_POL_DIALOG_BODY]
-Möchtest du eine Sicherheitskürbisflasche kaufen, um Zombies zurückzudrängen und 30 Sekunden länger zu halten?
+Möchtest du einen Sicherheitskürbis kaufen, um Zombies zurückzuschubsen und 30 Sekunden zu gewinnen?
 
 [ZOMBOSS_RIFT_POL_DIALOG_BODY_TIME]
-Möchtest du eine Sicherheitskürbisflasche kaufen, um Zombies zurückzudrängen und 30 Sekunden länger zu halten?
+Möchtest du einen Sicherheitskürbis kaufen, um Zombies zurückzuschubsen und 30 Sekunden zu gewinnen?
 
 [ZOMBOSS_RIFT_POL_DIALOG_BODY_ZOMBIE]
-Möchtest du eine Sicherheitskürbisflasche kaufen, um Zombies zurückzudrängen und 30 Sekunden länger zu halten?
+Möchtest du einen Sicherheitskürbis kaufen, um Zombies zurückzuschubsen und 30 Sekunden zu gewinnen?
 
 [ZOMBOSS_RIFT_POL_DIALOG_TITLE]
-Die Zeit ist abgelaufen!
+Zeit abgelaufen!
 
 [ZOMBOSS_RIFT_POL_DIALOG_TITLE_TIME]
 Es ist soweit ...
@@ -53212,7 +53227,7 @@ Zombies stehen kurz vor Daves Haus!
 Verwendungen: {USED}/{TOTAL}
 
 [ZPS_REWARD_TITLE]
-Signalbelohnungen:
+ZPS-Belohnungen:
 
 [DIFFICULTY_DIALOG_HEADER]
 Schwierigkeitsgrad auswählen
