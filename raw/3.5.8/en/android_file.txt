@@ -5545,7 +5545,7 @@ Kann nicht auf schimmeligem Boden gepflanzt werden.
 Wehre die Angriffe fliegender Zombies ab.
 
 [STARCHALLENGE_SKYCITY_NAME]
-Das Schloss im Himmel
+Das Luftstadt
 
 [STARCHALLENGE_PLANT_BEFORE_LINE_NAME]
 Schimmeliges Gelände
@@ -8337,22 +8337,22 @@ Verbessern Sie die Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie meh
 Verbessern Sie die Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_1]
-Energiebohnen aufwerten
+Spezialdünger-Fähigkeit aufwerten
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_1_INFO]
-Fügen Sie einen Energiebohnen-Kartensteckplatz hinzu.
+Fügen Sie einen Spezialdünger-Fähigkeit-Kartensteckplatz hinzu.
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_2]
-Energiebohnen aufwerten
+Spezialdünger-Fähigkeit aufwerten
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_2_INFO]
-Fügt einen Energiebohnen-Kartenplatz hinzu.
+Fügt einen Spezialdünger-Fähigkeit-Kartenplatz hinzu.
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_3]
-Energiebohnen aufwerten
+Spezialdünger-Fähigkeit aufwerten
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_3_INFO]
-Fügt einen Energiebohnen-Kartenplatz hinzu.
+Fügt einen Spezialdünger-Fähigkeit-Kartenplatz hinzu.
 
 [UPGRADE_STARTING_SUN_1_INFO]
 Kann zu Beginn eines Levels mehr Sonne tragen.
@@ -8666,7 +8666,7 @@ Die Daten zur Angriffsgeschwindigkeit von Pflanzen sind anormal.
 Anomalie bei der ersten Erkennung.
 
 [RIFT_CHECK_FAILED_TEXT_46330]
-Anormale Erkennung von Energiebohnen.
+Anormale Erkennung von Spezialdünger-Fähigkeit.
 
 [RIFT_CHECK_FAILED_TEXT_21623]
 Anormale Spielerdaten.
@@ -8687,7 +8687,7 @@ Art des Gegenstandsverbrauchs ist abnormal.
 Die Anzahl des abgeworfenen Sonnenlichts entspricht der Abnormalität.
 
 [RIFT_CHECK_FAILED_TEXT_46336]
-Die Übereinstimmung der Energiebohnen ist abnormal.
+Die Übereinstimmung der Spezialdünger-Fähigkeit ist abnormal.
 
 [RIFT_CHECK_FAILED_TEXT_46341]
 Die Anzahl der Pflanzenpflanzungen ist abnormal.
@@ -9984,19 +9984,19 @@ Oh mein Gott, betrügst du?
 {EXCITED:crazydave}Diese taktischen Gurken sind für dich. Frag nicht warum, ich bin nämlich verrückt!
 
 [NARRATIVE_EAT_PLANTFOOD_INTRO_1]
-{NPC_ENTER:crazydave}{SAY: crazydave}Lass uns ausprobieren, was passiert, wenn der Kohlkrug die Energiebohnen isst!
+{NPC_ENTER:crazydave}{SAY: crazydave}Lass uns ausprobieren, was passiert, wenn der Kohlkrug die Spezialdünger-Fähigkeit isst!
 
 [NARRATIVE_USE_PLANTFOOD_INTRO_1]
 {NPC_ENTER:winnie}{SAG:winnie}Super gemacht! Super! Weiter geht's!
 
 [NARRATIVE_EAT_PLANTFOOD1_INTRO_1]
-{NPC_ENTER:crazydave}{SAG: crazydave}Mal sehen, was passiert, wenn ein Kaktus Energiebohnen frisst!
+{NPC_ENTER:crazydave}{SAG: crazydave}Mal sehen, was passiert, wenn ein Kaktus Spezialdünger-Fähigkeit frisst!
 
 [NARRATIVE_USE_PLANTFOOD1_INTRO_1]
 {NPC_ENTER:winnie}{SAG:winnie}Super gemacht! Super! Weiter geht's!
 
 [TACTICAL_CUKE_ADVICE_USE_PLANTFOOD]
-Verwende Energiebohnen für neue Pflanzen und lass dich überraschen!
+Verwende Spezialdünger-Fähigkeit für neue Pflanzen und lass dich überraschen!
 
 [TACTICAL_CUKE_ADVICE_AT_LAST]
 Wenn es dringend wird, vergiss nicht, taktische Gurken zu verwenden!
@@ -11561,7 +11561,7 @@ Ich habe nicht genug Hämmer. Du kannst jetzt keine weiteren Hämmer durch Aufla
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Achtung, das bisher größte schwarze Loch taucht vor dir auf.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL36_2]
-{SAY:crazydave}Keine Sorge, mein weißer Rettich hat die Energiebohnen gefressen!
+{SAY:crazydave}Keine Sorge, mein weißer Rettich hat die Spezialdünger-Fähigkeit gefressen!
 
 [AWARD_SCREEN_WORLDTROPHY_KONGFU]
 Die Drei-Sterne-Freischaltung der unteren Hälfte der Kung-Fu-Welt ist freigeschaltet!
@@ -14677,7 +14677,7 @@ Keine leeren Töpfe!
 {DAY} Tage
 
 [ZENGARDEN_USE_BOOST_BODY]
-Wenn es auf Gras platziert wird, erhält es sofort die gleiche Wirkung wie Energiebohnen.
+Wenn es auf Gras platziert wird, erhält es sofort die gleiche Wirkung wie Spezialdünger-Fähigkeit.
 
 [ZENGARDEN_USE_BOOST_BUTTON]
 Booster
@@ -22371,79 +22371,83 @@ Die schwebende Festung aus den Lüften.
 潜能爆发的增加攻速效果提升100%，并提升能量爆炸的伤害。
 
 [REDSTINGER]
-红针花
+Roter Stachler
 
 [REDSTINGER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR}对于红针花来说灵活柔韧性是极其重要的关键。“我确确实实每天早上都作拉伸练习，”他说。“这对精神与肉体时刻保持灵敏反应十分重要。”
+{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanzen
+{FLAVOR}Flexibilität ist die große Stärke des Roten Stachlers. „Ich mache jeden Morgen Dehnübungen", sagt er. „Es ist wichtig, mental und körperlich agil zu bleiben."
 
 [REDSTINGER_DESCRIPTION_HEADER]
-红针花靠近大本营时火力全开发射子弹，远离老家则会提升防御性。
+Rote Stachler feuern Geschosse mit voller Kraft ab, wenn sie nah an ihrer Heimat sind, und werden immer defensiver, je weiter sie sich davon entfernen.
 
 [REDSTINGER_TOOLTIP]
-靠近大本营时火力全开发射子弹，远离老家则会提升防御性。
+Schießt mit voller Kraft, wenn er der Heimat nah ist, und wird defensiver, je weiter er sich davon entfernt
 
 [REDSTINGER_PLANTFOOD]
-发射一条能量光线攻击前方一行范围内的僵尸。
+Schießt einen Energiestrahl ab, der Zombies in der Reihe vor ihnen angreift.
 
 [LAVAGUAVA_PRODUCT_SHORT_DESC]
-岩浆番石榴会喷射岩浆,并生成一个岩浆坑对僵尸造成伤害。
+Die Lavaguave versprüht Lava und erzeugt eine Lavagrube, die Zombies Schaden zufügt.
 
 [LAVAGUAVA_AVATAR_NAME]
-番石榴装扮
+Lava Guave- Kostüm
 
 [STORE_PRODUCT_AVATAR_LAVAGUAVA]
-大招的范围扩大为十字形
+Die Reichweite der ultimativen Fähigkeit wird auf ein Kreuz erweitert.
 
 [STORE_PRODUCT_AVATAR_LAVAGUAVA_TITLE]
-岩浆番石榴装扮
+Lava-Guaven Kostüm
 
 [LAVAGUAVA_SKILL_LEVEL1]
-强化熔岩
+Lava verstärken
 
 [LAVAGUAVA_SKILL_LEVEL1_DES]
-岩浆持续伤害时间延长2秒
+Die Dauer des Lavaschadens wird um 2 Sekunden verlängert.
 
 [LAVAGUAVA_SKILL_LEVEL2]
-怒炎喷发
+Wütender Ausbruch
 
 [LAVAGUAVA_SKILL_LEVEL2_DES]
-溅射岩浆对附近的僵尸造成伤害
+Spritzende Lava, die Zombies in der Nähe Schaden zufügt.
 
 [LAVAGUAVA_SUPERSKILL_NAME]
-火山爆发
+Vulkanausbruch
 
 [LAVAGUAVA_SUPERSKILL_DES]
-死亡时喷射出大量的滚烫的岩浆石，攻击场上多个位置的僵尸。
+Beim Sterben werden große Mengen heißer Lavasteine ausgeworfen, die Zombies An mehreren Stellen auf dem Feld angreifen.
 
 [ADVICE_NO_LAVAGUAVA_ON_RAILCART]
-岩浆番石榴不能种在轨道车上。
+Lava würde die Lore schmelzen.
 
 [ADVICE_PLANT_NOT_ON_LAVA]
-你不能在岩浆上种东西。
+Auf Lava können keine Pflanzen gepflanzt werden.
 
 [CREDITS_VA_LAVAGUAVA]
-岩浆番石榴
+Lava Guave
 
 [LAVAGUAVA]
-岩浆番石榴
+Lava-Guave
 
 [LAVAGUAVA_DESCRIPTION]
-{KEYWORD}用法: {STAT}单次使用，接触后触发效果
-{KEYWORD}特点: {STAT}喷射岩浆, 对周围的僵尸造成伤害
-{KEYWORD}特点: {STAT}在它所在的格子生成一个岩浆坑。
-{KEYWORD}植物特征：{STAT}绿色植物、满腹怒火
+{KEYWORD}Nutzung: {STAT}Einfache Verwendung, bei Kontakt
+
+{KEYWORD}Besonderheit: {STAT}Bricht aus und beschädigt Zombies in der Nähe
+
+{KEYWORD}Besonderheit: {STAT}Verursacht ein Pfütze brennender Lava auf ihrem Feld
+
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen, voller Wut
  
-{FLAVOR}岩浆番石榴皱着眉头压抑着愤怒。它尝试保持冷静。 它是那么的努力，但当僵尸对他得寸进尺时，他就不能忍了。
+
+{FLAVOR}Die Lava-Guave kann ihre Wut kaum unterdrücken. Sie versucht es. Wirklich. Aber eines Tages wird ein Zombie sie zur Eruption bringen, und dann kann sie für nichts garantieren!
 
 [LAVAGUAVA_DESCRIPTION_HEADER]
-岩浆番石榴会喷射岩浆,并生成一个岩浆坑对僵尸造成伤害。
+Lava-Guaven brechen aus und hinterlassen eine Lava-Pfütze, an der Zombies sich verbrennen.
 
 [LAVAGUAVA_TOOLTIP]
-喷射岩浆，之后生成一个滚烫的岩浆坑
+Bricht aus und hinterlässt eine brennende Lava-Pfütze
 
 [LAVAGUAVA_PLANTFOOD]
-使前方一直线的地面爆裂，裂痕中的岩浆对范围内僵尸造成持续伤害。
+Löst eine Explosion im vorausliegenden Boden aus. Das Magma in den Rissen verursacht bei Zombies in Reichweite kontinuierlichen Schaden.
 
 [TOADSTOOL_PRODUCT_SHORT_DESC]
 金蟾菇能吞下整个的僵尸, 然后产生阳光。
@@ -22485,178 +22489,175 @@ Die schwebende Festung aus den Lüften.
 金蟾菇
 
 [TOADSTOOL]
-金蟾菇
+Krötenpilz
 
 [TOADSTOOL_DESCRIPTION]
-{KEYWORD}弱点: {STAT}在咀嚼僵尸时相当的脆弱。
-{KEYWORD}植物特征：{STAT}黄色植物
+{KEYWORD}Schwachstelle: {STAT}verwundbar beim Kauen
+{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanzen
 
-{FLAVOR}金蟾菇不喜欢傻站着。“我把所有我想做的事都记在小本子上，并总把小本子放在我能看到的地方这样我就能时刻保持动力”她说。每当有工作需要完成，她总能第一个跳出来。
+{FLAVOR}Der Krötenpilz hasst es, tatenlos herumzustehen. „Alles, was ich mir vornehme, schreibe ich auf Listen, die ich immer in Sichtweite halte. So bleibe ich immer motiviert!", sagt sie. Wenn es etwas zu erledigen gibt, springt sie gleich zur Stelle. 
 
 [TOADSTOOL_DESCRIPTION_HEADER]
-金蟾菇能吞下整个的僵尸, 然后产生阳光。
+Krötenpilze schlucken Zombies am Stück herunter und produzieren daraufhin Sonne.
 
 [TOADSTOOL_TOOLTIP]
-吞下整个的僵尸, 然后产生阳光。
+Schluckt Zombies am Stück herunter und produziert daraufhin Sonne
 
 [TOADSTOOL_PLANTFOOD]
-连续吞吃4个僵尸并产出阳光
+Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 
 [NARRATIVE_LOSTCITY_1_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}哇噢！欢迎来到丛林！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEWICKELT:crazydave}Wow! Willkommen im Dschungel!
 
 [NARRATIVE_LOSTCITY_1_INTRO_2]
-{SAY:winnie}戴夫同学，这可不是普通的丛林。我的扫描记录显示这里是传说中的失落之城！
+{SAG:winnie}Dave, das ist kein gewöhnlicher Dschungel. Meine Scans zeigen, dass dies die legendäre verlorene Stadt ist!
 
 [NARRATIVE_LOSTCITY_1_INTRO_3]
-{SAY:winnie}文书上记载太阳在这被崇拜，资源将会相当的丰富。
-
+{SAG:winnie}Das Dokument besagt, dass hier die Sonne verehrt wird und die Ressourcen reichlich vorhanden sein werden.
 
 [NARRATIVE_LOSTCITY_1_INTRO_4]
-{SAY:winnie}我建议应该在这些我们找到的金砖上种点什么。
+{SAG:winnie}Ich schlage vor, wir sollten etwas auf die Goldbarren pflanzen, die wir gefunden haben.
 
 [NARRATIVE_LOSTCITY_1_INTRO_5]
-{SAY:winnie}当我们在它们身上种东西时他们能连续产出阳光。
+{SAG:winnie}Wenn wir Dinge darauf pflanzen, können sie kontinuierlich Sonnenlicht produzieren.
 
 [NARRATIVE_LOSTCITY_1_INTRO_6]
-{EXCITED:crazydave}失落之城？潘妮！就在这！我们找到啦！
+{AUFGEWICKELT:crazydave}Die Verlorene Stadt? Penny! Sie ist da! Wir haben sie gefunden!
 
 [NARRATIVE_LOSTCITY_1_INTRO_7]
-{SAY:crazydave}除了在这失落之城我还能去哪找我丢到的玉米卷？
-
+{SAGEN:crazydave}Wo sonst kann ich meine verlorenen Tacos finden, außer in der Verlorenen Stadt?
 
 [NARRATIVE_LOSTCITY_1_INTRO_8]
-{SAY:winnie}你一如既往的那么有逻辑性, 戴夫同学。
+{SAGEN:winnie}Du bist so logisch wie immer, Dave.
 
 [NARRATIVE_LOSTCITY_16_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}你想到这来找刺激么？
+{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Suchst du hier nach Aufregung?
 
 [NARRATIVE_LOSTCITY_16_INTRO_2]
-{SAY:zombossicon}非常不幸，失落巨人僵尸会干掉你！
+{SAGEN:zombossicon}Leider wird dich der verlorene Riesenzombie töten!
 
 [NARRATIVE_LOSTCITY_16_INTRO_3]
-{SAY:zombossicon}他们扛着小鬼僵尸。小鬼僵尸们！准备载入史册了！
+{SAY:zombossicon}Sie tragen Kobold-Zombies. Kobold-Zombies! Mach dich bereit, in die Geschichte einzugehen!
 
 [NARRATIVE_LOSTCITY_16_INTRO_4]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}我希望什么人能把我带到个小房子里。
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEWUNDERT:crazydave}Ich wünschte, jemand würde mich zu einem kleinen Haus bringen.
 
 [NARRATIVE_LOSTCITY_16_INTRO_5]
-{SAY:winnie}我希望的东西多了去了，戴夫同学。但这不是我想要的。
+{SAY:winnie}Ich wünsche mir so vieles, Dave. Aber das ist nicht das, was ich will.
 
 [NARRATIVE_LOSTCITY_17_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}警报,戴夫同学！我的探测器探测到了失落小鬼搬运工。
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Alarm, Dave! Meine Detektoren haben die verlorenen Kobold-Träger geortet.
 
 [NARRATIVE_LOSTCITY_17_INTRO_2]
-{EXCITED:crazydave}失落小鬼搬运工? 运来给力的好东西么？
+{EXCITED:crazydave}Verlorene Wichtelträger? Bringen sie coole Sachen mit?
 
 [NARRATIVE_LOSTCITY_17_INTRO_3]
-{SAY:winnie}错误。他们会在黄金地砖上放下背包，背包会变成传送门传送僵尸。
+{SAY:winnie}Falsch. Sie lassen ihre Rucksäcke auf den Goldfliesen fallen, und die Rucksäcke werden zu Portalen, um Zombies zu transportieren.
 
 [NARRATIVE_LOSTCITY_17_INTRO_4]
-{EXCITED:crazydave}小鬼僵尸们和坏传送门！
+{EXCITED:crazydave}Wichtelzombies und böse Portale!
 
 [NARRATIVE_LOSTCITY_2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}我的探测器发现有东西从上方接近了！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Detektoren haben etwas von oben registriert!
 
 [NARRATIVE_LOSTCITY_2_INTRO_2]
-{EXCITED:crazydave}也许是礼物！天上掉馅饼啦！
+{EXCITED:crazydave}Vielleicht ist es ein Geschenk! Ein Traum!
 
 [NARRATIVE_LOSTCITY_2_INTRO_3]
-{SAY:winnie}这种说法相当的不靠谱！
+{SAY:winnie}Das ist eine ziemlich unglaubwürdige Behauptung!
 
 [NARRATIVE_LOSTCITY_2_INTRO_4]
-{SAY:winnie}我相信这一定是新的僵尸威胁，我们需要谨慎的对付这些未知的家伙
+{SAY:winnie}Ich glaube, das muss eine neue Zombie-Bedrohung sein, und wir müssen im Umgang mit diesen Unbekannten vorsichtig sein.
 
 [NARRATIVE_LOSTCITY_22_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}当心！戴夫！我发现了陷阱瓷砖！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Vorsicht! Dave! Ich habe ein Fallenplättchen gefunden!
 
 [NARRATIVE_LOSTCITY_22_INTRO_2]
-{SAY:winnie}当你在上面种东西或者让僵尸碰到了，陷阱就会触发！
+{SAY:winnie}Wenn du etwas darauf pflanzt oder einen Zombie es berühren lässt, wird die Falle ausgelöst!
 
 [NARRATIVE_LOSTCITY_22_INTRO_3]
-{EXCITED:crazydave}然后就会有玉米卷了咩？
+{EXCITED:crazydave}Dann gibt es Tacos, oder?
 
 [NARRATIVE_LOSTCITY_22_INTRO_4]
-{SAY:winnie}是的，如果你认为巨石和火焰和玉米卷是一路货。
+{SAG:winnie}Ja, wenn du glaubst, Felsbrocken, Flammen und Tacos wären dasselbe.
 
 [NARRATIVE_LOSTCITY_3_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}戴夫同学！我们面对着巨大的威胁！我建议我们用最强的力量反击！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAG:winnie}Dave! Wir stehen vor einer gewaltigen Bedrohung! Ich schlage vor, wir wehren uns mit unserer stärksten Streitmacht!
 
 [NARRATIVE_LOSTCITY_3_INTRO_2]
-{SAY:crazydave}更强力!就是他！我们要和他们好好谈谈！
+{SAG:crazydave}Stärker! Das ist er! Wir müssen uns ernsthaft mit ihnen unterhalten!
 
 [NARRATIVE_LOSTCITY_3_INTRO_3]
-{SAY:winnie}我指的是岩浆番石榴。它爆炸后会留下危险的岩浆。
-
+{SAG:winnie}Ich meine die Lava-Guave. Sie explodiert und hinterlässt gefährliche Lava.
 
 [NARRATIVE_LOSTCITY_3_INTRO_4]
-{EXCITED:crazydave}听上去更棒了！先是严肃的讨论，然后是岩浆。
+{EXCITED:crazydave}Das klingt ja noch besser! Erst die ernsthafte Diskussion, dann die Lava.
 
 [NARRATIVE_LOSTCITY_4_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}注意,戴夫同学。我检测到一个带铲子的僵尸。
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Achtung, Dave. Ich habe einen Zombie mit einer Schaufel entdeckt.
 
 [NARRATIVE_LOSTCITY_4_INTRO_2]
-{SAY:crazydave}他能挖到什么么？
+{SAY:crazydave}Kann er etwas graben?
 
 [NARRATIVE_LOSTCITY_4_INTRO_3]
-{SAY:winnie}他能挡住平射的攻击，我们需要找到绕开铁铲的办法。
+{SAY:winnie}Er kann flache Schüsse blocken, wir müssen einen Weg um die Schaufel herum finden.
 
 [NARRATIVE_LOSTCITY_4_INTRO_4]
-{SAY:crazydave}我知道!心理感应!
+{SAY:crazydave}Ich weiß! Telepathie!
 
 [NARRATIVE_LOSTCITY_4_INTRO_5]
-{SAY:winnie}再试一次！戴夫同学。
+{SAY:winnie}Versuch es noch einmal! Dave.
 
 [NARRATIVE_LOSTCITY_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon} 别想夺走我们发现的失落之城!
+{NPC_ENTER:zombossicon}Versuch nicht, uns die verlorene Stadt, die wir gefunden haben, wegzunehmen!
 
 [NARRATIVE_LOSTCITY_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}我和我的僵尸大军已经在知名的杂志上发布了我们找到这失落之城！
+{SAY:zombossicon}Meine Zombiearmee und ich haben unsere Entdeckung der verlorenen Stadt in einem bekannten Magazin veröffentlicht!
 
 [NARRATIVE_LOSTCITY_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}我们成为传说而你将灭亡！
+{SAY:zombossicon}Wir werden zu Legenden, und ihr werdet untergehen!
 
 [NARRATIVE_LOSTCITY_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}看,潘妮!一个闪亮的东西!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Schau mal, Penny! Da glänzt was!
 
 [NARRATIVE_LOSTCITY_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:winnie}我的探测器表明这护身符指向了一条充满挑战的路。
+{SAY:winnie}Meine Sonden zeigen, dass dieses Amulett auf einen anspruchsvollen Weg weist.
 
 [NARRATIVE_LOSTCITY_OUTRO_DANGER_ROOM_KEY_3]
-{EXCITED:crazydave}让我们发现个新大陆吧!
+{EXCITED:crazydave}Lasst uns ein neues Land entdecken!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}所有地方都找过了还是没有玉米卷!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEFROREN:crazydave}Wir haben überall gesucht, aber keine Tacos gefunden!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_2]
-{SAY:winnie}探索将会永无止境！戴夫同学！
+{SAGEN:winnie}Die Suche wird niemals enden! Dave!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_3]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}我的发现是完美的！玉米卷还是找不到！总有一天你的大脑会归我！
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Meine Entdeckung ist perfekt! Keine Tacos! Eines Tages gehört mir dein Gehirn!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}快看这！潘妮！一张藏宝图！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEFROREN:crazydave}Sieh dir das an! Penny! Eine Schatzkarte!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_2]
-{SAY:winnie}我的分析系统显示这地图的来源相当的可疑。
+{SAY:winnie}Mein Analysesystem zeigt, dass die Quelle dieser Karte ziemlich verdächtig ist.
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_3]
-{SAY:crazydave}这有个大红叉！潘妮，你啥时候见过大红叉是不好的东西啊？
+{SAY:crazydave}Hier ist ein großes rotes Kreuz! Penny, wann hast du jemals gesehen, dass ein großes rotes Kreuz etwas Böses bedeutet?
 
 [NARRATIVE_DARK_ZOMBIENOTE_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}快看！这是魔法卷轴吗？
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Sieh mal! Ist das eine magische Schriftrolle?
 
 [NARRATIVE_DARK_ZOMBIENOTE_2]
-{SAY:winnie}分析表明这张纸并没有任何魔力波动。
+{SAY:winnie}Die Analyse zeigt, dass dieses Stück Papier keine magischen Schwankungen aufweist.
 
 [NARRATIVE_DARK_ZOMBIENOTE_3]
-{SAY:crazydave}可是这里明明有很多不认识的符号。
+{SAY:crazydave}Aber hier sind viele unbekannte Symbole.
 
 [NARRATIVE_DARK_ZOMBIENOTE_4]
-{SAY:winnie}知识给予人判断是非的能力……
+{SAY:winnie}Wissen gibt Menschen die Fähigkeit, Richtig von Falsch zu unterscheiden …
 
 [LOSTCITY]
-失落之城
+Verlorene Stadt
 
 [ZOMBIE_PVP_CHANGE]
 战斗僵尸
@@ -22742,23 +22743,24 @@ Die schwebende Festung aus den Lüften.
 特技：丢出三个橄榄球，击打对方的三棵随机植物。
 
 [ZOMBIE_PVP_CHICKEN_FARMER]
-鸡贼僵尸
+Hühner-Zombie
 
 [ZOMBIE_PVP_CHICKEN_FARMER_DESCRIPTION_HEADER]
-鸡贼僵尸由于吃了太多的鸡块，现在动不动就会掉出鸡毛，鸡毛已经不能满足他，只能掉小鸡了。
-特技：掉出5个僵尸小鸡，进行突击攻击。
+Hühner-Zombie hat zu viele Chicken Nuggets gegessen und lässt nun ständig Hühnerfedern fallen. Hühnerfedern reichen ihm nicht mehr, daher kann er nur noch Hühner fallen lassen.
+
+Spezialfähigkeit: Lässt 5 Zombie-Hühner fallen und führt einen Überraschungsangriff aus.
 
 [PIECE_COME_FROM_ANTHURIUM_LEVEL]
-天空之城-第11天
+Luftstadt – Tag 11
 
 [PIECE_COME_FROM_PINEAPPLE_LEVEL]
-天空之城-第16天
+Luftstadt – Tag 16
 
 [PIECE_COME_FROM_TOADSTOOL_LEVEL]
-失落之城-第11天
+Verlorene Stadt – Tag 11
 
 [PIECE_COME_FROM_LAVAGUAVA_LEVEL]
-失落之城-第20天
+Verlorene Stadt – Tag 20
 
 [COMPLAIN_ICON]
 Hier klicken, um eine Beschwerde einzureichen
@@ -31675,6 +31677,7 @@ Erdbeerbömbchen
 [STRAWBURST_DESCRIPTION]
 {KEYWORD}Nutzung:{STAT} Zum Feuern antippen
 {KEYWORD} Verwendung: {STAT} Zum Auslösen klicken
+{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanzen
 
 {FLAVOR} „Groß ist gut“, sagt das Erdbeerbömbchen. „Aber klein ist auch fein. Und mittel finde ich eigentlich auch prächtig. Ich mag alle Größen, denke ich.“
 
@@ -35431,13 +35434,13 @@ Du kannst besondere Belohnungen gewinnen, wenn du täglich dreimal am Event „Y
 Tag {DAY}
 
 [TIMETRAVELGAMEMODE_DAYS_TITLE1]
-Dunkle Zeitalter
+Mittelalter
 
 [TIMETRAVELGAMEMODE_DAYS_TITLE2]
 Eiswelt
 
 [TIMETRAVELGAMEMODE_DAYS_TITLE3]
-Das Schloss im Himmel
+Luftstadt
 
 [TIMETRAVELGAMEMODE_DAYS_TITLE4]
 Verlorene Stadt
@@ -35446,40 +35449,40 @@ Verlorene Stadt
 Fels der Zeiten
 
 [TIMETRAVELGAMEMODE_DAYS_TITLE6]
-Dino-Krise
+Jurrasisches Moor
 
 [TIMETRAVELGAMEMODE_DAYS_TITLE7]
-Moderne Zeiten
+Moderne
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE1]
-Dunkle Zeitalter
+Mittelalter
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE2]
-Eis Welt
+Frostbeulen Höhlen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE3]
-Das Schloss im Himmel
+Luftstadt
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE4]
-Die verlorene Stadt
+verlorene Stadt
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE5]
 Fels der Zeiten
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE6]
-Dino-Krise
+Jurrasisches Moor
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE7]
-Moderne Zeiten
+Moderne
 
 [TIMETRAVELGAMEMODE_DAYS_SELECT]
 Zeitreise
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE1]
-Nüsse verteidigen
+Wallnüsse verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE2]
-Hohe Nüsse verteidigen
+Hochwall-Nüsse verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE3]
 Weiß verteidigen Rettich
@@ -35491,10 +35494,10 @@ Weißen Rettich verteidigen
 Weißen Rettich verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE6]
-Dinosaurierkrise
+Jurrasisches Moor
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE7]
-Moderne Zeiten
+Moderne
 
 [TIMETRAVELGAMEMODE_DAYS_SELECT]
 Zeitreise
@@ -35512,10 +35515,10 @@ Weißen Rettich verteidigen
 Holografische Verteidigung Nüsse
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE5]
-Urwüchsige Nüsse verteidigen
+Urzeit-Wallnüsse verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE6]
-Durian verteidigen
+Endurian verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE7]
 Süßkartoffel verteidigen
@@ -38576,143 +38579,150 @@ Kristallklar und feucht
 有概率射出巨大的黄金熊果炮弹，黄金炮弹攻击沿途中的所有僵尸，并且击退中小型僵尸一小格
 
 [ELECTRICITEA]
-电力绿茶
+Elektrizi-Teeblatt
 
 [ELECTRICITEA_DESCRIPTION]
-{KEYWORD}用法： {STAT}可以对3X3范围内的所有僵尸造成伤害，被僵尸吃掉后还会释放出高伤害的闪电。
-{KEYWORD}植物特征：{STAT}十万伏特、绿色植物
-{FLAVOR} “我想被吃掉，我需要被吃掉！”电力绿茶说。“不过，我很开心那个时候能电击附近的僵尸！”
+{KEYWORD}Verwendung: {STAT}Kann allen Zombies im Umkreis von 3x3 Schaden zufügen. Nachdem es von Zombies gefressen wurde, löst es Blitze mit hohem Schaden aus.
+{KEYWORD}Pflanzeneigenschaften: {STAT}100.000 Volt, grüne Pflanzen
+{FLAVOR}„Ich will gegessen werden. Ich MUSS gegessen werden“, sagt das Elektrizi-Teeblatt. „Bis es so weit ist, habe ich aber kein Problem damit, Zombies in der Nähe zu grillen.“
 
 [ELECTRICITEA_DESCRIPTION_HEADER]
-可以对3X3的范围内所有僵尸造成伤害。
+Elektrizi-Teeblätter warten und verschießen Stromstöße, bis sie gefressen werden. Der Zombie, der sie gefressen hat, explodiert dann in einer gewaltigen elektrischen Entladung.
 
 [ELECTRICITEA_TOOLTIP]
-被僵尸吃掉后释放出高能闪电消灭附近的僵尸。
+Verschießt Stromstöße und explodiert, wenn er gegessen wurde
 
 [ELECTRICITEA_SKILL_LEVEL1]
-连锁电流
+Kettenstrom
 
 [ELECTRICITEA_SKILL_LEVEL1_DES]
-有概率在攻击时使僵尸身上带上电流，随机弹射到该僵尸3X3范围内的其他僵尸，最多可以弹射两个僵尸。
+Beim Angriff besteht die Chance, dass der Zombie mit Elektrizität aufgeladen wird. Diese wird zufällig auf andere Zombies im Umkreis von 3x3 um den Zombie ausgestoßen. Maximal zwei Zombies können ausgestoßen werden.
 
 [ELECTRICITEA_SKILL_LEVEL2]
-电流强化
+Elektrizitätsverstärkung
 
 [ELECTRICITEA_SKILL_LEVEL2_DES]
-增加2技能连锁电流的概率
+Erhöht die Wahrscheinlichkeit von Kettenstrom in Fertigkeit 2.
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
-电力绿茶装扮
+Elektrizitäts-Grüntee-Outfit
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA]
-大招击中僵尸时还会溅射出3X3范围的电弧造成额外伤害
+Wenn die ultimative Fertigkeit einen Zombie trifft, erzeugt sie zusätzlich einen 3x3-fachen Lichtbogen, der zusätzlichen Schaden verursacht.
 
 [ELECTRICITEA_SKILL_LEVEL5]
-电能激荡
+Elektrizitätsstoß
 
 [ELECTRICITEA_SKILL_LEVEL5_DES]
-有概率将攻击变为红色的高能闪电，将攻击范围内的所有僵尸麻痹3秒。
+Es besteht die Chance, dass der Angriff zu einem roten Hochenergieblitz wird, der alle Zombies in Reichweite 3 Sekunden lang lähmt.
 
 [IMPPEAR]
-小黄梨
+Wicht-Birne
 
 [IMPPEAR_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}矮个子
-{FLAVOR} 小黄梨可以削弱僵尸。当然，小黄梨并不喜欢这种特性，“别人老是说我颜值和菠萝蜜一样！！”。
+{KEYWORD} Pflanzenmerkmale: {STAT} Kleinwüchsig
+{FLAVOR}Die Wicht-Birne stellt für Zombies eine echte Behinderung dar. "Behinderung" soll man laut der Wicht-Birne eigentlich nicht sagen. Aber wen interessiert's?
+
 [IMPPEAR_DESCRIPTION_HEADER]
-使僵尸吃了之后变成小鬼僵尸
+Wenn Zombies Wicht-Birnen fressen, werden sie zu Wichten. Wenn Wichte Wicht-Birnen fressen, werden sie zerstört, wobei sie ein lähmendes Gas freigeben.
 
 [IMPPEAR_TOOLTIP]
-使僵尸吃了之后变成小鬼僵尸
+Verwandelt Zombies in Wichte
 
 [IMPPEAR_PRODUCT_SHORT_DESC]
-使僵尸吃了之后变成小鬼僵尸
+Verwandelt Zombies in Wichte
 
 [IMPPEAR_AVATAR_NAME]
-使僵尸吃了之后变成小鬼僵尸
+Verwandelt Zombies nach dem Fressen in Wicht-Zombies.
 
 [STORE_PRODUCT_AVATAR_IMPPEAR]
-大招数量额外增加两个
+Fügt zwei zusätzliche Spezialattacken hinzu.
 
 [STORE_PRODUCT_AVATAR_IMPPEAR_TITLE]
-小黄梨装扮
+Wichtbirnen kostüm
 
 [IMPPEAR_SKILL_LEVEL1]
-强化变异
+Mutation verstärken
 
 [IMPPEAR_SKILL_LEVEL1_DES]
-有40%概率使僵尸吃了小黄梨后变成小鬼僵尸的时候，直接受到中毒效果，并放出气体眩晕后方的僵尸
+Es besteht eine 40%ige Chance, dass ein Zombie, der eine gelbe Birne isst und sich in einen Geisterzombie verwandelt, direkt vergiftet wird und Gas ausstößt, das die Zombies dahinter betäubt.
 
 [IMPPEAR_SKILL_LEVEL2]
-变异改良
+Mutationsverbesserung
 
 [IMPPEAR_SKILL_LEVEL2_DES]
-提升强化变异的概率
+Wahrscheinlichkeit der Mutationsverstärkung erhöhen
 
 [IMPPEAR_SKILL_LEVEL5]
-虚弱气体
+Schwaches Gas
 
 [IMPPEAR_SKILL_LEVEL5_DES]
-僵尸放出的气体范围扩大，且会让僵尸受到的伤害增加
+Die Reichweite des vom Zombie freigesetzten Gases wird vergrößert und der Schaden erhöht.
 
 [OLIVE]
-油橄榄
+Olive
 
 [OLIVE_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 油橄榄从地中海远道而来，进入神秘国度学习烹饪技巧。他刚刚掌握了颠勺：锅中倒入少许油，拿起炒锅颠上两下，满锅的火焰，看起来炫酷极了。
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+
+{FLAVOR} Olive stammte aus dem Mittelmeerraum und begab sich in ein geheimnisvolles Land, um Kochkünste zu erlernen. Er beherrschte die Kunst des Wokdrehens: Etwas Öl in den Wok geben, den Wok zweimal umdrehen, und schon steht der ganze Wok voller Flammen – ein echter Hingucker.
 [OLIVE_DESCRIPTION_HEADER]
-可以使芭蕾舞僵尸滑倒，产生的油还能被火系植物的攻击点着。
+Kann Ballett-Zombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
 
 [OLIVE_TOOLTIP]
-可以使芭蕾舞僵尸滑倒，产生的油还能被火系植物的攻击点着。
+Kann Ballett-Zombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
 
 [OLIVE_PRODUCT_SHORT_DESC]
-可以使芭蕾舞僵尸滑倒，产生的油还能被火系植物的攻击点着。
+Kann Ballett-Zombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
 
 [OLIVE_AVATAR_NAME]
-可以使芭蕾舞僵尸滑倒，产生的油还能被火系植物的攻击点着。
+Kann Ballettzombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
 
 [POMEGRANATEJEWELER]
-宝石商石榴
+
+Granatapfel des Juweliers
 
 [POMEGRANATEJEWELER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR} 宝石商作为城中最有权势的植物，当地许多有名的僵尸都非常乐意为其作画，宝石商也会支付他们相应的报酬，付款方式并没有使用扫码，而是宝石直接“支付”，干净利索。
+
+{KEYWORD} Pflanzenmerkmale: {STAT} Rote Pflanze
+
+{FLAVOR} Als mächtigste Pflanze der Stadt bemalen viele berühmte Zombies der Stadt gerne für den Juwelier, und der Juwelier bezahlt sie auch entsprechend. Die Zahlungsmethode verwendet keinen Scancode, sondern wird direkt mit dem Edelstein bezahlt, was sehr praktisch ist.
+
 [POMEGRANATEJEWELER_DESCRIPTION_HEADER]
-宝石在命中僵尸后可以随机弹射
+Edelsteine können nach dem Treffen von Zombies zufällig ausgeworfen werden.
+
 [POMEGRANATEJEWELER_TOOLTIP]
-宝石在命中僵尸后可以随机弹射
+Edelsteine können nach dem Treffen von Zombies zufällig ausgeworfen werden.
 
 [POMEGRANATEJEWELER_PRODUCT_SHORT_DESC]
-宝石在命中僵尸后可以随机弹射
+Edelsteine können nach dem Treffen von Zombies zufällig ausgeworfen werden.
 
 [POMEGRANATEJEWELER_AVATAR_NAME]
-宝石在命中僵尸后可以随机弹射
+Edelsteine können nach dem Treffen von Zombies zufällig ausgeworfen werden.
 
 [STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER]
-可以喷出吸引宝石，吸引宝石上下两行的僵尸至宝石所在行
+Kann anziehende Edelsteine versprühen und Zombies in den oberen und unteren Edelsteinreihen zu der Reihe locken, in der sich die Edelsteine befinden.
 
 [STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER_TITLE]
-宝石商石榴装扮
+Granatapfelkleid des Edelsteinhändlers
 
-[POMEGRANATEJEWELER_SKILL_LEVEL1]
-多财善贾
+[POMEGRANATEJEWE LER_SKILL_LEVEL1]
+Reich und geschäftstüchtig
 
 [POMEGRANATEJEWELER_SKILL_LEVEL1_DES]
-有概率喷出双生宝石，双生宝石在命中僵尸后，可以对两个角度僵尸造成伤害
+Es besteht die Chance, Zwillingsedelsteine zu versprühen. Nach einem Treffer auf Zombies können Zwillingsedelsteine Zombies aus zwei Richtungen Schaden zufügen.
 
 [POMEGRANATEJEWELER_SKILL_LEVEL2]
-乐善好施
+Gut in der Wohltätigkeit
 
 [POMEGRANATEJEWELER_SKILL_LEVEL2_DES]
-有概率喷出三生宝石，三生宝石在命中僵尸后，可以对三个角度僵尸造成伤害
+Es besteht die Chance, drei Edelsteine zu versprühen. Nach einem Treffer auf Zombies können drei Edelsteine Zombies aus drei Richtungen Schaden zufügen.
 
 [POMEGRANATEJEWELER_SKILL_LEVEL5]
-财运亨通
+Glück
 
 [POMEGRANATEJEWELER_SKILL_LEVEL5_DES]
-有概率喷出一个强化宝石，强化宝石是普通宝石伤害的2倍，强化宝石喷出后，会使接下来的2次攻击附带特殊效果：必定触发3阶
+Es besteht die Chance, einen verstärkten Edelstein zu versprühen. Der Schaden von verstärkten Edelsteinen ist doppelt so hoch wie der von normalen Edelsteinen. Nachdem die verstärkten Edelsteine versprüht wurden, haben die nächsten beiden Angriffe Spezialeffekte: Sie lösen definitiv Level 3 aus.
 
 [EGRETFLOWER]
 白鹭花战机
@@ -38756,83 +38766,76 @@ Kristallklar und feucht
 普通攻击的攻击距离从自身前方4格变为一条直线，同时对前方第一个僵尸所在的格子造成群体伤害
 
 [GUMNUT]
-粘液桉果
+Gumminuss
 
 [GUMNUT_DESCRIPTION_HEADER]
-将面前的僵尸黏住并阻碍僵尸
+Gumminüsse verkleben Zombies mit Kaugummi, so dass sie an Ort und Stelle stehen bleiben und anderen Zombies dahinter den Weg versperren.
 
 [GUMNUT_DESCRIPTION]
-{KEYWORD}特点：{STAT}将前方一格的全部僵尸用口香糖粘住
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR} “我只嚼僵尸味的口香糖”粘液桉果说到。
+{KEYWORD}Funktionen: {STAT} Klebe alle Zombies mit Kaugummi in das vordere Gitter.
+{KEYWORD}Pflanzenfunktionen: {STAT} Gelbe Pflanzen
+
+{FLAVOR}„Meine Lieblingsgeschmacksrichtung bei Kaugummis?", ruft Gumminuss. „Natürlich Schinken und Salz!“
 
 [GUMNUT_TOOLTIP]
-将前方一格的全部僵尸用口香糖粘住
+Erschafft Gummi an Zombies, welche sie dadurch erst essen müssen
 
 [GUMNUT_SKILL_LEVEL1]
-魅惑口香糖
+Bezaubernder Kaugummi
 
 [GUMNUT_SKILL_LEVEL1_DES]
-当僵尸吃完口香糖后，有20%的概率使僵尸被魅惑（对于巨人僵尸无效）
+Wenn ein Zombie den Kaugummi isst, besteht eine 20%ige Chance, dass er bezaubert wird (nicht wirksam bei Riesenzombies).
 
 [GUMNUT_SKILL_LEVEL2]
-魅惑强化
+Bezaubernde Verstärkung
 
 [GUMNUT_SKILL_LEVEL2_DES]
-提升2技能的概率为40%
+Die Wahrscheinlichkeit, Fertigkeit 2 zu verbessern, beträgt 40 %.
 
 [GUMNUT_SKILL_LEVEL5]
-剧毒泡泡
+Giftige Blase
 
 [GUMNUT_SKILL_LEVEL5_DES]
-泡泡糖的生命值提升，同时，泡泡糖会变成剧毒泡泡糖，僵尸啃食完毕，在 2 秒的立定后放出剧毒烟雾，使后方所有的僵尸都被眩晕，持续5秒
+Die Gesundheit des Kaugummis steigt, und gleichzeitig wird der Kaugummi zu giftigem Kaugummi. Nachdem der Zombie mit dem Essen fertig ist, stößt er nach 10 Sekunden Stehen einen hochgiftigen Rauch aus, der alle Zombies hinter ihm 5 Sekunden lang betäubt.
 
 [GUMNUT_AVATAR_NAME]
-粘液桉果装扮
+Gumminuss-Kostüm
 
 [STORE_PRODUCT_AVATAR_GUMNUT_TITLE]
-粘液桉果装扮
+Gumminuss-Kostüm
 
 [STORE_PRODUCT_AVATAR_GUMNUT]
-大招会吐出8个口香糖
-
-[STRAWBURST_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR}大的这个？小的这个？放心，我会把它们都扔到你脸上！我爱敌人就和爱炸弹一样，因为他们都快要爆炸啦！
-[STRAWBURST_DESCRIPTION_HEADER]
-爆炸草莓可以造成三种不同程度的高额伤害
-[STRAWBURST_TOOLTIP]
-爆炸草莓可以造成三种不同程度的高额伤害
+Die Spezialdünger-Fähigkeit spuckt 8 Kaugummis aus.
 
 [STRAWBURST_PRODUCT_SHORT_DESC]
-爆炸草莓可以造成三种不同程度的高额伤害
+Explosive Erdbeeren können drei verschiedene Schadensstufen verursachen.
 
 [STRAWBURST_AVATAR_NAME]
-爆炸草莓可以造成三种不同程度的高额伤害
+Explosive Erdbeeren können drei verschiedene Schadensstufen verursachen.
 
 [STORE_PRODUCT_AVATAR_STRAWBURST]
-爆炸草莓，召唤出的超大型草莓，炸开后会蹦出三个小草莓，再爆炸一次
+Explosive Erdbeeren, heraufbeschworene supergroße Erdbeeren, lassen nach der Explosion drei kleine Erdbeeren hervorspringen und explodieren dann erneut.
 
 [STORE_PRODUCT_AVATAR_STRAWBURST_TITLE]
-爆炸草莓装扮
+Explosives Erdbeerkostüm
 
 [STRAWBURST_SKILL_LEVEL1]
-急速成长1
+Dringendes schnelles Wachstum 1
 
 [STRAWBURST_SKILL_LEVEL1_DES]
-在发射完草莓炸弹后，有概率直接成长为二阶段草莓
+Nach dem Abwurf der Erdbeerbombe besteht die Chance, direkt zur Erdbeere der zweiten Stufe heranzuwachsen.
 
 [STRAWBURST_SKILL_LEVEL2]
-急速成长2
+Schnelles Wachstum 2
 
 [STRAWBURST_SKILL_LEVEL2_DES]
-在发射完草莓炸弹后，有概率直接成长为三阶段草莓
+Nach dem Abwurf der Erdbeerbombe besteht die Chance direkt zur dritten Erdbeerstufe heranwachsen.
 
 [STRAWBURST_SKILL_LEVEL5]
-爆浆盛宴
+Explosionsfestmahl
 
 [STRAWBURST_SKILL_LEVEL5_DES]
-爆炸草莓发射的三个阶段草莓炸弹炸开后，会遗留草莓酱，具备减速效果
+Nach der Explosion der dreistufigen Erdbeerbombe der Explosiven Erdbeere bleibt Erdbeermarmelade zurück, die einen bremsenden Effekt hat.
 
 [POISONPEASHOOTER]
 毒液豌豆射手
@@ -41516,53 +41519,54 @@ Ein weiterer Mann mit einer größeren Bombe erscheint.
 
 
 [PLANTING_VINE_MUST_BE_ON_A_PLANT]
-藤蔓植物必须和其他植物种植在一起！
+Ranken müssen zusammen mit anderen Pflanzen gepflanzt werden!
 
 [PLANTING_VINE_CAN_NOT_PLANT_ON_COBCANNON]
-藤蔓类植物不能种植在玉米加农炮上。
+Ranken können nicht auf einer Maiskanone gepflanzt werden.
 
 [OLIVEPIT]
-橄榄坑
+Bohrlive
 
 [OLIVEPIT_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}矮个子
-{FLAVOR}橄榄坑埋在地下深处，他一直有个愿望，希望有一天能去一次天空之城里面的飞船。
+{KEYWORD} Pflanzenmerkmale: {STAT} Kleinwüchsig
+
+{FLAVOR}Bohrlive liegt tief unter der Erde vergraben und kocht vor Wut. Weswegen? Schwer zu sagen. Vielleicht wegen Flugzeugen? Oder Helikoptern?
 
 [OLIVEPIT_DESCRIPTION_HEADER]
-橄榄坑能减速前方一格僵尸，并让路过的僵尸掉下去
+Bohrliven bohren sich in den Boden und warten darauf, Zombies zu verschlingen, die dumm genug sind, auf sie zu treten.
 
 [OLIVEPIT_TOOLTIP]
-橄榄坑能减速前方一格僵尸，并让路过的僵尸掉下去
+Verschluckt mehrere Zombies und verlangsamt mit öl
 
 [OLIVEPIT_PRODUCT_SHORT_DESC]
-橄榄坑能减速前方一格僵尸，并让路过的僵尸掉下去
+Verschluckt mehrere Zombies und verlangsamt mit öl
 
 [OLIVEPIT_AVATAR_NAME]
-橄榄坑能减速前方一格僵尸，并让路过的僵尸掉下去
+Verschluckt mehrere Zombies und verlangsamt mit öl
 
 [STORE_PRODUCT_AVATAR_OLIVEPIT]
-能将3X3范围内的飞行僵尸击落并吸引到坑道里面
+Kann fliegende Zombies in einem Umkreis von 3x3 abschießen und in den Tunnel locken.
 
 [STORE_PRODUCT_AVATAR_OLIVEPIT_TITLE]
-橄榄坑装扮
+Bohrlive-Kostüm
 
 [OLIVEPIT_SKILL_LEVEL1]
-消化强化
+Verdauungsverbesserung
 
 [OLIVEPIT_SKILL_LEVEL1_DES]
-橄榄坑内一次能消化的僵尸数量从2个变为3个，消化时间减少10秒
+Die Anzahl der Zombies, die gleichzeitig  verdaut werden können, erhöht sich von 2 auf 3, und die Verdauungszeit verkürzt sich um 10 Sekunden.
 
 [OLIVEPIT_SKILL_LEVEL2]
-坑道强化
+Tunnelverbesserung
 
 [OLIVEPIT_SKILL_LEVEL2_DES]
-橄榄坑内一次能消化的僵尸数量从3个变为4个，消化时间再减少10秒
+Die Anzahl der Zombies, die gleichzeitig in der Bohrlive verdaut werden können, erhöht sich von 3 auf 4, und die Verdauungszeit verkürzt sich zusätzlich um 10 Sekunden. Sekunden
 
 [OLIVEPIT_SKILL_LEVEL5]
-缠绕 
+Verstrickung
 
 [OLIVEPIT_SKILL_LEVEL5_DES]
-当橄榄坑进入消化状态时，会对路过的1个除了巨人僵尸，飞行僵尸和载具僵尸 伸出草叶将其脚缠绕5秒
+Wenn der Olivenkern in den Verdauungszustand wechselt, streckt er Grasblätter nach einem vorbeigehenden Zombie aus (ausgenommen Riesen-, Flug- und Fahrzeug-Zombies) und umschlingt dessen Beine 5 Sekunden lang.
 
 [WINTERRAMBUTAN]
 寒霜白毛丹
@@ -53280,7 +53284,7 @@ Anfangssonne
 Die Menge an Sonne, die zu Beginn des Kampfes genutzt werden kann
 
 [MUTATOR_STARTING_PLANTFOOD]
-Anfangsenergiebohnen
+AnfangsSpezialdünger-Fähigkeit
 
 [MUTATOR_STARTING_PLANTFOOD_DESC]
 Menge an Spezialdünger-Fähigkeitn zu Beginn eines Kampfes
@@ -70340,10 +70344,10 @@ Der Wirbelwind der Mispelwirbel kann Zombies der ersten Stufe direkt nach unten 
 Der Wirbelwind der Mispel kann Zombies der zweiten Stufe direkt nach unten ziehen und Zombies im Himmelsbereich von „Sky City“ 1000 Schaden zufügen.
 
 [DOUBLESAMARA_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
 
 [DOUBLESAMARA_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
 
 [ANTHURIUM_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von der Anthurie erscheint, feuert diese einen Elektroball ab, um den Zombie anzugreifen. Befinden sich zwei Pflanzen mit Ladungen in einem 3×3-Bereich um die Anthurie herum, absorbiert sie diese und feuert beim nächsten Angriff einen großen Elektroball ab. Dieser große Elektroball kann Zombies in kleinem Umkreis ebenso viel Flächenschaden zufügen.
@@ -70355,7 +70359,7 @@ Beim Angriff besteht eine Chance von 7,5 %, einen großen Elektroball mit 600 Sc
 Beim Angriff besteht eine Chance von 15 %, einen großen Elektroball mit 800 Schaden freizusetzen.
 
 [ANTHURIUM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohnen-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [ANTHURIUM_PLANTFOOD_DESCRIPTION]
 Absorbiert alle Ladungen auf dem Bildschirm und fügt drei zufälligen Einheiten Schaden zu.
@@ -70502,7 +70506,7 @@ Der Suchbereich von Electric Blueberry ändert sich auf die gesamte Reihe.
 Der Suchbereich von Electric Blueberry erweitert sich auf das gesamte Feld.
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 80%ige Chance, dass sich außerhalb der Gewitterwolke eine kreuzförmige Gewitterwolke bildet. Diese bewegt sich mit der ursprünglichen Gewitterwolke und fügt allen Zombies in Reichweite nach dem Angriff 1200 Schaden zu.
@@ -70523,7 +70527,7 @@ Vom AVATAR abgefeuerte Raketen können 2-mal abgefeuert werden.
 Vom AVATAR abgefeuerte Raketen können 3-mal abgefeuert werden.
 
 [GREENTURNIP_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
 
 [GREENTURNIP_PLANTFOOD_DESCRIPTION]
 AVATAR feuert eine riesige Rakete ab, die Zombies vor ihm Schaden zufügt. Die Rakete bewegt sich vorwärts, bis sie unten rechts ankommt.
@@ -70562,7 +70566,7 @@ Durian erhält eine stinkende Aura, die Zombies in Reichweite 20 Schaden pro Sek
 Die stinkende Aura wird verstärkt und fügt Zombies in Reichweite 30 Schaden pro Sekunde zu. Rüstung wird dabei ignoriert.
 
 [ENDURIAN_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den ultimativen Energiebohnen-Move direkt einzusetzen!
+Beim Einpflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt einzusetzen!
 
 [ENDURIAN_PLANTFOOD_DESCRIPTION]
 Durian erhält eine Stahlrüstung. Solange diese Rüstung besteht, erhöht sich Durians Stichschaden um 50 %.
@@ -70580,7 +70584,7 @@ Die Lebenspunkte des Kürbisgolems steigen auf 2000/1000 und sein Angriff auf 10
 Die Lebenspunkte des Kürbisgolems steigen auf 3000/1500 und sein Angriff auf 150/300.
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die ultimative Energiebohnen-Fähigkeit direkt freizusetzen! Der Gesundheitswert des Kürbisgolems steigt auf 4500/2250 und seine Angriffskraft auf 225/450.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die ultimative Spezialdünger-Fähigkeit direkt freizusetzen! Der Gesundheitswert des Kürbisgolems steigt auf 4500/2250 und seine Angriffskraft auf 225/450.
 
 [PUMPKINWITCH_PLANTFOOD_DESCRIPTION]
 Wirft bis zu 5 Kürbisse mit einer Stärke von 130 % des normalen Kürbisses und kontrolliert die 5 am weitesten links steuerbaren Zombies auf dem Feld. Danach ruht sich der Kürbismagier 14 Sekunden lang aus. Die Puppe erholt sich nach dem Tod nicht.
@@ -70592,10 +70596,10 @@ Wirft bis zu 5 Kürbisse mit einer Stärke von ^ff0000^150 % des normalen Kürbi
 Nach dem Pflanzen wird das Feld, auf dem sie sich befindet, zu einem goldenen Feld. Darüber gepflanzte Pflanzen können Sonnenlicht erzeugen.
 
 [GOLDLEAF_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine Energiebohnen-Spezialattacke.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit-Spezialattacke.
 
 [GOLDLEAF_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine Energiebohnen-Spezialattacke.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit-Spezialattacke.
 
 [AKEE_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von Akaimumu erscheint, schleudert Akaimumu Baumbeeren, um den Zombie anzugreifen. Die Baumbeeren können ausgeworfen werden. Nach dem Treffen des Zombies schleudert dieser innerhalb von 4 Feldern nach rechts, um andere Zombies zu treffen. Nach dem Auswurf wird der Schaden um 10 Punkte reduziert. Maximal 4 Ziele können angegriffen werden.
@@ -70607,7 +70611,7 @@ Die Auswurffähigkeit der Baumbeeren ist verbessert. Jeder Auswurf reduziert den
 Die Beeren können stärker abprallen, wodurch der Schaden pro Abprall um 20 Punkte reduziert wird. Sie können bis zu 6 Ziele angreifen.
 
 [AKEE_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Chance, die ultimative Energiebohnen-Fähigkeit direkt freizusetzen! Jeder Beerenabprall reduziert den Schaden um 25 Punkte.
+Beim Einpflanzen besteht eine hohe Chance, die ultimative Spezialdünger-Fähigkeit direkt freizusetzen! Jeder Beerenabprall reduziert den Schaden um 25 Punkte.
 
 [AKEE_PLANTFOOD_DESCRIPTION]
 Akaimumu schleudert bis zu 5 große Beeren auf alle Zombies in der Reihe. Die Beeren springen zwischen Zombies hin und her und verringern so den Schaden bei jedem Sprung.
@@ -70661,7 +70665,7 @@ Die Dauer der von der Lava-Guave hinterlassenen Lavalache erhöht sich um 2 Seku
 Die Lavalache spritzt in die vier angrenzenden Richtungen und bleibt 11 Sekunden lang bestehen.
 
 [LAVAGUAVA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den ultimativen Energiebohnen-Move direkt einzusetzen!
+Beim Pflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt einzusetzen!
 
 [LAVAGUAVA_NEW_SKILL_LEVEL5_DES]
 Nach dem Ausbruch der Magmaguave schleudert sie zufällig fünf Magmakugeln. Nach der Landung der Magmakugeln entsteht ein Magmapool, der 11 Sekunden lang anhält.
@@ -70718,7 +70722,7 @@ Agaves hervorragende Schwertkunst ermöglicht es ihr, nach 3 Sekunden Aufladung 
 Tequilas hervorragende Schwertkunst ermöglicht nach 2 Sekunden Ladezeit zwei Hiebe gleichzeitig.
 
 [AGAVE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt einzusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt einzusetzen!
 
 [AGAVE_NEW_SKILL_LEVEL5_DES]
 Nach 2 Sekunden Ladezeit führt Tequila den luftzerstörenden Hieb aus, der den ersten Zombie in der Reihe anvisiert und die Zombies im 1×2-Bereich mehrfach trifft und jeweils 2700 Schaden verursacht.
@@ -70739,10 +70743,10 @@ Wenn die Jackfrucht den Tunneleingang blockiert, erhöht sich ihre Gesundheit um
 Erhöht die Gesundheit der Jackfrucht.
 
 [JACKFRUIT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Energiebohnen-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Ultimate-Attacke.
 
 [JACKFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Energiebohnen-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Ultimate-Attacke.
 
 [KIWIFRUIT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben der Kiwi erscheint, wirft er einen goldenen Knüppel nach rechts. Der goldene Knüppel stoppt nach dem Kontakt mit dem Zombie und fügt ihm weiterhin in einem einzigen Raster Schaden zu. Der goldene Knüppel hält 4 Sekunden lang an.
@@ -70754,7 +70758,7 @@ Die Angriffszeit des goldenen Knüppels wurde auf 12 Sekunden verlängert und di
 Kiwi erlernt die Fähigkeit „Verlangsamen“, die Zombies, die von der goldenen Keule getroffen werden, verlangsamt.
 
 [KIWIFRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
 
 [KIWIFRUIT_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, einen kleinen Kiwi zu beschwören. Der kleine Kiwi fliegt nach rechts und schlägt auf die Zombies ein, die er berührt, und verursacht 300 Schaden. Nach 8 Angriffen verschwindet er.
@@ -70793,7 +70797,7 @@ Die Drachenfrucht feuert blaue Feuerbälle ab, um Zombies anzugreifen. Der Schad
 Ununterdrückbare Wut verkürzt Pitayas Angriffsintervall um 1 Sekunde.
 
 [DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den ultimativen Energiebohnen-Move direkt einzusetzen!
+Beim Pflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt einzusetzen!
 
 [DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
 Pitaya greift Zombies mit violetten Feuerbällen an. Der Schaden ist höher.
@@ -70835,7 +70839,7 @@ Nach 6 Schlägen kann die Streichholzblume ihre Form ändern.
 Mit zunehmender Angriffskraft färben sich die Flammen der Streichholzblume blau.
 
 [MATCHFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
 
 [MATCHFLOWER_NEW_SKILL_LEVEL5_DES]
 Wenn der Match-FLOWER-Boxer angreift, besteht eine 25%ige Wahrscheinlichkeit, einen explosiven Schlag mit 135 Schadenspunkten auszulösen.
@@ -70901,7 +70905,7 @@ Alle 2–4 Vibrationen führt sie einen schweren Angriff aus.
 Die Intensität des schweren Klangs nimmt weiter zu, und der Schaden des schweren Angriffs verdreifacht die Angriffskraft.
 
 [PHATBEET_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohnen-Fähigkeit direkt freizusetzen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [PHATBEET_NEW_SKILL_LEVEL5_DES]
 Alle 8 Sekunden kann ein Spezialschock ausgelöst werden, der die instabile Rüstung von Zombies bis Level 8 zerstört und 3 Sekunden lang 270 Schaden pro Sekunde verursacht.
@@ -70922,10 +70926,10 @@ Beim Teleportieren besteht eine 60%ige Chance, dass die Zombies in die Zeit- und
 Es können sieben Zombies gleichzeitig teleportiert werden. Die teleportierten Zombies werden in die Zeit- und Raumturbulenzen geschleudert und kehren nicht zurück.
 
 [THYMEWARP_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
 
 [THYMEWARP_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
 
 [CELERYSTALKER_NEW_SKILL_LEVEL1_DES]
 Nach dem Pflanzen versteckt sich der Lauernde Sellerie unter der Erde und wartet auf vorbeikommende Zombies. Erscheint ein Zombie links von ihm, bricht dieser aus dem Boden und greift ihn an. Befindet sich etwa drei Sekunden lang kein Zombie in Angriffsreichweite, versteckt er sich wieder.
@@ -70937,7 +70941,7 @@ Beim Ausbruch aus dem Boden besteht eine 25%ige Chance auf einen Handflächensch
 Beim Ausbruch aus dem Boden besteht eine 50%ige Chance auf einen Handflächenschlag, der Zombies um 1 Feld zurückdrängt.
 
 [CELERYSTALKER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
 
 [CELERYSTALKER_PLANTFOOD_DESCRIPTION]
 Lauernder Sellerie erzeugt sofort 3 lauernde Sellerie auf einem zufälligen leeren Feld.
@@ -70994,10 +70998,10 @@ Erweckt eine Pflanze wieder und stellt 100 % ihrer Gesundheit wieder her.
 Erwecke eine Pflanze wieder zum Leben und verleihe ihr einen 5 Sekunden anhaltenden Unverwundbarkeitsschild.
 
 [INTENSIVECARROT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Energiebohnen-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Ultimate-Attacke.
 
 [INTENSIVECARROT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Energiebohnen-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Ultimate-Attacke.
 
 [CACTUS_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Kaktus erscheint, schießt dieser stechende Stacheln aus seinem Maul auf ihn. Erscheint ein Zombie ein Feld rechts vom Kaktus, versinkt dieser im Boden und fügt dem Zombie Schaden zu, wenn er darauf tritt. ^ff0000^ Die Wirkung ist stark auf Ballon-Zombies. ^oldclr^
@@ -71009,7 +71013,7 @@ Beim Angriff besteht eine 17%ige Chance, elektrische Stacheln mit einem Schaden 
 Die stechenden Stacheln des Kaktus können bis zu 5 Zombies durchdringen.
 
 [CACTUS_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die ultimative Energiebohnen-Fähigkeit direkt freizusetzen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die ultimative Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [CACTUS_NEW_SKILL_LEVEL5_DES]
 Der Kaktus hat eine 20%ige Chance, einen kleinen Kaktus mit 1000 Lebenspunkten und einer Angriffskraft von 60/0,5 s abzufeuern. Der Kaktus lähmt den Ⅰ^oldclr^ Zombie nach 2–3 Angriffen für 1 Sekunde.
@@ -72470,7 +72474,7 @@ Der normale Angriff von Ananas-Kettenklinge hat eine Chance von 20 %, in einen a
 Der Fertigkeitseffekt von Schneller leichter Kettenschlag ist um 100 % erhöht.
 
 [BROMELBLADE_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Einpflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
 
 [BROMELBLADE_NEW_SKILL_LEVEL5_DES]
 Nach dem Auslösen des Abwärtsangriffs besteht eine Chance von 50 %, mit einem krachenden Angriff nachzusetzen. Ananas sticht die Kettenklinge in den Boden, fügt dem Zombie 4 Felder rechts 5400 Schaden zu und stößt ihn 1,5 Felder zurück.
@@ -72491,7 +72495,7 @@ Die Fragmente des fliegenden Schildes werden schärfer, und zwei davon können e
 Jetzt können alle fünf Teile einem einzelnen Zombie Schaden zufügen.
 
 [STEPHANIA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
 
 [STEPHANIA_NEW_SKILL_LEVEL5_DES]
 Einige der Schildfragmente werden rund und können nach einem Zombie-Treffer wieder zerbrochen werden.
@@ -72530,7 +72534,7 @@ Das Dendrobium-Windschutznetz hat seine Regenerationsfähigkeit freigeschaltet. 
 Das Dendrobium-Windschutznetz hat eine schnellere Regenerationsgeschwindigkeit. Es kann nun alle 50 Sekunden ein Blatt regenerieren.
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohnen-Attacke direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit-Attacke direkt auszulösen!
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL5_DES]
 Beim Fressen besteht eine 50%ige Chance, sich schnell zu drehen und alle Zombies um ein Feld nach rechts zurückzustoßen. Dies kann bis zu einmal alle 20 Sekunden ausgelöst werden.
@@ -72572,28 +72576,28 @@ Der Kaugummi hat einen Zaubereffekt. Es besteht eine 20%ige Chance, den Zombie m
 Die Wahrscheinlichkeit, dass der Zauberkaugummi die Fertigkeit auslöst, wird um 100 % erhöht. Es besteht eine 40%ige Chance, den zerkauten Zombie mit ^ff4284^ Charm I^oldclr^ zu bezaubern. Die Kaugummi-Lebenspunkte werden auf 16.000 erhöht.
 
 [GUMNUT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Energiebohnen-Fähigkeit direkt freizusetzen! Die Kaugummi-Lebenspunkte werden auf 20.000 erhöht.
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen! Die Kaugummi-Lebenspunkte werden auf 20.000 erhöht.
 
 [GUMNUT_NEW_SKILL_LEVEL5_DES]
 Kaugummi wird zu giftigem Kaugummi. Wenn Zombies ihn kauen, setzt er giftigen Rauch frei, der alle Zombies dahinter für 5 Sekunden in Schwindel versetzt. Die Kaugummi-Lebenspunkte werden auf 24.000 erhöht.
 
 [GUMNUT_PLANTFOOD_DESCRIPTION]
-Schleim-Eukalyptus erzeugt eine riesige Blase, die nach der Explosion an den fünf Zombies ganz links haften bleibt.
+Die Gumminuss erzeugt eine riesige Blase, die nach der Explosion an den fünf Zombies ganz links haften bleibt.
 
 [GUMNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Schleim-Eukalyptus erzeugt eine riesige Blase und bleibt nach der Explosion an den ^ff0000^8 Zombies ganz links haften. ^oldclr^
+Die Gumminuss erzeugt eine riesige Blase und bleibt nach der Explosion an den ^ff0000^8 Zombies ganz links haften. ^oldclr^
 
 [OLIVEPIT_NEW_SKILL_LEVEL1_DES]
 Nach dem Einpflanzen vergräbt er sich unter der Erde und sprüht alle 2,2 Sekunden einen Ölblock nach rechts, wodurch vorbeikommende Zombies verlangsamt werden. Wenn Zombies die Grube betreten, fallen sie hinein und werden sofort getötet. Wenn zwei Zombies oder ein Zombie der Stufe 2 oder höher hineinfallen, wird die Grube blockiert und braucht 60 Sekunden, um sich wieder zu lösen. ^ff0000^ Wirkt Wunder bei Zombie-Hühnern und Zombie-Eiswieseln! ^oldclr^
 
 [OLIVEPIT_NEW_SKILL_LEVEL2_DES]
-Die Anzahl der Zombies, die gleichzeitig im Olivenkern verdaut werden können, beträgt nun 3 oder 1 Zombie der Stufe 3 oder höher. Die Verdauungszeit wird auf 50 Sekunden reduziert.
+Die Anzahl der Zombies, die gleichzeitig in der Bohrlive verdaut werden können, beträgt nun 3 oder 1 Zombie der Stufe 3 oder höher. Die Verdauungszeit wird auf 50 Sekunden reduziert.
 
 [OLIVEPIT_NEW_SKILL_LEVEL3_DES]
-Die Anzahl der Zombies, die gleichzeitig im Olivenkern verdaut werden können, beträgt nun 4 oder 1 Zombie der Stufe 5 oder höher. Die Verdauungszeit wird auf 40 Sekunden reduziert.
+Die Anzahl der Zombies, die gleichzeitig in der Bohrlive verdaut werden können, beträgt nun 4 oder 1 Zombie der Stufe 5 oder höher. Die Verdauungszeit wird auf 40 Sekunden reduziert.
 
 [OLIVEPIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohnen-Fähigkeit direkt freizusetzen! Die Stufe der Zombies, die der Olivenkern normal verdauen kann, wird auf Stufe 7 erhöht.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen! Die Stufe der Zombies, die der Olivenkern normal verdauen kann, wird auf Stufe 7 erhöht.
 
 [OLIVEPIT_NEW_SKILL_LEVEL5_DES]
 Wenn der Olivenkern in den Verdauungszustand wechselt und ein Zombie ein Feld rechts erscheint, streckt er Grasblätter aus, um seine Füße 5 Sekunden lang zu umwickeln. Zombies aller Stufen können normalerweise 4 Zombies gleichzeitig verdauen.
@@ -72980,10 +72984,10 @@ Die Stacheln von der Heißen heide wurden verstärkt und feuern nun sieben Pfeil
 Die Stacheln von der Heißen heide wurden verstärkt und feuern nun acht Pfeile ab, wodurch die Anzahl der Durchschläge verfünffacht wurde.
 
 [HEATHSEEKER_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
 
 [HEATHSEEKER_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
 	  
 [ENTS_NEW_SKILL_LEVEL1_DES]
 Der riesige Körper des Baumwächters dient dem Schutz von Pflanzen. Er regeneriert automatisch seine Gesundheit um 300 Punkte pro Sekunde. Bei mehr als zwei Zombies erhöht sich die Regeneration auf 400 Punkte pro Sekunde. Er kann Baumspitzen um sich herum erzeugen, um Zombies anzugreifen. ^ff0000^ Er hat eine wundersame Wirkung auf Roller-Zombies. ^oldclr^
@@ -75697,10 +75701,11 @@ Zombies mit Einträgen erhalten zusätzliche Buffs. Sei also vorsichtig.
 Es gibt keinen speziellen Mechanismus in diesem Spiel. Es funktioniert wie im normalen Modus. Verhindere, dass Zombies dein Gehirn fressen. Schalte das nächste Level frei, nachdem du es abgeschlossen hast.
 
 [PLANTWARS_MODE_HOWTOPLAY_4_DESCRIPTION]
-Die Punktzahl wird durch Subtraktion berechnet. Sonnenlichtverbrauch, Pflanzensterben und die Verwendung von Energiebohnen reduzieren die Punktzahl. Sternbelohnungen werden basierend auf den verbleibenden Punkten vergeben.
+Die Punktzahl wird durch Subtraktion berechnet. Sonnenlichtverbrauch, Pflanzensterben und die Verwendung von Spezialdünger-Fähigkeiten reduzieren die Punktzahl. Sternbelohnungen werden basierend auf den verbleibenden Punkten vergeben.
 
 [ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE]
 Elite-Jäger-Zombie
+
 [ZOMBIE_PLANTWARS_ICEAGE_HUNTER_ELITE_DESCRIPTION_HEADER]
 Der Elite-Jäger-Zombie verfügt über einen Zähigkeitsbalken. Angriffe mit Feuerattribut können seine Zähigkeit verringern (Brennangriffe können sie erheblich reduzieren). Das Leeren des Zähigkeitsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Zähigkeitsbalken wiederhergestellt ist. Sobald der Zähigkeitswert des Zombies erreicht ist, kann er Schaden begrenzen.
 
