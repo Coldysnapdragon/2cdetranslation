@@ -45484,8 +45484,7 @@ Sternfrucht-Perücke
 [NEW_AVATAR_DESCRIPTION_STARFRUIT_1]
 Erhöht die Angriffsgeschwindigkeit um 15 %
 
-[AVATARCOLLECTIONS_THEME_TITLE14]
-Unterwasser-Geheimnis S_THEME_DES14]
+[AVATARCOLLECTIONS_THEME_DES14]
 Das blaue Meer, die dunkle Flut brandet
 
 [AVATARCOLLECTIONS_HEAD_ID_25716]
