@@ -38685,13 +38685,13 @@ Olive
 Kann Ballett-Zombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
 
 [OLIVE_TOOLTIP]
-Kann Ballett-Zombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
+Kann Ballett-Zombies ausrutschen lassen und von Feuerpflanzen entzündet werden.
 
 [OLIVE_PRODUCT_SHORT_DESC]
-Kann Ballett-Zombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
+Kann Ballett-Zombies ausrutschen lassen und das Öl kann von Feuerpflanzen entzündet werden.
 
 [OLIVE_AVATAR_NAME]
-Kann Ballettzombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
+Kann Ballett-Zombies ausrutschen lassen und von Feuerpflanzen entzündet werden.
 
 [POMEGRANATEJEWELER]
 
@@ -76300,7 +76300,7 @@ Verursache in 30 Sekunden so viel Schaden wie möglich.
 Jingle Bells
 
 [GINGLEBELL_TASKDESCRIPTION]
-Füge dem Gargantua im letzten Level {NUMBER} Schaden zu.
+Füge im neuesten Level {NUMBER} Schaden zu!
 
 [A_PILE_SNOWMEN1_TITLE]
 Flammentraining – Level 1
@@ -76396,7 +76396,7 @@ Feuertraining – Stufe {LEVEL_NUMBER}
 Körpertraining – Stufe {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}s Jingle Bells Trip
+{PLAYER}s Kraftprobe!
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Sonne-Mond-Geißblatt-Winteroutfit
