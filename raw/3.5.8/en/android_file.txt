@@ -6468,52 +6468,52 @@ Los!
 LETZTE WELLE
 
 [WARNING_RAIDINGPARTY]
-Piraten sind an Bord!
+ÜBERFALL!
 
 [WARNING_SANDSTORM]
-Sandsturm!
+SANDSTURM!
 
 [WARNING_HEIAN_WIND]
-Der Wind kommt!
+DER WIND KOMMT!
 
 [WARNING_RENAI_NIGHT_1]
-Die Nacht bricht herein!
+DIE NACHT BRICHT EIN!
 
 [WARNING_RENAI_NIGHT_2]
-Bitte mach dich bereit...
+MACH DICH BEREIT...
 
 [WARNING_RENAI_NIGHT_3]
-Los!
+LOS!
 
 [WARNING_STANDARD_1]
-Achtung…
+ACHTUNG…
 
 [WARNING_STANDARD_2]
-Fertig…
+FERTIG…
 
 [WARNING_STANDARD_3]
-PFLANZEN！
+PFLANZEN!
 
 [WARNING_THUNDER_TIP]
-Ein Gewitter zieht auf!
+EIN GEWITTER ZIEHT AUF!
 
 [WARNING_PARACHUTERAIN]
-Zombies von Oben!
+ZOMBIES VON OBEN!
 
 [WARNING_GRAVESTONE_SPAWN]
-Vorsicht, der Grabstein ist lose!
+NEKROMANTIE!
 
 [WARNING_FAIRY_TALE_WIND_TIP]
-Der Wind weht!
+DER WIND WEHT!
 
 [WARNING_FAIRY_TALE_FOG_TIP]
-Nebel zieht auf!
+MAGISCHER NEBEL ZIEHT AUF!
 
 [WARNING_TIDE_WAVE_TIP]
-Es tritt eine Meeresströmung auf!
+ES KOMMT EINE MEERESSTRÖMUNG!
 
 [WARNING_BLACK_HOLE_TIP]
-Das Schwarze Loch wird die Pflanzen aufsaugen!
+DAS SCHWARZE LOCH WIRD DIE PFLANZEN AUFSAUGEN!
 
 [WELCOME_USER_NAME_2]
 Hallo,%s!
@@ -42358,95 +42358,93 @@ Der heiße Tangyuan wurde von Zombies gefressen!
 当造成更强火龙卷的时候，吸引的相邻道路上的僵尸到本行，龙卷风结束时造成冲天火柱，造成爆炸伤害后消散。
 
 [GARDENERGRASS]
-地锯草
+Gardenergras
 
 [GARDENERGRASS_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1格
-{KEYWORD}特点：{STAT}用头顶的帽子对僵尸进行攻击，被攻击的僵尸有概率直接被打断手
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 我，卜若地，不知道为什么，拥有了锯子的功能，我很高兴，但是，是谁把我的名字截断了来用的？
+{KEYWORD}Reichweite: {STAT}1 Feld vorn
+{KEYWORD}Eigenschaften: {STAT}Zombies mit dem Hut angreifen. Angegriffenen Zombies können die Hände gebrochen werden.
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{FLAVOR} Ich, Bu Ruodi, weiß nicht warum, habe die Funktion einer Säge. Ich bin sehr glücklich, aber wer hat meinen Namen abgeschnitten und benutzt?
 
 [GARDENERGRASS_DESCRIPTION_HEADER]
-用头顶的帽子对僵尸进行攻击
+Benutze den Hut auf deinem Kopf, um Zombies anzugreifen.
 
 [GARDENERGRASS_TOOLTIP]
-用头顶的帽子对僵尸进行攻击
+Benutze den Hut auf deinem Kopf, um Zombies anzugreifen.
 
 [GARDENERGRASS_PRODUCT_SHORT_DESC]
-用头顶的帽子对僵尸进行攻击
+Benutze den Hut auf deinem Kopf, um Zombies anzugreifen.
 
 [GARDENERGRASS_SKILL_LEVEL1]
-高效电锯
+Hocheffiziente Kettensäge
 
 [GARDENERGRASS_SKILL_LEVEL1_DES]
-过热的时间减少至7.5秒
+Überhitzungszeit auf 7,5 Sekunden reduziert.
 
 [GARDENERGRASS_SKILL_LEVEL2]
-超级电锯
+Super-Kettensäge
 
 [GARDENERGRASS_SKILL_LEVEL2_DES]
-过热的时间减少至5秒
+Überhitzungszeit auf 5 Sekunden reduziert.
 
 [GARDENERGRASS_SKILL_LEVEL5]
-藏着一手
+Versteckte Hand
 
 [GARDENERGRASS_SKILL_LEVEL5_DES]
-地锯草的攻击有概率会扔出自己的帽子，对前方范围内的僵尸，每秒造成伤害，并有概率直接打断手，持续15秒，地锯草仍旧需要时间休息
+Beim Angriff kann Sägegras seinen Hut werfen. Verursacht jede Sekunde Schaden an Zombies in der vorderen Reichweite und hat die Chance, die Hand direkt zu brechen. Dieser Effekt hält 15 Sekunden an. Sägegras braucht noch Ruhe.
 
 [STORE_PRODUCT_AVATAR_GARDENERGRASS_TITLE]
-地锯草装扮
+Sägegras-Outfit
 
 [GARDENERGRASS__AVATAR_NAME]
-地锯草装扮
+Sägegras-Outfit
 
 [STORE_PRODUCT_AVATAR_GARDENERGRASS]
-受到电锯伤害的僵尸会被点燃，每秒受到伤害，持续5秒。
+Zombies, die von der Kettensäge getroffen werden, geraten in Brand und erleiden 5 Sekunden lang jede Sekunde Schaden.
 
 [HATMUSHROOM]
-疯帽菇
-
+Verrückter Hutmacher Pilz
 [HATMUSHROOM_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}疯帽菇会扔出头顶的帽子对身前的僵尸进行攻击
-{KEYWORD}植物特征：{STAT}童话植物
-{FLAVOR} “你知道的，”疯帽菇自豪地说“所有植物的帽子都是我做的，虽然他们好像都不怎么喜欢戴帽子。”
+{KEYWORD}Reichweite: {STAT}1 Reihe voraus
+{KEYWORD}Merkmale: {STAT}Der verrückte Hutpilz wirft seinen Hut, um die Zombies vor ihm anzugreifen.
+{KEYWORD}Pflanzenmerkmale: {STAT}Märchenpflanze
+{FLAVOR} „Weißt du“, sagte der verrückte Hutmacher stolz, „ich habe alle Hüte für die Pflanzen gemacht, obwohl sie anscheinend keine Hüte tragen.“
 
 [HATMUSHROOM_DESCRIPTION_HEADER]
-疯帽菇会扔出头顶的帽子对身前的僵尸进行攻击
+Der Verrückte Hutmacher wirft sich den Hut auf den Kopf, um die Zombies vor ihm anzugreifen.
 
 [HATMUSHROOM_TOOLTIP]
-疯帽菇会扔出头顶的帽子对身前的僵尸进行攻击
+Der Verrückte Hutmacher wirft sich den Hut auf den Kopf, um die Zombies vor ihm anzugreifen.
 
 [HATMUSHROOM_PRODUCT_SHORT_DESC]
-疯帽菇会扔出头顶的帽子对身前的僵尸进行攻击
+Der Verrückte Hutmacher wirft sich den Hut auf den Kopf, um die Zombies vor ihm anzugreifen.
 
 [HATMUSHROOM_SKILL_LEVEL1]
-时间学者
+Zeitgelehrter
 
 [HATMUSHROOM_SKILL_LEVEL1_DES]
-造成时空倒流效果的概率增加到10%
+Die Wahrscheinlichkeit, den Raum-Zeit-Umkehreffekt auszulösen, steigt auf 10 %.
 
 [HATMUSHROOM_SKILL_LEVEL2]
-掌控时间
+Zeitkontrolle
 
 [HATMUSHROOM_SKILL_LEVEL2_DES]
-造成时空倒流效果的概率增加到12%
+Die Wahrscheinlichkeit, den Zeitumkehreffekt auszulösen, steigt auf 12 %
 
 [HATMUSHROOM_SKILL_LEVEL5]
-魔法帽子
+Zauberhut
 
 [HATMUSHROOM_SKILL_LEVEL5_DES]
-疯帽菇的攻击有10%的概率会扔出1个魔法帽，造成高额伤害，首个被击中的僵尸将会触发更强大的时空倒流效果并直接传送到屏幕最右侧
+Beim Angriff des Verrückten Hutmachers besteht eine 10-prozentige Chance, dass ein Zauberhut herausgeschleudert wird, der hohen Schaden verursacht. Der erste getroffene Zombie löst einen stärkeren Zeitumkehreffekt aus und wird direkt nach ganz rechts auf den Bildschirm teleportiert.
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM_TITLE]
-疯帽菇装扮
+Verrückter Hutmacher-Kostüm
 
 [HATMUSHROOM__AVATAR_NAME]
-疯帽菇装扮
+Verrückter Hutmacher-Kostüm
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM]
-被大招的帽子击中的首个僵尸将会被附加时空倒流效果
-
+Der erste Zombie, der vom Hut des ultimativen Moves getroffen wird, erhält den Zeitumkehreffekt.
 
 [HOCUSCROCUS]
 魔法番红花
@@ -42494,50 +42492,49 @@ Der heiße Tangyuan wurde von Zombies gefressen!
 对场上最近的3个僵尸发射光线，同时留下附带持续缩小效果的魔法迷雾
 
 [BYTTNERIAMETEORHAMMER]
-刺果流星锤
+Burtle-Bombe
 
 [BYTTNERIAMETEORHAMMER_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方2格
-{KEYWORD}特点：{STAT}未攻击僵尸时会进行蓄力
-{KEYWORD}植物特征：{STAT}武艺高强
-{FLAVOR}与铁锤兰拜入同一师门下。但后来他发现锤子的攻击范围是有极限的，除非超越锤子。“我不做锤子了！”此后他就变成了流星锤。
+{KEYWORD}Reichweite: {STAT}2 Felder voraus
+{KEYWORD}Eigenschaften: {STAT}Stürmt auf, wenn er keine Zombies angreift.
+{KEYWORD}Eigenschaften der Pflanze: {STAT}Hohe Kampfkunstkenntnisse
+{FLAVOR} und Iron Hammer Orchid waren beide Schüler desselben Meisters. Doch später stellte er fest, dass die Angriffsreichweite des Hammers begrenzt war, es sei denn, er wurde übertroffen. „Ich will kein Hammer mehr sein!“ Danach wurde er zum Meteorhammer.
 
 [BYTTNERIAMETEORHAMMER_DESCRIPTION_HEADER]
-在未攻击僵尸时，会旋转流星锤进行蓄力，蓄力攻击能造成击退
+Wenn keine Zombies angegriffen werden, wird der Meteorhammer gedreht und aufgeladen. Der aufgeladene Angriff kann Rückstoß verursachen.
 
 [BYTTNERIAMETEORHAMMER_TOOLTIP]
-在未攻击僵尸时，会旋转流星锤进行蓄力，蓄力攻击能造成击退
+Wenn keine Zombies angegriffen werden, wird der Meteorhammer gedreht und aufgeladen. Der aufgeladene Angriff kann Rückstoß verursachen.
 
 [BYTTNERIAMETEORHAMMER_PRODUCT_SHORT_DESC]
-在未攻击僵尸时，会旋转流星锤进行蓄力，蓄力攻击能造成击退
+Wenn keine Zombies angegriffen werden, wird der Meteorhammer gedreht und aufgeladen. Der aufgeladene Angriff kann Rückstoß verursachen.
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL1]
-快速蓄力
+Schnellladung
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL1_DES]
-减少蓄力时间
+Ladezeit reduzieren
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL2]
-急速蓄力
+Schnell Aufladen
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL2_DES]
-再次减少蓄力时间
+Aufladezeit erneut reduzieren
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL5]
-分裂刺果
+Dornfrucht spalten
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL5_DES]
-蓄力攻击甩出的流星锤变为3颗，能对小范围内至多3个僵尸造成蓄力攻击
+Der Meteorhammer, der durch den Angriff abgefeuert wird, erhöht sich auf 3, was einen Angriff auf bis zu 3 Zombies in geringer Reichweite auslösen kann.
 
 [STORE_PRODUCT_AVATAR_BYTTNERIAMETEORHAMMER_TITLE]
-刺果流星锤装扮
+Dornfrucht-Meteorhammer-Kostüm
 
 [BYTTNERIAMETEORHAMMER_AVATAR_NAME]
-刺果流星锤装扮
+Dornfrucht-Meteorhammer-Kostüm
 
 [STORE_PRODUCT_AVATAR_BYTTNERIAMETEORHAMMER]
-大招砸下的流星锤会额外造成1次大范围的冲击波
-
+Der Meteorhammer, der durch die ultimative Fähigkeit abgefeuert wird, verursacht eine zusätzliche große Schockwelle.
 
 [BUTTERCUP]
 黄油毛茛
@@ -42584,188 +42581,185 @@ Der heiße Tangyuan wurde von Zombies gefressen!
 [STORE_PRODUCT_AVATAR_BUTTERCUP]
 地上的黄油对踩上它的下2个僵尸各造成1次伤害并糊上1次黄油后消失
 
-
 [CROWNFLOWER]
-激光皇冠花
+Laser-Kronblume
 
 [CROWNFLOWER_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}持续发射激光，随时间增强激光伤害
-{KEYWORD}植物特征：{STAT}紫色植物
-{FLAVOR}皇冠花的花苞中蕴含着无限的能量，只要瞄准目标，再给他一些时间，就能发射恐怖的高能激光。
+{KEYWORD}Reichweite: {STAT}1 Reihe voraus
+{KEYWORD}Eigenschaften: {STAT}Feuert kontinuierlich Laser ab, deren Schaden mit der Zeit zunimmt
+{KEYWORD}Pflanzeneigenschaften: {STAT}Lila Pflanze
+{FLAVOR}Die Knospen der Kronenblume enthalten unendliche Energie. Solange du auf das Ziel zielst und ihm etwas Zeit gibst, kann sie furchterregende Hochenergielaser abfeuern.
 
 [CROWNFLOWER_DESCRIPTION_HEADER]
-发射穿透僵尸的激光，会被大型僵尸阻挡，激光会随时间增强
+Laser, der Zombies durchdringt, wird von großen Zombies blockiert und mit der Zeit verstärkt.
 
 [CROWNFLOWER_TOOLTIP]
-发射穿透僵尸的激光，会被大型僵尸阻挡，激光会随时间增强
+Laser, der Zombies durchdringt, wird von großen Zombies blockiert und mit der Zeit verstärkt.
 
 [CROWNFLOWER_PRODUCT_SHORT_DESC]
-发射穿透僵尸的激光，会被大型僵尸阻挡，激光会随时间增强
+Laser, der Zombies durchdringt, wird von großen Zombies blockiert und mit der Zeit verstärkt.
 
 [CROWNFLOWER_SKILL_LEVEL1]
-高能状态
+Hoher Energiezustand
 
 [CROWNFLOWER_SKILL_LEVEL1_DES]
-紫色激光下攻击持续一定时间后会进入高能状态，高能状态下攻击会直接从紫色激光开始发射
+Nach einem Angriff mit einem violetten Laser für eine bestimmte Zeit wechselt dieser in den Hochenergiezustand. Der Angriff im Hochenergiezustand wird direkt vom violetten Laser abgefeuert.
 
 [CROWNFLOWER_SKILL_LEVEL2]
-持续高能
+Dauerhaft hoch Energie
 
 [CROWNFLOWER_SKILL_LEVEL2_DES]
-高能状态开启的要求时间减少
+Die benötigte Zeit zum Erreichen des Hochenergiezustands wird reduziert.
 
 [CROWNFLOWER_SKILL_LEVEL5]
-激光冲击
+Laserschock
 
 [CROWNFLOWER_SKILL_LEVEL5_DES]
-蓝色激光能对最左侧的中小体型僵尸造成减速；紫色激光能对最左侧的中小体型僵尸持续推动，对巨人僵尸造成减速
+Der blaue Laser kann die kleinen und mittelgroßen Zombies ganz links verlangsamen. Der violette Laser kann die kleinen und mittelgroßen Zombies ganz links kontinuierlich schieben und die riesigen Zombies verlangsamen.
 
 [STORE_PRODUCT_AVATAR_CROWNFLOWER_TITLE]
-激光皇冠花装扮
+Laser-Kronenblumenkostüm
 
 [CROWNFLOWER_AVATAR_NAME]
-激光皇冠花装扮
+Laser-Kronenblumenkostüm
 
 [STORE_PRODUCT_AVATAR_CROWNFLOWER]
-大招能释放出闪电链，攻击附近的僵尸
+Die ultimative Fähigkeit kann eine Blitzkette auslösen, um Zombies in der Nähe anzugreifen.
 
 [JEWELRABBIT]
-双生卯兔
+Zwillingskaninchen
 
 [JEWELRABBIT_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}顶飞同一行前方的僵尸
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}双生卯兔很不喜欢别人叫它双生卯兔，因为它对于月球上的无空气栽培技术非常的怀疑，它非常担心哪一天有人会将它送到月球上去
+{KEYWORD}Reichweite: {STAT}1 Reihe voraus
+{KEYWORD}Funktionen: {STAT}Fliege die Zombies vor dir in derselben Reihe hoch
+{KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanzen
+{FLAVOR}Zwillingskaninchen mögen es nicht, Zwillingskaninchen genannt zu werden, da sie der luftleeren Kultivierungstechnologie auf dem Mond sehr skeptisch gegenüberstehen und große Angst haben, eines Tages zum Mond geschickt zu werden.
 
 [JEWELRABBIT_DESCRIPTION_HEADER]
-钻入地下并在前方僵尸脚下钻出将其击飞
+Bohre dich unter die Erde und bohre dich von den Füßen der Zombies vor dir aus, um sie wegzustoßen.
 
 [JEWELRABBIT_TOOLTIP]
-钻入地下并在前方僵尸脚下钻出将其击飞
+Bohre dich unter die Erde und bohre dich von den Füßen der Zombies vor dir aus, um sie wegzustoßen.
 
-[JEWELRABBIT_PRODUCT_SHORT_DESC]
-钻入地下并在前方僵尸脚下钻出将其击飞
+[JEWELRABBIT_PRODUCT_SH ORT_DESC]
+Bohre dich unter die Erde und tauche aus dem Zombie vor dir auf, um ihn wegzustoßen. Weg
 
 [JEWELRABBIT_SKILL_LEVEL1]
-奋力一击
+Harter Schlag
 
 [JEWELRABBIT_SKILL_LEVEL1_DES]
-普通攻击可顶飞中型僵尸
+Ein normaler Angriff kann mittelgroße Zombies wegstoßen.
 
 [JEWELRABBIT_SKILL_LEVEL2]
-快速挖洞
+Schnell graben
 
 [JEWELRABBIT_SKILL_LEVEL2_DES]
-攻击冷却时间降低至13秒
+Abklingzeit des Angriffs auf 13 Sekunden reduziert.
 
 [JEWELRABBIT_SKILL_LEVEL5]
-双生兔
+Zwillingskaninchen
 
 [JEWELRABBIT_SKILL_LEVEL5_DES]
-攻击时2只兔子会一同钻入地下，在第一只兔子将僵尸顶飞后第二只兔子击退后面的所有非大型僵尸2格并造成最大生命值10%的伤害。
+Beim Angriff graben sich zwei Kaninchen gemeinsam in die Erde. Nachdem das erste Kaninchen den Zombie weggestoßen hat, stößt das zweite Kaninchen alle kleineren Zombies dahinter um zwei Felder zurück und verursacht Schaden in Höhe von 10 % des maximalen Lebenspunktewerts.
 
 [STORE_PRODUCT_AVATAR_JEWELRABBIT_TITLE]
-双生卯兔装扮
+Zwillingskaninchen-Outfit
 
 [JEWELRABBIT_AVATAR_NAME]
-双生卯兔装扮
+Zwillingskaninchen-Outfit
 
 [STORE_PRODUCT_AVATAR_JEWELRABBIT]
-大招范围扩大为5×5
-
+Ultimative Fähigkeitenreichweite auf 5×5 erweitert
 
 [BURDOCKBATTER]
-牛蒡击球手
+Burdock Batter
 
 [BURDOCKBATTER_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1格
-{KEYWORD}特点：{STAT}可打出经过的豌豆子弹，造成更大的伤害或控制
-{KEYWORD}植物特征：{STAT}褐色植物
-{FLAVOR}能成为职业棒球手一直是牛蒡击球手的梦想，但是没有队伍敢录用它们，因为它们会占用2个上场名额
+{KEYWORD}Reichweite: {STAT}1 Feld voraus
+{KEYWORD}Eigenschaften: {STAT}Kann durchdringende Erbsengeschosse abfeuern, die größeren Schaden und bessere Kontrolle verursachen.
+{KEYWORD}Pflanzeneigenschaften: {STAT}Braune Pflanze
+{FLAVOR}Profi-Baseballspieler zu werden, war schon immer der Traum von Burdock Batters, doch kein Team traut sich, sie zu rekrutieren, da sie zwei Spielfelder belegen.
 
 [BURDOCKBATTER_DESCRIPTION_HEADER]
-可打出经过的豌豆子弹使其造成更大的伤害和控制
+Kann durchdringende Erbsengeschosse abfeuern, die größeren Schaden und bessere Kontrolle verursachen.
 
 [BURDOCKBATTER_TOOLTIP]
-可打出经过的豌豆子弹使其造成更大的伤害和控制
+Kann durchdringende Erbsengeschosse abfeuern, die größeren Schaden und bessere Kontrolle verursachen.
 
 [BURDOCKBATTER_PRODUCT_SHORT_DESC]
-可打出经过的豌豆子弹使其造成更大的伤害和控制
+Kann feuern
 
 [BURDOCKBATTER_SKILL_LEVEL1]
-强力挥棒
+Kraftvoll Schwung
 
 [BURDOCKBATTER_SKILL_LEVEL1_DES]
-使直线球可击退僵尸0.5格，曲线球的眩晕时间增加1秒
+Wirft gerade Bälle Zombies um 0,5 Raster zurück und erhöht die Betäubungszeit von Kurvenbällen um 1 Sekunde.
 
 [BURDOCKBATTER_SKILL_LEVEL2]
-超强力挥棒
+Superstarker Schwung
 
 [BURDOCKBATTER_SKILL_LEVEL2_DES]
-使直线球的击退距离增加0.5格，曲线球的眩晕时间增加1秒
+Erhöht die Rückstoßdistanz gerader Bälle um 0,5 Raster und erhöht die Betäubungszeit von Kurvenbällen um 1 Sekunde.
 
 [BURDOCKBATTER_SKILL_LEVEL5]
-再见本垒打
+Homerun ade!
 
 [BURDOCKBATTER_SKILL_LEVEL5_DES]
-击球时有概率打出本垒打，豌豆子弹会飞出场外，随后变成陨石砸向最靠近基地的僵尸，造成1格的范围伤害和眩晕。
+Beim Schlagen besteht die Chance auf einen Homerun. Die Erbsenkugel fliegt vom Feld und verwandelt sich dann in einen Meteoriten, der den Zombie trifft, der der Basis am nächsten ist. Sie verursacht 1 Raster Reichweitenschaden und betäubt ihn.
 
 [STORE_PRODUCT_AVATAR_BURDOCKBATTER_TITLE]
-牛蒡击球手装扮
+Klettenteig-Kostüm
 
 [BURDOCKBATTER_AVATAR_NAME]
-牛蒡击球手装扮
+Klettenteig-Kostüm
 
 [STORE_PRODUCT_AVATAR_BURDOCKBATTER]
-使击出的豌豆分裂为3个
-
+Löst die getroffene Erbse in drei Teile auf.
 
 [DEODARCEDAR]
-蓄电雪松果
+Zapfe der elektrischen Zeder
 
 [DEODARCEDAR_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方1行
-{KEYWORD}特点：{STAT}吸收电力储存起来，随后凝聚成电环发射出去
-{KEYWORD}植物特征：{STAT}十万伏特
-{FLAVOR}蓄电雪松果有自己对于电的独特运用，将电能储存在体内是它的绝活。这全仰仗于它自身对于电的容纳能力，这一发现要从一次和电流醋栗的拥抱说起，随后蓄电雪松果就爱上电流充盈在体内的感觉了。所以你现在常常能看到它学着聚能山竹的样子在天天发誓。
+{KEYWORD}Reichweite: {STAT}1 Zeile voraus
+{KEYWORD}Merkmale: {STAT}Elektrizität aufnehmen und speichern, dann zu einem elektrischen Ring verdichten und wieder abgeben
+{KEYWORD}Pflanzenmerkmale: {STAT}100.000 Volt
+{FLAVOR}Der Zapfen der elektrischen Zeder nutzt Elektrizität auf einzigartige Weise, und die Speicherung von Elektrizität in seinem Körper ist seine besondere Fähigkeit. Dies verdankt er seiner Fähigkeit, Elektrizität aufzunehmen. Diese Entdeckung begann mit einer Umarmung mit der elektrischen Stachelbeere, und dann verliebte sich der Zapfen der elektrischen Zeder in das Gefühl des elektrischen Stroms, der seinen Körper durchströmte. So sieht man ihn heute oft die energiespendende Mangostane imitieren und täglich fluchen.
 
 [DEODARCEDAR_DESCRIPTION_HEADER]
-吸收电力储存起来，随后凝聚成电环发射出去
+Elektrizität absorbieren und speichern, dann zu einem elektrischen Ring verdichten und abfeuern.
 
 [DEODARCEDAR_TOOLTIP]
-吸收电力储存起来，随后凝聚成电环发射出去
+Elektrizität absorbieren und speichern, dann zu einem elektrischen Ring verdichten und abfeuern.
 
 [DEODARCEDAR_PRODUCT_SHORT_DESC]
-吸收电力储存起来，随后凝聚成电环发射出去
+Elektrizität absorbieren und speichern, dann zu einem elektrischen Ring verdichten und abfeuern.
 
 [DEODARCEDAR_SKILL_LEVEL1]
-电能加成
+Elektrizitätsbonus
 
 [DEODARCEDAR_SKILL_LEVEL1_DES]
-发射出电环前根据电环大小，使范围内包括自身的所有电系植物获得攻击力加成
+Bevor der Abfeuerung des elektrischen Rings, abhängig von dessen Größe, erhalten alle elektrischen Pflanzen in Reichweite, einschließlich der eigenen Person, einen Angriffskraftbonus.
 
 [DEODARCEDAR_SKILL_LEVEL2]
-电能提升
+Elektrizitätsschub
 
 [DEODARCEDAR_SKILL_LEVEL2_DES]
-电能加成还会提供攻速加成
+Elektrizitätsbonus erhöht auch die Angriffsgeschwindigkeit. Bonus
 
 [DEODARCEDAR_SKILL_LEVEL5]
-雷暴电柱
+Gewitter-Strommast
 
 [DEODARCEDAR_SKILL_LEVEL5_DES]
-电环引发的落雷有概率变为对单格造成伤害的雷柱，伤害更高
+Der vom Stromring erzeugte Blitz kann zu einem Blitzmast werden, der einem einzelnen Gitter Schaden zufügt, mit höherem Schaden.
 
 [STORE_PRODUCT_AVATAR_DEODARCEDAR_TITLE]
-蓄电雪松果装扮
+Elektrizitäts-Zedernzapfen-Kostüm
 
 [DEODARCEDAR_AVATAR_NAME]
-蓄电雪松果装扮
+Elektrizitäts-Zedernzapfen-Kostüm
 
 [STORE_PRODUCT_AVATAR_DEODARCEDAR]
-大招的落雷击中僵尸后还会产生3×3范围的电弧，造成额外的伤害
+Der Blitz der ultimativen Fähigkeit erzeugt nach dem Auftreffen auf den Zombie einen Lichtbogen mit einer Reichweite von 3×3, der zusätzlichen Schaden verursacht.
 
 [GERANIIFENCER]
 Storchschnabel-Fechter
@@ -45561,88 +45555,88 @@ Schatten der Tiefe Meer
 Erhältlich durch die Teilnahme am Event „Unterwasseroperation“
 
 [JOUST_TOURNAMENT_ENDED]
-比赛结束
+Das Spiel ist vorbei.
 
 [JOUST_TOURNAMENT_ENDED_FTUE]
-欢迎来到超Z联赛
+Willkommen in der Super Z League.
 
 [JOUST_TOURNAMENT_LEAGUE_RESULT_DEMOTED]
-遗憾！您被降级了！
+Entschuldigung! Du wurdest zurückgestuft!
 
 [JOUST_TOURNAMENT_LEAGUE_RESULT_FTUE]
-保留当前段位
+Behalte deinen aktuellen Rang.
 
 [JOUST_TOURNAMENT_LEAGUE_RESULT_PROMOTED]
-恭喜！您升级到新的联赛！
+Herzlichen Glückwunsch! Du bist in eine neue Liga aufgestiegen!
 
 [JOUST_TOURNAMENT_LEAGUE_RESULT_STAY]
-保留当前段位
+Bleib in deinem aktuellen Rang
 
 [RIFT_TOURNAMENT_LEAGUE_RESULT_STAY]
-(保留当前段位)
+(Bleib in deinem aktuellen Rang)
 
 [RIFT_TOURNAMENT_LEAGUE_RESULT_PROMOTED]
-(升级到新联赛)
+(In eine neue Liga aufsteigen)
 
 [RIFT_TOURNAMENT_LEAGUE_RESULT_DEMOTED]
-(您被降级了！)
+(Du wurdest zurückgestuft!)
 
 [JOUST_TOURNAMENT_LEAGUE_REWARDS_DESCRIPTION1]
-在您的联赛赢得比赛胜利获得更多荣誉。
+Für Siege in deiner Liga erhältst du mehr Auszeichnungen.
 
 [JOUST_TOURNAMENT_LEAGUE_REWARDS_DESCRIPTION2]
-每届联赛前三名的挑战者将上升一个联赛，而倒数三名将下降一个联赛。
+Die drei besten Herausforderer jeder Liga steigen eine Liga auf, die drei schlechtesten eine Liga ab.
 
 [JOUST_TOURNAMENT_LEAGUE_REWARDS_HEADER]
-联赛段位和奖励
+Ligarang und Belohnungen
 
 [JOUST_TOURNAMENT_LEAGUE_REWARDS_SUBHEADER]
-联赛最高奖励
+Liga-Top-Belohnungen
 
 [JOUST_TOURNAMENT_NO_REWARDS]
-没有奖励
+Keine Belohnungen
 
 [JOUST_TOURNAMENT_PLACEMENT_RESULT]
-比赛结果：
+Spielergebnisse:
 
 [RIFT_TOURNAMENT_PLACEMENT_RANK]
-第{NUMBER}名
+{NUMBER}
 
 [JOUST_TOURNAMENT_PLACEMENT_RESULT_FTUE]
-这些将帮助你开始.......
+Diese Tipps helfen dir beim Einstieg.......
 
 [JOUST_LEAGUE_NAME_COPPER]
-青铜联赛
+Bronzeliga
 
 [JOUST_LEAGUE_NAME_COPPER_SHORT]
-青铜
+Bronzeliga
 
 [STEP_NUMBER]
-第{NUMBER}步
+Schritt {NUMBER}
 
 [PREVIOUS_BUTTON]
-上一个
+Zurück
 
 [NEXT_BUTTON]
-下一个
+Weiter
 
 [COMMIT_BUTTON]
-提交
+Senden
 
 [COIN_AWARD_HEADER1]
-你得到了{NUMBER}个金币!
+Du hast {NUMBER} Goldmünzen!
 
 [GEM_AWARD_HEADER1]
-你得到了{NUMBER}个钻石!
+Du hast {NUMBER} Diamanten!
 
 [MATERIAL_AWARD_HEADER1]
-你得到了{NUMBER}个联赛币!
+Du hast {NUMBER} Ligamünzen!
 
 [MATERIAL_AWARD_RIFT_HEADER1]
-你得到了{NUMBER}个时空币!
+Du hast {NUMBER} Raum-Zeit-Münzen!
 
 [CHEST_AWARD_HEADER1]
-你得到了{NUMBER}个宝箱!
+Du hast {NUMBER} Schatztruhen!
 
 [STARCHALLENGE_TARGET_SCORE]
 Besiege Zombies im Level, um Punkte zu erhalten. Das Team mit der höchsten Punktzahl innerhalb der vorgegebenen Zeit gewinnt.
@@ -57193,495 +57187,497 @@ Tages-Vergnügungspaket kaufen
 子弹从背后击中僵尸时必定造成2.5倍伤害。
 
 [ZOMBIE_HEIAN_ONMYOJI]
-阴阳师僵尸
+Onmyoji Zombie
 
 [ZOMBIE_HEIAN_ONMYOJI_DESCRIPTION]
-{KEYWORD}特点：{STAT}挥舞手中的扇子，便会刮起幸运的风！！
-{KEYWORD}弱点：{STAT}身上的狩衣似乎起不到什么防护作用？
+{KEYWORD}Eigenschaften:{STAT}Mit dem Fächer in seiner Hand weht ein Glückswind!
+{KEYWORD}Schwäche:{STAT}Das Jagdgewand an seinem Körper scheint ihn nicht zu schützen?
 
-{FLAVOR}他在这里扇一下扇子，神社不久便刮起了风。
+{FLAVOR}Er fächelte hier mit dem Fächer, und schon bald wurde der Schrein vom Wind verweht.
 
 [ZOMBIE_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
-阴阳师僵尸热衷于制作不一样的扇子，这次他给带来神社的扇子命名为：幸运星。
+Onmyoji Zombie ist scharf darauf, verschiedene Fächer zu bauen. Diesmal nannte er den Fächer, den er zum Schrein brachte, „Glücksstern“.
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI]
-精英阴阳师僵尸
+Elite-Onmyoji-Zombie
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
-精英阴阳师僵尸与其他热衷于制作扇子的同僚们不同，他深信身而为僵，应该有更伟大的抱负。
+Elite-Onmyoji-Zombie unterscheidet sich von seinen Kollegen, die darauf aus sind, Fans zu gewinnen. Er ist fest davon überzeugt, dass er als Zombie größere Ambitionen haben sollte.
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION]
-{FLAVOR}所以他当上了僵尸里唯一的图书管理员。
+{FLAVOR}So wurde er der einzige Bibliothekar unter den Zombies.
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL]
-阴阳师僵尸
+Onmyoji-Zombie
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL_DESCRIPTION]
-{KEYWORD}特点：{STAT}挥舞手中的扇子，便会刮起幸运的风！！
-{KEYWORD}弱点：{STAT}身上的狩衣似乎起不到什么防护作用？
+{KEYWORD}Features:{STAT}Wenn du den Fächer in deiner Hand schwenkst, weht der Wind des Glücks!
+{KEYWORD}Schwäche: {STAT} Das Jagdgewand an seinem Körper scheint keine Schutzwirkung zu haben?
 
-{FLAVOR}他在这里扇一下扇子，神社不久便刮起了风。
+{FLAVOR} Er fächelte den Fächer hier, und schon bald wurde der Schrein vom Wind verweht.
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL_DESCRIPTION_HEADER]
-阴阳师僵尸热衷于制作不一样的扇子，这次他给带来神社的扇子命名为：幸运星。
+Onmyoji Zombie ist scharf darauf, verschiedene Fächer herzustellen. Diesmal nannte er den Fächer, den er zum Schrein brachte, „Glücksstern“.
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD]
-阴阳师僵尸
+Onmyoji Zombie
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD_DESCRIPTION]
-{KEYWORD}特点：{STAT}挥舞手中的扇子，便会刮起幸运的风！！
-{KEYWORD}弱点：{STAT}身上的狩衣似乎起不到什么防护作用？
+{KEYWORD}Eigenschaften: {STAT} Wenn er den Fächer in seiner Hand schwenkt, weht ein Glückswind!
+{KEYWORD}Schwäche: {STAT} Das Jagdgewand an seinem Körper scheint keine Schutzwirkung zu haben?
 
-{FLAVOR}他在这里扇一下扇子，神社不久便刮起了风。
+{FLAVOR}Er fachte den Fächer hier an, und schon bald wurde der Schrein vom Wind verweht.
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_PVZ1_HARD_DESCRIPTION_HEADER]
-阴阳师僵尸热衷于制作不一样的扇子，这次他给带来神社的扇子命名为：幸运星。
+Onmyoji Zombie ist scharf darauf, verschiedene Fächer zu bauen. Diesmal nannte er den Fächer, den er zum Schrein brachte, „Glücksstern“.
 
 [ZOMBIE_HEIAN_AKINNDO]
-蓑衣僵尸
+蓑衣zombie
 
 [ZOMBIE_HEIAN_AKINNDO_DESCRIPTION]
-{KEYWORD}特点：{STAT}举起手中的鱼篓，便会吸收能量豆！！
-{KEYWORD}弱点：{STAT}戴着和洋伞僵尸一种工艺生产的帽子，他就是“无敌”的！
+{KEYWORD}Eigenschaften: {STAT}Hebt den Fischkorb in eurer Hand, und er absorbiert Energiebohnen!
+{KEYWORD}Schwäche: {STAT}Mit seinem Hut, der mit der gleichen Handwerkskunst wie der Regenschirm-Zombie gefertigt wurde, ist er „unbesiegbar“!
 
-{FLAVOR}举起鱼篓，掠夺能量豆。
+{FLAVOR}Hebt den Fischkorb und plündert die Energiebohnen.
 
 [ZOMBIE_HEIAN_AKINNDO_DESCRIPTION_HEADER]
-蓑衣僵尸的鱼篓里，其实有鱼，而且这条鱼很喜欢能量豆的味道。
+Im Fischkorb des Strohmantel-Zombies befindet sich tatsächlich ein Fisch, der den Geschmack von Energiebohnen mag.
 
 [ZOMBIE_FAIRY_TALE]
-扑克牌僵尸
+Spielkarten-Zombie
 
 [ZOMBIE_FAIRY_TALE_DESCRIPTION]
-作为一个扑克牌士兵僵尸来说，勇往直前是非常重要的。
+Als Spielkarten-Soldaten-Zombie ist es wichtig, mutig voranzukommen.
 
 [ZOMBIE_FAIRY_TALE_DESCRIPTION_HEADER]
-红皇后小鬼僵尸麾下的普通扑克牌僵尸
+Gewöhnlicher Spielkarten-Zombie unter dem Kommando des Zombie-Kobolds der Roten Königin
 
 [ZOMBIE_FAIRY_TALE_ARMOR1]
-扑克牌路障僵尸
+Spielkarten-Straßensperren-Zombie
 
 [ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION]
-作为一个扑克牌士兵僵尸来说，勇往直前是非常重要的，当然有路障作为防具是最好的。
+Als Spielkarten-Soldaten-Zombie ist es wichtig, mutig voranzukommen. Eine Straßensperre ist natürlich die beste Schutzausrüstung.
 
 [ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION_HEADER]
-红皇后小鬼僵尸麾下的扑克牌路障僵尸
+Poker-Barriere-Zombie unter dem Kommando von Rotkönigin-Kobold-Zombie
 
 [ZOMBIE_FAIRY_TALE_ARMOR2]
-扑克牌铁桶僵尸
+Poker-Fass-Zombie
 
 [ZOMBIE_FAIRY_TALE_ARMOR2_DESCRIPTION]
-作为一个扑克牌士兵僵尸来说，勇往直前是非常重要的，当然，没有什么防具能比铁桶更好的了，大概。
+Als Poker-Soldat-Zombie ist es wichtig, mutig vorzugehen. Natürlich gibt es keine bessere Rüstung als ein Fass.
 
 [ZOMBIE_FAIRY_TALE_ARMOR2_DESCRIPTION_HEADER]
-红皇后小鬼僵尸麾下的扑克牌铁桶僵尸
+Poker-Fass-Zombie unter dem Kommando von Rotkönigin-Kobold-Zombie
 
 [ZOMBIE_FAIRY_TALE_FLAG]
-扑克牌旗帜僵尸
+Poker-Flaggen-Zombie
 
 [ZOMBIE_FAIRY_TALE_FLAG_DESCRIPTION]
-扑克牌旗帜僵尸高举着战斗的旗帜，引领红皇后小鬼僵尸的部下掠夺脑子。
+Poker-Flaggen-Zombie hält die Kampfflagge hoch und führt die Untergebenen von Rotkönigin-Kobold-Zombie an, um Gehirne zu plündern.
 
 [ZOMBIE_FAIRY_TALE_FLAG_DESCRIPTION_HEADER]
-标志着一大波童话僵尸的登场。
+Dies markiert die Ankunft einer großen Welle von Märchenzombies.
 
 [ZOMBIE_FAIRY_TALE_WITCH]
-女巫僵尸
+Hexenzombie
 
 [ZOMBIE_FAIRY_TALE_WITCH_DESCRIPTION]
-{KEYWORD}特点：{STAT}能把植物变成青蛙！！
-{KEYWORD}弱点：{STAT}本身没有任何防护能力！
+{KEYWORD}Eigenschaften: {STAT} kann Pflanzen in Frösche verwandeln!
+{KEYWORD}Schwäche: {STAT} selbst hat keine Verteidigungsfähigkeit!
 
-{FLAVOR}把植物变成青蛙，青蛙可能跳离战场。
+{FLAVOR}Verwandelt Pflanzen in Frösche, die vom Schlachtfeld wegspringen können.
 
 [ZOMBIE_FAIRY_TALE_WITCH_DESCRIPTION_HEADER]
-女巫僵尸绝对是童话世界的主角，因为可以把植物变成青蛙。
+Die Hexenzombie ist definitiv der Protagonist der Märchenwelt, da sie Pflanzen in Frösche verwandeln kann.
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR]
-近卫巨人僵尸
+Riesiger Wächterzombie
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR_DESCRIPTION]
-{KEYWORD}特点：{STAT}强大的减伤能力，手中的盾牌在死亡时会掉落！！
-{KEYWORD}弱点：{STAT}强大到似乎没什么弱点！
+{KEYWORD}Eigenschaften: {STAT}Starke Schadensreduzierung, Schild in der Hand fällt beim Sterben!
+{KEYWORD}Schwäche: {STAT}So stark, dass er scheinbar keine Schwächen hat!
 
-{FLAVOR}扔下盾牌，抵挡伤害。
+{FLAVOR}Wirft den Schild ab, um Schaden zu widerstehen.
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR_DESCRIPTION_HEADER]
-红皇后小鬼僵尸的贴身近卫，手持重盾，能力出众。
+Die enge Deckung des Rotkönigin-Kobold-Zombies mit schwerem Schild ist eine herausragende Fähigkeit.
 
 [ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR]
-近卫巨人僵尸
+Riesiger Wächterzombie
 
 [ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION]
-{KEYWORD}特点：{STAT}强大的减伤能力，手中的盾牌在死亡时会掉落！！
-{KEYWORD}弱点：{STAT}强大到似乎没什么弱点！
+{KEYWORD}Eigenschaften: {STAT}Starke Schadensreduzierung, Schild in der Hand fällt beim Sterben!
+{KEYWORD}Schwäche: {STAT}So stark, dass er scheinbar keine Schwächen hat!
 
-{FLAVOR}扔下盾牌，抵挡伤害。
+{FLAVOR}Wirft den Schild ab, um Schaden zu widerstehen.
 
 [ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION_HEADER]
-红皇后小鬼僵尸的贴身近卫，手持重盾，能力出众。
+Die enge Deckung des Rotkönig-Kobold-Zombies mit schwerem Schild – eine herausragende Fähigkeit.
 
 [ZOMBIE_FAIRY_TALE_IMP]
-红皇后小鬼僵尸
+Rote Königin, Wichtel-Zombie
 
 [ZOMBIE_FAIRY_TALE_IMP_DESCRIPTION]
-{KEYWORD}特点：{STAT}会逃跑，会呼唤护卫骑士僵尸前来救驾！！
-{KEYWORD}弱点：{STAT}如果能处理掉护卫骑士僵尸的话，本身就不是什么威胁！
+{KEYWORD}Eigenschaften: {STAT}Läuft weg und ruft den Wächterritter-Zombie zu Hilfe!
 
-{FLAVOR}逃跑时会呼唤护卫骑士僵尸前来救驾。
+{KEYWORD}Schwäche: {STAT}Wenn du mit dem Wächterritter-Zombie klarkommst, stellt er keine Bedrohung dar!
+
+{FLAVOR}Ruft den Wächterritter-Zombie zu Hilfe, wenn er wegläuft.
 
 [ZOMBIE_FAIRY_TALE_IMP_DESCRIPTION_HEADER]
-童话世界中的掌权者，虽然本身没什么战力，奈何身边良将众多。
+Der Herrscher der Märchenwelt. Obwohl er keine Kampfkraft besitzt, ist er von vielen guten Generälen umgeben.
 
-[ZOMBIE_FAIRY_TALE_KNIGHT] 
-护卫骑士僵尸
+[ZOMBIE_FAIRY_TALE_KNIGHT]
+Wächterritter-Zombie
 
 [ZOMBIE_FAIRY_TALE_KNIGHT_DESCRIPTION]
-{KEYWORD}特点：{STAT}向前冲锋，冲撞植物！！
-{KEYWORD}弱点：{STAT}如果能阻挡冲锋效果的话就能大大降低威胁！
+{KEYWORD}Eigenschaften: {STAT}Stürmt vorwärts und greift die Pflanzen an!
+{KEYWORD}Schwäche: {STAT}Wenn du den Angriffseffekt blockierst, kannst du die Bedrohung erheblich reduzieren!
 
-{FLAVOR}向前冲锋，冲撞掉第一棵碰到的植物并扔下骑枪。
+{FLAVOR}Stürme vorwärts, schlage die erste Pflanze um, der du begegnest, und lass deine Lanze fallen.
 
 [ZOMBIE_FAIRY_TALE_KNIGHT_DESCRIPTION_HEADER]
-红皇后小鬼僵尸的护卫骑士，虽然总是救驾来迟，但是却迟迟未被开除。
+Der Wachritter der Roten Königin, des Kobold-Zombies. Obwohl er immer spät zur Hilfe kommt, wurde er noch nicht vertrieben.
 
 [ZOMBIE_MIRROR_QUEEN_PHASE1]
-魔镜皇后僵尸
+Spiegelkönigin-Zombie
 
 [ZOMBIE_MIRROR_QUEEN_PHASE1_DESCRIPTION_HEADER]
-“谁是世界上最漂亮的僵尸？”皇后自身掌握巫术，再加上魔镜的辅佐，不提美貌，至少实力已经足够。
+„Wer ist der schönste Zombie der Welt?“ Die Königin selbst beherrscht die Hexerei und ist mit Hilfe des Zauberspiegels zwar nicht schön, aber immerhin stark genug.
 
 [ZOMBIE_MIRROR_QUEEN_PHASE1_DESCRIPTION]
-魔镜皇后僵尸能指挥骑兵僵尸，向植物投掷毒苹果，还能召唤魔镜来镜像复制僵尸。
+Die Spiegelkönigin kann berittene Zombies befehligen, giftige Äpfel auf Pflanzen werfen und magische Spiegel beschwören, um Zombies zu spiegeln.
 
 [ZOMBIE_BIRTHDAY]
-周年庆僵尸
+Jubiläums-Zombie
 
 [ZOMBIE_BIRTHDAY_DESCRIPTION_HEADER]
-周年庆上出现的普通僵尸
+Gewöhnliche Zombies erscheinen auf der Jubiläumsparty
 
 [ZOMBIE_BIRTHDAY_DESCRIPTION]
-为了伪装混入植物的周年派对，普通僵尸戴上了生日帽。但因为是纸制的，所以并没有路障的防御力。
+Um die Jubiläumsparty zu tarnen und mit den Pflanzen zu verschmelzen, tragen die gewöhnlichen Zombies Geburtstagshüte. Da diese jedoch aus Papier sind, können sie sich nicht gegen Straßensperren verteidigen.
 
 [ZOMBIE_BIRTHDAY_FLAG]
-周年庆旗帜僵尸
+Jubiläums-Flaggen-Zombie
 
 [ZOMBIE_BIRTHDAY_FLAG_DESCRIPTION_HEADER]
-标志着一大波周年庆僵尸的登场。
+Sie markiert das Erscheinen einer großen Anzahl von Jubiläums-Zombies.
 
 [ZOMBIE_BIRTHDAY_FLAG_DESCRIPTION]
-派对自然少不了气球，于是旗帜僵尸利用气球来伪装自己。后来他花了很长时间来向其他僵尸解释这气球旗子和气球僵尸的区别，不过听说收效甚微，所以气球僵尸也可能标志着一大波周年庆僵尸的登场？
+Luftballons sind auf einer Party unverzichtbar, daher nutzt der Flaggenzombie Ballons zur Tarnung. Später erklärte er anderen Zombies ausführlich den Unterschied zwischen der Ballonflagge und dem Ballonzombie, doch es heißt, dieser habe kaum Wirkung. Könnte der Ballonzombie also auch das Erscheinen einer großen Anzahl von Jubiläumszombies markieren?
 
 [ZOMBIE_BIRTHDAY_GARGANTUAR]
-周年庆巨人僵尸
+Riesenzombie zum Jubiläum
 
 [ZOMBIE_BIRTHDAY_GARGANTUAR_DESCRIPTION_HEADER]
-周年庆上出现的巨人僵尸
+Riesenzombie, die auf der Jubiläumsfeier erscheint
 
 [ZOMBIE_BIRTHDAY_GARGANTUAR_DESCRIPTION]
-{KEYWORD}特点：{STAT}用电线杆砸扁植物
-{KEYWORD}弱点：{STAT}受到伤害时扔出小鬼僵尸
+{KEYWORD}Eigenschaften:{STAT}Benutzt einen Telefonmast, um Pflanzen zu zerquetschen
+{KEYWORD}Schwäche:{STAT}Wirft Kobold-Zombies aus, wenn er beschädigt wird
 
-{FLAVOR}巨人僵尸想要伪装成礼物混入植物的周年派对，但后来发现礼物盒不会自己移动，所以改成了吊带装。
+{FLAVOR}Riesenzombie will sich als Geschenk verkleiden, um sich auf die Jubiläumsfeier der Pflanze zu schleichen. Doch als er merkt, dass sich die Geschenkbox nicht von selbst bewegt, verwandelt er sich in ein Schleuder-Outfit.
 
 [ZOMBIE_BIRTHDAY_PHARAOH]
-周年庆法老僵尸
+Jubiläums-Pharao-Zombie
 
 [ZOMBIE_BIRTHDAY_PHARAOH_DESCRIPTION_HEADER]
-周年庆上出现的法老僵尸
+Der Pharao-Zombie, der bei der Jubiläumsfeier erschien.
 
 [ZOMBIE_BIRTHDAY_PHARAOH_DESCRIPTION]
-{KEYWORD}速度特点：{STAT}饿虎扑食般前进
-{KEYWORD}弱点：{STAT}坚果能挡住他一小会儿，还是用能量豆大招消灭它比较保险
+{KEYWORD}Geschwindigkeitsmerkmale:{STAT}Er bewegt sich vorwärts wie ein hungriger Tiger.
+{KEYWORD}Schwäche:{STAT}Die Nüsse können ihn kurzzeitig aufhalten, aber es ist sicherer, ihn mit der Energiebohne zu töten.
 
-{FLAVOR}一个行走的蛋糕？不，那是法老僵尸。虽然蛋糕比起石棺脆弱许多，但仍然能让法老僵尸变得更加坚固，难道是因为法老在啃蛋糕回血？
+{FLAVOR}Ein wandelnder Kuchen? Nein, es ist ein Pharao-Zombie. Obwohl der Kuchen viel zerbrechlicher ist als der Sarkophag, kann er den Pharao-Zombie dennoch stärker machen. Liegt es daran, dass der Pharao den Kuchen kaut, um seine Gesundheit wiederherzustellen?
 
 [ZOMBIE_BIRTHDAY_JUGGLER]
-周年庆小丑僵尸
+Jubiläums-Clown-Zombie
 
 [ZOMBIE_BIRTHDAY_JUGGLER_DESCRIPTION_HEADER]
-周年庆上出现的小丑僵尸
+Der Clown-Zombie, der bei der Jubiläumsfeier erschien
 
 [ZOMBIE_BIRTHDAY_JUGGLER_DESCRIPTION]
-周年庆小丑僵尸能通过高速旋转来反弹射向他的植物子弹，据说他为了能在旋转中不让蛋糕飞出去而苦练许久，但能飞出去不是更强吗？
+Der Jubiläums-Clown-Zombie kann die auf ihn abgefeuerten Pflanzenkugeln zurückwerfen, indem er sich mit hoher Geschwindigkeit dreht. Man sagt, er habe lange hart trainiert, um zu verhindern, dass der Kuchen während der Drehung herausfliegt. Aber wäre er nicht stärker, wenn er herausfliegen könnte?
 
 [ZOMBIE_BIRTHDAY_TROGLOBITE]
-周年庆穴居僵尸
+Jubiläums-Höhlenzombie
 
 [ZOMBIE_BIRTHDAY_TROGLOBITE_DESCRIPTION_HEADER]
-周年庆上出现的穴居僵尸
+Der Höhlenzombie, der bei der Jubiläumsfeier erschien
 
 [ZOMBIE_BIRTHDAY_TROGLOBITE_DESCRIPTION]
-相比起周年庆巨人僵尸的伪装，穴居僵尸给普通僵尸加的礼物伪装更加彻底，但他却忘了伪装自己。
+Im Vergleich zur Verkleidung des Jubiläums-Riesenzombies ist die Geschenkverkleidung, die der Höhlenzombie dem gewöhnlichen Zombie anlegte, gründlicher, allerdings vergaß er, sich selbst zu verkleiden.
 
 [ZOMBIE_BIRTHDAY_JETPACK]
-周年庆喷射器僵尸
+Jubiläums-Jetpack-Zombie
 
 [ZOMBIE_BIRTHDAY_JETPACK_DESCRIPTION_HEADER]
-周年庆上出现的喷射器僵尸
+Jetpack-Zombie, der auf der Jubiläumsparty erscheint
 
 [ZOMBIE_BIRTHDAY_JETPACK_DESCRIPTION]
-{KEYWORD}特点：{STAT}可以喷射式飞行穿越大部分低矮的植物
-{KEYWORD}弱点：{STAT}会被高大植物阻挡
+{KEYWORD}Eigenschaften: {STAT}Kann durch die meisten niedrigen Pflanzen hindurchschießen
 
-{FLAVOR}周年庆喷射器僵尸并没有为了混入植物的周年派对而多做准备，他只是没有拆开喷射器礼物盒就着急着想吃脑子罢了。
+{KEYWORD}Schwäche: {STAT}Wird von hohen Pflanzen blockiert
+
+{FLAVOR}Der Jubiläums-Jetpack-Zombie hat keine besonderen Vorbereitungen getroffen, um auf die Jubiläumsparty der Pflanze zu gelangen. Er wollte nur das Gehirn fressen, ohne die Jetpack-Geschenkbox zu öffnen.
 
 [ZOMBIE_SUMMER_BASIC]
-夏夜僵尸
+Sommernachts-Zombie
 
 [ZOMBIE_SUMMER_BASIC_DESCRIPTION]
-一年一度的烟花庆典，僵尸也忍不住想参加。
+Zombies können es sich nicht verkneifen, beim jährlichen Feuerwerk dabei zu sein.
 
 [ZOMBIE_SUMMER_BASIC_DESCRIPTION_HEADER]
-参加夏夜烟花庆典的普通僵尸
+Gewöhnliche Zombies beim Sommernachtsfeuerwerk
 
 [ZOMBIE_SUMMER_ARMOR1]
-夏夜路障僵尸
+Sommernachts-Straßensperren-Zombie
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION]
-为了美观与防御兼具，夏夜路障僵尸戴了一副太阳眼镜在路障上，虽然是夜晚的烟花庆典。
+Aus ästhetischen Gründen und zur Verteidigung trägt der Sommernachts-Straßensperren-Zombie auf der Straßensperre eine Sonnenbrille, obwohl es sich um ein Nachtfeuerwerk handelt.
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION_HEADER]
-参加夏夜烟花庆典的路障僵尸
+Straßensperren-Zombies beim Sommernachtsfeuerwerk
 
 [ZOMBIE_SUMMER_ARMOR2]
-夏夜铁桶僵尸
+Sommernachts-Eimer-Zombie
 
 [ZOMBIE_SUMMER_ARMOR2_DESCRIPTION]
-为了在套圈游戏中赢得更多的奖牌，夏夜铁桶僵尸用自己的铁桶来训练，但到达烟花庆典后才发现，根本没有套圈游戏。
+Um mehr Medaillen im Ringwurfspiel zu gewinnen, trainiert der Sommernachts-Eimer-Zombie mit seinem eigenen Eimer. Doch als er beim Feuerwerksfest ankommt, stellt er fest, dass es dort gar kein Ringwurfspiel gibt.
 
 [ZOMBIE_SUMMER_ARMOR2_DESCRIPTION_HEADER]
-参加夏夜烟花庆典的铁桶僵尸
+Fass-Zombie beim Sommernachtsfeuerwerk
 
 [ZOMBIE_SUMMER_FLAG]
-夏夜旗帜僵尸
+Sommernachts-Flaggen-Zombie
 
 [ZOMBIE_SUMMER_FLAG_DESCRIPTION]
-为了带领大家参加烟花庆典，旗帜僵尸拿起了标志着烟花的旗帜。但观赏烟花和吃掉脑子，两个都不会耽误。
+Um alle zum Feuerwerk zu animieren, nimmt der Flaggen-Zombie die Flagge, die das Feuerwerk symbolisiert, mit. Doch das Feuerwerk und das Gehirnfressen lassen nicht lange auf sich warten.
 
 [ZOMBIE_SUMMER_FLAG_DESCRIPTION_HEADER]
-标志着一大波夏夜僵尸的登场。
+Markiert das Erscheinen einer großen Anzahl von Sommernachts-Zombies.
 
 [ZOMBIE_SUMMER_BUG]
-夏夜昆虫僵尸
+Sommernachts-Insekten-Zombie
 
 [ZOMBIE_SUMMER_BUG_DESCRIPTION]
-夏季的夜晚总是有许多昆虫，所以这对组合就这么自然而然地诞生了。不仅能更好地吃到脑子，更高的视野也方便观赏烟花。
+In Sommernächten gibt es immer viele Insekten, daher ist dieses Paar wie geschaffen. Es kann nicht nur besser Gehirne fressen, sondern sein größeres Sichtfeld erleichtert auch das Beobachten von Feuerwerken.
 
 [ZOMBIE_SUMMER_BUG_DESCRIPTION_HEADER]
-夏夜昆虫僵尸从空中跨过地面的防御和障碍。
+Der Sommernachts-Insekten-Zombie springt aus der Luft über Verteidigungsanlagen und Hindernisse am Boden.
 
 [ZOMBIE_SUMMER_GARGANTUAR]
-夏夜巨人僵尸
+Sommernacht-Riesenzombie
 
 [ZOMBIE_SUMMER_GARGANTUAR_DESCRIPTION]
-{KEYWORD}特点：{STAT}用锅铲砸扁植物
-{KEYWORD}弱点：{STAT}受到伤害时扔出夏夜小鬼僵尸
+{KEYWORD}Eigenschaften:{STAT}Benutzt einen Spatel, um Pflanzen zu zerquetschen.
+{KEYWORD}Schwäche:{STAT}Wirft den Sommernacht-Kobold-Zombie bei Schaden weg.
 
-{FLAVOR}在烟花庆典上担任厨师，但或许是烟花太过美丽夺目、或许是僵尸们更喜欢脑子、又或许是食材的原因，生意并不好。于是用锅铲炒菜的次数还没有砸植物的次数多。
+{FLAVOR}Er ist Koch beim Feuerwerksfestival. Doch vielleicht, weil das Feuerwerk zu schön ist, die Zombies Gehirne bevorzugen oder die Zutaten nicht gut sind, läuft das Geschäft nicht gut. Daher kocht er seltener mit dem Spatel als Pflanzen.
 
 [ZOMBIE_SUMMER_GARGANTUAR_DESCRIPTION_HEADER]
-在烟花庆典上当厨师的巨人僵尸
+Riesenzombie, die beim Feuerwerksfest kocht
 
 [ZOMBIE_SUMMER_IMP]
-夏夜小鬼僵尸
+Sommernachts-Kobold-Zombie
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION]
-伪装成食材混入烟花庆典，只为逃掉庆典的门票钱，但庆典好像本来就不需要门票啊。
+Als Essenszutat getarnt, schlich er sich in das Feuerwerksfest, nur um den Eintritt zu umgehen. Doch anscheinend sind für das Fest keine Eintrittskarten erforderlich.
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION_HEADER]
-被夏夜巨人僵尸扔出跨过植物防线，然后步行前进。
+Er wurde vom Sommernachts-Riesenkombie über die Werksverteidigung hinausgeworfen und ging dann weiter.
 
 [ZOMBIE_HALLOWEEN]
-万圣节僵尸
+Halloween-Zombie
 
 [ZOMBIE_HALLOWEEN_DESCRIPTION]
-穿上骷髅花纹的衣服，涂上白色的骷髅妆，趁着一年一度的万圣夜，僵尸们发起了“恐怖”的攻势。
+In Totenkopfkleidung und mit weißem Totenkopf-Make-up verkleidet, starteten die Zombies in der jährlichen Halloween-Nacht eine „terroristische“ Offensive.
 
 [ZOMBIE_HALLOWEEN_DESCRIPTION_HEADER]
-万圣节装扮的普通僵尸。
+Gewöhnliche Zombies, verkleidet für Halloween.
 
 [ZOMBIE_HALLOWEEN_ARMOR1]
-万圣节路障僵尸
+Halloween-Straßensperren-Zombie
 
 [ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION]
-为了契合万圣节的氛围，路障僵尸专门定制了一款女巫帽形状的路障，兼具美观与牢固，就是没有魔力。
+Um der Halloween-Atmosphäre gerecht zu werden, hat der Straßensperren-Zombie eine speziell angefertigte Straßensperre in Form eines Hexenhuts entworfen. Sie ist schön und robust, verfügt aber über keine Magie.
 
 [ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION_HEADER]
-万圣节装扮的路障僵尸。
+Straßensperren-Zombies, verkleidet für Halloween.
 
 [ZOMBIE_HALLOWEEN_ARMOR2]
-万圣节铁桶僵尸
+Halloween-Eiseneimer-Zombie
 
 [ZOMBIE_HALLOWEEN_ARMOR2_DESCRIPTION]
-铁桶僵尸坚信万圣节的恐怖氛围能增强僵尸军团的攻势，所以每次万圣节都会戴上自己精心装饰的铁桶积极参加。
+Eiseneimer-Zombies glauben fest daran, dass die Horroratmosphäre an Halloween die Offensive der Zombiearmee verstärken kann. Deshalb nehmen sie mit ihren liebevoll dekorierten Eiseneimern an jedem Halloween aktiv teil.
 
 [ZOMBIE_HALLOWEEN_ARMOR2_DESCRIPTION_HEADER]
-万圣节装扮的铁桶僵尸。
+Fass-Zombie im Halloweenkostüm.
 
 [ZOMBIE_HALLOWEEN_GARGANTUAR]
-万圣节巨人僵尸
+Riesenzombie im Halloweenkostüm
 
 [ZOMBIE_HALLOWEEN_GARGANTUAR_DESCRIPTION]
-巨人僵尸魁梧强壮又略显呆板，“非常适合科学怪人的装扮，简直像真的一样”，其它僵尸都纷纷如此称赞。
+Der Riesenzombie ist stark und etwas langweilig. „Passt perfekt zum Frankenstein-Kostüm, genau wie das Original“, lobten ihn andere Zombies.
 
 [ZOMBIE_HALLOWEEN_GARGANTUAR_DESCRIPTION_HEADER]
-万圣节装扮的巨人僵尸？
+Riesenzombie im Halloweenkostüm?
 
 [ZOMBIE_HALLOWEEN_IMP]
-万圣节小鬼僵尸
+Wichtelzombie im Halloweenkostüm
 
 [ZOMBIE_HALLOWEEN_IMP_DESCRIPTION]
-小鬼僵尸每年最期待的就是万圣节了，魔鬼科学家的服饰是的最爱。“还是这身舒服对吧，我的好孩子。真是喜欢万圣节啊，不用费时打扮一番就能出门。”
+Wichtelzombie freut sich jedes Jahr am meisten auf Halloween, und das Teufelswissenschaftlerkostüm ist sein Favorit. „Dieses Outfit ist doch noch bequem, oder, mein liebes Kind? Ich mag Halloween wirklich sehr. Ich kann ausgehen, ohne mich verkleiden zu müssen.“
 
 [ZOMBIE_HALLOWEEN_IMP_DESCRIPTION_HEADER]
-万圣节装扮的小鬼僵尸？
+Wichtelzombie im Halloweenkostüm?
 
 [ZOMBIE_HALLOWEEN_FLAG]
-万圣节旗帜僵尸
+Halloween-Flaggen-Zombie
 
 [ZOMBIE_HALLOWEEN_FLAG_DESCRIPTION]
-旗帜僵尸坚信万圣节中南瓜稻草人装扮才是正统，骷髅装扮都是旁门左道，所以专门找了套服装，还换掉了旗帜。
+Der Flaggen-Zombie ist fest davon überzeugt, dass das Kürbis-Vogelscheuchen-Kostüm das klassische Halloween-Kostüm ist und das Skelett-Kostüm unkonventionell. Deshalb hat er eigens ein Set Kostüme gefunden und die Flagge verändert.
 
 [ZOMBIE_HALLOWEEN_FLAG_DESCRIPTION_HEADER]
-万圣节装扮的旗帜僵尸。
+Flaggen-Zombie im Halloween-Kostüm.
 
 [ZOMBIE_PUMPKIN_KNIGHT]
-南瓜骑士僵尸
+Kürbis-Ritter-Zombie
 
 [ZOMBIE_PUMPKIN_KNIGHT_DESCRIPTION]
-被植物击败的骑士僵尸，因为不甘于接受失败而接受了恶魔的不死诅咒。现在变为了掌控法术与火焰的复仇战士，每年万圣夜都将重返人间散播恐惧，直至找到脑子！
+Der Ritter-Zombie wurde von Pflanzen besiegt und akzeptierte den Fluch der Unsterblichkeit des Teufels, weil er sich nicht geschlagen geben wollte. Nun ist er ein Rachekrieger, der Zauber und Feuer beherrscht. Er kehrt jedes Halloween zurück, um Angst und Schrecken zu verbreiten, bis sein Gehirn gefunden wird!
 
 [ZOMBIE_PUMPKIN_KNIGHT_DESCRIPTION_HEADER]
-南瓜骑士僵尸能够召唤南瓜幽灵，在死亡后还能带着烈焰战马再次归来。
+Der Kürbisritter-Zombie kann Kürbisgeister beschwören und nach seinem Tod mit einem flammenden Schlachtross zurückkehren.
 
 [ZOMBIE_PUMPKIN_KNIGHT_GHOST]
-南瓜幽灵僵尸
+Kürbisgeist-Zombie
 
 [ZOMBIE_PUMPKIN_KNIGHT_GHOST_DESCRIPTION]
-僵尸亡魂化为的幽灵。受到南瓜骑士的复仇召唤而来到人间，一起向植物发起死亡冲锋！
+Ein Geist, verwandelt aus der Seele eines Zombies. Er kam auf die Welt, nachdem er vom Kürbisritter beschworen worden war, und startete gemeinsam einen tödlichen Angriff auf die Pflanzen!
 
 [ZOMBIE_PUMPKIN_KNIGHT_GHOST_DESCRIPTION_HEADER]
-由南瓜骑士召唤出现的幽灵僵尸，周围无植物时处于无法被攻击的灵体状态，会飞向最近的植物后自爆。
+Der vom Kürbisritter beschworene Geisterzombie befindet sich in einem geistigen Zustand, der nicht angegriffen werden kann, wenn keine Pflanzen in der Nähe sind. Er fliegt zur nächsten Pflanze und explodiert.
 
 [ZOMBIE_PUMPKIN_SCARECROW_BIRD]
-僵尸乌鸦
+Zombie-Krähe
 
 [ZOMBIE_PUMPKIN_SCARECROW_BIRD_DESCRIPTION]
-{KEYWORD}特点：{STAT}可飞到其他行列的植物将其掠走
+{KEYWORD}Funktionen:{STAT}Kann zu Pflanzen in anderen Reihen fliegen und sie stehlen.
 
-{FLAVOR}生前对南瓜稻草人情有独钟的僵尸乌鸦。既提供了略带光明的栖息场所，又自带食物，谁能不喜欢呢？如果有植物损坏了稻草人它就会发起报仇！
+{FLAVOR}Zombie-Krähe, die eine besondere Vorliebe für Kürbis-Vogelscheuchen hatte. Sie bietet nicht nur einen leicht hellen Lebensraum, sondern auch Futter. Wer mag das nicht? Wenn eine Pflanze die Vogelscheuche beschädigt, rächt sie sich!
 
 [ZOMBIE_PUMPKIN_SCARECROW_BIRD_DESCRIPTION_HEADER]
-停歇在稻草人上的僵尸乌鸦，飞离稻草人后会偷走你的一颗植物。
+Die Zombie-Krähe, die auf der Vogelscheuche sitzt, stiehlt eine deiner Pflanzen, nachdem sie von der Vogelscheuche weggeflogen ist.
 
 [ZOMBIE_CHRISTMAS]
-圣诞节普通僵尸
+Ein ganz normaler Weihnachtszombie
 
 [ZOMBIE_CHRISTMAS_DESCRIPTION]
-给自己织一件圣诞毛衣一直是僵尸的传统。
+Sich einen Weihnachtspullover zu stricken, war schon immer eine Zombie-Tradition.
 
 [ZOMBIE_CHRISTMAS_DESCRIPTION_HEADER]
-圣诞节装扮的普通僵尸。
+Ein normaler Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_ARMOR1]
-圣诞节路障僵尸
+Weihnachtlicher Straßensperren-Zombie
 
 [ZOMBIE_CHRISTMAS_ARMOR1_DESCRIPTION]
-没人知道是路障僵尸捡到了一个带圣诞花环的路障还是给它普通路障加上了圣诞花环。
+Niemand weiß, ob der Straßensperren-Zombie eine Straßensperre mit Weihnachtskranz aufgehoben oder einer normalen Straßensperre einen Weihnachtskranz hinzugefügt hat.
 
 [ZOMBIE_CHRISTMAS_ARMOR1_DESCRIPTION_HEADER]
-圣诞节装扮的路障僵尸。
+Ein weihnachtlich gekleideter Straßensperren-Zombie.
 
 [ZOMBIE_CHRISTMAS_ARMOR2]
-圣诞节铁桶僵尸
+Weihnachtlicher Eimer-Zombie
 
 [ZOMBIE_CHRISTMAS_ARMOR2_DESCRIPTION]
-连僵尸都能收到圣诞礼物，哪怕只是一个铁桶。
+Auch Zombies können Weihnachtsgeschenke bekommen, selbst wenn es nur ein Eimer ist.
 
 [ZOMBIE_CHRISTMAS_ARMOR2_DESCRIPTION_HEADER]
-圣诞节装扮的铁桶僵尸。
+Ein Eimer-Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_FLAG]
-圣诞节旗帜僵尸
+Weihnachtsflaggen-Zombie
 
 [ZOMBIE_CHRISTMAS_FLAG_DESCRIPTION]
-圣诞旗帜僵尸虽然举着旗帜，但是并没有什么诉求。
+Der Weihnachtsflaggen-Zombie hält eine Flagge, hat aber keine Anziehungskraft.
 
 [ZOMBIE_CHRISTMAS_FLAG_DESCRIPTION_HEADER]
-圣诞节装扮的旗帜僵尸。
+Flaggen-Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_IMP]
-圣诞节小鬼僵尸
+Weihnachtswichtel-Zombie
 
 [ZOMBIE_CHRISTMAS_IMP_DESCRIPTION]
-随处可见的普通的小鬼，直到它穿上毛衣之前，当然穿上毛衣之后它也是随处可见的穿着毛衣的小鬼。
+Ein gewöhnlicher Wichtel, der überall zu finden ist, bis er einen Pullover anzieht. Selbst danach ist er immer noch ein gewöhnlicher Wichtel mit Pullover.
 
 [ZOMBIE_CHRISTMAS_IMP_DESCRIPTION_HEADER]
-圣诞节装扮的小鬼僵尸。
+Ein Wichtel-Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_IMP2]
-圣诞节小鬼僵尸2号
+Weihnachts-Zombie Nr. 2
 
 [ZOMBIE_CHRISTMAS_IMP2_DESCRIPTION]
-圣诞节这个特殊的日子让某些小鬼僵尸产生了特别的想法，换上了特别的装束。
+Weihnachten ist ein besonderer Tag, an dem manche Zombie-Zombies auf besondere Ideen kommen und sich besonders kleiden.
 
 [ZOMBIE_CHRISTMAS_IMP2_DESCRIPTION_HEADER]
-圣诞节装扮的小鬼僵尸2号。
+Weihnachts-Zombie Nr. 2.
 
 [ZOMBIE_CHRISTMAS_GARGANTUAR]
-圣诞节巨人僵尸
+Weihnachts-Riesenzombie
 
 [ZOMBIE_CHRISTMAS_GARGANTUAR_DESCRIPTION]
-在每年圣诞节总会出现穿着不合身红色毛衣的圣诞巨人僵尸，没人知道它们身上的毛衣是否还是去年那一件。
+Jedes Jahr zu Weihnachten gibt es Weihnachts-Riesenzombies in schlecht sitzenden roten Pullovern. Niemand weiß, ob sie dieselben Pullover wie letztes Jahr tragen.
 
 [ZOMBIE_CHRISTMAS_GARGANTUAR_DESCRIPTION_HEADER]
-圣诞节装扮的巨人僵尸。
+Riesenzombies in Weihnachtskostümen.
 
 [ZOMBIE_CHRISTMAS_GARGANTUAR2]
-圣诞节巨人僵尸2号
+Weihnachts-Riesenzombie 2
 
 [ZOMBIE_CHRISTMAS_GARGANTUAR2_DESCRIPTION]
-有驯鹿装扮的巨人僵尸但是没有圣诞老人装扮的巨人僵尸，那是因为没有一个巨人僵尸相信存在圣诞老人。
+Es gibt Riesenzombies als Rentiere, aber keine als Weihnachtsmann. Das liegt daran, dass keiner der Riesenzombies an den Weihnachtsmann glaubt.
 
 [ZOMBIE_CHRISTMAS_GARGANTUAR2_DESCRIPTION_HEADER]
-圣诞节装扮的巨人僵尸2号。
+Riesenzombie 2 als Weihnachten verkleidet.
 
 [ZOMBIE_CHRISTMAS_CAMEL_ONEHUMP]
-圣诞节骆驼僵尸
+Weihnachtskamel-Zombie
 
 [ZOMBIE_CHRISTMAS_CAMEL_ONEHUMP_DESCRIPTION]
-为什么名字叫圣诞节骆驼僵尸而不是驯鹿僵尸？当然是为了合群。
+Warum heißt er Weihnachtskamel-Zombie und nicht Rentier-Zombie? Natürlich, um gesellig zu sein.
 
 [ZOMBIE_CHRISTMAS_CAMEL_ONEHUMP_DESCRIPTION_HEADER]
-圣诞节装扮的骆驼僵尸。
+Kamel-Zombie als Weihnachten verkleidet.
 
 [ZOMBIE_CHRISTMAS_SWASHBUCKLER]
-圣诞节飞索僵尸
+Weihnachtlicher Zipline-Zombie
 
 [ZOMBIE_CHRISTMAS_SWASHBUCKLER_DESCRIPTION]
-也许你好奇圣诞飞索僵尸的袋子里有些什么，但是请相信我，绝对还是不知道为好。
+Du bist vielleicht neugierig, was in der Tasche des Weihnachts-Zipline-Zombies steckt, aber glaub mir, es ist besser, es nicht zu wissen.
 
 [ZOMBIE_CHRISTMAS_SWASHBUCKLER_DESCRIPTION_HEADER]
-圣诞节装扮的飞索僵尸。
+Zipline-Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_PIANO]
-圣诞节钢琴僵尸
+Weihnachtlicher Piano-Zombie
 
 [ZOMBIE_CHRISTMAS_PIANO_DESCRIPTION]
-你以为圣诞钢琴僵尸学会了更多的音乐吗？不，它还是只会两支曲子。
+Glaubst du, der Weihnachts-Piano-Zombie hat mehr Musik gelernt? Nein, er kennt immer noch nur zwei Lieder.
 
 [ZOMBIE_CHRISTMAS_PIANO_DESCRIPTION_HEADER]
-圣诞节装扮的钢琴僵尸。
+Piano-Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_PONCHO]
-圣诞节斗篷僵尸
+Weihnachtsponcho-Zombie
 
 [ZOMBIE_CHRISTMAS_PONCHO_DESCRIPTION]
-比起壁炉盖，圣诞节斗篷僵尸更喜欢它的斗篷。
+Der Weihnachtsponcho-Zombie zieht seinen Umhang dem Kaminsims vor.
 
 [ZOMBIE_CHRISTMAS_PONCHO_DESCRIPTION_HEADER]
-圣诞节装扮的斗篷僵尸。
+Poncho-Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CARNIE_MAGICIAN]
 Zombie-Zauberer
@@ -57796,42 +57792,40 @@ Der Kindertags-Flaggen-Zombie hält die Flagge hoch in der Hand und führt die G
 Flaggen-Zombie in Kinderkleidung.
 
 [ZOMBIE_CHILDRENSDAY_GARGANTUAR]
-儿童节巨人僵尸
+Kindertag: Riesenzombie
 
 [ZOMBIE_CHILDRENSDAY_GARGANTUAR_DESCRIPTION]
-在儿童节这一天，巨人僵尸不能凶神恶煞的出现，只能将自己包裹在玩偶熊中。
+Am Kindertag kann der Riesenzombie nicht wild erscheinen, sondern sich nur in einen Teddybären hüllen.
 
 [ZOMBIE_CHILDRENSDAY_GARGANTUAR_DESCRIPTION_HEADER]
-玩偶熊装扮的巨人僵尸
+Riesenzombie als Plüschbär verkleidet
 
 [ZOMBIE_CHILDRENSDAY_IMP]
-儿童节小鬼僵尸
+Geisterzombie zum Kindertag
 
 [ZOMBIE_CHILDRENSDAY_IMP_DESCRIPTION]
-只有在儿童节这一天小鬼僵尸才能戴上心心念念的小熊帽子以及粉色的背带裤，这可以让他开心一整天
+Nur am Kindertag kann die Geisterzombie die Bärenmütze und den rosa Overall tragen, von denen sie immer geträumt hat. Das macht sie den ganzen Tag glücklich.
 
 [ZOMBIE_CHILDRENSDAY_IMP_DESCRIPTION_HEADER]
-小熊装扮的小鬼僵尸
-
+Geisterzombie als Bär verkleidet
 
 [ZOMBIE_BUMPERCAR]
-儿童节碰碰车僵尸
+Autoscooter-Zombie zum Kindertag
 
 [ZOMBIE_BUMPERCAR_DESCRIPTION]
-当僵尸坐上儿童碰碰车，他将化身为驰骋在赛场上的职业赛车手，要千万小心他的行驶轨迹哦，注意不要被他撞到。
+Wenn die Zombies im Autoscooter sitzen, verwandeln sie sich auf der Strecke in einen professionellen Rennfahrer. Achte auf seine Fahrbahn und pass auf, dass sie nicht von ihm angefahren werden.
 
 [ZOMBIE_BUMPERCAR_DESCRIPTION_HEADER]
-儿童节特殊僵尸
+Kindertags-Spezial-Zombie
 
 [ZOMBIE_BUMPERCAR_ELITE]
-精英碰碰车僵尸
+Elite-Autoscooter-Zombie
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION]
-只有经受过汽车碰撞试验的碰碰车才能通过审批，改装成更加精密、危险的专业碰撞载具。精英的小鬼也将从驾驶员晋升为荣誉实验假人，没有人明白这是为什么。
+Nur Autoscooter, die Crashtests bestanden haben, können zugelassen und zu anspruchsvolleren und gefährlicheren professionellen Crashfahrzeugen umgebaut werden. Elite-Kobolde werden außerdem von Fahrern zu ehrenamtlichen Versuchsobjekten befördert, und niemand versteht, warum.
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION_HEADER]
-精英碰碰车僵尸具备韧性条机制，电能属性攻击可削减其韧性，清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-
+Elite-Autoscooter-Zombies verfügen über einen Widerstandsbalken. Angriffe mit dem Attribut „Elektrische Energie“ können ihre Widerstandskraft verringern. Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann sich der Zombie weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Ein Widerstandswert kann einen Schadensbegrenzungseffekt auslösen.
 
 [ZOMBIE_PARKOUR]
 Sicherheitsbeamter, gewöhnlicher Zombie
