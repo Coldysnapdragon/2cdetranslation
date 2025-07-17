@@ -65995,225 +65995,231 @@ Riesenzelt beschwören
 Fluchkarten zufällig in Spieler einteilen
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_4]
-生成飓风
+Erzeugt einen Hurrikan.
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_5]
-召唤小鬼僵尸和巨人僵尸
+Beschwört Kobold-Zombies und Riesen-Zombies.
 
 [CARD_GAME_INTENTION_ZOMBIE_CHICKEN_FARMER_DESC_1]
-召唤小鸡僵尸墓碑
+Beschwört einen Hühner-Zombie-Grabstein.
 
 [CARD_GAME_INTENTION_ZOMBIE_CHICKEN_FARMER_DESC_2]
-召唤小鸡僵尸
+Beschwört Hühner-Zombie.
 
 [CARD_GAME_INTENTION_ZOMBIE_MECH_FOOTBALL_DESC_1]
-召唤迪斯科3000
+Beschwört Disco 3000.
 
 [CARD_GAME_INTENTION_ZOMBIE_MECH_FOOTBALL_DESC_2]
-召唤战斗机僵尸
+Beschwört Kämpfer. Zombie
 
 [CARD_GAME_INTENTION_ZOMBIE_MECH_FOOTBALL_DESC_3]
-同时召唤迪斯科3000和战斗机僵尸
+Beschwöre Disco 3000 und einen Zombie-Kämpfer gleichzeitig.
 
-[CARD_GAME_INTENTION_ZOMBIE_BARREL_DESC_1]
-召唤2只小鬼桶
+[CARD_GAME_INTENTION_ZOMBIE_MECH_FOOTBALL_DESC_4] BIE_BARREL_DESC_1]
+Beschwöre 2 Imp-Fässer.
 
 [CARD_GAME_INTENTION_ZOMBIE_BARREL_DESC_2]
-召唤1只爆炸桶
+Beschwöre 1 Sprengstofffass.
 
 [CARD_GAME_INTENTION_ZOMBIE_ARCHMAGE_DESC_1]
-魅惑我方僵尸1只
+Bezaubere 1 befreundeten Zombie.
 
 [CARD_GAME_INTENTION_ZOMBIE_ARCHMAGE_DESC_2]
-召唤2只电磁盾僵尸
+Beschwöre 2 Magnetschild-Zombies.
 
-[CARD_GAME_INTENTION_ZOMBIE_CANNON_DESC_1]
-发射小鬼僵尸
+[CARD_GAME_INTENTION_ZOMBIE_CANNO N_DESC_1]
+Starte Imp Zombie
 
 [CARD_GAME_INTENTION_ZOMBIE_CANNON_DESC_2]
-发射炮弹
+Kanonenkugel abfeuern
 
 [CARD_GAME_INTENTION_ZOMBIE_MIRROR_QUEEN_DESC_1]
-召唤2只近卫僵尸
+2 Wächter-Zombies beschwören
 
 [CARD_GAME_INTENTION_ZOMBIE_MIRROR_QUEEN_DESC_2]
-扔苹果攻击
+Äpfel zum Angriff werfen
 
 [CARD_GAME_SELECT_LEVEL_TARGET_TITLE]
-目标预览
+Zielvorschau
 
 [CARD_GAME_START_LEVEL]
-牌面纷争-第{NUM}天
+Kartenkonflikt – Tag {NUM}
 
 [CARD_GAME_LEVEL_DESC_1]
-合理分配阳光，利用手中的卡牌击败敌方僵尸
+Verteile das Sonnenlicht vernünftig und nutze die Karten auf deiner Hand, um die feindlichen Zombies zu besiegen.
 
 [CARD_GAME_LEVEL_DESC_2]
-合理分配阳光，利用手中的卡牌击败敌方僵尸
+Verteile das Sonnenlicht vernünftig und nutze die Karten auf deiner Hand, um die feindlichen Zombies zu besiegen.
 
 [CARD_GAME_LEVEL_DESC_3]
-合理分配阳光，利用手中的卡牌击败敌方僵尸
+Verteile das Sonnenlicht vernünftig und nutze die Karten auf deiner Hand, um die feindlichen Zombies zu besiegen.
 
 [CARD_GAME_LEVEL_DESC_4]
-合理分配阳光，利用手中的卡牌击败敌方僵尸
+Verteile das Sonnenlicht vernünftig und nutze die Karten auf deiner Hand, um die feindlichen Zombies zu besiegen.
 
 [CARD_GAME_LEVEL_DESC_5]
-合理分配阳光，利用手中的卡牌击败敌方僵尸
+Verteile das Sonnenlicht vernünftig und nutze die Karten auf deiner Hand, um die feindlichen Zombies zu besiegen.
 
 [CARD_GAME_LEVEL_DESC_6]
-合理分配阳光，利用手中的卡牌击败敌方僵尸
+Verteile das Sonnenlicht vernünftig und nutze die Karten auf deiner Hand, um den Feind zu besiegen. Zombies
 
 [CARD_GAME_LEVEL_DESC_7]
-合理分配阳光，利用手中的卡牌击败敌方僵尸
+Verteile das Sonnenlicht sinnvoll und nutze die Karten auf deiner Hand, um die gegnerischen Zombies zu besiegen.
 
 [WORLD_CARD_GAME_RESET_TEXT]
-是否开始重新挑战？重新挑战会移除通关获得的卡牌，同时会将关卡重置为未开启状态，但不会影响已获得的关卡星星。
+Möchtest du eine neue Herausforderung starten? Bei einer erneuten Herausforderung werden die durch das Abschließen des Levels erhaltenen Karten entfernt und das Level in einen ungeöffneten Zustand zurückgesetzt. Die erhaltenen Level-Sterne bleiben jedoch erhalten.
 
 [CARD_GAME_TUTORIAL_STEP_1]
-在这个模式中会出现全新的精英敌人，将其打败可以赢得胜利。
-（点击任意位置进行下一步）
+In diesem Modus erscheinen neue Elite-Gegner. Besiege sie, um zu gewinnen.
+(Klicke irgendwo, um zum nächsten Schritt zu gelangen.)
 
 [CARD_GAME_TUTORIAL_STEP_2]
-僵尸进入我方基地后只会扣除一定耐久，耐久为0时才会失败。
-（点击任意位置进行下一步）
+Wenn ein Zombie unsere Basis betritt, verliert er nur eine bestimmte Haltbarkeit. Er scheitert, wenn die Haltbarkeit 0 erreicht.
+
+(Klicke irgendwo, um zum nächsten Schritt zu gelangen.)
 
 [CARD_GAME_TUTORIAL_STEP_3]
-该模式下战斗以回合进行，每回合开始时会从卡组中抽取5张牌作为手牌。
-（点击任意位置进行下一步）
+In diesem Modus wird der Kampf in Runden ausgetragen. Zu Beginn jeder Runde werden 5 Karten vom Stapel gezogen.
+
+(Klicken Sie irgendwo, um zum nächsten Schritt zu gelangen.)
 
 [CARD_GAME_TUTORIAL_STEP_4]
-长按卡牌放大卡牌。
-（根据指示长按卡牌放大卡牌，释放后进行下一步）
+Halten Sie die Karte gedrückt, um sie zu vergrößern.
+
+(Halten Sie die Karte gedrückt, um sie gemäß den Anweisungen zu vergrößern, und lassen Sie sie los, um zum nächsten Schritt zu gelangen.)
 
 [CARD_GAME_TUTORIAL_STEP_5]
-将卡牌拖曳到场上即可使其加入战斗。
-（根据指示将卡牌拖曳到场上，使用卡牌后进行下一步）
+Ziehen Sie die Karte auf das Spielfeld, um am Kampf teilzunehmen.
+(Ziehen Sie die Karte wie angegeben auf das Spielfeld und fahren Sie nach dem Einsatz mit dem nächsten Schritt fort.)
 
 [CARD_GAME_TUTORIAL_STEP_6]
-每张卡牌都会消耗对应的阳光，但是不用担心，阳光每回合都会回满。
-（点击任意位置进行下一步）
+Jede Karte verbraucht die entsprechende Menge Sonnenlicht. Aber keine Sorge, das Sonnenlicht wird in jeder Runde vollständig erneuert.
+
+(Klicken Sie irgendwo, um zum nächsten Schritt zu gelangen.)
 
 [CARD_GAME_TUTORIAL_STEP_7]
-精英敌人在每回合结束时会释放其独有的技能，可点击意图查看详情。
-（点击任意位置进行下一步）
+Elitegegner setzen am Ende jeder Runde ihre einzigartigen Fähigkeiten ein. Klicke auf die Absicht, um die Details anzuzeigen.
+
+(Klicke irgendwo hin, um zum nächsten Schritt zu gelangen.)
 
 [CARD_GAME_TUTORIAL_STEP_8]
-点击回合结束后可结束回合，将剩余手牌弃入墓地，时间过长会自动结束回合。
-（点击回合结束按钮后进行下一步）
+Klicke auf „Zugende“, um den Zug zu beenden. Wirf die restlichen Karten auf deiner Hand auf den Friedhof. Der Zug endet automatisch, wenn die Zeit zu lang ist.
+
+(Klicke auf „Zugende“, um zum nächsten Schritt zu gelangen.)
 
 [CARD_GAME_TUTORIAL_STEP_9]
-首先让我们打出僵尸克隆这张牌，可以使下两次召唤僵尸牌的数量翻倍。
-（根据指示将卡牌拖曳到场上，使用卡牌后进行下一步）
+Spielen wir zunächst die Zombie-Klon-Karte. Sie verdoppelt die Anzahl der beschworenen Zombie-Karten in den nächsten beiden Versuchen.
+(Ziehe die Karte gemäß den Anweisungen auf das Spielfeld und fahre nach dem Einsatz mit dem nächsten Schritt fort.)
 
 [CARD_GAME_TUTORIAL_STEP_10]
-随后打出僵尸鸡这张牌，召唤大量僵尸鸡。
-（根据指示将卡牌拖曳到图示指定位置，使用卡牌后进行下一步）
+Spielen wir anschließend die Zombie-Huhn-Karte, um eine große Anzahl Zombie-Hühner zu beschwören.
+(Ziehe die Karte gemäß den Anweisungen an die vorgesehene Position im Diagramm und fahre mit dem nächsten Schritt fort, nachdem du sie benutzt hast.)
 
 [CARD_GAME_TUTORIAL_STEP_11]
-就是现在，打出护盾药水，避免我们的僵尸鸡被敌人的防御塔攻击，一鼓作气赢得胜利吧。
-（根据指示将卡牌拖曳到图示指定位置，使用卡牌后进行下一步）
+Spiel nun den Schildtrank, um zu verhindern, dass unser Zombiehuhn vom gegnerischen Verteidigungsturm angegriffen wird, und gewinne sofort.
+(Ziehe die Karte gemäß den Anweisungen an die vorgesehene Position im Diagramm und fahre mit dem nächsten Schritt fort, nachdem du sie benutzt hast.)
 
 [CARD_GAME_CHOOSE_DECK_TITLE]
-选择卡组
+Wähle ein Deck
 
 [CARD_GAME_BASE_HITPOINT]
--{NUMS} 耐久
+-{NUMS} Haltbarkeit
 
 [CARD_GAME_MODE_TITLE_SHIELD]
-魔力迷雾
+Magischer Nebel
 
 [CARD_GAME_MODE_DESC_SHIELD]
-这片邪门的迷雾能为僵尸带来强大的护盾，或许只有森林中的微风才能吹走这些迷雾
+Dieser böse Nebel bietet Zombies einen mächtigen Schutzschild. Vielleicht kann nur die Brise im Wald ihn vertreiben.
 
 [PLANT_ADV_BUY_GEM_FINISH]
-20钻石
+20 Diamanten
 
 [PLANT_ADV_BUY_GEM_FINISH_COUNT]
-{GEM_COUNT}钻石
+{GEM_COUNT} Diamanten
 
 [LEFT_AD_COUNT]
-剩余{NUMBER}次
+{NUMBER} Mal verbleibend
 
 [NEWPVP_HOWTOPLAY_1_DESCRIPTION]
-该模式为1v1双人对决模式，双方玩家在同一场地上进行实时对战
+Dieser Modus ist ein 1-gegen-1-Duellmodus, in dem beide Spieler in Echtzeit auf demselben Feld kämpfen.
 
 [NEWPVP_HOWTOPLAY_2_DESCRIPTION]
-在双人对决模式中，植物的阶数由植物卡槽的左上角标识决定，所有的植物不会受到任何加成（神器、家族、挂件、装扮、基因序列等）
+Im Duellmodus wird der Rang der Pflanze durch die obere linke Ecke des Pflanzenplatzes bestimmt. Pflanzen erhalten keine Boni (Artefakte, Familien, Anhänger, Kostüme, Gensequenzen usw.).
 
 [NEWPVP_HOWTOPLAY_3_DESCRIPTION]
-上方场地为你的主场，下方场地为对方主场；种植植物防守己方半场，并派遣僵尸攻击敌方场地，当僵尸经过底线旗帜时，扣除对应玩家血量，当一方玩家血量归0，游戏结束
+Das obere Feld ist dein Heimatfeld, das untere das des Gegners. Pflanze Pflanzen, um deine eigene Hälfte zu verteidigen, und schicke Zombies, um das gegnerische Feld anzugreifen. Sobald der Zombie die unterste Flagge passiert, wird die Gesundheit des entsprechenden Spielers abgezogen. Sinkt die Gesundheit eines Spielers auf 0, endet das Spiel.
 
 [NEWPVP_HOWTOPLAY_4_DESCRIPTION]
-屏幕左上角的向日葵是你的阳光产出来源，消耗一定阳光可以提高阳光产量和植物种植上限
+Die Sonnenblume in der oberen linken Ecke des Bildschirms ist deine Sonnenlichtquelle. Durch den Konsum einer bestimmten Menge Sonnenlicht kannst du deine Sonnenlichtausbeute und dein Pflanzenlimit erhöhen.
 
 [NEWPVP_HOWTOPLAY_5_DESCRIPTION]
-随着回合数增多，将解锁更加强力的僵尸和增强技能，合理搭配僵尸和技能，获得胜利将更加轻松
+Mit zunehmender Rundenanzahl werden stärkere Zombies und verbesserte Fähigkeiten freigeschaltet. Angemessene Matches: Passende Zombies und Fähigkeiten erleichtern den Sieg.
 
 [NEWPVP_ARMY_HOWTOPLAY_1_DESCRIPTION]
-在这里你可以自由培养你的僵尸部队
+Hier kannst du deine Zombietruppen kostenlos trainieren.
 
 [NEWPVP_ARMY_HOWTOPLAY_2_DESCRIPTION]
-在宝箱中获得的僵尸卡片可以帮助你解锁和升级僵尸
+Die Zombiekarten aus der Schatztruhe helfen dir beim Freischalten und Verbessern von Zombies.
 
 [NEWPVP_ARMY_HOWTOPLAY_3_DESCRIPTION]
-解锁回合数相同卡片可以互相替换
+Karten mit denselben Freischaltrunden können gegeneinander ausgetauscht werden.
 
 [NEW_PVP_TRAINING_PACKET_LEVEL_STR]
-Lv.{NUMBER}
+Stufe {NUMBER}
 
-[NEW_PVP_TRAINING_LOWER_BACKGROUND_TITLE]
-僵尸阵容
+[NEW_PVP_TRAINING _LOWER_BACKGROUND_TITLE]
+Zombie-Aufstellung
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_TITLE]
-出战僵尸
+Zombie bekämpfen
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_BTN]
-编辑阵容
+Bearbeiten Aufstellung
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_SAVE_BTN]
-保存
+Speichern
 
 [NEW_PVP_TRAINING_SAVE_SUCCESS_TITLE]
-保存成功
+Erfolgreich gespeichert
 
 [NEW_PVP_TRAINING_SAVE_SUCCESS_TEXT]
-阵容保存成功！
+Aufstellung erfolgreich gespeichert!
 
 [NEW_PVP_TRAINING_EDIT_NOT_UNLOCKED_TITLE]
-未解锁
+Nicht freigeschaltet
 
 [NEW_PVP_TRAINING_EDIT_NOT_UNLOCKED_TEXT]
-尚未解锁此卡片！
+Diese Karte wurde noch nicht freigeschaltet!
 
 [NEW_PVP_TRAINING_LEVELUP_TITLE]
-僵尸升级
+Zombie-Upgrade
 
 [NEW_PVP_TRAINING_LEVELUP_BTN]
-升级
+Upgrade
 
 [NEW_PVP_TRAINING_LEVELUP_UNLOCK_BTN]
-解锁
+Freischalten
 
 [NEW_PVP_TRAINING_LEVELUP_BTN_MAX]
-已满级
+Maximales Level
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_COST_LABEL]
-消耗阳光
+Verbrauch Sonnenschein
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_LABEL]
-攻击力
+Angriff
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_HP_LABEL]
-生命值
+Gesundheit
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_SPEED_LABEL]
-移动速度
+Bewegung Geschwindigkeit
 
 [NEW_PVP_TRAINING_LEVELUP_BATTLE_LABEL]
-稀有度：{RARE}  类型：{BATTLE_TYPE}
+Seltenheit: {RARE} Typ: {BATTLE_TYPE}
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_INSTANT_KILL]
-秒杀
+Sofortiger Kill
 
 [ZOMBIE_BATTLE_TYPE_RARE_0]
 Gewöhnlich
@@ -66283,409 +66289,409 @@ Nachdem er das Feld eine Weile betreten hat, setzt er einen elektromagnetischen 
 Oktopus-Zombie
 
 [ZOMBIE_NEW_PVP_BEACH_OCTOPUS_DESCRIPTION_HEADER]
-能够扔出章鱼困住植物
+Kann Oktopusse auswerfen, um Pflanzen zu fangen.
 
 [ZOMBIE_NEW_PVP_KONGFU_STRONG_BRONZE]
-功夫铜人僵尸
+Kung-Fu-Bronze-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_STRONG_BRONZE_DESCRIPTION_HEADER]
-挥舞手中的武器对前方植物造成巨额伤害
+Winkt mit der Waffe in der Hand, um den Pflanzen vor ihm großen Schaden zuzufügen.
 
 [ZOMBIE_NEW_PVP_TUTORIAL_ARMOR2]
-铁桶僵尸
+Fass-Zombie
 
 [ZOMBIE_NEW_PVP_TUTORIAL_ARMOR2_DESCRIPTION_HEADER]
-普通的僵尸头上戴了个普通的铁桶
+Gewöhnlicher Zombie mit einem gewöhnlichen Fass auf dem Kopf.
 
 [ZOMBIE_NEW_PVP_TUTORIAL_ARMOR1]
-路障僵尸
+Straßensperre Zombie
 
 [ZOMBIE_NEW_PVP_TUTORIAL_ARMOR1_DESCRIPTION_HEADER]
-普通的僵尸头上戴了个普通的路障
+Ein normaler Zombie mit einer normalen Straßensperre auf dem Kopf.
 
 [ZOMBIE_NEW_PVP_EXPLORER]
-探险家僵尸
+Entdecker-Zombie
 
 [ZOMBIE_NEW_PVP_EXPLORER_DESCRIPTION_HEADER]
-使用火把快速的烧毁植物
+Fackeln zum schnellen Verbrennen von Pflanzen.
 
 [ZOMBIE_NEW_PVP_ICEAGE_WEASEL]
-冰鼬
+Eiswiesel
 
 [ZOMBIE_NEW_PVP_ICEAGE_WEASEL_DESCRIPTION_HEADER]
-比鸡还要快！
+Schneller als ein Huhn!
 
 [ZOMBIE_NEW_PVP_MODERN_BALLOON]
-气球僵尸
+Ballon-Zombie
 
 [ZOMBIE_NEW_PVP_MODERN_BALLOON_DESCRIPTION_HEADER]
-可以直接越过常规高度的植物
+Kann direkt über Pflanzen normaler Höhe springen.
 
 [ZOMBIE_NEW_PVP_MODERN_MINER]
-矿工僵尸
+Bergbau-Zombie
 
 [ZOMBIE_NEW_PVP_MODERN_MINER_DESCRIPTION_HEADER]
-入场后快速进入场地最左侧向右侧发起攻击
+Nach dem Betreten schnell die äußerste linke Seite des Schauplatzes betreten und die rechte Seite angreifen.
 
 [ZOMBIE_NEW_PVP_WEST_BULL]
-机器牛僵尸
+Robo-Bull-Zombie
 
 [ZOMBIE_NEW_PVP_WEST_BULL_DESCRIPTION_HEADER]
-快速地向场内发起冲锋
+Stürmt schnell ins Feld.
 
 [ZOMBIE_NEW_PVP_ZOMBIE_EXPLODENUT]
-爆炸坚果僵尸
+Explodierende Nuss Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
-死亡时造成范围伤害
+Verursacht Flächenschaden beim Tod.
 
 [ZOMBIE_NEW_PVP_DARK_WIZARD]
-魔法师僵尸
+Zauberer-Zombie
 
-[ZOMBIE_NEW_PVP_DARK_WIZARD_DESCRIPTION_HEADER]
-使用变形术将植物变为绵羊
+[ZOMBIE_NEW_PVP_D ARK_WIZARD_DESCRIPTION_HEADER]
+Verwandelt Pflanzen mit Polymorph in Schafe.
 
 [ZOMBIE_NEW_PVP_RENAI_GLIDING]
-飞行器僵尸
+Fliegendes Fahrzeug-Zombie
 
 [ZOMBIE_NEW_PVP_RENAI_GLIDING_DESCRIPTION_HEADER]
-可以直接越过常规高度的植物，飞行器坠落时形成障碍物
+Kann Pflanzen normaler Höhe direkt überfliegen. Das fliegende Fahrzeug bildet beim Fallen ein Hindernis.
 
 [ZOMBIE_NEW_PVP_ROMAN_BALLISTA]
-罗马攻城车僵尸
+Römisches Belagerungsfahrzeug-Zombie
 
-[ZOMBIE_NEW_PVP_ROMAN_BALLISTA_DESCRIPTION_HEADER]
-投出罐子对植物造成高额伤害，罐子碎裂后出现僵尸
+[ZOMBIE_NEW_PVP_ROMAN_BALLISTA_ DESCRIPTION_HEADER]
+Wirft ein Glas, um hohe Pflanzenschaden. Zombies erscheinen, nachdem das Glas zerbrochen ist.
 
 [ZOMBIE_NEW_PVP_TUTORIAL_GARGANTUAR]
-巨人僵尸
+Riesenzombie
 
 [ZOMBIE_NEW_PVP_TUTORIAL_GARGANTUAR_DESCRIPTION_HEADER]
-挥舞手中的武器对前方植物造成巨额伤害
+Winke mit der Waffe in deiner Hand, um den Pflanzen vor dir großen Schaden zuzufügen.
 
 [ZOMBIE_NEW_PVP_ICEAGE_ARMOR3]
-冰砖僵尸
+Eisziegel-Zombie
 
-[ZOMBIE_NEW_PVP_ICEAGE_ARMOR3_DESCRIPTION_HEADER]
-头上的冰砖能够抵挡大量伤害
+[ZOMBIE_NEW_PVP_ICEAGE_ARMOR3_D ESCRIPTION_HEADER]
+Der Eisziegel auf dem Kopf hält viel Schaden aus.
 
 [ZOMBIE_NEW_PVP_ZOMBIE_SNOWPEA]
-寒冰豌豆僵尸
+Frosterbsen-Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_SNOWPEA_DESCRIPTION_HEADER]
-发出寒冰子弹对植物造成少量伤害并减少攻击速度
+Sendet Eisgeschosse, um Pflanzen geringen Schaden zuzufügen und Angriffe zu reduzieren. Geschwindigkeit
 
 [ZOMBIE_NEW_PVP_BEACH_SHELL]
-贝壳僵尸
+Panzer-Zombie
 
 [ZOMBIE_NEW_PVP_BEACH_SHELL_DESCRIPTION_HEADER]
-使用贝壳对植物造成高额伤害，持有贝壳时免疫减速与冰冻效果
+Nutze Panzer, um Pflanzen hohen Schaden zuzufügen. Halte die Panzer, um immun gegen Verlangsamungs- und Einfriereffekte zu sein.
 
 [ZOMBIE_NEW_PVP_DINO_BULLY]
-侏罗纪野人僵尸
+Jurassischer Wilder Zombie
 
 [ZOMBIE_NEW_PVP_DINO_BULLY_DESCRIPTION_HEADER]
-免疫大多数的击退效果
+Immun gegen die meisten Rückstoßeffekte.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_EXCAVATOR]
-失落发掘者
+Verlorener Bagger
 
 [ZOMBIE_NEW_PVP_LOSTCITY_EXCAVATOR_DESCRIPTION_HEADER]
-使用金铲铲将植物铲起并抛在身后，金铲铲还能阻挡多数平射类的攻击
+Nutze eine goldene Schaufel, um Pflanzen zu schaufeln. Schaufele sie auf und wirf sie hinter dich. Die goldene Schaufel kann auch die meisten Angriffe mit flachem Schuss abwehren.
 
 [ZOMBIE_NEW_PVP_CHILDREN_BALLON]
-儿童节气球僵尸
+Kindertag-Ballon-Zombie
 
 [ZOMBIE_NEW_PVP_CHILDREN_BALLON_DESCRIPTION_HEADER]
-可以直接越过常规高度的植物
+Kann direkt über Pflanzen normaler Höhe springen.
 
 [ZOMBIE_NEW_PVP_ICEAGE_DODO]
-渡渡鸟骑士僵尸
+Dodo-Reiter-Zombie
 
 [ZOMBIE_NEW_PVP_ICEAGE_DODO_DESCRIPTION_HEADER]
-可以骑着渡渡鸟直接越过常规高度的植物
+Kann auf einem Dodo direkt über Pflanzen normaler Höhe reiten.
 
 [ZOMBIE_NEW_PVP_BEACH_SURFER]
-冲浪僵尸
+Surfender Zombie
 
 [ZOMBIE_NEW_PVP_BEACH_SURFER_DESCRIPTION_HEADER]
-冲浪僵尸在死亡后，冲浪板掉落形成障碍物
+Nachdem der Surfende Zombie gestorben ist, fällt das Surfbrett ab und bildet ein Hindernis.
 
 [ZOMBIE_NEW_PVP_ZOMBIE_JALAPENO]
-辣椒僵尸
+Chili Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_JALAPENO_DESCRIPTION_HEADER]
-辣椒僵尸在接触到植物后自爆，对该行所有植物造成大量伤害
+Chili-Zombie explodiert, sobald er eine Pflanze berührt, und fügt allen Pflanzen in der Reihe schweren Schaden zu.
 
 [ZOMBIE_NEW_PVP_HEIAN_ONMYOJI]
-阴阳师僵尸
+Onmyoji-Zombie
 
 [ZOMBIE_NEW_PVP_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
-每间隔一段时间召唤一道风，吹动本行僵尸向前移动一段距离
+Beschwöre in regelmäßigen Abständen einen Windstoß, um den Zombie eine bestimmte Distanz vorwärts zu bewegen.
 
 [ZOMBIE_NEW_PVP_KONGFU_DRINK]
-喝酒僵尸
+Trinkender Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_DRINK_DESCRIPTION_HEADER]
-受到一定伤害后，喝酒强化自身，获得伤害减免与移速加成
+Trinke nach einer bestimmten Schadensmenge, um dich zu stärken, Schadensreduzierung und Bewegungsgeschwindigkeitsbonus zu erhalten.
 
 [ZOMBIE_NEW_PVP_DARK_ROGUE]
-盗贼僵尸
+Dieb-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_ROGUE_DESCRIPTION_HEADER]
-入场后喝下隐身药水进入隐身状态
+Trinke nach Betreten des Feldes den Unsichtbarkeitstrank, um unsichtbar zu werden.
 
-[ZOMBIE_NEW_PVP_CHILDREN_TOYCAR]
-玩具车僵尸
+[ZOMBIE_NEW_PVP_ CHILDREN_TOYCAR]
+Spielzeugauto-Zombie
 
 [ZOMBIE_NEW_PVP_CHILDREN_TOYCAR_DESCRIPTION_HEADER]
-使用玩具小车将前方一格的植物向后推动一格
+Schiebt die Pflanze vor euch mit dem Spielzeugauto ein Feld zurück.
 
 [ZOMBIE_NEW_PVP_KONGFU_SELFEXPLODE]
-自爆僵尸
+Selbstexplosions-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
-抱着心爱的炸弹与敌人同归于尽
+Haltet eure geliebte Bombe und sterbt gemeinsam mit dem Feind.
 
 [ZOMBIE_NEW_PVP_ROMAN_HEALER]
-治愈者僵尸
+Heiler-Zombie
 
 [ZOMBIE_NEW_PVP_ROMAN_HEALER_DESCRIPTION_HEADER]
-为本体受伤的僵尸提供生命值回复
+Stellt die Gesundheit des verletzten Zombies wieder her.
 
 [ZOMBIE_NEW_PVP_HEIAN_NINJA]
-忍者小鬼僵尸
+Ninja-Wicht Zombie
 
 [ZOMBIE_NEW_PVP_HEIAN_NINJA_DESCRIPTION_HEADER]
-靠近植物时丢出手中的河豚
+Wirft den Kugelfisch in seiner Hand, wenn er sich Pflanzen nähert.
 
 [ZOMBIE_NEW_PVP_ICEAGE_HUNTER]
-猎人僵尸
+Jäger-Zombie
 
 [ZOMBIE_NEW_PVP_ICEAGE_HUNTER_DESCRIPTION_HEADER]
-投掷雪球对植物造成冰冻
+Wirft Schneebälle, um Pflanzen einzufrieren.
 
 [ZOMBIE_NEW_PVP_NEWSPAPER_VETERAN]
-周日版僵尸
+Sonntagsausgabe-Zombie
 
 [ZOMBIE_NEW_PVP_NEWSPAPER_VETERAN_DESCRIPTION_HEADER]
-手中的报纸被破坏后会进入狂暴状态
+Geht in Raserei, wenn die Zeitung in seiner Hand zerstört wird.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_JANE]
-失落洋伞僵尸
+Verlorener Regenschirm-Zombie
 
-[ZOMBIE_NEW_PVP_LOSTCITY_JANE_DESCRIPTION_HEADER]
-手中的洋伞可以免除大部分投掷子弹的伤害
+[ZOMBIE_NEW_PVP_LOSTCI TY_JANE_DESCRIPTION_HEADER]
+Mit dem Regenschirm in seiner Hand kann er den meisten Schaden durch geworfene Kugeln
 
 [ZOMBIE_NEW_PVP_ICEAGE_CHIEF]
-冰风酋长僵尸
+Eiswind-Chef-Zombie
 
 [ZOMBIE_NEW_PVP_ICEAGE_CHIEF_DESCRIPTION_HEADER]
-每间隔一段时间向所在行吹出寒流，增加植物的冻结程度
+Bläst in Intervallen kalte Ströme in die Reihe, um den Gefriergrad der Pflanzen zu erhöhen.
 
 [ZOMBIE_NEW_PVP_MECH_CONE]
-机甲路障僵尸
+Mech-Barrikaden-Zombie
 
 [ZOMBIE_NEW_PVP_MECH_CONE_DESCRIPTION_HEADER]
-比一般的路障僵尸更硬一点
+Etwas härter als gewöhnliche Barrikaden-Zombies.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_CRYSTALSKULL]
-失落考古学家
+Verlorener Archäologe
 
-[ZOMBIE_NEW_PVP_LOSTCITY_CRYSTALSKULL_DESCRIPTION_HEADER]
-前方存在植物时花费一定时间聚能并向前方射出激光
+[ZOMBIE_NEW_PVP_LOSTCITY_CRYSTALSKULL_DE SCRIPTION_HEADER]
+Wenn sich Pflanzen vor ihm befinden, benötigt er eine gewisse Zeit, um Energie zu sammeln und einen Laser abzufeuern. vorwärts
 
 [ZOMBIE_NEW_PVP_STEAM_GENTLEMAN]
-绅士僵尸
+Gentleman-Zombie
 
 [ZOMBIE_NEW_PVP_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
-前方遇到非低矮的植物会撑起伞腾空向前移动，高个植物可以阻挡他的前进
+Wenn er vor sich auf nicht niedrige Pflanzen trifft, hält er einen Regenschirm hoch und bewegt sich vorwärts. Hohe Pflanzen können seinen Vormarsch behindern.
 
 [ZOMBIE_NEW_PVP_ICEAGE_TROGLOBITE]
-穴居僵尸
+Höhlenbewohnender Zombie
 
 [ZOMBIE_NEW_PVP_ICEAGE_TROGLOBITE_DESCRIPTION_HEADER]
-推着三个冰块入场，推动冰块时对植物造成碾压效果
+Schiebt drei Eisblöcke ins Feld und zerquetscht dabei die Pflanzen.
 
 [ZOMBIE_NEW_PVP_EIGHTIES_GLITTER]
-闪动僵尸
+Blinkender Zombie
 
 [ZOMBIE_NEW_PVP_EIGHTIES_GLITTER_DESCRIPTION_HEADER]
-身后闪起虹光，保护虹光范围内的僵尸不受伤害影响
+Hinter ihm blitzt ein Regenbogenlicht auf, das Zombies in Reichweite des Regenbogenlichts vor Schaden schützt.
 
 [ZOMBIE_NEW_PVP_KONGFU_MONK_BLADE]
-大刀武僧僵尸
+Messermönch-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_MONK_BLADE_DESCRIPTION_HEADER]
-使用大刀对植物进行砍击
+Benutzt ein Breitschwert zum Zerhacken. Pflanzen
 
 [ZOMBIE_NEW_PVP_KONGFU_MONK_TORCH]
-火把武僧僵尸
+Fackelmönch-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_MONK_TORCH_DESCRIPTION_HEADER]
-使用火把将植物烧毁
+Verbrenne Pflanzen mit einer Fackel.
 
-[ZOMBIE_NEW_PVP_CHICKEN_FARMER]
-鸡贼僵尸
+[ZOMBIE_NEW_PVP_KONGFU_MONK_FARMER]
+Hühnerdieb-Zombie
 
-[ZOMBIE_NEW_PVP_CHICKEN_FARMER_DESCRIPTION_HEADER]
-受到一定伤害或接触到植物时，会在当前所在行释放若干只鸡
+[ZOMBIE_NEW_PVP_CHICKEN_FARMER] RMER_DESCRIPTION_HEADER]
+Wenn er eine bestimmte Menge Schaden erleidet oder eine Pflanze berührt, lässt er mehrere Hühner in der aktuellen Reihe frei.
 
 [ZOMBIE_NEW_PVP_DARK_JUGGLER]
-小丑僵尸
+Clown-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_JUGGLER_DESCRIPTION_HEADER]
-行进一段时间后旋转并反弹多数正面攻击的子弹
+Nach einer Weile dreht er sich und prallt die meisten Frontalangriffe ab. Kugeln
 
 [ZOMBIE_NEW_PVP_EIGHTIES_PUNK]
-朋克僵尸
+Punk-Zombie
 
 [ZOMBIE_NEW_PVP_EIGHTIES_PUNK_DESCRIPTION_HEADER]
-将前方一格的植物踢动至左侧空格内
+Tritt die Pflanze davor nach links.
 
 [ZOMBIE_NEW_PVP_ROMAN_ARMOR4]
-石像僵尸
+Stein-Zombie
 
-[ZOMBIE_NEW_PVP_ROMAN_ARMOR4_DESCRIPTION_HEADER]
-头上厚厚的石像能为他抵挡大量伤害
+[ZOMBIE_NEW_PVP_ROMAN_ARMOR4_DESCRIPTION_ HEADER]
+Die dicke Steinstatue auf seinem Kopf schützt ihn vor großem Schaden.
 
 [ZOMBIE_NEW_PVP_DARK_IMP_DRAGON]
-恶龙小鬼僵尸
+Drachen-Kobold-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_IMP_DRAGON_DESCRIPTION_HEADER]
-免疫多数火系伤害
+Immun gegen die meisten Feuerschäden.
 
 [ZOMBIE_NEW_PVP_HEIAN_HANABI]
-花火僵尸
+Feuerwerk Zombie
 
 [ZOMBIE_NEW_PVP_HEIAN_HANABI_DESCRIPTION_HEADER]
-每间隔一段时间，向周围3x3范围释放火焰
+Gibt in Intervallen Feuer auf den umgebenden 3x3-Bereich ab.
 
 [ZOMBIE_NEW_PVP_KONGFU_GONG]
-功夫铜锣僵尸
+Kung-Fu-Gong-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_GONG_DESCRIPTION_HEADER]
-每间隔一段时间，在自身左侧1格内召唤两只自爆僵尸
+Beschwört in Intervallen zwei selbstexplosive Zombies innerhalb eines Feldes links von sich.
 
 [ZOMBIE_NEW_PVP_DARK_CAVALRY]
-骑兵僵尸
+Kavallerie-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_CAVALRY_DESCRIPTION_HEADER]
-骑兵僵尸出场后发起冲刺，击败遭遇的第一颗植物后翻身落马
+Kavallerie-Zombie stürmt nach seinem Erscheinen los, besiegt die erste Pflanze, die er trifft, und fällt dann vom Pferd.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_BUG]
-失落昆虫僵尸
+Verlorener Insekten-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCITY_BUG_DESCRIPTION_HEADER]
-失落昆虫僵尸从空中跨过地面的防御和障碍。
+Verlorener Insekten-Zombie springt aus der Luft über Bodenverteidigungen und Hindernisse.
 
 [ZOMBIE_NEW_PVP_PIRATE_CAPTAIN]
-海盗船长僵尸
+Piratenkapitän-Zombie
 
 [ZOMBIE_NEW_PVP_PIRATE_CAPTAIN_DESCRIPTION_HEADER]
-他的鹦鹉会叼走你的植物，然后飞回主人身边。
+Sein Papagei nimmt deine Pflanzen und fliegt zu seinem Besitzer zurück.
 
 [ZOMBIE_NEW_PVP_KONGFU_HAMMER]
-锤子僵尸
+Hammer-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_HAMMER_DESCRIPTION_HEADER]
-能发出锤子旋风，反弹直线而来的豌豆子弹（注：无法反弹投掷类子弹）。
+Kann einen Hammerwirbel ausstoßen, um geradlinig fliegende Erbsengeschosse abzuwehren (Hinweis: Wurfgeschosse können nicht abgewehrt werden).
 
 [ZOMBIE_NEW_PVP_LOSTCITY_DOCTOR]
-失落医生僵尸
+Verlorener Doktor-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
-每间隔一段时间，扔出针头使植物的攻击速度降低
+Wirft gelegentlich Nadeln, um die Angriffsgeschwindigkeit von Pflanzen zu verringern.
 
 [ZOMBIE_NEW_PVP_KONGFU_QIGONG]
-功夫气功僵尸
+Kung-Fu-Qigong-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_QIGONG_DESCRIPTION_HEADER]
-发动气功，吸收前方一横排的植物（除非有白萝卜的阻挡）。
+Aktiviere Qigong, um die Pflanzen in der horizontalen Reihe davor zu absorbieren (sofern sie nicht durch weißen Rettich blockiert werden).
 
 [ZOMBIE_NEW_PVP_DARK]
-农夫僵尸
+Bauernzombie
 
 [ZOMBIE_NEW_PVP_DARK_DESCRIPTION_HEADER]
-平平无奇，但很便宜。
+Nichts Besonderes, aber günstig.
 
 [ZOMBIE_NEW_PVP_TOMB_RAISER]
-死神僵尸
+Todeszombie
 
 [ZOMBIE_NEW_PVP_TOMB_RAISER_DESCRIPTION_HEADER]
-每走2格都会向前方1格丢出骨头形成墓碑。
+Alle zwei Felder, die er sich bewegt, wirft er Knochen ein Feld weiter, um einen Grabstein zu formen.
 
 [ZOMBIE_NEW_PVP_BARRELROLLER]
-滚桶僵尸
+Fassroller-Zombie
 
 [ZOMBIE_NEW_PVP_BARRELROLLER_DESCRIPTION_HEADER]
-推动木桶碾压植物，桶内空无一物。
+Schiebt das Fass an, um die Pflanzen zu zerquetschen, sodass nichts darin zurückbleibt.
 
 [ZOMBIE_NEW_PVP_PROSPECTOR]
-淘金僵尸
+Goldgräber-Zombie
 
 [ZOMBIE_NEW_PVP_PROSPECTOR_DESCRIPTION_HEADER]
-跳到最后排后向右走。
+Gehe nach rechts, nachdem du zur letzten Reihe gesprungen bist.
 
 [ZOMBIE_NEW_PVP_EIGHTIES_BREAKDANCER]
-霹雳舞僵尸
+Breakdance-Zombie
 
 [ZOMBIE_NEW_PVP_EIGHTIES_BREAKDANCER_DESCRIPTION_HEADER]
-快速移动，把僵尸往左推。
+Bewege dich schnell und schubse den Zombie nach links.
 
 [NEW_PVP_COMBAT_UI_ROUND_COUNTER]
-第{COUNTER}回合
+Runde {COUNTER}
 
 [NEW_PVP_SEEDPACKET_LOCKED_DES]
-第{NUMBER}回合解锁
+Freigeschaltet in Runde {NUMBER}
 
 [NEW_PVP_AREA_NONE_NAME]
-基础地形主题
+Grundlegendes Geländedesign
 
 [NEW_PVP_AREA_NONE_DESCRIPTION]
-场地上没有额外地形机制
+Keine zusätzlichen Geländemechaniken auf dem Spielfeld
 
 [NEW_PVP_AREA_SLIDER_NAME]
-浮板地形主题
+Schwimmende Platten
 
 [NEW_PVP_AREA_SLIDER_DESCRIPTION]
-场地上会出现数个浮板。踩到浮板的僵尸会按浮板标识的方向换行。
+Es erscheinen mehrere schwebende Platten auf dem Spielfeld. Zombies, die auf die schwebenden Platten treten, wechseln ihre Reihen in die von den schwebenden Platten markierte Richtung.
 
 [NEW_PVP_AREA_MIST_NAME]
-迷雾地形主题
+Nebel-Gelände-Design
 
 [NEW_PVP_AREA_MIST_DESCRIPTION]
-场地上会出现覆盖数列的迷雾。迷雾会遮挡视线，掩盖僵尸的具体位置。
+Nebel erscheint auf dem Feld und bedeckt mehrere Reihen. Der Nebel blockiert die Sicht und verbirgt die genaue Position der Zombies.
 
 [NEW_PVP_AREA_GUIDE_DOOR_NAME]
-地道地形主题
+Tunnel-Gelände-Design
 
 [NEW_PVP_AREA_GUIDE_DOOR_DESCRIPTION]
-场地上有会出现数对地道。当僵尸走入地道，将直接从另一头出现。
+Es gibt mehrere Tunnelpaare auf dem Feld. Betritt ein Zombie einen Tunnel, erscheint er direkt auf der anderen Seite.
 
 [NEW_PVP_AREA_MERGE_NAME]
-融合主题
+Fusions-Design
 
 [NEW_PVP_AREA_MERGE_DESCRIPTION]
-当场地内出现3个或以上同类型僵尸时，将在短暂准备时间后触发融合效果，多个僵尸融合成一个大僵尸。融合后的僵尸变大、血量和攻击力继承融合前的僵尸、视作精英僵尸免疫控制效果。
+Wenn drei oder mehr Zombies desselben Typs auf dem Feld erscheinen, wird nach kurzer Vorbereitungszeit der Fusionseffekt ausgelöst, und mehrere Zombies verschmelzen zu einem großen Zombie. Der fusionierte Zombie wird größer und seine Gesundheit und Angriffskraft übernehmen die des Zombies vor der Fusion. Er gilt als Elite-Zombie und ist immun gegen Kontrolleffekte.
 
 [NETWORK_NOT_CONNECTED_TEXT_PVP_POST]
-PVP请求出错。
+PVP-Anfragefehler.
 
 [NETWORK_NOT_CONNECTED_TEXT_PVP_SYNC]
-PVP同步出错。
+PVP-Synchronisierungsfehler.
 
 [NEW_PVP_PLANT_UPGRADE_DES_LEVEL_2]
-二阶：
+Stufe 2:
 
 [NEW_PVP_PLANT_UPGRADE_DES_LEVEL_3]
-三阶：
+Stufe 3:
 
 [NEW_PVP_PLANT_UPGRADE_DES_LEVEL_4]
-四阶：
+Stufe 4:
 
 [NEW_PVP_PLANT_UPGRADE_DES_LEVEL_5]
-五阶：
+Stufe 5:
 
 [RUNDE]
 Runde
@@ -66753,597 +66759,601 @@ Großmeistertopf
 Ⅹ
 
 [NEW_PVP_DUAN_RANDOM_1]
-随机紫色挂件碎片
+Zufällige lila Anhängerfragmente
 
 [NEW_PVP_DUAN_RANDOM_2]
-随机橙色挂件碎片
+Zufällige orange Anhängerfragmente
 
 [NEW_PVP_TASK]
-任务
+Aufgabe
 
 [NEW_PVP_TASK1]
-激活
+Aktivierung
 
 [NEW_PVP_TASK_TAB1]
-任务挑战
+Aufgabenherausforderung
 
 [NEW_PVP_TASK_TAB2]
-任务等级
+Aufgabenlevel
 
 [NEW_PVP_TASK_TAB3]
-幸运转盘
+Glücksrad
 
-[NEW_PVP_TASK_INTERGAL]
-对决币
+[NEW_PVP_T ASK_INTERGAL]
+Duellmünzen
 
 [NEW_PVP_TASK_INTERGAL_TIPS]
-当前拥有{NUM}对决币
+Verfügt aktuell über {NUM} Duellmünzen
 
 [NEW_PVP_TASK_DESCRIPTION_TITLE]
-任务活动说明
+Beschreibung der Aufgabenaktivität
 
 [NEW_PVP_TASK_DESCRIPTION]
-活动规则:
+Aktivität Regeln:
 
 [NEW_PVP_TASK_DESCRIPTION_29]
-1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
-2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
-3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
-4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
-5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
-7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
-金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+1. Spieler sammeln Erfahrung durch das Abschließen täglicher Herausforderungen und Aufgaben in vier wöchentlichen Herausforderungen. Mit jeweils 1.000 gesammelten Erfahrungspunkten können Spieler auf das nächste Level aufsteigen und die entsprechende Levelbelohnung erhalten.
+2. Die Obergrenze für tägliche Aufgabenplätze liegt bei drei, und täglich werden drei neue Aufgaben hinzugefügt. Neue Aufgaben werden nur hinzugefügt, wenn freie Aufgabenplätze vorhanden sind. Tägliche Ergänzungen haben keinen Einfluss auf den Fortschritt bestehender Aufgaben.
+3. Die wöchentlichen Aufgaben der vier Wochen werden mit der Zeit freigeschaltet und können nach Freischaltung bis zum Ende der Saison abgeschlossen werden.
+4. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die Belohnungen für die ersten 50 Level beinhalten Duellmünzen. Nach Erreichen von Level 50 können Spieler weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Duellmünzen mehr vergeben. Duellmünzen sind nur in der aktuellen Saison verfügbar und können nicht in die nächste Saison übernommen werden.
+5. Nach der Aktivierung der erweiterten Rechte schaltest du die Qualifikation für Belohnungen auf höheren Leveln frei und erhältst 20 % mehr Erfahrung für tägliche und wöchentliche Aufgaben. Durch den Kauf erhältst du sofort 270 Duellmünzen und die Hauptpflanze der Saison.
+6. Mit Duellmünzen kannst du am Glücksrad teilnehmen und tolle Belohnungen gewinnen. Ab Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Glücksrads freispielen – insgesamt 20 Gegenstände.
+7. Es gibt nur eine Chance, alle Belohnungen des Glücksrads zu erhalten. Wenn eine Belohnung gezogen wird, wird ihre Wahrscheinlichkeit anderen, nicht erhaltenen Belohnungen zugewiesen. Wenn keine der 20 Belohnungen im Glücksrad gezogen wird, beträgt die Wahrscheinlichkeit für jede Belohnung:
+Goldmünzen 22,67 %, Diamanten 22,66 %, Anhänger 19,26 %, Grüne Pflanzen 11,33 %, Blaue Pflanzen 7,93 %, Lila Pflanzen 11,33 %, Orange Pflanzen 2,49 %, Super-Anhänger 2,04 %, Weinreben- & Ankleide-Multiple-Choice-Geschenkbox 0,23 %, Fortgeschrittenes Buch 0,06 %.
 
 [NEW_PVP_TASK_DESCRIPTION_30]
-1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
-2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
-3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
-4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
-5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
-7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
-金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+1. Spieler sammeln Erfahrung durch das Abschließen täglicher Herausforderungen und Aufgaben in 4 wöchentlichen Herausforderungen. Mit jeweils 1.000 gesammelten Erfahrungspunkten können Spieler das nächste Level erreichen und die entsprechende Levelbelohnung erhalten.
+2. Die Obergrenze für tägliche Aufgabenplätze beträgt 3, und täglich werden 3 neue Aufgaben hinzugefügt. Neue Aufgaben werden nur hinzugefügt, wenn freie Aufgabenplätze vorhanden sind. Tägliche Ergänzungen haben keinen Einfluss auf den Fortschritt bestehender Aufgaben.
+3. Die wöchentlichen Aufgaben der 4 Wochen werden mit der Zeit freigeschaltet und können nach Freischaltung bis zum Ende der Saison abgeschlossen werden.
+4. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die Belohnungen für die ersten 50 Level beinhalten Duellmünzen. Nach Erreichen von Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Duellmünzen mehr vergeben. Duellmünzen sind nur in der aktuellen Saison verfügbar und können nicht in die nächste Saison übernommen werden.
+5. Nach der Aktivierung der erweiterten Rechte schaltest du die Qualifikation für Belohnungen auf erweiterten Leveln frei, und die Erfahrung für tägliche und wöchentliche Aufgaben erhöht sich um 20 %. Durch Kauf kannst du sofort 270 Duellmünzen und die Hauptpflanze der Saison erhalten.
+6. Du kannst Duellmünzen verwenden, um am „Glücksrad“ teilzunehmen und tolle Belohnungen zu gewinnen. Wenn du Level 50 erreichst und erweiterte Rechte aktiviert hast, kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände).
+7. Es gibt nur eine Chance, alle Belohnungen des Schatzrads zu erhalten. Wenn eine Belohnung gezogen wird, wird ihre Wahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wenn keine der 20 Belohnungen des Rads gezogen wird, beträgt die Wahrscheinlichkeit für jede Belohnung:
+Goldmünzen 22,67 %, Diamanten 22,66 %, Anhänger 19,26 %, Grüne Pflanzen 11,33 %, Blaue Pflanzen 7,93 %, Lila Pflanzen 11,33 %, Orange Pflanzen 2,49 %, Super-Anhänger 2,04 %, Weinreben- & Verkleidungs-Multiple-Choice-Geschenkbox 0,23 %, Erweitertes Buch 0,06 %.
 
 [NEW_PVP_TASK_DESCRIPTION_31]
-1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
-2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
-3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
-4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
-5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
-7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
-金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+1. Spieler sammeln Erfahrung, indem sie tägliche Herausforderungen und Aufgaben in 4 wöchentlichen Herausforderungen abschließen. Alle 1.000 gesammelten Erfahrungspunkte können zum nächsten Level aufsteigen und die entsprechende Levelbelohnung erhalten.
+2. Die Obergrenze für tägliche Aufgabenplätze liegt bei 3, und täglich werden 3 neue Aufgaben hinzugefügt. Neue Aufgaben werden nur hinzugefügt, wenn freie Aufgabenplätze vorhanden sind. Tägliche Ergänzungen haben keinen Einfluss auf den Fortschritt bestehender Aufgaben.
+3. Die wöchentlichen Aufgaben der 4 Wochen werden mit der Zeit freigeschaltet und können bis zum Ende der Saison nach der Freischaltung abgeschlossen werden.
+4. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die Belohnungen für die ersten 50 Level beinhalten Duellmünzen. Nach Erreichen von Level 50 können Sie weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Duellmünzen produziert. Duellmünzen sind nur in der aktuellen Saison verfügbar und können nicht in die nächste Saison übernommen werden.
+5. Nach der Aktivierung der erweiterten Rechte schalten Sie die Qualifikation für Belohnungen auf erweiterten Leveln frei, und die tägliche und wöchentliche Aufgabenerfahrung erhöht sich um 20 %. Du erhältst sofort 270 Duellmünzen und die Hauptpflanze der Saison durch Kauf.
+6. Mit Duellmünzen kannst du am Glücksrad teilnehmen und tolle Belohnungen gewinnen. Ab Level 50 und mit aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Glücksrads freispielen – insgesamt 20 Gegenstände.
+7. Es gibt nur eine Chance, alle Belohnungen des Glücksrads zu erhalten. Wenn eine Belohnung gezogen wird, wird ihre Wahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wenn keine der 20 Belohnungen im Glücksrad gezogen wurde, beträgt die Wahrscheinlichkeit für jede Belohnung:
+Goldmünzen 22,67 %, Diamanten 22,66 %, Anhänger 19,26 %, Grüne Pflanzen 11,33 %, Blaue Pflanzen 7,93 %, Lila Pflanzen 11,33 %, Orange Pflanzen 2,49 %, Super-Anhänger 2,04 %, Weinreben- & Ankleide-Multiple-Choice-Geschenkbox 0,23 %, Fortgeschrittenes Buch 0,06 %.
 
 [NEW_PVP_TASK_DESCRIPTION_32]
-1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
-2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
-3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
-4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
-5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
-7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
-金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+1. Spieler sammeln Erfahrung durch das Abschließen täglicher Herausforderungen und Aufgaben in 4 wöchentlichen Herausforderungen. Mit jeweils 1.000 gesammelten Erfahrungspunkten können Spieler das nächste Level erreichen und die entsprechende Levelbelohnung erhalten.
+2. Die Obergrenze für tägliche Aufgabenplätze beträgt 3, und täglich werden 3 neue Aufgaben hinzugefügt. Neue Aufgaben werden nur hinzugefügt, wenn freie Aufgabenplätze vorhanden sind. Tägliche Ergänzungen haben keinen Einfluss auf den Fortschritt bestehender Aufgaben.
+3. Die wöchentlichen Aufgaben der 4 Wochen werden mit der Zeit freigeschaltet und können nach Freischaltung bis zum Ende der Saison abgeschlossen werden.
+4. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die Belohnungen für die ersten 50 Level beinhalten Duellmünzen. Nach Erreichen von Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Duellmünzen mehr vergeben. Duellmünzen sind nur in der aktuellen Saison verfügbar und können nicht in die nächste Saison übernommen werden.
+5. Nach der Aktivierung der erweiterten Rechte schaltest du die Qualifikation für Belohnungen auf erweiterten Leveln frei, und die Erfahrung für tägliche und wöchentliche Aufgaben erhöht sich um 20 %. Durch Kauf kannst du sofort 270 Duellmünzen und die Hauptpflanze der Saison erhalten.
+6. Du kannst Duellmünzen verwenden, um am „Glücksrad“ teilzunehmen und tolle Belohnungen zu gewinnen. Wenn du Level 50 erreichst und erweiterte Rechte aktiviert hast, kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände).
+7. Es gibt nur eine Chance, alle Belohnungen des Schatzrads zu erhalten. Wenn eine Belohnung gezogen wird, wird ihre Wahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wenn keine der 20 Belohnungen des Rads gezogen wird, beträgt die Wahrscheinlichkeit für jede Belohnung:
+Goldmünzen 22,67 %, Diamanten 22,66 %, Anhänger 19,26 %, Grüne Pflanzen 11,33 %, Blaue Pflanzen 7,93 %, Lila Pflanzen 11,33 %, Orange Pflanzen 2,49 %, Super-Anhänger 2,04 %, Weinreben- & Verkleidungs-Multiple-Choice-Geschenkbox 0,23 %, Erweitertes Buch 0,06 %.
 
 [NEW_PVP_TASK_DESCRIPTION_26]
-1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
-2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
-3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
-4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
-5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
-7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
-金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+1. Spieler sammeln Erfahrung, indem sie tägliche Herausforderungen und Aufgaben in 4 wöchentlichen Herausforderungen abschließen. Alle 1.000 gesammelten Erfahrungspunkte können zum nächsten Level aufsteigen und die entsprechende Levelbelohnung erhalten.
+2. Die Obergrenze für tägliche Aufgabenplätze liegt bei 3, und täglich werden 3 neue Aufgaben hinzugefügt. Neue Aufgaben werden nur hinzugefügt, wenn freie Aufgabenplätze vorhanden sind. Tägliche Ergänzungen haben keinen Einfluss auf den Fortschritt bestehender Aufgaben.
+3. Die wöchentlichen Aufgaben der 4 Wochen werden mit der Zeit freigeschaltet und können bis zum Ende der Saison nach der Freischaltung abgeschlossen werden.
+4. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die Belohnungen für die ersten 50 Level beinhalten Duellmünzen. Nach Erreichen von Level 50 können Sie weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Duellmünzen produziert. Duellmünzen sind nur in der aktuellen Saison verfügbar und können nicht in die nächste Saison übernommen werden.
+5. Nach der Aktivierung der erweiterten Rechte schalten Sie die Qualifikation für Belohnungen auf erweiterten Leveln frei, und die tägliche und wöchentliche Aufgabenerfahrung erhöht sich um 20 %. Du erhältst sofort 270 Duellmünzen und die Hauptpflanze der Saison durch Kauf.
+6. Mit Duellmünzen kannst du am Glücksrad teilnehmen und tolle Belohnungen gewinnen. Ab Level 50 und mit aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Glücksrads freispielen – insgesamt 20 Gegenstände.
+7. Es gibt nur eine Chance, alle Belohnungen des Glücksrads zu erhalten. Wenn eine Belohnung gezogen wird, wird ihre Wahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wenn keine der 20 Belohnungen im Glücksrad gezogen wird, beträgt die Wahrscheinlichkeit für jede Belohnung:
+Goldmünzen 22,67 %, Diamanten 22,66 %, Anhänger 19,26 %, Grüne Pflanzen 11,33 %, Blaue Pflanzen 7,93 %, Lila Pflanzen 11,33 %, Orange Pflanzen 2,49 %, Super-Anhänger 2,04 %, Weinreben- & Ankleide-Multiple-Choice-Geschenkbox 0,23 %, Fortgeschrittenes Buch 0,06 %.
 
 [NEW_PVP_TASK_DESCRIPTION_27]
-1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
-2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
-3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
-4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
-5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
-7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
-金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+1. Spieler sammeln Erfahrung durch das Abschließen täglicher Herausforderungen und Aufgaben in 4 wöchentlichen Herausforderungen. Mit jeweils 1.000 gesammelten Erfahrungspunkten können Spieler das nächste Level erreichen und die entsprechende Levelbelohnung erhalten.
+2. Die Obergrenze für tägliche Aufgabenplätze beträgt 3, und täglich werden 3 neue Aufgaben hinzugefügt. Neue Aufgaben werden nur hinzugefügt, wenn freie Aufgabenplätze vorhanden sind. Tägliche Ergänzungen haben keinen Einfluss auf den Fortschritt bestehender Aufgaben.
+3. Die wöchentlichen Aufgaben der 4 Wochen werden mit der Zeit freigeschaltet und können nach Freischaltung bis zum Ende der Saison abgeschlossen werden.
+4. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die Belohnungen für die ersten 50 Level beinhalten Duellmünzen. Nach Erreichen von Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Duellmünzen mehr vergeben. Duellmünzen sind nur in der aktuellen Saison verfügbar und können nicht in die nächste Saison übernommen werden.
+5. Nach der Aktivierung der erweiterten Rechte schaltest du die Qualifikation für Belohnungen auf erweiterten Leveln frei, und die Erfahrung für tägliche und wöchentliche Aufgaben erhöht sich um 20 %. Durch Kauf kannst du sofort 270 Duellmünzen und die Hauptpflanze der Saison erhalten.
+6. Du kannst Duellmünzen verwenden, um am „Glücksrad“ teilzunehmen und tolle Belohnungen zu gewinnen. Wenn du Level 50 erreichst und erweiterte Rechte aktiviert hast, kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände).
+7. Es gibt nur eine Chance, alle Belohnungen des Schatzrads zu erhalten. Wenn eine Belohnung gezogen wird, wird ihre Wahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wenn keine der 20 Belohnungen des Rads gezogen wird, beträgt die Wahrscheinlichkeit für jede Belohnung:
+Goldmünzen 22,67 %, Diamanten 22,66 %, Anhänger 19,26 %, Grüne Pflanzen 11,33 %, Blaue Pflanzen 7,93 %, Lila Pflanzen 11,33 %, Orange Pflanzen 2,49 %, Super-Anhänger 2,04 %, Weinreben- & Verkleidungs-Multiple-Choice-Geschenkbox 0,23 %, Erweitertes Buch 0,06 %.
 
 [NEW_PVP_TASK_DESCRIPTION_28]
-1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
-2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
-3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
-4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
-5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
-7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
-金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+1. Spieler sammeln Erfahrung, indem sie tägliche Herausforderungen und Aufgaben in 4 wöchentlichen Herausforderungen abschließen. Alle 1.000 gesammelten Erfahrungspunkte können zum nächsten Level aufsteigen und die entsprechende Levelbelohnung erhalten.
+2. Die Obergrenze für tägliche Aufgabenplätze liegt bei 3, und täglich werden 3 neue Aufgaben hinzugefügt. Neue Aufgaben werden nur hinzugefügt, wenn freie Aufgabenplätze vorhanden sind. Tägliche Ergänzungen haben keinen Einfluss auf den Fortschritt bestehender Aufgaben.
+3. Die wöchentlichen Aufgaben der 4 Wochen werden mit der Zeit freigeschaltet und können nach der Freischaltung bis zum Ende der Saison abgeschlossen werden.
+4. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die Belohnungen für die ersten 50 Level beinhalten Duellmünzen. Nach Erreichen von Level 50 können Sie weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Duellmünzen produziert. Duellmünzen sind nur in der aktuellen Saison verfügbar und können nicht in die nächste Saison übernommen werden.
+5. Nach der Aktivierung der erweiterten Rechte schalten Sie die Qualifikation für Belohnungen auf erweiterten Leveln frei, und die tägliche und wöchentliche Aufgabenerfahrung erhöht sich um 20 %. Du erhältst sofort 270 Duellmünzen und die Hauptpflanze der Saison durch Kauf.
+6. Mit Duellmünzen kannst du am Glücksrad teilnehmen und tolle Belohnungen gewinnen. Ab Level 50 und mit aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Glücksrads freispielen – insgesamt 20 Gegenstände.
+7. Es gibt nur eine Chance, alle Belohnungen des Glücksrads zu erhalten. Wenn eine Belohnung gezogen wird, wird ihre Wahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wenn keiner der 20 Preise auf dem Drehteller gezogen wird, beträgt die Gewinnwahrscheinlichkeit für jeden Preis:
+Goldmünzen 22,67 %, Diamanten 22,66 %, Anhänger 19,26 %, grüne Pflanzen 11,33 %, blaue Pflanzen 7,93 %, violette Pflanzen 11,33 %, orange Pflanzen 2,49 %, Superanhänger 2,04 %, Geschenkboxen mit Ranken und Verkleidungsaufgaben (Multiple-Choice) 0,23 %, weiterführende Bücher 0,06 %.
 
 [SELF_SELECT_AVATAR_CHIPS]
-装扮碎片三选一
+Wähle eines von drei Kostümfragmenten.
 
 [NEW_PVP_TASK_NAME_1_1]
-参与2场对战
+Nimm an 2 Schlachten teil.
 
 [NEW_PVP_TASK_NAME_1_2]
-赢得1场比赛
+Gewinne 1 Spiel.
 
 [NEW_PVP_TASK_NAME_1_3]
-消耗10000点阳光
+Verwende 10.000 Sonnenlichtpunkte.
 
 [NEW_PVP_TASK_NAME_1_4]
-种植30棵植物
+Pflanze 30 Pflanzen.
 
 [NEW_PVP_TASK_NAME_1_5]
-部署50只僵尸
+Setze 50 Zombies ein.
 
 [NEW_PVP_TASK_NAME_1_6]
-消灭80只僵尸
+Töte 80 Zombies.
 
 [NEW_PVP_TASK_NAME_1_7]
-升级8次向日葵等级
+Verbessere die Sonnenblume 8-mal.
 
 [NEW_PVP_TASK_NAME_1_8]
-对敌方基地造成20点伤害
+Füge dem Gegner 20 Schaden zu. Basis
 
 [NEW_PVP_TASK_NAME_1_9]
-种植8棵5阶植物
+Pflanze 8 Pflanzen der Stufe 5
 
 [NEW_PVP_TASK_NAME_1_10]
-种植10棵3阶植物
+Pflanze 10 Pflanzen der Stufe 3
 
 [NEW_PVP_TASK_NAME_1_11]
-种植12棵1阶植物
+Pflanze 12 Pflanzen der Stufe 1
 
 [NEW_PVP_TASK_NAME_1_12]
-部署3只巨人僵尸
+Setze 3 Riesenzombies ein.
 
 [NEW_PVP_TASK_NAME_1_13]
-部署15只加速状态的僵尸
+Setze 15 Zombies im beschleunigten Zustand ein.
 
 [NEW_PVP_TASK_NAME_1_14]
-部署10只加血状态的僵尸
+Setze 10 Zombies im bluterneuernden Zustand ein.
 
 [NEW_PVP_TASK_NAME_1_15]
-部署5只免控状态的僵尸
+Setze 5 Zombies im kontrolllosen Zustand ein.
 
 [NEW_PVP_TASK_NAME_2_1]
-8回合内赢得3场胜利
+Gewinne 3 Spiele innerhalb von 8 Runden.
 
 [NEW_PVP_TASK_NAME_2_2]
-单局部署10只强化状态下的僵尸
+Setze 10 Zombies im verstärkten Zustand in einem einzigen Spiel ein.
 
 [NEW_PVP_TASK_NAME_2_3]
-种植125棵植物
+Pflanze 125 Pflanzen.
 
 [NEW_PVP_TASK_NAME_2_4]
-对敌方基地造成100点伤害
+Füge dem Gegner 100 Schaden zu. Basis
 
 [NEW_PVP_TASK_NAME_2_5]
-部署15只巨人僵尸
+Setze 15 Riesenzombies ein.
 
 [NEW_PVP_TASK_NAME_2_6]
-满血的情况下赢得2场胜利
+Gewinne 2 Spiele mit voller Gesundheit.
 
 [NEW_PVP_TASK_NAME_2_7]
-参与10场对战
+Nimm an 10 Schlachten teil.
 
 [NEW_PVP_TASK_NAME_2_8]
-部署250只僵尸
+Setze 250 Zombies ein.
 
 [NEW_PVP_TASK_NAME_2_9]
-种植40棵5阶植物
+Pflanze 40 Pflanzen der Stufe 5.
 
-[NEW_PVP_TASK_NAME_2_10]
-部署75只加速状态的僵尸
+[NEW_ PVP_TASK_NAME_2_10]
+Setze 75 beschleunigte Zombies ein.
 
 [NEW_PVP_TASK_NAME_2_11]
-首先对敌方基地造成伤害20场
+Verursache zunächst 20-mal Schaden an der gegnerischen Basis.
 
 [NEW_PVP_TASK_NAME_2_12]
-赢得5场比赛
+Gewinne 5 Spiele
 
 [NEW_PVP_TASK_NAME_2_13]
-消灭400只僵尸
+Zerstöre 400 Zombies
 
 [NEW_PVP_TASK_NAME_2_14]
-种植50棵3阶植物
+Pflanze 50 Pflanzen der Stufe 3
 
 [NEW_PVP_TASK_NAME_2_15]
-部署50只加血状态的僵尸
+Setze 50 Zombies im bluterneuernden Zustand ein
 
 [NEW_PVP_TASK_NAME_2_16]
-单局部署30只僵尸
+Setze 30 Zombies in einem einzigen Spiel ein
 
 [NEW_PVP_TASK_NAME_2_17]
-消耗40000点阳光
+Verbrauche 40.000 Sonnenlichtpunkte
 
 [NEW_PVP_TASK_NAME_2_18]
-升级40次向日葵等级
+Verbessere das Level der Sonnenblumen 40-mal
 
 [NEW_PVP_TASK_NAME_2_19]
-种植50棵1阶植物
+Pflanze 50 Pflanzen der Stufe 1
 
 [NEW_PVP_TASK_NAME_2_20]
-部署25只免控状态的僵尸
+Setze 25 Zombies im kontrolllosen Zustand
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_0]
-装扮碎片三选一
+Wähle eines von drei Kostümfragmenten
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_1]
-南瓜头植物装扮二选一礼包
+Kürbiskopf-Pflanzenkleid, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_2]
-电能藤蔓植物装扮二选一礼包
+Elektrisches Rankenpflanzenkleid, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_3]
-豌豆藤蔓植物装扮二选一礼包
+Erbsenrankenpflanzenkleid, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_4]
-闪耀藤蔓植物装扮二选一礼包
+Glänzendes Rankenpflanzenkleid, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_5]
-柴堆藤蔓植物装扮二选一礼包
+Stapelrankenpflanzenkleid, Geschenkpaket (2er-Auswahl) Paket
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_6]
-藤蔓&装扮多选一自选礼盒
+Geschenkpaket „Pyre Vine Plant Dress“ (Zweierauswahl)
+
+[NEW_PVP_BATTLE_PASS_REWARD_BOX_6]
+Geschenkbox „Ranke & Kostüm“ (Mehrfachauswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_7]
-藤蔓&装扮多选一自选礼盒
-
+Geschenkbox „Ranke & Kostüm“ (Mehrfachauswahl)
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_6]
-购买经验礼包
+Erfahrungs-Geschenkpaket kaufen
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_6_SHORTDESC]
-经验礼包
+Erfahrungs-Geschenkpaket
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_8]
-购买初级等级礼包
+Geschenkpaket „Grundstufe“ kaufen
 
-[PRODUCT_NEW_PVP_BATTLE_PASS_8_SHORTDESC]
-初级等级礼包
+[PRODUCT_NEW_PVP_BATTLE_PASS_8_SHORTDES C]
+Geschenkpaket „Grundstufe“
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_18]
-购买中级等级礼包
+Mittelstufe kaufen Geschenkpaket
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_18_SHORTDESC]
-中级等级礼包
+Geschenkpaket für mittleres Level
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_45]
-购买高级等级礼包
+Geschenkpaket für fortgeschrittenes Level kaufen
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_45_SHORTDESC]
-高级等级礼包
+Geschenkpaket für fortgeschrittenes Level
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_78]
-购买超级等级礼包
+Geschenkpaket für Superlevel kaufen
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_78_SHORTDESC]
-超级等级礼包
+Geschenkpaket für Superlevel
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_68]
-激活高级权益
+Premium-Vorteile aktivieren
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_68_SHORTDESC]
-高级权益
+Premium-Vorteile
 
 [NEW_PVP_BATTLE_PASS_SELECT_TITLE]
-奖励组合多选一
+Mehrere Belohnungen auswählen Kombinationen
 
 [NEW_PVP_BATTLE_PASS_SELECT_DESCRIPTION]
-从下列碎片奖励中选择一份吧！
+Wähle eine der folgenden Splitterbelohnungen!
 
 [NEW_PVP_BATTLE_PASS_SELECT_CONFIRM]
-确认选择这份奖励么
-
+Möchtest du diese Belohnung wirklich wählen?
 
 [NEW_PVP_SHOP]
-双人对决商店
+Doppelduell-Shop
 
 [NEW_PVP_SHOP_INFO_TITLE]
-双人对决商店规则
+Regeln für den Doppelduell-Shop
 
 [NEW_PVP_SHOP_INFO_DETAIL]
-1、商店物品每日00:00刷新，重置物品限购次数
-2、紫晶币可以通过每日宝箱和每周宝箱获得，在商店兑换各种物品
-3、赛季传说宝箱和赛季普通宝箱通常会包含赛季新推出的僵尸，常规传说宝箱会包含所有推出的僵尸
-4、赛季传说宝箱和常规传说宝箱的奖励为奖池中随机单个普通僵尸的310张卡片、单个稀有僵尸的100张卡片、单个传说僵尸的5张卡片、10个紫晶币
-5、赛季普通宝箱奖励为奖池中随机单个普通僵尸的50张卡片、单个稀有僵尸的15张卡片、3个紫晶币、60颗钻石
+1. Die Shop-Artikel werden täglich um 0:00 Uhr aktualisiert und das Kauflimit zurückgesetzt.
+2. Amethystmünzen können durch tägliche und wöchentliche Schatztruhen erhalten und im Shop gegen verschiedene Gegenstände eingetauscht werden.
+3. Saisonale Legenden-Schatztruhen und normale Saison-Schatztruhen enthalten in der Regel neue Zombies, die in der Saison veröffentlicht wurden. Normale Legenden-Schatztruhen enthalten alle veröffentlichten Zombies.
+4. Die Belohnungen der saisonalen Legenden-Schatztruhen und normalen Legenden-Schatztruhen sind 310 Karten eines zufälligen gewöhnlichen Zombies im Preispool, 100 Karten eines seltenen Zombies und einer legendären Zombie-Karte sowie 10 Amethystmünzen.
+5. Die Belohnungen der normalen Schatztruhe in der Saison sind 50 Karten von Ein zufälliger gewöhnlicher Zombie im Preispool, 15 Karten eines seltenen Zombies, 3 Amethystmünzen und 60 Diamanten
 
 [NEW_PVP_SHOP_RESET_TIMER]
-商店重置倒计时
+Countdown zum Zurücksetzen des Shops
 
 [NEW_PVP_SHOP_ITEM_LOCK_DESCRIPTION]
-未解锁
+Freigeschaltet
 
 [NEW_PVP_SHOP_ITEM_BUY_LIMIT]
-^ffff00^限购次数：^oldclr^{NUM1}/{NUM2}
+^ffff00^ Kauflimit: ^oldclr^{NUM1}/{NUM2}
 
 [NEW_PVP_SHOP_BUY_CONFIRM]
-是否花费 {NUMS} 紫晶币购买？
+Möchtest du {NUMS} Amethystmünzen ausgeben, um zu kaufen?
 
 [NEW_PVP_SHOP_RECHARGE_CONFIRM]
-是否花费 {NUMS} 购买？
+Möchtest du {NUMS} ausgeben, um zu kaufen?
 
 [NEW_PVP_DAILY_CHEST_CHEST_OPEN]
-开启
+Öffnen
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_1]
-随机传说品质僵尸卡片
+Zufällige legendäre Zombiekarte
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_2]
-随机稀有品质僵尸卡片
+Zufällige seltene Zombiekarte
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_3]
-随机普通品质僵尸卡片
+Zufällige gewöhnliche Zombiekarte
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_4]
-紫晶币
+Amethystmünze
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_5]
-钻石
+Diamant
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN]
-紫晶币
+Amethystmünze
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_NOT_ENOUGH]
-紫晶币不足
+Nicht genügend Amethyst Münzen
 
-[MAT_NEW_PVP_PURPLE_GOLD_COIN_USE]
-在双人对决商店中兑换商品
+[MAT_NEW_PVP_PURPLE_GOLD_COIN_U SE]
+Im Duell-Shop gegen Gegenstände eintauschen
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_GOT_WAY]
-开启双人对决中的宝箱获得
+Öffne die Schatztruhe im Duell, um Folgendes zu erhalten:
 
 [PRODUCT_NEW_PVP_CHEST_3]
-赛季普通宝箱
+Saisonale gewöhnliche Schatztruhe
 
 [PRODUCT_NEW_PVP_CHEST_3_SHORTDESC]
-赛季普通宝箱
+Saisonale gewöhnliche Schatztruhe
 
 [PRODUCT_NEW_PVP_CHEST_4]
-赛季传说宝箱
+Saisonale legendäre Schatztruhe
 
 [PRODUCT_NEW_PVP_CHEST_4_SHORTDESC]
-赛季传说宝箱
+Saisonale legendäre Truhe
 
 [PRODUCT_NEW_PVP_CHEST_5]
-常规传说宝箱
+Normale legendäre Truhe
 
 [PRODUCT_NEW_PVP_CHEST_5_SHORTDESC]
-常规传说宝箱
+Normale legendäre Truhe
 
 [NEW_PVP_ZOMBIE_CARD]
-卡片
+Karte
 
 [NEW_PVP_UPGRADE_TIP_0]
-之后的僵尸增加50%速度。
+Zombies sind danach 50 % schneller.
 
 [NEW_PVP_UPGRADE_TIP_1]
-之后的僵尸增加100%血量。
+Zombies haben danach 100 % mehr Gesundheit.
 
 [NEW_PVP_UPGRADE_TIP_2]
-之后的僵尸免疫控制。
+Zombies sind danach immun gegen Kontrolle.
 
 [NEW_PVP_MAIN_VIEW_LEISURE_MODE_BTN]
-休闲匹配
+Gelegenheits-Matching
 
 [NEW_PVP_MAIN_VIEW_COMPETITIVE_MODE_BTN]
-竞技匹配
+Wettkampf-Matching
 
 [NEW_PVP_MAIN_VIEW_START_MATCHING]
-开始匹配
+Matching starten
 
 [NEW_PVP_MAIN_VIEW_CANCEL_MATCHING]
-取消匹配
+Matching abbrechen
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM]
-创建房间
+Raum erstellen
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM_TITLE]
-创建与加入
+Erstellen und beitreten
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_JOIN_ROOM]
-加入房间
+Raum betreten
 
 [NEW_PVP_FREE_TO_PLAY_AREA_CONFIRM]
-确定
+Bestätigen
 
 [NEW_PVP_FREE_TO_PLAY_AREA_TITLE]
-世界选择
+Weltauswahl
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_TITLE_HOST]
-房主
+Host
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_TITLE_GUEST]
-访客
+Gast
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE]
-你的编队^oldclr ^00FF00 准备中 ^oldclr
+Dein Team ^oldclr ^00FF00 ist bereit ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY]
-你的编队^oldclr ^00FF00 已准备 ^oldclr
+Dein Team ^oldclr ^00FF00 ist bereit ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]
-^oldclr ^00FF00 等待进入 ^oldclr
+^oldclr ^00FF00 Warte auf den Eintritt in ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_OPPONENT]
-访客^oldclr ^00FF00 准备中 ^oldclr
+Gast ^oldclr ^00FF00 Vorbereitung ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_OPPONENT]
-访客^oldclr ^00FF00 已准备 ^oldclr
+Gast ^oldclr ^00FF00 Bereit ^oldclr
 
-[NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_HOST]
-房主^oldclr ^00FF00 准备中 ^oldclr
+[NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_OPPONENT]
+Gast ^oldclr ^00FF00 Bereit ^oldclr
+
+[NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_OPPONENT]
+Gast ^oldclr ^00FF00 Bereit ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_HOST]
-房主^oldclr ^00FF00 已准备 ^oldclr
+Host ^oldclr ^00FF00 Bereit ^oldclr
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_KICK_BTN]
-请出
+Bitte beenden
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_ROOM_NUMBER]
-房间码: {NUMBER}
+Raumcode: {NUMBER}
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_COPY]
-复制
+Kopieren
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_READY]
-准备完毕
+Bereit
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_IS_READY]
-已准备
+Bereit
 
 [NEW_PVP_FREE_TO_PLAY_PLANT_EDIT_CONFIRM]
-保存阵容
+Aufstellung speichern
 
-[NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]
-加入房间
+[NEW_ PVP_FREE_TO_PLAY_JOIN_CONFIRM]
+Treten Sie bei Raum
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_TITLE]
-请输入房间码
+Bitte geben Sie den Raumcode ein.
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT]
-已找到对手
+Gegner gefunden
 
 [NEW_PVP_MAIN_VIEW_MATCHING_RESULT]
-匹配失败
+Matching fehlgeschlagen
 
 [NEW_PVP_MAIN_VIEW_MATCHING_RESULT_TEXT_1]
-上局游戏未正常结束，请等待系统结算后重现匹配。
+Das letzte Spiel wurde nicht normal beendet. Bitte warten Sie, bis das System sich stabilisiert hat, und starten Sie dann ein neues Spiel.
 
 [NEW_PVP_MAIN_VIEW_MATCHING_RESULT_TEXT_2]
-服务器维护中
+Serverwartung
 
 [NEW_PVP_MAIN_VIEW_MATCHING_RESULT_TEXT_4]
-当前不在对战期
+Derzeit nicht im Kampfzeitraum
 
 [NEW_PVP_MAIN_VIEW_QUEUEING_TITLE]
-系统提示
+Systemaufforderung
 
 [NEW_PVP_MAIN_VIEW_QUEUEING_TIPS]
-当前匹配人数过多，对战需要排队。
+Es sind derzeit zu viele Spieler im Matching, du musst dich für den Kampf anstellen.
 
 [NEW_PVP_MAIN_VIEW_QUEUEING_WAITED_TIME]
-已等待：{TIME}
+Wartezeit: {TIME}
 
 [NEW_PVP_MAIN_VIEW_ESTIMATED_QUEUEING_TIME]
-预计还需等待：{TIME}
+Voraussichtliche Wartezeit: {TIME}
 
 [NEW_PVP_MAIN_VIEW_MATCHING_OPPOENT]
-正在搜索 {TIME}
+Suche: {TIME}
 
 [NEW_PVP_MAIN_VIEW_ES_MATCHING_OPPOENT]
-估计时间：{TIME}
+Geschätzte Zeit: {TIME}
 
 [NEW_PVP_MAIN_VIEW_FPS]
-FPS：{NUM}
+FPS: {NUM}
 
 [NEW_PVP_MAIN_VIEW_AREA_HOW_TO_PLAY_TITLE]
-主题说明
+Themenbeschreibung
 
 [NEW_PVP_MAIN_VIEW_DISCONNECT_TITLE]
-系统提示
+Systemaufforderungen
 
-[NEW_PVP_MAIN_VIEW_OVERVIEW_TITLE]
-玩法说明
+[NEW_PVP_MAIN_VI EW_OVERVIEW_TITLE]
+Gameplay Anleitung
 
 [NEW_PVP_MAIN_VIEW_OVERVIEW_TEXT]
-玩法说明内容
+Spielanleitung
 
 [NEW_PVP_MAIN_VIEW_COUNTDOWN_TEXT]
 {TIME}
 
 [NEW_PVP_MAIN_VIEW_COUNTDOWN_TEXT_END]
-赛季已结束
+Saison beendet
 
 [NEW_PVP_MAIN_VIEW_DISCONNECT_TEXT]
-连接失败：无法连接服务器。
-请检查您的网络连接。
+Verbindung fehlgeschlagen: Verbindung zum Server konnte nicht hergestellt werden.
+Bitte überprüfe deine Netzwerkverbindung.
 
 [NEW_PVP_MAIN_VIEW_SURRENDER_TITLE]
-投降
+Aufgeben
 
 [NEW_PVP_MAIN_VIEW_SURRENDER_TEXT]
-是否放弃本局比赛？
+Möchtest du das Spiel aufgeben?
 
 [NEW_PVP_MAIN_VIEW_REPORT_TITLE]
-举报
+Melden
 
 [NEW_PVP_MAIN_VIEW_REPORT_TEXT]
-确认对手存在游戏作弊行为？
+Betrügt dein Gegner?
 
 [NEW_PVP_MAIN_VIEW_REPORT_BTN_OK]
-举报
+Melden
 
 [NEW_PVP_MAIN_VIEW_REPORT_SUCCESS]
-举报成功
+Melden erfolgreich
 
 [NEW_PVP_MAIN_VIEW_SURRENDER_BTN_OK]
-认输
+Aufgeben
 
 [NEW_PVP_MAIN_VIEW_SEASON_END_TIPS]
-当前赛季已结束，请等待下一赛季开始。
+Die aktuelle Saison ist beendet. Bitte warte auf den Start der nächsten.
 
 [NEW_PVP_MAIN_VIEW_THIRD_SEASON_TIPS]
-第三赛季开启，敬请期待！
+Die dritte Saison hat begonnen. Bleibt dran!
 
 [NEW_PVP_CHEST_REWARD_TITLE_DAILY]
-获得每日宝箱！
+Holt euch die tägliche Schatztruhe!
 
 [NEW_PVP_CHEST_REWARD_TITLE_WEEKLY]
-获得每周宝箱！
+Holt euch die wöchentliche Schatztruhe!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_TITLE]
-系统提示
+Systemaufforderung
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_1]
-房间不存在！
+Der Raum existiert nicht!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_2]
-已在房间内！
+Schon im Raum!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_3]
-战斗已开始！
+Der Kampf hat begonnen!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_4]
-房间成员已满！
+Der Raum ist voll!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_5]
-房间已解散！
+Der Raum wurde aufgelöst!
 
 [NEW_PVP_MAIN_VIEW_FPS_WARNING]
-^FF0000 您当前游戏帧数过低！无法进行联机对战！^oldclr^
-为了保证您的联机游戏体验，请清理后台或更换设备后再试一次。
+^FF0000 Deine aktuelle Bildrate ist zu niedrig! Online-Spiel nicht möglich! ^oldclr^
+Um dein Online-Spielerlebnis zu gewährleisten, räume bitte den Hintergrund auf oder wechsle das Gerät und versuche es erneut.
 
 [NEW_PVP_MAIN_VIEW_FPS_LAST_GAME_WARNING]
-^FF0000 您上一局对战中出现过帧数较低的情况！^oldclr^
-为了保证您的联机游戏体验，请通过清理后台或更换设备等方式提高帧数。
+^FF0000 Deine Bildrate im letzten Spiel war zu niedrig! ^oldclr^
+Um dein Online-Spielerlebnis zu verbessern, erhöhe bitte die Bildrate, indem du den Hintergrund aufräumst oder das Gerät wechselst.
 
 [NEW_PVP_MAIN_VIEW_FPS_LAST_GAME_INVALID_WARNING]
-^FF0000 您上一局对战中出现过帧数较低的情况，且近期出现过多次，所以本局对战不作数！^oldclr^
-为了保证您的联机游戏体验，请通过清理后台或更换设备等方式提高帧数。
+^FF0000 Die Bildrate war in deinem letzten Spiel niedrig und ist in letzter Zeit häufig aufgetreten. Dieses Spiel zählt daher nicht! ^oldclr^
+Um dein Online-Spielerlebnis zu verbessern, erhöhe bitte die Bildrate, indem du den Hintergrund aufräumst oder das Gerät wechselst.
 
 [NEW_PVP_MAIN_VIEW_NOT_ENOUGH_SELECTED_PLANT]
-请至少选择一个植物开始匹配！
+Bitte wähle mindestens eine Pflanze aus, um mit dem Matching zu beginnen!
 
 [NEW_PVP_IN_GAME_PLANT_UNLOCKED_TIPS]
-将在第{NUMBER}回合解锁！
+Wird in Runde {NUMBER} freigeschaltet!
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_DEFAULT]
-记得不断为你的对手制造僵尸哦！
+Denk daran, weiterhin Zombies für deinen Gegner zu erstellen!
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_1]
-阳光可以升级！
+Sonnenlicht kann verbessert werden!
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_2]
-下半场为对方的场地！
+Die zweite Hälfte ist das gegnerische Feld!
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_3]
-仅自己的场地可以种植植物！
+Du kannst nur Pflanzen auf deinem eigenen Feld pflanzen!
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_4]
-记得不停地使用僵尸增强技能！
+Vergiss nicht, weiterhin Zombie-Verstärkungsfähigkeiten zu nutzen!
 
 [NEW_PVP_MAIN_VIEW_RETRY_MATCHING]
-重新匹配
+Neues Match
 
 [NEW_PLANT_UI_LEVEL_UP_BTN_TEXT]
 Aufstufen
@@ -72775,67 +72785,67 @@ Das Betäubungsgänseblümchen wird sofort zur höchsten Stufe aufgewertet. Eine
 Dizzy Daisy nimmt sofort ihre maximale Form an und feuert eine große Rauchwolke nach rechts ab, die drei Reihen bedeckt und die gesamte Reihe durchdringt. Alle Zombies^848484^ werden 1^oldclr^4 Sekunden lang betäubt. ^ff0000^ Zusätzlich feuert sie einen starken Wind ab, der die Zombies rechts um einen Block zurückweht. ^oldclr^
 
 [BOOMFLOWER_NEW_SKILL_LEVEL1_DES]
-手动指定攻击位置后，爆炸桔梗将气球炸弹放在该地块上，每个地块至多堆叠3个。气球炸弹会在90秒后自行爆炸，或当有僵尸接触后，触发爆炸并对1×2范围内的僵尸造成伤害。
+Nachdem die Angriffsposition manuell festgelegt wurde, platziert Explosive Kikyo eine Ballonbombe auf dem Feld. Pro Feld können bis zu drei Stapel vorhanden sein. Die Ballonbombe explodiert nach 90 Sekunden von selbst oder löst bei Berührung durch einen Zombie eine Explosion aus, die Zombies im Umkreis von 1×2 Schaden zufügt.
 
 [BOOMFLOWER_NEW_SKILL_LEVEL2_DES]
-气球炸弹的生成间隔减少1秒。植物种植阳光消耗减少50点。
+Das Intervall zwischen den Ballonbomben wird um 1 Sekunde verkürzt. Der Sonnenlichtverbrauch beim Pflanzen wird um 50 Punkte reduziert.
 
 [BOOMFLOWER_NEW_SKILL_LEVEL3_DES]
-气球炸弹的生成间隔减少1秒。植物种植阳光消耗减少50点。
+Das Intervall zwischen den Ballonbomben wird um 1 Sekunde verkürzt. Der Sonnenlichtverbrauch beim Pflanzen wird um 50 Punkte reduziert.
 
 [BOOMFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen die Energiebohne direkt auszulösen!
 
 [BOOMFLOWER_NEW_SKILL_LEVEL5_DES]
-生成气球炸弹时有30%的概率生成一个8周年气球，8周年气球会自动飞向最近的一个僵尸爆炸，对3×3范围内的僵尸造成伤害。
+Wenn eine Ballonbombe erzeugt wird, besteht eine 30%ige Chance, einen Ballon zum 8. Jahrestag zu erzeugen. Der Ballon fliegt automatisch zum nächsten Zombie und explodiert. Zombies im Umkreis von 3×3 Schaden.
 
 [BOOMFLOWER_PLANTFOOD_DESCRIPTION]
-爆炸桔梗释放1个毁灭菇气球，飞向空中爆炸，对全场僵尸造成爆炸伤害。
+Explodierendes Platycodon setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht Explosionsschaden bei allen Zombies.
 
 [BOOMFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-爆炸桔梗释放1个毁灭菇气球，飞向空中爆炸，对全场僵尸造成^ff0000^更高的爆炸伤害并^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^2秒。^oldclr^
+Explodierendes Platycodon setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht ^ff0000^ höheren Explosionsschaden bei allen Zombies und ^oldclr^^848484^ betäubt Ⅰ^oldclr^^ff000^2 Sekunden lang. ^oldclr^
 
 [BEERCOCONUT_NEW_SKILL_LEVEL1_DES]
-当庆典汽水椰受到僵尸攻击时会使内部的汽水摇晃，在6秒后喷出汽水，将右侧3格内的所有中小型僵尸击退至第4格。
+Wenn die Celebration Soda Coconut von Zombies angegriffen wird, schüttelt sich die Limonade im Inneren und spritzt nach 6 Sekunden heraus. Alle kleinen und mittleren Zombies im Umkreis von 3 Feldern rechts bis zum 4. Feld werden dadurch abgewehrt.
 
 [BEERCOCONUT_NEW_SKILL_LEVEL2_DES]
-庆典汽水椰内部的汽水富含更多气泡，在摇晃后喷出汽水所需时间缩短至5秒。
+Die Limonade in der Celebration Soda Coconut enthält mehr Blasen, und die Zeit zum Herausspritzen der Limonade nach dem Schütteln verkürzt sich auf 5 Sekunden.
 
 [BEERCOCONUT_NEW_SKILL_LEVEL3_DES]
-气泡十足的技能效果提升100%，在摇晃后喷出汽水所需时间缩短至4秒。
+Die Wirkung der Sprudel-Fähigkeit wird um 100 % erhöht, und die Zeit zum Herausspritzen der Limonade nach dem Schütteln verkürzt sich auf 4 Sekunden.
 
 [BEERCOCONUT_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [BEERCOCONUT_NEW_SKILL_LEVEL5_DES]
-喷射汽水时，有50%的概率将汽水加冰，使喷出的汽水能额外使中小型僵尸^0072ff^冻结Ⅰ^oldclr^3秒，使大型僵尸减速。
+Beim Sprühen von Soda besteht eine 50%ige Chance, dem Soda Eis hinzuzufügen. Dadurch kann das versprühte Soda kleine und mittlere Zombies zusätzlich für ^0072ff^Ⅰ^oldclr^3 Sekunden einfrieren und große Zombies verlangsamen.
 
 [BEERCOCONUT_PLANTFOOD_DESCRIPTION]
-庆典汽水椰立即恢复全部生命值并向右喷出大量汽水，将右侧3×3范围内的僵尸击退至右侧第4列。
+Die Feier-Soda-Kokosnuss stellt sofort alle Gesundheit wieder her und versprüht eine große Menge Soda nach rechts. Dadurch werden Zombies im 3×3-Bereich rechts bis zur vierten Spalte rechts zurückgestoßen.
 
 [BEERCOCONUT_AVATAR_PLANTFOOD_DESCRIPTION]
-庆典汽水椰立即恢复全部生命值并向右喷出大量^ff0000^加冰汽水^oldclr^，将右侧3×3范围内的僵尸击退至右侧第4列，^ff0000^并陷入^oldclr^^0072ff^冻结Ⅰ^oldclr^^ff0000^3秒。^oldclr^
+Die Feier-Soda-Kokosnuss stellt sofort alle Lebenspunkte wieder her und versprüht eine große Menge ^ff0000^mit Eis versetztes Soda nach rechts^oldclr^. Dadurch werden Zombies im 3×3-Bereich bis zur vierten Spalte rechts abgewehrt,^ff0000^ und^oldclr^^0072ff^friertⅠ^oldclr^^ff000^3 Sekunden lang rechts ein. ^oldclr^
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL1_DES]
-当陆行小型僵尸出现在右侧1格时，会用钩爪将此僵尸抓住并当作抵挡僵尸的、2000点生命值的盾牌，并出拳对右侧1格的所有僵尸造成伤害。盾牌损坏后需要30秒休息时间才能再次抓住僵尸。未抓住僵尸时，则用爪击对单个僵尸造成50点伤害。
+Wenn ein kleiner Zombie auf der rechten Seite erscheint, greift er ihn mit seinem Enterhaken und nutzt ihn als Schild mit 2000 Lebenspunkten, um Zombies zu widerstehen. Mit einem Schlag fügt er allen Zombies auf der rechten Seite Schaden zu. Nachdem der Schild beschädigt wurde, ruht er sich 30 Sekunden lang aus, bevor er den Zombie erneut greifen kann. Wird der Zombie nicht gefangen, fügt er einem einzelnen Zombie mit der Klaue 50 Schaden zu.
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL2_DES]
-被当作盾牌的僵尸血量提高至2500点，钩爪的休息时间缩短至27秒。
+Die Gesundheit des als Schild verwendeten Zombies erhöht sich auf 2500 Punkte, und die Ruhezeit des Enterhakens verkürzt sich auf 27 Sekunden.
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL3_DES]
-被当作盾牌的僵尸血量提高至3000点，钩爪的休息时间缩短至24秒。
+Die Gesundheit des als Schild verwendeten Zombies erhöht sich auf 3000 Punkte, und die Ruhezeit des Enterhakens verkürzt sich auf 24 Sekunden.
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohnen-Fähigkeit direkt freizusetzen!
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL5_DES]
-嘉兰抓住的僵尸被其他僵尸啃掉时，有30%概率使出右拳重击右侧前2格的所有僵尸，将它们击退2格，同时重置钩爪的休息时间。
+Wenn der von Garland gepackte Zombie von anderen Zombies gefressen wird, besteht eine 30%ige Chance, mit der rechten Faust alle Zombies in den ersten beiden Feldern rechts zu treffen, sie zwei Felder zurückzuwerfen und die Ruhezeit des Hakens zurückzusetzen.
 
 [CLAWGLORIOSA_PLANTFOOD_DESCRIPTION]
-钩爪嘉兰吸引右侧3×3范围内至多5个僵尸至右侧1格并使出蓄力一拳，对所有僵尸造成伤害并击退3格。
+Garland mit Haken zieht bis zu fünf Zombies im 3×3-Bereich rechts auf ein Feld nach rechts und führt einen aufgeladenen Schlag aus, der allen Zombies Schaden zufügt und sie drei Felder zurückwirft.
 
 [CLAWGLORIOSA_AVATAR_PLANTFOOD_DESCRIPTION]
-钩爪嘉兰吸引右侧3×3范围内至多5个僵尸至右侧1格并使出蓄力一拳，对所有僵尸造成伤害并击退3格，^ff0000^如果是中小型僵尸则击飞。^oldclr^
+Girlande mit Haken lockt bis zu 5 Zombies im 3×3-Bereich auf der rechten Seite auf 1 Feld auf der rechten Seite an und setzt einen aufgeladenen Schlag ein, der allen Zombies Schaden zufügt und sie 3 Felder zurückstößt, wobei ^ff0000^ kleine und mittlere Zombies wegstößt. ^oldclr^
 
 [FLOWERPOT_NEW_SKILL_LEVEL1_DES]
 Blumentöpfe können auf Dächern aufgestellt werden und andere Pflanzen aufnehmen. So können Pflanzen sicher und stabil auf Dächern platziert werden.
@@ -72847,151 +72857,153 @@ Generiert einen Blumentopf über, unter, links und rechts von sich selbst.
 Generiert einen Blumentopf in einem 3×3 großen Bereich mittig zu sich selbst.
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在右侧时，会发射花瓣颜色的染料子弹对僵尸造成伤害，每隔20秒能对自己染色提升形态。染料颜色越深控制效果越强：粉色颜料能使僵尸减速2秒；橙色颜料能黏住僵尸1秒。
+Wenn Zombies rechts erscheinen, feuern sie blütenblattfarbene Farbkugeln ab, um Zombies zu verletzen. Alle 20 Sekunden können sie sich selbst einfärben, um ihre Form zu verbessern. Je dunkler die Farbe, desto stärker der Kontrolleffekt: Rosa Farbstoff verlangsamt Zombies 2 Sekunden lang; orangefarbener Farbstoff haftet 1 Sekunde lang an ihnen.
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL2_DES]
-凤仙花射手染色速度加快，对自己染色的间隔缩短至17秒。
+Der Impatiens-Schütze färbt schneller, und die Zeitspanne zwischen den Färbungen verkürzt sich auf 17 Sekunden.
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL3_DES]
-快速染色的技能效果提升100%，对自己染色的间隔缩短至14秒。
+Der Fertigkeitseffekt des schnellen Färbens wird um 100 % erhöht, und die Zeitspanne zwischen den Färbungen verkürzt sich auf 14 Sekunden.
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Move!
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL5_DES]
-凤仙花射手可以升级到更强力的紫色形态，吐出能黏住僵尸2秒的紫色染料子弹，且有25%概率爆炸造成范围伤害和控制。
+Der Impatiens-Schütze kann zu einer stärkeren violetten Form aufgerüstet werden. Er verschießt violette Farbkugeln, die 2 Sekunden lang an Zombies haften bleiben. Es besteht eine 25%ige Chance zu explodieren und so Flächenschaden und Kontrolle zu verursachen.
 
 [IMPATIENSSHOOTER_PLANTFOOD_DESCRIPTION]
-凤仙花射手立即给自己染色进入下一形态，并向右侧连续发射当前形态的染料子弹，对僵尸造成伤害。
+Der Impatiens-Schütze färbt sich sofort in die nächste Form ein und feuert kontinuierlich Farbkugeln der aktuellen Form nach rechts ab, die Zombies Schaden zufügen.
 
 [IMPATIENSSHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-凤仙花射手立即给自己染色进入下一形态，并向右侧^ff0000^扇形范围^oldclr^连续发射当前形态的染料子弹，对僵尸造成伤害。^ff0000^子弹数量翻倍。^oldclr^
+Der Impatiens-Schütze färbt sich sofort in die nächste Form ein und feuert kontinuierlich Farbkugeln der aktuellen Form nach rechts^ff0000^ fächerförmig^oldclr^ ab, die Zombies Schaden zufügen. ^ff0000^ Die Anzahl der Kugeln verdoppelt sich. ^oldclr^
 
 [TURKEYPULT_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在火鸡投手右侧时，会向僵尸投掷豆腐火鸡。豆腐火鸡落地后会持续向右移动，接触到僵尸时发动啄击造成伤害。
+Wenn ein Zombie rechts vom Truthahnkrug erscheint, wirft er einen Tofu-Truthahn auf ihn. Nach der Landung bewegt sich der Tofu-Truthahn weiter nach rechts und verursacht bei Berührung des Zombies Schaden.
 
 [TURKEYPULT_NEW_SKILL_LEVEL2_DES]
-火鸡投手攻击间隔减少1秒，种植阳光消耗减少25点。
+Das Angriffsintervall des Truthahnkrugs wird um 1 Sekunde verkürzt und der Sonnenlichtverbrauch beim Pflanzen um 25 Punkte reduziert.
 
 [TURKEYPULT_NEW_SKILL_LEVEL3_DES]
-使快一点的技能效果提升100%。
+Erhöht die Wirkung schnellerer Fähigkeiten um 100 %.
 
 [TURKEYPULT_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [TURKEYPULT_NEW_SKILL_LEVEL5_DES]
-攻击的时候有概率丢出1只深绿色的较大肥宅火鸡，丢出去的肥宅鸡砸到僵尸会使僵尸^848484^眩晕Ⅰ^oldclr^1秒。
+Beim Angriff besteht die Chance, einen großen, dunkelgrünen, fetten Truthahn zu werfen. Der geworfene fette Truthahn betäubt den Zombie für ^848484^ Ⅰ^oldclr^ 1 Sekunde.
 
 [TURKEYPULT_PLANTFOOD_DESCRIPTION]
-火鸡投手快速旋转，连续向僵尸随机投掷最多12只南瓜头豆腐火鸡，南瓜头豆腐火鸡拥有较高的生命值和攻击力。
+Der Truthahnkrug rotiert schnell und wirft bis zu 12 Kürbiskopf-Tofu-Truthähne auf die Zombies. Kürbiskopf-Tofu-Truthähne haben höhere Gesundheit und Angriffskraft.
 
 [TURKEYPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-火鸡投手快速旋转，连续向僵尸随机投掷最多12只^ff0000^铁皮盔甲头豆腐火鸡，铁皮盔甲头豆腐火鸡拥有更高的生命值和攻击力。^oldclr^
+Der Truthahnkrug rotiert schnell und wirft bis zu 12 ^ff0000^ Eisenpanzerkopf-Tofu-Truthähne auf die Zombies. Eisenpanzerkopf-Tofu-Truthähne haben höhere Gesundheit und Angriffskraft. ^oldclr^
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在铁锤兰右侧2格时，会用锤子对所有僵尸造成锤击。攻击时有20%的概率此次攻击变为重锤，造成1.2倍伤害并将中小型僵尸锤入土中3秒。
+Wenn ein Zombie zwei Felder rechts von der Hammerorchidee erscheint, schlägt er alle Zombies mit einem Hammer. Beim Angriff besteht eine 20%ige Chance, dass dieser Angriff zu einem schweren Hammer wird, der 1,2-fachen Schaden verursacht und kleine und mittelgroße Zombies 3 Sekunden lang in den Boden hämmert.
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL2_DES]
-铁锤兰能通过稳定蓄力来提升重锤概率，攻击时有40%的概率此次攻击变为重锤。
+Die Hammerorchidee kann die Wahrscheinlichkeit eines schweren Hammers erhöhen, indem sie stetig auflädt. Es besteht eine 40%ige Chance, dass dieser Angriff zu einem schweren Hammer wird.
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL3_DES]
-僵尸处在埋地状态时再次受到重锤，则会埋得更深，且埋地时间重置成6秒。
+Wird ein Zombie im vergrabenen Zustand erneut von einem schweren Hammer getroffen, wird er tiefer vergraben und die Vergrabungszeit wird auf 6 Sekunden zurückgesetzt.
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL5_DES]
-铁锤兰习得致命一击，当僵尸处在深埋状态时触发。此时如果使用重锤攻击中小型僵尸，则会直接秒杀僵尸。
+Hammer-Orchidee erlernt einen kritischen Treffer, der ausgelöst wird, wenn der Zombie tief vergraben ist. Wenn du dann einen schweren Hammer benutzt, um kleine und mittelgroße Zombies anzugreifen, werden diese sofort getötet.
 
 [HAMMERFLOWER_PLANTFOOD_DESCRIPTION]
-铁锤兰将锤子丢向空中，变为巨大铁锤砸下，对右侧3×3范围内的所有僵尸造成伤害，并使中小型僵尸锤入土中3秒，使大型僵尸^848484^眩晕Ⅰ^oldclr^3秒。
+Hammer-Orchidee wirft den Hammer in die Luft, der sich in einen riesigen Hammer verwandelt und niederschlägt. Er fügt allen Zombies im Umkreis von 3×3 rechts Schaden zu, hämmert kleine und mittelgroße Zombies 3 Sekunden lang in den Boden und betäubt große Zombies 3 Sekunden lang.
 
 [HAMMERFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-铁锤兰^ff0000^连续2次将锤子丢向空中^oldclr^，变为巨大铁锤砸下，对右侧3×3范围内的所有僵尸造成^ff0000^更高的伤害^oldclr^，并使中小型僵尸^ff0000^锤入土中5秒^oldclr^，使大型僵尸^848484^眩晕Ⅰ^oldclr^^ff0000^5秒。^oldclr^
+Hammer Lan^ff0000^ wirft den Hammer zweimal in die Luft^oldclr^, wodurch er zu einem riesigen Hammer wird und ihn niederschlägt. Dies verursacht^ff0000^höheren Schaden^oldclr^ an allen Zombies im 3×3-Bereich rechts. Kleine und mittlere Zombies^ff0000^ werden 5 Sekunden lang in den Boden gehämmert^oldclr^ und große Zombies^848484^werden 5 Sekunden lang betäubt^oldclr^^ff000^. ^oldclr^
 
 [MANGOSTEEN_NEW_SKILL_LEVEL1_DES]
-聚能山竹在种植后会逐渐成长，每10秒成长一次，第二阶段聚能山竹的攻击会使僵尸进入0.5s的^ff9600^麻痹Ⅰ^oldclr^状态，第三阶段^ff9600^麻痹Ⅰ^oldclr^状态会延长至1.5s，当有僵尸进入聚能山竹的攻击范围内，聚能山竹会释放电圈，在连续释放3次电圈后，会因为过载而进入休息状态，攻击途中范围内僵尸全部死亡则重新开始计数。
+Nach dem Einpflanzen wächst die Energie-Mangostane allmählich alle 10 Sekunden. In der zweiten Phase versetzt der Angriff der Energie-Mangostane den Zombie in einen 0,5 Sekunden dauernden ^ff9600^-Lähmungszustand Ⅰ ^oldclr^. In der dritten Phase verlängert sich dieser Zustand auf 1,5 Sekunden. Betritt ein Zombie die Angriffsreichweite der Energie-Mangostane, löst diese einen elektrischen Kreis aus. Nach dreimaligem Auslösen des elektrischen Kreises verfällt der Zombie aufgrund von Überladung in einen Ruhezustand. Sterben alle Zombies in Reichweite während des Angriffs, beginnt die Zählung von vorne.
 
 [MANGOSTEEN_NEW_SKILL_LEVEL2_DES]
-进入过载所需的攻击次数变为4次，过载休息时间变为25秒。
+Die Anzahl der Angriffe, die für eine Überladung erforderlich sind, beträgt 4, und die Ruhezeit der Überladung beträgt 25 Sekunden.
 
 [MANGOSTEEN_NEW_SKILL_LEVEL3_DES]
-进入过载所需的攻击次数变为5次，过载休息时间变为20秒。
+Die Anzahl der Angriffe, die für eine Überladung benötigt werden, beträgt 5, und die Ruhezeit der Überladung beträgt 20 Sekunden.
 
 [MANGOSTEEN_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Angriff der Energiebohne direkt auszulösen!
 
 [MANGOSTEEN_NEW_SKILL_LEVEL5_DES]
-聚能山竹会对进入攻击范围的第一个中小型僵尸发射一张电网，被电网缠绕的僵尸无法移动直到其死亡，在电网消失之前聚能山竹无法发射下一张电网。
+Die Energie-Mangostane schleudert ein elektrisches Netz auf den ersten kleinen und mittleren Zombie, der in Angriffsreichweite kommt. Der im elektrischen Netz gefangene Zombie kann sich erst bewegen, wenn er stirbt. Die Energie-Mangostane kann das nächste elektrische Netz erst schleudern, wenn das elektrische Netz verschwindet.
 
 [MANGOSTEEN_PLANTFOOD_DESCRIPTION]
-天空中落下一道闪电，聚能山竹的能量瞬间溢出，释放出一道范围5×5逐渐向外扩散的电圈，对途径的所有僵尸造成巨大电流伤害。
+Ein Blitz schlug vom Himmel, und die Energie der Energie-Mangostane floss augenblicklich über und löste einen elektrischen Kreis mit einer Reichweite von 5×5 aus, der sich allmählich ausbreitete und allen vorbeikommenden Zombies enormen Stromschaden zufügte.
 
 [MANGOSTEEN_AVATAR_PLANTFOOD_DESCRIPTION]
-天空中落下一道闪电，聚能山竹的能量瞬间溢出，释放出一道范围5×5逐渐向外扩散的电圈，对途径的所有僵尸造成巨大电流伤害，^ff0000^电圈达到最大后会收缩对僵尸再造成一次伤害，收缩到聚能山竹身边时会发生一次爆炸留下一个3×3范围的电力场对僵尸造成持续伤害。^oldclr^
+Ein Blitz schlug vom Himmel, und die Energie der Mangostane floss augenblicklich über. Dadurch entstand ein elektrischer Kreis mit einer Reichweite von 5×5, der sich allmählich ausbreitete und allen Zombies in seinem Weg enormen Stromschaden zufügte. ^ff0000^ Erreicht der elektrische Kreis sein Maximum, schrumpft er und fügt den Zombies erneut Schaden zu. Schrumpft er zur Seite der Mangostane, explodiert er und hinterlässt ein elektrisches Feld von 3×3, das den Zombies kontinuierlichen Schaden zufügt. ^oldclr^
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在鱼钩草的右侧时，会向僵尸甩出鱼钩并拖拽至自身右侧一格，造成攻击力伤害，成功拖拽至右侧一格后，鱼钩草会将目标向前方甩出，对碰撞到的僵尸造成攻击力伤害并^848484^眩晕Ⅰ^oldclr^3秒，没有碰撞到僵尸则直接飞出场外。
+Erscheint ein Zombie rechts vom Angelhakengras, wirft er einen Angelhaken auf den Zombie und zieht ihn nach rechts, wodurch er Angriffsschaden verursacht. Nach dem erfolgreichen Ziehen nach rechts schleudert das Angelhakengras das Ziel nach vorne und verursacht Angriffsschaden beim Zombie, mit dem es kollidiert, sowie ^848484^Betäubung Ⅰ^oldclr^ für 3 Sekunden. Wenn es nicht mit einem Zombie kollidiert, fliegt es direkt aus dem Feld.
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL2_DES]
-鱼钩草的垂钓技艺增加，鱼钩草的休息时间减少至13秒。
+Die Angelfähigkeit des Angelhakengrases wurde erhöht und die Ruhezeit des Angelhakengrases auf 13 Sekunden reduziert.
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL3_DES]
-鱼钩草的垂钓技艺增加，鱼钩草的休息时间减少至11秒。
+Die Angelfähigkeit des Angelhakengrases wurde erhöht und die Ruhezeit des Angelhakengrases auf 11 Sekunden reduziert.
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen. Großer Move!
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL5_DES]
-钓中僵尸甩到身后时，会蓄力1秒后将僵尸甩出，如果被甩出的僵尸击中其他僵尸，则被甩出去的僵尸会在碰撞位置晕眩3秒，被击中的僵尸会一起被击退3格，路径上的僵尸也会被击退，落地后所有僵尸会被^848484^眩晕Ⅰ^oldclr^3秒，如果没有命中其他僵尸，则被甩出的僵尸会直接飞出场外。
+Wird ein geangelter Zombie hinter dich geworfen, stürmt er 1 Sekunde lang auf, bevor er ihn hinauswirft. Trifft der geworfene Zombie andere Zombies, wird er an der Kollisionsstelle 3 Sekunden lang betäubt, und die getroffenen Zombies werden gemeinsam 3 Felder zurückgeworfen. Auch die Zombies auf dem Weg werden zurückgeworfen. Nach der Landung werden alle Zombies 3 Sekunden lang ^848484^stunⅠ^oldclr^. Werden keine anderen Zombies getroffen, fliegen die geworfenen Zombies direkt vom Feld.
+
 
 [FISHHOOKGRASS_PLANTFOOD_DESCRIPTION]
-鱼钩草同时发出多个鱼钩，将距离最近的僵尸勾过来并造成伤害，然后重重扔出，如果僵尸无法被勾起，则对其造成巨大伤害。
+Das Angelhakengras sendet mehrere Haken gleichzeitig aus, die den nächsten Zombie fangen, Schaden zufügen und ihn dann heftig hinauswerfen. Kann der Zombie nicht gefangen werden, erleidet er enormen Schaden.
 
 [FISHHOOKGRASS_AVATAR_PLANTFOOD_DESCRIPTION]
-鱼钩草同时发出多个鱼钩，将距离最近的僵尸勾过来并造成伤害^ff0000^并附加^oldclr^^701edf^中毒Ⅰ^oldclr^^ff0000^效果^oldclr^，然后重重扔出，如果僵尸无法被勾起，则对其造成巨大伤害。
+Das Angelhakengras wirft mehrere Angelhaken gleichzeitig aus, die den nächsten Zombie fangen und Schaden verursachen^ff0000^ und ^oldclr^^701edf^Gift Ⅰ^oldclr^^ff0000^Effekt^oldclr^ hinzufügen. Anschließend wirft es den Zombie heftig. Kann der Zombie nicht gefangen werden, fügt es ihm enormen Schaden zu.
+
 
 [INFERNO_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在烈焰火蕨的右侧时，烈焰火蕨会卷起一阵火龙卷风，火龙卷可以烧伤并携带第一个遇到的僵尸一起右移，直至龙卷风消失或僵尸死去。
+Wenn ein Zombie rechts vom flammenden Feuerfarn erscheint, erzeugt dieser einen Feuertornado, der den ersten Zombie, dem er begegnet, verbrennen und nach rechts tragen kann, bis der Tornado verschwindet oder der Zombie stirbt.
 
 [INFERNO_NEW_SKILL_LEVEL2_DES]
-烈焰火蕨更加生气，火焰龙卷风的攻击距离增加1格
+Der Flammenfarn ist wütender, und die Angriffsreichweite des Flammentornados erhöht sich um 1 Gitter.
 
 [INFERNO_NEW_SKILL_LEVEL3_DES]
-烈焰火蕨更加生气，火焰龙卷风的攻击距离增加2格
+Der Flammenfarn ist wütender, und die Angriffsreichweite des Flammentornados erhöht sich um 2 Gitter.
 
 [INFERNO_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [INFERNO_NEW_SKILL_LEVEL5_DES]
-火龙卷风可以卷起更大体型的僵尸，当卷起巨人僵尸时，火龙卷的移动速度变慢
+Der Feuertornado kann größere Zombies einrollen. Beim Einrollen riesiger Zombies verlangsamt sich seine Bewegungsgeschwindigkeit.
 
 [INFERNO_PLANTFOOD_DESCRIPTION]
-火龙卷卷起一道更强大的黑黄色龙卷风，伤害更高，持续时间更长可以同时卷起最多6个僵尸，同时吸引相邻道路的僵尸到本行
+Der Feuertornado erzeugt einen stärkeren schwarz-gelben Tornado mit höherem Schaden und längerer Dauer. Er kann bis zu 6 Zombies gleichzeitig beschwören und Zombies von angrenzenden Straßen auf diese Linie locken.
 
 [INFERNO_AVATAR_PLANTFOOD_DESCRIPTION]
-火龙卷卷起一道更强大的^ff0000^蓝色龙卷风^oldclr^，伤害更高，持续时间更长可以同时卷起最多6个僵尸，同时吸引相邻道路的僵尸到本行，^ff0000^当龙卷风结束时原地爆发出一道冲天火柱。^oldclr^
+Der Feuertornado beschwört einen stärkeren ^ff0000^ blauen Tornado^oldclr^ mit höherem Schaden und längerer Dauer herauf. Er kann bis zu 6 Zombies gleichzeitig beschwören und Zombies von angrenzenden Straßen auf diese Linie locken. ^ff0000^ Wenn der Tornado endet, bricht an der Stelle eine Feuersäule hervor. ^oldclr^
 
 [TIGERSTOOL_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在虎头菇右侧2×3范围时，虎头菇发出一声咆哮^848484^眩晕Ⅰ^oldclr^范围内的所有僵尸0.5秒，随后发出无敌斩造成4次斩击伤害。
+Wenn ein Zombie im 2×3-Bereich rechts vom Tigerkopfpilz erscheint, brüllt der Tigerkopfpilz^848484^ und betäubt alle Zombies im Umkreis für 0,5 Sekunden. Anschließend fügt er mit dem Unbesiegbaren Hieb 4 Hiebschaden zu.
 
 [TIGERSTOOL_NEW_SKILL_LEVEL2_DES]
-无敌斩斩击次数变为5次，咆哮^848484^眩晕Ⅰ^oldclr^时间变为0.75秒。
+Die Anzahl der unbesiegbaren Hiebe wurde auf das Fünffache erhöht und die Dauer des Brüllens auf 0,75 Sekunden verkürzt.
 
 [TIGERSTOOL_NEW_SKILL_LEVEL3_DES]
-无敌斩斩击次数变为6次，咆哮^848484^眩晕Ⅰ^oldclr^时间变为1秒。
+Die Anzahl der unbesiegbaren Hiebe wurde auf das Sechsfache erhöht und die Dauer des Brüllens auf 1 Sekunde verkürzt.
 
 [TIGERSTOOL_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [TIGERSTOOL_NEW_SKILL_LEVEL5_DES]
-虎头菇进化出毒性，每次无敌斩有5%的概率使僵尸^701edf^中毒Ⅰ^oldclr^，每秒造成最大生命值10%的伤害，持续10秒。
+Der Tigerkopfpilz entwickelt sich zu Gift. Jeder Schlag mit Unbesiegbarkeit hat eine 5%ige Chance, Zombies zu vergiften^701edf^ und 10 % ihrer maximalen Gesundheit pro Sekunde für 10 Sekunden zu verlieren.
 
 [TIGERSTOOL_PLANTFOOD_DESCRIPTION]
-虎头菇张开血盆大口对右侧3×3范围内的僵尸释放一次撕咬造成巨大伤害。
+Der Tigerkopfpilz öffnet sein Maul und beißt Zombies im Umkreis von 3×3 rechts, was enormen Schaden verursacht.
 
 [TIGERSTOOL_AVATAR_PLANTFOOD_DESCRIPTION]
-虎头菇张开血盆大口对右侧3×3范围内的僵尸释放一次撕咬造成巨大伤害，^ff0000^并发动2次斩击。^oldclr^
+Der Tigerkopfpilz öffnet sein Maul und beißt Zombies im Umkreis von 3×3 rechts, was enormen Schaden verursacht,^ff0000^ und zwei Hiebe austeilt. ^oldclr^
 
 [DRAFTODIL_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von der Sturmglocke erscheint, feuert dieser Luftgeschosse nach vorne ab, die den getroffenen Zombies Schaden zufügen. Dabei besteht eine Chance von 50%, dass er steif wird und fliegende Zombies weggeschleudert werden. Eine Chance von 30%, dass Wichte weggeschleudert werden, besteht ebenfalls.
@@ -73015,25 +73027,27 @@ Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Kugeln hintereinand
 Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Kugeln hintereinander rechts von ^ff0000^ ab und sprengt die fliegenden Zombies in der aktuellen Reihe weg. ^oldclr^
 
 [GARDENERGRASS_NEW_SKILL_LEVEL1_DES]
-当有僵尸进入地锯草的右侧2格内时，地锯草会使用头顶的锯子对所有僵尸进行攻击，每秒造成伤害并控制僵尸，僵尸会持续抖动且无法行动，同时锯子会在15秒内逐渐过热，在过热状态下，地锯草无法进行攻击，过热的电锯会在10秒后恢复。
+Wenn ein Zombie die beiden rechten Felder des Bodensägegrases betritt, greift das Bodensägegras mit seiner Säge auf seinem Kopf alle Zombies an, verursacht Schaden und kontrolliert die Zombies sekündlich. Die Zombies zittern weiter und können sich nicht bewegen. Gleichzeitig überhitzt die Säge innerhalb von 15 Sekunden allmählich. Im überhitzten Zustand kann das Bodensägegras nicht angreifen. Die überhitzte Kettensäge erholt sich nach 10 Sekunden.
+
 
 [GARDENERGRASS_NEW_SKILL_LEVEL2_DES]
-地锯草的帽子冷却得更快了，过热时间减少至7.5秒。
+Der Bodensägegrashut kühlt schneller ab, und die Überhitzungszeit wird auf 7,5 Sekunden reduziert.
+
 
 [GARDENERGRASS_NEW_SKILL_LEVEL3_DES]
-地锯草的帽子冷却得更快了，过热时间减少至5秒。
+Der Bodensägegrashut kühlt schneller ab, und die Überhitzungszeit wird auf 5 Sekunden reduziert.
 
 [GARDENERGRASS_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohne direkt zu aktivieren!
 
 [GARDENERGRASS_NEW_SKILL_LEVEL5_DES]
-地锯草的攻击有25%的概率会扔出自己的帽子，对前方3×3范围内的僵尸每秒造成攻击力的伤害，持续15秒，受到伤害的僵尸会持续抖动且无法攻击或移动，每秒有20%的概率直接被打断手，地锯草仍旧需要20秒重新长出帽子。
+Beim Angriff hat Sawgrass eine Chance von 25 %, seinen Hut zu werfen und Zombies im Umkreis von 3×3 Sekunden vor ihm pro Sekunde Schaden zuzufügen. Dieser Schaden hält 15 Sekunden lang an. Die verletzten Zombies zittern weiter und können weder angreifen noch sich bewegen. Es besteht eine Chance von 20 %, dass ihnen pro Sekunde die Hände gebrochen werden. Sawgrass benötigt 20 Sekunden, um seinen Hut wiederherzustellen.
 
 [GARDENERGRASS_PLANTFOOD_DESCRIPTION]
-地锯草甩出双手两侧的电锯对上下3×3范围内的僵尸造成伤害，受到伤害的僵尸持续抖动持续5秒，电锯的伤害各自结算，同时重置双手电锯的状态。
+Sawgrass wirft die Kettensägen an beiden Seiten seiner Hände aus, um Zombies im Umkreis von 3×3 Sekunden darüber und darunter Schaden zuzufügen. Die verletzten Zombies zittern 5 Sekunden lang weiter. Der Schaden der Kettensägen wird separat berechnet und der Status der Zweihand-Kettensägen zurückgesetzt.
 
 [GARDENERGRASS_AVATAR_PLANTFOOD_DESCRIPTION]
-地锯草甩出双手两侧的电锯对上下3×3范围内的僵尸造成伤害，受到伤害的僵尸持续抖动5秒，电锯的伤害各自结算，同时重置双手电锯的状态。^ff0000^电锯旋转时会产生火花，受到伤害的僵尸会被点燃，每秒受到伤害，持续5秒，再次受到伤害会重置点燃的持续时间。^oldclr^
+Sawgrass wirft die Kettensägen auf beiden Seiten seiner Hände aus, um Zombies im 3×3-Bereich darüber und darunter Schaden zuzufügen. Die verletzten Zombies zittern 5 Sekunden lang weiter. Der Schaden der Kettensägen wird separat berechnet und der Status der Zweihand-Kettensägen zurückgesetzt. ^ff0000^ Die Kettensäge erzeugt Funken, wenn sie rotiert. Geschädigte Zombies geraten in Brand und erleiden 5 Sekunden lang pro Sekunde Schaden. Erneuter Schaden setzt die Dauer der Zündung zurück. ^oldclr^
 
 [HEATHSEEKER_NEW_SKILL_LEVEL1_DES]
 Nach dem Pflanzen feuert der Heißen heide sechs Pfeile ab und verfolgt Zombies automatisch. Jeder Pfeil kann drei Mal eindringen. Befinden sich Zombies mit Schilden auf dem Feld, werden sie zuerst von den Pfeilen anvisiert. Jeder Pfeil kann einen Schild durchbrechen. Sobald der Pfeil den Schild durchbricht, verschwindet er sofort.
@@ -73072,46 +73086,46 @@ Der Baumgeistwächter beschwört Baumspitzen in einem Umkreis von 3x3. Alle Zomb
 Der Baumgeistwächter beschwört Baumspitzen in einem Umkreis von 3x3. Alle Zombies in diesem Umkreis werden hochgehoben und erleiden 500 Schadenspunkte. Nach der Landung sind sie 5 Sekunden lang betäubt.^848484^I^oldclr^. ^ff0000^ In der Mitte des ultimativen Umkreises wird ein riesiger Stachel erzeugt. Die Zombies im Raster werden höher geschleudert und nach der Landung 8 Sekunden lang betäubt. ^oldclr^ Trägt der Zombie einen magischen Schild, zerschmettert der Stachelangriff diesen.
 
 [HATMUSHROOM_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在疯帽菇右侧时，疯帽菇会扔出帽子对僵尸造成攻击力伤害，帽子会在受击僵尸3×3范围内弹射，至多弹射2次，首个受到攻击的僵尸会有8%概率触发时空倒流效果，受到时空倒流效果影响的僵尸会在原地僵直5秒，随后向右传送。
+Erscheint ein Zombie rechts vom Verrückten Hutmacher, wirft dieser seinen Hut, um dem Zombie Angriffsschaden zuzufügen. Der Hut springt bis zu zwei Mal in einem Umkreis von 3×3 um den angegriffenen Zombie herum. Der erste angegriffene Zombie hat eine Chance von 8 %, den Raum-Zeit-Umkehr-Effekt auszulösen. Der betroffene Zombie erstarrt für 5 Sekunden und teleportiert sich dann nach rechts.
 
 [HATMUSHROOM_NEW_SKILL_LEVEL2_DES]
-对时间的研究和掌握使时空倒流的触发概率增加到10%。
+Das Studium und die Beherrschung der Zeit erhöhen die Auslösewahrscheinlichkeit der Raum-Zeit-Umkehr auf 10 %.
 
 [HATMUSHROOM_NEW_SKILL_LEVEL3_DES]
-对时间的研究和掌握使时空倒流的触发概率增加到12%。
+Das Studium und die Beherrschung der Zeit erhöhen die Auslösewahrscheinlichkeit der Raum-Zeit-Umkehr auf 12 %.
 
 [HATMUSHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [HATMUSHROOM_NEW_SKILL_LEVEL5_DES]
-疯帽菇的攻击有10%的概率会扔出1个魔法帽，对目标造成攻击力3倍的伤害并弹射到以受击僵尸为中心，3×3范围内距离受击僵尸最近的1个僵尸身上，至多弹射2次，首个被魔法帽击中的僵尸将会触发更强大的时空倒流效果，该僵尸将会被直接传送到屏幕最右侧。
+Beim Angriff hat der Verrückte Hutmacher eine 10%ige Chance, einen Zauberhut zu werfen. Dieser verleiht dem Ziel die dreifache Angriffskraft und prallt auf den nächsten Zombie im Umkreis von 3×3 um den getroffenen Zombie ab. Er kann bis zu 2 Mal abprallen. Der erste Zombie, der vom Zauberhut getroffen wird, löst einen stärkeren Zeit-Raum-Umkehreffekt aus und wird direkt nach ganz rechts auf den Bildschirm teleportiert.
 
 [HATMUSHROOM_PLANTFOOD_DESCRIPTION]
-疯帽菇会向自身前方距离自身最近的5个僵尸快速扔出5顶自己的帽子，帽子会在僵尸间弹射，每次弹射造成攻击力3倍的伤害，每个帽子至多能弹射2次，每个帽子会将首个目标身上的护盾打破。
+Der Verrückte Hutmacher wirft schnell fünf seiner Hüte auf die fünf Zombies, die ihm am nächsten sind. Die Hüte prallen zwischen Zombies hin und her und verursachen jeweils die dreifache Angriffskraft. Jeder Hut kann bis zu zweimal abprallen und durchbricht den Schild des ersten Ziels.
 
 [HATMUSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-疯帽菇会向自身前方距离自身最近的5个僵尸快速扔出5顶自己的帽子，帽子会在僵尸间弹射，每次弹射造成攻击力3倍的伤害，每个帽子至多能弹射2次，每个帽子会将首个目标身上的护盾打破，^ff0000^对其附加时空倒流效果^oldclr^
+Der verrückte Hutpilz wirft schnell fünf seiner Hüte auf die fünf Zombies, die ihm am nächsten sind. Die Hüte springen zwischen den Zombies hin und her und verursachen jeweils die dreifache Angriffskraft. Jeder Hut kann bis zu zweimal abprallen. Jeder Hut durchbricht den Schild des ersten Ziels und fügt ihm einen Zeit- und Raumumkehreffekt hinzu. ^ff0000^
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在魔法番红花右侧时，对场上最近的僵尸释放魔法光线造成伤害，如果伤害没有击杀僵尸，将其体型缩小25%(对巨人僵尸和僵博无效)，缩小后的僵尸减少50%的移动速度，增加20%受到的伤害，持续5s。
+Wenn ein Zombie rechts vom magischen Safran erscheint, werden magische Strahlen auf den nächsten Zombie auf dem Spielfeld abgefeuert, um Schaden zu verursachen. Wenn der Schaden den Zombie nicht tötet, verringert sich seine Größe um 25 % (gilt nicht für Riesenzombies und Zombies). Der geschrumpfte Zombie verringert seine Bewegungsgeschwindigkeit um 50 % und erhöht den erlittenen Schaden um 20 %. Dieser Effekt hält 5 Sekunden an.
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL2_DES]
-光线击中僵尸后发生折射，对身后三行内的2个僵尸造成伤害，伤害为初始光线的25%，折射后的光线有20%的概率附带缩小效果。
+Das Licht bricht sich, nachdem es den Zombie getroffen hat, und fügt den beiden Zombies in den drei Reihen dahinter Schaden zu (25 % des ursprünglichen Lichts). Das gebrochene Licht schrumpft mit einer Wahrscheinlichkeit von 20 %.
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL3_DES]
-光线击中僵尸后发生折射，对身后三行内的2个僵尸造成伤害，伤害为初始光线的50%，折射后的光线有50%的概率附带缩小效果。
+Das Licht bricht sich, nachdem es den Zombie getroffen hat, und fügt den beiden Zombies in den drei Reihen dahinter Schaden zu (50 % des ursprünglichen Lichts). Das gebrochene Licht schrumpft mit einer Wahrscheinlichkeit von 50 %.
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL5_DES]
-魔法番红花每攻击两次，下一次攻击必定发射出一道强化光线，该光线和折射光线必定附带缩小效果，使僵尸体型缩小50%，且阶数降低1阶。对巨人僵尸无效。
+Jeder Angriff des Magischen Safrans löst beim nächsten Angriff ein verstärkendes Licht aus. Dieses Licht und das gebrochene Licht schrumpfen den Zombie um 50 % und verringern sein Level um 1. Unwirksam gegen Riesenzombies.
 
 [HOCUSCROCUS_PLANTFOOD_DESCRIPTION]
-魔法番红花同时对场上最近的3个僵尸发射光线并在3个僵尸所在位置生成橙黄色迷雾，范围内的僵尸都会受到缩小效果影响，迷雾持续时间为4s。
+Der Magische Safran schießt Strahlen gleichzeitig auf die drei nächstgelegenen Zombies auf dem Feld und erzeugt an deren Position orange-gelben Nebel. Alle Zombies in Reichweite sind vom Schrumpfeffekt betroffen. Der Nebel hält 4 Sekunden an.
 
 [HOCUSCROCUS_AVATAR_PLANTFOOD_DESCRIPTION]
-魔法番红花同时对场上最近的3个僵尸发射光线并在3个僵尸所在位置生成橙黄色迷雾，范围内的僵尸都会受到缩小效果影响，迷雾持续时间^ff0000^为6s。^oldclr^
+Der magische Safran schießt Strahlen gleichzeitig auf die drei nächstgelegenen Zombies auf dem Feld und erzeugt an deren Position orange-gelben Nebel. Alle Zombies in Reichweite werden vom Schrumpfeffekt betroffen. Der Nebel hält ^ff0000^ 6 Sekunden lang an. ^oldclr^
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von Prinzessin Frühlingsgras erscheint, nutzt Prinzessin Frühlingsgras ihr lockiges Haar als Feder, um dem ersten getroffenen Zombie Schaden zuzufügen. Anschließend springt sie zufällig auf ein Gitter um den Zombie herum und bildet eine kleine Feder, die dem ersten Zombie, der darauf tritt, einen Rückstoßeffekt von einem Gitter verursacht. Der Effekt hat keinen Einfluss auf das Pflanzen und wird nur von Zombies ausgelöst.
@@ -73303,25 +73317,25 @@ Die Erbsenapothekerin wirft eine Flasche Trank auf die drei Zombies in ihrer Nä
 Die Erbsenapothekerin wirft eine Flasche Schattentrank auf die drei Zombies, die ihr am nächsten sind^ff0000^ und verwandelt sie in Schattenerbsen^oldclr^ oder fügt Zombies, die nicht verwandelt werden können, Schaden zu.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在右侧时，会潜入地底在僵尸脚下钻出并造成伤害，如果是小型僵尸则直接击飞。攻击后会留下1个持续5秒的坑洞，秒杀首个经过的僵尸后被填平。该秒杀无阶数限制。
+Wenn rechts ein Zombie erscheint, taucht er in den Boden ein und kommt unter seinen Füßen hervor, um Schaden zu verursachen. Handelt es sich um einen kleinen Zombie, wird er direkt weggestoßen. Nach dem Angriff hinterlässt er eine Grube, die 5 Sekunden lang bestehen bleibt. Sie füllt sich, sobald der erste vorbeikommende Zombie getötet wurde. Die Anzahl der Stufen dieses Sofortkills ist unbegrenzt.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL2_DES]
-双生卯兔顶飞攻击的力度增大，现在可以击飞中型僵尸了。
+Die Flugangriffskraft des Zwillingskaninchens wurde erhöht, sodass er nun mittelgroße Zombies wegstoßen kann.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL3_DES]
-双生卯兔的休息时间缩短至13秒。
+Die Ruhezeit des Zwillingskaninchens wurde auf 13 Sekunden verkürzt.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, den Energiebohnen-Big-Move direkt freizusetzen!
 
 [JEWELRABBIT_NEW_SKILL_LEVEL5_DES]
-攻击时2只兔子会一同钻入地下，在第一只兔子将僵尸顶飞后，第二只兔子跳出击退右侧的中小型僵尸2格并造成最大生命值10%的伤害。如果第二只兔子攻击时没有僵尸，则取消攻击并缩短50%的休息时间。
+Beim Angriff graben sich die beiden Kaninchen gemeinsam in den Boden. Nachdem das erste Kaninchen den Zombie weggestoßen hat, springt das zweite Kaninchen hervor, stößt die kleinen und mittleren Zombies rechts um zwei Felder zurück und verursacht 10 % des maximalen Gesundheitswerts an Schaden. Befindet sich beim Angriff des zweiten Kaninchens kein Zombie, wird der Angriff abgebrochen und die Ruhezeit um 50 % verkürzt.
 
 [JEWELRABBIT_PLANTFOOD_DESCRIPTION]
-双生卯兔潜入地底，随后在右侧3×3范围内连续钻出6次，击飞中小型僵尸并对大型僵尸造成伤害。该秒杀无阶数限制。
+Die beiden Kaninchen graben sich in den Boden und graben sich dann sechsmal hintereinander innerhalb eines 3×3-Bereichs rechts wieder aus. Dabei stoßen sie kleine und mittlere Zombies weg und fügen großen Zombies Schaden zu. Die Anzahl der Stufen für diesen Sofortkill ist unbegrenzt.
 
 [JEWELRABBIT_AVATAR_PLANTFOOD_DESCRIPTION]
-双生卯兔潜入地底，随后在^ff0000^右侧5×5范围^oldclr^内连续钻出6次，击飞中小型僵尸并对大型僵尸造成伤害。该秒杀无阶数限制。
+Die Kaninchenzwillinge graben sich in den Boden und graben sich dann sechsmal hintereinander innerhalb eines 5×5-Bereichs rechts von ^ff0000^^oldclr^ wieder aus. Sie stoßen kleine und mittlere Zombies weg und fügen großen Zombies Schaden zu. Die Anzahl der Stufen für diesen sofortigen Kill ist unbegrenzt.
 
 [LANCERHOYA_NEW_SKILL_LEVEL1_DES]
 Wenn rechts ein Zombie erscheint, wird der Speer nach rechts geworfen, um ihm Schaden zuzufügen. Alle 20 Sekunden lädt die Pflanze die Pflanze vollständig auf, und ein goldenes Licht erscheint auf ihrem Körper. Klicke darauf und nimm mit dem Speer einen kleinen Zombie im Umkreis von zwei Feldern rechts auf. Stiche ihn 1,5 Sekunden lang in der Luft und verursache 1000 Schaden.
@@ -73345,180 +73359,179 @@ Die Lanzen Wachsblume hebt seinen Speer an die Spitze seines Kopfes und wirbelt 
 Die Lanzen Wachsblume hebt seinen Speer an die Spitze seines Kopfes und wirbelt ihn schnell herum. Dadurch werden die Zombies im Umkreis von 5×5 um ^oldclr^ ein Feld nach rechts gezogen und verursachen kontinuierlich Schaden. ^ff0000^ Abschließend fügt er einen Bodenschlag hinzu, der hohen Schaden verursacht. ^oldclr^
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL1_DES]
-每间隔20秒伸出触手将1x3范围的1只僵尸拖入地底，消化结束后花苞进入开放状态；花苞开放后，当本行出现僵尸，发射一道光线攻击前方所有僵尸造成400点伤害；种植海葵后左上角出现裂缝，裂缝在经过一段时间后裂开出现眼球，点击眼球释放光线对全场僵尸造成伤害，植物本体吞食的僵尸越多，眼球造成的伤害越高。该秒杀无阶数限制。
+Alle 20 Sekunden streckt die Pflanze ihre Tentakeln aus und zieht einen Zombie im Umkreis von 1x3 in den Boden. Nach der Verdauung öffnet sich die Knospe. Sobald Zombies in derselben Reihe erscheinen, schießt sie einen Strahl ab, der alle Zombies vor ihnen angreift und 400 Schaden verursacht. Nach dem Einpflanzen der Anemone erscheint in der oberen linken Ecke ein Riss. Nach einiger Zeit öffnet sich der Riss und ein Augapfel erscheint. Klicke auf den Augapfel, um einen Strahl abzufeuern, der allen Zombies im Feld Schaden zufügt. Je mehr Zombies die Pflanze frisst, desto höher ist der Schaden, den der Augapfel verursacht. Die Anzahl der Level für diesen Sofortkill ist unbegrenzt.
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL2_DES]
-消化时间减少至15秒，消化结束后花苞进入开放状态，攻击力上升至60/发&600。
+Die Verdauungszeit wird auf 15 Sekunden reduziert. Nach der Verdauung öffnet sich die Knospe und die Angriffskraft steigt auf 60/Schuss & 600.
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL3_DES]
-消化时间减少至10秒，消化结束后花苞进入开放状态，攻击力上升至80/发&800。
+Die Verdauungszeit verkürzt sich auf 10 Sekunden. Nach der Verdauung öffnet sich die Knospe und die Angriffskraft steigt auf 80/Schuss & 800.
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, die Energiebohne direkt freizusetzen!
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL5_DES]
-花苞射出光线对僵尸造成伤害，将接触到的第一个中小体型僵尸变为我方的僧侣僵尸（变形后的僵尸阶数上限为5阶），攻击力上升至120/发&1200。
+Die Blütenknospe schießt Strahlen ab, die Zombies Schaden zufügen. Der erste kleine oder mittelgroße Zombie, den sie berührt, verwandelt sich in einen freundlichen Mönchszombie (die Obergrenze für die verwandelte Zombiestufe liegt bei 5). Die Angriffskraft steigt auf 120/Schuss und 1200.
 
 [CTHULHUACTINIA_PLANTFOOD_DESCRIPTION]
-前方3x3范围内每格生成一只触手，每只触手拉取1只僵尸，最多拉取4只僵尸进入地底直接消化，未被吞食的僵尸造成对应攻击力的伤害。该秒杀无阶数限制。
+In jedem Raster im 3x3-Bereich vor dir wird ein Tentakel erzeugt. Jeder Tentakel zieht einen Zombie an sich. Bis zu 4 Zombies werden zur direkten Verdauung in den Boden gezogen. Die nicht verschluckten Zombies verursachen Schaden entsprechend der Angriffskraft. Für diesen sofortigen Kill gibt es keine Stufenbegrenzung.
 
 [CTHULHUACTINIA_AVATAR_PLANTFOOD_DESCRIPTION]
-前方3x3范围内每格生成一只触手，每只触手拉取1只僵尸，最多拉取5只僵尸进入地底直接消化，未被吞食的僵尸造成击退和对应攻击力的伤害。该秒杀无阶数限制。
+In jedem Raster im 3x3-Bereich vor dir wird ein Tentakel erzeugt. Jeder Tentakel zieht einen Zombie (bis zu fünf) in den Boden, um ihn direkt zu verdauen. Nicht gefressene Zombies verursachen Rückstoß und Schaden entsprechend der Angriffskraft. Die Anzahl der Stufen dieses Sofortkills ist unbegrenzt.
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL1_DES]
-攻击时从植物母体中飞出一只深渊使徒，锁定本行距离植物右侧最近的中小型僵尸抱住攻击并吸取能量持续1.5秒，随后返回母体供给能量；使徒不会将障碍物，巨人僵尸，机械僵尸，僵尸博士视为攻击目标；种植魔爪花后左上角出现裂缝，待裂缝裂开后出现眼球，点击眼球对全场僵尸造成伤害，植物吸收能量越多，眼球造成的伤害越高
+Beim Angriff fliegt ein Abyss-Apostel aus dem Mutterkörper der Pflanze hervor, umklammert die kleinen und mittelgroßen Zombies rechts neben der Pflanze, umarmt sie und greift sie an. Er absorbiert 1,5 Sekunden lang Energie und kehrt dann zum Mutterkörper zurück, um Energie zu liefern. Hindernisse, Riesenzombies, mechanische Zombies und Zombie-Ärzte werden vom Apostel nicht als Angriffsziele angesehen. Nach dem Pflanzen der Klauenblume erscheint in der oberen linken Ecke ein Riss, und hinter dem Riss erscheint ein Augapfel. Klicke auf den Augapfel, um allen Zombies auf dem Feld Schaden zuzufügen. Je mehr Energie die Pflanze absorbiert, desto höher ist der Schaden, den der Augapfel verursacht.
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL2_DES]
-左上角奇怪的裂缝完全裂开所需时间减少至45秒
+Die Zeit, die der seltsame Riss in der oberen linken Ecke benötigt, um vollständig zu knacken, wird auf 45 Sekunden reduziert.
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL3_DES]
-左上角奇怪的裂缝完全裂开所需时间减少至30秒
+Die Zeit, die der seltsame Riss in der oberen linken Ecke benötigt, um vollständig zu knacken, wird auf 30 Sekunden reduziert.
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen.
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL5_DES]
-植物母体有50%概率飞出进化后的深渊使徒，抱住僵尸持续3秒，造成2次攻击，期间僵尸无法行动，并将目标僵尸吸干永久变为干尸僵尸，转变后的僵尸阶数降低2阶（最低为1阶）
+Die Pflanze hat eine 50%ige Chance, einen weiterentwickelten Abyss-Apostel auszufliegen, der den Zombie 3 Sekunden lang umklammert und zwei Angriffe ausführt, während derer sich der Zombie nicht bewegen kann. Der Zielzombie wird ausgesaugt und dauerhaft in einen Mumienzombie verwandelt. Die Stufe des verwandelten Zombies wird um zwei Stufen reduziert (die niedrigste ist Stufe 1).
 
 [DEVILSFLOWER_PLANTFOOD_DESCRIPTION]
-植物向前方吐出一个卵，从卵中生出使徒巨人僵尸，使徒巨人僵尸向右侧移动，对遇到的敌方僵尸进行攻击，使徒巨人僵尸死亡后，在原地留下一滩酸液，持续10S，踩在上面的僵尸将会被减速
+Die Pflanze spuckt ein Ei nach vorne aus, aus dem ein riesiger Apostelzombie geboren wird. Der riesige Apostelzombie bewegt sich nach rechts und greift die gegnerischen Zombies an, denen er begegnet. Nach seinem Tod hinterlässt er 10 Sekunden lang eine Säurepfütze an der Stelle, die Zombies, die darauf treten, verlangsamt.
 
-[DEVILSFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-植物向前方吐出一个卵，从卵中生出^ff0000^使徒首领巨人僵尸^oldclr^，具有更高的生命值和攻击力，使徒首领巨人僵尸向右侧移动，对遇到的敌方僵尸进行攻击，攻击时有40%的概率朝前方3*3格子范围内的一个僵尸位置吐出酸液，酸液范围为1*1，持续10秒，踩在上面的僵尸将会被减速，使徒首领巨人僵尸死亡后，也会在原地留下一滩酸液
-
+[DEVILSFLOWER_AVA TAR_PLANTFOOD_DESCRIPTION]
+Die Pflanze spuckt ein Ei nach vorne aus, aus dem ein riesiger Apostelzombie^oldclr^ mit höherer Gesundheit und Angriffskraft geboren wird. Der riesige Apostelzombie bewegt sich nach rechts und greift die gegnerischen Zombies an, denen er begegnet. Beim Angriff besteht eine 40%ige Chance, Säure auf eine Zombieposition innerhalb des 3x3-Rasters vor ihm zu spucken. Die Säurereichweite beträgt 1 x 1 und hält 10 Sekunden an. Zombies, die darauf treten, werden verlangsamt. Nach dem Tod des riesigen Zombies des Apostelführers bleibt an der ursprünglichen Stelle eine Säurelache zurück.
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在右侧1格时，会挥棒对所有僵尸造成伤害和轻微的击退。如果有豌豆子弹经过时，则会将豌豆向右打出：50%概率打出直线球，使豌豆子弹的伤害翻倍；50%的概率打出曲线球，命中本行最右侧的僵尸并使其^848484^眩晕Ⅰ^oldclr^2秒。
+Erscheint der Zombie ein Feld weiter rechts, schwingt er seinen Stock, um allen Zombies Schaden zuzufügen und sie leicht zurückzustoßen. Fliegt ein Erbsengeschoss vorbei, wird die Erbse nach rechts geschossen: 50 % Chance auf einen geraden Ball, der den Schaden des Erbsengeschosses verdoppelt; 50 % Chance auf einen Kurvenball, der den Zombie ganz rechts in der Reihe trifft und ihn für ^848484^oldclr^2 Sekunden betäubt.
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL2_DES]
-牛蒡击球手挥棒力度加强，使直线球可击退僵尸0.5格，曲线球的^848484^眩晕Ⅰ^oldclr^时间增加1秒。
+Der Schwung des Kletten-Schlagmanns ist stärker, sodass der gerade Ball Zombies 0,5 Felder weit zurückschlagen kann. Die ^848484^stunⅠ^oldclr^-Zeit des Kurvenballs erhöht sich um 1 Sekunde.
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL3_DES]
-强力挥棍的技能效果提升100%，使直线球可击退僵尸1格，曲线球的^848484^眩晕Ⅰ^oldclr^时间增加2秒。
+Der Fertigkeitseffekt des starken Schwungs ist um 100 % erhöht, sodass der gerade Ball Zombies 1 Feld weit zurückschlagen kann. Die ^848484^stunⅠ^oldclr^-Zeit des Kurvenballs erhöht sich um 2 Sekunden.
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einsetzen besteht eine mittlere Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL5_DES]
-击球时有10%概率打出本垒打，豌豆子弹会飞出场外，随后变成陨石砸向最左侧的僵尸，造成单格的范围的、豌豆子弹5倍的伤害并^848484^眩晕Ⅰ^oldclr^4秒。
+Beim Schlagen besteht eine 10%ige Chance auf einen Homerun. Die Erbsenkugel fliegt vom Feld und verwandelt sich dann in einen Meteoriten, der den Zombie ganz links trifft. Sie verursacht im Bereich eines einzelnen Gitters den fünffachen Schaden der Erbsenkugel und dauert ^848484^BetäubungⅠ^oldclr^4 Sekunden.
 
 [BURDOCKBATTER_PLANTFOOD_DESCRIPTION]
-进入热力状态，强化下次挥棒：对僵尸造成伤害和^848484^眩晕Ⅰ^oldclr^，并击飞中小型僵尸；如果有豌豆子弹经过，则会打出强力直线球，对直线范围内的僵尸造成伤害和眩晕，并击飞中小型僵尸。可秒杀僵尸的阶数一般不超过植物本身阶数的2倍。
+Gehe in den Hitzezustand und verstärke den nächsten Schlag: Verursache Schaden und ^848484^BetäubungⅠ^oldclr^ bei Zombies und stoße kleine und mittelgroße Zombies weg. Fliegt eine Erbsenkugel vorbei, trifft sie einen starken, geraden Ball, der Zombies im Bereich der geraden Linie Schaden und Betäubung zufügt und kleine und mittelgroße Zombies wegstößt. Die Stufe der Zombies, die sofort getötet werden können, ist in der Regel nicht höher als die doppelte Stufe der Pflanze selbst.
 
 [BURDOCKBATTER_AVATAR_PLANTFOOD_DESCRIPTION]
-进入热力状态，强化下次挥棒：对僵尸造成伤害和^848484^眩晕Ⅰ^oldclr^，并击飞中小型僵尸；如果有豌豆子弹经过，^ff0000^则会打出3个强力直线球，向右侧、右上和右下飞行，^oldclr^穿透僵尸造成伤害和眩晕，并击飞中小型僵尸。该秒杀无阶数限制。
+Gehe in den Hitzezustand und verstärke den nächsten Schlag: Füge Zombies Schaden zu und betäube sie, während kleine und mittlere Zombies weggeschleudert werden. Fliegt eine Erbsenkugel vorbei, trifft sie drei mächtige, gerade Kugeln, die nach rechts, oben rechts und unten rechts fliegen. Sie durchdringen Zombies, verursachen Schaden und betäuben sie, während kleine und mittlere Zombies weggeschleudert werden. Die Stufenanzahl für diesen Sofortkill ist unbegrenzt.
 
 [VAMPORCINI_NEW_SKILL_LEVEL1_DES]
-在种植吸血牛肝菌后立即释放持续6秒的蝙蝠和毒雾，对周围3×3范围的僵尸造成伤害。技能结束后提升100%的生命值上限。当植物死亡时，会将蝙蝠释放出来，对周围3×3的僵尸造成伤害。
+Unmittelbar nach dem Pflanzen des Vampir-Steinpilzes werden Fledermäuse und Giftnebel freigesetzt, die 6 Sekunden lang anhalten und Zombies im Umkreis von 3×3 Schaden zufügen. Nach Ablauf der Fertigkeit erhöht sich die maximale Lebensgrenze um 100 %. Sobald die Pflanze stirbt, werden die Fledermäuse freigelassen, die den umliegenden 3×3-Zombies Schaden zufügen.
 
 [VAMPORCINI_NEW_SKILL_LEVEL2_DES]
-每隔30秒会释放蝙蝠和毒雾，对周围3×3的僵尸造成伤害。
+Alle 30 Sekunden werden Fledermäuse und Giftnebel freigesetzt, die den Zombies im umliegenden 3×3-Bereich Schaden zufügen.
 
 [VAMPORCINI_NEW_SKILL_LEVEL3_DES]
-每隔20秒会释放蝙蝠和毒雾，对周围3×3的僵尸造成伤害。
+Sendet alle 20 Sekunden Fledermäuse und Giftnebel aus und fügt Zombies in einem 3×3 großen Umkreis Schaden zu.
 
 [VAMPORCINI_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, die Energiebohne direkt freizusetzen!
 
 [VAMPORCINI_NEW_SKILL_LEVEL5_DES]
-受到致命伤害后不会死亡，而是埋入地下等待周围蝙蝠持续时间结束后重新复活，复活后恢复所有生命值。
+Nach tödlichem Schaden stirbt er nicht, sondern wird unter der Erde vergraben und wartet, bis die Wirkungsdauer der umgebenden Fledermäuse abgelaufen ist, bevor er wiederbelebt wird. Nach der Wiederbelebung werden alle Lebenspunkte wiederhergestellt.
 
 [VAMPORCINI_PLANTFOOD_DESCRIPTION]
-吸血牛肝菌立即恢复满生命值并披上1个具有12000点生命值的吸血鬼斗篷。
+Vampir-Steinpilz stellt sofort seine volle Gesundheit wieder her und legt einen Vampirmantel mit 12.000 Lebenspunkten an.
 
 [VAMPORCINI_AVATAR_PLANTFOOD_DESCRIPTION]
-吸血牛肝菌立即恢复满生命值并披上1个^ff0000^更大的、具有18000点生命值的吸血鬼斗篷。^oldclr^
+Vamporpoise stellt sofort seine Gesundheit vollständig wieder her und legt einen ^ff0000^ größeren Vampirumhang mit 18.000 Lebenspunkten an. ^oldclr^
 
 [PUMPKIN_NEW_SKILL_LEVEL1_DES]
-南瓜头作为藤蔓类植物可以附生种植在主植物之上，提供高生命值的保护。南瓜头单次被攻击最高损失50%的生命值。
+Kürbisköpfe können als Ranken auf Hauptpflanzen gepflanzt werden und bieten so hohen Gesundheitsschutz. Kürbisköpfe verlieren bei einem Angriff bis zu 50 % ihrer Gesundheit.
 
 [PUMPKIN_NEW_SKILL_LEVEL2_DES]
-南瓜头内部装有糖果，糖果能被防御类植物吸收并提高500点生命值上限。
+Kürbisköpfe sind mit Bonbons gefüllt, die von Abwehrpflanzen absorbiert werden können und deren Gesundheitslimit um 500 Punkte erhöhen.
 
 [PUMPKIN_NEW_SKILL_LEVEL3_DES]
-南瓜头内部塞满糖果，糖果能被防御类植物吸收并提高1000点生命值上限。
+Kürbisköpfe sind mit Bonbons gefüllt, die von Abwehrpflanzen absorbiert werden können und deren Gesundheitslimit um 1.000 Punkte erhöhen.
 
 [PUMPKIN_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohnen-Fähigkeit direkt freizusetzen!
 
 [PUMPKIN_NEW_SKILL_LEVEL5_DES]
-南瓜头死亡时发生爆炸，对1×2范围内的僵尸造成1000伤害并击退中小体型僵尸1格。
+Wenn der Kürbiskopf stirbt, explodiert er und verursacht 1000 Schaden an Zombies im Umkreis von 1×2. Kleine und mittelgroße Zombies werden um 1 Gitter zurückgeworfen.
 
 [PUMPKIN_PLANTFOOD_DESCRIPTION]
-南瓜头立刻外壳硬化，恢复生命值并穿上一层坚硬的钢铁盔甲，能够阻挡僵尸的啃食。
+Der Kürbiskopf härtet sofort seine Schale, regeneriert seine Gesundheit und legt eine Schicht aus hartem Stahlpanzer an, die dem Nagen von Zombies standhält.
 
 [PUMPKIN_AVATAR_PLANTFOOD_DESCRIPTION]
-南瓜头立刻外壳硬化，恢复生命值并穿上一层^ff0000^更加坚硬的水晶盔甲，能够抵挡更久的僵尸啃食。^oldclr^
+Der Kürbiskopf härtet sofort seine Schale, regeneriert seine Gesundheit und legt eine Schicht aus ^ff0000^ härterem Kristallpanzer an, die dem Nagen von Zombies länger standhält. ^oldclr^
 
 [GERANIIFENCER_NEW_SKILL_LEVEL1_DES]
-普通攻击会在将自身前移一格后攻击和后撤攻击的两种攻击模式间切换，可使巨人僵尸的攻击打空。
+Normale Angriffe wechseln zwischen zwei Angriffsmodi: Angriff nach einem Feld Vorwärtsbewegung und Angriff nach Rückzug. Dadurch kann der Angriff des Riesenzombie fehlschlagen.
 
 [GERANIIFENCER_NEW_SKILL_LEVEL2_DES]
-使前冲攻击有60%的概率触发强力刺击，对小型僵尸造成短距离的击退0.1格。
+Vorwärtsangriffe haben eine 60%ige Chance, einen starken Stich auszulösen, der kleine Zombies auf kurze Distanz um 0,1 Felder zurückstößt.
 
 [GERANIIFENCER_NEW_SKILL_LEVEL3_DES]
-强力冲锋的强力刺击的击退对中型僵尸也生效。
+Der Rückstoß des starken Stichs des starken Angriffs wirkt auch bei mittelgroßen Zombies.
 
 [GERANIIFENCER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine mittlere Chance, die Energiebohne direkt freizusetzen – große Bewegung!
 
 [GERANIIFENCER_NEW_SKILL_LEVEL5_DES]
-每隔一段时间可将一次前冲攻击变为跳劈，对僵尸造成大量伤害并^848484^眩晕Ⅰ^oldclr^，如果击中巨人僵尸可秒杀其背后的小鬼僵尸。
+Gelegentlich kannst du einen Vorwärtsangriff in einen Sprungangriff umwandeln, der Zombies schweren Schaden zufügt und ^848484^betäubt Ⅰ^oldclr^. Triffst du einen riesigen Zombie, kannst du den kleinen Geisterzombie dahinter sofort töten.
 
 [GERANIIFENCER_PLANTFOOD_DESCRIPTION]
-向四周地面划出一道五芒星，对3×3范围内的僵尸造成伤害。
+Zeichne ein Pentagramm auf den Boden um dich herum, das Zombies im Umkreis von 3×3 Schaden zufügt.
 
 [GERANIIFENCER_AVATAR_PLANTFOOD_DESCRIPTION]
-向四周地面划出一道五芒星，对3×3范围内的僵尸造成伤害，^ff0000^结束后还会额外造成一次伤害并使僵尸浮空。^oldclr^
+Zeichne ein Pentagramm auf den Boden um dich herum, das Zombies im Umkreis von 3×3 Schaden zufügt. ^ff0000^Nach dem Ende verursacht es zusätzlichen Schaden und lässt den Zombie in der Luft schweben. ^oldclr^
 
 [DEODARCEDAR_NEW_SKILL_LEVEL1_DES]
-每隔4秒吸收1次电能，如果周围3×3有电系植物则能额外吸取电能，并会根据当前储存的电量改变形态。当僵尸出现在右侧时，会消耗所有电能发出向右飞行的电环，电环每秒落下3道雷对范围内的僵尸造成伤害。电环大小、落雷伤害和落雷次数随电能提升而提升。
+Absorbiert alle 4 Sekunden Elektrizität. Befinden sich im umgebenden 3×3-Bereich elektrische Pflanzen, kann der Effekt zusätzliche Elektrizität absorbieren und seine Form entsprechend der aktuell gespeicherten Elektrizität verändern. Erscheint rechts ein Zombie, verbraucht dieser die gesamte Elektrizität und sendet einen elektrischen Ring nach rechts aus. Dieser erzeugt drei Donnerschläge pro Sekunde, die den Zombies in der Umgebung Schaden zufügen. Größe, Schaden und Anzahl der Donnerschläge nehmen mit zunehmender Elektrizität zu.
 
 [DEODARCEDAR_NEW_SKILL_LEVEL2_DES]
-当植物攻击时，释放出的电环能额外给范围内的电系植物附加15%的攻击力加成，持续10秒。
+Wenn die Pflanze angreift, verleiht der freigesetzte elektrische Ring den elektrischen Pflanzen in der Umgebung 10 Sekunden lang einen zusätzlichen Angriffskraftbonus von 15 %.
 
 [DEODARCEDAR_NEW_SKILL_LEVEL3_DES]
-电能加成的技能效果提升100%，攻击力加成提升至30%。
+Der Fertigkeitseffekt des elektrischen Energiebonus wird um 100 % und der Angriffskraftbonus um 30 % erhöht.
 
 [DEODARCEDAR_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [DEODARCEDAR_NEW_SKILL_LEVEL5_DES]
-落雷有50%的概率变为对单格范围内所有僵尸造成伤害的雷柱，伤害提升至普通落雷的2.5倍。
+Es besteht eine 50-prozentige Chance, dass sich ein Blitz in eine Blitzsäule verwandelt, die allen Zombies in einem einzigen Raster Schaden zufügt. Dadurch erhöht sich der Schaden auf das 2,5-fache eines normalen Blitzes.
 
 [DEODARCEDAR_PLANTFOOD_DESCRIPTION]
-蓄电雪松果吸收全场所有电系植物的电能，并将能量转化为高能电环向右发出，每秒落下3道雷并有概率^ff9600^麻痹Ⅰ^oldclr^僵尸。电环大小随吸收电能的数量提升而变大。
+Der elektrische Zedernkegel absorbiert die elektrische Energie aller elektrischen Pflanzen im Feld und wandelt sie in einen hochenergetischen elektrischen Ring um, der nach rechts ausgesandt wird. Er schleudert drei Blitze pro Sekunde und hat die Chance, Ⅰ^oldclr^ Zombies zu lähmen. Die Größe des elektrischen Rings nimmt mit der absorbierten elektrischen Energiemenge zu.
 
 [DEODARCEDAR_AVATAR_PLANTFOOD_DESCRIPTION]
-蓄电雪松果吸收全场所有电系植物的电能，并将能量转化为高能电环向右发出，每秒落下3道雷并有概率^ff9600^麻痹Ⅰ^oldclr^僵尸，^ff0000^落雷会向扩散出电弧造成伤害^oldclr^。电环和^ff0000^电弧^oldclr^大小随吸收电能的数量提升而变大。
+Der elektrische Zedernkegel absorbiert die elektrische Energie aller elektrischen Pflanzen im Feld, wandelt sie in einen energiereichen elektrischen Ring um und sendet ihn nach rechts. Er schleudert drei Blitze pro Sekunde und hat eine Wahrscheinlichkeit von ^ff9600^, Zombies zu lähmen. ^ff0000^ Die Blitze breiten sich in Bögen aus und verursachen Schaden^oldclr^. Die Größe des elektrischen Rings und des ^ff0000^ Bogens^oldclr^ nimmt mit der Menge der absorbierten elektrischen Energie zu.
 
 [ACTIVITY_NEW_PLAYER_SURVEY_DESC]
-参加问卷调查，回答问题，领取钻石与装扮券奖励
+Nehmen Sie an der Umfrage teil, beantworten Sie Fragen und erhalten Sie Diamanten und Verkleidungsgutscheine als Belohnung.
 
 [ACTIVITY_NEW_PLAYER_SURVEY_REWARD_TITLE]
-可能获得的奖励
+Mögliche Belohnungen
 
 [ACTIVITY_NEW_PIGGY_BANK_DESC]
-购买小蛇存钱罐，畅享^ff0000^9.9^oldclr^倍钻石返利，最高返还^ff0000^2970^oldclr^钻石
+Kaufen Sie ein kleines Schlangen-Sparschwein und sichern Sie sich den ^ff0000^9,9^oldclr^-fachen Diamantenrabatt. Maximal erhalten Sie ^ff0000^2970^oldclr^ Diamanten zurück.
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
-30元购买
+Kaufen Sie für 30 Yuan.
 
 [ACTIVITY_NEW_PIGGY_BANK_TITLE]
-七天签到
+Sieben Tage Anmeldung
 
 [ACTIVITY_NEW_RECHARGEDAILYSIGN_DESC]
-每日签到可得^00FF00 丰厚奖励 ^oldclr，每日充值任意金额，还可以获得^00FF00 高级奖励 ^oldclr！
+Melden Sie sich täglich an, um ^00FF00 großzügige Belohnungen ^oldclr. Lade täglich einen beliebigen Betrag auf und erhalte außerdem ^00FF00 erweiterte Belohnungen ^oldclr!
 
 [ACTIVITY_NEW_RICHMAN_DESC]
-参与文艺大剧院，赢取
-换取各种稀有奖励
+Nehmen Sie am Kulturtheater teil und gewinnen Sie
+Tauschen Sie sie gegen verschiedene seltene Belohnungen ein.
 
 [ACTIVITY_NEW_DISCOUNTSHOP_DESC]
-充值任意金额即可购买当日折扣奖池内道具
+Laden Sie einen beliebigen Betrag auf, um Artikel im Rabattpool des Tages zu kaufen.
 
 [ACTIVITY_NEW_VASEBREAKER_DESC]
-参与破罐大师活动，稀有植物奖励等你来领！
+Nehmen Sie am Jar Breaker-Event teil – seltene Pflanzenbelohnungen warten auf Sie!
 
 [INVATATION_TITLE]
 Geschenkeinladung
