@@ -21984,13 +21984,13 @@ Er stürzt erst ein, wenn beide Kabinen zerstört sind.
 {FLAVOR} Der Zweikabinen-Flug-Zombie träumt von einer Weltreise und der Eroberung der Welt. Doch die beiden Brüder haben sich nie auf ein Abenteuer geeinigt. „Ich kann mich mit so einem Idioten nicht verständigen!“, beklagen sie sich ständig gegenseitig.
 
 [ZOMBIE_SKYCITY_GGTIMP]
-Fliegender Zombie-Kobold
+Fliegender Zombie-Wicht
 
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION_HEADER]
-Ein Zombie-Kobold, spezialisiert auf Landeoperationen.
+Ein Zombie-Wicht, spezialisiert auf Landeoperationen.
 
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION]
-{FLAVOR} Der fliegende Zombie-Kobold zögerte einst, eine Karriere als Flieger anzustreben. Doch als er im Fliegerladen eine Schutzbrille fand, die ihn faszinierte, wollte er sie nie wieder abnehmen. Pilot zu werden, nur um eine Schutzbrille zu tragen, klingt zwar blöd, aber man muss zugeben, die Schutzbrille ist wirklich toll.
+{FLAVOR} Der fliegende Zombie-Wicht zögerte einst, eine Karriere als Flieger anzustreben. Doch als er im Fliegerladen eine Schutzbrille fand, die ihn faszinierte, wollte er sie nie wieder abnehmen. Pilot zu werden, nur um eine Schutzbrille zu tragen, klingt zwar blöd, aber man muss zugeben, die Schutzbrille ist wirklich toll.
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER]
 Raketen-Zombie
@@ -22551,7 +22551,7 @@ Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 {SAGEN:zombossicon}Leider wird dich der verlorene Riesenzombie töten!
 
 [NARRATIVE_LOSTCITY_16_INTRO_3]
-{SAY:zombossicon}Sie tragen Kobold-Zombies. Kobold-Zombies! Mach dich bereit, in die Geschichte einzugehen!
+{SAY:zombossicon}Sie tragen Wicht-Zombies. Wicht-Zombies! Mach dich bereit, in die Geschichte einzugehen!
 
 [NARRATIVE_LOSTCITY_16_INTRO_4]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEWUNDERT:crazydave}Ich wünschte, jemand würde mich zu einem kleinen Haus bringen.
@@ -22560,7 +22560,7 @@ Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 {SAY:winnie}Ich wünsche mir so vieles, Dave. Aber das ist nicht das, was ich will.
 
 [NARRATIVE_LOSTCITY_17_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Alarm, Dave! Meine Detektoren haben die verlorenen Kobold-Träger geortet.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Alarm, Dave! Meine Detektoren haben die verlorenen Wicht-Träger geortet.
 
 [NARRATIVE_LOSTCITY_17_INTRO_2]
 {EXCITED:crazydave}Verlorene Wichtelträger? Bringen sie coole Sachen mit?
@@ -29716,7 +29716,7 @@ Demo
 {SAY:ZOMBOSSICON}Riesenfaultier-Zombie zerschmettert! Zerschmettere deine zitternden kleinen Pflanzen!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_4]
-{SAY:ZOMBOSSICON}Riesenfaultier-Zombies bringen eine Plage prähistorischer Kobold-Zombies!
+{SAY:ZOMBOSSICON}Riesenfaultier-Zombies bringen eine Plage prähistorischer Wicht-Zombies!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_5]
 {SAY:ZOMBOSSICON}Ich wünsche dir einen schlechten Tag. Mit freundlichen Grüßen, Dr. Zombihead
@@ -50905,7 +50905,7 @@ Wie alle Wichtelzombie taucht auch der römische Wichtelzombie immer dort auf, w
 Römischer Riesenzombie
 
 [ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION]
-Helm tragen, mit Zombie-Kobolden und Netzen um sich werfen – das ist ein echter Job.
+Helm tragen, mit Zombie-Wichten und Netzen um sich werfen – das ist ein echter Job.
 
 [ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION_HEADER]
 Er scheut sich nie, seine Säule zu benutzen.
@@ -51078,7 +51078,7 @@ Das Kendama in seiner Hand wiegt 500 Kilogramm.
 
 [ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Schaden: {STAT}Zerschmettert Pflanzen mit dem Kendama.
-{KEYWORD}Funktionen: {STAT}Wirft Ninja-Kobold-Zombies bei Schaden aus.
+{KEYWORD}Funktionen: {STAT}Wirft Ninja-Wicht-Zombies bei Schaden aus.
 
 {FLAVOR}Riesiger Zombiegeneral ist der Anführer der Samurai-Zombies in diesem Gebiet. Wenn Dr. Zombie nicht da ist, führt er die anderen Samurai-Zombies zum Gehirnsammeln an. Das Kendama in seiner Hand ist ein Spielzeug, mit dem er seit seiner Kindheit spielt. Natürlich hat sich auch seine Größe mit zunehmendem Alter verändert.
 
@@ -51092,10 +51092,10 @@ Er begann als Sushi-Koch im Fu Nao Mountain Restaurant, und sein Sushi ist bei Z
 Obwohl das Sushi von Sushi-Koch Zombie den Hunger der Zombies nach Gehirnen nicht stillen kann, übt es dennoch eine tödliche Anziehungskraft auf sie aus.
 
 [ZOMBIE_HEIAN_NINJA]
-Ninja-Kobold Zombie
+Ninja-Wicht Zombie
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION]
-Ninja-Kobold Zombie benutzt oft Rauchbomben, um alle auf sein Kommen aufmerksam zu machen!
+Ninja-Wicht Zombie benutzt oft Rauchbomben, um alle auf sein Kommen aufmerksam zu machen!
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
 Der Kugelfisch in den Händen des Ninja-Wichtel-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
@@ -56640,7 +56640,7 @@ Spalte mit dem Intervall lokalisiert
 Anzahl der Zombies
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_TEXT]
-(Jede Sekunde erscheint ein Kobold-Zombie, alle übrigen nach 4 Sekunden.)
+(Jede Sekunde erscheint ein Wicht-Zombie, alle übrigen nach 4 Sekunden.)
 
 [LEVEL_EDITOR_WAVE_EVENT_RAIDING_PARTY_TITLE]
 Einstellungen für Piraten-Enter-Events
@@ -65998,7 +65998,7 @@ Fluchkarten zufällig in Spieler einteilen
 Erzeugt einen Hurrikan.
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_5]
-Beschwört Kobold-Zombies und Riesen-Zombies.
+Beschwört Wicht-Zombies und Riesen-Zombies.
 
 [CARD_GAME_INTENTION_ZOMBIE_CHICKEN_FARMER_DESC_1]
 Beschwört einen Hühner-Zombie-Grabstein.
@@ -66171,7 +66171,7 @@ Stufe {NUMBER}
 Zombie-Aufstellung
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_TITLE]
-Zombie bekämpfen
+Zombie Truppe
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_BTN]
 Bearbeiten Aufstellung
@@ -66556,7 +66556,7 @@ Stein-Zombie
 Die dicke Steinstatue auf seinem Kopf schützt ihn vor großem Schaden.
 
 [ZOMBIE_NEW_PVP_DARK_IMP_DRAGON]
-Drachen-Kobold-Zombie
+Drachen-Wicht-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_IMP_DRAGON_DESCRIPTION_HEADER]
 Immun gegen die meisten Feuerschäden.
@@ -66580,10 +66580,10 @@ Kavallerie-Zombie
 Kavallerie-Zombie stürmt nach seinem Erscheinen los, besiegt die erste Pflanze, die er trifft, und fällt dann vom Pferd.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_BUG]
-Verlorener Insekten-Zombie
+Verlorener Käfer-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCITY_BUG_DESCRIPTION_HEADER]
-Verlorener Insekten-Zombie springt aus der Luft über Bodenverteidigungen und Hindernisse.
+Verlorener Käfer-Zombie springt aus der Luft über Bodenverteidigungen und Hindernisse.
 
 [ZOMBIE_NEW_PVP_PIRATE_CAPTAIN]
 Piratenkapitän-Zombie
@@ -72557,7 +72557,7 @@ Die Ananas-Kettenklinge schwingt schnell aus und fügt allen Zombies im rechten 
 Die Ananas-Kettenklinge schwingt schnell aus und fügt allen Zombies im rechten Umkreis von 4×3 Schaden zu. ^oldclr^
 
 [STEPHANIA_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts von der Tausendgoldenen Ranke erscheint, schleudert er einen fliegenden Schild, der dem Zombie Schaden zufügt. Dieser zerbricht nach dem Aufprall in fünf Teile, wobei jedes Teil dem Zombie, das es berührt, 63% der Angriffskraft zufügt. ^ff0000^ Wirkt Wunder gegen Ninja-Kobold-Zombies! ^oldclr^
+Wenn ein Zombie rechts von der Tausendgoldenen Ranke erscheint, schleudert er einen fliegenden Schild, der dem Zombie Schaden zufügt. Dieser zerbricht nach dem Aufprall in fünf Teile, wobei jedes Teil dem Zombie, das es berührt, 63% der Angriffskraft zufügt. ^ff0000^ Wirkt Wunder gegen Ninja-Wicht-Zombies! ^oldclr^
 
 [STEPHANIA_NEW_SKILL_LEVEL2_DES]
 Die Fragmente des fliegenden Schildes werden schärfer, und zwei davon können einem Zombie im Einzelfeld Schaden zufügen.
