@@ -31652,7 +31652,7 @@ Benötigen Sie mehr Setzlinge? Wählen Sie unten ein Paket aus.
 Überlebe einen massiven Angriff in der Neon Mixtape Tour.
 
 [STARCHALLENGE_EVILSHROOMS]
-Überlebe Zombies, die durch böse Tränke verstärkt wurden.
+y
 
 [STARCHALLENGE_EVILSHROOMS_NAME]
 Dunkle Alchemie
