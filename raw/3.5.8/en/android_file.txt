@@ -31648,6 +31648,7 @@ Benötigen Sie mehr Setzlinge? Wählen Sie unten ein Paket aus.
 
 [STARCHALLENGE_DINO_FINALE]
 Überlebe einen massiven Angriff im Jurrasischem Moor.
+
 [STARCHALLENGE_EIGHTIES_FINALE]
 Überlebe einen massiven Angriff in der Neon Mixtape Tour.
 
@@ -31671,6 +31672,7 @@ Verbinde identische Pflanzenkugeln, um Zombies anzugreifen und zu besiegen.
 
 [STAT_VARIABLE_CURRANT]
 Zeilen und Spalten
+
 [STORE_BUNDLES_ALL_PROFILES]
 Im Shop gekaufte Pflanzen und Upgrades werden in allen Profilen freigeschaltet.
 
@@ -31694,6 +31696,7 @@ Mit Edelsteinen gekaufte Pflanzen sind nur im aktuellen Profil verfügbar. Ander
 
 [STORE_PROMO]
 Rabatt
+
 [STORE_SALE_DISCOUNT_OVER]
 Über {NUMBER}%!
 
@@ -59081,3433 +59084,3840 @@ Elite-Zombies kommen
 Epitaph
 
 [S3_MEMORY_LEVEL_NAME_014]
-飞跃巅峰
+Sprung an die Spitze
 
 [S3_MEMORY_LEVEL_NAME_015]
-弹弹乐
+Musik abspielen
 
 [S3_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_017]
-挖掘技术哪家强
+Welches Unternehmen verfügt über die beste Bergbautechnologie?
 
 [S3_MEMORY_LEVEL_NAME_018]
-气功大师
+Qigong-Meister
 
 [S3_MEMORY_LEVEL_NAME_019]
-冲呀
+Los
 
 [S3_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_021]
-冲浪
+Surfen
 
 [S3_MEMORY_LEVEL_NAME_022]
-地下战争
+Untergrund Krieg
 
 [S3_MEMORY_LEVEL_NAME_023]
-炸弹人
+Bomberman
 
 [S3_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_025]
-多嘴的鹦鹉
+Der plappernde Papagei
 
 [S3_MEMORY_LEVEL_NAME_026]
-来硬的
+Harter Kampf
 
 [S3_MEMORY_LEVEL_NAME_027]
-香水有毒
+Parfüm ist giftig
 
 [S3_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_029]
-文艺复兴
+Renaissance
 
 [S3_MEMORY_LEVEL_NAME_030]
-小心猎人
+Hüte dich vor Jäger
 
 [S3_MEMORY_LEVEL_NAME_031]
-变形记
+Metamorphose
 
 [S3_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_033]
-圣诞快乐！
+Frohe Weihnachten!
 
 [S3_MEMORY_LEVEL_NAME_034]
-圣诞快乐！
+Frohe Weihnachten!
 
 [S3_MEMORY_LEVEL_NAME_035]
-圣诞快乐！
+Frohe Weihnachten!
 
 [S3_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_037]
-圣诞快乐！
+Frohe Weihnachten!
 
 [S3_MEMORY_LEVEL_NAME_038]
-圣诞快乐！
+Frohe Weihnachten!
 
 [S3_MEMORY_LEVEL_NAME_039]
-圣诞快乐！
+Frohe Weihnachten!
 
 [S3_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_041]
-元旦快乐！
+Frohes neues Jahr!
 
 [S3_MEMORY_LEVEL_NAME_042]
-元旦快乐！
+Frohes neues Jahr!
 
 [S3_MEMORY_LEVEL_NAME_043]
-元旦快乐！
+Frohes neues Jahr!
 
 [S3_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_045]
-元旦快乐！
+Frohes neues Jahr!
 
 [S3_MEMORY_LEVEL_NAME_046]
-元旦快乐！
+Frohes neues Jahr!
 
 [S3_MEMORY_LEVEL_NAME_047]
-元旦快乐！
+Frohes neues Jahr!
 
 [S3_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_049]
-飞跃巅峰
+Sprung an die Spitze
 
 [S3_MEMORY_LEVEL_NAME_050]
-不要乱丢垃圾
+Kein Müll!
 
 [S3_MEMORY_LEVEL_NAME_051]
-冲呀
+Los geht's!
 
 [S3_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S3_MEMORY_LEVEL_NAME_053]
-地下战争
+Untergrundkrieg
 
 [S3_MEMORY_LEVEL_NAME_054]
-冲呀
+Los geht's!
 
 [S3_MEMORY_LEVEL_NAME_055]
-滑雪场
+Skigebiet
 
 [S3_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S3_MEMORY_LEVEL_NAME_057]
-植物头僵尸大冒险
+Pflanzenkopf-Zombie Abenteuer
 
 [S3_MEMORY_LEVEL_NAME_058]
-小心猎人
+Hüte dich vor Jägern!
 
 [S3_MEMORY_LEVEL_NAME_059]
-冲呀
+Los!
 
 [S3_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+Elite-Zombies greifen an!
 
 [S3_MEMORY_LEVEL_NAME_061]
-小偷！
+Dieb!
 
 [S3_MEMORY_LEVEL_NAME_062]
-阳光争夺战
+Sonnenschein-Kampf
 
 [S3_MEMORY_LEVEL_NAME_063]
-冲浪
+Surfen
 
 [S3_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S4_MEMORY_LEVEL_NAME_001]
-改良电磁盾
+Verbesserter elektromagnetischer Schild
 
 [S4_MEMORY_LEVEL_NAME_002]
-改良电磁盾
+Verbesserter elektromagnetischer Schild
 
 [S4_MEMORY_LEVEL_NAME_003]
-改良电磁盾
+Verbesserter elektromagnetischer Schild
 
 [S4_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_005]
-可怕的闪电
+Schrecklicher Blitz
 
 [S4_MEMORY_LEVEL_NAME_006]
-可怕的闪电
+Schrecklich Blitz
 
 [S4_MEMORY_LEVEL_NAME_007]
-可怕的闪电
+Schrecklicher Blitz
 
 [S4_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_009]
-新年快乐！
+Frohes neues Jahr!
 
 [S4_MEMORY_LEVEL_NAME_010]
-万事大吉！
+Alles Gute!
 
 [S4_MEMORY_LEVEL_NAME_011]
-岁岁平安！
+Frieden und Glück jedes Jahr!
 
 [S4_MEMORY_LEVEL_NAME_012]
-心想事成！
+Mögen deine Wünsche in Erfüllung gehen!
 
 [S4_MEMORY_LEVEL_NAME_013]
-一马当先！
+Wir weisen den Weg!
 
 [S4_MEMORY_LEVEL_NAME_014]
-二龙飞腾！
+Zwei Drachen schweben!
 
 [S4_MEMORY_LEVEL_NAME_015]
-三阳开泰！
+Drei Yangs bringen Glück!
 
 [S4_MEMORY_LEVEL_NAME_016]
-四季平安！
+Frieden zu jeder Jahreszeit!
 
 [S4_MEMORY_LEVEL_NAME_017]
-改良电磁盾
+Verbesserter elektromagnetischer Schild
 
 [S4_MEMORY_LEVEL_NAME_018]
-改良电磁盾
+Verbesserter elektromagnetischer Schild
 
 [S4_MEMORY_LEVEL_NAME_019]
-改良电磁盾
+Verbesserter elektromagnetischer Schild
 
 [S4_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_021]
-瓷砖对决
+Kachel-Showdown
 
 [S4_MEMORY_LEVEL_NAME_022]
-瓷砖对决
+Kachel-Showdown
 
 [S4_MEMORY_LEVEL_NAME_023]
-瓷砖对决
+Kachel-Showdown
 
 [S4_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S4_MEMORY_LEVEL_NAME_025]
-点爆竹
+Böller zünden
 
 [S4_MEMORY_LEVEL_NAME_026]
-点爆竹
+Böller zünden
 
 [S4_MEMORY_LEVEL_NAME_027]
-点爆竹
+Böller zünden
 
 [S4_MEMORY_LEVEL_NAME_028]
-元宵快乐！
+Frohes Laternenfest!
 
 [S4_MEMORY_LEVEL_NAME_029]
-别碰我的饺子！
+Fass meine Knödel nicht an!
 
 [S4_MEMORY_LEVEL_NAME_030]
-别碰我的饺子！
+Fass meine Knödel nicht an!
 
 [S4_MEMORY_LEVEL_NAME_031]
-别碰我的饺子！
+Fass meine Knödel nicht an!
 
 [S4_MEMORY_LEVEL_NAME_032]
-元宵快乐！
+Frohes Laternenfest!
 
 [S4_MEMORY_LEVEL_NAME_033]
-飞沙走石
+Fliegender Sand und Steine
 
 [S4_MEMORY_LEVEL_NAME_034]
-飞沙走石
+Fliegender Sand und Steine
 
 [S4_MEMORY_LEVEL_NAME_035]
-飞沙走石
+Fliegender Sand und Steine
 
 [S4_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_037]
-滚起来！
+Los geht's!
 
 [S4_MEMORY_LEVEL_NAME_038]
-滚起来！
+Los geht's!
 
 [S4_MEMORY_LEVEL_NAME_039]
-滚起来！
+Los geht's!
 
 [S4_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_041]
-飞翔的泡泡
+Fliegende Blasen
 
 [S4_MEMORY_LEVEL_NAME_042]
-飞翔的泡泡
+Fliegende Blasen
 
 [S4_MEMORY_LEVEL_NAME_043]
-飞翔的泡泡
+Fliegende Blasen
 
 [S4_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_045]
-可怕的闪电
+Schrecklicher Blitz
 
 [S4_MEMORY_LEVEL_NAME_046]
-可怕的闪电
+EL_NAME_046]
+Schrecklicher Blitz
 
 [S4_MEMORY_LEVEL_NAME_047]
-可怕的闪电
+Schrecklicher Blitz
 
 [S4_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombie Angriff
 
 [S4_MEMORY_LEVEL_NAME_049]
-危险的药水
+Gefährlicher Trank
 
 [S4_MEMORY_LEVEL_NAME_050]
-危险的药水
+Gefährlicher Trank
 
 [S4_MEMORY_LEVEL_NAME_051]
-危险的药水
+Gefährlicher Trank
 
 [S4_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_053]
-瓷砖对决
+Kachel-Showdown
 
 [S4_MEMORY_LEVEL_NAME_054]
-瓷砖对决
+Kachel-Showdown
 
 [S4_MEMORY_LEVEL_NAME_055]
-瓷砖对决
+Kachel-Showdown
 
 [S4_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_057]
-飞沙走石
+Fliegender Sand und Felsen
 
 [S4_MEMORY_LEVEL_NAME_058]
-飞沙走石
+Fliegender Sand und Felsen
 
 [S4_MEMORY_LEVEL_NAME_059]
-飞沙走石
+Fliegender Sand und Felsen
 
 [S4_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+EL_NAME_059]
+Fliegender Sand und Felsen
+
+[S4_MEMORY_LEVEL_NAME_060]
+Elite-Zombies kommen
 
 [S4_MEMORY_LEVEL_NAME_061]
-飞翔的泡泡
+Fliegende Blasen
 
 [S4_MEMORY_LEVEL_NAME_062]
-飞翔的泡泡
+Fliegende Blasen
 
 [S4_MEMORY_LEVEL_NAME_063]
-飞翔的泡泡
+Fliegende Blasen
 
 [S4_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S5_MEMORY_LEVEL_NAME_001]
-冰时代 1
+Ice Age 1
 
 [S5_MEMORY_LEVEL_NAME_002]
-冰时代 2
+Ice Age 2
 
 [S5_MEMORY_LEVEL_NAME_003]
-冰时代 3
+Ice Age 3
 
 [S5_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S5_MEMORY_LEVEL_NAME_005]
-拥挤的帐篷 1
+Überfülltes Zelt 1
 
 [S5_MEMORY_LEVEL_NAME_006]
-拥挤的帐篷 2
+Überfülltes Zelt 2
 
 [S5_MEMORY_LEVEL_NAME_007]
-拥挤的帐篷 3
+Überfülltes Zelt 3
 
 [S5_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S5_MEMORY_LEVEL_NAME_009]
-代表星星消灭你 1
+Zerstöre dich im Auftrag der Sterne 1
 
 [S5_MEMORY_LEVEL_NAME_010]
-代表星星消灭你 2
+Zerstöre dich im Auftrag der Sterne 2
 
 [S5_MEMORY_LEVEL_NAME_011]
-代表星星消灭你 3
+Zerstöre dich im Auftrag der Sterne 3
 
 [S5_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S5_MEMORY_LEVEL_NAME_013]
-星星点灯 1
+Erleuchte die Sterne 1
 
 [S5_MEMORY_LEVEL_NAME_014]
-星星点灯 2
+Sternenlichter 2
 
 [S5_MEMORY_LEVEL_NAME_015]
-星星点灯 3
+Sternenlichter 3
 
 [S5_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S5_MEMORY_LEVEL_NAME_017]
-老番茄 1
+Alte Tomate 1
 
 [S5_MEMORY_LEVEL_NAME_018]
-老番茄 2
+Alte Tomate 2
 
 [S5_MEMORY_LEVEL_NAME_019]
-老番茄 3
+Alte Tomate 3
 
 [S5_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S5_MEMORY_LEVEL_NAME_021]
-钢刺扎脚 1
+Stahldornfuß 1
 
 [S5_MEMORY_LEVEL_NAME_022]
-钢刺扎脚 2
+Stahldornfuß 2
 
 [S5_MEMORY_LEVEL_NAME_023]
-钢刺扎脚 3
+Stahldornen 3
 
 [S5_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S5_MEMORY_LEVEL_NAME_025]
-剧毒鸡汤 1
+Giftige Hühnersuppe 1
 
 [S5_MEMORY_LEVEL_NAME_026]
-剧毒鸡汤 2
+Giftige Hühnersuppe 2
 
 [S5_MEMORY_LEVEL_NAME_027]
-剧毒鸡汤 3
+Giftige Hühnersuppe 3
 
 [S5_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S5_MEMORY_LEVEL_NAME_029]
-雷龙咆哮 1
+Brontosaurus-Brüllen 1
 
 [S5_MEMORY_LEVEL_NAME_030]
-雷龙咆哮 2
+Brontosaurus-Brüllen 2
 
 [S5_MEMORY_LEVEL_NAME_031]
-雷龙咆哮 3
+Brontosaurus-Gebrüll 3
 
 [S5_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S5_MEMORY_LEVEL_NAME_033]
-番茄炒蛋拳 1
+Tomaten-Ei-Punsch 1
 
 [S5_MEMORY_LEVEL_NAME_034]
-番茄炒蛋拳 2
+Tomaten-Ei-Punsch 2
 
 [S5_MEMORY_LEVEL_NAME_035]
-番茄炒蛋拳 3
+Tomaten-Ei-Punsch 3
 
 [S5_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S5_MEMORY_LEVEL_NAME_037]
-熊间大炮 1 
+Bärenkanone 1
 
 [S5_MEMORY_LEVEL_NAME_038]
-熊间大炮 2
+Bärenkanone 2
 
 [S5_MEMORY_LEVEL_NAME_039]
-熊间大炮 3
+Bärenkanone 3
 
 [S5_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S5_MEMORY_LEVEL_NAME_041]
-我赌你的枪里有很多子弹 1
+Ich wette, deine Waffe hat viele Kugeln! 1
 
 [S5_MEMORY_LEVEL_NAME_042]
-我赌你的枪里有很多子弹 2
+Ich wette, deine Waffe hat viele Kugeln! 2
 
 [S5_MEMORY_LEVEL_NAME_043]
-我赌你的枪里有很多子弹 3
+Ich wette, deine Waffe hat viele Kugeln! 3
 
 [S5_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S5_MEMORY_LEVEL_NAME_045]
-棒球脑袋 1
+Baseballkopf 1
 
 [S5_MEMORY_LEVEL_NAME_046]
-棒球脑袋 2
+Baseballkopf 2
 
 [S5_MEMORY_LEVEL_NAME_047]
-棒球脑袋 3
+Baseballkopf 3
 
 [S5_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite Zombies greifen an
 
 [S5_MEMORY_LEVEL_NAME_049]
-变身 1
+Verwandlung 1
 
 [S5_MEMORY_LEVEL_NAME_050]
-变身 2
+Verwandlung 2
 
 [S5_MEMORY_LEVEL_NAME_051]
-变身 3
+Verwandlung 3
 
 [S5_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S5_MEMORY_LEVEL_NAME_053]
-开锯 1
+Sägen 1
 
 [S5_MEMORY_LEVEL_NAME_054]
-开锯 2
+Sägen 2
 
 [S5_MEMORY_LEVEL_NAME_055]
-开锯 3
+Sägen 3
 
 [S5_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S5_MEMORY_LEVEL_NAME_057]
-电能激荡 1
+Elektrischer Energieschub 1
 
 [S5_MEMORY_LEVEL_NAME_058]
-电能激荡 2
+Elektrischer Energieschub 2
 
 [S5_MEMORY_LEVEL_NAME_059]
-电能激荡 3
+Elektrischer Energieschub 3
 
 [S5_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S5_MEMORY_LEVEL_NAME_061]
-今天不洗头 1
+Heute nicht waschen 1
 
 [S5_MEMORY_LEVEL_NAME_062]
-今天不洗头 2
+Heute nicht waschen 2
 
 [S5_MEMORY_LEVEL_NAME_063]
-今天不洗头 3
+Heute nicht waschen 3
 
 [S5_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S6_MEMORY_LEVEL_NAME_001]
-帐篷里的秘密 1
+Geheimnis im Zelt 1
 
 [S6_MEMORY_LEVEL_NAME_002]
-帐篷里的秘密 2
+Geheimnis im Zelt 2
 
 [S6_MEMORY_LEVEL_NAME_003]
-帐篷里的秘密 3
+Geheimnis im Zelt 3
 
 [S6_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S6_MEMORY_LEVEL_NAME_005]
-别吃我的饺子 1
+Iss meine Knödel nicht 1
 
 [S6_MEMORY_LEVEL_NAME_006]
-别吃我的饺子 2
+Iss meine Knödel nicht 2
 
 [S6_MEMORY_LEVEL_NAME_007]
-别吃我的饺子 3
+Iss meine Knödel nicht 3
 
 [S6_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S6_MEMORY_LEVEL_NAME_009]
-升空的烟火 1
+Feuerwerk 1
 
 [S6_MEMORY_LEVEL_NAME_010]
-升空的烟火 2
+Feuerwerk 2
 
 [S6_MEMORY_LEVEL_NAME_011]
-升空的烟火 3
+Feuerwerk 3
 
 [S6_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S6_MEMORY_LEVEL_NAME_013]
-迷雾 1
+Nebel 1
 
 [S6_MEMORY_LEVEL_NAME_014]
-迷雾 2
+Nebel 2
 
 [S6_MEMORY_LEVEL_NAME_015]
-迷雾 3
+Nebel 3
 
 [S6_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S6_MEMORY_LEVEL_NAME_017]
-大风起兮云飞扬 1
+Der Wind erhebt sich und die Wolken ziehen 1
 
 [S6_MEMORY_LEVEL_NAME_018]
-大风起兮云飞扬 2
+Der Wind erhebt sich und die Wolken ziehen 2
 
 [S6_MEMORY_LEVEL_NAME_019]
-大风起兮云飞扬 3
+Der Wind erhebt sich und die Wolken ziehen 3
 
 [S6_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S6_MEMORY_LEVEL_NAME_021]
-滚！ 1
+Verpiss dich! 1
 
 [S6_MEMORY_LEVEL_NAME_022]
-滚！ 2
+Verpiss dich! 2
 
 [S6_MEMORY_LEVEL_NAME_023]
-滚！ 3
+Verpiss dich! 3
 
 [S6_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S6_MEMORY_LEVEL_NAME_025]
-一砖一瓦 1
+Stein für Stein 1
 
 [S6_MEMORY_LEVEL_NAME_026]
-一砖一瓦 2
+Stein für Stein 2
 
 [S6_MEMORY_LEVEL_NAME_027]
-一砖一瓦 3
+Stein für Stein 3
 
 [S6_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S6_MEMORY_LEVEL_NAME_029]
-禁忌魔药 1
+Verbotener Trank 1
 
 [S6_MEMORY_LEVEL_NAME_030]
-禁忌魔药 2
+Verbotener Trank 2
 
 [S6_MEMORY_LEVEL_NAME_031]
-禁忌魔药 3
+Verbotener Trank 3
 
 [S6_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite-Zombies Angriff
 
 [S6_MEMORY_LEVEL_NAME_033]
-高科技战争 1
+Hightech-Krieg 1
 
 [S6_MEMORY_LEVEL_NAME_034]
-高科技战争 2
+Hightech-Krieg 2
 
 [S6_MEMORY_LEVEL_NAME_035]
-高科技战争 3
+Hightech-Krieg 3
 
 [S6_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S6_MEMORY_LEVEL_NAME_037]
-外焦里嫩 1 
+Außen knusprig und innen zart 1
 
 [S6_MEMORY_LEVEL_NAME_038]
-外焦里嫩 2
+Außen knusprig und innen zart 2
 
 [S6_MEMORY_LEVEL_NAME_039]
-外焦里嫩 3
+Außen knusprig und innen zart 3
 
 [S6_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombies sind Kommt
 
 [S6_MEMORY_LEVEL_NAME_041]
-从下面看？ 1
+Von unten? 1
 
 [S6_MEMORY_LEVEL_NAME_042]
-还是从侧面看？ 2
+Oder von der Seite? 2
 
 [S6_MEMORY_LEVEL_NAME_043]
-啊，盛夏 3
+Ah, Mittsommer 3
 
 [S6_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S6_MEMORY_LEVEL_NAME_045]
-滚！ 1
+Verpisst euch! 1
 
 [S6_MEMORY_LEVEL_NAME_046]
-滚！ 2
+Verpisst euch! 2
 
 [S6_MEMORY_LEVEL_NAME_047]
-滚！ 3
+Verpisst euch! 3
 
 [S6_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S6_MEMORY_LEVEL_NAME_049]
-如梦如幻 1
+Wie ein Traum 1
 
 [S6_MEMORY_LEVEL_NAME_050]
-如梦如幻 2
+Wie ein Traum 2
 
 [S6_MEMORY_LEVEL_NAME_051]
-如梦如幻 3
+Wie ein Traum 3
 
 [S6_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S6_MEMORY_LEVEL_NAME_053]
-记得看天气预报 1
+Vergesst nicht, den Wetterbericht zu prüfen 1
 
 [S6_MEMORY_LEVEL_NAME_054]
-记得看天气预报 2
+Vergesst nicht, den Wetterbericht zu prüfen 2
 
 [S6_MEMORY_LEVEL_NAME_055]
-记得看天气预报 3
+Vergesst nicht, den Wetterbericht zu prüfen 3
 
 [S6_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Elite-Zombies Angriff
 
 [S6_MEMORY_LEVEL_NAME_057]
-帐篷里的秘密 1
+Geheimnis im Zelt 1
 
 [S6_MEMORY_LEVEL_NAME_058]
-帐篷里的秘密 2
+Geheimnis im Zelt 2
 
 [S6_MEMORY_LEVEL_NAME_059]
-帐篷里的秘密 3
+Geheimnis im Zelt 3
 
 [S6_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S6_MEMORY_LEVEL_NAME_061]
-高科技战争 1
+Hightech-Krieg 1
 
 [S6_MEMORY_LEVEL_NAME_062]
-高科技战争 2
+Hightech-Krieg 2
 
 [S6_MEMORY_LEVEL_NAME_063]
-高科技战争 3
+Hightech-Krieg 3
 
 [S6_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S7_MEMORY_LEVEL_NAME_001]
-飞来横祸 1
+Plötzliche Katastrophe 1
 
 [S7_MEMORY_LEVEL_NAME_002]
-飞来横祸 2
+Plötzliche Katastrophe 2
 
 [S7_MEMORY_LEVEL_NAME_003]
-飞来横祸 3
+Plötzliche Katastrophe 3
 
 [S7_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S7_MEMORY_LEVEL_NAME_005]
-泳池安全条例 1
+Sicherheitsvorschriften für Schwimmbäder 1
 
 [S7_MEMORY_LEVEL_NAME_006]
-泳池安全条例 2
+Sicherheitsvorschriften für Schwimmbäder 2
 
 [S7_MEMORY_LEVEL_NAME_007]
-泳池安全条例 3
+Sicherheitsvorschriften für Schwimmbäder 3
 
 [S7_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S7_MEMORY_LEVEL_NAME_009]
-乱扔垃圾 1
+Wurf 1
 
 [S7_MEMORY_LEVEL_NAME_010]
-乱扔垃圾 2
+Wurf 2
 
 [S7_MEMORY_LEVEL_NAME_011]
-乱扔垃圾 3
+Wurf 3
 
 [S7_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S7_MEMORY_LEVEL_NAME_013]
-漂浮的护盾 1
+Schwebender Schild 1
 
 [S7_MEMORY_LEVEL_NAME_014]
-漂浮的护盾 2
+Schwebender Schild 2
 
 [S7_MEMORY_LEVEL_NAME_015]
-漂浮的护盾 3
+Schwebender Schild 3
 
 [S7_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S7_MEMORY_LEVEL_NAME_017]
-冰雹来咯 1
+Hagel kommt 1
 
 [S7_MEMORY_LEVEL_NAME_018]
-冰雹来咯 2
+Hagel kommt 2
 
 [S7_MEMORY_LEVEL_NAME_019]
-冰雹来咯 3
+Hagel kommt 3
 
 [S7_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S7_MEMORY_LEVEL_NAME_021]
-夏天的尾巴 1
+Summer's Tail 1
 
 [S7_MEMORY_LEVEL_NAME_022]
-夏天的尾巴 2
+Summer's Tail 2
 
 [S7_MEMORY_LEVEL_NAME_023]
-夏天的尾巴 3
+Summer's Tail 3
 
 [S7_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S7_MEMORY_LEVEL_NAME_025]
-上上下下 1
+Auf und ab 1
 
 [S7_MEMORY_LEVEL_NAME_026]
-上上下下 2
+Auf und ab 2
 
 [S7_MEMORY_LEVEL_NAME_027]
-上上下下 3
+Auf und ab 3
 
 [S7_MEMORY_LEVEL_NAME_029]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S7_MEMORY_LEVEL_NAME_030]
-好多的泡泡 1
+Viele Blasen 1
 
 [S7_MEMORY_LEVEL_NAME_031]
-好多的泡泡 2
+Viele Blasen 2
 
 [S7_MEMORY_LEVEL_NAME_032]
-好多的泡泡 3
+Viele Blasen 3
 
 [S7_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S7_MEMORY_LEVEL_NAME_033]
-在泳池赶海 1
+Das Meer im Pool einfangen 1
 
 [S7_MEMORY_LEVEL_NAME_034]
-在泳池赶海 2
+Das Meer im Pool einfangen 2
 
 [S7_MEMORY_LEVEL_NAME_035]
-在泳池赶海 3
+Das Meer im Pool einfangen 3
 
 [S7_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S7_MEMORY_LEVEL_NAME_037]
-毒池潜水 1
+Im Giftpool tauchen 1
 
 [S7_MEMORY_LEVEL_NAME_038]
-毒池潜水 2
+Tauchen im Giftpool 2
 
 [S7_MEMORY_LEVEL_NAME_039]
-毒池潜水 3
+Tauchen im Giftpool 3
 
 [S7_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S7_MEMORY_LEVEL_NAME_041]
-册封与药水 1
+Zeremonie und Trank 1
 
 [S7_MEMORY_LEVEL_NAME_042]
-册封与药水 2
+Zeremonie und Trank 2
 
 [S7_MEMORY_LEVEL_NAME_043]
-册封与药水 3
+Zeremonie und Trank 3
 
 [S7_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S7_MEMORY_LEVEL_NAME_045]
-骑士与魔法 1
+Ritter und Magie 1
 
 [S7_MEMORY_LEVEL_NAME_046]
-骑士与魔法 2
+Ritter und Magie 2
 
 [S7_MEMORY_LEVEL_NAME_047]
-骑士与魔法 3
+Ritter und Magie 3
 
 [S7_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S7_MEMORY_LEVEL_NAME_049]
-寒冰泳池 1
+Eisbecken 1
 
 [S7_MEMORY_LEVEL_NAME_050]
-寒冰泳池 2
+Eisbecken 2
 
 [S7_MEMORY_LEVEL_NAME_051]
-寒冰泳池 3
+Eisbecken 3
 
 [S7_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S7_MEMORY_LEVEL_NAME_053]
-海盗主题泳池 1
+Piraten-Themenbecken 1
 
 [S7_MEMORY_LEVEL_NAME_054]
-海盗主题泳池 2
+Piraten-Themenbecken 2
 
 [S7_MEMORY_LEVEL_NAME_055]
-海盗主题泳池 3
+Piraten-Themenbecken 3
 
 [S7_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S7_MEMORY_LEVEL_NAME_057]
-飞渡泳池 1
+Fliegendes Becken 1
 
 [S7_MEMORY_LEVEL_NAME_058]
-飞渡泳池 2
+Fliegendes Becken 2
 
 [S7_MEMORY_LEVEL_NAME_059]
-飞渡泳池 3
+Fliegendes Becken 3
 
 [S7_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S7_MEMORY_LEVEL_NAME_061]
-音乐泳池派对 1
+Musik-Poolparty 1
 
 [S7_MEMORY_LEVEL_NAME_062]
-音乐泳池派对 2
+Musik-Poolparty 2
 
 [S7_MEMORY_LEVEL_NAME_063]
-音乐泳池派对 3
+Musik-Poolparty 3
 
 [S7_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies Angriff
 
 [S8_MEMORY_LEVEL_NAME_001]
-人海战术1
+Menschenwellentaktik 1
 
 [S8_MEMORY_LEVEL_NAME_002]
-人海战术2
+Menschenwellentaktik 2
 
 [S8_MEMORY_LEVEL_NAME_003]
-人海战术3
+Menschenwellentaktik 3
 
 [S8_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombieangriff
 
 [S8_MEMORY_LEVEL_NAME_005]
-火力全开1
+Vollfeuer 1
 
 [S8_MEMORY_LEVEL_NAME_006]
-火力全开2
+Vollfeuer 2
 
 [S8_MEMORY_LEVEL_NAME_007]
-火力全开3
+Vollfeuer 3
 
 [S8_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombieangriff
 
 [S8_MEMORY_LEVEL_NAME_009]
-时空穿梭1
+Zeitreise 1
 
 [S8_MEMORY_LEVEL_NAME_010]
-时空穿梭2
+Zeitreise 2
 
 [S8_MEMORY_LEVEL_NAME_011]
-时空穿梭3
+Zeitreise 3
 
 [S8_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S8_MEMORY_LEVEL_NAME_013]
-全副武装1
+Voll bewaffnet 1
 
 [S8_MEMORY_LEVEL_NAME_014]
-全副武装2
+Voll bewaffnet 2
 
 [S8_MEMORY_LEVEL_NAME_015]
-全副武装3
+Voll bewaffnet 3
 
 [S8_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S8_MEMORY_LEVEL_NAME_017]
-快速移动1
+Schneller Zug 1
 
 [S8_MEMORY_LEVEL_NAME_018]
-快速移动2
+Schneller Zug 2
 
 [S8_MEMORY_LEVEL_NAME_019]
-快速移动3
+Schnellzug 3
 
 [S8_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S8_MEMORY_LEVEL_NAME_021]
-动物家族1
+Tierfamilie 1
+
+[S8_MEMORY_LEVEL_NAME_021]
+Tierfamilie 1
 
 [S8_MEMORY_LEVEL_NAME_022]
-动物家族2
+EL_NAME_022]
+Tierfamilie 2
 
 [S8_MEMORY_LEVEL_NAME_023]
-动物家族3
+Tierfamilie 3
 
 [S8_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S8_MEMORY_LEVEL_NAME_025]
-火火生威1
+Feuerkraft 1
 
 [S8_MEMORY_LEVEL_NAME_026]
-火火生威2
+Feuerkraft 2
 
 [S8_MEMORY_LEVEL_NAME_027]
-火火生威3
+Feuerkraft 3
 
 [S8_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S8_MEMORY_LEVEL_NAME_029]
-功夫世家1
+Kung-Fu-Familie 1
 
 [S8_MEMORY_LEVEL_NAME_030]
-功夫世家2
+Kung-Fu-Familie 2
 
 [S8_MEMORY_LEVEL_NAME_031]
-功夫世家3
+Kung-Fu-Familie 3
 
 [S8_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S8_MEMORY_LEVEL_NAME_033]
-万圣惊魂1
+Halloween-Horror 1
 
 [S8_MEMORY_LEVEL_NAME_034]
-万圣惊魂2
+Halloween-Horror 2
 
 [S8_MEMORY_LEVEL_NAME_035]
-万圣惊魂3
+Halloween-Horror 3
 
 [S8_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S8_MEMORY_LEVEL_NAME_037]
-群魔乱舞1
+Halloween-Horror 1
 
 [S8_MEMORY_LEVEL_NAME_038]
-群魔乱舞2
+Halloween-Horror 2
 
 [S8_MEMORY_LEVEL_NAME_039]
-群魔乱舞3
+Halloween-Horror 3
 
 [S8_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Halloween-Horror 3 EL_NAME_037]
+Dämonentanz 1
+
+[S8_MEMORY_LEVEL_NAME_038]
+Dämonentanz 2
+
+[S8_MEMORY_LEVEL_NAME_039]
+Dämonentanz 3
+
+[S8_MEMORY_LEVEL_NAME_040]
+Elite-Zombies Angriff
 
 [S8_MEMORY_LEVEL_NAME_041]
-未来战争1
+Zukunftskrieg 1
 
 [S8_MEMORY_LEVEL_NAME_042]
-未来战争2
+Zukunftskrieg 2
 
 [S8_MEMORY_LEVEL_NAME_043]
-未来战争3
+Zukunftskrieg 3
 
 [S8_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S8_MEMORY_LEVEL_NAME_045]
-近战无敌1
+Nahkampf-Unverwundbarkeit 1
 
 [S8_MEMORY_LEVEL_NAME_046]
-近战无敌2
+Nahkampf-Unverwundbarkeit 2
 
 [S8_MEMORY_LEVEL_NAME_047]
-近战无敌3
+Nahkampf-Unverwundbarkeit 3
 
 [S8_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S8_MEMORY_LEVEL_NAME_049]
-高效防弹1
+Hocheffiziente, kugelsichere 1
 
 [S8_MEMORY_LEVEL_NAME_050]
-高效防弹2
+Hocheffizienter Kugelschutz 2
 
 [S8_MEMORY_LEVEL_NAME_051]
-高效防弹3
-
-[S8_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
-
-[S8_MEMORY_LEVEL_NAME_053]
-超级防护1
-
-[S8_MEMORY_LEVEL_NAME_054]
-超级防护2
-
-[S8_MEMORY_LEVEL_NAME_055]
-超级防护3
-
-[S8_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Hocheffizienter Kugelschutz 3
 
 [S8_MEMORY_LEVEL_NAME_057]
-先发制人1
+Hocheffizienter Kugelschutz 3 L_NAME_052]
+Elite-Zombie-Angriff
+
+[S8_MEMORY_LEVEL_NAME_053]
+Superverteidigung 1
+
+[S8_MEMORY_LEVEL_NAME_054]
+Superverteidigung 2
+
+[S8_MEMORY_LEVEL_NAME_055]
+Superverteidigung 3
+
+[S8_MEMORY_LEVEL_NAME_056]
+Elite-Zombie-Angriff
+
+[S8_MEMORY_LEVEL_NAME_057]
+Präventivschlag 1
 
 [S8_MEMORY_LEVEL_NAME_058]
-先发制人2
+Präventivschlag 2
 
 [S8_MEMORY_LEVEL_NAME_059]
-先发制人3
+Präventivschlag 3
 
 [S8_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S8_MEMORY_LEVEL_NAME_061]
-铜墙铁壁1
+Eisenmauer 1
 
 [S8_MEMORY_LEVEL_NAME_062]
-铜墙铁壁2
+Eisenmauer 2
 
 [S8_MEMORY_LEVEL_NAME_063]
-铜墙铁壁3
+Eisenmauer 3
 
 [S8_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_001]
-科学的力量1
+Die Macht der Wissenschaft 1
 
 [S9_MEMORY_LEVEL_NAME_002]
-科学的力量2
+Die Macht der Wissenschaft 2
 
 [S9_MEMORY_LEVEL_NAME_003]
-科学的力量3
+Die Macht der Wissenschaft 3
 
 [S9_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombies sind Kommen
 
 [S9_MEMORY_LEVEL_NAME_005]
-跳跃前进1
+Sprung vorwärts 1
 
 [S9_MEMORY_LEVEL_NAME_006]
-跳跃前进2
+Sprung vorwärts 2
 
 [S9_MEMORY_LEVEL_NAME_007]
-跳跃前进3
+Sprung vorwärts 3
 
 [S9_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_009]
-迷雾中的动物1
+Tiere im Nebel 1
 
 [S9_MEMORY_LEVEL_NAME_010]
-迷雾中的动物2
+Tiere im Nebel 2
 
 [S9_MEMORY_LEVEL_NAME_011]
-迷雾中的动物3
+Nebeltiere in 3
 
 [S9_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_013]
-添油战术1
+Taktik aufpeppen 1
 
 [S9_MEMORY_LEVEL_NAME_014]
-添油战术2
+Taktik 2 verstärkt
 
 [S9_MEMORY_LEVEL_NAME_015]
-添油战术3
+Taktik 3 verstärkt
 
 [S9_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_017]
-高速弹射1
+EMORY_LEVEL_NAME_017]
+Schnellschuss 1
 
 [S9_MEMORY_LEVEL_NAME_018]
-高速弹射2
+Schnellschuss 2
 
 [S9_MEMORY_LEVEL_NAME_019]
-高速弹射3
+Schnellschuss 3
 
 [S9_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S9_MEMORY_LEVEL_NAME_021]
-滚滚来袭1
+Rollender Angriff 1
 
 [S9_MEMORY_LEVEL_NAME_022]
-滚滚来袭2
+Rollender Angriff 2
 
 [S9_MEMORY_LEVEL_NAME_023]
-滚滚来袭3
+Rollender Angriff 3
 
 [S9_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S9_MEMORY_LEVEL_NAME_025]
-起风了1
+Wie der Wind sich hebt 1
 
 [S9_MEMORY_LEVEL_NAME_026]
-起风了2
+Wie der Wind sich hebt 2
 
 [S9_MEMORY_LEVEL_NAME_027]
-起风了3
+Wie der Wind sich hebt 3
 
 [S9_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_029]
-入梦1
+Traum betreten 1
 
 [S9_MEMORY_LEVEL_NAME_030]
-入梦2
+Traum betreten 2
 
 [S9_MEMORY_LEVEL_NAME_031]
-入梦3
+Traum betreten 3
 
 [S9_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_033]
-圣诞快乐1
+NAME_033]
+Frohe Weihnachten 1
 
 [S9_MEMORY_LEVEL_NAME_034]
-圣诞快乐2
+Frohe Weihnachten 2
 
 [S9_MEMORY_LEVEL_NAME_035]
-圣诞快乐3
+Frohe Weihnachten 3
 
 [S9_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S9_MEMORY_LEVEL_NAME_037]
-圣诞快乐4
+Frohe Weihnachten 4
 
 [S9_MEMORY_LEVEL_NAME_038]
-圣诞快乐5
+Frohe Weihnachten Spaß 5
 
 [S9_MEMORY_LEVEL_NAME_039]
-圣诞快乐6
+Frohe Weihnachten 6
 
 [S9_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S9_MEMORY_LEVEL_NAME_041]
-欢乐跨年1
+Frohes neues Jahr 1
 
 [S9_MEMORY_LEVEL_NAME_042]
-欢乐跨年2
+Frohes neues Jahr 2
 
 [S9_MEMORY_LEVEL_NAME_043]
-欢乐跨年3
+Frohes neues Jahr 3
 
 [S9_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Frohes neues Jahr 3
+
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_045]
-欢乐跨年4
+Frohes neues Jahr 4
 
 [S9_MEMORY_LEVEL_NAME_046]
-欢乐跨年5
+Frohes neues Jahr 5
 
 [S9_MEMORY_LEVEL_NAME_047]
-欢乐跨年6
+Frohes neues Jahr 6
 
 [S9_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombies kommen
+
+[S9_MEMORY_LEVEL_NAME_048]
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_049]
-我先冲为敬1
+Frohes neues Jahr 5
+
+[S9_MEMORY_LEVEL_NAME_047]
+Frohes neues Jahr 6
+
+[S9_MEMORY_LEVEL_NAME_048]
+Elite-Zombies kommen
+
+[S9_MEMORY_LEVEL_NAME_049]
+Frohes neues Jahr 6
+
+[S9_MEMORY_LEVEL_NAME_049]
+Frohes neues Jahr 7
 
 [S9_MEMORY_LEVEL_NAME_050]
-我先冲为敬2
+Frohes neues Jahr 8
 
 [S9_MEMORY_LEVEL_NAME_051]
-我先冲为敬3
+Frohes neues Jahr 9
 
 [S9_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
+Frohes neues Jahr 10
 
 [S9_MEMORY_LEVEL_NAME_053]
-人多势众1
+Frohes neues Jahr 11
 
 [S9_MEMORY_LEVEL_NAME_054]
-人多势众2
+Frohes neues Jahr 12
 
 [S9_MEMORY_LEVEL_NAME_055]
-人多势众3
+Frohes neues Jahr 13
 
 [S9_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Frohes neues Jahr 14
 
 [S9_MEMORY_LEVEL_NAME_057]
-僵尸科技1
+Frohes neues Jahr 15 E_049]
+Ich werde zuerst angreifen, um meinen Respekt zu zeigen 1
+
+[S9_MEMORY_LEVEL_NAME_050]
+Ich werde zuerst angreifen, um meinen Respekt zu zeigen 2
+
+[S9_MEMORY_LEVEL_NAME_051]
+Ich werde zuerst angreifen, um meinen Respekt zu zeigen 3
+
+[S9_MEMORY_LEVEL_NAME_052]
+Elite-Zombies kommen
+
+[S9_MEMORY_LEVEL_NAME_053]
+Macht in der Menge 1
+
+[S9_MEMORY_LEVEL_NAME_054]
+Viele Menschen Mächtig in der Menge 2
+
+[S9_MEMORY_LEVEL_NAME_055]
+Mächtig in der Menge 3
+
+[S9_MEMORY_LEVEL_NAME_056]
+Elite-Zombies greifen an
+
+[S9_MEMORY_LEVEL_NAME_057]
+Zombie-Technologie 1
 
 [S9_MEMORY_LEVEL_NAME_058]
-僵尸科技2
+Zombie-Technologie 2
 
 [S9_MEMORY_LEVEL_NAME_059]
-僵尸科技3
+Zombie-Technologie 3
 
-[S9_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+[S9_MEMORY_LEVEL_NAME_057]
+Zombie-Technologie 1
+
+[S9_MEMORY_LEVEL_NAME_058]
+Zombie-Technologie 2
+
+[S9_MEMORY_LEVEL_NAME_059]
+Zombie-Technologie 3
+
+[S9_MEMORY_LEVEL_NAME_059]
+Zombie-Technologie 3 RY_LEVEL_NAME_060]
+Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_061]
-下雨打雷收衣服1
+Regen und Donnern, sammelt Kleidung 1
 
 [S9_MEMORY_LEVEL_NAME_062]
-下雨打雷收衣服2
+Regen und Donnern, sammelt Kleidung 2
 
 [S9_MEMORY_LEVEL_NAME_063]
-下雨打雷收衣服3
+Regen und Donnern, sammelt Kleidung 3
 
 [S9_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies kommen
 
-[S10_MEMORY_LEVEL_NAME_001]
-新年快乐1
+[S10_MEMORY Y_LEVEL_NAME_001]
+Frohes neues Jahr Jahr 1
 
 [S10_MEMORY_LEVEL_NAME_002]
-新年快乐2
+Frohes neues Jahr 2
 
 [S10_MEMORY_LEVEL_NAME_003]
-新年快乐3
+Frohes neues Jahr 3
 
 [S10_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S10_MEMORY_LEVEL_NAME_005]
-新年快乐4
+Frohes neues Jahr 4
 
 [S10_MEMORY_LEVEL_NAME_006]
-新年快乐5
+Frohes neues Jahr 5
 
 [S10_MEMORY_LEVEL_NAME_007]
-新年快乐6
+Frohes neues Jahr 6
 
 [S10_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S10_MEMORY_LEVEL_NAME_009]
-岁岁平安1
+Frieden und Glück 1
 
 [S10_MEMORY_LEVEL_NAME_010]
-岁岁平安2
+Frieden und Glück 2
 
 [S10_MEMORY_LEVEL_NAME_011]
-岁岁平安3
+Friedliches Leben 3
 
 [S10_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S10_MEMORY_LEVEL_NAME_013]
-岁岁平安4
+Friedliches Leben 4
 
 [S10_MEMORY_LEVEL_NAME_014]
-岁岁平安5
+Friedliches Leben 5
 
 [S10_MEMORY_LEVEL_NAME_015]
-岁岁平安6
+Friedliches Leben 6
 
 [S10_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S10_MEMORY_LEVEL_NAME_017]
-新年新气象1
+Neues Jahr, neue Atmosphäre 1
 
 [S10_MEMORY_LEVEL_NAME_018]
-新年新气象2
+Neues Jahr, neue Atmosphäre 2
 
 [S10_MEMORY_LEVEL_NAME_019]
-新年新气象3
+Neues Jahr, neue Atmosphäre 3
 
 [S10_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S10_MEMORY_LEVEL_NAME_021]
-新年新气象4
+Neues Jahr, neue Atmosphäre 4
 
 [S10_MEMORY_LEVEL_NAME_022]
-新年新气象5
+Neues Jahr, neue Atmosphäre 5
 
 [S10_MEMORY_LEVEL_NAME_023]
-新年新气象6
+Neues Jahr, neue Atmosphäre 6
 
 [S10_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombies Angriff
 
 [S10_MEMORY_LEVEL_NAME_025]
-护盾来袭1
+Schildangriff 1
 
 [S10_MEMORY_LEVEL_NAME_026]
-护盾来袭2
+Schildangriff 2
 
-[S10_MEMORY_LEVEL_NAME_027]
-护盾来袭3
+[S10_MEMORY_LEVEL_NAME_02 7]
+Schildangriff 3
 
 [S10_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
+Elite-Zombieangriff
 
 [S10_MEMORY_LEVEL_NAME_029]
-药罐子1
+Medizingefäß 1
 
 [S10_MEMORY_LEVEL_NAME_030]
-药罐子2
+Medizingefäß 2
 
 [S10_MEMORY_LEVEL_NAME_031]
-药罐子3
+Medizingefäß 3
 
 [S10_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite-Zombieangriff
 
-[S10_MEMORY_LEVEL_NAME_033]
-僵尸蹦迪1
+[S10_MEMORY_LEVEL_NAME_03 MORY_LEVEL_NAME_033]
+Zombie-Disko 1
 
 [S10_MEMORY_LEVEL_NAME_034]
-僵尸蹦迪2
+Zombie-Disko 2
 
 [S10_MEMORY_LEVEL_NAME_035]
-僵尸蹦迪3
+Zombie-Disko 3
 
 [S10_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S10_MEMORY_LEVEL_NAME_037]
-雷神之滋1
+Donnergott-Brut 1
 
-[S10_MEMORY_LEVEL_NAME_038]
-雷神之滋2
+[S10_MEMORY_LEVEL_NAME_ 038]
+Thors Brut 2
 
 [S10_MEMORY_LEVEL_NAME_039]
-雷神之滋3
+Thors Brut 3
 
 [S10_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S10_MEMORY_LEVEL_NAME_041]
-特洛伊木桶1
+Trojanisches Fass 1
 
 [S10_MEMORY_LEVEL_NAME_042]
-特洛伊木桶2
+Trojanisches Fass 2
 
 [S10_MEMORY_LEVEL_NAME_043]
-特洛伊木桶3
+Trojanisches Fass 3
 
 [S10_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S10_MEMORY_LEVEL_NAME_045]
-帝都风云1
+Kaiserliche Hauptstadt 1
 
 [S10_MEMORY_LEVEL_NAME_046]
-帝都风云2
+Kaiserliche Hauptstadt 2
 
 [S10_MEMORY_LEVEL_NAME_047]
-帝都风云3
+Kaiserliche Hauptstadt 3
 
 [S10_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S10_MEMORY_LEVEL_NAME_049]
-气候异常1
+Kaiserliche Hauptstadt 3
 
 [S10_MEMORY_LEVEL_NAME_050]
-气候异常2
+Kaiserliche Hauptstadt 4
 
 [S10_MEMORY_LEVEL_NAME_051]
-气候异常3
+Kaiserliche Hauptstadt 5
 
 [S10_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
+Kaiserliche Hauptstadt 6
 
 [S10_MEMORY_LEVEL_NAME_053]
-帝都风云再放送1
+Kaiserliche Hauptstadt 7
 
 [S10_MEMORY_LEVEL_NAME_054]
-帝都风云再放送2
+Kaiserliche Hauptstadt 8
 
 [S10_MEMORY_LEVEL_NAME_055]
-帝都风云再放送3
+Kaiserliche Hauptstadt 9
 
 [S10_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Kaiserliche Hauptstadt 10
 
 [S10_MEMORY_LEVEL_NAME_057]
-老头弹弹乐1
+Kaiserliche Hauptstadt 11
 
 [S10_MEMORY_LEVEL_NAME_058]
-老头弹弹乐2
+Kaiserliche Hauptstadt 12 EL_NAME_049]
+Klimaanomalie 1
+
+[S10_MEMORY_LEVEL_NAME_050]
+Klimaanomalie 2
+
+[S10_MEMORY_LEVEL_NAME_051]
+Klimaanomalie 3
+
+[S10_MEMORY_LEVEL_NAME_052]
+Elite-Zombies greifen an
+
+[S10_MEMORY_LEVEL_NAME_053]
+Wiederholung des Sturms in der Kaiserlichen Hauptstadt 1
+
+[S10_MEMORY_LEVEL_NAME_054]
+Wiederholung der Kaiserlichen Hauptstadt 2
+
+[S10_MEMORY_LEVEL_NAME_055]
+Wiederholung der Kaiserlichen Hauptstadt 3
+
+[S10_MEMORY_LEVEL_NAME_056]
+Elite-Zombies greifen an
+
+[S10_MEMORY_LEVEL_NAME_057]
+Alter Mann spielt Musik 1
+
+[S10_MEMORY_LEVEL_NAME_058]
+Alter Mann spielt Musik 2
 
 [S10_MEMORY_LEVEL_NAME_059]
-老头弹弹乐3
+Alter Mann spielt Musik 3
 
 [S10_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S10_MEMORY_LEVEL_NAME_061]
-僵尸要冲刺1
+Zombies sprinten 1
 
 [S10_MEMORY_LEVEL_NAME_062]
-僵尸要冲刺2
+Zombies sprinten 2
 
 [S10_MEMORY_LEVEL_NAME_063]
-僵尸要冲刺3
+Zombies sprinten 3
 
 [S10_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies kommen
 
-[S11_MEMORY_LEVEL_NAME_001]
-僵尸改造工程1
+[S11_MEMORY_LEVEL_NAME_066]
+Zombies sprinten 3
 
-[S11_MEMORY_LEVEL_NAME_002]
-僵尸改造工程2
+[S11_MEMORY_LEVEL_NAME_067]
+Zombies sprinten 3
 
-[S11_MEMORY_LEVEL_NAME_003]
-僵尸改造工程3
+[S11_MEMORY_LEVEL_NAME_068]
+Zombies sprinten 3
 
-[S11_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_005]
-沙暴天1
-
-[S11_MEMORY_LEVEL_NAME_006]
-沙暴天2
-
-[S11_MEMORY_LEVEL_NAME_007]
-沙暴天3
-
-[S11_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_009]
-加速突进1
-
-[S11_MEMORY_LEVEL_NAME_010]
-加速突进2
-
-[S11_MEMORY_LEVEL_NAME_011]
-加速突进3
-
-[S11_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_013]
-源源不绝1
-
-[S11_MEMORY_LEVEL_NAME_014]
-源源不绝2
-
-[S11_MEMORY_LEVEL_NAME_015]
-源源不绝3
-
-[S11_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_017]
-无懈可击1
-
-[S11_MEMORY_LEVEL_NAME_018]
-无懈可击2
-
-[S11_MEMORY_LEVEL_NAME_019]
-无懈可击3
-
-[S11_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_021]
-重返僵尸总部1
-
-[S11_MEMORY_LEVEL_NAME_022]
-重返僵尸总部2
-
-[S11_MEMORY_LEVEL_NAME_023]
-重返僵尸总部3
-
-[S11_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_025]
-雾里看花1
-
-[S11_MEMORY_LEVEL_NAME_026]
-雾里看花2
-
-[S11_MEMORY_LEVEL_NAME_027]
-雾里看花3
-
-[S11_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_029]
-天公作美1
-
-[S11_MEMORY_LEVEL_NAME_030]
-天公作美2
-
-[S11_MEMORY_LEVEL_NAME_031]
-天公作美3
-
-[S11_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_033]
-僵尸整蛊专家1
-
-[S11_MEMORY_LEVEL_NAME_034]
-僵尸整蛊专家2
-
-[S11_MEMORY_LEVEL_NAME_035]
-僵尸整蛊专家3
-
-[S11_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_037]
-违禁药品1
-
-[S11_MEMORY_LEVEL_NAME_038]
-违禁药品2
-
-[S11_MEMORY_LEVEL_NAME_039]
-违禁药品3
-
-[S11_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_041]
-僵尸快乐跳1
-
-[S11_MEMORY_LEVEL_NAME_042]
-僵尸快乐跳2
-
-[S11_MEMORY_LEVEL_NAME_043]
-僵尸快乐跳3
-
-[S11_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_045]
-全球变冷1
-
-[S11_MEMORY_LEVEL_NAME_046]
-全球变冷2
-
-[S11_MEMORY_LEVEL_NAME_047]
-全球变冷3
-
-[S11_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_049]
-计划超生1
-
-[S11_MEMORY_LEVEL_NAME_050]
-计划超生2
-
-[S11_MEMORY_LEVEL_NAME_051]
-计划超生3
-
-[S11_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_053]
-加速快进1
-
-[S11_MEMORY_LEVEL_NAME_054]
-加速快进2
-
-[S11_MEMORY_LEVEL_NAME_055]
-加速快进3
-
-[S11_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
-
-[S11_MEMORY_LEVEL_NAME_057]
-桶中藏僵1
-
-[S11_MEMORY_LEVEL_NAME_058]
-桶中藏僵2
-
-[S11_MEMORY_LEVEL_NAME_059]
-桶中藏僵3
-
-[S11_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+[S11_MEMORY_LEVEL_NAME_069]
+Zombies sprinten 3
 
 [S11_MEMORY_LEVEL_NAME_061]
-随地大小变1
+Zombies sprinten 1
 
 [S11_MEMORY_LEVEL_NAME_062]
-随地大小变2
+Zombies sprinten 2
 
 [S11_MEMORY_LEVEL_NAME_063]
-随地大小变3
+Zombies sprinten 3
+
+[S11_MEMORY_LEVEL_NAME_069]
+Zombies sprinten 3
+
+[S11_MEMORY_LEVEL_NAME_06 Y_LEVEL_NAME_001]
+Zombie-Transformationsprojekt 1
+
+[S11_MEMORY_LEVEL_NAME_002]
+Zombie-Transformationsprojekt 2
+
+[S11_MEMORY_LEVEL_NAME_003]
+Zombie-Transformationsprojekt 3
+
+[S11_MEMORY_LEVEL_NAME_004]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_005]
+Sandsturm 1
+
+[S11_MEMORY_LEVEL_NAME_006]
+E_006]
+Sandsturm 2
+
+[S11_MEMORY_LEVEL_NAME_007]
+Sandsturm 3
+
+[S11_MEMORY_LEVEL_NAME_008]
+Elite-Zombies greifen an
+
+[S11_MEMORY_LEVEL_NAME_009]
+Beschleunigen 1
+
+[S11_MEMORY_LEVEL_NAME_010]
+Beschleunigung 2
+
+[S11_MEMORY_LEVEL_NAME_011]
+Beschleunigung 3
+
+[S1 1_MEMORY_LEVEL_NAME_012]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_013]
+Endloser Vorrat 1
+
+[S11_MEMORY_LEVEL_NAME_014]
+Endloser Vorrat 2
+
+[S11_MEMORY_LEVEL_NAME_015]
+Endloser Vorrat 3
+
+[S11_MEMORY_LEVEL_NAME_016]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_017]
+Endloser Vorrat 3
+
+[S11_MEMORY_LEVEL_NAME_018]
+Elite-Zombies sind Kommt
+
+[S11_MEMORY_LEVEL_NAME_019]
+Endloser Vorrat 4
+
+[S11_MEMORY_LEVEL_NAME_020]
+NAME_017]
+Unverwundbar 1
+
+[S11_MEMORY_LEVEL_NAME_018]
+Unverwundbar 2
+
+[S11_MEMORY_LEVEL_NAME_019]
+Unverwundbar 3
+
+[S11_MEMORY_LEVEL_NAME_020]
+Elite-Zombies greifen an
+
+[S11_MEMORY_LEVEL_NAME_021]
+Rückkehr zum Zombie-Hauptquartier 1
+
+[S11_MEMORY_LEVEL_NAME_022]
+Rückkehr zum Zombie-Zombie-Hauptquartier 2
+
+[S11_MEMORY_LEVEL_NAME_023]
+Rückkehr zum Zombie-Hauptquartier 3
+
+[S11_MEMORY_LEVEL_NAME_024]
+Elite-Zombies greifen an
+
+[S11_MEMORY_LEVEL_NAME_025]
+Blumen im Nebel sehen 1
+
+[S11_MEMORY_LEVEL_NAME_026]
+Blumen im Nebel sehen 2
+
+[S11_MEMORY_LEVEL_NAME_027]
+Blumen im Nebel sehen 3
+
+[S11_MEMORY_LEVEL_NAME_028] ORY_LEVEL_NAME_028]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_029]
+Schönes Wetter 1
+
+[S11_MEMORY_LEVEL_NAME_030]
+Schönes Wetter 2
+
+[S11_MEMORY_LEVEL_NAME_031]
+Schönes Wetter 3
+
+[S11_MEMORY_LEVEL_NAME_032]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_ 033]
+Zombie-Experte 1
+
+[S11_MEMORY_LEVEL_NAME_034]
+Zombie-Experte 2
+
+[S11_MEMORY_LEVEL_NAME_035]
+Zombie-Experte 3
+
+[S11_MEMORY_LEVEL_NAME_036]
+Elite-Zombies greifen an
+
+[S11_MEMORY_LEVEL_NAME_037]
+Illegale Drogen 1
+
+[S11_MEMORY_LEVEL_NAME_038]
+Illegale Drogen 2
+
+[S11_MEMORY_LEVEL_NAME_039]
+Illegale Drogen 3
+
+[S11_MEMORY_LEVEL_NAME_040]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_041]
+Zombie-Freudesprung 1
+
+[S11_MEMORY_LEVEL_NAME_042]
+Zombie-Freudesprung 2
+
+[S11_MEMORY_LEVEL_NAME_043]
+Zombie-Freudesprung 3
+
+[S11_MEMORY_LEVEL_NAME_044]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_045]
+Zombie-Freudesprung 3
+
+[S11_MEMORY_LEVEL_NAME_046]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_047]
+Zombie-Freude Sprung 1
+
+[S11_MEMORY_LEVEL_NAME_048]
+Zombie-Freudesprung 2
+
+[S11_MEMORY_LEVEL_NAME_049]
+Zombie-Freudesprung 3
+
+[S11_MEMORY_LEVEL_NAME_050]
+Zombie-Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_051]
+Zombie-Freudesprung 1
+
+[S11_MEMORY_LEVEL_NAME_052]
+Zombie-Freudesprung 2
+
+[S11_MEMORY_LEVEL_NAME_053]
+Zombie-Freudesprung 3
+
+[S11_MEMORY_LEVEL_NAME_054]
+Zombie-Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_055] Y_LEVEL_NAME_045]
+Globale Abkühlung 1
+
+[S11_MEMORY_LEVEL_NAME_046]
+Globale Abkühlung 2
+
+[S11_MEMORY_LEVEL_NAME_047]
+Globale Abkühlung 3
+
+[S11_MEMORY_LEVEL_NAME_048]
+Elite-Zombies greifen an
+
+[S11_MEMORY_LEVEL_NAME_049]
+Geplante Überbevölkerung 1
+
+[S11_MEMORY_LEVEL_NAME_050]
+Geplante Überbevölkerung 2
+
+[S11_MEMORY_LEVEL_NAME_051]
+Planung der Überbevölkerung 3
+
+[S11_MEMORY_LEVEL_NAME_052]
+Elite-Zombies greifen an
+
+[S11_MEMORY_LEVEL_NAME_053]
+Schneller Vorlauf 1
+
+[S11_MEMORY_LEVEL_NAME_054]
+Schneller Vorlauf 2
+
+[S11_MEMORY_LEVEL_NAME_055]
+Schneller Vorlauf 3
+
+[S11_MEMORY_LEVEL_NAME_056]
+Elite-Zombies greifen an
+
+[S11_MEMORY_LEVEL_NAME_057]
+Zombies im Fass versteckt 1
+
+[S 11_MEMORY_LEVEL_NAME_058]
+Zombie im Fass 2
+
+[S11_MEMORY_LEVEL_NAME_059]
+Zombie im Fass 3
+
+[S11_MEMORY_LEVEL_NAME_060]
+Elite-Zombies kommen
+
+[S11_MEMORY_LEVEL_NAME_061]
+Größe ändert sich um 1, wo immer du bist
+
+[S11_MEMORY_LEVEL_NAME_062]
+Größe ändert sich um 2, wo immer du bist sind
+
+[S11_MEMORY_LEVEL_NAME_063]
+Größenänderung um 3, wo immer du dich befindest
 
 [S11_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S12_MEMORY_LEVEL_NAME_001]
-魔镜啊魔镜1
+Magischer Spiegel, Magischer Spiegel 1
 
 [S12_MEMORY_LEVEL_NAME_002]
-魔镜啊魔镜2
+Magischer Spiegel, Magischer Spiegel 2
 
 [S12_MEMORY_LEVEL_NAME_003]
-魔镜啊魔镜3
+Magischer Spiegel, Magischer Spiegel 3
 
 [S12_MEMORY_LEVEL_NAME_004]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S12_MEMORY_LEVEL_NAME_005]
-车轮滚滚1
+Rollende Räder 1
 
 [S12_MEMORY_LEVEL_NAME_006]
-车轮滚滚2
+Rollende Räder 2
 
 [S12_MEMORY_LEVEL_NAME_007]
-车轮滚滚3
+Rollende Räder 3
 
 [S12_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S12_MEMORY_LEVEL_NAME_009]
-冰雪突袭1
+Eis-Raid 1
 
 [S12_MEMORY_LEVEL_NAME_010]
-冰雪突袭2
+Eis-Raid 2
 
 [S12_MEMORY_LEVEL_NAME_011]
-冰雪突袭3
+Eis-Raid 3
 
 [S12_MEMORY_LEVEL_NAME_012]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S12_MEMORY_LEVEL_NAME_013]
-人多势众1
+Gemeinsam stark 1
 
 [S12_MEMORY_LEVEL_NAME_014]
-人多势众2
+Gemeinsam stark 2
 
 [S12_MEMORY_LEVEL_NAME_015]
-人多势众3
+Gemeinsam stark 3
 
 [S12_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S12_MEMORY_LEVEL_NAME_017]
-僵尸必须死1
+Zombies müssen sterben 1
 
 [S12_MEMORY_LEVEL_NAME_018]
-僵尸必须死2
+Zombies müssen sterben 2
 
 [S12_MEMORY_LEVEL_NAME_019]
-僵尸必须死3
+Zombies müssen sterben 3
 
 [S12_MEMORY_LEVEL_NAME_020]
-精英僵尸来袭
+EVEL_NAME_019]
+Zombies müssen sterben 3
+
+[S12_MEMORY_LEVEL_NAME_020]
+Elite-Zombies greifen an
 
 [S12_MEMORY_LEVEL_NAME_021]
-谁是最美僵尸1
+Wer ist der schönste Zombie? 1
 
 [S12_MEMORY_LEVEL_NAME_022]
-谁是最美僵尸2
+Wer ist der schönste Zombie? 2
 
 [S12_MEMORY_LEVEL_NAME_023]
-谁是最美僵尸3
+Wer ist der schönste Zombie? 3
 
 [S12_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S12_MEMORY_LEVEL_NAME_025]
-如梦似幻1
+Wer ist der schönste Zombie? 3
 
 [S12_MEMORY_LEVEL_NAME_026]
-如梦似幻2
+Elite-Zombies greifen an
 
 [S12_MEMORY_LEVEL_NAME_027]
-如梦似幻3
+Wer ist der schönste Zombie? 1
 
 [S12_MEMORY_LEVEL_NAME_028]
-精英僵尸来袭
+Wer ist der schönste Zombie? 2
 
 [S12_MEMORY_LEVEL_NAME_029]
-瞒天过海到蓬莱1
+Wer ist der schönste Zombie? 3
 
 [S12_MEMORY_LEVEL_NAME_030]
-瞒天过海到蓬莱2
+Elite-Zombies Angriff
 
 [S12_MEMORY_LEVEL_NAME_031]
-瞒天过海到蓬莱3
+AME_025]
+Wie ein Traum 1
+
+[S12_MEMORY_LEVEL_NAME_026]
+Wie ein Traum 2
+
+[S12_MEMORY_LEVEL_NAME_027]
+Wie ein Traum 3
+
+[S12_MEMORY_LEVEL_NAME_028]
+Elite-Zombies kommen
+
+[S12_MEMORY_LEVEL_NAME_029]
+Verstecke den Himmel und überquere das Meer nach Penglai 1
+
+[S12_MEMORY_LEVEL_NAME_030]
+Verstecke den Himmel und überquere das Meer nach Penglai 2
+
+[S12_MEMORY_LEVEL_NAME_031]
+Verstecke den Himmel und überquere das Meer nach Penglai 3
 
 [S12_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite Zombies greifen an
 
 [S12_MEMORY_LEVEL_NAME_033]
-反正不是你1
+Du bist es sowieso nicht 1
 
 [S12_MEMORY_LEVEL_NAME_034]
-反正不是你2
+Du bist es sowieso nicht 2
 
 [S12_MEMORY_LEVEL_NAME_035]
-反正不是你3
+Du bist es sowieso nicht 3
 
 [S12_MEMORY_LEVEL_NAME_036]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S12_MEMORY_LEVEL_NAME_037]
-僵尸坐飞机1
+Zombies im Flugzeug 1
 
 [S12_MEMORY_LEVEL_NAME_038]
-僵尸坐飞机2
+Zombies im Flugzeug 2
 
 [S12_MEMORY_LEVEL_NAME_039]
-僵尸坐飞机3
+Zombies im Flugzeug 3
 
 [S12_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombies sind kommt
 
 [S12_MEMORY_LEVEL_NAME_041]
-一声惊雷1
+Ein Donnerschlag 1
 
 [S12_MEMORY_LEVEL_NAME_042]
-一声惊雷2
+Ein Donnerschlag 2
 
 [S12_MEMORY_LEVEL_NAME_043]
-一声惊雷3
+Ein Donnerschlag 3
 
 [S12_MEMORY_LEVEL_NAME_044]
-精英僵尸来袭
+Y_LEVEL_NAME_044]
+Elite-Zombies kommen
 
 [S12_MEMORY_LEVEL_NAME_045]
-法老之力1
+Macht des Pharaos 1
 
 [S12_MEMORY_LEVEL_NAME_046]
-法老之力2
+Macht des Pharaos 2
 
 [S12_MEMORY_LEVEL_NAME_047]
-法老之力3
+Macht des Pharaos 3
 
 [S12_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombies sind Kommt
 
 [S12_MEMORY_LEVEL_NAME_049]
-让僵尸滚起来吧1
+Lasst die Zombies rollen 1
 
-[S12_MEMORY_LEVEL_NAME_050]
-让僵尸滚起来吧2
+[S12_MEMORY_LEVEL_NA ME_050]
+Lasst die Zombies rollen 2
 
 [S12_MEMORY_LEVEL_NAME_051]
-让僵尸滚起来吧3
+Lasst die Zombies rollen 3
 
 [S12_MEMORY_LEVEL_NAME_052]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S12_MEMORY_LEVEL_NAME_053]
-僵体改造1
+Zombie-Transformation 1
 
 [S12_MEMORY_LEVEL_NAME_054]
-僵体改造2
+Zombie-Transformation 2
 
 [S12_MEMORY_LEVEL_NAME_055]
-僵体改造3
+Zombie-Transformation 3
 
 [S12_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Elite-Zombies sind Kommt
 
 [S12_MEMORY_LEVEL_NAME_057]
-僵尸药神1
+Zombie-Medizingott 1
 
 [S12_MEMORY_LEVEL_NAME_058]
-僵尸药神2
+Zombie-Medizingott 2
 
 [S12_MEMORY_LEVEL_NAME_059]
-僵尸药神3
+Zombie-Medizingott 3
 
 [S12_MEMORY_LEVEL_NAME_060]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S12_MEMORY_LEVEL_NAME_061]
-恼羞成怒1
+Wütend und gedemütigt 1
 
 [S12_MEMORY_LEVEL_NAME_062]
-恼羞成怒2
+Wütend und gedemütigt 2
 
-[S12_MEMORY_LEVEL_NAME_063]
-恼羞成怒3
+[S12_MEMORY_LEVEL_NAME_063] EMORY_LEVEL_NAME_063]
+Wütend 3
 
 [S12_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies Angriff
 
 [S13_MEMORY_LEVEL_NAME_001]
-仲夏之花火1
+Mittsommerfeuerwerk 1
 
 [S13_MEMORY_LEVEL_NAME_002]
-仲夏之花火2
+Mittsommerfeuerwerk 2
 
 [S13_MEMORY_LEVEL_NAME_003]
-仲夏之花火3
+Mittsommerfeuerwerk 3
 
 [S13_MEMORY_LEVEL_NAME_004]
-看星星
+Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_005]
-夏日迷梦1
+Sommertraum 1
 
 [S13_MEMORY_LEVEL_NAME_006]
-夏日迷梦2
+Sommertraum 2
 
 [S13_MEMORY_LEVEL_NAME_007]
-夏日迷梦3
+Sommertraum 3
 
 [S13_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S13_MEMORY_LEVEL_NAME_009]
-七月飞沙1
+Juli-Sand 1
 
 [S13_MEMORY_LEVEL_NAME_010]
-七月飞沙2
+Juli Sand 2
 
 [S13_MEMORY_LEVEL_NAME_011]
-七月飞沙3
+Juli Sand 3
 
 [S13_MEMORY_LEVEL_NAME_012]
-看星星
+Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_013]
-热辣滚桶1
+Heißes Fass 1
 
 [S13_MEMORY_LEVEL_NAME_014]
-热辣滚桶2
+Heißes Fass 2
 
 [S13_MEMORY_LEVEL_NAME_015]
-热辣滚桶3
+Heißes Fass 3
 
 [S13_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S13_MEMORY_LEVEL_NAME_017]
-天干物燥1
-
-[S13_MEMORY_LEVEL_NAME_018]
-天干物燥2
+Trockenes Wetter 1 ...8]
+Heißes Fass 2
 
 [S13_MEMORY_LEVEL_NAME_019]
-天干物燥3
+Heißes Fass 3
 
 [S13_MEMORY_LEVEL_NAME_020]
-看星星
+Elite-Zombies kommen
 
 [S13_MEMORY_LEVEL_NAME_021]
-小心用电1
-
-[S13_MEMORY_LEVEL_NAME_022]
-小心用电2
+Heißes Fass 2
 
 [S13_MEMORY_LEVEL_NAME_023]
-小心用电3
+Heißes Fass 3
 
 [S13_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Heißes Fass 3 Y_LEVEL_NAME_018]
+Trockenes Wetter 2
+
+[S13_MEMORY_LEVEL_NAME_019]
+Trockenes Wetter 3
+
+[S13_MEMORY_LEVEL_NAME_020]
+Sterne beobachten
+
+[S13_MEMORY_LEVEL_NAME_021]
+Vorsicht mit Elektrizität 1
+
+[S13_MEMORY_LEVEL_NAME_022]
+Vorsicht mit Elektrizität 2
+
+[S13_MEMORY_LEVEL_NAME_023]
+Vorsicht mit Elektrizität 3
+
+[S13_MEMORY_LEVEL_NAME_024]
+Vorsicht mit Elektrizität 3
 
 [S13_MEMORY_LEVEL_NAME_025]
-起风了1
+E_024]
+Elite-Zombies kommen
+
+[S13_MEMORY_LEVEL_NAME_025]
+Der Wind weht 1
 
 [S13_MEMORY_LEVEL_NAME_026]
-起风了2
+Der Wind weht 2
 
 [S13_MEMORY_LEVEL_NAME_027]
-起风了3
+Der Wind weht 3
 
 [S13_MEMORY_LEVEL_NAME_028]
-看星星
+Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_029]
-冷雨夜1
+Kalte, regnerische Nacht 1
 
 [S13_MEMORY_LEVEL_NAME_030]
-冷雨夜2
+Kalte, regnerische Nacht 2
 
 [S13_MEMORY_LEVEL_NAME_031]
-冷雨夜3
+Kalte, regnerische Nacht 3
 
 [S13_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S13_MEMORY_LEVEL_NAME_033]
-金秋出游1
+Goldener Herbstausflug 1
 
 [S13_MEMORY_LEVEL_NAME_034]
-金秋出游2
+Goldener Herbstausflug 2
 
 [S13_MEMORY_LEVEL_NAME_035]
-金秋出游3
+Goldener Herbstausflug 3
 
 [S13_MEMORY_LEVEL_NAME_036]
-看星星
+Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_037]
-化学试剂1
+Goldener Herbstausflug 1
 
 [S13_MEMORY_LEVEL_NAME_038]
-化学试剂2
+Goldener Herbstausflug 2
 
 [S13_MEMORY_LEVEL_NAME_039]
-化学试剂3
+Goldener Herbstausflug 3
 
 [S13_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Goldener Herbst Ausflug 3
 
 [S13_MEMORY_LEVEL_NAME_041]
-精装修泳池1
+Goldener Herbstausflug 3
 
 [S13_MEMORY_LEVEL_NAME_042]
-精装修泳池2
+Goldener Herbstausflug 3
 
 [S13_MEMORY_LEVEL_NAME_043]
-精装修泳池3
+Goldener Herbstausflug 3
 
 [S13_MEMORY_LEVEL_NAME_044]
-看星星
+Goldener Herbstausflug 3
 
 [S13_MEMORY_LEVEL_NAME_045]
-小丑起源1
+Goldener Herbstausflug 3
 
 [S13_MEMORY_LEVEL_NAME_046]
-小丑起源2
+Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_047]
-小丑起源3
+Goldener Herbstausflug 1
+
+[S13_MEMORY_LEVEL_NAME_037]
+Chemisches Reagenz 1
+
+[S13_MEMORY_LEVEL_NAME_038]
+Chemisches Reagenz 2
+
+[S13_MEMORY_LEVEL_NAME_039]
+Chemisches Reagenz 3
+
+[S13_MEMORY_LEVEL_NAME_040]
+Elite-Zombies kommen
+
+[S13_MEMORY_LEVEL_NAME_041]
+Schön dekorierter Swimmingpool 1
+
+[S13_MEMORY_LEVEL_NAME_042]
+Schön dekorierter Swimmingpool 2
+
+[S13_MEMORY_LEVEL_NAME_043]
+Schön dekorierter Swimmingpool 3
+
+[S13_MEMORY_LEVEL_NAME_044]
+Sternenbeobachtung
+
+[S13_MEMORY_LEVEL_NAME_045]
+Ursprung des Clowns 1
+
+[S13_MEMORY_LEVEL_NAME_046]
+Die Herkunft des Clowns 2
+
+[S13_MEMORY_LEVEL_NAME_047]
+Die Herkunft des Clowns 3
 
 [S13_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S13_MEMORY_LEVEL_NAME_049]
-混合沙冰1
+Gemischter Smoothie 1
 
 [S13_MEMORY_LEVEL_NAME_050]
-混合沙冰2
+Gemischter Smoothie 2
 
 [S13_MEMORY_LEVEL_NAME_051]
-混合沙冰3
+Gemischter Smoothie 3
 
 [S13_MEMORY_LEVEL_NAME_052]
-看星星
+Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_053]
-肥皂泡泡1
+Seifenblasen 1
 
 [S13_MEMORY_LEVEL_NAME_054]
-肥皂泡泡2
+Seifenblasen 2
 
 [S13_MEMORY_LEVEL_NAME_055]
-肥皂泡泡3
+Seifenblasen 3
 
-[S13_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+[S13_MEMORY_LEVEL_NAME_056] MEMORY_LEVEL_NAME_056]
+Elite-Zombies greifen an
 
 [S13_MEMORY_LEVEL_NAME_057]
-如何治理水污染1
+Wasserverschmutzung bekämpfen 1
 
 [S13_MEMORY_LEVEL_NAME_058]
-如何治理水污染2
+Wasserverschmutzung bekämpfen 2
 
 [S13_MEMORY_LEVEL_NAME_059]
-如何治理水污染3
+Wasserverschmutzung bekämpfen 3
 
 [S13_MEMORY_LEVEL_NAME_060]
-看星星
+Sterne beobachten
 
 [S13_MEMORY_LEVEL_NAME_061]
-电力小子Ⅱ型1
+Power Boy II Typ 1
 
-[S13_MEMORY_LEVEL_NAME_062]
-电力小子Ⅱ型2
+[S13_ MEMORY_LEVEL_NAME_062]
+Power Boy II Typ 2
 
 [S13_MEMORY_LEVEL_NAME_063]
-电力小子Ⅱ型3
+Power Boy II Typ 3
 
 [S13_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S14_MEMORY_LEVEL_NAME_001]
-镜面传送1
+Spiegelteleport 1
 
 [S14_MEMORY_LEVEL_NAME_002]
-镜面传送2
+Spiegelteleport 2
 
 [S14_MEMORY_LEVEL_NAME_003]
-镜面传送3
+Spiegelteleport 3
 
 [S14_MEMORY_LEVEL_NAME_004]
-坚果保龄球
+Spiegelteleport 4
 
 [S14_MEMORY_LEVEL_NAME_005]
-电磁护盾1
+Spiegelteleport 5
 
 [S14_MEMORY_LEVEL_NAME_006]
-电磁护盾2
+Spiegelteleport 6
 
 [S14_MEMORY_LEVEL_NAME_007]
-电磁护盾3
+Spiegelteleport 7
 
 [S14_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Spiegelteleport 8
 
 [S14_MEMORY_LEVEL_NAME_009]
-科学改造1
+Spiegelteleport 9
 
 [S14_MEMORY_LEVEL_NAME_010]
-科学改造2
+Spiegelteleport 1
 
 [S14_MEMORY_LEVEL_NAME_011]
-科学改造3
+Spiegelteleport 1
 
 [S14_MEMORY_LEVEL_NAME_012]
-坚果保龄球
+Spiegelteleport 2
 
 [S14_MEMORY_LEVEL_NAME_013]
-飞空泡泡1
+Spiegelteleport 3
 
 [S14_MEMORY_LEVEL_NAME_014]
-飞空泡泡2
+Spiegelteleport 1
 
 [S14_MEMORY_LEVEL_NAME_015]
-飞空泡泡3
+Spiegelteleport 2
 
 [S14_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Spiegelteleport 3 RY_LEVEL_NAME_004]
+Nuss-Bowling
+
+[S14_MEMORY_LEVEL_NAME_005]
+Elektromagnetischer Schild 1
+
+[S14_MEMORY_LEVEL_NAME_006]
+Elektromagnetischer Schild 2
+
+[S14_MEMORY_LEVEL_NAME_007]
+Elektromagnetischer Schild 3
+
+[S14_MEMORY_LEVEL_NAME_008]
+Elite-Zombie-Angriff
+
+[S14_MEMORY_LEVEL_NAME_009]
+Wissenschaftliche Transformation 1
+
+[S14_MEMORY_LEVEL_NAME_010]
+Wissenschaftliche Transformation 2
+
+[S14_MEMORY_LEVEL_NAME_011]
+Wissenschaftstransformation 3
+
+[S14_MEMORY_LEVEL_NAME_012]
+Nuss-Bowling
+
+[S14_MEMORY_LEVEL_NAME_013]
+Fliegende Blase 1
+
+[S14_MEMORY_LEVEL_NAME_014]
+Fliegende Blase 2
+
+[S14_MEMORY_LEVEL_NAME_015]
+Fliegende Blase 3
+
+[S14_MEMORY_LEVEL_NAME_016]
+Elite-Zombie-Angriff
 
 [S14_MEMORY_LEVEL_NAME_017]
-冰雪风暴1
+Eissturm 1
 
 [S14_MEMORY_LEVEL_NAME_018]
-冰雪风暴2
+Eissturm 2
 
 [S14_MEMORY_LEVEL_NAME_019]
-冰雪风暴3
+Eissturm 3
 
 [S14_MEMORY_LEVEL_NAME_020]
-坚果保龄球
+Nuss-Bowling
 
 [S14_MEMORY_LEVEL_NAME_021]
-强力弹簧1
+Kraftvolle Feder 1
 
 [S14_MEMORY_LEVEL_NAME_022]
-强力弹簧2
+Kraftvolle Feder 2
 
 [S14_MEMORY_LEVEL_NAME_023]
-强力弹簧3
+Kraftvolle Feder 3
 
 [S14_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S14_MEMORY_LEVEL_NAME_025]
-子子孙孙1
+Nachkommen 1
 
 [S14_MEMORY_LEVEL_NAME_026]
-子子孙孙2
+Nachkommen 2
 
 [S14_MEMORY_LEVEL_NAME_027]
-子子孙孙3
+Nachkommen 3
 
 [S14_MEMORY_LEVEL_NAME_028]
-坚果保龄球
+Nuss Bowling
 
 [S14_MEMORY_LEVEL_NAME_029]
-天公不作美1
+Nachkommen 4
 
 [S14_MEMORY_LEVEL_NAME_030]
-天公不作美2
+Nachkommen 5
 
 [S14_MEMORY_LEVEL_NAME_031]
-天公不作美3
+Nachkommen 6
 
 [S14_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Nachkommen 7
 
 [S14_MEMORY_LEVEL_NAME_033]
-滚滚向前1
+Nachkommen 8
 
 [S14_MEMORY_LEVEL_NAME_034]
-滚滚向前2
+Nachkommen 9
 
 [S14_MEMORY_LEVEL_NAME_035]
-滚滚向前3
+Nachkommen 10
 
 [S14_MEMORY_LEVEL_NAME_036]
-坚果保龄球
+Nachkommen 21
 
 [S14_MEMORY_LEVEL_NAME_037]
-沙暴冲刺1
+Nachkommen 32
 
 [S14_MEMORY_LEVEL_NAME_038]
-沙暴冲刺2
+Nuss-Bowling
 
 [S14_MEMORY_LEVEL_NAME_039]
-沙暴冲刺3
+Nachkommen 11
+
+[S14_MEMORY_LEVEL_NAME_030]
+Nachkommen 12
+
+[S14_MEMORY RY_LEVEL_NAME_029]
+Ungünstiges Wetter 1
+
+[S14_MEMORY_LEVEL_NAME_030]
+Ungünstiges Wetter 2
+
+[S14_MEMORY_LEVEL_NAME_031]
+Ungünstiges Wetter 3
+
+[S14_MEMORY_LEVEL_NAME_032]
+Elite-Zombies kommen
+
+[S14_MEMORY_LEVEL_NAME_033]
+Vorwärtsrollen 1
+
+[S14_MEMORY_LEVEL_NAME_034]
+Vorwärtsrollen 2
+
+[S14_MEMORY_LEVEL_NAME_036]
+Rolle vorwärts 3
+
+[S14_MEMORY_LEVEL_NAME_037]
+Rolle vorwärts 4
+
+[S14_MEMORY_LEVEL_NAME_038]
+Rolle vorwärts 5
+
+[S14_MEMORY_LEVEL_NAME_039]
+Rolle vorwärts 6
 
 [S14_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Rolle vorwärts 7
 
 [S14_MEMORY_LEVEL_NAME_041]
-未来科技1
-
-[S14_MEMORY_LEVEL_NAME_042]
-未来科技2
+Rolle vorwärts 8
 
 [S14_MEMORY_LEVEL_NAME_043]
-未来科技3
+Rolle vorwärts 9
 
 [S14_MEMORY_LEVEL_NAME_044]
-坚果保龄球
+Rolle vorwärts 10
 
 [S14_MEMORY_LEVEL_NAME_045]
-力大砖飞1
+Rolle vorwärts 11
 
 [S14_MEMORY_LEVEL_NAME_046]
-力大砖飞2
+Rolle vorwärts 12
 
 [S14_MEMORY_LEVEL_NAME_047]
-力大砖飞3
+Rolle vorwärts 13
 
 [S14_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Rolle vorwärts 14
+
+[S14_MEMORY_LEVEL_NAME_049] EL_NAME_035]
+Rolle vorwärts 3
+
+[S14_MEMORY_LEVEL_NAME_036]
+Nuss-Bowling
+
+[S14_MEMORY_LEVEL_NAME_037]
+Sandsturm-Sprint 1
+
+[S14_MEMORY_LEVEL_NAME_038]
+Sandsturm-Sprint 2
+
+[S14_MEMORY_LEVEL_NAME_039]
+Sandsturm-Sprint 3
+
+[S14_MEMORY_LEVEL_NAME_040]
+Elite-Zombie Angriff
+
+[S14_MEMORY_LEVEL_NAME_ 041]
+Zukunftstechnologie 1
+
+[S14_MEMORY_LEVEL_NAME_042]
+Zukunftstechnologie 2
+
+[S14_MEMORY_LEVEL_NAME_043]
+Zukunftstechnologie 3
+
+[S14_MEMORY_LEVEL_NAME_044]
+Nuss-Bowling
+
+[S14_MEMORY_LEVEL_NAME_045]
+Starker Ziegelflug 1
+
+[S14_MEMORY_LEVEL_NAME_046]
+Starker Ziegelflug 2
+
+[S14_MEMORY_LEVEL_NAME_047]
+Starker Ziegelflug 3
+
+[S14_MEMORY_LEVEL_NAME_048]
+Elite-Zombies greifen an
 
 [S14_MEMORY_LEVEL_NAME_049]
-烟雾尘天1
+Rauch und Staub 1
 
 [S14_MEMORY_LEVEL_NAME_050]
-烟雾尘天2
+Rauch und Staub 2
 
 [S14_MEMORY_LEVEL_NAME_051]
-烟雾尘天3
+Rauch und Staub 3
 
 [S14_MEMORY_LEVEL_NAME_052]
-坚果保龄球
+Nuss-Bowling
 
 [S14_MEMORY_LEVEL_NAME_053]
-彼岸来客1
+Besucher vom anderen Ufer 1
 
 [S14_MEMORY_LEVEL_NAME_054]
-彼岸来客2
+Besucher vom anderen Ufer 2
 
 [S14_MEMORY_LEVEL_NAME_055]
-彼岸来客3
+Besucher vom anderen Ufer 3
 
 [S14_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S14_MEMORY_LEVEL_NAME_057]
-防腐药剂1
+Korrosionsschutztrank 1
 
 [S14_MEMORY_LEVEL_NAME_058]
-防腐药剂2
+Korrosionsschutztrank 2
 
 [S14_MEMORY_LEVEL_NAME_059]
-防腐药剂3
+Korrosionsschutzmittel 3
 
 [S14_MEMORY_LEVEL_NAME_060]
-坚果保龄球
+Nuss-Bowling
 
 [S14_MEMORY_LEVEL_NAME_061]
-霜华满天1
+Frost am Himmel 1
 
 [S14_MEMORY_LEVEL_NAME_062]
-霜华满天2
+Frost am Himmel 2
 
 [S14_MEMORY_LEVEL_NAME_063]
-霜华满天3
+Frost am Himmel 3
 
-[S14_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+[S14_MEMORY_LEVEL _NAME_064]
+Elite-Zombies greifen an
 
 [S15_MEMORY_LEVEL_NAME_001]
-人如僵尸1
+Menschen sind wie Zombies 1
 
 [S15_MEMORY_LEVEL_NAME_002]
-人如僵尸2
+Menschen sind wie Zombies 2
 
 [S15_MEMORY_LEVEL_NAME_003]
-人如僵尸3
+Menschen sind wie Zombies 3
 
 [S15_MEMORY_LEVEL_NAME_004]
-坚果保龄球
+Nuss-Bowling
 
 [S15_MEMORY_LEVEL_NAME_005]
-分秒必争1
+Jede Sekunde zählt 1
 
 [S15_MEMORY_LEVEL_NAME_006]
-分秒必争2
+Zeit 2
 
 [S15_MEMORY_LEVEL_NAME_007]
-分秒必争3
+Zeit 3
 
 [S15_MEMORY_LEVEL_NAME_008]
-精英僵尸来袭
+Elite-Zombies Angriff
 
 [S15_MEMORY_LEVEL_NAME_009]
-桶狭间之战1
+Schlacht am Okehazama 1
 
 [S15_MEMORY_LEVEL_NAME_010]
-桶狭间之战2
+Schlacht am Okehazama 2
 
 [S15_MEMORY_LEVEL_NAME_011]
-桶狭间之战3
+Schlacht am Okehazama 2 VEL_NAME_011]
+Schlacht am Okehazama 3
 
 [S15_MEMORY_LEVEL_NAME_012]
-看南瓜
+Kürbisbeobachtung
 
 [S15_MEMORY_LEVEL_NAME_013]
-人生五十年1
+50 Jahre Leben 1
 
 [S15_MEMORY_LEVEL_NAME_014]
-人生五十年2
+50 Jahre Leben 2
 
 [S15_MEMORY_LEVEL_NAME_015]
-人生五十年3
+50 Jahre Leben 3
 
 [S15_MEMORY_LEVEL_NAME_016]
-精英僵尸来袭
+Elite-Zombies kommen
 
 [S15_MEMORY_LEVEL_NAME_017]
-如梦亦如幻1
+Wie ein Traum, wie eine Fantasie 1
 
 [S15_MEMORY_LEVEL_NAME_018]
-如梦亦如幻2
+Wie ein Traum, wie eine Fantasie 2
 
 [S15_MEMORY_LEVEL_NAME_019]
-如梦亦如幻3
+Wie ein Traum, wie eine Fantasie 3
 
 [S15_MEMORY_LEVEL_NAME_020]
-坚果保龄球
+Nuss-Bowling
 
 [S15_MEMORY_LEVEL_NAME_021]
-无常之风1
+Der Wind der Vergänglichkeit 1
+
+[S15_MEMORY_LEVEL_NAME_021]
+Der Wind der Vergänglichkeit 1
 
 [S15_MEMORY_LEVEL_NAME_022]
-无常之风2
+RY_LEVEL_NAME_022]
+Unvorhersehbarer Wind 2
 
 [S15_MEMORY_LEVEL_NAME_023]
-无常之风3
+Unvorhersehbarer Wind 3
 
 [S15_MEMORY_LEVEL_NAME_024]
-精英僵尸来袭
+Elite-Zombie-Angriff
 
 [S15_MEMORY_LEVEL_NAME_025]
-死里逃生1
+Flucht vor dem Tod 1
 
 [S15_MEMORY_LEVEL_NAME_026]
-死里逃生2
+Flucht vor dem Tod 2
 
 [S15_MEMORY_LEVEL_NAME_027]
-死里逃生3
+Überleben 3
 
 [S15_MEMORY_LEVEL_NAME_028]
-看星星
+Sternenbeobachtung
 
 [S15_MEMORY_LEVEL_NAME_029]
-生死有命1
+Leben und Tod 1
 
 [S15_MEMORY_LEVEL_NAME_030]
-生死有命2
+Leben und Tod 2
 
 [S15_MEMORY_LEVEL_NAME_031]
-生死有命3
+Leben und Tod 3
 
 [S15_MEMORY_LEVEL_NAME_032]
-精英僵尸来袭
+Elite-Zombies greifen an
 
 [S15_MEMORY_LEVEL_NAME_033]
-滚滚红尘1
+Rollender roter Staub 1
 
 [S15_MEMORY_LEVEL_NAME_034]
-滚滚红尘2
+Rollender roter Staub 2
 
 [S15_MEMORY_LEVEL_NAME_035]
-滚滚红尘3
+Rollender roter Staub 3
 
 [S15_MEMORY_LEVEL_NAME_036]
-坚果保龄球
+Nuss-Bowling
 
 [S15_MEMORY_LEVEL_NAME_037]
-皆为黄土1
+Gelbe Erde 1
 
 [S15_MEMORY_LEVEL_NAME_038]
-皆为黄土2
+Löss für Löss 2
 
 [S15_MEMORY_LEVEL_NAME_039]
-皆为黄土3
+Löss für Löss 3
 
 [S15_MEMORY_LEVEL_NAME_040]
-精英僵尸来袭
+Elite-Zombies Angriff
 
 [S15_MEMORY_LEVEL_NAME_041]
-避雷针1
+Blitzableiter 1
 
 [S15_MEMORY_LEVEL_NAME_042]
-避雷针2
+Blitzableiter 2
 
 [S15_MEMORY_LEVEL_NAME_043]
-避雷针3
+Blitzableiter 3
 
 [S15_MEMORY_LEVEL_NAME_044]
-看星星
+VEL_NAME_044]
+Sternenbeobachtung
 
 [S15_MEMORY_LEVEL_NAME_045]
-下雨打雷收衣服1
+Kleidung sammeln bei Regen und Donner 1
 
 [S15_MEMORY_LEVEL_NAME_046]
-下雨打雷收衣服2
+Kleidung sammeln bei Regen und Donner 2
 
 [S15_MEMORY_LEVEL_NAME_047]
-下雨打雷收衣服3
+Kleidung sammeln bei Regen und Donner 3
 
 [S15_MEMORY_LEVEL_NAME_048]
-精英僵尸来袭
+Elite-Zombies sind Demnächst
 
-[S15_MEMORY_LEVEL_NAME_049]
-时空传送1
+[S15_MEMORY_LEVEL_NAME_04 9]
+Zeit- und Raumteleport 1
 
 [S15_MEMORY_LEVEL_NAME_050]
-时空传送2
+Zeit- und Raumteleport 2
 
 [S15_MEMORY_LEVEL_NAME_051]
-时空传送3
+Zeit- und Raumteleport 3
 
 [S15_MEMORY_LEVEL_NAME_052]
-坚果保龄球
+Nuss-Bowling
 
 [S15_MEMORY_LEVEL_NAME_053]
-该死的跳跳乐1
+Verdammter Hüpfspaß 1
 
 [S15_MEMORY_LEVEL_NAME_054]
-该死的跳跳乐2
+Verdammter Hüpfspaß 2
 
 [S15_MEMORY_LEVEL_NAME_055]
-该死的跳跳乐3
+Verdammte Hüpfmusik 3
 
 [S15_MEMORY_LEVEL_NAME_056]
-精英僵尸来袭
+Elite-Zombies Angriff
 
 [S15_MEMORY_LEVEL_NAME_057]
-颠倒世界1
+Umgedrehte Welt 1
 
 [S15_MEMORY_LEVEL_NAME_058]
-颠倒世界2
+Umgedrehte Welt 2
 
 [S15_MEMORY_LEVEL_NAME_059]
-颠倒世界3
+Umgedrehte Welt 3
 
 [S15_MEMORY_LEVEL_NAME_060]
-看星星
+Sternenbeobachtung
 
 [S15_MEMORY_LEVEL_NAME_061]
-冰雪交加1
+Schnee und Eis 1
 
 [S15_MEMORY_LEVEL_NAME_062]
-冰雪交加2
+Schnee und Eis 2
 
 [S15_MEMORY_LEVEL_NAME_063]
-冰雪交加3
+Schnee und Eis 3
 
 [S15_MEMORY_LEVEL_NAME_064]
-精英僵尸来袭
+Elite-Zombies sind Demnächst
 
 [S23_MEMORY_LEVEL_NAME_01]
-复仇者联盟
+Avengers
 
 [S23_MEMORY_LEVEL_NAME_02]
-后院豪劫
+Hinterhofraub
 
 [S23_MEMORY_LEVEL_NAME_03]
-植物大战动物
+Pflanzen gegen Tiere
 
 [S23_MEMORY_LEVEL_NAME_05]
-小鬼当家
+Kevin – Allein zu Haus
 
 [S23_MEMORY_LEVEL_NAME_06]
-火力优势学
+Feuerkraftvorteil
 
 [S23_MEMORY_LEVEL_NAME_07]
-1号宇宙
+Universum 1
 
 [S23_MEMORY_LEVEL_NAME_08]
-起飞！但是逆风
+Hebt ab! Doch der Wind steht gegen dich.
 
 [S23_MEMORY_LEVEL_NAME_09]
-不讲武德
+Keine Moral
 
 [S23_MEMORY_LEVEL_NAME_10]
-车轮滚滚
+Die Räder rollen
 
 [S23_MEMORY_LEVEL_NAME_11]
-闪电战
+Blitzkrieg
 
 [S23_MEMORY_LEVEL_NAME_13]
-PVZ：英雄无归
+PVZ: Keine Heldenrückkehr
 
 [S23_MEMORY_LEVEL_NAME_14]
-劳动僵尸最光荣
+Arbeitende Zombies sind die glorreichsten.
 
 [S23_MEMORY_LEVEL_NAME_15]
-不止骆驼牌可以拼手速
+Nicht nur die Kamelkarte kann mit Handgeschwindigkeit mithalten.
 
 [S23_MEMORY_LEVEL_NAME_16]
-碰瓷夫妇
+Das Pärchen, das mich betrogen hat
 
 [S24_MEMORY_LEVEL_NAME_1]
-工业污染
+Industrielle Verschmutzung
 
 [S24_MEMORY_LEVEL_NAME_2]
-攻城车套娃
+Matrikelpuppen für Belagerungsfahrzeuge
 
 [S24_MEMORY_LEVEL_NAME_3]
-我不吃牛肉
+Ich esse kein Rindfleisch
 
 [S24_MEMORY_LEVEL_NAME_4]
-单枪匹马
+Allein
 
 [S24_MEMORY_LEVEL_NAME_5]
-闪爆战
+Blitzexplosion
 
 [S24_MEMORY_LEVEL_NAME_6]
-双人对决
+Doppelduell
 
 [S24_MEMORY_LEVEL_NAME_7]
-小鬼车轮
+Kleines Teufelsrad
 
 [S24_MEMORY_LEVEL_NAME_8]
-精英僵尸来袭
+Elite-Zombie: Zombies kommen
 
 [S24_MEMORY_LEVEL_NAME_9]
-回忆之旅（困难）第九天
+Erinnerungsreise (Schwer) Tag 9
 
 [S24_MEMORY_LEVEL_NAME_10]
-回忆之旅（困难）第十天
+Erinnerungsreise (Schwer) Tag 10
 
 [S24_MEMORY_LEVEL_NAME_11]
-回忆之旅（困难）第十一天
+Erinnerungsreise (Schwer) Tag 11
 
 [S24_MEMORY_LEVEL_NAME_12]
-回忆之旅（困难）第十二天
+Erinnerungsreise (Schwer) Tag 12
 
 [S24_MEMORY_LEVEL_NAME_13]
-终止交易
+Transaktionsabbruch
 
 [S24_MEMORY_LEVEL_NAME_14]
-恐怖史莱姆
+Horrorschleim
 
 [S24_MEMORY_LEVEL_NAME_15]
-看星星
+Sternenbeobachtung
 
-[S24_MEMORY_LEVEL_NAME_16]
-精英僵尸来袭
+[S24_MEMORY_LEVEL_NAME_ 16]
+Elite-Zombies greifen an
 
 [S25_MEMORY_LEVEL_NAME_1]
-虚无之体
+Leere Körper
 
 [S25_MEMORY_LEVEL_NAME_2]
-元素之基
+Elementarbasis
 
 [S25_MEMORY_LEVEL_NAME_3]
-能量之源
+Energiequelle
 
 [S25_MEMORY_LEVEL_NAME_4]
-速度之影
+Schatten der Geschwindigkeit
 
 [S25_MEMORY_LEVEL_NAME_5]
-生命之息
+Atem des Lebens
 
 [S25_MEMORY_LEVEL_NAME_6]
-轮回之镜
+Spiegel von Samsara
 
 [S25_MEMORY_LEVEL_NAME_7]
-永恒之碑
+Denkmal der Ewigkeit
 
 [S25_MEMORY_LEVEL_NAME_8]
-圣洁之光
+Heiliges Licht
 
-[S25_MEMORY_LEVEL_NAME_9]
-温暖的雪
+[S25_MEMORY_LEVEL_NA ME_9]
+Warmer Schnee
 
 [S25_MEMORY_LEVEL_NAME_10]
-young式摇滚
+Junger Fels
 
 [S25_MEMORY_LEVEL_NAME_11]
-挽歌幻象
+Elegie Illusion
 
 [S25_MEMORY_LEVEL_NAME_12]
-智慧之渊
+Abgrund der Weisheit
 
 [S25_MEMORY_LEVEL_NAME_13]
-必让你大败而归
+Du wirst besiegt werden
 
 [S25_MEMORY_LEVEL_NAME_14]
-夜阑卧听风吹雨
+Nachts liegen und Wind und Regen lauschen
 
 [S25_MEMORY_LEVEL_NAME_15]
-每天都睡不够
+Jeden Tag nicht genug Schlaf bekommen
 
 [S25_MEMORY_LEVEL_NAME_16]
-我也想成为神
+Ich möchte auch ein Gott sein
 
 [MEMORY_LEVEL_NAME_01]
-回忆之旅第一天
+Erster Tag der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_02]
-回忆之旅第二天
+Tag 2 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_03]
-回忆之旅第三天
+Tag 3 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_04]
-回忆之旅第四天
+Tag 4 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_05]
-回忆之旅第五天
+Tag Tag 5 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_06]
-回忆之旅第六天
+Tag 6 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_07]
-回忆之旅第七天
+Tag 7 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_08]
-回忆之旅第八天
+Tag 8 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_09]
-回忆之旅第一天
+Tag 1 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_10]
-回忆之旅第二天
+Tag 2 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_11]
-回忆之旅第三天
+Tag 3 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_12]
-回忆之旅第四天
+Tag 4 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_13]
-回忆之旅第五天
+Tag 5 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_14]
-回忆之旅第六天
+Tag 6 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_15]
-回忆之旅第七天
+Tag 7 der Erinnerungsreise Erinnerungen
 
 [MEMORY_LEVEL_NAME_16]
-回忆之旅第八天
+Tag 8 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_17]
-回忆之旅第一天
+Tag 1 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_18]
-回忆之旅第二天
+Tag 2 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_19]
-回忆之旅第三天
+Tag 3 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_20]
-回忆之旅第四天
+Tag 4 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_21]
-回忆之旅第五天
+Tag 5 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_22]
-回忆之旅第六天
+Tag 6 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_23]
-回忆之旅第七天
+Tag 7 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_24]
-回忆之旅第八天
+Tag 8 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_25]
-回忆之旅第一天
+Tag 1 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_26]
-回忆之旅第二天
+Tag 2 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_27]
-回忆之旅第三天
+Tag 3 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_28]
-回忆之旅第四天
+Tag 4 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_29]
-回忆之旅第五天
+Tag 5 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_30]
-回忆之旅第六天
+Tag 6 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_31]
-回忆之旅第七天
+Tag 7 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_32]
-回忆之旅第八天
+Tag 8 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_33]
-回忆之旅第一天
+Tag 1 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_34]
-回忆之旅第二天
+Tag 2 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_35]
-回忆之旅第三天
+Tag 3 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_36]
-回忆之旅第四天
+Tag 4 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_37]
-回忆之旅第五天
+Tag 5 der Reise zu Erinnerungen
 
 [MEMORY_LEVEL_NAME_38]
-回忆之旅第六天
+Tag 6 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_39]
-回忆之旅第七天
+Tag 7 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_40]
-回忆之旅第八天
+Tag 8 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_41]
-回忆之旅第一天
+Tag 1 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_42]
-回忆之旅第二天
+Tag 2 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_43]
-回忆之旅第三天
+Tag 3 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_44]
-回忆之旅第四天
+Tag 4 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_45]
-回忆之旅第五天
+Tag 5 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_46]
-回忆之旅第六天
+Tag 6 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_47]
-回忆之旅第七天
+Tag 7 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_48]
-回忆之旅第八天
+Tag Tag 8 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_49]
-回忆之旅第一天
+Tag 1 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_50]
-回忆之旅第二天
+Tag 2 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_51]
-回忆之旅第三天
+Tag 3 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_52]
-回忆之旅第四天
+Tag 4 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_53]
-回忆之旅第五天
+Tag 5 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_54]
-回忆之旅第六天
+Tag 6 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_55]
-回忆之旅第七天
+Tag 7 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_56]
-回忆之旅第八天
+Tag 8 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_57]
-回忆之旅第一天
+Tag 1 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_58]
-回忆之旅第二天
+Tag 2 der Erinnerung Reise
 
 [MEMORY_LEVEL_NAME_59]
-回忆之旅第三天
+Tag 3 der Erinnerungsreise
 
-[MEMORY_LEVEL_NAME_60]
-回忆之旅第四天
+[MEMORY_LEVEL_NAME_57]
+Tag 1 der Erinnerungsreise
+
+[MEMORY_LEVEL_NAME_58]
+Tag 2 der Erinnerungsreise
+
+[MEMORY_LEVEL_NAME_59]
+Tag 3 der Erinnerungsreise
+
+[MEMORY_LEVEL_NAME_5 L_NAME_60]
+Tag 4 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_61]
-回忆之旅第五天
+Tag 5 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_62]
-回忆之旅第六天
+Tag 6 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_63]
-回忆之旅第七天
+Tag 7 der Erinnerungsreise
 
 [MEMORY_LEVEL_NAME_64]
-回忆之旅第八天
+Tag 8 der Erinnerungsreise Erinnerungen
 
 [MEMORY_LEVEL_NAME_MINIGAME_OVERWHELM]
-排山倒海
+Überwältigend
 
 [MEMORY_LEVEL_NAME_01_H]
-回忆之旅(困难)第一天
+Tag 1 der Reise der Erinnerungen (Schwierigkeit)
 
 [MEMORY_LEVEL_NAME_02_H]
-回忆之旅(困难)第二天
+Tag 2 der Reise der Erinnerungen (Schwierigkeit)
 
 [MEMORY_LEVEL_NAME_03_H]
-回忆之旅(困难)第三天
+Tag 3 der Reise der Erinnerungen (Schwierigkeit)
 
 [MEMORY_LEVEL_NAME_04_H]
-回忆之旅(困难)第四天
+Tag 4 der Reise der Erinnerungen (Schwierigkeit)
 
 [MEMORY_LEVEL_NAME_05_H]
-回忆之旅(困难)第五天
+Tag 5 der Reise der Erinnerungen (Schwierigkeit)
 
 [MEMORY_LEVEL_NAME_06_H]
-回忆之旅(困难)第六天
+Tag 6 der Reise der Erinnerungen (Schwierigkeit)
 
 [MEMORY_LEVEL_NAME_07_H]
-回忆之旅(困难)第七天
+Tag 7 der Erinnerungsreise (Schwierigkeit)
 
-[MEMORY_LEVEL_NAME_08_H]
-回忆之旅(困难)第八天
+[MEMORY_LEVEL_NAME_ 08_H]
+Erinnerungsreise (Schwierig) Tag 8
 
 [MEMORY_LEVEL_NAME_09_H]
-回忆之旅(困难)第九天
+Erinnerungsreise (Schwierig) Tag 9
 
 [MEMORY_LEVEL_NAME_10_H]
-回忆之旅(困难)第十天
+Erinnerungsreise (Schwierig) Tag 10
 
 [MEMORY_LEVEL_NAME_11_H]
-回忆之旅(困难)第十一天
+Erinnerungsreise (Schwierig) Tag 11
 
 [MEMORY_LEVEL_NAME_12_H]
-回忆之旅(困难)第十二天
+Erinnerungsreise (Schwierig) Tag 12
 
 [MEMORY_LEVEL_NAME_13_H]
-回忆之旅(困难)第十三天
+Erinnerungsreise (Schwierig) Tag 13
 
 [MEMORY_LEVEL_NAME_14_H]
-回忆之旅(困难)第十四天
+Erinnerungsreise (Schwer) Tag 14
 
 [MEMORY_LEVEL_NAME_15_H]
-回忆之旅(困难)第十五天
+Reise (Schwer) Tag 15
 
 [MEMORY_LEVEL_NAME_16_H]
-回忆之旅(困难)第十六天
+Reise (Schwer) Tag 16
 
 [PLAYERS_TRIP_TO_MEMORY_TUTORIAL1]
-风平浪静的一天
+Ein ruhiger Tag
 
 [PLAYERS_TRIP_TO_MEMORY_TUTORIAL2]
-{PLAYER}的老房子
+{PLAYER}s altes Haus
 
 [MEMORY_TUTORIAL_LEVEL_NAME]
-平安时代
+Heian-Zeit
 
-[MEMORY2_TUTORIAL_LEVEL_NAME]
-旧时光
+[MEMORY2_TUTORIAL_LEV EL_NAME]
+Alte Zeiten
 
 [MEMORY_LEVEL_NAME_001_H]
-喷子战争
+Trollkrieg
 
 [MEMORY_LEVEL_NAME_002_H]
-王道热血漫
+Heißblütig Comics
 
 [MEMORY_LEVEL_NAME_003_H]
-蘑菇菇与豌豆豆
+Pilz und Erbse
 
 [MEMORY_LEVEL_NAME_004_H]
-奶妈对决
+Krankenschwester-Duell
 
 [MEMORY_LEVEL_NAME_005_H]
-气球塔防
+Ballonverteidigung
 
 [MEMORY_LEVEL_NAME_006_H]
-猴子塔防
+Affenverteidigung
 
 [MEMORY_LEVEL_NAME_007_H]
-好快！
+So schnell!
 
 [MEMORY_LEVEL_NAME_008_H]
-电击治疗
+Elektroschocktherapie
 
 [MEMORY_LEVEL_NAME_009_H]
-天与地的夹缝
+Die Kluft zwischen Himmel und Erde
 
 [MEMORY_LEVEL_NAME_010_H]
-让豌豆飞一会
+Lass die Erbsen mal fliegen
 
 [MEMORY_LEVEL_NAME_011_H]
-恶心人
+Ekelhaft
 
 [MEMORY_LEVEL_NAME_012_H]
-男人至死是少年
+Ein Mann ist ein Teenager, bis er stirbt.
 
 [MEMORY_LEVEL_NAME_013_H]
-鸡汤来咯
+Hühnersuppe ist da.
 
 [MEMORY_LEVEL_NAME_014_H]
-爱的爆爆
+EMORY_LEVEL_NAME_014_H]
+Die Liebe boomt.
 
 [MEMORY_LEVEL_NAME_015_H]
-双料僵尸
+Doppelzombies
 
 [MEMORY_LEVEL_NAME_016_H]
-为什么又是罐子
+Warum ist es schon wieder ein Glas?
 
 [MEMORY_LEVEL_S2_NAME_001_H]
-美丽冻人
+Wunderschön und eisig
 
 [MEMORY_LEVEL_S2_NAME_002_H]
-冰火两重天
+Eis und Feuer
 
 [MEMORY_LEVEL_S2_NAME_003_H]
-恐怖！小鸡突袭
+Horror! Hühnerüberfall
 
 [MEMORY_LEVEL_S2_NAME_004_H]
-冰与风
+Eis und Wind
 
 [MEMORY_LEVEL_S2_NAME_005_H]
-恼羞成怒
+Wütend vor Scham
 
 [MEMORY_LEVEL_S2_NAME_006_H]
-捅了鸡窝
+Im Hühnerstall herumstochern
 
 [MEMORY_LEVEL_S2_NAME_007_H]
-缩骨功
+Knochenschrumpfende Fähigkeit
 
 [MEMORY_LEVEL_S2_NAME_008_H]
-源源不断
+Endlos
 
 [MEMORY_LEVEL_S2_NAME_009_H]
-豌豆七步诗
+Sieben-Schritte-Gedicht der Erbse
 
 [MEMORY_LEVEL_S2_NAME_010_H]
-特洛伊冲锋
+Trojanischer Angriff
 
 [MEMORY_LEVEL_S2_NAME_011_H]
-桶中窥僵
+Zombie im Fass
 
 [MEMORY_LEVEL_S2_NAME_012_H]
-触手电击
+Tentakelschock
 
 [MEMORY_LEVEL_S2_NAME_013_H]
-爱与死亡与卷心菜
+Liebe, Tod und Kohl
 
 [MEMORY_LEVEL_S2_NAME_014_H]
-你就是大名鼎鼎的
+Du bist berühmt
 
 [MEMORY_LEVEL_S2_NAME_015_H]
-乐
+Musik
 
 [MEMORY_LEVEL_S2_NAME_016_H]
-治愈赞歌
+Heilende Hymne
 
 [S6_MEMORY_LEVEL_NAME_001_H]
-小鬼当家
+Kevin – Allein zu Haus
 
-[S6_MEMORY_LEVEL_NAME_002_H]
-首尾难顾
+[S6_MEMORY_LEVEL_NAME_00 2_H]
+Es ist schwer, sich um beides zu kümmern.
 
 [S6_MEMORY_LEVEL_NAME_003_H]
-神奇鸡鼬在哪里
+Wo ist das magische Erdmännchen?
 
 [S6_MEMORY_LEVEL_NAME_004_H]
-一团糟
+Es ist ein Chaos
 
 [S6_MEMORY_LEVEL_NAME_005_H]
-加速同调连光都能超越
+Beschleunigte Synchronisation übertrifft sogar Licht
 
 [S6_MEMORY_LEVEL_NAME_006_H]
-加速同调连光都能超越2.0
+Beschleunigte Synchronisation übertrifft sogar Licht 2.0
 
 [S6_MEMORY_LEVEL_NAME_007_H]
-哒哒哒哒哒哒
+Da da da da da da
 
 [S6_MEMORY_LEVEL_NAME_008_H]
-抓小偷啊！
+Fang den Dieb!
 
 [S6_MEMORY_LEVEL_NAME_009_H]
-僵城早报
+Zombie City Morgennachrichten
 
 [S6_MEMORY_LEVEL_NAME_010_H]
-智械危机
+Omnic Crisis
 
 [S6_MEMORY_LEVEL_NAME_011_H]
-智械危机2.0
+Omnic Crisis 2.0
 
 [S6_MEMORY_LEVEL_NAME_012_H]
-终结者
+Terminator
 
 [S6_MEMORY_LEVEL_NAME_013_H]
-开冲！
+Los!
 
 [S6_MEMORY_LEVEL_NAME_014_H]
-能跟上我的速度吗
+Kannst du mit meiner Geschwindigkeit mithalten?
 
 [S6_MEMORY_LEVEL_NAME_015_H]
-变形术
+Verklärung
 
 [S6_MEMORY_LEVEL_NAME_016_H]
-是吃饺子中的豪杰
+Ein Held unter Knödeln
 
 [S7_MEMORY_LEVEL_NAME_001_H]
-钢铁军团
+Eiserne Legion
 
 [S7_MEMORY_LEVEL_NAME_002_H]
-向前冲刺
+Vorwärtssprint
 
 [S7_MEMORY_LEVEL_NAME_003_H]
-泳池派对
+Poolparty
 
 [S7_MEMORY_LEVEL_NAME_004_H]
-从古至今
+Von der Antike bis zur Gegenwart
 
 [S7_MEMORY_LEVEL_NAME_009_H]
-以守为攻
+Verteidigung als Angriff
 
 [S7_MEMORY_LEVEL_NAME_010_H]
-头铁
+Stur
 
-[S7_MEMORY_LEVEL_NAME_011_H]
-海盗狂欢
+[S7_MEMORY_LEVEL_NAME_010_H]
+Stur
+
+[S7_MEM S7_MEMORY_LEVEL_NAME_011_H]
+Piratenkarneval
 
 [S7_MEMORY_LEVEL_NAME_012_H]
-拒绝购买动物
+Keine Tiere kaufen
 
 [S7_MEMORY_LEVEL_NAME_005_H]
-冲浪达人
+Surfmeister
 
 [S7_MEMORY_LEVEL_NAME_006_H]
-空中飞僵
+Fliegender Zombie
 
 [S7_MEMORY_LEVEL_NAME_007_H]
-潜伏中的危险
+Versteckte Gefahr
 
 [S7_MEMORY_LEVEL_NAME_008_H]
-动物戏水
+Tier spielt im Wasser
 
 [S7_MEMORY_LEVEL_NAME_013_H]
-自爆小队
+Suicide Squad
 
 [S7_MEMORY_LEVEL_NAME_014_H]
-迷雾中的射手
+Schütze im Nebel
 
 [S7_MEMORY_LEVEL_NAME_015_H]
-魔力与科技
+Magie und Technologie
 
 [S7_MEMORY_LEVEL_NAME_016_H]
-魔力与科技2.0
+EVEL_NAME_016_H]
+Magie und Technologie 2.0
 
 [S8_MEMORY_LEVEL_NAME_001_H]
-战力碾压
+Überwältigende Kampfkraft
 
 [S8_MEMORY_LEVEL_NAME_002_H]
-未来战士
+Krieger der Zukunft
 
 [S8_MEMORY_LEVEL_NAME_003_H]
-文武双全
+Kompetent in zivilen und militärischen Angelegenheiten
 
 [S8_MEMORY_LEVEL_NAME_004_H]
-重拳出击
+Heftiger Schlagangriff
 
 [S8_MEMORY_LEVEL_NAME_005_H]
-冰封万里
+Eisbedeckte Meilen
 
 [S8_MEMORY_LEVEL_NAME_006_H]
-武器大师
+Waffenmeister
 
 [S8_MEMORY_LEVEL_NAME_007_H]
-全副武装
+Vollständig Bewaffnet
 
 [S8_MEMORY_LEVEL_NAME_008_H]
-重力碾压
+Schwerkraftzertrümmerung
 
-[S8_MEMORY_LEVEL_NAME_009_H]
-百变突袭
+[S8_MEMORY_LEVEL_NAM E_009_H]
+Verschiedene Überraschungsangriffe
 
 [S8_MEMORY_LEVEL_NAME_010_H]
-天衣无缝
+Perfekt gefertigt
 
 [S8_MEMORY_LEVEL_NAME_011_H]
-急冻冲击
+Gefrorener Schock
 
 [S8_MEMORY_LEVEL_NAME_012_H]
-小鬼当家
+Kevin – Allein zu Haus
 
 [S8_MEMORY_LEVEL_NAME_013_H]
-凛冬将至
+Der Winter naht
 
 [S8_MEMORY_LEVEL_NAME_014_H]
-人多势众
+Y_LEVEL_NAME_014_H]
+Gemeinsam stark
 
 [S8_MEMORY_LEVEL_NAME_015_H]
-现代战争
+Modern Kriegsführung
 
 [S8_MEMORY_LEVEL_NAME_016_H]
-黑暗降临
+Die Dunkelheit naht
 
 [S9_MEMORY_LEVEL_NAME_001_H]
-弹射出击
+Auswurf
 
 [S9_MEMORY_LEVEL_NAME_002_H]
-连续弹跳
+Dauerhafter Sprung
 
 [S9_MEMORY_LEVEL_NAME_003_H]
-不规则弹跳
+Unregelmäßiger Sprung
 
 [S9_MEMORY_LEVEL_NAME_004_H]
-跳跳僵与守家植
+Springender Zombie und bewachende Pflanze
 
 [S9_MEMORY_LEVEL_NAME_005_H]
-雾里看花
+Blumen im Nebel sehen
 
 [S9_MEMORY_LEVEL_NAME_006_H]
-有烟无伤定律
+Das Gesetz der Nichtverletzung bei Rauch
 
 [S9_MEMORY_LEVEL_NAME_007_H]
-大意了没有闪
+Ich war unvorsichtig und bin nicht ausgewichen.
 
 [S9_MEMORY_LEVEL_NAME_008_H]
-暗中嘲讽
+Heimliche Verhöhnung
 
 [S9_MEMORY_LEVEL_NAME_009_H]
-老无所依
+Kein Platz für Alte
 
-[S9_MEMORY_LEVEL_NAME_010_H]
-甜美的死亡
+[S9_MEMORY_LEVEL_NAME_008_H]
+Kein Platz für Alte Menschen
+
+[S9_MEMORY_LEVEL_NAME_009_H] MORY_LEVEL_NAME_010_H]
+Süßer Tod
 
 [S9_MEMORY_LEVEL_NAME_011_H]
-老而不死是为僵
+Alt, aber nicht tot ist ein Zombie
 
 [S9_MEMORY_LEVEL_NAME_012_H]
-僵尸毁灭计划
+Zombie-Vernichtungsplan
 
 [S9_MEMORY_LEVEL_NAME_013_H]
-保护我方只鸡
+Schützt unser Huhn
 
 [S9_MEMORY_LEVEL_NAME_014_H]
-再看一眼就会爆炸
+Wenn du es noch einmal ansiehst, explodiert es
 
 [S9_MEMORY_LEVEL_NAME_015_H]
-靠近一点会被融化
+Wenn du näher kommst, schmilzt du
 
 [S9_MEMORY_LEVEL_NAME_016_H]
-鸡与球
+Huhn und Ball
 
-[S10_MEMORY_LEVEL_NAME_001_H]
-僵尸跑得飞快
+[S10_ MEMORY_LEVEL_NAME_001_H]
+Zombies rennen Schnell
 
 [S10_MEMORY_LEVEL_NAME_002_H]
-年轻又简单
+Jung und einfach
 
 [S10_MEMORY_LEVEL_NAME_003_H]
-有时很天真
+Manchmal naiv
 
 [S10_MEMORY_LEVEL_NAME_004_H]
-僵僵僵了
+Steif und steif
 
 [S10_MEMORY_LEVEL_NAME_005_H]
-隔绝一切的大盾
+Ein großer Schild, der alles blockiert
 
 [S10_MEMORY_LEVEL_NAME_006_H]
-阻挡一切来犯之敌
+Blockiert alle angreifenden Gegner
 
 [S10_MEMORY_LEVEL_NAME_007_H]
-但是范围有限
+Aber die Reichweite ist begrenzt
 
 [S10_MEMORY_LEVEL_NAME_008_H]
-见缝插针
+Nutze jede Gelegenheit
 
 [S10_MEMORY_LEVEL_NAME_009_H]
-一帆风顺吉星到
+Viel Glück und alles Gute Glück
 
 [S10_MEMORY_LEVEL_NAME_010_H]
-万事如意福临门
+Viel Glück und Erfolg
 
 [S10_MEMORY_LEVEL_NAME_011_H]
-百世岁月当代好
+Die beste Zeit des Jahrhunderts
 
 [S10_MEMORY_LEVEL_NAME_012_H]
-千古江山今朝新
+Das alte Land ist heute neu.
 
 [S10_MEMORY_LEVEL_NAME_013_H]
-爆竹声中一岁除
+Das Jahr endet mit dem Klang von Feuerwerkskörpern.
 
-[S10_MEMORY_LEVEL_NAME_014_H]
-春风送暖入屠苏
+[S10_MEMORY_LEVEL_NAME_014_ H]
+Die Frühlingsbrise bringt Wärme nach Tusu.
 
 [S10_MEMORY_LEVEL_NAME_015_H]
-千门万户童童日
+Kindertag in jedem Haushalt.
 
 [S10_MEMORY_LEVEL_NAME_016_H]
-总把新桃换旧符
+Ersetze immer den alten Talisman durch einen neuen. eins
 
 [S11_MEMORY_LEVEL_NAME_001_H]
-见招拆招
+Gegenangriff
 
 [S11_MEMORY_LEVEL_NAME_002_H]
-上帝不掷骰子
+Gott würfelt nicht
 
 [S11_MEMORY_LEVEL_NAME_003_H]
-命运硬币
+Münze des Schicksals
 
 [S11_MEMORY_LEVEL_NAME_004_H]
-僵尸补完计划
+Plan zur Zombie-Vervollständigung
 
-[S11_MEMORY_LEVEL_NAME_005_H]
-又推又拉
+[S11_MEMORY_LEVEL_NAME_001_H]
+Gegenangriff
+
+[S11_MEMORY_LEVEL_NAME_002_H]
+Gott würfelt nicht
+
+[S11_MEMORY_LEVEL_NAME_003_H]
+Münze des Schicksals
+
+[S11_MEMORY_LEVEL_NAME_004_H]
+Plan zur Zombie-Vervollständigung Plan
+
+[S11_MEMORY_LEVEL_NAME_004_H] E_005_H]
+Schieben und Ziehen
 
 [S11_MEMORY_LEVEL_NAME_006_H]
-西方速度
+Western-Geschwindigkeit
 
 [S11_MEMORY_LEVEL_NAME_007_H]
-骑士精神
+Ritterlichkeit
 
 [S11_MEMORY_LEVEL_NAME_008_H]
-同鸡不同命
+Gleiches Huhn, anderes Schicksal
 
 [S11_MEMORY_LEVEL_NAME_009_H]
-暗藏爆炸
+Versteckte Explosion
 
 [S11_MEMORY_LEVEL_NAME_010_H]
-鸡鼬同笼
+Hühner und Erdmännchen im selben Käfig
 
 [S11_MEMORY_LEVEL_NAME_011_H]
-硬塞
+Gezwungen
 
 [S11_MEMORY_LEVEL_NAME_012_H]
-鱼罐而入
+Der Fisch kommt herein Panzer
 
 [S11_MEMORY_LEVEL_NAME_013_H]
-魅惑喷菇
+Bezaubernder Pilz
 
 [S11_MEMORY_LEVEL_NAME_014_H]
-爆炸式冲锋
+Sprengladung
 
 [S11_MEMORY_LEVEL_NAME_015_H]
-凉爽一下
+Abkühlen
 
 [S11_MEMORY_LEVEL_NAME_016_H]
-大风起兮云飞扬
+Der Wind weht und die Wolken ziehen
 
 [S12_MEMORY_LEVEL_NAME_001_H]
-大锤砸小鸡
+Der Vorschlaghammer trifft das Huhn
 
 [S12_MEMORY_LEVEL_NAME_002_H]
-橄榄球冲锋
+Rugby-Angriff
 
 [S12_MEMORY_LEVEL_NAME_003_H]
-沙子魔法
+Sandmagie
 
 [S12_MEMORY_LEVEL_NAME_004_H]
-古代与未来
+Antike und Zukunft
 
 [S12_MEMORY_LEVEL_NAME_005_H]
-园游会永不打烊
+Der Garten Party endet nie
 
 [S12_MEMORY_LEVEL_NAME_006_H]
-小孩坐飞机
+Kinder im Flugzeug
 
 [S12_MEMORY_LEVEL_NAME_007_H]
-近战射手
+Nahkampf-Shooter
 
 [S12_MEMORY_LEVEL_NAME_008_H]
-弹射起步
+Katapultstart
 
 [S12_MEMORY_LEVEL_NAME_009_H]
-虫族巢穴
+Zerg-Nest
 
 [S12_MEMORY_LEVEL_NAME_010_H]
-猫杀鸡
+Katze tötet Huhn
 
 [S12_MEMORY_LEVEL_NAME_011_H]
-瓷器不吃饭
+Porzellan isst nicht
 
 [S12_MEMORY_LEVEL_NAME_012_H]
-风吹小鸡凉
+Der Wind kühlt die Küken ab
 
 [S12_MEMORY_LEVEL_NAME_013_H]
-成人童话
+Märchen für Erwachsene
 
 [S12_MEMORY_LEVEL_NAME_014_H]
-赛博魔镜
+Cyberspiegel
 
 [S12_MEMORY_LEVEL_NAME_015_H]
-高射炮打蚊子
+Flugabwehrkanonen schießen auf Mücken
 
 [S12_MEMORY_LEVEL_NAME_016_H]
-罐之边缘
+Der Rand des Glases
 
 [S13_MEMORY_LEVEL_NAME_001_H]
-春天不是读书天
+Frühling – Kein guter Tag zum Lesen
 
 [S13_MEMORY_LEVEL_NAME_002_H]
-夏日炎炎正好眠
+Ein heißer Sommertag ist perfekt zum Schlafen
 
 [S13_MEMORY_LEVEL_NAME_003_H]
-夏夜迷梦
+Ein Traum in einer Sommernacht
 
 [S13_MEMORY_LEVEL_NAME_004_H]
-看星星
+Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_005_H]
-永无止境的八月
+Der endlose August
 
 [S13_MEMORY_LEVEL_NAME_006_H]
-僵太郎的夏天
+Zitarous Sommer
 
 [S13_MEMORY_LEVEL_NAME_007_H]
-夏天的僵
+Zitarou im Sommer
 
-[S13_MEMORY_LEVEL_NAME_008_H]
-活死人之夜
+[S13_MEMORY_LEVEL_NAME_ 008_H]
+Die Nacht der lebenden Toten
 
 [S13_MEMORY_LEVEL_NAME_009_H]
-泳池派对
+Poolparty
 
 [S13_MEMORY_LEVEL_NAME_010_H]
-僵尸戏水
+Zombies spielen im Wasser
 
 [S13_MEMORY_LEVEL_NAME_011_H]
-夜泳
+Nachtschwimmen
 
 [S13_MEMORY_LEVEL_NAME_012_H]
-看星星
+Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_013_H]
-僵尸不溶于水
+Zombies lösen sich nicht in Wasser auf
 
 [S13_MEMORY_LEVEL_NAME_014_H]
-珊瑚僵海
+Korallen-Zombie-Meer
 
-[S13_MEMORY_LEVEL_NAME_015_H]
-激流勇进
+[S13_MEMORY_LEVEL_NAME_ 015_H]
+Stromschnellen reiten
 
 [S13_MEMORY_LEVEL_NAME_016_H]
-我是超级僵尸王
+Ich bin der Super-Zombiekönig
 
 [S14_MEMORY_LEVEL_NAME_001_H]
-沙中恶鬼
+Teufel im Sand
 
 [S14_MEMORY_LEVEL_NAME_002_H]
-疯子随风飘散
+Verrückte Männer treiben im Wind
 
 [S14_MEMORY_LEVEL_NAME_003_H]
-道爷我成了
+Ich bin ein taoistischer Priester.
 
 [S14_MEMORY_LEVEL_NAME_004_H]
-坚果保龄球
+Nuss-Bowling
 
 [S14_MEMORY_LEVEL_NAME_005_H]
-哈哈镜
+Spaßspiegel
 
 [S14_MEMORY_LEVEL_NAME_006_H]
-镜中僵水中尸
+Zombies im Spiegel und Leichen im Wasser
 
 [S14_MEMORY_LEVEL_NAME_007_H]
-镜破不改光
+Der Spiegel ist zerbrochen, aber das Licht bleibt.
 
 [S14_MEMORY_LEVEL_NAME_008_H]
-镜子和罐子
+Spiegel und Glas
 
 [S14_MEMORY_LEVEL_NAME_009_H]
-亡僵补牢
+Das Gefängnis reparieren
 
 [S14_MEMORY_LEVEL_NAME_010_H]
-鸡鼬疯同笼
+Messots sind verrückt im gleichen Käfig
 
 [S14_MEMORY_LEVEL_NAME_011_H]
-欢笑大只佬
+Lachender großer Kerl
 
 [S14_MEMORY_LEVEL_NAME_012_H]
-坚果保龄球
+Nuss-Bowling
 
 [S14_MEMORY_LEVEL_NAME_013_H]
-来吧走起
+Los geht's
 
 [S14_MEMORY_LEVEL_NAME_014_H]
-喜剧式的开幕
+Komischer Auftakt
 
 [S14_MEMORY_LEVEL_NAME_015_H]
-悲剧式的落幕
+Tragisches Ende
 
 [S14_MEMORY_LEVEL_NAME_016_H]
-噔噔咚
+Verdammt, pfui!
 
 [S15_MEMORY_LEVEL_NAME_001_H]
-疯狂炸鸡
+Brathähnchen-Wahnsinn
 
 [S15_MEMORY_LEVEL_NAME_002_H]
-钢铁洪流
+Stahl Torrent
 
 [S15_MEMORY_LEVEL_NAME_003_H]
-步坦协同
+Infanterie-Panzer-Koordination
 
 [S15_MEMORY_LEVEL_NAME_004_H]
-看星星
+RY_LEVEL_NAME_004_H]
+Sternenbeobachtung
 
 [S15_MEMORY_LEVEL_NAME_005_H]
-冷冰冰
+Kälte
 
 [S15_MEMORY_LEVEL_NAME_006_H]
-工业革命
+Industrielle Revolution
 
 [S15_MEMORY_LEVEL_NAME_007_H]
-贵族气质
+Aristokratisches Temperament
 
 [S15_MEMORY_LEVEL_NAME_008_H]
-开拓精神
+Pioniergeist
 
 [S15_MEMORY_LEVEL_NAME_009_H]
-迷雾骑兵
+Nebeltruppler
 
 [S15_MEMORY_LEVEL_NAME_010_H]
-印第安纳僵斯
+Indiana Zombie
 
 [S15_MEMORY_LEVEL_NAME_011_H]
-原始神秘僵尸王
+Indiana-Zombie
 
 [S15_MEMORY_LEVEL_NAME_012_H]
-坚果保龄球
+Industrielle Revolution
+
+[S15_MEMORY_LEVEL_NAME_007_H]
+Aristokratisches Temperament
+
+[S15_MEMORY_LEVEL_NAME_008_H]
+Pioniergeist
+
+[S15_MEMORY_LEVEL_NAME_009_H]
+Nebeltruppler
+
+[S15_MEMORY_LEVEL_NAME_010_H]
+Indiana-Zombie
 
 [S15_MEMORY_LEVEL_NAME_013_H]
-摇滚说唱新世代
+Indiana-Zombie RY_LEVEL_NAME_011_H]
+Mysteriöser Zombiekönig
+
+[S15_MEMORY_LEVEL_NAME_012_H]
+Nuss Bowling
+
+[S15_MEMORY_LEVEL_NAME_013_H]
+Rock Rap New Generation
 
 [S15_MEMORY_LEVEL_NAME_014_H]
-海王游戏
+Sea King Spiel
 
 [S15_MEMORY_LEVEL_NAME_015_H]
-僵权力
+Zombie-Power
 
 [S15_MEMORY_LEVEL_NAME_016_H]
-黎明前的闪电
+Blitz vor der Morgendämmerung
 
 [S8_MEMORY_LEVEL_NAME_NORMALBOSS]
-僵博来袭
+Zombie-Blog-Angriff
 
 [PVZ1_MODE_NO_CHALLENGE_CHOOSE]
 Kein Herausforderungsziel ausgewählt
