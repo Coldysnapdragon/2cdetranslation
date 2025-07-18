@@ -28629,19 +28629,19 @@ hart.
 {EXCITED:crazydave}Sie sorgen auch für mehr Sonnenschein! Bravo Leute, das ist genial.
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Achtung! Ich habe eine Glasflasche mit einer böse getarnten Verbindung entdeckt!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Achtung! Ich habe Karaffen chemischer Komponenten von rabiater Reaktionsfreudigkeit auf dem Schirm!
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_2]
-{TIRED:crazydave}Kannst du mir das in Crazy Daves Sprache übersetzen?
+{TIRED:crazydave}Kannst du das auch mal für mich in Deppie-Deutsch übersetzen?
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_3]
-{TIRED:winnie}Auf dem Rasen liegt ein böser Trank!
+{TIRED:winnie}Auf dem Rasen stehen bösartige Zaubertränke!
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_4]
-{EXCITED:crazydave}Böser mittelalterlicher Trank! Die gefährlichste Sorte ...
+{EXCITED:crazydave}Bösartige mittelalterliche Tränke! Das sind die allergefährlichsten ...
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_5]
-{EXCITED:crazydave}Doppelt so böse!
+{EXCITED:crazydave}Weil sie zweimal so böse sind!
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Ich fürchte, das dunkle Zeitalter hat mir eine schlimme Dampfkrankheit beschert.
@@ -77898,6 +77898,33 @@ Im Farmkampf-Event kannst du Supermais eintauschen.
 
 [TIANGONG_HEAD_ID_25712]
 DJ Aloe
+
+[PRODUCT_LUCKYCHEST_SHORTDESC]
+Wöchentliches Geschenkpaket
+
+[PRODUCT_01LUCKBOX_68_SHORTDESC]
+Wöchentliches Geschenkpaket (I)
+
+[PRODUCT_02LUCKBOX_68_SHORTDESC]
+Wöchentliches Geschenkpaket (II)
+
+[PRODUCT_03LUCKBOX_68_SHORTDESC]
+Wöchentliches Geschenkpaket (III)
+
+[PRODUCT_04LUCKBOX_68_S HORTDESC]
+Wöchentliches Geschenkpaket (Vier)
+
+[PRODUCT_05LUCKBOX_68_SHORTDESC]
+Wöchentliches Geschenkpaket (Fünf)
+
+[PRODUCT_06LUCKBOX_68_SHORTDESC]
+Wöchentliches Geschenkpaket (Sechs)
+
+[PRODUCT_07LUCKBOX_68_SHORTDESC]
+Wöchentliches Geschenkpaket (Sieben)
+
+[PRODUCT_08LUCKBOX_68_SHORTDESC]
+Wöchentliches Spezialpaket (Acht)
 
 [TIANGONG_HEAD_DES_ID_25698]
 Sammle im Tiangong-Schatzjagd-Event die Belohnungen in der Extraktionsphase.
