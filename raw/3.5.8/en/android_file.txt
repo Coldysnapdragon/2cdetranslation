@@ -203,10 +203,10 @@ Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und
 Klicke auf die Pflanzen auf der Karte, um die Illustration zu öffnen.
 
 [ADVICE_BOUGHT_PLANTFOOD]
-Denk daran, dir vorsichtshalber Spezialdünger-Fähigkeitn zuzulegen!
+Denk daran, dir vorsichtshalber Spezialdünger-Fähigkeit zuzulegen!
 
 [ADVICE_BUY_PLANTFOOD]
-Kaufe mit Juwelen mehr Spezialdünger-Fähigkeitn!
+Kaufe mit Juwelen mehr Spezialdünger-Fähigkeit!
 
 [ADVICE_CANT_PLANT_THERE]
 Dort kannst du nicht pflanzen.
@@ -215,7 +215,7 @@ Dort kannst du nicht pflanzen.
 Dort kannst du keine Pflanzen schaufeln!
 
 [ADVICE_CANT_APPLY_PLANTFOOD_THERE]
-Dort kannst du keine Spezialdünger-Fähigkeitn freigeben!
+Dort kannst du keine Spezialdünger-Fähigkeit freigeben!
 
 [ADVICE_CLICK_COIN]
 Klicke auf die Münzen, um sie einzusammeln!
@@ -528,13 +528,13 @@ Töten wir diesen eindringenden Zombie!
 Ein Zombie mit einem Eimer ist aufgetaucht! Er sieht fantastisch aus!
 
 [ADVICE_TAP_PF]
-Probieren wir aus, welche Wirkung die Spezialdünger-Fähigkeitn auf die Erbsenkanone haben!
+Probieren wir aus, welche Wirkung die Spezialdünger-Fähigkeit auf die Erbsenkanone haben!
 
 [ADVICE_COLLECT_PF]
-Klicke, um die springenden Spezialdünger-Fähigkeitn einzusammeln. Sie sollten uns helfen!
+Klicke, um die springenden Spezialdünger-Fähigkeit einzusammeln. Sie sollten uns helfen!
 
 [ADVICE_TAP_TO_USE_PF]
-Probieren wir aus, welche Wirkung die Spezialdünger-Fähigkeitn auf die Erbsenkanone haben!
+Probieren wir aus, welche Wirkung die Spezialdünger-Fähigkeit auf die Erbsenkanone haben!
 
 [ADVICE_WAITING_FOR_KILLING_BUCKET_ZOMBIE]
 Gut gemacht! Der Eimer-Zombie ist jetzt keine Bedrohung mehr. Töte ihn!
@@ -543,7 +543,7 @@ Gut gemacht! Der Eimer-Zombie ist jetzt keine Bedrohung mehr. Töte ihn!
 Bitte pflanze ihn an der angegebenen Stelle!
 
 [ADVICE_WAITING_FOR_PF_ZOMBIE]
-Ein Zombie mit Spezialdünger-Fähigkeitn erscheint. Töte ihn und du erhältst Spezialdünger-Fähigkeitn!
+Ein Zombie mit Spezialdünger-Fähigkeit erscheint. Töte ihn und du erhältst Spezialdünger-Fähigkeit!
 
 [ADVICE_LAST_HINT]
 Pflanze mehr Sonnenblumen, um Sonnenlicht zu bekommen, und pflanze mehr Pflanzen, um den Angriffen großer Zombiewellen standzuhalten!
@@ -571,17 +571,17 @@ Tipps:
 
 [ADVICE_IMG_BUCKET_ZOMBIE]
 Tipps:
-1. Der Eimer-Zombie hat einen superstarken Eimer, um deinen Angriffen standzuhalten. Wenn zu wenige Pflanzen vorhanden sind, musst du ^00FF00 Spezialdünger-Fähigkeitn^oldclr^ einsetzen, um ihn zu bekämpfen!
+1. Der Eimer-Zombie hat einen superstarken Eimer, um deinen Angriffen standzuhalten. Wenn zu wenige Pflanzen vorhanden sind, musst du ^00FF00 Spezialdünger-Fähigkeit^oldclr^ einsetzen, um ihn zu bekämpfen!
 
 [ADVICE_ANIM_PLANTFOOD]
 Tipps:
-1. Ziehe die Spezialdünger-Fähigkeitn zu den Pflanzen, um die mächtige Spezialdünger-Fähigkeit auszulösen!
+1. Ziehe die Spezialdünger-Fähigkeit zu den Pflanzen, um die mächtige Spezialdünger-Fähigkeit auszulösen!
 
 2. Mit der Spezialdünger-Fähigkeit der Erbsenpistole kannst du selbst sehr starke Zombies besiegen.
 
 [ADVICE_IMG_PF_ZOMBIE]
 Tipps:
-1. Töte die Zombies mit grünem Licht, um Spezialdünger-Fähigkeitn zu erhalten. Das ist eine große Hilfe beim Bestehen des Levels!
+1. Töte die Zombies mit grünem Licht, um Spezialdünger-Fähigkeit zu erhalten. Das ist eine große Hilfe beim Bestehen des Levels!
 
 [ADVICE_ABOUT_PLANT_ARMORFLAME]
 请将植甲拼装者-炎星种在2格空地上
@@ -1062,7 +1062,7 @@ Kirschbombe
 Kirschbomben können alle Zombies in einem bestimmten Umkreis in die Luft jagen. Da sie unmittelbar nach einer Explosion explodieren, platziert sie am besten in der Nähe von Zombies.
 
 [CHERRY_BOMB_PLANTFOOD]
-Spezialdünger-Fähigkeitn haben keine Wirkung.
+Spezialdünger-Fähigkeit haben keine Wirkung.
 
 [CHERRY_BOMB_TOOLTIP]
 Sprengt alle Zombies in der Nähe in die Luft.
@@ -2947,13 +2947,13 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {MÜDE}Hast du etwas zu fressen?
 
 [NARRATIVE_3702]
-{NPC_ENTER:winnie}{SAG:winnie}Spezialdünger-Fähigkeitn sind reich an Vitaminen und Mineralstoffen.
+{NPC_ENTER:winnie}{SAG:winnie}Spezialdünger-Fähigkeit sind reich an Vitaminen und Mineralstoffen.
 
 [NARRATIVE_3703]
 {VERSPIELT:winnie}Sie sind ein perfektes Frühstücks-Essential!
 
 [NARRATIVE_3800]
-{NPC_ENTER:crazydave}{AUFGEWUNDERT}Wirken Spezialdünger-Fähigkeitn auch bei anderen Pflanzen?
+{NPC_ENTER:crazydave}{AUFGEWUNDERT}Wirken Spezialdünger-Fähigkeit auch bei anderen Pflanzen?
 
 [NARRATIVE_3900]
 {NPC_ENTER:crazydave}{MÜDE}{LANG}Ah! Deine Pflanze wurde gefressen! Bitte versuche es noch einmal!
@@ -12122,7 +12122,7 @@ Feuerkürbisstück!
 Kiesbürstenstück!
 
 [ADVICE_ENERGY_GRID_PLANT]
-Pflanze Pflanzen auf diesem Raster, um Spezialdünger-Fähigkeitn zu ernten!
+Pflanze Pflanzen auf diesem Raster, um Spezialdünger-Fähigkeit zu ernten!
 
 Je teurer die Pflanze, desto schneller erntest du!
 
@@ -14790,7 +14790,7 @@ Disco-Raketenrucksack-Zombie
 {KEYWORD}Besonderheit: {STAT}schwebt über niedrige Pflanzen, gelangt mit Raketenschub über fast alle anderen Pflanzen
 {KEYWORD}Schwäche: {STAT}Große blockierende Pflanzen
 
-{FLAVOR}Dieser Zombie "lebt" für das Drama und war Mitglied des Originalensembles des Musicals "Disco ist WIEDER DA! Und will Rache!" Sein charakteristischer Tanz-Move ist der "Unkrauthacker".
+{FLAVOR}Dieser Zombie "lebt" für das Drama und war Mitglied des Originalensembles des Musicals "Disco ist WIEDER DA! Und will Rache!" Sein charakteristischer Tanz ist der "Unkrauthacker".
 
 [ZOMBIE_FUTURE_JETPACK_DISCO_DESCRIPTION_HEADER]
 Überschwebt mit Raketenschub alle Pflanzenbarrieren außer den allerhöchsten. Und zwar mit Stil.
@@ -17878,13 +17878,13 @@ Effekt: 1. Erhöht die Angriffskraft um 15%. 2. Erhöht die Angriffsgeschwindigk
 Effekt: 1. Erhöht die Angriffskraft um 18%. 2. Erhöht die Angriffsgeschwindigkeit um 9%. 3. Freigeschaltet.
 
 [SUPER_CLOCK_BOOST_DES_3]
-Effekt: 1. Erhöht die Angriffskraft um 20%. 2. Erhöht die Angriffsgeschwindigkeit um 12%. 3. Das Töten von Zombies hat eine 10%ige Chance, Spezialdünger-Fähigkeitn zu erzeugen.
+Effekt: 1. Erhöht die Angriffskraft um 20%. 2. Erhöht die Angriffsgeschwindigkeit um 12%. 3. Das Töten von Zombies hat eine 10%ige Chance, Spezialdünger-Fähigkeit zu erzeugen.
 
 [SUPER_CLOCK_BOOST_DES_4]
-Effekt: 1. Erhöht die Angriffskraft um 25%. 2. Erhöht die Angriffsgeschwindigkeit um 15%. 3. Beim Töten von Zombies besteht eine 15%ige Chance, Spezialdünger-Fähigkeitn zu erzeugen.
+Effekt: 1. Erhöht die Angriffskraft um 25%. 2. Erhöht die Angriffsgeschwindigkeit um 15%. 3. Beim Töten von Zombies besteht eine 15%ige Chance, Spezialdünger-Fähigkeit zu erzeugen.
 
 [SUPER_CLOCK_BOOST_DES_5]
-Effekte: 1. Erhöht die Angriffskraft um 30%. 2. Erhöht die Angriffsgeschwindigkeit um 20%. 3. Beim Töten von Zombies besteht eine 18%ige Chance, Spezialdünger-Fähigkeitn zu erzeugen.
+Effekte: 1. Erhöht die Angriffskraft um 30%. 2. Erhöht die Angriffsgeschwindigkeit um 20%. 3. Beim Töten von Zombies besteht eine 18%ige Chance, Spezialdünger-Fähigkeit zu erzeugen.
 
 [SUPER_CLOCK_1]
 Rote Kerze
@@ -19889,7 +19889,7 @@ Super!
 Dr. Zomboss, zitter!
 
 [ELIMINATE_TIP3]
-Zombie-Apokalypse!! Bonus-Spezialdünger-Fähigkeitn!
+Zombie-Apokalypse!! Bonus-Spezialdünger-Fähigkeit!
 
 [ELIMINATE_LOSE]
 Deine Pflanzen wurden von Zombies gefressen!
@@ -19910,7 +19910,7 @@ Die Anzahl der Aktionen ist aufgebraucht. Möchtest du ^00e46e {GEM_COUNT} Juwel
 {STEP_COUNT} Schritte
 
 [ELIMINATE_NEED_INTRO_TIP]
-Du erhältst Spezialdünger-Fähigkeitn, wenn du mehr als 7 hintereinander eliminierst!
+Du erhältst Spezialdünger-Fähigkeit, wenn du mehr als 7 hintereinander eliminierst!
 
 [ELIMINATE_ELIMINATE_PLANTFOOD_TIP]
 Du aktivierst den Spezialdünger, indem du die Bälle oben, unten, links und rechts eliminierst! Probier es aus!
@@ -25326,7 +25326,7 @@ Fluchtwurzeln können nicht gegen Orte getauscht werden, an denen sie nicht gepf
 Fluchtwurzeln können nicht gegen Pflanzen getauscht werden, die genommen oder versetzt wurden.
 
 [ADVICE_ESCAPEROOT_CANT_SWAP_PLANTFOODED_PLANTS]
-Fluchtwurzeln können nicht gegen Pflanzen getauscht werden, die Spezialdünger-Fähigkeitn verwenden.
+Fluchtwurzeln können nicht gegen Pflanzen getauscht werden, die Spezialdünger-Fähigkeit verwenden.
 
 [ADVICE_ESCAPEROOT_CANT_SWAP_THIS_PLANT]
 Fluchtwurzeln können nicht gegen diese Pflanze getauscht werden.
@@ -25390,7 +25390,7 @@ Bodenpflanzen können nicht auf Brettern gepflanzt werden.
 Schalte neue Welten mit dem Weltenschlüssel frei.
 
 [ADVICE_REFRESH_PUFFSHROOMS]
-Spezialdünger-Fähigkeitn können alle kleinen Blätterpilze sofort regenerieren.
+Spezialdünger-Fähigkeit können alle kleinen Blätterpilze sofort regenerieren.
 
 [ADVICE_RETURN_TO_UNIVERSE_VIEW]
 Du hast einen Raum-Zeit-Schlüssel erhalten! Klicke hier, um die Raum-Zeit-Karte anzuzeigen.
@@ -29663,7 +29663,7 @@ Demo
 {SAY:WINNIE}Ich schlage vor, wir schicken den Beet Guard. Er hat einen geheimen Trick.
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_5]
-{PLAYFUL:CRAZYDAVE}Meinst du seinen „Hau dich um“-Move?
+{PLAYFUL:CRAZYDAVE}Meinst du seinen „Hau dich um“?
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_6]
 {PLAYFUL:CRAZYDAVE}Der haut die Zombies in ihre alten Häuser zurück!
@@ -35194,7 +35194,7 @@ Die Dauer des Feuerwerkskörpers verlängert sich um 0,25 Sekunden.
 Die Dauer des Feuerwerkskörpers verlängert sich um 0,5 Sekunden.
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Platzieren besteht die Chance, den Spezialdünger-Big-Move direkt auszulösen!
+Beim Platzieren besteht die Chance, den Spezialdünger-Big direkt auszulösen!
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff wird eine Kiste mit Feuerwerkskörpern abgeworfen, die Zombies im Zielfeld 1,5 Sekunden lang den Effekt ^848484^stunⅠ^oldclr^ zufügt und alle 0,25 Sekunden 45 Schaden verursacht. Auch Zombies, die das Feld betreten, sind von diesem Effekt betroffen.
@@ -40923,7 +40923,7 @@ Der Schaden großer Blasen erhöht sich um 25%, die Angriffsgeschwindigkeit mitt
 Der Schaden großer Blasen erhöht sich um 50%, die Angriffsgeschwindigkeit mittlerer Blasen um 50% und die Anzahl der abgefeuerten kleinen Blasen auf 25.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Spezialdünger-Fähigkeitn direkt freizusetzen.
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 50-prozentige Chance, dass es sich bei den abgefeuerten Blasen um Säureblasen handelt. Säureblasen erhöhen den Schaden an der Rüstung. Mittlere und große Blasen hinterlassen nach der Explosion Säure auf dem Boden, die Zombies kontinuierlich Schaden zufügt.
@@ -41064,7 +41064,7 @@ Wenn ihr einen Menschen erschafft, wird automatisch ein Schütze erschaffen. Die
 Wenn ihr einen Menschen erschafft, wird automatisch ein Mörser erschaffen. Die Anzahl der Angriffe, die zum Verbessern aller Pflanzenmenschenformen benötigt werden, verringert sich um 1. Pflanzenmenschen werden um 2 reduziert.
 
 [EYWA_NEW_SKILL_LEVEL4_DES]
-Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen Spezialdünger-Fähigkeitn direkt freizusetzen. Großer Zug.
+Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen Spezialdünger-Fähigkeit direkt freizusetzen. Großer Zug.
 
 [EYWA_NEW_SKILL_LEVEL5_DES]
 Wenn du zum ersten Mal einen Charakter erstellst, erstellst du direkt einen Panzermann. Wenn der Panzermann aus dem Panzer springt und in der Luft verschwindet, besteht die Chance, dass ein Flugzeug erscheint, den Mann auffängt, eine zusätzliche Atombombe abwirft und davonfliegt. Die Atombombe hat eine Explosionsreichweite von 3×3 und verursacht Schaden und Degradation bei Zombies in Reichweite.
@@ -53296,7 +53296,7 @@ Die Menge an Sonne, die zu Beginn des Kampfes genutzt werden kann
 AnfangsSpezialdünger-Fähigkeit
 
 [MUTATOR_STARTING_PLANTFOOD_DESC]
-Menge an Spezialdünger-Fähigkeitn zu Beginn eines Kampfes
+Menge an Spezialdünger-Fähigkeit zu Beginn eines Kampfes
 
 [MUTATOR_STARTING_SUN]
 Anfangs Sonnenlicht
@@ -53350,10 +53350,10 @@ Mechanismus der nächsten Welle
 Mechanismus der nächsten Welle kann verwendet werden.
 
 [MUTATOR_RIFT_TIMED_TOOL_NO_PRODUCE_PF]
-Spezialdünger-Fähigkeitn-Debuff
+Spezialdünger-Fähigkeit-Debuff
 
 [MUTATOR_RIFT_TIMED_TOOL_NO_PRODUCE_PF_DESC]
-Beim Töten von Zombies werden keine zusätzlichen Spezialdünger-Fähigkeitn generiert.
+Beim Töten von Zombies werden keine zusätzlichen Spezialdünger-Fähigkeit generiert.
 
 [MUTATOR_ZOMBIE_LEVEL]
 Zombiestärke
@@ -53410,7 +53410,7 @@ Butter
 Einfrieren
 
 [PERK_NAME_APPLYCONDITIONPLANTFOOD]
-Spezialdünger-Fähigkeitn
+Spezialdünger-Fähigkeit
 
 [PERK_NAME_BOSSBUSTERCANNON]
 Zombie Buster
@@ -58947,7 +58947,7 @@ Die angeforderte Levelanzahl ist falsch.
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [STARCHALLENGE_PLANTFOOD_NONUSE_TIP_PVZ1]
-Die Verwendung von Spezialdünger-Fähigkeitn schließt die Herausforderung nicht ab. Möchtest du sie verwenden?
+Die Verwendung von Spezialdünger-Fähigkeit schließt die Herausforderung nicht ab. Möchtest du sie verwenden?
 
 [MAT_PVZ1MODE_COIN]
 Goldene Schneckenmünzen
@@ -64045,7 +64045,7 @@ Primitive Sonnenblumen verstärken ihre Fähigkeiten ab Level 3 auf Level 2.
 Welche Fähigkeiten erhält die Primitive Sonnenblume ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_PRIMALSUNFLOWER]
-ca=Wahrscheinlichkeit, eine bestimmte Menge Sonnenlicht zurückzugeben, wenn sie gepflanzt wird | Wahrscheinlichkeit, einen Schild zu erhalten, wenn sie gepflanzt wird | Wahrscheinlichkeit, Fernkampfschaden zu verursachen, wenn sie gepflanzt wird | Wahrscheinlichkeit, den ultimativen Spezialdünger-Move direkt auszulösen, wenn sie gepflanzt wird |
+ca=Wahrscheinlichkeit, eine bestimmte Menge Sonnenlicht zurückzugeben, wenn sie gepflanzt wird | Wahrscheinlichkeit, einen Schild zu erhalten, wenn sie gepflanzt wird | Wahrscheinlichkeit, Fernkampfschaden zu verursachen, wenn sie gepflanzt wird | Wahrscheinlichkeit, den ultimativen Spezialdünger direkt auszulösen, wenn sie gepflanzt wird |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_PRIMALSUNFLOWER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
@@ -64195,7 +64195,7 @@ Ab Level 4 besteht die Chance, dass elektrische Blaubeeren die Spezialdünger-F�
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_ELECTRICBLUEBERRY]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 4 können elektrische Blaubeeren den Spezialdünger-Big-Move häufiger auslösen.
+Ab Level 4 können elektrische Blaubeeren den Spezialdünger-Big häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_ELECTRICBLUEBERRY]
 Welche Fähigkeit erhält die elektrische Blaubeere ab Level 5?
@@ -64499,7 +64499,7 @@ Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Ab Level 5 kann die Großmaulblume mehrere Zombies gleichzeitig verschlingen oder beißen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_CHOMPER]
-Was ist der ultimative Spezialdünger-Move der Großmaulblume?
+Was ist der ultimative Spezialdünger der Großmaulblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_CHOMPER]
 ca=Feuere Kugeln im fächerförmigen Bereich vor dir ab|Feuere 1 großen Kohlkopf auf alle Zombies|Sauge 3 Zombies ein, um sie zu fressen oder zu beißen, und puste sie dann zur Ziellinie|Feuere kontinuierlich 60 Erbsen und 1 große Erbse ab|
@@ -64651,11 +64651,11 @@ ca=Wirke einen Zauber, der den Zombie ganz links in einen riesigen Pilz verwande
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_SQUASH]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
 
-Woguas ultimativer Spezialdünger-Move besteht darin, zwei Felder im Feld zu springen und zu drücken und anschließend zum Ursprung zurückzuspringen und zu drücken.
+Woguas ultimativer Spezialdünger besteht darin, zwei Felder im Feld zu springen und zu drücken und anschließend zum Ursprung zurückzuspringen und zu drücken.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Woguas ultimativer Spezialdünger-Move kann die Angriffsreichweite ignorieren und mehrfach angreifen.
+Woguas ultimativer Spezialdünger kann die Angriffsreichweite ignorieren und mehrfach angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_SQUASH]
 Welche Wirkung hat Woguas Kostüm?
@@ -65053,7 +65053,7 @@ Das muss ich sein.
 Hier kommt der Schmelztiegel.
 
 [FOREST_LEVEL_NAME_12_H]
-Fügt ein paar Spezialdünger-Fähigkeitn hinzu.
+Fügt ein paar Spezialdünger-Fähigkeit hinzu.
 
 [FOREST_LEVEL_NAME_13_H]
 Fügt ein paar Pflanzen hinzu.
@@ -68958,7 +68958,7 @@ Wenn eine Wallnuss stirbt, besteht eine 50%ige Chance auf eine Explosion, die Zo
 Wenn eine Wallnuss stirbt, erhöht sich die Wahrscheinlichkeit einer Explosion auf 100 %.
 
 [WALLNUT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit-Fähigkeit direkt freizusetzen!
 
 [WALLNUT_NEW_SKILL_LEVEL5_DES]
 Nüsse sind von drei Nusskernen mit unterschiedlichen Eigenschaften umgeben, die Zombies in der Nähe automatisch angreifen. Flammenkerne verursachen 90 Schaden; Blitzkerne verursachen 60 Schaden und verursachen 1,5 Sekunden lang ^ff9600^ LähmungⅠ^oldclr^; Eiskerne verursachen 60 Schaden und verlangsamen Zombies 10 Sekunden lang.
@@ -69018,7 +69018,7 @@ Ice BURG hat gelernt, aus der Ferne anzugreifen. Erscheint ein Zombie innerhalb 
 Er beherrscht den Fernangriff. Die Angriffsreichweite der abgefeuerten Schneebälle erhöht sich um zwei Felder, und der Schaden steigt auf 40 Punkte.
 
 [ICEBURG_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, den ultimativen Energiebohnen direkt auszulösen!
 
 [ICEBURG_PLANTFOOD_DESCRIPTION]
 Ice BURG erzeugt eine eisige Aura auf dem gesamten Bildschirm und friert alle Zombies im Feld 15 Sekunden lang ein.
@@ -69318,7 +69318,7 @@ Die Ruhezeit nach dem Abfeuern der Kokosnussschale wird auf 11,25 Sekunden verk�
 Die Ruhezeit nach dem Abfeuern einer Kokosnussschale wurde auf 9 Sekunden verkürzt.
 
 [COCONUTCANNON_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen direkt auszulösen!
 
 [COCONUTCANNON_NEW_SKILL_LEVEL5_DES]
 Die abgefeuerte Schale verspritzt Kokosnussmark und verursacht 250 Schaden bei bis zu fünf Zombies in Angriffsreichweite.
@@ -69387,7 +69387,7 @@ Es besteht eine 16%ige Chance, zwei Eis- oder Feuererbsen abzufeuern.
 Nachdem die Elementarkraft gemeistert wurde, besteht eine 32%ige Chance, Feuer- oder Eiserbsen abzufeuern, und eine 16%ige Chance, Geister-Feuererbsen abzufeuern.
 
 [REPEATER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen direkt auszulösen!
 
 [REPEATER_PLANTFOOD_DESCRIPTION]
 Der Doppelschütze feuert 60 Erbsen hintereinander und eine Riesenerbse ab, die die 20-fache Angriffskraft ihrer eigenen verursacht.
@@ -69441,7 +69441,7 @@ Beim Angriff besteht eine 25%ige Chance, zwei Erbsensalven gleichzeitig abzufeue
 Die Wahrscheinlichkeit, dass die Fertigkeit „Doppelschlag“ ausgelöst wird, erhöht sich um 100 %, und die Chance, zwei Erbsensalven gleichzeitig abzufeuern, beträgt 50 %.
 
 [THREEPEATER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen direkt auszulösen!
 
 [THREEPEATER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine Wahrscheinlichkeit von 30 %, Eiserbsengeschosse abzufeuern, eine Wahrscheinlichkeit von 30 %, rote Feuererbsengeschosse abzufeuern und eine Wahrscheinlichkeit von 10 %, blaue Feuererbsengeschosse abzufeuern.
@@ -69591,7 +69591,7 @@ Laserbohne kann zwei Laserstrahlen gleichzeitig abfeuern und erhöht so den Scha
 Feuert kontinuierlich und ohne Verzögerung Laserstrahlen ab. Dadurch wird der Schaden jedes Lasersegments reduziert, der Gesamtschaden pro Sekunde jedoch um 35 % erhöht.
 
 [LASER_BEAN_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen direkt auszulösen!
 
 [LASER_BEAN_NEW_SKILL_LEVEL5_DES]
 Laser Bean wird alle 15 Sekunden oder bei einer starken Attacke verstärkt. In diesem Zustand erhöht sich Laser Beans normaler Angriffsschaden um 100 %. Die starke Attacke von Energy Bean hinterlässt eine elektrische Markierung, die innerhalb von drei Sekunden insgesamt 1500 Schaden verursacht.
@@ -69683,7 +69683,7 @@ Erzeugt eine Barriere vor sich, die die Angriffe aller Zombies in der Reihe und 
 Erzeugt zwei Barrieren vor sich (^ff0000^,^oldclr^), die die Angriffe aller Zombies in der Reihe und fliegende Zombies blockieren können. Die Barrieren verschwinden, nachdem sie eine bestimmte Menge Schaden absorbiert haben.
 
 [POWERPLANT_NEW_SKILL_LEVEL1_DES]
-Nach dem Einpflanzen bohrt sich die Karotte in den Boden und verwandelt das ursprüngliche Gitter in ein Energiefeld. Wenn die Spezialdünger-Fähigkeitn auf die darauf gepflanzte Pflanze angewendet werden, lösen alle anderen Pflanzen auf den Energiefeldern eine starke Attacke aus.
+Nach dem Einpflanzen bohrt sich die Karotte in den Boden und verwandelt das ursprüngliche Gitter in ein Energiefeld. Wenn die Spezialdünger-Fähigkeit auf die darauf gepflanzte Pflanze angewendet werden, lösen alle anderen Pflanzen auf den Energiefeldern eine starke Attacke aus.
 
 [POWERPLANT_PLANTFOOD_DESCRIPTION]
 Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit.
@@ -69701,7 +69701,7 @@ Der Karottenraketenwagen hat verbesserte Schussfähigkeiten und kann nun zwei Ra
 Die hervorragenden Schussfähigkeiten des Karottenraketenwagens ermöglichen es ihm, vier Raketen gleichzeitig abzufeuern. Die Ruhezeit beträgt 11 Sekunden.
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL4_DES]
-Beim Einsetzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszulösen!
+Beim Einsetzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [CARROTLAUNCHER_PLANTFOOD_DESCRIPTION]
 Die Transformationskanone zielt auf den Zombie rechts von ihr und feuert eine Rakete mit 20.000 Lebenspunkten ab. Nachdem die Rakete aufgefressen wurde, explodiert sie und verursacht Zombies im Umkreis von 3×3 Schaden. Befindet sich eine Pflanze auf dem Zielfeld, explodiert die Rakete direkt und verursacht eine Explosion im Umkreis von 3×3.
@@ -69941,7 +69941,7 @@ Wenn Der Brokkoli seine volle Kraft einsetzt, besteht eine 20%ige Chance, den Zo
 Wenn Der Brokkoli seine volle Kraft einsetzt, besteht eine 40%ige Chance, den Zombie direkt aus dem Feld zu werfen.
 
 [BROCCOLI_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit-Fähigkeit direkt freizusetzen!
 
 [BROCCOLI_NEW_SKSKILL_LEVEL5_DES]
 Beim Loslassen des Pompons hat Rittersporn eine 30%ige Chance, eine größere Bombe mit 270 Schadenspunkten freizusetzen.
@@ -70067,7 +70067,7 @@ Homing Thistle hat eine Chance von 25%, zwei Nadeln hintereinander abzufeuern.
 Homing Thistle hat eine Chance von 50%, zwei Nadeln hintereinander abzufeuern.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HOMINGTHISTLE_PLANTFOOD_DESCRIPTION]
 Feuert mindestens 10 Nadeln ab, deren Schaden dem Vierfachen der eigenen Angriffskraft entspricht. Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von Homingthistle abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
@@ -70085,7 +70085,7 @@ Nachdem Homingthistle einen Zombie gefressen hat, rülpst sie und stößt alle Z
 Nachdem die Pflanze einen Zombie gefressen hat, rülpst sie und stößt alle Zombies in der Nähe um drei Felder zurück.
 
 [CHOMPER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt einzusetzen!
+Beim Pflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [CHOMPER_NEW_SKILL_LEVEL5_DES]
 Die Pflanze hat eine 20%ige Chance, alle Zombies normaler Größe innerhalb von drei Feldern rechts von ihr direkt zu verschlingen und dabei 300 Schaden an nicht verschlingbaren Einheiten zu verursachen.
@@ -70129,7 +70129,7 @@ Geist-Peperoni's Angriffsreichweite erweitert sich zu einem Kreuz.
 Geist-Peperoni's Angriffsreichweite erhöht sich in jede Richtung um ein Feld.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit-Fähigkeit direkt freizusetzen!
 
 [GHOSTPEPPER_PLANTFOOD_DESCRIPTION]
 Geist-Peperoni öffnet sein Maul und verursacht 3 Sekunden lang Schreckensschaden an Zombies in einem 3×3 großen Bereich um sich selbst.
@@ -70147,7 +70147,7 @@ Süßkartoffels Gesundheit stieg auf 6800.
 Süßkartoffels Gesundheit stieg auf 9600.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SWEETPOTATO_NEW_SKSKILL_LEVEL5_DES]
 Beim Angriff hat die Starke Säurezitrone eine 15%ige Chance, eine Zitronenscheibe zu schleudern, die kleine Zombies mit 450 Schadenspunkten abwehrt. Nach Kontakt mit einer feindlichen Einheit kehrt sie zurück. Die abgewehrten Zombies führen alle kleinen Zombies auf dem Weg mit sich, die gemeinsam abgewehrt werden. Die Starke Säurezitrone greift erst an, wenn die Zitronenscheibe wiedergefunden wurde.
@@ -70189,7 +70189,7 @@ Von Lotus abgefeuerte Bomben haben eine Chance von 15%, Zombies zu betäuben.
 Von Lotus abgefeuerte Bomben haben eine Chance von 30%, Zombies zu betäuben.
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, Spezialdünger-Fähigkeitn direkt freizusetzen!
+Beim Pflanzen besteht die Chance, Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [LOTUSSHOWER_PLANTFOOD_DESCRIPTION]
 Lotus feuert eine Rakete ab, um Zombies im Umkreis von 2×1 (an Land) zu treffen, oder einen Torpedo, um die gesamte Zombiereihe zu treffen und eine Explosion im Umkreis von 2×1 an der unteren Linie (im Wasser) zu verursachen.
@@ -70576,7 +70576,7 @@ Der Suchbereich von Electric Blueberry ändert sich auf die gesamte Reihe.
 Der Suchbereich von Electric Blueberry erweitert sich auf das gesamte Feld.
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 80%ige Chance, dass sich außerhalb der Gewitterwolke eine kreuzförmige Gewitterwolke bildet. Diese bewegt sich mit der ursprünglichen Gewitterwolke und fügt allen Zombies in Reichweite nach dem Angriff 1200 Schaden zu.
@@ -70597,7 +70597,7 @@ Vom AVATAR abgefeuerte Raketen können 2-mal abgefeuert werden.
 Vom AVATAR abgefeuerte Raketen können 3-mal abgefeuert werden.
 
 [GREENTURNIP_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [GREENTURNIP_PLANTFOOD_DESCRIPTION]
 AVATAR feuert eine riesige Rakete ab, die Zombies vor ihm Schaden zufügt. Die Rakete bewegt sich vorwärts, bis sie unten rechts ankommt.
@@ -70636,7 +70636,7 @@ Durian erhält eine stinkende Aura, die Zombies in Reichweite 20 Schaden pro Sek
 Die stinkende Aura wird verstärkt und fügt Zombies in Reichweite 30 Schaden pro Sekunde zu. Rüstung wird dabei ignoriert.
 
 [ENDURIAN_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt einzusetzen!
+Beim Einpflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [ENDURIAN_PLANTFOOD_DESCRIPTION]
 Durian erhält eine Stahlrüstung. Solange diese Rüstung besteht, erhöht sich Durians Stichschaden um 50%.
@@ -70735,7 +70735,7 @@ Die Dauer der von der Lava-Guave hinterlassenen Lavalache erhöht sich um 2 Seku
 Die Lavalache spritzt in die vier angrenzenden Richtungen und bleibt 11 Sekunden lang bestehen.
 
 [LAVAGUAVA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt einzusetzen!
+Beim Pflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [LAVAGUAVA_NEW_SKILL_LEVEL5_DES]
 Nach dem Ausbruch der Magmaguave schleudert sie zufällig fünf Magmakugeln. Nach der Landung der Magmakugeln entsteht ein Magmapool, der 11 Sekunden lang anhält.
@@ -70792,7 +70792,7 @@ Agaves hervorragende Schwertkunst ermöglicht es ihr, nach 3 Sekunden Aufladung 
 Tequilas hervorragende Schwertkunst ermöglicht nach 2 Sekunden Ladezeit zwei Hiebe gleichzeitig.
 
 [AGAVE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt einzusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [AGAVE_NEW_SKILL_LEVEL5_DES]
 Nach 2 Sekunden Ladezeit führt Tequila den luftzerstörenden Hieb aus, der den ersten Zombie in der Reihe anvisiert und die Zombies im 1×2-Bereich mehrfach trifft und jeweils 2700 Schaden verursacht.
@@ -70828,7 +70828,7 @@ Die Angriffszeit des goldenen Knüppels wurde auf 12 Sekunden verlängert und di
 Kiwi erlernt die Fähigkeit „Verlangsamen“, die Zombies, die von der goldenen Keule getroffen werden, verlangsamt.
 
 [KIWIFRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [KIWIFRUIT_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, einen kleinen Kiwi zu beschwören. Der kleine Kiwi fliegt nach rechts und schlägt auf die Zombies ein, die er berührt, und verursacht 300 Schaden. Nach 8 Angriffen verschwindet er.
@@ -70867,7 +70867,7 @@ Die Drachenfrucht feuert blaue Feuerbälle ab, um Zombies anzugreifen. Der Schad
 Ununterdrückbare Wut verkürzt Pitayas Angriffsintervall um 1 Sekunde.
 
 [DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt einzusetzen!
+Beim Pflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
 Pitaya greift Zombies mit violetten Feuerbällen an. Der Schaden ist höher.
@@ -70909,7 +70909,7 @@ Nach 6 Schlägen kann die Streichholzblume ihre Form ändern.
 Mit zunehmender Angriffskraft färben sich die Flammen der Streichholzblume blau.
 
 [MATCHFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [MATCHFLOWER_NEW_SKILL_LEVEL5_DES]
 Wenn der Match-FLOWER-Boxer angreift, besteht eine 25%ige Wahrscheinlichkeit, einen explosiven Schlag mit 135 Schadenspunkten auszulösen.
@@ -71011,7 +71011,7 @@ Beim Ausbruch aus dem Boden besteht eine 25%ige Chance auf einen Handflächensch
 Beim Ausbruch aus dem Boden besteht eine 50%ige Chance auf einen Handflächenschlag, der Zombies um 1 Feld zurückdrängt.
 
 [CELERYSTALKER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [CELERYSTALKER_PLANTFOOD_DESCRIPTION]
 Lauernder Sellerie erzeugt sofort 3 lauernde Sellerie auf einem zufälligen leeren Feld.
@@ -71371,7 +71371,7 @@ Die Ruhezeit der Maiskanone wurde auf 42 Sekunden reduziert.
 Die Ruhezeit der Maiskanone wurde auf 35 Sekunden reduziert.
 
 [COBCANNON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt einzusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen direkt einzusetzen!
 
 [COBCANNON_NEW_SKILL_LEVEL5_DES]
 Die Maiskanone ist mit einem automatischen Raketensystem ausgestattet, das alle 4 Sekunden zwei Zielraketen mit einem Schaden von 210 abfeuert.
@@ -71434,7 +71434,7 @@ Die Vorbereitungszeit wird um 40 % beschleunigt und die Wurzel ist in 6 Sekunden
 Die Vorbereitungszeit wird um 80 % beschleunigt und ist in 2 Sekunden abgeschlossen.
 
 [ESCAPEROOT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen direkt auszulösen!
 
 [ESCAPEROOT_NEW_SKILL_LEVEL5_DES]
 Wenn die Pflanze mit dem ultimativen Move zum ersten Mal die Position mit der Fluchtwurzel tauscht, wird der ultimative Move ausgelöst.
@@ -71455,7 +71455,7 @@ Die Angriffskraft von elektrischem Strom erhöht sich um 20 %.
 Von elektrischem Strom betroffene Zombies verursachen 50 % Schaden an Zombies im Umkreis von 3x3 um sie herum.
 
 [ELECTRICCURRANT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen direkt auszulösen!
 
 [ELECTRICCURRANT_NEW_SKILL_LEVEL5_DES]
 Die Nahkampfschadensreichweite wurde auf einen 3×3 großen, auf sich selbst zentrierten Bereich geändert.
@@ -71497,7 +71497,7 @@ Die Vorbereitungszeit wurde um 25 % auf 9 Sekunden reduziert. Die Obergrenze fü
 Die Vorbereitungszeit wurde um 50 % auf 6 Sekunden reduziert. Die Obergrenze für Zombies, die ^ff4284^ Charm I^oldclr^ einsetzen können, wurde auf Stufe 4 erhöht.
 
 [CAULIPOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen-Move direkt auszulösen! Die Obergrenze der Zombies, die mit ^ff4284^ bezaubert werden können, wurde auf Stufe 5 geändert.
+Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen direkt auszulösen! Die Obergrenze der Zombies, die mit ^ff4284^ bezaubert werden können, wurde auf Stufe 5 geändert.
 
 [CAULIPOWER_NEW_SKILL_LEVEL5_DES]
 Super-Blumenkohl hat eine Chance von 25 %, eine farbige Lichtwelle auszusenden und beendet die Schlafphase sofort.
@@ -71557,7 +71557,7 @@ Nach der Explosion besteht eine 10%ige Chance, eine Kartoffelmine zu erzeugen.
 Nach der Explosion besteht eine 20%ige Chance, eine Kartoffelmine zu erzeugen.
 
 [EXPLODEONUT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen direkt auszulösen!
 
 [EXPLODEONUT_PLANTFOOD_DESCRIPTION]
 Die Explodierende Nuss trägt einen Stahlschild, der nach dem Verzehr ebenfalls explodiert.
@@ -72544,7 +72544,7 @@ Der normale Angriff von Ananas-Kettenklinge hat eine Chance von 20%, in einen au
 Der Fertigkeitseffekt von Schneller leichter Kettenschlag ist um 100% erhöht.
 
 [BROMELBLADE_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
+Beim Einpflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BROMELBLADE_NEW_SKILL_LEVEL5_DES]
 Nach dem Auslösen des Abwärtsangriffs besteht eine Chance von 50%, mit einem krachenden Angriff nachzusetzen. Ananas sticht die Kettenklinge in den Boden, fügt dem Zombie 4 Felder rechts 5400 Schaden zu und stößt ihn 1,5 Felder zurück.
@@ -72565,7 +72565,7 @@ Die Fragmente des fliegenden Schildes werden schärfer, und zwei davon können e
 Jetzt können alle fünf Teile einem einzelnen Zombie Schaden zufügen.
 
 [STEPHANIA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [STEPHANIA_NEW_SKILL_LEVEL5_DES]
 Einige der Schildfragmente werden rund und können nach einem Zombie-Treffer wieder zerbrochen werden.
@@ -73199,7 +73199,7 @@ Die Ladegeschwindigkeit des Dornigen Meteorhammers wird erhöht. Das Drehen des 
 Die Wirkung der Fertigkeit „Schnelles Laden“ wird um 100% erhöht. Das Drehen des Meteorhammers dauert 8 Sekunden, um den Ladevorgang abzuschließen.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszulösen!
+Beim Einpflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL5_DES]
 Der durch den Angriff abgefeuerte Meteorhammer verwandelt sich in einen gespaltenen Meteorhammer aus drei Dornfrüchten, der einen Angriff auf bis zu drei Zombies in geringer Reichweite ausführen kann.
@@ -73325,7 +73325,7 @@ Die Flugangriffskraft des Zwillingskaninchens wurde erhöht, sodass er nun mitte
 Die Ruhezeit des Zwillingskaninchens wurde auf 13 Sekunden verkürzt.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den Energiebohnen-Big-Move direkt freizusetzen!
+Beim Einpflanzen besteht die Chance, den Energiebohnen-Big direkt freizusetzen!
 
 [JEWELRABBIT_NEW_SKILL_LEVEL5_DES]
 Beim Angriff graben sich die beiden Kaninchen gemeinsam in den Boden. Nachdem das erste Kaninchen den Zombie weggestoßen hat, springt das zweite Kaninchen hervor, stößt die kleinen und mittleren Zombies rechts um zwei Felder zurück und verursacht 10 % des maximalen Gesundheitswerts an Schaden. Befindet sich beim Angriff des zweiten Kaninchens kein Zombie, wird der Angriff abgebrochen und die Ruhezeit um 50 % verkürzt.
@@ -73409,7 +73409,7 @@ Der Schwung des Kletten-Schlagmanns ist stärker, sodass der gerade Ball Zombies
 Der Fertigkeitseffekt des starken Schwungs ist um 100 % erhöht, sodass der gerade Ball Zombies 1 Feld weit zurückschlagen kann. Die ^848484^stunⅠ^oldclr^-Zeit des Kurvenballs erhöht sich um 2 Sekunden.
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL4_DES]
-Beim Einsetzen besteht eine mittlere Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
+Beim Einsetzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL5_DES]
 Beim Schlagen besteht eine 10%ige Chance auf einen Homerun. Die Erbsenkugel fliegt vom Feld und verwandelt sich dann in einen Meteoriten, der den Zombie ganz links trifft. Sie verursacht im Bereich eines einzelnen Gitters den fünffachen Schaden der Erbsenkugel und dauert ^848484^BetäubungⅠ^oldclr^4 Sekunden.
