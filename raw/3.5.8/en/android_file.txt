@@ -65711,22 +65711,22 @@ Märchenwald – Der Märchen-Zombie-Boss
 儿童游乐园(困难)-第4天
 
 [CHILDRENDAY_LEVEL_NAME_05_H]
-儿童游乐园(困难)-第5天
+Kinderspielplatz (Schwer) – Tag 5
 
 [CHILDRENDAY_LEVEL_NAME_06_H]
-儿童游乐园(困难)-第6天
+Kinderspielplatz (Schwer) – Tag 6
 
 [CHILDRENDAY_LEVEL_NAME_07_H]
-儿童游乐园(困难)-第7天
+Kinderspielplatz (Schwer) – Tag 7
 
 [CHILDRENDAY_LEVEL_NAME_08_H]
-儿童游乐园(困难)-第8天
+Kinderspielplatz (Schwer) – Tag 8
 
 [CHILDRENDAY_LEVEL_NAME_09_H]
-儿童游乐园(困难)-第9天
+Kinderspielplatz (Schwer) – Tag 9
 
 [CHILDRENDAY_LEVEL_NAME_10_H]
-儿童游乐园(困难)-第10天
+Kinderspielplatz (Schwer) – Tag 10
 
 [PLAYERS_TRIP_TO_ANNIVERSARY]
 {PLAYER}s Jubiläumsparty
