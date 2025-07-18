@@ -85,123 +85,121 @@ Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und
 死神
 
 [PLANTING_BEYOND_NEW_PVP_LIMIT]
-超出植物种植上限，记得升级向日葵哦！
+Vergiss nicht, die Sonnenblume zu verbessern, sobald du das Pflanzenlimit überschritten hast!
 
 [ACHIEVE_DRAGON_AGE_DESC]
-一关中种植十棵火龙草
+Pflanze 10 Drachengräser in einem Level.
 
 [ACHIEVE_DRAGON_AGE_TITLE]
-龙之纪元
+Dragon Age
 
 [ACHIEVE_EGYPT_STARS_DESC]
-获得所有神秘埃及之星
+Sammle alle mysteriösen ägyptischen Sterne.
 
 [ACHIEVE_EGYPT_STARS_TITLE]
-图坦坚果王
+König-Tut-Nuss
 
 [ACHIEVE_FRIED_CHICKEN_DESC]
-对僵尸鸡使用闪电芦苇
+Benutze Blitzrohr für Zombiehuhn.
 
 [ACHIEVE_FRIED_CHICKEN_TITLE]
-炸鸡
+Gebratenes Huhn
 
 [ACHIEVE_GIDDYUP_DESC]
-狂野西部闯关成功
+Wild-West-Level erfolgreich abgeschlossen.
 
 [ACHIEVE_GIDDYUP_TITLE]
-哟呵！驾！
+Yo! Los geht's!
 
 [ACHIEVE_HIGH_FIVE_DESC]
-种下五棵高坚果并给他们使用能量豆
-
+Pflanze fünf Tallnuts und verwende Energiebohnen darauf.
 
 [ACHIEVE_HIGH_FIVE_TITLE]
-太棒了！击掌！
+Super! High Five!
 
 [ACHIEVE_ICEBERG_DESC]
-使用单棵冰冻生菜冰冻20只僵尸
+Frieren Sie 20 Zombies mit einem einzigen gefrorenen Salat ein.
 
 [ACHIEVE_ICEBERG_TITLE]
-零下二十
+Zwanzig unter Null
 
 [ACHIEVE_KING_NUT_DESC]
-神秘埃及闯关成功
+Schließen Sie das Level „Geheimnisvolles Ägypten“ ab.
 
 [ACHIEVE_KING_NUT_TITLE]
-坚果之王
+König der Nüsse
 
 [ACHIEVE_MAGICAL_FRUIT_DESC]
-使用一棵巴豆击昏十名僵尸
-
+Betäuben Sie 10 Zombies mit einem Kroton.
 
 [ACHIEVE_MAGICAL_FRUIT_TITLE]
-魔力之果
+Magische Frucht
 
 [ACHIEVE_MUTINY_DESC]
-在鹦鹉还没飞起来之前打倒海盗船长僵尸
+Besiegen Sie den Piratenkapitän-Zombie, bevor der Papagei fliegen kann.
 
 [ACHIEVE_MUTINY_TITLE]
-哗变
+Meuterei
 
 [ACHIEVE_NO_SMOKING_DESC]
-熄灭一名探险家僵尸的火炬
+Ersticken Sie die Fackel eines Entdecker-Zombies.
 
-[ACHIEVE_NO_SMOKING_TITLE]
-严禁吸烟
+[ACHIEVE_NO_SMOKI NG_TITLE]
+Rauchen verboten
 
 [ACHIEVE_OFF_THE_GREEN_DESC]
-完成教学关卡
+Schließe das Tutorial ab.
 
 [ACHIEVE_OFF_THE_GREEN_TITLE]
-离家远行
+Reise weit weg von zu Hause.
 
 [ACHIEVE_PAT_THE_BIRDY_DESC]
-用黄油击中海鸥僵尸
+Besiege den Möwen-Zombie mit Butter.
 
 [ACHIEVE_PAT_THE_BIRDY_TITLE]
-黄油拌小鸟
+Buttervogel
 
 [ACHIEVE_PIRATE_STARS_DESC]
-获得所有海盗之星
+Holt alle Piratensterne.
 
 [ACHIEVE_PIRATE_STARS_TITLE]
-海盗的宝藏
+Piratenschatz
 
 [ACHIEVE_POD_SQUAD_DESC]
-将满员的豌豆荚种在矿车上
+Pflanze eine volle Erbsenschote auf einer Lore.
 
 [ACHIEVE_POD_SQUAD_TITLE]
-豌豆荚战术
+Erbsenschoten-Taktiken
 
 [ACHIEVE_SASQUASH_DESC]
-打倒雪人！
+Wirf den Schneemann um!
 
 [ACHIEVE_SASQUASH_TITLE]
-压扁
+Kürbis
 
 [ACHIEVE_SHELL_ON_WHEELS_DESC]
-在矿车上种植坚果
+Nüsse auf einer Lore anbauen
 
 [ACHIEVE_SHELL_ON_WHEELS_TITLE]
-移动护盾
+Schild bewegen
 
 [ACHIEVE_SPUDOW_DESC]
-用土豆地雷炸死一个僵尸
+Zombie mit einer Kartoffelmine töten
 
 [ACHIEVE_SPUDOW_TITLE]
-轰！！
+BUMM!!
 
 [ACHIEVE_SUN_CATCHER_DESC]
-从一只太阳神僵尸处获得十个太阳
+Zehn Sonnen von einem Sonnengott-Zombie erhalten
 
 [ACHIEVE_SUN_CATCHER_TITLE]
-太阳捕手
+Sonnenfänger
 
 [ACHIEVE_YARR_MATEY_DESC]
-通关海盗港湾
+Piratenbucht räumen
 
 [ACHIEVE_YARR_MATEY_TITLE]
-哇！航海家！！
+Wow! Yarra!!
 
 [ADVICE_ALMANAC_FROM_PLANTS]
 Klicke auf die Pflanzen auf der Karte, um die Illustration zu öffnen.
@@ -588,64 +586,64 @@ Tipps:
 1. Töte die Zombies mit grünem Licht, um Spezialdünger-Fähigkeit zu erhalten. Das ist eine große Hilfe beim Bestehen des Levels!
 
 [ADVICE_ABOUT_PLANT_ARMORFLAME]
-请将植甲拼装者-炎星种在2格空地上
+Bitte pflanze den Rüstungsmonteur-Feuerstern auf einem 2 Felder großen freien Feld.
 
 [ADVICE_ABOUT_PLANT_ARMORFLAME_ON_VINE]
-植甲拼装者-炎星不能种在藤蔓上
+Der Rüstungsmonteur-Feuerstern kann nicht auf Ranken gepflanzt werden.
 
 [NARRATIVE_ACTIVITY_LEVELS_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}嗯？刚刚经历了一场艰苦的战斗呢……
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hmm? Ich habe gerade einen harten Kampf hinter mir ...
 
 [NARRATIVE_ACTIVITY_LEVELS_INTRO_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}数据表明您已经可以接受更强大的挑战了,有新的挑战降临了
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Daten zeigen, dass du bereit bist, größere Herausforderungen anzunehmen. Eine neue Herausforderung wartet.
 
 [NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}数据表明这里的僵尸身上可以获得植物碎片……
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Daten zeigen, dass man hier Pflanzenfragmente von den Zombies erhalten kann...
 
 [NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}植物碎片？那是什么？能吃吗？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Pflanzenfragmente? Was ist das? Kann man das essen?
 
 [NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_3]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}虽然植物富含各种维生素，但是我认为你用碎片合成植物来对抗僵尸们比较好……
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Pflanzen sind zwar reich an verschiedenen Vitaminen, aber ich denke, es ist besser, die Fragmente zu verwenden, um Pflanzen zu synthetisieren und damit Zombies zu bekämpfen ...
 
 [NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_4]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}哇哦，我已经迫不及待地要进去大干一场了
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Wow, ich kann es kaum erwarten, endlich loszulegen und einen großen Kampf zu bestreiten.
 
 [NARRATIVE_FRESHINTRO_EGYPT_DAY1_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}欢迎来到我们本次旅行的第一站，神秘的古代埃及。
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Willkommen zum ersten Stopp unserer Reise, dem geheimnisvollen alten Ägypten.
 
 [NARRATIVE_FRESHINTRO_EGYPT_DAY1_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}这里就是埃及？我听说埃及法老有不计其数的宝物，说不定这里能找到不少好东西。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ist das Ägypten? Ich habe gehört, die ägyptischen Pharaonen hätten unzählige Schätze. Vielleicht finden wir hier ja ein paar gute Sachen.
 
 [NARRATIVE_FRESHINTRO_EGYPT_DAY1_3]
-{PLAYFUL:winnie}好东西不知道，僵尸倒有不少，准备战斗吧。
+{PLAYFUL:winnie}Ich weiß nicht, was die guten Sachen angeht, aber es gibt viele Zombies. Macht euch bereit für einen Kampf.
 
 [NARRATIVE_FRESHINTRO_PLANTFOOD_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL}这个戴铁桶的家伙看起来很厉害，快试试刚才的能量豆，把它拖到豌豆上！
+{NPC_ENTER:crazydave}{PLAYFUL}Dieser Typ mit dem Metalleimer sieht mächtig aus. Versucht es doch gleich mit der Energiebohne und zieht sie zur Erbse!
 
 [NARRATIVE_FRESHINTRO_COLLECT_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}点击那个跳来跳去的能量豆，应该可以帮到我们！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Klickt auf die springende Energiebohne, sie sollte uns helfen können!
 
 [NARRATIVE_FRESHINTRO_ZOMBIE_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}这个家伙和我一样头上戴着防具，好像很厉害的样子！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Dieser Typ trägt eine Rüstung auf dem Kopf, genau wie ich. Er sieht mächtig aus!
 
 [NARRATIVE_FRESHINTRO_END_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}干得漂亮！这关能量豆无限供应，接下来把僵尸打成狗啃泥吧！
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Super gemacht! In diesem Level gibt es unbegrenzt Energiebohnen. Als Nächstes schlagen wir die Zombies zu Brei!
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}哇噢！这是哪里！我感觉自己要被吹走了！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wow! Wo ist das denn? Ich bin total baff!
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_2]
-{SAY:winnie}数据显示我们正在11045米的高空。
+{SAY:winnie}Die Daten zeigen, dass wir uns auf einer Höhe von 11.045 Metern befinden.
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_3]
-{SAY:winnie}这里说不定能找到一些特殊的东西。
+{SAY:winnie}Vielleicht finden wir hier etwas Besonderes.
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_4]
-{SAY:crazydave}可是我恐高！啊啊啊啊我要先进去了，反正这么高的地方不会有什么东西的。
+{SAY:crazydave}Aber ich habe Höhenangst! Ahhhh, ich muss erst rein, so hoch gibt es sowieso nichts.
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_5]
-{SAY:winnie}探测仪可不这么想。
+{SAY:winnie}Der Detektor glaubt das nicht.
 
 [ADVICE_MASKUI_SUN]
 Sonnenlicht ist eine wichtige Ressource für den Pflanzenanbau. Klicke darauf, um es deinem Vorrat hinzuzufügen!
@@ -2948,7 +2946,7 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:crazydave}{SAY}Die Erbsenpistole sieht etwas lustlos aus.
 
 [NARRATIVE_3701]
-{MÜDE}Hast du etwas zu fressen?
+{TIRED}Hast du etwas zu fressen?
 
 [NARRATIVE_3702]
 {NPC_ENTER:winnie}{SAG:winnie}Spezialdünger-Fähigkeit sind reich an Vitaminen und Mineralstoffen.
@@ -2960,7 +2958,7 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:crazydave}{AUFGEWUNDERT}Wirken Spezialdünger-Fähigkeit auch bei anderen Pflanzen?
 
 [NARRATIVE_3900]
-{NPC_ENTER:crazydave}{MÜDE}{LANG}Ah! Deine Pflanze wurde gefressen! Bitte versuche es noch einmal!
+{NPC_ENTER:crazydave}{TIRED}{LANG}Ah! Deine Pflanze wurde gefressen! Bitte versuche es noch einmal!
 
 [NARRATIVE_4000]
 {NPC_ENTER:crazydave}{VERSPIELT}{LANG}Die Kokosnusskanone riecht morgens richtig gut!
@@ -3044,7 +3042,7 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:winnie}{SAGEN}Eine große Zombiewelle kommt, um uns zu bekämpfen.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_A_2]
-{NPC_ENTER:crazydave}{AUFGEWICKELT:crazydave}Du kommst gerade rechtzeitig, lass uns drei Runden kämpfen!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Du kommst gerade rechtzeitig, lass uns drei Runden kämpfen!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_B_1]
 {NPC_ENTER:crazydave}{SAGEN}Ich werde einen ganzen Eimer Hähnchen verdrücken! Los geht's!
@@ -3065,10 +3063,10 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {EXCITED:crazydave}Zeit, deine Karten auf den Tisch zu legen!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_1]
-{NPC_ENTER:winnie}{AUFGEFROREN}Das sind zu viele Loren.
+{NPC_ENTER:winnie}{EXCITED}Das sind zu viele Loren.
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_2]
-{NPC_ENTER:crazydave}{AUFGEFROREN:crazydave}Es werden immer mehr!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Es werden immer mehr!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_3]
 {PLAYFUL:crazydave}Ich wusste gar nicht, dass Loren rechnen können!
@@ -3444,72 +3442,71 @@ Heruntergeladen
 {PLAYFUL:crazydave}你知道比卷筒纸更好的东西是什么吗？一个玉米卷。我们出发！
 
 [NARRATIVE_EGYPT_STAR_INTRO_1]
-{NPC_ENTER:crazydaveicon}{EXCITED}看！时空地图上出现了一颗星星！
+{NPC_ENTER:crazydaveicon}{AUFGEWUNDEN}Sieh mal! Ein Stern ist auf der Zeitkarte erschienen!
 
 [NARRATIVE_EGYPT_STAR_INTRO_2]
-{TIRED:crazydaveicon}这是什么意思呢？
+{MÜDE:crazydaveicon}Was bedeutet das?
 
 [NARRATIVE_EGYPT_STAR_INTRO_3]
-{NPC_ENTER:winnieicon}{SAY}当你获得星星，它们就显示在这个地图上。
+{NPC_ENTER:winnieicon}{SAGEN}Wenn du Sterne sammelst, erscheinen sie auf dieser Karte.
 
 [NARRATIVE_EGYPT_STAR_INTRO_4]
-{PLAYFUL:winnieicon}收集星星可以获得新植物，同时也是找回玉米卷的唯一途径。
+{VERSPIELT:winnieicon}Durch das Sammeln von Sternen erhältst du neue Pflanzen und kannst deine Tacos nur zurückbekommen.
 
 [NARRATIVE_EGYPT_STAR_INTRO_5]
-{PLAYFUL:crazydaveicon}那么让我们出发寻找更多星星吧！
+{VERSPIELT:crazydaveicon}Also los, suche mehr Sterne!
 
 [NARRATIVE_EGYPT_STAR_INTRO_OLD_4]
-{TIRED:winnieicon}空缺的星星指明了你可以去哪里获得它们。
+{TIRED:winnieicon}Die fehlenden Sterne zeigen an, wo du sie finden kannst.
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_1]
-{NPC_ENTER:crazydaveicon}{EXCITED}好消息！潘妮发现了能找回玉米卷的地图！
+{NPC_ENTER:crazydaveicon}{EXCITED}Gute Neuigkeiten! Penny hat eine Karte gefunden, mit der wir die Tacos zurückbekommen!
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_2]
-{NPC_ENTER:winnieicon}{TIRED}不，这只是时空地图，
-通过它我们可以找到植物，
-以及其他有用的物品。
+{NPC_ENTER:winnieicon}{TIRED}Nein, das ist nur eine Zeitkarte,
+auf der wir Pflanzen und andere nützliche Gegenstände finden können.
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_3]
-{EXCITED:crazydaveicon}{SPECIAL3}走，向玉米卷进发！
+{EXCITED:crazydaveicon}{SPECIAL3}Auf geht's zu den Tacos!
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_4]
 {TIRED:winnieicon}…
 
 [NARRATIVE_EGYPT_ZOMBIENOTE_1]
-{NPC_ENTER:winnieicon}{SAY}数据显示，僵尸们对脑子有狂热的追求。
+{NPC_ENTER:winnieicon}{SAY}Daten zeigen, dass Zombies verrückt nach Gehirnen sind.
 
 [NARRATIVE_EGYPT_ZOMBIENOTE_2]
-{NPC_ENTER:crazydaveicon}{TIRED}你是指它们相信吃脑子，得永生？
+{NPC_ENTER:crazydaveicon}{TIRED}Du meinst, sie glauben, dass ihnen das Essen von Gehirnen ewiges Leben schenken kann?
 
 [NARRATIVE_FLICK_1]
-{NPC_ENTER:winnie}{SAY:winnie}我有一个新发现！当你在适当的时机访问时间流时，你甚至可以调整时空超粒子
+{NPC_ENTER:winnie}{SAY:winnie}Ich habe eine neue Entdeckung! Wenn du zum richtigen Zeitpunkt auf den Zeitstrom zugreifst, kannst du sogar die Raum-Zeit-Superpartikel anpassen.
 
 [NARRATIVE_FLICK_2]
-{NPC_ENTER:crazydave}{SAY:crazydave}{EXCITED}{MEDIUM}我认为那只是一只会闪烁的僵尸！
+{NPC_ENTER:crazydave}{SAY:crazydave}{EXCITED}{MEDIUM}Ich glaube, es ist nur ein flackernder Zombie!
 
 [NARRATIVE_FLICK_3]
 {SAY:winnie}...
 
 [NARRATIVE_PINCH_1]
-{NPC_ENTER:winnie}{SAY:winnie}这个叫做僵尸脑袋超级大钳。
+{NPC_ENTER:winnie}{SAY:winnie}Das nennt man die Zombiekopf-Superzange.
 
 [NARRATIVE_PINCH_2]
-{NPC_ENTER:crazydave}{SAY:crazydave}{PLAYFUL}{MEDIUM}我把它叫做…嘿！听起来不错！
+{NPC_ENTER:crazydave}{SAY:crazydave}{PLAYFUL}{MEDIUM}Ich nenne es... Hey! Klingt gut!
 
 [NARRATIVE_PINCH_3]
-{NPC_EXIT:crazydave}{SAY:winnie}我的程序禁止使用粗话。
+{NPC_EXIT:crazydave}{SAY:winnie}Mein Programm verbietet die Verwendung von Schimpfwörtern.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_A_1]
 {NPC_ENTER:winnie}{SAY}Der Wind weht, eine große Zombiewelle kommt!
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_A_2]
-{NPC_ENTER:crazydave}{AUFGEWICKELT:crazydave}Haltet euren Rettungsring bereit! Springt notfalls ins Meer, um zu entkommen!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Haltet euren Rettungsring bereit! Springt notfalls ins Meer, um zu entkommen!
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_1]
 {NPC_ENTER:winnie}{SAY}Die Wellen kommen heftig.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_2]
-{NPC_ENTER:crazydave}{MÜDE:crazydave}Ich bin noch trocken.
+{NPC_ENTER:crazydave}{TIRED:crazydave}Ich bin noch trocken.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_3]
 {TIRED:winnie}Ich meine die Zombiewellen.
@@ -3530,7 +3527,7 @@ Heruntergeladen
 {NPC_ENTER:crazydave}{VERSPIELT:crazydave}Nachbar, vergiss nicht, „Crazy Dave“ zu unterschreiben, wenn du gewinnst.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_B_1]
-{NPC_ENTER:winnie}{MÜDE}Warum sind da plötzlich so viele Möwen?
+{NPC_ENTER:winnie}{TIRED}Warum sind da plötzlich so viele Möwen?
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_B_2]
 {NPC_ENTER:crazydave}{AUFGEWUNDERT:crazydave}Macht nichts, wir haben Kanonen und einen Highscore, der darauf wartet, übertroffen zu werden.
@@ -3539,10 +3536,10 @@ Heruntergeladen
 {NPC_ENTER:winnie}{SAG:winnie}Herzlichen Glückwunsch zu meinem Rekord.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_C_2]
-{MÜDE:winnie}Und die Daten zeigen, dass du nicht geschummelt hast.
+{TIRED:winnie}Und die Daten zeigen, dass du nicht geschummelt hast.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_C_3]
-{NPC_ENTER:crazydave}{AUFGEWICKELT:crazydave}Natürlich hat er nicht geschummelt, er hat nur Cheat-Codes benutzt, haha!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Natürlich hat er nicht geschummelt, er hat nur Cheat-Codes benutzt, haha!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_1]
 {NPC_ENTER:crazydave}{SAG}Kirschbomben sind der Hammer!
@@ -3557,7 +3554,7 @@ Heruntergeladen
 {NPC_ENTER:crazydave}{SPECIAL12} Kokosnuss-Kanonenfeuer!!!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_C_1]
-{NPC_ENTER:crazydave}{MÜDE}Ich glaube, ich habe etwas vergessen.
+{NPC_ENTER:crazydave}{TIRED}Ich glaube, ich habe etwas vergessen.
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_C_2]
 {NPC_ENTER:winnie}{SAG:winnie}Sonnenblumen?
@@ -3617,7 +3614,7 @@ Heruntergeladen
 {NPC_ENTER:winnieicon}{SAY}Sieh mal. Das ist eine Karte.
 
 [NARRATIVE_PIRATE_ZOMBIENOTE_2]
-{NPC_ENTER:crazydaveicon}{AUFGEFROREN}Das ist eine Schatzkarte! Da steht, es gibt keine Zombies. Karten lügen nicht!
+{NPC_ENTER:crazydaveicon}{EXCITED}Das ist eine Schatzkarte! Da steht, es gibt keine Zombies. Karten lügen nicht!
 
 [NARRATIVE_PIRATE_ZOMBIENOTE_3]
 {PLAYFUL:winnieicon}Dann könnte unsere Schaufel nützlich sein.
@@ -3626,7 +3623,7 @@ Heruntergeladen
 {SHOUT:crazydaveicon}Los geht's! Die Uhr tickt!
 
 [NARRATIVE_POWERUPS_TUTORIAL_INITIAL_1]
-{NPC_ENTER:winnie}{AUFGEFROREN}Du kannst jetzt die geheimnisvollen Dosen öffnen!
+{NPC_ENTER:winnie}{EXCITED}Du kannst jetzt die geheimnisvollen Dosen öffnen!
 
 [NARRATIVE_POWERUPS_TUTORIAL_INITIAL_2]
 {NPC_ENTER:crazydave}{SPECIAL6:crazydave}Juhu! Lasst uns gemeinsam die magische Kraft der Cheat-Codes genießen!
@@ -3638,16 +3635,16 @@ Heruntergeladen
 {NPC_ENTER:crazydaveicon}{SAG}Was ist das? Es sieht aus wie ein verschlossener Stern.
 
 [NARRATIVE_STARGATE_INTRO_2]
-{AUFGEFROREN}Ich nenne es ... das unbezwingbare magische interstellare Donnertor des Universums!
+{EXCITED}Ich nenne es ... das unbezwingbare magische interstellare Donnertor des Universums!
 
 [NARRATIVE_STARGATE_INTRO_3]
-{NPC_ENTER:winnieicon}{MÜDE}Nun ... ich denke, wir sollten es das Tor von Raum und Zeit nennen.
+{NPC_ENTER:winnieicon}{TIRED}Nun ... ich denke, wir sollten es das Tor von Raum und Zeit nennen.
 
 [NARRATIVE_STARGATE_INTRO_4]
 {SAGEN:winnieicon}Wir können dieses Tor öffnen, wenn wir den Schlüssel zu Raum und Zeit bekommen ...
 
 [NARRATIVE_STARGATE_INTRO_5]
-{AUFGEFROREN:winnieicon}Dann können wir in eine andere Zeit und einen anderen Raum reisen!
+{EXCITED:winnieicon}Dann können wir in eine andere Zeit und einen anderen Raum reisen!
 
 [NARRATIVE_STARGATE_INTRO_6]
 {SAGEN:winnieicon}Die Karte zeigt, wo es neue Sterne zu gewinnen gibt!
@@ -11519,13 +11516,13 @@ Ich habe nicht genug Hämmer. Du kannst jetzt keine weiteren Hämmer durch Aufla
 {NPC_ENTER:crazydave}{SPECIAL7}Hey, ich möchte Nunchakus lernen!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL15_2]
-{NPC_ENTER:winnie}{MÜDE}{START_DIALOG_MUSIC}Den Daten zufolge nähert sich eine große Welle von Kung-Fu-Zombies.
+{NPC_ENTER:winnie}{TIRED}{START_DIALOG_MUSIC}Den Daten zufolge nähert sich eine große Welle von Kung-Fu-Zombies.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL15_3]
 {NPC_ENTER:crazydave}{SPECIAL8}Keine Sorge, unsere Kung-Fu-Pflanzen sind noch verrückter!
 
 [NARRATIVE_KONGFU_OUTRO_KONGFU_LEVEL15_1]
-{NPC_ENTER:winnie}{MÜDE}{START_DIALOG_MUSIC}Die Kung-Fu-Welt-Zombies wurden hier besiegt.
+{NPC_ENTER:winnie}{TIRED}{START_DIALOG_MUSIC}Die Kung-Fu-Welt-Zombies wurden hier besiegt.
 
 [NARRATIVE_KONGFU_OUTRO_KONGFU_LEVEL15_2]
 {NPC_ENTER:crazydave}{SPECIAL8}Ich glaube, dass es in naher Zukunft noch mächtigere Kung-Fu-Welt-Zombies geben wird. Los geht's!
@@ -14512,7 +14509,7 @@ Super! Du kannst jede Pflanze auf einer verstärkten Kachel anbauen.
 {PLAYFUL:winnie}Gib mehr Edelsteine aus, um sie zu beschleunigen!
 
 [NARRATIVE_ZEN_GARDEN_INTRO_TUTORIAL_WELCOME_1]
-{NPC_ENTER:crazydave}{AUFGEFROREN}Zen-Gärten sind nicht nur für Ringelblumen!
+{NPC_ENTER:crazydave}{EXCITED}Zen-Gärten sind nicht nur für Ringelblumen!
 
 [NARRATIVE_ZEN_GARDEN_INTRO_TUTORIAL_WELCOME_2]
 {EXCITED:crazydave}Du kannst auch supertolle verbesserte Pflanzen züchten!
@@ -20218,7 +20215,7 @@ Versuch dein Glück
 {TIRED:winnie}Die Kampfkraft des Gegners wird als gefährlich (rot) eingestuft.
 
 [NARRATIVE_EYGPT_INTRO_ZOMBOSS_7]
-{AUFGEWICKELT:winnie}Wir müssen es irgendwie töten, bevor wir weitermachen können.
+{EXCITED:winnie}Wir müssen es irgendwie töten, bevor wir weitermachen können.
 
 [NARRATIVE_EYGPT_OUTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAGEN:zombossicon}Wie konnte das passieren? Das ist unmöglich!
@@ -20233,7 +20230,7 @@ Versuch dein Glück
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEREGT:crazydave}Hey! Wo sind die Tacos?
 
 [NARRATIVE_EYGPT_OUTRO_ZOMBOSS_6]
-{MÜDE:winnie}……
+{TIRED:winnie}……
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAGEN:zombossicon}Lange nicht gesehen, Beard, Broken Iron, oh, und du auch!
@@ -20263,10 +20260,10 @@ Versuch dein Glück
 {SAY:zombossicon}Hahahaha, genieße weiterhin die Freude über den Sieg, und bald wirst du einiges Neues sehen!
 
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEWICKELT:crazydave}Was er gesagt hat, ist ziemlich einschüchternd, hahahaha.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Was er gesagt hat, ist ziemlich einschüchternd, hahahaha.
 
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_5]
-{MÜDE:winnie}Vielleicht erforscht er wirklich etwas Gruseliges. Wir müssen vorsichtig sein.
+{TIRED:winnie}Vielleicht erforscht er wirklich etwas Gruseliges. Wir müssen vorsichtig sein.
 
 [NARRATIVE_RENAI_IN TRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAGEN:zombossicon}Oh, Verrückter, die Pflanzen, die du gepflanzt hast, wie können sie das Rad des Schicksals aufhalten?
@@ -20299,7 +20296,7 @@ Versuch dein Glück
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEWUNDEN:crazydave}Ich verstehe immer noch nicht.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]
-{MÜDE:winnie}Vielleicht ist das ein poetischer Fehlschlag im Shakespeareschen Stil.
+{TIRED:winnie}Vielleicht ist das ein poetischer Fehlschlag im Shakespeareschen Stil.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAGEN:zombossicon}Herzlich willkommen! Dr. Zombie grüßt alle Pflanzenfreunde.
@@ -20314,13 +20311,13 @@ Versuch dein Glück
 {SAY:zombossicon}Dann lasst uns diese tolle Party genießen, wahahahahaha ...
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEFROREN:crazydave}Penny ... Warum ist der Typ so verrückt? Party? Gibt es meine Lieblingstacos?
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny ... Warum ist der Typ so verrückt? Party? Gibt es meine Lieblingstacos?
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_6]
-{MÜDE:winnie}Lieber Dave, vergiss die Tacos ...
+{TIRED:winnie}Lieber Dave, vergiss die Tacos ...
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_7]
-{AUFGEFROREN:winnie}Wir müssen zuerst Dr. Zombie töten!
+{EXCITED:winnie}Wir müssen zuerst Dr. Zombie töten!
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Gut gemacht, wir haben ihn!
@@ -20329,13 +20326,13 @@ Versuch dein Glück
 {AUFGEWUNDEN:crazydave}Aber ich habe meine Tacos immer noch nicht bekommen ...
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_3]
-{MÜDE:winnie}Lieber Dave, du weißt, wir sind durch unzählige Zeiten und Räume gereist.
+{TIRED:winnie}Lieber Dave, du weißt, wir sind durch unzählige Zeiten und Räume gereist.
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_4]
 {SAG:winnie}Es geht nicht nur um einen Taco ...
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_5]
-{MÜDE:crazydave}Ich weiß, du hast Recht, aber vorher, kannst du mich ...
+{TIRED:crazydave}Ich weiß, du hast Recht, aber vorher, kannst du mich ...
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_6]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAG:zombossicon}Hey, Dr. Zombie kann nicht Besiegt!
@@ -20393,7 +20390,7 @@ Versuch dein Glück
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Schwitzt du, Penny? Ich bin immer noch etwas verschwitzt.
 
 [NARRATIVE_UNCHARTED_ICEAGE_OUTRO_ZOMBOSS_FINAL_4]
-{MÜDE:winnie}Lieber Dave, ich schwitze nicht, aber Dr. Zombie ist etwas … nervös.
+{TIRED:winnie}Lieber Dave, ich schwitze nicht, aber Dr. Zombie ist etwas … nervös.
 
 [NARRATIVE_UNCHARTED_ICEAGE_OUTRO_ZOMBOSS_FINAL_4]
 {AUFGEWUNDEN:crazydave}Verdammt, schon wieder ein Tag ohne Tacos!
@@ -20408,10 +20405,10 @@ Du musst alle Welten in der aktuellen Zeit und im aktuellen Raum durchqueren, um
 {NPC_ENTER:crazydaveicon}{AUFGEWUNDEN}Lieber Nachbar, ich habe einen schönen Ort gefunden. Komm mit und schau ihn dir an!
 
 [NARRATIVE_WORLDMAP_PLANTGJ_INTRO_1]
-{NPC_ENTER:crazydaveicon}{AUFGEFROREN}Lieber Nachbar, im Glücksschatz gibt es nicht nur Pflanzen und Kostüme, sondern auch Anhänger!
+{NPC_ENTER:crazydaveicon}{EXCITED}Lieber Nachbar, im Glücksschatz gibt es nicht nur Pflanzen und Kostüme, sondern auch Anhänger!
 
 [NARRATIVE_WORLDMAP_PLANTGJ_INTRO_2]
-{NPC_ENTER:crazydaveicon}{AUFGEFROREN}Was, du weißt es nicht? Schau es dir an!
+{NPC_ENTER:crazydaveicon}{EXCITED}Was, du weißt es nicht? Schau es dir an!
 
 [TREASURE_TOTURIAL_CHOOSETEN]
 Kostenlos tippen
@@ -20786,7 +20783,7 @@ Du hast die Fähigkeit gemeistert, eine Schaufel als Vorschlaghammer zu benutzen
 {NPC_ENTER:crazydaveicon}{SAY}Mal sehen, was wir damit machen können.
 
 [NARRATIVE_BOX_PLANTED_INTRO_1]
-{NPC_ENTER:crazydaveicon}{AUFGEFROREN}Super gemacht!
+{NPC_ENTER:crazydaveicon}{EXCITED}Super gemacht!
 
 [NARRATIVE_BOX_PLANTED_INTRO_2]
 {NPC_ENTER:crazydaveicon}{SAY}Sieh mal! Die Angriffsroute der Zombies hat sich geändert.
@@ -22477,7 +22474,7 @@ Schluckt Zombies am Stück herunter und produziert daraufhin Sonnen
 Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 
 [NARRATIVE_LOSTCITY_1_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEWICKELT:crazydave}Wow! Willkommen im Dschungel!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wow! Willkommen im Dschungel!
 
 [NARRATIVE_LOSTCITY_1_INTRO_2]
 {SAG:winnie}Dave, das ist kein gewöhnlicher Dschungel. Meine Scans zeigen, dass dies die legendäre verlorene Stadt ist!
@@ -22492,7 +22489,7 @@ Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 {SAG:winnie}Wenn wir Dinge darauf pflanzen, können sie kontinuierlich Sonnenlicht produzieren.
 
 [NARRATIVE_LOSTCITY_1_INTRO_6]
-{AUFGEWICKELT:crazydave}Die Verlorene Stadt? Penny! Sie ist da! Wir haben sie gefunden!
+{EXCITED:crazydave}Die Verlorene Stadt? Penny! Sie ist da! Wir haben sie gefunden!
 
 [NARRATIVE_LOSTCITY_1_INTRO_7]
 {SAGEN:crazydave}Wo sonst kann ich meine verlorenen Tacos finden, außer in der Verlorenen Stadt?
@@ -22597,7 +22594,7 @@ Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 {EXCITED:crazydave}Lasst uns ein neues Land entdecken!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEFROREN:crazydave}Wir haben überall gesucht, aber keine Tacos gefunden!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wir haben überall gesucht, aber keine Tacos gefunden!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_2]
 {SAGEN:winnie}Die Suche wird niemals enden! Dave!
@@ -22606,7 +22603,7 @@ Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Meine Entdeckung ist perfekt! Keine Tacos! Eines Tages gehört mir dein Gehirn!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEFROREN:crazydave}Sieh dir das an! Penny! Eine Schatzkarte!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Sieh dir das an! Penny! Eine Schatzkarte!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_2]
 {SAY:winnie}Mein Analysesystem zeigt, dass die Quelle dieser Karte ziemlich verdächtig ist.
@@ -23757,34 +23754,34 @@ Das Furchterregendste sind nicht Zombies, sondern gewalttätige Zombies. Dr. Zom
 Nächstes Level: Jedes Mal, wenn du Wut einsetzt, erhöhen sich deine Angriffskraft und Geschwindigkeit gegen Zombies um {COUNT} %.
 
 [NARRATIVE_MAP_PVP_INTRO_1]
-{NPC_ENTER:winnie}{AUFGEFROREN}Vor uns ist ein Wurmloch, aus dem ein unbekanntes Signal kommt!
+{NPC_ENTER:winnie}{EXCITED}Vor uns ist ein Wurmloch, aus dem ein unbekanntes Signal kommt!
 
 [NARRATIVE_MAP_PVP_INTRO_2]
-{NPC_ENTER:crazydave}{AUFGEFROREN}Wurmloch? Ich will Würmer sehen! Auf geht's!
+{NPC_ENTER:crazydave}{EXCITED}Wurmloch? Ich will Würmer sehen! Auf geht's!
 
 [NARRATIVE_MAP_PVPMAINMENU_INTRO_1]
-{NPC_ENTER:crazydave}{AUFGEFROREN}Hier ist eine reife Community. Ich schau mal, ob es Tacos zu kaufen gibt!
+{NPC_ENTER:crazydave}{EXCITED}Hier ist eine reife Community. Ich schau mal, ob es Tacos zu kaufen gibt!
 
 [NARRATIVE_MAP_PVPMAINMENU_INTRO_2]
-{NPC_ENTER:winnie}{AUFGEFROREN}Lasst uns in die Nachbarschaft gehen und sehen, was es dort gibt!
+{NPC_ENTER:winnie}{EXCITED}Lasst uns in die Nachbarschaft gehen und sehen, was es dort gibt!
 
 [NARRATIVE_MAP_PVPGARDENWAR_INTRO_1]
-{NPC_ENTER:winnie}{AUFGEFROREN}Was für eine schöne Nachbarschaft!
+{NPC_ENTER:winnie}{EXCITED}Was für eine schöne Nachbarschaft!
 
 [NARRATIVE_MAP_PVPGARDENWAR_INTRO_2]
-{NPC_ENTER:crazydave}{AUFGEFROREN}Dieses Haus ist toll. Es wird ab jetzt meine Basis sein!
+{NPC_ENTER:crazydave}{EXCITED}Dieses Haus ist toll. Es wird ab jetzt meine Basis sein!
 
 [NARRATIVE_PVP_PLANTMODULE_INTRO_1]
-{NPC_ENTER:crazydave}{AUFGEFROREN}Ich mag die fünf Flaggen unten. Lasst die Zombies nicht anfassen!
+{NPC_ENTER:crazydave}{EXCITED}Ich mag die fünf Flaggen unten. Lasst die Zombies nicht anfassen!
 
 [NARRATIVE_PVP_PLANTMODULE_INTRO_2]
-{NPC_ENTER:winnie}{MÜDE}Dann platziere 5 Erbsenkanonen, um sie zu verteidigen!
+{NPC_ENTER:winnie}{TIRED}Dann platziere 5 Erbsenkanonen, um sie zu verteidigen!
 
 [NARRATIVE_PVP_BATTLEMODULE1_INTRO_1]
 {NPC_ENTER:crazydave}{AUFGEWUNDERT}Diese Aufstellung ist zu schwach!
 
 [NARRATIVE_PVP_BATTLEMODULE1_INTRO_2]
-{NPC_ENTER:winnie}{MÜDE}Ich ändere es später. Ich habe eine Gruppe Zombies entdeckt. Macht euch bereit für den Kampf!
+{NPC_ENTER:winnie}{TIRED}Ich ändere es später. Ich habe eine Gruppe Zombies entdeckt. Macht euch bereit für den Kampf!
 
 [NARRATIVE_PVP_BATTLEMODULE1_INTRO_3]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zbcommander}{SAG}Ich bin der Kommandant der Zombiewache. Das ist unser Territorium. Ich werde deine Verteidigung zerstören!
@@ -23793,13 +23790,13 @@ Nächstes Level: Jedes Mal, wenn du Wut einsetzt, erhöhen sich deine Angriffskr
 {NPC_ENTER:zbcommander}{SAY}Du bist zu weit gegangen. Du hast alle meine verbliebenen Wachen ausgelöscht! Ich habe wohl keine andere Wahl, als mich dir anzuschließen!
 
 [NARRATIVE_PVP_BATTLEMODULE2_INTRO_2]
-{NPC_ENTER:crazydave}{MÜDE}Okay, kannst du mir helfen, Tacos zu finden?
+{NPC_ENTER:crazydave}{TIRED}Okay, kannst du mir helfen, Tacos zu finden?
 
 [NARRATIVE_PVP_BATTLEMODULE2_INTRO_3]
 {SAY:zbcommander}{SAY}Ich helfe dir beim Training deiner Zombiearmee. Lasst uns gemeinsam die Welt erobern!
 
 [NARRATIVE_PVP_BATTLEMODULE2_INTRO_4]
-{SAY:crazydave}{MÜDE}Ich will alle Tacos der Welt!
+{SAY:crazydave}{TIRED}Ich will alle Tacos der Welt!
 
 [NARRATIVE_PVP_TRAINZB_INTRO_1]
 {NPC_ENTER:zbcommander}{SAY}Lasst uns unsere erste Zombiearmee aufbauen!
@@ -23823,7 +23820,7 @@ Nächstes Level: Jedes Mal, wenn du Wut einsetzt, erhöhen sich deine Angriffskr
 {NPC_ENTER:zbcommander}{SAY}Wir haben alle Flaggen umgeworfen und ein paar glänzende Münzen erbeutet!
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_1]
-{NPC_ENTER:winnie}{MÜDE}Es scheint, als gäbe es ein neues Geschäftsviertel unter den Wolken!
+{NPC_ENTER:winnie}{TIRED}Es scheint, als gäbe es ein neues Geschäftsviertel unter den Wolken!
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_2]
 {NPC_ENTER:crazydave}{AUFGEWUNDERT}Ich frage mich, ob es im Café Tacos gibt?
@@ -23832,7 +23829,7 @@ Nächstes Level: Jedes Mal, wenn du Wut einsetzt, erhöhen sich deine Angriffskr
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zbcommander}{SAGEN}Besetze Gewerbegebäude wie Cafés und kleine Restaurants, um kontinuierlich Miete zu kassieren!
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_4]
-{NPC_EXIT:zbcommander}{NPC_ENTER:winnie}{MÜDE}Aber hüte dich vor deinen Gegnern, die sie dir wieder abnehmen!
+{NPC_EXIT:zbcommander}{NPC_ENTER:winnie}{TIRED}Aber hüte dich vor deinen Gegnern, die sie dir wieder abnehmen!
 
 [NARRATIVE_MAP_PVPEVILDAVID_START_INTRO_1]
 {NPC_ENTER:evilcrazydave}{AUFGEWUNDERT}Hey, Daves böser Bruder ist zurück! Ich bin in der Nähe deiner Basis.
@@ -23841,19 +23838,19 @@ Nächstes Level: Jedes Mal, wenn du Wut einsetzt, erhöhen sich deine Angriffskr
 Ich existiere nur, um dich zu verspotten. Kannst du, ein Schwächling, meine sorgfältig angelegten Gartenverteidigungen besiegen? Komm und probier es aus, wenn du dich traust!
 
 [NARRATIVE_MAP_PVPEVILDAVID_FAILED_INTRO_1]
-{NPC_ENTER:evilcrazydave}{AUFGEFROREN}Hahaha, ich nenne dich zu Recht einen Schwächling. Du solltest zurückgehen und mehr üben!
+{NPC_ENTER:evilcrazydave}{EXCITED}Hahaha, ich nenne dich zu Recht einen Schwächling. Du solltest zurückgehen und mehr üben!
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_1_INTRO_1]
-{NPC_ENTER:evilcrazydave}{AUFGEFROREN}Oh, nicht schlecht, aber keine Sorge, das ist nicht die Stärke meines hochgebildeten Dave.
+{NPC_ENTER:evilcrazydave}{EXCITED}Oh, nicht schlecht, aber keine Sorge, das ist nicht die Stärke meines hochgebildeten Dave.
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_1_INTRO_2]
 Ich habe nur eine chaotische Aufstellung gemacht, um dich zu ärgern.
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_2_INTRO_1]
-{NPC_ENTER:evilcrazydave}{AUFGEFROREN} Freut euch nicht zu früh! Ihr habt nur ein paar kleine Siege errungen. Ich bin nur dazu da, euch zu verspotten!
+{NPC_ENTER:evilcrazydave}{EXCITED} Freut euch nicht zu früh! Ihr habt nur ein paar kleine Siege errungen. Ich bin nur dazu da, euch zu verspotten!
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_3_INTRO_1]
-{NPC_ENTER:evilcrazydave}{AUFGEFROREN} Hmpf, glaub bloß nicht, dass du mich besiegen kannst! Ich habe nur 50 % meiner Kraft eingesetzt. Wenn du den Mut hast, komm und fordere meine nächste Aufstellung heraus.
+{NPC_ENTER:evilcrazydave}{EXCITED} Hmpf, glaub bloß nicht, dass du mich besiegen kannst! Ich habe nur 50 % meiner Kraft eingesetzt. Wenn du den Mut hast, komm und fordere meine nächste Aufstellung heraus.
 
 [NARRATIVE_MAP_PVPEVILDAVID_SUCCESS_3_INTRO_2]
 Ich verspreche, ich werde dich gnadenlos verspotten!
@@ -23871,7 +23868,7 @@ Ich verspreche, ich werde dich gnadenlos verspotten!
 {NPC_ENTER:winnie}Wir haben die Galaxiekarte erreicht und du kannst eine der Welten freischalten.
 
 [NARRATIVE_UNLOCK_WORLD_1_2]
-{NPC_ENTER:crazydave}{AUFGEFROREN}Ich wähle die mit weniger Pfeffer!
+{NPC_ENTER:crazydave}{EXCITED}Ich wähle die mit weniger Pfeffer!
 
 [NARRATIVE_UNLOCK_WORLD_2_1]
 {NPC_ENTER:winnie}Achtung! Nach jeder freigeschalteten Welt erhöht sich die Anzahl der benötigten Sterne für die verbleibenden neuen Welten.
@@ -28174,13 +28171,13 @@ Du hast unzählige Quests abgeschlossen! Und jede Menge Belohnungen erhalten!
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Dave. Halte Ausschau nach der Reihe Bananenraketen.
 
 [NARRATIVE_BEACH_INTRO_BANANA_2]
-{AUFGEWICKELT:WINNIE}Sie scheinen unseren Schutz zu brauchen!
+{EXCITED:WINNIE}Sie scheinen unseren Schutz zu brauchen!
 
 [NARRATIVE_BEACH_INTRO_BANANA_3]
 {VERSPIELT:CRAZYDAVE}Helf ihnen! Bananen sind schließlich eine sehr attraktive Frucht!
 
 [NARRATIVE_BEACH_INTRO_BANANA_4]
-{MÜDE:WINNIE}Dave, wenn ich einen Kopf hätte, würde ich jetzt definitiv den Kopf schütteln.
+{TIRED:WINNIE}Dave, wenn ich einen Kopf hätte, würde ich jetzt definitiv den Kopf schütteln.
 
 [NARRATIVE_BEACH_INTRO_BOWLING_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAGEN:WINNIE}Meine Recherchen haben ergeben, dass Bowling die angesagteste Sportart unserer Zeit ist.
@@ -28302,7 +28299,7 @@ Du hast unzählige Quests abgeschlossen! Und jede Menge Belohnungen erhalten!
 {EXCITED:WINNIE}Setz sie an vorderster Front ein. Abwarten.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{MÜDE:CRAZYDAVE}Hey! Es ist nicht leicht, der Zombiehorde zu widerstehen, die wie eine Flut anrückt.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}Hey! Es ist nicht leicht, der Zombiehorde zu widerstehen, die wie eine Flut anrückt.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_2]
 {AUFGEWUNDERT:CRAZYDAVE}Weißt du, was wir brauchen, Penny? Wir brauchen einen guten Partner!
@@ -28615,6 +28612,7 @@ hart.
 
 [NARRATIVE_DANGER_ROOM_LAWNMOWER_SUCCESS_5]
 {PLAYFUL}Zeit, eine andere Pflanze auszuwählen!
+
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}Achtung! Ich habe eine Glasflasche mit einer böse getarnten Verbindung entdeckt!
 
@@ -28947,7 +28945,7 @@ hart.
 {NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{AUFGEWUNDERT:CRAZYDAVE}Cool, der Zombie-Doktor will dein Autogramm!
 
 [NARRATIVE_EGYPT_INTRO_GARGANTUAR_6]
-{MÜDE:WINNIE}Das ist kein gutes Zeichen.
+{TIRED:WINNIE}Das ist kein gutes Zeichen.
 
 [NARRATIVE_EGYPT_INTRO_ZOMBOSS_1]
 {NPC_ENTER:ZOMBOSSICON}{SAY}Hast du dich schon mal gefragt, warum dein Nachbar Dave immer so hungrig ist?
@@ -28986,7 +28984,7 @@ hart.
 {NPC_ENTER:CRAZYDAVE}{PLAYFUL}Moment mal!
 
 [NARRATIVE_EGYPT_OUTRO_ZOMBOSS_2]
-{MÜDE:CRAZYDAVE}In diesem Taco ist nie Fleisch.
+{TIRED:CRAZYDAVE}In diesem Taco ist nie Fleisch.
 
 [NARRATIVE_EGYPT_OUTRO_ZOMBOSS_3]
 {AUFGEWUNDEN:CRAZYDAVE}Die Krümel in meinem Bart beweisen es!
@@ -29001,13 +28999,13 @@ hart.
 {AUFGEWUNDEN:CRAZYDAVEICON}{SPECIAL3}Lass uns meine Tacos suchen!
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_6]
-{MÜDE:WINNIEICON}...
+{TIRED:WINNIEICON}...
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_OLD_1]
 {NPC_ENTER:CRAZYDAVEICON}{AUFGEWUNDEN}Gute Neuigkeiten! Penny hat eine Karte zu meinen Tacos gefunden!
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_OLD_2]
-{NPC_ENTER:WINNIEICON}{MÜDE}Nein, es ist eine Raum-Zeit-Karte, die die Pflanzen zeigt, die uns helfen können.
+{NPC_ENTER:WINNIEICON}{TIRED}Nein, es ist eine Raum-Zeit-Karte, die die Pflanzen zeigt, die uns helfen können.
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_OLD_3]
 {EXCITED:CRAZYDAVEICON}{SPECIAL3}Lass uns meine Tacos suchen!
@@ -29028,7 +29026,7 @@ hart.
 {EXCITED:CRAZYDAVE}Ich spüre den Rhythmus, ich spüre den Rhythmus!
 
 [NARRATIVE_EIGHTIES_15_OUTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{AUFGEWICKELT:CRAZYDAVE}Jemand hat mir im Unterricht einen Zettel zugeworfen, Penny!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Jemand hat mir im Unterricht einen Zettel zugeworfen, Penny!
 
 [NARRATIVE_EIGHTIES_15_OUTRO_2]
 {SAY:CRAZYDAVE}Da stand, sie wollten mich in der Mittagspause hinter dem Fahrradschuppen treffen. Sie sagten, sie hätten eine große Überraschung für mich!
@@ -29349,7 +29347,7 @@ hart.
 {NPC_ENTER:CRAZYDAVE}{AUFGEWUNDERT:CRAZYDAVE}Aber einige meiner besten Freunde sind zufällig Pflanzen!
 
 [NARRATIVE_FUTURE_CHALLENGE_PRESET_B_1]
-{NPC_ENTER:CRAZYDAVE}{MÜDE}Sieht so aus, als ob uns hier die Feuerkraft fehlt, Penny.
+{NPC_ENTER:CRAZYDAVE}{TIRED}Sieht so aus, als ob uns hier die Feuerkraft fehlt, Penny.
 
 [NARRATIVE_FUTURE_CHALLENGE_PRESET_B_2]
 {NPC_ENTER:WINNIE}{SAY}Du musst viel Sonnenlicht erzeugen.
@@ -29695,10 +29693,10 @@ hart.
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}Warnung, Warnung, Dave! Mein Frostschutzmittel reicht nicht mehr!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_2]
-{MÜDE:WINNIE}Wenn mein System einfriert, einfriert, einfriert, stecken wir für immer hier fest!
+{TIRED:WINNIE}Wenn mein System einfriert, einfriert, einfriert, stecken wir für immer hier fest!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_3]
-{AUFGEWICKELT:CRAZYDAVE}Das lasse ich nicht zu, selbst wenn es das Ende der Welt bedeutet, Penny!
+{EXCITED:CRAZYDAVE}Das lasse ich nicht zu, selbst wenn es das Ende der Welt bedeutet, Penny!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_4]
 {SAGEN:CRAZYDAVE}Es ist Zeit, die brennenden Erbsenkanonen loszulassen!
@@ -29822,7 +29820,7 @@ hart.
 {SAG:WINNIE}Ich empfehle, die Rübe zu beschwören.
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_4]
-{AUFGEFROREN:WINNIE}Sie kann in der Luft schweben und Zombies in vier Richtungen abschießen!
+{EXCITED:WINNIE}Sie kann in der Luft schweben und Zombies in vier Richtungen abschießen!
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_5]
 {VERSPIELT:CRAZYDAVE}Dieses Kind hat Talent! Vielleicht weiß sie auch, wie man heißen Kakao macht?
@@ -30225,7 +30223,7 @@ hart.
 {SAG:WINNIE}Mein Scanner sagt, wir können sie austauschen, um ein 3-Gewinnt-Spiel zu spielen.
 
 [NARRATIVE_MODERN_8_INTRO_3]
-{AUFGEFROREN:CRAZYDAVE}Das habe ich auf meinem Handy gesehen!
+{EXCITED:CRAZYDAVE}Das habe ich auf meinem Handy gesehen!
 
 [NARRATIVE_MODERN_9_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE}Mein Detektor sagt, der Heliumpegel steigt, Dave.
@@ -30381,7 +30379,7 @@ hart.
 {SAY:CRAZYDAVE}Danke, Reisetagebuch! Was immer du willst!
 
 [NARRATIVE_STORE_INTRO_2]
-{NPC_ENTER:WINNIEICON}{AUFGEFROREN}Das Interessanteste sind die besonderen Gegenstände darin!
+{NPC_ENTER:WINNIEICON}{EXCITED}Das Interessanteste sind die besonderen Gegenstände darin!
 
 [NARRATIVE_STRAWBURST_LOD_1]
 {NPC_ENTER:WINNIE}{SAG:WINNIE}Klicke auf die explosive Erdbeere, um sie abzufeuern.
@@ -30390,10 +30388,10 @@ hart.
 {SAG:WINNIE}Die explosive Erdbeere wird immer größer.
 
 [NARRATIVE_UNIVERSE_INTRO_TUTORIAL_1]
-{NPC_ENTER:CRAZYDAVEICON}{AUFGEFROREN}Gute Neuigkeiten! Penny hat eine Karte zu meinen Tacos gefunden!
+{NPC_ENTER:CRAZYDAVEICON}{EXCITED}Gute Neuigkeiten! Penny hat eine Karte zu meinen Tacos gefunden!
 
 [NARRATIVE_UNIVERSE_INTRO_TUTORIAL_2]
-{NPC_ENTER:WINNIEICON}{MÜDE}Nein, das ist eine Raum-Zeit-Karte, die wir erkunden können.
+{NPC_ENTER:WINNIEICON}{TIRED}Nein, das ist eine Raum-Zeit-Karte, die wir erkunden können.
 
 [NARRATIVE_UNIVERSE_INTRO_TUTORIAL_3]
 {EXCITED:CRAZYDAVEICON}Mumien, Piraten und Cowboys, oh je!
@@ -31658,10 +31656,12 @@ Benötigen Sie mehr Setzlinge? Wählen Sie unten ein Paket aus.
 
 [STARCHALLENGE_EVILSHROOMS_NAME]
 Dunkle Alchemie
+
 [STARCHALLENGE_ICEAGE_FINALE]
-Überlebe einen massiven Angriff in der Frostgrotte.
+Überlebe einen massiven Angriff in den Frostbeulen-Höhlen.
+
 [STARCHALLENGE_MODERN_FINALE]
-Überlebe einen massiven Angriff in der modernen Welt.
+Überlebe einen massiven Angriff in der moderne.
 
 [STARCHALLENGE_MOSTLY_PRESET_PLANTS]
 Überlebe einen Zombieangriff mit ausgewählten Pflanzen.
@@ -34263,7 +34263,7 @@ Zurück zur Familienoberfläche
 {NPC_EXIT:Winnie}
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_END_1]
-{NPC_ENTER:Winnie}{AUFGEFROREN:Winnie}Das neue Talent ist wirksam. Die Pflanzen der Familie sind stärker geworden!
+{NPC_ENTER:Winnie}{EXCITED:Winnie}Das neue Talent ist wirksam. Die Pflanzen der Familie sind stärker geworden!
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_END_2]
 {SAY:Winnie}Das Erhalten oder Verbessern von Pflanzen kann das Familienlevel erhöhen. Je höher das Level, desto höher die Attribute, die freigebürstet werden können!
@@ -34527,7 +34527,7 @@ Heute keine weiteren Erinnerungen.
 {NPC_ENTER:winnie}{PLAYFUL:winnie} Vielleicht kann ich mir mit dem roten Umschlag einen neuen Satz Räder kaufen. Moment, hast du das Geräusch gehört?
 
 [NARRATIVE_SPRING_FESTIVAL_2024_UNCHARTED_EVENT_TUTORIAL_4]
-{NPC_ENTER:crazydave}{AUFGEWICKELT:crazydave}Ich habe gehört, dass viele „alte Freunde“ kommen, um das Frühlingsfest mit uns zu feiern!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Ich habe gehört, dass viele „alte Freunde“ kommen, um das Frühlingsfest mit uns zu feiern!
 
 [NARRATIVE_ARBORDAY_UNCHARTED_EVENT_TUTORIAL_1]
 {NPC_ENTER:winnie}{VERSPIELT:winnie}Der Frühling ist endlich da. Manche Stellen bei mir schimmeln schon. Lasst uns rausgehen und Sonne tanken.
@@ -34548,13 +34548,13 @@ Heute keine weiteren Erinnerungen.
 {NPC_ENTER:Winnie}Du kannst deine Kostüme im Kostümrucksack ansehen.
 
 [NARRATIVE_NEWAVATAR_FINISH_TUTORIAL_2]
-{NPC_ENTER:Winnie}{AUFGEFROREN}Die neuen Kostüme verleihen Pflanzen zusätzliche Attributboni.
+{NPC_ENTER:Winnie}{EXCITED}Die neuen Kostüme verleihen Pflanzen zusätzliche Attributboni.
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_TUTORIAL_1]
-{NPC_ENTER:CRAZYDAVEICON}{AUFGEFROREN}Ich habe ein paar Fragmente in deinen Rucksack gepackt. Probier sie jetzt aus.
+{NPC_ENTER:CRAZYDAVEICON}{EXCITED}Ich habe ein paar Fragmente in deinen Rucksack gepackt. Probier sie jetzt aus.
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_DONE_TUTORIAL_1]
-{NPC_ENTER:WINNIEICON}{AUFGEFROREN}Für die Fusion werden mindestens zwei Fragmente benötigt. Je mehr Fragmente, desto höher ist die Wahrscheinlichkeit der Fusion hochstufiger Fragmente.
+{NPC_ENTER:WINNIEICON}{EXCITED}Für die Fusion werden mindestens zwei Fragmente benötigt. Je mehr Fragmente, desto höher ist die Wahrscheinlichkeit der Fusion hochstufiger Fragmente.
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_DONE_TUTORIAL_2]
 {NPC_ENTER:CRAZYDAVEICON}{PLAYFUL}Lass es uns erstmal versuchen.
@@ -67933,244 +67933,246 @@ Wird für die Füllhorn-Ziehung verwendet
 虚位以待
 
 [SHOP_NO_LIMIT_BUYTIME_TITLE]
-限购次数：不限
+Anzahl der Käufe: unbegrenzt
 
 [CORNUCOPIA_CRYSTAL_5000]
-幸运大奖
+Gewinnspiel
 
 [MAT_CORNUCOPIA_EMBLEM_MUST]
-兑换徽章（必得）
+Eintausch gegen Abzeichen (Muss gewonnen werden)
 
 [CORNUCOPIA_GRADE_TASK_NAME_1_1]
-每日登陆
+Täglicher Login
 
 [CORNUCOPIA_GRADE_TASK_NAME_1_2]
-任意消耗150钻石
+Beliebiger Verbrauch von 150 Diamanten
 
-[CORNUCOPIA_GRADE_TASK_NAME_1_3]
-给任意1个DIY关卡点赞
+[CORNU COPIA_GRADE_TASK_NAME_1_3]
+Wie jedes DIY-Level
 
 [CORNUCOPIA_GRADE_TASK_NAME_1_4]
-获得任意1次回忆之旅关卡胜利
+Gewinne ein beliebiges Journey of Memory-Level
 
 [CORNUCOPIA_GRADE_TASK_NAME_1_5]
-完成2次植物探险
+Schließe 2 Pflanzenabenteuer ab
 
 [UNCHARTED_ICEAGE_TASK_NAME_1_1]
-完成三个组合挑战：僵尸阶数提升(1星)，僵尸攻击上升(2星)，僵尸速度加快(3星)
+Schließe drei kombinierte Herausforderungen: Zombie-Level-Steigerung (1 Stern), Zombie-Angriffssteigerung (2 Sterne), Zombie-Beschleunigung (3 Sterne)
 
 [UNCHARTED_ICEAGE_TASK_NAME_1_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_1_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_1_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_1_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht.
 
-[UNCHARTED_ICEAGE_TASK_NAME_2_1]
-完成三个组合挑战：收取阳光减少(1星)，卡槽数量减少(2星)，左侧菌毯(3星)
+[UNCHARTED_ICEAGE_TASK_NAME_1_6]
+ED_ICEAGE_TASK_NAME_2_1]
+Schließe drei kombinierte Herausforderungen ab: Reduziertes Sonnenlicht (1 Stern), Reduzierte Kartenfächer (2 Sterne), Linke Pilzdecke (3 Sterne)
 
 [UNCHARTED_ICEAGE_TASK_NAME_2_2]
-历史最高星数到达2星
+Die Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_2_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_2_4]
-历史最高星数到达6星	
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_2_5]
-历史最高星数到达10星
+Der höchste Stern aller Zeiten hat 10 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_3_1]
-完成三个组合挑战：远程植物消耗增加(1星)，僵尸阶数提升(2星)，僵尸攻击提升(3星)
+Schließe drei Kombinationsherausforderungen ab: Erhöhe den Verbrauch von Remote-Pflanzen (1 Stern), erhöhe das Zombie-Level (2 Sterne) und erhöhe den Zombie-Angriff (3 Sterne).
 
 [UNCHARTED_ICEAGE_TASK_NAME_3_2]
-历史最高星数到达2星
+Der höchste Stern aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_3_3]
-历史最高星数到达4星
+Der höchste Stern aller Zeiten hat 4 Sterne erreicht. Sterne
 
 [UNCHARTED_ICEAGE_TASK_NAME_3_4]
-历史最高星数到达6星
+Der höchste Stern der Geschichte hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_3_5]
-历史最高星数到达10星
+Der höchste Stern der Geschichte hat 10 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_4_1]
-完成三个组合挑战：僵尸阶数提升(1星)，卡槽数量减少(2星)，僵尸攻击提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Zombie-Level erhöhen (1 Stern), Kartensteckplatz-Anzahl reduzieren (2 Sterne), Zombie-Angriff erhöhen (3 Sterne).
 
 [UNCHARTED_ICEAGE_TASK_NAME_4_2]
-历史最高星数到达2星
+Der höchste Stern der Geschichte hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_4_3]
-历史最高星数到达4星
+Der höchste Stern der Geschichte hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_4_4]
-历史最高星数到达6星
+Der höchste Stern der Geschichte hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_4_5]
-历史最高星数到达10星
+Der höchste Stern der Geschichte hat 10 Sterne erreicht. Sterne
 
 [UNCHARTED_ICEAGE_TASK_NAME_5_1]
-完成三个组合挑战：坚韧植物种植冷却增加(1星)，禁止携带奇兵类植物(2星)，僵尸攻击提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Erhöhung der Abklingzeit beim Pflanzen schwieriger Pflanzen (1 Stern), Verbot des Tragens spezieller Pflanzen (2 Sterne), Erhöhung des Zombieangriffs (3 Sterne)
 
-[UNCHARTED_ICEAGE_TASK_NAME_5_2]
-历史最高星数到达2星
+[UNCHARTED_ICEAGE_TASK_NAME_5_1]
+CEAGE_TASK_NAME_5_2]
+Der höchste Stern der Geschichte hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_5_3]
-历史最高星数到达4星
+Der höchste Stern der Geschichte hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_5_4]
-历史最高星数到达6星
+Der höchste Stern der Geschichte hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_5_5]
-历史最高星数到达10星
+Der höchste Stern der Geschichte hat 10 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_6_1]
-完成三个组合挑战：右侧菌毯(1星)，收取阳光减少(2星)，僵尸移速提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Richtige Pilzdecke (1 Stern), Reduzierung der Sonnenlichtsammlung (2 Sterne) und Erhöhung der Zombie-Bewegungsgeschwindigkeit. (3 Sterne)
 
 [UNCHARTED_ICEAGE_TASK_NAME_6_2]
-历史最高星数到达2星
+Der höchste Stern der Geschichte hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_6_3]
-历史最高星数到达4星
+Der höchste Stern der Geschichte hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_6_4]
-历史最高星数到达6星
+Die höchste Anzahl an Sternen der Geschichte hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_6_5]
-历史最高星数到达10星
+Die höchste Anzahl an Sternen der Geschichte hat 10 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_7_1]
-完成三个组合挑战：收取阳光减少(1星)，禁止携带奇兵类植物(2星)，僵尸移速提升(3星)
+Schließe drei Kombinationsherausforderungen ab: Reduziere die Menge an gesammeltem Sonnenlicht (1 Stern), verbiete das Tragen von Spezialpflanzen (2 Sterne) und erhöhe die Geschwindigkeit von Zombies (3 Sterne).
 
 [UNCHARTED_ICEAGE_TASK_NAME_7_2]
-历史最高星数到达2星
+Die höchste Anzahl an Sternen der Geschichte hat 2 erreicht. Sterne
 
 [UNCHARTED_ICEAGE_TASK_NAME_7_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_7_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_7_5]
-历史最高星数到达10星
+Der höchste Stern aller Zeiten hat 10 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_8_1]
-完成三个组合挑战：植物伤害降低(1星)，右侧菌毯(2星)，僵尸攻击提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Pflanzenschadensreduzierung (1 Stern), Pilzdecke (2 Sterne), Erhöhung des Zombieangriffs (3 Sterne).
 
 [UNCHARTED_ICEAGE_TASK_NAME_8_2]
-历史最高星数到达2星
+Der höchste Stern aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_8_3]
-历史最高星数到达4星
+Der höchste Stern aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_8_4]
-历史最高星数到达6星
+Der höchste Stern aller Zeiten hat 6 Sterne erreicht. Sterne
 
 [UNCHARTED_ICEAGE_TASK_NAME_8_5]
-历史最高星数到达10星
+Der höchste Stern der Geschichte hat 10 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_9_1]
-完成三个组合挑战：左侧菌毯(1星)，禁止携带辅助类植物(2星)，僵尸攻击提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Linke Pilzdecke (1 Stern), Verbot des Tragens von Hilfspflanzen (2 Sterne), Erhöhung des Zombieangriffs (3 Sterne)
 
 [UNCHARTED_ICEAGE_TASK_NAME_9_2]
-历史最高星数到达2星
+Der höchste Stern der Geschichte hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_9_3]
-历史最高星数到达4星
+Der höchste Stern der Geschichte hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_9_4]
-历史最高星数到达6星
+Der höchste Stern der Geschichte hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_9_5]
-历史最高星数到达10星
+Der höchste Stern der Geschichte hat 10 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_10_1]
-完成三个组合挑战：先锋种植冷却增加(1星)，禁止携带辅助类植物(2星)，右侧菌毯(3星)
+Schließe drei kombinierte Herausforderungen ab: Pionierpflanzung Abklingzeiterhöhung (1 Stern), Verbot des Tragens von Hilfspflanzen (2 Sterne), richtige Pilzdecke (3 Sterne)
 
 [UNCHARTED_ICEAGE_TASK_NAME_10_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_10_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_10_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_ICEAGE_TASK_NAME_10_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_1]
-完成三个组合挑战：收取阳光减少(1星)，僵尸攻击上升(2星)，僵尸速度加快(3星)
+Schließe drei Kombinationsherausforderungen ab: Sonnenlichtsammlung reduzieren (1 Stern), Zombieangriff erhöhen (2 Sterne) und Zombiegeschwindigkeit erhöhen (3 Sterne).
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 erreicht. Sterne
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
-[UNCHARTED_CHILDRENSDAY_TASK_NAME_1_4]
-历史最高星数到达6星
+[UNC HARTED_CHILDRENSDAY_TASK_NAME_1_4]
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_2_1]
-完成三个组合挑战：僵尸阶数提升(1星)，卡槽数量减少(2星)，左侧菌毯(3星)
+Schließe drei kombinierte Herausforderungen ab: Zombie-Level erhöhen (1 Stern), Kartensteckplatzanzahl reduzieren (2 Sterne), Pilzdecke verlassen (3 Sterne).
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_2_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_2_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht. Sterne
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_2_4]
-历史最高星数到达6星	
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_2_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_1]
-完成三个组合挑战：坚韧植物消耗增加(1星)，左侧菌毯(2星)，植物伤害降低(3星)
+Schließe drei Kombinationsherausforderungen ab: Erhöhter Pflanzenverbrauch (1 Stern), Linker Pilzbelag (2 Sterne), Reduzierter Pflanzenschaden (3 Sterne).
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht. Sterne
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_5]
-历史最高星数到达10星
+Der höchste Stern aller Zeiten hat 10 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_4_1]
-完成三个组合挑战：僵尸阶数提升(1星)，卡槽数量减少(2星)，僵尸移速提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Zombie-Level erhöhen (1 Stern), Slot-Anzahl reduzieren (2 Sterne), Zombie-Bewegungsgeschwindigkeit erhöhen (3 Sterne).
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_4_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_4_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_4_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_4_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 erreicht. Sterne
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_1]
-完成三个组合挑战：远程植物消耗增加(1星)，收取阳光减少(2星)，僵尸攻击提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Erhöhe den Verbrauch entfernter Pflanzen (1 Stern), Reduziere die Sonnenlichtsammlung (2 Sterne), Erhöhe den Zombieangriff (3 Sterne)
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten erreichte 2 Sterne.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_3]
 历史最高星数到达4星
@@ -71604,271 +71606,271 @@ Die Explodierende Nuss trägt einen Stahlschild, der nach dem Verzehr ebenfalls 
 Die Explodierende Nuss trägt einen ^ff0000^ dickeren Stahlschild ^oldclr^, der explodiert, sobald er aufgefressen wird.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在常态下的夜影龙葵右侧一格时，夜影龙葵会发射叶子。在暗影状态下攻击范围变为整行，每5秒恢复一片叶子。
+Erscheint ein Zombie im Normalzustand ein Feld rechts von Nightshade, feuert Nightshade Blätter ab. Im Schattenzustand erstreckt sich die Angriffsreichweite über die gesamte Reihe, und alle 5 Sekunden wird ein Blatt wiederhergestellt.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL2_DES]
-当有月光花提供增益时，它的叶片恢复速度提升，每4.5秒恢复一片叶子。
+Wenn Moonflower einen Buff gewährt, erhöht sich ihre Blattregenerationsgeschwindigkeit, und alle 4,5 Sekunden wird ein Blatt wiederhergestellt.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL3_DES]
-当有月光花提供增益时，它的叶片恢复速度提升，每4秒恢复一片叶子。
+Wenn Moonflower einen Buff gewährt, erhöht sich ihre Blattregenerationsgeschwindigkeit, und alle 4 Sekunden wird ein Blatt wiederhergestellt.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen ist die Wahrscheinlichkeit gering, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [NIGHTSHADE_PLANTFOOD_DESCRIPTION]
-夜影龙葵的叶子变成蓝色发射 3 片叶片，随后提升他在常态和暗影状态下的攻击力。
+Nightshades Blätter färben sich blau und feuern drei Blätter ab. Dadurch erhöht sich seine Angriffskraft im Normal- und Schattenzustand.
 
 [NIGHTSHADE_AVATAR_PLANTFOOD_DESCRIPTION]
-夜影龙葵的叶子变成蓝色^ff0000^发射1片大叶片^oldclr^，随后提升他在常态和暗影状态下的攻击力。
+Nightshades AVATAR-Blätter färben sich blau^ff0000^ und feuern ein großes Blatt^oldclr^ ab. Dadurch erhöht sich seine Angriffskraft im Normal- und Schattenzustand.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在幽暮投手右侧时，幽暮投手会向前方投掷爆炸果实。子弹无论命中还是落地都会对周围造成溅射伤害。在暗影状态下，幽暮投手可以同时对三行发动攻击。
+Wenn rechts von Dusk Lobber ein Zombie erscheint, wirft Dusk Lobber explosive Früchte nach vorne. Die Kugeln verursachen Flächenschaden in der Umgebung, unabhängig davon, ob sie treffen oder landen. Im Schattenzustand kann Dusk Lobber drei Reihen gleichzeitig angreifen.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL2_DES]
-攻击时有10%的概率投掷红色花蕾，击中敌人时造成120点伤害，还会散发花粉使其^848484^眩晕Ⅰ^oldclr^1.5秒。
+Beim Angriff besteht eine 10%ige Chance, rote Knospen zu werfen. Diese verursachen beim Treffer 120 Schaden und geben außerdem Pollen ab, der den Gegner 1,5 Sekunden lang betäubt.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL3_DES]
-攻击时有20%的概率投掷红色花蕾，击中敌人时造成160点伤害，还会散发花粉使其^848484^眩晕Ⅰ^oldclr^1.5秒。
+Beim Angriff besteht eine 20%ige Chance, rote Blütenknospen zu werfen. Diese verursachen beim Treffer 160 Schaden und geben außerdem Pollen ab, der den Gegner 1,5 Sekunden lang betäubt.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Chance, die Energiebohne direkt freizusetzen.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL5_DES]
-攻击时有25%的概率在溅射范围内掉落种子，这些种子会长成荆棘，可以吸收1000点伤害，并束缚僵尸直到藤蔓被毁掉。
+Beim Angriff besteht eine Chance von 25 %, dass Samen im Wirkungsbereich fallen. Diese Samen wachsen zu Dornen heran, die 1000 Schaden absorbieren und Zombies fesseln können, bis die Ranken zerstört sind.
 
 [DUSKLOBBER_PLANTFOOD_DESCRIPTION]
-幽暮投手蓄力投射4个花苞，花苞会爆炸，对3×3范围内的僵尸造成伤害。
+Der Dämmerungskrug lädt sich auf und wirft 4 Blütenknospen, die explodieren und Zombies im Umkreis von 3×3 Schaden zufügen.
 
 [DUSKLOBBER_AVATAR_PLANTFOOD_DESCRIPTION]
-幽暮投手蓄力投射^ff0000^5个花苞^oldclr^，花苞会爆炸，对3×3范围内的僵尸造成伤害，^ff0000^额外的花苞会对范围内的僵尸造成2秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^。^oldclr^
+Der Dämmerungskrug lädt sich auf und wirft ^ff0000^5 Blütenknospen^oldclr^, die explodieren und Zombies im Umkreis von 3×3 Schaden zufügen. ^ff0000^Zusätzliche Blütenknospen betäuben Zombies in Reichweite für 2 Sekunden.^oldclr^^848484^oldclr^^ff0000^. ^oldclr^
 
 [bloominghearts_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在铃儿草投手右侧时，铃儿草投手会投掷爱心果实。铃儿草投手的攻击会对单只僵尸叠加爱心印记，并依据叠加的数目增加伤害。一只僵尸最多可以被叠加五次爱心印记，每个印记增加10点伤害。
+Wenn ein Zombie rechts vom Glockenblumenhüpfer erscheint, wirft dieser eine Herzfrucht. Der Angriff des Glockenblumenhüpfers stapelt Herzmarkierungen auf einem einzelnen Zombie und erhöht den Schaden basierend auf der Anzahl der Stapel. Ein Zombie kann bis zu fünf Herzmarkierungen erhalten, und jede Markierung erhöht den Schaden um 10 Punkte.
 
 [bloominghearts_NEW_SKILL_LEVEL2_DES]
-铃儿草的攻击有50%的概率生成一个标记，铃儿草会优先攻击被标记的僵尸
+Beim Angriff haben Glockenblumen eine 50%ige Chance, eine Markierung zu erzeugen. Glockenblumen greifen vorrangig die markierten Zombies an.
 
 [bloominghearts_NEW_SKILL_LEVEL3_DES]
-铃儿草的攻击必定生成一个标记，铃儿草会优先攻击被标记的僵尸
+Beim Angriff hinterlassen Glockenblumen definitiv eine Markierung. Glockenblumen greifen vorrangig die markierten Zombies an.
 
 [bloominghearts_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Chance, die Energiebohne direkt auszulösen!
 
 [bloominghearts_NEW_SKILL_LEVEL5_DES]
-攻击时有25%的概率在溅射范围内掉落种子，这些种子会长成荆棘，可以吸收1000点伤害，并束缚僵尸直到藤曼被毁掉。
+Beim Angriff besteht eine 25%ige Chance, Samen im Wirkungsbereich fallen zu lassen. Diese Samen wachsen zu Dornen heran, die 1000 Schaden absorbieren und Zombies fesseln können, bis die Ranken zerstört sind.
 
 [bloominghearts_PLANTFOOD_DESCRIPTION]
-铃儿草旋转果实向全屏最多 5 个单位投掷花瓣对僵尸造成伤害，对有爱心印记的僵尸造成额外伤害。
+Die AVATAR-Frucht wirft Blütenblätter auf bis zu 5 Einheiten auf dem Bildschirm und fügt Zombies Schaden zu. Zombies mit der Herzmarkierung erleiden zusätzlichen Schaden.
 
 [bloominghearts_AVATAR_PLANTFOOD_DESCRIPTION]
-铃儿草旋转果实向全屏最多 5 个单位投掷花瓣对僵尸^ff0000^造成大量伤害^oldclr^，对有爱心印记的僵尸造成额外伤害。
+Die AVATAR-Frucht schleudert Blütenblätter auf bis zu 5 Einheiten auf dem Bildschirm und verursacht so großen Schaden an Zombies^ff0000^oldclr^, insbesondere an Zombies mit Herzmarkierung.
 
 [GRIMROSE_NEW_SKILL_LEVEL1_DES]
-把一只有不高于自身 2 阶的非大体型僵尸拖入地底，或是对不可拖拽的僵尸造成 200 点伤害。暗影状态下可以拖拽3只僵尸
+Zieh einen mittelgroßen Zombie, der zwei Level höher ist als er selbst, in den Boden oder füge einem Zombie, der nicht gezogen werden kann, 200 Schaden zu. Im Schattenmodus kannst du 3 Zombies ziehen.
 
 [GRIMROSE_NEW_SKILL_LEVEL2_DES]
-拖拽僵尸后有10%的概率不损失花蕊。
+Es besteht eine 10%ige Chance, dass die Blume nach dem Ziehen eines Zombies nicht verloren geht.
 
 [GRIMROSE_NEW_SKILL_LEVEL3_DES]
-拖拽僵尸后有20%的概率不损失花蕊。
+Nach dem Ziehen eines Zombies besteht eine 20%ige Chance, dass das Blütenblatt nicht verloren geht.
 
 [GRIMROSE_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！拖拽僵尸后有30%的概率不损失花蕊！
+Beim Pflanzen besteht eine geringe Chance, dass die Energiebohne direkt freigesetzt wird! Die Chance, dass die Blütenstaubblätter beim Ziehen eines Zombies nicht verloren gehen, liegt bei 30 %!
 
 [GRIMROSE_NEW_SKILL_LEVEL5_DES]
-通过任意方式拖拽僵尸成功后，暗樱草会在原地释放暗影炸弹，对单格内的僵尸造成1500点伤害。
+Nachdem ein Zombie erfolgreich gezogen wurde, wirft die Dunkle Primel sofort eine Schattenbombe ab, die den Zombies in einem einzelnen Raster 1500 Schaden zufügt.
 
 [GRIMROSE_PLANTFOOD_DESCRIPTION]
-将最强壮的一只僵尸拖入地面中，但对巨型僵尸和机械单位每次只能造成伤害，不消耗花蕊。
+Zieh den stärksten Zombie in den Boden, aber verletze dabei nur Riesenzombies und mechanische Einheiten. Es werden keine Blütenstaubblätter verbraucht.
 
 [GRIMROSE_AVATAR_PLANTFOOD_DESCRIPTION]
-将最强壮的^ff0000^三只僵尸拖入地面中^oldclr^，但对巨型僵尸和机械单位每次只能造成伤害，不消耗花蕊。
+Zieht die drei stärksten Zombies zu Boden^oldclr^, fügt aber nur riesigen Zombies und mechanischen Einheiten Schaden zu und verbraucht keine Staubblätter.
 
 [WASABIWHIP_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在炙热山葵左右各两格范围内时，炙热山葵会挥舞头顶的火焰鞭，对单个僵尸造成火焰伤害。
+Wenn ein Zombie innerhalb von zwei Feldern links und rechts von Scorching Wasabi erscheint, schwingt Scorching Wasabi die Flammenpeitsche auf seinen Kopf und fügt einem einzelnen Zombie Feuerschaden zu.
 
 [WASABIWHIP_NEW_SKILL_LEVEL2_DES]
-炙热山葵的火焰鞭能使命中的僵尸进入持续5秒的^ef0123^灼烧Ⅰ^oldclr^状态，每秒造成30点伤害。
+Scorching Wasabis Flammenpeitsche kann den getroffenen Zombie in einen ^ef0123^brennenden Ⅰ^oldclr^-Zustand versetzen, der 5 Sekunden anhält und 30 Schaden pro Sekunde verursacht.
 
 [WASABIWHIP_NEW_SKILL_LEVEL3_DES]
-炙热燃烧技能造成的^ef0123^灼烧Ⅰ^oldclr^伤害提升100%，每秒造成60点伤害。
+Der Schaden von ^ef0123^burning Ⅰ^oldclr^ durch die Fertigkeit „Sengendes Brennen“ wird um 100 % erhöht und verursacht 60 Schaden pro Sekunde.
 
 [WASABIWHIP_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine geringe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [WASABIWHIP_NEW_SKILL_LEVEL5_DES]
-炙热山葵每10秒有20%的概率挥动火焰鞭，甩出一个向右直线飞行的火球，造成600伤害，如果是中小型僵尸则伤害大幅度提升。
+Alle 10 Sekunden hat „Sengendes Wasabi“ eine 20-prozentige Chance, eine Flammenpeitsche zu schwingen und einen Feuerball zu schleudern, der direkt nach rechts fliegt und 600 Schaden verursacht. Bei kleinen oder mittelgroßen Zombies ist der Schaden deutlich erhöht.
 
 [WASABIWHIP_PLANTFOOD_DESCRIPTION]
-炙热山葵会以自己为中心快速甩动火焰鞭，对周围3×3范围的僵尸连续造成多次火焰伤害。
+Der brennende Wasabi schwingt seine Flammenpeitsche schnell um sich selbst und fügt Zombies im Umkreis von 3×3 mehrfachen Feuerschaden zu.
 
 [WASABIWHIP_AVATAR_PLANTFOOD_DESCRIPTION]
-炙热山葵会以自己为中心快速甩动火焰鞭，对周围3×3范围的僵尸连续造成多次火焰伤害，^ff0000^并在最后额外捶地造成一次地震波，对周围3×3的僵尸造成伤害。^oldclr^
+Wasabi schwingt seine Flammenpeitsche schnell um sich selbst und fügt Zombies im Umkreis von 3×3 mehrfachen Feuerschaden zu. ^ff0000^ Am Ende schlägt er auf dem Boden auf und löst eine zusätzliche Erdbebenwelle aus, die Zombies im Umkreis von 3×3 Schaden zufügt. ^oldclr^
 
 [PARSNIP_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在防风草右侧两格时，防风草会用钳子对单格僵尸造成伤害。当防风草被啃食至丝血时，会发动冲锋，对右侧单行僵尸造成150点伤害。
+Wenn zwei Felder rechts von der Pastinake ein Zombie erscheint, fügt die Pastinake dem Zombie im einzelnen Feld mit ihrer Zange Schaden zu. Wenn die Pastinaken bis zum Lebenspunkt gefressen sind, stürmen sie los und verursachen den einreihigen Zombies rechts 150 Schaden.
 
 [PARSNIP_NEW_SKILL_LEVEL2_DES]
-攻击时有10%的概率将此次钳击升级为红色钳击，伤害翻倍。防风草的冲锋伤害提升至225。
+Beim Angriff besteht eine 10%ige Chance, diese Zange zu einer roten Zange aufzuwerten, wodurch sich der Schaden verdoppelt. Der Aufladeschaden der Pastinaken erhöht sich auf 225.
 
 [PARSNIP_NEW_SKILL_LEVEL3_DES]
-霸王钳的触发概率提升100%，攻击时有20%的概率将此次钳击升级为红色钳击，伤害翻倍。防风草的冲锋伤害提升至300。
+Die Auslösewahrscheinlichkeit der Tyrannenklaue erhöht sich um 100 %. Beim Angriff besteht eine 20%ige Chance, diesen Klauenangriff zu einer roten Klaue aufzuwerten, wodurch sich der Schaden verdoppelt. Der Aufladeschaden der Windpastinaken erhöht sich auf 300.
 
 [PARSNIP_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！防风草的巨神钳伤害提升至250，冲锋伤害提升至375。
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt auszulösen. Der Schaden der Riesenklaue des Windpastinaken wird auf 250 und der Angriffsschaden auf 375 erhöht.
 
 [PARSNIP_NEW_SKILL_LEVEL5_DES]
-防风草能发动神钳冲击，钳子会向右飞出对经过的僵尸造成450点伤害，并会返回再次造成伤害。防风草的巨神钳伤害提升至300，冲锋伤害提升至450。
+Der Windpastinaken kann einen Klauenangriff starten. Die Klauen fliegen nach rechts und fügen vorbeikommenden Zombies 450 Schaden zu. Anschließend kehren sie zurück und verursachen erneut Schaden. Der Schaden der Riesenklaue des Windpastinaken wird auf 300 und der Angriffsschaden auf 450 erhöht.
 
 [PARSNIP_PLANTFOOD_DESCRIPTION]
-防风草会缩入地面召唤2只小防风蟹，防风蟹会向右冲锋并连续对经过的僵尸造成钳击伤害。
+Das verdorrte Gras schrumpft im Boden und beschwört zwei kleine, verdorrte Krabben, die nach rechts stürmen und vorbeikommenden Zombies kontinuierlich mit ihren Zangen Schaden zufügen.
 
 [PARSNIP_AVATAR_PLANTFOOD_DESCRIPTION]
-防风草会缩入地面召唤2只小防风蟹，小防风草会向右冲锋并连续对经过的僵尸造成钳击伤害。^ff0000^并额外召唤1只冒着蒸气的红色防风蟹，造成更高伤害并使僵尸^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^1秒。^oldclr^
+Das verdorrte Gras schrumpft in den Boden und beschwört zwei kleine verdorrte Krabben, die nach rechts stürmen und vorbeikommenden Zombies kontinuierlich Zangenschaden zufügen. ^ff0000^ Außerdem beschwört es eine weitere rote verdorrte Krabbe mit Dampf, die höheren Schaden verursacht und Zombies ^oldclr^^848484^ für Ⅰ^oldclr^^ff0000^1 Sekunde betäubt. ^oldclr^
 
 [MISSILETOE_NEW_SKILL_LEVEL1_DES]
-手动指定攻击位置后，槲寄冰仙子会发射寒冰炮弹，对范围内的僵尸造成伤害，然后进入20秒的休息时间。
+Nach manueller Festlegung der Angriffsposition feuert die Mistel Eisgranaten ab, die Zombies in Reichweite Schaden zufügen. Anschließend ruht sie sich 20 Sekunden lang aus.
 
 [MISSILETOE_NEW_SKILL_LEVEL2_DES]
-槲寄冰仙子修习了寒冰能量的蓄能技巧，休息时间减少至19秒。
+Die Mistelzweig-Eisfee hat die Fähigkeit erlernt, Eisenergie zu sammeln. Die Ruhezeit wurde auf 19 Sekunden reduziert.
 
 [MISSILETOE_NEW_SKILL_LEVEL3_DES]
-冰源减蓄的技能效果提升100%，休息时间减少至18秒。
+Der Effekt der Eisenergiereduktion wurde um 100 % erhöht und die Ruhezeit auf 18 Sekunden reduziert.
 
 [MISSILETOE_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, Energiebohnen direkt freizusetzen!
 
 [MISSILETOE_NEW_SKILL_LEVEL5_DES]
-攻击时有80%的概率发射寒冰导弹，寒冰导弹会在落地时造成3×3范围的3000点伤害，并在5秒后引爆造成3×3范围的4500点伤害。
+Beim Angriff besteht eine 80-prozentige Wahrscheinlichkeit, Eisraketen abzufeuern. Diese verursachen bei der Landung 3000 Schaden in einem Umkreis von 3×3 und detonieren nach 5 Sekunden mit 4500 Schaden in einem Umkreis von 3×3.
 
 [MISSILETOE_PLANTFOOD_DESCRIPTION]
-槲寄冰仙子以僵尸所在格为目标，发射4个寒冰炮弹，并立刻完成一次寒冰炮弹的蓄能。
+Die Mistel-Eisfee visiert das Zombie-Gitter an, feuert vier Eisgranaten ab und vervollständigt sofort deren Ladung.
 
 [MISSILETOE_AVATAR_PLANTFOOD_DESCRIPTION]
-槲寄冰仙子以僵尸所在格为目标，^ff0000^发射4个伤害更高的寒冰陨石，寒冰陨石会留下持续7秒、使僵尸减速的冰坑，^oldclr^并立刻完成一次寒冰炮弹的蓄能。
+Die Mistel-Eisfee visiert das Zombie-Gitter an, ^ff0000^ feuert vier Eismeteoriten mit hohem Schaden ab, die eine Eisgrube hinterlassen, die 7 Sekunden lang anhält und die Zombies verlangsamt, ^oldclr^ und vervollständigt sofort die Ladung der Eisgranaten.
 
 [KIWIBEAST_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在攻击范围内时，会震地对单格范围的所有僵尸造成伤害。每累计受到一定伤害，会成长变大，扩大震地的攻击范围。成长时立即进行一次强化震地，击退僵尸1格。
+Wenn Zombies in Angriffsreichweite erscheinen, schlagen sie auf den Boden und fügen allen Zombies in einem Gitter Schaden zu. Jedes Mal, wenn sie eine bestimmte Menge Schaden erleiden, werden sie größer und erweitern so die Angriffsreichweite des Schlags. Wenn sie wachsen, führen sie sofort einen verstärkten Schlag aus, der Zombies um ein Gitter zurückwirft.
 
 [KIWIBEAST_NEW_SKILL_LEVEL2_DES]
-野兽猕猴桃生长能力得到了强化，能够用更少的阳光完成生长，种植阳光消耗降低至170。
+Die Wachstumskraft der Bestienkiwi wurde verbessert und sie kann mit weniger Sonnenlicht wachsen. Der Sonnenlichtverbrauch beim Pflanzen wurde auf 170 reduziert.
 
 [KIWIBEAST_NEW_SKILL_LEVEL3_DES]
-野蛮生长的技能效果提升100%，野兽猕猴桃的种植阳光消耗降低至160。
+Der Fertigkeitseffekt von Wildes Wachstum wurde um 100 % erhöht und der Sonnenlichtverbrauch der Bestienkiwi auf 160 reduziert.
 
 [KIWIBEAST_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Die Wahrscheinlichkeit, die Energiebohne beim Pflanzen direkt freizusetzen, ist gering!
 
 [KIWIBEAST_NEW_SKILL_LEVEL5_DES]
-当野兽猕猴桃处于最大形态时，攻击有15%的概率使范围内的所有地面僵尸震退1格
+Wenn Bestien-Kiwi seine größte Form erreicht hat, besteht eine 15%ige Chance, dass alle Bodenzombies in Reichweite beim Angriff ein Feld zurückgestoßen werden.
 
 [KIWIBEAST_PLANTFOOD_DESCRIPTION]
-野兽猕猴桃立即成长至最大形态并连续跳跃震地3次，对范围内的僵尸造成大量伤害。
+Bestien-Kiwi wächst sofort zu seiner größten Form heran und springt dreimal hintereinander, wobei er den Boden erschüttert. Dies fügt Zombies in Reichweite großen Schaden zu.
 
 [KIWIBEAST_AVATAR_PLANTFOOD_DESCRIPTION]
-野兽猕猴桃立即成长至最大形态并连续跳跃震地3次，^ff0000^对范围内的僵尸造成大量伤害并震浮空1次。^oldclr^
+Kiwi-Bestie wächst sofort zu ihrer größten Form heran und springt dreimal hintereinander. ^ff0000^ fügt Zombies in Reichweite schweren Schaden zu und verursacht einmal Schock. ^oldclr^
 
 [GOLDBLOOM_NEW_SKILL_LEVEL1_DES]
-黄金蓓蕾种植后立即生产375点阳光，首次种植时无冷却时间。
+Goldene Knospe erzeugt nach dem Pflanzen sofort 375 Sonnen. Keine Abklingzeit für das erste Pflanzen.
 
 [GOLDBLOOM_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze besitzt keine ultimative Energiebohnen-Attacke.
 
 [GOLDBLOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Energiebohne.
 
 [FLATTENEDSHROOM_NEW_SKILL_LEVEL1_DES]
-平顶菇可以种植在一个井洞上并暂时堵住蒸气的溢出。
+Der Tellerpilz kann auf einem Brunnen gepflanzt werden, um den Dampfaustritt vorübergehend zu blockieren.
 
 [FLATTENEDSHROOM_PLANTFOOD_DESCRIPTION]
-立即分裂出至多2个平顶菇并飞到空着的井盖上。
+Teilt sofort bis zu zwei Tellerpilze und fliegt zur leeren Brunnenabdeckung.
 
 [FLATTENEDSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-立即分裂出至多^ff0000^3个^oldclr^平顶菇并飞到空着的井盖上。
+Teilt sofort bis zu ^ff0000^3 ^oldclr^ Tellerpilze und fliegt zur leeren Brunnenabdeckung.
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在莲藕射手右侧时，会发射水箭对僵尸造成伤害。吸收蒸汽后，莲藕射手会发射毒箭，使僵尸^701edf^中毒Ⅰ^oldclr^每秒受到生命值1%的伤害，持续3秒。^ff0000^在蒸汽时代井洞旁边有奇效！^oldclr^
+Wenn ein Zombie rechts vom Lotuswurzel-Schießer erscheint, feuert er Wasserpfeile ab, um dem Zombie Schaden zuzufügen. Nachdem der Lotuswurzel-Schießer Dampf absorbiert hat, feuert er Giftpfeile ab, die Zombies vergiften^701edf^ und ihnen 3 Sekunden lang pro Sekunde 1 % ihrer Gesundheit als Schaden zufügen. ^ff0000^ Wirkt Wunder neben dem Brunnen im Dampfzeitalter! ^oldclr^
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL2_DES]
-莲藕射手攻击时有10%的概率连续发射4发水箭。
+Beim Angriff hat der Lotuswurzel-Schießer eine Chance von 10 %, vier Wasserpfeile hintereinander abzufeuern.
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL3_DES]
-多重水箭的技能触发概率提升100%，攻击时有20%的概率连续发射4发水箭。
+Die Wahrscheinlichkeit, dass mehrere Wasserpfeile die Fertigkeit auslösen, ist um 100 % erhöht, und es besteht eine Chance von 20 %, vier Wasserpfeile hintereinander abzufeuern.
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Move!
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL5_DES]
-攻击时有30%的概率发射持续5秒的水柱，水柱每秒对僵尸造成270点伤害并击退僵尸0.5格。
+Beim Angriff besteht eine 30%ige Chance, eine Wassersäule abzufeuern, die 5 Sekunden lang anhält. Die Wassersäule verursacht 270 Schaden an Zombies pro Sekunde und wirft sie 0,5 Felder zurück.
 
 [LOTUSSHOOTER_PLANTFOOD_DESCRIPTION]
-莲藕射手快速吸取水流后连续发射60发水箭，倾泻向右侧的僵尸。
+Der Lotuswurzel-Bogenschütze absorbiert den Wasserstrom schnell und feuert 60 Wasserpfeile hintereinander ab, die auf die Zombies rechts treffen.
 
 [LOTUSSHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-莲藕射手快速吸取水流后连续发射^ff0000^65发水箭和毒箭，毒箭会造成百分比伤害的^oldclr^^701edf^中毒Ⅰ^oldclr^^ff0000^。并追加一个高额伤害的毒水泡，在命中僵尸后爆炸造成单格溅射伤害。^oldclr^
+Der Lotuswurzel-Bogenschütze absorbiert den Wasserstrom schnell und feuert ^ff0000^65 Wasserpfeile und Giftpfeile hintereinander ab. Die Giftpfeile verursachen ^oldclr^^701edf^Vergiftung in Höhe von Ⅰ^oldclr^^ff0000^ Prozent Schaden. Und füge eine Giftblase mit hohem Schaden hinzu, die explodiert, wenn sie den Zombie trifft, und Flächenschaden auf einem einzelnen Gitter verursacht. ^oldclr^
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在芦藜药师右侧时，会投掷毒药对僵尸造成伤害，并附加减速与1层毒素，持续5秒。每层毒素造成每秒僵尸生命值1%的^701edf^中毒Ⅰ^oldclr^伤害，上限3层。
+Wenn ein Zombie rechts vom Verbena-Chemiker erscheint, wirft er Gift, um den Zombie zu verletzen, ihn zu verlangsamen und ihm 5 Sekunden lang eine Giftschicht zuzufügen. Jede Giftschicht verursacht ^701edf^poisonⅠ^oldclr^ Schaden in Höhe von 1 % der Gesundheit des Zombies pro Sekunde, bis zu 3 Schichten.
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL2_DES]
-毒药命中僵尸后，有20%的概率留下一滩持续7秒的毒液，对经过的僵尸施加1层毒素。
+Nachdem das Gift den Zombie getroffen hat, besteht eine 20%ige Chance, eine Giftpfütze zu hinterlassen, die 7 Sekunden lang bestehen bleibt und dem vorbeigehenden Zombie eine Giftschicht zufügt.
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL3_DES]
-毒药师的技能触发概率提升，有30%的概率留下一滩持续7秒的毒液，对经过的僵尸施加1层毒素。
+Die Chance, dass die Fähigkeit des Giftmischers ausgelöst wird, ist erhöht. Es besteht eine 30%ige Chance, eine Giftpfütze zu hinterlassen, die 7 Sekunden lang anhält und den vorbeigehenden Zombie mit einer Schicht Gift überzieht.
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL5_DES]
-攻击时有50%的概率投掷更大的药剂瓶，在命中僵尸后溅射开，对单格范围内的僵尸造成600点伤害，并对小范围的僵尸施加1层毒素。
+Beim Angriff besteht eine 50%ige Chance, eine größere Trankflasche zu werfen, die nach dem Auftreffen auf einen Zombie spritzt und Zombies im Umkreis eines Gitters 600 Schaden zufügt und Zombies im Umkreis eine Schicht Gift überzieht.
 
 [CONVALLARIACHEMIST_PLANTFOOD_DESCRIPTION]
-芦藜药师鼓起身体快速连续向全屏僵尸投掷5个毒药，对僵尸造成伤害并施加1层毒素。
+Die Lawine bläht ihren Körper auf und schleudert in schneller Folge fünf Gifte auf die Zombies, die den gesamten Bildschirm bedecken. Diese fügen ihnen Schaden zu und bedecken sie mit einer Giftschicht.
 
 [CONVALLARIACHEMIST_AVATAR_PLANTFOOD_DESCRIPTION]
-芦藜药师鼓起身体快速连续向全屏僵尸投掷5个更猛烈的毒药，^ff0000^造成小范围溅射伤害并对所有僵尸施加3层毒素。^oldclr^
+Die Lawine bläht ihren Körper auf und schleudert in schneller Folge fünf weitere starke Gifte auf die Zombies, die ^ff0000^ Flächenschaden auf kurze Distanz verursachen und alle Zombies mit drei Giftschichten bedecken. ^oldclr^
 
 [PASSIONFLOWER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在番莲工程师右侧三行时，会向僵尸发射出持续旋转的齿轮。齿轮在命中僵尸后停止移动，对小范围僵尸连续造成6次伤害。
+Wenn drei Reihen rechts vom Passionsblumen-Ingenieur ein Zombie erscheint, feuert dieser ein sich ständig drehendes Zahnrad auf den Zombie ab. Das Zahnrad stoppt nach dem Auftreffen und fügt Zombies in kurzer Entfernung sechs aufeinanderfolgende Schadenspunkte zu.
 
 [PASSIONFLOWER_NEW_SKILL_LEVEL2_DES]
-番莲工程师攻击时有10%的概率发射出快速旋转的齿轮，对命中的僵尸造成67.5的伤害与^848484^眩晕Ⅰ^oldclr^。
+Beim Angriff hat der Passionsblumen-Ingenieur eine Chance von 10 %, ein schnell rotierendes Zahnrad abzufeuern, das 67,5 Schaden verursacht und den getroffenen Zombie betäubt.
 
 [PASSIONFLOWER_NEW_SKILL_LEVEL3_DES]
-齿轮升级为附带减速效果。机械专家的技能触发概率提升至20%，伤害提升至90。
+Das Zahnrad wurde verbessert und verfügt nun über einen Verlangsamungseffekt. Die Chance, die Fertigkeit des Mechanikexperten auszulösen, steigt auf 20 %, und der Schaden auf 90.
 
 [PASSIONFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine geringe Chance, die Energiebohne direkt auszulösen!
 
 [PASSIONFLOWER_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率发射一个125伤害的齿轮组，在命中僵尸后会再次发射一个75伤害的小齿轮。
+Beim Angriff besteht eine Chance von 20 %, ein Zahnradset mit 125 Schaden abzufeuern. Nach einem Zombietreffer schleudert er ein weiteres kleines Zahnrad mit 75 Schadenspunkten.
 
 [PASSIONFLOWER_PLANTFOOD_DESCRIPTION]
-番莲工程师吐出一个超大齿轮，向右侧发射出去，在接触到僵尸后停止移动对3×3范围的僵尸持续造成伤害。
+Der Passionsblumen-Ingenieur spuckt ein supergroßes Zahnrad aus und schleudert es nach rechts. Sobald es einen Zombie berührt, bleibt es stehen und fügt Zombies im Umkreis von 3×3 kontinuierlich Schaden zu.
 
 [PASSIONFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-番莲工程师吐出一个^ff0000^超大钻石齿轮^oldclr^，向右侧发射出去，在接触到僵尸后停止移动对3×3范围的僵尸持续^ff0000^造成更高伤害。^oldclr^
+Der Passionsblumen-Ingenieur spuckt ein ^ff0000^supergroßes Diamantzahnrad^oldclr^ aus, das nach rechts geschleudert wird. Sobald es einen Zombie berührt, bleibt es stehen und fügt Zombies im Umkreis von 3×3 kontinuierlich höheren Schaden zu. ^oldclr^
 
 [VANILLA_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在吹风荚兰右侧时，会吹出气流对整行僵尸造成伤害。每5次攻击后，下一次攻击会吹出一个龙卷风，造成伤害180点伤害并^848484^眩晕Ⅰ^oldclr^小体型僵尸1秒。^ff0000^对绅士僵尸有奇效！^oldclr^
+Wenn ein Zombie rechts neben der Windkapsel erscheint, bläst er Luft, um die gesamte Zombiereihe zu beschädigen. Nach jeweils fünf Angriffen löst der nächste einen Tornado aus, der 180 Schaden verursacht und ^848484^ kleine Zombies 1 Sekunde lang betäubt. ^ff0000^ Das wirkt Wunder bei Gentleman-Zombies! ^oldclr^
 
 [VANILLA_NEW_SKILL_LEVEL2_DES]
-吹风荚兰攻击时有20%的概率发射空气炮，对僵尸造成100伤害并击退1格。
+Beim Angriff hat die Windverwehte Orchidee eine Chance von 20 %, eine Luftkanone abzufeuern, die Zombies 100 Schaden zufügt und sie 1 Feld zurückstößt.
 
 [VANILLA_NEW_SKILL_LEVEL3_DES]
-空气炮技能的触发概率提升200%，攻击时有40%的概率发射空气炮。
+Die Auslösewahrscheinlichkeit der Luftkanonen-Fähigkeit ist um 200 % erhöht, und es besteht eine Chance von 40 %, beim Angriff eine Luftkanone abzufeuern.
 
 [VANILLA_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt auszulösen (große Attacke)!
 
 [VANILLA_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率吹出3个龙卷风，造成180点伤害并眩晕小体型僵尸。
+Beim Angriff besteht eine 20%ige Chance, drei Tornados zu erzeugen, die 180 Schaden verursachen und kleine Zombies betäuben.
 
 [VANILLA_PLANTFOOD_DESCRIPTION]
-吹风荚兰吹出一个大龙卷风，造成伤害或直接吹飞小体型僵尸。吹飞5个僵尸后龙卷风消散。
+Der Podcast erzeugt einen großen Tornado, der Schaden verursacht oder kleine Zombies wegfegt. Nachdem 5 Zombies weggefegt wurden, löst sich der Tornado auf.
 
 [VANILLA_AVATAR_PLANTFOOD_DESCRIPTION]
-吹风荚兰吹出一个^ff0000^大寒冰龙卷风，使僵尸减速，造成更高伤害或直接吹飞小体型僵尸。^oldclr^吹飞5个僵尸后龙卷风消散。
+Der Podcast erzeugt einen ^ff0000^ großen Eistornado, der Zombies verlangsamt, mehr Schaden verursacht oder kleine Zombies wegfegt. ^oldclr^ Nachdem 5 Zombies weggefegt wurden, löst sich der Tornado auf.
 
 [MULBERRY_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie rechts von der Maulbeere, feuert dieser eine Granate ab, die den Zombie trifft und ihm in geringem Umkreis 500 Explosionsschaden zufügt.
@@ -71916,631 +71918,633 @@ Die elektrische Erbse schießt drei große Blitzbälle ab, die explodieren und s
 Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken nähern oder Eisboden durchqueren, werden sie beschädigt und verlangsamt.
 
 [ICYCURRANT_NEW_SKILL_LEVEL2_DES]
-寒冰醋栗对僵尸攻击时有10%的概率对僵尸造成75点伤害并^0072ff^冻结Ⅰ^oldclr^僵尸3秒。
+Wenn Eis-Johannisbeere einen Zombie angreift, besteht eine Chance von 10 %, dem Zombie 75 Schaden zuzufügen und ihn 3 Sekunden lang einzufrieren.
 
 [ICYCURRANT_NEW_SKILL_LEVEL3_DES]
-冰晶技能触发概率提升100%，有20%的概率对僵尸造成100点伤害并^0072ff^冻结Ⅰ^oldclr^僵尸3秒。
+Die Wahrscheinlichkeit, die Fertigkeit „Eiskristall“ auszulösen, erhöht sich um 100 %. Es besteht eine Chance von 20 %, dem Zombie 100 Schaden zuzufügen und ihn 3 Sekunden lang einzufrieren.
 
 [ICYCURRANT_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！冰冻伤害提升至125。
+Beim Einpflanzen besteht eine geringe Chance, die Energiebohne direkt freizusetzen. Frostschaden auf 125 erhöht.
 
 [ICYCURRANT_NEW_SKILL_LEVEL5_DES]
-寒冰醋栗生成的冰地得到极寒冻气的强化，会对僵尸造成135点伤害。冰冻伤害提升至125。
+Der von Eisjohannisbeeren erzeugte Eisboden wird durch die extrem kalte Luft verstärkt und verursacht 135 Schaden an Zombies. Frostschaden auf 125 erhöht.
 
 [ICYCURRANT_PLANTFOOD_DESCRIPTION]
-寒冰醋栗在身上凝结出冰山，进入无敌状态但无法攻击，持续10秒。
+Eisjohannisbeeren verdichten Eisberge auf ihrem Körper und werden dadurch 10 Sekunden lang unbesiegbar, können aber nicht angreifen.
 
 [ICYCURRANT_AVATAR_PLANTFOOD_DESCRIPTION]
-寒冰醋栗在身上凝结出冰山，进入无敌状态但无法攻击，持续10秒。^ff0000^持续时间结束后，冰山爆炸，对周围3×3的僵尸造成伤害。^oldclr^
+Eisjohannisbeeren verdichten Eisberge auf ihrem Körper und werden dadurch 10 Sekunden lang unbesiegbar, können aber nicht angreifen. ^ff0000^Nach Ablauf der Dauer explodiert der Eisberg und fügt Zombies im umliegenden 3×3-Bereich Schaden zu. ^oldclr^
 
 [HOTDATE_NEW_SKILL_LEVEL1_DES]
-热辣海枣会吸引右侧1×3范围的僵尸换行至右侧，死亡时秒杀啃食它的僵尸，并对整行造成无视防具的火焰伤害。
+Die Heiße Dattel lockt Zombies im 1×3-Bereich rechts an, um die Reihe nach rechts zu wechseln. Stirbt sie, tötet sie die Zombies, die sie fressen, sofort und verursacht Feuerschaden in der gesamten Reihe, der Rüstung ignoriert.
 
 [HOTDATE_NEW_SKILL_LEVEL2_DES]
-热辣海枣获得热辣能量的加成，生命值大幅提升。
+Die Heiße Dattel erhält den Bonus heißer Energie, was ihre Gesundheit deutlich erhöht.
 
 [HOTDATE_NEW_SKILL_LEVEL3_DES]
-热辣能量的技能效果提升100%，生命值再次大幅提升。
+Der Fertigkeitseffekt heißer Energie wird um 100 % erhöht, und die Gesundheit wird nochmals deutlich erhöht.
 
 [HOTDATE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, die Energiebohne direkt freizusetzen – ein großer Angriff!
 
 [HOTDATE_NEW_SKILL_LEVEL5_DES]
-热辣海枣爆炸后，地上留下持续5秒的火屑，对僵尸造成每秒300点伤害。
+Nach der Explosion des Hot Dates bleiben Funken auf dem Boden zurück, die 5 Sekunden lang anhalten und Zombies 300 Schaden pro Sekunde zufügen.
 
 [HOTDATE_PLANTFOOD_DESCRIPTION]
-热辣海枣开心地跳跃，吸引周围3×3的僵尸向它移动，持续6秒。
+Das Hot Date springt fröhlich und zieht die umstehenden 3×3 Zombies an, sich ihm zu nähern. Dieser Effekt hält 6 Sekunden an.
 
 [HOTDATE_AVATAR_PLANTFOOD_DESCRIPTION]
-热辣海枣开心地跳跃，吸引周围3×3的僵尸向它移动，持续6秒。^ff0000^结束后获得3秒的无敌护盾。^oldclr^
+Das Hot Date springt fröhlich und zieht die umstehenden 3×3 Zombies an, sich ihm zu nähern. Dieser Effekt hält 6 Sekunden an. ^ff0000^ Nach dem Ende erhältst du 3 Sekunden lang einen unbesiegbaren Schild. ^oldclr^
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在右侧1格外时切换红色攻击状态，会发射音符攻击对僵尸造成伤害。当僵尸出现在周围3×3以内时切换为黄色治疗状态，会奏响音乐为植物恢复100点生命值。
+Wenn ein Zombie 1 Feld weiter rechts erscheint, wechselt er in den roten Angriffszustand und feuert Musiknoten ab, um dem Zombie Schaden zuzufügen. Erscheint ein Zombie im Umkreis von 3×3 um den umgebenden Bereich, wechselt er in den gelben Heilungszustand und spielt Musik, um 100 Lebenspunkte der Pflanze wiederherzustellen.
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL2_DES]
-郁金香号手攻击时有10%的概率发射30点伤害的魅惑音波，使低于4阶的僵尸^ff4284^魅惑Ⅰ^oldclr^。
+Beim Angriff hat der Tulpentrompeter eine Chance von 10 %, eine 30-Punkte-Schallwelle abzufeuern, die Zombies unter Level 4 zu ^ff4284^Charm I^oldclr^ macht.
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL3_DES]
-弥漫之音技能的触发概率提升100%，攻击时有20%的概率发射魅惑音波，使低于5阶的僵尸^ff4284^魅惑Ⅰ^oldclr^。
+Die Auslösewahrscheinlichkeit der Fertigkeit „Diffuses Geräusch“ erhöht sich um 100 %, und es besteht eine Chance von 20 %, beim Angriff eine Schallwelle abzufeuern, die Zombies unter Level 5 zu ^ff4284^Charm I^oldclr^ macht.
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率连续发射3个60点伤害的红色音波，并对小范围内僵尸造成300点伤害。
+Beim Angriff besteht eine 20%ige Chance, kontinuierlich drei rote Schallwellen mit 60 Schadenspunkten auszulösen und Zombies in geringem Umkreis 300 Schadenspunkte zuzufügen.
 
 [TULIPTRUMPETER_PLANTFOOD_DESCRIPTION]
-郁金香号手吹响音乐号角，对周围3×3的僵尸造成伤害，并恢复所有植物100点生命值。
+Der Tulpen-Trompeter bläst das Musikhorn, fügt den umliegenden 3×3 Zombies Schaden zu und regeneriert 100 Lebenspunkte aller Pflanzen.
 
 [TULIPTRUMPETER_AVATAR_PLANTFOOD_DESCRIPTION]
-郁金香号手吹响音乐号角，对周围3×3的僵尸^ff0000^造成更高的伤害，并恢复所有植物240点生命值。^oldclr^
+Der Tulpen-Trompeter bläst in das Musikhorn und verursacht so hohen Schaden an den umstehenden 3×3 Zombies^ff0000^ und regeneriert 240 Lebenspunkte aller Pflanzen. ^oldclr^
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在右侧三行时，会向右发射飞镖，并返回茄子忍者，飞镖高速旋转对经过的所有僵尸持续造成伤害。攻击次数够会发射3倍伤害的大飞镖。
+Wenn ein Zombie in der dritten Reihe rechts erscheint, feuert er einen Pfeil nach rechts ab und kehrt zum Auberginen-Ninja zurück. Der Pfeil rotiert mit hoher Geschwindigkeit und fügt allen vorbeikommenden Zombies kontinuierlich Schaden zu. Bei ausreichend vielen Angriffen feuert er einen großen Pfeil mit dreifachem Schaden ab.
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL2_DES]
-茄子忍者攻击时有10%的概率发射67.5点伤害的爆炸飞镖，命中僵尸后爆炸对单格造成270点伤害。
+Wenn der Auberginen-Ninja angreift, besteht eine 10%ige Chance, einen explosiven Pfeil mit 67,5 Schaden abzufeuern. Nach einem Zombietreffer explodiert dieser und verursacht 270 Schaden an einem einzelnen Gitter.
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL3_DES]
-爆破飞镖技能的触发概率提升100%，攻击时有20%的概率发射90点伤害的爆炸飞镖，对单格造成360点伤害。
+Die Auslösewahrscheinlichkeit der Fähigkeit „Explosionspfeil“ erhöht sich um 100 %. Beim Angriff besteht eine 20-prozentige Chance, einen Explosivpfeil mit 90 Schaden abzufeuern, der 360 Schaden an einem einzelnen Gitter verursacht.
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL5_DES]
-攻击时有30%概率释放540点伤害的旋风手里剑，会形成龙卷风卷飞小型僵尸。
+Beim Angriff besteht eine 30-prozentige Chance, einen Wirbelwind-Shuriken mit 540 Schaden abzufeuern, der einen Tornado bildet und kleine Zombies mitreißt.
 
 [EGGPLANTNINJA_PLANTFOOD_DESCRIPTION]
-茄子忍者使用飞镖分身，立即向右侧弧形范围内发射5个飞镖，并返回茄子忍者，对经过的所有僵尸造成伤害。
+Der Auberginen-Ninja benutzt den Pfeilklon, feuert sofort fünf Pfeile in einem Bogen nach rechts ab und kehrt zu ihm zurück, wodurch alle vorbeikommenden Zombies Schaden erleiden.
 
 [EGGPLANTNINJA_AVATAR_PLANTFOOD_DESCRIPTION]
-茄子忍者使用飞镖分身，立即向右侧弧形范围内发射5个^ff0000^附带闪电的黄金飞镖^oldclr^，并返回茄子忍者，对经过的所有僵尸造成伤害并^848484^眩晕Ⅰ^oldclr^僵尸1秒。
+Der Auberginen-Ninja benutzt den Pfeilklon, um sofort fünf ^ff0000^goldene Blitzpfeile^oldclr^ in einem Bogen nach rechts abzufeuern und kehrt dann zu ihm zurück, wodurch alle vorbeikommenden Zombies Schaden erleiden und ^848484^die Zombies 1 Sekunde lang betäubt werden.
 
 [PLANTAIN_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在芭蕉舞蹈家右侧时，扇出一道旋风，对僵尸造成伤害。有30%的概率扇出一道强力旋风，将所有不高于自身2阶的僵尸击退至底线并造成少量伤害。
+Wenn Zombies rechts vom Bananentänzer erscheinen, wird ein Wirbelwind ausgestoßen, der den Zombies Schaden zufügt. Es besteht eine 30%ige Chance, einen starken Wirbelwind auszulösen, der alle Zombies, die nicht höher als zwei Level sind, auf die unterste Ebene zurückwirft und geringen Schaden verursacht.
 
 [PLANTAIN_NEW_SKILL_LEVEL2_DES]
-芭蕉舞蹈家习得舞力恢复，减少1秒攻击休息时间。
+Bananentänzer erlernt Tanzkraft-Regeneration, wodurch die Angriffsruhezeit um 1 Sekunde verkürzt wird.
 
 [PLANTAIN_NEW_SKILL_LEVEL3_DES]
-舞力恢复的技能效果提升100%，再次减少1秒攻击休息时间。
+Der Effekt der Tanzkraft-Regeneration wird um 100 % erhöht und die Angriffsruhezeit erneut um 1 Sekunde verkürzt.
 
 [PLANTAIN_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt mit einem großen Move auszulösen!
 
 [PLANTAIN_NEW_SKILL_LEVEL5_DES]
-攻击时有40%的概率扇出一道混乱旋风，^ff4284^魅惑Ⅰ^oldclr^不高于自身阶数的小体型僵尸。
+Beim Angriff besteht eine 40-prozentige Chance, einen chaotischen Wirbelwind zu erzeugen, der ^ff4284^ Zauber I^oldclr^ kleine Zombies nicht höher als sein eigenes Level bezaubert.
 
 [PLANTAIN_PLANTFOOD_DESCRIPTION]
-芭蕉舞蹈家大力挥舞扇子，扇出一道大旋风，命中后停止行动并吸引周围3×3的小型僵尸并造成伤害，持续5秒。
+Der Bananentänzer schwingt den Fächer heftig und erzeugt einen großen Wirbelwind. Nach dem Auftreffen bleibt er stehen, zieht 3×3 kleine Zombies an und verursacht 5 Sekunden lang Schaden.
 
 [PLANTAIN_AVATAR_PLANTFOOD_DESCRIPTION]
-芭蕉舞蹈家大力挥舞扇子，扇出一道大旋风和^ff0000^2个环绕的小旋风^oldclr^，命中后停止行动并吸引周围3×3的小型僵尸并造成^ff0000^更高伤害^oldclr^，持续5秒。
+Der Bananentänzer schwingt seinen Fächer kräftig und erzeugt einen großen Wirbelwind und ^ff0000^2 umgebende kleine Wirbelwinde^oldclr^. Nach dem Treffer stoppt er und zieht 3×3 kleine Zombies um sich herum an, die 5 Sekunden lang ^ff0000^höheren Schaden^oldclr^ verursachen.
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在水仙花射手右侧4格内时，会吐出泡沫对全部僵尸造成伤害。^ff0000^对僵尸的防具有奇效！^oldclr^
+Wenn Zombies innerhalb von 4 Feldern rechts vom Narziss-Schützen erscheinen, spucken sie Schaum aus, der allen Zombies Schaden zufügt. ^ff0000^Das hat eine wundersame Wirkung auf die Verteidigung gegen Zombies! ^oldclr^
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL2_DES]
-水仙花射手攻击时有10%的概率连续喷射2次泡沫。
+Wenn der Narziss-Schütze angreift, besteht eine Chance von 10 %, dass er zweimal hintereinander Schaum versprüht.
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL3_DES]
-泡沫连发的技能触发概率提升100%，攻击时有20%的概率连续喷射2次泡沫。
+Die Wahrscheinlichkeit, dass die Fähigkeit „Blasen-Dauerschuss“ ausgelöst wird, erhöht sich um 100 %, und es besteht eine Chance von 20 %, dass beim Angriff zweimal hintereinander Blasen versprüht werden.
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine geringe Chance, die Energiebohne direkt auszulösen – ein großer Angriff!
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL5_DES]
-攻击时有40%的概率喷出穿透整行的水柱，持续5秒，对所有僵尸造成总计4500点伤害并^848484^眩晕Ⅰ^oldclr^。
+Beim Angriff besteht eine 40%ige Chance, eine Wassersäule zu versprühen, die die gesamte Reihe durchdringt und 5 Sekunden lang anhält. Sie verursacht insgesamt 4500 Schaden an allen Zombies und ^848484^BetäubungⅠ^oldclr^.
 
 [NARCISSUSSHOOTER_PLANTFOOD_DESCRIPTION]
-水仙花射手积蓄大量泡沫向右侧扇形区域喷出，对僵尸造成伤害。
+Der Narzissen-Shooter sammelt eine große Menge Blasen und sprüht sie in den fächerförmigen Bereich rechts, wodurch Zombies Schaden zugefügt wird.
 
 [NARCISSUSSHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-水仙花射手积蓄大量^ff0000^彩色泡沫^oldclr^向右侧扇形区域喷出，对僵尸造成伤害并^ff0000^击退中小型僵尸2格。^oldclr^
+Der Narzissen-Shooter sammelt eine große Menge ^ff0000^ farbiger Blasen^oldclr^ und sprüht sie in den rechten fächerförmigen Bereich. Dadurch werden Zombies Schaden zugefügt und kleine und mittlere Zombies ^ff0000^ um 2 Felder zurückgestoßen. ^oldclr^
 
 [PINECONE_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在双枪松果右侧时，会发射松子子弹对僵尸造成伤害。如果攻击范围内有僵尸死亡，则会立刻发射100点伤害的子弹。
+Wenn ein Zombie rechts neben dem Tannenzapfen mit Doppelkanone erscheint, feuert er Pinienkerne ab, um dem Zombie Schaden zuzufügen. Stirbt ein Zombie innerhalb der Angriffsreichweite, feuert er sofort eine Kugel mit 100 Schadenspunkten ab.
 
 [PINECONE_NEW_SKILL_LEVEL2_DES]
-双枪松果攻击时有10%概率左右双枪依次各发射一发松子子弹。
+Beim Angriff des Tannenzapfens mit Doppelkanone besteht eine 10%ige Chance, dass die linke und rechte Kanone nacheinander jeweils eine Pinienkerne abfeuern.
 
 [PINECONE_NEW_SKILL_LEVEL3_DES]
-双发枪的技能触发概率提升100%，攻击时有20%概率左右双枪依次各发射一发松子子弹。
+Die Wahrscheinlichkeit, dass die Doppelkanone die Fertigkeit auslöst, ist um 100 % erhöht, und es besteht eine 20%ige Chance, dass die linke und rechte Kanone beim Angriff nacheinander jeweils eine Pinienkerne abfeuern.
 
 [PINECONE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt abzufeuern!
 
 [PINECONE_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率发射1发爆炸松子，对僵尸造成1110点伤害并对小范围僵尸造成溅射伤害，可以击飞命中的小体型僵尸。
+Beim Angriff besteht eine 20%ige Chance, einen explosiven Kiefernzapfen abzufeuern. Dieser verursacht 1110 Schaden an Zombies und verursacht Flächenschaden in geringer Reichweite. Getroffene kleine Zombies können dadurch weggeschleudert werden.
 
 [PINECONE_PLANTFOOD_DESCRIPTION]
-双枪松果进入神射手模式，连续发射6发能够追踪僵尸的火焰松果，并对小范围造成溅射伤害。
+Der Doppelkanonenzapfen wechselt in den Scharfschützenmodus und feuert kontinuierlich sechs Feuerkiefernzapfen ab, die Zombies verfolgen und Flächenschaden in geringer Reichweite verursachen können.
 
 [PINECONE_AVATAR_PLANTFOOD_DESCRIPTION]
-双枪松果进入神射手模式，^ff0000^连续发射7发能够追踪僵尸的、伤害更高的紫火松果^oldclr^，并对小范围造成溅射伤害。
+Doppelkanonenzapfen wechselt in den Scharfschützenmodus und feuert kontinuierlich sieben lila Feuer-Kiefernzapfen ab, die Zombies verfolgen und hohen Schaden verursachen können. ^oldclr^ und Flächenschaden in geringer Reichweite verursachen.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL1_DES]
-冬青骑士可以指定位置发射小冬青，小冬青落地时对小范围造成伤害并击退小体型僵尸，至多发射3个。冬青骑士和小冬青会对左右各一格的僵尸造成伤害。
+Holly Knight kann Holly Knives an einer bestimmten Stelle abfeuern. Wenn die Holly Knives landen, verursachen sie Schaden in einem kleinen Bereich und stoßen kleine Zombies ab. Maximal drei Holly Knives können abgefeuert werden. Holly Knight und Holly Knives verursachen Schaden an Zombies im Umkreis von einem Feld links und rechts.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL2_DES]
-冬青骑士的攻击范围扩大，可以同时攻击左右上下各一格的所有僵尸。
+Holly Knights Angriffsreichweite wird erweitert, und er kann alle Zombies im Umkreis von einem Feld links, rechts, oben und unten gleichzeitig angreifen.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL3_DES]
-小冬青的击退效果增强，可以击退小体型僵尸3格。
+Der Abwehreffekt von Stechpalmenmessern wurde verstärkt und kann kleine Zombies drei Felder weit zurückstoßen.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen!
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL5_DES]
-冬青骑士抛出的小冬青体型增大，生命值提升至3200，攻击力提升至与冬青骑士一致。
+Die Stechpalmenpflanzen des Stechpalmenritters werden vergrößert, ihre Lebenspunkte auf 3200 erhöht und ihre Angriffskraft auf die des Stechpalmenritters erhöht.
 
 [HOLLYKNIGHT_PLANTFOOD_DESCRIPTION]
-冬青骑士立即向全屏随机位置发射小冬青，并将可发射的小冬青数量重置为3个。
+Der Stechpalmenritter wirft sofort Stechpalmenpflanzen an zufällige Positionen auf dem Bildschirm und setzt die Anzahl der Stechpalmen, die abgefeuert werden können, auf 3 zurück.
 
 [HOLLYKNIGHT_AVATAR_PLANTFOOD_DESCRIPTION]
-冬青骑士立即向全屏随机位置发射^ff0000^带电小冬青，攻击的同时可以使僵尸^oldclr^^ff9600^麻痹Ⅰ^oldclr^^ff0000^，^oldclr^并将可发射的小冬青数量重置为3个。
+Der Stechpalmenritter wirft sofort ^ff0000^ aufgeladene Stechpalmenpflanzen an zufällige Positionen auf dem Bildschirm, die Zombies lähmen können ^oldclr^^ff9600^ Ⅰ^oldclr^^ff000^ und setzt die Anzahl der Stechpalmen, die abgefeuert werden können, auf 3 zurück.
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL1_DES]
-2个同列的警爆磁菇之间会拉起警戒线。种植后需要2秒时间苏醒，苏醒后当僵尸出现在左右各一格内或接触警戒线时，会飞出并爆炸对小范围僵尸造成伤害。^ff0000^机械单位有奇效！^oldclr^
+Zwischen zwei Alarm-Explosionspilzen in derselben Reihe wird eine Absperrung gezogen. Nach dem Pflanzen dauert es 2 Sekunden, bis sie wieder erwachen. Nach dem Aufwachen, wenn Zombies links und rechts in einem Feld erscheinen oder die Absperrung berühren, fliegen sie heraus und explodieren, wodurch Zombies in geringem Umkreis Schaden zugefügt wird. ^ff0000^ Mechanische Einheiten haben eine wundersame Wirkung! ^oldclr^
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL2_DES]
-强化对机械单位的干扰效果，可以让3×3范围的机械单位瘫痪8秒。
+Verstärkt den Interferenzeffekt auf mechanische Einheiten, der mechanische Einheiten in einem Umkreis von 3×3 8 Sekunden lang lähmen kann.
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL3_DES]
-警爆磁菇习得能量过载，爆炸伤害大幅提升。
+Alarm-Explosions-Magnetpilz erlernt Energieüberladung, wodurch der Explosionsschaden deutlich erhöht wird.
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Move!
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL5_DES]
-爆炸之后会额外产生电弧，电弧在僵尸之间流窜，造成伤害并将僵尸^ff9600^麻痹Ⅰ^oldclr^1秒。
+Nach der Explosion entsteht ein zusätzlicher Lichtbogen, der zwischen Zombies hin- und herfliegt, ihnen Schaden zufügt und sie 1 Sekunde lang lähmt.
 
 [ALARMSAGITTIFOLIA_PLANTFOOD_DESCRIPTION]
-警爆磁菇拉起警报，召唤从天而降的电磁炮，对周围2格范围内的僵尸造成伤害并^ff9600^麻痹Ⅰ^oldclr^僵尸2秒。
+Der Alarm wird durch den Magnetpilz ausgelöst, der eine elektromagnetische Kanone vom Himmel beschwört, die Zombies im Umkreis von zwei Feldern Schaden zufügt und sie 2 Sekunden lang lähmt.
 
 [ALARMSAGITTIFOLIA_AVATAR_PLANTFOOD_DESCRIPTION]
-警爆磁菇拉起警报，召唤从天而降的电磁炮，对周围2格范围内的僵尸造成伤害并^ff9600^麻痹Ⅰ^oldclr^僵尸2秒，^ff0000^并留下3×3范围的电场，持续2秒。^oldclr^
+Der Alarm wird durch den Magnetpilz ausgelöst, der eine elektromagnetische Kanone vom Himmel beschwört, die Zombies im Umkreis von zwei Feldern Schaden zufügt und sie 2 Sekunden lang lähmt. Ein 3×3 großes elektrisches Feld bleibt 2 Sekunden lang zurück. ^oldclr^
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-普通状态下会发射暗影弹，对单个僵尸造成伤害，暗影状态下则能发射暗影光束，对整行僵尸造成伤害并施加减速。当有僵尸接近时，会将此僵尸拖入地下随后消失，暗影状态下可以拖走至多3个僵尸。
+Im Normalzustand feuert es Schattengeschosse ab, um einen einzelnen Zombie zu verletzen. Im Schattenzustand kann es Schattenstrahlen abfeuern, um die gesamte Zombiereihe zu beschädigen und sie zu verlangsamen. Nähert sich ein Zombie, wird er unter die Erde gezogen und verschwindet anschließend. Im Schattenzustand können bis zu drei Zombies mitgerissen werden.
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-暗影豌豆攻击时有10%的概率发射180点伤害的影流弹或315点伤害的影流光束。
+Wenn Shadow Pea angreift, besteht eine Chance von 10 %, ein Schattengeschoss mit 180 Schaden oder einen Schattenstrahl mit 315 Schaden abzufeuern.
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-暗影豌豆攻击时有20%的概率发射240点伤害的影流弹或420点伤害的影流光束。
+Wenn Shadow Pea angreift, besteht eine Chance von 20 %, ein Schattengeschoss mit 240 Schaden oder einen Schattenstrahl mit 420 Schaden abzufeuern.
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-普通状态下，有80%发射出暗影光束。暗影状态下，有30%的概率使第一个被击杀的僵尸化作黑洞，造成伤害或是吞噬经过的中小型僵尸，持续4秒。
+Im Normalzustand besteht eine 80%ige Chance, einen Schattenstrahl auszusenden. Im Schattenzustand besteht eine 30%ige Chance, den ersten getöteten Zombie in ein schwarzes Loch zu verwandeln, das vorbeikommenden kleinen und mittleren Zombies Schaden zufügt oder sie verschluckt. Dieser Effekt hält 4 Sekunden lang an.
 
 [SHADOWPEASHOOTER_PLANTFOOD_DESCRIPTION]
-暗影豌豆凝聚出3个鬼影球，对3×3范围的僵尸造成伤害。随场上月光花数量增多，攻击范围也将扩大，最大扩大至全屏。
+Die Schattenerbse kondensiert 3 Geisterbälle und fügt Zombies im Umkreis von 3×3 Schaden zu. Mit zunehmender Anzahl der Mondblumen auf dem Feld erweitert sich auch die Angriffsreichweite bis hin zum Vollbild.
 
 [SHADOWPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-暗影豌豆凝聚出^ff0000^4个鬼影球^oldclr^，对3×3范围的僵尸造成伤害。随场上月光花数量增多，攻击范围也将扩大，最大扩大至全屏。
+Die Schattenerbse kondensiert ^ff0000^4 Geisterbälle^oldclr^ und fügt Zombies im Umkreis von 3×3 Schaden zu. Mit zunehmender Anzahl der Mondblumen auf dem Feld erweitert sich auch die Angriffsreichweite bis hin zum Vollbild.
 
 [SNAPPEA_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在食人花豌豆右侧时，会潜入地面在此僵尸脚底出现并吞噬此僵尸，随后进入消化状态。如果是不可吞噬僵尸，则会在出现后发射3发豌豆子弹。
+Wenn ein Zombie rechts neben der Piranha-Pflanzenerbse erscheint, taucht er in den Boden ein, erscheint unter den Füßen des Zombies und verschlingt ihn. Anschließend beginnt er zu verdauen. Handelt es sich um einen nicht verschlingbaren Zombie, feuert er nach seinem Erscheinen drei Erbsenkugeln ab.
 
 [SNAPPEA_NEW_SKILL_LEVEL2_DES]
-食人花豌豆加快消化的时间，休息时间缩短至9秒。
+Die Piranha-Pflanzenerbse beschleunigt die Verdauungszeit und verkürzt die Ruhezeit auf 9 Sekunden.
 
 [SNAPPEA_NEW_SKILL_LEVEL3_DES]
-快速消化的技能效果提升100%，休息时间缩短至8秒。
+Der Fertigkeitseffekt der schnellen Verdauung wird um 100 % erhöht und die Ruhezeit auf 8 Sekunden verkürzt.
 
 [SNAPPEA_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Chance, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [SNAPPEA_NEW_SKILL_LEVEL5_DES]
-攻击时有50%的概率对目标前后方一格内至多两只僵尸吞噬或发射子弹。
+Beim Angriff besteht eine 50-prozentige Chance, bis zu zwei Zombies in einem Raster vor und hinter dem Ziel zu verschlingen oder mit Kugeln zu beschießen.
 
 [SNAPPEA_PLANTFOOD_DESCRIPTION]
-食人花豌豆缩入地底，立即吞噬本行至多5个僵尸，并吐出1个僵尸脑袋。
+Die Piranha-Pflanzenerbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in derselben Reihe und spuckt einen Zombiekopf aus.
 
 [SNAPPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-食人花豌豆缩入地底，立即吞噬本行至多5个僵尸，^ff0000^并吐出全部僵尸脑袋。^oldclr^
+Die Piranha-Pflanze Erbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in derselben Reihe, ^ff0000^ und spuckt alle Zombieköpfe aus. ^oldclr^
 
 [MONOTROPA_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在水晶兰右侧3格时，会释放冰风，对范围内僵尸造成伤害，并使第一个小型僵尸变为无法行动的雪人5秒。
+Wenn ein Zombie drei Felder rechts von der Kristallorchidee erscheint, entfesselt er Eiswind, der Zombies in der Nähe Schaden zufügt und den ersten kleinen Zombie für 5 Sekunden in einen handlungsunfähigen Schneemann verwandelt.
 
 [MONOTROPA_NEW_SKILL_LEVEL2_DES]
-水晶兰使用冰雪的能力加强了，使冰风的攻击距离增加2格。
+Die Fähigkeit der Kristallorchidee, Eis und Schnee zu nutzen, wurde verbessert. Die Angriffsreichweite von Eiswind wurde um zwei Felder erhöht.
 
 [MONOTROPA_NEW_SKILL_LEVEL3_DES]
-水晶兰对冰雪掌控得到了进一步提升，雪人持续时间延长50%。
+Die Kontrolle der Kristallorchidee über Eis und Schnee wurde weiter verbessert und die Dauer des Schneemanns um 50 % verlängert.
 
 [MONOTROPA_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [MONOTROPA_NEW_SKILL_LEVEL5_DES]
-僵尸从雪人状态恢复时，身上会残留冰冻效果，进入持续2秒的减速状态。
+Wenn sich ein Zombie vom Schneemann-Zustand erholt, bleibt der Gefriereffekt bestehen und er verfällt in einen 2 Sekunden anhaltenden Verlangsamungszustand.
 
 [MONOTROPA_PLANTFOOD_DESCRIPTION]
-水晶兰释放出大量冰风使全屏降雪，对僵尸造成伤害并使每格至多1个僵尸变为雪人。
+Die Kristallorchidee setzt eine große Menge eisigen Windes frei, der Schnee auf den gesamten Bildschirm fallen lässt, Zombies verletzt und bis zu 1 Zombie pro Raster in einen Schneemann verwandelt.
 
 [MONOTROPA_AVATAR_PLANTFOOD_DESCRIPTION]
-水晶兰释放出大量冰风使全屏降雪，对僵尸造成伤害并使每格至多1个僵尸变为雪人，^ff0000^有概率使僵尸^oldclr^^0072ff^冻结Ⅰ^oldclr^^ff0000^2秒。^oldclr^
+Die Kristallorchidee setzt eine große Menge eisigen Windes frei, der Schnee auf den gesamten Bildschirm fallen lässt, Zombies Schaden zufügt und bis zu 1 Zombie pro Raster in einen Schneemann verwandelt. ^ff0000^ Mit der Chance, Zombies ^oldclr^^0072ff^ für Ⅰ^oldclr^^ff0000^2 Sekunden einzufrieren. ^oldclr^
 
 [SLINGPEA_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在攻击范围内时，会同时发射5颗豌豆炮弹，对僵尸造成伤害后对小范围僵尸造成25%溅射伤害。
+Wenn Zombies in Angriffsreichweite erscheinen, werden gleichzeitig fünf Erbsengranaten abgefeuert, die Zombies Schaden zufügen und Zombies in einem kleinen Umkreis 25 % Flächenschaden zufügen.
 
 [SLINGPEA_NEW_SKILL_LEVEL2_DES]
-有50%的概率发射150点伤害的弹力豌豆，在命中僵尸后会有弹射效果，最多弹射2个僵尸，每次弹射后弹力豌豆的伤害会衰弱。
+Es besteht eine 50%ige Chance, eine Hüpferbse mit 150 Schaden abzufeuern. Nach einem Zombie-Treffer tritt ein Abpralleffekt auf. Bis zu zwei Zombies können abprallen. Der Schaden der Hüpferbse verringert sich nach jedem Abprall.
 
 [SLINGPEA_NEW_SKILL_LEVEL3_DES]
-弹力豌豆的触发概率提升至100%，并且伤害提升至200点。
+Die Auslösewahrscheinlichkeit der Hüpferbse erhöht sich auf 100 %, der Schaden auf 200 Punkte.
 
 [SLINGPEA_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [SLINGPEA_NEW_SKILL_LEVEL5_DES]
-攻击时有50%的概率发射对单格僵尸造成1500点伤害的炸弹豌豆。
+Beim Angriff besteht eine 50%ige Chance, eine Bombenerbse abzufeuern, die einem einzelnen Zombie 1500 Schaden zufügt.
 
 [SLINGPEA_PLANTFOOD_DESCRIPTION]
-豌豆迫击炮连续齐射3轮火焰豌豆炮弹，对僵尸造成伤害。
+Der Erbsenmörser feuert drei Salven Flammenerbsengranaten hintereinander ab und fügt Zombies Schaden zu.
 
 [SLINGPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-豌豆迫击炮连续齐射3轮火焰豌豆炮弹，对僵尸造成伤害。^ff0000^每一轮有50%的几率变成蓝火豌豆炮弹，伤害翻倍。^oldclr^
+Der Erbsenmörser feuert drei Salven brennender Erbsengranaten hintereinander ab und fügt Zombies Schaden zu. ^ff0000^ Jede Salve hat eine 50%ige Chance, in eine blaue brennende Erbsengranatengranat zu verwandeln, was den Schaden verdoppelt. ^oldclr^
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在雷龙草右侧2×3范围时，会吐出雷电球，在命中僵尸后对2×3范围的僵尸造成100点扩散。有50%的概率使命中的僵尸^ff9600^麻痹Ⅰ^oldclr^1秒。
+Wenn ein Zombie im 2×3-Bereich rechts vom Donnerdrachengras erscheint, spuckt er einen Blitzball aus, der den Zombies im 2×3-Bereich nach dem Treffer 100 Punkte Streuung zufügt. Es besteht eine 50%ige Chance, den Zombie^ff9600^ für 1^oldclr^1 Sekunde zu lähmen.
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL2_DES]
-攻击时有20%概率喷出大雷电球，造成705点伤害和300点扩散伤害，并且必定使僵尸^ff9600^麻痹Ⅰ^oldclr^1秒
+Beim Angriff besteht eine 20%ige Chance, einen großen Blitzball abzufeuern, der 705 Schaden und 300 Streuschaden verursacht und die Zombies definitiv lähmt^ff9600^Ⅰ^oldclr^1 Sekunde.
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL3_DES]
-大雷电球的发射概率提升至40%，造成940点伤害和400点扩散伤害。
+Die Wahrscheinlichkeit, einen großen Blitzball abzufeuern, erhöht sich auf 40 % und verursacht 940 Schaden und 400 Streuschaden.
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen – ein großer Move!
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率召唤1个雷龙幻影，雷龙幻影向右飞出对本行僵尸发射雷电，造成2500点伤害并且^ff9600^麻痹Ⅰ^oldclr^1秒。
+Beim Angriff besteht eine 20%ige Chance, ein Donnerdrachen-Phantom zu beschwören. Das Donnerdrachen-Phantom fliegt nach rechts und schleudert Blitze auf die Zombies in derselben Reihe, die 2500 Schaden und ^ff9600^ LähmungⅠ^oldclr^ für 1 Sekunde verursachen.
 
 [THUNDERSNAPDRAGON_PLANTFOOD_DESCRIPTION]
-雷龙草飞空后向右侧1格的地面1枚吐出电球，电球落地后向周围1格扩散，对僵尸造成伤害与^ff9600^麻痹Ⅰ^oldclr^，持续3秒。
+Nachdem das Donnerdrachengras in die Luft geflogen ist, spuckt es einen elektrischen Ball ein Feld rechts auf den Boden. Nach der Landung breitet sich der elektrische Ball im umliegenden Feld aus und verursacht Schaden und ^ff9600^ LähmungⅠ^oldclr^ bei den Zombies, die 3 Sekunden anhält.
 
 [THUNDERSNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
-雷龙草飞空后向右侧1格的地面^ff0000^吐出2枚电球^oldclr^，电球落地后向周围1格扩散，对僵尸造成伤害与^ff9600^麻痹Ⅰ^oldclr^，持续3秒。
+Nach dem Abheben spuckt das Donnerdrachengras zwei elektrische Bälle^oldclr^ auf den Boden, ein Feld rechts. Nach der Landung breiten sich die elektrischen Bälle im umliegenden Feld aus und verursachen Schaden und^ff9600^LähmungⅠ^oldclr^ bei Zombies, die 3 Sekunden lang anhält.
 
 [ALOES_NEW_SKILL_LEVEL1_DES]
-芦荟医师每10秒丢出1个水滴，为周围3×3的格子制造水雾，使此范围内的植物每秒恢复10%的生命值，并提高20%的攻击力，持续7秒。^ff0000^对调香师的毒雾有奇效！^oldclr^
+Aloe Doctor wirft alle 10 Sekunden einen Wassertropfen aus, der Wassernebel für die umliegenden 3×3-Gitter erzeugt. Pflanzen in diesem Bereich können dadurch 10 % ihrer Gesundheit pro Sekunde regenerieren und ihre Angriffskraft 7 Sekunden lang um 20 % erhöhen. ^ff0000^Es hat eine wundersame Wirkung auf den Giftnebel des Parfümeurs! ^oldclr^
 
 [ALOES_NEW_SKILL_LEVEL2_DES]
-有50%的概率丢出更加晶莹水润的水滴，为植物额外提供100%的攻速加成。
+Es besteht eine 50%ige Chance, mehr kristallklare und feuchte Wassertropfen zu werfen, was Pflanzen einen zusätzlichen Angriffsgeschwindigkeitsbonus von 100 % verleiht.
 
 [ALOES_NEW_SKILL_LEVEL3_DES]
-晶莹水润的技能触发概率提升100%，100%丢出更加晶莹水润的水滴。
+Die Auslösewahrscheinlichkeit der Fertigkeit „Kristallklar und feucht“ wird um 100 % erhöht, und es werden 100 % kristallklare und feuchte Wassertropfen geworfen.
 
 [ALOES_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [ALOES_NEW_SKILL_LEVEL5_DES]
-芦荟医师的水雾升级为冰雾，额外提供20%的攻击力加成，并能使进入范围的僵尸进入寒冰减速状态。
+Der Wassernebel von Aloe Doctor wird zu Eisnebel aufgewertet, was einen zusätzlichen Angriffskraftbonus von 20 % verleiht und Zombies, die sich in Reichweite befinden, in den Eisverlangsamungszustand versetzen kann.
 
 [ALOES_PLANTFOOD_DESCRIPTION]
-芦荟医师凝结出大量露水，向全屏连续丢出5个水滴，使植物获得生命恢复和攻击力加成，持续7秒。
+Aloe Doctor kondensiert eine große Menge Tau und wirft fünf Wassertropfen hintereinander über den gesamten Bildschirm. Dadurch erhält die Pflanze 7 Sekunden lang einen Bonus auf Lebensregeneration und Angriffskraft.
 
 [ALOES_AVATAR_PLANTFOOD_DESCRIPTION]
-芦荟医师凝结出大量露水，向全屏连续丢出5个水滴，使植物获得^ff0000^更高的生命恢复和攻击力加成，持续8秒。并且水雾中包含冰晶，被冰晶笼罩的僵尸会被^oldclr^^0072ff^冻结Ⅰ^oldclr^^ff0000^2秒。^oldclr^
+Aloe Doctor kondensiert eine große Menge Tau und wirft fünf Wassertropfen hintereinander über den gesamten Bildschirm. Dadurch erhalten Pflanzen 8 Sekunden lang ^ff0000^ höhere Lebensregeneration und Angriffskraft. Der Nebel enthält außerdem Eiskristalle. Zombies, die von Eiskristallen bedeckt sind, werden ^oldclr^^0072ff^eingefrorenⅠ^oldclr^^ff0000^2 Sekunden lang. ^oldclr^
 
 [BEARBERRY_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在熊果臼炮的右侧时，会发射向右滚动并穿透整行造成伤害的炮弹。
+Wenn ein Zombie rechts vom Bärentraubenmörser erscheint, feuert er eine Granate ab, die nach rechts rollt und die gesamte Reihe durchdringt, um Schaden zu verursachen.
 
 [BEARBERRY_NEW_SKILL_LEVEL2_DES]
-攻击时有10%的概率因为卡膛一次发出2枚炮弹。一发在脚下滚动，一发飞行两格后掉落，然后再滚动。
+Beim Angriff besteht aufgrund einer Ladehemmung eine 10%ige Chance, dass zwei Granaten gleichzeitig abgefeuert werden. Eine rollt unter die Füße, die andere fällt nach zwei Feldern zu Boden und rollt dann erneut.
 
 [BEARBERRY_NEW_SKILL_LEVEL3_DES]
-卡膛双发的技能触发概率提升100%。
+Die Wahrscheinlichkeit, dass Doppelschuss ausgelöst wird, ist um 100 % erhöht.
 
 [BEARBERRY_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Energiebohnen-Move direkt auszulösen!
 
 [BEARBERRY_NEW_SKILL_LEVEL5_DES]
-攻击时有30%的概率发射可以击退小型僵尸的黄金炮弹。
+Beim Angriff besteht eine 30%ige Wahrscheinlichkeit, eine goldene Granate abzufeuern, die kleine Zombies abwehrt.
 
 [BEARBERRY_PLANTFOOD_DESCRIPTION]
-熊果臼炮连续发射3枚熊果炮弹，依次向右侧、右上和右下滚动，击飞经过的小型僵尸或造成伤害。该秒杀无阶数限制。
+Der Bärentraubenmörser feuert drei Bärentraubengranaten hintereinander ab. Diese rollen abwechselnd nach rechts, oben rechts und unten rechts und stoßen vorbeikommende kleine Zombies weg oder verursachen Schaden. Die Anzahl der Stufen dieses Sofortkills ist unbegrenzt.
 
 [BEARBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
-熊果臼炮连续发射^ff0000^3枚附带火焰的熊果炮弹^oldclr^，依次向右侧右上和右下滚动，击飞经过的小型僵尸或造成^ff0000^更高的伤害^oldclr^。该秒杀无阶数限制。
+Der Bärentraubenmörser feuert ^ff0000^3 Bärentraubengranaten^oldclr^ mit Flammen hintereinander ab. Diese rollen abwechselnd nach rechts oben und unten rechts und stoßen vorbeikommende kleine Zombies weg oder verursachen ^ff0000^höheren Schaden^oldclr^. Die Anzahl der Stufen dieses Sofortkills ist unbegrenzt.
 
 [WAXGOURD_NEW_SKILL_LEVEL1_DES]
-因为冬瓜守卫拥有庞大的身躯，能够压住僵尸和像圆环的机关地块，并且在种植落下时会震起右侧一格的僵尸。
+Da der Wintermelonenwächter einen riesigen Körper hat, kann er Zombies und ringförmige mechanische Angriffe unterdrücken. Wenn er fällt, schüttelt er die Zombies im rechten Raster durch.
 
 [WAXGOURD_NEW_SKILL_LEVEL2_DES]
-冬瓜被攻击时触发起跳，落地后震起自身格和前方一格的所有僵尸。每隔20秒触发1次。
+Wenn die Wintermelone angegriffen wird, löst sie einen Sprung aus. Nach der Landung schüttelt sie alle Zombies in ihrem eigenen Raster und dem Raster davor durch. Der Sprung wird alle 20 Sekunden ausgelöst.
 
 [WAXGOURD_NEW_SKILL_LEVEL3_DES]
-愤怒本能的触发间隔缩短，每隔10秒触发1次。
+Das Auslöseintervall von „Wütender Instinkt“ wurde verkürzt und wird nun alle 10 Sekunden ausgelöst.
 
 [WAXGOURD_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen ist die Wahrscheinlichkeit gering, die Energiebohne direkt freizusetzen. (Große Bewegung!)
 
 [WAXGOURD_NEW_SKILL_LEVEL5_DES]
-冬瓜守卫会主动蓄力，在僵尸靠近前方一格时，会立刻起跳。落地后震起所有僵尸并造成210点伤害。
+Der Wintermelonenwächter greift aktiv an und springt sofort, sobald sich der Zombie ein Feld vor ihm nähert. Nach der Landung schockt er alle Zombies und verursacht 210 Schaden.
 
 [WAXGOURD_PLANTFOOD_DESCRIPTION]
-冬瓜守卫会连续起跳3次，第一次震起右侧一格的僵尸，第二次震起周围3×3僵尸，第三次震退周围3×3僵尸1格。
+Der Wintermelonenwächter springt dreimal hintereinander. Beim ersten Mal schockt er die Zombies ein Feld nach rechts, beim zweiten Mal die umliegenden 3×3 Zombies und beim dritten Mal die umliegenden 3×3 Zombies ein Feld zurück.
 
 [WAXGOURD_AVATAR_PLANTFOOD_DESCRIPTION]
-冬瓜守卫会连续起跳3次，第一次震起右侧一格的僵尸，第二次震起周围3×3僵尸，第三次震退周围3×3僵尸1格。^ff0000^每次额外造成范围伤害。^oldclr^
+Der Winterkürbiswächter springt dreimal hintereinander hoch. Beim ersten Mal springt er die Zombies ein Feld nach rechts hoch, beim zweiten Mal die umliegenden 3×3 Zombies und beim dritten Mal stößt er die Zombies ein Feld zurück. ^ff0000^ Jedes Mal wird zusätzlicher Reichweitenschaden verursacht. ^oldclr^
 
 [ELECTRICITEA_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在电力绿茶周围3×3时，会释放闪电对3×3范围内的所有僵尸造成伤害。被僵尸啃食后还会释放出闪电秒杀该僵尸，并生成雷云释放连锁闪电。
+Wenn ein Zombie im Umkreis von 3×3 um Electric Green Tea erscheint, schießt er Blitze ab, die allen Zombies im Umkreis von 3×3 Schaden zufügen. Nachdem er von einem Zombie gefressen wurde, schießt er ebenfalls Blitze ab, die den Zombie sofort töten, und erzeugt eine Gewitterwolke, die Kettenblitze auslöst.
 
 [ELECTRICITEA_NEW_SKILL_LEVEL2_DES]
-攻击时有45%的概率使僵尸身上带上电流，随机弹射到该僵尸周围3×3范围内的其他僵尸，最多可以弹射两个僵尸。
+Beim Angriff besteht eine 45%ige Chance, dass der Zombie mit Elektrizität aufgeladen wird, die zufällig auf andere Zombies im Umkreis von 3×3 um ihn herum übertragen wird. Maximal zwei Zombies können ausgestoßen werden.
 
 [ELECTRICITEA_NEW_SKILL_LEVEL3_DES]
-提升连锁电流的触发概率，攻击时有60%的概率使僵尸身上带上电流。
+Erhöht die Wahrscheinlichkeit, Kettenstrom auszulösen, und es besteht eine 60%ige Chance, Zombies beim Angriff mit Strom zu versorgen.
 
 [ELECTRICITEA_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt auszulösen!
 
 [ELECTRICITEA_NEW_SKILL_LEVEL5_DES]
-攻击时有20%的概率释放150点伤害的红色高能闪电，将攻击范围内的所有僵尸^ff9600^麻痹Ⅰ^oldclr^3秒。
+Beim Angriff besteht eine 20%ige Chance, einen roten Hochenergieblitz mit 150 Schaden auszulösen, der alle Zombies in Angriffsreichweite für ^ff9600^Ⅰ^oldclr^3 Sekunden lähmt.
 
 [ELECTRICITEA_PLANTFOOD_DESCRIPTION]
-电力绿茶全身充满电能，随机对场上的僵尸连续发射5道电流，对僵尸造成闪电伤害。
+Elektrischer Grüntee ist voller Elektrizität und feuert zufällig fünf elektrische Ströme auf Zombies auf dem Feld ab, die Blitzschaden verursachen.
 
 [ELECTRICITEA_AVATAR_PLANTFOOD_DESCRIPTION]
-电力绿茶全身充满电能，随机对场上的僵尸连续发射5道电流，对僵尸造成闪电伤害^ff0000^并附带3×3范围的电弧扩散伤害。^oldclr^
+Elektrischer Tee ist voller Elektrizität und feuert fünf elektrische Ströme auf zufällige Zombies auf dem Feld ab. Er verursacht Blitzschaden^ff0000^ und Lichtbogenschaden im Bereich von 3×3. ^oldclr^
 
 [IMPPEAR_NEW_SKILL_LEVEL1_DES]
-当有僵尸啃食完小黄梨后，会将此僵尸变为小鬼僵尸，如果已经是小鬼僵尸了，则会受到伤害并释放出毒气，使它身后的僵尸^848484^眩晕Ⅰ^oldclr^7秒。最高对2阶僵尸生效。
+Wenn ein Zombie eine gelbe Birne isst, verwandelt er sich in einen Wichtel-Zombie. Ist er bereits ein Wichtel-Zombie, erleidet er Schaden und setzt Giftgas frei, das die Zombies dahinter^848484^für Ⅰ^oldclr^7 Sekunden betäubt. Wirkt maximal bei Zombies der Stufe 2.
 
 [IMPPEAR_NEW_SKILL_LEVEL2_DES]
-有40%概率使僵尸吃了小黄梨后变成小鬼僵尸的时候，直接受到毒效果，并放出气体^848484^眩晕Ⅰ^oldclr^后方的僵尸。最高对3阶僵尸生效。
+Es besteht eine 40%ige Chance, dass ein Zombie, der eine gelbe Birne isst und sich in einen Wichtel-Zombie verwandelt, direkt vergiftet wird und Gas freisetzt, das die Zombies dahinter betäubt. ^oldclr^. Funktioniert maximal bei Zombies der Stufe 3.
 
 [IMPPEAR_NEW_SKILL_LEVEL3_DES]
-强化变异的触发概率提升至80%，使僵尸直接受到毒效果，并放出气体^848484^眩晕Ⅰ^oldclr^后方的僵尸。最高对5阶僵尸生效。
+Die Auslösewahrscheinlichkeit der verstärkten Mutation erhöht sich auf 80 %. Der Zombie wird direkt vergiftet und setzt Gas^848484^ frei, das die Zombies hinter Ⅰ^oldclr^ betäubt. Wirksam bis zu Zombies der Stufe 5.
 
 [IMPPEAR_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen.
 
 [IMPPEAR_NEW_SKILL_LEVEL5_DES]
-当有僵尸啃食完小黄梨后，若释放出有毒气体，则有毒气体的范围增大，吸入有毒气体的僵尸会进入易伤状态，受到的伤害增加30%，持续7秒。
+Wenn ein Zombie die kleine gelbe Birne isst und Giftgas freisetzt, erhöht sich dessen Reichweite. Zombies, die das Giftgas einatmen, werden verwundbar und erleiden 7 Sekunden lang 30 % mehr Schaden.
 
 [IMPPEAR_PLANTFOOD_DESCRIPTION]
-小黄梨立刻对场上5个僵尸释放1次小黄梨魔法，使中小型僵尸变为小鬼僵尸，或是造成伤害。
+Die kleine gelbe Birne entfesselt sofort die Magie der kleinen gelben Birne auf fünf Zombies auf dem Spielfeld und verwandelt kleine und mittlere Zombies in Koboldzombies oder verursacht Schaden.
 
 [IMPPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
-小黄梨立刻对场^ff0000^上7个僵尸^oldclr^释放1次小黄梨魔法，使中小型僵尸变为小鬼僵尸，或是造成伤害。
+Die Birne entfesselt sofort die Magie der Birne auf die sieben Zombies auf dem Spielfeld ^ff0000^ und verwandelt kleine und mittlere Zombies in Koboldzombies oder verursacht Schaden.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在宝石商石榴右侧时，会抛射宝石对僵尸造成伤害，宝石命中后会向右斜向弹射造成50%的伤害。
+Wenn Zombies rechts vom Juwelier-Granatapfel erscheinen, werfen sie Edelsteine, um die Zombies zu verletzen. Nach dem Auftreffen prallen die Edelsteine diagonal nach rechts ab und verursachen 50 % Schaden.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL2_DES]
-有20%概率喷出1.5倍伤害的双生宝石，双生宝石在命中僵尸后，可以对两个角度僵尸造成弹射伤害。
+Es besteht eine 20%ige Chance, Zwillingsedelsteine mit 1,5-fachem Schaden auszuwerfen. Nachdem die Zwillingsedelsteine die Zombies getroffen haben, können sie Zombies in zwei Richtungen abprallen.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL3_DES]
-多财善贾技能效果提升，变为有50%概率喷出2倍伤害的三生宝石，三生宝石在命中僵尸后，可以对三个角度僵尸造成弹射伤害。
+Der Fertigkeitseffekt, reich und gut im Geldverdienen zu sein, wurde verbessert. Es besteht eine 50%ige Chance, einen Drei-Lebens-Edelstein mit doppeltem Schaden auszuwerfen. Nach einem Treffer auf einen Zombie kann der Drei-Lebens-Edelstein Zombies in drei Richtungen abprallen.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen – ein großer Move!
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL5_DES]
-有30%概率喷出一个强化宝石，强化宝石是普通宝石伤害的2.5倍。喷出强化宝石后，接下来的2次攻击必定是三生宝石。
+Es besteht eine 30%ige Chance, einen verstärkten Edelstein zu versprühen, der 2,5-mal so viel Schaden verursacht wie ein normaler Edelstein. Nach dem Versprühen des verstärkten Edelsteins werden die nächsten beiden Angriffe definitiv Edelsteine mit drei Lebenspunkten sein.
 
 [POMEGRANATEJEWELER_PLANTFOOD_DESCRIPTION]
-宝石商石榴连续喷出4颗宝石和1个大宝石，大宝石造成更高伤害和^848484^眩晕Ⅰ^oldclr^效果，可以秒杀至多2个中小型僵尸。
+Der Juwelier-Granatapfel versprüht kontinuierlich 4 Edelsteine und 1 großen Edelstein. Der große Edelstein verursacht höheren Schaden und einen ^848484^Betäubungseffekt, der bis zu 2 kleine und mittlere Zombies in einer Sekunde töten kann.
 
 [POMEGRANATEJEWELER_AVATAR_PLANTFOOD_DESCRIPTION]
-宝石商石榴连续喷出4颗宝石和^ff0000^1个大吸引宝石，大吸引宝石会吸引上下行僵尸换行^oldclr^，并造成更高伤害和^848484^眩晕Ⅰ^oldclr^效果，可以秒杀至多2个中小型僵尸。
+Der Juwelier-Granatapfel versprüht kontinuierlich 4 Edelsteine und ^ff0000^1 großen Anziehungsstein. Der große Anziehungsstein lockt Zombies in den oberen und unteren Reihen an, um die Reihen zu wechseln. ^oldclr^ Er verursacht hohen Schaden und einen ^848484^Betäubungseffekt. Dieser kann bis zu zwei kleine und mittelgroße Zombies in einer Sekunde töten.
 
 [OLIVE_NEW_SKILL_LEVEL1_DES]
-种植后在攻击范围内的地块上留下持续5秒的橄榄油，火焰类攻击可以点燃橄榄油，使其上的僵尸受到每秒100点伤害，持续6秒。^ff0000^对芭蕾舞僵尸有奇效！^oldclr^
+Nach dem Pflanzen hinterlässt er 5 Sekunden lang Olivenöl auf dem Boden in Angriffsreichweite. Feuerangriffe können das Olivenöl entzünden, wodurch Zombies darauf 6 Sekunden lang 100 Schaden pro Sekunde erleiden. ^ff0000^ Wirkt Wunder bei Ballett-Zombies! ^oldclr^
 
 [OLIVE_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Energiebohnen-Attacke.
 
 [OLIVE_AVATAR_PLANTFOOD_DESCRIPTION]
-此植物无能量豆大招。
+Diese Pflanze hat keine ultimative Energiebohnen-Attacke.
 
 [EGRETFLOWER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在白鹭花战机右侧4格时，会连续发射6发子弹。每隔8秒填装1颗射程为右侧本行的导弹，击中僵尸造成2秒^848484^眩晕Ⅰ^oldclr^。死亡时会在本格和右侧1格各投下1个导弹离场。
+Erscheint ein Zombie vier Felder rechts vom Reiherblumenkämpfer, feuert er sechs Kugeln hintereinander ab. Alle 8 Sekunden lädt er eine Rakete mit der Reichweite der rechten Reihe, trifft den Zombie und verursacht 2 Sekunden lang ^848484^stunⅠ^oldclr^. Stirbt er, wirft er eine Rakete in das Feld und ein Feld rechts davon ab und verlässt das Feld.
+
 
 [EGRETFLOWER_NEW_SKILL_LEVEL2_DES]
-场上每额外存在1个白鹭花战机就提升所有白鹭花战机攻击力10%，至多提升30%。
+Für jeden zusätzlichen Reiherblumenkämpfer auf dem Feld erhöht sich die Angriffskraft aller Reiherblumenkämpfer um 10 %, bis maximal 30 %.
+
 
 [EGRETFLOWER_NEW_SKILL_LEVEL3_DES]
-导弹填装速度加快，每隔6秒填装1颗导弹。
+Die Raketennachladegeschwindigkeit wird erhöht, und alle 6 Sekunden wird eine Rakete nachgeladen.
 
 [EGRETFLOWER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohne direkt zu aktivieren!
 
 [EGRETFLOWER_NEW_SKILL_LEVEL5_DES]
-攻击范围提升至右侧单行，且子弹和导弹的攻击都变为单格群体伤害。
+Die Angriffsreichweite wird auf eine einzelne Reihe rechts erhöht, und die Angriffe mit Kugeln und Raketen verursachen nun Gruppenschaden auf einem einzigen Raster.
 
 [EGRETFLOWER_PLANTFOOD_DESCRIPTION]
-白鹭花战机呼叫空中支援，优先对准存在僵尸的位置投射3枚燃烧导弹，命中后造成3×3范围的爆炸伤害，并留下持续造成5秒伤害的火焰。
+Der Reiherblumenjäger ruft Luftunterstützung an und feuert zunächst drei Brandraketen auf die Position der Zombies ab. Nach dem Auftreffen verursachen sie Explosionsschaden im Umkreis von 3×3 und hinterlassen eine Flamme, die 5 Sekunden lang anhält.
 
 [EGRETFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-白鹭花战机呼叫空中支援，优先对准存在僵尸的位置投射3枚燃烧导弹，命中后造成3×3范围的爆炸伤害^ff0000^和^oldclr^^848484^眩晕Ⅰ^oldclr^，并留下持续造成5秒伤害的火焰。
+Der Reiherblumenjäger ruft Luftunterstützung an und visiert zunächst die Position der Zombies an und feuert drei Brandraketen ab. Nach dem Auftreffen verursacht es Explosionsschaden ^ff0000^ und ^oldclr^^848484^Betäubung Ⅰ^oldclr^ im Umkreis von 3×3 und hinterlässt eine Flamme, die 5 Sekunden lang Schaden verursacht.
 
 [STRAWBURST_NEW_SKILL_LEVEL1_DES]
-点击植物后会将草莓向僵尸发射出去并造成伤害，伤害和攻击目标随成长阶段提升。小草莓需要5秒生长时间，中草莓再需要10秒，大草莓再需要15秒。当僵尸接触本体时立即爆炸。
+Klickt man auf die Pflanze, schleudert sie die Erdbeere auf den Zombie und verursacht Schaden. Schaden und Angriffsziele steigen mit dem Wachstumsstadium. Kleine Erdbeeren brauchen 5 Sekunden zum Wachsen, mittlere 10 Sekunden und große 15 Sekunden. Berührt ein Zombie den Körper, explodiert er sofort.
 
 [STRAWBURST_NEW_SKILL_LEVEL2_DES]
-在发射完草莓炸弹后，有25%概率直接成长为中草莓。
+Nach dem Abwurf der Erdbeerbombe besteht eine 25%ige Chance, dass sie direkt zu einer mittleren Erdbeere heranwächst.
 
 [STRAWBURST_NEW_SKILL_LEVEL3_DES]
-在发射完草莓炸弹后，有20%概率直接成长为大草莓。
+Nach dem Abwurf der Erdbeerbombe besteht eine 20%ige Chance, direkt zu einer großen Erdbeere heranzuwachsen.
 
 [STRAWBURST_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt auszulösen!
 
 [STRAWBURST_NEW_SKILL_LEVEL5_DES]
-草莓炸弹爆炸后会遗留对应攻击范围的草莓酱，使经过的僵尸减速。小草莓和中草莓的草莓酱持续2秒，大草莓的草莓酱持续4秒。
+Nach der Explosion der Erdbeerbombe hinterlässt sie Erdbeermarmelade in der entsprechenden Angriffsreichweite, die vorbeikommende Zombies verlangsamt. Die Erdbeermarmelade aus kleinen und mittleren Erdbeeren hält 2 Sekunden, die aus großen Erdbeeren 4 Sekunden an.
 
 [STRAWBURST_PLANTFOOD_DESCRIPTION]
-爆炸草莓召唤1个巨型草莓，爆炸对全屏僵尸造成伤害。自身立即成长为大草莓。
+Die explodierende Erdbeere beschwört eine riesige Erdbeere, die explodiert und Zombies auf dem gesamten Bildschirm Schaden zufügt. Sie wächst sofort zu einer großen Erdbeere heran.
 
 [STRAWBURST_AVATAR_PLANTFOOD_DESCRIPTION]
-爆炸草莓召唤1个巨型草莓，爆炸对全屏僵尸造成伤害，^ff0000^炸开后会蹦出三个小草莓，再爆炸一次。^oldclr^自身立即成长为大草莓。
+Die explodierende Erdbeere beschwört eine riesige Erdbeere, die explodiert und Zombies auf dem gesamten Bildschirm Schaden zufügt. ^ff0000^ Nach der Explosion springen drei kleine Erdbeeren heraus und explodieren erneut. ^oldclr^ Sie wächst sofort zu einer großen Erdbeere heran.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在毒液豌豆射手右侧时，会发射毒液豌豆对僵尸造成伤害，并附加减速与1层毒素，持续5秒。每层毒素每秒造成攻击力5倍^701edf^中毒Ⅰ^oldclr^伤害，上限5层。
+Wenn ein Zombie rechts vom Gifterbsenwerfer erscheint, feuert dieser Gifterbsen ab, um dem Zombie Schaden zuzufügen. Außerdem wird er verlangsamt und erhält 5 Sekunden lang eine Giftschicht. Jede Giftschicht verursacht das Fünffache der Angriffskraft von ^701edf^Poison I^oldclr^ Schaden pro Sekunde, maximal 5 Schichten.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-僵尸每被毒液豌豆命中5次，就会毒素叠加爆炸1次，造成300点伤害。
+Jedes Mal, wenn ein Zombie fünfmal von der Gifterbse getroffen wird, explodiert das Gift einmal und verursacht 300 Schaden.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-毒液豌豆射手毒术提升，每命中3次就可以毒素叠加爆炸1次，造成450点伤害。
+Die Giftfähigkeit des Gifterbsen-Schießers wurde verbessert. Alle drei Treffer können eine Giftexplosion auslösen, die 450 Schaden verursacht.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt mit einem großen Angriff freizusetzen!
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-攻击时有10%的概率连续发射5发毒液豌豆连弹，造成36点伤害并溅射单格。
+Beim Angriff besteht eine 10%ige Chance, fünf Gifterbsen hintereinander abzufeuern, die 36 Schaden verursachen und ein einzelnes Gitter bespritzen.
 
 [POISONPEASHOOTER_PLANTFOOD_DESCRIPTION]
-毒液豌豆射手积攒大量毒液，发射1颗巨大的毒液豌豆对整行僵尸造成伤害和击退，并留下毒道使所有僵尸减速。
+Der Gifterbsen-Schießer sammelt viel Gift und verschießt eine riesige Gifterbse, die die gesamte Zombiereihe verletzt und abwehrt. Er hinterlässt eine Giftspur, die alle Zombies verlangsamt.
 
 [POISONPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-毒液豌豆射手积攒大量毒液，发射1颗巨大的毒液豌豆对整行僵尸造成^ff0000^更高的伤害和击退，并留下沸腾的毒道^oldclr^使所有僵尸减速。
+Der Gifterbsen-Schießer sammelt viel Gift und verschießt eine riesige Gifterbse, die der gesamten Zombiereihe ^ff0000^ zusätzlichen Schaden und Rückstoß zufügt und eine kochende Giftspur ^oldclr^ hinterlässt, die alle Zombies verlangsamt.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在右侧3格外时，打出高球，命中僵尸后弹射1次。当僵尸出现在右侧3格内时，打出可以秒杀生命值低于40%的扣杀发球，伤害提升至120，攻击间隔提升至2.9秒。
+Wenn ein Zombie drei Felder rechts erscheint, schlage einen hohen Ball, triff den Zombie und pralle einmal ab. Wenn ein Zombie innerhalb von drei Feldern rechts erscheint, führe einen Smash-Aufschlag aus, der einen Zombie mit weniger als 40 % Gesundheit sofort tötet, den Schaden auf 120 erhöht und das Angriffsintervall auf 2,9 Sekunden verlängert.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL2_DES]
-杜英投手通过距离训练，将扣杀发球的攻击范围从3格改为4格。
+Durch Distanztraining wurde die Angriffsreichweite des Smash-Aufschlags des Doo-Ying-Werfers von drei auf vier Felder geändert.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL3_DES]
-杜英投手通过力量训练，将扣杀发球的攻击范目标从单体改为单格。
+Durch Krafttraining wurde die Angriffsreichweite des Smash-Aufschlags des Doo-Ying-Werfers von einer Einheit auf ein einzelnes Raster geändert.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einsetzen besteht die Chance, den Energiebohnen-Big-Move direkt auszulösen!
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL5_DES]
-杜英投手的扣杀技术进一步提升，打出的扣杀发球可以秒杀生命值低于50%的僵尸。
+Die Smash-Fähigkeit des Doo-Ying-Werfers wurde weiter verbessert. Sein Smash-Aufschlag kann Zombies mit weniger als 50 % Gesundheit sofort töten.
 
 [ELAEOCARPUS_PLANTFOOD_DESCRIPTION]
-杜英投手暂时改变攻击模式，会打出横向旋转的球，在击中僵尸后生成一个连续造成多次伤害的旋风，旋风移动1格。
+Der Doo-Ying-Werfer ändert vorübergehend seinen Angriffsmodus und schlägt einen horizontal rotierenden Ball. Nach dem Treffen eines Zombies entsteht ein Wirbelwind, der mehrere aufeinanderfolgende Schäden verursacht. Der Wirbelwind bewegt sich um ein Feld.
 
 [ELAEOCARPUS_AVATAR_PLANTFOOD_DESCRIPTION]
-杜英投手暂时改变攻击模式，会打出横向旋转的球，在击中僵尸后生成一个连续造成多次伤害的旋风，旋风移动^ff0000^1整行。^oldclr^
+Der Elaeocarpus-Werfer ändert vorübergehend seinen Angriffsmodus und schlägt einen horizontal rotierenden Ball, der einen Wirbelwind erzeugt, der nach dem Treffen eines Zombies mehrere aufeinanderfolgende Schäden verursacht. Der Wirbelwind bewegt sich um ^ff0000^1 ganze Reihe. ^oldclr^
 
 [DARTICHOKE_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在右侧时，会发射飞镖对僵尸造成伤害，优先攻击最危险的僵尸。每发射6枚飞镖就进入8秒的休息时间。有30%概率发射3倍伤害的暴击飞镖。
+Wenn rechts ein Zombie erscheint, feuert er Pfeile ab, um ihm Schaden zuzufügen. Dabei werden die gefährlichsten Zombies bevorzugt. Nach sechs abgefeuerten Pfeilen tritt eine 8-sekündige Ruhephase ein. Es besteht eine 30%ige Chance, einen Pfeil mit 3-fachem Schaden abzufeuern.
 
 [DARTICHOKE_NEW_SKILL_LEVEL2_DES]
-休息时间减少25%，从8秒休息时间减少至6秒。
+Die Ruhezeit wird um 25 % von 8 auf 6 Sekunden reduziert.
 
 [DARTICHOKE_NEW_SKILL_LEVEL3_DES]
-休息时间再次减少25%，从6秒休息时间减少至4秒。
+Die Ruhezeit wird um weitere 25 % von 6 auf 4 Sekunden reduziert.
 
 [DARTICHOKE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die ultimative Energiebohnen-Fähigkeit direkt freizusetzen!
 
 [DARTICHOKE_NEW_SKILL_LEVEL5_DES]
-每隔20秒发射出一枚雷暴飞镖，雷暴飞镖会优先攻击最危险的僵尸，对飞镖穿透过的僵尸造成伤害。命中后秒杀单格小型僵尸。
+Alle 20 Sekunden wird ein Gewitterpfeil abgefeuert. Der Gewitterpfeil greift zuerst die gefährlichsten Zombies an und fügt ihnen, die er durchdringt, Schaden zu. Nach dem Auftreffen tötet er sofort einen einzelnen kleinen Zombie.
 
 [DARTICHOKE_PLANTFOOD_DESCRIPTION]
-飞镖洋蓟快速旋转，以全屏最左侧的僵尸为目标立即发射10枚暴击飞镖。
+Die Pfeil-Artischocke rotiert schnell, visiert den Zombie ganz links im Vollbild an und feuert sofort 10 kritische Pfeile ab.
 
 [DARTICHOKE_AVATAR_PLANTFOOD_DESCRIPTION]
-飞镖洋蓟快速旋转，以全屏最左侧的僵尸为目标立即发射^ff0000^15枚暴击飞镖。^oldclr^
+Die Pfeil-Artischocke rotiert schnell, visiert den Zombie ganz links im Vollbild an und feuert sofort ^ff0000^15 kritische Pfeile ab. ^oldclr^
 
 [ELEOCURLING_NEW_SKILL_LEVEL1_DES]
-当僵尸出现时，会将冰壶弟弟击出，命中僵尸后造成伤害和击退，有50%的概率留下冰道，随后冰壶哥哥向右转出造成1.25倍伤害或将冰壶弟弟击出对整行僵尸造成伤害并延长冰道。随后进入5秒休息时间。
+Wenn ein Zombie erscheint, wird der Curling-Bruder getroffen. Er verursacht Schaden und wird zurückgestoßen. Die Chance, die Eisbahn zu verlassen, beträgt 50 %. Anschließend dreht sich der Curling-Bruder nach rechts und verursacht 1,25-fachen Schaden. Alternativ trifft er den Curling-Bruder und fügt der gesamten Zombiereihe Schaden zu, wodurch die Eisbahn verlängert wird. Anschließend folgt eine 5-sekündige Ruhezeit.
 
 [ELEOCURLING_NEW_SKILL_LEVEL2_DES]
-荸荠兄弟掌控冰道的技艺提升了，产生冰道的概率提升至75%。
+Die Fähigkeiten der Wasserkastanienbrüder zur Kontrolle der Eisbahn wurden verbessert, und die Wahrscheinlichkeit, eine Eisbahn zu erzeugen, wurde auf 75 % erhöht.
 
 [ELEOCURLING_NEW_SKILL_LEVEL3_DES]
-荸荠兄弟能够更快恢复生成，休息时间缩短至3秒。
+Wasserkastanienbrüder können die Regeneration schneller fortsetzen, und die Ruhezeit verkürzt sich auf 3 Sekunden.
 
 [ELEOCURLING_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt auszulösen!
 
 [ELEOCURLING_NEW_SKILL_LEVEL5_DES]
-有50%概率发射被冰雾包裹的冰壶，将对单格范围内的僵尸造成伤害。冰壶哥哥命中单位后不会消失，可被下一个冰壶弟弟击中并穿透造成600点伤害。
+Es besteht eine 50%ige Chance, einen in Eisnebel gehüllten Curlingstein abzufeuern, der Zombies im Umkreis eines Gitters Schaden zufügt. Der Curlingsteinbruder verschwindet nicht, nachdem er eine Einheit getroffen hat, und kann vom nächsten Curlingsteinbruder getroffen werden und 600 Schadenspunkte durchdringen.
 
 [ELEOCURLING_PLANTFOOD_DESCRIPTION]
-荸荠兄弟融合成一个大冰壶，向右转出对整行僵尸造成穿透伤害，击飞中小型僵尸。会留下持续5秒的冰道，使经过的僵尸减速。可秒杀僵尸的阶数一般不超过植物自身阶数的两倍。
+Wasserkastanienbrüder verschmelzen zu einem großen Curlingstein, drehen sich nach rechts und verursachen Durchdringungsschaden an der gesamten Zombiereihe, wodurch kleine und mittelgroße Zombies weggestoßen werden. Es hinterlässt einen 5 Sekunden langen Eispfad, der vorbeikommende Zombies verlangsamt. Die Stufe der Zombies, die sofort getötet werden können, ist in der Regel doppelt so hoch wie die Stufe der Pflanze selbst.
 
 [ELEOCURLING_AVATAR_PLANTFOOD_DESCRIPTION]
-荸荠兄弟融合成一个大冰壶，向右转出对整行僵尸造成穿透伤害，击飞中小型僵尸。会留下^ff0000^持续10秒的冰道^oldclr^，使经过的僵尸减速。可秒杀僵尸的阶数一般不超过植物自身阶数的两倍。
+Die Wasserkastanienbrüder verschmelzen zu einem großen Curlingstein, biegen nach rechts ab und fügen der gesamten Zombiereihe durchdringenden Schaden zu, wobei kleine und mittelgroße Zombies weggestoßen werden. Es hinterlässt einen 10 Sekunden langen Eispfad^ff0000^, der vorbeikommende Zombies verlangsamt. Die Stufe der Zombies, die sofort getötet werden können, ist in der Regel doppelt so hoch wie die Stufe der Pflanze selbst.
 
 [POKRA_NEW_SKILL_LEVEL1_DES]
-当僵尸出现时，会进行穿刺攻击，对所有僵尸造成伤害并减速。连续攻击时，下一次攻击会额外增加1次穿刺攻击，当额外增加3次穿刺攻击时会追加1个4倍伤害、穿透整行的毒刺子弹，并进入3秒休息。
+Wenn Zombies erscheinen, führen sie einen Stichangriff aus, der allen Zombies Schaden zufügt und sie verlangsamt. Bei Dauerangriffen fügt der nächste Angriff einen zusätzlichen Stichangriff hinzu. Wenn drei zusätzliche Stichangriffe hinzugefügt werden, wird ein zusätzliches Stachelgeschoss mit vierfachem Schaden, das die gesamte Reihe durchdringt, hinzugefügt und eine 3-sekündige Pause eingelegt.
 
 [POKRA_NEW_SKILL_LEVEL2_DES]
-攻击时有20%的概率挥动双刺进行高速穿刺连击，造成2次5倍攻击力的伤害。
+Beim Angriff besteht eine 20%ige Chance, die beiden Stachel für eine Hochgeschwindigkeits-Stichkombo zu schwingen, die die doppelte bis fünffache Angriffskraft des Schadens verursacht.
 
 [POKRA_NEW_SKILL_LEVEL3_DES]
-提升尖刺连击概率100%。
+Erhöht die Chance einer Stachelkombo um 100 %.
 
 [POKRA_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht die Chance, die Energiebohne direkt mit einem großen Angriff auszulösen!
 
 [POKRA_NEW_SKILL_LEVEL5_DES]
-尖刺秋葵每轮完整地攻击后有15%概率尖刺发光，连续发射2次毒刺子弹，并从最初始的攻击速度开始攻击。
+Nach jeder vollständigen Angriffsrunde hat Spiked Okra eine 15%ige Chance, Stacheln auszustoßen, zwei aufeinanderfolgende Stachelgeschosse abzufeuern und den Angriff mit der ursprünglichen Angriffsgeschwindigkeit zu starten.
 
 [POKRA_PLANTFOOD_DESCRIPTION]
-尖刺秋葵立即发射3枚穿透整行的大毒刺子弹，对所有僵尸造成伤害并附加^701edf^中毒Ⅰ^oldclr^效果。大毒刺子弹数量随阶数增加：2阶发射4枚，3和4阶发射5枚，5阶发射6枚。
+Spike Okra feuert sofort drei große Stachelgeschosse ab, die die gesamte Reihe durchdringen, allen Zombies Schaden zufügen und den Effekt ^701edf^Poison I^oldclr^ hinzufügen. Die Anzahl der großen Stachelgeschosse steigt mit dem Level: 4 auf Level 2, 5 auf Level 3 und 4 und 6 auf Level 5.
 
 [POKRA_AVATAR_PLANTFOOD_DESCRIPTION]
-尖刺秋葵立即发射3发穿透整行的大毒刺子弹，对所有僵尸造成伤害并附加^701edf^中毒Ⅰ^oldclr^效果，^ff0000^并在路径上留下持续造成伤害的毒雾。^oldclr^大毒刺子弹数量随阶数增加：2阶发射4枚，3和4阶发射5枚，5阶发射6枚。
+Prickly Okra feuert sofort drei große Stachelgeschosse ab, die die gesamte Reihe durchdringen, allen Zombies Schaden zufügen und den Effekt ^701edf^Poison I^oldclr^ hinzufügen. ^ff0000^einen giftigen Nebel hinterlassen, der ihnen weiterhin Schaden zufügt. ^oldclr^Die Anzahl der großen Stachelgeschosse steigt mit der Stufe: 4 auf Stufe 2, 5 auf Stufe 3 und 4 und 6 auf Stufe 5.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL1_DES]
-每15秒敲一下鼓，为周围3×3范围内的植物带来10%攻击和攻速加成，防御类植物回复10%生命值。乐团植物（喇叭花、郁金香号手、魔音甜菜、芭蕉舞蹈家、幽灵辣椒）额外提升5%攻击和攻速加成。
+Schlagt alle 15 Sekunden die Trommel. Dadurch erhalten Pflanzen im Umkreis von 3×3 einen Angriffs- und Geschwindigkeitsbonus von 10 % und die Gesundheit von defensiven Pflanzen wird um 10 % wiederhergestellt. Orchesterpflanzen (Morgenblume, Tulpentrompeter, Magische Bete, Bananentänzerin, Geisterpfeffer) erhalten zusätzlich 5 % Angriffs- und Geschwindigkeitsbonus.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL2_DES]
-攻击和攻速加成提升至15%，生命值回复提升至15%，乐团植物额外提升幅度提升至10%。
+Angriffs- und Geschwindigkeitsbonus wurden auf 15 % erhöht, die Gesundheitsregeneration auf 15 % und der zusätzliche Bonus von Orchesterpflanzen auf 10 %.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL3_DES]
-攻击和攻速加成提升至20%，生命值回复提升至20%，乐团植物额外提升15%的攻击力加成和10%的攻速加成。
+Angriffs- und Angriffsgeschwindigkeitsbonus wurden auf 20 % erhöht, die Gesundheitsregeneration auf 20 %. Orchesterpflanze erhält zusätzlich 15 % Angriffskraftbonus und 10 % Angriffsgeschwindigkeitsbonus.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohne direkt auszulösen!
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL5_DES]
-敲鼓时额外为范围内的所有植物回复10%的生命值
+Beim Schlagen der Trommel werden 10 % der Gesundheit aller Pflanzen in Reichweite wiederhergestellt.
 
 [HYDROCOTYLEDRUMMER_PLANTFOOD_DESCRIPTION]
-使全场僵尸眩晕2秒，为全场植物带来20%攻击和攻速加成，防御类植物回复20%生命值，为乐团植物的增幅提升至35%攻击和攻速加成，持续14秒。
+Betäubt alle Zombies für 2 Sekunden, gewährt allen Pflanzen einen Angriffs- und Angriffsgeschwindigkeitsbonus von 20 %, stellt die Gesundheit von Verteidigungspflanzen von 20 % wieder her und erhöht die Verstärkung der Orchesterpflanzen auf 35 % Angriffs- und Angriffsgeschwindigkeitsbonus. Dieser Bonus hält 14 Sekunden lang an.
 
 [HYDROCOTYLEDRUMMER_AVATAR_PLANTFOOD_DESCRIPTION]
-使全场僵尸眩晕2秒，为全场植物带来^ff0000^25%攻击和攻速加成，防御类植物回复25%生命值，为乐团植物的增幅提升至40%攻击加成^oldclr^和35%攻速加成，持续14秒。
+Betäubt alle Zombies für 2 Sekunden, gewährt allen Pflanzen einen Angriffs- und Angriffsgeschwindigkeitsbonus von ^ff0000^25 %, stellt die Gesundheit von Verteidigungspflanzen von 25 % wieder her und erhöht die Verstärkung der Orchesterpflanzen auf 40 % Angriffs- und Angriffsgeschwindigkeitsbonus^oldclr^ und 35 % Angriffsgeschwindigkeitsbonus. Dieser Bonus hält 14 Sekunden lang an.
 
 [ULTOMATO_NEW_SKILL_LEVEL1_DES]
-当僵尸出现时，会用眼睛发射持续2秒的激光对僵尸造成伤害。重复叠种可以改变形态，攻击力提升。种植阳光消耗会随场上的数量提升，每1颗提升50点（叠种算多颗）。
+Wenn Zombies erscheinen, feuern sie mit ihren Augen Laser ab, die 2 Sekunden lang anhalten und Zombies Schaden zufügen. Wiederholtes Stapeln kann die Form verändern und die Angriffskraft erhöhen. Der Sonnenlichtverbrauch beim Pflanzen steigt mit der Anzahl der Samen auf dem Feld, und jeder Samen erhöht sich um 50 Punkte (gestapelte Samen zählen als mehrere Samen).
 
 [ULTOMATO_NEW_SKILL_LEVEL2_DES]
-终极番茄的充能速度加快了，攻击后所需的充能时间变为3.5秒。
+Die Ladegeschwindigkeit der Ultimativen Tomate wurde erhöht, und die Ladezeit nach einem Angriff beträgt nun 3,5 Sekunden.
 
 [ULTOMATO_NEW_SKILL_LEVEL3_DES]
-快速充能的技能效果提升100%，攻击后所需的充能时间变为2.5秒。
+Der Fertigkeitseffekt des Schnellladens wurde um 100 % erhöht, und die Ladezeit nach einem Angriff wurde auf 2,5 Sekunden reduziert.
 
 [ULTOMATO_NEW_SKILL_LEVEL4_DES]
-终极番茄种植时有50%的概率直接提升一级状态。
+Beim Pflanzen der Ultimativen Tomate besteht eine 50%ige Chance, den Status direkt um eine Stufe zu erhöhen.
 
 [ULTOMATO_NEW_SKILL_LEVEL5_DES]
-发射的激光蕴含更多能量，击中目标后充盈的能量会溅射到单格僵尸，对他们造成攻击力33%的伤害。
+Der Laser, den sie abfeuert, enthält mehr Energie. Trifft sie das Ziel, spritzt die Energie auf einen einzelnen Zombie und verursacht 33 % seines Angriffsschadens.
 
 [ULTOMATO_PLANTFOOD_DESCRIPTION]
-终极番茄立即自爆，对周围9×9范围的所有僵尸造成伤害。
+Die Ultimative Tomate explodiert sofort und fügt allen Zombies im Umkreis von 9×9 Schaden zu.
 
 [ULTOMATO_AVATAR_PLANTFOOD_DESCRIPTION]
-终极番茄立即自爆，对周围9×9范围的所有僵尸造成伤害。^ff0000^如果自身原先是第二形态或第三形态，则会退化为第一形态而不是直接消失。^oldclr^
+Die Ultimative Tomate explodiert sofort und fügt allen Zombies im Umkreis von 9×9 Schaden zu. ^ff0000^ War sie ursprünglich in der zweiten oder dritten Form, verwandelt sie sich in die erste, anstatt direkt zu verschwinden. ^oldclr^
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在潜行开口箭周围3×3时，会跳起旋转向周围发射飞镖，对所有僵尸造成伤害。随后会潜入地面躲避僵尸的攻击，9秒后重新装填飞镖结束潜行。
+Wenn ein Zombie in einem 3×3 großen Bereich um den Tarnpfeil erscheint, springt er hoch, dreht sich und schießt Pfeile ab, die allen Zombies Schaden zufügen. Anschließend schleicht er sich in den Boden, um den Angriffen der Zombies auszuweichen. Nach 9 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL2_DES]
-潜行开口箭的飞镖生长速度提升，8秒后重新装填飞镖结束潜行。
+Die Wachstumsrate der Pfeile des Tarnungsöffnungspfeils wird erhöht. Nach 8 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL3_DES]
-快速生长的技能效果提升100%，7秒后重新装填飞镖结束潜行。
+Die Wirkung der Fähigkeit „Schnelles Wachstum“ wird um 100 % erhöht. Nach 7 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Es besteht eine hohe Wahrscheinlichkeit, die Energiebohne beim Einpflanzen direkt freizusetzen!
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff rotiert der offene Stealth-Pfeil zweimal und feuert zwei Salven Pfeile ab, die allen Zombies in Reichweite zwei Schadenspunkte zufügen.
@@ -74661,7 +74665,7 @@ Blitzschaden um 20% erhöht
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE}Einige mächtige Wesen sind erschienen.
 
 [NARRATIVE_ATLANTIS_9_INTRO_2]
-{AUFGEWICKELT:CRAZYDAVE}Ich hätte auch gern eine Qualle, die mich hält und mit mir schwimmt.
+{EXCITED:CRAZYDAVE}Ich hätte auch gern eine Qualle, die mich hält und mit mir schwimmt.
 
 [NARRATIVE_ATLANTIS_9_INTRO_3]
 {SAG:WINNIE}Das ist vielleicht keine so gute Idee, User Dave.
