@@ -23270,7 +23270,7 @@ Level-Belohnungen
 Pflanzen können nur links vom Kordon platziert werden.
 
 [ADVICE_LAST_STAND_PLANT]
-Plane deine Verteidigung und besiege die Zombies!
+TEST
 
 [ADVICE_WORLD_CUP_PLANT]
 Pflanze alle Pflanzen im vorgegebenen Raster und starte das Spiel!
