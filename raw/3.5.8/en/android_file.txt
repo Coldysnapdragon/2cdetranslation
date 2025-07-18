@@ -58112,13 +58112,13 @@ ca=对我通关很有帮助|娱乐性大于实用性|整体偏弱或有副作用
 是否刷新商店？
 
 [MODE_PREVIEW]
-机制预览
+Mechaniken-Vorschau
 
 [MAIN_THEME]
-本周主题
+Thema dieser Woche
 
 [MAIN_THEME_HARD]
-本关主题
+Thema dieses Levels
 
 [CHALLENGE_PURPOSE]
 Herausforderungsziel
