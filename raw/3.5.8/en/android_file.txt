@@ -3346,100 +3346,100 @@ Heruntergeladen
 {NPC_ENTER:crazydave}你觉得我怎么样？
 
 [NARRATIVE_EGYPT_CHALLENGE_MINIGAME_A_1]
-{NPC_ENTER:winnie}{SAY}骆驼牌阵里出现了一个新图案，是个桶。
+{NPC_ENTER:winnie}{SAY}Es gibt ein neues Bild in der Kamelformation. Es ist ein Fass.
 
 [NARRATIVE_EGYPT_CHALLENGE_MINIGAME_A_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}让我来踢爆它！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Lass mich ran!
 
 [NARRATIVE_EGYPT_CHALLENGE_MINIGAME_B_1]
-{NPC_ENTER:crazydave}{EXCITED}匹配这些图案赢取奖励！
+{NPC_ENTER:crazydave}{EXCITED}Kombiniere diese Bilder, um Belohnungen zu gewinnen!
 
 [NARRATIVE_EGYPT_CHALLENGE_MINIGAME_B_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}奖励是什么？
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Was ist die Belohnung?
 
 [NARRATIVE_EGYPT_CHALLENGE_MINIGAME_B_3]
-{SPECIAL10:crazydave}不知道。我是疯子！
+{SPECIAL10:crazydave}Ich weiß nicht. Ich bin verrückt!
 
 [NARRATIVE_EGYPT_CHALLENGE_MINIGAME_C_1]
-{NPC_ENTER:winnie}{TIRED:winnie}新的图案是什么？
+{NPC_ENTER:winnie}{TIRED:winnie}Was ist das neue Muster?
 
 [NARRATIVE_EGYPT_CHALLENGE_MINIGAME_C_2]
-{NPC_ENTER:crazydave}{SAY:crazydave}我不知道。想试下运气吗？
+{NPC_ENTER:crazydave}{SAY:crazydave}Ich weiß nicht. Willst du dein Glück versuchen?
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_A_1]
-{NPC_ENTER:winnie}{SAY}我们遇到了时空混乱，
+{NPC_ENTER:winnie}{SAY}Wir haben ein Raum-Zeit-Problem.
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_A_2]
-{EXCITED:winnie}必须使用特定的植物取得胜利，
+{EXCITED:winnie}Du musst eine bestimmte Pflanze verwenden, um zu gewinnen.
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_A_3]
-{EXCITED:winnie}这样才能修复时空的错误。
+{EXCITED:winnie}Damit wir den Raum-Zeit-Fehler beheben können.
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_A_4]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}绝对不能时空混乱！否则你会有大麻烦！
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Spiel nicht mit Raum und Zeit! Sonst steckst du in großen Schwierigkeiten!
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_B_1]
-{NPC_ENTER:winnie}{TIRED}我们不能造个现代的篱笆来阻止这些古老的僵尸吗？
+{NPC_ENTER:winnie}{TIRED}Können wir nicht einen modernen Zaun bauen, um diese uralten Zombies aufzuhalten?
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_B_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}有能力反击时谁还需要篱笆？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wer braucht schon einen Zaun, wenn man sich wehren kann?
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_C_1]
-{NPC_ENTER:winnie}{SAY}下面要上场的植物都是神投手，
+{NPC_ENTER:winnie}{SAY}Die Pflanzen, die spielen werden, sind alle tolle Werfer.
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_C_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}啥是神投手？我只吃过咸猪手。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Was ist ein toller Werfer? Ich habe nur Schweinshaxen gegessen.
 
 [NARRATIVE_EGYPT_CHALLENGE_PROTECTPLANTS_A_1]
-{NPC_ENTER:crazydave}{EXCITED}看，那里有植物在发出 S.O.S 求救信号！
+{NPC_ENTER:crazydave}{EXCITED}Seht mal, da sind Pflanzen, die SOS-Notsignale senden!
 
 [NARRATIVE_EGYPT_CHALLENGE_PROTECTPLANTS_A_2]
-{NPC_ENTER:winnie}{EXCITED:winnie}我们必须立即救援！
+{NPC_ENTER:winnie}{EXCITED:winnie}Wir müssen sie sofort retten!
 
 [NARRATIVE_EGYPT_CHALLENGE_PROTECTPLANTS_B_1]
-{NPC_ENTER:winnie}{SAY}我的探测器发现处于危险中的植物。
+{NPC_ENTER:winnie}{SAY}Meine Detektoren haben gefährdete Pflanzen entdeckt.
 
 [NARRATIVE_EGYPT_CHALLENGE_PROTECTPLANTS_B_2]
-{NPC_ENTER:crazydave}{SPECIAL9:crazydave}还有谁会拯救这些植物？谁呢？！？？
+{NPC_ENTER:crazydave}{SPECIAL9:crazydave}Wer sonst wird diese Pflanzen retten? Wer? ! ? ?
 
 [NARRATIVE_EGYPT_CHALLENGE_PROTECTPLANTS_C_1]
-{NPC_ENTER:winnie}{SAY:winnie}墓碑太多。先清除掉它们。
+{NPC_ENTER:winnie}{SAY:winnie}Zu viele Grabsteine. Entferne sie zuerst.
 
 [NARRATIVE_EGYPT_CHALLENGE_PROTECTPLANTS_C_2]
-{NPC_ENTER:crazydave}{SHOUT:crazydave}啊，我可有密集恐惧症阿！
+{NPC_ENTER:crazydave}{SHOUT:crazydave}Ah, ich habe Trypophobie!
 
 [NARRATIVE_EGYPT_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}欢迎来到神秘的埃及！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Willkommen im geheimnisvollen Ägypten!
 
 [NARRATIVE_EGYPT_INTRO_FIRSTLEVEL_2]
-{SAY:winnie}你的玉米卷还需……4500年即可准备完毕
+{SAY:winnie}Deine Tacos sind in ... 4.500 Jahren fertig.
 
 [NARRATIVE_EGYPT_INTRO_FIRSTLEVEL_3]
-{SAY:crazydave}闻起来味道不太对。
+{SAY:crazydave}Irgendetwas riecht komisch.
 
 [NARRATIVE_EGYPT_INTRO_FIRSTLEVEL_4]
-{PLAYFUL}我敢打赌，玉米卷就在附近，不过首先…
+{PLAYFUL}Ich wette, die Tacos sind in der Nähe, aber zuerst ...
 
 [NARRATIVE_EGYPT_INTRO_FIRSTLEVEL_5]
-{PLAYFUL}我们得先种点植物防备僵尸。
+{PLAYFUL}Wir müssen ein paar Pflanzen pflanzen, um Zombies fernzuhalten.
 
 [NARRATIVE_EGYPT_INTRO_LASTLEVEL_1]
-{NPC_ENTER:crazydave}{SPECIAL7}哇！我们已经超越极限了！看那些僵尸，比我还疯狂！
+{NPC_ENTER:crazydave}{SPECIAL7}Wow! Wir haben unsere Grenzen überschritten! Schau dir diese Zombies an, die sind verrückter als ich!
 
 [NARRATIVE_EGYPT_OUTRO_LASTTLEVEL_1]
-{NPC_ENTER:winnie}{TIRED}{START_DIALOG_MUSIC}那是最后一个木乃伊了。
+{NPC_ENTER:winnie}{TIRED}{START_DIALOG_MUSIC}Das ist die letzte Mumie.
 
 [NARRATIVE_EGYPT_OUTRO_LASTTLEVEL_2]
-{NPC_ENTER:crazydave}{SPECIAL8}哈哈！那就是个裹着卷筒纸的僵尸！！！
+{NPC_ENTER:crazydave}{SPECIAL8}Haha! Das ist ein Zombie, eingewickelt in Toilettenpapier!!!
 
 [NARRATIVE_EGYPT_OUTRO_LASTTLEVEL_3]
-{SAY:winnie}仪器数据显示…
+{SAY:winnie}Die Instrumentendaten zeigen...
 
 [NARRATIVE_EGYPT_OUTRO_LASTTLEVEL_4]
-{TIRED:winnie}戴夫一直在找机会说这个笑话。
+{TIRED:winnie}Dave hat nach einer Gelegenheit gesucht, diesen Witz zu erzählen.
 
 [NARRATIVE_EGYPT_OUTRO_LASTTLEVEL_5]
-{PLAYFUL:crazydave}你知道比卷筒纸更好的东西是什么吗？一个玉米卷。我们出发！
+{PLAYFUL:crazydave}Weißt du, was besser ist als Toilettenpapier? Ein Taco. Los geht's!
 
 [NARRATIVE_EGYPT_STAR_INTRO_1]
 {NPC_ENTER:crazydaveicon}{AUFGEWUNDEN}Sieh mal! Ein Stern ist auf der Zeitkarte erschienen!
@@ -3653,25 +3653,25 @@ auf der wir Pflanzen und andere nützliche Gegenstände finden können.
 {SAY:crazydaveicon}So viele Sterne, verrückt genug! Los geht's!
 
 [NARRATIVE_WIZARDFINGER_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}强化道具上线了，攻击
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Verbesserungsgegenstände sind online, Angriff
 
 [NARRATIVE_WIZARDFINGER_2]
-{SAY:crazydave}{EXCITED}{MEDIUM}好像施了魔法，但更棒！
+{SAY:crazydave}{EXCITED}{MEDIUM}Es ist wie Magie, nur besser!
 
 [NARRATIVE_WIZARDFINGER_3]
-{SAY:winnie}任何用先进技术解决的方案都像魔法般华丽。
+{SAY:winnie}Jede Lösung, die fortschrittliche Technologie nutzt, wird magisch erscheinen.
 
 [NARRATIVE_YETI_INTRO_1]
-{NPC_ENTER:winnieicon}{PLAYFUL}潘妮报告，发现一块植物碎片。
+{NPC_ENTER:winnieicon}{PLAYFUL}Penny berichtet, dass sie ein Stück Pflanzenreste gefunden hat.
 
 [NARRATIVE_YETI_INTRO_2]
-{NPC_ENTER:crazydaveicon}{PLAYFUL}噢，它在散发着诱人的味道，赶紧过去！
+{NPC_ENTER:crazydaveicon}{PLAYFUL}Oh, es riecht so verführerisch, komm schnell rüber!
 
 [NEW_CONTENT_DOWNLOADING]
 Lädt neuen Inhalt herunter…
 
 [NEW_HERO_EVENT_HEADER]
-英雄事迹开始记载了！
+Heldentaten werden nun aufgezeichnet!
 
 [NEW_USER]
 Neuer Benutzer
@@ -4039,265 +4039,269 @@ Goldmünzen-Pflanzenpaket
 Goldmünzen-Pflanzenpaket
 
 [product_15_description]
-钥匙之门-神秘埃及-种子保卫战
+Schlüsseltor – Mysteriöses Ägypten – Samenabwehr
 
 [product_15_name]
-钥匙之门-神秘埃及-种子保卫战
+Schlüsseltor – Mysteriöses Ägypten – Samenabwehr
 
 [product_15_short_description]
-钥匙之门-神秘埃及-种子保卫战
+Schlüsseltor – Mysteriöses Ägypten – Samenabwehr
 
 [product_16_description]
-钥匙之门-神秘埃及-植物危机
+Schlüsseltor – Mysteriöses Ägypten – Pflanzenkrise
 
 [product_16_name]
-钥匙之门-神秘埃及-植物危机
+Schlüsseltor – Mysteriöses Ägypten – Pflanzenkrise
 
 [product_16_short_description]
-钥匙之门-神秘埃及-植物危机
+Schlüsseltor – Mysteriöses Ägypten – Pflanzenkrise
 
 [product_17_description]
-钥匙之门-神秘埃及-木乃伊回忆
+Schlüsseltor – Mysteriöses Ägypten – Mumienerinnerungen
 
 [product_17_name]
-钥匙之门-神秘埃及-木乃伊回忆
+Schlüsseltor – Mysteriöses Ägypten – Mumienerinnerungen
 
-[product_17_short_description]
-钥匙之门-神秘埃及-木乃伊回忆
+[product_17_name]
+Schlüsseltor – Mysteriöses Ägypten – Mumienerinnerungen
+
+[product_17_description]
+Schlüsseltor – Mysteriöses Ägypten – Mumienerinnerungen ct_17_short_description]
+Schlüsseltor – Geheimnisvolles Ägypten – Mumienerinnerungen
 
 [product_18_description]
-钥匙之门-神秘埃及-坚不可摧
+Schlüsseltor – Geheimnisvolles Ägypten – Unzerstörbar
 
 [product_18_name]
-钥匙之门-神秘埃及-坚不可摧
+Schlüsseltor – Geheimnisvolles Ägypten – Unzerstörbar
 
 [product_18_short_description]
-钥匙之门-神秘埃及-坚不可摧
+Schlüsseltor – Geheimnisvolles Ägypten – Unzerstörbar
 
 [product_19_description]
-时空之门-海盗港湾
+Zeit- und Raumtor – Piratenhafen
 
 [product_19_name]
-时空之门-海盗港湾
+Zeit- und Raumtor – Piratenhafen
 
 [product_19_short_description]
-时空之门-海盗港湾
+Zeit- und Raumtor – Piratenhafen
 
 [product_2_description]
-获得更多金币，享受更多快乐
+Mehr Münzen, mehr Spaß
 
 [product_2_name]
-金币包 20000
+Münzpaket 20.000
 
 [product_2_short_description]
-金币包 20000
+Münzpaket 20.000
 
 [product_20_description]
-时空之门-狂野西部
+Zeit- und Raumtor – Wild Westen
 
 [product_20_name]
-时空之门-狂野西部
+Zeit- und Raumtor – Wilder Westen
 
 [product_20_short_description]
-时空之门-狂野西部
+Zeit- und Raumtor – Wilder Westen
 
 [product_21_description]
-发射令僵尸缓慢移动的豌豆。
+Schießt Erbsen ab, die Zombies verlangsamen.
 
 [product_21_name]
-植物-冰冻豌豆
+Pflanze – Gefrorene Erbsen
 
 [product_21_short_description]
-寒冰射手
+Eiswerfer
 
 [product_22_description]
-压扁一个身边的僵尸。
+Zerschmettert einen Zombie in der Nähe.
 
 [product_22_name]
-植物-窝瓜
+Pflanze – Melone
 
 [product_22_short_description]
-窝瓜
+Milchmelone
 
 [product_23_description]
-点燃豌豆，造成两倍伤害。
+Entzündet Erbsen und verursacht doppelten Schaden.
 
 [product_23_name]
-植物-火炬树桩
+Pflanze – Fackelholz
 
 [product_23_short_description]
-火炬树桩
+Fackelholz
 
 [product_24_description]
-+1 个能量豆卡槽！
++1 Energiebohnen-Kartenplatz!
 
 [product_24_name]
-强化-能量豆奖励道具
+Verbesserung – Energiebohnen-Belohnungsgegenstand
 
 [product_24_short_description]
-能量豆奖励道具
+Energiebohnen-Belohnungsgegenstand
 
 [product_25_description]
-钥匙之门-海盗港湾-坚不可摧
+Schlüsseltor – Piratenbucht – Unzerstörbar
 
 [product_25_name]
-钥匙之门-海盗港湾-坚不可摧
+Schlüsseltor – Piratenbucht – Unzerstörbar
 
 [product_25_short_description]
-钥匙之门-海盗港湾-坚不可摧
+Schlüsseltor – Piratenbucht – Unzerstörbar
 
 [product_26_description]
-钥匙之门-海盗港湾-加农炮之战
+Schlüsseltor – Piratenbucht – Kanonenkampf
 
 [product_26_name]
-钥匙之门-海盗港湾-加农炮之战
+Schlüsseltor – Piratenbucht – Kanonenkampf
 
 [product_26_short_description]
-钥匙之门-海盗港湾-加农炮之战
+Schlüsseltor – Piratenbucht – Kanonenkampf
 
 [product_27_description]
-钥匙之门-海盗港湾-植物危机
+Schlüsseltor – Piratenbucht – Pflanzenkrise
 
 [product_27_name]
-钥匙之门-海盗港湾-植物危机
+Schlüsseltor – Piratenbucht – Pflanzenkrise
 
 [product_27_short_description]
-钥匙之门-海盗港湾-植物危机
+Schlüsseltor – Piratenbucht – Pflanze Krise
 
 [product_28_description]
-钥匙之门-海盗港湾-种子保卫战
+Schlüsseltor – Piratenbucht – Samenverteidigung
 
 [product_28_name]
-钥匙之门-海盗港湾-种子保卫战
+Schlüsseltor – Piratenbucht – Samenverteidigung
 
 [product_28_short_description]
-钥匙之门-海盗港湾-种子保卫战
+Schlüsseltor – Piratenbucht – Samenverteidigung
 
 [product_29_description]
-钥匙之门-狂野西部-坚不可摧
+Schlüsseltor – Wilder Westen – Unzerstörbar
 
 [product_29_name]
-钥匙之门-狂野西部-坚不可摧
+Schlüsseltor – Wilder Westen – Unzerstörbar
 
 [product_29_short_description]
-钥匙之门-狂野西部-坚不可摧
+Schlüsseltor – Wilder Westen – Unzerstörbar
 
 [product_3_description]
-这可以给我买几样好东西！
+Damit kann ich mir ein paar Leckereien kaufen!
 
 [product_3_name]
-金币礼包10000
+Goldmünzen-Geschenkpaket 10.000
 
 [product_3_short_description]
-金币礼包10000
+Goldmünzen-Geschenkpaket 10.000
 
 [product_30_description]
-钥匙之门-狂野西部-围栏之战
+Key Gate – Wilder Westen – Zaunschlacht
 
 [product_30_name]
-钥匙之门-狂野西部-围栏之战
+Key Gate – Wilder Westen – Zaunschlacht
 
 [product_30_short_description]
-钥匙之门-狂野西部-围栏之战
+Key Gate – Wilder Westen – Zaunschlacht
 
 [product_31_description]
-钥匙之门-狂野西部-植物危机
+Key Gate – Wilder Westen – Pflanzenkrise
 
 [product_31_name]
-钥匙之门-狂野西部-植物危机
+Keygate – Wilder Westen – Pflanzenkrise
 
 [product_31_short_description]
-钥匙之门-狂野西部-植物危机
+Keygate – Wilder Westen – Pflanzenkrise
 
 [product_32_description]
-钥匙之门-狂野西部-种子保卫战
+Keygate – Wilder Westen – Saatgutverteidigung
 
 [product_32_name]
-钥匙之门-狂野西部-种子保卫战
+Keygate – Wilder Westen – Saatgutverteidigung
 
 [product_32_short_description]
-钥匙之门-狂野西部-种子保卫战
+Keygate – Wilder Westen – Saatgut Verteidigung
 
 [product_33_description]
-压扁敌人，购买一些能量豆，并得到一把嘉奖阳光铲！
+Vernichte Gegner, kaufe Energiebohnen und erhalte eine lohnende Sonnenschaufel!
 
 [product_33_name]
-包-初始包
+Starterpaket
 
 [product_33_short_description]
-初始包
+Starterpaket
 
 [product_34_description]
-好多金币！
+Jede Menge Münzen!
 
 [product_34_name]
-金币礼包200000
+Goldmünzenpaket 200.000
 
 [product_34_short_description]
-金币礼包200000
+Goldmünzenpaket 200.000
 
 [product_35_description]
-点燃僵尸，使用道具强化道具，使用额外一种植物！
+Zombie entzünden, Requisiten verstärken und eine zusätzliche Pflanze einsetzen!
 
 [product_35_name]
-包-火炬
+Fackel-Paket
 
 [product_35_short_description]
-火炬包
+Fackel-Paket
 
 [product_4_description]
-金币堆
+Goldmünzenstapel
 
 [product_4_name]
-金币礼包40000
+Goldmünzen-Paket 40.000
 
 [product_4_short_description]
-金币礼包40000
+Goldmünzen-Paket 40.000
 
 [product_5_description]
-有钱了！
+Geld ist im Sack!
 
 [product_5_name]
-金币礼包100000
+Goldmünzen-Paket 100.000
 
 [product_5_short_description]
-金币礼包100000
+Goldmünzen-Paket 100.000
 
 [product_6_description]
-一大波金币！
+Eine große Welle Goldmünzen!
 
 [product_6_name]
-金币礼包150000
+Goldmünzen-Paket 150.000
 
 [product_6_short_description]
-金币礼包150000
+Goldmünzen-Paket 150.000
 
 [product_7_description]
-制造一颗能量豆。
+Erstelle eine Energiebohne.
 
 [product_7_name]
-植物——能量花
+Pflanze – Energieblume
 
 [product_7_short_description]
-能量花
+Energieblume
 
 [product_8_description]
-点燃一整排的僵尸。
+Zünde eine ganze Reihe Zombies an.
 
 [product_8_name]
-植物——火爆辣椒
+Pflanze – Scharfer Pfeffer
 
 [product_8_short_description]
-火爆辣椒
+Scharfer Pfeffer
 
 [product_9_description]
-复制一张植物卡片
+Pflanzenkarte kopieren
 
 [product_9_name]
-植物——变身茄子
+Pflanze – Verwandle dich in eine Aubergine
 
 [product_9_short_description]
-变身茄子
+Verwandle dich in eine Aubergine
 
 [PROFILE_ADD_PHOTO]
 Foto hinzufügen
@@ -4775,69 +4779,70 @@ Feuert eine Salve gefrorener Erbsen und belegt die eigene Reihe mit einer alles 
 Verschießt gefrorene Erbsen, die Zombies schädigen und aufhalten
 
 [MANDRAKE]
-酷跑曼德拉
+Cool Running Mandela
 
 [MANDRAKE_DESCRIPTION]
-{KEYWORD}特殊：{STAT}向前奔跑
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}欢迎回到比赛现场，这里是第一届植物跑酷大赛。本届夺冠大热门酷跑曼德拉正在场边热身，他的目标是世界第一，是星辰大海！
+{KEYWORD}Spezial: {STAT}Vorwärtslaufen
+{KEYWORD}Pflanzen-Features: {STAT}Grüne Pflanzen
+{FLAVOR}Willkommen zurück auf der Wettbewerbsseite! Dies ist der erste Pflanzen-Parkour-Wettbewerb. Cool Running Mandela, der diesjährige Favorit, macht sich am Spielfeldrand warm. Sein Ziel ist es, die Nummer eins der Welt zu werden – die Sterne und das Meer!
 
 [MANDRAKE_DESCRIPTION_HEADER]
-酷跑曼德拉能够向前奔跑，遇到僵尸时可以触发跑酷动作。
+Cool Running Mandela kann vorwärtslaufen und Parkour-Moves auslösen, wenn er auf Zombies trifft.
 
 [MANDRAKE_TOOLTIP]
-酷跑曼德拉能够向前奔跑，遇到僵尸时可以触发跑酷动作。
+Cool Running Mandela kann vorwärtslaufen und Parkour-Moves auslösen, wenn er auf Zombies trifft.
 
 [MANDRAKE_PRODUCT_SHORT_DESC]
-酷跑曼德拉能够向前奔跑，遇到僵尸时可以触发跑酷动作。
+Cool Running Mandela kann vorwärtslaufen und Parkour-Moves auslösen, wenn er auf Zombies trifft.
 
 [MANDRAKE_SKILL_LEVEL1]
-幻影冲刺
+Phantomsprint
 
 [MANDRAKE_SKILL_LEVEL1_DES]
-曼德拉生长时有概率出现幻影曼德拉，提升伤害和控制时间。
+Wenn Mandrake wächst, besteht die Chance, dass eine Phantommandrake erscheint, die Schaden und Kontrollzeit erhöht.
 
 [MANDRAKE_SKILL_LEVEL2]
-强化幻影
+Stärkt das Phantom
 
 [MANDRAKE_SKILL_LEVEL2_DES]
-提升出现幻影曼德拉的概率
+Erhöht die Wahrscheinlichkeit von Phantom-Mandrake
 
 [MANDRAKE_SKILL_LEVEL5]
-霹雳一闪
+Ein Blitz
 
 [MANDRAKE_SKILL_LEVEL5_DES]
-第三次生长将出现变异株，击退三格内的中小型僵尸，麻痹大型僵尸3秒
+Das dritte Wachstum erzeugt Mutanten, die kleine und mittlere Zombies innerhalb von drei Feldern abwehren und große Zombies 3 Sekunden lang lähmen.
 
 [STORE_PRODUCT_AVATAR_MANDRAKE_TITLE]
-酷跑曼德拉装扮
+Cooles Mandrake-Kostüm
 
 [MANDRAKE_AVATAR_NAME]
-酷跑曼德拉装扮
+Cooles Mandrake-Kostüm
 
 [STORE_PRODUCT_AVATAR_MANDRAKE]
-大招对其他单位造成的伤害提高
+Die ultimative Fähigkeit erhöht den Schaden an anderen Einheiten.
 
 [MANDRAKE_NEW_SKILL_LEVEL1_DES]
-酷跑曼德拉向前奔跑，遇到僵尸时，将使用空翻或滑铲进行攻击，当僵尸身后没有僵尸时，曼德拉恢复奔跑。空翻：在僵尸头上进行弹射，碰撞到的僵尸将被0.5秒^848484^眩晕Ⅰ^oldclr^；滑铲：把僵尸铲起浮空0.5秒，巨人僵尸^848484^眩晕Ⅰ^oldclr^0.5秒
+Cooles Mandrake-Kostüm rennt vorwärts. Wenn er auf Zombies trifft, greift er mit Saltos oder Rutschen an. Sobald keine Zombies mehr hinter ihm sind, rennt Mandrake weiter. Salto: Stürzt man sich auf den Kopf des Zombies, wird der getroffene Zombie 0,5 Sekunden lang betäubt.^848484^Ⅰ^oldclr^; Rutschen: Schaufelt den Zombie hoch und lasst ihn 0,5 Sekunden lang schweben. Betäubt den Riesenzombie ^848484^Ⅰ^oldclr^0,5 Sekunden.
 
 [MANDRAKE_NEW_SKILL_LEVEL2_DES]
-酷跑曼德拉在生长时有30%概率出现幻影曼德拉，在奔跑时身后出现幻影，对僵尸造成的伤害变成2倍，且^848484^眩晕Ⅰ^oldclr^时间变为1秒
+Wenn die Cool Running Mandrake wächst, besteht eine 30%ige Chance, dass beim Laufen eine Phantom-Mandrake dahinter erscheint. Der Schaden am Zombie verdoppelt sich und die Betäubungszeit ^848484^oldclr^ verkürzt sich auf 1 Sekunde.
 
 [MANDRAKE_NEW_SKILL_LEVEL3_DES]
-出现幻影曼德拉的概率变为60%
+Die Wahrscheinlichkeit, dass eine Phantom-Mandrake erscheint, erhöht sich auf 60 %.
 
 [MANDRAKE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen.
 
 [MANDRAKE_NEW_SKILL_LEVEL5_DES]
-每生长两个曼德拉草后，下一个曼德拉草将出现变异株，变异株向前冲刺，遇到僵尸时，将使用霹雳一闪，向前快速冲刺3格，将范围内的中小型僵尸随机向上下行击退，大型僵尸^ff9600^麻痹Ⅰ^oldclr^在原地3秒，冲刺完毕后，变异株变为正常状态
+Nach jeweils zwei wachsenden Mandrakes erscheint ein Mutant im nächsten Mandrake. Der Mutant sprintet vorwärts. Trifft er auf Zombies, nutzt er Donnerblitz, um drei Felder vorwärts zu sprinten. Dabei stößt er zufällig kleine und mittelgroße Zombies in der Umgebung nach oben und unten zurück und lähmt große Zombies für 3 Sekunden. Nach dem Sprint kehrt der Mutant in seinen Normalzustand zurück.
+
 
 [MANDRAKE_PLANTFOOD_DESCRIPTION]
-酷跑曼德拉向前高速冲锋，将整行的中小型僵尸击飞，对其他单位造成伤害。该秒杀无阶数限制。
+Cool Running Mandrake stürmt mit hoher Geschwindigkeit vorwärts, stößt die gesamte Reihe kleiner und mittelgroßer Zombies weg und fügt anderen Einheiten Schaden zu. Die Anzahl der Ränge dieses Sofortkills ist unbegrenzt.
 
 [MANDRAKE_AVATAR_PLANTFOOD_DESCRIPTION]
-酷跑曼德拉向前高速冲锋，将整行的中小型僵尸击飞，对其他单位造成^ff0000^大量^oldclr^伤害。可秒杀僵尸的阶数一般不超过植物本身阶数的2倍。
+Cool Running Mandrake stürmt mit hoher Geschwindigkeit vorwärts, stößt die gesamte Reihe kleiner und mittelgroßer Zombies weg und fügt anderen Einheiten ^ff0000^ großen ^oldclr^ Schaden zu. Der Rang der Zombies, die sofort getötet werden können, übersteigt in der Regel nicht das Doppelte des Rangs der Pflanze selbst.
 
 [HERO]
 Held
@@ -4864,85 +4869,84 @@ Klicke erneut, um die Kampffertigkeit zu erweitern und der Heldenpflanze einen B
 Minispiel: Zauberpilz
 
 [MINIGAME_IMITATER_TOOLTIP]
-
+Imitator Minispiel
 
 [ARMORFLAME]
-植甲拼装者-炎星
+Rüstungsmonteur – Flammenstern
 
 [ARMORFLAME_TALENT_NAME_1]
-^2f8101^强化扩散^oldclr^
+^2f8101^Verbesserte Diffusion^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_1_0]
-^573701^强化状态能使周围植物获得火属性攻击加成，每层强化提升^oldclr^^2f8101^3%^oldclr^
+^573701^Der verbesserte Zustand verleiht umliegenden Pflanzen einen Angriffsbonus auf das Feuerattribut. Jede Verbesserungsstufe erhöht sich^oldclr^^2f8101^3 %^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_1_0_PRESS]
-^573701^强化状态能使周围植物获得火属性攻击加成，每层强化提升^oldclr^^2f8101^3%^oldclr^
-^573701^(点击升级)^oldclr^
+^573701^Der verbesserte Zustand verleiht umliegenden Pflanzen einen Angriffsbonus auf das Feuerattribut. Jede Verbesserungsstufe erhöht sich^oldclr^^2f8101^3 %^oldclr^
+^573701^(Zum Verbessern klicken)^oldclr^
 
-[ARMORFLAME_TALENT_DESCRIPTION_1_1]
-^573701^强化状态能使周围植物获得火属性攻击加成，每层强化提升^oldclr^^2f8101^6%^oldclr^
+[ARMORFLAME_ TALENT_DESCRIPTION_1_1]
+^573701^Der verbesserte Zustand verleiht umliegenden Pflanzen einen Angriffsbonus auf das Feuerattribut. Jede Verbesserungsstufe erhöht sich^oldclr^^2f8101^3 %^oldclr^ Bonus, und jede Verstärkungsstufe erhöht ^oldclr^^2f8101^6 % ^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_1_1_PRESS]
-^573701^强化状态能使周围植物获得火属性攻击加成，每层强化提升^oldclr^^2f8101^6%^oldclr^
-^573701^(点击升级)^oldclr^
+^573701^Der verstärkte Zustand verleiht den umliegenden Pflanzen einen Angriffsbonus mit Feuerattribut. Jede Verstärkungsstufe erhöht ^oldclr^^2f8101^6 % ^oldclr^
+^573701^(Zum Upgrade klicken) ^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_1_2]
-^573701^强化状态能使周围植物获得火属性攻击加成，每层强化提升^oldclr^^2f8101^9%^oldclr^
-^573701^且额外提供^oldclr^^2f8101^20%^oldclr^^573701^攻击速度加成^oldclr^
+^573701^Der verstärkte Zustand verleiht den umliegenden Pflanzen einen Angriffsbonus mit Feuerattribut. Jede Verstärkungsstufe erhöht ^oldclr^^2f8101^9 % ^oldclr^
+^573701^ und verleiht zusätzlich ^oldclr^^2f8101^20 % ^oldclr^^573701^ Angriffsgeschwindigkeit Bonus^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_1_2_PRESS]
-^573701^强化状态能使周围植物获得火属性攻击加成，每层强化提升^oldclr^^2f8101^9%^oldclr^^573701^，且额外提供^oldclr^^2f8101^20%^oldclr^^573701^攻击速度加成^oldclr^
-^573701^(点击升级)^oldclr^
+^573701^ Der verbesserte Zustand verleiht den umliegenden Pflanzen einen Angriffsbonus auf das Feuerattribut. Jede Verstärkungsstufe erhöht ^oldclr^^2f8101^9 %^oldclr^^573701^ und gewährt zusätzlich ^oldclr^^2f8101^20 %^oldclr^^573701^ Angriffsgeschwindigkeitsbonus^oldclr^
+^573701^(Zum Upgrade klicken)^oldclr^
 
 [ARMORFLAME_TALENT_NAME_2]
-^2f8101^针刺增强^oldclr^
+^2f8101^ Nadelverstärkung^oldclr^
 
-[ARMORFLAME_TALENT_DESCRIPTION_2_0]
-^573701^针刺子弹的伤害倍率提升^oldclr^^2f8101^2.5%^oldclr^
+[ARMO RFLAME_TALENT_DESCRIPTION_2_0]
+^573701^Der Schadensmultiplikator des Nadelgeschosses wurde erhöht^oldclr^^2f8101^2,5 %^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_2_0_PRESS]
-^573701^针刺子弹的伤害倍率提升^oldclr^^2f8101^2.5%^oldclr^
-^573701^(点击升级)^oldclr^
+^573701^Der Schadensmultiplikator des Nadelgeschosses wurde erhöht^oldclr^^2f8101^2,5 %^oldclr^
+^573701^(Klicken zum Verbessern)^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_2_1]
-^573701^针刺子弹的伤害倍率提升^oldclr^^2f8101^5%^oldclr^
+^573701^Der Schadensmultiplikator des Nadelgeschosses wurde erhöht^oldclr^^2f8101^5 %^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_2_1_PRESS]
-^573701^针刺子弹的伤害倍率提升^oldclr^^2f8101^5%^oldclr^
-^573701^(点击升级)^oldclr^
+^573701^Der Schadensmultiplikator des Nadelgeschosses wurde erhöht^oldclr^^2f8101^5 %^oldclr^
+^573701^(Klicken zum Upgrade)^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_2_2]
-^573701^针刺子弹的伤害倍率提升^oldclr^^2f8101^7.5%^oldclr^^573701^，且针刺子弹首次命中有^oldclr^^2f8101^50%^oldclr^^573701^概率穿透一次^oldclr^
+^573701^Der Schadensmultiplikator des Nadelgeschosses wird um ^oldclr^^2f8101^7,5 %^oldclr^^573701^ erhöht, und die Wahrscheinlichkeit, dass das Nadelgeschoss einmal durchschlägt, beträgt^oldclr^^2f8101^50 %^oldclr^^573701^
 
 [ARMORFLAME_TALENT_DESCRIPTION_2_2_PRESS]
-^573701^针刺子弹的伤害倍率提升^oldclr^^2f8101^7.5%^oldclr^^573701^，且针刺子弹首次命中有^oldclr^^2f8101^50%^oldclr^^573701^概率穿透一次^oldclr^
-^573701^(点击升级)^oldclr^
-
+^573701^Der Schadensmultiplikator des Nadelgeschosses wird um ^oldclr^^2f8101^7,5 %^oldclr^^573701^ erhöht, und der erste Treffer des Nadelgeschosses hat eine Durchschlagschance von^oldclr^^2f8101^50 %^oldclr^^573701^ einmal^oldclr^
+^573701^(Zum Upgrade klicken)^oldclr^
 
 [ARMORFLAME_TALENT_NAME_3]
-^2f8101^大型克星^oldclr^
+^2f8101^Große Nemesis^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_3_0]
-^573701^钻头子弹穿透造成的伤害倍率提升^oldclr^^2f8101^20%^oldclr^
+^573701^Schadensmultiplikator für Bohrgeschossdurchdringung erhöht^oldclr^^2f8101^20 %^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_3_0_PRESS]
-^573701^钻头子弹穿透造成的伤害倍率提升^oldclr^^2f8101^20%^oldclr^
-^573701^(点击升级)^oldclr^
+^573701^Schadensmultiplikator für Bohrgeschossdurchdringung erhöht^o ldclr^^2f8101^20 %^oldclr^
+^573701^(Zum Upgrade klicken)^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_3_1]
-^573701^钻头子弹穿透造成的伤害倍率提升^oldclr^^2f8101^40%^oldclr^
+^573701^Schadensmultiplikator durch Bohrgeschossdurchdringung Erhöht^oldclr^^2f8101^40 %^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_3_1_PRESS]
-^573701^钻头子弹穿透造成的伤害倍率提升^oldclr^^2f8101^40%^oldclr^
-^573701^(点击升级)^oldclr^
+^573701^Schadensmultiplikator durch Bohrgeschossdurchdringung erhöht^oldclr^^2f8101^40 %^oldclr^
+^573701^(Zum Upgrade klicken)^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_3_2]
-^573701^钻头子弹穿透造成的伤害倍率提升^oldclr^^2f8101^60%^oldclr^
-^573701^，且穿透的飞行速度降低^oldclr^^2f8101^50%^oldclr^^573701^，钻头存在时间延长^oldclr^^2f8101^2^oldclr^^573701^秒^oldclr^
+^573701^Schadensmultiplikator durch Bohrgeschossdurchdringung erhöht^oldclr^^2f8101^40 %^oldclr^Schadensmultiplikator erhöht^oldclr^^2f8101^60 %^oldclr^
+^573701^, und die Durchdringungsfluggeschwindigkeit verringert^oldclr^^2f8101^50 %^oldclr^^573701^, die Lebensdauer des Bohrers wurde verlängert^oldclr^^2f8101^2^oldclr^^573701^Sekunden^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_3_2_PRESS]
-^573701^，且穿透的飞行速度降低^oldclr^^2f8101^50%^oldclr^^573701^，钻头存在时间延长^oldclr^^2f8101^2^oldclr^^573701^秒^oldclr^
-^573701^(点击升级)^oldclr^
+^573701^, die Durchschlagsgeschwindigkeit wurde reduziert^oldclr^^2f8101^50 %^oldclr^^573701^, die Bohrer-Lebensdauer wurde verlängert^oldclr^^2f8101^2^oldclr^^573701^Sekunden^oldclr^
+^573701^(Zum Upgrade klicken)^oldclr^
 
 [METEORFLOWER]
 流星花
@@ -5010,69 +5014,69 @@ Minispiel: Zauberpilz
 在流星花前方一格召唤^ff0000^5颗并列的行星陨石^oldclr^，攻击落地点的僵尸并向前滚动向前滚动，释放大招后，将吓跑场地上所有的敌方恐龙。
 
 [SARRACENIA]
-蛇妖瓶子草
+Schlangenkannenpflanze
 
 [SARRACENIA_DESCRIPTION]
-{KEYWORD}特殊：{STAT}石化僵尸
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}“我只是想给它们抛个媚眼，但就都变成石像了，真无趣~”在“僵尸最害怕的植物”评选的获奖台上，蛇妖瓶子草如是说道。
+{KEYWORD}Spezial: {STAT}Versteinerte Zombies
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen
+{FLAVOR}„Ich wollte nur mit ihnen flirten, aber sie haben sich alle in Steinstatuen verwandelt. Wie langweilig~“, sagte die schlangenartige Kannenpflanze auf der preisgekrönten Bühne der „Zombie's Most Feared Plants“-Auswahl.
 
 [SARRACENIA_DESCRIPTION_HEADER]
-蛇妖瓶子草能够石化僵尸，也能发射蛇灵对僵尸造成伤害。
+Die Schlangenkannenpflanze kann Zombies versteinern und Schlangengeister freisetzen, die Zombies Schaden zufügen.
 
 [SARRACENIA_TOOLTIP]
-蛇妖瓶子草能够石化僵尸，也能发射蛇灵对僵尸造成伤害。
+Die Schlangenkannenpflanze kann Zombies versteinern und Schlangengeister freisetzen, die Zombies Schaden zufügen.
 
 [SARRACENIA_PRODUCT_SHORT_DESC]
-蛇妖瓶子草能够石化僵尸，也能发射蛇灵对僵尸造成伤害。
+Die Schlangenkannenpflanze kann Zombies versteinern und Schlangengeister freisetzen, die ihnen Schaden zufügen.
 
 [SARRACENIA_SKILL_LEVEL1]
-快速恢复
+Schnelle Erholung
 
 [SARRACENIA_SKILL_LEVEL1_DES]
-休息时间减少3秒，缩短至17秒
+Die Ruhezeit wird um 3 Sekunden auf 17 Sekunden verkürzt.
 
 [SARRACENIA_SKILL_LEVEL2]
-极速恢复
+Schnelle Erholung
 
 [SARRACENIA_SKILL_LEVEL2_DES]
-休息时间再减少3秒，缩短至14秒
+Die Ruhezeit wird um weitere 3 Sekunden auf 14 Sekunden verkürzt.
 
 [SARRACENIA_SKILL_LEVEL5]
-终极石化
+Ultimative Versteinerung
 
 [SARRACENIA_SKILL_LEVEL5_DES]
-石化攻击有60%概率变为强化石化射线，使2个僵尸石化成40%生命值的石像。
+Der Versteinerungsangriff hat eine 60%ige Chance, zu einem verstärkten Versteinerungsstrahl zu werden, der zwei Zombies zu Steinstatuen mit 40% Gesundheit versteinert.
 
 [STORE_PRODUCT_AVATAR_SARRACENIA_TITLE]
-蛇妖瓶子草装扮
+Schlangendämonen-Pechkraut-Kostüm
 
 [SARRACENIA_AVATAR_NAME]
-蛇妖瓶子草装扮
+Schlangendämonen-Pechkraut-Kostüm
 
 [STORE_PRODUCT_AVATAR_SARRACENIA]
-大招释放的石化凝视变为更大的扇形范围
+Der versteinernde Blick der ultimativen Fähigkeit hat eine größere fächerförmige Reichweite.
 
 [SARRACENIA_NEW_SKILL_LEVEL1_DES]
-每隔3秒发射蛇灵对僵尸造成伤害。当蛇灵经过毒系植物后，会附毒对僵尸施加持续5秒、每秒15点伤害的^701edf^中毒Ⅰ^oldclr^状态，并能蛇行对其他僵尸攻击，穿过毒系植物越多攻击次数越多。植物完成蓄力出现绿光，僵尸靠近后自动触发或点击后手动触发石化，使单个3阶以下中小型僵尸变为80%生命值的石像，不可石化的僵尸则^848484^眩晕Ⅰ^oldclr^5秒。
+Schlangengeister werden alle 3 Sekunden abgefeuert, um Zombies Schaden zuzufügen. Wenn der Schlangengeist giftige Pflanzen durchdringt, vergiftet er die Zombies und verursacht 5 Sekunden lang den Status „vergiftet Ⅰ^oldclr^“ und 15 Schadenspunkte pro Sekunde. Er kann sich schlängeln, um andere Zombies anzugreifen. Je mehr giftige Pflanzen er durchdringt, desto mehr Angriffe stehen ihm zur Verfügung. Wenn die Pflanze vollständig aufgeladen ist, leuchtet ein grünes Licht. Nähert sich der Zombie, löst er automatisch die Versteinerung aus. Alternativ kann er durch Anklicken manuell ausgelöst werden. Dadurch verwandelt sich ein einzelner kleiner oder mittelgroßer Zombie unter Stufe 3 in eine Steinstatue mit 80 % Lebenspunkten. Zombies, die nicht versteinert werden können, werden 5 Sekunden lang betäubt.
 
 [SARRACENIA_NEW_SKILL_LEVEL2_DES]
-蛇妖瓶子草加快准备时间，休息时间缩短至17秒。石化的僵尸生效阶数上限变为3阶。
+Schlangenheugabel beschleunigt die Vorbereitungszeit und verkürzt die Ruhezeit auf 17 Sekunden. Die Obergrenze für versteinerte Zombies wurde auf Stufe 3 geändert.
 
 [SARRACENIA_NEW_SKILL_LEVEL3_DES]
-快速恢复的技能效果提升100%，休息时间缩短至14秒。石化的僵尸生效阶数上限变为5阶。
+Der Fertigkeitseffekt der schnellen Erholung wird um 100 % erhöht und die Ruhezeit auf 14 Sekunden verkürzt. Die Obergrenze des versteinerten Zombies wurde auf Stufe 5 geändert.
 
 [SARRACENIA_NEW_SKILL_LEVEL4_DES]
-种植时有低概率直接释放能量豆大招！石化的僵尸生效阶数上限变为7阶。
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Energiebohne direkt auszulösen! Die Obergrenze des versteinerten Zombies wurde auf Stufe 7 geändert.
 
 [SARRACENIA_NEW_SKILL_LEVEL5_DES]
-每次石化攻击时，有60%的概率变为每次使最左侧2个僵尸石化成40%生命值的石像。石化的僵尸生效阶数上限变为10阶。
+Bei jedem Angriff des versteinerten Zombies besteht eine 60-prozentige Wahrscheinlichkeit, dass die beiden Zombies links zu Steinstatuen mit jeweils 40 % Lebenspunkten versteinert werden. Die Obergrenze des versteinerten Zombies wurde auf Stufe 10 geändert.
 
 [SARRACENIA_PLANTFOOD_DESCRIPTION]
-蛇妖瓶子草进入强化状态，使出范围石化凝视，对右侧扇形范围（7格）的所有僵尸施加石化攻击。
+Die Skorpionpflanze wird gestärkt und nutzt einen versteinernden Blick, um alle Zombies in einem fächerförmigen Bereich (7 Felder) rechts zu versteinern.
 
 [SARRACENIA_AVATAR_PLANTFOOD_DESCRIPTION]
-蛇妖瓶子草进入强化状态，使出范围石化凝视，对右侧^ff0000^更大扇形范围（13格）^oldclr^的所有僵尸施加石化攻击。
+Die Skorpionpflanze wird gestärkt und nutzt einen versteinernden Blick, um alle Zombies in einem ^ff0000^ größeren fächerförmigen Bereich (13 Felder) ^oldclr^ rechts zu versteinern.
 
 [POWERVINE]
 电能藤蔓
@@ -27713,234 +27717,235 @@ Du musst Tag 5 von „Geheimnisvolles Ägypten“ abschließen, um dieses Event 
 Du bist fast am Ziel und schaltest {PLANT} frei! Hol es dir jetzt!
 
 [LOCAL_NOTE_ALMOST_02]
-{ZOMBIE} 还以为你怕了呢！让它们瞧瞧你的本事！
+{ZOMBIE} Ich dachte, du hättest Angst! Zeig ihnen, was du kannst!
 
 [LOCAL_NOTE_ALMOST_03]
-{ZOMBIE} 它们想找机会吃掉你的脑子，让它们看看谁才是老大！
+{ZOMBIE} Sie wollen dein Gehirn fressen. Zeig ihnen, wer der Boss ist!
 
 [LOCAL_NOTE_LOD_BIRTHDAY_1]
-生日派对第3日开始了！快来玩，尝一口生日蛋糕PHAROAH吧！
+Der dritte Tag der Geburtstagsparty hat begonnen! Komm und iss von der Geburtstagstorte PHAROAH!
 
 [LOCAL_NOTE_LOD_BIRTHDAY_2]
-现在就来参与生日派对第4日的事件，僵尸还给你带来了礼物呢！
+Nimm jetzt am vierten Tag der Geburtstagsparty teil und nimm an den Events teil. Die Zombies haben dir Geschenke mitgebracht!
 
 [LOCAL_NOTE_LOD_BIRTHDAY_3]
-巨人僵尸来今天的生日派对上砸场子了。赶紧去收拾它！
+Der riesige Zombie ist heute zur Geburtstagsparty gekommen, um Ärger zu machen. Beeil dich und kümmere dich darum!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_1]
-盛宴派对第2日开始了！草坪上是不是有驯鹿的声音？快来玩吧！
+Der zweite Tag der Festparty hat begonnen! Hörst du schon Rentiere auf dem Rasen? Komm und spiel mit!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_10]
-盛宴派对看样子就快要结束了。只剩下几天而已。快来玩吧！
+Die Festparty scheint fast vorbei zu sein. Nur noch wenige Tage. Komm und spiel mit!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_11]
-今天是盛宴派对的最后一天！机不可失，失不再来！
+Heute ist der letzte Tag der Festparty! Nicht verpassen!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_2]
-当你在盛宴派对中赢得强化时，就能获得双倍雪球。雪球大战正式打响！
+Wenn du bei der Festparty einen Boost gewinnst, erhältst du die doppelte Menge Schneebälle. Die Schneeballschlacht ist offiziell eröffnet!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_3]
-赢取寒冰射手的冬帽作为收藏品。它会让你的大脑保持温暖。盛宴派对开始了！
+Gewinne die Wintermütze des Frostschützen als Sammlerstück. Sie hält dein Gehirn warm. Die Festtagsparty ist eröffnet!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_4]
-今天快来盛宴派对试试树脂投手。比水果蛋糕还黏糊糊的呢！赶快来玩。
+Probiert den Harzkrug heute auf der Festtagsparty. Er ist klebriger als Früchtekuchen! Kommt vorbei und spielt mit!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_5]
-连赢5场，就能从SEÑOR PIÑATA处获得特殊的盛宴派对奖励。它可喜欢节日庆典了呢！
+Gewinnt 5 Spiele in Folge und erhaltet eine besondere Festtagsparty-Belohnung von SEÑOR PIÑATA. Er liebt die Feiertage!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_6]
-盛宴派对第11天开始了！巨人僵尸已经小心地将小鬼僵尸挂好。可别错过噢！
+Festtagsparty-Tag 11 hat begonnen! Der Riesenzombie hat den Wichtelzombie sorgfältig aufgehängt. Nicht verpassen!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_7]
-树脂投手在盛宴派对第12日热力回归。松果，走开！
+Der Harzkrug ist an Festtagsparty-Tag 12 wieder im Einsatz. Weg mit den Tannenzapfen!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_8]
-快来盛宴派对热闹一番，带着清醒的脑子迎接新年吧！
+Komm zur Festtagsparty und feiere das neue Jahr mit klarem Kopf!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_9]
-盛宴派对开始了！假日还没结束，穿着丑陋毛衣的巨人僵尸也没停下。赶快来玩。
+Die Festtagsparty hat begonnen! Die Feiertage sind noch nicht vorbei, und die riesigen Zombies in den hässlichen Pullovern auch nicht. Komm und spiel jetzt!
 
 [LOCAL_NOTE_LOD_GOLIVE_01]
-24小时的僵尸秘密偷袭！在特殊的关卡中与来自世界各地的僵尸展开较量，赢取大奖！
+24-Stunden-Zombie-Geheimangriff! Bekämpfe Zombies aus aller Welt in Spezialleveln und gewinne tolle Preise!
 
 [LOCAL_NOTE_LOD_GOLIVE_02]
-24小时的僵尸派对关卡已开启！连续完成 {LARGE_PINATA_INTERVAL} 场派对，赢取更丰厚的奖励。
+Das 24-Stunden-Zombieparty-Level ist jetzt geöffnet! Schließe {LARGE_PINATA_INTERVAL} Partys hintereinander ab, um größere Belohnungen zu gewinnen.
 
 [LOCAL_NOTE_LOD_GOLIVE_03]
-彩罐派对现在开始了！世界各地的疯狂僵尸突然一起发难。快来玩吧！
+Die Piñata-Party hat begonnen! Verrückte Zombies aus aller Welt haben plötzlich gemeinsam angegriffen. Komm und spiel mit!
 
 [LOCAL_NOTE_LOD_GOLIVE_04]
-现在是彩罐派对时间。连续完成 {LARGE_PINATA_INTERVAL} 场派对，挑战SENOR PINATA！
+Zeit für die Piñata-Party. Schließe {LARGE_PINATA_INTERVAL} Partys in Folge ab, um SENOR PIÑATA herauszufordern!
 
 [LOCAL_NOTE_LOD_GOLIVE_05]
-24小时的僵尸派对时间到了！你的下一场彩罐派对已经就绪。快来玩吧！
+Zeit für die 24-Stunden-Zombie-Party! Deine nächste Piñata-Party ist bereit. Komm und spiel mit!
 
 [LOCAL_NOTE_LOD_GOLIVE_06]
-最后一场彩罐派对即将结束！结束之后快去打败SEÑOR PIÑATA吧。
+Die letzte Piñata-Party geht bald zu Ende! Sobald sie vorbei ist, besiege SEÑOR PIÑATA.
 
 [LOCAL_NOTE_LOD_GOLIVE_07]
-只剩下一场彩罐派对，即可挑战 {LARGE_PINATA_INTERVAL}连胜SEÑOR PIÑATA！即将结束。
+Nur noch eine Piñata-Party übrig, um {LARGE_PINATA_INTERVAL} SEÑOR PIÑATA in Folge herauszufordern! Endet bald.
 
 [LOCAL_NOTE_LOD_GOLIVE_08]
-你好啊，Piñata派对爱好者！赶快再接再厉，跟Señor Piñata较量较量。即将结束。
+Hallo, Piñata-Party-Fans! Beeilt euch und fordert Señor Piñata heraus. Es ist fast vorbei.
 
 [LOCAL_NOTE_LOD_PARTY_ANIMAL]
-Piñata派对爱好者！现在就去跟Señor Piñata较量吧。
+Piñata-Party-Fans! Stellt euch jetzt Señor Piñata.
 
 [LOCAL_NOTE_LOD_PARTY_TIME]
-Piñata派对时间到。连赢 {LARGE_PINATA_INTERVAL} 场即可挑战Señor Piñata！
+Es ist Zeit für die Piñata-Party. Gewinnt {LARGE_PINATA_INTERVAL} Spiele in Folge und fordert Señor Piñata heraus!
 
 [LOCAL_NOTE_LOD_PLAY_TODAY]
-快来参加今天的Piñata派对，赢得光辉的明天！
+Macht bei der heutigen Piñata-Party mit und gewinnt eine strahlende Zukunft!
 
 [LOCAL_NOTE_LOD_TODAY]
-今天的Piñata派对开始了！快去教训僵尸吧。
+Die heutige Piñata-Party hat begonnen! Erteilt den Zombies eine Lektion.
 
 [LOCAL_NOTE_LOD_WIN_5]
-连赢{LARGE_PINATA_INTERVAL}场Piñata派对来赢取大奖！
-
+Gewinne {LARGE_PINATA_INTERVAL} Piñata-Partys in Folge und räum ab!
 
 [LOCAL_NOTE_LOD_WIN_PRIZES]
-与来自世界各地的僵尸大战24小时，赢取大奖！
+Bekämpfe 24 Stunden lang Zombies aus aller Welt und gewinne tolle Preise!
 
 [LOCAL_NOTE_LOD_WIN_TODAY]
-在今天的Piñata派对中，连续赢{LARGE_PINATA_INTERVAL}场！
+Gewinne heute {LARGE_PINATA_INTERVAL} Piñata-Partys in Folge!
 
 [LOCAL_NOTE_NEXT_DANGER_ROOM_01]
-在 {DANGER_ROOM_NAME}你达成了个人最佳第 {LEVEL_NUMBER} 关。你觉得能再挑战一次吗？
+Du hast in {DANGER_ROOM_NAME} einen persönlichen Rekord von Level {LEVEL_NUMBER} erreicht. Glaubst du, du schaffst das noch einmal?
 
 [LOCAL_NOTE_NEXT_DANGER_ROOM_02]
-在 {DANGER_ROOM_NAME}你达成了第 {LEVEL_NUMBER} 关。僵尸说你无法再冲新高。证明它们是错的。
+Du hast in {DANGER_ROOM_NAME} Level {LEVEL_NUMBER} erreicht. Die Zombies behaupten, du kannst keine neuen Höchstleistungen erreichen. Beweise ihnen das Gegenteil.
 
 [LOCAL_NOTE_NEXT_DANGER_ROOM_03]
-在 {DANGER_ROOM_NAME}你已经非常接近个人最佳关卡{LEVEL_NUMBER} 。能成功吗？
+Du näherst dich deinem persönlichen Rekord auf Level {LEVEL_NUMBER} in {DANGER_ROOM_NAME}. Schaffst du es?
 
 [LOCAL_NOTE_NEXT_DANGER_ROOM_04]
-在 {DANGER_ROOM_NAME}僵尸们说你过不了第 {LEVEL_NUMBER} 关。真是一群愚蠢的僵尸。快去挑战吧。
+Die Zombies in {DANGER_ROOM_NAME} sagen, du schaffst Level {LEVEL_NUMBER} nicht. Was für ein Haufen dummer Zombies! Hol es dir!
 
 [LOCAL_NOTE_QUEST_MAINLINE]
-旅行日志更新：前往 {WORLD}！ {QUEST_TITLE} 赢得 {XP_GRANTED} 点。
+Reisetagebuch-Update: Gehe zu {WORLD}! Sammle {XP_GRANTED} Punkte in {QUEST_TITLE}.
 
 [LOCAL_NOTE_QUEST_METERED]
-旅行日志更新：你打败了 {DEFEATED_COUNT} 个爱吃脑子的僵尸！只需再打败 {DEFEATS_NEEDED} 个，即可完成任务。
+Reisetagebuch-Update: Du hast {DEFEATED_COUNT} hirnfressende Zombies besiegt! Nur noch {DEFEATS_NEEDED} fehlen, um die Mission abzuschließen.
 
 [LOCAL_NOTE_QUEST_NEAR_LEVELING]
-旅行日志更新：就快达成了！赢得 {XP_NEEDED} 点，提升级别至 {NEXT_RANK}级。
+Reisetagebuch-Update: Fast geschafft! Sammle {XP_NEEDED} Punkte und erreiche Level {NEXT_RANK}.
 
 [LOCAL_NOTE_VASEBREAKER_6D_01]
-今天快来玩破罐者吧！那些花瓶可不会自己打破。
+Spiel noch heute Jar Breaker! Diese Vasen gehen nicht von alleine kaputt.
 
 [LOCAL_NOTE_VASEBREAKER_ENDLESS_CONTINUE]
-你得在破罐者里打碎它们才行！现在就来打破你历来的僵尸波次记录吧。
+Du musst sie in Jar Breaker zerschlagen! Jetzt ist es an der Zeit, deinen Zombiewellen-Rekord zu schlagen.
 
 [LOCAL_NOTE_VASEBREAKER_ENDLESS_TRYAGAIN]
-来破罐者尝试新的挑战！站起来。掸去你植物上的灰尘。僵尸们在等着你呢。
+Stell dich einer neuen Herausforderung in Jar Breaker! Steh auf. Staub deine Pflanzen ab. Die Zombies warten.
 
 [LOCAL_NOTE_VASEBREAKER_UNLOCK_BUTTERZOMBIE_01]
-解锁BUTTERIZER！打赢3个破罐者关卡，所有黄油就都是你的了。
+Schalte den BUTTERIZER frei! Schließe 3 Glasbrecher-Level ab und die ganze Butter gehört dir.
 
 [LOCAL_NOTE_VASEBREAKER_UNLOCK_BUTTERZOMBIE_02]
-再挑战破罐者一次，解锁强力的BUTTERIZER！
+Stell dich erneut dem Glasbrecher, um den mächtigen BUTTERIZER freizuschalten!
 
 [LOCAL_NOTE_VASEBREAKER_UNLOCK_BUTTERZOMBIE_03]
-别在这时候停下！再打赢1关，BUTTERIZER和所有强力黄油就都归你所有了！
+Hör nicht auf! Schließe noch ein Level ab und der BUTTERIZER und die ganze mächtige Butter gehören dir!
 
 [LOCAL_NOTE_VASEBREAKER_UNLOCK_MOVEVASE]
-僵尸们正在破罐者关卡中不断涌来！击败 {ENDLESS_WAVE} 波，控制VASE DISPLACER！
+Die Zombies kommen in den Glasbrecher-Leveln! Besiege {ENDLESS_WAVE} Wellen und übernimm die Kontrolle über den VASE DISPLACER!
 
 [LOCAL_NOTE_VASEBREAKER_UNLOCK_REVEALVASE]
-看见隐藏的僵尸。完成破罐者教程，获得X射线力量！
+Entdecke versteckte Zombies. Schließe das Glasbrecher-Tutorial ab, um Röntgenkräfte zu erhalten!
 
 [LOCAL_NOTE_ZEN_EMPTY_POT_1D_01]
-在你的禅意花园里有种子在等着你呢。快点种下它们，让自己变得更强力。
+In deinem Zen-Garten warten Samen auf dich. Pflanze sie jetzt ein, um stärker zu werden.
 
 [LOCAL_NOTE_ZEN_EMPTY_POT_3D_01]
-在你的禅意花园里有尚未种植的种子。把它们种下去，让植物变得更强。
+In deinem Zen-Garten liegen noch nicht eingepflanzte Samen. Pflanze sie ein, um deine Pflanzen stärker zu machen.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_1D_01]
-你的植物长高了。再浇点水，让它们长得更高！
+Deine Pflanzen wachsen größer. Gieß sie mehr, damit sie größer werden!
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_1D_02]
-你的植物长高了！前往禅意花园，把成堆的金币收集起来。
+Deine Pflanzen wachsen größer! Gehe in den Zen-Garten und sammle die Münzenhaufen ein.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_1D_03]
-你的植物长高了！再浇点水，就能拥有超强植物力量。
+Deine Pflanzen wachsen größer! Gieß sie mehr, damit sie Super-Pflanzenkraft erhalten.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_3D_01]
-你的禅意花园变得干旱了。快去给植物浇水，让它们茁壮成长。
+Dein Zen-Garten trocknet aus. Gieße deine Pflanzen, damit sie gedeihen können.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_3D_02]
-现在就去给禅意花园浇水，获得酷炫礼物。可别让你那些快乐的植物干死啊。
+Gieße jetzt deinen Zen-Garten und erhalte tolle Geschenke. Lass deine glücklichen Pflanzen nicht verdursten.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_3D_03]
-你禅意花园里的植物口渴了。再去浇些水，让它们具备超强植物力量。
+Die Pflanzen in deinem Zen-Garten haben Durst. Gieße sie mehr und sie erhalten Super-Pflanzenkraft.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_BOOST_1D_01]
-你的植物正在焕发出超强力量！前往禅意花园加以释放。
+Deine Pflanzen bekommen Superkraft! Geh in den Zen-Garten, um sie freizusetzen.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_BOOST_1D_02]
-你禅意花园里的植物变强了！
+Die Pflanzen in deinem Zen-Garten sind stärker geworden!
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_BOOST_3D_01]
-你的植物全都长高了。前往禅意花园，捡起强化道具。
+Alle deine Pflanzen sind größer geworden. Geh zum Zen-Garten und hol dir ein Power-Up.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_ALL_BOOST_3D_02]
-有强化道具在等你使用！   前往禅意花园强化嫩芽。
+Es warten Power-Ups auf dich! Geh zum Zen-Garten, um die Sprossen zu stärken.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_01]
-你的 {PLANT} 长高了！再给它浇些水，让它获得超强力量。
+Deine {PLANT} ist größer geworden! Gib ihr mehr Wasser, um ihr Superkraft zu verleihen.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_02]
-你的 {PLANT} 长高了！造访禅意花园来收集金币。
+Deine {PLANT} ist größer geworden! Besuche den Zen-Garten, um Münzen zu sammeln.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_03]
-你的 {PLANT} 长高了！再给它浇些水来增强它的力量。
+Deine {PLANT} ist gewachsen! Gib ihr mehr Wasser, um ihre Kraft zu steigern.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_BOOST_01]
-你的 {PLANT} 被强化了！
+Deine {PLANT} wurde geboostet!
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_BOOST_02]
-你的 {PLANT} 完全长大了！前往禅意花园，捡起你的超强植物力量。
+Deine {PLANT} ist groß geworden! Geh zum Zen-Garten und hol dir deine Super-Pflanzenkraft.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_BOOST_MARIGOLD_01]
-你的金盏花完全长大了！前往禅意花园，大赚一笔。
+Deine Ringelblume ist groß geworden! Geh zum Zen-Garten und verdiene Geld.
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_BOOST_MARIGOLD_LONG_01]
-你的金盏花刚刚为你赚了不少金币！
+Deine Ringelblume hat dir gerade viel Gold eingebracht!
 
 [LOCAL_NOTE_ZEN_PLANT_READY_SINGLE_MARIGOLD_01]
-你的金盏花长高了！再给它浇些水，又能多赚一大笔。
+Deine Ringelblume ist größer geworden! Gib ihm etwas mehr Wasser und du kannst noch viel mehr verdienen.
+
 [LOCAL_PUSH_YETI_EVENT_01]
-宝藏雪人的餐盒里装着什么？打败他不就知道了！
+Was ist in der Lunchbox des Schatz-Yetis? Besiege ihn und du wirst es herausfinden!
 
 [LOCAL_PUSH_YETI_EVENT_02]
-宝藏雪人可不会乖乖认输。那就跟他打一场吧！
+Der Schatz-Yeti gibt nicht auf. Also kämpfe gegen ihn!
 
 [LOCAL_PUSH_YETI_EVENT_03]
-有时宝藏雪人会偷袭你。就像现在这样！
+Manchmal schleicht sich der Schatz-Yeti an dich heran. So wie jetzt!
 
 [LOCAL_PUSH_YETI_EVENT_04]
-宝藏雪人火力全开了！打败他，赢取他的财富。
+Der Schatz-Yeti ist in Hochform! Besiege ihn und hol dir seinen Schatz.
 
 [LOCAL_PUSH_YETI_EVENT_05]
-为了宝藏雪人餐盒里的好东西大战一场吧！ 
+Kämpfe um die Leckereien in der Brotdose des Schatz-Yetis!
 
 [LOCAL_PUSH_YETI_EVENT_06]
-打败宝藏雪人，把他餐盒里的好东西抢过来。
+Besiege den Schatz-Yeti und schnapp dir die Leckereien aus seiner Brotdose.
 
 [LOCAL_PUSH_YETI_EVENT_07]
-吃掉宝藏雪人那可口的……宝藏大餐！
+Iss das köstliche Schatz-Festmahl des Schatz-Yetis!
 
 [LOCAL_PUSH_YETI_EVENT_08]
-宝藏雪人认为你很弱。让他认错吧！
+Der Schatz-Yeti hält dich für schwach. Lass ihn seinen Fehler eingestehen!
 
 [LOCAL_PUSH_YETI_EVENT_09]
-打败宝藏雪人，把他的餐盒夺过来。快点动手！
+Besiege den Schatz-Yeti und schnapp dir seine Brotdose. Beeil dich!
 
 [LOCAL_PUSH_YETI_EVENT_10]
-想抢到宝藏雪人的财富只有一个办法。那就是打败他！
+Es gibt nur einen Weg, an den Reichtum des Schatz-Yetis zu kommen: ihn zu besiegen!
+
 [LOD_AVAILABLE_FOR]
-可用于
+Verfügbar für
 
 [LOD_BACK_TO_MAP]
 Zurück zur Karte
@@ -28066,7 +28071,6 @@ Hallo, Fans von Plants vs. Zombies 2! der Neon Mixtape Tour (Seite A) ist da. Wi
 
 [MODE_NAME_BEGHOULED]
 Beghouled
-
 
 [MODE_NAME_VASEBREAKER]
 Vasenbrecher
@@ -28627,6 +28631,21 @@ hart.
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_9]
 {EXCITED:crazydave}Sie sorgen auch für mehr Sonnenschein! Bravo Leute, das ist genial.
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Achtung! Ich habe Karaffen chemischer Komponenten von rabiater Reaktionsfreudigkeit auf dem Schirm!
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_2]
+{TIRED:crazydave}Kannst du das auch mal für mich in Deppie-Deutsch übersetzen?
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_3]
+{TIRED:winnie}Auf dem Rasen stehen bösartige Zaubertränke!
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_4]
+{EXCITED:crazydave}Bösartige mittelalterliche Tränke! Das sind die allergefährlichsten ...
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_5]
+{EXCITED:crazydave}Weil sie zweimal so böse sind!
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Ich fürchte, das dunkle Zeitalter hat mir eine schlimme Dampfkrankheit beschert.
@@ -40376,56 +40395,55 @@ Der Schaden der Spezialdünger Fertigkeit wird um 50% erhöht.
 对上中下三行的僵尸攻击，周围存在月光花时会进入暗影形态
 
 [DRAGONBRUIT_PRODUCT_SHORT_DESC]
-对上中下三行的僵尸攻击，周围存在月光花时会进入暗影形态
+Greife Zombies in den oberen, mittleren und unteren Reihen an. Sind Mondblumen in der Nähe, nehmen sie die Schattenform an.
 
 [DRAGONBRUIT_SKILL_LEVEL1]
-暗影之力
+Schattenkraft
 
 [DRAGONBRUIT_SKILL_LEVEL1_DES]
-当自身处于普通暴君火龙果状态时，每次攻击有30%的概率使自身进入持续10s的暗影形态；已处于暗影状态时每次攻击有30%的概率使本次攻击对本格区域内的所有僵尸造成攻击
+Befindet sich der Spieler im normalen Tyrannen-Drachenfrucht-Zustand, hat jeder Angriff eine 30%ige Chance, für 10 Sekunden in die Schattenform zu wechseln. Befindet sich der Spieler bereits im Schattenzustand, besteht eine 30%ige Chance, alle Zombies in der Umgebung anzugreifen.
 
 [DRAGONBRUIT_SKILL_LEVEL2]
-暗影融合
+Schattenfusion
 
 [DRAGONBRUIT_SKILL_LEVEL2_DES]
-当自身处于普通暴君火龙果状态时，每次攻击有50%的概率使自身进入持续15s的暗影形态；已处于暗影状态时每次攻击有50%的概率使本次攻击对本格区域内的所有僵尸造成攻击
+Befindet sich der Spieler im normalen Tyrannen-Drachenfrucht-Zustand, hat jeder Angriff eine 50%ige Chance, für 15 Sekunden in die Schattenform zu wechseln. Im Schattenzustand besteht bei jedem Angriff eine 50%ige Chance, alle Zombies im Umkreis anzugreifen.
 
 [DRAGONBRUIT_SKILL_LEVEL5]
-未知突变
+Unbekannte Mutation
 
 [DRAGONBRUIT_SKILL_LEVEL5_DES]
-每隔20s暴君火龙果中间头随机转变为特殊属性的火龙果头，攻击时，暴君火龙果会抛出特殊属性的头颅；特殊属性的火龙果头死亡后将会产生一次爆炸。
+Alle 20 Sekunden verwandelt sich der mittlere Kopf der Tyrannendrachenfrucht zufällig in einen Drachenfruchtkopf mit besonderen Eigenschaften. Beim Angriff wirft die Tyrannendrachenfrucht einen Kopf mit besonderen Eigenschaften ab; ein Drachenfruchtkopf mit besonderen Eigenschaften explodiert nach dem Tod.
 
 [STORE_PRODUCT_AVATAR_DRAGONBRUIT_TITLE]
-暴君火龙果装扮
+Tyrannendrachenfruchtkostüm
 
 [DRAGONBRUIT_AVATAR_NAME]
-暴君火龙果装扮
+Tyrannendrachenfruchtkostüm
 
 [STORE_PRODUCT_AVATAR_DRAGONBRUIT]
-非暗影状态下立即对场上所有的单位发动一次暗影状态下的抛射攻击；若当前已处于暗影状态下，则提高本次大招的伤害。
+Startet im Schattenzustand sofort einen Projektilangriff auf alle Einheiten auf dem Feld, wenn sich die Einheit nicht im Schattenzustand befindet. Im Schattenzustand erhöht sich der Schaden dieser großen Attacke.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在暴君火龙果右侧上中下三行时，暴君火龙果会向前方投掷攻击。暴君火龙果死亡后将会分裂重生，重新在场上随机生成3个小火龙果。在暗影状态下，暴君火龙果的攻击将会使僵尸受到中毒伤害
+Wenn Zombies in den oberen, mittleren und unteren Reihen rechts neben der Tyrannen-Drachenfrucht erscheinen, greift die Tyrannen-Drachenfrucht nach vorne an. Nach ihrem Tod teilt sie sich und regeneriert sich. Drei zufällige kleine Drachenfrüchte erscheinen erneut auf dem Spielfeld. Im Schattenzustand verursacht der Angriff der Tyrannen-Drachenfrucht Giftschaden bei Zombies.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL2_DES]
-当自身处于普通暴君火龙果状态时，每次攻击有30%的概率使自身进入持续10s的暗影形态；已处于暗影状态时每次攻击有30%的概率使本次攻击对本格区域内的所有僵尸造成攻击效果
+Im Zustand der normalen Tyrannen-Drachenfrucht besteht bei jedem Angriff eine Chance von 30 %, die Frucht für 10 Sekunden in die Schattenform zu versetzen. Befindet sie sich bereits im Schattenzustand, besteht bei jedem Angriff eine Chance von 30 %, einen Angriffseffekt auf alle Zombies im Gitterbereich auszulösen.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL3_DES]
-当自身处于普通暴君火龙果状态时，每次攻击有50%的概率使自身进入持续15s的暗影形态；已处于暗影状态时每次攻击有50%的概率使本次攻击对本格区域内的所有僵尸造成攻击效果
+Befindet sie sich im Zustand der gewöhnlichen Tyrannen-Drachenfrucht, besteht bei jedem Angriff eine Chance von 50 %, für 15 Sekunden in die Schattenform zu wechseln. Befindet sie sich bereits im Schattenzustand, besteht bei jedem Angriff eine Chance von 50 %, einen Angriffseffekt auf alle Zombies im Gitterbereich auszulösen.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL5_DES]
-每隔20s暴君火龙果随机产生一个冰/火/雷属性的火龙果，当存在可以攻击的目标时，暴君火龙果会向僵尸抛射冰/火/雷属性的火龙果并在僵尸面前一格立即生成一个对应属性的火龙果，生成的特殊属性的火龙果攻击时造成属性伤害。特殊属性的火龙果死亡后产生一次爆炸，对僵尸造成对应属性的爆炸伤害。
+Alle 20 Sekunden erzeugt die Tyrannen-Pitaya zufällig eine Pitaya mit den Eigenschaften Eis/Feuer/Donner. Wenn ein angreifbares Ziel vorhanden ist, wirft die Tyrannen-Pitaya die Pitaya mit Eis-, Feuer- oder Donnerattributen auf den Zombie und erzeugt sofort eine Pitaya mit dem entsprechenden Attribut ein Feld vor dem Zombie. Die erzeugte Pitaya mit Spezialattributen verursacht beim Angriff Attributschaden. Nach dem Tod explodiert die Pitaya mit Spezialattributen und verursacht Explosionsschaden des entsprechenden Attributs beim Zombie.
 
 [DRAGONBRUIT_PLANTFOOD_DESCRIPTION]
-立即对当前场上所有可攻击的单位发动一次抛射攻击（暗影形态下抛射两轮）抛射的子弹对单格内的所有僵尸都会造成攻击效果；对小火龙果施加能量豆时，小火龙果会立即成长为暴君火龙果
+Startet sofort einen Projektilangriff auf alle angreifbaren Einheiten auf dem Feld (zwei Runden in Schattengestalt). Die Projektilgeschosse wirken auf alle Zombies in einem einzigen Raster. Werden Energiebohnen auf die kleine Drachenfrucht aufgetragen, wächst diese sofort zur Tyrannen-Drachenfrucht heran.
 
 [DRAGONBRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-非暗影状态下立即对场上所有的单位发动一次暗影状态下的抛射攻击，并立即进入持续10s的暗影形态；若当前已处于暗影状态下，则提高本次大招的伤害。
-
+Startet sofort einen Projektilangriff im Schattenzustand auf alle Einheiten auf dem Feld, sofern diese sich nicht im Schattenzustand befinden, und nimmt sofort für 10 Sekunden die Schattengestalt an. Wenn es sich bereits im Schattenzustand befindet, wird der Schaden dieser großen Bewegung erhöht.
 
 [gloomvine]
 忧郁藤蔓
@@ -40443,254 +40461,260 @@ Der Schaden der Spezialdünger Fertigkeit wird um 50% erhöht.
 对范围内的僵尸攻击，使种植在其上的暗影植物进入暗影形态
 
 [gloomvine_PRODUCT_SHORT_DESC]
-对范围内的僵尸攻击，使种植在其上的暗影植物进入暗影形态
+Greift Zombies in Reichweite an und lässt die darauf gepflanzten Schattenpflanzen in Schattengestalt übergehen.
 
 [gloomvine_SKILL_LEVEL1]
-暗影增幅
+Schattenverstärkung
 
 [gloomvine_SKILL_LEVEL1_DES]
-当上方种植的植物为暗影系植物时，增加暗影系植物15%的攻击力；受到忧郁藤蔓攻击的僵尸减速30%
+Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich deren Angriffskraft um 15 %. Zombies, die von der Melancholieranke angegriffen werden, werden um 30 % verlangsamt.
 
 [gloomvine_SKILL_LEVEL2]
-暗影强化
+Schattenverstärkung
 
-[gloomvine_SKILL_LEVEL2_DES]
-当上方种植的植物为暗影系植物时，增加暗影系植物30%的攻击力；受到忧郁藤蔓攻击的僵尸减速50%
+[gloomvine_SKILL_LEVEL 2_DES]
+Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich deren Angriffskraft um 30 %. Von Melancholieranke angegriffene Zombies werden um 50 % verlangsamt.
 
 [gloomvine_SKILL_LEVEL5]
-暗影姿态
+Schattenhaltung
 
 [gloomvine_SKILL_LEVEL5_DES]
-忧郁藤蔓的攻击范围扩大；忧郁藤蔓如果在月光花所生成的月光领域中时会进入超暗影形态，忧郁藤蔓第五次攻击时会向四个方向额外喷吐烟雾，烟雾对命中的僵尸造成伤害，同时对僵尸造成15%的易伤效果
+Die Angriffsreichweite von Melancholieranke wird erweitert. Melancholieranke nimmt die Superschattenform an, wenn sie sich im Mondlichtfeld der Mondlichtblume befindet. Beim fünften Angriff der Melancholischen Ranke spuckt sie zusätzlichen Rauch in vier Richtungen aus, der den getroffenen Zombies Schaden zufügt und sie um 15 % verwundbar macht.
 
-[STORE_PRODUCT_AVATAR_gloomvine_TITLE]
-忧郁藤蔓装扮
+[STORE_PRODU CT_AVATAR_gloomvine_TITLE]
+Düsterrankenkostüm
 
 [gloomvine_AVATAR_NAME]
-忧郁藤蔓装扮
+Düsterrankenkostüm
 
 [STORE_PRODUCT_AVATAR_gloomvine]
-忧郁藤蔓持续喷吐出气泡，对攻击范围内的僵尸造成伤害
+Düsterranken spucken kontinuierlich Blasen aus und fügen Zombies in Angriffsreichweite Schaden zu.
 
 [gloomvine_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在忧郁藤蔓的攻击范围内时，忧郁藤蔓将会对僵尸发起攻击；同时如果种植其上的植物为暗影家族植物，则该暗影家族植物将会直接进入暗影形态
+Wenn Zombies in Angriffsreichweite der Düsterranken erscheinen, greifen diese die Zombies an. Wenn die darauf gepflanzte Pflanze eine Schattenpflanze ist, nimmt diese direkt die Schattenform an.
 
 [gloomvine_NEW_SKILL_LEVEL2_DES]
-当上方种植的植物为暗影系植物时，增加暗影系植物15%的攻击力；受到忧郁藤蔓攻击的僵尸减速30%
+Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich ihre Angriffskraft um 15 %; Zombies, die von der Melancholischen Ranke angegriffen werden, werden um 30 % verlangsamt.
 
 [gloomvine_NEW_SKILL_LEVEL3_DES]
-当上方种植的植物为暗影系植物时，增加暗影系植物30%的攻击力；受到忧郁藤蔓攻击的僵尸减速50%
+Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich ihre Angriffskraft um 30 %; Zombies, die von der Melancholischen Ranke angegriffen werden, werden um 50 % verlangsamt.
 
 [gloomvine_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht die Chance, die Energiebohne direkt auszulösen!
 
 [gloomvine_NEW_SKILL_LEVEL5_DES]
-忧郁藤蔓的攻击范围扩大；忧郁藤蔓如果在月光花所生成的月光领域中时会进入超暗影形态，忧郁藤蔓第五次攻击时会向四个方向额外喷吐烟雾，烟雾对命中的僵尸造成伤害，同时对僵尸造成15%的易伤效果
+Die Angriffsreichweite der Melancholischen Ranke wird erweitert. Melancholy Vine nimmt die Superschattenform an, wenn sie sich im Mondlichtfeld der Mondlichtblume befindet. Melancholy Vine spuckt beim fünften Angriff zusätzlichen Rauch in vier Richtungen aus. Der Rauch fügt den getroffenen Zombies Schaden zu und erhöht ihre Verwundbarkeit um 15 %.
 
 [gloomvine_PLANTFOOD_DESCRIPTION]
-忧郁藤蔓持续喷吐出气泡，对攻击范围内的僵尸造成伤害
+Melancholy Vine spuckt weiterhin Blasen aus und fügt Zombies in Angriffsreichweite Schaden zu.
 
 [gloomvine_AVATAR_PLANTFOOD_DESCRIPTION]
-大招范围内被攻击到的僵尸会减速50%
-
+Angegriffene Zombies in der ultimativen Reichweite werden um 50 % verlangsamt.
 
 [EAGLECLAW]
-电击鹰爪花
+Elektrische Adlerklauenblume
 
 [EAGLECLAW_DESCRIPTION]
-{KEYWORD}范围：{STAT}一行
-{KEYWORD}特点：{STAT}凝聚雷电球，持续电击僵尸
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}“滋...滋...滋...”鹰爪花全身散发着电光：“让僵尸尝尝电击的滋味”
+{KEYWORD}Reichweite: {STAT}Eine Reihe
+{KEYWORD}Eigenschaften: {STAT}Kondensierte Blitzbälle, die Zombies kontinuierlich schocken
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen
+{FLAVOR}„Zi…Zi…Zi…“ Die Adlerklauenblume strahlt elektrisches Licht am ganzen Körper aus: „Lasst die Zombies den Geschmack von Elektroschocks schmecken.“
 
 [EAGLECLAW_DESCRIPTION_HEADER]
-凝聚雷电球，持续电击僵尸
+Kondensierter Blitzball, der Zombies kontinuierlich unter Strom setzt
 
 [EAGLECLAW_TOOLTIP]
-凝聚雷电球，持续电击僵尸
+Kondensierter Blitzball, der Zombies kontinuierlich unter Strom setzt
 
 [EAGLECLAW_PRODUCT_SHORT_DESC]
-凝聚雷电球，持续电击僵尸
+Kondensierter Blitzball, der Zombies kontinuierlich unter Strom setzt
 
 [EAGLECLAW_SKILL_LEVEL1]
-追踪升级
+Tracking Upgrade
 
 [EAGLECLAW_SKILL_LEVEL1_DES]
-植物的索敌范围扩大到3行，休息时间减少
+Der Suchbereich der Pflanzen wird auf drei Reihen erweitert und die Ruhezeit verkürzt.
 
-[EAGLECLAW_SKILL_LEVEL2]
-凝聚加速
+[EAGLECLAW_SKILL L_LEVEL2]
+Konzentrationsbeschleunigung
 
 [EAGLECLAW_SKILL_LEVEL2_DES]
-植物的索敌范围扩大到全屏，休息时间再次减少
+Der Suchbereich der Pflanze wird auf den gesamten Bildschirm erweitert und die Ruhezeit erneut verkürzt.
 
 [EAGLECLAW_SKILL_LEVEL5]
-雷电爆发
+Blitzstoß
 
 [EAGLECLAW_SKILL_LEVEL5_DES]
-攻击有概率额外召唤出紫色雷电，紫色雷电造成一次十字型的范围伤害
+Angriffe können violette Blitze auslösen, die kreuzförmigen Flächenschaden verursachen.
 
-[STORE_PRODUCT_AVATAR_EAGLECLAW_TITLE]
-电击鹰爪花装扮
+[STORE_PRODUCT_AVATAR_EAGLECLAW_ TITLE]
+Elektrisches Adlerklauen-Blumenkostüm
 
 [EAGLECLAW_AVATAR_NAME]
-电击鹰爪花装扮
+Elektrisches Adlerklauen-Blumenkostüm
 
 [STORE_PRODUCT_AVATAR_EAGLECLAW]
-大招劈下的雷电可以麻痹僵尸
+Der Blitz des ultimativen Moves kann lähmen. Zombies
 
 [EAGLECLAW_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在植物所在行时，鹰爪花凝聚出雷电球飞到僵尸头上位置，随后发出牵引光束每间隔0.5秒对僵尸造成伤害，雷电球持续存在7秒。当僵尸离开雷电球1格以上或死亡后，雷电球将重新选择目标进行攻击
+Wenn ein Zombie in der Reihe erscheint, in der sich die Pflanze befindet, erzeugt die Adlerklauenblume einen Blitzball und fliegt über den Kopf des Zombies. Anschließend sendet sie alle 0,5 Sekunden einen Traktorstrahl aus, der dem Zombie Schaden zufügt. Der Blitzball hält 7 Sekunden lang an. Wenn der Zombie den Blitzball länger als ein Feld verlässt oder stirbt, wählt der Blitzball das anzugreifende Ziel erneut aus.
 
 [EAGLECLAW_NEW_SKILL_LEVEL2_DES]
-植物的索敌范围扩大到3行，休息时间减少1.5秒
+Der Suchbereich der Pflanze wird auf drei Reihen erweitert und die Ruhezeit um 1,5 Sekunden verkürzt.
 
 [EAGLECLAW_NEW_SKILL_LEVEL3_DES]
-植物的索敌范围扩大到全屏，休息时间再次减少1.5秒
+Der Suchbereich der Pflanze wird auf den gesamten Bildschirm erweitert und die Ruhezeit erneut um 1,5 Sekunden verkürzt.
 
 [EAGLECLAW_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [EAGLECLAW_NEW_SKILL_LEVEL5_DES]
-鹰爪花在凝聚雷电球时，有80%概率额外召唤出紫色雷电，紫色雷电跟随雷电球移动，达到攻击位置，朝下方十字范围内的僵尸释放一次雷电攻击，伤害为当前攻击力的5倍，并且有50%概率对僵尸^ff9600^麻痹Ⅰ^oldclr^1秒；雷电球的牵引光束升级，当目标僵尸走出0.5格距离后将被拉扯在原地
+Wenn Adlerklaue einen Blitzball kondensiert, besteht eine 80%ige Chance, einen zusätzlichen violetten Blitz zu beschwören. Der violette Blitz bewegt sich mit dem Blitzball, erreicht die Angriffsposition und greift die Zombies im darunterliegenden Kreuzbereich mit einem Blitz an. Der Schaden beträgt das Fünffache der aktuellen Angriffskraft und es besteht eine 50%ige Chance, den Zombie für 1 Sekunde zu lähmen. Der Traktorstrahl des Blitzballs wird verstärkt, und der Zielzombie wird nach 0,5 Gittern Entfernung an die Stelle gezogen.
 
 [EAGLECLAW_PLANTFOOD_DESCRIPTION]
-鹰爪花凝聚出一个巨大的雷电球，对3*3范围内的僵尸每隔0.5秒造成1次伤害
+Adlerklaue erzeugt einen riesigen Blitzball, der den Zombies im 3x3-Bereich alle 0,5 Sekunden 1 Schaden zufügt.
 
 [EAGLECLAW_AVATAR_PLANTFOOD_DESCRIPTION]
-大招的攻击可以^ff9600^麻痹Ⅰ^oldclr^僵尸，麻痹时间为1秒
+Der ultimative Angriff kann Zombies für 1 Sekunde lähmen.
 
 [HEAVENDATURA]
-留声曼陀罗
+Heavendatura
 
 [HEAVENDATURA_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方一格至5×5
-{KEYWORD}特点：{STAT}子弹经过时产生共鸣音波
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR}留声曼陀罗可以将听过的声音记在脑子里重现出来，因此它成为了许多乐队的核心粉丝。
+{KEYWORD}Reichweite: {STAT}Ein Feld vorn bis 5×5
+{KEYWORD}Merkmale: {STAT}Resonante Schallwellen werden erzeugt, wenn Kugeln durchschlagen.
+{KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze
+{FLAVOR}Heavendatura kann sich an gehörte Geräusche erinnern und sie in seinem Gedächtnis reproduzieren. Daher ist es ein großer Fan vieler Bands geworden.
 
 [HEAVENDATURA_DESCRIPTION_HEADER]
-子弹经过时产生共鸣音波攻击周围僵尸
+Wenn die Kugel vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
 
 [HEAVENDATURA_TOOLTIP]
-子弹经过时产生共鸣音波攻击周围僵尸
+Wenn die Kugel vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
 
 [HEAVENDATURA_PRODUCT_SHORT_DESC]
-子弹经过时产生共鸣音波攻击周围僵尸
+Wenn die Kugel vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
 
 [HEAVENDATURA_SKILL_LEVEL1]
-强烈共鸣
+Starke Resonanz
 
 [HEAVENDATURA_SKILL_LEVEL1_DES]
-触发音符击中僵尸时会将僵尸短暂眩晕0.1秒，从第2个音符开始范围就变为3×3
+Wenn die auslösende Note den Zombie trifft, wird dieser ab der zweiten Note für 0,1 Sekunden betäubt. Die Reichweite erhöht sich ab der vierten Note auf 3×3.
 
 [HEAVENDATURA_SKILL_LEVEL2]
-灵魂共鸣
+Seele Resonanz
 
 [HEAVENDATURA_SKILL_LEVEL2_DES]
-触发音符击中僵尸时会将僵尸短暂眩晕0.2秒，从第4个音符开始范围就变为5×5
+Wenn die auslösende Note den Zombie trifft, wird dieser 0,2 Sekunden lang betäubt. Ab der vierten Note beträgt die Reichweite 5×5.
 
 [HEAVENDATURA_SKILL_LEVEL5]
-渐强音浪
+Verstärkte Schallwellen
 
 [HEAVENDATURA_SKILL_LEVEL5_DES]
-连续的音符伤害会逐渐递增，每经过一个音符伤害增加0.5倍，最高增强到3倍伤害
+Der Schaden aufeinanderfolgender Noten erhöht sich schrittweise. Nach jeder Note erhöht sich der Schaden um das 0,5-Fache, bis hin zum 3-Fachen.
 
-[STORE_PRODUCT_AVATAR_HEAVENDATURA_TITLE]
-留声曼陀罗装扮
+[STORE_PRODU CT_AVATAR_HEAVENDATURA_TITLE]
+Echo-Mandragora-Kostüm
 
 [HEAVENDATURA_AVATAR_NAME]
-留声曼陀罗装扮
+Echo-Mandragora-Kostüm
 
 [STORE_PRODUCT_AVATAR_HEAVENDATURA]
-声波可以额外将僵尸震离地面
+Schallwellen können Zombies zusätzlich vom Boden abschütteln.
 
 [HEAVENDATURA_NEW_SKILL_LEVEL1_DES]
-点击曼陀罗可以发出单音，滑动可切换单音的音阶，有子弹经过时可发出声波对前方1格范围内的僵尸造成伤害，并根据音阶播放不同的音效，连续种植曼陀罗时从第3个音符开始，音符触发的伤害范围变为3×3,第5个音符开始范围变为5×5
+Klicke auf die Mandragora, um eine einzelne Note zu erzeugen, und schiebe sie, um die Tonhöhe der einzelnen Note zu ändern. Wenn eine Kugel vorbeifliegt, kann sie eine Schallwelle aussenden, die Zombies im Umkreis eines Feldes vor ihnen Schaden zufügt und je nach Tonleiter verschiedene Soundeffekte abspielt. Beim kontinuierlichen Pflanzen von Mandragora werden die Schallwellen ab der dritten Note abgespielt. Die Schadensreichweite des Notenauslösers beträgt zu Beginn 3×3 und ab der fünften Note 5×5.
 
 [HEAVENDATURA_NEW_SKILL_LEVEL2_DES]
-触发音符击中僵尸时会将僵尸短暂眩晕0.1秒，从第2个音符开始范围就变为3×3
+Wenn die auslösende Note den Zombie trifft, wird dieser 0,1 Sekunden lang betäubt. Ab der zweiten Note beträgt die Reichweite 3×3.
 
 [HEAVENDATURA_NEW_SKILL_LEVEL3_DES]
-触发音符击中僵尸时会将僵尸短暂眩晕0.2秒，从第4个音符开始范围就变为5×5
+Wenn die auslösende Note den Zombie trifft, wird dieser 0,2 Sekunden lang betäubt. Ab der vierten Note beträgt die Reichweite 5×5.
 
 [HEAVENDATURA_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
 
 [HEAVENDATURA_NEW_SKILL_LEVEL5_DES]
-连续的音符伤害会逐渐递增，每经过一个音符伤害增加0.5倍，最高增强到3倍伤害
+Der Schaden aufeinanderfolgender Noten erhöht sich schrittweise um das 0,5-Fache, bis hin zum 3-Fachen.
 
 [HEAVENDATURA_PLANTFOOD_DESCRIPTION]
-释放1道大范围的声波，对5×5范围内僵尸造成1次伤害
+Löst eine gewaltige Schallwelle aus, die Zombies im Umkreis von 5×5 1 Schaden zufügt.
 
 [HEAVENDATURA_AVATAR_PLANTFOOD_DESCRIPTION]
-声波可以额外将僵尸震离地面
+Die Schallwelle kann Zombies zusätzlich vom Boden abschütteln.
 
 [TWINSHONEYSUCKLE]
-日月金银花
+Sonne-und-Mond-Geißblatt
 
 [TWINSHONEYSUCKLE_DESCRIPTION]
-{KEYWORD}范围：{STAT}金花前方一行，银花全屏
-{KEYWORD}特点：{STAT}金花召唤太阳造成火伤，银花召唤月亮造成冰伤
-{KEYWORD}植物特征：{STAT}黄色植物，蓝色植物
-{FLAVOR}金银花是一对双胞胎姐妹，在成长过程中分别获得了太阳和月亮之力。
+{KEYWORD}Reichweite: {STAT} Die vordere Reihe der goldenen Blume, der Vollbildmodus der silbernen Blume
+{KEYWORD}Merkmale: {STAT} Die goldene Blume beschwört die Sonne, um Feuerschaden zu verursachen, die silberne Blume beschwört den Mond, um Eisschaden zu verursachen.
+{KEYWORD}Pflanzenmerkmale: {STAT} Gelbe Pflanze, blaue Pflanze
+{FLAVOR} Das Geißblatt ist ein Zwillingsschwesternpaar, das während seines Wachstums die Kraft der Sonne bzw. des Mondes erlangte.
 
 [TWINSHONEYSUCKLE_DESCRIPTION_HEADER]
-金花召唤太阳造成火伤，银花召唤月亮造成冰伤
+Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume beschwört den Mond und verursacht Eisschaden.
 
 [TWINSHONEYSUCKLE_TOOLTIP]
-金花召唤太阳造成火伤，银花召唤月亮造成冰伤
+Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume beschwört den Mond und verursacht Eisschaden.
 
 [TWINSHONEYSUCKLE_PRODUCT_SHORT_DESC]
-金花召唤太阳造成火伤，银花召唤月亮造成冰伤
+Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume beschwört den Mond und verursacht Eisschaden.
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL1]
-澎湃法力
-
-[TWINSHONEYSUCKLE_SKILL_LEVEL1_DES]
-金花和银花的休息时间减少2.5秒，月亮和太阳爆炸后产生的蓝色星星数量增加2颗，红色星星数量增加1颗
+Mana-Anstieg
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL2]
-法力高涨
+Mana-Anstieg
+
+[TWINSHONEYSUCKLE_TOOLTIP]
+Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume beschwört den Mond und verursacht Eisschaden. ONEYSUCKLE_SKILL_LEVEL1_DES]
+Die Ruhezeit der goldenen und silbernen Blumen wird um 2,5 Sekunden reduziert. Die Anzahl der Die Anzahl der blauen Sterne, die nach der Explosion von Mond und Sonne entstehen, erhöht sich um 2, die Anzahl der roten Sterne um 1.
+
+[TWINSHONEYSUCKLE_SKILL_LEVEL2]
+Mana-Anstiege
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL2_DES]
-金花和银花的休息时间减少5秒，月亮和太阳爆炸后产生的蓝色星星数量增加4颗，红色星星数量增加2颗
+Die Ruhezeit der goldenen und silbernen Blumen verringert sich um 5 Sekunden, die Anzahl der blauen Sterne, die nach der Explosion von Mond und Sonne entstehen, erhöht sich um 4, die Anzahl der roten Sterne um 2.
 
-[TWINSHONEYSUCKLE_SKILL_LEVEL5]
-辅助射击
+[TWINSHONEYSUCKLE_SKILL_LEVEL2_DES]
+Die Ruhezeit der goldenen und silbernen Blumen verringert sich um 5 Sekunden, die Anzahl der blauen Sterne, die nach der Explosion von Mond und Sonne entstehen, erhöht sich um 4, die Anzahl der roten Sterne um 2.
+
+[TWINSHONEYSUCKLE_SKILL_LEVEL2_DES] KLE_SKILL_LEVEL5]
+Unterstütztes Schießen
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL5_DES]
-金花和银花在后方时会射出造成伤害的小星星，金花射出红色星星，向前飞出造成火焰伤害，银花射出蓝色星星，全屏追踪造成冰伤害
+Goldene und silberne Blumen schießen kleine Sterne, die Schaden verursachen, wenn Sie befinden sich dahinter. Die Goldene Blume schießt rote Sterne, die nach vorne fliegen und Feuerschaden verursachen, während die Silberne Blume blaue Sterne verschießt, die den gesamten Bildschirm verfolgen und Eisschaden verursachen.
 
 [STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE_TITLE]
-日月金银花装扮
+Sonne-und-Mond-Geißblatt-Kostüm
 
 [TWINSHONEYSUCKLE_AVATAR_NAME]
-日月金银花装扮
+Sonne-und-Mond-Geißblatt-Kostüm
 
-[STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE]
-爆炸后产生与普攻时数量相同的红蓝星星
+[ STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE]
+Nach der Explosion werden so viele rote und blaue Sterne wie beim normalen Angriff erzeugt.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL1_DES]
-日月金银花种下后，在前方的银花会定期发射月亮追踪全屏最近的僵尸造成冰伤，月亮爆炸后会爆出蓝色星星造成冰伤，点击可将金花切换到前方，金花会对前方一行的僵尸发射太阳造成范围火伤，太阳爆炸后会爆出红色星星造成火伤，金花和银花的攻击冷却分别计算。
+Nachdem das Sonne-und-Mond-Geißblatt gepflanzt wurde, schleudert die silberne Blume vorne regelmäßig den Mond, um den nächsten Zombie auf dem gesamten Bildschirm zu verfolgen und Eisschaden zu verursachen. Nachdem der Mond explodiert ist, explodiert er mit blauen Sternen und verursacht Eisschaden. Klicke, um die goldene Blume nach vorne zu bringen. Die goldene Blume schleudert die Sonne auf die Zombies in der ersten Reihe und verursacht Feuerschaden. Nach der Explosion der Sonne explodieren rote Sterne und verursachen Feuerschaden. Die Angriffsabklingzeit der Gold- und Silberblume wird separat berechnet.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL2_DES]
-金花和银花的休息时间减少2.5秒，月亮和太阳爆炸后产生的蓝色星星数量增加2颗，红色星星数量增加1颗
+Die Ruhezeit der Gold- und Silberblume verkürzt sich um 2,5 Sekunden. Die Anzahl der nach der Explosion von Mond und Sonne generierten blauen Sterne erhöht sich um 2 und die Anzahl der roten Sterne um 1.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL3_DES]
-金花和银花的休息时间减少5秒，月亮和太阳爆炸后产生的蓝色星星数量增加4颗，红色星星数量增加2颗
+Die Ruhezeit der Gold- und Silberblume verkürzt sich um 5 Sekunden. Die Anzahl der nach der Explosion von Mond und Sonne generierten blauen Sterne erhöht sich um 4 und die Anzahl der roten Sterne erhöht sich um 2.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL4_DES]
-种植时有高概率直接释放能量豆大招！
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Energiebohne direkt freizusetzen.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL5_DES]
-金花和银花在后方时会射出造成伤害的小星星，金花射出红色星星，向前飞出造成火焰伤害，银花射出蓝色星星，全屏追踪造成冰伤害
+Goldene Blume und Silberne Blume schießen kleine Sterne, die Schaden verursachen, wenn sie sich dahinter befinden. Die Goldene Blume schießt rote Sterne und fliegt vorwärts, um Feuerschaden zu verursachen. Die Silberne Blume schießt blaue Sterne und verfolgt den gesamten Bildschirm, um Eisschaden zu verursachen.
 
 [TWINSHONEYSUCKLE_PLANTFOOD_DESCRIPTION]
-召唤大型太阳和月亮向前飞出3格后相撞对5×5范围内僵尸造成1次伤害
+Beschwört eine große Sonne und einen Mond, die drei Felder vorwärts fliegen und dann mit Zombies in einem Umkreis von 5×5 kollidieren, um 1 Schaden zu verursachen.
 
 [TWINSHONEYSUCKLE_AVATAR_PLANTFOOD_DESCRIPTION]
-爆炸后产生与普攻时数量相同的红蓝星星
+Nach der Explosion werden die gleiche Anzahl roter und blauer Sterne wie bei normalen Angriffen erzeugt.
 
 [RHUBARBARIAN]
 蛮族大黄
@@ -40708,58 +40732,58 @@ Der Schaden der Spezialdünger Fertigkeit wird um 50% erhöht.
 攻击前方1格的僵尸，可向前跳跃，造成眩晕并留在落点攻击
 
 [RHUBARBARIAN_PRODUCT_SHORT_DESC]
-攻击前方1格的僵尸，可向前跳跃，造成眩晕并留在落点攻击
+Greife den Zombie ein Feld weiter vorne an. Du kannst nach vorne springen, ihn betäuben und am Landepunkt bleiben, um anzugreifen.
 
 [RHUBARBARIAN_SKILL_LEVEL1]
-借势
+Nutze die Situation aus.
 
 [RHUBARBARIAN_SKILL_LEVEL1_DES]
-跳跃的极限距离增加1格，眩晕时长和攻击时长都增加1秒
+Die maximale Sprungweite erhöht sich um ein Feld, die Betäubungs- und Angriffsdauer um jeweils eine Sekunde.
 
 [RHUBARBARIAN_SKILL_LEVEL2]
-超重
+Übergewichtig
 
 [RHUBARBARIAN_SKILL_LEVEL2_DES]
-跳跃的极限距离增加2格，眩晕时长和攻击时长都增加2秒
+Die maximale Sprungweite erhöht sich um zwei Felder, die Betäubungs- und Angriffsdauer um zwei Sekunden.
 
 [RHUBARBARIAN_SKILL_LEVEL5]
-蛮族之力
+Barbarenstärke
 
 [RHUBARBARIAN_SKILL_LEVEL5_DES]
-跳跃后概率进入狂暴模式，狂暴模式下的攻击有概率秒杀中小型僵尸，或对机械和巨人僵尸造成高额伤害和晕眩效果，狂暴模式在跳回原地后结束
+Nach dem Springen besteht die Möglichkeit, in den Berserker-Modus zu wechseln. Angriffe im Berserkermodus können kleine und mittelgroße Zombies sofort töten oder mechanischen und riesigen Zombies hohen Schaden und Betäubungseffekte zufügen. Der Berserkermodus endet nach dem Zurückspringen an die Ausgangsposition.
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN_TITLE]
-蛮族大黄装扮
+Barbaren-Da-Huang-Kostüm
 
-[RHUBARBARIAN_AVATAR_NAME]
-蛮族大黄装扮
+[RHUBAR BARIAN_AVATAR_NAME]
+Barbaren-Rhabarber-Kostüm
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN]
-额外跳跃1次
+1 zusätzlicher Sprung
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL1_DES]
-蛮族大黄拥有基础的近战攻击能力，能攻击前方1格内的单个僵尸，同时额外拥有一个跳跃技能，在其前方3格内有僵尸时，会跳跃到其前方1格并开始攻击，如果僵尸过近则会原地跳跃，跳跃的落地会震晕自身所在格和前方1格的所有僵尸，如果大黄向前跳跃了则眩晕结束后大黄会跳回所种的格子内，跳跃技能有数秒的内置CD
+Barbaren-Rhabarber verfügt über grundlegende Nahkampffähigkeiten, kann einen einzelnen Zombie innerhalb eines Feldes vor sich angreifen und verfügt zusätzlich über eine Sprungfähigkeit. Befindet sich ein Zombie innerhalb von drei Feldern vor ihm, springt er auf ein Feld vor sich und beginnt anzugreifen. Ist der Zombie zu nahe, springt er auf der Stelle. Die Landung des Sprungs betäubt alle Zombies im eigenen Feld und im Feld davor. Springt der große Huang nach vorne, springt er nach dem Ende der Betäubung zurück zum Feld, auf dem er platziert wurde. Die Sprungfähigkeit hat eine eingebaute Abklingzeit von mehreren Sekunden.
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL2_DES]
-跳跃的极限距离增加1格，眩晕时长和攻击时长都增加1秒
+Die maximale Sprungweite erhöht sich um ein Feld, die Betäubungs- und Angriffsdauer um jeweils eine Sekunde.
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL3_DES]
-跳跃的极限距离增加2格，眩晕时长和攻击时长都增加2秒
+Die maximale Sprungweite erhöht sich um zwei Felder, die Betäubungs- und Angriffsdauer um jeweils zwei Sekunden.
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Platzieren besteht die Chance, die Energiebohne direkt auszulösen!
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL5_DES]
-跳跃后概率进入狂暴模式，狂暴模式下的攻击有概率秒杀中小型僵尸，或对机械和巨人僵尸造成高额伤害和晕眩效果，狂暴模式在跳回原地后结束
+Nach dem Springen besteht die Chance, in den Berserker-Modus zu wechseln. Angriffe im Berserker-Modus können kleine und mittelgroße Zombies sofort töten oder mechanischen und riesigen Zombies hohen Schaden und Betäubungseffekte zufügen. Der Berserker-Modus endet nach dem Zurückspringen zur Ausgangsposition.
 
 [RHUBARBARIAN_PLANTFOOD_DESCRIPTION]
-大黄会向右侧开始跳跃，至多跳跃3次，先从距离自身最近的存在僵尸的格子开始，对以该格为中心点的3×3范围内的僵尸造成伤害和晕眩效果，如果该格内仍然存在僵尸，那么会继续在该格内跳跃，直至该格内没有僵尸后才会继续跳向右侧距离自身最近的存在僵尸的格子
+Darling springt bis zu dreimal nach rechts, ausgehend vom Gitter mit den ihm am nächsten liegenden Zombies. Dabei verursacht er Schaden und Betäubungseffekte bei Zombies in einem 3×3-Bereich mit dem Gitter als Mittelpunkt. Befinden sich noch Zombies im Raster, springt der RHUBARBARIAN weiter, bis keine Zombies mehr vorhanden sind. Anschließend springt er weiter zum Raster mit den Zombies rechts neben ihm.
 
 [RHUBARBARIAN_AVATAR_PLANTFOOD_DESCRIPTION]
-跳跃次数增加1次
+Die Anzahl der Sprünge erhöht sich um 1.
 
 [AQUAVINE]
-水生藤蔓
+Aquaranke
 
 [AQUAVINE_DESCRIPTION]
 {KEYWORD}特殊：{STAT}根据其上种植植物种类的不同选择不同的攻击模式
@@ -40773,61 +40797,61 @@ Der Schaden der Spezialdünger Fertigkeit wird um 50% erhöht.
 发射水弹或水柱进行攻击，低概率发射特殊水弹击退僵尸。
 
 [AQUAVINE_PRODUCT_SHORT_DESC]
-发射水弹或水柱进行攻击，低概率发射特殊水弹击退僵尸。
+Feuere Wassergeschosse oder Wassersäulen zum Angriff ab. Es besteht eine geringe Chance, spezielle Wassergeschosse abzufeuern, um Zombies abzuwehren.
 
 [AQUAVINE_SKILL_LEVEL1]
-强化水弹
+Verbesserte Wassergeschosse
 
 [AQUAVINE_SKILL_LEVEL1_DES]
-每次攻击时有20%的概率发射一枚可以击退中小体型僵尸的水弹。
+Bei jedem Angriff besteht eine 20%ige Chance, ein Wassergeschoss abzufeuern, das kleine und mittelgroße Zombies abwehren kann.
 
 [AQUAVINE_SKILL_LEVEL2]
-超级水弹
+Super-Wassergeschosse
 
 [AQUAVINE_SKILL_LEVEL2_DES]
-每次攻击时有25%的概率发射一枚可以击退中小体型僵尸的水弹。
+Bei jedem Angriff besteht eine 25%ige Chance, ein Wassergeschoss abzufeuern, das kleine und mittelgroße Zombies abwehren kann.
 
 [AQUAVINE_SKILL_LEVEL5]
-水龙卷！
+Wasserhose!
 
 [AQUAVINE_SKILL_LEVEL5_DES]
-每5次攻击后，下一次攻击会吹出一个水龙卷，造成伤害并将一个中小体型僵尸向右侧携带2格距离，随后水龙卷继续向右移动。
+Nach jeweils fünf Angriffen löst der nächste Angriff einen Wassertornado aus, der Schaden verursacht und einen kleinen oder mittelgroßen Zombie zwei Gitter nach rechts trägt. Anschließend bewegt sich der Wassertornado weiter nach rechts.
 
 [STORE_PRODUCT_AVATAR_AQUAVINE_TITLE]
-水生藤蔓装扮
+Wasserrankenkostüm
 
 [AQUAVINE_AVATAR_NAME]
-水生藤蔓装扮
+Wasserrankenkostüm
 
 [STORE_PRODUCT_AVATAR_AQUAVINE]
-大招变为发射水龙卷，命中僵尸后会对僵尸造成3s的眩晕效果
+Die ultimative Fähigkeit ist das Abfeuern eines Wassertornados, der den Zombie nach dem Aufprall 3 Sekunden lang betäubt.
 
 [AQUAVINE_NEW_SKILL_LEVEL1_DES]
-水生藤蔓根据种植植物种类选择攻击模式，每次攻击时有15%的概率发射一枚可以击退中小体型僵尸的水弹。
+Wasserranken wählen ihren Angriffsmodus je nach Pflanzenart. Bei jedem Angriff besteht eine 15%ige Chance, eine Wasserbombe abzufeuern, die kleine oder mittelgroße Zombies abwehrt.
 
 [AQUAVINE_NEW_SKILL_LEVEL2_DES]
-每次攻击时有20%的概率发射一枚可以击退中小体型僵尸的水弹。
+Bei jedem Angriff besteht eine Chance von 20 %, eine Wasserbombe abzufeuern, die kleine und mittlere Zombies abwehrt.
 
 [AQUAVINE_NEW_SKILL_LEVEL3_DES]
-每次攻击时有25%的概率发射一枚可以击退中小体型僵尸的水弹。
+Bei jedem Angriff besteht eine Chance von 25 %, eine Wasserbombe abzufeuern, die kleine und mittlere Zombies abwehrt.
 
 [AQUAVINE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Chance, die Energiebohne direkt mit einem großen Angriff freizusetzen!
 
 [AQUAVINE_NEW_SKILL_LEVEL5_DES]
-每5次攻击后，下一次攻击会吹出一个水龙卷，造成伤害并将一个中小体型僵尸向右侧携带2格距离，随后水龙卷继续向右移动。
+Nach jeweils fünf Angriffen löst der nächste Angriff einen Wassertornado aus, der Schaden verursacht und einen kleinen und mittleren Zombie zwei Felder nach rechts wegreißt. Anschließend bewegt sich der Wassertornado weiter nach rechts.
 
 [AQUAVINE_PLANTFOOD_DESCRIPTION]
-水生藤蔓喷吐水浪，陆生形态时对本行的僵尸造成伤害，水生形态时会对僵尸造成伤害，并将所有中小体型僵尸击退至最后一格
+Wasserranken spucken Wasserwellen, die Zombies in derselben Reihe Schaden zufügen, wenn sie sich auf der Erde befinden, sowie Zombies in Wassergestalt. Sie stoßen alle kleinen und mittelgroßen Zombies auf das letzte Feld zurück.
 
 [AQUAVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-大招变为发射水龙卷，命中僵尸后会额外对僵尸造成3s的眩晕效果
+Die ultimative Fähigkeit ist ein Wassertornado, der Zombies nach einem Treffer 3 Sekunden lang betäubt.
 
 [ADVICE_PLANT_NOT_WITH_AQUAVINE]
-不能种植在水藤蔓上
+Kann nicht auf Aquaranken gepflanzt werden.
 
 [ADVICE_PLANT_AQUAVINE_ON_LILYPAD]
-不能在莲叶上种植水藤蔓
+Aquaranken können nicht auf Seerosen gepflanzt werden.
 
 [ICEWEED]
 Eiskraut
@@ -68570,659 +68594,707 @@ Schließe drei kombinierte Herausforderungen ab: Erhöhe den Verbrauch entfernte
 Die höchste Sternenanzahl aller Zeiten erreichte 2 Sterne.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_6_1]
-完成三个组合挑战：右侧菌毯(1星)，僵尸移速提升(2星)，左侧菌毯(3星)
-
-[UNCHARTED_CHILDRENSDAY_TASK_NAME_6_2]
-历史最高星数到达2星
+Schließe drei kombinierte Herausforderungen ab: Rechte Pilzdecke (1 Stern), Zombie-Geschwindigkeitssteigerung (2 Sterne), Linke Pilzdecke (3 Sterne) … AY_TASK_NAME_6_2]
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_6_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_6_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_6_5]
-历史最高星数到达10星
+Der höchste Stern der Geschichte hat 10 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_1]
-完成三个组合挑战：远程类植物种植冷却时间变为3倍(1星)，僵尸阶数提升(2星)，植物伤害降低(3星)
+Schließe drei Kombinationsherausforderungen ab: Die Abkühlzeit der Pflanzenbepflanzung wird verdreifacht (1 Stern), der Zombie-Rang wird erhöht (2 Sterne) und der Pflanzenschaden wird reduziert (3 Sterne).
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_2]
-历史最高星数到达2星
+Der höchste Stern der Geschichte hat 2 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_3]
-历史最高星数到达4星
+Der höchste Stern der Geschichte hat 4 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_4]
-历史最高星数到达6星
+Der höchste Stern der Geschichte hat 6 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_5]
-历史最高星数到达10星
+Der höchste Stern der Geschichte hat 10 Sterne erreicht. Sterne
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_1]
-完成三个组合挑战：植物伤害降低(1星)，收取阳光减少(2星)，僵尸阶数提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Pflanzenschaden reduziert (1 Stern), Sonnenlicht reduziert (2 Sterne), Zombie-Level erhöht (3 Sterne)
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_2]
-历史最高星数到达2星
+Der höchste Stern der Geschichte hat 2 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_3]
-历史最高星数到达4星
+Der höchste Stern der Geschichte hat 4 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_4]
-历史最高星数到达6星
+Der höchste Stern der Geschichte hat 6 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_5]
-历史最高星数到达10星
+Der höchste Stern der Geschichte hat 10 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_9_1]
-完成三个组合挑战：植物伤害降低(1星)，左侧菌毯(2星)，僵尸阶数提升8阶(3星)
+Drei kombinierte Herausforderungen abgeschlossen: Pflanzenschaden reduziert (1 Stern), Pilzdecke hinterlassen (2 Sterne), Zombie-Level um 8 erhöht. Level (3 Sterne)
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_9_2]
-历史最高星数到达2星
+Der höchste Stern der Geschichte hat 2 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_9_3]
-历史最高星数到达4星
+Der höchste Stern der Geschichte hat 4 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_9_4]
-历史最高星数到达6星
+Der höchste Stern der Geschichte hat 6 Sterne erreicht.
 
-[UNCHARTED_CHILDRENSDAY_TASK_NAME_9_5]
-历史最高星数到达10星
+[UNCHARTED_CHILDRENSDAY_TASK_NAME_9_6] HILDRENSDAY_TASK_NAME_9_5]
+Die höchste Sternenanzahl der Geschichte hat 10 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_10_1]
-完成三个组合挑战：阳光种植冷却增加(1星)，收取阳光减少(2星)，右侧菌毯(3星)
+Schließe drei Kombinationsherausforderungen ab: Erhöhe die Kühlung der Sonnenlichtbepflanzung (1 Stern), Reduziere die Sonnenlichtsammlung (2 Sterne), Richte die Pilzdecke aus (3 Sterne).
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_10_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl der Geschichte hat 2 Sterne erreicht
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_10_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_10_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_10_5]
-历史最高星数到达10星
-
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_1_1]
-完成三个组合挑战：收取阳光减少(1星)，僵尸攻击上升(2星)，僵尸速度加快(3星)
+Schließe drei Kombinationsherausforderungen ab: Sonnenlicht reduzieren (1 Stern), Zombieangriff erhöhen (2 Sterne) und Zombiegeschwindigkeit erhöhen (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_1_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_1_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht. Sterne
 
 [RE_HALLOWEEN_TASK_NAME_1_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_1_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_2_1]
-完成三个组合挑战：僵尸阶数提升(1星)，卡槽数量减少(2星)，左侧菌毯(3星)
+Schließe drei kombinierte Herausforderungen ab: Zombie-Level erhöhen (1 Stern), Kartensteckplatzanzahl reduzieren (2 Sterne), Pilzdecke zurücklassen (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_2_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_2_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_2_4]
-历史最高星数到达6星	
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_2_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne
 
 [RE_HALLOWEEN_TASK_NAME_3_1]
-完成三个组合挑战：坚韧植物消耗增加(1星)，左侧菌毯(2星)，植物伤害降低(3星)
+Schließe drei kombinierte Herausforderungen ab: Erhöht den Verbrauch von zähen Pflanzen (1 Stern), Verhindert Pilzbefall (2 Sterne), Reduziert Pflanzenschäden (3 Sterne)
 
 [RE_HALLOWEEN_TASK_NAME_3_2]
-历史最高星数到达2星
+Der höchste Stern aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_3_3]
-历史最高星数到达4星
+Der höchste Stern aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_3_4]
-历史最高星数到达6星
+Der höchste Stern aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_3_5]
-历史最高星数到达10星
+Der höchste Stern aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_4_1]
-完成三个组合挑战：僵尸阶数提升(1星)，卡槽数量减少(2星)，僵尸移速提升(3星)
+Schließe drei kombinierte Herausforderungen ab: Erhöht das Zombie-Level (1 Stern), Reduziert die Anzahl der Kartenfächer (2 Sterne), Erhöht die Bewegungsgeschwindigkeit der Zombies (3 Sterne)
 
 [RE_HALLOWEEN_TASK_NAME_4_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_4_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_4_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_4_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_5_1]
-完成三个组合挑战：远程植物消耗增加(1星)，收取阳光减少(2星)，僵尸攻击提升(3星)
+Schließe drei Kombinationsherausforderungen ab: Erhöhe den Verbrauch entfernter Pflanzen (1 Stern), Reduziere die Menge des gesammelten Sonnenlichts (2 Sterne) und Erhöhe den Angriff von Zombies (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_5_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_5_3]
-历史最高星数到达4星
+Die höchste Die Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_5_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_5_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_6_1]
-完成三个组合挑战：右侧菌毯(1星)，僵尸移速提升(2星)，左侧菌毯(3星)
+Schließe drei kombinierte Herausforderungen ab: Rechte Pilzdecke (1 Stern), Erhöhung der Zombie-Bewegungsgeschwindigkeit (2 Sterne), Linke Pilzdecke (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_6_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_6_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_6_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht. Sterne
 
 [RE_HALLOWEEN_TASK_NAME_6_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_7_1]
-完成三个组合挑战：远程类植物种植冷却时间变为3倍(1星)，僵尸阶数提升(2星)，植物伤害降低(3星)
+Schließe drei kombinierte Herausforderungen ab: Die Abkühlzeit für das Pflanzen von Pflanzen aus großer Entfernung wurde auf das Dreifache reduziert (1 Stern), der Zombie-Rang wurde erhöht (2 Sterne), der Pflanzenschaden wurde reduziert (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_7_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_7_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_7_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_7_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_8_1]
-完成三个组合挑战：植物伤害降低(1星)，收取阳光减少(2星)，僵尸阶数提升(3星)
+Schließe drei kombinierte Herausforderungen ab. Herausforderungen: Pflanzenschaden reduziert (1 Stern), Sonnenlichtsammlung reduziert (2 Sterne), Zombie-Rang erhöht (3 Sterne)
 
 [RE_HALLOWEEN_TASK_NAME_8_2]
-历史最高星数到达2星
+Der höchste Stern der Geschichte erreichte 2 Sterne.
 
 [RE_HALLOWEEN_TASK_NAME_8_3]
-历史最高星数到达4星
+Der höchste Stern der Geschichte erreichte 4 Sterne.
 
 [RE_HALLOWEEN_TASK_NAME_8_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_8_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_9_1]
-完成三个组合挑战：收取阳光减少(1星)，僵尸攻击提升(2星)，双舱飞机派对(3星)
+Schließe drei kombinierte Herausforderungen ab: Sonnenlichtsammlung reduzieren (1 Stern), Zombieangriff erhöhen (2 Sterne), Doppelkabinen-Flugzeugparty (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_9_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_9_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_9_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_9_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht. Sterne
 
 [RE_HALLOWEEN_TASK_NAME_10_1]
-完成三个组合挑战：阳光种植冷却增加(1星)，远程禁止(2星)，考古学家派对(3星)
+Schließe drei kombinierte Herausforderungen ab: Abklingzeiterhöhung für Sonnenscheinpflanzung (1 Stern), Fernsperre (2 Sterne), Archäologenparty (3 Sterne)
 
 [RE_HALLOWEEN_TASK_NAME_10_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_10_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_10_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_10_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_11_1]
-完成三个组合挑战：远程种植冷却增加(1星)，植物伤害降低(2星)，闪动僵尸派对(3星)
+Schließe drei kombinierte Herausforderungen ab: Abklingzeiterhöhung für Fernpflanzung (1 Stern), Pflanzenschadensreduzierung (2 Sterne), Blinkende Zombieparty (3 Sterne)
 
 [RE_HALLOWEEN_TASK_NAME_11_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_11_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_11_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_11_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_12_1]
-完成三个组合挑战：植物伤害降低(1星)，僵尸移速提升(2星)，推蛋小鬼派对(3星)
+Schließe drei Kombinationsherausforderungen ab: Pflanzenschadensreduzierung (1 Stern), Erhöhung der Zombie-Bewegungsgeschwindigkeit (2 Sterne), Eierschiebende Geisterparty (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_12_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht. Sterne
 
 [RE_HALLOWEEN_TASK_NAME_12_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_12_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_12_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_13_1]
-完成三个组合挑战：阳光种植冷却增加(1星)，坚韧禁止(2星)，全明星僵尸派对(3星)
+Schließe drei Kombinationsherausforderungen ab: Sonnenpflanzung: Abklingzeiterhöhung (1 Stern), Zähigkeitsverbot (2 Sterne), All-Star-Zombie-Party (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_13_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_13_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_13_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten Anzahl der Sterne im Verlauf hat 6 Sterne erreicht.
 
-[RE_HALLOWEEN_TASK_NAME_13_5]
-历史最高星数到达10星
+[RE_HALLOWEEN_TASK_NAME_13_5] LOWEEN_TASK_NAME_13_5]
+Die höchste Sterneanzahl im Verlauf hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_14_1]
-完成三个组合挑战：僵尸移速提升(1星)，奇兵禁止(2星)，绅士僵尸派对(3星)
+Schließe drei Kombinationsherausforderungen ab: Zombie-Geschwindigkeitssteigerung (1 Stern), Spezialeinheiten-Verbot (2 Sterne), Gentleman-Zombie-Party (3 Sterne).
 
 [RE_HALLOWEEN_TASK_NAME_14_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl im Verlauf hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_14_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl im Verlauf hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_14_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl im Verlauf hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_14_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl im Verlauf hat 10 Sterne erreicht. Sterne
 
 [RE_HALLOWEEN_TASK_NAME_15_1]
-完成三个组合挑战：免疫眩晕(1星)，奇兵禁止(2星)，芭蕾舞僵尸舞会(3星)
+Schließe drei Kombinationsherausforderungen ab: Immun gegen Betäubung (1 Stern), Verbot fremder Soldaten (2 Sterne), Ballett-Zombie-Tanz (3 Sterne)
 
 [RE_HALLOWEEN_TASK_NAME_15_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_15_3]
-历史最高星数到达4星
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_15_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_15_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_16_1]
-完成三个组合挑战：僵尸移速提升(1星)，左侧菌毯(2星)，寿司僵尸派对(3星)
+Schließe drei Kombinationsherausforderungen ab: Zombie-Beschleunigung (1 Stern), Linke Pilzdecke (2 Sterne), Sushi-Zombie-Party (3 Sterne)
 
 [RE_HALLOWEEN_TASK_NAME_16_2]
-历史最高星数到达2星
+Die höchste Sternenanzahl aller Zeiten hat 2 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_16_3]
-历史最高星数到达4星
+Die höchste Sternenanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_16_4]
-历史最高星数到达6星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_16_5]
-历史最高星数到达10星
+Die höchste Sternenanzahl aller Zeiten hat 6 Sterne erreicht.
+
+[RE_HALLOWEEN_TASK_NAME_16_6]
+LLOWEEN_TASK_NAME_16_5]
+Die höchste Sternenanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_17_1]
-完成三个组合挑战：奇兵种植冷却增加(1星)，远程禁止(2星)，周年庆法老僵尸派对(3星)
+Schließe drei Kombinationsherausforderungen ab: Erhöhe die Abklingzeit der Überraschungspflanzung (1 Stern), des Fernverbots (2 Sterne) und der Jubiläums-Pharaonen-Zombieparty. (3 Sterne)
 
 [RE_HALLOWEEN_TASK_NAME_17_2]
-历史最高星数到达2星
+Die höchste Sterneanzahl aller Zeiten hat 2 Sterne erreicht.
 
-[RE_HALLOWEEN_TASK_NAME_17_3]
-历史最高星数到达4星
+[RE_HALLOWEEN_TASK_NAME_1 7_3]
+Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_17_4]
-历史最高星数到达6星
+Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [RE_HALLOWEEN_TASK_NAME_17_5]
-历史最高星数到达10星
+Die höchste Sterneanzahl aller Zeiten hat 10 Sterne erreicht.
 
 [RE_HALLOWEEN_LEVEL_NAME_01]
-万圣惊魂-第1夜
+Halloween-Horror – Nacht 1
 
 [RE_HALLOWEEN_LEVEL_NAME_02]
-万圣惊魂-第2夜
+Halloween-Horror – Nacht 2
 
 [RE_HALLOWEEN_LEVEL_NAME_03]
-万圣惊魂-第3夜
+Halloween-Horror – Nacht 3
 
 [RE_HALLOWEEN_LEVEL_NAME_04]
-万圣惊魂-第4夜
+Halloween-Horror – Nacht 4
 
 [RE_HALLOWEEN_LEVEL_NAME_05]
-万圣惊魂-第5夜
+Halloween-Horror – Nacht 5
 
 [RE_HALLOWEEN_LEVEL_NAME_06]
-万圣惊魂-第6夜
+Halloween-Horror – Nacht 6
 
 [RE_HALLOWEEN_LEVEL_NAME_07]
-万圣惊魂-第7夜
+Halloween-Horror – Nacht 7
 
 [RE_HALLOWEEN_LEVEL_NAME_08]
-万圣惊魂-第8夜
+Halloween-Horror – Nacht 8
+
+[RE_HALLOWEEN_LEVEL_NAME_09]
+Halloween-Horror – Nacht 10 E_07]
+Halloween-Horror – Nacht 7
+
+[RE_HALLOWEEN_LEVEL_NAME_08]
+Halloween-Horror – Nacht 8
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_1_DESCRIPTION]
-僵尸阶数提升2阶
+Zombie-Level um 2 Stufen erhöht
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_1]
-僵尸阶数提升2阶
+Zombie-Level um 2 Stufen erhöht
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_2_DESCRIPTION]
-僵尸阶数提升5阶
+Zombie-Level um 5 Stufen erhöht
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_2]
-僵尸阶数提升5阶
+Zombie-Level um 5 Stufen erhöht
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_3_DESCRIPTION]
-僵尸阶数提升8阶
+Zombie-Level um 8 Stufen erhöht
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_3]
-僵尸阶数提升8阶
+Zombie-Level um 8 Stufen erhöht
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_4_DESCRIPTION]
-僵尸阶数提升9阶
+Zombie-Level um 9 Stufen erhöht
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_4]
-僵尸阶数提升9阶
+Zombie-Level um 9 Stufen erhöht
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_1_DESCRIPTION]
-僵尸移动速度提升30%
+Zombie-Bewegungsgeschwindigkeit um 30 % erhöht
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_1]
-僵尸移动速度提升30%
+Zombie-Bewegungsgeschwindigkeit um 30 % erhöht
+
+[SPRING_ZOMBIE_SPEED_DIFFICULTY_1]
+Zombie-Bewegungsgeschwindigkeit um 30 % erhöht
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_2_DESCRIPTION]
-僵尸移动速度提升50%
+Zombie-Bewegungsgeschwindigkeit um 50 % erhöht
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_2]
-僵尸移动速度提升50%
+Zombie-Bewegungsgeschwindigkeit um 50 %
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_3_DESCRIPTION]
-僵尸移动速度提升70%
+Bewegungsgeschwindigkeit der Zombies um 70 % erhöht
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_3]
-僵尸移动速度提升70%
+Bewegungsgeschwindigkeit der Zombies um 70 % erhöht
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_4_DESCRIPTION]
-僵尸移动速度提升90%
+Bewegungsgeschwindigkeit der Zombies um 90 % erhöht
 
 [SPRING_ZOMBIE_SPEED_DIFFICULTY_4]
-僵尸移动速度提升90%
+Bewegungsgeschwindigkeit der Zombies um 90 % erhöht
 
 [SPRING_SUN_REDUCED_DIFFICULTY_1_DESCRIPTION]
-收取阳光减少10%
+Reduziert die Sonnenlichtsammlung um 10 %
 
 [SPRING_SUN_REDUCED_DIFFICULTY_1]
-收取阳光减少10%
+Reduziert die Sonnenlichtsammlung um 10 %
 
 [SPRING_SUN_REDUCED_DIFFICULTY_2_DESCRIPTION]
-收取阳光减少30%
+Reduziert die Sonnenlichtsammlung um 30 %
 
 [SPRING_SUN_REDUCED_DIFFICULTY_2]
-收取阳光减少30%
+Reduziert das Sonnenlicht um 30 %
 
 [SPRING_SUN_REDUCED_DIFFICULTY_3_DESCRIPTION]
-收取阳光减少50%
+Reduziert das Sonnenlicht um 50 %
 
 [SPRING_SUN_REDUCED_DIFFICULTY_3]
-收取阳光减少50%
+Reduziert das Sonnenlicht um 50 %
 
 [SPRING_SUN_REDUCED_DIFFICULTY_4_DESCRIPTION]
-收取阳光减少70%
+Reduziert das Sonnenlicht um 70 %
 
 [SPRING_SUN_REDUCED_DIFFICULTY_4]
-收取阳光减少70%
+Reduziert das Sonnenlicht um 50 % (70 % weniger)
 
 [SPRING_ARTIFACT_TIMES_DIFFICULTY_3_DESCRIPTION]
-禁用神器
+Deaktiviert Artefakte
 
 [SPRING_ARTIFACT_TIMES_DIFFICULTY_3]
-禁用神器
+Deaktivierte Artefakte
 
 [ZOMBIE_DEFAULT_DIFFICULTY_1]
-难度Ⅰ
+Schwierigkeitsgrad I
 [ZOMBIE_DEFAULT_DIFFICULTY_1_DESCRIPTION]
-僵尸初始阶数为1阶，神器使用次数为2次
+Zombies haben Anfangslevel 1, das Artefakt kann maximal 2 Mal verwendet werden.
 
 [ZOMBIE_DEFAULT_DIFFICULTY_2]
-难度Ⅱ
+Schwierigkeitsgrad II
 [ZOMBIE_DEFAULT_DIFFICULTY_2_DESCRIPTION]
-僵尸初始阶数为4阶，神器使用次数为1次
+Zombies haben Anfangslevel 4, Artefakte können maximal 1 Mal verwendet werden.
 
 [ZOMBIE_DEFAULT_DIFFICULTY_3]
-难度Ⅲ
+Schwierigkeitsgrad III
 [ZOMBIE_DEFAULT_DIFFICULTY_3_DESCRIPTION]
-僵尸初始阶数为5阶，无法使用神器和能量豆
+Zombies haben Anfangslevel 5, Artefakte und Energie Bohnen können nicht verwendet werden.
 
 [ZOMBIE_LEVEL_DIFFICULTY_1]
-僵尸阶数提升(1星)
+Zombie-Level steigt um 1 Stern.
 [ZOMBIE_LEVEL_DIFFICULTY_1_DESCRIPTION]
-僵尸阶数额外提升1阶
+Zombie-Level steigt um 1 zusätzliche Stufe.
 
 [ZOMBIE_LEVEL_DIFFICULTY_2]
-僵尸阶数提升(2星)
+Zombie-Level steigt um 2 zusätzliche Stufen.
+
 [ZOMBIE_LEVEL_DIFFICULTY_2_DESCRIPTION]
-僵尸阶数额外提升2阶
+Zombie-Level steigt um 2 zusätzliche Stufen.
 
 [ZOMBIE_LEVEL_DIFFICULTY_3]
-僵尸阶数提升(3星)
+Zombie-Level steigt um 3 zusätzliche Stufen.
+
 [ZOMBIE_LEVEL_DIFFICULTY_3_DESCRIPTION]
-僵尸阶数额外提升3阶
+Zombie-Level steigt um 3 zusätzliche Stufen.
 
 [ZOMBIE_SPEED_DIFFICULTY_1]
-僵尸移速提升(1星)
+Zombie-Geschwindigkeits-Upgrade (1 Stern).
 [ZOMBIE_SPEED_DIFFICULTY_1_DESCRIPTION]
-移动速度提升50%
+Bewegungsgeschwindigkeit. 50 % erhöht
 
 [ZOMBIE_SPEED_DIFFICULTY_2]
-僵尸移速提升(2星)
+Bewegungsgeschwindigkeit der Zombies erhöht (2 Sterne)
 [ZOMBIE_SPEED_DIFFICULTY_2_DESCRIPTION]
-移动速度提升100%
+Bewegungsgeschwindigkeit um 100 % erhöht
 
 [ZOMBIE_SPEED_DIFFICULTY_3]
-僵尸移速提升(3星)
+Bewegungsgeschwindigkeit der Zombies erhöht (3 Sterne)
 [ZOMBIE_SPEED_DIFFICULTY_3_DESCRIPTION]
-移动速度提升150%
+Bewegungsgeschwindigkeit um 1,50 % erhöht
 
 [ZOMBIE_IMMUNITY_DIFFICULTY_1]
-免疫眩晕(1星）
+Immun gegen Betäubung (1 Stern)
 [ZOMBIE_IMMUNITY_DIFFICULTY_1_DESCRIPTION]
-免疫眩晕
+Immun gegen Betäubung
 
 [ZOMBIE_IMMUNITY_DIFFICULTY_2]
-免疫控制效果(2星）
+Immun gegen Kontrolleffekte (2 Sterne)
 [ZOMBIE_IMMUNITY_DIFFICULTY_2_DESCRIPTION]
-免疫控制效果
+Immun gegen Kontrolleffekte
 
 [ZOMBIE_IMMUNITY_DIFFICULTY_3]
 [ZOMBIE_IMMUNITY_DIFFICULTY_3_DESCRIPTION]
 
 [ZOMBIE_ATTACK_DIFFICULTY_1]
-僵尸攻击提升(1星)
+Zombie-Angriffsverstärkung (1 Stern)
+
 [ZOMBIE_ATTACK_DIFFICULTY_1_DESCRIPTION]
-僵尸攻击力提升100%
+Zombie-Angriffskraftverstärkung um 100 %
 
 [ZOMBIE_ATTACK_DIFFICULTY_2]
-僵尸攻击提升(2星)
-[ZOMBIE_ATTACK_DIFFICULTY_2_DESCRIPTION]
-僵尸攻击力提升200%
+Zombie-Angriffskraftverstärkung (2 Sterne)
 
-[ZOMBIE_ATTACK_DIFFICULTY_3]
-僵尸攻击提升(3星)
+[ZOMBIE_ATTACK_DIFFICULTY_2_DESCRIPTION]
+Zombie-Angriffskraftverstärkung um 200 %
+
 [ZOMBIE_ATTACK_DIFFICULTY_3_DESCRIPTION]
-僵尸攻击力提升300%
+Zombie-Angriffskraftverstärkung um 100 %
+
+[ZOMBIE_ATTACK_DIFFICULTY_2]
+Angriffskraft der Zombies erhöht (2 Sterne)
+
+[ZOMBIE_ATTACK_DIFFICULTY_2_DESCRIPTION]
+Angriffskraft der Zombies um 200 % erhöht
+
+[ZOMBIE_ATTACK_DIFFICULTY_3_DESCRIPTION]
+Angriffskraft der Zombies um 100 % erhöht
+
+[ZOMBIE_ATTACK_DIFFICULTY_2_DESCRIPTION] FICULTY_3]
+Zombieangriff erhöht (3 Sterne)
+[ZOMBIE_ATTACK_DIFFICULTY_3_DESCRIPTION]
+Zombieangriff um 300 % erhöht
 
 [PLANT_PACKETS_DIFFICULTY_1]
-卡槽数量减少(1星)
+Anzahl der Kartenplätze verringert (1 Stern)
 [PLANT_PACKETS_DIFFICULTY_1_DESCRIPTION]
-植物卡槽数量减少至6个
+Anzahl der Pflanzenkartenplätze verringert auf 6
 
 [PLANT_PACKETS_DIFFICULTY_2]
-卡槽数量减少(2星)
+Die Anzahl der Kartenplätze wurde verringert (2 Sterne).
+[PLANT_PACKETS_DIFFICULTY_3_DESCRIPTION]
+Der Zombieangriff wurde um 300 % erhöht.
+
+[PLANT_PACKETS_DIFFICULTY_1_DESCRIPTION]
+Die Anzahl der Pflanzenkartenplätze wurde auf 6 verringert.
+
 [PLANT_PACKETS_DIFFICULTY_2_DESCRIPTION]
-植物卡槽数量减少至5个
+Die Anzahl der Kartenplätze wurde verringert (2 Sterne).
+
+[PLANT_PACKETS_DIFFICULTY_2_DESCRIPTION]
+Die Anzahl der Pflanzenplätze wurde auf 5 reduziert.
 
 [PLANT_PACKETS_DIFFICULTY_3]
-卡槽数量减少(3星)
+Die Anzahl der Plätze wurde verringert (3 Sterne).
+
 [PLANT_PACKETS_DIFFICULTY_3_DESCRIPTION]
-植物卡槽数量减少至4个
+Die Anzahl der Pflanzenplätze wurde auf 4 reduziert.
 
 [SUN_REDUCED_DIFFICULTY_1]
-收取阳光减少(1星)
-[SUN_REDUCED_DIFFICULTY_1_DESCRIPTION]
-收取阳光数量减少30%
+Die Menge des gesammelten Sonnenlichts wurde verringert (1 Stern)
 
-[SUN_REDUCED_DIFFICULTY_2]
-收取阳光减少(2星)
+[SUN_REDUCED_DIFFICULTY_1_DESCRIPTION]
+Die Menge des gesammelten Sonnenlichts wurde um 30 % reduziert.
+
+[SUN_REDUCED_DIFFICU LTY_2]
+Reduziert Sonnenlicht (2 Sterne)
 [SUN_REDUCED_DIFFICULTY_2_DESCRIPTION]
-收取阳光数量减少50%
+Reduziert Sonnenlicht um 50 %.
 
 [SUN_REDUCED_DIFFICULTY_3]
-收取阳光减少(3星)
+Reduziert Sonnenlicht (3 Sterne)
 [SUN_REDUCED_DIFFICULTY_3_DESCRIPTION]
-收取阳光数量减少70%
+Reduziert Sonnenlicht um 70 %.
 
 [PLANT_DAMAGE_REDUCED_DIFFICULTY_1]
-植物伤害降低(1星)
-[PLANT_DAMAGE_REDUCED_DIFFICULTY_1_DESCRIPTION]
-植物攻击造成伤害减少20%
+Reduziert Pflanzenschäden (1 Stern)
+[PLANT_DAMAGE_REDUCED_DIFFICULTY_2_DESCRIPTION]
+Reduziert Sonnenlicht um 50 %
+
+[SUN_REDUCED_DIFFICULTY_3_DESCRIPTION]
+Reduziert Sonnenlicht um 70 %
+
+[PLANT_DAMAGE_REDUCED_DIFFICULTY_1]
+Reduziert Pflanzenschaden (1 Stern)
+
+Pflanzenangriffe verursachen 20 % weniger Schaden
 
 [PLANT_DAMAGE_REDUCED_DIFFICULTY_2]
-植物伤害降低(2星)
+Reduzierung des Pflanzenschadens (2 Sterne)
+
 [PLANT_DAMAGE_REDUCED_DIFFICULTY_2_DESCRIPTION]
-植物攻击造成伤害减少40%
+Pflanzenangriffe verursachen 40 % weniger Schaden
 
 [PLANT_DAMAGE_REDUCED_DIFFICULTY_3]
-植物伤害降低(3星)
+Reduzierung des Pflanzenschadens (3 Sterne)
 [PLANT_DAMAGE_REDUCED_DIFFICULTY_3_DESCRIPTION]
-植物攻击造成伤害减少60%
+Schaden durch Pflanzenangriffe reduziert um 60 %
 
 [SHOOTER_PLANT_COST_DIFFICULTY_1]
-远程植物消耗增加(1星)
+Kosten für Fernkampfpflanzen erhöht (1 Stern)
 [SHOOTER_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-种植远程类植物阳光消耗变为3倍
+Sonnenlichtkosten für das Pflanzen von Fernkampfpflanzen verdreifacht
 
 [WARRIOR_PLANT_COST_DIFFICULTY_1]
-先锋植物消耗增加(1星)
+Kosten für Vorhutpflanzen erhöht (1 Stern)
 [WARRIOR_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-种植先锋类植物阳光消耗变为3倍
+Sonnenlichtkosten für das Pflanzen von Vorhutpflanzen verdreifacht
 
 [SUPPORTER_PLANT_COST_DIFFICULTY_1]
-辅助植物消耗增加(1星)
+Verbrauch von Unterstützerpflanzen erhöht (1 Stern)
 [SUPPORTER_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-种植辅助类植物阳光消耗变为3倍
+Sonnenlichtverbrauch für das Pflanzen von Unterstützungspflanzen verdreifacht
 
 [PROTECTOR_PLANT_COST_DIFFICULTY_1]
-坚韧植物消耗增加(1星)
+Verbrauch von robusten Pflanzen erhöht (1 Stern)
 [PROTECTOR_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-种植坚韧类植物阳光消耗变为3倍
+Der Sonnenlichtverbrauch für das Pflanzen robuster Pflanzen hat sich verdreifacht
 
 [SUNMAKER_PLANT_COST_DIFFICULTY_1]
-阳光植物消耗增加(1星)
+Kosten für Sonnenpflanzen erhöht (1 Stern)
 [SUNMAKER_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-种植阳光类植物阳光消耗变为3倍
+Kosten für Sonnenpflanzen verdreifacht
 
 [SPECIALIST_PLANT_COST_DIFFICULTY_1]
-奇兵植物消耗增加(1星)
-[SPECIALIST_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-种植奇兵类植物阳光消耗变为3倍
+Kosten für Spezialpflanzen erhöht (1 Stern)
+[SPECIALIST_PLANT_COST_DIFFICULTY_1_DESCRIPTIO N]
+Der Sonnenlichtverbrauch für den Anbau von Spezialwaffenpflanzen wird verdreifacht.
 
 [SHOOTER_DISABLE_PLANT_DIFFICULTY_2]
-远程禁止(2星)
+Fernbedienungsverbot (2 Sterne)
 [SHOOTER_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
-禁止携带远程类植物
+Das Tragen von Fernbedienungspflanzen ist verboten.
 
 [WARRIOR_DISABLE_PLANT_DIFFICULTY_2]
-先锋禁止(2星)
-[WARRIOR_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
-禁止携带先锋类植物
+Vorhutverbot (2 Sterne)
+[WARRIOR_DISABLE_PLANT_DIFFICULTY_2_ DESCRIPTION]
+Keine Pionierpflanzen erlaubt
 
 [SUPPORTER_DISABLE_PLANT_DIFFICULTY_2]
-辅助禁止(2星)
+Unterstützer verboten (2 Sterne)
 [SUPPORTER_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
-禁止携带辅助类植物
+Keine Unterstützungspflanzen erlaubt
 
 [PROTECTOR_DISABLE_PLANT_DIFFICULTY_2]
-坚韧禁止(2星)
+Zähigkeit verboten (2 Sterne)
 [PROTECTOR_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
-禁止携带坚韧类植物
+Zähigkeitspflanzen verboten
 
 [SUNMAKER_DISABLE_PLANT_DIFFICULTY_2]
-阳光禁止(2星)
+Sonnenschein verboten (2 Sterne)
 [SUNMAKER_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
-禁止携带阳光类植物
+Sonnenscheinpflanzen verboten
 
 [SPECIALIST_DISABLE_PLANT_DIFFICULTY_2]
-奇兵禁止(2星)
-[SPECIALIST_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
-禁止携带奇兵类植物
+Spezialist verboten (2 Sterne)
+[SPECIALIST_DISABLE_PLANT_DIFFICULTY_2 [SHOOTER_SPECIALIST_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
+Tragen von Spezialwaffen verboten
 
 [SHOOTER_SPECIALIST_DISABLE_PLANT_DIFFICULTY_3]
-远程、奇兵禁止(3星)
-[SHOOTER_SPECIALIST_DISABLE_PLANT_DIFFICULTY_3_DESCRIPTION]
-禁止携带远程、奇兵类植物
+Ferngesteuerte und Spezialwaffen verboten (3 Sterne)
 
-[SHOOTER_PLANT_CD_DIFFICULTY_1]
-远程种植冷却增加(3星)
+[SHOOTER_SPECIALIST_DISABLE_PLANT_DIFFICULTY_3_DESCRIPTION]
+Tragen von ferngesteuerten und Spezialwaffen verboten
+
+[SHOOTER_PLANT_CD_DIFFICUL TY_1]
+Abklingzeit für ferngesteuertes Pflanzen erhöht (3 Sterne)
 [SHOOTER_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
-远程类植物种植冷却时间变为3倍
+Abklingzeit für ferngesteuertes Pflanzen verdreifacht
 
 [WARRIOR_PLANT_CD_DIFFICULTY_1]
-先锋种植冷却增加(1星)
+Abklingzeit für Vanguard-Pflanzen erhöht (1 Stern)
 [WARRIOR_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
-先锋类植物种植冷却时间变为3倍
+Abklingzeit für Vanguard-Pflanzen verdreifacht
 
-[SUPPORTER_PLANT_CD_DIFFICULTY_1]
-辅助种植冷却增加(1星)
+[SUPPORTER_PLANT_CD_DI FFICULTY_1]
+Abklingzeit für unterstütztes Pflanzen erhöht (1 Stern)
 [SUPPORTER_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
-辅助类植物种植冷却时间变为3倍
+Abklingzeit für unterstütztes Pflanzen verdreifacht
 
 [PROTECTOR_PLANT_CD_DIFFICULTY_1]
-坚韧种植冷却增加(1星)
+Abklingzeit für schwieriges Pflanzen erhöht (1 Stern)
 [PROTECTOR_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
-坚韧类植物种植冷却时间变为3倍
+Abklingzeit für schwieriges Pflanzen verdreifacht
 
 [SUNMAKER_PLANT_CD_DIFFICULTY_1]
-阳光种植冷却增加(1星)
+Abklingzeit für Sonnenmacher-Pflanzen erhöht (1 Stern)
 [SUNMAKER_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
-阳光类植物种植冷却时间变为3倍
+Abklingzeit der Sonnenmacherpflanze verdreifacht
 
 [SPECIALIST_PLANT_CD_DIFFICULTY_1]
-奇兵种植冷却增加(1星)
+Abklingzeit der Spezialpflanze erhöht (1 Stern)
 [SPECIALIST_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
-奇兵类植物种植冷却时间变为3倍
+Abklingzeit der Spezialpflanze verdreifacht
 
 [MOLD_1]
 Pilzbelag links (1 Stern)
@@ -69310,36 +69382,34 @@ Blinkende Zombieparty (3 Sterne)
 Die Lebenspunkte des blinkenden Zombies wurden um 300 % erhöht. Die Musik auf dem Spielfeld wurde ignoriert, um die Fähigkeit zu aktivieren.
 
 [DINO_ZOMBIE]
-推蛋小鬼派对(3星)
+Dino-Zombie-Party (3 Sterne)
 [DINO_ZOMBIE_DESCRIPTION]
-推蛋小鬼僵尸血量提升200%，移动速度提升50%
+Dino-Zombies erhalten 200 % mehr Lebenspunkte und 50 % mehr Bewegungsgeschwindigkeit.
 
 [MODERN_ZOMBIE]
-全明星僵尸派对(3星)
+All-Star-Zombie-Party (3 Sterne)
 [MODERN_ZOMBIE_DESCRIPTION]
-全明星僵尸血量提升200%，飞奔状态在击杀两颗植物后结束
+All-Star-Zombies erhalten 200 % mehr Lebenspunkte und rennen nach dem Töten von zwei Pflanzen.
 
 [STEAM_ZOMBIE]
-绅士僵尸派对(3星)
+Gentleman-Zombie-Party (3 Sterne)
 [STEAM_ZOMBIE_DESCRIPTION]
-绅士僵尸血量提升300%，腾空飞起的冷却时间减少至5秒
+Gentleman-Zombies erhalten 300 % mehr Lebenspunkte und 5 Sekunden weniger Abklingzeit beim Fliegen.
 
 [RENAI_ZOMBIE]
-芭蕾舞僵尸舞会(3星)
+Ballett-Zombie-Tanz (3 Sterne)
 [RENAI_ZOMBIE_DESCRIPTION]
-芭蕾舞僵尸血量提升300%
+Ballett-Zombies erhalten 300 % mehr Lebenspunkte.
 
 [HEIAN_ZOMBIE]
-寿司僵尸派对(3星)
+Sushi-Zombie-Party (3 Sterne)
 [HEIAN_ZOMBIE_DESCRIPTION]
-寿司僵尸血量提升300%，投掷寿司的冷却时间减少至6秒
+Die Lebenspunkte des Sushi-Zombies wurden um 300 % erhöht und die Abklingzeit beim Sushi-Werfen auf 6 Sekunden reduziert.
 
 [BIRTHDAY_ZOMBIE]
-周年庆法老僵尸派对(3星)
+Jubiläums-Pharao-Zombie-Party (3 Sterne)
 [BIRTHDAY_ZOMBIE_DESCRIPTION]
-周年庆法老僵尸本体血量提升300%
-
-
+Die Lebenspunkte des Jubiläums-Pharao-Zombies wurden um 300 % erhöht.
 
 [PEASHOOTER_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie rechts neben der Erbsenkanone, feuert er Erbsengeschosse geradlinig auf den Zombie ab.
