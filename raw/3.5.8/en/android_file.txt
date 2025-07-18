@@ -13004,18 +13004,6 @@ Ein Riesenzombie mit Markenbewusstsein.
 [NARRATIVE_DARK_INTRO_SUNSHROOM_CHAT_4]
 {NPC_ENTER:winnie}{PLAYFUL:winnie}Ich glaube, du musst dafür sorgen, dass sie nicht vorher von irgendetwas gefressen werden.
 
-[NARRATIVE_DARK_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{PLAYFUL}Es ist so dunkel! Ich kann nichts sehen!
-
-[NARRATIVE_DARK_INTRO_FIRSTLEVEL_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Entdeckung zeigt, dass dies eine Welt der Schwerter und Magie ist und das Sonnenlicht derzeit nicht hierher gelangen kann.
-
-[NARRATIVE_DARK_INTRO_FIRSTLEVEL_3]
-{NPC_ENTER:crazydave}{PLAYFUL}Magie? Dann lass uns schnell gehen, ich werde die Magie finden, mit der man Tacos machen kann!
-
-[NARRATIVE_DARK_INTRO_FIRSTLEVEL_4]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Du brauchst etwas Licht, um dich zurechtzufinden, bevor es so weit ist ...
-
 [NARRATIVE_BEACH_INTRO_TIDES_1]
 {NPC_ENTER:crazydave}{PLAYFUL}Der Wasserstand hier ist niedrig, und wir haben eine große Fläche zum Pflanzen.
 
@@ -28605,7 +28593,7 @@ hart.
 {TUTORIAL}
 
 [NARRATIVE_DANGER_ROOM_LAWNMOWER_SUCCESS_3]
-{SAY}Deine Energiebohnen reichen bis zum nächsten Level!
+{SAY}Deine Spezialdünger-Fähigkeiten reichen bis zum nächsten Level!
 
 [NARRATIVE_DANGER_ROOM_LAWNMOWER_SUCCESS_4]
 {TUTORIAL}
@@ -28613,20 +28601,17 @@ hart.
 [NARRATIVE_DANGER_ROOM_LAWNMOWER_SUCCESS_5]
 {PLAYFUL}Zeit, eine andere Pflanze auszuwählen!
 
-[NARRATIVE_DARK_INTRO_EVILPOTIONS_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}Achtung! Ich habe eine Glasflasche mit einer böse getarnten Verbindung entdeckt!
+[NARRATIVE_DARK_INTRO_FIRSTLEVEL_1]
+{NPC_ENTER:crazydave}{PLAYFUL}Es ist so dunkel! Ich kann nichts sehen!
 
-[NARRATIVE_DARK_INTRO_EVILPOTIONS_2]
-{TIRED:CRAZYDAVE}Kannst du mir das in Crazy Daves Sprache übersetzen?
+[NARRATIVE_DARK_INTRO_FIRSTLEVEL_2]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Entdeckung zeigt, dass dies eine Welt der Schwerter und Magie ist und das Sonnenlicht derzeit nicht hierher gelangen kann.
 
-[NARRATIVE_DARK_INTRO_EVILPOTIONS_3]
-{TIRED:WINNIE}Auf dem Rasen liegt ein böser Trank!
+[NARRATIVE_DARK_INTRO_FIRSTLEVEL_3]
+{NPC_ENTER:crazydave}{PLAYFUL}Magie? Dann lass uns schnell gehen, ich werde die Magie finden, mit der man Tacos machen kann!
 
-[NARRATIVE_DARK_INTRO_EVILPOTIONS_4]
-{EXCITED:CRAZYDAVE}Böser mittelalterlicher Trank! Die gefährlichste Sorte ...
-
-[NARRATIVE_DARK_INTRO_EVILPOTIONS_5]
-{EXCITED:CRAZYDAVE}Doppelt so böse!
+[NARRATIVE_DARK_INTRO_FIRSTLEVEL_4]
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Du brauchst etwas Licht, um dich zurechtzufinden, bevor es so weit ist ...
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_5]
 {SAY:WINNIE}Und die Sonne scheint nicht mehr.
@@ -28642,6 +28627,21 @@ hart.
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_9]
 {EXCITED:CRAZYDAVE}Sie sorgen auch für mehr Sonnenschein! Bravo Leute, das ist genial.
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE}Achtung! Ich habe eine Glasflasche mit einer böse getarnten Verbindung entdeckt!
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_2]
+{TIRED:CRAZYDAVE}Kannst du mir das in Crazy Daves Sprache übersetzen?
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_3]
+{TIRED:WINNIE}Auf dem Rasen liegt ein böser Trank!
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_4]
+{EXCITED:CRAZYDAVE}Böser mittelalterlicher Trank! Die gefährlichste Sorte ...
+
+[NARRATIVE_DARK_INTRO_EVILPOTIONS_5]
+{EXCITED:CRAZYDAVE}Doppelt so böse!
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}Ich fürchte, das dunkle Zeitalter hat mir eine schlimme Dampfkrankheit beschert.
