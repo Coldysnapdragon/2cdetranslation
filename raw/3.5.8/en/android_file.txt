@@ -1,6 +1,4 @@
-﻿[KILL_ALL_ZOMBIE]
-Sammle Sonnenlicht, um Pflanzen zu pflanzen und der Zombie-Invasion zu widerstehen.
-
+﻿
 [ACHIEVE_BROADSIDE_DESC]
 Benutze die Kokosnusskanone, um die Zombie-Wichtelkanone zu zerstören.
 
@@ -21,6 +19,9 @@ Wähle eine der folgenden Belohnungen!
 
 [ADVICE_PLANT_NOT_DEEPSEA]
 Diese Pflanze kann nicht im Meer gepflant werden
+
+[KILL_ALL_ZOMBIE]
+Sammle Sonnenlicht, um Pflanzen zu pflanzen und der Zombie-Invasion zu widerstehen.
 
 [SEASHROOM]
 Meeres-Pilz
@@ -5583,13 +5584,13 @@ Cheatcodes nutzen, um das Level zu meistern
 Cheatcode-Demo
 
 [STARCHALLENGE_PRESET_PLANTS]
-Widersteht mit ausgewählten Pflanzen dem Zombie-Angriff.
+Widerstehe mit vorgegebenen Pflanzen dem Zombie-Angriff.
 
 [STARCHALLENGE_PRESET_PLANTS_NAME]
 Pflanzenkrise
 
 [STARCHALLENGE_PROTECT_THE_PLANT]
-Schließt das Level erfolgreich ab und schützt die gefährdete Pflanze.
+Schließt das Level erfolgreich ab und schützt die bedrohten Pflanzen.
 
 [STARCHALLENGE_POWERUP_DEMO_NAME]
 Cheatcode-Demo
