@@ -68212,16 +68212,16 @@ Lähmen I
 Hypnotisieren I
 
 [PLANT_TAG_1]
-Heilung
+Heilen
 
 [PLANT_TAG_2]
-Unterstützung
+Unterstützen
 
 [PLANT_TAG_3]
 Schwächen
 
 [PLANT_TAG_4]
-Yang-Produktion
+Sonnen-Produktion
 
 [PLANT_TAG_6]
 Erbse
@@ -68241,8 +68241,8 @@ Sofort töten
 [PLANT_TAG_11]
 Werfen
 
-[PLANT_TAG_1 ANT_TAG_12]
-Handbuch
+[PLANT_TAG_12]
+Manuell
 
 [PLANT_TAG_13]
 Explosion
@@ -68266,7 +68266,7 @@ Gift
 Schatten
 
 [PLANT_TAG_18]
-Beschwörung
+Beschwören
 
 [PLANT_TAG_19]
 Verbrauch
