@@ -2667,185 +2667,184 @@ Dieser Benutzername existiert bereits.
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_AVATAR_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}看来你已经拿到植物的装扮了。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Sieht so aus, als hättest du das Pflanzenkostüm.
 
 [NARRATIVE_TUTORIAL_AVATAR_INTRO_2]
-{SAY:crazydave}快来给他穿上，然后在僵尸身上试试效果吧！
+{SAY:crazydave}Komm, zieh es ihm an und probiere es an Zombies aus!
 
 [NARRATIVE_TUTORIAL_AVATAR_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_EGYPT6_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}植物穿上装扮后，会使他们的大招变得更厉害。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wenn Pflanzen Kostüme tragen, werden ihre Ultimates noch mächtiger.
 
 [NARRATIVE_TUTORIAL_EGYPT6_INTRO_2]
-{SAY:crazydave}现在就来试试吧！
+{SAY:crazydave}Probier es jetzt aus!
 
 [NARRATIVE_TUTORIAL_EGYPT6_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_TRAVELLOG_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}嘿，你看到这段木头了吗？他叫旅行原木。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hey, hast du dieses Stück Holz gesehen? Es heißt Reisetagebuch.
 
 [NARRATIVE_TUTORIAL_TRAVELLOG_INTRO_2]
-{SAY:crazydave}他每天都会发布一些请求需要你去帮忙，当然也有回礼噢。
+{SAY:crazydave}Er postet täglich Anfragen und braucht deine Hilfe. Natürlich gibt es Belohnungen.
 
 [NARRATIVE_TUTORIAL_TRAVELLOG_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_EGYPT8_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{PLAYFUL:crazydave}哇偶！你看，这个地方居然有骷髅标识。
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wow! Schau mal, hier ist ein Totenkopfschild.
 
 [NARRATIVE_TUTORIAL_EGYPT8_INTRO_2]
-{SAY:winnie}这个标识说明，这个地方将会出现可怕的僵尸。要小心。
+{SAY:winnie}Dieses Schild bedeutet, dass es hier schreckliche Zombies gibt. Sei vorsichtig.
 
 [NARRATIVE_TUTORIAL_EGYPT8_INTRO_3]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_ACCESSORY_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}看！你刚刚获得了一个挂件！快用用看。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Sieh mal! Du hast gerade einen Anhänger bekommen! Probier ihn aus.
 
 [NARRATIVE_TUTORIAL_ACCESSORY_INTRO_2]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_ACCESSORY1_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}现在你已经为植物穿戴上挂件了，完美！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Jetzt hast du einen Anhänger an deiner Pflanze – perfekt!
 
 [NARRATIVE_TUTORIAL_ACCESSORY1_INTRO_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}对了，恭喜你！翻开旅行手册最后一页，快去看看有什么奖励吧！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Übrigens, herzlichen Glückwunsch! Öffne die letzte Seite des Reiseführers und sieh dir an, welche Belohnungen du hast!
 
 [NARRATIVE_TUTORIAL_ACCESSORY1_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_LEGEND_DRAW_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}让我们看看植物升级后的威力吧！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Seht euch die Kraft der verbesserten Pflanzen an!
 
 [NARRATIVE_TUTORIAL_LEGEND_DRAW_INTRO_2]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_PLANT_FAMILY_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}当植物们团结起来的时候会有不可思议的力量！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wenn Pflanzen sich vereinen, erlangen sie unglaubliche Kräfte!
 
 [NARRATIVE_TUTORIAL_PLANT_FAMILY_INTRO_2]
-{SAY:crazydave}在植物家族里面尝试去解放他们的力量吧！
+{SAY:crazydave}Versuche, die Kraft der Pflanzenfamilie zu befreien!
 
 [NARRATIVE_TUTORIAL_PLANT_FAMILY_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_ARTIFACT_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}新的神器装置研发完成了！
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Das neue Artefaktgerät wurde entwickelt!
 
 [NARRATIVE_TUTORIAL_ARTIFACT_INTRO_2]
-{SAY:winnie}是时候去看看了！
+{SAY:winnie}Es ist Zeit, es dir anzusehen!
 
 [NARRATIVE_TUTORIAL_ARTIFACT_INTRO_3]
 {NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_PENNY_CLASSROOM_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}学习植物使用技巧并最终获得5棵4阶植物，能更好地对抗僵尸入侵。
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Lerne die Fähigkeiten im Umgang mit Pflanzen und erhalte schließlich fünf Pflanzen der Stufe 4, die die Zombie-Invasion besser bekämpfen können.
 
 [NARRATIVE_TUTORIAL_PENNY_CLASSROOM_INTRO_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}好耶！下一个植物大师就是你！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Super! Der nächste Pflanzenmeister bist du!
 
 [NARRATIVE_TUTORIAL_PENNY_CLASSROOM_INTRO_3]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_ARTIFACT_SECOND_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}点击这个按钮！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Klicke auf diese Schaltfläche!
 
 [NARRATIVE_TUTORIAL_ARTIFACT_SECOND_INTRO_2]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_ARTIFACT_THIRD_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}嘿！发现拥有神器的僵尸了！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hey! Ich habe einen Zombie mit einem Artefakt gefunden!
 
 [NARRATIVE_TUTORIAL_ARTIFACT_THIRD_INTRO_2]
-{SAY:crazydave}事不宜迟，赶紧去抢过来吧！
+{SAY:crazydave}Es gibt keine Zeit zu verlieren, beeil dich und schnapp es dir!
 
 [NARRATIVE_TUTORIAL_ARTIFACT_THIRD_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_ARTIFACT_LEVEL_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}干掉这个关卡里的僵尸就能获得新的神器了
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Töte die Zombies in diesem Level, um ein neues Artefakt zu erhalten.
 
 [NARRATIVE_TUTORIAL_ARTIFACT_LEVEL_INTRO_2]
-{SAY:crazydave}这次就先把我研制到一半的神风神器借你用用吧。
+{SAY:crazydave}Ich leihe dir diesmal mein halbfertiges Kamikaze-Artefakt.
 
 [NARRATIVE_TUTORIAL_ARTIFACT_LEVEL_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_CRYSTAL_STORE_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}有邪恶的僵尸向我们入侵过来了！尝试挑战他们吧！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Böse Zombies dringen in uns ein! Versuche, sie herauszufordern!
 
 [NARRATIVE_TUTORIAL_CRYSTAL_STORE_INTRO_2]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_GALAXY1_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}你已经帮我找到这里的玉米卷了。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Du hast mir geholfen, die Tacos hier zu finden.
 
 [NARRATIVE_TUTORIAL_GALAXY1_INTRO_2]
-{SAY:crazydave}我想我们可以出发去找新的口味了。
+{SAY:crazydave}Ich denke, wir können rausgehen und neue Geschmacksrichtungen entdecken.
 
 [NARRATIVE_TUTORIAL_GALAXY1_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_GALAXY2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY}经过探测，在附近发现了一些新的世界。
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY}Nachdem ich die Welt erkundet hatte, entdeckte ich in der Nähe einige neue Welten.
 
 [NARRATIVE_TUTORIAL_GALAXY2_INTRO_2]
-{SAY:winnie}经对比，其中的海盗风格和西部风格的世界危险系数判定较低。
+{SAY:winnie}Nach dem Vergleich wird das Risiko in der Piraten- und Westernwelt als geringer eingeschätzt.
 
 [NARRATIVE_TUTORIAL_GALAXY2_INTRO_3]
-{SHOUT:crazydave}Emmm……我想我们可以先从不那么危险的地方开始探索。
-
+{SHOUT:crazydave}Ähm ... Ich denke, wir sollten zuerst die weniger gefährlichen Orte erkunden.
 
 [NARRATIVE_TUTORIAL_GALAXY2_INTRO_4]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_PLANTADVENTURE_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}植物们除了能为你守卫花园外，还会去寻找伙伴。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Pflanzen bewachen nicht nur deinen Garten, sondern suchen auch Partner.
 
 [NARRATIVE_TUTORIAL_PLANTADVENTURE_INTRO_2]
-{SAY:crazydave}去尝试派遣他们去冒险吧！相信会有不一样的收获。
+{SAY:crazydave}Versuch, sie auf ein Abenteuer zu schicken! Ich glaube, du wirst etwas Besonderes erleben.
 
 [NARRATIVE_TUTORIAL_PLANTADVENTURE_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_LEVEL_UP_LEGEND_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}用升阶的植物继续挑战吧！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Fordere sie weiterhin mit verbesserten Pflanzen heraus!
 
 [NARRATIVE_TUTORIAL_LEVEL_UP_LEGEND_INTRO_2]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TUTORIAL_PVP_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}我们发现了这个时空竟然还链接着其他平行世界！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wir haben entdeckt, dass diese Raumzeit tatsächlich mit anderen Parallelwelten verbunden ist!
 
 [NARRATIVE_TUTORIAL_PVP_INTRO_2]
-{SAY:crazydave}来这里面看看吧！你或许会有一些不一样的体验。
+{SAY:crazydave}Schau es dir an! Vielleicht machst du ja andere Erfahrungen.
 
 [NARRATIVE_TUTORIAL_PVP_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_TRANSGENOSIS_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}你现在应该有不少植物碎片吧？
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Du solltest jetzt viele Pflanzenfragmente haben, oder?
 
 [NARRATIVE_TUTORIAL_TRANSGENOSIS_INTRO_2]
-{SAY:crazydave}你可以在转基因中试试让他们变得更有用。
+{SAY:crazydave}Du kannst versuchen, sie durch genetische Veränderung nützlicher zu machen.
 
 [NARRATIVE_TUTORIAL_TRANSGENOSIS_INTRO_3]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_RIFT_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}哈喽，潘妮好像追踪到了僵尸博士的信号，快给我来看看吧！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hallo, Penny scheint Dr. Zombies Signal aufgespürt zu haben. Schau doch mal vorbei!
 
 [NARRATIVE_TUTORIAL_RIFT_INTRO_2]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_HARD_LEVEL_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}咦！这里的问题不是解决了吗？怎么又出事了？
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Hey! Wurde das Problem hier nicht gelöst? Warum ist es schon wieder passiert?
 
 [NARRATIVE_TUTORIAL_HARD_LEVEL_INTRO_2]
-{SAY:winnie}肯定是因为不服气，所以带着更强的力量再来挑战我们了。
+{SAY:winnie}Es muss daran liegen, dass er nicht überzeugt ist und deshalb mit stärkerer Kraft erneut an uns herangetreten ist, um uns herauszufordern.
 
 [NARRATIVE_TUTORIAL_HARD_LEVEL_INTRO_3]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
@@ -4532,102 +4531,102 @@ Kontaktdaten des Kundenservice:
 [SETTINGS_CONTRACT_PHONE]
 
 [SETTINGS_CONTRACT_EMAIL]
-客服邮箱: 2059044571@qq.com
+Kundenservice-E-Mail: 2059044571@qq.com
 
 [SETTINGS_CONTRACT_QQ]
-客服QQ: 2059044571
+Kundenservice QQ: 2059044571
 
 [SETTINGS_ABOUT_PROMPT]
-游戏名称：植物大战僵尸2
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-客服QQ公众号： 4008932088
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
-服务时间：9:00-18:00
-客服邮箱：csonline@139.com 
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2
+Spieltyp: Casual Puzzle
+Firmenname: Tuowei Information System Co., Ltd.
+Kundenservice-Hotline: 4008932088
+Hinweis: Klicken Sie auf „Jemand finden“, zeigen Sie die Tuowei Game-Hotline an und klicken Sie auf „Folgen“.
+Servicezeiten: 9:00–18:00 Uhr
+Kundenservice-E-Mail: csonline@139.com
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HD]
-游戏名称：植物大战僵尸2高清版
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-客服QQ公众号： 4008932088
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
-服务时间：9:00-18:00
-客服邮箱：csonline@139.com 
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2 HD-Version
+Spieltyp: Casual Puzzle
+Firmenname: Tuowei Information System Co., Ltd.
+Kundenservice-Hotline: 4008932088
+Hinweis: Klicken Sie auf „Jemand finden“, zeigen Sie die Tuowei Game-Hotline an und klicken Sie auf „Folgen“.
+Servicezeiten: 9:00–18:00 Uhr
+Kundenservice-E-Mail: csonline@139.com
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HD_A]
-游戏名称：植物大战僵尸2高清版
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-客服QQ公众号： 4008932088
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
-服务时间：9:00-18:00
-客服邮箱：csonline@139.com 
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2 HD-Version
+Spieltyp: Gelegenheitsrätsel
+Firmenname: Tuowei Information System Co., Ltd.
+Kundenservice-Hotline: 4008932088
+Hinweis: Klicken Sie auf „Jemand finden“, rufen Sie die „Tuowei Game“-Hotline auf und klicken Sie auf „Folgen“.
+Servicezeiten: 9:00–18:00 Uhr
+Kundenservice-E-Mail: csonline@139.com
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HUAWEI]
-游戏名称：植物大战僵尸2高清版
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2 HD-Version
+Spieltyp: Gelegenheitsrätsel
+Firmenname: Tuowei Information System Co., Ltd.
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_IOS]
-游戏名称：植物大战僵尸2高清版
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-客服QQ公众号： 4008932088
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
-客服邮箱：2059044571@qq.com
-服务时间：9:00-18:00
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2 HD
+Spieltyp: Casual Puzzle
+Firmenname: Tuowei Information System Co., Ltd.
+Kundenservice-Hotline: 4008932088
+Hinweis: Klicken Sie auf „Jemand finden“, zeigen Sie die Tuowei Game-Hotline an und klicken Sie auf „Folgen“.
+Kundenservice-E-Mail: 2059044571@qq.com
+Servicezeiten: 9:00–18:00 Uhr
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_TELECOM]
-游戏名称：植物大战僵尸2
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-客服QQ公众号： 4008932088
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
-客服电话：4008932088 
-服务时间：9:00-18:00，
-客服邮箱： csonline@139.com 
-免责声明：本游戏的版权归拓维信息系统股份有限公司所有，游戏中的文字、图片等内容均为游戏版权所有者的个人态度或立场，中国电信对此不承担任何法律责任
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2
+Spieltyp: Casual Puzzle
+Firmenname: Tuowei Information System Co., Ltd.
+Kundenservice-Hotline: 4008932088
+Hinweis: Klicken Sie auf „Jemand finden“, zeigen Sie die Tuowei Game-Hotline an und klicken Sie auf „Folgen“.
+Kundenservice-Telefon: 4008932088
+Servicezeiten: 9:00–18:00 Uhr
+Kundenservice-E-Mail: csonline@139.com
+Haftungsausschluss: Das Urheberrecht dieses Spiels liegt bei Tuowei Information System Co., Ltd. Texte, Bilder und andere Inhalte spiegeln die persönliche Einstellung oder Position des Urheberrechtsinhabers wider. China Telecom übernimmt hierfür keine rechtliche Verantwortung.
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_TELECOM_HD]
-游戏名称：植物大战僵尸2高清版
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-客服QQ公众号： 4008932088
-客服电话：4008932088 
-注：点击“找人”，显示“拓维游戏”公众号，点击“关注”
-服务时间：9:00-18:00，
-客服邮箱： csonline@139.com 
-免责声明：本游戏的版权归拓维信息系统股份有限公司所有，游戏中的文字、图片等内容均为游戏版权所有者的个人态度或立场，中国电信对此不承担任何法律责任
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2 HD-Version
+Spieltyp: Gelegenheitsrätsel
+Firmenname: Tuowei Information System Co., Ltd.
+Kundenservice-Hotline: 4008932088
+Kundenservice-Telefon: 4008932088
+Hinweis: Klicken Sie auf „Jemanden finden“. Die Telefonnummer von „Tuowei Game“ wird angezeigt. Klicken Sie auf „Folgen“.
+Servicezeiten: 9:00–18:00 Uhr
+Kundenservice-E-Mail: csonline@139.com
+Haftungsausschluss: Das Urheberrecht an diesem Spiel liegt bei Tuowei Information System Co., Ltd. Texte, Bilder und andere Inhalte spiegeln die persönliche Einstellung oder Position des Urheberrechtsinhabers wider. China Telecom übernimmt hierfür keine rechtliche Verantwortung.
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_QQ]
-游戏名称：植物大战僵尸2
-游戏类型：休闲益智
-客服页面：kf.qq.com
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2
+Spieltyp: Casual Puzzle
+Kundenservice-Seite: kf.qq.com
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_JINLI]
-游戏名称：植物大战僵尸2
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-服务时间：9:00-18:00
-客服邮箱：csonline@139.com 
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2
+Spieltyp: Casual Puzzle
+Firmenname: Tuowei Information System Co., Ltd.
+Servicezeiten: 9:00–18:00 Uhr
+Kundenservice-E-Mail: csonline@139.com
+Versionsnummer: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_JINLIHD]
-游戏名称：植物大战僵尸2高清版
-游戏类型：休闲益智
-公司名称：拓维信息系统股份有限公司
-服务时间：9:00-18:00
-客服邮箱：csonline@139.com 
-版本号：{VersionName}
+Spielname: Plants vs. Zombies 2 HD
+Spieltyp: Casual Puzzle
+Firmenname: Tuowei Information Systems Co., Ltd.
+Servicezeiten: 9:00–18:00 Uhr
+Kundenservice-E-Mail: csonline@139.com
+Versionsnummer: {VersionName}
 
 [SETTINGS_FPS_TITLE]
 Bilder pro Sekunde
@@ -4716,13 +4715,11 @@ http://filead.talkyun.com.cn/tw/sdk.htm
 [SETTINGS_INVENTORY_URL_ANDROID]
 http://filead.talkyun.com.cn/tw/sdk.htm 
 
-
-
 [TMALL_STORE_URL]
 http://pvztmall.popcap.com.cn
 
 [TMALL_STORE_BUTTON_CONTENT]
-购买周边产品
+Peripherieprodukte kaufen
 
 [SETTINGS_TITLE]
 Einstellungen
@@ -5251,10 +5248,10 @@ Zermatscht mehrere schwere Ziele auf dem Rasen und kehrt dann an seinen Ursprung
 Zermatscht Zombies. 
 
 [STAR_GATE]
-时空之门
+Zeit- und Raumtor
 
 [STAR_GATE_DESCRIPTION]
-允许进入%s世界！
+Ermöglicht den Eintritt in die Welt von %s!
 
 [STARCHALLENGE_BULLET_SYMBOL]
 
@@ -6646,69 +6643,75 @@ Oder geben Sie aus
 Jetzt freischalten
 
 [WORLD_PREVIEW_DESCRIPTION_COWBOY]
-这是1850年，淘金热席卷整个西部。
-集中植物火力，应对牛仔僵尸们的入侵！
+Wir schreiben das Jahr 1850, und der Goldrausch erfasst den Westen.
+Konzentriere deine Pflanzenkraft, um die Invasion der Cowboy-Zombies abzuwehren!
 
 [WORLD_PREVIEW_DESCRIPTION_FUTURE]
-2323年，僵尸们进行科学分离提取脑子，未来的植物能拯救你吗？
+Im Jahr 2323 trennen und extrahieren Zombies wissenschaftlich Gehirne. Können die Pflanzen der Zukunft dich retten?
 
 [WORLD_PREVIEW_DESCRIPTION_PIRATE]
-这是1679年，海盗们的黄金鼎盛时期。
-海盗僵尸们来势汹汹，志在夺脑！
+Wir schreiben das Jahr 1679, die goldene Blütezeit der Piraten.
+Piraten-Zombies rücken in Scharen vor und wollen dir Gehirne stehlen!
 
 [WORLD_PREVIEW_DESCRIPTION_ICEAGE]
-这是史前的冰河时代，寒风中隐藏着无数危机。
-史前僵尸们蜂拥而至，你需要万分小心！
+Wir befinden uns in der prähistorischen Eiszeit, und unzählige Krisen verbergen sich im kalten Wind.
+Prähistorische Zombies strömen herein, also sei äußerst vorsichtig!
 
 [WORLD_PREVIEW_DESCRIPTION_SKYCITY]
-这是广阔的无尽天空，云层中满是危险的雷电。
-僵尸们驾驶着各种危险的武器，小心不要被击沉！
+Dies ist der weite, endlose Himmel, und die Wolken sind voller gefährlichem Donner und Blitz.
+Zombies schwingen alle möglichen gefährlichen Waffen. Pass auf, dass du nicht untergehst!
 
 [WORLD_PREVIEW_STAR_BALANCE]
-余额：%d
+Guthaben: %d
 
 [WORLD_PREVIEW_TEASER_COWBOY]
-22个全新关卡！
-7种全新植物！
-6种全新强化功能！
+22 neue Level!
+7 neue Pflanzen!
+6 neue Verbesserungen!
 
 [WORLD_PREVIEW_TEASER_FUTURE]
-更多关卡
-更多植物
-更多强化
+Mehr Level
+Mehr Pflanzen
+Mehr Verbesserungen
 
 [WORLD_PREVIEW_TEASER_HEADER_COWBOY]
-32个新内容
+32 neue Inhalte
 
 [WORLD_PREVIEW_TEASER_HEADER_FUTURE]
-更多选项
+Mehr Optionen
 
 [WORLD_PREVIEW_TEASER_HEADER_PIRATE]
-32个新内容
+32 neue Inhalte
 
 [WORLD_PREVIEW_TEASER_HEADER_SKYCITY]
-全新的天空场景！
+Neue Himmelsszene!
 
 [WORLD_PREVIEW_TEASER_PIRATE]
-22个全新关卡！
-7种全新植物！
-5种全新强化功能！
+22 neue Level!
+
+7 neue Pflanzen!
+
+5 neue Power-Ups!
 
 [WORLD_PREVIEW_TEASER_HEADER_ICEAGE]
-全新冰雪世界！
+Neue Eiswelt!
 
 [WORLD_PREVIEW_TEASER_ICEAGE]
-34个全新关卡！
-9种全新植物！
-15个新僵尸！
+34 neue Level!
+
+9 neue Pflanzen!
+
+15 neue Zombies!
 
 [WORLD_PREVIEW_TEASER_SKYCITY]
-全新的战斗场景！
-全新的战斗机制！
-全新的僵尸和植物！
+Neue Kampfszene!
+
+Neue Kampfmechaniken!
+
+Neue Zombies und Pflanzen!
 
 [WORLDMAP_YETI_EVENT_ALERT_PAY_DESCRIPTION]
-击败雪人，获得神秘宝藏！要引它出来得花点金币才行…
+Besiege den Yeti und hol dir den geheimnisvollen Schatz! Sie müssen einige Münzen ausgeben, um es herauszulocken ...
 
 [PAY_YET_PLAY]
 Start
@@ -6788,32 +6791,32 @@ Kamelzombies
 Tritt immer in Gruppen mit anderen Kamelzombies auf.
 
 [ZOMBIE_CAMEL_MANYHUMP]
-骆驼僵尸
+Kamel-Zombie
 
 [ZOMBIE_CAMEL_MANYHUMP_DESCRIPTION_HEADER]
-众多骆驼组组长的领队。
+Der Anführer vieler Kamelgruppen.
 
 [ZOMBIE_CAMEL_ONEHUMP]
-骆驼僵尸
+Kamel-Zombie
 
 [ZOMBIE_CAMEL_ONEHUMP_DESCRIPTION_HEADER]
-一组骆驼的组长。
+Der Anführer einer Kamelgruppe.
 
 [ZOMBIE_CAMEL_ONEHUMP_DESCRIPTION]
-{KEYWORD}特点：{STAT}三只或更多的骆驼僵尸组队来袭
-{KEYWORD}弱点：{STAT}能够攻击一行僵尸的植物是他（们）的克星
+{KEYWORD}Eigenschaften:{STAT}Drei oder mehr Kamel-Zombies greifen in einer Gruppe an.
+{KEYWORD}Schwäche:{STAT}Pflanzen, die eine Reihe von Zombies angreifen können, sind seine/ihre Nemesis.
 
 [ZOMBIE_CAMEL_SEGMENT]
-骆驼僵尸
+Kamel-Zombie
 
 [ZOMBIE_CAMEL_SEGMENT_DESCRIPTION_HEADER]
-一个骆驼组里的某一只驼峰而已。
+Nur ein Höcker in einer Kamelgruppe.
 
 [ZOMBIE_CAMEL_TWOHUMP]
-骆驼僵尸
+Kamel-Zombie
 
 [ZOMBIE_CAMEL_TWOHUMP_DESCRIPTION_HEADER]
-两个骆驼组的组长。
+Der Anführer der beiden Kamelgruppen.
 
 [ZOMBIE_CANNON]
 Wicht-Kanone
@@ -7835,142 +7838,142 @@ Erfolgreich erhalten
 Grabfresser fressen Grabsteine.
 
 [KERNELPULT_PRODUCT_SHORT_DESC]
-向僵尸投掷玉米粒和黄油块。
+Wirf Maiskörner und Butterwürfel auf Zombies.
 
 [CHILIBEAN_PRODUCT_SHORT_DESC]
-送上肠胃瘫痪的“大礼”！
+Verschenke Magen-Darm-Lähmung!
 
 [IMITATER_PRODUCT_SHORT_DESC]
-允许你使用两张相同的植物卡片！
+Ermöglicht die Verwendung von zwei identischen Pflanzenkarten!
 
 [TORCHWOOD_PRODUCT_SHORT_DESC]
-点燃豌豆，造成双倍伤害。
+Entzündet Erbsen für doppelten Schaden.
 
 [TWINSUNFLOWER_PRODUCT_SHORT_DESC]
-双胞向日葵,双倍阳光！
+Doppelte Sonnenblumen, doppelter Sonnenschein!
 
 [COCONUTCANNON_PRODUCT_SHORT_DESC]
-轰翻整条路线上的僵尸。
+Zerstöre Zombies entlang der gesamten Route.
 
 [LIGHTNINGREED_PRODUCT_SHORT_DESC]
-电击最近几条线路上的僵尸。
+Schockt Zombies auf den nächsten Routen.
 
 [MELONPULT_PRODUCT_SHORT_DESC]
-对成群的僵尸造成巨大伤害。
+Fügt Zombiegruppen massiven Schaden zu.
 
 [PEAPOD_PRODUCT_SHORT_DESC]
-堆叠种植多棵豌豆使威力倍增！
+Stapeln Sie mehrere Erbsen, um ihre Kraft zu vervielfachen!
 
 [SNOWPEA_PRODUCT_SHORT_DESC]
-发射冰豌豆让僵尸慢下来。
+Schießt Eiserbsen, um Zombies zu verlangsamen.
 
 [REPEATER_PRODUCT_SHORT_DESC]
-能一次发射两颗豌豆。
+Kann zwei Erbsen gleichzeitig verschießen.
 
 [SPIKEROCK_PRODUCT_SHORT_DESC]
-可以摧毁多个滚桶僵尸。
+Kann mehrere Fass-Zombies zerstören.
 
 [TALLNUT_PRODUCT_SHORT_DESC]
-能有效阻挡僵尸前进。
+Effektiv, um Zombies aufzuhalten.
 
 [THREEPEATER_PRODUCT_SHORT_DESC]
-在三条线上同时射出豌豆。
+Schießt Erbsen in drei Reihen gleichzeitig.
 
 [WINTERMELON_PRODUCT_SHORT_DESC]
-造成范围性的伤害并让僵尸减速。
+Verursacht Flächenschaden und verlangsamt Zombies.
 
 [CHERRYBOMB_PRODUCT_SHORT_DESC]
-给小范围的僵尸造成巨大伤害！
+Fügt Zombies in einem kleinen Bereich massiven Schaden zu!
 
 [PEASHOOTER_PRODUCT_SHORT_DESC]
-发射豌豆，造成伤害。
+Schießt Erbsen und verursacht Schaden.
 
 [SUNFLOWER_PRODUCT_SHORT_DESC]
-基本的阳光来源。
+Eine einfache Sonnenlichtquelle.
 
 [WALLNUT_PRODUCT_SHORT_DESC]
-小而坚固的保护者。
+Ein kleiner, robuster Beschützer.
 
 [POTATOMINE_PRODUCT_SHORT_DESC]
-威力巨大的地雷。
+Eine mächtige Mine.
 
 [CABBAGEPULT_PRODUCT_SHORT_DESC]
-抛射卷心菜，造成伤害。
+Schießt Kohlköpfe und verursacht Schaden.
 
 [ICEBURG_PRODUCT_SHORT_DESC]
-冻住过路的僵尸。
+Friert vorbeikommende Zombies ein.
 
 [BOOOMERANG_PRODUCT_SHORT_DESC]
-对前方最多三个目标造成二次伤害。
+Fügt bis zu drei Zielen vor dir Sekundärschaden zu.
 
 [BONKCHOY_PRODUCT_SHORT_DESC]
-近战功夫了得。
+Hervorragend im Nahkampf.
 
 [SPRINGBEAN_PRODUCT_SHORT_DESC]
-弹飞踩上来的僵尸。
+Lässt Zombies, die darauf treten, abprallen.
 
 [SPIKEWEED_PRODUCT_SHORT_DESC]
-可以摧毁单个滚筒僵尸。
+Kann einen einzelnen Roller-Zombie vernichten.
 
 [SNAPDRAGON_PRODUCT_SHORT_DESC]
-喷出威力巨大的火焰。
+Spuckt mächtige Flammen.
 
 [POWERLILY_PRODUCT_SHORT_DESC]
-生成一颗能量豆。
+Erzeugt eine Energiebohne.
 
 [SQUASH_PRODUCT_SHORT_DESC]
-用沉重的身体压死僵尸。
+Zerquetscht Zombies mit seinem schweren Körper.
 
 [SPLITPEA_PRODUCT_SHORT_DESC]
-向前后两个方向发射豌豆
+Schießt Erbsen vorwärts und rückwärts.
 
 [BAMBOO_PRODUCT_SHORT_DESC]
-在地底穿行，攻击一条线上的僵尸。
+Bewegt sich unter der Erde und greift Zombies in einer Reihe an.
 
 [HOLONUT_PRODUCT_SHORT_DESC]
-他们可以慢慢自我治疗。
+Kann sich langsam selbst heilen.
 
 [LASER_BEAN_PRODUCT_SHORT_DESC]
-朝僵尸群发射激光。
+Feuert Laser auf Zombies.
 
 [MAGNIFYINGGRASS_PRODUCT_SHORT_DESC]
-点击后使用阳光发射辐射攻击波。
+Klicken, um Strahlungsangriffswellen mit Sonnenlicht abzufeuern.
 
 [CITRON_PRODUCT_SHORT_DESC]
-充能柚子可以发射等离子炮。
+Aufgeladene Grapefruit kann Plasmakanonen abfeuern.
 
 [CARROTLAUNCHER_PRODUCT_SHORT_DESC]
-胡萝卜导弹车可以向前方发射导弹。
+Das Karotten-Raketenauto kann Raketen nach vorne abfeuern.
 
 [DANDELION_PRODUCT_SHORT_DESC]
-蒲公英可以轰炸前方的僵尸。
+Löwenzahn kann Zombies vor sich bombardieren.
 
 [BROCCOLI_PRODUCT_SHORT_DESC]
-大力花菜可以抓住僵尸攻击前后方。
+Brokkoli kann Zombies packen und von vorne und hinten angreifen.
 
 [PAMEGRANATE_PRODUCT_SHORT_DESC]
-机枪石榴可以扫射前方一定范围的僵尸。
+Das Maschinengewehr-Granatapfel kann Zombies in einer bestimmten Reichweite vor sich abschießen.
 
 [CHOMPER_PRODUCT_SHORT_DESC]
-大嘴花可以吞食前方的僵尸。
+Die Mundblume kann Zombies vor sich verschlingen.
 
 [SWEETPOTATO_PRODUCT_SHORT_DESC]
-甜薯可以吸引附近的僵尸并阻挡他们前进。
+Süßkartoffeln können Zombies in der Nähe anlocken und sie blockieren.
 
 [LILYPAD_PRODUCT_SHORT_DESC]
-莲叶可以种在水上并使其他植物种在他身上。
+Seerosenblätter können auf Wasser gepflanzt werden und andere Pflanzen dazu bringen, sich darauf anzusiedeln.
 
 [BOWLINGBULB_PRODUCT_SHORT_DESC]
-保龄泡泡可以发射能够弹射的子弹。
+Bowling Bubble kann Kugeln abfeuern, die abprallen.
 
 [BANANA_PRODUCT_SHORT_DESC]
-香蕉大炮可以手动瞄准要轰炸的目标。
+Bananenkanone kann manuell auf das Ziel zielen, um es zu bombardieren.
 
 [GUACODILE_PRODUCT_SHORT_DESC]
-鳄梨可以发射子弹攻击也能将自己发射出去。
+Avocado kann Kugeln abfeuern, um anzugreifen, und sich selbst in die Luft schleudern.
 
 [TANGLEKELP_PRODUCT_SHORT_DESC]
-缠绕水草可以缠住一个僵尸并沉入水底。
+Tangle Weed kann Zombies verwickeln und auf den Grund des Wassers sinken lassen.
 
 [HOMINGTHISTLE_PRODUCT_SHORT_DESC]
 Homing Thistle kann automatisch den nächsten Gegner anvisieren.
@@ -10341,462 +10344,469 @@ Kirschbomben-Outfit
 ^009900 (Begrenzte Zeit 5.1–5.7)^oldclr
 
 [STORE_GIFT_LABORDAY_ICEBURG_DESC]
-最新冰冻生菜装扮！
+Neuestes Eisburger-Outfit!
 
 [STORE_GIFT_LABORDAY_ICEBURG_DESC_NO_PLANT]
-你还没有解锁冰冻生菜植物，是否继续购买冰冻生菜装扮？
+Du hast die Eisburger-Pflanze noch nicht freigeschaltet. Möchtest du das Eisburger-Outfit kaufen?
 
 [STORE_GIFT_LABORDAY_THREEPEATER_DESC]
-最新三重射手装扮！
+Neuestes Dreifach-Shooter-Outfit!
 
 [STORE_GIFT_LABORDAY_THREEPEATER_DESC_NO_PLANT]
-你还没有解锁三重射手植物，是否继续购买三重射手装扮？
+Du hast die Dreifach-Shooter-Pflanze noch nicht freigeschaltet. Möchtest du das Dreifach-Shooter-Outfit kaufen?
 
 [STORE_GIFT_LABORDAY_CHEERBOOM_DESC]
-最新樱桃炸弹装扮！
+Neuestes Kirschbomben-Outfit!
 
 [STORE_GIFT_LABORDAY_CHEERBOOM_DESC_NO_PLANT]
-你还没有解锁樱桃炸弹植物，是否继续购买樱桃炸弹装扮？
+Du hast die Kirschbomben-Pflanze noch nicht freigeschaltet. Möchtest du das Kirschbomben-Outfit kaufen?
 
 [STORE_GIFT_LABORDAY_ONE_GIFT_DESC]
-冰西瓜＋高坚果
-^009900 (本日限定)^oldclr
+Eiswassermelone + Große Nüsse
+^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_TWO_GIFT_DESC]
-双重射手装扮＋菜问装扮
-^009900 (本日限定)^oldclr
+Doppelschützenkostüm + Nawen-Kostüm
+^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_THREE_GIFT_DESC]
-椰子加农炮＋椰子加农炮装扮
-^009900 (本日限定)^oldclr
+Kokosnusskanone + Kokosnusskanonenkostüm
+^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_FOUR_GIFT_DESC]
-豌豆荚＋豌豆荚装扮
-^009900 (本日限定)^oldclr
+Erbsenschote + Erbsenschote-Kostüm
+^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_FIVE_GIFT_DESC]
-闪电芦苇＋火炬树桩
-^009900 (本日限定)^oldclr
+Blitzschilf + Fackelholzstumpf
+^009900 (Heute (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_SIX_GIFT_DESC]
-火葫芦＋仙桃
-^009900 (本日限定)^oldclr
+Feuerkürbis + Feenpfirsich
+^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_SEVEN_GIFT_DESC]
-玉米投手＋玉米投手装扮
-^009900 (本日限定)^oldclr
+Maiskrug + Maiskrugkostüm
+^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_DIALOG_TITLE_BUY_IT]
-购买礼包
+Geschenkpaket kaufen
 
 [STORE_GIFT_DIALOG_TITLE_NO_PLNAT]
-尚未获得植物
+Noch nicht erhaltene Pflanzen
 
 [STORE_GIFT_LABORDAY_CRACKER_GIFT]
-竹员外礼包
+Zhu Yuanwai Geschenkpaket
 
 [STORE_GIFT_LABORDAY_CRACKER_GIFT_DESC]
-^009900 限时6.20-6.30^oldclr
-进阶竹员外与装扮
+^009900 Begrenzte Zeit: 6:20–6:30 Uhr^oldclr
+Fortgeschritten: Zhu Yuanwai und Kostüm
 
 [STORE_GIFT_LABORDAY_CHESTNUT_GIFT]
-板栗礼包
+Kastanien-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_CHESTNUT_GIFT_DESC]
-^009900 限时6.20-6.30^oldclr
-进阶板栗小队与装扮
+^009900 Nur für kurze Zeit, 6:20–6:30 Uhr, ^oldclr
+Fortgeschrittenes Kastanien-Team und Kostüm
 
 [STORE_GIFT_LABORDAY_PEPPERPULT_GIFT]
-辣椒礼包
+Pfeffer-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PEPPERPULT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶辣椒投手与装扮
+^009900 Nur für kurze Zeit, ab sofort bis 9:16 Uhr, ^oldclr
+Fortgeschrittener Pfefferkrug und Kostüm
 
 [STORE_GIFT_LABORDAY_RAFFLESIA_GIFT]
-大王花礼包
+Rafflesia-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_RAFFLESIA_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶大王花与装扮
+^009900 Nur für kurze Zeit, ab sofort bis 9:16 Uhr, ^oldclr
+Fortgeschritten Rafflesia und Kostüm
 
 [STORE_GIFT_LABORDAY_ACORN_GIFT]
-橡果礼包
+Eichel-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_ACORN_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶旋风橡果与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 9.16 Uhr)
+Fortschrittliche Zyklon-Eichel und Kostüm
 
 [STORE_GIFT_LABORDAY_WINTERMELON_GIFT]
-冰西瓜礼包
+Eis-Wassermelonen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_WINTERMELON_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶冰西瓜投手与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 9.16 Uhr)
+Fortschrittlicher Eis-Wassermelonen-Krug und Kostüm
 
 [STORE_GIFT_LABORDAY_FIRESHROOM_GIFT]
-烈焰菇礼包
+Feuerpilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_FIRESHROOM_GIFT_DESC]
-^009900 限时6.20-6.30^oldclr
-进阶烈焰菇与装扮
+^009900 Nur für kurze Zeit erhältlich 18:20–18:30 Uhr
+Feuerpilz und Kostüm für Fortgeschrittene
 
 [STORE_GIFT_LABORDAY_ICESHROOM_GIFT]
-寒冰菇礼包
+Eispilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_ICESHROOM_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶寒冰菇与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittener Eispilz und Kostüm
 
 [STORE_GIFT_LABORDAY_BANANA_GIFT]
-香蕉礼包
+Bananen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_BANANA_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶香蕉火箭炮与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 16.9.)
+Fortgeschrittene Bananen-Bazooka und Kostüm
 
 [STORE_GIFT_LABORDAY_LEMON_GIFT]
-柠檬礼包
+Zitronen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_LEMON_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶强酸柠檬与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 16.9.)
+Fortgeschrittene, stark säurehaltige Zitrone und Kleid
 
 [STORE_GIFT_LABORDAY_LOTUSSHOWER_GIFT]
-莲小蓬礼包
+Lotus Xiaopeng Geschenkpaket
 
 [STORE_GIFT_LABORDAY_LOTUSSHOWER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶莲小蓬与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 9.16 Uhr)
+Fortschrittlicher Lotus Xiaopeng und Kleid
 
 [STORE_GIFT_LABORDAY_BOWLINGBULB_GIFT]
-保龄礼包
+Bowling Geschenkpaket
 
 [STORE_GIFT_LABORDAY_BOWLINGBULB_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶保龄泡泡与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 9.16 Uhr)
+Fortschrittliche Bowling-Blasen und Verkleidung
 
 [STORE_GIFT_LABORDAY_TANGLEKELP_GIFT]
-水草礼包
+Wassergras Geschenkpaket
 
 [STORE_GIFT_LABORDAY_TANGLEKELP_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶缠绕水草与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 9.16^oldclr
+Fortgeschrittenes gewundenes Wassergras und Verkleidung
 
 [STORE_GIFT_LABORDAY_GUACODILE_GIFT]
-鳄梨礼包
+Avocado-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_GUACODILE_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶鳄梨与装扮
+^009900 Nur für kurze Zeit bis 9.16^oldclr
+Fortgeschrittene Avocado und Outfit
 
 [STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT]
-导向蓟礼包
+Leitdistel-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶导向蓟与装扮
+^009900 Nur für kurze Zeit bis 9.16^oldclr
+Fortgeschrittene Leitdistel und Outfit
 
 [STORE_GIFT_LABORDAY_CARROTLAUNCHER_GIFT]
-胡萝卜礼包
+Karottengeschenk Paket
 
 [STORE_GIFT_LABORDAY_CARROTLAUNCHER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶胡萝卜导弹车与装扮
+^009900 Begrenzte Zeit bis 9.16^oldclr
+Fortschrittliches Karotten-Raketenauto und Kostüm
 
 [STORE_GIFT_LABORDAY_DANDELION_GIFT]
-蒲公英礼包
+Löwenzahn-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_DANDELION_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶蒲公英与装扮
+^009900 Begrenzte Zeit bis 9.16^oldclr
+Fortschrittliches Löwenzahn und Kostüm
 
 [STORE_GIFT_LABORDAY_BROCCOLI_GIFT]
-大力花菜礼包
+Brokkoli-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_BROCCOLI_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶大力花菜与装扮
+^009900 Begrenzte Zeit bis 9.16^oldclr
+Fortschrittliches Dalihuacai und Kostüm
 
 [STORE_GIFT_LABORDAY_PAMEGRANATE_GIFT]
-石榴礼包
+Granatapfel-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PAMEGRANATE_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶机枪石榴与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 9.16 Uhr)
+Fortschrittlicher Maschinengewehr-Granatapfel und Kostüm
 
 [STORE_GIFT_LABORDAY_CHOMPER_GIFT]
-大嘴花礼包
+Big Mouth Flower-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_CHOMPER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶大嘴花与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 9.16 Uhr)
+Fortschrittlicher Eichenschütze und Outfit
 
 [STORE_GIFT_LABORDAY_OAKSHOOTER_GIFT]
-弓手礼包
+Bogenschütze-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_OAKSHOOTER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶橡木弓手与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 9.16^oldclr
+Fortgeschrittener Eichenbogenschütze und Outfit
 
 [STORE_GIFT_LABORDAY_MAGNETSHROOM_GIFT]
-磁力菇礼包
+Magnetpilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_MAGNETSHROOM_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶磁力菇与装扮
+^009900 Nur für kurze Zeit bis 9.16^oldclr
+Fortgeschrittener Magnetpilz und Verkleidung
 
 [STORE_GIFT_LABORDAY_PEANUT_GIFT]
-花生射手礼包
+Erdnuss-Shooter-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PEANUT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶花生射手与装扮
+^009900 Nur für kurze Zeit bis 9.16^oldclr
+Fortgeschrittener Erdnuss-Shooter und Verkleidung
 
 [STORE_GIFT_LABORDAY_SUNSHROOM_GIFT]
-阳光菇礼包
+Sonnenscheinpilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SUNSHROOM_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶阳光菇与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 9.16 Uhr)
+Fortgeschrittener Sonnenscheinpilz und Verkleidung
 
 [STORE_GIFT_LABORDAY_HYPNOSHROOM_GIFT]
-魅惑菇礼包
+Hypnosepilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_HYPNOSHROOM_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶魅惑菇与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 9.16 Uhr)
+Fortgeschrittener Hypnopilz und Verkleidung
 
 [STORE_GIFT_LABORDAY_FUMESHROOM_GIFT]
-大喷菇礼包
+Großes Sprühpilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_FUMESHROOM_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶大喷菇与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 9.16^oldclr
+Fortgeschrittener großer Puffpilz und Kostüm
 
 [STORE_GIFT_LABORDAY_PUFFSHROOM_GIFT]
-小喷菇礼包
+Kleines Puffpilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PUFFSHROOM_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶小喷菇与装扮
+^009900 Nur für kurze Zeit erhältlich, ab sofort bis 9.16^oldclr
+Fortgeschrittener kleiner Puffpilz und Kostüm
 
 [STORE_GIFT_LABORDAY_HOLONUT_GIFT]
-全息礼包
+Holografisches Geschenkpaket
 
 [STORE_GIFT_LABORDAY_HOLONUT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶全息坚果与装扮
+^009900 Nur für kurze Zeit erhältlich, ab sofort bis 9.16^oldclr
+Fortgeschrittene holografische Nüsse und Kostüme
 
 [STORE_GIFT_LABORDAY_CITRON_GIFT]
-柚子礼包
+Zitronen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_CITRON_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶充能柚子与装扮
+^009900 Nur für kurze Zeit erhältlich, ab sofort bis 9.16^oldclr Jetzt bis 16.9.2020
+Fortschrittliche Ladezitrone und Kostüme
 
 [STORE_GIFT_LABORDAY_STARFRUIT_GIFT]
-星星果礼包
+Sternfrucht-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_STARFRUIT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶星星果与装扮
+^009900 Nur für kurze Zeit, ab sofort bis 16.9.2020
+Fortschrittliche Sternfrucht und Kleid
 
 [STORE_GIFT_LABORDAY_LASER_BEAN_GIFT]
-激光豆礼包
+Laserbohnen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_LASER_BEAN_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶激光豆与装扮
+^009900 Nur für kurze Zeit, ab sofort bis 16.9.2020
+Fortschrittliche Laserbohne und Kleid
 
 [STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT]
-棱镜草礼包
+Prismatisches Gras-Geschenk Paket
 
 [STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶棱镜草与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortschrittliches Prismengras und Kleid
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT]
-竹笋礼包
+Bambussprossen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶竹笋与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortschrittliches Bambussprossen und Kleid
 
 [STORE_GIFT_LABORDAY_TURNIP_GIFT]
-白萝卜礼包
+Weißer Rettich-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_TURNIP_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶白萝卜与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortschrittlicher weißer Rettich und Kleid
 
 [STORE_GIFT_LABORDAY_FIREGOURD_GIFT]
-火葫芦礼包
+Feuer Kürbis-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_FIREGOURD_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶火葫芦与装扮
+^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
+Fortgeschrittener Feuerkürbis und Kleid
 
 [STORE_GIFT_LABORDAY_PEACH_GIFT]
-仙桃礼包
+Xiantao-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PEACH_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶仙桃与装扮
+^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
+Fortgeschrittener Xiantao und Kleid
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT]
-三重礼包
+Dreifach-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶三重射手与装扮
+^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
+Fortgeschrittener Dreifach-Shooter und Kostüm
 
 [STORE_GIFT_LABORDAY_TALLNUT_GIFT]
-高坚果礼包
+High-Nut-Paket
 
 [STORE_GIFT_LABORDAY_TALLNUT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶高坚果与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittene High-Nut und Kostüm
 
 [STORE_GIFT_LABORDAY_REPEATER_GIFT]
-双重礼包
+Doppelpaket
 
 [STORE_GIFT_LABORDAY_REPEATER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶双重射手与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittener Doppel-Shooter und Kostüm
 
 [STORE_GIFT_LABORDAY_PEAPOD_GIFT]
-豌豆荚礼包
+Wandoujia-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PEAPOD_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶豌豆荚与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittene Erbsenschote und Kostüm
 
 [STORE_GIFT_LABORDAY_MELONPULT_GIFT]
-西瓜投手礼包
+Wassermelonenkrug-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_MELONPULT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶西瓜投手与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittener Wassermelonenkrug und Kostüm
 
 [STORE_GIFT_LABORDAY_COCONUTCANNON_GIFT]
-椰子礼包
+Kokosnuss-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_COCONUTCANNON_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶椰子加农炮与装扮
+^009900 Nur für kurze Zeit (ab sofort bis 16.9.)
+Fortgeschrittene Kokosnusskanone und Kostüm
 
 [STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT]
-芦苇礼包
+Schilf-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT_DESC]
-^009900 限时6.20-6.30^oldclr
-进阶闪电芦苇与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittene Kokosnusskanone und Kostüm
+
+[STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT]
+Schilf-Geschenkpaket
+
+[STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT_DESC]
+^009900 Nur für kurze Zeit erhältlich 6.20–6.30 Uhr ^oldclr
+Fortgeschrittenes Blitzrohr und Kostüm
 
 [STORE_GIFT_LABORDAY_KERNELPULT_GIFT]
-玉米礼包
+Kornapult-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_KERNELPULT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶玉米投手与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortschrittlicher Maiskrug und Kostüm
 
 [STORE_GIFT_LABORDAY_TORCHWOOD_GIFT]
-树桩礼包
+Baumstumpf-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_TORCHWOOD_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶火炬树桩与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortschrittlicher Fackelstumpf und Kostüm
 
 [STORE_GIFT_LABORDAY_SNOWPEA_GIFT]
-寒冰礼包
+Eis-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SNOWPEA_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶寒冰射手与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortschrittlicher Eis-Shooter und Kostüm
 
 [STORE_GIFT_LABORDAY_SPLITPEA_GIFT]
-双向礼包
+Zwei-Wege-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SPLITPEA_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶双向射手与装扮
+^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
+Fortgeschrittener Zwei-Wege-Shooter und Kostüm
 
 [STORE_GIFT_LABORDAY_CHILIBEAN_GIFT]
-巴豆礼包
+Kroton-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_CHILIBEAN_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶巴豆与装扮
+^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
+Fortgeschrittener Kroton und Kleid
 
 [STORE_GIFT_LABORDAY_SQUASH_GIFT]
-窝瓜礼包
+Squash-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SQUASH_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶窝瓜与装扮
+^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
+Fortgeschrittener Squash und Kleid
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT]
-火龙草礼包
+Feuerdrachengras-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT_DESC]
-^009900 限时6.20-6.30^oldclr
-进阶火龙草与装扮
+^009900 Nur für kurze Zeit, 6:20–6:30 Uhr
+Fortschrittliches Feuerdrachengras und Kleid
 
 [STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT]
-弹簧豆礼包
+Frühlingsbohnen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶弹簧豆与装扮
+^009900 Nur für kurze Zeit, ab sofort bis 9:16 Uhr
+Fortschrittliche Frühlingsbohnen und Kleid
 
 [STORE_GIFT_LABORDAY_BONKCHOY_GIFT]
-菜问礼包
+Gemüsefrage-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_BONKCHOY_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶菜问与装扮
+^009900 Nur für kurze Zeit, ab sofort bis 9.16^oldclr
+Fortgeschrittenes Kochen und Ankleiden
 
 [STORE_GIFT_LABORDAY_TWINSUNFLOWER_GIFT]
-双胞礼包
+Zwillings-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_TWINSUNFLOWER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶双胞胎向日葵与装扮
+^009900 Nur für kurze Zeit bis 9.16^oldclr
+Fortgeschrittene Zwillings-Sonnenblume und Ankleiden
 
 [STORE_GIFT_LABORDAY_BLOOMERANG_GIFT]
-回旋镖礼包
+Bumerang-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_BLOOMERANG_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶回旋镖投手与装扮
+^009900 Nur für kurze Zeit bis 9.16^oldclr
+Fortgeschrittener Bumerang-Krug und Outfit
 
 [STORE_GIFT_LABORDAY_CABBAGEPULT_GIFT]
-卷心菜礼包
+Kohl-Geschenk Paket
 
 [STORE_GIFT_LABORDAY_CABBAGEPULT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶卷心菜投手与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittener Kohlkopf und Outfit
 
 [STORE_GIFT_LABORDAY_WALLNUT_GIFT]
-坚果礼包
+Nuss-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_WALLNUT_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶坚果与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittene Nüsse und Kostüme
 
 [STORE_GIFT_LABORDAY_SUNFLOWER_GIFT]
-向日葵礼包
+Sonnenblumen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SUNFLOWER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶向日葵与装扮
+^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
+Fortgeschrittene Sonnenblume und Kostüme
 
 [STORE_GIFT_LABORDAY_PEASHOOTER_GIFT]
-豌豆礼包
+Erbsengeschenk Paket
 
 [STORE_GIFT_LABORDAY_PEASHOOTER_GIFT_DESC]
-^009900 限时即日起至9.16^oldclr
-进阶豌豆射手与装扮
+^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
+Fortgeschrittene Erbsenpistole und Kostüme
 
 [CHERRY_BOMB_PIECE]
 Kirschstücke
@@ -11633,12 +11643,12 @@ Speichern Sie Energie im Bohrer, starten Sie einen mächtigen Stichangriff und s
 Bewegen Sie sich auf dem Boden hin und her und fügen Sie vorbeikommenden Zombies zwei Schadenspunkte zu.
 
 [PEACH]
-Xiantao
+Feenpfirsisch
 
 [PEACH_DESCRIPTION]
 {KEYWORD}Wiederhergestellte KP: {STAT}Mittelgroß
 {KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze, klein
-{FLAVOR}Xiantaos Lebenslauf besagt, dass er ursprünglich der private Pfirsich der Königinmutter war und in die Welt der Sterblichen degradiert wurde, um dort als Schlachtfeldarzt zu arbeiten.
+{FLAVOR}Feenpfirsischs Lebenslauf besagt, dass er ursprünglich der private Pfirsich der Königinmutter war und in die Welt der Sterblichen degradiert wurde, um dort als Schlachtfeldarzt zu arbeiten.
 
 [PEACH_DESCRIPTION_HEADER]
 Kann die umliegenden Pflanzen heilen und ihre KP wiederherstellen.
@@ -13538,7 +13548,7 @@ Der Energiepfeil durchdringt einen weiteren Zombie.
 Ermutigen
 
 [PEACH_SKILL1_LEVEL1_DES]
-Ermöglicht Xiantao, die Angriffskraft des Ziels während der Heilung 3 Sekunden lang zu erhöhen.
+Ermöglicht Feenpfirsisch, die Angriffskraft des Ziels während der Heilung 3 Sekunden lang zu erhöhen.
 
 [PEACH_SKILL1_LEVEL2]
 Belohnung
@@ -18721,28 +18731,28 @@ Juwelen-Wochenkarte
 30 Yuan kostenlose Monatskarte
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP]
-6元酷炫达人卡
+6 Yuan Cool Mastercard
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP_SHORTDESC]
-6元酷炫达人卡
+6 Yuan Cool Mastercard
 
 [PRODUCT_MONTHLY_CARD_SUPER]
-50元超级特权卡
+50 Yuan Super-Privilegienkarte
 
 [PRODUCT_MONTHLY_CARD_CM]
-VIP月卡
+VIP-Monatskarte
 
 [PRODUCT_MONTHLY_CARD_SUPER_SHORTDESC]
-50元超级特权卡
+50 Yuan Super-Privilegienkarte
 
 [PRODUCT_MONTHLY_CARD_CM_SHORTDESC]
-VIP月卡
+VIP-Monatskarte
 
 [PRODUCT_DIAMONDS_REWARD_ACTIVE]
-...     立刻激活
+... Jetzt aktivieren
 
 [PRODUCT_DIAMONDS_REWARD_DES]
-即日起充值1元即可获得105返钻，分7日返还（需联网）
+Laden Sie ab sofort 1 Yuan auf und erhalten Sie 105 Diamanten zurück. Die Gutschrift erfolgt innerhalb von 7 Tagen (Netzwerkverbindung erforderlich).
 
 [PRODUCT_DIAMONDS_REWARD]
 Holen Sie sich {GEMS} Juwelen.
@@ -18960,487 +18970,488 @@ Gazhapon-Beschreibung (Inhalt)
 Mehr
 
 [REDPACK_CLICK_OPEN]
-点击打开
+Zum Öffnen klicken
 
 [REDPACK_PURCHASE_SUCCESS]
-获得扭蛋x{REDPACK_COUNT}
+Gacha erhalten x {REDPACK_COUNT}
 
 [LANTERN_RIDDLES_NEXT]
-下一题
+Nächste Frage
 
 [LANTERN_RIDDLES_DESC]
-今日奖励：
+Heutige Belohnung:
 
 [LANTERN_RIDDLES_TITLE]
-灯谜猜猜猜
+Rätsel erraten
 
 [LANTERN_RIDDLES_FINISH_TODAY]
-已完成
+Beendet
 
 [LANTERN_RIDDLES_DAY]
-第{DAY}天
+Tag {DAY}
 
 [LANTERN_RIDDLES_NUM_0]
-题目一
+Frage 1
 
 [LANTERN_RIDDLES_NUM_1]
-题目二
+Frage 2
 
 [LANTERN_RIDDLES_NUM_2]
-题目三
+Frage 3
 
 [LANTERN_RIDDLES_NUM_3]
-题目四
+Frage 4
 
 [LANTERN_RIDDLES_NUM_4]
-题目五
+Frage 5
 
 [LANTERN_RIDDLES_DAY_1]
-累计答题一天奖励
+Gesamtbelohnung für die Beantwortung von Fragen an einem Tag
 
 [LANTERN_RIDDLES_DAY_3]
-累计答题三天奖励
+Belohnung für die Beantwortung von Fragen an drei Tagen
 
 [LANTERN_RIDDLES_DAY_6]
-累计答题六天奖励
+Belohnung für die Beantwortung von Fragen an sechs Tagen
 
 [LANTERN_RIDDLES_DAY_10]
-累计答题十天奖励
+Belohnung für die Beantwortung von Fragen an zehn Tagen
 
 [LANTERN_RIDDLES_DAY_16]
-累计答题十六天奖励
+Belohnung für die Beantwortung von Fragen an sechzehn Tagen
 
 [LANTERN_RIDDLES_PRIZE]
-恭喜获得
+Herzlichen Glückwunsch zum Gewinn!
 
-[LANTERN_RIDDLES_SPECIAL_PRIZE_DESC]
-答对所有灯谜即可获得新年植物
+[LANTERN_RIDDLES_SPECIAL_ PRIZE_DESC]
+Löst alle Rätsel richtig und gewinnt eine Neujahrspflanze.
 
 [LANTERN_RIDDLES_SPECIAL_PRIZE_GET]
-恭喜获得新年植物
+Herzlichen Glückwunsch zum Gewinn einer Neujahrspflanze.
 
 [LANTERN_RIDDLES_ANSWERED]
-今日已答
+Beantwortet Heute
 
 [LANTERN_RIDDLES_RESULT]
-您已答完所有题目，共答对{CORRECT_COUNT}个，答错{WRONG_COUNT}个
-恭喜，获得{REDPACK_COUNT}个红包！
+Du hast alle Fragen beantwortet, mit {CORRECT_COUNT} richtigen und {WRONG_COUNT} falschen Antworten.
+
+Herzlichen Glückwunsch! Du hast {REDPACK_COUNT} rote Umschläge erhalten!
 
 [LANTERN_RIDDLES_TOTAL]
-已答{DAY_GUESS}天，正确率{CORRECT_COUNT}%，错过{DAY_MISSED}天
+An {DAY_GUESS} Tagen beantwortet, mit einer richtigen Quote von {CORRECT_COUNT} %. An {DAY_MISSED} Tagen versäumt.
 
 [LANTERN_RIDDLES_CHEAT]
-求助小豌豌
+Frag Xiao Wanwan
 
 [LANTERN_RIDDLES_EXTRA]
-补答
+Antwort
 
 [LANTERN_RIDDLES_BACK]
-返回答题
+Zurück zur Frage
 
 [LANTERN_RIDDLES_RED_PACK]
-去开红包
+Öffne den roten Umschlag.
 
 [LANTERN_RIDDLES_0]
-向日葵在能量豆的激发下，每次可以产生多少阳光？
+Wie viel Sonnenlicht kann eine Sonnenblume jedes Mal produzieren, wenn sie durch Energiebohnen stimuliert wird?
+
 [LANTERN_RIDDLES_ANSWER_0]
 ca=150|100|200|300|
 [LANTERN_RIDDLES_1]
-豌豆家族中，谁的装扮大招不能放出火子弹？
+Wessen Kostüm aus der Erbsenfamilie kann keine Feuergeschosse abfeuern?
+
 [LANTERN_RIDDLES_ANSWER_1]
-ca=豌豆射手|双向射手|双重射手|豌豆荚|
+ca=Erbsen-Shooter|Zwei-Wege-Shooter|Doppel-Shooter|Erbsenschote|
 [LANTERN_RIDDLES_2]
-以下哪个植物的装扮不是眼镜？
+Welche der folgenden Pflanzen ist kein Brillenkostüm?
 [LANTERN_RIDDLES_ANSWER_2]
-ca=坚果|火炬树桩|向日葵|地刺|
+ca=Nüsse|Fackelstumpf|Sonnenblume|Dorn|
 [LANTERN_RIDDLES_3]
-土豆地雷放大招时最多可以放出几个分身？
+Wie viele Klone können freigelassen werden, wenn die Kartoffelmine den ultimativen Angriff ausführt?
 [LANTERN_RIDDLES_ANSWER_3]
-ca=3个|1个|2个|4个|
+ca=3|1|2|4|
 [LANTERN_RIDDLES_4]
-哪个植物喜欢打雪仗？
+Welche Pflanze spielt gerne Schneeballschlachten?
 [LANTERN_RIDDLES_ANSWER_4]
-ca=冰冻生菜|寒冰射手|冰西瓜|火炬树桩|
+ca=Gefrorener Salat|Eis-Shooter|Eis-Wassermelone|Fackelstumpf|
 [LANTERN_RIDDLES_5]
-什么样的子弹穿透火炬树桩会变成普通子弹？
+Welche Kugel wird zu einer normalen Kugel, wenn sie den Fackelstumpf durchdringt?
 [LANTERN_RIDDLES_ANSWER_5]
-ca=冰子弹|火子弹|激光|花生米|
+ca=Eiskugel|Feuerkugel|Laser|Erdnuss|
 [LANTERN_RIDDLES_6]
-弹簧豆的装扮是什么？
+Was ist das Kostüm der Frühlingsbohne?
 [LANTERN_RIDDLES_ANSWER_6]
-ca=芭蕾舞裙|芭蕾舞鞋|棒球棍|僵王博士|
-[LANTERN_RIDDLES_7]
-当地刺遇到在甲板上滚筒会发生什么？
+ca=Ballettrock|Ballettschuhe|Baseballschläger|Dr. Zombie| [LANTERN_RIDDLES_7]
+Was passiert, wenn der örtliche Assassine auf dem Deck auf die Walze trifft?
 [LANTERN_RIDDLES_ANSWER_7]
-ca=蹦出小鬼僵尸|蹦出僵王博士|掉进海里|蹦出鲨鱼|
+ca=Zombie-Kobold rausspringen | Dr. Zombie rausspringen | Ins Meer fallen | Hai rausspringen |
 [LANTERN_RIDDLES_8]
-火龙草另一个引以为傲的职业是什么呢？
+Auf welchen Beruf ist Feuerdrache Gras noch stolz?
 [LANTERN_RIDDLES_ANSWER_8]
-ca=消防员|警察|律师|翼龙|
+ca=Feuerwehrmann | Polizist | Anwalt | Flugsaurier |
 [LANTERN_RIDDLES_9]
-能量花会吐露怎样的神奇果呢？
+Welche magische Frucht spuckt die Energieblume aus?
 [LANTERN_RIDDLES_ANSWER_9]
-ca=能量豆|仙丹|蚕豆|莲子|
+ca=Energiebohnen | Elixier | Saubohnen | Lotussamen |
 [LANTERN_RIDDLES_10]
-椰子加农炮的普通大招可以起到什么效果？
+Welche Wirkung kann der gewöhnliche große Zug der Kokosnusskanone haben?
 [LANTERN_RIDDLES_ANSWER_10]
-ca=击退|击晕|击倒|击飞|
+ca=Rückstoß|Betäubung|Niederschlag|Rückstoß|
 [LANTERN_RIDDLES_11]
-怎样让窝瓜砸中僵尸后依然保持存活？
+Wie hält man den Kürbis am Leben, nachdem man den Zombie getroffen hat?
 [LANTERN_RIDDLES_ANSWER_11]
-ca=升级窝瓜|鞭挞窝瓜|冷藏窝瓜|凉拌窝瓜|
+ca=Kürbis verbessern|Kürbis peitschen|Kürbis kühlen|Kürbis kaltstellen|
 [LANTERN_RIDDLES_12]
-双向射手每次会发射几颗子弹？
+Wie viele Kugeln feuert der Doppelschütze jedes Mal ab?
 [LANTERN_RIDDLES_ANSWER_12]
-ca=3颗|4颗|2颗|N颗|
+ca=3 Kugeln|4 Kugeln|2 Kugeln|N Kugeln|
 [LANTERN_RIDDLES_13]
-以下哪个植物抵御僵尸时不需要休息？
+Welche der folgenden Pflanzen braucht im Kampf gegen Zombies keine Pause?
 [LANTERN_RIDDLES_ANSWER_13]
-ca=火龙草|椰子加农炮|胡萝卜导弹车|香蕉大炮|
+ca=Feuerdrachengras|Kokosnusskanone|Karottenraketenwagen|Bananenkanone|
 [LANTERN_RIDDLES_14]
-白萝卜除了阻止植物被黑洞和气功吸收外还有什么功能？
+Welche weiteren Funktionen hat Weißer Rettich außer dem Schutz vor der Absorption durch Schwarze Löcher und Qigong?
 [LANTERN_RIDDLES_ANSWER_14]
-ca=打僵尸|吃僵尸|变成酱萝卜|武林高手|
+ca=Zombies bekämpfen | Zombies essen | Eingelegter Rettich werden | Kampfkunstmeister werden |
 [LANTERN_RIDDLES_15]
-火葫芦要怎样才会发动攻击？
+Wie greift der Feuerkürbis an?
 [LANTERN_RIDDLES_ANSWER_15]
-ca=点击火葫芦|长按火葫芦|抚摸火葫芦|僵尸来了就打|
+ca=Auf den Feuerkürbis klicken | Lange drücken | Feuerkürbis berühren | Zombies bekämpfen, wenn sie kommen |
 [LANTERN_RIDDLES_16]
-以下哪个植物每次种植的阳光会增加？
+Welche der folgenden Pflanzen erhöht die Sonneneinstrahlung jedes Mal, wenn sie gepflanzt wird?
 [LANTERN_RIDDLES_ANSWER_16]
-ca=瓷砖萝卜|豌豆荚|能量花|棱镜草|
+ca=Ziegelrettich | Erbsenschote | Energieblume | Prismengras |
 [LANTERN_RIDDLES_17]
-豌豆家族里，谁是有眉毛的？
+Wer aus der Familie der Erbsengewächse hat Augenbrauen?
 [LANTERN_RIDDLES_ANSWER_17]
-ca=双重射手|豌豆射手|豌豆荚|三重射手|
+ca=Doppelschütze|Erbsenschütze|Erbsenschote|Dreifachschütze|
 [LANTERN_RIDDLES_18]
-哪个植物的装扮是小胡子呢？
+Welche Pflanze ist als Schnurrbart verkleidet?
 [LANTERN_RIDDLES_ANSWER_18]
-ca=高坚果|白萝卜|烈焰菇|寒冰菇|
+ca=Hohe Nuss|Weißer Rettich|Flammenpilz|Eispilz|
 [LANTERN_RIDDLES_19]
-豌豆家族里，谁是有眉毛的？
+Wer aus der Familie der Erbsengewächse hat Augenbrauen?
 [LANTERN_RIDDLES_ANSWER_19]
-ca=双向射手|豌豆射手|豌豆荚|三重射手|
+ca=Zweiwegeschütze|Erbsenschütze|Erbsenschote|Dreifachschütze|
 [LANTERN_RIDDLES_20]
-噬碑藤最怕什么？
+Wovor hat die Monumentfresser-Rebe am meisten Angst?
 [LANTERN_RIDDLES_ANSWER_20]
-ca=小狗|猫咪|虫子|羊咩咩|
+ca=Welpe|Katze|Käfer|Schaf|
 [LANTERN_RIDDLES_21]
-哪个植物不会被僵尸吃掉？
+Welche Pflanze wird nicht von Zombies gefressen?
 [LANTERN_RIDDLES_ANSWER_21]
-ca=地刺|巴豆|土豆地雷|竹笋|
+ca=Erddorn|Kroton|Kartoffelmine|Bambusspross|
 [LANTERN_RIDDLES_22]
-窝瓜的本名叫什么？
+Wie heißt der Kürbis wirklich?
 [LANTERN_RIDDLES_ANSWER_22]
-ca=小明|小红|小芳|小强|
+ca=Xiao Ming|Xiao Hong|Xiao Fang|Xiao Qiang|
 [LANTERN_RIDDLES_23]
-僵尸吃掉哪个植物会拉肚子？
+Welche Pflanze verursacht Durchfall, wenn sie von Zombies gefressen wird?
 [LANTERN_RIDDLES_ANSWER_23]
-ca=巴豆|咖啡豆|激光豆|阳光豆|
+ca=Kroton|Kaffeebohne|Laserbohne|Sonnenscheinbohne|
 [LANTERN_RIDDLES_24]
-路灯花的灯光从何而来？
+Woher kommt das Licht der Straßenlaternenblume?
 [LANTERN_RIDDLES_ANSWER_24]
-ca=吸收黑暗|吞噬僵尸|萤火虫|吸收氧气|
+ca=Dunkelheit absorbieren|Zombies verschlingen|Glühwürmchen|Sauerstoff absorbieren|
 [LANTERN_RIDDLES_25]
-花生射手有几只眼睛？
+Wie viele Augen hat der Erdnuss-Shooter?
 [LANTERN_RIDDLES_ANSWER_25]
-ca=4只|1只|6只|2只|
+ca=4|1|6|2|
 [LANTERN_RIDDLES_26]
-咖啡豆的能力是什么？
+Welche Fähigkeit haben Kaffeebohnen?
 [LANTERN_RIDDLES_ANSWER_26]
-ca=唤醒植物|会飞到空中|刺激僵尸|变成拿铁|
+ca=Pflanzen wecken|In die Luft fliegen|Zombies stimulieren|In Latte verwandeln|
 [LANTERN_RIDDLES_27]
-全息坚果会被哪个僵尸消灭？
+Welcher Zombie tötet die Holo-Nuss?
 [LANTERN_RIDDLES_ANSWER_27]
-ca=巨人僵尸|法师僵尸|巫师僵尸|小鸡僵尸|
+ca=Riesenzombie|Magierzombie|Zauberzombie|Hühnerzombie|
 [LANTERN_RIDDLES_28]
-橡木弓手最喜欢射击僵尸的哪个部位？
+Auf welchen Körperteil des Zombies schießt der Eichenbogenschütze am liebsten?
 [LANTERN_RIDDLES_ANSWER_28]
-ca=膝盖|眼睛|胳膊|胸口|
+ca=Knie|Auge|Arm|Brust|
 [LANTERN_RIDDLES_29]
-三重射手进阶到三阶会有几个头？
+Wie viele Köpfe hat der Dreifachschütze, wenn er das dritte Level erreicht?
 [LANTERN_RIDDLES_ANSWER_29]
-ca=三个|四个|六个|九个|
+ca=Drei|Vier|Sechs|Neun|
 [LANTERN_RIDDLES_30]
-以下哪种攻击特性是冰西瓜投手没有的？
+Welche der folgenden Angriffseigenschaften hat der Eis-Wassermelonenschütze nicht?
 [LANTERN_RIDDLES_ANSWER_30]
-ca=高攻速|抛射|减速|群攻|
+ca=Hohe Angriffsgeschwindigkeit|Projektil|Verlangsamung|Gruppenangriff|
 [LANTERN_RIDDLES_31]
-玉米投手从事过的职业是一下哪个？
+Welchen der folgenden Berufe hatte der Maiskrug?
 [LANTERN_RIDDLES_ANSWER_31]
-ca=引座员|消防员|厨师|面包师|
+ca=Platzanweiser|Feuerwehrmann|Koch|Bäcker|
 [LANTERN_RIDDLES_32]
-投手家族的二把手是？
+Wer ist der Stellvertreter der Familie Krug?
 [LANTERN_RIDDLES_ANSWER_32]
-ca=西瓜投手|玉米投手|卷心菜投手|冰西瓜|
+ca=Wassermelonenkrug|Maiskrug|Kohlkrug|Eiswassermelone|
 [LANTERN_RIDDLES_33]
-三叶草的作用是？
+Welche Funktion hat das Kleeblatt?
 [LANTERN_RIDDLES_ANSWER_33]
-ca=吹走飞行僵尸|让僵尸减速|给植物降温|提升植物子弹速度|
+ca=Fliegende Zombies wegblasen|Zombies verlangsamen|Pflanzen abkühlen|Geschossgeschwindigkeit der Pflanzen erhöhen|
 [LANTERN_RIDDLES_34]
-闪电芦苇最爱听？
+Was hört Lightning Reed am liebsten?
 [LANTERN_RIDDLES_ANSWER_34]
-ca=收音机|CD机|MP3|随身听|
+ca=Radio|CD|MP3|Walkman|
 [LANTERN_RIDDLES_35]
-弹簧豆的弱点是什么？
+Was ist die Schwäche von Spring Bean?
 [LANTERN_RIDDLES_ANSWER_35]
-ca=攻击后会睡觉|阳光消耗太高|不能升阶|全部都是|
+ca=Schlaf nach Angriff|Hoher Sonnenlichtverbrauch|Kann nicht verbessert werden|Alle|
 [LANTERN_RIDDLES_36]
-魅惑菇对以下哪种僵尸没有效果？
+Welcher der folgenden Zombies hat keine Wirkung auf den Zauberpilz?
 [LANTERN_RIDDLES_ANSWER_36]
-ca=僵尸鸡|铁桶僵尸|路障僵尸|全部都是|
+ca=Zombiehuhn|Fasszombie|Barrikadenzombie|Alle|
 [LANTERN_RIDDLES_37]
-大喷菇的外号是？
+Wie lautet der Spitzname des großen Sprühpilzes?
 [LANTERN_RIDDLES_ANSWER_37]
-ca=气球菇|呆萌菇|大帽菇|喷射菇|
+ca=Ballonpilz|Süßer Pilz|Großer Hutpilz|Jetpilz|
 [LANTERN_RIDDLES_38]
-豆子家族的老大哥是？
+Wer ist der älteste Bruder der Bohnenfamilie?
 [LANTERN_RIDDLES_ANSWER_38]
-ca=阳光豆|咖啡豆|激光豆|巴豆|
+ca=Sonnenscheinbohne|Kaffeebohne|Laserbohne|Kroton|
 [LANTERN_RIDDLES_39]
-以下哪种道具是磁力菇无法吸走的？
+Welcher der folgenden Gegenstände kann vom magnetischen Pilz nicht aufgesaugt werden?
 [LANTERN_RIDDLES_ANSWER_39]
-ca=僵尸龙的鼻环|铁桶|雪人僵尸的头|骑士的铁盔|
+ca=Zombiedrachen-Nasenring|Eiseneimer|Schneemann-Zombiekopf|Eisenhelm des Ritters|
 [LANTERN_RIDDLES_40]
-竹笋的师傅是？
+Wer ist der Meister der Bambussprossen?
 [LANTERN_RIDDLES_ANSWER_40]
-ca=土行孙|孙悟空|姜子牙|哪咤|
+ca=Tuxingsun|Sun Wukong|Jiang Ziya|Nezha|
 [LANTERN_RIDDLES_41]
-仙桃的出自以下哪部文学作品？
+Aus welchem der folgenden literarischen Werke stammt der Feenpfirsich?
 [LANTERN_RIDDLES_ANSWER_41]
-ca=西游记|封神榜|红楼梦|水浒传|
+ca=Reise in den Westen | Amtseinführung der Götter | Traum der Roten Kammer | Wasserrand |
 [LANTERN_RIDDLES_42]
-以下哪个方向是星星果无法打到的？
+Welche der folgenden Richtungen kann die Sternfrucht nicht treffen?
 [LANTERN_RIDDLES_ANSWER_42]
-ca=正前方|正下方|后方|正上方|
+ca=Direkt davor | Direkt darunter | Hinter | Direkt darüber |
 [LANTERN_RIDDLES_43]
-脉冲黄桃的作用是？
+Welche Funktion hat der pulsierende gelbe Pfirsich?
 [LANTERN_RIDDLES_ANSWER_43]
-ca=让机械类僵尸瘫痪|让普通僵尸眩晕|让机械类僵尸减速|让机械类僵尸爆炸|
+ca=Mechanische Zombies lähmen | Normale Zombies betäuben | Mechanische Zombies verlangsamen | Mechanische Zombies explodieren lassen |
 [LANTERN_RIDDLES_44]
-充能柚子在家喜欢干什么？
+Was macht die aufladende Grapefruit gerne zu Hause?
 [LANTERN_RIDDLES_ANSWER_44]
-ca=看电视|听音乐|读书|调制果汁|
+ca=Fernsehen | Musik hören | Bücher lesen | Saft kochen |
 [LANTERN_RIDDLES_45]
-鳄梨最爱的食物是？
+Was ist das Lieblingsessen von Avocados?
 [LANTERN_RIDDLES_ANSWER_45]
-ca=墨西哥辣味卷|墨西哥鸡肉卷|老北京鸡肉卷|都是|
+ca=Mexikanische Scharfe Rolle|Mexikanische Hühnerrolle|Old Beijing Chicken Roll|Alles|
 [LANTERN_RIDDLES_46]
-缠绕水草大学主修的课程是？
+Was ist das Hauptfach der Entangled Water Grass University?
 [LANTERN_RIDDLES_ANSWER_46]
-ca=哲学|空手道|高数|法语|
+ca=Philosophie|Karate|Höhere Mathematik|Französisch|
 [LANTERN_RIDDLES_47]
-导向蓟的攻击方式和植物大战僵尸1的哪棵植物是一样的？
+Welche Pflanze in Plants vs. Zombies 1 hat die gleiche Angriffsmethode wie Guiding Thistle?
 [LANTERN_RIDDLES_ANSWER_47]
-ca=猫尾草|仙人掌|多嘴小喷菇|豌豆射手|
+ca=Rohrkolbengras|Kaktus|Mund-Puffpilz|Erbsenkanone|
 [LANTERN_RIDDLES_48]
-保龄泡泡参加过几次保龄球比赛？
+An wie vielen Bowling-Wettbewerben hat Bowling Bubble teilgenommen?
 [LANTERN_RIDDLES_ANSWER_48]
-ca=5次|6次|8次|7次|
+ca=5 Mal|6 Mal|8 Mal|7 Mal|
 [LANTERN_RIDDLES_49]
-路障僵尸的路障为什么不会头上掉下来？
+Warum fällt die Straßensperre des Straßensperren-Zombies nicht vom Kopf?
 [LANTERN_RIDDLES_ANSWER_49]
-ca=强力粘合剂粘的|头大卡住的|游戏设计如此|都不对|
+ca=Mit starkem Kleber festgeklebt|Mit großem Kopf festgeklebt|Spieldesign wie dieses|Keines davon ist richtig|
 [LANTERN_RIDDLES_50]
-旗子僵尸最喜欢叫自己什么？
+Wie nennt sich der Flaggen-Zombie am liebsten?
 [LANTERN_RIDDLES_ANSWER_50]
-ca=老子|老僵|老期|老夫|
+ca=Laozi|Laojiang|Laoqi|Laofu|
 [LANTERN_RIDDLES_51]
-黑暗时代的boss黑暗机械龙的涂装是由谁完成的？
+Wer hat den Dunklen Mechanischen Drachen, den Boss des Dunklen Zeitalters, bemalt?
 [LANTERN_RIDDLES_ANSWER_51]
-ca=邻居家小明|邻居家小芳|邻居家小李|邻居家小韩|
+ca=Xiaoming aus dem Nachbarhaus | Xiaofang aus dem Nachbarhaus | Xiaoli aus dem Nachbarhaus | Xiaohan aus dem Nachbarhaus |
 [LANTERN_RIDDLES_52]
-以下哪种动物是植物大战僵尸2没有的？
+Welches der folgenden Tiere kommt nicht in Plants vs. Zombies 2 vor?
 [LANTERN_RIDDLES_ANSWER_52]
-ca=骆驼|牛|羊|鲨鱼|
+ca=Kamel | Kuh | Schaf | Hai |
 [LANTERN_RIDDLES_53]
-大法师僵尸能把植物变成什么？
+In was kann der Erzmagier-Zombie Pflanzen verwandeln?
 [LANTERN_RIDDLES_ANSWER_53]
-ca=都不对|牛|羊|鸡|
+ca=Keines von beiden | Kuh | Schaf | Huhn |
 [LANTERN_RIDDLES_54]
-西部巨人僵尸为什么会失业？
+Warum hat der Westliche Riesenzombie seinen Job verloren?
 [LANTERN_RIDDLES_ANSWER_54]
-ca=马蹄太小|吃的太多|不努力工作|穿不上工作服|
+ca=Hufeisen sind zu klein | Essen zu viel | Arbeiten nicht hart | Können keine Arbeitskleidung tragen |
 [LANTERN_RIDDLES_55]
-火炬树桩的好朋友是谁？
+Wer ist der beste Freund des Fackelstumpfs?
 [LANTERN_RIDDLES_ANSWER_55]
-ca=火龙草|火葫芦|烈焰菇|豌豆射手|
+ca=Feuerdrachengras | Feuerkürbis | Flammenpilz | Erbsenkanone |
 [LANTERN_RIDDLES_56]
-樱桃炸弹兄弟的梦想是什么？
+Was ist der Traum der Cherry Bomb Brothers?
 [LANTERN_RIDDLES_ANSWER_56]
-ca=都是|组建乐队|摧毁僵尸|引爆粉丝|
+ca=Alle | Eine Band gründen | Zombies vernichten | Fans sprengen |
 [LANTERN_RIDDLES_57]
-菜问的祖籍是哪个省？
+Aus welcher Provinz stammt Caiwens angestammte Heimat?
 [LANTERN_RIDDLES_ANSWER_57]
-ca=广东|广西|福建|上海|
+ca=Guangdong | Guangxi | Fujian | Shanghai |
 [LANTERN_RIDDLES_58]
-太阳神僵尸的力量是谁赐予的？
+Wer hat dem Sonnengott-Zombie die Macht verliehen?
 [LANTERN_RIDDLES_ANSWER_58]
-ca=都不对|太阳神|阿波罗|雅典娜|
+ca=Keiner von ihnen|Sonnengott|Apollo|Athena|
 [LANTERN_RIDDLES_59]
-以下哪个英雄是出自植物大战僵尸2的？
+Welcher der folgenden Helden stammt aus Plants vs. Zombies 2?
 [LANTERN_RIDDLES_ANSWER_59]
-ca=缝纫侠|超人|蝙蝠侠|海扁王|
+ca=Näher|Superman|Batman|Kick-Ass|
 [LANTERN_RIDDLES_60]
-火葫芦之前的职业是？
+Was war Huo Hulus früherer Beruf?
 [LANTERN_RIDDLES_ANSWER_60]
-ca=杂技班的配角|酒厂员工|药厂小工|菜场小贩|
+ca=Nebenrolle im Akrobatikkurs|Angestellter in einer Weinfabrik|Apotheker|Gemüseverkäufer|
 [LANTERN_RIDDLES_61]
-以下哪个活动不是2016年新春活动之一？
+Welche der folgenden Aktivitäten gehört nicht zu den Neujahrsaktivitäten 2016?
 [LANTERN_RIDDLES_ANSWER_61]
-ca=迎财神|元宝大作战|点爆竹|砸金蛋|
+ca=Willkommen, Gott des Reichtums | Yuanbao-Kampf | Feuerwerkskörper zünden | Goldene Eier zerschlagen |
 [LANTERN_RIDDLES_62]
-菠萝蜜撞击到僵尸时会掉落什么？
+Was lässt die Jackfrucht fallen, wenn sie einen Zombie trifft?
 [LANTERN_RIDDLES_ANSWER_62]
-ca=果实|牙齿|节操|叶子|
+ca=Frucht | Zähne | Moral | Blatt |
 [LANTERN_RIDDLES_63]
-下列不属于肉盾的植物是？
+Welche der folgenden Pflanzen ist kein Fleischschild?
 [LANTERN_RIDDLES_ANSWER_63]
-ca=龙舌兰|红针花|菠萝蜜|榴莲|
+ca=Agave | Rote Nadelblume | Jackfrucht | Durian |
 [LANTERN_RIDDLES_64]
-可以被针筒僵尸的针筒激发狂暴效果的僵尸是
+Der Zombie, der durch die Spritze des Spritzenzombies in den Wahnsinn getrieben werden kann, ist:
 [LANTERN_RIDDLES_ANSWER_64]
-ca=都是|探险家僵尸|大法师僵尸|普通僵尸|
+ca=Alle | Entdecker-Zombie | Meister-Zombie | Gewöhnlicher Zombie |
 [LANTERN_RIDDLES_65]
-以下哪个植物能对铲子僵尸造成伤害？
+Welche der folgenden Pflanzen kann dem Schaufelzombie Schaden zufügen?
 [LANTERN_RIDDLES_ANSWER_65]
-ca=阿.开.木.木.|红针花|菜问|榴莲|
+ca=A.Kai.Mu.Mu.|Rote Nadelblume|Caiwen|Durian|
 [LANTERN_RIDDLES_66]
-以下僵尸赛跑，哪一个会赢？
+Welcher der folgenden Zombies wird das Rennen gewinnen?
 [LANTERN_RIDDLES_ANSWER_66]
-ca=铲子僵尸|巨人僵尸|洋伞僵尸|向导僵尸|
+ca=Schaufelzombie|Riesenzombie|Schirmzombie|Führerzombie|
 [LANTERN_RIDDLES_67]
-金蟾菇的装扮大招和普通大招不一样的地方是？
+Was ist der Unterschied zwischen dem Kostüm-Ultimate-Move des Goldenen Krötenpilzes und dem normalen Ultimate-Move?
 [LANTERN_RIDDLES_ANSWER_67]
-ca=喷毒雾|多吃一个僵尸|多产25阳光|距离多一格|
+ca=Giftnebel|Noch einen Zombie fressen|25 weitere Sonnenstrahlen erzeugen|Eine weitere Gitterdistanz|
 [LANTERN_RIDDLES_68]
-失落之城世界参照的是哪一个古文明？
+Auf welcher antiken Zivilisation basiert die Welt der Verlorenen Stadt?
 [LANTERN_RIDDLES_ANSWER_68]
-ca=玛雅|古埃及|亚特兰蒂斯|米诺斯|
+ca=Maya|Altes Ägypten|Atlantis|Minoisch|
 [LANTERN_RIDDLES_69]
-岩浆石榴的装扮是哪一个？
+Welches Kostüm ist das des Magma-Granatapfels?
 [LANTERN_RIDDLES_ANSWER_69]
-ca=头巾|帽子|项链|烟花|
+ca=Stirnband|Hut|Halskette|Feuerwerk|
 [LANTERN_RIDDLES_70]
-以下哪个活动不是2018年新春活动之一？
+Welche der folgenden Aktivitäten gehört nicht zu den Neujahrsaktivitäten 2018?
 [LANTERN_RIDDLES_ANSWER_70]
-ca=迎财神|元宝大作战|点爆竹|猜灯谜|
+ca=Den Gott des Reichtums begrüßen|Barrenschlacht|Böller zünden|Laternenrätsel lösen|
 [LANTERN_RIDDLES_71]
-一个植物探险小队需要几个队员？
+Wie viele Mitglieder braucht ein Pflanzenforschungsteam?
 [LANTERN_RIDDLES_ANSWER_71]
-ca=5|4|3|随意|
+ca=5|4|3|zufällig|
 [LANTERN_RIDDLES_72]
-从下列植物找出有呆毛的矮个子
+Finde den kleinen Mann mit dem abstehenden Haar aus den folgenden Pflanzen:
 [LANTERN_RIDDLES_ANSWER_72]
-ca=巴豆|咖啡豆|竹笋|冰冻生菜|
+ca=Kroton|Kaffeebohnen|Bambussprossen|Gefrorener Salat|
 [LANTERN_RIDDLES_73]
-元宝大作战活动通关最多能获得多少个红包？
+Wie viele rote Umschläge erhältst du durch den Abschluss der Barrenkampf-Aktivität?
 [LANTERN_RIDDLES_ANSWER_73]
-ca=10个|7个|5个|13个|
+ca=10|7|5|13|
 [LANTERN_RIDDLES_74]
-以下哪个植物不是武器家族的成员？
+Welche der folgenden Pflanzen gehört nicht zur Waffenfamilie?
 [LANTERN_RIDDLES_ANSWER_74]
-ca=橡木弓手|捣蛋萝卜|土豆地雷|芦笋战机|
+ca=Eichenbogenschütze|Unruhestifter-Rettich|Kartoffelmine|Spargelkämpfer|
 [LANTERN_RIDDLES_75]
-以下植物哪个年纪最大？
+Welche der folgenden Pflanzen ist die älteste?
 [LANTERN_RIDDLES_ANSWER_75]
-ca=寒冰菇|火爆辣椒|钢地刺|竹员外|
+ca=Eispilz|Feuerpfeffer|Stahl-Erdspieß|Bambus-Offizieller|
 [LANTERN_RIDDLES_76]
-以下哪个植物没有双胞兄弟？
+Welche der folgenden Pflanzen hat keinen Zwillingsbruder?
 [LANTERN_RIDDLES_ANSWER_76]
-ca=双向射手|双胞向日葵|樱桃炸弹|电离红掌|
+ca=Zwei-Wege-Shooter|Zwillings-Sonnenblume|Kirschbombe|Ionisierte Anthurie|
 [LANTERN_RIDDLES_77]
-以下哪个植物不能通过碎片兑换？
+Welche der folgenden Pflanzen können nicht gegen Fragmente eingetauscht werden?
 [LANTERN_RIDDLES_ANSWER_77]
-ca=三重射手|冰西瓜|玉米投手|火爆辣椒|
+ca=Dreifach-Shooter|Eis-Wassermelone|Maiskrug|Feuriger Pfeffer|
 [LANTERN_RIDDLES_78]
-以下哪个世界是没有铁桶僵尸的？
+In welcher der folgenden Welten gibt es keine Fass-Zombies?
 [LANTERN_RIDDLES_ANSWER_78]
-ca=功夫世界|狂野西部|黑暗时代|巨浪沙滩|
+ca=Kung-Fu-Welt|Wilder Westen|Dunkles Zeitalter|Großer Wellenstrand|
 [LANTERN_RIDDLES_79]
-以下哪个植物的碎片不能通过植物探险功能获得？
+Welche der folgenden Pflanzen können keine Fragmente über die Pflanzenerkundungsfunktion erhalten?
 [LANTERN_RIDDLES_ANSWER_79]
-ca=樱桃炸弹|火龙草|窝瓜|火爆辣椒|
+ca=Kirschbombe|Feuerdrachengras|Kürbis|Feuriger Pfeffer|
 [LANTERN_RIDDLES_80]
-蔬菜之王是哪棵植物的称号？
+Welche Pflanze wird als König des Gemüses bezeichnet?
 [LANTERN_RIDDLES_ANSWER_80]
-ca=芦笋战机|冰西瓜|辣椒投手|西瓜投手|
+ca=Spargelkämpfer|Eiswassermelone|Pfefferkrug|Wassermelonenkrug|
 [LANTERN_RIDDLES_81]
-以下不是旋涡枇杷没成为芭蕾舞演员的原因是？
+Ist nicht Folgendes der Grund, warum aus der Wirbelmispel keine Ballerina wurde?
 [LANTERN_RIDDLES_ANSWER_81]
-ca=转不动圈|没有人愿意请|吃了太多冰激凌|自己不愿意|
+ca=Kann sich nicht umdrehen|Niemand will einladen|Isst zu viel Eis|Will nicht|
 [LANTERN_RIDDLES_82]
-植物大战僵尸里的外星植物说的是哪种？
+Welche Art außerirdischer Pflanze gibt es in Pflanzen gegen Zombies?
 [LANTERN_RIDDLES_ANSWER_82]
-飞碟瓜|脉冲黄桃|激光豆|ca=并没有外星植物|
+Fliegende Untertassenmelone|Pulsgelber Pfirsich|Laserbohne|ca=Es gibt keine außerirdische Pflanze|
 [LANTERN_RIDDLES_83]
-号称植物大战僵尸里的最佳飞行员的植物是那种？
+Welche Pflanze gilt als der beste Pilot in Plants vs. Zombies?
 [LANTERN_RIDDLES_ANSWER_83]
-ca=蚕豆突击队|芦笋战机|飞碟瓜|以上都不对|
+ca=Ackerbohnen-Kommando | Spargeljäger | Fliegende Untertassenmelone | Keines der oben genannten |
 [LANTERN_RIDDLES_84]
-以下不是芦笋战机特性的是？
+Welche der folgenden Eigenschaften trifft nicht auf den Spargeljäger zu?
 [LANTERN_RIDDLES_ANSWER_84]
-绿色植物|武器家族|飞行植物|ca=水果之王|
+Grüne Pflanze | Waffenfamilie | Fliegende Pflanze | ca=König der Früchte |
 [LANTERN_RIDDLES_85]
-以下植物阳光消耗最小的是？
+Welche der folgenden Pflanzen verbraucht am wenigsten Sonnenlicht?
 [LANTERN_RIDDLES_ANSWER_85]
-ca=旋涡枇杷|芦笋战机|蚕豆母舰|电离红掌|
+ca=Vortex-Mispel | Spargeljäger | Ackerbohnen-Mutterschiff | Ionisierte Anthurie |
 [LANTERN_RIDDLES_86]
-以下哪种特性不是飞碟瓜的？
-[LANTERN_RIDDLES_ANSWER_86]
-定住僵尸|ca=冷却时间短|伤害大|范围群伤|
+Welche der folgenden Eigenschaften trifft nicht auf die Fliegende Untertassenmelone zu? [LANTERN_RIDDLES_ANSWER_86]
+Zombies bewegungsunfähig machen | ca=kurze Abkühlzeit | hoher Schaden | großer Flächenschaden |
 [LANTERN_RIDDLES_87]
-蚕豆母舰能量豆大招的攻击范围是几格？
+Wie groß ist die Angriffsreichweite des ultimativen Moves der Saubohnen-Mutterschiff-Energiebohne?
 [LANTERN_RIDDLES_ANSWER_87]
-3格|4格|8格|ca=9格|
+3 Felder | 4 Felder | 8 Felder | ca=9 Felder |
 [LANTERN_RIDDLES_88]
-以下哪种植物不是火焰三剑客中的？
+Welche der folgenden Pflanzen gehört nicht zu den drei Feuerschwertkämpfern?
 [LANTERN_RIDDLES_ANSWER_88]
-ca=火葫芦|火炬树桩|灯笼草|火龙草|
+ca=Feuerkürbis | Fackelstumpf | Laternengras | Feuerdrachengras |
 [LANTERN_RIDDLES_89]
-灯笼草的主要用途是？
+Wozu dient Laternengras hauptsächlich?
 [LANTERN_RIDDLES_ANSWER_89]
-增加节日气氛|ca=反隐形|肉盾|以上都不对|
+Festliche Atmosphäre steigern | ca=Anti-Tarnung | Fleischschild | keines der oben genannten |
 [LANTERN_RIDDLES_90]
-以下哪种特性不是电离红掌的？
+Welche der folgenden Eigenschaften trifft nicht auf die ionisierte rote Anthurie zu?
 [LANTERN_RIDDLES_ANSWER_90]
-红色植物|十万伏特|双胞兄弟|ca=反弹闪电|
+Rote Pflanze | 100.000 Volt | Zwillingsbrüder | ca=Rebound-Blitz |
 [LANTERN_RIDDLES_91]
-电离红掌最擅长的学科是？
+In welchem Fach ist die ionisierte Anthurie am besten?
 [LANTERN_RIDDLES_ANSWER_91]
-语文|数学|ca=物理|化学|
+Chinesisch | Mathematik | ca=Physik | Chemie |
 [LANTERN_RIDDLES_92]
-以下哪种特性不是旋转菠萝的？
+Welche der folgenden Eigenschaften trifft nicht auf die sich drehende Ananas zu?
 [LANTERN_RIDDLES_ANSWER_92]
-黄色植物|ca=肥胖家族|飞行植物|反弹子弹|
+Gelbe Pflanze | ca=Fettgewächse | Fliegende Pflanze | Rebound-Geschoss |
 [LANTERN_RIDDLES_93]
-旋转菠萝飞起来的灵感来自于？
+Was hat die sich drehende Ananas zum Fliegen inspiriert?
 [LANTERN_RIDDLES_ANSWER_93]
-ca=竹蜻蜓|触手|螺旋桨|风车|
+ca=Bambuslibelle|Tentakel|Propeller|Windmühle|
 [LANTERN_RIDDLES_94]
-天空之城的boss是？
+Wer ist der Boss des Schlosses im Himmel?
 [LANTERN_RIDDLES_ANSWER_94]
-巨型飞船|ca=机械秃鹫|巨型高达|巨型母舰|
+Riesiges Raumschiff|ca=Mechanischer Geier|Riesiger Gundam|Riesiges Mutterschiff|
 [LANTERN_RIDDLES_95]
-开启资源争夺战模式需要多少个奖杯？
+Wie viele Trophäen werden benötigt, um den Ressourcenkampfmodus zu starten?
 [LANTERN_RIDDLES_ANSWER_95]
-10|ca=20|30|完全不需要奖杯|
+10|ca=20|30|Keine Trophäen erforderlich|
 [LANTERN_RIDDLES_96]
-布置防守阵容的时候，单种植物的上限是多少？
+Wie hoch ist die Obergrenze einer einzelnen Pflanze bei der Aufstellung einer Verteidigungsaufstellung?
 [LANTERN_RIDDLES_ANSWER_96]
-5|8|ca=10|没有上限|
+5|8|ca=10|Keine Obergrenze|
 [LANTERN_RIDDLES_97]
-以下小游戏哪个不属于天空之城？
+Welches der folgenden Minispiele gehört nicht zu Sky City?
 [LANTERN_RIDDLES_ANSWER_97]
-一炮当关|空中战争|围追堵截|ca=植物迷阵|
+Ein Schuss auf den Pass | Luftkrieg | Einkreisung und Abfangen | ca=Pflanzenlabyrinth |
 [LANTERN_RIDDLES_98]
-在资源争夺战模式中如何才能抢下一个资源点？
+Wie schnappt man sich den nächsten Ressourcenpunkt im Ressourcenkampfmodus?
 [LANTERN_RIDDLES_ANSWER_98]
-ca=拿到3星|把僵尸死光|等时间耗尽|拿到1星|
+ca=3 Sterne erhalten | Alle Zombies töten | Warten, bis die Zeit abgelaufen ist | 1 Stern erhalten |
 [LANTERN_RIDDLES_99]
-失落之城的隐藏模式如何开启？
+Wie öffnet man den versteckten Modus von Lost City?
 [LANTERN_RIDDLES_ANSWER_99]
-收集1001颗星星|收集101颗星星|收集56颗星星|ca=根本没法开启|
+1001 Sterne sammeln | 101 Sterne sammeln | 56 Sterne sammeln | ca=Kann überhaupt nicht geöffnet werden |
 
 [ICEAGE]
 Frostbeulen-Höhlen
@@ -24478,203 +24489,202 @@ Seltener Schatztruhenschlüssel
 Seltenes Schatztruhenschlüsselset
 
 [MAT_GACHAKEY_LEGEND]
-传奇宝箱钥匙
+Legendärer Schatztruhenschlüssel
 
 [MAT_GACHAKEY_LEGEND_MULTI]
-传奇宝箱钥匙组
+Legendäres Schatztruhenschlüssel-Set
 
 [MAT_INVITATION_COIN]
-邀请券
+Einladungsticket
 
 [BUY_GOLD_GACHA_TITLE]
-购买宝石抽取稀有植物！
+Kaufe Edelsteine, um seltene Pflanzen zu zeichnen!
 
 [BUY_GOLD_GACHA_TITLE_1]
-购买蓝水晶抽取稀有植物！
+Kaufe blaue Kristalle, um seltene Pflanzen zu zeichnen!
 
 [BUY_GOLD_GACHA_1]
-1个
-
+1
 [BUY_GOLD_GACHA_100]
-100个
+100
 
 [BUY_GOLD_A_FIRECRYSTAL]
-一个炎晶
+1 Feuerkristall
 
 [BUY_GOLD_SOME_FIRECRYSTAL]
-一堆炎晶
+Ein Haufen Feuerkristalle
 
 [BUY_GOLD_A_ICECRYSTAL]
-一个冰晶
+1 Eiskristall
 
 [BUY_GOLD_SOME_ICECRYSTAL]
-一堆冰晶
+Ein Haufen Eiskristalle
 
 [BUY_GOLD_A_FIRECRYSTAL_DES]
-1个
+1
 
 [BUY_GOLD_SOME_FIRECRYSTAL_DES]
-购买10个送2个
+Kaufe 10 und erhalte 2 gratis
 
 [BUY_GOLD_A_ICECRYSTAL_DES]
-1个
+1
 
 [BUY_GOLD_SOME_ICECRYSTAL_DES]
-购买10个送2个
+Kaufe 10 und erhalte 2 gratis kostenlos
 
 [CRYSTAL_COUNT]
-{NUMBER}个
+{NUMBER}
 
 [BUY_GOLD_A_MAT_MEDAL]
-一颗宝石
+Ein Edelstein
 
 [BUY_GOLD_SOME_MAT_MEDAL]
-一堆宝石
+Ein Haufen Edelsteine
 
 [BUY_GOLD_A_MAT_MEDAL_DES]
-1颗
+Ein
 
 [BUY_GOLD_SOME_MAT_MEDAL_DES]
-12颗
+12
 
 [BOSS_CHALLENGE_LOTTERY_MATERIAL_COST]
-挑战宝石:{COUNT}
+Herausforderungs-Edelsteine: {COUNT}
 
 [LOTTERY_NET_ERROR]
-网络连接失败，请保持在良好的联网状态下抽奖。
-(联网失败时，{ITEM}不会被扣除)
+Netzwerkverbindung fehlgeschlagen. Bitte halten Sie eine stabile Verbindung aufrecht, um zu ziehen.
+({ITEM} wird nicht abgezogen, wenn die Netzwerkverbindung unterbrochen wird.)
 
 [CHALLENGE_BONUS]
-挑战奖励
+Herausforderungsbelohnungen
 
 [CHRISTMAS_CHARGE_BONUS]
-充值送大礼
+Aufladen, um ein Geschenk zu erhalten
 
 [OPPO_CHARGE_BONUS]
-新手充值礼
+Neuling-Aufladegeschenk
 
 [BOSS_CHALLENGE_REWARD_RANK_TIP]
-恭喜你在上一期的周年挑战活动中排名 ^FF0000^ {RANK} ^oldclr^, 获得奖励:
+Herzlichen Glückwunsch zum Rang ^FF0000^ {RANK} ^oldclr^ im letzten Jubiläums-Herausforderungs-Event und zur Belohnung:
 
 [MINIGAME_REWARD_RANK_TIP]
-恭喜你在上一期的迷你游戏活动中排名 ^FF0000^ {RANK} ^oldclr^, 获得奖励:
+Herzlichen Glückwunsch zum Rang ^FF0000^ {RANK} ^oldclr^ im letzten Minispiel-Event und zur Belohnung:
 
 [CHRISTMAS_RECHARGE_REWARD]
-恭喜你获得奖励:
+Herzlichen Glückwunsch zur Belohnung:
 
 [BOSS_CHALLENGE_REWARD_FAIL_TIP]
-获取奖励失败， <Error Code : {NUM}>
+Belohnung konnte nicht erhalten werden. <Fehlercode: {NUM}>
 
 [BOSS_CHALLENGE_NO_REWARD_TIP]
-很遗憾, 您在上一周的活动中未能获得成绩, 无法获得奖励, 请记得积极参加活动哟。
+Leider hast du letzte Woche im Event keine Ergebnisse erzielt und kannst keine Belohnungen erhalten. Nimm bitte aktiv am Event teil.
 
 [PERCENT]
-前{NUM}%
+Erste {NUM} %
 
 [BOSS_CHALLENGE_TIME]
-用时: ^FFFF00 {TIME}
+Zeit: ^FFFF00 {TIME}
 
 [LIMITED_GACHA_TITLE]
-限时宝物
+Zeitlich begrenzter Schatz
 
 [LIMITED_GACHA_ONCE]
-抽1次
+Einmal ziehen
 
 [LIMITED_GACHA_TENTH]
-抽10次
+10 Mal ziehen
 
 [LIMITED_GACHA_INFO]
-^FF0000^只^oldclr^会抽出以上植物及其碎片^349901^(首次单抽和首次10连抽必得植物)^oldclr^。
+^FF0000^Nur^oldclr^zieht die oben genannten Pflanzen und ihre Fragmente^349901^(die erste Ziehung und die ersten 10 aufeinanderfolgenden Ziehungen erhalten Pflanzen)^oldclr^.
 
 [GACHA_POOL_SHOW]
-奖池预览
+Preispool-Vorschau
 
 [SECRET_GACHA_ONCE]
-召唤
+Beschwörung
 
 [SECRET_GACHA_TENTH]
-召唤X10
+Beschwörung x10
 
-[DOWNLOAD_AND_USE_NEW_APP]
-检测到当前版本过旧，请下载最新版本进行游戏
+[NEUE APP HERUNTERLADEN UND VERWENDEN]
+Die aktuelle Version ist zu alt. Bitte lade die neueste Version herunter, um das Spiel zu spielen.
 
 [DAY_INFO]
-{NUMBER}天
+{NUMBER} Tage
 
 [SUMMER_FIREBOSS_LEVEL1]
-热情僵博组-第一关
+Leidenschaftliche Zombiegruppe – Erste Stufe
 
 [SUMMER_FIREBOSS_LEVEL2]
-热情僵博组-第二关
+Leidenschaftliche Zombiegruppe – Zweite Stufe
 
 [SUMMER_FIREBOSS_LEVEL3]
-热情僵博组-第三关
+Leidenschaftliche Zombiegruppe – Dritte Stufe
 
 [SUMMER_ICEBOSS_LEVEL1]
-冰爽僵博组-第一关
+Eiszombiegruppe – Erste Stufe
 
 [SUMMER_ICEBOSS_LEVEL2]
-冰爽僵博组-第二关
+Eis-BOSS-Gruppe – Zweite Stufe
 
 [SUMMER_ICEBOSS_LEVEL3]
-冰爽僵博组-第三关
+Eis-BOSS-Gruppe – Dritte Stufe
 
 [SUMMER_ELECTRIC_LEVEL1]
-闪电僵博组-第一关
+Blitz-BOSS-Gruppe – Erste Stufe Level
 
 [SUMMER_ELECTRIC_LEVEL2]
-闪电僵博组-第二关
+Blitz-BOSS-Gruppe – Zweites Level
 
 [SUMMER_ELECTRIC_LEVEL3]
-闪电僵博组-第三关
+Blitz-BOSS-Gruppe – Drittes Level
 
 [SUMMER_PURPLE_LEVEL1]
-激情僵博组-第一关
+Leidenschaftliche Zombie-Gruppe – Erstes Level
 
 [SUMMER_PURPLE_LEVEL2]
-激情僵博组-第二关
+Leidenschaftliche Zombie-Gruppe – Zweites Level
 
 [SUMMER_PURPLE_LEVEL3]
-激情僵博组-第三关
+Leidenschaftliche Zombie-Gruppe – Drittes Level
 
 [SUMMER_FANTASY_LEVEL1]
-奇幻僵博组-第一关
+Fantasy-Zombie-Gruppe – Erstes Level
 
 [SUMMER_FANTASY_LEVEL2]
-奇幻僵博组-第二关
+Fantasy-Zombie-Gruppe – Zweites Level
 
 [SUMMER_FANTASY_LEVEL3]
-奇幻僵博组-第三关
+Fantasy-Zombie-Gruppe – Drittes Level
 
 [SUMMER_KONGFU_LEVEL1]
-功夫僵王组-第一关
+Kongfu Kung Fu Zombie King Gruppe – Erstes Level Level
 
 [SUMMER_KONGFU_LEVEL2]
-功夫僵王组-第二关
+Kung-Fu-Zombiekönig-Gruppe – Zweites Level
 
 [SUMMER_KONGFU_LEVEL3]
-功夫僵王组-第三关
+Kung-Fu-Zombiekönig-Gruppe – Drittes Level
 
 [PLAYERS_TRIP_TO_SUMMEREVENT]
-{PLAYER}的冰火挑战之旅
+{PLAYER}s Eis- und Feuer-Herausforderungsreise
 
 [RESTORE_LOST_ERROR_HEADER]
-补偿购买失败
+Kompensationskauf fehlgeschlagen
 
 [RESTORE_LOST_ERROR_BODY]
-此订单无法完成补偿，请在下次登录游戏时重试。
+Diese Bestellung kann nicht kompensiert werden. Bitte versuchen Sie es erneut, wenn Sie sich das nächste Mal im Spiel anmelden.
 
 [PURCHASE_FULL_ERROR_HEADER]
-玩家充值已达上限
+Spieler-Aufladung hat das obere Limit erreicht.
 
 [PURCHASE_FULL_ERROR_BODY]
-充值失败，当前玩家充值已达上限！
+Aufladung fehlgeschlagen. Der aktuelle Spieler hat das obere Limit erreicht!
 
 [VALIDATE_FIRST_FAILED_TITLE]
-支付验证失败
+Zahlungsüberprüfung fehlgeschlagen
 
 [VALIDATE_FIRST_FAILED_TEXT]
-请点确定再次验证，如再次验证失败，请稍后重新登录游戏领取商品。
+Bitte klicken Sie auf „OK“, um die Überprüfung erneut durchzuführen. Sollte die Überprüfung erneut fehlschlagen, melden Sie sich bitte später erneut im Spiel an, um das Produkt zu erhalten.
 
 [MORNINGGLORY]
 Prunkwinde
@@ -25020,252 +25030,256 @@ Ablehnung
 Züchte eine Holo-Nuss, lass sie töten und belebe sie anschließend zweimal wieder.
 
 [ACHIEVE_FUTURE_RERESPAWN_TITLE]
-再次复活
+Wiederbeleben
 
 [ACHIEVE_FUTURE_SUN_DAMAGED_DESC]
-触发一个阳光炸弹，消灭路障机甲僵尸
+Zerstöre den Straßensperren-Mech-Zombie mit einer Sonnenbombe.
 
 [ACHIEVE_FUTURE_SUN_DAMAGED_TITLE]
-太阳伤害
+Sonnenschaden
 
 [ACHIEVE_FUTURE_TILE_DENIAL_DESC]
-不在强化瓷砖上种植任何植物，完成一个未来关卡
+Schließe ein zukünftiges Level ab, ohne etwas auf der verstärkten Kachel zu platzieren.
 
 [ACHIEVE_FUTURE_TILE_DENIAL_TITLE]
-空能量砖
-[ACHIEVE_HAMMER_TIME_DESC]
-释放黑暗巨人僵尸
+Leere Energiekachel
 
-[ACHIEVE_HAMMER_TIME_TITLE]
-铁锤时间
+[ACHIEVE_HAMMER_TIME_DESC]
+Befreie den dunklen Riesenzombie.
+
+[ACHIEVE_HAMMER_TIME_T ITLE]
+Hammerzeit
 [ACHIEVE_ICEAGE_BARRAGE_DESC]
-打败地懒巨人僵尸，收集他们的时空钥匙
+Besiege Riesenfaultier-Zombies und sammle ihre Zeit. Schlüssel
 
 [ACHIEVE_ICEAGE_BARRAGE_TITLE]
-火力全开
+Feuerkraft
 
 [ACHIEVE_ICEAGE_ICEBLOCKADE_DESC]
-如果关卡中出现穴居僵尸，别让它推着冰块通过第6列
+Wenn ein Höhlenzombie im Level auftaucht, lass ihn das Eis nicht durch die sechste Spalte drücken.
 
 [ACHIEVE_ICEAGE_ICEBLOCKADE_TITLE]
-冰块障碍
+Eisbarriere
 
 [ACHIEVE_ICEAGE_KNOCKEMDEAD_DESC]
-用甜菜护卫一次攻击击退6个僵尸
+Stoße 6 Zombies mit einem Angriff mit Beet Guard zurück.
 
 [ACHIEVE_ICEAGE_KNOCKEMDEAD_TITLE]
-拍死他们！
+Erschieße sie!
 
 [ACHIEVE_ICEAGE_MELTDOWN_DESC]
-完成冰河世界
+Schließe die Eiswelt ab.
 
 [ACHIEVE_ICEAGE_MELTDOWN_TITLE]
-熔化！
+Schmelze!
 
 [ACHIEVE_ICEAGE_RUNWEASLEY_DESC]
-如果关卡中出现冰鼬僵尸，别让鼬鼠越过滑块
+Wenn Eiswiesel-Zombies im Level sind, lass die Wiesel den Schieberegler nicht überqueren.
 
 [ACHIEVE_ICEAGE_RUNWEASLEY_TITLE]
-鼬鼠快跑
+Wiesel-Lauf
 
 [ACHIEVE_ICEAGE_SOTHAWFUL_DESC]
-在单个关卡中熔化13个冰块
+Schmelze 13 Eisblöcke in einem einzigen Level.
 
 [ACHIEVE_ICEAGE_SOTHAWFUL_TITLE]
-好暖和啊
-[ACHIEVE_NOT_BAAAD_DESC]
-别让巫师催眠植物，完成一个关卡
+Es ist so warm.
+[ACHIEVE_NOT_BAAA D_DESC]
+Lass den Zauberer nicht die Pflanzen hypnotisieren und schließe ein Level ab.
 
 [ACHIEVE_NOT_BAAAD_TITLE]
-还不错
+Nicht schlecht.
 [ACHIEVE_OUT_OF_DARKNESS_DESC]
-完成黑暗时代
+Schließe das Dunkle Zeitalter ab.
 
 [ACHIEVE_OUT_OF_DARKNESS_TITLE]
-走出黑暗
+Aus dem Dunkelheit
 [ACHIEVE_TEN_PIN_KAPOW_DESC]
-用保龄泡泡的一个泡泡消灭10个僵尸
+Töte 10 Zombies mit einer Bowling-Blase.
 
 [ACHIEVE_TEN_PIN_KAPOW_TITLE]
-全中
+Triff alle.
 
 [ACHIEVE_UNDERTOW_DESC]
-在一个关卡中，用缠绕水草消灭10个僵尸
+Töte in einem Level 10 Zombies mit verfilztem Unkraut.
 
 [ACHIEVE_UNDERTOW_TITLE]
-回头浪
+Backwater
 
 [ACHIEVE_VASEBREAKER_DAVYJONESVASE_DESC]
-完成海盗港湾挑战包
+Schließe das Pirate Bay Challenge Pack ab.
 
 [ACHIEVE_VASEBREAKER_DAVYJONESVASE_NAME]
-戴维·琼斯的罐子
+Davy Jones' Krug
 
-[ACHIEVE_VASEBREAKER_POTTERYTRAINED_DESC]
-在无尽砸罐子模式中撑过30关
+[AC HIEVE_VASEBREAKER_POTTERYTRAINED_DESC]
+Schließe 30 Level im Endlos-Topf-Smash-Modus ab.
 
 [ACHIEVE_VASEBREAKER_POTTERYTRAINED_NAME]
-陶器训练
+Töpferei Training
 
 [ACHIEVE_VASEBREAKER_TOMBBREAKER_DESC]
-完成神秘埃及挑战包
+Schließe das Mystische Ägypten-Herausforderungspaket ab.
 
 [ACHIEVE_VASEBREAKER_TOMBBREAKER_NAME]
-坟墓破坏者 
+Grabbrecher
 
 [ACHIEVE_VASEBREAKER_VASEWRANGLER_DESC]
-完成狂野西部挑战包
+Schließe das Wild-West-Herausforderungspaket ab.
 
 [ACHIEVE_VASEBREAKER_VASEWRANGLER_NAME]
-罐子女牛仔
+Konserven-Cowboy
 
 [ACHIEVE_WAVE_GOODBYE_DESC]
-完成巨浪沙滩关卡
+Schließe das Level „Großer Wellenstrand“ ab.
 
 [ACHIEVE_WAVE_GOODBYE_TITLE]
-再见了，海浪
+Auf Wiedersehen, Wellen!
+
 [ACHIEVE_YOUR_HAT_SIR_DESC]
-仅利用磁力菇的伤害消灭一个僵尸
+Töte einen Zombie nur mit Magnetpilz-Schaden.
 
 [ACHIEVE_YOUR_HAT_SIR_TITLE]
-先生，你的帽子！
+Sir, dein Hut!
 
 [ACHIEVEMENT_99_UNDEAD_BALLOONS_DESC]
-不让气球僵尸通过第5列
+Verhindere, dass der Ballon-Zombie die fünfte Spalte passiert.
 
 [ACHIEVEMENT_99_UNDEAD_BALLOONS_TITLE]
-99个僵尸气球
+99 Zombie-Ballons
 
 [ACHIEVEMENT_BASH_POTATO_DESC]
-用一棵原始土豆地雷消灭7个僵尸
+Töte 7 Zombies mit einer primitiven Kartoffelmine.
 
 [ACHIEVEMENT_BASH_POTATO_HEADER]
-土豆痛击
+Kartoffel-Schlag
 
 [ACHIEVEMENT_CANT_STOP_THE_ROCK_DESC]
-用一个巨石陷阱消灭5个僵尸
+Töte 5 Zombies mit einer Felsfalle.
 
-[ACHIEVEMENT_CANT_STOP_THE_ROCK_HEADER]
-停不下来的石头
+[AC HIEVEMENT_CANT_STOP_THE_ROCK_HEADER]
+Der Fels, der nicht aufhalten kann.
 
 [ACHIEVEMENT_DINOS_SORE_DESC]
-在一个关卡中，阻止恐龙与任意僵尸互动
+Verhindere in einem Level, dass Dinosaurier mit Zombies interagieren.
 
 [ACHIEVEMENT_DINOS_SORE_HEADER]
-没有恐龙的日子
+Ein Tag ohne Dinosaurier
 
 [ACHIEVEMENT_DOWN_WITH_THE_SICKNESS_DESC]
-让一个传染性僵尸把剧毒传播给另外5个僵尸
+Lass einen ansteckenden Zombie das Gift auf 5 andere Zombies übertragen.
 
 [ACHIEVEMENT_DOWN_WITH_THE_SICKNESS_TITLE]
-被病疫打倒
+Von der Epidemie niedergestreckt
 
 [ACHIEVEMENT_HOT_OFF_THE_PRESSES_DESC]
-点燃一个读报僵尸的报纸
+Zünde eine Zeitung an, in der ein Zombie liest.
 
 [ACHIEVEMENT_HOT_OFF_THE_PRESSES_TITLE]
-出版社的热情
+Die Leidenschaft des Verlegers
 
 [ACHIEVEMENT_HUNGRY_HUNGRY_DINOS_DESC]
-让霸王龙吃掉10个僵尸，完成一个关卡
+Schließe ein Level ab, indem der T. Rex 10 Zombies frisst.
 
 [ACHIEVEMENT_HUNGRY_HUNGRY_DINOS_HEADER]
-饥饿的恐龙
+Hungriger Dinosaurier
 
-[ACHIEVEMENT_LOST_AND_FOUND_DESC]
-完成失落之城关卡
+[ACHIEVEMENT_LOST_AND_FOUN D_DESC]
+Schließe die Verlorene Stadt ab. Level
 
 [ACHIEVEMENT_LOST_AND_FOUND_HEADER]
-失而复得
+Gefunden, was verloren war
 
 [ACHIEVEMENT_MARTIAL_MARSH_MASHER_DESC]
-释放恐龙危机巨人僵尸
+Befreie die riesigen Zombies in der Dino-Krise
 
 [ACHIEVEMENT_MARTIAL_MARSH_MASHER_HEADER]
-沼泽粉碎机
+Sumpfbrecher
 
 [ACHIEVEMENT_METEOR_RIGHT_DESC]
-完成恐龙危机关卡
+Schließe das Level der Dino-Krise ab
 
 [ACHIEVEMENT_METEOR_RIGHT_HEADER]
-流星，是吗？
+Meteor, was?
 
 [ACHIEVEMENT_MODERN_GARGANTUAR_DESC]
-释放摩登世界巨人僵尸
+Befreit den Riesenzombie der modernen Welt
 
 [ACHIEVEMENT_MODERN_GARGANTUAR_TITLE]
-发出咕噜声的巨人僵尸
+Grunzender Riesenzombie
 
 [ACHIEVEMENT_PORTER_THWARTER_DESC]
-释放失落巨人僵尸
+Befreit den verlorenen Riesenzombie
 
 [ACHIEVEMENT_PORTER_THWARTER_HEADER]
-护工横越者
+Kopfkreuzer
 
 [ACHIEVEMENT_PRESENT_PERFECT_DESC]
-完成现代都市关卡
+Schließt das Level „Moderne Stadt“ ab
 
 [ACHIEVEMENT_PRESENT_PERFECT_TITLE]
-现在完成将来时
+Perfekt Futur II
 
 [ACHIEVEMENT_RAGWEEDS_DESC]
-在一个关卡中，用黄金叶创建5个新的黄金地砖
+SC]
+Erstellt 5 neue Goldplättchen mit Blattgold in einem Level
 
 [ACHIEVEMENT_RAGWEEDS_HEADER]
-豚草致富
+Werde reich mit Ambrosia
 
 [ACHIEVEMENT_SHADOW_FAMILY_DESC]
-用20棵充能的暗影植物，完成一个关卡
+Schließt ein Level ab Mit 20 geladenen Schattenpflanzen
 
 [ACHIEVEMENT_SHADOW_FAMILY_TITLE]
-暗影家族
+Schattenfamilie
 
 [ACHIEVEMENT_SHOVEL_OFF_DESC]
-不要让失落发掘者僵尸挖掉一棵植物，完成一个关卡
+Schließe ein Level ab, ohne dass ein verlorener Grabzombie eine Pflanze ausgräbt.
 
 [ACHIEVEMENT_SHOVEL_OFF_HEADER]
-放下铲子
+Leg die Schaufel weg.
 
 [ACHIEVEMENT_SPAWN_CAMPING_DESC]
-让三个失落小鬼搬运工建立营地，完成一个关卡
+Schließe ein Level ab, in dem drei verlorene Wichtelträger ihr Lager aufschlagen.
 
 [ACHIEVEMENT_SPAWN_CAMPING_HEADER]
-扎营
+Lager errichten
 
 [ACHIEVEMENT_TERROR_REDACTYLED_DESC]
-用香水蘑菇对付携带僵尸靠近你房子的翼龙
+Benutze die Spawn-Pilze, um die Flugsaurier mit Zombies zu bekämpfen, die sich deinem Haus nähern.
 
 [ACHIEVEMENT_TERROR_REDACTYLED_HEADER]
-恐惧来袭
+Die Angst naht
 
 [ACHIEVEMENT_TIME_TRAVELER_DESC]
-使用来自不同时空的植物并完成一个关卡
+Benutze Pflanzen aus verschiedenen Zeiten und Räumen und schließe ein Level ab.
 
-[ACHIEVEMENT_TIME_TRAVELER_TITLE]
-时间旅行者
+[ACHIEVEMENT_TIME_TRAVELER_DESC] ELER_TITLE]
+Zeitreisender
 
 [ACHIEVEMENT_UNWELCOME_MAT_DESC]
-在最靠近房子的两列里种10棵红针花
+Pflanze 10 rote Nadelblumen in den beiden Säulen, die dem Haus am nächsten sind.
 
 [ACHIEVEMENT_UNWELCOME_MAT_HEADER]
-讨厌的地垫
+Hasserfüllte Matte
 
 [ACHIEVEMENT_YOURE_AN_ALLSTAR_DESC]
-不要让橄榄球僵尸拔掉一颗植物，完成一个关卡
+Schließe ein Level ab, ohne dass der Fußball-Zombie eine Pflanze
 
 [ACHIEVEMENT_YOURE_AN_ALLSTAR_TITLE]
-你是橄榄球选手？
+Bist du Fußballspieler?
+
 [ADVICE_BANANA_TUTORIAL_COOLDOWN]
-Die Bananenrakete muss neu geladen werden.
+Der Bananenwerfer muss nachladen
 
 [ADVICE_BANANA_TUTORIAL_GOOD_JOB]
-Super! Du kannst Ziele auch per Drag & Drop verschieben.
+Super! Du kannst Angriffe auch per Drag-and-Drop anordnen
 
 [ADVICE_BANANA_TUTORIAL_SELECT]
-Klicke, um die Banane auszuwählen.
+Tippe die Banane an, um sie auszuwählen
 
 [ADVICE_BANANA_TUTORIAL_SHOOT]
-Klicke, um das anzugreifende Zielfeld auszuwählen.
+Tippe ein Zielfeld für deinen Angriff an
 
 [ADVICE_CHERRY_BOMB_POWERUP]
 Platziere die Kirschbombe, um Zombies zu töten!
@@ -32237,21 +32251,25 @@ Verwenden von Schlüsseln
 
 [WORLD_PREVIEW_PIRATE_TITLE]
 Piratensee!
+
 [WORLD_PREVIEW_TEASER_DINO]
-+31关卡
-+1无限区域！
-+5植物
-+1头目战！
++31 Level
++1 Endloszone!
++5 Pflanzen
++1 Bosskampf!
+
 [WORLD_PREVIEW_TEASER_EIGHTIES]
-+31关卡
-+1无限区域！
-+6植物
-+1头目战！
++31 Level
++1 Endloszone!
++6 Pflanzen
++1 Bosskampf!
+
 [WORLD_PREVIEW_TEASER_MODERN]
-+31关卡
-+1无限区域！
-+5植物
-+3头目战！
++31 Level
++1 Endloszone!
++5 Pflanzen
++3 Bosskämpfe!
+
 [WORLD_PREVIEW_USE_KEY]
 Schlüssel benutzen
 
@@ -37857,354 +37875,340 @@ Wehre dich!
 [DENDROBIUMGUARD_SKILL_LEVEL5_DES]
 Wenn Blätter vorhanden sind, besteht die Chance, Zombies bei einem Angriff abzuwehren.
 
-[POMEGRANATE]
-石榴商人
+[GRANATAPFEL]
+Granatapfelhändler
 
-[POMEGRANATE_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 芦荟游走于各大化妆品新品发布会，借机推销她的产品“芦荟水”。今年整个护肤品市场都在讲美白，这可是芦荟的强项。
+[GRANATAPFEL_BESCHREIBUNG]
+{SCHLÜSSELWORT} Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+{GESCHMACK} Aloe Vera war bereits bei großen Kosmetik-Produktneueinführungen zu sehen und nutzte die Gelegenheit, für ihr Produkt „Aloe Vera Wasser“ zu werben. In diesem Jahr dreht sich im gesamten Hautpflegemarkt alles um die Aufhellung der Haut – die Stärke von Aloe Vera.
 
 [POMEGRANATE_DESCRIPTION_HEADER]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [POMEGRANATE_TOOLTIP]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [POMEGRANATE_PRODUCT_SHORT_DESC]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [POMEGRANATE_PRODUCT_SHORT_DESC]
-可以净化调香师僵尸的毒雾，提升周围植物的攻击力
+Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [STORE_PRODUCT_AVATAR_POMEGRANATE]
-制造的水雾中包含冰晶，被冰晶笼罩的僵尸会被冻结
+Der erzeugte Wassernebel enthält Eiskristalle, und die von Eiskristallen bedeckten Zombies werden eingefroren.
 
-[STORE_PRODUCT_AVATAR_POMEGRANATE_TITLE]
-芦荟装扮
+[S TORE_PRODUCT_AVATAR_POMEGRANATE_TITLE]
+Aloe Vera Kleid
 
 [POMEGRANATE_SKILL_LEVEL1]
-晶莹水润
+Kristallklar und feucht
 
 [POMEGRANATE_SKILL_LEVEL1_DES]
-有概率抛出一个增加攻击力和攻速的水滴
+Chance, einen Wassertropfen zu werfen, der Angriffskraft und Angriffsgeschwindigkeit erhöht
 
 [POMEGRANATE_SKILL_LEVEL2]
-水润光滑
+Glatt und feucht
 
 [POMEGRANATE_SKILL_LEVEL2_DES]
-使技能2效果提升100%
+Erhöht die Wirkung von Fertigkeit 2 um 100 %
 
 [POMEGRANATE_SKILL_LEVEL5]
-水润光滑
+Glatt und feucht
 
 [POMEGRANATE_SKILL_LEVEL5_DES]
-使技能2效果提升100%
+Erhöht die Wirkung von Fertigkeit 2 um 100 %
 
 [SNAPPEA]
-食人花豌豆
+Schnapperbse
 
 [SNAPPEA_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR} 食人花豌豆是一个十足的吃货，不会放过任何一个美食。但是由于天天暴饮暴食，导致消化不良，让他好一阵子只吐不吃。所以告诫吃货们，喜欢美食可以，但是要适量哦！
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grünpflanzen, Hülsenfrüchtler
+
+{FLAVOR}„Ich geb's zu, ich habe einen eigenwilligen Geschmack“, sagt die Schnapperbse. „Zombies fressen ist kein Problem. Nur die Köpfe krieg ich nicht runter. Ich habe immer das Gefühl, die starren mich an.“
 
 [SNAPPEA_DESCRIPTION_HEADER]
-从地底钻出吃掉直线上的僵尸
+Schnapperbsen buddeln sich zu den Zombies durch. Dann schnellen sie hervor, verschlingen die Zombies mit einem Schnapp und kehren zu ihrem Ausgangspunkt zurück, kauen eine Weile auf den Untoten herum und dann ihre Köpfe auf Angreifer spucken.
 
 [SNAPPEA_TOOLTIP]
-从地底钻出吃掉直线上的僵尸
+Frisst Zombies und spuckt ihre Köpfe aus
 
 [SNAPPEA_PRODUCT_SHORT_DESC]
-从地底钻出吃掉直线上的僵尸
+Frisst Zombies und spuckt ihre Köpfe aus
 
 [SNAPPEA_AVATAR_NAME]
-食人花豌豆装扮
+Schnapperbse Kostüm
 
 [STORE_PRODUCT_AVATAR_SNAPPEA]
-大招可以喷射多颗僵尸脑袋
+Der ultimative Move kann mehrere Zombieköpfe besprühen.
 
 [STORE_PRODUCT_AVATAR_SNAPPEA_TITLE]
-食人花豌豆装扮
+Piranha-Erbsenkostüm
 
 [SNAPPEA_SKILL_LEVEL1]
-快速消化
+Schnelle Verdauung
 
 [SNAPPEA_SKILL_LEVEL1_DES]
-消化时间减少1秒
+Verdauungszeit um 1 Sekunde reduziert
 
 [SNAPPEA_SKILL_LEVEL2]
-极速消化
+Extrem schnelle Verdauung
 
 [SNAPPEA_SKILL_LEVEL2_DES]
-消化时间减少2秒
+Verdauungszeit um 2 Sekunden reduziert
 
 [SNAPPEA_SKILL_LEVEL5]
-贪吃小子
+Gieriger Junge
 
 [SNAPPEA_SKILL_LEVEL5_DES]
-普通攻击有50%概率吃掉目标前后方一格内的最多两只僵尸
-
-[ELECTRICITEA_DESCRIPTION_HEADER]
-丢出手雷对一格内僵尸造成伤害
-
-[ELECTRICITEA_DESCRIPTION]
-{KEYWORD}特点：{STAT}丢出手雷对一格内僵尸造成伤害
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR} 他是一个军事迷，而且酷爱收集各种军事材料，有一天他把自己打扮成炮手的形象，在街上吓到不少植物~
-
-[ELECTRICITEA_TOOLTIP]
-丢出手雷对一格内僵尸造成伤害
+Normale Angriffe haben eine 50%ige Chance, bis zu zwei Zombies vor und hinter dem Ziel zu fressen
 
 [ELECTRICITEA_SKILL_LEVEL1]
-爆破专家
+Sprengmeister
 
 [ELECTRICITEA_SKILL_LEVEL1_DES]
-有10%概率破片手雷爆炸时会对周围僵尸造成溅射伤害。
+Es besteht eine 10%ige Chance, dass die Splittergranate bei der Explosion Flächenschaden an umstehenden Zombies verursacht.
 
 [ELECTRICITEA_SKILL_LEVEL2]
-爆破专精
+Sprengmeister
 
 [ELECTRICITEA_SKILL_LEVEL2_DES]
-提升爆破专家效果100%。
+Erhöht die Wirkung von Sprengmeister um 100 %.
 
 [ELECTRICITEA_SKILL_LEVEL5]
-趣味爆破
+Spaß-Sprengmeister
 
 [ELECTRICITEA_SKILL_LEVEL5_DES]
-有概率释放随机手雷弹，爆破弹对敌方造成高额伤害并且有概率炸飞僵尸，闪光弹可以对3X3范围内敌方单位造成定身效果，毒气弹可以对3X3范围内敌方单位造成10秒中毒效果。
+Es besteht die Chance, zufällige Granaten abzufeuern. Sprengbomben verursachen hohen Schaden am Gegner und können Zombies in die Luft jagen. Blendgranaten können gegnerische Einheiten im Umkreis von 3x3 bewegungsunfähig machen, und Giftgasbomben können gegnerische Einheiten im Umkreis von 3x3 10 Sekunden lang vergiften.
 
 [ELECTRICITEA_AVATAR_NAME]
-桑葚爆破装扮
+Elektrizi-Teeblatt Outfit
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
-桑葚爆破装扮
+Elektrizi-Teeblatt Outfit
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA]
-有概率丢出巨大手雷对目标造成3X3范围的巨额伤害。
+Es besteht die Chance, eine riesige Granate zu werfen, die dem Ziel im Umkreis von 3x3 Metern großen Schaden zufügt.
 
 [HEIAN_HEADER]
-丢出手雷对一格内僵尸造成伤害
-
-[IMPPEAR_DESCRIPTION]
-{KEYWORD}特点：{STAT}丢出手雷对一格内僵尸造成伤害
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR} 他是一个军事迷，而且酷爱收集各种军事材料，有一天他把自己打扮成炮手的形象，在街上吓到不少植物~
-
-[IMPPEAR_TOOLTIP]
-丢出手雷对一格内僵尸造成伤害
+Wirf eine Granate, um Zombies innerhalb eines Rasters Schaden zuzufügen.
 
 [IMPPEAR_SKILL_LEVEL1]
-爆破专家
+Sprengmeister
 
 [IMPPEAR_SKILL_LEVEL1_DES]
-有10%概率破片手雷爆炸时会对周围僵尸造成溅射伤害。
+Es besteht eine 10%ige Chance, dass die Splittergranate bei der Explosion Flächenschaden an umstehenden Zombies verursacht.
 
 [IMPPEAR_SKILL_LEVEL2]
-爆破专精
+Sprengmeister
 
 [IMPPEAR_SKILL_LEVEL2_DES]
-提升爆破专家效果100%。
+Erhöht die Wirkung von Sprengmeister um 100 %.
 
 [IMPPEAR_SKILL_LEVEL5]
-趣味爆破
+Spaß-Sprengmeister
 
 [IMPPEAR_SKILL_LEVEL5_DES]
-有概率释放随机手雷弹，爆破弹对敌方造成高额伤害并且有概率炸飞僵尸，闪光弹可以对3X3范围内敌方单位造成定身效果，毒气弹可以对3X3范围内敌方单位造成10秒中毒效果。
+Es besteht die Chance, zufällige Granaten abzufeuern. Sprengbomben verursachen hohen Schaden am Gegner und können Zombies in die Luft jagen. Blendgranaten können gegnerische Einheiten im Umkreis von 3x3 bewegungsunfähig machen, und Giftbomben können gegnerische Einheiten im Umkreis von 3x3 10 Sekunden lang vergiften.
 
 [IMPPEAR_AVATAR_NAME]
-桑葚爆破装扮
+Wichtbirne Kostüm
 
 [STORE_PRODUCT_AVATAR_IMPPEAR_TITLE]
-桑葚爆破装扮
+Wichtbirne Kostüm
 
 [STORE_PRODUCT_AVATAR_IMPPEAR]
-有概率丢出巨大手雷对目标造成3X3范围的巨额伤害。
+Es besteht die Chance, eine riesige Granate zu werfen, die dem Ziel im Umkreis von 3x3 Metern großen Schaden zufügt.
 
 [THUNDERSNAPDRAGON]
-雷龙草
+Donnerdrachengras
 
 [THUNDERSNAPDRAGON_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}蓝色植物、十万伏特
-{FLAVOR} 雷龙草作为闪电家族的一部分，自称来自阿斯咖德，是家族里出了名的恶霸，嘴里老是嘟囔着 “I am dragon of thunder”。“人人都说我长得像火龙草，我可跟它什么关系都没有，我长得比那伙计长得好看多了！”它不屑的说道。
+{KEYWORD}Pflanzenmerkmale: {STAT}Blaue Pflanze, 100.000 Volt
+{FLAVOR} Donnerdrachengras, ein Mitglied der Blitzfamilie, behauptet, aus Asgard zu stammen. Es ist ein berüchtigter Tyrann in der Familie und murmelt ständig: „Ich bin ein Donnerdrache.“ „Alle sagen, ich sehe aus wie Feuerdrachengras, aber ich habe nichts damit zu tun. Ich sehe viel besser aus als der Typ!“, sagte es verächtlich.
 [THUNDERSNAPDRAGON_DESCRIPTION_HEADER]
-吐出雷电球，释放电流，对前方的僵尸造成范围伤害
+Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
 
 [THUNDERSNAPDRAGON_TOOLTIP]
-吐出雷电球，释放电流，对前方的僵尸造成范围伤害
+Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
 
 [THUNDERSNAPDRAGON_PRODUCT_SHORT_DESC]
-吐出雷电球，释放电流，对前方的僵尸造成范围伤害
+Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
 
 [THUNDERSNAPDRAGON_AVATAR_NAME]
-吐出雷电球，释放电流，对前方的僵尸造成范围伤害
+Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
 
 [STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON]
-连续吐出两颗大雷电球，伤害提升
+Spuckt zwei große Blitze hintereinander aus, der Schaden wird erhöht.
 
-[STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON_TITLE]
-雷龙草装扮
+[STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON_TITLE ]
+Donnerdrachengras Kostüm
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL1]
-电球强化
+Elektrische Kugelverstärkung
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL1_DES]
-概率喷出大雷电球，雷电球的伤害提升，并且必定麻痹1秒
+Chance, einen großen Blitzball auszustoßen. Dieser erhöht den Schaden des Blitzballs und lähmt Zombies für 1 Sekunde.
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL2]
-超能电球
+Super-Energie-Elektroball
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL2_DES]
-使技能2效果提升100%
+Erhöht den Effekt von Fertigkeit 2 um 100 %.
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL5]
-雷龙幻影
+Gewitterdrachen-Phantom
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL5_DES]
-有概率雷龙幻影从雷龙草头上飞出，雷龙幻影身上冒着小电雷，雷龙幻影向前飞出对一直线僵尸发射雷电，对路线上造成伤害并且麻痹1秒。
+Es besteht die Chance, dass ein Gewitterdrachen-Phantom mit kleinen Blitzen am Körper aus dem Kopf des Gewitterdrachengrases hervorfliegt. Das Thunder Dragon Phantom fliegt vorwärts und schießt Blitze in einer geraden Linie auf Zombies, wodurch den Zombies auf der Route Schaden zugefügt und sie 1 Sekunde lang gelähmt werden.
 
 [NUKELAUNCHER]
-地星发射井
+Erd-Startsilo
 
 [NUKELAUNCHER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}灰色植物、武器家族
-{FLAVOR} 地星发射井看起来很矮，其他植物都以为他是矮个子家族的，可是地星却很委屈，他还有一大部分身高在土里面呢！
+{KEYWORD} Pflanzenmerkmale: {STAT} Graue Pflanze, Waffengewächse
+{FLAVOR} Der Silo sieht sehr klein aus, und andere Pflanzen halten ihn für kleinwüchsig. Der Silo fühlt sich jedoch ungerecht behandelt, da ein Großteil seiner Höhe noch im Boden steckt!
+
 [NUKELAUNCHER_DESCRIPTION_HEADER]
-发射核弹，造成高额伤害，同时留下辐射使僵尸变异
+Feuert eine Atombombe ab, die hohen Schaden verursacht und gleichzeitig Strahlung hinterlässt, die Zombies mutieren lässt.
 
 [NUKELAUNCHER_TOOLTIP]
-发射核弹，造成高额伤害，同时留下辐射使僵尸变异
+Feuert eine Atombombe ab, die hohen Schaden verursacht und Strahlung hinterlässt
 
 [NUKELAUNCHER_PRODUCT_SHORT_DESC]
-发射核弹，造成高额伤害，同时留下辐射使僵尸变异
+Feuert eine Atombombe ab, die hohen Schaden verursacht und gleichzeitig Strahlung hinterlässt, die Zombies mutieren lässt.
 
 [NUKELAUNCHER_AVATAR_NAME]
-发射核弹，造成高额伤害，同时留下辐射使僵尸变异
+Feuert eine Atombombe ab, die hohen Schaden verursacht und gleichzeitig Strahlung hinterlässt, die Zombies mutieren lässt.
 
 [STORE_PRODUCT_AVATAR_NUKELAUNCHER]
-额外发射三颗核弹，优先使巨人僵尸变异
+Feuert drei weitere Atombomben ab, wobei die Mutation riesiger Zombies Priorität hat.
 
-[STORE_PRODUCT_AVATAR_NUKELAUNCHER_TITLE]
-地星发射井装扮
+[STORE_PRODUCT_AVATAR_NUKELAUNCHER] DUCT_AVATAR_NUKELAUNCHER_TITLE]
+Erd-Startsilo Outfit
 
 [NUKELAUNCHER_SKILL_LEVEL1]
-辐射强化
+Strahlungsverstärkung
 
 [NUKELAUNCHER_SKILL_LEVEL1_DES]
-辐射僵尸变身时长延长2秒
+Dauer der Strahlen-Zombie-Verwandlung um 2 Sekunden verlängert
 
 [NUKELAUNCHER_SKILL_LEVEL2]
-辐射阈值
+Strahlungsschwelle
 
 [NUKELAUNCHER_SKILL_LEVEL2_DES]
-辐射僵尸变身时长再延长2秒
+Dauer der Strahlen-Zombie-Verwandlung um 2 Sekunden verlängert
 
 [NUKELAUNCHER_SKILL_LEVEL5]
-辐射扩散
+Strahlungsdiffusion
 
 [NUKELAUNCHER_SKILL_LEVEL5_DES]
-子弹攻击后产生的辐射范围变为3X3
+Die Strahlungsreichweite nach einem Kugelangriff ändert sich auf 3x3
 
 [DAZEYCHAIN]
-眩晕雏菊
+Stinkeblümchen
 
 [DAZEYCHAIN_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}白色植物、红色植物、紫色植物
-{FLAVOR} 眩晕雏菊三兄弟他们三位一体，但是为了保持不必要的消耗，通常只留下白勇者在外面担任沟通工作。但是经过充分的运动后，白勇者的两位哥哥，紫博士和红霸王也会一同醒来，共同御敌！
+{KEYWORD} Pflanzeneigenschaften: {STAT} Weiße Pflanzen, rote Pflanzen, violette Pflanzen
+
+{FLAVOR}„Ich bin viele“, sagt Stinkeblümchen. „Und wir sind gefährlich“, fügt es hinzu.
+
 [DAZEYCHAIN_DESCRIPTION_HEADER]
-通过不断攻击，可以间歇性喷出眩晕性气体，眩晕一整行僵尸。
+Stinkeblümchen vollziehen mehrere Wachstumsphasen, in denen sie immer mächtiger werden. In jeder Phase stoßen sie ein lähmendes Gas aus.
 
 [DAZEYCHAIN_TOOLTIP]
-通过不断攻击，可以间歇性喷出眩晕性气体，眩晕一整行僵尸。
+Wächst und lähmt Gegner
 
 [DAZEYCHAIN_PRODUCT_SHORT_DESC]
-通过不断攻击，可以间歇性喷出眩晕性气体，眩晕一整行僵尸。
+Wächst und lähmt Gegner
 
 [DAZEYCHAIN_AVATAR_NAME]
-通过不断攻击，可以间歇性喷出眩晕性气体，眩晕一整行僵尸。
+Stinkeblümchen Kostüm
 
 [STORE_PRODUCT_AVATAR_DAZEYCHAIN]
-额外吹出强风，将本行僵尸击退。
+Bläst extra starke Winde aus, um Zombies in deiner Reihe abzuwehren.
 
 [STORE_PRODUCT_AVATAR_DAZEYCHAIN_TITLE]
-眩晕雏菊装扮
+Dizzy Daisy Kostüm
 
 [DAZEYCHAIN_SKILL_LEVEL1]
-热身运动
+Aufwärmübung
 
 [DAZEYCHAIN_SKILL_LEVEL1_DES]
-减少1次开花所需的攻击次数。
+Reduziert die Anzahl der Angriffe, die zum einmaligen Aufblühen benötigt werden.
 
 [DAZEYCHAIN_SKILL_LEVEL2]
-充分热身
+Aufwärmübung
 
 [DAZEYCHAIN_SKILL_LEVEL2_DES]
-提升2技能的效果100%。
+Erhöht die Wirkung von Fertigkeit 2 um 100 %.
 
 [DAZEYCHAIN_SKILL_LEVEL5]
-科学热身
+Wissenschaftliche Aufwärmübung
 
 [DAZEYCHAIN_SKILL_LEVEL5_DES]
-开花所需的攻击次数减少至8次。雾气可^848484^眩晕Ⅰ^oldclr^的僵尸阶数提升至10阶，最高形态时，雾气会在草坪底线堆积，对雾中的僵尸间断性造成眩晕。
+Reduziert die Anzahl der zum Erblühen benötigten Angriffe auf 8. Der Nebel kann Zombies bis Stufe 10 betäuben. In der höchsten Stufe sammelt sich der Nebel am unteren Rand des Rasens und betäubt die Zombies im Nebel zeitweise.
 
 [BOOMFLOWER]
-爆炸桔梗
+Knallballonblume
 
 [BOOMFLOWER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{KEYWORD}用法：{STAT}在爆炸桔梗生成气球后点击或拖动将气球移动到其他地块
-{FLAVOR} 爆炸桔梗的气球充满氢气和雾化煤油。这是一种反安全措施。
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{KEYWORD}Verwendung: {STAT}Nachdem der Ballon durch das explosive Platycodon erzeugt wurde, klicken oder ziehen Sie ihn, um ihn auf ein anderes Feld zu verschieben.
+
+{FLAVOR}Die Ballons der Knallballonblume sind mit Wasserstoff und Kerosin-Aerosol gefüllt. Reine Anti-Vorsichtsmaßnahme.
 
 [BOOMFLOWER_DESCRIPTION_HEADER]
-爆炸桔梗会产生爆炸的气球，这些气球可以手动放置在草坪上。
+Knallballonblumen erzeugen explodierende Ballons, die als Zombie-Fallen an beliebigen Stellen des Rasens platziert werden können.
 
 [BOOMFLOWER_TOOLTIP]
-爆炸桔梗会产生爆炸的气球，这些气球可以手动放置在草坪上。
+Tippe, um Ballonminen zu erzeugen
 
 [BOOMFLOWER_PRODUCT_SHORT_DESC]
-爆炸桔梗会产生爆炸的气球，这些气球可以手动放置在草坪上。
+Tippe, um Ballonminen zu erzeugen
 
 [BOOMFLOWER_AVATAR_NAME]
-爆炸桔梗会产生爆炸的气球，这些气球可以手动放置在草坪上。
+Explodierende Kiwis erzeugen explodierende Ballons, die manuell auf dem Rasen platziert werden können.
 
 [STORE_PRODUCT_AVATAR_BOOMFLOWER]
-毁灭菇气球爆炸额外产生8周年特效，可以把僵尸向上击飞并眩晕。
+Die Explosion des Kiwi-Pilzballons erzeugt einen zusätzlichen Spezialeffekt zum 8. Jahrestag, der Zombies nach oben schleudern und betäuben kann.
 
 [STORE_PRODUCT_AVATAR_BOOMFLOWER_TITLE]
-爆炸桔梗装扮
+Explodierendes Kiwi-Kostüm
 
 [BOOMFLOWER_SKILL_LEVEL1]
-气球改良
+Ballon-Verbesserung
 
 [BOOMFLOWER_SKILL_LEVEL1_DES]
-气球炸弹的生成间隔减少1秒，阳光消耗减少50
-
+Das Intervall zwischen Ballonbomben wird um 1 Sekunde und der Sonnenlichtverbrauch um 50 % reduziert.
 
 [BOOMFLOWER_SKILL_LEVEL2]
-二次改良
+Sekundäre Verbesserung
 
 [BOOMFLOWER_SKILL_LEVEL2_DES]
-使气球改良的效果提升100%。
-
+Erhöht den Effekt der Ballon-Verbesserung um 100 %.
 
 [BOOMFLOWER_SKILL_LEVEL5]
-庆典气球
+Feierballon
 
 [BOOMFLOWER_SKILL_LEVEL5_DES]
-生成气球炸弹时有概率生成一个8周年气球，8周年气球会自动飞向最近的一个僵尸爆炸，爆炸范围扩大。
+Wenn eine Ballonbombe erzeugt wird, besteht die Chance, dass ein Ballon zum 8. Jahrestag entsteht. Der Ballon fliegt automatisch zum nächsten Zombie und explodiert, wodurch sich die Explosionsreichweite vergrößert.
 
 [ULTOMATO]
-终极番茄
+Ultomate
 
 [ULTOMATO_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR} 终极番茄在执行宇航任务的时候，被来自外太空的光之粒子灌注到了身体之中，光之粒子之中拥有着正义的意志，引导终极番茄使用光之力去守卫家园，击败邪恶的僵尸。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanzen
+
+{FLAVOR}Ultomate gähnt – aber täusch dich nicht: In ihm brodeln unvorstellbare Energien. Doch das ist schon OK. Er kann warten. Er hat den gaaaanzen Tag Zeit.
+
 [ULTOMATO_DESCRIPTION_HEADER]
-终极番茄可以通过重复种植使自身变强。
+Ultomaten laden sich langsam auf und schießen dann einen vernichtenden Strahl ihre Reihe hinunter, der Zombies schadet, solange er andauert. Pflanze mehrere Ultomaten auf demselben Feld, um sie zu verstärken.
 
 [ULTOMATO_TOOLTIP]
-终极番茄可以通过重复种植使自身变强。
+Lädt auf und ballert
 
 [ULTOMATO_PRODUCT_SHORT_DESC]
-终极番茄可以通过重复种植使自身变强。
+Lädt auf und ballert
 
 [ULTOMATO_AVATAR_NAME]
 Die ultimative Tomate kann durch wiederholtes Pflanzen stärker werden.
@@ -38324,28 +38328,29 @@ Kann erneut zerbrochen werden
 Manche Schilde können erneut zerbrochen werden.
 
 [TUPISTRASTALKER]
+Tupistra Agent
 
 [TUPISTRASTALKER_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
-{FLAVOR} Stealth Arrow gilt in der Ninja-Welt als Spitzenspieler, doch alle sagen, dass Eggplant Ninja besser ist als Stealth Arrow. Stealth Arrow kümmert das nicht, da er die Kampfstile beider Seiten für unterschiedlich hält. Er zieht es vor, sich zu seiner eigenen Sicherheit im Schatten zu verstecken.
+{FLAVOR}Der Tupistra Agent gilt in der Ninja-Welt als Spitzenspieler, doch alle sagen, dass Eggplant Ninja besser ist als Stealth Arrow. Stealth Arrow kümmert das nicht, da er die Kampfstile beider Seiten für unterschiedlich hält. Er zieht es vor, sich zu seiner eigenen Sicherheit im Schatten zu verstecken.
 
 [TUPISTRASTALKER_DESCRIPTION_HEADER]
-Schleichender Öffnungspfeil erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
+Der Tupistra Agent erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
 
 [TUPISTRASTALKER_TOOLTIP]
-Schleichender Öffnungspfeil erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
+Erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
 
 [TUPISTRASTALKER_PRODUCT_SHORT_DESC]
-Schleichender Öffnungspfeil erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
+Der Tupistra Agent erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
 
 [TUPISTRASTALKER_AVATAR_NAME]
-Der heimliche Öffnungspfeil erscheint plötzlich aus dem Untergrund und greift Zombies in der Nähe an.
+Der Tupistra Agent erscheint plötzlich aus dem Untergrund und greift Zombies in der Nähe an.
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER]
 Nach Aktivierung der ultimativen Fähigkeit bleiben die Splitter des Pfeils eine Weile an Ort und Stelle und fügen vorbeigehenden Zombies kontinuierlich Schaden zu.
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER_TITLE]
-Stealth-Open-Pfeil-Kostüm
+Tupistra Agent Kostüm
 
 [TUPISTRASTALKER_SKILL_LEVEL1]
 Schnelles Wachstum
@@ -39135,9 +39140,11 @@ Seltsames Licht
 Die Knospe verschießt Licht, um Zombies zu verletzen, und verwandelt den ersten kleinen oder mittelgroßen Zombie, den sie berührt, in ein freundlicher Mönch-Zombie
 
 [DEVILSFLOWER]
+Klauenblume
 
 [DEVILSFLOWER_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanze, wächst
+
 {FLAVOR}Niemand weiß, woher sie kommt, aber jeder Zombie, der mit ihr in Berührung kommt, wird von einer Mumie gesaugt. Jetzt sind keine Zombies mehr neugierig.
 
 [DEVILSFLOWER_DESCRIPTION_HEADER]
@@ -39152,11 +39159,14 @@ Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und E
 [DEVILSFLOWER_AVATAR_NAME]
 Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
 
-[STORE_PRODUCT_AVATAR_DEVIL SFLOWER_TITLE]
+[STORE_PRODUCT_AVATAR_DEVILSFLOWER_TITLE]
 Abgrund-Klauenblumenkostüm
 
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER]
-Der Apostel-Riesenzombie, beschworen durch die ultimative Die Fähigkeit entwickelt sich zum Apostelführer-Riesenzombie und kann beim Angriff Säure spucken.
+Der Apostel-Gargantua, beschworen durch die Spezialdünger Fähigkeit, entwickelt sich zum Apostelführer-Gargantua und kann beim Angriff Säure spucken.
+
+[DEVILSFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
+Der Apostel-Gargantua, beschworen durch die Spezialdünger Fähigkeit, entwickelt sich zum Apostelführer-Gargantua und kann beim Angriff Säure spucken.
 
 [DEVILSFLOWER_SKILL_LEVEL1]
 Leerenriss
@@ -39249,7 +39259,7 @@ Fächerherzorchidee
 
 [HOYACORDATA_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze
-{FLAVOR}Nach dem Konzert der Sängerin Sunflower war die Herzorchidee tief bewegt und beschloss, dieses Idol für den Rest ihres Lebens zu unterstützen. Sie hat jedoch vergessen, wie oft ihr das schon passiert ist.
+{FLAVOR}Nach dem Konzert der Sonnenblumensängerin war die Herzorchidee tief bewegt und beschloss, dieses Idol für den Rest ihres Lebens zu unterstützen. Sie hat jedoch vergessen, wie oft ihr das schon passiert ist.
 
 [HOYACORDATA_DESCRIPTION_HEADER]
 Stütze eine Pflanze vor dir, um ihre Angriffskraft zu erhöhen und ihre Gesundheit wiederherzustellen.
@@ -44176,212 +44186,206 @@ Offensivwertung: ^ee2c2c 4 ^oldclr
 Defensivwertung: ^00e46e 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM5_DES_4]
-综合实力: ^ee2c2c 4 ^oldclr
+Gesamtstärke: ^ee2c2c 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM5_DES_5]
-^ffed86 阵容 ^oldclr : 冬青骑士   玫瑰剑客   龙舌兰 
+^ffed86 Aufstellung ^oldclr: Holly Knight Rose Swordsman Tequila
 
 [PVZ_WORLDCUP_TEAM5_DES_6]
 
-
 [PVZ_WORLDCUP_TEAM6_DES_1]
-^ffed86 防御型 ^oldclr  你问他们为什么会来参加比赛？因为有好多好吃的！
+^ffed86 Defensiver Typ ^oldclr Warum fragst du sie, am Wettbewerb teilzunehmen? Weil es so viele leckere Gerichte gibt!
 
 [PVZ_WORLDCUP_TEAM6_DES_2]
-进攻指数: ^436eee 5 ^oldclr
+Offensivindex: ^436eee 5 ^oldclr
 
 [PVZ_WORLDCUP_TEAM6_DES_3]
-防守指数: ^ee2c2c 4 ^oldclr
+Defensivindex: ^ee2c2c 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM6_DES_4]
-综合实力: ^ee2c2c 4 ^oldclr
+Gesamtstärke: ^ee2c2c 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM6_DES_5]
-^ffed86 阵容 ^oldclr : 食人花豌豆    龙吼草     金蟾菇
+^ffed86 Aufstellung ^oldclr: Piranha-Erbse, Drachenbrüllgras, Goldkrötenpilz
 
 [PVZ_WORLDCUP_TEAM6_DES_6]
 
-
 [PVZ_WORLDCUP_TEAM2_DES_1]
-^ffed86 技术型 ^oldclr 喜欢用比较花哨的动作来突破对手的防线  依靠个人能力来策动进攻。
+^ffed86 Techniktyp ^oldclr. Nutzt gerne raffiniertere Moves, um die gegnerische Verteidigung zu durchbrechen und verlässt sich beim Angriff auf seine persönlichen Fähigkeiten.
 
 [PVZ_WORLDCUP_TEAM2_DES_2]
-进攻指数: ^436eee 4 ^oldclr
+Offensivindex: ^436eee 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM2_DES_3]
-防守指数: ^436eee 3 ^oldclr
+Verteidigungsindex: ^436eee 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM2_DES_4]
-综合实力: ^00e46e 4 ^oldclr
+Gesamtstärke: ^00e46e 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM2_DES_5]
-^ffed86 阵容 ^oldclr : 原始大王花    毒影菇     芦藜药师 
+^ffed86 Aufstellung ^oldclr: Primitive Rafflesia, Giftiger Schattenpilz, Verbenen-Apotheker
 
 [PVZ_WORLDCUP_TEAM2_DES_6]
 
- 
 [PVZ_WORLDCUP_TEAM3_DES_1]
-^ffed86 综合型 ^oldclr  水生植物即使来到陆地上也不会惧怕战斗。
+^ffed86 Umfassender Typ ^oldclr Wasserpflanzen scheuen den Kampf nicht, selbst wenn sie an Land kommen.
 
 [PVZ_WORLDCUP_TEAM3_DES_2]
-进攻指数: ^00e46e 3 ^oldclr
+Offensivindex: ^00e46e 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM3_DES_3]
-防守指数: ^ee2c2c 4 ^oldclr
+Defensivindex: ^ee2c2c 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM3_DES_4]
-综合实力: ^436eee 4 ^oldclr
+Gesamtstärke: ^436eee 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM3_DES_5]
-^ffed86 阵容 ^oldclr :水仙花射手  莲小蓬   鳄梨 
+^ffed86-Aufstellung ^oldclr: Narcissus-Schütze, Lian Xiaopeng, Avocado
 
 [PVZ_WORLDCUP_TEAM3_DES_6]
 
 
 [PVZ_WORLDCUP_TEAM7_DES_1]
-^ffed86 控制型 ^oldclr  通过稳定的后防线 防住对手的进攻 同时伺机寻找反击机会。
+^ffed86 Kontrolltyp ^oldclr Blockiert mit einer stabilen Abwehrlinie den Angriff des Gegners und sucht nach Möglichkeiten zum Konter.
 
 [PVZ_WORLDCUP_TEAM7_DES_2]
-进攻指数: ^00e46e 3 ^oldclr
+Offensivwertung: ^00e46e 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM7_DES_3]
-防守指数: ^ee2c2c 5 ^oldclr
+Verteidigungswertung: ^ee2c2c 5 ^oldclr
 
 [PVZ_WORLDCUP_TEAM7_DES_4]
-综合实力: ^436eee 4 ^oldclr
+Gesamtstärke: ^436eee 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM7_DES_5]
-^ffed86 阵容 ^oldclr : 金缕梅女巫   超能花菜   南瓜巫师
+^ffed86 Aufstellung ^oldclr: Hamamelis-Hexe, Super-Blumenkohl-Kürbis-Zauberer
 
 [PVZ_WORLDCUP_TEAM7_DES_6]
 
-
 [PVZ_WORLDCUP_TEAM4_DES_1]
-^ffed86 进攻型 ^oldclr  据说跟他们对战过的僵尸只记得漫天的子弹！
+^ffed86 Offensive ^oldclr Es heißt, die Zombies, die gegen sie gekämpft haben, erinnern sich nur an die Kugeln, die durch den Himmel flogen!
 
 [PVZ_WORLDCUP_TEAM4_DES_2]
-进攻指数: ^436eee 5 ^oldclr
+Offensivindex: ^436eee 5 ^oldclr
 
 [PVZ_WORLDCUP_TEAM4_DES_3]
-防守指数: ^00e46e 4 ^oldclr
+Defensivindex: ^00e46e 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM4_DES_4]
-综合实力: ^00e46e 5 ^oldclr
+Gesamtstärke: ^00e46e 5 ^oldclr
 
 [PVZ_WORLDCUP_TEAM4_DES_5]
-^ffed86 阵容 ^oldclr : 豌豆迫击炮   双枪松果   机枪石榴
+^ffed86 Aufstellung ^oldclr: Erbsenmörser, Doppelkanone, Tannenzapfen, Maschinengewehr, Granatapfel
 
 [PVZ_WORLDCUP_TEAM4_DES_6]
 
-
 [PVZ_WORLDCUP_TEAM8_DES_1]
-^ffed86 技术型 ^oldclr  僵尸已经分不清是宝石还是炮弹了
+^ffed86 Technischer Typ ^oldclr Zombies können nicht mehr erkennen, ob es sich um einen Edelstein oder einen Kanonenkugel
 
 [PVZ_WORLDCUP_TEAM8_DES_2]
-进攻指数: ^436eee 5 ^oldclr
+Offensive Wertung: ^436eee 5 ^oldclr
 
 [PVZ_WORLDCUP_TEAM8_DES_3]
-防守指数: ^436eee 3 ^oldclr
+Defensive Wertung: ^436eee 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM8_DES_4]
-综合实力: ^436eee 4 ^oldclr
+Gesamtstärke: ^436eee 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM8_DES_5]
-^ffed86 阵容 ^oldclr : 宝石商石榴  冬瓜守卫  熊果臼炮 
+^ffed86 Aufstellung ^oldclr: Edelsteinhändler Granatapfel Wintermelonenwächter Bärentraubenmörser
 
 [PVZ_WORLDCUP_TEAM8_DES_6]
 
-
 [PVZ_WORLDCUP_NOTICKET_TIPS]
-您的票已用完，请购买门票再进行游戏
+Deine Tickets sind aufgebraucht. Bitte kauft Tickets, bevor ihr spielt.
 
 [PVZ_WORLDCUP_ACTIVITY_TIME]
-活动时间:{NUM1}月{NUM2}日——{NUM3}月{NUM4}日
+Aktivitätszeit: {NUM1} Monat {NUM2} Tag - {NUM3} Monat {NUM4} Tag
 
 [PVZ_FESTIVAL_GAME_TIME]
-2019年6月1日--2019年6月14日
+1. Juni 2019 - 14. Juni 2019
 
-[PVZ_FESTIVAL_GAME_TIME_LEFT]
-{NUM1}日
+[PVZ_FESTIVAL_GAME_ TIME_LEFT]
+{NUM1} Tage
 
 [PVZ_FESTIVAL_GAME_TIME_LEFT_HOURS]
-{NUM1}小时
+{NUM1} Stunden
 
 [PVZ_WORLDCUP_NOTICKET_TIPS_105]
-使用冰冻三尺和毒霸天下通关后解锁
+Freigeschaltet nach Abschluss des Spiels mit Eis und Gift.
 
 [PVZ_WORLDCUP_NOTICKET_TIPS_106]
-使用背水一战和军中战神通关后解锁
+Freigeschaltet nach Abschluss des Spiels mit „Letztes Gefecht“ und „Gott der Krieg
 
 [PVZ_WORLDCUP_NOTICKET_TIPS_107]
-您想花费^4FC148 150颗钻石 ^oldclr 解锁魅力十足吗？
+Möchtest du ^4FC148 150 Diamanten ^oldclr ausgeben, um den Zauber freizuschalten?
 
 [PVZ_WORLDCUP_NOTICKET_TIPS_108]
-您想花费^4FC148 150颗钻石 ^oldclr 解锁经天纬地吗？
+Möchtest du ^4FC148 150 Diamanten ^oldclr ausgeben, um Himmel und Erde freizuschalten?
 
 [PVZ_WORLDCUP_FIRSTFIGHTWIN]
-首次挑战成功 获得奖励：
+Erste Herausforderung erfolgreich, Belohnung erhalten:
 
 [PVZ_WORLDCUP_FIGHTWIN]
-挑战成功 获得奖励：
+Herausforderung erfolgreich, Belohnung erhalten:
 
 [PVZ_WORLDCUP_DRAWGAME]
-太可惜了！差一点就能获得比赛胜利！请再接再厉
+Schade! Du hättest fast gewonnen! Weiter so!
 
 [PVZ_WORLDCUP_FIGHTFAILED]
-不要气馁！去提升自身战斗力再来挑战吧
+Lass dich nicht entmutigen! Verbessere deine Kampfkraft, bevor du erneut antrittst.
 
 [PVZ_WORLDCUP_UNLOCKTEAM_105]
-骑士精神已解锁
+Ritterlichkeit wurde freigeschaltet.
 
 [PVZ_WORLDCUP_UNLOCKTEAM_106]
-吃货植物已解锁
+Gourmetpflanzen wurden freigeschaltet.
 
 [PVZ_WORLDCUP_QUITGAME]
-放弃游戏
+Spiel aufgeben.
 
 [PVZ_WORLDCUP_AWARD_DES]
-获得奖励
+Belohnungen erhalten.
 
 [PVZ_WORLDCUP_AWARD1]
-普通铁桶碎片
-冰球奖牌
+Fragmente eines gewöhnlichen Eiseneimers
+Eishockey-Medaillen
 
 [PVZ_WORLDCUP_AWARD2]
-金蟾菇碎片  
-冰球奖牌
+Fragmente eines goldenen Krötenpilzes
+Hockey-Medaille
 
 [PVZ_WORLDCUP_AWARD3]
-金蟾菇装扮碎片
-冰球奖牌
+Fragment eines goldenen Krötenpilzkostüms
+Hockey-Medaille
 
 [PVZ_WORLDCUP_AWARD4]
-精巧的闹钟碎片
-冰球奖牌
+Fragment eines exquisiten Weckers
+Hockey-Medaille
 
 [PVZ_WORLDCUP_AWARD5]
-吹风荚兰碎片
-冰球奖牌
+Puffende Orchidee Fragment
+Hockey-Medaille
 
 [PVZ_WORLDCUP_AWARD6]
-吹风荚兰    装扮碎片
-冰球奖牌
+Puffing Orchid Kostüm-Fragment
+Hockey-Medaille
 
 [PVZ_WORLDCUP_AWARD7]
-寒冰醋栗碎片
-冰球奖牌
+Eis-Johannisbeere-Fragment
+Hockey-Medaille
 
 [PVZ_WORLDCUP_SHOWCLEARANCETIP]
-恭喜通关
+Herzlichen Glückwunsch zum Spielabschluss!
 
 [PVZ_WORLDCUP_BTNTUTORIAL]
-进入引导
+Guide starten
 
 [PVZ_WORLDCUP_AFTERTUTORIAL]
-正式开始
+Offiziell gestartet
 
 [PVZ_WORLDCUP_CURSTAGE]
-当前赛事进度  {NUM} / 7
+Aktueller Event-Fortschritt: {NUM} / 7
 
 [PVZ_WORLDCUP_UNLOCKTEAM]
 Team freischalten
@@ -48542,7 +48546,7 @@ Abklingzeit des Goldknospenanbaus um {Param_1} % reduziert
 Ruhezeit des Magnetpilzes um {Param_1} % verkürzt
 
 [GENE_DESCRIPTION_PEACH]
-Die Dauer des unbesiegbaren Schildes von Xiantaos ultimativer Fähigkeit wird um {Param_1} Sekunden erhöht.
+Die Dauer des unbesiegbaren Schildes von Feenpfirsischs ultimativer Fähigkeit wird um {Param_1} Sekunden erhöht.
 
 [GENE_DESCRIPTION_STALLIA]
 Dahlia erhöht den zusätzlichen Schaden, den Zombies im vergifteten Zustand erleiden, um {Param_1} %.
@@ -55203,7 +55207,7 @@ Die Waffe hat anfangs 90 Schuss. Klicke auf das Artefakt, um kontinuierlich weni
 Ritterlich
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_2]
-Passiver Effekt: Xiantao, Du Ying-Krug, Tigerkopfpilz, Schwertblatt-Drachenblutbaum, Eisschütze – Angriffs- und Verteidigungsattribute werden um {PassiveField1_1}% erhöht.
+Passiver Effekt: Feenpfirsisch, Du Ying-Krug, Tigerkopfpilz, Schwertblatt-Drachenblutbaum, Eisschütze – Angriffs- und Verteidigungsattribute werden um {PassiveField1_1}% erhöht.
 
 [ARTIFACT_SWARM_SKILL_3]
 Schnelles Nachfüllen
@@ -73247,28 +73251,28 @@ Der Laser, den sie abfeuert, enthält mehr Energie. Trifft sie das Ziel, spritzt
 Die Ultimative Tomate explodiert sofort und fügt allen Zombies im Umkreis von 9×9 Schaden zu.
 
 [ULTOMATO_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Ultimative Tomate explodiert sofort und fügt allen Zombies im Umkreis von 9×9 Schaden zu. ^ff0000^ War sie ursprünglich in der zweiten oder dritten Form, verwandelt sie sich in die erste, anstatt direkt zu verschwinden. ^oldclr^
+Die Ultomate explodiert sofort und fügt allen Zombies im Umkreis von 9×9 Schaden zu. ^ff0000^ War sie ursprünglich in der zweiten oder dritten Form, verwandelt sie sich in die erste, anstatt direkt zu verschwinden. ^oldclr^
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie in einem 3×3 großen Bereich um den Tarnpfeil erscheint, springt er hoch, dreht sich und schießt Pfeile ab, die allen Zombies Schaden zufügen. Anschließend schleicht er sich in den Boden, um den Angriffen der Zombies auszuweichen. Nach 9 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
+Wenn ein Zombie in einem 3×3 großen Bereich um den Tupistra Agent erscheint, springt er hoch, dreht sich und schießt Pfeile ab, die allen Zombies Schaden zufügen. Anschließend schleicht er sich in den Boden, um den Angriffen der Zombies auszuweichen. Nach 9 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL2_DES]
-Die Wachstumsrate der Pfeile des Tarnungsöffnungspfeils wird erhöht. Nach 8 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
+Die Wachstumsrate der Pfeile des Tupistra Agent wird erhöht. Nach 8 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL3_DES]
-Die Wirkung der Fähigkeit „Schnelles Wachstum“ wird um 100% erhöht. Nach 7 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
+Die Wirkung der Fähigkeit „Schneller Wachstum“ wird um 100% erhöht. Nach 7 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL4_DES]
 Es besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-attacke beim Einpflanzen direkt freizusetzen!
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL5_DES]
-Beim Angriff rotiert der offene Stealth-Pfeil zweimal und feuert zwei Salven Pfeile ab, die allen Zombies in Reichweite zwei Schadenspunkte zufügen.
+Beim Angriff rotiert der Tupistra Agent zweimal und feuert zwei Salven Pfeile ab, die allen Zombies in Reichweite zwei Schadenspunkte zufügen.
 
 [TUPISTRASTALKER_PLANTFOOD_DESCRIPTION]
-Der offene Stealth-Pfeil fliegt sofort nach oben und rotiert weiter. Er feuert kontinuierlich drei Salven Pfeile in einem 3×3-Bereich um sich herum ab und fügt allen Zombies Schaden zu. Anschließend wechselt er in den Stealth-Zustand.
+Der Tupistra Agent fliegt sofort nach oben und rotiert weiter. Er feuert kontinuierlich drei Salven Pfeile in einem 3×3-Bereich um sich herum ab und fügt allen Zombies Schaden zu. Anschließend wechselt er in den Stealth-Zustand.
 
 [TUPISTRASTALKER_AVATAR_PLANTFOOD_DESCRIPTION]
-Der offene Stealth-Pfeil fliegt sofort nach oben und rotiert weiter. Er feuert kontinuierlich drei Salven Pfeile in einem 3×3-Bereich um sich herum ab und fügt allen Zombies Schaden zu. Anschließend wechselt er in den Stealth-Zustand. ^ff0000^ Die Pfeilsplitter bleiben eine Weile an Ort und Stelle und fügen vorbeifliegenden Zombies kontinuierlich Schaden zu. ^oldclr^
+Der Tupistra Agent fliegt sofort nach oben und rotiert weiter. Er feuert kontinuierlich drei Salven Pfeile in einem 3×3-Bereich um sich herum ab und fügt allen Zombies Schaden zu. Anschließend wechselt er in den Stealth-Zustand. ^ff0000^ Die Pfeilsplitter bleiben eine Weile an Ort und Stelle und fügen vorbeifliegenden Zombies kontinuierlich Schaden zu. ^oldclr^
 
 [SHADOWVANILLA_NEW_SKILL_LEVEL1_DES]
 Wenn Zombies auf der rechten Seite erscheinen, wird Nebel abgefeuert, der ihnen Schaden zufügt. Im Schattenzustand lädt jeder Angriff die Blätter auf. Nach drei Ladeschichten wird der nächste Angriff zu Schattennebel, der die gesamte Reihe durchdringt und den doppelten Schaden verursacht. Der Zombie erleidet dadurch 7 Sekunden lang 20% Verwundbarkeit.
@@ -75157,31 +75161,33 @@ Bitte aktualisieren Sie auf die neueste Version.
 Benutzen Sie die Verkleidungsgutscheine, um Pflanzenverkleidungsgutscheine zu kaufen.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_1]
-Xiantao Ewige Trübsal Verkleidung
+Feenpfirsisch Ewige Trübsal Verkleidung
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_2]
-Xiantao Ewige Trübsal Verkleidungsgutscheine
+Feenpfirsisch Ewige Trübsal Verkleidungsgutscheine
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_3]
-Xiantao Ewige Trübsal Verkleidungsgutscheine
+Feenpfirsisch Ewige Trübsal Verkleidungsgutscheine
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_4]
-Xiantao Ewige Trübsal Verkleidungsgutscheine
+Feenpfirsisch Ewige Trübsal Verkleidungsgutscheine
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_5]
-Xiantao Ewige Trübsal Verkleidung Gutscheine
+Feenpfirsisch Ewige Trübsal Verkleidung Gutscheine
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_6]
-Gutscheine für Xiantao Ewige Trübsal-Anzug
+Gutscheine für Feenpfirsisch Ewige Trübsal-Anzug
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_7]
-Gutscheine für Xiantao Ewige Trübsal-Anzug
+Gutscheine für Feenpfirsisch Ewige Trübsal-Anzug
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_8]
-Gutscheine für Xiantao Ewige Trübsal-Anzug
+Gutscheine für Feenpfirsisch Ewige Trübsal-Anzug
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_9]
-Xiantao Ewige Trübsal-Kleid RT_DESCRIPTION_SNOWPEA_3]
+Feenpfirsisch Ewige Trübsal-Kleid 
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_3]
 Nakadashi-Kostüm der Frostbogenschützen-Klinge
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_2]
