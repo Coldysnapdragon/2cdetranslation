@@ -63290,6 +63290,12 @@ Höchste Punktzahl in diesem Zeitraum: {NUMS}
 [CUMULATIVE_OBTAIN]
 累计获得
 
+[PVZ1MODE_BUOY]
+Bewege die Boje.
+
+[PVZ1MODE_BUOY_NORMAL_DESC]
+Der Zombie folgt der Richtung der Boje.
+
 [CUMULATIVE_SCORE_OBTAIN]
 累计获得积分
 
