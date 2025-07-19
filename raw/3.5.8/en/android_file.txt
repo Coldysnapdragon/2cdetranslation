@@ -31715,10 +31715,10 @@ Benötigen Sie mehr Setzlinge? Wählen Sie unten ein Paket aus.
 Überlebe einen massiven Angriff in der Neon Mixtape Tour.
 
 [STARCHALLENGE_EVILSHROOMS]
-Boese tränke
+test
 
 [STARCHALLENGE_EVILSHROOMS_NAME]
-Dunkle Alchemie
+test
 
 [STARCHALLENGE_ICEAGE_FINALE]
 Überlebe einen massiven Angriff in den Frostbeulen-Höhlen.
