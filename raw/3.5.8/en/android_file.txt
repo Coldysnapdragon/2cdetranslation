@@ -63314,8 +63314,7 @@ Schließe alle Level auf dem Schwierigkeitsgrad „Schwer“ ab.
 [PVZ1_ACHIEVEMENT_NAME_3]
 Geschwindigkeit
 
-[PVZ1_ACHIEVEMENT_DESCRIPTION_4]
-CHIEVEMENT_DESCRIPTION_3]
+[PVZ1_ACHIEVEMENT_DESCRIPTION_3]
 Besiege einmal einen Elite-Zombie, wenn die Raum-Zeit-Energie über 50% liegt.
 
 [PVZ1_ACHIEVEMENT_NAME_4]
