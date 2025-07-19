@@ -63357,7 +63357,7 @@ Schließe alle normalen Level in zwei verschiedenen Themen ab.
 [PVZ1_ACHIEVEMENT_NAME_10]
 Elite-Jagd
 
-[PV Z1_ACHIEVEMENT_DESCRIPTION_10]
+[PVZ1_ACHIEVEMENT_DESCRIPTION_10]
 Besiege 4 verschiedene Elite-Zombies.
 
 [PVZ1_ACHIEVEMENT_NAME_11]
