@@ -664,7 +664,7 @@ Schließen
 Auf der Karte anzeigen
 
 [ALMANAC_PLANTS]
-Pflanzen
+PFLANZEN
 
 [ALMANAC_PURCHASE]
 {PRODUCT_NAME} kaufen
@@ -673,16 +673,16 @@ Pflanzen
 Auf der Karte anzeigen
 
 [ALMANAC_UPGRADES]
-Verbesserungen
+VERBESSERUNGEN
 
 [ALMANAC_ZOMBIES]
-Zombies
+ZOMBIES
 
 [APP_UPDATE_REQUIRED]
 Bitte lade die neueste Version von Plants vs. Zombies 2 aus dem AppStore herunter.
 
 [ARE_YOU_SURE]
-Bist du sicher?
+Bist du dir sicher?
 
 [AWARD_SCREEN_ALL_STARS]
 Du hast alle Sterne!
@@ -1314,28 +1314,28 @@ Qualitätssicherungsmanager
 Qualitätssicherung
 
 [CREDTIS_CHINA_BN_MANAGER]
-商务总监
+Geschäftsführer
 
 [CREDTIS_CHINA_BN]
-商务拓展
+Geschäftsentwicklung
 
 [CREDTIS_CHINA_MT]
-市场
+Marketing
 
 [CREDTIS_CHINA_DA_MANAGER]
-运维经理
+Betriebs- und Wartungsmanager
 
 [CREDTIS_CHINA_DA]
-运维
+Betrieb und Wartung
 
 [CREDTIS_CHINA_SP_MANAGER]
-客服总监
+Kundendienstleiter
 
 [CREDTIS_CHINA_SP]
-客服支持
+Kundendienst-Support
 
 [CREDTIS_CHINA_SPECIALTHANKS]
-特别感谢
+Besonderer Dank
 
 [CURRENCY_STRING]
 {CURRENCY_SYMBOL}{AMOUNT}
@@ -1344,139 +1344,145 @@ Qualitätssicherung
 $
 
 [DANGER_ROOM_BUTTON_ACCEPT]
-同意
+Zustimmen
 
 [DANGER_ROOM_BUTTON_BACKTOMAP]
-保存并退出
+Speichern und beenden
 
 [DANGER_ROOM_BUTTON_NEW_GAME]
-新游戏
+Neues Spiel
 
 [DANGER_ROOM_BUTTON_NEXT_LEVEL]
-下一关
+Nächstes Level
 
 [DANGER_ROOM_BUTTON_PICKED_REWARD]
-开始战斗！
+Beginne den Kampf!
 
 [DANGER_ROOM_BUTTON_RETIRE]
-保存并退出
+Speichern und beenden
 
 [DANGER_ROOM_BUTTON_RETRY]
-再试一次
+Erneut versuchen
 
 [DANGER_ROOM_BUTTON_START]
-开始游戏
+Spiel starten
 
 [DANGER_ROOM_COWBOY_LEVEL_NAME]
-闹鬼岭的传说 - 第 {LEVEL_NUMBER} 关
+Geschichten vom Geisterberg – Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_COWBOY_TITLE_WELCOME]
-欢迎来到闹鬼岭的传说！
+Willkommen bei Geschichten vom Geisterberg!
 
 [DANGER_ROOM_CURRENT_LEVEL]
-最高分：
+Höchste Punktzahl:
 
 [DANGER_ROOM_EGYPT_LEVEL_NAME]
-木乃伊的噩梦-第{LEVEL_NUMBER}层
+Mummys Albtraum – Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_EGYPT_TITLE_WELCOME]
-欢迎来到木乃伊的噩梦！
+Willkommen bei Mummys Albtraum!
 
 [DANGER_ROOM_HIGHEST]
-最高分：
+Höchste Punktzahl:
 
 [DANGER_ROOM_HIGHEST_LEVEL_REACHED]
-最高冲击关卡:%d
+Höchstes Auswirkungslevel: %d
 
 [DANGER_ROOM_LEVEL_NAME]
-惊悚岛 - 第 {LEVEL_NUMBER} 关
+Thriller Island – Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_LEVEL_NUMBER]
-第 {LEVEL_NUMBER} 关
+Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_LIVES_LEFT]
-剩余生命：
+Verbleibende Leben:
 
 [DANGER_ROOM_MILESTONE_REACHED]
-完成里程
+Abgeschlossene Kilometerzahl
 
 [DANGER_ROOM_MILESTONES]
-里程：
+Kilometerstand:
 
 [DANGER_ROOM_MOWERS_LEFT]
-剩余的小推车：
+Verbleibende Einkaufswagen:
 
 [DANGER_ROOM_NEW_HIGHEST_LEVEL_REACHED]
-最高等级刷新！
+Höchstes Level aktualisiert!
 
 [DANGER_ROOM_NEXT_MILESTONE]
-下一里程：
+Nächster Meilenstein:
 
 [DANGER_ROOM_NUMBER_REACHED]
-{NUMBER} 达到
+{NUMBER} erreicht
 
 [DANGER_ROOM_PIRATE_LEVEL_NAME]
-死人狂欢派对 - 第 {LEVEL_NUMBER} 关
+Dead Man's Party – Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_SKYCITY_LEVEL_NAME]
-飞行机坟场 - 第 {LEVEL_NUMBER} 关
+Flugzeugfriedhof – Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_SKYCITY_TITLE_WELCOME]
-欢迎来到飞行机坟场！
+Willkommen auf dem Flugzeugfriedhof!
 
 [DANGER_ROOM_KONGFU_LEVEL_NAME]
-扫地武僧的坟墓 - 第 {LEVEL_NUMBER} 关
+Grab des Kongfu-Mönchs – Level {LEVEL_NUMBER}
 
 [DANGER_ROOM_KONGFU_TITLE_WELCOME]
-欢迎来到扫地武僧的坟墓！
+Willkommen auf dem Flugzeugfriedhof!
+
+[DANGER_ROOM_KONGFU_LEVEL_NAME]
+Grab des Kongfu-Mönchs – Level {LEVEL_NUMBER}
+
+[DANGER_ROOM_KONGFU_TITLE_WELCOME]
+Willkommen auf dem Kongfu-Mönchsgrab!
 
 [DANGER_ROOM_PIRATE_TITLE_WELCOME]
-欢迎来到死人狂欢派对！
+Willkommen zur Totenparty!
 
 [DANGER_ROOM_PLANTFOOD]
-能量豆：
+Energiebohnen:
 
 [DANGER_ROOM_REWARD_MOWER_DESC]
-在关卡开始时恢复{MOWER_COUNT} 个失去的小推车。
+Stelle {MOWER_COUNT} verlorene Einkaufswagen zu Beginn des Levels wieder her.
 
 [DANGER_ROOM_REWARD_MOWER_DESC_SINGULAR]
-在关卡开始时恢复一个失去的小推车。
+Stelle einen verlorenen Einkaufswagen zu Beginn des Levels wieder her.
 
 [DANGER_ROOM_REWARD_PLANTFOOD_DESC]
-开始时有 {PF_COUNT}个额外的能量豆槽
+Beginnt mit {PF_COUNT} zusätzlichen Energiebohnenplätzen
 
 [DANGER_ROOM_REWARD_PLANTFOOD_DESC_SINGULAR]
-开始时有一个额外的能量豆槽
+Beginnt mit einem zusätzlichen Energiebohnenplatz
 
 [DANGER_ROOM_REWARD_SUN_DESC]
-开始时拥有 {SUN_COUNT} 额外的阳光
+Beginnt mit {SUN_COUNT} zusätzlicher Sonne
 
 [DANGER_ROOM_TITLE_GAME_OVER]
-游戏结束
+Game Over
 
 [DANGER_ROOM_TITLE_LEVEL_COMPLETE]
-第{NUMBER} 关成功！
+Level {NUMBER} erfolgreich!
 
 [DANGER_ROOM_TITLE_LEVEL_FAILED]
-第{NUMBER} 关失败
+Level {NUMBER} fehlgeschlagen
 
 [DANGER_ROOM_TITLE_PICK_REWARD]
-选择五张植物卡片组成你的阵容！
+Wähle fünf Pflanzenkarten für deine Aufstellung!
 
 [DANGER_ROOM_TITLE_START_LEVEL]
-开始第{NUMBER}关
+Startlevel {NUMBER}
 
 [DANGER_ROOM_TITLE_WELCOME]
-欢迎来到惊悚岛
+Willkommen auf Horror Island
 
 [DANGER_ROOM_X_NUMBER]
 x {NUMBER}
 
 [DANGER_ROOM_YOU_HAVE_BEEN_REWARDED]
-得到奖赏！
+Belohnung erhalten!
 
 [DANGER_ROOM_YOUR_REWARD]
-奖品！
+Preis!
 
 [DAVE_CANNONMINIGAME_12_KILLED_1]
 Super-super-präzise!!!
@@ -1633,404 +1639,408 @@ Debatte
 Großmeister-Belohnungen für Doppelduell, Saison 11
 
 [RANK_AVATAR_CONTENT_TITLE_61013]
-合影
+Gruppenfoto
 
 [RANK_AVATAR_CONTENT_CONTENT_61013]
-双人对决第12赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 12
 
 [RANK_AVATAR_CONTENT_TITLE_61014]
-发现河姆渡
+Entdecke Hemudu
 
 [RANK_AVATAR_CONTENT_CONTENT_61014]
-联动奖励名片
+Gemeinsame Visitenkarte für Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61015]
-圣诞雪景
+Weihnachtliche Schneelandschaft
 
 [RANK_AVATAR_CONTENT_CONTENT_61015]
-双人对决第13赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 13
 
 [RANK_AVATAR_CONTENT_TITLE_61016]
-欢庆春节
+Willkommen! Feiere den Frühling! Festival
 
 [RANK_AVATAR_CONTENT_CONTENT_61016]
-双人对决第14赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 14
 
 [RANK_AVATAR_CONTENT_TITLE_61017]
-一决高下
+Gewinner demonstrieren
 
 [RANK_AVATAR_CONTENT_CONTENT_61017]
-双人对决第15赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 15
 
 [RANK_AVATAR_CONTENT_TITLE_61018]
-春柳
+Frühlingsweide
 
 [RANK_AVATAR_CONTENT_CONTENT_61018]
-双人对决第16赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 16
 
 [RANK_AVATAR_CONTENT_TITLE_61019]
-谷雨
+Kornregen
 
-[RANK_AVATAR_CONTENT_CONTENT_61019]
-双人对决第17赛季宗师段位奖励
+[RANK_AVATAR_CONTENT_CON TENT_61019]
+Großmeister-Rang für Doppelduell Saison 17 Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61020]
-小满
+Xiaoman
 
 [RANK_AVATAR_CONTENT_CONTENT_61020]
-双人对决第18赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 18
 
 [RANK_AVATAR_CONTENT_TITLE_61021]
-蝉鸣
+Zikaden
 
 [RANK_AVATAR_CONTENT_CONTENT_61021]
-双人对决第19赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell Saison 19
 
 [RANK_AVATAR_CONTENT_TITLE_61022]
-彼岸
+Das andere Ufer
 
 [RANK_AVATAR_CONTENT_CONTENT_61022]
-永劫无间联动名片
+Naraka: Bladepoint-Kooperations-Visitenkarte
 
-[RANK_AVATAR_CONTENT_TITLE_61023]
-盛夏登高
+[RANK_AVA TAR_CONTENT_TITLE_61023]
+Klettern in der Hitze Sommer
 
 [RANK_AVATAR_CONTENT_CONTENT_61023]
-双人对决第20赛季宗师段位奖励
+Großmeister-Rang-Belohnungen für die 20. Saison von Duel Duel
 
 [RANK_AVATAR_CONTENT_TITLE_61024]
-炎炎夏日
+Heißer Sommer
 
 [RANK_AVATAR_CONTENT_CONTENT_61024]
-双人对决第21赛季宗师段位奖励
+Großmeister-Rang-Belohnungen für die 21. Saison von Duel Duel
 
 [RANK_AVATAR_CONTENT_TITLE_61025]
-欢乐滑梯
+Schöne Rutschpartie
 
 [RANK_AVATAR_CONTENT_CONTENT_61025]
-愿意和你一起体验滑梯的欢乐
+Wir freuen uns auf eure Rutschpartie
 
 [RANK_AVATAR_CONTENT_TITLE_61026]
-飞车假日
+Rasendes Auto im Urlaub
 
 [RANK_AVATAR_CONTENT_CONTENT_61026]
-和向日葵一起体检极品飞车的乐趣吧
+Entdecke Need for Speed! mit Sonnenblume
 
 [RANK_AVATAR_CONTENT_TITLE_61027]
-拾忆周年
+Erinnerungsjubiläum
 
 [RANK_AVATAR_CONTENT_CONTENT_61027]
-双人对决第22赛季宗师段位奖励
+Double Duel Saison 22 Großmeister-Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61028]
-扬帆起航
+Segel setzen
 
 [RANK_AVATAR_CONTENT_CONTENT_61028]
-双人对决第23赛季宗师段位奖励
+Double Duel Saison 23 Großmeister-Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61029]
-头号玩家
+Ready Player One
 
 [RANK_AVATAR_CONTENT_CONTENT_61029]
-2021年1月1日前注册的玩家奖励
+Belohnungen für Spieler, die sich vor dem 1. Januar 2021 registriert haben
 
 [RANK_AVATAR_CONTENT_TITLE_61030]
-秋钓
+Herbst Angeln
 
 [RANK_AVATAR_CONTENT_CONTENT_61030]
-2024年参加十月同游活动的玩家奖励
+Belohnungen für Spieler, die an der Oktober-Tour 2024 teilgenommen haben
 
 [RANK_AVATAR_CONTENT_TITLE_61031]
-悠闲午后
+Freizeitnachmittag
 
 [RANK_AVATAR_CONTENT_CONTENT_61031]
-双人对决第24赛季宗师段位奖励
+Großmeister-Rang-Belohnungen für Duell-Saison 24
 
 [RANK_AVATAR_CONTENT_TITLE_61032]
-死亡凝视
+Todesblick
 
 [RANK_AVATAR_CONTENT_CONTENT_61032]
-双人对决第25赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell-Saison 2 und 5
 
 [RANK_AVATAR_CONTENT_TITLE_61033]
-滑雪大冒险
+Skiabenteuer
 
 [RANK_AVATAR_CONTENT_CONTENT_61033]
-双人对决第26赛季宗师段位奖励
+Großmeister-Rang für Doppelduell-Saison 26 Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61035]
-金蛇狂舞
+Goldener Schlangentanz
 
 [RANK_AVATAR_CONTENT_CONTENT_61035]
-双人对决第27赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell, Saison 27
 
 [RANK_AVATAR_CONTENT_TITLE_61036]
-智慧之视
+Vision der Weisheit
 
 [RANK_AVATAR_CONTENT_CONTENT_61036]
-双人对决第28赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell, Saison 28
 
 [RANK_AVATAR_CONTENT_TITLE_61039]
-万物复苏
+Auferstehung aller Dinge
 
 [RANK_AVATAR_CONTENT_CONTENT_61039]
-双人对决第29赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell, Saison 29
 
 [RANK_AVATAR_CONTENT_TITLE_61040]
-惊喜派对
+Überraschung Party
 
 [RANK_AVATAR_CONTENT_CONTENT_61040]
-双人对决第30赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell (Saison 30)
 
 [RANK_AVATAR_CONTENT_TITLE_61041]
-一路向西
+Go West
 
 [RANK_AVATAR_CONTENT_CONTENT_61041]
-双人对决第31赛季宗师段位奖励
+Großmeister-Belohnungen für Doppelduell (Saison 31)
 
 [RANK_AVATAR_CONTENT_TITLE_61034]
-烟花易冷
+Feuerwerk verlischt schnell
 
 [RANK_AVATAR_CONTENT_CONTENT_61034]
-2025年参加三月同游活动的玩家奖励
+Belohnungen für Spieler, die 2025 an der März-Tour teilgenommen haben
 
 [RANK_AVATAR_CONTENT_TITLE_61038]
-圣诞快乐
+Frohe Weihnachten
 
 [RANK_AVATAR_CONTENT_CONTENT_61038]
-温暖的火炉，温馨的大家
+Warme Wärme, warme Familie
 
 [RANK_AVATAR_CONTENT_TITLE_61037]
-别忘了绅士
+Vergesst den Gentleman nicht
 
 [RANK_AVATAR_CONTENT_CONTENT_61037]
-优雅于心，绅士于行
+Elegant im Herzen, Gentleman in Aktion
 
 [RANK_AVATAR_CONTENT_TITLE_61042]
-繁星舞动
+Tanzende Stars
 
-[RANK_AVATAR_CONTENT_CONTENT_61042]
-致在创意庭院中努力创作的玩家
+[RANK_AVATAR_CONTENT_CONTENT NT_61042]
+An alle Spieler, die im Kreativbereich hart arbeiten Garten
 
 [RANK_AVATAR_CONTENT_TITLE_61043]
-星空遨游
+Reisen im Sternenhimmel
 
 [RANK_AVATAR_CONTENT_CONTENT_61043]
-双人对决第32赛季宗师段位奖励
+Großmeister-Rang-Belohnungen für Doppelduell-Saison 32
 
 [RANK_AVATAR_CONTENT_TITLE_61044]
-气功教主
+Qigong-Meister
 
 [RANK_AVATAR_CONTENT_CONTENT_61044]
-2025年参加六月同游活动的玩家奖励
+Belohnungen für Spieler, die an der Juni-Tour 2025 teilgenommen haben
 
 [RANK_AVATAR_CONTENT_TITLE_61500]
-惊魂万圣夜
+Halloween-Horror
 
 [RANK_AVATAR_CONTENT_CONTENT_61500]
-不给糖，就捣蛋！
+Wenn du mir keine Süßigkeiten gibst, mache ich Ärger!
 
 [RANK_AVATAR_CONTENT_TITLE_61501]
-武侠国风
+Kampfkunststil
 
 [RANK_AVATAR_CONTENT_CONTENT_61501]
-千秋万载，一统江湖！
+Vereine seit Jahrtausenden die Welt der Kampfkünste!
 
 [RANK_AVATAR_CONTENT_TITLE_61502]
-青春活力
+Jugendliche Vitalität
 
 [RANK_AVATAR_CONTENT_CONTENT_61502]
-纪念我们逝去的青春
+In Gedenken an unsere verlorene Jugend
 
 [RANK_AVATAR_BTN_CHANGE]
-更换
+Veränderung
 
 [RANK_AVATAR_CHANGE_SUCCESS]
-更换成功
+Erfolgreiche Veränderung
 
 [RANK_AVATAR_DIY_1]
-首席创作家
+Hauptschöpfer
 
 [RANK_AVATAR_DIY_2]
-童话森林
+Märchenwald
 
 [RANK_AVATAR_DIY_3]
-锦鲤
+Koi
 
 [RANK_AVATAR_DIY_4]
-春来
+Der Frühling kommt
 
 [RANK_AVATAR_DIY_5]
-虹兔
+Regenbogenhase
 
-[RANK_AVATAR_DIY_6]
-闪亮登场
+[RANK_AVATAR_DIY _6]
+Glanzvolles Debüt
 
 [RANK_AVATAR_DIY_7]
-立夏
+Beginn von Sommer
 
 [RANK_AVATAR_DIY_8]
-海滩
+Strand
 
 [RANK_AVATAR_DIY_9]
-街头涂鸦
+Straßengraffiti
 
 [RANK_AVATAR_DIY_10]
-夏日森林
+Sommerwald
 
 [RANK_AVATAR_DIY_12]
-周年庆典
+Jubiläumsfeier
 
 [RANK_AVATAR_DIY_11]
-赏月
+Mondbeobachtung
 
 [RANK_AVATAR_DIY_13]
-争论
+Debatte
 
 [RANK_AVATAR_DIY_14]
-合影
+Foto
 
 [RANK_AVATAR_DIY_15]
-发现河姆渡
+Hemudu entdecken
 
 [RANK_AVATAR_DIY_16]
-圣诞雪景
+Weihnachtliche Schneelandschaft
 
 [RANK_AVATAR_DIY_17]
-欢庆春节
+Feiern Sie das Frühlingsfest
 
 [RANK_AVATAR_DIY_18]
-一决高下
+Ein Showdown
 
 [RANK_AVATAR_DIY_19]
-春柳
+Frühlingsweide
 
 [RANK_AVATAR_DIY_20]
-谷雨
+Kornregen
 
 [RANK_AVATAR_DIY_21]
-小满
+Korn voll
 
 [RANK_AVATAR_DIY_22]
-蝉鸣
+Zikaden
 
 [RANK_AVATAR_DIY_23]
-彼岸
+Die andere Seite
 
 [RANK_AVATAR_DIY_24]
-盛夏登高
+Klettern im heißen Sommer
 
 [RANK_AVATAR_DIY_25]
-炎炎夏日
+Heißer Sommer
+
+[RANK_AVATAR_DIY_25]
+Heißer Sommer
 
 [RANK_AVATAR_DIY_26]
-欢乐滑梯
+TAR_DIY_26]
+Fröhliches Rutschen
 
 [RANK_AVATAR_DIY_27]
-飞车假日
+Fliegen Feiertag
 
 [RANK_AVATAR_DIY_28]
-拾忆周年
+Erinnerungsjubiläum
 
 [RANK_AVATAR_DIY_29]
-扬帆起航
+Segel setzen
 
 [RANK_AVATAR_DIY_30]
-头号玩家
+Ready Player One
 
 [RANK_AVATAR_DIY_31]
-秋钓
+Herbstangeln
 
 [RANK_AVATAR_DIY_32]
-悠闲午后
+Entspannter Nachmittag
 
 [RANK_AVATAR_DIY_33]
-死亡凝视
+Todesblick
 
-[RANK_AVATAR_DIY_34]
-滑雪大冒险
+[RANK_AVATAR_DIY_34] AR_DIY_34]
+Skiabenteuer
 
 [RANK_AVATAR_DIY_35]
-烟花易冷
+Feuerwerk verblasst schnell
 
 [RANK_AVATAR_DIY_36]
-金蛇狂舞
+Goldener Schlangentanz
 
 [RANK_AVATAR_DIY_37]
-智慧之视
+Vision der Weisheit
 
 [rank_avatar_diy_38]
-惊魂万圣夜
+Halloween Horror
 
 [rank_avatar_diy_39]
-别忘了绅士
+Vergiss den Gentleman nicht
 
 [rank_avatar_diy_40]
-圣诞快乐
+Frohe Weihnachten
 
 [rank_avatar_diy_41]
-万物复苏
+Auferstehung aller Dinge
 
 [rank_avatar_diy_42]
-惊喜派对
+Überraschungsparty
 
 [rank_avatar_diy_43]
-武侠国风
+Kampfkunststil
 
 [rank_avatar_diy_44]
-一路向西
+Driving West
 
 [rank_avatar_diy_45]
-繁星舞动
+Dancing Stars
 
 [rank_avatar_diy_46]
-星空遨游
+Reisen im Sternenhimmel
 
 [rank_avatar_diy_47]
-气功教主
+Qigong-Meister
 
 [rank_avatar_diy_100]
-青春活力
+Jugendliche Vitalität
 
 [DOWNLOAD_FAILED_BODY]
-无法获得更新信息。
-请检查你的网络状态或者下次再试。
+Update-Informationen konnten nicht abgerufen werden.
+Bitte überprüfen Sie Ihren Netzwerkstatus oder versuchen Sie es beim nächsten Mal erneut.
 
 [DOWNLOAD_FAILED_HEADER]
-下载失败
+Download fehlgeschlagen
 
 [DOWNLOAD_FAILED_SPACE_BODY]
-空间不够。
+Nicht genügend Speicherplatz.
 
 [DOWNLOAD_FAILED_SPACE_HEADER]
-下载失败
+Download fehlgeschlagen
 
 [DOWNLOAD_IS_AVAILABLE_HEADER]
-有新的游戏内容更新。
+Neue Spielinhalte sind verfügbar.
 
 [EGYPT]
 Altes Ägypten
 
 [EGYPT_CHALLENGE_MINIGAME_A_NAME]
-木乃伊记忆-第1天
+Mumien-Erinnerungen – Tag 1
 
 [EGYPT_CHALLENGE_MINIGAME_B_NAME]
-木乃伊记忆-第2天
+Mumien-Erinnerungen – Tag 2
 
 [EGYPT_CHALLENGE_MINIGAME_C_NAME]
-木乃伊记忆-第3天
+Mumien-Erinnerungen – Tag 3
 
 [EGYPT_CHALLENGE_MINIGAME_NAME]
-木乃伊记忆{LEVEL_NUMBER}
+Mumien-Erinnerungen {LEVEL_NUMBER}
 
 [EGYPT_CHALLENGE_ZERO_NAME]
-传送带
+Förderband
 
 [EGYPT_EVENT_LEVEL_NAME]
-神秘埃及-事件{LEVEL_NUMBER}
+Geheimnisvolles Ägypten – Event {LEVEL_NUMBER}
 
 [EGYPT_KEYGATE_HEADER]
-神秘埃及之门
+Geheimnisvolles Ägypten-Tor
 
 [EGYPT_LEVEL_NAME]
 Altes Ägypten - Tag {LEVEL_NUMBER}
@@ -2559,23 +2569,23 @@ Schützen Sie sich und lassen Sie sich nicht täuschen. Moderates Spielen ist gu
 Zulassungsnummer: Neue Prüfungsnummer [2013] 1509; Veröffentlichungsnummer: ISBN978-7-89989-834-5; ICP-Anmeldenummer: Audiovisuelle Aufzeichnung [2023] B4327
 
 [MARIGOLD]
-金盏花
+Ringelblume 
 
 [MARIGOLD_DESCRIPTION]
-{KEYWORD}特点：{STAT}提供金币和银币
+{KEYWORD}Funktionen:{STAT}Liefert Gold und Silber
 
-{FLAVOR}金盏花花了许多时间来考虑是吐出金币还是吐出银币。她
-权衡着各个角度，不停地思索着。她做了充足的研究，并且，时刻注意最新出版资料。
-这就是成功者们总是最先进的原因。 
+{FLAVOR}Die Ringelblume a verbringt viel Zeit damit, zu überlegen, ob sie Gold oder Silber ausspuckt. Sie
+wägt jeden Aspekt ab und grübelt. Sie recherchiert gründlich und bleibt über die neuesten Veröffentlichungen auf dem Laufenden.
+Deshalb sind die Gewinner immer einen Schritt voraus.
 
 [MARIGOLD_DESCRIPTION_HEADER]
-金盏花可以提供硬币。
+Ringelblume kann Münzen liefern.
 
 [MARIGOLD_PLANTFOOD]
-能量豆无效果。
+Spezialdünger hat keine Wirkung.
 
 [MARIGOLD_TOOLTIP]
-产生金币。
+Generiert Gold.
 
 [MELONPULT]
 Melonapult 
@@ -2955,7 +2965,7 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:winnie}{SAG:winnie}Spezialdünger-Fähigkeit sind reich an Vitaminen und Mineralstoffen.
 
 [NARRATIVE_3703]
-{VERSPIELT:winnie}Sie sind ein perfektes Frühstücks-Essential!
+{PLAYFUL:winnie}Sie sind ein perfektes Frühstücks-Essential!
 
 [NARRATIVE_3800]
 {NPC_ENTER:crazydave}{AUFGEWUNDERT}Wirken Spezialdünger-Fähigkeit auch bei anderen Pflanzen?
@@ -2964,7 +2974,7 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:crazydave}{TIRED}{LANG}Ah! Deine Pflanze wurde gefressen! Bitte versuche es noch einmal!
 
 [NARRATIVE_4000]
-{NPC_ENTER:crazydave}{VERSPIELT}{LANG}Die Kokosnusskanone riecht morgens richtig gut!
+{NPC_ENTER:crazydave}{PLAYFUL}{LANG}Die Kokosnusskanone riecht morgens richtig gut!
 
 [NARRATIVE_4001]
 {MEDIUM}Es riecht ein bisschen nach... Kokosnüssen.
@@ -3000,58 +3010,58 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {SAY:crazydaveicon} Ich dachte, du würdest es die Gelben Seiten nennen ...
 
 [NARRATIVE_EGYPT_STANDSTORM_INTRO_1]
-{NPC_ENTER:winnie}{SAY}当心即将到来的沙尘暴，沙尘暴内经常都带有僵尸。
+{NPC_ENTER:winnie}{SAY}Hütet euch vor dem bevorstehenden Sandsturm, der oft Zombies enthält.
 
 [NARRATIVE_EGYPT_TOMB_INTRO_1]
-{NPC_ENTER:winnie}{SAY}是死神僵尸，他们会不断召唤出墓碑，快解决他。
+{NPC_ENTER:winnie}{SAY}Es ist der Sensenmann-Zombie. Er beschwört ständig Grabsteine und tötet ihn schnell.
 
 [NARRATIVE_EGYPT_CAMEL_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:winnie}{EXCITED:crazydave}那些僵尸拿的是什么东西？
+{NPC_ENTER:winnie}{NPC_ENTER:winnie}{EXCITED:crazydave}Was halten diese Zombies in der Hand?
 
 [NARRATIVE_EGYPT_CAMEL_INTRO_2]
-{NPC_ENTER:winnie}{SAY}他们手上拿的是骆驼牌，运用穿透子弹的植物能有效对付他们。
+{NPC_ENTER:winnie}{SAY}Sie halten Kamelkarten. Mit kugeldurchdringenden Pflanzen könnt ihr sie effektiv bekämpfen.
 
 [NARRATIVE_BUY_PLANTFOOD_1]
-{SAY:winnie}我找到一些钻石，买些能量豆备用吧！
+{SAY:winnie}Ich habe Diamanten gefunden. Kauf dir ein paar Energiebohnen als Reserve!
 
 [NARRATIVE_BUY_PLANTFOOD_2]
-{SAY:crazydave}不错！这些钻石送给你了！为什么? 因为我疯了~!!
+{SAY:crazydave}Super! Diese Diamanten sind für dich! Warum? Weil ich verrückt bin~!!
 
 [NARRATIVE_BUY_PLANTFOOD_3]
 {SPAWN_COINS}{NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_BUY_POWERUPS_1]
-{NPC_ENTER:winnieicon}{EXCITED}{LONG}钻石可以用来购买强大的金手指
+{NPC_ENTER:winnieicon}{AUFGEFROREN}{LONG}Mit Diamanten kannst du mächtige Cheats kaufen.
 
 [NARRATIVE_BUY_POWERUPS_2]
-{LONG}每次使用需要花费8颗钻石，请留意你的钻石数量。
+{LONG}Jede Nutzung kostet 8 Diamanten. Achte bitte auf deine Diamantenanzahl.
 
 [NARRATIVE_CHALLENGE_BRANCH_INTRO_1]
-{NPC_ENTER:crazydaveicon}{SAY}哎哟！这是个岔路口，我们该怎么办？
+{NPC_ENTER:crazydaveicon}{SAY}Autsch! Das ist eine Weggabelung. Was sollen wir tun?
 
 [NARRATIVE_CHALLENGE_BRANCH_INTRO_2]
-{NPC_ENTER:winnieicon}{SAY}这是分支路线，通常都包含着未知的惊喜。
+{NPC_ENTER:winnieicon}{SAY}Das ist eine Abzweigung, die meist unbekannte Überraschungen bereithält.
 
 [NARRATIVE_CHALLENGE_BRANCH_INTRO_3]
-{SAY:winnieicon}我管这些分支叫大脑的锻炼。
+{SAY:winnieicon}Ich nenne diese Abzweigungen Gehirntraining.
 
 [NARRATIVE_CHALLENGE_BRANCH_INTRO_4]
-{TIRED:crazydaveicon}大脑的断裂？很危险啊。你先上吧！
+{TIRED:crazydaveicon}Hirnbruch? Sehr gefährlich. Du gehst zuerst!
 
 [NARRATIVE_CONVEYOR_1]
-{NPC_ENTER:crazydave}{PLAYFUL}{LONG}这样看来，一套管子就足够玩转时空了，就像我叔叔麦洛的水上乐园！
+{NPC_ENTER:crazydave}{PLAYFUL}{LONG}Ein Satz Röhren reicht also aus, um in Raum und Zeit herumzuspielen, genau wie im Wasserpark meines Onkels Milos!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_A_1]
-{NPC_ENTER:winnie}{SAGEN}Eine große Zombiewelle kommt, um uns zu bekämpfen.
+{NPC_ENTER:winnie}{SAY}Eine große Zombiewelle kommt, um uns zu bekämpfen.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_A_2]
 {NPC_ENTER:crazydave}{EXCITED:crazydave}Du kommst gerade rechtzeitig, lass uns drei Runden kämpfen!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_B_1]
-{NPC_ENTER:crazydave}{SAGEN}Ich werde einen ganzen Eimer Hähnchen verdrücken! Los geht's!
+{NPC_ENTER:crazydave}{SAY}Ich werde einen ganzen Eimer Hähnchen verdrücken! Los geht's!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_B_2]
-{NPC_ENTER:winnie}{VERSPIELT:winnie}Die Daten zeigen, dass Dave die Tacos vergessen hat.
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Daten zeigen, dass Dave die Tacos vergessen hat.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_C_1]
 {NPC_ENTER:winnie}{PLAYFUL}{START_DIALOG_MUSIC} Gut gemacht, es war ein harter Kampf.
@@ -3075,7 +3085,7 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {PLAYFUL:crazydave}Ich wusste gar nicht, dass Loren rechnen können!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_1]
-{NPC_ENTER:crazydave}{SAGEN}{START_DIALOG_MUSIC}Der Großvater meines Großvaters war hier der Ordnungshüter.
+{NPC_ENTER:crazydave}{SAY}{START_DIALOG_MUSIC}Der Großvater meines Großvaters war hier der Ordnungshüter.
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_2]
 {NPC_ENTER:winnie}{EXCITED:winnie}Ist er das da drüben?
@@ -3105,16 +3115,16 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:winnie}{TIRED:winnie}Oh nein, er singt schon wieder.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_1]
-{NPC_ENTER:winnie}{SAGEN}{START_DIALOG_MUSIC}Ich kann nicht glauben, wie viele Hühner es gibt.
+{NPC_ENTER:winnie}{SAY}{START_DIALOG_MUSIC}Ich kann nicht glauben, wie viele Hühner es gibt.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_2]
-{NPC_ENTER:crazydave}{AUFGEWUNDEN:crazydave}Ich trauere um diese Hühner!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Ich trauere um diese Hühner!
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_3]
-{SAGEN:winnie}Die Geschichte wird sich an diesen Tag erinnern.
+{SAY:winnie}Die Geschichte wird sich an diesen Tag erinnern.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_1]
-{NPC_ENTER:winnie}{SAGEN}Dieser Verrückte muss sich einer Welle von Cowboy-Zombies stellen.
+{NPC_ENTER:winnie}{SAY}Dieser Verrückte muss sich einer Welle von Cowboy-Zombies stellen.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_2]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wir müssen diese Nuss retten. Ich will sie als Bowlingkugel benutzen!
@@ -3445,19 +3455,19 @@ Heruntergeladen
 {PLAYFUL:crazydave}Weißt du, was besser ist als Toilettenpapier? Ein Taco. Los geht's!
 
 [NARRATIVE_EGYPT_STAR_INTRO_1]
-{NPC_ENTER:crazydaveicon}{AUFGEWUNDEN}Sieh mal! Ein Stern ist auf der Zeitkarte erschienen!
+{NPC_ENTER:crazydaveicon}{EXCITED}Sieh mal! Ein Stern ist auf der Zeitkarte erschienen!
 
 [NARRATIVE_EGYPT_STAR_INTRO_2]
 {MÜDE:crazydaveicon}Was bedeutet das?
 
 [NARRATIVE_EGYPT_STAR_INTRO_3]
-{NPC_ENTER:winnieicon}{SAGEN}Wenn du Sterne sammelst, erscheinen sie auf dieser Karte.
+{NPC_ENTER:winnieicon}{SAY}Wenn du Sterne sammelst, erscheinen sie auf dieser Karte.
 
 [NARRATIVE_EGYPT_STAR_INTRO_4]
-{VERSPIELT:winnieicon}Durch das Sammeln von Sternen erhältst du neue Pflanzen und kannst deine Tacos nur zurückbekommen.
+{PLAYFUL:winnieicon}Durch das Sammeln von Sternen erhältst du neue Pflanzen und kannst deine Tacos nur zurückbekommen.
 
 [NARRATIVE_EGYPT_STAR_INTRO_5]
-{VERSPIELT:crazydaveicon}Also los, suche mehr Sterne!
+{PLAYFUL:crazydaveicon}Also los, suche mehr Sterne!
 
 [NARRATIVE_EGYPT_STAR_INTRO_OLD_4]
 {TIRED:winnieicon}Die fehlenden Sterne zeigen an, wo du sie finden kannst.
@@ -3527,7 +3537,7 @@ auf der wir Pflanzen und andere nützliche Gegenstände finden können.
 {NPC_ENTER:winnie}{SAY}Erreiche die Zielpunktzahl und schau, ob du meinen Highscore schlagen kannst.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_A_2]
-{NPC_ENTER:crazydave}{VERSPIELT:crazydave}Nachbar, vergiss nicht, „Crazy Dave“ zu unterschreiben, wenn du gewinnst.
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Nachbar, vergiss nicht, „Crazy Dave“ zu unterschreiben, wenn du gewinnst.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_B_1]
 {NPC_ENTER:winnie}{TIRED}Warum sind da plötzlich so viele Möwen?
@@ -3548,7 +3558,7 @@ auf der wir Pflanzen und andere nützliche Gegenstände finden können.
 {NPC_ENTER:crazydave}{SAG}Kirschbomben sind der Hammer!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_2]
-{VERSPIELT}Man kann damit einen Haufen Zombies töten!
+{PLAYFUL}Man kann damit einen Haufen Zombies töten!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_3]
 {NPC_ENTER:winnie}{SAG:winnie}Nicht verschwenden, sondern den Zombies überlassen.
@@ -3644,13 +3654,13 @@ auf der wir Pflanzen und andere nützliche Gegenstände finden können.
 {NPC_ENTER:winnieicon}{TIRED}Nun ... ich denke, wir sollten es das Tor von Raum und Zeit nennen.
 
 [NARRATIVE_STARGATE_INTRO_4]
-{SAGEN:winnieicon}Wir können dieses Tor öffnen, wenn wir den Schlüssel zu Raum und Zeit bekommen ...
+{SAY:winnieicon}Wir können dieses Tor öffnen, wenn wir den Schlüssel zu Raum und Zeit bekommen ...
 
 [NARRATIVE_STARGATE_INTRO_5]
 {EXCITED:winnieicon}Dann können wir in eine andere Zeit und einen anderen Raum reisen!
 
 [NARRATIVE_STARGATE_INTRO_6]
-{SAGEN:winnieicon}Die Karte zeigt, wo es neue Sterne zu gewinnen gibt!
+{SAY:winnieicon}Die Karte zeigt, wo es neue Sterne zu gewinnen gibt!
 
 [NARRATIVE_STARGATE_INTRO_7]
 {SAY:crazydaveicon}So viele Sterne, verrückt genug! Los geht's!
@@ -14830,19 +14840,19 @@ Robo-Pylonen-Zombie
 Der metallverstärkte Pylon bietet seinem Piloten phänomenalen Schutz.
 
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}我们到了一个由机械主宰的未来世界！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Wir sind in einer von Maschinen beherrschten Zukunftswelt angekommen!
 
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_2]
-{SAY:crazydave}也就是说我的锅子可以修补一下了！
+{SAY:crazydave}Das heißt, mein Topf kann repariert werden!
 
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_FAILURE_1]
-{NPC_ENTER:crazydave}{SAY}哇哦，还是再来一次吧！
+{NPC_ENTER:crazydave}{SAY}Wow, lass es uns nochmal machen!
 
 [NARRATIVE_FUTURE_CHALLENGE_SUNBOMBS_A_1]
-{NPC_ENTER:crazydave}{TIRED}你知道吗?有时候阳光会爆炸！
+{NPC_ENTER:crazydave}{TIRED}Weißt du was? Manchmal explodiert die Sonne!
 
 [NARRATIVE_FUTURE_CHALLENGE_SUNBOMBS_A_2]
-{EXCITED}比如现在!
+{EXCITED}So wie jetzt!
 
 [STARCHALLENGE_SUNBOMBS_NAME]
 Sonnenbomben
@@ -20211,13 +20221,13 @@ Versuch dein Glück
 {EXCITED:winnie}Wir müssen es irgendwie töten, bevor wir weitermachen können.
 
 [NARRATIVE_EYGPT_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Wie konnte das passieren? Das ist unmöglich!
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Wie konnte das passieren? Das ist unmöglich!
 
 [NARRATIVE_EYGPT_OUTRO_ZOMBOSS_2]
-{SAGEN:zombossicon}Meine Arbeit ist gescheitert. Das ist überhaupt nicht wissenschaftlich!
+{SAY:zombossicon}Meine Arbeit ist gescheitert. Das ist überhaupt nicht wissenschaftlich!
 
 [NARRATIVE_EYGPT_OUTRO_ZOMBOSS_3]
-{SAGEN:zombossicon}Irgendetwas muss nicht stimmen. Sobald ich den Grund gefunden habe, komme ich wieder!
+{SAY:zombossicon}Irgendetwas muss nicht stimmen. Sobald ich den Grund gefunden habe, komme ich wieder!
 
 [NARRATIVE_EYGPT_OUTRO_ZOMBOSS_5]
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEREGT:crazydave}Hey! Wo sind die Tacos?
@@ -20226,10 +20236,10 @@ Versuch dein Glück
 {TIRED:winnie}……
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Lange nicht gesehen, Beard, Broken Iron, oh, und du auch!
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Lange nicht gesehen, Beard, Broken Iron, oh, und du auch!
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_2]
-{SAGEN:zombossicon}Es ist nicht leicht, hierher zu kommen, oder?
+{SAY:zombossicon}Es ist nicht leicht, hierher zu kommen, oder?
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_3]
 {SAY:zombossicon}Als Gegenleistung für deine Bemühungen zeige ich dir die Macht der Industrietechnologie!
@@ -20259,7 +20269,7 @@ Versuch dein Glück
 {TIRED:winnie}Vielleicht erforscht er wirklich etwas Gruseliges. Wir müssen vorsichtig sein.
 
 [NARRATIVE_RENAI_IN TRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Oh, Verrückter, die Pflanzen, die du gepflanzt hast, wie können sie das Rad des Schicksals aufhalten?
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Oh, Verrückter, die Pflanzen, die du gepflanzt hast, wie können sie das Rad des Schicksals aufhalten?
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_2]
 {SAY:zombossicon}Ich möchte deinen Garten in ein Zombiegebiet verwandeln.
@@ -20286,16 +20296,16 @@ Versuch dein Glück
 {SAY:zombossicon}Du gibst dich kurzlebigem Vergnügen hin, aber du weißt nicht, dass ich wie ein Blitz zurückkehre!
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEWUNDEN:crazydave}Ich verstehe immer noch nicht.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich verstehe immer noch nicht.
 
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_5]
 {TIRED:winnie}Vielleicht ist das ein poetischer Fehlschlag im Shakespeareschen Stil.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Herzlich willkommen! Dr. Zomboss grüßt alle Pflanzenfreunde.
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Herzlich willkommen! Dr. Zomboss grüßt alle Pflanzenfreunde.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_2]
-{SAGEN:zombossicon}Ich bin überrascht, dass du meine geheime Basis finden konntest. Ich muss dir wohl eine Lektion erteilen ...
+{SAY:zombossicon}Ich bin überrascht, dass du meine geheime Basis finden konntest. Ich muss dir wohl eine Lektion erteilen ...
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_3]
 {SAY:zombossicon}Mein neues Werk ist gerade fertiggestellt worden. Es gibt zwar noch ein paar Probleme mit dem Energiesystem, aber das sollte reichen, um dich zu erledigen.
@@ -20316,7 +20326,7 @@ Versuch dein Glück
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Gut gemacht, wir haben ihn!
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_2]
-{AUFGEWUNDEN:crazydave}Aber ich habe meine Tacos immer noch nicht bekommen ...
+{EXCITED:crazydave}Aber ich habe meine Tacos immer noch nicht bekommen ...
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_3]
 {TIRED:winnie}Lieber Dave, du weißt, wir sind durch unzählige Zeiten und Räume gereist.
@@ -20386,7 +20396,7 @@ Versuch dein Glück
 {TIRED:winnie}Lieber Dave, ich schwitze nicht, aber Dr. Zomboss ist etwas … nervös.
 
 [NARRATIVE_UNCHARTED_ICEAGE_OUTRO_ZOMBOSS_FINAL_4]
-{AUFGEWUNDEN:crazydave}Verdammt, schon wieder ein Tag ohne Tacos!
+{EXCITED:crazydave}Verdammt, schon wieder ein Tag ohne Tacos!
 
 [GATE_NOT_ACTIVATED]
 Nicht vollständig aktiviert
@@ -20395,7 +20405,7 @@ Nicht vollständig aktiviert
 Du musst alle Welten in der aktuellen Zeit und im aktuellen Raum durchqueren, um den Zeit- und Raum-Teleporter vollständig zu aktivieren.
 
 [NARRATIVE_WORLDMAP_PLANTBOX_INTRO_1]
-{NPC_ENTER:crazydaveicon}{AUFGEWUNDEN}Lieber Nachbar, ich habe einen schönen Ort gefunden. Komm mit und schau ihn dir an!
+{NPC_ENTER:crazydaveicon}{EXCITED}Lieber Nachbar, ich habe einen schönen Ort gefunden. Komm mit und schau ihn dir an!
 
 [NARRATIVE_WORLDMAP_PLANTGJ_INTRO_1]
 {NPC_ENTER:crazydaveicon}{EXCITED}Lieber Nachbar, im Glücksschatz gibt es nicht nur Pflanzen und Kostüme, sondern auch Anhänger!
@@ -22485,16 +22495,16 @@ Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 {EXCITED:crazydave}Die Verlorene Stadt? Penny! Sie ist da! Wir haben sie gefunden!
 
 [NARRATIVE_LOSTCITY_1_INTRO_7]
-{SAGEN:crazydave}Wo sonst kann ich meine verlorenen Tacos finden, außer in der Verlorenen Stadt?
+{SAY:crazydave}Wo sonst kann ich meine verlorenen Tacos finden, außer in der Verlorenen Stadt?
 
 [NARRATIVE_LOSTCITY_1_INTRO_8]
-{SAGEN:winnie}Du bist so logisch wie immer, Dave.
+{SAY:winnie}Du bist so logisch wie immer, Dave.
 
 [NARRATIVE_LOSTCITY_16_INTRO_1]
-{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Suchst du hier nach Aufregung?
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Suchst du hier nach Aufregung?
 
 [NARRATIVE_LOSTCITY_16_INTRO_2]
-{SAGEN:zombossicon}Leider wird dich der verlorene Gargantua töten!
+{SAY:zombossicon}Leider wird dich der verlorene Gargantua töten!
 
 [NARRATIVE_LOSTCITY_16_INTRO_3]
 {SAY:zombossicon}Sie tragen Wicht-Zombies. Wicht-Zombies! Mach dich bereit, in die Geschichte einzugehen!
@@ -22590,10 +22600,10 @@ Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wir haben überall gesucht, aber keine Tacos gefunden!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_2]
-{SAGEN:winnie}Die Suche wird niemals enden! Dave!
+{SAY:winnie}Die Suche wird niemals enden! Dave!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_3]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Meine Entdeckung ist perfekt! Keine Tacos! Eines Tages gehört mir dein Gehirn!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}Meine Entdeckung ist perfekt! Keine Tacos! Eines Tages gehört mir dein Gehirn!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Sieh dir das an! Penny! Eine Schatzkarte!
@@ -23819,7 +23829,7 @@ Nächstes Level: Jedes Mal, wenn du Wut einsetzt, erhöhen sich deine Angriffskr
 {NPC_ENTER:crazydave}{AUFGEWUNDERT}Ich frage mich, ob es im Café Tacos gibt?
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_3]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zbcommander}{SAGEN}Besetze Gewerbegebäude wie Cafés und kleine Restaurants, um kontinuierlich Miete zu kassieren!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zbcommander}{SAY}Besetze Gewerbegebäude wie Cafés und kleine Restaurants, um kontinuierlich Miete zu kassieren!
 
 [NARRATIVE_PVP_OCCUPYMAP_INTRO_4]
 {NPC_EXIT:zbcommander}{NPC_ENTER:winnie}{TIRED}Aber hüte dich vor deinen Gegnern, die sie dir wieder abnehmen!
@@ -28210,16 +28220,16 @@ Du hast unzählige Quests abgeschlossen! Und jede Menge Belohnungen erhalten!
 {EXCITED:winnie}Sie scheinen unseren Schutz zu brauchen!
 
 [NARRATIVE_BEACH_INTRO_BANANA_3]
-{VERSPIELT:crazydave}Helf ihnen! Bananen sind schließlich eine sehr attraktive Frucht!
+{PLAYFUL:crazydave}Helf ihnen! Bananen sind schließlich eine sehr attraktive Frucht!
 
 [NARRATIVE_BEACH_INTRO_BANANA_4]
 {TIRED:winnie}Dave, wenn ich einen Kopf hätte, würde ich jetzt definitiv den Kopf schütteln.
 
 [NARRATIVE_BEACH_INTRO_BOWLING_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAGEN:winnie}Meine Recherchen haben ergeben, dass Bowling die angesagteste Sportart unserer Zeit ist.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Recherchen haben ergeben, dass Bowling die angesagteste Sportart unserer Zeit ist.
 
 [NARRATIVE_BEACH_INTRO_BOWLING_2]
-{VERSPIELT:crazydave}Findest du das auch, Penny?
+{PLAYFUL:crazydave}Findest du das auch, Penny?
 
 [NARRATIVE_BEACH_INTRO_BOWLING_3]
 {TIRED:winnie}Ich verstehe deinen Gedankengang nicht, Dave.
@@ -28341,10 +28351,10 @@ Du hast unzählige Quests abgeschlossen! Und jede Menge Belohnungen erhalten!
 {AUFGEWUNDERT:crazydave}Weißt du, was wir brauchen, Penny? Wir brauchen einen guten Partner!
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_3]
-{SAGEN:crazydave}Das Material, das ich erwähnt habe, bedeutet Haltung. Ich übersetze es dir, falls du es nicht verstehst.
+{SAY:crazydave}Das Material, das ich erwähnt habe, bedeutet Haltung. Ich übersetze es dir, falls du es nicht verstehst.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_4]
-{SAGEN:winnie}Dann schlage ich vor, du bittest Guide Thistle um Hilfe.
+{SAY:winnie}Dann schlage ich vor, du bittest Guide Thistle um Hilfe.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_5]
 {SAY:winnie}Ich glaube, es hat das Material, von dem du sprichst.
@@ -29036,22 +29046,22 @@ hart.
 {TIRED:crazydave}In diesem Taco ist nie Fleisch.
 
 [NARRATIVE_EGYPT_OUTRO_ZOMBOSS_3]
-{AUFGEWUNDEN:crazydave}Die Krümel in meinem Bart beweisen es!
+{EXCITED:crazydave}Die Krümel in meinem Bart beweisen es!
 
 [NARRATIVE_EGYPT_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:crazydave}{NPC_ENTER:zombossicon}{SAGEN:zombossicon}Na ja, das gibt uns nur mehr Verstand ... aber nicht jetzt.
+{NPC_EXIT:crazydave}{NPC_ENTER:zombossicon}{SAY:zombossicon}Na ja, das gibt uns nur mehr Verstand ... aber nicht jetzt.
 
 [NARRATIVE_EGYPT_OUTRO_ZOMBOSS_5]
-{SAGEN:zombossicon}Egal wo oder wann, ich werde dich wiederfinden!
+{SAY:zombossicon}Egal wo oder wann, ich werde dich wiederfinden!
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_5]
-{AUFGEWUNDEN:crazydaveicon}{SPECIAL3}Lass uns meine Tacos suchen!
+{EXCITED:crazydaveicon}{SPECIAL3}Lass uns meine Tacos suchen!
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_6]
 {TIRED:winnieicon}...
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_OLD_1]
-{NPC_ENTER:crazydaveicon}{AUFGEWUNDEN}Gute Neuigkeiten! Penny hat eine Karte zu meinen Tacos gefunden!
+{NPC_ENTER:crazydaveicon}{EXCITED}Gute Neuigkeiten! Penny hat eine Karte zu meinen Tacos gefunden!
 
 [NARRATIVE_EGYPT_WORLDMAP_INTRO_OLD_2]
 {NPC_ENTER:winnieicon}{TIRED}Nein, es ist eine Raum-Zeit-Karte, die die Pflanzen zeigt, die uns helfen können.
@@ -29490,232 +29500,232 @@ hart.
 {NPC_ENTER:winnieicon}{TIRED} Hast du versucht, den Stecker zu ziehen und wieder einzustecken?
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_1]
-{NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}向前看，忠实的信徒们！
+{NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}Blickt nach vorn, treue Anhänger!
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_2]
-{SAY:GREENSHADOW}植物与僵尸之间的大战变得热力蓬勃！
+{SAY:GREENSHADOW}Der Kampf zwischen Pflanzen und Zombies wird immer spannender!
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_3]
-{SAY:GREENSHADOW}这一切都是英雄机器人5000的功劳！
+{SAY:GREENSHADOW}Das alles verdanken wir Herobot 5000!
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_4]
-{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}呀呀！僵尸是胜利者！
+{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}Ah! Zombies sind die Gewinner!
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_5]
-{SAY:GREENSHADOW}呼！超级脑子！
+{SAY:GREENSHADOW}Puh! Superhirn!
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_6]
-{SAY:SUPERBRAINZ}我的名字叫超级脑子！
+{SAY:SUPERBRAINZ}Mein Name ist Superhirn!
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_7]
-{SAY:GREENSHADOW}我说过了！
+{SAY:GREENSHADOW}Ich hab's dir ja gesagt!
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_8]
-{SAY:GREENSHADOW}好吧，现在你面对的是碧绿之影！
+{SAY:GREENSHADOW}Na, jetzt stehst du Green Shadow gegenüber!
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_9]
-{SAY:GREENSHADOW}史诗般的植物僵尸大战！
+{SAY:GREENSHADOW}Ein epischer Pflanzen-Zombie-Kampf!
 
 [NARRATIVE_HEROES_EVENT_001_OUTRO_1]
-{NPC_ENTER:GREENSHADOW}{NPC_ENTER:SUPERBRAINZ}{SAY:GREENSHADOW} 我们会再见面的，超级脑子！
+{NPC_ENTER:GREENSHADOW}{NPC_ENTER:SUPERBRAINZ}{SAY:GREENSHADOW} Wir sehen uns wieder, Superhirn!
 
 [NARRATIVE_HEROES_EVENT_001_OUTRO_2]
-{SAY:SUPERBRAINZ}我的名字叫超级脑子！
+{SAY:SUPERBRAINZ}Mein Name ist Superhirn!
 
 [NARRATIVE_HEROES_EVENT_002_INTRO_1]
-{NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}勇敢点，小豌豆射手！
+{NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}Sei tapfer, Erbsenschleuder!
 
 [NARRATIVE_HEROES_EVENT_002_INTRO_2]
-{SAY:GREENSHADOW}骄傲地穿上你的碧绿之影服装！
+{SAY:GREENSHADOW}Trag dein Green Shadow-Kostüm mit Stolz!
 
 [NARRATIVE_HEROES_EVENT_002_INTRO_3]
-{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}嘻嘻嘻！嘻嘻嘻！嘻！
+{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}Hihi! Hihi! Hihi!
 
 [NARRATIVE_HEROES_EVENT_002_INTRO_4]
-{SAY:GREENSHADOW}无限小鬼僵尸！你们这群疯子！
+{SAY:GREENSHADOW}Unendliche Kobold-Zombies! Ihr Wahnsinnigen!
 
 [NARRATIVE_HEROES_EVENT_002_INTRO_5]
-{SAY:GREENSHADOW}这并不好笑！
+{SAY:GREENSHADOW}Das ist nicht lustig!
 
 [NARRATIVE_HEROES_EVENT_003_INTRO_1]
-{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}嗨！好强的太阳耀斑！真是阳光普照！
+{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Hey! Was für eine starke Sonneneruption! Die Sonne scheint!
 
 [NARRATIVE_HEROES_EVENT_003_INTRO_2]
-{SAY:SOLARFLARE}我们今天会见到更多好看的装扮！
+{SAY:SOLARFLARE}Heute gibt es noch mehr coole Kostüme!
 
 [NARRATIVE_HEROES_EVENT_003_INTRO_3]
-{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}我的名字叫超级大脑！
+{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}Mein Name ist Superhirn!
 
 [NARRATIVE_HEROES_EVENT_003_INTRO_4]
-{SAY:SOLARFLARE}装扮是没什么用，但是干嘛不要呢？
+{SAY:SOLARFLARE}Cosplay ist sinnlos, aber warum nicht?
 
 [NARRATIVE_HEROES_EVENT_004_INTRO_1]
-{NPC_ENTER:ELECTRICBOOGALOO}{SAY:ELECTRICBOOGALOO}霹雳舞！
+{NPC_ENTER:ELECTRICBOOGALOO}{SAY:ELECTRICBOOGALOO}Breakdance!
 
 [NARRATIVE_HEROES_EVENT_004_INTRO_2]
-{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}电力十足的霹雳舞！你这恶棍！
+{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Elektrischer Breakdance! Du Mistkerl!
 
 [NARRATIVE_HEROES_EVENT_004_INTRO_3]
-{SAY:SOLARFLARE} 虽然我想说的是……你的衣服真帅！
+{SAY:SOLARFLARE} Obwohl ich meine ... deine Klamotten sind so cool!
 
 [NARRATIVE_HEROES_EVENT_005_INTRO_1]
-{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}……
+{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT} ...
 
 [NARRATIVE_HEROES_EVENT_005_INTRO_2]
-{NPC_ENTER:ELECTRICBOOGALOO}{SAY:ELECTRICBOOGALOO}霹雳舞！
+{NPC_ENTER:ELECTRICBOOGALOO}{SAY:ELECTRICBOOGALOO}Breakdance!
 
 [NARRATIVE_HEROES_EVENT_005_INTRO_3]
-{SAY:WALLKNIGHT}……
+{SAY:WALLKNIGHT}...
 
 [NARRATIVE_HEROES_EVENT_005_INTRO_4]
-{SAY:ELECTRICBOOGALOO}！
+{SAY:ELECTRICBOOGALOO}!
 
 [NARRATIVE_HEROES_EVENT_005_INTRO_5]
-{SAY:WALLKNIGHT}我在想蜡笔的事！
+{SAY:WALLKNIGHT}Ich denke an Buntstifte!
 
 [NARRATIVE_HEROES_EVENT_006_INTRO_1]
-{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}嘟嘀嘟，想着蜡笔……
+{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}Tut, tut, ich denke an Buntstifte...
 
 [NARRATIVE_HEROES_EVENT_006_INTRO_2]
-{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}嘻嘻嘻嘻！
+{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}Hihi, hihi!
 
 [NARRATIVE_HEROES_EVENT_006_INTRO_3]
-{SAY:WALLKNIGHT}咿呀！
+{SAY:WALLKNIGHT}Igitt!
 
 [NARRATIVE_HEROES_EVENT_006_INTRO_4]
-{SAY:WALLKNIGHT}那肯定不健康！
+{SAY:WALLKNIGHT}Das ist definitiv nicht gesund!
 
 [NARRATIVE_HEROES_EVENT_007_INTRO_1]
-{NPC_ENTER:SOLARFLARE}{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}嘻！
+{NPC_ENTER:SOLARFLARE}{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}Hee!
 
 [NARRATIVE_HEROES_EVENT_007_INTRO_2]
-{SAY:IMPFINITY}嘻嘻！
+{SAY:IMPFINITY}Hee hee!
 
 [NARRATIVE_HEROES_EVENT_007_INTRO_3]
-{SAY:IMPFINITY}嘻嘻嘻嘻！
+{SAY:IMPFINITY}Hee hee hee!
 
 [NARRATIVE_HEROES_EVENT_007_INTRO_4]
-{SAY:SOLARFLARE}你让我很担心啊，无限小鬼僵尸……
+{SAY:SOLARFLARE}Du machst mir Sorgen, Unendlicher Wichtel-Zombie ...
 
 [NARRATIVE_HEROES_EVENT_008_INTRO_1]
-{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}我得找回英雄机器人5000的残骸！
+{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Ich muss die Überreste von Herobot 5000 bergen!
 
 [NARRATIVE_HEROES_EVENT_008_INTRO_2]
-{NPC_ENTER:ELECTRICBOOGALOO}{SAY:SOLARFLARE}退后，电力十足的BOOGALOO！
+{NPC_ENTER:ELECTRICBOOGALOO}{SAY:SOLARFLARE}Weg mit dir, Elektro-BOOGALOO!
 
 [NARRATIVE_HEROES_EVENT_008_INTRO_3]
-{SAY:SOLARFLARE}我对你不感冒！
+{SAY:SOLARFLARE}Ich bin nicht an dir interessiert!
 
 [NARRATIVE_HEROES_EVENT_008_INTRO_4]
-{SAY:ELECTRICBOOGALOO}霹雳... 舞?
+{SAY:ELECTRICBOOGALOO}Breakdance?
 
 [NARRATIVE_HEROES_EVENT_008_INTRO_5]
-{SAY:SOLARFLARE}我不会的！我不能！
+{SAY:SOLARFLARE}Will ich nicht! Kann ich nicht!
 
 [NARRATIVE_HEROES_EVENT_009_INTRO_1]
-{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}脑子！那可真棒！
+{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}Gehirn! Das ist ja krass!
 
 [NARRATIVE_HEROES_EVENT_009_INTRO_2]
-{SAY:SUPERBRAINZ}超级脑子！
+{SAY:SUPERBRAINZ}Superhirn!
 
 [NARRATIVE_HEROES_EVENT_009_INTRO_3]
-{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}骑士！那是一道墙！
+{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}Ritter! Das ist eine Mauer!
 
 [NARRATIVE_HEROES_EVENT_009_INTRO_4]
-{SAY:WALLKNIGHT}坚果骑士！
+{SAY:WALLKNIGHT}Verrückter Ritter!
 
 [NARRATIVE_HEROES_EVENT_009_INTRO_5]
-{SAY:WALLKNIGHT}我喜欢这个游戏！
+{SAY:WALLKNIGHT}Ich liebe dieses Spiel!
 
 [NARRATIVE_HEROES_EVENT_010_INTRO_1]
-{NPC_ENTER:GREENSHADOW}{NPC_ENTER:SUPERBRAINZ}{SAY:GREENSHADOW}我早就告诉过你我们会再见的，超级脑子！
+{NPC_ENTER:GREENSHADOW}{NPC_ENTER:SUPERBRAINZ}{SAY:GREENSHADOW}Ich hab dir doch gesagt, wir sehen uns wieder, Superhirn!
 
 [NARRATIVE_HEROES_EVENT_010_INTRO_2]
-{SAY:SUPERBRAINZ}我的名字叫超级大脑！
+{SAY:SUPERBRAINZ}Mein Name ist Superhirn!
 
 [NARRATIVE_HEROES_EVENT_010_INTRO_3]
-{SAY:GREENSHADOW}是的，我已经……你知道吗？算了。
+{SAY:GREENSHADOW}Ja, ich schon... weißt du was? Egal.
 
 [NARRATIVE_HEROES_EVENT_011_INTRO_1]
-{NPC_ENTER:GREENSHADOW}{NPC_ENTER:IMPFINITY}{SAY:GREENSHADOW}缺失的英雄机器人5000零件呢，无限小鬼僵尸？
+{NPC_ENTER:GREENSHADOW}{NPC_ENTER:IMPFINITY}{SAY:GREENSHADOW}Wo sind die fehlenden 5000 Heldenroboterteile, unendliche Kobold-Zombies?
 
 [NARRATIVE_HEROES_EVENT_011_INTRO_2]
-{SAY:IMPFINITY}咿嘿嘿！
+{SAY:IMPFINITY}Hey, hey!
 
 [NARRATIVE_HEROES_EVENT_011_INTRO_3]
-{SAY:GREENSHADOW}这可不是答案！
+{SAY:GREENSHADOW}Das ist nicht die Antwort!
 
 [NARRATIVE_HEROES_EVENT_012_INTRO_1]
-{NPC_ENTER:WALLKNIGHT}{NPC_ENTER:ELECTRICBOOGALOO}{SAY:ELECRICBOOGALOO} 电力！霹雳舞！
+{NPC_ENTER:WALLKNIGHT}{NPC_ENTER:ELECTRICBOOGALOO}{SAY:ELECRICBOOGALOO} Elektrizität! Breakdance!
 
 [NARRATIVE_HEROES_EVENT_012_INTRO_2]
-{SAY:WALLKNIGHT}你好！你喜欢蜡笔吗？
+{SAY:WALLKNIGHT}Hallo! Magst du Buntstifte?
 
 [NARRATIVE_HEROES_EVENT_012_INTRO_3]
-{SAY:ELECTRICBOOGALOO}我喜欢很多东西！
+{SAY:ELECTRICBOOGALOO}Ich mag vieles!
 
 [NARRATIVE_HEROES_EVENT_012_INTRO_4]
-{SAY:WALLKNIGHT}但你喜欢……蓝色蜡笔吗？
+{SAY:WALLKNIGHT}Aber magst du ... blaue Buntstifte?
 
 [NARRATIVE_HEROES_EVENT_013_INTRO_1]
-{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}嘿！
+{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}Hey!
 
 [NARRATIVE_HEROES_EVENT_013_INTRO_2]
-{SAY:IMPFINITY}我们偷了英雄机器人的零件！是的！把它们装在我的帽子里！
+{SAY:IMPFINITY}Wir haben die Heldenroboterteile geklaut! Ja! Steck sie in meinen Hut!
 
 [NARRATIVE_HEROES_EVENT_013_INTRO_3]
-{NPC_EXIT:IMPFINITY}{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}你好，你好，你好！
+{NPC_EXIT:IMPFINITY}{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}Hallo, hallo, hallo!
 
 [NARRATIVE_HEROES_EVENT_013_INTRO_4]
-{SAY:WALLKNIGHT}我错过了什么吗？
+{SAY:WALLKNIGHT}Habe ich etwas verpasst?
 
 [NARRATIVE_HEROES_EVENT_014_INTRO_1]
-{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}咻！这些僵尸顾客可真不好对付！
+{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Puh! Mit diesen Zombie-Kunden ist man echt schwer klarzukommen!
 
 [NARRATIVE_HEROES_EVENT_014_INTRO_2]
-{SAY:SOLARFLARE}它们不停的过来！从来不会停！
+{SAY:SOLARFLARE}Sie kommen immer wieder! Sie hören nie auf!
 
 [NARRATIVE_HEROES_EVENT_014_INTRO_3]
-{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}我的名字叫超级脑子！
+{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}Mein Name ist Superhirn!
 
 [NARRATIVE_HEROES_EVENT_014_INTRO_4]
-{SAY:SOLARFLARE}而且说真的……它们的对话完全没有营养！
+{SAY:SOLARFLARE}Und mal ehrlich ... ihre Gespräche sind völlig bedeutungslos!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_1]
-{NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}太阳耀斑！你找到英雄机器人的零件了吗？
+{NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}Sonneneruption! Hast du die Teile für den Heldenroboter gefunden?
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_10]
-{NPC_EXIT:SOLARFLARE}{NPC_EXIT:ELECTRICBOOGALOO}{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY} 嘿-嘿-嘿-嘿嘿！
+{NPC_EXIT:SOLARFLARE}{NPC_EXIT:ELECTRICBOOGALOO}{NPC_ENTER:IMPFINITY}{SAY:IMPFINITY} Hey, hey, hey, hey!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_11]
-{SAY:IMPFINITY}更多精彩，敬请期待……
+{SAY:IMPFINITY}Bleib dran für weitere spannende Inhalte...
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_12]
-{SAY:IMPFINITY}……千万别错过《植物大战僵尸：英雄》！
+{SAY:IMPFINITY}... Verpasse nicht Plants vs. Zombies: Heroes!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_2]
-{NPC_EXIT:GREENSHADOW}{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}不！只是一堆垃圾！那么你呢，坚果骑士？
+{NPC_EXIT:GREENSHADOW}{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Nein! Nur ein Haufen Schrott! Was ist mit dir, Verrückter Ritter?
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_3]
-{NPC_EXIT:SOLARFLARE}{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}你好！我是坚果骑士！
+{NPC_EXIT:SOLARFLARE}{NPC_ENTER:WALLKNIGHT}{SAY:WALLKNIGHT}Hallo! Ich bin Verrückter Ritter!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_4]
-{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}我的名字叫超级脑子！
+{NPC_ENTER:SUPERBRAINZ}{SAY:SUPERBRAINZ}Mein Name ist Superhirn!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_5]
-{NPC_EXIT:WALLKNIGHT}{NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}我知道！
+{NPC_EXIT:WALLKNIGHT}{NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}Ich weiß!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_6]
-{NPC_EXIT:GREENSHADOW}{NPC_EXIT:SUPERBRAINZ}{NPC_ENTER:ELECTRICBOOGALOO}{SAY:ELECTRICBOOGALOO}谁准备好来……
+{NPC_EXIT:GREENSHADOW}{NPC_EXIT:SUPERBRAINZ}{NPC_ENTER:ELECTRICBOOGALOO}{SAY:ELECTRICBOOGALOO}Wer ist bereit für...
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_7]
-{SAY:ELECTRICBOOGALOO}接受电力十足的霹雳舞了？
+{SAY:ELECTRICBOOGALOO}Den elektrischen Breakdance?
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_8]
-{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}我！
+{NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Ich!
 
 [NARRATIVE_HEROES_EVENT_015_INTRO_9]
-{SAY:SOLARFLARE}我是说……绝不！
+{SAY:SOLARFLARE} Ich meine ... niemals!
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Diese Höhlenzombies sind wirklich stur!
@@ -29748,10 +29758,10 @@ hart.
 {EXCITED:crazydave}Das lasse ich nicht zu, selbst wenn es das Ende der Welt bedeutet, Penny!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_4]
-{SAGEN:crazydave}Es ist Zeit, die brennenden Erbsenkanonen loszulassen!
+{SAY:crazydave}Es ist Zeit, die brennenden Erbsenkanonen loszulassen!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_5]
-{VERSPIELT:crazydave}Sie kann Hitzeenergie an Zombies abgeben und Freunde in der Nähe warmhalten!
+{PLAYFUL:crazydave}Sie kann Hitzeenergie an Zombies abgeben und Freunde in der Nähe warmhalten!
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_8]
 {SAY:crazydave}Keine Sorge! Wir pflanzen sie geschickt, um die Zombie-Kälte abzuwehren!
 
@@ -29872,7 +29882,7 @@ hart.
 {EXCITED:winnie}Sie kann in der Luft schweben und Zombies in vier Richtungen abschießen!
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_5]
-{VERSPIELT:crazydave}Dieses Kind hat Talent! Vielleicht weiß sie auch, wie man heißen Kakao macht?
+{PLAYFUL:crazydave}Dieses Kind hat Talent! Vielleicht weiß sie auch, wie man heißen Kakao macht?
 [NARRATIVE_ICEAGE_OUTRO_DANGER_ROOM_KEY_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED: winnie}Dave, ich habe einen Eiswürfel auf dich zukommen sehen.
 
@@ -29934,16 +29944,16 @@ hart.
 {NPC_ENTER:winnie}{MÜDE}Das sieht nicht nach einer Party aus, Dave.
 
 [NARRATIVE_LOD_LEVEL_INTRO_2]
-{NPC_ENTER:crazydave}{VERSPIELT}Aber es könnte eine Überraschungsparty werden, mit Geschenken und allem Drum und Dran!
+{NPC_ENTER:crazydave}{PLAYFUL}Aber es könnte eine Überraschungsparty werden, mit Geschenken und allem Drum und Dran!
 
 [NARRATIVE_LOD_LEVEL_INTRO_3]
-{AUFGEWUNDEN:crazydave}Du wirst schon sehen, Penny, ich glaube, diese Zombies sind anders.
+{EXCITED:crazydave}Du wirst schon sehen, Penny, ich glaube, diese Zombies sind anders.
 
 [NARRATIVE_LOD_MAP_INTRO_1]
-{NPC_ENTER:winnieicon}{AUFGEWUNDEN}In der Moderne wird dein Haus gleich angegriffen!
+{NPC_ENTER:winnieicon}{EXCITED}In der Moderne wird dein Haus gleich angegriffen!
 
 [NARRATIVE_LOD_MAP_INTRO_2]
-{NPC_ENTER:crazydaveicon}{AUFGEWUNDEN}Ich wette, das war kein Angriff ... Ich wette, es war eine Party! Oh, ich hoffe, es ist eine Piñata-Party!
+{NPC_ENTER:crazydaveicon}{EXCITED}Ich wette, das war kein Angriff ... Ich wette, es war eine Party! Oh, ich hoffe, es ist eine Piñata-Party!
 
 [NARRATIVE_LOD_MAP_INTRO_3]
 {SAY:winnieicon}Das ist keine Party, sondern Zombies aus anderen Zeiten und Räumen, die sich auf eine Invasion vorbereiten!
@@ -29958,7 +29968,7 @@ hart.
 {NPC_ENTER:winnieicon}Die Party ist vorbei, aber die Zombies kommen bald zurück.
 
 [NARRATIVE_LOD_MAP_OUTRO_2]
-{NPC_ENTER:crazydaveicon}{VERSPIELT}Und was sie betrifft ... mehr Piñatas!
+{NPC_ENTER:crazydaveicon}{PLAYFUL}Und was sie betrifft ... mehr Piñatas!
 
 [NARRATIVE_LOD_MAP_OUTRO_3]
 {SAY:winnieicon}Die Verteidigung gegen mehrere Gruppen hintereinander löst eine große Piñata-Anomalie aus.
@@ -29979,7 +29989,7 @@ hart.
 {NPC_ENTER:crazydaveicon}{AUFGEWUNDERT}Wenn du eine Piñata-Party entdeckst, lass es uns einfach wissen.
 
 [NARRATIVE_LOD_RESET_INTRO_4]
-{VERSPIELT:crazydaveicon}Die Partys sind schwer zu erkennen.
+{PLAYFUL:crazydaveicon}Die Partys sind schwer zu erkennen.
 
 [NARRATIVE_LOD_REWARD_INTRO_1]
 {NPC_ENTER:crazydave}Was habe ich dir gesagt, Penny? Eine Überraschungs-Piñata-Party!
@@ -34561,13 +34571,13 @@ Heute keine weiteren Erinnerungen.
 {NPC_ENTER:winnie}{PLAYFUL:winnie} Ich habe gehört, dass die Autoscooter-Zombies nach der Verbesserung ihrer Fahrzeuge zurückgekehrt sind. Sie sind schwieriger zu besiegen als zuvor. Sei vorsichtig.
 
 [NARRATIVE_CHILDRENSDAY_UNCHARTED_EVENT_TUTORIAL_4]
-{NPC_ENTER:crazydave}{AUFGEWUNDEN:crazydave}Oh? Dann muss ich ihn mal richtig kennenlernen.
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Oh? Dann muss ich ihn mal richtig kennenlernen.
 
 [NARRATIVE_NEEDFORSPEED_202406_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:crazydave}{VERSPIELT:crazydave}Hey! Da vorne scheinen mehrere Luxusautos zu parken, viel besser als deine, Penny!
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hey! Da vorne scheinen mehrere Luxusautos zu parken, viel besser als deine, Penny!
 
 [NARRATIVE_NEEDFORSPEED_202406_UNCHARTED_EVENT_TUTORIAL_2]
-{NPC_ENTER:winnie}{VERSPIELT:winnie}Dann such dir eins aus und lass uns im Temporennen gegeneinander antreten!
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Dann such dir eins aus und lass uns im Temporennen gegeneinander antreten!
 
 [NARRATIVE_NEEDFORSPEED_202406_UNCHARTED_EVENT_TUTORIAL_3]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave} Okay, aber wenn ich gewinne, musst du mir ein Auto geben, das meinem entspricht.
@@ -34585,10 +34595,10 @@ Heute keine weiteren Erinnerungen.
 {NPC_ENTER:crazydave}{EXCITED:crazydave}Ich habe gehört, dass viele „alte Freunde“ kommen, um das Frühlingsfest mit uns zu feiern!
 
 [NARRATIVE_ARBORDAY_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:winnie}{VERSPIELT:winnie}Der Frühling ist endlich da. Manche Stellen bei mir schimmeln schon. Lasst uns rausgehen und Sonne tanken.
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Der Frühling ist endlich da. Manche Stellen bei mir schimmeln schon. Lasst uns rausgehen und Sonne tanken.
 
 [NARRATIVE_ARBORDAY_UNCHARTED_EVENT_TUTORIAL_2]
-{NPC_ENTER:crazydave}{VERSPIELT:crazydave}Ich liebe den Frühling so sehr! Aber es ist Frühling, warum ist mein Rasen immer noch gefroren?
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ich liebe den Frühling so sehr! Aber es ist Frühling, warum ist mein Rasen immer noch gefroren?
 
 [NARRATIVE_ARBORDAY_UNCHARTED_EVENT_TUTORIAL_3]
 {NPC_ENTER:winnie}{PLAYFUL:winnie} Mein Radar zeigt, dass die Zombies noch draußen sind und eine neue Angriffswelle vorbereiten.
@@ -38198,164 +38208,163 @@ Kristallklar und feucht
 终极番茄可以通过重复种植使自身变强。
 
 [ULTOMATO_AVATAR_NAME]
-终极番茄可以通过重复种植使自身变强。
+Die ultimative Tomate kann durch wiederholtes Pflanzen stärker werden.
 
 [STORE_PRODUCT_AVATAR_ULTOMATO]
-二级和三级番茄释放大招后会保留一级番茄
+Tomaten der Stufen 2 und 3 behalten nach dem Ausführen ihrer ultimativen Attacken ihren Status als Tomaten der Stufe 1.
 
 [STORE_PRODUCT_AVATAR_ULTOMATO_TITLE]
-终极番茄装扮
+Ultimatives Tomaten-Outfit
 
 [ULTOMATO_SKILL_LEVEL1]
-快速充能
+Schnellladung
 
 [ULTOMATO_SKILL_LEVEL1_DES]
-降低攻击充能时间1秒。
+Reduziert die Angriffsladezeit um 1 Sekunde.
 
 [ULTOMATO_SKILL_LEVEL2]
-极速充能
+Schnellladung
 
 [ULTOMATO_SKILL_LEVEL2_DES]
-使技能2效果提升100%
+Erhöht den Effekt von Fertigkeit 2 um 100 %.
 
 [ULTOMATO_SKILL_LEVEL4]
-超级跃升
+Supersprung
 
 [ULTOMATO_SKILL_LEVEL4_DES]
-种植时有概率直接升1级
+Beim Einpflanzen besteht die Chance, direkt auf Stufe 1 aufzusteigen.
 
 [ULTOMATO_SKILL_LEVEL5]
-能量巨浪
+Energiewelle
 
 [ULTOMATO_SKILL_LEVEL5_DES]
-击中目标后充盈的能量会溅射到目标附近的僵尸，对他们造成伤害。
+Nach dem Auftreffen auf das Ziel spritzt die aufgeladene Energie auf Zombies in der Nähe und fügt ihnen Schaden zu.
 
 [IMPATIENSSHOOTER]
-凤仙花
+Imperidium
 
 [IMPATIENSSHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 凤仙花描述
+{KEYWORD}Pflanzenmerkmale:{STAT}Grünpflanzen
+{FLAVOR} Beschreibung von Impatiens
 [IMPATIENSSHOOTER_DESCRIPTION_HEADER]
-凤仙花描述2
+Beschreibung von Impatiens 2
 
 [IMPATIENSSHOOTER_TOOLTIP]
-凤仙花描述3
+Beschreibung von Impatiens 3
 
 [IMPATIENSSHOOTER_PRODUCT_SHORT_DESC]
-凤仙花描述4
+Beschreibung von Impatiens 4
 
 [IMPATIENSSHOOTER_AVATAR_NAME]
-凤仙花装扮
+Kleidung von Impatiens
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER]
-凤仙花装扮1
+Kleidung von Impatiens 1
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER_TITLE]
-千金藤装扮2
+Kleidung von Impatiens 2
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1]
-凤仙花技能lv1
+Fähigkeit von Impatiens lv1
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1_DES]
-凤仙花技能lv1-des。
+Impatiens-Fertigkeit lv1-des.
 
 [IMPATIENSSHOOTER_SKILL_LEVEL2]
-凤仙花技能lv2
+Imperia-Fähigkeit lv2
 
 [IMPATIENSSHOOTER_SKILL_LEVEL2_DES]
-凤仙花技能lv2-des
+Imperia-Fähigkeit lv2-des
 
 [IMPATIENSSHOOTER_SKILL_LEVEL5]
-凤仙花技能lv5
+Imperia-Fähigkeit lv5
 
 [IMPATIENSSHOOTER_SKILL_LEVEL5_DES]
-凤仙花技能lv5-des
+Imperia-Fertigkeit lv5-des
 
 [STEPHANIA]
-千金藤
+Golden Vine
 
 [STEPHANIA_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 千金藤的偶像是飞盾国家队的队长，因为仰慕其格挡和飞盾的英姿，所以千金藤也努力练就了一身飞盾和格挡的本领。别问为什么盾牌会碎，问就是一般民用品。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+{FLAVOR} Golden Vines Idol ist der Kapitän des nationalen Fliegenden Schild-Teams. Weil sie sein heldenhaftes Blocken und seinen Fliegenden Schild bewundert, hat Golden Vine auch hart daran gearbeitet, die Fähigkeiten des Fliegenden Schildes und Blockens zu meistern. Fragt nicht, warum der Schild zerbricht. Es ist nur ein gewöhnliches ziviles Produkt.
 [STEPHANIA_DESCRIPTION_HEADER]
-千金藤可以击落忍者小鬼僵尸的河豚鱼，飞盾会溅射。
+Golden Vine kann den Kugelfisch des Ninja-Wichtel-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_TOOLTIP]
-千金藤可以击落忍者小鬼僵尸的河豚鱼，飞盾会溅射。
+Golden Vine kann den Kugelfisch des Ninja-Wichtel-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_PRODUCT_SHORT_DESC]
-千金藤可以击落忍者小鬼僵尸的河豚鱼，飞盾会溅射。
+Golden Vine kann den Kugelfisch des Ninja-Wichtel-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_AVATAR_NAME]
-千金藤装扮
+Avatar-Kostüm
 
 [STORE_PRODUCT_AVATAR_STEPHANIA]
-飞盾会燃起熊熊火焰。
+Der Schild geht in Flammen auf.
 
 [STORE_PRODUCT_AVATAR_STEPHANIA_TITLE]
-千金藤装扮
+Avatar-Kostüm
 
 [STEPHANIA_SKILL_LEVEL1]
-锋锐碎裂
+Scharfes Zertrümmern
 
 [STEPHANIA_SKILL_LEVEL1_DES]
-碎片现在会有2块碎片可以攻击一格的僵尸。
+Die Fragmente bestehen nun aus zwei Fragmenten, die Zombies in einem Raster angreifen können.
 
 [STEPHANIA_SKILL_LEVEL2]
-完美碎裂
+Perfektes Zertrümmern
 
 [STEPHANIA_SKILL_LEVEL2_DES]
-碎片现在都能攻击一格的僵尸了。
+Die Fragmente können nun Zombies in einem Raster angreifen.
 
 [STEPHANIA_SKILL_LEVEL5]
-还能再碎
+Kann erneut zerbrochen werden
 
 [STEPHANIA_SKILL_LEVEL5_DES]
-部分飞盾还能再碎一次。
+Manche Schilde können erneut zerbrochen werden.
 
 [TUPISTRASTALKER]
-潜行开口箭
 
 [TUPISTRASTALKER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 潜行开口箭是忍界公认的一流好手，但是大家都说茄子忍者比潜行开口箭强，潜行开口箭对此并不在意，因为他认为双方的战斗方式不同，他更喜欢隐藏在阴影中确保自己的安全。
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanzen
+{FLAVOR} Stealth Arrow gilt in der Ninja-Welt als Spitzenspieler, doch alle sagen, dass Eggplant Ninja besser ist als Stealth Arrow. Stealth Arrow kümmert das nicht, da er die Kampfstile beider Seiten für unterschiedlich hält. Er zieht es vor, sich zu seiner eigenen Sicherheit im Schatten zu verstecken.
 
 [TUPISTRASTALKER_DESCRIPTION_HEADER]
-潜行开口箭会从地下突然出现攻击附近的僵尸。
+Schleichender Öffnungspfeil erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
 
 [TUPISTRASTALKER_TOOLTIP]
-潜行开口箭会从地下突然出现攻击附近的僵尸。
+Schleichender Öffnungspfeil erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
 
 [TUPISTRASTALKER_PRODUCT_SHORT_DESC]
-潜行开口箭会从地下突然出现攻击附近的僵尸。
+Schleichender Öffnungspfeil erscheint plötzlich aus dem Untergrund, um Zombies in der Nähe anzugreifen.
 
 [TUPISTRASTALKER_AVATAR_NAME]
-潜行开口箭会从地下突然出现攻击附近的僵尸。
+Der heimliche Öffnungspfeil erscheint plötzlich aus dem Untergrund und greift Zombies in der Nähe an.
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER]
-在大招发动后，飞镖的碎片会留在原地一段时间，持续伤害路过僵尸
+Nach Aktivierung der ultimativen Fähigkeit bleiben die Splitter des Pfeils eine Weile an Ort und Stelle und fügen vorbeigehenden Zombies kontinuierlich Schaden zu.
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER_TITLE]
-潜行开口箭装扮
+Stealth-Open-Pfeil-Kostüm
 
 [TUPISTRASTALKER_SKILL_LEVEL1]
-快速生长
+Schnelles Wachstum
 
 [TUPISTRASTALKER_SKILL_LEVEL1_DES]
-恢复时间缩短1秒。
+Die Erholungszeit wird um 1 Sekunde verkürzt.
 
 [TUPISTRASTALKER_SKILL_LEVEL2]
-极速生长
+Extremes Wachstum
 
 [TUPISTRASTALKER_SKILL_LEVEL2_DES]
-使技能2效果提升100%
+Erhöht den Effekt von Fertigkeit 2 um 100 %.
 
 [TUPISTRASTALKER_SKILL_LEVEL5]
-旋转720°
+Dreht sich um 720°.
 
 [TUPISTRASTALKER_SKILL_LEVEL5_DES]
-攻击的时候会射出2轮飞镖
+Schießt beim Angriff zwei Pfeile ab.
 
 [CYPRIPEDIUM]
 Chefkoch Cypripedium
@@ -38399,7 +38408,6 @@ Neue Gerichte
 
 [CYPRIPEDIUM_SKILL_LEVEL5_DES]
 Neue Gerichte verursachen nun eine Vergiftung der Kugeln.
-
 
 [SLINGPEA]
 Schleudererbse
@@ -38445,48 +38453,48 @@ Explosive Erbse
 Es besteht die Chance, 5 explosive Erbsen abzufeuern, die Zombies in einem zufälligen Raster auf der Karte Schaden zufügen.
 
 [TULIPTRUMPETER]
-郁金香号手
+Tulpen Trompeter 
 
 [TULIPTRUMPETER_DESCRIPTION]
-{KEYWORD}特点：{STAT}当前方一定距离内没有僵尸的时候是攻击形态，僵尸接近后则变为治疗形态，这样可以满足攻击和防守的需要。   
-{KEYWORD}植物特征：{STAT}红色植物、黄色植物。
-{FLAVOR} 生活中的郁金香号手温文尔雅，可是一旦到了舞台，他可是变得热情异常，双重人格 使得他让别人又爱又恨，常听人说：那可是个让人琢磨不透的家伙呢。
+{KEYWORD}Eigenschaften: {STAT}Wenn sich keine Zombies in einer bestimmten Entfernung befinden, ist er im Angriffsmodus. Nähern sich Zombies, wechselt er in den Heilungsmodus, der Angriff und Verteidigung ermöglicht.
+{KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanzen, gelbe Pflanzen.
+{FLAVOR} Im Leben ist Tulip Trumpeter sanft und elegant, doch sobald er auf der Bühne steht, wird er extrem leidenschaftlich. Seine gespaltene Persönlichkeit lässt ihn andere lieben und hassen. Man sagt oft: Er ist ein schwer zu durchschauender Typ.
 
 [TULIPTRUMPETER_DESCRIPTION_HEADER]
-既可以远程攻击，又可以近距离治疗的植物
+Eine Pflanze, die aus der Ferne angreifen und aus nächster Nähe heilen kann.
 
 [TULIPTRUMPETER_TOOLTIP]
-既可以远程攻击，又可以近距离治疗的植物
+Eine Pflanze, die aus der Ferne angreifen und aus nächster Nähe heilen kann.
 
 [TULIPTRUMPETER_PRODUCT_SHORT_DESC]
-电既可以远程攻击，又可以近距离治疗的植物
+Eine Pflanze, die aus der Ferne angreifen und aus nächster Nähe heilen kann.
 
 [TULIPTRUMPETER_AVATAR_NAME]
-皇家号手装扮
+Königliches Trompeter-Outfit
 
 [STORE_PRODUCT_AVATAR_TULIPTRUMPETER]
-大招对3x3范围内的目标造成伤害并且治疗己方
+Die ultimative Fähigkeit fügt Zielen im Umkreis von 3x3 Schaden zu und heilt den Gegner.
 
 [STORE_PRODUCT_AVATAR_TULIPTRUMPETER_TITLE]
-皇家号手装扮
+Königliches Trompeter-Outfit
 
 [TULIPTRUMPETER_SKILL_LEVEL1]
-弥漫之音 
+Diffuser Klang
 
 [TULIPTRUMPETER_SKILL_LEVEL1_DES]
-有概率发射特殊音符，对被击中的目标造成魅惑.
+Es besteht die Möglichkeit, spezielle Töne abzufeuern, die Verzauberung auf das getroffene Ziel.
 
 [TULIPTRUMPETER_SKILL_LEVEL2]
-余音绕梁
+Der anhaltende Klang
 
 [TULIPTRUMPETER_SKILL_LEVEL2_DES]
-使弥漫之音技能效果提升100%
+Erhöht die Wirkung der Fertigkeit „Diffuser Klang“ um 100 %.
 
 [TULIPTRUMPETER_SKILL_LEVEL5]
-缤纷序曲
+Farbenfrohe Ouvertüre
 
 [TULIPTRUMPETER_SKILL_LEVEL5_DES]
-郁金香号手身体周围开始飘起花瓣 ，郁金香号手开始吸收自然气息，吸收满后，向前方释放一个超级大的花瓣声波 ，攻击正前方僵尸并造成魅惑效果。
+Blütenblätter beginnen um den Körper des Tulpentrompeters zu schweben, und dieser beginnt, den natürlichen Atem zu absorbieren. Anschließend sendet er eine extrem große Blütenblatt-Schallwelle nach vorne aus, die die Zombies vor ihm angreift und Verzauberung verursacht.
 
 [HOTDATE]
 热辣海枣
@@ -38527,164 +38535,165 @@ Es besteht die Chance, 5 explosive Erbsen abzufeuern, die Zombies in einem zufä
 大招可以无敌3秒时间。
 
 [ICYCURRANT]
-寒冰醋栗
+Eis-Johannisbeere
 
 [ICYCURRANT_DESCRIPTION]
-{KEYWORD}用法： {STAT}同一行或列的两个寒冰醋栗之间会形成冰地
-{KEYWORD}植物特征：{STAT}白色植物、冰封万里
-{FLAVOR} 寒冰醋栗常年在零下30度的地区生活，经常和寒冰豌豆聊天，突然一天寒冰醋栗它打了一个喷嚏，它说了句:这天好冷啊~ 
+{KEYWORD}Verwendung: {STAT}Zwischen zwei Eisjohannisbeeren in derselben Reihe oder Spalte bildet sich Eisboden.
+{KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze, gefroren.
+{FLAVOR} Eisjohannisbeeren leben in Gebieten mit Temperaturen von ganzjährig minus 30 Grad Celsius und unterhalten sich oft mit Eiserbsen. Eines Tages niesten die Eisjohannisbeeren plötzlich und sagten: „Es ist so kalt heute.
 
 [ICYCURRANT_DESCRIPTION_HEADER]
-同一行或列的寒冰醋栗之间可以形成冰地，对经过的僵尸造成伤害。
+Zwischen Eisjohannisbeeren in derselben Reihe oder Spalte kann sich Eisboden bilden, der vorbeigehenden Zombies Schaden zufügt.
 
 [ICYCURRANT_TOOLTIP]
-可以形成冰地，对经过的僵尸造成伤害和缓速度。
+Es kann Eisboden gebildet werden, der vorbeigehenden Zombies Schaden zufügt und ihre Geschwindigkeit verlangsamt.
 
 [ICYCURRANT_SKILL_LEVEL1]
-冰晶
+Eiskristall
 
 [ICYCURRANT_SKILL_LEVEL1_DES]
-有概率使僵尸冰冻1秒。
+Es besteht die Chance, Zombies 1 Sekunde lang einzufrieren.
 
 [ICYCURRANT_SKILL_LEVEL2]
-冰封
+Eisblock
 
 [ICYCURRANT_SKILL_LEVEL2_DES]
-提升冰晶效果100%。
+Erhöht die Wirkung von Eiskristallen um 100 %.
 
 [ICYCURRANT_SKILL_LEVEL5]
-极寒冻气
+Frost
 
 [ICYCURRANT_SKILL_LEVEL5_DES]
-现在生成的冰冻格子会造成更高的冰冻伤害！
+Das generierte gefrorene Gitter verursacht jetzt höheren Gefrierschaden!
 
 [STORE_PRODUCT_AVATAR_ICYCURRANT_TITLE]
-寒冰醋栗装扮
+Eis-Johannisbeere-Outfit
 
 [STORE_PRODUCT_AVATAR_ICYCURRANT]
-大招冰山爆炸对一格范围目标造成伤害
+Die ultimative Fertigkeit „Eisbergexplosion“ verursacht Schaden an Zielen innerhalb eines Gitters.
 
 [EGGPLANTNINJA]
-茄子忍者
+Eggplant Ninja
 
 [EGGPLANTNINJA_DESCRIPTION]
-{KEYWORD}用法： {STAT}可以跨行使用手里剑对弧度攻击范围内僵尸造成伤害。
-{KEYWORD}植物特征：{STAT}紫色植物
-{FLAVOR} 从小就接受传统忍术的训练，被誉为忍者界千年一遇的天才，精通各种忍术，更是被忍皇亲自任命为下一任的接班人，但是它却并不开心，因为它曾经输给过菜问，它认为不击败菜问就不算是无敌存在，这也成为它的心结。
+{KEYWORD}Verwendung: {STAT}Kann Shuriken über Linien hinweg einsetzen, um Zombies innerhalb der Reichweite des Bogenangriffs Schaden zuzufügen.
+
+{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanze
+{FLAVOR} Er wird seit seiner Kindheit im traditionellen Ninjutsu ausgebildet. In der Ninja-Welt gilt er als Genie, das nur einmal in tausend Jahren auftaucht. Er beherrscht verschiedene Ninjutsu und wurde vom Ninja-Kaiser persönlich zum nächsten Nachfolger ernannt. Er ist jedoch nicht glücklich, weil er einmal gegen Caiwen verloren hat. Er glaubt, nicht unbesiegbar zu sein, solange er Caiwen nicht besiegt, was zu seinem Herzensknoten geworden ist.
 
 [EGGPLANTNINJA_DESCRIPTION_HEADER]
-可以跨行使用手里剑对弧度攻击范围内僵尸造成伤害。
+Kann Shuriken über Linien hinweg einsetzen, um Zombies innerhalb der Reichweite des Bogenangriffs Schaden zuzufügen.
 
 [EGGPLANTNINJA_TOOLTIP]
-投出手里剑，可以对目标造成二次伤害。
+Werfen von Shuriken kann dem Ziel Sekundärschaden zufügen.
 
 [EGGPLANTNINJA_SKILL_LEVEL1]
-爆破飞镖
+Explosive Pfeile
 
 [EGGPLANTNINJA_SKILL_LEVEL1_DES]
-有10%概率对一格范围内僵尸造成伤害。
+10 % Chance, Zombies innerhalb eines Rasters Schaden zuzufügen.
 
 [EGGPLANTNINJA_SKILL_LEVEL2]
-神爆飞镖
+Explosive Pfeile
 
 [EGGPLANTNINJA_SKILL_LEVEL2_DES]
-提升爆破手里剑效果100%。
+Erhöht die Wirkung explosiver Shuriken um 100 %.
 
 [STORE_PRODUCT_AVATAR_EGGPLANTNINJA_TITLE]
-暗影忍者装扮
+Schattenninja-Kostüm
 
 [STORE_PRODUCT_AVATAR_EGGPLANTNINJA]
-大招对僵尸造成1秒麻痹效果。
+Ultimativer Move lähmt Zombies 1 Sekunde lang.
 
 [EGGPLANTNINJA_SKILL_LEVEL5]
-旋风飞镖
+Wirbelsturmpfeile
 
 [EGGPLANTNINJA_SKILL_LEVEL5_DES]
-有概率释放旋风手里剑形成龙卷风把僵尸卷出场外。
+Es besteht die Möglichkeit, Wirbelsturm-Shuriken abzufeuern, um einen Tornado zu bilden und Zombies aus dem Feld zu rollen.
 
 [WAXGOURD]
-冬瓜守卫
+Wintermelonenwächter
 
 [WAXGOURD_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 冬瓜站在那个关键的位置已经很久了。数不清的僵尸都跃跃欲试，想要让他动一动，让一下道，啊~~~声音越来越小，徘徊在天际。
+{KEYWORD} Pflanzenmerkmale: {STAT} Grüne Pflanzen
+{FLAVOR} Die Wintermelone steht schon lange an dieser Schlüsselposition. Unzählige Zombies wollen sie unbedingt vertreiben und wollen, dass sie sich bewegt und Platz macht. Ah~~~ Das Geräusch wird immer leiser und verweilt am Himmel.
 [WAXGOURD_DESCRIPTION_HEADER]
-压住僵尸和像圆环的机关地块、发怒时会震飞小范围的僵尸
+Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
 
 [WAXGOURD_TOOLTIP]
-压住僵尸和像圆环的机关地块、发怒时会震飞小范围的僵尸
+Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
 
 [WAXGOURD_PRODUCT_SHORT_DESC]
-压住僵尸和像圆环的机关地块、发怒时会震飞小范围的僵尸
+Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
 
 [WAXGOURD_AVATAR_NAME]
-压住僵尸和像圆环的机关地块、发怒时会震飞小范围的僵尸
+Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
 
 [STORE_PRODUCT_AVATAR_WAXGOURD]
-大招落地后会附加额外的伤害。
+Die ultimative Fähigkeit fügt nach der Landung zusätzlichen Schaden hinzu.
 
 [STORE_PRODUCT_AVATAR_WAXGOURD_TITLE]
-冬瓜装扮
+Wintermelonen-Kostüm
 
 [WAXGOURD_SKILL_LEVEL1]
-愤怒本能
+Wutinstinkt
 
 [WAXGOURD_SKILL_LEVEL1_DES]
-冬瓜被攻击时直接触发起跳，落地后震飞自身格和前方一格的所有僵尸（内置CD20s）
+Bei einem Angriff springt die Wintermelone sofort hoch. Nach der Landung stößt sie alle Zombies in ihrem eigenen und dem davorliegenden Raster weg (eingebaute Abklingzeit: 20 Sekunden).
 
 [WAXGOURD_SKILL_LEVEL2]
-怒气冲冲
+Wutanfall
 
 [WAXGOURD_SKILL_LEVEL2_DES]
-减少2阶技能CD  10S
+Reduziert die Abklingzeit der Fertigkeit Stufe 2 um 10 Sekunden.
 
 [WAXGOURD_SKILL_LEVEL5]
-怒火中烧
+Brennend vor Wut
 
 [WAXGOURD_SKILL_LEVEL5_DES]
-冬瓜释放主动蓄力，在僵尸靠近前方一格时，会立刻起跳，落地后震飞所有僵尸，僵尸落地后将受到一次伤害
+Die Wintermelone setzt eine aktive Ladung frei. Nähern sich Zombies dem davorliegenden Raster, springt sie sofort hoch. Nach der Landung werden alle Zombies weggestoßen. Zombies werden nach der Landung einmal beschädigt
 
-[BEARBERRY]
-熊果臼炮
+[BÄRENTRAUBE]
+Bärentraubenmörser
 
-[BEARBERRY_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}红色植物
-{FLAVOR} 熊果臼炮从未上过前线。这不，刚刚的一次质检，因为他的卡膛、滑膛等问题又被打上了质量不合格的标签。
+[BÄRENTRAUBE_BESCHREIBUNG]
+{KEYWORD} Pflanzenmerkmale: {STAT} Rote Pflanze
+{FLAVOR} Der Bärentraubenmörser wurde nie an vorderster Front eingesetzt. Erst kürzlich wurde er bei einer Qualitätsprüfung aufgrund von Mängeln wie der Laufsohle und der glatten Laufsohle als ungeeignet eingestuft.
 [BEARBERRY_DESCRIPTION_HEADER]
-发射滚动的熊果炮弹攻击一行的僵尸
+Schießt rollende Bärentraubengranaten ab, um eine Reihe von Zombies anzugreifen.
 
 [BEARBERRY_TOOLTIP]
-发射滚动的熊果炮弹攻击一行的僵尸
+Schießt rollende Bärentraubengranaten ab, um eine Reihe von Zombies anzugreifen.
 
 [BEARBERRY_PRODUCT_SHORT_DESC]
-发射滚动的熊果炮弹攻击一行的僵尸
+Schießt rollende Bärentraubengranaten ab, um eine Reihe von Zombies anzugreifen.
 
 [BEARBERRY_AVATAR_NAME]
-发射滚动的熊果炮弹攻击一行的僵尸
+Schießt rollende Bärentraubengranaten ab, um eine Reihe von Zombies anzugreifen.
 
 [STORE_PRODUCT_AVATAR_BEARBERRY]
-大招变为附带火焰的熊果炮弹，造成更高的伤害
+Die ultimative Fähigkeit ist eine Bärentraubengranatengranat mit Feuer, die höheren Schaden verursacht.
 
 [STORE_PRODUCT_AVATAR_BEARBERRY_TITLE]
-熊果臼炮装扮
+Bearberry-Mörser-Kit-Spiel
 
 [BEARBERRY_SKILL_LEVEL1]
-卡膛双发
+Doppelschuss-Stau
 
 [BEARBERRY_SKILL_LEVEL1_DES]
-有10%几率一次打出两发炮弹，一发在脚下滚动，一发飞行两格后掉落，然后再滚动
+10 % Chance, zwei Granaten gleichzeitig abzufeuern, eine rollt unter Füße, einer fliegt zwei Felder weit, fällt dann und rollt wieder ab.
 
 [BEARBERRY_SKILL_LEVEL2]
-又卡膛了
+Er blockiert erneut.
 
 [BEARBERRY_SKILL_LEVEL2_DES]
-提升卡膛双发效果10%
+Erhöht den Blockiereffekt von Doppelschüssen um 10 %.
 
 [BEARBERRY_SKILL_LEVEL5]
-黄金炮弹
+Goldene Hülle
 
 [BEARBERRY_SKILL_LEVEL5_DES]
-有概率射出巨大的黄金熊果炮弹，黄金炮弹攻击沿途中的所有僵尸，并且击退中小型僵尸一小格
+Es besteht die Chance, eine riesige goldene Bärentraubenhülle abzufeuern, die alle Zombies auf dem Weg angreift und kleine und mittlere Zombies ein Feld weit zurückstößt.
 
 [ELECTRICITEA]
 Elektrizi-Teeblatt
@@ -38833,45 +38842,44 @@ Glück
 Es besteht die Chance, einen verstärkten Edelstein zu versprühen. Der Schaden von verstärkten Edelsteinen ist doppelt so hoch wie der von normalen Edelsteinen. Nachdem die verstärkten Edelsteine versprüht wurden, haben die nächsten beiden Angriffe Spezialeffekte: Sie lösen definitiv Level 3 aus.
 
 [EGRETFLOWER]
-白鹭花战机
 
 [EGRETFLOWER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}白色植物
-{FLAVOR} 白鹭花是个孤傲的角色，你永远看不到他的笑容。当然你也可以理解他是在装酷，因为事实上他确实在装酷。
+{KEYWORD} Pflanzenmerkmale: {STAT} Weiße Pflanze
+{FLAVOR} Die Reiherblume ist ein einsamer und arroganter Charakter, den man nie lächeln sieht. Natürlich kann man auch verstehen, dass sie vorgibt, cool zu sein, denn tatsächlich tut sie es.
 [EGRETFLOWER_DESCRIPTION_HEADER]
-导弹攻击，击中僵尸造成眩晕
+Raketenangriff: Triff die Zombies, um Schwindel zu verursachen.
 [EGRETFLOWER_TOOLTIP]
-导弹攻击，击中僵尸造成眩晕
+Raketenangriff: Triff die Zombies, um Schwindel zu verursachen.
 
 [EGRETFLOWER_PRODUCT_SHORT_DESC]
-导弹攻击，击中僵尸造成眩晕
+Raketenangriff: Triff die Zombies, um Schwindel zu verursachen.
 
 [EGRETFLOWER_AVATAR_NAME]
-导弹攻击，击中僵尸造成眩晕
+Raketenangriff: Triff die Zombies, um Schwindel zu verursachen.
 
 [STORE_PRODUCT_AVATAR_EGRETFLOWER]
-可以呼叫空中支援，对轰炸区造成伤害并眩晕
+Kann Luftunterstützung anfordern, Schaden im Bombengebiet verursachen und betäuben.
 
 [STORE_PRODUCT_AVATAR_EGRETFLOWER_TITLE]
-白鹭花战机装扮
+Reiherblumen-Kämpfer-Outfit =Spielen
 
 [EGRETFLOWER_SKILL_LEVEL1]
-飞行联队
+Fliegende Staffel
 
 [EGRETFLOWER_SKILL_LEVEL1_DES]
-场上每多一个白鹭花伤害提升10%，最多提升30%
+Für jede zusätzliche Reiherblume auf dem Feld, der Schaden erhöht sich um 10 % bis maximal 30 %.
 
 [EGRETFLOWER_SKILL_LEVEL2]
-快速装填
+Schnelles Nachladen
 
 [EGRETFLOWER_SKILL_LEVEL2_DES]
-减少一定导弹装填时间
+Reduziert die Nachladezeit bestimmter Raketen.
 
 [EGRETFLOWER_SKILL_LEVEL5]
-装备改造
+Ausrüstungsmodifikation
 
 [EGRETFLOWER_SKILL_LEVEL5_DES]
-普通攻击的攻击距离从自身前方4格变为一条直线，同时对前方第一个僵尸所在的格子造成群体伤害
+Die Angriffsdistanz des normalen Angriffs ändert sich von vier Feldern vor dem Spieler zu einer geraden Linie und verursacht gleichzeitig Gruppenschaden auf dem Feld, auf dem sich der erste Zombie vor ihm befindet.
 
 [GUMNUT]
 Gumminuss
@@ -38962,31 +38970,31 @@ Nach der Explosion der dreistufigen Erdbeerbombe der Explosiven Erdbeere bleibt 
 毒液豌豆射手能减速僵尸，并具备毒系伤害
 
 [POISONPEASHOOTER_AVATAR_NAME]
-毒液豌豆射手能减速僵尸，并具备毒系伤害
+Der Gifterbsenwerfer kann Zombies verlangsamen und verursacht Giftschaden.
 
 [STORE_PRODUCT_AVATAR_POISONPEASHOOTER]
-毒液豌豆射手的毒球形成的毒道会沸腾，造成更高的伤害
+Der Giftkanal, der durch die Giftkugel des Gifterbsenwerfers gebildet wird, kocht und verursacht höheren Schaden.
 
 [STORE_PRODUCT_AVATAR_POISONPEASHOOTER_TITLE]
-毒液豌豆装扮
+Gifterbsenkostüm
 
 [POISONPEASHOOTER_SKILL_LEVEL1]
-用毒高手
+Giftmeister einsetzen
 
 [POISONPEASHOOTER_SKILL_LEVEL1_DES]
-僵尸被毒液豌豆击中五次，毒伤害叠加爆开一次，造成较高伤害，之后重新叠加
+Wenn ein Zombie fünfmal von Gifterbsen getroffen wird, wird der Giftschaden gestapelt und einmal explodiert, was höheren Schaden verursacht. Anschließend wird er erneut gestapelt.
 
 [POISONPEASHOOTER_SKILL_LEVEL2]
-宗师毒术
+Giftmeister
 
 [POISONPEASHOOTER_SKILL_LEVEL2_DES]
-只需击中三次，毒伤害即可爆开一次
+Nur drei Treffer genügen, damit der Giftschaden explodiert.
 
 [POISONPEASHOOTER_SKILL_LEVEL5]
-毒液连弹 
+Gift-Kombo
 
 [POISONPEASHOOTER_SKILL_LEVEL5_DES]
-有概率发射豌豆连弹，对直线上范围敌人造成伤害
+Es besteht die Chance, Erbsen-Kombos abzufeuern, die Gegnern in gerader Linie Schaden zufügen.
 
 [JACKOLANTERN]
 Kürbislaterne
@@ -39082,92 +39090,89 @@ Feind niederstrecken
 Beim Angriff werden alle Zombies im Umkreis von zwei Feldern vor dem Angriff provoziert, wodurch der Schaden um 60% erhöht wird.
 
 [CTHULHUACTINIA]
-深渊海葵
+Abyssische Anemone
 
 [CTHULHUACTINIA_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}紫色植物
-{FLAVOR}没人知道它们从何而来，也没人知道它们身为何物，听到它们喃喃低语的僵尸，最后都发了疯
+{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen
+{FLAVOR}Niemand weiß, woher sie kommen, und niemand weiß, was sie sind. Die Zombies, die ihr Gemurmel hörten, drehten durch.
 
 [CTHULHUACTINIA_DESCRIPTION_HEADER]
-深渊海葵将僵尸抓入地底进行吸收，为裂缝提供充能
+Abyssische Anemonen schnappen Zombies und absorbieren sie unter der Erde, um Energie für die Risse zu erzeugen.
 
 [CTHULHUACTINIA_TOOLTIP]
-深渊海葵将僵尸抓入地底进行吸收，为裂缝提供充能
+Die abyssische Seeanemone schnappt sich die Zombies unter der Erde und absorbiert sie, um Energie für die Risse zu erzeugen.
 
 [CTHULHUACTINIA_PRODUCT_SHORT_DESC]
-深渊海葵将僵尸抓入地底进行吸收，为裂缝提供充能
+Die abyssische Seeanemone schnappt sich die Zombies unter der Erde und absorbiert sie, um Energie für die Risse zu erzeugen.
 
 [CTHULHUACTINIA_AVATAR_NAME]
-深渊海葵将僵尸抓入地底进行吸收，为裂缝提供充能
+Die abyssische Seeanemone schnappt sich die Zombies unter der Erde und absorbiert sie, um Energie für die Risse zu erzeugen.
 
-[STORE_PRODUCT_AVATAR_CTHULHUACTINIA]
-触手对未被抓取的僵尸造成伤害并击退
+[STORE_PRODUCT_AVATAR_CTHUL HUACTINIA]
+Tentakel verursachen Schaden und stoßen Zombies ab, die nicht gepackt
 
 [STORE_PRODUCT_AVATAR_CTHULHUACTINIA_TITLE]
-深渊海葵装扮
+Abyssische Anemonen-Kostüm
 
 [CTHULHUACTINIA_SKILL_LEVEL1]
-快速吸收
+Schnelle Absorption
 
 [CTHULHUACTINIA_SKILL_LEVEL1_DES]
-消化时间减少至15秒，消化结束后花苞进入开放状态
+Die Verdauungszeit wird auf 15 Sekunden reduziert, und die Knospe öffnet sich nach Abschluss der Verdauung.
 
-[CTHULHUACTINIA_SKILL_LEVEL2]
-高速吸收
+[CTHULHUACTINIA NIA_SKILL_LEVEL2]
+Hochgeschwindigkeitsabsorption
 
 [CTHULHUACTINIA_SKILL_LEVEL2_DES]
-消化时间减少至10秒，消化结束后花苞进入开放状态
+Die Verdauungszeit wird auf 10 Sekunden reduziert, und die Knospe öffnet sich nach Abschluss der Verdauung.
 
 [CTHULHUACTINIA_SKILL_LEVEL5]
-奇异光线
+Seltsames Licht
 
 [CTHULHUACTINIA_SKILL_LEVEL5_DES]
-花苞射出光线对僵尸造成伤害，将接触到的第一个中小体型僵尸变为我方的僧侣僵尸
-
+Die Knospe verschießt Licht, um Zombies zu verletzen, und verwandelt den ersten kleinen oder mittelgroßen Zombie, den sie berührt, in ein freundlicher Mönch-Zombie
 
 [DEVILSFLOWER]
-深渊魔爪花
 
 [DEVILSFLOWER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}紫色植物，成长
-{FLAVOR}没有人知道它从何而来，但是每个接触的僵尸都会被吸成干尸，现在没有僵尸再好奇了
+{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanze, wächst
+{FLAVOR}Niemand weiß, woher sie kommt, aber jeder Zombie, der mit ihr in Berührung kommt, wird von einer Mumie gesaugt. Jetzt sind keine Zombies mehr neugierig.
 
 [DEVILSFLOWER_DESCRIPTION_HEADER]
-魔爪花可以差遣深渊使徒抱住僵尸进行攻击并吸取能量
+Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
 
 [DEVILSFLOWER_TOOLTIP]
-魔爪花可以差遣深渊使徒抱住僵尸进行攻击并吸取能量
+Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
 
 [DEVILSFLOWER_PRODUCT_SHORT_DESC]
-魔爪花可以差遣深渊使徒抱住僵尸进行攻击并吸取能量
+Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
 
 [DEVILSFLOWER_AVATAR_NAME]
-魔爪花可以差遣深渊使徒抱住僵尸进行攻击并吸取能量
+Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
 
-
-[STORE_PRODUCT_AVATAR_DEVILSFLOWER_TITLE]
-深渊魔爪花装扮
+[STORE_PRODUCT_AVATAR_DEVIL SFLOWER_TITLE]
+Abgrund-Klauenblumenkostüm
 
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER]
-大招召唤的使徒巨人僵尸进化为使徒首领巨人僵尸，攻击时有概率吐出酸液
+Der Apostel-Riesenzombie, beschworen durch die ultimative Die Fähigkeit entwickelt sich zum Apostelführer-Riesenzombie und kann beim Angriff Säure spucken.
 
 [DEVILSFLOWER_SKILL_LEVEL1]
-虚空开裂
+Leerenriss
 
 [DEVILSFLOWER_SKILL_LEVEL1_DES]
-左上角奇怪的裂缝完全裂开所需时间减少至45秒
+Die Zeit, die der seltsame Riss in der oberen linken Ecke benötigt, um vollständig aufzubrechen, wird auf 45 Sekunden reduziert.
 
 [DEVILSFLOWER_SKILL_LEVEL2]
-虚空崩塌
+Leerenkollaps
 
 [DEVILSFLOWER_SKILL_LEVEL2_DES]
-左上角奇怪的裂缝完全裂开所需时间减少至30秒
+Die Zeit, die der seltsame Riss in der oberen linken Ecke benötigt, um vollständig aufzubrechen, wird auf 30 Sekunden reduziert.
 
 [DEVILSFLOWER_SKILL_LEVEL5]
-使徒进化
+Apostel-Evolution
 
 [DEVILSFLOWER_SKILL_LEVEL5_DES]
-有概率飞出进化后的使徒，对僵尸造成更多伤害，并把僵尸吸干转变为干尸僵尸
+Es besteht die Möglichkeit, dass der weiterentwickelte Apostel herausfliegt, Zombies mehr Schaden zufügt und sie aussaugt, um sie in Mumien-Zombies zu verwandeln.
 
 [GUARDSHROOM]
 Wachpilz
@@ -39393,44 +39398,43 @@ Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hin
 大招召唤的8只大型蜜蜂按照阵列向前飞行3格，对撞到的僵尸造成伤害
 
 [MAYBEE_SKILL_LEVEL1]
-蜜蜂强化
+Bienenverstärkung
 
 [MAYBEE_SKILL_LEVEL1_DES]
-蜜蜂铃兰的攻击距离增加1格，发射出的蜜蜂数量增加1只，蜜蜂的存活时间增加5秒
+Die Angriffsreichweite der Maiglöckchenbiene erhöht sich um 1 Gitter, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_SKILL_LEVEL2]
-蜜蜂超限
+Bienen über Limit
 
 [MAYBEE_SKILL_LEVEL2_DES]
-蜜蜂铃兰的攻击距离再次增加1格，发射出的蜜蜂数量再次增加1只，蜜蜂的存活时间再次增加5秒
+Die Angriffsreichweite der Maiglöckchenbiene erhöht sich erneut um 1 Gitter, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_SKILL_LEVEL5]
-离子召唤
+Ionenbeschwörung
 
 [MAYBEE_SKILL_LEVEL5_DES]
-蜜蜂铃兰召唤出的蜜蜂有概率进行离子化，发射激光进行攻击
+Die von der Maiglöckchenbiene beschworenen Bienen können ionisieren und Laser abfeuern, um anzugreifen.
 
 [MAYBEE_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在蜜蜂铃兰右侧3格时，将发射出2只蜜蜂对僵尸造成持续伤害，蜜蜂的存活时间为10秒，当目标僵尸被击败后，蜜蜂将会寻找自身3*3格范围的僵尸进行攻击。蜜蜂在经过电系植物时，将获得强化，攻击变为原来的1.5倍
+Wenn Ein Zombie erscheint drei Felder rechts von der Maiglöckchenbiene. Zwei Bienen werden abgefeuert, um dem Zombie kontinuierlichen Schaden zuzufügen. Die Überlebenszeit der Biene beträgt 10 Sekunden. Sobald der Zielzombiene besiegt ist, sucht die Biene in ihrem eigenen 3x3 Felder großen Umkreis nach Zombies, um sie anzugreifen. Beim Durchqueren von Kraftwerken werden die Bienen gestärkt und ihre Angriffskraft um das 1,5-fache erhöht.
 
 [MAYBEE_NEW_SKILL_LEVEL2_DES]
-蜜蜂铃兰的攻击距离增加1格，发射出的蜜蜂数量增加1只，蜜蜂的存活时间增加5秒
+Die Angriffsreichweite der Maiglöckchenbiene erhöht sich um 1 Raster, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_NEW_SKILL_LEVEL3_DES]
-蜜蜂铃兰的攻击距离再次增加1格，发射出的蜜蜂数量再次增加1只，蜜蜂的存活时间再次增加5秒
+Die Angriffsreichweite der Maiglöckchenbiene erhöht sich erneut um 1 Raster, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Energiebohnen direkt freizusetzen!
 
 [MAYBEE_NEW_SKILL_LEVEL5_DES]
-蜜蜂铃兰发射出的蜜蜂有25%的概率进行离子化，普通蜜蜂在经过电系植物时有70%进行离子化。离子化蜜蜂的攻击方式变为发射小型激光，在攻击到僵尸时，可对僵尸施加静电效果。若处于静电效果下的僵尸在受到闪电伤害时，将会触发静电打击效果，额外造成120点固定伤害并^ff9600^麻痹Ⅰ^oldclr^1秒。静电打击每1秒可触发1次。
+Die von Maiglöckchen-Biene gestarteten Bienen haben eine 25%ige Chance auf Ionisierung, normale Bienen eine 70%ige Chance auf Ionisierung, wenn sie durch Kraftwerke fliegen. Die Angriffsmethode ionisierter Bienen ändert sich zum Abfeuern kleiner Laser. Beim Angriff auf Zombies können sie diese mit statischer Elektrizität beaufschlagen. Wird ein Zombie unter statischer Elektrizität durch Blitzschlag beschädigt, wird der statische Elektrizitätsangriff ausgelöst, der zusätzlich 120 festen Schaden und ^ff9600^ Lähmung Ⅰ^oldclr^ für 1 Sekunde verursacht. Der statische Elektrizitätsangriff kann einmal pro Sekunde ausgelöst werden.
 
 [MAYBEE_PLANTFOOD_DESCRIPTION]
-蜜蜂铃兰连续发射出8只大型蜜蜂，大型蜜蜂可全场追踪僵尸，并对攻击的僵尸造成^ff9600^麻痹Ⅰ^oldclr^效果，大型蜜蜂的存活时间为20秒
+Die Maiglöckchenbiene schleudert kontinuierlich acht große Bienen ins All, die Zombies über das gesamte Feld verfolgen und die angegriffenen Zombies mit ^ff9600^ Lähmung Ⅰ^oldclr^ lähmen können. Die Überlebenszeit der großen Bienen beträgt 20 Sekunden.
 
 [MAYBEE_AVATAR_PLANTFOOD_DESCRIPTION]
-蜜蜂铃兰发射出的8只大型蜜蜂^ff0000^将按照阵列向前飞行3格距离，期间撞到的僵尸将受到伤害^oldclr^，大型蜜蜂可全场追踪僵尸，并对攻击的僵尸造成^ff9600^麻痹Ⅰ^oldclr^效果，大型蜜蜂的存活时间为20秒
-
+Die acht großen Bienen, die von der Maiglöckchenbiene^ff0000^ ins All geschickt werden, fliegen drei Felder in einer Reihe vorwärts und erleiden dabei Schaden^oldclr^. Die großen Bienen können Zombies über das gesamte Feld verfolgen und die angegriffenen Zombies mit ^ff9600^ Lähmung Ⅰ^oldclr^ lähmen. Die Überlebenszeit der großen Bienen beträgt 20 Sekunden.
 
 [RAPEFLOWER]
 Rapsblumenkrug
@@ -39583,52 +39587,54 @@ Dracaena striata lässt Zehntausend Schwerter los, die zum Ursprung zurückkehre
 攻防一体，使用手中的长矛攻击僵尸，盾牌破碎后伤害提高。
 
 [SPARTANBAMBOO_SKILL_LEVEL1]
-战斗狂人
+Kampfwahnsinniger
 
 [SPARTANBAMBOO_SKILL_LEVEL1_DES]
-斯巴达竹击杀僵尸后进入狂暴状态，攻击间隔降低，持续一定时间。植物种植冷却降低。
+Nachdem Spartabambus einen Zombie getötet hat, verfällt er in Raserei. Das Angriffsintervall wird für eine bestimmte Zeit verkürzt. Die Abklingzeit für das Pflanzen wird verkürzt.
 
 [SPARTANBAMBOO_SKILL_LEVEL2]
-彻底疯狂
+Völlig verrückt
 
 [SPARTANBAMBOO_SKILL_LEVEL2_DES]
-狂暴状态，攻击间隔再次降低， 持续时间延长，植物种植冷却降低。
+Im Rasereizustand wird das Angriffsintervall erneut verkürzt, die Dauer verlängert und die Abklingzeit für das Pflanzen verkürzt.
 
 [SPARTANBAMBOO_SKILL_LEVEL5]
-战阵觉醒
+Erwachen der Kampfformation
 
 [SPARTANBAMBOO_SKILL_LEVEL5_DES]
-斯巴达竹可丢出长矛攻击2格之后的僵尸，若组成战阵则每隔3秒统一丢出长矛，对3*3范围内的僵尸造成伤害。
+Spartabambus kann einen Speer werfen, um Zombies in zwei Feldern Entfernung anzugreifen. Wenn eine Kampfformation gebildet wird, werden die Speere alle 3 Sekunden gleichmäßig geworfen und fügen Zombies im Umkreis von 3 x 3 Schaden zu.
 
 [STORE_PRODUCT_AVATAR_SPARTANBAMBOO_TITLE]
-斯巴达竹装扮
+Spartanisches Bambuskostüm
 
 [SPARTANBAMBOO_AVATAR_NAME]
-斯巴达竹装扮
+Spartanisches Bambuskostüm
 
 [STORE_PRODUCT_AVATAR_SPARTANBAMBOO]
-在冲击波释放完毕后，再次释放一次大范围的巨型冲击波。
+Nach der Schockwelle entfesseln Sie eine weitere riesige Schockwelle.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在植物右侧两格时，使用手上的长矛对僵尸造成伤害，当左手上盾牌被打碎后，造成的伤害将变为3倍。斯巴达竹作为战争机器对障碍物和特定僵尸能够造成巨额伤害。
+Wenn ein Zombie zwei Felder rechts von der Pflanze erscheint, verwenden Sie den Speer in Ihrer Hand, um ihm Schaden zuzufügen. Wenn der Schild an Ihrer linken Hand zerstört wird, verdreifacht sich der Schaden. Als Kampfmaschine kann der Spartanische Bambus Hindernissen und bestimmten Zombies großen Schaden zufügen.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL2_DES]
-当斯巴达竹击杀僵尸后将进入狂暴状态，攻击间隔降低0.25秒，持续2.5秒，而后在2秒内恢复正常，狂暴持续时间内再次击杀僵尸可刷新狂暴持续时间，当盾牌被击碎后也会直接进入狂暴状态。植物的种植冷却时间变为12秒。
+Wenn Sparta einen Zombie tötet, verfällt er in Raserei. Das Angriffsintervall verkürzt sich um 0,25 Sekunden. Es hält 2,5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Das erneute Töten eines Zombies während der Raserei kann die Raserei-Dauer erneuern. Wird der Schild zerstört, verfällt Sparta direkt in Raserei. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 12 Sekunden.
+
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL3_DES]
-狂暴状态下，攻击间隔再次降低0.25秒，持续5秒，而后在2秒内恢复正常，植物的种植冷却时间变为9秒。
+Im Raserei-Zustand verkürzt sich das Angriffsintervall erneut um 0,25 Sekunden. Es hält 5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 9 Sekunden.
+
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招！植物的种植冷却时间变为6秒。
+Beim Pflanzen besteht die Chance, den Energiebohnen-Big-Move direkt freizusetzen! Die Abkühlzeit für das Pflanzen von Pflanzen beträgt 6 Sekunden.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL5_DES]
-斯巴达竹前方2格未有僵尸，2格之外存在僵尸时，抛出长矛对僵尸造成伤害，冷却6秒。当斯巴达竹组成田字格时将形成战阵，战阵内的斯巴达竹生命和攻击力得到提升，投掷长矛变为每6秒释放一次，瞄准战阵前方2行范围内僵尸最多的一格，对目标3*3范围造成多段伤害，段数与植物的攻击间隔相关。植物的种植冷却时间变为3秒。
+Wenn sich in den beiden Feldern vor dem Spartanischen Bambus keine Zombies befinden und sich zwei Felder entfernt Zombies befinden, wirf den Speer, um den Zombies Schaden zuzufügen. Die Abkühlzeit beträgt 6 Sekunden. Sobald der Spartanische Bambus ein quadratisches Gitter bildet, wird eine Kampfformation gebildet. Die Lebenspunkte und Angriffskraft des Spartanischen Bambus in der Kampfformation werden verbessert. Der Speerwurf wird alle 6 Sekunden abgefeuert und zielt auf das Feld mit den meisten Zombies in den beiden Reihen vor der Kampfformation. Er verursacht mehrfachen Schaden im Zielbereich von 3 x 3. Die Anzahl der Segmente hängt vom Angriffsintervall der Pflanze ab. Die Abkühlzeit für das Pflanzen von Pflanzen beträgt nun 3 Sekunden.
 
 [SPARTANBAMBOO_PLANTFOOD_DESCRIPTION]
-斯巴达竹对所在行以及上下2行，2格长度范围发出冲击波，对僵尸造成伤害以及击退1格，冲击波释放的次数随植物阶数增加。
+Der Spartanische Bambus sendet Schockwellen in die Reihe und die beiden Reihen darüber und darunter mit einer Reichweite von zwei Feldern. Diese verursachen Zombies Schaden und stoßen ein Feld zurück. Die Anzahl der freigesetzten Schockwellen steigt mit dem Pflanzenlevel.
 
 [SPARTANBAMBOO_AVATAR_PLANTFOOD_DESCRIPTION]
-斯巴达竹对所在行以及上下2行，2格长度范围发出冲击波，对僵尸造成伤害以及击退1格，冲击波释放的次数随植物阶数增加。^ff0000^冲击波释放完毕后，再次释放一次巨型冲击波，影响范围变为上下5行，2格长度。^oldclr^
+Der Spartanische Bambus sendet Schockwellen in die Reihe, in der er sich befindet, und die beiden Reihen darüber und darunter mit einer Reichweite von zwei Feldern. Diese verursachen Zombies Schaden und stoßen sie ein Feld zurück. Die Anzahl der freigesetzten Schockwellen steigt mit dem Pflanzenlevel. ^ff0000^Nach der Schockwelle wird eine weitere riesige Schockwelle freigesetzt. Die Reichweite beträgt fünf Reihen darüber und darunter mit einer Länge von zwei Feldern. ^oldclr^
 
 [SHINEVINE] 
 Schein-Ranke
@@ -54018,16 +54024,16 @@ Limitiertes Porträt mit allen Sternen:
 Belohnung erhalten
 
 [ZOMBOSS_GRAND_PRIZE_LABEL]
-获胜奖励
+Gewinnprämien
 
 [ZOMBOSS_GRAND_PRIZE_NOTHING]
-僵尸博士大奖:\n绝对没有！ 请享用！
+Zombie-Hauptpreis: Absolut nichts! Viel Spaß!
 
 [ZOMBOSS_GRAND_PRIZE_SUNFLOWER]
-僵尸博士大奖:\n向日葵植物！
+Zombie-Hauptpreis: Sonnenblumenpflanze!
 
 [PACKET_TYPE_MYSTERY]
-兑换商店限时奖励：
+Shop-Prämien für begrenzte Zeit einlösen:
 
 [STORE_CATEGORY_NAME_NEWRECALL_BANK]
 
@@ -54086,7 +54092,7 @@ Bonusziel
 1
 
 [JOUST_COUNTDOWN_10]
-剩余10秒!
+Noch 10 Sekunden!
 
 [JOUST_COUNTDOWN_2]
 2
@@ -54095,105 +54101,103 @@ Bonusziel
 3
 
 [JOUST_COUNTDOWN_30]
-剩余30秒!
-
+Noch 30 Sekunden!
 
 [RIFT_PLAYER_BANK_TITLE]
-当前积分
+Aktueller Punktestand
 
 [RIFT_PLAYER_BANK_SCORE]
 {NUMBER}
 
 [RIFT_PLAYER_BANK_RANK]
-暂列第{NUMBER}位
+Rang {NUMBER}
 
 [RIFT_NOT_ENOUGH_FUEL_TITLE]
-能量不足
+Nicht genügend Energie
 
 [RIFT_NOT_ENOUGH_FUEL_TEXT]
-能量不足，无法开始游戏
+Nicht genügend Energie, Spiel kann nicht gestartet werden
 
 [ADD_PERK_LABEL]
-添加
-增益
+Buff hinzufügen
 
 [BACK_BUTTON]
 Zurück
 
 [RIFT_PERK_SELECTION_BACK_BUTTON]
-关卡目标
+Levelziel
 
 [RIFT_LEADERBOARD_LEAGUE_STR]
-晋级
+Aufsteigen
 
 [RIFT_LEADERBOARD_KEEP]
-保持不变
+Unverändert bleiben
 
-[RIFT_LEADERBOARD_HEADER]
-积分排行榜
+[RIFT_LEADER BOARD_HEADER]
+Ranglisten
 
 [RIFT_LEADERBOARD_WEEKLY_REWARD_HEADER]
-本周可获得
+Diese Woche verfügbar
 
 [RIFT_LEADERBOARD_SEASON_REWARD_HEADER]
-奖励预览
+Belohnungsvorschau
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL1]
-当前段位
+Aktueller Rang
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL2]
-下级段位
+Niedrigerer Rang
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL3]
-下下级段位
+Niedrigerer Rang
 
 [RIFT_LEGEND_LABEL]
-达到{NUMBER}分
+Erreiche {NUMBER} Punkte
 
 [RIFT_WORLD_TITLE]
-剩余时间:
+Verbleibende Zeit:
 
 [RIFT_WORLD_THEME_TITLE]
-本期主题：
+Thema dieser Ausgabe:
 
 [RIFT_WORLD_THEME_TITLE_LEFT_TIME]
-(剩余时间: {DURATION})
+(Verbleibende Zeit: {DURATION})
 
 [THEME_PROJECTILE_NAME]
-飞行类子弹会被所有僵尸弹飞
+Fliegende Kugeln werden von allen Zombies abgelenkt.
 
 [THEME_PROJECTILE_DESCRIPTION]
-飞行类子弹会被所有僵尸弹飞
+Fliegende Kugeln werden von allen Zombies abgelenkt.
 
 [THEME_NUKE_NAME]
-防御类植物会变得脆弱
+Verteidigungspflanzen werden zerbrechlich.
 
 [THEME_NUKE_DESCRIPTION]
-防御类植物会变得脆弱，生命只有原来的1/3
+Verteidigungspflanzen werden zerbrechlich und haben nur noch ein Drittel ihrer ursprünglichen Lebensdauer.
 
 [THEME_EXPLODER_NAME]
-僵尸死亡后会自爆产生一次伤害
+Zombies explodieren nach ihrem Tod und verursachen Schaden.
 
-[THEME_EXPLODER_DESCRIPTION]
-僵尸死亡后会自爆产生一次伤害
+[THEME_EXPLODER_DESCRIPTIO N]
+Zombies explodieren nach ihrem Tod und verursachen Schaden.
 
 [THEME_KO_NAME]
-近战植物无法使用能量豆大招
+Nahkampfpflanzen können keine Energiebohnen-Fähigkeiten einsetzen.
 
 [THEME_KO_DESCRIPTION]
-近战植物无法使用能量豆大招
+Nahkampfpflanzen können keine Energiebohnen-Fähigkeiten einsetzen.
 
 [THEME_GRAVITY_NAME]
-抛投类植物射程变短
+Die Reichweite von Wurfpflanzen beträgt Verkürzt
 
 [THEME_GRAVITY_DESCRIPTION]
-抛投类植物射程变短
+Die Reichweite von Wurfpflanzen ist verringert.
 
 [THEME_ZOMBIE_NAME]
-关卡中的普通僵尸会戴上防具武装
+Gewöhnliche Zombies im Level tragen Rüstung.
 
 [THEME_ZOMBIE_DESCRIPTION]
-关卡中没有防具的普通僵尸，会戴上防具
+Gewöhnliche Zombies ohne Rüstung im Level tragen Rüstung.
 
 [THEME_RIFT_NAME]
 Zombies beschleunigen und blockieren Pflanzen.
@@ -77304,217 +77308,217 @@ Erhältlich bei verschiedenen Lageraktivitäten
 各种令营活动中获取
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT1]
-紫色植物碎片6片自选
+6 violette Pflanzenfragmente deiner Wahl
 [MAT_BATTLE_ORDER_PURPLE_PLANT1_USE]
-使用可自选奖励并获得
+Nutze die Belohnungen deiner Wahl und erhalte sie.
 [MAT_BATTLE_ORDER_PURPLE_PLANT1_GOT_WAY]
-各种令营活动中获取
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT2]
-紫色植物碎片3片自选
+3 violette Pflanzenfragmente deiner Wahl
 [MAT_BATTLE_ORDER_PURPLE_PLANT2_USE]
-使用可自选奖励并获得
+Nutze die Belohnungen deiner Wahl und erhalte sie.
 [MAT_BATTLE_ORDER_PURPLE_PLANT2_GOT_WAY]
-各种令营活动中获取
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT3]
-紫色植物碎片9片自选
+9 violette Pflanzenfragmente deiner Wahl
 [MAT_BATTLE_ORDER_PURPLE_PLANT3_USE]
-使用可自选奖励并获得
+Nutze die Belohnungen deiner Wahl und Erhalte
 [MAT_BATTLE_ORDER_PURPLE_PLANT3_GOT_WAY]
-各种令营活动中获取
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT0]
-橙色植物碎片1片自选
+1 orangefarbenes Pflanzenfragment deiner Wahl
 [MAT_BATTLE_ORDER_ORANGE_PLANT0_USE]
-使用可自选奖励并获得
-[MAT_BATTLE_ORDER_ORANGE_PLANT0_GOT_WAY]
-各种令营活动中获取
+Nutze die Belohnungen deiner Wahl und erhalte
+[MAT_BATTLE_ORANGE_PLANT0_GOT_WAY]
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT1]
-橙色植物碎片3片自选
-[MAT_BATTLE_ORDER_ORANGE_PLANT1_USE]
-使用可自选奖励并获得
+3 orangefarbene Pflanzenfragmente deiner Wahl
+[MAT_BATTLE_ORDER_ORANGE_PLANT1] E_PLANT1_USE]
+Nutze die optionale Belohnung und erhalte
 [MAT_BATTLE_ORDER_ORANGE_PLANT1_GOT_WAY]
-各种令营活动中获取
-    
+Erhältlich bei verschiedenen Lageraktivitäten
+
 [MAT_BATTLE_ORDER_ORANGE_PLANT2]
-主位植物碎片1片自选
+1 Hauptpflanzenfragment von Deine Wahl
 [MAT_BATTLE_ORDER_ORANGE_PLANT2_USE]
-使用可自选奖励并获得
-[MAT_BATTLE_ORDER_ORANGE_PLANT2_GOT_WAY]
-各种令营活动中获取
+Nutze die optionale Belohnung und erhalte
+[MAT_BATTLE_ORANGE_PLANT2_GOT_WAY]
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT3]
-主位植物碎片3片自选
+3 Hauptpflanzenfragmente deiner Wahl
 [MAT_BATTLE_ORDER_ORANGE_PLANT3_USE]
-使用可自选奖励并获得
+Nutze die optionale Belohnung und erhalte
 [MAT_BATTLE_ORDER_ORANGE_PLANT3_GOT_WAY]
-各种令营活动中获取
+Erhältlich bei verschiedenen Lageraktivitäten
 
 [DIALOG_TRAININGMODULE_HEADER]
-游戏异常
+Spielstörung
 [DIALOG_TRAININGMODULE]
-检测异常行为，退出游戏
-
+Erkenne ungewöhnliches Verhalten und beende das Spiel
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC]
-精英冰风酋长僵尸
+Elite-Eiswind-Chef Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eiswind-Chef-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie erheblich reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Gigantische Zombie, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Gigantische Zombie weggeblasen wurde. Nach mehreren Angriffen weiß der Gigantische Zombie nun, wie er gegen den Ventilator kämpfen kann.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1]
-精英冰风酋长僵尸
+Elite-Gigantischer Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Gigantischer Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandsfähigkeit verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandsbalken hat, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte Häuptling Eiswindzombie, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin Häuptling Eiswindzombie weggeblasen wurde. Nachdem Häuptling Eiswindzombie viele Male weggeblasen worden war, lernte er nun, gegen den Ventilator zu kämpfen.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_PHARAOH]
-精英冰风酋长僵尸
+Elite-Oberhaupt des Eiswind-Zombies
 [ZOMBIE_UNIVERSE_UNCHARTED_PHARAOH_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Oberhaupt des Eiswind-Zombies verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandsfähigkeit verringern (Brennangriffe können sie erheblich reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandsbalken hat, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_PHARAOH_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Eiswind-Oberhaupt des Zombies, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Eiswind-Oberhaupt des Zombies weggeblasen wurde. Nach vielen weiteren Angriffen lernte der Eiswind-Oberhaupt des Zombies nun, gegen den Ventilator anzukämpfen.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR]
-精英冰风酋长僵尸
+Elite-Eiswind-Chefzombie
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eiswind-Chefzombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Eiswind-Chefzombie, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Eiswind-Chefzombie weggeblasen wurde. Nachdem er viele Male weggeblasen worden war, lernte der Eiswind-Chefzombie nun, gegen den Ventilator anzukämpfen.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR]
-精英冰风酋长僵尸
+Elite-Oberhaupt Eiswind-Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Oberhaupt Eiswind-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
+
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Oberhaupt Eiswind-Zombie, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Oberhaupt Eiswind-Zombie weggeblasen wurde. Nachdem er viele Male weggeblasen worden war, lernte der Oberhaupt Eiswind-Zombie nun, wie man gegen den Ventilator kämpft.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER]
-精英冰风酋长僵尸
+Elite-Oberhaupt des Eiswind-Zombies
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Oberhaupt des Eiswind-Zombies verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Eiswind-Oberhaupt des Zombies, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Eiswind-Oberhaupt des Zombies weggeblasen wurde. Nach vielen weiteren Angriffen lernte der Eiswind-Oberhaupt des Zombies, wie man gegen den Ventilator ankämpft.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE]
-精英冰风酋长僵尸
+Elite-Eiswind-Oberzombie
 [ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eiswind-Oberzombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Widerstandswert des Zombies erreicht ist, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff stellte der Oberzombie fest, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle einen Ventilator herausnahm und der Oberzombie daraufhin weggeblasen wurde. Nachdem er schon oft weggeblasen wurde, hat Häuptling Eiswind-Zombie nun gelernt, wie man gegen das Ventilatorgerät kämpft.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR]
-精英冰风酋长僵尸
+Elite-Häuptling Eiswind-Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Häuptling Eiswind-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen schwachen Zustand. In diesem Zustand kann sich der Zombie weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Wenn der Zombie einen Widerstandswert hat, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte Häuptling Eiswindzombie, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle ein Ventilatorgerät herausnahm, woraufhin Häuptling Eiswindzombie weggeblasen wurde. Nach vielen weggeblasenen Angriffen lernte Häuptling Eiswindzombie nun, gegen das Ventilatorgerät zu kämpfen.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE]
-精英冰风酋长僵尸
+Elite-Häuptling Eiswindzombie
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
-[ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Elite-Häuptling Eiswindzombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann sich der Zombie weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Wenn der Zombie einen Widerstandswert hat, kann er Schaden begrenzen. [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION]
+Nach einem Routineangriff entdeckte Häuptling Eiswindzombie, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle ein Ventilatorgerät herausnahm und daraufhin weggeblasen wurde. Nach vielen weiteren Angriffen lernte Häuptling Eiswindzombie nun, wie man gegen das Ventilatorgerät kämpft.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_RA]
-精英冰风酋长僵尸
+Elite-Häuptling Eiswindzombie
 [ZOMBIE_UNIVERSE_UNCHARTED_RA_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Elite-Häuptling Eiswindzombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann sich der Zombie weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Wenn der Zombie einen Widerstandswert hat, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_RA_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte Häuptling Eiswindzombie, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle ein Ventilatorgerät herausnahm und daraufhin weggeblasen wurde. Nach vielen weiteren Angriffen lernte Häuptling Eiswindzombie nun, wie man gegen das Ventilatorgerät kämpft.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO]
-精英冰风酋长僵尸
+Elite-Häuptling Eiswindzombie
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Elite-Häuptling Eiswindzombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann sich der Zombie weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Wenn der Zombie einen Widerstandswert hat, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff stellte Häuptling Eiswindzombie fest, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle ein Ventilatorgerät herausnahm und daraufhin weggeblasen wurde. Nach vielen weiteren Angriffen lernte Häuptling Eiswindzombie nun, gegen das Ventilatorgerät zu kämpfen.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_PROSPECTOR]
-精英冰风酋长僵尸
+Elite-Eiswind-Häuptling-Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_PROSPECTOR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eiswind-Häuptling-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_PROSPECTOR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Eiswind-Häuptling-Zombie, dass der Mann mit der Bratpfanne in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Eiswind-Häuptling-Zombie weggeblasen wurde. Nach vielen weiteren Angriffen lernte der Eiswind-Häuptling nun, gegen den Ventilator anzukämpfen.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL]
-精英冰风酋长僵尸
+Elite-Eiswind-Häuptling-Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eiswind-Häuptling-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Eiswind-Häuptling-Zombie, dass der Mann mit der Bratpfanne in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Eiswind-Häuptling-Zombie weggeblasen wurde. Nach vielen weiteren Angriffen lernte der Eiswind-Häuptling nun, gegen den Ventilator anzukämpfen.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN]
-精英冰风酋长僵尸
+Elite-Kältehäuptling-Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Kältehäuptling-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Kältehäuptling-Zombie, dass der Mann mit der Bratpfanne in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Kältehäuptling-Zombie weggeblasen wurde. Nachdem er viele Male weggeblasen worden war, lernte der Kältehäuptling-Zombie nun, wie man gegen den Ventilator ankämpft.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER]
-精英冰风酋长僵尸
+Elite-Eiswind-Häuptling-Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eiswind-Häuptling-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Eiswind-Häuptling-Zombie, dass der Mann mit der Bratpfanne in der gegenüberliegenden Höhle ein Ventilatorgerät herausnahm, woraufhin der Eiswind-Häuptling-Zombie weggeblasen wurde. Nach vielen weiteren Angriffen lernte der Eiswind-Häuptling nun, gegen das Ventilatorgerät anzukämpfen.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR]
-精英冰风酋长僵尸
+Elite-Eiswind-Häuptling-Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR_DESCRIPTION_HEADER]
-精英冰风酋长僵尸具备韧性条机制，火属性攻击可削减其韧性（灼烧攻击可以进行高额削减），清空韧性条将使僵尸进入虚弱状态，该状态下僵尸不会行动及进攻，直至韧性条恢复完毕。当僵尸拥有韧性值时，可为其提供承伤上限效果。
+Der Elite-Eiswind-Häuptling-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie stark reduzieren). Das Leeren des Widerstandsbalkens schwächt den Zombie. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
+
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR_DESCRIPTION]
-在某次日常的进攻后，冰风酋长僵尸发现对面洞穴里面那个头戴平底锅的家伙拿出了一个扇子的装置，然后冰风酋长僵尸就被吹飞了，被吹的多了，现在冰风酋长僵尸学会了怎么对抗那个扇子装置了。
+Nach einem Routineangriff entdeckte der Eiswind-Häuptling-Zombie, dass der Mann mit der Bratpfanne in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Eiswind-Häuptling-Zombie weggeblasen wurde. Nachdem er viele Male weggeblasen worden war, lernte der Eiswind-Häuptling-Zombie nun, gegen den Ventilator anzukämpfen.
 
 [ZOMBIE_ZOMBOSSMECH_RENAI]
-剧团操纵者
+Theaterbetreiber
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION]
-{KEYWORD}特点：{STAT}创作戏剧
-{FLAVOR}一页僵尸博士的手稿：
-“‘懦夫在未死之前已经多次死亡，勇者一生只尝一次死亡的滋味。’作为最年轻的死亡学博士，僵尸博士的伟大传奇早已跨越了每一个时间阶段。重来，复仇，毁灭，创造一段新的神话！伟大的僵尸博士一定会再次复出！僵尸博士的邪恶事业终将兴盛！（注释，这段不要出版：纪念最美好的大学剧团生活）。”
-                                   ——《僵博：史上最棒的回忆录！第1616号增刊》
+{KEYWORD}Merkmale:{STAT}Drama schaffen
+{FLAVOR}Eine Seite aus Dr. Zombies Manuskript:
+„‚Ein Feigling ist viele Male gestorben, bevor er stirbt, während ein tapferer Mann nur einmal im Leben den Tod erfährt.‘ Als jüngster Doktor der Thanatologie hat Dr. Zombies große Legende bereits alle Epochen durchschritten. Komm zurück, räche dich, zerstöre und erschaffe einen neuen Mythos! Der große Dr. Zombie wird definitiv wiederkehren! Dr. Zombies böse Karriere wird schließlich florieren! (Hinweis: Dieser Absatz sollte nicht veröffentlicht werden: In Erinnerung an das beste Universitätstheaterleben.)“
+- „Zombie-Doktor: Die besten Memoiren der Geschichte! Beilage Nr. 1616“
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION_HEADER]
-夹杂悲壮史诗与邪恶混乱的剧场幕后主使。
+Der Kopf hinter dem Theater – eine Mischung aus tragischen Epen und bösem Chaos.
 
 [ZOMBIE_RENAI_HAMLET]
-哈姆雷特僵尸
+Hamlet-Zombie
 [ZOMBIE_RENAI_HAMLET_DESCRIPTION]
-{KEYWORD}特点：{STAT}向前方发射扇形范围的子弹，子弹可以与植物子弹相撞。
+{KEYWORD}Features:{STAT}Feuert Kugeln fächerförmig nach vorne ab, die mit Pflanzenkugeln kollidieren können.
 [ZOMBIE_RENAI_HAMLET_DESCRIPTION_HEADER]
-一千个读者心目中有一千个哈姆雷特，而一千个植物心目中只有一个僵尸！不管他怎么变，永远逃不掉！
+Tausend Hamlets stecken in den Köpfen tausender Leser, und nur ein Zombie steckt in den Köpfen tausender Pflanzen! Egal wie sehr er sich verändert, er kann niemals entkommen!
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_HAMLET]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+^573701^ Nach speziellem Training ist er immun gegen Kontrolle, Deformation und sofortige Tötung und verfügt über eine höhere Resistenz.
 
 [ZOMBIE_RENAI_SHERLOCK]
-夏洛克僵尸
+Sherlock Zombie
 [ZOMBIE_RENAI_SHERLOCK_DESCRIPTION]
-{KEYWORD}特点：{STAT}向本行第一列或第二列的丢出一个钱袋并换行，钱袋可以压扁植物并使该行僵尸加速，并持续召唤僵尸
+{KEYWORD}Funktionen:{STAT}Wirf einen Geldsack in die erste oder zweite Spalte dieser Reihe und ändere die Reihe. Der Geldsack kann Pflanzen zerquetschen, die Zombies in dieser Reihe beschleunigen und weiterhin Zombies beschwören.
 [ZOMBIE_RENAI_SHERLOCK_DESCRIPTION_HEADER]
-夏洛克僵尸是专业的法庭演员，从他被拖上证言台开始，到最后判决，无不是精心设计的表演。不过这场庭审是一个更加巨大的剧本，再精致的表演也跨不出去。
+Sherlock Zombie ist ein professioneller Gerichtsschauspieler. Von seiner Verurteilung bis zum Urteil war alles eine sorgfältig geplante Inszenierung. Dieser Prozess ist jedoch ein viel umfangreicheres Drehbuch, und egal wie exquisit die Inszenierung ist, sie kann nicht darüber hinausgehen.
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_SHERLOCK]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+^573701^ Nach speziellem Training ist er immun gegen Kontrolle, Deformation und sofortige Tötung und verfügt über eine höhere Resistenz.
 
 [ZOMBIE_RENAI_ROMEO]
-罗密欧僵尸
+Romeo Zombie
 [ZOMBIE_RENAI_ROMEO_DESCRIPTION]
-{KEYWORD}特点：{STAT}用剑抵挡来自正面的直线物理攻击，当朱丽叶死亡时进入狂暴状态
+{KEYWORD}Funktionen: {STAT} Blockiert direkte Angriffe von vorne mit dem Schwert und verfällt in einen gewalttätigen Zustand, wenn Julia stirbt.
 [ZOMBIE_RENAI_ROMEO_DESCRIPTION_HEADER]
-罗密欧僵尸对剧本里要求在豪华大别墅前痛哭然后倒下的情节十分不解，毕竟这是他永远得不到的，这是对于僵尸来说真正的悲剧。
+Romeo Zombie ist sehr verwirrt über die Handlung im Drehbuch, die ihn vor einer luxuriösen Villa weinen und niederfallen lässt. Schließlich wird er das nie erleben, und genau das ist die wahre Tragödie für Zombies.
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_ROMEO]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+^573701^ Nach speziellem Training ist sie immun gegen Kontrolle, Deformation und sofortige Tötung und verfügt über eine höhere Resistenz.
 
 [ZOMBIE_RENAI_JULIET]
-朱丽叶僵尸
+Juliet Zombie
 [ZOMBIE_RENAI_JULIET_DESCRIPTION]
-{KEYWORD}特点：{STAT}用洋伞抵挡植物的抛投攻击，当罗密欧死亡时进入狂暴状态
+{KEYWORD}Funktionen: {STAT}Benutzt einen Regenschirm, um dem Angriff von Pflanzen zu widerstehen, und verfällt in einen gewalttätigen Zustand, wenn Romeo stirbt.
 [ZOMBIE_RENAI_JULIET_DESCRIPTION_HEADER]
-朱丽叶僵尸在剧场上苏醒了过来，她不被外人的意愿所左右，有自己的追求和目标，也坚信跨越死亡的爱情。有人说女僵尸是真正的演员，这对于朱丽叶僵尸来说是一种夸赞。
+Juliet Zombie wacht im Theater auf. Sie lässt sich nicht von den Wünschen anderer beeinflussen. Sie verfolgt ihre eigenen Ziele und glaubt an die Liebe, die den Tod überdauert. Manche behaupten, weibliche Zombies seien echte Schauspielerinnen, was ein Kompliment an Juliet Zombie ist.
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_JULIET]
-^573701^经过特训后能够免疫控制、变形、秒杀,拥有更高的抗性
+^573701^ Nach speziellem Training kannst du immun gegen Kontrolle, Deformation und sofortige Tötung sein und eine höhere Resistenz aufweisen.
 
 [PVZ2UNCHARTED_SHOP_TITLE]
 秘境商店
