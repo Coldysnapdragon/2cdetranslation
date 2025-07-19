@@ -79,10 +79,10 @@ Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und
 Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine große Bewegung zu starten. Die Verschwindezeit wird zurückgesetzt.
 
 [ACHIEVE_DOG_WHISPERER_DESC]
-在死神僵尸召唤出墓碑之前干掉他！
+Töte den Todeszombie, bevor er einen Grabstein beschwört!
 
 [ACHIEVE_DOG_WHISPERER_TITLE]
-死神
+Tod
 
 [PLANTING_BEYOND_NEW_PVP_LIMIT]
 Vergiss nicht, die Sonnenblume zu verbessern, sobald du das Pflanzenlimit überschritten hast!
@@ -1030,7 +1030,7 @@ Bronze-Mann-Formation – Tag 3
 Bronze-Mann-Formation
 
 [CHALLENGE_REMAINING]
-Verbleibende {NUMBER}
+verbl {NUMBER}
 
 [RIVERCROSSING_DODORIDER]
 Bestanden: {NUMBER}
@@ -3316,46 +3316,46 @@ Heruntergeladen
 {NPC_ENTER:winnie}{tutorial}
 
 [NARRATIVE_DANGER_ROOM_TUTORIAL_2]
-{EXCITED}这些是你的起始植物！
+{AUFGEFROREN}Das sind deine Startpflanzen!
 
 [NARRATIVE_DANGER_ROOM_TUTORIAL_3]
-{SAY}现在你应再选取五个植物
+{SAGEN}Du solltest jetzt fünf weitere Pflanzen auswählen.
 
 [NARRATIVE_EGYPT_CHALLENGE_CONVEYOR_INTRO_1]
-{NPC_ENTER:winnie}{SAY}在这关，植物通过传送带无限供应。
+{NPC_ENTER:winnie}{SAGEN}In diesem Level gibt es unendlich viele Pflanzen über Förderbänder.
 
 [NARRATIVE_EGYPT_CHALLENGE_CONVEYOR_OUTRO_1]
-{NPC_ENTER:crazydave}{EXCITED}{START_DIALOG_MUSIC}棒极了！我一直想尝尝这是什么滋味。
+{NPC_ENTER:crazydave}{AUFGEFROREN}{START_DIALOG_MUSIC}Super! Das wollte ich schon immer mal probieren.
 
 [NARRATIVE_EGYPT_CHALLENGE_CONVEYOR_OUTRO_2]
-{SAY:crazydave}等等…那不是海星，是一颗真正的星星。
+{SAGEN:crazydave}Warte mal ... das ist kein Seestern, das ist ein echter Stern.
 
 [NARRATIVE_EGYPT_CHALLENGE_CONVEYOR_OUTRO_3]
-{TIRED:crazydave}呃，你拿去好了。
+{TIRED:crazydave}Äh, nimm es.
 
 [NARRATIVE_EGYPT_ICE_INTRO_1]
-{NPC_ENTER:winnie}{SAY}探险家僵尸的火把会秒杀植物，我们可以用冰冻生菜熄灭火焰。
+{NPC_ENTER:winnie}{SAY}Die Fackel des Entdecker-Zombies tötet Pflanzen sofort. Wir können die Flammen mit gefrorenem Salat löschen.
 
 [NARRATIVE_EGYPT_CHALLENGE_LASTSTAND_A_1]
-{NPC_ENTER:crazydave}{PLAYFUL}这里有充足的阳光，种好植物再开始吧！
+{NPC_ENTER:crazydave}{PLAYFUL}Hier gibt es viel Sonnenlicht. Lasst uns ein paar Pflanzen pflanzen und loslegen!
 
 [NARRATIVE_EGYPT_CHALLENGE_LASTSTAND_B_1]
-{NPC_ENTER:crazydave}{SAY}这也叫终极挑战？
+{NPC_ENTER:crazydave}{SAY}Heißt das die ultimative Herausforderung?
 
 [NARRATIVE_EGYPT_CHALLENGE_LASTSTAND_B_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}不，这只是开始，
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Nein, das ist erst der Anfang.
 
 [NARRATIVE_EGYPT_CHALLENGE_LASTSTAND_B_3]
-{TIRED:winnie}好戏还在后头。
+{TIRED:winnie}Das Beste kommt noch.
 
 [NARRATIVE_EGYPT_CHALLENGE_LASTSTAND_B_4]
-{NPC_ENTER:crazydave}{SAY}嗯，我喜欢坐着看戏！邻居，你上吧！
+{NPC_ENTER:crazydave}{SAY}Also, ich lehne mich gerne zurück und schaue mir die Show an! Nur zu, Nachbar!
 
 [NARRATIVE_EGYPT_CHALLENGE_LASTSTAND_C_1]
-{NPC_ENTER:winnie}{SAY}{START_DIALOG_MUSIC}我倒希望法老们有一些继承人。
+{NPC_ENTER:winnie}{SAY}{START_DIALOG_MUSIC}Ich hoffe, die Pharaonen haben Erben.
 
 [NARRATIVE_EGYPT_CHALLENGE_LASTSTAND_C_2]
-{NPC_ENTER:crazydave}你觉得我怎么样？
+{NPC_ENTER:crazydave}Was hältst du von mir?
 
 [NARRATIVE_EGYPT_CHALLENGE_MINIGAME_A_1]
 {NPC_ENTER:winnie}{SAY}Es gibt ein neues Bild in der Kamelformation. Es ist ein Fass.
@@ -5559,7 +5559,7 @@ Kann nicht auf schimmeligem Boden gepflanzt werden.
 Wehre die Angriffe fliegender Zombies ab.
 
 [STARCHALLENGE_SKYCITY_NAME]
-Das Luftstadt
+Die Luftstadt
 
 [STARCHALLENGE_PLANT_BEFORE_LINE_NAME]
 Schimmeliges Gelände
@@ -11126,7 +11126,7 @@ Abenteuerzeit:
 Verbleibende Zeit: {CHANCES}
 
 [PLANT_ADVENTURE_DUNGEON_TIME_LEFT]
-Verbleibende Zeit:
+verbl. Zeit:
 
 [PLANT_ADVENTURE_DUNGEON_START]
 Starten
@@ -13051,13 +13051,13 @@ So erhalten Sie es
 Endlos-Shop
 
 [PIECE]
-Teil
+-Teil
 
 [AVATAR]
 Kostüm
 
 [AVATAR_PIECE]
-Kostüm Teil
+-Kostüm Teil
 
 [ACCESSORY_EXCHANGE_FAILED]
 Anhängertausch fehlgeschlagen
@@ -69233,6 +69233,262 @@ Zombie-Level um 5 Stufen erhöht
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_3_DESCRIPTION]
 Zombie-Level um 8 Stufen erhöht
+
+[S25_MEMORY_LEVEL_NAME_1]
+Leerer Körper
+
+[S25_MEMORY_LEVEL_NAME_2]
+Elementkern
+
+[S25_MEMORY_LEVEL_NAME_3]
+Energiequelle
+
+[S25_MEMORY_LEVEL_NAME_4]
+Geist der Weisheit
+
+[S25_MEMORY_LEVEL_NAME_5]
+Atem des Lebens
+
+[S25_MEMORY_LEVEL_NAME_6]
+Spiegel von Samsara
+
+[S25_MEMORY_LEVEL_NAME_7]
+Denkmal der Ewigkeit
+
+[S25_MEMORY_LEVEL_NAME_8]
+Heiliges Licht
+
+[S25_MEMORY_LEVEL_NAME_9]
+Junger Fels
+
+[S25_MEMORY_LEVEL_NAME_10]
+Elegie Illusion
+
+[S25_MEMORY_LEVEL_NAME_11]
+Rückkehr nach einer schweren Niederlage
+
+[S25_MEMORY_LEVEL_NAME_12]
+Brennen
+
+[S25_MEMORY_LEVEL_NAME_13]
+Warmer Schnee in der Dämmerung
+
+[S25_MEMORY_LEVEL_NAME_ 14]
+Nachts liegen und Wind und Regen lauschen
+
+[S25_MEMORY_LEVEL_NAME_15]
+Nicht genug Schlaf täglich
+
+[PLAYERS_TRIP_TO_MEMORY_S25_15]
+Willkommen im schwierigen 15. Level. Das Mandala zur Aufnahme von Pflanzengeräuschen ist in diesem Level nützlich.
+
+[S25_MEMORY_LEVEL_NAME_16]
+Ich möchte auch ein Gott sein.
+
+[PLAYERS_TRIP_TO_MEMORY_S25_16]
+Willkommen in Im schwierigen 16. Level ist der Arcade-Automat nützlich. Achte auf deine Verteidigung.
+
+[S25_MEMORY_LEVEL_NAME_001]
+Hinter dir. Unter Beschuss.
+
+[S25_MEMORY_LEVEL_NAME_002]
+Kleine Göre.
+
+[S25_MEMORY_LEVEL_NAME_003]
+Einwanderungsplan.
+
+[S25_MEMORY_LEVEL_NAME_004]
+Mecha-Migration.
+
+[S25_MEMORY_LEVEL_NAME_005]
+Erzwungene Unterbrechung.
+
+[S25_MEMORY_LEVEL_NAME_006]
+Richtig Hilfe schicken.
+
+[S25_MEMORY_LEVEL_NAME_007]
+Römische Invasion.
+
+[S25_MEMORY_LEVEL_NAME_008]
+Schrumpfender Rasen.
+
+[S25_MEMORY_LEVEL_NAME_009]
+Frontlinie. Kampf
+
+[S25_MEMORY_LEVEL_NAME_010]
+Ungerade Gitterpunkte
+
+[S25_MEMORY_LEVEL_NAME_011]
+Tausend Meilen Eis
+
+[S25_MEMORY_LEVEL_NAME_012]
+Schiebespuren
+
+[S25_MEMORY_LEVEL_NAME_013]
+Tierwelt
+
+[S25_MEMORY_LEVEL_NAME_014]
+Ressourcenwettbewerb
+
+[S25_MEMORY_LEVEL_NAME_015]
+Kindliche Unschuld
+
+[S25_MEMORY_LEVEL_NAME_016]
+Sommernachtswunder
+
+[S25_MEMORY_LEVEL_NAME_017]
+Kühle Sommertage
+
+[S25_MEMORY_LEVEL_NAME_018]
+Piraten Angriff
+
+[S25_MEMORY_LEVEL_NAME_019]
+Wasserschlachten
+
+[S25_MEMORY_LEVEL_NAME_020]
+Kleine Zombies, große Probleme
+
+[S25_MEMORY_LEVEL_NAME_ 021]
+Die Sommernacht beginnt
+
+[S25_MEMORY_LEVEL_NAME_022]
+Happy Rock
+
+[S25_MEMORY_LEVEL_NAME_023]
+Leidenschaftlich
+
+[S25_MEMORY_LEVEL_NAME_024]
+Das galoppierende Biest kommt
+
+[S25_MEMORY_LEVEL_NAME_025]
+Schwankend nach links und rechts
+
+[S25_MEMORY_LEVEL_NAME_026]
+Den Tintenfisch beobachten
+
+[S25_MEMORY_LEVEL_NAME_027]
+Zerstören Alles
+
+[S25_MEMORY_LEVEL_NAME_027]
+Alles zerstören
+
+[S25_MEMORY_LEVEL_NAME_028] RY_LEVEL_NAME_028]
+Friedlich und friedlich
+
+[S25_MEMORY_LEVEL_NAME_029]
+Rock and Roll
+
+[S25_MEMORY_LEVEL_NAME_030]
+Pflanzenlabyrinth
+
+[S25_MEMORY_LEVEL_NAME_031]
+Präziser Luftangriff
+
+[S25_MEMORY_LEVEL_NAME_032]
+Verrückter Hammer
+
+[S25_MEMORY_LEVEL_NAME_033]
+Tarnung
+
+[S25_MEMORY_LEVEL_NAME_034]
+Starke Rüstung und scharfer Schild
+
+[S25_MEMORY_LEVEL_NAME_035]
+Unaufhaltsam
+
+[S25_MEMORY_LEVEL_NAME_036]
+Hühner und Kaninchen im selben Käfig
+
+[S25_MEMORY_LEVEL_NAME_037]
+Schnee im heißen Sommer
+
+[S25_MEMORY_LEVEL_NAME_038]
+Die Eiszeit kommt wieder
+
+[S25_MEMORY_LEVEL_NAME_039]
+Der Nordwind ist rau
+
+[S25_MEMORY_LEVEL_NAME_040]
+Eiserne Pferde in der Eiszeit
+
+[S25_MEMORY_LEVEL_NAME_041]
+Wahr oder falsch: Zeitung lesende Zombies
+
+[S25_MEMORY_LEVEL_NAME_041]
+Wahr oder falsch: Zeitung lesen Zombies
+
+[S25_MEMORY_LEVEL_NAME_042]
+EL_NAME_042]
+Die Prüfung des Zauberers
+
+[S25_MEMORY_LEVEL_NAME_043]
+Der Gentleman und der Pianist
+
+[S25_MEMORY_LEVEL_NAME_044]
+Die Erleuchtung des Schädels
+
+[S25_MEMORY_LEVEL_NAME_045]
+Ritterruhm
+
+[S25_MEMORY_LEVEL_NAME_046]
+Die Fesseln lösen
+
+[S25_MEMORY_LEVEL_NAME_047]
+Musik und Technologie
+
+[S25_MEMORY_LEVEL_NAME_048]
+Die Hinrichtung
+
+[S25_MEMORY_LEVEL_NAME_04 9]
+Blitz
+
+[S25_MEMORY_LEVEL_NAME_050]
+Donner
+
+[S25_MEMORY_LEVEL_NAME_051]
+Blitz
+
+[S25_MEMORY_LEVEL_NAME_052]
+Lie Que
+
+[S25_MEMORY_LEVEL_NAME_053]
+Die Macht des Schöpfergottes
+
+[S25_MEMORY_LEVEL_NAME_054]
+Die Kunst des Kotau
+
+[S25_MEMORY_LEVEL_NAME_055]
+Der reiche Geschmack von Milch
+
+[S25_MEMORY_LEVEL_NAME_056]
+Die Götter kehren zurück
+
+[S25_MEMORY_LEVEL_NAME_057]
+Die Götter kehren zurück
+
+[S25_MEMORY_LEVEL_NAME_058] EVEL_NAME_057]
+Primitive Zivilgesellschaft Krieg
+
+[S25_MEMORY_LEVEL_NAME_058]
+Erbsenregen
+
+[S25_MEMORY_LEVEL_NAME_059]
+Portal
+
+[S25_MEMORY_LEVEL_NAME_060]
+Doppeltes Kommen
+
+[S25_MEMORY_LEVEL_NAME_061]
+Die Kunst des Pfropfens
+
+[S25_MEMORY_LEVEL_NAME_062]
+Skigebiet
+
+[S25_MEMORY_LEVEL_NAME_063]
+Flucht
+
+[S25_MEMORY_LEVEL_NAME_064]
+Schnee und Wind
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_3]
 Zombie-Level um 8 Stufen erhöht
