@@ -33465,7 +33465,7 @@ Wiederbelebung (erste Stufe) Karotte plus Dekoration
 Kaktus der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_NEKOTAIL_LV0_SUCCEED_CONTENT]
-Rohrkolbengras der ersten Stufe plus Dekoration
+Katzenschwanz der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_C ODE_RECHARGE_MORNINGGLORY_LV0_SUCCEED_CONTENT]
 Prunkwinde der ersten Stufe plus Dekoration
@@ -35021,7 +35021,7 @@ Dragon Roar Grass kann in der Nähe befindliche Zombies fressen und unverdaulich
 [DRAGONROAR_TOOLTIP]
 Iss in der Nähe befindliche Zombies und spucke Dinosauriereier aus.
 
-[BROMBEERE]
+[BRAMBLE]
 Schüchterner Dorn
 
 [BRAMBLE_DESCRIPTION]
@@ -36320,84 +36320,84 @@ Elektromagnetisches Feld
 Es besteht die Chance, ein elektromagnetisches Feld zu erzeugen, das nahe Ziele anzieht und Schaden verursacht.
 
 [SHADOWPEASHOOTER]
-电能豌豆
+Schatten-Erbsenkanone
 
 [SHADOWPEASHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物、豌豆家族
-{FLAVOR} 电能豌豆一直有个梦想，想成为一个超级英雄，但是它本身毫无超能力，一天在看电视发现，超级英雄可以通过“电”发生异变，于是它每天都去电厂希望可以获得超能力。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grünpflanzen, Hülsenfrüchtler
+
+{FLAVOR}„Puff!“, flüstert die Schatten-Erbsenkanone und verschießt eine schattige, wie soll man sagen, Erbse, auf einen Zombie. „Uff!“, japst der Zombie, sichtlich überrascht. Die unterschwellige Spannung zwischen diesen beiden ist wirklich mit Händen greifbar.
 
 [SHADOWPEASHOOTER_DESCRIPTION_HEADER]
-电能豌豆发射子弹为中心可以对周围单位造成伤害
+Schatten-Erbsenkanonen sind Schattenpflanzen, die durchdringende Schatten-Erbsen auf Zombies verschießen. Außerdem können sie 1 Zombie unter die Erde ziehen und haben eine Schattenform, wo sie Laser schießen können und verlangsamen.
 
 [SHADOWPEASHOOTER_TOOLTIP]
-电能豌豆发射子弹为中心可以对周围单位造成伤害
+Verschießt durchschlagende, verlangsamende Projektile
 
 [SHADOWPEASHOOTER_PRODUCT_SHORT_DESC]
-电能豌豆发射子弹为中心可以对周围单位造成伤害
+Verschießt durchschlagende, verlangsamende Projektile
 
 [SHADOWPEASHOOTER_AVATAR_NAME]
-电能豌豆装扮
+Schatten-Erbsenkanone Kostüm
 
 [STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER]
-大招可以多释放2颗紫色电球
+Die ultimative Fähigkeit kann zwei weitere lila Elektrobälle freisetzen.
 
 [STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER_TITLE]
-电能豌豆装扮
+Schatten-Erbsenkanonen Kostüm
 
 [MONOTROPA]
-水晶兰
+Kristallorchidee
 
 [MONOTROPA_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}蓝色植物
-{FLAVOR} 冰雪的女王，喜欢在自己的庭院里堆满雪人，当然如果雪人不太听话的话，她也不介意给予一些小小的惩罚。
+{KEYWORD}Pflanzenmerkmale:{STAT}Blaue Pflanze
+{FLAVOR} Die Königin von Eis und Schnee stapelt gerne Schneemänner in ihrem Garten. Sollten die Schneemänner nicht gehorchen, schreckt sie natürlich nicht vor kleinen Strafen zurück.
 
 [MONOTROPA_DESCRIPTION_HEADER]
-冰雪的掌控者，喜欢把敌人变成雪人
+Der Meister von Eis und Schnee verwandelt seine Feinde gerne in Schneemänner.
 
 [MONOTROPA_TOOLTIP]
-冰雪的掌控者，喜欢把敌人变成雪人
+Der Meister von Eis und Schnee verwandelt seine Feinde gerne in Schneemänner.
 
 [MONOTROPA_PRODUCT_SHORT_DESC]
-冰雪的掌控者，喜欢把敌人变成雪人
+Der Meister von Eis und Schnee verwandelt seine Feinde gerne in Schneemänner.
 
 [MONOTROPA_PRODUCT_SHORT_DESC]
-使用冰雪的能力可以把僵尸变成雪人
+Nutze die Macht von Eis und Schnee, um Zombies in Schneemänner zu verwandeln.
 
 [STORE_PRODUCT_AVATAR_MONOTROPA]
-暴风雪中随机砸冰块，对一个格内僵尸造成伤害且概率冰冻2秒。
+Zerschmettere zufällig Eisblöcke im Schneesturm, füge Zombies in einem Raster Schaden zu und friere sie mit einer gewissen Wahrscheinlichkeit für 2 Sekunden ein.
 
 [STORE_PRODUCT_AVATAR_MONOTROPA_TITLE]
-水晶兰装扮
+Kristallorchideen-Outfit
 
 [MONOTROPA_SKILL_LEVEL1]
-冰雪强化
+Eis- und Schneeverstärkung
 
 [MONOTROPA_SKILL_LEVEL1_DES]
-使冰风的攻击距离提升2格
+Erhöht die Angriffsreichweite von Eiswind um 2 Felder.
 
 [MONOTROPA_SKILL_LEVEL2]
-冰雪掌控
+Eis- und Schneebeherrschung
 
 [MONOTROPA_SKILL_LEVEL2_DES]
-使雪人的持续时间提升50%
+Erhöht die Dauer des Schneemanns um 50 %.
 
 [MONOTROPA_SKILL_LEVEL5]
-冰冻残留
+Gefrorene Rückstände
 
 [MONOTROPA_SKILL_LEVEL5_DES]
-雪人融化后，僵尸还会再减速2秒。
-
+Nachdem der Schneemann geschmolzen ist, wird der Zombie für weitere 2 Sekunden verlangsamt.
 
 [TWINSHONEYSUCKLE_FAMILY]
-忍冬科
+Caprifoliaceae
 [TWINSHONEYSUCKLE_GENUS]
-忍冬属
+Geißblatt
 [TWINSHONEYSUCKLE_PEDIA]
-金银花：藤蔓上的日月双花
-    常绿或半常绿缠绕藤本。
-    茎蔓长可达10米；叶片对生，卵形至矩圆状卵形；花朵花通常成对生于腋生的总花梗顶端（称为“双花”），花冠筒状二唇形，初开为白色，2-3天后渐变为黄色，故称“金银花”，具淡雅清香；果实球形，成熟时蓝黑色。花期4-6月（秋季亦常开花），果期8-11月。
-    因其冬季叶片不凋落的特性，又名“忍冬”（《中国植物志》选用的中文名）。原产中国、日本和朝鲜半岛，我国大多省份均有分布，常见于山坡、林缘、篱笆等处，而在北美洲被引进后逸生成为难除的杂草。其花蕾具清热解毒、消炎退肿功效，为“双黄连口服液”“银翘散”等核心成分，晒干可做花茶，茎藤称“忍冬藤”，也供药用。
-    花语：双生不离
+Geißblatt: Sonne- und Mond-gefüllte Blüten an Ranken
+Immergrüne oder halbimmergrüne, windende Ranken.
+Die Stängel können bis zu 10 Meter lang werden; die Blätter sind gegenständig, eiförmig bis länglich-eiförmig; die Blüten stehen meist paarweise an der Spitze des Achselstiels (sogenannte „gefüllte Blüten“). Die Blütenkrone ist röhrenförmig und zweilippig, zunächst weiß und verfärbt sich nach 2-3 Tagen allmählich gelb, daher der Name „Geißblatt“. Sie duftet leicht und elegant; die Früchte sind kugelig und im reifen Zustand blauschwarz. Blütezeit ist April-Juni (oft auch im Herbst), Fruchtzeit ist August-November.
+Da die Blätter im Winter nicht abfallen, wird sie auch „Geißblatt“ genannt (ein chinesischer Name, der von der „Flora of China“ ausgewählt wurde). Sie ist in China, Japan und der koreanischen Halbinsel heimisch und in den meisten Provinzen Chinas verbreitet. Sie wächst häufig an Hängen, Waldrändern und Zäunen. Nach ihrer Einführung in Nordamerika ist sie verschwunden und hat sich zu einem hartnäckigen Unkraut entwickelt. Ihre Blütenknospen wirken hitzelösend, entgiftend und entzündungshemmend. Sie ist die Hauptzutat von „Shuanghuanglian Oral Liquid“ und „Yinqiao Powder“. Getrocknet kann man daraus aromatischen Tee zubereiten. Die Stängelrebe wird „Geißblattrebe“ genannt und auch medizinisch verwendet.
+Blumensprache: Zwillinge sind unzertrennlich
 
 [BLOOMINGHEARTS_FAMILY]
 Papavergewächse
@@ -36490,16 +36490,16 @@ Pflanzenhöhe: 60–90 cm; die Grundblätter sind graugrün länglich, die Stän
 Der Name „Blumenkohl“ leitet sich von der Blütenform ab, die allgemein als „Blumenkohl“ bekannt ist. Der englische Name „Cauliflower“ setzt sich aus den lateinischen Wörtern „caulis“ (Stängel) und „floris“ (Blüte) zusammen und weist auf die Pflanzenstruktur des essbaren Teils hin. Die Pflanze stammt ursprünglich aus dem östlichen Mittelmeerraum und wird heute in gemäßigten und subtropischen Gebieten weit verbreitet angebaut. Als Gemüse ist sie reich an Vitamin C, Ballaststoffen und krebshemmenden Substanzen wie Glucosinolaten. Die violette Variante ist reich an Anthocyanen und wirkt antioxidativ, was ihren Nährwert erweitert.
 
 [DRACAENA_FAMILY]
-天门冬科
+Asparagaceae
 [DRACAENA_GENUS]
-龙血树属
+Dracaena
 [DRACAENA_PEDIA]
-剑叶龙血树：石缝中的生命树
-    常绿乔木。
-    高可达15米；茎粗大，分枝多；叶聚生在茎、枝顶，叶片剑形，薄革质；圆锥花序，花小，乳白色；果实为球形浆果，成熟时橙红色，内含1-3粒种子。花期3月，果期7-8月。
-    因其树皮被割破时，分泌的树脂氧化后呈现类似血液的色泽，古人视为“龙血”而得名。干燥后的树脂为中药“血竭”（别名麒麟竭），传统医学认为其具有活血散瘀、止血生肌等功效。原生于中国云南、广西及越南、老挝等地的石灰岩山地，垂直分布于海拔950-1700米，其根系能分泌酸性物质帮助吸收岩矿养分，展现出强大的环境适应力。云南傣族称其为“埋嘎筛”，意为“石缝中的生命树”。在西方，龙血树脂曾被视为神秘材料，用于染料和药剂以及巫术仪式，寄托了人类对自然力量的敬畏。
-    花语：坚韧与重生
+Dracaena scabra: Baum des Lebens in Felsspalten
+Immergrüner Baum.
+Er kann bis zu 15 Meter hoch werden. Der Stamm ist dick und verzweigt; die Blätter sitzen am oberen Ende des Stammes und der Zweige gebündelt und sind schwertförmig, dünn und ledrig. Der Blütenstand ist rispenförmig, die Blüten sind klein und milchig weiß. Die Frucht ist eine kugelige, im reifen Zustand orangerote Beere mit 1–3 Samen. Die Blütezeit ist März, die Fruchtzeit Juli/August.
+Wird die Rinde angeschnitten, weist das nach der Oxidation abgesonderte Harz eine blutähnliche Farbe auf. Die Vorfahren nannten es „Drachenblut“ und gaben ihm seinen Namen. Das getrocknete Harz wird in der traditionellen chinesischen Medizin „Xuejie“ (auch bekannt als Qilinjie) verwendet. Die traditionelle Medizin glaubt, dass es die Durchblutung fördert, Blutstauungen löst, Blutungen stoppt und die Geweberegeneration fördert. Es ist in Kalksteinbergen in Yunnan, Guangxi, Vietnam, Laos und anderen Regionen Chinas heimisch und wächst vertikal in einer Höhe von 950 bis 1700 Metern. Seine Wurzeln können saure Substanzen absondern, die die Aufnahme von Gestein und Mineralstoffen unterstützen, und zeigen eine hohe Anpassungsfähigkeit an die Umwelt. Die Dai in Yunnan nennen es „Maigasha“, was so viel bedeutet wie „Baum des Lebens in den Felsspalten“. Im Westen galt Drachenblutharz einst als geheimnisvolles Material, das in Farbstoffen, Zaubertränken und Hexenritualen verwendet wurde und die Menschen vor der Kraft der Natur bewunderte.
 
+Blumensprache: Zähigkeit und Wiedergeburt
 
 [RAPEFLOWER_FAMILY]
 Brassicaceae
@@ -37769,94 +37769,93 @@ Aloe-Vera-Kleid
 Kristallklar und feucht
 
 [ALOES_SKILL_LEVEL1_DES]
-有概率抛出一个增加攻击力和攻速的水滴
+Es besteht die Chance, einen Wassertropfen zu werfen, der Angriffskraft und Angriffsgeschwindigkeit erhöht.
 
 [ALOES_SKILL_LEVEL2]
-水润光滑
+Glatt und geschmeidig
 
 [ALOES_SKILL_LEVEL2_DES]
-使技能2效果提升100%
+Erhöht den Effekt von Fertigkeit 2 um 100 %.
 
 [ALOES_SKILL_LEVEL5]
-寒冰水滴
+Eistropfen
 
 [ALOES_SKILL_LEVEL5_DES]
-芦荟医师会丢出1滴寒冰水滴，额外提供20%攻击力，在水雾持续期间，水雾中的僵尸会受到冰减速效果
+Aloe Doctor wirft einen Eistropfen, der die Angriffskraft um 20 % erhöht. Während der Dauer des Wassernebels werden die Zombies im Wassernebel durch Eis verlangsamt.
 
 [ICELOTUS]
-滴水冰莲
+Eislotus
 
 [ICELOTUS_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}白色植物
-{FLAVOR} 滴水冰莲作为消防队的一员，对灭火有着极端的热情，就连一丁点的火苗都不能容忍，甚至还常备了冰水对高热物品进行降温呢。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Weiße Pflanze
+{FLAVOR} Als Mitglied der Feuerwehr hat der Eislotus eine extreme Leidenschaft für die Brandbekämpfung. Er verträgt selbst kleinste Flammen nicht und hat sogar Eiswasser zur Hand, um heiße Gegenstände abzukühlen.
 
 [ICELOTUS_DESCRIPTION_HEADER]
-可以熄灭花火僵尸点燃的植物，减速路过的僵尸。
+Er kann von Feuerwerks-Zombies entzündete Pflanzen löschen und vorbeikommende Zombies verlangsamen.
 
 [ICELOTUS_TOOLTIP]
-可以熄灭花火僵尸点燃的植物，减速路过的僵尸。
+Er kann entzündete Pflanzen löschen und vorbeikommende Zombies verlangsamen.
 
 [ICELOTUS_PRODUCT_SHORT_DESC]
-可以熄灭花火僵尸点燃的植物，减速路过的僵尸。
+Er kann von Feuerwerks-Zombies entzündete Pflanzen löschen und vorbeikommende Zombies verlangsamen.
 
 [STORE_PRODUCT_AVATAR_ICELOTUS]
-可以熄灭花火僵尸点燃的植物，减速路过的僵尸。
+Er kann von Feuerwerks-Zombies entzündete Pflanzen löschen und vorbeikommende Zombies verlangsamen.
 
 [STORE_PRODUCT_AVATAR_ICELOTUS_TITLE]
-滴水冰莲装扮
+Eislotus Kostüm
 
 [ICELOTUS_SKILL_LEVEL1]
-加量储水
+Erhöht den Wasserspeicher
 
 [ICELOTUS_SKILL_LEVEL1_DES]
-可洒水的次数增加2次
+Verdoppelt die Anzahl der Wasserspritzer.
 
 [ICELOTUS_SKILL_LEVEL2]
-纯水加冰
+Reines Wasser mit Eis
 
 [ICELOTUS_SKILL_LEVEL2_DES]
-会使啃咬她的僵尸被冰冻
+Friert Zombies ein, die sie beißen.
 
 [DENDROBIUMGUARD]
-石斛防风网
+Dendrobium
 
 [DENDROBIUMGUARD_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR} 石斛防风网们始终坚持在抗风第一线，为身后的植物家人们提供安全的空间，免受风灾的袭扰。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grünpflanzen
+{FLAVOR} Dendrobium-Windschutze sind stets windbeständig und bieten der dahinter stehenden Pflanzenfamilie Schutz vor Windschäden.
 
 [DENDROBIUMGUARD_DESCRIPTION_HEADER]
-可以联合起来，抵挡强风来袭。
+Sie können sich zusammenschließen, um starken Winden standzuhalten.
 
 [DENDROBIUMGUARD_TOOLTIP]
-可以联合起来，抵挡强风来袭。
+Sie können sich zusammenschließen, um starken Winden standzuhalten.
 
 [DENDROBIUMGUARD_PRODUCT_SHORT_DESC]
-可以联合起来，抵挡强风来袭。
+Sie können sich zusammenschließen, um starken Winden standzuhalten.
 
 [STORE_PRODUCT_AVATAR_DENDROBIUMGUARD]
-现在联防的石斛也会恢复生命了。
+Jetzt wird auch das Dendrobium, das sich als gemeinsame Verteidigungspflanze erweist, wieder zum Leben erweckt.
 
 [STORE_PRODUCT_AVATAR_DENDROBIUMGUARD_TITLE]
-石斛防风网装扮
+Dendrobium Winddichtes Netzkostüm
 
 [DENDROBIUMGUARD_SKILL_LEVEL1]
-高速恢复
+Schnelle Erholung
 
 [DENDROBIUMGUARD_SKILL_LEVEL1_DES]
-现在可以随时间自行恢复叶片了
+Blätter können jetzt mit der Zeit wiederhergestellt werden.
 
 [DENDROBIUMGUARD_SKILL_LEVEL2]
-极速恢复
+Extrem schnelle Erholung
 
 [DENDROBIUMGUARD_SKILL_LEVEL2_DES]
-恢复时间缩短10秒
+Erholungszeit um 10 Sekunden verkürzt.
 
 [DENDROBIUMGUARD_SKILL_LEVEL5]
-还手
+Wehre dich!
 
 [DENDROBIUMGUARD_SKILL_LEVEL5_DES]
-还有叶片时，被攻击时会有概率击退僵尸
-
+Wenn Blätter vorhanden sind, besteht die Chance, Zombies bei einem Angriff abzuwehren.
 
 [POMEGRANATE]
 石榴商人
@@ -38497,56 +38496,58 @@ Farbenfrohe Ouvertüre
 Blütenblätter beginnen um den Körper des Tulpentrompeters zu schweben, und dieser beginnt, den natürlichen Atem zu absorbieren. Anschließend sendet er eine extrem große Blütenblatt-Schallwelle nach vorne aus, die die Zombies vor ihm angreift und Verzauberung verursacht.
 
 [HOTDATE]
-热辣海枣
-
-[HOTDATE_TOOLTIP]
-热辣海枣可以吸引附近的僵尸并阻挡他们前进。
-
-[HOTDATE_DESCRIPTION_HEADER]
-热辣海枣可以吸引附近的僵尸并阻挡他们前进。
+Heiße Dattel
 
 [HOTDATE_DESCRIPTION]
-{KEYWORD}特殊：{STAT}不能吸引背后的僵尸
-{KEYWORD}植物特征：{STAT}褐色植物
-{FLAVOR} 热辣海枣是一个魔术师。他很有礼貌，读书得很好，有很多有趣的观点，也很乐意积极的倾听别人的心声，所以僵尸在街区周围排队等着给他倾述。
+{KEYWORD}Besonderheit: {STAT}Wärmt Pflanzen in der Nähe
+{KEYWORD}Besonderheit: {STAT}Kann Zombies anlocken.
+{KEYWORD}Pflanzenmerkmale: {STAT}Braune Pflanzen
+
+{FLAVOR}Heiße Dattel ist ein echter Charmeur. Höflich, belesen, meinungsstark und ein aktiver Zuhörer. Die Zombies stehen einmal um den Block Schlange, um sich von Heiße Dattel abfackeln zu lassen.
+
+[HOTDATE_DESCRIPTION_HEADER]
+Heiße Datteln ziehen Zombies aus Reihen ober- und unterhalb von ihnen an und lassen eine Flammenreihe los, wenn sie gefressen werden.
+
+[HOTDATE_TOOLTIP]
+Zieht Zombies an und verbrennt sie
 
 [HOTDATE_SKILL_LEVEL1]
-热辣能量
+Heiße Energie
 
 [HOTDATE_SKILL_LEVEL1_DES]
-25%血量增加
+25% höhere Lebenspunkte
 
 [HOTDATE_SKILL_LEVEL2]
-热辣提升
+Heißer Boost
 
 [HOTDATE_SKILL_LEVEL2_DES]
-使热辣能量的效果提升100%
+Erhöht die Wirkung heißer Energie um 100%.
 
 [HOTDATE_SKILL_LEVEL5]
-热辣余温
+Heiße Restwärme
 
 [HOTDATE_SKILL_LEVEL5_DES]
-热辣海枣爆炸的后，地上会在短时间内留下火屑，对僵尸造成持续伤害
+Nach der Explosion der Heißen Dattel bleiben kurzzeitig Funken auf dem Boden zurück, die Zombies dauerhaft Schaden zufügen.
 
 [STORE_PRODUCT_AVATAR_HOTDATE_TITLE]
-热辣海枣装扮
+Heiße Dattel Kostüm
 
 [STORE_PRODUCT_AVATAR_HOTDATE]
-大招可以无敌3秒时间。
+Die ultimative Fähigkeit macht dich 3 Sekunden lang unbesiegbar.
 
 [ICYCURRANT]
-Eis-Johannisbeere
+Eisige-Johannisbeere
 
 [ICYCURRANT_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Zwischen zwei Eisjohannisbeeren in derselben Reihe oder Spalte bildet sich Eisboden.
 {KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze, gefroren.
-{FLAVOR} Eisjohannisbeeren leben in Gebieten mit Temperaturen von ganzjährig minus 30 Grad Celsius und unterhalten sich oft mit Eiserbsen. Eines Tages niesten die Eisjohannisbeeren plötzlich und sagten: „Es ist so kalt heute.
+{FLAVOR} Die Eisigen-johannisbeeren leben in Gebieten mit Temperaturen von ganzjährig minus 30 Grad Celsius und unterhalten sich oft mit Hagelzucker-Erbsen. Eines Tages nieste eine Eisige-johannisbeere plötzlich und sagte: „Es ist so kalt heute."
 
 [ICYCURRANT_DESCRIPTION_HEADER]
-Zwischen Eisjohannisbeeren in derselben Reihe oder Spalte kann sich Eisboden bilden, der vorbeigehenden Zombies Schaden zufügt.
+Zwischen Eisigen-Johannisbeeren in derselben Reihe oder Spalte können sich Eisböden bilden, die vorbeigehenden Zombies Schaden zufügen und runterkühlen.
 
 [ICYCURRANT_TOOLTIP]
-Es kann Eisboden gebildet werden, der vorbeigehenden Zombies Schaden zufügt und ihre Geschwindigkeit verlangsamt.
+Kann Eisböden bei Verbindungen bilden.
 
 [ICYCURRANT_SKILL_LEVEL1]
 Eiskristall
@@ -38558,7 +38559,7 @@ Es besteht die Chance, Zombies 1 Sekunde lang einzufrieren.
 Eisblock
 
 [ICYCURRANT_SKILL_LEVEL2_DES]
-Erhöht die Wirkung von Eiskristallen um 100 %.
+Erhöht die Wirkung von Eiskristall um 100 %.
 
 [ICYCURRANT_SKILL_LEVEL5]
 Frost
@@ -38567,7 +38568,7 @@ Frost
 Das generierte gefrorene Gitter verursacht jetzt höheren Gefrierschaden!
 
 [STORE_PRODUCT_AVATAR_ICYCURRANT_TITLE]
-Eis-Johannisbeere-Outfit
+Eisige-Johannisbeere-Outfit
 
 [STORE_PRODUCT_AVATAR_ICYCURRANT]
 Die ultimative Fertigkeit „Eisbergexplosion“ verursacht Schaden an Zielen innerhalb eines Gitters.
@@ -38954,35 +38955,36 @@ Explosionsfestmahl
 Nach der Explosion der dreistufigen Erdbeerbombe der Explosiven Erdbeere bleibt Erdbeermarmelade zurück, die einen bremsenden Effekt hat.
 
 [POISONPEASHOOTER]
-毒液豌豆射手
+Schleim-Erbsenkanone
 
 [POISONPEASHOOTER_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}谁都无法想象毒液豌豆会做出这样疯狂的举动，甚至连他自己都不知道。在植物眼中他就是个疯子，但是在自己眼中，这个是时尚。你知道他做的是什么吗？就是做夸张的动作去逗别人笑罢了。
+{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+
+{FLAVOR}Die Schleim-Erbsenkanone verschießt schleimige Erbsen. Macht Sinn, oder? Ich liebe es, wenn Namen Sinn ergeben ...
 
 [POISONPEASHOOTER_DESCRIPTION_HEADER]
-毒液豌豆射手能减速僵尸，并具备毒系伤害
+Die Schleim-Erbsenkanone kann Zombies verlangsamen und verursacht Giftschaden
 
 [POISONPEASHOOTER_TOOLTIP]
-毒液豌豆射手能减速僵尸，并具备毒系伤害
+Verschießt Gifterbsen,die verlangsamen und vergiften
 
 [POISONPEASHOOTER_PRODUCT_SHORT_DESC]
-毒液豌豆射手能减速僵尸，并具备毒系伤害
+Schleim-Erbsenkanonen können Zombies verlangsamen und verursachen Giftschaden.
 
 [POISONPEASHOOTER_AVATAR_NAME]
-Der Gifterbsenwerfer kann Zombies verlangsamen und verursacht Giftschaden.
+Die Schleim-Erbsenkanone kann Zombies verlangsamen und verursacht Giftschaden.
 
 [STORE_PRODUCT_AVATAR_POISONPEASHOOTER]
 Der Giftkanal, der durch die Giftkugel des Gifterbsenwerfers gebildet wird, kocht und verursacht höheren Schaden.
 
 [STORE_PRODUCT_AVATAR_POISONPEASHOOTER_TITLE]
-Gifterbsenkostüm
+Schleim-Erbsenkanonen Kostüm
 
 [POISONPEASHOOTER_SKILL_LEVEL1]
 Giftmeister einsetzen
 
 [POISONPEASHOOTER_SKILL_LEVEL1_DES]
-Wenn ein Zombie fünfmal von Gifterbsen getroffen wird, wird der Giftschaden gestapelt und einmal explodiert, was höheren Schaden verursacht. Anschließend wird er erneut gestapelt.
+Wenn ein Zombie fünfmal von Gifterbsen getroffen wird, wird der Giftschaden gestapelt und explodiert einmal, was höheren Schaden verursacht. Anschließend wird er erneut gestapelt.
 
 [POISONPEASHOOTER_SKILL_LEVEL2]
 Giftmeister
@@ -39373,29 +39375,30 @@ Die Erbsenranke feuert sofort 60 Erbsenkugeln hintereinander ab, die auf die Zom
 Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hintereinander ab, die auf den Zombie rechts herabregnen.
 
 [MAYBEE]
-蜜蜂铃兰
+Maibienchen
 
 [MAYBEE_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}黄色植物
-{FLAVOR} “我不仅仅是一组漂亮的铃铛，你知道吗？我还可以投出一个邪恶的弧线球。”
+{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanzen
+
+{FLAVOR} „Ich bin mehr als ein Bündel hübsche Glöckchen, weißt du? Ich kann auch richtig mies losballern!“
 
 [MAYBEE_DESCRIPTION_HEADER]
-召唤多只蜜蜂攻击僵尸
+Eine defensive Zauberprojektil-Pflanze, die bienenähnliche Geschosse einfängt und freigibt, die Zombies in der Nähe angreifen, wenn sie sich bedroht fühlen.Hat eine spezial Fähigkeit mit elektro Pflanzen.
 
 [MAYBEE_TOOLTIP]
-召唤多只蜜蜂攻击僵尸
+Beschwört mehrere Bienen, um Zombies anzugreifen
 
 [MAYBEE_PRODUCT_SHORT_DESC]
-召唤多只蜜蜂攻击僵尸
+Beschwört mehrere Bienen, um Zombies anzugreifen
 
 [MAYBEE_AVATAR_NAME]
-召唤多只蜜蜂攻击僵尸
+Maibienchen Kostüm
 
 [STORE_PRODUCT_AVATAR_MAYBEE_TITLE]
-蜜蜂铃兰装扮
+Maibienchen Kostüm
 
 [STORE_PRODUCT_AVATAR_MAYBEE]
-大招召唤的8只大型蜜蜂按照阵列向前飞行3格，对撞到的僵尸造成伤害
+Die 8 großen Bienen, die durch die ultimative Bewegung herbeigerufen werden, fliegen in einer Reihe 3 Felder nach vorne und fügen den Zombies, mit denen sie kollidieren, Schaden zu.
 
 [MAYBEE_SKILL_LEVEL1]
 Bienenverstärkung
@@ -39569,22 +39572,23 @@ Der Schwertblatt-Drachenblutbaum lässt die zehntausend Schwerter zum Ursprung z
 Dracaena striata lässt Zehntausend Schwerter los, die zum Ursprung zurückkehren. Sie feuert 50 kleine Schwerter in der ersten Reihe ab, ^ff0000^ feuert 20 kleine fliegende Schwerter in einem Winkel von 15 Grad nach oben und unten ab^oldclr^. Jedes Schwert verschwindet, nachdem es einen Zombie/ein Hindernis angegriffen hat, und der angegriffene Zombie wird 0,5 Felder zurückgestoßen. Das Schwert der großen Bewegung löst keinen Tötungseffekt aus, ^ff0000^ das kleine fliegende Schwert hat keinen Rückstoßeffekt^oldclr^.
 
 [SPARTANBAMBOO] 
-斯巴达竹
+Spartambus
 
 [SPARTANBAMBOO_DESCRIPTION]
-{KEYWORD}范围：{STAT}前方2格
-{KEYWORD}特点：{STAT}攻防一体，使用手中的长矛攻击僵尸，盾牌破碎后伤害提高。
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}“为了炸玉米饼和自由！刮掉它......为了炸玉米饼！”
+{KEYWORD}Reichweite: {STAT} 2 Felder vorn
+{KEYWORD}Besonderheit: {STAT}Wird sein Schild zerstört, verfällt Spartambus in eine Kampf-Trance, was seinen Schaden erhöht.
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanzen
+
+{FLAVOR}„Für Tacos und Freiheit! Oder einfach nur ... für TACOOOS!!“
 
 [SPARTANBAMBOO_DESCRIPTION_HEADER]
-攻防一体，使用手中的长矛攻击僵尸，盾牌破碎后伤害提高。
+Ein wilder Bambuskrieger, der jede Menge Schaden wegsteckt. Bricht sein Schild, verursachen seine Angriffe sogar noch mehr Schaden.
 
 [SPARTANBAMBOO_TOOLTIP]
-攻防一体，使用手中的长矛攻击僵尸，盾牌破碎后伤害提高。
+Eine robuste Nahkampf-Pflanze, die Zombies bis zu 2 Felder wegschlagen kann.
 
 [SPARTANBAMBOO_PRODUCT_SHORT_DESC]
-攻防一体，使用手中的长矛攻击僵尸，盾牌破碎后伤害提高。
+Eine robuste Nahkampf-Pflanze, die Zombies bis zu 2 Felder wegschlagen kann.
 
 [SPARTANBAMBOO_SKILL_LEVEL1]
 Kampfwahnsinniger
@@ -39619,10 +39623,8 @@ Wenn ein Zombie zwei Felder rechts von der Pflanze erscheint, verwenden Sie den 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL2_DES]
 Wenn Sparta einen Zombie tötet, verfällt er in Raserei. Das Angriffsintervall verkürzt sich um 0,25 Sekunden. Es hält 2,5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Das erneute Töten eines Zombies während der Raserei kann die Raserei-Dauer erneuern. Wird der Schild zerstört, verfällt Sparta direkt in Raserei. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 12 Sekunden.
 
-
 [SPARTANBAMBOO_NEW_SKILL_LEVEL3_DES]
 Im Raserei-Zustand verkürzt sich das Angriffsintervall erneut um 0,25 Sekunden. Es hält 5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 9 Sekunden.
-
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, den Energiebohnen-Big-Move direkt freizusetzen! Die Abkühlzeit für das Pflanzen von Pflanzen beträgt 6 Sekunden.
@@ -40726,7 +40728,7 @@ Sonne-und-Mond-Geißblatt
 Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume beschwört den Mond und verursacht Eisschaden.
 
 [TWINSHONEYSUCKLE_TOOLTIP]
-Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume beschwört den Mond und verursacht Eisschaden.
+Verursacht Feuerschaden und Eisschaden.
 
 [TWINSHONEYSUCKLE_PRODUCT_SHORT_DESC]
 Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume beschwört den Mond und verursacht Eisschaden.
@@ -41257,7 +41259,6 @@ Die Abklingzeit des Klons wird verkürzt. Der nächste Angriff nach dem Einsamme
 
 Ahornschatten-Zerschmettern: Der nächste normale Angriff wird verstärkt und verursacht zusätzlichen Schaden.
 
-
 [MAPLEBLADE_NEW_SKILL_LEVEL3_DES]
 Die Abklingzeit des Klons verringert sich weiter, und der Schaden von „Ahornschatten-Zerschmettern“ erhöht sich.
 
@@ -41576,7 +41577,7 @@ Nicht so widerstandsfähig wie die primitive Nusswand, aber widerstandsfähiger 
 Mit der Landung und dem Einsatz der Ultima können drei Hämmer des Riesen geblockt werden.
 
 [PARALLEL_NEKOTAIL]
-Rohrkolbengras Nr. 42
+Katzenschwanz Nr. 42
 
 [PARALLEL_NEKOTAIL_TOOLTIP]
 Normale Ausgabe kann Schaden in Höhe des maximalen Prozentwerts des Lebens verursachen.
@@ -48583,10 +48584,10 @@ Explosive Nüsse erhöhen die Explosionsangriffskraft um {Param_1} %.
 Wintermelonenwächter erhöhen die Gesundheit um {Param_1} %.
 
 [GENE_DESCRIPTION_ENDURIAN]
-Die Angriffskraft von Durian erhöht sich um {Param_1} %.
+Die Angriffskraft vom Endurian erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_SAPFLING]
-Erhöht die Verlangsamung. Effekt des Harzkrugs um {Param_1} %
+Erhöht die Verlangsamung. Effekt des Saftlings um {Param_1} %
 
 [GENE_DESCRIPTION_RAFFLESIA]
 Erhöht die Angriffskraft der Rafflesia um {Param_1} %
@@ -48610,7 +48611,7 @@ Ultimativer Schaden der Laserbohne erhöht um {Param_1} %
 Angriffskraft von Sternfrüchten um {Param_1} % erhöht
 
 [GENE_DESCRIPTION_HOLONUT]
-Erholungszeit der holografischen Nussprojektion um {Param_1} Sekunden verkürzt
+Erholungszeit der Unend-Nuss um {Param_1} Sekunden verkürzt
 
 [GENE_DESCRIPTION_CHOMPER]
 Schluckzeit von Chumpers um {Param_1} Sekunden verkürzt
@@ -48625,40 +48626,40 @@ Abklingzeit für Wehblatt um {Param_1}% reduziert.
 Schaden von Caiwens ultimativer Attacke um {Param_1}% erhöht.
 
 [GENE_DESCRIPTION_POWERLILY]
-Abklingzeit für Energieblumenpflanzung um {Param_1}% reduziert.
+Abklingzeit für die Powerlilie um {Param_1}% reduziert.
 
 [GENE_DESCRIPTION_PHATBEET]
-Schaden von Phatbeets ultimativer Attacke um {Param_1}% erhöht.
+Schaden von Feete Beetes ultimativer Attacke um {Param_1}% erhöht.
 
 [GENE_DESCRIPTION_PHATBEET] CRIPTION_HURRIKALE]
-Abklingzeit für Hurrikankohlpflanzung um {Param_1}% reduziert.
+Abklingzeit für Hurrikohl um {Param_1}% reduziert.
 
 [GENE_DESCRIPTION_PRIMALPEASHOOTER]
-Angriffskraft der primitiven Erbsenschleuder erhöht um {Param_1}%
+Angriffskraft der Urzeit-Erbsenkanone erhöht um {Param_1}%
 
 [GENE_DESCRIPTION_TWINSUNFLOWER]
-Die Wahrscheinlichkeit, dass Zwillingssonnenblumen Sonnenlicht zurückgeben, ist um {Param_1}% erhöht.
+Die Wahrscheinlichkeit, dass Doppel-Sonnenblumen Sonnenlicht zurückgeben, ist um {Param_1}% erhöht.
 
 [GENE_DESCRIPTION_PRIMALSUNFLOWER]
-Die Abklingzeit für das Pflanzen primitiver Sonnenblumen wurde um {Param_1}% verkürzt.
+Die Abklingzeit für das Pflanzen Urzeit-Sonnenblumen wurde um {Param_1}% verkürzt.
 
 [GENE_DESCRIPTION_CHESTNUT]
-Das Intervall zwischen den Kastanien-Respawns im Kastanien-Team wird um {Param_1} Sekunden verkürzt.
+Das Intervall zwischen den Kastanien-Respawns im Kastanien-Trupp wird um {Param_1} Sekunden verkürzt.
 
 [GENE_DESCRIPTION_TOADSTOOL]
-Nach dem Verschlucken des Goldenen Krötenpilzes erhöht sich die erzeugte Sonnenlichtmenge um {Param_1} Punkte.
+Nach dem Verschlucken des Krötenpilzes erhöht sich die erzeugte Sonnenlichtmenge um {Param_1} Punkte.
 
 [GENE_DESCRIPTION_ELECTRICBLUEBERRY]
-Die Angriffsgeschwindigkeit der elektrischen Blaubeere erhöht sich um {Param_1}%.
+Die Angriffsgeschwindigkeit der elektro Blaubeere erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_SLINGPEA]
-Der Schaden von Schleudererbsegranaten erhöht sich um {Param_1}%, und der Schaden von Bombenerbsen erhöht sich um {Param_2}%
+Der Schaden von der Schleudererbse erhöht sich um {Param_1}%, und der Schaden von Bombenerbsen erhöht sich um {Param_2}%
 
 [GENE_DESCRIPTION_BIRTHSUNFLOWER]
-Der Angriffskraftbonus von Sonnenblumensänger erhöht sich um {Param_1}%.
+Der Angriffskraftbonus von der Sonnenblumensängerin erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_CHARDGUARD]
-Das Intervall zwischen der Blattregeneration von Beet Guard verringert sich um {Param_1} Sekunden.
+Das Intervall zwischen der Blattregeneration vom Mangold-Mangler verringert sich um {Param_1} Sekunden.
 
 [GENE_DESCRIPTION_ELAEOCARPUS]
 Die Gesundheit von Zombies, die von Elaeocarpus beim Zerschmettern getötet werden können, erhöht sich um {Param_1}%.
@@ -48667,10 +48668,10 @@ Die Gesundheit von Zombies, die von Elaeocarpus beim Zerschmettern getötet werd
 Verkürzt die Abklingzeit des Pflanzens heißer Datteln um {Param_1}%.
 
 [GENE_DESCRIPTION_ALOES]
-Erhöht den Angriffskraftbonus der gewöhnlichen Wassertropfen von Aloe Doctor um {Param_1}%.
+Erhöht den Angriffskraftbonus der gewöhnlichen Wassertropfen von Doktor Aloe um {Param_1}%.
 
 [GENE_DESCRIPTION_KIWIFRUIT]
-Kiwi erhöht die Dauer des goldenen Reifens um {Param_1} Sekunden
+Kiwibiest erhöht die Dauer des goldenen Reifens um {Param_1} Sekunden
 
 [GENE_DESCRIPTION_HORSEBEAN]
 Ackerbohnen-Kommando-Ruhe = Verkürzt die Ruhezeit um {Param_1}%.
@@ -48679,7 +48680,7 @@ Ackerbohnen-Kommando-Ruhe = Verkürzt die Ruhezeit um {Param_1}%.
 Schrumpf-Veilchen erhöht den Schaden, den Zombies nach dem Schrumpfen erleiden, um {Param_1}%.
 
 [GENE_DESCRIPTION_DRAFTODIL]
-Die Wahrscheinlichkeit, dass Narzisse Imp-Zombies wegbläst, erhöht sich um {Param_1}%.
+Die Wahrscheinlichkeit, dass die Sturmglocke Wicht-Zombies wegbläst, erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_SHADOWPEASHOOTER]
 Die Angriffskraft der Schattenerbse erhöht sich um {Param_1}% mit der Anzahl der Mondblumen auf dem Feld.
@@ -48691,7 +48692,7 @@ Wenn der explodierende Platycodon-Ballon explodiert, besteht eine Chance von {Pa
 Die Ruhezeit der Mistel-Eisfee verkürzt sich um {Param_1}%.
 
 [GENE_DESCRIPTION_NEKOTAIL]
-Die vom normalen Angriff des Rohrkolbengrases abgefeuerten Stacheln haben eine Chance von {Param_1}%, Zombies zu durchdringen.
+Die vom normalen Angriff des Katzenschwanz abgefeuerten Stacheln haben eine Chance von {Param_1}%, Zombies zu durchdringen.
 
 [GENE_DESCRIPTION_SNAPDRAGON]
 Angriffe mit Feuerdrachengras verursachen 5 Sekunden lang Brandschaden, was {Param_1}% des Angriffsschadens entspricht.
@@ -49002,7 +49003,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Rohrkolbengras, Eisdrachengras, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Erd-Sägegras
 Orange Qualitätspflanzen 4: Helikonien-Maschinengewehrschütze, Eispilz, Starke Säure Zitrone, heißer Wasabi, Stachelbeere mit elektrischem Strom
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
@@ -49025,7 +49026,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Rohrkolbengras, Eisdrachengras, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Erd-Sägegras
 Orange Qualitätspflanzen 4: Helikonien-Maschinengewehrschütze, Eispilz, Starke Säure Zitrone, heißer Wasabi, Stachelbeere mit elektrischem Strom
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Telefonmast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
@@ -49049,7 +49050,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Rohrkolbengras, Eisdrachengras, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Erdsägegras
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
@@ -49072,7 +49073,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Rohrkolbengras, Eisdrachengras, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Erdsägegras
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
@@ -49095,7 +49096,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Rohrkolbengras, Eisdrachengras, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Acker-Sägegras
 Orange Qualitätspflanzen 4: Dunkler Nachtpilz, Kalter Eispilz, Starke Zitronensäure, Sengend Meerrettich, Elektrische Stachelbeere
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnlicher Medizinkasten, Gewöhnlicher Schneeflockenanhänger
@@ -54542,7 +54543,7 @@ Belohnungen
 Erreiche das Aufladeziel und logge dich drei Tage lang ein, um super großzügige Belohnungen zu erhalten. Du hast die Chance auf fortgeschrittene Bücher, seltene Pflanzen und Kostüme, praktische Anhänger, limitierte Avatare und weitere Belohnungen.
 Hinweis: Der Aufladebetrag wird gesammelt und dem aktuellen Aufladegeschenkpaket hinzugefügt, nachdem die Funktion „Erstes Aufladegeschenkpaket“ am 31. Januar 2024 um 11:00 Uhr zurückgesetzt wurde.
 Das Aufladegeschenkpaket enthält drei Belohnungsstufen: das 2-Yuan-Aufladegeschenkpaket, das kumulierte 60-Yuan-Aufladegeschenkpaket und das kumulierte 198-Yuan-Aufladegeschenkpaket. Die Belohnungen im Aufladegeschenkpaket sind wie folgt:
-Das 2-Yuan-Aufladegeschenkpaket enthält: eine von drei orangefarbenen Pflanzen (Eispilz, Rohrkolbengras, Maiskanone), den Avatarrahmen für die erste Aufladung; Orange Pflanzennährlösung * 10; drei orange Pflanzenkostüme (Eispilz, Rohrkolbengras, Maiskanonen-Begleiterkostüm)
+Das 2-Yuan-Aufladegeschenkpaket enthält: eine von drei orangefarbenen Pflanzen (Eispilz, Katzenschwanz, Maiskanone), den Avatarrahmen für die erste Aufladung; Orange Pflanzennährlösung * 10; drei orange Pflanzenkostüme (Eispilz, Katzenschwanz, Maiskanonen-Begleiterkostüm)
 Das Geschenkpaket für eine Gesamtaufladung von 60 Yuan enthält: eine von drei Drachenpflanzen (Eisdrachengras, Donnerdrachengras, Feuerdrachengras); Genessenz * 10; Richtungsfragmente * 10
 Das Geschenkpaket für eine Gesamtaufladung von 198 Yuan enthält: Metall-Schleuderanhänger; Diamant * 300; Pflanzen-Fortgeschrittenenbuch
 
@@ -58470,7 +58471,7 @@ Nachthimmel
 An die Spieler, die gemeinsam auf der Reise der Erinnerungen unterwegs sind
 
 [MEMORIESNEKOTAIL]
-Saisonlimitiertes Rohrkolbengras
+Saisonlimitiertes Katzenschwanz
 
 [SUMMER_MEMORIES_HEAD_ID_25345]
 Miau, miau
@@ -66074,7 +66075,7 @@ Die Zombies sind diesmal hier, um sich zu entschuldigen. Bitte nicht Angriff
 Spieler, die dieses Level abschließen, verpflichten sich, die ursprünglichen Erbsen nicht mehr zu verwenden.
 
 [NO42_LEVEL_NAME_05_H]
-Ich verrate dir heimlich: Rohrkolbengras ist ein Geheimagent.
+Ich verrate dir heimlich: Katzenschwanz ist ein Geheimagent.
 
 [NO42_LEVEL_NAME_06_H]
 Die neue Welt basiert auf Atlantis.
@@ -71849,7 +71850,7 @@ Der Kaktus wird gestärkt, seine Angriffskraft verdoppelt sich und verschiedene 
 Der Kaktus wird gestärkt, seine Angriffskraft verdoppelt sich und verschiedene Angriffe können mehr Zombies durchdringen. ^ff0000^ und verstreut sofort eine fächerförmige Anordnung von 31 Stacheln. Der schrumpfende Kaktus fügt 17 Stacheln hinzu. ^oldclr^
 
 [NEKOTAIL_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie das Feld betritt, feuert Rohrkolbengras Stacheln aus seinem Schwanz. Die vom Rohrkolbengras abgefeuerten Stacheln verfolgen den Zombie automatisch und es besteht eine 10%ige Chance, eine Nadel mit 45 Schaden und einem 1 Sekunde anhaltenden ^ff9600^ Lähmungseffekt Ⅰ^oldclr^ abzufeuern. Es besteht eine Chance von 0,5%, ein großes Geschoss mit dem 80-fachen Schaden der Angriffskraft abzufeuern.
+Wenn ein Zombie das Feld betritt, feuert der Katzenschwanz Stacheln aus seinem Schwanz. Die vom Katzenschwanz abgefeuerten Stacheln verfolgen den Zombie automatisch und es besteht eine 10%ige Chance, eine Nadel mit 45 Schaden und einem 1 Sekunde anhaltenden ^ff9600^ Lähmungseffekt Ⅰ^oldclr^ abzufeuern. Es besteht eine Chance von 0,5%, ein großes Geschoss mit dem 80-fachen Schaden der Angriffskraft abzufeuern.
 
 [NEKOTAIL_NEW_SKILL_LEVEL2_DES]
 Beim Angriff besteht eine Chance von 15%, eine Nadel mit 135 Schaden abzufeuern.
