@@ -66523,13 +66523,13 @@ Erstelle einen Hühnergrabstein in einem bestimmten Raster. Nach 3 Upgrades wird
 Wuttrank
 
 [RAGE_POTION_DES]
-Kann in jedem Bereich des Feldes freigesetzt werden und erhöht die Angriffskraft und Geschwindigkeit verbündeter Einheiten innerhalb eines Rasters um 100%.
+test
 
 [SHIELD_POTION]
 Schildtrank
 
 [SHIELD_POTION_DES]
-Kann in jedem Bereich des Feldes freigesetzt werden und macht verbündete Einheiten in einem 3×3-Bereich 10 Sekunden lang unbesiegbar.
+test
 
 [GRAVESTONE_UPGRADE]
 Grabstein-Upgrade
