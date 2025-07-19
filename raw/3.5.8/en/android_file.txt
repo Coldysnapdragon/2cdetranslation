@@ -28633,19 +28633,19 @@ hart.
 {EXCITED:crazydave}Sie sorgen auch für mehr Sonnenschein! Bravo Leute, das ist genial.
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Achtung! Ich habe Karaffen chemischer Komponenten von rabiater Reaktionsfreudigkeit auf dem Schirm!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}test
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_2]
-{TIRED:crazydave}Kannst du das auch mal für mich in Deppie-Deutsch übersetzen?
+{TIRED:crazydave}Test
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_3]
-{TIRED:winnie}Auf dem Rasen stehen bösartige Zaubertränke!
+{TIRED:winnie}Test
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_4]
-{EXCITED:crazydave}Bösartige mittelalterliche Tränke! Das sind die allergefährlichsten ...
+{EXCITED:crazydave}Test
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_5]
-{EXCITED:crazydave}Weil sie zweimal so böse sind!
+{EXCITED:crazydave}Test
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Ich fürchte, das dunkle Zeitalter hat mir eine schlimme Dampfkrankheit beschert.
@@ -31657,7 +31657,7 @@ Benötigen Sie mehr Setzlinge? Wählen Sie unten ein Paket aus.
 Überlebe einen massiven Angriff in der Neon Mixtape Tour.
 
 [STARCHALLENGE_EVILSHROOMS]
-y
+Boese tränke
 
 [STARCHALLENGE_EVILSHROOMS_NAME]
 Dunkle Alchemie
