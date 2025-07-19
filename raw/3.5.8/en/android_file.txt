@@ -885,6 +885,9 @@ Tor geöffnet!
 [BYPASS_KEYGATE]
 Tor geöffnet
 
+[CUSTOM_LEVEL_CREATE_LEVEL_CHOOSE_PLAY_STYPE_TITLE]
+Wähle einen Spielstil
+
 [BYPASS_KEYGATE_COST]
 {STR_COST}
 
