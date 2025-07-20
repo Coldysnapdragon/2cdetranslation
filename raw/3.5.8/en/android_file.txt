@@ -21294,13 +21294,13 @@ GREENTURNIP kann drei Karotten-Raketen unterschiedlicher Form und Schadensstärk
 Feuert ein gewaltiges Geschoss vom Kopf ab und fügt den Zombies in der ersten Reihe Schaden zu.
 
 [ENDURIAN_PRODUCT_SHORT_DESC]
-Durian kann Zombies blockieren und angreifenden Zombies Schaden zufügen.
+Endurian kann Zombies blockieren und angreifenden Zombies Schaden zufügen.
 
 [ENDURIAN_AVATAR_NAME]
-Durian-Kostüm
+Endurian-Kostüm
 
 [STORE_PRODUCT_AVATAR_ENDURIAN_TITLE]
-Durian-Kostüm
+Endurian-Kostüm
 
 [ENDURIAN_SKILL_LEVEL1]
 Stink-Aura
@@ -21333,10 +21333,10 @@ Verteidigt und fügt dabei angreifenden Zombies Schaden zu
 Sonnenblumensängerin
 
 [BIRTHSUNFLOWER_AVATAR_NAME]
-Sängerkostüm
+Sonnenblumensängerin Kostüm
 
 [STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER_TITLE]
-Sängerkostüm
+Sonnenblumensängerin Kostüm
 
 [BIRTHSUNFLOWER_SKILL_LEVEL1]
 Leidenschaftlicher Gesang
@@ -21357,20 +21357,21 @@ Berauschte Töne
 Nach der Erzeugung von Sonnenlicht Der Sonnenblumensänger gibt einen Ton von sich, der Zombies betäuben kann.
 
 [STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER]
-Die Spezialdünger-Fähigkeit lässt andere Sonnenblumensänger auf dem Feld Sonnenlicht erzeugen, wenn der Sonnenblumensänger mit seinem Auftritt beginnt.
+Die Spezialdünger-Fähigkeit lässt andere Sonnenblumensängerinnen auf dem Feld Sonnenlicht erzeugen, wenn die Sonnenblumensängerin mit ihrem Auftritt beginnt.
 
 [BIRTHSUNFLOWER]
-Sonnenblumensänger
+Sonnenblumensängerin
 
 [BIRTHSUNFLOWER_DESCRIPTION_HEADER]
-Sonnenblumensänger können durch ihren Gesang Sonnenlicht erzeugen und umliegende Pflanzen inspirieren, wodurch ihre Angriffskraft erhöht und ihre Ruhezeit verkürzt wird.
+Sonnenblumensängerinnen können durch ihren Gesang Sonnenlicht erzeugen und umliegende Pflanzen inspirieren, wodurch ihre Angriffskraft erhöht und ihre Ruhezeit verkürzt wird.
 
 [BIRTHSUNFLOWER_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Gelbe Pflanze, endloses Sonnenlicht
+
 {FLAVOR}Zur Vorbereitung der zweijährigen Jubiläumsfeier luden die Organisatoren die berühmteste Sängerin der Pflanzenwelt, Sonnenblume, als besonderen Gast ein. Zusätzlich zu Sunshines Auftrittsgeld verbrachten die Organisatoren mehrere Tage damit, die Anführer zu überzeugen, den vermissten Agenten Xiao Wanwan zu finden und versprachen, die berühmte Friseurin Clover einzuladen, um Sunflower eine neue Frisur zu verpassen. Ihr könnt ihr am Veranstaltungsort ihr berühmtes Lied „Zombies On Your Lawn“ singen hören, wenn ihr eine Eintrittskarte kauft oder den großen Leibwächter von Zhui Miaocao tötet …
 
 [BIRTHSUNFLOWER_TOOLTIP]
-Sunflower-Sänger können Sonnenlicht erzeugen und durch ihren Gesang die umliegenden Pflanzen inspirieren.
+Kann Sonnenlicht erzeugen und umliegende Pflanzen inspirieren.
 
 [BIRTHSUNFLOWER_PLANTFOOD]
 Veranstaltet ein Konzert, um viel Sonnenlicht zu erzeugen.
@@ -21416,42 +21417,42 @@ Der Kürbiszauberer kann Kürbisse werfen, um gewöhnliche humanoide Zombies zu 
 Wirft bis zu 5 feste Kürbisse und kontrolliert Zombies, die für dich kämpfen.
 
 [COTTONYETI_PRODUCT_SHORT_DESC]
-Kürbis
+Baumwolle
 
 [COTTONYETI_AVATAR_NAME]
-Kürbis-Outfit
+Baumwolle Kostüm
 
 [STORE_PRODUCT_AVATAR_COTTONYETI_TITLE]
-Kürbis-Outfit
+Baumwolle Kostüm
 
 [COTTONYETI_SKILL_LEVEL1]
 Frostschock
 
 [COTTONYETI_SKILL_LEVEL1_DES]
-Ermöglicht Kürbisangriffen, Zombies einzufrieren und zu verlangsamen.
+Ermöglicht Schneemann-angriffen, Zombies einzufrieren und zu verlangsamen.
 
 [COTTONYETI_SKILL_LEVEL2]
 Frostatem
 
 [COTTONYETI_SKILL_LEVEL2_DES]
-Ermöglicht Kürbisangriffen, Zombies einzufrieren.
+Ermöglicht Schneemann-angriffen, Zombies einzufrieren.
 
 [STORE_PRODUCT_AVATAR_COTTONYETI]
 Der durch die Spezialdünger-Fähigkeit beschworene Schneemann kann zertrampelt werden.
 
 [COTTONYETI]
-Mian Xiaoxue
+Baumwolle
 
 [COTTONYETI_DESCRIPTION_HEADER]
-Mian Xiaoxue kann die Zombies vor sich zertrampeln und angreifen.
+Baumwolle kann die Zombies vor sich zertrampeln und angreifen.
 
 [COTTONYETI_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze
 
-{FLAVOR}Als starke Anwärterin auf den Meistertitel im Pflanzenweitsprung hat Mian Xiaoxue trainiert und das Vorwärtsspringen ist zu einer Gewohnheit geworden. Manchmal ist es jedoch nicht unbedingt gut, zu weit zu springen ...
+{FLAVOR}Als starke Anwärterin auf den Meistertitel im Pflanzenweitsprung hat Baumwolle trainiert und das Vorwärtsspringen ist zu einer Gewohnheit geworden. Manchmal ist es jedoch nicht unbedingt gut, zu weit zu springen ...
 
 [COTTONYETI_TOOLTIP]
-Mian Xiaoxue kann die Zombies vor sich zertrampeln und angreifen.
+Baumwolle kann die Zombies vor sich zertrampeln und angreifen.
 
 [COTTONYETI_PLANTFOOD]
 Beschwöre einen riesigen Schneemann, der Zombies in einem bestimmten Umkreis vor dir zertrampelt.
@@ -21496,42 +21497,43 @@ Agave kann Zombies zwei Felder weiter vorne angreifen und Zombies mit Kopfpanzer
 {KEYWORD}Merkmale:{STAT}Fügt Zombies mit Kopfpanzerung zusätzlichen Schaden zu.
 
 {KEYWORD}Pflanzenmerkmale:{STAT}Grüne Pflanze, hohe Kampfkünste
-{FLAVOR}„Wenn Meister kämpfen, entscheidet sich der Ausgang oft in Sekundenbruchteilen. Diese raffinierte Schwertkunst ist nicht der Rede wert.“ Wenn jemand dieses „epische“ Duell erwähnt, reagiert Agave verächtlich. Tatsächlich weiß jeder, dass Agave und Rose Swordsman nur Schere-Stein-Papier gespielt haben.
+{FLAVOR}„Wenn Meister kämpfen, entscheidet sich der Ausgang oft in Sekundenbruchteilen. Diese raffinierte Schwertkunst ist nicht der Rede wert.“ Wenn jemand dieses „epische“ Duell erwähnt, reagiert Agave verächtlich. Tatsächlich weiß jeder, dass Agave und Rosen Schwertkämpfer nur Schere-Stein-Papier gespielt haben.
 
 [AGAVE_TOOLTIP]
-Greift Zombies zwei Felder weiter an und fügt Zombies mit Kopfpanzerung zusätzlichen Schaden zu.
+Fügt Zombies mit Kopfpanzerung zusätzlichen Schaden zu.
 
 [AGAVE_PLANTFOOD]
-Springt in die Luft und sendet Schockwellen aus, um Zombies in der Reihe vor ihnen anzugreifen.
+Springt in die Luft und sendet Schockwellen aus, um Zombies in der Reihe vor sich anzugreifen.
 
 [JACKFRUIT_PRODUCT_SHORT_DESC]
 Jackfrucht rollt, um Zombies in der Reihe vor ihnen anzugreifen, und kann den Tunneleingang blockieren, den der Leitzombie geöffnet hat.
 
 [JACKFRUIT_AVATAR_NAME]
-JackFRUIT-Kostüm
+Jackfrucht Kostüm
 
 [JACKFRUIT_SKILL_LEVEL1]
 Eisenwand
 
 [JACKFRUIT_SKILL_LEVEL1_DES]
-Wenn Jackfruit den Tunneleingang blockiert, erhöht sich die Gesundheit um 25%.
+Wenn Jackfrucht den Tunneleingang blockiert, erhöht sich die Gesundheit um 25%.
 
 [JACKFRUIT_SKILL_LEVEL2]
 Verstärkt
 
 [JACKFRUIT_SKILL_LEVEL2_DES]
-Erhöht die Gesundheit der Jackfruit.
+Erhöht die Gesundheit der Jackfrucht.
 
 [JACKFRUIT]
-Jackfruit
+Jackfrucht
 
 [JACKFRUIT_DESCRIPTION_HEADER]
-Jackfruit rollt, um die Zombies in der ersten Reihe anzugreifen und kann den vom Guide-Zombie geöffneten Tunneleingang blockieren.
+Jackfrucht rollt, um die Zombies in der ersten Reihe anzugreifen und kann den vom Guide-Zombie geöffneten Tunneleingang blockieren.
 
 [JACKFRUIT_DESCRIPTION]
 {KEYWORD}Funktionen: {STAT} Blockiert den vom Guide-Zombie geöffneten Tunneleingang.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
-{FLAVOR}Jackfruit ist ein treuer Fan indischer Popmusik. Am liebsten rollt er vorwärts und singt dabei das indische Götterlied „Wie kalt der Winter ist, wie kalt der Winter ist, wie kalt der Winter ist, da da da~“.
+
+{FLAVOR}Jackfrucht ist ein treuer Fan indischer Popmusik. Am liebsten rollt er vorwärts und singt dabei das indische Götterlied „Wie kalt der Winter ist, wie kalt der Winter ist, wie kalt der Winter ist, da da da~“.
 
 [JACKFRUIT_TOOLTIP]
 Rolle, um die Zombies in der ersten Reihe anzugreifen und den Tunneleingang zu blockieren, den der Zombie-Führer geöffnet hat.
@@ -37605,7 +37607,7 @@ Agave
 Agave – ein robustes Leben aus Mexiko
 Mehrjähriges Kraut.
 Die Pflanze kann einen Durchmesser von bis zu zwei Metern erreichen. Die schwertförmigen Blätter sind rosettenförmig angeordnet, dick und saftig und mit einer Wachsschicht auf der Oberfläche versehen, um die Wasserverdunstung zu reduzieren. Die Photosynthese erfolgt über den CAM-Weg (Crassulaceen-Säurestoffwechsel) (Aufnahme von Kohlendioxid in der Nacht). Dadurch ist die Pflanze effizient, wassersparend und an Wüstenhabitate anpassbar. Die Ränder sind spärlich dornig, und an der Spitze befindet sich ein harter Dorn. Die Rispe ist groß und bis zu 12 Meter lang, die Blüten gelbgrün; die Kapsel ist länglich und etwa 5 cm lang. Die Agave benötigt Jahrzehnte, um Nährstoffe zu sammeln, bevor sie blühen kann. Die Blüte- und Fruchtzeit liegt meist im Sommer. Nach der Blüte und Fruchtbildung stirbt sie ab, weshalb sie auch als „Jahrhundertpflanze“ bezeichnet wird.
-Der Name geht auf die Blätter zurück, die Drachenzungen ähneln. Die Pflanze ist in Mexiko und den Trockengebieten Amerikas heimisch und mittlerweile in tropischen und subtropischen Wüsten sowie Gärten weltweit verbreitet. Aus ihrem Saft wird der Schnaps „Tequila“ hergestellt, der mexikanische Nationalschnaps und auch als „Seele Mexikos“ bekannt ist. Aus den Blattfasern werden Seile und Stoffe hergestellt. Der Extrakt wirkt entzündungshemmend und kann medizinisch eingesetzt werden. Im modernen Gartenbau ist sie aufgrund ihrer einzigartigen Form zu einem wichtigen Element xerophytischer Landschaften geworden.
+Der Name geht auf die Blätter zurück, die Drachenzungen ähneln. Die Pflanze ist in Mexiko und den Trockengebieten Amerikas heimisch und mittlerweile in tropischen und subtropischen Wüsten sowie Gärten weltweit verbreitet. Aus ihrem Saft wird der Schnaps „Agave“ hergestellt, der mexikanische Nationalschnaps und auch als „Seele Mexikos“ bekannt ist. Aus den Blattfasern werden Seile und Stoffe hergestellt. Der Extrakt wirkt entzündungshemmend und kann medizinisch eingesetzt werden. Im modernen Gartenbau ist sie aufgrund ihrer einzigartigen Form zu einem wichtigen Element xerophytischer Landschaften geworden.
 
 [DRAGONFRUIT_FAMILY]
 Cactaceae
@@ -44225,7 +44227,7 @@ Defensivwertung: ^00e46e 3 ^oldclr
 Gesamtstärke: ^ee2c2c 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM5_DES_5]
-^ffed86 Aufstellung ^oldclr: Holly Knight Rose Swordsman Tequila
+^ffed86 Aufstellung ^oldclr: Holly Knight Rose Swordsman Agave
 
 [PVZ_WORLDCUP_TEAM5_DES_6]
 
@@ -44459,6 +44461,7 @@ Kann Giftnebel absorbieren und so zusätzlichen Schaden verursachen.
 [LOTUSSHOOTER_DESCRIPTION]
 {KEYWORD}Eigenschaften:{STAT}Absorbiert giftigen Nebel
 {KEYWORD}Pflanzeneigenschaften:{STAT}Weiße Pflanze
+
 {FLAVOR} Der Lotuswurzelschütze ist ein erfahrener Umweltschützer. Wenn er den Dunst am Himmel sieht, will er immer etwas abschießen.
 
 [LOTUSSHOOTER_TOOLTIP]
@@ -44500,6 +44503,7 @@ Kann den oberen und unteren Reihen kontinuierlichen Schaden zufügen.
 [PASSIONFLOWER_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Kann Zombies in Angriffsreichweite kontinuierlichen Schaden zufügen.
 {KEYWORD}Pflanzenmerkmale:{STAT}Lila Pflanze
+
 {FLAVOR} Passionsblume strebt danach, Ingenieurin zu werden, kann aber bisher nur Zahnräder herstellen.
 
 [PASSIONFLOWER_TOOLTIP]
@@ -44540,8 +44544,8 @@ Kann den Regenschirm des Gentleman-Zombies wegblasen.
 
 [VANILLA_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Kann den Regenschirm des Gentleman-Zombies wegblasen.
-
 {KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze.
+
 {FLAVOR}Vanille wollte schon immer Friseur werden, kann aber nur verschiedene Stile blasen.
 
 [VANILLA_TOOLTIP]
@@ -44583,6 +44587,7 @@ Wirft Granaten, um Zombies innerhalb eines Feldes Schaden zuzufügen.
 [MULBERRY_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Wirf Granaten, um Zombies innerhalb eines Rasters Schaden zuzufügen.
 {KEYWORD}Pflanzenfunktionen:{STAT}Rote Pflanze
+
 {FLAVOR} Er ist ein Militärfan und sammelt gerne alle möglichen militärischen Materialien. Eines Tages verkleidete er sich als Schütze und erschreckte damit Pflanzen auf der Straße.
 
 [MULBERRY_TOOLTIP]
@@ -44624,6 +44629,7 @@ Kann Zombies in Angriffsreichweite mit einem Vergiftungseffekt Schaden zufügen.
 [CONVALLARIACHEMIST_DESCRIPTION]
 {KEYWORD}Merkmale: {STAT}Kann Zombies in Angriffsreichweite mit Vergiftungseffekt Schaden zufügen.
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze
+
 {FLAVOR} Die Maiglöckchen Chemikerin lernt seit ihrer Kindheit Medizin, um Sterbende und Verwundete zu retten. Doch für Zombies ist der Tod oft der einzige Ausweg.
 
 [CONVALLARIACHEMIST_TOOLTIP]
@@ -51818,7 +51824,7 @@ Drachenblutbaum-Kleid
 Sonnenlichtverbrauch um 25 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_2]
-Tequilahut-Kleid
+Agavehut-Kleid
 
 [NEW_AVATAR_DESCRIPTION_AGAVE_2]
 Angriffsintervall um 15%
@@ -52165,13 +52171,13 @@ Goldenes Blattkleid
 Reduziert die Pflanz-CD um 20%
 
 [STORE_PRODUCT_AVATAR_HOTPOTATO_TITLE]
-Ofenkartoffelkostüm
+Heiße Kartoffel Kostüm
 
 [STORE_PRODUCT_AVATAR_HOTPOTATO]
 Reduziert die Pflanz-CD um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_1]
-Tequila-Frühlingsfestkostüm
+Agave-Frühlingsfestkostüm
 
 [NEW_AVATAR_DESCRIPTION_AGAVE]
 Erhöht die Angriffskraft um 1,5%
@@ -71793,7 +71799,7 @@ Der goldene Krötenpilz öffnet sein Maul und verschlingt oder leckt sofort vier
 Der goldene Krötenpilz öffnet sein Maul und verschlingt oder leckt sofort viermal alle Reihen im rechten Angriffsbereich. Nach 5 Sekunden Verdauung erzeugt er die entsprechende Menge Sonnenlicht und spuckt eine Giftgaskugel mit 30 Schaden aus, die Eiszombies verlangsamen kann. ^oldclr^
 
 [COTTONYETI_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts von Mian Xiaoxue erscheint, erschafft Mian Xiaoxue einen Schneemann, um den Zombie anzugreifen. Der Schneemann springt abwechselnd vorwärts und fügt den Zombies, auf die er tritt, Schaden zu.
+Wenn ein Zombie rechts von der Baumwolle erscheint, erschafft Baumwolle einen Schneemann, um Zombies anzugreifen. Der Schneemann springt abwechselnd vorwärts und fügt den Zombies, auf die er tritt, Schaden zu.
 
 [COTTONYETI_NEW_SKILL_LEVEL2_DES]
 Wenn ein Schneemann einen Zombie trifft, wird dieser 10 Sekunden lang durch Eis verlangsamt.
@@ -71811,25 +71817,25 @@ Wirft die Nase heraus, um einen riesigen Schneemann zu beschwören. Dieser besch
 Wirft die Nase heraus, um einen riesigen Schneemann zu beschwören. Dieser fügt dem linken Zombie davor in einem 3×3 großen Bereich um den linken Zombie ^ff0000^ zusätzlichen Schaden^oldclr^ zu und friert Ⅰ^oldclr^ 3 Sekunden lang ein.
 
 [AGAVE_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie zwei Felder rechts von Agave erscheint, stürmt Agave vor, schwingt sein Schwert und schlägt auf die Zombies in dem Bereich ein. Agaves Angriffe verursachen doppelten Schaden an Zombies in Rüstung.
+Wenn ein Zombie zwei Felder rechts von Agave erscheint, stürmt Agave vor, schwingt ihr Schwert und schlägt auf die Zombies in dem Bereich ein. Agaves Angriffe verursachen doppelten Schaden an Zombies in Rüstung.
 
 [AGAVE_NEW_SKILL_LEVEL2_DES]
 Agaves hervorragende Schwertkunst ermöglicht es ihr, nach 3 Sekunden Aufladung zwei Hiebe gleichzeitig auszuführen.
 
 [AGAVE_NEW_SKILL_LEVEL3_DES]
-Tequilas hervorragende Schwertkunst ermöglicht nach 2 Sekunden Ladezeit zwei Hiebe gleichzeitig.
+Agaves hervorragende Schwertkunst ermöglicht nach 2 Sekunden Ladezeit zwei Hiebe gleichzeitig.
 
 [AGAVE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [AGAVE_NEW_SKILL_LEVEL5_DES]
-Nach 2 Sekunden Ladezeit führt Tequila den luftzerstörenden Hieb aus, der den ersten Zombie in der Reihe anvisiert und die Zombies im 1×2-Bereich mehrfach trifft und jeweils 2700 Schaden verursacht.
+Nach 2 Sekunden Ladezeit führt Agave den luftzerstörenden Hieb aus, der den ersten Zombie in der Reihe anvisiert und die Zombies im 1×2-Bereich mehrfach trifft und jeweils 2700 Schaden verursacht.
 
 [AGAVE_PLANTFOOD_DESCRIPTION]
-Tequila schwingt das Schwert kräftig nach rechts und erzeugt einen Schwertenergie-Schlag, der die gesamte Reihe durchdringt und allen Zombies in der Reihe Schaden zufügt.
+Schwingt das Schwert kräftig nach rechts und erzeugt einen Schwertenergie-Schlag, der die gesamte Reihe durchdringt und allen Zombies in der Reihe Schaden zufügt.
 
 [AGAVE_AVATAR_PLANTFOOD_DESCRIPTION]
-Agave schwingt ihr Schwert energisch in Richtung der drei Reihen rechts von ^ff0000^. Die Schwertenergie durchdringt die gesamte Reihe und fügt allen Zombies in den drei Reihen Schaden zu. ^oldclr^
+Agave schwingt ihr Schwert energisch in Richtung der drei Reihen rechts ^ff0000^. Die Schwertenergie durchdringt die gesamte Reihe und fügt allen Zombies in den drei Reihen Schaden zu. ^oldclr^
 
 [JACKFRUIT_NEW_SKILL_LEVEL1_DES]
 Wenn rechts ein Zombie erscheint, rollt er nach rechts zu ihm und verursacht Schaden. Bei jedem Treffer der Jackfrucht lässt sie einen unbeweglichen Samen fallen, der 200 Schadenspunkte absorbieren und einen von einem Zombie des verlorenen Führers geschaffenen Durchgang blockieren kann.
@@ -78515,31 +78521,6 @@ Wöchentliches Geschenkpaket (II)
 [PRODUCT_03LUCKBOX_68_SHORTDESC]
 Wöchentliches Geschenkpaket (III)
 
-[PRODUCT_04LUCKBOX_68_S HORTDESC]
-Wöchentliches Geschenkpaket (Vier)
-
-[PRODUCT_05LUCKBOX_68_SHORTDESC]
-Wöchentliches Geschenkpaket (Fünf)
-
-[PRODUCT_06LUCKBOX_68_SHORTDESC]
-Wöchentliches Geschenkpaket (Sechs)
-
-[PRODUCT_07LUCKBOX_68_SHORTDESC]
-Wöchentliches Geschenkpaket (Sieben)
-
-[PRODUCT_08LUCKBOX_68_SHORTDESC]
-Wöchentliches Spezialpaket (Acht)
-
-[TIANGONG_HEAD_DES_ID_25698]
-Sammle im Tiangong-Schatzjagd-Event die Belohnungen in der Extraktionsphase.
-
-[PVP_ERROR_76030]
-Gegenstandsbetrug erkannt.
-
-[ZOMBOSS_QIGONG_CURE_WARNING]
-Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]
 [PRODUCT_04LUCKBOX_68_S HORTDESC]
 Wöchentliches Geschenkpaket (Vier)
 
