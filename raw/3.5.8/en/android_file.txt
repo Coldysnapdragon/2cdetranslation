@@ -1,6 +1,6 @@
 ﻿
 [ACHIEVE_BROADSIDE_DESC]
-Benutze die Kokosnusskanone, um die Zombie-Wichtelkanone zu zerstören.
+Benutze die Kokosnusskanone, um die Zombie-Wichtkanone zu zerstören.
 
 [ACHIEVE_BROADSIDE_TITLE]
 Breitseitenkanone
@@ -2836,7 +2836,7 @@ Dieser Benutzername existiert bereits.
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_RIFT_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hallo, Penny scheint Dr. Zombies Signal aufgespürt zu haben. Schau doch mal vorbei!
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hallo, Penny scheint Dr. Zomboss Signal aufgespürt zu haben. Schau doch mal vorbei!
 
 [NARRATIVE_TUTORIAL_RIFT_INTRO_2]
 {NPC_EXIT:crazydave}
@@ -11739,7 +11739,7 @@ Klicke, um Feuer zu spucken.
 Heilt umliegende Pflanzen.
 
 [ZOMBIE_KONGFU_BASIC]
-Kung-Fu-Zombies
+Kung-Fu-Zombie
 
 [ZOMBIE_KONGFU_BASIC_DESCRIPTION]
 {FLAVOR}Unterschätze diese gewöhnlichen Zombies nicht! Sie haben jahrelang Kung Fu gelernt (schwer zu sagen, wie viel sie vergessen haben).
@@ -11748,13 +11748,13 @@ Kung-Fu-Zombies
 Gewöhnliche Kung-Fu-Zombies.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1]
-Kung-Fu-Zombies mit Straßensperren
+Kung-Fu-Zombie mit Pylonen
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1_DESCRIPTION]
-{FLAVOR}Warum brauchen Kung-Fu-Zombies Straßensperren zum Schutz? Weil sie modischer aussehen.
+{FLAVOR}Warum brauchen Kung-Fu-Zombies Pylonen zum Schutz? Weil sie modischer aussehen.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1_DESCRIPTION_HEADER]
-Sein Straßensperrenhelm macht ihn doppelt so stark wie gewöhnliche Zombies.
+Sein Pylonenhelm macht ihn doppelt so stark wie gewöhnliche Zombies.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2]
 Eiserner Teekannen-Kung-Fu-Zombie
@@ -11833,7 +11833,7 @@ Betrunkener Zombie
 Nach dem Trinken kann er gewalttätig werden.
 
 [ZOMBIE_KONGFU_MONK_CONE]
-Kriegermönch-Straßensperren-Zombie
+Kriegermönch-Pylonen-Zombie
 
 [ZOMBIE_KONGFU_MONK_CONE_DESCRIPTION]
 {FLAVOR}Glaubst du, Mönche brauchen keine Rüstung? Da irrst du dich. Er hält sie für einen Hut, mit dem er angeben kann.
@@ -11887,7 +11887,7 @@ Klingenmönch-Zombie
 Ein Mönchszombie mit extrem starker Angriffskraft.
 
 [ZOMBIE_KONGFU_MONK_IMP]
-Ein Mönchskobold-Zombie.
+Mönchs-Wicht-Zombie.
 
 [ZOMBIE_KONGFU_MONK_IMP_DESCRIPTION]
 {FLAVOR}Leicht wie eine Schwalbe – das ist keine Übertreibung.
@@ -12133,10 +12133,10 @@ Klicke bitte auf den Feuerkürbis, um Feuer zu versprühen.
 Die Flamme des Feuerkürbisses kann den Waffenständer effektiv reinigen.
 
 [UPGRADE_KONGFU_COMING_SOON]
-Dr. Zombie kommt bald!
+Dr. Zomboss kommt bald!
 
 [UPGRADE_KONGFU_COMING_SOON_INFO]
-Dr. Zombie ist auch in die Kung-Fu-Welt gereist. Pflanzen werden sich beispiellosen Herausforderungen stellen müssen. Achte auf dein Gehirn!
+Dr. Zomboss ist auch in die Kung-Fu-Welt gereist. Pflanzen werden sich beispiellosen Herausforderungen stellen müssen. Achte auf dein Gehirn!
 
 [UPGRADE_MOWER_4_INFO]
 Hol dir den einfachen Wagen der Kung-Fu-Welt, der einem Zombieangriff auf das Haus standhalten kann.
@@ -13848,7 +13848,7 @@ Erhöht die Chance, dass die Superbombe ausgelöst wird, um 100%.
 Säureverstärkung
 
 [LEMON_SKILL_LEVEL1_DES]
-Ermöglicht die ätzende Wirkung von Zitronensäure auf Straßensperren-Zombies.
+Ermöglicht die ätzende Wirkung von Zitronensäure auf Pylonen-Zombies.
 
 [LEMON_SKILL_LEVEL2]
 Evolution von Zitronensäure
@@ -15654,6 +15654,7 @@ Eispilz
 
 [ICESHROOM_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Blaue Pflanze, stark und gesund, Pilzfamilie, geheimnisvoller Zauberer
+
 {FLAVOR}Eispilz hasst den Winter am meisten, weil er im Schlaf nicht warm wird. Das Schlimmste ist, dass er morgens beim Aufwachen eine dicke Eisschicht im Kamin sieht. Dann ist er extrem neidisch auf seinen Bruder, den Flammenpilz.
 
 [ICESHROOM_DESCRIPTION_HEADER]
@@ -15662,17 +15663,18 @@ Der Eispilz kann mit zunehmendem Wachstum immer mächtigere Zauber wirken, um di
 [ICESHROOM_TOOLTIP]
 Er kann mit zunehmendem Wachstum immer mächtigere Zauber wirken, um die Zombies vor ihm anzugreifen.
 
-[FEUERSHROOM]
+[FIRESHROOM]
 Feuerpilz
 
-[FEUERSHROOM_DESCRIPTION]
+[FIRESHROOM_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften:{STAT}Orange Pflanze, rote Pflanze, stark und gesund, Pilzfamilie, geheimnisvoller Zauberer
+
 {FLAVOR}Feuerpilz hasst den Sommer am meisten, weil er beim Zaubern zu sehr schwitzt. Noch schlimmer ist, dass die Klimaanlage in seinem Haus wegen der hohen Temperaturen ständig ausfällt. Immer wenn das passiert, beneidet er seinen Eispilz-Kollegen.
 
-[FEUERSHROOM_DESCRIPTION_HEADER]
+[FIRESHROOM_DESCRIPTION_HEADER]
 Der Feuerpilz kann mit zunehmendem Wachstum immer mächtigere Zauber freisetzen, um die Zombies vor ihm anzugreifen.
 
-[FEUERSHROOM_TOOLTIP]
+[FIRESHROOM_TOOLTIP]
 Er kann mit zunehmendem Wachstum immer mächtigere Zauber freisetzen, um die Zombies vor ihm anzugreifen.
 
 [DARK_LEVEL_NAME]
@@ -17174,7 +17176,7 @@ Ein echter Strandschläger.
 Schmalzlocken-Pylonenzombie
 
 [ZOMBIE_BEACH_ARMOR1_DESCRIPTION]
-{FLAVOR}Man sagt: „Geh am Strand spazieren!“ Andere sagen: „Trage die Armbinde!“ Genau das macht Straßensperren-pompadourzombie. Er ist der Beste darin, Anweisungen zu befolgen.
+{FLAVOR}Man sagt: „Geh am Strand spazieren!“ Andere sagen: „Trage die Armbinde!“ Genau das macht Pylonen-pompadourzombie. Er ist der Beste darin, Anweisungen zu befolgen.
 
 [ZOMBIE_BEACH_ARMOR1_DESCRIPTION_HEADER]
 Seine Seestern-Barrikade macht ihn doppelt so stark wie ein normaler Schmalzlocken-zombie.
@@ -19081,10 +19083,10 @@ ca=Eiskugel|Feuerkugel|Laser|Erdnuss|
 [LANTERN_RIDDLES_6]
 Was ist das Kostüm der Frühlingsbohne?
 [LANTERN_RIDDLES_ANSWER_6]
-ca=Ballettrock|Ballettschuhe|Baseballschläger|Dr. Zombie| [LANTERN_RIDDLES_7]
+ca=Ballettrock|Ballettschuhe|Baseballschläger|Dr. Zomboss| [LANTERN_RIDDLES_7]
 Was passiert, wenn der örtliche Assassine auf dem Deck auf die Walze trifft?
 [LANTERN_RIDDLES_ANSWER_7]
-ca=Zombie-Kobold rausspringen | Dr. Zombie rausspringen | Ins Meer fallen | Hai rausspringen |
+ca=Zombie-Wicht rausspringen | Dr. Zomboss rausspringen | Ins Meer fallen | Hai rausspringen |
 [LANTERN_RIDDLES_8]
 Auf welchen Beruf ist Feuerdrache Gras noch stolz?
 [LANTERN_RIDDLES_ANSWER_8]
@@ -19250,7 +19252,7 @@ An wie vielen Bowling-Wettbewerben hat Bowling Bubble teilgenommen?
 [LANTERN_RIDDLES_ANSWER_48]
 ca=5 Mal|6 Mal|8 Mal|7 Mal|
 [LANTERN_RIDDLES_49]
-Warum fällt die Straßensperre des Straßensperren-Zombies nicht vom Kopf?
+Warum fällt die Straßensperre des Pylonen-Zombies nicht vom Kopf?
 [LANTERN_RIDDLES_ANSWER_49]
 ca=Mit starkem Kleber festgeklebt|Mit großem Kopf festgeklebt|Spieldesign wie dieses|Keines davon ist richtig|
 [LANTERN_RIDDLES_50]
@@ -21878,13 +21880,13 @@ Gewöhnlicher Pilot-Zombie
 {FLAVOR} Unterschätze den gewöhnlichen Pilot-Zombie nicht. Es ist nicht leicht, in der Luft das Gleichgewicht zu halten, ohne auf den Rücken zu fallen. Fliegen gibt ihnen ein Gefühl von Freiheit – natürlich nur, wenn sie noch Verstand haben.
 
 [ZOMBIE_SKYCITY_ARMOR1]
-Straßensperren-Pilot-Zombie
+Pylonen-Pilot-Zombie
 
 [ZOMBIE_SKYCITY_ARMOR1_DESCRIPTION_HEADER]
 Die mit Sekundenkleber befestigte Straßensperre macht ihn doppelt so stark wie den gewöhnlichen Pilot-Zombie!
 
 [ZOMBIE_SKYCITY_ARMOR1_DESCRIPTION]
-{FLAVOR} Um sich an die starken Winde am Himmel anzupassen, hat der Straßensperren-Pilot-Zombie einen neuen, starken Klebstoff gekauft. Obwohl ihm alle Zombies davon abrieten, die Straßensperre in großer Höhe zu nehmen, hielt er sie für ein Symbol seines modischen Images.
+{FLAVOR} Um sich an die starken Winde am Himmel anzupassen, hat der Pylonen-Pilot-Zombie einen neuen, starken Klebstoff gekauft. Obwohl ihm alle Zombies davon abrieten, die Straßensperre in großer Höhe zu nehmen, hielt er sie für ein Symbol seines modischen Images.
 
 [ZOMBIE_SKYCITY_ARMOR2]
 Fasspilot-Zombie
@@ -21953,7 +21955,7 @@ Benutze das Maschinengewehr des Jägers, um Pflanzen und Raumschiffe anzugreifen
 Fliegender Gargantua
 
 [ZOMBIE_SKYCITY_GARGANTUAR_DESCRIPTION_HEADER]
-Zerschmettere alle Pflanzen und wirf fliegende Wichtel-Zombies auf das Raumschiff.
+Zerschmettere alle Pflanzen und wirf fliegende Wicht-Zombies auf das Raumschiff.
 
 [ZOMBIE_SKYCITY_GARGANTUAR_DESCRIPTION]
 {FLAVOR} Der fliegende Gargantua ist sehr wütend darüber, dass er die dreifache Maut zahlen muss, weil seine enorme Größe mehr Fahrspuren beansprucht. „Ehrlich gesagt, möchte ich einfach nur ein unbeschwerter kleiner Zombie sein.“ Der fliegende Gargantua blickte hilflos auf die geschrumpfte Brieftasche. „Aber nur manchmal.“
@@ -22184,7 +22186,7 @@ Der Flaggen-Zombie ist ein geborener Anführer. Besonders zu dieser besonderen Z
 Ein Neujahrs-Zombie mit einer Flagge deutet normalerweise auf die Ankunft einer großen Zombiewelle hin.
 
 [ZOMBIE_LNY_ARMOR1]
-Neujahrs-Straßensperren-Zombie
+Neujahrs-Pylonen-Zombie
 
 [ZOMBIE_LNY_ARMOR1_DESCRIPTION_HEADER]
 „Wünsche dir ein erfolgreiches Leben“ ist das Einzige, woran er sich erinnert.
@@ -22202,7 +22204,7 @@ Er greift an Silvester immer um Mitternacht an, sodass die Erbsen, die auf die g
 Seine goldene Glocke hält viel Schaden aus.
 
 [ZOMBIE_LNY_IMP]
-Neujahrs-Fan-Wichtel-Zombie
+Neujahrs-Fan-Wicht-Zombie
 
 [ZOMBIE_LNY_IMP_DESCRIPTION_HEADER]
 Ein Knaller-Fanatiker, der jedes Jahr zu Neujahr losrennt, um Knallkörper und seinen eigenen Kopf zu zünden.
@@ -22533,13 +22535,13 @@ Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Alarm, Dave! Meine Detektoren haben die verlorenen Wicht-Träger geortet.
 
 [NARRATIVE_LOSTCITY_17_INTRO_2]
-{EXCITED:crazydave}Verlorene Wichtelträger? Bringen sie coole Sachen mit?
+{EXCITED:crazydave}Verlorene Wichtträger? Bringen sie coole Sachen mit?
 
 [NARRATIVE_LOSTCITY_17_INTRO_3]
 {SAY:winnie}Falsch. Sie lassen ihre Rucksäcke auf den Goldfliesen fallen, und die Rucksäcke werden zu Portalen, um Zombies zu transportieren.
 
 [NARRATIVE_LOSTCITY_17_INTRO_4]
-{EXCITED:crazydave}Wichtelzombies und böse Portale!
+{EXCITED:crazydave}Wicht-Zombies und böse Portale!
 
 [NARRATIVE_LOSTCITY_2_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Detektoren haben etwas von oben registriert!
@@ -22651,18 +22653,18 @@ Als Gartenzombie erfuhr, dass er beim Eintritt in die Armee einen Helm tragen du
 Spezialfähigkeit: Verwandle dich vorübergehend in Eimerzombie.
 
 [ZOMBIE_PVP_IMP]
-Kampf gegen Wichtelzombies
+Kampf gegen Wicht-Zombies
 
 [ZOMBIE_PVP_IMP_DESCRIPTION_HEADER]
-Nachdem Wichtelzombie erfahren hatte, dass er in seinem früheren Leben ein Drilling war, beschloss sie, mit ihren Brüdern in den Kampf zu ziehen.
-Spezialfähigkeit: Ruft für kurze Zeit zwei Phantom-Kobolde hinter sich her.
+Nachdem Wicht-Zombie erfahren hatte, dass er in seinem früheren Leben ein Drilling war, beschloss sie, mit ihren Brüdern in den Kampf zu ziehen.
+Spezialfähigkeit: Ruft für kurze Zeit zwei Phantom-Wichte hinter sich her.
 
 [ZOMBIE_PVP_CANNON]
 Imperiale Zombiekanone
 
 [ZOMBIE_PVP_CANNON_DESCRIPTION_HEADER]
-Um weiter und höher fliegen zu können, verwenden die Kobolde eine modifizierte Version der menschlichen Kanone – die Zombiekanone.
-Spezialfähigkeit: Feuert viele Kobolde ab.
+Um weiter und höher fliegen zu können, verwenden die Wichte eine modifizierte Version der menschlichen Kanone – die Zombiekanone.
+Spezialfähigkeit: Feuert viele Wichte ab.
 
 [ZOMBIE_PVP_SEAGULL]
 Möwenzombie
@@ -22696,7 +22698,7 @@ Spezialfähigkeit: Beschwöre eine Zombiearmee aus Grabsteinen.
 Gargantua
 
 [ZOMBIE_PVP_GARGANTUAR_DESCRIPTION_HEADER]
-Der Gargantua isst zu viel und fühlt sich in der Kaserne minderwertig. Deshalb trainiert er hart seine Armkraft, und das Werfen von Zombie-Kobolden ist zu seiner bevorzugten Fitnessmethode geworden.
+Der Gargantua isst zu viel und fühlt sich in der Kaserne minderwertig. Deshalb trainiert er hart seine Armkraft, und das Werfen von Zombie-Wichten ist zu seiner bevorzugten Fitnessmethode geworden.
 Spezialfähigkeit: Wirft 3 Phantom-Zombies nach vorne.
 
 [ZOMBIE_PVP_NURSE]
@@ -25036,7 +25038,7 @@ Züchte eine Holo-Nuss, lass sie töten und belebe sie anschließend zweimal wie
 Wiederbeleben
 
 [ACHIEVE_FUTURE_SUN_DAMAGED_DESC]
-Zerstöre den Straßensperren-Mech-Zombie mit einer Sonnenbombe.
+Zerstöre den Pylonen-Mech-Zombie mit einer Sonnenbombe.
 
 [ACHIEVE_FUTURE_SUN_DAMAGED_TITLE]
 Sonnenschaden
@@ -25243,7 +25245,7 @@ Schließe ein Level ab, ohne dass ein verlorener Grabzombie eine Pflanze ausgrä
 Leg die Schaufel weg.
 
 [ACHIEVEMENT_SPAWN_CAMPING_DESC]
-Schließe ein Level ab, in dem drei verlorene Wichtelträger ihr Lager aufschlagen.
+Schließe ein Level ab, in dem drei verlorene Wichtträger ihr Lager aufschlagen.
 
 [ACHIEVEMENT_SPAWN_CAMPING_HEADER]
 Lager errichten
@@ -25536,7 +25538,7 @@ Durchblick-Fähigkeit
 [AWARD_SCREEN_TREASURE_CHEST_DESCRIPTION]
 10.000 Münzen
 [AWARD_SCREEN_WORLDTROPHY_BEACH]
-Du hast Dr. Zombies Dr. Zombie (Robo-Shark) besiegt.
+Du hast Dr. Zomboss Dr. Zomboss (Robo-Shark) besiegt.
 
 [AWARD_SCREEN_ARTIFACT_VASE_DESCRIPTION]
 Ein mächtiges Artefakt
@@ -25557,13 +25559,13 @@ Eine große Anzahl Strandtrophäen
 Wildwest-Trophäen
 
 [AWARD_SCREEN_WORLDTROPHY_DARK]
-Du hast Dr. Zombies dunklen mechanischen Drachen besiegt.
+Du hast Dr. Zomboss dunklen mechanischen Drachen besiegt.
 
 [AWARD_SCREEN_WORLDTROPHY_DARK_TITLE]
 Trophäe „Dunkles Zeitalter“
 
 [AWARD_SCREEN_WORLDTROPHY_DINO]
-Du hast Dr. Zombies Dinosaurier-Roboter-Zombies besiegt.
+Du hast Dr. Zomboss Dinosaurier-Roboter-Zombies besiegt.
 
 [AWARD_SCREEN_WORLDTROPHY_DINO_TITLE]
 Trophäe „Dino-Krise“
@@ -25572,22 +25574,22 @@ Trophäe „Dino-Krise“
 Trophäe „Mysteriöses Ägypten“
 
 [AWARD_SCREEN_WORLDTROPHY_EIGHTIES]
-Du hast Dr. Zombies neue Generation, Dr. Rock Zombie, besiegt.
+Du hast Dr. Zomboss neue Generation, Dr. Rock Zombie, besiegt.
 
 [AWARD_SCREEN_WORLDTROPHY_EIGHTIES_TITLE]
 Fels der Zeiten-Trophäe
 
 [AWARD_SCREEN_WORLDTROPHY_FUTURE]
-Du hast Dr. Zombies Zukunftsmechaniker-Zombie besiegt.
+Du hast Dr. Zomboss Zukunftsmechaniker-Zombie besiegt.
 
 [AWARD_SCREEN_WORLDTROPHY_ICEAGE]
-Du hast Dr. Zombies Beißer-Eroberer besiegt.
+Du hast Dr. Zomboss Beißer-Eroberer besiegt.
 
 [AWARD_SCREEN_WORLDTROPHY_ICEAGE_TITLE]
 Eiswelt-Trophäe
 
 [AWARD_SCREEN_WORLDTROPHY_LOSTCITY]
-Du hast Dr. Zombies Luftschiff-Zombie besiegt.
+Du hast Dr. Zomboss Luftschiff-Zombie besiegt.
 
 [AWARD_SCREEN_WORLDTROPHY_LOSTCITY_TITLE]
 Verlorene Stadt-Trophäe
@@ -25907,7 +25909,7 @@ Verlorener Bagger-Zombie
 Verlorener Regenschirm Zombie
 
 [CREDITS_VA_LOST_CITY_ZOMBIES]
-Verlorener Kobold-Zombie
+Verlorener Wicht-Zombie
 
 [CREDITS_VA_MODERN_NEWSPAPER_ZOMBIE]
 Zeitungsleser-Zombie
@@ -26167,10 +26169,10 @@ Sie haben sich gerade um ein Huhn gestritten!
 Besiege den Hühner-Zombie!
 
 [DEFEAT_CONES_REPEATABLE_DESC]
-Töte den Straßensperren-Zombie und übe, den Garten zu bewachen!
+Töte den Pylonen-Zombie und übe, den Garten zu bewachen!
 
 [DEFEAT_CONES_REPEATABLE_TITLE]
-Besiege den Straßensperren-Zombie!
+Besiege den Pylonen-Zombie!
 
 [DEFEAT_CRYSTALSKULL_REPEATABLE_DESC]
 Diese seltsamen Schädel können so etwas unmöglich anstellen!
@@ -26290,13 +26292,13 @@ Besiege die verlorenen Imp-Träger!
 Diese Dinger sind echt komisch. Töte sie!
 
 [DEFEAT_IMPS_REPEATABLE_TITLE]
-Besiege die Wichtel-Zombies!
+Besiege die Wicht-Zombies!
 
 [DEFEAT_IMPUNK_REPEATABLE_DESC]
 Zombies mit Irokesenschnitt? Aaaah!!!
 
 [DEFEAT_IMPUNK_REPEATABLE_TITLE]
-Besiege die Stein-Wichtel-Zombies!
+Besiege die Stein-Wicht-Zombies!
 
 [DEFEAT_JETPACK_REPEATABLE_DESC]
 Wieso haben die Jetpacks? Das ist so unfair!
@@ -26440,7 +26442,7 @@ Besiege den Schnorchel-Zombie!
 Weil ich es mag!
 
 [DEFEAT_SUPERFAN_IMP_REPEATABLE_TITLE]
-Besiege den Superfan-Kobold-Zombie!
+Besiege den Superfan-Wicht-Zombie!
 
 [DEFEAT_SURFER_REPEATABLE_DESC]
 Sie haben eine gute Hochschulbildung verpasst!
@@ -26928,10 +26930,10 @@ Schieße Bananenraketen überall auf dem Spielfeld ab und sorge für Gerechtigke
 Schalte die Bananen-Bazooka frei!
 
 [FINISH_BEACH_32_DESC]
-Besiege den mürrischen Dr. Zombie und hol dir deine Belohnung an Tag 32 von Big Wave Beach!
+Besiege den mürrischen Dr. Zomboss und hol dir deine Belohnung an Tag 32 von Big Wave Beach!
 
 [FINISH_BEACH_32_TITLE]
-Kämpfe gegen Dr. Zombie
+Kämpfe gegen Dr. Zomboss
 
 [FINISH_BEACH_6_DESC]
 Ein tiefgründiger Gedanke, der alles lautlos bewegt. Tangle Weed zieht den tauchenden Zombie in ein Unterwassergrab! Schließe Tag 6 von Big Wave Beach ab!
@@ -26982,10 +26984,10 @@ Greife eine Gruppe Zombies an, verursache massiven Schaden und friere sie ein! W
 Schalte Eiswassermelone frei!
 
 [FINISH_COWBOY_25_DESC]
-Bekämpfe Dr. Zombie und hol dir die Trophäe im Wüstenduell an Tag 25 im Wilden Westen!
+Bekämpfe Dr. Zomboss und hol dir die Trophäe im Wüstenduell an Tag 25 im Wilden Westen!
 
 [FINISH_COWBOY_25_TITLE]
-Kämpfe gegen Dr. Zombie
+Kämpfe gegen Dr. Zomboss
 
 [FINISH_COWBOY_3_DESC]
 Stell dich dem Endlosmodus und hol dir Belohnungen im Grenzstreit! Schließe Tag 3 im Wilden Westen ab!
@@ -27048,10 +27050,10 @@ Wie wär’s mit einem kleinen Shooter, der kein Sonnenlicht verbraucht? Das ist
 Schalte den Spritzpilz frei!
 
 [FINISH_DARK_20_DESC]
-Besiege an Tag 20 des uralten Dunklen Zeitalters den bösen Dr. Zombie und hol dir die Trophäe!
+Besiege an Tag 20 des uralten Dunklen Zeitalters den bösen Dr. Zomboss und hol dir die Trophäe!
 
 [FINISH_DARK_20_TITLE]
-Greife Dr. Zombie an!
+Greife Dr. Zomboss an!
 
 [FINISH_DARK_4_DESC]
 Der Riesen-Puffpilz besprüht mehrere Zombies in Reichweite. Probier ihn aus, Zombies! Schließe Tag 4 von Dark Ages ab!
@@ -27096,10 +27098,10 @@ Gib Zombies eine Kostprobe des klebrigen, stärkehaltigen Angriffs, indem du sie
 Schalte Urkartoffelminen frei!
 
 [FINISH_DINO_32_DESC]
-Besiege den übereifrigen Dr. Zombie und gewinne Beute in der Sumpfschlacht an Tag 32 der Dino-Krise!
+Besiege den übereifrigen Dr. Zomboss und gewinne Beute in der Sumpfschlacht an Tag 32 der Dino-Krise!
 
 [FINISH_DINO_32_TITLE]
-Bekämpfe Dr. Zombie!
+Bekämpfe Dr. Zomboss!
 
 [FINISH_DINO_4_DESC]
 Nutze die schnell wachsenden Urnüsse, um so schnell wie möglich eine Verteidigung aufzubauen! Schließe Tag 4 der Dino-Krise ab!
@@ -27156,10 +27158,10 @@ Kein Sonnenlicht mehr? Zwillingssonnenblumen erzeugen doppelt so viel Sonnenlich
 Schalte Zwillingssonnenblumen frei!
 
 [FINISH_EGYPT_25_DESC]
-Besiege den bösen Dr. Zombie in der Uralten Schlacht an Tag 25 von Mystisches Ägypten und gewinne Beute!
+Besiege den bösen Dr. Zomboss in der Uralten Schlacht an Tag 25 von Mystisches Ägypten und gewinne Beute!
 
 [FINISH_EGYPT_25_TITLE]
-Kämpfe gegen Dr. Zombie!
+Kämpfe gegen Dr. Zomboss!
 
 [FINISH_EGYPT_3_DESC]
 Wirf Bumerangs auf mehrere Gegner gleichzeitig und verdoppele so den Schaden! Schließe Mystisches Ägypten Tag 3 ab!
@@ -27222,10 +27224,10 @@ Erwecke zerfressene Pflanzen mit der unbezwingbaren Auferstehungskarotte wieder 
 Schalte die Auferstehungskarotte frei!
 
 [FINISH_EIGHTIES_32_DESC]
-Verärgere den reizbaren Dr. Zombie und gewinne Beute im musikalischen Kampf von Rock of Ages 32!
+Verärgere den reizbaren Dr. Zomboss und gewinne Beute im musikalischen Kampf von Rock of Ages 32!
 
 [FINISH_EIGHTIES_32_TITLE]
-Bekämpfe Dr. Zombie!
+Bekämpfe Dr. Zomboss!
 
 [FINISH_EIGHTIES_5_DESC]
 Leise und lautlos ... Der lauernde Sellerie versteckt sich unter der Erde und stürzt sich von hinten auf Zombies, um sie zu überraschen! Schließe Rock of Ages 5 ab!
@@ -27270,10 +27272,10 @@ Power-Kacheln verstärken die Wirkung von Power-Bohnen. Benutze Kachel-Karotten,
 Schalte Kachel-Karotten frei!
 
 [FINISH_FUTURE_25_DESC]
-Bekämpfe den finsteren Dr. Zombie in Future World Tag 25 und gewinne Beute!
+Bekämpfe den finsteren Dr. Zomboss in Future World Tag 25 und gewinne Beute!
 
 [FINISH_FUTURE_25_TITLE]
-Bekämpfe Dr. Zombie!
+Bekämpfe Dr. Zomboss!
 
 [FINISH_FUTURE_3_DESC]
 Puste alle fliegenden Gegner mit einem Windstoß vom Bildschirm! Schließe Tag 3 von Future World ab!
@@ -27342,10 +27344,10 @@ Die Spinnende Rübe fliegt, schwebt und feuert in alle vier Richtungen – einfa
 Schalte die Spinnende Rübe frei!
 
 [FINISH_ICEAGE_30_DESC]
-Besiege den verdorbenen Dr. Zombie in diesem eisigen Kampf an Eiswelt Tag 30 und gewinne Beute!
+Besiege den verdorbenen Dr. Zomboss in diesem eisigen Kampf an Eiswelt Tag 30 und gewinne Beute!
 
 [FINISH_ICEAGE_30_TITLE]
-Kämpfe gegen Dr. Zombie!
+Kämpfe gegen Dr. Zomboss!
 
 [FINISH_ICEAGE_6_DESC]
 Bekämpfe Feuer mit Eis. Der Chilikrug schmilzt Eis und greift mit Chilischoten Gegner außerhalb von Hindernissen an! Schließe Tag 6 von Ice Age ab!
@@ -27390,10 +27392,10 @@ Goldenes Blatt verwandelt gewöhnliche Kacheln in magische goldene Kacheln, die 
 Schalte Goldenes Blatt frei!
 
 [FINISH_LOSTCITY_32_DESC]
-Bekämpfe den bösen Dr. Zombie in der Abenteuerarena an Tag 32 von Lost City!
+Bekämpfe den bösen Dr. Zomboss in der Abenteuerarena an Tag 32 von Lost City!
 
 [FINISH_LOSTCITY_32_TITLE]
-Bekämpfe Dr. Zombie!
+Bekämpfe Dr. Zomboss!
 
 [FINISH_LOSTCITY_6_DESC]
 A.Kai.Mu.Mus Angriffe können zwischen mehreren Gegnern auf einer Route hin- und herspringen. Viel Glück, Zombies! Schließt Tag 6 der Verlorenen Stadt ab!
@@ -27438,10 +27440,10 @@ Verpasse den Zombies mit der Dunklen Primel den verdienten Tod! Schließe Tag 23
 Schalte die Dunkle Primrose frei!
 
 [FINISH_MODERN_34_DESC]
-Besiege den bösen Dr. Zombie im spannenden Showdown von Modern Day 34 und gewinne Belohnungen!
+Besiege den bösen Dr. Zomboss im spannenden Showdown von Modern Day 34 und gewinne Belohnungen!
 
 [FINISH_MODERN_34_TITLE]
-Kämpfe gegen Dr. Zombie!
+Kämpfe gegen Dr. Zomboss!
 
 [FINISH_MODERN_4_DESC]
 Schlage deine Feinde mit Nachtschatten! Schließe Modern Day 4 ab!
@@ -27486,10 +27488,10 @@ Kirschbomben können ganze Gegnergruppen auf mehreren Routen zu Staub zermahlen!
 Schalte Kirschbomben frei!
 
 [FINISH_PIRATE_25_DESC]
-Besiege den fiesen Dr. Zombie in einer erbitterten Seeschlacht an Pirate Bay Tag 25 und verdiene Beute!
+Besiege den fiesen Dr. Zomboss in einer erbitterten Seeschlacht an Pirate Bay Tag 25 und verdiene Beute!
 
 [FINISH_PIRATE_25_TITLE]
-Kämpfe gegen Dr. Zombie!
+Kämpfe gegen Dr. Zomboss!
 
 [FINISH_PIRATE_3_DESC]
 Ein heftiger Flammenangriff, der Gegner auf mehreren Routen gleichzeitig treffen kann! Schließe Pirate Bay Tag 3 ab!
@@ -27827,7 +27829,7 @@ Probiert den Harzkrug heute auf der Festtagsparty. Er ist klebriger als Früchte
 Gewinnt 5 Spiele in Folge und erhaltet eine besondere Festtagsparty-Belohnung von SEÑOR PIÑATA. Er liebt die Feiertage!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_6]
-Festtagsparty-Tag 11 hat begonnen! Der Gargantua hat den Wichtelzombie sorgfältig aufgehängt. Nicht verpassen!
+Festtagsparty-Tag 11 hat begonnen! Der Gargantua hat den Wicht-Zombie sorgfältig aufgehängt. Nicht verpassen!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_7]
 Der Harzkrug ist an Festtagsparty-Tag 12 wieder im Einsatz. Weg mit den Tannenzapfen!
@@ -29562,7 +29564,7 @@ hart.
 {NPC_ENTER:IMPFINITY}{SAY:IMPFINITY}Hihi! Hihi! Hihi!
 
 [NARRATIVE_HEROES_EVENT_002_INTRO_4]
-{SAY:GREENSHADOW}Unendliche Kobold-Zombies! Ihr Wahnsinnigen!
+{SAY:GREENSHADOW}Unendliche Wicht-Zombies! Ihr Wahnsinnigen!
 
 [NARRATIVE_HEROES_EVENT_002_INTRO_5]
 {SAY:GREENSHADOW}Das ist nicht lustig!
@@ -29625,7 +29627,7 @@ hart.
 {SAY:IMPFINITY}Hee hee hee!
 
 [NARRATIVE_HEROES_EVENT_007_INTRO_4]
-{SAY:SOLARFLARE}Du machst mir Sorgen, Unendlicher Wichtel-Zombie ...
+{SAY:SOLARFLARE}Du machst mir Sorgen, Unendlicher Wicht-Zombie ...
 
 [NARRATIVE_HEROES_EVENT_008_INTRO_1]
 {NPC_ENTER:SOLARFLARE}{SAY:SOLARFLARE}Ich muss die Überreste von Herobot 5000 bergen!
@@ -29667,7 +29669,7 @@ hart.
 {SAY:GREENSHADOW}Ja, ich schon... weißt du was? Egal.
 
 [NARRATIVE_HEROES_EVENT_011_INTRO_1]
-{NPC_ENTER:GREENSHADOW}{NPC_ENTER:IMPFINITY}{SAY:GREENSHADOW}Wo sind die fehlenden 5000 Heldenroboterteile, unendliche Kobold-Zombies?
+{NPC_ENTER:GREENSHADOW}{NPC_ENTER:IMPFINITY}{SAY:GREENSHADOW}Wo sind die fehlenden 5000 Heldenroboterteile, unendliche Wicht-Zombies?
 
 [NARRATIVE_HEROES_EVENT_011_INTRO_2]
 {SAY:IMPFINITY}Hey, hey!
@@ -32565,7 +32567,7 @@ Probiert die neue Sonderedition der explodierenden Erdbeeren bei der heutigen Pi
 Gemischt?
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_TITLE]
-Hotdog-Kobold-Zombies machen Ärger.
+Hotdog-Wicht-Zombies machen Ärger.
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_VASE_DESC]
 Die Sommernächte sind jetzt geöffnet, und die Party geht bis zum 7. Juli heiß her.
@@ -34737,16 +34739,16 @@ Geierjäger
 Wind und Regen, Donner und Blitz – der Himmelskönig der Zombiewelt!
 
 [ZOMBIE_ZOMBOSSMECH_SKYCITY_DESCRIPTION]
-{FLAVOR} Die Forschungsergebnisse von Dr. Zombies zweitägiger Forschung, bei der er die modernste bionische Mechaniktechnologie der Zombiewelt einsetzte, ernteten bei der Vorstellung des Geierjägers herzlichen Applaus. Ich habe gehört, dass viele Zombies in die Hände geklatscht haben.
+{FLAVOR} Die Forschungsergebnisse von Dr. Zomboss zweitägiger Forschung, bei der er die modernste bionische Mechaniktechnologie der Zombiewelt einsetzte, ernteten bei der Vorstellung des Geierjägers herzlichen Applaus. Ich habe gehört, dass viele Zombies in die Hände geklatscht haben.
 
 [ZOMBIE_ZOMBOSSMECH_PVZ1_ROBOT_1]
-Dauntless II
+Dr. Zomboss
 
 [ZOMBIE_ZOMBOSSMECH_PVZ1_ROBOT_1_DESCRIPTION_HEADER]
-Dr. Zombies einst souveräne Arbeit ist zurück.
+Dr. Zomboss's einst souveräne Arbeit ist zurück.
 
 [ZOMBIE_ZOMBOSSMECH_PVZ1_ROBOT_1_DESCRIPTION]
-{FLAVOR}Dr. Zombie gibt nie so schnell auf. Obwohl dieser Mecha einmal besiegt wurde, glaubt er, dass er von dort, wo er gefallen ist, wieder aufstehen sollte. Rache! Rache!
+{FLAVOR}Dr. Zomboss gibt nie so schnell auf. Obwohl dieser Mecha einmal besiegt wurde, glaubt er, dass er von dort, wo er gefallen ist, wieder aufstehen sollte. Rache!
 
 [PRODUCT_GEM_20_DESC_ANDROID_EXTRA]
 20 Diamanten
@@ -35167,19 +35169,19 @@ Das Pflanzlimit wurde überschritten. Vergiss nicht, die Sonnenblume zu verbesse
 Das maximale Pflanzlimit wurde erreicht!
 
 [ZOMBIE_DINO_PUSHEGG]
-Eierschiebender Wichtelzombie
+Eierschiebender Wicht-Zombie
 
 [ZOMBIE_DINO_PUSHEGG_DESCRIPTION_HEADER]
-Obwohl der als kleiner Dinosaurier verkleidete Wichtelzombie stärker ist als andere Wichtelzombie, ist die wahre Bedrohung das Drachenei, das er schiebt.
+Obwohl der als kleiner Dinosaurier verkleidete Wicht-Zombie stärker ist als andere Wicht-Zombie, ist die wahre Bedrohung das Drachenei, das er schiebt.
 
 [ZOMBIE_DINO_PUSHEGG_DESCRIPTION]
-Der Wichtelzombie wich dem Angriff des Dinosauriers erfolgreich aus und schob das Drachenei weg, ignorierte dabei aber das fatale Problem, dass er zu klein war, um den Weg vor sich zu sehen.
+Der Wicht-Zombie wich dem Angriff des Dinosauriers erfolgreich aus und schob das Drachenei weg, ignorierte dabei aber das fatale Problem, dass er zu klein war, um den Weg vor sich zu sehen.
 
 [ZOMBIE_DINO_STEALEGG]
-Eierstehlender Wichtelzombie
+Eierstehlender Wicht-Zombie
 
 [ZOMBIE_DINO_STEALEGG_DESCRIPTION_HEADER]
-Der Wichtelzombie, der mit dem Drachenei davonlief, hatte einen instabilen Schwerpunkt, wodurch er häufig hinfiel und das Drachenei herausschleuderte. Es wäre schrecklich gewesen, wenn er die Pflanzen zerquetscht hätte.
+Der Wicht-Zombie, der mit dem Drachenei davonlief, hatte einen instabilen Schwerpunkt, wodurch er häufig hinfiel und das Drachenei herausschleuderte. Es wäre schrecklich gewesen, wenn er die Pflanzen zerquetscht hätte.
 
 [ZOMBIE_DINO_STEALEGG_DESCRIPTION]
 Der Brenneier-Zombie, der kein Geld für Tarnkleidung hatte, wählte eine einfache und primitive Methode, Eier zu stehlen. Er trug die Eier und wurde von Dinosauriern verfolgt.
@@ -38320,13 +38322,13 @@ Stephania
 {FLAVOR} Stephanias Idol ist der Kapitän des nationalen Fliegenden Schild-Teams. Weil sie sein heldenhaftes Blocken und seinen Fliegenden Schild bewundert, hat Stephania auch hart daran gearbeitet, die Fähigkeiten des Fliegenden Schildes und Blockens zu meistern. Fragt nicht, warum der Schild zerbricht. Es ist nur ein gewöhnliches ziviles Produkt.
 
 [STEPHANIA_DESCRIPTION_HEADER]
-Stephania kann den Kugelfisch des Ninja-Wichtel-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_TOOLTIP]
-Stephania kann den Kugelfisch des Ninja-Wichtel-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_PRODUCT_SHORT_DESC]
-Stephania kann den Kugelfisch des Ninja-Wichtel-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_AVATAR_NAME]
 Stephania Kostüm
@@ -38607,12 +38609,12 @@ Eisige-Johannisbeere-Outfit
 Die ultimative Fertigkeit „Eisbergexplosion“ verursacht Schaden an Zielen innerhalb eines Gitters.
 
 [EGGPLANTNINJA]
-Eggplant Ninja
+Auberginenninja
 
 [EGGPLANTNINJA_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Kann Shuriken über Linien hinweg einsetzen, um Zombies innerhalb der Reichweite des Bogenangriffs Schaden zuzufügen.
-
 {KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanze
+
 {FLAVOR} Er wird seit seiner Kindheit im traditionellen Ninjutsu ausgebildet. In der Ninja-Welt gilt er als Genie, das nur einmal in tausend Jahren auftaucht. Er beherrscht verschiedene Ninjutsu und wurde vom Ninja-Kaiser persönlich zum nächsten Nachfolger ernannt. Er ist jedoch nicht glücklich, weil er einmal gegen Caiwen verloren hat. Er glaubt, nicht unbesiegbar zu sein, solange er Caiwen nicht besiegt, was zu seinem Herzensknoten geworden ist.
 
 [EGGPLANTNINJA_DESCRIPTION_HEADER]
@@ -38634,10 +38636,10 @@ Explosive Pfeile
 Erhöht die Wirkung explosiver Shuriken um 100 %.
 
 [STORE_PRODUCT_AVATAR_EGGPLANTNINJA_TITLE]
-Schattenninja-Kostüm
+Auberginenninja-Kostüm
 
 [STORE_PRODUCT_AVATAR_EGGPLANTNINJA]
-Ultimativer Move lähmt Zombies 1 Sekunde lang.
+Die Spezialdünger-Fähigkeit lähmt Zombies 1 Sekunde lang.
 
 [EGGPLANTNINJA_SKILL_LEVEL5]
 Wirbelsturmpfeile
@@ -38650,7 +38652,9 @@ Wachsmelonenwächter
 
 [WAXGOURD_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Grüne Pflanze
-{FLAVOR} Die Wintermelone steht schon lange an dieser Schlüsselposition. Unzählige Zombies wollen sie unbedingt vertreiben und wollen, dass sie sich bewegt und Platz macht. Ah~~~ Das Geräusch wird immer leiser und verweilt am Himmel.
+
+{FLAVOR} Die Wachsmelone steht schon lange an dieser Schlüsselposition. Unzählige Zombies wollen sie unbedingt vertreiben und wollen, dass sie sich bewegt und Platz macht. Ah~~~ Das Geräusch wird immer leiser und verweilt am Himmel.
+
 [WAXGOURD_DESCRIPTION_HEADER]
 Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
 
@@ -38667,13 +38671,13 @@ Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in
 Die ultimative Fähigkeit fügt nach der Landung zusätzlichen Schaden hinzu.
 
 [STORE_PRODUCT_AVATAR_WAXGOURD_TITLE]
-Wintermelonen-Kostüm
+Wachsmelonen Kostüm
 
 [WAXGOURD_SKILL_LEVEL1]
 Wutinstinkt
 
 [WAXGOURD_SKILL_LEVEL1_DES]
-Bei einem Angriff springt die Wintermelone sofort hoch. Nach der Landung stößt sie alle Zombies in ihrem eigenen und dem davorliegenden Raster weg (eingebaute Abklingzeit: 20 Sekunden).
+Bei einem Angriff springt die Wachsmelone sofort hoch. Nach der Landung stößt sie alle Zombies in ihrem eigenen und dem davorliegenden Raster weg (eingebaute Abklingzeit: 20 Sekunden).
 
 [WAXGOURD_SKILL_LEVEL2]
 Wutanfall
@@ -38685,7 +38689,7 @@ Reduziert die Abklingzeit der Fertigkeit Stufe 2 um 10 Sekunden.
 Brennend vor Wut
 
 [WAXGOURD_SKILL_LEVEL5_DES]
-Die Wintermelone setzt eine aktive Ladung frei. Nähern sich Zombies dem davorliegenden Raster, springt sie sofort hoch. Nach der Landung werden alle Zombies weggestoßen. Zombies werden nach der Landung einmal beschädigt
+Die Wachsmelone setzt eine aktive Ladung frei. Nähern sich Zombies dem davorliegenden Raster, springt sie sofort hoch. Nach der Landung werden alle Zombies weggestoßen. Zombies werden nach der Landung einmal beschädigt
 
 [BEARBERRY]
 Bärentraubenmörser
@@ -44662,7 +44666,7 @@ Steh jeden Tag früh auf und bleibe lange auf, um fleißig zu arbeiten, nur um G
 Ein gewöhnlicher Zombie, der jeden Tag arbeitet.
 
 [ZOMBIE_STEAM_ARMOR1]
-Straßensperren-Arbeiter-Zombie
+Pylonen-Arbeiter-Zombie
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION]
 Der Arbeiter-Zombie freut sich riesig über die Straßensperre auf seinem Kopf, denn sie bedeutet, dass er befördert wurde!
@@ -46077,22 +46081,22 @@ Zahlungstipps
 Deine Gesamtaufladung hat 1.000 Yuan erreicht und erfordert eine Echtnamenauthentifizierung!
 
 [NARRATIVE_SKIPPED_TUTORIAL_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}嗨，基础引导关卡已经帮你跳过啦，引导奖励稍后发放给你，注意查收哦！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hallo, du hast die Basis-Guide-Stufe übersprungen. Die Guide-Belohnung wird dir später zugeschickt. Schau bitte nach!
 
 [NARRATIVE_SKIPPED_TUTORIAL_2]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_JOUST_OPEN_TUTORIAL_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}哈喽，您已经解锁超Z联赛！让我们快去尝试一下！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Hallo, du hast die Super-Z-Liga freigeschaltet! Los geht's!
 
 [NARRATIVE_JOUST_OPEN_TUTORIAL_2]
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_JOUST_SELECT_TUTORIAL_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}超Z联赛匹配玩家，获得积分，达到一定名次以后，可以升级到更高级的联赛，奖品会更加丰富。
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}In der Super Z League kannst du Spieler zusammenbringen und Punkte sammeln. Ab einem bestimmten Rang kannst du in eine höherstufige Liga mit besseren Preisen aufsteigen.
 
 [NARRATIVE_JOUST_SELECT_TUTORIAL_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}快去行动吧！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Jetzt loslegen!
 
 [NARRATIVE_JOUST_SELECT_TUTORIAL_3]
 {NPC_EXIT:crazydave}
@@ -46970,7 +46974,7 @@ Mittelgroßes Gold Goldnuggets-Geschenkpackung
 Große Goldnuggets-Geschenkpackung
 
 [PRODUCT_TREASURE_PAVILION_648_SHORTDESC]
-特大金块礼包
+Extra großes Goldnugget-Paket
 
 [PENNY_GUIDE]
 Leitfaden für Penny Jagd
@@ -47003,7 +47007,7 @@ Penny Chase-Level 3-mal abschließen
 [PENNY_GUIDE_OBTAIN_SIGNAL_200]
 200 Signale von Zombies erhalten
 
-[PENNY_GUIDE_WIN_ZOMBIE_BOSS OSS_2]
+[PENNY_GUIDE_WIN_ZOMBIE_BOSS_2]
 Zombie Bo 2-mal erfolgreich herausgefordert
 
 [PENNY_GUIDE_OBTAIN_SUNMONEY_25000]
@@ -47622,7 +47626,7 @@ Spiele 7 Super-Z-Ligen.
 Führe 1 genetische Modifikation durch.
 
 [NOVICESEVENDAYS_TASK_NAME_46]
-Fordere Dr. Zombie einmal in „Pennys Verfolgung“ heraus.
+Fordere Dr. Zomboss einmal in „Pennys Verfolgung“ heraus.
 
 [NOVICESEVENDAYS_TASK_NAME_47]
 Zweite Welt: Schließe Level 5 (Schwer) ab.
@@ -49483,6 +49487,9 @@ Schwierigkeit 3
 [UNCHARTED_WORLD_DIFFICULTY_4]
 Schwierigkeit 4
 
+[FESTIVALGAMEMODE_DEVILINVADE_TITLE]
+Böse Invasion
+
 [GROWTH_PACKAGE_BUNDLE]
 Zeitlich begrenztes Wachstumspaket
 
@@ -49490,7 +49497,9 @@ Zeitlich begrenztes Wachstumspaket
 Jeden Tag gibt es ein anderes Wachstumspaket, das nur einmal pro Tag erworben werden kann.
 
 [GROWTH_PACKAGE_BUNDLE]
-Zeitlich begrenztes Wachstumspaket TH_PACKAGE_DISCOUNT]
+Zeitlich begrenztes Wachstumspaket 
+
+[GROWTH_PACKAGE_DISCOUNT]
 Spezial-Wachstumspaket
 
 [GROWTH_PACKAGE_EFFECTIVE]
@@ -51074,12 +51083,12 @@ Sie markiert das Erscheinen einer großen Anzahl edler Zombies.
 Edler Gargantua
 
 [ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION_HEADER]
-Stiehlt immer die Statuen des Bildhauer-Wichtelzombie.
+Stiehlt immer die Statuen des Bildhauer-Wicht-Zombie.
 
 [ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Schaden:{STAT}Zerschmettert Pflanzen mit Zombiestatuen.
 
-{KEYWORD}Eigenschaften:{STAT}Wirft bei Schaden den Bildhauer-Wichtelzombie.
+{KEYWORD}Eigenschaften:{STAT}Wirft bei Schaden den Bildhauer-Wicht-Zombie.
 
 {FLAVOR}Edler Gargantua ist die höchste Klasse der Edlen Zombies, findet aber keine passende Waffe und muss sich eine leihen. „Wie kann man das für Edlen Zombie stehlen? Es ist leihen, leihen!!“
 
@@ -51111,10 +51120,10 @@ Der Flugmaschinen-Zombie nennt sich selbst „Da Vinci“. Sieh dir seine neue F
 Der Flugmaschinen-Zombie kann Bodenverteidigungen und Hindernisse aus der Luft überwinden. Es wäre schrecklich, wenn die Flugmaschine beim Absturz versehentlich Pflanzen zerquetschen würde.
 
 [ZOMBIE_RENAI_CARVER]
-Bildhauer-Wichtel-Zombie
+Bildhauer-Wicht-Zombie
 
 [ZOMBIE_RENAI_CARVER_DESCRIPTION]
-Kennt ihr schon die Statue des „Edelen Zombies mit gebrochenen Armen“? Dies ist die Skulptur des Bildhauer-Wichtel-Zombies. Bildhauer-Wichtel-Zombies mögen besonders ein ganzes Stück Rohstein, das ihn künstlerisch inspirieren kann.
+Kennt ihr schon die Statue des „Edelen Zombies mit gebrochenen Armen“? Dies ist die Skulptur des Bildhauer-Wicht-Zombies. Bildhauer-Wicht-Zombies mögen besonders ein ganzes Stück Rohstein, das ihn künstlerisch inspirieren kann.
 
 [ZOMBIE_RENAI_CARVER_DESCRIPTION_HEADER]
 Meißelt aus dem Rohstein eine Zombiestatue und lasst ihn vorzeitig wiederbeleben.
@@ -51135,7 +51144,7 @@ Römischer Barrikaden-Zombie
 Verkehrsbarrieren aus Marmor bieten einen gewissen Schutz.
 
 [ZOMBIE_ROMAN_ARMOR1_DESCRIPTION_HEADER]
-Gab es im antiken Rom genug Verkehr, um Straßensperren zu rechtfertigen? Historiker sind sich uneinig. Es ist eine echte Debatte.
+Gab es im antiken Rom genug Verkehr, um Pylonen zu rechtfertigen? Historiker sind sich uneinig. Es ist eine echte Debatte.
 
 [ZOMBIE_ROMAN_ARMOR2]
 Römischer Fass-Zombie
@@ -51192,13 +51201,13 @@ Ein alberner, ungewöhnlich schüchterner römischer Zombie, der ebenfalls einen
 Der Schild schützt ihn vor schlechten Bewertungen und verletzenden Kommentaren.
 
 [ZOMBIE_ROMAN_IMP]
-Römischer Wichtelzombie
+Römischer Wicht-Zombie
 
 [ZOMBIE_ROMAN_IMP_DESCRIPTION]
-Der Wichtelzombie trägt eine Löwenfigur.
+Der Wicht-Zombie trägt eine Löwenfigur.
 
 [ZOMBIE_ROMAN_IMP_DESCRIPTION_HEADER]
-Wie alle Wichtelzombie taucht auch der römische Wichtelzombie immer dort auf, wo man ihn am wenigsten braucht.
+Wie alle Wicht-Zombie taucht auch der römische Wicht-Zombie immer dort auf, wo man ihn am wenigsten braucht.
 
 [ZOMBIE_ROMAN_GARGANTUAR]
 Römischer Gargantua
@@ -51285,6 +51294,7 @@ Oh mein Gott! Diese explodierenden Vasen sind nicht nur mit Zombies, sondern auc
 Der Zombie, der dieses Belagerungsfahrzeug steuert, unterscheidet sich schon seit seiner Kindheit von anderen Zombies. Ihm fehlt das Verständnis für Humor und Ironie, und er ist es gewohnt, mit seinem außergewöhnlichen IQ anzugeben. Obwohl das von ihm modifizierte Belagerungsfahrzeug mehrere Vasen gleichzeitig werfen kann, sind aufgrund seiner geringen Popularität nur wenige Zombies bereit, in seine Vasen einzudringen, was ihn dazu zwingt, eine Menge Hühner hineinzustopfen.
 
 [ZOMBIE_ZOMBIE_JALAPENO]
+Jalapeño-Zombie
 
 [ZOMBIE_ZOMBIE_JALAPENO_DESCRIPTION]
 {KEYWORD}Eigenschaften:{STAT}Berührt er Pflanzen, explodiert er und tötet sofort alle Pflanzen in der Reihe.
@@ -51296,6 +51306,7 @@ Der Zombie, der dieses Belagerungsfahrzeug steuert, unterscheidet sich schon sei
 Ein pflanzenköpfiger Zombie aus einer mysteriösen Zeit und einem mysteriösen Raum. Lass ihn keine deiner Pflanzen berühren!
 
 [ZOMBIE_ZOMBIE_EXPLODENUT]
+Sprengnuss-Zombie
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION]
 {KEYWORD}Eigenschaften:{STAT}Verursacht nach seinem Tod großen Schaden an den umliegenden Pflanzen!
@@ -51305,10 +51316,10 @@ Ein pflanzenköpfiger Zombie aus einer mysteriösen Zeit und einem mysteriösen 
 {FLAVOR}Niemand weiß, woher er kam, als wäre er aus dem Nichts erschienen. Der mysteriöse Pflanzenkopf hat die Aufmerksamkeit vieler Zombies auf sich gezogen. Die neuesten „Zombie Evening News“ berichteten über den Ort, an dem er einst erschien: den „Headgear Club“. Na ja, du kennst das Gesicht von Zombies, aber nicht ihr Herz, oder?
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
-Der Pflanzenkopf-Zombie aus der mysteriösen Zeit und dem mysteriösen Raum. Lass ihn nicht zu nahe an deine Pflanzen kommen, wenn er stirbt!
+Der Pflanzenkopf-Zombie aus der mysteriösen Zeit und dem mysteriösen Raum. Lass ihn nicht zu nahe an deine Pflanzen kommen, wenn er stirbt explodiert er!
 
 [ZOMBIE_ZOMBIE_SNOWPEA]
-Eis-Erbsen-Zombie
+Hagelzucker-Erbsen-Zombie
 
 [ZOMBIE_ZOMBIE_SNOWPEA_DESCRIPTION]
 {KEYWORD}Eigenschaften:{STAT}Schießt Eis-Erbsen, die Pflanzen verlangsamen.
@@ -51343,7 +51354,7 @@ Nachdem er eine Perücke mit Haarknoten getragen hatte, ist er nun ein Samurai d
 Ein gewöhnlicher Samurai-Zombie unter dem Kommando des General-Gargantua.
 
 [ZOMBIE_HEIAN_ARMOR1]
-Samurai-Straßensperren-Zombie
+Samurai-Pylonen-Zombie
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION]
 Obwohl er ein Samurai ist, trägt er keine Waffen, sondern die charakteristische „Fu Nao Shan“-Straßensperre.
@@ -51370,7 +51381,7 @@ Der Samurai-Flaggen-Zombie hält die Kriegsflagge hoch und führt die Männer de
 Dies markiert die Ankunft einer großen Welle von Samurai-Zombies.
 
 [ZOMBIE_HEIAN_GARGANTUAR]
-Riesiger Zombiegeneral
+General Gargantua
 
 [ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION_HEADER]
 Das Kendama in seiner Hand wiegt 500 Kilogramm.
@@ -51379,7 +51390,7 @@ Das Kendama in seiner Hand wiegt 500 Kilogramm.
 {KEYWORD}Schaden: {STAT}Zerschmettert Pflanzen mit dem Kendama.
 {KEYWORD}Funktionen: {STAT}Wirft Ninja-Wicht-Zombies bei Schaden aus.
 
-{FLAVOR}Riesiger Zombiegeneral ist der Anführer der Samurai-Zombies in diesem Gebiet. Wenn Dr. Zomboss nicht da ist, führt er die anderen Samurai-Zombies zum Gehirnsammeln an. Das Kendama in seiner Hand ist ein Spielzeug, mit dem er seit seiner Kindheit spielt. Natürlich hat sich auch seine Größe mit zunehmendem Alter verändert.
+{FLAVOR}Der General Gargantua ist der Anführer der Samurai-Zombies in diesem Gebiet. Wenn Dr. Zomboss nicht da ist, führt er die anderen Samurai-Zombies zum Gehirnsammeln an. Das Kendama in seiner Hand ist ein Spielzeug, mit dem er seit seiner Kindheit spielt. Natürlich hat sich auch seine Größe mit zunehmendem Alter verändert.
 
 [ZOMBIE_HEIAN_SUSHI]
 Sushi-Koch Zombie
@@ -51397,7 +51408,7 @@ Ninja-Wicht Zombie
 Ninja-Wicht Zombie benutzt oft Rauchbomben, um alle auf sein Kommen aufmerksam zu machen!
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
-Der Kugelfisch in den Händen des Ninja-Wichtel-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
+Der Kugelfisch in den Händen des Ninja-Wicht-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
 
 [ZOMBIE_HEIAN_HANABI]
 Feuerwerk-Zombie
@@ -52364,7 +52375,7 @@ Maiskanone Weihnachtsmann Hut
 Reduziert den Sonnenlichtverbrauch um 50 Punkte.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_1]
-Auberginen-Ninja-Weihnachtskostüm
+Auberginen-Ninja Weihnachtskostüm
 
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_1]
 Erhöht die Wahrscheinlichkeit, dass bei normalen Angriffen explosive Pfeile erscheinen, um 10%.
@@ -52496,7 +52507,7 @@ Tigerpilz-Wachstumskostüm
 Ruhezeit reduziert um 10%
 
 [NEW_AVATAR_ SHORT_DESCRIPTION_EGGPLANTNINJA_2]
-Auberginen-Ninja-Wachstumskostüm
+Auberginen-Ninja Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_2]
 Angriffskraft um 10% erhöht
@@ -54551,7 +54562,7 @@ Belohnungen erhalten
 {NPC_ENTER:Winnie}Signal empfangen ... Dave? Dave? Ich mache mir ein bisschen Sorgen um dich, Dave ... Dave, bitte antworte.
 
 [NARRATIVE_RIFT_WORLD_OPEN_TUTORIAL_2]
-{NPC_ENTER:Winnie}Oh mein Gott! Dr. Zombie hat Dave entführt! Ich muss die neue Brennstoffzelle aufladen und dann schnell in den Raum-Zeit-Riss!
+{NPC_ENTER:Winnie}Oh mein Gott! Dr. Zomboss hat Dave entführt! Ich muss die neue Brennstoffzelle aufladen und dann schnell in den Raum-Zeit-Riss!
 
 [NARRATIVE_RIFT_WORLD_OPEN_TUTORIAL_3]
 {NPC_ENTER:crazydave}......Mmmmm!
@@ -57499,16 +57510,16 @@ Onmyoji Zombie
 Onmyoji Zombie ist scharf darauf, verschiedene Fächer zu bauen. Diesmal nannte er den Fächer, den er zum Schrein brachte, „Glücksstern“.
 
 [ZOMBIE_HEIAN_AKINNDO]
-蓑衣zombie
+Strohmantel-Zombie
 
 [ZOMBIE_HEIAN_AKINNDO_DESCRIPTION]
-{KEYWORD}Eigenschaften: {STAT}Hebt den Fischkorb in eurer Hand, und er absorbiert Spezialdünger-Attacken!
-{KEYWORD}Schwäche: {STAT}Mit seinem Hut, der mit der gleichen Handwerkskunst wie der Regenschirm-Zombie gefertigt wurde, ist er „unbesiegbar“!
+{KEYWORD}Eigenschaften: {STAT}Versucht Spezialdünger zu klauen
+{KEYWORD}Eigenschaften: {STAT}Der Hut hat die selbe Fähigkeit wie der Schirm aus der Verlorenen Stadt
 
-{FLAVOR}Hebt den Fischkorb und plündert die Spezialdünger-Attacken.
+{FLAVOR}Im Fischkorb des Strohmantel-Zombies befindet sich tatsächlich ein Fisch, der den Geschmack von Spezialdünger mag.
 
 [ZOMBIE_HEIAN_AKINNDO_DESCRIPTION_HEADER]
-Im Fischkorb des Strohmantel-Zombies befindet sich tatsächlich ein Fisch, der den Geschmack von Spezialdünger-Attacken mag.
+Hebt den Fischkorb hoch und plündert Spezialdünger. Außerdem ist er immun gegen geworfene Attacken.
 
 [ZOMBIE_FAIRY_TALE]
 Spielkarten-Zombie
@@ -57517,16 +57528,16 @@ Spielkarten-Zombie
 Als Spielkarten-Soldaten-Zombie ist es wichtig, mutig voranzukommen.
 
 [ZOMBIE_FAIRY_TALE_DESCRIPTION_HEADER]
-Gewöhnlicher Spielkarten-Zombie unter dem Kommando des Zombie-Kobolds der Roten Königin
+Gewöhnlicher Spielkarten-Zombie unter dem Kommando des Zombie-Wichts der Roten Königin
 
 [ZOMBIE_FAIRY_TALE_ARMOR1]
-Spielkarten-Straßensperren-Zombie
+Spielkarten-Pylonen-Zombie
 
 [ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION]
 Als Spielkarten-Soldaten-Zombie ist es wichtig, mutig voranzukommen. Eine Straßensperre ist natürlich die beste Schutzausrüstung.
 
 [ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION_HEADER]
-Poker-Barriere-Zombie unter dem Kommando von Rotkönigin-Kobold-Zombie
+Poker-Barriere-Zombie unter dem Kommando von Rotkönigin-Wicht-Zombie
 
 [ZOMBIE_FAIRY_TALE_ARMOR2]
 Poker-Fass-Zombie
@@ -57535,13 +57546,13 @@ Poker-Fass-Zombie
 Als Poker-Soldat-Zombie ist es wichtig, mutig vorzugehen. Natürlich gibt es keine bessere Rüstung als ein Fass.
 
 [ZOMBIE_FAIRY_TALE_ARMOR2_DESCRIPTION_HEADER]
-Poker-Fass-Zombie unter dem Kommando von Rotkönigin-Kobold-Zombie
+Poker-Fass-Zombie unter dem Kommando von Rotkönigin-Wicht-Zombie
 
 [ZOMBIE_FAIRY_TALE_FLAG]
 Poker-Flaggen-Zombie
 
 [ZOMBIE_FAIRY_TALE_FLAG_DESCRIPTION]
-Poker-Flaggen-Zombie hält die Kampfflagge hoch und führt die Untergebenen von Rotkönigin-Kobold-Zombie an, um Gehirne zu plündern.
+Poker-Flaggen-Zombie hält die Kampfflagge hoch und führt die Untergebenen von Rotkönigin-Wicht-Zombie an, um Gehirne zu plündern.
 
 [ZOMBIE_FAIRY_TALE_FLAG_DESCRIPTION_HEADER]
 Dies markiert die Ankunft einer großen Welle von Märchenzombies.
@@ -57559,7 +57570,7 @@ Hexenzombie
 Die Hexenzombie ist definitiv der Protagonist der Märchenwelt, da sie Pflanzen in Frösche verwandeln kann.
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR]
-Riesiger Wächterzombie
+Wächter Gargantua
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT}Starke Schadensreduzierung, Schild in der Hand fällt beim Sterben!
@@ -57568,10 +57579,10 @@ Riesiger Wächterzombie
 {FLAVOR}Wirft den Schild ab, um Schaden zu widerstehen.
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR_DESCRIPTION_HEADER]
-Die enge Deckung des Rotkönigin-Kobold-Zombies mit schwerem Schild ist eine herausragende Fähigkeit.
+Die enge Deckung des Rotkönigin-Wicht-Zombies mit schwerem Schild ist eine herausragende Fähigkeit.
 
 [ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR]
-Riesiger Wächterzombie
+Wächter Gargantua
 
 [ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT}Starke Schadensreduzierung, Schild in der Hand fällt beim Sterben!
@@ -57580,10 +57591,10 @@ Riesiger Wächterzombie
 {FLAVOR}Wirft den Schild ab, um Schaden zu widerstehen.
 
 [ZOMBIE_FAIRY_TALE_ARMED_GARGANTUAR_DESCRIPTION_HEADER]
-Die enge Deckung des Rotkönig-Kobold-Zombies mit schwerem Schild – eine herausragende Fähigkeit.
+Die enge Deckung des Rotkönig-Wicht-Zombies mit schwerem Schild – eine herausragende Fähigkeit.
 
 [ZOMBIE_FAIRY_TALE_IMP]
-Rote Königin, Wichtel-Zombie
+Rote Königin-Wicht-Zombie
 
 [ZOMBIE_FAIRY_TALE_IMP_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT}Läuft weg und ruft den Wächterritter-Zombie zu Hilfe!
@@ -57605,7 +57616,7 @@ Wächterritter-Zombie
 {FLAVOR}Stürme vorwärts, schlage die erste Pflanze um, der du begegnest, und lass deine Lanze fallen.
 
 [ZOMBIE_FAIRY_TALE_KNIGHT_DESCRIPTION_HEADER]
-Der Wachritter der Roten Königin, des Kobold-Zombies. Obwohl er immer spät zur Hilfe kommt, wurde er noch nicht vertrieben.
+Der Wachritter der Roten Königin, des Wicht-Zombies. Obwohl er immer spät zur Hilfe kommt, wurde er noch nicht vertrieben.
 
 [ZOMBIE_MIRROR_QUEEN_PHASE1]
 Spiegelkönigin-Zombie
@@ -57623,7 +57634,7 @@ Jubiläums-Zombie
 Gewöhnliche Zombies erscheinen auf der Jubiläumsparty
 
 [ZOMBIE_BIRTHDAY_DESCRIPTION]
-Um die Jubiläumsparty zu tarnen und mit den Pflanzen zu verschmelzen, tragen die gewöhnlichen Zombies Geburtstagshüte. Da diese jedoch aus Papier sind, können sie sich nicht gegen Straßensperren verteidigen.
+Um die Jubiläumsparty zu tarnen und mit den Pflanzen zu verschmelzen, tragen die gewöhnlichen Zombies Geburtstagshüte. Da diese jedoch aus Papier sind, können sie sich nicht gegen Pylonen verteidigen.
 
 [ZOMBIE_BIRTHDAY_FLAG]
 Jubiläums-Flaggen-Zombie
@@ -57642,7 +57653,7 @@ Gargantua, die auf der Jubiläumsfeier erscheint
 
 [ZOMBIE_BIRTHDAY_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Eigenschaften:{STAT}Benutzt einen Telefonmast, um Pflanzen zu zerquetschen
-{KEYWORD}Schwäche:{STAT}Wirft Kobold-Zombies aus, wenn er beschädigt wird
+{KEYWORD}Schwäche:{STAT}Wirft Wicht-Zombies aus, wenn er beschädigt wird
 
 {FLAVOR}Gargantua will sich als Geschenk verkleiden, um sich auf die Jubiläumsfeier der Pflanze zu schleichen. Doch als er merkt, dass sich die Geschenkbox nicht von selbst bewegt, verwandelt er sich in ein Schleuder-Outfit.
 
@@ -57699,13 +57710,13 @@ Zombies können es sich nicht verkneifen, beim jährlichen Feuerwerk dabei zu se
 Gewöhnliche Zombies beim Sommernachtsfeuerwerk
 
 [ZOMBIE_SUMMER_ARMOR1]
-Sommernachts-Straßensperren-Zombie
+Sommernachts-Pylonen-Zombie
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION]
-Aus ästhetischen Gründen und zur Verteidigung trägt der Sommernachts-Straßensperren-Zombie auf der Straßensperre eine Sonnenbrille, obwohl es sich um ein Nachtfeuerwerk handelt.
+Aus ästhetischen Gründen und zur Verteidigung trägt der Sommernachts-Pylonen-Zombie auf der Straßensperre eine Sonnenbrille, obwohl es sich um ein Nachtfeuerwerk handelt.
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION_HEADER]
-Straßensperren-Zombies beim Sommernachtsfeuerwerk
+Pylonen-Zombies beim Sommernachtsfeuerwerk
 
 [ZOMBIE_SUMMER_ARMOR2]
 Sommernachts-Eimer-Zombie
@@ -57739,7 +57750,7 @@ Sommernacht-Gargantua
 
 [ZOMBIE_SUMMER_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Eigenschaften:{STAT}Benutzt einen Spatel, um Pflanzen zu zerquetschen.
-{KEYWORD}Schwäche:{STAT}Wirft den Sommernacht-Kobold-Zombie bei Schaden weg.
+{KEYWORD}Schwäche:{STAT}Wirft den Sommernacht-Wicht-Zombie bei Schaden weg.
 
 {FLAVOR}Er ist Koch beim Feuerwerksfestival. Doch vielleicht, weil das Feuerwerk zu schön ist, die Zombies Gehirne bevorzugen oder die Zutaten nicht gut sind, läuft das Geschäft nicht gut. Daher kocht er seltener mit dem Spatel als Pflanzen.
 
@@ -57747,7 +57758,7 @@ Sommernacht-Gargantua
 Gargantua, die beim Feuerwerksfest kocht
 
 [ZOMBIE_SUMMER_IMP]
-Sommernachts-Kobold-Zombie
+Sommernachts-Wicht-Zombie
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION]
 Als Essenszutat getarnt, schlich er sich in das Feuerwerksfest, nur um den Eintritt zu umgehen. Doch anscheinend sind für das Fest keine Eintrittskarten erforderlich.
@@ -57765,13 +57776,13 @@ In Totenkopfkleidung und mit weißem Totenkopf-Make-up verkleidet, starteten die
 Gewöhnliche Zombies, verkleidet für Halloween.
 
 [ZOMBIE_HALLOWEEN_ARMOR1]
-Halloween-Straßensperren-Zombie
+Halloween-Pylonen-Zombie
 
 [ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION]
-Um der Halloween-Atmosphäre gerecht zu werden, hat der Straßensperren-Zombie eine speziell angefertigte Straßensperre in Form eines Hexenhuts entworfen. Sie ist schön und robust, verfügt aber über keine Magie.
+Um der Halloween-Atmosphäre gerecht zu werden, hat der Pylonen-Zombie eine speziell angefertigte Straßensperre in Form eines Hexenhuts entworfen. Sie ist schön und robust, verfügt aber über keine Magie.
 
 [ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION_HEADER]
-Straßensperren-Zombies, verkleidet für Halloween.
+Pylonen-Zombies, verkleidet für Halloween.
 
 [ZOMBIE_HALLOWEEN_ARMOR2]
 Halloween-Eiseneimer-Zombie
@@ -57792,13 +57803,13 @@ Der Gargantua ist stark und etwas langweilig. „Passt perfekt zum Frankenstein-
 Gargantua im Halloweenkostüm?
 
 [ZOMBIE_HALLOWEEN_IMP]
-Wichtelzombie im Halloweenkostüm
+Wicht-Zombie im Halloweenkostüm
 
 [ZOMBIE_HALLOWEEN_IMP_DESCRIPTION]
-Wichtelzombie freut sich jedes Jahr am meisten auf Halloween, und das Teufelswissenschaftlerkostüm ist sein Favorit. „Dieses Outfit ist doch noch bequem, oder, mein liebes Kind? Ich mag Halloween wirklich sehr. Ich kann ausgehen, ohne mich verkleiden zu müssen.“
+Wicht-Zombie freut sich jedes Jahr am meisten auf Halloween, und das Teufelswissenschaftlerkostüm ist sein Favorit. „Dieses Outfit ist doch noch bequem, oder, mein liebes Kind? Ich mag Halloween wirklich sehr. Ich kann ausgehen, ohne mich verkleiden zu müssen.“
 
 [ZOMBIE_HALLOWEEN_IMP_DESCRIPTION_HEADER]
-Wichtelzombie im Halloweenkostüm?
+Wicht-Zombie im Halloweenkostüm?
 
 [ZOMBIE_HALLOWEEN_FLAG]
 Halloween-Flaggen-Zombie
@@ -57839,7 +57850,7 @@ Zombie-Krähe
 Die Zombie-Krähe, die auf der Vogelscheuche sitzt, stiehlt eine deiner Pflanzen, nachdem sie von der Vogelscheuche weggeflogen ist.
 
 [ZOMBIE_CHRISTMAS]
-Ein ganz normaler Weihnachtszombie
+Ein ganz normaler Weihnachts-Zombie
 
 [ZOMBIE_CHRISTMAS_DESCRIPTION]
 Sich einen Weihnachtspullover zu stricken, war schon immer eine Zombie-Tradition.
@@ -57848,13 +57859,13 @@ Sich einen Weihnachtspullover zu stricken, war schon immer eine Zombie-Tradition
 Ein normaler Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_ARMOR1]
-Weihnachtlicher Straßensperren-Zombie
+Weihnachtlicher Pylonen-Zombie
 
 [ZOMBIE_CHRISTMAS_ARMOR1_DESCRIPTION]
-Niemand weiß, ob der Straßensperren-Zombie eine Straßensperre mit Weihnachtskranz aufgehoben oder einer normalen Straßensperre einen Weihnachtskranz hinzugefügt hat.
+Niemand weiß, ob der Pylonen-Zombie eine Straßensperre mit Weihnachtskranz aufgehoben oder einer normalen Straßensperre einen Weihnachtskranz hinzugefügt hat.
 
 [ZOMBIE_CHRISTMAS_ARMOR1_DESCRIPTION_HEADER]
-Ein weihnachtlich gekleideter Straßensperren-Zombie.
+Ein weihnachtlich gekleideter Pylonen-Zombie.
 
 [ZOMBIE_CHRISTMAS_ARMOR2]
 Weihnachtlicher Eimer-Zombie
@@ -57875,22 +57886,22 @@ Der Weihnachtsflaggen-Zombie hält eine Flagge, hat aber keine Anziehungskraft.
 Flaggen-Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_IMP]
-Weihnachtswichtel-Zombie
+Weihnachts-Wicht-Zombie
 
 [ZOMBIE_CHRISTMAS_IMP_DESCRIPTION]
-Ein gewöhnlicher Wichtel, der überall zu finden ist, bis er einen Pullover anzieht. Selbst danach ist er immer noch ein gewöhnlicher Wichtel mit Pullover.
+Ein gewöhnlicher Wicht, der überall zu finden ist, bis er einen Pullover anzieht. Selbst danach ist er immer noch ein gewöhnlicher Wicht mit Pullover.
 
 [ZOMBIE_CHRISTMAS_IMP_DESCRIPTION_HEADER]
-Ein Wichtel-Zombie im Weihnachtskostüm.
+Ein Wicht-Zombie im Weihnachtskostüm.
 
 [ZOMBIE_CHRISTMAS_IMP2]
-Weihnachts-Zombie Nr. 2
+Weihnachts-Wicht Nr. 2
 
 [ZOMBIE_CHRISTMAS_IMP2_DESCRIPTION]
 Weihnachten ist ein besonderer Tag, an dem manche Zombie-Zombies auf besondere Ideen kommen und sich besonders kleiden.
 
 [ZOMBIE_CHRISTMAS_IMP2_DESCRIPTION_HEADER]
-Weihnachts-Zombie Nr. 2.
+Weihnachts-Wicht Nr. 2.
 
 [ZOMBIE_CHRISTMAS_GARGANTUAR]
 Weihnachts-Gargantua
@@ -58032,13 +58043,13 @@ Am Kindertag trägt er Kinderkleidung und scheint in seine Kindheit zurückgekeh
 Gewöhnlicher Zombie in Kinderkleidung.
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1]
-Kindertags-Straßensperren-Zombie
+Kindertags-Pylonen-Zombie
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1_DESCRIPTION]
-Kindertags-Straßensperren-Zombie sucht nach dem Eis, das er gerade noch in der Hand hatte. Hast du es gesehen?
+Kindertags-Pylonen-Zombie sucht nach dem Eis, das er gerade noch in der Hand hatte. Hast du es gesehen?
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1_DESCRIPTION_HEADER]
-Ein Straßensperren-Zombie in Kinderkleidung.
+Ein Pylonen-Zombie in Kinderkleidung.
 
 [ZOMBIE_CHILDRENSDAY_ARMOR2]
 Kindertags-Eimer-Zombie
@@ -58089,7 +58100,7 @@ Kindertags-Spezial-Zombie
 Elite-Autoscooter-Zombie
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION]
-Nur Autoscooter, die Crashtests bestanden haben, können zugelassen und zu anspruchsvolleren und gefährlicheren professionellen Crashfahrzeugen umgebaut werden. Elite-Kobolde werden außerdem von Fahrern zu ehrenamtlichen Versuchsobjekten befördert, und niemand versteht, warum.
+Nur Autoscooter, die Crashtests bestanden haben, können zugelassen und zu anspruchsvolleren und gefährlicheren professionellen Crashfahrzeugen umgebaut werden. Elite-Wichte werden außerdem von Fahrern zu ehrenamtlichen Versuchsobjekten befördert, und niemand versteht, warum.
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION_HEADER]
 Elite-Autoscooter-Zombies verfügen über einen Widerstandsbalken. Angriffe mit dem Attribut „Elektrische Energie“ können ihre Widerstandskraft verringern. Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann sich der Zombie weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Ein Widerstandswert kann einen Schadensbegrenzungseffekt auslösen.
@@ -58113,10 +58124,10 @@ Als er die Flagge in der Hand hielt, hatte er nur ein Ziel: die Verteidigungslin
 Mit der Flagge in der Hand bewegten sich alle Verbindungszombies auf die Nachricht hin.
 
 [ZOMBIE_PARKOUR_ARMOR1]
-Sicherheits-Straßensperren-Zombie
+Sicherheits-Pylonen-Zombie
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION]
-Als der Straßensperren-Zombie an einem Gebäude vorbeikam, fiel plötzlich ein Farbeimer vom Himmel. Glücklicherweise rettete ihm die Straßensperre das Leben, doch leider wurde seine neue Uniform schmutzig, sodass er in einer bunten Uniform zur Arbeit gehen musste.
+Als der Pylonen-Zombie an einem Gebäude vorbeikam, fiel plötzlich ein Farbeimer vom Himmel. Glücklicherweise rettete ihm die Straßensperre das Leben, doch leider wurde seine neue Uniform schmutzig, sodass er in einer bunten Uniform zur Arbeit gehen musste.
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION_HEADER]
 Aus irgendeinem Grund hatte seine Straßensperre mehr Farben.
@@ -58176,13 +58187,13 @@ Rennwagen sollten natürlich Helme tragen. Der Fass-Zombie richtete sein Fass la
 Er hofft, den Eiseneimer fest auf seinem Kopf befestigen zu können.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1]
-Straßensperren-Zombie
+Pylonen-Zombie
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1_DESCRIPTION]
 Er war kurz davor, zu spät zur Arbeit zu kommen, als er am Straßenrand eine Eistüte sah. Er versuchte, sie aufzusetzen, und sie passte perfekt.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1_DESCRIPTION_HEADER]
-Straßensperren-Zombie hat ein neues Spielzeug gefunden.
+Pylonen-Zombie hat ein neues Spielzeug gefunden.
 
 [ZOMBIE_NEEDFORSPEED_FLAG]
 Rennflaggen-Zombie
@@ -58252,7 +58263,7 @@ Mammutkopf-Zombie
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION_HEADER]
 Die robuste Rüstung an seinem Kopf bietet ihm eine höhere Verteidigung.
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION]
-Eigentlich war der Mammutkopf-Zombie ein gewöhnlicher Höhlenzombie. Jeden Tag steckte er seinen Kopf in den Eisstrom und wollte sich in einen Eisblock-Zombie verwandeln, doch eines Tages zerquetschte ein Mammut den Eisblock-Zombie neben ihm. „Mammuts sind wohl die Stärksten“, dachte er. Also bat er Dr. Zombie, einen Mammuthelm zu bauen, mit dem er garantiert köstliche Gehirne verspeisen kann!
+Eigentlich war der Mammutkopf-Zombie ein gewöhnlicher Höhlenzombie. Jeden Tag steckte er seinen Kopf in den Eisstrom und wollte sich in einen Eisblock-Zombie verwandeln, doch eines Tages zerquetschte ein Mammut den Eisblock-Zombie neben ihm. „Mammuts sind wohl die Stärksten“, dachte er. Also bat er Dr. Zomboss, einen Mammuthelm zu bauen, mit dem er garantiert köstliche Gehirne verspeisen kann!
 
 [ZOMBIE_ICEAGE_HUNTER_ELITE]
 Elite-Jäger-Zombie
@@ -66447,16 +66458,16 @@ Dieses Konto ist inaktiv und wird am {TIME} gelöscht. Falls Sie das Konto verse
 Ihr Konto wurde gelöscht. Bitte erstellen Sie ein neues Konto, um das Spiel zu starten.
 
 [NARRATIVE_NEW_PVP_START_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}我喜欢底线这些蓝色的旗帜，守住他们！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich mag diese blauen Flaggen unten am Spielfeldrand, haltet sie fest!
 
 [NARRATIVE_NEW_PVP_START_INTRO_2]
-{EXCITED:crazydave}我已经迫不及待要大干一场了。
+{EXCITED:crazydave}Ich kann es kaum erwarten, endlich richtig loszulegen.
 
 [NARRATIVE_NEW_PVP_SECOND_TURN_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}底线这些红色的旗帜真让人心烦，摧毁他们！
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Diese roten Flaggen unten am Spielfeldrand sind echt nervig, zerstört sie!
 
 [NARRATIVE_NEW_PVP_SECOND_TURN_INTRO_2]
-{EXCITED:crazydave}我已经迫不及待要大干一场了。
+{EXCITED:crazydave}Ich kann es kaum erwarten, endlich richtig loszulegen.
 
 [NEW_PVP_TUTORIAL_STEP_4]
 Blitzrohr pflanzen
@@ -71117,7 +71128,7 @@ Beginnt zu inhalieren, saugt bis zu 3 Zombies derselben Reihe in euer Maul, vers
 Wenn ein Zombie rechts neben der starken Säurezitrone erscheint, sprüht diese Säure, um den Zombie zu korrodieren. Der Säureangriff verursacht doppelten Schaden an Eisenpanzerungen.
 
 [LEMON_NEW_SKILL_LEVEL2_DES]
-Die starke Säurezitrone kann zwei Säureschüsse gleichzeitig abfeuern und auch doppelten Schaden an Straßensperrenpanzerungen verursachen.
+Die starke Säurezitrone kann zwei Säureschüsse gleichzeitig abfeuern und auch doppelten Schaden an Pylonenpanzerungen verursachen.
 
 [LEMON_NEW_SKILL_LEVEL3_DES]
 Die Säurezitrone kann drei Säuretropfen gleichzeitig abfeuern und so allen Panzerungen den doppelten Schaden und allen Zombies 30% zusätzlichen Schaden zufügen.
@@ -71557,10 +71568,10 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Beim Angriff hat der Zauberpilz eine Chance von 40%, eine goldene Karte mit 450 Schaden zu schleudern. Diese Karte fügt einem Zombie im Einzelfeld Schaden zu und kehrt nach 2 Sekunden zurück.
 
 [MAGICSHROOM_PLANTFOOD_DESCRIPTION]
-Beschwöre 5 Zombies, einen pro Reihe. Der Zauberpilz kann normale Zombies, Straßensperren, Fässer oder Gargantuas beschwören. Die Zombiestufe entspricht der aktuellen Kartenstufe.
+Beschwöre 5 Zombies, einen pro Reihe. Der Zauberpilz kann normale Zombies, Pylonen, Fässer oder Gargantuas beschwören. Die Zombiestufe entspricht der aktuellen Kartenstufe.
 
 [MAGICSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Beschwöre 5 Zombies, einen pro Reihe. Der Zauberpilz kann ^ff0000^ Straßensperren, Fässer oder Gargantuas beschwören. ^oldclr^ Die Zombiestufe entspricht der aktuellen Kartenstufe.
+Beschwöre 5 Zombies, einen pro Reihe. Der Zauberpilz kann ^ff0000^ Pylonen, Fässer oder Gargantuas beschwören. ^oldclr^ Die Zombiestufe entspricht der aktuellen Kartenstufe.
 
 [ROSESWORDMAN_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie ein Feld vor Rose Swordsman, schwingt Rose Swordsman den Degen, um den Zombie zu erstechen. Beträgt die Gesundheit des Zombies weniger als 30%, wird ein stärkerer, einstufiger Stich ausgeführt.
@@ -73246,7 +73257,7 @@ Der Wachsmelonenwächter greift aktiv an und springt sofort, sobald sich der Zom
 Der Wachsmelonenwächter springt dreimal hintereinander. Beim ersten Mal schockt er die Zombies ein Feld nach rechts, beim zweiten Mal die umliegenden 3×3 Zombies und beim dritten Mal die umliegenden 3×3 Zombies ein Feld zurück.
 
 [WAXGOURD_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Winterkürbiswächter springt dreimal hintereinander hoch. Beim ersten Mal springt er die Zombies ein Feld nach rechts hoch, beim zweiten Mal die umliegenden 3×3 Zombies und beim dritten Mal stößt er die Zombies ein Feld zurück. ^ff0000^ Jedes Mal wird zusätzlicher Reichweitenschaden verursacht. ^oldclr^
+Der Wachsmelonenwächter springt dreimal hintereinander hoch. Beim ersten Mal springt er die Zombies ein Feld nach rechts hoch, beim zweiten Mal die umliegenden 3×3 Zombies und beim dritten Mal stößt er die Zombies ein Feld zurück. ^ff0000^ Jedes Mal wird zusätzlicher Reichweitenschaden verursacht. ^oldclr^
 
 [ELECTRICITEA_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie im Umkreis von 3×3 um Electric Green Tea erscheint, schießt er Blitze ab, die allen Zombies im Umkreis von 3×3 Schaden zufügen. Nachdem er von einem Zombie gefressen wurde, schießt er ebenfalls Blitze ab, die den Zombie sofort töten, und erzeugt eine Gewitterwolke, die Kettenblitze auslöst.
@@ -73270,10 +73281,10 @@ Elektrischer Grüntee ist voller Elektrizität und feuert zufällig fünf elektr
 Elektrischer Tee ist voller Elektrizität und feuert fünf elektrische Ströme auf zufällige Zombies auf dem Feld ab. Er verursacht Blitzschaden^ff0000^ und Lichtbogenschaden im Bereich von 3×3. ^oldclr^
 
 [IMPPEAR_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie eine gelbe Birne isst, verwandelt er sich in einen Wichtel-Zombie. Ist er bereits ein Wichtel-Zombie, erleidet er Schaden und setzt Giftgas frei, das die Zombies dahinter^848484^für Ⅰ^oldclr^7 Sekunden betäubt. Wirkt maximal bei Zombies der Stufe 2.
+Wenn ein Zombie eine gelbe Birne isst, verwandelt er sich in einen Wicht-Zombie. Ist er bereits ein Wicht-Zombie, erleidet er Schaden und setzt Giftgas frei, das die Zombies dahinter^848484^für Ⅰ^oldclr^7 Sekunden betäubt. Wirkt maximal bei Zombies der Stufe 2.
 
 [IMPPEAR_NEW_SKILL_LEVEL2_DES]
-Es besteht eine 40%ige Chance, dass ein Zombie, der eine gelbe Birne isst und sich in einen Wichtel-Zombie verwandelt, direkt vergiftet wird und Gas freisetzt, das die Zombies dahinter betäubt. ^oldclr^. Funktioniert maximal bei Zombies der Stufe 3.
+Es besteht eine 40%ige Chance, dass ein Zombie, der eine gelbe Birne isst und sich in einen Wicht-Zombie verwandelt, direkt vergiftet wird und Gas freisetzt, das die Zombies dahinter betäubt. ^oldclr^. Funktioniert maximal bei Zombies der Stufe 3.
 
 [IMPPEAR_NEW_SKILL_LEVEL3_DES]
 Die Auslösewahrscheinlichkeit der verstärkten Mutation erhöht sich auf 80%. Der Zombie wird direkt vergiftet und setzt Gas^848484^ frei, das die Zombies hinter Ⅰ^oldclr^ betäubt. Wirksam bis zu Zombies der Stufe 5.
@@ -73285,10 +73296,10 @@ Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attack
 Wenn ein Zombie die kleine gelbe Birne isst und Giftgas freisetzt, erhöht sich dessen Reichweite. Zombies, die das Giftgas einatmen, werden verwundbar und erleiden 7 Sekunden lang 30% mehr Schaden.
 
 [IMPPEAR_PLANTFOOD_DESCRIPTION]
-Die kleine gelbe Birne entfesselt sofort die Magie der kleinen gelben Birne auf fünf Zombies auf dem Spielfeld und verwandelt kleine und mittlere Zombies in Koboldzombies oder verursacht Schaden.
+Die kleine gelbe Birne entfesselt sofort die Magie der kleinen gelben Birne auf fünf Zombies auf dem Spielfeld und verwandelt kleine und mittlere Zombies in Wichtzombies oder verursacht Schaden.
 
 [IMPPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Birne entfesselt sofort die Magie der Birne auf die sieben Zombies auf dem Spielfeld ^ff0000^ und verwandelt kleine und mittlere Zombies in Koboldzombies oder verursacht Schaden.
+Die Birne entfesselt sofort die Magie der Birne auf die sieben Zombies auf dem Spielfeld ^ff0000^ und verwandelt kleine und mittlere Zombies in Wichte oder verursacht Schaden.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL1_DES]
 Wenn Zombies rechts vom Juwelier-Granatapfel erscheinen, werfen sie Edelsteine, um die Zombies zu verletzen. Nach dem Auftreffen prallen die Edelsteine diagonal nach rechts ab und verursachen 50% Schaden.
@@ -77762,8 +77773,8 @@ Nach einem Routineangriff entdeckte der Eiswind-Häuptling-Zombie, dass der Mann
 Theaterbetreiber
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Drama schaffen
-{FLAVOR}Eine Seite aus Dr. Zombies Manuskript:
-„‚Ein Feigling ist viele Male gestorben, bevor er stirbt, während ein tapferer Mann nur einmal im Leben den Tod erfährt.‘ Als jüngster Doktor der Thanatologie hat Dr. Zombies große Legende bereits alle Epochen durchschritten. Komm zurück, räche dich, zerstöre und erschaffe einen neuen Mythos! Der große Dr. Zombie wird definitiv wiederkehren! Dr. Zombies böse Karriere wird schließlich florieren! (Hinweis: Dieser Absatz sollte nicht veröffentlicht werden: In Erinnerung an das beste Universitätstheaterleben.)“
+{FLAVOR}Eine Seite aus Dr. Zomboss Manuskript:
+„‚Ein Feigling ist viele Male gestorben, bevor er stirbt, während ein tapferer Mann nur einmal im Leben den Tod erfährt.‘ Als jüngster Doktor der Thanatologie hat Dr. Zomboss große Legende bereits alle Epochen durchschritten. Komm zurück, räche dich, zerstöre und erschaffe einen neuen Mythos! Der große Dr. Zomboss wird definitiv wiederkehren! Dr. Zomboss böse Karriere wird schließlich florieren! (Hinweis: Dieser Absatz sollte nicht veröffentlicht werden: In Erinnerung an das beste Universitätstheaterleben.)“
 - „Zombie-Doktor: Die besten Memoiren der Geschichte! Beilage Nr. 1616“
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION_HEADER]
 Der Kopf hinter dem Theater – eine Mischung aus tragischen Epen und bösem Chaos.
