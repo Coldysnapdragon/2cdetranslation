@@ -39019,7 +39019,7 @@ Schleim-Erbsenkanonen können Zombies verlangsamen und verursachen Giftschaden.
 Die Schleim-Erbsenkanone kann Zombies verlangsamen und verursacht Giftschaden.
 
 [STORE_PRODUCT_AVATAR_POISONPEASHOOTER]
-Der Giftkanal, der durch die Giftkugel des Gifterbsenwerfers gebildet wird, kocht und verursacht höheren Schaden.
+Der Giftkanal, der durch die Giftkugel der Schleim-Erbsenkanone gebildet wird, kocht und verursacht höheren Schaden.
 
 [STORE_PRODUCT_AVATAR_POISONPEASHOOTER_TITLE]
 Schleim-Erbsenkanonen Kostüm
@@ -39028,7 +39028,7 @@ Schleim-Erbsenkanonen Kostüm
 Giftmeister einsetzen
 
 [POISONPEASHOOTER_SKILL_LEVEL1_DES]
-Wenn ein Zombie fünfmal von Gifterbsen getroffen wird, wird der Giftschaden gestapelt und explodiert einmal, was höheren Schaden verursacht. Anschließend wird er erneut gestapelt.
+Wenn ein Zombie fünfmal von Schleim-Erbsenkanonen getroffen wird, wird der Giftschaden gestapelt und explodiert einmal, was höheren Schaden verursacht. Anschließend wird er erneut gestapelt.
 
 [POISONPEASHOOTER_SKILL_LEVEL2]
 Giftmeister
@@ -73380,25 +73380,25 @@ Die explodierende Erdbeere beschwört eine riesige Erdbeere, die explodiert und 
 Die explodierende Erdbeere beschwört eine riesige Erdbeere, die explodiert und Zombies auf dem gesamten Bildschirm Schaden zufügt. ^ff0000^ Nach der Explosion springen drei kleine Erdbeeren heraus und explodieren erneut. ^oldclr^ Sie wächst sofort zu einer großen Erdbeere heran.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom Gifterbsenwerfer erscheint, feuert dieser Gifterbsen ab, um dem Zombie Schaden zuzufügen. Außerdem wird er verlangsamt und erhält 5 Sekunden lang eine Giftschicht. Jede Giftschicht verursacht das Fünffache der Angriffskraft von ^701edf^Poison I^oldclr^ Schaden pro Sekunde, maximal 5 Schichten.
+Wenn ein Zombie rechts von der Schleim-Erbsenkanone erscheint, feuert dieser Gifterbsen ab, um dem Zombie Schaden zuzufügen. Außerdem wird er verlangsamt und erhält 5 Sekunden lang eine Giftschicht. Jede Giftschicht verursacht das Fünffache der Angriffskraft von ^701edf^Poison I^oldclr^ Schaden pro Sekunde, maximal 5 Schichten.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-Jedes Mal, wenn ein Zombie fünfmal von der Gifterbse getroffen wird, explodiert das Gift einmal und verursacht 300 Schaden.
+Jedes Mal, wenn ein Zombie fünfmal von der Schleim-Erbsenkanone getroffen wird, explodiert das Gift einmal und verursacht 300 Schaden.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-Die Giftfähigkeit des Gifterbsen-Schießers wurde verbessert. Alle drei Treffer können eine Giftexplosion auslösen, die 450 Schaden verursacht.
+Die Giftfähigkeit der Schleim-Erbsenkanone wurde verbessert. Alle drei Treffer können eine Giftexplosion auslösen, die 450 Schaden verursacht.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt mit einem großen Angriff freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt freizusetzen!
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 10%ige Chance, fünf Gifterbsen hintereinander abzufeuern, die 36 Schaden verursachen und ein einzelnes Gitter bespritzen.
 
 [POISONPEASHOOTER_PLANTFOOD_DESCRIPTION]
-Der Gifterbsen-Schießer sammelt viel Gift und verschießt eine riesige Gifterbse, die die gesamte Zombiereihe verletzt und abwehrt. Er hinterlässt eine Giftspur, die alle Zombies verlangsamt.
+Die Schleim-Erbsenkanone sammelt viel Gift und verschießt eine riesige Gifterbse, die die gesamte Zombiereihe verletzt und abwehrt. Sie hinterlässt eine Giftspur, die alle Zombies verlangsamt.
 
 [POISONPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Gifterbsen-Schießer sammelt viel Gift und verschießt eine riesige Gifterbse, die der gesamten Zombiereihe ^ff0000^ zusätzlichen Schaden und Rückstoß zufügt und eine kochende Giftspur ^oldclr^ hinterlässt, die alle Zombies verlangsamt.
+Die Schleim-Erbsenkanone sammelt viel Gift und verschießt eine riesige Gifterbse, die der gesamten Zombiereihe ^ff0000^ zusätzlichen Schaden und Rückstoß zufügt und eine kochende Giftspur ^oldclr^ hinterlässt, die alle Zombies verlangsamt.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie drei Felder rechts erscheint, schlage einen hohen Ball, triff den Zombie und pralle einmal ab. Wenn ein Zombie innerhalb von drei Feldern rechts erscheint, führe einen Smash-Aufschlag aus, der einen Zombie mit weniger als 40% Gesundheit sofort tötet, den Schaden auf 120 erhöht und das Angriffsintervall auf 2,9 Sekunden verlängert.
