@@ -77436,6 +77436,21 @@ Energiespendendes Mangostan-Ganzkörper-Outfit
 [MAT_BATTLE_ORDER_BLUE_ACCE0]
 5 blaue Anhängerfragmente deiner Wahl
 
+[WINNETREASURE_WHITEPLANTS]
+Weiße Pflanzen
+
+[WINNETREASURE_GREENPLANTS]
+Grüne Pflanzen
+
+[WINNETREASURE_BLUEPLANTS]
+Blaue Pflanzen
+
+[WINNETREASURE_EPICPLANTS]
+Lila Pflanzen
+
+[WINNETREASURE_LEGENDPLANTS]
+Orange Pflanzen
+
 [MAT_BATTLE_ORDER_BLUE_ACCE0_USE]
 Wähle eine Belohnung aus und erhalte:
 [MAT_BATTLE_ORDER_BLUE_ACCE0_GOT_WAY]
