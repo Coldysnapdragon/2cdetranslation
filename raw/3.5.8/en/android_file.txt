@@ -21288,7 +21288,7 @@ Trickster kann drei Rettich-Raketen unterschiedlicher Form und Schadensstärke n
 {FLAVOR}Trickster träumte einst davon, ein dünner Mann zu werden, doch als er feststellte, dass sein riesiger Bauch alle möglichen Waffen aufnehmen konnte, gab er diese unrealistische Idee völlig auf. Kinder spielen auch gerne mit Trickster, weil sie immer denken, Tricksters Bauch sei voller Süßigkeiten. „Manchmal muss ich mich im Dreck verstecken“, sagte GREENTURNIP hilflos. „Ich habe große Angst, die Kinder zu verletzen, die mir zu nahe kommen.“
 
 [GREENTURNIP_TOOLTIP]
-GREENTURNIP kann drei Karotten-Raketen unterschiedlicher Form und Schadensstärke nacheinander abfeuern.
+Kann drei verschiedene Karotten-Raketen nacheinander abfeuern.
 
 [GREENTURNIP_PLANTFOOD]
 Feuert ein gewaltiges Geschoss vom Kopf ab und fügt den Zombies in der ersten Reihe Schaden zu.
@@ -63782,7 +63782,9 @@ Level auswählen
 Level erstellen
 
 [CUSTOM_LEVEL_MAINMENU_TITLE_CREATE_LEVEL]
-Level erstellen M_LEVEL_MAINMENU_TITLE_SHOP]
+Level erstellen 
+
+[CUSTOM_LEVEL_MAINMENU_TITLE_SHOP]
 Shop
 
 [CUSTOM_LEVEL_MAINMENU_TITLE_MOTIVATE]
