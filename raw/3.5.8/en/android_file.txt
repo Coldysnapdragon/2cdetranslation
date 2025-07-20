@@ -11245,13 +11245,13 @@ Ich möchte abbrechen
 Ich denke darüber nach
 
 [PLANT_ADVENTURE_TEAMEDITOR_NEEDPLANTS]
-Benötigte Pflanzen: {PLANTS}
+Nötig: {PLANTS}
 
 [PLANT_ADVENTURE_TEAMEDITOR_PLANTTYPE]
 Pflanzenmerkmale:
 
-[PLANT_ADVENTURE_TEAMEDITOR_AUTO_BUT TON]
-Automatische Auswahl
+[PLANT_ADVENTURE_TEAMEDITOR_AUTO_BUTTON]
+Auto
 
 [PLANT_ADVENTURE_TEAMEDITOR_START_BUTTON]
 Abenteuer starten
@@ -63283,12 +63283,11 @@ Höchste Punktzahl in diesem Zeitraum: {NUMS}
 [PLANT_WARS_LEADERBOARD_BONUS_RANK_DESC_4]
 51% ~ 100%
 
-
 [PLANT_WARS_FIRST_CARD_NOT_IMITATER]
-变身茄子不能放在队伍的第一位
+Der Imitator kann nicht als erstes im Team platziert werden.
 
 [CUMULATIVE_OBTAIN]
-累计获得
+Kumulativ erhalten
 
 [PVZ1MODE_BUOY]
 Bewege die Boje.
@@ -63297,7 +63296,7 @@ Bewege die Boje.
 Der Zombie folgt der Richtung der Boje.
 
 [CUMULATIVE_SCORE_OBTAIN]
-累计获得积分
+Gesamtpunkte
 
 [PVZ1_ACHIEVEMENT_TITLE]
 Erfolg
