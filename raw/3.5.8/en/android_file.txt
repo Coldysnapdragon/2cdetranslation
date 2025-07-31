@@ -843,7 +843,7 @@ Pack Choi
 
 [BONKCHOY_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}kann nach vorn und hinten angreifen
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze, Jungen mit vorstehenden Zähnen, Kampfkunstfertigkeit
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, Jungen mit vorstehenden Zähnen, Kampfkunstfertigkeit
 
 {FLAVOR}Als freiberuflicher Zahnarzt hat der Pack Choi diesen Monat ein Sonderangebot in Petto: Er schlägt zwei Zähne zum Preis von einem aus!
 
@@ -896,7 +896,7 @@ Wähle einen Spielstil
 Kohlapult 
 
 [CABBAGEPULT_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR}Das Kohlapult hat an der altehrwürdigen Universität von Kohlogna promoviert und weiß einiges übers Durchstarten. Außerdem kocht es eine großartige Suppe!
 
@@ -2167,7 +2167,7 @@ Grabfresser
 [GRAVEBUSTER_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}einmalig, muss auf Gräbern gepflanzt werden
 {KEYWORD}Besonderheit: {STAT}entfernt Gräber
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze, scharfe Zähne
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, scharfe Zähne
 
 {FLAVOR}Er mag stachelig oder schlecht gelaunt erscheinen. Doch eigentlich will der Grabfresser dich nur umarmen. Es sei denn, du bist ein Welpe, vor denen hat er panische Angst.
 
@@ -2237,7 +2237,7 @@ Jalapeño
 
 [JALAPENO_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}einmalig, sofort
-{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanze, hässlich aber freundlich, voller Wut
+{KEYWORD}Pflanzeneigenschaften: {STAT} Rote Pflanze, hässlich aber freundlich, voller Wut
 
 {FLAVOR}Diese Jalapeño hat tagsüber richtig Pfeffer und wird nachts zur Makramee-Bürgerwehr. Ihre Geheimwaffe: ihre Knoten.
 
@@ -2262,7 +2262,7 @@ Kornapult
 [KERNELPULT_DESCRIPTION]
 {KEYWORD}Schaden: {STAT}gering (Korn), normal (Butter)
 {KEYWORD}Besonderheit: {STAT}Butter lähmt Zombies
-{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Gelbe Pflanze
 
 {FLAVOR}Während seiner Arbeit als Platzanweiser im Cineplex sah das Kornapult den Film "Grüne Tomaten" und fand seine höhere Bestimmung. Es packte Schalen, Körner und Butter ein und zog in den Kampf.
 
@@ -3782,6 +3782,7 @@ Erbsenhülse
 {KEYWORD}Schaden: {STAT}Mittel (pro Projektil)
 {KEYWORD}Spezial: {STAT}Erhöhte Feuerkraft durch verschiedene Pflanzmethoden
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze, Erbsengewächse, Brüder in Gruppen
+
 {FLAVOR}Die Erbsenhülse hat an der Clownschule Raumquantenmechanik studiert und ist bei Alt und Jung beliebt.
 
 [PEAPOD_DESCRIPTION_HEADER]
@@ -3798,6 +3799,7 @@ Erbsenkanone
 
 [PEASHOOTER_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}grüne Pflanze, Erbsengewächse
+
 {FLAVOR}„Wie es ist, berühmt zu sein?", fragt die Erbsenkanone und nippt an einer Flasche Wasser. "Sorry, hab grad keine Zeit, muss meinen Merchandising-Deal eintüten. Hier, halt mal meinen Spelzmantel.“
 
 [PEASHOOTER_DESCRIPTION_HEADER]
@@ -4410,7 +4412,7 @@ Duplinator
 [REPEATER_DESCRIPTION]
 {KEYWORD}Schaden: {STAT}normal (je Erbse)
 {KEYWORD}Feuerrate: {STAT}2x
-{KEYWORD} Pflanzeneigenschaften: {STAT} grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze
 
 {FLAVOR}"Alle fragen immer, ob wir uns nicht irgendwo her kennen", sagt der Duplinator. "Alle fragen immer, ob wir uns nicht irgendwo her kennen. Moment, habe ich das nicht gerade schon gesagt?"
 
@@ -4759,7 +4761,7 @@ Drachenmäulchen
 
 [SNAPDRAGON_DESCRIPTION]
 {KEYWORD}Bereich: {STAT}schadet allen Zombies in den 6 Feldern vor ihm
-{KEYWORD} Pflanzeneigenschaften: {STAT} Voller Wut
+{KEYWORD}Pflanzeneigenschaften: {STAT} Voller Wut
 
 {FLAVOR}Das Drachenmäulchen ist der mächtigste Drache im Pflanzenreich. Trotzdem träumt es davon, einmal fliegen zu können und die Welt von oben zu sehen.
 
@@ -4777,7 +4779,7 @@ Hagelzuckererbse
 
 [SNOWPEA_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}kühlt getroffene Zombies herunter
-{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanze, Hülsenfrüchtler
+{KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze, Hülsenfrüchtler
 
 {FLAVOR}Hauptberuflich Pingpongprofi, geht die Hagelzuckererbse außerhalb der Saison gern Skifahren, spielt Bongos oder macht Höhlenexkursionen.
 
@@ -5181,7 +5183,7 @@ Stachelkraut
 [SPIKEWEED_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}kann nicht von Zombies gefressen werden
 {KEYWORD}Schwäche: {STAT}wird von rollenden Zombies zermalmt
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze, kleiner Wuchs
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, kleiner Wuchs
 
 {FLAVOR}Das Stachelkraut kommt zwar aus einer üblen Nachbarschaft, konnte aber trotzdem eine blühende Akupunkturpraxis hochziehen.
 
@@ -5199,7 +5201,7 @@ Knallerbse
 
 [SPLITPEA_DESCRIPTION]
 {KEYWORD}Feuerrate: {STAT}1x vorwärts, 2x rückwärts
-{KEYWORD} Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
+{KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
 
 {FLAVOR}"Ich bin mit den Augenbrauen dran", sagt Vordererbse. "OK, dann teilen wir sie", meint Hintererbse. Mit nur zwei Minuten Abstand erblickten sie das Licht der Welt. Doch ihr Augenbrauenkrieg geht ewig.
 
@@ -5218,7 +5220,7 @@ Federbohne
 [SPRINGBEAN_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}schubst Zombies zurück oder ins Wasser
 {KEYWORD}Schwäche: {STAT}wird nach dem Federn müde
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze, Alopezie
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, Alopezie
 
 {FLAVOR}Die Federbohne macht nicht viel Aufhebens um ihre Person. Trotzdem hat sie Millionen Fans und glühende Verehrer.
 
@@ -5237,7 +5239,7 @@ Matschkürbis
 [SQUASH_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}mehr Schmetter-Angriffe bei Pflanzen auf höheren Stufen
 {KEYWORD}Bereich: {STAT}alle Zombies im Zielbereich
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR}Matschkürbis ist eigentlich sein Künstlername. Sein Geburtsname lautet Tracy.
 
@@ -6182,7 +6184,7 @@ Zunderholz
 [TORCHWOOD_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}Immun gegen Frost
 {KEYWORD}Besonderheit: {STAT}Wärmt Pflanzen in der Nähe
-{KEYWORD} Pflanzeneigenschaften: {STAT} Braune Pflanzen, hässliche Gesichter, gutes Herz und in Feuer getauchte Körper
+{KEYWORD}Pflanzeneigenschaften: {STAT} Braune Pflanzen, hässliche Gesichter, gutes Herz und in Feuer getauchte Körper
 
 {FLAVOR}Zunderholz und Drachenmäulchen sind dicke Freunde geworden. Am liebsten hängen sie in der Tiki-Lounge oder beim Mittelalterfest ab.
 
@@ -6443,7 +6445,8 @@ Verbesserungen Anzeigen
 Wall-Nuss 
 
 [WALLNUT_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Braune Pflanzen
+{KEYWORD}Pflanzeneigenschaften: {STAT} Braune Pflanzen
+
 {FLAVOR}Die Tage als Bowling-Champion in der Profiliga sind vorbei. Heute sucht die Wall-Nuss nach neuen Herausforderungen in der Verteidigung deines Rasens. STILLGESTANDEN!
 
 [WALLNUT_DESCRIPTION_HEADER]
@@ -6559,6 +6562,7 @@ Wintermelone
 {KEYWORD}Reichweite: {STAT}Wurf
 {KEYWORD}Eigenschaften: {STAT}Verletzte Zombies werden ebenfalls eingefroren
 {KEYWORD}Pflanzeneigenschaften: {STAT}Blaue Pflanze
+
 {FLAVOR}Vielleicht kennst du die Stimme der Wintermelone aus den unglaublichen Dokumentarfilmen "Kalt hier oben", "Eisbingo" und "Surfen in Schweden".
 
 [WINTERMELON_DESCRIPTION_HEADER]
@@ -14370,7 +14374,7 @@ Unend-Nuss
 
 [HOLONUT_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}regeneriert mit der Zeit ihre Gesundheit
-{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze
 
 {FLAVOR}Als junges Nüsschen hat sie viel zu viel Zeit damit verbracht, zwischen zwei Spiegeln zu stehen, um einen Blick in die Unendlichkeit zu erhaschen.
 
@@ -14385,7 +14389,7 @@ Laserbohne
 
 [LASER_BEAN_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}alle Zombies in einer Reihe
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR}Nachdem beim Lasern ihrer Augen alles auf furchtbare Weise gut gegangen war, verspürte die Laserbohne eine gewisse Zielstrebigkeit sowie eine ganz neue Begeisterung für Blickduelle.
 
@@ -14400,7 +14404,7 @@ Vergrößerungsgras
 
 [MAGNIFYINGGRASS_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}antippen, um Sonne für einen Angriff zu nutzen
-{KEYWORD} Pflanzeneigenschaften: {STAT} weiße Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} weiße Pflanze
 
 {FLAVOR}Das Vergrößerungsgras hat die Mächte des Regenbogens entschlüsselt. Unter seiner stoischen Oberfläche schlummert eine kindische Freude daran, Zombies mit farbenfroher Zerstörung zu überschütten.
 
@@ -14414,7 +14418,7 @@ Antippen, um Sonne für einen mächtigen Angriff zu nutzen
 Zedrate
 
 [CITRON_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Orange Pflanze, 100.000 Volt
+{KEYWORD}Pflanzeneigenschaften: {STAT} Orange Pflanze, 100.000 Volt
 
 {FLAVOR}Die Zedrate ist alleiniger Patentinhaber und einziger Verwender des "Vitamin-C-20-Stunden-Superenergieschubs" und damit allzeit bereit. "Worauf warten wir noch?!"
 
@@ -14432,7 +14436,7 @@ Feldrübe
 
 [POWERPLANT_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}Einfache Verwendung, sofortige Wirkung
-{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanzen
+{KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanzen
 
 {FLAVOR}DJ Feldrübe hat mit seinem Hit "Spür die Beete" allen den Boden unter den Füßen weggezogen. Mit seinem neuesten Mix versprüht er Power pur.
 
@@ -14458,6 +14462,7 @@ Das Karotten-Raketenauto kann Karotten-Raketen abfeuern, die Zombies vor ihm gro
 {KEYWORD}Reichweite: {STAT}Bogenförmige Flugbahn
 {KEYWORD}Funktionen: {STAT}Einzelgitter-Spritzer
 {KEYWORD}Pflanzenfunktionen: {STAT}Orangenpflanzen, Waffenfamilie
+
 {FLAVOR}Karotten war in seiner Jugend ein Fan von Roboteranimationen. Sein Zimmer war voller verschiedener Robotermodelle. Er spielte fast jedes Roboter-Videospiel und versuchte sogar, sich Tattoos mit bestimmten Robotern stechen zu lassen. Als er Wissenschaftler wurde, begann er fieberhaft zu erforschen, wie man Solarenergie als Energiequelle für Roboter nutzen kann ... Später wandte er seine Forschungsergebnisse auf sich selbst an. Manche nannten ihn deshalb Karotten-Raketenauto, er selbst nannte sich jedoch lieber Optimus Prime.
 
 [CARROTLAUNCHER_TOOLTIP]
@@ -14472,6 +14477,7 @@ Pusteblume kann mächtige Flaumbälle abfeuern, um Gegner vor ihm zu bombardiere
 [DANDELION_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Einzelgitterschaden
 {KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze
+
 {FLAVOR}Die Pusteblume war einst eine gewöhnliche, gebildete Jugendliche. Wenn sie nichts zu tun hatte, lag sie gern unter einem großen Baum, las Bücher und schaute zwischendurch in den Himmel. Ihr Traum war es, Pilot zu werden und den blauen Himmel zu befliegen. Als sie erwachsen wurde, wurde sie Verbindungsmann am Flughafen ... Ja, richtig gelesen: Aufgrund der jahrelangen falschen Lesehaltung verschlechterte sich ihr Sehvermögen stark, und sie fiel bei der ärztlichen Untersuchung für Piloten durch!
 
 [DANDELION_TOOLTIP]
@@ -14492,6 +14498,7 @@ Brokkoli kann Zombies schwingen, um sie von vorne und hinten anzugreifen.
 [BROCCOLI_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Einzelnes Gitter vorne und hinten
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze, hohe Kampfkünste
+
 {FLAVOR}Brokkoli träumte einst davon, ein Superheld zu werden, genau wie die Helden in den Comics, die er oft las. Aus diesem Grund lehnte er das Geständnis der süßen Tomatenschwester ab, trat dem Judo-Club der Schule bei, trainierte intensiv Kung-Fu und ging nach der Schule in die Gasse hinter der Schule, um für Gerechtigkeit zu sorgen … Schließlich erhielt er eines Tages von der Schule die Benachrichtigung, dass er die Klasse wiederholen müsse.
 
 [BROCCOLI_TOOLTIP]
@@ -14506,6 +14513,7 @@ Der Maschinengewehr-Granatapfel kann Zombies aus der vorderen Reichweite erschie
 [PAMEGRANATE_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Frontfächer
 {KEYWORD}Pflanzenmerkmale: {STAT}Orangenpflanze, Waffenfamilie, Hasenzahnjunge
+
 {FLAVOR}Als Granatapfel in die Bibliothek ging, um die Schulschönheit zu bewundern, las er zufällig ein Buch mit dem Titel „1000 Möglichkeiten, Granatäpfel zu essen“. Auf der Titelseite des Buches stand ein Satz, der sein Leben prägte: Egal wie man ihn isst, die Granatapfelkerne müssen ausgespuckt werden. Später ging er zur Armee und wurde Maschinengewehrschütze mit furchtbaren Schießkünsten. Später ging er in Rente und wurde Landwirt, der jeden Tag Melonenkerne knackte und die Sonne genoss. Was geschah dann? Hast du den Typen auf der anderen Straßenseite nicht gesehen, der sein großes Maul aufgerissen und dich angespuckt hat?
 
 [PAMEGRANATE_TOOLTIP]
@@ -14515,8 +14523,9 @@ Verjage die Zombies im fächerförmigen Bereich vor dir.
 Süßkartoffel
 
 [SWEETPOTATO_DESCRIPTION]
-{FLAVOR}Die Süßkartoffel ist genauso süß, wie sie aussieht. Ihr Lieblingstier ist das Einhorn. Ihre Lieblingsfarbe (Zitat): „Alle Farben des Regenbogens.“ Statt i-Pünktchen malt sie kleine Herzen. Ganz ehrlich, bei jedem anderen würde mich so viel Niedlichkeit abstoßen. Aber ihr steht das irgendwie.
 {KEYWORD} Spezial: {STAT} Kann keine Zombies hinter sich herlocken
+
+{FLAVOR}Die Süßkartoffel ist genauso süß, wie sie aussieht. Ihr Lieblingstier ist das Einhorn. Ihre Lieblingsfarbe (Zitat): „Alle Farben des Regenbogens.“ Statt i-Pünktchen malt sie kleine Herzen. Ganz ehrlich, bei jedem anderen würde mich so viel Niedlichkeit abstoßen. Aber ihr steht das irgendwie.
 
 [SWEETPOTATO_DESCRIPTION_HEADER]
 Süßkartoffeln ziehen Zombies aus anderen Reihen an, wenn diese in ihre Nähe kommen.
@@ -15512,6 +15521,7 @@ Sonnenpilz
 [SUNSHROOM_DESCRIPTION]
 {KEYWORD}Sonnenlichtproduktion: {STAT}Anfangs gering, dann normal und schließlich groß.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Gelbe Pflanze, Pilzfamilie, endloses Sonnenlicht
+
 {FLAVOR}Oh, sicher. Der Sonnenpilz ist für sein Dauergrinsen und seine sonnige Art bekannt. Aber selbst er kennt dunkle Tage. Immerhin ist es nicht leicht, die Sonnenseiten des Lebens zu sehen, wenn man im Schatten lebt.
 
 [SUNSHROOM_DESCRIPTION_HEADER]
@@ -15529,6 +15539,7 @@ Pustepilze sind Nahdistanzschützen, die für begrenzte Zeit leben.
 [PUFFSHROOM_DESCRIPTION]
 {KEYWORD}Merkmale: {STAT} Begrenzte Überlebenszeit
 {KEYWORD}Pflanzenmerkmale: {STAT} Lilafarbene Pflanzen, Pilzfamilie, kleiner Wuchs
+
 {FLAVOR}Der Pustepilz ist immer auf den neuesten sozialen Netzwerken dabei – von Pilzbook über PfifferXing bis PustaGram. Aber manchmal vermisst er die gute alte Zeit, in der man nur über das Myzel mit anderen Pilzen vernetzt war.
 
 [PUFFSHROOM_TOOLTIP]
@@ -15538,7 +15549,8 @@ Nahdistanzschütze, lebt für begrenzte Zeit
 Stinkpilz
 
 [FUMESHROOM_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanzen, Pilzfamilie
+{KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanzen, Pilzfamilie
+
 {FLAVOR}„Eigentlich bin ich wirklich mit mir zufrieden“, sagt der Stinkpilz. „Aber manchmal, wenn ich Spezialdünger kriege, kann ich sie hören. Wie sie mich ‚Ballon-Pilz‘ nennen. Bestimmt wissen sie nicht, wie sehr mich das trifft.“
 
 [FUMESHROOM_TOOLTIP]
@@ -15572,7 +15584,7 @@ Magnetpilz
 
 [MAGNETSHROOM_DESCRIPTION]
 {KEYWORD}Besonderheit:{STAT} Entfernt metallische Objekte von Zombies
-{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanze, Pilzfamilie
+{KEYWORD}Pflanzeneigenschaften: {STAT} Rote Pflanze, Pilzfamilie
 
 {FLAVOR}Trotz seines ungewöhnlichen Äußeren hat der Magnetpilz kein Problem, Mädels kennenzulernen. Nur leider hält es nie besonders lange. Am Ende finden sie immer, dass er zu viel klammert.
 
@@ -16732,7 +16744,7 @@ Bananenwerfer
 
 {KEYWORD}Besonderheit: {STAT}Explodiert beim Aufprall und verursacht Umgebungsschaden in einem kleinen Bereich
 
-{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Gelbe Pflanze
 
 
 {FLAVOR}Es ist wichtig, dass wir Vorurteile vermeiden. Oft sind sie einfach falsch. Und verletzend. Aber ganz ehrlich ... der Bananenwerfer ist wirklich VOLL Banane!
@@ -16749,7 +16761,7 @@ Schattenpilz
 [SHADOWSHROOM_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}Einfache Verwendung, bei Kontakt
 {KEYWORD}Besonderheit: {STAT}Mit Spezialkraft versorgte Schattenpilze bringen vergiftete Zombies dazu, andere Zombies zu vergiften
-{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanze, violette Pflanzen, Pilzfamilie, Schattenfamilie
+{KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze, violette Pflanzen, Pilzfamilie, Schattenfamilie
 
 {FLAVOR}Dafür, dass er solch ein giftiger, zutiefst ungenießbarer Pilz ist, ist der Schattenpilz eigentlich ein echtes Herzchen.
 
@@ -16782,7 +16794,7 @@ Hypno-Karfiol
 
 [CAULIPOWER_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}Schwebt über dem Boden oder über Wasser
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR}Total aufgekratzt verdreht Hypo-Karfiol die Augen. Ihm ist gerade ein spitzenmäßiges Ende für seinen Roman eingefallen, aber er fürchtet, sein Cousin wird es wieder mal nicht verstehen.
 
@@ -16821,7 +16833,7 @@ Schattenlupfer
 
 [DUSKLOBBER_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT} Mit Kraft versorgte Schattenlupfer lupfen Knospen 3 Reihen herunter
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze, blaue Pflanzen, Zwergpflanzen, Schattengewächse
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, blaue Pflanzen, Zwergpflanzen, Schattengewächse
 
 {FLAVOR}Lupfen fällt dem Schattenlupfer sehr leicht. Kein Wunder, nach so viel Training und einer echten Vorliebe für Parabeln.
 
@@ -16893,7 +16905,7 @@ Nachtschatten
 
 [NIGHTSHADE_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}Verteilt Schellen und hat, wenn er mit Kraft versorgt wird, nachwachsende Blätter.
-{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanze, violette Pflanzen, Schattengewächse
+{KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze, violette Pflanzen, Schattengewächse
 
 {FLAVOR}Der Nachtschatten verteilt gerne mal ein paar Erziehungsschellen. Das hat in seiner Familie Tradition. Immerhin hat diese drei Könige, vier Botschafter und einen Präsidenten hervorgebracht. Und ihnen allen haben die paar Ohrfeigen nicht geschadet!
 
@@ -16926,7 +16938,7 @@ Mondblume
 
 [MOONFLOWER_DESCRIPTION]
 {KEYWORD}Sonnenproduktion: {STAT}Stößt Sonnen aus, plus Extra-Sonnen pro angrenzende Schattenpflanze (bis zu 4).
-{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanze, violette Pflanzen, Schattenfamilie, endloser Sonnenschein
+{KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze, violette Pflanzen, Schattenfamilie, endloser Sonnenschein
 
 {FLAVOR}Die Mondblume ist ein echter Teamplayer. Sie würde mit allem und jedem zusammenarbeiten. Selbst mit einem Tisch, wenn das ginge.
 
@@ -16959,7 +16971,7 @@ Friemel
 
 [GRIMROSE_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT} Mit Kraft versorgte Friemeln können 3 Zombies ziehen, bevor sie verblühen
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze, violette Pflanzen, Schattengewächse
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, violette Pflanzen, Schattengewächse
 
 {FLAVOR}„Genau genommen gehören Zombies doch in die Erde“, erklärt die Friemel. „Ich beschleunige den Vorgang nur etwas.“
 
@@ -17034,7 +17046,7 @@ Guakodil
 
 {KEYWORD}Besonderheit: {STAT}Kann auf Wasser gepflanzt werden
 
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze, scharfe Zähne, Wasserpflanzen, Kleinwuchs
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, scharfe Zähne, Wasserpflanzen, Kleinwuchs
 
 
 {FLAVOR}Auf die Frage, was es so auszeichnet, grinst das Guakodil sein schiefes Grinsen: „Ich bin ein Guakodil. Ich habe ein Gebiss wie eine Bärenfalle. Ich spucke mit steinharten Kernen, und das mit einer Geschwindigkeit und Präzision, um die mich alle beneiden. Mann, ich kann sogar übers Wasser gehen. Ich bin ein Rundumpaket, wie eine gute Enchilada!“ Tja, Bescheidenheit ist nicht gerade die Stärke des Guakodils.
@@ -19473,6 +19485,7 @@ Rotorübe
 [XSHOT_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Strahlt in vier Richtungen
 {KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen, fliegende Pflanze
+
 {FLAVOR}Manchmal bekommt die Rotorübe mit, wie die anderen Pflanzen lästern. „Hast du gesehen, wie der zugenommen hat?“ sagen sie, oder: „Ich hab gehört, der-und-der ist jetzt mit soundso zusammen. Kaum zu glauben!“ Aber die Rotorübe ist kein Lästermäulchen. Sie redet nicht über andere hinter ihren Blattrücken. Vielmehr schwebt sie über den Dingen.
 
 [XSHOT_DESCRIPTION_HEADER]
@@ -19655,7 +19668,7 @@ Feuer-Erbsenkanone
 
 {KEYWORD}Besonderheit: {STAT}Wärmt Pflanzen in der Nähe
 
-{KEYWORD} Pflanzeneigenschaften: {STAT} Orangenpflanze, Hülsenfrüchtler, voller Feuer, voller Wut
+{KEYWORD}Pflanzeneigenschaften: {STAT} Orangenpflanze, Hülsenfrüchtler, voller Feuer, voller Wut
 
 {FLAVOR}Die Feuer-Erbsenkanone weiß, dass sie krass aussieht. Aber die Arbeit mit offenem Feuer ist eine ernste und gefährliche Sache. Deshalb hält sie in ihrer Freizeit Brandsicherheits-Vorträge vor Kindern. „Ich bin ein ausgebildeter Profi“, erklärt sie. „Also nicht zuhause nachmachen, Kinder!“
 
@@ -19690,7 +19703,7 @@ Paprikatapult
 [PEPPERPULT_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}Immun gegen Frost
 {KEYWORD}Besonderheit: {STAT}Wärmt Pflanzen in der Nähe
-{KEYWORD} Pflanzeneigenschaften: {STAT} Orange Pflanze, voller Feuer
+{KEYWORD}Pflanzeneigenschaften: {STAT} Orange Pflanze, voller Feuer
 
 {FLAVOR}Manche nennen das Paprikatapult einen Hitzkopf. Und manche finden sein feuriges Temperament abstoßend. Tatsächlich ist es einfach sehr fokussiert und entschlossen. Es liebt seine Arbeit, mit allem, was dazugehört. „Ich bin nicht gerade auf der Sonnenseite des Rasens aufgewachsen“, erklärt es. „Ich musste mich selbst an den Wurzeln aus dem Dreck ziehen. Alles, was ich habe, habe ich selbst geschafft, man hat mir nichts geschenkt.“
 
@@ -21234,7 +21247,7 @@ Die Spezialdünger-Fähigkeit reduziert die Größe von Zombies und verringert i
 Elektro-Blaubeere
 
 [ELECTRICBLUEBERRY_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanze, 100.000 Volt
+{KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze, 100.000 Volt
 {FLAVOR} Die Elektro-Blaubeere ist elektrisch UND eklektisch. „Ich liebe es, meine Feinde zu überraschen“, sagt sie. „Der letzte Gedanke, den ein Zombie hat, sollte ‚Wow, was war das denn‘ lauten.“
 
 [ELECTRICBLUEBERRY_DESCRIPTION_HEADER]
@@ -22269,7 +22282,7 @@ Stinkeblüte
 [STALLIA_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}einmalig; wird aktiviert, wenn ein Zombie in der Nähe ist
 {KEYWORD}Besonderheit: {STAT}verlangsamt Zombies in der Nähe
-{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanzen
+{KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanzen
 
 {FLAVOR}„In unserer modernen Welt ist das Leben zu schnell geworden“, meint die Stinkeblüte. „Die Leute sollten entschleunigen und an ein paar Sporen schnuppern.“
 
@@ -22329,7 +22342,7 @@ Goldblatt
 [GOLDLEAF_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}Einfache Verwendung, sofortige Wirkung
 {KEYWORD}Sonne pro Feld：{STAT}50
-{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Gelbe Pflanze
 
 {FLAVOR}„Eine geringe Anfangsinvestition kann schon bald eine riesige Sonnenmenge abwerfen“, sagt das Goldblatt. Es glaubt fest an die Zukunft der Sonnenenergie.
 
@@ -22370,7 +22383,7 @@ Reduziert die Angriffsgeschwindigkeit von Potenzialschub um 100% und erhöht den
 Roter Stachler
 
 [REDSTINGER_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Rote Pflanze
 {FLAVOR}Flexibilität ist die große Stärke des Roten Stachlers. „Ich mache jeden Morgen Dehnübungen", sagt er. „Es ist wichtig, mental und körperlich agil zu bleiben."
 
 [REDSTINGER_DESCRIPTION_HEADER]
@@ -22431,7 +22444,7 @@ Lava-Guave
 
 {KEYWORD}Besonderheit: {STAT}Verursacht ein Pfütze brennender Lava auf ihrem Feld
 
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze, voller Wut
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, voller Wut
  
 
 {FLAVOR}Die Lava-Guave kann ihre Wut kaum unterdrücken. Sie versucht es. Wirklich. Aber eines Tages wird ein Zombie sie zur Eruption bringen, und dann kann sie für nichts garantieren!
@@ -22489,7 +22502,7 @@ Krötenpilz
 
 [TOADSTOOL_DESCRIPTION]
 {KEYWORD}Schwachstelle: {STAT}verwundbar beim Kauen
-{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Gelbe Pflanze
 
 {FLAVOR}Der Krötenpilz hasst es, tatenlos herumzustehen. „Alles, was ich mir vornehme, schreibe ich auf Listen, die ich immer in Sichtweite halte. So bleibe ich immer motiviert!", sagt sie. Wenn es etwas zu erledigen gibt, springt sie gleich zur Stelle. 
 
@@ -25759,7 +25772,7 @@ Eis-Drachenmäulchen
 
 [COLDSNAPDRAGON_DESCRIPTION]
 {KEYWORD}Bereich: {STAT}Verlangsamt und beschädigt Zombies auf den 6 vor ihm liegenden Feldern
-{KEYWORD} Pflanzeneigenschaften: {STAT} Blaue Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze
 
 {FLAVOR}Das Eis-Drachenmäulchen reagiert verschnupft, wenn jemand auf seinen Cousin, das Drachenmäulchen, zu sprechen kommt. „Wir haben ziemlich verschiedene Auffassungen von Temperatur, und ich möchte nicht darüber reden“, sagt er. Jemineh.
 
@@ -27683,7 +27696,7 @@ Anzeige ansehen
 Knoblauch 
 
 [GARLIC_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} weiße Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} weiße Pflanze
 
 {FLAVOR}Gut gegen Zombies – und Vampire, falls zufällig welche vorbeischlurfen.
 
@@ -30542,7 +30555,7 @@ Parfümpilz
 
 [PERFUMESHROOM_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}Trifft alle Dinosaurier in einer Reihe
-{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanzen, Pilzfamilie
+{KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanzen, Pilzfamilie
 
 {FLAVOR}Parfümpilze strömen einen hochkonzentrierten Dunst aus zerstäubter Liebe aus.
 
@@ -30580,7 +30593,7 @@ Wird heruntergeladen...
 Fette Bete
 
 [PHATBEET_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Rote Pflanze
 {FLAVOR} Die Fette Bete steht für krasse Reime, dope Beats und Killer-Kombos – in Personalunion.
 
 [PHATBEET_DESCRIPTION_HEADER]
@@ -30730,7 +30743,7 @@ Urzeit-Erbsenkanone
 
 [PRIMALPEASHOOTER_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}Urzeit-Erbsenkanonen stoßen gelegentlich Zombies zurück.
-{KEYWORD} Pflanzeneigenschaften: {STAT} grüne Pflanze, Wildwuchs, Hülsenfrüchtler
+{KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze, Wildwuchs, Hülsenfrüchtler
 
 {FLAVOR}Die Urzeit-Erbsenkanone mag primitiv sein, aber das hält sie nicht davon ab, mehrere Softwareentwickler-Kurse zu belegen und erfolgreich zu absolvieren.
 
@@ -30761,7 +30774,7 @@ Urzeit-Sonnenblume
 
 [PRIMALSUNFLOWER_DESCRIPTION]
 {KEYWORD}Sonnenproduktion: {STAT}große Sonnen
-{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanze, wildes Wachstum, endloses Sonnenlicht
+{KEYWORD}Pflanzeneigenschaften: {STAT} Gelbe Pflanze, wildes Wachstum, endloses Sonnenlicht
 
 {FLAVOR}Die Urzeit-Sonnenblume ist noch neu im Sonnengeschäft, also hab etwas Geduld mit ihr. Ihr etwas antiquierter Ansatz lautet: "Nimm so viel, du kriegen kannst!"
 
@@ -31725,7 +31738,7 @@ Sporenpilz
 
 [SPORESHROOM_DESCRIPTION]
 {KEYWORD}Spezial：{STAT} Besiegte Zombies werden zu Sporenpilze.
-{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanzen
+{KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanzen
 
 {FLAVOR}„Meine liebste Grundrechenart?“ Der Sporenpilz kratzt sich am Hut. „Ich würde sagen, Addition. Obwohl, nein ... Multiplikation!“
 
@@ -31825,7 +31838,7 @@ Erdbeerbömbchen
 [STRAWBURST_DESCRIPTION]
 {KEYWORD}Nutzung:{STAT} Zum Feuern antippen
 {KEYWORD} Verwendung: {STAT} Zum Auslösen klicken
-{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Rote Pflanze
 
 {FLAVOR} „Groß ist gut“, sagt das Erdbeerbömbchen. „Aber klein ist auch fein. Und mittel finde ich eigentlich auch prächtig. Ich mag alle Größen, denke ich.“
 
@@ -31846,7 +31859,7 @@ Eigenthymian
 
 [THYMEWARP_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}einfache Nutzung, sofortige Wirkung
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {KEYWORD}Besonderheit: {STAT}Zurückgesetzte Zombies haben wieder volle Gesundheit
 
@@ -35409,7 +35422,7 @@ Hexe Hasel
 
 [WITCHHAZEL_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}Kämpft bevorzugt gegen Zombie-Zauberer
-{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanze, geheimnisvoller Zauberer
+{KEYWORD}Pflanzeneigenschaften: {STAT} Gelbe Pflanze, geheimnisvoller Zauberer
 
 {FLAVOR}Die Hexe Hasel hielt inne. Wie sollte sie sich verhalten? Da fiel es ihr urplötzlich ein: Hexen. Und zwar immer, die GANZE ZEIT!
 
@@ -36172,7 +36185,7 @@ Kiwibiest
 [KIWIBEAST_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}Schlägt Zombies in der Wachstumsphase zurück
 {KEYWORD}Besonderheit: {STAT} Wird stärker, desto mehr Schaden er erleidet
-{KEYWORD} Pflanzeneigenschaften: {STAT} Braune Pflanzen
+{KEYWORD}Pflanzeneigenschaften: {STAT} Braune Pflanzen
 
 {FLAVOR}„Ich will ja ruhig und ausgeglichen bleiben“, sagt Kiwibiest. „Doch Zombies ... ohhh ... Zombies machen mich so sauer. Und wenn ich sauer werde ... RARRRRRRGGGG!“ 
 
@@ -36317,7 +36330,7 @@ Verbleibende Erfahrungszeit:
 Elektro-Erbsenkanone
 
 [ELECTRICPEASHOOTER_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
+{KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
 
 {FLAVOR}Die Elektro-Erbsenkanone rechnet mit Widerstand. Aber wird deswegen nicht Ohm-mächtig.
 
@@ -36361,7 +36374,7 @@ Es besteht die Chance, ein elektromagnetisches Feld zu erzeugen, das nahe Ziele 
 Schatten-Erbsenkanone
 
 [SHADOWPEASHOOTER_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
+{KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
 
 {FLAVOR}„Puff!“, flüstert die Schatten-Erbsenkanone und verschießt eine schattige, wie soll man sagen, Erbse, auf einen Zombie. „Uff!“, japst der Zombie, sichtlich überrascht. Die unterschwellige Spannung zwischen diesen beiden ist wirklich mit Händen greifbar.
 
@@ -37942,7 +37955,7 @@ Aloe Doctor wirft einen Eistropfen, der die Angriffskraft um 20 % erhöht. Währ
 Eislotus
 
 [ICELOTUS_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Weiße Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Weiße Pflanze
 {FLAVOR} Als Mitglied der Feuerwehr hat der Eislotus eine extreme Leidenschaft für die Brandbekämpfung. Er verträgt selbst kleinste Flammen nicht und hat sogar Eiswasser zur Hand, um heiße Gegenstände abzukühlen.
 
 [ICELOTUS_DESCRIPTION_HEADER]
@@ -37976,7 +37989,7 @@ Friert Zombies ein, die sie beißen.
 Dendrobium
 
 [DENDROBIUMGUARD_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze
 {FLAVOR} Dendrobium-Windschutze sind stets windbeständig und bieten der dahinter stehenden Pflanzenfamilie Schutz vor Windschäden.
 
 [DENDROBIUMGUARD_DESCRIPTION_HEADER]
@@ -38016,7 +38029,7 @@ Wenn Blätter vorhanden sind, besteht die Chance, Zombies bei einem Angriff abzu
 Granatapfelhändler
 
 [GRANATAPFEL_BESCHREIBUNG]
-{SCHLÜSSELWORT} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{SCHLÜSSELWORT}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 {GESCHMACK} Aloe Vera war bereits bei großen Kosmetik-Produktneueinführungen zu sehen und nutzte die Gelegenheit, für ihr Produkt „Aloe Vera Wasser“ zu werben. In diesem Jahr dreht sich im gesamten Hautpflegemarkt alles um die Aufhellung der Haut – die Stärke von Aloe Vera.
 
 [POMEGRANATE_DESCRIPTION_HEADER]
@@ -38059,7 +38072,7 @@ Erhöht die Wirkung von Fertigkeit 2 um 100 %
 Schnapperbse
 
 [SNAPPEA_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
+{KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
 
 {FLAVOR}„Ich geb's zu, ich habe einen eigenwilligen Geschmack“, sagt die Schnapperbse. „Zombies fressen ist kein Problem. Nur die Köpfe krieg ich nicht runter. Ich habe immer das Gefühl, die starren mich an.“
 
@@ -38245,7 +38258,7 @@ Die Strahlungsreichweite nach einem Projektilangriff ändert sich auf 3x3
 Stinkeblümchen
 
 [DAZEYCHAIN_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} weiße Pflanze, Rote Pflanze, violette Pflanzen
+{KEYWORD}Pflanzeneigenschaften: {STAT} weiße Pflanze, Rote Pflanze, violette Pflanzen
 
 {FLAVOR}„Ich bin viele“, sagt Stinkeblümchen. „Und wir sind gefährlich“, fügt es hinzu.
 
@@ -38334,7 +38347,7 @@ Wenn eine Ballonbombe erzeugt wird, besteht die Chance, dass ein Ballon zum 8. J
 Ultomate
 
 [ULTOMATO_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Rote Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Rote Pflanze
 
 {FLAVOR}Ultomate gähnt – aber täusch dich nicht: In ihm brodeln unvorstellbare Energien. Doch das ist schon OK. Er kann warten. Er hat den gaaaanzen Tag Zeit.
 
@@ -38426,7 +38439,7 @@ Imperia-Fertigkeit lv5-des
 Stephania
 
 [STEPHANIA_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR} Stephanias Idol ist der Kapitän des nationalen Fliegenden Schild-Teams. Weil sie sein heldenhaftes Blocken und seinen Fliegenden Schild bewundert, hat Stephania auch hart daran gearbeitet, die Fähigkeiten des Fliegenden Schildes und Blockens zu meistern. Fragt nicht, warum der Schild zerbricht. Es ist nur ein gewöhnliches ziviles Produkt.
 
@@ -38556,7 +38569,7 @@ Neue Gerichte verursachen nun eine Vergiftung der Projektile.
 Schleudererbse
 
 [SLINGPEA_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
+{KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
 {FLAVOR}Die Schleudererbse behält das gesamte Schlachtfeld im Blick. Eine wirklich aufmerksame Vertreterin ihrer Art. „Wenn hier wer durchkommt, wäre das meine Schuld“, sagt sie. „Das könnte ich mir nie verzeihen.“
 
 [SLINGPEA_DESCRIPTION_HEADER]
@@ -39109,7 +39122,7 @@ Nach der Explosion der dreistufigen Erdbeerbombe der Explosiven Erdbeere bleibt 
 Schleim-Erbsenkanone
 
 [POISONPEASHOOTER_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR}Die Schleim-Erbsenkanone verschießt schleimige Erbsen. Macht Sinn, oder? Ich liebe es, wenn Namen Sinn ergeben ...
 
@@ -39156,7 +39169,7 @@ Kürbislaterne
 Die Kürbislaterne ist zurück – nur für kurze Zeit!
 
 [JACKOLANTERN_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Orange Pflanze, voller Wut
+{KEYWORD}Pflanzeneigenschaften: {STAT} Orange Pflanze, voller Wut
 {KEYWORD}Nutzung: {STAT}Einmal antippen für Einzel-Flammenstoß, halten für mächtigeren Flammenstrahl
 
 {KEYWORD}Besonderheit: {STAT}Feuerkraft lädt mit der Zeit nach
@@ -39336,7 +39349,7 @@ Es besteht die Möglichkeit, dass der weiterentwickelte Apostel herausfliegt, Zo
 Wachpilz
 
 [GUARDSHROOM_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Lila Pflanze, wächst
+{KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanze, wächst
 {FLAVOR}Was haben 3,154e+13 und der Wachpilz gemeinsam? Nun, als Dave Penny bat, die Wachpilze zu zählen, verschwand Penny gute vier Stunden im Keller und kehrte mit dieser Zahl zurück. Penny ist felsenfest davon überzeugt, dass sie stimmt – und verbietet allen anderen, selbst da runter zu gehen.
 
 [GUARDSHROOM_DESCRIPTION_HEADER]
@@ -39534,7 +39547,7 @@ Die Erbsenranke feuert sofort 60 ^ff0000^ verschiedene ^oldclr^ Erbsenkugeln hin
 Maibienchen
 
 [MAYBEE_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Gelbe Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Gelbe Pflanze
 
 {FLAVOR} „Ich bin mehr als ein Bündel hübsche Glöckchen, weißt du? Ich kann auch richtig mies losballern!“
 
@@ -40068,7 +40081,7 @@ Bun Chi
 {KEYWORD}Besonderheit: {STAT}Tippe bei Stufe 5 auf die leuchtende Blume, um einen verheerenden Donnerschlag-Angriff zu entfesseln.
 {KEYWORD}Reichweite: {STAT} 1 Gitter vorn
 {KEYWORD}Funktionen: {STAT} Benutze deine Ohren, um Zombies kontinuierlich zu schlagen. Nach jeder Angriffsrunde wächst die lila Blume auf dem Kopf des Kaninchens.
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR}Eine weise Pflanze sagte einmal: „Schon kleine Anstrengungen auf dem Rasen können große Ergebnisse zeitigen! Wenn es regnet, dann ... donnert es ... und irgendwas von wegen ... Flinkheit ist die beste Verteidigung.“ Was soll das überhaupt heißen?
 
@@ -42064,7 +42077,7 @@ Schießt 120 Erbsen mit zufälligen Eigenschaften fächerförmig in die richtige
 Dartischocke
 
 [DARTICHOKE_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR}„Warum Schüsse an Fußsoldaten verschwenden, wenn man den Kampf mit einem gutplatzierten Pfeil entscheiden kann?“, fragt sich Dartischocke. „Warum sollte man das tun? Warum würde IRGENDWER das tun?“
 
@@ -42108,7 +42121,7 @@ Ein Gewitterpfeil wird alle 20 Sekunden abgefeuert. Der Gewitterpfeil greift zue
 Pokra
 
 [POKRA_DESCRIPTION]
-{KEYWORD} Pflanzeneigenschaften: {STAT} Grüne Pflanze
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
 
 {FLAVOR}Pokra stellt sich jedem Kampf und hat keine Angst davor, unterhalb der Gürtellinie zuzustechen. Sie macht es zwar nicht, weil das gegen die Regeln wäre, aber Angst davor hat sie keine. „Damit das klar ist.“, sagt sie voller Entschlossenheit.
 
@@ -54129,7 +54142,7 @@ Alle 20 Sekunden werden Zombies für {NUMBER} Sekunden eingefroren (beeinträcht
 Nachdem du den Gegenstand benutzt hast, kannst du normale Zombies im Feld sofort töten. Du kannst es {NUMBER}-mal verwenden.
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
-Die Pflanzeneigenschaften erhöhen sich um {NUMBER3}% (einschließlich der Abklingzeit für spezielle Pflanzen im Memory Camel, der Geschwindigkeit des Erscheinens von Bowlingkugeln im Nussbowling und der Abklingzeit für Pflanzen im Mimic, ausgenommen Luftkrieg).
+DiePflanzeneigenschaften erhöhen sich um {NUMBER3}% (einschließlich der Abklingzeit für spezielle Pflanzen im Memory Camel, der Geschwindigkeit des Erscheinens von Bowlingkugeln im Nussbowling und der Abklingzeit für Pflanzen im Mimic, ausgenommen Luftkrieg).
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
 Die Spieldauer erhöht sich um {NUMBER} Sekunden.
@@ -65596,11 +65609,11 @@ Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Das Matschkürbis Kostüm kann den ultimativen Sprungdruck verstärken.
 
 [PENNY_CLASSROOM_PLANT_DESC_PRIMALSUNFLOWER]
-^276500 Pflanzeneigenschaften: ^oldclr Urzeit-Sonnenblumen^FF0000 produzieren große Sonnen ^oldclr. Und haben zusätzliche Sonnen in der Dino-Krisenwelt.
+^276500Pflanzeneigenschaften: ^oldclr Urzeit-Sonnenblumen^FF0000 produzieren große Sonnen ^oldclr. Und haben zusätzliche Sonnen in der Dino-Krisenwelt.
 ^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Urzeit-Sonnenblumen produzieren sofort 225 Sonnen.
 
 [PENNY_CLASSROOM_PLANT_DESC_ELECTRICBLUEBERRY]
-^276500 Pflanzeneigenschaften: ^oldclr Elektro Blaubeere ^FF0000 setzt eine Gewitterwolke frei, die ^oldclr enormen Schaden verursacht und Zombies in Reichweite verfolgt. Sehr nützlich gegen Gargantuas oder Dr. Zomboss.
+^276500Pflanzeneigenschaften: ^oldclr Elektro Blaubeere ^FF0000 setzt eine Gewitterwolke frei, die ^oldclr enormen Schaden verursacht und Zombies in Reichweite verfolgt. Sehr nützlich gegen Gargantuas oder Dr. Zomboss.
 ^276500 Spezialdünger-Fähigkeit: ^oldclr Elektro Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_PLANT_DESC_TALLNUT]
