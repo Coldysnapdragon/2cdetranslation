@@ -17136,9 +17136,7 @@ Saftling
 
 [SAPFLING_DESCRIPTION]
 {KEYWORD}Schadensdetails: {STAT}Verursacht keinen Trefferschaden, aber eine Pfütze voller Sirup
-
 {KEYWORD}Besonderheit: {STAT}Verlangsamt Zombies, die in die Pfütze treten
-
 
 {FLAVOR}Du musst den Wurfarm des Saftlings einfach gesehen haben. Er ist vielleicht noch jung, aber alle sind sich einig, der Junge hat TALENT. Scouts sämtlicher Pinienzapfenballteams haben bereits ein Auge auf ihn geworfen, vielleicht spielt er schon bald in der ersten Liga. Klar – manch einer kritisiert ihn für seine unglaublich klebrige Spuckekugel. Aber das ist ganz natürlicher Sirup, also vollkommen legal.
 
@@ -17300,6 +17298,7 @@ Schalen-Zombie
 [ZOMBIE_BEACH_SHELL_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Kann mit der Schale verschiedenen anormalen Bedingungen widerstehen.
 {KEYWORD}Funktionen:{STAT}Kann mit der Schale Pflanzen an Land zerquetschen.
+
 {FLAVOR}Der Schalen-Zombie beneidete den Möwen-Zombie um seine Flugfähigkeit. Um sich seinen Traum zu erfüllen, kaufte er für viel Geld starken Kleber von einem schäbigen Ladenbesitzer und klebte sich damit zwei Nuschelschalen an die Arme. Die Qualität des Klebers ist jedoch immer noch recht gut. Selbst als er in den Sand fiel, blieben die Panzer an seinem Arm.
 
 [ZOMBIE_BEACH_SHELL_DESCRIPTION_HEADER]
@@ -78852,4 +78851,4 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]
+[PVZ2_CHINESE_END]D]
