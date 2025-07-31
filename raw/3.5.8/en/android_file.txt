@@ -21277,6 +21277,15 @@ Ermöglicht bis zu zwei zusätzliche Abpraller von Raketen.
 [STORE_PRODUCT_AVATAR_GREENTURNIP]
 Die Spezialdünger-Fähigkeit lässt die Rakete explodieren, wenn sie die untere Linie erreicht, und verursacht enormen Schaden.
 
+[WARNING_FISH_WAVE_TIP]
+Der Feind nähert sich!
+
+[POSEIDONTREASURE_TAB5]
+Avatar-Austausch
+
+[PLANTING_NOT_ON_SEAURCHIN]
+Kann nicht auf Seeigeln gepflanzt werden
+
 [GREENTURNIP]
 Trickster
 
@@ -34308,10 +34317,11 @@ Karnevalsparty
 [PLANT_FAMILY_NAME_50050]
 Aus dem Abgrund
 
+[PLANT_FAMILY_NAME_50051]
+Auf Wind und Wellen reiten
+
 [PLANT_FAMILT_BOOST_TITLE]
-
-
-Effekte der Pflanzenfamilie:
+Pflanzenfamilien Effekte:
 
 [PLANT_FAMILT_BOOST_RESEARCH]
 In Entwicklung
@@ -36516,6 +36526,103 @@ Blumenkohl – Weiße Wolken auf dem Tisch
 Zweijähriges Kraut.
 Pflanzenhöhe: 60–90 cm; die Grundblätter sind graugrün länglich, die Stängelblätter umschließend; der endständige, milchig-weiße, fleischige Kopf (bestehend aus Blütenstiel, Blütenstiel und unentwickelten Blütenknospen); nach der Reife bilden sich Trauben, und die Blüten sind hellgelb. Die Schoten sind zylindrisch und die Samen braun. Blütezeit ist April, Fruchtzeit Mai.
 Der Name „Blumenkohl“ leitet sich von der Blütenform ab, die allgemein als „Blumenkohl“ bekannt ist. Der englische Name „Cauliflower“ setzt sich aus den lateinischen Wörtern „caulis“ (Stängel) und „floris“ (Blüte) zusammen und weist auf die Pflanzenstruktur des essbaren Teils hin. Die Pflanze stammt ursprünglich aus dem östlichen Mittelmeerraum und wird heute in gemäßigten und subtropischen Gebieten weit verbreitet angebaut. Als Gemüse ist sie reich an Vitamin C, Ballaststoffen und krebshemmenden Substanzen wie Glucosinolaten. Die violette Variante ist reich an Anthocyanen und wirkt antioxidativ, was ihren Nährwert erweitert.
+
+[NARRATIVE_ATLANTIS_13_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE} Dave, wir haben endlich die Unterwasserruinen erreicht.
+
+[NARRATIVE_ATLANTIS_13_INTRO_2]
+{SAG:WINNIE} Sei vorsichtig, die Blauwale, die uns begleiten, haben einen unersättlichen Appetit.
+
+[NARRATIVE_ATLANTIS_13_INTRO_3]
+{AUFGEWUNDEN:CRAZYDAVE} So tief tauchen, nur um Nahrung zu finden?
+
+[NARRATIVE_ATLANTIS_13_INTRO_4]
+{SAG:WINNIE} Wenn doch nur die Pu-Pu-Fischranke deinen Appetit zügeln könnte.
+
+[NARRATIVE_ATLANTIS_14_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE} Daten zeigen, dass diese Ruinenzombies offenbar über Außenstehende urteilen.
+
+[NARRATIVE_ATLANTIS_14_INTRO_2]
+{AUFGEWUNDERT:CRAZYDAVE} Wir sind jeden Tag schneller als das Licht gereist, ohne einen Strafzettel zu bekommen!
+
+[NARRATIVE_ATLANTIS_15_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAG:WINNIE} Mein Analysator benötigt mehr Informationen zu diesen Unterwasser-Ruinenzombies.
+
+[NARRATIVE_ATLANTIS_15_INTRO_2]
+{SAG:WINNIE} Bitte führe das virtuelle Experiment gemäß den Betriebsregeln durch, damit mein Analysator zu einer Schlussfolgerung gelangen kann.
+
+[NARRATIVE_ATLANTIS_15_INTRO_3]
+{SAY:WINNIE} Die Gegenstände im oberen Inventar haben von links nach rechts folgende Funktionen:
+
+[NARRATIVE_ATLANTIS_15_INTRO_4]
+{SAY:WINNIE} 1. Upgrade, um die Qualität der Gehirnkuchen zu verbessern und so das Zombiewachstum zu beschleunigen.
+
+[NARRATIVE_ATLANTIS_15_INTRO_5]
+{SAY:WINNIE} 2. Upgrade, um die Anzahl der Gehirnkuchen zu erhöhen, die gleichzeitig verfüttert werden können.
+
+[NARRATIVE_ATLANTIS_15_INTRO_6]
+{SAY:WINNIE} 3. Upgrade, um den Schaden an invasiven Fischen zu erhöhen.
+
+[NARRATIVE_ATLANTIS_15_INTRO_7]
+{SAG:WINNIE} [NARRATIVE_ATLANTIS_15_INTRO_7]
+{SAG:WINNIE}4. Schalte einen neuen Zombietyp frei.
+
+[NARRATIVE_ATLANTIS_15_INTRO_8]
+{SAG:WINNIE}5. Nach dem Kauf verwandelt sich der nächste Hirnkuchen, den du platzierst, in Sushi. Sein Zweck ist derzeit unbekannt.
+
+[NARRATIVE_ATLANTIS_15_INTRO_9]
+{SAG:WINNIE}6. Schließe dieses Level ab, indem du die Trophäe dreimal kaufst.
+
+[NARRATIVE_ATLANTIS_16_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Was sind das für Dinger auf dem Meeresboden?
+
+[NARRATIVE_ATLANTIS_16_INTRO_2]
+{SAY:WINNIE}Mollusca nutzt Schalen zum Schutz.
+
+[NARRATIVE_ATLANTIS_16_INTRO_3]
+{EXCITED:CRAZYDAVE} Es ist wie ein Kessel auf meinem Kopf!
+
+[NARRATIVE_ATLANTIS_16_INTRO_4]
+{SAY:WINNIE} Die Daten zeigen, dass sie eine starke Öffnungs- und Schließkraft zu haben scheinen.
+
+[NARRATIVE_ATLANTIS_17_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Was sind das für schwarze, stachelige Kugeln?
+
+[NARRATIVE_ATLANTIS_17_INTRO_2]
+{SAY:WINNIE} Stamm Echinodermata, Klasse Echinoidea, Unterstamm Echinacea.
+
+[NARRATIVE_ATLANTIS_17_INTRO_3]
+{EXCITED:CRAZYDAVE} Sieht nach einem tollen Peeling aus!
+
+[NARRATIVE_ATLANTIS_17_INTRO_4]
+{SAY:WINNIE} Die Pflanzen finden das nicht, Dave.
+
+[NARRATIVE_ATLANTIS_18_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Sieht aus, als würden diese Zombies einen Showdown unter Wasser planen.
+
+[NARRATIVE_ATLANTIS_18_INTRO_2]
+{EXCITED:CRAZYDAVE} Schlepp keine Katze mit!
+
+[NARRATIVE_ATLANTIS_18_INTRO_3]
+{SAY:WINNIE} Katzen hassen Wasser, Dave.
+
+[NARRATIVE_ATLANTIS_21_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Der Kampf der Bestien geht weiter, und noch seltsamere Kreaturen tauchen bald auf.
+
+[NARRATIVE_ATLANTIS_21_INTRO_2]
+{SAY:WINNIE} Daten deuten darauf hin, dass sie aus den furchterregenden Tiefen des Ozeans stammen.
+
+[NARRATIVE_ATLANTIS_21_INTRO_3]
+{EXCITED:CRAZYDAVE} Ich habe einmal 15 Jahre lang wach gelegen und in den Abgrund gestarrt.
+
+[NARRATIVE_ATLANTIS_21_INTRO_4]
+{EXCITED:CRAZYDAVE} Ja.
+
+[NARRATIVE_ATLANTIS_24_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Der Detektor benötigt noch mehr Daten!
+
+[NARRATIVE_ATLANTIS_24_INTRO_2]
+{SAY:WINNIE} Bitte führe weitere Simulationsexperimente durch!
 
 [DRACAENA_FAMILY]
 Asparagaceae
@@ -58155,6 +58262,69 @@ Heute ist der erste Tag seiner Beförderung. Er möchte einfach nur früher Feie
 
 [ZOMBIE_PARKOUR_GARGANTUAR_DESCRIPTION_HEADER]
 Gargantua Zombie zum Sicherheitskapitän befördert.
+
+[ZOMBIE_PRIEST]
+Priester-Zombie
+
+[ZOMBIE_PRIEST_DESCRIPTION]
+Hochentwickelte Zivilisationen sind nicht von Unterwasserruinen zu unterscheiden. Hochtechnologie und böse Magie haben denselben Ursprung. Die Autorität der Götter der Vergangenheit wird heute von Priester-Zombies vermittelt. All dies beruht auf demselben Prinzip.
+
+[ZOMBIE_PRIEST_DESCRIPTION_HEADER]
+Verströmt einen verfluchten Nebel, der Pflanzen in kleine, flauschige Pilze verwandelt.
+
+[ZOMBIE_POSEIDON_ASSISTANT]
+Archon-Zombie
+
+[ZOMBIE_POSEIDON_ASSISTANT_DESCRIPTION]
+Gemäß göttlichen Gesetzen verurteilen Archon-Zombies alle Außenstehenden zur sofortigen Hinrichtung. Ist das gerecht? Festzuhalten ist nur, dass Archon-Zombies niemals absteigen, um ein Urteil zu fällen.
+
+[ZOMBIE_POSEIDON_ASSISTANT_DESCRIPTION_HEADER]
+Kann Fischschwärme kontrollieren und Zombies stärken.
+
+[ZOMBIE_ATLANTIS_LAND_BASIC]
+Gewöhnlicher Ruinen-Zombie
+
+[ZOMBIE_ATLANTIS_LAND_BASIC_DESCRIPTION]
+Das wunderschöne Königreich der Vergangenheit sank auf den Meeresgrund und wurde zu Ruinen, und diese Zombies sind die Ruinen selbst.
+
+[ZOMBIE_ATLANTIS_LAND_BASIC_DESCRIPTION_HEADER]
+Gewöhnlicher Zombie in Tiefseeruinen
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR1]
+Ruinen-Pylonen-Zombie
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR1_DESCRIPTION]
+Die Kreise auf diesem mysteriösen orangefarbenen Kegel stellen den ehemaligen Grundriss des Königreichs perfekt dar. Das Tragen dieses Pylon's verleiht den Adligen des Königreichs ihre magischen Kräfte. So steht es in der Werbung.
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR1_DESCRIPTION_HEADER]
+Sein Tiefsee-Pylon macht ihn doppelt so stark wie einen normalen Seezombie.
+
+ZOMBIE_ATLANTIS_LAND_ARMOR2
+Ruinenfass-Zombie
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION]
+Mysteriöse Eisenschmelztechnologie von vor über 10.000 Jahren verleiht dieser Rüstung ein wahrhaft einzigartiges Aussehen!
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION_HEADER]
+Das Tiefsee-Eisenfass auf seinem Kopf bietet enormen Schutz vor Schaden.
+
+[ZOMBIE_ATLANTIS_LAND_FLAG]
+Zombie mit Ruinenflagge
+
+[ZOMBIE_ATLANTIS_LAND_FLAG_DESCRIPTION]
+Das Streben des Zombies nach dem Gehirn ist ein universelles, zeitloses Axiom, und die Flagge ist das logischste Requisit ihrer Zeit, doch ihre technologische Tiefe ist unglaublich tiefgreifend.
+
+[ZOMBIE_ATLANTIS_LAND_FLAG_DESCRIPTION_HEADER]
+Dies kündigt die Ankunft einer Welle von in Seetang gehüllten Zombies an.
+
+[ZOMBIE_SEAURCHINPITCHER]
+Seeigel-Werfer-Zombie
+
+[ZOMBIE_SEAURCHINPITCHER_DESCRIPTION]
+Trivia: Seeigel-Werfer-Zombies sind seit der Antike für ihre Baderituale bekannt. Zombies baden jedoch normalerweise nicht, sonst baden sie oft zehntausend Jahre lang.
+
+[ZOMBIE_SEAURCHINPITCHER_DESCRIPTION_HEADER]
+Wirft Seeigel und zerstört so Pflanzen und Sauerstoff.
 
 [ZOMBIE_PARKOUR_IMP]
 Sicherheitsbeamter Wicht
