@@ -7365,8 +7365,8 @@ Münzen
 7. Die Wahrscheinlichkeit, dass in jeder Schatztruhe Requisiten erscheinen, ist wie folgt:
 Normale Schatztruhe: Grüne Pflanzefragmente 30%, Blaue Pflanzefragmente 20%, Violette Pflanzenfragmente 10%, Grüne Pflanzekleidfragmente 5%, Blaue Pflanzekleidfragmente 3%, Violette Pflanzenkleidfragmente 1,5%, orange Pflanzekleidfragmente 0,5%, Blaue Kulturflüssigkeit 8,71%, Violette Kulturflüssigkeit 2,86%, Orange Kulturflüssigkeit 1,43%, 188 Juwelen 5%, 150 Verkleidungscoupons 1%, Fortgeschrittene Artefaktsegencoupons 9%, 666 Juwelen 2%.
 Mittelschwere Schatztruhe: Grüne Pflanzefragmente 22,5%, Blaue Pflanzefragmente 13,6%, Violette Pflanzenfragmente 15,5%, orange Pflanzefragmente 8,4%, Grüne Pflanze Verkleidungsfragmente 4,67% Blaue Pflanzeverkleidungsfragmente 2,28% Lila Pflanzenverkleidungsfragmente 2,10% orange Pflanzeverkleidungsfragmente 0,95% Blaue Kulturflüssigkeit 7,67% Lila Kulturflüssigkeit 2,29% Orange Kulturflüssigkeit 2,14% 188 Juwelen 6,5% 150 Verkleidungscoupons 3% Segenscoupons für fortgeschrittene Artefakte 5,4% 666 Juwelen 3%
-Fortschrittliche Schatztruhe Grüne Pflanzefragmente 16,72% Blaue Pflanzefragmente 9,25% Lila Pflanzenfragmente 18,91% orange Pflanzefragmente 15,12% Grüne Pflanzekleidfragmente 3,52% Blaue Pflanzekleidfragmente 1,73% Lila Pflanzenkleidfragmente 2,94% orange Pflanzekleidfragmente 1,81% Lila Kulturflüssigkeit 1,83% Orange Kulturflüssigkeit 3,21% 188 Juwelen 8,45% 150 Kleidercoupons 9% Segensgutscheine für fortgeschrittene Artefakte 3,24% 666 Juwelen 4,27%
-Epische Schatztruhe: Lila Pflanzenfragmente 32,78% orange Pflanzefragmente 27,22% Lila Pflanzenkleidfragmente 5,5% orange Pflanzekleidfragmente 4,5% Gutscheine für 150 Kleider 19,33% 666 Juwelen 10,67%
+Fortschrittliche Schatztruhe Grüne Pflanzefragmente 16,72% Blaue Pflanzefragmente 9,25% Lila Pflanzenfragmente 18,91% orange Pflanzefragmente 15,12% Grüne Pflanzekleidfragmente 3,52% Blaue Pflanzekleidfragmente 1,73% Lila Pflanzenkleidfragmente 2,94% orange Pflanzekleidfragmente 1,81% Lila Kulturflüssigkeit 1,83% Orange Kulturflüssigkeit 3,21% 188 Juwelen 8,45% 150 Kostümercoupons 9% Segensgutscheine für fortgeschrittene Artefakte 3,24% 666 Juwelen 4,27%
+Epische Schatztruhe: Lila Pflanzenfragmente 32,78% orange Pflanzefragmente 27,22% Lila Pflanzenkleidfragmente 5,5% orange Pflanzekleidfragmente 4,5% Gutscheine für 150 Kostümer 19,33% 666 Juwelen 10,67%
 Legendäre Schatztruhe: orange Pflanzefragmente 74% orange Pflanzekleidfragmente 25% Andere Pflanzenfragmente 1%
 
 [LUCKYCHEST_DES_TITLE]
@@ -9170,7 +9170,7 @@ Magnetpilz (erste Stufe) plus Dekoration (Ankleiden)
 Pflanterne (erste Stufe) plus Ankleiden
 
 [GEMS_RESTORE_CODE_RECHARGE_COFFEEBEAN_LV0_SUCCEED_CONTENT]
-Kaffeebohne (erste Stufe) plus Kleid hoch
+Kaffeebohne (erste Stufe) plus Kostüm hoch
 
 [GEMS_RESTORE_CODE_RECHARGE_ICESHROOM_LV0_SUCCEED_CONTENT]
 Eispilz der ersten Stufe plus Verkleidung
@@ -9722,10 +9722,10 @@ Nicht genügend Pflanzenfragmente
 Pflanzenfragmente
 
 [PLANT_AVATAR_PIECE]
-Kleidfragmente
+Kostümfragmente
 
 [PLANT_AVATAR_UNLOCKED]
-Du besitzt dieses Kleid bereits.
+Du besitzt dieses Kostüm bereits.
 
 [BUY_PLANT_DESC]
 Du hast noch nicht alle Fragmente dieser Pflanze gesammelt. Die vorhandenen Fragmente sind ^00FF00 {NEED_COUNT}/{MAX_COUNT} ^oldclr. Möchtest du sie auffüllen?
@@ -10466,14 +10466,14 @@ Zitronen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_LEMON_GIFT_DESC]
 ^009900 Nur für kurze Zeit (ab sofort bis 16.9.)
-Fortgeschrittene, stark säurehaltige Zitrone und Kleid
+Fortgeschrittene, stark säurehaltige Zitrone und Kostüm
 
 [STORE_GIFT_LABORDAY_LOTUSSHOWER_GIFT]
 Lotus Xiaopeng Geschenkpaket
 
 [STORE_GIFT_LABORDAY_LOTUSSHOWER_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 9.16 Uhr)
-Fortschrittlicher Lotus Xiaopeng und Kleid
+Fortschrittlicher Lotus Xiaopeng und Kostüm
 
 [STORE_GIFT_LABORDAY_BOWLINGBULB_GIFT]
 Bowling Geschenkpaket
@@ -10606,49 +10606,49 @@ Sternfrucht-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_STARFRUIT_GIFT_DESC]
 ^009900 Nur für kurze Zeit, ab sofort bis 16.9.2020
-Fortschrittliche Sternfrucht und Kleid
+Fortschrittliche Sternfrucht und Kostüm
 
 [STORE_GIFT_LABORDAY_LASER_BEAN_GIFT]
 Laserbohnen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_LASER_BEAN_GIFT_DESC]
 ^009900 Nur für kurze Zeit, ab sofort bis 16.9.2020
-Fortschrittliche Laserbohne und Kleid
+Fortschrittliche Laserbohne und Kostüm
 
 [STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT]
 Prismatisches Gras-Geschenk Paket
 
 [STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
-Fortschrittliches Prismengras und Kleid
+Fortschrittliches Prismengras und Kostüm
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT]
 Bambussprossen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
-Fortschrittliches Bambussprossen und Kleid
+Fortschrittliches Bambussprossen und Kostüm
 
 [STORE_GIFT_LABORDAY_TURNIP_GIFT]
 Weißer Rettich-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_TURNIP_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
-Fortschrittlicher weißer Rettich und Kleid
+Fortschrittlicher weißer Rettich und Kostüm
 
 [STORE_GIFT_LABORDAY_FIREGOURD_GIFT]
 Feuer Kürbis-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_FIREGOURD_GIFT_DESC]
 ^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
-Fortgeschrittener Feuerkürbis und Kleid
+Fortgeschrittener Feuerkürbis und Kostüm
 
 [STORE_GIFT_LABORDAY_PEACH_GIFT]
 Xiantao-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PEACH_GIFT_DESC]
 ^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
-Fortgeschrittener Xiantao und Kleid
+Fortgeschrittener Xiantao und Kostüm
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT]
 Dreifach-Geschenkpaket
@@ -10739,28 +10739,28 @@ Kroton-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_CHILIBEAN_GIFT_DESC]
 ^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
-Fortgeschrittener Kroton und Kleid
+Fortgeschrittener Kroton und Kostüm
 
 [STORE_GIFT_LABORDAY_SQUASH_GIFT]
 Squash-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SQUASH_GIFT_DESC]
 ^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
-Fortgeschrittener Squash und Kleid
+Fortgeschrittener Squash und Kostüm
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT]
 Feuerdrachengras-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT_DESC]
 ^009900 Nur für kurze Zeit, 6:20–6:30 Uhr
-Fortschrittliches Feuerdrachengras und Kleid
+Fortschrittliches Feuerdrachengras und Kostüm
 
 [STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT]
 Frühlingsbohnen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT_DESC]
 ^009900 Nur für kurze Zeit, ab sofort bis 9:16 Uhr
-Fortschrittliche Frühlingsbohnen und Kleid
+Fortschrittliche Frühlingsbohnen und Kostüm
 
 [STORE_GIFT_LABORDAY_BONKCHOY_GIFT]
 Gemüsefrage-Geschenkpaket
@@ -10885,7 +10885,7 @@ Brokkoli kleid
 Granatapfelkleid
 
 [PUFFSHROOM_AVATAR_NAME]
-Pustepilz Kleid
+Pustepilz Kostüm
 
 [FUMESHROOM_AVATAR_NAME]
 Stinkpilz kleid
@@ -10921,22 +10921,22 @@ Schnapper-Kostüm
 Süßkartoffel-Kostüm
 
 [LILYPAD_AVATAR_NAME]
-Seerosenblatt-Kleid
+Seerosenblatt-Kostüm
 
 [BOWLINGBULB_AVATAR_NAME]
-Bowling-Kleid
+Bowling-Kostüm
 
 [BANANA_AVATAR_NAME]
-Bananen-Kleid
+Bananen-Kostüm
 
 [GUACODILE_AVATAR_NAME]
-Guakodil-Kleid
+Guakodil-Kostüm
 
 [TANGLEKELP_AVATAR_NAME]
-Schlingtang-Kleid
+Schlingtang-Kostüm
 
 [HOMINGTHISTLE_AVATAR_NAME]
-Lenkdistel Kleid
+Lenkdistel Kostüm
 
 [LOTUSSHOWER_AVATAR_NAME]
 Lotuskleid
@@ -12413,7 +12413,7 @@ Spezialdünger-Fähigkeitte beschwört Schneeballangriffe.
 Spezialdünger-Fähigkeitte verdoppelt die Dauer!
 
 [STORE_PRODUCT_AVATAR_WINTERMELON]
-Spezialdünger-Fähigkeittive Fähigkeit lässt Eiswassermelone brennen!
+Spezialdünger-Fähigkeit lässt Eiswassermelone brennen!
 
 [STORE_PRODUCT_AVATAR_SNOWPEA]
 Die Spezialdünger-Fähigkeit spuckt einen großen Eisball zum Angriff aus.
@@ -12437,7 +12437,7 @@ Die Spezialdünger-Fähigkeit heilt die umliegenden Pflanzen beim Auslösen.
 Die Spezialdünger-Fähigkeit erzeugt eine riesige Gewitterwolke, um Zombies auf der Karte anzugreifen.
 
 [STORE_PRODUCT_AVATAR_FIREGOURD]
-Der ultimative Move löst eine Feuerdrachenwelle aus!
+Die Spezialdünger-Fähigkeit löst eine Feuerdrachenwelle aus!
 
 [STORE_PRODUCT_AVATAR_BONKCHOY]
 Die Spezialdünger-Fähigkeit löst einen Wirbelwindschlag aus und greift Zombies in großer Reichweite an.
@@ -12524,25 +12524,25 @@ Die Spezialdünger-Fähigkeit kann getroffene Zombies betäuben.
 Die Spezialdünger-Fähigkeit kann zwei kleine Wirbelwinde erzeugen und den ersten Zombie angreifen.
 
 [STORE_PRODUCT_AVATAR_XSHOT]
-Die Spezialdünger-Fähigkeittive Fähigkeit kann Projektile mit höherem Schaden abfeuern.
+Die Spezialdünger-Fähigkeit kann Projektile mit höherem Schaden abfeuern.
 
 [STORE_PRODUCT_AVATAR_SUGARCANE]
-Die Spezialdünger-Fähigkeittive Fähigkeit kann getroffenen Zombies Schaden zufügen.
+Die Spezialdünger-Fähigkeit kann getroffenen Zombies Schaden zufügen.
 
 [STORE_PRODUCT_AVATAR_ROSESWORDMAN]
-Spezialdünger-Fähigkeittive Fähigkeit kann spezielle Schwertfähigkeiten aktivieren, die zusätzlichen Schaden verursachen.
+Spezialdünger-Fähigkeit kann spezielle Schwertfähigkeiten aktivieren, die zusätzlichen Schaden verursachen.
 
 [STORE_PRODUCT_AVATAR_MAGICSHROOM]
-Spezialdünger-Fähigkeittive Fähigkeit kann verhindern, dass sich Zauberpilze in gewöhnliche Zombies verwandeln.
+Spezialdünger-Fähigkeit kann verhindern, dass sich Zauberpilze in gewöhnliche Zombies verwandeln.
 
 [STORE_PRODUCT_AVATAR_SAPFLING]
-Spezialdünger-Fähigkeittive Fähigkeit kann alle Zombies, die hindurchgehen, in Bernstein verwandeln.
+Spezialdünger-Fähigkeit kann alle Zombies, die hindurchgehen, in Bernstein verwandeln.
 
 [STORE_PRODUCT_AVATAR_GHOSTPEPPER]
-Spezialdünger-Fähigkeittive Fähigkeit kann Zombies kurzzeitig betäuben.
+Spezialdünger-Fähigkeit kann Zombies kurzzeitig betäuben.
 
 [STORE_PRODUCT_AVATAR_CHERRY_BOMB]
-Spezialdünger-Fähigkeittive Fähigkeit kann durch das Töten von Zombies Sonnenlicht gewinnen.
+Spezialdünger-Fähigkeit kann durch das Töten von Zombies Sonnenlicht gewinnen.
 
 [STORE_PRODUCT_AVATAR_CHERRY_BOMB_TITLE]
 Kirschkleid
@@ -12671,7 +12671,7 @@ Wassermelonenkleid
 Eiswassermelonenkleid
 
 [STORE_PRODUCT_AVATAR_THREEPEATER_TITLE]
-Drei-Schützen-Kleid
+Drei-Schützen-Kostüm
 
 [STORE_PRODUCT_AVATAR_SNOWPEA_TITLE]
 Eiskleid
@@ -12704,13 +12704,13 @@ Feuerkürbis-Outfit
 Weißer Rettich-Outfit
 
 [STORE_PRODUCT_AVATAR_CITRON_TITLE]
-Grapefruit-Kleid
+Grapefruit-Kostüm
 
 [STORE_PRODUCT_AVATAR_CARROTLAUNCHER_TITLE]
-Karotten-Kleid
+Karotten-Kostüm
 
 [STORE_PRODUCT_AVATAR_DANDELION_TITLE]
-Löwenzahn Kleid
+Löwenzahn Kostüm
 
 [STORE_PRODUCT_AVATAR_BROCCOLI_TITLE]
 Blumenkohlkleid
@@ -12771,19 +12771,19 @@ Wasserpflanzenkleid
 Heimkehrkleid
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOWER_TITLE]
-Lotus Kleid
+Lotus Kostüm
 
 [STORE_PRODUCT_AVATAR_LEMON_TITLE]
 Zitronenkleid
 
 [STORE_PRODUCT_AVATAR_CRACKER_TITLE]
-Zhu Yuanwai Kleid
+Zhu Yuanwai Kostüm
 
 [STORE_PRODUCT_AVATAR_CHESTNUT_TITLE]
-Kastanienbraunes Kleid
+Kastanienbraunes Kostüm
 
 [STORE_PRODUCT_AVATAR_RAFFLESIA_TITLE]
-Rafflesia Kleid
+Rafflesia Kostüm
 
 [STORE_PRODUCT_AVATAR_ACORN_TITLE]
 Eichelkleid
@@ -12798,7 +12798,7 @@ Bambusjungenkleid
 Rosenkleid
 
 [STORE_PRODUCT_AVATAR_MAGICSHROOM_TITLE]
-Zauberpilz Kleid
+Zauberpilz Kostüm
 
 [STORE_PRODUCT_AVATAR_SAPFLING_TI TLE]
 Harz-Outfit
@@ -12877,10 +12877,10 @@ Doppel-Shooter – eine umwerfende Verwandlung! Cool und stylisch! Weitere Kost�
 Luxuskleid ^FF3300 Doppel-Shooter + Caiwen ^oldclr Heute ^FF3300 30 % Rabatt auf ^oldclr Paketangebot – Schönheit und Power vereint!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_3]
-^FF3300 Kokosnusskanonenpflanze + Kleid ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Lasst die Muscheln fliegen!
+^FF3300 Kokosnusskanonenpflanze + Kostüm ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Lasst die Muscheln fliegen!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_4]
-^FF3300 Erbsenschotenpflanze + Kleid ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Erbsenmeer ist kein Traum!
+^FF3300 Erbsenschotenpflanze + Kostüm ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Erbsenmeer ist kein Traum!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_5]
 ^FF3300 Blitzrohr + Fackelstumpf^oldclr Heute^FF3300 60 % Rabatt^oldclr Verpackt zum Verkauf. Töte Hühner und lege gleichzeitig Feuer!
@@ -15012,10 +15012,10 @@ Laserbohnen-Kostüm
 Laserbohnen-Kostüm
 
 [STORE_PRODUCT_AVATAR_LASERBEAN]
-Spezialdünger-Fähigkeittive Fähigkeit: Hochenergielaser für mehr Schaden
+Spezialdünger-Fähigkeit: Hochenergielaser für mehr Schaden
 
 [STORE_PRODUCT_AVATAR_LASER_BEAN]
-Spezialdünger-Fähigkeittive Fähigkeit: Hochenergielaser für mehr Schaden Schaden
+Spezialdünger-Fähigkeit: Hochenergielaser für mehr Schaden Schaden
 
 [STORE_PRODUCT_AVATAR_HOLONUT_TITLE]
 Holografisches Kostüm
@@ -20479,11 +20479,11 @@ Edler Wecker
 Anwendung: Du kannst Anhänger im Pflanzendekorations-Interface anlegen.
 
 [CONSUMPTION_DESC_4]
-Kleiderfragmente*30
-Kann zu einem kompletten Kleid kombiniert werden.
+Kostümerfragmente*30
+Kann zu einem kompletten Kostüm kombiniert werden.
 
 [CONSUMPTION_DESC_5]
-Kleiderfragmente der Sonnenblumensängerin*30
+Kostümerfragmente der Sonnenblumensängerin*30
 
 [CONSUMPTION_DESC_6]
 Fortschrittliche Medizinbox
@@ -20507,12 +20507,12 @@ Fortschrittliches Schießpulverfass
 Anwendung: Sie können Anhänger im Pflanzendekorations-Interface anlegen.
 
 [CONSUMPTION_DESC_11]
-Kleiderfragmente*30
-Können zu einem kompletten Kleid synthetisiert werden.
+Kostümerfragmente*30
+Können zu einem kompletten Kostüm synthetisiert werden.
 
 [CONSUMPTION_DESC_12]
-Kleiderfragmente*30
-Können zu einem kompletten Kleid synthetisiert werden.
+Kostümerfragmente*30
+Können zu einem kompletten Kostüm synthetisiert werden.
 
 [CONSUMPTION_DESC_13]
 Exquisiter Schneeflockenanhänger
@@ -20610,7 +20610,7 @@ Sterne können im Hauptlevel erhalten werden.
 
 [DAILY_ACHIEVEMENT_CONTENT_20151005]
 ^FF0000 Tipps: ^oldclr
-Kleiderfragmente können in Pennys Shop, durch Schätze und die Schneemann-Herausforderung erhalten werden.
+Kostümerfragmente können in Pennys Shop, durch Schätze und die Schneemann-Herausforderung erhalten werden.
 Die Anzahl der auf dieser Seite erhaltenen Belohnungen wird nicht zu den erreichten Erfolgen gezählt. Die Erfolge werden täglich um 0:00 Uhr aktualisiert.
 
 [DAILY_ACHIEVEMENT_CONTENT_20151006]
@@ -21076,7 +21076,7 @@ Blühende Landschaft
 Erhöht die Chance, dass die Weiße Pflaumenblüte ausgelöst wird, um 100%.
 
 [STORE_PRODUCT_AVATAR_WINTERSWEET]
-Spezialdünger-Fähigkeittive Fähigkeit lässt mehr Pflaumenblüten auf den Gegner los.
+Spezialdünger-Fähigkeit lässt mehr Pflaumenblüten auf den Gegner los.
 
 [WINTERSWEET]
 Kirschblüte
@@ -21106,7 +21106,7 @@ UFO-Kostüm
 UFO-Kostüm
 
 [STORE_PRODUCT_AVATAR_SAUCER]
-Der ultimative Move kann die Immobilisierungsdauer verlängern.
+Die Spezialdünger-Fähigkeit kann die Immobilisierungsdauer verlängern.
 
 [SAUCER]
 UFO-Melone
@@ -21163,7 +21163,7 @@ Laternengras kann Zombies im unsichtbaren Zustand erkennen.
 Laternengras kann Zombies im unsichtbaren Zustand erkennen.
 
 [GROUNDCHERRY_PLANTFOOD]
-Der ultimative Move lässt alle unsichtbaren Zombies auf dem Feld für kurze Zeit erscheinen.
+Die Spezialdünger-Fähigkeit lässt alle unsichtbaren Zombies auf dem Feld für kurze Zeit erscheinen.
 
 [PINEAPPLE_PRODUCT_SHORT_DESC]
 Ananas können Zombies blockieren und Fernschusswaffen abprallen lassen.
@@ -21187,7 +21187,7 @@ Spin-Verstärkung
 Verstärkt den Effekt schneller Spins um 100%.
 
 [STORE_PRODUCT_AVATAR_PINEAPPLE]
-Spezialdünger-Fähigkeittive Fähigkeit: Projektile in mehrere Richtungen abprallen lassen.
+Spezialdünger-Fähigkeit: Projektile in mehrere Richtungen abprallen lassen.
 
 [PINEAPPLE]
 Spinnende Ananas
@@ -26317,7 +26317,7 @@ Wieso haben die Jetpacks? Das ist so unfair!
 Besiege Jetpack-Zombies!
 
 [DEFEAT_JUGGLER_REPEATABLE_DESC]
-Sie reißen anderen Zombies oft die Kleider vom Leib!
+Sie reißen anderen Zombies oft die Kostümer vom Leib!
 
 [DEFEAT_JUGGLER_REPEATABLE_TITLE]
 Besiege Clown-Zombies!
@@ -33179,7 +33179,7 @@ Knoblauch kann die Route von Zombies ändern, die ihn fressen.
 Knoblauchkostüm
 
 [STORE_PRODUCT_AVATAR_GARLIC]
-Der ultimative Move kann Zombies vor ihm abwehren.
+Die Spezialdünger-Fähigkeit kann Zombies vor ihm abwehren.
 
 [STORE_PRODUCT_AVATAR_GARLIC_TITLE]
 Knoblauchkostüm
@@ -33451,25 +33451,25 @@ Guave erster Stufe plus Dekoration
 Goldkrötenpilz erster Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV0_ SUCCEED_CONTENT]
-Baumwollschnee erster Stufe plus Kleid
+Baumwollschnee erster Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV0_SUCCEED_CONTENT]
-Jackfrucht-Plus-Kleid der ersten Stufe
+Jackfrucht-Plus-Kostüm der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_AGAVE_LV0_SUCCEED_CONTENT]
-Agave-Plus-Kleid der ersten Stufe
+Agave-Plus-Kostüm der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT]
-Kiwi-Plus-Kleid der ersten Stufe
+Kiwi-Plus-Kostüm der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT] [GEMS_RESTORE_CODE_RECHARGE_DRAGONFRUIT_LV0_SUCCEED_CONTENT]
-Pflaumen-Plus-Kleid der ersten Stufe
+Pflaumen-Plus-Kostüm der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_DRAGONFRUIT_LV0_SUCCEED_CONTENT]
-Drache der ersten Stufe Frucht plus Kleid
+Drache der ersten Stufe Frucht plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_PINKSTARFRUIT_LV0_SUCCEED_CONTENT]
-Engel-Sternfrucht der ersten Stufe plus Kleid
+Engel-Sternfrucht der ersten Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_MATCHFLOWER_LV0_S UCCEED_CONTENT]
 Blume der ersten Stufe plus Dekoration
@@ -35540,7 +35540,7 @@ Nimm täglich am Winterschnee-Event teil und gewinne tolle Preise.
 Weiße Melone Kostüm
 
 [STORE_PRODUCT_AVATAR_WHITEMELON]
-Der ultimative Move kann Zombies vom Feld vertreiben.
+Die Spezialdünger-Fähigkeit kann Zombies vom Feld vertreiben.
 
 [WHITEMELON_DESCRIPTION_HEADER]
 Der Weiße-Melonen-Sumoringer nutzt statische Bremsen, um Zombies kraftvoll abzuwehren.
@@ -37918,7 +37918,7 @@ Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft de
 Der erzeugte Wassernebel enthält Eiskristalle, und die von Eiskristallen bedeckten Zombies werden eingefroren.
 
 [STORE_PRODUCT_AVATAR_ALOES_TITLE]
-Aloe-Vera-Kleid
+Aloe-Vera-Kostüm
 
 [ALOES_SKILL_LEVEL1]
 Kristallklar und feucht
@@ -38035,7 +38035,7 @@ Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft de
 Der erzeugte Wassernebel enthält Eiskristalle, und die von Eiskristallen bedeckten Zombies werden eingefroren.
 
 [S TORE_PRODUCT_AVATAR_POMEGRANATE_TITLE]
-Aloe Vera Kleid
+Aloe Vera Kostüm
 
 [POMEGRANATE_SKILL_LEVEL1]
 Kristallklar und feucht
@@ -38076,7 +38076,7 @@ Frisst Zombies und spuckt ihre Köpfe aus
 Schnapperbse Kostüm
 
 [STORE_PRODUCT_AVATAR_SNAPPEA]
-Der ultimative Move kann mehrere Zombieköpfe besprühen.
+Die Spezialdünger-Fähigkeit kann mehrere Zombieköpfe besprühen.
 
 [STORE_PRODUCT_AVATAR_SNAPPEA_TITLE]
 Piranha-Erbsenkostüm
@@ -38396,13 +38396,13 @@ Beschreibung von Impatiens 3
 Beschreibung von Impatiens 4
 
 [IMPATIENSSHOOTER_AVATAR_NAME]
-Kleidung von Impatiens
+Kostümung von Impatiens
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER]
-Kleidung von Impatiens 1
+Kostümung von Impatiens 1
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER_TITLE]
-Kleidung von Impatiens 2
+Kostümung von Impatiens 2
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1]
 Fähigkeit von Impatiens lv1
@@ -40100,10 +40100,10 @@ Grenzdurchbruch
 Die violette Blume auf Kaninchens Kopf kann sich zu einer gelben Blume entwickeln. Im Zustand der gelben Blume verursacht ein manueller schwerer Angriff einen zusätzlichen Rückstoßeffekt. Wenn Kaninchen nicht im Angriffszustand ist, wächst die violette Blume alle 6 Sekunden um eine Stufe.
 
 [STORE_PRODUCT_AVATAR_WATERRABBIT_TITLE]
-Bun Chi Kleid
+Bun Chi Kostüm
 
 [WATERRABBIT_AVATAR_NAME]
-Bun Chi Kleid
+Bun Chi Kostüm
 
 [STORE_PRODUCT_AVATAR_WATERRABBIT]
 Nach dem großen Angriff springst du erneut hoch, um Zombies im Umkreis von 3*3 Schaden zuzufügen und ihren Nagschaden 18 Sekunden lang um 80% zu reduzieren.
@@ -40281,7 +40281,7 @@ Zitterschale
 {KEYWORD}Reichweite: {STAT}4 Blöcke voraus
 {KEYWORD}Funktionen: {STAT}Löst den Zitteraal aus, um vorwärts zu gehen und Zombies zu schocken.
 {KEYWORD}Pflanzenfunktionen: {STAT}Gelbe Pflanze
-{FLAVOR}Die Zitterschale ist ruhig und gelassen und lässt niemanden an ihre Kleidung heran – und das aus gutem Grund. Es stellt sich heraus, dass sie die Menschen in ihrer Umgebung vor ihrer Kleidung schützt. Auf die Frage, ob sie meine Kleidung nicht anfassen soll, antwortete die Zitterschale: „Fass meine Kleidung nicht an, das wird dir nicht gefallen!“, während sie ein summendes elektrisches Geräusch von sich gab und vorsichtig sprach.
+{FLAVOR}Die Zitterschale ist ruhig und gelassen und lässt niemanden an ihre Kostümung heran – und das aus gutem Grund. Es stellt sich heraus, dass sie die Menschen in ihrer Umgebung vor ihrer Kostümung schützt. Auf die Frage, ob sie meine Kostümung nicht anfassen soll, antwortete die Zitterschale: „Fass meine Kostümung nicht an, das wird dir nicht gefallen!“, während sie ein summendes elektrisches Geräusch von sich gab und vorsichtig sprach.
 
 [ELECTRICPEEL_DESCRIPTION_HEADER]
 Lasse den Zitteraal los, um vorwärts zu gehen und die Zombies zu schocken.
@@ -41584,7 +41584,7 @@ Einfache Pflanze zum Sammeln von Monstern, 100% Chance, bei Landung die Speziald
 Obwohl die Anwendung einfach ist, hat sie eine längere Abklingzeit. Sei also vorsichtig beim Einsatz. Verwende das richtige Timing.
 
 [PARALLEL_BONKCHOY_DESCRIPTION]
-Einfache Pflanze zum Sammeln von Monstern, 100% Chance, bei Landung die Spezialdünger-Fähigkeit einzusetzen. Die Spezialdünger-Fähigkeit ist der Effekt der Spezialdünger-Fähigkeittive Fähigkeit zur Dekoration
+Einfache Pflanze zum Sammeln von Monstern, 100% Chance, bei Landung die Spezialdünger-Fähigkeit einzusetzen. Die Spezialdünger-Fähigkeit ist der Effekt der Spezialdünger-Fähigkeit zur Dekoration
 
 [PARALLEL_MOONFLOWER]
 Mondblume Nr. 42
@@ -41787,6 +41787,7 @@ Kürbis
 [PUMPKIN_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Kann auf andere Pflanzen gepflanzt werden, bietet Schutz.
 {KEYWORD}Pflanzenmerkmale:{STAT}Braune Pflanzen, Rankenpflanzen
+
 {FLAVOR}Der Kürbis mag eine hohle Schale haben, aber er hat ein reiches Herz voller Güte, das ihn immer zum Lächeln bringt, wunderschöne Visionen von Liebe und dem, den man beschützen möchte.
 
 [PUMPKIN_DESCRIPTION_HEADER]
@@ -41802,7 +41803,7 @@ Kürbise können auf andere Pflanzen gepflanzt werden, um eine robuste zusätzli
 Kürbise können auf andere Pflanzen gepflanzt werden, um eine robuste zusätzliche Panzerung zu erhalten.
 
 [STORE_PRODUCT_AVATAR_PUMPKIN]
-Spezialdünger-Fähigkeittive Fähigkeit für eine stärkere Kristallrüstung.
+Spezialdünger-Fähigkeit für eine stärkere Kristallrüstung.
 
 [STORE_PRODUCT_AVATAR_PUMPKIN_TITLE]
 Kürbis-Kostüm
@@ -41881,6 +41882,7 @@ Frost-Rambutan
 
 [WINTERRAMBUTAN_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Weiße Pflanze
+
 {FLAVOR} Frost-Rambutan spielt gerne im Schnee und ist deshalb in den Norden gezogen.
 
 [WINTERRAMBUTAN_DESCRIPTION_HEADER]
@@ -41914,7 +41916,7 @@ Nach dem Einschlag des Schneeballs besteht für alle Zombies im Umkreis von 3*3 
 Frost-Avutan-Kostüm
 
 [WINTERRAMBUTAN_AVATAR_NAME]
-Frostweiße Haarbutter Kleid
+Frostweiße Haarbutter Kostüm
 
 [STORE_PRODUCT_AVATAR_WINTERRAMBUTAN]
 Nach dem großen Angriff werden Eisblöcke generiert. Zombies, die auf die Eisblöcke treten, werden verlangsamt.
@@ -42151,6 +42153,7 @@ Hydrocotyledrummer
 
 [HYDROCOTYLEDRUMMER_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Grüne Pflanze
+
 {FLAVOR} Er ging hinter die Bühne und wurde verspottet. Er weinte sich in dieser Nacht in den Schlaf, aber was tat er am nächsten Morgen? Üben, üben und üben. Er hatte nur ein Ziel vor Augen: Er wollte nie wieder von irgendjemandem ausgelacht werden. Sieben Jahre später kehrte er auf die Jubiläumsbühne zurück und spielte das schönste Solo aller Zeiten.
 
 [HYDROCOTYLEDRUMMER_DESCRIPTION_HEADER]
@@ -42194,9 +42197,11 @@ Schattenkapsel-Orchidee
 
 [SHADOWVANILLA_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze
+
 {FLAVOR}„Monster!“ „Freak!“ „Vierbeiniges Biest!“ Die Schattenkapsel-Orchidee ist stets von Zweifeln umgeben, doch sie schenkt ihnen keine Beachtung, denn sie kennt den Wert ihrer Existenz und muss nichts beweisen. „Jede Pflanze hat ihren eigenen Existenzwert“, sagte die Schattenkapsel-Orchidee bescheiden.
 
 Erster Platz im Pflanzendesign-Wettbewerb, Designer: Ricky Kim
+
 [SHADOWVANILLA_DESCRIPTION_HEADER]
 Wenn die Blätter in Schattenform aufgeladen werden, werden Zombies vom Effekt „Verletzlichkeit“ betroffen.
 
@@ -42238,6 +42243,7 @@ Ananas-Kettenblatt
 
 [BROMELBLADE_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze
+
 {FLAVOR}„Schere, Stein, Papier? Was ist die neue Art des Duellierens?“ Für Ananas-Kettenblatt ist alles um ihn herum so langweilig. Singen, Tanzen, Zombies bekämpfen? Das sind alles Dinge, die gewöhnliche Pflanzen tun. Was er sucht, ist ein erbitterter Kampf. „Hey! Du! Ja, dieser Kohlkopf mit den zwei Fäusten! Lass uns kämpfen!“ Doch was er nicht wusste: Die Pflanzen, die er provoziert hatte, waren nicht nur der Kohlkopf vor ihm, sondern auch seine Schüler. Würden sie ihn umzingeln und angreifen, würde er mit Sicherheit verlieren. Doch am Ende endete der Kampf unentschieden. Schließlich legt der Garten Wert auf Frieden und verbietet interne Machtkämpfe.
 
 [BROMELBLADE_DESCRIPTION_HEADER]
@@ -42281,6 +42287,7 @@ Wasserkastanienbrüder
 
 [ELEOCURLING_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze
+
 {FLAVOR}Die Wasserkastanienbrüder gelten weiterhin als Favoriten auf den Curling-Sieg bei den diesjährigen Winterspielen. Ihre einzigartige Fähigkeit besteht darin, im letzten Moment alle Curlingsteine anderer Spieler umzuwerfen, sodass nur noch ihre eigenen übrig bleiben, und den ganzen Weg zu gehen, sodass keine anderen Spieler mehr ausweichen können.
 
 [ELEOCURLING_DESCRIPTION_HEADER]
@@ -42462,6 +42469,7 @@ Glorias Klaue
 {KEYWORD}Reichweite: {STAT}1 Feld vorn
 {KEYWORD}Funktionen: {STAT}Greift den ersten Zombie vor euch als Schild und schlägt gleichzeitig auf andere Zombies ein.
 {KEYWORD}Pflanzenfunktionen: {STAT}Rote Pflanze, voller Wut
+
 {FLAVOR} Die Klaue, auf die Gloria einst stolz war, konnte nach Belieben verlängert und verkürzt werden, doch aufgrund höherer Gewalt verlor sie ihre ursprüngliche Funktion. Seitdem trainierte er seine rechte Faust, und der Boxstil, den er schließlich praktizierte, hieß „Tomaten-Rührei-Faust“.
 
 [CLAWGLORIOSA_DESCRIPTION_HEADER]
@@ -42657,6 +42665,7 @@ Sägegras
 {KEYWORD}Reichweite: {STAT}1 Feld vorn
 {KEYWORD}Eigenschaften: {STAT}Zombies mit dem Hut angreifen. Angegriffenen Zombies können die Hände gebrochen werden.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR} Ich, Sägegras, weiß nicht warum, habe die Funktion einer Säge. Ich bin sehr glücklich, aber wer hat meinen Namen abgeschnitten und benutzt?
 
 [GARDENERGRASS_DESCRIPTION_HEADER]
@@ -42794,6 +42803,7 @@ Burtle-Bombe
 {KEYWORD}Reichweite: {STAT}2 Felder voraus
 {KEYWORD}Eigenschaften: {STAT}Stürmt auf, wenn er keine Zombies angreift.
 {KEYWORD}Eigenschaften der Pflanze: {STAT}Hohe Kampfkunstkenntnisse
+
 {FLAVOR} und Iron Hammer Orchid waren beide Schüler desselben Meisters. Doch später stellte er fest, dass die Angriffsreichweite des Hammers begrenzt war, es sei denn, er wurde übertroffen. „Ich will kein Hammer mehr sein!“ Danach wurde er zum Meteorhammer.
 
 [BYTTNERIAMETEORHAMMER_DESCRIPTION_HEADER]
@@ -42968,7 +42978,7 @@ Zwillingskaninchen-Outfit
 Zwillingskaninchen-Outfit
 
 [STORE_PRODUCT_AVATAR_JEWELRABBIT]
-Spezialdünger-Fähigkeittive Fähigkeitenreichweite auf 5×5 erweitert
+Spezialdünger-Fähigkeitenreichweite auf 5×5 erweitert
 
 [BURDOCKBATTER]
 Burdock Batter
@@ -46286,7 +46296,7 @@ orange Pflanze (Level 3)
 Lila Pflanzen (Level 3)
 
 [LOTTERY_DRESSPIECE]
-Kleid Fragmente
+Kostüm Fragmente
 
 [LOTTERY_DIAMOND]
 Juwelen
@@ -46798,7 +46808,7 @@ Ankündigung der Gewinnwahrscheinlichkeit
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
 Normaler Gewinn:
-Superbelohnung: Aloe Doctor DJ-Kleid 0,43%
+Superbelohnung: Aloe Doctor DJ-Kostüm 0,43%
 Superbelohnung: Süßigkeitenkorb-Anhänger 0,81%
 Hauptpreis: Geheimes Schatzticket*10 1,48%
 Hauptpreis: Kostümticket*800 1,15%
@@ -51675,13 +51685,13 @@ Wachstumskleid
 Pflanzenangriffskraft um 20% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_3]
-Urzeiterbsenkanonen-Hemudu-Kleid
+Urzeiterbsenkanonen-Hemudu-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_3]
 Pflanzen-Abklingzeit um 15% verkürzt
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALSUNFLOWER_2]
-Primitives Sonnenblumen-Hemudu-Kleid
+Primitives Sonnenblumen-Hemudu-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PRIMALSUNFLOWER_2]
 Pflanzen-Abklingzeit um 15% verkürzt
@@ -51741,13 +51751,13 @@ Papyrus-Kostüm im chinesischen Stil
 Angriffskraft um 20% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTIO N_MAGNETSHROOM_1]
-Magnetpilz-Kleid im chinesischen Stil
+Magnetpilz-Kostüm im chinesischen Stil
 
 [NEW_AVATAR_DESCRIPTION_MAGNETSHROOM_1]
 Die Ruhezeit wird um 1 reduziert S
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_1]
-Mei Xiao Kleid im amerikanischen Stil
+Mei Xiao Kostüm im amerikanischen Stil
 
 [NEW_AVATAR_DESCRIPTION_WINTERSWEET_1]
 Angriffskraft um 10% erhöht
@@ -51876,19 +51886,19 @@ Stealth-Offener-Pfeil-Neujahr Kostüm
 Abklingzeit von Pflanzen um 10% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SAR RACENIA_2]
-Kleid mit Sonnenbrille und Schlangendämonen-Kanne
+Kostüm mit Sonnenbrille und Schlangendämonen-Kanne
 
 [NEW_AVATAR_DESCRIPTION_SARRACENIA_2]
 Angriffsgeschwindigkeit um 20% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAFTODIL_2]
-Kleid mit Narzissen-Laterne in der Luftströmung
+Kostüm mit Narzissen-Laterne in der Luftströmung
 
 [NEW_AVATAR_DESCRIPTION_DRAFTODIL_2]
 Angriffsgeschwindigkeit um 20% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]
-Kleid mit Elektroschock-Haken-Kuss-Party-Unterstützung
+Kostüm mit Elektroschock-Haken-Kuss-Party-Unterstützung
 
 [NEW_A VATAR_DESCRIPTION_WIREGELSEMIUM_1]
 Angriffskraft erhöht um 10%
@@ -51951,25 +51961,25 @@ Frost-Rambutan-Wachstums-Outfit
 Angriffsintervall um 20% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NEKOT AIL_2]
-Katzenschwanzkuchen Kleid
+Katzenschwanzkuchen Kostüm
 
 [NEW_AVATAR_DESCRIPTION_NEKOTAIL_2]
 Angriffskraft um 20% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_2]
-Primitive-Nuss-Cosplay-Kleid
+Primitive-Nuss-Cosplay-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_2]
 Sonnenlichtverbrauch um 10 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_3]
-Drachenblutbaum-Kleid
+Drachenblutbaum-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_DRACAENA_3]
 Sonnenlichtverbrauch um 25 Punkte reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_2]
-Agavehut-Kleid
+Agavehut-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_AGAVE_2]
 Angriffsintervall um 15%
@@ -52304,7 +52314,7 @@ Goldenes Knospenkleid
 Reduziert die Pflanz-CD um 20%
 
 [STORE_PRODUCT_AVATAR_EMPEA_TITLE]
-Pfirsichgelbes Kleid
+Pfirsichgelbes Kostüm
 
 [STORE_PRODUCT_AVATAR_EMPEA]
 Reduziert die Pflanz-CD um 20%
@@ -53052,11 +53062,11 @@ Spielanleitung
 
 [OVERVIEW_CONTENT]
 1. Spieler können täglich 10 Powerbohnen kostenlos erhalten. Mit Powerbohnen kann die Anzeige für elektrische Energieerbsen aktiviert werden. Jede Aktivierung verbraucht 1 Powerbohne. Besitzt der Spieler weniger als 11 Powerbohnen, wird die Anzeige am nächsten Tag zurückgesetzt. Spieler können zusätzliche Powerbohnen kaufen.
-2. Die Erbse bewegt sich entsprechend der in der Anzeigeanimation angezeigten Punkte. Nach Abschluss der Bewegung wird das Ereignis im Raster ausgelöst. Eventtypen: Startpunkt, Level (Förderband, Minispiel, BOSS-Herausforderung), Eisenbahnwaggon (zufällige Schritte vorwärts oder rückwärts), Schatztruhe (Pflanzenfragment-Schatztruhe, Kleiderfragment-Schatztruhe), Theatermünzen-Belohnung, Schere-Stein-Papier-Minispiel, Nochmal werfen, Hauptpreis (oranges Fragment)
+2. Die Erbse bewegt sich entsprechend der in der Anzeigeanimation angezeigten Punkte. Nach Abschluss der Bewegung wird das Ereignis im Raster ausgelöst. Eventtypen: Startpunkt, Level (Förderband, Minispiel, BOSS-Herausforderung), Eisenbahnwaggon (zufällige Schritte vorwärts oder rückwärts), Schatztruhe (Pflanzenfragment-Schatztruhe, Kostümerfragment-Schatztruhe), Theatermünzen-Belohnung, Schere-Stein-Papier-Minispiel, Nochmal werfen, Hauptpreis (oranges Fragment)
 3. Schließe das Event ab, um die entsprechende Belohnung zu erhalten. Für jede abgeschlossene Runde erhältst du die Belohnung: violette Pflanzenfragmente und Theatermünzen.
 4. Theatermünzen können im Requisitenhaus gegen Belohnungen eingetauscht werden.
 5. Wahrscheinlichkeitsanzeige für Pflanzenfragment-Schatztruhen: violette Pflanzenfragmente: 7,69%; blaue Pflanzenfragmente: 30,76%; grüne Pflanzenfragmente: 61,54%
-6. Wahrscheinlichkeitsanzeige für Kleiderfragment-Schatztruhen: orange Pflanzenkleidfragmente: 4,27%; violette Pflanzenkleidfragmente: 18,80%; blaue Pflanzenkleidfragmente: 25,64% Grüne Pflanzekleidfragmente: 51,28%
+6. Wahrscheinlichkeitsanzeige für Kostümerfragment-Schatztruhen: orange Pflanzenkleidfragmente: 4,27%; violette Pflanzenkleidfragmente: 18,80%; blaue Pflanzenkleidfragmente: 25,64% Grüne Pflanzekleidfragmente: 51,28%
 [OVERVIEW_CONFIRM]
 Bestätigen
 
@@ -57260,10 +57270,10 @@ Pflanzenmerkmale
 Pflanzenfragmente
 
 [UI_BAG_PIECE_AVATAR_TITLE]
-Kleidermerkmale
+Kostümermerkmale
 
 [UI_BAG_PIECE_AVATAR_TITLE2]
-Kleiderfragmente
+Kostümerfragmente
 
 [UI_BAG_PIECE_ACCESSORY_TITLE]
 Anhängermerkmale
@@ -60907,13 +60917,13 @@ Zombie-Technologie 3 RY_LEVEL_NAME_060]
 Elite-Zombies kommen
 
 [S9_MEMORY_LEVEL_NAME_061]
-Regen und Donnern, sammelt Kleidung 1
+Regen und Donnern, sammelt Kostümung 1
 
 [S9_MEMORY_LEVEL_NAME_062]
-Regen und Donnern, sammelt Kleidung 2
+Regen und Donnern, sammelt Kostümung 2
 
 [S9_MEMORY_LEVEL_NAME_063]
-Regen und Donnern, sammelt Kleidung 3
+Regen und Donnern, sammelt Kostümung 3
 
 [S9_MEMORY_LEVEL_NAME_064]
 Elite-Zombies kommen
@@ -62294,13 +62304,13 @@ VEL_NAME_044]
 Sternenbeobachtung
 
 [S15_MEMORY_LEVEL_NAME_045]
-Kleidung sammeln bei Regen und Donner 1
+Kostümung sammeln bei Regen und Donner 1
 
 [S15_MEMORY_LEVEL_NAME_046]
-Kleidung sammeln bei Regen und Donner 2
+Kostümung sammeln bei Regen und Donner 2
 
 [S15_MEMORY_LEVEL_NAME_047]
-Kleidung sammeln bei Regen und Donner 3
+Kostümung sammeln bei Regen und Donner 3
 
 [S15_MEMORY_LEVEL_NAME_048]
 Elite-Zombies sind Demnächst
@@ -64989,13 +64999,13 @@ Der ultimative Angriffszug der Spezialdünger-Fähigkeit der Ur-Sonnenblume erze
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_PRIMALSUNFLOWER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der ultimative Move der Spezialdünger-Fähigkeit der Ur-Sonnenblume kann schnell Sonnenlicht erzeugen.
+Die Spezialdünger-Fähigkeit der Urzeit-Sonnenblume kann schnell Sonnenlicht erzeugen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_PRIMALSUNFLOWER]
-Welche Wirkung hat das Kostüm der Ur-Sonnenblume?
+Welche Wirkung hat das Kostüm der Urzeit-Sonnenblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_PRIMALSUNFLOWER]
-ca=Schießt 5 brennende Erbsen ab|Spezialdünger-Fähigkeittive Fähigkeit kann zusätzliche Goldmünzen produzieren|Wirft Eiswassertropfen, die Zombies verlangsamen|Verkürzt die Abkühlzeit beim Pflanzen|
+ca=Schießt 5 brennende Erbsen ab|Spezialdünger-Fähigkeit kann zusätzliche Goldmünzen produzieren|Wirft Eiswassertropfen, die Zombies verlangsamen|Verkürzt die Abkühlzeit beim Pflanzen|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_PRIMALSUNFLOWER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
@@ -65278,7 +65288,7 @@ Der ultimative Angriff der Spezialdünger-Fähigkeit der Hohen Nuss kann Zombies
 Welchen Effekt hat die Dekoration der Hohen Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
-ca=Eine riesige Erdbeere beschwören und explodieren lassen | Spezialdünger-Fähigkeittive Fähigkeit für eine stärkere Kristallrüstung | Drei goldene Granaten nach vorne schießen | Eine Mischung aus Feuer-, Eis- und gewöhnlichen Erbsengeschossen verschießen |
+ca=Eine riesige Erdbeere beschwören und explodieren lassen | Spezialdünger-Fähigkeit für eine stärkere Kristallrüstung | Drei goldene Granaten nach vorne schießen | Eine Mischung aus Feuer-, Eis- und gewöhnlichen Erbsengeschossen verschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
@@ -65300,10 +65310,10 @@ Die Hauptfunktion der Schnapper besteht darin, die Zombies vor ihr zu verschluck
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_CHOMPER]
 Falsche Antwort, bitte wiederholen.
-Der Schnapper kann mit ihrem riesigen Maul Zombies angreifen.
+Der Schnapper kann mit seinem riesigen Maul Zombies angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_1_CHOMPER]
-Wozu dient die Schnapper hauptsächlich?
+Wozu dient der Schnapper hauptsächlich?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_CHOMPER]
 ca=Stelle sie an vorderster Front, um Zombies anzugreifen. | Stelle sie in eine sichere Position, um Zombies anzugreifen. | Stelle sie an vorderster Front, um Zombies zu blockieren. | Stelle sie in eine sichere Position, um Sonnenlicht zu erzeugen.
@@ -65314,21 +65324,21 @@ Der Schnapper wird hauptsächlich verwendet, um Zombies an vorderster Front anzu
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_CHOMPER]
 Falsche Antwort, bitte erneut antworten.
-Der Schnapper hat eine starke Verschluck- und Tötungskraft, ihre Angriffsreichweite ist jedoch sehr begrenzt.
+Der Schnapper hat eine starke Verschluck- und Tötungskraft, seine Angriffsreichweite ist jedoch sehr begrenzt.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_CHOMPER]
-Nachdem die Schnapper den Zombie verschluckt hat, beginnt die Verdauung. Was ist jetzt mit der Schnapper?
+Nachdem der Schnapper den Zombie verschluckt hat, beginnt die Verdauung. Was ist jetzt mit der Schnapper?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_CHOMPER]
 ca=keine Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|keine Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|hat Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|hat Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Während der Verdauungsphase hat die Schnapper keine Schutzfunktion und benötigt den Schutz anderer Pflanzen.
+Während der Verdauungsphase hat der Schnapper keine Schutzfunktion und benötigt den Schutz anderer Pflanzen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_2_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Während der Verdauungsphase ist die Schnapper anfällig für Zombieangriffe.
+Während der Verdauungsphase ist der Schnapper anfällig für Zombieangriffe.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_CHOMPER]
 Der Schnapper kann Gargantuas fressen.
@@ -65338,28 +65348,28 @@ ca=Richtig|Falsch| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Der Schnapper kann Gargantuas zwar nicht fressen, aber sie kann sie beißen.
+Der Schnapper kann Gargantuas zwar nicht fressen, aber er kann sie beißen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der Körper eines Gargantuas ist sehr groß, viel größer als das Maul der Schnapper.
+Der Körper eines Gargantuas ist sehr groß, viel größer als das Maul des Schnapper.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_CHOMPER]
-Welche Fähigkeit erhält die Schnapper, sobald sie Level 2 erreicht?
+Welche Fähigkeit erhält der Schnapper, sobald er Level 2 erreicht?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_CHOMPER]
 ca=Es besteht die Chance, Zombies direkt vom Feld zu werfen. | Erhöht die Angriffskraft beim Heilen von Pflanzen. | Schleudert andere Zombies nach dem Verschlucken um ein Feld zurück, verkürzt die Verdauungszeit. | Verlängert die Flammendauer.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Ab Level 2 der Schnapper stößt sie andere Zombies nach dem Verschlucken um ein Feld zurück und verkürzt die Verdauungszeit.
+Ab Level 2 des Schnapper stößt er andere Zombies nach dem Verschlucken um ein Feld zurück und verkürzt die Verdauungszeit.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 2 der Schnapper wird es für Zombies nach dem Verschlucken schwieriger, sich ihr zu nähern.
+Ab Level 2 des Schnapper wird es für Zombies nach dem Verschlucken schwieriger, sich ihm zu nähern.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_CHOMPER]
-Welche Fähigkeit erhält die Schnapper ab Level 3?
+Welche Fähigkeit erhält der Schnapper ab Level 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_CHOMPER]
 ca=Chance, hochschädigende elektrische Stacheln abzufeuern | Hinterlässt junge Nüsse nach dem Tod | Verkürzt die Verdauungszeit weiter | Chance, eine weitere Apfelkernschale abzufeuern |
@@ -65367,15 +65377,15 @@ ca=Chance, hochschädigende elektrische Stacheln abzufeuern | Hinterlässt junge
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
 
-Ab Level 3 verkürzt sich die Verdauungszeit des Umbrers weiter.
+Ab Level 3 verkürzt sich die Verdauungszeit des Schnapper's weiter.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_5_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
 
-Ab Level 3 kann der Umbrer häufiger Zombies verschlingen.
+Ab Level 3 kann der Schnapper häufiger Zombies verschlingen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_CHOMPER]
-Welche Fähigkeit erhält der Umbrer ab Level 4?
+Welche Fähigkeit erhält der Schnapper ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_CHOMPER]
 ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Flächenschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen. |
@@ -65383,58 +65393,58 @@ ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzug
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
 
-Beim Pflanzen nach Level 4 besteht die Chance, dass die Schnapper die Spezialdünger-Fähigkeit direkt auslöst.
+Beim Pflanzen nach Level 4 besteht die Chance, dass der Schnapper die Spezialdünger-Fähigkeit direkt auslöst.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_CHOMPER]
 Wenn du falsch antwortest, beantworte die Frage bitte erneut.
 
-Ab Level 4 kann die Schnapper die Spezialdünger-Fähigkeit häufiger auslösen.
+Ab Level 4 kann der Schnapper die Spezialdünger-Fähigkeit häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_CHOMPER]
 Welche Fähigkeit erhält die Schnapper ab Level 5?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_CHOMPER]
-ca=Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen. | Drachenkönig-Angriff hinzufügen, nachdem sich die Hochgeschwindigkeits-Sieben-Treffer-Kombo entwickelt hat. | Chance, Feuerbälle aus der Ferne abzufeuern, die großen Schaden verursachen. | Chance, einen kleinen Kaktus zu schleudern. |
+ca=Chance, sein Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen. | Drachenkönig-Angriff hinzufügen, nachdem sich die Hochgeschwindigkeits-Sieben-Treffer-Kombo entwickelt hat. | Chance, Feuerbälle aus der Ferne abzufeuern, die großen Schaden verursachen. | Chance, einen kleinen Kaktus zu schleudern. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_CHOMPER]
 Wenn du die Frage richtig beantwortet hast, bist du ein Pflanzenmeister!
 
-Ab Level 5 hat die Schnapper die Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen.
+Ab Level 5 hat der Schnapper die Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 5 kann die Schnapper mehrere Zombies gleichzeitig verschlingen oder beißen.
+Ab Level 5 kann der Schnapper mehrere Zombies gleichzeitig verschlingen oder beißen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_CHOMPER]
-Was ist der ultimative Spezialdünger der Schnapper?
+Was ist die Spezialdünger-Fähigkeit des Schnapper's?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_CHOMPER]
 ca=Feuere Projektile im fächerförmigen Bereich vor dir ab|Feuere 1 großen Kohlkopf auf alle Zombies|Sauge 3 Zombies ein, um sie zu fressen oder zu beißen, und puste sie dann zur Ziellinie|Feuere kontinuierlich 60 Erbsen und 1 große Erbse ab|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit der Schnapper besteht darin, drei Zombies einzusaugen, zu fressen oder zu beißen und sie dann bis zur Ziellinie zu blasen.
+Die Spezialdünger-Fähigkeit des Schnapper besteht darin, drei Zombies einzusaugen, zu fressen oder zu beißen und sie dann bis zur Ziellinie zu blasen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_CHOMPER]
 Falls Sie falsch geantwortet haben, beantworten Sie die Frage bitte erneut.
-Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit der Schnapper kann Zombies aus großer Entfernung fressen oder beißen.
+Die Spezialdünger-Fähigkeit des Schnapper kann Zombies aus großer Entfernung fressen oder beißen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_CHOMPER]
-Welche Wirkung hat das Kostüm der Schnapper?
+Welche Wirkung hat das Kostüm des Schnapper?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_CHOMPER]
 ca=Vergrößert die Reichweite des Feuers, das durch die Spezialdünger-Fähigkeit ausgespuckt wird. | Der Hochenergielaser, der durch die Spezialdünger-Fähigkeit abgefeuert wird, verursacht Flächenschaden. | Die Spezialdünger-Fähigkeit setzt eine zusätzliche vorbereitete Kartoffelmine frei. | Die Spezialdünger-Fähigkeit kann die Eisenrohrpanzerung beim Blasen von Zombies wegblasen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Das Kostüm der Schnapper bewirkt, dass die Spezialdünger-Fähigkeit die Eisenrohrpanzerung beim Aufblasen von Zombies wegblasen kann.
+Das Kostüm des Schnapper bewirkt, dass die Spezialdünger-Fähigkeit die Eisenrohrpanzerung beim Aufblasen von Zombies wegblasen kann.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Das Kostüm der Schnapper verstärkt die Wirkung der ultimativen Fähigkeit beim Aufblasen von Zombies.
+Das Kostüm des Schnapper verstärkt die Wirkung der ultimativen Fähigkeit beim Aufblasen von Zombies.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_SQUASH]
-Was ist die Hauptfunktion des Kürbisses?
+Was ist die Hauptfunktion des Matschkürbis?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_SQUASH]
 ca=Sonnenlicht erzeugen | Zombies Schaden zufügen | Zombies am Vorankommen hindern | Freundliche Pflanzen heilen oder unterstützen |
@@ -65442,26 +65452,26 @@ ca=Sonnenlicht erzeugen | Zombies Schaden zufügen | Zombies am Vorankommen hind
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_SQUASH]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
 
-Die Hauptfunktion des Tintenfischs besteht darin, Zombies Schaden zuzufügen. Nach einem Angriff verschwindet er jedoch.
+Die Hauptfunktion des Matschkürbis besteht darin, Zombies Schaden zuzufügen. Nach einem Angriff verschwindet er jedoch.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
 
-Der Tintenfisch kann Zombies mit seiner Sprungkraft zerquetschen.
+Der Matschkürbis kann Zombies mit seiner Sprungkraft zerquetschen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_1_SQUASH]
-Was ist die Hauptfunktion des Tintenfischs?
+Was ist die Hauptfunktion des Matschkürbis?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_SQUASH]
 ca=Stelle ihn an die Front, um Zombies anzugreifen | Stelle ihn in eine sichere Position, um Zombies anzugreifen | Stelle ihn an die Front, um Zombies zu blockieren | Stelle ihn in eine sichere Position, um Sonnenlicht zu erzeugen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_1_SQUASH]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Der Kürbis wird hauptsächlich dazu verwendet, ihn an die Front zu stellen, um Zombies anzugreifen.
+Der Matschkürbis wird hauptsächlich dazu verwendet, ihn an die Front zu stellen, um Zombies anzugreifen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der Kürbis kann springen und Zombies zerquetschen, aber die Sprungreichweite ist begrenzt.
+Der Matschkürbis kann springen und Zombies zerquetschen, aber die Sprungreichweite ist begrenzt.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_SQUASH]
 Wie groß ist die Sprungreichweite des Squash?
@@ -65471,56 +65481,56 @@ ca=das Gitter, auf dem du dich befindest|das Gitter davor|das Gitter und das Git
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_SQUASH]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Sprungreichweite des Squids ist das Gitter davor und dahinter.
+Die Sprungreichweite des Matschkürbis ist das Gitter davor und dahinter.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_2_SQUASH]
 Wenn du falsch antwortest, beantworte die Frage bitte erneut.
-Der Squid kann nicht nur nach rechts, sondern auch nach links springen.
+Der Matschkürbis kann nicht nur nach rechts, sondern auch nach links springen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_SQUASH]
-Sobald der Tintenfisch den Zombie findet und anvisiert, wird er unbesiegbar.
+Sobald der Matschkürbis den Zombie findet und anvisiert, wird er unbesiegbar.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_SQUASH]
 ca=Richtig|Falsch| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_SQUASH]
 Wenn du richtig geantwortet hast, bist du ein Pflanzenmeister!
-Wenn der Tintenfisch einen Zombie findet und sich an ihn klammert, wird er unbesiegbar.
+Wenn der Matschkürbis einen Zombie findet und sich an ihn klammert, wird er unbesiegbar.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_SQUASH]
 Falls du falsch geantwortet hast, beantworte die Frage bitte erneut.
-Wenn der Tintenfisch einen Zombie findet und sich an ihn klammert, wird er sehr stark.
+Wenn der Matschkürbis einen Zombie findet und sich an ihn klammert, wird er sehr stark.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_SQUASH]
-Wie kann man den Tintenfisch, eine Pflanze, die nach einem Angriff verschwindet, am besten einsetzen?
+Wie kann man den Matschkürbis, eine Pflanze, die nach einem Angriff verschwindet, am besten einsetzen?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_SQUASH]
 ca=Gehe mit gefährlichen Elite-Zombies um | Pflanzen Sie im Voraus, um Zombie-Angriffen zu entgehen | Eliminieren Sie den ersten Zombie im Level, um Sonnenlicht zu sparen und Sonnenblumen zu pflanzen | Stellen Sie die Pflanze an einen sicheren Ort und warten Sie, bis Sonnenlicht produziert wird |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_SQUASH]
 Wenn Sie richtig antworten, sind Sie ein Pflanzenmeister!
-Der Kürbis eignet sich nicht zum Platzieren an einem sicheren Ort und kann kein Sonnenlicht produzieren.
+Der Matschkürbis eignet sich nicht zum Platzieren an einem sicheren Ort und kann kein Sonnenlicht produzieren.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_SQUASH]
 Wenn Sie falsch antworten, beantworten Sie die Frage bitte erneut.
-Der Kürbis beherrscht die Methode, mit Elite-Zombies umzugehen, indem er im Voraus Verteidigungsanlagen installiert und Sonnenlicht spart.
+Der Matschkürbis beherrscht die Methode, mit Elite-Zombies umzugehen, indem er im Voraus Verteidigungsanlagen installiert und Sonnenlicht spart.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_SQUASH]
-Welche Fähigkeit erhält der Kürbis nach dem Upgrade auf Level 2?
+Welche Fähigkeit erhält der Matschkürbis nach dem Upgrade auf Level 2?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_SQUASH]
 ca=Nach dem Zerquetschen besteht die Chance, dass er nicht verschwindet, sondern an seinen ursprünglichen Ort zurückkehrt. | Nach jeweils 15 Angriffen kann er einen Aufwärtshaken ausführen. | Kann jedes Mal zwei Raketen hintereinander abfeuern. | Regeneriert abgefallene Blätter.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_SQUASH]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Nach dem Upgrade auf Level 2 verschwindet der Tintenfisch nach dem Zerquetschen nicht, sondern kehrt an seinen ursprünglichen Ort zurück.
+Nach dem Upgrade auf Level 2 verschwindet der Matschkürbis nach dem Zerquetschen nicht, sondern kehrt an seinen ursprünglichen Ort zurück.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_5_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 2 kann der Tintenfisch die Fähigkeit ändern, nach dem Zerquetschen zu verschwinden.
+Ab Level 2 kann der Matschkürbis die Fähigkeit ändern, nach dem Zerquetschen zu verschwinden.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_SQUASH]
-Welche Fähigkeit erhält der Tintenfisch nach Erreichen von Level 3?
+Welche Fähigkeit erhält der Matschkürbis nach Erreichen von Level 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_SQUASH]
 ca=Erhöht die Wahrscheinlichkeit, nach dem Zerquetschen in die Ausgangsposition zurückzukehren, anstatt zu verschwinden. | Verkürzt die Ruhezeit nach dem Abfeuern. | Anzahl der Projektilauswürfe +1. | Chance, Energiepfeile abzufeuern, die Zombies durchdringen können. |
@@ -65528,29 +65538,29 @@ ca=Erhöht die Wahrscheinlichkeit, nach dem Zerquetschen in die Ausgangsposition
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_SQUASH]
 Wenn du die Frage richtig beantwortet hast, bist du ein Pflanzenmeister!
 
-Ab Level 3 kann der Tintenfisch die Wahrscheinlichkeit erhöhen, nach dem Zerquetschen in die Ausgangsposition zurückzukehren, anstatt zu verschwinden.
+Ab Level 3 kann der Matschkürbis die Wahrscheinlichkeit erhöhen, nach dem Zerquetschen in die Ausgangsposition zurückzukehren, anstatt zu verschwinden.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
 
-Ab Level 3 verstärkt der Tintenfisch die Fähigkeit, die er auf Level 2 erlangt hat.
+Ab Level 3 verstärkt der Matschkürbis die Fähigkeit, die er auf Level 2 erlangt hat.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_SQUASH]
-Welche Fähigkeit erhält der Tintenfisch ab Level 4?
+Welche Fähigkeit erhält der Matschkürbis ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_SQUASH]
 ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Flächenschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_SQUASH]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Beim Pflanzen nach Level 4 besteht die Chance, dass der Kürbis direkt die Spezialdünger-Fähigkeit-Attacke auslöst.
+Beim Pflanzen nach Level 4 besteht die Chance, dass der Matschkürbis direkt die Spezialdünger-Fähigkeit-Attacke auslöst.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 4 kann der Kürbis die Spezialdünger-Fähigkeit-Attacke häufiger auslösen.
+Ab Level 4 kann der Matschkürbis die Spezialdünger-Fähigkeit-Attacke häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_SQUASH]
-Was ist die Spezialdünger-Fähigkeit-Attacke des Kürbisses?
+Was ist die Spezialdünger-Fähigkeit des Matschkürbis?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_SQUASH]
 ca=Wirke einen Zauber, der den Zombie ganz links in einen riesigen Pilz verwandelt | Alle Zombies im Feld vergiftet | Springe und drücke zwei Felder im Feld, springe und drücke anschließend zurück zum Ursprung | Feuere 4 Eisraketen auf das gesamte Feld ab |
@@ -65558,11 +65568,11 @@ ca=Wirke einen Zauber, der den Zombie ganz links in einen riesigen Pilz verwande
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_SQUASH]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
 
-Woguas ultimativer Spezialdünger besteht darin, zwei Felder im Feld zu springen und zu drücken und anschließend zum Ursprung zurückzuspringen und zu drücken.
+Matschkürbis's Spezialdünger-Fähigkeit besteht darin, zwei Felder im Feld zu springen und zu drücken und anschließend zum Ursprung zurückzuspringen und zu drücken.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Woguas ultimativer Spezialdünger kann die Angriffsreichweite ignorieren und mehrfach angreifen.
+Matschkürbis's Spezialdünger-Fähigkeit kann die Angriffsreichweite ignorieren und mehrfach angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_SQUASH]
 Welche Wirkung hat Woguas Kostüm?
@@ -65573,31 +65583,31 @@ ca=Spezialdünger-Fähigkeitte kann Zombies mit dem goldenen Reifen zu Boden sch
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_SQUASH]
 Wenn du richtig antwortest, bist du der Meister der Pflanzen!
 
-Das Tintenfischkostüm verleiht dem Spezialdünger-Fähigkeitte zusätzlichen Sprungdruck.
+Das Matschkürbis Kostüm verleiht dem Spezialdünger-Fähigkeitte zusätzlichen Sprungdruck.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Das Tintenfischkostüm kann den ultimativen Sprungdruck verstärken.
+Das Matschkürbis Kostüm kann den ultimativen Sprungdruck verstärken.
 
 [PENNY_CLASSROOM_PLANT_DESC_PRIMALSUNFLOWER]
-^276500 Pflanzeneigenschaften: ^oldclr Ursonnenblumen ^FF0000 produzieren große Sonnen ^oldclr. Und haben zusätzliche Sonnen in der Dino-Krisenwelt.
-^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Ursonnenblumen produzieren sofort 225 Sonnen.
+^276500 Pflanzeneigenschaften: ^oldclr Urzeit-Sonnenblumen^FF0000 produzieren große Sonnen ^oldclr. Und haben zusätzliche Sonnen in der Dino-Krisenwelt.
+^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Urzeit-Sonnenblumen produzieren sofort 225 Sonnen.
 
 [PENNY_CLASSROOM_PLANT_DESC_ELECTRICBLUEBERRY]
-^276500 Pflanzeneigenschaften: ^oldclr Elektrische Blaubeere ^FF0000 setzt eine Gewitterwolke frei, die ^oldclr enormen Schaden verursacht und Zombies in Reichweite verfolgt. Sehr nützlich gegen Gargantuas oder Dr. Zomboss.
-^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Elektrische Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
+^276500 Pflanzeneigenschaften: ^oldclr Elektro Blaubeere ^FF0000 setzt eine Gewitterwolke frei, die ^oldclr enormen Schaden verursacht und Zombies in Reichweite verfolgt. Sehr nützlich gegen Gargantuas oder Dr. Zomboss.
+^276500 Spezialdünger-Fähigkeit: ^oldclr Elektro Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_PLANT_DESC_TALLNUT]
-^276500 Pflanzenmerkmale: ^oldclr Tall Nuts sind schwere Verteidigungspflanzen, die nicht nur die Bewegung von Bodenzombies, sondern auch ^FF0000 fliegende Zombies effektiv blockieren können ^oldclr.
-^276500 Spezialdünger – Spezialattacke: ^oldclr Tall Nuts erhalten eine solide Panzerung.
+^276500 Pflanzenmerkmale: ^oldclr Hochwall-Nüsse sind schwere Verteidigungspflanzen, die nicht nur die Bewegung von Bodenzombies, sondern auch ^FF0000 fliegende Zombies effektiv blockieren können ^oldclr.
+^276500 Spezialdünger – Spezialattacke: ^oldclr Hochwall-Nüsse erhalten eine solide Panzerung.
 
 [PENNY_CLASSROOM_PLANT_DESC_CHOMPER]
-^276500 Pflanzenmerkmale: ^oldclr Big Mouth Flower ^FF0000 kann Zombies vor sich verschlucken und verdauen ^oldclr und startet einen Beißangriff, wenn sie auf Zombies trifft, die nicht verschluckt werden können.
-^276500 Spezialdünger – Spezialattacke: ^oldclr Big Mouth Flower saugt drei Zombies ein, um sie zu verschlucken oder zu beißen, und schleudert sie dann in die unterste Reihe.
+^276500 Pflanzenmerkmale: ^oldclr Schnapper ^FF0000 kann Zombies vor sich verschlucken und verdauen ^oldclr und startet einen Beißangriff, wenn sie auf Zombies trifft, die nicht verschluckt werden können.
+^276500 Spezialdünger – Spezialattacke: ^oldclr Schnapper saugt drei Zombies ein, um sie zu verschlucken oder zu beißen, und schleudert sie dann in die unterste Reihe.
 
 [PENNY_CLASSROOM_PLANT_DESC_SQUASH]
-^276500 Pflanzenfunktionen: ^oldclr Squash kann Zombies im linken und rechten Raster erfassen und nach einem Sprung alle Zombies im Raster zerquetschen.
-^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Squash springt und zerquetscht zwei Raster im Feld und springt schließlich zum Ursprung zurück.
+^276500 Pflanzenfunktionen: ^oldclr Matschkürbis kann Zombies im linken und rechten Raster erfassen und nach einem Sprung alle Zombies im Raster zerquetschen.
+^276500 Spezialdünger-Fähigkeit: ^oldclr Matschkürbis springt und zerquetscht zwei Raster im Feld und springt schließlich zum Ursprung zurück.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_PRIMALSUNFLOWER]
 Das Vergrößerungsgrass hat eine hohe Schadenskraft, setzt aber ausreichend Sonnenlicht als Munition voraus.Die Urzeit-Sonnenblume kann diese Aufgabe erfüllen.
@@ -74984,13 +74994,13 @@ Regeln für die Aktivität:
 7. Wähle nach dem Event das entsprechende Token-Symbol im Rucksack aus und klicke auf die Schaltfläche „Requisitentausch“, um es in Juwelen umzuwandeln. Bitte tausche die Token rechtzeitig ein. Die verbleibenden Token dieses Zeitraums werden gelöscht, sobald die nächste Version des Events erscheint.
 
 Wahrscheinlichkeit der Parteiunterstützung:
-Unterstützungsstufe 1: Selbstgewähltes Kleid 1: 20% Gen-Essenz * 2: 70% Engelssternfruchtfragment * 10: 10%
-Unterstützungsstufe 2: Selbstgewähltes Kleid 1: 20% Gen-Essenz * 2: 70% Engelssternfruchtfragment * 10: 10%
-Unterstützungsstufe 3: Selbstgewähltes Kleid 1: 100%
-Unterstützungsstufe 4: Selbstgewähltes Kleid 2: 20% Gen-Essenz * 5: 70% Sägezahn-Jindi-Luo-Fragment * 10: 10%
-Unterstützungsstufe 5: Selbstgewähltes Kleid 2: 20% Gen-Essenz * 5: 70% Richtungsfragment * 10: 10%
-Unterstützungsstufe 6: Selbstgewähltes Kleid 2: 100%
-Unterstützungsstufe 7: Selbstgewähltes Kleid 3: 20% Gen-Essenz * 12: 70% Universalfragment * 10: 10%
+Unterstützungsstufe 1: Selbstgewähltes Kostüm 1: 20% Gen-Essenz * 2: 70% Engelssternfruchtfragment * 10: 10%
+Unterstützungsstufe 2: Selbstgewähltes Kostüm 1: 20% Gen-Essenz * 2: 70% Engelssternfruchtfragment * 10: 10%
+Unterstützungsstufe 3: Selbstgewähltes Kostüm 1: 100%
+Unterstützungsstufe 4: Selbstgewähltes Kostüm 2: 20% Gen-Essenz * 5: 70% Sägezahn-Jindi-Luo-Fragment * 10: 10%
+Unterstützungsstufe 5: Selbstgewähltes Kostüm 2: 20% Gen-Essenz * 5: 70% Richtungsfragment * 10: 10%
+Unterstützungsstufe 6: Selbstgewähltes Kostüm 2: 100%
+Unterstützungsstufe 7: Selbstgewähltes Kostüm 3: 20% Gen-Essenz * 12: 70% Universalfragment * 10: 10%
 Unterstützungsstufe 8: Selbstgewähltes Kostüm 3: 20% Gen-Essenz * 12: 70% Universalfragment * 10: 10%
 Unterstützungsstufe 9: Selbstgewähltes Kostüm 3: 20% Gen-Essenz * 30: 70% Fortgeschrittenes Buch * 1: 10%
 Unterstützungsstufe 10: Selbstgewähltes Kostüm 3 100%
@@ -75036,7 +75046,7 @@ Du hast die selbstgewählte Unterstützungsbelohnung noch nicht ausgewählt. Kli
 Holt euch das Engel-Sternfrucht-Dieb-Kostüm.
 
 [PARTY_ASSIST_TASK_DES_1]
-Holt euch das Engel-Sternfrucht-Dieb-Kostüm, das Kiwi-Ballon-Goldreifen-Kostüm, das Flammenerbsen-Jubiläumskostüm und das Schwertblatt-Drachenblutbaum-Kleid. Kostüm
+Holt euch das Engel-Sternfrucht-Dieb-Kostüm, das Kiwi-Ballon-Goldreifen-Kostüm, das Flammenerbsen-Jubiläumskostüm und das Schwertblatt-Drachenblutbaum-Kostüm. Kostüm
 
 [PARTY_ASSIST_TASK_DES_2]
 Holen Sie sich alle Kostümbelohnungen dieses Events.
@@ -75666,7 +75676,7 @@ Gutscheine für Feenpfirsisch Ewige Trübsal-Anzug
 Gutscheine für Feenpfirsisch Ewige Trübsal-Anzug
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_9]
-Feenpfirsisch Ewige Trübsal-Kleid 
+Feenpfirsisch Ewige Trübsal-Kostüm 
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_3]
 Nakadashi-Kostüm der Frostbogenschützen-Klinge
@@ -76510,7 +76520,7 @@ Sammle {NUM} Pflanzenfragmente
 Erfülle {NUM} tägliche Aufgaben
 
 [NFSLINKAGE_TASK_NAME_5]
-Sammle {NUM} Kleidungsstücke/Anhängerfragmente
+Sammle {NUM} Kostümungsstücke/Anhängerfragmente
 
 [NFSLINKAGE_TASK_NAME_6]
 Holt euch das Peashooter Speed Dressup
@@ -76769,28 +76779,28 @@ Jakobsmuschelorchidee Magier-Party-Outfit
 Kiwi-Ganzkörperkleid
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-Olympia-Kleid der Sonnenblumensängerin
+Olympia-Kostüm der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-Olympia-Kleid der Sonnenblumensängerin
+Olympia-Kostüm der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-Olympia-Kleid der Sonnenblumensängerin
+Olympia-Kostüm der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-Olympia-Kleid der Sonnenblumensängerin
+Olympia-Kostüm der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-Olympia-Kleid der Sonnenblumensängerin
+Olympia-Kostüm der Sonnenblumensängerin
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
-Sonnenblume Sängerin Olympia-Kleid
+Sonnenblume Sängerin Olympia-Kostüm
 
 [ACCUMULATED_LOGIN_TITLE]
 Gartenrekord
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CROWNFLOWER_3]
-Laserkrone Blumenkönigin Kleid
+Laserkrone Blumenkönigin Kostüm
 
 [NEW_AVATAR_DESCRIPTION_CROWNFLOWER_3]
 Sonnenlichtverbrauch um 30 Punkte reduzieren
@@ -76856,7 +76866,7 @@ Karotten-Superkleid
 Abklingzeit beim Pflanzen um 20% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
-Kiwi-Affenkönig-Kleid
+Kiwi-Affenkönig-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_KIWIFRUIT_4]
 Angriffsgeschwindigkeit um 25% erhöht
@@ -78167,11 +78177,11 @@ Während des Events können Aufladungen an jeder beliebigen Stelle im Spiel übe
 Tägliches Willkommensgeschenk (0 Yuan): Juwelen * 15
 2 Yuan Wohlfahrtspaket: Juwelen * 30, 10 % Chance auf eine Schatzkiste mit Primärkleidung
 3 Yuan Wohlfahrtspaket: Juwelen * 90, 10 % Chance auf eine Schatzkiste mit Zwischenkleidung
-6 Yuan Wohlfahrtspaket: Juwelen * 180, 10 % Chance auf eine Schatzkiste mit fortgeschrittener Kleidung
+6 Yuan Wohlfahrtspaket: Juwelen * 180, 10 % Chance auf eine Schatzkiste mit fortgeschrittener Kostümung
 
-Optionale Kleidung für die Schatzkiste mit Primärkleidung: Nuss-Weihnachtskleid, Sonnenblumen-Halloweenkleid, Nuss-Halloweenkleid, Pulsgelbes Pfirsich-Halloweenkleid, Stahl-Erdspieß-Monokel, Maiskrug-Herrenanzug, Doppel-Sonnenblumenhut
-Optionale Kleidung für die Schatzkiste mit Zwischenkleidung: Truthahnkrug-Weihnachtskleid, Kristallorchideen-Weihnachtskleid, Eiswassermelonen-Clip-Fächer, Kokosnusshut, Frühlingsfestkleid mit großer Mundblume, Frühlingsfestkleid mit Gemüsefrage, Sonnenblumensängerin (Neu) Jahreskleid
-Erweiterte Kostüm-Schatzkiste (optional): Winterkleid mit Sonne und Mond, Weihnachtskleid mit Zitronensäure, Weihnachtskleid mit Maiskanone, Frühlingsfestkleid mit Erbsen, Kleid mit Tigerpilzwachstum, Neujahrskleid mit Apfelmörser, Wasserkastanienbrüder-Tiger-Jahreskleid
+Optionale Kostümung für die Schatzkiste mit Primärkleidung: Nuss-Weihnachtskleid, Sonnenblumen-Halloweenkleid, Nuss-Halloweenkleid, Pulsgelbes Pfirsich-Halloweenkleid, Stahl-Erdspieß-Monokel, Maiskrug-Herrenanzug, Doppel-Sonnenblumenhut
+Optionale Kostümung für die Schatzkiste mit Zwischenkleidung: Truthahnkrug-Weihnachtskleid, Kristallorchideen-Weihnachtskleid, Eiswassermelonen-Clip-Fächer, Kokosnusshut, Frühlingsfestkleid mit großer Mundblume, Frühlingsfestkleid mit Gemüsefrage, Sonnenblumensängerin (Neu) Jahreskleid
+Erweiterte Kostüm-Schatzkiste (optional): Winterkleid mit Sonne und Mond, Weihnachtskleid mit Zitronensäure, Weihnachtskleid mit Maiskanone, Frühlingsfestkleid mit Erbsen, Kostüm mit Tigerpilzwachstum, Neujahrskleid mit Apfelmörser, Wasserkastanienbrüder-Tiger-Jahreskleid
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 2-Yuan-Wohlfahrtsgeschenkbox
