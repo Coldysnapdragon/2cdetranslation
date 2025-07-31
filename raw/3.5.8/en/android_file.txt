@@ -6292,7 +6292,7 @@ Rangaufstieg
 Maximales Upgrade
 
 [BLESS]
-Segen
+Segnen
 
 [DLC_FILES_SIZE]
 Dateigröße: {SIZE_1}MB/{SIZE_2}MB
