@@ -52694,6 +52694,12 @@ Pflanzen-Abklingzeit um 10% reduziert
 [NEW_AVATAR_SHORT_DESCRIPTION_JEWELRABBIT_1]
 Zwillingskaninchen-Wachstumsgeschenkkostüm
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_4]
+Maulbeeren Lava Super Kostüm
+
+[NEW_AVATAR_DESCRIPTION_MULBERRY_4]
+Erhöht die Angriffsgeschwindigkeit um 30 %
+
 [NEW_AVATAR_DESCRIPTION_JEWELRABBIT_ 1]
 Pflanzen-Abklingzeit um 10% reduziert
 
