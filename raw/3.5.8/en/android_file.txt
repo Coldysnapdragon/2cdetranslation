@@ -73,10 +73,10 @@ Die Überlebenszeit des Meerespilzes erhöht sich auf 120 Sekunden.
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff auszulösen!
 
 [SEASHROOM_PLANTFOOD_DESCRIPTION]
-Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine Spezialdünger-Attacke auszulösen. Die Verschwindezeit wird zurückgesetzt.
+Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine Spezialdünger-Fähigkeit auszulösen. Die Verschwindezeit wird zurückgesetzt.
 
 [SEASHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine Spezialdünger-Attacke zu starten. Die Verschwindezeit wird zurückgesetzt.
+Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine Spezialdünger-Fähigkeit zu starten. Die Verschwindezeit wird zurückgesetzt.
 
 [ACHIEVE_DOG_WHISPERER_DESC]
 Töte den Todeszombie, bevor er einen Grabstein beschwört!
@@ -112,7 +112,7 @@ Wild-West-Level erfolgreich abgeschlossen.
 Yo! Los geht's!
 
 [ACHIEVE_HIGH_FIVE_DESC]
-Pflanze fünf Hochwall-Nusss und verwende Spezialdünger-Attacken darauf.
+Pflanze fünf Hochwall-Nusss und verwende Spezialdünger-Fähigkeitn darauf.
 
 [ACHIEVE_HIGH_FIVE_TITLE]
 Super! High Five!
@@ -619,16 +619,16 @@ Der Rüstungsmonteur-Feuerstern kann nicht auf Ranken gepflanzt werden.
 {PLAYFUL:winnie}Ich weiß nicht, was die guten Sachen angeht, aber es gibt viele Zombies. Macht euch bereit für einen Kampf.
 
 [NARRATIVE_FRESHINTRO_PLANTFOOD_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL}Dieser Typ mit dem Metalleimer sieht mächtig aus. Versucht es doch gleich mit der Spezialdünger-Attacke und zieht sie zur Erbse!
+{NPC_ENTER:crazydave}{PLAYFUL}Dieser Typ mit dem Metalleimer sieht mächtig aus. Versucht es doch gleich mit der Spezialdünger-Fähigkeit und zieht sie zur Erbse!
 
 [NARRATIVE_FRESHINTRO_COLLECT_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Klickt auf die springende Spezialdünger-Attacke, sie sollte uns helfen können!
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Klickt auf die springende Spezialdünger-Fähigkeit, sie sollte uns helfen können!
 
 [NARRATIVE_FRESHINTRO_ZOMBIE_INTRO_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Dieser Typ trägt eine Rüstung auf dem Kopf, genau wie ich. Er sieht mächtig aus!
 
 [NARRATIVE_FRESHINTRO_END_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Super gemacht! In diesem Level gibt es unbegrenzt Spezialdünger-Attacken. Als Nächstes schlagen wir die Zombies zu Brei!
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Super gemacht! In diesem Level gibt es unbegrenzt Spezialdünger-Fähigkeitn. Als Nächstes schlagen wir die Zombies zu Brei!
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wow! Wo ist das denn? Ich bin total baff!
@@ -4147,13 +4147,13 @@ Pflanze – Fackelholz
 Fackelholz
 
 [product_24_description]
-+1 Spezialdünger-Attacken-Kartenplatz!
++1 Spezialdünger-Fähigkeitn-Kartenplatz!
 
 [product_24_name]
-Verbesserung – Spezialdünger-Attacken-Belohnungsgegenstand
+Verbesserung – Spezialdünger-Fähigkeitn-Belohnungsgegenstand
 
 [product_24_short_description]
-Spezialdünger-Attacken-Belohnungsgegenstand
+Spezialdünger-Fähigkeitn-Belohnungsgegenstand
 
 [product_25_description]
 Schlüsseltor – Piratenbucht – Unzerstörbar
@@ -4237,7 +4237,7 @@ Keygate – Wilder Westen – Saatgutverteidigung
 Keygate – Wilder Westen – Saatgut Verteidigung
 
 [product_33_description]
-Vernichte Gegner, kaufe Spezialdünger-Attacken und erhalte eine lohnende Sonnenschaufel!
+Vernichte Gegner, kaufe Spezialdünger-Fähigkeitn und erhalte eine lohnende Sonnenschaufel!
 
 [product_33_name]
 Starterpaket
@@ -4291,7 +4291,7 @@ Goldmünzen-Paket 150.000
 Goldmünzen-Paket 150.000
 
 [product_7_description]
-Erstelle eine Spezialdünger-Attacke.
+Erstelle eine Spezialdünger-Fähigkeit.
 
 [product_7_name]
 Pflanze – Energieblume
@@ -4844,7 +4844,7 @@ Wenn der Alraune wächst, besteht eine 30%ige Chance, dass beim Laufen ein Phant
 Die Wahrscheinlichkeit, dass ein Phantom-Alraune erscheint, erhöht sich auf 60%.
 
 [MANDRAKE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [MANDRAKE_NEW_SKILL_LEVEL5_DES]
 Nach jeweils zwei wachsenden Alraunen erscheint ein Mutant im nächsten Alraune. Der Mutant sprintet vorwärts. Trifft er auf Zombies, nutzt er Donnerblitz, um drei Felder vorwärts zu sprinten. Dabei stößt er zufällig kleine und mittelgroße Zombies in der Umgebung nach oben und unten zurück und lähmt gargantuas für 3 Sekunden. Nach dem Sprint kehrt der Mutant in seinen Normalzustand zurück.
@@ -5014,7 +5014,7 @@ Wenn die Meteorblume Meteoriten beschwört, besteht eine 15%ige Chance, schwere 
 Die Wahrscheinlichkeit, schwere Meteoriten zu beschwören, erhöht sich auf 30%.
 
 [METEORFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [METEORFLOWER_NEW_SKILL_LEVEL5_DES]
 Wenn die Meteorblume angreift, besteht eine 10%ige Chance, planetarische Meteoriten zu beschwören. Diese fügen Zombies im Umkreis eines Rasters Schaden zu. Nach der Landung rollen die Planetenmeteoriten drei Felder vorwärts und stoßen kleine und mittlere Zombies auf dem Weg zusammen. Am Ende der Bewegung explodieren sie und verursachen 2400 Schadenspunkte. Ein Krater entsteht am Landepunkt und auf dem rollenden Boden.
@@ -5023,7 +5023,7 @@ Wenn die Meteorblume angreift, besteht eine 10%ige Chance, planetarische Meteori
 Beschwöre drei parallele Planetenmeteoriten ein Feld vor der Meteorblume, greife die Zombies am Landepunkt an und rolle vorwärts. Nach dem Ausführen der ultimativen Attacke werden alle gegnerischen Dinosaurier auf dem Spielfeld verscheucht.
 
 [METEORFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Beschwört ^ff0000^5 parallele Planetenmeteoriten^oldclr^ ein Feld vor der Meteorblume, diese greifen die Zombies am Landepunkt an und rollen vorwärts. Nach dem Ausführen der Spezialdünger-Attacke werden alle gegnerischen Dinosaurier auf dem Spielfeld verscheucht.
+Beschwört ^ff0000^5 parallele Planetenmeteoriten^oldclr^ ein Feld vor der Meteorblume, diese greifen die Zombies am Landepunkt an und rollen vorwärts. Nach dem Ausführen der Spezialdünger-Fähigkeit werden alle gegnerischen Dinosaurier auf dem Spielfeld verscheucht.
 
 [SARRACENIA]
 Schlangenkannenpflanze
@@ -5079,7 +5079,7 @@ Schlangenheugabel beschleunigt die Vorbereitungszeit und verkürzt die Ruhezeit 
 Der Fertigkeitseffekt der schnellen Erholung wird um 100% erhöht und die Ruhezeit auf 14 Sekunden verkürzt. Die Obergrenze des versteinerten Zombies wurde auf Stufe 5 geändert.
 
 [SARRACENIA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen! Die Obergrenze des versteinerten Zombies wurde auf Stufe 7 geändert.
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen! Die Obergrenze des versteinerten Zombies wurde auf Stufe 7 geändert.
 
 [SARRACENIA_NEW_SKILL_LEVEL5_DES]
 Bei jedem Angriff des versteinerten Zombies besteht eine 60-prozentige Wahrscheinlichkeit, dass die beiden Zombies links zu Steinstatuen mit jeweils 40% Lebenspunkten versteinert werden. Die Obergrenze des versteinerten Zombies wurde auf Stufe 10 geändert.
@@ -14525,7 +14525,7 @@ Süßkartoffeln ziehen Zombies aus anderen Reihen an, wenn diese in ihre Nähe k
 Zieht Zombies aus anderen Reihen an, wenn diese in ihre Nähe kommen
 
 [POWERTILE_TUTORIAL_1]
-Füttere die Erbsenkanone mit Spezialdünger-Attacken.
+Füttere die Erbsenkanone mit Spezialdünger-Fähigkeitn.
 
 [POWERTILE_TUTORIAL_2]
 Besiege die Typen mit den Eimern!
@@ -15081,7 +15081,7 @@ Stärkt die Schnellladung, wodurch die Laserbohne kontinuierlich Laser abfeuert 
 Energieüberladung
 
 [LASERBEAN_SKILL1_LEVEL5_DES]
-Die Laserbohne wird alle 15 Sekunden oder bei einer großen Attacke verstärkt. Im verstärkten Zustand erhöht sich der normale Angriffsschaden der Laserbohne um 100%, und die Spezialdünger-Attacke hinterlässt mit ihrem starken Angriff eine elektrische Markierung, die in drei Sekunden insgesamt 1500 Schaden verursacht.
+Die Laserbohne wird alle 15 Sekunden oder bei einer großen Attacke verstärkt. Im verstärkten Zustand erhöht sich der normale Angriffsschaden der Laserbohne um 100%, und die Spezialdünger-Fähigkeit hinterlässt mit ihrem starken Angriff eine elektrische Markierung, die in drei Sekunden insgesamt 1500 Schaden verursacht.
 
 [HOLONUT_SKILL1_LEVEL1]
 Schnelle Projektion
@@ -20119,7 +20119,7 @@ Flammen haben einen besonderen Effekt auf Waffenständer. Je länger die Ladezei
 Kann Kugeln in fünf Richtungen abfeuern, sehr effektiv gegen verstreute Zombies.
 
 [PLANTTRIAL_CITRON_DESC]
-Kann Energie aus der Luft absorbieren und elektromagnetische Kanonen abfeuern. Die ultimative Attacke ist sehr effektiv gegen mechanische Zombies.
+Kann Energie aus der Luft absorbieren und elektromagnetische Kanonen abfeuern. Die Spezialdünger-Fähigkeit ist sehr effektiv gegen mechanische Zombies.
 
 [PLANTTRIAL_FUMESHROOM_DESC]
 Der Angriff ist immun gegen den Rückprallschaden des Imp-Zombies und kann Zombies in derselben Reihe wegstoßen.
@@ -20128,7 +20128,7 @@ Der Angriff ist immun gegen den Rückprallschaden des Imp-Zombies und kann Zombi
 Der Angriff kann mit der Zeit wachsen und hat einen Verlangsamungseffekt.
 
 [PLANTTRIAL_LOTUSSHOWER_DESC]
-Die ultimative Attacke priorisiert Angriffe Die hintere Reihe, und die Kugeln sind in Wasserleveln stärker.
+Die Spezialdünger-Fähigkeit priorisiert Angriffe Die hintere Reihe, und die Kugeln sind in Wasserleveln stärker.
 
 [PLANTTRIAL_LEMON_DESC]
 Es kann Granaten zusätzlichen Schaden zufügen, und die Spezialdünger-Fähigkeit kann in Sekundenschnelle einen ganzen Bildschirm mit saurem Regen zerstören.
@@ -28821,22 +28821,22 @@ hart.
 {NPC_ENTER:zombossicon}{SAY}Ich habe eine Frage an dich, mein abscheulicher Feind!
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Ist dir schon mal aufgefallen, wie gewalttätig Pflanzen werden, wenn sie Spezialdünger-Attacken fressen?
+{SAY:zombossicon}Ist dir schon mal aufgefallen, wie gewalttätig Pflanzen werden, wenn sie Spezialdünger-Fähigkeitn fressen?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Hast du dich schon mal gefragt, woraus Spezialdünger-Attacken bestehen?
+{SAY:zombossicon}Hast du dich schon mal gefragt, woraus Spezialdünger-Fähigkeitn bestehen?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_4]
-{SAY:zombossicon}Ich kann es dir sagen: Zombies! Spezialdünger-Attacken bestehen aus Zombies!
+{SAY:zombossicon}Ich kann es dir sagen: Zombies! Spezialdünger-Fähigkeitn bestehen aus Zombies!
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_5]
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Unglaublich! Wir füttern Pflanzen nur mit den besten organischen Stoffen ...
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_6]
-{TIRED:crazydave}Hey, Penny, woraus bestehen Spezialdünger-Attacken?
+{TIRED:crazydave}Hey, Penny, woraus bestehen Spezialdünger-Fähigkeitn?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_7]
-{SAY:winnie}Ich fürchte, es bedarf weiterer Forschung, um die wahre Natur der Spezialdünger-Attacken zu verstehen, Dave.
+{SAY:winnie}Ich fürchte, es bedarf weiterer Forschung, um die wahre Natur der Spezialdünger-Fähigkeitn zu verstehen, Dave.
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_8]
 {TIRED:winnie}Ich muss noch ein paar Tests durchführen, also entschuldigt mich bitte.
@@ -28860,7 +28860,7 @@ hart.
 {TIRED:winnie}Es ist ein grober Trick, aber er funktioniert, Dave.
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe in den Spezialdünger-Attacken keine Zombies oder zombieähnlichen Zutaten gefunden.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe in den Spezialdünger-Fähigkeitn keine Zombies oder zombieähnlichen Zutaten gefunden.
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_2]
 {TIRED:crazydave}Hey! Pflanzen sollten keine Zombies fressen, die Pflanzen fressen.
@@ -40188,7 +40188,7 @@ Der Energieverbrauch beim Feuerspeien wird um 10% reduziert. Nach einer gewissen
 Der Energieverbrauch beim Feuerspeien wird um 20% reduziert. Nach einer Zeit des ununterbrochenen blauen Feuers verwandelt sich die Flamme in violettes Feuer, was den Schaden erhöht.
 
 [GLUTTONYDRAGON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [GLUTTONYDRAGON_NEW_SKILL_LEVEL5_DES]
 Nachdem der Feuerstrahl endet, erscheint darüber ein Klon des Hauptkörpers, dessen Dauer der Dauer des Feuerstrahls entspricht. Der Klon feuert weiterhin Feuerbälle ab. Trifft der Feuerball den Zombie, verursacht er ^ef0123^burningⅠ^oldclr^, was kontinuierlichen Schaden verursacht.
@@ -40263,7 +40263,7 @@ Erhöht die Magazinkapazität und Feuerrate um 20%.
 Erhöht die Magazinkapazität und Feuerrate um 40%.
 
 [HELICONIAGUNNER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt abzufeuern!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt abzufeuern!
 
 [HELICONIAGUNNER_NEW_SKILL_LEVEL5_DES]
 Nach jedem Magazinschuss verwandelt sich das Fass in einen Raketenwerfer, der drei automatisch verfolgende Raketen abfeuert. Trifft die Rakete den Zombie, explodiert sie und verursacht Schaden in Höhe von 3×3.
@@ -40272,7 +40272,7 @@ Nach jedem Magazinschuss verwandelt sich das Fass in einen Raketenwerfer, der dr
 Der Heliconia-Schütze beginnt, das Maschinengewehr zu rotieren und feuert wie verrückt Kugeln ab. Insgesamt rotiert er dreimal.
 
 [HELICONIAGUNNER_AVATAR_PLANTFOOD_DESCRIPTION]
-Während der Rotation der Spezialdünger-Attacke wird jeweils eine panzerbrechende Kugel in sechs Kugeln gemischt, die Zombies durchdringen und größeren Schaden verursachen kann.
+Während der Rotation der Spezialdünger-Fähigkeit wird jeweils eine panzerbrechende Kugel in sechs Kugeln gemischt, die Zombies durchdringen und größeren Schaden verursachen kann.
 
 [ELECTRICPEEL]
 Zitterschale
@@ -40396,7 +40396,7 @@ Nach dem Loslassen der Dornenhexe beschleunigt sich die Erholungsgeschwindigkeit
 Die Anzahl der Angriffsziele jedes Angriffs der Dornenhexe erhöht sich um 1. Sie kann zwei Zombies gleichzeitig rechts angreifen und Dornenhexe oder Dornensporn anwenden. Die Dornengesundheit wird erhöht.
 
 [WIZARDTHORNS_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Attacke direkt auszulösen! Die Dornengesundheit wird erhöht.
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen! Die Dornengesundheit wird erhöht.
 
 [WIZARDTHORNS_NEW_SKILL_LEVEL5_DES]
 Die Dornenhexe wurde verbessert. Sie greift weiterhin an, während sie Zombies einwickelt, wodurch diese vergiftet werden und 3% ihrer maximalen Gesundheit pro Sekunde verlieren. Die Dornengesundheit wird erhöht.
@@ -40662,13 +40662,13 @@ Im Zustand der normalen Tyrannen-Drachenfrucht besteht bei jedem Angriff eine Ch
 Befindet sie sich im Zustand der gewöhnlichen Tyrannen-Drachenfrucht, besteht bei jedem Angriff eine Chance von 50%, für 15 Sekunden in die Schattenform zu wechseln. Befindet sie sich bereits im Schattenzustand, besteht bei jedem Angriff eine Chance von 50%, einen Angriffseffekt auf alle Zombies im Gitterbereich auszulösen.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL5_DES]
 Alle 20 Sekunden erzeugt die Tyrannen-Pitaya zufällig eine Pitaya mit den Eigenschaften Eis/Feuer/Donner. Wenn ein angreifbares Ziel vorhanden ist, wirft die Tyrannen-Pitaya die Pitaya mit Eis-, Feuer- oder Donnerattributen auf den Zombie und erzeugt sofort eine Pitaya mit dem entsprechenden Attribut ein Feld vor dem Zombie. Die erzeugte Pitaya mit Spezialattributen verursacht beim Angriff Attributschaden. Nach dem Tod explodiert die Pitaya mit Spezialattributen und verursacht Explosionsschaden des entsprechenden Attributs beim Zombie.
 
 [DRAGONBRUIT_PLANTFOOD_DESCRIPTION]
-Startet sofort einen Projektilangriff auf alle angreifbaren Einheiten auf dem Feld (zwei Runden in Schattengestalt). Die Projektilgeschosse wirken auf alle Zombies in einem einzigen Raster. Werden Spezialdünger-Attacken auf die kleine Drachenfrucht aufgetragen, wächst diese sofort zur Tyrannen-Drachenfrucht heran.
+Startet sofort einen Projektilangriff auf alle angreifbaren Einheiten auf dem Feld (zwei Runden in Schattengestalt). Die Projektilgeschosse wirken auf alle Zombies in einem einzigen Raster. Werden Spezialdünger-Fähigkeitn auf die kleine Drachenfrucht aufgetragen, wächst diese sofort zur Tyrannen-Drachenfrucht heran.
 
 [DRAGONBRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 Startet sofort einen Projektilangriff im Schattenzustand auf alle Einheiten auf dem Feld, sofern diese sich nicht im Schattenzustand befinden, und nimmt sofort für 10 Sekunden die Schattengestalt an. Wenn es sich bereits im Schattenzustand befindet, wird der Schaden dieser großen Bewegung erhöht.
@@ -40728,7 +40728,7 @@ Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich ihre
 Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich ihre Angriffskraft um 30%; Zombies, die von der Melancholischen Ranke angegriffen werden, werden um 50% verlangsamt.
 
 [gloomvine_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [gloomvine_NEW_SKILL_LEVEL5_DES]
 Die Angriffsreichweite der Melancholischen Ranke wird erweitert. Melancholy Vine nimmt die Superschattenform an, wenn sie sich im Mondlichtfeld der Mondlichtblume befindet. Melancholy Vine spuckt beim fünften Angriff zusätzlichen Rauch in vier Richtungen aus. Der Rauch fügt den getroffenen Zombies Schaden zu und erhöht ihre Verwundbarkeit um 15%.
@@ -40794,7 +40794,7 @@ Der Suchbereich der Pflanze wird auf drei Reihen erweitert und die Ruhezeit um 1
 Der Suchbereich der Pflanze wird auf den gesamten Bildschirm erweitert und die Ruhezeit erneut um 1,5 Sekunden verkürzt.
 
 [EAGLECLAW_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [EAGLECLAW_NEW_SKILL_LEVEL5_DES]
 Wenn Adlerklaue einen Blitzball kondensiert, besteht eine 80%ige Chance, einen zusätzlichen violetten Blitz zu beschwören. Der violette Blitz bewegt sich mit dem Blitzball, erreicht die Angriffsposition und greift die Zombies im darunterliegenden Kreuzbereich mit einem Blitz an. Der Schaden beträgt das Fünffache der aktuellen Angriffskraft und es besteht eine 50%ige Chance, den Zombie für 1 Sekunde zu lähmen. Der Traktorstrahl des Blitzballs wird verstärkt, und der Zielzombie wird nach 0,5 Gittern Entfernung an die Stelle gezogen.
@@ -40860,7 +40860,7 @@ Wenn die auslösende Note den Zombie trifft, wird dieser 0,1 Sekunden lang betä
 Wenn die auslösende Note den Zombie trifft, wird dieser 0,2 Sekunden lang betäubt. Ab der vierten Note beträgt die Reichweite 5×5.
 
 [HEAVENDATURA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HEAVENDATURA_NEW_SKILL_LEVEL5_DES]
 Der Schaden aufeinanderfolgender Noten erhöht sich schrittweise um das 0,5-Fache, bis hin zum 3-Fachen.
@@ -40932,7 +40932,7 @@ Die Ruhezeit der Gold- und Silberblume verkürzt sich um 2,5 Sekunden. Die Anzah
 Die Ruhezeit der Gold- und Silberblume verkürzt sich um 5 Sekunden. Die Anzahl der nach der Explosion von Mond und Sonne generierten blauen Sterne erhöht sich um 4 und die Anzahl der roten Sterne erhöht sich um 2.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL5_DES]
 Goldene Blume und Silberne Blume schießen kleine Sterne, die Schaden verursachen, wenn sie sich dahinter befinden. Die Goldene Blume schießt rote Sterne und fliegt vorwärts, um Feuerschaden zu verursachen. Die Silberne Blume schießt blaue Sterne und verfolgt den gesamten Bildschirm, um Eisschaden zu verursachen.
@@ -40999,7 +40999,7 @@ Die maximale Sprungweite erhöht sich um ein Feld, die Betäubungs- und Angriffs
 Die maximale Sprungweite erhöht sich um zwei Felder, die Betäubungs- und Angriffsdauer um jeweils zwei Sekunden.
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL4_DES]
-Beim Platzieren besteht die Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Platzieren besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL5_DES]
 Nach dem Springen besteht die Chance, in den Berserker-Modus zu wechseln. Angriffe im Berserker-Modus können kleine und mittelgroße Zombies sofort töten oder mechanischen und riesigen Zombies hohen Schaden und Betäubungseffekte zufügen. Der Berserker-Modus endet nach dem Zurückspringen zur Ausgangsposition.
@@ -41068,7 +41068,7 @@ Bei jedem Angriff besteht eine Chance von 20%, eine Wasserbombe abzufeuern, die 
 Bei jedem Angriff besteht eine Chance von 25%, eine Wasserbombe abzufeuern, die kleine und mittlere Zombies abwehrt.
 
 [AQUAVINE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt mit einem großen Angriff freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff freizusetzen!
 
 [AQUAVINE_NEW_SKILL_LEVEL5_DES]
 Nach jeweils fünf Angriffen löst der nächste Angriff einen Wassertornado aus, der Schaden verursacht und einen kleinen und mittleren Zombie zwei Felder nach rechts wegreißt. Anschließend bewegt sich der Wassertornado weiter nach rechts.
@@ -41419,7 +41419,7 @@ Ahornschatten-Zerschmettern: Der nächste normale Angriff wird verstärkt und ve
 Die Abklingzeit des Klons verringert sich weiter, und der Schaden von „Ahornschatten-Zerschmettern“ erhöht sich.
 
 [MAPLEBLADE_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken-Move direkt einzusetzen.
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt einzusetzen.
 
 [MAPLEBLADE_NEW_SKILL_LEVEL5_DES]
 Der Maple Shadow Swordsman hat die Chance, ^FF0000^Maple Shadow Swallow Return^oldclr^ einzusetzen. Maple Shadow Shatter erzeugt zusätzliche Schwertenergie, die die gesamte Reihe angreift. Zombies, die gleichzeitig von der Schwertenergie des Hauptkörpers und der Schwertenergie des Klons getroffen werden, werden sofort getötet.
@@ -41671,13 +41671,13 @@ Schattenserie: Alle drei Angriffe im Schattenzustand können eine Schattennebelw
 Schadensverstärkende Hilfspflanzen
 
 [PARALLEL_PRIMALSUNFLOWER]
-Nr. 42 Primitive Sonnenblume
+Nr. 42 Urzeit-Sonnenblume
 
 [PARALLEL_PRIMALSUNFLOWER_TOOLTIP]
 Spezialdünger-Fähigkeittive Sonnenscheinpflanze, produziert jedes Mal 1000 Sonnen.
 
 [PARALLEL_PRIMALSUNFLOWER_DESCRIPTION_HEADER]
-Primitive Sonnenblume produziert große Sonnen anstelle von gewöhnlichen Sonnen.
+Urzeit-Sonnenblume produziert große Sonnen anstelle von gewöhnlichen Sonnen.
 
 [PARALLEL_PRIMALSUNFLOWER_DESCRIPTION]
 Spezialdünger-Fähigkeittive Sonnenscheinpflanze, produziert jedes Mal 1000 Sonnen. Zeit
@@ -42005,21 +42005,21 @@ Verschießt 4 Erbsen gleichzeitig und nach Dünger 5
 Feuerunterstützung
 
 [MEGAGATLING_SKILL_LEVEL1_DES]
-Die Wahrscheinlichkeit, die Spezialdünger-Attacke mit einem normalen Angriff auszulösen, erhöht sich auf 3%.
+Die Wahrscheinlichkeit, die Spezialdünger-Fähigkeit mit einem normalen Angriff auszulösen, erhöht sich auf 3%.
 Kann erneut verbessert werden, bis zu 6 Erbsen können kontinuierlich abgefeuert werden.
 
 [MEGAGATLING_SKILL_LEVEL2]
 Feuerkraftverstärkung
 
 [MEGAGATLING_SKILL_LEVEL2_DES]
-Die Wahrscheinlichkeit, die Spezialdünger-Attacke mit einem normalen Angriff auszulösen, erhöht sich auf 5%.
+Die Wahrscheinlichkeit, die Spezialdünger-Fähigkeit mit einem normalen Angriff auszulösen, erhöht sich auf 5%.
 Kann erneut verbessert werden, bis zu 7 Erbsen können kontinuierlich abgefeuert werden.
 
 [MEGAGATLING_SKILL_LEVEL5]
 Elementarmeister
 
 [MEGAGATLING_SKILL_LEVEL5_DES]
-Die Wahrscheinlichkeit, die Spezialdünger-Attacke mit einem normalen Angriff auszulösen, erhöht sich auf 10%.
+Die Wahrscheinlichkeit, die Spezialdünger-Fähigkeit mit einem normalen Angriff auszulösen, erhöht sich auf 10%.
 Die Erbsenkanone kann gestapelt werden, um die Wirkung aller Kugeln zu verstärken.
 Wenn nicht Gestapelt: Es besteht die Möglichkeit, primär verstärkte Geschosse abzufeuern.
 
@@ -42034,21 +42034,21 @@ Mega-MG-Erbse Kostüm
 
 [MEGAGATLING_NEW_SKILL_LEVEL1_DES]
 Kann mit anderen Erbsen gestapelt werden. Nach dem Stapeln erhalten die entsprechenden Erbsen besondere Fähigkeiten und das verbrauchte Sonnenlicht wird sofort zurückgegeben.
-Jede Runde eines normalen Angriffs schleudert 4 Erbsen, und es besteht eine 2%ige Chance, sie durch einen Spezialdünger-Attacken-Großangriff zu ersetzen. Nach dem Ausführen der Spezialdünger-Attacken-Großattacke erhältst du ein Upgrade: Die Anzahl der durch einen normalen Angriff abgefeuerten Erbsen steigt um 1.
+Jede Runde eines normalen Angriffs schleudert 4 Erbsen, und es besteht eine 2%ige Chance, sie durch einen Spezialdünger-Fähigkeitn-Großangriff zu ersetzen. Nach dem Ausführen der Spezialdünger-Fähigkeitn-Großattacke erhältst du ein Upgrade: Die Anzahl der durch einen normalen Angriff abgefeuerten Erbsen steigt um 1.
 
 [MEGAGATLING_NEW_SKILL_LEVEL2_DES]
-Die Wahrscheinlichkeit, dass ein normaler Angriff eine Spezialdünger-Attacke auslöst, steigt auf 3%.
+Die Wahrscheinlichkeit, dass ein normaler Angriff eine Spezialdünger-Fähigkeit auslöst, steigt auf 3%.
 Kann erneut verbessert werden: Bis zu 6 Erbsen können kontinuierlich abgefeuert werden.
 
 [MEGAGATLING_NEW_SKILL_LEVEL3_DES]
-Die Wahrscheinlichkeit, dass ein normaler Angriff eine Spezialdünger-Attacke auslöst, steigt auf 5%.
+Die Wahrscheinlichkeit, dass ein normaler Angriff eine Spezialdünger-Fähigkeit auslöst, steigt auf 5%.
 Kann zweimal verbessert werden: Bis zu 7 Erbsen können kontinuierlich abgefeuert werden.
 
 [MEGAGATLING_NEW_SKILL_LEVEL4_DES]
-Das Pflanzen hat eine hohe Wahrscheinlichkeit, eine Spezialdünger-Attacke auszulösen.
+Das Pflanzen hat eine hohe Wahrscheinlichkeit, eine Spezialdünger-Fähigkeit auszulösen.
 
 [MEGAGATLING_NEW_SKILL_LEVEL5_DES]
-Die Wahrscheinlichkeit, dass ein normaler Angriff eine Spezialdünger-Attacke auslöst, steigt auf 10%.
+Die Wahrscheinlichkeit, dass ein normaler Angriff eine Spezialdünger-Fähigkeit auslöst, steigt auf 10%.
 Du kannst die Erbsenkanone stapeln, um die Wirkung aller Kugeln zu verstärken.
 Wenn nicht gestapelt wird, gibt es Wahrscheinlichkeit, primär verstärkte Geschosse abzufeuern
 
@@ -42253,7 +42253,7 @@ Ananas-Kettenklinge nutzt die Kettenklinge in ihrer Hand, um Zombies großen Sch
 Ananas-Kettenklinge nutzt die Kettenklinge in ihrer Hand, um Zombies großen Schaden zuzufügen.
 
 [STORE_PRODUCT_AVATAR_BROMELBLADE]
-Die ultimative Attacke der Ananas-Kettenklinge hat eine Reichweite von 3x4.
+Die Spezialdünger-Fähigkeit der Ananas-Kettenklinge hat eine Reichweite von 3x4.
 
 [STORE_PRODUCT_AVATAR_BROMELBLADE_TITLE]
 Ananas-Kettenklinge-Kostüm
@@ -43725,10 +43725,10 @@ Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +1.
 Die Anzahl der nach der Explosion geworfenen Buttergruben ist größer als +2
 
 [BUDUHBOOM_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]
 Explodierender Jadetau-Outfit
@@ -44295,8 +44295,8 @@ Hockeyspiel
 [PVZ_WORLDCUP_DES]
 Spielübersicht:
 ·Im Spiel erscheinen viele Zombies. Wenn ein Zombie mit einem Ball auf dem Kopf unsere Grundlinie erreicht, wird das als Tor gewertet.
-·Der Spieler schlüpft in die Rolle der Pflanze und muss die Aufstellung treffen. Sobald die Aufstellung getroffen ist, erhält die Pflanze die Ball-Spezialdünger-Attacke, wenn sie den Zombie mit der Ballmarkierung tötet. Zieht die Hockey-Spezialdünger-Attacke zur Pflanze mit dem Ball, und ihr könnt den Football schießen.
-· Ziehe die Spezialdünger-Attacke zu der Pflanze, die keinen Ball hat, und spiele den Ball vor dem Schuss an die Pflanze weiter.
+·Der Spieler schlüpft in die Rolle der Pflanze und muss die Aufstellung treffen. Sobald die Aufstellung getroffen ist, erhält die Pflanze die Ball-Spezialdünger-Fähigkeit, wenn sie den Zombie mit der Ballmarkierung tötet. Zieht die Hockey-Spezialdünger-Fähigkeit zur Pflanze mit dem Ball, und ihr könnt den Football schießen.
+· Ziehe die Spezialdünger-Fähigkeit zu der Pflanze, die keinen Ball hat, und spiele den Ball vor dem Schuss an die Pflanze weiter.
 · Wenn kein Zombie den Hockey auf dem Weg nach vorne blockiert oder der Zombie getötet wird, bewegt er sich weiter vorwärts. Erreicht er die Grundlinie, erhält der Spieler einen Punkt.
 · Nach Ablauf der Zeit gewinnt die Mannschaft mit den meisten Toren. Bei Unentschieden können die Spieler erneut antreten.
 · Schließe das Level ab und erhalte tolle Belohnungen!
@@ -51938,6 +51938,9 @@ Abklingzeit beim Pflanzen um 20% reduziert
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_1]
 Wallnuss-Badeanzug
 
+[NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_2]
+Die Abklingzeit der Pflanze wurde um 10 % reduziert.
+
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_1]
 Pflanzengesundheit um 15% erhöht
 
@@ -54965,7 +54968,7 @@ Dosenwurf-Artefakt
 Topfregen
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_1]
-Aktiv einsetzen: 10 Dosen fallen zufällig vom Feld. Spezialdünger-Attacken-Zombies, Pflanzenkarten und Sonnenlicht fallen zufällig aus dem Gefäß. Die Stärke der Gegenstände hängt vom Level des Artefakts ab. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_2} Mal pro Kampf eingesetzt werden.
+Aktiv einsetzen: 10 Dosen fallen zufällig vom Feld. Spezialdünger-Fähigkeitn-Zombies, Pflanzenkarten und Sonnenlicht fallen zufällig aus dem Gefäß. Die Stärke der Gegenstände hängt vom Level des Artefakts ab. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_2} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_VASE_SKILL_2]
 Wurfmeister
@@ -55422,7 +55425,7 @@ Beschwört die Kopie der Pflanzen auf dem Feld, um gemeinsam gegen die Zombies z
 Holografische Projektion
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_1]
-Aktivierung: Nach dem Klicken auf die Artefakt-Schaltfläche schaltet sich der linke Projektor ein und erzeugt sofort eine holografische Projektion auf allen Pflanzen im Feld. Die Projektion greift Zombies wie den Hauptkörper an, wirkt aber keine Spezialdünger-Attacken-Fähigkeiten. Die Projektion hält {MainField_1} Sekunden an. Während dieser Zeit erhöht sich die Angriffskraft des Hauptkörpers um {MainField_2}% und kann einigen Zombie-Fähigkeiten widerstehen. Die Fähigkeit kühlt 30 Sekunden lang ab und kann {MainField_5} Mal pro Kampf eingesetzt werden.
+Aktivierung: Nach dem Klicken auf die Artefakt-Schaltfläche schaltet sich der linke Projektor ein und erzeugt sofort eine holografische Projektion auf allen Pflanzen im Feld. Die Projektion greift Zombies wie den Hauptkörper an, wirkt aber keine Spezialdünger-Fähigkeitn-Fähigkeiten. Die Projektion hält {MainField_1} Sekunden an. Während dieser Zeit erhöht sich die Angriffskraft des Hauptkörpers um {MainField_2}% und kann einigen Zombie-Fähigkeiten widerstehen. Die Fähigkeit kühlt 30 Sekunden lang ab und kann {MainField_5} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_HOLO_SKILL_2]
 Technologischer Fortschritt
@@ -57813,7 +57816,7 @@ Der Pharao-Zombie, der bei der Jubiläumsfeier erschien.
 
 [ZOMBIE_BIRTHDAY_PHARAOH_DESCRIPTION]
 {KEYWORD}Geschwindigkeitsmerkmale:{STAT}Er bewegt sich vorwärts wie ein hungriger Tiger.
-{KEYWORD}Schwäche:{STAT}Die Nüsse können ihn kurzzeitig aufhalten, aber es ist sicherer, ihn mit der Spezialdünger-Attacke zu töten.
+{KEYWORD}Schwäche:{STAT}Die Nüsse können ihn kurzzeitig aufhalten, aber es ist sicherer, ihn mit der Spezialdünger-Fähigkeit zu töten.
 
 {FLAVOR}Ein wandelnder Kuchen? Nein, es ist ein Pharao-Zombie. Obwohl der Kuchen viel zerbrechlicher ist als der Sarkophag, kann er den Pharao-Zombie dennoch stärker machen. Liegt es daran, dass der Pharao den Kuchen kaut, um seine Gesundheit wiederherzustellen?
 
@@ -64590,7 +64593,7 @@ Zur Creator-Plattform
 Kauf von Sonnenlicht möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_PLANTFOOD]
-Kauf von Spezialdünger-Attacken möglich
+Kauf von Spezialdünger-Fähigkeitn möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_MOWER]
 Kauf von Karren möglich
@@ -64887,7 +64890,7 @@ Der Hauptzweck von primitiven Sonnenblumen besteht darin, sie an einem sicheren 
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_PRIMALSUNFLOWER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Primitive Sonnenblumen sollten am besten stabil Sonnenlicht produzieren, um den nachfolgenden Sonnenlichtverbrauch zu unterstützen.
+Urzeit-Sonnenblumen sollten am besten stabil Sonnenlicht produzieren, um den nachfolgenden Sonnenlichtverbrauch zu unterstützen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_PRIMALSUNFLOWER]
 Welche Art von Sonnenlicht produziert die primitive Sonnenblume anfänglich?
@@ -64918,60 +64921,60 @@ Wenn du falsch antwortest, beantworte die Frage bitte erneut.
 Die Ur-Sonnenblume kann in der Welt von Dino Crisis für mehr Sonnenlicht sorgen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_PRIMALSUNFLOWER]
-Welche Fähigkeiten erhält die Primitive Sonnenblume ab Level 2?
+Welche Fähigkeiten erhält die Urzeit-Sonnenblume ab Level 2?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_PRIMALSUNFLOWER]
 ca=hat eine gewisse Chance, zusätzliches Sonnenlicht zu erzeugen | Angriffe verursachen kontinuierlichen Zündschaden | lässt die abgefeuerten Laser doppelt abfeuern | Nahkampfangriffe können Zombies einfrieren |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_PRIMALSUNFLOWER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Primitive Sonnenblume hat nach Level 2 eine gewisse Chance, 100 Sonnenlicht zu erzeugen.
+Die Urzeit-Sonnenblume hat nach Level 2 eine gewisse Chance, 100 Sonnenlicht zu erzeugen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_PRIMALSUNFLOWER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Die Primitive Sonnenblume kann ab Stufe 2 für mehr Sonnenlicht sorgen.
+Die Urzeit-Sonnenblume kann ab Stufe 2 für mehr Sonnenlicht sorgen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_PRIMALSUNFLOWER]
-Welche Fähigkeit erhält die Primitive Sonnenblume ab Stufe 3?
+Welche Fähigkeit erhält die Urzeit-Sonnenblume ab Stufe 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_PRIMALSUNFLOWER]
 ca=Verwandelt Flammen in Irrlichter und erhöht so den Schaden. | Erzeugt immer zusätzliches Sonnenlicht. | Angriffe haben eine gewisse Chance, Zombies zu betäuben. | Es besteht die Möglichkeit, Eisscheiben zu werfen, die Zombies einfrieren. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_PRIMALSUNFLOWER]
 Wenn du die Frage richtig beantwortest, bist du ein Pflanzenmeister!
-Primitive Sonnenblumen produzieren ab Level 3 garantiert 100 Sonnenlicht.
+Urzeit-Sonnenblumen produzieren ab Level 3 garantiert 100 Sonnenlicht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_5_PRIMALSUNFLOWER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Primitive Sonnenblumen verstärken ihre Fähigkeiten ab Level 3 auf Level 2.
+Urzeit-Sonnenblumen verstärken ihre Fähigkeiten ab Level 3 auf Level 2.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_PRIMALSUNFLOWER]
-Welche Fähigkeiten erhält die Primitive Sonnenblume ab Level 4?
+Welche Fähigkeiten erhält die Urzeit-Sonnenblume ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_PRIMALSUNFLOWER]
 ca=Wahrscheinlichkeit, eine bestimmte Menge Sonnenlicht zurückzugeben, wenn sie gepflanzt wird | Wahrscheinlichkeit, einen Schild zu erhalten, wenn sie gepflanzt wird | Wahrscheinlichkeit, Fernkampfschaden zu verursachen, wenn sie gepflanzt wird | Wahrscheinlichkeit, den ultimativen Spezialdünger direkt auszulösen, wenn sie gepflanzt wird |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_PRIMALSUNFLOWER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Primitive Sonnenblume hat eine Chance, den ultimativen Spezialdünger-Attack direkt auszulösen, wenn sie nach Level 4 gepflanzt wird.
+Die Urzeit-Sonnenblume hat eine Chance, die Spezialdünger-Fähigkeit direkt auszulösen, wenn sie nach Level 4 gepflanzt wird.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_PRIMALSUNFLOWER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Die Primitive Sonnenblume kann den ultimativen Spezialdünger-Attack ab Level 4 häufiger auslösen.
+Die Urzeit-Sonnenblume kann die Spezialdünger-Fähigkeit ab Level 4 häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_PRIMALSUNFLOWER]
-Welche Fähigkeiten erhält die Primitive Sonnenblume ab Level 5?
+Welche Fähigkeiten erhält die Urzeit-Sonnenblume ab Level 5?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_PRIMALSUNFLOWER]
 ca=Erbsengeschosse werden zu Super-Erbsengeschossen aufgewertet | Blitzangriffe können zu Hochenergieblitzen werden | Blütenblätter leuchten auf, wenn Sonnenlicht erzeugt wird, und erzeugen zusätzliches Sonnenlicht, nachdem alle leuchten | Hinterlässt nach dem Tod eine kleine Kirschmine |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_PRIMALSUNFLOWER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Primitive Sonnenblumen leuchten ab Level 5, wenn Sonnenlicht erzeugt wird, und erzeugen zusätzliches Sonnenlicht, nachdem alle leuchten.
+Urzeit-Sonnenblumen leuchten ab Level 5, wenn Sonnenlicht erzeugt wird, und erzeugen zusätzliches Sonnenlicht, nachdem alle leuchten.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_PRIMALSUNFLOWER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Primitive Sonnenblumen können ab Level 5 verstärkt Sonnenlicht produzieren.
+Urzeit-Sonnenblumen können ab Level 5 verstärkt Sonnenlicht produzieren.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_PRIMALSUNFLOWER]
 Was ist der ultimative Angriffszug der Spezialdünger-Fähigkeit der Ur-Sonnenblume?
@@ -65258,14 +65261,14 @@ Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Ab Level 4 kann der Hochnuss die Spezialdünger-Fähigkeit häufiger einsetzen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_TALLNUT]
-Was ist die ultimative Attacke der Spezialdünger-Fähigkeit des Hochnusses?
+Was ist die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit des Hochnusses?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_TALLNUT]
 ca=Stahlpanzerung erhalten | Umliegende Pflanzen heilen | Große Edelsteine abschießen, die Zombies Schaden zufügen können | 3 Brandbomben abschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die ultimative Attacke der Spezialdünger-Fähigkeit des Hochnusses ist, Stahlpanzerung zu erhalten.
+Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit des Hochnusses ist, Stahlpanzerung zu erhalten.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_TALLNUT]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
@@ -65597,25 +65600,25 @@ Das Tintenfischkostüm kann den ultimativen Sprungdruck verstärken.
 ^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Squash springt und zerquetscht zwei Raster im Feld und springt schließlich zum Ursprung zurück.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_PRIMALSUNFLOWER]
-Prismatisches Gras hat eine hohe Schadenskraft, setzt aber ausreichend Sonnenlicht als Munition voraus. Primitive Sonnenblume kann diese Aufgabe erfüllen.
+Das Vergrößerungsgrass hat eine hohe Schadenskraft, setzt aber ausreichend Sonnenlicht als Munition voraus.Die Urzeit-Sonnenblume kann diese Aufgabe erfüllen.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_ELECTRICBLUEBERRY]
-Nachdem die elektrische Blaubeere auf Stufe 3 verbessert wurde, erweitert sich die Verfolgungsreichweite auf das gesamte Feld. Spieler können Schock-Blaubeeren überall auf dem Feld pflanzen. Dadurch werden die Pflanzenformationen flexibler und können mit mehr Zombie-Geländearten umgehen.
+Nachdem die elektrische Blaubeere auf Stufe 3 verbessert wurde, erweitert sich die Verfolgungsreichweite auf das gesamte Feld. Spieler können Elektro-Blaubeeren überall auf dem Feld pflanzen. Dadurch werden die Pflanzenformationen flexibler und können mit mehr Zombies umgehen.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_TALLNUT]
-Wenn die Große Nuss auf Stufe 3 verbessert wird, fällt sie nach rechts, wenn sie stirbt, und verursacht Flächenschaden. Obwohl sie keine riesigen Zombies töten kann, reicht sie für gewöhnliche Zombies völlig aus.
+Wenn die Hochwall-Nuss auf Stufe 3 verbessert wird, fällt sie nach rechts, wenn sie stirbt, und verursacht Flächenschaden. Obwohl sie keine Gargantua Zombies töten kann, reicht sie für gewöhnliche Zombies völlig aus.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_CHOMPER]
 Der Schnapper ignoriert die Gesundheit von Zombies und verschlingt kleine Zombies gleichen Levels mit einem Biss.Er kann sogar Zombies mit besonderen Fähigkeiten verschlingen und deren Fähigkeiten dadurch unbrauchbar machen.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_SQUASH]
-Der Kürbis kann allen Zombies in einem einzigen Feld Schaden zufügen. Wenn du versuchst, die Zombies an einem Punkt zu sammeln, kannst du die Rolle des Kürbisses maximieren.
+Der Matschkürbis kann allen Zombies in einem einzigen Feld Schaden zufügen. Wenn du versuchst, die Zombies an einem Punkt zu sammeln, kannst du die Stärke des Matschkürbis maximieren.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_PRIMALSUNFLOWER]
 Die aus Radieschensteinen umgewandelten Energieplättchen können die darauf gepflanzten Pflanzen ihre ultimativen Attacken gleichzeitig auslösen lassen, und ihre zusätzliche Fähigkeit ist sehr stark. Allerdings steigt mit jeder Pflanzung der benötigte Sonnenlichtbedarf exponentiell an, und nur Pflanzen mit hoher Sonnenlichtausbeute können den Anforderungen für eine Massenpflanzung gerecht werden.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_ELECTRICBLUEBERRY]
-Nachdem die elektrische Blaubeere auf Stufe 4 aufgewertet wurde, ist die Wahrscheinlichkeit höher, dass sie ihre ultimative Attacke direkt nach der Pflanzung auslöst, und die Abkühlzeit der Pflanzung ist kurz. Daher kannst du Massenpflanzungen oder sogar Schaufeln und Neupflanzen einsetzen, um den Schaden zu erhöhen.
+Nachdem die elektrische Blaubeere auf Stufe 4 aufgewertet wurde, ist die Wahrscheinlichkeit höher, dass sie ihre Spezialdünger-Fähigkeit direkt nach der Pflanzung auslöst, und die Abkühlzeit der Pflanzung ist kurz. Daher kannst du Massenpflanzungen oder sogar Schaufeln und Neupflanzen einsetzen, um den Schaden zu erhöhen.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_TALLNUT]
 Flinke Hühner und Eiswiesel können dank ihres Geschwindigkeitsvorteils das Feuernetzwerk weitreichender Pflanzen leicht durchbrechen. Um sie aufzuhalten, braucht man eine robuste, große Nuss.
@@ -70220,7 +70223,7 @@ Erlerne die Fertigkeit „Schnellinstallation“, um die Vorbereitungszeit von K
 Verstärke den Effekt der Schnellinstallation, damit Kartoffelminen direkt nach dem Einpflanzen vorbereitet werden können.
 
 [POTATOMINE_NEW_SKILL_LEVEL4_DES]
-Es besteht eine geringe Chance, die ultimative Fertigkeit „Spezialdünger-Attacke“ direkt beim Einpflanzen freizusetzen!
+Es besteht eine geringe Chance, die ultimative Fertigkeit „Spezialdünger-Fähigkeit“ direkt beim Einpflanzen freizusetzen!
 
 [POTATOMINE_PLANTFOOD_DESCRIPTION]
 Kartoffelminen werden sofort vorbereitet und in zwei fertige Kartoffelminen aufgeteilt.
@@ -70238,7 +70241,7 @@ Nachdem der Kohlkrug die Fähigkeit „Schattenlose Hand“ erlernt hat, erhöht
 Der Effekt der Fähigkeit „Schattenlose Hand“ erhöht sich um 100% und die Angriffsgeschwindigkeit um 50%.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [CABBAGEPULT_NEW_SKILL_LEVEL5_DES]
 Der vom Kohlkrug geworfene Kohl wird zu Goldkohl aufgewertet, der sich in der Luft spaltet und einem einzelnen Zombie 2–3 Schadenspunkte zufügt.
@@ -70259,7 +70262,7 @@ Ice BURG hat gelernt, aus der Ferne anzugreifen. Erscheint ein Zombie innerhalb 
 Er beherrscht den Fernangriff. Die Angriffsreichweite der abgefeuerten Schneebälle erhöht sich um zwei Felder, und der Schaden steigt auf 40 Punkte.
 
 [ICEBURG_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken direkt auszulösen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ICEBURG_PLANTFOOD_DESCRIPTION]
 Ice BURG erzeugt eine eisige Aura auf dem gesamten Bildschirm und friert alle Zombies im Feld 15 Sekunden lang ein.
@@ -70277,7 +70280,7 @@ Für jeden Bumerang-Shooter auf dem Feld reduzieren sich die Kosten für die nä
 Die Wirkung der verknüpften Fertigkeit wird verstärkt, und jeder Bumerang-Shooter reduziert die Anzahl der Sonnenlichtpunkte um 10 Punkte. Dadurch kann der maximale Sonnenlichtverbrauch auf 50 Punkte reduziert werden.
 
 [BLOOMERANG_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BLOOMERANG_PLANTFOOD_DESCRIPTION]
 Der Bumerang-Shooter dreht sich schnell und schießt 10 Bumerangs in alle vier Richtungen. Er durchdringt alle Zombies und fügt ihnen Schaden zu. Nach Erreichen der Feldgrenze kehrt er zurück und verursacht 2 Schadenspunkte.
@@ -70295,7 +70298,7 @@ Nach dem Pflanzen von Zwillingssonnenblumen produzieren diese sofort 50 Sonnenli
 Nach dem Pflanzen der Zwillingssonnenblume erzeugt sie sofort 150 Sonnenlicht.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacken-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL5_DES]
 Wenn die Zwillingssonnenblume Sonnenlicht erzeugt, besteht eine 30%ige Chance, eine zusätzliche Sonnenbombe zu erzeugen. Die Zwillingssonnenblume wirft die Sonnenbombe auf eine zufällige Zombieposition und verursacht 2000 Explosionsschaden an Zombies in Reichweite.
@@ -70316,7 +70319,7 @@ Caiwen kann alle 15 Angriffe einen Aufwärtshaken einsetzen, um den Zombie vorü
 Caiwen kann alle 7 Angriffe einen Aufwärtshaken einsetzen, um den Zombie vorübergehend schweben zu lassen.
 
 [BONKCHOY_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Attacke direkt einzusetzen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [BONKCHOY_NEW_SKILL_LEVEL5_DES]
 Nach zwei Aufwärtshaken fügt Caiwen einen Bodenschlag hinzu, der einem einzelnen Zombie im Umkreis von einem Feld rechts 145 Schaden und anderen Zombies im Umkreis von 45 Flächenschaden zufügt.
@@ -70337,7 +70340,7 @@ Schaltet einen mächtigen Auswurf frei, der bei jedem Aufprall eine Chance von 1
 Die Auslösewahrscheinlichkeit des mächtigen Auswurfs ist um 100% erhöht.
 
 [SPRINGBEAN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SPRINGBEAN_PLANTFOOD_DESCRIPTION]
 Nach dem Aufspringen der Frühlingsbohne schlägt sie heftig auf dem Boden auf, und alle Zombies auf dem Bildschirm werden 1,25 Felder weit zurückgeworfen. Anschließend wird eine Pause eingelegt.
@@ -70355,7 +70358,7 @@ Nachdem 15 Zombies getötet wurden, verwandelt sich der Stachel in einen heftige
 Das Wachstum wird beschleunigt. Nach dem Töten von 5 Zombies verwandelt sich der Stachel in einen heftigen Geisterstachel und die Angriffskraft erhöht sich auf 30.
 
 [SPIKEWEED_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SPIKEWEED_PLANTFOOD_DESCRIPTION]
 Der Stachel durchdringt kontinuierlich die Reihe, zieht alle Zombies in der Reihe auf das Feld, auf dem sich der Stachel befindet, und verursacht Schaden.
@@ -70373,7 +70376,7 @@ Jeder Angriff hat eine 50%ige Chance, blauen Drachenatem auszuspucken, der allen
 Nach dem Training kann das Feuerdrachengras blauen Drachenatem ausspucken, der allen Zombies im Umkreis bei jedem Angriff 78 Schaden zufügt.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen.
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 50%ige Chance, einen weiteren Feuerdrachen zu kondensieren, der der gesamten Reihe 3600 Feuerschaden zufügt.
@@ -70385,13 +70388,13 @@ Das Feuerdrachengras fliegt hoch und spuckt Flammen im 3×3-Bereich rechts, die 
 Die Feuerdrachenpflanze fliegt hoch und spuckt Flammen im 4×3-Bereich ^oldclr^ rechts von ^ff0000^, die allen Zombies Schaden zufügen.
 
 [POWERLILY_NEW_SKILL_LEVEL1_DES]
-Sie blüht sofort nach dem Pflanzen und produziert eine Spezialdünger-Attacke.
+Sie blüht sofort nach dem Pflanzen und produziert eine Spezialdünger-Fähigkeit.
 
 [POWERLILY_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacke-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
 
 [POWERLILY_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacke-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
 
 [SQUASH_NEW_SKILL_LEVEL1_DES]
 Wenn Zombies ein Feld links und rechts vom Kürbis erscheinen, starrt der Kürbis sie an, springt dann hoch und fügt den Zombies im Umkreis von einem Feld Schaden zu.
@@ -70403,7 +70406,7 @@ Nach dem Springen besteht eine 20%ige Chance, dass es nicht verschwindet und sof
 Nach dem Springen besteht eine 40%ige Chance, dass es nicht verschwindet und sofort einmal nach unten drückt.
 
 [SQUASH_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, dass die Spezialdünger-Attacke direkt freigesetzt wird. Große Bewegung!
+Beim Einpflanzen besteht eine mittlere Chance, dass die Spezialdünger-Fähigkeit direkt freigesetzt wird. Große Bewegung!
 
 [SQUASH_PLANTFOOD_DESCRIPTION]
 Springe sofort hoch und springe zufällig zu den beiden Gittern mit den höchsten Lebenspunkten auf dem Feld. Zerstöre dann das Gitter an der Stelle, an der es sich befindet.
@@ -70421,7 +70424,7 @@ Das von Zombies freigesetzte Giftgas wurde verbessert (^848484^BetäubungⅠ^old
 Das von Zombies freigesetzte Giftgas ist heftiger und die Dauer (^848484^BetäubungⅠ^oldclr^) wurde auf 10 Sekunden verlängert.
 
 [CHILIBEAN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen !
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen !
 
 [CHILIBEAN_PLANTFOOD_DESCRIPTION]
 Der Kroton nutzt seine ganze Kraft, um Giftgas auszustoßen, teilt sich in drei Krotons und wirft sie zufällig auf die leeren Felder.
@@ -70439,7 +70442,7 @@ Bei jedem Angriff nach links besteht eine 40%ige Chance, eine Eiserbse nach link
 Jeder Angriff nach rechts feuert mit einer 60%igen Chance eine Feuererbse mit 80 Schaden nach rechts ab.
 
 [SPLITPEA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt mit einem großen Angriff auszulösen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff auszulösen!
 
 [SPLITPEA_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 50%ige Chance, einen zusätzlichen Feuerdrachen zu kondensieren, der der gesamten Reihe 3600 Feuerschaden zufügt.
@@ -70460,19 +70463,19 @@ Die Angriffsreichweite der Chilischote verändert sich zu einem Flammenkreuz, da
 Reduziert den Sonnenlichtverbrauch. Der Sonnenlichtverbrauch beim Pflanzen wird auf 100 reduziert.
 
 [JALAPENO_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [JALAPENO_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [GRAVEBUSTER_NEW_SKILL_LEVEL1_DES]
 Kann auf einem Grabstein gepflanzt werden. Nach dem Pflanzen verzehrt sie den Grabstein innerhalb von 4,5 Sekunden.
 
 [GRAVEBUSTER_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [GRAVEBUSTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [SNOWPEA_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie vor dem Eisschützen erscheint, feuert dieser Eiserbsen ab, um den Zombie anzugreifen und das getroffene Ziel 10 Sekunden lang mit Eis zu verlangsamen.
@@ -70484,7 +70487,7 @@ Jedes Mal, wenn du eine Erbse abfeuerst, besteht eine Chance von 15%, einen Eiss
 Jedes Mal, wenn du eine Erbse abfeuerst, besteht eine Chance von 30%, einen Eisstachel mit 120 Schaden pro Schuss abzufeuern.
 
 [SNOWPEA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt freizusetzen – ein großer Angriff!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
 
 [SNOWPEA_NEW_SKILL_LEVEL5_DES]
 Es besteht die Chance, einen verstärkten Eisstachel abzufeuern, der den Zombie nach dem Aufprall einfriert. Die Explosion verursacht Schaden an den Zombies innerhalb eines Rasters. Der Eisboden in diesem Raster bleibt 3 Sekunden lang bestehen und wirkt auf die Zombies auf dem Eisboden verlangsamend.
@@ -70505,7 +70508,7 @@ Der Fackelholzstumpf wird widerstandsfähiger und sein Lebenswert steigt auf 150
 Der Fackelholzstumpf wird stärker und sein Lebenswert steigt auf 4500.
 
 [TORCHWOOD_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TORCHWOOD_PLANTFOOD_DESCRIPTION]
 Wenn der Flammenstumpf wütender wird, verfärben sich seine Flammen blau und verwandeln die vorbeifliegenden Erbsen in blaue Feuererbsen. Der Schaden verdoppelt sich.
@@ -70523,7 +70526,7 @@ Bei jedem fünften Angriff feuert der Maiskrug eine Maisrakete mit 150 Schaden a
 Bei jedem dritten Angriff feuert er eine Maisrakete mit 200 Schaden auf böse Zombies ab.
 
 [KERNELPULT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die ultimative Spezialdünger-Attacke einzusetzen! Der Schaden der Maisrakete wurde auf 250 Punkte erhöht.
+Beim Einpflanzen besteht eine geringe Chance, die ultimative Spezialdünger-Fähigkeit einzusetzen! Der Schaden der Maisrakete wurde auf 250 Punkte erhöht.
 
 [KERNELPULT_PLANTFOOD_DESCRIPTION]
 Der Maiskrug sammelt Butter und schleudert sie sofort in die Luft. Dadurch wird ein Stück Butter auf Zombies auf dem gesamten Bildschirm geschleudert, was Schaden verursacht und sie bewegungsunfähig macht.
@@ -70541,7 +70544,7 @@ Nach dem Blitzangriff besteht eine 7%ige Chance, die Zombies ^ff9600^Ⅰ^oldclr^
 Die Wahrscheinlichkeit, dass hochenergetische Blitze die Fertigkeit auslösen, ist erhöht. Nach dem Angriff besteht eine 15%ige Chance, die Zombies ^ff9600^Ⅰ^oldclr^1 Sekunde lang zu lähmen.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [LIGHTNINGREED_PLANTFOOD_DESCRIPTION]
 Sammle die Kraft von Donner und Blitz, um eine Gewitterwolke zu erzeugen, die Zombies kontinuierlich angreifen kann. Die Gewitterwolke hält 15 Sekunden lang an.
@@ -70559,7 +70562,7 @@ Die Ruhezeit nach dem Abfeuern der Kokosnussschale wird auf 11,25 Sekunden verk�
 Die Ruhezeit nach dem Abfeuern einer Kokosnussschale wurde auf 9 Sekunden verkürzt.
 
 [COCONUTCANNON_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [COCONUTCANNON_NEW_SKILL_LEVEL5_DES]
 Die abgefeuerte Schale verspritzt Kokosnussmark und verursacht 250 Schaden bei bis zu fünf Zombies in Angriffsreichweite.
@@ -70580,7 +70583,7 @@ Alle 60 Sekunden wächst automatisch eine Erbsenschote, bis zu fünf.
 Alle 40 Sekunden wächst automatisch eine Erbsenschote, bis zu fünf.
 
 [PEAPOD_NEW_SKILL_LEVEL4_DES]
-Beim ersten Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim ersten Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [PEAPOD_PLANTFOOD_DESCRIPTION]
 Die Erbsenschote schleudert fünf große Erbsen mit dem 20-fachen Schaden ihrer eigenen Angriffskraft.
@@ -70598,7 +70601,7 @@ Befinden sich zwei oder mehr Zombies im Angriffsbereich, hat der Wassermelonenkr
 Wenn sich zwei oder mehr Zombies in Angriffsreichweite befinden, hat der Wassermelonenwerfer eine 50%ige Chance, zwei Wassermelonen abzufeuern.
 
 [MELONPULT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [MELONPULT_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 25%ige Chance, drei Wassermelonenscheiben mit 300 Schaden und 60 Flächenschaden im umliegenden 3×3-Bereich abzufeuern.
@@ -70613,10 +70616,10 @@ Der Wassermelonenkrug verwandelt sich in eine Wassermelonenkanone und feuert kon
 Die Aubergine verwandelt sich in die vorherige Pflanze im Pflanzenslot. Die Verwandlung dauert beim Einpflanzen nur kurz.
 
 [IMITATER_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [IMITATER_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [REPEATER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Doppelshooter erscheint, feuert dieser jede Runde zwei Erbsen ab, um den Zombie anzugreifen.
@@ -70628,7 +70631,7 @@ Es besteht eine 16%ige Chance, zwei Eis- oder Feuererbsen abzufeuern.
 Nachdem die Elementarkraft gemeistert wurde, besteht eine 32%ige Chance, Feuer- oder Eiserbsen abzufeuern, und eine 16%ige Chance, Geister-Feuererbsen abzufeuern.
 
 [REPEATER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [REPEATER_PLANTFOOD_DESCRIPTION]
 Der Doppelschütze feuert 60 Erbsen hintereinander und eine Riesenerbse ab, die die 20-fache Angriffskraft ihrer eigenen verursacht.
@@ -70646,7 +70649,7 @@ Ein plötzlicher Angriff aus dem Untergrund hat eine Chance von 20%, einen 1-sek
 Bei einem plötzlichen Angriff aus dem Untergrund besteht eine Chance von 40%, einen 1-sekündigen Immobilisierungseffekt zu verursachen.
 
 [SPIKEROCK_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SPIKEROCK_PLANTFOOD_DESCRIPTION]
 Pflanzenfolie zieht Zombies in dieser Reihe zu dem Feld, in dem sich die Pflanzenfolie befindet, und verursacht Schaden.
@@ -70664,7 +70667,7 @@ Nach dem Fressen besteht eine 50%ige Chance, dass der riesige Körper der Große
 Nach dem Fressen besteht eine 100%ige Chance, dass der riesige Körper der Großen Nuss herunterfällt und 600 Schaden verursacht.
 
 [TALLNUT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TALLNUT_PLANTFOOD_DESCRIPTION]
 Die Große Nuss trägt eine Schicht aus harter Stahlpanzerung.
@@ -70682,7 +70685,7 @@ Beim Angriff besteht eine 25%ige Chance, zwei Erbsensalven gleichzeitig abzufeue
 Die Wahrscheinlichkeit, dass die Fertigkeit „Doppelschlag“ ausgelöst wird, erhöht sich um 100%, und die Chance, zwei Erbsensalven gleichzeitig abzufeuern, beträgt 50%.
 
 [THREEPEATER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [THREEPEATER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine Wahrscheinlichkeit von 30%, Eiserbsengeschosse abzufeuern, eine Wahrscheinlichkeit von 30%, rote Feuererbsengeschosse abzufeuern und eine Wahrscheinlichkeit von 10%, blaue Feuererbsengeschosse abzufeuern.
@@ -70703,7 +70706,7 @@ Kann kalte Eiswürfel werfen und Zombies mit einer Chance von 7% für 2 Sekunden
 Höhere Chance, kalte Eiswürfel zu werfen und Zombies mit einer Chance von 15% für 2 Sekunden einzufrieren.
 
 [WINTERMELON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, Spezialdünger-Attacken direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Chance, Spezialdünger-Fähigkeitn direkt freizusetzen!
 
 [WINTERMELON_NEW_SKILL_LEVEL5_DES]
 Es besteht eine Chance von 40%, drei Eisscheiben mit 300 Schaden zu werfen und Zombies für 2 Sekunden einzufrieren. Eisscheiben können außerdem einen Spritzeffekt verursachen, der Zombies im Umkreis von 3×3 60 Schaden zufügt.
@@ -70724,10 +70727,10 @@ Nach der Explosion besteht eine 50%ige Chance, eine kleine Kirsche mit einem Sch
 Nach der Explosion besteht eine 100%ige Chance, eine kleine Kirsche mit einem Schaden von 1800 und einer Explosionsreichweite von 1×2 zu hinterlassen.
 
 [CHERRY_BOMB_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [CHERRY_BOMB_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [PEACH_NEW_SKILL_LEVEL1_DES]
 Der Feenpfirsich kann Lichtwellen aussenden, um Pflanzen in einem 3×3 großen Bereich um sich selbst herum zu heilen. Dadurch werden 150 Lebenspunkte aller Pflanzen wiederhergestellt. Wiederholt sich alle 5 Sekunden.
@@ -70739,7 +70742,7 @@ Der Feenpfirsich kann nicht nur Lebenspunkte wiederherstellen, sondern auch die 
 Pfirsiche können nicht nur Gesundheit wiederherstellen, sondern auch die Angriffskraft der wiederhergestellten Pflanzen innerhalb von 5 Sekunden um 10% erhöhen.
 
 [PEACH_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt einzusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [PEACH_PLANTFOOD_DESCRIPTION]
 Segne die Pflanzen im Umkreis von 3×3 und mache sie 5 Sekunden lang unbesiegbar.
@@ -70757,7 +70760,7 @@ Gekonntes Meistern der Flammen erhöht die Dauer jeder Stufe des Flammenstrahls 
 Weiteres Üben erhöht die Dauer jeder Stufe des Flammenstrahls auf 4 Sekunden.
 
 [FIREGOURD_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen – große Aktion!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – große Aktion!
 
 [FIREGOURD_PLANTFOOD_DESCRIPTION]
 Der Feuerkürbis spuckt Flammen mit hohem Angriffspotenzial auf die Hauptlinie und verfällt dann in einen Ruhezustand.
@@ -70775,7 +70778,7 @@ Nach dem Üben mit weißem Rettich erhält weißer Rettich Angriffsfähigkeit un
 Mit fortschreitendem Üben verbessert sich die Angriffskraft von weißem Rettich weiter und erhöht sich um 10 Punkte.
 
 [TURNIP_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen.
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [TURNIP_PLANTFOOD_DESCRIPTION]
 Weißer Rettich platziert sofort einen weißen Rettich auf dem leeren Feld und hat Vorrang vor der Reihe ohne weißen Rettich.
@@ -70793,7 +70796,7 @@ Der harte Bambusspross durchbricht den Boden und wehrt Zombies mit einer Wahrsch
 Mit eingehender geologischer Forschung können Bambussprossen Schwachstellen im Boden finden und Zombies mit einer Wahrscheinlichkeit von 10% abwehren.
 
 [BAMBOO_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, Spezialdünger-Attacken direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, Spezialdünger-Fähigkeitn direkt freizusetzen!
 
 [BAMBOO_PLANTFOOD_DESCRIPTION]
 Die Bambussprossen bohren sich in den Boden und stechen große Bambussprossen an die Füße von 4 Zombies auf dem Feld, um anzugreifen.
@@ -70811,7 +70814,7 @@ Halte das Prismengras gedrückt, um 100 Sonnenlicht zu verbrauchen und eine Lich
 Halte das Prismengras gedrückt, um 100 Sonnenlicht zu verbrauchen und einen Lichtstrahl mit vierfacher Angriffskraft auf die Zombies abzufeuern.
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 40%ige Chance, drei Eismelonenscheiben mit 300 Schaden zu werfen und die Zombies 2 Sekunden lang einzufrieren. Die Eismelonenscheiben können außerdem einen Spritzeffekt verursachen, der Zombies im Umkreis von 3×3 60 Schaden zufügt.
@@ -70832,7 +70835,7 @@ Laserbohne kann zwei Laserstrahlen gleichzeitig abfeuern und erhöht so den Scha
 Feuert kontinuierlich und ohne Verzögerung Laserstrahlen ab. Dadurch wird der Schaden jedes Lasersegments reduziert, der Gesamtschaden pro Sekunde jedoch um 35% erhöht.
 
 [LASER_BEAN_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [LASER_BEAN_NEW_SKILL_LEVEL5_DES]
 Laser Bean wird alle 15 Sekunden oder bei einer starken Attacke verstärkt. In diesem Zustand erhöht sich Laser Beans normaler Angriffsschaden um 100%. Die starke Attacke von Energy Bean hinterlässt eine elektrische Markierung, die innerhalb von drei Sekunden insgesamt 1500 Schaden verursacht.
@@ -70855,7 +70858,7 @@ Die Sternfrucht hat eine 40%ige Chance, einen Sternpfeil abzufeuern, der zwei Zo
 Die Sternfrucht hat eine 40%ige Chance, einen Sternpfeil abzufeuern, der drei Zombies durchdringen und Schaden verursachen kann.
 
 [STARFRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [STARFRUIT_PLANTFOOD_DESCRIPTION]
 Die Sternfrucht strahlt am ganzen Körper Licht aus und schießt große Sterne in alle Angriffsrichtungen.
@@ -70966,7 +70969,7 @@ Die Wahrscheinlichkeit, beim Pflanzen direkt die Spezialdünger-Fähigkeit  frei
 Die kleinen Puffpilze sind vereint. Wenn der kleine Puffpilz seine große Attacke ausführt, versprühen alle Puffpilze gemeinsam Sporen, und seine Lebensdauer wird auf 60 Sekunden zurückgesetzt.
 
 [PUFFSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Puffpilze versammeln sich. Wenn die Puffpilze ihre ultimative Attacke ausführen, versprühen alle gemeinsam ^ff0000^ Sporen mit hohem Schaden, ^oldclr^ und stellen die Lebensdauer der Puffpilze auf 60 Sekunden zurück.
+Die Puffpilze versammeln sich. Wenn die Puffpilze ihre Spezialdünger-Fähigkeit ausführen, versprühen alle gemeinsam ^ff0000^ Sporen mit hohem Schaden, ^oldclr^ und stellen die Lebensdauer der Puffpilze auf 60 Sekunden zurück.
 
 [HYPNOSHROOM_NEW_SKILL_LEVEL1_DES]
 Der Zauberpilz enthält ein spezielles Gift für Zombies. Zombies, die ihn fressen, werden ^ff4284^Zauber I^oldclr^ und wenden sich dem Kampf zu.
@@ -71230,7 +71233,7 @@ Jede wiederhergestellte Bowlingkugel hat eine Chance von 25%, zwei Bowlingkugeln
 Jede wiederhergestellte Bowlingkugel hat eine Chance von 40%, alle Bowlingkugeln zu regenerieren.
 
 [BOWLINGBULB_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt zu aktivieren!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt zu aktivieren!
 
 [BOWLINGBULB_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 20%ige Chance, eine große Bowlingkugel mit 720 Schadenspunkten abzufeuern und die Fähigkeiten der zweiten und dritten Stufe zu aktivieren. Die große Bowlingkugel teilt sich nach dem Aufprall in drei Kugeln.
@@ -72385,10 +72388,10 @@ Die Anzahl der Abpraller der kleinen Trauben erhöht sich auf das Sechsfache.
 Die Anzahl der Abpraller der kleinen Trauben erhöht sich auf das Siebenfache.
 
 [GRAPESHOT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [GRAPESHOT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie im 2×3-Bereich rechts erscheint, sprüht das Eisdrachengras Eis, um den Zombie vor ihm einzufrieren. Dadurch wird seine Angriffsreichweite abgedeckt und seine Geschwindigkeit verringert.
@@ -72400,7 +72403,7 @@ Beim Angriff besteht eine Chance von 5,5%, 180 Schaden zu verursachen, was den Z
 Beim Angriff besteht eine Chance von 10,5%, 320 Schaden zu verursachen, was den Zombie für ^0072ff^Ⅰ^oldclr^3 Sekunden einfrieren kann.
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, normalen Angriffen einen ungebremsten Eisdrachen hinzuzufügen, der den Landzombies dieser Reihe 3000 Schaden zufügt. Der Eisdrache kann die getroffenen Zombies 3 Sekunden lang in einen ^0072ff^FrozenⅠ^oldclr^-Zustand versetzen. Nach dem Auslösen werden sie 7 Sekunden lang verlangsamt und verlieren Frostatem und Eisatem.
@@ -72421,7 +72424,7 @@ Die Schrumpffähigkeit kann auch riesige Zombies beeinflussen.
 Schrumpft Zombies, verlangsamt sie um 70%, erhöht ihren erlittenen Schaden um 30% und reduziert ihren verursachten Schaden um 50%.
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Attacken-Fähigkeit direkt freizusetzen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL5_DES]
 Kann die geschrumpften Zombies ^848484^Ⅰ^oldclr^3,2 Sekunden lang betäuben.
@@ -72442,7 +72445,7 @@ Es besteht eine 15%ige Chance, ein Steingeschoss abzufeuern, das ein einzelnes G
 Die Wahrscheinlichkeit, dass Steingeschosse die Fertigkeit auslösen, ist erhöht. Beim Angriff besteht eine 25%ige Chance, ein Steingeschoss abzufeuern, und der Schaden wird auf 200 erhöht.
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Platzieren besteht eine mittlere Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Platzieren besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL5_DES]
 Schwere Geschosse und Steingeschosse werden zu Lavageschossen aufgewertet, die Zombies innerhalb eines Gitterbereichs definitiv Schaden zufügen und sie zurückstoßen oder betäuben. Während des Fluges verstreut es außerdem Lava mit einem Schaden von 180/Sekunde für 2 Sekunden.
@@ -72520,7 +72523,7 @@ Die Einsatzzeit ist 40% schneller und in 10 Sekunden einsatzbereit.
 Die Einsatzzeit ist 80% schneller und in 6 Sekunden einsatzbereit.
 
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Attacken-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [PRIMALPOTATOMINE_PLANTFOOD_DESCRIPTION]
 Stelle sofort auf und platziere eine primitive Kartoffelmine an zwei zufälligen Orten.
@@ -72538,7 +72541,7 @@ Beim Angriff besteht eine Chance von 25%, eine große Giftkugel mit doppeltem Sc
 Beim Angriff besteht eine Chance von 50%, eine große Giftkugel mit doppeltem Schaden auszuspucken.
 
 [DRAGONROAR_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [DRAGONROAR_NEW_SKILL_LEVEL5_DES]
 Nach Abschluss der Verdauung besteht eine Chance von 80%, eine Giftsäule mit 1500 Schaden auszuspucken, die der gesamten Zombiereihe Schaden zufügt und sie mit 15% Wahrscheinlichkeit 3 Sekunden lang in einen Gift-Verlangsamungszustand versetzt. Zombies im Zustand der Giftverlangsamung haben eine 20%ige Chance, eine Giftpfütze mit 300 Schaden auszuspucken.
@@ -72568,7 +72571,7 @@ Wenn rechts von der primitiven Rafflesia ein Zombie erscheint, spuckt diese eine
 90% Chance, nach dem Töten eines Zombies eine Giftexplosion mit 100 Schadenspunkten auszulösen.
 
 [PRIMALRAFFLESIA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [PRIMALRAFFLESIA_NEW_SKILL_LEVEL5_DES]
 Der von Rafflesia ausgespuckte Giftball löst beim Auftreffen eine Leichenexplosion aus, die der Spritzeinheit 80 Schaden zufügt.
@@ -72589,7 +72592,7 @@ Führe nach jedem Nunchaku-Angriff einen Drachenkönig-Schlag aus, der 75 Schade
 Die Angriffsreichweite von Nunchaku und Drachenkönig-Schlag erhöht sich um 1 Raster.
 
 [DRAGONCANE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [DRAGONCANE_NEW_SKILL_LEVEL5_DES]
 Führe nach jeweils 6 Nunchaku-Treffern einen Drachenkönig-Schlag aus, der Zombies mit einer Chance von 60% zurückstößt.
@@ -72610,7 +72613,7 @@ Die Ruhezeit der Maiskanone wurde auf 42 Sekunden reduziert.
 Die Ruhezeit der Maiskanone wurde auf 35 Sekunden reduziert.
 
 [COBCANNON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken direkt einzusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [COBCANNON_NEW_SKILL_LEVEL5_DES]
 Die Maiskanone ist mit einem automatischen Raketensystem ausgestattet, das alle 4 Sekunden zwei Zielraketen mit einem Schaden von 210 abfeuert.
@@ -72631,7 +72634,7 @@ Nach jedem Angriff besteht eine 25%ige Chance auf Fehlzündung, und eine zusätz
 Die Chance, die Fehlzündungsfertigkeit auszulösen, erhöht sich um 100%, und die Wahrscheinlichkeit einer Fehlzündung beträgt nach jedem Angriff 50%.
 
 [APPLEMORTAR_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Attacke direkt auszulösen – ein großer Move!
+Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen – ein großer Move!
 
 [APPLEMORTAR_NEW_SKILL_LEVEL5_DES]
 Die Apfelkernbombe wurde zu einer goldenen Apfelbombe aufgewertet. Diese kann Schaden im Umkreis von einem Block verursachen und einen einzelnen Zombie 0,5 Sekunden lang betäuben.
@@ -72652,7 +72655,7 @@ Verleiht den kleinen Puffpilzen, die durch den Zauber verwandelt werden, einen 3
 Die Vorbereitungszeit für den Zauber wird auf 13 Sekunden reduziert.
 
 [WITCHHAZEL_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [WITCHHAZEL_NEW_SKILL_LEVEL5_DES]
 Beim Wirken des Zaubers besteht eine 30%ige Wahrscheinlichkeit, zwei Zombies zu treffen.
@@ -72673,7 +72676,7 @@ Die Vorbereitungszeit wird um 40% beschleunigt und die Wurzel ist in 6 Sekunden 
 Die Vorbereitungszeit wird um 80% beschleunigt und ist in 2 Sekunden abgeschlossen.
 
 [ESCAPEROOT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ESCAPEROOT_NEW_SKILL_LEVEL5_DES]
 Wenn die Pflanze mit dem ultimativen Move zum ersten Mal die Position mit der Fluchtwurzel tauscht, wird der ultimative Move ausgelöst.
@@ -72694,7 +72697,7 @@ Die Angriffskraft von elektrischem Strom erhöht sich um 20%.
 Von elektrischem Strom betroffene Zombies verursachen 50% Schaden an Zombies im Umkreis von 3x3 um sie herum.
 
 [ELECTRICCURRANT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ELECTRICCURRANT_NEW_SKILL_LEVEL5_DES]
 Die Nahkampfschadensreichweite wurde auf einen 3×3 großen, auf sich selbst zentrierten Bereich geändert.
@@ -72715,7 +72718,7 @@ Es besteht eine 10-prozentige Chance, zwei Zombies gleichzeitig zurückzustoßen
 Die Rückstoßdistanz wird auf 2–4 Felder erhöht.
 
 [WHITEMELON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacken-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [WHITEMELON_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 20%ige Chance, Zombies in einem 3x3-Bereich abzuwehren.
@@ -72736,7 +72739,7 @@ Die Vorbereitungszeit wurde um 25% auf 9 Sekunden reduziert. Die Obergrenze für
 Die Vorbereitungszeit wurde um 50% auf 6 Sekunden reduziert. Die Obergrenze für Zombies, die ^ff4284^ Charm I^oldclr^ einsetzen können, wurde auf Stufe 4 erhöht.
 
 [CAULIPOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Spezialdünger-Attacken direkt auszulösen! Die Obergrenze der Zombies, die mit ^ff4284^ bezaubert werden können, wurde auf Stufe 5 geändert.
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen! Die Obergrenze der Zombies, die mit ^ff4284^ bezaubert werden können, wurde auf Stufe 5 geändert.
 
 [CAULIPOWER_NEW_SKILL_LEVEL5_DES]
 Super-Blumenkohl hat eine Chance von 25%, eine farbige Lichtwelle auszusenden und beendet die Schlafphase sofort.
@@ -72757,10 +72760,10 @@ Nach dem Fressen besteht eine Chance von 10%, den ursprünglichen Zombie um 1 Fe
 Nach dem Fressen besteht eine Chance von 20%, den ursprünglichen Zombie um 1 Feld zurückzudrängen.
 
 [SHADOWSHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SHADOWSHROOM_PLANTFOOD_DESCRIPTION]
-Der giftige Schattenpilz verströmt giftigen Nebel, der alle Zombies auf dem Bildschirm 30 Sekunden lang in den Zustand ^701edf^vergiftetⅠ^oldclr^ versetzt. Führt man die ultimative Attacke erneut aus, erleiden die Zombies sofort den verbleibenden Schaden und der vergiftete Zustand wird aufgehoben.
+Der giftige Schattenpilz verströmt giftigen Nebel, der alle Zombies auf dem Bildschirm 30 Sekunden lang in den Zustand ^701edf^vergiftetⅠ^oldclr^ versetzt. Führt man die Spezialdünger-Fähigkeit erneut aus, erleiden die Zombies sofort den verbleibenden Schaden und der vergiftete Zustand wird aufgehoben.
 
 [SHADOWSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
 ^ff0000^Die Gifte des giftigen Schattenpilzes färben sich grün, und der ausgestoßene giftige Nebel versetzt alle Zombies auf dem Bildschirm 30 Sekunden lang in den Zustand ^701edf^vergiftetⅠ^oldclr^ und verlangsamt sie. Das erneute Ausführen der ultimativen Attacke führt dazu, dass die Zombies sofort den verbleibenden Schaden erleiden und der vergiftete Zustand aufgehoben wird.
@@ -72775,7 +72778,7 @@ Wenn eine Schattenpflanze in der Mondlichtzone gepflanzt wird, hat die Mondblume
 Wenn eine Schattenpflanze in der Mondlichtzone gepflanzt wird, hat die Mondblume eine 20%ige Chance, sofort 25 Sonnenlicht zu erzeugen.
 
 [MOONFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [MOONFLOWER_NEW_SKILL_LEVEL5_DES]
 Superpflanze hat eine Chance von 25%, eine farbige Lichtwelle auszusenden, die Zombies tötet, die nicht bezaubert werden können.
@@ -72796,7 +72799,7 @@ Nach der Explosion besteht eine 10%ige Chance, eine Kartoffelmine zu erzeugen.
 Nach der Explosion besteht eine 20%ige Chance, eine Kartoffelmine zu erzeugen.
 
 [EXPLODEONUT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Spezialdünger-Attacken direkt auszulösen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [EXPLODEONUT_PLANTFOOD_DESCRIPTION]
 Die Explodierende Nuss trägt einen Stahlschild, der nach dem Verzehr ebenfalls explodiert.
@@ -72805,7 +72808,7 @@ Die Explodierende Nuss trägt einen Stahlschild, der nach dem Verzehr ebenfalls 
 Die Explodierende Nuss trägt einen ^ff0000^ dickeren Stahlschild ^oldclr^, der explodiert, sobald er aufgefressen wird.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie im Normalzustand ein Feld rechts von Nightshade, feuert Nightshade Blätter ab. Im Schattenzustand erstreckt sich die Angriffsreichweite über die gesamte Reihe, und alle 5 Sekunden wird ein Blatt wiederhergestellt.
+Erscheint ein Zombie im Normalzustand ein Feld rechts von Nachtschatten, feuert  Blätter ab. Im Schattenzustand erstreckt sich die Angriffsreichweite über die gesamte Reihe, und alle 5 Sekunden wird ein Blatt wiederhergestellt.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL2_DES]
 Wenn Moonflower einen Buff gewährt, erhöht sich ihre Blattregenerationsgeschwindigkeit, und alle 4,5 Sekunden wird ein Blatt wiederhergestellt.
@@ -72814,13 +72817,13 @@ Wenn Moonflower einen Buff gewährt, erhöht sich ihre Blattregenerationsgeschwi
 Wenn Moonflower einen Buff gewährt, erhöht sich ihre Blattregenerationsgeschwindigkeit, und alle 4 Sekunden wird ein Blatt wiederhergestellt.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen ist die Wahrscheinlichkeit gering, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Pflanzen ist die Wahrscheinlichkeit gering, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [NIGHTSHADE_PLANTFOOD_DESCRIPTION]
-Nightshades Blätter färben sich blau und feuern drei Blätter ab. Dadurch erhöht sich seine Angriffskraft im Normal- und Schattenzustand.
+Nachtschattens Blätter färben sich blau und feuern drei Blätter ab. Dadurch erhöht sich seine Angriffskraft im Normal- und Schattenzustand.
 
 [NIGHTSHADE_AVATAR_PLANTFOOD_DESCRIPTION]
-Nightshades AVATAR-Blätter färben sich blau^ff0000^ und feuern ein großes Blatt^oldclr^ ab. Dadurch erhöht sich seine Angriffskraft im Normal- und Schattenzustand.
+Nachtschattens Blätter färben sich blau^ff0000^ und er  feuert ein großes Blatt^oldclr^ ab. Dadurch erhöht sich seine Angriffskraft im Normal- und Schattenzustand.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL1_DES]
 Wenn rechts von Dusk Lobber ein Zombie erscheint, wirft Dusk Lobber explosive Früchte nach vorne. Die Kugeln verursachen Flächenschaden in der Umgebung, unabhängig davon, ob sie treffen oder landen. Im Schattenzustand kann Dusk Lobber drei Reihen gleichzeitig angreifen.
@@ -72832,7 +72835,7 @@ Beim Angriff besteht eine 10%ige Chance, rote Knospen zu werfen. Diese verursach
 Beim Angriff besteht eine 20%ige Chance, rote Blütenknospen zu werfen. Diese verursachen beim Treffer 160 Schaden und geben außerdem Pollen ab, der den Gegner 1,5 Sekunden lang betäubt.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Attacke direkt freizusetzen.
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine Chance von 25%, dass Samen im Wirkungsbereich fallen. Diese Samen wachsen zu Dornen heran, die 1000 Schaden absorbieren und Zombies fesseln können, bis die Ranken zerstört sind.
@@ -72853,7 +72856,7 @@ Beim Angriff haben Glockenblumen eine 50%ige Chance, eine Markierung zu erzeugen
 Beim Angriff hinterlassen Glockenblumen definitiv eine Markierung. Glockenblumen greifen vorrangig die markierten Zombies an.
 
 [bloominghearts_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [bloominghearts_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 25%ige Chance, Samen im Wirkungsbereich fallen zu lassen. Diese Samen wachsen zu Dornen heran, die 1000 Schaden absorbieren und Zombies fesseln können, bis die Ranken zerstört sind.
@@ -72874,7 +72877,7 @@ Es besteht eine 10%ige Chance, dass die Blume nach dem Ziehen eines Zombies nich
 Nach dem Ziehen eines Zombies besteht eine 20%ige Chance, dass das Blütenblatt nicht verloren geht.
 
 [GRIMROSE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, dass die Spezialdünger-Attacke direkt freigesetzt wird! Die Chance, dass die Blütenstaubblätter beim Ziehen eines Zombies nicht verloren gehen, liegt bei 30%!
+Beim Pflanzen besteht eine geringe Chance, dass die Spezialdünger-Fähigkeit direkt freigesetzt wird! Die Chance, dass die Blütenstaubblätter beim Ziehen eines Zombies nicht verloren gehen, liegt bei 30%!
 
 [GRIMROSE_NEW_SKILL_LEVEL5_DES]
 Nachdem ein Zombie erfolgreich gezogen wurde, wirft die Dunkle Primel sofort eine Schattenbombe ab, die den Zombies in einem einzelnen Raster 1500 Schaden zufügt.
@@ -72895,7 +72898,7 @@ Scorching Wasabis Flammenpeitsche kann den getroffenen Zombie in einen ^ef0123^b
 Der Schaden von ^ef0123^burning Ⅰ^oldclr^ durch die Fertigkeit „Sengendes Brennen“ wird um 100% erhöht und verursacht 60 Schaden pro Sekunde.
 
 [WASABIWHIP_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [WASABIWHIP_NEW_SKILL_LEVEL5_DES]
 Alle 10 Sekunden hat „Sengendes Wasabi“ eine 20-prozentige Chance, eine Flammenpeitsche zu schwingen und einen Feuerball zu schleudern, der direkt nach rechts fliegt und 600 Schaden verursacht. Bei kleinen oder mittelgroßen Zombies ist der Schaden deutlich erhöht.
@@ -72916,7 +72919,7 @@ Beim Angriff besteht eine 10%ige Chance, diese Zange zu einer roten Zange aufzuw
 Die Auslösewahrscheinlichkeit der Tyrannenklaue erhöht sich um 100%. Beim Angriff besteht eine 20%ige Chance, diesen Klauenangriff zu einer roten Klaue aufzuwerten, wodurch sich der Schaden verdoppelt. Der Aufladeschaden der Windpastinaken erhöht sich auf 300.
 
 [PARSNIP_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen. Der Schaden der Riesenklaue des Windpastinaken wird auf 250 und der Angriffsschaden auf 375 erhöht.
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen. Der Schaden der Riesenklaue des Windpastinaken wird auf 250 und der Angriffsschaden auf 375 erhöht.
 
 [PARSNIP_NEW_SKILL_LEVEL5_DES]
 Der Windpastinaken kann einen Klauenangriff starten. Die Klauen fliegen nach rechts und fügen vorbeikommenden Zombies 450 Schaden zu. Anschließend kehren sie zurück und verursachen erneut Schaden. Der Schaden der Riesenklaue des Windpastinaken wird auf 300 und der Angriffsschaden auf 450 erhöht.
@@ -72937,7 +72940,7 @@ Die Mistelzweig-Eisfee hat die Fähigkeit erlernt, Eisenergie zu sammeln. Die Ru
 Der Effekt der Eisenergiereduktion wurde um 100% erhöht und die Ruhezeit auf 18 Sekunden reduziert.
 
 [MISSILETOE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, Spezialdünger-Attacken direkt freizusetzen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, Spezialdünger-Fähigkeitn direkt freizusetzen!
 
 [MISSILETOE_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 80-prozentige Wahrscheinlichkeit, Eisraketen abzufeuern. Diese verursachen bei der Landung 3000 Schaden in einem Umkreis von 3×3 und detonieren nach 5 Sekunden mit 4500 Schaden in einem Umkreis von 3×3.
@@ -72958,7 +72961,7 @@ Die Wachstumskraft der Bestienkiwi wurde verbessert und sie kann mit weniger Son
 Der Fertigkeitseffekt von Wildes Wachstum wurde um 100% erhöht und der Sonnenlichtverbrauch der Bestienkiwi auf 160 reduziert.
 
 [KIWIBEAST_NEW_SKILL_LEVEL4_DES]
-Die Wahrscheinlichkeit, die Spezialdünger-Attacke beim Pflanzen direkt freizusetzen, ist gering!
+Die Wahrscheinlichkeit, die Spezialdünger-Fähigkeit beim Pflanzen direkt freizusetzen, ist gering!
 
 [KIWIBEAST_NEW_SKILL_LEVEL5_DES]
 Wenn Bestien-Kiwi seine größte Form erreicht hat, besteht eine 15%ige Chance, dass alle Bodenzombies in Reichweite beim Angriff ein Feld zurückgestoßen werden.
@@ -72973,10 +72976,10 @@ Kiwi-Bestie wächst sofort zu ihrer größten Form heran und springt dreimal hin
 Goldene Knospe erzeugt nach dem Pflanzen sofort 375 Sonnen. Keine Abklingzeit für das erste Pflanzen.
 
 [GOLDBLOOM_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [GOLDBLOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Attacke.
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 
 [FLATTENEDSHROOM_NEW_SKILL_LEVEL1_DES]
 Der Tellerpilz kann auf einem Brunnen gepflanzt werden, um den Dampfaustritt vorübergehend zu blockieren.
@@ -72997,7 +73000,7 @@ Beim Angriff hat der Lotuswurzel-Schießer eine Chance von 10%, vier Wasserpfeil
 Die Wahrscheinlichkeit, dass mehrere Wasserpfeile die Fertigkeit auslösen, ist um 100% erhöht, und es besteht eine Chance von 20%, vier Wasserpfeile hintereinander abzufeuern.
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 30%ige Chance, eine Wassersäule abzufeuern, die 5 Sekunden lang anhält. Die Wassersäule verursacht 270 Schaden an Zombies pro Sekunde und wirft sie 0,5 Felder zurück.
@@ -73018,7 +73021,7 @@ Nachdem das Gift den Zombie getroffen hat, besteht eine 20%ige Chance, eine Gift
 Die Chance, dass die Fähigkeit des Giftmischers ausgelöst wird, ist erhöht. Es besteht eine 30%ige Chance, eine Giftpfütze zu hinterlassen, die 7 Sekunden lang anhält und den vorbeigehenden Zombie mit einer Schicht Gift überzieht.
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [CONVALLARIACHEMIST_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 50%ige Chance, eine größere Trankflasche zu werfen, die nach dem Auftreffen auf einen Zombie spritzt und Zombies im Umkreis eines Gitters 600 Schaden zufügt und Zombies im Umkreis eine Schicht Gift überzieht.
@@ -73039,7 +73042,7 @@ Beim Angriff hat der Passionsblumen-Ingenieur eine Chance von 10%, ein schnell r
 Das Zahnrad wurde verbessert und verfügt nun über einen Verlangsamungseffekt. Die Chance, die Fertigkeit des Mechanikexperten auszulösen, steigt auf 20%, und der Schaden auf 90.
 
 [PASSIONFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [PASSIONFLOWER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine Chance von 20%, ein Zahnradset mit 125 Schaden abzufeuern. Nach einem Zombietreffer schleudert er ein weiteres kleines Zahnrad mit 75 Schadenspunkten.
@@ -73060,7 +73063,7 @@ Beim Angriff hat die Windverwehte Orchidee eine Chance von 20%, eine Luftkanone 
 Die Auslösewahrscheinlichkeit der Luftkanonen-Fähigkeit ist um 200% erhöht, und es besteht eine Chance von 40%, beim Angriff eine Luftkanone abzufeuern.
 
 [VANILLA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [VANILLA_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, drei Tornados zu erzeugen, die 180 Schaden verursachen und kleine Zombies betäuben.
@@ -73123,7 +73126,7 @@ Wenn Eis-Johannisbeere einen Zombie angreift, besteht eine Chance von 10%, dem Z
 Die Wahrscheinlichkeit, die Fertigkeit „Eiskristall“ auszulösen, erhöht sich um 100%. Es besteht eine Chance von 20%, dem Zombie 100 Schaden zuzufügen und ihn 3 Sekunden lang einzufrieren.
 
 [ICYCURRANT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Attacke direkt freizusetzen. Frostschaden auf 125 erhöht.
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen. Frostschaden auf 125 erhöht.
 
 [ICYCURRANT_NEW_SKILL_LEVEL5_DES]
 Der von Eisjohannisbeeren erzeugte Eisboden wird durch die extrem kalte Luft verstärkt und verursacht 135 Schaden an Zombies. Frostschaden auf 125 erhöht.
@@ -73144,7 +73147,7 @@ Die Heiße Dattel erhält den Bonus heißer Energie, was ihre Gesundheit deutlic
 Der Fertigkeitseffekt heißer Energie wird um 100% erhöht, und die Gesundheit wird nochmals deutlich erhöht.
 
 [HOTDATE_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Attacke direkt freizusetzen – ein großer Angriff!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
 
 [HOTDATE_NEW_SKILL_LEVEL5_DES]
 Nach der Explosion des Hot Dates bleiben Funken auf dem Boden zurück, die 5 Sekunden lang anhalten und Zombies 300 Schaden pro Sekunde zufügen.
@@ -73165,7 +73168,7 @@ Beim Angriff hat der Tulpentrompeter eine Chance von 10%, eine 30-Punkte-Schallw
 Die Auslösewahrscheinlichkeit der Fertigkeit „Diffuses Geräusch“ erhöht sich um 100%, und es besteht eine Chance von 20%, beim Angriff eine Schallwelle abzufeuern, die Zombies unter Level 5 zu ^ff4284^Charm I^oldclr^ macht.
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, kontinuierlich drei rote Schallwellen mit 60 Schadenspunkten auszulösen und Zombies in geringem Umkreis 300 Schadenspunkte zuzufügen.
@@ -73186,7 +73189,7 @@ Wenn der Auberginen-Ninja angreift, besteht eine 10%ige Chance, einen explosiven
 Die Auslösewahrscheinlichkeit der Fähigkeit „Explosionspfeil“ erhöht sich um 100%. Beim Angriff besteht eine 20-prozentige Chance, einen Explosivpfeil mit 90 Schaden abzufeuern, der 360 Schaden an einem einzelnen Gitter verursacht.
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 30-prozentige Chance, einen Wirbelwind-Shuriken mit 540 Schaden abzufeuern, der einen Tornado bildet und kleine Zombies mitreißt.
@@ -73207,7 +73210,7 @@ Bananentänzer erlernt Tanzkraft-Regeneration, wodurch die Angriffsruhezeit um 1
 Der Effekt der Tanzkraft-Regeneration wird um 100% erhöht und die Angriffsruhezeit erneut um 1 Sekunde verkürzt.
 
 [PLANTAIN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt mit einem großen Move auszulösen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Move auszulösen!
 
 [PLANTAIN_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 40-prozentige Chance, einen chaotischen Wirbelwind zu erzeugen, der ^ff4284^ Zauber I^oldclr^ kleine Zombies nicht höher als sein eigenes Level bezaubert.
@@ -73228,7 +73231,7 @@ Wenn der Narziss-Schütze angreift, besteht eine Chance von 10%, dass er zweimal
 Die Wahrscheinlichkeit, dass die Fähigkeit „Blasen-Dauerschuss“ ausgelöst wird, erhöht sich um 100%, und es besteht eine Chance von 20%, dass beim Angriff zweimal hintereinander Blasen versprüht werden.
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Attacke direkt auszulösen – ein großer Angriff!
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen – ein großer Angriff!
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 40%ige Chance, eine Wassersäule zu versprühen, die die gesamte Reihe durchdringt und 5 Sekunden lang anhält. Sie verursacht insgesamt 4500 Schaden an allen Zombies und ^848484^BetäubungⅠ^oldclr^.
@@ -73249,7 +73252,7 @@ Beim Angriff des Tannenzapfens mit Doppelkanone besteht eine 10%ige Chance, dass
 Die Wahrscheinlichkeit, dass die Doppelkanone die Fertigkeit auslöst, ist um 100% erhöht, und es besteht eine 20%ige Chance, dass die linke und rechte Kanone beim Angriff nacheinander jeweils eine Pinienkerne abfeuern.
 
 [PINECONE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt abzufeuern!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt abzufeuern!
 
 [PINECONE_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, einen explosiven Kiefernzapfen abzufeuern. Dieser verursacht 1110 Schaden an Zombies und verursacht Flächenschaden in geringer Reichweite. Getroffene kleine Zombies können dadurch weggeschleudert werden.
@@ -73270,7 +73273,7 @@ Holly Knights Angriffsreichweite wird erweitert, und er kann alle Zombies im Umk
 Der Abwehreffekt von Stechpalmenmessern wurde verstärkt und kann kleine Zombies drei Felder weit zurückstoßen.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL5_DES]
 Die Stechpalmenpflanzen des Stechpalmenritters werden vergrößert, ihre Lebenspunkte auf 3200 erhöht und ihre Angriffskraft auf die des Stechpalmenritters erhöht.
@@ -73291,7 +73294,7 @@ Verstärkt den Interferenzeffekt auf mechanische Einheiten, der mechanische Einh
 Alarm-Explosions-Magnetpilz erlernt Energieüberladung, wodurch der Explosionsschaden deutlich erhöht wird.
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen – ein großer Move!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL5_DES]
 Nach der Explosion entsteht ein zusätzlicher Lichtbogen, der zwischen Zombies hin- und herfliegt, ihnen Schaden zufügt und sie 1 Sekunde lang lähmt.
@@ -73312,7 +73315,7 @@ Wenn Shadow Pea angreift, besteht eine Chance von 10%, ein Schattengeschoss mit 
 Wenn Shadow Pea angreift, besteht eine Chance von 20%, ein Schattengeschoss mit 240 Schaden oder einen Schattenstrahl mit 420 Schaden abzufeuern.
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL5_DES]
 Im Normalzustand besteht eine 80%ige Chance, einen Schattenstrahl auszusenden. Im Schattenzustand besteht eine 30%ige Chance, den ersten getöteten Zombie in ein schwarzes Loch zu verwandeln, das vorbeikommenden kleinen und mittleren Zombies Schaden zufügt oder sie verschluckt. Dieser Effekt hält 4 Sekunden lang an.
@@ -73333,7 +73336,7 @@ Die Piranha-Pflanzenerbse beschleunigt die Verdauungszeit und verkürzt die Ruhe
 Der Fertigkeitseffekt der schnellen Verdauung wird um 100% erhöht und die Ruhezeit auf 8 Sekunden verkürzt.
 
 [SNAPPEA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SNAPPEA_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 50-prozentige Chance, bis zu zwei Zombies in einem Raster vor und hinter dem Ziel zu verschlingen oder mit Kugeln zu beschießen.
@@ -73354,7 +73357,7 @@ Die Fähigkeit der Kristallorchidee, Eis und Schnee zu nutzen, wurde verbessert.
 Die Kontrolle der Kristallorchidee über Eis und Schnee wurde weiter verbessert und die Dauer des Schneemanns um 50% verlängert.
 
 [MONOTROPA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [MONOTROPA_NEW_SKILL_LEVEL5_DES]
 Wenn sich ein Zombie vom Schneemann-Zustand erholt, bleibt der Gefriereffekt bestehen und er verfällt in einen 2 Sekunden anhaltenden Verlangsamungszustand.
@@ -73375,7 +73378,7 @@ Es besteht eine 50%ige Chance, eine Hüpferbse mit 150 Schaden abzufeuern. Nach 
 Die Auslösewahrscheinlichkeit der Hüpferbse erhöht sich auf 100%, der Schaden auf 200 Punkte.
 
 [SLINGPEA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SLINGPEA_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 50%ige Chance, eine Bombenerbse abzufeuern, die einem einzelnen Zombie 1500 Schaden zufügt.
@@ -73396,7 +73399,7 @@ Beim Angriff besteht eine 20%ige Chance, einen großen Blitzball abzufeuern, der
 Die Wahrscheinlichkeit, einen großen Blitzball abzufeuern, erhöht sich auf 40% und verursacht 940 Schaden und 400 Streuschaden.
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, ein Donnerdrachen-Phantom zu beschwören. Das Donnerdrachen-Phantom fliegt nach rechts und schleudert Blitze auf die Zombies in derselben Reihe, die 2500 Schaden und ^ff9600^ LähmungⅠ^oldclr^ für 1 Sekunde verursachen.
@@ -73417,7 +73420,7 @@ Es besteht eine 50%ige Chance, mehr kristallklare und feuchte Wassertropfen zu w
 Die Auslösewahrscheinlichkeit der Fertigkeit „Kristallklar und feucht“ wird um 100% erhöht, und es werden 100% kristallklare und feuchte Wassertropfen geworfen.
 
 [ALOES_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ALOES_NEW_SKILL_LEVEL5_DES]
 Der Wassernebel von Aloe Doctor wird zu Eisnebel aufgewertet, was einen zusätzlichen Angriffskraftbonus von 20% verleiht und Zombies, die sich in Reichweite befinden, in den Eisverlangsamungszustand versetzen kann.
@@ -73438,7 +73441,7 @@ Beim Angriff besteht aufgrund einer Ladehemmung eine 10%ige Chance, dass zwei Gr
 Die Wahrscheinlichkeit, dass Doppelschuss ausgelöst wird, ist um 100% erhöht.
 
 [BEARBERRY_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Attacken-Move direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BEARBERRY_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 30%ige Wahrscheinlichkeit, eine goldene Granate abzufeuern, die kleine Zombies abwehrt.
@@ -73459,7 +73462,7 @@ Wenn der Wachsmelonenwächter angegriffen wird, löst sie einen Sprung aus. Nach
 Das Auslöseintervall von „Wütender Instinkt“ wurde verkürzt und wird nun alle 10 Sekunden ausgelöst.
 
 [WAXGOURD_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen ist die Wahrscheinlichkeit gering, die Spezialdünger-Attacke direkt freizusetzen.
+Beim Pflanzen ist die Wahrscheinlichkeit gering, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [WAXGOURD_NEW_SKILL_LEVEL5_DES]
 Der Wachsmelonenwächter greift aktiv an und springt sofort, sobald sich der Zombie ein Feld vor ihm nähert. Nach der Landung schockt er alle Zombies und verursacht 210 Schaden.
@@ -73480,7 +73483,7 @@ Beim Angriff besteht eine 45%ige Chance, dass der Zombie mit Elektrizität aufge
 Erhöht die Wahrscheinlichkeit, Kettenstrom auszulösen, und es besteht eine 60%ige Chance, Zombies beim Angriff mit Strom zu versorgen.
 
 [ELECTRICITEA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ELECTRICITEA_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, einen roten Hochenergieblitz mit 150 Schaden auszulösen, der alle Zombies in Angriffsreichweite für ^ff9600^Ⅰ^oldclr^3 Sekunden lähmt.
@@ -73501,7 +73504,7 @@ Es besteht eine 40%ige Chance, dass ein Zombie, der eine gelbe Birne isst und si
 Die Auslösewahrscheinlichkeit der verstärkten Mutation erhöht sich auf 80%. Der Zombie wird direkt vergiftet und setzt Gas^848484^ frei, das die Zombies hinter Ⅰ^oldclr^ betäubt. Wirksam bis zu Zombies der Stufe 5.
 
 [IMPPEAR_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen.
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [IMPPEAR_NEW_SKILL_LEVEL5_DES]
 Wenn ein Zombie die kleine gelbe Birne isst und Giftgas freisetzt, erhöht sich dessen Reichweite. Zombies, die das Giftgas einatmen, werden verwundbar und erleiden 7 Sekunden lang 30% mehr Schaden.
@@ -73522,7 +73525,7 @@ Es besteht eine 20%ige Chance, Zwillingsedelsteine mit 1,5-fachem Schaden auszuw
 Der Fertigkeitseffekt, reich und gut im Geldverdienen zu sein, wurde verbessert. Es besteht eine 50%ige Chance, einen Drei-Lebens-Edelstein mit doppeltem Schaden auszuwerfen. Nach einem Treffer auf einen Zombie kann der Drei-Lebens-Edelstein Zombies in drei Richtungen abprallen.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen – ein großer Move!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen – ein großer Move!
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 30%ige Chance, einen verstärkten Edelstein zu versprühen, der 2,5-mal so viel Schaden verursacht wie ein normaler Edelstein. Nach dem Versprühen des verstärkten Edelsteins werden die nächsten beiden Angriffe definitiv Edelsteine mit drei Lebenspunkten sein.
@@ -73537,10 +73540,10 @@ Der Juwelier-Granatapfel versprüht kontinuierlich 4 Edelsteine und ^ff0000^1 gr
 Nach dem Pflanzen hinterlässt er 5 Sekunden lang Olivenöl auf dem Boden in Angriffsreichweite. Feuerangriffe können das Olivenöl entzünden, wodurch Zombies darauf 6 Sekunden lang 100 Schaden pro Sekunde erleiden. ^ff0000^ Wirkt Wunder bei Ballett-Zombies! ^oldclr^
 
 [OLIVE_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [OLIVE_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Attacken-Attacke.
+Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [EGRETFLOWER_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie vier Felder rechts vom Reiherblumenkämpfer, feuert er sechs Kugeln hintereinander ab. Alle 8 Sekunden lädt er eine Rakete mit der Reichweite der rechten Reihe, trifft den Zombie und verursacht 2 Sekunden lang ^848484^stunⅠ^oldclr^. Stirbt er, wirft er eine Rakete in das Feld und ein Feld rechts davon ab und verlässt das Feld.
@@ -73552,7 +73555,7 @@ Für jeden zusätzlichen Reiherblumenkämpfer auf dem Feld erhöht sich die Angr
 Die Raketennachladegeschwindigkeit wird erhöht, und alle 6 Sekunden wird eine Rakete nachgeladen.
 
 [EGRETFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt zu aktivieren!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt zu aktivieren!
 
 [EGRETFLOWER_NEW_SKILL_LEVEL5_DES]
 Die Angriffsreichweite wird auf eine einzelne Reihe rechts erhöht, und die Angriffe mit Kugeln und Raketen verursachen nun Gruppenschaden auf einem einzigen Raster.
@@ -73573,7 +73576,7 @@ Nach dem Abwurf der Erdbeerbombe besteht eine 25%ige Chance, dass sie direkt zu 
 Nach dem Abwurf der Erdbeerbombe besteht eine 20%ige Chance, direkt zu einer großen Erdbeere heranzuwachsen.
 
 [STRAWBURST_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [STRAWBURST_NEW_SKILL_LEVEL5_DES]
 Nach der Explosion der Erdbeerbombe hinterlässt sie Erdbeermarmelade in der entsprechenden Angriffsreichweite, die vorbeikommende Zombies verlangsamt. Die Erdbeermarmelade aus kleinen und mittleren Erdbeeren hält 2 Sekunden, die aus großen Erdbeeren 4 Sekunden an.
@@ -73594,7 +73597,7 @@ Jedes Mal, wenn ein Zombie fünfmal von der Schleim-Erbsenkanone getroffen wird,
 Die Giftfähigkeit der Schleim-Erbsenkanone wurde verbessert. Alle drei Treffer können eine Giftexplosion auslösen, die 450 Schaden verursacht.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 10%ige Chance, fünf Gifterbsen hintereinander abzufeuern, die 36 Schaden verursachen und ein einzelnes Gitter bespritzen.
@@ -73615,7 +73618,7 @@ Durch Distanztraining wurde die Angriffsreichweite des Smash-Aufschlags des Doo-
 Durch Krafttraining wurde die Angriffsreichweite des Smash-Aufschlags des Doo-Ying-Werfers von einer Einheit auf ein einzelnes Raster geändert.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL4_DES]
-Beim Einsetzen besteht die Chance, den Spezialdünger-Attacken-Big-Move direkt auszulösen!
+Beim Einsetzen besteht die Chance, den Spezialdünger-Fähigkeitn-Big-Move direkt auszulösen!
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL5_DES]
 Die Smash-Fähigkeit des Doo-Ying-Werfers wurde weiter verbessert. Sein Smash-Aufschlag kann Zombies mit weniger als 50% Gesundheit sofort töten.
@@ -73636,7 +73639,7 @@ Die Ruhezeit wird um 25% von 8 auf 6 Sekunden reduziert.
 Die Ruhezeit wird um weitere 25% von 6 auf 4 Sekunden reduziert.
 
 [DARTICHOKE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die ultimative Spezialdünger-Attacken-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die ultimative Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [DARTICHOKE_NEW_SKILL_LEVEL5_DES]
 Alle 20 Sekunden wird ein Gewitterpfeil abgefeuert. Der Gewitterpfeil greift zuerst die gefährlichsten Zombies an und fügt ihnen, die er durchdringt, Schaden zu. Nach dem Auftreffen tötet er sofort einen einzelnen kleinen Zombie.
@@ -73657,7 +73660,7 @@ Die Fähigkeiten der Wasserkastanienbrüder zur Kontrolle der Eisbahn wurden ver
 Wasserkastanienbrüder können die Regeneration schneller fortsetzen, und die Ruhezeit verkürzt sich auf 3 Sekunden.
 
 [ELEOCURLING_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ELEOCURLING_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 50%ige Chance, einen in Eisnebel gehüllten Curlingstein abzufeuern, der Zombies im Umkreis eines Gitters Schaden zufügt. Der Curlingsteinbruder verschwindet nicht, nachdem er eine Einheit getroffen hat, und kann vom nächsten Curlingsteinbruder getroffen werden und 600 Schadenspunkte durchdringen.
@@ -73678,7 +73681,7 @@ Beim Angriff besteht eine 20%ige Chance, die beiden Stachel für eine Hochgeschw
 Erhöht die Chance einer Stachelkombo um 100%.
 
 [POKRA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Attacke direkt mit einem großen Angriff auszulösen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff auszulösen!
 
 [POKRA_NEW_SKILL_LEVEL5_DES]
 Nach jeder vollständigen Angriffsrunde hat Spiked Okra eine 15%ige Chance, Stacheln auszustoßen, zwei aufeinanderfolgende Stachelgeschosse abzufeuern und den Angriff mit der ursprünglichen Angriffsgeschwindigkeit zu starten.
@@ -73699,7 +73702,7 @@ Angriffs- und Geschwindigkeitsbonus wurden auf 15% erhöht, die Gesundheitsregen
 Angriffs- und Angriffsgeschwindigkeitsbonus wurden auf 20% erhöht, die Gesundheitsregeneration auf 20%. Orchesterpflanze erhält zusätzlich 15% Angriffskraftbonus und 10% Angriffsgeschwindigkeitsbonus.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL5_DES]
 Beim Schlagen der Trommel werden 10% der Gesundheit aller Pflanzen in Reichweite wiederhergestellt.
@@ -73741,7 +73744,7 @@ Die Wachstumsrate der Pfeile des Tupistra Agent wird erhöht. Nach 8 Sekunden l�
 Die Wirkung der Fähigkeit „Schneller Wachstum“ wird um 100% erhöht. Nach 7 Sekunden lädt er die Pfeile nach, um die Tarnung zu beenden.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL4_DES]
-Es besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke beim Einpflanzen direkt freizusetzen!
+Es besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit beim Einpflanzen direkt freizusetzen!
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff rotiert der Tupistra Agent zweimal und feuert zwei Salven Pfeile ab, die allen Zombies in Reichweite zwei Schadenspunkte zufügen.
@@ -74032,7 +74035,7 @@ Das Intervall zwischen den Ballonbomben wird um 1 Sekunde verkürzt. Der Sonnenl
 Das Intervall zwischen den Ballonbomben wird um 1 Sekunde verkürzt. Der Sonnenlichtverbrauch beim Pflanzen wird um 50 Punkte reduziert.
 
 [BOOMFLOWER_NEW_SKILL_LEVEL4_DES]
-Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen die Spezialdünger-Attacke direkt auszulösen!
+Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BOOMFLOWER_NEW_SKILL_LEVEL5_DES]
 Wenn eine Ballonbombe erzeugt wird, besteht eine 30%ige Chance, einen Ballon zum 8. Jahrestag zu erzeugen. Der Ballon fliegt automatisch zum nächsten Zombie und explodiert. Zombies im Umkreis von 3×3 Schaden.
@@ -74053,7 +74056,7 @@ Die Limonade in der Celebration Soda Coconut enthält mehr Blasen, und die Zeit 
 Die Wirkung der Sprudel-Fähigkeit wird um 100% erhöht, und die Zeit zum Herausspritzen der Limonade nach dem Schütteln verkürzt sich auf 4 Sekunden.
 
 [BEERCOCONUT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [BEERCOCONUT_NEW_SKILL_LEVEL5_DES]
 Beim Sprühen von Soda besteht eine 50%ige Chance, dem Soda Eis hinzuzufügen. Dadurch kann das versprühte Soda kleine und mittlere Zombies zusätzlich für ^0072ff^Ⅰ^oldclr^3 Sekunden einfrieren und große Zombies verlangsamen.
@@ -74074,7 +74077,7 @@ Die Gesundheit des als Schild verwendeten Zombies erhöht sich auf 2500 Punkte, 
 Die Gesundheit des als Schild verwendeten Zombies erhöht sich auf 3000 Punkte, und die Ruhezeit des Enterhakens verkürzt sich auf 24 Sekunden.
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacken-Fähigkeit direkt freizusetzen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL5_DES]
 Wenn der von Garland gepackte Zombie von anderen Zombies gefressen wird, besteht eine 30%ige Chance, mit der rechten Faust alle Zombies in den ersten beiden Feldern rechts zu treffen, sie zwei Felder zurückzuwerfen und die Ruhezeit des Hakens zurückzusetzen.
@@ -74104,7 +74107,7 @@ Der Impatiens-Schütze färbt schneller, und die Zeitspanne zwischen den Färbun
 Der Fertigkeitseffekt des schnellen Färbens wird um 100% erhöht, und die Zeitspanne zwischen den Färbungen verkürzt sich auf 14 Sekunden.
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen – ein großer Move!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL5_DES]
 Der Impatiens-Schütze kann zu einer stärkeren violetten Form aufgerüstet werden. Er verschießt violette Farbkugeln, die 2 Sekunden lang an Zombies haften bleiben. Es besteht eine 25%ige Chance zu explodieren und so Flächenschaden und Kontrolle zu verursachen.
@@ -74125,7 +74128,7 @@ Das Angriffsintervall des Truthahnkrugs wird um 1 Sekunde verkürzt und der Sonn
 Erhöht die Wirkung schnellerer Fähigkeiten um 100%.
 
 [TURKEYPULT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TURKEYPULT_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht die Chance, einen großen, dunkelgrünen, fetten Truthahn zu werfen. Der geworfene fette Truthahn betäubt den Zombie für ^848484^ Ⅰ^oldclr^ 1 Sekunde.
@@ -74146,7 +74149,7 @@ Die Hammerorchidee kann die Wahrscheinlichkeit eines schweren Hammers erhöhen, 
 Wird ein Zombie im vergrabenen Zustand erneut von einem schweren Hammer getroffen, wird er tiefer vergraben und die Vergrabungszeit wird auf 6 Sekunden zurückgesetzt.
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL5_DES]
 Hammer-Orchidee erlernt einen kritischen Treffer, der ausgelöst wird, wenn der Zombie tief vergraben ist. Wenn du dann einen schweren Hammer benutzt, um kleine und mittelgroße Zombies anzugreifen, werden diese sofort getötet.
@@ -74167,7 +74170,7 @@ Die Anzahl der Angriffe, die für eine Überladung erforderlich sind, beträgt 4
 Die Anzahl der Angriffe, die für eine Überladung benötigt werden, beträgt 5, und die Ruhezeit der Überladung beträgt 20 Sekunden.
 
 [MANGOSTEEN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Angriff der Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Angriff der Spezialdünger-Fähigkeit direkt auszulösen!
 
 [MANGOSTEEN_NEW_SKILL_LEVEL5_DES]
 Die Energie-Mangostane schleudert ein elektrisches Netz auf den ersten kleinen und mittleren Zombie, der in Angriffsreichweite kommt. Der im elektrischen Netz gefangene Zombie kann sich erst bewegen, wenn er stirbt. Die Energie-Mangostane kann das nächste elektrische Netz erst schleudern, wenn das elektrische Netz verschwindet.
@@ -74188,7 +74191,7 @@ Die Angelfähigkeit des Angelhakengrases wurde erhöht und die Ruhezeit des Ange
 Die Angelfähigkeit des Angelhakengrases wurde erhöht und die Ruhezeit des Angelhakengrases auf 11 Sekunden reduziert.
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen. Großer Move!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen. Großer Move!
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL5_DES]
 Wird ein geangelter Zombie hinter dich geworfen, stürmt er 1 Sekunde lang auf, bevor er ihn hinauswirft. Trifft der geworfene Zombie andere Zombies, wird er an der Kollisionsstelle 3 Sekunden lang betäubt, und die getroffenen Zombies werden gemeinsam 3 Felder zurückgeworfen. Auch die Zombies auf dem Weg werden zurückgeworfen. Nach der Landung werden alle Zombies 3 Sekunden lang ^848484^stunⅠ^oldclr^. Werden keine anderen Zombies getroffen, fliegen die geworfenen Zombies direkt vom Feld.
@@ -74211,7 +74214,7 @@ Der Flammenfarn ist wütender, und die Angriffsreichweite des Flammentornados er
 Der Flammenfarn ist wütender, und die Angriffsreichweite des Flammentornados erhöht sich um 2 Gitter.
 
 [INFERNO_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [INFERNO_NEW_SKILL_LEVEL5_DES]
 Der Feuertornado kann größere Zombies einrollen. Beim Einrollen riesiger Zombies verlangsamt sich seine Bewegungsgeschwindigkeit.
@@ -74232,7 +74235,7 @@ Die Anzahl der unbesiegbaren Hiebe wurde auf das Fünffache erhöht und die Daue
 Die Anzahl der unbesiegbaren Hiebe wurde auf das Sechsfache erhöht und die Dauer des Brüllens auf 1 Sekunde verkürzt.
 
 [TIGERSTOOL_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TIGERSTOOL_NEW_SKILL_LEVEL5_DES]
 Der Tigerkopfpilz entwickelt sich zu Gift. Jeder Schlag mit Unbesiegbarkeit hat eine 5%ige Chance, Zombies zu vergiften^701edf^ und 10% ihrer maximalen Gesundheit pro Sekunde für 10 Sekunden zu verlieren.
@@ -74276,7 +74279,7 @@ Der Bodensägegrashut kühlt schneller ab, und die Überhitzungszeit wird auf 7,
 Der Bodensägegrashut kühlt schneller ab, und die Überhitzungszeit wird auf 5 Sekunden reduziert.
 
 [GARDENERGRASS_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacke direkt zu aktivieren!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt zu aktivieren!
 
 [GARDENERGRASS_NEW_SKILL_LEVEL5_DES]
 Beim Angriff hat Sawgrass eine Chance von 25%, seinen Hut zu werfen und Zombies im Umkreis von 3×3 Sekunden vor ihm pro Sekunde Schaden zuzufügen. Dieser Schaden hält 15 Sekunden lang an. Die verletzten Zombies zittern weiter und können weder angreifen noch sich bewegen. Es besteht eine Chance von 20%, dass ihnen pro Sekunde die Hände gebrochen werden. Sawgrass benötigt 20 Sekunden, um seinen Hut wiederherzustellen.
@@ -74333,7 +74336,7 @@ Das Studium und die Beherrschung der Zeit erhöhen die Auslösewahrscheinlichkei
 Das Studium und die Beherrschung der Zeit erhöhen die Auslösewahrscheinlichkeit der Raum-Zeit-Umkehr auf 12%.
 
 [HATMUSHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [HATMUSHROOM_NEW_SKILL_LEVEL5_DES]
 Beim Angriff hat der Verrückte Hutmacher eine 10%ige Chance, einen Zauberhut zu werfen. Dieser verleiht dem Ziel die dreifache Angriffskraft und prallt auf den nächsten Zombie im Umkreis von 3×3 um den getroffenen Zombie ab. Er kann bis zu 2 Mal abprallen. Der erste Zombie, der vom Zauberhut getroffen wird, löst einen stärkeren Zeit-Raum-Umkehreffekt aus und wird direkt nach ganz rechts auf den Bildschirm teleportiert.
@@ -74354,7 +74357,7 @@ Das Licht bricht sich, nachdem es den Zombie getroffen hat, und fügt den beiden
 Das Licht bricht sich, nachdem es den Zombie getroffen hat, und fügt den beiden Zombies in den drei Reihen dahinter Schaden zu (50% des ursprünglichen Lichts). Das gebrochene Licht schrumpft mit einer Wahrscheinlichkeit von 50%.
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL5_DES]
 Jeder Angriff des Magischen Safrans löst beim nächsten Angriff ein verstärkendes Licht aus. Dieses Licht und das gebrochene Licht schrumpfen den Zombie um 50% und verringern sein Level um 1. Unwirksam gegen Gargantuas.
@@ -74564,7 +74567,7 @@ Die Flugangriffskraft des Zwillingskaninchens wurde erhöht, sodass er nun mitte
 Die Ruhezeit des Zwillingskaninchens wurde auf 13 Sekunden verkürzt.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den Spezialdünger-Attacken-Big direkt freizusetzen!
+Beim Einpflanzen besteht die Chance, den Spezialdünger-Fähigkeitn-Big direkt freizusetzen!
 
 [JEWELRABBIT_NEW_SKILL_LEVEL5_DES]
 Beim Angriff graben sich die beiden Kaninchen gemeinsam in den Boden. Nachdem das erste Kaninchen den Zombie weggestoßen hat, springt das zweite Kaninchen hervor, stößt die kleinen und mittleren Zombies rechts um zwei Felder zurück und verursacht 10% des maximalen Gesundheitswerts an Schaden. Befindet sich beim Angriff des zweiten Kaninchens kein Zombie, wird der Angriff abgebrochen und die Ruhezeit um 50% verkürzt.
@@ -74606,7 +74609,7 @@ Die Verdauungszeit wird auf 15 Sekunden reduziert. Nach der Verdauung öffnet si
 Die Verdauungszeit verkürzt sich auf 10 Sekunden. Nach der Verdauung öffnet sich die Knospe und die Angriffskraft steigt auf 80/Schuss & 800.
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL5_DES]
 Die Blütenknospe schießt Strahlen ab, die Zombies Schaden zufügen. Der erste kleine oder mittelgroße Zombie, den sie berührt, verwandelt sich in einen freundlichen Mönchszombie (die Obergrenze für die verwandelte Zombiestufe liegt bei 5). Die Angriffskraft steigt auf 120/Schuss und 1200.
@@ -74627,7 +74630,7 @@ Die Zeit, die der seltsame Riss in der oberen linken Ecke benötigt, um vollstä
 Die Zeit, die der seltsame Riss in der oberen linken Ecke benötigt, um vollständig zu knacken, wird auf 30 Sekunden reduziert.
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt freizusetzen.
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL5_DES]
 Die Pflanze hat eine 50%ige Chance, einen weiterentwickelten Abyss-Apostel auszufliegen, der den Zombie 3 Sekunden lang umklammert und zwei Angriffe ausführt, während derer sich der Zombie nicht bewegen kann. Der Zielzombie wird ausgesaugt und dauerhaft in einen Mumienzombie verwandelt. Die Stufe des verwandelten Zombies wird um zwei Stufen reduziert (die niedrigste ist Stufe 1).
@@ -74669,7 +74672,7 @@ Alle 30 Sekunden werden Fledermäuse und Giftnebel freigesetzt, die den Zombies 
 Sendet alle 20 Sekunden Fledermäuse und Giftnebel aus und fügt Zombies in einem 3×3 großen Umkreis Schaden zu.
 
 [VAMPORCINI_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Attacke direkt freizusetzen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [VAMPORCINI_NEW_SKILL_LEVEL5_DES]
 Nach tödlichem Schaden stirbt er nicht, sondern wird unter der Erde vergraben und wartet, bis die Wirkungsdauer der umgebenden Fledermäuse abgelaufen ist, bevor er wiederbelebt wird. Nach der Wiederbelebung werden alle Lebenspunkte wiederhergestellt.
@@ -74690,7 +74693,7 @@ Kürbisköpfe sind mit Bonbons gefüllt, die von Abwehrpflanzen absorbiert werde
 Kürbisköpfe sind mit Bonbons gefüllt, die von Abwehrpflanzen absorbiert werden können und deren Gesundheitslimit um 1.000 Punkte erhöhen.
 
 [PUMPKIN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Attacken-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [PUMPKIN_NEW_SKILL_LEVEL5_DES]
 Wenn der Kürbiskopf stirbt, explodiert er und verursacht 1000 Schaden an Zombies im Umkreis von 1×2. Kleine und mittelgroße Zombies werden um 1 Gitter zurückgeworfen.
@@ -74711,7 +74714,7 @@ Vorwärtsangriffe haben eine 60%ige Chance, einen starken Stich auszulösen, der
 Der Rückstoß des starken Stichs des starken Angriffs wirkt auch bei mittelgroßen Zombies.
 
 [GERANIIFENCER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Attacke direkt freizusetzen.
+Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [GERANIIFENCER_NEW_SKILL_LEVEL5_DES]
 Gelegentlich kannst du einen Vorwärtsangriff in einen Sprungangriff umwandeln, der Zombies schweren Schaden zufügt und ^848484^betäubt Ⅰ^oldclr^. Triffst du einen riesigen Zombie, kannst du den kleinen Geisterzombie dahinter sofort töten.
@@ -74732,7 +74735,7 @@ Wenn die Pflanze angreift, verleiht der freigesetzte elektrische Ring den elektr
 Der Fertigkeitseffekt des elektrischen Energiebonus wird um 100% und der Angriffskraftbonus um 30% erhöht.
 
 [DEODARCEDAR_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Attacke direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [DEODARCEDAR_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 50-prozentige Chance, dass sich ein Blitz in eine Blitzsäule verwandelt, die allen Zombies in einem einzigen Raster Schaden zufügt. Dadurch erhöht sich der Schaden auf das 2,5-fache eines normalen Blitzes.
