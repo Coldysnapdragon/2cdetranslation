@@ -73,10 +73,10 @@ Die Überlebenszeit des Meerespilzes erhöht sich auf 120 Sekunden.
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff auszulösen!
 
 [SEASHROOM_PLANTFOOD_DESCRIPTION]
-Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine Spezialdünger-Fähigkeit auszulösen. Die Verschwindezeit wird zurückgesetzt.
+Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Projektile nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine Spezialdünger-Fähigkeit auszulösen. Die Verschwindezeit wird zurückgesetzt.
 
 [SEASHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Kugeln nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine Spezialdünger-Fähigkeit zu starten. Die Verschwindezeit wird zurückgesetzt.
+Ein neuer Meerespilz wird zufällig in den acht umgebenden Feldern generiert und schießt sofort 30 Projektile nach vorne. Alle Seepilze auf dem Feld werden miteinander verbunden, um eine Spezialdünger-Fähigkeit zu starten. Die Verschwindezeit wird zurückgesetzt.
 
 [ACHIEVE_DOG_WHISPERER_DESC]
 Töte den Todeszombie, bevor er einen Grabstein beschwört!
@@ -3779,7 +3779,7 @@ Spiel Pausiert
 Erbsenhülse
 
 [PEAPOD_DESCRIPTION]
-{KEYWORD}Schaden: {STAT}Mittel (pro Kugel)
+{KEYWORD}Schaden: {STAT}Mittel (pro Projektil)
 {KEYWORD}Spezial: {STAT}Erhöhte Feuerkraft durch verschiedene Pflanzmethoden
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze, Erbsengewächse, Brüder in Gruppen
 {FLAVOR}Die Erbsenhülse hat an der Clownschule Raumquantenmechanik studiert und ist bei Alt und Jung beliebt.
@@ -5082,7 +5082,7 @@ Der Fertigkeitseffekt der schnellen Erholung wird um 100% erhöht und die Ruheze
 Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen! Die Obergrenze des versteinerten Zombies wurde auf Stufe 7 geändert.
 
 [SARRACENIA_NEW_SKILL_LEVEL5_DES]
-Bei jedem Angriff des versteinerten Zombies besteht eine 60-prozentige Wahrscheinlichkeit, dass die beiden Zombies links zu Steinstatuen mit jeweils 40% Lebenspunkten versteinert werden. Die Obergrenze des versteinerten Zombies wurde auf Stufe 10 geändert.
+Bei jedem Angriff des versteinerten Zombies besteht eine 60% Wahrscheinlichkeit, dass die beiden Zombies links zu Steinstatuen mit jeweils 40% Lebenspunkten versteinert werden. Die Obergrenze des versteinerten Zombies wurde auf Stufe 10 geändert.
 
 [SARRACENIA_PLANTFOOD_DESCRIPTION]
 Die Skorpionpflanze wird gestärkt und nutzt einen versteinernden Blick, um alle Zombies in einem fächerförmigen Bereich (7 Felder) rechts zu versteinern.
@@ -5133,16 +5133,16 @@ Elektrisches Rankenkostüm
 Elektrisches Rankenkostüm
 
 [STORE_PRODUCT_AVATAR_POWERVINE]
-Die durch die Spezialdünger-Fähigkeit abgefeuerten elektrischen Kugeln werden durchdringend.
+Die durch die Spezialdünger-Fähigkeit abgefeuerten elektrischen Projektile werden durchdringend.
 
 [POWERVINE_NEW_SKILL_LEVEL1_DES]
-Elektrische Ranken können schnell Kugeln abfeuern, um Zombies anzugreifen. Befinden sich elektrische Ranken in der Nähe, werden sie verstärkt und feuern im verstärkten Zustand 3 Kugeln pro Runde ab.
+Elektrische Ranken können schnell Projektile abfeuern, um Zombies anzugreifen. Befinden sich elektrische Ranken in der Nähe, werden sie verstärkt und feuern im verstärkten Zustand 3 Projektile pro Runde ab.
 
 [POWERVINE_NEW_SKILL_LEVEL2_DES]
-Elektrische Ranken haben eine 5%ige Chance, eine spezielle Kugel abzufeuern, die den Verstärkungseffekt der oben genannten elektrischen Pflanzen verstärkt. Der normale Angriff der Pflanzen unter dem verstärkten Effekt feuert zwei Kugeln ab.
+Elektrische Ranken haben eine 5%ige Chance, eine spezielle Projektil abzufeuern, die den Verstärkungseffekt der oben genannten elektrischen Pflanzen verstärkt. Der normale Angriff der Pflanzen unter dem verstärkten Effekt feuert zwei Projektile ab.
 
 [POWERVINE_NEW_SKILL_LEVEL3_DES]
-Elektrische Ranken haben eine 10%ige Chance, ein Spezialgeschoss abzufeuern, das die darüberliegende elektrische Pflanze verstärkt. Wenn die Ranke verstärkt ist, feuert die Pflanze zwei Kugeln ab.
+Elektrische Ranken haben eine 10%ige Chance, ein Spezialgeschoss abzufeuern, das die darüberliegende elektrische Pflanze verstärkt. Wenn die Ranke verstärkt ist, feuert die Pflanze zwei Projektile ab.
 
 [POWERVINE_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszuführen!
@@ -5151,10 +5151,10 @@ Beim Pflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähi
 Nach jeweils zwei Angriffsrunden feuert die nächste Angriffsrunde ein zusätzliches violettes Lähmungsgeschoss ab, das den getroffenen Gegner 0,5 Sekunden lang lähmt.
 
 [POWERVINE_PLANTFOOD_DESCRIPTION]
-Eine Impulsexplosion mit einer Reichweite von 5×5 tritt auf, und mehrere elektrische Kugeln werden im fächerförmigen Bereich rechts abgefeuert. Die Impulsexplosion lähmt alle mechanischen Zombies 5 Sekunden lang.
+Eine Impulsexplosion mit einer Reichweite von 5×5 tritt auf, und mehrere elektrische Projektile werden im fächerförmigen Bereich rechts abgefeuert. Die Impulsexplosion lähmt alle mechanischen Zombies 5 Sekunden lang.
 
 [POWERVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Die durch die ultimative Bewegung nach rechts abgefeuerten elektrischen Kugeln werden durchdringend.
+Die durch die ultimative Bewegung nach rechts abgefeuerten elektrischen Projektile werden durchdringend.
 
 [SPIKEROCK]
 Stachelstein 
@@ -5526,7 +5526,7 @@ Feuere die Hauptkanone ab und schieße Zombies ab, um genügend Punkte für das 
 Züchte starke Pflanzen.
 
 [STARCHALLENGE_POOYAN]
-Weiche Zombies und Kugeln aus und besiege mächtige Gegner.
+Weiche Zombies und Projektile aus und besiege mächtige Gegner.
 
 [STARCHALLENGE_PAOKU]
 Überlebe und sammle entsprechende Punkte.
@@ -7967,13 +7967,13 @@ Süßkartoffeln können Zombies in der Nähe anlocken und sie blockieren.
 Seerosenblätter können auf Wasser gepflanzt werden und andere Pflanzen dazu bringen, sich darauf anzusiedeln.
 
 [BOWLINGBULB_PRODUCT_SHORT_DESC]
-Bowling Bubble kann Kugeln abfeuern, die abprallen.
+Bowling Bubble kann Projektile abfeuern, die abprallen.
 
 [BANANA_PRODUCT_SHORT_DESC]
 Bananenkanone kann manuell auf das Ziel zielen, um es zu bombardieren.
 
 [GUACODILE_PRODUCT_SHORT_DESC]
-Avocado kann Kugeln abfeuern, um anzugreifen, und sich selbst in die Luft schleudern.
+Avocado kann Projektile abfeuern, um anzugreifen, und sich selbst in die Luft schleudern.
 
 [TANGLEKELP_PRODUCT_SHORT_DESC]
 Tangle Weed kann Zombies verwickeln und auf den Grund des Wassers sinken lassen.
@@ -8000,7 +8000,7 @@ Rafflesia kann den letzten Zombie vor ihm angreifen.
 Tornado-Eichel kann die Zombiereihe vor ihm angreifen und Walross-Zombies schwer beschädigen.
 
 [XSHOT_PRODUCT_SHORT_DESC]
-Die Spinnende Rübe kann Kugeln in vier Richtungen gleichzeitig abfeuern.
+Die Spinnende Rübe kann Projektile in vier Richtungen gleichzeitig abfeuern.
 
 [SUGARCANE_PRODUCT_SHORT_DESC]
 Der Bambusmann kann herannahende Zombies aufhalten und sie am Vorrücken hindern.
@@ -11916,7 +11916,7 @@ Nunchuck-Mönch-Zombie
 {FLAVOR}Der Nunchuck-Mönch-Zombie liebt es, anderen Zombies seine Stockkünste zu demonstrieren, bis er sich beim Einsatz seines Nunchaku selbst am Kopf schlägt.
 
 [ZOMBIE_KONGFU_MONK_NUNCHAKU_DESCRIPTION_HEADER]
-Mit dem Nunchaku lenkst du alle Kugeln von vorn ab und stößt alle Pflanzen weg, die sich ihm in den Weg stellen.
+Mit dem Nunchaku lenkst du alle Projektile von vorn ab und stößt alle Pflanzen weg, die sich ihm in den Weg stellen.
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE]
 Messerkämpfer
@@ -12380,7 +12380,7 @@ Spezialdünger-Fähigkeitte erhält stärkere Kristallrüstung
 Spezialdünger-Fähigkeitte erhält stärkere Kristallrüstung
 
 [STORE_PRODUCT_AVATAR_REPEATER]
-Spezialdünger-Fähigkeitte kann verschiedene Kugeln abfeuern.
+Spezialdünger-Fähigkeitte kann verschiedene Projektile abfeuern.
 
 [STORE_PRODUCT_AVATAR_KERNELPULT]
 Spezialdünger-Fähigkeitte wirft brennende Butter und verursacht so mehr Schaden.
@@ -12482,7 +12482,7 @@ Die durch die Spezialdünger-Fähigkeit erzeugte Feuerwand hat einen Explosionse
 Die Spezialdünger-Fähigkeit kann Licht abfeuern. Pfeile
 
 [STORE_PRODUCT_AVATAR_PAMEGRANATE]
-Die Spezialdünger-Fähigkeit kann Kugeln mit Spritzeffekt abfeuern.
+Die Spezialdünger-Fähigkeit kann Projektile mit Spritzeffekt abfeuern.
 
 [STORE_PRODUCT_AVATAR_SWEETPOTATO]
 Die Spezialdünger-Fähigkeit kann deine Gesundheit vollständig wiederherstellen.
@@ -12491,7 +12491,7 @@ Die Spezialdünger-Fähigkeit kann deine Gesundheit vollständig wiederherstelle
 Die Spezialdünger-Fähigkeit kann Lotusblätter in einem Bereich von 3x3 erzeugen.
 
 [STORE_PRODUCT_AVATAR_BOWLINGBULB]
-Die von der ultimativen Fähigkeit abgefeuerten Kugeln haben verschiedene elementare Eigenschaften.
+Die von der ultimativen Fähigkeit abgefeuerten Projektile haben verschiedene elementare Eigenschaften.
 
 [STORE_PRODUCT_AVATAR_BANANA]
 Die Spezialdünger-Fähigkeit kann eine zusätzliche Banane mit großflächigem Schaden abfeuern.
@@ -12503,7 +12503,7 @@ Die Spezialdünger-Fähigkeit kann einmal hin und her kauen.
 Die Spezialdünger-Fähigkeit kann einen weiteren Zombie angreifen.
 
 [STORE_PRODUCT_AVATAR_HOMINGTHISTLE]
-Die Spezialdünger-Fähigkeit kann Eis und Kugeln abfeuern.
+Die Spezialdünger-Fähigkeit kann Eis und Projektile abfeuern.
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOWER]
 Die Spezialdünger-Fähigkeit kann einen Supertorpedo abfeuern.
@@ -12524,7 +12524,7 @@ Die Spezialdünger-Fähigkeit kann getroffene Zombies betäuben.
 Die Spezialdünger-Fähigkeit kann zwei kleine Wirbelwinde erzeugen und den ersten Zombie angreifen.
 
 [STORE_PRODUCT_AVATAR_XSHOT]
-Die Spezialdünger-Fähigkeittive Fähigkeit kann Kugeln mit höherem Schaden abfeuern.
+Die Spezialdünger-Fähigkeittive Fähigkeit kann Projektile mit höherem Schaden abfeuern.
 
 [STORE_PRODUCT_AVATAR_SUGARCANE]
 Die Spezialdünger-Fähigkeittive Fähigkeit kann getroffenen Zombies Schaden zufügen.
@@ -13257,40 +13257,40 @@ Explodierende Sonnenblumenkerne
 Wenn eine Sonnenblume stirbt, wird ein explodierender Sonnenblumenkern im aktuellen Raster verteilt. Der Sonnenblumenkern verschwindet nach 10 Sekunden. Kommt ein Zombie vorbei, verursacht er bei den Zombies im 1×1-Rasterbereich 10% der maximalen Gesundheit.
 
 [WALLNUT_SKILL1_LEVEL1]
-Nussschalenzertrümmerung
+Nussschalen-zertrümmerung
 
 [WALLNUT_SKILL1_LEVEL1_DES]
-Wenn eine Nuss stirbt, besteht eine 50-prozentige Chance, dass sie explodiert und Zombies in der Nähe abwehrt.
+Wenn eine Wallnuss stirbt, besteht eine 50% Chance, dass sie explodiert und Zombies in der Nähe abwehrt.
 
 [WALLNUT_SKILL1_LEVEL2]
-Nusswut
+WallNuss-wut
 
 [WALLNUT_SKILL1_LEVEL2_DES]
-Erhöht den Effekt der Nussschalenzertrümmerung um 100%.
+Erhöht den Effekt der Nussschalen-zertrümmerung um 100%.
 
 [WALLNUT_SUPERSKILL_NAME]
 Walnuss-Satellit
 
 [WALLNUT_SUPERSKILL_DES]
-Umgibt einen Nusskern mit 3 Attributen und greift Zombies in der Nähe an.
+Umgibt eine Wallnuss mit 3 Projektilen mit verschiedenen Attributen und greift Zombies in der Nähe an.
 
 [SPLITPEA_SKILL1_LEVEL1]
 Gefrorene Erbse
 
 [SPLITPEA_SKILL1_LEVEL1_DES]
-Gibt dem Doppelschützen eine 40%ige Chance, gefrorene Erbsen nach hinten zu schießen.
+Gibt der Knallerbse eine 40%ige Chance, gefrorene Erbsen nach hinten zu schießen.
 
 [SPLITPEA_SKILL1_LEVEL2]
 Sengende Erbse
 
 [SPLITPEA_SKILL1_LEVEL2_DES]
-Gibt dem Doppelschützen eine 60%ige Chance, brennende Erbsen nach vorne zu schießen.
+Gibt der Knallerbse eine 60%ige Chance, brennende Erbsen nach vorne zu schießen.
 
 [SPRINGBEAN_SKILL1_LEVEL1]
 Kraftvoller Sprung
 
 [SPRINGBEAN_SKILL1_LEVEL1_DES]
-Gibt der Frühlingsbohne eine 15%ige Chance, Zombies vom Bildschirm abprallen zu lassen.
+Gibt der Federbohne eine 15%ige Chance, Zombies vom Bildschirm abprallen zu lassen.
 
 [SPRINGBEAN_SKILL1_LEVEL2]
 Verbesserter Sprung
@@ -13302,7 +13302,7 @@ Erhöht die Wirkung von Power-Sprung um 100%.
 Sprungtraining
 
 [SQUASH_SKILL1_LEVEL1_DES]
-Squash hat eine 20-prozentige Chance, nach einem Angriff nicht zu verschwinden und an seine Ausgangsposition zurückzukehren.
+Der Matschkürbis hat eine 20% Chance, nach einem Angriff nicht zu verschwinden und an seine Ausgangsposition zurückzukehren.
 
 [SQUASH_SKILL1_LEVEL2]
 Verbesserter Sprung
@@ -13314,13 +13314,13 @@ Erhöht die Wirkung von Sprungtraining um 100%.
 Schattenlose Hand
 
 [CABBAGEPULT_SKILL1_LEVEL1_DES]
-Erhöht die Angriffsgeschwindigkeit von Kohlkrug um 25%.
+Erhöht die Angriffsgeschwindigkeit vom Kohlapult um 25%.
 
 [CABBAGEPULT_SKILL1_LEVEL2]
 Geschwindigkeitsverbesserung
 
 [CABBAGEPULT_SKILL1_LEVEL2_DES]
-Erhöht den Effekt von Schattenloser Hand um 100%.
+Erhöht den Effekt von Schattenlose Hand um 100%.
 
 [CABBAGEPULT_SUPERSKILL_NAME]
 Supergemüse
@@ -13332,25 +13332,25 @@ Erhöht den Effekt von Schattenloser Hand um 100%.
 Schnelle Ausgabe
 
 [TWINSUNFLOWER_SKILL1_LEVEL1_DES]
-Zwillingssonnenblumen erzeugen direkt nach dem Pflanzen 50 Sonnenstrahlen.
+Doppel-Sonnenblumen erzeugen direkt nach dem Pflanzen 50 Sonnenstrahlen.
 
 [TWINSUNFLOWER_SKILL1_LEVEL2]
 Ausgabeverbesserung
 
 [TWINSUNFLOWER_SKILL1_LEVEL2_DES]
-Erzeugt durch die schnelle Ausgabe zusätzlich 150 Sonnenstrahlen.
+Erzeugt durchs pflanzen zusätzlich 150 Sonnenstrahlen.
 
 [TWINSUNFLOWER_SKILL1_LEVEL5]
 Geschenk der Zukunft
 
 [TWINSUNFLOWER_SKILL1_LEVEL5_DES]
-Wenn Twinsun Sonnenlicht erzeugt, besteht eine 30%ige Chance, dass eine zusätzliche Sonnenbombe entsteht. Twinsun wirft die Sonnenbombe auf einen zufälligen Zombie-Standort und verursacht 2000 Explosionsschaden an Zombies in Reichweite.
+Wenn die Doppel-Sonnenblume Sonnenlicht erzeugt, besteht eine 30%ige Chance, dass eine zusätzliche Sonnenbombe entsteht.Die Doppel-Sonnenblume wirft die Sonnenbombe auf einen zufälligen Zombie-Standort und verursacht 2000 Explosionsschaden an Zombies in Reichweite.
 
 [TORCHWOOD_SKILL1_LEVEL1]
 Starker Schild
 
 [TORCHWOOD_SKILL1_LEVEL1_DES]
-Erhöht die Gesundheit von Torchwood-Stumpf um das Fünffache.
+Erhöht die Gesundheit vom Zunderholz um das Fünffache.
 
 [TORCHWOOD_SKILL1_LEVEL2]
 Lebensverbesserung
@@ -13362,7 +13362,7 @@ Ermöglicht es „Starker Schild“, die Gesundheit um das 15-fache zu erhöhen.
 Fernangriff
 
 [ICEBURG_SKILL1_LEVEL1_DES]
-Ermöglicht Gefrorener Salat, Ziele innerhalb von 3 Feldern anzugreifen.
+Ermöglicht dem Eisbergsalat, Ziele innerhalb von 3 Feldern anzugreifen.
 
 [ICEBURG_SKILL1_LEVEL2]
 Reichweitenverbesserung
@@ -13374,7 +13374,7 @@ Erhöht die Reichweite von Fernangriffen um 2 Felder.
 Doppelwurf
 
 [MELONPULT_SKILL1_LEVEL1_DES]
-Gibt dem Wassermelonenwerfer eine 25%ige Chance, beim Angriff zwei Wassermelonen hintereinander zu werfen.
+Gibt dem Melonapult eine 25%ige Chance, beim Angriff zwei Wassermelonen hintereinander zu werfen.
 
 [MELONPULT_SKILL1_LEVEL2]
 Wurfmeisterschaft
@@ -13392,13 +13392,13 @@ Es besteht die Chance, drei Wassermelonenscheiben zu werfen, die Zombies in gera
 Bunte Erbsen
 
 [REPEATER_SKILL1_LEVEL1_DES]
-Ermöglicht dem Doppel-Shooter, Eis- oder Feuererbsen abzufeuern.
+Ermöglicht dem Duplinator, Eis- oder Feuererbsen abzufeuern.
 
 [REPEATER_SKILL1_LEVEL2]
 Elementarladung
 
 [REPEATER_SKILL1_LEVEL2_DES]
-Verstärkt die Wirkung von bunten Erbsen und bietet die Chance, Will-O-Wil-Erbsen abzufeuern.
+Verstärkt die Wirkung von bunten Erbsen und bietet die Chance, Blaue-Feuer-Erbsen abzufeuern.
 
 [COCONUTCANNON_SKILL1_LEVEL1]
 Schnelle Erholung
@@ -13422,13 +13422,13 @@ Die Kokosnusskanone feuert ein spitzes Explosionsgeschoss ab, das nach einem Zom
 Doppeltreffer
 
 [THREEPEATER_SKILL1_LEVEL1_DES]
-Gibt dem Dreifachschützen eine 25-prozentige Chance, zwei Erbsen hintereinander abzufeuern.
+Gibt dem Triplinator eine 25% Chance, zwei Erbsen hintereinander abzufeuern.
 
 [THREEPEATER_SKILL1_LEVEL5]
-Kugelverstärkung
+Projektilverstärkung
 
 [THREEPEATER_SKILL1_LEVEL5_DES]
-Gibt dem Dreifachschützen die Chance, bei jedem Schuss Frost-, Rotfeuer- und Blaufeuergeschosse abzufeuern.
+Gibt dem Triplinator die Chance, bei jedem Schuss Frost-, Rotfeuer- und Blaufeuergeschosse abzufeuern.
 
 [THREEPEATER_SKILL1_LEVEL2]
 Lungenkapazitätstraining
@@ -13440,7 +13440,7 @@ Erhöht die Effektivität von Doppelschlag um 100%.
 Drachenatem
 
 [SNAPDRAGON_SKILL1_LEVEL1_DES]
-Gibt dem Feuerdrachengras eine 50-prozentige Chance, blaue Flammen zu spucken.
+Gibt dem Drachenmäulchen eine 50% Chance, blaue Flammen zu spucken.
 
 [SNAPDRAGON_SKILL1_LEVEL2]
 Atemverstärkung
@@ -13458,7 +13458,7 @@ Chance, einen Feuerdrachen zu starten und einen Feueratemangriff an der Front au
 Einfrieren
 
 [WINTERMELON_SKILL1_LEVEL1_DES]
-7% Chance, Zombies einzufrieren, wenn Eismelone angreift.
+7% Chance, Zombies einzufrieren, wenn die Wintermelone angreift.
 
 [WINTERMELON_SKILL1_LEVEL2]
 Schnelle Abkühlung
@@ -13467,16 +13467,16 @@ Schnelle Abkühlung
 Erhöht den Effekt des Einfrierens um 100%.
 
 [WINTERMELON_SUPERSKILL_NAME]
-Wassermelonenscheiben
+Eisige Wassermelonenscheiben
 
 [WINTERMELON_SUPERSKILL_DES]
-Chance, Zielen in gerader Linie Schaden zuzufügen.
+Chance, Zielen in gerader Linie Schaden zuzufügen und einzufrieren.
 
 [PEASHOOTER_SKILL1_LEVEL1]
 Erbsenschusssalven
 
 [PEASHOOTER_SKILL1_LEVEL1_DES]
-Gibt der Erbsenpistole eine 10%ige Chance, in den Salvenmodus zu wechseln und eine Erbsenserie abzufeuern.
+Gibt der Erbsenkanone eine 10%ige Chance, in den Salvenmodus zu wechseln und eine Erbsenserie abzufeuern.
 
 [PEASHOOTER_SKILL1_LEVEL2]
 Schnellladen
@@ -13494,7 +13494,7 @@ Supererbsengeschosse mit 100% erhöhter Wirkung.
 Kondensat
 
 [SNOWPEA_SKILL1_LEVEL1_DES]
-Gibt dem Eisbogenschützen eine Chance von 15%, Eisstacheln abzufeuern, die dreifachen Schaden verursachen.
+Gibt der Eiserbse eine Chance von 15%, Eisstacheln abzufeuern, die dreifachen Schaden verursachen.
 
 [SNOWPEA_SKILL1_LEVEL2]
 Kalter Atem
@@ -13524,13 +13524,13 @@ Erhöht die Wirkung des Superbohrers um 100%.
 Maisraketen
 
 [KERNELPULT_SKILL1_LEVEL1_DES]
-Bewirkt, dass der Maiskrug alle fünf Angriffe eine Maisrakete abfeuert.
+Bewirkt, dass das Kornapult alle fünf Angriffe eine Maisrakete abfeuert.
 
 [KERNELPULT_SKILL1_LEVEL2]
 Schnelles Nachladen
 
 [KERNELPULT_SKILL1_LEVEL2_DES]
-Reduziert die Anzahl der benötigten Angriffe zum Abfeuern eines Maisgeschosses um 2.
+Reduziert die Anzahl der benötigten Angriffe zum Abfeuern einer Maisrakete um 2.
 
 [STARFRUIT_SKILL1_LEVEL1]
 Energiepfeile
@@ -13560,7 +13560,7 @@ Erhöht die Dauer von Ermutigung um 2 Sekunden.
 Hochenergetischer Blitz
 
 [LIGHTNINGREED_SKILL1_LEVEL1_DES]
-Blitzrohr hat eine Chance von 15%, hochenergetische Blitze abzufeuern und Zombies zu lähmen.
+Blitzschilf hat eine Chance von 15%, hochenergetische Blitze abzufeuern und Zombies zu lähmen.
 
 [LIGHTNINGREED_SKILL1_LEVEL2]
 Überstrom
@@ -13590,25 +13590,25 @@ Ermöglicht es dem Flammenden Pfeffer, nach der Explosion ein Flammenkreuz auszu
 Licht
 
 [JALAPENO_SKILL1_LEVEL2_DES]
-Reduziert die für Flammenden Pfeffer benötigte Sonnenlichtmenge um 25%.
+Reduziert die für Jalapeño benötigte Sonnenlichtmenge um 25%.
 
 [TALLNUT_SKILL1_LEVEL1]
 Gefährliche Wand
 
 [TALLNUT_SKILL1_LEVEL1_DES]
-Erhöht die Chance von Tall Nuts, nach dem Tod nach vorne zu fallen und Schaden zu verursachen.
+Erhöht die Chance von Hochwall-Nüssen, nach dem Tod nach vorne zu fallen und Schaden zu verursachen.
 
 [TALLNUT_SKILL1_LEVEL2]
 Trägheitskraft
 
 [TALLNUT_SKILL1_LEVEL2_DES]
-Erhöht die Chance, eine Gefahrenwand auszulösen, um 100%.
+Erhöht die Chance "Gefährliche Wand" auszulösen, um 100%.
 
 [BONKCHOY_SKILL1_LEVEL1]
 Aufwärtshaken
 
 [BONKCHOY_SKILL1_LEVEL1_DES]
-Ermöglicht Nawen, alle 15 Angriffe einen Aufwärtshaken auszuführen.
+Ermöglicht Pack Choi, alle 15 Angriffe einen Aufwärtshaken auszuführen.
 
 [BONKCHOY_SKILL1_LEVEL2]
 Boxtraining
@@ -13620,13 +13620,13 @@ Reduziert die Anzahl der für einen Aufwärtshaken benötigten Angriffe um 8.
 Erschütterer
 
 [BONKCHOY_SKILL1_LEVEL5_DES]
-Nach zwei Aufwärtshaken springt Nawen hoch und schlägt auf den Boden, wodurch er Schaden verursacht und Zombies betäubt.
+Nach zwei Aufwärtshaken springt Pack Choi hoch und schlägt auf den Boden, wodurch er Schaden verursacht und Zombies betäubt.
 
 [CHILIBEAN_SKILL1_LEVEL1]
 Giftverbesserung
 
 [CHILIBEAN_SKILL1_LEVEL1_DES]
-Verlängert den Immobilisierungseffekt von Krotongas um 1,5 Sekunden.
+Verlängert den Immobilisierungseffekt von der Chilibohne um 1,5 Sekunden.
 
 [CHILIBEAN_SKILL1_LEVEL2]
 Mischgift
@@ -13650,7 +13650,7 @@ Erhöht den Schaden der Selbstverteidigung um 100%.
 Superschnellladung
 
 [CITRON_SKILL1_LEVEL1_DES]
-Die Ruhezeit der Grapefruit beim Aufladen wurde um 25% reduziert.
+Die Ruhezeit der Zedrate beim Aufladen wurde um 25% reduziert.
 
 [CITRON_SKILL1_LEVEL2]
 Energiefeld
@@ -13662,13 +13662,13 @@ Die Wirkung der Superschnellladung wurde um 60% erhöht.
 Elektromagnetische Bombe
 
 [CITRON_SUPERSKILL_DES]
-Die abgefeuerte Kugel hat einen elektromagnetischen Effekt, der eine Schockwelle erzeugt und nach dem Angriff eine elektromagnetische Wolke hinterlässt, die Zombies Schaden zufügt.
+Die abgefeuerte Projektil hat einen elektromagnetischen Effekt, der eine Schockwelle erzeugt und nach dem Angriff eine elektromagnetische Wolke hinterlässt, die Zombies Schaden zufügt.
 
 [BLOOMERANG_SKILL1_LEVEL1]
 Verknüpfung
 
 [BLOOMERANG_SKILL1_LEVEL1_DES]
-Für jeden Bumerang-Shooter auf dem Feld reduzieren sich die Pflanzkosten um 5.
+Für jeden Blumerang auf dem Feld reduzieren sich die Sonnenkosten um 5.
 
 [BLOOMERANG_SKILL1_LEVEL2]
 Verknüpfungsverbesserung
@@ -13689,13 +13689,13 @@ Automatisches Nachladen
 Ermöglicht dem Karotten-Raketenwagen, jedes Mal 4 Raketen abzufeuern und reduziert die Ruhezeit um 40%.
 
 [CHERRYBOMB_SKILL1_LEVEL1]
-Kirschbombe
+Kirschmine
 
 [CHERRYBOMB_SKILL1_LEVEL1_DES]
 Ergibt eine 50%ige Chance, nach der Explosion der Kirschbombe eine kleine Kirschmine zu hinterlassen.
 
 [CHERRYBOMB_SKILL1_LEVEL2]
-Sprengstoffexperte
+Kirschminen Feld
 
 [CHERRYBOMB_SKILL1_LEVEL2_DES]
 Erhöht die Chance, dass Kirschblüten ausgelöst werden, um 100%.
@@ -13704,7 +13704,7 @@ Erhöht die Chance, dass Kirschblüten ausgelöst werden, um 100%.
 Mehrfachbomben
 
 [DANDELION_SKILL1_LEVEL1_DES]
-Ermöglicht Rittersporns Flaum einen weiteren Angriff.
+Ermöglicht der Pusteblume einen weiteren Angriff.
 
 [DANDELION_SKILL1_LEVEL2]
 Erhöhte Bombenlast
@@ -13716,7 +13716,7 @@ Erhöht die Anzahl der Mehrfachbomben um 1.
 Voller Wurf
 
 [BROCCOLI_SKILL1_LEVEL1_DES]
-Erhöht Broccolis Chance, Zombies aus dem Spiel zu werfen, auf 20%.
+Erhöht Brokkoli's Chance, Zombies aus dem Spiel zu werfen, auf 20%.
 
 [BROCCOLI_SKILL1_LEVEL2]
 Stärkesteigerung
@@ -13728,31 +13728,31 @@ Erhöht die Trefferchance um 100%.
 Streuung
 
 [PAMEGRANATE_SKILL1_LEVEL1_DES]
-Erhöht die Reichweite des Granatapfel-Maschinengewehrs um ein Raster, verringert aber den Schaden der Kugeln leicht.
+Erhöht die Reichweite des Granatapfel-Maschinengewehrs um ein Raster, verringert aber den Schaden der Projektile leicht.
 
 [PAMEGRANATE_SKILL1_LEVEL2]
 Scharfschütze
 
 [PAMEGRANATE_SKILL1_LEVEL2_DES]
-Erhöht die Reichweite des Granatapfel-Maschinengewehrs um ein zusätzliches Raster und verringert den Schaden der Kugeln leicht.
+Erhöht die Reichweite des Granatapfel-Maschinengewehrs um ein zusätzliches Raster und verringert den Schaden der Projektile leicht.
 
 [CHOMPER_SKILL1_LEVEL1]
 Zähne stärken
 
 [CHOMPER_SKILL1_LEVEL1_DES]
-Ermöglicht dem Schlumpf, Zombies der Stufe 2 zu verschlingen. Nach dem Verschlingen eines Zombies schiebt er andere Zombies um ein Feld zurück und beschleunigt die Verdauung um 10%.
+Ermöglicht dem Schnapper, Zombies der Stufe 2 zu verschlingen. Nach dem Verschlingen eines Zombies schiebt er andere Zombies um ein Feld zurück und beschleunigt die Verdauung um 10%.
 
 [CHOMPER_SKILL1_LEVEL2]
 Verbessertes Verschlingen
 
 [CHOMPER_SKILL1_LEVEL2_DES]
-Ermöglicht dem Schlumpf, Zombies der Stufe 3 zu verschlingen. Nach dem Verschlingen eines Zombies schiebt er andere Zombies um ein Feld zurück und beschleunigt die Verdauung um 20%.
+Ermöglicht dem Schnapper, Zombies der Stufe 3 zu verschlingen. Nach dem Verschlingen eines Zombies schiebt er andere Zombies um ein Feld zurück und beschleunigt die Verdauung um 20%.
 
 [CHOMPER_SUPERSKILL_NAME]
 Supermaul
 
 [CHOMPER_SUPERSKILL_DES]
-Öffnet sein Maul, hält es gedrückt und verschlingt Zombies im Umkreis von drei Feldern vor ihm.
+Öffnet sein Maul, hält es gedrückt und verschlingt Zombies im Umkreis von drei Feldern vor sich.
 
 [SWEETPOTATO_SKILL1_LEVEL1]
 Energiezersetzung
@@ -13794,7 +13794,7 @@ Erhöht den Effekt des automatischen Nachladens um 100%.
 Zeitgesteuerte Rakete
 
 [BANANA_SKILL_LEVEL5_DES]
-Der Bananenraketenwerfer kann eine zeitgesteuerte Rakete abfeuern. Trifft die zeitgesteuerte Rakete einen Zombie, fügt sie ihm Schaden zu, und die Raketenspitze bohrt sich in den Boden. Zu diesem Zeitpunkt startet der Countdown und es kommt zu einer Reichweitenexplosion.
+Der Bananenwerfer kann eine zeitgesteuerte Rakete abfeuern. Trifft die zeitgesteuerte Rakete einen Zombie, fügt sie ihm Schaden zu, und die Raketenspitze bohrt sich in den Boden. Zu diesem Zeitpunkt startet der Countdown und es kommt zu einer Reichweitenexplosion.
 
 [GUACODILE_SKILL_LEVEL1]
 Gehärtete Armschienen
@@ -13818,19 +13818,19 @@ Ermöglicht es dem Verstrickenden Kraut, Zombies zu greifen und zu schwingen, wo
 Dauerschwung
 
 [TANGLEKELP_SKILL_LEVEL2_DES]
-Ermöglicht den kraftvollen Schwung des Verstrickenden Krauts, Zombies vor sich links und rechts anzugreifen.
+Ermöglicht dem kraftvollen Schwung des Schlingtangs, Zombies vor sich links und rechts anzugreifen.
 
 [HOMINGTHISTLE_SKILL_LEVEL1]
 Spike-Kombo
 
 [HOMINGTHISTLE_SKILL_LEVEL1_DES]
-Gibt der Homing Thistle eine 25%ige Chance, zwei Kugeln hintereinander abzufeuern.
+Gibt der Lenkdistel eine 25%ige Chance, zwei Projektile hintereinander abzufeuern.
 
 [HOMINGTHISTLE_SKILL_LEVEL2]
 Kombo-Verbesserung
 
 [HOMINGTHISTLE_SKILL_LEVEL2_DES]
-Erhöht die Chance der Homing Thistle-Kombo um 100%.
+Erhöht die Chance der Spike-Kombo um 100%.
 
 [LOTUSSHOWER_SKILL_LEVEL1]
 Superbombe
@@ -13896,7 +13896,7 @@ Jede kleine Kastanie verwandelt sich in einen roten und aggressiveren Soldaten. 
 Schnelle Reaktion
 
 [RAFFLESIA_SKILL_LEVEL1_DES]
-Erhöht Rafflesias Angriffsgeschwindigkeit um 15%.
+Erhöht Rafflesia's Angriffsgeschwindigkeit um 15%.
 
 [RAFFLESIA_SKILL_LEVEL2]
 Windverstärkung
@@ -13920,7 +13920,7 @@ Erhöht die Effektivität von „Super-Uhrwerk“ um 100%.
 Starker Schwung
 
 [XSHOT_SKILL_LEVEL1_DES]
-Gibt Turnip eine 25-prozentige Chance, eine große Kugel abzufeuern.
+Gibt Der Rotorübe eine 25% Chance, ein großes Projektil abzufeuern.
 
 [XSHOT_SKILL_LEVEL2]
 Schlagverstärkung
@@ -13944,7 +13944,7 @@ Erhöht die Wirkung von Zähigkeit um 100%.
 Schwäche finden
 
 [ROSESWORDMAN_SKILL_LEVEL1_DES]
-Der Rosenschwertkämpfer hat eine 25-prozentige Chance, die Schwachstelle des Gegners zu treffen und so doppelten Schaden zu verursachen.
+Der Rosenschwertkämpfer hat eine 25% Chance, die Schwachstelle des Gegners zu treffen und so doppelten Schaden zu verursachen.
 
 [ROSESWORDMAN_SKILL_LEVEL2]
 Ein Geist
@@ -14086,11 +14086,11 @@ Ziehe noch 1 Mal
 
 [NARRATIVE_ZOMBIE_INTRO_ELIMINATE_FREEZINGWIND_1]
 {NPC_ENTER:zombossicon}
-^FF0000 Diese kleinen Kugeln sind echt nervig. Sieh dir meinen riesigen Eiswindatem an! ^oldclr
+^FF0000 Diese kleinen Projektile sind echt nervig. Sieh dir meinen riesigen Eiswindatem an! ^oldclr
 
 [NARRATIVE_ZOMBIE_INTRO_ELIMINATE_SPAWNSHIELD_1]
 {NPC_ENTER:zombossicon}
-^FF0000 Der neueste Quantenschild ist da! Was meinst du, wie viele kleine Kugeln man braucht, um ihn zu zerstören? ^oldclr
+^FF0000 Der neueste Quantenschild ist da! Was meinst du, wie viele klein Projektiln man braucht, um ihn zu zerstören? ^oldclr
 
 [NARRATIVE_ZOMBIE_INTRO_ELIMINATE_STAGE11_1]
 {NPC_ENTER:zombossicon}
@@ -16835,7 +16835,7 @@ Lupft explosive Knospen
 Dornenbetäubung
 
 [DUSKLOBBER_SKILL_LEVEL1_DES]
-Es besteht eine 10%ige Chance, dass sich die Kugel in eine rote Kugel verwandelt und nach dem Auftreffen auf das gegnerische Ziel Pollen ausstößt, die das Ziel 1,5 Sekunden lang betäubt.
+Es besteht eine 10%ige Chance, dass sich die Projektil in eine rote Projektil verwandelt und nach dem Auftreffen auf das gegnerische Ziel Pollen ausstößt, die das Ziel 1,5 Sekunden lang betäubt.
 
 [DUSKLOBBER_SKILL_LEVEL2]
 Dornenkrise
@@ -17024,7 +17024,7 @@ Bowlingknolle
 Bowlingknollen können mehrere Zombies aus dem Weg bowlen.
 
 [BOWLINGBULB_TOOLTIP]
-Rollt hüpfende Kugeln, die mehrere Zombies erwischen können
+Rollt hüpfende Projektile, die mehrere Zombies erwischen können
 
 [GUACODILE]
 Guakodil
@@ -18161,7 +18161,7 @@ Effekt: 1. Erhöht den Explosionsschaden um 20%. 2. Reduziert die Ruhezeit um 15
 Effekt: 1. Erhöht den Explosionsschaden um 24%. 2. Reduziert die Ruhezeit um 18%. 3. Das Töten von Zombies hat eine 18%ige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_12_BOOST_DES_5]
-Effekt: 1. Erhöht den Explosionsschaden um 27%. 2. Reduziert die Ruhezeit um 25% 3. Das Töten von Zombies hat eine 22-prozentige Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
+Effekt: 1. Erhöht den Explosionsschaden um 27%. 2. Reduziert die Ruhezeit um 25% 3. Das Töten von Zombies hat eine 22% Chance, Sonnenlicht zu erzeugen (bis zu 500 pro Spiel).
 
 [SUPER_CLOCK_13]
 Knallkörper
@@ -18281,7 +18281,7 @@ Effekt: 1. Erhöht den Blitzschaden um 18%. 2. Erhöht die Angriffsgeschwindigke
 Effekt: 1. Erhöht den Blitzschaden um 20%. 2. Erhöht die Angriffsgeschwindigkeit um 13%. 3. Beim Töten von Zombies besteht eine 20%ige Chance, Goldmünzen zu erhalten. (Jedes Mal 100 Goldmünzen)
 
 [SUPER_CLOCK_17_BOOST_DES_5]
-Effekte: 1. Erhöht den Blitzschaden um 25%. 2. Erhöht die Angriffsgeschwindigkeit um 15%. 3. Das Töten von Zombies hat eine 25-prozentige Chance, Goldmünzen zu erhalten (jedes Mal 100 Goldmünzen).
+Effekte: 1. Erhöht den Blitzschaden um 25%. 2. Erhöht die Angriffsgeschwindigkeit um 15%. 3. Das Töten von Zombies hat eine 25% Chance, Goldmünzen zu erhalten (jedes Mal 100 Goldmünzen).
 
 [PAINKILLER_1]
 Schmerzmittel
@@ -19077,7 +19077,7 @@ Welche Pflanze spielt gerne Schneeballschlachten?
 [LANTERN_RIDDLES_ANSWER_4]
 ca=Gefrorener Salat|Eis-Shooter|Eis-Wassermelone|Fackelstumpf|
 [LANTERN_RIDDLES_5]
-Welche Kugel wird zu einer normalen Kugel, wenn sie den Fackelstumpf durchdringt?
+Welche Projektil wird zu einer normalen Projektil, wenn sie den Fackelstumpf durchdringt?
 [LANTERN_RIDDLES_ANSWER_5]
 ca=Eiskugel|Feuerkugel|Laser|Erdnuss|
 [LANTERN_RIDDLES_6]
@@ -19104,9 +19104,9 @@ Wie hält man den Kürbis am Leben, nachdem man den Zombie getroffen hat?
 [LANTERN_RIDDLES_ANSWER_11]
 ca=Kürbis verbessern|Kürbis peitschen|Kürbis kühlen|Kürbis kaltstellen|
 [LANTERN_RIDDLES_12]
-Wie viele Kugeln feuert der Doppelschütze jedes Mal ab?
+Wie viele Projektile feuert der Doppelschütze jedes Mal ab?
 [LANTERN_RIDDLES_ANSWER_12]
-ca=3 Kugeln|4 Kugeln|2 Kugeln|N Kugeln|
+ca=3 Projektile|4 Projektile|2 Projektile|N Projektile|
 [LANTERN_RIDDLES_13]
 Welche der folgenden Pflanzen braucht im Kampf gegen Zombies keine Pause?
 [LANTERN_RIDDLES_ANSWER_13]
@@ -19572,7 +19572,7 @@ Rafflesia kann Zombies angreifen, die sich im Hintergrund verstecken.
 Hintere Zombies angreifen.
 
 [RAFFLESIA_PLANTFOOD]
-Feuert 5 Kugeln ab und greift den letzten Zombie in jeder Reihe an.
+Feuert 5 Projektile ab und greift den letzten Zombie in jeder Reihe an.
 
 [ACORN]
 Zyklon-Eichel
@@ -19890,7 +19890,7 @@ Zeitreise!!
 Entferne die Bohnen neben dem Eis, um es zu schmelzen!
 
 [ELIMINATE_TIP_SHIELD]
-Vorsicht, der Schild hält viele Kugeln ab!
+Vorsicht, der Schild hält viele Projektile ab!
 
 [ELIMINATE_REVIVE_TIP1]
 Die Anzahl der Aktionen ist aufgebraucht. Möchtest du ^00e46e {GEM_COUNT} Juwelen ^oldclr ausgeben, um 3 Schritte zu kaufen?
@@ -20059,10 +20059,10 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {EXCITED:crazydave}{SAY}Probiere das neu eingetroffene Blitzrohr. Seine Hochfrequenzblitze eignen sich perfekt für Brathähnchen.
 
 [NARRATIVE_PLANTTRIAL_DANDELION_INFO_1]
-{NPC_ENTER:crazydave}{SAY}Der Hammerzombie ist vorn. Er prallt Kugeln ab, die geradlinig auf ihn zufliegen. Das ist echt nervig.
+{NPC_ENTER:crazydave}{SAY}Der Hammerzombie ist vorn. Er prallt Projektile ab, die geradlinig auf ihn zufliegen. Das ist echt nervig.
 
 [NARRATIVE_PLANTTRIAL_DANDELION_INFO_2]
-{EXCITED:crazydave}{SAY}Probiere den neu eingetroffenen Löwenzahn. Seine Kugeln haben Zielverfolgung und werden vom Hammer-Zombie nicht zurückgeworfen.
+{EXCITED:crazydave}{SAY}Probiere den neu eingetroffenen Löwenzahn. Sein Projektiln haben Zielverfolgung und werden vom Hammer-Zombie nicht zurückgeworfen.
 
 [NARRATIVE_PLANTTRIAL_PEPPERPULT_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Vor uns befinden sich gefrorene Pflanzen. Konventionelle Angriffe brauchen lange, um sie aufzutauen.
@@ -20116,7 +20116,7 @@ Kann Zombies vom Boden aus angreifen, sehr effektiv gegen Hühnerzombies.
 Flammen haben einen besonderen Effekt auf Waffenständer. Je länger die Ladezeit, desto größer die Reichweite des Feuers.
 
 [PLANTTRIAL_STARFRUIT_DESC]
-Kann Kugeln in fünf Richtungen abfeuern, sehr effektiv gegen verstreute Zombies.
+Kann Projektile in fünf Richtungen abfeuern, sehr effektiv gegen verstreute Zombies.
 
 [PLANTTRIAL_CITRON_DESC]
 Kann Energie aus der Luft absorbieren und elektromagnetische Kanonen abfeuern. Die Spezialdünger-Fähigkeit ist sehr effektiv gegen mechanische Zombies.
@@ -20128,7 +20128,7 @@ Der Angriff ist immun gegen den Rückprallschaden des Imp-Zombies und kann Zombi
 Der Angriff kann mit der Zeit wachsen und hat einen Verlangsamungseffekt.
 
 [PLANTTRIAL_LOTUSSHOWER_DESC]
-Die Spezialdünger-Fähigkeit priorisiert Angriffe Die hintere Reihe, und die Kugeln sind in Wasserleveln stärker.
+Die Spezialdünger-Fähigkeit priorisiert Angriffe Die hintere Reihe, und die Projektile sind in Wasserleveln stärker.
 
 [PLANTTRIAL_LEMON_DESC]
 Es kann Granaten zusätzlichen Schaden zufügen, und die Spezialdünger-Fähigkeit kann in Sekundenschnelle einen ganzen Bildschirm mit saurem Regen zerstören.
@@ -20938,7 +20938,7 @@ Spargelkostüm
 Durchdringender Schuss
 
 [ASPARAGUS_SKILL_LEVEL1_DES]
-Erhöht die Chance, dass die Kugeln des Spargelkämpfers das Ziel durchdringen.
+Erhöht die Chance, dass die Projektile des Spargelkämpfers das Ziel durchdringen.
 
 [ASPARAGUS_SKILL_LEVEL2]
 Waffenverbesserung
@@ -21187,24 +21187,24 @@ Spin-Verstärkung
 Verstärkt den Effekt schneller Spins um 100%.
 
 [STORE_PRODUCT_AVATAR_PINEAPPLE]
-Spezialdünger-Fähigkeittive Fähigkeit: Kugeln in mehrere Richtungen abprallen lassen.
+Spezialdünger-Fähigkeittive Fähigkeit: Projektile in mehrere Richtungen abprallen lassen.
 
 [PINEAPPLE]
 Spinnende Ananas
 
 [PINEAPPLE_DESCRIPTION_HEADER]
-Die Spinnende Ananas kann Zombies blockieren und weitreichende Kugeln abwehren, indem sie sich selbst dreht.
+Die Spinnende Ananas kann Zombies blockieren und weitreichende Projektile abwehren, indem sie sich selbst dreht.
 
 [PINEAPPLE_DESCRIPTION]
-{KEYWORD}Merkmale:{STAT}Kann Kugeln abwehren, indem sie sich dreht.
+{KEYWORD}Merkmale:{STAT}Kann Projektile abwehren, indem sie sich dreht.
 {KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze, Zyklonfamilie, fliegende Pflanze.
 {FLAVOR}Um seinen Traum vom Fliegen zu verwirklichen, ließ sich Pineapple von den Zeichentrickfilmen inspirieren, die er als Kind sah: Er verwandelte die Blätter auf seinem Kopf in eine Bambuslibelle und hoffte, frei durch die Luft fliegen zu können. Wie man sieht, war diese skurrile Idee erfolgreich! Allerdings ist auch der Nebeneffekt offensichtlich: Er muss sich ab und zu drehen, um den Druck auszugleichen, der durch die Rotation der Blätter entsteht.
 
 [PINEAPPLE_TOOLTIP]
-Kann Zombies in der Luft blockieren und Kugeln abwehren.
+Kann Zombies in der Luft blockieren und Projektile abwehren.
 
 [PINEAPPLE_PLANTFOOD]
-Absorbiert nahe Kugeln und wehrt angreifende Zombies ab.
+Absorbiert nahe Projektile und wehrt angreifende Zombies ab.
 
 [ELECTRICBLUEBERRY_PRODUCT_SHORT_DESC]
 Elektrische Blaubeere fügt Zombies in einer bestimmten Reichweite enormen Schaden zu.
@@ -22289,7 +22289,7 @@ A.K.E.E. wirft eine Granate, die zwischen Zombies hin- und herspringen kann.
 A.K.E.E. Kostüm
 
 [STORE_PRODUCT_AVATAR_AKEE]
-Die Kugeln des ultimativen Moves können zu explosiven oder gefrorenen Kugeln werden.
+Die Projektile des ultimativen Moves können zu explosiven oder gefrorenen Projektile werden.
 
 [STORE_PRODUCT_AVATAR_AKEE_TITLE]
 A.K.E.E. Kostüm
@@ -22298,13 +22298,13 @@ A.K.E.E. Kostüm
 Elastizität stärken
 
 [AKEE_SKILL_LEVEL1_DES]
-Anzahl der Kugelabpraller +1
+Anzahl der Projektilabpraller +1
 
 [AKEE_SKILL_LEVEL2]
-Geteilte Kugel
+Geteilte Projektil
 
 [AKEE_SKILL_LEVEL2_DES]
-Es besteht eine Chance von 25%, eine große Kugel abzufeuern, die sich nach dem Auftreffen in drei kleine Kugeln aufspaltet.
+Es besteht eine Chance von 25%, ein großes Projektil abzufeuern, die sich nach dem Auftreffen in drei klein Projektiln aufspaltet.
 
 [AKEE]
 A.K.E.E.
@@ -22321,7 +22321,7 @@ A.K.E.E.s werfen Geschosse ab, die von Zombie zu Zombie springen.
 Wirft Geschosse ab, die von Zombie zu Zombie springen
 
 [AKEE_PLANTFOOD]
-Schießt mehrere große Kugeln ab, die zwischen Zombies hin und her springen und Schaden verursachen.
+Schießt mehrere große Projektile ab, die zwischen Zombies hin und her springen und Schaden verursachen.
 
 [GOLDLEAF]
 Goldblatt
@@ -22343,7 +22343,7 @@ Erzeugt ein Gold-Feld beim Pflanzen, welches 50 Sonnen gibt.
 Goldblätter können nicht auf Spezialfeldern gepflanzt werden.
 
 [REDSTINGER_PRODUCT_SHORT_DESC]
-Der Rote Stachler feuert in der Nähe des Basislagers mit voller Kraft Kugeln ab und erhöht seine Verteidigung, wenn er sich weit davon entfernt befindet.
+Der Rote Stachler feuert in der Nähe des Basislagers mit voller Kraft Projektile ab und erhöht seine Verteidigung, wenn er sich weit davon entfernt befindet.
 
 [REDSTINGER_AVATAR_NAME]
 Roter Stachler Kostüm
@@ -22695,7 +22695,7 @@ Kampfmagier
 
 [ZOMBIE_PVP_WIZARD_DESCRIPTION_HEADER]
 Der Magier entdeckte, dass er Pflanzen lieber zu Staub zerstäubte, als sie in Schafe zu verwandeln.
-Spezialfähigkeit: Kugeln abfeuern
+Spezialfähigkeit: Projektile abfeuern
 
 [ZOMBIE_PVP_DEAD]
 Todeszombie
@@ -31168,7 +31168,7 @@ Geisterpfeffer
 Halte dich warm mit Torchwood! GOOGLE PLAY Jahresendangebot: 75% Rabatt!
 
 [PRODUCT_GRAPESHOT_DESCRIPTION]
-Explosioniere und zersplittere in springende Kugeln!
+Explosioniere und zersplittere in springende Projektile!
 
 [PRODUCT_GRAPESHOT_NAME]
 Pflanze – Explodierende Trauben
@@ -34859,7 +34859,7 @@ Entwickelt euch zu einer Frucht, die Gesundheit regeneriert. Nach dem Verzehr sp
 Lavakugel
 
 [PRIMALPEASHOOTER_SUPERSKILL_DES]
-Die Kugel entwickelt sich zu einer Lavakugel, die kleine Magmakugeln verspritzt.
+Die Projektil entwickelt sich zu einer Lavakugel, die kleine Magmakugeln verspritzt.
 
 [DRAGONROAR_SUPERSKILL_NAME]
 Giftstoß
@@ -34871,7 +34871,7 @@ Nachdem die Zombies verdaut wurden, versprüht sie eine Giftsäule, die eine Rei
 Kreuzbombe
 
 [PRIMALRAFFLESIA_SUPERSKILL_DES]
-Wenn die Kugel trifft, löst sie eine X-förmige Giftexplosion aus, die Zombies in Reichweite schweren Giftschaden zufügt.
+Wenn die Projektil trifft, löst sie eine X-förmige Giftexplosion aus, die Zombies in Reichweite schweren Giftschaden zufügt.
 
 [PRIMALSUNFLOWER_SKILL_LEVEL1]
 Ursonnenschein
@@ -35151,7 +35151,7 @@ Die Spezialdünger-Fähigkeit spaltet eine zusätzliche primitive Kartoffelmine.
 Primitives Rafflesia-Outfit
 
 [STORE_PRODUCT_AVATAR_PRIMALRAFFLESIA]
-Bei Einsatz der ultimativen Fähigkeit verursacht jede Kugel eine giftige Explosion.
+Bei Einsatz der ultimativen Fähigkeit verursacht jede Projektil eine giftige Explosion.
 
 [STORE_PRODUCT_AVATAR_DRAGONROAR_TITLE]
 Drachengebrüll-Gras-Outfit
@@ -35471,7 +35471,7 @@ Zombies können durch den ultimativen elektrischen Strom 1 Sekunde lang gelähmt
 Alle treffen
 
 [BOWLINGBULB_SKILL_LEVEL5_DES]
-Es besteht die Chance, eine riesige Bowlingkugel aus drei Kugeln abzufeuern und so „Schnelles Wachstum“ oder „Sofortige Erholung“ zu aktivieren.
+Es besteht die Chance, eine riesige Bowlingkugel aus drei Projektile abzufeuern und so „Schnelles Wachstum“ oder „Sofortige Erholung“ zu aktivieren.
 
 [MONTHLY_CARD_QUERY_FAILED]
 Monatlicher Kartenkauf fehlgeschlagen
@@ -36239,7 +36239,7 @@ Quelle schnell übertragen.
 Erhöht den Skilleffekt der Eisquellenreduzierung um 100%.
 
 [MISSILETOE_SKILL_LEVEL5]
-Eisfeen-Kugel
+Eisfeen-Projektil
 
 [MISSILETOE_SKILL_LEVEL5_DES]
 Feuert Eisgeschosse ab, um hohen Schaden zu verursachen und nach einer gewissen Zeit Flächenschaden zu verursachen.
@@ -36322,7 +36322,7 @@ Elektro-Erbsenkanone
 {FLAVOR}Die Elektro-Erbsenkanone rechnet mit Widerstand. Aber wird deswegen nicht Ohm-mächtig.
 
 [ELECTRICPEASHOOTER_DESCRIPTION_HEADER]
-Elektro-Erbsenkanonen verschießen erbsenartige Kugeln, die Zombies durchschlagen und vor schädlicher Elektrizität nur so knistern.
+Elektro-Erbsenkanonen verschießen erbsenartige Projektile, die Zombies durchschlagen und vor schädlicher Elektrizität nur so knistern.
 
 [ELECTRICPEASHOOTER_TOOLTIP]
 Verschießt elektrische Erbsen
@@ -36586,7 +36586,7 @@ Der Name „Blumenkohl“ leitet sich von der Blütenform ab, die allgemein als 
 {SAY:WINNIE} Die Daten zeigen, dass sie eine starke Öffnungs- und Schließkraft zu haben scheinen.
 
 [NARRATIVE_ATLANTIS_17_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Was sind das für schwarze, stachelige Kugeln?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Was sind das für schwarze, stachelige Projektile?
 
 [NARRATIVE_ATLANTIS_17_INTRO_2]
 {SAY:WINNIE} Stamm Echinodermata, Klasse Echinoidea, Unterstamm Echinacea.
@@ -37052,7 +37052,7 @@ Rettich: Der einfache und weise Mann im Land
 
 Zweijähriges Kraut.
 
-Die Pfahlwurzel schwillt zu einer fleischigen Pfahlwurzel mit weißer, roter, grüner oder violett-schwarzer Epidermis an. Die Form variiert von einem langen Kegel bis zu einer runden Kugel. Der Stängel ist verzweigt, kahl und leicht pulverförmig. Die Grundblätter und die unteren Blätter sind gefiedert-spaltig, die oberen Stängelblätter sind länglich. Die Blüten sind weiß oder rosa und die vier Blütenblätter sind kreuzförmig angeordnet. Die Frucht ist eine zylindrische Schote. Bei Reife verholzt die Schale und spaltet und breitet sich auf natürliche Weise aus. Die Blütezeit ist April-Mai, die Fruchtzeit Mai-Juni.
+Die Pfahlwurzel schwillt zu einer fleischigen Pfahlwurzel mit weißer, roter, grüner oder violett-schwarzer Epidermis an. Die Form variiert von einem langen Kegel bis zu einer runden Projektil. Der Stängel ist verzweigt, kahl und leicht pulverförmig. Die Grundblätter und die unteren Blätter sind gefiedert-spaltig, die oberen Stängelblätter sind länglich. Die Blüten sind weiß oder rosa und die vier Blütenblätter sind kreuzförmig angeordnet. Die Frucht ist eine zylindrische Schote. Bei Reife verholzt die Schale und spaltet und breitet sich auf natürliche Weise aus. Die Blütezeit ist April-Mai, die Fruchtzeit Mai-Juni.
 Die Pflanze stammt ursprünglich aus Westasien und der Mittelmeerküste und wurde vor 5.000 Jahren in Ägypten kultiviert. Im chinesischen „Buch der Lieder“ wurde er „Fei“ genannt. Nachdem Zhang Qian ihn in der Han-Dynastie eingeführt hatte, wurde er allmählich „Rettich“ genannt. Später entwickelte er sich zu „Rettich“, was „üppige Graswurzeln“ bedeutet. Heute wird er weltweit in gemäßigten Zonen angebaut, und Chinas jährliche Produktion beträgt 40% der Weltproduktion. Besonders bekannt sind der Shandong Weixian Grüne Rettich und der Beijing Xinlimei. Darüber hinaus können seine Samen und Blätter als Medizin zur Verdauung und gegen Schleimbildung verwendet werden, und die Samen dienen der industriellen Ölgewinnung und dem Konsum.
 
 
@@ -38181,7 +38181,7 @@ Spuckt zwei große Blitze hintereinander aus, der Schaden wird erhöht.
 Donnerdrachengras Kostüm
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL1]
-Elektrische Kugelverstärkung
+Elektrische Projektilverstärkung
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL1_DES]
 Chance, einen großen Blitzball auszustoßen. Dieser erhöht den Schaden des Blitzballs und lähmt Zombies für 1 Sekunde.
@@ -38239,7 +38239,7 @@ Dauer der Strahlen-Zombie-Verwandlung um 2 Sekunden verlängert
 Strahlungsdiffusion
 
 [NUKELAUNCHER_SKILL_LEVEL5_DES]
-Die Strahlungsreichweite nach einem Kugelangriff ändert sich auf 3x3
+Die Strahlungsreichweite nach einem Projektilangriff ändert sich auf 3x3
 
 [DAZEYCHAIN]
 Stinkeblümchen
@@ -38431,13 +38431,13 @@ Stephania
 {FLAVOR} Stephanias Idol ist der Kapitän des nationalen Fliegenden Schild-Teams. Weil sie sein heldenhaftes Blocken und seinen Fliegenden Schild bewundert, hat Stephania auch hart daran gearbeitet, die Fähigkeiten des Fliegenden Schildes und Blockens zu meistern. Fragt nicht, warum der Schild zerbricht. Es ist nur ein gewöhnliches ziviles Produkt.
 
 [STEPHANIA_DESCRIPTION_HEADER]
-Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Projektilfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_TOOLTIP]
-Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Projektilfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_PRODUCT_SHORT_DESC]
-Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Projektilfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_AVATAR_NAME]
 Stephania Kostüm
@@ -38538,7 +38538,7 @@ Kostüm des Chefkoch Cypripedium's
 Kondensierte Gerichte
 
 [CYPRIPEDIUM_SKILL_LEVEL1_DES]
-Es besteht die Möglichkeit, ein konzentriertes Gericht abzufeuern, wodurch die Reichweite der Kugel ein Feld beträgt.
+Es besteht die Möglichkeit, ein konzentriertes Gericht abzufeuern, wodurch die Reichweite der Projektil ein Feld beträgt.
 
 [CYPRIPEDIUM_SKILL_LEVEL2]
 Stabiles Verfahren
@@ -38550,7 +38550,7 @@ Die Wahrscheinlichkeit konzentrierter Gerichte wurde auf 100% erhöht.
 Neue Gerichte
 
 [CYPRIPEDIUM_SKILL_LEVEL5_DES]
-Neue Gerichte verursachen nun eine Vergiftung der Kugeln.
+Neue Gerichte verursachen nun eine Vergiftung der Projektile.
 
 [SLINGPEA]
 Schleudererbse
@@ -38572,7 +38572,7 @@ Verschießt 5 Erbsen über das gesamte Spielfeld
 Schleudererbse-Kostüm
 
 [STORE_PRODUCT_AVATAR_SLINGPEA]
-Jede Kugelwelle hat eine Chance von 50%, sich in blaue Feuergeschosse und eine Chance von 50%, sich in gelbe Geschosse zu verwandeln.
+Jede Projektilwelle hat eine Chance von 50%, sich in blaue Feuergeschosse und eine Chance von 50%, sich in gelbe Geschosse zu verwandeln.
 
 [STORE_PRODUCT_AVATAR_SLINGPEA_TITLE]
 -Kostüm
@@ -39510,13 +39510,13 @@ Erbsenranken-Kostüm
 Die Spezialdünger Fähigkeit bietet die Chance, verschiedene Erbsen abzufeuern.
 
 [PEAVINE_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie rechts neben der Erbsenranke, feuert er Erbsenkugeln geradlinig auf ihn ab. Handelt es sich bei der Pflanze darüber um eine Erbsenpflanze, besteht eine Chance von 20%, eine Kugelreplikation auszulösen, die Erbsenkugeln mit den Grundeigenschaften dieser Pflanze abfeuert.
+Erscheint ein Zombie rechts neben der Erbsenranke, feuert er Erbsenkugeln geradlinig auf ihn ab. Handelt es sich bei der Pflanze darüber um eine Erbsenpflanze, besteht eine Chance von 20%, ein Projektilreplikation auszulösen, die Erbsenkugeln mit den Grundeigenschaften dieser Pflanze abfeuert.
 
 [PEAVINE_NEW_SKILL_LEVEL2_DES]
-Wenn eine Erbsenpflanze an der Erbsenranke gepflanzt wird, erscheint ein Erbsenverstärkungslicht, das der Pflanze einen Angriffskraftbonus von 15% verleiht. Die Wahrscheinlichkeit, eine Kugelreplikation auszulösen, erhöht sich auf 60%.
+Wenn eine Erbsenpflanze an der Erbsenranke gepflanzt wird, erscheint ein Erbsenverstärkungslicht, das der Pflanze einen Angriffskraftbonus von 15% verleiht. Die Wahrscheinlichkeit, ein Projektilreplikation auszulösen, erhöht sich auf 60%.
 
 [PEAVINE_NEW_SKILL_LEVEL3_DES]
-Das Erbsenverstärkungslicht wird verstärkt, wodurch Erbsenpflanzen einen Angriffskraftbonus von 30% erhalten. Die Wahrscheinlichkeit der Kugelreplikation steigt auf 80%.
+Das Erbsenverstärkungslicht wird verstärkt, wodurch Erbsenpflanzen einen Angriffskraftbonus von 30% erhalten. Die Wahrscheinlichkeit der Projektilreplikation steigt auf 80%.
 
 [PEAVINE_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
@@ -39659,7 +39659,7 @@ Die Angriffsmethode ändert sich: Es können größere Ölkugeln verdichtet werd
 Der Rapsblumenkrug dreht schnell seine Arme und wirft eine Ölkugel auf jeden Zombie auf dem Bildschirm.
 
 [RAPEFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Rapsblumenkrug dreht schnell seine Arme und wirft jedem Zombie auf dem Bildschirm eine Kugel brennenden ^ff0000^ Öls (^oldclr^) zu.
+Der Rapsblumenkrug dreht schnell seine Arme und wirft jedem Zombie auf dem Bildschirm ein Projektil brennenden ^ff0000^ Öls (^oldclr^) zu.
 
 [DRACAENA]
 Dracaena scabra
@@ -39719,7 +39719,7 @@ Die Reichweite des fliegenden Schwertes wurde auf ein einzelnes Raster geändert
 Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [DRACAENA_NEW_SKILL_LEVEL5_DES]
-Beim Angriff hat der Schwertblatt-Drachenblutbaum eine 30-prozentige Chance, das fliegende Schwert hinter ihm und das Schwert in seiner Hand zu manipulieren und zu einem großen Schwert zu verschmelzen. Nach Abschluss der Fusion fliegt das große Schwert nach vorne und durchdringt alle Zombies auf der Route. Dabei verursacht es jeweils 1500 Schadenspunkte. Beträgt die Gesundheit des angegriffenen Zombies weniger als 50 % der Gesamtgesundheit, wird er direkt getötet.
+Beim Angriff hat der Schwertblatt-Drachenblutbaum eine 30% Chance, das fliegende Schwert hinter ihm und das Schwert in seiner Hand zu manipulieren und zu einem großen Schwert zu verschmelzen. Nach Abschluss der Fusion fliegt das große Schwert nach vorne und durchdringt alle Zombies auf der Route. Dabei verursacht es jeweils 1500 Schadenspunkte. Beträgt die Gesundheit des angegriffenen Zombies weniger als 50 % der Gesamtgesundheit, wird er direkt getötet.
 
 [DRACAENA_PLANTFOOD_DESCRIPTION]
 Der Schwertblatt-Drachenblutbaum lässt die zehntausend Schwerter zum Ursprung zurückkehren und schleudert 50 kleine Schwerter in einer Reihe nach vorne. Jedes kleine Schwert verschwindet, nachdem es einen Zombie/ein Hindernis angegriffen hat, und der angegriffene Zombie wird 0,5 Gitter zurückgeworfen. Das große Bewegungsschwert löst keinen Tötungseffekt aus.
@@ -39829,7 +39829,7 @@ Die Menge an Sonnenlicht, die jeder von der Schein-Ranke  im Nahkampf angegriffe
 Sonnenlichtschock
 
 [SHINEVINE_SKILL_LEVEL5_DES]
-Klicke auf die Schein-Ranke, um Sonnenlicht zu verbrauchen und Kugeln abzufeuern, um Zombies anzugreifen. Drücke lange auf die Leuchtende Ranke, um mehr Sonnenlicht zu verbrauchen und Granaten abzufeuern, um Zombies anzugreifen.
+Klicke auf die Schein-Ranke, um Sonnenlicht zu verbrauchen und Projektile abzufeuern, um Zombies anzugreifen. Drücke lange auf die Leuchtende Ranke, um mehr Sonnenlicht zu verbrauchen und Granaten abzufeuern, um Zombies anzugreifen.
 
 [STORE_PRODUCT_AVATAR_SHINEVINE_TITLE]
 Kostüm der Schein-Ranke
@@ -39971,7 +39971,7 @@ Nachtmützenkostüm
 Nachtmützenkostüm
 
 [STORE_PRODUCT_AVATAR_NIGHTCAP]
-Nach dem ultimativen Move wird die letzte Kugelwelle auf die Pflanze zurückgeführt und fügt den Zombies, denen sie erneut begegnet, Schaden zu.
+Nach dem ultimativen Move wird die letzte Projektilwelle auf die Pflanze zurückgeführt und fügt den Zombies, denen sie erneut begegnet, Schaden zu.
 
 [NIGHTCAP_NEW_SKILL_LEVEL1_DES]
 Wenn der Nachtporling gepflanzt wird, erscheint Gift auf dem Feld, in dem es sich befindet. Es verursacht kontinuierlichen Schaden an den vorbeikommenden Zombies und vergiftet sie. Wird die Pflanze angegriffen oder kontrolliert, nimmt sie die Nachtform an und ist immun gegen diesen Angriff oder diese Kontrolle. Die Pflanze erleidet während dieser Zeit keinen Schaden. Die Nachtform hält 10 Sekunden an und beginnt dann mit einer Abklingzeit von 10 Sekunden. Wenn der Zombie die vier Felder rechts vom Nachtpilz betritt, greift dieser alle Zombies in diesen vier Feldern an und fügt ihnen Schaden zu, verlangsamt sie und vergiftet sie.
@@ -39992,7 +39992,7 @@ Jeder Angriff des Nachtporling hat eine Chance von 15%, alle kleinen Energiebäl
 Der Nachtporling fügt den Zombies im Umkreis von 5*3 vor ihm 3 Schadenspunkte zu. Überleben die Zombies im Umkreis, werden sie vergiftet und ziehen sich 1 Feld zurück. Die Abklingzeit der Nachtgestalt des Nachtpilzes endet sofort.
 
 [NIGHTCAP_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Nachtporling fügt Zombies im Umkreis von 5*3 vor ihm 3 Schadenspunkte zu. Überleben die Zombies im Umkreis, werden sie vergiftet ^701edf^ und ziehen sich 1 Feld zurück. ^ff0000^ Die letzte Kugelwelle wird auf den Dunkelpilz zurückgeführt, um den Zombies, die er berührt, weiteren Schaden zuzufügen ^oldclr^. Die Abklingzeit der Dunkelgestalt des Dunkelpilzes endet sofort.
+Der Nachtporling fügt Zombies im Umkreis von 5*3 vor ihm 3 Schadenspunkte zu. Überleben die Zombies im Umkreis, werden sie vergiftet ^701edf^ und ziehen sich 1 Feld zurück. ^ff0000^ Die letzte Projektilwelle wird auf den Dunkelpilz zurückgeführt, um den Zombies, die er berührt, weiteren Schaden zuzufügen ^oldclr^. Die Abklingzeit der Dunkelgestalt des Dunkelpilzes endet sofort.
 
 [PYREVINE] 
 Scheiterranke
@@ -40251,10 +40251,10 @@ Heliconia-Schützen kostüm
 Heliconia-Schützen kostüm
 
 [STORE_PRODUCT_AVATAR_HELICONIAGUNNER]
-Während der Rotation des ultimativen Moves wird pro sechs Kugeln eine panzerbrechende Kugel hinzugefügt. Diese kann Zombies durchdringen und größeren Schaden verursachen.
+Während der Rotation des ultimativen Moves wird pro sechs Projektile eine panzerbrechende Projektil hinzugefügt. Diese kann Zombies durchdringen und größeren Schaden verursachen.
 
 [HELICONIAGUNNER_NEW_SKILL_LEVEL1_DES]
-Befinden sich Zombies in Angriffsreichweite der Heliconia, werden die Kugeln sehr schnell abgefeuert. Ziel ist die Position der Zombies. Zombies links neben der Heliconia werden zuerst getroffen. Die Heliconia hat 30 Kugeln an der Basis. Nach dem Schuss dauert das Nachladen etwas. Die Pflanze verfügt über drei zusätzliche Fangnetzkanonen auf ihrem Rücken. Sie feuert auf die Zombies links und links daneben. Die im Netz gefangenen Zombies können sich nicht bewegen. Die Kugeln der Fangnetzkanone können nicht wiederhergestellt werden.
+Befinden sich Zombies in Angriffsreichweite der Heliconia, werden die Projektile sehr schnell abgefeuert. Ziel ist die Position der Zombies. Zombies links neben der Heliconia werden zuerst getroffen. Die Heliconia hat 30 Projektile an der Basis. Nach dem Schuss dauert das Nachladen etwas. Die Pflanze verfügt über drei zusätzliche Fangnetzkanonen auf ihrem Rücken. Sie feuert auf die Zombies links und links daneben. Die im Netz gefangenen Zombies können sich nicht bewegen. Die Projektile der Fangnetzkanone können nicht wiederhergestellt werden.
 
 [HELICONIAGUNNER_NEW_SKILL_LEVEL2_DES]
 Erhöht die Magazinkapazität und Feuerrate um 20%.
@@ -40269,10 +40269,10 @@ Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt abzufeuer
 Nach jedem Magazinschuss verwandelt sich das Fass in einen Raketenwerfer, der drei automatisch verfolgende Raketen abfeuert. Trifft die Rakete den Zombie, explodiert sie und verursacht Schaden in Höhe von 3×3.
 
 [HELICONIAGUNNER_PLANTFOOD_DESCRIPTION]
-Der Heliconia-Schütze beginnt, das Maschinengewehr zu rotieren und feuert wie verrückt Kugeln ab. Insgesamt rotiert er dreimal.
+Der Heliconia-Schütze beginnt, das Maschinengewehr zu rotieren und feuert wie verrückt Projektile ab. Insgesamt rotiert er dreimal.
 
 [HELICONIAGUNNER_AVATAR_PLANTFOOD_DESCRIPTION]
-Während der Rotation der Spezialdünger-Fähigkeit wird jeweils eine panzerbrechende Kugel in sechs Kugeln gemischt, die Zombies durchdringen und größeren Schaden verursachen kann.
+Während der Rotation der Spezialdünger-Fähigkeit wird jeweils eine panzerbrechende Projektil in sechs Projektile gemischt, die Zombies durchdringen und größeren Schaden verursachen kann.
 
 [ELECTRICPEEL]
 Zitterschale
@@ -40810,18 +40810,18 @@ Heavendatura
 
 [HEAVENDATURA_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Ein Feld vorn bis 5×5
-{KEYWORD}Merkmale: {STAT}Resonante Schallwellen werden erzeugt, wenn Kugeln durchschlagen.
+{KEYWORD}Merkmale: {STAT}Resonante Schallwellen werden erzeugt, wenn Projektile durchschlagen.
 {KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze
 {FLAVOR}Heavendatura kann sich an gehörte Geräusche erinnern und sie in seinem Gedächtnis reproduzieren. Daher ist es ein großer Fan vieler Bands geworden.
 
 [HEAVENDATURA_DESCRIPTION_HEADER]
-Wenn die Kugel vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
+Wenn die Projektil vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
 
 [HEAVENDATURA_TOOLTIP]
-Wenn die Kugel vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
+Wenn die Projektil vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
 
 [HEAVENDATURA_PRODUCT_SHORT_DESC]
-Wenn die Kugel vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
+Wenn die Projektil vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
 
 [HEAVENDATURA_SKILL_LEVEL1]
 Starke Resonanz
@@ -40851,7 +40851,7 @@ Echo-Mandragora-Kostüm
 Schallwellen können Zombies zusätzlich vom Boden abschütteln.
 
 [HEAVENDATURA_NEW_SKILL_LEVEL1_DES]
-Klicke auf die Mandragora, um eine einzelne Note zu erzeugen, und schiebe sie, um die Tonhöhe der einzelnen Note zu ändern. Wenn eine Kugel vorbeifliegt, kann sie eine Schallwelle aussenden, die Zombies im Umkreis eines Feldes vor ihnen Schaden zufügt und je nach Tonleiter verschiedene Soundeffekte abspielt. Beim kontinuierlichen Pflanzen von Mandragora werden die Schallwellen ab der dritten Note abgespielt. Die Schadensreichweite des Notenauslösers beträgt zu Beginn 3×3 und ab der fünften Note 5×5.
+Klicke auf die Mandragora, um eine einzelne Note zu erzeugen, und schiebe sie, um die Tonhöhe der einzelnen Note zu ändern. Wenn ein Projektil vorbeifliegt, kann sie eine Schallwelle aussenden, die Zombies im Umkreis eines Feldes vor ihnen Schaden zufügt und je nach Tonleiter verschiedene Soundeffekte abspielt. Beim kontinuierlichen Pflanzen von Mandragora werden die Schallwellen ab der dritten Note abgespielt. Die Schadensreichweite des Notenauslösers beträgt zu Beginn 3×3 und ab der fünften Note 5×5.
 
 [HEAVENDATURA_NEW_SKILL_LEVEL2_DES]
 Wenn die auslösende Note den Zombie trifft, wird dieser 0,1 Sekunden lang betäubt. Ab der zweiten Note beträgt die Reichweite 3×3.
@@ -41208,7 +41208,7 @@ Der Schaden großer Blasen erhöht sich um 50%, die Angriffsgeschwindigkeit mitt
 Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [BUBBLECORAL_NEW_SKILL_LEVEL5_DES]
-Es besteht eine 50-prozentige Chance, dass es sich bei den abgefeuerten Blasen um Säureblasen handelt. Säureblasen erhöhen den Schaden an der Rüstung. Mittlere und große Blasen hinterlassen nach der Explosion Säure auf dem Boden, die Zombies kontinuierlich Schaden zufügt.
+Es besteht eine 50% Chance, dass es sich bei den abgefeuerten Blasen um Säureblasen handelt. Säureblasen erhöhen den Schaden an der Rüstung. Mittlere und große Blasen hinterlassen nach der Explosion Säure auf dem Boden, die Zombies kontinuierlich Schaden zufügt.
 
 [BUBBLECORAL_PLANTFOOD_DESCRIPTION]
 Bläht eine riesige Blase, die in viele Blasen zerplatzt.
@@ -41908,7 +41908,7 @@ Die Wahrscheinlichkeit, Zombies während eines Angriffs einzufrieren, steigt auf
 Eisnebel schlägt zu
 
 [WINTERRAMBUTAN_SKILL_LEVEL5_DES]
-Nach dem Einschlag des Schneeballs besteht für alle Zombies im Umkreis von 3*3 Eisnebel eine 15-prozentige Chance, eingefroren zu werden.
+Nach dem Einschlag des Schneeballs besteht für alle Zombies im Umkreis von 3*3 Eisnebel eine 15% Chance, eingefroren zu werden.
 
 [STORE_PRODUCT_AVATAR_WINTERRAMBUTAN_TITLE]
 Frost-Avutan-Kostüm
@@ -42020,7 +42020,7 @@ Elementarmeister
 
 [MEGAGATLING_SKILL_LEVEL5_DES]
 Die Wahrscheinlichkeit, die Spezialdünger-Fähigkeit mit einem normalen Angriff auszulösen, erhöht sich auf 10%.
-Die Erbsenkanone kann gestapelt werden, um die Wirkung aller Kugeln zu verstärken.
+Die Erbsenkanone kann gestapelt werden, um die Wirkung aller Projektile zu verstärken.
 Wenn nicht Gestapelt: Es besteht die Möglichkeit, primär verstärkte Geschosse abzufeuern.
 
 [MEGAGATLING_AVATAR_NAME]
@@ -42049,7 +42049,7 @@ Das Pflanzen hat eine hohe Wahrscheinlichkeit, eine Spezialdünger-Fähigkeit au
 
 [MEGAGATLING_NEW_SKILL_LEVEL5_DES]
 Die Wahrscheinlichkeit, dass ein normaler Angriff eine Spezialdünger-Fähigkeit auslöst, steigt auf 10%.
-Du kannst die Erbsenkanone stapeln, um die Wirkung aller Kugeln zu verstärken.
+Du kannst die Erbsenkanone stapeln, um die Wirkung aller Projektile zu verstärken.
 Wenn nicht gestapelt wird, gibt es Wahrscheinlichkeit, primär verstärkte Geschosse abzufeuern
 
 [MEGAGATLING_PLANTFOOD_DESCRIPTION]
@@ -42132,7 +42132,7 @@ Pokra-Kostüm
 Stachel-Kombo
 
 [POKRA_SKILL_LEVEL1_DES]
-Beim Angriff besteht eine 20-prozentige Chance, Doppelstacheln für eine schnelle Stich-Kombo zu schwingen.
+Beim Angriff besteht eine 20% Chance, Doppelstacheln für eine schnelle Stich-Kombo zu schwingen.
 
 [POKRA_SKILL_LEVEL2]
 Doppelte Bedrohung
@@ -42144,7 +42144,7 @@ Erhöht die Wahrscheinlichkeit einer Stachel-Kombo um 100%.
 Zweifingerpistole Kehle
 
 [POKRA_SKILL_LEVEL5_DES]
-Nach dem Angriff besteht eine 15%ige Chance, dass Qiukuis nächster Angriff schnell nach vorne sticht, dann direkt eine durchdringende Kugel abfeuert und zur ursprünglichen Angriffsgeschwindigkeit zurückkehrt.
+Nach dem Angriff besteht eine 15%ige Chance, dass Qiukuis nächster Angriff schnell nach vorne sticht, dann direkt eine durchdringende Projektil abfeuert und zur ursprünglichen Angriffsgeschwindigkeit zurückkehrt.
 
 [HYDROCOTYLEDRUMMER]
 Hydrocotyledrummer
@@ -42730,7 +42730,7 @@ Die Wahrscheinlichkeit, den Zeitumkehreffekt auszulösen, steigt auf 12%
 Zauberhut
 
 [HATMUSHROOM_SKILL_LEVEL5_DES]
-Beim Angriff des Verrückten Hutmachers besteht eine 10-prozentige Chance, dass ein Zauberhut herausgeschleudert wird, der hohen Schaden verursacht. Der erste getroffene Zombie löst einen stärkeren Zeitumkehreffekt aus und wird direkt nach ganz rechts auf den Bildschirm teleportiert.
+Beim Angriff des Verrückten Hutmachers besteht eine 10% Chance, dass ein Zauberhut herausgeschleudert wird, der hohen Schaden verursacht. Der erste getroffene Zombie löst einen stärkeren Zeitumkehreffekt aus und wird direkt nach ganz rechts auf den Bildschirm teleportiert.
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM_TITLE]
 Verrückter Hutmacher-Kostüm
@@ -43205,7 +43205,7 @@ Fleißiges Lieschen Schützin
 
 [IMPATIENSSHOOTER_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
-{KEYWORD}Funktionen: {STAT}Spuckt Farbkugeln aus, um Zombies vor ihnen anzugreifen. Nach einer Weile färbt es sich ein und verschießt stärkere Kugeln.
+{KEYWORD}Funktionen: {STAT}Spuckt Farbkugeln aus, um Zombies vor ihnen anzugreifen. Nach einer Weile färbt es sich ein und verschießt stärkere Projektile.
 {KEYWORD}Pflanzenfunktionen: {STAT}weiße Pflanze, rosa Pflanzen, orange Pflanzen, violette Pflanzen
 
 {FLAVOR} Obwohl die Fleißiges Lieschen Schützin, welche schon immer eine Top-Make-up-Artistin werden wollte, eine gewisse Popularität erlangte, indem sie ständig Fotos von sich in verschiedenen Farben in sozialen Netzwerken hochlud, ahnte sie nicht, dass die Leute sie tatsächlich mochten, als sie weiß war.
@@ -43238,7 +43238,7 @@ Die Zeit, die die Fleißiges Lieschen Schützin zum Färben benötigt, wird erne
 Lila Form
 
 [IMPATIENSSHOOTER_SKILL_LEVEL5_DES]
-Das Fleißige Lieschen kann sich in eine stärkere violette Form verwandeln. Die violetten Kugeln, die sie ausspuckt, haften stärker und können explodieren, was Flächenschaden und Verlangsamung verursacht.
+Das Fleißige Lieschen kann sich in eine stärkere violette Form verwandeln. Die violetten Projektile, die sie ausspuckt, haften stärker und können explodieren, was Flächenschaden und Verlangsamung verursacht.
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER_TITLE]
 Imperia-Bogenschützenkostüm
@@ -43247,7 +43247,7 @@ Imperia-Bogenschützenkostüm
 Imperia-Bogenschützenkostüm
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER]
-Die Anzahl der von der ultimativen Fähigkeit abgefeuerten Kugeln verdoppelt sich. Die Kugeln fliegen nicht geradeaus, sondern werden verstreut.
+Die Anzahl der von der ultimativen Fähigkeit abgefeuerten Projektile verdoppelt sich. Die Projektile fliegen nicht geradeaus, sondern werden verstreut.
 
 [TIGERSTOOL]
 Tigerkopfpilz
@@ -43441,7 +43441,7 @@ Angriffs-Bambussoldaten
 
 [RIFLEBAMBOO_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
-{KEYWORD}Eigenschaften: {STAT}Schießt eine Kugel ab, die nach vorne eindringt und den eindringenden Zombie verlangsamt.
+{KEYWORD}Eigenschaften: {STAT}Schießt ein Projektil ab, die nach vorne eindringt und den eindringenden Zombie verlangsamt.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
 
 {FLAVOR} Zielen ... 3! 2! 1! Schießen! Geduldig, ernst, sorgfältig, beständig – mit diesen Worten loben die Pflanzen in seiner Umgebung den Gewehrbambussoldaten oft. Doch er weiß, dass diese Worte nicht ganz richtig sind. Er möchte zum Beispiel größer werden. Wenn er größer als eine große Nuss wird, kann er sich aus dem Boden graben und dreimal durch den Garten rennen.
@@ -43456,25 +43456,25 @@ Feuert einen Bohrer ab und verlangsamt Zombies beim Durchbohren.
 Feuert einen Bohrer ab und verlangsamt Zombies beim Durchbohren.
 
 [RIFLEBAMBOO_AVATAR_SPRINGPRINCESS]
-Feuert drei riesige Bohrer hintereinander in drei Richtungen. Treffen die Kugeln Zombies, verursachen sie weiterhin Schaden und verlangsamen diese zusätzlich, was zu einer Explosion mit größerem Schaden führt.
+Feuert drei riesige Bohrer hintereinander in drei Richtungen. Treffen die Projektile Zombies, verursachen sie weiterhin Schaden und verlangsamen diese zusätzlich, was zu einer Explosion mit größerem Schaden führt.
 
 [RIFLEBAMBOO_SKILL_LEVEL1]
 Weiter drehen
 
 [RIFLEBAMBOO_SKILL_LEVEL1_DES]
-Die Kugeln bleiben 1 Sekunde länger auf den Zombies.
+Die Projektile bleiben 1 Sekunde länger auf den Zombies.
 
 [RIFLEBAMBOO_SKILL_LEVEL2]
 Weiter drehen
 
 [RIFLEBAMBOO_SKILL_LEVEL2_DES]
-Die Kugeln bleiben 1 Sekunde länger auf den Zombies.
+Die Projektile bleiben 1 Sekunde länger auf den Zombies.
 
 [RIFLEBAMBOO_SKILL_LEVEL5]
 Kann nicht mehr rotieren.
 
 [RIFLEBAMBOO_SKILL_LEVEL5_DES]
-Die fliegenden Kugeln werden zu größeren Bohrern. Kurz vor dem Ende der Übungen wird die letzte Explosion zu einer Einzelgitterexplosion.
+Die fliegenden Projektile werden zu größeren Bohrern. Kurz vor dem Ende der Übungen wird die letzte Explosion zu einer Einzelgitterexplosion.
 
 [STORE_PRODUCT_AVATAR_RIFLEBAMBOO_TITLE]
 Angriffs-Bambussoldaten Kostüm
@@ -43652,13 +43652,13 @@ Feuersturm gelenkter Pfeile.
 Stachel-Verbesserung
 
 [HEATHSEEKER_SKILL1_LEVEL1_DES]
-Anzahl der Kugeln +1, Anzahl der Durchschläge pro Kugel +1
+Anzahl der Projektile +1, Anzahl der Durchschläge pro Projektil +1
 
 [HEATHSEEKER_SKILL1_LEVEL2]
 Stachel-Evolution
 
 [HEATHSEEKER_SKILL1_LEVEL2_DES]
-Anzahl der Kugeln +1, Anzahl der Durchschläge pro Kugel +1
+Anzahl der Projektile +1, Anzahl der Durchschläge pro Projektil +1
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER_TITLE]
 Heiße Heide Kostüm
@@ -44440,7 +44440,7 @@ Gesamtstärke: ^436eee 4 ^oldclr
 [PVZ_WORLDCUP_TEAM7_DES_6]
 
 [PVZ_WORLDCUP_TEAM4_DES_1]
-^ffed86 Offensive ^oldclr Es heißt, die Zombies, die gegen sie gekämpft haben, erinnern sich nur an die Kugeln, die durch den Himmel flogen!
+^ffed86 Offensive ^oldclr Es heißt, die Zombies, die gegen sie gekämpft haben, erinnern sich nur an die Projektile, die durch den Himmel flogen!
 
 [PVZ_WORLDCUP_TEAM4_DES_2]
 Offensivindex: ^436eee 5 ^oldclr
@@ -46120,7 +46120,7 @@ Narziss-Königin-Kostüm
 Narziss-Königin-Kostüm
 
 [STORE_PRODUCT_AVATAR_NARCISSUSSHOOTER]
-Die Spezialdünger-Fähigkeit verwandelt sich in farbige Kugeln und stößt mittelgroße Zombies um zwei Felder zurück.
+Die Spezialdünger-Fähigkeit verwandelt sich in farbige Projektile und stößt mittelgroße Zombies um zwei Felder zurück.
 
 [HOLLYKNIGHT]
 Holly-Barriere
@@ -46973,7 +46973,7 @@ Aktivitätsregeln:
 
 3. Der Fortschritt, die Drachenkristalle und die Punkte dieses Events werden nicht auf die nächste Periode übertragen. Nach Ende des Events werden die verbleibenden Drachenkristalle im Verhältnis 1:1 in Juwelen und die verbleibenden Punkte im Verhältnis 1:100 in Goldmünzen umgewandelt.
 4. Spieler können Belohnungen aus der Schatzkammer des Drachenclans erhalten, indem sie Drachenkristalle ausgeben. Die Wahrscheinlichkeiten sind:
-Ausgewählte Belohnung 1 (Hydraulikartefakt, Speer, Kugelorchidee, Roter-Junge-Ganzkörperkostüm, Fragmente des gierigen Drachengrases * 20) 1,00%
+Ausgewählte Belohnung 1 (Hydraulikartefakt, Speer, Projektilorchidee, Roter-Junge-Ganzkörperkostüm, Fragmente des gierigen Drachengrases * 20) 1,00%
 Ausgewählte Belohnung 2 (Richtungsfragmente * 10, Artefakt-Segensgutscheine * 30, Fragmente des gierigen Drachengrases * 10) 2,21%
 Ausgewählte Belohnung 3 (Fragmente des gierigen Drachengrases * 10, Artefakt-Segensgutscheine * 30, Richtungsfragmente * 10) 1,89%
 Gen-Essenz * 4 11,50% Universelle Genmünzen * 60 11,50%
@@ -48925,7 +48925,7 @@ Die Gesundheit von Straßenlaternenblüten erhöht sich um {Param_1}%.
 Die Angriffskraft von Erbsenschoten erhöht sich um {Param_1}% mit der Anzahl überlappender Pflanzen.
 
 [GENE_DESCRIPTION_TORCHWOOD]
-Fackelholzstümpfe können andere Kugeln als Erbsen entzünden, deren Schaden nach der Zündung um {Param_1}% steigt.
+Fackelholzstümpfe können andere Projektile als Erbsen entzünden, deren Schaden nach der Zündung um {Param_1}% steigt.
 
 [GENE_DESCRIPTION_PUMPKIN]
 Wenn du einen Kürbiskopf pflanzt, erhältst du zusätzliche {Param_1} Punkte Gesundheit.
@@ -48970,7 +48970,7 @@ Der Schaden des aufgeladenen Angriffs des Bulgur-Meteorhammers erhöht sich um {
 Die Angriffsgeschwindigkeit von Butterblume erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_GATLINGPEA]
-Nach dem ultimativen Angriff der Gatling-Erbse bleibt die zusätzliche Gatling-Erbse erhalten und wird bei jedem Angriff zusätzlich eingesetzt. Feuert jeweils 6 Kugeln in die 3 Reihen rechts ab und endet nach {Param_1} Angriffen.
+Nach dem ultimativen Angriff der Gatling-Erbse bleibt die zusätzliche Gatling-Erbse erhalten und wird bei jedem Angriff zusätzlich eingesetzt. Feuert jeweils 6 Projektile in die 3 Reihen rechts ab und endet nach {Param_1} Angriffen.
 
 [GENE_DESCRIPTION_MANGOSTEEN]
 Erhöht den Schaden der ultimativen Mangostan-Attacke um {Param_1}%.
@@ -48988,7 +48988,7 @@ Erhöht die Angriffsgeschwindigkeit des Bumerang-Werfers um {Param_1}%.
 Ionisiertes Anthurium: Der Schaden des Elektroballs wird um {Param_1}% erhöht.
 
 [GENE_DESCRIPTION_HOMINGTHISTLE]
-Die Wahrscheinlichkeit, dass Homing Thistle zwei Kugeln hintereinander abfeuert, wird um {Param_1}% erhöht (wirksam ab Level 2).
+Die Wahrscheinlichkeit, dass Homing Thistle zwei Projektile hintereinander abfeuert, wird um {Param_1}% erhöht (wirksam ab Level 2).
 
 [GENE_DESCRIPTION_AGAVE]
 Beim Angriff hat Agave eine Wahrscheinlichkeit von {Param_1}%, zusätzliche Schwertenergie mit der gleichen Angriffskraft wie beim Hiebangriff zu schwingen und Zombies im 3. bis 5. Feld rechts Schaden zuzufügen.
@@ -51114,7 +51114,7 @@ Magische Bohnenstangen können nicht gepflanzt werden auf Schienen
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave} Die Typen haben ganz schön was in der Hand! Wollen sie Geschenke verteilen?
 
 [NARRATIVE_HEIAN_5_INTRO_2]
-{SAY:winnie} Vorsicht, das sind Ninja-Zombies, und sie halten lebende Kugelfische in der Hand!
+{SAY:winnie} Vorsicht, das sind Ninja-Zombies, und sie halten lebende Projektilfische in der Hand!
 
 [NARRATIVE_HEIAN_5_INTRO_3]
 {EXCITED:crazydave} Was wollen die Typen? Ich wette, die wollen mir meine Tacos klauen!
@@ -51556,7 +51556,7 @@ Ninja-Wicht Zombie
 Ninja-Wicht Zombie benutzt oft Rauchbomben, um alle auf sein Kommen aufmerksam zu machen!
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
-Der Kugelfisch in den Händen des Ninja-Wicht-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
+Der Projektilfisch in den Händen des Ninja-Wicht-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
 
 [ZOMBIE_HEIAN_HANABI]
 Feuerwerk-Zombie
@@ -52295,7 +52295,7 @@ Gesundheit um 20% erhöht
 Primärerbsen-Frühlingsfestkostüm
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_2]
-Erhöht die Wahrscheinlichkeit, dass Kugeln Zombies treffen und zurückstoßen
+Erhöht die Wahrscheinlichkeit, dass Projektile Zombies treffen und zurückstoßen
 
 [STORE_PRODUCT_AVATAR_GOLDBLOOM_TITLE]
 Goldenes Knospenkleid
@@ -52511,7 +52511,7 @@ Rote Sterne erscheinen bei normalem Angriff und blaue Sterne bei normalem Angrif
 Weihnachtskostüm „Erbsen“
 
 [NEW_AVATAR_DESCRIPTION_PEASHOOTER_2]
-10% Chance, bei normalem Angriff zwei Kugeln hintereinander abzufeuern.
+10% Chance, bei normalem Angriff zwei Projektile hintereinander abzufeuern.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_1]
 Weihnachtskostüm „Walnuss“
@@ -54011,7 +54011,7 @@ Die Geschwindigkeit, mit der Pflanzensamen auf dem Förderband erscheinen, erhö
 Schwächt {ZOMBIE} im Kampflevel!
 
 [PENNY_JUGGLED_DESCRIPTION]
-Nach Kampfbeginn prallen alle Pflanzen auf dem Feld alle {TIME} Sekunden für {DURATION} Sekunden Zombie-Kugeln ab!
+Nach Kampfbeginn prallen alle Pflanzen auf dem Feld alle {TIME} Sekunden für {DURATION} Sekunden Zombie-Projektile ab!
 
 [CHALLENGE_APPLY_ZOMBIE_CONDITIONS_OF_TYPE]
 {TYPE} Zombies {COUNT} Mal!
@@ -54363,10 +54363,10 @@ Thema dieser Ausgabe:
 (Verbleibende Zeit: {DURATION})
 
 [THEME_PROJECTILE_NAME]
-Fliegende Kugeln werden von allen Zombies abgelenkt.
+Fliegende Projektile werden von allen Zombies abgelenkt.
 
 [THEME_PROJECTILE_DESCRIPTION]
-Fliegende Kugeln werden von allen Zombies abgelenkt.
+Fliegende Projektile werden von allen Zombies abgelenkt.
 
 [THEME_NUKE_NAME]
 Verteidigungspflanzen werden zerbrechlich.
@@ -55088,7 +55088,7 @@ Beschwöre eine 8-Bit-Erbsenkanone durch Tippen auf den Bildschirm.
 Kombo-Spiel
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_1]
-Aktiv einsetzen: Beschwöre zwei Reihen 8-Bit-Erbsenkanonen auf dem linken freien Feld. Das Spiel wird für 5 Sekunden pausiert. Du kannst währenddessen kontinuierlich auf den Bildschirm klicken. Nach 5 Sekunden feuert die 8-Bit-Erbsenkanone je nach Klickanzahl eine unterschiedliche Anzahl von Kugeln ab. Jede Kugel verursacht {MainField_1} Schadenspunkte. Nach dem Abfeuern der Kugeln verschwinden alle 8-Bit-Erbsenkanonen. Die Fertigkeit kühlt 30 Sekunden lang ab. Kann {MainField_3} Mal pro Kampf eingesetzt werden.
+Aktiv einsetzen: Beschwöre zwei Reihen 8-Bit-Erbsenkanonen auf dem linken freien Feld. Das Spiel wird für 5 Sekunden pausiert. Du kannst währenddessen kontinuierlich auf den Bildschirm klicken. Nach 5 Sekunden feuert die 8-Bit-Erbsenkanone je nach Klickanzahl eine unterschiedliche Anzahl von Projektile ab. Jede Projektil verursacht {MainField_1} Schadenspunkte. Nach dem Abfeuern der Projektile verschwinden alle 8-Bit-Erbsenkanonen. Die Fertigkeit kühlt 30 Sekunden lang ab. Kann {MainField_3} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_ARCADE_SKILL_2]
 Energiebeherrschung
@@ -55100,13 +55100,13 @@ Passiver Effekt: Angriffs- und Verteidigungsattribute der Energiepflanze erhöhe
 Erbsennachbild
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_3]
-Passiver Effekt: Alle 8-Bit-Erbsenkanonen halten nach dem Abfeuern einer Kugel {PassiveField2_1} Sekunden lang an.
+Passiver Effekt: Alle 8-Bit-Erbsenkanonen halten nach dem Abfeuern einer Projektil {PassiveField2_1} Sekunden lang an.
 
 [ARTIFACT_ARCADE_SKILL_4]
-Kugelmutation
+Projektilmutation
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_4]
-Passiver Effekt: Kugeln, die von 8-Bit-Erbsenkanonen abgefeuert werden, werden zufällig zu Eis-, Feuer- oder Primitivkugeln.
+Passiver Effekt: Projektile, die von 8-Bit-Erbsenkanonen abgefeuert werden, werden zufällig zu Eis-, Feuer- oder Primitivkugeln.
 
 [ARTIFACT_TIME]
 Zeit Artefakt
@@ -55226,7 +55226,7 @@ Passiver Effekt: Erhöht die Angriffs- und Verteidigungsattribute von Magierpfla
 Passiver Effekt: Alle {PassiveField2_1} Sekunden werden zufällig 3 Zombies ausgewählt, die degeneriert werden.
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_4]
-Passiver Effekt: Es besteht eine 30-prozentige Chance, dass der Zombie direkt in ein Huhn verwandelt wird.
+Passiver Effekt: Es besteht eine 30% Chance, dass der Zombie direkt in ein Huhn verwandelt wird.
 
 [ARTIFACT_GASHAPON]
 Gachapon-Artefakt
@@ -55395,7 +55395,7 @@ Eine Waffe, die Dave von einem Handwerker aus einer mysteriösen Familie geschen
 Dauerfeuer
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_1]
-Die Waffe hat anfangs 90 Schuss. Klicke auf das Artefakt, um kontinuierlich wenige Kugeln auf den Zombie links neben dir abzufeuern. Halte die Taste gedrückt, um in den Dauerfeuermodus zu wechseln und weitere Kugeln abzufeuern. Wenn das Artefakt inaktiv ist, beginnt es, Kugeln wiederherzustellen.
+Die Waffe hat anfangs 90 Schuss. Klicke auf das Artefakt, um kontinuierlich wenige Projektile auf den Zombie links neben dir abzufeuern. Halte die Taste gedrückt, um in den Dauerfeuermodus zu wechseln und weitere Projektile abzufeuern. Wenn das Artefakt inaktiv ist, beginnt es, Projektile wiederherzustellen.
 
 [ARTIFACT_SWARM_SKILL_2]
 Ritterlich
@@ -55407,13 +55407,13 @@ Passiver Effekt: Feenpfirsisch, Du Ying-Krug, Tigerkopfpilz, Schwertblatt-Drache
 Schnelles Nachfüllen
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_3]
-Die Obergrenze der Kugelanzahl wird auf {PassiveField2_1} erhöht, und die Kugelwiederherstellungsgeschwindigkeit erhöht sich auf 10 pro Sekunde.
+Die Obergrenze der Projektilanzahl wird auf {PassiveField2_1} erhöht, und die Projektilwiederherstellungsgeschwindigkeit erhöht sich auf 10 pro Sekunde.
 
 [ARTIFACT_SWARM_SKILL ILL_4]
 Feuerkraftverbesserung
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_4]
-Nach langem Drücken ändert sich die abgefeuerte Kugel von roter zu blauer Feuerkugel. Der Schaden verdoppelt sich. Nach vier abgefeuerten Kugeln wird eine große Kugel abgefeuert. Der Schaden ist dreimal so hoch wie der der roten Feuerkugel und kleine und mittelgroße Zombies werden mit einem Rückstoßeffekt von 0,1 Quadraten zurückgeworfen.
+Nach langem Drücken ändert sich die abgefeuerte Projektil von roter zu blauer Feuerkugel. Der Schaden verdoppelt sich. Nach vier abgefeuerten Projektile wird ein großes Projektil abgefeuert. Der Schaden ist dreimal so hoch wie der der roten Feuerkugel und kleine und mittelgroße Zombies werden mit einem Rückstoßeffekt von 0,1 Quadraten zurückgeworfen.
 
 [ARTIFACT_HOLO]
 Holografisches Artefakt
@@ -57595,13 +57595,13 @@ Fliegt aus dem Blumenfächer heraus und fügt Zombies auf dem Weg Schaden zu.
 Fliegender Vogel
 
 [BOOPHONEGEISHA_SKILL_LEVEL1_DES]
-Die Kugel hat eine 50%ige Chance, andere Zombies in derselben Reihe zu durchdringen und beginnt erst zu kreisen, wenn sie den letzten Zombie trifft.
+Die Projektil hat eine 50%ige Chance, andere Zombies in derselben Reihe zu durchdringen und beginnt erst zu kreisen, wenn sie den letzten Zombie trifft.
 
 [BOOPHONEGEISHA_SKILL_LEVEL2]
 Fliegender Vogel
 
 [BOOPHONEGEISHA_SKILL_LEVEL2_DES]
-Die Kugel hat eine 100%ige Chance, andere Zombies in derselben Reihe zu durchdringen und beginnt erst zu kreisen, wenn sie den letzten Zombie trifft.
+Die Projektil hat eine 100%ige Chance, andere Zombies in derselben Reihe zu durchdringen und beginnt erst zu kreisen, wenn sie den letzten Zombie trifft.
 
 [STORE_PRODUCT_AVATAR_BOOPHONEGEISHA_TITLE]
 Geisha-Haarnadel-Kostüm
@@ -57613,7 +57613,7 @@ Nachdem die Spezialdünger-Fähigkeit den ersten Zombie getroffen hat, füge ein
 Yan Wu
 
 [BOOPHONEGEISHA_SKILL_LEVEL5_DES]
-Kugeln, die Zombies von hinten treffen, verursachen immer den 2,5-fachen Schaden.
+Projektile, die Zombies von hinten treffen, verursachen immer den 2,5-fachen Schaden.
 
 [ZOMBIE_HEIAN_ONMYOJI]
 Onmyoji Zombie
@@ -59143,13 +59143,13 @@ Hilf Dave, alle Truthähne im Garten zu beschützen!
 Der Sandsturm kommt mit Zombies.
 
 [PVZ1MODE_SANDSTORM_HARD_DESC]
-Der Sandsturm kommt mit Zombies und kann Kugeln abprallen lassen!
+Der Sandsturm kommt mit Zombies und kann Projektile abprallen lassen!
 
 [PVZ1MODE_ICESTORM_NORMAL_DESC]
 Der Eissturm kommt mit Zombies und friert die Pflanzen ein!
 
 [PVZ1MODE_ICESTORM_HARD_DESC]
-Der Eissturm kommt mit Zombies und friert die Pflanzen ein und kann Kugeln abprallen lassen!
+Der Eissturm kommt mit Zombies und friert die Pflanzen ein und kann Projektile abprallen lassen!
 
 [PVZ1MODE_BRICK_NORMAL_DESC]
 Zombie-Plättchen können Zombies Geschwindigkeits-Buffs verleihen.
@@ -59242,10 +59242,10 @@ Die neueste Technologie des Zombie Doctors kann gewöhnliche Zombies in riesige 
 Transmissionsspiegel
 
 [PVZ1MODE_MAGICMIRROR_NORMAL_DESC]
-Ein magischer Spiegel erscheint auf dem Spielfeld, und Zombies und Kugeln werden zwischen den Spiegeln übertragen.
+Ein magischer Spiegel erscheint auf dem Spielfeld, und Zombies und Projektile werden zwischen den Spiegeln übertragen.
 
 [PVZ1MODE_MAGICMIRROR_HARD_DESC]
-Ein magischer Spiegel erscheint auf dem Spielfeld, und Zombies und Kugeln werden zwischen den Spiegeln übertragen. Spiegel
+Ein magischer Spiegel erscheint auf dem Spielfeld, und Zombies und Projektile werden zwischen den Spiegeln übertragen. Spiegel
 
 [PVZ1MODE_BOWLING]
 Nuss-Bowling
@@ -60010,13 +60010,13 @@ Bärenkanone 3
 Elite-Zombie-Angriff
 
 [S5_MEMORY_LEVEL_NAME_041]
-Ich wette, deine Waffe hat viele Kugeln! 1
+Ich wette, deine Waffe hat viele Projektile! 1
 
 [S5_MEMORY_LEVEL_NAME_042]
-Ich wette, deine Waffe hat viele Kugeln! 2
+Ich wette, deine Waffe hat viele Projektile! 2
 
 [S5_MEMORY_LEVEL_NAME_043]
-Ich wette, deine Waffe hat viele Kugeln! 3
+Ich wette, deine Waffe hat viele Projektile! 3
 
 [S5_MEMORY_LEVEL_NAME_044]
 Elite-Zombie-Angriff
@@ -60627,13 +60627,13 @@ Elite-Zombies kommen
 Hocheffiziente, kugelsichere 1
 
 [S8_MEMORY_LEVEL_NAME_050]
-Hocheffizienter Kugelschutz 2
+Hocheffizienter Projektilschutz 2
 
 [S8_MEMORY_LEVEL_NAME_051]
-Hocheffizienter Kugelschutz 3
+Hocheffizienter Projektilschutz 3
 
 [S8_MEMORY_LEVEL_NAME_057]
-Hocheffizienter Kugelschutz 3 L_NAME_052]
+Hocheffizienter Projektilschutz 3 L_NAME_052]
 Elite-Zombie-Angriff
 
 [S8_MEMORY_LEVEL_NAME_053]
@@ -65409,7 +65409,7 @@ Ab Level 5 kann die Schnapper mehrere Zombies gleichzeitig verschlingen oder bei
 Was ist der ultimative Spezialdünger der Schnapper?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_CHOMPER]
-ca=Feuere Kugeln im fächerförmigen Bereich vor dir ab|Feuere 1 großen Kohlkopf auf alle Zombies|Sauge 3 Zombies ein, um sie zu fressen oder zu beißen, und puste sie dann zur Ziellinie|Feuere kontinuierlich 60 Erbsen und 1 große Erbse ab|
+ca=Feuere Projektile im fächerförmigen Bereich vor dir ab|Feuere 1 großen Kohlkopf auf alle Zombies|Sauge 3 Zombies ein, um sie zu fressen oder zu beißen, und puste sie dann zur Ziellinie|Feuere kontinuierlich 60 Erbsen und 1 große Erbse ab|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
@@ -65523,7 +65523,7 @@ Ab Level 2 kann der Tintenfisch die Fähigkeit ändern, nach dem Zerquetschen zu
 Welche Fähigkeit erhält der Tintenfisch nach Erreichen von Level 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_SQUASH]
-ca=Erhöht die Wahrscheinlichkeit, nach dem Zerquetschen in die Ausgangsposition zurückzukehren, anstatt zu verschwinden. | Verkürzt die Ruhezeit nach dem Abfeuern. | Anzahl der Kugelauswürfe +1. | Chance, Energiepfeile abzufeuern, die Zombies durchdringen können. |
+ca=Erhöht die Wahrscheinlichkeit, nach dem Zerquetschen in die Ausgangsposition zurückzukehren, anstatt zu verschwinden. | Verkürzt die Ruhezeit nach dem Abfeuern. | Anzahl der Projektilauswürfe +1. | Chance, Energiepfeile abzufeuern, die Zombies durchdringen können. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_SQUASH]
 Wenn du die Frage richtig beantwortet hast, bist du ein Pflanzenmeister!
@@ -67187,7 +67187,7 @@ Fernkampf E_NEW_PVP_ZOMBIE_GATLINGPEA]
 Gatling-Erbsen-Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_GATLINGPEA_DESCRIPTION_HEADER]
-Kann 4 Kugeln abfeuern
+Kann 4 Projektile abfeuern
 
 [ZOMBIE_NEW_PVP_TUTORIAL]
 Gewöhnlicher Zombie
@@ -67217,7 +67217,7 @@ Sprintet schnell ins Feld und zerstört die erste Pflanze, die er berührt.
 Zombie mit elektromagnetischem Schild
 
 [ZOMBIE_NEW_PVP_FUTURE_PROTECTOR_DESCRIPTION_HEADER]
-Nachdem er das Feld eine Weile betreten hat, setzt er einen elektromagnetischen Schild ein, um Kugeln abzuwehren.
+Nachdem er das Feld eine Weile betreten hat, setzt er einen elektromagnetischen Schild ein, um Projektile abzuwehren.
 
 [ZOMBIE_NEW_PVP_BEACH_OCTOPUS]
 Oktopus-Zombie
@@ -67397,7 +67397,7 @@ Stellt die Gesundheit des verletzten Zombies wieder her.
 Ninja-Wicht Zombie
 
 [ZOMBIE_NEW_PVP_HEIAN_NINJA_DESCRIPTION_HEADER]
-Wirft den Kugelfisch in seiner Hand, wenn er sich Pflanzen nähert.
+Wirft den Projektilfisch in seiner Hand, wenn er sich Pflanzen nähert.
 
 [ZOMBIE_NEW_PVP_ICEAGE_HUNTER]
 Jäger-Zombie
@@ -67415,7 +67415,7 @@ Geht in Raserei, wenn die Zeitung in seiner Hand zerstört wird.
 Verlorener Regenschirm-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCI TY_JANE_DESCRIPTION_HEADER]
-Mit dem Regenschirm in seiner Hand kann er den meisten Schaden durch geworfene Kugeln
+Mit dem Regenschirm in seiner Hand kann er den meisten Schaden durch geworfene Projektile
 
 [ZOMBIE_NEW_PVP_ICEAGE_CHIEF]
 Eiswind-Chef-Zombie
@@ -67475,7 +67475,7 @@ Wenn er eine bestimmte Menge Schaden erleidet oder eine Pflanze berührt, lässt
 Clown-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_JUGGLER_DESCRIPTION_HEADER]
-Nach einer Weile dreht er sich und prallt die meisten Frontalangriffe ab. Kugeln
+Nach einer Weile dreht er sich und prallt die meisten Frontalangriffe ab. Projektile
 
 [ZOMBIE_NEW_PVP_EIGHTIES_PUNK]
 Punk-Zombie
@@ -70247,10 +70247,10 @@ Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähig
 Der vom Kohlkrug geworfene Kohl wird zu Goldkohl aufgewertet, der sich in der Luft spaltet und einem einzelnen Zombie 2–3 Schadenspunkte zufügt.
 
 [CABBAGEPULT_PLANTFOOD_DESCRIPTION]
-Der Kohlkrug sammelt Kugeln und feuert eine große Kohlkugel mit hohem Schaden auf jeden Zombie auf dem Bildschirm ab.
+Der Kohlkrug sammelt Projektile und feuert eine große Kohlkugel mit hohem Schaden auf jeden Zombie auf dem Bildschirm ab.
 
 [CABBAGEPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Kohlkrug sammelt Kugeln und feuert eine große Kohlkugel mit ^ff0000^ höherem Schaden und Blitz auf jeden Zombie auf dem Bildschirm ab. ^oldclr^
+Der Kohlkrug sammelt Projektile und feuert eine große Kohlkugel mit ^ff0000^ höherem Schaden und Blitz auf jeden Zombie auf dem Bildschirm ab. ^oldclr^
 
 [ICEBURG_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie den gefrorenen Salat berührt, explodiert dieser und friert den Zombie ^0072ff^Ⅰ^oldclr^ 10 Sekunden lang ein.
@@ -71041,10 +71041,10 @@ Der Stinkpilz absorbiert Luft und dehnt sich schnell aus^ff0000^, während er Zo
 Wenn ein Zombie rechts von der Erbs-Nuss erscheint, schießt dieser Erdnüsse, um die Zombies anzugreifen. Die harte Schale ermöglicht es der Erbs-Nuss, den Angriffen der Zombies besser zu widerstehen. Die Angriffsgeschwindigkeit der Erbs-Nuss halbiert sich, wenn ihre Gesundheit unter 50% liegt.
 
 [PEANUT_NEW_SKILL_LEVEL2_DES]
-Ober- und Unterkopf der Erbs-Nuss können gemeinsam angreifen. Es besteht eine 25-prozentige Chance, zwei Erdnüsse gleichzeitig abzuschießen.
+Ober- und Unterkopf der Erbs-Nuss können gemeinsam angreifen. Es besteht eine 25% Chance, zwei Erdnüsse gleichzeitig abzuschießen.
 
 [PEANUT_NEW_SKILL_LEVEL3_DES]
-Das stillschweigende Verständnis der Erbs-Nuss hat ein höheres Level erreicht. Es besteht eine 50-prozentige Chance, zwei Erdnüsse gleichzeitig abzuschießen.
+Das stillschweigende Verständnis der Erbs-Nuss hat ein höheres Level erreicht. Es besteht eine 50% Chance, zwei Erdnüsse gleichzeitig abzuschießen.
 
 [PEANUT_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
@@ -71209,7 +71209,7 @@ Die Angriffsreichweite des Maschinengewehr-Granatapfels wurde auf 3×4 erweitert
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff einzusetzen!
 
 [PAMEGRANATE_PLANTFOOD_DESCRIPTION]
-Feuert Kugeln auf den fächerförmigen Bereich vor euch (ca. 3×4).
+Feuert Projektile auf den fächerförmigen Bereich vor euch (ca. 3×4).
 
 [PAMEGRANATE_AVATAR_PLANTFOOD_DESCRIPTION]
 Schießt auf den fächerförmigen Bereich (ca. 3×4) vor euch und trifft ihn. Es können ca. 2×1 Flächengeschosse verursacht werden. Der Flächenschaden beträgt die Hälfte des Trefferschadens. ^oldclr^
@@ -71224,7 +71224,7 @@ Generiert ein Seerosenblätterblatt über, unter, links und rechts von sich selb
 Generiert ein Seerosenblätterblatt im 3×3-Bereich mit sich selbst als Mittelpunkt^ff0000^. ^oldclr^
 
 [BOWLINGBULB_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie rechts neben der Bowlingblase, schleudert diese nacheinander drei Bowlingkugeln. Trifft die Kugel den Zombie, prallt sie in einem 45°-Winkel ab und wird anschließend jedes Mal um 90° abgelenkt. Die Bowlingblase selbst regeneriert alle 4 Sekunden eine Bowlingkugel. Die Bowlingblase priorisiert das Werfen und Regenerieren der Bowlingkugel mit der geringsten Angriffskraft.
+Erscheint ein Zombie rechts neben der Bowlingblase, schleudert diese nacheinander drei Bowlingkugeln. Trifft die Projektil den Zombie, prallt sie in einem 45°-Winkel ab und wird anschließend jedes Mal um 90° abgelenkt. Die Bowlingblase selbst regeneriert alle 4 Sekunden eine Bowlingkugel. Die Bowlingblase priorisiert das Werfen und Regenerieren der Bowlingkugel mit der geringsten Angriffskraft.
 
 [BOWLINGBULB_NEW_SKILL_LEVEL2_DES]
 Jede wiederhergestellte Bowlingkugel hat eine Chance von 25%, zwei Bowlingkugeln gleichzeitig zu regenerieren.
@@ -71236,7 +71236,7 @@ Jede wiederhergestellte Bowlingkugel hat eine Chance von 40%, alle Bowlingkugeln
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt zu aktivieren!
 
 [BOWLINGBULB_NEW_SKILL_LEVEL5_DES]
-Es besteht eine 20%ige Chance, eine große Bowlingkugel mit 720 Schadenspunkten abzufeuern und die Fähigkeiten der zweiten und dritten Stufe zu aktivieren. Die große Bowlingkugel teilt sich nach dem Aufprall in drei Kugeln.
+Es besteht eine 20%ige Chance, eine große Bowlingkugel mit 720 Schadenspunkten abzufeuern und die Fähigkeiten der zweiten und dritten Stufe zu aktivieren. Die große Bowlingkugel teilt sich nach dem Aufprall in drei Projektile.
 
 [BOWLINGBULB_PLANTFOOD_DESCRIPTION]
 Bowlingblase ist bereit. Wenn rechts ein Zombie erscheint, schießt er drei Bowlingkugeln ab, die nacheinander Flächenschaden verursachen können.
@@ -71470,10 +71470,10 @@ Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
 Wenn ein Zombie rechts neben der Feuer-Erbsenkanone erscheint, feuert dieser rote Feuererbsen ab, um den Zombie anzugreifen.
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-Bei jedem Angriff der Feuer-Erbsenkanone besteht eine Chance von 10%, in einem Dauerangriff Kugeln abzufeuern (Dauerangriffe können auch ausgelöst werden).
+Bei jedem Angriff der Feuer-Erbsenkanone besteht eine Chance von 10%, in einem Dauerangriff Projektile abzufeuern (Dauerangriffe können auch ausgelöst werden).
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-Bei jedem Angriff der Feuer-Erbsenkanone besteht eine Chance von 20%, in einem Dauerangriff Kugeln abzufeuern (Dauerangriffe können auch ausgelöst werden).
+Bei jedem Angriff der Feuer-Erbsenkanone besteht eine Chance von 20%, in einem Dauerangriff Projektile abzufeuern (Dauerangriffe können auch ausgelöst werden).
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
@@ -71557,19 +71557,19 @@ Die Betäubungszwiebel springt vom Boden hoch und setzt ein stabilisierendes Gas
 Wenn ein Zombie diagonal auf der Rübe erscheint, feuert die Rübe drei Rapssalven gleichzeitig in vier Richtungen ab.
 
 [XSHOT_NEW_SKILL_LEVEL2_DES]
-Die Rübe hat eine Chance von 25%, Kugeln mit dem doppelten Schaden ihrer eigenen Angriffskraft abzufeuern.
+Die Rübe hat eine Chance von 25%, Projektile mit dem doppelten Schaden ihrer eigenen Angriffskraft abzufeuern.
 
 [XSHOT_NEW_SKILL_LEVEL3_DES]
-Die Rübe hat eine Chance von 50%, Kugeln mit dem doppelten Schaden ihrer eigenen Angriffskraft abzufeuern.
+Die Rübe hat eine Chance von 50%, Projektile mit dem doppelten Schaden ihrer eigenen Angriffskraft abzufeuern.
 
 [XSHOT_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
 
 [XSHOT_PLANTFOOD_DESCRIPTION]
-Die Spinnende Rübe feuert 14 Kugeln gleichzeitig in vier Richtungen ab und hat eine siebenfache Angriffskraft.
+Die Spinnende Rübe feuert 14 Projektile gleichzeitig in vier Richtungen ab und hat eine siebenfache Angriffskraft.
 
 [XSHOT_AVATAR_PLANTFOOD_DESCRIPTION]
-Wirf die Rübe und feuere 14 Kugeln in vier Richtungen ab. Die Angriffskraft beträgt das Zehnfache der eigenen Angriffskraft. ^oldclr^
+Wirf die Rübe und feuere 14 Projektile in vier Richtungen ab. Die Angriffskraft beträgt das Zehnfache der eigenen Angriffskraft. ^oldclr^
 
 [RAFFLESIA_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von Rafflesia erscheint, erzeugt Rafflesia eine Blase und zielt auf den letzten Zombie in der Reihe. Sobald die Blase explodiert, fügt sie Zombies im Umkreis von 2×1 Schaden zu.
@@ -71746,13 +71746,13 @@ Lasst sofort alle unsichtbaren Einheiten auf dem Feld erscheinen.
 Lasst sofort alle unsichtbaren Einheiten auf dem Feld erscheinen, ^ff0000^ und lässt alle Produktionsanlagen einmal Sonnenlicht produzieren. ^oldclr^
 
 [PINEAPPLE_NEW_SKILL_LEVEL1_DES]
-Blockiert Zombies, um die Pflanzen hinter euch zu schützen. Bei einem Zombieangriff könnt ihr Kugeln abprallen lassen. Nach dem Abprallen ruht ihr 4 Sekunden.
+Blockiert Zombies, um die Pflanzen hinter euch zu schützen. Bei einem Zombieangriff könnt ihr Projektile abprallen lassen. Nach dem Abprallen ruht ihr 4 Sekunden.
 
 [PINEAPPLE_NEW_SKILL_LEVEL2_DES]
-Die Ruhezeit, nachdem die sich drehende Ananas Kugeln abprallen lässt, wird auf 3 Sekunden verkürzt.
+Die Ruhezeit, nachdem die sich drehende Ananas Projektile abprallen lässt, wird auf 3 Sekunden verkürzt.
 
 [PINEAPPLE_NEW_SKILL_LEVEL3_DES]
-Die Ruhezeit, nachdem die Spinnende Ananas Kugeln abprallen lässt, wurde auf 2 Sekunden verkürzt.
+Die Ruhezeit, nachdem die Spinnende Ananas Projektile abprallen lässt, wurde auf 2 Sekunden verkürzt.
 
 [PINEAPPLE_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt loszulassen!
@@ -71761,10 +71761,10 @@ Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähi
 Beim Angriff besteht eine 25%ige Wahrscheinlichkeit, einen Laser mit 2000 Schaden abzufeuern. Nach dem Auslösen des Lasers hat die Saubohne außerdem eine 50%ige Wahrscheinlichkeit, zweimal hintereinander anzugreifen.
 
 [PINEAPPLE_PLANTFOOD_DESCRIPTION]
-Die Spinnende Ananas beginnt sich mit hoher Geschwindigkeit zu drehen und prallt innerhalb von 4 Sekunden von Kugeln ab.
+Die Spinnende Ananas beginnt sich mit hoher Geschwindigkeit zu drehen und prallt innerhalb von 4 Sekunden von Projektile ab.
 
 [PINEAPPLE_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Ananas beginnt sich mit hoher Geschwindigkeit zu drehen und prallt innerhalb von 4 Sekunden von Kugeln ab. ^ff0000^ Die Kugeln prallen in verschiedene Richtungen ab. ^oldclr^
+Die Ananas beginnt sich mit hoher Geschwindigkeit zu drehen und prallt innerhalb von 4 Sekunden von Projektile ab. ^ff0000^ Die Projektile prallen in verschiedene Richtungen ab. ^oldclr^
 
 [MAGICSHROOM_NEW_SKILL_LEVEL1_DES]
 Wenn rechts oder links vom Zauberpilz ein Zombie erscheint, schießt der Zauberpilz magische Karten ab, um den Zombie anzugreifen.
@@ -72436,7 +72436,7 @@ Schrumpf-Veilchen kann alle Zombies auf dem Bildschirm schrumpfen lassen.
 Schrumpf-Veilchen kann alle Zombies auf dem Bildschirm schrumpfen lassen, ihre Bewegungsgeschwindigkeit um 70% reduzieren und ihren erlittenen Schaden um 30% erhöhen. ^oldclr^
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben der Ur-Erbsenkanone erscheint, feuert ihr eine schwere Erbsenkugel ab. Diese fügt dem Zombie Schaden zu und hat eine 50-prozentige Chance, einen Rückstoßeffekt auf einem einzelnen Gitter zu verursachen, sowie eine 50-prozentige Chance, den Zombie für ^848484^I^oldclr^0,5 Sekunden zu betäuben.
+Wenn ein Zombie rechts neben der Ur-Erbsenkanone erscheint, feuert ihr eine schwere Erbsenkugel ab. Diese fügt dem Zombie Schaden zu und hat eine 50% Chance, einen Rückstoßeffekt auf einem einzelnen Gitter zu verursachen, sowie eine 50% Chance, den Zombie für ^848484^I^oldclr^0,5 Sekunden zu betäuben.
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL2_DES]
 Es besteht eine 15%ige Chance, ein Steingeschoss abzufeuern, das ein einzelnes Gitter beschädigt und 150 Schaden verursacht.
@@ -72640,10 +72640,10 @@ Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt aus
 Die Apfelkernbombe wurde zu einer goldenen Apfelbombe aufgewertet. Diese kann Schaden im Umkreis von einem Block verursachen und einen einzelnen Zombie 0,5 Sekunden lang betäuben.
 
 [APPLEMORTAR_PLANTFOOD_DESCRIPTION]
-Der Apfelmörser sammelt eine große Anzahl von Kugeln und feuert eine Apfelbombe auf jeden Zombie auf dem Bildschirm ab. Diese verursacht einen Block Schaden und betäubt einen Zombie 0,5 Sekunden lang.
+Der Apfelmörser sammelt eine große Anzahl von Projektile und feuert eine Apfelbombe auf jeden Zombie auf dem Bildschirm ab. Diese verursacht einen Block Schaden und betäubt einen Zombie 0,5 Sekunden lang.
 
 [APPLEMORTAR_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Apfelmörser sammelt eine große Anzahl von Kugeln und feuert eine biochemische Apfelbombe (^ff0000^) auf jeden Zombie auf dem Bildschirm ab. Diese verursacht einen Schadensblock und betäubt Zombies 0,5 Sekunden lang (^848484^betäubtⅠ^oldclr^). Zombies werden außerdem 6 Sekunden lang vergiftet und verlangsamt. (^oldclr^)
+Der Apfelmörser sammelt eine große Anzahl von Projektile und feuert eine biochemische Apfelbombe (^ff0000^) auf jeden Zombie auf dem Bildschirm ab. Diese verursacht einen Schadensblock und betäubt Zombies 0,5 Sekunden lang (^848484^betäubtⅠ^oldclr^). Zombies werden außerdem 6 Sekunden lang vergiftet und verlangsamt. (^oldclr^)
 
 [WITCHHAZEL_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie in den drei Reihen rechts von der Zaubernuss-Hexe erscheint, wirkt die Zaubernuss-Hexe einen Zauber. Nach dem Wirken des Zaubers kann sie kleinere Zombies, die maximal zwei Level höher sind als sie selbst, in kleine Puffpilze verwandeln und so nicht verwandelbaren Zombies direkten Schaden zufügen.
@@ -72706,13 +72706,13 @@ Die Nahkampfschadensreichweite wurde auf einen 3×3 großen, auf sich selbst zen
 Elektrische Johannisbeere ist mit Elektrizität bedeckt, wodurch ihr eigener Schaden und der Schaden der elektrischen Wand, mit der sie verbunden ist, dauerhaft um 100% erhöht wird.
 
 [ELECTRICCURRANT_AVATAR_PLANTFOOD_DESCRIPTION]
-Elektrische Johannisbeere ist in Elektrizität gehüllt, wodurch ihr eigener Schaden und der Schaden der elektrischen Wand, mit der sie verbunden ist, dauerhaft um 100% erhöht wird (^ff0000^). Außerdem besteht eine 50-prozentige Chance, beim Angriff auf Zombies eine ^oldclr^^ff9600^ Lähmung Ⅰ^oldclr^^ff0000^ für 1 Sekunde zu verursachen. ^oldclr^
+Elektrische Johannisbeere ist in Elektrizität gehüllt, wodurch ihr eigener Schaden und der Schaden der elektrischen Wand, mit der sie verbunden ist, dauerhaft um 100% erhöht wird (^ff0000^). Außerdem besteht eine 50% Chance, beim Angriff auf Zombies eine ^oldclr^^ff9600^ Lähmung Ⅰ^oldclr^^ff0000^ für 1 Sekunde zu verursachen. ^oldclr^
 
 [WHITEMELON_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie ein Feld rechts vom Weißen Melonen-Sumo erscheint, trifft der Weiße Melonen-Sumo den Zombie und wirft ihn 1 bis 3 Felder zurück. Zwischen jedem Treffer des Weißen Melonen-Sumos liegt ein Intervall von 5 Sekunden.
 
 [WHITEMELON_NEW_SKILL_LEVEL2_DES]
-Es besteht eine 10-prozentige Chance, zwei Zombies gleichzeitig zurückzustoßen.
+Es besteht eine 10% Chance, zwei Zombies gleichzeitig zurückzustoßen.
 
 [WHITEMELON_NEW_SKILL_LEVEL3_DES]
 Die Rückstoßdistanz wird auf 2–4 Felder erhöht.
@@ -72826,7 +72826,7 @@ Nachtschattens Blätter färben sich blau und feuern drei Blätter ab. Dadurch e
 Nachtschattens Blätter färben sich blau^ff0000^ und er  feuert ein großes Blatt^oldclr^ ab. Dadurch erhöht sich seine Angriffskraft im Normal- und Schattenzustand.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL1_DES]
-Wenn rechts von Dusk Lobber ein Zombie erscheint, wirft Dusk Lobber explosive Früchte nach vorne. Die Kugeln verursachen Flächenschaden in der Umgebung, unabhängig davon, ob sie treffen oder landen. Im Schattenzustand kann Dusk Lobber drei Reihen gleichzeitig angreifen.
+Wenn rechts von Dusk Lobber ein Zombie erscheint, wirft Dusk Lobber explosive Früchte nach vorne. Die Projektile verursachen Flächenschaden in der Umgebung, unabhängig davon, ob sie treffen oder landen. Im Schattenzustand kann Dusk Lobber drei Reihen gleichzeitig angreifen.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL2_DES]
 Beim Angriff besteht eine 10%ige Chance, rote Knospen zu werfen. Diese verursachen beim Treffer 120 Schaden und geben außerdem Pollen ab, der den Gegner 1,5 Sekunden lang betäubt.
@@ -72901,7 +72901,7 @@ Der Schaden von ^ef0123^burning Ⅰ^oldclr^ durch die Fertigkeit „Sengendes Br
 Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [WASABIWHIP_NEW_SKILL_LEVEL5_DES]
-Alle 10 Sekunden hat „Sengendes Wasabi“ eine 20-prozentige Chance, eine Flammenpeitsche zu schwingen und einen Feuerball zu schleudern, der direkt nach rechts fliegt und 600 Schaden verursacht. Bei kleinen oder mittelgroßen Zombies ist der Schaden deutlich erhöht.
+Alle 10 Sekunden hat „Sengendes Wasabi“ eine 20% Chance, eine Flammenpeitsche zu schwingen und einen Feuerball zu schleudern, der direkt nach rechts fliegt und 600 Schaden verursacht. Bei kleinen oder mittelgroßen Zombies ist der Schaden deutlich erhöht.
 
 [WASABIWHIP_PLANTFOOD_DESCRIPTION]
 Der brennende Wasabi schwingt seine Flammenpeitsche schnell um sich selbst und fügt Zombies im Umkreis von 3×3 mehrfachen Feuerschaden zu.
@@ -72943,7 +72943,7 @@ Der Effekt der Eisenergiereduktion wurde um 100% erhöht und die Ruhezeit auf 18
 Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, Spezialdünger-Fähigkeitn direkt freizusetzen!
 
 [MISSILETOE_NEW_SKILL_LEVEL5_DES]
-Beim Angriff besteht eine 80-prozentige Wahrscheinlichkeit, Eisraketen abzufeuern. Diese verursachen bei der Landung 3000 Schaden in einem Umkreis von 3×3 und detonieren nach 5 Sekunden mit 4500 Schaden in einem Umkreis von 3×3.
+Beim Angriff besteht eine 80% Wahrscheinlichkeit, Eisraketen abzufeuern. Diese verursachen bei der Landung 3000 Schaden in einem Umkreis von 3×3 und detonieren nach 5 Sekunden mit 4500 Schaden in einem Umkreis von 3×3.
 
 [MISSILETOE_PLANTFOOD_DESCRIPTION]
 Die Mistel-Eisfee visiert das Zombie-Gitter an, feuert vier Eisgranaten ab und vervollständigt sofort deren Ladung.
@@ -73186,13 +73186,13 @@ Wenn ein Zombie in der dritten Reihe rechts erscheint, feuert er einen Pfeil nac
 Wenn der Auberginen-Ninja angreift, besteht eine 10%ige Chance, einen explosiven Pfeil mit 67,5 Schaden abzufeuern. Nach einem Zombietreffer explodiert dieser und verursacht 270 Schaden an einem einzelnen Gitter.
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL3_DES]
-Die Auslösewahrscheinlichkeit der Fähigkeit „Explosionspfeil“ erhöht sich um 100%. Beim Angriff besteht eine 20-prozentige Chance, einen Explosivpfeil mit 90 Schaden abzufeuern, der 360 Schaden an einem einzelnen Gitter verursacht.
+Die Auslösewahrscheinlichkeit der Fähigkeit „Explosionspfeil“ erhöht sich um 100%. Beim Angriff besteht eine 20% Chance, einen Explosivpfeil mit 90 Schaden abzufeuern, der 360 Schaden an einem einzelnen Gitter verursacht.
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL5_DES]
-Beim Angriff besteht eine 30-prozentige Chance, einen Wirbelwind-Shuriken mit 540 Schaden abzufeuern, der einen Tornado bildet und kleine Zombies mitreißt.
+Beim Angriff besteht eine 30% Chance, einen Wirbelwind-Shuriken mit 540 Schaden abzufeuern, der einen Tornado bildet und kleine Zombies mitreißt.
 
 [EGGPLANTNINJA_PLANTFOOD_DESCRIPTION]
 Der Auberginen-Ninja benutzt den Pfeilklon, feuert sofort fünf Pfeile in einem Bogen nach rechts ab und kehrt zu ihm zurück, wodurch alle vorbeikommenden Zombies Schaden erleiden.
@@ -73213,7 +73213,7 @@ Der Effekt der Tanzkraft-Regeneration wird um 100% erhöht und die Angriffsruhez
 Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Move auszulösen!
 
 [PLANTAIN_NEW_SKILL_LEVEL5_DES]
-Beim Angriff besteht eine 40-prozentige Chance, einen chaotischen Wirbelwind zu erzeugen, der ^ff4284^ Zauber I^oldclr^ kleine Zombies nicht höher als sein eigenes Level bezaubert.
+Beim Angriff besteht eine 40% Chance, einen chaotischen Wirbelwind zu erzeugen, der ^ff4284^ Zauber I^oldclr^ kleine Zombies nicht höher als sein eigenes Level bezaubert.
 
 [PLANTAIN_PLANTFOOD_DESCRIPTION]
 Der Bananentänzer schwingt den Fächer heftig und erzeugt einen großen Wirbelwind. Nach dem Auftreffen bleibt er stehen, zieht 3×3 kleine Zombies an und verursacht 5 Sekunden lang Schaden.
@@ -73243,7 +73243,7 @@ Der Narzissen-Shooter sammelt eine große Menge Blasen und sprüht sie in den f�
 Der Narzissen-Shooter sammelt eine große Menge ^ff0000^ farbiger Blasen^oldclr^ und sprüht sie in den rechten fächerförmigen Bereich. Dadurch werden Zombies Schaden zugefügt und kleine und mittlere Zombies ^ff0000^ um 2 Felder zurückgestoßen. ^oldclr^
 
 [PINECONE_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben dem Tannenzapfen mit Doppelkanone erscheint, feuert er Pinienkerne ab, um dem Zombie Schaden zuzufügen. Stirbt ein Zombie innerhalb der Angriffsreichweite, feuert er sofort eine Kugel mit 100 Schadenspunkten ab.
+Wenn ein Zombie rechts neben dem Tannenzapfen mit Doppelkanone erscheint, feuert er Pinienkerne ab, um dem Zombie Schaden zuzufügen. Stirbt ein Zombie innerhalb der Angriffsreichweite, feuert er sofort ein Projektil mit 100 Schadenspunkten ab.
 
 [PINECONE_NEW_SKILL_LEVEL2_DES]
 Beim Angriff des Tannenzapfens mit Doppelkanone besteht eine 10%ige Chance, dass die linke und rechte Kanone nacheinander jeweils eine Pinienkerne abfeuern.
@@ -73339,7 +73339,7 @@ Der Fertigkeitseffekt der schnellen Verdauung wird um 100% erhöht und die Ruhez
 Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SNAPPEA_NEW_SKILL_LEVEL5_DES]
-Beim Angriff besteht eine 50-prozentige Chance, bis zu zwei Zombies in einem Raster vor und hinter dem Ziel zu verschlingen oder mit Kugeln zu beschießen.
+Beim Angriff besteht eine 50% Chance, bis zu zwei Zombies in einem Raster vor und hinter dem Ziel zu verschlingen oder mit Projektile zu beschießen.
 
 [SNAPPEA_PLANTFOOD_DESCRIPTION]
 Die Piranha-Pflanzenerbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in derselben Reihe und spuckt einen Zombiekopf aus.
@@ -73546,7 +73546,7 @@ Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
 
 [EGRETFLOWER_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie vier Felder rechts vom Reiherblumenkämpfer, feuert er sechs Kugeln hintereinander ab. Alle 8 Sekunden lädt er eine Rakete mit der Reichweite der rechten Reihe, trifft den Zombie und verursacht 2 Sekunden lang ^848484^stunⅠ^oldclr^. Stirbt er, wirft er eine Rakete in das Feld und ein Feld rechts davon ab und verlässt das Feld.
+Erscheint ein Zombie vier Felder rechts vom Reiherblumenkämpfer, feuert er sechs Projektile hintereinander ab. Alle 8 Sekunden lädt er eine Rakete mit der Reichweite der rechten Reihe, trifft den Zombie und verursacht 2 Sekunden lang ^848484^stunⅠ^oldclr^. Stirbt er, wirft er eine Rakete in das Feld und ein Feld rechts davon ab und verlässt das Feld.
 
 [EGRETFLOWER_NEW_SKILL_LEVEL2_DES]
 Für jeden zusätzlichen Reiherblumenkämpfer auf dem Feld erhöht sich die Angriffskraft aller Reiherblumenkämpfer um 10%, bis maximal 30%.
@@ -73558,7 +73558,7 @@ Die Raketennachladegeschwindigkeit wird erhöht, und alle 6 Sekunden wird eine R
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt zu aktivieren!
 
 [EGRETFLOWER_NEW_SKILL_LEVEL5_DES]
-Die Angriffsreichweite wird auf eine einzelne Reihe rechts erhöht, und die Angriffe mit Kugeln und Raketen verursachen nun Gruppenschaden auf einem einzigen Raster.
+Die Angriffsreichweite wird auf eine einzelne Reihe rechts erhöht, und die Angriffe mit Projektile und Raketen verursachen nun Gruppenschaden auf einem einzigen Raster.
 
 [EGRETFLOWER_PLANTFOOD_DESCRIPTION]
 Der Reiherblumenjäger ruft Luftunterstützung an und feuert zunächst drei Brandraketen auf die Position der Zombies ab. Nach dem Auftreffen verursachen sie Explosionsschaden im Umkreis von 3×3 und hinterlassen eine Flamme, die 5 Sekunden lang anhält.
@@ -73759,7 +73759,7 @@ Der Tupistra Agent fliegt sofort nach oben und rotiert weiter. Er feuert kontinu
 Wenn Zombies auf der rechten Seite erscheinen, wird Nebel abgefeuert, der ihnen Schaden zufügt. Im Schattenzustand lädt jeder Angriff die Blätter auf. Nach drei Ladeschichten wird der nächste Angriff zu Schattennebel, der die gesamte Reihe durchdringt und den doppelten Schaden verursacht. Der Zombie erleidet dadurch 7 Sekunden lang 20% Verwundbarkeit.
 
 [SHADOWVANILLA_NEW_SKILL_LEVEL2_DES]
-Wenn ein Zombie mit Schattennebel stirbt, besteht eine 15-prozentige Chance, dass ein eindimensionaler Schattenwirbel für 5 Sekunden zurückbleibt. Im Wirbel wird der Zombie verlangsamt und erleidet 30% zusätzlichen Schaden.
+Wenn ein Zombie mit Schattennebel stirbt, besteht eine 15% Chance, dass ein eindimensionaler Schattenwirbel für 5 Sekunden zurückbleibt. Im Wirbel wird der Zombie verlangsamt und erleidet 30% zusätzlichen Schaden.
 
 [SHADOWVANILLA_NEW_SKILL_LEVEL3_DES]
 Die Wahrscheinlichkeit, einen Nebelwirbel auszulösen, ist erhöht. Es besteht eine 20%ige Chance, einen Schattenwirbel mit einem einzelnen Gitter zu hinterlassen. Die Dauer erhöht sich auf 7 Sekunden, die Verwundbarkeit auf 45%.
@@ -73996,7 +73996,7 @@ Die Wahrscheinlichkeit, beim Angriff Butter hinzuzufügen, steigt auf 30%, und e
 Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HEADBUTTERLETTUCE_NEW_SKILL_LEVEL5_DES]
-Beim Angriff besteht eine 10-prozentige Chance, einen Butterbrunnen zu erzeugen, aus dem drei Butterstücke gleichzeitig herausfliegen.
+Beim Angriff besteht eine 10% Chance, einen Butterbrunnen zu erzeugen, aus dem drei Butterstücke gleichzeitig herausfliegen.
 
 [HEADBUTTERLETTUCE_PLANTFOOD_DESCRIPTION]
 Buttersalat schüttelt schnell und heftig seinen Kopf, abwechselnd nach links und rechts, drei Runden lang. Bei jeder Kopfbewegung schleudert er drei Butterstücke, die Schaden verursachen und Zombies 9 Sekunden lang kontrollieren.
@@ -74116,7 +74116,7 @@ Der Impatiens-Schütze kann zu einer stärkeren violetten Form aufgerüstet werd
 Der Impatiens-Schütze färbt sich sofort in die nächste Form ein und feuert kontinuierlich Farbkugeln der aktuellen Form nach rechts ab, die Zombies Schaden zufügen.
 
 [IMPATIENSSHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Impatiens-Schütze färbt sich sofort in die nächste Form ein und feuert kontinuierlich Farbkugeln der aktuellen Form nach rechts^ff0000^ fächerförmig^oldclr^ ab, die Zombies Schaden zufügen. ^ff0000^ Die Anzahl der Kugeln verdoppelt sich. ^oldclr^
+Der Impatiens-Schütze färbt sich sofort in die nächste Form ein und feuert kontinuierlich Farbkugeln der aktuellen Form nach rechts^ff0000^ fächerförmig^oldclr^ ab, die Zombies Schaden zufügen. ^ff0000^ Die Anzahl der Projektile verdoppelt sich. ^oldclr^
 
 [TURKEYPULT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Truthahnkrug erscheint, wirft er einen Tofu-Truthahn auf ihn. Nach der Landung bewegt sich der Tofu-Truthahn weiter nach rechts und verursacht bei Berührung des Zombies Schaden.
@@ -74259,13 +74259,13 @@ Die Sturmglocke erzeugt einen stärkeren Luftstrom und hat eine Chance von 50%, 
 Beim Einpflanzen besteht eine mittlere Chance, die  direkt freizusetzen.
 
 [DRAFTODIL_NEW_SKILL_LEVEL5_DES]
-Beim Angriff besteht eine 15%ige Chance, eine stärkere Ballonkugel abzufeuern. Diese kann einen Zombie durchdringen und den ersten Zombie länger steif machen. Kleine Zombies werden mit hoher Wahrscheinlichkeit weggeblasen, wodurch der zweite Zombie die Wirkung normaler Kugeln erleidet.
+Beim Angriff besteht eine 15%ige Chance, eine stärkere Ballonkugel abzufeuern. Diese kann einen Zombie durchdringen und den ersten Zombie länger steif machen. Kleine Zombies werden mit hoher Wahrscheinlichkeit weggeblasen, wodurch der zweite Zombie die Wirkung normaler Projektile erleidet.
 
 [DRAFTODIL_PLANTFOOD_DESCRIPTION]
-Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Kugeln hintereinander ab und sprengt die fliegenden Zombies in der aktuellen Reihe weg.
+Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Projektile hintereinander ab und sprengt die fliegenden Zombies in der aktuellen Reihe weg.
 
 [DRAFTODIL_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Kugeln hintereinander rechts von ^ff0000^ ab und sprengt die fliegenden Zombies in der aktuellen Reihe weg. ^oldclr^
+Die Sturmglocke erzeugt einen starken Luftstrom, feuert zehn Projektile hintereinander rechts von ^ff0000^ ab und sprengt die fliegenden Zombies in der aktuellen Reihe weg. ^oldclr^
 
 [GARDENERGRASS_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie die beiden rechten Felder des Bodensägegrases betritt, greift das Bodensägegras mit seiner Säge auf seinem Kopf alle Zombies an, verursacht Schaden und kontrolliert die Zombies sekündlich. Die Zombies zittern weiter und können sich nicht bewegen. Gleichzeitig überhitzt die Säge innerhalb von 15 Sekunden allmählich. Im überhitzten Zustand kann das Bodensägegras nicht angreifen. Die überhitzte Kettensäge erholt sich nach 10 Sekunden.
@@ -74660,7 +74660,7 @@ Beim Schlagen besteht eine 10%ige Chance auf einen Homerun. Die Erbsenkugel flie
 Gehe in den Hitzezustand und verstärke den nächsten Schlag: Verursache Schaden und ^848484^BetäubungⅠ^oldclr^ bei Zombies und stoße kleine und mittelgroße Zombies weg. Fliegt eine Erbsenkugel vorbei, trifft sie einen starken, geraden Ball, der Zombies im Bereich der geraden Linie Schaden und Betäubung zufügt und kleine und mittelgroße Zombies wegstößt. Die Stufe der Zombies, die sofort getötet werden können, ist in der Regel nicht höher als die doppelte Stufe der Pflanze selbst.
 
 [BURDOCKBATTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Gehe in den Hitzezustand und verstärke den nächsten Schlag: Füge Zombies Schaden zu und betäube sie, während kleine und mittlere Zombies weggeschleudert werden. Fliegt eine Erbsenkugel vorbei, trifft sie drei mächtige, gerade Kugeln, die nach rechts, oben rechts und unten rechts fliegen. Sie durchdringen Zombies, verursachen Schaden und betäuben sie, während kleine und mittlere Zombies weggeschleudert werden. Die Stufenanzahl für diesen Sofortkill ist unbegrenzt.
+Gehe in den Hitzezustand und verstärke den nächsten Schlag: Füge Zombies Schaden zu und betäube sie, während kleine und mittlere Zombies weggeschleudert werden. Fliegt eine Erbsenkugel vorbei, trifft sie drei mächtige, gerade Projektile, die nach rechts, oben rechts und unten rechts fliegen. Sie durchdringen Zombies, verursachen Schaden und betäuben sie, während kleine und mittlere Zombies weggeschleudert werden. Die Stufenanzahl für diesen Sofortkill ist unbegrenzt.
 
 [VAMPORCINI_NEW_SKILL_LEVEL1_DES]
 Unmittelbar nach dem Pflanzen des Vampignones werden Fledermäuse und Giftnebel freigesetzt, die 6 Sekunden lang anhalten und Zombies im Umkreis von 3×3 Schaden zufügen. Nach Ablauf der Fertigkeit erhöht sich die maximale Lebensgrenze um 100%. Sobald die Pflanze stirbt, werden die Fledermäuse freigelassen, die den umliegenden 3×3-Zombies Schaden zufügen.
@@ -74738,7 +74738,7 @@ Der Fertigkeitseffekt des elektrischen Energiebonus wird um 100% und der Angriff
 Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [DEODARCEDAR_NEW_SKILL_LEVEL5_DES]
-Es besteht eine 50-prozentige Chance, dass sich ein Blitz in eine Blitzsäule verwandelt, die allen Zombies in einem einzigen Raster Schaden zufügt. Dadurch erhöht sich der Schaden auf das 2,5-fache eines normalen Blitzes.
+Es besteht eine 50% Chance, dass sich ein Blitz in eine Blitzsäule verwandelt, die allen Zombies in einem einzigen Raster Schaden zufügt. Dadurch erhöht sich der Schaden auf das 2,5-fache eines normalen Blitzes.
 
 [DEODARCEDAR_PLANTFOOD_DESCRIPTION]
 Der elektrische Zedernkegel absorbiert die elektrische Energie aller elektrischen Pflanzen im Feld und wandelt sie in einen hochenergetischen elektrischen Ring um, der nach rechts ausgesandt wird. Er schleudert drei Blitze pro Sekunde und hat die Chance, Ⅰ^oldclr^ Zombies zu lähmen. Die Größe des elektrischen Rings nimmt mit der absorbierten elektrischen Energiemenge zu.
@@ -76351,10 +76351,10 @@ Vollständig aktiviert
 Du kannst dich mit dem Superschützen verbinden, einschließlich des fusionierten Superschützen. Nach dem Einsatz der Spezialdünger-Fähigkeit einer verknüpften Pflanze besteht eine 10%ige Chance, eine weitere Spezialdünger-Fähigkeit einzusetzen (ausgenommen Seekanone).
 
 [STORE_PRODUCT_AVATAR_SEASHOOTER]
-Bei Einsatz der  erhöht sich die Anzahl der abgefeuerten Kugeln.
+Bei Einsatz der  erhöht sich die Anzahl der abgefeuerten Projektile.
 
 [SEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Schießt Kugeln in drei Richtungen, um Zombies anzugreifen. Mit der Spezialdünger-Fähigkeit können bis zu drei Elite-Erbsenpflanzen in einem Radius von 3x3 aktiviert werden, um die Spezialdünger-Fähigkeit einzusetzen. Jede zusätzliche Pfütze erhöht die Angriffskraft um 5 und verringert die Angriffsgeschwindigkeit basierend auf der Anzahl der Pfützen in der Nähe. Das Pflanzen in der Unterwasserwelt gewährt den vollen Angriffskraft-Buff.
+Schießt Projektile in drei Richtungen, um Zombies anzugreifen. Mit der Spezialdünger-Fähigkeit können bis zu drei Elite-Erbsenpflanzen in einem Radius von 3x3 aktiviert werden, um die Spezialdünger-Fähigkeit einzusetzen. Jede zusätzliche Pfütze erhöht die Angriffskraft um 5 und verringert die Angriffsgeschwindigkeit basierend auf der Anzahl der Pfützen in der Nähe. Das Pflanzen in der Unterwasserwelt gewährt den vollen Angriffskraft-Buff.
 
 [SEASHOOTER_NEW_SKILL_LEVEL2_DES]
 Stufe 2 kann mit normalen Erbsenkanonen und Gifterbsenkanonen synergistisch wirken.
@@ -76375,10 +76375,10 @@ Seekanonen-Kostüm
 Seekanonen-Kostüm
 
 [SEASHOOTER_PLANTFOOD_DESCRIPTION]
-Bei Einsatz einer Super erhöht sich die Anzahl der ausgeworfenen Kugeln.
+Bei Einsatz einer Super erhöht sich die Anzahl der ausgeworfenen Projektile.
 
 [SEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Bei Verwendung eines Supers erhöht sich die Anzahl der ausgeworfenen Kugeln.
+Bei Verwendung eines Supers erhöht sich die Anzahl der ausgeworfenen Projektile.
 
 [ZOMBIE_ATLANTIS_ARMOR2]
 Ozean-Eimer-Zombie
@@ -76847,7 +76847,7 @@ Reduziert den Sonnenlichtverbrauch um 20 Punkte
 Dunkle Zwillingssonnenblume-Super-Outfit
 
 [NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_2]
-Jedes Mal, wenn Sonnenlicht erzeugt wird, besteht eine 15-prozentige Chance, 100 Gold zu produzieren Münzen
+Jedes Mal, wenn Sonnenlicht erzeugt wird, besteht eine 15% Chance, 100 Gold zu produzieren Münzen
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POWERPLANT_1]
 Karotten-Superkleid
@@ -78099,7 +78099,7 @@ Der Kopf hinter dem Theater – eine Mischung aus tragischen Epen und bösem Cha
 [ZOMBIE_RENAI_HAMLET]
 Hamlet-Zombie
 [ZOMBIE_RENAI_HAMLET_DESCRIPTION]
-{KEYWORD}Features:{STAT}Feuert Kugeln fächerförmig nach vorne ab, die mit Pflanzenkugeln kollidieren können.
+{KEYWORD}Features:{STAT}Feuert Projektile fächerförmig nach vorne ab, die mit Pflanzenprojektilen kollidieren können.
 [ZOMBIE_RENAI_HAMLET_DESCRIPTION_HEADER]
 Tausend Hamlets stecken in den Köpfen tausender Leser, und nur ein Zombie steckt in den Köpfen tausender Pflanzen! Egal wie sehr er sich verändert, er kann niemals entkommen!
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_HAMLET]
