@@ -76342,6 +76342,23 @@ Die Rotenon-Verweildauer von See Derris wurde auf 7 Sekunden erhöht.
 [SEADERRIS_AVATAR_PLANTFOOD_DESCRIPTION]
 Die Abklingzeit des Pflanzens wurde um 20 % reduziert.
 
+[SEASHOOTER_DESCRIPTION]
+{KEYWORD}Eigenschaften: {STAT} Greift Zombies aus drei Richtungen an. Die ultimative Fähigkeit kann mit anderen Pflanzen kombiniert werden.
+{KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanze, Meerespflanze
+
+{FLAVOR}Als er seiner Nichte in der Schule half, ließ Dave versehentlich eine Erbsenkanone auf einem Seerosenblatt in der Nähe des Schulschwimmbeckens liegen. Vier Jahre später kehrte Dave zur Abschlussfeier seiner Nichte zurück und fand heraus, dass sie sich in eine völlig andere Pflanze verwandelt hatte. „Kein Strandpass? Kein Einlass!“ sagt die Seekanone, während sie die Zombies persönlich aus dem Wasser wirft. „H2-OH-NEIN, das tut ihr nicht!“ ruft die Seekanone den Zombies zu, die den Rasen oder das Schwimmbecken betreten wollen.
+
+[SEASHOOTER_TOOLTIP]
+Feuert drei Kugeln ab und greift Gegner aus drei Richtungen an.
+
+[SEASHOOTER]
+Seekanone
+
+[SEASHOOTER_DESCRIPTION_HEADER]
+Eine amphibische Pflanze, die eine Salve von 3 mit Wasser bedeckten Erbsen in verschiedene Richtungen abfeuert und Zombies Schaden zufügt. Sie erzeugt eine Pfütze, wenn sie auf dem Boden platziert wird.
+{KEYWORD}Besonderheit: {STAT}Erhält einen Schadensbonus, wenn sie in der Nähe von Wasserfeldern platziert wird.
+{KEYWORD}Besonderheit: {STAT}Wassererbsen, die Zunderholz durchschlagen, erzeugen in der Umgebung eine Dampf-Explosion, die allen Zombies auf demselben Feld schadet.
+
 [SEASHOOTER_SKILL_LEVEL1]
 Verbesserte Verbindung
 
