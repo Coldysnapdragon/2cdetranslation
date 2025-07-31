@@ -112,7 +112,7 @@ Wild-West-Level erfolgreich abgeschlossen.
 Yo! Los geht's!
 
 [ACHIEVE_HIGH_FIVE_DESC]
-Pflanze fünf Tallnuts und verwende Spezialdünger-Attacken darauf.
+Pflanze fünf Hochwall-Nusss und verwende Spezialdünger-Attacken darauf.
 
 [ACHIEVE_HIGH_FIVE_TITLE]
 Super! High Five!
@@ -1148,6 +1148,7 @@ Kokosnusskanone
 {KEYWORD}Reichweite: {STAT}Gerade Linie
 {KEYWORD}Spezial: {STAT}Explosion nach dem Auftreffen auf alle Seiten
 {KEYWORD}Pflanzenmerkmale: {STAT}Braune Pflanze, Waffenfamilie
+
 {FLAVOR}Kokosnusskanone ist nicht mehr jung, hat aber immer noch wunderschönes Haar. Er ist immer noch an vorderster Front aktiv. Was sein glänzendes Haar angeht, vermuten wir, dass es gewachst ist.
 
 [COCONUTCANNON_DESCRIPTION_HEADER]
@@ -1190,16 +1191,16 @@ Sammeln
 ^ff0000^
 
 [CONTINUE_BUTTON]
-Fortfahren
+WEITER
 
 [CONTINUE_GAME_HEADER]
-Möchtest du das Spiel fortfahren？
+WEITERSPIELEN?
 
 [CONTINUE_GAME_OR_RESTART]
-Möchten Sie das Spiel fortsetzen oder das Level neu starten?
+Möchtest du das aktuelle Spiel weiterspielen oder das Level neu starten?
 
 [CONTINUE_ONWARDS_BUTTON]
-Fortfahren！
+Weitermachen!
 
 [COPA_PICTURE_WARNING]
 Deine Fotos werden nur auf diesem Gerät gespeichert.
@@ -2155,10 +2156,10 @@ Du benötigst
 Zum Ereignis gehen
 
 [GOT_A_POWERUP]
-Du hast ein Powerup erhalten！
+Du hast ein neues Power-up!
 
 [GOT_AN_UPGRADE]
-Du hast eine Verbesserung erhalten！
+Oho, eine Verbesserung!
 
 [GRAVEBUSTER]
 Grabfresser 
@@ -2314,7 +2315,7 @@ Wenn du das Level verlässt, werden die platzierten Pflanzen nicht gespeichert.
 Verlassen
 
 [LEAVE_GAME_HEADER]
-Möchtest du das Spiel verlassen？
+Level verlassen?
 
 [LETS_ROCK_BUTTON]
 Los Geht's!
@@ -3022,19 +3023,19 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:winnie}{SAY}Sie halten Kamelkarten. Mit kugeldurchdringenden Pflanzen könnt ihr sie effektiv bekämpfen.
 
 [NARRATIVE_BUY_PLANTFOOD_1]
-{SAY:winnie}Ich habe Diamanten gefunden. Kauf dir ein paar Spezialdünger-Fähigkeitn als Reserve!
+{SAY:winnie}Ich habe Juwelen gefunden. Kauf dir ein paar Spezialdünger-Fähigkeitn als Reserve!
 
 [NARRATIVE_BUY_PLANTFOOD_2]
-{SAY:crazydave}Super! Diese Diamanten sind für dich! Warum? Weil ich verrückt bin~!!
+{SAY:crazydave}Super! Diese Juwelen sind für dich! Warum? Weil ich verrückt bin~!!
 
 [NARRATIVE_BUY_PLANTFOOD_3]
 {SPAWN_COINS}{NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_BUY_POWERUPS_1]
-{NPC_ENTER:winnieicon}{AUFGEFROREN}{LONG}Mit Diamanten kannst du mächtige Cheats kaufen.
+{NPC_ENTER:winnieicon}{AUFGEFROREN}{LONG}Mit Juwelen kannst du mächtige Cheats kaufen.
 
 [NARRATIVE_BUY_POWERUPS_2]
-{LONG}Jede Nutzung kostet 8 Diamanten. Achte bitte auf deine Diamantenanzahl.
+{LONG}Jede Nutzung kostet 8 Juwelen. Achte bitte auf deine Juwelenanzahl.
 
 [NARRATIVE_CHALLENGE_BRANCH_INTRO_1]
 {NPC_ENTER:crazydaveicon}{SAY}Autsch! Das ist eine Weggabelung. Was sollen wir tun?
@@ -3863,19 +3864,19 @@ Erneut spielen
 Nächstes Level!
 
 [PLAYERS_HOUSE]
-{PLAYER}s Haus
+{PLAYER}s Haus!
 
 [PLAYERS_TRIP_TO_DANGER_ROOM]
-Gefahrenzentrale！
+Endlos-Zone!
 
 [PLAYERS_TRIP_TO_EGYPT]
 {PLAYER}s Reise ins Alte Ägypten!
 
 [PLAYERS_TRIP_TO_FUTURE]
-{PLAYER}s Reise in die Ferne Zukunft！
+{PLAYER}s Reise in die Ferne Zukunft!
 
 [PLAYERS_TRIP_TO_PIRATE_SHIP]
-{PLAYER}s Reise in die Piratensee！
+{PLAYER}s Reise in die Piratensee!
 
 [PLAYERS_TRIP_TO_WEST]
 {PLAYER}s Reise in den Wilden Westen!
@@ -4435,7 +4436,7 @@ Neu starten
 Das Level Neu starten
 
 [RESTART_LEVEL]
-Möchtest du das Level neu starten？
+Möchtest du das Level wirklich neu starten?
 
 [RESTART_LEVEL_BODY]
 Möchtest du dieses Level erneut starten?
@@ -4444,7 +4445,7 @@ Möchtest du dieses Level erneut starten?
 Level Neu starten
 
 [RESTART_LEVEL_HEADER]
-Möchtest du das Level neu starten？
+Level neu starten?
 
 [RESUME_BUTTON]
 Fortfahren
@@ -9121,22 +9122,22 @@ Bambussprossen der ersten Stufe plus Dekoration
 Laserbohne der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_BLOVER_LV0_SUCCEED_CONTENT]
-Kleeblatt der ersten Stufe plus Dekoration
+Wehblatt der ersten Stufe plus Kostüm
 
-[GEMS_RESTORE_CODE_RECHARGE_CIT RON_LV0_SUCCEED_CONTENT]
-Grapefruit der ersten Stufe plus Dekoration
+[GEMS_RESTORE_CODE_RECHARGE_CITRON_LV0_SUCCEED_CONTENT]
+Zedrate der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_EMPEA_LV0_SUCCEED_CONTENT]
-Pulsgelber Pfirsich der ersten Stufe plus Dekoration
+E.M.Pfirsisch der ersten Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_LV0_SUCCEED_CONTENT]
-Holografische Nuss der ersten Stufe plus Dekoration
+Unend-Nuss der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_MAGNIFYINGGRASS_LV0_SUCCEED_CONTENT]
-Prismagras der ersten Stufe plus Dekoration
+Vergrößerungsgrass der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_POWERPLANT_LV0_SUCCEED_CONTENT]
-Karotte der ersten Stufe plus Dekoration
+Feldrübe der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_STARFRUIT_LV0_SUCCEED_CONTENT]
 Sternfrucht der ersten Stufe plus Dekoration
@@ -9145,13 +9146,13 @@ Sternfrucht der ersten Stufe plus Dekoration
 Karotten-Raketenauto der ersten Stufe mit Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_PUFFSHROOM_LV0_SUCCEED_CONTENT]
-Kleiner Puffpilz der ersten Stufe mit Dekoration
+Pustepilz der ersten Stufe mit Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_FUMESHROOM_LV0_SUCCEED_CONTENT]
-Großer Puffpilz der ersten Stufe mit Dekoration
+Stinkpilz der ersten Stufe mit Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_HYPNOSHROOM_LV0_SUCCEED_CONTENT]
-Charm-Pilz der ersten Stufe plus Dekoration
+Hypno-Pilz der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_SUNSHROOM_LV0_SUCCEED_CONTENT]
 Sonnenpilz der ersten Stufe plus Dekoration
@@ -9160,13 +9161,13 @@ Sonnenpilz der ersten Stufe plus Dekoration
 Sonnenbohne (erste Stufe) plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_PEANUT_LV0_SUCCEED_CONTENT]
-Erdnuss-Shooter (erste Stufe) plus Dekoration
+Erbs-Nuss(erste Stufe) plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_MAGNETSHROOM_LV0_SUCCEED_CONTENT]
 Magnetpilz (erste Stufe) plus Dekoration (Ankleiden)
 
 [GEMS_RESTORE_CODE_RECHARGE_STREETLAMP_LV0_SUCCEED_CONTENT]
-Straßenlaternenblume (erste Stufe) plus Ankleiden
+Pflanterne (erste Stufe) plus Ankleiden
 
 [GEMS_RESTORE_CODE_RECHARGE_COFFEEBEAN_LV0_SUCCEED_CONTENT]
 Kaffeebohne (erste Stufe) plus Kleid hoch
@@ -9187,7 +9188,7 @@ Brokkoli der ersten Stufe plus Kostüme
 Maschinengewehr-Granatapfel der ersten Stufe plus Kostüme
 
 [GEMS_RESTORE_CODE_RECHARGE_CHOMPER_LV0_SUCCEED_CONTENT]
-Großmaulblume (erste Stufe) – Dekoration hinzufügen
+Schnapper (erste Stufe) – Dekoration hinzufügen
 
 [GEMS_RESTORE_CODE_RECHARGE_LILYPAD_LV0_SUCCEED_CONTENT]
 Lotusblatt (erste Stufe) – Dekoration hinzufügen
@@ -9515,7 +9516,7 @@ Brokkoli (Stufe 3)
 Maschinengewehr-Granatapfel (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_CHOMPER_LV3_SUCCEED_CONTENT]
-Großmaulblume (Stufe 3)
+Schnapper (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_LILYPAD_LV3_SUCCEED_CONTENT]
 Lotus (Stufe 3) Pad
@@ -10830,16 +10831,16 @@ Das Geschenkpaket zum Eventtag ist mit einem Rabatt erhältlich. Der Originalpre
 Du hast bereits ^00FF00%s^oldclr. Das Geschenkpaket zum Originalpreis von ^00FF00%d Goldmünzen^oldclr kostet nur noch ^00FF00%d Goldmünzen^oldclr!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_ONE]
-Das Geschenkpaket am Veranstaltungstag ist reduziert. Das Geschenkpaket zum Originalpreis von ^00FF00%d Diamanten^oldclr kostet nur noch ^00FF00%d Diamanten^oldclr!
+Das Geschenkpaket am Veranstaltungstag ist reduziert. Das Geschenkpaket zum Originalpreis von ^00FF00%d Juwelen^oldclr kostet nur noch ^00FF00%d Juwelen^oldclr!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_TWO]
-Du hast bereits ^00FF00%s^oldclr. Das Geschenkpaket zum Originalpreis von ^00FF00%d Diamanten^oldclr kostet nur noch ^00FF00%d Diamanten^oldclr!
+Du hast bereits ^00FF00%s^oldclr. Das Geschenkpaket zum Originalpreis von ^00FF00%d Juwelen^oldclr kostet nur noch ^00FF00%d Juwelen^oldclr!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_THREE]
-Du hast bereits ^00FF00%s^oldclr und ^00FF00%d^oldclr ^00FF00%s^oldclr . Du benötigst nur noch ^00FF00%d Diamanten^oldclr, um das Geschenkpaket zu erhalten, das ursprünglich ^00FF00%d Diamanten^oldclr gekostet hat!
+Du hast bereits ^00FF00%s^oldclr und ^00FF00%d^oldclr ^00FF00%s^oldclr . Du benötigst nur noch ^00FF00%d Juwelen^oldclr, um das Geschenkpaket zu erhalten, das ursprünglich ^00FF00%d Juwelen^oldclr gekostet hat!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_FOUR]
-Du hast bereits ^00FF00%d^oldclr ^00FF00%s^oldclr und ^00FF00%d^oldclr ^00FF00%s^oldclr . Du benötigst nur noch ^00FF00%d Diamanten^oldclr, um das Geschenkpaket zu erhalten, das ursprünglich ^00FF00%d Diamanten^oldclr gekostet hat!
+Du hast bereits ^00FF00%d^oldclr ^00FF00%s^oldclr und ^00FF00%d^oldclr ^00FF00%s^oldclr . Du benötigst nur noch ^00FF00%d Juwelen^oldclr, um das Geschenkpaket zu erhalten, das ursprünglich ^00FF00%d Juwelen^oldclr gekostet hat!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_FIVE]
 Du hast bereits ^00FF00%d^oldclr ^00FF00%s^oldclr, du brauchst nur noch ^00FF00%dgold^oldclr, um das Geschenkpaket zu erhalten, das ursprünglich ^00FF00%dgold^oldclr gekostet hat!
@@ -10848,7 +10849,7 @@ Du hast bereits ^00FF00%d^oldclr ^00FF00%s^oldclr, du brauchst nur noch ^00FF00%
 Du hast bereits ^00FF00%d/%d^oldclr ^00FF00%s^oldclr und ^00FF00%d/%d^oldclr ^00FF00%s^oldclr, du brauchst nur noch ^00FF00%ddiamond^oldclr, um das Geschenkpaket zu erhalten, das ursprünglich ^00FF00%ddiamond^oldclr gekostet hat!
 
 [STORE_GIFT_DIALOG_OTHERDAY_TYPE_SEVEN]
-Du besitzt bereits ^00FF00%s^oldclr und ^00FF00%d/%d^oldclr von ^00FF00%s^oldclr. Du erhältst das Geschenkpaket zum Originalpreis von ^00FF00%d Diamanten^oldclr für nur ^00FF00%d Diamanten^oldclr!
+Du besitzt bereits ^00FF00%s^oldclr und ^00FF00%d/%d^oldclr von ^00FF00%s^oldclr. Du erhältst das Geschenkpaket zum Originalpreis von ^00FF00%d Juwelen^oldclr für nur ^00FF00%d Juwelen^oldclr!
 
 [REPEATER_AVATAR_NAME]
 Doppelschützen-Outfit
@@ -12221,20 +12222,20 @@ Die Zeit für heute ist aufgebraucht.
 Öffnungszeit: jeweils ^31FFE9
 
 [FESTIVALGAME_LEFTTIME_TIP]
-Musst du ^FF0000 {GEM_COUNT} ^oldclr Diamanten ausgeben, um 1 Mal zu kaufen?
+Musst du ^FF0000 {GEM_COUNT} ^oldclr Juwelen ausgeben, um 1 Mal zu kaufen?
 ^FF0000 (Die Anzahl der Käufe kann nicht auf den nächsten Tag übertragen werden. Monatskartennutzer erhalten eine zusätzliche kostenlose Herausforderung.)
 
 [FESTIVALGAME_MONTHLY_CARD_LEFTTIME_TIP]
-Benötigst du ^FF0000 {GEM_COUNT} ^oldclr-Diamanten für einen einmaligen Kauf?
+Benötigst du ^FF0000 {GEM_COUNT} ^oldclr-Juwelen für einen einmaligen Kauf?
 
 ^FF0000 (Die Anzahl der Käufe kann nicht auf den nächsten Tag übertragen werden. Bitte tu dein Möglichstes.)
 
 [FESTIVALGAME_LEFTTIME_TIP_AD]
-Benötigst du ^FF0000 {GEM_COUNT} ^oldclr-Diamanten oder ^FF0000 ^oldclr-Anzeigen für einen einmaligen Kauf?
+Benötigst du ^FF0000 {GEM_COUNT} ^oldclr-Juwelen oder ^FF0000 ^oldclr-Anzeigen für einen einmaligen Kauf?
 ^FF0000 (Die Anzahl der Käufe kann nicht auf den nächsten Tag übertragen werden. Monatskartennutzer erhalten eine zusätzliche kostenlose Herausforderung.)
 
 [FESTIVALGAME_MONTHLY_CARD_LEFTTIME_TIP_AD]
-Muss man ^FF0000 {GEM_COUNT} ^oldclr Diamanten oder ^FF0000 ausgeben, um eine Anzeige anzusehen, oder ^oldclr, um einmal zu kaufen?
+Muss man ^FF0000 {GEM_COUNT} ^oldclr Juwelen oder ^FF0000 ausgeben, um eine Anzeige anzusehen, oder ^oldclr, um einmal zu kaufen?
 ^FF0000 (Die Anzahl der Käufe kann nicht auf den nächsten Tag übertragen werden. Bitte nutze sie entsprechend deiner Fähigkeiten.)
 
 [BUY_LIFE_TIMES]
@@ -12927,7 +12928,7 @@ Wildwest-Gargantua
 Ein Gargantua mit Markenbewusstsein.
 
 [SPRING_TIPS_1]
-Je mehr Welten du freischaltest, desto mehr Sterne musst du erreichen.
+Je mehr Welten du freischaltest, desto mehr Sterne musst du erreichen, um die nächste freizuschalten.
 
 [SPRING_TIPS_2]
 Je später du eine Welt herausforderst, desto schwieriger wird der Schwierigkeitsgrad.
@@ -12942,7 +12943,7 @@ Verpasse nicht die kostenlose Lotterie im Schatz. Verbinde dich mit dem Internet
 Im Wettkampfmenü gibt es viele interessante Spielmöglichkeiten und verschiedene Spielstrategien!
 
 [SPRING_TIPS_6]
-Je häufiger du die taktische Gurke im selben Kampf einsetzt, desto mächtiger wird sie.
+Je häufiger du die taktische Gurke im selben Kampf einsetzt, desto mächtiger  und teurer wird sie.
 
 [SPRING_TIPS_7]
 Besuche regelmäßig die erweiterte Funktion, um zu sehen, welche Pflanzen du sammeln und verbessern kannst!
@@ -12952,7 +12953,6 @@ Das Sammeln von Sternen in der Galaxie kann gegen verschiedene Pflanzen und verb
 
 [SPRING_TIPS_9]
 Die Kulturlösung, die die Pflanze benötigt, um Level 5 zu erreichen, ist im Endless Shop erhältlich.
-
 
 [NARRATIVE_ZOMBOSS_BLADE_1]
 {NPC_ENTER:crazydave}{SAY}Boss
@@ -15721,7 +15721,7 @@ Die Februar-Anmeldeversion von „Plants vs. Zombies 2“ wurde aus bekannten Gr
 1. 100 Juwelen
 2. 10 Süßkartoffelfragmente
 
-Nach der Veröffentlichung der Big Wave Beach-Version verschwanden die vier Pflanzen Süßkartoffel, Lotusblatt, Großmaulblume und Bowlingblase aufgrund einer Datenverwechslung oder tauchten wieder auf. Wir haben sie gemäß den Fragmenten und Leveln vor dem Fehler wiederhergestellt und die Spieler mit 50 Juwelen entschädigt.
+Nach der Veröffentlichung der Big Wave Beach-Version verschwanden die vier Pflanzen Süßkartoffel, Lotusblatt, Schnapper und Bowlingblase aufgrund einer Datenverwechslung oder tauchten wieder auf. Wir haben sie gemäß den Fragmenten und Leveln vor dem Fehler wiederhergestellt und die Spieler mit 50 Juwelen entschädigt.
 
 Vielen Dank für eure Unterstützung von „Plants vs. Zombies 2“ und ich wünsche euch allen frohe Feiertage mit Plants vs. Zombies 2!
 ———————— Kleine Erbse
@@ -18754,7 +18754,7 @@ VIP-Monatskarte
 ... Jetzt aktivieren
 
 [PRODUCT_DIAMONDS_REWARD_DES]
-Laden Sie ab sofort 1 Yuan auf und erhalten Sie 105 Diamanten zurück. Die Gutschrift erfolgt innerhalb von 7 Tagen (Netzwerkverbindung erforderlich).
+Laden Sie ab sofort 1 Yuan auf und erhalten Sie 105 Juwelen zurück. Die Gutschrift erfolgt innerhalb von 7 Tagen (Netzwerkverbindung erforderlich).
 
 [PRODUCT_DIAMONDS_REWARD]
 Holen Sie sich {GEMS} Juwelen.
@@ -22947,14 +22947,14 @@ Wöchentliche Aufgaben
 [DANGERROOM_TRAINING_ROOM]
 Endlos-Training
 
+[DANGERROOM_MEDAL_DESC]
+Halten Sie Ihren Rang und erhalten Sie eine Medaille.
+
 [DANGERROOM_GET_PLANT]
 Pflanzen kaufen
 
 [DANGERROOM_RECOMMEND_PRESENT]
 Empfohlenes Geschenkpaket
-
-[DANGERROOM_MEDAL_SHOP]
-Endlos-Shop
 
 [DANGERROOM_TASK]
 Wöchentliche Aufgaben
@@ -24570,7 +24570,7 @@ Netzwerkverbindung fehlgeschlagen. Bitte halten Sie eine stabile Verbindung aufr
 ({ITEM} wird nicht abgezogen, wenn die Netzwerkverbindung unterbrochen wird.)
 
 [CHALLENGE_BONUS]
-Herausforderungsbelohnungen
+Belohnungen
 
 [CHRISTMAS_CHARGE_BONUS]
 Aufladen, um ein Geschenk zu erhalten
@@ -29844,6 +29844,7 @@ hart.
 
 [NARRATIVE_ICEAGE_INTRO_HURRIKALE_3]
 {PLAYFUL:crazydave}Der Typ kann richtig stark blasen! Ich meine, der ist echt gut.
+
 [NARRATIVE_ICEAGE_INTRO_ICEBLOCKS_4]
 {SAY:crazydave}Die Idee interessiert mich schon!
 
@@ -30631,7 +30632,7 @@ Schatz der Toten
 {PLAYER}s Geburtstagsparty!
 
 [PLAYERS_TRIP_TO_MODERN]
-{PLAYER}s Reise in die Moderne！
+{PLAYER}s Reise in die Moderne!
 
 [PLAYERS_TRIP_TO_PREVIEW]
 {PLAYER}s Botanischer Spielplatz!
@@ -30640,13 +30641,13 @@ Schatz der Toten
 Kraftvolle Schaufel
 
 [PLAYERS_TRIP_TO_STEAM]
-{PLAYER}s Reise zur Industriellen Revolution！
+{PLAYER}s Reise zur Industriellen Revolution!
 
 [PLAYERS_TRIP_TO_RENAI]
-{PLAYER}s Reise zur Renaissance Ära！
+{PLAYER}s Reise zur Renaissance Ära!
 
 [PLAYERS_TRIP_TO_BATTLE]
-{PLAYER}s Reise zur Arena！
+{PLAYER}s Reise zur Arena!
 
 [PLAYERS_TRIP_TO_ARTIFACT]
 {PLAYER}s Artefakt-Sammelreise!
@@ -30930,10 +30931,10 @@ Kaktus
 Verschluckt einen Zombie auf einmal!
 
 [PRODUCT_CHOMPER_NAME]
-Pflanze – Großmaulblume
+Pflanze – Schnapper
 
 [PRODUCT_CHOMPER_SHORT_DESCRIPTION]
-Großmaulblume
+Schnapper
 
 [PRODUCT_COLDSNAPDRAGON_DESCRIPTION]
 Sprüht eisigen Nebel in 6 benachbarte Felder!
@@ -32197,7 +32198,7 @@ Moderne
 38
 
 [WORLD_PREVIEW_BEACH_TITLE]
-Riesen Wellen Strand！
+Riesen Wellen Strand!
 
 [WORLD_PREVIEW_BUY_NOW_HEADER]
 Jetzt kaufen!
@@ -34723,22 +34724,22 @@ Verschenken Sie 200 ^oldclr^
 (ursprünglich 100)
 
 [PRODUCT_GEM_1480_DESC_IOS_EXTRA]
-1280 Diamanten
+1280 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
-Verschenke 500 Diamanten^oldclr^
-(ursprünglich 250 Diamanten)
+Verschenke 500 Juwelen^oldclr^
+(ursprünglich 250 Juwelen)
 
 [PRODUCT_GEM_4108_DESC_IOS_EXTRA]
-3280 Diamanten
+3280 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
-Verschenke 1288 Diamanten^oldclr^
-(ursprünglich 828 Diamanten)
+Verschenke 1288 Juwelen^oldclr^
+(ursprünglich 828 Juwelen)
 
 [PRODUCT_GEM_8468_DESC_IOS_EXTRA]
-6480 Diamanten
+6480 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
-Verschenke 2588 Diamanten^oldclr^
-(ursprünglich 1988 Diamanten)
+Verschenke 2588 Juwelen^oldclr^
+(ursprünglich 1988 Juwelen)
 
 [WINTER_BOSS_CHALLENGE]
 Winter-Herausforderung
@@ -34762,55 +34763,55 @@ Dr. Zomboss's einst souveräne Arbeit ist zurück.
 {FLAVOR}Dr. Zomboss gibt nie so schnell auf. Obwohl dieser Mecha einmal besiegt wurde, glaubt er, dass er von dort, wo er gefallen ist, wieder aufstehen sollte. Rache!
 
 [PRODUCT_GEM_20_DESC_ANDROID_EXTRA]
-20 Diamanten
+20 Juwelen
 
 [PRODUCT_GEM_100_DESC_ANDROID_EXTRA]
-100 Diamanten
+100 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
-Holen Sie sich 10 Diamanten^oldclr^
+Holen Sie sich 10 Juwelen^oldclr^
 (ursprünglich 5)
 
 [PRODUCT_GEM_200_DESC_ANDROID_EXTRA]
-200 Diamanten
+200 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
-Holen Sie sich 30 Diamanten^oldclr^
+Holen Sie sich 30 Juwelen^oldclr^
 (ursprünglich 15)
 
 [PRODUCT_GEM_300_DESC_ANDROID_EXTRA]
-300 Diamanten
+300 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
-Holen Sie sich 60 Diamanten^oldclr^
+Holen Sie sich 60 Juwelen^oldclr^
 (ursprünglich 30)
 
 [PRODUCT_GEM_700_DESC_ANDROID_EXTRA]
-700 Diamanten
+700 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
 Verschenke 250 ^oldclr^
 (ursprünglich 100)
 
 [PRODUCT_GEM_1000_DESC_ANDROID_EXTRA]
-1000 Diamanten
+1000 Juwelen
 
 [PRODUCT_GEM_1500_DESC_ANDROID_EXTRA]
-1500 Diamanten
+1500 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
 Verschenke 400 ^oldclr^
 (ursprünglich 200)
 
 [PRODUCT_GEM_3000_DESC_ANDROID_EXTRA]
-3000 Diamanten
+3000 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
 Verschenke 1125 ^oldclr^
 (ursprünglich 450)
 
 [PRODUCT_GEM_6000_DESC_ANDROID_EXTRA]
-6000 Diamanten
+6000 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
 Verschenke 2500 ^oldclr^
 (ursprünglich 1000)
 
 [PRODUCT_GEM_7500_DESC_ANDROID_EXTRA]
-7500 Diamanten
+7500 Juwelen
 ^FF0000 ★Zeitlich begrenztes Event★
 Verschenke 4100 ^oldclr^
 (ursprünglich 1600)
@@ -41526,7 +41527,7 @@ Keine Änderungen.
 Basispflanze, klassisch und zeitlos
 
 [PARALLEL_WALLNUT]
-Nusswand Nr. 42
+Wallnuss Nr. 42
 
 [PARALLEL_WALLNUT_TOOLTIP]
 Basispflanze zur Verteidigung, klassisch und zeitlos
@@ -41694,7 +41695,7 @@ Vertrauenswürdig in jedem Universum
 Die ultimative Ertragspflanze
 
 [PARALLEL_PRIMALWALLNUT]
-Primitive Nusswand Nr. 42
+Primitive Wallnuss Nr. 42
 
 [PARALLEL_PRIMALWALLNUT_TOOLTIP]
 Die ultimative Verteidigungspflanze, kann 7 Angriffen des Riesen widerstehen.
@@ -41724,10 +41725,10 @@ Kürbishülle Nr. 42
 Wenn man landet und die große Mine öffnet, kann man drei Hämmer des Riesen blockieren.
 
 [PARALLEL_PUMPKIN_DESCRIPTION_HEADER]
-Nicht so widerstandsfähig wie die primitive Nusswand, aber widerstandsfähiger. als Nusswand
+Nicht so widerstandsfähig wie die Urzeit-Wallnuss, aber widerstandsfähiger. als 
 
 [PARALLEL_PUMPKIN_DESCRIPTION_HEADER]
-Nicht so widerstandsfähig wie die primitive Nusswand, aber widerstandsfähiger als die Nusswand.
+Nicht so widerstandsfähig wie die Urzeit-Wallnuss, aber widerstandsfähiger als die Wallnuss.
 
 [PARALLEL_PUMPKIN_DESCRIPTION_HEADER] UMPKIN_DESCRIPTION]
 Mit der Landung und dem Einsatz der Spezialdünger-Fähigkeit können drei Hämmer des Riesen geblockt werden.
@@ -42319,23 +42320,24 @@ Curlingstein-Jade-Balance
 Es besteht die Chance, Curlingsteine zu erzeugen, die in Eisnebel gehüllt sind. Curlingsteine fügen Zombies innerhalb eines Rasters Schaden zu. Der zweite Curlingstein verschwindet nicht, nachdem er eine Einheit getroffen hat, und kann vom nächsten Curlingstein getroffen werden.
 
 [ELAEOCARPUS]
-Eleutherod Pitcher
+Eleutherod-Krug
 
 [ELAEOCARPUS_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale:{STAT}Weiße Pflanze
-{FLAVOR}Eleutherod Pitcher ist ein nationaler Spitzensportler. Jedes Mal, wenn er einer neuen Pflanze begegnet, fragt Eleutherod sie: „Im Leben dreht sich alles um Sport. Willst du mit mir Badminton spielen?“
+
+{FLAVOR}Eleutherod-Krug ist ein nationaler Spitzensportler. Jedes Mal, wenn er einer neuen Pflanze begegnet, fragt Eleutherod sie: „Im Leben dreht sich alles um Sport. Willst du mit mir Badminton spielen?“
 
 [ELAEOCARPUS_DESCRIPTION_HEADER]
-Wenn Zombies weit weg sind, feuern sie Querschläger ab und töten Zombies mit niedrigem Gesundheitszustand aus nächster Nähe.
+Wenn Zombies weit weg sind, feuert er Querschläger ab und tötet Zombies mit niedrigem Gesundheitszustand aus nächster Nähe.
 
 [ELAEOCARPUS_TOOLTIP]
-Wenn Zombies weit weg sind, feuern sie Querschläger ab und töten Zombies mit niedrigem Gesundheitszustand aus nächster Nähe.
+Wenn Zombies weit weg sind, feuert er Querschläger ab und töten Zombies mit niedrigem Gesundheitszustand aus nächster Nähe.
 
 [ELAEOCARPUS_PRODUCT_SHORT_DESC]
-Wenn Zombies weit weg sind, feuern sie Querschläger ab und töten Zombies mit niedrigem Gesundheitszustand aus nächster Nähe.
+Feuert Querschläger ab und tötet Zombies mit niedrigem Gesundheitszustand.
 
 [ELAEOCARPUS_AVATAR_NAME]
-Wenn Zombies weit weg sind, feuern sie Querschläger ab und töten Zombies mit niedrigem Gesundheitszustand aus nächster Nähe sofort.
+Feuert Querschläger ab und tötet Zombies mit niedrigem Gesundheitszustand.
 
 [STORE_PRODUCT_AVATAR_ELAEOCARPUS]
 Der kleine Wirbelwind der ultimativen Fähigkeit kann einen ganzen Reihe
@@ -44493,10 +44495,10 @@ Freigeschaltet nach Abschluss des Spiels mit Eis und Gift.
 Freigeschaltet nach Abschluss des Spiels mit „Letztes Gefecht“ und „Gott der Krieg
 
 [PVZ_WORLDCUP_NOTICKET_TIPS_107]
-Möchtest du ^4FC148 150 Diamanten ^oldclr ausgeben, um den Zauber freizuschalten?
+Möchtest du ^4FC148 150 Juwelen ^oldclr ausgeben, um den Zauber freizuschalten?
 
 [PVZ_WORLDCUP_NOTICKET_TIPS_108]
-Möchtest du ^4FC148 150 Diamanten ^oldclr ausgeben, um Himmel und Erde freizuschalten?
+Möchtest du ^4FC148 150 Juwelen ^oldclr ausgeben, um Himmel und Erde freizuschalten?
 
 [PVZ_WORLDCUP_FIRSTFIGHTWIN]
 Erste Herausforderung erfolgreich, Belohnung erhalten:
@@ -45145,10 +45147,10 @@ vivo Game Center-Vorteile
 Paketdetails
 
 [LIMIT_LOTTERY_CONFIRM_TEXT_ONE]
-Das Glücksrad-Einzellos reicht nicht aus. Möchten Sie bestätigen, dass Sie {NUMBER} Diamanten ausgeben, um das Glücksrad-Einzellos einzulösen und an der Lotterie teilzunehmen?
+Das Glücksrad-Einzellos reicht nicht aus. Möchten Sie bestätigen, dass Sie {NUMBER} Juwelen ausgeben, um das Glücksrad-Einzellos einzulösen und an der Lotterie teilzunehmen?
 
 [LIMIT_LOTTERY_CONFIRM_TEXT_TEN]
-Das Glücksrad-Zehnerlos reicht nicht aus. Möchten Sie bestätigen, dass Sie {NUMBER} Diamanten ausgeben, um das Glücksrad-Zehnerlos einzulösen und an der Lotterie teilzunehmen?
+Das Glücksrad-Zehnerlos reicht nicht aus. Möchten Sie bestätigen, dass Sie {NUMBER} Juwelen ausgeben, um das Glücksrad-Zehnerlos einzulösen und an der Lotterie teilzunehmen?
 
 [LIMIT_LOTTERY_PACKETS_DESCRIPTION]
 Kaufe 6000 ^oldclr Goldmünzen und erhalte 60 ^oldclr Purpurgoldmünzen gratis. Purpurgoldmünzen können in der zeitlich begrenzten Schatzverlosung eingesetzt werden, um ^ef7600 Orangenpflanzen ^oldclr und Trophäen zu gewinnen.
@@ -45276,7 +45278,7 @@ Umtausch Menge
 10 % Rabatt
 
 [GROUP_BUY_RETURN]
-Rückgabe von Diamanten für Gruppenkäufe
+Rückgabe von Juwelen für Gruppenkäufe
 
 [ACTIVITY_GROUP_BUY_TITLE]
 Beschreibung des Gruppenkaufs
@@ -45284,7 +45286,7 @@ Beschreibung des Gruppenkaufs
 [ACTIVITY_GROUP_BUY_DESCRIPTION]
 1. Der Gruppenkauf beginnt am Eröffnungstag um 9:00 Uhr und wird am Folgetag um 9:00 Uhr abgerechnet. Der letzte Tag des Gruppenkaufs wird um 24:00 Uhr abgerechnet.
 
-2. Während des Aktionszeitraums können Spieler Diamanten ausgeben, um Gegenstände zum Originalpreis zu erwerben und am Gruppenkauf teilzunehmen. Nach Ablauf des Countdowns werden die Diamanten entsprechend dem Rabatt zurückerstattet!
+2. Während des Aktionszeitraums können Spieler Juwelen ausgeben, um Gegenstände zum Originalpreis zu erwerben und am Gruppenkauf teilzunehmen. Nach Ablauf des Countdowns werden die Juwelen entsprechend dem Rabatt zurückerstattet!
 3. Während der Gruppenkauf-Öffnungsphase (es gibt einen Zugang zur Gruppenkauf-Aktivität) können Spieler 10 Dave-Gutscheine für 1 Yuan Aufladung erhalten, die zum Einlösen von Gruppenkauf-Pflanzen verwendet werden können. Die Gruppenkauf-Gutscheine sind für den aktuellen Zeitraum gültig und verfallen nach Ablauf.
 4. Die im Gruppenkauf erworbenen Pflanzen sind Pflanzen der Stufe 3 oder 2. Falls bereits Pflanzen derselben Stufe vorhanden sind, werden diese in Pflanzenfragmente derselben Stufe umgewandelt, und die Kostüme werden in Kostümfragmente umgewandelt.
 
@@ -46416,10 +46418,10 @@ Zusammenkommen zur Sommeranfangs-Wahrscheinlichkeitsankündigung
 Während des Events können angesammelte Aufladungen seltene Pflanzenfragmente senden. Die Aufladungsmenge wird nach Eventende zurückgesetzt.
 
 [CONSUME_RECIVE_DES]
-Während des Events können durch den kumulativen Verbrauch von Diamanten bis zu 40 {NAME}-Fragmente kostenlos erhalten werden!
+Während des Events können durch den kumulativen Verbrauch von Juwelen bis zu 40 {NAME}-Fragmente kostenlos erhalten werden!
 
 [CONSUME_RECIVE_EXTRA_DES]
-Während des Events erhaltet ihr durch den Verbrauch von Diamanten kostenlose Kostümfragmente!
+Während des Events erhaltet ihr durch den Verbrauch von Juwelen kostenlose Kostümfragmente!
 
 [CONSUME_GEMS]
 Verbrauchsdiamanten
@@ -46519,7 +46521,7 @@ Zwei Magnetpilze können eine Absperrung errichten und auf das Ziel zustürmen, 
 Sparschwein
 
 [PVZ_DANGERROOM_SKIP_NO_ENOUGH_GEMS]
-Level kann nicht übersprungen werden, du hast nicht genügend Diamanten.
+Level kann nicht übersprungen werden, du hast nicht genügend Juwelen.
 
 [WHITEMELON_SKILL_LEVEL5]
 Yokozunas Wut
@@ -47500,7 +47502,7 @@ Pflanzen-Herausforderung – Super-Blumenkohl!
 Pflanzen-Herausforderung – Glockenblumenkrug!
 
 [TASK_WEEKLY_PLANTCHALLENGE_CHOMPER]
-Pflanzen-Challenge – Großmaulblume!
+Pflanzen-Challenge – Schnapper!
 
 [TASK_WEEKLY_PLANTCHALLENGE_COLDSNAPDRAGON]
 Pflanzen-Challenge – Eis-Drachenmäulchen!
@@ -47578,10 +47580,10 @@ Jubiläums-Schatzsuche
 Der Preispool wird auf {NUM} Mal zurückgesetzt.
 
 [ANNIVERSARY_TREASURE_CONFIRM]
-Möchtest du {NUM} Diamanten verbrauchen, um nach Schätzen zu suchen?
+Möchtest du {NUM} Juwelen verbrauchen, um nach Schätzen zu suchen?
 
 [ANNIVERSARY_TREASURE_CONFIRM_TEXT]
-Nicht genügend Goldnuggets. Bestätigen Sie, {NUMBER} Diamanten auszugeben, um Goldnuggets einzutauschen und nach Schätzen zu suchen?
+Nicht genügend Goldnuggets. Bestätigen Sie, {NUMBER} Juwelen auszugeben, um Goldnuggets einzutauschen und nach Schätzen zu suchen?
 
 [ANNIVERSARY_TREASURE_BUY]
 x{NUM}
@@ -47599,7 +47601,7 @@ Beschreibung der Jubiläums-Schatzsuche
 Aktivitätsinhalt:
 1. Spieler zerstören die Goldkrüge, indem sie Goldnuggets verbrauchen. Für das Zerbrechen der Goldkrüge erhalten sie eine Belohnung.
 2. Wenn die zerbrochenen Goldkrüge zu einer Reihe verbunden werden, erhält man die am Ende der Reihe angezeigte Belohnung. Wenn alle Goldkrüge zerstört sind, erhält man die letzte Belohnung.
-3. Der Preis für Goldnuggets mit Diamanten steigt. 1-3 Mal werden 50 Diamanten verbraucht, 4-6 Mal 100 Diamanten und 7-9 Mal 150 Diamanten.
+3. Der Preis für Goldnuggets mit Juwelen steigt. 1-3 Mal werden 50 Juwelen verbraucht, 4-6 Mal 100 Juwelen und 7-9 Mal 150 Juwelen.
 4. Wenn die verbleibenden Goldtöpfe aufgebraucht sind, werden die Belohnungen automatisch zurückgesetzt. Die Anzahl der Zurücksetzungen ist begrenzt.
 
 [ANNIVERSART_TREASURE_SHORT_DESCRIPTION]
@@ -48112,10 +48114,10 @@ Serverweiter Fortschritt: ^FFFF00 {NUMS} ^oldclr mal
 {NUMS}
 
 [ARBORDAY_BUY_BUNDLE_CONFIRM]
-Möchtest du das Paket wirklich für {NUM} Diamanten kaufen?
+Möchtest du das Paket wirklich für {NUM} Juwelen kaufen?
 
 [ARBORDAY_GEM_NOT_ENOUGH]
-Nicht genug Diamanten
+Nicht genug Juwelen
 
 [ARBORDAY_TASK_NAME_1]
 Täglich anmelden
@@ -48176,7 +48178,7 @@ Schließe 2 [Pflanzenabenteuer] ab. AME_1_6]
 Bewerte ein beliebiges Level im [Kreativgarten] (Gefällt mir/Gefällt mir nicht).
 
 [BATTLEORDER_TASK_NAME_1_7]
-Verbrauche 150 Diamanten.
+Verbrauche 150 Juwelen.
 
 [BATTLEORDER_TASK_NAME_2_1]
 Melde dich diese Woche 5 Tage an.
@@ -48269,7 +48271,7 @@ Erreiche die Goldliga oder höher in [Penny Chase].
 Erreiche die Silberliga oder höher in [Super Z League].
 
 [BATTLEORDER_TASK_NAME_3_17]
-Verbrauche 3000 Diamanten.
+Verbrauche 3000 Juwelen.
 
 [BATTLEORDER_TASK_NAME_3_18]
 Ziehe 50-mal Schätze (permanente Schätze/geheime Schätze/zeitlich begrenzte Schätze).
@@ -49070,32 +49072,32 @@ Erweiterte Vorteile aktivieren
 1. Qualifikation freischalten, um Belohnungen für höhere Positionen zu erhalten.
 2. Sofort auf Level 10 aufsteigen.
 3. 20 % Bonus auf durch Aufgaben verdiente Punkte.
-4.150 Diamanten
+4.150 Juwelen
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_WINTER]
 1. Schalte die Qualifikation frei, um Belohnungen für höhere Positionen zu erhalten.
 2. Steige sofort auf Level 20 auf.
 3. 20 % Bonus auf durch Aufgaben verdiente Punkte.
-4.150 Diamanten
+4.150 Juwelen
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SPRINGFESTIVAL]
 1. Schalte die Qualifikation frei, um Belohnungen für höhere Positionen zu erhalten.
 2. Steige sofort auf Level 20 auf.
 3. 20 % Bonus auf durch Aufgaben verdiente Punkte.
-4.150 Diamanten 0 %
-4.150 Diamanten
+4.150 Juwelen 0 %
+4.150 Juwelen
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SUMMER]
 1. Schalte die Qualifikation frei, um die Belohnungen für die höhere Stufe zu erhalten.
 2. Steige sofort auf Level 20 auf.
 3. 20 % Bonus auf durch Aufgaben verdiente Punkte.
-4.150 Diamanten
+4.150 Juwelen
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SPRING]
 1. Schalte die Qualifikation frei, um die Belohnungen zu erhalten. des fortgeschrittenen Levels
 2. Sofortiges Upgrade auf Level 20
 3. 20 % Bonus auf durch Aufgaben erhaltene Punkte
-4.150 Diamanten
+4.150 Juwelen
 
 [BATTLE_ORDER_SELECT_TITLE]
 Wähle eines von fünf Fragmenten
@@ -49179,10 +49181,10 @@ Beschreibung des Coolen Sommers
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und limitierten Herausforderungen. Mit jeweils 500 gesammelten Erfahrungspunkten können sie auf das nächste Level aufsteigen und die entsprechende Levelbelohnung erhalten.
 3. Mit steigendem Level steigen die Belohnungen. Die ersten 50 Level beinhalten Edelsteine. Nach Erreichen von Level 50 können weitere Level aufsteigen. Die Belohnungen sind auf einen Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Edelsteine mehr produziert.
-4. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen an der „Goldenen Herbsttour“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 10 Level sowie ein Bonus von 20 % auf Erfahrungspunkte für Aufgaben und 150 Diamanten. Der Bonus für den Aufgabenerwerb gilt nur für nach der Aktivierung erhaltene Erfahrungspunkte. Vor der Aktivierung erhaltene Erfahrungspunkte werden gemäß den ursprünglichen Regeln vergeben.
+4. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen an der „Goldenen Herbsttour“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 10 Level sowie ein Bonus von 20 % auf Erfahrungspunkte für Aufgaben und 150 Juwelen. Der Bonus für den Aufgabenerwerb gilt nur für nach der Aktivierung erhaltene Erfahrungspunkte. Vor der Aktivierung erhaltene Erfahrungspunkte werden gemäß den ursprünglichen Regeln vergeben.
 5. Nutze Edelsteine, um in der Spalte „Schatz“ am Glücksrad teilzunehmen und großzügige Belohnungen zu gewinnen. Ab Level 50 und aktivierten erweiterten Rechten und Interessen kannst du den gesamten Inhalt des Glücksrads freispielen – insgesamt 20 Gegenstände.
 6. Alle Belohnungen im Glücksrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit auf andere, nicht erhaltene Belohnungen verteilt. Wird keine der 20 Belohnungen im Glücksrad gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Diamanten 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super-Anhänger 2,04 %, Einzellos 4,53 %, Erweiterte Bücher 0,06 %.
+Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super-Anhänger 2,04 %, Einzellos 4,53 %, Erweiterte Bücher 0,06 %.
 7. Einige Level- und Glücksrad-Belohnungen kannst du selbst auswählen. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
@@ -49203,9 +49205,9 @@ Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr,
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und begrenzten Herausforderungen. Alle 500 gesammelten Erfahrungspunkte ermöglichen einen Levelaufstieg und die entsprechende Levelbelohnung.
 2. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die ersten 50 Level beinhalten Edelsteine. Ab Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, es werden keine weiteren Edelsteine mehr produziert.
-3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen beim „Winterfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf durch Aufgaben gesammelte Erfahrung sowie 150 Diamanten. Der Bonus auf Aufgabenerwerb gilt nur für nach der Aktivierung gesammelte Erfahrung. Vor der Aktivierung gesammelte Erfahrung wird gemäß den ursprünglichen Regeln vergeben.
+3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen beim „Winterfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf durch Aufgaben gesammelte Erfahrung sowie 150 Juwelen. Der Bonus auf Aufgabenerwerb gilt nur für nach der Aktivierung gesammelte Erfahrung. Vor der Aktivierung gesammelte Erfahrung wird gemäß den ursprünglichen Regeln vergeben.
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände). 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Diamanten 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
+Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
@@ -49226,10 +49228,10 @@ Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr,
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und begrenzten Herausforderungen. Alle 500 gesammelten Erfahrungspunkte ermöglichen einen Levelaufstieg und die entsprechende Levelbelohnung.
 2. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die ersten 50 Level beinhalten Edelsteine. Ab Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, es werden keine weiteren Edelsteine mehr vergeben.
-3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen beim „Winterfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Diamanten. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
+3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen beim „Winterfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände).
 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Diamanten 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
+Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
@@ -49250,9 +49252,9 @@ Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr,
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und begrenzten Herausforderungen. Alle 500 gesammelten Erfahrungspunkte ermöglichen einen Levelaufstieg und entsprechende Levelbelohnungen.
 2. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die ersten 50 Level beinhalten Edelsteine. Ab Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, es werden keine weiteren Edelsteine mehr vergeben.
-3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen im „Kindheitsfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Diamanten. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
+3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen im „Kindheitsfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände). 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Diamanten 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
+Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
@@ -49273,9 +49275,9 @@ Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr,
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und begrenzten Herausforderungen. Alle 500 gesammelten Erfahrungspunkte ermöglichen einen Levelaufstieg und entsprechende Levelbelohnungen.
 2. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die ersten 50 Level beinhalten Edelsteine. Ab Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, es werden keine weiteren Edelsteine mehr vergeben.
-3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen an der „Goldenen Herbsttour“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Diamanten. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
+3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen an der „Goldenen Herbsttour“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen – insgesamt 20 Gegenstände. 5. Alle Belohnungen im Schatzrad haben nur eine Chance. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Diamanten 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
+Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
@@ -49295,14 +49297,14 @@ Superanhänger 2: Metallschleuder, Großer Knallkörper, Beschleunigungsuhr, Pol
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
 Regeln für den Flash-Sale:
 Die ersten 500 Spieler, die Premium-Vorteile erwerben, können teilnehmen.
-Der anfängliche Preispool beträgt 10.000 Diamanten. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um 100.
+Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
 Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
 Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
 Regeln für das „Golden Autumn Lucky Star“-Event:
 Teilnahmeberechtigt sind Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 35.000 Diamanten. Jeder Spieler, der Vorabrechte erwirbt, erhält 35 Diamanten zusätzlich.
+Der anfängliche Preispool beträgt 35.000 Juwelen. Jeder Spieler, der Vorabrechte erwirbt, erhält 35 Juwelen zusätzlich.
 Am Ende des Events wird ein Gewinner des ersten Preises gezogen, der 20 % des Gesamtpreispools erhält.
 Zwei zweite Preise Die Gewinner werden gezogen und erhalten 10 % des gesamten Preispools (insgesamt 20 %).
 Die vier Drittplatzierten werden gezogen und erhalten 5 % des gesamten Preispools (insgesamt 20 %).
@@ -49311,14 +49313,14 @@ Die 100 Viertplatzierten werden gezogen und erhalten 0,4 % des gesamten Preispoo
 [BATTLE_ORDER_DESCRIPTION_IOS_1_WINTER]
 Regeln für den Flash-Sale:
 Teilnehmen können die ersten 500 Spieler, die Premium-Vorteile erwerben.
-Der anfängliche Preispool beträgt 10.000 Diamanten. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um 100.
+Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
 Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5 % des gesamten Preispools (insgesamt 25 %).
 Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25 % des gesamten Preispools (insgesamt 25 %).
 Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2 % des gesamten Preispools (insgesamt 30 %).
 Die ersten 301–500 Spieler, die kaufen, erhalten jeweils 0,25 % des gesamten Preispools (insgesamt 30 %). Jeder Käufer erhält 0,1 % des gesamten Preispools (insgesamt 20 %).
 Regeln für das Winter-Glücksstern-Event:
 Teilnehmer, die erweiterte Rechte erwerben, können teilnehmen.
-Der anfängliche Preispool beträgt 35.000 Diamanten. Jeder Spieler, der erweiterte Rechte erwirbt, erhält 35 weitere Diamanten.
+Der anfängliche Preispool beträgt 35.000 Juwelen. Jeder Spieler, der erweiterte Rechte erwirbt, erhält 35 weitere Juwelen.
 Am Ende des Events erhält ein erster Der Gewinner wird gezogen und erhält 20 % des gesamten Preispools.
 Zwei Zweitplatzierte werden gezogen und erhalten 10 % des gesamten Preispools (insgesamt 20 %).
 Vier Drittplatzierte werden gezogen und erhalten 5 % des gesamten Preispools (insgesamt 20 %).
@@ -49327,14 +49329,14 @@ Vier Drittplatzierte werden gezogen und erhalten 5 % des gesamten Preispools (in
 [BATTLE_ORDER_DESCRIP TION_IOS_1_SPRINGFESTIVAL]
 Regeln für den Flash-Sale:
 Die ersten 500 Spieler, die Premium-Vorteile erwerben, können teilnehmen.
-Der anfängliche Preispool beträgt 10.000 Diamanten. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um 100.
+Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
 Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5 % des gesamten Preispools (insgesamt 25 %).
 Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25 % des gesamten Preispools (insgesamt 25 %).
 Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2 % des gesamten Preispools (insgesamt 30 %).
 Die ersten 301–500 Spieler, die kaufen, erhalten jeweils 0,1 %, insgesamt 20 %.
 Regeln für das Party-Glücksstern-Event:
 Spieler, die erweiterte Rechte erwerben, können teilnehmen.
-Der anfängliche Preispool beträgt 35.000 Diamanten. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um 35.
+Der anfängliche Preispool beträgt 35.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 35.
 Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
 Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools erhalten (insgesamt 20 %).
 Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools erhalten (insgesamt 20 %).
@@ -49343,14 +49345,14 @@ Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools erhalten (insg
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SPR ING]
 Regeln für das Blitzangebot:
 Die ersten 500 Spieler, die Vorabrechte erwerben, können teilnehmen.
-Der anfängliche Preispool beträgt 10.000 Diamanten. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um +100.
+Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +100.
 Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
 Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
 Regeln für das Lixia Lucky Star-Event:
 Teilnahmeberechtigt sind Spieler mit Vorabrechten.
-Der anfängliche Preispool beträgt 35.000 Diamanten. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um 35.
+Der anfängliche Preispool beträgt 35.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 35.
 Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
 Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools (insgesamt 20 %) erhalten.
 Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools (insgesamt 20 %) erhalten.
@@ -49359,14 +49361,14 @@ Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools (insgesamt 20 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SUMMER]
 Regeln für die zweite Geschenkaktion:
 Die ersten 500 Spieler, die Vorabrechte erwerben, können teilnehmen.
-Der anfängliche Preispool beträgt 10.000 Diamanten. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um 100.
+Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
 Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
 Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
 Regeln für das „Golden Autumn Lucky Star“-Event:
 Teilnahmeberechtigt sind Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 35.000 Diamanten für jeden Spieler, der die Anzahl der Diamanten im Premium-Equity-Pool um 35 erhöht.
+Der anfängliche Preispool beträgt 35.000 Juwelen für jeden Spieler, der die Anzahl der Juwelen im Premium-Equity-Pool um 35 erhöht.
 Am Ende des Events wird ein Gewinner des ersten Preises gezogen, der 20 % des Gesamtpreispools erhält.
 Zwei Gewinner des zweiten Preises erhalten Es werden 10 % des Gesamtpreispools (insgesamt 20 %) ausgelost.
 Es werden vier Drittplatzierte ausgelost, die 5 % des Gesamtpreispools (insgesamt 20 %) erhalten.
@@ -49379,14 +49381,14 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 
 Regeln für die Aktion „Blitzverkauf“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 4.000 Diamanten. Die Anzahl der Diamanten im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
+Der anfängliche Preispool beträgt 4.000 Juwelen. Die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
 Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
 Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
 Regeln für die Aktion „Goldener Herbst-Glücksstern“:
 Teilnehmen können Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 14.000 Diamanten. Für jeden Spieler, der erweiterte Rechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um +14.
+Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der erweiterte Rechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +14.
 Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des gesamten Preispools erhält.
 Zwei Zweitplatzierte werden gezogen, die 10 % des gesamten Preispools erhalten (insgesamt 20 %).
 Vier Drittplatzierte werden gezogen, die 5 % des gesamten Preispools erhalten (insgesamt 20 %).
@@ -49399,14 +49401,14 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 
 Regeln für die Aktion „Blitz-Verkaufspunkte“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 4.000 Diamanten, und die Anzahl der Diamanten im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
+Der anfängliche Preispool beträgt 4.000 Juwelen, und die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
 Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
 Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
 Regeln für die Aktion „Winter-Glücksstern“:
 Teilnehmen können Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 14.000 Diamanten. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um +14.
+Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +14.
 Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
 Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools (insgesamt 20 %) erhalten.
 Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools (insgesamt 20 %) erhalten.
@@ -49419,14 +49421,14 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 
 Regeln für die Aktion „Blitzverkauf“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 4.000 Diamanten. Die Anzahl der Diamanten im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
+Der anfängliche Preispool beträgt 4.000 Juwelen. Die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
 Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
 Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
 Regeln für die Aktion „Party Lucky Star“:
 Teilnehmen können Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 14.000 Diamanten. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um +14.
+Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +14.
 Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des gesamten Preispools erhält.
 Zwei Zweitplatzierte werden gezogen, die 10 % des gesamten Preispools erhalten (insgesamt 20 %).
 Vier Drittplatzierte werden gezogen, die 5 % des gesamten Preispools erhalten (insgesamt 20 %).
@@ -49439,14 +49441,14 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 
 Regeln für die Aktion „Blitzverkauf“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 4.000 Diamanten. Die Anzahl der Diamanten im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
+Der anfängliche Preispool beträgt 4.000 Juwelen. Die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
 Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
 Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
 Regeln für die Aktion „Lixia Lucky Star“:
 Spieler, die Vorabrechte erwerben, können teilnehmen.
-Der anfängliche Preispool beträgt 14.000 Diamanten. Für jeden Spieler, der erweiterte Rechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um +14.
+Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der erweiterte Rechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +14.
 Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
 Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools erhalten (insgesamt 20 %).
 Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools erhalten (insgesamt 20 %).
@@ -49459,51 +49461,51 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 
 Regeln für die Aktion „Blitzverkauf“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 4.000 Diamanten. Die Anzahl der Diamanten im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
+Der anfängliche Preispool beträgt 4.000 Juwelen. Die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
 Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
 Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
 Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
 Regeln für das „Goldener Herbst-Glücksstern“-Event:
 Teilnehmen können Spieler, die Vorabrechte erwerben.
-Der anfängliche Preispool beträgt 14.000 Diamanten. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Diamanten im Preispool um 14.
+Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 14.
 Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
 Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools erhalten (insgesamt 20 %).
 Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools erhalten (insgesamt 20 %).
 100 Viertplatzierte werden gezogen, die 0,4 % des Gesamtpreispools erhalten (insgesamt 40 %).
 
 [BATTLE_ORDER_GIFT_REWARD_ADD_UP]
-Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Diamanten, die in den Gesamtpreispool aufgeteilt werden können, um 40.
+Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen, die in den Gesamtpreispool aufgeteilt werden können, um 40.
 
 [BATTLE_ORDER_GIFT_REWARD_ADD_UP_ANDROID]
-Für jeden Kauf von Premium-Vorteilen kann der Gesamtpreispool in Diamanten +40 aufgeteilt werden.
+Für jeden Kauf von Premium-Vorteilen kann der Gesamtpreispool in Juwelen +40 aufgeteilt werden.
 
 [BATTLE_ORDER_GIFT_REWARD_ADD_UP_IOS]
-Für jeden Kauf von Premium-Vorteilen kann der Gesamtpreispool in Diamanten +100 aufgeteilt werden.
+Für jeden Kauf von Premium-Vorteilen kann der Gesamtpreispool in Juwelen +100 aufgeteilt werden.
 
 [AWARD_POOL_ADD_UP]
 Der Preispool wurde angesammelt.
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_1]
-1.–50. Platz: Diamanten × {NUM}
+1.–50. Platz: Juwelen × {NUM}
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_1]
 Jeder Spieler im Ranking kann ^08FF20^0,5 %^oldclr^ des Gesamtpreispools erhalten.
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_2]
-51.–150. Platz: Diamanten × {NUM}
+51.–150. Platz: Juwelen × {NUM}
 
 [BATTLE_ORDER_GIFT_REWARD_S TRIP_DES_2]
 Jede Person im Ranking kann ^08FF20^0,25 %^oldclr^ des gesamten Preispools erhalten.
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_3]
-151.–300. Platz: Diamant × {NUM}
+151.–300. Platz: Juwel × {NUM}
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_3]
 Jede Person im Ranking kann ^08FF20^0,2 %^oldclr^ des gesamten Preispools erhalten.
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_4]
-301.–500. Platz: Diamant × {NUM}
+301.–500. Platz: Juwel × {NUM}
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_5]
 T_REWARD_STRIP_DES_4]
@@ -49513,7 +49515,7 @@ Jede Person im Ranking kann erhalten ^08FF20^0,1 %^oldclr^ des Gesamtpreispools
 Liste ansehen
 
 [GEM_REWARD]
-Verfügbare Diamanten: {NUM}
+Verfügbare Juwelen: {NUM}
 
 [LUCKY_LIST]
 Glücksliste
@@ -49660,9 +49662,9 @@ Beschreibung des Wachstumspakets
 [GROWTH_PACKAGE_DESCRIPTION]
 Aktivitätsinhalt:
 
-1. Alle 3 Durch Gießen können Früchte produziert und eine große Menge Pflanzenfragmente, Diamanten, Goldmünzen und andere Belohnungen erhalten werden. Die Liste der erhältlichen Pflanzen lautet: ^FF8000^Wahnsinniger Pilz, Prunkwinde, Bowlingblase^oldclr^ ^8600FF^Kristallorchidee, Löwenzahn^oldclr^ ^2828FF^Tausendgoldrebe, Passionsblume, Ingenieur, Lauernder Sellerie^oldclr^ ^82D900^Fliegende Untertasse, Melone, Maschinengewehr, Granatapfel, Süßkartoffel^oldclr^
+1. Alle 3 Durch Gießen können Früchte produziert und eine große Menge Pflanzenfragmente, Juwelen, Goldmünzen und andere Belohnungen erhalten werden. Die Liste der erhältlichen Pflanzen lautet: ^FF8000^Wahnsinniger Pilz, Prunkwinde, Bowlingblase^oldclr^ ^8600FF^Kristallorchidee, Löwenzahn^oldclr^ ^2828FF^Tausendgoldrebe, Passionsblume, Ingenieur, Lauernder Sellerie^oldclr^ ^82D900^Fliegende Untertasse, Melone, Maschinengewehr, Granatapfel, Süßkartoffel^oldclr^
 
-2. Einen Kessel erhältst du durch Wachstumsaufgaben oder Diamant-Geschenkpakete.
+2. Einen Kessel erhältst du durch Wachstumsaufgaben oder Juwel-Geschenkpakete.
 
 3. Mit jedem Gießen wird dein persönlicher und serverweiter Bewässerungsfortschritt gesammelt, und du erhältst Belohnungen basierend auf deinem persönlichen und serverweiten Fortschritt!
 
@@ -49691,7 +49693,7 @@ Beschreibung der Wunschbeschwörung
 Eventinhalt:
 1. Spieler können eine Wunschpflanze auswählen, die dem Wunschpool hinzugefügt wird.
 2. Wird die Wunschpflanze während der Beschwörung nicht ausgewählt, wird die ausgewählte Pflanze standardmäßig zur Hauptpflanze des aktuellen Zeitraums.
-3. Spieler verwenden Diamanten oder Einzellos, um Wunschpflanzen zu beschwören. Einzellos werden beim Beschwören zuerst verwendet.
+3. Spieler verwenden Juwelen oder Einzellos, um Wunschpflanzen zu beschwören. Einzellos werden beim Beschwören zuerst verwendet.
 4. Einzellos können durch den Kauf von Geschenkpaketen oder das Erfüllen von Aufgaben erhalten werden.
 5. Mit zehn Einzellos können zehn aufeinanderfolgende Beschwörungen durchgeführt werden.
 
@@ -49720,10 +49722,10 @@ Kumulative Wunschbeschwörungen {NUM} Mal
 {PLANT} erreicht {NUM} Level
 
 [CALL_OF_WISH_ONCE_USE_GEM]
-Möchtest du wirklich 200 verwenden? Diamanten für eine Beschwörung?
+Möchtest du wirklich 200 verwenden? Juwelen für eine Beschwörung?
 
 [CALL_OF_WISH_TENTH_USE_GEM]
-Möchtest du wirklich 1900 Diamanten für zehn Beschwörungen verwenden?
+Möchtest du wirklich 1900 Juwelen für zehn Beschwörungen verwenden?
 
 [CALL_OF_WISH_ONCE_USE_TICKET]
 Möchtest du wirklich 1 Lotterielos für eine Beschwörung verwenden?
@@ -49735,7 +49737,7 @@ Möchtest du wirklich 10 Lotterielose für zehn Beschwörungen verwenden?
 Anmelden
 
 [CALL_OF_WISH_TASK_NAME_2]
-Beliebig viele Diamanten verwenden
+Beliebig viele Juwelen verwenden
 
 [CALL_OF_WISH_TASK_NAME_3]
 Einmal ein Pflanzenabenteuer abschließen
@@ -49765,19 +49767,19 @@ Andere orange Pflanzenfragmente
 Glückliches Wünschen Pool
 
 [WISHING_POOL_GEM500]
-Diamant*500
+Juwel*500
 
 [WISHING_POOL_GEM200]
-Diamant*200
+Juwel*200
 
 [WISHING_POOL_GEM100]
-Diamant*100
+Juwel*100
 
 [WISHING_POOL_GEM50]
-Diamant*50
+Juwel*50
 
 [WISHING_POOL_GEM30]
-Diamant*30
+Juwel*30
 
 [WISHING_POOL_GOLD1]
 Gold*99999
@@ -49838,7 +49840,7 @@ Aktivitätsregeln:
 7. Alle 10 Ziehungen gewinnst du garantiert 1 Blasenbelohnung. Die Gewinnwahrscheinlichkeit ist für jede Blase gleich. Die Blasenbelohnung setzt sich wie folgt zusammen:
 Kleiner Wunsch 1: Weiße Nährlösung*30; Blaue Nährlösung*20; Orange Nährlösung*10
 Kleiner Wunsch 2: Kristallorchidee*10; Kokosnusskanonenfragmente*10; Kiwifragmente*10
-Kleiner Wunsch 3: Genetische Essenz*15; Universelle Genmünze*450; Diamant*300
+Kleiner Wunsch 3: Genetische Essenz*15; Universelle Genmünze*450; Juwel*300
 Gewöhnlicher Traumwunsch 1: Meteorblütenfragmente*10; Maiglöckchenfragmente*10; Storchenfechterfragmente*10
 Gewöhnlicher Traumwunsch 2: Kostüm mit explodierendem Traubenballon; Weihnachtskostüm mit stark saurer Zitrone; Kostümticket*300
 Gewöhnlicher Traumwunsch 3: Raum-Zeit-Kristall*30; Raum-Zeit-Staub*150; Metallschleuderfragmente*15
@@ -49848,13 +49850,13 @@ Großer Ehrgeiz 3: Barbaren-Rhabarberfragment*100; Sonne-und-Mond-Geißblattfrag
 
 [WISHING_POOL_DESCRIPTION_2_VERSION1]
 8. Bekanntgabe der zufälligen Gewinne der Lotterie
-Diamant * 500 3,00 % Diamant * 200 6,03 %
-Diamant * 100 8,00 % Diamant * 50 11,11 %
-Diamant * 30 2,89 % Goldmünze * 99999 8,00 %
+Juwel * 500 3,00 % Juwel * 200 6,03 %
+Juwel * 100 8,00 % Juwel * 50 11,11 %
+Juwel * 30 2,89 % Goldmünze * 99999 8,00 %
 Goldmünze * 50000 11,11 % Goldmünze * 10000 2,00 %
 Gewöhnlicher Dünger * 1 3,00 % Mysteriöser Kristall * 1000 4,00 %
 Mysteriöser Kristall * 5000 8,00 % Süßkartoffelfragmente * 10 6,00 %
-Rafflesia-Fragmente * 10 6,00 % Großmaulblume Fragmente*10 4,50 %
+Rafflesia-Fragmente * 10 6,00 % Schnapper Fragmente*10 4,50 %
 Ackerbohnen-Kommando-Fragmente*10 3,81 % Nuwa-Schlangenschwanzgras-Fragmente 2,55 %
 Blasen-Belohnungen 10,00 %
 9. Spieler erhalten zusätzliche Belohnungen basierend auf der Anzahl der gezogenen Fragmente. Die genaue Zusammensetzung ist wie folgt:
@@ -49875,7 +49877,7 @@ Aktivitätsregeln:
 7. Du gewinnst garantiert alle 10 Ziehungen eine Blasenbelohnung. Die Blasenbelohnung erhältst du wie folgt:
 Kleiner Wunsch 1: Weiße Nährlösung*30; Blaue Nährlösung*20; Orange Nährlösung*10
 Kleiner Wunsch 2: Kristallorchidee*10; Kokosnusskanonenfragmente*10; Kiwifragmente*10
-Kleiner Wunsch 3: Genetische Essenz*15; Universalgenmünze*450; Diamant*300
+Kleiner Wunsch 3: Genetische Essenz*15; Universalgenmünze*450; Juwel*300
 Gewöhnlicher Traumwunsch 1: Meteorblütenfragmente*10; Bienenmaiglöckchenfragmente*10; Storchenfechterfragmente*10
 Gewöhnlicher Traumwunsch 2: Explodierender Traubenballon-Anzug; Stark saure Zitronen-Weihnachts-Anzug; Anziehticket*300
 Gewöhnlicher Traumwunsch 3: Raum-Zeit-Kristall*30; Raum-Zeit-Staub*150; Metallschleuderfragmente*15
@@ -49885,13 +49887,13 @@ Großes Ziel 3: Barbaren-Rhabarberfragment*100; Sonne-und-Mond-Geißblattfragmen
 
 [WISHING_POOL_DESCRIPTION_2_VERSION2]
 8. Bekanntgabe der zufälligen Lotteriegewinne
-Diamant * 500 3,00 % Diamant * 200 6,03 %
-Diamant * 100 8,00 % Diamant * 50 11,11 %
-Diamant * 30 2,89 % Goldmünze * 99999 8,00 %
+Juwel * 500 3,00 % Juwel * 200 6,03 %
+Juwel * 100 8,00 % Juwel * 50 11,11 %
+Juwel * 30 2,89 % Goldmünze * 99999 8,00 %
 Goldmünze * 50000 11,11 % Goldmünze * 10000 2,00 %
 Gewöhnlicher Dünger * 1 3,00 % Mysteriöser Kristall * 1000 4,00 %
 Mysteriöser Kristall * 5000 8,00 % Süßkartoffelfragmente * 10 6,00 %
-Rafflesia-Fragmente * 10 6,00 % Großmaulblume Fragmente*10 4,50 %
+Rafflesia-Fragmente * 10 6,00 % Schnapper Fragmente*10 4,50 %
 Saubohnen-Kommando-Fragmente*10 3,81 % Nuwa-Schlangenschwanzgras-Fragmente 2,55 %
 Bubble-Belohnungen 10,00 %
 9. Spieler erhalten zusätzliche Belohnungen basierend auf der Anzahl der Ziehungen. Die genaue Konfiguration ist wie folgt:
@@ -49986,22 +49988,22 @@ Grill-Taco: Du erhältst Artefakt-Segen-Tickets, Richtungsfragmente oder Wasserk
 Geräucherter Fleisch-Taco: Du erhältst Artefakt-Segen-Tickets, Abgrundanemonen-Fragmente oder Orange Kulturflüssigkeit.
 
 [DAVEKITCHEN_EXCHANGE_4]
-Gemüse-Taco: Du erhältst Diamanten, Bomben-Meteorhammer-Fragmente oder Lila Kulturflüssigkeit.
+Gemüse-Taco: Du erhältst Juwelen, Bomben-Meteorhammer-Fragmente oder Lila Kulturflüssigkeit.
 
 [DAVEKITCHEN_EXCHANGE_5]
-Taro: Du erhältst Diamanten, Holografische Nussfragmente oder Blaue Kulturflüssigkeit.
+Taro: Du erhältst Juwelen, Holografische Nussfragmente oder Blaue Kulturflüssigkeit.
 
 [DAVEKITCHEN_EXCHANGE_6]
 1000 Goldmünzen
 
 [DAVEKITCHEN_EXCHANGE_7]
-10 Diamanten
+10 Juwelen
 
 [DAVEKITCHEN_EXCHANGE_8]
 50.000 Gold
 
 [DAVEKITCHEN_EXCHANGE_9]
-60 Diamanten
+60 Juwelen
 
 [DAVE_KITCHEN_TASK_NAME_1]
 Schließe Penny Chase oder Reise in die Erinnerungen 2-mal ab.
@@ -50061,10 +50063,10 @@ Beschreibung des Rückkehr-Events für alte Spieler
 Eventregeln:
 
 1. Wiederkehrende Spieler können durch tägliches Einloggen Belohnungen für die Rückkehr erhalten. Die siebentägigen Belohnungen sind:
-10 Elektrische Gelsemiumfragmente, 88888 Goldmünzen, 20 Aloe-Doktor-Fragmente, 300 Diamanten, 5 Geheime Schatz-Einzelziehungstickets, 50000 Mysteriöse Kristalle, 10 Orange Nährlösung
+10 Elektrische Gelsemiumfragmente, 88888 Goldmünzen, 20 Aloe-Doktor-Fragmente, 300 Juwelen, 5 Geheime Schatz-Einzelziehungstickets, 50000 Mysteriöse Kristalle, 10 Orange Nährlösung
 
 2. Rückkehraufgaben werden täglich freigeschaltet. Spieler, die Rückkehraufgaben abschließen, können Erfahrung sammeln, um Prozessbelohnungen einzulösen. Die Belohnungen lauten wie folgt:
-100.000 Goldmünzen, 10 Eleutherod-Krugfragmente, 10 Fragmente des Beschleunigungsblumentopf-Anhängers, 2 Einzelkarten für Geheimschätze, 15 Fragmente des Beschleunigungsuhr-Anhängers, 200 Diamanten, 1 Eleutherod-Krugkostüm
+100.000 Goldmünzen, 10 Eleutherod-Krugfragmente, 10 Fragmente des Beschleunigungsblumentopf-Anhängers, 2 Einzelkarten für Geheimschätze, 15 Fragmente des Beschleunigungsuhr-Anhängers, 200 Juwelen, 1 Eleutherod-Krugkostüm
 
 3. Das Geschenkpaket enthält täglich 6 spezielle Geschenkpakete zum Kauf. Die Geschenkpakete werden alle 7 Tage für insgesamt zwei Runden aktualisiert.
 Jedes Geschenkpaket kann nur einmal gekauft und die Erfahrungskarte nur einmal erhalten werden.
@@ -50114,7 +50116,7 @@ Meteoriten-Spezial-Geschenkpaket
 Schließe ein beliebiges Weltlevel ab.
 
 [GIFT_FOR_RETURN_TASK_NAME_2]
-Gib 150 Diamanten aus.
+Gib 150 Juwelen aus.
 
 [GIFT_FOR_RETURN_TASK_NAME_3]
 Besiege 20 Zombies.
@@ -50238,7 +50240,7 @@ Die ausgewählte Pflanze der Stufe 5 ist nur eine Testpflanze und verschwindet n
 Nehmen Sie am Wunsch-Event teil, sichern Sie sich limitierte Geschenkpakete, erhalten Sie Anbaurabatte und erhalten Sie Wunschpflanzen!
 
 [PLANT_CULTIVATE_GEM_EXCHANGE]
-Möchten Sie wirklich {NUM} Diamanten ausgeben, um den Anbaufortschritt freizuschalten?
+Möchten Sie wirklich {NUM} Juwelen ausgeben, um den Anbaufortschritt freizuschalten?
 
 [PLANT_CULTIVATE_TAB_1]
 Wachstumswert
@@ -50268,7 +50270,7 @@ Anzahl der verbleibenden Käufe: ^FF0000^{NUM}^oldclr^
 Schließe einmal eine beliebige Weltlevel-Herausforderung ab.
 
 [PLANT_CULTIVATE_TASK_NAME_2]
-Verbrauche 150 Diamanten.
+Verbrauche 150 Juwelen.
 
 [PLANT_CULTIVATE_TASK_NAME_3]
 Lade 1 Level im Kreativgarten hoch.
@@ -50310,7 +50312,7 @@ Beschreibung des Pflanzenanbauplans
 2. Nach Eventbeginn können Spieler eine Pflanze aus der Liste der angebauten Pflanzen auswählen, um 14 Tage lang die zeitlich begrenzte Erfahrung der fünften Stufe mit der Pflanze zu erhalten und die Anbauaufgabe freizuschalten.
 3. Nach der Auswahl einer Pflanze Gezüchtete Pflanze. Sie kann nicht mehr geändert werden. Bitte wähle sorgfältig.
 4. Spieler erhalten nach Abschluss der Zuchtaufgabe einen Wachstumswert. Wenn der Wachstumswert erreicht ist, können sie permanente Pflanzenfragmente*10 und Begleiterkostüme erhalten.
-5. Spieler, die die Zuchtaufgabe nicht innerhalb von 14 Tagen abgeschlossen haben, können sich vom 4. bis 8. August einloggen und Diamanten bezahlen, um die Belohnung entsprechend dem verbleibenden Fortschritt zu erhalten.
+5. Spieler, die die Zuchtaufgabe nicht innerhalb von 14 Tagen abgeschlossen haben, können sich vom 4. bis 8. August einloggen und Juwelen bezahlen, um die Belohnung entsprechend dem verbleibenden Fortschritt zu erhalten.
 6. Die erhaltene Pflanzenerfahrungskarte kann im Rucksack – andere Requisiten – eingesehen und verwendet werden.
 7. Jedes Mal, wenn ein Spieler das Spiel betritt, muss er zuerst den Pflanzenzuchtplan aufrufen, um die Aufgabenliste anzuzeigen. Erst nach Abschluss des entsprechenden Levels erhält er die entsprechende Aufgabenbelohnung. Er kann das Spiel während des Aufgabenerledigungszeitraums nicht verlassen.
 
@@ -50694,7 +50696,7 @@ Aktivitätsinhalt:
 4. Sammle 10 zeitlich begrenzte Beschwörungstickets, um 10 aufeinanderfolgende Beschwörungen durchzuführen.
 
 Zu den VIP-Anweisungen:
-Erwerbe VIP, um 3 zeitlich begrenzte Beschwörungstickets + 150 Diamanten zu erhalten. Ab dem Kaufdatum kannst du während des Aktionszeitraums an drei beliebigen Tagen nach dem Login ein zeitlich begrenztes Beschwörungsticket erhalten, indem du auf die Schaltfläche „Erhalten“ klickst. Du kannst täglich 3 Tickets erhalten, insgesamt kannst du während des Aktionszeitraums 9 Tickets erhalten.
+Erwerbe VIP, um 3 zeitlich begrenzte Beschwörungstickets + 150 Juwelen zu erhalten. Ab dem Kaufdatum kannst du während des Aktionszeitraums an drei beliebigen Tagen nach dem Login ein zeitlich begrenztes Beschwörungsticket erhalten, indem du auf die Schaltfläche „Erhalten“ klickst. Du kannst täglich 3 Tickets erhalten, insgesamt kannst du während des Aktionszeitraums 9 Tickets erhalten.
 
 Universelle Pflanzenfragmente:
 Können alle Fragmente der aktuellen Fragmentfarbe ersetzen (nur für den Pflanzenfortschritt, nicht für Level 0 bis 1).
@@ -50795,7 +50797,7 @@ Beschreibung des Karnevalsevents
 [CARNIVAL_DESCRIPTION_1]
 Eventregeln:
 1. Täglich werden mehrere Geschenkpakete aktualisiert. Du kannst Gutscheine kaufen, um sie einzulösen.
-2. Bei jedem Kauf eines Geschenkpakets erhältst du zusätzlich zum festgelegten Produktinhalt zusätzliche Wahrscheinlichkeitsauszahlungen, mehr Preise und Diamanten. Klicke auf das „?“ in der oberen rechten Ecke des Geschenkpakets, um Details anzuzeigen.
+2. Bei jedem Kauf eines Geschenkpakets erhältst du zusätzlich zum festgelegten Produktinhalt zusätzliche Wahrscheinlichkeitsauszahlungen, mehr Preise und Juwelen. Klicke auf das „?“ in der oberen rechten Ecke des Geschenkpakets, um Details anzuzeigen.
 3. Während des Events findet täglich von 20:00 bis 22:00 Uhr der Blitzverkauf von Geschenkpaketen statt:
 A. Spezial-Geschenkpaket: Sichern Sie sich das Spezial-Geschenkpaket mit einem Superrabatt (limitiert auf 1.000 Exemplare, pro Person nur 1 Exemplar).
 B. Wundertüte-Geschenkpaket: Nach dem Kauf des Geschenkpakets erhalten Sie nach dem Zufallsprinzip ein Geschenkpaket im Angebot des Tages. Limitiert auf 10.000 Exemplare, pro Person nur 1 Exemplar.
@@ -50807,17 +50809,17 @@ B. Wundertüte-Geschenkpaket: Nach dem Kauf des Geschenkpakets erhalten Sie nach
 
 [CARNIVAL_DESCRIPTION_2]
 9. Jedes Geschenkpaket enthält Folgendes:
-A. Geschenkpaket „Bevorzugte Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–675 Diamanten. Mit einer Chance von 25 % auf 30 Pflanzenfragmente.
-B. Geschenkpaket „Orange Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–450 Diamanten. Mit einer Chance von 25 % auf 30 Pflanzenfragmente.
-C. Geschenkpaket „Lila Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–270 Diamanten. Mit einer Chance von 20 % auf 30 Pflanzenfragmente.
-D. Geschenkpaket „Gezielte Pflanzenfragmente“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Gezielte Pflanzenfragmente * 10^oldclr^ und 10–900 Diamanten. 15 % Chance auf Universalfragmente * 30;
-E, Geschenkpaket „Anhänger“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Raum-Zeit-Staub * 150^oldclr^ und 10–450 Diamanten. 30 % Chance auf Fragmente lila Handschuhe * 15;
-F, Geschenkpaket „Daves Geheimschatz-Gutschein“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Geheimschatz-Gutschein * 8^oldclr^ und 10–1500 Diamanten. 15 % Chance auf Geheimschatz-Gutschein * 22;
-G, Nährlösungs-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ orange Nährlösung * 10^oldclr^ und 10–450 Diamanten. 20 % Chance auf ein fortgeschrittenes Buch * 1;
-H, Diamanten-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Diamanten*300^oldclr^ und 10–450 Diamanten. 35 % Chance auf Diamanten*1000;
-I. Goldmünzen-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Goldmünzen*450000^oldclr^ und 10–450 Diamanten. 50 % Chance auf Goldmünzen*750000;
-J. Blitzangebot-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–1000 Diamanten. 25 % Chance auf Pflanzenfragmente*30;
-K. Artefaktmaterial-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Raum-Zeit-Energietank*20^oldclr^ und 10–180 Diamanten. 35 % Chance auf Raum-Zeit-Würfel*10;
+A. Geschenkpaket „Bevorzugte Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–675 Juwelen. Mit einer Chance von 25 % auf 30 Pflanzenfragmente.
+B. Geschenkpaket „Orange Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–450 Juwelen. Mit einer Chance von 25 % auf 30 Pflanzenfragmente.
+C. Geschenkpaket „Lila Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–270 Juwelen. Mit einer Chance von 20 % auf 30 Pflanzenfragmente.
+D. Geschenkpaket „Gezielte Pflanzenfragmente“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Gezielte Pflanzenfragmente * 10^oldclr^ und 10–900 Juwelen. 15 % Chance auf Universalfragmente * 30;
+E, Geschenkpaket „Anhänger“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Raum-Zeit-Staub * 150^oldclr^ und 10–450 Juwelen. 30 % Chance auf Fragmente lila Handschuhe * 15;
+F, Geschenkpaket „Daves Geheimschatz-Gutschein“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Geheimschatz-Gutschein * 8^oldclr^ und 10–1500 Juwelen. 15 % Chance auf Geheimschatz-Gutschein * 22;
+G, Nährlösungs-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ orange Nährlösung * 10^oldclr^ und 10–450 Juwelen. 20 % Chance auf ein fortgeschrittenes Buch * 1;
+H, Juwelen-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Juwelen*300^oldclr^ und 10–450 Juwelen. 35 % Chance auf Juwelen*1000;
+I. Goldmünzen-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Goldmünzen*450000^oldclr^ und 10–450 Juwelen. 50 % Chance auf Goldmünzen*750000;
+J. Blitzangebot-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–1000 Juwelen. 25 % Chance auf Pflanzenfragmente*30;
+K. Artefaktmaterial-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Raum-Zeit-Energietank*20^oldclr^ und 10–180 Juwelen. 35 % Chance auf Raum-Zeit-Würfel*10;
 
 [CARNIVAL]
 Karneval
@@ -51934,7 +51936,7 @@ Traubenballon
 Abklingzeit beim Pflanzen um 20% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_1]
-Nusswand-Badeanzug
+Wallnuss-Badeanzug
 
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_1]
 Pflanzengesundheit um 15% erhöht
@@ -54620,7 +54622,7 @@ Silber
 Gold
 
 [JOUST_LEAGUE_NAME_N AME_CRYSTAL_SHORT_7]
-Diamant
+Juwel
 
 [JOUST_LEAGUE_NAME_BRICK_SHORT_8]
 Legende
@@ -54645,7 +54647,7 @@ AGUE_NAME_JADE_6]
 Gold-Liga
 
 [JOUST_LEAGUE_NAME_CRYSTAL_7]
-Diamant-Liga
+Juwel-Liga
 
 [JOUST_LEAGUE_NAME_BRICK_8]
 Legenden-Liga
@@ -54669,7 +54671,7 @@ Silber-Liga-Freischaltung
 Gold-Liga-Freischaltung
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_7]
-Diamant-Liga-Freischaltung
+Juwel-Liga-Freischaltung
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_8]
 Legend-Liga-Freischaltung
@@ -54738,7 +54740,7 @@ Hinweis: Der Aufladebetrag wird gesammelt und dem aktuellen Aufladegeschenkpaket
 Das Aufladegeschenkpaket enthält drei Belohnungsstufen: das 2-Yuan-Aufladegeschenkpaket, das kumulierte 60-Yuan-Aufladegeschenkpaket und das kumulierte 198-Yuan-Aufladegeschenkpaket. Die Belohnungen im Aufladegeschenkpaket sind wie folgt:
 Das 2-Yuan-Aufladegeschenkpaket enthält: eine von drei orangefarbenen Pflanzen (Eispilz, Katzenschwanz, Maiskanone), den Avatarrahmen für die erste Aufladung; orange Pflanzenährlösung * 10; drei orange Pflanzenkostüme (Eispilz, Katzenschwanz, Maiskanonen-Begleiterkostüm)
 Das Geschenkpaket für eine Gesamtaufladung von 60 Yuan enthält: eine von drei Drachenpflanzen (Eisdrachengras, Donnerdrachengras, Feuerdrachengras); Genessenz * 10; Richtungsfragmente * 10
-Das Geschenkpaket für eine Gesamtaufladung von 198 Yuan enthält: Metall-Schleuderanhänger; Diamant * 300; Pflanzen-Fortgeschrittenenbuch
+Das Geschenkpaket für eine Gesamtaufladung von 198 Yuan enthält: Metall-Schleuderanhänger; Juwel * 300; Pflanzen-Fortgeschrittenenbuch
 
 [FIRST_RECHARGE_EXTRA_HAVE_GOT_PRIZE]
 Du hast die heutigen Belohnungen bereits erhalten. Komm morgen wieder!
@@ -58518,7 +58520,7 @@ ca=Die Bedienungsanleitung ist einfach und leicht verständlich, sodass Sie schn
 [UMFRAGE_2]
 3. Was ist Ihrer Meinung nach das Attraktivste am „Kreativgarten“-Shop?
 [UMFRAGE_ANTWORT_2]
-ca=Rangliste/Avatar | Pflanzen/Dekorationsfragmente | Diamanten/Goldmünzen | Noch nicht eingelöst.
+ca=Rangliste/Avatar | Pflanzen/Dekorationsfragmente | Juwelen/Goldmünzen | Noch nicht eingelöst.
 
 [UMFRAGE_3]
 4. Was ist Ihrer Meinung nach der attraktivste Aspekt von „Kreativer Hof“?
@@ -58936,7 +58938,7 @@ Kumulierter Login: 365 Tage Login geben dir einen kostenlosen Avatar.
 600 Tage Login geben dir einen kostenlosen Avatar.
 
 [NUMBERLOGINS_HEAD_ID_25593]
-„Millennium-Versprechen“ Diamant
+„Millennium-Versprechen“ Juwel
 
 [NUMBERLOGINS_HEAD_DES_ID_25593]
 999 Tage Login geben dir einen kostenlosen Avatar. Avatar
@@ -59379,7 +59381,7 @@ Die angeforderte Levelanzahl ist falsch.
 {NAME} Avatar
 
 [NARRATIVE_TUTORIAL_PVZ1_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}潘妮好像追踪到了一道神秘信号，快跟我来看看吧！
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave} Penny scheint ein mysteriöses Signal verfolgt zu haben. Komm und sieh es dir mit mir an!
 
 [NARRATIVE_TUTORIAL_PVZ1_INTRO_2]
 {NPC_EXIT:crazydave}
@@ -64800,7 +64802,7 @@ Zur Stufe
 {NUMS} / 5
 
 [PENNY_CLASSROOM_FINAL_BONUS_TIPS]
-Schließe die Klassenherausforderung ab, werde Pflanzenmeister und erhalte ^ED7424 Pflanze Stufe 4 ^oldclr!
+Schließe die Klassenherausforderungen ab, werde Pflanzenmeister und erhalte ^ED7424 Pflanzen auf der Stufe 4 ^oldclr!
 
 [PENNY_CLASSROOM_FINAL_BONUS_TITLE]
 Abschlussbelohnung
@@ -65032,7 +65034,7 @@ Elektrische Blaubeeren verursachen zwar hohen Schaden, ihre Verteidigungsfähigk
 Die Gewitterwolken der elektrischen Blaubeeren können Zombies verfolgen und Schaden verursachen.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_ELECTRICBLUEBERRY]
-ca=True|False| | |
+ca=Richtig|Falsch| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_ELECTRICBLUEBERRY]
 Wenn du richtig geantwortet hast, bist du ein Pflanzenmeister!
@@ -65043,18 +65045,18 @@ Wenn du falsch geantwortet hast, beantworte die Frage bitte erneut.
 Die Gewitterwolke der elektrischen Blaubeere kann Feinde verfolgen und Schaden verursachen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_ELECTRICBLUEBERRY]
-Der anfängliche Verfolgungsbereich von Electric Blueberry beträgt 3 Felder nach rechts bis 3 Felder nach links.
+Der anfängliche Verfolgungsbereich von der Elektrischen Blaubeere beträgt 3 Felder nach rechts bis 3 Felder nach links.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_ELECTRICBLUEBERRY]
-ca=True|False| | |
+ca=Richtig|Falsch| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_ELECTRICBLUEBERRY]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Der anfängliche Verfolgungsbereich von Electric Blueberry beträgt 3 Felder nach rechts bis 3 Felder nach links.
+Der anfängliche Verfolgungsbereich von der Elektrischen Blaubeere beträgt 3 Felder nach rechts bis 3 Felder nach links.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_ELECTRICBLUEBERRY]
 Wenn du falsch antwortest, beantworte die Frage bitte erneut.
-Der anfängliche Verfolgungsbereich von Electric Blueberry beträgt 3 Felder nach rechts bis 3 Felder nach links.
+Der anfängliche Verfolgungsbereich von der Elektrischen Blaubeere beträgt 3 Felder nach rechts bis 3 Felder nach links.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_ELECTRICBLUEBERRY]
 Welche Fähigkeit erhält die Elektrische Blaubeere ab Level 2?
@@ -65085,7 +65087,7 @@ Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Elektrische Blaubeeren verbessern die Fähigkeit, Gewitterwolken nach Level 3 zu verfolgen, zusätzlich.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_6_ELECTRICBLUEBERRY]
-Welche Fähigkeit erhalten elektrische Blaubeeren nach Erreichen von Level 4?
+Welche Fähigkeit erhalten elektrische Blaubeeren nach dem Erreichen von Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_ELECTRICBLUEBERRY]
 ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Flächenschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen. |
@@ -65121,14 +65123,14 @@ ca=Spuckt Feuer, um Zombies vor sich anzugreifen | Verleiht umliegenden Pflanzen
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_ELECTRICBLUEBERRY]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Der ultimative Angriff der Spezialdünger-Fähigkeit von Electric Blueberry setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
+Der ultimative Angriff der Spezialdünger-Fähigkeit von der Elektrischen Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_ELECTRICBLUEBERRY]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der ultimative Angriff der Spezialdünger-Fähigkeit von Electric Blueberry kann einen stärkeren Gewitterwolkenangriff auslösen.
+Der ultimative Angriff der Spezialdünger-Fähigkeit von der Elektrischen Blaubeere kann einen stärkeren Gewitterwolkenangriff auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_ELECTRICBLUEBERRY]
-Welchen kosmetischen Effekt hat Electric Blueberry?
+Welchen kosmetischen Effekt hat der Elektrischen Blaubeere?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_ELECTRICBLUEBERRY]
 ca=Große Gewitterwolke kann Zombies verkleinern und ihre Fähigkeiten vorübergehend reduzieren. | Erhöht die Sonnenlichtproduktion. | Hinterlässt Traubensaft nach der Explosion. | Wirf brennende Butter, um mehr Schaden zu verursachen. |
@@ -65284,77 +65286,77 @@ Falls du falsch geantwortet hast, beantworte die Frage bitte erneut.
 Die Verzierung der Hohen Nuss verstärkt die Rüstung.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_CHOMPER]
-Was ist die Hauptfunktion der Großmaulblume?
+Was ist die Hauptfunktion der Schnapper?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_CHOMPER]
 ca=Sonnenlicht erzeugen | Zombies Schaden zufügen (verschlucken) | Zombies blockieren | Verbündete Pflanzen heilen oder unterstützen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_CHOMPER]
 Wenn du richtig geantwortet hast, bist du der Meister der Pflanzen!
-Die Hauptfunktion der Großmaulblume besteht darin, die Zombies vor ihr zu verschlucken und zu verdauen.
+Die Hauptfunktion der Schnapper besteht darin, die Zombies vor ihr zu verschlucken und zu verdauen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_CHOMPER]
 Falsche Antwort, bitte wiederholen.
-Die Großmaulblume kann mit ihrem riesigen Maul Zombies angreifen.
+Der Schnapper kann mit ihrem riesigen Maul Zombies angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_1_CHOMPER]
-Wozu dient die Großmaulblume hauptsächlich?
+Wozu dient die Schnapper hauptsächlich?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_CHOMPER]
 ca=Stelle sie an vorderster Front, um Zombies anzugreifen. | Stelle sie in eine sichere Position, um Zombies anzugreifen. | Stelle sie an vorderster Front, um Zombies zu blockieren. | Stelle sie in eine sichere Position, um Sonnenlicht zu erzeugen.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_1_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Großmaulblume wird hauptsächlich verwendet, um Zombies an vorderster Front anzugreifen.
+Der Schnapper wird hauptsächlich verwendet, um Zombies an vorderster Front anzugreifen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_1_CHOMPER]
 Falsche Antwort, bitte erneut antworten.
-Die Großmaulblume hat eine starke Verschluck- und Tötungskraft, ihre Angriffsreichweite ist jedoch sehr begrenzt.
+Der Schnapper hat eine starke Verschluck- und Tötungskraft, ihre Angriffsreichweite ist jedoch sehr begrenzt.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_CHOMPER]
-Nachdem die Großmaulblume den Zombie verschluckt hat, beginnt die Verdauung. Was ist jetzt mit der Großmaulblume?
+Nachdem die Schnapper den Zombie verschluckt hat, beginnt die Verdauung. Was ist jetzt mit der Schnapper?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_CHOMPER]
 ca=keine Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|keine Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|hat Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|hat Schutzfähigkeit, benötigt Schutz durch andere Pflanzen|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_2_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Während der Verdauungsphase hat die Großmaulblume keine Schutzfunktion und benötigt den Schutz anderer Pflanzen.
+Während der Verdauungsphase hat die Schnapper keine Schutzfunktion und benötigt den Schutz anderer Pflanzen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_2_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Während der Verdauungsphase ist die Großmaulblume anfällig für Zombieangriffe.
+Während der Verdauungsphase ist die Schnapper anfällig für Zombieangriffe.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_3_CHOMPER]
-Die Großmaulblume kann Gargantuas fressen.
+Der Schnapper kann Gargantuas fressen.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_CHOMPER]
-ca=True|False| | |
+ca=Richtig|Falsch| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Großmaulblume kann Gargantuas zwar nicht fressen, aber sie kann sie beißen.
+Der Schnapper kann Gargantuas zwar nicht fressen, aber sie kann sie beißen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_3_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der Körper eines Gargantuas ist sehr groß, viel größer als das Maul der Großmaulblume.
+Der Körper eines Gargantuas ist sehr groß, viel größer als das Maul der Schnapper.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_4_CHOMPER]
-Welche Fähigkeit erhält die Großmaulblume, sobald sie Level 2 erreicht?
+Welche Fähigkeit erhält die Schnapper, sobald sie Level 2 erreicht?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_CHOMPER]
 ca=Es besteht die Chance, Zombies direkt vom Feld zu werfen. | Erhöht die Angriffskraft beim Heilen von Pflanzen. | Schleudert andere Zombies nach dem Verschlucken um ein Feld zurück, verkürzt die Verdauungszeit. | Verlängert die Flammendauer.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Ab Level 2 der Großmaulblume stößt sie andere Zombies nach dem Verschlucken um ein Feld zurück und verkürzt die Verdauungszeit.
+Ab Level 2 der Schnapper stößt sie andere Zombies nach dem Verschlucken um ein Feld zurück und verkürzt die Verdauungszeit.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_4_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 2 der Großmaulblume wird es für Zombies nach dem Verschlucken schwieriger, sich ihr zu nähern.
+Ab Level 2 der Schnapper wird es für Zombies nach dem Verschlucken schwieriger, sich ihr zu nähern.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_5_CHOMPER]
-Welche Fähigkeit erhält die Großmaulblume ab Level 3?
+Welche Fähigkeit erhält die Schnapper ab Level 3?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_CHOMPER]
 ca=Chance, hochschädigende elektrische Stacheln abzufeuern | Hinterlässt junge Nüsse nach dem Tod | Verkürzt die Verdauungszeit weiter | Chance, eine weitere Apfelkernschale abzufeuern |
@@ -65378,15 +65380,15 @@ ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzug
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
 
-Beim Pflanzen nach Level 4 besteht die Chance, dass die Großmaulblume die Spezialdünger-Fähigkeit direkt auslöst.
+Beim Pflanzen nach Level 4 besteht die Chance, dass die Schnapper die Spezialdünger-Fähigkeit direkt auslöst.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_CHOMPER]
 Wenn du falsch antwortest, beantworte die Frage bitte erneut.
 
-Ab Level 4 kann die Großmaulblume die Spezialdünger-Fähigkeit häufiger auslösen.
+Ab Level 4 kann die Schnapper die Spezialdünger-Fähigkeit häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_CHOMPER]
-Welche Fähigkeit erhält die Großmaulblume ab Level 5?
+Welche Fähigkeit erhält die Schnapper ab Level 5?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_CHOMPER]
 ca=Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen. | Drachenkönig-Angriff hinzufügen, nachdem sich die Hochgeschwindigkeits-Sieben-Treffer-Kombo entwickelt hat. | Chance, Feuerbälle aus der Ferne abzufeuern, die großen Schaden verursachen. | Chance, einen kleinen Kaktus zu schleudern. |
@@ -65394,39 +65396,39 @@ ca=Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu vers
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_CHOMPER]
 Wenn du die Frage richtig beantwortet hast, bist du ein Pflanzenmeister!
 
-Ab Level 5 hat die Großmaulblume die Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen.
+Ab Level 5 hat die Schnapper die Chance, ihr Maul zu öffnen und alle Zombies im Umkreis von 3 Feldern zu verschlingen oder zu beißen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 5 kann die Großmaulblume mehrere Zombies gleichzeitig verschlingen oder beißen.
+Ab Level 5 kann die Schnapper mehrere Zombies gleichzeitig verschlingen oder beißen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_CHOMPER]
-Was ist der ultimative Spezialdünger der Großmaulblume?
+Was ist der ultimative Spezialdünger der Schnapper?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_CHOMPER]
 ca=Feuere Kugeln im fächerförmigen Bereich vor dir ab|Feuere 1 großen Kohlkopf auf alle Zombies|Sauge 3 Zombies ein, um sie zu fressen oder zu beißen, und puste sie dann zur Ziellinie|Feuere kontinuierlich 60 Erbsen und 1 große Erbse ab|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit der Großmaulblume besteht darin, drei Zombies einzusaugen, zu fressen oder zu beißen und sie dann bis zur Ziellinie zu blasen.
+Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit der Schnapper besteht darin, drei Zombies einzusaugen, zu fressen oder zu beißen und sie dann bis zur Ziellinie zu blasen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_CHOMPER]
 Falls Sie falsch geantwortet haben, beantworten Sie die Frage bitte erneut.
-Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit der Großmaulblume kann Zombies aus großer Entfernung fressen oder beißen.
+Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit der Schnapper kann Zombies aus großer Entfernung fressen oder beißen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_CHOMPER]
-Welche Wirkung hat das Kostüm der Großmaulblume?
+Welche Wirkung hat das Kostüm der Schnapper?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_CHOMPER]
 ca=Vergrößert die Reichweite des Feuers, das durch die Spezialdünger-Fähigkeit ausgespuckt wird. | Der Hochenergielaser, der durch die Spezialdünger-Fähigkeit abgefeuert wird, verursacht Flächenschaden. | Die Spezialdünger-Fähigkeit setzt eine zusätzliche vorbereitete Kartoffelmine frei. | Die Spezialdünger-Fähigkeit kann die Eisenrohrpanzerung beim Blasen von Zombies wegblasen. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Das Kostüm der Großmaulblume bewirkt, dass die Spezialdünger-Fähigkeit die Eisenrohrpanzerung beim Aufblasen von Zombies wegblasen kann.
+Das Kostüm der Schnapper bewirkt, dass die Spezialdünger-Fähigkeit die Eisenrohrpanzerung beim Aufblasen von Zombies wegblasen kann.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Das Kostüm der Großmaulblume verstärkt die Wirkung der ultimativen Fähigkeit beim Aufblasen von Zombies.
+Das Kostüm der Schnapper verstärkt die Wirkung der ultimativen Fähigkeit beim Aufblasen von Zombies.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_SQUASH]
 Was ist die Hauptfunktion des Kürbisses?
@@ -65476,7 +65478,7 @@ Der Squid kann nicht nur nach rechts, sondern auch nach links springen.
 Sobald der Tintenfisch den Zombie findet und anvisiert, wird er unbesiegbar.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_SQUASH]
-ca=True|False| | |
+ca=Richtig|Falsch| | |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_3_SQUASH]
 Wenn du richtig geantwortet hast, bist du ein Pflanzenmeister!
@@ -65604,7 +65606,7 @@ Nachdem die elektrische Blaubeere auf Stufe 3 verbessert wurde, erweitert sich d
 Wenn die Große Nuss auf Stufe 3 verbessert wird, fällt sie nach rechts, wenn sie stirbt, und verursacht Flächenschaden. Obwohl sie keine riesigen Zombies töten kann, reicht sie für gewöhnliche Zombies völlig aus.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_CHOMPER]
-Die Großmaulblume ignoriert die Gesundheit von Zombies und verschlingt kleine Zombies gleichen Levels mit einem Biss. Sie kann sogar Zombies mit besonderen Fähigkeiten verschlingen und deren Fähigkeiten dadurch unbrauchbar machen.
+Der Schnapper ignoriert die Gesundheit von Zombies und verschlingt kleine Zombies gleichen Levels mit einem Biss.Er kann sogar Zombies mit besonderen Fähigkeiten verschlingen und deren Fähigkeiten dadurch unbrauchbar machen.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_SQUASH]
 Der Kürbis kann allen Zombies in einem einzigen Feld Schaden zufügen. Wenn du versuchst, die Zombies an einem Punkt zu sammeln, kannst du die Rolle des Kürbisses maximieren.
@@ -65619,7 +65621,7 @@ Nachdem die elektrische Blaubeere auf Stufe 4 aufgewertet wurde, ist die Wahrsch
 Flinke Hühner und Eiswiesel können dank ihres Geschwindigkeitsvorteils das Feuernetzwerk weitreichender Pflanzen leicht durchbrechen. Um sie aufzuhalten, braucht man eine robuste, große Nuss.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_CHOMPER]
-Die große Bewegung der Großmaulblume kann alle Zombies vor ihr in die unterste Reihe blasen. Kombiniert mit der Eigenschaft der Süßkartoffel, Zombies zum Linienwechsel anzulocken, können verschiedene Funken kombiniert werden.
+Die Spezialdünger-Fähigkeit des Schnapper's kann alle Zombies vor ihm in die unterste Reihe blasen. Kombiniert mit der Eigenschaft der Süßkartoffel, Zombies zum Linienwechsel anzulocken, können verschiedene Pflanzen kombiniert werden.
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_SQUASH]
 Manche Zombies verfügen über besondere Fähigkeiten auf lange Distanz, mit denen sie sich hinter der Zombiegruppe verstecken und Pflanzen angreifen oder Zombies verstärken können. Um in die Zombieposition einzudringen, ist eine mutige Pflanze erforderlich.
@@ -65631,13 +65633,13 @@ Die vom Erdsternsilo abgefeuerten Raketen verursachen nicht nur hohen Schaden, s
 Wenn die Elektrische Blaubeere Level 5 erreicht, besteht die Chance, ihre Gewitterwolke zu einer Kreuzgewitterwolke aufzuwerten. Diese kann allen Zombies in Reichweite Schaden zufügen und Zombiegruppen bekämpfen.
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_TALLNUT]
-Die Tallnut kann die Bewegung fliegender Zombies blockieren und dank ihrer extrem hohen Gesundheit und ihrer robusten Spezialdüngerrüstung problemlos gegen viele fliegende Zombies kämpfen.
+Die Hochwall-Nuss kann die Bewegung fliegender Zombies blockieren und dank ihrer extrem hohen Gesundheit und ihrer robusten Spezialdüngerrüstung problemlos gegen viele fliegende Zombies kämpfen.
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_CHOMPER]
-Ab Level 5 hat die Maulblume die Chance, alle Zombies in den vorderen drei Feldern zu verschlingen oder zu beißen. So kann sie problemlos mit Zombiegruppen fertig werden.
+Ab Level 5 hat der Schnapper die Chance, alle Zombies in den vorderen drei Feldern zu verschlingen oder zu beißen. So kann er problemlos mit Zombiegruppen fertig werden.
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_SQUASH]
-Sobald die Blume die Zombies findet und erfasst, wird sie unbesiegbar. Sehr effektiv gegen Angriffe von Zombies.
+Sobald der Matschkürbis die Zombies findet und erfasst, wird sie unbesiegbar. Sehr effektiv gegen Angriffe von Zombies.
 
 [PENNY_CLASSROOM_START_LEVEL_TITLE]
 Levelbeschreibung
@@ -65655,49 +65657,49 @@ Möchtest du {NUMS} Klassenzimmer-Münzen für den Kauf ausgeben?
 Nicht genügend Klassenzimmer-Münzen
 
 [PENNY_CLASS_LEVEL1]
-Primäre Ausbildung – Primitive Sonnenblume
+Primäre Ausbildung - Urzeit-Sonnenblume
 
 [PENNY_CLASS_LEVEL2]
-Grundausbildung – Elektrische Blaubeere
+Grundausbildung – Elektro Blaubeere
 
 [PENNY_CLASS_LEVEL3]
-Grundausbildung – Hoher Nussgehalt
+Grundausbildung – Hochwall-Nuss
 
 [PENNY_CLASS_LEVEL4]
-Grundausbildung – Großmundige Blüte
+Grundausbildung – Schnapper
 
 [PENNY_CLASS_LEVEL5]
-Grundausbildung – Melone
+Grundausbildung – Matschkürbis
 
 [PENNY_CLASS_LEVEL6]
-Fortgeschrittenentest – Original Sonnenblume
+Fortgeschrittenentest – Urzeit-Sonnenblume
 
 [PENNY_CLASS_LEVEL7]
-Fortgeschrittenentest – Elektrische Blaubeere
+Fortgeschrittenentest – Elektro-Blaubeere
 
 [PENNY_CLASS_LEVEL8]
-Fortgeschrittenentest – Hoher Nussgehalt
+Fortgeschrittenentest – Hochwall-Nuss
 
 [PENNY_CLASS_LEVEL9]
-Fortgeschrittenentest – Großmundige Blüte
+Fortgeschrittenentest – Schnapper
 
 [PENNY_CLASS_LEVEL10]
-Fortgeschrittenentest – Melone
+Fortgeschrittenentest – Matschkürbis
 
 [PENNY_CLASS_LEVEL11]
-Spezialdünger-Fähigkeittiver Test – Original Sonnenblume
+Spezialdünger-Fähigkeittiver Test – Urzeit-Sonnenblume
 
 [PENNY_CLASS_LEVEL12]
-Spezialdünger-Fähigkeittiv Prüfung – Elektrische Blaubeere
+Spezialdünger-Fähigkeits Prüfung – Elektro Blaubeere
 
 [PENNY_CLASS_LEVEL13]
-Spezialdünger-Fähigkeittive Prüfung – Hohe Nuss
+Spezialdünger-Fähigkeits Prüfung – Hochwall-Nuss
 
 [PENNY_CLASS_LEVEL14]
-Spezialdünger-Fähigkeittive Prüfung – Großmaulige Blume
+Spezialdünger-Fähigkeits Prüfung – Schnapper
 
 [PENNY_CLASS_LEVEL15]
-Spezialdünger-Fähigkeittive Prüfung – Kürbis
+Spezialdünger-Fähigkeits Prüfung – Matschkürbis
 
 [BIND_UNIQUE_ID_TITLE]
 Gerät verknüpfen
@@ -66309,7 +66311,7 @@ Ich verrate dir heimlich: Katzenschwanz ist ein Geheimagent.
 Die neue Welt basiert auf Atlantis.
 
 [NO42_LEVEL_NAME_07_H]
-Wenn du das letzte Level nicht schaffst, erhältst du endlos Diamanten.
+Wenn du das letzte Level nicht schaffst, erhältst du endlos Juwelen.
 
 [NO42_LEVEL_NAME_MUGEN]
 Unendlich
@@ -68770,7 +68772,7 @@ Kosmetikfragmente
 Anhängerfragmente
 
 [CORNUCOPIA_BONUS_DETAIL_GEM]
-Diamant
+Juwel
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL]
 Füllhorn-Geschenkpaket
@@ -68788,25 +68790,25 @@ Erweitertes Glückspaket
 Super-Glückspaket
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_1]
-1.–50. Platz: Diamant × {NUM}
+1.–50. Platz: Juwel × {NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_1]
 Jede Person im Rangbereich kann ^08FF20^0,5 %^oldclr^ des gesamten Preispools erhalten (mindestens 200 Ziehungen).
 
 [CORNUCOPIA A_GIFT_REWARD_STRIP_2]
-51.–150.: Diamant × {NUM}
+51.–150.: Juwel × {NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_2]
 Jede Person im Ranking kann ^08FF20^0,25 %^oldclr^ des gesamten Preispools erhalten (mindestens 160 Ziehungen).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_3]
-151.–300.: Diamant × {NUM }
+151.–300.: Juwel × {NUM }
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_3]
 Jede Person im Ranking kann ^08FF20^0,2 %^oldclr^ des gesamten Preispools erhalten (mindestens 120 Ziehungen).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_4]
-301.–500. Platz: Diamant × {NUM}
+301.–500. Platz: Juwel × {NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_4]
 Name: Jeder Spieler kann innerhalb dieses Zeitraums (mindestens 80 Ziehungen) ^08FF20^0,1 %^oldclr^ des gesamten Preispools erhalten.
@@ -68821,7 +68823,7 @@ Die Rangfolge richtet sich nach der Anzahl der Ziehungen. Je höher die Rangfolg
 Anzahl der Ziehungen: {NUMS}
 
 [CORNUCOPIA_GIFT_GEM_REWARD_TITLE]
-Verfügbare Diamanten: {NUMS}
+Verfügbare Juwelen: {NUMS}
 
 [CORNUCOPIA_GIFT_RANK_GACHA_TITLE]
 Ziehen Sie {NUMS} Mal
@@ -71801,25 +71803,25 @@ Beim Angriff besteht eine 30%ige Chance, nach vorne zu springen und Zombies im U
 Der Rosenschwertkämpfer nutzt seine hervorragende Schwertkunst, um Zombies im Umkreis von 3×3 Feldern rechts kontinuierlich zu stechen und ihnen Schaden zuzufügen.
 
 [ROSESWORDMAN_AVATAR_PLANTFOOD_DESCRIPTION]
-Rose Swordsman nutzt seine hervorragende Schwertkunst, um die Zombies im 3×3-Bereich rechts kontinuierlich zu stechen und ihnen Schaden zuzufügen. ^ff0000^ Anschließend schlägt er mit einem Z-förmigen Hieb zu, um den Zombies im Bereich ^oldclr^ Schaden zuzufügen.
+Der Rosenschwertkämpfer nutzt seine hervorragende Schwertkunst, um die Zombies im 3×3-Bereich rechts kontinuierlich zu stechen und ihnen Schaden zuzufügen. ^ff0000^ Anschließend schlägt er mit einem Z-förmigen Hieb zu, um den Zombies im Bereich ^oldclr^ Schaden zuzufügen.
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie im Suchbereich von Electric Blueberry erscheint, beschwört Electric Blueberry eine Gewitterwolke, die auf den Zombie zufliegt und einem einzelnen Zombie Schaden zufügt. Anschließend ruht Electric Blueberry für 12 Sekunden.
+Wenn ein Zombie im Suchbereich von der Elektrischen Blaubeere erscheint, beschwört der Elektrischen Blaubeere eine Gewitterwolke, die auf den Zombie zufliegt und einem einzelnen Zombie Schaden zufügt. Anschließend ruht der Elektrischen Blaubeere für 12 Sekunden.
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL2_DES]
-Der Suchbereich von Electric Blueberry ändert sich auf die gesamte Reihe.
+Der Suchbereich von der Elektrischen Blaubeere ändert sich auf die gesamte Reihe.
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL3_DES]
-Der Suchbereich von Electric Blueberry erweitert sich auf das gesamte Feld.
+Der Suchbereich von der Elektrischen Blaubeere erweitert sich auf das gesamte Feld.
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ELECTRICBLUEBERRY_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 80%ige Chance, dass sich außerhalb der Gewitterwolke eine kreuzförmige Gewitterwolke bildet. Diese bewegt sich mit der ursprünglichen Gewitterwolke und fügt allen Zombies in Reichweite nach dem Angriff 1200 Schaden zu.
 
 [ELECTRICBLUEBERRY_PLANTFOOD_DESCRIPTION]
-Electric Blueberry sammelt Blitze, um eine Gewitterwolke freizusetzen, die dreimal angreifen kann und in einen Ruhezustand übergeht.
+die Elektrischen Blaubeere sammelt Blitze, um eine Gewitterwolke freizusetzen, die dreimal angreifen kann und in einen Ruhezustand übergeht.
 
 [ELECTRICBLUEBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
 Elektrische Blaubeere sammelt Blitze und setzt eine Gewitterwolke frei, die dreimal angreifen kann. ^ff0000^ Die Gewitterwolke lässt getroffene Zombies 20 Sekunden lang schrumpfen. Angriffskraft und Bewegungsgeschwindigkeit der geschrumpften Zombies werden um 75% reduziert. Wiederholte Elektroschocks können die Schrumpfzeit nicht zurücksetzen. ^oldclr^ Und verfällt in den Ruhezustand.
@@ -72452,7 +72454,7 @@ Feuert 5 schwere Erbsengeschosse hintereinander ab, die definitiv einen Rücksto
 Feuert 5 schwere Erbsengeschosse hintereinander ab, die immer einen Block Rückstoßeffekt verursachen und Zombies innerhalb eines Blocks Flächenschaden zufügen. Der Schaden erhöht sich auf Stufe 5 weiter. ^ff0000^Fügt am Ende eine Lavakugel hinzu, die vorbeifliegenden Zombies Schaden zufügt und Lava hinterlässt, die 4 Sekunden lang bestehen bleibt. ^oldclr^
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL1_DES]
-Die primitive Nusswand nutzt ihren harten Körper, um Zombies abzuwehren und die Pflanzen dahinter zu schützen.
+Die  nutzt ihren harten Körper, um Zombies abzuwehren und die Pflanzen dahinter zu schützen.
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL2_DES]
 Nachdem sie von Zombies gefressen wurde, hinterlässt sie eine kleine Nuss mit 1000 Lebenspunkten.
@@ -72461,16 +72463,16 @@ Nachdem sie von Zombies gefressen wurde, hinterlässt sie eine kleine Nuss mit 1
 Nachdem sie von Zombies gefressen wurde, hinterlässt sie eine kleine Nuss mit 2000 Lebenspunkten.
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Attacke direkt freizusetzen – ein großer Move!
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL5_DES]
-Nach 15 Sekunden wächst auf der Spitze der Urnusswand eine Frucht, die 1000 Lebenspunkte wiederherstellt. Nach dem Verzehr spuckt sie einen Fruchtkern mit 300 Schaden aus.
+Nach 15 Sekunden wächst auf der Spitze der Urzeit-Wallnuss eine Frucht, die 1000 Lebenspunkte wiederherstellt. Nach dem Verzehr spuckt sie einen Fruchtkern mit 300 Schaden aus.
 
 [PRIMALWALLNUT_PLANTFOOD_DESCRIPTION]
-Die Urnusswand trägt eine Hartgesteinsrüstung.
+Die Urzeit-Wallnuss trägt eine Hartgesteinsrüstung.
 
 [PRIMALWALLNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Urnusswand trägt eine ^ff0000^ harte goldene Rüstung. ^oldclr^
+Die Urzeit-Wallnuss trägt eine ^ff0000^ harte goldene Rüstung. ^oldclr^
 
 [PERFUMESHROOM_NEW_SKILL_LEVEL1_DES]
 Nach dem Pflanzen verzaubert sie sofort alle verzauberbaren Dinosaurier in dieser Reihe und lässt Zombies in dieser Reihe 6 Sekunden lang rückwärts laufen.
@@ -72482,13 +72484,13 @@ Die Rückwärtslaufzeit der Zombies wurde auf 7 Sekunden erhöht.
 Die Rückwärtslaufzeit der Zombies wurde auf 8 Sekunden erhöht.
 
 [PERFUMESHROOM_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Attacken-Spezialdünger-Fähigkeitte-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [PERFUMESHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Attacken-Spezial-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [PRIMALSUNFLOWER_NEW_SKILL_LEVEL1_DES]
-Die primitive Sonnenblume kann kontinuierlich Sonnenlicht produzieren und bereitet sich so auf das Pflanzen anderer Pflanzen vor.
+Die Urzeit-Sonnenblume kann kontinuierlich Sonnenlicht produzieren und bereitet sich so auf das Pflanzen anderer Pflanzen vor.
 
 [PRIMALSUNFLOWER_NEW_SKILL_LEVEL2_DES]
 Die Chance, 100 Sonnenlichtpunkte zu erhalten, liegt bei 60%.
@@ -72497,10 +72499,10 @@ Die Chance, 100 Sonnenlichtpunkte zu erhalten, liegt bei 60%.
 Die Chance, 100 Sonnenlichtpunkte zu erhalten, liegt bei 100%.
 
 [PRIMALSUNFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialattacke Spezialdünger-Attacke direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [PRIMALSUNFLOWER_NEW_SKILL_LEVEL5_DES]
-Wenn eine Sonnenblume Sonnenlicht erzeugt, leuchtet ein Drittel ihrer Blütenblätter auf. Sind alle Blütenblätter beleuchtet, erzeugt sie zusätzlich 100 Sonnenlichtpunkte und verlischt.
+Wenn eine Urzeit-Sonnenblume Sonnenlicht erzeugt, leuchtet ein Drittel ihrer Blütenblätter auf. Sind alle Blütenblätter beleuchtet, erzeugt sie zusätzlich 100 Sonnenlichtpunkte und verlischt.
 
 [PRIMALSUNFLOWER_PLANTFOOD_DESCRIPTION]
 Schütteln der Blütenblätter erzeugt sofort 225 Sonnenlichtpunkte.
@@ -75354,7 +75356,7 @@ Großes Fleisch-Geschenkpaket
 Stimmen Sie für Ihre Lieblingspflanzen ab und entscheiden Sie über den Gruppenkauf von Pflanzen.
 
 [ACTIVITY_COLLECTION_PENNY_CLASSROOM_DESCRIPTION]
-Nach Abschluss der Kurse in Pennys Klassenzimmer können Sie Klassenzimmerpunkte sammeln und Prämien einlösen. Shop
+Nach Abschluss der Kurse in Penny's Klassenzimmer können Sie Punkte sammeln und Prämien im Shop einlösen.
 
 [NEWPLAYER_COLLECTION_DISCOUNT_GEM]
 {NUMS}
@@ -78148,7 +78150,7 @@ Eventbeschreibung
 [NEWYEARPACK_DESCRIPTION]
 Anleitung zum Kauf des Feier-Pakets:
 
-1. Nach dem Kauf des Geschenkpakets erhältst du Diamanten und mit einer gewissen Wahrscheinlichkeit eine Kostüm-Schatzkiste deiner Wahl.
+1. Nach dem Kauf des Geschenkpakets erhältst du Juwelen und mit einer gewissen Wahrscheinlichkeit eine Kostüm-Schatzkiste deiner Wahl.
 
 2. Das Geschenkpaket hat einen garantierten Mindestbetrag. Wenn du nach neunmaligem Kauf desselben Geschenkpakets keine Kostüm-Schatzkiste erhältst, erhältst du beim nächsten Kauf eine Kostüm-Schatzkiste.
 3. Das Kauflimit für Geschenkpakete wird täglich aktualisiert. Die garantierte Anzahl wird nicht aktualisiert und kann vererbt werden.
@@ -78159,10 +78161,10 @@ Anleitung zum kumulativen Aufladen der Feier:
 Während des Events können Aufladungen an jeder beliebigen Stelle im Spiel über den kumulativen Aufladefortschrittsbalken eingeblendet werden.
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
-Tägliches Willkommensgeschenk (0 Yuan): Diamanten * 15
-2 Yuan Wohlfahrtspaket: Diamanten * 30, 10 % Chance auf eine Schatzkiste mit Primärkleidung
-3 Yuan Wohlfahrtspaket: Diamanten * 90, 10 % Chance auf eine Schatzkiste mit Zwischenkleidung
-6 Yuan Wohlfahrtspaket: Diamanten * 180, 10 % Chance auf eine Schatzkiste mit fortgeschrittener Kleidung
+Tägliches Willkommensgeschenk (0 Yuan): Juwelen * 15
+2 Yuan Wohlfahrtspaket: Juwelen * 30, 10 % Chance auf eine Schatzkiste mit Primärkleidung
+3 Yuan Wohlfahrtspaket: Juwelen * 90, 10 % Chance auf eine Schatzkiste mit Zwischenkleidung
+6 Yuan Wohlfahrtspaket: Juwelen * 180, 10 % Chance auf eine Schatzkiste mit fortgeschrittener Kleidung
 
 Optionale Kleidung für die Schatzkiste mit Primärkleidung: Nuss-Weihnachtskleid, Sonnenblumen-Halloweenkleid, Nuss-Halloweenkleid, Pulsgelbes Pfirsich-Halloweenkleid, Stahl-Erdspieß-Monokel, Maiskrug-Herrenanzug, Doppel-Sonnenblumenhut
 Optionale Kleidung für die Schatzkiste mit Zwischenkleidung: Truthahnkrug-Weihnachtskleid, Kristallorchideen-Weihnachtskleid, Eiswassermelonen-Clip-Fächer, Kokosnusshut, Frühlingsfestkleid mit großer Mundblume, Frühlingsfestkleid mit Gemüsefrage, Sonnenblumensängerin (Neu) Jahreskleid
