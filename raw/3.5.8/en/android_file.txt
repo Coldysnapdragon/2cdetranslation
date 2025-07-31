@@ -46,7 +46,7 @@ Meerespilze können im Wasser gepflanzt werden, haben eine kurze Reichweite und 
 Meerespilz-Kostüm
 
 [STORE_PRODUCT_AVATAR_SEASHROOM]
-Ultimative Angriffskraft um 50% erhöht
+Spezialdünger-Fähigkeittive Angriffskraft um 50% erhöht
 
 [SEASHROOM_SKILL_LEVEL1]
 Überlebensverbesserung
@@ -1441,7 +1441,7 @@ Willkommen auf dem Kongfu-Mönchsgrab!
 Willkommen zur Totenparty!
 
 [DANGER_ROOM_PLANTFOOD]
-Energiebohnen:
+Spezialdünger-Fähigkeitn:
 
 [DANGER_ROOM_REWARD_MOWER_DESC]
 Stelle {MOWER_COUNT} verlorene Einkaufswagen zu Beginn des Levels wieder her.
@@ -1450,10 +1450,10 @@ Stelle {MOWER_COUNT} verlorene Einkaufswagen zu Beginn des Levels wieder her.
 Stelle einen verlorenen Einkaufswagen zu Beginn des Levels wieder her.
 
 [DANGER_ROOM_REWARD_PLANTFOOD_DESC]
-Beginnt mit {PF_COUNT} zusätzlichen Energiebohnenplätzen
+Beginnt mit {PF_COUNT} zusätzlichen Spezialdünger-Fähigkeitnplätzen
 
 [DANGER_ROOM_REWARD_PLANTFOOD_DESC_SINGULAR]
-Beginnt mit einem zusätzlichen Energiebohnenplatz
+Beginnt mit einem zusätzlichen Spezialdünger-Fähigkeitnplatz
 
 [DANGER_ROOM_REWARD_SUN_DESC]
 Beginnt mit {SUN_COUNT} zusätzlicher Sonne
@@ -2047,19 +2047,19 @@ Geheimnisvolles Ägypten-Tor
 Altes Ägypten - Tag {LEVEL_NUMBER}
 
 [EGYPT_FINAL_LEVEL]
-Geheimnisvolles Ägypten – Ultimative Herausforderung
+Geheimnisvolles Ägypten – Spezialdünger-Fähigkeittive Herausforderung
 
 [DARK_FINAL_LEVEL]
-Dunkles Zeitalter – Ultimative Herausforderung
+Dunkles Zeitalter – Spezialdünger-Fähigkeittive Herausforderung
 
 [HEIAN_FINAL_LEVEL]
-Heian Ära – Ultimative Herausforderung
+Heian Ära – Spezialdünger-Fähigkeittive Herausforderung
 
 [HEIAN_LEVEL_NAME]
 Heian Ära – Tag {LEVEL_NUMBER}
 
 [SKYCITY_FINAL_LEVEL]
-Luftstadt – Ultimative Herausforderung
+Luftstadt – Spezialdünger-Fähigkeittive Herausforderung
 
 [SKYCITY_FINAL_LEVEL1]
 Zeitreise – Luftstadt
@@ -2677,7 +2677,7 @@ Dieser Benutzername existiert bereits.
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TUTORIAL_EGYPT6_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wenn Pflanzen Kostüme tragen, werden ihre Ultimates noch mächtiger.
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wenn Pflanzen Kostüme tragen, werden ihre Spezialdünger-Fähigkeittes noch mächtiger.
 
 [NARRATIVE_TUTORIAL_EGYPT6_INTRO_2]
 {SAY:crazydave}Probier es jetzt aus!
@@ -3022,7 +3022,7 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:winnie}{SAY}Sie halten Kamelkarten. Mit kugeldurchdringenden Pflanzen könnt ihr sie effektiv bekämpfen.
 
 [NARRATIVE_BUY_PLANTFOOD_1]
-{SAY:winnie}Ich habe Diamanten gefunden. Kauf dir ein paar Energiebohnen als Reserve!
+{SAY:winnie}Ich habe Diamanten gefunden. Kauf dir ein paar Spezialdünger-Fähigkeitn als Reserve!
 
 [NARRATIVE_BUY_PLANTFOOD_2]
 {SAY:crazydave}Super! Diese Diamanten sind für dich! Warum? Weil ich verrückt bin~!!
@@ -4831,7 +4831,7 @@ Alraunen Kostüm
 Alraunen Kostüm
 
 [STORE_PRODUCT_AVATAR_MANDRAKE]
-Die ultimative Fähigkeit erhöht den Schaden an anderen Einheiten.
+Die Spezialdünger-Fähigkeit erhöht den Schaden an anderen Einheiten.
 
 [MANDRAKE_NEW_SKILL_LEVEL1_DES]
 Der Alraune rennt vorwärts. Wenn er auf Zombies trifft, greift er mit Saltos oder Rutschen an. Sobald keine Zombies mehr hinter ihm sind, rennt der Alraune weiter. Salto: Stürzt man sich auf den Kopf des Zombies, wird der getroffene Zombie 0,5 Sekunden lang betäubt.^848484^Ⅰ^oldclr^; Rutschen: Schaufelt den Zombie hoch und lasst ihn 0,5 Sekunden lang schweben. Betäubt den Gargantua ^848484^Ⅰ^oldclr^0,5 Sekunden.
@@ -5001,7 +5001,7 @@ Meteorblumen Kostüm
 Meteorblumen Kostüm
 
 [STORE_PRODUCT_AVATAR_METEORFLOWER]
-Die Anzahl der durch die ultimative Fähigkeit beschworenen Planetenmeteoriten erhöht sich parallel auf 5.
+Die Anzahl der durch die Spezialdünger-Fähigkeit beschworenen Planetenmeteoriten erhöht sich parallel auf 5.
 
 [METEORFLOWER_NEW_SKILL_LEVEL1_DES]
 Wenn die Meteorblume angreift, beschwört sie zwei Meteoriten aus der Luft, die niederprasseln. Es besteht eine 35%ige Chance, dass die beiden Meteoriten dasselbe Ziel treffen. Meteoriten können Zombies in einem bestimmten Umkreis Schaden zufügen und Krater am Boden hinterlassen. Die Krater bleiben 5 Sekunden lang bestehen, und Zombies, die darauf laufen, erleiden 10 Schaden pro Sekunde. Pflanzen können nicht auf Kratern gepflanzt werden.
@@ -5054,7 +5054,7 @@ Schnelle Erholung
 Die Ruhezeit wird um weitere 3 Sekunden auf 14 Sekunden verkürzt.
 
 [SARRACENIA_SKILL_LEVEL5]
-Ultimative Versteinerung
+Spezialdünger-Fähigkeittive Versteinerung
 
 [SARRACENIA_SKILL_LEVEL5_DES]
 Der Versteinerungsangriff hat eine 60%ige Chance, zu einem verstärkten Versteinerungsstrahl zu werden, der zwei Zombies zu Steinstatuen mit 40% Gesundheit versteinert.
@@ -5132,7 +5132,7 @@ Elektrisches Rankenkostüm
 Elektrisches Rankenkostüm
 
 [STORE_PRODUCT_AVATAR_POWERVINE]
-Die durch die ultimative Fähigkeit abgefeuerten elektrischen Kugeln werden durchdringend.
+Die durch die Spezialdünger-Fähigkeit abgefeuerten elektrischen Kugeln werden durchdringend.
 
 [POWERVINE_NEW_SKILL_LEVEL1_DES]
 Elektrische Ranken können schnell Kugeln abfeuern, um Zombies anzugreifen. Befinden sich elektrische Ranken in der Nähe, werden sie verstärkt und feuern im verstärkten Zustand 3 Kugeln pro Runde ab.
@@ -5144,7 +5144,7 @@ Elektrische Ranken haben eine 5%ige Chance, eine spezielle Kugel abzufeuern, die
 Elektrische Ranken haben eine 10%ige Chance, ein Spezialgeschoss abzufeuern, das die darüberliegende elektrische Pflanze verstärkt. Wenn die Ranke verstärkt ist, feuert die Pflanze zwei Kugeln ab.
 
 [POWERVINE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, den ultimativen Energiebohnen-Move direkt auszuführen!
+Beim Pflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszuführen!
 
 [POWERVINE_NEW_SKILL_LEVEL5_DES]
 Nach jeweils zwei Angriffsrunden feuert die nächste Angriffsrunde ein zusätzliches violettes Lähmungsgeschoss ab, das den getroffenen Gegner 0,5 Sekunden lang lähmt.
@@ -7921,7 +7921,7 @@ Kann einen einzelnen Roller-Zombie vernichten.
 Spuckt mächtige Flammen.
 
 [POWERLILY_PRODUCT_SHORT_DESC]
-Erzeugt eine Energiebohne.
+Erzeugt eine Spezialdünger-Fähigkeit.
 
 [SQUASH_PRODUCT_SHORT_DESC]
 Zerquetscht Zombies mit seinem schweren Körper.
@@ -8011,7 +8011,7 @@ Der Rosenschwertkämpfer kann herannahende Zombies angreifen und Zombies mit ger
 Der Zauberpilz kann Spielkarten abfeuern, um Zombies vor und hinter ihnen anzugreifen.
 
 [SAPFLING_PRODUCT_SHORT_DESC]
-Der Harzwerfer wirft Harz, das Zombies verlangsamt.
+Der Saftling wirft Harz, das Zombies verlangsamt.
 
 [GHOSTPEPPER_PRODUCT_SHORT_DESC]
 Der Geist-Peperoni kann Zombies erschrecken und Schaden zufügen.
@@ -8032,7 +8032,7 @@ Ofenkartoffeln schmelzen gefrorenes Eis.
 Rübenwächter stoßen Zombies ab und blockieren ihren Vormarsch.
 
 [STUNION_PRODUCT_SHORT_DESC]
-Betäubungszwiebeln machen Zombies bewegungsunfähig.
+Zwirbeln machen Zombies bewegungsunfähig.
 
 [POWERPLANT_PRODUCT_SHORT_DESC]
 Baue Power-Up-Plättchen, auf denen Spieler Pflanzen anbauen können.
@@ -11048,7 +11048,7 @@ Kungfu-Welt-Textkonfiguration beginnt
 Demnächst verfügbar
 
 [WAIT_FOR_BOSS_COMING_TIP]
-„Ultimative“ Herausforderung
+„Spezialdünger-Fähigkeittive“ Herausforderung
 
 [WAIT_FOR_FUTURE_BOSS_COMING_DES]
 Dr. Zomboss erscheint bald, bitte bleiben Sie dran!
@@ -12092,13 +12092,13 @@ Viele neue Pflanzen!
 Viele neue Abenteuerzombies!
 
 [KONGFU_LAST]
-Kung-Fu-Welt – Ultimative Herausforderung
+Kung-Fu-Welt – Spezialdünger-Fähigkeittive Herausforderung
 
 [WORLD_PREVIEW_DESCRIPTION_KONGFU_LAST]
 Der BOSS ist da! Der Schwertdämon und der Schießpulverdämon kommen. Kannst du sie besiegen und die Kung-Fu-Welt retten?
 
 [WORLD_PREVIEW_TEASER_KONGFU_LAST]
-2 Ultimative BOSS-Herausforderungen
+2 Spezialdünger-Fähigkeittive BOSS-Herausforderungen
 18 neue Level
 Viele neue Kung-Fu-Zombies!
 
@@ -12373,175 +12373,175 @@ Die Spezialdünger-Fähigkeit kann Blitzkohl werfen.
 Die Spezialdünger-Fähigkeit kann betäuben. Zombies
 
 [STORE_PRODUCT_AVATAR_WALLNUT]
-Ultimate erhält stärkere Kristallrüstung
+Spezialdünger-Fähigkeitte erhält stärkere Kristallrüstung
 
 [STORE_PRODUCT_AVATAR_TALLNUT]
-Ultimate erhält stärkere Kristallrüstung
+Spezialdünger-Fähigkeitte erhält stärkere Kristallrüstung
 
 [STORE_PRODUCT_AVATAR_REPEATER]
-Ultimate kann verschiedene Kugeln abfeuern.
+Spezialdünger-Fähigkeitte kann verschiedene Kugeln abfeuern.
 
 [STORE_PRODUCT_AVATAR_KERNELPULT]
-Ultimate wirft brennende Butter und verursacht so mehr Schaden.
+Spezialdünger-Fähigkeitte wirft brennende Butter und verursacht so mehr Schaden.
 
 [STORE_PRODUCT_AVATAR_COCONUTCANNON]
-Ultimate kann horizontale Zombies betäuben.
+Spezialdünger-Fähigkeitte kann horizontale Zombies betäuben.
 
 [STORE_PRODUCT_AVATAR_PEAPOD]
-Ultimate kann große Erbsen abfeuern.
+Spezialdünger-Fähigkeitte kann große Erbsen abfeuern.
 
 [STORE_PRODUCT_AVATAR_SPLITPEA]
-Ultimate kann extra große Erbsen ausspucken.
+Spezialdünger-Fähigkeitte kann extra große Erbsen ausspucken.
 
 [STORE_PRODUCT_AVATAR_SQUASH]
-Ultimate kann erneut betreten werden.
+Spezialdünger-Fähigkeitte kann erneut betreten werden.
 
 [STORE_PRODUCT_AVATAR_MELONPULT]
-Ultimate lässt die Wassermelone brennen!
+Spezialdünger-Fähigkeitte lässt die Wassermelone brennen!
 
 [STORE_PRODUCT_AVATAR_PEASHOOTER]
-Ultimate spuckt große Erbsen aus.
+Spezialdünger-Fähigkeitte spuckt große Erbsen aus.
 
 [STORE_PRODUCT_AVATAR_TORCHWOOD]
-Ultimate verwandelt sich in einen lila Feuerstumpf.
+Spezialdünger-Fähigkeitte verwandelt sich in einen lila Feuerstumpf.
 
 [STORE_PRODUCT_AVATAR_ICEBURG]
-Ultimate beschwört Schneeballangriffe.
+Spezialdünger-Fähigkeitte beschwört Schneeballangriffe.
 
 [STORE_PRODUCT_AVATAR_THREEPEATER]
-Ultimate verdoppelt die Dauer!
+Spezialdünger-Fähigkeitte verdoppelt die Dauer!
 
 [STORE_PRODUCT_AVATAR_WINTERMELON]
-Ultimative Fähigkeit lässt Eiswassermelone brennen!
+Spezialdünger-Fähigkeittive Fähigkeit lässt Eiswassermelone brennen!
 
 [STORE_PRODUCT_AVATAR_SNOWPEA]
-Die ultimative Fähigkeit spuckt einen großen Eisball zum Angriff aus.
+Die Spezialdünger-Fähigkeit spuckt einen großen Eisball zum Angriff aus.
 
 [STORE_PRODUCT_AVATAR_SPIKEWEED]
-Die ultimative Fähigkeit kann Zombies stechen und kurzzeitig Schwindel verursachen.
+Die Spezialdünger-Fähigkeit kann Zombies stechen und kurzzeitig Schwindel verursachen.
 
 [STORE_PRODUCT_AVATAR_SPIKEROCK]
-Die ultimative Fähigkeit kann Zombies stechen und Schwindel verursachen.
+Die Spezialdünger-Fähigkeit kann Zombies stechen und Schwindel verursachen.
 
 [STORE_PRODUCT_AVATAR_BAMBOO]
-Die ultimative Fähigkeit kann mehr Bambussprossen durchstechen.
+Die Spezialdünger-Fähigkeit kann mehr Bambussprossen durchstechen.
 
 [STORE_PRODUCT_AVATAR_STARFRUIT]
-Die ultimative Fähigkeit rotiert automatisch beim Start und ihre Dauer verlängert sich.
+Die Spezialdünger-Fähigkeit rotiert automatisch beim Start und ihre Dauer verlängert sich.
 
 [STORE_PRODUCT_AVATAR_PEACH]
-Die ultimative Fähigkeit heilt die umliegenden Pflanzen beim Auslösen.
+Die Spezialdünger-Fähigkeit heilt die umliegenden Pflanzen beim Auslösen.
 
 [STORE_PRODUCT_AVATAR_LIGHTNINGREED]
-Die ultimative Fähigkeit erzeugt eine riesige Gewitterwolke, um Zombies auf der Karte anzugreifen.
+Die Spezialdünger-Fähigkeit erzeugt eine riesige Gewitterwolke, um Zombies auf der Karte anzugreifen.
 
 [STORE_PRODUCT_AVATAR_FIREGOURD]
 Der ultimative Move löst eine Feuerdrachenwelle aus!
 
 [STORE_PRODUCT_AVATAR_BONKCHOY]
-Die ultimative Fähigkeit löst einen Wirbelwindschlag aus und greift Zombies in großer Reichweite an.
+Die Spezialdünger-Fähigkeit löst einen Wirbelwindschlag aus und greift Zombies in großer Reichweite an.
 
 [STORE_PRODUCT_AVATAR_CHILIBEAN]
-Die ultimative Fähigkeit spaltet einen weiteren Kroton.
+Die Spezialdünger-Fähigkeit spaltet einen weiteren Kroton.
 
 [STORE_PRODUCT_AVATAR_TURNIP]
-Die ultimative Fähigkeit spaltet einen weiteren weißen Rettich.
+Die Spezialdünger-Fähigkeit spaltet einen weiteren weißen Rettich.
 
 [STORE_PRODUCT_AVATAR_CITRON]
-Die ultimative Fähigkeit löst eine Blitzkette aus und greift Zombies in der Nähe an.
+Die Spezialdünger-Fähigkeit löst eine Blitzkette aus und greift Zombies in der Nähe an.
 
 [STORE_PRODUCT_AVATAR_PUFFSHROOM]
-Die ultimative Fähigkeit erhöht den Schaden.
+Die Spezialdünger-Fähigkeit erhöht den Schaden.
 
 [STORE_PRODUCT_AVATAR_FUMESHROOM]
-Die ultimative Fähigkeit kann Zombies von vorne und von der Seite anlocken, um gemeinsam anzugreifen.
+Die Spezialdünger-Fähigkeit kann Zombies von vorne und von der Seite anlocken, um gemeinsam anzugreifen.
 
 [STORE_PRODUCT_AVATAR_HYPNOSHROOM]
-Die ultimative Fähigkeit kann Zombies, die sie fressen, in Riesen
+Die Spezialdünger-Fähigkeit kann Zombies, die sie fressen, in Riesen
 
 [STORE_PRODUCT_AVATAR_SUNSHROOM]
-Die ultimative Fähigkeit kann zusätzliche Goldmünzen produzieren.
+Die Spezialdünger-Fähigkeit kann zusätzliche Goldmünzen produzieren.
 
 [STORE_PRODUCT_AVATAR_PEANUT]
-Die ultimative Fähigkeit kann zusätzliche Halbrüstung erhalten.
+Die Spezialdünger-Fähigkeit kann zusätzliche Halbrüstung erhalten.
 
 [STORE_PRODUCT_AVATAR_MAGNETSHROOM]
-Die ultimative Fähigkeit kann Zombies auf anderen Routen angreifen.
+Die Spezialdünger-Fähigkeit kann Zombies auf anderen Routen angreifen.
 
 [STORE_PRODUCT_AVATAR_STREETLAMP]
-Die ultimative Fähigkeit kann alle Zombies auf dem Feld stagnieren lassen.
+Die Spezialdünger-Fähigkeit kann alle Zombies auf dem Feld stagnieren lassen.
 
 [STORE_PRODUCT_AVATAR_ICESHROOM]
-Die ultimative Fähigkeit kann eine zusätzliche Eisschicht erzeugen.
+Die Spezialdünger-Fähigkeit kann eine zusätzliche Eisschicht erzeugen.
 
 [STORE_PRODUCT_AVATAR_FIRESHROOM]
-Die durch die ultimative Fähigkeit erzeugte Feuerwand hat einen Explosionseffekt, wenn sie gelöscht wird.
+Die durch die Spezialdünger-Fähigkeit erzeugte Feuerwand hat einen Explosionseffekt, wenn sie gelöscht wird.
 
 [STORE_PRODUCT_AVATAR_OAKSHOOTER]
-Die ultimative Fähigkeit kann Licht abfeuern. Pfeile
+Die Spezialdünger-Fähigkeit kann Licht abfeuern. Pfeile
 
 [STORE_PRODUCT_AVATAR_PAMEGRANATE]
-Die ultimative Fähigkeit kann Kugeln mit Spritzeffekt abfeuern.
+Die Spezialdünger-Fähigkeit kann Kugeln mit Spritzeffekt abfeuern.
 
 [STORE_PRODUCT_AVATAR_SWEETPOTATO]
-Die ultimative Fähigkeit kann deine Gesundheit vollständig wiederherstellen.
+Die Spezialdünger-Fähigkeit kann deine Gesundheit vollständig wiederherstellen.
 
 [STORE_PRODUCT_AVATAR_LILYPAD]
-Die ultimative Fähigkeit kann Lotusblätter in einem Bereich von 3x3 erzeugen.
+Die Spezialdünger-Fähigkeit kann Lotusblätter in einem Bereich von 3x3 erzeugen.
 
 [STORE_PRODUCT_AVATAR_BOWLINGBULB]
 Die von der ultimativen Fähigkeit abgefeuerten Kugeln haben verschiedene elementare Eigenschaften.
 
 [STORE_PRODUCT_AVATAR_BANANA]
-Die ultimative Fähigkeit kann eine zusätzliche Banane mit großflächigem Schaden abfeuern.
+Die Spezialdünger-Fähigkeit kann eine zusätzliche Banane mit großflächigem Schaden abfeuern.
 
 [STORE_PRODUCT_AVATAR_GUACODILE]
-Die ultimative Fähigkeit kann einmal hin und her kauen.
+Die Spezialdünger-Fähigkeit kann einmal hin und her kauen.
 
 [STORE_PRODUCT_AVATAR_TANGLEKELP]
-Die ultimative Fähigkeit kann einen weiteren Zombie angreifen.
+Die Spezialdünger-Fähigkeit kann einen weiteren Zombie angreifen.
 
 [STORE_PRODUCT_AVATAR_HOMINGTHISTLE]
-Die ultimative Fähigkeit kann Eis und Kugeln abfeuern.
+Die Spezialdünger-Fähigkeit kann Eis und Kugeln abfeuern.
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOWER]
-Die ultimative Fähigkeit kann einen Supertorpedo abfeuern.
+Die Spezialdünger-Fähigkeit kann einen Supertorpedo abfeuern.
 
 [STORE_PRODUCT_AVATAR_LEMON]
-Die ultimative Fähigkeit kann Säure regnen lassen und Zombies kontinuierlichen Schaden zufügen.
+Die Spezialdünger-Fähigkeit kann Säure regnen lassen und Zombies kontinuierlichen Schaden zufügen.
 
 [STORE_PRODUCT_AVATAR_CRACKER]
-Die ultimative Fähigkeit kann höheren Schaden verursachen und Zombies in die Luft jagen.
+Die Spezialdünger-Fähigkeit kann höheren Schaden verursachen und Zombies in die Luft jagen.
 
 [STORE_PRODUCT_AVATAR_CHESTNUT]
-Die ultimative Fähigkeit kann eine zusätzliche Kastanie beschwören, um die Zombies vor ihnen anzugreifen.
+Die Spezialdünger-Fähigkeit kann eine zusätzliche Kastanie beschwören, um die Zombies vor ihnen anzugreifen.
 
 [STORE_PRODUCT_AVATAR_RAFFLESIA]
-Die ultimative Fähigkeit kann getroffene Zombies betäuben.
+Die Spezialdünger-Fähigkeit kann getroffene Zombies betäuben.
 
 [STORE_PRODUCT_AVATAR_ACORN]
-Die ultimative Fähigkeit kann zwei kleine Wirbelwinde erzeugen und den ersten Zombie angreifen.
+Die Spezialdünger-Fähigkeit kann zwei kleine Wirbelwinde erzeugen und den ersten Zombie angreifen.
 
 [STORE_PRODUCT_AVATAR_XSHOT]
-Die Ultimative Fähigkeit kann Kugeln mit höherem Schaden abfeuern.
+Die Spezialdünger-Fähigkeittive Fähigkeit kann Kugeln mit höherem Schaden abfeuern.
 
 [STORE_PRODUCT_AVATAR_SUGARCANE]
-Die Ultimative Fähigkeit kann getroffenen Zombies Schaden zufügen.
+Die Spezialdünger-Fähigkeittive Fähigkeit kann getroffenen Zombies Schaden zufügen.
 
 [STORE_PRODUCT_AVATAR_ROSESWORDMAN]
-Ultimative Fähigkeit kann spezielle Schwertfähigkeiten aktivieren, die zusätzlichen Schaden verursachen.
+Spezialdünger-Fähigkeittive Fähigkeit kann spezielle Schwertfähigkeiten aktivieren, die zusätzlichen Schaden verursachen.
 
 [STORE_PRODUCT_AVATAR_MAGICSHROOM]
-Ultimative Fähigkeit kann verhindern, dass sich Zauberpilze in gewöhnliche Zombies verwandeln.
+Spezialdünger-Fähigkeittive Fähigkeit kann verhindern, dass sich Zauberpilze in gewöhnliche Zombies verwandeln.
 
 [STORE_PRODUCT_AVATAR_SAPFLING]
-Ultimative Fähigkeit kann alle Zombies, die hindurchgehen, in Bernstein verwandeln.
+Spezialdünger-Fähigkeittive Fähigkeit kann alle Zombies, die hindurchgehen, in Bernstein verwandeln.
 
 [STORE_PRODUCT_AVATAR_GHOSTPEPPER]
-Ultimative Fähigkeit kann Zombies kurzzeitig betäuben.
+Spezialdünger-Fähigkeittive Fähigkeit kann Zombies kurzzeitig betäuben.
 
 [STORE_PRODUCT_AVATAR_CHERRY_BOMB]
-Ultimative Fähigkeit kann durch das Töten von Zombies Sonnenlicht gewinnen.
+Spezialdünger-Fähigkeittive Fähigkeit kann durch das Töten von Zombies Sonnenlicht gewinnen.
 
 [STORE_PRODUCT_AVATAR_CHERRY_BOMB_TITLE]
 Kirschkleid
@@ -13980,7 +13980,7 @@ Es besteht die Chance, 4 Goldkarten auszugeben, um Zombies in einem Raster Schad
 Bernsteinkristall
 
 [SAPFLING_SKILL_LEVEL1_DES]
-Das vom Harzwerfer geworfene Harz hat eine 15%ige Chance, Zombies zu Bernstein zu verdichten.
+Das vom Saftling geworfene Harz hat eine 15%ige Chance, Zombies zu Bernstein zu verdichten.
 
 [SAPFLING_SKILL_LEVEL2]
 Schnellhärtend
@@ -13992,13 +13992,13 @@ Erhöht die Auslösechance des Bernsteinkristalls um 100%.
 Einschüchterung
 
 [GHOSTPEPPER_SKILL_LEVEL1_DES]
-Ermöglicht Ghost Pepper, Zombies in Reichweite einzuschüchtern.
+Ermöglicht Geist Peperoni, Zombies in Reichweite einzuschüchtern.
 
 [GHOSTPEPPER_SKILL_LEVEL2]
 Materialisieren
 
 [GHOSTPEPPER_SKILL_LEVEL2_DES]
-Ermöglicht Ghost Pepper, Zombies aus größerer Entfernung zu verscheuchen und erhöht die Angriffsdistanz um eins.
+Ermöglicht Geist Peperoni, Zombies aus größerer Entfernung zu verscheuchen und erhöht die Angriffsdistanz um eins.
 
 [PEPPERPULT_SKILL_LEVEL1]
 Brennen
@@ -14034,7 +14034,7 @@ Wenn die Zombies zu Boden geworfen werden, verursachen sie bei den umstehenden Z
 Lähmungsgas
 
 [STUNION_SKILL_LEVEL1_DES]
-Verlängert die Betäubungszeit von Betäubungszwiebeln.
+Verlängert die Betäubungszeit von Zwierbeln.
 
 [STUNION_SKILL_LEVEL2]
 Superlähmung
@@ -15012,10 +15012,10 @@ Laserbohnen-Kostüm
 Laserbohnen-Kostüm
 
 [STORE_PRODUCT_AVATAR_LASERBEAN]
-Ultimative Fähigkeit: Hochenergielaser für mehr Schaden
+Spezialdünger-Fähigkeittive Fähigkeit: Hochenergielaser für mehr Schaden
 
 [STORE_PRODUCT_AVATAR_LASER_BEAN]
-Ultimative Fähigkeit: Hochenergielaser für mehr Schaden Schaden
+Spezialdünger-Fähigkeittive Fähigkeit: Hochenergielaser für mehr Schaden Schaden
 
 [STORE_PRODUCT_AVATAR_HOLONUT_TITLE]
 Holografisches Kostüm
@@ -15312,10 +15312,10 @@ Eis-Schlüssel
 Normaler Angriff
 
 [DISPLAY_ACTION_PLANTFOOD]
-Ultimativer Angriff
+Spezialdünger-Fähigkeittiver Angriff
 
 [DISPLAY_ACTION_AVATAR]
-Dekoration: Ultimativ
+Dekoration: Spezialdünger-Fähigkeittiv
 
 [DAILY_REWARD_ERROR_TITLE]
 Netzwerk Abnormal
@@ -16805,13 +16805,13 @@ Super-Eile
 Erhöht den Effekt von Eile-Konstruktion um 50%.
 
 [CAULIPOWER_SKILL_LEVEL5]
-Ultimativer Zauber
+Spezialdünger-Fähigkeittiver Zauber
 
 [CAULIPOWER_SKILL_LEVEL5_DES]
 Kann hochstufige Zombies bezaubern und die Ruhezeit sofort wiederherstellen.
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER]
-Ultimativer Move kann einen zusätzlichen Zombie werfen.
+Spezialdünger-Fähigkeittiver Move kann einen zusätzlichen Zombie werfen.
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER_TITLE]
 Super-Blumenkohl-Kostüm
@@ -16844,7 +16844,7 @@ Dornenkrise
 Erhöht die Wirkung der Fertigkeit „Dornenbetäubung“ um 100%.
 
 [DUSKLOBBER_SKILL_LEVEL5]
-Ultimative Verstrickung
+Spezialdünger-Fähigkeittive Verstrickung
 
 [DUSKLOBBER_SKILL_LEVEL5_DES]
 Es besteht die Möglichkeit, dass sich in Reichweite Samen bilden und sich Ranken an Zombies bilden, die sie berühren und deren Bewegungsfreiheit einschränken.
@@ -17154,7 +17154,8 @@ Geist-Peperoni
 [GHOSTPEPPER_DESCRIPTION]
 {KEYWORD}Schadensbeschreibung: {STAT} Verursacht kontinuierlichen Schaden an Zombies in der Nähe.
 {KEYWORD}Merkmale: {STAT} Explodiert nach einiger Zeit.
-{KEYWORD}Pflanzenmerkmale: {STAT} weiße Pflanze, fliegende Pflanzen, kleiner Mensch
+{KEYWORD}Pflanzenmerkmale: {STAT} weiße Pflanze, fliegende Pflanze, kleiner Mensch
+
 {FLAVOR}Ob du es glaubst oder nicht, die Geist-Peperoni trug nicht immer dieses weiße Bettlaken. Eigentlich hatte sie es nur einmal zu einer Halloween-Party übergeworfen. Alle anderen hatten aufwändige Kostüme, aber die Peperoni fand es lustig, sich als das gute alte Gespenst zu verkleiden. Lange Rede, kurzer Sinn: Die Peperoni verliebte sich in ihre Verkleidung und hatte ihre Berufung gefunden.
 
 [GHOSTPEPPER_DESCRIPTION_HEADER]
@@ -19055,7 +19056,7 @@ Zurück zur Frage
 Öffne den roten Umschlag.
 
 [LANTERN_RIDDLES_0]
-Wie viel Sonnenlicht kann eine Sonnenblume jedes Mal produzieren, wenn sie durch Energiebohnen stimuliert wird?
+Wie viel Sonnenlicht kann eine Sonnenblume jedes Mal produzieren, wenn sie durch Spezialdünger-Fähigkeitn stimuliert wird?
 
 [LANTERN_RIDDLES_ANSWER_0]
 ca=150|100|200|300|
@@ -19094,7 +19095,7 @@ ca=Feuerwehrmann | Polizist | Anwalt | Flugsaurier |
 [LANTERN_RIDDLES_9]
 Welche magische Frucht spuckt die Energieblume aus?
 [LANTERN_RIDDLES_ANSWER_9]
-ca=Energiebohnen | Elixier | Saubohnen | Lotussamen |
+ca=Spezialdünger-Fähigkeitn | Elixier | Saubohnen | Lotussamen |
 [LANTERN_RIDDLES_10]
 Welche Wirkung kann der gewöhnliche große Zug der Kokosnusskanone haben?
 [LANTERN_RIDDLES_ANSWER_10]
@@ -19324,7 +19325,7 @@ Welcher der folgenden Zombies wird das Rennen gewinnen?
 [LANTERN_RIDDLES_ANSWER_66]
 ca=Schaufelzombie|Riesenzombie|Schirmzombie|Führerzombie|
 [LANTERN_RIDDLES_67]
-Was ist der Unterschied zwischen dem Kostüm-Ultimate-Move des Goldenen Krötenpilzes und dem normalen Ultimate-Move?
+Was ist der Unterschied zwischen dem Kostüm-Spezialdünger-Fähigkeitte-Move des Goldenen Krötenpilzes und dem normalen Spezialdünger-Fähigkeitte-Move?
 [LANTERN_RIDDLES_ANSWER_67]
 ca=Giftnebel|Noch einen Zombie fressen|25 weitere Sonnenstrahlen erzeugen|Eine weitere Gitterdistanz|
 [LANTERN_RIDDLES_68]
@@ -19403,7 +19404,7 @@ ca=Vortex-Mispel | Spargeljäger | Ackerbohnen-Mutterschiff | Ionisierte Anthuri
 Welche der folgenden Eigenschaften trifft nicht auf die Fliegende Untertassenmelone zu? [LANTERN_RIDDLES_ANSWER_86]
 Zombies bewegungsunfähig machen | ca=kurze Abkühlzeit | hoher Schaden | großer Flächenschaden |
 [LANTERN_RIDDLES_87]
-Wie groß ist die Angriffsreichweite des ultimativen Moves der Saubohnen-Mutterschiff-Energiebohne?
+Wie groß ist die Angriffsreichweite des ultimativen Moves der Saubohnen-Mutterschiff-Spezialdünger-Fähigkeit?
 [LANTERN_RIDDLES_ANSWER_87]
 3 Felder | 4 Felder | 8 Felder | ca=9 Felder |
 [LANTERN_RIDDLES_88]
@@ -19472,7 +19473,7 @@ Rotorübe
 
 [XSHOT_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Strahlt in vier Richtungen
-{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen, fliegende Pflanzen
+{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen, fliegende Pflanze
 {FLAVOR}Manchmal bekommt die Rotorübe mit, wie die anderen Pflanzen lästern. „Hast du gesehen, wie der zugenommen hat?“ sagen sie, oder: „Ich hab gehört, der-und-der ist jetzt mit soundso zusammen. Kaum zu glauben!“ Aber die Rotorübe ist kein Lästermäulchen. Sie redet nicht über andere hinter ihren Blattrücken. Vielmehr schwebt sie über den Dingen.
 
 [XSHOT_DESCRIPTION_HEADER]
@@ -19511,6 +19512,7 @@ Der Rosen-Schwertkämpfer kann sich nähernde Zombies angreifen und mächtige An
 [ROSESWORDMAN_DESCRIPTION]
 {KEYWORD}Funktionen: {STAT} Führe mächtige Angriffe auf Zombies mit sehr niedrigem Lebenspunkt aus.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanze, starke Kampfkünste
+
 {FLAVOR}Dieser mysteriöse Schwertkämpfer aus dem Fernen Osten nennt sich Versailles Gao. Wenn er in der Taverne trinkt, prahlt er stets damit, ein Künstler zu sein, der seiner Zeit voraus ist. „Diese unhöflichen Typen verstehen überhaupt nicht, was ich ausdrücken will!“, sagte er immer empört: „Diese berühmte Sängerin Sonnenblume, ich habe einmal ein bahnbrechendes Porträt für sie gemalt, aber sie behauptete tatsächlich, mein Gemälde sei Mist! Dies ist mein einziges Porträt außer Rosen! Ich habe außerdem meine Initialen unter das Gemälde geschrieben. Ich wette, diese Signatur allein macht dieses Gemälde zu einem unbezahlbaren Schatz … Schluckauf~“
 
 [ROSESWORDMAN_TOOLTIP]
@@ -19527,8 +19529,8 @@ Der Zauberpilz kann Schürhaken abfeuern, um Zombies von vorne und hinten anzugr
 
 [MAGICSHROOM_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Kann Zombies von vorne oder hinten angreifen.
-
 {KEYWORD}Pflanzenmerkmale:{STAT}Pilzfamilie
+
 {FLAVOR}Bevor er zum schillernden Zauberpilz wurde, war der Zauberpilz nur der gewöhnlichste Pilz mit dem runden Kopf im Pilzdorf. Doch das änderte sich, als er mit der magischen Welt in Berührung kam. „Ja! Ich bin ein schillernder Stern!“ Zauberpilz spielte gekonnt mit dem Schürhaken in seiner Hand, was er für seine schönste Haltung hielt. Glaub bloß nicht, dass sich im Hut des Zauberpilzes ein Kaninchen verbirgt. Wenn du es öffnest, bist du erledigt!
 
 [MAGICSHROOM_TOOLTIP]
@@ -19546,6 +19548,7 @@ Der Kastanien-Trupp kann Kastaniensoldaten beschwören, um Zombies in einem best
 [CHESTNUT_DESCRIPTION]
 {KEYWORD}Merkmale: {STAT}Beschwört Kastaniensoldaten, die bestehen bleiben.
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze, sowohl offensiv als auch defensiv, Brüder in Gruppen.
+
 {FLAVOR}Kastanien leben gerne zusammen. Wenn jemand fragt, warum, erzählen sie stolz von einer Gruppe frischgebackener Kastanien, die sich in ein kleines Haus gequetscht, hart gearbeitet, sich gegenseitig unterstützt und geschworen haben, sich einen Namen zu machen. Natürlich werden sie am Ende der Geschichte nicht vergessen, sich über das schlechte Benehmen eines Kastanienjungen mit dem Spitznamen „hübscher Junge“ zu beschweren, der zu viel Platz einnahm … und Maozhu, ein Klassenkamerad, der sie schon lange kennt, sagte die Wahrheit: „Sie haben einfach kein Geld, um die Miete zu bezahlen.“
 
 [CHESTNUT_TOOLTIP]
@@ -19563,6 +19566,7 @@ Rafflesia kann Zombies angreifen, die sich im Hintergrund verstecken.
 [RAFFLESIA_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Zombies im Hintergrund angreifen
 {KEYWORD}Funktionen der Pflanze:{STAT}Kurz
+
 {FLAVOR}Rafflesia ist einer der beliebtesten Mitarbeiter im Park. Jedes Mal, wenn er auftaucht, ist er von Kindern umringt. Rafflesia genießt dieses Gefühl. „Ich kann Seifenblasen einfach super! Kinder sehen mir gerne dabei zu.“ So stellt er sich jedes Mal vor. Was er nicht weiß: Während die anderen nicken und lächeln, sind die meisten verwirrt: Ist Rafflesia nicht für den Verkauf von Luftballons zuständig?
 
 [RAFFLESIA_TOOLTIP]
@@ -19579,8 +19583,8 @@ Zyklon-Eichel kann die Zombies in der Reihe vor ihm angreifen und den Walross-Zo
 
 [ACORN_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Greift die Zombies in der Reihe vor sich an und bricht dem Walross-Zombies die Zähne.
-
 {KEYWORD}Pflanzenfunktionen:{STAT}Zyklon-Familie, Hasenzahnjunge
+
 {FLAVOR}Zyklon-Eichel ist sehr sportbegeistert.Sie konkurrierte einmal mit Boomerang um die Meisterschaft im Frisbee-Schauwettbewerb der Pflanzenspiele, doch leider besiegte ihn Boomerang mit seiner vierseitigen Frisbee-Technik. Um beim nächsten Sporttreffen eine gute Leistung abzuliefern, begann er, wie verrückt zu rennen. Er vertraute auf seine Frisbee-Erfahrung: Er konnte die Rotation bereits nutzen, um mit höchster Startgeschwindigkeit zu laufen – der Nebeneffekt ist, dass er nach einer gewissen Strecke zurückdreht.
 
 [ACORN_TOOLTIP]
@@ -19614,7 +19618,8 @@ Mangold-Mangler
 
 [CHARDGUARD_DESCRIPTION]
 {KEYWORD}Funktionen: {STAT} Schlägt Zombies bis zu dreimal.
-{KEYWORD}Pflanzenfunktionen: {STAT} Orangenpflanze
+{KEYWORD}Pflanzenfunktionen: {STAT} Orange-pflanze
+
 {FLAVOR}Vielleicht erinnerst du dich an den Mangold-Mangler aus seiner Zeit bei der WWF (der World Wirsing Federation). Wenn er im Ring stand – Junge, was für eine Show! Seine Moves! Sein Stil! Seine Haltung! Die Menge liebte ihn, und er war eine Zeitlang der Star. Alles lange her! Aber wenn du dem Mangler genau zusiehst, kannst du sehen, wie er seine alten Tricks auf die Zombies anwendet. Das gute alte Hau-sie-um-Manöver zum Beispiel – das funktioniert einfach immer.
 
 [CHARDGUARD_DESCRIPTION_HEADER]
@@ -19631,11 +19636,8 @@ Hurrikohl
 
 [HURRIKALE_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}Einfache Verwendung, sofortige Wirkung
-
 {KEYWORD}Besonderheit: {STAT}Kühlt getroffene Zombies herunter
-
 {KEYWORD}Besonderheit: {STAT}Bläst fliegende Zombies in der eigenen Reihe fort
-
 {KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanze
 
 {FLAVOR}Dem Hurrikohl geht so schnell nicht die Puste aus. Immerhin ist er der erste Posaunist des vielgerühmten Gemüsehausorchesters. Er spielt außerdem ganz gut Trompete, Saxophon und Tuba. Aber vor allem solltest du ihn mal am Flügelhorn hören, da geht er richtig ab.
@@ -19675,8 +19677,6 @@ Heiße Kartoffel
 
 {KEYWORD}Besonderheit: {STAT}Bringt einen Eisblock zum Schmelzen
 
-
-
 {FLAVOR}Wie kriegt die Heiße Kartoffel bloß ihre stets positiv-gepflegte Ausstrahlung hin? Nun: mit Yoga. Sie lässt keinen Kurs ausfallen. Außerdem meditiert sie. Nur so steht sie den harten Kampf gegen Zombies durch, ohne auszubrennen.
 
 [HOTPOTATO_DESCRIPTION_HEADER]
@@ -19711,7 +19711,7 @@ Der Höhlenzombie
 Der Pylon-Höhlenzombie
 
 [ZOMBIE_ICEAGE_ARMOR1_DESCRIPTION]
-{FLAVOR}Der Pylon-Höhlenzombie gilt als der Erfinder des Pylons. Er band ein Mammuthorn an ein Stück versteinertes Holz, und zack! Ein Pylon! Diese Erfindung sollte für die Zombies alles verändern. ALLES.
+Der Pylon-Höhlenzombie gilt als der Erfinder des Pylons. Er band ein Mammuthorn an ein Stück versteinertes Holz, und zack! Ein Pylon! Diese Erfindung sollte für die Zombies alles verändern. ALLES.
 
 [ZOMBIE_ICEAGE_ARMOR1_DESCRIPTION_HEADER]
 Mit seinem Mammuthorn-Pylon ist er doppelt so robust wie normale Höhlenzombies.
@@ -19766,8 +19766,6 @@ Faultier-Gargantua
 
 {KEYWORD}Besonderheit: {STAT}Schleudert Yeti-Wichte, wenn er Schaden nimmt
 
-
-
 {FLAVOR}Irgendwo hat sich der Faultier-Gargantua diese schrecklichen Yeti-Wichte eingefangen. Er hat alles versucht, um sie loszuwerden: Seife, Puder, eine Salbe aus Faultiersabber ... doch nichts funktionierte. Mittlerweile hat er sich an die juckenden Begleiter gewöhnt, auch wenn ihn ihr stetes Gezanke oft nervt. Wahrscheinlich würde er sie sogar vermissen, wenn sie nicht mehr da wären.
 
 [ZOMBIE_ICEAGE_GARGANTUAR_DESCRIPTION_HEADER]
@@ -19804,7 +19802,7 @@ Ein starker Zombie, der Eisblöcke über den Rasen schieben kann.
 Eiswiesel
 
 [ZOMBIE_ICEAGE_WEASEL_DESCRIPTION]
-{FLAVOR}Kri-KRIEEEE!
+Kri-KRIEEEE!
 
 [ZOMBIE_ICEAGE_WEASEL_DESCRIPTION_HEADER]
 Wenn sie einmal losgelassen werden, wetzen Wiesel wieselflink selbst über Eisschollen, um an deinem Hirn zu nagen.
@@ -19813,7 +19811,9 @@ Wenn sie einmal losgelassen werden, wetzen Wiesel wieselflink selbst über Eissc
 Wiesel-Horder
 
 [ZOMBIE_ICEAGE_WEASELHOARDER_DESCRIPTION]
- {KEYWORD}Besonderheit: {STAT}Lässt Zombie-Eiswiesel los, wenn er Schaden nimmt{FLAVOR}. Der Wiesel-Horder beansprucht für sich, den Song „Pop! Goes the Weasel“ geschrieben zu haben. Und verlangt seit Äonen Tantiemen dafür. Aber die anderen ignorieren ihn einfach. Sie wissen, wie unmusikalisch er ist. Nie würde er einen witzigen Song darüber hinkriegen, wie ein zu fest gedrücktes Nagetier klingt!
+{KEYWORD}Besonderheit: {STAT}Lässt Zombie-Eiswiesel los, wenn er Schaden nimmt
+
+{FLAVOR}. Der Wiesel-Horder beansprucht für sich, den Song „Pop! Goes the Weasel“ geschrieben zu haben. Und verlangt seit Äonen Tantiemen dafür. Aber die anderen ignorieren ihn einfach. Sie wissen, wie unmusikalisch er ist. Nie würde er einen witzigen Song darüber hinkriegen, wie ein zu fest gedrücktes Nagetier klingt!
 
 [ZOMBIE_ICEAGE_WEASELHOARDER_DESCRIPTION_HEADER]
 Zombie, der sich mit einem Rudel Schneewiesel in einem Klotz versteckt. Diese werden freigelassen, sobald der Klotz kaputt geht.
@@ -20824,7 +20824,7 @@ Du kannst sie bis zu dreimal verbessern!
 {NPC_ENTER:winnieicon}{PLAYFUL}Vorsicht! Die Zombiearmee kommt!
 
 [NARRATIVE_SHOWREGINSKY_INTRO_1]
-{NPC_ENTER:crazydaveicon}{SAY}Nur fliegende Pflanzen können im Himmelsbereich außerhalb des Decks gepflanzt werden.
+{NPC_ENTER:crazydaveicon}{SAY}Nur fliegende Pflanze können im Himmelsbereich außerhalb des Decks gepflanzt werden.
 
 [NARRATIVE_SHOWSHIPHEALTH_INTRO_1]
 {NPC_ENTER:crazydaveicon}{SAY}Wenn das Schiff angegriffen wird, verringert sich die Haltbarkeit. Ist die Haltbarkeit erschöpft, schlägt das Spiel fehl. Bitte schützt euer Schiff gut.
@@ -21046,7 +21046,7 @@ Bohnenkommando kann Kommandos starten, um Zombies in der Umgebung anzugreifen.
 
 [HORSEBEAN_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT} Starte ein das Bohnenkommando-Kommando, um Zombies in einem bestimmten Umkreis anzugreifen.
-{KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanze, fliegende Pflanzen, Brüder in Gruppen.
+{KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanze, fliegende Pflanze, Brüder in Gruppen.
 {FLAVOR}Als das Bohnenkommando die Flugschule besuchten, gewannen sie den Titel „Bester Pilot“. Nach ihrem Abschluss konnten sie es kaum erwarten, ein Flugteam zu bilden. Obwohl die  oft mit ihren Flugkünsten prahlen, scheint sich niemand zu trauen, ihr holpriges Mutterschiff zu betreten.
 
 [HORSEBEAN_TOOLTIP]
@@ -21077,7 +21077,7 @@ Blühende Landschaft
 Erhöht die Chance, dass die Weiße Pflaumenblüte ausgelöst wird, um 100%.
 
 [STORE_PRODUCT_AVATAR_WINTERSWEET]
-Ultimative Fähigkeit lässt mehr Pflaumenblüten auf den Gegner los.
+Spezialdünger-Fähigkeittive Fähigkeit lässt mehr Pflaumenblüten auf den Gegner los.
 
 [WINTERSWEET]
 Kirschblüte
@@ -21188,7 +21188,7 @@ Spin-Verstärkung
 Verstärkt den Effekt schneller Spins um 100%.
 
 [STORE_PRODUCT_AVATAR_PINEAPPLE]
-Ultimative Fähigkeit: Kugeln in mehrere Richtungen abprallen lassen.
+Spezialdünger-Fähigkeittive Fähigkeit: Kugeln in mehrere Richtungen abprallen lassen.
 
 [PINEAPPLE]
 Spinnende Ananas
@@ -21324,7 +21324,7 @@ Stink-Verstärkung
 Erhöht den Schaden der Stink-Aura um 50%.
 
 [STORE_PRODUCT_AVATAR_ENDURIAN]
-Ultimativ erhält eine stärkere Kristallrüstung.
+Spezialdünger-Fähigkeittiv erhält eine stärkere Kristallrüstung.
 
 [ENDURIAN]
 Endurian
@@ -21671,7 +21671,7 @@ Engelssternfrucht kann kleine Sterne in zehn Richtungen schießen.
 Engelssternfrucht-Kostüm
 
 [STORE_PRODUCT_AVATAR_PINKSTARFRUIT]
-Ultimativer Move, um dich zu drehen und eine stärkere Salve roter und blauer großer Sterne abzufeuern, um alle Zombies anzugreifen.
+Spezialdünger-Fähigkeittiver Move, um dich zu drehen und eine stärkere Salve roter und blauer großer Sterne abzufeuern, um alle Zombies anzugreifen.
 
 [STORE_PRODUCT_AVATAR_PINKSTARFRUIT_TITLE]
 Engelssternfrucht-Kostüm
@@ -21811,7 +21811,7 @@ Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner 
 Gatling-Erbsen-Kostüm
 
 [STORE_PRODUCT_AVATAR_GATLINGPEA]
-Ultimativer Move: Holt viele Maschinengewehre heraus und schießt drei Reihen Gegner mit aller Munition ab, einschließlich Eisgeschossen, Feuergeschossen und Irrlichtgeschossen.
+Spezialdünger-Fähigkeittiver Move: Holt viele Maschinengewehre heraus und schießt drei Reihen Gegner mit aller Munition ab, einschließlich Eisgeschossen, Feuergeschossen und Irrlichtgeschossen.
 
 [STORE_PRODUCT_AVATAR_GATLINGPEA_TITLE]
 Maschinengewehr-Erbsenkostüm
@@ -24936,7 +24936,7 @@ Schatzkiste konnte nicht abgerufen werden
 Neon-Mixtape-Tour
 
 [EIGHTIES_LAST]
-Neon-Mixtape-Tour – Ultimative Herausforderung
+Neon-Mixtape-Tour – Spezialdünger-Fähigkeittive Herausforderung
 
 [EIGHTIES_LAST1]
 Zeitreise – Neon-Mixtape-Tour
@@ -25633,7 +25633,7 @@ Bietet zusätzlichen Schutz vor Angriffen.
 Kühlt schneller ab.
 
 [BOOST_COMBAT_FIRST_STRIKE]
-Erhält kostenlose Energiebohnen-Effekte.
+Erhält kostenlose Spezialdünger-Fähigkeitn-Effekte.
 
 [BOOST_COMBAT_RAPID_FIRE]
 Greift schneller an.
@@ -25654,7 +25654,7 @@ Bietet zusätzlichen Schutz vor Zombies. Dieser Buff hält eine Stufe lang an.
 Kühlt schneller ab. Dieser Buff hält eine Stufe lang an.
 
 [BOOST_DETAIL_FIRST_STRIKE]
-Gibt beim Platzieren kostenlose Energiebohnen. Dieser Buff hält eine Stufe lang an.
+Gibt beim Platzieren kostenlose Spezialdünger-Fähigkeitn. Dieser Buff hält eine Stufe lang an.
 
 [BOOST_DETAIL_RAPID_FIRE]
 Greift schneller an. Dieser Buff hält eine Stufe lang an.
@@ -26983,7 +26983,7 @@ Die Große Nuss blockiert fliegende und springende Zombies! Zeig ihnen, wie toll
 Schalte die Große Nuss frei!
 
 [FINISH_COWBOY_20_DESC]
-Ziehe Energiebohnen per Drag & Drop darauf, um Pflanzenkarten sofort aufzufüllen! Schließe Tag 20 im Wilden Westen ab!
+Ziehe Spezialdünger-Fähigkeitn per Drag & Drop darauf, um Pflanzenkarten sofort aufzufüllen! Schließe Tag 20 im Wilden Westen ab!
 
 [FINISH_COWBOY_20_TITLE]
 Schalte die Sofortauffüllung frei!
@@ -27139,10 +27139,10 @@ Diese Pflanze schlägt Zombies wiederholt! Schließe den 13. Tag des geheimnisvo
 Schalte Caiwen frei!
 
 [FINISH_EGYPT_17_DESC]
-Behalte eine zusätzliche Energiebohne in einem Level! Sei bereit! Schließe den 17. Tag des geheimnisvollen Ägyptens ab!
+Behalte eine zusätzliche Spezialdünger-Fähigkeit in einem Level! Sei bereit! Schließe den 17. Tag des geheimnisvollen Ägyptens ab!
 
 [FINISH_EGYPT_17_TITLE]
-Schalte den Energiebohnen-Slot frei!
+Schalte den Spezialdünger-Fähigkeitn-Slot frei!
 
 [FINISH_EGYPT_19_DESC]
 Warum nur eine Erbse abschießen, wenn man mit zweien die doppelte Feuerkraft erreichen kann? Schließe Tag 19 von „Das geheimnisvolle Ägypten“ ab!
@@ -27259,7 +27259,7 @@ Jeder Blick der Lasergrasse kann alle Zombies auf der Route durchdringen! Zisch!
 Schalte Laserbohnen frei!
 
 [FINISH_FUTURE_13_DESC]
-Holografische Nüsse können mit der Zeit wiederhergestellt werden und blockieren alle Reihen mit Energiebohnen! Wahnsinn! Schließe Future World Tag 13 ab!
+Holografische Nüsse können mit der Zeit wiederhergestellt werden und blockieren alle Reihen mit Spezialdünger-Fähigkeitn! Wahnsinn! Schließe Future World Tag 13 ab!
 
 [FINISH_FUTURE_13_TITLE]
 Schalte Holografische Nüsse frei!
@@ -27331,13 +27331,13 @@ Halte die Stellung und noch besser: Schlage sie alle zurück! Beet Guard ist ber
 Schalte Beet Guard frei!
 
 [FINISH_ICEAGE_16_DESC]
-Greife die fiesen Riesenzombies in Ice Age Tag 16 an und gewinne einen Zeitschlüssel zum Zonenwechsel!
+Greife die fiesen Gargantua zombies in Frostbeulen Höhlen Tag 16 an und gewinne einen Zeitschlüssel zum Welten-wechsel!
 
 [FINISH_ICEAGE_16_TITLE]
 Gewinne einen Zeitschlüssel!
 
 [FINISH_ICEAGE_19_DESC]
-Willst du ein paar Zombies betäuben? Betäubungszwiebeln sind die Lösung! Schließe Ice Age Tag 19 ab!
+Willst du ein paar Zombies betäuben? Zwierbeln sind die Lösung! Schließe Ice Age Tag 19 ab!
 
 [FINISH_ICEAGE_19_TITLE]
 Schalte die Dizzy Onion frei!
@@ -33080,7 +33080,7 @@ PHATBEET kann Schallwellen aussenden, die Zombies in der Umgebung Schaden zufüg
 PHATBEET-Kostüm
 
 [STORE_PRODUCT_AVATAR_PHATBEET]
-Die ultimative Fähigkeit kann Zombies wegschleudern.
+Die Spezialdünger-Fähigkeit kann Zombies wegschleudern.
 
 [STORE_PRODUCT_AVATAR_PHATBEET_TITLE]
 PHATBEET-Kostüm
@@ -33131,7 +33131,7 @@ Der lauernde Sellerie kann sich unter der Erde verstecken und Zombies von hinten
 Sellerie-Kostüm
 
 [STORE_PRODUCT_AVATAR_CELERYSTALKER]
-Die ultimative Fähigkeit kann zusätzlichen Sellerie produzieren.
+Die Spezialdünger-Fähigkeit kann zusätzlichen Sellerie produzieren.
 
 [STORE_PRODUCT_AVATAR_CELERYSTALKER_TITLE]
 Sellerie-Kostüm
@@ -33155,7 +33155,7 @@ Der Sporenpilz kann Sporen abfeuern, um Zombies anzugreifen, und beim Töten von
 Sporenpilzkostüm
 
 [STORE_PRODUCT_AVATAR_SPORESHROOM]
-Kann beim Einsatz der Ultima einen zusätzlichen Sporenangriff starten.
+Kann beim Einsatz der Spezialdünger-Fähigkeit einen zusätzlichen Sporenangriff starten.
 
 [STORE_PRODUCT_AVATAR_SPORESHROOM_TITLE]
 Sporenpilzkostüm
@@ -35145,7 +35145,7 @@ Beim Einsatz der ultimativen Fähigkeit erhältst du ein goldenes Fossil zum Sch
 Primitives Kartoffel-Outfit
 
 [STORE_PRODUCT_AVATAR_PRIMALPOTATOMINE]
-Die ultimative Fähigkeit spaltet eine zusätzliche primitive Kartoffelmine.
+Die Spezialdünger-Fähigkeit spaltet eine zusätzliche primitive Kartoffelmine.
 
 [STORE_PRODUCT_AVATAR_PRIMALRAFFLESIA_TITLE]
 Primitives Rafflesia-Outfit
@@ -35163,7 +35163,7 @@ Wenn es brüllt, schockiert es alle Zombies.
 Meister-Stockkostüm
 
 [STORE_PRODUCT_AVATAR_DRAGONCANE]
-Die ultimative Fähigkeit verursacht durchgehend explosiven Schaden.
+Die Spezialdünger-Fähigkeit verursacht durchgehend explosiven Schaden.
 
 [PLANTING_NOT_ON_DINOEGG]
 Kann nicht auf Dinosaurier-Eiern gepflanzt werden.
@@ -35441,7 +35441,7 @@ Jedes Zaubern von Zauberhazel kann einen Abpraller auslösen, der denselben Effe
 Hamamelis-Kostüm
 
 [STORE_PRODUCT_AVATAR_WITCHHAZEL]
-Wenn die Hexe ihre ultimative Fähigkeit einsetzt, setzt auch die Pflanze, die sie erhält, ihre ultimative Fähigkeit ein.
+Wenn die Hexe ihre Spezialdünger-Fähigkeit einsetzt, setzt auch die Pflanze, die sie erhält, ihre Spezialdünger-Fähigkeit ein.
 
 [ELECTRICCURRANT_SKILL_LEVEL1]
 Hochspannungsstrom
@@ -36334,7 +36334,7 @@ Verschießt elektrische Erbsen
 Elektro-Erbsenkanone Kostüm
 
 [STORE_PRODUCT_AVATAR_ELECTRICPEASHOOTER]
-Die ultimative Fähigkeit kann zwei weitere lila Elektrobälle freisetzen.
+Die Spezialdünger-Fähigkeit kann zwei weitere lila Elektrobälle freisetzen.
 
 [STORE_PRODUCT_AVATAR_ELECTRICPEASHOOTER_TITLE]
 Elektro-Erbsenkanone Kostüm
@@ -36378,7 +36378,7 @@ Verschießt durchschlagende, verlangsamende Projektile
 Schatten-Erbsenkanone Kostüm
 
 [STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER]
-Die ultimative Fähigkeit kann zwei weitere lila Elektrobälle freisetzen.
+Die Spezialdünger-Fähigkeit kann zwei weitere lila Elektrobälle freisetzen.
 
 [STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER_TITLE]
 Schatten-Erbsenkanonen Kostüm
@@ -38354,7 +38354,7 @@ Die ultimative Tomate kann durch wiederholtes Pflanzen stärker werden.
 Tomaten der Stufen 2 und 3 behalten nach dem Ausführen ihrer ultimativen Attacken ihren Status als Tomaten der Stufe 1.
 
 [STORE_PRODUCT_AVATAR_ULTOMATO_TITLE]
-Ultimatives Tomaten-Outfit
+Spezialdünger-Fähigkeittives Tomaten-Outfit
 
 [ULTOMATO_SKILL_LEVEL1]
 Schnellladung
@@ -38616,7 +38616,7 @@ Eine Pflanze, die aus der Ferne angreifen und aus nächster Nähe heilen kann.
 Königliches Trompeter-Outfit
 
 [STORE_PRODUCT_AVATAR_TULIPTRUMPETER]
-Die ultimative Fähigkeit fügt Zielen im Umkreis von 3x3 Schaden zu und heilt den Gegner.
+Die Spezialdünger-Fähigkeit fügt Zielen im Umkreis von 3x3 Schaden zu und heilt den Gegner.
 
 [STORE_PRODUCT_AVATAR_TULIPTRUMPETER_TITLE]
 Königliches Trompeter-Outfit
@@ -38677,7 +38677,7 @@ Nach der Explosion der Heißen Dattel bleiben kurzzeitig Funken auf dem Boden zu
 Heiße Dattel Kostüm
 
 [STORE_PRODUCT_AVATAR_HOTDATE]
-Die ultimative Fähigkeit macht dich 3 Sekunden lang unbesiegbar.
+Die Spezialdünger-Fähigkeit macht dich 3 Sekunden lang unbesiegbar.
 
 [ICYCURRANT]
 Eisige-Johannisbeere
@@ -38777,7 +38777,7 @@ Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in
 Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
 
 [STORE_PRODUCT_AVATAR_WAXGOURD]
-Die ultimative Fähigkeit fügt nach der Landung zusätzlichen Schaden hinzu.
+Die Spezialdünger-Fähigkeit fügt nach der Landung zusätzlichen Schaden hinzu.
 
 [STORE_PRODUCT_AVATAR_WAXGOURD_TITLE]
 Wachsmelonen Kostüm
@@ -38821,7 +38821,7 @@ Schießt rollende Bärentraubengranaten ab, um eine Reihe von Zombies anzugreife
 Schießt rollende Bärentraubengranaten ab, um eine Reihe von Zombies anzugreifen.
 
 [STORE_PRODUCT_AVATAR_BEARBERRY]
-Die ultimative Fähigkeit ist eine Bärentraubengranatengranat mit Feuer, die höheren Schaden verursacht.
+Die Spezialdünger-Fähigkeit ist eine Bärentraubengranatengranat mit Feuer, die höheren Schaden verursacht.
 
 [STORE_PRODUCT_AVATAR_BEARBERRY_TITLE]
 Bärentraubenmörser Kostüm
@@ -39420,7 +39420,7 @@ Unterstütze eine Pflanze vor dir, erhöhe ihre Angriffskraft und stelle Gesundh
 Unterstütze eine Pflanze vor dir, erhöhe ihre Angriffskraft und stelle Gesundheit wieder her.
 
 [STORE_PRODUCT_AVATAR_HOYACORDATA]
-Alle Pflanzen mit ultimativen Effekten haben eine 50%ige Chance, direkt Energiebohnen freizusetzen. Es können jedoch maximal 2 ausgelöst werden.
+Alle Pflanzen mit ultimativen Effekten haben eine 50%ige Chance, direkt Spezialdünger-Fähigkeitn freizusetzen. Es können jedoch maximal 2 ausgelöst werden.
 
 [STORE_PRODUCT_ AVATAR_HOYACORDATA_TITLE]
 Fan Heart Ye Lan Kostüm
@@ -39444,7 +39444,7 @@ Höhepunkt
 Nach jedem Jubelschrei verfällt er in einen fanatischeren Zustand, mit einer zusätzlichen Erhöhung von 100 % Angriffsgeschwindigkeit und Unbesiegbarkeit.
 
 [HOYACORDATA_NEW_SKILL_LEVEL1_DES]
-Fan Xin Ye Lan schwenkt den Leuchtstab zum 10. Jahrestag und jubelt der Pflanze ein Feld vor ihm ununterbrochen zu, wodurch sich ihre Angriffskraft und ihre Lebensregeneration erhöhen. Die Erhöhung der Angriffskraft wird von der Angriffskraft von Xin Ye Lan und der Zielpflanze beeinflusst, die Höhe der Lebensregeneration von Xin Ye Lans maximaler Gesundheit. Nach jedem Jubel verfällt Xin Ye Lan in einen Ruhezustand. Während des Jubels, wenn die Pflanze vor ihm die Energiebohne-Attacke auslöst, besteht die Chance, eine Zugabe auszulösen. Diese führt dazu, dass sie die Energiebohne-Attacke nach dem Ende der Attacke erneut auslöst.
+Fan Xin Ye Lan schwenkt den Leuchtstab zum 10. Jahrestag und jubelt der Pflanze ein Feld vor ihm ununterbrochen zu, wodurch sich ihre Angriffskraft und ihre Lebensregeneration erhöhen. Die Erhöhung der Angriffskraft wird von der Angriffskraft von Xin Ye Lan und der Zielpflanze beeinflusst, die Höhe der Lebensregeneration von Xin Ye Lans maximaler Gesundheit. Nach jedem Jubel verfällt Xin Ye Lan in einen Ruhezustand. Während des Jubels, wenn die Pflanze vor ihm die Spezialdünger-Fähigkeit-Attacke auslöst, besteht die Chance, eine Zugabe auszulösen. Diese führt dazu, dass sie die Spezialdünger-Fähigkeit-Attacke nach dem Ende der Attacke erneut auslöst.
 
 [HOYACORDATA_NEW_SKILL_LEVEL2_DES]
 Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zugabe um 10 % erhöht.
@@ -39453,7 +39453,7 @@ Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zug
 Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zugabe um 10 % erhöht.
 
 [HOYACORDATA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohne-Attacke direkt auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit-Attacke direkt auszulösen!
 
 [HOYACORDATA_NEW_SKILL_LEVEL5_DES]
 Nach jeder Unterstützung für einen bestimmten Zeitraum wird der Zustand enthusiastischer, mit einer zusätzlichen Erhöhung der Angriffsgeschwindigkeit und Unbesiegbarkeit um 100 %.
@@ -39462,7 +39462,7 @@ Nach jeder Unterstützung für einen bestimmten Zeitraum wird der Zustand enthus
 Wendet einen stärkeren Unterstützungseffekt auf alle Pflanzen im Umkreis von 3×3 um sich herum an.
 
 [HOYACORDATA_AVATAR_PLANTFOOD_DESCRIPTION]
-Alle Pflanzen mit dem ultimativen Effekt haben eine 50%ige Chance, die ultimative Energiebohne direkt freizusetzen. Es können jedoch maximal 2 Energiebohnen ausgelöst werden.
+Alle Pflanzen mit dem ultimativen Effekt haben eine 50%ige Chance, die ultimative Spezialdünger-Fähigkeit direkt freizusetzen. Es können jedoch maximal 2 Spezialdünger-Fähigkeitn ausgelöst werden.
 
 [PEAVINE] 
 Erbsenranke
@@ -39584,7 +39584,7 @@ Die Angriffsreichweite der Maiglöckchenbiene erhöht sich um 1 Raster, die Anza
 Die Angriffsreichweite der Maiglöckchenbiene erhöht sich erneut um 1 Raster, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Energiebohnen direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Spezialdünger-Fähigkeitn direkt freizusetzen!
 
 [MAYBEE_NEW_SKILL_LEVEL5_DES]
 Die von Maiglöckchen-Biene gestarteten Bienen haben eine 25%ige Chance auf Ionisierung, normale Bienen eine 70%ige Chance auf Ionisierung, wenn sie durch Kraftwerke fliegen. Die Angriffsmethode ionisierter Bienen ändert sich zum Abfeuern kleiner Laser. Beim Angriff auf Zombies können sie diese mit statischer Elektrizität beaufschlagen. Wird ein Zombie unter statischer Elektrizität durch Blitzschlag beschädigt, wird der statische Elektrizitätsangriff ausgelöst, der zusätzlich 120 festen Schaden und ^ff9600^ Lähmung Ⅰ^oldclr^ für 1 Sekunde verursacht. Der statische Elektrizitätsangriff kann einmal pro Sekunde ausgelöst werden.
@@ -39650,7 +39650,7 @@ Die Brennintensität wird erhöht, und es besteht eine 40%ige Chance, eine blaue
 Die Brennintensität wird erneut erhöht, und es besteht eine zusätzliche 20%ige Chance, eine violette Flammenölkugel zu werfen, die die Feuersäule zu einer violetten Feuersäule mit dreifachem Schaden anreichern kann.
 
 [RAPEFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Energiebohnen-Fähigkeit direkt freizusetzen! Die Wahrscheinlichkeit, mit normalen Angriffen brennende Ölkugeln zu werfen, erhöht sich um 20 %.
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen! Die Wahrscheinlichkeit, mit normalen Angriffen brennende Ölkugeln zu werfen, erhöht sich um 20 %.
 
 [RAPEFLOWER_NEW_SKILL_LEVEL5_DES]
 Die Angriffsmethode ändert sich: Es können größere Ölkugeln verdichtet werden, wodurch brennende Ölkugeln abgefeuert werden. Nach dem Auftreffen werden alle Zombies im Bereich des Einzelgitters bespritzt, wodurch sie direkt in den Brennzustand übergehen oder eine Feuersäule erzeugen. Nach der Entzündung sind die Zombies 10 % anfällig für Feuer.
@@ -39716,7 +39716,7 @@ Wenn die Gesundheit des Zombies, der vom fliegenden Schwert getroffen wird, weni
 Die Reichweite des fliegenden Schwertes wurde auf ein einzelnes Raster geändert.
 
 [DRACAENA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Energiebohne direkt auszulösen!
+Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [DRACAENA_NEW_SKILL_LEVEL5_DES]
 Beim Angriff hat der Schwertblatt-Drachenblutbaum eine 30-prozentige Chance, das fliegende Schwert hinter ihm und das Schwert in seiner Hand zu manipulieren und zu einem großen Schwert zu verschmelzen. Nach Abschluss der Fusion fliegt das große Schwert nach vorne und durchdringt alle Zombies auf der Route. Dabei verursacht es jeweils 1500 Schadenspunkte. Beträgt die Gesundheit des angegriffenen Zombies weniger als 50 % der Gesamtgesundheit, wird er direkt getötet.
@@ -39783,7 +39783,7 @@ Wenn Sparta einen Zombie tötet, verfällt er in Raserei. Das Angriffsintervall 
 Im Raserei-Zustand verkürzt sich das Angriffsintervall erneut um 0,25 Sekunden. Es hält 5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 9 Sekunden.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den Energiebohnen-Big-Move direkt freizusetzen! Die Abkühlzeit für das Pflanzen von Pflanzen beträgt 6 Sekunden.
+Beim Pflanzen besteht die Chance, den Spezialdünger-Fähigkeitn-Big-Move direkt freizusetzen! Die Abkühlzeit für das Pflanzen von Pflanzen beträgt 6 Sekunden.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL5_DES]
 Wenn sich in den beiden Feldern vor dem Spartanischen Bambus keine Zombies befinden und sich zwei Felder entfernt Zombies befinden, wirf den Speer, um den Zombies Schaden zuzufügen. Die Abkühlzeit beträgt 6 Sekunden. Sobald der Spartanische Bambus ein quadratisches Gitter bildet, wird eine Kampfformation gebildet. Die Lebenspunkte und Angriffskraft des Spartanischen Bambus in der Kampfformation werden verbessert. Der Speerwurf wird alle 6 Sekunden abgefeuert und zielt auf das Feld mit den meisten Zombies in den beiden Reihen vor der Kampfformation. Er verursacht mehrfachen Schaden im Zielbereich von 3 x 3. Die Anzahl der Segmente hängt vom Angriffsintervall der Pflanze ab. Die Abkühlzeit für das Pflanzen von Pflanzen beträgt nun 3 Sekunden.
@@ -40239,7 +40239,7 @@ Verbessertes Magazin
 Erhöht Magazinkapazität und Feuerrate um 40%.
 
 [HELICONIAGUNNER_SKILL_LEVEL5]
-Ultimative Waffe
+Spezialdünger-Fähigkeittive Waffe
 
 [HELICONIAGUNNER_SKILL_LEVEL5_DES]
 Nach jedem Magazinschuss verwandelt sich das Rohr in einen Raketenwerfer, der drei automatische Zielsuchraketen abfeuert. Trifft die Rakete den Zombie, explodiert sie und verursacht Schaden in Höhe von 3×3.
@@ -40581,7 +40581,7 @@ Das Ende des Drahtes kann andere Kraftwerke angreifen. Beim Anvisieren anderer e
 Elektrisches Gelsemium-Kostüm
 
 [STORE_PRODUCT_AVATAR_WIREGELSEMIUM]
-Ultimativer Schaden um 50% erhöht.
+Spezialdünger-Fähigkeittiver Schaden um 50% erhöht.
 
 [STORE_PRODUCT_AVATAR_WIREGELSEMIUM_TITLE]
 Elektrisches Gelsemium-Kostüm
@@ -41056,7 +41056,7 @@ Wasserrankenkostüm
 Wasserrankenkostüm
 
 [STORE_PRODUCT_AVATAR_AQUAVINE]
-Die ultimative Fähigkeit ist das Abfeuern eines Wassertornados, der den Zombie nach dem Aufprall 3 Sekunden lang betäubt.
+Die Spezialdünger-Fähigkeit ist das Abfeuern eines Wassertornados, der den Zombie nach dem Aufprall 3 Sekunden lang betäubt.
 
 [AQUAVINE_NEW_SKILL_LEVEL1_DES]
 Wasserranken wählen ihren Angriffsmodus je nach Pflanzenart. Bei jedem Angriff besteht eine 15%ige Chance, eine Wasserbombe abzufeuern, die kleine oder mittelgroße Zombies abwehrt.
@@ -41077,7 +41077,7 @@ Nach jeweils fünf Angriffen löst der nächste Angriff einen Wassertornado aus,
 Wasserranken spucken Wasserwellen, die Zombies in derselben Reihe Schaden zufügen, wenn sie sich auf der Erde befinden, sowie Zombies in Wassergestalt. Sie stoßen alle kleinen und mittelgroßen Zombies auf das letzte Feld zurück.
 
 [AQUAVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Die ultimative Fähigkeit ist ein Wassertornado, der Zombies nach einem Treffer 3 Sekunden lang betäubt.
+Die Spezialdünger-Fähigkeit ist ein Wassertornado, der Zombies nach einem Treffer 3 Sekunden lang betäubt.
 
 [ADVICE_PLANT_NOT_WITH_AQUAVINE]
 Kann nicht auf Aquaranken gepflanzt werden.
@@ -41399,7 +41399,7 @@ Der Maple Shadow Schwertkämpfer hat die Chance, ^FF0000^Maple Shadow・Swallow 
 Maple Shadow Schwertkämpfer-Kostüm
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE]
-Nachdem die ultimative Fähigkeit Schaden verursacht hat, fügt sie den getroffenen Zombies zusätzlich 3 Verzögerungsschaden zu.
+Nachdem die Spezialdünger-Fähigkeit Schaden verursacht hat, fügt sie den getroffenen Zombies zusätzlich 3 Verzögerungsschaden zu.
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE_TITLE]
 Maple Shadow Schwertkämpfer-Kostüm
@@ -41430,7 +41430,7 @@ Der Maple Shadow Swordsman hat die Chance, ^FF0000^Maple Shadow Swallow Return^o
 Nach dem Aufladen schießt der Maple Shadow Swordsman eine kreisförmige Schwertenergie ab, die Zombies, die er berührt, X Schaden zufügt.
 
 [MAPLEBLADE_AVATAR_PLANTFOOD_DESCRIPTION]
-Nachdem die ultimative Fähigkeit Schaden verursacht hat, fügt sie den getroffenen Zombies zusätzlich 3 verzögerten Schaden zu.
+Nachdem die Spezialdünger-Fähigkeit Schaden verursacht hat, fügt sie den getroffenen Zombies zusätzlich 3 verzögerten Schaden zu.
 
 [RHEUMNOBILE]
 Tibet-Rhabarber
@@ -41572,19 +41572,19 @@ Einfache einmalige Kontrolle Pflanze, 100% Chance, bei Landung groß zu wirken
 IceBurg Plus Edition
 
 [PARALLEL_ICEBURG_DESCRIPTION]
-Einfache Pflanze zur einmaligen Kontrolle, 100% Chance, bei Landung die ultimative Fähigkeit einzusetzen
+Einfache Pflanze zur einmaligen Kontrolle, 100% Chance, bei Landung die Spezialdünger-Fähigkeit einzusetzen
 
 [PARALLEL_BONKCHOY]
 42. Caiwen
 
 [PARALLEL_BONKCHOY_TOOLTIP]
-Einfache Pflanze zum Sammeln von Monstern, 100% Chance, bei Landung die ultimative Fähigkeit einzusetzen. Die ultimative Fähigkeit ist der Effekt der ultimativen Kostümfähigkeit.
+Einfache Pflanze zum Sammeln von Monstern, 100% Chance, bei Landung die Spezialdünger-Fähigkeit einzusetzen. Die Spezialdünger-Fähigkeit ist der Effekt der ultimativen Kostümfähigkeit.
 
 [PARALLEL_BONKCHOY_DESCRIPTION_HEADER]
 Obwohl die Anwendung einfach ist, hat sie eine längere Abklingzeit. Sei also vorsichtig beim Einsatz. Verwende das richtige Timing.
 
 [PARALLEL_BONKCHOY_DESCRIPTION]
-Einfache Pflanze zum Sammeln von Monstern, 100% Chance, bei Landung die ultimative Fähigkeit einzusetzen. Die ultimative Fähigkeit ist der Effekt der Ultimative Fähigkeit zur Dekoration
+Einfache Pflanze zum Sammeln von Monstern, 100% Chance, bei Landung die Spezialdünger-Fähigkeit einzusetzen. Die Spezialdünger-Fähigkeit ist der Effekt der Spezialdünger-Fähigkeittive Fähigkeit zur Dekoration
 
 [PARALLEL_MOONFLOWER]
 Mondblume Nr. 42
@@ -41674,13 +41674,13 @@ Schadensverstärkende Hilfspflanzen
 Nr. 42 Primitive Sonnenblume
 
 [PARALLEL_PRIMALSUNFLOWER_TOOLTIP]
-Ultimative Sonnenscheinpflanze, produziert jedes Mal 1000 Sonnen.
+Spezialdünger-Fähigkeittive Sonnenscheinpflanze, produziert jedes Mal 1000 Sonnen.
 
 [PARALLEL_PRIMALSUNFLOWER_DESCRIPTION_HEADER]
 Primitive Sonnenblume produziert große Sonnen anstelle von gewöhnlichen Sonnen.
 
 [PARALLEL_PRIMALSUNFLOWER_DESCRIPTION]
-Ultimative Sonnenscheinpflanze, produziert jedes Mal 1000 Sonnen. Zeit
+Spezialdünger-Fähigkeittive Sonnenscheinpflanze, produziert jedes Mal 1000 Sonnen. Zeit
 
 [PARALLEL_PRIMALPEASHOOTER]
 Nr. 42 Primitive Erbsenschleuder
@@ -41731,7 +41731,7 @@ Nicht so widerstandsfähig wie die primitive Nusswand, aber widerstandsfähiger.
 Nicht so widerstandsfähig wie die primitive Nusswand, aber widerstandsfähiger als die Nusswand.
 
 [PARALLEL_PUMPKIN_DESCRIPTION_HEADER] UMPKIN_DESCRIPTION]
-Mit der Landung und dem Einsatz der Ultima können drei Hämmer des Riesen geblockt werden.
+Mit der Landung und dem Einsatz der Spezialdünger-Fähigkeit können drei Hämmer des Riesen geblockt werden.
 
 [PARALLEL_NEKOTAIL]
 Katzenschwanz Nr. 42
@@ -41802,7 +41802,7 @@ Kürbise können auf andere Pflanzen gepflanzt werden, um eine robuste zusätzli
 Kürbise können auf andere Pflanzen gepflanzt werden, um eine robuste zusätzliche Panzerung zu erhalten.
 
 [STORE_PRODUCT_AVATAR_PUMPKIN]
-Ultimative Fähigkeit für eine stärkere Kristallrüstung.
+Spezialdünger-Fähigkeittive Fähigkeit für eine stärkere Kristallrüstung.
 
 [STORE_PRODUCT_AVATAR_PUMPKIN_TITLE]
 Kürbis-Kostüm
@@ -42210,7 +42210,7 @@ In Schattengestalt werden Zombies durch das Aufladen der Blätter verwundbar.
 In Schattengestalt werden Zombies durch das Aufladen der Blätter verwundbar.
 
 [STORE_PRODUCT_AVATAR_SHADOWVANILLA]
-Die ultimative Fähigkeit von Shadow Pod in Normalgestalt erzeugt Schattenenergie, während die ultimative Fähigkeit in Schattengestalt zusätzlich einen Kreuzwirbel ausstößt.
+Die Spezialdünger-Fähigkeit von Shadow Pod in Normalgestalt erzeugt Schattenenergie, während die Spezialdünger-Fähigkeit in Schattengestalt zusätzlich einen Kreuzwirbel ausstößt.
 
 [STORE_PRODUCT_AVATAR_SHADOWVANILLA_TITLE]
 Schattenkapsel-Kostüm
@@ -42884,6 +42884,7 @@ Laser-Kronblume
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Eigenschaften: {STAT}Feuert kontinuierlich Laser ab, deren Schaden mit der Zeit zunimmt
 {KEYWORD}Pflanzeneigenschaften: {STAT}Lila Pflanze
+
 {FLAVOR}Die Knospen der Kronenblume enthalten unendliche Energie. Solange du auf das Ziel zielst und ihm etwas Zeit gibst, kann sie furchterregende Hochenergielaser abfeuern.
 
 [CROWNFLOWER_DESCRIPTION_HEADER]
@@ -42929,6 +42930,7 @@ Zwillingskaninchen
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Funktionen: {STAT}Fliege die Zombies vor dir in derselben Reihe hoch
 {KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanze
+
 {FLAVOR}Zwillingskaninchen mögen es nicht, Zwillingskaninchen genannt zu werden, da sie der luftleeren Kultivierungstechnologie auf dem Mond sehr skeptisch gegenüberstehen und große Angst haben, eines Tages zum Mond geschickt zu werden.
 
 [JEWELRABBIT_DESCRIPTION_HEADER]
@@ -42965,7 +42967,7 @@ Zwillingskaninchen-Outfit
 Zwillingskaninchen-Outfit
 
 [STORE_PRODUCT_AVATAR_JEWELRABBIT]
-Ultimative Fähigkeitenreichweite auf 5×5 erweitert
+Spezialdünger-Fähigkeittive Fähigkeitenreichweite auf 5×5 erweitert
 
 [BURDOCKBATTER]
 Burdock Batter
@@ -42974,6 +42976,7 @@ Burdock Batter
 {KEYWORD}Reichweite: {STAT}1 Feld voraus
 {KEYWORD}Eigenschaften: {STAT}Kann durchdringende Erbsengeschosse abfeuern, die größeren Schaden und bessere Kontrolle verursachen.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Braune Pflanze
+
 {FLAVOR}Profi-Baseballspieler zu werden, war schon immer der Traum von Burdock Batters, doch kein Team traut sich, sie zu rekrutieren, da sie zwei Spielfelder belegen.
 
 [BURDOCKBATTER_DESCRIPTION_HEADER]
@@ -43019,6 +43022,7 @@ Zapfe der elektrischen Zeder
 {KEYWORD}Reichweite: {STAT}1 Zeile voraus
 {KEYWORD}Merkmale: {STAT}Elektrizität aufnehmen und speichern, dann zu einem elektrischen Ring verdichten und wieder abgeben
 {KEYWORD}Pflanzenmerkmale: {STAT}100.000 Volt
+
 {FLAVOR}Der Zapfen der elektrischen Zeder nutzt Elektrizität auf einzigartige Weise, und die Speicherung von Elektrizität in seinem Körper ist seine besondere Fähigkeit. Dies verdankt er seiner Fähigkeit, Elektrizität aufzunehmen. Diese Entdeckung begann mit einer Umarmung mit der elektrischen Stachelbeere, und dann verliebte sich der Zapfen der elektrischen Zeder in das Gefühl des elektrischen Stroms, der seinen Körper durchströmte. So sieht man ihn heute oft die energiespendende Mangostane imitieren und täglich fluchen.
 
 [DEODARCEDAR_DESCRIPTION_HEADER]
@@ -43064,6 +43068,7 @@ Storchschnabel-Fechter
 {KEYWORD}Reichweite: {STAT}2 Felder vorwärts
 {KEYWORD}Funktionen: {STAT}Sprintet ein Feld vorwärts, um anzugreifen, und springt dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
 {KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanze
+
 {FLAVOR}Das einzige Mal, dass der Storchschnabel-fechter mit Pflanzen konkurrierte, war in einer durchzechten Nacht. Er forderte den Rosenschwertkämpfer zu einem Fechtkampf heraus. Niemand weiß, was in dieser Nacht geschah, aber der Storchschnabel-fechter hat seitdem aufgehört zu trinken.
 
 [GERANIIFENCER_DESCRIPTIO N_HEADER]
@@ -43101,7 +43106,6 @@ Storch-Fechter-Kostüm
 
 [STORE_PRODUCT_AVATAR_GERANIIFENCER]
 Nach dem Ende der großen Attacke verursacht er zusätzlichen Schaden und lässt den Zombie schweben.
-
 
 [VAMPORCINI]
 Vampignon
@@ -43156,6 +43160,7 @@ Erbsenapothekerin
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Funktionen: {STAT}Wirft eine verwandelnde Erbse aus, um Zombies in Erbsen zu verwandeln. Kann nur Zombies verwandeln, die zwei Level höher sind als der Apotheker.
 {KEYWORD}Pflanzenfunktionen: {STAT}Lila Pflanzen
+
 {FLAVOR}Die Erbsenapothekerin liebt Erbsen sehr und möchte deshalb alles in Erbsen verwandeln. Doch sie vergass eines: Je mehr Erbsen erscheinen, desto mehr Erbsen werden auch gegessen.
 
 [BEANCHEMIST_DESCRIPTION_HEADER]
@@ -43201,6 +43206,7 @@ Fleißiges Lieschen Schützin
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Funktionen: {STAT}Spuckt Farbkugeln aus, um Zombies vor ihnen anzugreifen. Nach einer Weile färbt es sich ein und verschießt stärkere Kugeln.
 {KEYWORD}Pflanzenfunktionen: {STAT}weiße Pflanze, rosa Pflanzen, orange Pflanzen, violette Pflanzen
+
 {FLAVOR} Obwohl die Fleißiges Lieschen Schützin, welche schon immer eine Top-Make-up-Artistin werden wollte, eine gewisse Popularität erlangte, indem sie ständig Fotos von sich in verschiedenen Farben in sozialen Netzwerken hochlud, ahnte sie nicht, dass die Leute sie tatsächlich mochten, als sie weiß war.
 
 [IMPATIENSSHOOTER_DESCRIPTION_HEADER]
@@ -43249,6 +43255,7 @@ Tigerkopfpilz
 {KEYWORD}Reichweite: {STAT}2×3 Reichweite nach vorne
 {KEYWORD}Merkmale: {STAT}Er stößt ein Brüllen aus, um die Zombies vor ihm zu betäuben, und schickt dann mehrere Phantome aus, die die Zombies aus verschiedenen Richtungen angreifen.
 {KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze
+
 {FLAVOR} Der Tigerkopfpilz besiegt Gegner mit blitzschnellen Combos und kann sich im Kampf frei bewegen. Wenn er nach Hause kommt, sucht er gerne im Internet nach seinen Lieblingskatzenvideos. Es heißt, er habe Zehntausende hochwertiger Katzenvideos, sortiert nach Arten, auf seinem Computer gespeichert.
 
 [TIGERSTOOL_DESCRIPTION_HEADER]
@@ -43264,7 +43271,7 @@ Betäubt die Zombies vor euch mit Brüllen und schickt dann Phantome los, um sie
 Betäubt die Zombies vor euch mit Brüllen und schickt dann Phantome los, um sie anzugreifen.
 
 [STORE_PRODUCT_AVATAR_TIGERSTOOL]
-Die ultimative Fähigkeit fügt zwei Klauenangriffe hinzu, die nach dem Beißen etwas weniger Schaden verursachen.
+Die Spezialdünger-Fähigkeit fügt zwei Klauenangriffe hinzu, die nach dem Beißen etwas weniger Schaden verursachen.
 
 [TIGERSTOOL_SKILL_LEVEL1]
 Gen Verstärkung
@@ -43288,7 +43295,7 @@ Der Tigerkopfpilz entwickelt sich zu Gift. Jeder Angriff hat die Chance, den Zom
 Tigerkopfpilz-Kostüm
 
 [STORE_PRODUCT_AVATAR_TIGERSTOOL]
-Die ultimative Fähigkeit fügt zwei Klauen hinzu, die nach dem Biss etwas weniger Schaden verursachen.
+Die Spezialdünger-Fähigkeit fügt zwei Klauen hinzu, die nach dem Biss etwas weniger Schaden verursachen.
 
 [SPRINGPRINCESS]
 Prinzess Bohne
@@ -43297,6 +43304,7 @@ Prinzess Bohne
 {KEYWORD}Reichweite: {STAT} 3 Reihen voraus
 {KEYWORD}Funktionen: {STAT} Schieße mit einer Feder auf einen Zombie, um ihn abzulenken.
 {KEYWORD}Pflanzenfunktionen: {STAT} Grüne Pflanze
+
 {FLAVOR} Prinzess Bohne ist die 137. Prinzessin des Bohnenkönigreichs. Sie hasst es, wenn jemand ihre Identität erwähnt, denn außer ihr ist jeder im Bohnenkönigreich entweder König oder Königin.
 
 [SPRINGPRINCESS_DESCRIPTION_HEADER]
@@ -43347,7 +43355,8 @@ Orchideen-Magierin
 [ORCHIDMAGE_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Merkmale: {STAT}Nach der Explosion des Schwerkraftballs zieht er die umliegenden Zombies in die Mitte.
-{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen, fliegende Pflanzen
+{KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen, fliegende Pflanze
+
 {FLAVOR}Wegen ihrer Schwäche in ihrer Kindheit praktizierte die Jakobsmuschel-Orchideen-Magierin Schwerkraftmagie. Nachdem sie ihre Praxis perfektioniert hat, kann sie sich mithilfe der Schwerkraft von den Fesseln der Schwerkraft befreien und diese Kraft in eine Kraft verwandeln, die Zombies widersteht.
 
 [ORCHIDMAGE_DESCRIPTION_HEADER]
@@ -43390,6 +43399,7 @@ Megamame
 {KEYWORD}Reichweite: {STAT} 1 Reihe vorwärts
 {KEYWORD}Merkmale: {STAT} Tofu-Zombies laufen vorwärts und beißen andere Zombies.
 {KEYWORD}Pflanzenmerkmale: {STAT} Grüne Pflanze
+
 {FLAVOR}Megamame ist felsenfest überzeugt: "Pflanzliche Zomboiden zu entwickeln, ist ein Paradebeispiel für gelungene Mimikry – und ethisch voll vertretbar!"
 
 [ZOYBEANPOD_DESCRIPTION_HEADER]
@@ -43432,6 +43442,7 @@ Angriffs-Bambussoldaten
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Eigenschaften: {STAT}Schießt eine Kugel ab, die nach vorne eindringt und den eindringenden Zombie verlangsamt.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR} Zielen ... 3! 2! 1! Schießen! Geduldig, ernst, sorgfältig, beständig – mit diesen Worten loben die Pflanzen in seiner Umgebung den Gewehrbambussoldaten oft. Doch er weiß, dass diese Worte nicht ganz richtig sind. Er möchte zum Beispiel größer werden. Wenn er größer als eine große Nuss wird, kann er sich aus dem Boden graben und dreimal durch den Garten rennen.
 
 [RIFLEBAMBOO_DESCRIPTION_HEADER]
@@ -43477,6 +43488,7 @@ Sturmglocke
 {KEYWORD}Reichweite: {STAT} Gradeaus
 {KEYWORD}Merkmale: {STAT} Verlangsamt Zombies, die nicht fliegen können und pustet wegfliegende Zombies und Wicht-Zombies weg.
 {KEYWORD}Pflanzenmerkmale: {STAT} Weiße Pflanze, gelbe Pflanze
+
 {FLAVOR}Sturmglocke hat mehr als nur heiße Luft zu bieten. Bei ihr handelt es sich nämlich um stark komprimierte Luft – das ist ein Unterschied!
 
 [DRAFTODIL_DESCRIPTION_HEADER]
@@ -43538,7 +43550,7 @@ Beim Angriff kann es Zombies in den Boden hämmern.
 Beim Angriff kann es Zombies in den Boden hämmern.
 
 [STORE_PRODUCT_AVATAR_HAMMERFLOWER]
-Die ultimative Fähigkeit hämmert zweimal und hämmert Zombies in den Boden.
+Die Spezialdünger-Fähigkeit hämmert zweimal und hämmert Zombies in den Boden.
 
 [HAMMERFLOWER_SKILL_LEVEL1]
 Stabiles Aufladen
@@ -43562,7 +43574,7 @@ Wenn ein Zombie vergraben und erneut von einem schweren Hammer getroffen wird, w
 Hammer-Orchideen-Kostüm
 
 [STORE_PRODUCT_AVATAR_HAMMERFLOWER]
-Die ultimative Fähigkeit hämmert zweimal und hämmert den Zombie in den Boden.
+Die Spezialdünger-Fähigkeit hämmert zweimal und hämmert den Zombie in den Boden.
 
 [ENTS]
 Baumgeistwächter
@@ -43571,6 +43583,7 @@ Baumgeistwächter
 {KEYWORD}Reichweite: {STAT}2 Felder vorn
 {KEYWORD}Eigenschaften: {STAT}Regeneriert seine Gesundheit durch Atmung
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR}Der Baumgeistwächter pflegt täglich sein schönes Haar und seufzt jedes Mal, wenn ein Blatt fällt.
 
 [ENTS_DESCRIPTION_HEADER]
@@ -43729,6 +43742,7 @@ Angelhakengrass
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Funktionen: {STAT}Fang Zombies und wirf sie dann hinaus. Der erste getroffene Zombie wird dabei betäubt und erleidet Schaden.
 {KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanze
+
 {FLAVOR} Zombies zu angeln ist eine Fähigkeit, und es gibt nur wenige Pflanzen wie Angelhakengras, die Zombies nach dem Fang hinauswerfen können.
 
 [FISHHOOKGRASS_DESCRIPTION_HEADER]
@@ -43769,7 +43783,6 @@ Blumentopf
 
 [FLOWERPOT_DESCRIPTION]
 {KEYWORD}Verwendung:{STAT}Kann auf Dachgelände gepflanzt werden.
-
 {KEYWORD}Pflanzeneigenschaften:{STAT}Kleine, braune Pflanze.
 
 {FLAVOR}Blumentöpfe sollten die anspruchvollsten Pflanzen sein. Sie müssen nicht kämpfen, und das Dach hat reichlich Sonnenlicht. Ja, als Pflanze benötigt es auch Photosynthese.
@@ -43787,10 +43800,10 @@ Blumentopffragmente
 Blumentopffragmente erhalten
 
 [STORE_PRODUCT_AVATAR_FLOWERPOT_TITLE]
-Blumentopfkostüm
+Blumentopf-Kostüm
 
 [FLOWERPOT_AVATAR_NAME]
-Blumentopfkostüm
+Blumentopf-Kostüm
 
 [STORE_PRODUCT_AVATAR_FLOWERPOT]
 Der Spezialdünger effekt kann Blumentöpfe in einem 3x3-Bereich erzeugen.
@@ -44099,6 +44112,24 @@ Outfit
 
 [PLANT_SPECIAL_OFFER_PREVIEW]
 Vorschau
+
+[NFSLINKAGE_TITLE_3]
+Muschelschlacht
+
+[NFSLINKAGE_TITLE_4]
+Autoschlacht
+
+[MAT_NFSLINKAGE_TICKET_3]
+Muschel
+
+[MAT_NFSLINKAGE_TICKET_4]
+Ausrüstung
+
+[NFS_LINKAGE_TAB2_3]
+Muschelmission
+
+[NFS_LINKAGE_TAB2_4]
+Automission
 
 [STORE_CATEGORY_NAME_PLANT_SPECIAL_OFFER_DESC]
 Pflanzenpaket kaufen
@@ -44554,6 +44585,7 @@ Plattkopfpilze können Abwasserlöcher im Boden verschließen.
 {KEYWORD}Verwendung:{STAT}Einmalige Verwendung
 {KEYWORD}Funktionen:{STAT}Verschließt ein Abwasserloch
 {KEYWORD}Pflanzeneigenschaften:{STAT}Rote Pflanze
+
 {FLAVOR}Plattkopfpilze wollten sich gerne in der Sonne aalen, wurden aber immer für Straßenreparaturen verwendet. Er sagte: „Unter der Kanalisation ist es kalt.“
 
 [FLATTENEDSHROOM_TOOLTIP]
@@ -44761,10 +44793,10 @@ Zaubertrankmeister
 Kann eine größere Zaubertrankflasche werfen, die beim Aufprall auf einen Zombie spritzt und die Zombies innerhalb eines Gitters vergiftet.
 
 [CONVALLARIACHEMIST_AVATAR_NAME]
-Avalon-Kostüm
+Maiglöckchen-Kostüm
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST_TITLE]
-Averrhoa-Kostüm
+Maiglöckchen-Kostüm
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST]
 Es besteht die Möglichkeit, einen giftigeren Trank zu werfen, der Zombies dreifach vergiftet.
@@ -46056,7 +46088,9 @@ Große Blasen können Zombies und Wicht-Zombies die Rüstung rauben.
 [NARCISSUSSHOOTER_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Große Blasen können Zombies und Wicht-Zombies die Rüstung rauben.
 {KEYWORD}Pflanzenmerkmale:{STAT}Weiße Pflanze
+
 {FLAVOR}Daffodil ist eine Aristokratin, die seit ihrer Kindheit eine höhere Bildung genießt, aber ein frecher und süßer, kluger Geist ist. Der Kontrast zwischen aristokratischem Temperament und frecher Persönlichkeit macht sie bei ihren Freunden sehr beliebt.
+
 [NARCISSUSSHOOTER_TOOLTIP]
 Große Blasen können Zombies und Imp-Zombies die Rüstung rauben.
 
@@ -46143,7 +46177,7 @@ Holy Knight Outfit
 Holy Knight Outfit
 
 [STORE_PRODUCT_AVATAR_HOLLYKNIGHT]
-Die ultimative Fähigkeit verfügt über einen Elektroschockeffekt, der Zombies 1 Sekunde lang lähmen kann.
+Die Spezialdünger-Fähigkeit verfügt über einen Elektroschockeffekt, der Zombies 1 Sekunde lang lähmen kann.
 
 [SHADOWPEASHOOTER]
 Schatten-Erbsenkanone
@@ -46185,7 +46219,7 @@ Schattenerbsenkostüm
 Schattenerbsenkostüm
 
 [STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER]
-Die ultimative Fähigkeit setzt einen zusätzlichen Geisterball frei.
+Die Spezialdünger-Fähigkeit setzt einen zusätzlichen Geisterball frei.
 
 [PAY_CHECK_DIALOG_TITLE]
 Zahlungstipps
@@ -46474,7 +46508,7 @@ Alarm-Explosion-Magnetpilz
 Der Alarm-Explosion-Magnetpilz kann nicht nur Zombies Schaden zufügen, sondern Lähmt auch mechanische Zombies.
 
 [STORE_PRODUCT_AVATAR_ALARMSAGITTIFOLIA]
-Nach der Explosion der Energiebohne entsteht ein 3x3 großes elektrisches Feld.
+Nach der Explosion der Spezialdünger-Fähigkeit entsteht ein 3x3 großes elektrisches Feld.
 
 [STORE_PRODUCT_AVATAR_ALARMSAGITTIFOLIA_TITLE]
 Alarm-Explosions-Magnetpilz-Outfit
@@ -47133,7 +47167,7 @@ Pflanze 400 Pflanzen während Pennys Verfolgung.
 Töte 500 Zombies während Pennys Verfolgung.
 
 [PENNY_GUIDE_PLANTFOOD_50]
-Setze 50 Ultimates während Pennys Verfolgung frei.
+Setze 50 Spezialdünger-Fähigkeittes während Pennys Verfolgung frei.
 
 [TRAVELLOG]
 Reisetagebuch
@@ -48758,7 +48792,7 @@ Verkürzt die Abklingzeit beim Pflanzen der fliegenden Untertassenmelone um {Par
 Abklingzeit beim Pflanzen der Kirschbombe um {Param_1} % reduziert
 
 [GENE_DESCRIPTION_LASER_BEAN]
-Ultimativer Schaden der Laserbohne erhöht um {Param_1} %
+Spezialdünger-Fähigkeittiver Schaden der Laserbohne erhöht um {Param_1} %
 
 [GENE_DESCRIPTION_STARFRUIT]
 Angriffskraft von Sternfrüchten um {Param_1} % erhöht
@@ -48965,10 +48999,10 @@ Der Effekt der Angriffskraft- und Angriffsgeschwindigkeitssteigerung durch den C
 Abklingzeit der Graspflanzung um {Param_1}% reduziert.
 
 [GENE_DESCRIPTION_CROWNFLOWER]
-Ultimativer Schaden der Laserkronenblume um {Param_1}% erhöht.
+Spezialdünger-Fähigkeittiver Schaden der Laserkronenblume um {Param_1}% erhöht.
 
 [GENE_DESCRIPTION_BURDOCKBATTER]
-Der erste Hitzezustand jeder Ultimativfähigkeit von Kletten-Schlagmann hat eine Chance von {Param_1}%, nach Auslösung erhalten zu bleiben.
+Der erste Hitzezustand jeder Spezialdünger-Fähigkeittivfähigkeit von Kletten-Schlagmann hat eine Chance von {Param_1}%, nach Auslösung erhalten zu bleiben.
 
 [BATTLE_ORDER_AUTUMN]
 Herbstausflug
@@ -49562,7 +49596,7 @@ Nach dem Gewinn eines Levels erhältst du Geheimmünzen. Für den ersten Durchga
 Mit Geheimmünzen kannst du Belohnungen im Shop einlösen. Belohnungen, die mit normalen Münzen eingelöst werden, sind nur im aktuellen Geheimen Reich gültig. Belohnungen, die mit erweiterten Münzen eingelöst werden, können außerhalb des Geheimen Reichs eingelöst werden.
 
 [UNCHARTED_WORLD_DIFFICULTY_DESC_1]
-Diese Herausforderungsrunde umfasst 13 Level. Nach Abschluss jedes Levels könnt ihr direkt in das nächste Level einsteigen (Artefakte und Energiebohnen sind in diesem geheimen Reich vorübergehend ungültig).
+Diese Herausforderungsrunde umfasst 13 Level. Nach Abschluss jedes Levels könnt ihr direkt in das nächste Level einsteigen (Artefakte und Spezialdünger-Fähigkeitn sind in diesem geheimen Reich vorübergehend ungültig).
 
 [UNCHARTED_WORLD_DIFFICULTY_DESC_2]
 Nach jedem Level bleiben die Pflanzenauswahl im Kartensteckplatz und das Sonnenlicht bis zum nächsten Level erhalten. Nach dem Passieren des Elite-Boss-Knotens könnt ihr die Pflanze erneut auswählen.
@@ -54343,10 +54377,10 @@ Zombies explodieren nach ihrem Tod und verursachen Schaden.
 Zombies explodieren nach ihrem Tod und verursachen Schaden.
 
 [THEME_KO_NAME]
-Nahkampfpflanzen können keine Energiebohnen-Fähigkeiten einsetzen.
+Nahkampfpflanzen können keine Spezialdünger-Fähigkeitn-Fähigkeiten einsetzen.
 
 [THEME_KO_DESCRIPTION]
-Nahkampfpflanzen können keine Energiebohnen-Fähigkeiten einsetzen.
+Nahkampfpflanzen können keine Spezialdünger-Fähigkeitn-Fähigkeiten einsetzen.
 
 [THEME_GRAVITY_NAME]
 Die Reichweite von Wurfpflanzen beträgt Verkürzt
@@ -57569,7 +57603,7 @@ Die Kugel hat eine 100%ige Chance, andere Zombies in derselben Reihe zu durchdri
 Geisha-Haarnadel-Kostüm
 
 [STORE_PRODUCT_AVATAR_BOOPHONEGEISHA]
-Nachdem die ultimative Fähigkeit den ersten Zombie getroffen hat, füge einen separaten Blumenfächer hinzu, um alle Zombies in der Reihe zu durchdringen.
+Nachdem die Spezialdünger-Fähigkeit den ersten Zombie getroffen hat, füge einen separaten Blumenfächer hinzu, um alle Zombies in der Reihe zu durchdringen.
 
 [BOOPHONEGEISHA_SKILL_LEVEL5]
 Yan Wu
@@ -58299,7 +58333,7 @@ Die Kreise auf diesem mysteriösen orangefarbenen Kegel stellen den ehemaligen G
 [ZOMBIE_ATLANTIS_LAND_ARMOR1_DESCRIPTION_HEADER]
 Sein Tiefsee-Pylon macht ihn doppelt so stark wie einen normalen Seezombie.
 
-ZOMBIE_ATLANTIS_LAND_ARMOR2
+[ZOMBIE_ATLANTIS_LAND_ARMOR2]
 Ruinenfass-Zombie
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION]
@@ -64957,7 +64991,7 @@ Der ultimative Move der Spezialdünger-Fähigkeit der Ur-Sonnenblume kann schnel
 Welche Wirkung hat das Kostüm der Ur-Sonnenblume?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_PRIMALSUNFLOWER]
-ca=Schießt 5 brennende Erbsen ab|Ultimative Fähigkeit kann zusätzliche Goldmünzen produzieren|Wirft Eiswassertropfen, die Zombies verlangsamen|Verkürzt die Abkühlzeit beim Pflanzen|
+ca=Schießt 5 brennende Erbsen ab|Spezialdünger-Fähigkeittive Fähigkeit kann zusätzliche Goldmünzen produzieren|Wirft Eiswassertropfen, die Zombies verlangsamen|Verkürzt die Abkühlzeit beim Pflanzen|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_PRIMALSUNFLOWER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
@@ -65240,7 +65274,7 @@ Der ultimative Angriff der Spezialdünger-Fähigkeit der Hohen Nuss kann Zombies
 Welchen Effekt hat die Dekoration der Hohen Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
-ca=Eine riesige Erdbeere beschwören und explodieren lassen | Ultimative Fähigkeit für eine stärkere Kristallrüstung | Drei goldene Granaten nach vorne schießen | Eine Mischung aus Feuer-, Eis- und gewöhnlichen Erbsengeschossen verschießen |
+ca=Eine riesige Erdbeere beschwören und explodieren lassen | Spezialdünger-Fähigkeittive Fähigkeit für eine stärkere Kristallrüstung | Drei goldene Granaten nach vorne schießen | Eine Mischung aus Feuer-, Eis- und gewöhnlichen Erbsengeschossen verschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
@@ -65530,12 +65564,12 @@ Woguas ultimativer Spezialdünger kann die Angriffsreichweite ignorieren und meh
 Welche Wirkung hat Woguas Kostüm?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_SQUASH]
-ca=Ultimate kann Zombies mit dem goldenen Reifen zu Boden schmettern. | Erhöht den Schaden des ultimativen Hochenergielasers. | Ultimate kann zusätzlichen Sprungdruck erzeugen. | Ultimate kann Lichtpfeile mit höherem Schaden abfeuern. |
+ca=Spezialdünger-Fähigkeitte kann Zombies mit dem goldenen Reifen zu Boden schmettern. | Erhöht den Schaden des ultimativen Hochenergielasers. | Spezialdünger-Fähigkeitte kann zusätzlichen Sprungdruck erzeugen. | Spezialdünger-Fähigkeitte kann Lichtpfeile mit höherem Schaden abfeuern. |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_SQUASH]
 Wenn du richtig antwortest, bist du der Meister der Pflanzen!
 
-Das Tintenfischkostüm verleiht dem Ultimate zusätzlichen Sprungdruck.
+Das Tintenfischkostüm verleiht dem Spezialdünger-Fähigkeitte zusätzlichen Sprungdruck.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_SQUASH]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
@@ -65543,11 +65577,11 @@ Das Tintenfischkostüm kann den ultimativen Sprungdruck verstärken.
 
 [PENNY_CLASSROOM_PLANT_DESC_PRIMALSUNFLOWER]
 ^276500 Pflanzeneigenschaften: ^oldclr Ursonnenblumen ^FF0000 produzieren große Sonnen ^oldclr. Und haben zusätzliche Sonnen in der Dino-Krisenwelt.
-^276500 Spezialdünger-Fähigkeit Ultimativ: ^oldclr Ursonnenblumen produzieren sofort 225 Sonnen.
+^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Ursonnenblumen produzieren sofort 225 Sonnen.
 
 [PENNY_CLASSROOM_PLANT_DESC_ELECTRICBLUEBERRY]
 ^276500 Pflanzeneigenschaften: ^oldclr Elektrische Blaubeere ^FF0000 setzt eine Gewitterwolke frei, die ^oldclr enormen Schaden verursacht und Zombies in Reichweite verfolgt. Sehr nützlich gegen Gargantuas oder Dr. Zomboss.
-^276500 Spezialdünger-Fähigkeit Ultimativ: ^oldclr Elektrische Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
+^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Elektrische Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_PLANT_DESC_TALLNUT]
 ^276500 Pflanzenmerkmale: ^oldclr Tall Nuts sind schwere Verteidigungspflanzen, die nicht nur die Bewegung von Bodenzombies, sondern auch ^FF0000 fliegende Zombies effektiv blockieren können ^oldclr.
@@ -65559,7 +65593,7 @@ Das Tintenfischkostüm kann den ultimativen Sprungdruck verstärken.
 
 [PENNY_CLASSROOM_PLANT_DESC_SQUASH]
 ^276500 Pflanzenfunktionen: ^oldclr Squash kann Zombies im linken und rechten Raster erfassen und nach einem Sprung alle Zombies im Raster zerquetschen.
-^276500 Spezialdünger-Fähigkeit Ultimativ: ^oldclr Squash springt und zerquetscht zwei Raster im Feld und springt schließlich zum Ursprung zurück.
+^276500 Spezialdünger-Fähigkeit Spezialdünger-Fähigkeittiv: ^oldclr Squash springt und zerquetscht zwei Raster im Feld und springt schließlich zum Ursprung zurück.
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_PRIMALSUNFLOWER]
 Prismatisches Gras hat eine hohe Schadenskraft, setzt aber ausreichend Sonnenlicht als Munition voraus. Primitive Sonnenblume kann diese Aufgabe erfüllen.
@@ -65652,19 +65686,19 @@ Fortgeschrittenentest – Großmundige Blüte
 Fortgeschrittenentest – Melone
 
 [PENNY_CLASS_LEVEL11]
-Ultimativer Test – Original Sonnenblume
+Spezialdünger-Fähigkeittiver Test – Original Sonnenblume
 
 [PENNY_CLASS_LEVEL12]
-Ultimativ Prüfung – Elektrische Blaubeere
+Spezialdünger-Fähigkeittiv Prüfung – Elektrische Blaubeere
 
 [PENNY_CLASS_LEVEL13]
-Ultimative Prüfung – Hohe Nuss
+Spezialdünger-Fähigkeittive Prüfung – Hohe Nuss
 
 [PENNY_CLASS_LEVEL14]
-Ultimative Prüfung – Großmaulige Blume
+Spezialdünger-Fähigkeittive Prüfung – Großmaulige Blume
 
 [PENNY_CLASS_LEVEL15]
-Ultimative Prüfung – Kürbis
+Spezialdünger-Fähigkeittive Prüfung – Kürbis
 
 [BIND_UNIQUE_ID_TITLE]
 Gerät verknüpfen
@@ -66000,7 +66034,7 @@ Märchenwald – Tag 13
 Märchenwald – Tag 14
 
 [FOREST_LEVEL_NAME_15]
-Märchenwald – Der Märchen-Zombie-Boss
+Märchenwald – Der Märchen-Zomboss
 
 [PLAYERS_TRIP_TO_HALLOWEEN]
 {PLAYER}s Grusel-Halloween-Reise
@@ -71317,16 +71351,14 @@ Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähig
 [LEMON_NEW_SKILL_LEVEL5_DES]
 Beim Angriff hat die Säurezitrone eine Chance von 15%, eine Zitronenscheibe abzufeuern, die kleine Zombies mit 450 Schadenspunkten zurückdrängt. Nach Kontakt mit einer feindlichen Einheit kehrt sie zurück. Die zurückgedrängten Zombies treiben alle anderen kleinen Zombies auf dem Weg mit sich und werden gemeinsam zurückgedrängt.
 
-
 [LEMON_PLANTFOOD_DESCRIPTION]
 Die Säurezitrone feuert eine große Menge sauren Regens auf den gesamten Bildschirm ab und fügt allen Zombies auf dem gesamten Bildschirm Schaden zu.
-
 
 [LEMON_AVATAR_PLANTFOOD_DESCRIPTION]
 Säurezitronen werden auf den gesamten Bildschirm abgefeuert und fügen Zombies auf dem gesamten Bildschirm Schaden zu. ^ff0000^ Saurer Regen kann das Meerwasser mit Säure füllen und Zombies 10 Sekunden lang kontinuierlich Schaden zufügen. ^oldclr^
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies um Geist-Peperoni herum erscheinen, verwandelt sich Ghost Pepper in einen Geist, um Zombies zu erschrecken. Er fügt jedem Zombie jede halbe Sekunde 30 Schaden zu und explodiert nach 10 Sekunden, um allen Gegnern in einem 3x3 großen Bereich 450 Schaden zuzufügen.
+Wenn Zombies um Geist-Peperoni herum erscheinen, verwandelt sich Geist Peperoni in einen Geist, um Zombies zu erschrecken. Er fügt jedem Zombie jede halbe Sekunde 30 Schaden zu und explodiert nach 10 Sekunden, um allen Gegnern in einem 3x3 großen Bereich 450 Schaden zuzufügen.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL2_DES]
 Geist-Peperoni's Angriffsreichweite erweitert sich zu einem Kreuz.
@@ -72019,10 +72051,10 @@ Wenn die Jackfrucht den Tunneleingang blockiert, erhöht sich ihre Gesundheit um
 Erhöht die Gesundheit der Jackfrucht.
 
 [JACKFRUIT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Spezialdünger-Fähigkeitte-Attacke.
 
 [JACKFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Spezialdünger-Fähigkeitte-Attacke.
 
 [KIWIFRUIT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben der Kiwi erscheint, wirft er einen goldenen Knüppel nach rechts. Der goldene Knüppel stoppt nach dem Kontakt mit dem Zombie und fügt ihm weiterhin in einem einzigen Raster Schaden zu. Der goldene Knüppel hält 4 Sekunden lang an.
@@ -72274,10 +72306,10 @@ Erweckt eine Pflanze wieder und stellt 100% ihrer Gesundheit wieder her.
 Erwecke eine Pflanze wieder zum Leben und verleihe ihr einen 5 Sekunden anhaltenden Unverwundbarkeitsschild.
 
 [INTENSIVECARROT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Spezialdünger-Fähigkeitte-Attacke.
 
 [INTENSIVECARROT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Spezialdünger-Fähigkeitte-Attacke.
 
 [CACTUS_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Kaktus erscheint, schießt dieser stechende Stacheln aus seinem Maul auf ihn. Erscheint ein Zombie ein Feld rechts vom Kaktus, versinkt dieser im Boden und fügt dem Zombie Schaden zu, wenn er darauf tritt. ^ff0000^ Die Wirkung ist stark auf Ballon-Zombies. ^oldclr^
@@ -72451,7 +72483,7 @@ Die Rückwärtslaufzeit der Zombies wurde auf 7 Sekunden erhöht.
 Die Rückwärtslaufzeit der Zombies wurde auf 8 Sekunden erhöht.
 
 [PERFUMESHROOM_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Attacken-Ultimate-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Attacken-Spezialdünger-Fähigkeitte-Attacke.
 
 [PERFUMESHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
 Diese Pflanze besitzt keine Spezialdünger-Attacken-Spezial-Attacke.
@@ -73681,19 +73713,19 @@ Betäubt alle Zombies für 2 Sekunden, gewährt allen Pflanzen einen Angriffs- u
 Wenn Zombies erscheinen, feuern sie mit ihren Augen Laser ab, die 2 Sekunden lang anhalten und Zombies Schaden zufügen. Wiederholtes Stapeln kann die Form verändern und die Angriffskraft erhöhen. Der Sonnenlichtverbrauch beim Pflanzen steigt mit der Anzahl der Samen auf dem Feld, und jeder Samen erhöht sich um 50 Punkte (gestapelte Samen zählen als mehrere Samen).
 
 [ULTOMATO_NEW_SKILL_LEVEL2_DES]
-Die Ladegeschwindigkeit der Ultimativen Tomate wurde erhöht, und die Ladezeit nach einem Angriff beträgt nun 3,5 Sekunden.
+Die Ladegeschwindigkeit der Spezialdünger-Fähigkeittiven Tomate wurde erhöht, und die Ladezeit nach einem Angriff beträgt nun 3,5 Sekunden.
 
 [ULTOMATO_NEW_SKILL_LEVEL3_DES]
 Der Fertigkeitseffekt des Schnellladens wurde um 100% erhöht, und die Ladezeit nach einem Angriff wurde auf 2,5 Sekunden reduziert.
 
 [ULTOMATO_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen der Ultimativen Tomate besteht eine 50%ige Chance, den Status direkt um eine Stufe zu erhöhen.
+Beim Pflanzen der Spezialdünger-Fähigkeittiven Tomate besteht eine 50%ige Chance, den Status direkt um eine Stufe zu erhöhen.
 
 [ULTOMATO_NEW_SKILL_LEVEL5_DES]
 Der Laser, den sie abfeuert, enthält mehr Energie. Trifft sie das Ziel, spritzt die Energie auf einen einzelnen Zombie und verursacht 33% seines Angriffsschadens.
 
 [ULTOMATO_PLANTFOOD_DESCRIPTION]
-Die Ultimative Tomate explodiert sofort und fügt allen Zombies im Umkreis von 9×9 Schaden zu.
+Die Spezialdünger-Fähigkeittive Tomate explodiert sofort und fügt allen Zombies im Umkreis von 9×9 Schaden zu.
 
 [ULTOMATO_AVATAR_PLANTFOOD_DESCRIPTION]
 Die Ultomate explodiert sofort und fügt allen Zombies im Umkreis von 9×9 Schaden zu. ^ff0000^ War sie ursprünglich in der zweiten oder dritten Form, verwandelt sie sich in die erste, anstatt direkt zu verschwinden. ^oldclr^
@@ -76117,7 +76149,7 @@ Schatzverlosung
 Spezial-Geschenkpaket
 
 [POSEIDONTREASURE_TAB3]
-Ultimativer Schatz
+Spezialdünger-Fähigkeittiver Schatz
 
 [POSEIDONTREASURE_TAB4]
 Poseidons Schatz
@@ -76184,10 +76216,10 @@ Aktivitätsregeln:
 1. Kaufe das Poseidon-Geschenkpaket, um Poseidon-Token zu erhalten, mit denen du Schätze ziehen kannst.
 2. Für jeweils 100 Yuan gekaufter Poseidon-Geschenkpakete erhältst du einen Poseidon-Schatz, mit dem du eine Belohnung deiner Wahl einlösen kannst.
 3. Poseidon-Schätze stehen zur Auswahl: neue dynamische Avatare, neue Poseidon-Graskostüme, neue Match-Blumen-Boxerkostüme und Super-Maschinengewehr-Shooter. Fragmente * 10, Kürbisartefakte und andere Requisiten
-4. Bei jeder kumulierten Schatzziehung von 30 Malen könnt ihr einen Ultimativen Schatz erhalten, mit dem ihr zufällig eine Belohnung erhalten könnt.
-5. Der Ultimative Schatz kann zufällig ein Super-Maschinengewehr-Ganzkörperkostüm, Poseidon-Grasfragmente * 10, Universalfragmente, Juwelen und einen Gegenstand aus dem Fortgeschrittenenbuch enthalten.
-6. Der Ultimative Schatz wird zehnmal geöffnet, um ein Super-Maschinengewehr-Ganzkörperkostüm zu erhalten.
-7. Bei der ersten Einzelziehung des Tages gibt es 36% Rabatt. Bitte nutzt die Event-Token rechtzeitig. Nach Ende des Events werden die verbleibenden Poseidon-Token im Verhältnis 1:30 in Juwelen umgewandelt, und die Poseidon-Schatzkiste und die Ultimative Schatzkiste werden im Verhältnis 1:500 in Juwelen umgewandelt.
+4. Bei jeder kumulierten Schatzziehung von 30 Malen könnt ihr einen Spezialdünger-Fähigkeittiven Schatz erhalten, mit dem ihr zufällig eine Belohnung erhalten könnt.
+5. Der Spezialdünger-Fähigkeittive Schatz kann zufällig ein Super-Maschinengewehr-Ganzkörperkostüm, Poseidon-Grasfragmente * 10, Universalfragmente, Juwelen und einen Gegenstand aus dem Fortgeschrittenenbuch enthalten.
+6. Der Spezialdünger-Fähigkeittive Schatz wird zehnmal geöffnet, um ein Super-Maschinengewehr-Ganzkörperkostüm zu erhalten.
+7. Bei der ersten Einzelziehung des Tages gibt es 36% Rabatt. Bitte nutzt die Event-Token rechtzeitig. Nach Ende des Events werden die verbleibenden Poseidon-Token im Verhältnis 1:30 in Juwelen umgewandelt, und die Poseidon-Schatzkiste und die Spezialdünger-Fähigkeittive Schatzkiste werden im Verhältnis 1:500 in Juwelen umgewandelt.
 
 [KELPGUARD]
 Seetang Wächter
@@ -76233,19 +76265,122 @@ Die Unterwasserzombies glauben, dass die Richtung der Meeresströmung die Richtu
 Es markiert die Ankunft einer großen „Welle“ seetangumhüllter Zombies.
 
 [ZOMBIE_ATLANTIS_ARMOR1]
-Ozean-Barrierefass-Zombie
+Ozean-Pylonen-Zombie
 
 [ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION]
 Was ist der Unterschied zwischen Auf- und Abschweben und Herumfliegen? Was bedeutet die Existenz von Barrikaden im Ozean? Vielleicht ist dies das gemeinsame Meisterwerk von Weltraumphilosophen und Meeresfrüchtekünstlern.
 
 [ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION_HEADER]
-Sein Unterwasser-Barrikadenfass macht ihn doppelt so stark wie gewöhnliche Ozean-Zombies.
+Sein Unterwasser-Pylon macht ihn doppelt so stark wie gewöhnliche Ruinen-Zombies.
+
+[SEADERRIS]
+See Derris
+
+[SEADERRIS_DESCRIPTION]
+{KEYWORD} Pflanzenmerkmale: {STAT} Lila Pflanze
+{FLAVOR}See Derris liebt es, Rotenon überall zu versprühen. Eines Tages erfuhr sie, dass Fische und Zombies Rotenon hassen, und war noch glücklicher.
+
+[SEADERRIS_DESCRIPTION_HEADER]
+See Derris kann ins Wasser gepflanzt werden, um Fische und Zombies abzuwehren.
+
+[SEADERRIS_TOOLTIP]
+See Derris kann ins Wasser gepflanzt werden, um Fische und Zombies abzuwehren.
+
+[SEADERRIS_PRODUCT_SHORT_DESC]
+See Derris kann ins Wasser gepflanzt werden, um Fische und Zombies abzuwehren.
+
+[SEADERRIS_AVATAR_NAME]
+See Derris kann ins Wasser gepflanzt werden, um Fische und Zombies abzuwehren.
+
+[STORE_PRODUCT_AVATAR_SEADERRIS_TITLE]
+See Derris Outfit
+
+[STORE_PRODUCT_AVATAR_SEADERRIS_TITLE] IS]
+Abklingzeit der Pflanze um 20 % reduziert
+
+[SEADERRIS_SKILL_LEVEL1]
+Häufiger sprühen
+
+[SEADERRIS_SKILL_LEVEL1_DES]
+Die Rotenon-Dauer von See Derris wurde auf 6 Sekunden erhöht.
+
+[SEADERRIS_SKILL_LEVEL2]
+Häufiger sprühen
+
+[SEADERRIS_SKILL_LEVEL2_DES]
+Die Rotenon-Dauer von See Derris wurde auf 7 Sekunden erhöht.
+
+[SEADERRIS_NEW_SKILL_LEVEL1_DES]
+Die See Derris kann unter Wasser gepflanzt werden. Nach dem Pflanzen versprüht er sofort Rotenon in einem 3x3 großen Bereich. Zombies, die ihm begegnen, laufen rückwärts. Der Effekt hält nach Verlassen des Bereichs 1 Sekunde lang an. Fischschwärme, die darauf treffen, verlassen die Karte für 20 Sekunden. Es wirkt sich auch negativ auf große Tiefseefische und Blauwale aus!
+
+[SEADERRIS_NEW_SKILL_LEVEL2_DES]
+Die Rotenon-Verweildauer von See Derris wurde auf 6 Sekunden erhöht.
+
+[SEADERRIS_NEW_SKILL_LEVEL3_DES]
+Die Rotenon-Verweildauer von See Derris wurde auf 7 Sekunden erhöht.
+
+[SEADERRIS_AVATAR_PLANTFOOD_DESCRIPTION]
+Die Abklingzeit des Pflanzens wurde um 20 % reduziert.
+
+[SEASHOOTER_SKILL_LEVEL1]
+Verbesserte Verbindung
+
+[SEASHOOTER_SKILL_LEVEL1_DES]
+Auf Stufe 2 kannst du dich mit der normalen Erbsenkanone und der Gift-Erbsenkanone verbinden.
+
+[SEASHOOTER_SKILL_LEVEL2]
+Verbesserte Verbindung
+
+[SEASHOOTER_SKILL_LEVEL2_DES]
+Auf Stufe 3 kannst du dich mit dem Erbsenmörser verbinden.
+
+[SEASHOOTER_SKILL_LEVEL5]
+Entfesseltes Potenzial
+
+[SEASHOOTER_SKILL_LEVEL5_DES]
+Nach dem Einsatz der Spezialdünger-Fähigkeit einer verbundenen Pflanze besteht eine 10%ige Chance, eine weitere  einzusetzen (ausgenommen Seekanone).
+
+[SEASHOOTER_SUPERSKILL]
+Vollständig aktiviert
+
+[SEASHOOTER_SUPERSKILL_DES]
+Du kannst dich mit dem Superschützen verbinden, einschließlich des fusionierten Superschützen. Nach dem Einsatz der Spezialdünger-Fähigkeit einer verknüpften Pflanze besteht eine 10%ige Chance, eine weitere Spezialdünger-Fähigkeit einzusetzen (ausgenommen Seekanone).
+
+[STORE_PRODUCT_AVATAR_SEASHOOTER]
+Bei Einsatz der  erhöht sich die Anzahl der abgefeuerten Kugeln.
+
+[SEASHOOTER_NEW_SKILL_LEVEL1_DES]
+Schießt Kugeln in drei Richtungen, um Zombies anzugreifen. Mit der Spezialdünger-Fähigkeit können bis zu drei Elite-Erbsenpflanzen in einem Radius von 3x3 aktiviert werden, um die Spezialdünger-Fähigkeit einzusetzen. Jede zusätzliche Pfütze erhöht die Angriffskraft um 5 und verringert die Angriffsgeschwindigkeit basierend auf der Anzahl der Pfützen in der Nähe. Das Pflanzen in der Unterwasserwelt gewährt den vollen Angriffskraft-Buff.
+
+[SEASHOOTER_NEW_SKILL_LEVEL2_DES]
+Stufe 2 kann mit normalen Erbsenkanonen und Gifterbsenkanonen synergistisch wirken.
+
+[SEASHOOTER_NEW_SKILL_LEVEL3_DES]
+Stufe 3 kann mit Erbsenmörsern synergieren.
+
+[SEASHOOTER_NEW_SKILL_LEVEL4_DES]
+Beim Einpflanzen besteht eine mittlere Chance, dass die ultimative Spezialdünger-Fähigkeit sofort aktiviert wird.
+
+[SEASHOOTER_NEW_SKILL_LEVEL5_DES]
+Kann mit Mega-MG-Erbsen, einschließlich fusionierten Mega-MG-Erbsen, verknüpft werden. Nach dem Einsatz der Spezialdünger-Fähigkeit einer verknüpften Pflanze, besteht eine 10%ige Chance, eine weitere Spezialdünger-Fähigkeit einzusetzen (ausgenommen Seekanone).
+
+[STORE_PRODUCT_AVATAR_SEASHOOTER_TITLE]
+Seekanonen-Kostüm
+
+[SEASHOOTER_AVATAR_NAME]
+Seekanonen-Kostüm
+
+[SEASHOOTER_PLANTFOOD_DESCRIPTION]
+Bei Einsatz einer Super erhöht sich die Anzahl der ausgeworfenen Kugeln.
+
+[SEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
+Bei Verwendung eines Supers erhöht sich die Anzahl der ausgeworfenen Kugeln.
 
 [ZOMBIE_ATLANTIS_ARMOR2]
-Ozean-Eisenfass-Zombie
+Ozean-Eimer-Zombie
 
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION]
-Warum schwebte das Eisenfass nicht durch den Auftrieb davon? Warum verrottete das Holz nicht im Wasser? Der Zombie, der so eine Frage stellte, muss Wasser im Gehirn haben. Wo ist das Gehirn?
+Warum schwebte der Eimer nicht durch den Auftrieb davon? Warum verrottete das Holz nicht im Wasser? Der Zombie, der so eine Frage stellte, muss Wasser im Gehirn haben. Wo ist das Gehirn?
 
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION_HEADER]
 Der Eiseneimer auf seinem Kopf bietet hervorragenden Schutz vor Schaden.
