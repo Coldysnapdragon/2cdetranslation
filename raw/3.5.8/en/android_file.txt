@@ -28,6 +28,7 @@ Meeres-Pilz
 
 [SEASHROOM_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR}Meerespilze und Pustepilze sind entfernte Verwandte. Niemand weiß, wann sich ihre Vorfahren trennten, aber bei Familienfeiern finden immer Poolpartys statt.
 
 [SEASHROOM_DESCRIPTION_HEADER]
@@ -76029,6 +76030,7 @@ Sauerstoffalge
 [OXYGENALGAE_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Produziert Sauerstoff und verteilt ihn, wodurch Landpflanzen in einem Umkreis von 3 x 3 Metern im Meerwasser wachsen und überleben können.
 {KEYWORD}Pflanzenmerkmale:{STAT}weiße Pflanze, die Sauerstoff liefern, endloses Sonnenlicht.
+
 {FLAVOR}Die Sauerstoffalge betreiben täglich aerobes Training, wodurch sie angeblich die Umgebung kontinuierlich mit Sauerstoff versorgen können.
 
 [OXYGENALGAE_DESCRIPTION_HEADER]
@@ -76088,6 +76090,7 @@ Haie herbeirufen, um Feinde anzugreifen
 [AQUAWEED_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Haie herbeirufen, um Feinde anzugreifen und zu verschlingen. Große Haie können herbeigerufen werden, wenn die Bedingungen erfüllt sind.
 {KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanze, Meerespflanzen, Haie herbeirufen
+
 {FLAVOR}Wegen seines Bartes gilt er bei anderen Pflanzen als weiser Mann und Anführer der Meerespflanzen, darunter auch kleine Haie.
 
 [AQUAWEED_TOOLTIP]
@@ -76294,6 +76297,7 @@ Seetang Wächter
 
 [KELPGUARD_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR}Der Seetang Wächter versucht immer wieder, seine Bremsschwellen zu durchbrechen, aber es gelingt ihm nicht.
 
 [KELPGUARD_DESCRIPTION_HEADER]
@@ -76346,6 +76350,7 @@ See Derris
 
 [SEADERRIS_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Lila Pflanze
+
 {FLAVOR}See Derris liebt es, Rotenon überall zu versprühen. Eines Tages erfuhr sie, dass Fische und Zombies Rotenon hassen, und war noch glücklicher.
 
 [SEADERRIS_DESCRIPTION_HEADER]
