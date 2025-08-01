@@ -7497,6 +7497,39 @@ Großer Stapel Sternmünzen
 [PRODUCT_STAMINA_10_SHORT_DESC]
 Ausdauer x10
 
+[AQUARIUM_LOSS]
+Deine Zombies sind ausgestorben!
+
+[ADVICE_AQUARIUM_COIN_NOT_ENOUGH]
+Nicht genügend Münzen!
+
+[ADVICE_AQUARIUM_MAX_BRAIN]
+Die maximale Anzahl an Gehirnen wurde erreicht.
+
+[ATLANTIS_AQUARIUM]
+Zombie-Aquarium
+
+[ATLANTIS_AQUARIUM_DESCRIPTION]
+Füttere Zombies, um Münzen zu verdienen. Kaufe dreimal Trophäen, um das Level abzuschließen.
+
+[AQUARIUM_MINIGAME_INSTRUCTIONS]
+Zombie-Aquarium Spielanleitung
+
+[AQUARIUM_MINIGAME_INSTRUCTIONS_CONTENT]
+Zombies füttern: Tippe auf den Bildschirm, um an der gewünschten Stelle ein Hirn zu erschaffen. Das Hirn sinkt langsam zu Boden und kann von Zombies gefressen werden.
+Münzen sammeln: Zombies erschaffen regelmäßig Gegenstände, die eingesammelt werden können. Verschiedene Gegenstände haben unterschiedliche Werte.
+Invasionen abwehren: Tippe auf Fische auf dem Bildschirm, um sie zu verletzen und in die Richtung deines Fingertipps zurückzudrängen.
+Gegenstände kaufen: Gib eine bestimmte Anzahl Münzen aus, um Gegenstände zu kaufen.
+Siegesbedingung: Kaufe dreimal Trophäen, um zu gewinnen.
+Misserfolgsbedingung: Das Spiel endet, wenn sich keine Zombies im Aquarium befinden.
+Gegenstandstypen:
+1. Gehirnqualität erhöhen: Iss (5/3/2) Gehirne, um zum nächsten Level zu gelangen.
+2. Gehirnmenge erhöhen: Erhöht die Anzahl der Gehirne, die sich gleichzeitig auf dem Feld befinden können, um 1.
+3. Angriffsschaden erhöhen: Erhöht den Schaden von Angriffen auf Fische.
+4. Neue Zombies freischalten: Schaltet den nächsten Zombie-Slot zum Kauf frei.
+5. Sushi: Füttere einen Zombie mit einem Sushi.
+6. Trophäe: Siegesbedingung: Kaufe die Trophäe dreimal, um das Spiel zu gewinnen.
+
 [PRODUCT_STAMINA_20_SHORT_DESC]
 Ausdauer x22
 
