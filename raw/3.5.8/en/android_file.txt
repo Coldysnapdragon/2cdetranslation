@@ -5148,7 +5148,7 @@ Elektrische Ranken haben eine 5%ige Chance, eine spezielle Projektil abzufeuern,
 Elektrische Ranken haben eine 10%ige Chance, ein Spezialgeschoss abzufeuern, das die darüberliegende elektrische Pflanze verstärkt. Wenn die Ranke verstärkt ist, feuert die Pflanze zwei Projektile ab.
 
 [POWERVINE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeitn-Move direkt auszuführen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeitn-Move direkt auszuführen!
 
 [POWERVINE_NEW_SKILL_LEVEL5_DES]
 Nach jeweils zwei Angriffsrunden feuert die nächste Angriffsrunde ein zusätzliches violettes Lähmungsgeschoss ab, das den getroffenen Gegner 0,5 Sekunden lang lähmt.
@@ -8011,13 +8011,13 @@ Bowling Bubble kann Projektile abfeuern, die abprallen.
 Bananenkanone kann manuell auf das Ziel zielen, um es zu bombardieren.
 
 [GUACODILE_PRODUCT_SHORT_DESC]
-Avocado kann Projektile abfeuern, um anzugreifen, und sich selbst in die Luft schleudern.
+Das Guakodil kann Projektile abfeuern, um anzugreifen, und sich selbst rennen.
 
 [TANGLEKELP_PRODUCT_SHORT_DESC]
-Tangle Weed kann Zombies verwickeln und auf den Grund des Wassers sinken lassen.
+Der Schlingtang kann Zombies verwickeln und auf den Grund des Wassers sinken lassen.
 
 [HOMINGTHISTLE_PRODUCT_SHORT_DESC]
-Homing Thistle kann automatisch den nächsten Gegner anvisieren.
+Die Lenkdistel kann automatisch den nähhesten Gegner anvisieren.
 
 [LEMON_PRODUCT_SHORT_DESC]
 Stark säurehaltige Zitrone kann Eisenpanzerung korrodieren.
@@ -8056,10 +8056,10 @@ Der Saftling wirft Harz, das Zombies verlangsamt.
 Der Geist-Peperoni kann Zombies erschrecken und Schaden zufügen.
 
 [PEPPERPULT_PRODUCT_SHORT_DESC]
-Der Pfefferwerfer kann Zombies vor sich angreifen und umliegende Pflanzen erwärmen.
+Das Paprikapult kann Zombies vor sich angreifen und umliegende Pflanzen erwärmen.
 
 [HURRIKALE_PRODUCT_SHORT_DESC]
-Hurrikan-Grünkohl verlangsamt Zombies und zwingt sie, zurückzuweichen.
+Hurrikohl verlangsamt Zombies und zwingt sie, zurückzuweichen.
 
 [FIREPEASHOOTER_PRODUCT_SHORT_DESC]
 Feuererbsen greifen Zombies vor sich an und erwärmen umliegende Pflanzen.
@@ -9238,7 +9238,7 @@ Bowlingblase (erste Stufe) – Dekoration hinzufügen
 Bananenrakete (erste Stufe) – Dekoration hinzufügen
 
 [GEMS_RESTORE_CODE_RECHARGE_GUACODILE_LV0_SUCCEED_CONTENT]
-Avocado (erste Stufe) Dekoration
+Guakodile (erste Stufe) Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_TANGLEKELP_LV0_SUCCEED_CONTENT]
 Schlingtang (erste Stufe): Kostüme hinzufügen
@@ -9566,7 +9566,7 @@ Bowling-Blase, Level 3
 Bananenrakete, Level 3
 
 [GEMS_RESTORE_CODE_RECHARGE_GUACODILE_LV3_SUCCEED_CONTENT]
-Avocado, Level 3
+Guakodile, Level 3
 
 [GEMS_RESTORE_CODE_RECHARGE_TANGLEKELP_LV3_SUCCEED_CONTENT]
 Schlingtang, Level 3
@@ -10528,11 +10528,11 @@ Wassergras Geschenkpaket
 Fortgeschrittenes gewundenes Wassergras und Verkleidung
 
 [STORE_GIFT_LABORDAY_GUACODILE_GIFT]
-Avocado-Geschenkpaket
+Guakodile-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_GUACODILE_GIFT_DESC]
 ^009900 Nur für kurze Zeit bis 9.16^oldclr
-Fortgeschrittene Avocado und Outfit
+Fortgeschrittene Guakodile und Outfit
 
 [STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT]
 Leitdistel-Geschenkpaket
@@ -14964,7 +14964,7 @@ Schieße mit jedem Pfeil auf den Kopf und zieh dich niemals zurück!
 Gierige Birnen
 
 [STARCHALLENGE_GUACODILE]
-Befehlige Avocados, um den Zombieangriff zu stoppen.
+Befehlige Guakodile, um den Zombieangriff zu stoppen.
 
 [STARCHALLENGE_VASEBREAKER_NAME]
 Vasenkrise
@@ -16614,10 +16614,10 @@ Bananen-Bazooka-Fragment
 Bananen-Bazooka-Fragment
 
 [BONUS_CARD_PIECE_GUACODILE]
-Avocado-Fragment
+Guakodile-Fragment
 
 [BONUS_CARD_PIECE_GUACODILE_DESCRIPTION]
-Avocado Fragmente
+Guakodile Fragmente
 
 [BONUS_CARD_PIECE_TANGLEKELP]
 Fragmente von Schlingtang
@@ -16683,10 +16683,10 @@ Ups, ich hab mir wohl was angebissen.
 Bravo, töte die Zombies, lauf nicht weg.
 
 [SNAKE_REVIVE_TIP1]
-Avocados können keine Hindernisse fressen. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
+Guakodile können keine Hindernisse fressen. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP2]
-Avocados können sich nicht selbst beißen. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
+Guakodile können sich nicht selbst beißen. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP3]
 Lauf nicht aus dem Veranstaltungsort. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
@@ -16755,10 +16755,10 @@ Klicke auf die Unterseite oder schiebe nach unten, damit Zontarou nach unten geh
 Lasst uns vorwärts gehen, den Wirbelstürmen und Pfeilen auf der Straße ausweichen und erfolgreich die Informationen stehlen!
 
 [SNAKE_ADD_TIP]
-Avocados Freunde haben zugenommen!
+Guakodile Freunde haben zugenommen!
 
 [SNAKE_SLOW_TIP]
-Avocado wird langsamer!
+Guakodile wird langsamer!
 
 [SNAKE_INTRO_TIP1]
 Wischen, um die Richtung zu ändern
@@ -19290,7 +19290,7 @@ Was macht die aufladende Grapefruit gerne zu Hause?
 [LANTERN_RIDDLES_ANSWER_44]
 ca=Fernsehen | Musik hören | Bücher lesen | Saft kochen |
 [LANTERN_RIDDLES_45]
-Was ist das Lieblingsessen von Avocados?
+Was ist das Lieblingsessen von Guakodile?
 [LANTERN_RIDDLES_ANSWER_45]
 ca=Mexikanische Scharfe Rolle|Mexikanische Hühnerrolle|Old Beijing Chicken Roll|Alles|
 [LANTERN_RIDDLES_46]
@@ -21002,7 +21002,7 @@ Waffenverbesserung
 Erhöht die Chance auf durchdringende Schüsse.
 
 [STORE_PRODUCT_AVATAR_ASPARAGUS]
-Der ultimative Angriff kann das Ziel zurückstoßen.
+Die Spezialdünger Fähigkeit kann das Ziel zurückstoßen.
 
 [ASPARAGUS]
 Spargelkämpfer
@@ -21043,7 +21043,7 @@ Energiereicher Blitz
 Erhöht die Chance auf Aufladen um 100%.
 
 [STORE_PRODUCT_AVATAR_ANTHURIUM]
-Der ultimative Angriff kann auf Zombies in der Nähe ausgeführt werden.
+Die Spezialdünger Fähigkeit kann auf Zombies in der Nähe ausgeführt werden.
 
 [ANTHURIUM]
 Ionisierte Anthurie
@@ -21417,7 +21417,7 @@ Erhöht die Wirkung leidenschaftlichen Gesangs um 100%.
 Berauschte Töne
 
 [BIRTHSUNFLOWER_SKILL_LEVEL5_DES]
-Nach der Erzeugung von Sonnenlicht Der Sonnenblumensänger gibt einen Ton von sich, der Zombies betäuben kann.
+Nach der Erzeugung von Sonnenlicht Der Sonnenblumensängerin gibt einen Ton von sich, der Zombies betäuben kann.
 
 [STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER]
 Die Spezialdünger-Fähigkeit lässt andere Sonnenblumensängerinnen auf dem Feld Sonnenlicht erzeugen, wenn die Sonnenblumensängerin mit ihrem Auftritt beginnt.
@@ -26977,10 +26977,10 @@ Besiege die riesigen Zombies an Tag 16 von Big Wave Beach und erhalte einen glä
 Gewinne einen Zeitschlüssel!
 
 [FINISH_BEACH_19_DESC]
-Avocados können designen, schwimmen und nach vorne sprinten, wenn sie besiegt werden! Rache! Schließe Tag 19 von Big Wave Beach ab!
+Guakodile können designen, schwimmen und nach vorne sprinten, wenn sie besiegt werden! Rache! Schließe Tag 19 von Big Wave Beach ab!
 
 [FINISH_BEACH_19_TITLE]
-Schalte Avocados frei!
+Schalte Guakodile frei!
 
 [FINISH_BEACH_20_DESC]
 Besiege die Zombies, die immer feiern, und hol dir Belohnungen beim Strandfest! Schließe Tag 20 von Big Wave Beach ab!
@@ -27253,10 +27253,10 @@ Zerstöre Grabsteine im Handumdrehen mit dem Grabfresser! Schließe Tag 9 des ge
 Schalte den Grabfresser frei!
 
 [FINISH_EIGHTIES_1_DESC]
-Die Zauberrübe sorgt für Stimmung und verursacht überall Schaden! Schließe Rock of Ages 1 ab!
+Die Fette Bete sorgt für Stimmung und verursacht überall Schaden! Schließe Rock of Ages 1 ab!
 
 [FINISH_EIGHTIES_1_TITLE]
-Schalte die Zauberrübe frei!
+Schalte die Fette Bete frei!
 
 [FINISH_EIGHTIES_16_DESC]
 Besiege den Musik-Riesen-Zombie in Rock of Ages 16 und gewinne einen Zeitschlüssel der Gerechtigkeit!
@@ -28423,7 +28423,7 @@ Du hast unzählige Quests abgeschlossen! Und jede Menge Belohnungen erhalten!
 {TIRED:winnie}Nein, bist du nicht. Aber du hast mich inspiriert.
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_6]
-{EXCITED:winnie}Avocado! Diese Pflanze kann Zombies mit einer Atombombe angreifen, die einen Krater erzeugt.
+{EXCITED:winnie}Guakodile! Diese Pflanze kann Zombies mit einer Atombombe angreifen, die einen Krater erzeugt.
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_7]
 {SAY:winnie}Und sie beißt richtig gut.
@@ -33129,34 +33129,34 @@ Zombot-Rampensau
 Ein intimer Abend mit Dr. Zomboss – und ein Einblick in dessen kranke Gedankenwelt.
 
 [PHATBEET_PRODUCT_SHORT_DESC]
-PHATBEET kann Schallwellen aussenden, die Zombies in der Umgebung Schaden zufügen.
+Die Fette Bete kann Schallwellen aussenden, die Zombies in der Umgebung Schaden zufügen.
 
 [PHATBEET_AVATAR_NAME]
-PHATBEET-Kostüm
+Brillenhut
 
 [STORE_PRODUCT_AVATAR_PHATBEET]
 Die Spezialdünger-Fähigkeit kann Zombies wegschleudern.
 
 [STORE_PRODUCT_AVATAR_PHATBEET_TITLE]
-PHATBEET-Kostüm
+Brillenhut
 
 [PHATBEET_SKILL_LEVEL1]
-Klang des Klangs
+Klang der Wellen
 
 [PHATBEET_SKILL_LEVEL1_DES]
-Erhöht die Wahrscheinlichkeit von PHATBEETs schwerem Angriff.
+Erhöht die Wahrscheinlichkeit von Fette Betes schwerem Angriff.
 
 [PHATBEET_SKILL_LEVEL2]
 Audio-Oszillation
 
 [PHATBEET_SKILL_LEVEL2_DES]
-Erhöht den Schaden von PHATBEETs schwerem Angriff.
+Erhöht den Schaden von Fette Betes schwerem Angriff.
 
 [PHATBEET_SKILL_LEVEL5]
 Heftiger Fels
 
 [PHATBEET_SKILL_LEVEL5_DES]
-Die magische Rübe springt schnell und sendet stärkere Schallwellen aus, die Zombies in die Luft wirbeln und ihre Rüstung abwerfen.
+Die Fette Bete springt schnell und sendet stärkere Schallwellen aus, die Zombies in die Luft wirbeln und ihre Rüstung abwerfen.
 
 [THYMEWARP_PRODUCT_SHORT_DESC]
 Das Zeitumkehrgras kann einige Zombies auf dem Feld auf die rechte Seite teleportieren.
@@ -37367,12 +37367,12 @@ Auch als Steckrübe bekannt, können ihre Knollen gekocht, eingelegt oder als Fu
 [GUACODILE_FAMILY]
 Lauraceae
 [GUACODILE_GENUS]
-Avocado
+Guakodile
 [GUACODILE_PEDIA]
-Avocado – ein nahrhaftes „Superfood“
+Guakodile – ein nahrhaftes „Superfood“
 Immergrüner Baum.
 Etwa 10 Meter hoch; die Blätter sind wechselständig, ledrig und länglich; die Rispen sind trichterförmig, die Blüten klein (ca. 5 mm lang), hellgelbgrün, die Blütenhülle ist verkehrt kegelförmig, die Blütenhülle hat sechs Lappen; die Früchte sind birnenförmig, die Samen eiförmig und einzeln. Blütezeit: Februar–März, Fruchtzeit: August–September.
-Die Avocado hat die Form einer Birne und eine raue Schale wie Krokodilhaut, daher ihr Name. Aufgrund ihrer Textur und ihres Geschmacks, der an gelbe (Rinder-)Butter erinnert, wird sie auch Avocado genannt. Ihr hoher Gehalt an gesunden Fetten macht sie zu einem „Superfood“. Ursprünglich stammt sie aus dem tropischen Amerika und wird heute in vielen tropischen und subtropischen Regionen der Welt angebaut. Ihr Kern enthält fettes Öl, das in der Lebensmittel-, Medizin- und Kosmetikindustrie verwendet wird.
+Die Guakodile hat die Form einer Birne und eine raue Schale wie Krokodilhaut, daher ihr Name. Aufgrund ihrer Textur und ihres Geschmacks, der an gelbe (Rinder-)Butter erinnert, wird sie auch Guakodile genannt. Ihr hoher Gehalt an gesunden Fetten macht sie zu einem „Superfood“. Ursprünglich stammt sie aus dem tropischen Amerika und wird heute in vielen tropischen und subtropischen Regionen der Welt angebaut. Ihr Kern enthält fettes Öl, das in der Lebensmittel-, Medizin- und Kosmetikindustrie verwendet wird.
 
 
 [PEANUT_FAMILY]
@@ -40858,7 +40858,7 @@ Wenn Adlerklaue einen Blitzball kondensiert, besteht eine 80%ige Chance, einen z
 Adlerklaue erzeugt einen riesigen Blitzball, der den Zombies im 3x3-Bereich alle 0,5 Sekunden 1 Schaden zufügt.
 
 [EAGLECLAW_AVATAR_PLANTFOOD_DESCRIPTION]
-Der ultimative Angriff kann Zombies für 1 Sekunde lähmen.
+Die Spezialdünger Fähigkeit kann Zombies für 1 Sekunde lähmen.
 
 [HEAVENDATURA]
 Heavendatura
@@ -42232,23 +42232,23 @@ Der Münzgras-Trommler verbessert die Eigenschaften von Pflanzen, insbesondere d
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER]
 Er erhöht die Angriffskraft der Orchesterpflanzen auf dem Feld (Morgenblume, Tulpentrompeter, Magische Bete, Bananentänzerin, Geisterpfeffer) um 40% und die Angriffsgeschwindigkeit um 35%. Außerdem erhöht er Angriff und Angriffsgeschwindigkeit anderer Pflanzen um 25%
 
-[STORE_PRODUCT_A VATAR_HYDROCOTYLEDRUMMER_TITLE]
+[STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER_TITLE]
 Hydrocotyledrummer-Kostüm
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL1]
-Big Band
+Große Band
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL1_DES]
 Erhöht die Angriffskraft und Angriffsgeschwindigkeit von Bandpflanzen in der Nähe (Morgenblume, Tulpentrompeter, Magische Bete, Bananentänzerin, Geisterpfeffer) um 25%.
 
-[HYDROCOTYLEDRUMMER_ SKILL_LEVEL2]
+[HYDROCOTYLEDRUMMER_SKILL_LEVEL2]
 Band-Karneval
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL2_DES]
 Verbessert die Attribute von Bandpflanzen und erhöht deren Angriffskraft um 35% und Angriffsgeschwindigkeit um 30%.
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL5]
-Heilung Ton
+Heilungs Ton
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL5_DES]
 Stellt alle 15 Sekunden 10% der Gesundheit der Pflanze wieder her. Einmalige Pflanzen sind nicht wirksam.
@@ -44488,7 +44488,7 @@ Defensivindex: ^ee2c2c 4 ^oldclr
 Gesamtstärke: ^436eee 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM3_DES_5]
-^ffed86-Aufstellung ^oldclr: Narcissus-Schütze, Lian Xiaopeng, Avocado
+^ffed86-Aufstellung ^oldclr: Narcissus-Schütze, Lian Xiaopeng, Guakodile
 
 [PVZ_WORLDCUP_TEAM3_DES_6]
 
@@ -49032,7 +49032,7 @@ Die Gesundheit der Spinnenden Ananas wird um {Param_1}% erhöht.
 Heather Explorer hat eine Chance von {Param_1}%, die Anzahl der abgefeuerten Pfeile zu verdoppeln.
 
 [GENE_DESCRIPTION_SQUASH]
-Die Wahrscheinlichkeit, dass Squash nach einem Angriff nicht verschwindet und zur Ausgangsposition zurückkehrt, erhöht sich um {Param_1}% (wirksam ab Stufe 2).
+Die Wahrscheinlichkeit, dass Matschkürbis nach einem Angriff nicht verschwindet und zur Ausgangsposition zurückkehrt, erhöht sich um {Param_1}% (wirksam ab Stufe 2).
 
 [GENE_DESCRIPTION_BYTTNERIAMETEORHAMMER]
 Der Schaden des aufgeladenen Angriffs des Bulgur-Meteorhammers erhöht sich um {Param_1}%
@@ -49059,7 +49059,7 @@ Erhöht die Angriffsgeschwindigkeit des Bumerang-Werfers um {Param_1}%.
 Ionisiertes Anthurium: Der Schaden des Elektroballs wird um {Param_1}% erhöht.
 
 [GENE_DESCRIPTION_HOMINGTHISTLE]
-Die Wahrscheinlichkeit, dass Homing Thistle zwei Projektile hintereinander abfeuert, wird um {Param_1}% erhöht (wirksam ab Level 2).
+Die Wahrscheinlichkeit, dass Lenkdistel zwei Projektile hintereinander abfeuert, wird um {Param_1}% erhöht (wirksam ab Level 2).
 
 [GENE_DESCRIPTION_AGAVE]
 Beim Angriff hat Agave eine Wahrscheinlichkeit von {Param_1}%, zusätzliche Schwertenergie mit der gleichen Angriffskraft wie beim Hiebangriff zu schwingen und Zombies im 3. bis 5. Feld rechts Schaden zuzufügen.
@@ -49258,7 +49258,7 @@ Aktivitätsregeln:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super-Anhänger 2,04 %, Einzellos 4,53 %, Erweiterte Bücher 0,06 %.
 7. Einige Level- und Glücksrad-Belohnungen kannst du selbst auswählen. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
-Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
+Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
@@ -49281,7 +49281,7 @@ Aktivitätsregeln:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
-Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
+Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
@@ -49305,7 +49305,7 @@ Aktivitätsregeln:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
-Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
+Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
@@ -49328,7 +49328,7 @@ Aktivitätsregeln:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
-Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
+Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
@@ -49351,7 +49351,7 @@ Aktivitätsregeln:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
-Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Avocado
+Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
@@ -51702,9 +51702,8 @@ Pflanzenangriffskraft um 10% erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_HOYACORDATA_1]
 Fächerherzblatt-Orchideen-Weihnachtskostüm
 
-[NEW_AVATAR_DESCRIPTION_GATLINGPEA_1]
-IPTION_HOYACORDATA_1]
-Pflanzenabklingzeit 20% kürzer
+[NEW_AVATAR_DESCRIPTION_HOYACORDATA_1]
+Pflanzenabklingzeit um 20 % reduziert.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LEMON_1]
 Weihnachtskleid mit Zitronensäure
@@ -51769,7 +51768,10 @@ Drachengebrüll-Gras-Verbindungskostüm
 [NEW_AVATAR_DESCRIPTION_DRAGONROAR_1]
 Die Abklingzeit des Pflanzens wurde um 10% verkürzt.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_DRAGONROAR_1] AGONCANE_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_DRAGONROAR_1] 
+Ohrenwärmer
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DRAGONCANE_1]
 Drachenstock-Meister-Verbindungskostüm
 
 [NEW_AVATAR_DESCRIPTION_DRAGONCANE_1]
@@ -51860,9 +51862,18 @@ Kindertag des Bohnenkommando's
 Kastanien-Kindertagskostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GREENTURNIP_1]
-Unartiges Karotten-Kindertagskostüm
+Kindertags-Cappy
 
-[NEW_AVATAR_D ESCRIPTION_GREENTURNIP_1]
+[NEW_AVATAR_DESCRIPTION_CITRON]
+Erhöht die Angriffskraft um 10 %
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_2]
+Phantomdieb
+
+[NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_2]
+Erhöht die Angriffskraft um 20 %
+
+[NEW_AVATAR_DESCRIPTION_GREENTURNIP_1]
 Angriffsgeschwindigkeit um 15% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHOMPER_1]
@@ -52021,7 +52032,7 @@ Frost-Rambutan-Wachstums-Outfit
 [NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_1]
 Angriffsintervall um 20% reduziert
 
-[NEW_AVATAR_SHORT_DESCRIPTION_NEKOT AIL_2]
+[NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_2]
 Katzenschwanzkuchen Kostüm
 
 [NEW_AVATAR_DESCRIPTION_NEKOTAIL_2]
@@ -52234,21 +52245,17 @@ Stinkeblütemaske
 [NEW_AVATAR_DESCRIPTION_STALLIA_1]
 Abklingzeit des Pflanzens um 10% reduziert
 
-[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_1]
-Primitives Kartoffel-Tigerstreifen-Outfit ...REDSTINGER_1]
-Angriffsgeschwindigkeit erhöht um 10%
-
 [NEW_AVATAR_SHORT_DESCRIPTION_STALLIA_1]
 Stinkeblüte-Maske
 
 [NEW_AVATAR_DESCRIPTION_STALLIA_1]
 Abklingzeit beim Pflanzen um 10% reduziert
 
-[NEW_AVATAR_DESCRIPTION_PRIMALPOTATOMINE_1]
-Primitives Kartoffel-Tigerstreifen-Outfit
+[NEW_AVATAR_DESCRIPTION_PRIMALPOTATOMINE1]
+Explosionsschaden um 15% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_1]
-Explosionsschaden um 15% erhöht
+Primitives Kartoffel-Tigerstreifen-Outfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BLOOMINGHEARTS_1]
 Glockenblumenbogen
@@ -52287,10 +52294,10 @@ Dämmerungskrug-Kappe
 Erhöht die Wahrscheinlichkeit von Fertigkeit 2 um 10% (nur wirksam für Pflanzen über Stufe 2)
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WITCHHAZEL_1]
-Hamamelis-Nachtmütze
+Nachtmütze
 
-[NEW_AVATAR_DESCRIPTION_WITCHH AZEL]
-Verkürzt die Aufladezeit der Zauber der Hamamelis-Hexe um 3 Sekunden.
+[NEW_AVATAR_DESCRIPTION_WITCHHAZEL]
+Verkürzt die Aufladezeit der Zauber der Hexe-Hasel um 3 Sekunden.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GRIMROSE_1]
 Dunkle Primel mit breiter Krempe
@@ -52604,7 +52611,7 @@ Auberginen-Ninja Weihnachtskostüm
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_1]
 Erhöht die Wahrscheinlichkeit, dass bei normalen Angriffen explosive Pfeile erscheinen, um 10%.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROP A_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_1]
 Monotropa-Weihnachtskostüm
 
 [NEW_AVATAR_DESCRIPTION_MONOTROPA_1]
@@ -52637,7 +52644,7 @@ Angriffskraft um 8% erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_1]
 Apfelmörser-Tiger Year Kostüm
 
-[NEW_ AVATAR_DESCRIPTION_APPLEMORTAR_1]
+[NEW_AVATAR_DESCRIPTION_APPLEMORTAR_1]
 Pflanzen-Abklingzeit um 10% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DEVILSFLOWER_1]
@@ -52705,6 +52712,12 @@ Elaeeo Pitcher-Outfit vom 1. Juni
 
 [NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_1]
 Allgemeiner Angriffs-Badminton wird erneut ausgeschlossen.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HOMINGTHISTLE_2]
+Geburtstags Kuchen
+
+[NEW_AVATAR_DESCRIPTION_HOMINGTHISTLE_2]
+Erhöht den Angriffsschaden um 10 %
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOMINGTHISTLE_1]
 Guide-Distel Juni 1. Outfit
@@ -52913,7 +52926,7 @@ DJ Beet Rabbit Jahr Kostüm
 [NEW_AVATAR_DESCRIPTION_PHATBEET_1]
 Erhöht die Angriffskraft von Pflanzen um 10%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_ THUNDERSNAPDRAGON_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_1]
 Donnerdrachen-Gras-Kaninchen-Jahreskostüm
 
 [NEW_AVATAR_DESCRIPTION_THUNDERSNAPDRAGON_1]
@@ -52968,7 +52981,7 @@ Kleebrille
 Reduziert den Sonnenlichtverbrauch um 25%.
 
 [STORE_PRODUCT_AVATAR_HURRIKALE_TITLE]
-Hurrikan-Schal
+Fuchsschal
 
 [STORE_PRODUCT_AVATAR_HURRIKALE]
 Reduziert den Sonnenlichtverbrauch um 25%.
@@ -55317,7 +55330,7 @@ Drei Gashapons werden ausgerollt und die entsprechenden Effekte werden entsprech
 Glücks-Gashapon
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_1]
-Aktiv einsetzen: Drei Gashapons werden ausgerollt. Erscheinen zwei identische Gashapons, werden entsprechende Effekte ausgelöst. Erscheinen drei identische Gashapons, wird der Effekt deutlich verstärkt. Giftige Schattenpilze können alle Zombies vergiften; Avocados können Zombies in Gruppen angreifen; Super-Blumenkohl kann Zombies bezaubern; Gefrorener Salat kann alle Zombies einfrieren; Sonnenregen lässt Sonnenregen vom Himmel fallen. Die Abklingzeit der Fertigkeit beträgt 30 Sekunden und kann {MainField_3}-mal pro Kampf eingesetzt werden.
+Aktiv einsetzen: Drei Gashapons werden ausgerollt. Erscheinen zwei identische Gashapons, werden entsprechende Effekte ausgelöst. Erscheinen drei identische Gashapons, wird der Effekt deutlich verstärkt. Giftige Schattenpilze können alle Zombies vergiften; Guakodile können Zombies in Gruppen angreifen; Super-Blumenkohl kann Zombies bezaubern; Gefrorener Salat kann alle Zombies einfrieren; Sonnenregen lässt Sonnenregen vom Himmel fallen. Die Abklingzeit der Fertigkeit beträgt 30 Sekunden und kann {MainField_3}-mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_GASHAPON_SKILL_2]
 Wahrscheinlichkeitsmeisterschaft
@@ -55335,7 +55348,7 @@ Passiver Effekt: Wenn nicht drei identische Kapseln in einem Spiel erhalten werd
 Gachapon-Renovierung
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_4]
-Passiver Effekt: Die Gegenstände im Gachapon-Artefakt werden besser, stärker und schöner. Giftiger Schattenpilz wird durch Eisenkraut ersetzt; Avocado durch Pastinake; Super-Blumenkohl wird durch Hypnopilz ersetzt; Gefrorener Salat wird durch Kristallorchidee ersetzt; Sonnenregen wird aufgewertet.
+Passiver Effekt: Die Gegenstände im Gachapon-Artefakt werden besser, stärker und schöner. Giftiger Schattenpilz wird durch Eisenkraut ersetzt; Guakodile durch Pastinake; Super-Blumenkohl wird durch Hypnopilz ersetzt; Gefrorener Salat wird durch Kristallorchidee ersetzt; Sonnenregen wird aufgewertet.
 
 [ARTIFACT_GASHAPON_RESULT_2]
 Zwei gleiche
@@ -55347,7 +55360,7 @@ Drei gleiche
 Vergiftet alle Zombies, verlangsamt sie und fügt ihnen Schaden zu.
 
 [ARTIFACT_GASHAPON_AFFECT_1]
-Beschwört eine Gruppe kleiner Avocados, die nach rechts stürmen und Zombies Schaden zufügen.
+Beschwört eine Gruppe kleiner Guakodile, die nach rechts stürmen und Zombies Schaden zufügen.
 
 [ARTIFACT_GASHAPON_AFFECT_2]
 Bezaubert 2 Zombies.
@@ -55378,7 +55391,7 @@ Verwandelt alle Zombies 15 Sekunden lang in Schneemänner.
 Vergiftet alle Zombies, verlangsamt sie und fügt ihnen hohen Schaden zu.
 
 [ARTIFACT_GASHAPON_AFFECT_13]
-Beschwört eine Gruppe riesiger Avocados, die nach rechts stürmen und Zombies hohen Schaden zufügen. Zombies
+Beschwört eine Gruppe riesiger Guakodile, die nach rechts stürmen und Zombies hohen Schaden zufügen. Zombies
 
 [ARTIFACT_GASHAPON_AFFECT_23]
 Verzaubere 6 Zombies
@@ -65064,7 +65077,7 @@ ca=Verleiht euch und den umliegenden Pflanzen einen Schild. | Feuert einen Strah
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_PRIMALSUNFLOWER]
 Wenn du die Frage richtig antwortest, bist du ein Pflanzenmeister!
 
-Der ultimative Angriffszug der Spezialdünger-Fähigkeit der Ur-Sonnenblume erzeugt sofort 225 Punkte Sonnenlicht.
+Die Spezialdünger Fähigkeitszug der Spezialdünger-Fähigkeit der Ur-Sonnenblume erzeugt sofort 225 Punkte Sonnenlicht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_PRIMALSUNFLOWER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
@@ -65205,11 +65218,11 @@ ca=Spuckt Feuer, um Zombies vor sich anzugreifen | Verleiht umliegenden Pflanzen
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_ELECTRICBLUEBERRY]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Der ultimative Angriff der Spezialdünger-Fähigkeit von der Elektrischen Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
+Die Spezialdünger Fähigkeit der Spezialdünger-Fähigkeit von der Elektrischen Blaubeere setzt eine große Gewitterwolke frei, die dreimal hintereinander angreift.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_ELECTRICBLUEBERRY]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der ultimative Angriff der Spezialdünger-Fähigkeit von der Elektrischen Blaubeere kann einen stärkeren Gewitterwolkenangriff auslösen.
+Die Spezialdünger Fähigkeit der Spezialdünger-Fähigkeit von der Elektrischen Blaubeere kann einen stärkeren Gewitterwolkenangriff auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_ELECTRICBLUEBERRY]
 Welchen kosmetischen Effekt hat der Elektrischen Blaubeere?
@@ -65228,14 +65241,14 @@ Wenn du falsch antwortest, beantworte die Frage bitte erneut.
 Der kosmetische Effekt von Elektrische Blaubeere besteht darin, die Fähigkeiten von Zombies durch Blitze zu schwächen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_TALLNUT]
-Was ist die Hauptfunktion der Hohen Nuss?
+Was ist die Hauptfunktion der Hochwall-Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_TALLNUT]
 ca=Sonnenlicht erzeugen | Zombies Schaden zufügen | Zombies am Vorrücken hindern | Freundliche Pflanzen behandeln oder unterstützen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Hauptfunktion der Hohen Nuss besteht darin, Zombies am Vorrücken zu hindern.
+Die Hauptfunktion der Hochwall-Nuss besteht darin, Zombies am Vorrücken zu hindern.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_TALLNUT]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
@@ -65351,21 +65364,21 @@ Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit des Hochnusses ist, 
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_TALLNUT]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Der ultimative Angriff der Spezialdünger-Fähigkeit der Hohen Nuss kann Zombies länger widerstehen.
+Die Spezialdünger Fähigkeit der Hochwall-Nuss kann Zombies länger widerstehen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_TALLNUT]
-Welchen Effekt hat die Dekoration der Hohen Nuss?
+Welchen Effekt hat die Dekoration der Hochwall-Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
 ca=Eine riesige Erdbeere beschwören und explodieren lassen | Spezialdünger-Fähigkeit für eine stärkere Kristallrüstung | Drei goldene Granaten nach vorne schießen | Eine Mischung aus Feuer-, Eis- und gewöhnlichen Erbsengeschossen verschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Dekoration der Hohen Nuss bewirkt, dass die Spezialdünger-Fähigkeit eine stärkere Kristallrüstung verleiht.
+Die Dekoration der Hochwall-Nuss bewirkt, dass die Spezialdünger-Fähigkeit eine stärkere Kristallrüstung verleiht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_TALLNUT]
 Falls du falsch geantwortet hast, beantworte die Frage bitte erneut.
-Die Verzierung der Hohen Nuss verstärkt die Rüstung.
+Die Verzierung der Hochwall-Nuss verstärkt die Rüstung.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_CHOMPER]
 Was ist die Hauptfunktion der Schnapper?
@@ -65506,11 +65519,11 @@ ca=Vergrößert die Reichweite des Feuers, das durch die Spezialdünger-Fähigke
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_CHOMPER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Das Kostüm des Schnapper bewirkt, dass die Spezialdünger-Fähigkeit die Eisenrohrpanzerung beim Aufblasen von Zombies wegblasen kann.
+Das Kostüm des Schnapper's bewirkt, dass die Spezialdünger-Fähigkeit die Eisenrohrpanzerung beim Aufblasen von Zombies wegblasen kann.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Das Kostüm des Schnapper verstärkt die Wirkung der ultimativen Fähigkeit beim Aufblasen von Zombies.
+Das Kostüm des Schnapper's verstärkt die Wirkung der ultimativen Fähigkeit beim Aufblasen von Zombies.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_SQUASH]
 Was ist die Hauptfunktion des Matschkürbis?
@@ -65543,7 +65556,7 @@ Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Der Matschkürbis kann springen und Zombies zerquetschen, aber die Sprungreichweite ist begrenzt.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_2_SQUASH]
-Wie groß ist die Sprungreichweite des Squash?
+Wie groß ist die Sprungreichweite des Matschkürbis'?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_SQUASH]
 ca=das Gitter, auf dem du dich befindest|das Gitter davor|das Gitter und das Gitter davor|das Gitter, das Gitter davor und das Gitter dahinter|
@@ -71025,7 +71038,7 @@ Der Karottenraketenwagen hat verbesserte Schussfähigkeiten und kann nun zwei Ra
 Die hervorragenden Schussfähigkeiten des Karottenraketenwagens ermöglichen es ihm, vier Raketen gleichzeitig abzufeuern. Die Ruhezeit beträgt 11 Sekunden.
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL4_DES]
-Beim Einsetzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Einsetzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [CARROTLAUNCHER_PLANTFOOD_DESCRIPTION]
 Die Transformationskanone zielt auf den Zombie rechts von ihr und feuert eine Rakete mit 20.000 Lebenspunkten ab. Nachdem die Rakete aufgefressen wurde, explodiert sie und verursacht Zombies im Umkreis von 3×3 Schaden. Befindet sich eine Pflanze auf dem Zielfeld, explodiert die Rakete direkt und verursacht eine Explosion im Umkreis von 3×3.
@@ -71364,34 +71377,34 @@ Bei voller Kraft werden 4 Bananenbomben zufällig über den gesamten Bildschirm 
 Bei voller Kraft werden 4 Bananenbomben zufällig auf den gesamten Bildschirm abgefeuert^ff0000^ und eine zusätzliche Bombe mit etwas geringerem Schaden hinzugefügt.^oldclr^ Anschließend wird der Ruhezustand aktiviert.
 
 [GUACODILE_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben der Avocado erscheint, feuert die Avocado einen Kern oder eine Klammer ab. Wird die Avocado beschädigt oder nähert sich ein Zombie der Avocado, lädt sich die Avocado auf und fügt den Zombies auf dem Weg mit einer Frequenz von 0,2 s/Zeit Schaden zu. Der Ladeschaden beträgt 150.
+Wenn ein Zombie rechts neben dem Guakodile erscheint, feuert das Guakodil einen Kern oder eine Klammer ab. Wird das Guakodil beschädigt oder nähert sich ein Zombie dem Guakodil, lädt sich der Guakodil auf und fügt den Zombies auf dem Weg mit einer Frequenz von 0,2 s/Zeit Schaden zu. Der Ladeschaden beträgt 150.
 
 [GUACODILE_NEW_SKILL_LEVEL2_DES]
-Es besteht eine 20%ige Chance, die Klammern der Avocado abzufeuern und so 50% zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 225.
+Es besteht eine 20%ige Chance, das Metall-Gebiss des Guakodile's abzufeuern und so 50% zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 225.
 
 [GUACODILE_NEW_SKILL_LEVEL3_DES]
-Es besteht eine 40%ige Chance, die Juwelspangen der Avocado zu schleudern und so 100% zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 300.
+Es besteht eine 40%ige Chance, die Juwelspangen des Guakodile's zu schleudern und so 100% zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 300.
 
 [GUACODILE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt mit einem großen Move auszulösen! Der Aufladeschaden erhöht sich auf 375.
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die  Der Aufladeschaden erhöht sich auf 375.
 
 [GUACODILE_PLANTFOOD_DESCRIPTION]
-Stoße die Zombies vor dir zurück und lasse zwei kleine Avocados mit denselben Aufladeeigenschaften wie du los. Die kleinen Avocados stürmen vom Feld.
+Stoße die Zombies vor dir zurück und lasse zwei kleine Guakodile mit denselben Aufladeeigenschaften wie du los. Die kleinen Guakodile stürmen vom Feld.
 
 [GUACODILE_AVATAR_PLANTFOOD_DESCRIPTION]
-Stoße die Zombies vor dir zurück und lasse zwei kleine Avocados mit denselben Aufladeeigenschaften wie du los. ^ff0000^ Die kleinen Avocados drehen sich nach Erreichen der neunten Spalte um, bewegen sich nach links und stürmen von links aus dem Feld. ^oldclr^
+Stoße die Zombies vor dir zurück und lasse zwei kleine Guakodile mit denselben Aufladeeigenschaften wie du los. ^ff0000^ Die kleinen Guakodile drehen sich nach Erreichen der neunten Spalte um, bewegen sich nach links und stürmen von links aus dem Feld. ^oldclr^
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie auf dem Feld erscheint, feuert Homing Thistle Nadeln ab, um ihn anzugreifen. Homing Thistle priorisiert dabei immer den Zombie ganz links auf dem Feld.
+Wenn ein Zombie auf dem Feld erscheint, feuert die Lenkdistel Nadeln ab, um ihn anzugreifen. Lenkdistel priorisiert dabei immer den Zombie ganz links auf dem Feld.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL2_DES]
-Homing Thistle hat eine Chance von 25%, zwei Nadeln hintereinander abzufeuern.
+Die Lenkdistel hat eine Chance von 25%, zwei Nadeln hintereinander abzufeuern.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL3_DES]
-Homing Thistle hat eine Chance von 50%, zwei Nadeln hintereinander abzufeuern.
+Die Lenkdistel hat eine Chance von 50%, zwei Nadeln hintereinander abzufeuern.
 
 [HOMINGTHISTLE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HOMINGTHISTLE_PLANTFOOD_DESCRIPTION]
 Feuert mindestens 10 Nadeln ab, deren Schaden dem Vierfachen der eigenen Angriffskraft entspricht. Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von Homingthistle abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
@@ -71409,7 +71422,7 @@ Nachdem Homingthistle einen Zombie gefressen hat, rülpst sie und stößt alle Z
 Nachdem die Pflanze einen Zombie gefressen hat, rülpst sie und stößt alle Zombies in der Nähe um drei Felder zurück.
 
 [CHOMPER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [CHOMPER_NEW_SKILL_LEVEL5_DES]
 Die Pflanze hat eine 20%ige Chance, alle Zombies normaler Größe innerhalb von drei Feldern rechts von ihr direkt zu verschlingen und dabei 300 Schaden an nicht verschlingbaren Einheiten zu verursachen.
@@ -71469,7 +71482,7 @@ Süßkartoffels Gesundheit stieg auf 6800.
 Süßkartoffels Gesundheit stieg auf 9600.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SWEETPOTATO_NEW_SKSKILL_LEVEL5_DES]
 Beim Angriff hat die Starke Säurezitrone eine 15%ige Chance, eine Zitronenscheibe zu schleudern, die kleine Zombies mit 450 Schadenspunkten abwehrt. Nach Kontakt mit einer feindlichen Einheit kehrt sie zurück. Die abgewehrten Zombies führen alle kleinen Zombies auf dem Weg mit sich, die gemeinsam abgewehrt werden. Die Starke Säurezitrone greift erst an, wenn die Zitronenscheibe wiedergefunden wurde.
@@ -71718,7 +71731,7 @@ Bambus‘ Gesundheit steigt auf 6600.
 Bambus‘ Gesundheit steigt auf 9200.
 
 [SUGARCANE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Move auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SUGARCANE_PLANTFOOD_DESCRIPTION]
 Stöße mit einem kräftigen Stoß die Zombies vor dir zurück und betäube sie ^848484^Ⅰ^oldclr^5 Sekunden.
@@ -71919,34 +71932,34 @@ Vom AVATAR abgefeuerte Raketen können 2-mal abgefeuert werden.
 Vom AVATAR abgefeuerte Raketen können 3-mal abgefeuert werden.
 
 [GREENTURNIP_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Einpflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [GREENTURNIP_PLANTFOOD_DESCRIPTION]
-AVATAR feuert eine riesige Rakete ab, die Zombies vor ihm Schaden zufügt. Die Rakete bewegt sich vorwärts, bis sie unten rechts ankommt.
+Feuert eine riesige Rakete ab, die Zombies vor ihm Schaden zufügt. Die Rakete bewegt sich vorwärts, bis sie unten rechts ankommt.
 
 [GREENTURNIP_AVATAR_PLANTFOOD_DESCRIPTION]
-AVATAR feuert eine riesige Rakete ab, die Zombies vor sich trifft^ff0000^ und explodiert, nachdem sie unten rechts ankommt. Zombies im Umkreis von 3×3 Schaden zufügt. ^oldclr^
+Feuert eine riesige Rakete ab, die Zombies vor sich trifft^ff0000^ und explodiert, nachdem sie unten rechts ankommt. Zombies im Umkreis von 3×3 Schaden zufügt. ^oldclr^
 
 [BIRTHSUNFLOWER_NEW_SKILL_LEVEL1_DES]
-Der Sonnenblumensänger singt gern. Nach dem Singen inspiriert die erzeugte Aura die Pflanzen im Umkreis von 3×3 und verleiht ihnen 12 Sekunden lang einen Bonus von 10% Angriffskraft und Angriffsgeschwindigkeit.
+Die Sonnenblumensängerin singt gern. Nach dem Singen inspiriert die erzeugte Aura die Pflanzen im Umkreis von 3×3 und verleiht ihnen 12 Sekunden lang einen Bonus von 10% Angriffskraft und Angriffsgeschwindigkeit.
 
 [BIRTHSUNFLOWER_NEW_SKILL_LEVEL2_DES]
-Der Bonuseffekt der vom Sonnenblumensänger nach dem Singen erzeugten Aura wird auf 15% erhöht.
+Der Bonuseffekt der von der Sonnenblumensängerin nach dem Singen erzeugten Aura wird auf 15% erhöht.
 
 [BIRTHSUNFLOWER_NEW_SKILL_LEVEL3_DES]
-Der Bonuseffekt der Aura, die der Sonnenblumensänger nach dem Singen erzeugt, wird auf 20% erhöht.
+Der Bonuseffekt der Aura, die die Sonnenblumensängerin nach dem Singen erzeugt, wird auf 20% erhöht.
 
 [BIRTHSUNFLOWER_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BIRTHSUNFLOWER_NEW_SKILL_LEVEL5_DES]
-Nachdem der Sonnenblumensänger Sonnenlicht erzeugt hat, sendet er Noten an die aktuelle Reihe. Die Zombies, die von den Noten getroffen werden, werden ^848484^ Ⅰ^oldclr^2 Sekunden lang betäubt.
+Nachdem die Sonnenblumensängerin Sonnenlicht erzeugt hat, sendet sie Noten an die aktuelle Reihe. Die Zombies, die von den Noten getroffen werden, werden ^848484^ Ⅰ^oldclr^2 Sekunden lang betäubt.
 
 [BIRTHSUNFLOWER_PLANTFOOD_DESCRIPTION]
-Der Sonnenblumensänger beginnt seine Gesangsdarbietung, wobei die Lichter alle Pflanzen und Zombies auf dem Feld für 5 Sekunden stoppen und 280 Sonnenlicht erzeugen.
+Die Sonnenblumensängerin beginnt ihre Gesangsdarbietung, wobei die Lichter alle Pflanzen und Zombies auf dem Feld für 5 Sekunden stoppen und 280 Sonnenlicht erzeugen.
 
 [BIRTHSUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Sonnenblumensänger beginnt seine Gesangsdarbietung, wobei die Lichter alle Pflanzen und Zombies auf dem Feld für 5 Sekunden unterbrechen und 280 Sonnenlicht erzeugen. ^ff0000^ Andere Sonnenblumensänger auf dem Feld erzeugen einmal Sonnenlicht. ^oldclr^
+Die Sonnenblumensängerin beginnt ihre Gesangsdarbietung, wobei die Lichter alle Pflanzen und Zombies auf dem Feld für 5 Sekunden unterbrechen und 280 Sonnenlicht erzeugen. ^ff0000^ Andere Sonnenblumensängerinnen auf dem Feld erzeugen einmal Sonnenlicht. ^oldclr^
 
 [ENDURIAN_NEW_SKILL_LEVEL1_DES]
 Blockiert Zombies, um die Pflanzen dahinter zu schützen. Die harte Schale ist mit Stacheln besetzt. Bei Angriffen durch Zombies sticht sie die Zombies und fügt ihnen Schaden zu.
@@ -71958,7 +71971,7 @@ Durian erhält eine stinkende Aura, die Zombies in Reichweite 20 Schaden pro Sek
 Die stinkende Aura wird verstärkt und fügt Zombies in Reichweite 30 Schaden pro Sekunde zu. Rüstung wird dabei ignoriert.
 
 [ENDURIAN_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [ENDURIAN_PLANTFOOD_DESCRIPTION]
 Durian erhält eine Stahlrüstung. Solange diese Rüstung besteht, erhöht sich Durians Stichschaden um 50%.
@@ -72057,7 +72070,7 @@ Die Dauer der von der Lava-Guave hinterlassenen Lavalache erhöht sich um 2 Seku
 Die Lavalache spritzt in die vier angrenzenden Richtungen und bleibt 11 Sekunden lang bestehen.
 
 [LAVAGUAVA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [LAVAGUAVA_NEW_SKILL_LEVEL5_DES]
 Nach dem Ausbruch der Magmaguave schleudert sie zufällig fünf Magmakugeln. Nach der Landung der Magmakugeln entsteht ein Magmapool, der 11 Sekunden lang anhält.
@@ -72150,7 +72163,7 @@ Die Angriffszeit des goldenen Knüppels wurde auf 12 Sekunden verlängert und di
 Kiwi erlernt die Fähigkeit „Verlangsamen“, die Zombies, die von der goldenen Keule getroffen werden, verlangsamt.
 
 [KIWIFRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [KIWIFRUIT_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, einen kleinen Kiwi zu beschwören. Der kleine Kiwi fliegt nach rechts und schlägt auf die Zombies ein, die er berührt, und verursacht 300 Schaden. Nach 8 Angriffen verschwindet er.
@@ -72189,7 +72202,7 @@ Die Drachenfrucht feuert blaue Feuerbälle ab, um Zombies anzugreifen. Der Schad
 Ununterdrückbare Wut verkürzt Pitayas Angriffsintervall um 1 Sekunde.
 
 [DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit direkt einzusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
 Pitaya greift Zombies mit violetten Feuerbällen an. Der Schaden ist höher.
@@ -72231,7 +72244,7 @@ Nach 6 Schlägen kann die Streichholzblume ihre Form ändern.
 Mit zunehmender Angriffskraft färben sich die Flammen der Streichholzblume blau.
 
 [MATCHFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [MATCHFLOWER_NEW_SKILL_LEVEL5_DES]
 Wenn der Match-FLOWER-Boxer angreift, besteht eine 25%ige Wahrscheinlichkeit, einen explosiven Schlag mit 135 Schadenspunkten auszulösen.
@@ -72288,7 +72301,7 @@ Feuere und schalte viele Maschinengewehre aus, um die drei Gegnerreihen rechts z
 Feuere mit voller Kraft und nutze viele Maschinengewehre, um die drei Gegnerreihen rechts zu treffen. ^ff0000^Verwende alle Munition, einschließlich Eisgeschosse, Feuergeschosse und Geisterfeuergeschosse. ^oldclr^
 
 [PHATBEET_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies in einem 3×3 großen Bereich um die Zauberrübe herum erscheinen, schlägt diese auf die Trommel in ihrer Hand, um Schockwellen zu erzeugen und den Zombies in der Umgebung Schaden zuzufügen. Alle 4–6 Vibrationen führt die Zauberrübe einen schweren Angriff mit doppeltem Schaden aus.
+Wenn Zombies in einem 3×3 großen Bereich um die Fette Bete herum erscheinen, schlägt diese auf die Trommel in ihrer Hand, um Schockwellen zu erzeugen und den Zombies in der Umgebung Schaden zuzufügen. Alle 4–6 Vibrationen führt die Fette Bete einen schweren Angriff mit doppeltem Schaden aus.
 
 [PHATBEET_NEW_SKILL_LEVEL2_DES]
 Alle 2–4 Vibrationen führt sie einen schweren Angriff aus.
@@ -72303,10 +72316,10 @@ Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähig
 Alle 8 Sekunden kann ein Spezialschock ausgelöst werden, der die instabile Rüstung von Zombies bis Level 8 zerstört und 3 Sekunden lang 270 Schaden pro Sekunde verursacht.
 
 [PHATBEET_PLANTFOOD_DESCRIPTION]
-Die Zauberrübe sendet eine starke Schallwelle aus, die Zombies im Umkreis von 3×3 und anschließend Zombies im Umkreis von 5×5 Schaden zufügt.
+Die Fette Bete sendet eine starke Schallwelle aus, die Zombies im Umkreis von 3×3 und anschließend Zombies im Umkreis von 5×5 Schaden zufügt.
 
 [PHATBEET_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Zauberrübe sendet eine starke Schallwelle aus, die Zombies im Umkreis von 3×3 und anschließend Zombies im Umkreis von 5×5 Schaden zufügt. ^ff0000^ Kann Zombies vom Boden abschütteln. ^oldclr^
+Die Fette Bete sendet eine starke Schallwelle aus, die Zombies im Umkreis von 3×3 und anschließend Zombies im Umkreis von 5×5 Schaden zufügt. ^ff0000^ Kann Zombies vom Boden abschütteln. ^oldclr^
 
 [THYMEWARP_NEW_SKILL_LEVEL1_DES]
 Das zeitumgekehrte Gras, das die Macht von Zeit und Raum kontrolliert, lässt die fünf gegnerischen Zombies ganz links im Feld innerhalb von 2,5 Sekunden nach dem Pflanzen verschwinden und drei Sekunden später ganz rechts in derselben Reihe wieder erscheinen. Die vollständig manifestierten Zombies werden von ihrem abnormalen Zustand befreit (außer Schrumpfen) und ihre Gesundheit wird vollständig wiederhergestellt. Die teleportierten Zombies können sich während des gesamten Vorgangs nicht bewegen.
@@ -72333,7 +72346,7 @@ Beim Ausbruch aus dem Boden besteht eine 25%ige Chance auf einen Handflächensch
 Beim Ausbruch aus dem Boden besteht eine 50%ige Chance auf einen Handflächenschlag, der Zombies um 1 Feld zurückdrängt.
 
 [CELERYSTALKER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [CELERYSTALKER_PLANTFOOD_DESCRIPTION]
 Lauernder Sellerie erzeugt sofort 3 lauernde Sellerie auf einem zufälligen leeren Feld.
@@ -73290,7 +73303,7 @@ Bananentänzer erlernt Tanzkraft-Regeneration, wodurch die Angriffsruhezeit um 1
 Der Effekt der Tanzkraft-Regeneration wird um 100% erhöht und die Angriffsruhezeit erneut um 1 Sekunde verkürzt.
 
 [PLANTAIN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Move auszulösen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [PLANTAIN_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 40% Chance, einen chaotischen Wirbelwind zu erzeugen, der ^ff4284^ Zauber I^oldclr^ kleine Zombies nicht höher als sein eigenes Level bezaubert.
@@ -73866,7 +73879,7 @@ Der normale Angriff von Ananas-Kettenklinge hat eine Chance von 20%, in einen au
 Der Fertigkeitseffekt von Schneller leichter Kettenschlag ist um 100% erhöht.
 
 [BROMELBLADE_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BROMELBLADE_NEW_SKILL_LEVEL5_DES]
 Nach dem Auslösen des Abwärtsangriffs besteht eine Chance von 50%, mit einem krachenden Angriff nachzusetzen. Ananas sticht die Kettenklinge in den Boden, fügt dem Zombie 4 Felder rechts 5400 Schaden zu und stößt ihn 1,5 Felder zurück.
@@ -74521,7 +74534,7 @@ Die Ladegeschwindigkeit des Dornigen Meteorhammers wird erhöht. Das Drehen des 
 Die Wirkung der Fertigkeit „Schnelles Laden“ wird um 100% erhöht. Das Drehen des Meteorhammers dauert 8 Sekunden, um den Ladevorgang abzuschließen.
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den ultimativen Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL5_DES]
 Der durch den Angriff abgefeuerte Meteorhammer verwandelt sich in einen gespaltenen Meteorhammer aus drei Dornfrüchten, der einen Angriff auf bis zu drei Zombies in geringer Reichweite ausführen kann.
@@ -75673,7 +75686,6 @@ Blitzschaden um 20% erhöht
 Ruhezeit um 10% reduziert
 
 [NEW_AVATAR_DESCRIPTION_8]
-ESCRIPTION_8]
 Sonnenlichtverbrauch um 20
 
 [NEW_AVATAR_DESCRIPTION_9]
@@ -76896,8 +76908,14 @@ Laserkrone Blumenkönigin Kostüm
 [NEW_AVATAR_DESCRIPTION_CROWNFLOWER_3]
 Sonnenlichtverbrauch um 30 Punkte reduzieren
 
-[NEW_AVATAR_SHORT_DE SCRIPTION_MULBERRY_3]
-Mulberry Blaster Piraten-Outfit
+[NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_3]
+Pirat
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_2]
+Vernetzt
+
+[NEW_AVATAR_DESCRIPTION_ELECTRICPEASHOOTER_2]
+Erhöht den Blitzschaden um 20 %
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_3]
 Angriffsgeschwindigkeit um 20% erhöht
@@ -76921,9 +76939,9 @@ Eispilz-Goldener-Herbst-Kostüm
 Pflanzenangriffskraft um 20% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUMPKINWITCH_1]
-Kürbiszauberer-Halloween-Kostüm
+Halloween-Kostüm
 
-[NEW_AVATAR_DESCRIPTION_PUMPKINWITCH_1] ITCH_1]
+[NEW_AVATAR_DESCRIPTION_PUMPKINWITCH_1]
 Abklingzeit des Pflanzens um 15% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HEAVENDATURA_1]
@@ -76989,7 +77007,7 @@ Angriffsintervall um 15% verkürzt
 [NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_3]
 Wasserkastanienbrüder: Gold- und Silberkönig (Anzug)
 
-[NEW_AVATAR_DESCRIPTION_ELEO CURLING_3]
+[NEW_AVATAR_DESCRIPTION_ELEOCURLING_3]
 Ruhezeit um 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIBEAST_2]
