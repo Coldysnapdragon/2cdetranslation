@@ -38275,8 +38275,8 @@ Feuert eine Atombombe ab, die hohen Schaden verursacht und gleichzeitig Strahlun
 [STORE_PRODUCT_AVATAR_NUKELAUNCHER]
 Feuert drei weitere Atombomben ab, wobei die Mutation riesiger Zombies Priorität hat.
 
-[STORE_PRODUCT_AVATAR_NUKELAUNCHER] DUCT_AVATAR_NUKELAUNCHER_TITLE]
-Erd-Startsilo Outfit
+DUCT_AVATAR_NUKELAUNCHER_TITLE]
+Atomschutz Brille
 
 [NUKELAUNCHER_SKILL_LEVEL1]
 Strahlungsverstärkung
@@ -39027,7 +39027,7 @@ Kann anziehende Edelsteine versprühen und Zombies in den oberen und unteren Ede
 [STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER_TITLE]
 Granatapfelkleid des Edelsteinhändlers
 
-[POMEGRANATEJEWE LER_SKILL_LEVEL1]
+[POMEGRANATEJEWELER_SKILL_LEVEL1]
 Reich und geschäftstüchtig
 
 [POMEGRANATEJEWELER_SKILL_LEVEL1_DES]
@@ -42366,8 +42366,8 @@ Verletze Zombies durch Kollisionen mit Curlingsteinen und erzeuge Eisbahnen, um 
 [STORE_PRODUCT_AVATAR_ELEOCURLING]
 Verlängere die Dauer der Eisbahn.
 
-[STORE_PRODUCT_AVATAR_ELEO CURLING_TITLE]
-Wasserkastanienbrüder-Kostüm
+[STORE_PRODUCT_AVATAR_ELEOCURLING_TITLE]
+Kastanien Eis
 
 [ELEOCURLING_SKILL_LEVEL1]
 Eis Eislaufen
@@ -52812,7 +52812,7 @@ Angriffskraft um 10% erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_2]
 Wachstumskostüm des Küchenchefs Laveran
 
-[NEU_ AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
+[NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
 Angriffskraft um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_1]
@@ -52875,8 +52875,14 @@ Weihnachtskostüm „Laser-Kronenblume“
 [NEW_AVATAR_DESCRIPTION_CROWNFLOWER_1]
 Angriffskraft von Pflanzen um 10% erhöht
 
-[NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPU LT_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPULT_1]
 Weihnachtsoutfit „Truthahnkrug“
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_4]
+Sci-Fi-Mech-Outfit
+
+[NEW_AVATAR_DESCRIPTION_MANGOSTEEN_4]
+Erhöht Blitzschaden um 25 %
 
 [NEW_AVATAR_DESCRIPTION_TURKEYPULT_1]
 Angriffsgeschwindigkeit um 10% erhöht
@@ -77008,7 +77014,7 @@ Angriffsintervall um 15% verkürzt
 Wasserkastanienbrüder: Gold- und Silberkönig (Anzug)
 
 [NEW_AVATAR_DESCRIPTION_ELEOCURLING_3]
-Ruhezeit um 10%
+Ruhezeit um 10% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIBEAST_2]
 Kiwi-Bestie-Bajie-Kostüm
