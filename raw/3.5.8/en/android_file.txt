@@ -131,7 +131,7 @@ Schließen Sie das Level „Geheimnisvolles Ägypten“ ab.
 König der Nüsse
 
 [ACHIEVE_MAGICAL_FRUIT_DESC]
-Betäuben Sie 10 Zombies mit einem Kroton.
+Betäuben Sie 10 Zombies mit einer Chillibohne.
 
 [ACHIEVE_MAGICAL_FRUIT_TITLE]
 Magische Frucht
@@ -8089,7 +8089,7 @@ Greift Zombies in einer bestimmten Entfernung an und verschwindet nach einer Wei
 Greift alle Zombies in einer bestimmten Entfernung an.
 
 [HYPNOSHROOM_PRODUCT_SHORT_DESC]
-Lass Zombies, die Zauberpilze fressen, für dich kämpfen.
+Lass Zombies, die Hypnopilze fressen, für dich kämpfen.
 
 [SUNSHROOM_PRODUCT_SHORT_DESC]
 Kann Sonnenlicht erzeugen, dessen Menge mit zunehmendem Wachstum zunimmt.
@@ -9034,7 +9034,7 @@ Der Aktivierungscode wurde erfolgreich eingegeben. Du hast die Stufe und das Kos
 Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Gemüsefrage-Kostüms und das Kostüm wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_LASER_BEAN_AVATAR_LEVEL_SUCCEED_CONTENT]
-Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Laserbeans-Kostüms und das Kostüm wiederhergestellt.
+Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} der  Laserbohne und das Kostüm wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_FIREGOURD_AVATAR_LEVEL_SUCCEED_CONTENT]
 Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Feuerdrachengras-Kostüms und das Kostüm wiederhergestellt.
@@ -9058,7 +9058,7 @@ Kirschbombe der ersten Stufe plus Kostüm
 Fackelholzstumpf (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CHILIBEAN_LV0_SUCCEED_CONTENT]
-Kroton (1. Stufe) plus Kostüm
+Chillibohne (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_JALAPENO_LV0_SUCCEED_CONTENT]
 Scharfe Paprika (1. Stufe) plus Kostüm
@@ -9241,7 +9241,7 @@ Bananenrakete (erste Stufe) – Dekoration hinzufügen
 Avocado (erste Stufe) Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_TANGLEKELP_LV0_SUCCEED_CONTENT]
-Verworrene Wasserpflanze (erste Stufe): Kostüme hinzufügen
+Schlingtang (erste Stufe): Kostüme hinzufügen
 
 [GEMS_RESTORE_CODE_RECHARGE_HOMINGTHISTLE_LV0_SUCCEED_CONTENT]
 Leitfaden Distel (erste Stufe): Kostüme hinzufügen
@@ -9388,9 +9388,9 @@ Kirschbombe, Level 3
 Fackelholzstumpf, Level 3
 
 [GEMS_RESTORE_CODE_RECHARGE_CHILIBEAN_LV3_SUCCEED_CONTENT]
-Kroton, Level 3
+Chillibohne, Level 3
 
-[GEMS_RESTORE_CODE_RECHARGE_JALA PENO_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_JALAPENO_LV3_SUCCEED_CONTENT]
 Scharfe Paprika, Level 3
 
 [GEMS_RESTORE_CODE_RECHARGE_SQUASH_LV3_SUCCEED_CONTENT]
@@ -9512,13 +9512,13 @@ Sternfrucht dritter Ordnung ... DE_RECHARGE_CARROTLAUNCHER_LV3_SUCCEED_CONTENT]
 Stufe 3 Karotten-Raketenwagen
 
 [GEMS_RESTORE_CODE_RECHARGE_PUFFSHROOM_LV3_SUCCEED_CONTENT]
-Kleiner Puffpilz, Stufe 3
+Kleiner Pustepilz, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_FUMESHROOM_LV3_SUCCEED_CONTENT]
-Großer Puffpilz, Stufe 3
+Großer Pustepilz, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_HYPNOSHROOM_LV3_SUCCEED_CONTENT]
-Zauberpilz, Stufe 3
+Hypnopilz, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_SUNSHROOM_LV3_SUCCEED_CONTENT]
 Sonnenpilz, Stufe 3
@@ -9569,7 +9569,7 @@ Bananenrakete, Level 3
 Avocado, Level 3
 
 [GEMS_RESTORE_CODE_RECHARGE_TANGLEKELP_LV3_SUCCEED_CONTENT]
-Verworrene Wasserpflanze, Level 3
+Schlingtang, Level 3
 
 [GEMS_RESTORE_CODE_RECHARGE_HOMINGTHISTLE_LV3_SUCCEED_CONTENT]
 Heimdistel, Level 3
@@ -10612,18 +10612,18 @@ Hypnosepilz-Geschenkpaket
 Fortgeschrittener Hypnopilz und Verkleidung
 
 [STORE_GIFT_LABORDAY_FUMESHROOM_GIFT]
-Großes Sprühpilz-Geschenkpaket
+Stinkpilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_FUMESHROOM_GIFT_DESC]
 ^009900 Nur für kurze Zeit (ab sofort bis 9.16^oldclr
-Fortgeschrittener großer Puffpilz und Kostüm
+Fortgeschrittener großer Pustepilz und Kostüm
 
 [STORE_GIFT_LABORDAY_PUFFSHROOM_GIFT]
-Kleines Puffpilz-Geschenkpaket
+Kleines Pustepilz-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PUFFSHROOM_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich, ab sofort bis 9.16^oldclr
-Fortgeschrittener kleiner Puffpilz und Kostüm
+Fortgeschrittener kleiner Pustepilz und Kostüm
 
 [STORE_GIFT_LABORDAY_HOLONUT_GIFT]
 Holografisches Geschenkpaket
@@ -10773,18 +10773,18 @@ Zwei-Wege-Geschenkpaket
 Fortgeschrittener Zwei-Wege-Shooter und Kostüm
 
 [STORE_GIFT_LABORDAY_CHILIBEAN_GIFT]
-Kroton-Geschenkpaket
+Chillibohnen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_CHILIBEAN_GIFT_DESC]
 ^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
-Fortgeschrittener Kroton und Kostüm
+Fortgeschrittene Chillibohne und Kostüm
 
 [STORE_GIFT_LABORDAY_SQUASH_GIFT]
-Squash-Geschenkpaket
+Matschkürbis-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SQUASH_GIFT_DESC]
 ^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
-Fortgeschrittener Squash und Kostüm
+Fortgeschrittener Matschkürbis und Kostüm
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT]
 Feuerdrachengras-Geschenkpaket
@@ -12481,7 +12481,7 @@ Die Spezialdünger-Fähigkeit löst eine Feuerdrachenwelle aus!
 Die Spezialdünger-Fähigkeit löst einen Wirbelwindschlag aus und greift Zombies in großer Reichweite an.
 
 [STORE_PRODUCT_AVATAR_CHILIBEAN]
-Die Spezialdünger-Fähigkeit spaltet einen weiteren Kroton.
+Die Spezialdünger-Fähigkeit spaltet eine weitere Chillibohne.
 
 [STORE_PRODUCT_AVATAR_TURNIP]
 Die Spezialdünger-Fähigkeit spaltet einen weiteren weißen Rettich.
@@ -12733,7 +12733,7 @@ Pfirsich-Outfit
 Schilf-Outfit
 
 [STORE_PRODUCT_AVATAR_CHILIBEAN_TITLE]
-Kroton-Outfit
+Höschen
 
 [STORE_PRODUCT_AVATAR_FIREGOURD_TITLE]
 Feuerkürbis-Outfit
@@ -12762,14 +12762,14 @@ Blumenkleid mit großem Mund
 [STORE_PRODUCT_AVATAR_SWEETPOTATO_TITLE]
 Süßkartoffelkleid
 
-[STORE_PRODUCT_AVATAR_PUFFS HROOM_TITLE]
-Kleines Sprühpilz-Outfit
+[STORE_PRODUCT_AVATAR_PUFFSHROOM_TITLE]
+Horn
 
 [STORE_PRODUCT_AVATAR_FUMESHROOM_TITLE]
-Großes Sprühpilz-Outfit
+Stinkpilz-Outfit
 
 [STORE_PRODUCT_AVATAR_HYPNOSHROOM_TITLE]
-Charm-Pilz-Outfit
+Kostüm
 
 [STORE_PRODUCT_AVATAR_SUNSHROOM_TITLE]
 Sonnenpilz Outfit
@@ -12802,8 +12802,10 @@ Bowling-Outfit
 Bananen-Outfit
 
 [STORE_PRODUCT_AVATAR_GUACODILE_TITLE]
-Avocado ... DUCT_AVATAR_TANGLEKELP_TITLE]
-Wasserpflanzenkleid
+Kostüm
+
+[STORE_PRODUCT_AVATAR_TANGLEKELP_TITLE]
+Schleife
 
 [STORE_PRODUCT_AVATAR_HOMINGTHISTLE_TITLE]
 Heimkehrkleid
@@ -13856,7 +13858,7 @@ Verbessert gehärtete Armschienen zu Juwel-Armschienen und erhöht so Wahrschein
 Kraftvoller Schwung
 
 [TANGLEKELP_SKILL_LEVEL1_DES]
-Ermöglicht es dem Verstrickenden Kraut, Zombies zu greifen und zu schwingen, wodurch Zombies vor ihm zurückgestoßen werden.
+Ermöglicht es dem Schlingtang, Zombies zu greifen und zu schwingen, wodurch Zombies vor ihm zurückgestoßen werden.
 
 [TANGLEKELP_SKILL_LEVEL2]
 Dauerschwung
@@ -14944,7 +14946,7 @@ Befehle der Zombiearmee, alle Pflanzen zu fressen.
 Wehre dich.
 
 [STARCHALLENGE_HYPNOSHROOM]
-Befehle dem Zauberpilz, sich gegen den Angriff der Zombies zu verteidigen.
+Befehle dem Hypnopilz, sich gegen den Angriff der Zombies zu verteidigen.
 
 [STARCHALLENGE_THREEPIGS_NAME]
 Theater-Horror
@@ -15214,13 +15216,13 @@ Erhöht die Chance auf Giftspritzen um 100%.
 Mittelschwerer Zauber
 
 [HYPNOSHROOM_SKILL1_LEVEL1_DES]
-Ermöglicht Zombies, die Zauberpilze essen, Stufe 2 und 20% mehr Stärke.
+Ermöglicht Zombies, die Hypnopilze essen, Stufe 2 und 20% mehr Stärke.
 
 [HYPNOSHROOM_SKILL1_LEVEL2]
 Fortgeschrittener Zauber
 
 [HYPNOSHROOM_SKILL1_LEVEL2_DES]
-Ermöglicht Zombies, die Zauberpilze essen, Stufe 3 und 40% mehr Stärke.
+Ermöglicht Zombies, die Hypnopilze essen, Stufe 3 und 40% mehr Stärke.
 
 [PEANUT_SKILL1_LEVEL1]
 Salve
@@ -16365,11 +16367,10 @@ Kürbis-Fragment
 Kürbis-Fragment erhalten
 
 [BONUS_CARD_PIECE_CHILIBEAN]
-Kroton-Fragment
+Chillibohne-Fragment
 
 [BONUS_CARD_PIECE_CHILIBEAN_DESCRIPTION]
-ONUS_CARD_PIECE_CHILIBEAN_DESCRIPTION]
-Kroton-Fragment erhalten
+Chillibohne-Fragment erhalten
 
 [BONUS_CARD_PIECE_JALAPENO]
 Chili Fragment
@@ -16523,10 +16524,10 @@ Kaffeebohnenfragment
 Kaffeebohnenfragmente erhalten
 
 [BONUS_CARD_PIECE_PUFFSHROOM]
-Puffpilzfragmente
+Pustepilzfragmente
 
 [BONUS_CARD_PIECE_PUFFSHROOM_DESCRIPTION]
-Puffpilzfragmente erhalten
+Pustepilzfragmente erhalten
 
 [BONUS_CARD_PIECE_SUNBEAN]
 Sonnenscheinbohnenfragmente
@@ -16619,10 +16620,10 @@ Avocado-Fragment
 Avocado Fragmente
 
 [BONUS_CARD_PIECE_TANGLEKELP]
-Fragmente von verschlungenem Wassergras
+Fragmente von Schlingtang
 
 [BONUS_CARD_PIECE_TANGLEKELP_DESCRIPTION]
-Holt euch verschlungene Wassergrasfragmente
+Holt euch Schlingtang fragmente
 
 [BONUS_CARD_PIECE_HOMINGTHISTLE]
 Fragment der Lenkdistel
@@ -17130,6 +17131,7 @@ Schlingtang
 
 [TANGLEKELP_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}grüne Pflanze, Wasserpflanzen
+
 {FLAVOR}Schlingtang mag es tiefgründig. Immerhin hat er Philosophie studiert. Triff dich mit ihm auf ein Wurzelbier, und er fängt ungefragt an, über Nietzsches „Also sprach Zucchini“ oder Kants „Kritik der reinen Topfpflanze“ zu reden. Ist ja ganz nett. Aber manchmal wäre leichte Konversation doch etwas netter, oder? Frag ihn doch mal, wie das Wasser ist.
 
 [TANGLEKELP_DESCRIPTION_HEADER]
@@ -19194,7 +19196,7 @@ ca=Welpe|Katze|Käfer|Schaf|
 [LANTERN_RIDDLES_21]
 Welche Pflanze wird nicht von Zombies gefressen?
 [LANTERN_RIDDLES_ANSWER_21]
-ca=Erddorn|Kroton|Kartoffelmine|Bambusspross|
+ca=Erddorn|Chillibohne|Kartoffelmine|Bambusspross|
 [LANTERN_RIDDLES_22]
 Wie heißt der Kürbis wirklich?
 [LANTERN_RIDDLES_ANSWER_22]
@@ -19202,7 +19204,7 @@ ca=Xiao Ming|Xiao Hong|Xiao Fang|Xiao Qiang|
 [LANTERN_RIDDLES_23]
 Welche Pflanze verursacht Durchfall, wenn sie von Zombies gefressen wird?
 [LANTERN_RIDDLES_ANSWER_23]
-ca=Kroton|Kaffeebohne|Laserbohne|Sonnenscheinbohne|
+ca=Chillibohne|Kaffeebohne|Laserbohne|Sonnenbohne|
 [LANTERN_RIDDLES_24]
 Woher kommt das Licht der Straßenlaternenblume?
 [LANTERN_RIDDLES_ANSWER_24]
@@ -19252,7 +19254,7 @@ Was ist die Schwäche von Spring Bean?
 [LANTERN_RIDDLES_ANSWER_35]
 ca=Schlaf nach Angriff|Hoher Sonnenlichtverbrauch|Kann nicht verbessert werden|Alle|
 [LANTERN_RIDDLES_36]
-Welcher der folgenden Zombies hat keine Wirkung auf den Zauberpilz?
+Welcher der folgenden Zombies hat keine Wirkung auf den Hypnopilz?
 [LANTERN_RIDDLES_ANSWER_36]
 ca=Zombiehuhn|Fasszombie|Barrikadenzombie|Alle|
 [LANTERN_RIDDLES_37]
@@ -19262,7 +19264,7 @@ ca=Ballonpilz|Süßer Pilz|Großer Hutpilz|Jetpilz|
 [LANTERN_RIDDLES_38]
 Wer ist der älteste Bruder der Bohnenfamilie?
 [LANTERN_RIDDLES_ANSWER_38]
-ca=Sonnenscheinbohne|Kaffeebohne|Laserbohne|Kroton|
+ca=Sonnenscheinbohne|Kaffeebohne|Laserbohne|Chillibohne|
 [LANTERN_RIDDLES_39]
 Welcher der folgenden Gegenstände kann vom magnetischen Pilz nicht aufgesaugt werden?
 [LANTERN_RIDDLES_ANSWER_39]
@@ -19298,7 +19300,7 @@ ca=Philosophie|Karate|Höhere Mathematik|Französisch|
 [LANTERN_RIDDLES_47]
 Welche Pflanze in Plants vs. Zombies 1 hat die gleiche Angriffsmethode wie Guiding Thistle?
 [LANTERN_RIDDLES_ANSWER_47]
-ca=Katzenschwanzgras|Kaktus|Mund-Puffpilz|Erbsenkanone|
+ca=Katzenschwanzgras|Kaktus|Mund-Pustepilz|Erbsenkanone|
 [LANTERN_RIDDLES_48]
 An wie vielen Bowling-Wettbewerben hat Bowling Bubble teilgenommen?
 [LANTERN_RIDDLES_ANSWER_48]
@@ -19398,7 +19400,7 @@ ca=5|4|3|zufällig|
 [LANTERN_RIDDLES_72]
 Finde den kleinen Mann mit dem abstehenden Haar aus den folgenden Pflanzen:
 [LANTERN_RIDDLES_ANSWER_72]
-ca=Kroton|Kaffeebohnen|Bambussprossen|Gefrorener Salat|
+ca=Chillibohne|Kaffeebohnen|Bambussprossen|Gefrorener Salat|
 [LANTERN_RIDDLES_73]
 Wie viele rote Umschläge erhältst du durch den Abschluss der Barrenkampf-Aktivität?
 [LANTERN_RIDDLES_ANSWER_73]
@@ -25065,7 +25067,7 @@ Lass das Angeln nicht zu. Schließe ein Level ab, indem du deine Pflanzen weghak
 Fliegenfischen fehlgeschlagen.
 
 [ACHIEVE_FUNGUS_HUMONGOUS_DESC]
-Benutze eine Spezialdünger-Fähigkeit, um 20 kleine Puffpilze zu aktivieren.
+Benutze eine Spezialdünger-Fähigkeit, um 20 kleine Pustepilze zu aktivieren.
 
 [ACHIEVE_FUNGUS_HUMONGOUS_TITLE]
 Riese Pilze
@@ -27062,7 +27064,7 @@ Schalte Haunted Ridge frei!
 Zombies sind die Anstifter, und ihre Freunde sind die Erfahrenen. Töte einen Zombie und betäube gleichzeitig die Zombies dahinter! Schließe Tag 4 des Wilden Westens ab!
 
 [FINISH_COWBOY_4_TITLE]
-Schalte Kroton frei!
+Schalte Chillibohne frei!
 
 [FINISH_COWBOY_6_DESC]
 Baue Erbsenschoten in Gruppen an, um Superfeuerkraft zu erhalten! Schließe Tag 6 des Wilden Westens ab!
@@ -27119,10 +27121,10 @@ Besiege an Tag 20 des uralten Dunklen Zeitalters den bösen Dr. Zomboss und hol 
 Greife Dr. Zomboss an!
 
 [FINISH_DARK_4_DESC]
-Der Riesen-Puffpilz besprüht mehrere Zombies in Reichweite. Probier ihn aus, Zombies! Schließe Tag 4 von Dark Ages ab!
+Der Riesen-Pustepilz besprüht mehrere Zombies in Reichweite. Probier ihn aus, Zombies! Schließe Tag 4 von Dark Ages ab!
 
 [FINISH_DARK_4_TITLE]
-Schalte den Riesen-Puffpilz frei!
+Schalte den Riesen-Pustepilz frei!
 
 [FINISH_DARK_6_DESC]
 Wärst du nicht begeistert, wenn Zombies Sonnenlicht spucken, wenn sie verletzt werden? Erfülle deine Träume mit Sonnenscheinbohnen! Schließe Tag 6 von Dark Ages ab!
@@ -28823,7 +28825,7 @@ hart.
 {NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Daten zeigen, dass das Dunkle Zeitalter eine Zeit des intellektuellen Verfalls und des moralischen Niedergangs war.
 
 [NARRATIVE_DARK_INTRO_HYPNOSHROOM_2]
-{PLAYFUL:winnie}Vielleicht ist es an der Zeit, den Zauberpilz sinnvoll einzusetzen?
+{PLAYFUL:winnie}Vielleicht ist es an der Zeit, den Hypnopilz sinnvoll einzusetzen?
 
 [NARRATIVE_DARK_INTRO_HYPNOSHROOM_3]
 {EXCITED:crazydave}Tolle Idee, Penny! Lass uns den bösen Stil des Dunklen Zeitalters aufpeppen!
@@ -41276,7 +41278,7 @@ Venusschuh
 {KEYWORD}Reichweite: {STAT}Einzelne Zeile
 {KEYWORD}Eigenschaften: {STAT}Wirft zufällige Gegenstände
 {KEYWORD}Pflanzeneigenschaften: {STAT}Rosa Pflanze
-{FLAVOR}Niemand weiß, wie viel in die Tasche von Venusschuh passt. Die Bambuslibelle von Laser Bean, die Augenmaske von der Kartoffelmine … Jeder freut sich immer auf die nächste „Überraschung“ in der Tasche. Vielleicht verwandelt sie sich ja irgendwann in ein Portal. Selbst Zombies äußern sich selten positiv über den Venusschuh. Zumindest sind die Snacks lecker.
+{FLAVOR}Niemand weiß, wie viel in die Tasche von Venusschuh passt. Die Bambuslibelle von Laserbohne, die Augenmaske von der Kartoffelmine … Jeder freut sich immer auf die nächste „Überraschung“ in der Tasche. Vielleicht verwandelt sie sich ja irgendwann in ein Portal. Selbst Zombies äußern sich selten positiv über den Venusschuh. Zumindest sind die Snacks lecker.
 
 [PAPHIOPEDILUM_DESCRIPTION_HEADER]
 Wirf verschiedene Dinge, um verschiedene Effekte zu erzielen.
@@ -49015,10 +49017,10 @@ Die geflieste Karotte reduziert den Sonnenlichtverbrauch um {Param_1}%.
 Der große Angriff des Kaktus ist stärker. Die chemischen Nadeln werden zusätzlich mit elektrischem Strom aufgeladen, wodurch die getroffenen Zombies mit einer Wahrscheinlichkeit von {Param_1}% gelähmt werden.
 
 [GENE_DESCRIPTION_TANGLEKELP]
-Die Abkühlzeit des Pflanzens von Verworrenem Wasserkraut wird um {Param_1}% verkürzt.
+Die Abkühlzeit des Pflanzens vom Schlingtang wird um {Param_1}% verkürzt.
 
 [GENE_DESCRIPTION_CHILIBEAN]
-Die Die Abkühlzeit der Krotonpflanzung wird um {Param_1}% verkürzt.
+Die Abkühlzeit der Chillibohnen-pflanzung wird um {Param_1}% verkürzt.
 
 [GENE_DESCRIPTION_FIREPEASHOOTER]
 Die Angriffskraft der Feuer-Erbsenkanone wird um {Param_1}% erhöht.
@@ -51809,11 +51811,11 @@ Papyrus-Kostüm im chinesischen Stil
 [NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_1]
 Angriffskraft um 20% erhöht
 
-[NEW_AVATAR_SHORT_DESCRIPTIO N_MAGNETSHROOM_1]
-Magnetpilz-Kostüm im chinesischen Stil
+[NEW_AVATAR_SHORT_DESCRIPTION_MAGNETSHROOM_1]
+Chinesischer Stil
 
 [NEW_AVATAR_DESCRIPTION_MAGNETSHROOM_1]
-Die Ruhezeit wird um 1 reduziert S
+Die Ruhezeit wird um 1 Sekunde reduziert 
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_1]
 Mei Xiao Kostüm im amerikanischen Stil
@@ -51846,7 +51848,7 @@ Erbsen-Frühlingsfest-Kostüm
 Erhöht die Angriffsgeschwindigkeit um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_2]
-Laser Bean Kindertagskostüm
+Laserbohne Kindertagskostüm
 
 [NEW_AVATAR_DESCRIPTION_LASER_BEAN_2]
 Angriffskraft um 15% erhöht
@@ -52326,8 +52328,8 @@ Kreischen Stirnband
 [NEW_AVATAR_DESCRIPTION_SQUASH]
 Reduziert den Sonnenlichtverbrauch um 10 Punkte
 
-[NEW_AVATAR_SHORT_DESCRIPTION_CHILIBEA N_1]
-Kroton-Schal
+[NEW_AVATAR_SHORT_DESCRIPTION_CHILIBEAN_1]
+Mahlzeit
 
 [NEW_AVATAR_DESCRIPTION_CHILIBEAN]
 Abklingzeit beim Pflanzen um 10% reduziert
@@ -52783,7 +52785,7 @@ Jubiläumskostüm „Mondblume“
 Das Intervall zwischen der Sonnenlichtproduktion wird um 5 Sekunden verkürzt.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_1]
-Jubiläumskostüm „Puffpilz“
+Jubiläumskostüm „Pustepilz“
 
 [NEW_AVATAR_DESCRIPTION_PUFFSHROOM_1]
 Angriffskraft erhöht um 15%
@@ -55333,7 +55335,7 @@ Passiver Effekt: Wenn nicht drei identische Kapseln in einem Spiel erhalten werd
 Gachapon-Renovierung
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_4]
-Passiver Effekt: Die Gegenstände im Gachapon-Artefakt werden besser, stärker und schöner. Giftiger Schattenpilz wird durch Eisenkraut ersetzt; Avocado durch Pastinake; Super-Blumenkohl wird durch Zauberpilz ersetzt; Gefrorener Salat wird durch Kristallorchidee ersetzt; Sonnenregen wird aufgewertet.
+Passiver Effekt: Die Gegenstände im Gachapon-Artefakt werden besser, stärker und schöner. Giftiger Schattenpilz wird durch Eisenkraut ersetzt; Avocado durch Pastinake; Super-Blumenkohl wird durch Hypnopilz ersetzt; Gefrorener Salat wird durch Kristallorchidee ersetzt; Sonnenregen wird aufgewertet.
 
 [ARTIFACT_GASHAPON_RESULT_2]
 Zwei gleiche
@@ -63650,7 +63652,7 @@ Besiege 200 Zombies mit der Erbsenkanone.
 Bezaubernd
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_8]
-Nutze Zauberpilz, um 200 zu bezaubern. Zombies
+Nutze Hypnopilz, um 200 Zombies zu bezaubern.
 
 [PVZ1_ACHIEVEMENT_NAME_9]
 Herausforderungsmeister
@@ -70495,7 +70497,7 @@ Springe sofort hoch und springe zufällig zu den beiden Gittern mit den höchste
 Springe sofort hoch und springe zufällig zu den drei Gittern mit den höchsten Lebenspunkten auf dem Feld. Zerstöre dann das Gitter an der Stelle, an der es sich befindet.
 
 [CHILIBEAN_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie Kroton frisst, wird er beschädigt und setzt Giftgas frei, das den dahinterstehenden Zombie 7 Sekunden lang betäubt. Der Betäubungseffekt des Giftgases ist gegen mechanische Einheiten wirkungslos.
+Wenn ein Zombie eine Chilibohne frisst, wird er beschädigt und setzt Giftgas frei, das die dahinterstehenden Zombies 7 Sekunden lang betäubt. Der Betäubungseffekt des Giftgases ist gegen mechanische Einheiten wirkungslos.
 
 [CHILIBEAN_NEW_SKILL_LEVEL2_DES]
 Das von Zombies freigesetzte Giftgas wurde verbessert (^848484^BetäubungⅠ^oldclr^) und die Dauer auf 8,5 Sekunden verlängert.
@@ -70507,10 +70509,10 @@ Das von Zombies freigesetzte Giftgas ist heftiger und die Dauer (^848484^Betäub
 Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen !
 
 [CHILIBEAN_PLANTFOOD_DESCRIPTION]
-Der Kroton nutzt seine ganze Kraft, um Giftgas auszustoßen, teilt sich in drei Krotons und wirft sie zufällig auf die leeren Felder.
+Die Chillibohne nutzt ihre ganze Kraft, um Giftgas auszustoßen, teilt sich in drei Chillibohnen und wirft sie zufällig auf die leeren Felder.
 
 [CHILIBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Kroton nutzt seine ganze Kraft, um Giftgas auszustoßen, teilt sich in ^ff0000^vier Krotons^oldclr^ und wirft sie zufällig auf die leeren Felder auf dem Spielfeld.
+Die Chillibohne nutzt ihre ganze Kraft, um Giftgas auszustoßen, teilt sich in ^ff0000^vier Chillibohnen^oldclr^ und wirft sie zufällig auf die leeren Felder auf dem Spielfeld.
 
 [SPLITPEA_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Doppelschützen erscheint, feuert er bei jedem Angriff eine Erbse ab. Wenn ein Zombie links vom Doppelschützen erscheint, feuert er bei jedem Angriff zwei Erbsen ab.
@@ -70567,7 +70569,7 @@ Jedes Mal, wenn du eine Erbse abfeuerst, besteht eine Chance von 15%, einen Eiss
 Jedes Mal, wenn du eine Erbse abfeuerst, besteht eine Chance von 30%, einen Eisstachel mit 120 Schaden pro Schuss abzufeuern.
 
 [SNOWPEA_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit freizusetzen.
 
 [SNOWPEA_NEW_SKILL_LEVEL5_DES]
 Es besteht die Chance, einen verstärkten Eisstachel abzufeuern, der den Zombie nach dem Aufprall einfriert. Die Explosion verursacht Schaden an den Zombies innerhalb eines Rasters. Der Eisboden in diesem Raster bleibt 3 Sekunden lang bestehen und wirkt auf die Zombies auf dem Eisboden verlangsamend.
@@ -70906,7 +70908,7 @@ Das Prismengras sammelt Sonnenenergie und feuert einen Strahl auf die Zombies. D
 Prismengras sammelt Sonnenenergie und feuert einen Strahl mit höherem Schaden auf Zombies. Der Schaden richtet sich nach der Anzahl der Sonnenblumen und Zwillingssonnenblumen auf dem Feld.
 
 [LASER_BEAN_NEW_SKILL_LEVEL1_DES]
-Laser Bean feuert einen Laserstrahl ab und greift alle Zombies in der gesamten rechten Reihe an.
+Laserbohne feuert einen Laserstrahl ab und greift alle Zombies in der gesamten rechten Reihe an.
 
 [LASER_BEAN_NEW_SKILL_LEVEL2_DES]
 Laserbohne kann zwei Laserstrahlen gleichzeitig abfeuern und erhöht so den Schaden pro Sekunde um 35%.
@@ -70918,15 +70920,13 @@ Feuert kontinuierlich und ohne Verzögerung Laserstrahlen ab. Dadurch wird der S
 Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [LASER_BEAN_NEW_SKILL_LEVEL5_DES]
-Laser Bean wird alle 15 Sekunden oder bei einer starken Attacke verstärkt. In diesem Zustand erhöht sich Laser Beans normaler Angriffsschaden um 100%. Die starke Attacke von Energy Bean hinterlässt eine elektrische Markierung, die innerhalb von drei Sekunden insgesamt 1500 Schaden verursacht.
-
+Laserbohne wird alle 15 Sekunden oder bei einer starken Attacke verstärkt. In diesem Zustand erhöht sich Laserbohnes normaler Angriffsschaden um 100%. Die starke Attacke von Energy Bean hinterlässt eine elektrische Markierung, die innerhalb von drei Sekunden insgesamt 1500 Schaden verursacht.
 
 [LASER_BEAN_PLANTFOOD_DESCRIPTION]
-Laser Bean schießt einen starken Laserstrahl aus seinem Maul. Jeder Schuss fügt allen Zombies vor ihm Schaden zu.
-
+Laserbohne schießt einen starken Laserstrahl aus seinem Maul. Jeder Schuss fügt allen Zombies vor ihm Schaden zu.
 
 [LASER_BEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-Laser Bean schießt einen ^ff0000^ starken roten Laserstrahl aus seinem Maul. ^oldclr^ Jeder Schuss fügt allen Zombies vor ihm ^ff0000^ enormen Schaden zu. ^oldclr^
+Laserbohne schießt einen ^ff0000^ starken roten Laserstrahl aus seinem Maul. ^oldclr^ Jeder Schuss fügt allen Zombies vor ihm ^ff0000^ enormen Schaden zu. ^oldclr^
 
 [STARFRUIT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie oberhalb, unterhalb, links, oberhalb und unterhalb der rechten Seite der Sternfrucht erscheint, schießt die Sternfrucht einen Stern in alle fünf Richtungen.
@@ -71034,25 +71034,25 @@ Die Transformationskanone zielt auf den Zombie rechts von ihr und feuert eine Ra
 Die Transformationskanone zielt auf den Zombie rechts von ihr und feuert eine Rakete mit 2.000 Lebenspunkten ab. Nachdem die Rakete aufgefressen wurde, explodiert sie und verursacht Zombies im Umkreis von 3×3 Schaden.^ff0000^. ^oldclr^ Befindet sich eine Pflanze auf dem Zielfeld, explodiert die Rakete direkt und verursacht eine Explosion im Umkreis von 3×3.
 
 [PUFFSHROOM_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie vier Felder rechts vom kleinen Puffpilz erscheint, feuert der kleine Puffpilz Sporen ab, um den Zombie anzugreifen. Nach 60 Sekunden verschwindet er automatisch.
+Wenn ein Zombie vier Felder rechts vom kleinen Pustepilz erscheint, feuert der kleine Pustepilz Sporen ab, um den Zombie anzugreifen. Nach 60 Sekunden verschwindet er automatisch.
 
 [PUFFSHROOM_NEW_SKILL_LEVEL2_DES]
-Die verbesserte Anbautechnologie hat die Pflanzzeit des kleinen Puffpilzes auf 3,5 Sekunden verkürzt.
+Die verbesserte Anbautechnologie hat die Pflanzzeit des kleinen Pustepilzes auf 3,5 Sekunden verkürzt.
 
 [PUFFSHROOM_NEW_SKILL_LEVEL3_DES]
-Die verbesserte Anbautechnologie hat die Pflanzzeit des kleinen Puffpilzes auf 2 Sekunden verkürzt.
+Die verbesserte Anbautechnologie hat die Pflanzzeit des kleinen Pustepilzes auf 2 Sekunden verkürzt.
 
 [PUFFSHROOM_NEW_SKILL_LEVEL4_DES]
 Die Wahrscheinlichkeit, beim Pflanzen direkt die Spezialdünger-Fähigkeit  freizusetzen, ist gering!
 
 [PUFFSHROOM_PLANTFOOD_DESCRIPTION]
-Die kleinen Puffpilze sind vereint. Wenn der kleine Puffpilz seine große Attacke ausführt, versprühen alle Puffpilze gemeinsam Sporen, und seine Lebensdauer wird auf 60 Sekunden zurückgesetzt.
+Die kleinen Pustepilze sind vereint. Wenn der kleine Pustepilz seine große Attacke ausführt, versprühen alle Pustepilze gemeinsam Sporen, und seine Lebensdauer wird auf 60 Sekunden zurückgesetzt.
 
 [PUFFSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Puffpilze versammeln sich. Wenn die Puffpilze ihre Spezialdünger-Fähigkeit ausführen, versprühen alle gemeinsam ^ff0000^ Sporen mit hohem Schaden, ^oldclr^ und stellen die Lebensdauer der Puffpilze auf 60 Sekunden zurück.
+Die Pustepilze versammeln sich. Wenn die Pustepilze ihre Spezialdünger-Fähigkeit ausführen, versprühen alle gemeinsam ^ff0000^ Sporen mit hohem Schaden, ^oldclr^ und stellen die Lebensdauer der Pustepilze auf 60 Sekunden zurück.
 
 [HYPNOSHROOM_NEW_SKILL_LEVEL1_DES]
-Der Zauberpilz enthält ein spezielles Gift für Zombies. Zombies, die ihn fressen, werden ^ff4284^Zauber I^oldclr^ und wenden sich dem Kampf zu.
+Der Hypnopilz enthält ein spezielles Gift für Zombies. Zombies, die ihn fressen, werden ^ff4284^Zauber I^oldclr^ und wenden sich dem Kampf zu.
 
 [HYPNOSHROOM_NEW_SKILL_LEVEL2_DES]
 ^ff4284^Charm I^oldclr^ Nach den Zombies erhöht sich die Gesundheit der Zombies um 10%.
@@ -71145,7 +71145,7 @@ Du kannst die Metallrüstung von Zombies der Stufe 2 absorbieren, wobei die Ruhe
 Kann die Metallrüstung von Zombies der Stufe 3 absorbieren, wobei die Ruhezeit auf 7 Sekunden verkürzt wird.
 
 [MAGNETSHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen. Starker Move!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [MAGNETSHROOM_PLANTFOOD_DESCRIPTION]
 Löst ein starkes Magnetfeld aus, um bis zu 20 Eisenpanzerungen und Gegenstände im Feld zu absorbieren und sie nach rechts zu werfen, um Zombies Schaden zuzufügen.
@@ -71325,22 +71325,22 @@ Bowlingblase ist bereit. Wenn rechts ein Zombie erscheint, schießt er drei Bowl
 Bowlingblase ist bereit. Wenn rechts ein Zombie erscheint, löst er einen ^ff0000^ Flammenwurf mit hohem Schaden, einen Eiswurf, der Zombies 10 Sekunden lang verlangsamt, und einen Blitzwurf aus, der Zombies ^oldclr^^ff9600^ für 1 Sekunde lähmt. Alle diese Effekte verursachen Flächenschaden. ^oldclr^
 
 [TANGLEKELP_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie rechts neben der Verworrenen Wasserpflanze, sinkt diese ins Wasser und zieht den Zombie auf den Meeresgrund. Ist der Zombie größer oder ein Gargantua, verursacht er festen Schaden.
+Erscheint ein Zombie rechts neben dem Schlingtang, sinkt dieser ins Wasser und zieht den Zombie auf den Meeresgrund. Ist der Zombie größer oder ein Gargantua, verursacht er festen Schaden.
 
 [TANGLEKELP_NEW_SKILL_LEVEL2_DES]
-Nachdem sich die Verworrene Wasserpflanze mit dem Zombie verwickelt hat, kann sie ihn auch packen und schwingen, um den Zombie rechts um ein Feld zurückzustoßen.
+Nachdem sich die Schlingtang mit dem Zombie verwickelt hat, kann sie ihn auch packen und schwingen, um den Zombie rechts um ein Feld zurückzustoßen.
 
 [TANGLEKELP_NEW_SKILL_LEVEL3_DES]
-Der kraftvolle Schwung der Verworrenen Wasserpflanze kann die Zombies links und rechts vor ihnen angreifen und um ein Feld zurückstoßen.
+Der kraftvolle Schwung der Schlingtang kann die Zombies links und rechts vor ihnen angreifen und um ein Feld zurückstoßen.
 
 [TANGLEKELP_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit freizusetzen.
 
 [TANGLEKELP_PLANTFOOD_DESCRIPTION]
-Das Verworrene Wasserkraut greift zufällig 3 Einheiten im Wasser an.
+Der Schlingtang greift zufällig 3 Einheiten im Wasser an.
 
 [TANGLEKELP_AVATAR_PLANTFOOD_DESCRIPTION]
-Verworrene Wasserpflanzen greifen zufällig ^ff0000^5 Einheiten im Wasser an. ^oldclr^
+Der Schlingtang greift zufällig ^ff0000^5 Einheiten im Wasser an. ^oldclr^
 
 [BANANA_NEW_SKILL_LEVEL1_DES]
 Klicke auf den Bananenraketenwerfer, um das Fadenkreuz zu erhalten. Klicke dann auf ein beliebiges Gitter im Feld. Der Bananenraketenwerfer feuert Bananenraketen aus dem Fass ab, die Zombies im Umkreis von 2×1 Schaden zufügen. Anschließend ruht er sich 20 Sekunden lang aus.
@@ -71430,7 +71430,7 @@ Die starke Säurezitrone kann zwei Säureschüsse gleichzeitig abfeuern und auch
 Die Säurezitrone kann drei Säuretropfen gleichzeitig abfeuern und so allen Panzerungen den doppelten Schaden und allen Zombies 30% zusätzlichen Schaden zufügen.
 
 [LEMON_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit freizusetzen.
 
 [LEMON_NEW_SKILL_LEVEL5_DES]
 Beim Angriff hat die Säurezitrone eine Chance von 15%, eine Zitronenscheibe abzufeuern, die kleine Zombies mit 450 Schadenspunkten zurückdrängt. Nach Kontakt mit einer feindlichen Einheit kehrt sie zurück. Die zurückgedrängten Zombies treiben alle anderen kleinen Zombies auf dem Weg mit sich und werden gemeinsam zurückgedrängt.
@@ -71769,7 +71769,7 @@ Der Angriff des Spargelkämpfers hat eine Chance von 30%, einen Durchdringungsef
 Der Angriff des Spargelkämpfers hat eine Chance von 40%, einen Durchdringungseffekt zu verursachen, der alle Zombies in einem Raster verletzt.
 
 [ASPARAGUS_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit freizusetzen.
 
 [ASPARAGUS_PLANTFOOD_DESCRIPTION]
 Der Spargelkämpfer setzt einen Helm auf und feuert mit voller Kraft, um drei Reihen Zombies nacheinander zu beschädigen.
@@ -71877,7 +71877,7 @@ Finde die Schwachstelle des Zombies, und der Angriff hat eine Chance von 25%, do
 Finde die Schwachstelle des Zombies, und der Angriff hat eine Chance von 50%, doppelten Schaden zu verursachen.
 
 [ROSESWORDMAN_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit freizusetzen.
 
 [ROSESWORDMAN_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 30%ige Chance, nach vorne zu springen und Zombies im Umkreis von vier Feldern rechts zweimal 450 Schaden zuzufügen.
@@ -72726,10 +72726,10 @@ Der Apfelmörser sammelt eine große Anzahl von Projektile und feuert eine Apfel
 Der Apfelmörser sammelt eine große Anzahl von Projektile und feuert eine biochemische Apfelbombe (^ff0000^) auf jeden Zombie auf dem Bildschirm ab. Diese verursacht einen Schadensblock und betäubt Zombies 0,5 Sekunden lang (^848484^betäubtⅠ^oldclr^). Zombies werden außerdem 6 Sekunden lang vergiftet und verlangsamt. (^oldclr^)
 
 [WITCHHAZEL_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie in den drei Reihen rechts von der Zaubernuss-Hexe erscheint, wirkt die Zaubernuss-Hexe einen Zauber. Nach dem Wirken des Zaubers kann sie kleinere Zombies, die maximal zwei Level höher sind als sie selbst, in kleine Puffpilze verwandeln und so nicht verwandelbaren Zombies direkten Schaden zufügen.
+Wenn ein Zombie in den drei Reihen rechts von der Zaubernuss-Hexe erscheint, wirkt die Zaubernuss-Hexe einen Zauber. Nach dem Wirken des Zaubers kann sie kleinere Zombies, die maximal zwei Level höher sind als sie selbst, in kleine Pustepilze verwandeln und so nicht verwandelbaren Zombies direkten Schaden zufügen.
 
 [WITCHHAZEL_NEW_SKILL_LEVEL2_DES]
-Verleiht den kleinen Puffpilzen, die durch den Zauber verwandelt werden, einen 3-sekündigen Unverwundbarkeitsschild.
+Verleiht den kleinen Pustepilzen, die durch den Zauber verwandelt werden, einen 3-sekündigen Unverwundbarkeitsschild.
 
 [WITCHHAZEL_NEW_SKILL_LEVEL3_DES]
 Die Vorbereitungszeit für den Zauber wird auf 13 Sekunden reduziert.
@@ -72741,7 +72741,7 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Beim Wirken des Zaubers besteht eine 30%ige Wahrscheinlichkeit, zwei Zombies zu treffen.
 
 [WITCHHAZEL_PLANTFOOD_DESCRIPTION]
-Wirke einen Zauber auf den Zombie ganz links auf dem Bildschirm und verwandle ihn in einen Puffpilz.
+Wirke einen Zauber auf den Zombie ganz links auf dem Bildschirm und verwandle ihn in einen Pustepilz.
 
 [WITCHHAZEL_AVATAR_PLANTFOOD_DESCRIPTION]
 Wirke einen Zauber auf den Zombie ganz links auf dem Bildschirm und verwandle ihn in einen Pustepilz. ^ff0000^ Der Pustepilz führt eine Spezialattacke aus. ^oldclr^
@@ -73227,7 +73227,7 @@ Die Heiße Dattel erhält den Bonus heißer Energie, was ihre Gesundheit deutlic
 Der Fertigkeitseffekt heißer Energie wird um 100% erhöht, und die Gesundheit wird nochmals deutlich erhöht.
 
 [HOTDATE_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Angriff!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit freizusetzen.
 
 [HOTDATE_NEW_SKILL_LEVEL5_DES]
 Nach der Explosion des Hot Dates bleiben Funken auf dem Boden zurück, die 5 Sekunden lang anhalten und Zombies 300 Schaden pro Sekunde zufügen.
@@ -78957,4 +78957,4 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]D]
+[PVZ2_CHINESE_END]
