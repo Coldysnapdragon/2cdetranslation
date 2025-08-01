@@ -67279,7 +67279,7 @@ All-Star-Zombie
 Sprintet schnell ins Feld und zerstört die erste Pflanze, die er berührt.
 
 [ZOMBIE_NEW_PVP_FUTURE_PROTECTOR]
-Zombie mit elektromagnetischem Schild
+Schild-Zombie
 
 [ZOMBIE_NEW_PVP_FUTURE_PROTECTOR_DESCRIPTION_HEADER]
 Nachdem er das Feld eine Weile betreten hat, setzt er einen elektromagnetischen Schild ein, um Projektile abzuwehren.
@@ -67297,22 +67297,22 @@ Kung-Fu-Bronze-Zombie
 Winkt mit der Waffe in der Hand, um den Pflanzen vor ihm großen Schaden zuzufügen.
 
 [ZOMBIE_NEW_PVP_TUTORIAL_ARMOR2]
-Fass-Zombie
+Eimer-Zombie
 
 [ZOMBIE_NEW_PVP_TUTORIAL_ARMOR2_DESCRIPTION_HEADER]
-Gewöhnlicher Zombie mit einem gewöhnlichen Fass auf dem Kopf.
+Gewöhnlicher Zombie mit einem gewöhnlichen Eimer auf dem Kopf.
 
 [ZOMBIE_NEW_PVP_TUTORIAL_ARMOR1]
-Straßensperre Zombie
+Pylonen-Zombie
 
 [ZOMBIE_NEW_PVP_TUTORIAL_ARMOR1_DESCRIPTION_HEADER]
-Ein normaler Zombie mit einer normalen Straßensperre auf dem Kopf.
+Ein normaler Zombie mit einem normalen Pylon auf dem Kopf.
 
 [ZOMBIE_NEW_PVP_EXPLORER]
-Entdecker-Zombie
+Zombie-Entdecker
 
 [ZOMBIE_NEW_PVP_EXPLORER_DESCRIPTION_HEADER]
-Fackeln zum schnellen Verbrennen von Pflanzen.
+Kann Pflanzen mit seiner Fackel Leicht zerstören, jedoch kann seine Fackel mit Eis gelöscht werden.
 
 [ZOMBIE_NEW_PVP_ICEAGE_WEASEL]
 Eiswiesel
@@ -67369,22 +67369,22 @@ Gargantua
 Winke mit der Waffe in deiner Hand, um den Pflanzen vor dir großen Schaden zuzufügen.
 
 [ZOMBIE_NEW_PVP_ICEAGE_ARMOR3]
-Eisziegel-Zombie
+Blockbirnen-Zombie
 
 [ZOMBIE_NEW_PVP_ICEAGE_ARMOR3_D ESCRIPTION_HEADER]
-Der Eisziegel auf dem Kopf hält viel Schaden aus.
+Der Eisblock auf seinem Kopf hält viel Schaden aus.
 
 [ZOMBIE_NEW_PVP_ZOMBIE_SNOWPEA]
-Frosterbsen-Zombie
+Hagelzucker-Erbsen-Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_SNOWPEA_DESCRIPTION_HEADER]
-Sendet Eisgeschosse, um Pflanzen geringen Schaden zuzufügen und Angriffe zu reduzieren. Geschwindigkeit
+Schießt Eisgeschosse, um Pflanzen geringen Schaden zuzufügen und deren Angriffsgeschwindigkeit zu reduzieren.
 
 [ZOMBIE_NEW_PVP_BEACH_SHELL]
-Panzer-Zombie
+Schale-Zombie
 
 [ZOMBIE_NEW_PVP_BEACH_SHELL_DESCRIPTION_HEADER]
-Nutze Panzer, um Pflanzen hohen Schaden zuzufügen. Halte die Panzer, um immun gegen Verlangsamungs- und Einfriereffekte zu sein.
+Nutzt seinen Panzer, um Pflanzen hohen Schaden zuzufügen und Hält die Panzer, um immun gegen Verlangsamungs- und Einfriereffekte zu sein.
 
 [ZOMBIE_NEW_PVP_DINO_BULLY]
 Jurassischer Rüpel
@@ -67402,13 +67402,13 @@ Nutze eine goldene Schaufel, um Pflanzen zu schaufeln.Er schaufelt sie auf und w
 Kindertags-Ballon-Zombie
 
 [ZOMBIE_NEW_PVP_CHILDREN_BALLON_DESCRIPTION_HEADER]
-Kann direkt über Pflanzen normaler Höhe springen.
+Kann direkt über Pflanzen normaler Höhe fliegen.
 
 [ZOMBIE_NEW_PVP_ICEAGE_DODO]
 Dodo-Reiter-Zombie
 
 [ZOMBIE_NEW_PVP_ICEAGE_DODO_DESCRIPTION_HEADER]
-Kann auf einem Dodo direkt über Pflanzen normaler Höhe reiten.
+Kann auf einem Dodo direkt über Pflanzen normaler Höhe reiten. Außerdem kann er über Richtungsverändernde Felder fliegen.
 
 [ZOMBIE_NEW_PVP_BEACH_SURFER]
 Surfer-Zombie
@@ -67426,31 +67426,31 @@ Chili-Zombie explodiert, sobald er eine Pflanze berührt, und fügt allen Pflanz
 Onmyoji-Zombie
 
 [ZOMBIE_NEW_PVP_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
-Beschwöre in regelmäßigen Abständen einen Windstoß, um den Zombie eine bestimmte Distanz vorwärts zu bewegen.
+Beschwört in regelmäßigen Abständen einen Windstoß, um einen Zombie eine bestimmte Distanz vorwärts zu bewegen.
 
 [ZOMBIE_NEW_PVP_KONGFU_DRINK]
 Trinkender Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_DRINK_DESCRIPTION_HEADER]
-Trinke nach einer bestimmten Schadensmenge, um dich zu stärken, Schadensreduzierung und Bewegungsgeschwindigkeitsbonus zu erhalten.
+Trinkt nach einer bestimmten Schadensmenge ein Trank um sich zu stärken, sowie eine Schadensreduzierung und einen Geschwindigkeitsbonus zu erhalten.
 
 [ZOMBIE_NEW_PVP_DARK_ROGUE]
 Dieb-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_ROGUE_DESCRIPTION_HEADER]
-Trinke nach Betreten des Feldes den Unsichtbarkeitstrank, um unsichtbar zu werden.
+Trinkt nach Betreten des Feldes seinen Unsichtbarkeitstrank, um unsichtbar zu werden.
 
 [ZOMBIE_NEW_PVP_CHILDREN_TOYCAR]
 Spielzeugauto-Zombie
 
 [ZOMBIE_NEW_PVP_CHILDREN_TOYCAR_DESCRIPTION_HEADER]
-Schiebt die Pflanze vor euch mit dem Spielzeugauto ein Feld zurück.
+Schiebt die Pflanze vor sich mit dem Spielzeugauto ein Feld zurück.
 
 [ZOMBIE_NEW_PVP_KONGFU_SELFEXPLODE]
 Selbstexplosions-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
-Haltet eure geliebte Bombe und sterbt gemeinsam mit dem Feind.
+Hält seine geliebte Bombe und stirbt gemeinsam mit seinem Feind.
 
 [ZOMBIE_NEW_PVP_ROMAN_HEALER]
 Heiler-Zombie
@@ -67471,16 +67471,16 @@ Jäger-Zombie
 Wirft Schneebälle, um Pflanzen einzufrieren.
 
 [ZOMBIE_NEW_PVP_NEWSPAPER_VETERAN]
-Sonntagsausgabe-Zombie
+Sonntagsausgaben-Zombie
 
 [ZOMBIE_NEW_PVP_NEWSPAPER_VETERAN_DESCRIPTION_HEADER]
 Geht in Raserei, wenn die Zeitung in seiner Hand zerstört wird.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_JANE]
-Verlorener Regenschirm-Zombie
+Sonnenschirm-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCITY_JANE_DESCRIPTION_HEADER]
-Mit dem Regenschirm in seiner Hand kann er den meisten Schaden durch geworfene Projektile
+Mit dem Sonnenschirm in ihrer Hand kann sie den meisten Schaden durch geworfene Projektile verhindern.
 
 [ZOMBIE_NEW_PVP_ICEAGE_CHIEF]
 Eiswind-Chef-Zombie
@@ -67489,10 +67489,10 @@ Eiswind-Chef-Zombie
 Bläst in Intervallen kalte Ströme in die Reihe, um den Gefriergrad der Pflanzen zu erhöhen.
 
 [ZOMBIE_NEW_PVP_MECH_CONE]
-Mech-Barrikaden-Zombie
+Robo-Pylonen-Zombie
 
 [ZOMBIE_NEW_PVP_MECH_CONE_DESCRIPTION_HEADER]
-Etwas härter als gewöhnliche Barrikaden-Zombies.
+Etwas stärker als gewöhnliche Eimer-Zombies.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_CRYSTALSKULL]
 Türkis-Schädel-Zombie
@@ -67504,10 +67504,10 @@ Wenn sich Pflanzen vor ihm befinden, benötigt er eine gewisse Zeit, um Energie 
 Gentleman-Zombie
 
 [ZOMBIE_NEW_PVP_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
-Wenn er vor sich auf nicht niedrige Pflanzen trifft, hält er einen Regenschirm hoch und bewegt sich vorwärts. Hohe Pflanzen können seinen Vormarsch behindern.
+Wenn er vor sich auf niedrige Pflanzen trifft, hält er seinen Regenschirm hoch und bewegt sich vorwärts. Hohe Pflanzen können seinen Vormarsch behindern.
 
 [ZOMBIE_NEW_PVP_ICEAGE_TROGLOBITE]
-Höhlenbewohnender Zombie
+Troglobit
 
 [ZOMBIE_NEW_PVP_ICEAGE_TROGLOBITE_DESCRIPTION_HEADER]
 Schiebt drei Eisblöcke ins Feld und zerquetscht dabei die Pflanzen.
@@ -67522,13 +67522,13 @@ Hinter ihr blitzt ein Regenbogenlicht auf, das Zombies in Reichweite des Regenbo
 Messermönch-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_MONK_BLADE_DESCRIPTION_HEADER]
-Benutzt ein Breitschwert zum Zerhacken. Pflanzen
+Benutzt ein Breitschwert zum Zerhacken von Pflanzen.
 
 [ZOMBIE_NEW_PVP_KONGFU_MONK_TORCH]
 Fackelmönch-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_MONK_TORCH_DESCRIPTION_HEADER]
-Verbrenne Pflanzen mit einer Fackel.
+Verbrennt Pflanzen mit seiner Fackel.
 
 [ZOMBIE_NEW_PVP_CHICKEN_FARMER]
 Hühnerwürger-Zombie
@@ -67540,22 +67540,22 @@ Wenn er eine bestimmte Menge Schaden erleidet oder eine Pflanze berührt, lässt
 Hofnarr-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_JUGGLER_DESCRIPTION_HEADER]
-Nach einer Weile dreht er sich und prallt die meisten Frontal Prokjektile ab.
+Nach einer Weile dreht er sich und prallt die meisten Frontal Projektile ab.
 
 [ZOMBIE_NEW_PVP_EIGHTIES_PUNK]
 Punk-Zombie
 
 [ZOMBIE_NEW_PVP_EIGHTIES_PUNK_DESCRIPTION_HEADER]
-Tritt die Pflanze davor nach links.
+Tritt die Pflanze vor sich nach links.
 
 [ZOMBIE_NEW_PVP_ROMAN_ARMOR4]
-Stein-Zombie
+Büstenkopf-Zombie
 
 [ZOMBIE_NEW_PVP_ROMAN_ARMOR4_DESCRIPTION_HEADER]
 Die dicke Steinstatue auf seinem Kopf schützt ihn vor großem Schaden.
 
 [ZOMBIE_NEW_PVP_DARK_IMP_DRAGON]
-Drachen-Wicht-Zombie
+Drachenwicht-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_IMP_DRAGON_DESCRIPTION_HEADER]
 Immun gegen die meisten Feuerschäden.
@@ -67564,7 +67564,7 @@ Immun gegen die meisten Feuerschäden.
 Feuerwerk Zombie
 
 [ZOMBIE_NEW_PVP_HEIAN_HANABI_DESCRIPTION_HEADER]
-Gibt in Intervallen Feuer auf den umgebenden 3x3-Bereich ab.
+Gibt in Intervallen Feuer auf den umliegenden 3x3-Bereich ab.
 
 [ZOMBIE_NEW_PVP_KONGFU_GONG]
 Kung-Fu-Gong-Zombie
@@ -67579,10 +67579,10 @@ Kavallerie-Zombie
 Kavallerie-Zombie stürmt nach seinem Erscheinen los, besiegt die erste Pflanze, die er trifft, und fällt dann vom Pferd.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_BUG]
-Verlorener Käfer-Zombie
+Käfer-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCITY_BUG_DESCRIPTION_HEADER]
-Verlorener Käfer-Zombie springt aus der Luft über Bodenverteidigungen und Hindernisse.
+Der Käfer-Zombie fliegt über Bodenverteidigungen und Hindernisse und fällt herunter wenn der Käfer besiegt wird.
 
 [ZOMBIE_NEW_PVP_PIRATE_CAPTAIN]
 Piratenkapitän-Zombie
@@ -67594,7 +67594,7 @@ Sein Papagei nimmt deine Pflanzen und fliegt zu seinem Besitzer zurück.
 Hammer-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_HAMMER_DESCRIPTION_HEADER]
-Kann einen Hammerwirbel ausstoßen, um geradlinig fliegende Erbsengeschosse abzuwehren (Hinweis: Wurfgeschosse können nicht abgewehrt werden).
+Kann einen Hammerwirbel auslösen, um geradlinig fliegende Erbsengeschosse abzuwehren (Hinweis: Wurfgeschosse können nicht abgewehrt werden).
 
 [ZOMBIE_NEW_PVP_LOSTCITY_DOCTOR]
 Verlorener Doktor-Zombie
@@ -67606,7 +67606,7 @@ Wirft gelegentlich Nadeln, um die Angriffsgeschwindigkeit von Pflanzen zu verrin
 Kung-Fu-Qigong-Zombie
 
 [ZOMBIE_NEW_PVP_KONGFU_QIGONG_DESCRIPTION_HEADER]
-Aktiviere Qigong, um die Pflanzen in der horizontalen Reihe davor zu absorbieren (sofern sie nicht durch weißen Rettich blockiert werden).
+Aktiviert Qigong, um die Pflanzen in der horizontalen Reihe vor sich 1 Feld zu sich zu ziehen(sofern vor ihnen kein weißer Rettich ist).
 
 [ZOMBIE_NEW_PVP_DARK]
 Bauernzombie
@@ -67615,7 +67615,7 @@ Bauernzombie
 Nichts Besonderes, aber günstig.
 
 [ZOMBIE_NEW_PVP_TOMB_RAISER]
-Todeszombie
+Grab-Beschwörer
 
 [ZOMBIE_NEW_PVP_TOMB_RAISER_DESCRIPTION_HEADER]
 Alle zwei Felder, die er sich bewegt, wirft er Knochen ein Feld weiter, um einen Grabstein zu formen.
@@ -67630,13 +67630,13 @@ Schiebt das Fass an, um die Pflanzen zu zerquetschen, sodass nichts darin zurüc
 Goldgräber-Zombie
 
 [ZOMBIE_NEW_PVP_PROSPECTOR_DESCRIPTION_HEADER]
-Gehe nach rechts, nachdem du zur letzten Reihe gesprungen bist.
+Geht nach rechts, nachdem er zur letzten Reihe gesprungen ist.
 
 [ZOMBIE_NEW_PVP_EIGHTIES_BREAKDANCER]
 Breakdance-Zombie
 
 [ZOMBIE_NEW_PVP_EIGHTIES_BREAKDANCER_DESCRIPTION_HEADER]
-Bewege dich schnell und schubse den Zombie nach links.
+Bewegt sich schnell und schubst andere Zombie nach links.
 
 [NEW_PVP_COMBAT_UI_ROUND_COUNTER]
 Runde {COUNTER}
@@ -70087,6 +70087,7 @@ Abklingzeit für unterstütztes Pflanzen verdreifacht
 
 [PROTECTOR_PLANT_CD_DIFFICULTY_1]
 Abklingzeit für schwieriges Pflanzen erhöht (1 Stern)
+
 [PROTECTOR_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
 Abklingzeit für schwieriges Pflanzen verdreifacht
 
