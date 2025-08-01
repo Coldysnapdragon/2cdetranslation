@@ -1578,73 +1578,73 @@ Ich hoffe, die Schönheit und Tiefe des Märchenwaldes mit euch teilen zu könne
 Koi
 
 [RANK_AVATAR_CONTENT_CONTENT_61002]
-Doppelduell Saison 1 – Großmeister-Rang-Belohnungen
+2 Spieler Saison 1 – Großmeister-Rang-Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61003]
 Der Frühling kommt
 
 [RANK_AVATAR_CONTENT_CONTENT_61003]
-Doppelduell Saison 2 – Großmeister-Rang Belohnungen
+2 Spieler Saison 2 – Großmeister-Rang Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61004]
 Regenbogenhase
 
 [RANK_AVATAR_CONTENT_CONTENT_61004]
-Großmeister-Belohnungen für Doppelduell Saison 3
+Großmeister-Belohnungen für 2 Spieler Saison 3
 
 [RANK_AVATAR_CONTENT_TITLE_61005]
 Aufsehenerregendes Debüt
 
 [RANK_AVATAR_CONTENT_CONTENT_61005]
-Großmeister-Belohnungen für Doppelduell Saison 4
+Großmeister-Belohnungen für 2 Spieler Saison 4
 
 [RANK_AVATAR_CONTENT_TITLE_61006]
 Sommeranfang
 
 [RANK_AVATAR_CONTENT_CO NTENT_61006]
-Großmeister-Belohnungen für Doppelduell Saison 5 Belohnungen
+Großmeister-Belohnungen für 2 Spieler Saison 5 Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61007]
 Strand
 
 [RANK_AVATAR_CONTENT_CONTENT_61007]
-Großmeister-Belohnungen für Doppelduell Saison 6
+Großmeister-Belohnungen für 2 Spieler Saison 6
 
 [RANK_AVATAR_CONTENT_TITLE_61008]
 Straßengraffiti
 
 [RANK_AVATAR_CONTENT_CONTENT_6100 8]
-Großmeister-Belohnungen für Doppelduell Saison 7
+Großmeister-Belohnungen für 2 Spieler Saison 7
 
 [RANK_AVATAR_CONTENT_TITLE_61009]
 Sommerwald
 
 [RANK_AVATAR_CONTENT_CONTENT_61009]
-Großmeister-Belohnungen für Doppelduell Saison 8
+Großmeister-Belohnungen für 2 Spieler Saison 8
 
 [RANK_AVATAR_CONTENT_TITLE_61011]
 Jubiläum Feier
 
 [RANK_AVATAR_CONTENT_CONTENT_61011]
-Großmeister-Belohnungen für Doppelduell in Saison 9
+Großmeister-Belohnungen für 2 Spieler in Saison 9
 
 [RANK_AVATAR_CONTENT_TITLE_61010]
 Mondbeobachtung
 
 [RANK_AVATAR_CONTENT_CONTENT_61010]
-Großmeister-Belohnungen für Doppelduell, Saison 10
+Großmeister-Belohnungen für 2 Spieler, Saison 10
 
 [RANK_AVATAR_CONTENT_TITLE_61012]
 Debatte
 
 [RANK_AVATAR_CONTENT_CONTENT_61012]
-Großmeister-Belohnungen für Doppelduell, Saison 11
+Großmeister-Belohnungen für 2 Spieler, Saison 11
 
 [RANK_AVATAR_CONTENT_TITLE_61013]
 Gruppenfoto
 
 [RANK_AVATAR_CONTENT_CONTENT_61013]
-Großmeister-Belohnungen für Doppelduell Saison 12
+Großmeister-Belohnungen für 2 Spieler Saison 12
 
 [RANK_AVATAR_CONTENT_TITLE_61014]
 Entdecke Hemudu
@@ -1656,43 +1656,43 @@ Gemeinsame Visitenkarte für Belohnungen
 Weihnachtliche Schneelandschaft
 
 [RANK_AVATAR_CONTENT_CONTENT_61015]
-Großmeister-Belohnungen für Doppelduell Saison 13
+Großmeister-Belohnungen für 2 Spieler Saison 13
 
 [RANK_AVATAR_CONTENT_TITLE_61016]
 Willkommen! Feiere den Frühling! Festival
 
 [RANK_AVATAR_CONTENT_CONTENT_61016]
-Großmeister-Belohnungen für Doppelduell Saison 14
+Großmeister-Belohnungen für 2 Spieler Saison 14
 
 [RANK_AVATAR_CONTENT_TITLE_61017]
 Gewinner demonstrieren
 
 [RANK_AVATAR_CONTENT_CONTENT_61017]
-Großmeister-Belohnungen für Doppelduell Saison 15
+Großmeister-Belohnungen für 2 Spieler Saison 15
 
 [RANK_AVATAR_CONTENT_TITLE_61018]
 Frühlingsweide
 
 [RANK_AVATAR_CONTENT_CONTENT_61018]
-Großmeister-Belohnungen für Doppelduell Saison 16
+Großmeister-Belohnungen für 2 Spieler Saison 16
 
 [RANK_AVATAR_CONTENT_TITLE_61019]
 Kornregen
 
 [RANK_AVATAR_CONTENT_CON TENT_61019]
-Großmeister-Rang für Doppelduell Saison 17 Belohnungen
+Großmeister-Rang für 2 Spieler Saison 17 Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61020]
 Xiaoman
 
 [RANK_AVATAR_CONTENT_CONTENT_61020]
-Großmeister-Belohnungen für Doppelduell Saison 18
+Großmeister-Belohnungen für 2 Spieler Saison 18
 
 [RANK_AVATAR_CONTENT_TITLE_61021]
 Zikaden
 
 [RANK_AVATAR_CONTENT_CONTENT_61021]
-Großmeister-Belohnungen für Doppelduell Saison 19
+Großmeister-Belohnungen für 2 Spieler Saison 19
 
 [RANK_AVATAR_CONTENT_TITLE_61022]
 Das andere Ufer
@@ -1758,43 +1758,43 @@ Großmeister-Rang-Belohnungen für Duell-Saison 24
 Todesblick
 
 [RANK_AVATAR_CONTENT_CONTENT_61032]
-Großmeister-Belohnungen für Doppelduell-Saison 2 und 5
+Großmeister-Belohnungen für 2 Spieler-Saison 2 und 5
 
 [RANK_AVATAR_CONTENT_TITLE_61033]
 Skiabenteuer
 
 [RANK_AVATAR_CONTENT_CONTENT_61033]
-Großmeister-Rang für Doppelduell-Saison 26 Belohnungen
+Großmeister-Rang für 2 Spieler-Saison 26 Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61035]
 Goldener Schlangentanz
 
 [RANK_AVATAR_CONTENT_CONTENT_61035]
-Großmeister-Belohnungen für Doppelduell, Saison 27
+Großmeister-Belohnungen für 2 Spieler, Saison 27
 
 [RANK_AVATAR_CONTENT_TITLE_61036]
 Vision der Weisheit
 
 [RANK_AVATAR_CONTENT_CONTENT_61036]
-Großmeister-Belohnungen für Doppelduell, Saison 28
+Großmeister-Belohnungen für 2 Spieler, Saison 28
 
 [RANK_AVATAR_CONTENT_TITLE_61039]
 Auferstehung aller Dinge
 
 [RANK_AVATAR_CONTENT_CONTENT_61039]
-Großmeister-Belohnungen für Doppelduell, Saison 29
+Großmeister-Belohnungen für 2 Spieler, Saison 29
 
 [RANK_AVATAR_CONTENT_TITLE_61040]
 Überraschung Party
 
 [RANK_AVATAR_CONTENT_CONTENT_61040]
-Großmeister-Belohnungen für Doppelduell (Saison 30)
+Großmeister-Belohnungen für 2 Spieler (Saison 30)
 
 [RANK_AVATAR_CONTENT_TITLE_61041]
 Go West
 
 [RANK_AVATAR_CONTENT_CONTENT_61041]
-Großmeister-Belohnungen für Doppelduell (Saison 31)
+Großmeister-Belohnungen für 2 Spieler (Saison 31)
 
 [RANK_AVATAR_CONTENT_TITLE_61034]
 Feuerwerk verlischt schnell
@@ -1824,7 +1824,7 @@ An alle Spieler, die im Kreativbereich hart arbeiten Garten
 Reisen im Sternenhimmel
 
 [RANK_AVATAR_CONTENT_CONTENT_61043]
-Großmeister-Rang-Belohnungen für Doppelduell-Saison 32
+Großmeister-Rang-Belohnungen für 2 Spieler-Saison 32
 
 [RANK_AVATAR_CONTENT_TITLE_61044]
 Qigong-Meister
@@ -12738,7 +12738,7 @@ Großes Sprühpilz-Outfit
 Charm-Pilz-Outfit
 
 [STORE_PRODUCT_AVATAR_SUNSHROOM_TITLE]
-Sonnenscheinpilz Outfit
+Sonnenpilz Outfit
 
 [STORE_PRODUCT_AVATAR_PEANUT_TITLE]
 Erbs-Nuss-Outfit
@@ -26189,7 +26189,7 @@ Besiege den Kamel-Zombie!
 Sie haben sich gerade um ein Huhn gestritten!
 
 [DEFEAT_CHICKEN_FARMER_REPEATABLE_TITLE]
-Besiege den Hühner-Zombie!
+Besiege den Hühnerwürger-Zombie!
 
 [DEFEAT_CONES_REPEATABLE_DESC]
 Töte den Pylonen-Zombie und übe, den Garten zu bewachen!
@@ -38444,13 +38444,13 @@ Stephania
 {FLAVOR} Stephanias Idol ist der Kapitän des nationalen Fliegenden Schild-Teams. Weil sie sein heldenhaftes Blocken und seinen Fliegenden Schild bewundert, hat Stephania auch hart daran gearbeitet, die Fähigkeiten des Fliegenden Schildes und Blockens zu meistern. Fragt nicht, warum der Schild zerbricht. Es ist nur ein gewöhnliches ziviles Produkt.
 
 [STEPHANIA_DESCRIPTION_HEADER]
-Stephania kann den Projektilfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_TOOLTIP]
-Stephania kann den Projektilfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_PRODUCT_SHORT_DESC]
-Stephania kann den Projektilfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
+Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_AVATAR_NAME]
 Stephania Kostüm
@@ -45732,25 +45732,25 @@ Aktuelle Siegesserie
 Tausend Meilen unter dem Meer
 
 [RANK_AVATAR_CONTENT_CONTENT_61045]
-Großmeister-Rang-Belohnungen für Doppelduell-Saison 33
+Großmeister-Rang-Belohnungen für 2 Spieler-Saison 33
 
 [RANK_AVATAR_CONTENT_TITLE_61005]
 Aufsehenerregendes Debüt
 
 [RANK_AVATAR_CONTENT_CONTENT_61005]
-Großmeister-Belohnungen für Doppelduell, Saison 4
+Großmeister-Belohnungen für 2 Spieler, Saison 4
 
 [RANK_AVATAR_CONTENT_TITLE_61006]
 Sommeranfang
 
 [RANK_AVATAR_CONTENT_CONTENT_61006]
-Großmeister-Belohnungen für Doppelduell, Saison 5
+Großmeister-Belohnungen für 2 Spieler, Saison 5
 
 [RANK_AVATAR_CONTENT_TITLE_61008]
 Straßengraffiti
 
 [RANK_AVATAR_CONTENT_CONTENT_61008]
-Großmeister-Rang-Belohnungen für Doppelduell, Saison 7
+Großmeister-Rang-Belohnungen für 2 Spieler, Saison 7
 
 [AVATARCOLLECTIONS_THEME_DES9]
 Ist eins plus eins gleich zwei?
@@ -48213,31 +48213,31 @@ Sammle diese Woche 100 Pflanzenfragmente.
 Sammle diese Woche 50 Anhänger-/Superanhängerfragmente.
 
 [BATTLEORDER_TASK_NAME_2_4]
-Schließe 5 Level in [Erinnerungsreise] ab.
+Schließe 5 Level in der Erinnerungsreise ab.
 
 [BATTLEORDER_TASK_NAME_2_5]
-Fordere [Penny Chase] 3-mal heraus
+Schließe 3 Pennyjagd level ab.
 
 [BATTLEORDER_TASK_NAME_2_6]
-Fordere [Super Z League] 2-mal heraus
+Fordere Super Z League 2-mal heraus
 
 [BATTLEORDER_TASK_NAME_2_7]
-Erreiche Level 35 in einer beliebigen [Endlos-Herausforderung]
+Erreiche Level 35 in einer beliebigen Endlos-Herausforderung
 
 [BATTLEORDER_TASK_NAME_2_8]
-Veröffentliche 2 beliebige Level im [Kreativgarten]
+Veröffentliche 2 beliebige Level im Kreativgarten
 
-[BATTLEORDER_TASK_NAME_2_ 9]
-Spiele 6 beliebige Level im [Kreativhof]
+[BATTLEORDER_TASK_NAME_2_9]
+Spiele 6 beliebige Level im Kreativgarten
 
 [BATTLEORDER_TASK_NAME_2_10]
-Fordere 15-mal ein beliebiges Level heraus (Hauptlinie/Geheimer Raum und Zeit-Reich)
+Fordere 15-mal ein beliebiges Level heraus (Welten/Geimes Raumzeit-Reich und Erinnerungsreise)
 
 [BATTLEORDER_TASK_NAME_2_11]
-Ziehe 5-mal Schätze (permanente Schätze/geheime Schätze/zeitlich begrenzt) Schätze)
+Ziehe 5-mal Schätze (permanente Schätze/geheime Schätze/zeitlich begrenzte Schätze)
 
 [BATTLEORDER_TASK_NAME_2_12]
-Gewinne 5 Spiele im [Doppelduell]-Modus.
+Gewinne 5 Spiele im 2 Spieler-Modus.
 
 [BATTLEORDER_TASK_NAME_2_13]
 Diese Woche insgesamt 3 Gensequenzen/Genessenzen erhalten.
@@ -51137,7 +51137,7 @@ Magische Bohnenstangen können nicht gepflanzt werden auf Schienen
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave} Die Typen haben ganz schön was in der Hand! Wollen sie Geschenke verteilen?
 
 [NARRATIVE_HEIAN_5_INTRO_2]
-{SAY:winnie} Vorsicht, das sind Ninja-Zombies, und sie halten lebende Projektilfische in der Hand!
+{SAY:winnie} Vorsicht, das sind Ninja-Zombies, und sie halten lebende Kugelfische in der Hand!
 
 [NARRATIVE_HEIAN_5_INTRO_3]
 {EXCITED:crazydave} Was wollen die Typen? Ich wette, die wollen mir meine Tacos klauen!
@@ -51426,13 +51426,13 @@ Jetzt heilt er nicht nur alle Zombies mit seltsamer römischer Magie, sondern ma
 Normalerweise wirkt der Heiler-Zombie nur Heilmagie auf andere Zombies, bis er eines Tages vom Teufel besiegt wurde und seine Seele auf den Gipfel des schneebedeckten Berges gelangte und einen Drachen besiegte. Seitdem hat dieser alte Zombie eine neue Tür geöffnet und sein Stab hat größere magische Kraft erlangt.
 
 [ZOMBIE_ROMAN_BALLISTA]
-Römisches Belagerungsfahrzeug
+Zkorpion-Zombie
 
 [ZOMBIE_ROMAN_BALLISTA_DESCRIPTION]
-Oh mein Gott! In dieser explodierenden Vase versteckt sich ein Zombie! Das ist wirklich überraschend!
+Überraschung! In dieser explodierenden Vase steckt ein Zombie! Ist das nicht überraschend?
 
 [ZOMBIE_ROMAN_BALLISTA_DESCRIPTION_HEADER]
-Ein Belagerungsfahrzeug aus dem antiken Rom. Der Zombie schleudert eine explodierende Vase auf die nächstgelegene Pflanze in seinem Sichtfeld.
+Der Zkorpion-Zombie ist eine Balliste aus dem alten Rom. Er verschießt eine explodierende Vase auf die nächste Pflanze in seiner Reihe.
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA]
 Elite-Belagerungsfahrzeug der Römer
@@ -51579,7 +51579,7 @@ Ninja-Wicht Zombie
 Ninja-Wicht Zombie benutzt oft Rauchbomben, um alle auf sein Kommen aufmerksam zu machen!
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
-Der Projektilfisch in den Händen des Ninja-Wicht-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
+Der Kugelfisch in den Händen des Ninja-Wicht-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
 
 [ZOMBIE_HEIAN_HANABI]
 Feuerwerk-Zombie
@@ -62440,7 +62440,7 @@ Allein
 Blitzexplosion
 
 [S24_MEMORY_LEVEL_NAME_6]
-Doppelduell
+2 Spieler
 
 [S24_MEMORY_LEVEL_NAME_7]
 Kleines Teufelsrad
@@ -66964,16 +66964,16 @@ Erzeugt einen Hurrikan.
 Beschwört Wicht-Zombies und Riesen-Zombies.
 
 [CARD_GAME_INTENTION_ZOMBIE_CHICKEN_FARMER_DESC_1]
-Beschwört einen Hühner-Zombie-Grabstein.
+Beschwört einen Hühnerwürger-Zombie-Grabstein.
 
 [CARD_GAME_INTENTION_ZOMBIE_CHICKEN_FARMER_DESC_2]
-Beschwört Hühner-Zombie.
+Beschwört Hühnerwürger-Zombies.
 
 [CARD_GAME_INTENTION_ZOMBIE_MECH_FOOTBALL_DESC_1]
 Beschwört Disco 3000.
 
 [CARD_GAME_INTENTION_ZOMBIE_MECH_FOOTBALL_DESC_2]
-Beschwört Kämpfer. Zombie
+Beschwört Kämpfer Zombies.
 
 [CARD_GAME_INTENTION_ZOMBIE_MECH_FOOTBALL_DESC_3]
 Beschwöre Disco 3000 und einen Zombie-Kämpfer gleichzeitig.
@@ -67131,13 +67131,13 @@ Karten mit denselben Freischaltrunden können gegeneinander ausgetauscht werden.
 Stufe {NUMBER}
 
 [NEW_PVP_TRAINING_LOWER_BACKGROUND_TITLE]
-Zombie-Aufstellung
+Zombie-Sammlung
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_TITLE]
 Zombie Truppe
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_BTN]
-Bearbeiten Aufstellung
+Aufstellung Bearbeiten
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_SAVE_BTN]
 Speichern
@@ -67167,7 +67167,7 @@ Freischalten
 Maximales Level
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_COST_LABEL]
-Verbrauch Sonnenschein
+Sonnenkosten
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_LABEL]
 Angriff
@@ -67176,7 +67176,7 @@ Angriff
 Gesundheit
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_SPEED_LABEL]
-Bewegung Geschwindigkeit
+Geschwindigkeit
 
 [NEW_PVP_TRAINING_LEVELUP_BATTLE_LABEL]
 Seltenheit: {RARE} Typ: {BATTLE_TYPE}
@@ -67212,29 +67212,31 @@ Fernkampf
 Spezial
 
 [ZOMBIE_BATTLE_TYPE_DESCRIPTION_1]
-Fernkampf E_NEW_PVP_ZOMBIE_GATLINGPEA]
+Fernkampf 
+
+[ZOMBIE_NEW_PVP_ZOMBIE_GATLINGPEA]
 Gatling-Erbsen-Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_GATLINGPEA_DESCRIPTION_HEADER]
-Kann 4 Projektile abfeuern
+Kann 4 Projektile auf einmal abfeuern.
 
 [ZOMBIE_NEW_PVP_TUTORIAL]
 Gewöhnlicher Zombie
 
 [ZOMBIE_NEW_PVP_TUTORIAL_DESCRIPTION_HEADER]
-Ein gewöhnlicher Zombie, der nur frisst
+Ein gewöhnlicher Zombie, der nur frisst.
 
-[ZOMBIE_NEW_PVP_CHICKE N]
+[ZOMBIE_NEW_PVP_CHICKEN]
 Zombie-Huhn
 
 [ZOMBIE_NEW_PVP_CHICKEN_DESCRIPTION_HEADER]
-Kann sich schnell Pflanzen nähern
+Kann sich schnell Pflanzen nähern.
 
 [ZOMBIE_NEW_PVP_BEGHOULED_NEWSPAPER]
 Zeitungs-Zombie
 
 [ZOMBIE_NEW_PVP_BEGHOULED_NEWSPAPER_DESCRIPTION_HEADER]
-Verfällt in Raserei Nachdem die Zeitung in seiner Hand zerstört wurde
+Verfällt in Raserei, Nachdem die Zeitung in seiner Hand zerstört wurde.
 
 [ZOMBIE_NEW_PVP_MODERN_ALLSTAR]
 All-Star-Zombie
@@ -67309,10 +67311,10 @@ Explodierende Nuss Zombie
 Verursacht Flächenschaden beim Tod.
 
 [ZOMBIE_NEW_PVP_DARK_WIZARD]
-Zauberer-Zombie
+Zombie-Zauberer
 
-[ZOMBIE_NEW_PVP_D ARK_WIZARD_DESCRIPTION_HEADER]
-Verwandelt Pflanzen mit Polymorph in Schafe.
+[ZOMBIE_NEW_PVP_DARK_WIZARD_DESCRIPTION_HEADER]
+Verwandelt Pflanzen in Schafe und diese bleiben Schafe bis der Zauberer Besiegt ist.
 
 [ZOMBIE_NEW_PVP_RENAI_GLIDING]
 Fliegendes Fahrzeug-Zombie
@@ -67321,10 +67323,10 @@ Fliegendes Fahrzeug-Zombie
 Kann Pflanzen normaler Höhe direkt überfliegen. Das fliegende Fahrzeug bildet beim Fallen ein Hindernis.
 
 [ZOMBIE_NEW_PVP_ROMAN_BALLISTA]
-Römisches Belagerungsfahrzeug-Zombie
+Zkorpion-Zombie
 
 [ZOMBIE_NEW_PVP_ROMAN_BALLISTA_ DESCRIPTION_HEADER]
-Wirft ein Glas, um hohe Pflanzenschaden. Zombies erscheinen, nachdem das Glas zerbrochen ist.
+Wirft eine Vase, um hohen schaden zu verursachen und Zombies erscheinen, nachdem die Vase fällt.
 
 [ZOMBIE_NEW_PVP_TUTORIAL_GARGANTUAR]
 Gargantua
@@ -67351,19 +67353,19 @@ Panzer-Zombie
 Nutze Panzer, um Pflanzen hohen Schaden zuzufügen. Halte die Panzer, um immun gegen Verlangsamungs- und Einfriereffekte zu sein.
 
 [ZOMBIE_NEW_PVP_DINO_BULLY]
-Jurassischer Wilder Zombie
+Jurassischer Rüpel
 
 [ZOMBIE_NEW_PVP_DINO_BULLY_DESCRIPTION_HEADER]
 Immun gegen die meisten Rückstoßeffekte.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_EXCAVATOR]
-Verlorener Bagger
+Gräber-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCITY_EXCAVATOR_DESCRIPTION_HEADER]
-Nutze eine goldene Schaufel, um Pflanzen zu schaufeln. Schaufele sie auf und wirf sie hinter dich. Die goldene Schaufel kann auch die meisten Angriffe mit flachem Schuss abwehren.
+Nutze eine goldene Schaufel, um Pflanzen zu schaufeln.Er schaufelt sie auf und wirft sie hinter sich. Die goldene Schaufel kann auch die meisten Angriffe mit geradem Schuss abwehren.
 
 [ZOMBIE_NEW_PVP_CHILDREN_BALLON]
-Kindertag-Ballon-Zombie
+Kindertags-Ballon-Zombie
 
 [ZOMBIE_NEW_PVP_CHILDREN_BALLON_DESCRIPTION_HEADER]
 Kann direkt über Pflanzen normaler Höhe springen.
@@ -67375,13 +67377,13 @@ Dodo-Reiter-Zombie
 Kann auf einem Dodo direkt über Pflanzen normaler Höhe reiten.
 
 [ZOMBIE_NEW_PVP_BEACH_SURFER]
-Surfender Zombie
+Surfer-Zombie
 
 [ZOMBIE_NEW_PVP_BEACH_SURFER_DESCRIPTION_HEADER]
-Nachdem der Surfende Zombie gestorben ist, fällt das Surfbrett ab und bildet ein Hindernis.
+Nachdem der Surfer-Zombie gestorben ist, fällt das Surfbrett runter und bildet ein Hindernis.
 
 [ZOMBIE_NEW_PVP_ZOMBIE_JALAPENO]
-Chili Zombie
+Jalapeño Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_JALAPENO_DESCRIPTION_HEADER]
 Chili-Zombie explodiert, sobald er eine Pflanze berührt, und fügt allen Pflanzen in der Reihe schweren Schaden zu.
@@ -67404,7 +67406,7 @@ Dieb-Zombie
 [ZOMBIE_NEW_PVP_DARK_ROGUE_DESCRIPTION_HEADER]
 Trinke nach Betreten des Feldes den Unsichtbarkeitstrank, um unsichtbar zu werden.
 
-[ZOMBIE_NEW_PVP_ CHILDREN_TOYCAR]
+[ZOMBIE_NEW_PVP_CHILDREN_TOYCAR]
 Spielzeugauto-Zombie
 
 [ZOMBIE_NEW_PVP_CHILDREN_TOYCAR_DESCRIPTION_HEADER]
@@ -67420,13 +67422,13 @@ Haltet eure geliebte Bombe und sterbt gemeinsam mit dem Feind.
 Heiler-Zombie
 
 [ZOMBIE_NEW_PVP_ROMAN_HEALER_DESCRIPTION_HEADER]
-Stellt die Gesundheit des verletzten Zombies wieder her.
+Stellt die Gesundheit verletzter Zombies' wieder her.
 
 [ZOMBIE_NEW_PVP_HEIAN_NINJA]
 Ninja-Wicht Zombie
 
 [ZOMBIE_NEW_PVP_HEIAN_NINJA_DESCRIPTION_HEADER]
-Wirft den Projektilfisch in seiner Hand, wenn er sich Pflanzen nähert.
+Wirft den Kugelfisch in seiner Hand, wenn er sich Pflanzen nähert.
 
 [ZOMBIE_NEW_PVP_ICEAGE_HUNTER]
 Jäger-Zombie
@@ -67443,7 +67445,7 @@ Geht in Raserei, wenn die Zeitung in seiner Hand zerstört wird.
 [ZOMBIE_NEW_PVP_LOSTCITY_JANE]
 Verlorener Regenschirm-Zombie
 
-[ZOMBIE_NEW_PVP_LOSTCI TY_JANE_DESCRIPTION_HEADER]
+[ZOMBIE_NEW_PVP_LOSTCITY_JANE_DESCRIPTION_HEADER]
 Mit dem Regenschirm in seiner Hand kann er den meisten Schaden durch geworfene Projektile
 
 [ZOMBIE_NEW_PVP_ICEAGE_CHIEF]
@@ -67459,10 +67461,10 @@ Mech-Barrikaden-Zombie
 Etwas härter als gewöhnliche Barrikaden-Zombies.
 
 [ZOMBIE_NEW_PVP_LOSTCITY_CRYSTALSKULL]
-Verlorener Archäologe
+Türkis-Schädel-Zombie
 
-[ZOMBIE_NEW_PVP_LOSTCITY_CRYSTALSKULL_DE SCRIPTION_HEADER]
-Wenn sich Pflanzen vor ihm befinden, benötigt er eine gewisse Zeit, um Energie zu sammeln und einen Laser abzufeuern. vorwärts
+[ZOMBIE_NEW_PVP_LOSTCITY_CRYSTALSKULL_DESCRIPTION_HEADER]
+Wenn sich Pflanzen vor ihm befinden, benötigt er eine gewisse Zeit, um Energie zu sammeln und einen Laser ein paar Felder vorwärts abzufeuern.
 
 [ZOMBIE_NEW_PVP_STEAM_GENTLEMAN]
 Gentleman-Zombie
@@ -67477,10 +67479,10 @@ Höhlenbewohnender Zombie
 Schiebt drei Eisblöcke ins Feld und zerquetscht dabei die Pflanzen.
 
 [ZOMBIE_NEW_PVP_EIGHTIES_GLITTER]
-Blinkender Zombie
+Glitter-Zombie
 
 [ZOMBIE_NEW_PVP_EIGHTIES_GLITTER_DESCRIPTION_HEADER]
-Hinter ihm blitzt ein Regenbogenlicht auf, das Zombies in Reichweite des Regenbogenlichts vor Schaden schützt.
+Hinter ihr blitzt ein Regenbogenlicht auf, das Zombies in Reichweite des Regenbogenlichts vor Schaden schützt, bis sie besiegt wird.
 
 [ZOMBIE_NEW_PVP_KONGFU_MONK_BLADE]
 Messermönch-Zombie
@@ -67494,17 +67496,17 @@ Fackelmönch-Zombie
 [ZOMBIE_NEW_PVP_KONGFU_MONK_TORCH_DESCRIPTION_HEADER]
 Verbrenne Pflanzen mit einer Fackel.
 
-[ZOMBIE_NEW_PVP_KONGFU_MONK_FARMER]
-Hühnerdieb-Zombie
+[ZOMBIE_NEW_PVP_CHICKEN_FARMER]
+Hühnerwürger-Zombie
 
-[ZOMBIE_NEW_PVP_CHICKEN_FARMER] RMER_DESCRIPTION_HEADER]
-Wenn er eine bestimmte Menge Schaden erleidet oder eine Pflanze berührt, lässt er mehrere Hühner in der aktuellen Reihe frei.
+[ZOMBIE_NEW_PVP_CHICKEN_FARMER_DESCRIPTION_HEADER]
+Wenn er eine bestimmte Menge Schaden erleidet oder eine Pflanze berührt, lässt er mehrere Hühner in seiner aktuellen Reihe frei.
 
 [ZOMBIE_NEW_PVP_DARK_JUGGLER]
-Clown-Zombie
+Hofnarr-Zombie
 
 [ZOMBIE_NEW_PVP_DARK_JUGGLER_DESCRIPTION_HEADER]
-Nach einer Weile dreht er sich und prallt die meisten Frontalangriffe ab. Projektile
+Nach einer Weile dreht er sich und prallt die meisten Frontal Prokjektile ab.
 
 [ZOMBIE_NEW_PVP_EIGHTIES_PUNK]
 Punk-Zombie
@@ -67515,7 +67517,7 @@ Tritt die Pflanze davor nach links.
 [ZOMBIE_NEW_PVP_ROMAN_ARMOR4]
 Stein-Zombie
 
-[ZOMBIE_NEW_PVP_ROMAN_ARMOR4_DESCRIPTION_ HEADER]
+[ZOMBIE_NEW_PVP_ROMAN_ARMOR4_DESCRIPTION_HEADER]
 Die dicke Steinstatue auf seinem Kopf schützt ihn vor großem Schaden.
 
 [ZOMBIE_NEW_PVP_DARK_IMP_DRAGON]
@@ -68005,10 +68007,10 @@ Wähle eine der folgenden Splitterbelohnungen!
 Möchtest du diese Belohnung wirklich wählen?
 
 [NEW_PVP_SHOP]
-Doppelduell-Shop
+2 Spieler-Shop
 
 [NEW_PVP_SHOP_INFO_TITLE]
-Regeln für den Doppelduell-Shop
+Regeln für den 2 Spieler-Shop
 
 [NEW_PVP_SHOP_INFO_DETAIL]
 1. Die Shop-Artikel werden täglich um 0:00 Uhr aktualisiert und das Kauflimit zurückgesetzt.
@@ -68081,7 +68083,7 @@ Normale legendäre Truhe
 Normale legendäre Truhe
 
 [NEW_PVP_ZOMBIE_CARD]
-Karte
+-Karte
 
 [NEW_PVP_UPGRADE_TIP_0]
 Zombies sind danach 50% schneller.
