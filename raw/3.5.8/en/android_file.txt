@@ -39233,8 +39233,8 @@ Kürbislaternen spucken Feuer und fügen Zombies Schaden zu.
 [STORE_PRODUCT_AVATAR_JACKOLANTERN]
 Die Geisterflamme der ultimativen Fähigkeit erzeugt kleine Funken und verursacht kontinuierlich Schaden in der Umgebung.
 
-[STORE_PRODUCT_AVATAR_JACKOLANTERN_TI TLE]
-Kürbislaternenkostüm
+[STORE_PRODUCT_AVATAR_JACKOLANTERN_TITLE]
+Vampir Mantel
 
 [JACKOLANTERN_SKILL_LEVEL1]
 Feuer verstärken
@@ -39273,7 +39273,7 @@ Die Lanzen-Wachsblume wirft Speere und fügt Zombies Schaden zu.
 [LANCERHOYA_AVATAR_NAME]
 Die Lanzen-Hoya wirft Speere und fügt Zombies Schaden zu.
 
-[STORE_PRODUCT_AVATAR_LAN CERHOYA]
+[STORE_PRODUCT_AVATAR_LANCERHOYA]
 Die Reichweite erweitert sich auf 5×5 und die Rotation lässt Zombies schweben und schleudert sie dann zu Boden um zusätzlichen Schaden zu verursachen.
 
 [STORE_PRODUCT_AVATAR_LANCERHOYA_TITLE]
@@ -39316,7 +39316,7 @@ Die abyssische Seeanemone schnappt sich die Zombies unter der Erde und absorbier
 [CTHULHUACTINIA_AVATAR_NAME]
 Die abyssische Seeanemone schnappt sich die Zombies unter der Erde und absorbiert sie, um Energie für die Risse zu erzeugen.
 
-[STORE_PRODUCT_AVATAR_CTHUL HUACTINIA]
+[STORE_PRODUCT_AVATAR_CTHULHUACTINIA]
 Tentakel verursachen Schaden und stoßen Zombies ab, die nicht gepackt
 
 [STORE_PRODUCT_AVATAR_CTHULHUACTINIA_TITLE]
@@ -40228,7 +40228,9 @@ Nachdem das Feuerspeien beendet ist, erscheint darüber ein Klon des Hauptkörpe
 Gieriges Drachengras-Kostüm
 
 [GLUTTONYDRAGON_AVATAR_NAME]
-Gieriges Drachengras-Kostüm ... UCT_AVATAR_GLUTTONYDRAGON]
+Gieriges Drachengras-Kostüm ... 
+
+[STORE_PRODUCT_AVATAR_GLUTTONYDRAGON]
 Bevor er Zombies absorbiert, wirft er viele Snacks aus, die ihm beim Absorbieren ins Maul fliegen und 40% seiner Energie wiederherstellen.
 
 [GLUTTONYDRAGON_NEW_SKILL_LEVEL1_DES]
@@ -40299,7 +40301,7 @@ Spezialdünger-Fähigkeittive Waffe
 [HELICONIAGUNNER_SKILL_LEVEL5_DES]
 Nach jedem Magazinschuss verwandelt sich das Rohr in einen Raketenwerfer, der drei automatische Zielsuchraketen abfeuert. Trifft die Rakete den Zombie, explodiert sie und verursacht Schaden in Höhe von 3×3.
 
-[ST ORE_PRODUCT_AVATAR_HELICONIAGUNNER_TITLE]
+[STORE_PRODUCT_AVATAR_HELICONIAGUNNER_TITLE]
 Heliconia-Schützen kostüm
 
 [HELICONIAGUNNER_AVATAR_NAME]
@@ -40764,11 +40766,11 @@ Schattenhaltung
 [gloomvine_SKILL_LEVEL5_DES]
 Die Angriffsreichweite von Melancholieranke wird erweitert. Melancholieranke nimmt die Superschattenform an, wenn sie sich im Mondlichtfeld der Mondlichtblume befindet. Beim fünften Angriff der Melancholischen Ranke spuckt sie zusätzlichen Rauch in vier Richtungen aus, der den getroffenen Zombies Schaden zufügt und sie um 15% verwundbar macht.
 
-[STORE_PRODU CT_AVATAR_gloomvine_TITLE]
-Düsterrankenkostüm
+[STORE_PRODUCT_AVATAR_gloomvine_TITLE]
+Gasmaske
 
 [gloomvine_AVATAR_NAME]
-Düsterrankenkostüm
+Gasmaske
 
 [STORE_PRODUCT_AVATAR_gloomvine]
 Düsterranken spucken kontinuierlich Blasen aus und fügen Zombies in Angriffsreichweite Schaden zu.
@@ -40830,7 +40832,7 @@ Blitzstoß
 [EAGLECLAW_SKILL_LEVEL5_DES]
 Angriffe können violette Blitze auslösen, die kreuzförmigen Flächenschaden verursachen.
 
-[STORE_PRODUCT_AVATAR_EAGLECLAW_ TITLE]
+[STORE_PRODUCT_AVATAR_EAGLECLAW_TITLE]
 Elektrisches Adlerklauen-Blumenkostüm
 
 [EAGLECLAW_AVATAR_NAME]
@@ -40896,7 +40898,7 @@ Verstärkte Schallwellen
 [HEAVENDATURA_SKILL_LEVEL5_DES]
 Der Schaden aufeinanderfolgender Noten erhöht sich schrittweise. Nach jeder Note erhöht sich der Schaden um das 0,5-Fache, bis hin zum 3-Fachen.
 
-[STORE_PRODU CT_AVATAR_HEAVENDATURA_TITLE]
+[STORE_PRODUCT_AVATAR_HEAVENDATURA_TITLE]
 Echo-Mandragora-Kostüm
 
 [HEAVENDATURA_AVATAR_NAME]
@@ -51948,6 +51950,12 @@ Angriffskraft um 20% erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_EYWA_1]
 Nu Wa-Party-Support-Kostüm
 
+[NEW_AVATAR_SHORT_DESCRIPTION_EYWA_2]
+Nuwa Schlangenschwanz-Graskranz-Outfit
+
+[NEW_AVATAR_DESCRIPTION_EYWA_2]
+Erhöht die Angriffsgeschwindigkeit von Pflanzenfiguren um 10 %.
+
 [NEW_AVATAR_DESCRIPTION_EYWA_1]
 Pflanzen-Abklingzeit um 20% reduziert
 
@@ -51957,7 +51965,7 @@ Stealth-Offener-Pfeil-Neujahr Kostüm
 [NEW_AVATAR_DESCRIPTION_TUPISTRASTALKER_1]
 Abklingzeit von Pflanzen um 10% reduziert
 
-[NEW_AVATAR_SHORT_DESCRIPTION_SAR RACENIA_2]
+[NEW_AVATAR_SHORT_DESCRIPTION_SARRACENIA_2]
 Kostüm mit Sonnenbrille und Schlangendämonen-Kanne
 
 [NEW_AVATAR_DESCRIPTION_SARRACENIA_2]
@@ -51972,7 +51980,7 @@ Angriffsgeschwindigkeit um 20% erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]
 Kostüm mit Elektroschock-Haken-Kuss-Party-Unterstützung
 
-[NEW_A VATAR_DESCRIPTION_WIREGELSEMIUM_1]
+[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_1]
 Angriffskraft erhöht um 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FUMESHROOM_1]
@@ -52776,7 +52784,7 @@ Maulbeeren Lava Super Kostüm
 [NEW_AVATAR_DESCRIPTION_MULBERRY_4]
 Erhöht die Angriffsgeschwindigkeit um 30 %
 
-[NEW_AVATAR_DESCRIPTION_JEWELRABBIT_ 1]
+[NEW_AVATAR_DESCRIPTION_JEWELRABBIT_1]
 Pflanzen-Abklingzeit um 10% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_1]
@@ -76544,7 +76552,7 @@ Samenlebensdauer um 20% erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_2]
 Alraune: Party-Assistenz-Ankleidespiel
 
-[NEW_AVATAR_SHORT_DESCRIPTION_HELICONIAGUNNE R_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_HELICONIAGUNNER_1]
 Skorpionschwanz Bananenwachstum-Geschenkpaket-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_1]
@@ -76565,7 +76573,13 @@ Die Abklingzeit des Pflanzens ist um 25% reduziert.
 [NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_1]
 Ahorn-Schattenschwertkämpfer-Doppelklingen-Kostüm
 
-[NEW_AVATAR_DESCRIPTIO N_MAPLEBLADE_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_RHEUMNOBILE_1]
+Rheum Nobile Weihnachtsbaumschmuck
+
+[NEW_AVATAR_DESCRIPTION_RHEUMNOBILE_1]
+Reduziert den Sonnenlichtverbrauch um 50 %
+
+[NEW_AVATAR_DESCRIPTION_MAPLEBLADE_1]
 Erhöht die Angriffskraft um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ROSESWORDMAN_1]
@@ -76986,7 +77000,7 @@ Kiwi-Affenkönig-Kostüm
 [NEW_AVATAR_DESCRIPTION_KIWIFRUIT_4]
 Angriffsgeschwindigkeit um 25% erhöht
 
-[NEW_AVATAR_SHORT_DESCRIPTION_BUR DOCKBATTER_3]
+[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_3]
 Burdock Batter Bull Demon King Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_3]
