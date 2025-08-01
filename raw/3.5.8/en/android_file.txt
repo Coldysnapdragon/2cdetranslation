@@ -41338,6 +41338,9 @@ Mehrweg-Erbsen-Rotkäppchen-Kostüm
 [NEW_AVATAR_DESCRIPTION_SPLITPEA_2]
 Angriffskraft um 10% erhöht
 
+[NEW_AVATAR_SHORT_DESCRIPTION_CHAINSAWBURMANNII_1]
+Cappy
+
 [EYWA]
 Nuwa Schlangenschwanzgras
 
@@ -41345,6 +41348,7 @@ Nuwa Schlangenschwanzgras
 {KEYWORD}Bereich: {STAT}Vollbild
 {KEYWORD}Funktionen: {STAT}Pflanzenfiguren zum Ausknipsen
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze
+
 {FLAVOR}Dank ihres tiefen Verständnisses und ihrer praktischen Anwendung der Pflanzenontologie plädiert Nuwa Schlangenschwanzgras selbst in dieser ungestümen Zeit des täglichen Kampfes gegen Zombies stets dafür, dass andere Pflanzen Pflanzen ohne Augen gut behandeln und sie nicht ständig wegwerfen sollten, um sich um Zombies zu kümmern. Auch ihre Gefühle für einen gewissen verrückten bärtigen Erfinder sind einzigartig.
 
 [EYWA_DESCRIPTION_HEADER]
@@ -41411,6 +41415,7 @@ Ahorn-Schattenschwertkämpfer
 {KEYWORD}Reichweite: {STAT}2 Felder vorn
 {KEYWORD}Eigenschaften: {STAT}Koordinierter Angriff mit Klonen
 {KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanze
+
 {FLAVOR}Die Blätter des Ahorn-Schattenschwertkämpfers warten immer auf eine Herbstbrise – aber versteht mich nicht falsch, sie fallen nicht ab, er möchte nur sein wallendes Haar zur Schau stellen.
 
 [MAPLEBLADE_DESCRIPTION_HEADER]
@@ -41994,6 +41999,7 @@ Kopfnuss-Salat
 
 [HEADBUTTERLETTUCE_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Kleinwüchsig
+
 {FLAVOR}Kopfnuss-Salat gähnt: "Ach, schon wieder Zeit, Zombies ein paar Kopfnüsse zu verpassen? Moment, ich setze kurz mein Kopfnuss-Gesicht auf und bin sofort da!" Ein echter Champion.
 
 [HEADBUTTERLETTUCE_DESCRIPTION_HEADER]
