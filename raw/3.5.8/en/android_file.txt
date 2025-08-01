@@ -12827,10 +12827,10 @@ Rafflesia Kostüm
 Eichelkleid
 
 [STORE_PRODUCT_AVATAR_XSHOT_TITLE]
-Rübenkleid
+Kostüm
 
 [STORE_PRODUCT_AVATAR_SUGARCANE_TITLE]
-Bambusjungenkleid
+Zuckerohr Kostüm
 
 [STORE_PRODUCT_AVATAR_ROSESWORDMAN_TITLE]
 Rosenkleid
@@ -12838,8 +12838,8 @@ Rosenkleid
 [STORE_PRODUCT_AVATAR_MAGICSHROOM_TITLE]
 Zauberpilz Kostüm
 
-[STORE_PRODUCT_AVATAR_SAPFLING_TI TLE]
-Harz-Outfit
+[STORE_PRODUCT_AVATAR_SAPFLING_TITLE]
+Weihnachtskugel
 
 [STORE_PRODUCT_AVATAR_GHOSTPEPPER_TITLE]
 Geister-Outfit
@@ -12854,7 +12854,13 @@ Pfefferkrug-Outfit
 Rüben-Outfit
 
 [STORE_PRODUCT_AVATAR_STUNION_TITLE]
-Zwiebel-Outfit
+Zwierbel-Outfit
+
+[NEW_AVATAR_SHORT_DESCRIPTION_FIREPEASHOOTER_2]
+Millionär
+
+[NEW_AVATAR_DESCRIPTION_FIREPEASHOOTER_2]
+Erhöht den Angriffsschaden um 10 %
 
 [FESTIVAL_ENTRANCE_ADVICE]
 Tägliche Herausforderungen jetzt geöffnet!
@@ -39509,7 +39515,7 @@ Nach jeder Unterstützung für einen bestimmten Zeitraum wird der Zustand enthus
 Wendet einen stärkeren Unterstützungseffekt auf alle Pflanzen im Umkreis von 3×3 um sich herum an.
 
 [HOYACORDATA_AVATAR_PLANTFOOD_DESCRIPTION]
-Alle Pflanzen mit dem ultimativen Effekt haben eine 50%ige Chance, die ultimative Spezialdünger-Fähigkeit direkt freizusetzen. Es können jedoch maximal 2 Spezialdünger-Fähigkeitn ausgelöst werden.
+Alle Pflanzen mit dem ultimativen Effekt haben eine 50%ige Chance, die Spezialdünger-Fähigkeit direkt freizusetzen. Es können jedoch maximal 2 Spezialdünger-Fähigkeitn ausgelöst werden.
 
 [PEAVINE] 
 Erbsenranke
@@ -52122,8 +52128,10 @@ Baumstumpfblaue Schwimmbrille
 Gesundheit erhöht um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KERNELPULT_1]
-ESCRIPTION_MAGNIFYINGGRASS_1]
-Prismatischer Grashut
+Gentleman
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MAGNIFYINGGRASS_1]
+Grashut
 
 [NEW_AVATAR_DESCRIPTION_MAGNIFYINGGRASS_1]
 Angriffskraft um 10% erhöht
@@ -52289,9 +52297,9 @@ Dunkle Primel mit breiter Krempe
 Erhöht die Wahrscheinlichkeit von Fertigkeit 2 um 15% (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_1]
-Schilfkaninchen-Ohren
+Kaninchen-Ohren
 
-[NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_1]
+[NEW_AVATAR_DESCRIPTION_LIGHTNINGREED]
 Blitzschaden erhöht um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_1]
@@ -52975,11 +52983,11 @@ Feuerbrauner Hut
 [STORE_PRODUCT_AVATAR_JALAPENO]
 Reduziert die Abklingzeit beim Pflanzen um 20%.
 
-[STORE_PRODUCT_AVATAR_INTENS IVECARROT_TITLE]
-Wiederbelebungskarotte Brille
+[STORE_PRODUCT_AVATAR_INTENSIVECARROT_TITLE]
+Doktor
 
 [STORE_PRODUCT_AVATAR_INTENSIVECARROT]
-Sonnenlichtverbrauch um 25 reduzieren
+Sonnenkosten um 25 reduzieren
 
 [MAZE_STATUE_SET_LABEL]
 Anzahl der Runden: {NUMBER}
@@ -70463,10 +70471,10 @@ Die Feuerdrachenpflanze fliegt hoch und spuckt Flammen im 4×3-Bereich ^oldclr^ 
 Sie blüht sofort nach dem Pflanzen und produziert eine Spezialdünger-Fähigkeit.
 
 [POWERLILY_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [POWERLILY_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [SQUASH_NEW_SKILL_LEVEL1_DES]
 Wenn Zombies ein Feld links und rechts vom Kürbis erscheinen, starrt der Kürbis sie an, springt dann hoch und fügt den Zombies im Umkreis von einem Feld Schaden zu.
@@ -70535,19 +70543,19 @@ Die Angriffsreichweite der Chilischote verändert sich zu einem Flammenkreuz, da
 Reduziert den Sonnenlichtverbrauch. Der Sonnenlichtverbrauch beim Pflanzen wird auf 100 reduziert.
 
 [JALAPENO_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [JALAPENO_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [GRAVEBUSTER_NEW_SKILL_LEVEL1_DES]
 Kann auf einem Grabstein gepflanzt werden. Nach dem Pflanzen verzehrt sie den Grabstein innerhalb von 4,5 Sekunden.
 
 [GRAVEBUSTER_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [GRAVEBUSTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [SNOWPEA_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie vor dem Eisschützen erscheint, feuert dieser Eiserbsen ab, um den Zombie anzugreifen und das getroffene Ziel 10 Sekunden lang mit Eis zu verlangsamen.
@@ -70598,7 +70606,7 @@ Bei jedem fünften Angriff feuert der Maiskrug eine Maisrakete mit 150 Schaden a
 Bei jedem dritten Angriff feuert er eine Maisrakete mit 200 Schaden auf böse Zombies ab.
 
 [KERNELPULT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die ultimative Spezialdünger-Fähigkeit einzusetzen! Der Schaden der Maisrakete wurde auf 250 Punkte erhöht.
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit einzusetzen! Der Schaden der Maisrakete wurde auf 250 Punkte erhöht.
 
 [KERNELPULT_PLANTFOOD_DESCRIPTION]
 Der Maiskrug sammelt Butter und schleudert sie sofort in die Luft. Dadurch wird ein Stück Butter auf Zombies auf dem gesamten Bildschirm geschleudert, was Schaden verursacht und sie bewegungsunfähig macht.
@@ -70688,10 +70696,10 @@ Der Wassermelonenkrug verwandelt sich in eine Wassermelonenkanone und feuert kon
 Die Aubergine verwandelt sich in die vorherige Pflanze im Pflanzenslot. Die Verwandlung dauert beim Einpflanzen nur kurz.
 
 [IMITATER_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [IMITATER_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [REPEATER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Doppelshooter erscheint, feuert dieser jede Runde zwei Erbsen ab, um den Zombie anzugreifen.
@@ -70799,10 +70807,10 @@ Nach der Explosion besteht eine 50%ige Chance, eine kleine Kirsche mit einem Sch
 Nach der Explosion besteht eine 100%ige Chance, eine kleine Kirsche mit einem Schaden von 1800 und einer Explosionsreichweite von 1×2 zu hinterlassen.
 
 [CHERRY_BOMB_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [CHERRY_BOMB_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [PEACH_NEW_SKILL_LEVEL1_DES]
 Der Feenpfirsich kann Lichtwellen aussenden, um Pflanzen in einem 3×3 großen Bereich um sich selbst herum zu heilen. Dadurch werden 150 Lebenspunkte aller Pflanzen wiederhergestellt. Wiederholt sich alle 5 Sekunden.
@@ -70942,19 +70950,19 @@ Die Sternfrucht strahlt Licht über ihren gesamten Körper aus und beginnt, sich
 Rotieren Sie ihre Blätter, um einen starken Wind zu erzeugen, der alle fliegenden Zombies, Nebel und Dampf in 3 Sekunden wegbläst.
 
 [BLOVER_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [BLOVER_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [EMPEA_NEW_SKILL_LEVEL1_DES]
 Nach dem Einpflanzen explodiert sie und feuert einen Impuls ab, der alle mechanischen Zombie-Einheiten im Umkreis von 5×5 für 10 Sekunden lähmen kann.
 
 [EMPEA_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [EMPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [CITRON_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben der Energie-Grapefruit erscheint, feuert diese eine hochenergetische Partikelkanone ab, um den Zombie anzugreifen. Die Energie-Grapefruit benötigt 3 Sekunden, um zu landen, und beginnt eine 6,5 Sekunden lange Ruhephase.
@@ -71002,10 +71010,10 @@ Erzeugt zwei Barrieren vor sich (^ff0000^,^oldclr^), die die Angriffe aller Zomb
 Nach dem Einpflanzen bohrt sich die Karotte in den Boden und verwandelt das ursprüngliche Gitter in ein Energiefeld. Wenn die Spezialdünger-Fähigkeit auf die darauf gepflanzte Pflanze angewendet werden, lösen alle anderen Pflanzen auf den Energiefeldern eine starke Attacke aus.
 
 [POWERPLANT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [POWERPLANT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben dem Karottenraketenwagen erscheint, zielt der Karottenraketenwagen auf den Zombie und feuert eine Karottenrakete ab. Nach dem Abfeuern von vier Raketen benötigt der Karottenraketenwagen eine Ruhezeit von 14 Sekunden.
@@ -71533,10 +71541,10 @@ Der Harzkrug bündelt seine ganze Kraft, um 15 Sekunden lang zufällig 20 Harzst
 Hurrikankohl wirbelt seine Blätter und erzeugt so einen eisigen Hurrikan, der Zombies 3 Sekunden lang mit 2 Blöcken/Sekunde zurückwirft und sie 8 Sekunden lang verlangsamt.
 
 [HURRIKALE_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [HURRIKALE_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben der Feuer-Erbsenkanone erscheint, feuert dieser rote Feuererbsen ab, um den Zombie anzugreifen.
@@ -71560,10 +71568,10 @@ Wenn die Feuer-Erbsenkanone wütend ist, spuckt sie Feuer^ff0000^ und erzeugt ei
 Heiße Kartoffeln können Eiswürfel schmelzen.
 
 [HOTPOTATO_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [HOTPOTATO_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [PEPPERPULT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben dem Pfefferkrug erscheint, wirft der Pfefferkrug brennende Paprikaschoten auf den Zombie. Die Paprikaschoten zerbrechen beim Auftreffen auf den Zombie und verursachen Flächenschaden in Höhe von 25% der Angriffskraft bei den Zombies in einem 3×3-Bereich um die Paprika herum.
@@ -71728,10 +71736,10 @@ Der Wirbelwind der Mispelwirbel kann Zombies der ersten Stufe direkt nach unten 
 Der Wirbelwind der Mispel kann Zombies der zweiten Stufe direkt nach unten ziehen und Zombies im Himmelsbereich von „Luftstadt“ 1000 Schaden zufügen.
 
 [DOUBLESAMARA_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [DOUBLESAMARA_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [ANTHURIUM_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von der Anthurie erscheint, feuert diese einen Elektroball ab, um den Zombie anzugreifen. Befinden sich zwei Pflanzen mit Ladungen in einem 3×3-Bereich um die Anthurie herum, absorbiert sie diese und feuert beim nächsten Angriff einen großen Elektroball ab. Dieser große Elektroball kann Zombies in kleinem Umkreis ebenso viel Flächenschaden zufügen.
@@ -71968,7 +71976,7 @@ Die Lebenspunkte des Kürbisgolems steigen auf 2000/1000 und sein Angriff auf 10
 Die Lebenspunkte des Kürbisgolems steigen auf 3000/1500 und sein Angriff auf 150/300.
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die ultimative Spezialdünger-Fähigkeit direkt freizusetzen! Der Gesundheitswert des Kürbisgolems steigt auf 4500/2250 und seine Angriffskraft auf 225/450.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen! Der Gesundheitswert des Kürbisgolems steigt auf 4500/2250 und seine Angriffskraft auf 225/450.
 
 [PUMPKINWITCH_PLANTFOOD_DESCRIPTION]
 Wirft bis zu 5 Kürbisse mit einer Stärke von 130% des normalen Kürbisses und kontrolliert die 5 am weitesten links steuerbaren Zombies auf dem Feld. Danach ruht sich der Kürbismagier 14 Sekunden lang aus. Die Puppe erholt sich nach dem Tod nicht.
@@ -71995,7 +72003,7 @@ Die Auswurffähigkeit der Baumbeeren ist verbessert. Jeder Auswurf reduziert den
 Die Beeren können stärker abprallen, wodurch der Schaden pro Abprall um 20 Punkte reduziert wird. Sie können bis zu 6 Ziele angreifen.
 
 [AKEE_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Chance, die ultimative Spezialdünger-Fähigkeit direkt freizusetzen! Jeder Beerenabprall reduziert den Schaden um 25 Punkte.
+Beim Einpflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen! Jeder Beerenabprall reduziert den Schaden um 25 Punkte.
 
 [AKEE_PLANTFOOD_DESCRIPTION]
 Akaimumu schleudert bis zu 5 große Beeren auf alle Zombies in der Reihe. Die Beeren springen zwischen Zombies hin und her und verringern so den Schaden bei jedem Sprung.
@@ -72310,10 +72318,10 @@ Beim Teleportieren besteht eine 60%ige Chance, dass die Zombies in die Zeit- und
 Es können sieben Zombies gleichzeitig teleportiert werden. Die teleportierten Zombies werden in die Zeit- und Raumturbulenzen geschleudert und kehren nicht zurück.
 
 [THYMEWARP_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [THYMEWARP_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [CELERYSTALKER_NEW_SKILL_LEVEL1_DES]
 Nach dem Pflanzen versteckt sich der Lauernde Sellerie unter der Erde und wartet auf vorbeikommende Zombies. Erscheint ein Zombie links von ihm, bricht dieser aus dem Boden und greift ihn an. Befindet sich etwa drei Sekunden lang kein Zombie in Angriffsreichweite, versteckt er sich wieder.
@@ -72397,7 +72405,7 @@ Beim Angriff besteht eine 17%ige Chance, elektrische Stacheln mit einem Schaden 
 Die stechenden Stacheln des Kaktus können bis zu 5 Zombies durchdringen.
 
 [CACTUS_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die ultimative Spezialdünger-Fähigkeit direkt freizusetzen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [CACTUS_NEW_SKILL_LEVEL5_DES]
 Der Kaktus hat eine 20%ige Chance, einen kleinen Kaktus mit 1000 Lebenspunkten und einer Angriffskraft von 60/0,5 s abzufeuern. Der Kaktus lähmt den Ⅰ^oldclr^ Zombie nach 2–3 Angriffen für 1 Sekunde.
@@ -72460,10 +72468,10 @@ Die Anzahl der Abpraller der kleinen Trauben erhöht sich auf das Sechsfache.
 Die Anzahl der Abpraller der kleinen Trauben erhöht sich auf das Siebenfache.
 
 [GRAPESHOT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [GRAPESHOT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie im 2×3-Bereich rechts erscheint, sprüht das Eisdrachengras Eis, um den Zombie vor ihm einzufrieren. Dadurch wird seine Angriffsreichweite abgedeckt und seine Geschwindigkeit verringert.
@@ -73048,10 +73056,10 @@ Kiwi-Bestie wächst sofort zu ihrer größten Form heran und springt dreimal hin
 Goldene Knospe erzeugt nach dem Pflanzen sofort 375 Sonnen. Keine Abklingzeit für das erste Pflanzen.
 
 [GOLDBLOOM_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [GOLDBLOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeit.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [FLATTENEDSHROOM_NEW_SKILL_LEVEL1_DES]
 Der Tellerpilz kann auf einem Brunnen gepflanzt werden, um den Dampfaustritt vorübergehend zu blockieren.
@@ -73612,10 +73620,10 @@ Der Juwelier-Granatapfel versprüht kontinuierlich 4 Edelsteine und ^ff0000^1 gr
 Nach dem Pflanzen hinterlässt er 5 Sekunden lang Olivenöl auf dem Boden in Angriffsreichweite. Feuerangriffe können das Olivenöl entzünden, wodurch Zombies darauf 6 Sekunden lang 100 Schaden pro Sekunde erleiden. ^ff0000^ Wirkt Wunder bei Ballett-Zombies! ^oldclr^
 
 [OLIVE_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [OLIVE_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze hat keine ultimative Spezialdünger-Fähigkeitn-Attacke.
+Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [EGRETFLOWER_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie vier Felder rechts vom Reiherblumenkämpfer, feuert er sechs Projektile hintereinander ab. Alle 8 Sekunden lädt er eine Rakete mit der Reichweite der rechten Reihe, trifft den Zombie und verursacht 2 Sekunden lang ^848484^stunⅠ^oldclr^. Stirbt er, wirft er eine Rakete in das Feld und ein Feld rechts davon ab und verlässt das Feld.
@@ -73711,7 +73719,7 @@ Die Ruhezeit wird um 25% von 8 auf 6 Sekunden reduziert.
 Die Ruhezeit wird um weitere 25% von 6 auf 4 Sekunden reduziert.
 
 [DARTICHOKE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die ultimative Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
 
 [DARTICHOKE_NEW_SKILL_LEVEL5_DES]
 Alle 20 Sekunden wird ein Gewitterpfeil abgefeuert. Der Gewitterpfeil greift zuerst die gefährlichsten Zombies an und fügt ihnen, die er durchdringt, Schaden zu. Nach dem Auftreffen tötet er sofort einen einzelnen kleinen Zombie.
@@ -74372,10 +74380,10 @@ Die Stacheln von der Heißen heide wurden verstärkt und feuern nun sieben Pfeil
 Die Stacheln von der Heißen heide wurden verstärkt und feuern nun acht Pfeile ab, wodurch die Anzahl der Durchschläge verfünffacht wurde.
 
 [HEATHSEEKER_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [HEATHSEEKER_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine ultimative Spezialdünger-Fähigkeit-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 	  
 [ENTS_NEW_SKILL_LEVEL1_DES]
 Der riesige Körper des Baumwächters dient dem Schutz von Pflanzen. Er regeneriert automatisch seine Gesundheit um 300 Punkte pro Sekunde. Bei mehr als zwei Zombies erhöht sich die Regeneration auf 400 Punkte pro Sekunde. Er kann Baumspitzen um sich herum erzeugen, um Zombies anzugreifen. ^ff0000^ Er hat eine wundersame Wirkung auf Roller-Zombies. ^oldclr^
@@ -76375,8 +76383,8 @@ See Derris kann ins Wasser gepflanzt werden, um Fische und Zombies abzuwehren.
 [STORE_PRODUCT_AVATAR_SEADERRIS_TITLE]
 See Derris Outfit
 
-[STORE_PRODUCT_AVATAR_SEADERRIS_TITLE] IS]
-Abklingzeit der Pflanze um 20 % reduziert
+[STORE_PRODUCT_AVATAR_SEADERRIS]
+Abklingzeit um 20 % reduziert.
 
 [SEADERRIS_SKILL_LEVEL1]
 Häufiger sprühen
@@ -76456,7 +76464,7 @@ Stufe 2 kann mit normalen Erbsenkanonen und Gifterbsenkanonen synergistisch wirk
 Stufe 3 kann mit Erbsenmörsern synergieren.
 
 [SEASHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, dass die ultimative Spezialdünger-Fähigkeit sofort aktiviert wird.
+Beim Einpflanzen besteht eine mittlere Chance, dass die Spezialdünger-Fähigkeit sofort aktiviert wird.
 
 [SEASHOOTER_NEW_SKILL_LEVEL5_DES]
 Kann mit Mega-MG-Erbsen, einschließlich fusionierten Mega-MG-Erbsen, verknüpft werden. Nach dem Einsatz der Spezialdünger-Fähigkeit einer verknüpften Pflanze, besteht eine 10%ige Chance, eine weitere Spezialdünger-Fähigkeit einzusetzen (ausgenommen Seekanone).
