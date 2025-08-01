@@ -67885,7 +67885,7 @@ Töte 80 Zombies.
 Verbessere die Sonnenblume 8-mal.
 
 [NEW_PVP_TASK_NAME_1_8]
-Füge dem Gegner 20 Schaden zu. Basis
+Füge dem Gegner 20 Schaden zu.
 
 [NEW_PVP_TASK_NAME_1_9]
 Pflanze 8 Pflanzen der Stufe 5
@@ -67918,7 +67918,7 @@ Setze 10 Zombies im verstärkten Zustand in einem einzigen Spiel ein.
 Pflanze 125 Pflanzen.
 
 [NEW_PVP_TASK_NAME_2_4]
-Füge dem Gegner 100 Schaden zu. Basis
+Füge dem Gegner 100 Schaden zu.
 
 [NEW_PVP_TASK_NAME_2_5]
 Setze 15 Gargantuas ein.
@@ -67939,55 +67939,55 @@ Pflanze 40 Pflanzen der Stufe 5.
 Setze 75 beschleunigte Zombies ein.
 
 [NEW_PVP_TASK_NAME_2_11]
-Verursache zunächst 20-mal Schaden an der gegnerischen Basis.
+Verursache vor deinem Gegner 20-mal Schaden an der gegnerischen Basis.
 
 [NEW_PVP_TASK_NAME_2_12]
-Gewinne 5 Spiele
+Gewinne 5 Spiele.
 
 [NEW_PVP_TASK_NAME_2_13]
-Zerstöre 400 Zombies
+Zerstöre 400 Zombies.
 
 [NEW_PVP_TASK_NAME_2_14]
-Pflanze 50 Pflanzen der Stufe 3
+Pflanze 50 Pflanzen der Stufe 3.
 
 [NEW_PVP_TASK_NAME_2_15]
-Setze 50 Zombies im bluterneuernden Zustand ein
+Setze 50 Zombies im bluterneuernden Zustand ein.
 
 [NEW_PVP_TASK_NAME_2_16]
-Setze 30 Zombies in einem einzigen Spiel ein
+Setze 30 Zombies in einem einzigen Spiel ein.
 
 [NEW_PVP_TASK_NAME_2_17]
-Verbrauche 40.000 Sonnenlichtpunkte
+Verbrauche 40.000 Sonnen.
 
 [NEW_PVP_TASK_NAME_2_18]
-Verbessere das Level der Sonnenblumen 40-mal
+Verbessere das Level der Sonnenblume 40-mal.
 
 [NEW_PVP_TASK_NAME_2_19]
-Pflanze 50 Pflanzen der Stufe 1
+Pflanze 50 Pflanzen der Stufe 1.
 
 [NEW_PVP_TASK_NAME_2_20]
-Setze 25 Zombies im kontrolllosen Zustand
+Setze 25 Zombies im kontrolllosen Zustand.
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_0]
-Wähle eines von drei Kostümfragmenten
+Wähle eines von drei Kostümfragmenten!
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_1]
-Kürbiskopf-Pflanzenkleid, Geschenkpaket (2er-Auswahl)
+Kürbis-Kostüm, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_2]
-Elektrisches Rankenpflanzenkleid, Geschenkpaket (2er-Auswahl)
+Powerranke Kostüm, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_3]
-Erbsenrankenpflanzenkleid, Geschenkpaket (2er-Auswahl)
+Erbsenranken-Kostüm, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_4]
 Glänzendes Rankenpflanzenkleid, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_5]
-Stapelrankenpflanzenkleid, Geschenkpaket (2er-Auswahl) Paket
+Stapelrankenpflanzenkleid, Geschenkpaket (2er-Auswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_6]
-Geschenkpaket „Pyre Vine Plant Dress“ (Zweierauswahl)
+Geschenkpaket „Scheiterranke Kostüm“ (Zweierauswahl)
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_6]
 Geschenkbox „Ranke & Kostüm“ (Mehrfachauswahl)
@@ -68008,7 +68008,7 @@ Geschenkpaket „Grundstufe“ kaufen
 Geschenkpaket „Grundstufe“
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_18]
-Mittelstufe kaufen Geschenkpaket
+Mittelstufe Geschenkpaket kaufen
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_18_SHORTDESC]
 Geschenkpaket für mittleres Level
@@ -68117,7 +68117,7 @@ Normale legendäre Truhe
 Normale legendäre Truhe
 
 [NEW_PVP_ZOMBIE_CARD]
--Karte
+ Karte
 
 [NEW_PVP_UPGRADE_TIP_0]
 Zombies sind danach 50% schneller.
