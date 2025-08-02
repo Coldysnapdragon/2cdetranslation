@@ -6132,10 +6132,6 @@ Produziert sofort mehrere Sonnen.
 [SUNFLOWER_TOOLTIP]
 Gibt dir Extra-Sonne
 
-[SUNFLOWER_PLANTFOOD_DESCRIPTION]
-
-[SUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-
 [SURVIVE_ZOMBIE_ATTACK]
 Überlebe den Zombie Angriff!
 
@@ -52242,7 +52238,7 @@ Sternfrucht-Perücke
 Angriffsgeschwindigkeit um 15% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REDSTINGER_1]
-Abenteuerhut der Rotnadelblume
+Abenteuerhut
 
 [NEW_AVATAR_DESCRIPTION_REDSTINGER_1]
 Angriffsgeschwindigkeit um 10% erhöht
@@ -72045,16 +72041,16 @@ Wenn du  in den ersten drei Spalten links pflanzt, blüht er auf und feuert jede
 Wenn der Rote-Stachler in Angriffsform ist, erhöht sich seine Angriffsgeschwindigkeit bei Dauerangriffen um 15%. Stirbt er in Verteidigungsform, explodiert er und fügt Zombies im Umkreis von 2×1 150 Schaden zu.
 
 [REDSTINGER_NEW_SKILL_LEVEL3_DES]
-Wenn RedSTINGER in Angriffsform ist, erhöht sich die Angriffsgeschwindigkeit kontinuierlicher Angriffe um 30%. Stirbt er in Verteidigungsform, explodiert er und fügt Zombies im Umkreis von 2×1 200 Schaden zu.
+Wenn der Roter-Stachler in Angriffsform ist, erhöht sich die Angriffsgeschwindigkeit kontinuierlicher Angriffe um 30%. Stirbt er in Verteidigungsform, explodiert er und fügt Zombies im Umkreis von 2×1 200 Schaden zu.
 
 [REDSTINGER_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [REDSTINGER_PLANTFOOD_DESCRIPTION]
-RedSTINGER öffnet seine Blütenblätter und verschießt einen riesigen Strahl, der Zombies verlangsamen und Schaden verursachen kann.
+der Roter-Stachler öffnet seine Blütenblätter und verschießt einen riesigen Strahl, der Zombies verlangsamen und Schaden verursachen kann.
 
 [REDSTINGER_AVATAR_PLANTFOOD_DESCRIPTION]
-RedSTINGER öffnet seine Blütenblätter und verschießt ^ff0000^ zwei ^oldclr^ riesige Strahlen, die Zombies verlangsamen und Schaden verursachen können.
+der Roter-Stachler öffnet seine Blütenblätter und verschießt ^ff0000^ zwei ^oldclr^ riesige Strahlen, die Zombies verlangsamen und Schaden verursachen können.
 
 [STALLIA_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie mit Stinkeblüte in Kontakt kommt, setzt sie giftiges Gas frei, das Zombies in einem 3×3-Bereich 12 Sekunden lang verlangsamt.
@@ -72162,10 +72158,10 @@ Wenn die Jackfrucht den Tunneleingang blockiert, erhöht sich ihre Gesundheit um
 Erhöht die Gesundheit der Jackfrucht.
 
 [JACKFRUIT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Spezialdünger-Fähigkeitte-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [JACKFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Spezialdünger-Fähigkeitte-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [KIWIFRUIT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben der Kiwi erscheint, wirft er einen goldenen Knüppel nach rechts. Der goldene Knüppel stoppt nach dem Kontakt mit dem Zombie und fügt ihm weiterhin in einem einzigen Raster Schaden zu. Der goldene Knüppel hält 4 Sekunden lang an.
@@ -72417,10 +72413,10 @@ Erweckt eine Pflanze wieder und stellt 100% ihrer Gesundheit wieder her.
 Erwecke eine Pflanze wieder zum Leben und verleihe ihr einen 5 Sekunden anhaltenden Unverwundbarkeitsschild.
 
 [INTENSIVECARROT_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Spezialdünger-Fähigkeitte-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [INTENSIVECARROT_AVATAR_PLANTFOOD_DESCRIPTION]
-Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Spezialdünger-Fähigkeitte-Attacke.
+Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [CACTUS_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Kaktus erscheint, schießt dieser stechende Stacheln aus seinem Maul auf ihn. Erscheint ein Zombie ein Feld rechts vom Kaktus, versinkt dieser im Boden und fügt dem Zombie Schaden zu, wenn er darauf tritt. ^ff0000^ Die Wirkung ist stark auf Ballon-Zombies. ^oldclr^
