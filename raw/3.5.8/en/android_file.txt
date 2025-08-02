@@ -41394,7 +41394,7 @@ Nuwa Schlangenschwanz-Graskostüm
 [STORE_PRODUCT_AVATAR_EYWA]
 Ein zusätzlicher Mann mit einer größeren Bombe erscheint.
 
-[STORE_PRODUCT_AVATA R_EYWA_TITLE]
+[STORE_PRODUCT_AVATAR_EYWA_TITLE]
 Nu Wa Schlangenschwanz-Graskostüm
 
 [EYWA_NEW_SKILL_LEVEL1_DES]
@@ -68135,8 +68135,8 @@ Amethystmünze
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_NOT_ENOUGH]
 Nicht genügend Amethyst Münzen
 
-[MAT_NEW_PVP_PURPLE_GOLD_COIN_U SE]
-Im Duell-Shop gegen Gegenstände eintauschen
+[MAT_NEW_PVP_PURPLE_GOLD_COIN_USE]
+Im 2 Spieler-Shop gegen Gegenstände eintauschen
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_GOT_WAY]
 Öffne die Schatztruhe im Duell, um Folgendes zu erhalten:
@@ -76505,7 +76505,7 @@ Seekanonen-Kostüm
 Bei Einsatz einer Super erhöht sich die Anzahl der ausgeworfenen Projektile.
 
 [SEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Bei Verwendung eines Supers erhöht sich die Anzahl der ausgeworfenen Projektile.
+Bei Verwendung der Spezialdünger-Fähigkeit erhöht sich die Anzahl der ausgeworfenen Projektile.
 
 [ZOMBIE_ATLANTIS_ARMOR2]
 Ozean-Eimer-Zombie
