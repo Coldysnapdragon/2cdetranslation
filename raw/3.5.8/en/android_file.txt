@@ -20081,12 +20081,6 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 [NARRATIVE_PLANTTRIAL_FUMESHROOM_INFO_2]
 {EXCITED:crazydave}{SAY}Probiert den neuen Stinkpilz aus. Sein Angriff kann gegen den Schaden des Clown-Zombies immun sein.
 
-[NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_1]
-{NPC_ENTER:crazydave}{SAY}Wir haben vorn einen Zombieritter entdeckt. Er kann unsere Formation leicht durchbrechen.
-
-[NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_2]
-{EXCITED:crazydave}{SAY}Probiert die neu eingetroffenen Feuerpilze aus. Sie können eine Feuerwand erzeugen, um die Angriffe der Zombies abzuwehren.
-
 [NARRATIVE_PLANTTRIAL_LOTUSSHOWER_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Fischerzombie gefunden. Er wird uns von hinten angreifen.
 
@@ -36442,6 +36436,7 @@ Kristallorchidee
 
 [MONOTROPA_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale:{STAT}Blaue Pflanze
+
 {FLAVOR} Die Königin von Eis und Schnee stapelt gerne Schneemänner in ihrem Garten. Sollten die Schneemänner nicht gehorchen, schreckt sie natürlich nicht vor kleinen Strafen zurück.
 
 [MONOTROPA_DESCRIPTION_HEADER]
