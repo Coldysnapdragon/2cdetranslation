@@ -55184,16 +55184,16 @@ Passiver Effekt: Wenn ein Zombie mit Ladung stirbt, besteht eine Chance von {Pas
 Töte {NUMBER} Zombies mit {NAME}
 
 [ARTIFACT_VASE]
-Dosenwurf-Artefakt
+Vasenwurf-Artefakt
 
 [ARTIFACT_VASE_DESCRIPTION]
-10 Dosen fallen zufällig vom Feld. Zombies, Pflanzenkarten und Sonnenlicht fallen zufällig aus den Dosen.
+10 Vasen fallen zufällig vom Feld. Zombies, Pflanzenkarten und Sonnenlicht fallen zufällig aus den Dosen.
 
 [ARTIFACT_VASE_SKILL_1]
-Topfregen
+Vasenregen
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_1]
-Aktiv einsetzen: 10 Dosen fallen zufällig vom Feld. Spezialdünger-Fähigkeitn-Zombies, Pflanzenkarten und Sonnenlicht fallen zufällig aus dem Gefäß. Die Stärke der Gegenstände hängt vom Level des Artefakts ab. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_2} Mal pro Kampf eingesetzt werden.
+Aktiv einsetzen: 10 Vasen fallen zufällig vom Feld. Spezialdünger,Zombies, Pflanzensamenpackete und Sonnen fallen zufällig aus dem Gefäß. Die Stärke der Gegenstände hängt vom Level des Artefakts ab. Die Fertigkeit kühlt 30 Sekunden lang ab und kann {MainField_2} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_VASE_SKILL_2]
 Wurfmeister
@@ -55202,19 +55202,19 @@ Wurfmeister
 Passiver Effekt: Die Angriffs- und Verteidigungsattribute geworfener Pflanzen erhöhen sich um {PassiveField1_1}%.
 
 [ARTIFACT_VASE_SKILL_3]
-Tontöpfe fallen lassen
+Vasen fallen lassen
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_3]
-Passiver Effekt: Alle {PassiveField2_1} Sekunden fällt ein zufälliger Tontopf vom Feld.
+Passiver Effekt: Alle {PassiveField2_1} Sekunden fällt eine zufällige Vase vom Feld.
 
 [ARTIFACT_VASE_SKILL_4]
-Tontöpfe renovieren
+Vasen renovieren
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_4]
-Passiver Effekt: Die Gegenstände im Gefäß werden besser, stärker und schöner.
+Passiver Effekt: Die Gegenstände in Vasen werden besser, stärker und schöner
 
 [ARTIFACT_CURE]
-Artefakt heilen
+Heilstabartefakt
 
 [ARTIFACT_CURE_DESCRIPTION]
 Heilt alle Pflanzen und verleiht ihnen einen Unverwundbarkeitsschild.
@@ -55712,8 +55712,7 @@ Wassersäulenspray
 [ARTIFACT_WATERGUN_SKILL_2]
 Wassersäulenspray
 
-[ARTIFACT_WATERGUN_SKILL_3]
-UN_SKILL_DESCRIPTION_1]
+[ARTIFACT_WATERGUN_SKILL_DESCRIPTION_1]
 Aktiver Einsatz: Entfesselt in jeder Reihe eine mächtige Wassersäule, um Zombies zurückzudrängen.
 
 [ARTIFACT_WATERGUN_SKILL_2]
@@ -55878,7 +55877,7 @@ Beschwörungsritual
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_3]
 Alle {PassiveField2_1} Sekunden wird für 15 Sekunden ein Zauberzombie in einer zufälligen Reihe beschworen.
 
-[ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_3] ICHAT_SKILL_4]
+[ARTIFACT_MAGICHAT_SKILL_4]
 Fähigkeitsverbesserung
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_4]
@@ -56097,6 +56096,7 @@ Verstärkte Lautsprecher
 Nach Einsatz der aktiven Fertigkeit: Zwei Lautsprecher werden fallengelassen, um kontinuierlich Schallwellen im 3×3-Bereich auszustrahlen. Sie greifen {PassiveField3_1} Mal pro Sekunde an. Jede Schallwelle verursacht {PassiveField3_2} Schadenspunkte und {PassiveField3_3} Sekunden Betäubung. Je besser die Leistung, desto länger die Dauer.
 
 [ARTIFACT_TRIDENT]
+Dreizack Artefakt
 
 [ARTIFACT_TRIDENT_DESCRIPTION]
 Nutze die Kraft des Ozeans, um die Meeresfontäne zu beschwören und Zombies umzuhauen.
@@ -56279,7 +56279,9 @@ Zombies packen
 Packen Zombies
 
 [ARTIFACT_HYDRAULIC_SKILL_7]
-Pack Zombies CT_HYDRAULIC_SKILL_DESCRIPTION_4]
+Pack Zombies 
+
+[ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_4]
 Zombies in Reichweite verwandeln sich in Zombiekarten. Zombiekarten können an einen beliebigen Ort verschoben und wieder in gegnerische Zombies verwandelt werden. Zombiekarten bleiben 15 Sekunden lang bestehen. Karten, die nach Ablauf der Zeit nicht verwendet werden, verwandeln sich am ursprünglichen Ort wieder in gegnerische Zombies.
 
 [ARTIFACT_BOWLING]
