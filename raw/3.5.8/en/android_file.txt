@@ -145,7 +145,7 @@ Meuterei
 [ACHIEVE_NO_SMOKING_DESC]
 Ersticken Sie die Fackel eines Entdecker-Zombies.
 
-[ACHIEVE_NO_SMOKI NG_TITLE]
+[ACHIEVE_NO_SMOKING_TITLE]
 Rauchen verboten
 
 [ACHIEVE_OFF_THE_GREEN_DESC]
@@ -1602,7 +1602,7 @@ Großmeister-Belohnungen für 2 Spieler Saison 4
 [RANK_AVATAR_CONTENT_TITLE_61006]
 Sommeranfang
 
-[RANK_AVATAR_CONTENT_CO NTENT_61006]
+[RANK_AVATAR_CONTENT_CONTENT_61006]
 Großmeister-Belohnungen für 2 Spieler Saison 5 Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61007]
@@ -1680,7 +1680,7 @@ Großmeister-Belohnungen für 2 Spieler Saison 16
 [RANK_AVATAR_CONTENT_TITLE_61019]
 Kornregen
 
-[RANK_AVATAR_CONTENT_CON TENT_61019]
+[RANK_AVATAR_CONTENT_CONTENT_61019]
 Großmeister-Rang für 2 Spieler Saison 17 Belohnungen
 
 [RANK_AVATAR_CONTENT_TITLE_61020]
@@ -1701,8 +1701,8 @@ Das andere Ufer
 [RANK_AVATAR_CONTENT_CONTENT_61022]
 Naraka: Bladepoint-Kooperations-Visitenkarte
 
-[RANK_AVA TAR_CONTENT_TITLE_61023]
-Klettern in der Hitze Sommer
+[RANK_AVATAR_CONTENT_TITLE_61023]
+Klettern in der Sommer Hitze
 
 [RANK_AVATAR_CONTENT_CONTENT_61023]
 Großmeister-Rang-Belohnungen für die 20. Saison von Duel Duel
@@ -1818,7 +1818,7 @@ Elegant im Herzen, Gentleman in Aktion
 [RANK_AVATAR_CONTENT_TITLE_61042]
 Tanzende Stars
 
-[RANK_AVATAR_CONTENT_CONTENT NT_61042]
+[RANK_AVATAR_CONTENT_61042]
 An alle Spieler, die im Kreativbereich hart arbeiten Garten
 
 [RANK_AVATAR_CONTENT_TITLE_61043]
@@ -4916,7 +4916,7 @@ Rüstungsmonteur – Flammenstern
 [ARMORFLAME_TALENT_NAME_2]
 ^2f8101^ Nadelverstärkung^oldclr^
 
-[ARMO RFLAME_TALENT_DESCRIPTION_2_0]
+[ARMORFLAME_TALENT_DESCRIPTION_2_0]
 ^573701^Der Schadensmultiplikator des Nadelgeschosses wurde erhöht^oldclr^^2f8101^2,5%^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_2_0_PRESS]
@@ -5321,7 +5321,7 @@ Der letzte Tag
 [STARCHALLENGE_RENAI_FINALE]
 Überlebe eine große Zombiewelle in der Renaissance.
 
-[STAR CHALLENGE_RENAI_FINALE_NAME]
+[STARCHALLENGE_RENAI_FINALE_NAME]
 Der letzte Tag
 
 [DARK_FINALE_NAME]
@@ -5685,7 +5685,7 @@ Besiege {COUNT} Zombies, die sich nur in Sandstürmen befinden.
 [STARCHALLENGE_SANDSTORM_ZOMBIE_KILL_NAME]
 Sandsturm-Kill
 
-[STARCHALLENGE_B UFFERTILE_ZOMBIE_KILL_DESC]
+[STARCHALLENGE_BUFFERTILE_ZOMBIE_KILL_DESC]
 Besiege {COUNT} Zombies, die nur durch Kacheln verstärkt werden.
 
 [STARCHALLENGE_BUFFERTILE_ZOMBIE_KILL_NAME]
@@ -5706,8 +5706,8 @@ Töte mit Sprengfässern.
 [STARCHALLENGE_BLOW_BARREL_ZOMBIE_DESC]
 Schleudere {COUNT} Zombies aus Monsterfässern weg.
 
-[STARCHALLENGE_BLOW_B ARREL_ZOMBIE_NAME]
-Spreng das Monsterfass in die Luft.
+[STARCHALLENGE_BLOW_BARREL_ZOMBIE_NAME]
+Spreng das Fass in die Luft.
 
 [STARCHALLENGE_FIREWORKS_ZOMBIE_KILL_DESC]
 Töte {COUNT} Zombies mit Feuerwerk.
@@ -5718,7 +5718,7 @@ Töte mit Feuerwerk.
 [STARCHALLENGE_FIRECRACKER_ZOMBIE_KILL_DESC]
 Töte {COUNT} Zombies mit Feuerwerkskörpern.
 
-[STAR CHALLENGE_FIRECRACKER_ZOMBIE_KILL_NAME]
+[STARCHALLENGE_FIRECRACKER_ZOMBIE_KILL_NAME]
 Töte mit Feuerwerkskörpern.
 
 [STARCHALLENGE_TENT_ZOMBIE_KILL_DESC]
@@ -5730,7 +5730,7 @@ Töte Zelt-Zombies.
 [STARCHALLENGE_UNFREEZE_PLANTS_DESC]
 Taue {COUNT} Pflanzen auf.
 
-[ST ARCHALLENGE_UNFREEZE_PLANTS_NAME]
+[STARCHALLENGE_UNFREEZE_PLANTS_NAME]
 Pflanzen auftauen
 
 [STARCHALLENGE_PROTECT_PLANTS_BY_PROTECTER_SHIELD_DESC]
@@ -7391,7 +7391,7 @@ Energiebatterie
 [STORE_CATEGORY_NAME_MYSTERY]
 Mysteriöser Kristall
 
-[STORE_CATEGORY_NAME_PVZ 1MODE_TIME_ENERGY]
+[STORE_CATEGORY_NAME_PVZ1MODE_TIME_ENERGY]
 Zeit- und Raumstabilisator
 
 [STORE_CATEGORY_NAME_PLANTS]
@@ -8987,7 +8987,7 @@ Der Aktivierungscode wurde erfolgreich eingegeben und die Kirschbomben wiederher
 [GEMS_RESTORE_CODE_RECHARGE_DOUBLECOIN_SUCCEED_CONTENT]
 Der Aktivierungscode wurde erfolgreich eingegeben und die doppelte Anzahl an Goldmünzen wiederhergestellt.
 
-[GE MS_RESTORE_CODE_RECHARGE_DOUBLELOTTERY_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_DOUBLELOTTERY_SUCCEED_CONTENT]
 Der Aktivierungscode wurde erfolgreich eingegeben und die doppelte Ziehung wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_THREEPEATER_AVATAR_SUCCEED_CONTENT]
@@ -9008,13 +9008,13 @@ Der Aktivierungscode wurde erfolgreich eingegeben. Du hast Level {LEVEL_NUMBER} 
 [GEMS_RESTORE_CODE_RECHARGE_PEAPOD_AVATAR_LEVEL_SUCCEED_CONTENT]
 Der Aktivierungscode wurde erfolgreich eingegeben und du hast Level {LEVEL_NUMBER} und Kostüm von Peapod wiederhergestellt.
 
-[GEMS_RESTORE_CODE_RECHARGE_SN OWPEA_AVATAR_LEVEL_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_SNOWPEA_AVATAR_LEVEL_SUCCEED_CONTENT]
 Der Aktivierungscode wurde erfolgreich eingegeben und du hast Level und Outfit des Eisbogenschützen {LEVEL_NUMBER} wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_AVATAR_LEVEL_SUCCEED_CONTENT]
 Der Aktivierungscode wurde erfolgreich eingegeben und du hast Level und Outfit der Holo-Nuss {LEVEL_NUMBER} wiederhergestellt.
 
-[GEMS_RESTORE_CODE_RECHARGE_TURNIP_AVATAR_LEVEL_SU CCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_TURNIP_AVATAR_LEVEL_SUCCEED_CONTENT]
 Der Aktivierungscode wurde erfolgreich eingegeben. Du hast die Stufe und das Kostüm des weißen Rettichs ({LEVEL_NUMBER}) wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_STARFRUIT_AVATAR_LEVEL_SUCCEED_CONTENT]
@@ -9050,7 +9050,7 @@ Eissalat der ersten Stufe plus Kostüm
 [GEMS_RESTORE_CODE_RECHARGE_CHERRY_BOMB_LV0_SUCCEED_CONTENT]
 Kirschbombe der ersten Stufe plus Kostüm
 
-[GEMS_RESTORE_CODE_RECHARG E_TORCHWOOD_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_TORCHWOOD_LV0_SUCCEED_CONTENT]
 Fackelholzstumpf (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CHILIBEAN_LV0_SUCCEED_CONTENT]
@@ -9083,7 +9083,7 @@ Dreifach-Shooter der ersten Stufe plus Dekoration
 [GEMS_RESTORE_CODE_RECHARGE_TALLNUT_LV0_SUCCEED_CONTENT]
 Hohe Nuss der ersten Stufe plus Dekoration
 
-[GEMS_RESTORE_CODE_RECHARGE_BLO OMERANG_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_BLOOMERANG_LV0_SUCCEED_CONTENT]
 Bumerang-Shooter der ersten Stufe mit Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_BONKCHOY_LV0_SUCCEED_CONTENT]
@@ -9140,7 +9140,7 @@ Erbsenschote der ersten Stufe mit zusätzlicher Dekoration
 [GEMS_RESTORE_CODE_RECHARGE_WINTERMELON_LV0_SUCCEED_CONTENT]
 Eiswassermelonenkrug der ersten Stufe mit zusätzlicher Dekoration
 
-[GEMS_RESTORE_CODE_RECHARGE_TURNIP_LV0_SUCCEED_CONTENT NT]
+[GEMS_RESTORE_CODE_RECHARGE_TURNIP_LV0_SUCCEED_CONTENT]
 Weißer Rettich der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_FIREGOURD_LV0_SUCCEED_CONTENT]
@@ -9260,7 +9260,7 @@ Bambus-Offizielles-Plus-Kostüm der ersten Stufe
 [GEMS_RESTORE_CODE_RECHARGE_HURRIKALE_LV0_SUCCEED_CONTENT]
 Hurrikan-Kohl-Plus-Kostüm der ersten Stufe
 
-[GEMS_RESTORE_CODE_RECHARG E_FIREPEASHOOTER_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_FIREPEASHOOTER_LV0_SUCCEED_CONTENT]
 Feuererbsen-Plus-Kostüm der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_HOTPOTATO_LV0_SUCCEED_CONTENT]
@@ -9272,7 +9272,7 @@ Pfefferkrug (1. Stufe) plus Kostüm
 [GEMS_RESTORE_CODE_RECHARGE_CHARDGUARD_LV0_SUCCEED_CONTENT]
 Rübenwächter (1. Stufe) plus Kostüm
 
-[GE MS_RESTORE_CODE_RECHARGE_STUNION_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_STUNION_LV0_SUCCEED_CONTENT]
 Betäubungszwiebel (1. Stufe) plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_XSHOT_LV0_SUCCEED_CONTENT]
@@ -9326,7 +9326,7 @@ Elektrische Blaubeere (1. Stufe) plus Kostüm
 [GEMS_RESTORE_CODE_RECHARGE_BIRTHSUNFLOWER_LV0_SUCCEED_CONTENT]
 Sonnenblumensängerin (1. Stufe) plus Kostüm
 
-[GEMS_RESTORE_CODE_RECHARGE_GREENTURNIP_LV0_SUCCE ED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_GREENTURNIP_LV0_SUCCEED_CONTENT]
 Erste Stufe schelmische Karotte plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_ENDURIAN_LV0_SUCCEED_CONTENT]
@@ -9338,7 +9338,7 @@ Baumwollschnee-Plus-Kostüm der ersten Stufe
 [GEMS_RESTORE_CODE_RECHARGE_GOLDLEAF_LV0_SUCCEED_CONTENT]
 Goldblatt-Plus-Kostüm der ersten Stufe
 
-[GEMS_RESTORE_CODE_RECHARGE_AKE E_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_AKEE_LV0_SUCCEED_CONTENT]
 Akaimu-Plus-Dekoration der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV0_SUCCEED_CONTENT]
@@ -9347,10 +9347,10 @@ Rote Nadelblume der ersten Stufe plus Dekoration
 [GEMS_RESTORE_CODE_RECHARGE_STALLIA_LV0_SUCCEED_CONTENT]
 Stinkeblüte der ersten Stufe plus Dekoration
 
-[GEMS_RESTORE_CODE_RECHARGE_LAVAGAUVA_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_LAVAGUAVA_LV0_SUCCEED_CONTENT]
 Guave der ersten Stufe plus Dekoration
 
-[GEMS_RESTORE_CODE_RECHARGE CHARGE_TOADSTOOL_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_TOADSTOOL_LV0_SUCCEED_CONTENT]
 Goldkrötenpilz der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_AGAVE_LV0_SUCCEED_CONTENT]
@@ -9413,7 +9413,7 @@ Dreifach-Shooter (Level 3)
 [GEMS_RESTORE_CODE_RECHARGE_TALLNUT_LV3_SUCCEED_CONTENT]
 Große Nuss (Level 3)
 
-[GEMS_RESTORE_CODE_RECHARGE_BLOOME RANG_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_BLOOMERANG_LV3_SUCCEED_CONTENT]
 Bumerang-Shooter (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_BONKCHOY_LV3_SUCCEED_CONTENT]
@@ -9576,7 +9576,7 @@ Level Süßkartoffel (3)
 [GEMS_RESTORE_CODE_RECHARGE_LOTUSSHOWER_LV3_SUCCEED_CONTENT]
 Lotus-Puff (Stufe 3)
 
-[GEMS_RESTORE_CODE_RECH ARGE_LEMON_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_LEMON_LV3_SUCCEED_CONTENT]
 Zitrone (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_GHOSTPEPPER_LV3_SUCCEED_CONTENT]
@@ -9633,7 +9633,7 @@ Spargelkämpfer dritter Ordnung
 [GEMS_RESTORE_CODE_RECHARGE_ANTHURIUM_LV3_SUCCEED_CONTENT]
 Ionisierte Anthurie dritter Ordnung
 
-[GEMS_RESTORE_CODE_R ECHARGE_HORSEBEAN_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_HORSEBEAN_LV3_SUCCEED_CONTENT]
 Erbsenkommando Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_SAUCER_LV3_SUCCEED_CONTENT]
@@ -9645,7 +9645,7 @@ Harzkrug (Stufe 3)
 [GEMS_RESTORE_CODE_RECHARGE_DANDELION_LV3_SUCCEED_CONTENT]
 Löwenzahn (Stufe 3)
 
-[GEMS_RESTORE_CODE_RECHARGE_GROUNDCHE RRY_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_GROUNDCHERRY_LV3_SUCCEED_CONTENT]
 Laternengras (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_ELECTRICBLUEBERRY_LV3_SUCCEED_CONTENT]
@@ -9657,7 +9657,7 @@ Sonnenblume (Stufe 3) Sängerin
 [GEMS_RESTORE_CODE_RECHARGE_GREENTURNIP_LV3_SUCCEED_CONTENT]
 Rettich (Stufe 3)
 
-[GEMS_RESTORE_CODE_RECHARGE_ENDU RIAN_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_ENDURIAN_LV3_SUCCEED_CONTENT]
 Durian (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV3_SUCCEED_CONTENT]
@@ -9669,7 +9669,7 @@ Blattgold (Stufe 3)
 [GEMS_RESTORE_CODE_RECHARGE_AKEE_LV3_SUCCEED_CONTENT]
 Akaimu (Stufe 3)
 
-[GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV3_SUCCEED_CONTENT ENT]
+[GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV3_SUCCEED_CONTENT]
 Rote Nadelblume (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_STALLIA_LV3_SUCCEED_CONTENT]
@@ -9911,7 +9911,7 @@ Formation ansehen
 [STARCHALLENGE_TITLE]
 Bedingungen zum Bestehen
 
-[ST ARCHALLENGE_TAB_STAR_0]
+[STARCHALLENGE_TAB_STAR_0]
 Keine Sterne
 
 [STARCHALLENGE_TAB_STAR_1]
@@ -10975,7 +10975,7 @@ Lenkdistel Kostüm
 [LOTUSSHOWER_AVATAR_NAME]
 Lotuskleid
 
-[LEMON_A VATAR_NAME]
+[LEMON_AVATAR_NAME]
 Zitronenkostüm
 
 [CRACKER_AVATAR_NAME]
@@ -11685,16 +11685,17 @@ Feenpfirsisch
 [PEACH_DESCRIPTION]
 {KEYWORD}Wiederhergestellte KP: {STAT}Mittelgroß
 {KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze, klein
+
 {FLAVOR}Feenpfirsischs Lebenslauf besagt, dass er ursprünglich der private Pfirsich der Königinmutter war und in die Welt der Sterblichen degradiert wurde, um dort als Schlachtfeldarzt zu arbeiten.
 
 [PEACH_DESCRIPTION_HEADER]
-Kann die umliegenden Pflanzen heilen und ihre KP wiederherstellen.
+Kann die umliegenden Pflanzen heilen und ihre HP wiederherstellen.
 
 [PEACH_PLANTFOOD]
 Erzeugt einen undurchdringlichen Schild, der die umliegenden Pflanzen vor Schaden schützt.
 
 [PEACH_TOOLTIP]
-Kann die KP der umliegenden Pflanzen wiederherstellen.
+Kann die HP der umliegenden Pflanzen wiederherstellen.
 
 [TURNIP]
 Weißer Rettich
@@ -12290,7 +12291,7 @@ Crashender Yeti
 [FESTIVALGAMEMODE_GARGANTUARCRISIS_TITLE]
 Riesenkrise
 
-[FESTIVALGAMEMODE_DEVILINVAD E_TITLE]
+[FESTIVALGAMEMODE_DEVILINVADE_TITLE]
 Böse Invasion
 
 [FESTIVALGAMEMODE_CAISHEN_TITLE]
@@ -12602,7 +12603,7 @@ Kartoffelminenkleidfragmente
 [AVATAR_PIECE_OF_SNAPDRAGON]
 Löwenmäulchenkleidfragmente
 
-[AVATAR_PIECE_OF_BL OOMERANG]
+[AVATAR_PIECE_OF_BLOOMERANG]
 Bumerang-Shooter-Kostümfragment
 
 [AVATAR_PIECE_OF_CABBGEPULT]
@@ -13180,7 +13181,7 @@ Pennys Schatz
 [STORE_CATEGORY_NAME_EVENT10_SHORT_DESC]
 Pennys Schatz x10
 
-[STORE_CATEGORY_NAME_EVENT1_DES C]
+[STORE_CATEGORY_NAME_EVENT1_DESC]
 Kann Pflanzen, Kostüme oder Fragmente erhalten.
 
 [STORE_CATEGORY_NAME_EVENT10_DESC]
@@ -14196,7 +14197,7 @@ Piratenhafen – Tag 6
 [PIECE_COME_FROM_SNAPDRAGON_LEVEL]
 Piratenhafen – Tag 7
 
-[PI ECE_COME_FROM_POWERLILY_LEVEL]
+[PIECE_COME_FROM_POWERLILY_LEVEL]
 Piratenbucht – Tag 8
 
 [PIECE_COME_FROM_TALLNUT_LEVEL]
@@ -14335,7 +14336,7 @@ Kaufe 20 Streupfeile für ^00e46e {GEM_COUNT} Juwelen ^oldclr. Bist du sicher, d
 [ADVICE_PLANT_NOT_ON_GEAR]
 Kann nicht direkt auf dem Zahnrad gepflanzt werden, benötigt ein Holzbrett.
 
-[ADVICE_POWER PLANT_ON_POWERTILE]
+[ADVICE_POWERPLANT_ON_POWERTILE]
 Karotten können nicht auf Power-Kacheln gepflanzt werden.
 
 [ADVICE_POWERPLANT_ON_POOL]
@@ -14476,7 +14477,7 @@ Feldrübe
 {KEYWORD}Nutzung: {STAT}Einfache Verwendung, sofortige Wirkung
 {KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanzen
 
-{FLAVOR}DJ Feldrübe hat mit seinem Hit "Spür die Beete" allen den Boden unter den Füßen weggezogen. Mit seinem neuesten Mix versprüht er Power pur.
+{FLAVOR}Die Feldrübe hat mit seinem Hit "Spür die Beete" allen den Boden unter den Füßen weggezogen. Mit seinem neuesten Mix versprüht er Power pur.
 
 [POWERPLANT_DESCRIPTION_HEADER]
 Feldrüben erzeugen ein Power-Feld, wenn sie gepflanzt werden.
@@ -15010,7 +15011,7 @@ Himmelssturz – Tag {LEVEL_NUMBER}
 [BONUS_CARD_KEY_FUTURE]
 Schlüssel zum Zukunft
 
-[BONUS_CARD_KEY_FUTURE_DESCRI PTION]
+[BONUS_CARD_KEY_FUTURE_DESCRIPTION]
 Holen Sie sich einen Schlüssel zur Ferne Zukunft.
 
 [FUTURE_KEYGATE_HEADER]
@@ -15256,7 +15257,7 @@ Superleicht
 [SUNSHROOM_SKILL1_LEVEL2_DES]
 Die benötigte Zeit für jedes Wachstumsstadium des Sonnenpilzes wird auf 25% der ursprünglichen Zeit reduziert.
 
-[SUNSHROOM_SKILL LL1_LEVEL5]
+[SUNSHROOM_SKILL1_LEVEL5]
 Sonnenscheinsporen
 
 [SUNSHROOM_SKILL1_LEVEL5_DES]
@@ -16169,7 +16170,7 @@ Raum-Zeit-Staub
 [MAT_SPACE_TIME_DUST2]
 Raum-Zeit-Staub
 
-[MAT_SPACE_TIME_DUST UST3]
+[MAT_SPACE_TIME_DUST3]
 Zeit- und Raum-Staub
 
 [MAT_SPACE_TIME_DUST4]
@@ -16187,7 +16188,7 @@ Eispilzstück
 [BONUS_CARD_PIECE_ICESHROOM_DESCRIPTION]
 Eispilz holen Stück
 
-[BONUS_CARD_PIECE_FIRESHRO OM]
+[BONUS_CARD_PIECE_FIRESHROOM]
 Feuerpilzfragment
 
 [BONUS_CARD_PIECE_FIRESHROOM_DESCRIPTION]
@@ -16256,7 +16257,7 @@ Zwillingssonnenblumenfragmente erhalten
 [BONUS_CARD_PIECE_BLOOMERANG]
 Bumerangfragmente
 
-[BONUS_CARD_PIECE_BLOOM ERANG_DESCRIPTION]
+[BONUS_CARD_PIECE_BLOOMERANG_DESCRIPTION]
 Bumerang-Shooter-Fragment erhalten
 
 [BONUS_CARD_PIECE_BONKCHOY]
@@ -16323,7 +16324,6 @@ Bowling-Blasen-Fragment erhalten
 Powerblume Fragment
 
 [BONUS_CARD_PIECE_POWERLILY_DESCRIPTION]
-CRIPTION erhalten]
 Energieblumen-Fragment erhalten
 
 [BONUS_CARD_PIECE_TALLNUT]
@@ -16350,7 +16350,7 @@ Mais Fragment
 [BONUS_CARD_PIECE_KERNELPULT_DESCRIPTION]
 Maiskrug-Fragment erhalten
 
-[BONUS_CARD_PIECE E_LIGHTNINGREED]
+[BONUS_CARD_PIECE_LIGHTNINGREED]
 Schilf-Fragment
 
 [BONUS_CARD_PIECE_LIGHTNINGREED_DESCRIPTION]
@@ -16407,7 +16407,7 @@ Erbsenschotenfragmente erhalten
 [BONUS_CARD_PIECE_PEAPOD_DESCRIPTION]
 Erbsenschotenfragmente erhalten
 
-[BONUS_CARD_PIECE E_IMITATER]
+[BONUS_CARD_PIECE_IMITATER]
 Auberginenfragment
 
 [BONUS_CARD_PIECE_IMITATER_DESCRIPTION]
@@ -16422,7 +16422,7 @@ Das Bambussprossenfragment erhalten
 [BONUS_CARD_PIECE_TURNIP]
 Weißer Rettich Fragment
 
-[BONUS_CARD_PI ECE_TURNIP_DESCRIPTION]
+[BONUS_CARD_PIECE_TURNIP_DESCRIPTION]
 Rettichfragmente erhalten
 
 [BONUS_CARD_PIECE_FIREGOURD]
@@ -16579,7 +16579,7 @@ Süßkartoffel-Fragment
 [BONUS_CARD_PIECE_SWEETPOTATO_DESCRIPTION]
 Holt euch das Süßkartoffel-Fragment
 
-[BO NUS_CARD_PIECE_SAPFLING]
+[BONUS_CARD_PIECE_SAPFLING]
 Harzkrug-Fragment
 
 [BONUS_CARD_PIECE_SAPFLING_DESCRIPTION]
@@ -18657,7 +18657,7 @@ Zurücksetzen erfolgreich, entsprechende Materialien wurden zurückgegeben
 [RESET_FAILED_MESSAGE]
 Zurücksetzen fehlgeschlagen, {CODE}
 
-[RES ET_FAILED_MESSAGE_DIFICIENCY]
+[RESET_FAILED_MESSAGE_DIFICIENCY]
 Zurücksetzen fehlgeschlagen, nicht genügend Juwelen
 
 [STEADY_FAILED_MESSAGE]
@@ -20331,7 +20331,7 @@ Versuch dein Glück
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_5]
 {TIRED:winnie}Vielleicht erforscht er wirklich etwas Gruseliges. Wir müssen vorsichtig sein.
 
-[NARRATIVE_RENAI_IN TRO_ZOMBOSS_1]
+[NARRATIVE_RENAI_INTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Oh, Verrückter, die Pflanzen, die du gepflanzt hast, wie können sie das Rad des Schicksals aufhalten?
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_2]
@@ -21344,7 +21344,8 @@ Trickster kann drei Rettich-Raketen unterschiedlicher Form und Schadensstärke n
 
 [GREENTURNIP_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale:{STAT}Grüne Pflanze, Waffenfamilie
-{FLAVOR}Trickster träumte einst davon, ein dünner Mann zu werden, doch als er feststellte, dass sein riesiger Bauch alle möglichen Waffen aufnehmen konnte, gab er diese unrealistische Idee völlig auf. Kinder spielen auch gerne mit Trickster, weil sie immer denken, Tricksters Bauch sei voller Süßigkeiten. „Manchmal muss ich mich im Dreck verstecken“, sagte GREENTURNIP hilflos. „Ich habe große Angst, die Kinder zu verletzen, die mir zu nahe kommen.“
+
+{FLAVOR}Trickster träumte einst davon, ein dünner Mann zu werden, doch als er feststellte, dass sein riesiger Bauch alle möglichen Waffen aufnehmen konnte, gab er diese unrealistische Idee völlig auf. Kinder spielen auch gerne mit Trickster, weil sie immer denken, Tricksters Bauch sei voller Süßigkeiten. „Manchmal muss ich mich im Dreck verstecken“, sagte hilflos. „Ich habe große Angst, die Kinder zu verletzen, die mir zu nahe kommen.“
 
 [GREENTURNIP_TOOLTIP]
 Kann drei verschiedene Karotten-Raketen nacheinander abfeuern.
@@ -23019,7 +23020,7 @@ Pflanzen kaufen
 [DANGERROOM_RECOMMEND_PRESENT]
 Empfohlenes Geschenkpaket
 
-[DANGERROOM_MED AL_DESC]
+[DANGERROOM_MEDAL_DESC]
 Rang halten, heute verfügbar
 
 [DANGERROOM_START_NOTICE]
@@ -23499,7 +23500,7 @@ Gegner auskundschaften
 [PVP_SCOUT_END]
 Auskundung beenden
 
-[PVP_MAP_Z OMBIE_TITLE]
+[PVP_MAP_ZOMBIE_TITLE]
 Deine aktuelle Zombiearmee:
 
 [ARENA_ENDING_BTN]
@@ -23980,7 +23981,7 @@ Klicken, um 5 Zombies zu trainieren
 [PVP_TUTORIAL_CLICKTRAIN20ZB]
 Klicken, um {NUMBER} Zombies zu trainieren
 
-[PVP_TUTORIAL_CO MPLETETRAIN]
+[PVP_TUTORIAL_COMPLETETRAIN]
 Klicken, um sofort abzuschließen
 
 [PVP_TUTORIAL_CLICKATTACK]
@@ -24671,8 +24672,8 @@ Beschwörung
 [SECRET_GACHA_TENTH]
 Beschwörung x10
 
-[NEUE APP HERUNTERLADEN UND VERWENDEN]
-Die aktuelle Version ist zu alt. Bitte lade die neueste Version herunter, um das Spiel zu spielen.
+[DOWNLOAD_AND_USE_NEW_APP]
+Deine aktuelle Version ist zu alt. Bitte lade die neueste Version herunter, um das Spiel zu spielen.
 
 [DAY_INFO]
 {NUMBER} Tage
@@ -25113,7 +25114,7 @@ Leere Energiekachel
 [ACHIEVE_HAMMER_TIME_DESC]
 Befreie den dunklen Riesenzombie.
 
-[ACHIEVE_HAMMER_TIME_T ITLE]
+[ACHIEVE_HAMMER_TIME_TITLE]
 Hammerzeit
 [ACHIEVE_ICEAGE_BARRAGE_DESC]
 Besiege Riesenfaultier-Zombies und sammle ihre Zeit. Schlüssel
@@ -25150,7 +25151,7 @@ Schmelze 13 Eisblöcke in einem einzigen Level.
 
 [ACHIEVE_ICEAGE_SOTHAWFUL_TITLE]
 Es ist so warm.
-[ACHIEVE_NOT_BAAA D_DESC]
+[ACHIEVE_NOT_BAAAD_DESC]
 Lass den Zauberer nicht die Pflanzen hypnotisieren und schließe ein Level ab.
 
 [ACHIEVE_NOT_BAAAD_TITLE]
@@ -25159,7 +25160,7 @@ Nicht schlecht.
 Schließe das Dunkle Zeitalter ab.
 
 [ACHIEVE_OUT_OF_DARKNESS_TITLE]
-Aus dem Dunkelheit
+Aus der Dunkelheit
 [ACHIEVE_TEN_PIN_KAPOW_DESC]
 Töte 10 Zombies mit einer Bowling-Blase.
 
@@ -25178,7 +25179,7 @@ Schließe das Pirate Bay Challenge Pack ab.
 [ACHIEVE_VASEBREAKER_DAVYJONESVASE_NAME]
 Davy Jones' Krug
 
-[AC HIEVE_VASEBREAKER_POTTERYTRAINED_DESC]
+[ACHIEVE_VASEBREAKER_POTTERYTRAINED_DESC]
 Schließe 30 Level im Endlos-Topf-Smash-Modus ab.
 
 [ACHIEVE_VASEBREAKER_POTTERYTRAINED_NAME]
@@ -25223,7 +25224,7 @@ Kartoffel-Schlag
 [ACHIEVEMENT_CANT_STOP_THE_ROCK_DESC]
 Töte 5 Zombies mit einer Felsfalle.
 
-[AC HIEVEMENT_CANT_STOP_THE_ROCK_HEADER]
+[ACHIEVEMENT_CANT_STOP_THE_ROCK_HEADER]
 Der Fels, der nicht aufhalten kann.
 
 [ACHIEVEMENT_DINOS_SORE_DESC]
@@ -25250,8 +25251,8 @@ Schließe ein Level ab, indem der T. Rex 10 Zombies frisst.
 [ACHIEVEMENT_HUNGRY_HUNGRY_DINOS_HEADER]
 Hungriger Dinosaurier
 
-[ACHIEVEMENT_LOST_AND_FOUN D_DESC]
-Schließe die Verlorene Stadt ab. Level
+[ACHIEVEMENT_LOST_AND_FOUND_DESC]
+Schließe die Verlorene Stadt ab.
 
 [ACHIEVEMENT_LOST_AND_FOUND_HEADER]
 Gefunden, was verloren war
@@ -25930,7 +25931,7 @@ Zombiekönig
 [CREDITS_VA_DARK_AGES_ZOMBIES]
 Zombies des Dunklen Zeitalters
 
-[CREDITS_VA_EGYPT_ZO MBIES]
+[CREDITS_VA_EGYPT_ZOMBIES]
 Mysteriöser ägyptischer Zombie
 
 [CREDITS_VA_FROSTBITE_CAVES_CHARD_GUARD]
@@ -25963,7 +25964,7 @@ Dino-Krisen-Zombie
 [CREDITS_VA_LAWN_ZOMBIES]
 Rasen-Zombie
 
-[CREDITS_VA_LOST_CITY_EXCAV ATOR]
+[CREDITS_VA_LOST_CITY_EXCAVATOR]
 Verlorener Bagger-Zombie
 
 [CREDITS_VA_LOST_CITY_JANE]
@@ -25981,7 +25982,7 @@ Breakdancender Zombie
 [CREDITS_VA_MONDOMIXTAPETOUR_MC]
 Rap-Zombie
 
-[CREDITS_VA_MONDOMIXTAPETOUR_PUN K]
+[CREDITS_VA_MONDOMIXTAPETOUR_PUNK]
 Punk-Zombie
 
 [CREDITS_VA_PARROT_ZOMBIE]
@@ -33522,7 +33523,7 @@ Drache der ersten Stufe Frucht plus Kostüm
 [GEMS_RESTORE_CODE_RECHARGE_PINKSTARFRUIT_LV0_SUCCEED_CONTENT]
 Engel-Sternfrucht der ersten Stufe plus Kostüm
 
-[GEMS_RESTORE_CODE_RECHARGE_MATCHFLOWER_LV0_S UCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_MATCHFLOWER_LV0_SUCCEED_CONTENT]
 Blume der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_FLAMELADY_LV0_SUCCEED_CONTENT]
@@ -33555,7 +33556,7 @@ Kaktus der ersten Stufe plus Dekoration
 [GEMS_RESTORE_CODE_RECHARGE_NEKOTAIL_LV0_SUCCEED_CONTENT]
 Katzenschwanz der ersten Stufe plus Dekoration
 
-[GEMS_RESTORE_C ODE_RECHARGE_MORNINGGLORY_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_MORNINGGLORY_LV0_SUCCEED_CONTENT]
 Prunkwinde der ersten Stufe plus Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_AKEE_LV3_SUCCEED_CONTENT]
@@ -33576,7 +33577,7 @@ Goldkrötenpilz Stufe 3
 [GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV3_SUCCEED_CONTENT]
 Baumwollschnee Stufe 3
 
-[GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV3_S UCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV3_SUCCEED_CONTENT]
 Jackfrucht Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_AGAVE_LV3_SUCCEED_CONTENT]
@@ -33922,7 +33923,7 @@ Sonnenblume sagte, dass ihr die Atmosphäre der Märchenwelt sehr gut gefallen h
 [DRAGONCANEMARTIAL]
 Kampfkünstler Meister Cane
 
-[LEVEL L_EDITOR_HEAD_ID_25371]
+[LEVEL_EDITOR_HEAD_ID_25371]
 Meister Cane, ein Kampfkünstler
 
 [LEVEL_EDITOR_HEAD_DES_ID_25371]
@@ -34060,7 +34061,7 @@ Rang
 [PLANT_FAMILY_DISPLAY_AVATAR]
 Outfit
 
-[PLANT_FAMILY_DISPLAY_VATAR]
+[PLANT_FAMILY_DISPLAY_AVATAR]
 Outfit
 
 [PLANT_FAMILY_DISPLAY_VATAR]
@@ -34072,7 +34073,7 @@ Outfit
 [PLANT_FAMILY_DISPLAY_VATAR]
 Outfit
 
-[PLANT_FAMILY_DISPLAY_PLANT ... ILY_DISPLAY_SUPPORT_LEVEL]
+[PLANT_FAMILY_DISPLAY_PLANT_SUPPORT_LEVEL]
 Bereitgestellte Stufe
 
 [PLANT_FAMILY_DO_NOT_HAVE_PLANT]
@@ -35303,7 +35304,7 @@ Yuan
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL1]
 Erste Bestellung {PLANT}
 
-[LOST_NETWORK_ACTIVE_P LANT_LEVEL2]
+[LOST_NETWORK_ACTIVE_PLANT_LEVEL2]
 Level 2 {PLANT}
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL3]
@@ -35715,7 +35716,7 @@ Hohe Nüsse verteidigen
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE3]
 Weißen Rettich verteidigen
 
-[PLANTDEFENCEGAMEMODE_D AYS_TITLE4]
+[PLANTDEFENCEGAMEMODE_DAYS_TITLE4]
 Holografische Verteidigung Nüsse
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE5]
@@ -36051,7 +36052,7 @@ Zeit- und Raum-Energietank
 [MAT_ARTIFACT_VIAL2]
 Zeit- und Raum-Energietank
 
-[MAT_ARTIFACT ACT_VIAL3]
+[MAT_ARTIFACT_VIAL3]
 Raum-Zeit-Energietank
 
 [MAT_ARTIFACT_CUBE]
@@ -36812,8 +36813,10 @@ Der Name „Physalis“ geht auf die süß-sauren Beeren zurück, und die Bezeic
 [JEWELRABBIT_FAMILY]
 Aizoaceae
 [JEWELRABBIT_GENUS]
-JEWELRABBIT_PEDIA
-JEWELRABBIT_PEDIA – „Kleines Kaninchen“ in der Welt der Sukkulenten
+
+[JEWELRABBIT_PEDIA]
+
+ „Kleines Kaninchen“ in der Welt der Sukkulenten
 Mehrjähriges Kraut.
 Die Wuchshöhe kann bis zu 15 cm erreichen. Der Stängel ist braun und fleischig, mit gegenständigen, fleischigen Blättern an der Spitze, die halbkugelig sind. Aus ihm wachsen neue, schlanke, gegenständige Blätter, die an Hasenohren erinnern. Die Blüten sind weiß und die Früchte barrenförmig. Die Blüte- und Fruchtzeit variiert je nach Region und Pflegebedingungen und liegt in der Regel zwischen Herbst und Frühjahr.
 Aufgrund der Blattform wird die Pflanze von Sukkulentenliebhabern oft „Kleines Kaninchen“ genannt. Sie stammt ursprünglich aus Südafrika. Aufgrund ihrer hübschen Form wird sie oft als Topfpflanze zum Betrachten verwendet. Sie liebt einen warmen, lichtdurchfluteten Standort, verträgt Trockenheit gut, vermeidet Staunässe und vermeidet starke Sonneneinstrahlung.
@@ -38085,7 +38088,7 @@ Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft de
 [STORE_PRODUCT_AVATAR_POMEGRANATE]
 Der erzeugte Wassernebel enthält Eiskristalle, und die von Eiskristallen bedeckten Zombies werden eingefroren.
 
-[S TORE_PRODUCT_AVATAR_POMEGRANATE_TITLE]
+[STORE_PRODUCT_AVATAR_POMEGRANATE_TITLE]
 Aloe Vera Kostüm
 
 [POMEGRANATE_SKILL_LEVEL1]
@@ -38901,6 +38904,7 @@ Elektrizi-Teeblatt
 [ELECTRICITEA_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Kann allen Zombies im Umkreis von 3x3 Schaden zufügen. Nachdem es von Zombies gefressen wurde, löst es Blitze mit hohem Schaden aus.
 {KEYWORD}Pflanzeneigenschaften: {STAT}100.000 Volt, grüne Pflanzen
+
 {FLAVOR}„Ich will gegessen werden. Ich MUSS gegessen werden“, sagt das Elektrizi-Teeblatt. „Bis es so weit ist, habe ich aber kein Problem damit, Zombies in der Nähe zu grillen.“
 
 [ELECTRICITEA_DESCRIPTION_HEADER]
@@ -40500,7 +40504,7 @@ Es besteht die Chance, farbenfrohere Blumen wachsen zu lassen. Der Effekt des Po
 [STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS_TITLE]
 Parasitäres Feen-Haarnadelkostüm
 
-[TRISTERIXAPHYLLUS_AVATA R_NAME]
+[TRISTERIXAPHYLLUS_AVATAR_NAME]
 Parasitäres Haarnadelkostüm
 
 [STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS]
@@ -40566,7 +40570,7 @@ Einer der beiden blauen Flammenbumerangs verwandelt sich in eine violette Flamme
 [STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII_TITLE]
 Sägezahn-Jindi-Luo-Kostüm
 
-[CHA INSAWBURMANNII_AVATAR_NAME]
+[CHAINSAWBURMANNII_AVATAR_NAME]
 Kettensägen-Burmanni-Kostüm
 
 [STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII]
@@ -40733,10 +40737,11 @@ Düster-Ranke
 {KEYWORD}Reichweite: {STAT} 3*3 um sich selbst
 {KEYWORD}Eigenschaften: {STAT} Greift Zombies in Reichweite an und lässt die auf ihnen gepflanzten Schattenpflanzen in Schattenform übergehen.
 {KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze, Schattenpflanzen
+
 {FLAVOR}Das düstere Äußere der Düster-Ranke sollte nicht als Indiz für ein düsteres Inneres gesehen werden. Im Innersten ist sie zwar düster, aber das hat ganz komplizierte persönliche Gründe.
 
 [gloomvine_DESCRIPTION_HEADER]
-Greift Zombies in Reichweite an und sorgt dafür, dass die auf ihnen gepflanzten Schattenpflanzen eine Schattenform annehmen. Kann nur AUF Pflanzen gepflanzt werden.
+Greift Zombies in Reichweite an und sorgt dafür, dass die auf ihnen gepflanzten Schattenpflanzen eine Schattenform annehmen. Kann nur auf andere Pflanzen gepflanzt werden.
 
 [gloomvine_TOOLTIP]
 Greift Zombies in Reichweite an und gibt auf ihnen gepflanzten Schattenpflanzen ihre Schattenform.
@@ -40753,7 +40758,7 @@ Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich dere
 [gloomvine_SKILL_LEVEL2]
 Schattenverstärkung
 
-[gloomvine_SKILL_LEVEL 2_DES]
+[gloomvine_SKILL_LEVEL2_DES]
 Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich deren Angriffskraft um 30%. Von Melancholieranke angegriffene Zombies werden um 50% verlangsamt.
 
 [gloomvine_SKILL_LEVEL5]
@@ -40816,7 +40821,7 @@ Tracking Upgrade
 [EAGLECLAW_SKILL_LEVEL1_DES]
 Der Suchbereich der Pflanzen wird auf drei Reihen erweitert und die Ruhezeit verkürzt.
 
-[EAGLECLAW_SKILL L_LEVEL2]
+[EAGLECLAW_SKILL_LEVEL2]
 Konzentrationsbeschleunigung
 
 [EAGLECLAW_SKILL_LEVEL2_DES]
@@ -41036,7 +41041,7 @@ Nach dem Springen besteht die Möglichkeit, in den Berserker-Modus zu wechseln. 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN_TITLE]
 Barbaren-Da-Huang-Kostüm
 
-[RHUBAR BARIAN_AVATAR_NAME]
+[RHUBARBARIAN_AVATAR_NAME]
 Barbaren-Rhabarber-Kostüm
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN]
@@ -41158,7 +41163,7 @@ Greift Zombies im Raster an, werden von Eiskraut angegriffene Zombies durch Fros
 [ICEWEED_SKILL_LEVEL1]
 Kalter Dorn
 
-[ICEWEED_S KILL_LEVEL1_DES]
+[ICEWEED_SKILL_LEVEL1_DES]
 Beim Angriff besteht eine Chance von 20% Zombies für 2 Sekunden einzufrieren.
 
 [ICEWEED_SKILL_LEVEL2]
@@ -41375,7 +41380,7 @@ Wenn du einen Menschen erschaffst, wird direkt ein Schütze erschaffen. Die Anza
 [EYWA_SKILL_LEVEL2]
 Schnelle Entwicklung
 
-[EYWA_SKILL_LEVEL L2_DES]
+[EYWA_SKILL_LEVEL2_DES]
 Wenn du zum ersten Mal einen Charakter erstellst, wird direkt ein Mörsermensch erschaffen. Die Anzahl der Angriffe, die zum Aufrüsten aller Fabrikpuppen benötigt werden, wird um das Zweifache reduziert.
 
 [EYWA_SKILL_LEVEL5]
@@ -41512,7 +41517,7 @@ Springe auf der Stelle, um Zombies in Angriffsreichweite anzulocken, und lasse d
 [RHEUMNOBILE_SKILL_LEVEL1]
 Superstarke Saugkraft
 
-[RHEUMNOBIL E_SKILL_LEVEL1_DES]
+[RHEUMNOBILE_SKILL_LEVEL1_DES]
 HP steigt auf 18.000, Absorptionsbereich um ein Gitter auf jeder Seite und die Stufe der Zombies, die absorbiert werden können, steigt auf Stufe 4.
 
 [RHEUMNOBILE_SKILL_LEVEL2]
@@ -41830,7 +41835,7 @@ Die Maiskanone tötet kleine und mittlere Zombies sofort und verursacht 50% Scha
 [PARALLEL_POTATOMINE]
 Kartoffelmine Nr. 42
 
-[PARALLEL_POTATOM INE_TOOLTIP]
+[PARALLEL_POTATOMINE_TOOLTIP]
 Einfache Einwegpflanze, keine Änderungen
 
 [PARALLEL_POTATOMINE_DESCRIPTION_HEADER]
@@ -41961,7 +41966,7 @@ Beim Angriff Die Wahrscheinlichkeit, Zombies einzufrieren, steigt auf 10%. Sind 
 [WINTERRAMBUTAN_SKILL_LEVEL2]
 Superstarkes Einfrieren
 
-[WINTERRAMBUTAN_SKILL_LEVEL EL2_DES]
+[WINTERRAMBUTAN_SKILL_LEVEL2_DES]
 Die Wahrscheinlichkeit, Zombies während eines Angriffs einzufrieren, steigt auf 15%. Sind die angegriffenen Zombies verlangsamt oder eingefroren, steigt die Wahrscheinlichkeit auf 30%.
 
 [WINTERRAMBUTAN_SKILL_LEVEL5]
@@ -42148,7 +42153,7 @@ Dart Artichoke Outfit
 [DARTICHOKE_SKILL_LEVEL1]
 Schnelle Rast
 
-[DARTICHOKE_SKILL_LEVEL VEL1_DES]
+[DARTICHOKE_SKILL_LEVEL1_DES]
 Verkürzung der Ruhezeit um 25%
 
 [DARTICHOKE_SKILL_LEVEL2]
@@ -42705,7 +42710,7 @@ Erhöht die Reichweite von Feuertornados, die Zombies tragen, um 1 Feld.
 [INFERNO_SKILL_LEVEL5]
 Wut
 
-[INFERNO_SKILL_LEVEL L5_DES]
+[INFERNO_SKILL_LEVEL5_DES]
 Fügt Angriffen 50% zusätzlichen Schaden zu und kann stärkere Zombies aufrollen.
 
 [STORE_PRODUCT_AVATAR_INFERNO_TITLE]
@@ -43009,7 +43014,7 @@ Bohre dich unter die Erde und bohre dich von den Füßen der Zombies vor dir aus
 [JEWELRABBIT_TOOLTIP]
 Bohre dich unter die Erde und bohre dich von den Füßen der Zombies vor dir aus, um sie wegzustoßen.
 
-[JEWELRABBIT_PRODUCT_SH ORT_DESC]
+[JEWELRABBIT_PRODUCT_SHORT_DESC]
 Bohre dich unter die Erde und tauche aus dem Zombie vor dir auf, um ihn wegzustoßen. Weg
 
 [JEWELRABBIT_SKILL_LEVEL1]
@@ -43141,7 +43146,7 @@ Storchschnabel-Fechter
 
 {FLAVOR}Das einzige Mal, dass der Storchschnabel-fechter mit Pflanzen konkurrierte, war in einer durchzechten Nacht. Er forderte den Rosenschwertkämpfer zu einem Fechtkampf heraus. Niemand weiß, was in dieser Nacht geschah, aber der Storchschnabel-fechter hat seitdem aufgehört zu trinken.
 
-[GERANIIFENCER_DESCRIPTIO N_HEADER]
+[GERANIIFENCER_DESCRIPTION_HEADER]
 Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
 
 [GERANIIFENCER_TOOLTIP]
@@ -43211,7 +43216,7 @@ Angriffsintervall auf 20 Sekunden reduziert.
 [VAMPORCINI_SKILL_LEVEL5]
 Vampirgraf
 
-[VAMPOR CINI_SKILL_LEVEL5_DES]
+[VAMPORCINI_SKILL_LEVEL5_DES]
 Nach tödlichem Schaden stirbt er nicht, sondern vergräbt sich im Boden und wartet, bis die Wirkungsdauer der umliegenden Fledermäuse abgelaufen ist, bevor er wiederbelebt wird.
 
 [STORE_PRODUCT_AVATAR_VAMPORCINI_TITLE]
@@ -43251,7 +43256,7 @@ Die Stufe der durch die Verwandlung erzeugten Pflanze entspricht der Stufe der A
 [BEANCHEMIST_SKILL_LEVEL2]
 Stärkender Trank
 
-[B EANCHEMIST_SKILL_LEVEL2_DES]
+[BEANCHEMIST_SKILL_LEVEL2_DES]
 Angriffsabklingzeit auf 13 Sekunden reduziert.
 
 [BEANCHEMIST_SKILL_LEVEL5]
@@ -43346,7 +43351,7 @@ Die Spezialdünger-Fähigkeit fügt zwei Klauenangriffe hinzu, die nach dem Bei�
 [TIGERSTOOL_SKILL_LEVEL1]
 Gen Verstärkung
 
-[TIGERSTOOL_SKILL_LEVE L1_DES]
+[TIGERSTOOL_SKILL_LEVEL1_DES]
 Brüllende Betäubungszeit +0,25 Sekunden, Phantomhieb-Zeit +1
 
 [TIGERSTOOL_SKILL_LEVEL2]
@@ -43671,7 +43676,7 @@ Bei Verletzungen kann er seine Gesundheit kontinuierlich regenerieren.
 [STORE_PRODUCT_AVATAR_ENTS]
 Das Zentrum der Spezialdünger Fähigkeit erzeugt einen riesigen Erdstachel, der Zombies länger betäubt.
 
-[EN TS_SKILL_LEVEL1]
+[ENTS_SKILL_LEVEL1]
 Naturkraft
 
 [ENTS_SKILL_LEVEL1_DES]
@@ -43683,7 +43688,7 @@ Naturaffinität
 [ENTS_SKILL_LEVEL2_DES]
 Erhöht Angriff und Gesundheit. Stellt bei 3 oder mehr Gegnern 900 Gesundheitspunkte pro Sekunde wieder her.
 
-[ENTS_SKILL_LEVEL EL5]
+[ENTS_SKILL_LEVEL5]
 Hundertjähriger Baummensch
 
 [ENTS_SKILL_LEVEL5_DES]
@@ -43935,7 +43940,7 @@ Artefakt-Geschenkpaket
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_1]
 Kamikaze-Artefakt-Geschenkpaket
 
-[STORE_CATEGORY_NA ME_ARTIFACT_PRESENT_SHORT_DESC_2]
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_2]
 Blitz-Artefakt-Geschenkpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_3]
@@ -44018,7 +44023,7 @@ Großes Segens-Geschenk Paket
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_24]
 Poseidon-Dreizack-Artefaktpaket
 
-[STORE_CATEGORY_NAME_ARTIFACT_PR ESENT_SHORT_DESC_25]
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_25]
 Holografisches Artefakt-Geschenkpaket
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_26]
@@ -44051,7 +44056,7 @@ Superkraft-Meister-Geschenkpaket
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_6]
 Königsrückkehr-Geschenkpaket
 
-[PLANT_SPECIAL_PURCHASE_BT N_NORMAL_PRICE]
+[PLANT_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
 Originalpreis 198 Yuan
 
 [PLANT_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
@@ -44159,7 +44164,7 @@ Endlos-Paket 4
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600004]
 Endlos-Paket 5
 
-[DANGERROOM_SPECIAL_OFFER ER_BUNDLE_NAME_600005]
+[DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600005]
 Endlos-Geschenkpaket 6
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600006]
@@ -44216,7 +44221,7 @@ Endloses Geschenkpaket
 [PRODUCT_LION_DANCE_01]
 Kleines Knallerpaket kaufen
 
-[PRODUCT_LION_DANCE_01_SH ORTDESC]
+[PRODUCT_LION_DANCE_01_SHORTDESC]
 Kleines Knallergeschenk Paket
 
 [PRODUCT_LION_DANCE_02]
@@ -45093,7 +45098,7 @@ Du kannst keinen Blumentopf auf einen anderen Blumentopf stellen.
 [PLANTING_FLOWERPOT_ONLY_ROOF]
 Blumentöpfe können nur auf Dächern gepflanzt werden.
 
-[P LANTING_NOT_ON_MAGIC_MIRROR]
+[PLANTING_NOT_ON_MAGIC_MIRROR]
 {PLANT_NAME} kann nicht auf einen Zauberspiegel gepflanzt werden.
 
 [PLANTING_NOT_ON_YUANBAO]
@@ -45179,7 +45184,7 @@ Kaufe 1 Z-Liga-Herausforderung
 [STORE_CATEGORY_NAME_BATTLEZ1_SHORT_DESC]
 Z-Liga-Herausforderung x1
 
-[ST ORE_CATEGORY_NAME_BATTLEZ6_DESC]
+[STORE_CATEGORY_NAME_BATTLEZ6_DESC]
 Kaufe 10 Z-Liga- Herausforderungen
 
 [STORE_CATEGORY_NAME_BATTLEZ6_SHORT_DESC]
@@ -45915,7 +45920,7 @@ Kann nicht auf einem Schneemann gepflanzt werden
 [PLANTING_NOT_IN_KELPGUARD]
 Pflanzen können nicht zwischen Kelp-Schutzvorrichtungen gepflanzt werden
 
-[P LANTING_KELPGUARD_ONLY_DEEPSEA]
+[PLANTING_KELPGUARD_ONLY_DEEPSEA]
 Kelp-Schutzvorrichtungen können nur auf See gepflanzt werden
 
 [HARVEST_BATTLE_HEAD_ID_25647]
@@ -46345,7 +46350,7 @@ Blaue Pflanze
 [WINNETREASURE_EPICPLANTS]
 Lila Pflanzen
 
-[WIN NETREASURE_LEGENDPLANTS]
+[WINNETREASURE_LEGENDPLANTS]
 orange Pflanze
 
 [LOTTERY_LEGENDPLANTS_LEVEL2]
@@ -46369,7 +46374,7 @@ Anhängerfragmente
 [LOTTERY_CUP]
 Trophäe
 
-[LIMITEDGACHA_LEGENDP LANTS_LEVEL2]
+[LIMITEDGACHA_LEGENDPLANTS_LEVEL2]
 orange Pflanzefragmente Stufe 2
 
 [LIMITEDGACHA_LEGENDPLANTS]
@@ -46727,7 +46732,7 @@ Ziehe 15-mal normale Schätze.
 [DAVE_TREASURE_PLANTADVENTURE_30]
 Schließe 30 Pflanzenabenteuer ab.
 
-[DAVE_TREASURE_EN DLESSBEATBOSS_5]
+[DAVE_TREASURE_ENDLESSBEATBOSS_5]
 Besiege den Doktor 5-mal im Endlosmodus.
 
 [DAVE_TREASURE_EXTINGUISHFIRE_15]
@@ -46798,7 +46803,7 @@ Zeitlich begrenzter Schatz Trophäe
 [MAT_RIFT_COIN]
 Zeit- und Raummünzen
 
-[MA T_RIFT_COIN_NOT_ENOUGH]
+[MAT_RIFT_COIN_NOT_ENOUGH]
 Nicht genügend Raum-Zeit-Münzen
 
 [MAT_PLANT_LEVELUP_BOOK]
@@ -47154,7 +47159,7 @@ Belohnungspool-Belohnungen
 [TREASURE_PAVILION_RARE_1]
 Legendäre Auszeichnungen
 
-[TREASURE E_PAVILION_RARE_2]
+[TREASURE_PAVILION_RARE_2]
 Epischer Hauptpreis
 
 [TREASURE_PAVILION_RARE_3]
@@ -47399,7 +47404,7 @@ Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Dino Crisis heraus!
 [TASK_WORLDTASK_DESCRIPTION_ICEAGE3]
 Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Ice Age heraus!
 
-[TASK_WORLDTASK_DESCRIPTION_L OSTCITY3]
+[TASK_WORLDTASK_DESCRIPTION_LOSTCITY3]
 Willst du deine Stärke beweisen? Fordere Dr. Zomboss in Lost City heraus!
 
 [TASK_WORLDTASK_DESCRIPTION_SKYCITY3]
@@ -47830,7 +47835,7 @@ Besiege Ägypten 14 in Schwierigkeitsgrad
 [NOVICESEVENDAYS_TASK_NAME_41]
 Schließe 1 Reisetagebuch-Sonderereignis ab.
 
-[NOVICESEVENDAYS_TASK_NA ME_42]
+[NOVICESEVENDAYS_TASK_NAME_42]
 Kaufe einmal eine Pflanze im Mystischen Kristallladen.
 
 [NOVICESEVENDAYS_TASK_NAME_43]
@@ -48577,7 +48582,7 @@ Erforderliche Gensequenzstufe: {NUM}
 [GENE_TALENT_UNLOCK_TALENT_NEED]
 Benötigt {NUM}
 
-[GENE_TALENT_UPGRADE_COS T_TIPS]
+[GENE_TALENT_UPGRADE_COST_TIPS]
 Upgrades verbrauchen {NUM} Gensequenzstufen.
 
 [GENE_TALENT_TITLE_SHOOTER_1]
@@ -48858,7 +48863,7 @@ Knoblauch regeneriert alle 5 Sekunden {Param_1} % seiner Gesundheit.
 [GENE_DESCRIPTION_SAUCER]
 Verkürzt die Abklingzeit beim Pflanzen der fliegenden Untertassenmelone um {Param_1} %
 
-[GENE_DESCRIPTION_C HERRY_BOMB]
+[GENE_DESCRIPTION_CHERRY_BOMB]
 Abklingzeit beim Pflanzen der Kirschbombe um {Param_1} % reduziert
 
 [GENE_DESCRIPTION_LASER_BEAN]
@@ -48942,7 +48947,7 @@ Die Wahrscheinlichkeit, dass die Sturmglocke Wicht-Zombies wegbläst, erhöht si
 [GENE_DESCRIPTION_SHADOWPEASHOOTER]
 Die Angriffskraft der Schattenerbse erhöht sich um {Param_1}% mit der Anzahl der Mondblumen auf dem Feld.
 
-[GENE E_DESCRIPTION_BOOMFLOWER]
+[GENE_DESCRIPTION_BOOMFLOWER]
 Wenn der explodierende Platycodon-Ballon explodiert, besteht eine Chance von {Param_1}%, eine 1-sekündige Betäubung zu verursachen. Die Wahrscheinlichkeit, Ballons zu stapeln, ist erhöht.
 
 [GENE_DESCRIPTION_MISSILETOE]
@@ -49026,7 +49031,7 @@ Die Angriffskraft der Feuer-Erbsenkanone wird um {Param_1}% erhöht.
 [GENE_DESCRIPTION_PINEAPPLE]
 Die Gesundheit der Spinnenden Ananas wird um {Param_1}% erhöht.
 
-[GENE_DESCRIPTION_HEATHS EEKER]
+[GENE_DESCRIPTION_HEATHSEEKER]
 Heather Explorer hat eine Chance von {Param_1}%, die Anzahl der abgefeuerten Pfeile zu verdoppeln.
 
 [GENE_DESCRIPTION_SQUASH]
@@ -49395,7 +49400,7 @@ Zwei Zweitplatzierte werden gezogen und erhalten 10 % des gesamten Preispools (i
 Vier Drittplatzierte werden gezogen und erhalten 5 % des gesamten Preispools (insgesamt 20 %).
 100 Viertplatzierte werden gezogen und erhalten 0,4 % des gesamten Preispools (insgesamt 40 %).
 
-[BATTLE_ORDER_DESCRIP TION_IOS_1_SPRINGFESTIVAL]
+[BATTLE_ORDER_DESCRIPTION_IOS_1_SPRINGFESTIVAL]
 Regeln für den Flash-Sale:
 Die ersten 500 Spieler, die Premium-Vorteile erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
@@ -49411,7 +49416,7 @@ Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools erhalten (ins
 Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools erhalten (insgesamt 20 %).
 100 Viertplatzierte werden gezogen, die 0,4 % des Gesamtpreispools erhalten (insgesamt 40 %).
 
-[BATTLE_ORDER_DESCRIPTION_IOS_1_SPR ING]
+[BATTLE_ORDER_DESCRIPTION_IOS_1_SPRING]
 Regeln für das Blitzangebot:
 Die ersten 500 Spieler, die Vorabrechte erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +100.
@@ -49564,7 +49569,7 @@ Jeder Spieler im Ranking kann ^08FF20^0,5 %^oldclr^ des Gesamtpreispools erhalte
 [BATTLE_ORDER_GIFT_REWARD_STRIP_2]
 51.–150. Platz: Juwelen × {NUM}
 
-[BATTLE_ORDER_GIFT_REWARD_S TRIP_DES_2]
+[BATTLE_ORDER_GIFT_REWARD_STRIP_DES_2]
 Jede Person im Ranking kann ^08FF20^0,25 %^oldclr^ des gesamten Preispools erhalten.
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_3]
@@ -49832,7 +49837,7 @@ Wunschpflanzenfragmente
 [CALL_OF_WISH_LEGENDPLANTS_OTHER_PIECE]
 Andere orange Pflanzenfragmente
 
-[WISH ING_POOL]
+[WISHING_POOL]
 Glückliches Wünschen Pool
 
 [WISHING_POOL_GEM500]
@@ -49993,7 +49998,7 @@ Spezial-Wunschgeschenk Paket
 [WISHING_POOL_DUBBLE]
 Bubble-Belohnung
 
-[MAT_WISHING_COIN_US E]
+[MAT_WISHING_COIN_USE]
 Für die Verlosung des Glückswunschpools
 
 [MAT_WISHING_COIN_GOT_WAY]
@@ -50047,7 +50052,7 @@ Zutaten-Quests
 [DAVE_KITCHEN_TAB3]
 Zutaten-Pakete
 
-[DAVEKITCHEN_EXCH ANGE_1]
+[DAVEKITCHEN_EXCHANGE_1]
 Big Mac Taco: Du erhältst Energie-Mangostan-Fragmente, Richtungsfragmente oder Fortgeschrittene. Bücher
 
 [DAVEKITCHEN_EXCHANGE_2]
@@ -50089,7 +50094,7 @@ Schließe Endlos- oder Zwei-Spieler-Modus 6-mal ab.
 [DAVE_KITCHEN_TASK_NAME_5]
 Schließe Kreativgarten 2-mal ab.
 
-[DAVE_KITCH EN_TASK_NAME_6]
+[DAVE_KITCHEN_TASK_NAME_6]
 Schließe Kreativgarten 5-mal ab.
 
 [GIFT_RETURN]
@@ -50193,7 +50198,7 @@ Besiege 20 Zombies.
 [GIFT_FOR_RETURN_TASK_NAME_4]
 Schließe 1 Level ab. Herausforderung
 
-[GIFT_FOR_RETURN_TASK_NA ME_5]
+[GIFT_FOR_RETURN_TASK_NAME_5]
 Schließe 1 Pflanzenabenteuer ab
 
 [GIFT_FOR_RETURN_TASK_NAME_6]
@@ -50224,7 +50229,7 @@ Erledige 1 Reisetagebuch-Tagesaufgabe
 [GIFT_FOR_RETURN_TASK_NAME_13]
 Erledige 1 Kreatives Gartenspiel
 
-[GIFT_FOR_RETURN_T ASK_NAME_14]
+[GIFT_FOR_RETURN_TASK_NAME_14]
 Sammle 20 Pflanzenfragmente
 
 [GIFT_FOR_RETURN_TASK_NAME_15]
@@ -50403,7 +50408,7 @@ Gratis-Knaller
 [FIGHT_ZODIAC_ONE]
 Liefere 1 Knaller
 
-[FI GHT_ZODIAC_TEN]
+[FIGHT_ZODIAC_TEN]
 Liefere 10 Knaller
 
 [FIGHT_ZODIAC_NOT_ENOUGH]
@@ -50475,7 +50480,7 @@ Aktivierung der Belohnung für das Geheime Reich
 [PRODUCT_NEW_PLAYER_SPECIAL_GIFT_ACTIVATE_SHORTDESC]
 Spezialgeschenk Aktivierung
 
-[T IME_SUMMON_HEAD_ID_25373]
+[TIME_SUMMON_HEAD_ID_25373]
 Gold-Auszeichnung für zeitlich begrenzte Beschwörung
 
 [TIME_SUMMON_HEAD_DES_ID_25373]
@@ -50951,7 +50956,7 @@ Gutschein für mittlere Pakete
 [BIG_PACKET_TICKET]
 Gutschein für große Pakete
 
-[S MALL_BAG_TICKET]
+[SMALL_BAG_TICKET]
 Gutschein für kleine Taschen
 
 [MID_BAG_TICKET]
@@ -50975,7 +50980,7 @@ Kauf muss Erhalten:
 [BUY_MAY_GET]
 Wahrscheinlichkeit:
 
-[TOTAL_SERVER_BUY_TIM ES]
+[TOTAL_SERVER_BUY_TIMES]
 Anzahl der Käufe auf dem gesamten Server
 
 [TOTAL_SERVER_BUY_TIMES_REWARD]
@@ -51901,7 +51906,7 @@ Laserbohnen-Jubiläumsoutfit
 [NEW_AVATAR_SHORT_DESCRIPTION_POWERLILY_1]
 Kraftblumen-Jubiläumsoutfit
 
-[NEW_AVATAR_SHORT_DESCRIPTION_C HAINSAWBURMANNII_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_CHAINSAWBURMANNII_1]
 Kieferzahn-Brokat-Geschenktütenkostüm
 
 [NEW_AVATAR_DESCRIPTION_CHOMPER_2]
@@ -51928,7 +51933,7 @@ Pflanzen-Abklingzeit um 10% reduziert
 [NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_2]
 Döbelndes Krug-Jubiläumskostüm
 
-[NEW_AVATAR_DESCRIPTION_ELAEOCAR PUS_2]
+[NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_2]
 Pflanzen-Abklingzeit verkürzt um 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_1]
@@ -51988,7 +51993,7 @@ Angriffsgeschwindigkeit um 10% erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_RHUBARBARIAN_1]
 Barbarisches Rhabarber-Wachstums-Geschenkpaketkostüm
 
-[NEW_AVATAR_DESCRIPTION_RHUBARBAR IAN_1]
+[NEW_AVATAR_DESCRIPTION_RHUBARBARIAN_1]
 Erhöht die Angriffskraft um 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FIRECRACKERFLOWER_1]
@@ -52231,7 +52236,7 @@ Abklingzeit beim Pflanzen um 20% reduziert
 [NEW_AVATAR_SHORT_DESCRIPTION_POTATOMINE_1]
 Kartoffelschwammgläser
 
-[NE W_AVATAR_SHORT_DESCRIPTION_STARFRUIT_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_STARFRUIT_1]
 Sternfrucht-Perücke
 
 [NEW_AVATAR_DESCRIPTION_STARFRUIT_1]
@@ -52555,7 +52560,7 @@ Grüner Wollhut
 [NEW_AVATAR_DESCRIPTION_SNOWPEA_2]
 Erhöht die Angriffsgeschwindigkeit um 15%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_TALLN UT_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_TALLNUT_1]
 Gelehrtenanzug der Großen Nuss
 
 [NEW_AVATAR_DESCRIPTION_TALLNUT_1]
@@ -52585,7 +52590,7 @@ Sonnenblumen-Piratenkapitänshut
 [NEW_AVATAR_DESCRIPTION_SUNFLOWER_1]
 Das Zeitintervall zwischen der Sonnenlichtproduktion verringert sich um 4 Sekunden.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_PINKSTAR FRUIT_1]
+[NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_1]
 Engelssternfrucht Brille
 
 [NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_1]
@@ -53253,7 +53258,7 @@ Flucht
 [RICHMAN_WORLDLEVEL_ENTER_BTN]
 Geh
 
-[RICHMAN_BOSS_BATTLE_T ITLE]
+[RICHMAN_BOSS_BATTLE_TITLE]
 Systemaufforderung
 
 [RICHMAN_BOSS_BATTLE_DESCRIPTION_1]
@@ -53268,7 +53273,7 @@ Fasse den Mut, dich herauszufordern, oder
 geh leise von hier weg.
 ^FF0000^ (Freigabe Belohnung: viele Münzen)^
 
-[RICHMAN_BO SS_BATTLE_DESCRIPTION_3]
+[RICHMAN_BOSS_BATTLE_DESCRIPTION_3]
 Der BOSS hat deine Spur gefunden.
 Nimm deinen Mut zusammen und fordere heraus, oder
 geh leise von hier weg.
@@ -53283,7 +53288,7 @@ Kämpfe
 [RICHMAN_GUESS_GAME_TITLE]
 Systemmeldungen
 
-[RICHMAN_GUESS_GAM E_DESC]
+[RICHMAN_GUESS_GAME_DESC]
 Ein Theaterschauspieler hat gesagt, du hast heute Glück und möchte mit dir konkurrieren.
 ^FF0000^ (Gewinnbelohnung: 2/20 Theatermünzen gewinnen,
 Misserfolgsbelohnung: 2/20 Theatermünzen verlieren)^
@@ -53324,7 +53329,7 @@ Flach
 Kaufe ein kleines Theater-Geschenkpaket
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_1]
-A Kleines Theater-Geschenkpaket
+Kleines Theater-Geschenkpaket
 
 [STORE_CATEGORY_NAME_RICHMAN_12]
 Großes Theater-Geschenkpaket kaufen
@@ -53471,7 +53476,7 @@ Insgesamt {NUM} Tage
 [RECHARGE_DAILYSIGN_ACTIVITY_NO_RECHARGE]
 Nicht aufgeladen
 
-[RECHARGE_DAILYSIGN_ACTIVITY_AL READY_RECHARGE]
+[RECHARGE_DAILYSIGN_ACTIVITY_ALREADY_RECHARGE]
 Aufgeladen
 
 [RECHARGE_DAILYSIGN_ACTIVITY_NORMAL_SIGN]
@@ -53693,7 +53698,7 @@ Römische Invasion!
 [RIFT_TITLE_TEXT_02]
 Römische Invasion!
 
-[RI FT_TITLE_TEXT_03]
+[RIFT_TITLE_TEXT_03]
 Römische Invasion!
 
 [RIFT_TITLE_TEXT_04]
@@ -54253,7 +54258,7 @@ Spieldauer erhöht
 [MINI_GAME_PERK_NAME_MINI_GAME_COIN_INCREASED]
 Die Anzahl der Token, die nach Abschluss eines Levels erhalten werden, erhöht sich.
 
-[MINI_GAME_PERK_NAME_ITEM_KILL_AL L_ZOMBIES]
+[MINI_GAME_PERK_NAME_ITEM_KILL_ALL_ZOMBIES]
 Tötet normale Zombies auf dem Spielfeld sofort.
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_X_RAY]
@@ -54434,7 +54439,7 @@ Aufsteigen
 [RIFT_LEADERBOARD_KEEP]
 Unverändert bleiben
 
-[RIFT_LEADER BOARD_HEADER]
+[RIFT_LEADERBOARD_HEADER]
 Ranglisten
 
 [RIFT_LEADERBOARD_WEEKLY_REWARD_HEADER]
@@ -54479,7 +54484,7 @@ Verteidigungspflanzen werden zerbrechlich und haben nur noch ein Drittel ihrer u
 [THEME_EXPLODER_NAME]
 Zombies explodieren nach ihrem Tod und verursachen Schaden.
 
-[THEME_EXPLODER_DESCRIPTIO N]
+[THEME_EXPLODER_DESCRIPTION]
 Zombies explodieren nach ihrem Tod und verursachen Schaden.
 
 [THEME_KO_NAME]
@@ -54687,7 +54692,7 @@ Erbsen zum Aufladen verwenden, damit Erbsen regnen.
 [THEME_PEA_RAIN_DESCRIPTION_DETAILS]
 Wenn Erbsengeschosse Zombies angreifen und Schaden verursachen, wird die Energieleiste entsprechend dem Schaden aufgeladen. Ist die Energieleiste voll, werden alle Energieleisten verbraucht, um eine bestimmte Menge Erbsen über das Feld regnen zu lassen. Die Erbsen fallen an zufälligen Stellen. Erbsen verursachen einem einzelnen Zombie festen Schaden und ignorieren den Effekt des Eintrags.
 
-[THEME_MIND_CONTROL_NAM E]
+[THEME_MIND_CONTROL_NAME]
 Gedankenkontrolle
 
 [THEME_MIND_CONTROL_DESCRIPTION]
@@ -54726,7 +54731,7 @@ Silber
 [JOUST_LEAGUE_NAME_JADE_SHORT_6]
 Gold
 
-[JOUST_LEAGUE_NAME_N AME_CRYSTAL_SHORT_7]
+[JOUST_LEAGUE_NAME_NAME_CRYSTAL_SHORT_7]
 Juwel
 
 [JOUST_LEAGUE_NAME_BRICK_SHORT_8]
@@ -55472,7 +55477,7 @@ Nutzt aktiv das Schalter-Artefakt. Die anfängliche Energiespeichergrenze dieses
 [ARTIFACT_PRISMTOWER_SKILL_2]
 Reserveverbesserung
 
-[ARTIFACT_PRISMTOWER_S KILL_DESCRIPTION_2]
+[ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_2]
 Passiver Effekt: Die obere Grenze des Energiespeichers des Artefakts wird auf {PassiveField1_1} erhöht und die Energierückgewinnungsgeschwindigkeit auf {PassiveField1_2} pro Sekunde beschleunigt.
 
 [ARTIFACT_PRISMTOWER_SKILL_3]
@@ -55511,7 +55516,7 @@ Schnelles Nachfüllen
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_3]
 Die Obergrenze der Projektilanzahl wird auf {PassiveField2_1} erhöht, und die Projektilwiederherstellungsgeschwindigkeit erhöht sich auf 10 pro Sekunde.
 
-[ARTIFACT_SWARM_SKILL ILL_4]
+[ARTIFACT_SWARM_SKILL_4]
 Feuerkraftverbesserung
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_4]
@@ -55547,7 +55552,7 @@ Zombieanalyse
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_4]
 Passiver Effekt: Beim Ausführen aktiver Fähigkeiten wird die holografische Projektion auch auf die 10 Zombies ganz links im Feld angewendet (eine identische Zombieeinheit von unserer Seite kopieren).
 
-[ARTIFACT_DINOSAURHOR N]
+[ARTIFACT_DINOSAURHORN]
 Dinosaurierhorn Artefakt
 
 [ARTIFACT_DINOSAURHORN_DESCRIPTION]
@@ -55565,7 +55570,7 @@ Ursprüngliche Befreiung
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_2]
 Passiver Effekt: Angriffs- und Verteidigungsattribute primitiver Pflanzen werden um {PassiveField1_1}% erhöht.
 
-[ARTIFACT_DINOSAURHORN_SKILL L_3]
+[ARTIFACT_DINOSAURHORN_SKILL_3]
 Verstärkte Betäubung
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_3]
@@ -55695,7 +55700,7 @@ Kleines Schwarzes Loch
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_3]
 Alle {PassiveField2_1} Sekunden wird in einem zufälligen Raster im 5×5-Bereich auf der rechten Kartenseite, wo sich Zombies befinden, ein Schwarzes Loch erzeugt. Das Schwarze Loch zieht Zombies im Umkreis von 3×3 für {PassiveField2_2} Sekunden an.
 
-[A RTIFACT_BLACKHOLE_SKILL_4]
+[ARTIFACT_BLACKHOLE_SKILL_4]
 Superstarker Sog
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_4]
@@ -55896,7 +55901,7 @@ Aktiv nutzen: Nach dem Auslösen der Fähigkeit fährt eine zufällig ausgewähl
 [ARTIFACT_SKATEBOARD_SKILL_2]
 Idol-Übung
 
-[ARTIFACT_SKATE BOARD_SKILL_DESCRIPTION_2]
+[ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_2]
 Erhöht die Angriffs- und Verteidigungsattribute von Skateboard-Pflanzen um {PassiveField1_1}%.
 
 [ARTIFACT_SKATEBOARD_SKILL_3]
@@ -57176,7 +57181,7 @@ Anzahl der Zombies
 [LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_TITLE]
 Einstellungen für Cloudtop-Raid-Events
 
-[LEVEL_EDITOR_WAVE_EVENT_PARACHUTE TE_RAIN_BTN_LEFT]
+[LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_BTN_LEFT]
 Die Spalte mit dem Ziel lokalisiert
 
 [LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_TEXT]
@@ -57505,7 +57510,7 @@ Penny Pursuit Shop, Artefakt-Geschenkpaket kaufen
 [MAT_CALLOFWISH_TICKET_USE]
 Für Wunschbeschwörungen
 
-[MAT_CALLOFWISH_TICKET_GOT_W AY]
+[MAT_CALLOFWISH_TICKET_GOT_WAY]
 Wunschbeschwörungs-Event
 
 [PRODUCT_CALLOFWISH_LIMIT_30]
@@ -57520,7 +57525,7 @@ Mittelstufe Spezial-Geschenkpaket kaufen
 [PRODUCT_CALLOFWISH_LIMIT_68_SHORTDESC]
 Mittelstufe Spezial-Geschenkpaket
 
-[PRODUCT_CALL OFWISH_LIMIT_128]
+[PRODUCT_CALLOFWISH_LIMIT_128]
 Premium-Spezial-Geschenkpaket kaufen Paket
 
 [PRODUCT_CALLOFWISH_LIMIT_128_SHORTDESC]
@@ -58772,7 +58777,7 @@ Nicht genügend Währung
 [CUSTOM_LEVEL_COIN2_NOT_ENOUGH]
 Nicht genügend Schöpfungsmünzen
 
-[CUSTOM_LEVEL_COI N1_NOT_ENOUGH]
+[CUSTOM_LEVEL_COIN1_NOT_ENOUGH]
 Nicht genügend Spielmünzen
 
 [MAT_CUSTOMLEVEL_CREATE_COIN]
@@ -58844,7 +58849,7 @@ Weihnachtsstechpalme
 [SUMMER_MEMORIES_HEAD_ID_25381]
 Weihnachtsstechpalme
 
-[SUMMER_MEMORIES_HEAD_DES ... MORIES_HEAD_DES_ID_25381]
+[SUMMER_MEMORIES_HEAD_DES_ID_25381]
 An alle Spieler, die gemeinsam auf der Reise der Erinnerungen sind
 
 [SUMMER_MEMORIES_HEAD_ID_25382]
@@ -58976,7 +58981,7 @@ Party-Apfel
 [PARTYEPSACTIVITY_HEAD_DES_ID_25509]
 Party-Support-Event (Limitierter Avatar)
 
-[PARTY EPSACTIVITY_HEAD_ID_25389]
+[PARTYEPSACTIVITY_HEAD_ID_25389]
 Party Kaktus
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25389]
@@ -59015,7 +59020,7 @@ Avatar für Party-Support-Event (begrenzt)
 [PARTYEPSACTIVITY_HEAD_ID_25644]
 Party-Nuwa-Schlangenschwanzgras
 
-[PARTYEPSA CTIVITY_HEAD_DES_ID_25644]
+[PARTYEPSACTIVITY_HEAD_DES_ID_25644]
 Avatar für Party-Support-Event (begrenzt)
 
 [PARTYEPSACTIVITY_HEAD_ID_25676]
@@ -59075,7 +59080,7 @@ Naraka: Bladepoint Limited Avatar
 [ZOMBIECARNIVAL]
 Gartenkarneval
 
-[LEVEL_EDITOR_HEA D_ID_25545]
+[LEVEL_EDITOR_HEAD_ID_25545]
 Parkkarneval
 
 [LEVEL_EDITOR_HEAD_DES_ID_25545]
@@ -59099,7 +59104,7 @@ Jetzt ist der Moment gekommen, das Wunder zu erleben.
 [LEVEL_EDITOR_HEAD_ID_25711]
 Gemeinsam Spaß haben
 
-[L EVEL_EDITOR_HEAD_DES_ID_25711]
+[LEVEL_EDITOR_HEAD_DES_ID_25711]
 Ein guter Freund fürs Leben
 
 [UNCHARTED_CHILDRENSDAY_ID_25547]
@@ -59187,7 +59192,7 @@ Neujahrsknaller
 [PVZ1MODE_DUMPLING]
 Knödel schützen
 
-[PVZ1MODE_TUR KEY]
+[PVZ1MODE_TURKEY]
 Truthahn schützen
 
 [PVZ1MODE_TANGYUAN]
@@ -59358,7 +59363,7 @@ Wirf verschiedene Nüsse, um Zombies zu eliminieren und zu gewinnen.
 [PVZ1MODE_SEEINGSTARS]
 Sieh die Sterne.
 
-[PVZ1MODE_SEEING STARS_NORMAL_DESC]
+[PVZ1MODE_SEEINGSTARS_NORMAL_DESC]
 Gewinne, indem du die gleichen Pflanzen gemäß den Anweisungen pflanzt.
 
 [PVZ1MODE_OVERWHELM]
@@ -61020,7 +61025,7 @@ Regen und Donnern, sammelt Kostümung 3
 [S9_MEMORY_LEVEL_NAME_064]
 Elite-Zombies kommen
 
-[S10_MEMORY Y_LEVEL_NAME_001]
+[S10_MEMORY_LEVEL_NAME_001]
 Frohes neues Jahr Jahr 1
 
 [S10_MEMORY_LEVEL_NAME_002]
@@ -61476,7 +61481,7 @@ Elite-Zombies greifen an
 [S11_MEMORY_LEVEL_NAME_057]
 Zombies im Fass versteckt 1
 
-[S 11_MEMORY_LEVEL_NAME_058]
+[S11_MEMORY_LEVEL_NAME_058]
 Zombie im Fass 2
 
 [S11_MEMORY_LEVEL_NAME_059]
@@ -61668,7 +61673,7 @@ Elite-Zombies sind Kommt
 [S12_MEMORY_LEVEL_NAME_049]
 Lasst die Zombies rollen 1
 
-[S12_MEMORY_LEVEL_NA ME_050]
+[S12_MEMORY_LEVEL_NAME_050]
 Lasst die Zombies rollen 2
 
 [S12_MEMORY_LEVEL_NAME_051]
@@ -62113,7 +62118,7 @@ Nachkommen 11
 [S14_MEMORY_LEVEL_NAME_030]
 Nachkommen 12
 
-[S14_MEMORY RY_LEVEL_NAME_029]
+[S14_MEMORY_LEVEL_NAME_029]
 Ungünstiges Wetter 1
 
 [S14_MEMORY_LEVEL_NAME_030]
@@ -62569,7 +62574,7 @@ Denkmal der Ewigkeit
 [S25_MEMORY_LEVEL_NAME_8]
 Heiliges Licht
 
-[S25_MEMORY_LEVEL_NA ME_9]
+[S25_MEMORY_LEVEL_NAME_9]
 Warmer Schnee
 
 [S25_MEMORY_LEVEL_NAME_10]
@@ -62854,7 +62859,7 @@ Ein ruhiger Tag
 [MEMORY_TUTORIAL_LEVEL_NAME]
 Heian-Zeit
 
-[MEMORY2_TUTORIAL_LEV EL_NAME]
+[MEMORY2_TUTORIAL_LEVEL_NAME]
 Alte Zeiten
 
 [MEMORY_LEVEL_NAME_001_H]
@@ -63023,7 +63028,7 @@ Stur
 [S7_MEMORY_LEVEL_NAME_010_H]
 Stur
 
-[S7_MEM S7_MEMORY_LEVEL_NAME_011_H]
+[S7_MEMORY_LEVEL_NAME_011_H]
 Piratenkarneval
 
 [S7_MEMORY_LEVEL_NAME_012_H]
@@ -63078,7 +63083,7 @@ Vollständig Bewaffnet
 [S8_MEMORY_LEVEL_NAME_008_H]
 Schwerkraftzertrümmerung
 
-[S8_MEMORY_LEVEL_NAM E_009_H]
+[S8_MEMORY_LEVEL_NAME_009_H]
 Verschiedene Überraschungsangriffe
 
 [S8_MEMORY_LEVEL_NAME_010_H]
@@ -63723,7 +63728,7 @@ Avatar
 [PVZ1_ACHIEVEMENT_INTEGRAL]
 Erfolgstoken
 
-[PVZ1ACHI EVEMENT]
+[PVZ1ACHIEVEMENT]
 Erfolg
 
 [REWARD_DETAILS]
@@ -64127,7 +64132,7 @@ Filter
 [CUSTOM_LEVEL_CHOOSE_LEVEL_MY_FAVOR]
 Meine Favoriten
 
-[CUSTOM_LEVEL_CHOOSE_LEV EL_SEARCH]
+[CUSTOM_LEVEL_CHOOSE_LEVEL_SEARCH]
 Suchen
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_LIKE_DESC]
@@ -64148,7 +64153,7 @@ Level-ID eingeben
 [CUSTOM_LEVEL_CHOOSE_LEVEL_LIKE_NUM]
 {NUMS} Millionen
 
-[CUSTOM_LEVEL_LEVEL L_DETAIL_TITLE]
+[CUSTOM_LEVEL_LEVEL_DETAIL_TITLE]
 Leveldetails
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_COPY_TITLE]
@@ -64169,7 +64174,7 @@ Herunterladen
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_HAS_DOWNLOADED]
 Heruntergeladen
 
-[CUSTOM_LEVEL_LEVEL EL_DETAIL_BTN_UPLOAD]
+[CUSTOM_LEVEL_LEVEL_DETAIL_BTN_UPLOAD]
 Veröffentlichen
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_HAS_UPLOAD]
@@ -64380,34 +64385,34 @@ Spielauswahl
 Alle
 
 [CUSTOM_LEVEL_WORLD_TYPE_0]
-Geheimnisvolles Ägypten
+Altes Ägypten
 
 [CUSTOM_LEVEL_WORLD_TYPE_1]
 Piratenbucht
 
-[CUSTOM_LEVEL_WORLD_TYPE M_LEVEL_WORLD_TYPE_2]
-Westwelt
+[CUSTOM_LEVEL_WORLD_TYPE_2]
+Wilder Westen
 
 [CUSTOM_LEVEL_WORLD_TYPE_3]
 Kungfu-Welt
 
 [CUSTOM_LEVEL_WORLD_TYPE_4]
-Zukunftswelt
+Ferne Zukunft
 
 [CUSTOM_LEVEL_WORLD_TYPE_5]
-Dunkle Welt
+Mittelalter
 
 [CUSTOM_LEVEL_WORLD_TYPE_6]
-Große Welle Strand
+Riesen Wellen Strand
 
 [CUSTOM_LEVEL_WORLD_TYPE_7]
-Eiszeit
+Frostbeulen-Höhlen 
 
 [CUSTOM_LEVEL_WORLD_TYPE_8]
-Zombie-Labyrinth
+Labyrinth
 
 [CUSTOM_LEVEL_WORLD_TYPE_9]
-Böser Dave
+Ich Zombie
 
 [CUSTOM_LEVEL_WORLD_TYPE_10]
 Theater-Terror
@@ -64466,7 +64471,7 @@ Einhändig
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_7]
 Töpfer zerschlagen
 
-[LEVEL_EDITOR_TOWER_DEFEN D_BOARDGRID_SETTING_TITLE]
+[LEVEL_EDITOR_TOWER_DEFEND_BOARDGRID_SETTING_TITLE]
 Bodenauswahl
 
 [LEVEL_EDITOR_TOWER_DEFEND_SLIDER_TITLE]
@@ -64691,7 +64696,7 @@ Zur Creator-Plattform
 [CUSTOM_LEVEL_SETTING_MUST_LINKED]
 (Telefon muss zuerst verknüpft werden)
 
-[CUSTOM_LEVEL_ALLOW_BUY_S UNMONEY]
+[CUSTOM_LEVEL_ALLOW_BUY_SUNMONEY]
 Kauf von Sonnenlicht möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_PLANTFOOD]
@@ -65816,7 +65821,7 @@ Gerät verknüpfen
 4. Wiederherstellen der Werkseinstellungen, Formatieren, Flashen und andere gründliche Reinigungsvorgänge werden als neue Geräte definiert.
 5. Pro Jahr können nur vier Geräte verknüpft werden. Das Verknüpfungslimit wird jeweils am 1. Januar zurückgesetzt.
 
-[BIND_UN IQUE_ID_HINT]
+[BIND_UNIQUE_ID_HINT]
 Es wurde festgestellt, dass du dich gerade auf einem neuen Gerät anmeldest. Klicke bitte auf der Hauptoberfläche auf das verknüpfte Gerät, um die Verknüpfung erneut durchzuführen, bevor du das Spiel startest.
 
 [BIND_UNIQUE_ID_CLEAR_PROFILE]
@@ -66118,7 +66123,7 @@ Märchenwald – Tag 6
 [FOREST_LEVEL_NAME_07]
 Märchenwald – Tag 7
 
-[FOR EST_LEVEL_NAME_08]
+[FOREST_LEVEL_NAME_08]
 Märchenwald – Tag 8
 
 [FOREST_LEVEL_NAME_09]
@@ -66481,7 +66486,7 @@ Jubiläums-Challenge – Kung Fu
 [ANNIVERSARY_10TH_NAME_05]
 Jubiläums-Challenge – Zukunft
 
-[AN NIVERSARY_10TH_NAME_06]
+[ANNIVERSARY_10TH_NAME_06]
 Jubiläums-Challenge – Dunkelheit
 
 [ANNIVERSARY_10TH_NAME_07]
@@ -66619,7 +66624,7 @@ Frühlingssuche im Schnee – Tag 12
 [SPRINGFESTIVAL_2024_NAME_13]
 Frühlingssuche im Schnee – Tag 13
 
-[PVZ2_UNCHARTED_MODE_MOD E_TITLE_PUMPKINSCARECROW]
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINSCARECROW]
 Kürbis-Vogelscheuche
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINSCARECROW]
@@ -67018,7 +67023,7 @@ Zombie 5 beschwören
 [CARD_GAME_INTENTION_SUMMON_DESC_6]
 Zombie 7 beschwören
 
-[CARD_GAME_INTENTION_S ME_INTENTION_SUMMON_DESC_3]
+[CARD_GAME_INTENTION_SUMMON_DESC_3]
 Zombie 3 beschwören
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_1]
@@ -67063,7 +67068,7 @@ Bezaubere 1 befreundeten Zombie.
 [CARD_GAME_INTENTION_ZOMBIE_ARCHMAGE_DESC_2]
 Beschwöre 2 Magnetschild-Zombies.
 
-[CARD_GAME_INTENTION_ZOMBIE_CANNO N_DESC_1]
+[CARD_GAME_INTENTION_ZOMBIE_CANNON_DESC_1]
 Starte Imp Zombie
 
 [CARD_GAME_INTENTION_ZOMBIE_CANNON_DESC_2]
@@ -67410,7 +67415,7 @@ Winke mit der Waffe in deiner Hand, um den Pflanzen vor dir großen Schaden zuzu
 [ZOMBIE_NEW_PVP_ICEAGE_ARMOR3]
 Blockbirnen-Zombie
 
-[ZOMBIE_NEW_PVP_ICEAGE_ARMOR3_D ESCRIPTION_HEADER]
+[ZOMBIE_NEW_PVP_ICEAGE_ARMOR3_DESCRIPTION_HEADER]
 Der Eisblock auf seinem Kopf hält viel Schaden aus.
 
 [ZOMBIE_NEW_PVP_ZOMBIE_SNOWPEA]
@@ -67817,7 +67822,7 @@ Aufgabenlevel
 [NEW_PVP_TASK_TAB3]
 Glücksrad
 
-[NEW_PVP_T ASK_INTERGAL]
+[NEW_PVP_TASK_INTERGAL]
 Duellmünzen
 
 [NEW_PVP_TASK_INTERGAL_TIPS]
@@ -68043,7 +68048,7 @@ Erfahrungs-Geschenkpaket
 [PRODUCT_NEW_PVP_BATTLE_PASS_8]
 Geschenkpaket „Grundstufe“ kaufen
 
-[PRODUCT_NEW_PVP_BATTLE_PASS_8_SHORTDES C]
+[PRODUCT_NEW_PVP_BATTLE_PASS_8_SHORTDESC]
 Geschenkpaket „Grundstufe“
 
 [PRODUCT_NEW_PVP_BATTLE_PASS_18]
@@ -68290,7 +68295,7 @@ Themenbeschreibung
 [NEW_PVP_MAIN_VIEW_DISCONNECT_TITLE]
 Systemaufforderungen
 
-[NEW_PVP_MAIN_VI EW_OVERVIEW_TITLE]
+[NEW_PVP_MAIN_VIEW_OVERVIEW_TITLE]
 Gameplay Anleitung
 
 [NEW_PVP_MAIN_VIEW_OVERVIEW_TEXT]
@@ -68815,7 +68820,7 @@ Füllhorn Stufe 5 freischalten
 [CORNUCOPIA_SHOP_ITEM_LOCK_DESCRIPTION_6]
 Füllhorn Stufe 6 freischalten
 
-[CORNUCOPIA_SHOP_IT EM_LOCK_DESCRIPTION_7]
+[CORNUCOPIA_SHOP_ITEM_LOCK_DESCRIPTION_7]
 Füllhorn auf Stufe 7 freischalten
 
 [CORNUCOPIA_SHOP_ITEM_LOCK_DESCRIPTION_8]
@@ -68884,7 +68889,7 @@ Juwel
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL]
 Füllhorn-Geschenkpaket
 
-[PRODUCT_CORNU COPIA_TREASURE_BOWL_6_SHORTDESC]
+[PRODUCT_CORNUCOPIA_TREASURE_BOWL_6_SHORTDESC]
 Primäres Glückspaket
 
 [PRODUCT_CORNUCOPIA_TREASURE_BOWL_30_SHORTDESC]
@@ -68902,7 +68907,7 @@ Super-Glückspaket
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_1]
 Jede Person im Rangbereich kann ^08FF20^0,5 %^oldclr^ des gesamten Preispools erhalten (mindestens 200 Ziehungen).
 
-[CORNUCOPIA A_GIFT_REWARD_STRIP_2]
+[CORNUCOPIA_GIFT_REWARD_STRIP_2]
 51.–150.: Juwel × {NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_2]
@@ -68953,7 +68958,7 @@ Täglicher Login
 [CORNUCOPIA_GRADE_TASK_NAME_1_2]
 Beliebiger Verbrauch von 150 Juwelen
 
-[CORNU COPIA_GRADE_TASK_NAME_1_3]
+[CORNUCOPIA_GRADE_TASK_NAME_1_3]
 Wie jedes DIY-Level
 
 [CORNUCOPIA_GRADE_TASK_NAME_1_4]
@@ -69123,7 +69128,7 @@ Die höchste Sterneanzahl aller Zeiten hat 2 erreicht. Sterne
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_3]
 Die höchste Sterneanzahl aller Zeiten hat 4 Sterne erreicht.
 
-[UNC HARTED_CHILDRENSDAY_TASK_NAME_1_4]
+[UNCHARTED_CHILDRENSDAY_TASK_NAME_1_4]
 Die höchste Sterneanzahl aller Zeiten hat 6 Sterne erreicht.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_5]
@@ -70009,7 +70014,7 @@ Die Menge des gesammelten Sonnenlichts wurde verringert (1 Stern)
 [SUN_REDUCED_DIFFICULTY_1_DESCRIPTION]
 Die Menge des gesammelten Sonnenlichts wurde um 30% reduziert.
 
-[SUN_REDUCED_DIFFICU LTY_2]
+[SUN_REDUCED_DIFFICULTY_2]
 Reduziert Sonnenlicht (2 Sterne)
 [SUN_REDUCED_DIFFICULTY_2_DESCRIPTION]
 Reduziert Sonnenlicht um 50%.
@@ -70070,7 +70075,7 @@ Kosten für Sonnenpflanzen verdreifacht
 
 [SPECIALIST_PLANT_COST_DIFFICULTY_1]
 Kosten für Spezialpflanzen erhöht (1 Stern)
-[SPECIALIST_PLANT_COST_DIFFICULTY_1_DESCRIPTIO N]
+[SPECIALIST_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
 Der Sonnenlichtverbrauch für den Anbau von Spezialwaffenpflanzen wird verdreifacht.
 
 [SHOOTER_DISABLE_PLANT_DIFFICULTY_2]
@@ -70109,7 +70114,7 @@ Ferngesteuerte und Spezialwaffen verboten (3 Sterne)
 [SHOOTER_SPECIALIST_DISABLE_PLANT_DIFFICULTY_3_DESCRIPTION]
 Tragen von ferngesteuerten und Spezialwaffen verboten
 
-[SHOOTER_PLANT_CD_DIFFICUL TY_1]
+[SHOOTER_PLANT_CD_DIFFICULTY_1]
 Abklingzeit für ferngesteuertes Pflanzen erhöht (3 Sterne)
 [SHOOTER_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
 Abklingzeit für ferngesteuertes Pflanzen verdreifacht
@@ -70119,7 +70124,7 @@ Abklingzeit für Vanguard-Pflanzen erhöht (1 Stern)
 [WARRIOR_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
 Abklingzeit für Vanguard-Pflanzen verdreifacht
 
-[SUPPORTER_PLANT_CD_DI FFICULTY_1]
+[SUPPORTER_PLANT_CD_DIFFICULTY_1]
 Abklingzeit für unterstütztes Pflanzen erhöht (1 Stern)
 [SUPPORTER_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
 Abklingzeit für unterstütztes Pflanzen verdreifacht
@@ -70361,7 +70366,7 @@ Der Kohlkrug sammelt Projektile und feuert eine große Kohlkugel mit ^ff0000^ h�
 Wenn ein Zombie den gefrorenen Salat berührt, explodiert dieser und friert den Zombie ^0072ff^Ⅰ^oldclr^ 10 Sekunden lang ein.
 
 [ICEBURG_NEW_SKILL_LEVEL2_DES]
-Ice BURG hat gelernt, aus der Ferne anzugreifen. Erscheint ein Zombie innerhalb von drei Feldern rechts, feuert er Schneebälle mit einem Schaden von 30 Punkten in einer Frequenz von 1,4 Sekunden ab.
+Eisbergsalat hat gelernt, aus der Ferne anzugreifen. Erscheint ein Zombie innerhalb von drei Feldern rechts, feuert er Schneebälle mit einem Schaden von 30 Punkten in einer Frequenz von 1,4 Sekunden ab.
 
 [ICEBURG_NEW_SKILL_LEVEL3_DES]
 Er beherrscht den Fernangriff. Die Angriffsreichweite der abgefeuerten Schneebälle erhöht sich um zwei Felder, und der Schaden steigt auf 40 Punkte.
@@ -74741,7 +74746,7 @@ Die Pflanze hat eine 50%ige Chance, einen weiterentwickelten Abyss-Apostel auszu
 [DEVILSFLOWER_PLANTFOOD_DESCRIPTION]
 Die Pflanze spuckt ein Ei nach vorne aus, aus dem ein riesiger Apostelzombie geboren wird. Der riesige Apostelzombie bewegt sich nach rechts und greift die gegnerischen Zombies an, denen er begegnet. Nach seinem Tod hinterlässt er 10 Sekunden lang eine Säurepfütze an der Stelle, die Zombies, die darauf treten, verlangsamt.
 
-[DEVILSFLOWER_AVA TAR_PLANTFOOD_DESCRIPTION]
+[DEVILSFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
 Die Pflanze spuckt ein Ei nach vorne aus, aus dem ein riesiger Apostelzombie^oldclr^ mit höherer Gesundheit und Angriffskraft geboren wird. Der riesige Apostelzombie bewegt sich nach rechts und greift die gegnerischen Zombies an, denen er begegnet. Beim Angriff besteht eine 40%ige Chance, Säure auf eine Zombieposition innerhalb des 3x3-Rasters vor ihm zu spucken. Die Säurereichweite beträgt 1 x 1 und hält 10 Sekunden an. Zombies, die darauf treten, werden verlangsamt. Nach dem Tod des riesigen Zombies des Apostelführers bleibt an der ursprünglichen Stelle eine Säurelache zurück.
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL1_DES]
@@ -74928,7 +74933,7 @@ Täglicher Login
 [ACTIVITY_NEW_TIPS_TITLE]
 Tipps
 
-[ACTIVITY_NEW_PLAYER_SURVE Y_TIPS]
+[ACTIVITY_NEW_PLAYER_SURVEY_TIPS]
 Aktivitätsbeschreibung
 
 [ACTIVITY_NEW_PIGGYBANK_TIPS]
@@ -75259,7 +75264,7 @@ Bereits im Team, erfüllt aber nicht die Teilnahmebedingungen.
 [MAT_TOURISM_OCTOBER]
 Freundschaftsmünze
 
-[TOUR ISM_OCTOBER_TIME]
+[TOURISM_OCTOBER_TIME]
 Verbleibende Zeit bis zum Event
 
 [MAT_TOURISM_OCTOBER_USE]
@@ -75452,7 +75457,7 @@ Super-Unterstützungspaket
 [PRODUCT_DAVE_KITCHEN]
 Daves Küchenpaket
 
-[PRODUCT_DAVE_KITCHE N_6_SHORTDESC]
+[PRODUCT_DAVE_KITCHEN_6_SHORTDESC]
 Kleines Fleisch-Geschenkpaket
 
 [PRODUCT_DAVE_KITCHEN_68_SHORTDESC]
@@ -76151,7 +76156,7 @@ Beim Beschwören kleiner Haie besteht eine Chance von 20%, zwei zu beschwören. 
 [AQUAWEED_SKILL_LEVEL5]
 Ozean-Overlord
 
-[AQUAWEED_SKILL LL_LEVEL5_DES]
+[AQUAWEED_SKILL_LEVEL5_DES]
 Jede Beschwörung hat die Chance, einen speziellen kleinen Hai (Roter Hai) zu beschwören, der Zombies direkt frisst.
 
 [AQUAWEED_SUPERSKILL]
@@ -76596,7 +76601,7 @@ Elektrisches Adlerklauen-Blumenbatteriekostüm
 [NEW_AVATAR_DESCRIPTION_EAGLECLAW_2]
 Reduziert die Ruhezeit um 20%
 
-[NEW_AVATAR_SHORT_DESCRIPTION_M ANGOSTEEN_4]
+[NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_4]
 Energiefokussiertes Mangostan-Sci-Fi-Mecha-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_MANGOSTEEN_4]
@@ -76608,8 +76613,8 @@ Aloe-Doktor-DJ-Kostüm
 [NEW_AVATAR_DESCRIPTION_ALOES_3]
 Ruhezeit um 10% reduziert
 
-[NEW_AVATAR_SHORT_D ESCRIPTION_COLDSNAPDRAGON_3]
-Eis-Löwenmaul-Entdecker-Outfit
+[NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_3]
+Entdecker-Outfit
 
 [NEW_AVATAR_DESCRIPTION_COLDSNAPDRAGON_3]
 Sonnenlichtverbrauch um 25% reduziert
@@ -76700,7 +76705,7 @@ Nach dem Öffnen der Glücksschatzkiste erhältst du zufällig ausgewählte Belo
 [MAT_LUCKYCHEST_GOT_WAY]
 Erhältlich im Glücksschatz-Event, beim wöchentlichen Kauf spezieller Geschenkpakete.
 
-[NFS_LINKAGE_TAB 1]
+[NFS_LINKAGE_TAB1]
 Neujahrs-Anmeldung
 
 [NFS_LINKAGE_TAB2]
@@ -76829,7 +76834,7 @@ Nächstes Level
 [PLANTWARS_NEXT_NODE_BTN_TITLE]
 Bestätigen
 
-[PLANTWARS_TIME_COUNTDOWN_D ESC]
+[PLANTWARS_TIME_COUNTDOWN_DESC]
 {LEVELNAME}
 Countdown: {TIME}
 
@@ -77117,7 +77122,7 @@ Level 1 – Zweite Hälfte
 [PLANTWARS_LEVEL_NAME_W2_2]
 Level 2
 
-[PLANTWARS_LEVEL_NAME_NAM E_W2_2_A]
+[PLANTWARS_LEVEL_NAME_W2_2_A]
 Level 2 – Erste Hälfte
 
 [PLANTWARS_LEVEL_NAME_W2_2_B]
@@ -77195,7 +77200,7 @@ Level 5 – Erste Hälfte
 [PLANTWARS_LEVEL_NAME_W3_5_B]
 Level 5 – Zweite Hälfte
 
-[PRODUCT_LUC KYCHEST_SHORTDESC]
+[PRODUCT_LUCKYCHEST_SHORTDESC]
 Wöchentliches Geschenkpaket
 
 [PRODUCT_01LUCKBOX_68_SHORTDESC]
@@ -77311,7 +77316,7 @@ Aktivität beendet.
 [ACTIVITY_NEW_AUTUMN_HARVEST_DIAMOND_TITLE]
 Juwel Akkumulation
 
-[ACTIVITY_NEW_AUTUMN_HARVEST_G OTO_BUTTON]
+[ACTIVITY_NEW_AUTUMN_HARVEST_GOTO_BUTTON]
 Preispool teilen
 
 [HARVEST_BATTLE_HEAD_ID_25595]
@@ -77655,7 +77660,7 @@ Eventbelohnung
 [MINIGAME_COLLECTION_TAB3]
 Mini-Verbesserung
 
-[MINIGAME_COLLECTIO N_TAB4]
+[MINIGAME_COLLECTION_TAB4]
 Eventbeschreibung
 
 [MINIGAME_COLLECTION_NORMAL_LEVEL]
@@ -77969,7 +77974,7 @@ Erhältlich bei verschiedenen Lageraktivitäten
 Nutze die Belohnungen deiner Wahl und erhalte sie.
 [MAT_BATTLE_ORDER_POT_ACCE1_USE]
 Nutze die Belohnungen deiner Wahl und erhalte sie.
-[MAT_BATTLE_ORDER_POT T_ACCE1_GOT_WAY]
+[MAT_BATTLE_ORDER_POT_ACCE1_GOT_WAY]
 Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_SUPER_ACCE0]
@@ -77995,7 +78000,7 @@ Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_GREEN_PLANT1]
 6 grüne Pflanzenfragmente deiner Wahl Wahl
-[MAT_BATTLE_ORDER_GREEN_PLANT1_U SE]
+[MAT_BATTLE_ORDER_GREEN_PLANT1_USE]
 Nutze die optionale Belohnung und erhalte
 [MAT_BATTLE_ORDER_GREEN_PLANT1_GOT_WAY]
 Erhältlich bei verschiedenen Lageraktivitäten
@@ -78009,7 +78014,7 @@ Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_GREEN_PLANT3]
 9 grüne Pflanzenfragmente deiner Wahl
-[MAT_BATTLE_ORDER_GREEN_PLANT E_ORDER_GREEN_PLANT3_USE]
+[MAT_BATTLE_ORDER_GREEN_PLANT3_USE]
 Nutze die optionale Belohnung und Erhalte
 [MAT_BATTLE_ORDER_GREEN_PLANT3_GOT_WAY]
 Erhältlich bei verschiedenen Lageraktivitäten
@@ -78040,7 +78045,7 @@ Nutze die Belohnungen deiner Wahl und erhalte
 [MAT_BATTLE_ORDER_BLUE_PLANT2_GOT_WAY]
 Erhältlich bei verschiedenen Lageraktivitäten
 
-[MAT_BATTLE_ORDER_BLUE_PLANT LUE_PLANT3]
+[MAT_BATTLE_ORDER_BLUE_PLANT3]
 9 blaue Pflanzenfragmente deiner Wahl
 [MAT_BATTLE_ORDER_BLUE_PLANT3_USE]
 Nutze die Belohnungen deiner Wahl und erhalte
@@ -78344,7 +78349,7 @@ Erhältlich durch die Auswahl eines Pflanzenkleides in den Requisiten.
 [MAT_NEW_YEAR_CHESTS_BIG_GOT_WAY]
 Erhältlich durch den Kauf einer Wohlfahrtsgeschenkbox im Festpaket.
 
-[UI NEWYEARREDPACKET_DES_DESCRIPTION]
+[UINEWYEARREDPACKET_DES_DESCRIPTION]
 1. Du kannst täglich zu festgelegten Zeiten einmalig einen roten Umschlag im Hauptinterface erhalten. 12:00–14:00 Uhr und 18:00–21:00 Uhr (maximal 2-mal täglich)
 2. Vom 27. Januar bis 9. Februar wird täglich um 21:00 Uhr ein glücklicher Gewinner (der den roten Umschlag erhalten hat) von allen Servern (jeweils einer für iOS und Android) gezogen, der den wertvollen Hauptpreis gewinnt.
 3. An besonderen Tagen (Silvester, erster und fünfter Tag des ersten Mondmonats) findet einmal täglich eine physische Lotterie statt. Sie können an Silvester, dem ersten und fünften Tag des ersten Mondmonats von 0:00 bis 21:59 Uhr Lotterielose auf der Veranstaltungsseite kaufen und sich im Hauptgewinn-Menü registrieren.
@@ -78943,7 +78948,7 @@ Prinz Yulong
 [HARVEST_BATTLE_HEAD_DES_ID_25692]
 Im Farmkampf-Event kannst du Supermais eintauschen.
 
-[TIANGO NG_HEAD_ID_25698]
+[TIANGONG_HEAD_ID_25698]
 Gold- und Silberkönig
 
 [HARVEST_BATTLE_HEAD_ID_25699]
@@ -78967,7 +78972,7 @@ Wöchentliches Geschenkpaket (II)
 [PRODUCT_03LUCKBOX_68_SHORTDESC]
 Wöchentliches Geschenkpaket (III)
 
-[PRODUCT_04LUCKBOX_68_S HORTDESC]
+[PRODUCT_04LUCKBOX_68_SHORTDESC]
 Wöchentliches Geschenkpaket (Vier)
 
 [PRODUCT_05LUCKBOX_68_SHORTDESC]
