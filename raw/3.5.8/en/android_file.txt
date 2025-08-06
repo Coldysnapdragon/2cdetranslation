@@ -63763,7 +63763,7 @@ Avatar
 Erfolgstoken
 
 [PVZ1ACHIEVEMENT]
-Erfolg
+Erfolge
 
 [REWARD_DETAILS]
 Belohnungsdetails
