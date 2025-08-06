@@ -7795,19 +7795,19 @@ Ein Sonnenscheinhaufen
 Zwei Sonnenscheinhaufen
 
 [PRODUCT_FUEL_15_DESC]
-^FF0000 15 ^oldclr Batterien
+^FF0000 15 ^oldclr Sprit
 
 [PRODUCT_TIME_ENERGY_15_DESC]
 ^FF0000 4 ^oldclr Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_15_SHORT_DESC]
-Mittlere Box-Batterie
+Mittlere Box-Sprit
 
 [PRODUCT_TIME_ENERGY_15_SHORT_DESC]
 Mittlere Box-Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_FREE_DESC]
-^FF0000 5 ^oldclr Batterien
+^FF0000 5 ^oldclr Sprit
 
 [PRODUCT_TIME_ENERGY_FREE_DESC]
 ^FF0000 1 ^oldclr Raum-Zeit Stabilisator
@@ -7825,19 +7825,19 @@ Monatskarten-Raum-Zeit-Stabilisator
 ^FF0000 1 ^oldclr Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_5_SHORT_DESC]
-Kleine Boxbatterie
+Kleine Box Sprit
 
 [PRODUCT_TIME_ENERGY_5_SHORT_DESC]
 Kleine Box Raum-Zeit-Stabilisator
 
 [PRODUCT_FUEL_30_DESC]
-^FF0000 30 ^oldclr Batterien
+^FF0000 30 ^oldclr Sprit
 
 [PRODUCT_TIME_ENERGY_30_DESC]
 ^FF0000 8 ^oldclr Raum-Zeit Stabilisator
 
 [PRODUCT_FUEL_30_SHORT_DESC]
-Große Schachtel Batterien
+Große Schachtel Sprit
 
 [PRODUCT_TIME_ENERGY_30_SHORT_DESC]
 Große Schachtel Raum-Zeit-Stabilisator
@@ -54537,10 +54537,10 @@ Aktueller Punktestand
 Rang {NUMBER}
 
 [RIFT_NOT_ENOUGH_FUEL_TITLE]
-Nicht genügend Energie
+Nicht genügend Sprit
 
 [RIFT_NOT_ENOUGH_FUEL_TEXT]
-Nicht genügend Energie, Spiel kann nicht gestartet werden
+Nicht genügend Sprit, Spiel kann nicht gestartet werden
 
 [ADD_PERK_LABEL]
 Vorteil hinzufügen
