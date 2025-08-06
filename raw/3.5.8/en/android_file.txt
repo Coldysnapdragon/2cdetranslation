@@ -7357,7 +7357,7 @@ Beschreibung des Dekorationstickets
 Münzen
 
 [LUCKYCHEST_DES_DESCRIPTION]
-1. Das Event findet vom 1. April bis zum 26. Mai 2025 statt. Spieler können täglich Fortschritt sammeln, indem sie die Hauptlevel (normal und schwierig), das Geheime Reich, Endlos, Penny Chase, Erinnerungen, Doppellevel und Deadlock Escape abschließen.
+1. Das Event findet vom 1. April bis zum 26. Mai 2025 statt. Spieler können täglich Fortschritt sammeln, indem sie die Hauptlevel (normal und schwierig), das Geheime Reich, Endlos, Penny Jagd, Erinnerungen, Doppellevel und Deadlock Escape abschließen.
 2. Diese Glücksschatztruhe kann nur vom 1. April bis zum 26. Mai 2025 verwendet werden und verfällt nach dem Event.
 3. Wenn die kumulierte Anzahl der täglich abgeschlossenen Level 1, 5 und 10 erreicht, können Sie eine Glücksschatztruhe erhalten. Der Fortschritt wird täglich aktualisiert und kann nicht auf den nächsten Tag übertragen werden.
 4. Nach dem Öffnen der Glücksschatztruhe können Sie zufällig wertvolle Requisiten im Spiel erhalten.
@@ -33841,40 +33841,40 @@ Pennys Jagd-Ziegel-Herausforderer
 Für Herausforderer, die im Pennys Jagd-Modus den Ziegel-Rang erreicht haben.
 
 [ZOMBIE_ROMAN_BUCKET_HEAD_ID_25319]
-Pennys Verfolgung: Eisen-Herausforderer
+Penny-Jagd: Eisen-Herausforderer
 
 [ZOMBIE_ROMAN_BUCKET_HEAD_DES_ID_25319]
-Für Herausforderer, die im Pennys Verfolgungsmodus den Eisenrang erreicht haben.
+Für Herausforderer, die in Penny-Jagd den Eisenrang erreicht haben.
 
 [ZOMBIE_ROMAN_CONE_HEAD_ID_25320]
-Pennys Verfolgung: Bronze-Herausforderer
+Penny-Jagd: Bronze-Herausforderer
 
 [ZOMBIE_ROMAN_CONE_HEAD_DES_ID_25320]
-Für Herausforderer, die im Pennys Verfolgungsmodus den Bronzerang erreicht haben.
+Für Herausforderer, die in Penny-Jagd den Bronzerang erreicht haben.
 
 [ZOMBIE_ROMAN_ARMOR_HELMET_HEAD_ID_25321]
-Pennys Verfolgung: Silber-Herausforderer
+Penny-Jagd: Silber-Herausforderer
 
 [ZOMBIE_ROMAN_ARMOR_HELMET_HEAD_DES_ID_25321]
-Für Herausforderer, die im Pennys Verfolgungsmodus den Silberrang erreicht haben.
+Für Herausforderer, die in Penny-Jagd den Silberrang erreicht haben.
 
 [ZOMBIE_ROMAN_HEALER_HEAD_ID_25322]
-Gold-Herausforderer in Pennys Verfolgung
+Penny-Jagd: Gold-Herausforderer 
 
 [ZOMBIE_ROMAN_HEALER_HEAD_DES_ID_25322]
-Für Herausforderer, die im Modus „Pennys Verfolgung“ den Gold-Rang erreicht haben.
+Für Herausforderer, die in Penny-Jagd den Gold-Rang erreicht haben.
 
 [ZCORPIAN_BALLISTA_HEAD_ID_25323]
-Juwel-Herausforderer in Pennys Verfolgung
+Penny-Jagd: Diamant-Herausforderer
 
 [ZCORPIAN_BALLISTA_HEAD_DES_ID_25323]
-An den Herausforderer, der im Modus „Pennys Verfolgung“ den Juwel-Rang erreicht hat.
+Für Herausforderer, die in Penny-Jagd den Diamant-Rang erreicht haben.
 
 [ZOMBIE_ROMAN_GARGANTUAR_HEAD_ID_25324]
-Legendärer Herausforderer in Pennys Verfolgung
+Penny-Jagd: Legendärer Herausforderer
 
 [ZOMBIE_ROMAN_GARGANTUAR_HEAD_DES_ID_25324]
-Legendärer Gott, der durch Zeit und Raum reist, bitte verneige dich vor uns!
+Legendärer Gott, der durch Zeit und Raum reist, bitte verneiget euch vor ihm!
 
 [FIRSTCREATE]
 Erstellen
@@ -46835,7 +46835,7 @@ Lila Goldmünzen
 Zeitlich begrenzter Schatz Trophäe
 
 [MAT_RIFT_COIN]
-Zeit- und Raummünzen
+Raum-Zeit-Münzen
 
 [MAT_RIFT_COIN_NOT_ENOUGH]
 Nicht genügend Raum-Zeit-Münzen
@@ -46844,7 +46844,7 @@ Nicht genügend Raum-Zeit-Münzen
 Pflanzen-Fortgeschrittenenbuch
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK]
-Fortgeschrittenen Penny-Leitfaden kaufen
+Fortgeschrittenen Leitfaden für Penny-Jagd kaufen
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK_SHORT_DES]
 Belohnungsberechtigung für den Fortgeschrittenen-Leitfaden
@@ -47233,11 +47233,11 @@ Große Goldnuggets-Geschenkpackung
 Extra großes Goldnugget-Paket
 
 [PENNY_GUIDE]
-Leitfaden für Penny Jagd
+Leitfaden für Penny-Jagd
 
 [PENNY_ADVANCED_GUIDE_DES]
 ^FFFF00 Erweiterter Leitfaden ^oldclr
-Erledige während des Events Aufgaben, um Punkte zu erhalten und genügend Punkte zu sammeln, um reichhaltige Belohnungen für Pennys Verfolgung zu erhalten.
+Erledige während des Events Aufgaben, um Punkte zu erhalten und genügend Punkte zu sammeln, um reichhaltige Belohnungen für Penny-Jagd zu erhalten.
 
 [PENNY_ADVANCED_GUIDE_BUY]
 ^FFFF00 30 ^oldclr Yuan kaufen
@@ -47246,10 +47246,10 @@ Erledige während des Events Aufgaben, um Punkte zu erhalten und genügend Punkt
 Punkteanzahl:
 
 [PENNY_GUIDE_PASS_LEVEL_3]
-Penny Chase-Level 3-mal abschließen
+Penny-Jagd Level 3-mal abschließen
 
 [PENNY_GUIDE_KILL_ZOMBIE_50]
-50 Zombies im Penny Chase-Level töten
+50 Zombies in Penny-Jagd Leveln töten
 
 [PENNY_GUIDE_OBTAIN_SIGNAL_50]
 50 Signale von Zombies erhalten
@@ -47264,19 +47264,19 @@ Penny Chase-Level 3-mal abschließen
 200 Signale von Zombies erhalten
 
 [PENNY_GUIDE_WIN_ZOMBIE_BOSS_2]
-Zombie Bo 2-mal erfolgreich herausgefordert
+Zomboss 2-mal erfolgreich herausfordern
 
 [PENNY_GUIDE_OBTAIN_SUNMONEY_25000]
-Produziere 25.000 Sonnenschein während Pennys Verfolgung.
+Produziere 25.000 Sonnen in Penny-Jagd.
 
 [PENNY_GUIDE_ADD_PLANT_400]
-Pflanze 400 Pflanzen während Pennys Verfolgung.
+Pflanze 400 Pflanzen in Penny-Jagd.
 
 [PENNY_GUIDE_KILL_ZOMBIE_500]
-Töte 500 Zombies während Pennys Verfolgung.
+Töte 500 Zombies in Penny-Jagd.
 
 [PENNY_GUIDE_PLANTFOOD_50]
-Setze 50 Spezialdünger-Fähigkeittes während Pennys Verfolgung frei.
+Setze 50 Spezialdünger-Fähigkeiten in Penny-Jagd ein.
 
 [TRAVELLOG]
 Reisetagebuch
@@ -48301,7 +48301,7 @@ Sammle diese Woche 50 Anhänger-/Superanhängerfragmente.
 Schließe 5 Level in der Erinnerungsreise ab.
 
 [BATTLEORDER_TASK_NAME_2_5]
-Schließe 3 Pennyjagd level ab.
+Schließe 3 Penny-Jagd level ab.
 
 [BATTLEORDER_TASK_NAME_2_6]
 Fordere Super Z League 2-mal heraus
@@ -53655,7 +53655,7 @@ x{FUEL_AMT} Start
 Level auswählen: {LEVEL_NUMBER} Schwierigkeitsgrad:
 
 [RIFT_LEVEL_SETUP_TITLE_NEW]
-Pennys Jagd – Tag {LEVEL_NUMBER}
+Penny-Jagd – Tag {LEVEL_NUMBER}
 
 [RIFT_LEVEL_SETUP_BONUS]
 Belohnungsvorschau
@@ -54352,7 +54352,7 @@ Dein Punktestand: {NUMBER}
 Basisbelohnung
 
 [ZOMBOSS_GRAND_PRIZE_GENERIC]
-Befristete Belohnung in der Einlösung Geschäft:
+Befristete Belohnung in dem Penny-Jagd-Shop:
 {PLANTNAME}
 
 [UNCHARTED_BIRTHDAY_FULL_PRIZE]
@@ -54826,7 +54826,7 @@ Möchtest du {NUMS} Münzen für den Kauf ausgeben?
 Aktualisieren
 
 [RIFTA_SHOP_TITLE]
-Chase Shop
+Penny-Jagd-Shop
 
 [RIFT_SEASON_END_NOTICE_TITLE]
 Nebensaison
@@ -54838,7 +54838,7 @@ Nebensaison
 4. Lieber kleiner Zombie, wir sehen uns am Freitag!
 
 [RIFT_SEASON_END_TIP]
-Befinde dich gerade in der Nebensaison und kann das Spiel nicht starten.
+Es ist gerade Nebensaison und das Spiel kann nicht gestartet werden.
 
 [RIFT_SEASON_END_STORE_TIP]
 Heute ist Nebensaison. Beeil dich und löse deine Lieblingsprodukte ein!
@@ -57466,13 +57466,13 @@ Daves mysteriöser Schatz
 Material zur Verstärkung von Superanhängern
 
 [MAT_SPACE_TIME_CRYSTAL_GOT_WAY]
-Pennys Jagdladen
+Pennys Jagd Shop
 
 [MAT_SPACE_TIME_DUST_USE]
 Material zur Verstärkung von Superanhängern
 
 [MAT_SPACE_TIME_DUST_GOT_WAY]
-Penny Chase Shop
+Penny Jagd-Shop
 
 [MAT_ZMATCH_TICKET_USE]
 Kann im Super Z League Shop eingetauscht werden.
@@ -57481,10 +57481,10 @@ Kann im Super Z League Shop eingetauscht werden.
 Z League Siedlungsbelohnungen
 
 [MAT_RIFT_COIN_USE]
-Kann im Penny Chase Shop eingetauscht werden.
+Kann im Penny Jagd-Shop eingetauscht werden.
 
 [MAT_RIFT_COIN_GOT_WAY]
-Penny Chase Gameplay Belohnungen
+Penny-Jagd Belohnung
 
 [MAT_SECRET_GACHA_TICKET_USE]
 Für die Beschwörung geheimer Schätze
@@ -66789,7 +66789,7 @@ Ziehe das Fahrzeug, um es zu bewegen, und lass Dave innerhalb der angegebenen An
 [ACCOUNT_REMOVE_CONTENT_1]
 Liebe Spieler, ihr löscht euer Konto. Wenn ihr fortfahrt, hat dies folgende Folgen:
 1. Eure Juwelen, Goldmünzen, Pflanzen, Kostüme, Anhänger, Artefakte, Fragmente, Spielmarken in jedem Modus, Requisiten und andere Gegenstände werden gelöscht.
-2. Eure Spieldaten wie Weltlevel, Schwierigkeitsgrad, Penny Chase, Endlose Herausforderung, Super-Z-Liga, Raumzeit-Geheimreich, Pflanzenfamilie, Reise der Erinnerungen, Kreativer Garten usw. werden gelöscht.
+2. Eure Spieldaten wie Weltlevel, Schwierigkeitsgrad, Penny-Jagd, Endlose Herausforderung, Super-Z-Liga, Raumzeit-Geheimreich, Pflanzenfamilie, Reise der Erinnerungen, Kreativer Garten usw. werden gelöscht.
 3. Eure Kontoinformationen werden gelöscht und können nicht wiederhergestellt werden.
 Solltet ihr einen Fehler machen, klickt bitte oben rechts auf „Schließen“. Eure Spieldaten bleiben dann erhalten.
 
@@ -78824,7 +78824,7 @@ Nicht genügend Battle Pass-Tickets
 Battle Pass-Tickets
 
 [MAT_BATTLE_ORDER_TICKET_USE]
-Wird zum Abschließen von Battle Pass-Missionen (Pennys Verfolgungsleitfaden, Daves geheimnisvoller Schatz, Camp-Events, Duo-Battle Pass) benötigt.
+Wird zum Abschließen von Battle Pass-Missionen (Leitfaden für Penny-Jagd, Daves geheimnisvoller Schatz, Camp-Events, Duo-Battle Pass) benötigt.
 
 [MAT_BATTLE_ORDER_TICKET_GOT_WAY]
 Erhältlich bei Jingle Bells-Events, monatlichen Check-ins und Fragebögen.
