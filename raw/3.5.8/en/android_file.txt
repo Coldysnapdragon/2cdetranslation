@@ -48279,11 +48279,10 @@ Sammle 10 Anhänger-/Superanhängerfragmente
 Töte 25 Mumienzombies
 
 [BATTLEORDER_TASK_NAME_1_5]
-Schließe 2 [Pflanzenfragmente] ab Abenteuer]
+Schließe 2 Pflanzenabenteuer ab
 
 [BATTLEORDER_TASK_NAME_1_6]
-Schließe 2 [Pflanzenabenteuer] ab. AME_1_6]
-Bewerte ein beliebiges Level im [Kreativgarten] (Gefällt mir/Gefällt mir nicht).
+Bewerte ein beliebiges Level im Kreativgarten (Gefällt mir/Gefällt mir nicht).
 
 [BATTLEORDER_TASK_NAME_1_7]
 Verbrauche 150 Juwelen.
@@ -48328,13 +48327,13 @@ Gewinne 5 Spiele im 2 Spieler-Modus.
 Diese Woche insgesamt 3 Gensequenzen/Genessenzen erhalten.
 
 [BATTLEORDER_TASK_NAME_2_14]
-Diese Woche insgesamt 5 Mal [Pflanzengenetische Modifikation] durchgeführt.
+Diese Woche insgesamt 5 Mal Pflanzengenetische Modifikation durchführen.
 
 [BATTLEORDER_TASK_NAME_3_1]
-10 Mal Gläser im Event [Fröhliches Gläserzertrümmern] zerschlagen (das Event [Fröhliches Gläserzertrümmern] läuft vom 13. bis 19. Juni).
+10 Mal Vasen im Event Fröhliches Vasen-zertrümmern zerschlagen (das Event [Fröhliches Vasen-zertrümmern] läuft vom 13. bis 19. Juni).
 
 [BATTLEORDER_TASK_NAME_3_2]
-7 Mal Belohnungen (einschließlich kostenloser Belohnungen) im [Geheimnisvoller Laden] erhalten (das Event [Geheimnisvoller Laden] läuft vom 6. Oktober bis 1. Januar). 12)
+7 Mal Belohnungen (einschließlich kostenloser Belohnungen) im Geheimnisvoller Laden erhalten (das Event [Geheimnisvoller Laden] läuft vom 6. Oktober bis 1. Januar). 12)
 
 [BATTLEORDER_TASK_NAME_3_3]
 Zerstöre 5 Eier im Event [Goldenes Ei zertrümmern] (das Event [Goldenes Ei zertrümmern] läuft vom 4. bis 17. April).
@@ -48346,13 +48345,13 @@ Erhalte 1 Bruchbelohnung im Event [Casual Summer] (das Event [Casual Summer] lä
 Schließe das Herausforderungspaket für das aktuelle Level von [Batteriemeister] ab (das Event [Batteriemeister] läuft vom 6. bis 19. Dezember).
 
 [BATTLEORDER_TASK_NAME_3_6]
-Erhalte 10 Token in der [Pflanzen-Herausforderung]
+Erhalte 10 Token in der Pflanzen-Herausforderung
 
 [BATTLEORDER_TASK_NAME_3_7]
-Würfele (ziehe Schritte) 8 Mal im [Kunsttheater] (das Event [Kunsttheater] läuft vom 30. September bis 13. Oktober)
+Würfele (ziehe Schritte) 8 Mal im [Kunsttheater] (das Event Kunsttheater läuft vom 30. September bis 13. Oktober)
 
 [BATTLEORDER_TASK_NAME_3_8]
-Schließe 5 [Zombie-Herausforderungen] ab (das Event [Zombie-Herausforderung] läuft vom 10. bis 23. Februar).
+Schließe 5 [Zombie-Herausforderungen] ab (das Event Zombie-Herausforderung läuft vom 10. bis 23. Februar).
 
 [BATTLEORDER_TASK_NAME_3_9]
 In diesem Zeitraum wurden insgesamt 300 Pflanzenfragmente erhalten.
@@ -48361,22 +48360,121 @@ In diesem Zeitraum wurden insgesamt 300 Pflanzenfragmente erhalten.
 In diesem Zeitraum wurden insgesamt 150 Anhänger-/Superanhänger-Fragmente erhalten.
 
 [BATTLEORDER_TASK_NAME_3_11]
-Erreiche Level 120 in einem beliebigen Zeitraum der [Endlos-Herausforderung].
+Erreiche Level 120 in einem beliebigen Zeitraum der Endlos-Herausforderung.
+
+[JOUST_LEAGUE_NAME_WOOD_SHORT_1]
+Holz
+
+[JOUST_LEAGUE_NAME_IRON_SHORT_2]
+Ziegel
+
+[JOUST_LEAGUE_NAME_COPPER_SHORT_3]
+Eisen
+
+[JOUST_LEAGUE_NAME_SILVER_SHORT_4]
+Bronze
+
+[JOUST_LEAGUE_NAME_GOLD_SHORT_5]
+Silber
+
+[JOUST_LEAGUE_NAME_JADE_SHORT_6]
+Gold
+
+[JOUST_LEAGUE_NAME_CRYSTAL_SHORT_7]
+Diamant
+
+[JOUST_LEAGUE_NAME_BRICK_SHORT_8]
+Legendär
+
+[JOUST_LEAGUE_NAME_WOOD_1]
+Holz-Liga
+
+[JOUST_LEAGUE_NAME_BRICK]
+Steinliga
+
+[JOUST_LEAGUE_NAME_BRICK_SHORT]
+Stein
+
+[JOUST_LEAGUE_NAME_CRYSTAL]
+Kristallliga
+
+[JOUST_LEAGUE_NAME_CRYSTAL_SHORT]
+Kristall
+
+[JOUST_LEAGUE_NAME_GOLD]
+Goldliga
+
+[JOUST_LEAGUE_NAME_GOLD_SHORT]
+Gold
+
+[JOUST_LEAGUE_NAME_IRON]
+Eisenliga
+
+[JOUST_LEAGUE_NAME_IRON_SHORT]
+Eisen
+
+[JOUST_LEAGUE_NAME_JADE]
+Jade Liga
+
+[JOUST_LEAGUE_NAME_JADE_SHORT]
+Jade
+
+[JOUST_LEAGUE_NAME_NONPLAYER]
+Ranglisten
+
+[JOUST_LEAGUE_NAME_SILVER]
+Silberliga
+
+[JOUST_LEAGUE_NAME_SILVER_SHORT]
+Silber
+
+[JOUST_LEAGUE_NAME_SOIL]
+Sandliga
+
+[JOUST_LEAGUE_NAME_SOIL_SHORT]
+Sand
+
+[JOUST_LEAGUE_NAME_WOOD]
+Holzliga
+
+[JOUST_LEAGUE_NAME_WOOD_SHORT]
+Holz
+
+[JOUST_LEAGUE_NAME_IRON_2]
+Ziegel-Liga
+
+[JOUST_LEAGUE_NAME_COPPER_3]
+Eisen-Liga
+
+[JOUST_LEAGUE_NAME_SILVER_4]
+Bronze-Liga
+
+[JOUST_LEAGUE_NAME_GOLD_5]
+Silber-Liga
+
+[JOUST_LEAGUE_NAME_JADE_6]
+Gold-Liga
+
+[JOUST_LEAGUE_NAME_CRYSTAL_7]
+Diamant-Liga
+
+[JOUST_LEAGUE_NAME_BRICK_8]
+Legendäre-Liga
 
 [BATTLEORDER_TASK_NAME_3_12]
-Veröffentliche 10 beliebige Level im [Kreativgarten].
+Veröffentliche 10 beliebige Level im Kreativgarten.
 
 [BATTLEORDER_TASK_NAME_3_13]
-Bewerte 50 beliebige Level im [Kreativgarten]. (Gefällt mir/Gefällt mir nicht)
+Bewerte 50 beliebige Level im Kreativgarten. (Gefällt mir/Gefällt mir nicht)
 
 [BATTLEORDER_TASK_NAME_3_14]
-Schließe [Memory Trip] im schweren Modus ab.
+Schließe Erinnerungsreise im schweren Modus ab.
 
 [BATTLEORDER_TASK_NAME_3_15]
-Erreiche die Goldliga oder höher in [Penny Chase].
+Erreiche die Goldliga oder höher in Penny-Jagd.
 
 [BATTLEORDER_TASK_NAME_3_16]
-Erreiche die Silberliga oder höher in [Super Z League].
+Erreiche die Silberliga oder höher in Super Z League.
 
 [BATTLEORDER_TASK_NAME_3_17]
 Verbrauche 3000 Juwelen.
@@ -48385,7 +48483,7 @@ Verbrauche 3000 Juwelen.
 Ziehe 50-mal Schätze (permanente Schätze/geheime Schätze/zeitlich begrenzte Schätze).
 
 [BATTLEORDER_TASK_NAME_3_19]
-Würfel (Ziehschritte) 8-mal im [Art Theater]. (Das [Art Theater]-Event ist vom 20. Mai bis Juni geöffnet.) 2)
+Würfel (Ziehschritte) 8-mal im Art Theater. (Das [Art Theater]-Event ist vom 20. Mai bis Juni geöffnet.) 2)
 
 [ARBORDAY_PLANTTREE]
 Voraussichtliche Pflanzung: ^FFFF00 {NUM} ^oldclr Bäume
