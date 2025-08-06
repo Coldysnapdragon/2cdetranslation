@@ -15530,8 +15530,8 @@ Schläfert Pflanzen in einem 3x3 Bereich ein.
 Kavallerie-Zombie
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION]
-{FLAVOR}Kavallerie-Zombie besitzt ein unter Zombies seltenes Ehrgefühl und Selbstwertgefühl. Daher lässt er es nie zu, dass andere ihn fragen, warum er ein Zombie geworden ist. Warum ...
-Ein berühmter Zombie-Weiser sagte einst: „Wer ertrinkt, kann gut schwimmen ...“
+
+{FLAVOR}Kavallerie-Zombie besitzt ein unter Zombies seltenes Ehrgefühl und Selbstwertgefühl. Daher lässt er es nie zu, dass andere ihn fragen, warum er ein Zombie geworden ist.
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION_HEADER]
 Kann einen mächtigen Angriff starten. Bei diesem wird eine Lanze fallen gelassen die wie ein Grab ist und läuft seperat von seinem Pferd weiter.
