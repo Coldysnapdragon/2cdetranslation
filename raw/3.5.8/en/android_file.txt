@@ -36024,8 +36024,8 @@ Edelsteine
 [BOSS_CHALLENGE_LOTTERY_CHRISMAS_MATERIAL_COST]
 Weihnachtsjuwelen: {COUNT}
 
-[BOSS_CHALLENGE_LOTTERY_CHRISMAS_MATERIAL_COST] OTTERY_5TH_MATERIAL_COST]
-Blauer Kristall: {COUNT}
+[BOSS_CHALLENGE_LOTTERY_5TH_MATERIAL_COST]
+Blaue Kristalle: {COUNT}
 
 [MAT_NATIONAL_CURRENCY]
 Nationalfeiertag-Tauschfragmente
@@ -46098,7 +46098,7 @@ Bitte kaufe mehr Challenge-Zeiten, bevor du es erneut versuchst.
 Blauer Kristall
 
 [MAT_BOSSRUSH_CRYSTAL_BLUE]
-Blauer Kristall
+Blaue Kristalle
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE]
 Statue
