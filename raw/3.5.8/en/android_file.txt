@@ -1001,7 +1001,7 @@ Pflanzenkrise – Tag 1
 [CHALLENGE_PRESET_B_NAME]
 Pflanzenkrise – Tag 2
 
-[CHALLENGE_PRESET_ C_NAME]
+[CHALLENGE_PRESET_C_NAME]
 Pflanzenkrise – Tag 3
 
 [CHALLENGE_PRESET_NAME]
@@ -4898,7 +4898,7 @@ Rüstungsmonteur – Flammenstern
 ^573701^Der verbesserte Zustand verleiht umliegenden Pflanzen einen Angriffsbonus auf das Feuerattribut. Jede Verbesserungsstufe erhöht sich^oldclr^^2f8101^3%^oldclr^
 ^573701^(Zum Verbessern klicken)^oldclr^
 
-[ARMORFLAME_ TALENT_DESCRIPTION_1_1]
+[ARMORFLAME_TALENT_DESCRIPTION_1_1]
 ^573701^Der verbesserte Zustand verleiht umliegenden Pflanzen einen Angriffsbonus auf das Feuerattribut. Jede Verbesserungsstufe erhöht sich^oldclr^^2f8101^3%^oldclr^ Bonus, und jede Verstärkungsstufe erhöht ^oldclr^^2f8101^6% ^oldclr^
 
 [ARMORFLAME_TALENT_DESCRIPTION_1_1_PRESS]
@@ -5673,7 +5673,7 @@ Beende das Spiel mit {COUNT} überlebenden Pflanzen.
 [STARCHALLENGE_PLANT_SURVIVE_NAME]
 Überlebende Pflanzen
 
-[STARCHALLENGE_CARD_GAME_ TURN_PASS]
+[STARCHALLENGE_CARD_GAME_TURN_PASS]
 Gewinne in {COUNT} Runden.
 
 [STARCHALLENGE_CARD_GAME_TURN_PASS_NAME]
@@ -7743,7 +7743,7 @@ Klassisches Geschenkpaket
 [PRODUCT_BUNDLE_300_SHORT_DESC]
 Spiel-Geschenkpaket
 
-[PRODUCT_BUNDLE_ 680_SHORT_DESC]
+[PRODUCT_BUNDLE_680_SHORT_DESC]
 Platin-Geschenkpaket
 
 [PRODUCT_BUNDLE_1280_SHORT_DESC]
@@ -9519,7 +9519,7 @@ Hypnopilz, Stufe 3
 [GEMS_RESTORE_CODE_RECHARGE_SUNSHROOM_LV3_SUCCEED_CONTENT]
 Sonnenpilz, Stufe 3
 
-[GEMS_RESTORE_CODE_RECHARGE_ SUNBEAN_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_SUNBEAN_LV3_SUCCEED_CONTENT]
 Sonnenpilz, Stufe 3 Bohne
 
 [GEMS_RESTORE_CODE_RECHARGE_PEANUT_LV3_SUCCEED_CONTENT]
@@ -9684,7 +9684,7 @@ Goldkrötenpilz (Stufe 3)
 [GEMS_RESTORE_CODE_RECHARGE_AGAVE_LV3_SUCCEED_CONTENT]
 Agave (Stufe 3)
 
-[GEMS_ RESTORE_CODE_RECHARGE_JACKFRUIT_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV3_SUCCEED_CONTENT]
 Dritte Stufe Jackfrucht
 
 [GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV3_SUCCEED_CONTENT]
@@ -12717,7 +12717,7 @@ Eiskleid
 [STORE_PRODUCT_AVATAR_SPIKEWEED_TITLE]
 Spikekleid
 
-[STORE_PRODUCT_AVATAR_ SPIKEROCK_TITLE]
+[STORE_PRODUCT_AVATAR_SPIKEROCK_TITLE]
 Stahlspike-Outfit
 
 [STORE_PRODUCT_AVATAR_BAMBOO_TITLE]
@@ -15896,7 +15896,7 @@ Anfänger-Starterpaket
 [PRESENT_TITLE_36]
 Komfortables Spielpaket
 
-[PRESENT_TITLE_ 37]
+[PRESENT_TITLE_37]
 Supreme Deluxe Geschenkpaket
 
 [PRESENT_DES_35]
@@ -16287,7 +16287,7 @@ Baumstumpfstück
 [BONUS_CARD_PIECE_TORCHWOOD_DESCRIPTION]
 Fackelholzstumpfstück holen
 
-[BONUS_CARD_ PIECE_SNOWPEA]
+[BONUS_CARD_PIECE_SNOWPEA]
 Eisfragmente
 
 [BONUS_CARD_PIECE_SNOWPEA_DESCRIPTION]
@@ -16519,7 +16519,7 @@ Straßenlaternenblumenfragment erhalten Fragment
 [BONUS_CARD_PIECE_COFFEEBEAN]
 Kaffeebohnenfragment
 
-[BONUS_CARD_ PIECE_COFFEEBEAN_DESCRIPTION]
+[BONUS_CARD_PIECE_COFFEEBEAN_DESCRIPTION]
 Kaffeebohnenfragmente erhalten
 
 [BONUS_CARD_PIECE_PUFFSHROOM]
@@ -16529,22 +16529,22 @@ Pustepilzfragmente
 Pustepilzfragmente erhalten
 
 [BONUS_CARD_PIECE_SUNBEAN]
-Sonnenscheinbohnenfragmente
+Sonnenbohnen fragmente
 
 [BONUS_CARD_PIECE_SUNBEAN_DESCRIPTION]
-Sonnenscheinbohnenfragmente erhalten
+Sonnenbohnen fragmente erhalten
 
 [BONUS_CARD_PIECE_MAGNETSHROOM]
-Magnetische Pilzfragmente
+Magnetpilz fragmente
 
 [BONUS_CARD_PIECE_MAGNETSHROOM_DESCRIPTION]
-Magnetische Pilzfragmente erhalten
+Magnetpilz fragmente erhalten
 
-[ BONUS_CARD_PIECE_FUMESHROOM]
-Rauchpilz-Fragment
+[BONUS_CARD_PIECE_FUMESHROOM]
+Stinkpilz-Fragment
 
 [BONUS_CARD_PIECE_FUMESHROOM_DESCRIPTION]
-Rauchpilz-Fragment erhalten
+Stinkpilz-Fragment erhalten
 
 [BONUS_CARD_PIECE_HYPNOSHROOM]
 Hypnopilz-Fragment
@@ -16603,7 +16603,7 @@ Lotusblatt-Fragment
 [BONUS_CARD_PIECE_BOWLINGBULB]
 Bowling-Blasen-Fragment
 
-[BONUS_ CARD_PIECE_BOWLINGBULB_DESCRIPTION]
+[BONUS_CARD_PIECE_BOWLINGBULB_DESCRIPTION]
 Bowling-Blasen-Fragment
 
 [BONUS_CARD_PIECE_BANANA]
@@ -18867,7 +18867,7 @@ Pflanze (Level 2) – Blitzrohr ...8_DES]
 [PRODUCT_PLANTTRIAL_17_DES]
 [PRODUCT_PLANTTRIAL_18_DES]
 [PRODUCT_PLANTTRIAL_19_DES]
-[PRODUCT_PLANTTRIAL_ UCT_PLANTTRIAL_9_DES]
+[PRODUCT_PLANTTRIAL_9_DES]
 Feuerkürbis (zweite Ebene)
 
 [PRODUCT_PLANTTRIAL_10_DES]
@@ -18945,7 +18945,7 @@ Erfahrungskarte
 [EXP_PLANT_BUY_REWARD_TITLE]
 Belohnungen erhalten
 
-[EXP_PLANT_ VIEW_OK]
+[EXP_PLANT_VIEW_OK]
 Bestätigt
 
 [EXP_PLANT_ALREADY_BOUGHT_TITLE]
@@ -19078,7 +19078,7 @@ Belohnung für die Beantwortung von Fragen an sechzehn Tagen
 [LANTERN_RIDDLES_PRIZE]
 Herzlichen Glückwunsch zum Gewinn!
 
-[LANTERN_RIDDLES_SPECIAL_ PRIZE_DESC]
+[LANTERN_RIDDLES_SPECIAL_PRIZE_DESC]
 Löst alle Rätsel richtig und gewinnt eine Neujahrspflanze.
 
 [LANTERN_RIDDLES_SPECIAL_PRIZE_GET]
@@ -23465,7 +23465,7 @@ Verbrauch
 [PVP_MENU_KAIQI]
 Offen
 
-[PVP_MENU_ NU_TRAIN]
+[PVP_MENU_TRAIN]
 Zombies trainieren
 
 [PVP_MENU_LAB]
@@ -24089,7 +24089,7 @@ Meister
 [PVP_RANK_TITLE_NAME8]
 Meister
 
-[PVP_ VP_RANK_TITLE_NAME6]
+[PVP_RANK_TITLE_NAME6]
 Champion
 
 [PVP_RANK_TITLE_NAME7]
@@ -33489,7 +33489,7 @@ Für alle erneut signieren
 [ACTIVITY_LEVEL_ADS_BUTTON]
 Kostenlose Herausforderungen erhöhen
 
-[ERRORV225_TITLE ]
+[ERRORV225_TITLE]
 Aktivierungscode konnte nicht eingelöst werden
 
 [ERRORV225_DESC]
@@ -33513,7 +33513,7 @@ Guave erster Stufe plus Dekoration
 [GEMS_RESTORE_CODE_RECHARGE_TOADSTOOL_LV0_SUCCEED_CONTENT]
 Goldkrötenpilz erster Stufe plus Dekoration
 
-[GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV0_ SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV0_SUCCEED_CONTENT]
 Baumwollschnee erster Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV0_SUCCEED_CONTENT]
@@ -33600,7 +33600,7 @@ Kiwi (Level 3)
 [GEMS_RESTORE_CODE_RECHARGE_WINTERSWEET_LV3_SUCCEED_CONTENT]
 Kirschblüte (Level 3)
 
-[GEMS_RESTORE_CODE_RECHARGE_ DRAGONFRUIT_LV3_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_DRAGONFRUIT_LV3_SUCCEED_CONTENT]
 Pitaya (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_PINKSTARFRUIT_LV3_SUCCEED_CONTENT]
@@ -33621,7 +33621,7 @@ Magische Rübe (Stufe 3)
 [GEMS_RESTORE_CODE_RECHARGE_THYMEWARP_LV3_SUCCEED_CONTENT]
 Zeitumkehrgras (Stufe 3)
 
-[GEMS_RESTORE_CODE_RECHARGE_CELERYSTALKER_LV3_ SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_CELERYSTALKER_LV3_SUCCEED_CONTENT]
 Lauernder Sellerie (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_SPORESHROOM_LV3_SUCCEED_CONTENT]
@@ -33961,7 +33961,7 @@ Nachweis des Abschlusses von Penny Aufnahmeprüfung
 [PENNYCLASS_SECOND]
 Master of Botany
 
-[PENNYCLASS_ SECOND_HEAD_ID_25350]
+[PENNYCLASS_SECOND_HEAD_ID_25350]
 Master of Plants
 
 [PENNYCLASS_SECOND_HEAD_DES_ID_25350]
@@ -38242,7 +38242,7 @@ Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernsc
 [STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON]
 Spuckt zwei große Blitze hintereinander aus, der Schaden wird erhöht.
 
-[STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON_TITLE ]
+[STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON_TITLE]
 Donnerdrachengras Kostüm
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL1]
@@ -38268,6 +38268,7 @@ Erd-Startsilo
 
 [NUKELAUNCHER_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Graue Pflanze, Waffengewächse
+
 {FLAVOR} Der Silo sieht sehr klein aus, und andere Pflanzen halten ihn für kleinwüchsig. Der Silo fühlt sich jedoch ungerecht behandelt, da ein Großteil seiner Höhe noch im Boden steckt!
 
 [NUKELAUNCHER_DESCRIPTION_HEADER]
@@ -38450,7 +38451,9 @@ Imperidium
 
 [IMPATIENSSHOOTER_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale:{STAT}grüne Pflanze
+
 {FLAVOR} Beschreibung von Impatiens
+
 [IMPATIENSSHOOTER_DESCRIPTION_HEADER]
 Beschreibung von Impatiens 2
 
@@ -38536,6 +38539,7 @@ Tupistra Agent
 
 [TUPISTRASTALKER_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR}Der Tupistra Agent gilt in der Ninja-Welt als Spitzenspieler, doch alle sagen, dass Eggplant Ninja besser ist als Stealth Arrow. Stealth Arrow kümmert das nicht, da er die Kampfstile beider Seiten für unterschiedlich hält. Er zieht es vor, sich zu seiner eigenen Sicherheit im Schatten zu verstecken.
 
 [TUPISTRASTALKER_DESCRIPTION_HEADER]
@@ -38579,6 +38583,7 @@ Chefkoch Cypripedium
 
 [CYPRIPEDIUM_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze
+
 {FLAVOR}Der Chefkoch Cypripedium war einst ein Spitzenkoch und kochte köstliche Suppen, bis er eines Tages auf ein neues Kochbuch stieß: „Die Essenz der Küche von Moo Moo City“. Er betrachtete es als heiliges Buch und seine Kochkünste führten zu unerwarteten Ergebnissen.
 
 [CYPRIPEDIUM_DESCRIPTION_HEADER]
@@ -38622,6 +38627,7 @@ Schleudererbse
 
 [SLINGPEA_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze, Hülsenfrüchtler
+
 {FLAVOR}Die Schleudererbse behält das gesamte Schlachtfeld im Blick. Eine wirklich aufmerksame Vertreterin ihrer Art. „Wenn hier wer durchkommt, wäre das meine Schuld“, sagt sie. „Das könnte ich mir nie verzeihen.“
 
 [SLINGPEA_DESCRIPTION_HEADER]
@@ -38666,6 +38672,7 @@ Tulpen Trompeter
 [TULIPTRUMPETER_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT}Wenn sich keine Zombies in einer bestimmten Entfernung befinden, ist er im Angriffsmodus. Nähern sich Zombies, wechselt er in den Heilungsmodus, der Angriff und Verteidigung ermöglicht.
 {KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze, gelbe Pflanzen.
+
 {FLAVOR} Im Leben ist Tulip Trumpeter sanft und elegant, doch sobald er auf der Bühne steht, wird er extrem leidenschaftlich. Seine gespaltene Persönlichkeit lässt ihn andere lieben und hassen. Man sagt oft: Er ist ein schwer zu durchschauender Typ.
 
 [TULIPTRUMPETER_DESCRIPTION_HEADER]
@@ -38750,6 +38757,7 @@ Eisige-Johannisbeere
 [ICYCURRANT_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Zwischen zwei Eisjohannisbeeren in derselben Reihe oder Spalte bildet sich Eisboden.
 {KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze, gefroren.
+
 {FLAVOR} Die Eisigen-johannisbeeren leben in Gebieten mit Temperaturen von ganzjährig minus 30 Grad Celsius und unterhalten sich oft mit Hagelzucker-Erbsen. Eines Tages nieste eine Eisige-johannisbeere plötzlich und sagte: „Es ist so kalt heute."
 
 [ICYCURRANT_DESCRIPTION_HEADER]
@@ -38953,6 +38961,7 @@ Wicht-Birne
 
 [IMPPEAR_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Kleinwüchsig
+
 {FLAVOR}Die Wicht-Birne stellt für Zombies eine echte Behinderung dar. "Behinderung" soll man laut der Wicht-Birne eigentlich nicht sagen. Aber wen interessiert's?
 
 [IMPPEAR_DESCRIPTION_HEADER]
@@ -38998,6 +39007,7 @@ Olive
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
 
 {FLAVOR} Olive stammte aus dem Mittelmeerraum und begab sich in ein geheimnisvolles Land, um Kochkünste zu erlernen. Er beherrschte die Kunst des Wokdrehens: Etwas Öl in den Wok geben, den Wok zweimal umdrehen, und schon steht der ganze Wok voller Flammen – ein echter Hingucker.
+
 [OLIVE_DESCRIPTION_HEADER]
 Kann Ballett-Zombies ausrutschen lassen, und das produzierte Öl kann auch durch Angriffe von Feuerpflanzen entzündet werden.
 
@@ -39061,6 +39071,7 @@ Reiherblumen-Kämpfer
 
 [EGRETFLOWER_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Weiße Pflanze
+
 {FLAVOR} Der Reiherblumen-Kämpfer ist ein einsamer und arroganter Charakter, den man nie lächeln sieht. Natürlich kann man auch verstehen, dass er vorgibt, cool zu sein, denn tatsächlich tut er es.
 
 [EGRETFLOWER_DESCRIPTION_HEADER]
@@ -39270,6 +39281,7 @@ Lanzen-Wachsblume
 
 [LANCERHOYA_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR}Die Lanzen-Wachsblume, auch Lanzen-Hoya genannt, ist sehr geübt im Umgang mit Speeren und kann selbst bewegliche Ziele, wie z. B. fliehende Zombies und Fliegen, welche ihm ins Gesicht fliegen, präzise treffen.
 
 [LANCERHOYA_DESCRIPTION_HEADER]
@@ -39313,6 +39325,7 @@ Abyssische Anemone
 
 [CTHULHUACTINIA_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanzen
+
 {FLAVOR}Niemand weiß, woher sie kommen, und niemand weiß, was sie sind. Die Zombies, die ihr Gemurmel hörten, drehten durch.
 
 [CTHULHUACTINIA_DESCRIPTION_HEADER]
@@ -39403,6 +39416,7 @@ Wachpilz
 
 [GUARDSHROOM_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} Lila Pflanze, wächst
+
 {FLAVOR}Was haben 3,154e+13 und der Wachpilz gemeinsam? Nun, als Dave Penny bat, die Wachpilze zu zählen, verschwand Penny gute vier Stunden im Keller und kehrte mit dieser Zahl zurück. Penny ist felsenfest davon überzeugt, dass sie stimmt – und verbietet allen anderen, selbst da runter zu gehen.
 
 [GUARDSHROOM_DESCRIPTION_HEADER]
@@ -39471,6 +39485,7 @@ Fächerherzorchidee
 
 [HOYACORDATA_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze
+
 {FLAVOR}Nach dem Konzert der Sonnenblumensängerin war die Herzorchidee tief bewegt und beschloss, dieses Idol für den Rest ihres Lebens zu unterstützen. Sie hat jedoch vergessen, wie oft ihr das schon passiert ist.
 
 [HOYACORDATA_DESCRIPTION_HEADER]
@@ -39488,7 +39503,7 @@ Unterstütze eine Pflanze vor dir, erhöhe ihre Angriffskraft und stelle Gesundh
 [STORE_PRODUCT_AVATAR_HOYACORDATA]
 Alle Pflanzen mit ultimativen Effekten haben eine 50%ige Chance, direkt Spezialdünger-Fähigkeitn freizusetzen. Es können jedoch maximal 2 ausgelöst werden.
 
-[STORE_PRODUCT_ AVATAR_HOYACORDATA_TITLE]
+[STORE_PRODUCT_AVATAR_HOYACORDATA_TITLE]
 Fan Heart Ye Lan Kostüm
 
 [HOYACORDATA_SKILL_LEVEL1]
@@ -39537,6 +39552,7 @@ Erbsenranke
 {KEYWORD}Reichweite: {STAT}Einzelreihe vorne
 {KEYWORD}Merkmale: {STAT}Chance, Erbsengeschosse von darüber gepflanzten Erbsenpflanzen abzufeuern
 {KEYWORD}Pflanzenmerkmale: {STAT}grüne Pflanze, Erbsengewächse
+
 {FLAVOR} Die Erbsenrebe wurde zur Lehrlingin der Aubergine und lernte die Fähigkeit zur Nachahmung. Da sie sich jedoch bückte, um einen Radiergummi aufzuheben, lernte sie die Fähigkeit nicht vollständig und nur zur Hälfte. Sie konnte Handlungen nachahmen, aber nicht das Aussehen.
 
 [PEAVINE_DESCRIPTION_HEADER]
@@ -39668,6 +39684,7 @@ Rapsblumenkrug
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Funktionen: {STAT}Wirft Ölkugeln, die Zombies in Brand setzen und Feuersäulen auf den entzündeten Zombies erzeugen.
 {KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze voller Wut.
+
 {FLAVOR}Der Rapsblumenkrug liebt es seit seiner Kindheit, brennende Flammen anzustarren, und die Flammen in seinen Augen verwandelten sich allmählich in Flammen in seinen Händen. „Brennen ist Kunst!“ Das ist sein Motto.
 
 [RAPEFLOWER_DESCRIPTION_HEADER]
@@ -39734,6 +39751,7 @@ Dracaena scabra
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Eigenschaften: {STAT}Sendet Schwertenergie aus, um Zombies anzugreifen. Das fliegende Schwert kann Zombies mit einer bestimmten Lebensmenge sofort töten.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR}„Hey! Ha!“, Dracaena scabra wedelte mit dem langen Schwert in seiner Hand und war in diesem Moment überglücklich. Schließlich kann keine Pflanze langen, geraden Zweigen widerstehen.
 
 [DRACAENA_DESCRIPTION_HEADER]
@@ -40068,6 +40086,7 @@ Scheiterranke
 {KEYWORD}Reichweite: {STAT}2 Blöcke vorn
 {KEYWORD}Eigenschaften: {STAT}Spritzt Flammen, um Zombies kontinuierlich anzugreifen
 {KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanze
+
 {FLAVOR} Die Scheiterranke denkt an seinem Besitz, seinem Reichtum und seinem enormen Reichtum. Er glaubt, dass ihn das glücklich machen sollte, doch trotzdem ist er ängstlich und verängstigt.
 
 [PYREVINE_DESCRIPTION_HEADER]
@@ -40203,6 +40222,7 @@ Gieriges Drachengras
 {KEYWORD}Reichweite: {STAT}1 Gitter vorn oder 3×3
 {KEYWORD}Funktionen: {STAT}Isst Snacks oder nagt Zombies, um Energie zu sammeln, und verbraucht dann Energie, um Flammen zu spucken.
 {KEYWORD}Pflanzenfunktionen: {STAT}Grüne Pflanze
+
 {FLAVOR} Als fünfte Pflanze der Drachengrasfamilie hat das Gierige Drachengras einen unglaublichen Appetit. Von Snacks ganz zu schweigen – selbst ein Haufen Zombies ist kein Problem.
 
 [GLUTTONYDRAGON_DESCRIPTION_HEADER]
@@ -40214,7 +40234,7 @@ Iss Snacks oder nage Zombies, um Energie zu sammeln, und verbrauche dann Energie
 [GLUTTONYDRAGON_PRODUCT_SHORT_DESC]
 Iss Snacks oder nage Zombies, um Energie zu sammeln, und verbrauche dann Energie, um Flammen zu spucken.
 
-[GLUTTONYDRAGON_ NYDRAGON_SKILL_LEVEL1]
+[GLUTTONYDRAGON_SKILL_LEVEL1]
 Feuerverbesserung
 
 [GLUTTONYDRAGON_SKILL_LEVEL1_DES]
@@ -40346,6 +40366,7 @@ Zitterschale
 {KEYWORD}Reichweite: {STAT}4 Blöcke voraus
 {KEYWORD}Funktionen: {STAT}Löst den Zitteraal aus, um vorwärts zu gehen und Zombies zu schocken.
 {KEYWORD}Pflanzenfunktionen: {STAT}Gelbe Pflanze
+
 {FLAVOR}Die Zitterschale ist ruhig und gelassen und lässt niemanden an ihre Kostümung heran – und das aus gutem Grund. Es stellt sich heraus, dass sie die Menschen in ihrer Umgebung vor ihrer Kostümung schützt. Auf die Frage, ob sie meine Kostümung nicht anfassen soll, antwortete die Zitterschale: „Fass meine Kostümung nicht an, das wird dir nicht gefallen!“, während sie ein summendes elektrisches Geräusch von sich gab und vorsichtig sprach.
 
 [ELECTRICPEEL_DESCRIPTION_HEADER]
@@ -40412,6 +40433,7 @@ Dornzauberer
 {KEYWORD}Reichweite: {STAT}1 Reihe voraus
 {KEYWORD}Eigenschaften: {STAT}Verwendet Dornen, um Zombies zu verwickeln oder zu durchbohren, was sie nach dem Angriff vergiften kann.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze; geheimnisvoller Zauberer
+
 {FLAVOR}Der Dornzauberer kann seine einzigartige magische Kraft nutzen, um Dornen zu kontrollieren und Zombies zu verwickeln. Die scharfen und giftigen Dornen können Zombies bewegungsunfähig machen. Doch niemand ahnt, dass er einfach nur schüchterner ist als sein jüngerer Bruder, der schüchterne Dorn. Er wollte den Zombies nicht direkt gegenübertreten und musste daher den Zauber lernen, um sie von sich fernzuhalten.
 
 [WIZARDTHORNS_DESCRIPTION_HEADER]
@@ -40469,7 +40491,6 @@ Die Dornenhexe wurde verbessert. Sie greift weiterhin an, während sie Zombies e
 [WIZARDTHORNS_PLANTFOOD_DESCRIPTION]
 Der Dornenmagier beschwört einen magischen Kreis und beschwört drei Bündel großer Dornen parallel auf dem rechten Gitter, die sich vier Gitter nach rechts bewegen und allen eindringenden Zombies Schaden zufügen. Jedes Dornenbündel kann zwei Dornenwicklungen mit der gleichen Wirkung wie normale Angriffe auslösen. Nach dem Ausführen des ultimativen Zuges endet der Rest sofort.
 
-
 [WIZARDTHORNS_AVATAR_PLANTFOOD_DESCRIPTION]
 Der Dornenmagier beschwört einen magischen Kreis und beschwört fünf Bündel großer Dornen parallel auf dem rechten Gitter, die sich vier Gitter nach rechts bewegen und allen eindringenden Zombies Schaden zufügen. Jedes Dornenbündel kann zwei Dornenwicklungen mit der gleichen Wirkung wie normale Angriffe auslösen. Nach dem Ausführen des ultimativen Zuges endet der Rest sofort.
 
@@ -40480,6 +40501,7 @@ Blattlose Riemenblume
 {KEYWORD}Reichweite: {STAT}Gesamtes Feld
 {KEYWORD}Merkmale: {STAT}Zombie bezaubern und andere Zombies in der Nähe betäuben
 {KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze
+
 {FLAVOR}Wenn Pflanzen ihr gegenüberstehen, wissen sie immer nicht, womit sie sprechen. Deshalb ist die Blattlose Riemenblume immer verärgert: „Warum können sie meine Identität nicht immer herausfinden? Ich bin eine Pflanze, und die Pflanze ist ich. Mein ganzes Ich bin eine Pflanze, und die ganze Pflanze ist mein ganzes Ich.“ Die parasitäre Blattlose Riemenblume hat in diesem Moment eine perfekte private Überlebensphilosophie entwickelt. Vielleicht hat sie vergessen, ob es so etwas wie „ursprüngliches Aussehen“ gibt.
 
 [TRISTERIXAPHYLLUS_DESCRIPTION_HEADER]
@@ -40546,6 +40568,7 @@ Kettensägen Burmannii
 {KEYWORD}Reichweite: {STAT}Ein Kreis
 {KEYWORD}Eigenschaften: {STAT}Wirft einen Bumerang, der sich um sich selbst dreht und umstehende Zombies angreift
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR}Kettensägen Burmannii war seit seiner Kindheit gut in Kreisbewegungen und dachte naiverweise, dass ihn das zu einem Physikgenie machen würde. Doch als Erwachsener nutzte er dieses Talent und gewann mehrere Jo-Jo-Weltmeisterschaften.
 
 [CHAINSAWBURMANNII_DESCRIPTION_HEADER]
@@ -40613,6 +40636,7 @@ Elektrisches Gelsemium
 {KEYWORD}Reichweite: {STAT}Der gesamte Rasen.
 {KEYWORD}Eigenschaften: {STAT}Beeinflusst die Reichweite und verursacht elektrischen Schaden.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze.
+
 {FLAVOR}Das Elektrisches Gelsemium hat die Hälfte seiner Phytohora-Blutlinie. Vielleicht hat es deshalb die Giftwirkung aufgegeben und sich der Elektrotechnik zugewandt.
 
 [WIREGELSEMIUM_DESCRIPTION_HEADER]
@@ -40679,6 +40703,7 @@ Krachenfrucht
 {KEYWORD}Reichweite: {STAT} Die drei Reihen oberhalb, Mitte und unterhalb des Spielers.
 {KEYWORD}Funktionen: {STAT} Wirft einen Zombie, wenn sich einer davor befindet, und nimmt eine Schattengestalt an, wenn Mondblumen in der Nähe sind.
 {KEYWORD}Pflanzenfunktionen: {STAT} Rote Pflanze, Schattenpflanzen
+
 {FLAVOR}Die Köpfe der Krachenfrucht haben zwar keine eigenen Namen, aber durchaus ihre eigene Persönlichkeit. Der in der Mitte ist der Ruhige, Vernünftige. Der links etwas schüchtern und distanziert. Und der rechte ist ... tja ... ziemlich rechthaberisch.
 
 [DRAGONBRUIT_DESCRIPTION_HEADER]
@@ -40812,6 +40837,7 @@ Elektrische Adlerklauenblume
 {KEYWORD}Reichweite: {STAT}Eine Reihe
 {KEYWORD}Eigenschaften: {STAT}Kondensierte Blitzbälle, die Zombies kontinuierlich schocken
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze
+
 {FLAVOR}„Zi…Zi…Zi…“ Die Adlerklauenblume strahlt elektrisches Licht am ganzen Körper aus: „Lasst die Zombies den Geschmack von Elektroschocks schmecken.“
 
 [EAGLECLAW_DESCRIPTION_HEADER]
@@ -40985,7 +41011,7 @@ Sonne-und-Mond-Geißblatt-Kostüm
 [TWINSHONEYSUCKLE_AVATAR_NAME]
 Sonne-und-Mond-Geißblatt-Kostüm
 
-[ STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE]
+[STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE]
 Nach der Explosion werden so viele rote und blaue Sterne wie beim normalen Angriff erzeugt.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL1_DES]
@@ -43454,7 +43480,7 @@ Schießt einen Schwerkraftball ab, der kleine und mittlere Zombies nach der Expl
 [ORCHIDMAGE_SKILL_LEVEL1]
 Schwerkraftbindung
 
-[ORCHIDMAGE_SKILL_ LEVEL1_DES]
+[ORCHIDMAGE_SKILL_LEVEL1_DES]
 15% Chance, bei kleinen und mittleren Zombies einen Schwerkraftbindungseffekt auszulösen.
 
 [ORCHIDMAGE_SKILL_LEVEL2]
@@ -44106,7 +44132,7 @@ Countdown zur Produktaktualisierung
 [SHOP_REFRESH_LABEL]
 Countdown zur Aktualisierung
 
-[SHOP_REFRESH_COUNTDOWN_ LABEL]
+[SHOP_REFRESH_COUNTDOWN_LABEL]
 Countdown zur Shop-Zurücksetzung
 
 [SECRET_MIDDLE_STR]
@@ -44564,7 +44590,7 @@ Aktivitätszeit: {NUM1} Monat {NUM2} Tag - {NUM3} Monat {NUM4} Tag
 [PVZ_FESTIVAL_GAME_TIME]
 1. Juni 2019 - 14. Juni 2019
 
-[PVZ_FESTIVAL_GAME_ TIME_LEFT]
+[PVZ_FESTIVAL_GAME_TIME_LEFT]
 {NUM1} Tage
 
 [PVZ_FESTIVAL_GAME_TIME_LEFT_HOURS]
@@ -50182,7 +50208,7 @@ Storch-Fechter-Geschenkpaket
 [PRODUCT_GIFT_FOR_RETURN8_SHORTDESC]
 Tiger Pilz-Geschenkpaket
 
-[ PRODUCT_GIFT_FOR_RETURN9_SHORTDESC]
+[PRODUCT_GIFT_FOR_RETURN9_SHORTDESC]
 Burgunder Meteorhammer-Geschenkpaket
 
 [PRODUCT_GIFT_FOR_RETURN10_SHORTDESC]
@@ -50518,7 +50544,7 @@ Teilnehmer der zeitlich begrenzten Beschwörung
 [TIME_SUMMON_HEAD_DES_ID_25377]
 An alle Spieler, die im zeitlich begrenzten Beschwörungs-Event eine Rangliste erreicht haben
 
-[TIME_ SUMMON_HEAD_ID_25378]
+[TIME_SUMMON_HEAD_ID_25378]
 Teilnehmer der zeitlich begrenzten Beschwörung
 
 [TIME_SUMMON_HEAD_DES_ID_25378]
@@ -52367,7 +52393,7 @@ Eisschaden um 15% erhöht
 [NEW_AVATAR_SHORT_DESCRIPTION_CITRON_1]
 Yuzu-Eisbecherhut
 
-[NEW_AVATAR_ DESCRIPTION_CITRON]
+[NEW_AVATAR_DESCRIPTION_CITRON]
 Erhöht die Angriffskraft um 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AKEE_1]
@@ -52745,7 +52771,7 @@ Reduziert den Sonnenlichtverbrauch um 50
 [NEW_AVATAR_SHORT_DESCRIPTION_TALLNUT_2]
 Tall Nut 1. Juni Outfit
 
-[NEW_AVATAR_DESCRIPTION_ TALLNUT_2]
+[NEW_AVATAR_DESCRIPTION_TALLNUT_2]
 Fertigkeitsschaden um 100 erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_2]
@@ -52760,7 +52786,7 @@ Tigerpilz-Wachstumskostüm
 [NEW_AVATAR_DESCRIPTION_TIGERSTOOL_1]
 Ruhezeit reduziert um 10%
 
-[NEW_AVATAR_ SHORT_DESCRIPTION_EGGPLANTNINJA_2]
+[NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_2]
 Auberginen-Ninja Wachstumskostüm
 
 [NEW_AVATAR_DESCRIPTION_EGGPLANTNINJA_2]
@@ -52979,7 +53005,7 @@ Wachstumskostüm des Rekonvaleszenten-Chemikers
 [NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_1]
 Pflanzenangriffskraft um 10% erhöht
 
-[NEW_AVATAR_SHORT_DESCRIPTION_ BEARBERRY_2]
+[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_2]
 Bärentraubenmörser Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BEARBERRY_2]
@@ -53847,7 +53873,7 @@ Zeitpunkt, zu dem der Kampf beginnt und die erste Zombiewelle erscheint
 [MUTATOR_MAX_SUN]
 Sonnenlichtspeicher
 
-[ MUTATOR_MAX_SUN_DESC]
+[MUTATOR_MAX_SUN_DESC]
 Maximale Sonnenmenge die im Kampf gespeichert werden können
 
 [MUTATOR_MOWERS]
@@ -54779,7 +54805,7 @@ Stein-Liga freischalten
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_3]
 Eiserne Liga freischalten
 
-[RIFTA_SHOP_ ITEM_LOCK_DESCRIPTION_4]
+[RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_4]
 Bronze-Liga-Freischaltung
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_5]
@@ -55660,7 +55686,7 @@ Silberschlüssel-Artefakt
 [ARTIFACT_SILVERKEY_DESCRIPTION]
 Öffne das Tor der Wahrheit, um den Feind zu absorbieren.
 
-[ARTIFACT_ SILVERKEY_SKILL_1]
+[ARTIFACT_SILVERKEY_SKILL_1]
 Tür der Wahrheit
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_1]
@@ -55669,7 +55695,7 @@ Aktiv einsetzen: Wähle ein Gitter zum Freigeben aus, beschwöre die Tür der Wa
 [ARTIFACT_SILVERKEY_SKILL_2]
 Abgrundverstärkung
 
-[ARTIFACT_ SILVERKEY_SKILL_DESCRIPTION_2]
+[ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_2]
 Passiver Effekt: Erhöht Angriff und Verteidigung. Attribute von Abgrundpflanzen um {PassiveField1_1}%
 
 [ARTIFACT_SILVERKEY_SKILL_3]
@@ -55735,7 +55761,7 @@ Erhöht den Feuerschaden von Meteoriten. Ab Stufe 10 wird es zu blauem Feuer und
 [ARTIFACT_METEOR_SKILL_3]
 Meteoritenabwurf
 
-[ARTIFACT_ METEOR_SKILL_DESCRIPTION_3]
+[ARTIFACT_METEOR_SKILL_DESCRIPTION_3]
 Alle {PassiveField2_1} Sekunden fällt zufällig ein Meteorit in ein 5×5-großes Zombie-Raster auf der rechten Kartenseite.
 
 [ARTIFACT_METEOR_SKILL_4]
@@ -55831,7 +55857,7 @@ Alle {PassiveField2_1} Sekunden werden die drei kleinen und mittleren Zombies li
 [ARTIFACT_MIDASTOUCH_SKILL_4]
 Riesenalchemie
 
-[ARTIFACT_MIDASTOUCH_SKILL_ DESCRIPTION_4]
+[ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_4]
 Der Goldeffekt wirkt jetzt auch auf Gargantuas, aber die Zeit wird halbiert. Riesige Zombies lassen 1600 Goldmünzen fallen, wenn sie innerhalb der Zeit sterben.
 
 [ARTIFACT_ACID]
@@ -57563,7 +57589,7 @@ Spezialstatuenpaket kaufen
 [PRODUCT_EASTER_EGG_01_SHORTDESC]
 Spezialstatuenpaket
 
-[PRODUCT_EASTER_EGG_ 02]
+[PRODUCT_EASTER_EGG_02]
 Kleines Statuenpaket kaufen
 
 [PRODUCT_EASTER_EGG_02_SHORTDESC]
@@ -61144,7 +61170,7 @@ Elite-Zombie-Angriff
 [S10_MEMORY_LEVEL_NAME_037]
 Donnergott-Brut 1
 
-[S10_MEMORY_LEVEL_NAME_ 038]
+[S10_MEMORY_LEVEL_NAME_038]
 Thors Brut 2
 
 [S10_MEMORY_LEVEL_NAME_039]
@@ -61384,7 +61410,7 @@ Schönes Wetter 3
 [S11_MEMORY_LEVEL_NAME_032]
 Elite-Zombies kommen
 
-[S11_MEMORY_LEVEL_NAME_ 033]
+[S11_MEMORY_LEVEL_NAME_033]
 Zombie-Experte 1
 
 [S11_MEMORY_LEVEL_NAME_034]
@@ -61960,7 +61986,7 @@ Sterne beobachten
 [S13_MEMORY_LEVEL_NAME_061]
 Power Boy II Typ 1
 
-[S13_ MEMORY_LEVEL_NAME_062]
+[S13_MEMORY_LEVEL_NAME_062]
 Power Boy II Typ 2
 
 [S13_MEMORY_LEVEL_NAME_063]
@@ -62198,7 +62224,7 @@ Sandsturm-Sprint 3
 [S14_MEMORY_LEVEL_NAME_040]
 Elite-Zombie Angriff
 
-[S14_MEMORY_LEVEL_NAME_ 041]
+[S14_MEMORY_LEVEL_NAME_041]
 Zukunftstechnologie 1
 
 [S14_MEMORY_LEVEL_NAME_042]
@@ -62555,7 +62581,7 @@ Horrorschleim
 [S24_MEMORY_LEVEL_NAME_15]
 Sternenbeobachtung
 
-[S24_MEMORY_LEVEL_NAME_ 16]
+[S24_MEMORY_LEVEL_NAME_16]
 Elite-Zombies greifen an
 
 [S25_MEMORY_LEVEL_NAME_1]
@@ -62831,7 +62857,7 @@ Tag 6 der Reise der Erinnerungen (Schwierigkeit)
 [MEMORY_LEVEL_NAME_07_H]
 Tag 7 der Erinnerungsreise (Schwierigkeit)
 
-[MEMORY_LEVEL_NAME_ 08_H]
+[MEMORY_LEVEL_NAME_08_H]
 Erinnerungsreise (Schwierig) Tag 8
 
 [MEMORY_LEVEL_NAME_09_H]
@@ -63167,7 +63193,7 @@ Wenn du näher kommst, schmilzt du
 [S9_MEMORY_LEVEL_NAME_016_H]
 Huhn und Ball
 
-[S10_ MEMORY_LEVEL_NAME_001_H]
+[S10_MEMORY_LEVEL_NAME_001_H]
 Zombies rennen Schnell
 
 [S10_MEMORY_LEVEL_NAME_002_H]
@@ -63206,7 +63232,7 @@ Das alte Land ist heute neu.
 [S10_MEMORY_LEVEL_NAME_013_H]
 Das Jahr endet mit dem Klang von Feuerwerkskörpern.
 
-[S10_MEMORY_LEVEL_NAME_014_ H]
+[S10_MEMORY_LEVEL_NAME_014_H]
 Die Frühlingsbrise bringt Wärme nach Tusu.
 
 [S10_MEMORY_LEVEL_NAME_015_H]
@@ -63344,7 +63370,7 @@ Zitarous Sommer
 [S13_MEMORY_LEVEL_NAME_007_H]
 Zitarou im Sommer
 
-[S13_MEMORY_LEVEL_NAME_ 008_H]
+[S13_MEMORY_LEVEL_NAME_008_H]
 Die Nacht der lebenden Toten
 
 [S13_MEMORY_LEVEL_NAME_009_H]
@@ -63365,7 +63391,7 @@ Zombies lösen sich nicht in Wasser auf
 [S13_MEMORY_LEVEL_NAME_014_H]
 Korallen-Zombie-Meer
 
-[S13_MEMORY_LEVEL_NAME_ 015_H]
+[S13_MEMORY_LEVEL_NAME_015_H]
 Stromschnellen reiten
 
 [S13_MEMORY_LEVEL_NAME_016_H]
@@ -66095,7 +66121,7 @@ Ein märchenhaftes Zombiespiel kommt.
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_SHIELD]
 Magischer Nebel
 
-[PVZ2_UNCHARTED_MODE_ MODE_DESC_SHIELD]
+[PVZ2_UNCHARTED_MODE_MODE_DESC_SHIELD]
 Dieser seltsame Nebel kann Zombies einen mächtigen Schutzschild bieten. Vielleicht kann nur die Brise im Wald den Nebel vertreiben.
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CRUCIBLE]
@@ -67411,7 +67437,7 @@ Kann Pflanzen normaler Höhe direkt überfliegen. Das fliegende Fahrzeug bildet 
 [ZOMBIE_NEW_PVP_ROMAN_BALLISTA]
 Zkorpion-Zombie
 
-[ZOMBIE_NEW_PVP_ROMAN_BALLISTA_ DESCRIPTION_HEADER]
+[ZOMBIE_NEW_PVP_ROMAN_BALLISTA_DESCRIPTION_HEADER]
 Wirft eine Vase, um hohen schaden zu verursachen und Zombies erscheinen, nachdem die Vase fällt.
 
 [ZOMBIE_NEW_PVP_TUTORIAL_GARGANTUAR]
@@ -67987,7 +68013,7 @@ Setze 250 Zombies ein.
 [NEW_PVP_TASK_NAME_2_9]
 Pflanze 40 Pflanzen der Stufe 5.
 
-[NEW_ PVP_TASK_NAME_2_10]
+[NEW_PVP_TASK_NAME_2_10]
 Setze 75 beschleunigte Zombies ein.
 
 [NEW_PVP_TASK_NAME_2_11]
@@ -68255,7 +68281,7 @@ Bereit
 [NEW_PVP_FREE_TO_PLAY_PLANT_EDIT_CONFIRM]
 Aufstellung speichern
 
-[NEW_ PVP_FREE_TO_PLAY_JOIN_CONFIRM]
+[NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]
 Treten Sie bei Raum
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_TITLE]
@@ -68418,7 +68444,7 @@ Kostüme anzeigen
 [NEW_PLANT_UI_VALUE_AVATAR_DES_LABEL_TEXT]
 Kostümbonus
 
-[NEW_PLANT_UI_ VALUE_AVATAR_DES_TEXT_DEFAULT]
+[NEW_PLANT_UI_VALUE_AVATAR_DES_TEXT_DEFAULT]
 Kein Kostümbonus
 
 [NEW_PLANT_UI_VALUE_ACCESSORY_BTN_TEXT]
@@ -69619,7 +69645,7 @@ Brennen
 [S25_MEMORY_LEVEL_NAME_13]
 Warmer Schnee in der Dämmerung
 
-[S25_MEMORY_LEVEL_NAME_ 14]
+[S25_MEMORY_LEVEL_NAME_14]
 Nachts liegen und Wind und Regen lauschen
 
 [S25_MEMORY_LEVEL_NAME_15]
@@ -69694,7 +69720,7 @@ Wasserschlachten
 [S25_MEMORY_LEVEL_NAME_020]
 Kleine Zombies, große Probleme
 
-[S25_MEMORY_LEVEL_NAME_ 021]
+[S25_MEMORY_LEVEL_NAME_021]
 Die Sommernacht beginnt
 
 [S25_MEMORY_LEVEL_NAME_022]
@@ -70093,7 +70119,7 @@ Das Tragen von Fernbedienungspflanzen ist verboten.
 
 [WARRIOR_DISABLE_PLANT_DIFFICULTY_2]
 Vorhutverbot (2 Sterne)
-[WARRIOR_DISABLE_PLANT_DIFFICULTY_2_ DESCRIPTION]
+[WARRIOR_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
 Keine Pionierpflanzen erlaubt
 
 [SUPPORTER_DISABLE_PLANT_DIFFICULTY_2]
@@ -74924,7 +74950,7 @@ Einladung teilen und kopieren Code
 [INVATATION_TAB2_TEXT]
 Nur neu erstellte Accounts während des Events können den Einladungscode eingeben.
 
-[INVATATION_TAB1_RECODE] RD]
+[INVATATION_TAB1_RECODE]
 Einladungsdatensatz
 
 [INVATATION_GRADE_TASK_NAME_1_1]
@@ -75448,7 +75474,7 @@ Keine Abklingzeit für die erste Pflanzung beim Tragen dieses Artefakts
 [PRODUCT_PARTYASSIST_TREASURE_BOWL]
 Gruppen-Unterstützungspaket
 
-[PRODUCT_PARTYASSIST_TREASURE_ BOWL_6_SHORTDESC]
+[PRODUCT_PARTYASSIST_TREASURE_BOWL_6_SHORTDESC]
 Erstunterstützungspaket
 
 [PRODUCT_PARTYASSIST_TREASURE_BOWL_30_SHORTDESC]
@@ -77239,7 +77265,7 @@ Aktivitätszeit
 [PLANTWARS_MODE_HOW_TO_PLAY_2]
 Zombie-Einträge
 
-[PLANTWARS_MODE_HOW_TO_ PLAY_3]
+[PLANTWARS_MODE_HOW_TO_PLAY_3]
 Todesgrabstein
 
 [PLANTWARS_MODE_HOW_TO_PLAY_4]
@@ -77372,7 +77398,7 @@ Ziehungsprotokoll
 [AUTUMN_HARVEST_REWARD_PLAYER_TITLE]
 Gewinnerliste
 
-[ PRODUCT_AUTUMN_HARVEST_6_SHORTDESC]
+[PRODUCT_AUTUMN_HARVEST_6_SHORTDESC]
 Farmkrieg-Hauptgeschenk Paket
 
 [PRODUCT_AUTUMN_HARVEST_30_SHORTDESC]
@@ -77994,7 +78020,7 @@ Erhältlich bei verschiedenen Lageraktivitäten
 15 Super-Anhängerfragmente deiner Wahl
 [MAT_BATTLE_ORDER_SUPER_ACCE1_USE]
 Nutze die Belohnungen deiner Wahl und erhalte sie
-[MAT_ BATTLE_ORDER_SUPER_ACCE1_GOT_WAY]
+[MAT_BATTLE_ORDER_SUPER_ACCE1_GOT_WAY]
 Erhältlich bei verschiedenen Lageraktivitäten
 
 [MAT_BATTLE_ORDER_GREEN_PLANT0]
@@ -78524,7 +78550,7 @@ Erreichen Sie während des Festgeschenkpaket-Events den kumulierten Aufladeforts
 [NEWYEAR_GIFT_HEAD_DES_ID_25675]
 Erreiche während des Festgeschenkpaket-Events den kumulativen Aufladefortschritt, um es zu erhalten.
 
-[NEWYEAR_GIFT_ HEAD_ID_25695]
+[NEWYEAR_GIFT_HEAD_ID_25695]
 General des Rolling Curtain
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25695]
@@ -78728,7 +78754,7 @@ Neun Farben steigen herab
 [TOYS_HEAD_ID_25649]
 Neun Farben steigen herab
 
-[ AD_DES_ID_25648]
+[AD_DES_ID_25648]
 Nehmen Sie am Event „National Style Nostalgia Tour“ teil, um Folgendes zu erhalten:
 
 [TOYS_HEAD_ID_25678]
