@@ -5070,7 +5070,7 @@ Schlangendämonen-Pechkraut-Kostüm
 Schlangendämonen-Pechkraut-Kostüm
 
 [STORE_PRODUCT_AVATAR_SARRACENIA]
-Der versteinernde Blick der ultimativen Fähigkeit hat eine größere fächerförmige Reichweite.
+Der versteinernde Blick der Spezialdünger-Fähigkeit hat eine größere fächerförmige Reichweite.
 
 [SARRACENIA_NEW_SKILL_LEVEL1_DES]
 Schlangengeister werden alle 3 Sekunden abgefeuert, um Zombies Schaden zuzufügen. Wenn der Schlangengeist giftige Pflanzen durchdringt, vergiftet er die Zombies und verursacht 5 Sekunden lang den Status „vergiftet Ⅰ^oldclr^“ und 15 Schadenspunkte pro Sekunde. Er kann sich schlängeln, um andere Zombies anzugreifen. Je mehr giftige Pflanzen er durchdringt, desto mehr Angriffe stehen ihm zur Verfügung. Wenn die Pflanze vollständig aufgeladen ist, leuchtet ein grünes Licht. Nähert sich der Zombie, löst er automatisch die Versteinerung aus. Alternativ kann er durch Anklicken manuell ausgelöst werden. Dadurch verwandelt sich ein einzelner kleiner oder mittelgroßer Zombie unter Stufe 3 in eine Steinstatue mit 80% Lebenspunkten. Zombies, die nicht versteinert werden können, werden 5 Sekunden lang betäubt.
@@ -5148,7 +5148,7 @@ Elektrische Ranken haben eine 5%ige Chance, eine spezielle Projektil abzufeuern,
 Elektrische Ranken haben eine 10%ige Chance, ein Spezialgeschoss abzufeuern, das die darüberliegende elektrische Pflanze verstärkt. Wenn die Ranke verstärkt ist, feuert die Pflanze zwei Projektile ab.
 
 [POWERVINE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeitn-Move direkt auszuführen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [POWERVINE_NEW_SKILL_LEVEL5_DES]
 Nach jeweils zwei Angriffsrunden feuert die nächste Angriffsrunde ein zusätzliches violettes Lähmungsgeschoss ab, das den getroffenen Gegner 0,5 Sekunden lang lähmt.
@@ -9694,13 +9694,13 @@ Kiwifrucht dritter Stufe
 Drachenfrucht dritter Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_PUMPKINWITCH_LV3_SUCCEED_CONTENT]
-Kürbiszauberer dritter Stufe
+Kürbishexe dritter Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_PINEAPPLE_LV3_SUCCEED_CONTENT]
 Rotierende Ananas dritter Ordnung
 
 [GEMS_RESTORE_CODE_RECHARGE_PUMPKINWITCH_LV0_SUCCEED_CONTENT]
-Kürbiszauberer erster Ordnung plus Kostüm
+Kürbishexe erster Ordnung plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_PINEAPPLE_LV0_SUCCEED_CONTENT]
 Rotierendes Ananas-Plus-Kostüm der ersten Bestellung
@@ -11668,6 +11668,7 @@ Bambussprossen
 
 [BAMBOO_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze, kurz
+
 {FLAVOR}Bambussprossen lernten von Tu Xingsun die Flucht aus der Erde und erlangten nach unermüdlichem Einsatz schließlich den Titel eines Bachelors der „Bohrtechnik-Hochschule“.
 
 [BAMBOO_DESCRIPTION_HEADER]
@@ -11677,7 +11678,7 @@ Bewegen Sie sich unter die Erde und fügen Sie Zombies darüber Stichschaden zu.
 Speichern Sie Energie im Bohrer, starten Sie einen mächtigen Stichangriff und stoßen Sie Gegner weg.
 
 [BAMBOO_TOOLTIP]
-Bewegen Sie sich auf dem Boden hin und her und fügen Sie vorbeikommenden Zombies zwei Schadenspunkte zu.
+Bewegt sich auf dem Boden hin und her und fügt Zombies zwei Schaden zu.
 
 [PEACH]
 Feenpfirsisch
@@ -11702,16 +11703,17 @@ Weißer Rettich
 
 [TURNIP_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze
-{FLAVOR}Weißer Rettich lernt seit vielen Jahren Qigong, kannte aber immer nur eine Bewegung: bewegungslos.
+
+{FLAVOR}Der Weißer Rettich lernt seit vielen Jahren Qigong, kannte aber immer nur eine Bewegung: Die Bewegungslosigkeit.
 
 [TURNIP_DESCRIPTION_HEADER]
-Steh fest auf dem Boden und widerstehe den Zaubern der Qigong-Zombies und dem Verschlucken des Raum-Zeit-Schwarzen Lochs.
+Kann Qigong Zombie's und Schwarze Löcher daran aufhalten, Pflanzen zu ziehen.
 
 [TURNIP_PLANTFOOD]
-Verwandle dich in weitere weiße Radieschen.
+Verwandelt sich in weitere weiße Radieschen.
 
 [TURNIP_TOOLTIP]
-Steh fest auf dem Boden und widerstehe den Zaubern der Qigong-Zombies und dem Verschlucken des Raum-Zeit-Schwarzen Lochs.
+Kann Qigong Zombie's und Schwarze Löcher daran aufhalten, Pflanzen zu ziehen.
 
 [FIREGOURD]
 Feuerkürbis
@@ -11721,6 +11723,7 @@ Feuerkürbis
 {KEYWORD}Reichweite: {STAT}Gerade Linie
 {KEYWORD}Spezial: {STAT}Je länger die Ladezeit, desto stärker die Flammen, insbesondere gegen Waffenständer
 {KEYWORD}Pflanzeneigenschaften: {STAT}Gelbe Pflanze, voller Wut
+
 {FLAVOR}Der Feuerkürbis spielte ursprünglich nur eine kleine Nebenrolle im Akrobatikkurs. Seit er das Zombie-Schlachtfeld betritt, hat er seinen wahren Wert entdeckt.
 
 [FIREGOURD_DESCRIPTION_HEADER]
@@ -11730,7 +11733,7 @@ Nach dem Aufladen kann der Feuerkürbis Feuer spucken und so kontinuierlichen Fl
 Spucke Feuer in einer Reihe vor dir.
 
 [FIREGOURD_TOOLTIP]
-Klicke, um Feuer zu spucken und dich auszuruhen. Je länger du ruhst, desto stärker ist dein Feuerspuck.
+Klicke, um Feuer zu spucken. 
 
 [LOTUS]
 Daffodil
@@ -12397,7 +12400,7 @@ Die Spezialdünger-Fähigkeit spaltet eine zusätzliche Kartoffelmine.
 Die Spezialdünger-Fähigkeit spaltet eine zusätzliche Kartoffelmine.
 
 [STORE_PRODUCT_AVATAR_SNAPDRAGON]
-Die Angriffsreichweite der ultimativen Fähigkeit erhöht sich.
+Die Angriffsreichweite der Spezialdünger-Fähigkeit erhöht sich.
 
 [STORE_PRODUCT_AVATAR_BLOOMERANG]
 Die Spezialdünger-Fähigkeit schleudert einen riesigen Bumerang.
@@ -12526,7 +12529,7 @@ Die Spezialdünger-Fähigkeit kann deine Gesundheit vollständig wiederherstelle
 Die Spezialdünger-Fähigkeit kann Lotusblätter in einem Bereich von 3x3 erzeugen.
 
 [STORE_PRODUCT_AVATAR_BOWLINGBULB]
-Die von der ultimativen Fähigkeit abgefeuerten Projektile haben verschiedene elementare Eigenschaften.
+Die von der Spezialdünger-Fähigkeit abgefeuerten Projektile haben verschiedene elementare Eigenschaften.
 
 [STORE_PRODUCT_AVATAR_BANANA]
 Die Spezialdünger-Fähigkeit kann eine zusätzliche Banane mit großflächigem Schaden abfeuern.
@@ -12736,7 +12739,7 @@ Höschen
 Feuerkürbis-Outfit
 
 [STORE_PRODUCT_AVATAR_TURNIP_TITLE]
-Weißer Rettich-Outfit
+Weißer Rettich Kostüm
 
 [STORE_PRODUCT_AVATAR_CITRON_TITLE]
 Grapefruit-Kostüm
@@ -13681,7 +13684,7 @@ Erhöht die Wirkung der Giftverbesserung um 100%.
 Selbstverteidigung
 
 [TURNIP_SKILL1_LEVEL1_DES]
-Ermöglicht Weißem Rettich, sich nähernde Zombies anzugreifen.
+Ermöglicht dem Weißem Rettich, sich nähernde Zombies anzugreifen.
 
 [TURNIP_SKILL1_LEVEL2]
 Bewaffnetes Training
@@ -14556,7 +14559,7 @@ Der Maschinengewehr-Granatapfel kann Zombies aus der vorderen Reichweite erschie
 {FLAVOR}Als Granatapfel in die Bibliothek ging, um die Schulschönheit zu bewundern, las er zufällig ein Buch mit dem Titel „1000 Möglichkeiten, Granatäpfel zu essen“. Auf der Titelseite des Buches stand ein Satz, der sein Leben prägte: Egal wie man ihn isst, die Granatapfelkerne müssen ausgespuckt werden. Später ging er zur Armee und wurde Maschinengewehrschütze mit furchtbaren Schießkünsten. Später ging er in Rente und wurde Landwirt, der jeden Tag Melonenkerne knackte und die Sonne genoss. Was geschah dann? Hast du den Typen auf der anderen Straßenseite nicht gesehen, der sein großes Maul aufgerissen und dich angespuckt hat?
 
 [PAMEGRANATE_TOOLTIP]
-Verjage die Zombies im fächerförmigen Bereich vor dir.
+Greift Zombies im fächerförmigen Bereich vor sich an.
 
 [SWEETPOTATO]
 Süßkartoffel
@@ -15099,7 +15102,7 @@ Die Spezialdünger-Fähigkeit verfügt über einen zusätzlichen Chili-Release.
 Die Spezialdünger-Fähigkeit verursacht zusätzlichen Schaden.
 
 [STORE_PRODUCT_AVATAR_STUNION]
-Die Reichweite der ultimativen Fähigkeit erhöht sich um eine Stufe.
+Die Reichweite der Spezialdünger-Fähigkeit erhöht sich um eine Stufe.
 
 [MAGNIFYINGGRASS_SKILL1_LEVEL1]
 Ansturmangriff
@@ -15712,7 +15715,7 @@ Eispilz
 Der Eispilz kann mit zunehmendem Wachstum immer mächtigere Zauber wirken, um die Zombies vor ihm anzugreifen.
 
 [ICESHROOM_TOOLTIP]
-Er kann mit zunehmendem Wachstum immer mächtigere Zauber wirken, um die Zombies vor ihm anzugreifen.
+Wirkt immer mächtigere Zauber um einzufrieren.
 
 [FIRESHROOM]
 Feuerpilz
@@ -15726,7 +15729,7 @@ Feuerpilz
 Der Feuerpilz kann mit zunehmendem Wachstum immer mächtigere Zauber freisetzen, um die Zombies vor ihm anzugreifen.
 
 [FIRESHROOM_TOOLTIP]
-Er kann mit zunehmendem Wachstum immer mächtigere Zauber freisetzen, um die Zombies vor ihm anzugreifen.
+Wirkt immer mächtigere Zauber um zu verbrennen.
 
 [DARK_LEVEL_NAME]
 Mittelalter - Nacht {LEVEL_NUMBER}
@@ -16806,7 +16809,7 @@ Schattenpilz
 Schattenpilze vergiften Zombies, die sie berühren, und verursachen mit der Zeit Schaden.
 
 [SHADOWSHROOM_TOOLTIP]
-Vergiftet Zombies mit der Zeit
+Vergiftet Zombies mit der Zeit, die ihn essen und mit Schattenkraft überträgt sich das Gift.
 
 [SHADOWSHROOM_SKILL_LEVEL1]
 Todesstoß
@@ -16860,7 +16863,7 @@ Spezialdünger-Fähigkeittiver Zauber
 Kann hochstufige Zombies bezaubern und die Ruhezeit sofort wiederherstellen.
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER]
-Spezialdünger-Fähigkeittiver Move kann einen zusätzlichen Zombie werfen.
+Die Spezialdünger-Fähigkeit kann einen zusätzlichen Zombie werfen.
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER_TITLE]
 Super-Blumenkohl-Kostüm
@@ -17150,17 +17153,17 @@ Die Zitrone kann Eisenpanzerungen zusätzlich beschädigen.
 Die Zitrone kann Eisen-Rüstungen korrodieren.
 
 [LOTUSSHOWER]
-Lian Xiaopeng
+Lotus
 
 [LOTUSSHOWER_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}grüne Pflanze, Wasserpflanzen
-{FLAVOR}Lian Xiaopeng ist Mitglied im Club der Pflanzenwaffen-Enthusiasten. Um seine Identität zu zeigen, hat er sich bewusst die Form eines Revolvers gegeben. Er war sehr zufrieden mit der neuen Form und beschloss, vor seinem Bruder Lian Ye anzugeben. Als er ausging, sah er zufällig im Fernsehen die Nachricht von der Invasion der Mönchszombies in der Kung-Fu-Welt. Beim Anblick der Köpfe dieser Mönche verspürte Lian Xiaopeng plötzlich das Gefühl, nicht mehr hinausgehen zu wollen …
+{FLAVOR}Lotus ist Mitglied im Club der Pflanzenwaffen-Enthusiasten. Um seine Identität zu zeigen, hat er sich bewusst die Form eines Revolvers gegeben. Er war sehr zufrieden mit der neuen Form und beschloss, vor seinem Bruder Lian Ye anzugeben. Als er ausging, sah er zufällig im Fernsehen die Nachricht von der Invasion der Mönchszombies in der Kung-Fu-Welt. Beim Anblick der Köpfe dieser Mönche verspürte Lotus plötzlich das Gefühl, nicht mehr hinausgehen zu wollen …
 
 [LOTUSSHOWER_DESCRIPTION_HEADER]
-Lian Xiaopengs Kampfkraft ist im Wasser stärker als an Land.
+Lotuss Kampfkraft ist im Wasser stärker als an Land.
 
 [LOTUSSHOWER_TOOLTIP]
-Lian Xiaopeng kann Torpedos abfeuern, um Zombies vor ihm anzugreifen.
+Lotus kann Torpedos abfeuern, um Zombies vor ihm anzugreifen.
 
 [CRACKER]
 Vermieter Bambus
@@ -19374,7 +19377,7 @@ Welcher der folgenden Zombies wird das Rennen gewinnen?
 [LANTERN_RIDDLES_ANSWER_66]
 ca=Schaufelzombie|Riesenzombie|Schirmzombie|Führerzombie|
 [LANTERN_RIDDLES_67]
-Was ist der Unterschied zwischen dem Kostüm-Spezialdünger-Fähigkeitte-Move des Goldenen Krötenpilzes und dem normalen Spezialdünger-Fähigkeitte-Move?
+Was ist der Unterschied zwischen der Kostüm-Spezialdünger-Fähigkeit des Goldenen Krötenpilzes und der normalen Spezialdünger-Fähigkeit?
 [LANTERN_RIDDLES_ANSWER_67]
 ca=Giftnebel|Noch einen Zombie fressen|25 weitere Sonnenstrahlen erzeugen|Eine weitere Gitterdistanz|
 [LANTERN_RIDDLES_68]
@@ -19453,7 +19456,7 @@ ca=Vortex-Mispel | Spargeljäger | Ackerbohnen-Mutterschiff | Ionisierte Anthuri
 Welche der folgenden Eigenschaften trifft nicht auf die Fliegende Untertassenmelone zu? [LANTERN_RIDDLES_ANSWER_86]
 Zombies bewegungsunfähig machen | ca=kurze Abkühlzeit | hoher Schaden | großer Flächenschaden |
 [LANTERN_RIDDLES_87]
-Wie groß ist die Angriffsreichweite des ultimativen Moves der Saubohnen-Mutterschiff-Spezialdünger-Fähigkeit?
+Wie groß ist die Angriffsreichweite der Spezialdünger-Fähigkeit der Saubohnen-Mutterschiff-Spezialdünger-Fähigkeit?
 [LANTERN_RIDDLES_ANSWER_87]
 3 Felder | 4 Felder | 8 Felder | ca=9 Felder |
 [LANTERN_RIDDLES_88]
@@ -19533,7 +19536,7 @@ Rotorüben verschießen Projektile in die vier Diagonalen, in jede Richtung mit 
 Feuert schnell reihum in alle vier Diagonalen.
 
 [XSHOT_TOOLTIP]
-Schießt in die Diagonalen, bist zu vier Richtungen auf einmal
+Schießt in die Diagonalen, bis zu vier Richtungen auf einmal
 
 [SUGARCANE]
 Zuckerrohr
@@ -19545,6 +19548,7 @@ Zuckerrohr kann Zombies zurückhalten und ihren Vormarsch stoppen.
 {KEYWORD}Eigenschaften:{STAT}Je weniger Zombies es gibt, desto länger kann er durchhalten.
 {KEYWORD}Eigenschaften:{STAT}Er erholt sich allmählich, wenn er keine Zombies zurückhält.
 {KEYWORD}Pflanzeneigenschaften:{STAT}Grüne Pflanze, starke Kampfkünste
+
 {FLAVOR}Das Zuckerrohr begann schon in jungen Jahren, für eine Truppe in der Nachbarstadt Besorgungen zu erledigen. Er war von klein auf ein Nebendarsteller und hoffte, eines Tages zur tragenden Säule der Truppe zu werden. Deshalb übte er verschiedene Kung-Fu-Techniken und beherrschte schließlich eines Tages die einzigartige Fähigkeit des kontinuierlichen Rückwärtssaltos. Gott lässt diejenigen nicht im Stich, die hart arbeiten.
 
 [SUGARCANE_TOOLTIP]
@@ -19584,10 +19588,10 @@ Der Zauberpilz kann Schürhaken abfeuern, um Zombies von vorne und hinten anzugr
 {FLAVOR}Bevor er zum schillernden Zauberpilz wurde, war der Zauberpilz nur der gewöhnlichste Pilz mit dem runden Kopf im Pilzdorf. Doch das änderte sich, als er mit der magischen Welt in Berührung kam. „Ja! Ich bin ein schillernder Stern!“ Zauberpilz spielte gekonnt mit dem Schürhaken in seiner Hand, was er für seine schönste Haltung hielt. Glaub bloß nicht, dass sich im Hut des Zauberpilzes ein Kaninchen verbirgt. Wenn du es öffnest, bist du erledigt!
 
 [MAGICSHROOM_TOOLTIP]
-Greife Zombies von vorne oder hinten an.
+Greift Zombies von vorne oder hinten an.
 
 [MAGICSHROOM_PLANTFOOD]
-Führe einen Zaubertrick aus und verwandle dich in einen Zombie!
+Führt einen Zaubertrick aus und erschafft Zombies!
 
 [CHESTNUT]
 Kastanien-Trupp
@@ -19703,9 +19707,7 @@ Feuer-Erbsenkanone
 
 [FIREPEASHOOTER_DESCRIPTION]
 {KEYWORD}Besonderheit: {STAT}Immun gegen Frost
-
 {KEYWORD}Besonderheit: {STAT}Wärmt Pflanzen in der Nähe
-
 {KEYWORD}Pflanzeneigenschaften: {STAT} Orangenpflanze, Hülsenfrüchtler, voller Feuer, voller Wut
 
 {FLAVOR}Die Feuer-Erbsenkanone weiß, dass sie krass aussieht. Aber die Arbeit mit offenem Feuer ist eine ernste und gefährliche Sache. Deshalb hält sie in ihrer Freizeit Brandsicherheits-Vorträge vor Kindern. „Ich bin ein ausgebildeter Profi“, erklärt sie. „Also nicht zuhause nachmachen, Kinder!“
@@ -21009,13 +21011,14 @@ Der Spargelkämpfer kann die Zombies vor ihm sowie in den beiden Reihen links un
 [ASPARAGUS_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Kann Ziele vor ihm sowie in den beiden Reihen links und rechts angreifen.
 {KEYWORD}Pflanzenfunktionen:{STAT}grüne Pflanze, Waffenfamilie, Flugpflanzen
-{FLAVOR}Spargel gilt als „König des Gemüses“, ist aber nicht stolz darauf. Es hat seit seiner Kindheit mit Begeisterung verschiedene scharfe Waffen studiert und kann seinen Wert erst auf dem Schlachtfeld erkennen. „Ich hoffe nur, dass sich jeder an mein leidenschaftliches Ich auf dem Schlachtfeld erinnert!“, sagte Asparagus ernst.
+
+{FLAVOR}Spargel gilt als „König des Gemüses“, ist aber nicht stolz darauf. Er hat seit seiner Kindheit mit Begeisterung verschiedene scharfe Waffen studiert und kann seinen Wert erst auf dem Schlachtfeld erkennen. „Ich hoffe nur, dass sich jeder an mein leidenschaftliches Ich auf dem Schlachtfeld erinnert!“, sagte Asparagus ernst.
 
 [ASPARAGUS_TOOLTIP]
-Greife die Zombies vor dir und in den beiden Reihen links und rechts an.
+Greift die Zombies vor sich und in den beiden Reihen oben und unten an.
 
 [ASPARAGUS_PLANTFOOD]
-Besiege die Zombies vor dir und verursache großen Schaden.
+Besiegt die Zombies vor sich und verursache großen Schaden.
 
 [ANTHURIUM_PRODUCT_SHORT_DESC]
 Ionisierte Rote Handfläche kann Blitze absorbieren und Zombies vor dir angreifen.
@@ -21050,6 +21053,7 @@ Ionisierte Anthurie kann Blitze absorbieren und Zombies vor ihnen angreifen.
 [ANTHURIUM_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Absorbiert Blitzeffekte von umliegenden Pflanzen.
 {KEYWORD}Pflanzenmerkmale:{STAT}Rote Pflanze, 100.000 Volt, Zwillingsbrüder.
+
 {FLAVOR}Ist die Fähigkeit der ionisierten Anthurie die positiven und negativen Ladungen zu neutralisieren, nicht überraschend? Ein Blick auf die perfekten Physikarbeiten der Brüder genügt, und Sie werden es verstehen. Doch die Ideen des anderen können sie nie verstehen, wie zum Beispiel die Wahl der Krawattenfarbe, das Anschauen von Dokumentationen oder Fernsehserien oder Verabredungen in indischen oder chinesischen Restaurants. Aber sie wissen auch, dass keiner von ihnen ohne den anderen ein Genie im Umgang mit Blitzen ist.
 
 [ANTHURIUM_TOOLTIP]
@@ -21097,10 +21101,11 @@ Bohnenkommando kann Kommandos starten, um Zombies in der Umgebung anzugreifen.
 [HORSEBEAN_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT} Starte ein das Bohnenkommando-Kommando, um Zombies in einem bestimmten Umkreis anzugreifen.
 {KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanze, fliegende Pflanze, Brüder in Gruppen.
+
 {FLAVOR}Als das Bohnenkommando die Flugschule besuchten, gewannen sie den Titel „Bester Pilot“. Nach ihrem Abschluss konnten sie es kaum erwarten, ein Flugteam zu bilden. Obwohl die  oft mit ihren Flugkünsten prahlen, scheint sich niemand zu trauen, ihr holpriges Mutterschiff zu betreten.
 
 [HORSEBEAN_TOOLTIP]
-das Bohnenkommando-Kommandos können das Bohnenkommando-Kommandos starten, um die Zombies in ihrer Umgebung anzugreifen.
+Schickt Bohnen-Kommandos um in der Nähe anzugreifen.
 
 [HORSEBEAN_PLANTFOOD]
 Mobilisiere eine große Anzahl von Kommandos, um das Ziel auf dem Feld anzugreifen.
@@ -21167,16 +21172,17 @@ Die UFO-Melone kann Licht aussenden, um sich nähernde Zombies zu fangen.
 
 [SAUCER_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze, fliegende Pflanze, außerirdisch
+
 {FLAVOR}Die UFO-Melone wird fälschlicherweise für eine außerirdische Kreatur gehalten, doch mit der Zeit stellt sich heraus, dass sie zu introvertiert ist, um sich in alle Gesellschaft zu integrieren. Aber ärgere die Fliegenden Untertassenmelone nicht, sie lässt sich nicht leicht von ihrem Licht erleuchten.
 
 [SAUCER_TOOLTIP]
-Die Fliegende Untertassenmelone kann einen Strahl aussenden, um sich nähernde Zombies zu fangen.
+Die UFO-Melone kann einen Strahl aussenden, um Zombies fangen.
 
 [SAUCER_PLANTFOOD]
-Die Spezialdünger-Fähigkeit kann Zombies auf dem Spielfeld vorübergehend bewegungsunfähig machen.
+Die Spezialdünger-Fähigkeit kann alle Zombies auf dem Spielfeld vorübergehend bewegungsunfähig machen.
 
 [SAUCER_SKILL_LEVEL1]
-Fliegende Untertassenmelone
+Traktorstrahl
 
 [SAUCER_SKILL_LEVEL1_DES]
 Ermöglicht dem Strahl der Fliegenden Untertassenmelone, Zombies mit geringerer Gesundheit zu fangen.
@@ -21188,10 +21194,10 @@ Anti-Schwerkraftgerät
 Ermöglicht dem Fangstrahl der Fliegenden Untertassenmelone, Zombies mit höherer Gesundheit zu fangen.
 
 [GROUNDCHERRY_PRODUCT_SHORT_DESC]
-Laternenpflanze kann Zombies im unsichtbaren Zustand erkennen.
+Laternengrass kann Zombies im unsichtbaren Zustand erkennen.
 
 [GROUNDCHERRY_AVATAR_NAME]
-Laternenkostüm
+Laternengrass Kostüm
 
 [STORE_PRODUCT_AVATAR_GROUNDCHERRY_TITLE]
 Laternenkostüm
@@ -21208,7 +21214,8 @@ Laternengras kann Zombies im unsichtbaren Zustand erkennen.
 [GROUNDCHERRY_DESCRIPTION]
 {KEYWORD}Eigenschaften:{STAT}Hält eine Zeit lang an und kann nicht angegriffen werden.
 {KEYWORD}Pflanzeneigenschaften:{STAT}Rote Pflanze, fliegende Pflanze.
-{FLAVOR}Laternengras freundete sich schnell mit Torchwood und Dragon Grass an. Sie nannten sich die „Flame Three Musketeers“. Die Hawaiian Style Lounge schien jedoch nicht gewillt zu sein, die drei zu bewirten. Der Chef wollte den verbrannten Tisch nicht wiedersehen.
+
+{FLAVOR}Laternengras freundete sich schnell mit dem Zunderholz und dem Drachenmäulchen an. Sie nannten sich die „Flame Three Musketeers“. Die Hawaiian Style Lounge schien jedoch nicht gewillt zu sein, die drei zu bewirten. Der Chef wollte den verbrannten Tisch nicht wieder sehen.
 
 [GROUNDCHERRY_TOOLTIP]
 Laternengras kann Zombies im unsichtbaren Zustand erkennen.
@@ -21437,13 +21444,13 @@ Kann Sonnenlicht erzeugen und umliegende Pflanzen inspirieren.
 Veranstaltet ein Konzert, um viel Sonnenlicht zu erzeugen.
 
 [PUMPKINWITCH_PRODUCT_SHORT_DESC]
-Kürbiszauberer
+Kürbishexe
 
 [PUMPKINWITCH_AVATAR_NAME]
-Kürbis-Outfit
+Kürbishexe Kostüm
 
 [STORE_PRODUCT_AVATAR_PUMPKINWITCH_TITLE]
-Kürbis-Outfit
+Kürbishexe Kostüm
 
 [PUMPKINWITCH_SKILL_LEVEL1]
 Stärkungszauber
@@ -21455,23 +21462,24 @@ Vergrößert die Größe der vom Kürbiskopf kontrollierten Zombies und erhöht 
 Extremmagie
 
 [PUMPKINWITCH_SKILL_LEVEL2_DES]
-Erhöht die Wirkung von Magie: Stärkezauber um 100%.
+Erhöht die Wirkung vom Stärkungszauber um 100%.
 
 [STORE_PRODUCT_AVATAR_PUMPKINWITCH]
-Die Lebenspunkte des Kürbisses, der mit der ultimativen Fähigkeit geworfen wird, erhöhen sich.
+Die Lebenspunkte der Kürbisses, die mit der Spezialdünger-Fähigkeit geworfen werden, erhöhen sich.
 
 [PUMPKINWITCH]
-Kürbiszauberer
+Kürbishexe
 
 [PUMPKINWITCH_DESCRIPTION_HEADER]
-Der Kürbiszauberer kann Kürbisse werfen, um gewöhnliche humanoide Zombies zu kontrollieren und für dich zu kämpfen, wenn Kürbisse vorhanden sind.
+Die Kürbishexe kann Kürbisse werfen, um gewöhnliche Zombies zu kontrollieren, wenn Kürbisse vorhanden sind.
 
 [PUMPKINWITCH_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Orange Pflanze, geheimnisvoller Zauberer
-{FLAVOR}Der Kürbiszauberer lebt allein in einem geheimnisvollen Sumpf im Wald. Er ist geheimnisvoll und mächtig und kann alle möglichen magischen Kräfte einsetzen, zum Beispiel seinen Besen befehlen, den Boden zu fegen, für ihn zu kochen und Geschirr zu spülen, verschiedene seltsame Zaubertränke zu brauen oder ... Nun ja, er ist eigentlich ein unausgereifter Zauberer, der nicht für sich selbst sorgen kann.
+
+{FLAVOR}Die Kürbishexe lebt allein in einem geheimnisvollen Sumpf im Wald. Sie ist geheimnisvoll und mächtig und kann alle möglichen magischen Kräfte einsetzen, zum Beispiel ihrem Besen befehlen, den Boden zu fegen, für sie zu kochen und Geschirr zu spülen, verschiedene seltsame Zaubertränke zu brauen oder ... Nun ja, sie ist eigentlich eine unausgereifte Zaubererin, die nicht für sich selbst sorgen kann.
 
 [PUMPKINWITCH_TOOLTIP]
-Der Kürbiszauberer kann Kürbisse werfen, um gewöhnliche humanoide Zombies zu kontrollieren und für dich zu kämpfen.
+Die Kürbishexe kann Kürbisse werfen, um Zombies zu kontrollieren.
 
 [PUMPKINWITCH_PLANTFOOD]
 Wirft bis zu 5 feste Kürbisse und kontrolliert Zombies, die für dich kämpfen.
@@ -21596,7 +21604,7 @@ Jackfrucht rollt, um die Zombies in der ersten Reihe anzugreifen und kann den vo
 {FLAVOR}Jackfrucht ist ein treuer Fan indischer Popmusik. Am liebsten rollt er vorwärts und singt dabei das indische Götterlied „Wie kalt der Winter ist, wie kalt der Winter ist, wie kalt der Winter ist, da da da~“.
 
 [JACKFRUIT_TOOLTIP]
-Rolle, um die Zombies in der ersten Reihe anzugreifen und den Tunneleingang zu blockieren, den der Zombie-Führer geöffnet hat.
+Rollt, um Tunneleingange zu blockieren und schaden zu verursachen.
 
 [JACKFRUIT_PLANTFOOD]
 Keine
@@ -21604,6 +21612,7 @@ Keine
 [JACKFRUIT_PLANTFOOD_DESCRIPTION]
 
 [JACKFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
+Keine
 
 [KIWIFRUIT_PRODUCT_SHORT_DESC]
 Beschwöre einen goldenen Reifen herauf, um den nächsten Zombie anzugreifen und den Zombies in der Nähe kontinuierlichen Schaden zuzufügen.
@@ -21612,7 +21621,7 @@ Beschwöre einen goldenen Reifen herauf, um den nächsten Zombie anzugreifen und
 Kiwi-Kostüm
 
 [STORE_PRODUCT_AVATAR_KIWIFRUIT]
-Mit dem ultimativen Move kannst du Zombies zu Boden schmettern und das Zeitwachstum kontrollieren.
+Mit der Spezialdünger-Fähigkeit kannst du Zombies zu Boden schmettern und das Zeitwachstum kontrollieren.
 
 [STORE_PRODUCT_AVATAR_KIWIFRUIT_TITLE]
 Kiwi-Kostüm
@@ -21722,7 +21731,7 @@ Engelssternfrucht kann kleine Sterne in zehn Richtungen schießen.
 Engelssternfrucht-Kostüm
 
 [STORE_PRODUCT_AVATAR_PINKSTARFRUIT]
-Spezialdünger-Fähigkeittiver Move, um dich zu drehen und eine stärkere Salve roter und blauer großer Sterne abzufeuern, um alle Zombies anzugreifen.
+Die Spezialdünger-Fähigkeit, um dich zu drehen und eine stärkere Salve roter und blauer großer Sterne abzufeuern, um alle Zombies anzugreifen.
 
 [STORE_PRODUCT_AVATAR_PINKSTARFRUIT_TITLE]
 Engelssternfrucht-Kostüm
@@ -21862,7 +21871,7 @@ Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner 
 Gatling-Erbsen-Kostüm
 
 [STORE_PRODUCT_AVATAR_GATLINGPEA]
-Spezialdünger-Fähigkeittiver Move: Holt viele Maschinengewehre heraus und schießt drei Reihen Gegner mit aller Munition ab, einschließlich Eisgeschossen, Feuergeschossen und Irrlichtgeschossen.
+Die Spezialdünger-Fähigkeit: Holt viele Maschinengewehre heraus und schießt drei Reihen Gegner mit aller Munition ab, einschließlich Eisgeschossen, Feuergeschossen und Irrlichtgeschossen.
 
 [STORE_PRODUCT_AVATAR_GATLINGPEA_TITLE]
 Maschinengewehr-Erbsenkostüm
@@ -21891,7 +21900,8 @@ Katzenschwanz
 [NEKOTAIL_DESCRIPTION]
 {KEYWORD}Merkmale: {STAT}Feuert Richtungsnadeln ab, um Zombies anzugreifen, mit der Chance, Lähmungen zu verursachen.
 {KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze, 100.000 Volt
-{FLAVOR}Als Katzenschwanz interviewt wurde, fragte der Reporter: „Wie sehen Sie die Konkurrenzbeziehung zu Guide Thistle?“ Katzenschwanz antwortete ruhig: „Miau, miau, miau~“. Übersetzt bedeutet das: „Es gibt kein Problem, das nicht durch Niedlichkeit gelöst werden kann~“
+
+{FLAVOR}Als Katzenschwanz interviewt wurde, fragte der Reporter: „Wie sehen Sie die Konkurrenzbeziehung zur Lenkdistel?“ Katzenschwanz antwortete ruhig: „Miau, miau, miau~“. Übersetzt bedeutet das: „Es gibt kein Problem, das nicht durch Niedlichkeit gelöst werden kann~“
 
 [NEKOTAIL_DESCRIPTION_HEADER]
 Feuert Richtungsnadeln ab, um Zombies anzugreifen, mit der Chance, Lähmungen zu verursachen.
@@ -22341,7 +22351,7 @@ A.K.E.E. wirft eine Granate, die zwischen Zombies hin- und herspringen kann.
 A.K.E.E. Kostüm
 
 [STORE_PRODUCT_AVATAR_AKEE]
-Die Projektile des ultimativen Moves können zu explosiven oder gefrorenen Projektile werden.
+Die Projektile der Spezialdünger-Fähigkeit können zu explosiven oder gefrorenen Projektile werden.
 
 [STORE_PRODUCT_AVATAR_AKEE_TITLE]
 A.K.E.E. Kostüm
@@ -22441,7 +22451,7 @@ Die Lavaguave versprüht Lava und erzeugt eine Lavagrube, die Zombies Schaden zu
 Lava Guaven Kostüm
 
 [STORE_PRODUCT_AVATAR_LAVAGUAVA]
-Die Reichweite der ultimativen Fähigkeit wird auf ein Kreuz erweitert.
+Die Reichweite der Spezialdünger-Fähigkeit wird auf ein Kreuz erweitert.
 
 [STORE_PRODUCT_AVATAR_LAVAGUAVA_TITLE]
 Lava Guaven Kostüm
@@ -24759,16 +24769,17 @@ Prunkwinde
 [MORNINGGLORY_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Reflektiert die Schallwellen von Zombies. Nach dem Vorrücken spielen die Prunkwinden zusammen, um die Angriffskraft zu erhöhen.
 {KEYWORD}Pflanzenfunktionen:{STAT}Grüne Pflanze Lila Pflanze
+
 {FLAVOR}Die Prunkwinde wurde durch den Lärm der Renovierung im Obergeschoss gestört. Nachdem er seinen Nachbarn Fettebeete nach einer Lösung gefragt hatte, bestellte er sofort ein MSR-7-Headset.
 
 [MORNINGGLORY_DESCRIPTION_HEADER]
-Sendet Schallwellen aus, um Zombies anzugreifen und reflektiert die von Zombies ausgesendeten Schallwellen.
+Sendet Schallwellen aus, um Zombies anzugreifen und reflektiert Schallwellen.
 
 [MORNINGGLORY_PLANTFOOD]
 Erzeugt eine Schallbarriere, um den Vormarsch einer Zombie-Linie zu blockieren und kontinuierlichen Schaden zu verursachen.
 
 [MORNINGGLORY_TOOLTIP]
-Sendet Schallwellen aus, um Zombies anzugreifen und reflektiert die von Zombies ausgesendeten Schallwellen.
+Sendet Schallwellen aus, um Zombies anzugreifen und reflektiert Schallwellen.
 
 [MORNINGGLORY_PRODUCT_SHORT_DESC]
 Die Prunkwinde sendet Schallwellen aus, um Zombies anzugreifen, und reflektiert die von ihnen ausgesendeten Schallwellen.
@@ -27888,7 +27899,7 @@ Gewinne die Wintermütze des Frostschützen als Sammlerstück. Sie hält dein Ge
 Probiert den Harzkrug heute auf der Festtagsparty. Er ist klebriger als Früchtekuchen! Kommt vorbei und spielt mit!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_5]
-Gewinnt 5 Spiele in Folge und erhaltet eine besondere Festtagsparty-Belohnung von SEÑOR PIÑATA. Er liebt die Feiertage!
+Gewinnt 5 Spiele in Folge und erhaltet eine besondere Festtagsparty-Belohnung von Señor Piñata. Er liebt die Feiertage!
 
 [LOCAL_NOTE_LOD_FEASTIVUS_2014_6]
 Festtagsparty-Tag 11 hat begonnen! Der Gargantua hat den Wicht-Zombie sorgfältig aufgehängt. Nicht verpassen!
@@ -27912,16 +27923,16 @@ Das 24-Stunden-Zombieparty-Level ist jetzt geöffnet! Schließe {LARGE_PINATA_IN
 Die Piñata-Party hat begonnen! Verrückte Zombies aus aller Welt haben plötzlich gemeinsam angegriffen. Komm und spiel mit!
 
 [LOCAL_NOTE_LOD_GOLIVE_04]
-Zeit für die Piñata-Party. Schließe {LARGE_PINATA_INTERVAL} Partys in Folge ab, um SENOR PIÑATA herauszufordern!
+Zeit für die Piñata-Party. Schließe {LARGE_PINATA_INTERVAL} Partys in Folge ab, um Señor Piñata herauszufordern!
 
 [LOCAL_NOTE_LOD_GOLIVE_05]
 Zeit für die 24-Stunden-Zombie-Party! Deine nächste Piñata-Party ist bereit. Komm und spiel mit!
 
 [LOCAL_NOTE_LOD_GOLIVE_06]
-Die letzte Piñata-Party geht bald zu Ende! Sobald sie vorbei ist, besiege SEÑOR PIÑATA.
+Die letzte Piñata-Party geht bald zu Ende! Sobald sie vorbei ist, besiege Señor Piñata.
 
 [LOCAL_NOTE_LOD_GOLIVE_07]
-Nur noch eine Piñata-Party übrig, um {LARGE_PINATA_INTERVAL} SEÑOR PIÑATA in Folge herauszufordern! Endet bald.
+Nur noch eine Piñata-Party übrig, um {LARGE_PINATA_INTERVAL} Señor Piñata in Folge herauszufordern! Endet bald.
 
 [LOCAL_NOTE_LOD_GOLIVE_08]
 Hallo, Piñata-Party-Fans! Beeilt euch und fordert Señor Piñata heraus. Es ist fast vorbei.
@@ -28119,7 +28130,7 @@ Festparty Tag 5
 Bis zum nächsten Mal!
 
 [LOD_NEXT_TIME_SUBHEADER]
-Spielt {LARGE_PINATA_INTERVAL} Partys hintereinander und erteilt SEÑOR PIÑATA eine Lektion.
+Spielt {LARGE_PINATA_INTERVAL} Partys hintereinander und erteilt Señor Piñata eine Lektion.
 
 [LOD_NEXT_TIME_SUBHEADER_DAYS]
 Spielt {LARGE_PINATA_INTERVAL} Tage hintereinander und gewinnt einen tollen Preis!
@@ -28131,7 +28142,7 @@ Spielt {LARGE_PINATA_INTERVAL} Partys hintereinander und gewinnt ein tolles Gesc
 Holt euch eure Belohnung!
 
 [LOD_OPEN_BIG_REWARD_SUBHEADER]
-Erteilt SEÑOR PIÑATA dreimal eine Lektion und öffnet einen geheimen Schatz!
+Erteilt Señor Piñata dreimal eine Lektion und öffnet einen geheimen Schatz!
 
 [LOD_OPEN_BIG_REWARD_SUBHEADER_HOLIDAY]
 Klickt dreimal auf das große Geschenk, um den geheimen Schatz zu öffnen!
@@ -30639,7 +30650,7 @@ Fette Bete
 Die Fette Bete haut sekündlich Schaden raus.
 
 [PHATBEET_TOOLTIP]
-Haut alle paar Sekunden Schaden raus
+Haut alle paar Sekunden Schaden raus im Umkreis um sich selbst.
 
 [PINATA_PARTY_COSTUME_REWARD_TEXT]
 Neuer Look!
@@ -33270,7 +33281,7 @@ Der Kaktus kann Stacheln abfeuern, um mehrere Zombies vor ihm anzugreifen.
 Kaktus Kostüm
 
 [STORE_PRODUCT_AVATAR_CACTUS]
-Es feuert eine große Anzahl von Stacheln ab, wenn es mit seiner ultimativen Fähigkeit angreift.
+Es feuert eine große Anzahl von Stacheln ab, wenn es mit seiner Spezialdünger-Fähigkeit angreift.
 
 [STORE_PRODUCT_AVATAR_CACTUS_TITLE]
 Kaktus Kostüm
@@ -35109,13 +35120,13 @@ Drachenbrüllgras
 Dragon Roar Grass kann in der Nähe befindliche Zombies fressen und unverdauliche Dinosauriereier ausspucken.
 
 [DRAGONROAR_TOOLTIP]
-Iss in der Nähe befindliche Zombies und spucke Dinosauriereier aus.
+Isst Nahe Zombies und Dinosauriereier, danach spuckt er sie aus.
 
 [BRAMBLE]
 Schüchterner Dorn
 
 [BRAMBLE_DESCRIPTION]
-{KEYWORD}Merkmale: {STAT}Widersteht dem Trampeln von Brontosauriern
+{KEYWORD}Merkmale: {STAT}Widersteht dem Trampeln von Dinosauriern
 {KEYWORD}Pflanzenmerkmale: {STAT}Braune Pflanzen
 
 {FLAVOR}Schüchterne Dornen konzentrierten sich auf eine kühne Sache in ihrem Leben: den Füßen von Brontosauriern entgegenzutreten.
@@ -35124,7 +35135,7 @@ Schüchterner Dorn
 Schüchterne Dornen können dem Trampeln von Brontosauriern widerstehen.
 
 [BRAMBLE_TOOLTIP]
-Widersteht dem Trampeln von Brontosauriern.
+Widersteht dem Trampeln von Dinos.
 
 [DRAGONCANE]
 Meister Zuckerrohr
@@ -35179,19 +35190,19 @@ Schieß Giftbälle ab, um Zombies anzugreifen und sie zu verlangsamen.
 Primitives Sonnenblumen-Outfit
 
 [STORE_PRODUCT_AVATAR_PRIMALSUNFLOWER]
-Beim Einsatz der ultimativen Fähigkeit erhältst du eine extra große Goldmünze.
+Beim Einsatz der Spezialdünger-Fähigkeit erhältst du eine extra große Goldmünze.
 
 [STORE_PRODUCT_AVATAR_PRIMALPEASHOOTER_TITLE]
 Primitives Erbsen-Outfit
 
 [STORE_PRODUCT_AVATAR_PRIMALPEASHOOTER]
-Beim Einsatz der ultimativen Fähigkeit greifst du mit einem zusätzlichen Lavaball an.
+Beim Einsatz der Spezialdünger-Fähigkeit greifst du mit einem zusätzlichen Lavaball an.
 
 [STORE_PRODUCT_AVATAR_PRIMALWALLNUT_TITLE]
 Primitives Nuss-Outfit
 
 [STORE_PRODUCT_AVATAR_PRIMALWALLNUT]
-Beim Einsatz der ultimativen Fähigkeit erhältst du ein goldenes Fossil zum Schutz.
+Beim Einsatz der Spezialdünger-Fähigkeit erhältst du ein goldenes Fossil zum Schutz.
 
 [STORE_PRODUCT_AVATAR_PRIMALPOTATOMINE_TITLE]
 Primitives Kartoffel-Outfit
@@ -35203,7 +35214,7 @@ Die Spezialdünger-Fähigkeit spaltet eine zusätzliche primitive Kartoffelmine.
 Primitives Rafflesia-Outfit
 
 [STORE_PRODUCT_AVATAR_PRIMALRAFFLESIA]
-Bei Einsatz der ultimativen Fähigkeit verursacht jede Projektil eine giftige Explosion.
+Bei Einsatz der Spezialdünger-Fähigkeit verursacht jede Projektil eine giftige Explosion.
 
 [STORE_PRODUCT_AVATAR_DRAGONROAR_TITLE]
 Drachengebrüll-Gras-Outfit
@@ -35433,7 +35444,7 @@ Reduziert die Vorbereitungszeit von Fluchtwurzel um 80%.
 Energietransfer
 
 [ESCAPEROOT_SUPERSKILL_DES]
-Die erste Pflanze, die mit Fluchtwurzel die Position tauscht, führt automatisch einen Super-Move aus.
+Die erste Pflanze, die mit Fluchtwurzel die Position tauscht, führt automatisch eine Spezialdünger-Fähigkeit aus.
 
 [STORE_PRODUCT_AVATAR_ESCAPEROOT_TITLE]
 Fluchtwurzel-Kostüm
@@ -35708,28 +35719,28 @@ Moderne
 Zeitreise
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE1]
-Nüsse verteidigen
+Wall-Nüsse verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE2]
-Hohe Nüsse verteidigen
+Hochwall-Nüsse verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE3]
-Weißen Rettich verteidigen
+Weiße Rettiche verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE4]
-Holografische Verteidigung Nüsse
+Unend-Nüsse verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE5]
 Urzeit-Wallnüsse verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE6]
-Endurian verteidigen
+Enduriane verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE7]
-Süßkartoffel verteidigen
+Süßkartoffeln verteidigen
 
 [PLANTDEFENCEGAMEMODE_DAYS_SELECT]
-Doppeltägige Verteidigung
+Erbs-Nüsse verteidigen
 
 [WECHAT_SHARE_SUCCESS_MSG]
 Teilen erfolgreich. Herzlichen Glückwunsch zu den folgenden Belohnungen:
@@ -38540,7 +38551,7 @@ Der Tupistra Agent erscheint plötzlich aus dem Untergrund, um Zombies in der N�
 Der Tupistra Agent erscheint plötzlich aus dem Untergrund und greift Zombies in der Nähe an.
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER]
-Nach Aktivierung der ultimativen Fähigkeit bleiben die Splitter des Pfeils eine Weile an Ort und Stelle und fügen vorbeigehenden Zombies kontinuierlich Schaden zu.
+Nach Aktivierung der Spezialdünger-Fähigkeit bleiben die Splitter des Pfeils eine Weile an Ort und Stelle und fügen vorbeigehenden Zombies kontinuierlich Schaden zu.
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER_TITLE]
 Tupistra Agent Kostüm
@@ -38583,7 +38594,7 @@ Chefkoch Cypripediums Suppe lässt Zombies sich meiden.
 Chefkoch Cypripediums Suppe lässt Zombies sich meiden.
 
 [STORE_PRODUCT_AVATAR_CYPRIPEDIUM]
-Nach Aktivierung der ultimativen Fähigkeit werden Zombies in Reichweite vorübergehend gelähmt.
+Nach Aktivierung der Spezialdünger-Fähigkeit werden Zombies in Reichweite vorübergehend gelähmt.
 
 [STORE_PRODUCT_AVATAR_CYPRIPEDIUM_TITLE]
 Kostüm des Chefkoch Cypripedium's
@@ -39231,7 +39242,7 @@ Kürbislaternen spucken Feuer und fügen Zombies Schaden zu.
 Kürbislaternen spucken Feuer und fügen Zombies Schaden zu.
 
 [STORE_PRODUCT_AVATAR_JACKOLANTERN]
-Die Geisterflamme der ultimativen Fähigkeit erzeugt kleine Funken und verursacht kontinuierlich Schaden in der Umgebung.
+Die Geisterflamme der Spezialdünger-Fähigkeit erzeugt kleine Funken und verursacht kontinuierlich Schaden in der Umgebung.
 
 [STORE_PRODUCT_AVATAR_JACKOLANTERN_TITLE]
 Vampir Mantel
@@ -39410,7 +39421,7 @@ Wachpilze können Gegner blockieren und kleine Wachpilze erzeugen, die Zombies v
 Wachpilz-Outfit
 
 [STORE_PRODUCT_AVATAR_GUARDSHROOM]
-Die Anzahl der Zombies, die mit der ultimativen Fähigkeit verschlungen werden können, wird auf 7 erhöht.
+Die Anzahl der Zombies, die mit der Spezialdünger-Fähigkeit verschlungen werden können, wird auf 7 erhöht.
 
 [GUARDSHROOM_SKILL_LEVEL1]
 Pilzverstärkung
@@ -39838,7 +39849,7 @@ Wenn Sparta einen Zombie tötet, verfällt er in Raserei. Das Angriffsintervall 
 Im Raserei-Zustand verkürzt sich das Angriffsintervall erneut um 0,25 Sekunden. Es hält 5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 9 Sekunden.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den Spezialdünger-Fähigkeitn-Big-Move direkt freizusetzen! Die Abkühlzeit für das Pflanzen von Pflanzen beträgt 6 Sekunden.
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit sofort einzusetzen. Die Abkühlzeit für das Pflanzen von Pflanzen beträgt 6 Sekunden.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL5_DES]
 Wenn sich in den beiden Feldern vor dem Spartanischen Bambus keine Zombies befinden und sich zwei Felder entfernt Zombies befinden, wirf den Speer, um den Zombies Schaden zuzufügen. Die Abkühlzeit beträgt 6 Sekunden. Sobald der Spartanische Bambus ein quadratisches Gitter bildet, wird eine Kampfformation gebildet. Die Lebenspunkte und Angriffskraft des Spartanischen Bambus in der Kampfformation werden verbessert. Der Speerwurf wird alle 6 Sekunden abgefeuert und zielt auf das Feld mit den meisten Zombies in den beiden Reihen vor der Kampfformation. Er verursacht mehrfachen Schaden im Zielbereich von 3 x 3. Die Anzahl der Segmente hängt vom Angriffsintervall der Pflanze ab. Die Abkühlzeit für das Pflanzen von Pflanzen beträgt nun 3 Sekunden.
@@ -39893,7 +39904,7 @@ Kostüm der Schein-Ranke
 Kostüm der Schein-Ranke
 
 [STORE_PRODUCT_AVATAR_SHINEVINE]
-Beim Ausführen des ultimativen Moves besteht eine 45%ige Chance, 100 Goldmünzen fallen zu lassen.
+Beim Ausführen der Spezialdünger-Fähigkeit besteht eine 45%ige Chance, 100 Goldmünzen fallen zu lassen.
 
 [SHINEVINE_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie in der Schein-Ranke erscheint, greift er ihn im Nahkampf an und verursacht 0,15 Sekunden lang Schwindelgefühle. Die Leuchtende Ranke kann kontinuierlich Sonnenlicht erzeugen. Wird die Sonnenlichtpflanze darüber gepflanzt, erhöht sich deren Sonnenlichtproduktion um 25. Wird Prismengras darüber gepflanzt, produziert die Ranke selbst kein Sonnenlicht mehr und greift automatisch einmal pro Zeitperiode an.
@@ -39905,7 +39916,7 @@ Der Nahkampfangriff der Schein-Ranke wird zu einem Einzelfeld-Gruppenangriff (bi
 Die Menge an Sonnenlicht, die jeder von der Schein-Ranke im Nahkampf angegriffene Zombie hinterlässt, beträgt 10. Die Betäubungszeit erhöht sich auf 0,3 Sekunden.
 
 [SHINEVINE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, den Spezialdünger-Fähigkeitn-Big-Move direkt auszulösen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [SHINEVINE_NEW_SKILL_LEVEL5_DES]
 Ein Klick auf die Leuchtende Ranke verbraucht 25 Sonnenlicht, feuert ein Sonnenlichtgeschoss ab und verursacht 625 Schaden an einem Zombie rechts. Ein 1 Sekunde langes Drücken der Schein-Ranke verbraucht 50 Sonnenlicht, feuert ein Sonnenlichtgeschoss ab und verursacht 1250 Schaden an einem Zombie rechts.
@@ -39990,6 +40001,7 @@ Nachtporling
 {KEYWORD}Reichweite: {STAT}4 Blöcke
 {KEYWORD}Eigenschaften: {STAT}Verlangsamt und vergiftet Zombies, kann in Nachtgestalt nicht verletzt werden
 {KEYWORD}Pflanzeneigenschaften: {STAT}Lila Pflanze
+
 {FLAVOR} Nachtporling hatte schon immer einen ausgeprägten Sinn für Gerechtigkeit, seit sie als winzige Spore spätabends Ninja-Filme schaute, anstatt sich auf ihre Mykologie-Hausaufgaben zu konzentrieren.
 
 [NIGHTCAP_DESCRIPTION_HEADER]
@@ -40026,7 +40038,7 @@ Nachtmützenkostüm
 Nachtmützenkostüm
 
 [STORE_PRODUCT_AVATAR_NIGHTCAP]
-Nach dem ultimativen Move wird die letzte Projektilwelle auf die Pflanze zurückgeführt und fügt den Zombies, denen sie erneut begegnet, Schaden zu.
+Nach der Spezialdünger-Fähigkeit wird die letzte Projektilwelle auf die Pflanze zurückgeführt und fügt den Zombies, denen sie erneut begegnet, Schaden zu.
 
 [NIGHTCAP_NEW_SKILL_LEVEL1_DES]
 Wenn der Nachtporling gepflanzt wird, erscheint Gift auf dem Feld, in dem es sich befindet. Es verursacht kontinuierlichen Schaden an den vorbeikommenden Zombies und vergiftet sie. Wird die Pflanze angegriffen oder kontrolliert, nimmt sie die Nachtform an und ist immun gegen diesen Angriff oder diese Kontrolle. Die Pflanze erleidet während dieser Zeit keinen Schaden. Die Nachtform hält 10 Sekunden an und beginnt dann mit einer Abklingzeit von 10 Sekunden. Wenn der Zombie die vier Felder rechts vom Nachtpilz betritt, greift dieser alle Zombies in diesen vier Feldern an und fügt ihnen Schaden zu, verlangsamt sie und vergiftet sie.
@@ -40092,7 +40104,7 @@ Scheiterranken-Kostüm
 Scheiterranken-Kostüm
 
 [STORE_PRODUCT_AVATAR_PYREVINE]
-Die Flamme nimmt nach dem Auslösen der ultimativen Fähigkeit die Form eines Kreuzes an.
+Die Flamme nimmt nach dem Auslösen der Spezialdünger-Fähigkeit die Form eines Kreuzes an.
 
 [PYREVINE_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie zwei Felder vor der Scheiterranke erscheint, spuckt die Feuerranke Flammen aus, die dem Zombie pro Sekunde Schaden zufügen. Ranken sind nicht von Gefrieren betroffen und schmelzen alle 1,5 Sekunden Eis in einem Umkreis von 3*3.
@@ -40245,7 +40257,7 @@ Der Energieverbrauch beim Feuerspeien wird um 10% reduziert. Nach einer gewissen
 Der Energieverbrauch beim Feuerspeien wird um 20% reduziert. Nach einer Zeit des ununterbrochenen blauen Feuers verwandelt sich die Flamme in violettes Feuer, was den Schaden erhöht.
 
 [GLUTTONYDRAGON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [GLUTTONYDRAGON_NEW_SKILL_LEVEL5_DES]
 Nachdem der Feuerstrahl endet, erscheint darüber ein Klon des Hauptkörpers, dessen Dauer der Dauer des Feuerstrahls entspricht. Der Klon feuert weiterhin Feuerbälle ab. Trifft der Feuerball den Zombie, verursacht er ^ef0123^burningⅠ^oldclr^, was kontinuierlichen Schaden verursacht.
@@ -40273,10 +40285,6 @@ Benutze das Maschinengewehr, um Zombies in alle Richtungen zu erschießen. Nach 
 Benutze das Maschinengewehr, um Zombies in alle Richtungen zu erschießen. Nachladen nach einer Schussrunde.
 
 [HELICONIAGUNNER_PRODUCT_SHORT_DESC]
-Schießen Sie mit dem Maschinengewehr in alle Richtungen auf Zombies. Nachladen nach einer Schussrunde.
-
-[HELICONIAGUNNER_SKILL_LEVEL1]
-Verbessertes Magazin ...TOOLTIP]
 Schießen Sie mit dem Maschinengewehr in alle Richtungen auf Zombies. Nachladen nach einer Schussrunde.
 
 [HELICONIAGUNNER_PRODUCT_SHORT_DESC]
@@ -40308,7 +40316,7 @@ Heliconia-Schützen kostüm
 Heliconia-Schützen kostüm
 
 [STORE_PRODUCT_AVATAR_HELICONIAGUNNER]
-Während der Rotation des ultimativen Moves wird pro sechs Projektile eine panzerbrechende Projektil hinzugefügt. Diese kann Zombies durchdringen und größeren Schaden verursachen.
+Während der Rotation der Spezialdünger-Fähigkeit wird pro sechs Projektile eine panzerbrechende Projektil hinzugefügt. Diese kann Zombies durchdringen und größeren Schaden verursachen.
 
 [HELICONIAGUNNER_NEW_SKILL_LEVEL1_DES]
 Befinden sich Zombies in Angriffsreichweite der Heliconia, werden die Projektile sehr schnell abgefeuert. Ziel ist die Position der Zombies. Zombies links neben der Heliconia werden zuerst getroffen. Die Heliconia hat 30 Projektile an der Basis. Nach dem Schuss dauert das Nachladen etwas. Die Pflanze verfügt über drei zusätzliche Fangnetzkanonen auf ihrem Rücken. Sie feuert auf die Zombies links und links daneben. Die im Netz gefangenen Zombies können sich nicht bewegen. Die Projektile der Fangnetzkanone können nicht wiederhergestellt werden.
@@ -40840,7 +40848,7 @@ Elektrisches Adlerklauen-Blumenkostüm
 Elektrisches Adlerklauen-Blumenkostüm
 
 [STORE_PRODUCT_AVATAR_EAGLECLAW]
-Der Blitz des ultimativen Moves kann lähmen. Zombies
+Der Blitz der Spezialdünger-Fähigkeit kann lähmen. Zombies
 
 [EAGLECLAW_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie in der Reihe erscheint, in der sich die Pflanze befindet, erzeugt die Adlerklauenblume einen Blitzball und fliegt über den Kopf des Zombies. Anschließend sendet sie alle 0,5 Sekunden einen Traktorstrahl aus, der dem Zombie Schaden zufügt. Der Blitzball hält 7 Sekunden lang an. Wenn der Zombie den Blitzball länger als ein Feld verlässt oder stirbt, wählt der Blitzball das anzugreifende Ziel erneut aus.
@@ -42411,7 +42419,7 @@ Feuert Querschläger ab und tötet Zombies mit niedrigem Gesundheitszustand.
 Feuert Querschläger ab und tötet Zombies mit niedrigem Gesundheitszustand.
 
 [STORE_PRODUCT_AVATAR_ELAEOCARPUS]
-Der kleine Wirbelwind der ultimativen Fähigkeit kann einen ganzen Reihe
+Der kleine Wirbelwind der Spezialdünger-Fähigkeit kann einen ganzen Reihe
 
 [STORE_PRODUCT_AVATAR_ELAEOCARPUS_TITLE]
 Du Ying Pitcher-Kostüm
@@ -42481,7 +42489,7 @@ Chance, Zombies nach Abwehr einzufrieren.
 Festliches Soda-Kokosnuss-Kostüm
 
 [STORE_PRODUCT_AVATAR_BEERCOCONUT]
-Das durch den ultimativen Move versprühte Soda enthält Eiskristalle, die Zombies nach Abwehr einfrieren.
+Die durch die Spezialdünger-Fähigkeit versprühte Soda enthält Eiskristalle, die Zombies einfrieren kann.
 
 [STICKYBOMBRICE]
 Haftbomben-Reis
@@ -42524,7 +42532,7 @@ Haftbomben-Reis-Kostüm
 Haftbomben-Reis-Kostüm
 
 [STORE_PRODUCT_AVATAR_STICKYBOMBRICE]
-Die mit der ultimativen Fähigkeit abgefeuerten Klebreisbälle verwandeln sich in violetten Reis und explodieren nach 2,5 Sekunden. Jeder violette Klebreisball verursacht 3x3 Flächenschaden und stößt die Zombies um ein halbes Raster zurück.
+Die mit der Spezialdünger-Fähigkeit abgefeuerten Klebreisbälle verwandeln sich in violetten Reis und explodieren nach 2,5 Sekunden. Jeder violette Klebreisball verursacht 3x3 Flächenschaden und stößt die Zombies um ein halbes Raster zurück.
 
 [CLAWGLORIOSA]
 Glorias Klaue
@@ -42812,7 +42820,7 @@ Verrückter Hutmacher-Kostüm
 Verrückter Hutmacher-Kostüm
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM]
-Der erste Zombie, der vom Hut des ultimativen Moves getroffen wird, erhält den Zeitumkehreffekt.
+Der erste Zombie, der vom Hut der Spezialdünger-Fähigkeit getroffen wird, erhält den Zeitumkehreffekt.
 
 [HOCUSCROCUS]
 Hokus-Krokus
@@ -43134,7 +43142,7 @@ Elektrizitäts-Zedernzapfen-Kostüm
 Elektrizitäts-Zedernzapfen-Kostüm
 
 [STORE_PRODUCT_AVATAR_DEODARCEDAR]
-Der Blitz der ultimativen Fähigkeit erzeugt nach dem Auftreffen auf den Zombie einen Lichtbogen mit einer Reichweite von 3×3, der zusätzlichen Schaden verursacht.
+Der Blitz der Spezialdünger-Fähigkeit erzeugt nach dem Auftreffen auf den Zombie einen Lichtbogen mit einer Reichweite von 3×3, der zusätzlichen Schaden verursacht.
 
 [GERANIIFENCER]
 Storchschnabel-Fechter
@@ -43321,7 +43329,7 @@ Imperia-Bogenschützenkostüm
 Imperia-Bogenschützenkostüm
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER]
-Die Anzahl der von der ultimativen Fähigkeit abgefeuerten Projektile verdoppelt sich. Die Projektile fliegen nicht geradeaus, sondern werden verstreut.
+Die Anzahl der von der Spezialdünger-Fähigkeit abgefeuerten Projektile verdoppelt sich. Die Projektile fliegen nicht geradeaus, sondern werden verstreut.
 
 [TIGERSTOOL]
 Tigerkopfpilz
@@ -44491,7 +44499,7 @@ Defensivindex: ^ee2c2c 4 ^oldclr
 Gesamtstärke: ^436eee 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM3_DES_5]
-^ffed86-Aufstellung ^oldclr: Narcissus-Schütze, Lian Xiaopeng, Guakodile
+^ffed86-Aufstellung ^oldclr: Narcissus-Schütze, Lotus, Guakodile
 
 [PVZ_WORLDCUP_TEAM3_DES_6]
 
@@ -48879,7 +48887,7 @@ Erholungszeit der Unend-Nuss um {Param_1} Sekunden verkürzt
 Schluckzeit von Chumpers um {Param_1} Sekunden verkürzt
 
 [GENE_DESCRIPTION_PUMPKINWITCH]
-Kürbiszauberer erhalten {Param_1} Sekunden weniger neue Kürbisse
+Kürbishexe erhalten {Param_1} Sekunden weniger neue Kürbisse
 
 [GENE_DESCRIPTION_BLOVER]
 Abklingzeit für Wehblatt um {Param_1}% reduziert.
@@ -65059,7 +65067,7 @@ Urzeit-Sonnenblumen verstärken ihre Fähigkeiten ab Level 3 auf Level 2.
 Welche Fähigkeiten erhält die Urzeit-Sonnenblume ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_PRIMALSUNFLOWER]
-ca=Wahrscheinlichkeit, eine bestimmte Menge Sonnenlicht zurückzugeben, wenn sie gepflanzt wird | Wahrscheinlichkeit, einen Schild zu erhalten, wenn sie gepflanzt wird | Wahrscheinlichkeit, Fernkampfschaden zu verursachen, wenn sie gepflanzt wird | Wahrscheinlichkeit, den ultimativen Spezialdünger direkt auszulösen, wenn sie gepflanzt wird |
+ca=Wahrscheinlichkeit, eine bestimmte Menge Sonnenlicht zurückzugeben, wenn sie gepflanzt wird | Wahrscheinlichkeit, einen Schild zu erhalten, wenn sie gepflanzt wird | Wahrscheinlichkeit, Fernkampfschaden zu verursachen, wenn sie gepflanzt wird | Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen, wenn sie gepflanzt wird |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_PRIMALSUNFLOWER]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
@@ -65226,7 +65234,7 @@ Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Ab Level 5 kann die Elektrische Blaubeere mehrere Zombies gleichzeitig angreifen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_ELECTRICBLUEBERRY]
-Was ist der ultimative Move der Spezialdünger-Fähigkeit der Elektrischen Blaubeere?
+Was ist die Spezialdünger-Fähigkeit der Elektrischen Blaubeere?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_ELECTRICBLUEBERRY]
 ca=Spuckt Feuer, um Zombies vor sich anzugreifen | Verleiht umliegenden Pflanzen einen Angriffsbonus | Löst eine große Gewitterwolke aus, die dreimal hintereinander angreift | Schneidet mit Schwertenergie nach vorne, die die gesamte Reihe durchdringt |
@@ -65538,7 +65546,7 @@ Das Kostüm des Schnapper's bewirkt, dass die Spezialdünger-Fähigkeit die Eise
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_CHOMPER]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Das Kostüm des Schnapper's verstärkt die Wirkung der ultimativen Fähigkeit beim Aufblasen von Zombies.
+Das Kostüm des Schnapper's verstärkt die Wirkung der Spezialdünger-Fähigkeit beim Aufblasen von Zombies.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_SQUASH]
 Was ist die Hauptfunktion des Matschkürbis?
@@ -71530,43 +71538,43 @@ Der Vermieter Bambus listet rechts eine Reihe von Feuerwerkskörpern auf, die de
 Der Vermieter Bambus listet rechts eine Reihe von Feuerwerkskörpern auf, die der gesamten Zombiereihe Schaden zufügen. ^ff0000^ und sprengt unterwegs kleine Zombies in die Luft, deren Gesundheit geringer ist als sein Schaden. Außerdem verursacht er 2 Sekunden lang ^oldclr^^848484^stunⅠ^oldclr^^ff0000^ bei kleinen Zombies, die nicht weggesprengt werden können. ^oldclr^
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies rechts von Lian Xiaopeng erscheinen, feuert dieser Raketen (an Land) oder Torpedos (im Wasser) ab, um die Zombies vor ihm anzugreifen. Trifft der Torpedo, verursacht er bei Zombies im Umkreis von etwa 2×1 gleich großen Flächenschaden.
+Wenn Zombies rechts vom Lotus erscheinen, feuert dieser Raketen (an Land) oder Torpedos (im Wasser) ab, um die Zombies vor sich anzugreifen. Trifft der Torpedo, verursacht er bei Zombies im Umkreis von etwa 2×1 gleich großen Flächenschaden.
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL2_DES]
 Von Lotus abgefeuerte Bomben haben eine Chance von 15%, Zombies zu betäuben.
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL3_DES]
-Von Lotus abgefeuerte Bomben haben eine Chance von 30%, Zombies zu betäuben.
+Vom Lotus abgefeuerte Bomben haben eine Chance von 30%, Zombies zu betäuben.
 
 [LOTUSSHOWER_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [LOTUSSHOWER_PLANTFOOD_DESCRIPTION]
-Lotus feuert eine Rakete ab, um Zombies im Umkreis von 2×1 (an Land) zu treffen, oder einen Torpedo, um die gesamte Zombiereihe zu treffen und eine Explosion im Umkreis von 2×1 an der unteren Linie (im Wasser) zu verursachen.
+Der Lotus feuert eine Rakete ab, um Zombies im Umkreis von 2×1 (an Land) zu treffen, oder einen Torpedo, um die gesamte Zombiereihe zu treffen und eine Explosion im Umkreis von 2×1 an der unteren Linie (im Wasser) zu verursachen.
 
 [LOTUSSHOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Lotus feuert eine Rakete ab, um Zombies im Umkreis von 3×3 (an Land) zu treffen, ^oldclr^, oder einen Torpedo, um die gesamte Zombiereihe zu treffen und eine Explosion im Umkreis von 3×3 (^ff0000^) an der unteren Linie (im Wasser) zu verursachen. ^oldclr^
+Der Lotus feuert eine Rakete ab, um Zombies im Umkreis von 3×3 (an Land) zu treffen, ^oldclr^, oder einen Torpedo, um die gesamte Zombiereihe zu treffen und eine Explosion im Umkreis von 3×3 (^ff0000^) an der unteren Linie (im Wasser) zu verursachen. ^oldclr^
 
 [SAPFLING_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom Harzkrug erscheint, wirft der Harzkrug Harz, um den Zombie zu verlangsamen. Das Harz verlangsamt Zombies, die darauf treten, um 50%. Das Harz löst sich nach 7 Sekunden auf.
+Wenn ein Zombie rechts vom Saftling erscheint, wirft der Saftling Harz, um den Zombie zu verlangsamen. Das Harz verlangsamt Zombies, die darauf treten, um 50%. Das Harz löst sich nach 7 Sekunden auf.
 
 [SAPFLING_NEW_SKILL_LEVEL2_DES]
-Das vom Harzkrug geworfene Harz hat eine Chance von 15%, Zombies für 2 Sekunden in Bernstein zu verwandeln.
+Das vom Saftling geworfene Harz hat eine Chance von 15%, Zombies für 2 Sekunden in Bernstein zu verwandeln.
 
 [SAPFLING_NEW_SKILL_LEVEL3_DES]
-Das vom Harzkrug geworfene Harz hat eine Chance von 30%, Zombies für 2 Sekunden in Bernstein zu verwandeln.
+Das vom Saftling geworfene Harz hat eine Chance von 30%, Zombies für 2 Sekunden in Bernstein zu verwandeln.
 
 [SAPFLING_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [SAPFLING_PLANTFOOD_DESCRIPTION]
-Der Harzkrug verwendet all seine Kraft, um 15 Sekunden lang zufällig 20 Harzstücke über den gesamten Bildschirm zu werfen.
+Der Saftling verwendet all seine Kraft, um 15 Sekunden lang zufällig 20 Harzstücke über den gesamten Bildschirm zu werfen.
 
 [SAPFLING_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Harzkrug bündelt seine ganze Kraft, um 15 Sekunden lang zufällig 20 Harzstücke über den gesamten Bildschirm zu schleudern. ^ff0000^ Zombies, die auf das Harz treten, verwandeln sich für 2 Sekunden in Bernstein. ^oldclr^
+Der Saftling bündelt seine ganze Kraft, um 15 Sekunden lang zufällig 20 Harzstücke über den gesamten Bildschirm zu schleudern. ^ff0000^ Zombies, die auf das Harz treten, verwandeln sich für 2 Sekunden in Bernstein. ^oldclr^
 
 [HURRIKALE_NEW_SKILL_LEVEL1_DES]
-Hurrikankohl wirbelt seine Blätter und erzeugt so einen eisigen Hurrikan, der Zombies 3 Sekunden lang mit 2 Blöcken/Sekunde zurückwirft und sie 8 Sekunden lang verlangsamt.
+Hurrikohl wirbelt seine Blätter und erzeugt so einen eisigen Hurrikan, der Zombies 3 Sekunden lang mit 2 Blöcken/Sekunde zurückwirft und sie 8 Sekunden lang verlangsamt.
 
 [HURRIKALE_PLANTFOOD_DESCRIPTION]
 Diese Pflanze hat keine Spezialdünger-Fähigkeit.
@@ -71629,7 +71637,7 @@ Die Blätter des Rübenwächters wachsen alle 60 Sekunden nach.
 Die Blätter des Rübenwächters wachsen alle 40 Sekunden nach.
 
 [CHARDGUARD_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Move freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [CHARDGUARD_NEW_SKILL_LEVEL5_DES]
 Von Beet Guard abgewehrte Zombies werden nach der Landung 2 Sekunden lang betäubt.
@@ -71671,7 +71679,7 @@ Die Rübe hat eine Chance von 25%, Projektile mit dem doppelten Schaden ihrer ei
 Die Rübe hat eine Chance von 50%, Projektile mit dem doppelten Schaden ihrer eigenen Angriffskraft abzufeuern.
 
 [XSHOT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [XSHOT_PLANTFOOD_DESCRIPTION]
 Die Spinnende Rübe feuert 14 Projektile gleichzeitig in vier Richtungen ab und hat eine siebenfache Angriffskraft.
@@ -71815,7 +71823,7 @@ Die fliegende Untertassenmelone kann Zombies mit weniger als 500 Lebenspunkten f
 Die fliegende Untertassenmelone kann Zombies mit weniger als 800 Lebenspunkten fangen.
 
 [SAUCER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen. Großer Move! Die fliegende Untertassenmelone kann Zombies mit weniger als 1000 KP fangen.
+Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen. Die fliegende Untertassenmelone kann Zombies mit weniger als 1000LP fangen.
 
 [SAUCER_PLANTFOOD_DESCRIPTION]
 Die fliegende Untertassenmelone schießt einen Strahl ab, der das gesamte Feld kontrolliert und alle Zombies auf dem Bildschirm für ^848484^ Ⅰ^oldclr^10 Sekunden betäubt.
@@ -71884,7 +71892,7 @@ Der Zauberpilz hat eine 10%ige Chance, zwei Karten abzufeuern.
 Der Zauberpilz hat eine 10%ige Chance, drei Karten abzufeuern.
 
 [MAGICSHROOM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [MAGICSHROOM_NEW_SKILL_LEVEL5_DES]
 Beim Angriff hat der Zauberpilz eine Chance von 40%, eine goldene Karte mit 450 Schaden zu schleudern. Diese Karte fügt einem Zombie im Einzelfeld Schaden zu und kehrt nach 2 Sekunden zurück.
@@ -72010,7 +72018,7 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Wirft bis zu 5 Kürbisse mit einer Stärke von 130% des normalen Kürbisses und kontrolliert die 5 am weitesten links steuerbaren Zombies auf dem Feld. Danach ruht sich der Kürbismagier 14 Sekunden lang aus. Die Puppe erholt sich nach dem Tod nicht.
 
 [PUMPKINWITCH_AVATAR_PLANTFOOD_DESCRIPTION]
-Wirft bis zu 5 Kürbisse mit einer Stärke von ^ff0000^150% des normalen Kürbisses^oldclr^ und kontrolliert die 5 am weitesten links steuerbaren Zombies auf dem Feld. Danach ruht sich der Kürbiszauberer 14 Sekunden lang aus. Die Puppe erholt sich nach dem Tod nicht.
+Wirft bis zu 5 Kürbisse mit einer Stärke von ^ff0000^150% des normalen Kürbisses^oldclr^ und kontrolliert die 5 am weitesten links steuerbaren Zombies auf dem Feld. Danach ruht sich der Kürbishexe 14 Sekunden lang aus. Die Puppe erholt sich nach dem Tod nicht.
 
 [GOLDLEAF_NEW_SKILL_LEVEL1_DES]
 Nach dem Pflanzen wird das Feld, auf dem es sich befindet, zu einem goldenen Feld. Darauf gepflanzte Pflanzen können dann Sonnen erzeugen.
@@ -72067,7 +72075,7 @@ Das von Stinkeblüte freigesetzte giftige Gas verzögert den Verlangsamungseffek
 Es besteht eine 25%ige Chance, Zombies 3 Sekunden lang mit Parfüm zu betäuben.
 
 [STALLIA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [STALLIA_PLANTFOOD_DESCRIPTION]
 Die Stinkeblüte setzt violettes Parfüm frei, das das gesamte Feld bedeckt und alle Zombies auf dem Feld 18 Sekunden lang verlangsamt.
@@ -72742,7 +72750,7 @@ Nach jedem Angriff besteht eine 25%ige Chance auf Fehlzündung, und eine zusätz
 Die Chance, die Fehlzündungsfertigkeit auszulösen, erhöht sich um 100%, und die Wahrscheinlichkeit einer Fehlzündung beträgt nach jedem Angriff 50%.
 
 [APPLEMORTAR_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen – ein großer Move!
+Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [APPLEMORTAR_NEW_SKILL_LEVEL5_DES]
 Die Apfelkernbombe wurde zu einer goldenen Apfelbombe aufgewertet. Diese kann Schaden im Umkreis von einem Block verursachen und einen einzelnen Zombie 0,5 Sekunden lang betäuben.
@@ -72787,7 +72795,7 @@ Die Vorbereitungszeit wird um 80% beschleunigt und ist in 2 Sekunden abgeschloss
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ESCAPEROOT_NEW_SKILL_LEVEL5_DES]
-Wenn die Pflanze mit dem ultimativen Move zum ersten Mal die Position mit der Fluchtwurzel tauscht, wird der ultimative Move ausgelöst.
+Wenn die Pflanze mit einer Spezialdünger-Fähigkeit zum ersten Mal die Position mit der Fluchtwurzel tauscht, wird die Spezialdünger-Fähigkeit ausgelöst.
 
 [ESCAPEROOT_PLANTFOOD_DESCRIPTION]
 Sie beschwört zwei bereite Fluchtwurzeln neben dem Zombie und explodiert sofort.
@@ -72886,7 +72894,7 @@ Wenn eine Schattenpflanze in der Mondlichtzone gepflanzt wird, hat die Mondblume
 Wenn eine Schattenpflanze in der Mondlichtzone gepflanzt wird, hat die Mondblume eine 20%ige Chance, sofort 25 Sonnenlicht zu erzeugen.
 
 [MOONFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [MOONFLOWER_NEW_SKILL_LEVEL5_DES]
 Superpflanze hat eine Chance von 25%, eine farbige Lichtwelle auszusenden, die Zombies tötet, die nicht bezaubert werden können.
@@ -73108,7 +73116,7 @@ Beim Angriff hat der Lotuswurzel-Schießer eine Chance von 10%, vier Wasserpfeil
 Die Wahrscheinlichkeit, dass mehrere Wasserpfeile die Fertigkeit auslösen, ist um 100% erhöht, und es besteht eine Chance von 20%, vier Wasserpfeile hintereinander abzufeuern.
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 30%ige Chance, eine Wassersäule abzufeuern, die 5 Sekunden lang anhält. Die Wassersäule verursacht 270 Schaden an Zombies pro Sekunde und wirft sie 0,5 Felder zurück.
@@ -73192,7 +73200,7 @@ Beim Angriff hat die Maulbeere eine Chance von 10%, eine Splittergranate abzufeu
 Die Auslösewahrscheinlichkeit der Fertigkeit „Sprengexperte“ ist um 100% erhöht. Außerdem besteht eine Chance von 10%, beim Angriff eine Splittergranate abzufeuern, wodurch der Explosionsschaden auf 1000 Punkte erhöht wird.
 
 [MULBERRY_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [MULBERRY_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 4%ige Chance, eine Gasbombe zu werfen. Diese versetzt Zombies im Umkreis von 3×3 für 10 Sekunden in den Zustand „vergiftet Ⅰ^oldclr^“ und verursacht 20% Schaden pro Sekunde. Es besteht eine 12%ige Chance, eine Blitzbombe zu werfen. Diese betäubt Zombies im Umkreis von 3×3 für 2 Sekunden. Es besteht eine 4%ige Chance, eine Explosionsbombe zu werfen. Diese verursacht hohen Schaden an Zombies und kann kleine und mittelgroße Zombies in geringer Entfernung in die Luft jagen.
@@ -73402,7 +73410,7 @@ Verstärkt den Interferenzeffekt auf mechanische Einheiten, der mechanische Einh
 Alarm-Explosions-Magnetpilz erlernt Energieüberladung, wodurch der Explosionsschaden deutlich erhöht wird.
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL5_DES]
 Nach der Explosion entsteht ein zusätzlicher Lichtbogen, der zwischen Zombies hin- und herfliegt, ihnen Schaden zufügt und sie 1 Sekunde lang lähmt.
@@ -73507,7 +73515,7 @@ Beim Angriff besteht eine 20%ige Chance, einen großen Blitzball abzufeuern, der
 Die Wahrscheinlichkeit, einen großen Blitzball abzufeuern, erhöht sich auf 40% und verursacht 940 Schaden und 400 Streuschaden.
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 20%ige Chance, ein Donnerdrachen-Phantom zu beschwören. Das Donnerdrachen-Phantom fliegt nach rechts und schleudert Blitze auf die Zombies in derselben Reihe, die 2500 Schaden und ^ff9600^ LähmungⅠ^oldclr^ für 1 Sekunde verursachen.
@@ -73633,7 +73641,7 @@ Es besteht eine 20%ige Chance, Zwillingsedelsteine mit 1,5-fachem Schaden auszuw
 Der Fertigkeitseffekt, reich und gut im Geldverdienen zu sein, wurde verbessert. Es besteht eine 50%ige Chance, einen Drei-Lebens-Edelstein mit doppeltem Schaden auszuwerfen. Nach einem Treffer auf einen Zombie kann der Drei-Lebens-Edelstein Zombies in drei Richtungen abprallen.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen – ein großer Move!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 30%ige Chance, einen verstärkten Edelstein zu versprühen, der 2,5-mal so viel Schaden verursacht wie ein normaler Edelstein. Nach dem Versprühen des verstärkten Edelsteins werden die nächsten beiden Angriffe definitiv Edelsteine mit drei Lebenspunkten sein.
@@ -73726,7 +73734,7 @@ Durch Distanztraining wurde die Angriffsreichweite des Smash-Aufschlags des Doo-
 Durch Krafttraining wurde die Angriffsreichweite des Smash-Aufschlags des Doo-Ying-Werfers von einer Einheit auf ein einzelnes Raster geändert.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL4_DES]
-Beim Einsetzen besteht die Chance, den Spezialdünger-Fähigkeitn-Big-Move direkt auszulösen!
+Beim Einsetzen besteht die Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL5_DES]
 Die Smash-Fähigkeit des Doo-Ying-Werfers wurde weiter verbessert. Sein Smash-Aufschlag kann Zombies mit weniger als 50% Gesundheit sofort töten.
@@ -73936,7 +73944,7 @@ Der tropfende Eislotus hat seine Kapazität für einen einzelnen Wasserspeicher 
 Der tropfende Eislotus wird kalt, wodurch Zombies, die ihn fressen, eine 5%ige Chance haben, I^oldclr^ 3 Sekunden lang ^0072ff^ einzufrieren.
 
 [ICELOTUS_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [ICELOTUS_PLANTFOOD_DESCRIPTION]
 Der tropfende Eislotus rotiert schnell und sammelt eine große Menge Wasser an, das dann auf einmal austritt und den umgebenden 5×5-Bereich mit einer Eispfütze bedeckt.
@@ -73975,7 +73983,7 @@ Chefkoch Cypripedium hat eine 50%ige Chance, konzentrierte Suppe zu werfen, die 
 Die Wahrscheinlichkeit, dass konzentrierte Gerichte die Fertigkeit auslösen, ist um 100% erhöht, und es besteht eine 100%ige Chance, konzentrierte Suppe zu werfen.
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL5_DES]
 Chefkoch Cypripedium veränderte die Suppenart. Sie färbte sich lila und verursachte bei Zombies im Zustand „Foul“ 200 Punkte Giftschaden (^701edf^ Ⅰ^oldclr^) pro Sekunde.
@@ -74215,7 +74223,7 @@ Der Impatiens-Schütze färbt schneller, und die Zeitspanne zwischen den Färbun
 Der Fertigkeitseffekt des schnellen Färbens wird um 100% erhöht, und die Zeitspanne zwischen den Färbungen verkürzt sich auf 14 Sekunden.
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen – ein großer Move!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL5_DES]
 Der Impatiens-Schütze kann zu einer stärkeren violetten Form aufgerüstet werden. Er verschießt violette Farbkugeln, die 2 Sekunden lang an Zombies haften bleiben. Es besteht eine 25%ige Chance zu explodieren und so Flächenschaden und Kontrolle zu verursachen.
@@ -74278,7 +74286,7 @@ Die Anzahl der Angriffe, die für eine Überladung erforderlich sind, beträgt 4
 Die Anzahl der Angriffe, die für eine Überladung benötigt werden, beträgt 5, und die Ruhezeit der Überladung beträgt 20 Sekunden.
 
 [MANGOSTEEN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, den ultimativen Angriff der Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [MANGOSTEEN_NEW_SKILL_LEVEL5_DES]
 Die Energie-Mangostane schleudert ein elektrisches Netz auf den ersten kleinen und mittleren Zombie, der in Angriffsreichweite kommt. Der im elektrischen Netz gefangene Zombie kann sich erst bewegen, wenn er stirbt. Die Energie-Mangostane kann das nächste elektrische Netz erst schleudern, wenn das elektrische Netz verschwindet.
@@ -74299,18 +74307,16 @@ Die Angelfähigkeit des Angelhakengrases wurde erhöht und die Ruhezeit des Ange
 Die Angelfähigkeit des Angelhakengrases wurde erhöht und die Ruhezeit des Angelhakengrases auf 11 Sekunden reduziert.
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen. Großer Move!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [FISHHOOKGRASS_NEW_SKILL_LEVEL5_DES]
 Wird ein geangelter Zombie hinter dich geworfen, stürmt er 1 Sekunde lang auf, bevor er ihn hinauswirft. Trifft der geworfene Zombie andere Zombies, wird er an der Kollisionsstelle 3 Sekunden lang betäubt, und die getroffenen Zombies werden gemeinsam 3 Felder zurückgeworfen. Auch die Zombies auf dem Weg werden zurückgeworfen. Nach der Landung werden alle Zombies 3 Sekunden lang ^848484^stunⅠ^oldclr^. Werden keine anderen Zombies getroffen, fliegen die geworfenen Zombies direkt vom Feld.
-
 
 [FISHHOOKGRASS_PLANTFOOD_DESCRIPTION]
 Das Angelhakengras sendet mehrere Haken gleichzeitig aus, die den nächsten Zombie fangen, Schaden zufügen und ihn dann heftig hinauswerfen. Kann der Zombie nicht gefangen werden, erleidet er enormen Schaden.
 
 [FISHHOOKGRASS_AVATAR_PLANTFOOD_DESCRIPTION]
 Das Angelhakengras wirft mehrere Angelhaken gleichzeitig aus, die den nächsten Zombie fangen und Schaden verursachen^ff0000^ und ^oldclr^^701edf^Gift Ⅰ^oldclr^^ff0000^Effekt^oldclr^ hinzufügen. Anschließend wirft es den Zombie heftig. Kann der Zombie nicht gefangen werden, fügt es ihm enormen Schaden zu.
-
 
 [INFERNO_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom flammenden Feuerfarn erscheint, erzeugt dieser einen Feuertornado, der den ersten Zombie, dem er begegnet, verbrennen und nach rechts tragen kann, bis der Tornado verschwindet oder der Zombie stirbt.
