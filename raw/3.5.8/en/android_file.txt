@@ -20082,10 +20082,10 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {EXCITED:crazydave}{SAY}Probiert den neuen Großen Schleuderpilz aus. Sein Angriff kann gegen den Schaden des Clown-Zombies immun sein.
 
 [NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_1]
-{NPC_ENTER:crazydave}{SAY}Vor uns befindet sich ein Ritter-Zombie. Er kann unsere Formation leicht durchbrechen.
+{NPC_ENTER:crazydave}{SAY} ey
 
 [NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_2]
-{EXCITED:crazydave}{SAY}Probiert den neuen Flammenpilz aus. Er kann eine Feuerwand erzeugen, um die Angriffe der Zombies abzuwehren.
+{EXCITED:crazydave}{SAY}tesr
 
 [NARRATIVE_PLANTTRIAL_LOTUSSHOWER_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Fischerzombie gefunden. Er wird uns von hinten angreifen.
