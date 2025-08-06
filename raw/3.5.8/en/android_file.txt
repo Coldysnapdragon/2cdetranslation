@@ -34097,10 +34097,10 @@ Bitte strengt euch an, Pflanzen und Kostüme zu sammeln und zu verbessern!
 Familientalent
 
 [PLANT_FAMILY_CUR_PROPERTY]
-Aktuelle Immobilie
+Aktuelle Fähigkeiten
 
 [PLANT_FAMILY_REFRESH_PROPERTY]
-Immobilie aktualisieren
+Fähigkeiten aktualisieren
 
 [PLANT_FAMILY_SAVE]
 Speichern
@@ -34112,7 +34112,7 @@ Aktualisieren
 Kostenlos aktualisieren
 
 [PLANT_FAMILY_FREE_REFRESH_AD]
-Werbung ansehen zum Aktualisierung
+Werbung
 
 [PLANT_FAMILY_FREE_REFRESH_REMAIN]
 {count} Mal heute frei
@@ -34121,13 +34121,13 @@ Werbung ansehen zum Aktualisierung
 Nicht freigeschaltet
 
 [PLANT_FAMILY_NONE_PROPERTY]
-Keine Immobilie
+Keine Fähigkeiten
 
 [PLANT_FAMILY_DONOT_REFRESH]
-Immobilien werden nicht aktualisiert.
+Fähigkeiten werden nicht aktualisiert.
 
 [PLANT_FAMILY_UNLOCK_DESC]
-Neue Immobilien freischalten
+Neue Fähigkeiten freischalten
 
 [PLANT_FAMILY_REFRESH_NOTICE]
 Sie haben eine ausgezeichnete Immobilie erhalten. Möchten Sie die Aktualisierung wirklich fortsetzen?
