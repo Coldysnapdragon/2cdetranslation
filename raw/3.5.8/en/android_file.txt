@@ -20180,6 +20180,9 @@ Der Angriff ist immun gegen den Rückprallschaden des Imp-Zombies und kann Zombi
 [PLANTTRIAL_ICESHROOM_DESC]
 Der Angriff kann mit der Zeit wachsen und hat einen Verlangsamungseffekt.
 
+[PLANTTRIAL_FIRESHROOM_DESC]
+Der Angriff kann mit der Zeit wachsen und hat einen Feuer-Effekt.
+
 [PLANTTRIAL_LOTUSSHOWER_DESC]
 Die Spezialdünger-Fähigkeit priorisiert Angriffe Die hintere Reihe, und die Projektile sind in Wasserleveln stärker.
 
