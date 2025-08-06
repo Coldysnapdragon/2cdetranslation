@@ -15531,10 +15531,10 @@ Kavallerie-Zombie
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION]
 
-{FLAVOR}Kavallerie-Zombie besitzt ein unter Zombies seltenes Ehrgefühl und Selbstwertgefühl. Daher lässt er es nie zu, dass andere ihn fragen, warum er ein Zombie geworden ist.
+{FLAVOR}test
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION_HEADER]
-Kann einen mächtigen Angriff starten. Bei diesem wird eine Lanze fallen gelassen die wie ein Grab ist und läuft seperat von seinem Pferd weiter.
+test
 
 [ZOMBIE_DARK_ROGUE]
 Dieb-Zombie
