@@ -9210,7 +9210,7 @@ Kaffeebohne (erste Stufe) plus Kostüm hoch
 Eispilz der ersten Stufe plus Verkleidung
 
 [GEMS_RESTORE_CODE_RECHARGE_FIRESHROOM_LV0_SUCCEED_CONTENT]
-Feuerpilz der ersten Stufe plus Kostüme
+Feuerpilz  Kostüme
 
 [GEMS_RESTORE_CODE_RECHARGE_OAKSHOOTER_LV0_SUCCEED_CONTENT]
 Eichenbogenschütze der ersten Stufe plus Kostüme
@@ -12514,7 +12514,7 @@ Die Spezialdünger-Fähigkeit kann alle Zombies auf dem Feld stagnieren lassen.
 Die Spezialdünger-Fähigkeit kann eine zusätzliche Eisschicht erzeugen.
 
 [STORE_PRODUCT_AVATAR_FIRESHROOM]
-Die durch die Spezialdünger-Fähigkeit erzeugte Feuerwand hat einen Explosionseffekt, wenn sie gelöscht wird.
+Die Spezialdünger-Fähigkeit erzeugt einen Explosionseffekt
 
 [STORE_PRODUCT_AVATAR_OAKSHOOTER]
 Die Spezialdünger-Fähigkeit kann Licht abfeuern. Pfeile
@@ -15723,7 +15723,7 @@ Feuerpilz
 [FIRESHROOM_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften:{STAT}Orange Pflanze, rote Pflanze, stark und gesund, Pilzfamilie, geheimnisvoller Zauberer
 
-{FLAVOR}Feuerpilz hasst den Sommer am meisten, weil er beim Zaubern zu sehr schwitzt. Noch schlimmer ist, dass die Klimaanlage in seinem Haus wegen der hohen Temperaturen ständig ausfällt. Immer wenn das passiert, beneidet er seinen Eispilz-Kollegen.
+{FLAVOR}Feuerpilz hasst den Sommer am meisten, weil er beim Zaubern zu sehr schwitzt.
 
 [FIRESHROOM_DESCRIPTION_HEADER]
 Der Feuerpilz kann mit zunehmendem Wachstum immer mächtigere Zauber freisetzen, um die Zombies vor ihm anzugreifen.
@@ -20082,10 +20082,10 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {EXCITED:crazydave}{SAY}Probiert den neuen Stinkpilz aus. Sein Angriff kann gegen den Schaden des Clown-Zombies immun sein.
 
 [NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_1]
-{NPC_ENTER:crazydave}{SAY}前方发现骑士僵尸，他能够轻易冲破我们的阵型
+{NPC_ENTER:crazydave}{SAY}Wir haben vorn einen Zombieritter entdeckt. Er kann unsere Formation leicht durchbrechen.
 
 [NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_2]
-{EXCITED:crazydave}{SAY}试试新到货的烈焰菇吧，他能够生成火墙阻挡僵尸的进攻。
+{EXCITED:crazydave}{SAY}Probiert die neu eingetroffenen Feuerpilze aus. Sie können eine Feuerwand erzeugen, um die Angriffe der Zombies abzuwehren.
 
 [NARRATIVE_PLANTTRIAL_LOTUSSHOWER_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Fischerzombie gefunden. Er wird uns von hinten angreifen.
