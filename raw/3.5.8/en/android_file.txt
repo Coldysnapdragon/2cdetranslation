@@ -26557,7 +26557,7 @@ Besiege den Eiswiesel-Zombie!
 Schlag zuerst zu!
 
 [DEFEAT_WEST_GARGANTUAR_REPEATABLE_TITLE]
-Besiege die West-Gargantuar-Zombies!
+Besiege die West-Gargantua-Zombies!
 
 [DEFEAT_WIZARD_REPEATABLE_DESC]
 Ihre dunklen, transformierenden Kräfte dürfen nicht toleriert werden!
@@ -26662,8 +26662,8 @@ Elektro-Ribisel
 
 [ELECTRICCURRANT_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}betrifft einen Bereich (Elektrozaun)
-{FLAVOR}
-„Elektrizität ist ja für sich genommen schon ein schönes Phänomen“, sagt die Elektro-Ribisel, „aber erst beim Elektromagnetismus geht richtig die Post ab.“ 
+
+{FLAVOR} „Elektrizität ist ja für sich genommen schon ein schönes Phänomen“, sagt die Elektro-Ribisel, „aber erst beim Elektromagnetismus geht richtig die Post ab.“ 
 
 [ELECTRICCURRANT_DESCRIPTION_HEADER]
 Pflanze Elektro-Ribiseln in derselben Reihe oder Spalte, um Elektrozäune zwischen ihnen zu ziehen. 
@@ -44130,10 +44130,10 @@ Countdown zur Aktualisierung des Prämienpools
 Countdown zur Produktaktualisierung
 
 [SHOP_REFRESH_LABEL]
-Countdown zur Aktualisierung
+Neu in:
 
 [SHOP_REFRESH_COUNTDOWN_LABEL]
-Countdown zur Shop-Zurücksetzung
+Neu in:
 
 [SECRET_MIDDLE_STR]
 Verfügbar
@@ -53991,68 +53991,67 @@ Artefakt-Verwendungs Anzahl erhöht sich nach der Nutzung um 1.
 Maximales Level
 
 [PERK_NAME_APPLYCONDITION]
-{CONDITION} Zombie-Buff
+{CONDITION}-Vorteil für Zombies
 
 [PERK_NAME_APPLYCONDITIONCHILL]
-Kälte
+Runterkühle
 
 [PERK_NAME_APPLYCONDITIONPOISONED]
-Gift
+Vergifte
 
 [PERK_NAME_APPLYCONDITIONHYPNOTIZED]
-Charme
+Hypnotisiere
 
 [PERK_NAME_APPLYCONDITIONSTALLED]
-Verlangsamung
+Verlangsame
 
 [PERK_NAME_APPLYCONDITIONSUNCARRIER50]
-Sonnenzombie
+Sonnenfall
 
 [PERK_NAME_APPLYCONDITIONSHRINKING]
-Schrumpfen
+Schrumpfe
 
 [PERK_NAME_APPLYCONDITIONBUTTER]
-Butter
+Einbuttere
 
 [PERK_NAME_APPLYCONDITIONFREEZE]
-Einfrieren
+Einfriere
 
 [PERK_NAME_APPLYCONDITIONPLANTFOOD]
 Spezialdünger-Fähigkeit
 
 [PERK_NAME_BOSSBUSTERCANNON]
-Zombie Buster
+Boss-Kämpfer-Vorteil
 
 [PERK_NAME_MINEISYOURS]
-Minenwerfer
+Minenwerfer-Vorteil
 
 [PERK_NAME_MINEISYOURSSUNFLOWER]
-Sonnenblumenwerfer
+Sonnenblumenwerfer-Vorteil
 
 [PERK_NAME_MOARSCORE]
-Punkteerhöhung
+Punkte-Boost-Vorteil
 
 [PERK_NAME_PENNYSHIELD]
-Penny-Schild
+Penny-Schild-Vorteil
 
-[PERK_NAME_PENNYSHIELD]
-Penny-Schild K_NAME_PENNYSHIELDMULTIPLE]
-Mehrere Schilde
+[PERK_NAME_PENNYSHIELDMULTIPLE]
+Pennys Multi-Schild-Vorteil
 
 [PERK_NAME_QUICKDELIVERY]
-Schnelle Verzögerung
+Expresslieferung-Vorteil
 
 [PERK_NAME_SHOCKWAVE]
-Bass-Explosion
+Bassbombe-Vorteil
 
 [PERK_NAME_SUNBANK]
-Sonnenscheinbank
+Sonnenbank-Vorteil
 
 [PERK_NAME_SUNBREAK]
-Sonnenscheinpause
+Sonnenschein-Vorteil
 
 [PERK_NAME_TRAFFICJAM]
-Stau
+Verkehrsstau-Vorteil
 
 [PERK_NAME_ZOMBIEINHIBITOR]
 Zombie Inhibitor
@@ -54064,13 +54063,13 @@ Abpraller-Geschosse
 Nächstes Level
 
 [PERK_NEXT_UPGRADE]
-Verbesserung bei der Nächsten Stufe: {CURRENT} / {NEXT}
+Nächstes Vorteil-Upgrade: {CURRENT} / {NEXT}
 
 [PERK_PROGRESSION_HEADER]
-Neues Verbesserungs-Upgrade!
+NEUES VORTEILS-UPGRADE!
 
 [PERK_SELECTION_NO_PERKS_WARNING]
-Du hast noch keinen kostenlosen Buff ausgewählt!
+Du hast noch keinen GRATIS-Vorteil ausgewählt!
 Möchtest du wirklich fortfahren?
 
 [CHILL]
@@ -54125,31 +54124,31 @@ Verascht
 Elektrifiziere
 
 [SUN_BREAK_DESCRIPTION]
-Nach Kampfbeginn erhältst du {BURSTS} X {SUN} Sonnenschein!
+Gibt in regelmäßigen Abständen Ausbrüche von {SUN} Sonne ab.
 
 [MINE_IS_YOURS_DESCRIPTION]
-Nach Kampfbeginn erscheinen alle {TIME} Sekunden {COUNT} Kartoffelminen auf dem Feld!
+Verteile alle {TIME} Sekunden {COUNT} Kartoffelmine(n)!
 
 [MINE_IS_YOURS_SUNFLOWER_DESCRIPTION]
-Nach Kampfbeginn erscheinen alle {TIME} Sekunden {COUNT} Sonnenblumen auf dem Feld!
+Verteile alle {TIME} Sekunden {COUNT} Sonnenblume(n)!
 
 [SHOCKWAVE_PERK_DESCRIPTION]
-Nach Kampfbeginn werden alle Zombies auf dem Feld alle {TIME} Sekunden um {DISTANCE} zurückgeworfen!
+Schlägt Zombies alle {TIME} Sekunden um eine Entfernung von {DISTANCE} zurück!
 
 [SUN_BANK_DESCRIPTION]
-Erhalte zu Beginn {NUMBER} zusätzlichen Sonnenschein!
+Beginne mit {NUMBER} zusätzlichen Sonnen.
 
 [PENNY_SHIELD_DESCRIPTION]
-Nach Kampfbeginn erscheint alle {TIME} Sekunden eine zufällige Spalte mit {HEALTH} auf dem Feld! Gesundheitsschild!
+Penny setzt alle {TIME} Sekunden einen Schild mit {HEALTH} Trefferpunkten ein!
 
 [PENNY_SHIELDMULTIPLE_DESCRIPTION]
-Nach Kampfbeginn werden alle {TIME} Sekunden zwei zufällige {HEALTH}-Gesundheitsschilde auf dem Feld generiert!
+Ersch. alle {TIME} Sek. {NUMBER} Schilde mit {HEALTH} Gesundheit!
 
 [QUICK_DELIVERY_DESCRIPTION]
-Die Geschwindigkeit, mit der Pflanzensamen auf dem Förderband erscheinen, erhöht sich um {NUMBER}%!
+Förderband-Tempo um {NUMBER}% erhöht!
 
 [ZOMBIE_INHIBITOR_DESCRIPTION]
-Schwächt {ZOMBIE} im Kampflevel!
+Ersetzt {ZOMBIE} im Level!
 
 [PENNY_JUGGLED_DESCRIPTION]
 Nach Kampfbeginn prallen alle Pflanzen auf dem Feld alle {TIME} Sekunden für {DURATION} Sekunden Zombie-Projektile ab!
@@ -54158,7 +54157,7 @@ Nach Kampfbeginn prallen alle Pflanzen auf dem Feld alle {TIME} Sekunden für {D
 {TYPE} Zombies {COUNT} Mal!
 
 [CHALLENGE_APPLY_ZOMBIE_CONDITIONS_POISON]
-Vergiftet Zombies {COUNT} Mal!
+Vergifte Zombies {COUNT} Mal!
 
 [CHALLENGE_DESTROY_SURFBOARDS]
 Zerstöre {GRID_ITEMS} Surfbretter
@@ -54188,46 +54187,46 @@ Töte {NUMBER} Zombie-Hühner.
 Töte {NUMBER} Zombie-Hühner.
 
 [DEFEAT_X_YETIS]
-Töte {NUMBER} Friedliche normale Zombies.
+Töte {NUMBER} Yeti Zombies.
 
 [DEFEAT_X_IMPS]
 Töte {NUMBER} Wicht-Zombies.
 
 [DEFEAT_X_BALLISTA]
-Töte {NUMBER} Batterien.
+Töte {NUMBER} Zkorpion Zombies.
 
 [DEFEAT_X_GARGANTUARS]
-Töte {NUMBER} Riesen-Zombies.
+Töte {NUMBER} Gargantua-Zombies.
 
 [DEFEAT_X_ICEAGE_GARGANTUAR]
-Töte {NUMBER} Eiszeit-Riesen-Zombies.
+Töte {NUMBER} Faultier-Gargantua-Zombies.
 
 [DEFEAT_X_STATUEHEAD]
 Töte {NUMBER} Römische Steingesicht-Zombies.
 
 [DEFEAT_X_ZCORPS]
-Töte {NUMBER} Zombies.
+Töte {NUMBER} Zcorp Zombies.
 
 [DEFEAT_X_OCTOPUS]
 Töte {NUMBER} Oktopus-Zombies.
 
 [CHALLENGE_APPLY_ZOMBIE_CONDITIONS_CHILL]
-Frieren Sie Zombies {COUNT} Mal ein!
+Friere Zombies {COUNT} Mal ein!
 
 [CHALLENGE_DESTROY_HEALERSTAFFS]
-Zerstören Sie {GRID_ITEMS} Heildtäbe
+Zerstöre {GRID_ITEMS} Heilstäbe
 
 [CHALLENGE_DESTROY_ICEBLOCKS]
-Zerstören Sie {GRID_ITEMS} Eisblöcke
+Zerstöre {GRID_ITEMS} Eisblöcke
 
 [CHALLENGE_DESTROY_STONEBLOCKS]
-Zerstören Sie {GRID_ITEMS} Steinblöcke
+Zerstöre {GRID_ITEMS} Steinblöcke
 
 [CHALLENGE_PLANT_DEFEAT_ZOMBIES_NAME]
 Besiegen Sie Zombies mit einer bestimmten Pflanze.
 
 [CHALLENGE_PLANT_DEFEAT_ZOMBIES]
-Besiegen Sie Zombies {NUMBER} Mal mit {NAME}.
+Besiege Zombies {NUMBER} Mal mit {NAME}.
 
 [APPLY_CONDITION_DESCRIPTION]
 Nachdem der Kampf begonnen hat, tritt alle {TIME} Sekunden der Effekt {CONDITION} ein und hält {DURATION} Sekunden an!
@@ -54242,7 +54241,7 @@ Nach Kampfbeginn erscheinen alle {TIME} Sekunden {NUMBER} Zombies mit zusätzlic
 Nach Kampfbeginn werden Zombies alle {TIME} Sekunden {DAMAGE} Punkte {CONDITION} Schaden zugefügt, der {DURATION} Sekunden anhält!
 
 [MOAR_SCORE_DESCRIPTION]
-In Arena-Leveln erhältst du zusätzliche {NUMBER}% für das Töten von Zombies!
+Erhöht die Punktzahl um {NUMBER} Prozent!
 
 [MINIGAME_PERK_REDUCE_ZOMBIE_SPEED_DESCRIPTION]
 Reduziert die Zombiegeschwindigkeit um {NUMBER}%.
@@ -54254,7 +54253,7 @@ Alle 20 Sekunden werden Zombies für {NUMBER} Sekunden eingefroren (beeinträcht
 Nachdem du den Gegenstand benutzt hast, kannst du normale Zombies im Feld sofort töten. Du kannst es {NUMBER}-mal verwenden.
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
-DiePflanzeneigenschaften erhöhen sich um {NUMBER3}% (einschließlich der Abklingzeit für spezielle Pflanzen im Memory Camel, der Geschwindigkeit des Erscheinens von Bowlingkugeln im Nussbowling und der Abklingzeit für Pflanzen im Mimic, ausgenommen Luftkrieg).
+Die Pflanzeneigenschaften erhöhen sich um {NUMBER3}% (einschließlich der Abklingzeit für spezielle Pflanzen im Memory Camel, der Geschwindigkeit des Erscheinens von Bowlingkugeln im Nussbowling und der Abklingzeit für Pflanzen im Mimic, ausgenommen Luftkrieg).
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
 Die Spieldauer erhöht sich um {NUMBER} Sekunden.
@@ -54263,13 +54262,13 @@ Die Spieldauer erhöht sich um {NUMBER} Sekunden.
 Die nach Levelabschluss erhaltene Energie erhöht sich um {NUMBER}%.
 
 [MINIGAME_PERK_XRAY]
-Decke alle Kamelkarten 10 Sekunden lang um. Kann {NUMBER}-mal verwendet werden.
+Deckt alle Kamelkarten 10 Sekunden lang um. Kann {NUMBER}-mal verwendet werden.
 
 [MINIGAME_PERK_BOWLING]
-Fülle sofort 5 Originalnüsse auf. In den nächsten 10 Sekunden erscheinen nur explosive Nüsse und Originalnüsse. Kann {NUMBER} verwendet werden. Mal
+Füllt sofort 5 Wall-Nüsse auf. In den nächsten 10 Sekunden erscheinen nur Sprengnüsse und Wall-Nüsse. Kann {NUMBER} mal verwendet werden.
 
 [MINIGAME_PERK_REFRESH_CARD]
-Aktualisiert die CD im Kartenfach sofort. Innerhalb der nächsten 10 Sekunden erscheinen nur noch Pflanzen im Zauberhut. Kann {NUMBER} Mal verwendet werden.
+Aktualisiert die Aufladezeite aller Pflanzen sofort. Innerhalb der nächsten 10 Sekunden erscheinen nur noch Pflanzen im Zauberhut. Kann {NUMBER} Mal verwendet werden.
 
 [MINIGAME_PERK_TIME_BACK]
 Kehrt zur vorherigen Spieloberfläche zurück und stellt die Anzahl der verbrauchten Schritte wieder her (kann das anfängliche Schrittlimit nicht überschreiten). Kann {NUMBER} Mal verwendet werden.
@@ -54290,7 +54289,7 @@ Alle Zombies sind gelähmt
 Spieldauer erhöht
 
 [MINI_GAME_PERK_NAME_MINI_GAME_COIN_INCREASED]
-Die Anzahl der Token, die nach Abschluss eines Levels erhalten werden, erhöht sich.
+Die Anzahl der Token, die nach Abschluss eines Levels erhalten werden, erhöhen sich.
 
 [MINI_GAME_PERK_NAME_ITEM_KILL_ALL_ZOMBIES]
 Tötet normale Zombies auf dem Spielfeld sofort.
@@ -54411,10 +54410,10 @@ Bepflanzt mit wenig Sonnenlicht und überlebt die Zombies!
 Erreicht Zielpunktzahl: {NUMBER}
 
 [STARCHALLENGE_SPEND_SUN_HOLDOUT]
-Verwendet kein Sonnenlicht innerhalb von {COUNT} Sekunden.
+Verwende keine Sonnen für {COUNT} Sekunden.
 
 [STARCHALLENGE_SURVIVE_LEVEL_TIME]
-Überlebt {TIME} Minuten!
+Überlebe {TIME} Minuten!
 
 [STARCHALLENGE_TOMBSTONES]
 Sehr große Grabsteine erschweren das Pflanzen.
@@ -54459,7 +54458,7 @@ Nicht genügend Energie
 Nicht genügend Energie, Spiel kann nicht gestartet werden
 
 [ADD_PERK_LABEL]
-Buff hinzufügen
+Vorteil hinzufügen
 
 [BACK_BUTTON]
 Zurück
@@ -58751,7 +58750,7 @@ Belohnungstipps
 (Je mehr Ziele du auswählst, desto höher ist die Belohnung.)
 
 [PVZ1_MODE_SELECT_LEVEL_THEME_NO_USE_DESC]
-Das aktuelle Level-Thema ist nicht wirksam.
+Das aktuelle Level-Thema ist hier nicht wirksam.
 
 [PVZ1MODE_SELECT_LEVEL_CHALLENGE_COMPLETE_DESC]
 ^FF0000 {NAME} (Abgeschlossen) ^oldclr
