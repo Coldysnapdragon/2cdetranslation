@@ -11082,7 +11082,7 @@ Kungfu-Welt-Textkonfiguration beginnt
 Demnächst verfügbar
 
 [WAIT_FOR_BOSS_COMING_TIP]
-„Spezialdünger-Fähigkeittive“ Herausforderung
+„Ultimative“ Herausforderung
 
 [WAIT_FOR_FUTURE_BOSS_COMING_DES]
 Dr. Zomboss erscheint bald, bitte bleiben Sie dran!
@@ -15362,10 +15362,10 @@ Eis-Schlüssel
 Normaler Angriff
 
 [DISPLAY_ACTION_PLANTFOOD]
-Spezialdünger-Fähigkeittiver Angriff
+Spezialdünger-Fähigkeit
 
 [DISPLAY_ACTION_AVATAR]
-Dekoration: Spezialdünger-Fähigkeittiv
+Dekoration: Spezialdünger-Fähigkeit
 
 [DAILY_REWARD_ERROR_TITLE]
 Netzwerk Abnormal
