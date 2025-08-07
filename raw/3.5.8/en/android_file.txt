@@ -8,6 +8,12 @@ Breitseitenkanone
 [ACHIEVE_COWBOY_STARS_DESC]
 Holt alle Wild-West-Sterne.
 
+[PVZ1MODE_DOCTORMAD]
+Ich Zombie
+
+[PVZ1MODE_DOCTORMAD_NORMAL_DESC]
+Befehle den Zombies, alle Pflanzen zu verschlingen.
+
 [ACHIEVE_COWBOY_STARS_TITLE]
 Eh, ho
 
@@ -14984,7 +14990,7 @@ Sonnensturm – Tag {LEVEL_NUMBER}
 Allein – Tag {LEVEL_NUMBER}
 
 [CHALLENGE_EVIL_NAME]
-Dr. Mad – Tag {LEVEL_NUMBER}
+Ich Zombie – Tag {LEVEL_NUMBER}
 
 [CHALLENGE_THREEPIGS_NAME]
 Theater Schock – Tag {LEVEL_NUMBER}
@@ -15008,7 +15014,7 @@ Hungrige Birnen verschlingen – Tag {LEVEL_NUMBER}
 Pflanzenlabyrinth – Tag {LEVEL_NUMBER}
 
 [CHALLENGE_SEEDRAIN_NAME]
-Himmelssturz – Tag {LEVEL_NUMBER}
+Es regnet Pflanzen – Tag {LEVEL_NUMBER}
 
 [BONUS_CARD_KEY_FUTURE]
 Schlüssel zum Zukunft
