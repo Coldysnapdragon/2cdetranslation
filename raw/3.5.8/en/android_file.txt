@@ -7503,7 +7503,7 @@ Nicht genügend Münzen!
 Die maximale Anzahl an Gehirnen wurde erreicht.
 
 [ATLANTIS_AQUARIUM]
-Zombie-Aquarium
+Zombiquarium
 
 [ATLANTIS_AQUARIUM_DESCRIPTION]
 Füttere Zombies, um Münzen zu verdienen. Kaufe dreimal Trophäen, um das Level abzuschließen.
@@ -24426,7 +24426,7 @@ Obergrenze für Pflanzungen überschritten
 Die Galaxie ist nach Abschluss dieses Vorgangs geöffnet. Welt
 
 [ACTIVITY_SUMMERY_TAB_ZOMBIEBOSS]
-Fordere die Zombies heraus!
+Fordere Zomboss heraus!
 
 [ACTIVITY_SUMMERY_TAB_FIRE]
 Feuerkristall-Lotterie
@@ -24441,7 +24441,7 @@ Pflanzenentwicklung
 Jetzt herausfordern!
 
 [ACTIVITY_SUMMERY_ZOMBIEBOSS_DESC]
-Fordere die Zombies heraus! Sammle Kristalle, um seltene Pflanzen zu gewinnen! (Doppelter Drop am Wochenende)
+Fordere Dr. Zomboss heraus! Sammle Kristalle, um seltene Pflanzen zu gewinnen! (Doppelte Belohnung am Wochenende)
 
 [ACTIVITY_SUMMERY_CHALLENGE_NUM]
 Du kannst heute ^FFF000 {NUMBER} ^oldclr Mal antreten.
@@ -54637,13 +54637,13 @@ Pflanzen haben eine kürzere Reichweite und werden zerbrechlicher.
 2. Eine zufällige Strategie aus dem vorherigen Thema wird wirksam.
 
 [THEME_INVISIBLE_NAME]
-Unsichtbare Zombies
+Geisterhaft
 
 [THEME_INVISIBLE_DESCRIPTION]
 Zombies sind unsichtbar, wenn sie erscheinen, und nur bestimmte Pflanzen können sie sehen.
 
 [THEME_RUSHER_NAME]
-Kleine große Zombies
+Problem Groß, Zombie klein
 
 [THEME_RUSHER_DESCRIPTION]
 Zombies schrumpfen und gewinnen an Geschwindigkeit.
@@ -54661,7 +54661,7 @@ Gewitter
 In regelmäßigen Abständen tritt Dunkelheit ein.
 
 [THEME_BLIZZARD_NAME]
-Schneefest
+Schneesturm
 
 [THEME_BLIZZARD_DESCRIPTION]
 Ein Schneesturm fegt in regelmäßigen Abständen über das Feld und friert Zombies und Pflanzen ein.
@@ -54685,7 +54685,7 @@ Beide Seiten leiden.
 Alle Pflanzen explodieren und verursachen Schaden beim Tod.
 
 [THEME_AOE_NAME]
-Explosion
+Explosionsverstärkung
 
 [THEME_AOE_DESCRIPTION]
 Der Schaden explosiver Pflanzen verdoppelt sich, der Sonnenlichtverbrauch halbiert sich.
@@ -54709,7 +54709,7 @@ Nahkampf-Pflanzenangriffskraft verdoppelt
 Saurer Regen ätzt Zombies und Pflanzen!
 
 [THEME_SEED_RAIN_NAME]
-Es regnet Samen
+Es regnet Pflanzen
 
 [THEME_SEED_RAIN_DESCRIPTION]
 Pflanzen fallen in regelmäßigen Abständen vom Himmel! (Nur in normalen Leveln wirksam)
@@ -54793,7 +54793,7 @@ Schwerer Ballon
 Pflanzen mit Rückstoßeffekt können nur fliegende Zombies abwehren.
 
 [THEME_TEXTONLY_NAME]
-Der Steam-Boss kommt
+Der Industrie-Boss kommt
 
 [THEME_TEXTONLY_DESCRIPTION]
 Die Steam-Welt erobert Penny und verfolgt sie.
