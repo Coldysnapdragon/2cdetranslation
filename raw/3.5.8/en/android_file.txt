@@ -35407,7 +35407,7 @@ Die Dauer des Feuerwerkskörpers verlängert sich um 0,25 Sekunden.
 Die Dauer des Feuerwerkskörpers verlängert sich um 0,5 Sekunden.
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Platzieren besteht die Chance, den Spezialdünger-Big direkt auszulösen!
+Beim Platzieren besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [FIRECRACKERFLOWER_NEW_SKILL_LEVEL5_DES]
 Beim Angriff wird eine Kiste mit Feuerwerkskörpern abgeworfen, die Zombies im Zielfeld 1,5 Sekunden lang den Effekt ^848484^stunⅠ^oldclr^ zufügt und alle 0,25 Sekunden 45 Schaden verursacht. Auch Zombies, die das Feld betreten, sind von diesem Effekt betroffen.
@@ -40240,8 +40240,7 @@ Der Energieverbrauch beim Feuerspeien wird um 20% reduziert. Nach einer gewissen
 [GLUTTONYDRAGON_SKILL_LEVEL2_DES]
 Der Energieverbrauch beim Feuerspeien wird um 20% reduziert. Nach einer gewissen Zeit des kontinuierlichen Feuerspeiens verwandelt sich die Flamme in violettes Feuer, was den Schaden erhöht.
 
-[GLUTTONYDRAGON_SKILL_LEVEL1_DES]
-N_SKILL_LEVEL5]
+[GLUTTONYDRAGON_SKILL_LEVEL5]
 Flammenklon
 
 [GLUTTONYDRAGON_SKILL_LEVEL5_DES]
@@ -41174,6 +41173,7 @@ Eiskraut
 [ICEWEED_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Das Raster, in dem es sich befindet
 {KEYWORD}Pflanzenmerkmale: {STAT}Blaue Pflanze
+
 {FLAVOR}Das Eiskraut freut sich riesig, in die große Liga berufen zu werden. Er kann es kaum erwarten, diese Zombies einzufrieren und ihnen wehzutun. Er bestand darauf, das Wort „und“ zu verwenden.
 
 [ICEWEED_DESCRIPTION_HEADER]
@@ -41240,6 +41240,7 @@ Blasenkoralle
 {KEYWORD}Reichweite: {STAT}Gesamte Zeile
 {KEYWORD}Merkmale: {STAT}Klicken, um zwischen verschiedenen Formen zu wechseln
 {KEYWORD}Pflanzenmerkmale: {STAT}Rosa Pflanze
+
 {FLAVOR}„Dummkopf … Dummkopf!, du kannst nicht angreifen, wenn du ständig klickst!“, sagte die Blasenkoralle wütend. „Ich kann nichts mit dir anfangen!“
 
 [BUBBLECORAL_DESCRIPTION_HEADER]
@@ -41433,7 +41434,7 @@ Wenn ihr einen Menschen erschafft, wird automatisch ein Schütze erschaffen. Die
 Wenn ihr einen Menschen erschafft, wird automatisch ein Mörser erschaffen. Die Anzahl der Angriffe, die zum Verbessern aller Pflanzenmenschenformen benötigt werden, verringert sich um 1. Pflanzenmenschen werden um 2 reduziert.
 
 [EYWA_NEW_SKILL_LEVEL4_DES]
-Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen Spezialdünger-Fähigkeit direkt freizusetzen. Großer Zug.
+Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [EYWA_NEW_SKILL_LEVEL5_DES]
 Wenn du zum ersten Mal einen Charakter erstellst, erstellst du direkt einen Panzermann. Wenn der Panzermann aus dem Panzer springt und in der Luft verschwindet, besteht die Chance, dass ein Flugzeug erscheint, den Mann auffängt, eine zusätzliche Atombombe abwirft und davonfliegt. Die Atombombe hat eine Explosionsreichweite von 3×3 und verursacht Schaden und Degradation bei Zombies in Reichweite.
@@ -41578,10 +41579,10 @@ HP auf 18.000 erhöht, Absorptionsbereich um ein Gitter pro Seite erhöht, Level
 HP auf 24.000 erhöht, Absorptionsbereich um ein Gitter pro Seite erhöht, Level der absorbierbaren Zombies auf Level 6 erhöht.
 
 [RHEUMNOBILE_NEW_SKILL_LEVEL4_DES]
-Beim Platzieren besteht eine mittlere Wahrscheinlichkeit, einen großen Angriff auszulösen. Level der absorbierbaren Zombies auf Level 8 erhöht.
+Beim Platzieren besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen. Level der essbaren Zombies auf Level 8 erhöht.
 
 [RHEUMNOBILE_NEW_SKILL_LEVEL5_DES]
-Level der absorbierbaren Zombies auf Level 10 erhöht.
+Level der essbaren Zombies auf Level 10 erhöht.
 Beim Niederhalten spuckt der gelbe Turm Flammen nach beiden Seiten und verursacht 5 Sekunden lang anhaltenden Feuerschaden an den Zombies am Boden. Zombies, die in den Flammen sterben, verwandeln sich unabhängig von der Quelle des Todes in Asche.
 
 [RHEUMNOBILE_PLANTFOOD_DESCRIPTION]
@@ -42019,7 +42020,7 @@ Beim Angriff steigt die Wahrscheinlichkeit, Zombies einzufrieren, auf 10%. Sind 
 Beim Angriff steigt die Wahrscheinlichkeit, Zombies einzufrieren, auf 15%. Sind die angegriffenen Zombies verlangsamt oder eingefroren, steigt die Wahrscheinlichkeit auf 30%.
 
 [WINTERRAMBUTAN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, Energie direkt freizusetzen (Bohnenmess-Fähigkeit).
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [WINTERRAMBUTAN_NEW_SKILL_LEVEL5_DES]
 Nach dem Einschlag des Schneeballs besteht für alle Zombies im Umkreis von 3*3 Eisnebel eine Chance von 20%, eingefroren zu werden.
@@ -57260,25 +57261,25 @@ Ereignisauswahl
 Sandsturm
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_2]
-Mecha-Sturm
+Roboter Regen 
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_3]
-Piraten entern
+Überfall
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_4]
-Raum-Zeit-Riss
+Portal
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_5]
-Angriff der Drachenflut
+Dinosaurier Herde
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_6]
 Eissturm
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_7]
-Angriff der Wolkendecke
+Fallschirm Regen
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_8]
-Raum-Zeit-Schwarzes Loch
+Schwarzes Loch
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_9]
 Zombies beschwören
@@ -65356,7 +65357,7 @@ Ab Level 4 besteht die Chance, dass elektrische Blaubeeren die Spezialdünger-F�
 
 [PENNY_CLASSROOM_SURVEY_WRONG_6_ELECTRICBLUEBERRY]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
-Ab Level 4 können elektrische Blaubeeren den Spezialdünger-Big häufiger auslösen.
+Ab Level 4 können elektrische Blaubeeren die Spezialdünger-Fähigkeit häufiger auslösen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_7_ELECTRICBLUEBERRY]
 Welche Fähigkeit erhält die elektrische Blaubeere ab Level 5?
@@ -65503,54 +65504,54 @@ Ab Level 3 verstärkt die Große Nuss ihre Fähigkeiten aus Level 2.
 Welche Fähigkeiten erhält die Große Nuss ab Level 4?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_TALLNUT]
-ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Fernkampfschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff einzusetzen.
+ca=Beim Pflanzen besteht die Chance, eine bestimmte Menge Sonnenlicht zurückzugeben. | Beim Pflanzen besteht die Chance, einen Schild zu erhalten. | Beim Pflanzen besteht die Chance, Fernkampfschaden zu verursachen. | Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen.
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
 
-Beim Pflanzen ab Level 4 besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff einzusetzen.
+Beim Pflanzen ab Level 4 besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_7_TALLNUT]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Ab Level 4 kann der Hochnuss die Spezialdünger-Fähigkeit häufiger einsetzen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_8_TALLNUT]
-Was ist die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit des Hochnusses?
+Was ist die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit der Hochwall-Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_TALLNUT]
 ca=Stahlpanzerung erhalten | Umliegende Pflanzen heilen | Große Edelsteine abschießen, die Zombies Schaden zufügen können | 3 Brandbomben abschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Spezialdünger-Fähigkeit der Spezialdünger-Fähigkeit des Hochnusses ist, Stahlpanzerung zu erhalten.
+Die Spezialdünger-Fähigkeit der Hochwall-Nuss ist, Stahlpanzerung zu erhalten.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_8_TALLNUT]
 Falls du falsch antwortest, beantworte die Frage bitte erneut.
 Die Spezialdünger Fähigkeit der Hochwall-Nuss kann Zombies länger widerstehen.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_9_TALLNUT]
-Welchen Effekt hat die Dekoration der Hochwall-Nuss?
+Welchen Effekt hat das Kostüm der Hochwall-Nuss?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
 ca=Eine riesige Erdbeere beschwören und explodieren lassen | Spezialdünger-Fähigkeit für eine stärkere Kristallrüstung | Drei goldene Granaten nach vorne schießen | Eine Mischung aus Feuer-, Eis- und gewöhnlichen Erbsengeschossen verschießen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_TALLNUT]
 Wenn du richtig antwortest, bist du ein Pflanzenmeister!
-Die Dekoration der Hochwall-Nuss bewirkt, dass die Spezialdünger-Fähigkeit eine stärkere Kristallrüstung verleiht.
+Das Kostüm der Hochwall-Nuss bewirkt, dass die Spezialdünger-Fähigkeit eine stärkere Kristallrüstung verleiht.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_9_TALLNUT]
 Falls du falsch geantwortet hast, beantworte die Frage bitte erneut.
 Die Verzierung der Hochwall-Nuss verstärkt die Rüstung.
 
 [PENNY_CLASSROOM_SURVEY_QUESTION_0_CHOMPER]
-Was ist die Hauptfunktion der Schnapper?
+Was ist die Hauptfunktion des Schnapper?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_CHOMPER]
 ca=Sonnenlicht erzeugen | Zombies Schaden zufügen (verschlucken) | Zombies blockieren | Verbündete Pflanzen heilen oder unterstützen |
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_CHOMPER]
 Wenn du richtig geantwortet hast, bist du der Meister der Pflanzen!
-Die Hauptfunktion der Schnapper besteht darin, die Zombies vor ihr zu verschlucken und zu verdauen.
+Die Hauptfunktion des Schnapper's besteht darin, die Zombies vor ihr zu verschlucken und zu verdauen.
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_CHOMPER]
 Falsche Antwort, bitte wiederholen.
@@ -76314,7 +76315,7 @@ Jede Beschwörung hat die Chance, einen speziellen kleinen Hai (z. B. einen Rote
 Nachdem das Seegrass Poseidon die große Attacke ausgeführt hat, beschwört sie drei weitere kleine Haie, darunter auch Rote Haie. Diese funktionieren an Land nicht.
 
 [AQUAWEED_NEW_SKILL_LEVEL1_DES]
-Beschwöre kleine Haie, um den Feind anzugreifen. Die kleinen Haie verschlingen Zombies mit weniger als 40% Gesundheit und kehren dann zum Seegras zurück, um ihre Energie wieder aufzufüllen. Nach dreimaliger Rückkehr des kleinen Hais ist das Seegras vollständig aufgefüllt und die große Attacke wird ausgelöst, um einen großen Hai zu beschwören, der verheerenden Schaden an einreihigen Zombies verursacht. Die Stufe 1 kann kleine und mittelgroße Zombies der Stufe 2 sofort töten.
+Beschwört kleine Haie, um den Feind anzugreifen. Die kleinen Haie verschlingen Zombies mit weniger als 40% Gesundheit und kehren dann zum Seegras zurück, um ihre Energie wieder aufzufüllen. Nach dreimaliger Rückkehr des kleinen Hais ist das Seegras vollständig aufgefüllt und die große Attacke wird ausgelöst, um einen großen Hai zu beschwören, der verheerenden Schaden an einreihigen Zombies verursacht. Die Stufe 1 kann kleine und mittelgroße Zombies der Stufe 2 sofort töten.
 
 [AQUAWEED_NEW_SKILL_LEVEL2_DES]
 Beim Beschwören eines kleinen Hais besteht eine Chance von 15%, zwei Haie zu beschwören. Die Angriffskraft der Haie wird erhöht und die Zeit bis zum erneuten Beschwören der Haie verkürzt sich. Die große Attacke der Stufe 2 kann kleine und mittelgroße Zombies der Stufe 4 sofort töten.
@@ -76323,7 +76324,7 @@ Beim Beschwören eines kleinen Hais besteht eine Chance von 15%, zwei Haie zu be
 Beim Beschwören eines kleinen Hais besteht eine 20%ige Chance, zwei Haie zu beschwören. Die Angriffskraft der Haie wird erhöht und die Zeit bis zum erneuten Beschwören der Haie verkürzt sich. Die große Attacke der 3. Stufe kann kleine und mittlere Zombies der 6. Stufe sofort töten.
 
 [AQUAWEED_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die große Attacke der Spezialdünger-Fähigkeit direkt freizusetzen. Die große Attacke der 4. Stufe kann kleine und mittlere Zombies der 8. Stufe sofort töten.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen. Die große Attacke der 4. Stufe kann nun kleine und mittlere Zombies der 8. Stufe sofort töten.
 
 [AQUAWEED_NEW_SKILL_LEVEL5_DES]
 Jede Beschwörung hat die Chance, einen speziellen kleinen Hai (Roter Hai) zu beschwören, der Zombies direkt frisst. Die große Attacke der 5. Stufe kann kleine und mittlere Zombies der 10. Stufe sofort töten.
