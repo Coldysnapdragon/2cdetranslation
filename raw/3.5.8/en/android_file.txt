@@ -27770,14 +27770,14 @@ Eine Schachtel mit Extras.
 [GIFT_BOX_WORLDMAP_HEADER]
 Geheimnisvolle Geschenkbox
 [GOLDBLOOM]
-Goldene Knospe
+Goldblüte
 [GOLDBLOOM_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Einmalige Anwendung, sofort wirksam
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
-{FLAVOR}„Ihr Botaniker denkt immer darüber nach, ob ihr es schafft“, sagte Goldene Knospe, ohne sich auf irgendetwas oder irgendjemanden zu beziehen, „aber ihr denkt nie darüber nach, ob ihr es solltet.“
+{FLAVOR}„Ihr Botaniker denkt immer darüber nach, ob ihr es schafft“, sagte Goldblüte, ohne sich auf irgendetwas oder irgendjemanden zu beziehen, „aber ihr denkt nie darüber nach, ob ihr es solltet.“
 
 [GOLDBLOOM_DESCRIPTION_HEADER]
-Goldene Knospe kann sofort viel Sonnenlicht ausstrahlen.
+Goldblüte kann sofort viel Sonnenlicht ausstrahlen.
 
 [GOLDBLOOM_TOOLTIP]
 Sofort viel Sonnenlicht ausstrahlen
@@ -36295,7 +36295,7 @@ Feuert Eisgeschosse ab, um hohen Schaden zu verursachen und nach einer gewissen 
 Die Spezialdünger-Fähigkeit bietet die Chance, Eismeteoriten abzuwerfen und Eisgruben zu hinterlassen, um Zombies zu verlangsamen.
 
 [STORE_PRODUCT_AVATAR_MISSILETOE_TITLE]
-Mistelzweig-Eisfeen-Kostüm
+Donnerbesen Kostüm
 
 [STORE_PRODUCT_CHARGE_TITLE]
 Lade dein Guthaben auf und sichere dir tolle Rabatte. Außerdem kannst du mit etwas Glück Kostüme bei der Verlosung gewinnen.
@@ -47633,16 +47633,16 @@ Pflanzen-Challenge – Hurrikan-Kohl!
 Pflanzen-Challenge – Lava-Guave!
 
 [TASK_WEEKLY_PLANTCHALLENGE_MISSILETOE]
-Pflanzen-Challenge – Mistelzweig-Eisfee!
+Pflanzen-Challenge – Donnerbesen!
 
 [TASK_WEEKLY_PLANTCHALLENGE_PARSNIP]
-Pflanzen-Challenge – Pastinaken!
+Pflanzen-Challenge – Pastinake!
 
 [TASK_WEEKLY_PLANTCHALLENGE_POWERLILY]
 Pflanzen-Challenge – Powerblume!
 
 [TASK_WEEKLY_PLANTCHALLENGE_SAPFLING]
-Pflanzen-Challenge – Harzkrug!
+Pflanzen-Challenge – Saftling!
 
 [TASK_WEEKLY_PLANTCHALLENGE_SHADOWPEASHOOTER]
 Pflanzen-Challenge – Schattenerbse!
@@ -47651,19 +47651,19 @@ Pflanzen-Challenge – Schattenerbse!
 Pflanzen-Challenge – Schrumpfendes Veilchen!
 
 [TASK_WEEKLY_PLANTCHALLENGE_SQUASH]
-Pflanzen-Challenge – Kürbis!
+Pflanzen-Challenge – Matschkürbis!
 
 [TASK_WEEKLY_PLANTCHALLENGE_STARFRUIT]
 Pflanzen-Challenge – Sternfrucht!
 
 [TASK_WEEKLY_PLANTCHALLENGE_TOADSTOOL]
-Pflanzen-Challenge – Goldener Krötenpilz!
+Pflanzen-Challenge – Krötenpilz!
 
 [TASK_WEEKLY_PLANTCHALLENGE_WASABIWHIP]
-Pflanzen-Challenge – Scharfer Wasabi!
+Pflanzen-Challenge – Wasabi Peitsche!
 
 [TASK_WEEKLY_PLANTCHALLENGE_WITCHHAZEL]
-Pflanzen-Challenge – Zaubernuss!
+Pflanzen-Challenge – Hexe Hazel!
 
 [ANNIVERSARY_TREASURE]
 Jubiläums-Schatzsuche
@@ -48520,7 +48520,7 @@ Anleitung zum Bäumepflanzen
 [ARBORDAY_DESCRIPTION]
 Aktivitätsinhalt:
 
-1. Jedes Mal, wenn du drei Wasserkessel verbrauchst, kannst du die Schatztruhe einmal öffnen und viele Pflanzenfragmente, Juwelen, Goldmünzen und andere Belohnungen erhalten. Die Liste der Belohnungen, die du erhalten kannst: ^FF8000^ Artefaktsegen-Ticket, Angriffsbambussoldat, Schwindelerregendes Gänseblümchen^oldclr^ ^8600FF^ Nachtschatten, Nachtschatten-Mistel, Eisfee^oldclr^ ^2828FF^Ursprungsnüsse, Spargelkämpfer, Mächtiger Blumenkohl^oldclr^ ^82D900^Dreifachschütze, Explosive Nüsse, Dendrobium-Windschutznetz^oldclr^
+1. Jedes Mal, wenn du drei Wasserkessel verbrauchst, kannst du die Schatztruhe einmal öffnen und viele Pflanzenfragmente, Juwelen, Goldmünzen und andere Belohnungen erhalten. Die Liste der Belohnungen, die du erhalten kannst: ^FF8000^ Artefaktsegen-Ticket, Angriffsbambussoldat, Schwindelerregendes Gänseblümchen^oldclr^ ^8600FF^ Nachtschatten, Nachtschatten-Donnerbesen^oldclr^ ^2828FF^Ursprungsnüsse, Spargelkämpfer, Mächtiger Blumenkohl^oldclr^ ^82D900^Dreifachschütze, Explosive Nüsse, Dendrobium-Windschutznetz^oldclr^
 
 2. Du erhältst einen Kessel durch Bewässerungsaufgaben oder durch Juwel-Geschenkpakete.
 
@@ -49067,7 +49067,7 @@ Die Angriffskraft der Schattenerbse erhöht sich um {Param_1}% mit der Anzahl de
 Wenn der explodierende Platycodon-Ballon explodiert, besteht eine Chance von {Param_1}%, eine 1-sekündige Betäubung zu verursachen. Die Wahrscheinlichkeit, Ballons zu stapeln, ist erhöht.
 
 [GENE_DESCRIPTION_MISSILETOE]
-Die Ruhezeit der Mistel-Eisfee verkürzt sich um {Param_1}%.
+Die Ruhezeit des Donnerbesen verkürzt sich um {Param_1}%.
 
 [GENE_DESCRIPTION_NEKOTAIL]
 Die vom normalen Angriff des Katzenschwanz abgefeuerten Stacheln haben eine Chance von {Param_1}%, Zombies zu durchdringen.
@@ -49378,7 +49378,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 7. Einige Level- und Glücksrad-Belohnungen kannst du selbst auswählen. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
@@ -49401,7 +49401,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
@@ -49425,7 +49425,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
@@ -49448,7 +49448,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
@@ -49471,7 +49471,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Mistel-Eisfee, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
@@ -52014,7 +52014,7 @@ Stahlgeparden-Superkostüm
 Aloe Vera Arzt-Jubiläumsoutfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_1]
-Goldene Knospe-Jubiläumsoutfit
+Goldblüte-Jubiläumsoutfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_3]
 Laserbohnen-Jubiläumsoutfit
@@ -58811,7 +58811,7 @@ Herausforderungsziel
 Erinnerungsreise – Tag {NUM}
 
 [PVZ1_BOSS_LEVEL_MODE_DESC]
-Der Dreadnought kommt, haltet euch gut fest!
+Der Zomboss kommt, passt auf!
 
 [PVZ1_MODE_TIME_ENERGY_BANK_TIPS_TITLE]
 Tipps
@@ -73174,16 +73174,16 @@ Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähig
 Der Windpastinaken kann einen Klauenangriff starten. Die Klauen fliegen nach rechts und fügen vorbeikommenden Zombies 450 Schaden zu. Anschließend kehren sie zurück und verursachen erneut Schaden. Der Schaden der Riesenklaue des Windpastinaken wird auf 300 und der Angriffsschaden auf 450 erhöht.
 
 [PARSNIP_PLANTFOOD_DESCRIPTION]
-Das verdorrte Gras schrumpft im Boden und beschwört zwei kleine, verdorrte Krabben, die nach rechts stürmen und vorbeikommenden Zombies kontinuierlich mit ihren Zangen Schaden zufügen.
+Die Pastinake schrumpft im Boden und beschwört zwei kleine, verdorrte Krabben, die nach rechts stürmen und vorbeikommenden Zombies kontinuierlich mit ihren Zangen Schaden zufügen.
 
 [PARSNIP_AVATAR_PLANTFOOD_DESCRIPTION]
-Das verdorrte Gras schrumpft in den Boden und beschwört zwei kleine verdorrte Krabben, die nach rechts stürmen und vorbeikommenden Zombies kontinuierlich Zangenschaden zufügen. ^ff0000^ Außerdem beschwört es eine weitere rote verdorrte Krabbe mit Dampf, die höheren Schaden verursacht und Zombies ^oldclr^^848484^ für Ⅰ^oldclr^^ff0000^1 Sekunde betäubt. ^oldclr^
+Die Pastinake schrumpft in den Boden und beschwört zwei kleine verdorrte Krabben, die nach rechts stürmen und vorbeikommenden Zombies kontinuierlich Zangenschaden zufügen. ^ff0000^ Außerdem beschwört es eine weitere rote verdorrte Krabbe mit Dampf, die höheren Schaden verursacht und Zombies ^oldclr^^848484^ für Ⅰ^oldclr^^ff0000^1 Sekunde betäubt. ^oldclr^
 
 [MISSILETOE_NEW_SKILL_LEVEL1_DES]
 Nach manueller Festlegung der Angriffsposition feuert die Mistel Eisgranaten ab, die Zombies in Reichweite Schaden zufügen. Anschließend ruht sie sich 20 Sekunden lang aus.
 
 [MISSILETOE_NEW_SKILL_LEVEL2_DES]
-Die Mistelzweig-Eisfee hat die Fähigkeit erlernt, Eisenergie zu sammeln. Die Ruhezeit wurde auf 19 Sekunden reduziert.
+Der Donnerbesen hat die Fähigkeit erlernt, Eisenergie zu sammeln. Die Ruhezeit wurde auf 19 Sekunden reduziert.
 
 [MISSILETOE_NEW_SKILL_LEVEL3_DES]
 Der Effekt der Eisenergiereduktion wurde um 100% erhöht und die Ruhezeit auf 18 Sekunden reduziert.
@@ -73195,10 +73195,10 @@ Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, Spezialdünger-Fähigkeit
 Beim Angriff besteht eine 80% Wahrscheinlichkeit, Eisraketen abzufeuern. Diese verursachen bei der Landung 3000 Schaden in einem Umkreis von 3×3 und detonieren nach 5 Sekunden mit 4500 Schaden in einem Umkreis von 3×3.
 
 [MISSILETOE_PLANTFOOD_DESCRIPTION]
-Die Mistel-Eisfee visiert das Zombie-Gitter an, feuert vier Eisgranaten ab und vervollständigt sofort deren Ladung.
+Der Donnerbesen visiert das Zombie-Gitter an, feuert vier Eisgranaten ab und vervollständigt sofort deren Ladung.
 
 [MISSILETOE_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Mistel-Eisfee visiert das Zombie-Gitter an, ^ff0000^ feuert vier Eismeteoriten mit hohem Schaden ab, die eine Eisgrube hinterlassen, die 7 Sekunden lang anhält und die Zombies verlangsamt, ^oldclr^ und vervollständigt sofort die Ladung der Eisgranaten.
+Der Donnerbesen visiert das Zombie-Gitter an, ^ff0000^ feuert vier Eismeteoriten mit hohem Schaden ab, die eine Eisgrube hinterlassen, die 7 Sekunden lang anhält und die Zombies verlangsamt, ^oldclr^ und vervollständigt sofort die Ladung der Eisgranaten.
 
 [KIWIBEAST_NEW_SKILL_LEVEL1_DES]
 Wenn Zombies in Angriffsreichweite erscheinen, schlagen sie auf den Boden und fügen allen Zombies in einem Gitter Schaden zu. Jedes Mal, wenn sie eine bestimmte Menge Schaden erleiden, werden sie größer und erweitern so die Angriffsreichweite des Schlags. Wenn sie wachsen, führen sie sofort einen verstärkten Schlag aus, der Zombies um ein Gitter zurückwirft.
@@ -73222,7 +73222,7 @@ Bestien-Kiwi wächst sofort zu seiner größten Form heran und springt dreimal h
 Kiwi-Bestie wächst sofort zu ihrer größten Form heran und springt dreimal hintereinander. ^ff0000^ fügt Zombies in Reichweite schweren Schaden zu und verursacht einmal Schock. ^oldclr^
 
 [GOLDBLOOM_NEW_SKILL_LEVEL1_DES]
-Goldene Knospe erzeugt nach dem Pflanzen sofort 375 Sonnen. Keine Abklingzeit für das erste Pflanzen.
+Goldblüte erzeugt nach dem Pflanzen sofort 375 Sonnen. Keine Abklingzeit für das erste Pflanzen.
 
 [GOLDBLOOM_PLANTFOOD_DESCRIPTION]
 Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
@@ -78761,6 +78761,15 @@ Technologie verleiht unbegrenzte Feuerkraft!
 
 [AVATARCOLLECTIONS_HEAD_ID_25658]
 Moderne Technologie
+
+[THEME_DISABLE_BOOST_NAME]
+Zurück zu den Grundlagen
+
+[THEME_DISABLE_BOOST_DESCRIPTION]
+Deaktiviert alle Verbesserungen für Pflanzen und nutzt ausschließlich die standard Attribute der Pflanze
+
+[THEME_DISABLE_BOOST_DESCRIPTION_DETAILS]
+Deaktiviert die folgenden Effekte: 1. Genetische Boni, 2. Zubehöreffekte, 3. Kosmetische Attributboni, 4. Familienattributboni, 5. Passive Artefaktboni
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25658]
 Technologie verleiht unbegrenzte Feuerkraft!
