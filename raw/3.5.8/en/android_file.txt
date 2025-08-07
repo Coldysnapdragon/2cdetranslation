@@ -363,7 +363,7 @@ Pflanzen können nicht auf versteinerten Zombies gepflanzt werden.
 Pflanzen können nicht auf Flugzeugwracks gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_HEALERSTAFF]
-Pflanzen können nicht auf Spazierstöcken gepflanzt werden.
+Pflanzen können nicht auf Heilstäben gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_LOLLIPOPS]
 Pflanzen mögen keine Lollis.
@@ -372,11 +372,10 @@ Pflanzen mögen keine Lollis.
 Pflanzen können nicht auf Speeren gepflanzt werden.
 
 [ADVICE_PLANT_NOT_ON_KING]
-Pflanzen können nicht auf Königszombies gepflanzt werden.
+Du kannst nichts auf einem Zombiekönig pflanzen
 
-[ADVICE_PLANT_NOT_ON_KING]
-ICE_PLANT_NOT_ON_MOLD]
-Pflanzen können nicht gepflanzt werden auf Schimmel
+[ADVICE_PLANT_NOT_ON_MOLD]
+Du kannst in den Schimmelpilzkolonien nichts pflanzen
 
 [ADVICE_PLANT_NOT_ON_POTIONS]
 Pflanzen können nicht auf Zaubertränken gepflanzt werden.
@@ -59479,22 +59478,22 @@ Nuss-Bowling
 Wirf verschiedene Nüsse, um Zombies zu eliminieren und zu gewinnen.
 
 [PVZ1MODE_SEEINGSTARS]
-Sieh die Sterne.
+Ich sehe Sternchen
 
 [PVZ1MODE_SEEINGSTARS_NORMAL_DESC]
 Gewinne, indem du die gleichen Pflanzen gemäß den Anweisungen pflanzt.
 
 [PVZ1MODE_OVERWHELM]
-Überwältigen
+Reihenweise Zombie-Greise
 
 [PVZ1MODE_OVERWHELM_DESC]
-Na ja, sie sehen aus wie Säulen.
+Jede gepflanzte Pflanze ist in einer ganzer Reihe.
 
 [PVZ1MODE_TOUCHING]
-Maulwurf-Schlag
+Hau-den-Zombie
 
 [PVZ1MODE_TOUCHING_NORMAL_DESC]
-Klicke wie verrückt.
+Klicke wie verrückt und Zombies zu töten.
 
 [PVZ1MODE_COPYCATS]
 Rate mal, wer ich bin. Uhr
@@ -59502,8 +59501,26 @@ Rate mal, wer ich bin. Uhr
 [PVZ1MODE_COPYCATS_NORMAL_DESC] ORMAL_DESC]
 Pflanzen und Zombies erscheinen zufällig in der Überraschungsgeschenkbox.
 
+[PVZ1MODE_BEJEWELED]
+Bejeweled
+
+[PVZ1MODE_BEJEWELED_NORMAL_DESC]
+Wischen Sie, um Pflanzen zu tauschen und in einer Reihe zu verbinden
+
+[PVZ1MODE_MOULD]
+Schimmelpilzkolonien
+
+[PVZ1MODE_MOULD_NORMAL_DESC]
+Auf Schimmelpilzkolonien können keine Pflanzen wachsen.
+
+[PVZ1MODE_SMASH]
+Vasen-brecher
+
+[PVZ1MODE_SMASH_NORMAL_DESC]
+Zerschmettere die Vasen und töte alle Zombies.
+
 [PVZ1MODE_IZOMBIE]
-Zombie-Krieg
+Pflanzenzombies
 
 [PVZ1MODE_IZOMBIE_NORMAL_DESC]
 Pflanzenzombies gegen herkömmliche Zombies
@@ -59604,6 +59621,12 @@ Informationen zum schwierigen Kampflevel verloren.
 
 [PVZ_ERROR_46007]
 Die angeforderte Levelanzahl ist falsch.
+
+[PVZ1MODE_DOCTORMAD]
+Ich Zombie
+
+[PVZ1MODE_DOCTORMAD_NORMAL_DESC]
+Befehle den Zombies, alle Pflanzen zu verschlingen.
 
 [HEADSHOT_GAMEINFO_NAME]
 {NAME} Avatar
@@ -69828,11 +69851,11 @@ Zerstören Alles
 [S25_MEMORY_LEVEL_NAME_027]
 Alles zerstören
 
-[S25_MEMORY_LEVEL_NAME_028] RY_LEVEL_NAME_028]
+[S25_MEMORY_LEVEL_NAME_028]
 Friedlich und friedlich
 
 [S25_MEMORY_LEVEL_NAME_029]
-Rock and Roll
+Rock und Roll
 
 [S25_MEMORY_LEVEL_NAME_030]
 Pflanzenlabyrinth
@@ -69922,7 +69945,7 @@ Die Götter kehren zurück
 [S25_MEMORY_LEVEL_NAME_057]
 Die Götter kehren zurück
 
-[S25_MEMORY_LEVEL_NAME_058] EVEL_NAME_057]
+[S25_MEMORY_LEVEL_NAME_058]
 Primitive Zivilgesellschaft Krieg
 
 [S25_MEMORY_LEVEL_NAME_058]
