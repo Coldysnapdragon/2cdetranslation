@@ -209,7 +209,7 @@ Piratenbucht räumen
 Wow! Yarra!!
 
 [ADVICE_ALMANAC_FROM_PLANTS]
-Klicke auf die Pflanzen auf der Karte, um die Illustration zu öffnen.
+Berühre auch die Pflanzen auf der Karte, um das Lexikon aufzurufen
 
 [ADVICE_BOUGHT_PLANTFOOD]
 Denk daran, dir vorsichtshalber Spezialdünger-Fähigkeit zuzulegen!
@@ -992,13 +992,13 @@ Sie können dies später im Optionsmenü ändern.
 Updates herunterladen?
 
 [CHALLENGE_LASTSTAND_A_NAME]
-Unzerstörbar – Tag 1
+Das letzte Gefecht – Tag 1
 
 [CHALLENGE_LASTSTAND_B_NAME]
-Unzerstörbar – Tag 2
+Das letzte Gefecht – Tag 2
 
 [CHALLENGE_LASTSTAND_C_NAME]
-Unzerstörbar – Tag 3
+Das letzte Gefecht – Tag 3
 
 [CHALLENGE_PRESET_A_NAME]
 Pflanzenkrise – Tag 1
@@ -5372,10 +5372,10 @@ Töte {ZOMBIES} Zombies in {TIME} Sekunden
 Töte Zombies Rechtzeitig
 
 [STARCHALLENGE_LASTSTAND_MINIGAME]
-Baue deine Verteidigung auf, um den Zombies standzuhalten.
+Plane deine Verteidigung und besiege die Zombies!
 
 [STARCHALLENGE_LASTSTAND_MINIGAME_NAME]
-Letzte Verteidigung
+Das letzte Gefecht
 
 [STARCHALLENGE_MOLD_MINIGAME]
 Überlebe ohne in Dave's Schimmelpilz zu pflanzen.
@@ -5417,7 +5417,7 @@ Verbinde dieselben Pflanzenkugeln, um Angriffe zu starten und Zombies zu besiege
 Es regnet Samen
 
 [STARCHALLENGE_SEEDRAIN]
-Setze die vom Himmel herabsteigende Armee ein, um die Zombie-Invasion abzuwehren.
+Setze die vom Himmel herabsteigenden Pflanzen ein, um die Zombie-Invasion abzuwehren.
 
 [STARCHALLENGE_BESIEGN_NAME]
 Suchen und abfangen
@@ -5438,10 +5438,10 @@ Förderband
 Benutze die Pflanzen vom Förderband, um die Zombie-Invasion in der Verlorenen Stadt abzuwehren.
 
 [STARCHALLENGE_LOSTCITY_LASTSTAND_NAME]
-Letzte Verteidigung
+Das letzte Gefecht
 
 [STARCHALLENGE_LOSTCITY_LASTSTAND]
-Baue eine undurchdringliche Verteidigung, um der Zombie-Invasion in der Verlorenen Stadt standzuhalten.
+Plane deine Verteidigung und besiege die Zombies der Verlorenen Stadt!
 
 [STARCHALLENGE_LOSTCITY_RAIN_NAME]
 Regenwaldnacht
@@ -14360,16 +14360,16 @@ Geh in deinen Zen-Garten!
 Kehre in deinen Zen-Garten zurück!
 
 [ADVICE_SUN_BOMBS_TRIGGERED]
-Das Erreichen der Sonnenbomben-Stufe erfordert Geduld und Präzision.
+In Sonnenbomben-Levels kommt es auf Geduld und Präzision an.
 
 [ADVICE_SUN_BOMBS_WARNING]
-Warte, bis die Sonnenbombe landet, und klicke sie in der Luft an, um sie sofort explodieren zu lassen.
+Warte ab, bis Sonnenbomben gelandet sind, sonst explodieren sie bei Berührung
 
 [ADVICE_SUNBOMBS_EXPLODE]
-Die Explosion beschädigt Pflanzen und Zombies.
+Explosionen können Pflanzen und Zombies Schaden zufügen
 
 [ADVICE_SUNBOMBS_WAIT]
-Warte, bis die Sonnenbombe landet, um Sonnenlicht einzufangen.
+Warte, bis Sonnenbomben gelandet sind, bevor du die Sonnen einsammelst
 
 [ADVICE_USE_MAGNIFYING_GRASS]
 Klicke auf das „Vergrößerungsgras“, um mit 50 Sonnen anzugreifen.
@@ -14978,10 +14978,10 @@ Vasenkrise
 Zerschmettere die Gläser und vertreibe alle Zombies.
 
 [STARCHALLENGE_LASTSTAND_NAME]
-Unzerstörbar
+Das letzte Gefecht
 
 [STARCHALLENGE_LASTSTAND]
-Platziere deine Pflanzen, um dem Zombieangriff standzuhalten.
+Plane deine Verteidigung und besiege die Zombies!
 
 [CHALLENGE_SUNBOMBS_NAME]
 Sonnensturm – Tag {LEVEL_NUMBER}
@@ -15002,7 +15002,7 @@ Wie du mir, so ich dir – Tag {LEVEL_NUMBER}
 Schlag durch die Zombies – Tag {LEVEL_NUMBER}
 
 [CHALLENGE_LASTSTAND_NAME]
-Unbesiegbar – Tag {LEVEL_NUMBER}
+Das letzte Gefecht – Tag {LEVEL_NUMBER}
 
 [CHALLENGE_VASEBREAKER_NAME]
 Vasenzerstörer – Tag {LEVEL_NUMBER}
@@ -25371,58 +25371,58 @@ Du hast einen Samen gefunden!
 Er wartet im Zen-Garten auf dich.
 
 [ADVICE_DANGER_ROOM_BEACH_UNLOCKED]
-Tiki-Fackel freigeschaltet!
+Tiki-Fackler jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_COWBOY_UNLOCKED]
-Haunted Hill freigeschaltet!
+Der Tafelberg des Bösen ist jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_DARK_UNLOCKED]
-Arthurs Herausforderung freigeschaltet!
+Arthurs Herausforderung ist jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_DINO_UNLOCKED]
-Gehirn-Teergruben freigeschaltet!
+Die La-Brainsa-Teergruben sind jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_EGYPT_UNLOCKED]
-Endlose Herausforderung freigeschaltet!
+Die Pyramide der Verdammnis ist jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_EIGHTIES_UNLOCKED]
-Beste Auswahl freigeschaltet!
+Greatest Hits – jetzt erhältlich!
 
 [ADVICE_DANGER_ROOM_FUTURE_UNLOCKED]
-Zukunftsangst freigeschaltet!
+Der Schrecken der Zukunft ist jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_ICEAGE_UNLOCKED]
-Eiszeit freigeschaltet!
+Eisiges Schlachtfeld – jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_LOSTCITY_UNLOCKED]
-Blühender Tempel freigeschaltet!
+Der Tempel der Untoten ist jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_MODERN_UNLOCKED]
-Gefährlicher Highway freigeschaltet!
+Schnellstraße zur Gefahrenzentrale ist jetzt verfügbar!
 
 [ADVICE_DANGER_ROOM_PIRATE_UNLOCKED]
-Dead Man's Party freigeschaltet!
+Die Totenmannskiste ist jetzt verfügbar!
 
 [ADVICE_DIRECT_TO_DANGER_ROOM]
 Wie lange hältst du in der Herausforderungszone durch?
 
 [ADVICE_ESCAPEROOT_CANT_PLANT_HERE]
-Fluchtwurzeln können nicht gegen Orte getauscht werden, an denen sie nicht gepflanzt werden können.
+Fluchtwurzeln können nicht auf Felder wechseln, auf denen sie nicht gepflanzt werden können.
 
 [ADVICE_ESCAPEROOT_CANT_SWAP_AFFECTED_PLANTS]
-Fluchtwurzeln können nicht gegen Pflanzen getauscht werden, die genommen oder versetzt wurden.
+Fluchtwurzeln können nicht mit gefangenen oder verwandelten Pflanzen tauschen.
 
 [ADVICE_ESCAPEROOT_CANT_SWAP_PLANTFOODED_PLANTS]
-Fluchtwurzeln können nicht gegen Pflanzen getauscht werden, die Spezialdünger-Fähigkeit verwenden.
+Fluchtwurzeln können nicht mit Pflanzen tauschen, die Spezialdünger verwenden.
 
 [ADVICE_ESCAPEROOT_CANT_SWAP_THIS_PLANT]
-Fluchtwurzeln können nicht gegen diese Pflanze getauscht werden.
+Fluchtwurzeln können mit dieser Pflanze nicht tauschen.
 
 [ADVICE_GOTO_MINIGAMES]
-Probier den Smash Pot-Modus aus!
+Probiere „Vasenbrecher“ aus!
 
 [ADVICE_GOTO_QUESTS]
-Sieh dir das Reisetagebuch an!
+Sieh dir den Reiseklotz an!
 
 [ADVICE_INTENSIVECARROT_NOT_ON_PREVIOUSLY_PLANTED_SQUARE]
 Du kannst dies nur auf einer besiegten Pflanze pflanzen.
@@ -25432,7 +25432,7 @@ Grabe weiter, bis
 keine Pflanzen mehr auf dem Rasen sind!
 
 [ADVICE_MORE_LEVELS_TO_PLAY]
-Denk daran: Es gibt noch viele weitere Level auf anderen Ebenen.
+Vergiss nicht, dass in anderen Welten noch Levels auf dich warten
 
 [ADVICE_NO_ESCAPEROOT_ON_RAILCART]
 Fluchtwurzeln können nicht auf Loren gepflanzt werden.
@@ -25468,16 +25468,16 @@ Zu viele Pflanzen zum Pflanzen
 Das Pflanzlimit ist erreicht! Entferne eine Pflanze und pflanze eine neue.
 
 [PLANTING_COBCANNON_CANNOT_ON_VINES]
-Maiskanonen können nicht auf Reben gepflanzt werden.
+Maiskanonen können nicht auf Reben gepflanzt werden
 
 [ADVICE_POTATOMINE_ON_PLANKS]
-Bodenpflanzen können nicht auf Brettern gepflanzt werden.
+Unterirdische Pflanzen können nicht auf Planken gepflanzt werden
 
 [ADVICE_READY_TO_UNLOCK_WORLD]
 Schalte neue Welten mit dem Weltenschlüssel frei.
 
 [ADVICE_REFRESH_PUFFSHROOMS]
-Spezialdünger-Fähigkeit können alle kleinen Blätterpilze sofort regenerieren.
+Spezialdünger macht alle Pustepilze wieder einsatzbereit
 
 [ADVICE_RETURN_TO_UNIVERSE_VIEW]
 Du hast einen Raum-Zeit-Schlüssel erhalten! Klicke hier, um die Raum-Zeit-Karte anzuzeigen.
@@ -75064,7 +75064,7 @@ Einladung teilen und kopieren Code
 [INVATATION_TAB2_TEXT]
 Nur neu erstellte Accounts während des Events können den Einladungscode eingeben.
 
-[INVATATION_TAB1_RECODE]
+[INVATATION_TAB1_RECORD]
 Einladungsdatensatz
 
 [INVATATION_GRADE_TASK_NAME_1_1]
