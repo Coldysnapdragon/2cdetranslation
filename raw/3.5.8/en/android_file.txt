@@ -9074,19 +9074,19 @@ Verwandelte Aubergine (1. Stufe) plus Kostüm
 Erbsenpistole (1. Stufe) plus Kostüm =
 
 [GEMS_RESTORE_CODE_RECHARGE_POTATOMINE_LV0_SUCCEED_CONTENT]
-Kartoffelmine der ersten Stufe plus Dekoration
+Kartoffelmine der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_WALLNUT_LV0_SUCCEED_CONTENT]
-Nuss der ersten Stufe plus Dekoration
+Nuss der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_REPEATER_LV0_SUCCEED_CONTENT]
-Doppel-Shooter der ersten Stufe plus Dekoration
+Doppel-Shooter der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_THREEPEATER_LV0_SUCCEED_CONTENT]
-Dreifach-Shooter der ersten Stufe plus Dekoration
+Dreifach-Shooter der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_TALLNUT_LV0_SUCCEED_CONTENT]
-Hohe Nuss der ersten Stufe plus Dekoration
+Hohe Nuss der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_BLOOMERANG_LV0_SUCCEED_CONTENT]
 Bumerang-Shooter der ersten Stufe mit Kostüm
@@ -9104,31 +9104,31 @@ Eis-Shooter der ersten Stufe mit Kostüm
 Maiskrug der ersten Stufe mit Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_POWERLILY_LV0_SUCCEED_CONTENT]
-Energieblume der ersten Stufe plus Dekoration
+Energieblume der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SNAPDRAGON_LV0_SUCCEED_CONTENT]
-Feuerdrachengras der ersten Stufe plus Dekoration
+Feuerdrachengras der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEWEED_LV0_SUCCEED_CONTENT]
-Spike der ersten Stufe plus Dekoration
+Spike der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV0_SUCCEED_CONTENT]
-Kokosnusskanone der ersten Stufe plus Dekoration
+Kokosnusskanone der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_LV0_SUCCEED_CONTENT]
-Blitzrohr der ersten Stufe plus Dekoration
+Blitzrohr der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV0_SUCCEED_CONTENT]
-Stahlspike der ersten Stufe plus Dekoration
+Stahlspike der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV0_SUCCEED_CONTENT]
-Kokosnusskanone der ersten Stufe plus Dekoration
+Kokosnusskanone der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_LV0_SUCCEED_CONTENT]
-Blitzrohr der ersten Stufe plus Dekoration
+Blitzrohr der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV0_SUCCEED_CONTENT]
-Stahlstachel der ersten Stufe plus Dekoration
+Stahlstachel der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV0_SUCCEED_CONTENT] E_RECHARGE_SPLITPEA_LV0_SUCCEED_CONTENT]
 Zweiwege-Shooter der ersten Stufe mit zusätzlicher Dekoration
@@ -9146,40 +9146,40 @@ Erbsenschote der ersten Stufe mit zusätzlicher Dekoration
 Eiswassermelonenkrug der ersten Stufe mit zusätzlicher Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_TURNIP_LV0_SUCCEED_CONTENT]
-Weißer Rettich der ersten Stufe plus Dekoration
+Weißer Rettich der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_FIREGOURD_LV0_SUCCEED_CONTENT]
-Feuerkürbis der ersten Stufe plus Dekoration
+Feuerkürbis der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_PEACH_LV0_SUCCEED_CONTENT]
-Feenpfirsich der ersten Stufe plus Dekoration
+Feenpfirsich der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_BAMBOO_LV0_SUCCEED_CONTENT]
-Bambussprossen der ersten Stufe plus Dekoration
+Bambussprossen der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_LASER_BEAN_LV0_SUCCEED_CONTENT]
-Laserbohne der ersten Stufe plus Dekoration
+Laserbohne der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_BLOVER_LV0_SUCCEED_CONTENT]
 Wehblatt der ersten Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CITRON_LV0_SUCCEED_CONTENT]
-Zedrate der ersten Stufe plus Dekoration
+Zedrate der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_EMPEA_LV0_SUCCEED_CONTENT]
 E.M.Pfirsisch der ersten Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_LV0_SUCCEED_CONTENT]
-Unend-Nuss der ersten Stufe plus Dekoration
+Unend-Nuss der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_MAGNIFYINGGRASS_LV0_SUCCEED_CONTENT]
-Vergrößerungsgrass der ersten Stufe plus Dekoration
+Vergrößerungsgrass der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_POWERPLANT_LV0_SUCCEED_CONTENT]
-Feldrübe der ersten Stufe plus Dekoration
+Feldrübe der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_STARFRUIT_LV0_SUCCEED_CONTENT]
-Sternfrucht der ersten Stufe plus Dekoration
+Sternfrucht der ersten Stufe + Kostüm
 	   
 [GEMS_RESTORE_CODE_RECHARGE_CARROTLAUNCHER_LV0_SUCCEED_CONTENT]
 Karotten-Raketenauto der ersten Stufe mit Dekoration
@@ -9191,19 +9191,19 @@ Pustepilz der ersten Stufe mit Dekoration
 Stinkpilz der ersten Stufe mit Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_HYPNOSHROOM_LV0_SUCCEED_CONTENT]
-Hypno-Pilz der ersten Stufe plus Dekoration
+Hypno-Pilz der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SUNSHROOM_LV0_SUCCEED_CONTENT]
-Sonnenpilz der ersten Stufe plus Dekoration
+Sonnenpilz der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SUNBEAN_LV0_SUCCEED_CONTENT]
-Sonnenbohne (erste Stufe) plus Dekoration
+Sonnenbohne (erste Stufe) + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_PEANUT_LV0_SUCCEED_CONTENT]
-Erbs-Nuss(erste Stufe) plus Dekoration
+Erbs-Nuss(erste Stufe) + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_MAGNETSHROOM_LV0_SUCCEED_CONTENT]
-Magnetpilz (erste Stufe) plus Dekoration (Ankleiden)
+Magnetpilz (erste Stufe) + Kostüm (Ankleiden)
 
 [GEMS_RESTORE_CODE_RECHARGE_STREETLAMP_LV0_SUCCEED_CONTENT]
 Pflanterne (erste Stufe) plus Ankleiden
@@ -9278,16 +9278,16 @@ Pfefferkrug (1. Stufe) plus Kostüm
 Rübenwächter (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_STUNION_LV0_SUCCEED_CONTENT]
-Betäubungszwiebel (1. Stufe) plus Dekoration
+Betäubungszwiebel (1. Stufe) + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_XSHOT_LV0_SUCCEED_CONTENT]
-Rübe (1. Stufe) plus Dekoration
+Rübe (1. Stufe) + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_ACORN_LV0_SUCCEED_CONTENT]
-Zyklon-Eichel (1. Stufe) plus Dekoration
+Zyklon-Eichel (1. Stufe) + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_RAFFLESIA_LV0_SUCCEED_CONTENT]
-Rafflesia der ersten Stufe plus Dekoration
+Rafflesia der ersten Stufe + Kostüm
 	   
 [GEMS_RESTORE_CODE_RECHARGE_CHESTNUT_LV0_SUCCEED_CONTENT]
 Kastanien-Teamkostüm der ersten Stufe
@@ -9347,28 +9347,28 @@ Goldblatt-Plus-Kostüm der ersten Stufe
 Akaimu-Plus-Dekoration der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV0_SUCCEED_CONTENT]
-Rote Nadelblume der ersten Stufe plus Dekoration
+Rote Nadelblume der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_STALLIA_LV0_SUCCEED_CONTENT]
-Stinkeblüte der ersten Stufe plus Dekoration
+Stinkeblüte der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_LAVAGUAVA_LV0_SUCCEED_CONTENT]
-Guave der ersten Stufe plus Dekoration
+Guave der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_TOADSTOOL_LV0_SUCCEED_CONTENT]
-Goldkrötenpilz der ersten Stufe plus Dekoration
+Goldkrötenpilz der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_AGAVE_LV0_SUCCEED_CONTENT]
-Agave der ersten Stufe plus Dekoration
+Agave der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV0_SUCCEED_CONTENT]
-Jackfrucht der ersten Stufe plus Dekoration
+Jackfrucht der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT]
-Kiwi der ersten Stufe plus Dekoration
+Kiwi der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT] E_CODE_RECHARGE_DRAGONFRUIT_LV0_SUCCEED_CONTENT]
-Drachenfrucht der ersten Stufe plus Dekoration
+Drachenfrucht der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SUNFLOWER_LV3_SUCCEED_CONTENT]
 Sonnenblume der dritten Stufe
@@ -11226,7 +11226,7 @@ Bericht! Wir sind während unserer Expedition einem Händler begegnet, und Penny
 Schmerzensreich aufgeben
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_OPEN]
-.. {GEMS} geöffnet
+. {GEMS} geöffnet
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_FREE]
 Kostenlos öffnen
@@ -33439,7 +33439,7 @@ Jubiläums-Avatar II
 Vielen Dank für eure Begleitung und eure Teilnahme am 3. Jubiläum. Dank euch ist die Reise durch Zeit und Raum so wunderbar!
 
 [THIS_ACHIEVEMENT]
-Dieser Erfolg:
+Deine Punktzahl:
 
 [winnie_CAN_GOT]
 Pennys Laden
@@ -33498,25 +33498,25 @@ Aktivierungscode konnte nicht eingelöst werden
 Bitte bestätigen Sie, ob der Aktivierungscode korrekt eingegeben wurde.
 
 [GEMS_RESTORE_CODE_RECHARGE_GOLDLEAF_LV0_SUCCEED_CONTENT]
-Goldenes Blatt plus Dekoration der ersten Stufe
+Goldblatt + Kostüm der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_AKEE_LV0_SUCCEED_CONTENT]
-Akaimumu plus der ersten Stufe Dekoration
+A.K.E.E der ersten Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV0_SUCCEED_CONTENT]
-Rote Nadelblume erster Stufe plus Dekoration
+Roter Stachler erster Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_STALLIA_LV0_SUCCEED_CONTENT]
-Dahlie erster Stufe plus Dekoration
+Stinkeblüte erster Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_LAVAGAUVA_LV0_SUCCEED_CONTENT]
-Guave erster Stufe plus Dekoration
+Lava-Guave erster Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_TOADSTOOL_LV0_SUCCEED_CONTENT]
-Goldkrötenpilz erster Stufe plus Dekoration
+Krötenpilz erster Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV0_SUCCEED_CONTENT]
-Baumwollschnee erster Stufe plus Kostüm
+Baumwolle erster Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_JACKFRUIT_LV0_SUCCEED_CONTENT]
 Jackfrucht-Plus-Kostüm der ersten Stufe
@@ -33527,7 +33527,7 @@ Agave-Plus-Kostüm der ersten Stufe
 [GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT]
 Kiwi-Plus-Kostüm der ersten Stufe
 
-[GEMS_RESTORE_CODE_RECHARGE_KIWIFRUIT_LV0_SUCCEED_CONTENT] [GEMS_RESTORE_CODE_RECHARGE_DRAGONFRUIT_LV0_SUCCEED_CONTENT]
+[GEMS_RESTORE_CODE_RECHARGE_DRAGONFRUIT_LV0_SUCCEED_CONTENT]
 Pflaumen-Plus-Kostüm der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_DRAGONFRUIT_LV0_SUCCEED_CONTENT]
@@ -33537,40 +33537,40 @@ Drache der ersten Stufe Frucht plus Kostüm
 Engel-Sternfrucht der ersten Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_MATCHFLOWER_LV0_SUCCEED_CONTENT]
-Blume der ersten Stufe plus Dekoration
+Blume der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_FLAMELADY_LV0_SUCCEED_CONTENT]
-Flammenblume der ersten Stufe plus Dekoration
+Flammenblume der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_GATLINGPEA_LV0_SUCCEED_CONTENT]
-Maschinengewehr-Erbse der ersten Stufe plus Dekoration
+Maschinengewehr-Erbse der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_PHATBEET_LV0_SUCCEED_CONTENT]
-Magische Soundrübe der ersten Stufe plus Dekoration
+Fette Bete der ersten Stufe + Kostüm
 
-[GEMS_RESTORE_CODE_RECHARGE_PHATBEET_LV0_SUCCEED_CONTENT] RE_CODE_RECHARGE_THYMEWARP_LV0_SUCCEED_CONTENT]
-Zeitumkehrgras (erste Stufe) plus Kostüm
+[GEMS_RESTORE_CODE_RECHARGE_THYMEWARP_LV0_SUCCEED_CONTENT]
+Vergrößerungsgrass (erste Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CELERYSTALKER_LV0_SUCCEED_CONTENT]
-Lauernder Sellerie (erste Stufe) plus Kostüm
+Lauer-Sellerie (erste Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SPORESHROOM_LV0_SUCCEED_CONTENT]
 Sporenpilz (erste Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_GARLIC_LV0_SUCCE ED_CONTENT]
-Knoblauch (erste Stufe) plus Dekoration
+Knoblauch (erste Stufe) + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_INTENSIVECARROT_LV0_SUCCEED_CONTENT]
-Wiederbelebung (erste Stufe) Karotte plus Dekoration
+Intensivkarrote (erste Stufe) + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CACTUS_LV0_SUCCEED_CONTENT]
-Kaktus der ersten Stufe plus Dekoration
+Kaktus der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_NEKOTAIL_LV0_SUCCEED_CONTENT]
-Katzenschwanz der ersten Stufe plus Dekoration
+Katzenschwanz der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_MORNINGGLORY_LV0_SUCCEED_CONTENT]
-Prunkwinde der ersten Stufe plus Dekoration
+Prunkwinde der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_AKEE_LV3_SUCCEED_CONTENT]
 Akaimumu der dritten Stufe
@@ -34623,7 +34623,7 @@ Heute keine weiteren Erinnerungen.
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_SPECIAL_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:researchercrazydave}{PLAYFUL:researchercrazydave}Ich habe gehört, du bist super im Skateboarden. Möchtest du die [Parkour-Party] ausprobieren?
+{NPC_ENTER:researchercrazydave}{PLAYFUL:researchercrazydave}Ich habe gehört, du bist super im Skateboarden. Möchtest du die Parkour-Party ausprobieren?
 
 [NARRATIVE_SPECIAL_UNCHARTED_EVENT_TUTORIAL_2]
 {NPC_ENTER:SpecialWinnie}Ich freue mich schon darauf. Mal sehen.
@@ -48327,7 +48327,7 @@ Diese Woche insgesamt 5 Mal Pflanzengenetische Modifikation durchführen.
 7 Mal Belohnungen (einschließlich kostenloser Belohnungen) im Geheimnisvoller Laden erhalten (das Event [Geheimnisvoller Laden] läuft vom 6. Oktober bis 1. Januar). 12)
 
 [BATTLEORDER_TASK_NAME_3_3]
-Zerstöre 5 Eier im Event [Goldenes Ei zertrümmern] (das Event [Goldenes Ei zertrümmern] läuft vom 4. bis 17. April).
+Zerstöre 5 Vasen im Event Goldenes Vasen zertrümmern (das Event Goldenes Vasen zertrümmern läuft vom 4. bis 17. April).
 
 [BATTLEORDER_TASK_NAME_3_4]
 Erhalte 1 Bruchbelohnung im Event [Casual Summer] (das Event [Casual Summer] läuft vom 11. bis 24. August).
@@ -48918,10 +48918,10 @@ Erhöht die Angriffskraft großer Blätterpilze um {Param_1} %.
 Reduziert die Abklingzeit des Sonnenbohnenanbaus um {Param_1} %
 
 [GENE_DESCRIPTION_PEANUT]
-Abklingzeit des Erdnussschützenanbaus um {Param_1} % reduziert
+Abklingzeit der Erbs-Nuss um {Param_1} % reduziert
 
 [GENE_DESCRIPTION_GOLDBLOOM]
-Abklingzeit des Goldknospenanbaus um {Param_1} % reduziert
+Abklingzeit der Goldblüte um {Param_1} % reduziert
 
 [GENE_DESCRIPTION_MAGNETSHROOM]
 Ruhezeit des Magnetpilzes um {Param_1} % verkürzt
@@ -48930,28 +48930,28 @@ Ruhezeit des Magnetpilzes um {Param_1} % verkürzt
 Die Dauer des unbesiegbaren Schildes von Feenpfirsischs ultimativer Fähigkeit wird um {Param_1} Sekunden erhöht.
 
 [GENE_DESCRIPTION_STALLIA]
-Dahlia erhöht den zusätzlichen Schaden, den Zombies im vergifteten Zustand erleiden, um {Param_1} %.
+Stinkeblüte erhöht den zusätzlichen Schaden, den Zombies im vergifteten Zustand erleiden, um {Param_1} %.
 
 [GENE_DESCRIPTION_SNOWPEA]
-Die Angriffskraft der Schneeerbse wird erhöht. um {Param_1} %
+Die Angriffskraft der Hagelzucker-Erbse wird erhöht. um {Param_1} %
 
 [GENE_DESCRIPTION_LIGHTNINGREED]
-Der direkte Trefferschaden von Blitzrohr wurde um {Param_1} % und der Kettenschaden um {Param_2} % erhöht.
+Der direkte Trefferschaden vom Blitzschilf wurde um {Param_1} % und der Kettenschaden um {Param_2} % erhöht.
 
 [GENE_DESCRIPTION_MELONPULT]
-Der Schaden der direkten Treffer von Melonenwerfer wurde um {Param_1} % und der Flächenschaden um {Param_2} % erhöht.
+Der Schaden der direkten Treffer vom Melonapult wurde um {Param_1} % und der Flächenschaden um {Param_2} % erhöht.
 
 [GENE_DESCRIPTION_SPIKEROCK]
 Die Angriffskraft von Stahlstachel wurde um {Param_1} % erhöht.
 
 [GENE_DESCRIPTION_TALLNUT]
-Die Abklingzeit des Pflanzens von Hohen Nüssen wurde um {Param_1} % verkürzt.
+Die Abklingzeit des Pflanzens von Hochwall-Nüssen wurde um {Param_1} % verkürzt.
 
 [GENE_DESCRIPTION_THREEPEATER]
-Der grundlegende Sonnenlichtverbrauch von Dreifachschütze wurde um {Param_1} Punkte reduziert.
+Die Sonnenkosten vom Triplinator wurden um {Param_1} reduziert.
 
 [GENE_DESCRIPTION_MAGNIFYINGGRASS]
-Der Sonnenlichtverbrauch von Prisma Der Einzelangriff von Gras wurde um {Param_1} Punkte reduziert.
+Die Sonnenkosten von Vergrößerungsgrass's Einzelangriffen wurde um {Param_1} Punkte reduziert.
 
 [GENE_DESCRIPTION_SWEETPOTATO]
 Süßkartoffeln reduzieren den Sonnenlichtverbrauch um {Param_1} Punkte.
@@ -48972,13 +48972,13 @@ Wachsmelonenwächter erhöhen die Gesundheit um {Param_1} %.
 Die Angriffskraft vom Endurian erhöht sich um {Param_1} %.
 
 [GENE_DESCRIPTION_SAPFLING]
-Erhöht die Verlangsamung. Effekt des Saftlings um {Param_1} %
+Erhöht die Verlangsamungs Effekte vom Saftling um {Param_1} %
 
 [GENE_DESCRIPTION_RAFFLESIA]
 Erhöht die Angriffskraft der Rafflesia um {Param_1} %
 
 [GENE_DESCRIPTION_INTENSIVECARROT]
-Verkürzt die Abklingzeit beim Pflanzen der Wiederbelebungskarotte um {Param_1} %
+Verkürzt die Abklingzeit beim Pflanzen der Intensivkarrote um {Param_1} %
 
 [GENE_DESCRIPTION_GARLIC]
 Knoblauch regeneriert alle 5 Sekunden {Param_1} % seiner Gesundheit.
