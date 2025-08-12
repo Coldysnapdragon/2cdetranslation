@@ -8516,7 +8516,7 @@ Entsperren bestätigen
 Ich überlege kurz.
 
 [AWARD_SCREEN_NEW_BONUS]
-Belohnung sichern
+Du hast eine Belohnung erhalten
 
 [CODE_REWARD_TITLE]
 Geschenkpaket einlösen
