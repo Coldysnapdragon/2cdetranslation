@@ -76880,6 +76880,20 @@ Barrenkrieg
 [MAT_NFSLINKAGE_TICKET]
 Barren
 
+[NFSLINKAGE_DESCRIPTION_TITLE_4]
+Beschreibung des Schlacht Events
+
+[NFSLINKAGE_DESCRIPTION_4]
+Eventregeln
+1. Spieler können wertvolle Belohnungen erhalten, indem sie sich während des Events täglich anmelden. Die Anmeldebelohnungen sind 14 Tage lang gültig.
+2. Die Rennmissionen sind in Tages- und Eventmissionen unterteilt. Tagesmissionen werden um Mitternacht aktualisiert und können einmal pro Tag abgeschlossen werden.
+3. Die Eventmissionen bestehen aus mehreren Stufen. Die nächste Stufe erscheint erst nach Abschluss der vorherigen.
+4. Durch das Abschließen von Rennmissionen erhältst du Ausrüstung. Ausrüstung kann im Einlöse-Shop gegen Belohnungen eingetauscht werden.
+5. Einlösungen im Einlöse-Shop müssen während des Events erfolgen. Bitte denke daran, sie zeitnah einzulösen.
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_4]
+Während des Events können sich Spieler 14 Tage lang einloggen und wertvolle Belohnungen einfordern. Durch das Abschließen von Event-Aufgaben erhaltet ihr Ausrüstung, die ihr im Redemption Shop gegen wertvolle Belohnungen eintauschen könnt!
+
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION]
 Während des Events können sich Spieler anmelden und 14 Tage lang Super-Belohnungen erhalten. Barren erhältst du durch das Erfüllen von Event-Aufgaben. Verbrauche Barren im Einlöseshop und tausche sie gegen Super-Belohnungen ein!
 
