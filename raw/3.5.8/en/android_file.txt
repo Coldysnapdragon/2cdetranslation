@@ -1037,7 +1037,7 @@ Bronze-Mann-Formation – Tag 3
 Bronze-Mann-Formation
 
 [CHALLENGE_REMAINING]
-verbl {NUMBER}
+{NUMBER}
 
 [RIVERCROSSING_DODORIDER]
 Bestanden: {NUMBER}
