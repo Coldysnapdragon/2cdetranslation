@@ -1054,6 +1054,83 @@ Bestanden: {NUMBER}
 [POOYAN_PASSED_CURRENT]
 Erzielte Punktzahl
 
+[ZOMBIE_RUSH_CURRENT_CREDIT]
+Aktuelles Guthaben: {NUMBER}
+
+[ZOMBIEREMOVAL]
+Zombie-Entfernungsplan
+
+[PVZ_ERROR_76038]
+Unzureichende Leerlaufzeit.
+
+[M_1]
+Linker Creep (1 Stern)
+
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ICEAGE_202411]
+Der Pflanzenplatz wurde durch einen zufälligen Hut verschiedener Typen ersetzt. Diese Hüte haben eine hohe Wahrscheinlichkeit, Pflanzen des entsprechenden Typs hervorzubringen. Es besteht eine geringe Chance, dass andere Pflanzentypen hervorgebracht werden.
+
+[WARNING_HAMSTER_BALLS]
+Hamsterball-Zombies kommen!
+
+[HEALTH_NOTICE_CONTENT_2_1]
+Dieses Online-Spiel ist für Nutzer ab 12 Jahren geeignet. Bitte beschränken Sie Ihre Spielzeit im Interesse Ihrer Gesundheit. Vermeiden Sie schädliche Spiele und lehnen Sie Raubkopien ab.
+Schützen Sie sich und hüten Sie sich vor Betrug. Moderates Spielen ist gut für das Gehirn, während übermäßiges Spielen dem Körper schadet. Planen Sie Ihre Zeit sinnvoll ein und genießen Sie einen gesunden Lebensstil.
+Genehmigungsnummer: Xinchu Shenzi [2013] Nr. 1509; Veröffentlichungsnummer: ISBN 978-7-89989-834-5; ICP-Aktenzeichen: Audiovisuelle Aufzeichnung [2023] B4327
+
+[ZOMBIE_NEW_PVP_PHARAOH]
+Pharaoh-Zombie
+
+[ZOMBIE_NEW_PVP_PHARAOH_DESCRIPTION_HEADER]
+Der Sarg an seinem Körper schützt ihn vor schweren Verletzungen.
+
+[ZOMBIE_NEW_PVP_KONGFU_MONK_NUNCHAKU]
+Nunchuck-Mönch-Zombie
+
+[ZOMBIE_NEW_PVP_KONGFU_MONK_NUNCHAKU_DESCRIPTION_HEADER]
+Reflektiert Pflanzengeschosse und stößt Pflanzen vor ihm zurück.
+
+[ZOMBIE_NEW_PVP_STEAM_COAL_MINER]
+Minenkarren-Zombie
+
+[ZOMBIE_NEW_PVP_STEAM_COAL_MINER_DESCRIPTION_HEADER]
+Schiebt eine Lore, um Pflanzen zu zerquetschen und Kohle zurückzulassen.
+
+[ZOMBIE_NEW_PVP_STEAM_STOVE]
+Ofen-Zombie
+
+[ZOMBIE_NEW_PVP_STEAM_STOVE_DESCRIPTION_HEADER]
+Selbstzerstörung zerstört Pflanzen im Fadenkreuz.
+
+[ZOMBIE_NEW_PVP_FUTURE_GARGANTUAR]
+Mecha-Gargantua-Zombie
+
+[ZOMBIE_NEW_PVP_FUTURE_GARGANTUAR_DESCRIPTION_HEADER]
+Laser zerstört Pflanzen 1–3 Felder in derselben Reihe.
+
+[M_1_DESCRIPTION]
+Die linke Seite des Feldes ist mit Creep bedeckt.*
+
+[PLANTING_NOT_ON_GINGLEBARRIER]
+Kann nicht auf einer Barriere gepflanzt werden.
+
+[PVZ_ERROR_76039]
+Die Ereigniszeit entspricht nicht mehr dem aktuellen Level!
+
+[ZOMBIEREMOVAL_TAB1]
+Heutiges Level
+
+[ZOMBIEREMOVAL_PRODUCE]
++{NUM}/h
+
+[ZOMBIEREMOVAL_AFK_LEVEL]
+AFK-Level: {NUM}
+
+[ZOMBIEREMOVAL_NEXT_LEVEL]
+Benötigte Punkte für
+
+[ZOMBIE_RUSH_HIGHEST_CREDIT]
+Höchstes Guthaben: {NUMBER}
+
 [POOYAN_TIP_MOVE]
 Durch Wischen kann das Flugzeug gesteuert werden Vollbildmodus
 
@@ -2565,6 +2642,159 @@ Schützen Sie sich vor Betrug. Moderates Spielen ist gut für das Gehirn, aber S
 
 Zulassungsnummer: Neue Zulassungsnummer [2013] 1509; Publikationsnummer: ISBN978-7-89989-834-5; ICP-Anmeldenummer: Hunan B2-20100081-55A
 
+[ADVICE_GOTO_ZEN_GARDEN]
+Geh in deinen Zen-Garten!
+
+[ADVICE_RETURNTO_ZEN_GARDEN]
+Kehre in deinen Zen-Garten zurück!
+
+[UI_ZENGARDEN_BAG_ITEM_TITLE]
+Gegenstände
+
+[UI_ZENGARDEN_BAG_SEED_ITEM_TITLE]
+Samen
+
+[UI_ZENGARDEN_BAG_FERTILIZER_ITEM_TITLE]
+Dünger
+
+[UI_ZENGARDEN_BAG_TITLE]
+Rucksack
+
+[UI_ZENGARDEN_BAG_ITEM_USE]
+Gegenstandsverwendung
+
+[UI_ZENGARDEN_BAG_DESC]
+Materialverwendung: {DESC}
+
+[UI_ZENGARDEN_BAG_GOTO_WAY]
+Beschaffungsmethode: {DESC}
+
+[MAT_ZENGARDEN_COIN_USE]
+Zufällige Belohnungen erhalten
+
+[MAT_ZENGARDEN_COIN_GOTO_WAY]
+Sammele den Preis im Poseidon-Schatz-Event. Belohnungen erhältst du durch gesammelte Ziehungen aus dem Poseidon-Schatz. Event
+
+[MAT_ZENGARDEN_SEED_COMMON_USE]
+Einlösen, um eine zufällige Belohnung zu erhalten.
+
+[MAT_ZENGARDEN_SEED_COMMON_GOT_WAY]
+Belohnungen aus dem Poseidon-Schatz-Event
+
+[MAT_ZENGARDEN_SEED_RARE_USE]
+Belohnungen aus dem Poseidon-Schatz-Event
+
+[MAT_ZENGARDEN_SEED_RARE_GOT_WAY]
+Belohnungen aus dem Poseidon-Schatz-Event
+
+[MAT_ZENGARDEN_SEED_EPIC_USE]
+Belohnungen aus dem Poseidon-Schatz-Event
+
+[MAT_ZENGARDEN_SEED_EPIC_GOT_WAY]
+Belohnungen aus dem Poseidon-Schatz-Event
+
+[MAT_ZENGARDEN_SEED_LEGENDARY_USE]
+Belohnungen aus dem Poseidon-Schatz Event
+
+[MAT_ZENGARDEN_SEED_LEGENDARY_GOT_WAY]
+Erhältlich durch das Sammeln von Verlosungen während des Poseidon-Schatz-Events.
+
+[MAT_ZENGARDEN_FERTILIZER_USE]
+Einsetzen, um eine zufällige Belohnung zu erhalten.
+
+[MAT_ZENGARDEN_FERTILIZER_GOT_WAY]
+Erhältlich durch das Sammeln von Verlosungen während des Poseidon-Schatz-Events.
+
+[MAT_ZENGARDEN_POT_NORMAL_USE]
+Einsetzen, um eine zufällige Belohnung zu erhalten.
+
+[MAT_ZENGARDEN_POT_NORMAL_GOT_WAY]
+Erhältlich durch das Sammeln von Verlosungen während des Poseidon-Schatz-Events.
+
+[MAT_ZENGARDEN_POT_SPECIAL_USE]
+Einsetzen, um eine zufällige Belohnung zu erhalten.
+
+[MAT_ZENGARDEN_POT_SPECIAL_GOT_WAY]
+Erhältlich durch das Sammeln von Verlosungen während des Poseidon-Schatz-Events. Auszeichnungen erhalten
+
+[MAT_ZENGARDEN_COIN]
+Gartenmünze
+
+[MAT_ZENGARDEN_FERTILIZER]
+Dünger
+
+[MAT_ZENGARDEN_SEED_COMMON]
+Samen
+
+[MAT_ZENGARDEN_SEED_RARE]
+Samen
+
+[MAT_ZENGARDEN_SEED_EPIC]
+Samen
+
+[MAT_ZENGARDEN_SEED_LEGENDARY]
+Samen
+
+[MAT_ZENGARDEN_POT_NORMAL]
+Normaler Blumentopf
+
+[MAT_ZENGARDEN_POT_SPECIAL]
+Spezial-Blumentopf
+
+[SUN_AWARD_HEAD_ID_25743]
+Goldene Sonnenblume 2024
+
+[SUN_AWARD_HEAD_DES_ID_25743]
+Der grüne Farbton erinnert an die Vergangenheit und begleitet dich wieder!
+
+[SUN_AWARD_HEAD_ID_25744]
+Goldene Sonnenblume 2025
+
+[SUN_AWARD_HEAD_DES_ID_25744]
+Lasst das Glück weiter sprießen!
+
+[UNCHARTED_BIRTHDAY_ID_25745]
+Jubiläumsriss-Eroberer
+
+[UNCHARTED_BIRTHDAY_HEAD_DES_ID_25745]
+Nachweis für eine perfekte Jubiläumsriss-Befreiung
+
+[ZOMBIE_DANCER_KING]
+Tanz-Zombie
+
+[ZOMBIE_DANCER_KING_DESCRIPTION]
+Die neue CD 'GrrGEHIRNbabl' von Tanz-Zombie erobert bereits die Untoten-Charts.
+
+[ZOMBIE_DANCER_KING_DESCRIPTION_HEADER]
+Beschwört Gruppentänzer-Zombies.
+
+[ZOMBIE_DANCER]
+Gruppentänzer-Zombie
+
+[ZOMBIE_DANCER_DESCRIPTION]
+Ein Typ namens Tony Poloni, der zu viel wusste, verdrehte sich beim Tanzen den Rücken. Da Gruppentänzer-Zombies als Hintergrundfiguren gedacht sind, dürfen sie nicht zu sehr auffallen, sonst wird ihr Rücken zum einzigen Blickfang.
+
+[ZOMBIE_DANCER_DESCRIPTION_HEADER]
+Erscheint nach der Beschwörung durch Tanz-Zombie.
+
+[ZOMBIE_CAKETANK]
+#kuchenpanzer
+
+[ZOMBIE_CAKETANK_DESCRIPTION]
+#kuchenpanzer trendet gerade überall – sogar unter deinem Bett. Schau mal nach.
+
+[ZOMBIE_CAKETANK_DESCRIPTION_HEADER]
+Der #kuchenpanzer fährt an eine bestimmte Position auf dem Rasen und gibt dann schockiernde Geburtstagsüberraschungen frei, wenn seine zahlreichen Schichten Schaden nehmen.
+
+[ELITE_ZOMBIE_TIPS_TEXT_CAKETANK]
+Die extragroße Größe macht ihn immun gegen Kontrolle, Transformation und sofortige Kills.
+
+[PLAYERS_TRIP_TO_ZOMBIERUSH]
+{PLAYER}s Zombie-Befreiungsreise!
+
+[ZOMBIERUSH_LEVEL_NAME]
+Zombie-Befreiungsplan – Tag {LEVEL_NUMBER} 
+
 [HEALTH_NOTICE_CONTENT_4]
 Rechtsinhaber des Spiels: Electronic Arts Inc.; Verlagsservice: Tuowei Information Systems Co., Ltd.
 
@@ -2582,9 +2812,9 @@ Ringelblume
 [MARIGOLD_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Liefert Gold und Silber
 
-{FLAVOR}Die Ringelblume a verbringt viel Zeit damit, zu überlegen, ob sie Gold oder Silber ausspuckt. Sie
-wägt jeden Aspekt ab und grübelt. Sie recherchiert gründlich und bleibt über die neuesten Veröffentlichungen auf dem Laufenden.
-Deshalb sind die Gewinner immer einen Schritt voraus.
+{FLAVOR}Die Ringelblume verbringt viel Zeit damit, zu überlegen, ob sie Gold oder Silber ausspuckt. 
+Sie wägt jeden Aspekt ab und grübelt. Sie recherchiert gründlich und bleibt über die neuesten Veröffentlichungen auf dem Laufenden.
+Deshalb sind die Münzen immer verzögert.
 
 [MARIGOLD_DESCRIPTION_HEADER]
 Ringelblume kann Münzen liefern.
@@ -2592,8 +2822,24 @@ Ringelblume kann Münzen liefern.
 [MARIGOLD_PLANTFOOD]
 Spezialdünger hat keine Wirkung.
 
+Produziert eine große Menge Münzen.
+
+[STORE_PRODUCT_AVATAR_MARIGOLD_TITLE]
+Ringelblumen-Outfit
+
+[STORE_PRODUCT_AVATAR_MARIGOLD]
+Produziert eine zusätzliche Goldmünze.
+
+[MARIGOLD_NEW_SKILL_LEVEL1_DES]
+Produziert regelmäßig eine Silbermünze.
+
 [MARIGOLD_TOOLTIP]
-Generiert Gold.
+Generiert Goldmünzen.
+
+Produziert Goldmünzen.
+
+[MARIGOLD_AVATAR_PLANTFOOD_DESCRIPTION]
+Produziert 5 Silbermünzen und 1 Goldmünze und ändert die Farbe.
 
 [MELONPULT]
 Melonapult 
