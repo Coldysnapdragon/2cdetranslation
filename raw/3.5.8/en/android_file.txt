@@ -2825,7 +2825,7 @@ Spezialdünger hat keine Wirkung.
 Produziert eine große Menge Münzen.
 
 [STORE_PRODUCT_AVATAR_MARIGOLD_TITLE]
-Ringelblumen-Outfit
+Ringelblumen-Kostüm
 
 [STORE_PRODUCT_AVATAR_MARIGOLD]
 Produziert eine zusätzliche Goldmünze.
@@ -2834,8 +2834,6 @@ Produziert eine zusätzliche Goldmünze.
 Produziert regelmäßig eine Silbermünze.
 
 [MARIGOLD_TOOLTIP]
-Generiert Goldmünzen.
-
 Produziert Goldmünzen.
 
 [MARIGOLD_AVATAR_PLANTFOOD_DESCRIPTION]
@@ -8141,7 +8139,7 @@ Entzündet Erbsen für doppelten Schaden.
 Doppelte Sonnenblumen, doppelter Sonnenschein!
 
 [COCONUTCANNON_PRODUCT_SHORT_DESC]
-Zerstöre Zombies entlang der gesamten Route.
+Tippen, um auf Zombies vor sich eine Kanone zu feuern.
 
 [LIGHTNINGREED_PRODUCT_SHORT_DESC]
 Schockt Zombies auf den nächsten Routen.
@@ -8288,7 +8286,7 @@ Tornado-Eichel kann die Zombiereihe vor ihm angreifen und Walross-Zombies schwer
 Die Spinnende Rübe kann Projektile in vier Richtungen gleichzeitig abfeuern.
 
 [SUGARCANE_PRODUCT_SHORT_DESC]
-Der Bambusmann kann herannahende Zombies aufhalten und sie am Vorrücken hindern.
+Der Zuckerrohr kann herannahende Zombies aufhalten und sie am Vorrücken hindern.
 
 [ROSESWORDMAN_PRODUCT_SHORT_DESC]
 Der Rosenschwertkämpfer kann herannahende Zombies angreifen und Zombies mit geringerer Gesundheit mit mächtigen Angriffen belegen.
@@ -9867,7 +9865,7 @@ Rafflesia, Stufe 3
 Kastanien-Trupp, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_SUGARCANE_LV3_SUCCEED_CONTENT]
-Bambusmann, Stufe 3
+Zuckerrohr, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_ROSESWORDMAN_LV3_SUCCEED_CONTENT]
 Rosenschwertkämpfer, Stufe 3
@@ -24922,7 +24920,7 @@ Einmal ziehen
 ^FF0000^Nur^oldclr^zieht die oben genannten Pflanzen und ihre Fragmente^349901^(die erste Ziehung und die ersten 10 aufeinanderfolgenden Ziehungen erhalten Pflanzen)^oldclr^.
 
 [GACHA_POOL_SHOW]
-Preispool-Vorschau
+Belohnungen-Vorschau
 
 [SECRET_GACHA_ONCE]
 Beschwörung
@@ -42674,10 +42672,10 @@ Eleutherod-Krug
 Wenn Zombies weit weg sind, feuert er Querschläger ab und tötet Zombies mit niedrigem Gesundheitszustand aus nächster Nähe.
 
 [ELAEOCARPUS_TOOLTIP]
-Wenn Zombies weit weg sind, feuert er Querschläger ab und töten Zombies mit niedrigem Gesundheitszustand aus nächster Nähe.
+Tötet Zombies mit niedrigem Gesundheitszustand manchmal sofort.
 
 [ELAEOCARPUS_PRODUCT_SHORT_DESC]
-Feuert Querschläger ab und tötet Zombies mit niedrigem Gesundheitszustand.
+Tötet Zombies mit niedrigem Gesundheitszustand manchmal sofort.
 
 [ELAEOCARPUS_AVATAR_NAME]
 Feuert Querschläger ab und tötet Zombies mit niedrigem Gesundheitszustand.
@@ -43146,10 +43144,10 @@ Burtle-Bombe
 Wenn keine Zombies angegriffen werden, wird der Meteorhammer gedreht und aufgeladen. Der aufgeladene Angriff kann Rückstoß verursachen.
 
 [BYTTNERIAMETEORHAMMER_TOOLTIP]
-Wenn keine Zombies angegriffen werden, wird der Meteorhammer gedreht und aufgeladen. Der aufgeladene Angriff kann Rückstoß verursachen.
+lädt seinen Angriff für Rückstoß auf.
 
 [BYTTNERIAMETEORHAMMER_PRODUCT_SHORT_DESC]
-Wenn keine Zombies angegriffen werden, wird der Meteorhammer gedreht und aufgeladen. Der aufgeladene Angriff kann Rückstoß verursachen.
+lädt seinen Angriff für Rückstoß auf.
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL1]
 Schnellladung
@@ -49059,6 +49057,73 @@ Lila
 
 [ORANGE]
 Orange
+
+[ACTINOSTEMMA]
+Box Grass Salute
+
+[ACTINOSTEMMA_DESCRIPTION]
+{KEYWORD}Reichweite: {STAT}Vollbild
+{KEYWORD}Funktion: {STAT}Wirft eine zufällige Geschenkbox
+{KEYWORD}Pflanzenfunktion: {STAT}Grüne Pflanze
+
+{FLAVOR}Obwohl er nur ein staubiger Junge ist, ist Box Grass Salute bestrebt, seinen „Freunden“, die schon immer da waren, die wertvollsten Geschenke zu machen, die er für richtig hält. „Hör auf, so zu hinken! Hör auf, falschen Träumen nachzujagen!“ Wenn diese Menschen das wirklich können, dann können wir, aus dem Staub der Erde geboren, einander wahre Geschenke machen.
+
+[ACTINOSTEMMA_DESCRIPTION_HEADER]
+Schießt verschiedene Geschenkboxen ab, die Zombies anlocken und zufällig verschiedene Effekte erzeugen.
+
+[ACTINOSTEMMA_TOOLTIP]
+Schießt verschiedene Geschenkboxen ab, die Zombies anlocken und zufällig verschiedene Effekte erzeugen.
+
+[ACTINOSTEMMA_PRODUCT_SHORT_DESC]
+Schießt verschiedene Geschenkboxen ab, die Zombies anlocken und zufällig verschiedene Effekte erzeugen.
+
+[ACTINOSTEMMA_SKILL_LEVEL1]
+Doppelkanone
+
+[ACTINOSTEMMA_SKILL_LEVEL1_DES]
+20 % Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
+
+[ACTINOSTEMMA_SKILL_LEVEL2]
+Bombardement-Verstärkung
+
+[ACTINOSTEMMA_SKILL_LEVEL2_DES]
+40 % Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
+
+[ACTINOSTEMMA_SKILL_LEVEL5]
+Einpacken und los
+
+[ACTINOSTEMMA_SKILL_LEVEL5_DES]
+Beim Angriff hat der Buchsgras-Salut die Chance, eine größere Geschenkbox abzufeuern. Bei Aktivierung besteht außerdem die Chance, Zombies im Umkreis von 3x3 in eine neue Geschenkbox zu packen.
+
+[ACTINOSTEMMA_AVATAR_NAME]
+Boxgrass-Salut-Kostüm
+
+[STORE_PRODUCT_AVATAR_ACTINOSTEMMA]
+Fischt weitere Geschenkboxen
+
+[STORE_PRODUCT_AVATAR_ACTINOSTEMMA_TITLE]
+Boxgrass-Salut-Kostüm
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL1_DES]
+Der Boxgrass-Salut wirft verschiedene Geschenkboxen auf Zombies auf der Karte. Diese Geschenkboxen ziehen Zombies an und erzeugen zufällig verschiedene Effekte (Explosive Geschenkbox, Charmante Geschenkbox, Schreckens-Geschenkbox oder Feuerwerks-Geschenkbox).
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL2_DES]
+20 % Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL3_DES]
+40 % Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL4_DES]
+Wachsen lässt eine mittlere Chance auf sofortigen Einsatz einer Energiebohne-Ultimate.
+
+[ACTINOSTEMMA_NEW_SKILL_LEVEL5_DES]
+Beim Angriff hat die Pflanzenkanone eine Chance von 10 %, eine größere Geschenkbox abzufeuern. Nach ihrer Aktivierung besteht eine Chance von 50 %, Zombies in einem Radius von 3x3 in eine neue Geschenkbox zu packen.
+
+[ACTINOSTEMMA_PLANTFOOD_DESCRIPTION]
+Wirft sofort eine Geschenkbox auf den ersten Gegner in drei zufälligen Reihen.
+
+[ACTINOSTEMMA_AVATAR_PLANTFOOD_DESCRIPTION]
+Schießt weitere Geschenkboxen ab.
 
 [GENE_SEQUENCE_LEVEL_LEFT]
 Gensequenzebene: {PARAM}
@@ -69113,7 +69178,7 @@ Maximales Level
 Event endet
 
 [CORNUCOPIA_SERVER_TOTAL_PROGRESS_GEM]
-Cornucopia-Preispool-Ansammlung
+Cornucopia-Preis-Ansammlung
 
 [CORNUCOPIA_TOTAL_GACHA_TITLE]
 {NUMS} Ziehungen kumulativ
@@ -69155,7 +69220,7 @@ Spezial-Geschenkpaket
 Tauschladen
 
 [CORNUCOPIA_TAB_NAME5]
-Preispool teilen
+Preis teilen
 
 [CORNUCOPIA_GOTO_LEVEL]
 Zum Upgrade
@@ -77723,7 +77788,7 @@ Aktivität beendet.
 Juwel Akkumulation
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_GOTO_BUTTON]
-Preispool teilen
+Preis teilen
 
 [HARVEST_BATTLE_HEAD_ID_25595]
 Autumn Noble
