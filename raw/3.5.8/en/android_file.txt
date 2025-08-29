@@ -50914,6 +50914,72 @@ Teilnehmer der zeitlich begrenzten Beschwörung
 [TIME_SUMMON_HEAD_DES_ID_25690]
 Für Spieler, die im zeitlich begrenzten Beschwörungsevent Ränge erreicht haben.
 
+[LEVEL_EDITOR_HEAD_ID_25722]
+Aufmerksamer Butler
+
+[TOYS_HEAD_ID_25723]
+Lavahammer
+
+[NEWYEAR_GIFT_HEAD_ID_25724]
+Elektromechanische Trends
+
+[TIANGONG_HEAD_ID_25720]
+Jadetau und Nektar
+
+[HARVEST_BATTLE_HEAD_ID_25719]
+Mystischer Hexenmeister
+
+[SUMMER_MEMORIES_HEAD_ID_25718]
+Surfen im Meer
+
+[LEVEL_EDITOR_HEAD_ID_25717]
+Türsteher
+
+[LEVEL_EDITOR_HEAD_DES_ID_25717]
+Streben nach höheren Zielen
+
+[NEWYEAR_GIFT_HEAD_ID_25713]
+Rüstungsmeister
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25713]
+Erreiche während des Sommer-Geschenkpaket-Events die kumulative Aufladestufe, um das Geschenk zu erhalten.
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25718]
+Halte dich am Surfbrett fest!
+
+[HARVEST_BATTLE_HEAD_DES_ID_25719]
+Während des Farmkampf-Events gegen Supermais eintauschen.
+
+[TIANGONG_HEAD_DES_ID_25720]
+Sammelt während der Schatzsuche im Himmlischen Palast Belohnungen in der Ziehungsphase.
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25724]
+Erreichen Sie während des Sommer-Geschenkpaket-Events die kumulative Aufladestufe, um das Geschenk zu erhalten.
+
+[TOYS_HEAD_DES_ID_25723]
+Erhältlich durch die Teilnahme am Lava-Tumbling-Show-Event
+
+[LEVEL_EDITOR_HEAD_DES_ID_25722]
+Es ist uns eine Freude, Sie zu bedienen.
+
+[TIME_SUMMON_HEAD_ID_25685]
+Gold-Auszeichnung für zeitlich begrenzte Beschwörung
+
+[TIME_SUMMON_HEAD_ID_25685]
+Gold-Auszeichnung für zeitlich begrenzte Beschwörung
+
+[TIME_SUMMON_HEAD_DES_ID_25685]
+Für den Spieler, der im zeitlich begrenzten Beschwörungsevent den ersten Platz belegt hat.
+
+[TREASURE_GOT_HEAD_ID_25725]
+Verloren und zufrieden
+
+[TREASURE_GOT_HEAD_DES_ID_25725]
+Erhalten beim Poseidons Schatz-Event
+
+[TIME_SUMMON_HEAD_DES_ID_25685]
+Für den Spieler, der im zeitlich begrenzten Beschwörungsevent den ersten Platz belegt hat.
+
 [TIME_SUMMON_HEAD_ID_25691]
 Erinnerungsporträt der zeitlich begrenzten Beschwörung
 
@@ -50968,11 +51034,35 @@ Erinnerungsavatar der zeitlich begrenzten Beschwörung
 [TIME_SUMMON_HEAD_DES_ID_25379]
 An alle Spieler, die an der zeitlich begrenzten Beschwörung teilgenommen haben Ereignis
 
+[HARVEST_BATTLE_HEAD_ID_25742]
+Plünderkönig
+
+[HARVEST_BATTLE_HEAD_DES_ID_25742]
+Tausche Supermais während des Farmkampf-Events gegen diesen Gegenstand ein.
+
+[TIANGONG_HEAD_ID_25741]
+Seltene Schätze
+
+[TIANGONG_HEAD_DES_ID_25741]
+Sammeln Sie während der Schatzsuche im Himmlischen Palast während der Ziehungsphase Belohnungen.
+
 [TIME_SUMMON_HEAD_ID_25685]
 Goldbelohnung für begrenzte Zeit
 
 [TIME_SUMMON_HEAD_ID_25686]
 Goldbelohnung für begrenzte Zeit
+
+[LEVEL_EDITOR_HEAD_ID_25747]
+Kindheitsträumen nachjagen
+
+[LEVEL_EDITOR_HEAD_DES_ID_25747]
+Kindheitsträumen nachspüren
+
+[SUMMER_MEMORIES_HEAD_ID_25746]
+Eine ruhige Nacht
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25746]
+An alle Spieler, die diese Reise der Erinnerungen gemeinsam unternommen haben
 
 [TIME_SUMMON_HEAD_ID_25687]
 Goldbelohnung für begrenzte Zeit
@@ -50990,7 +51080,6 @@ Gedenkavatar für begrenzte Zeit
 Gedenkavatar für begrenzte Zeit
 
 [TIME_SUMMON_HEAD_ID_25689]
-Belohnung für begrenzte Zeit Gold-Auszeichnung AD_DES_ID_25685]
 An den Spieler, der den ersten Platz im zeitlich begrenzten Beschwörungs-Event belegt hat
 
 [TIME_SUMMON_HEAD_ID_25686]
