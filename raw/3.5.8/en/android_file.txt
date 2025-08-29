@@ -8673,43 +8673,43 @@ Kann zu Beginn eines Levels mehr Sonnenlicht tragen.
 Kann zu Beginn eines Levels mehr Sonnenlicht tragen.
 
 [OBTAIN_MOWER]
-Hol dir eine Karre
+Hol dir einen Rasenmäher
 
 [UPGRADE_MOWER]
-Karre im einfachen Modus
+Rasenmäher
 
 [UPGRADE_MOWER_1_INFO]
-Hol dir die einfache Karre „Mystisches Ägypten“, die einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus im Alten Ägypten.
 
 [UPGRADE_MOWER_2_INFO]
-Hol dir die einfache Karre „Pirate Bay“, die einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus in der Piratensee.
 
 [UPGRADE_MOWER_3_INFO]
-Hol dir die einfache Karre „Wilder Westen“, die einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus im Wilden Westen.
 
 [UPGRADE_MOWER_8_INFO]
-Hol dir die einfache Karre „Eiswelt“, die einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus in den Frostbeulen-Höhlen.
 
 [UPGRADE_MOWER_10_INFO]
-Hol dir die einfache Karre „Verlorene Stadt“, die einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus in der Verlorenen Stadt.
 
 [UPGRADE_MOWER_11_INFO]
-Holt euch den einfachen Wagen des Felsens der Zeit, der einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus in der Neon-Mixtape-Tour.
 
 [UPGRADE_MOWER_12_INFO]
-Holt euch den einfachen Wagen der Dinokrise, der einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus im Jurrasischem Moor.
 
 [UPGRADE_MOWER_13_INFO]
-Holt euch den einfachen Wagen der modernen Welt, der einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus in der Moderne.
 
 [UPGRADE_MOWER_14_INFO]
-Holt euch den einfachen Wagen des Dampfzeitalters, der einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus der Industriellen Revolution.
 
 [UPGRADE_MOWER_15_INFO]
-Holt euch den einfachen Wagen der Renaissance, der einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus in der Renaissance.
 
 [UPGRADE_MOWER_16_INFO]
-Holt euch den einfachen Wagen der Heian-Zeit, der einem Zombieangriff auf das Haus standhält.
+Hol dir den Rasenmäher für den einfachen Modus in der Heian-Ära.
 
 [UPGRADE_TREASURE_YETI]
 Schatzschneemann freischalten
@@ -12526,7 +12526,7 @@ Muss man ^FF0000 {GEM_COUNT} ^oldclr Juwelen oder ^FF0000 ausgeben, um eine Anze
 ^FF0000 (Die Anzahl der Käufe kann nicht auf den nächsten Tag übertragen werden. Bitte nutze sie entsprechend deiner Fähigkeiten.)
 
 [BUY_LIFE_TIMES]
-Anzahl der Käufe
+Verfügbar
 
 [LOOK_MONTHLY_CARD]
 Sieh dir die Monatskarte an.
@@ -12559,7 +12559,7 @@ Mittel
 Schwer
 
 [FESTIVALGAMELEVEL_LEGEND_TITLE]
-Legende
+Legendär
 
 [FESTIVALGAMELEVEL_PLANTPIECE_REWARD]
 Herausforderungsbelohnung: ^FFFF00 Pflanzenfragmente
@@ -16940,7 +16940,7 @@ Guakodile können sich nicht selbst beißen. ~ Verbrauche ^00e46e {GEM_COUNT} Ju
 Lauf nicht aus dem Veranstaltungsort. ~ Verbrauche ^00e46e {GEM_COUNT} Juwelen. ^oldclr. Spiel fortsetzen?
 
 [SNAKE_REVIVE_TIP4]
-Zombies fressen Gehirne! Verbrauche ^00e46e {GEM_COUNT} Juwelen ^oldclr. Einen Karren beschwören?
+Zombies fressen dein Gehirn! Verbrauche ^00e46e {GEM_COUNT} Juwelen ^oldclr. Einen Rasenmäher beschwören?
 
 [REVIVE_DODORIDER_DIED_OUT]
 Es gibt keine weiteren Herausforderungen. Möchtest du ^00e46e {GEM_COUNT} Juwelen ^oldclr verbrauchen, um eine Herausforderung zu kaufen?
@@ -19077,7 +19077,7 @@ Einlösung fehlgeschlagen
 Der Juwelen-Rabatt konnte nicht eingelöst werden. Bitte überprüfen Sie das Netzwerk oder öffnen Sie es erneut und versuchen Sie es erneut.
 
 [PRODUCT_BUY_MOWER_DES]
-Kleinen Karren beschwören
+Rasenmäher beschwören
 
 [PRODUCT_BUY_PRESENT_DES]
 Game-Over-Geschenkpaket
@@ -23178,7 +23178,7 @@ Punktebelohnung
 
 6. Nach dem Abschluss eines neuen Levels erhältst du eine Medaille, die im Medaillenshop erworben werden kann. Gleichzeitig wird die Rangliste jeden Freitag, Samstag und Sonntag um 24:00 Uhr aktualisiert, und die Medaillen werden entsprechend der zu diesem Zeitpunkt erreichten Rangliste vergeben.
 
-7. Im Endlosmodus werden die Anzahl an Sonnenlicht, taktischen Gurken, Karren, aktiv genutzten Artefakten und verbleibenden Pflanzen auf dem Feld in jedem Level an das nächste Level übertragen. Nach dem Zurücksetzen wird der ursprüngliche Wert wiederhergestellt.
+7. Im Endlosmodus werden die Anzahl an Sonnenlicht, taktischen Gurken, Rasenmäher, aktiv genutzten Artefakten und verbleibenden Pflanzen auf dem Feld in jedem Level an das nächste Level übertragen. Nach dem Zurücksetzen wird der ursprüngliche Wert wiederhergestellt.
 
 8. Die Anzahl der taktischen Gurken hat keinen Bezug zur Anzahl taktischer Gurken in anderen Modi und wird separat berechnet.
 
@@ -50873,7 +50873,7 @@ Holen Sie sich täglich kostenlose Knallkörper.
 Countdown zur Aktualisierung des Geschenkpakets
 
 [PENNY_CHASE]
-Penny Chase
+Penny-Jagd
 
 [BUY_MONTHLY_CARD]
 Kaufen Sie eine Monatskarte.
@@ -50907,6 +50907,18 @@ Geschenkpaket für Superbeschwörungen
 
 [PRODUCT_LIMITED_SUMMON_VIP_SHORTDESC]
 VIP-Privilegien
+
+[TIME_SUMMON_HEAD_ID_25690]
+Teilnehmer der zeitlich begrenzten Beschwörung
+
+[TIME_SUMMON_HEAD_DES_ID_25690]
+Für Spieler, die im zeitlich begrenzten Beschwörungsevent Ränge erreicht haben.
+
+[TIME_SUMMON_HEAD_ID_25691]
+Erinnerungsporträt der zeitlich begrenzten Beschwörung
+
+[TIME_SUMMON_HEAD_DES_ID_25691]
+Für Spieler, die am zeitlich begrenzten Beschwörungsevent teilgenommen haben.
 
 [PRODUCT_UNCHARTED_FESTIVAL_REWARD_ACTIVATE_SHORTDESC]
 Aktivierung der Belohnung für das Geheime Reich
@@ -50971,8 +50983,6 @@ Goldbelohnung für begrenzte Zeit
 [TIME_SUMMON_HEAD_ID_25689]
 Gedenkavatar für begrenzte Zeit
 
-[TIME_SUMMON_HEAD_ID_25689 ... Gedenkavatar
-
 [TIME_SUMMON_HEAD_ID_25689]
 Gedenkavatar für begrenzte Zeit
 
@@ -50995,7 +51005,7 @@ Bronze-Auszeichnung für zeitlich begrenzte Beschwörung
 [TIME_SUMMON_HEAD_DES_ID_25687]
 An den Spieler, der den dritten Platz im zeitlich begrenzten Beschwörungs-Event belegt hat
 
-[TIME_SUMMON_HEAD_DES_ID_25687] ON_HEAD_ID_25688]
+[TIME_SUMMON_HEAD_DES_ID_25687]
 Teilnehmer der zeitlich begrenzten Beschwörung
 
 [TIME_SUMMON_HEAD_DES_ID_25688]
@@ -65162,7 +65172,7 @@ Kauf von Sonnenlicht möglich
 Kauf von Spezialdünger-Fähigkeitn möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_MOWER]
-Kauf von Karren möglich
+Kauf von Rasenmähern möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_HAMMER]
 Kauf von Hämmern möglich
