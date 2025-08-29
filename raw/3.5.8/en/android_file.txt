@@ -17745,7 +17745,7 @@ Jetzt kaufen
 Ich überlege es mir.
 
 [SALES_REWARD_BOX_CLOSE]
-Ich habe es akzeptiert.
+Erhalten
 
 [SALES_REWARD_HAS_MAX_LEVEL_TITLE]
 Kauf fehlgeschlagen
@@ -17881,7 +17881,7 @@ Limitierte Kissenedition zum 3. Jubiläum
 Limitierte Kissenedition zum 3. Jubiläum
 
 [GEILIVABLE_LOTTERY_BONUS_TITLE]
-Herzlichen Glückwunsch zum Gewinn der folgenden Artikel
+Du hast folgendes Gewonnen:
 
 [UNIQUE_FERTILIZER]
 Seltenes Düngemittel
@@ -19325,7 +19325,7 @@ Belohnung für die Beantwortung von Fragen an zehn Tagen
 Belohnung für die Beantwortung von Fragen an sechzehn Tagen
 
 [LANTERN_RIDDLES_PRIZE]
-Herzlichen Glückwunsch zum Gewinn!
+Du hast folgendes Gewonnen:
 
 [LANTERN_RIDDLES_SPECIAL_PRIZE_DESC]
 Löst alle Rätsel richtig und gewinnt eine Neujahrspflanze.
@@ -51040,6 +51040,86 @@ Plünderkönig
 [HARVEST_BATTLE_HEAD_DES_ID_25742]
 Tausche Supermais während des Farmkampf-Events gegen diesen Gegenstand ein.
 
+[ANIMNUTS]
+Kegeltrainer
+
+[ANIMNUTS_DESCRIPTION]
+{KEYWORD} Anwendungsbereich: {STAT} Pflanzen
+{KEYWORD} Funktionen: {STAT} Drei einzigartige Pflanzen als Haustiere
+{KEYWORD} Pflanzeneigenschaften: {STAT} Orangenpflanzen
+
+{FLAVOR} Früher waren menschliche Haustiere auf der Fensterbank für Pflanzen meist nicht willkommen. Da eine Pflanze jedoch selbst ein magischer Haustierball ist, ist die Haltung eines Haustieres möglicherweise kein Problem.
+
+[ANIMNUTS_DESCRIPTION_HEADER]
+Beschwört das Pflanzentier im Kegel.
+
+[ANIMNUTS_TOOLTIP]
+Beschwört das Pflanzentier im Kegel.
+
+[ANIMNUTS_PRODUCT_SHORT_DESC]
+Beschwöre das Pflanzentier im Kegel.
+
+[ANIMNUTS_SKILL_LEVEL1]
+Intimes Training
+
+[ANIMNUTS_SKILL_LEVEL1_DES]
+Dinobot: Erhöht den Bissschaden um 20 % und verkürzt die Fütterungszeit auf 8 Sekunden.
+Dinobot: Angriffe haben eine Chance von 15 %, eine rosa Qualle zu beschwören. Bei der Explosion hat die rosa Qualle eine Chance von 50 %, den Zombie 6 Sekunden lang zu bezaubern. Pygmäe: Angriffskraft um 20 % erhöht, Ruhezeit auf 10 Sekunden reduziert
+
+[ANIMNUTS_SKILL_LEVEL2]
+Potenzialtraining
+
+[ANIMNUTS_SKILL_LEVEL2_DES]
+Dinobot: Bissschaden um weitere 20 % erhöht, Schluckzeit auf 4 Sekunden reduziert
+Kugelqualle: Angriffe haben eine 30-prozentige Chance, eine rosa Qualle zu beschwören
+Pygmäe: Angriffskraft um 20 % erhöht, Ruhezeit auf 6 Sekunden reduziert
+
+[ANIMNUTS_SKILL_LEVEL5]
+Mega-Evolution
+
+[ANIMNUTS_SKILL_LEVEL5_DES]
+Dinobot: Nachdem er einen Zombie erfolgreich verschluckt hat, brüllt er und betäubt Zombies in der Nähe 3 Sekunden lang.
+Kugelqualle: Der Explosionsradius kleiner Quallen wird auf einen Block erhöht (der Zauberradius rosa Quallen wird ebenfalls erhöht). Avator: Avators Angriff stößt alle Zombies, die er berührt, um einen halben Block zurück.
+
+[ANIMNUTS_AVATAR_NAME]
+Kostüm
+
+[STORE_PRODUCT_AVATAR_ANIMNUTS]
+Avator: Dino Tide kann kleine und mittelgroße Zombies zurückstoßen.
+Avator: Vom Laser getötete Zombies explodieren in einem Radius von einem Block. Avator: Zombies im Kreis sind betäubt, bis der Kreis endet.
+
+[STORE_PRODUCT_AVATAR_ANIMNUTS_TITLE]
+Avator-Trainer-Outfit
+
+[ANIMNUTS_NEW_SKILL_LEVEL1_DES]
+Tippe auf die Schaltfläche rechts neben dem Pflanzenplatz, um zwischen verschiedenen Avator-Pflanzen zu wechseln. Diese Pflanzen greifen automatisch Zombies in ihrer Reihe an und werden nicht von Zombies angegriffen.
+
+[ANIMNUTS_NEW_SKILL_LEVEL2_DES]
+Dinobotan: Bissschaden um 20 % erhöht, Schluckzeit auf 8 Sekunden reduziert.
+Kugelqualle: Angriffe haben eine 15-prozentige Chance, eine rosa Qualle zu beschwören. Nach der Explosion der rosa Qualle besteht eine 50-prozentige Chance, den Zombie für 6 Sekunden zu verzaubern. Pygmäe: Angriff um 20 % erhöht, Ruhezeit auf 10 Sekunden reduziert.
+
+[ANIMNUTS_NEW_SKILL_LEVEL3_DES]
+Dinobot: Bissschaden um weitere 20 % erhöht, Verschlingungszeit auf 4 Sekunden reduziert.
+Kugelförmig: Angriffe haben eine 30-prozentige Chance, eine rosa Qualle zu beschwören.
+Pygmäe: Angriff um 20 % erhöht, Ruhezeit auf 6 Sekunden reduziert.
+
+[ANIMNUTS_NEW_SKILL_LEVEL4_DES]
+Beim Einpflanzen besteht eine geringe Chance, einen ultimativen Angriff auszulösen.
+
+[ANIMNUTS_NEW_SKILL_LEVEL5_DES]
+Dinobot: Nach dem erfolgreichen Verschlingen eines Zombies stößt er ein Drachenbrüllen aus, das Zombies in der Nähe 3 Sekunden lang betäubt.
+Kugelförmig: Der Explosionsradius kleiner Quallen wurde auf einen Block erhöht (der Zauberradius der rosa Qualle wurde ebenfalls erhöht). Phantom: Phantoms Angriff stößt alle Zombies, die er berührt, um einen halben Block zurück.
+
+[ANIMNUTS_PLANTFOOD_DESCRIPTION]
+Pflanzenfuchs: Brüllt und beschwört eine Welle von Dinosauriern, die Zombies in ihrem Weg Schaden zufügt.
+Avator: Feuert einen Laser auf den Zombie mit der höchsten Gesundheit auf dem Spielfeld ab und fügt ihm 25 Sekunden lang 20 % seiner maximalen Gesundheit pro Sekunde zu.
+Phantom: Erzeugt einen magischen Kreis auf dem Spielfeld, der 15 Sekunden lang bestehen bleibt. Neu erschaffene Zombies werden sofort in die Mitte des Kreises teleportiert.
+
+[ANIMNUTS_AVATAR_PLANTFOOD_DESCRIPTION]
+Pflanzenfuchs: Die Welle von Dinosauriern kann kleine und mittelgroße Zombies bis zum doppelten Level der Pflanze zurückstoßen.
+Avator: Vom Laser getötete Zombies explodieren in einem Radius von einem Block und verursachen 500 Schaden.
+Phantom: Zombies innerhalb des Kreises sind betäubt, bis der Kreis endet.
+
 [TIANGONG_HEAD_ID_25741]
 Seltene Schätze
 
@@ -68372,10 +68452,10 @@ Aufgabe
 Aktivierung
 
 [NEW_PVP_TASK_TAB1]
-Aufgabenherausforderung
+Aufgaben
 
 [NEW_PVP_TASK_TAB2]
-Aufgabenlevel
+Pass level
 
 [NEW_PVP_TASK_TAB3]
 Glücksrad
@@ -68384,7 +68464,7 @@ Glücksrad
 Duellmünzen
 
 [NEW_PVP_TASK_INTERGAL_TIPS]
-Verfügt aktuell über {NUM} Duellmünzen
+Du hast {NUM} Duellmünzen
 
 [NEW_PVP_TASK_DESCRIPTION_TITLE]
 Beschreibung der Aufgabenaktivität
