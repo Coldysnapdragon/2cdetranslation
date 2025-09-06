@@ -68891,6 +68891,9 @@ Treten Sie bei Raum
 [NEW_PVP_FREE_TO_PLAY_JOIN_TITLE]
 Bitte geben Sie den Raumcode ein.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_SEASHROOM_1]
+Strohhut
+
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT]
 Gegner gefunden
 
@@ -69406,6 +69409,70 @@ Zum Upgrade
 
 [CORNUCOPIA_LEVEL_DESC]
 {NUM1} / {NUM2}
+
+[ZOMBIEREMOVAL]
+Zombie-Eliminierungsplan
+
+[ZOMBIEREMOVAL_TAB1]
+Heutiges Level
+
+[ZOMBIEREMOVAL_PRODUCE]
++{NUM}/Stunde
+
+[ZOMBIEREMOVAL_AFK_LEVEL]
+AFK-Level: {NUM}
+
+[ZOMBIEREMOVAL_NEXT_LEVEL]
+Benötigte Punkte für das nächste Level: {NUM}
+
+[ZOMBIEREMOVAL_AFK_REWARD]
+Kumulative AFK-Belohnungen:
+
+[ZOMBIEREMOVAL_TAB2]
+Level-Belohnungen
+
+[ZOMBIEREMOVAL_CONDITION]
+Kumulative Punkte: {NUM}
+
+[ZOMBIEREMOVAL_AUTO_PLAY]
+AFK-Eliminierung
+
+[ZOMBIEREMOVAL_AFK_REWARD]
+Kumulative AFK-Belohnungen:
+
+[ZOMBIEREMOVAL_TAB2]
+Level Belohnungen
+
+[ZOMBIEREMOVAL_CONDITION]
+Gesammelte Punkte: {NUM}
+
+[ZOMBIEREMOVAL_AUTO_PLAY]
+AFK-Eliminierung
+
+[ZOMBIEREMOVAL_AFK_REWARD]
+Gesammelte AFK-Belohnungen: {NUM} [ZOMBIEREMOVAL_TIME_LIMIT]
+Countdown für Levelaktualisierung: {TIME}
+
+[ZOMBIEREMOVAL_AUTO_PLAY_REWARD]
+Inaktivitätsbelohnungen für den Zombie-Räumungsplan
+
+[ZOMBIEREMOVAL_START]
+Herausforderung starten
+
+[ACTIVITY_ZOMBIEREMOVAL_SHORT_DESCRIPTION]
+Töte Zombies innerhalb der vorgegebenen Zeit in rotierenden Leveln, um Punkte zu sammeln und Inaktivitätsbelohnungen zu erhalten.
+
+[ZOMBIEREMOVAL_DESCRIPTION_TITLE]
+Eventbeschreibung
+
+[ZOMBIEREMOVAL_DESCRIPTION]
+Eventdetails:
+1. Pflanzen Sie Pflanzen, um Zombies innerhalb der vorgegebenen Zeit zu töten. Spieler erhalten Punkte für das Töten von Zombies. Die Anzahl der Punkte hängt von der Anzahl der im Level getöteten Zombies ab.
+2. Die Level wechseln alle zwei Tage, und die Levelbelohnungen werden aktualisiert. Kämpft ein Spieler bei einem Levelwechsel noch, verfällt die im Herausforderungslevel erreichte Punktzahl.
+3. Beim Betreten des Haupt-Eventbildschirms aktivieren Spieler das Leerlaufsystem. Stündlich erhalten sie eine bestimmte Anzahl an Leerlaufbelohnungen, basierend auf ihrem niedrigsten Level.
+4. Nach Abschluss des neuesten Levels können Spieler basierend auf ihren höchsten Punkten in verschiedene Leerlaufbelohnungslevel aufsteigen.
+5. Befindet sich ein Leerlaufbelohnungspool, können Spieler diese einfordern. Sind keine Belohnungen vorhanden, können sie nicht eingelöst werden.
+6. Nach dem Levelwechsel kehren die Leerlaufbelohnungen des Spielers auf ihr niedrigstes Level zurück und er beansprucht automatisch die Belohnungen aus dem vorherigen Leerlaufbelohnungspool.
 
 [CORNUCOPIA_MAIN_TIPS_INFO]
 Aktivitätsregeln:
