@@ -27133,6 +27133,56 @@ Angsthasenpilz hat eine stärkere Verteidigung, wenn er sich vor Zombies verstec
 [SCAREDYSHROOM_TOOLTIP]
 Schießt und versteckt sich bei Nähe
 
+[SCAREDYSHROOM_PRODUCT_SHORT_DESC]
+Schießt Sporen auf Gegner. Bei Zombie-Näherung rollt sich der Pilz zusammen.
+
+[SCAREDYSHROOM_AVATAR_NAME]
+Schießt Sporen auf Gegner. Bei Zombie-Näherung rollt sich der Pilz zusammen und erhält einen Verteidigungs Bonus.
+
+[STORE_PRODUCT_AVATAR_SCAREDYSHROOM_TITLE]
+Pilz-Outfit
+
+[STORE_PRODUCT_AVATAR_SCAREDYSHROOM]
+Schießt 50 Sporen, die Zombies in seiner Lane durchbohren können.
+
+[SCAREDYSHROOM_SKILL_LEVEL1]
+Zwei-Schuss-Salve
+
+[SCAREDYSHROOM_SKILL_LEVEL1_DES]
+Der Angriff wird zu einem kontinuierlichen Speichel aus zwei Sporen.
+
+[SCAREDYSHROOM_SKILL_LEVEL2]
+Dreifachschuss
+
+[SCAREDYSHROOM_SKILL_LEVEL2_DES]
+Ändert seinen Angriff in einen kontinuierlichen Spuck von drei Sporen.
+
+[SCAREDYSHROOM_SKILL_LEVEL5]
+Zurückschlagen
+
+[SCAREDYSHROOM_SKILL_LEVEL5_DES]
+Beim Aufstehen aus seiner kauernden Position spuckt der Pilz sofort 20 Sporen aus und verursacht Rückstoß.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL1_DES]
+Schießt Sporen auf Gegner. Der Pilz rollt sich zusammen, wenn sich ein Zombie nähert und erhält eine Schadensreduzierung.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL2_DES]
+Ändert seinen Angriff in einen kontinuierlichen Spuck von zwei Sporen.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL3_DES]
+Ändert seinen Angriff in einen kontinuierlichen Spuck von drei Sporen.
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL4_DES]
+Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit freizusetzen!
+
+[SCAREDYSHROOM_NEW_SKILL_LEVEL5_DES]
+Beim Aufstehen aus seiner kauernden Position spuckt der Pilz sofort 20 Sporen aus und verursacht Rückstoß.
+
+[SCAREDYSHROOM_PLANTFOOD_DESCRIPTION]
+Dieser Pilz und Pilze in einem 3x3-Bereich feuern sofort 35 Sporen ab und verursachen Rückstoß.
+
+[SCAREDYSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Feuert 50 Sporen auf Zombies in seiner Reihe ab.
 
 [ESCAPEROOT]
 Fluchtwurzel
@@ -49635,7 +49685,7 @@ Die Verwandlung in eine Aubergine erhöht Angriff und Verteidigung der imitierte
 Die Wahrscheinlichkeit, einen großen Angriff auszuführen, wenn die gelbe Birne der vierten Stufe auf dem Boden landet, erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_POWERPLANT]
-Die geflieste Karotte reduziert den Sonnenlichtverbrauch um {Param_1}%.
+Die Feldrübe reduziert den Sonnenlichtverbrauch um {Param_1}%.
 
 [GENE_DESCRIPTION_CACTUS]
 Der große Angriff des Kaktus ist stärker. Die chemischen Nadeln werden zusätzlich mit elektrischem Strom aufgeladen, wodurch die getroffenen Zombies mit einer Wahrscheinlichkeit von {Param_1}% gelähmt werden.
@@ -71927,7 +71977,7 @@ Erzeugt eine Barriere vor sich, die die Angriffe aller Zombies in der Reihe und 
 Erzeugt zwei Barrieren vor sich (^ff0000^,^oldclr^), die die Angriffe aller Zombies in der Reihe und fliegende Zombies blockieren können. Die Barrieren verschwinden, nachdem sie eine bestimmte Menge Schaden absorbiert haben.
 
 [POWERPLANT_NEW_SKILL_LEVEL1_DES]
-Nach dem Einpflanzen bohrt sich die Karotte in den Boden und verwandelt das ursprüngliche Gitter in ein Energiefeld. Wenn die Spezialdünger-Fähigkeit auf die darauf gepflanzte Pflanze angewendet werden, lösen alle anderen Pflanzen auf den Energiefeldern eine starke Attacke aus.
+Nach dem Einpflanzen bohrt sich die Feldrübe in den Boden und verwandelt das ursprüngliche Feld in ein Energiefeld. Wenn die Spezialdünger-Fähigkeit auf die darauf gepflanzten Pflanzen angewendet wird, lösen alle anderen Pflanzen auf den Energiefeldern ihre Spezialdünger-Fähigkeiten aus.
 
 [POWERPLANT_PLANTFOOD_DESCRIPTION]
 Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
@@ -79902,6 +79952,83 @@ Wöchentliches Spezialpaket (Acht)
 
 [TIANGONG_HEAD_DES_ID_25698]
 Sammle im Tiangong-Schatzjagd-Event die Belohnungen in der Extraktionsphase.
+
+[NEW_AVATAR_DESCRIPTION_KELPGUARD_1]
+Gesundheit um 20 % erhöht
+
+[NEW_AVATAR_DESCRIPTION_ESCAPEROOT_2]
+Abklingzeit des Pflanzens um 15 % reduziert
+
+[AEONIUM]
+Schwarzmagier
+
+[AEONIUM_DESCRIPTION_HEADER]
+Verbannt Zombies mit Magie in die Leere.
+
+[AEONIUM_DESCRIPTION]
+{KEYWORD} Eigenschaft: {STAT} Verbannt Zombies und versetzt sie in einen Zustand der Leere, in dem sie anfällig für Magie sind.
+{KEYWORD} Pflanzeneigenschaft: {STAT} Lila Pflanze
+{FLAVOR} Der Schwarzmagier kam aus der Leere und wird dorthin zurückkehren.
+
+[AEONIUM_TOOLTIP]
+Verbannt Zombies mit Magie in die Leere
+
+[AEONIUM_SKILL_LEVEL1]
+Mana-Freisetzung
+
+[AEONIUM_SKILL_LEVEL1_DES]
+Kann zwei Zombies gleichzeitig verbannen. Der verbannte Zombie erleidet 20 % mehr Magieschaden.
+
+[AEONIUM_SKILL_LEVEL2]
+Beherrschung der Leere
+
+[AEONIUM_SKILL_LEVEL2_DES]
+Kann bis zu drei Zombies gleichzeitig verbannen. Verbannte Zombies erleiden 30 % mehr magischen Schaden.
+
+[AEONIUM_SKILL_LEVEL5]
+Herr der Leere
+
+[AEONIUM_SKILL_LEVEL5_DES]
+Beim Verbannen eines Zombies besteht eine 30-prozentige Chance, ihn dauerhaft zu verbannen und sofort einen explosiven Angriff auszulösen. Zombies, die nicht sofort getötet werden können, werden trotzdem verbannt und verursachen Schaden in Höhe deiner Angriffskraft * 10. Eliten und Bosse können nicht verbannt werden.
+
+[AEONIUM_SUPERSKILL]
+Herr der Leere
+
+[AEONIUM_SUPERSKILL_DES]
+Beim Verbannen eines Zombies besteht eine x-prozentige Chance, ihn dauerhaft zu verbannen und sofort einen explosiven Angriff auszulösen. Zombies, die nicht sofort getötet werden können, werden dennoch verbannt und verursachen Schaden in Höhe des Zehnfachen ihrer Angriffskraft. Eliten und Bosse können nicht verbannt werden.
+
+[STORE_PRODUCT_AVATAR_AEONIUM]
+Ätherische Zombies, die durch den ultimativen Angriff explodieren, erhöhen die Betäubungsdauer anderer Zombies um 2 Sekunden.
+
+[AEONIUM_NEW_SKILL_LEVEL1_DES]
+Ein Angriff auf einen Zombie versetzt ihn für 5 Sekunden in den ätherischen Zustand und verursacht kontinuierlichen Schaden. Ätherische Zombies erleiden nur magischen Schaden. Jeder magische Schaden, den sie von anderen Pflanzen erleiden, verursacht einen zusätzlichen Treffer mit dem Schaden des Schwarzmagiers über Zeit. Nicht-magische Kugeln, die einen ätherischen Zombie durchschlagen, verursachen ebenfalls einen zusätzlichen Treffer mit dem Schaden des Schwarzmagiers über Zeit.
+
+[AEONIUM_NEW_SKILL_LEVEL2_DES]
+Du kannst zwei Zombies gleichzeitig verbannen. Der verbannte Zombie erleidet 20 % mehr magischen Schaden.
+
+[AEONIUM_NEW_SKILL_LEVEL3_DES]
+Kann bis zu drei Zombies gleichzeitig verbannen, wodurch der von den verbannten Zombies erlittene magische Schaden um 30 % erhöht wird.
+
+[AEONIUM_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine mittlere Chance, sofort die Spezialdünger-Fähigkeit freizusetzen.
+
+[AEONIUM_NEW_SKILL_LEVEL5_DES]
+Beim Verbannen eines Zombies besteht eine 30-prozentige Chance, den Zombie dauerhaft zu verbannen und sofort einen explosiven Angriff auszulösen. Zombies, die nicht sofort getötet werden können, werden trotzdem verbannt und verursachen Schaden in Höhe des Zehnfachen deiner Angriffskraft. Die Elite und Bosse können nicht verbannt werden.
+
+[STORE_PRODUCT_AVATAR_AEONIUM_TITLE]
+Schwarzmagier-Outfit
+
+[AEONIUM_AVATAR_NAME]
+Schwarzmagier-Outfit
+
+[AEONIUM_PLANTFOOD_DESCRIPTION]
+Ätherische Zombies, die durch die Spezialdünger-Fähigkeit explodieren, erhöhen die Betäubungsdauer anderer Zombies um 2 Sekunden.
+
+[AEONIUM_AVATAR_PLANTFOOD_DESCRIPTION]
+Ätherische Zombies, die durch die Spezialdünger-Fähigkeit explodieren, erhöhen die Betäubungsdauer anderer Zombies um 2 Sekunden.
+
+[NEWYEARREDPACKET_REWARDNAME]
+Oktober Münzen {NUMBER}  
 
 [PVP_ERROR_76030]
 Gegenstandsbetrug erkannt.
