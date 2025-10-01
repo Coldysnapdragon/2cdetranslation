@@ -119,7 +119,7 @@ Wild-West-Level erfolgreich abgeschlossen.
 Yo! Los geht's!
 
 [ACHIEVE_HIGH_FIVE_DESC]
-Pflanze fünf Hochwall-Nusss und verwende Spezialdünger-Fähigkeitn darauf.
+Pflanze fünf Hochwall-Nusss und verwende Spezialdünger-Fähigkeit darauf.
 
 [ACHIEVE_HIGH_FIVE_TITLE]
 Super! High Five!
@@ -539,7 +539,7 @@ Ein Zombie mit einem Eimer ist aufgetaucht! Er sieht fantastisch aus!
 Probieren wir aus, welche Wirkung die Spezialdünger-Fähigkeit auf die Erbsenkanone haben!
 
 [ADVICE_COLLECT_PF]
-Klicke, um die springenden Spezialdünger-Fähigkeit einzusammeln. Sie sollten uns helfen!
+Klicke, um die springendie Spezialdünger-Fähigkeit einzusammeln. Sie sollten uns helfen!
 
 [ADVICE_TAP_TO_USE_PF]
 Probieren wir aus, welche Wirkung die Spezialdünger-Fähigkeit auf die Erbsenkanone haben!
@@ -634,7 +634,7 @@ Der Rüstungsmonteur-Feuerstern kann nicht auf Ranken gepflanzt werden.
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Dieser Typ trägt eine Rüstung auf dem Kopf, genau wie ich. Er sieht mächtig aus!
 
 [NARRATIVE_FRESHINTRO_END_INTRO_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Super gemacht! In diesem Level gibt es unbegrenzt Spezialdünger-Fähigkeitn. Als Nächstes schlagen wir die Zombies zu Brei!
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Super gemacht! In diesem Level gibt es unbegrenzt Spezialdünger-Fähigkeit. Als Nächstes schlagen wir die Zombies zu Brei!
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wow! Wo ist das denn? Ich bin total baff!
@@ -1525,7 +1525,7 @@ Willkommen auf dem Kongfu-Mönchsgrab!
 Willkommen zur Totenparty!
 
 [DANGER_ROOM_PLANTFOOD]
-Spezialdünger-Fähigkeitn:
+Spezialdünger-Fähigkeit:
 
 [DANGER_ROOM_REWARD_MOWER_DESC]
 Stelle {MOWER_COUNT} verlorene Einkaufswagen zu Beginn des Levels wieder her.
@@ -1534,10 +1534,10 @@ Stelle {MOWER_COUNT} verlorene Einkaufswagen zu Beginn des Levels wieder her.
 Stelle einen verlorenen Einkaufswagen zu Beginn des Levels wieder her.
 
 [DANGER_ROOM_REWARD_PLANTFOOD_DESC]
-Beginnt mit {PF_COUNT} zusätzlichen Spezialdünger-Fähigkeitnplätzen
+Beginnt mit {PF_COUNT} zusätzlichen Spezialdünger-Fähigkeitplätzen
 
 [DANGER_ROOM_REWARD_PLANTFOOD_DESC_SINGULAR]
-Beginnt mit einem zusätzlichen Spezialdünger-Fähigkeitnplatz
+Beginnt mit einem zusätzlichen Spezialdünger-Fähigkeitplatz
 
 [DANGER_ROOM_REWARD_SUN_DESC]
 Beginnt mit {SUN_COUNT} zusätzlicher Sonne
@@ -2224,13 +2224,13 @@ Kleines Knochenparadies
 {PLAYER}s Reise ins kleine Knochenparadies
 
 [GAME_OVER]
-Spiel vorbei
+ENDE
 
 [GAME_PAUSED]
-Spiel pausiert
+SPIEL PAUSIERT
 
 [GATE_COST]
-Du benötigst
+Kosten
 
 [GATE_CURRENT_BALANCE]
 {NUM_COST} Sterne zum Freischalten!
@@ -2371,7 +2371,7 @@ Schließe diese Abzweigroute ab, um einen wertvollen Gegenstand zu erhalten!
 Schlüssel
 
 [LEAVE_BUTTON]
-Verlassen
+VERLASSEN
 
 [LEAVE_DANGER_ROOM_GAME]
 Möchtest du zur Weltkarte zurückkehren? Dadurch verlierst du deinen Fortschritt im aktuellen Level und musst das Level neu starten.
@@ -2395,13 +2395,13 @@ Möchtest du dieses Level wirklich beenden?
 Wenn du das Level verlässt, werden die platzierten Pflanzen nicht gespeichert.
 
 [LEAVE_GAME_BUTTON]
-Verlassen
+LEVEL VERLASSEN
 
 [LEAVE_GAME_HEADER]
 Level verlassen?
 
 [LETS_ROCK_BUTTON]
-Los Geht's!
+LOS GEHT'S!
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_HP]
 Gesundheit
@@ -3159,13 +3159,13 @@ Nächstes Level freigeschaltet!
 Tägliche Herausforderungen freigeschaltet! Schließe Herausforderungen ab, um Pflanzenfragmente zu erhalten.
 
 [ADVICE_JOUST]
-Super-Z-Liga freigeschaltet! Tritt gegen andere an und zeig, wie stark du bist.
+Super-Z-Liga freigeschaltet! Tritt gegen andere an und zeig, wie stark du bist!
 
 [ADVICE_DANGERROOM]
 Endlose Herausforderung freigeschaltet! Teste deine Grenzen!
 
 [ADVICE_GENE]
-Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pflanzen zu verbessern.
+Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Pflanzen zu verbessern.
 
 [NARRATIVE_1000]
 {NPC_ENTER:crazydave}{SAY}{SHORT}Möchtest du es sehen?
@@ -3273,7 +3273,7 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Kampfkraft von Pf
 {NPC_ENTER:winnie}{SAY}Sie halten Kamelkarten. Mit kugeldurchdringenden Pflanzen könnt ihr sie effektiv bekämpfen.
 
 [NARRATIVE_BUY_PLANTFOOD_1]
-{SAY:winnie}Ich habe Juwelen gefunden. Kauf dir ein paar Spezialdünger-Fähigkeitn als Reserve!
+{SAY:winnie}Ich habe Juwelen gefunden. Kauf dir ein paar Spezialdünger-Fähigkeit als Reserve!
 
 [NARRATIVE_BUY_PLANTFOOD_2]
 {SAY:crazydave}Super! Diese Juwelen sind für dich! Warum? Weil ich verrückt bin~!!
@@ -4399,13 +4399,13 @@ Pflanze – Fackelholz
 Fackelholz
 
 [product_24_description]
-+1 Spezialdünger-Fähigkeitn-Kartenplatz!
++1 Spezialdünger-Fähigkeit-Kartenplatz!
 
 [product_24_name]
-Verbesserung – Spezialdünger-Fähigkeitn-Belohnungsgegenstand
+Verbesserung – Spezialdünger-Fähigkeit-Belohnungsgegenstand
 
 [product_24_short_description]
-Spezialdünger-Fähigkeitn-Belohnungsgegenstand
+Spezialdünger-Fähigkeit-Belohnungsgegenstand
 
 [product_25_description]
 Schlüsseltor – Piratenbucht – Unzerstörbar
@@ -4489,7 +4489,7 @@ Keygate – Wilder Westen – Saatgutverteidigung
 Keygate – Wilder Westen – Saatgut Verteidigung
 
 [product_33_description]
-Vernichte Gegner, kaufe Spezialdünger-Fähigkeitn und erhalte eine lohnende Sonnenschaufel!
+Vernichte Gegner, kaufe Spezialdünger-Fähigkeit und erhalte eine lohnende Sonnenschaufel!
 
 [product_33_name]
 Starterpaket
@@ -5406,7 +5406,7 @@ Nach jeweils zwei Angriffsrunden feuert die nächste Angriffsrunde ein zusätzli
 Eine Impulsexplosion mit einer Reichweite von 5×5 tritt auf, und mehrere elektrische Projektile werden im fächerförmigen Bereich rechts abgefeuert. Die Impulsexplosion lähmt alle mechanischen Zombies 5 Sekunden lang.
 
 [POWERVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Die durch die ultimative Bewegung nach rechts abgefeuerten elektrischen Projektile werden durchdringend.
+Die durch die Spezialdünger Fähigkeit nach rechts abgefeuerten elektrischen Projektile werden durchdringend.
 
 [SPIKEROCK]
 Stachelstein 
@@ -12538,19 +12538,19 @@ Lass mich darüber nachdenken.
 Kokosnusskanone
 
 [FESTIVALGAMEMODE_CRAZYYETI_TITLE]
-Crashender Yeti
+Feiender Yeti
 
 [FESTIVALGAMEMODE_GARGANTUARCRISIS_TITLE]
-Riesenkrise
+Gargantua Krise
 
 [FESTIVALGAMEMODE_DEVILINVADE_TITLE]
-Böse Invasion
+Böse Begegnung
 
 [FESTIVALGAMEMODE_CAISHEN_TITLE]
 Willkommen, Gott des Reichtums!
 
 [FESTIVALGAMEMODE_DES]
-Bitte wähle den Schwierigkeitsgrad. Je höher, desto besser. Die Belohnung
+Bitte wähle den Schwierigkeitsgrad. Je höher, desto besser ist die Belohnung.
 
 [FESTIVALGAMELEVEL_MEDIUM_TITLE]
 Mittel
@@ -12589,7 +12589,7 @@ Samstag
 Sonntag
 
 [WEEK_DAY_SEPARATE]
-、
+,
 
 [STORE_PRODUCT_AVATAR_BRAMBLE]
 Reduziert die Abklingzeit des Pflanzens.
@@ -14825,7 +14825,7 @@ Süßkartoffeln ziehen Zombies aus anderen Reihen an, wenn diese in ihre Nähe k
 Zieht Zombies aus anderen Reihen an, wenn diese in ihre Nähe kommen
 
 [POWERTILE_TUTORIAL_1]
-Füttere die Erbsenkanone mit Spezialdünger-Fähigkeitn.
+Füttere die Erbsenkanone mit Spezialdünger-Fähigkeit.
 
 [POWERTILE_TUTORIAL_2]
 Besiege die Typen mit den Eimern!
@@ -19357,7 +19357,7 @@ Zurück zur Frage
 Öffne den roten Umschlag.
 
 [LANTERN_RIDDLES_0]
-Wie viel Sonnenlicht kann eine Sonnenblume jedes Mal produzieren, wenn sie durch Spezialdünger-Fähigkeitn stimuliert wird?
+Wie viel Sonnenlicht kann eine Sonnenblume jedes Mal produzieren, wenn sie durch Spezialdünger-Fähigkeit stimuliert wird?
 
 [LANTERN_RIDDLES_ANSWER_0]
 ca=150|100|200|300|
@@ -19396,7 +19396,7 @@ ca=Feuerwehrmann | Polizist | Anwalt | Flugsaurier |
 [LANTERN_RIDDLES_9]
 Welche magische Frucht spuckt die Energieblume aus?
 [LANTERN_RIDDLES_ANSWER_9]
-ca=Spezialdünger-Fähigkeitn | Elixier | Saubohnen | Lotussamen |
+ca=Spezialdünger-Fähigkeit | Elixier | Saubohnen | Lotussamen |
 [LANTERN_RIDDLES_10]
 Welche Wirkung kann der gewöhnliche große Zug der Kokosnusskanone haben?
 [LANTERN_RIDDLES_ANSWER_10]
@@ -25060,6 +25060,30 @@ Bei einem normalen Angriff besteht eine gewisse Wahrscheinlichkeit, die rhythmis
 [EA_SQUARED_NO_ADS_AVAILABLE]
 Derzeit sind keine Anzeigen verfügbar. Bitte versuchen Sie es erneut, nachdem Sie eine Internetverbindung hergestellt haben.
 
+[ZOMBIE_GENERAL_ZMECH_PHASE1]
+Z-Mech
+
+[ZOMBIE_GENERAL_ZMECH_PHASE2]
+Z-Mech
+
+[ZOMBIE_GENERAL_ZMECH_PHASE3]
+Z-Mech
+
+[ZOMBIE_GENERAL_ZMECH_PHASE1_DESCRIPTION]
+Normalerweise sorgt der Z-Mech bei PvZ Heroes und PvZ Garden Warfare für Wirbel. Doch jetzt nimmt er sich eine Auszeit, um seine Zerstörungskraft bei Plants vs. Zombies 2 zu entfalten. Aber keine Sorge: Er hat das mit seinem Vorgesetzten abgeklärt.
+
+[ZOMBIE_GENERAL_ZMECH_PHASE1_DESCRIPTION_HEADER]
+Belästigt, beschädigt und bedroht Pflanzen auf dem Spielfeld mit einem bunten Strauß verschiedener Beschwörungs- und Teleportationstechnologien.
+
+[ZOMBIE_FUTURE_JETPACK_VETERAN]
+Blastronaut-Zombie
+
+[ZOMBIE_FUTURE_JETPACK_VETERAN_DESCRIPTION]
+{KEYWORD}Besonderheit: {STAT}Schwebt über flachen Pflanzen und kann über die meisten anderen Pflanze fliegen\n{KEYWORD}Schwäche: {STAT}Hohe Block-Pflanzen\n\n{FLAVOR}Der Raketenrucksack des Blastronauten ist reine Deko. Seine Schwebefähigkeit verdankt er jahrelanger Meditation und einer Lunge voll Helium.
+
+[ZOMBIE_FUTURE_JETPACK_VETERAN_DESCRIPTION_HEADER]
+Der Blastronaut-Zombie überschwebt extrem schnell mit Raketenschub alle Pflanzenbarrieren außer den allerhöchsten.
+
 [BOSS_CHALLENGE_INFO1]
 1. Dieses Event ist ein Rennmodus. Je schneller du den BOSS besiegst, desto höher ist deine Bestenliste.
 
@@ -25941,7 +25965,7 @@ Bietet zusätzlichen Schutz vor Angriffen.
 Kühlt schneller ab.
 
 [BOOST_COMBAT_FIRST_STRIKE]
-Erhält kostenlose Spezialdünger-Fähigkeitn-Effekte.
+Erhält kostenlose Spezialdünger-Fähigkeit-Effekte.
 
 [BOOST_COMBAT_RAPID_FIRE]
 Greift schneller an.
@@ -25962,7 +25986,7 @@ Bietet zusätzlichen Schutz vor Zombies. Dieser Buff hält eine Stufe lang an.
 Kühlt schneller ab. Dieser Buff hält eine Stufe lang an.
 
 [BOOST_DETAIL_FIRST_STRIKE]
-Gibt beim Platzieren kostenlose Spezialdünger-Fähigkeitn. Dieser Buff hält eine Stufe lang an.
+Gibt beim Platzieren kostenlose Spezialdünger-Fähigkeit. Dieser Buff hält eine Stufe lang an.
 
 [BOOST_DETAIL_RAPID_FIRE]
 Greift schneller an. Dieser Buff hält eine Stufe lang an.
@@ -26437,7 +26461,7 @@ Besiege die normalen Zombies!
 Sie sind Zombies, sehen aber aus wie komische Krabben! Ups!
 
 [DEFEAT_BEACH_GARGANTUAR_REPEATABLE_TITLE]
-Besiege die Tiefsee-Riesenzombies!
+Besiege Tiefsee-Gargantuas!
 
 [DEFEAT_BLOCKHEAD_REPEATABLE_DESC]
 Ihre Kopfbedeckungen haben geometrische Formen!
@@ -26449,67 +26473,100 @@ Besiege die Eisziegel-Zombies!
 Ihre Emotionen sind sehr unverfälscht und ehrlich!
 
 [DEFEAT_BOOMBOX_REPEATABLE_TITLE]
-Besiege den Boombox-Zombie!
+Besiege Boombox-Zombies!
 
 [DEFEAT_BREAKDANCER_REPEATABLE_DESC]
 Seine Flugmanöver sind unerträglich!
 
 [DEFEAT_BREAKDANCER_REPEATABLE_TITLE]
-Besiege den Breakdance-Zombie!
+Besiege Breakdance-Zombies!
 
 [DEFEAT_BUCKETS_REPEATABLE_DESC]
 Es ist Zeit, diese Zombies zu töten!
 
 [DEFEAT_BUCKETS_REPEATABLE_TITLE]
-Besiege den Eimer-Zombie!
+Besiege Eimer-Zombies!
 
 [DEFEAT_BUG_REPEATABLE_DESC]
 Die Koexistenz von Insekten und Zombies ist einfach furchterregend!
 
 [DEFEAT_BUG_REPEATABLE_TITLE]
-Besiege den verlorenen Insekten-Zombie!
+Besiege verlorene Käfer-Zombies!
 
 [DEFEAT_BULLY_REPEATABLE_DESC]
-Bärtige Knochen sind überhaupt nicht in Mode!
+Bart-Knochen sind ein fragwürdiges Mode-Accessoire!
 
 [DEFEAT_BULLY_REPEATABLE_TITLE]
-Besiege den wilden Zombie!
+Besiege die Rüpel-Zombies!
 
 [DEFEAT_CAMEL_REPEATABLE_DESC]
-Versuch nicht, die Leute mit deiner Kamelverkleidung zu täuschen. Zeig den Zombies, dass sie dich nicht täuschen können!
+Auf diese Kamel-Tarnung fällt keiner rein. Zeig diesen Zombies, dass sie sich vor dir nicht verstecken können!
 
 [DEFEAT_CAMEL_REPEATABLE_TITLE]
-Besiege den Kamel-Zombie!
+Besiege die Kamelzombies!
 
 [DEFEAT_CHICKEN_FARMER_REPEATABLE_DESC]
-Sie haben sich gerade um ein Huhn gestritten!
+Es reicht! Sie haben genug Hühner erwürgt!
 
 [DEFEAT_CHICKEN_FARMER_REPEATABLE_TITLE]
-Besiege den Hühnerwürger-Zombie!
+Besiege Hühnerwürger-Zombies!
 
 [DEFEAT_CONES_REPEATABLE_DESC]
-Töte den Pylonen-Zombie und übe, den Garten zu bewachen!
+Halte deinen Garten sauber, indem du Pylonen-Zombies entfernst!
 
 [DEFEAT_CONES_REPEATABLE_TITLE]
-Besiege den Pylonen-Zombie!
+Besiege Pylonen-Zombies!
+
+[DEFEAT_COWBOY_BASICS_SCHEDULED_DESC]
+Diesen Kühe schubsenden, gestiefelten Leichenfledderern muss mal jemand die Grenzen aufzeigen!
+
+[DEFEAT_COWBOY_BASICS_SCHEDULED_TITLE]
+Besiege die Basis-Zombies aus dem wilden Westen!
+
+[DEFEAT_COWBOY_BUCKETHEAD_SCHEDULED_DESC]
+Zu meiner Zeit nahm man Eimer, um den Stall auszumisten!
+
+[DEFEAT_COWBOY_BUCKETHEAD_SCHEDULED_TITLE]
+Besiege die Eimer-Cowboys!
+
+[DEFEAT_COWBOY_CONEHEAD_SCHEDULED_DESC]
+Schick diese Pylonen-Ranger ins Kittchen!
+
+[DEFEAT_COWBOY_CONEHEAD_SCHEDULED_TITLE]
+Besiege die Pylonen-Cowboys!
 
 [DEFEAT_CRYSTALSKULL_REPEATABLE_DESC]
-Diese seltsamen Schädel können so etwas unmöglich anstellen!
+Diese seltsamen Schädel tun unmögliche Dinge!
 
 [DEFEAT_CRYSTALSKULL_REPEATABLE_TITLE]
-Besiege die Zombies des verlorenen Archäologen!
+Besiege Türkis-Schädel-Zombies!
+
+[DEFEAT_DARK_BASICS_SCHEDULED_DESC]
+Leg dich auf die Lauer und verhaue diese Bauern!
+
+[DEFEAT_DARK_BASICS_SCHEDULED_TITLE]
+Besiege Zombiebauern!
+
+[DEFEAT_DARK_BUCKETHEAD_SCHEDULED_DESC]
+Mit der klapprigen Ausrüstung werden sie nie echte Ritter sein!
+
+[DEFEAT_DARK_BUCKETHEAD_SCHEDULED_TITLE]
+Besiege die Eimer-Bauern!
+
+[DEFEAT_DARK_CONEHEAD_SCHEDULED_DESC]
+Jetzt gibt's feudal was auf die Fleppe!
 
 [DEFEAT_DARK_GARGANTUAR_REPEATABLE_DESC]
 Ihre großen Steinhämmer sind zwar ungeschickt, aber sehr effektiv!
 
 [DEFEAT_DARK_GARGANTUAR_REPEATABLE_TITLE]
-Besiege die Dunkelriesen-Zombies!
+Besiege Mittelalter Gargantuas!
 
 [DEFEAT_DINO_GARGANTUAR_REPEATABLE_DESC]
 Die Knochenkeulen sind zu stumpf!
 
 [DEFEAT_DINO_GARGANTUAR_REPEATABLE_TITLE]
-Besiege die Jura-Riesen-Zombies!
+Besiege Jurrasische Gargantuas!
 
 [DEFEAT_DINO_IMP_REPEATABLE_DESC]
 Ihr Lachen ist echt verstörend!
@@ -27058,6 +27115,25 @@ Schließe alle Schritte der Quest ab, um eine riesige Belohnung zu erhalten.
 [EPIC_QUEST_TITLE]
 Platzhalter für epische Quests – Juhu!
 
+[SCAREDYSHROOM]
+Angsthasenpilz
+
+[SCAREDYSHROOM_DESCRIPTION]
+{FLAVOR} „Wie konnte ich mich hierzu nur überreden lassen? Ich wünschte, ich wäre zuhause.“
+
+[SCAREDYSHROOM_DESCRIPTION_HEADER]
+Ein furchtsamer Pilz, der Zombies in seiner Reihe mit Sporen beschießt, sich aber versteckt, wenn sie zu nahe kommen.
+
+[SCAREDYSHROOM_DESCRIPTION_HINT]
+Angsthasenpilz hat eine stärkere Verteidigung, wenn er sich vor Zombies versteckt.
+
+[SCAREDYSHROOM_DESCRIPTION_PLANTFOOD]
+{KEYWORD}Spezialdünger: {STAT}Mit allem Mut, trommelt er die anderen nahen Angsthasenpilze zusammen, um Zs mit einem Strom tödlicher Sporen zurückzudrängen.
+
+[SCAREDYSHROOM_TOOLTIP]
+Schießt und versteckt sich bei Nähe
+
+
 [ESCAPEROOT]
 Fluchtwurzel
 
@@ -27291,7 +27367,7 @@ Die Große Nuss blockiert fliegende und springende Zombies! Zeig ihnen, wie toll
 Schalte die Große Nuss frei!
 
 [FINISH_COWBOY_20_DESC]
-Ziehe Spezialdünger-Fähigkeitn per Drag & Drop darauf, um Pflanzenkarten sofort aufzufüllen! Schließe Tag 20 im Wilden Westen ab!
+Ziehe Spezialdünger-Fähigkeit per Drag & Drop darauf, um Pflanzenkarten sofort aufzufüllen! Schließe Tag 20 im Wilden Westen ab!
 
 [FINISH_COWBOY_20_TITLE]
 Schalte die Sofortauffüllung frei!
@@ -27450,7 +27526,7 @@ Schalte Caiwen frei!
 Behalte eine zusätzliche Spezialdünger-Fähigkeit in einem Level! Sei bereit! Schließe den 17. Tag des geheimnisvollen Ägyptens ab!
 
 [FINISH_EGYPT_17_TITLE]
-Schalte den Spezialdünger-Fähigkeitn-Slot frei!
+Schalte die Spezialdünger-Fähigkeit-Slot frei!
 
 [FINISH_EGYPT_19_DESC]
 Warum nur eine Erbse abschießen, wenn man mit zweien die doppelte Feuerkraft erreichen kann? Schließe Tag 19 von „Das geheimnisvolle Ägypten“ ab!
@@ -27567,7 +27643,7 @@ Jeder Blick der Lasergrasse kann alle Zombies auf der Route durchdringen! Zisch!
 Schalte Laserbohnen frei!
 
 [FINISH_FUTURE_13_DESC]
-Holografische Nüsse können mit der Zeit wiederhergestellt werden und blockieren alle Reihen mit Spezialdünger-Fähigkeitn! Wahnsinn! Schließe Future World Tag 13 ab!
+Holografische Nüsse können mit der Zeit wiederhergestellt werden und blockieren alle Reihen mit Spezialdünger-Fähigkeit! Wahnsinn! Schließe Future World Tag 13 ab!
 
 [FINISH_FUTURE_13_TITLE]
 Schalte Holografische Nüsse frei!
@@ -29130,22 +29206,22 @@ hart.
 {NPC_ENTER:zombossicon}{SAY}Ich habe eine Frage an dich, mein abscheulicher Feind!
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Ist dir schon mal aufgefallen, wie gewalttätig Pflanzen werden, wenn sie Spezialdünger-Fähigkeitn fressen?
+{SAY:zombossicon}Ist dir schon mal aufgefallen, wie gewalttätig Pflanzen werden, wenn sie Spezialdünger-Fähigkeit fressen?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Hast du dich schon mal gefragt, woraus Spezialdünger-Fähigkeitn bestehen?
+{SAY:zombossicon}Hast du dich schon mal gefragt, woraus Spezialdünger-Fähigkeit bestehen?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_4]
-{SAY:zombossicon}Ich kann es dir sagen: Zombies! Spezialdünger-Fähigkeitn bestehen aus Zombies!
+{SAY:zombossicon}Ich kann es dir sagen: Zombies! Spezialdünger-Fähigkeit bestehen aus Zombies!
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_5]
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Unglaublich! Wir füttern Pflanzen nur mit den besten organischen Stoffen ...
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_6]
-{TIRED:crazydave}Hey, Penny, woraus bestehen Spezialdünger-Fähigkeitn?
+{TIRED:crazydave}Hey, Penny, woraus bestehen Spezialdünger-Fähigkeit?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_7]
-{SAY:winnie}Ich fürchte, es bedarf weiterer Forschung, um die wahre Natur der Spezialdünger-Fähigkeitn zu verstehen, Dave.
+{SAY:winnie}Ich fürchte, es bedarf weiterer Forschung, um die wahre Natur der Spezialdünger-Fähigkeit zu verstehen, Dave.
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_8]
 {TIRED:winnie}Ich muss noch ein paar Tests durchführen, also entschuldigt mich bitte.
@@ -29169,7 +29245,7 @@ hart.
 {TIRED:winnie}Es ist ein grober Trick, aber er funktioniert, Dave.
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe in den Spezialdünger-Fähigkeitn keine Zombies oder zombieähnlichen Zutaten gefunden.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe in die Spezialdünger-Fähigkeit keine Zombies oder zombieähnlichen Zutaten gefunden.
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_2]
 {TIRED:crazydave}Hey! Pflanzen sollten keine Zombies fressen, die Pflanzen fressen.
@@ -30937,7 +31013,7 @@ Schatz der Toten
 
 {PLAYER}s Piñata-Party!
 
-[PLAYERS_TRIP_TO_LOD__BIRTHDAY]
+[PLAYERS_TRIP_TO_LOD_BIRTHDAY]
 {PLAYER}s Geburtstagsparty!
 
 [PLAYERS_TRIP_TO_MODERN]
@@ -39529,7 +39605,7 @@ Die Lanzen-Wachsblume wirft Speere und fügt Zombies Schaden zu.
 Die Lanzen-Wachsblume wirft Speere und fügt Zombies Schaden zu.
 
 [LANCERHOYA_AVATAR_NAME]
-Die Lanzen-Hoya wirft Speere und fügt Zombies Schaden zu.
+Die Lanzen-Wachsblume wirft Speere und fügt Zombies Schaden zu.
 
 [STORE_PRODUCT_AVATAR_LANCERHOYA]
 Die Reichweite erweitert sich auf 5×5 und die Rotation lässt Zombies schweben und schleudert sie dann zu Boden um zusätzlichen Schaden zu verursachen.
@@ -39620,7 +39696,7 @@ Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und E
 Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
 
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER_TITLE]
-Abgrund-Klauenblumenkostüm
+Klauenblumen Kostüm
 
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER]
 Der Apostel-Gargantua, beschworen durch die Spezialdünger Fähigkeit, entwickelt sich zum Apostelführer-Gargantua und kann beim Angriff Säure spucken.
@@ -39736,7 +39812,7 @@ Unterstütze eine Pflanze vor dir, erhöhe ihre Angriffskraft und stelle Gesundh
 Unterstütze eine Pflanze vor dir, erhöhe ihre Angriffskraft und stelle Gesundheit wieder her.
 
 [STORE_PRODUCT_AVATAR_HOYACORDATA]
-Alle Pflanzen mit ultimativen Effekten haben eine 50%ige Chance, direkt Spezialdünger-Fähigkeitn freizusetzen. Es können jedoch maximal 2 ausgelöst werden.
+Alle Pflanzen mit ultimativen Effekten haben eine 50%ige Chance, direkt Spezialdünger-Fähigkeit freizusetzen. Es können jedoch maximal 2 ausgelöst werden.
 
 [STORE_PRODUCT_AVATAR_HOYACORDATA_TITLE]
 Fan Heart Ye Lan Kostüm
@@ -39778,7 +39854,7 @@ Nach jeder Unterstützung für einen bestimmten Zeitraum wird der Zustand enthus
 Wendet einen stärkeren Unterstützungseffekt auf alle Pflanzen im Umkreis von 3×3 um sich herum an.
 
 [HOYACORDATA_AVATAR_PLANTFOOD_DESCRIPTION]
-Alle Pflanzen mit dem ultimativen Effekt haben eine 50%ige Chance, die Spezialdünger-Fähigkeit direkt freizusetzen. Es können jedoch maximal 2 Spezialdünger-Fähigkeitn ausgelöst werden.
+Alle Pflanzen mit dem ultimativen Effekt haben eine 50%ige Chance, die Spezialdünger-Fähigkeit direkt freizusetzen. Es können jedoch maximal 2 Spezialdünger-Fähigkeit ausgelöst werden.
 
 [PEAVINE] 
 Erbsenranke
@@ -39871,46 +39947,46 @@ Maibienchen Kostüm
 Maibienchen Kostüm
 
 [STORE_PRODUCT_AVATAR_MAYBEE]
-Die 8 großen Bienen, die durch die ultimative Bewegung herbeigerufen werden, fliegen in einer Reihe 3 Felder nach vorne und fügen den Zombies, mit denen sie kollidieren, Schaden zu.
+Die 8 großen Bienen, die durch die Spezialdünger Fähigkeit herbeigerufen werden, fliegen in einer Reihe 3 Felder nach vorne und fügen den Zombies, mit denen sie kollidieren, Schaden zu.
 
 [MAYBEE_SKILL_LEVEL1]
 Bienenverstärkung
 
 [MAYBEE_SKILL_LEVEL1_DES]
-Die Angriffsreichweite der Maiglöckchenbiene erhöht sich um 1 Gitter, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
+Die Angriffsreichweite des Maibienchen erhöht sich um 1 Gitter, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_SKILL_LEVEL2]
 Bienen über Limit
 
 [MAYBEE_SKILL_LEVEL2_DES]
-Die Angriffsreichweite der Maiglöckchenbiene erhöht sich erneut um 1 Gitter, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
+Die Angriffsreichweite des Maibienchen erhöht sich erneut um 1 Gitter, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_SKILL_LEVEL5]
 Ionenbeschwörung
 
 [MAYBEE_SKILL_LEVEL5_DES]
-Die von der Maiglöckchenbiene beschworenen Bienen können ionisieren und Laser abfeuern, um anzugreifen.
+Die von Maibienchen beschworenen Bienen können ionisieren und Laser abfeuern, um anzugreifen.
 
 [MAYBEE_NEW_SKILL_LEVEL1_DES]
-Wenn Ein Zombie erscheint drei Felder rechts von der Maiglöckchenbiene. Zwei Bienen werden abgefeuert, um dem Zombie kontinuierlichen Schaden zuzufügen. Die Überlebenszeit der Biene beträgt 10 Sekunden. Sobald der Zielzombiene besiegt ist, sucht die Biene in ihrem eigenen 3x3 Felder großen Umkreis nach Zombies, um sie anzugreifen. Beim Durchqueren von Kraftwerken werden die Bienen gestärkt und ihre Angriffskraft um das 1,5-fache erhöht.
+Wenn Ein Zombie  drei Felder rechts von Maibienchen erscheint werden 2 Bienen abgefeuert, um dem Zombie kontinuierlichen Schaden zuzufügen. Die Überlebenszeit der Biene beträgt 10 Sekunden. Sobald der Zombie besiegt ist, sucht die Biene in ihrem eigenen 3x3 Umkreis nach Zombies, um sie anzugreifen. Beim Durchqueren von Elektro werden die Bienen gestärkt und ihre Angriffskraft um das 1,5-fache erhöht.
 
 [MAYBEE_NEW_SKILL_LEVEL2_DES]
-Die Angriffsreichweite der Maiglöckchenbiene erhöht sich um 1 Raster, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
+Die Angriffsreichweite von Maibienchen erhöht sich um 1 Raster, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_NEW_SKILL_LEVEL3_DES]
-Die Angriffsreichweite der Maiglöckchenbiene erhöht sich erneut um 1 Raster, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
+Die Angriffsreichweite vom Maibienchen erhöht sich erneut um 1 Raster, die Anzahl der abgefeuerten Bienen um 1 und die Überlebenszeit der Bienen um 5 Sekunden.
 
 [MAYBEE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Spezialdünger-Fähigkeitn direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [MAYBEE_NEW_SKILL_LEVEL5_DES]
-Die von Maiglöckchen-Biene gestarteten Bienen haben eine 25%ige Chance auf Ionisierung, normale Bienen eine 70%ige Chance auf Ionisierung, wenn sie durch Kraftwerke fliegen. Die Angriffsmethode ionisierter Bienen ändert sich zum Abfeuern kleiner Laser. Beim Angriff auf Zombies können sie diese mit statischer Elektrizität beaufschlagen. Wird ein Zombie unter statischer Elektrizität durch Blitzschlag beschädigt, wird der statische Elektrizitätsangriff ausgelöst, der zusätzlich 120 festen Schaden und ^ff9600^ Lähmung Ⅰ^oldclr^ für 1 Sekunde verursacht. Der statische Elektrizitätsangriff kann einmal pro Sekunde ausgelöst werden.
+Die vom Maibienchen gestarteten Bienen haben eine 25%ige Chance auf Ionisierung, normale Bienen eine 70%ige Chance auf Ionisierung, wenn sie durch Kraftwerke fliegen. Die Angriffsmethode ionisierter Bienen ändert sich zum Abfeuern kleiner Laser. Beim Angriff auf Zombies können sie diese mit statischer Elektrizität beaufschlagen. Wird ein Zombie unter statischer Elektrizität durch Blitzschlag beschädigt, wird der statische Elektrizitätsangriff ausgelöst, der zusätzlich 120 festen Schaden und ^ff9600^ Lähmung Ⅰ^oldclr^ für 1 Sekunde verursacht. Der statische Elektrizitätsangriff kann einmal pro Sekunde ausgelöst werden.
 
 [MAYBEE_PLANTFOOD_DESCRIPTION]
-Die Maiglöckchenbiene schleudert kontinuierlich acht große Bienen ins All, die Zombies über das gesamte Feld verfolgen und die angegriffenen Zombies mit ^ff9600^ Lähmung Ⅰ^oldclr^ lähmen können. Die Überlebenszeit der großen Bienen beträgt 20 Sekunden.
+Das Maibienchen schleudert kontinuierlich acht große Bienen ins All, die Zombies über das gesamte Feld verfolgen und die angegriffenen Zombies mit ^ff9600^ Lähmung Ⅰ^oldclr^ lähmen können. Die Überlebenszeit der großen Bienen beträgt 20 Sekunden.
 
 [MAYBEE_AVATAR_PLANTFOOD_DESCRIPTION]
-Die acht großen Bienen, die von der Maiglöckchenbiene^ff0000^ ins All geschickt werden, fliegen drei Felder in einer Reihe vorwärts und erleiden dabei Schaden^oldclr^. Die großen Bienen können Zombies über das gesamte Feld verfolgen und die angegriffenen Zombies mit ^ff9600^ Lähmung Ⅰ^oldclr^ lähmen. Die Überlebenszeit der großen Bienen beträgt 20 Sekunden.
+Die acht großen Bienen, die vom Maibienchen^ff0000^ ins All geschickt werden, fliegen drei Felder in einer Reihe vorwärts und erleiden dabei Schaden^oldclr^. Die großen Bienen können Zombies über das gesamte Feld verfolgen und die angegriffenen Zombies mit ^ff9600^ Lähmung Ⅰ^oldclr^ lähmen. Die Überlebenszeit der großen Bienen beträgt 20 Sekunden.
 
 [RAPEFLOWER]
 Rapsblumenkrug
@@ -39968,7 +40044,7 @@ Die Brennintensität wird erhöht, und es besteht eine 40%ige Chance, eine blaue
 Die Brennintensität wird erneut erhöht, und es besteht eine zusätzliche 20%ige Chance, eine violette Flammenölkugel zu werfen, die die Feuersäule zu einer violetten Feuersäule mit dreifachem Schaden anreichern kann.
 
 [RAPEFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen! Die Wahrscheinlichkeit, mit normalen Angriffen brennende Ölkugeln zu werfen, erhöht sich um 20 %.
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen! Die Wahrscheinlichkeit, mit normalen Angriffen brennende Ölkugeln zu werfen, erhöht sich um 20 %.
 
 [RAPEFLOWER_NEW_SKILL_LEVEL5_DES]
 Die Angriffsmethode ändert sich: Es können größere Ölkugeln verdichtet werden, wodurch brennende Ölkugeln abgefeuert werden. Nach dem Auftreffen werden alle Zombies im Bereich des Einzelgitters bespritzt, wodurch sie direkt in den Brennzustand übergehen oder eine Feuersäule erzeugen. Nach der Entzündung sind die Zombies 10 % anfällig für Feuer.
@@ -40992,7 +41068,7 @@ Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-F�
 Alle 20 Sekunden erzeugt die Tyrannen-Pitaya zufällig eine Pitaya mit den Eigenschaften Eis/Feuer/Donner. Wenn ein angreifbares Ziel vorhanden ist, wirft die Tyrannen-Pitaya die Pitaya mit Eis-, Feuer- oder Donnerattributen auf den Zombie und erzeugt sofort eine Pitaya mit dem entsprechenden Attribut ein Feld vor dem Zombie. Die erzeugte Pitaya mit Spezialattributen verursacht beim Angriff Attributschaden. Nach dem Tod explodiert die Pitaya mit Spezialattributen und verursacht Explosionsschaden des entsprechenden Attributs beim Zombie.
 
 [DRAGONBRUIT_PLANTFOOD_DESCRIPTION]
-Startet sofort einen Projektilangriff auf alle angreifbaren Einheiten auf dem Feld (zwei Runden in Schattengestalt). Die Projektilgeschosse wirken auf alle Zombies in einem einzigen Raster. Werden Spezialdünger-Fähigkeitn auf die kleine Drachenfrucht aufgetragen, wächst diese sofort zur Tyrannen-Drachenfrucht heran.
+Startet sofort einen Projektilangriff auf alle angreifbaren Einheiten auf dem Feld (zwei Runden in Schattengestalt). Die Projektilgeschosse wirken auf alle Zombies in einem einzigen Raster. Werdie Spezialdünger-Fähigkeit auf die kleine Drachenfrucht aufgetragen, wächst diese sofort zur Tyrannen-Drachenfrucht heran.
 
 [DRAGONBRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 Startet sofort einen Projektilangriff im Schattenzustand auf alle Einheiten auf dem Feld, sofern diese sich nicht im Schattenzustand befinden, und nimmt sofort für 10 Sekunden die Schattengestalt an. Wenn es sich bereits im Schattenzustand befindet, wird der Schaden dieser großen Bewegung erhöht.
@@ -41011,7 +41087,7 @@ Düster-Ranke
 Greift Zombies in Reichweite an und sorgt dafür, dass die auf ihnen gepflanzten Schattenpflanzen eine Schattenform annehmen. Kann nur auf andere Pflanzen gepflanzt werden.
 
 [gloomvine_TOOLTIP]
-Greift Zombies in Reichweite an und gibt auf ihnen gepflanzten Schattenpflanzen ihre Schattenform.
+Greift Zombies in Reichweite an und gibt Schattenpflanzen ihre Schattenform.
 
 [gloomvine_PRODUCT_SHORT_DESC]
 Greift Zombies in Reichweite an und lässt die darauf gepflanzten Schattenpflanzen in Schattengestalt übergehen.
@@ -41032,7 +41108,7 @@ Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich dere
 Schattenhaltung
 
 [gloomvine_SKILL_LEVEL5_DES]
-Die Angriffsreichweite von Melancholieranke wird erweitert. Melancholieranke nimmt die Superschattenform an, wenn sie sich im Mondlichtfeld der Mondlichtblume befindet. Beim fünften Angriff der Melancholischen Ranke spuckt sie zusätzlichen Rauch in vier Richtungen aus, der den getroffenen Zombies Schaden zufügt und sie um 15% verwundbar macht.
+Die Angriffsreichweite von der Düster-Ranke wird erweitert. Düster-Ranke nimmt die Superschattenform an, wenn sie sich im Mondlichtfeld der Mondlichtblume befindet. Beim fünften Angriff der Düster-Ranke spuckt sie zusätzlichen Rauch in vier Richtungen aus, der den getroffenen Zombies Schaden zufügt und sie um 15% verwundbar macht.
 
 [STORE_PRODUCT_AVATAR_gloomvine_TITLE]
 Gasmaske
@@ -41056,10 +41132,10 @@ Wenn die darüber gepflanzte Pflanze eine Schattenpflanze ist, erhöht sich ihre
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [gloomvine_NEW_SKILL_LEVEL5_DES]
-Die Angriffsreichweite der Melancholischen Ranke wird erweitert. Melancholy Vine nimmt die Superschattenform an, wenn sie sich im Mondlichtfeld der Mondlichtblume befindet. Melancholy Vine spuckt beim fünften Angriff zusätzlichen Rauch in vier Richtungen aus. Der Rauch fügt den getroffenen Zombies Schaden zu und erhöht ihre Verwundbarkeit um 15%.
+Die Angriffsreichweite der Düster-Ranke wird erweitert. Düster-Ranke nimmt die Superschattenform an, wenn sie sich im Mondlichtfeld der Mondlichtblume befindet. Düster-Ranke spuckt beim fünften Angriff zusätzlichen Rauch in vier Richtungen aus. Der Rauch fügt den getroffenen Zombies Schaden zu und erhöht ihre Verwundbarkeit um 15%.
 
 [gloomvine_PLANTFOOD_DESCRIPTION]
-Melancholy Vine spuckt weiterhin Blasen aus und fügt Zombies in Angriffsreichweite Schaden zu.
+Düster-Ranke spuckt weiterhin Blasen aus und fügt Zombies in Angriffsreichweite Schaden zu.
 
 [gloomvine_AVATAR_PLANTFOOD_DESCRIPTION]
 Angegriffene Zombies in der ultimativen Reichweite werden um 50% verlangsamt.
@@ -42370,7 +42446,7 @@ Mega-MG-Erbse Kostüm
 
 [MEGAGATLING_NEW_SKILL_LEVEL1_DES]
 Kann mit anderen Erbsen gestapelt werden. Nach dem Stapeln erhalten die entsprechenden Erbsen besondere Fähigkeiten und das verbrauchte Sonnenlicht wird sofort zurückgegeben.
-Jede Runde eines normalen Angriffs schleudert 4 Erbsen, und es besteht eine 2%ige Chance, sie durch einen Spezialdünger-Fähigkeitn-Großangriff zu ersetzen. Nach dem Ausführen der Spezialdünger-Fähigkeitn-Großattacke erhältst du ein Upgrade: Die Anzahl der durch einen normalen Angriff abgefeuerten Erbsen steigt um 1.
+Jede Runde eines normalen Angriffs schleudert 4 Erbsen, und es besteht eine 2%ige Chance, sie durch einen Spezialdünger-Fähigkeit-Großangriff zu ersetzen. Nach dem Ausführen der Spezialdünger-Fähigkeit-Großattacke erhältst du ein Upgrade: Die Anzahl der durch einen normalen Angriff abgefeuerten Erbsen steigt um 1.
 
 [MEGAGATLING_NEW_SKILL_LEVEL2_DES]
 Die Wahrscheinlichkeit, dass ein normaler Angriff eine Spezialdünger-Fähigkeit auslöst, steigt auf 3%.
@@ -42839,7 +42915,7 @@ Wenn ein von Gloria gepackter Zombie von einem anderen Zombie gefressen wird, be
 [STORE_PRODUCT_AVATAR_CLAWGLORIOSA_TITLE]
 Gloria Hook Kostüm
 
-[CLAWGLORIOSA__AVATAR_NAME]
+[CLAWGLORIOSA_AVATAR_NAME]
 Gloria Hook Kostüm
 
 [STORE_PRODUCT_AVATAR_CLAWGLORIOSA]
@@ -42885,7 +42961,7 @@ Beim Werfen eines Tofu-Hähnchens besteht die Chance, direkt einen großen, fett
 [STORE_PRODUCT_AVATAR_TURKEYPULT_TITLE]
 Truthahn-Katapult-Kostüm
 
-[TURKEYPULT__AVATAR_NAME]
+[TURKEYPULT_AVATAR_NAME]
 Kampfkraft-Erkennungsbrille
 
 [STORE_PRODUCT_AVATAR_TURKEYPULT]
@@ -42931,7 +43007,7 @@ Zusätzlich zu normalen Angriffen schleudert Mangostan ein elektrisches Netz auf
 [STORE_PRODUCT_AVATAR_MANGOSTEEN_TITLE]
 Energiefokussiertes Mangostan-Outfit
 
-[MANGOSTEEN__AVATAR_NAME]
+[MANGOSTEEN_AVATAR_NAME]
 Energiefokussiertes Mangostan-Outfit
 
 [STORE_PRODUCT_AVATAR_MANGOSTEEN]
@@ -42986,7 +43062,7 @@ Fügt Angriffen 50% zusätzlichen Schaden zu und kann stärkere Zombies aufrolle
 [STORE_PRODUCT_AVATAR_INFERNO_TITLE]
 Inferno-Kostüm
 
-[INFERNO__AVATAR_NAME]
+[INFERNO_AVATAR_NAME]
 Inferno-Kostüm
 
 [STORE_PRODUCT_AVATAR_INFERNO]
@@ -43032,7 +43108,7 @@ Beim Angriff kann das Sägegras seinen Hut werfen. Verursacht jede Sekunde Schad
 [STORE_PRODUCT_AVATAR_GARDENERGRASS_TITLE]
 Sägegras-Outfit
 
-[GARDENERGRASS__AVATAR_NAME]
+[GARDENERGRASS_AVATAR_NAME]
 Sägegras-Outfit
 
 [STORE_PRODUCT_AVATAR_GARDENERGRASS]
@@ -43078,7 +43154,7 @@ Beim Angriff des Verrückten Hutmachers besteht eine 10% Chance, dass ein Zauber
 [STORE_PRODUCT_AVATAR_HATMUSHROOM_TITLE]
 Verrückter Hutmacher-Kostüm
 
-[HATMUSHROOM__AVATAR_NAME]
+[HATMUSHROOM_AVATAR_NAME]
 Verrückter Hutmacher-Kostüm
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM]
@@ -43124,7 +43200,7 @@ Nach zwei Angriffen feuert der dritte Angriff einen Verstärkungsstrahl ab, der 
 [STORE_PRODUCT_AVATAR_HOCUSCROCUS_TITLE]
 Hokus-Krokus Kostüm
 
-[HOCUSCROCUS__AVATAR_NAME]
+[HOCUSCROCUS_AVATAR_NAME]
 Hokus-Krokus Kostüm
 
 [STORE_PRODUCT_AVATAR_HOCUSCROCUS]
@@ -43587,7 +43663,7 @@ Das Fleißige Lieschen kann sich in eine stärkere violette Form verwandeln. Die
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER_TITLE]
 Imperia-Bogenschützenkostüm
 
-[IMPATIENSSHOOTER__AVATAR_NAME]
+[IMPATIENSSHOOTER_AVATAR_NAME]
 Imperia-Bogenschützenkostüm
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER]
@@ -49058,6 +49134,117 @@ Lila
 [ORANGE]
 Orange
 
+[DEFEAT_X_ZCORPS]
+Besiege {NUMBER} 僵尸.
+
+[ZOMBIE_ZCORP]
+ZCorp-Neuling
+
+[ZOMBIE_ZCORP_DESCRIPTION]
+Beim Orientierungstag wurde ihm dieser Standard-ZCorp-Kaffeebecher in die Hand gedrückt.
+
+[ZOMBIE_ZCORP_DESCRIPTION_HEADER]
+Ein typischer Angestellter von ZCorp Incorporated.
+
+[ZOMBIE_ZCORP_ARMOR1]
+ZCorp-Pylonenkopf
+
+[ZOMBIE_ZCORP_ARMOR1_DESCRIPTION]
+ZCorp ist der führende Hersteller pylonenförmiger Reißzwecken für die Zombieschädel-Sicherheit.
+
+[ZOMBIE_ZCORP_ARMOR1_DESCRIPTION_HEADER]
+Ein typischer ZCorp-Angestellter, hat allerdings etwas mehr im Schädel.
+
+[ZOMBIE_ZCORP_ARMOR2]
+ZCorp-Eimer-Zombie
+
+[ZOMBIE_ZCORP_ARMOR2_DESCRIPTION]
+ZCorp befolgt alle örtlichen, bundesstaatlichen und staatlichen Abfallrichtlinien.
+
+[ZOMBIE_ZCORP_ARMOR2_DESCRIPTION_HEADER]
+Ein umweltfreundlicher Recycling-Eimer schützt den Dez dieses Mitarbeiters vor Schaden.
+
+[ZOMBIE_ZCORP_FLAG]
+ZCorp-Flaggen-Zombie
+
+[ZOMBIE_ZCORP_FLAG_DESCRIPTION]
+ZCorp hat das Flaggen-Logo intern entwickeln lassen und ist sehr stolz darauf.
+
+[ZOMBIE_ZCORP_FLAG_DESCRIPTION_HEADER]
+Die Flagge steigert nicht nur die Markenbekanntheit, sondern zeigt auch weiteren Zombies, wo sie hin müssen, um an dein Hirn zu kommen.
+
+[ZOMBIE_ZCORP_FEM]
+ZCorp-Leiharbeiterin
+
+[ZOMBIE_ZCORP_FEM_DESCRIPTION]
+ZCorp ist so inklusiv, da kriegen sogar die Leiharbeiter Gratis-Kaffeebecher.
+
+[ZOMBIE_ZCORP_FEM_DESCRIPTION_HEADER]
+Eine typische Leiharbeiterin von ZCorp Incorporated.
+
+[ZOMBIE_ZCORP_FEM_ARMOR1]
+ZCorp-Leiharbeiterin-Pylonenkopf
+
+[ZOMBIE_ZCORP_FEM_ARMOR1_DESCRIPTION]
+ZCorp-Leiharbeiter können gegen eine kleine Gebühr ZCorp-Büroartikel erwerben.
+
+[ZOMBIE_ZCORP_FEM_ARMOR1_DESCRIPTION_HEADER]
+Die Kombination aus Notizbuch und abgedreht großer Heftzwecke macht diese Leiharbeiterin so besonders.
+
+[ZOMBIE_ZCORP_FEM_ARMOR2]
+ZCorp-Leiharbeiterin-Eimer-Zombie
+
+[ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION]
+ZCorp ermuntert seine Leiharbeiter ausdrücklich, sich kreative Schutzmaßnahmen für ihre Köpfe einfallen zu lassen.
+
+[ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION_HEADER]
+Recycling-Mülleimer sind ein hervorragender und umweltfreundlicher Kopfschutz.
+
+[ZOMBIE_ZCORP_GARGANTUAR]
+Cheffchen Gargantuwicht
+
+[ZOMBIE_ZCORP_GARGANTUAR_DESCRIPTION]
+Cheffchen Gargantuwichts Tür steht immer offen. Wir empfehlen aber nicht, hindurchzugehen.
+
+[ZOMBIE_ZCORP_GARGANTUAR_DESCRIPTION_HEADER]
+Sein Riesenschädel ist ein stumpfes Schlagwerkzeug.
+
+[ZOMBIE_ZCORP_IMP]
+Syndikus Gargantikus
+
+[ZOMBIE_ZCORP_IMP_DESCRIPTION]
+Syndikus Gargantikus überstellt seine Unterlassungsklagen auf die gute alte Art: mit dem Baseballschläger.
+
+[ZOMBIE_ZCORP_IMP_DESCRIPTION_HEADER]
+Die Rechtsabteilung von Syndikus Gargantikus ist klein, aber äußerst angriffslustig.
+
+[ZOMBIE_ZCORP_CONSULTANT]
+ZCorp-Consultant
+
+[ZOMBIE_ZCORP_CONSULTANT_DESCRIPTION]
+Sie arbeitet in beratender Funktion für ZCorp. Ein echter Traumjob!
+
+[ZOMBIE_ZCORP_CONSULTANT_DESCRIPTION_HEADER]
+ZCorp-Consultants, sind disruptiv, hochperformant und Garanten für einen Paradigmenwechsel.
+
+[ZOMBIE_ZCORP_HELPDESK]
+ZCorp Helpdesk-Zombie
+
+[ZOMBIE_ZCORP_HELPDESK_DESCRIPTION]
+Der ZCorp Helpdesk-Zombie ist hier, um dir zu helfen. Sein Spezialgebiet ist die Unkrautvernichtung.
+
+[ZOMBIE_ZCORP_HELPDESK_DESCRIPTION_HEADER]
+Der ZCorp Helpdesk-Zombie landet auf dem Feld und wirft einen explodierenden Laptop, wenn dieser zerstört wurde.
+
+[ZOMBIE_ZCORP_RACER_CHAIR]
+ZCorp-Rennstuhl
+
+[ZOMBIE_ZCORP_RACER_CHAIR_DESCRIPTION]
+Der ZCorp-Rennstuhl macht das ZCorp-Erlebnis unterhaltsamer und spontaner.
+
+[ZOMBIE_ZCORP_RACER_CHAIR_DESCRIPTION_HEADER]
+Der ZCorp-Rennstuhl schießt mit hoher Geschwindigkeit heran, kollidiert mit erheblicher Wucht und katapultiert sich dann ungewöhnlich elegant nach links.
+
 [ACTINOSTEMMA]
 Box Grass Salute
 
@@ -49066,13 +49253,13 @@ Box Grass Salute
 {KEYWORD}Funktion: {STAT}Wirft eine zufällige Geschenkbox
 {KEYWORD}Pflanzenfunktion: {STAT}Grüne Pflanze
 
-{FLAVOR}Obwohl er nur ein staubiger Junge ist, ist Box Grass Salute bestrebt, seinen „Freunden“, die schon immer da waren, die wertvollsten Geschenke zu machen, die er für richtig hält. „Hör auf, so zu hinken! Hör auf, falschen Träumen nachzujagen!“ Wenn diese Menschen das wirklich können, dann können wir, aus dem Staub der Erde geboren, einander wahre Geschenke machen.
+{FLAVOR}Obwohl er nur ein staubiger Junge ist, ist Box Grass Salute bestrebt, seinen „Freunden“, die schon immer da waren, die wertvollsten Geschenke zu machen, die er für richtig hält. „Hör auf, so zu hinken! Hör auf, falschen Träumen nachzujagen!“ Wenn Menschen das wirklich könnten, dann könnten wir, aus dem Staub der Erde geboren, einander wahre Geschenke machen.
 
 [ACTINOSTEMMA_DESCRIPTION_HEADER]
 Schießt verschiedene Geschenkboxen ab, die Zombies anlocken und zufällig verschiedene Effekte erzeugen.
 
 [ACTINOSTEMMA_TOOLTIP]
-Schießt verschiedene Geschenkboxen ab, die Zombies anlocken und zufällig verschiedene Effekte erzeugen.
+Schießt Geschenkboxen mit zufälligen Effekten ab.
 
 [ACTINOSTEMMA_PRODUCT_SHORT_DESC]
 Schießt verschiedene Geschenkboxen ab, die Zombies anlocken und zufällig verschiedene Effekte erzeugen.
@@ -50105,7 +50292,7 @@ Nach dem Gewinn eines Levels erhältst du Geheimmünzen. Für den ersten Durchga
 Mit Geheimmünzen kannst du Belohnungen im Shop einlösen. Belohnungen, die mit normalen Münzen eingelöst werden, sind nur im aktuellen Geheimen Reich gültig. Belohnungen, die mit erweiterten Münzen eingelöst werden, können außerhalb des Geheimen Reichs eingelöst werden.
 
 [UNCHARTED_WORLD_DIFFICULTY_DESC_1]
-Diese Herausforderungsrunde umfasst 13 Level. Nach Abschluss jedes Levels könnt ihr direkt in das nächste Level einsteigen (Artefakte und Spezialdünger-Fähigkeitn sind in diesem geheimen Reich vorübergehend ungültig).
+Diese Herausforderungsrunde umfasst 13 Level. Nach Abschluss jedes Levels könnt ihr direkt in das nächste Level einsteigen (Artefakte und Spezialdünger-Fähigkeit sind in diesem geheimen Reich vorübergehend ungültig).
 
 [UNCHARTED_WORLD_DIFFICULTY_DESC_2]
 Nach jedem Level bleiben die Pflanzenauswahl im Kartensteckplatz und das Sonnenlicht bis zum nächsten Level erhalten. Nach dem Passieren des Elite-Boss-Knotens könnt ihr die Pflanze erneut auswählen.
@@ -55100,10 +55287,10 @@ Zombies explodieren nach ihrem Tod und verursachen Schaden.
 Zombies explodieren nach ihrem Tod und verursachen Schaden.
 
 [THEME_KO_NAME]
-Nahkampfpflanzen können keine Spezialdünger-Fähigkeitn-Fähigkeiten einsetzen.
+Nahkampfpflanzen können keine Spezialdünger-Fähigkeiten einsetzen.
 
 [THEME_KO_DESCRIPTION]
-Nahkampfpflanzen können keine Spezialdünger-Fähigkeitn-Fähigkeiten einsetzen.
+Nahkampfpflanzen können keine Spezialdünger-Fähigkeiten einsetzen.
 
 [THEME_GRAVITY_NAME]
 Die Reichweite von Wurfpflanzen beträgt Verkürzt
@@ -55936,7 +56123,7 @@ Zeitgesteuerte Degeneration
 Starke Degeneration
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_1]
-Aktiver Einsatz: Ersetze alle Zombies auf dem Feld außer Riesen durch zufällige Zombies niedrigeren Levels desselben Levels. Abklingzeit {MainField_5} Sekunden, kann {MainField_6} Mal pro Kampf eingesetzt werden.
+Aktiver Einsatz: Ersetze alle Zombies auf dem Feld außer Gargantuas durch zufällige Zombies niedrigeren Levels desselben Levels. Abklingzeit {MainField_5} Sekunden, kann {MainField_6} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_2]
 Passiver Effekt: Erhöht die Angriffs- und Verteidigungsattribute von Magierpflanzen um {PassiveField1_1}%.
@@ -56144,7 +56331,7 @@ Beschwört die Kopie der Pflanzen auf dem Feld, um gemeinsam gegen die Zombies z
 Holografische Projektion
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_1]
-Aktivierung: Nach dem Klicken auf die Artefakt-Schaltfläche schaltet sich der linke Projektor ein und erzeugt sofort eine holografische Projektion auf allen Pflanzen im Feld. Die Projektion greift Zombies wie den Hauptkörper an, wirkt aber keine Spezialdünger-Fähigkeitn-Fähigkeiten. Die Projektion hält {MainField_1} Sekunden an. Während dieser Zeit erhöht sich die Angriffskraft des Hauptkörpers um {MainField_2}% und kann einigen Zombie-Fähigkeiten widerstehen. Die Fähigkeit kühlt 30 Sekunden lang ab und kann {MainField_5} Mal pro Kampf eingesetzt werden.
+Aktivierung: Nach dem Klicken auf die Artefakt-Schaltfläche schaltet sich der linke Projektor ein und erzeugt sofort eine holografische Projektion auf allen Pflanzen im Feld. Die Projektion greift Zombies wie den Hauptkörper an, wirkt aber keine Spezialdünger-Fähigkeiten. Die Projektion hält {MainField_1} Sekunden an. Während dieser Zeit erhöht sich die Angriffskraft des Hauptkörpers um {MainField_2}% und kann einigen Zombie-Fähigkeiten widerstehen. Die Fähigkeit kühlt 30 Sekunden lang ab und kann {MainField_5} Mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_HOLO_SKILL_2]
 Technologischer Fortschritt
@@ -56495,7 +56682,7 @@ Schießt alle {PassiveField2_1} Sekunden einen Schneeball ab, um die drei Zombie
 Eiskegel
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_4]
-Während der aktiven Fertigkeit werden weiterhin Eiskegel abgefeuert. Trifft ein Eiskegel einen Schneemann, wird dieser sofort getötet. Trifft er einen Riesen, verursacht er Schaden. Jeder Eiskegel kann dreimal eindringen.
+Während der aktiven Fertigkeit werden weiterhin Eiskegel abgefeuert. Trifft ein Eiskegel einen Schneemann, wird dieser sofort getötet. Trifft er einen Gargantua, verursacht er Schaden. Jeder Eiskegel kann dreimal eindringen.
 
 [ARTIFACT_SKATEBOARD]
 Skateboard-Artefakt
@@ -56617,7 +56804,7 @@ Alle {PassiveField2_1} Sekunden verwandelt sich der Bereich, in dem sich {Passiv
 Einschlag-Tornado
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_4]
-Nachdem alle Brunnen versprüht wurden, erscheint am anderen Ende der Karte ein Wassertornado. Er zieht alle Zombies im Umkreis von fünf Reihen zum Mittelpunkt und schiebt sie dann in die neunte Spalte. Nachdem drei Riesen weggeschoben wurden, kehren sie in ihren Normalzustand zurück.
+Nachdem alle Brunnen versprüht wurden, erscheint am anderen Ende der Karte ein Wassertornado. Er zieht alle Zombies im Umkreis von fünf Reihen zum Mittelpunkt und schiebt sie dann in die neunte Spalte. Nachdem drei Gargantuas weggeschoben wurden, kehren sie in ihren Normalzustand zurück.
 
 [ARTIFACT_CALABASH]
 Kürbis-Artefakt
@@ -58636,7 +58823,7 @@ Sommernachts-Wicht-Zombie
 Als Essenszutat getarnt, schlich er sich in das Feuerwerksfest, nur um den Eintritt zu umgehen. Doch anscheinend sind für das Fest keine Eintrittskarten erforderlich.
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION_HEADER]
-Er wurde vom Sommernachts-Riesenkombie über die Werksverteidigung hinausgeworfen und ging dann weiter.
+Er wurde vom Sommernachts-Gargantua über die Verteidigung geworfen und geht nun weiter.
 
 [ZOMBIE_HALLOWEEN]
 Halloween-Zombie
@@ -65338,7 +65525,7 @@ Zur Creator-Plattform
 Kauf von Sonnenlicht möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_PLANTFOOD]
-Kauf von Spezialdünger-Fähigkeitn möglich
+Kauf von Spezialdünger-Fähigkeit möglich
 
 [CUSTOM_LEVEL_ALLOW_BUY_MOWER]
 Kauf von Rasenmähern möglich
@@ -67677,7 +67864,7 @@ Fluchkarten zufällig in Spieler einteilen
 Erzeugt einen Hurrikan.
 
 [CARD_GAME_INTENTION_ZOMBIE_WIND_SUMMON_DESC_5]
-Beschwört Wicht-Zombies und Riesen-Zombies.
+Beschwört Wicht-Zombies und Gargantuas.
 
 [CARD_GAME_INTENTION_ZOMBIE_CHICKEN_FARMER_DESC_1]
 Beschwört einen Hühnerwürger-Zombie-Grabstein.
@@ -71113,7 +71300,7 @@ Nach dem Pflanzen von Zwillingssonnenblumen produzieren diese sofort 50 Sonnenli
 Nach dem Pflanzen der Zwillingssonnenblume erzeugt sie sofort 150 Sonnenlicht.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL5_DES]
 Wenn die Zwillingssonnenblume Sonnenlicht erzeugt, besteht eine 30%ige Chance, eine zusätzliche Sonnenbombe zu erzeugen. Die Zwillingssonnenblume wirft die Sonnenbombe auf eine zufällige Zombieposition und verursacht 2000 Explosionsschaden an Zombies in Reichweite.
@@ -71521,7 +71708,7 @@ Kann kalte Eiswürfel werfen und Zombies mit einer Chance von 7% für 2 Sekunden
 Höhere Chance, kalte Eiswürfel zu werfen und Zombies mit einer Chance von 15% für 2 Sekunden einzufrieren.
 
 [WINTERMELON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Chance, Spezialdünger-Fähigkeitn direkt freizusetzen!
+Beim Pflanzen besteht eine hohe Chance, Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [WINTERMELON_NEW_SKILL_LEVEL5_DES]
 Es besteht eine Chance von 40%, drei Eisscheiben mit 300 Schaden zu werfen und Zombies für 2 Sekunden einzufrieren. Eisscheiben können außerdem einen Spritzeffekt verursachen, der Zombies im Umkreis von 3×3 60 Schaden zufügt.
@@ -71611,7 +71798,7 @@ Der harte Bambusspross durchbricht den Boden und wehrt Zombies mit einer Wahrsch
 Mit eingehender geologischer Forschung können Bambussprossen Schwachstellen im Boden finden und Zombies mit einer Wahrscheinlichkeit von 10% abwehren.
 
 [BAMBOO_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, Spezialdünger-Fähigkeitn direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [BAMBOO_PLANTFOOD_DESCRIPTION]
 Die Bambussprossen bohren sich in den Boden und stechen große Bambussprossen an die Füße von 4 Zombies auf dem Feld, um anzugreifen.
@@ -73237,7 +73424,7 @@ Die Schrumpffähigkeit kann auch riesige Zombies beeinflussen.
 Schrumpft Zombies, verlangsamt sie um 70%, erhöht ihren erlittenen Schaden um 30% und reduziert ihren verursachten Schaden um 50%.
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL5_DES]
 Kann die geschrumpften Zombies ^848484^Ⅰ^oldclr^3,2 Sekunden lang betäuben.
@@ -73336,7 +73523,7 @@ Die Einsatzzeit ist 40% schneller und in 10 Sekunden einsatzbereit.
 Die Einsatzzeit ist 80% schneller und in 6 Sekunden einsatzbereit.
 
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [PRIMALPOTATOMINE_PLANTFOOD_DESCRIPTION]
 Stelle sofort auf und platziere eine primitive Kartoffelmine an zwei zufälligen Orten.
@@ -73531,7 +73718,7 @@ Es besteht eine 10% Chance, zwei Zombies gleichzeitig zurückzustoßen.
 Die Rückstoßdistanz wird auf 2–4 Felder erhöht.
 
 [WHITEMELON_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [WHITEMELON_NEW_SKILL_LEVEL5_DES]
 Es besteht eine 20%ige Chance, Zombies in einem 3x3-Bereich abzuwehren.
@@ -73753,7 +73940,7 @@ Der Donnerbesen hat die Fähigkeit erlernt, Eisenergie zu sammeln. Die Ruhezeit 
 Der Effekt der Eisenergiereduktion wurde um 100% erhöht und die Ruhezeit auf 18 Sekunden reduziert.
 
 [MISSILETOE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, Spezialdünger-Fähigkeitn direkt freizusetzen!
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [MISSILETOE_NEW_SKILL_LEVEL5_DES]
 Beim Angriff besteht eine 80% Wahrscheinlichkeit, Eisraketen abzufeuern. Diese verursachen bei der Landung 3000 Schaden in einem Umkreis von 3×3 und detonieren nach 5 Sekunden mit 4500 Schaden in einem Umkreis von 3×3.
@@ -74452,7 +74639,7 @@ Die Ruhezeit wird um 25% von 8 auf 6 Sekunden reduziert.
 Die Ruhezeit wird um weitere 25% von 6 auf 4 Sekunden reduziert.
 
 [DARTICHOKE_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [DARTICHOKE_NEW_SKILL_LEVEL5_DES]
 Alle 20 Sekunden wird ein Gewitterpfeil abgefeuert. Der Gewitterpfeil greift zuerst die gefährlichsten Zombies an und fügt ihnen, die er durchdringt, Schaden zu. Nach dem Auftreffen tötet er sofort einen einzelnen kleinen Zombie.
@@ -74890,7 +75077,7 @@ Die Gesundheit des als Schild verwendeten Zombies erhöht sich auf 2500 Punkte, 
 Die Gesundheit des als Schild verwendeten Zombies erhöht sich auf 3000 Punkte, und die Ruhezeit des Enterhakens verkürzt sich auf 24 Sekunden.
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL5_DES]
 Wenn der von Garland gepackte Zombie von anderen Zombies gefressen wird, besteht eine 30%ige Chance, mit der rechten Faust alle Zombies in den ersten beiden Feldern rechts zu treffen, sie zwei Felder zurückzuwerfen und die Ruhezeit des Hakens zurückzusetzen.
@@ -75378,7 +75565,7 @@ Die Flugangriffskraft des Zwillingskaninchens wurde erhöht, sodass er nun mitte
 Die Ruhezeit des Zwillingskaninchens wurde auf 13 Sekunden verkürzt.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht die Chance, den Spezialdünger-Fähigkeitn-Big direkt freizusetzen!
+Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [JEWELRABBIT_NEW_SKILL_LEVEL5_DES]
 Beim Angriff graben sich die beiden Kaninchen gemeinsam in den Boden. Nachdem das erste Kaninchen den Zombie weggestoßen hat, springt das zweite Kaninchen hervor, stößt die kleinen und mittleren Zombies rechts um zwei Felder zurück und verursacht 10% des maximalen Gesundheitswerts an Schaden. Befindet sich beim Angriff des zweiten Kaninchens kein Zombie, wird der Angriff abgebrochen und die Ruhezeit um 50% verkürzt.
@@ -75504,7 +75691,7 @@ Kürbisköpfe sind mit Bonbons gefüllt, die von Abwehrpflanzen absorbiert werde
 Kürbisköpfe sind mit Bonbons gefüllt, die von Abwehrpflanzen absorbiert werden können und deren Gesundheitslimit um 1.000 Punkte erhöhen.
 
 [PUMPKIN_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeitn-Fähigkeit direkt freizusetzen!
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [PUMPKIN_NEW_SKILL_LEVEL5_DES]
 Wenn der Kürbiskopf stirbt, explodiert er und verursacht 1000 Schaden an Zombies im Umkreis von 1×2. Kleine und mittelgroße Zombies werden um 1 Gitter zurückgeworfen.
@@ -78463,10 +78650,10 @@ Jingle Bells Eventbeschreibung
 
 [GINGLEBELL_DESCRIPTION]
 Eventregeln:
-1. Der gesamte Schaden, der dem Riesen innerhalb der begrenzten Zeit zugefügt wird, zählt als Räumungspunktzahl.
+1. Der gesamte Schaden, der dem Gargantua innerhalb der begrenzten Zeit zugefügt wird, zählt als Räumungspunktzahl.
 2. Die Punkte für das Erreichen des letzten freigeschalteten Levels werden für die tägliche Belohnungsaufgabe verwendet, die täglich aktualisiert wird.
 3. Drei Themen (Feuertraining, Elektroschocktraining, Körpertraining) werden während des Events nacheinander freigeschaltet. Jedes Thema hat drei Level. Alle zwei Tage wird ein neues Level und alle sechs Tage ein neues Thema freigeschaltet.
-4. Dieses Thema verfügt über einen besonderen Mechanismus. Nachdem dem Riesen in den drei Themen mehrfach Feuer-, Elektroschock- und Körperschaden zugefügt wurde, kann ihm erneut hoher Schaden zugefügt werden. Der Riese verfügt dann über alle Resistenzen außer den entsprechenden Attributen.
+4. Dieses Thema verfügt über einen besonderen Mechanismus. Nachdem Gargantuas in den drei Themen mehrfach Feuer-, Elektroschock- und Körperschaden zugefügt wurde, kann ihm erneut hoher Schaden zugefügt werden. Der Gargantua verfügt dann über alle Resistenzen außer den entsprechenden Attributen.
 5. Die Rangliste wird nach der Summe der Punktzahlen der drei Level des neuesten Themas sortiert. Nach dem Freischalten des neuen Themas wird die Rangliste von 0 bis 10 Uhr für die Bekanntgabe der Rangliste geschlossen. Während dieser Zeit kann das Event-Level nicht gespielt werden. Das Spielen von Leveln, die älter als die neuesten Themen sind, wird nicht in die Rangliste eingerechnet.
 6. Nach Ende der Ranglistenbekanntgabe um 10:00 Uhr werden die Ranglistenbelohnungen automatisch vergeben. Die Ranglistenbekanntgabe am 17. Juni wird um einen Tag verlängert, und das Level kann während dieser Zeit nicht angefochten werden.
 7. Spieler mit ungewöhnlichen Punktzahlen werden nicht mehr in die Bestenliste aufgenommen.
