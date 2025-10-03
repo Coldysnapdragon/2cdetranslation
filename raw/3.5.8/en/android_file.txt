@@ -29611,118 +29611,118 @@ FACKELN mich echt ab.
 {TIRED:winnieicon}……
 
 [NARRATIVE_EIGHTIES_1_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Warte! Ich weiß noch, wie ich das als Kind beim Eichhörnchenjagen gerochen habe!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wow ... ich erinnere mich an diese Deko – damals, als ich als kleiner Steppke Frösche und so jagte.
 
 [NARRATIVE_EIGHTIES_1_INTRO_2]
-{SAY:winnie}Stimmt, Dave. Wir scheinen im Rock'n'Roll-Zeitalter angekommen zu sein.
+{SAY:winnie}Tja, Benutzer Dave. Ganz offenbar sind wir mitten in einer Neon-Mixtape-Tour gelandet.
 
 [NARRATIVE_EIGHTIES_1_INTRO_3]
-{SAY:winnie}Ich frage mich, ob das Tempo der Musik die Geschwindigkeit der Zombies beeinflusst.
+{SAY:winnie}Ich glaube, das Tempo der Musik beeinflusst, wie schnell die Zombies sind.
 
 [NARRATIVE_EIGHTIES_1_INTRO_4]
-{EXCITED:crazydave}Ich spüre den Rhythmus, ich spüre den Rhythmus!
+{EXCITED:crazydave}Ich fühle den Rhythmus! ICH BIN DER RHYTHMUS!
 
 [NARRATIVE_EIGHTIES_15_OUTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Jemand hat mir im Unterricht einen Zettel zugeworfen, Penny!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Jemand hat mir ein Zettelchen geschrieben, Penny!
 
 [NARRATIVE_EIGHTIES_15_OUTRO_2]
-{SAY:crazydave}Da stand, sie wollten mich in der Mittagspause hinter dem Fahrradschuppen treffen. Sie sagten, sie hätten eine große Überraschung für mich!
+{SAY:crazydave}Jemand will sich Mittags beim Fahrradständer mit mir treffen für eine Überraschung!
 
 [NARRATIVE_EIGHTIES_15_OUTRO_3]
-{SAY:winnie}Ich finde diesen Zettel verdächtig, Dave.
+{SAY:winnie}Ich denke, du solltest etwas vorsichtig sein, Benutzer Dave.
 
 [NARRATIVE_EIGHTIES_16_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Fühlst du etwas Seltsames? Hast du dir den Kopf gestoßen? Oder hat es dir gefallen?
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Na, grooved ihr schön ab? Schüttelt die Köpfe im Takt? Seid eins mit der Musik?
 
 [NARRATIVE_EIGHTIES_16_INTRO_2]
-{SAY:zombossicon}Die Party ist vorbei! Zittert vor der musikalischen Kraft meines mächtigen Heavy-Metal-Gargantuas!
+{SAY:zombossicon}Dann ist die Party JETZT vorbei! Kniet nieder vor der musikalischen Macht meines majestätischen Hair-Metal-Gargantua!
 
 [NARRATIVE_EIGHTIES_16_INTRO_3]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich habe solche Angst, Penny! Zwei Minuten vor Mitternacht!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich hab Angst, Penny! In zwei Minuten ist Mitternacht!
 
 [NARRATIVE_EIGHTIES_16_INTRO_4]
-{SAY:winnie}Sei tapfer, Dave. Wir rocken ab...
+{SAY:winnie}Sei stark, Benutzer Dave. Vertrau einfach auf die Kraft des Rock 'n' Roll!
 
 [NARRATIVE_EIGHTIES_17_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Hmm! Penny, riechst du was Komisches?
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Mhhm! Penny, riechst du das auch? Riecht irgendwie lecker!
 
 [NARRATIVE_EIGHTIES_17_INTRO_2]
-{SAY:winnie}Nein, Dave. Nur Breakdance-Zombies.
+{SAY:Winnie}Nein, Benutzer Dave. Meine Sensoren melden nur Breakdance-Zombies.
 
 [NARRATIVE_EIGHTIES_17_INTRO_3]
-{SAY:crazydave}Vielleicht riechen sie nach Knoblauch!
+{SAY:crazydave}Aber irgendwie nehme ich doch eine Note von Knoblauch wahr!
 
 [NARRATIVE_EIGHTIES_2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Sei vorsichtig, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Vorsicht, Benutzer Dave.
 
 [NARRATIVE_EIGHTIES_2_INTRO_2]
-{SAY:winnie}Ich glaube, manche Zombies haben besondere Kräfte, wenn sie Musik hören, die ihnen gefällt.
+{SAY:winnie}Ich vermute, dass einige Zombies einzigartige Fähigkeiten haben, wenn ihre Lieblingsmusik läuft.
 
 [NARRATIVE_EIGHTIES_2_INTRO_3]
-{EXCITED:crazydave}Du meinst, sie werden noch verrückter, wenn sie verrückter sind?
+{EXCITED:crazydave}Du meinst, mit fetziger Musik fetzen diese fetzigen Fetzer ganz besonders fetzig?
 
 [NARRATIVE_EIGHTIES_2_INTRO_4]
-{SAY:winnie}Ja, du hast vollkommen recht, Dave.
+{SAY:winnie}Genau. Let's fetz, Benutzer Dave.
 
 [NARRATIVE_EIGHTIES_22_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Sporenpilze haben eine besondere Fähigkeit, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Sporenpilze haben eine einzigartige Fähigkeit, Benutzer Dave..
 
 [NARRATIVE_EIGHTIES_22_INTRO_2]
-{SAY:winnie}Wenn sie einen Zombie töten, bildet sich an der Stelle, an der der Zombie gefallen ist, ein neuer Sporenpilz.
+{SAY:winnie}Wenn sie einen Zombie besiegen, entsteht da, wo der Zombie fiel, ein neuer Sporenpilz.
 
 [NARRATIVE_EIGHTIES_22_INTRO_3]
-{EXCITED:crazydave}Hey! Sporenpilze bedeuten mehr Pilze!
+{EXCITED:crazyDave}Holla die Waldfee! Sportlich, diese Sporen!
 
 [NARRATIVE_EIGHTIES_26_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Also, Penny, meinst du, du könntest mit der Auferstehungskarotte tote Pflanzen wiederbeleben?
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Du. Penny? Glaubst du, mit Intensiv-Karotten kann man besiegte Pflanzen reanimieren?
 
 [NARRATIVE_EIGHTIES_26_INTRO_2]
-{SAY:winnie}Genau ... genau richtig, Dave-kun.
+{SAY:winnie}Ähh ... genau dafür sind sie da, Benutzer Dave.
 
 [NARRATIVE_EIGHTIES_26_INTRO_3]
-{SAY:winnie}Entschuldige. Es verwirrt mich, wenn du dich konzentrierst.
+{SAY:winnie}Entschuldige. Das bringt mich ganz durcheinander, wenn du mal aufgepasst hast.
 
 [NARRATIVE_EIGHTIES_3_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Bei dem hier bekomme ich richtig Kaktus-Vibes, Penny!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Mir ist irgendwie nach Kaktee, Penny!
 
 [NARRATIVE_EIGHTIES_3_INTRO_2]
-{SAY:winnie}Eigentlich hat sich der Kaktus mit der Zeit verändert, Dave.
+{SAY:winnie}Eine gute Idee! Aber die Kaktee hat sich verändert, Benutzer Dave.
 
 [NARRATIVE_EIGHTIES_3_INTRO_3]
-{SAY:winnie}Jetzt verursacht er mit seinen Stacheln Fernkampfschaden, versteckt sich aber auch und verursacht Bodenschaden, wenn Zombies näher kommen.
+{SAY:winnie}Sie verschießt jetzt Stacheln auf die Distanz und gräbt sich ein, wenn Zombies näher kommen. Wer auf sie tritt, bereut es!
 
 [NARRATIVE_EIGHTIES_3_INTRO_4]
-{EXCITED:crazydave}Das ist echt ein Kaktus ... ständig im Wechsel zwischen Angriff und Verteidigung!
+{EXCITED:crazydave}So liebe ich die Kaktee ... flexibel in der Offensive und Defensive!
 
 [NARRATIVE_EIGHTIES_32_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Hmm ... du bist da oben in Gefahr. Du bist ein Idiot, ich weiß es!
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Vööööllig losgelöst, von der Eeerde, schwebt Dr. Zooomboss und ihr müsst steeeerben!
 
 [NARRATIVE_EIGHTIES_32_INTRO_2]
-{SAY:zombossicon}Hör zu: Du wirst aufgeben, du wirst enttäuscht sein, du wirst immer herumrennen, und ich werde dich dazu bringen, stillzuhalten.
+{SAY:zombossicon}99 Zombiekrieger, und Dr. Zomboss ist der Sieger!
 
 [NARRATIVE_EIGHTIES_32_INTRO_3]
-{SAY:zombossicon}Ich werde dich zum Weinen bringen, ich werde mich verabschieden. Ich bin kein guter Mensch – ich warne dich!
+{SAY:zombossicon}Ich will dich zum Weinen bringen, ich bin dazu bestimmt Tschüss zusagen. Ich warne dich – ich bin nicht wirklich nett! 
 
 [NARRATIVE_EIGHTIES_32_INTRO_4]
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{SAY:crazydave}Autsch!
 
 [NARRATIVE_EIGHTIES_32_OUTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}Juhu! Das war knapp ... so viele spannende Beats und Rhythmuswechsel!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}Öff! Das war knapp ... so viele Tempo- und Rhythmuswechsel, ganz schön aufregend!
 
 [NARRATIVE_EIGHTIES_32_OUTRO_2]
-{SAY:winnie}Ich fürchte, wir haben Dr. Zombosss Handlung gerade erst pausiert.
+{SAY:winnie}Ich fürchte, Dr. Zomboss macht gerade nur Pause.
 
 [NARRATIVE_EIGHTIES_32_OUTRO_3]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}Ja, das nächste Lied wird noch schlimmer! Schlimmer, als du es dir vorstellen kannst!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}Ganz genau! Weiter geht's! Jetzt wird wieder in die Hände gespuckt, ich steiger das Untoten-Qual-Produkt!
 
 [NARRATIVE_EIGHTIES_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny! Penny! Penny! Ein Mikrofon!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny! Penny! Penny! Ein Mikrofon, schnell!
 
 [NARRATIVE_EIGHTIES_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:crazydave}Es ist Karaoke-Zeit! Mein orangefarbener Traum wird endlich wahr!
+{SAY:crazydave}Zeit für Karaoke! Endlich werden meine Träume wahr!
 
 [NARRATIVE_EIGHTIES_OUTRO_DANGER_ROOM_KEY_3]
-{SAY:winnie}Sei vorsichtig, Dave. Wenn du dieses Mikrofon findest, könnte es ein weiteres Blutbad anrichten!
+{SAY:winnie}Vorsicht, Benutzer Dave! Dieses Mikrofon-Battle ist echt Heavy Metal!
 
 [NARRATIVE_EPIC_QUEST_BEGHOULED_BLITZ_001_1_INTRO_1]
 {NPC_ENTER:crazydave}{SAG:crazydave}Penny! Diese Pflanzen können ihre Positionen tauschen!
@@ -80116,11 +80116,10 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]UM} Sekunden zum Aufladen.
+[PVZ2_CHINESE_END]E_WARNING]
+Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]dene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]GONG_CURE_WARNING]
+[PVZ2_CHINESE_END]]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]den.
