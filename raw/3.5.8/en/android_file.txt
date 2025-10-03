@@ -15813,11 +15813,10 @@ Schläfert Pflanzen in einem 3x3 Bereich ein.
 Kavallerie-Zombie
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION]
-
-{FLAVOR}test
+{FLAVOR}Hast du dich jemals gefragt, wie er das Reiten gelernt hat? Das werden wir Niemals wissen...
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION_HEADER]
-test
+Sprintet vorwärts auf seinem Pferd, springt über eine Pflanze, zerstört sie, lässt eine Lanze fallen und läuft weiter vorwärts, auch sein Pferd.
 
 [ZOMBIE_DARK_ROGUE]
 Dieb-Zombie
@@ -25115,7 +25114,10 @@ Belästigt, beschädigt und bedroht Pflanzen auf dem Spielfeld mit einem bunten 
 Blastronaut-Zombie
 
 [ZOMBIE_FUTURE_JETPACK_VETERAN_DESCRIPTION]
-{KEYWORD}Besonderheit: {STAT}Schwebt über flachen Pflanzen und kann über die meisten anderen Pflanze fliegen\n{KEYWORD}Schwäche: {STAT}Hohe Block-Pflanzen\n\n{FLAVOR}Der Raketenrucksack des Blastronauten ist reine Deko. Seine Schwebefähigkeit verdankt er jahrelanger Meditation und einer Lunge voll Helium.
+{KEYWORD}Besonderheit: {STAT}Schwebt über flachen Pflanzen und kann über die meisten anderen Pflanze fliegen
+{KEYWORD}Schwäche: {STAT}Hohe Block-Pflanzen
+
+{FLAVOR}Der Raketenrucksack des Blastronauten ist reine Deko. Seine Schwebefähigkeit verdankt er jahrelanger Meditation und einer Lunge voll Helium.
 
 [ZOMBIE_FUTURE_JETPACK_VETERAN_DESCRIPTION_HEADER]
 Der Blastronaut-Zombie überschwebt extrem schnell mit Raketenschub alle Pflanzenbarrieren außer den allerhöchsten.
@@ -36255,7 +36257,7 @@ Kann Pflanzen direkt aus der letzten Reihe ausgraben.
 [ZOMBIE_MODERN_MINER_DESCRIPTION]
 Bergbau-Zombie muss drei Tage die Woche auf die Erlaubnis zum Graben warten.
 
- [DINONIP_PRODUCT_SHORT_DESC]
+[DINONIP_PRODUCT_SHORT_DESC]
 Kann Dinosaurier verwirren, um Zombies anzugreifen.
 
 [PITAYA_PRODUCT_SHORT_DESC]
@@ -37269,7 +37271,7 @@ Aizoaceae
 
 [JEWELRABBIT_PEDIA]
 
- „Kleines Kaninchen“ in der Welt der Sukkulenten
+„Kleines Kaninchen“ in der Welt der Sukkulenten
 Mehrjähriges Kraut.
 Die Wuchshöhe kann bis zu 15 cm erreichen. Der Stängel ist braun und fleischig, mit gegenständigen, fleischigen Blättern an der Spitze, die halbkugelig sind. Aus ihm wachsen neue, schlanke, gegenständige Blätter, die an Hasenohren erinnern. Die Blüten sind weiß und die Früchte barrenförmig. Die Blüte- und Fruchtzeit variiert je nach Region und Pflegebedingungen und liegt in der Regel zwischen Herbst und Frühjahr.
 Aufgrund der Blattform wird die Pflanze von Sukkulentenliebhabern oft „Kleines Kaninchen“ genannt. Sie stammt ursprünglich aus Südafrika. Aufgrund ihrer hübschen Form wird sie oft als Topfpflanze zum Betrachten verwendet. Sie liebt einen warmen, lichtdurchfluteten Standort, verträgt Trockenheit gut, vermeidet Staunässe und vermeidet starke Sonneneinstrahlung.
@@ -69096,7 +69098,7 @@ Normale legendäre Truhe
 Normale legendäre Truhe
 
 [NEW_PVP_ZOMBIE_CARD]
- Karte
+Karte
 
 [NEW_PVP_UPGRADE_TIP_0]
 Zombies sind danach 50% schneller.
