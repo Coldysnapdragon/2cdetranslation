@@ -7788,7 +7788,7 @@ Ausdauer x55
 Ausdauer x110
 
 [PRODUCT_PLANTTRIAL_1_IOS]
-Pflanzenabenteuer – Bumerang-Shooter Level 1
+Pflanzenabenteuer – Blumerang Level 1
 
 [PRODUCT_GEM_60_DESC_IOS]
 60 Juwelen
@@ -7934,7 +7934,7 @@ Erweitertes Platin-Geschenkpaket
 Ausverkaufsprämien
 
 [PRODUCT_PLANTTRIAL_1_SHORT_DESC]
-Bumerang-Shooter Level 1
+Blumerang Level 1
 
 [PRODUCT_GEM_20_SHORT_DESC]
 Kleiner Beutel Juwelen
@@ -7952,7 +7952,6 @@ Großer Beutel Juwelen
 Kleine Schachtel Juwelen
 
 [PRODUCT_GEM_780_SHORT_DESC]
-T_GEM_1480_SHORT_DESC]
 Große Schachtel Juwelen
 
 [PRODUCT_GEM_4108_SHORT_DESC]
@@ -8016,22 +8015,22 @@ Lila Geschenkpaket Paket
 Preiswertes Orangen-Geschenkpaket
 
 [PRODUCT_SUN_500_DESC]
-Füge ^FF0000 500 ^oldclr Sonnenschein hinzu
+Fügt ^FF0000 500 ^oldclr Sonnen hinzu
 
 [PRODUCT_SUN_1000_DESC]
-Füge ^FF0000 1000 ^oldclr Sonnenschein hinzu
+Fügt ^FF0000 1000 ^oldclr Sonnen hinzu
 
 [PRODUCT_SUN_2000_DESC]
-Füge ^FF0000 2000 ^oldclr Sonnenschein hinzu
+Fügt ^FF0000 2000 ^oldclr Sonnen hinzu
 
 [PRODUCT_SUN_3000_DESC]
-Füge ^FF0000 3000 ^oldclr Sonnenschein hinzu
+Fügt ^FF0000 3000 ^oldclr Sonnen hinzu
 
 [PRODUCT_SUN_5000_DESC]
-Füge ^FF0000 5000 ^oldclr Sonnenschein hinzu
+Fügt ^FF0000 5000 ^oldclr Sonnen hinzu
 
 [PRODUCT_SUN_500_SHORT_DESC]
-Sonnenschein
+Sonnen
 
 [PRODUCT_SUN_1000_SHORT_DESC]
 Ein kleiner Sonnenschein
@@ -8243,7 +8242,7 @@ Brokkoli kann Zombies packen und von vorne und hinten angreifen.
 Das Maschinengewehr-Granatapfel kann Zombies in einer bestimmten Reichweite vor sich abschießen.
 
 [CHOMPER_PRODUCT_SHORT_DESC]
-Die Mundblume kann Zombies vor sich verschlingen.
+Der Schnapper kann Zombies vor sich verschlingen.
 
 [SWEETPOTATO_PRODUCT_SHORT_DESC]
 Süßkartoffeln können Zombies in der Nähe anlocken und sie blockieren.
@@ -8357,13 +8356,13 @@ Vertreibt Nebel und findet unsichtbare Zombies.
 Weckt ruhende Pflanzen auf und erhöht vorübergehend ihre Angriffskraft.
 
 [ICESHROOM_PRODUCT_SHORT_DESC]
-Während er wächst, setzt er verschiedene Eiszauber frei, um Zombies vor ihm anzugreifen.
+Wächst und setzt verschiedene Eiszauber frei.
 
 [FIRESHROOM_PRODUCT_SHORT_DESC]
-Während er wächst, setzt er verschiedene Feuerzauber frei, um Zombies vor ihm anzugreifen.
+Wächst und setzt verschiedene Feuerzauber frei.
 
 [OAKSHOOTER_PRODUCT_SHORT_DESC]
-Schießt mächtige Pfeile ab, um Zombies vor ihnen anzugreifen.
+Schießt mächtige Pfeile ab, um Zombies vor sich anzugreifen.
 
 [BONUS_GOLD_1]
 Gold
@@ -9461,7 +9460,7 @@ Kaffeebohne (erste Stufe) plus Kostüm hoch
 Eispilz der ersten Stufe plus Verkleidung
 
 [GEMS_RESTORE_CODE_RECHARGE_FIRESHROOM_LV0_SUCCEED_CONTENT]
-Feuerpilz  Kostüme
+Feuerpilz  Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_OAKSHOOTER_LV0_SUCCEED_CONTENT]
 Eichenbogenschütze der ersten Stufe plus Kostüme
@@ -20292,6 +20291,12 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 [NARRATIVE_PLANTTRIAL_TWINSUNFLOWER_INFO_2]
 {EXCITED:crazydave}{SAY}Probiert die neu eingetroffenen Zwillingssonnenblumen. Sie tragen doppelt so viel Ertrag wie normale Sonnenblumen und schonen so die begrenzten Flächen.
 
+[NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_1]
+{NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Kavallerie Zombie entdeckt.
+
+[NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_2]
+{EXCITED:crazydave}{SAY}Probier die neu eingetroffenen Feuerpilze aus. Sie können eine Feuerwand erzeugen, um die Angriffe der Zombies abzuwehren.
+
 [NARRATIVE_PLANTTRIAL_SPIKEROCK_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Vor euch befinden sich Klavierzombies. Ihre Klaviermusik bringt die Zombies um sie herum zum Tanzen und lässt sie ihre Wege ändern.
 
@@ -20425,10 +20430,10 @@ Die Spezialdünger-Fähigkeit priorisiert Angriffe Die hintere Reihe, und die Pr
 Es kann Granaten zusätzlichen Schaden zufügen, und die Spezialdünger-Fähigkeit kann in Sekundenschnelle einen ganzen Bildschirm mit saurem Regen zerstören.
 
 [PLANTTRIAL_BUY_DIALOG_NAME_1]
-Gib {COST_NUM} Yuan aus, um {COIN_NUM} Goldmünzen zu kaufen (Bonuslevel {PLANT_LEVEL}, Level {PLANT_NAME}).
+Gib {COST_NUM} Yuan aus, um {COIN_NUM} Goldmünzen zu kaufen und {PLANT_NAME}.
 
 [PLANTTRIAL_BUY_DIALOG_NAME_2]
-Gib {COST_NUM} Juwelen aus, um {COIN_NUM} Münzen zu kaufen (Bonuslevel {PLANT_LEVEL}, Level {PLANT_NAME}).
+Gib {COST_NUM} Juwelen aus, um {COIN_NUM} Münzen zu kaufen und {PLANT_NAME}.
 
 [PLANTTRIAL_BUY_DIALOG_TITLE]
 Kaufe Pflanzen.
