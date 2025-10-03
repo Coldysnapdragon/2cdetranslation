@@ -5339,7 +5339,7 @@ Schlangenkannenpflanze
 Die Schlangenkannenpflanze kann Zombies versteinern und Schlangengeister freisetzen, die Zombies Schaden zufügen.
 
 [SARRACENIA_TOOLTIP]
-Die Schlangenkannenpflanze kann Zombies versteinern und Schlangengeister freisetzen, die Zombies Schaden zufügen.
+Kann Zombies versteinern und Schlangengeister freisetzen.
 
 [SARRACENIA_PRODUCT_SHORT_DESC]
 Die Schlangenkannenpflanze kann Zombies versteinern und Schlangengeister freisetzen, die ihnen Schaden zufügen.
@@ -21942,7 +21942,7 @@ Kiwi kann sich in einen goldenen Reifen verwandeln, um den nächsten Zombie anzu
 {FLAVOR}„Der große Weise, gleich Himmel, kämpfender Buddha, Affenkönig …“ Kiwi möchte alle Titel zeigen, um sich selbst zu repräsentieren. Doch die Realität ist immer grausam. In den Augen der Zombies ist er nur eine essbare Frucht … das ist alles …
 
 [KIWIFRUIT_TOOLTIP]
-Beschwöre einen goldenen Reifen, um den nächsten Zombie anzugreifen und Zombies in Reichweite kontinuierlich Schaden zuzufügen.
+Beschwört einen Reifen, um Zombies in Reichweite kontinuierlich Schaden zuzufügen.
 
 [KIWIFRUIT_PLANTFOOD]
 Beschwöre einen riesigen goldenen Reifen und schmettere die Zombies fünf Felder vor dir in den Boden.
@@ -22058,7 +22058,7 @@ Die Flammenblumenkönigin greift entfernte Gegner mit Projektilen an und spuckt 
 Die Flammenblumenkönigin spuckt drei Flammenlinien am Boden aus und verbrennt alles.
 
 [FLAMELADY_TOOLTIP]
-Führt entfernte Gegner mit Projektilen an und spuckt Flammen auf nahe Gegner.
+Greift mit Projektilen an und spuckt Flammen auf nahe Gegner.
 
 [FLAMELADY_PRODUCT_SHORT_DESC]
 Die Flammenblumenkönigin greift entfernte Gegner mit Projektilen an und spuckt Flammen auf nahe Gegner.
@@ -22106,7 +22106,7 @@ Greife den Gegner vor ihm an. Je stärker du auf das Feuer triffst, desto größ
 Verwandelt sich sofort in einen großen Feuerzustand und tötet kontinuierlich die Zombies in der Umgebung.
 
 [MATCHFLOWER_TOOLTIP]
-Greife den Gegner vor ihm an. Je stärker du auf das Feuer triffst, desto größer wird es. Außerdem kann es Erbsen anzünden, wenn es brennt.
+greift an und fängt Feuer, Außerdem kann es Erbsen anzünden, wenn sie brennt.
 
 [MATCHFLOWER_PRODUCT_SHORT_DESC]
 Match Flower Boxer greift den Gegner vor ihm an. Je stärker du auf das Feuer triffst, desto größer wird es. Außerdem kann es Erbsen anzünden, wenn es brennt.
@@ -22153,7 +22153,7 @@ Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner 
 Schalte viele Maschinengewehre aus und schieße drei Reihen Gegner ab.
 
 [GATLINGPEA_TOOLTIP]
-Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner vor sich anzugreifen.
+Kann vier Erbsen gleichzeitig abfeuern, um anzugreifen.
 
 [GATLINGPEA_PRODUCT_SHORT_DESC]
 Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner vor ihr anzugreifen.
@@ -22671,7 +22671,7 @@ A.K.E.E.
 A.K.E.E.s werfen Geschosse ab, die von Zombie zu Zombie springen.
 
 [AKEE_TOOLTIP]
-Wirft Geschosse ab, die von Zombie zu Zombie springen
+Wirft Geschosse ab, die 3 mal von Zombie zu Zombie springen.
 
 [AKEE_PLANTFOOD]
 Schießt mehrere große Projektile ab, die zwischen Zombies hin und her springen und Schaden verursachen.
@@ -22731,7 +22731,7 @@ Roter Stachler
 Der Rote Stachler feuern Geschosse mit voller Kraft ab, wenn sie nah an ihrer Heimat sind, und werden immer defensiver, je weiter sie sich davon entfernen.
 
 [REDSTINGER_TOOLTIP]
-Schießt mit voller Kraft, wenn er der Heimat nah ist, und wird defensiver, je weiter er sich davon entfernt
+Desto weiter von der Heimat, desto defensiver.
 
 [REDSTINGER_PLANTFOOD]
 Schießt einen Energiestrahl ab, der Zombies in der Reihe vor ihnen angreift.
@@ -35787,7 +35787,7 @@ Apfel Mörser
 Apfelmörser kann Zombies in drei nebeneinanderliegenden Reihen angreifen und kurzzeitig erstarren.
 
 [APPLEMORTAR_TOOLTIP]
-Kann Zombies in drei nebeneinanderliegenden Reihen angreifen und vorübergehend betäuben.
+Kann in drei Reihen angreifen und vorübergehend betäuben.
 
 [APPLEMORTAR_SKILL_LEVEL1]
 Fehlzündung
@@ -38421,7 +38421,7 @@ Aloe Vera
 Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
 
 [ALOES_TOOLTIP]
-Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
+Kann den giftigen Nebel des Parfüm-Zombies reinigen und die Angriffskraft erhöhen.
 
 [ALOES_PRODUCT_SHORT_DESC]
 Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
@@ -38433,7 +38433,7 @@ Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft de
 Der erzeugte Wassernebel enthält Eiskristalle, und die von Eiskristallen bedeckten Zombies werden eingefroren.
 
 [STORE_PRODUCT_AVATAR_ALOES_TITLE]
-Aloe-Vera-Kostüm
+Aloe-Vera Kostüm
 
 [ALOES_SKILL_LEVEL1]
 Kristallklar und feucht
@@ -38451,7 +38451,7 @@ Erhöht den Effekt von Fertigkeit 2 um 100 %.
 Eistropfen
 
 [ALOES_SKILL_LEVEL5_DES]
-Aloe Doctor wirft einen Eistropfen, der die Angriffskraft um 20 % erhöht. Während der Dauer des Wassernebels werden die Zombies im Wassernebel durch Eis verlangsamt.
+Aloe Vera wirft einen Eistropfen, der die Angriffskraft um 20 % erhöht. Während der Dauer des Wassernebels werden die Zombies im Wassernebel durch Eis verlangsamt.
 
 [ICELOTUS]
 Eislotus
@@ -38686,7 +38686,7 @@ Donnerdrachengras
 Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
 
 [THUNDERSNAPDRAGON_TOOLTIP]
-Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
+Spuckt einen Blitz aus und verursacht elektrischen Schaden.
 
 [THUNDERSNAPDRAGON_PRODUCT_SHORT_DESC]
 Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
@@ -38957,7 +38957,7 @@ Stephania
 Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
 
 [STEPHANIA_TOOLTIP]
-Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
+Kann Kugelfische des Ninja-Wicht-Zombies weg schleudern.
 
 [STEPHANIA_PRODUCT_SHORT_DESC]
 Stephania kann den Kugelfisch des Ninja-Wicht-Zombies abschießen, und der Fliegende Schild spritzt.
@@ -39296,7 +39296,7 @@ Wachsmelonenwächter
 Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
 
 [WAXGOURD_TOOLTIP]
-Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
+Aktiviert ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg.
 
 [WAXGOURD_PRODUCT_SHORT_DESC]
 Unterdrückt Zombies und ringförmige mechanische Blöcke und stößt Zombies in geringem Umkreis weg, wenn er wütend ist.
@@ -39786,7 +39786,7 @@ Abyssische Anemone
 Abyssische Anemonen schnappen Zombies und absorbieren sie unter der Erde, um Energie für die Risse zu erzeugen.
 
 [CTHULHUACTINIA_TOOLTIP]
-Die abyssische Seeanemone schnappt sich die Zombies unter der Erde und absorbiert sie, um Energie für die Risse zu erzeugen.
+Schnappt sich die Zombies unter der Erde, um Energie für Risse zu erzeugen.
 
 [CTHULHUACTINIA_PRODUCT_SHORT_DESC]
 Die abyssische Seeanemone schnappt sich die Zombies unter der Erde und absorbiert sie, um Energie für die Risse zu erzeugen.
@@ -39830,7 +39830,7 @@ Klauenblume
 Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
 
 [DEVILSFLOWER_TOOLTIP]
-Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
+Kann Wesen schicken, um Zombies zu stechen und Energie zu absorbieren.
 
 [DEVILSFLOWER_PRODUCT_SHORT_DESC]
 Die Klauenblume kann den Abgrundapostel schicken, um den Zombie zu umarmen und Energie zu absorbieren.
@@ -39946,7 +39946,7 @@ Fächerherzorchidee
 Stütze eine Pflanze vor dir, um ihre Angriffskraft zu erhöhen und ihre Gesundheit wiederherzustellen.
 
 [HOYACORDATA_TOOLTIP]
-Unterstütze eine Pflanze vor dir, erhöhe ihre Angriffskraft und stelle Gesundheit wieder her.
+Unterstützt eine Pflanze und erhöht ihre Angriffskraft und heilt Gesundheit
 
 [HOYACORDATA_PRODUCT_SHORT_DESC]
 Unterstütze eine Pflanze vor dir, erhöhe ihre Angriffskraft und stelle Gesundheit wieder her.
@@ -40212,7 +40212,7 @@ Dracaena scabra
 Gut im Schwertkampf, nutzt Schwertenergie und fliegendes Schwert, um Zombies anzugreifen.
 
 [DRACAENA_TOOLTIP]
-Gut im Schwertkampf, nutzt Schwertenergie und fliegendes Schwert, um Zombies anzugreifen.
+Nutzt Schwertenergie und fliegendes Schwert, um Zombies anzugreifen.
 
 [DRACAENA_PRODUCT_SHORT_DESC]
 Gut im Schwertkampf, nutzt Schwertenergie und fliegendes Schwert, um Zombies anzugreifen.
@@ -40413,7 +40413,7 @@ Sonnenschein-Lauch
 Wächst heran, um Sonnenlicht zu erzeugen, altert nach einiger Zeit und kann Zombies dazu bringen, die Linien zu wechseln.
 
 [HAPPYLEEK_TOOLTIP]
-Wächst heran, um Sonnenlicht zu erzeugen, altert nach einiger Zeit und kann Zombies dazu bringen, die Linien zu wechseln.
+Wächst heran, erzeugt Sonnen, altert und kann Zombies dazu bringen, die Reihen zu wechseln.
 
 [HAPPYLEEK_PRODUCT_SHORT_DESC]
 Wächst und erzeugt Sonnenlicht. Nach einiger Zeit verwandelt es sich in einen alten Zustand, der die Zombies vor ihm verändern kann.
@@ -40767,7 +40767,9 @@ Schießen Sie mit dem Maschinengewehr in alle Richtungen auf Zombies. Nachladen 
 Verbessertes Magazin
 
 [HELICONIAGUNNER_TOOLTIP]
-Schießen Sie mit dem Maschinengewehr in alle Richtungen auf Zombies. Nachladen nach einer Schussrunde erforderlich. NNER_SKILL_LEVEL1_DES]
+Schießt mit dem Maschinengewehr in alle Richtungen.
+
+[HELICONIAGUNNER_SKILL_LEVEL1_DES]
 Erhöht Magazinkapazität und Feuerrate um 20%.
 
 [HELICONIAGUNNER_SKILL_LEVEL2]
@@ -40893,7 +40895,7 @@ Dornzauberer
 Nutze Dornen, um Zombies zu verwickeln oder zu erstechen. Diese können sie nach dem Angriff vergiften.
 
 [WIZARDTHORNS_TOOLTIP]
-Nutze Dornen, um Zombies zu verwickeln oder zu erstechen. Diese können sie nach dem Angriff vergiften.
+Nutzt Dornen, um Zombies zu verwickeln und vergiften.
 
 [WIZARDTHORNS_PRODUCT_SHORT_DESC]
 Nutze Dornen, um Zombies zu verwickeln oder zu erstechen. Diese können sie nach dem Angriff vergiften.
@@ -41364,7 +41366,7 @@ Heavendatura
 Wenn die Projektil vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
 
 [HEAVENDATURA_TOOLTIP]
-Wenn die Projektil vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
+Wenn ein Projektil vorbeigeht, erzeugt sie Schallwelle, die Schaden verursachen.
 
 [HEAVENDATURA_PRODUCT_SHORT_DESC]
 Wenn die Projektil vorbeigeht, erzeugt sie eine resonante Schallwelle, die die umstehenden Zombies angreift.
@@ -41439,17 +41441,11 @@ Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume b
 [TWINSHONEYSUCKLE_SKILL_LEVEL1]
 Mana-Anstieg
 
-[TWINSHONEYSUCKLE_TOOLTIP]
-Die Goldene Blume beschwört die Sonne und verursacht Feuerschaden, silberne Blume beschwört den Mond und verursacht Eisschaden. 
-
 [TWINSHONEYSUCKLE_SKILL_LEVEL1_DES]
 Die Ruhezeit der goldenen und silbernen Blumen wird um 2,5 Sekunden reduziert. Die Anzahl der Die Anzahl der blauen Sterne, die nach der Explosion von Mond und Sonne entstehen, erhöht sich um 2, die Anzahl der roten Sterne um 1.
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL2]
 Mana-Upgrade
-
-[TWINSHONEYSUCKLE_SKILL_LEVEL2_DES]
-Die Ruhezeit der goldenen und silbernen Blumen verringert sich um 5 Sekunden, die Anzahl der blauen Sterne, die nach der Explosion von Mond und Sonne entstehen, erhöht sich um 4, die Anzahl der roten Sterne um 2.
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL2_DES]
 Die Ruhezeit der goldenen und silbernen Blumen verringert sich um 5 Sekunden, die Anzahl der blauen Sterne, die nach der Explosion von Mond und Sonne entstehen, erhöht sich um 4, die Anzahl der roten Sterne um 2.
@@ -41712,7 +41708,7 @@ Blasenkoralle
 Du kannst Blasen mit verschiedenen Funktionen abfeuern, um die Zombies vor dir anzugreifen und ihnen Schaden zuzufügen.
 
 [BUBBLECORAL_TOOLTIP]
-Kann Blasen mit verschiedenen Funktionen abfeuern, um die Zombies vor sich anzugreifen.
+Tippe, um das Projektil zu wechseln.
 
 [BUBBLECORAL_PRODUCT_SHORT_DESC]
 Kann Blasen mit verschiedenen Funktionen abfeuern, um die Zombies vor sich anzugreifen.
@@ -41855,7 +41851,7 @@ Nuwa Schlangenschwanzgras
 {FLAVOR}Dank ihres tiefen Verständnisses und ihrer praktischen Anwendung der Pflanzenontologie plädiert Nuwa Schlangenschwanzgras selbst in dieser ungestümen Zeit des täglichen Kampfes gegen Zombies stets dafür, dass andere Pflanzen Pflanzen ohne Augen gut behandeln und sie nicht ständig wegwerfen sollten, um sich um Zombies zu kümmern. Auch ihre Gefühle für einen gewissen verrückten bärtigen Erfinder sind einzigartig.
 
 [EYWA_DESCRIPTION_HEADER]
-Erstelle einen Pflanzenmenschen. Der Pflanzenmensch findet Zombies, die er angreifen kann.
+Erstellt Böhnchen.Diese Böhnchen greifen Zombies an und werden stärker.
 
 [EYWA_TOOLTIP]
 Erstelle einen Pflanzenmenschen. Der Pflanzenmensch findet Zombies, die er angreifen kann.
@@ -41925,7 +41921,7 @@ Ahorn-Schattenschwertkämpfer
 Zombies mit Schwertern zerschmettern
 
 [MAPLEBLADE_TOOLTIP]
-Zombies mit Schwertern zerschmettern
+Zombies mit 2 Schwertern zerschmettern
 
 [MAPLEBLADE_PRODUCT_SHORT_DESC]
 Zombies mit Schwertern zerschmettern
@@ -42001,7 +41997,7 @@ Tibet-Rhabarber
 Springt auf der Stelle, um Zombies in Angriffsreichweite anzulocken, und lässt sich dann fallen, um sie zu unterdrücken.
 
 [RHEUMNOBILE_TOOLTIP]
-Springt auf der Stelle, um Zombies in Angriffsreichweite anzulocken, und lässt sich dann fallen, um sie zu unterdrücken.
+Springt auf der Stelle, um Zombies in Angriffsreichweite anzulocken, um sie zu verbrennen.
 
 [RHEUMNOBILE_PRODUCT_SHORT_DESC]
 Springe auf der Stelle, um Zombies in Angriffsreichweite anzulocken, und lasse dich dann fallen, um sie zu unterdrücken.
@@ -42349,7 +42345,7 @@ Kürbis
 Kürbise können auf andere Pflanzen gepflanzt werden, um eine robuste zusätzliche Panzerung zu erhalten.
 
 [PUMPKIN_TOOLTIP]
-Kürbise können auf andere Pflanzen gepflanzt werden, um eine robuste zusätzliche Panzerung zu erhalten.
+Können auf andere Pflanzen gepflanzt werden, um zusätzlichen Schutz zu geben.
 
 [PUMPKIN_PRODUCT_SHORT_DESC]
 Kürbise können auf andere Pflanzen gepflanzt werden, um eine robuste zusätzliche Panzerung zu erhalten.
@@ -42444,7 +42440,7 @@ Frost-Rambutan
 Spuckt Schneebälle aus, um anzugreifen. Angegriffene Zombies können eingefroren werden, und das Eis kann durch einen Schlag direkt gebrochen werden.
 
 [WINTERRAMBUTAN_TOOLTIP]
-Spuckt Schneebälle aus, um anzugreifen. Angegriffene Zombies können eingefroren werden, und das Eis kann durch einen Schlag direkt gebrochen werden.
+Spuckt Schneebälle aus. Angegriffene Zombies können eingefroren werden.
 
 [WINTE RRAMBUTAN_PRODUCT_SHORT_DESC]
 Spuckt Schneebälle aus, um anzugreifen. Angegriffene Zombies können eingefroren werden, und das Eis kann durch einen Schlag direkt gebrochen werden.
@@ -42716,7 +42712,7 @@ Hydrocotyledrummer
 Der Münzgras-Trommler verbessert die Eigenschaften von Pflanzen, insbesondere des Orchesters, um viele Verbesserungen.
 
 [HYDROCOTYLEDRUMMER_TOOLTIP]
-Der Münzgras-Trommler verbessert die Eigenschaften von Pflanzen, insbesondere des Orchesters, um viele Verbesserungen.
+Verbessert die Eigenschaften von Pflanzen, insbesondere der Musikalischen.
 
 [HYDROCOTYLEDRUMMER_PRODUCT_SHORT_DESC]
 Der Münzgras-Trommler verbessert die Eigenschaften von Pflanzen, insbesondere des Orchesters, um viele Verbesserungen.
@@ -42762,7 +42758,7 @@ Erster Platz im Pflanzendesign-Wettbewerb, Designer: Ricky Kim
 Wenn die Blätter in Schattenform aufgeladen werden, werden Zombies vom Effekt „Verletzlichkeit“ betroffen.
 
 [SHADOWVANILLA_TOOLTIP]
-Wenn die Blätter in Schattenform aufgeladen werden, werden Zombies vom Effekt „Verletzlichkeit“ betroffen.
+In der Schattenform,gibt sie den Effekt „Verletzlichkeit“ an Zombies.
 
 [SHADOWVANILLA_PRODUCT_SHORT_DESC]
 In Schattengestalt werden Zombies durch das Aufladen der Blätter verwundbar.
@@ -42806,7 +42802,7 @@ Ananas-Kettenblatt
 Ananas-Kettenklinge nutzt die Kettenklinge in ihrer Hand, um Zombies großen Schaden zuzufügen.
 
 [BROMELBLADE_TOOLTIP]
-Ananas-Kettenklinge nutzt die Kettenklinge in ihrer Hand, um Zombies großen Schaden zuzufügen.
+Nutzt die Kettenklinge in ihrer Hand, um großen Schaden zuzufügen.
 
 [BROMELBLADE_PRODUCT_SHORT_DESC]
 Ananas-Kettenklinge nutzt die Kettenklinge in ihrer Hand, um Zombies großen Schaden zuzufügen.
@@ -42850,7 +42846,7 @@ Wasserkastanienbrüder
 Verletze Zombies durch Kollisionen mit Curlingsteinen und erzeuge Eisbahnen, um sie zu verlangsamen.
 
 [ELEOCURLING_TOOLTIP]
-Verletze Zombies durch Kollisionen mit Curlingsteinen und erzeuge Eisbahnen, um sie zu verlangsamen.
+Verletzt und erzeugt Eisbahnen zum verlangsamen.
 
 [ELEOCURLING_PRODUCT_SHORT_DESC]
 Verletze Zombies durch Kollisionen mit Curlingsteinen und erzeuge Eisbahnen, um sie zu verlangsamen.
@@ -43032,7 +43028,7 @@ Glorias Klaue
 Greift den ersten Zombie vor euch als Schild.
 
 [CLAWGLORIOSA_TOOLTIP]
-Greift den ersten Zombie vor euch als Schild.
+Greift den ersten Zombie vor sich als Schild.
 
 [CLAWGLORIOSA_PRODUCT_SHORT_DESC]
 Greift den ersten Zombie vor euch als Schild.
@@ -43127,7 +43123,7 @@ Energiefokussiertes Mangostan
 Emittiert elektrische Kreise um sich selbst
 
 [MANGOSTEEN_TOOLTIP]
-Emittiert elektrische Kreise um sich selbst
+Emittiert elektrische Kreise um sich selbst und wächst.
 
 [MANGOSTEEN_PRODUCT_SHORT_DESC]
 Emittiert elektrische Kreise um sich selbst
@@ -43274,7 +43270,7 @@ Verrückter Hutmacher Pilz
 Der Verrückte Hutmacher wirft sich den Hut auf den Kopf, um die Zombies vor ihm anzugreifen.
 
 [HATMUSHROOM_TOOLTIP]
-Der Verrückte Hutmacher wirft sich den Hut auf den Kopf, um die Zombies vor ihm anzugreifen.
+Wirft den Hut auf dem Kopf, um die Zombies vor sich anzugreifen.
 
 [HATMUSHROOM_PRODUCT_SHORT_DESC]
 Der Verrückte Hutmacher wirft sich den Hut auf den Kopf, um die Zombies vor ihm anzugreifen.
@@ -43320,7 +43316,7 @@ Hokus-Krokus
 Hokus-Krokus greift Zombies an und lässt sie schrumpfen, während es gleichzeitig den Schaden erhöht, den sie erleiden.
 
 [HOCUSCROCUS_TOOLTIP]
-Hokus-Krokus greift Zombies an während er gleichzeitig den Schaden erhöht, den Zombies erleiden.
+Greift Zombies an und erhöht gleichzeitig den Schaden, den Zombies erleiden.
 
 [HOCUSCROCUS_PRODUCT_SHORT_DESC]
 Hokus-Krokus greift Zombies an und lässt sie schrumpfen, während es gleichzeitig den Schaden erhöht, den sie erleiden.
@@ -43458,7 +43454,7 @@ Laser-Kronblume
 Laser, der Zombies durchdringt, wird von großen Zombies blockiert und mit der Zeit verstärkt.
 
 [CROWNFLOWER_TOOLTIP]
-Laser, der Zombies durchdringt, wird von großen Zombies blockiert und mit der Zeit verstärkt.
+Laser, der Zombies durchdringt, wird mit der Zeit verstärkt.
 
 [CROWNFLOWER_PRODUCT_SHORT_DESC]
 Laser, der Zombies durchdringt, wird von großen Zombies blockiert und mit der Zeit verstärkt.
@@ -43504,10 +43500,10 @@ Zwillingskaninchen
 Bohre dich unter die Erde und bohre dich von den Füßen der Zombies vor dir aus, um sie wegzustoßen.
 
 [JEWELRABBIT_TOOLTIP]
-Bohre dich unter die Erde und bohre dich von den Füßen der Zombies vor dir aus, um sie wegzustoßen.
+Bohrt unter die Erde und bohrt vor den Zombies aus, um sie wegzustoßen.
 
 [JEWELRABBIT_PRODUCT_SHORT_DESC]
-Bohre dich unter die Erde und tauche aus dem Zombie vor dir auf, um ihn wegzustoßen. Weg
+Bohrt sich unter die Erde und taucht aus dem Boden vor einem Zombie auf, um ihn wegzustoßen.
 
 [JEWELRABBIT_SKILL_LEVEL1]
 Harter Schlag
@@ -43550,7 +43546,7 @@ Burdock Batter
 Kann durchdringende Erbsengeschosse abfeuern, die größeren Schaden und bessere Kontrolle verursachen.
 
 [BURDOCKBATTER_TOOLTIP]
-Kann durchdringende Erbsengeschosse abfeuern, die größeren Schaden und bessere Kontrolle verursachen.
+Kann Erbsengeschosse schleudern, für mehr Schaden und eine kurze Lähmung.
 
 [BURDOCKBATTER_PRODUCT_SHORT_DESC]
 Kann feuern
@@ -43596,7 +43592,7 @@ Zapfe der elektrischen Zeder
 Elektrizität absorbieren und speichern, dann zu einem elektrischen Ring verdichten und abfeuern.
 
 [DEODARCEDAR_TOOLTIP]
-Elektrizität absorbieren und speichern, dann zu einem elektrischen Ring verdichten und abfeuern.
+Elektrizität absorbieren und elektrischen Ring abfeuern.
 
 [DEODARCEDAR_PRODUCT_SHORT_DESC]
 Elektrizität absorbieren und speichern, dann zu einem elektrischen Ring verdichten und abfeuern.
@@ -43688,7 +43684,7 @@ Vampignon
 Vampignons sind Defensivpflanzen, die Zombies in der Nähe für einige Sekunden Trefferpunkte absaugen.
 
 [VAMPORCINI_TOOLTIP]
-Vampignon kann umstehenden Zombies Lebenskraft absaugen und damit seine Gesundheit aufpäppeln.
+Kann umstehenden Zombies Lebenskraft absaugen und sich heilen.
 
 [VAMPORCINI_PRODUCT_SHORT_DESC]
 Kann Zombies blockieren und Fledermäuse freilassen, um Zombies anzugreifen und seine eigene Gesundheit wiederherzustellen.
@@ -43826,7 +43822,7 @@ Tigerkopfpilz
 {FLAVOR} Der Tigerkopfpilz besiegt Gegner mit blitzschnellen Combos und kann sich im Kampf frei bewegen. Wenn er nach Hause kommt, sucht er gerne im Internet nach seinen Lieblingskatzenvideos. Es heißt, er habe Zehntausende hochwertiger Katzenvideos, sortiert nach Arten, auf seinem Computer gespeichert.
 
 [TIGERSTOOL_DESCRIPTION_HEADER]
-Betäubt die Zombies vor euch mit Brüllen und schickt dann Phantome los, um sie anzugreifen.
+Betäubt Zombies mit Brüllen und schickt Phantome los, zum anzugreifen.
 
 [TIGERSTOOL_TOOLTIP]
 Betäubt die Zombies vor euch mit Brüllen und schickt dann Phantome los, um sie anzugreifen.
@@ -43930,7 +43926,7 @@ Orchideen-Magierin
 Schießt einen Schwerkraftball ab, der kleine und mittlere Zombies nach der Explosion in die Mitte zieht.
 
 [ORCHIDMAGE_TOOLTIP]
-Schießt einen Schwerkraftball ab, der kleine und mittlere Zombies nach der Explosion in die Mitte zieht.
+Schießt einen Schwerkraftball ab, der nach der Explosion in die Mitte zieht.
 
 [ORCHIDMAGE_PRODUCT_SHORT_DESC]
 Schießt einen Schwerkraftball ab, der kleine und mittlere Zombies nach der Explosion in die Mitte zieht.
@@ -44246,7 +44242,7 @@ Butterglöckchen
 Diese Sofort-Pflanze ist im Grunde ein unter Hochdruck stehendes Behältnis voll kochend heißer Butter. Macht sie BUMM, verbrennt sie Zombies in der näheren Umgebung und schleudert Butterbatzen über den ganzen Rasen, die jeden Zombie lähmen, der das Pech hat, im Butterregen zu stehen.
 
 [BUDUHBOOM_TOOLTIP]
-Verursacht massiven Schaden in einem Bereich und hinterlässt Butterfallen auf Feldern.
+Verursacht massiven Schaden und hinterlässt Butterfallen.
 
 [BUDUHBOOM_PRODUCT_SHORT_DESC]
 Butterexplosion verursacht Explosion und Kontrolle in einem Bereich von 3×3 und kann Schleimzombies einfrieren, sodass sie sich nicht teilen.
@@ -46761,7 +46757,7 @@ Schatten-Erbsenkanonen sind Schattenpflanzen, die durchdringende Schatten-Erbsen
 {FLAVOR}„Puff!“, flüstert die Schatten-Erbsenkanone und verschießt eine schattige, wie soll man sagen, Erbse, auf einen Zombie. „Uff!“, japst der Zombie, sichtlich überrascht. Die unterschwellige Spannung zwischen diesen beiden ist wirklich mit Händen greifbar.
 
 [SHADOWPEASHOOTER_TOOLTIP]
-Verschießt durchschlagende, verlangsamende Projektile, wenn Schattenkraft
+Verschießt durchschlagende, verlangsamende Projektile.
 
 [SHADOWPEASHOOTER_SKILL_LEVEL1]
 Schattenbombe
@@ -47084,7 +47080,7 @@ Nach der Explosion der Spezialdünger-Fähigkeit entsteht ein 3x3 großes elektr
 Alarm-Explosions-Magnetpilz-Outfit
 
 [ALARMSAGITTIFOLIA_TOOLTIP]
-Zwei Magnetpilze können eine Absperrung errichten und auf das Ziel zustürmen, das diese berührt, um sich selbst zu zerstören.
+Können eine Absperrung errichten und auf das Ziel zustürmen.
 
 [STORE_CATEGORY_NAME_PIGGY_BANK_SHORT_DESC]
 Sparschwein
@@ -75174,6 +75170,15 @@ Die Knallballonblume setzt einen Zerstörungspilz-Ballon frei, der in die Luft f
 [BOOMFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
 Die Knallballonblume setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht ^ff0000^ höheren Explosionsschaden bei allen Zombies und ^oldclr^^848484^ betäubt Ⅰ^oldclr^^ff000^2 Sekunden lang. ^oldclr^
 
+[MOONFLOWER_IZ]
+Ich-Zombie Mondblume
+
+[MOONFLOWER_IZ_DESCRIPTION_HEADER]
+Produziert keine Sonnen
+
+[MOONFLOWER_IZ_DESCRIPTION]
+{FLAVOR} Eigentlich solltest du das hier nicht sehen. Von Coldysnapdragon
+
 [BEERCOCONUT_NEW_SKILL_LEVEL1_DES]
 Wenn die Celebration Soda Coconut von Zombies angegriffen wird, schüttelt sich die Limonade im Inneren und spritzt nach 6 Sekunden heraus. Alle kleinen und mittleren Zombies im Umkreis von 3 Feldern rechts bis zum 4. Feld werden dadurch abgewehrt.
 
@@ -80113,35 +80118,6 @@ Oktober Münzen {NUMBER}
 Gegenstandsbetrug erkannt.
 
 [ZOMBOSS_QIGONG_CURE_WARNING]
-Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]EONIUM_AVATAR_PLANTFOOD_DESCRIPTION]
-Ätherische Zombies, die durch die Spezialdünger-Fähigkeit explodieren, erhöhen die Betäubungsdauer anderer Zombies um 2 Sekunden.
-
-[NEWYEARREDPACKET_REWARDNAME]
-Oktober Münzen {NUMBER}  
-
-[PVP_ERROR_76030]
-Gegenstandsbetrug erkannt.
-
-[ZOMBOSS_QIGONG_CURE_WARNING]
-Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]UM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]EONIUM_AVATAR_PLANTFOOD_DESCRIPTION]
-Ätherische Zombies, die durch die Spezialdünger-Fähigkeit explodieren, erhöhen die Betäubungsdauer anderer Zombies um 2 Sekunden.
-
-[NEWYEARREDPACKET_REWARDNAME]
-Oktober Münzen {NUMBER}  
-
-[PVP_ERROR_76030]
-Gegenstandsbetrug erkannt.
-
-[ZOMBOSS_QIGONG_CURE_WARNING]
-Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]G_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]
