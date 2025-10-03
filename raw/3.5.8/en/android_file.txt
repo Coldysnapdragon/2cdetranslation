@@ -31553,25 +31553,25 @@ Fluchtwurzeln-Paket
 Jag die Zombies in die Luft und sichere dir 20.000 Gold!
 
 [PRODUCT_EXPLODEONUT_20000_BUNDLE_NAME]
-Geschenkpaket – Explodierende Nüsse
+Geschenkpaket – Sprengnuss
 
 [PRODUCT_EXPLODEONUT_20000_BUNDLE_SHORT_DESCRIPTION]
-Geschenkpaket Explodierende Nüsse
+Geschenkpaket Sprengnuss
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_DESCRIPTION]
-Verdiene 50.000 Goldmünzen und stärke Explodierende Nüsse!
+Verdiene 50.000 Goldmünzen und stärke Sprengnuss!
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_NAME]
-Geschenkpaket – Explodierende Nüsse stärken
+Geschenkpaket – Sprengnuss stärken
 
 [PRODUCT_EXPLODEONUT_50000_BUNDLE_SHORT_DESCRIPTION]
-Geschenkpaket Explodierende Nüsse stärken
+Geschenkpaket Sprengnuss stärken
 
 [PRODUCT_EXPLODEONUT_DESCRIPTION]
 Explosiert beim Verzehr!
 
 [PRODUCT_EXPLODEONUT_HOMINGTHISTLE_BUNDLE_DESCRIPTION]
-Lass das Fährtenbitterkraut und die Explodierende Nuss zusammenarbeiten!
+Lass die Lenkdistel und die Sprengnuss zusammenarbeiten!
 
 [PRODUCT_EXPLODEONUT_HOMINGTHISTLE_BUNDLE_NAME]
 Bundle – Explodierendes Duo
@@ -31580,10 +31580,10 @@ Bundle – Explodierendes Duo
 Explodierendes Duo-Bundle
 
 [PRODUCT_EXPLODEONUT_NAME]
-Pflanze – Explodierende Nuss
+Pflanze – Sprengnuss
 
 [PRODUCT_EXPLODEONUT_SHORT_DESCRIPTION]
-Explodierende Nuss
+Sprengnuss
 
 [PRODUCT_FIREPEA_DESCRIPTION]
 Schieß mit brennenden Erbsen und erwärme Pflanzen in der Nähe!
@@ -31754,13 +31754,13 @@ Setzlingspaket 50
 Züchte Erdbeeren, die verschiedene Schadensarten anrichten können – von klein bis groß!
 
 [PRODUCT_STRAWBURST_NAME]
-Pflanze – Explodierende Erdbeere
+Pflanze – Erdbeerbömbchen
 
 [PRODUCT_STRAWBURST_SHORT_DESCRIPTION]
-Explodierende Erdbeere
+Erdbeerbömbchen
 
 [PRODUCT_SUMMER_BUNDLE_DESCRIPTION]
-Verdoppele deine Feuerkraft mit dem Mimic! Plus 50 Edelsteine und 10.000 Gold!
+Verdoppele deine Feuerkraft mit dem Imitator! Plus 50 Edelsteine und 10.000 Gold!
 
 [PRODUCT_SUMMER_BUNDLE_NAME]
 Paket – Sommer
@@ -31769,30 +31769,31 @@ Paket – Sommer
 Sommer-Paket
 
 [PRODUCT_SWEETPOTATO_DESCRIPTION]
-Zombies wechseln die Route, um an etwas zu kommen!
+Die Zombies wechseln die Reihen, um einen Bissen zu ergattern!
 
 [PRODUCT_SWEETPOTATO_NAME]
 Pflanze – Süßkartoffel
 
 [PRODUCT_SWEETPOTATO_SHORT_DESCRIPTION]
 Süßkartoffel
+
 [PRODUCT_WASABIWHIP_2000_BUNDLE_DESCRIPTION]
-Fang Zombies mit 20.000 Gold und einer Flammenpeitsche!
+20.000 Gold und eine Wasabi-Peitsche!
 
 [PRODUCT_WASABIWHIP_2000_BUNDLE_NAME]
-Bundle – Scharfer Wasabi
+Bundle – Wasabi-Peitsche
 
 [PRODUCT_WASABIWHIP_2000_BUNDLE_SHORT_DESCRIPTION]
-Scharfer Wasabi-Bundle
+Wasabi-Peitsche-Bundle
 
 [PRODUCT_WASABIWHIP_5000_BUNDLE_DESCRIPTION]
-Rüste dich mit Scharfem Wasabi und 50.000 Gold aus!
+Rüste dich mit der Wasabi-Peitsche und 50.000 Gold aus!
 
 [PRODUCT_WASABIWHIP_5000_BUNDLE_NAME]
-Bundle – Brennender Wasabi-Boost
+Bundle – Wasabi-Peitsche-Boost
 
 [PRODUCT_WASABIWHIP_5000_BUNDLE_SHORT_DESCRIPTION]
-Brennender Wasabi-Boost-Bundle
+Wasabi-Peitsche-Boost-Bundle
 
 [PRODUCT_WASABIWHIP_DESCRIPTION]
 Schlag alles rein!
@@ -33016,7 +33017,7 @@ Die St. Patrick's Party ist eröffnet!
 Heiße Partysommernächte bis zum 7. Juli.
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_EXPLODEONUT_DESC]
-Probiere die neuen Premium-Botanischen Explodierenden Nüsse auf der heutigen Piñata-Party!
+Probiere die neue Premium-Botanische Sprengnuss in der heutigen Piñata-Party aus!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_EXPLODEONUT_TITLE]
 Mehr Nüsse!
@@ -33028,7 +33029,7 @@ Die heutige Sommernachts-Wiederholung ist 50 % günstiger!
 Entflieht der Hitze!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_STRAWBURST_DESC]
-Probiert die neue Sonderedition der explodierenden Erdbeeren bei der heutigen Piñata-Party!
+Probiere bei der heutigen Piñata-Party das Erdbeerbömbchen aus!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_STRAWBURST_TITLE]
 Gemischt?
@@ -33698,16 +33699,16 @@ Kleiner Kaktus
 Der Kaktus kann Zombies blockieren und ihnen Schaden zufügen.
 
 [GRAPESHOT_PRODUCT_SHORT_DESC]
-Explodierende Trauben explodieren und schleudern Geschosse in acht Richtungen.
+Traubenschüsse explodieren und schleudern Geschosse in acht Richtungen.
 
 [GRAPESHOT_AVATAR_NAME]
-Explodierendes Traubenkostüm
+Traubenschuss Kostüm
 
 [STORE_PRODUCT_AVATAR_GRAPESHOT]
 Hinterlässt nach der Explosion Traubensaft, der Zombies kurzzeitig verlangsamt.
 
 [STORE_PRODUCT_AVATAR_GRAPESHOT_TITLE]
-Explodierendes Traubenkostüm
+Traubenschuss kostüm
 
 [GRAPESHOT_SKILL_LEVEL1]
 Sprungübung
@@ -38752,13 +38753,13 @@ Tippe, um Ballonminen zu erzeugen
 Tippe, um Ballonminen zu erzeugen
 
 [BOOMFLOWER_AVATAR_NAME]
-Explodierende Kiwis erzeugen explodierende Ballons, die manuell auf dem Rasen platziert werden können.
+Knallballonblumen erzeugen explodierende Ballons, die manuell auf dem Rasen platziert werden können.
 
 [STORE_PRODUCT_AVATAR_BOOMFLOWER]
-Die Explosion des Kiwi-Pilzballons erzeugt einen zusätzlichen Spezialeffekt zum 8. Jahrestag, der Zombies nach oben schleudern und betäuben kann.
+Die Explosion der Knallballonblume erzeugt einen zusätzlichen Spezialeffekt zum 8. Jahrestag, der Zombies nach oben schleudern und betäuben kann.
 
 [STORE_PRODUCT_AVATAR_BOOMFLOWER_TITLE]
-Explodierendes Kiwi-Kostüm
+Knallballonblumen Kostüm
 
 [BOOMFLOWER_SKILL_LEVEL1]
 Ballon-Verbesserung
@@ -38796,13 +38797,13 @@ Lädt auf und ballert
 Lädt auf und ballert
 
 [ULTOMATO_AVATAR_NAME]
-Die ultimative Tomate kann durch wiederholtes Pflanzen stärker werden.
+Die Ultomate kann durch wiederholtes Pflanzen stärker werden.
 
 [STORE_PRODUCT_AVATAR_ULTOMATO]
-Tomaten der Stufen 2 und 3 behalten nach dem Ausführen ihrer ultimativen Attacken ihren Status als Tomaten der Stufe 1.
+Ultomate der Stufen 2 und 3 behalten nach dem Ausführen ihrer ultimativen Attacken ihren Status als Tomaten der Stufe 1.
 
 [STORE_PRODUCT_AVATAR_ULTOMATO_TITLE]
-Spezialdünger-Fähigkeittives Tomaten-Outfit
+Ultomate Kostüm
 
 [ULTOMATO_SKILL_LEVEL1]
 Schnellladung
@@ -44222,7 +44223,7 @@ Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]
-Explodierender Jadetau-Outfit
+Butterglöckchen Kostüm
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM]
 Reduziert die Abklingzeit von dem Butterglöckchen um 20%
@@ -48001,31 +48002,31 @@ Pflanzen-Challenge – Eis-Drachenmäulchen!
 Pflanzen-Challenge – Löwenzahn!
 
 [TASK_WEEKLY_PLANTCHALLENGE_ELECTRICBLUEBERRY]
-Pflanzen-Challenge – Elektrische Blaubeere!
+Pflanzen-Challenge – Elektro Blaubeere!
 
 [TASK_WEEKLY_PLANTCHALLENGE_ELECTRICPEASHOOTE]
 Pflanzen-Challenge – Elektrische Erbse!
 
 [TASK_WEEKLY_PLANTCHALLENGE_ESCAPEROOT]
-Pflanzen-Challenge – Flucht vor den Baumwurzeln!
+Pflanzen-Challenge – Fluchtwurzel!
 
 [TASK_WEEKLY_PLANTCHALLENGE_EXPLODEONUT]
-Pflanzen-Challenge – Explodierende Nüsse!
+Pflanzen-Challenge – Sprengnuss!
 
 [TASK_WEEKLY_PLANTCHALLENGE_FIREPEASHOOTER]
 Pflanzen-Challenge – Feuer-Shooter!
 
 [TASK_WEEKLY_PLANTCHALLENGE_GRAPESHOT]
-Pflanzen-Challenge – Knallende Trauben!
+Pflanzen-Challenge – Traubenschuss!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HOMINGTHISTLE]
-Pflanzen-Challenge – Wanderdistel!
+Pflanzen-Challenge – Lenkdistel!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HOTDATE]
-Pflanzen-Challenge – Heißes Date!
+Pflanzen-Challenge – Heiße Dattel!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HURRIKALE]
-Pflanzen-Challenge – Hurrikan-Kohl!
+Pflanzen-Challenge – Hurrikohl!
 
 [TASK_WEEKLY_PLANTCHALLENGE_LAVAGUAVA]
 Pflanzen-Challenge – Lava-Guave!
@@ -48046,7 +48047,7 @@ Pflanzen-Challenge – Saftling!
 Pflanzen-Challenge – Schattenerbse!
 
 [TASK_WEEKLY_PLANTCHALLENGE_SHRINKINGVIOLET]
-Pflanzen-Challenge – Schrumpfendes Veilchen!
+Pflanzen-Challenge – Schrumpf-veilchen!
 
 [TASK_WEEKLY_PLANTCHALLENGE_SQUASH]
 Pflanzen-Challenge – Matschkürbis!
@@ -49640,7 +49641,7 @@ Die Wahrscheinlichkeit, dass die Sturmglocke Wicht-Zombies wegbläst, erhöht si
 Die Angriffskraft der Schattenerbse erhöht sich um {Param_1}% mit der Anzahl der Mondblumen auf dem Feld.
 
 [GENE_DESCRIPTION_BOOMFLOWER]
-Wenn der explodierende Platycodon-Ballon explodiert, besteht eine Chance von {Param_1}%, eine 1-sekündige Betäubung zu verursachen. Die Wahrscheinlichkeit, Ballons zu stapeln, ist erhöht.
+Wenn ein Ballon von der Knallballonblumen explodiert, besteht eine Chance von {Param_1}%, eine 1-sekündige Betäubung zu verursachen. Die Wahrscheinlichkeit, Ballons zu stapeln, ist erhöht.
 
 [GENE_DESCRIPTION_MISSILETOE]
 Die Ruhezeit des Donnerbesen verkürzt sich um {Param_1}%.
@@ -50870,7 +50871,7 @@ Tiger Pilz-Geschenkpaket
 Burgunder Meteorhammer-Geschenkpaket
 
 [PRODUCT_GIFT_FOR_RETURN10_SHORTDESC]
-Explodierendes Platycodon-Geschenkpaket
+Knallballonblume-Geschenkpaket
 
 [PRODUCT_GIFT_FOR_RETURN11_SHORTDESC]
 Dinosaurierhorn-Spezial-Geschenkpaket
@@ -53801,7 +53802,7 @@ Flammenfarn-Brillenkostüm
 Sonnenlichtverbrauch um 30% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BOOMFLOWER_1]
-Explodierendes Platycodon-Weihnachtskostüm
+Knallballonblumen Kostüm
 
 [NEW_AVATAR_DESCRIPTION_BOOMFLOWER_1]
 Sonnenlichtverbrauch um 50% reduziert
@@ -54657,7 +54658,7 @@ Lass nicht mehr als {NUM_HITS} Mal die Pflanzen von den Erbsen der Zombies treff
 Lass nicht mehr als {NUM_EXPLODE} Jalapeño-Zombies explodieren. Mal
 
 [CHALLENGE_ZOMBIE_EXPLODENUT]
-Lass den explodierenden Nuss-Zombie nicht öfter als {NUM_EXPLODE} Mal explodieren.
+Lass den Sprengnuss-Zombie nicht öfter als {NUM_EXPLODE} Mal explodieren.
 
 [RIFT_ZPS_LABEL]
 ZPS {ZPS_AMT}%
@@ -68258,7 +68259,7 @@ Robo-Bull-Zombie
 Stürmt schnell ins Feld.
 
 [ZOMBIE_NEW_PVP_ZOMBIE_EXPLODENUT]
-Explodierende Nuss Zombie
+Sprengnuss-Zombie
 
 [ZOMBIE_NEW_PVP_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
 Verursacht Flächenschaden beim Tod.
@@ -73429,7 +73430,7 @@ Drückt eine Schallbarriere mit einem Gitter aus, schiebt Zombies drei Gitter re
 Drückt eine Schallbarriere mit 3 Reihen aus, schiebt Zombies drei Gitter rechts von der Prunkwinde und verursacht 6 Sekunden lang Schaden. ^oldclr^
 
 [GRAPESHOT_NEW_SKILL_LEVEL1_DES]
-Nach dem Pflanzen explodiert die explodierende Traube sofort und verursacht Explosionsschaden an Zombies im Umkreis von 3×3. Nach der Explosion springen acht kleine Trauben heraus und springen in acht Richtungen. Die kleinen Trauben springen mehrmals ab und fügen Zombies Schaden zu.
+Nach dem Pflanzen explodiert der Traubenschuss sofort und verursacht Explosionsschaden an Zombies im Umkreis von 3×3. Nach der Explosion springen acht kleine Trauben heraus und springen in acht Richtungen. Die kleinen Trauben springen mehrmals ab und fügen Zombies Schaden zu.
 
 [GRAPESHOT_NEW_SKILL_LEVEL2_DES]
 Die Anzahl der Abpraller der kleinen Trauben erhöht sich auf das Sechsfache.
@@ -73840,7 +73841,7 @@ Mondblume setzt Mondlichtenergie frei, um sofort 100 Sonnenlicht zu erzeugen und
 Mondblume setzt Mondlichtenergie frei, um sofort 100 Sonnenlicht zu erzeugen, ^ff0000^ und 12 Schildmauern in einem 3x3-Bereich zu errichten, die 1000 Schaden absorbieren können. ^oldclr^
 
 [EXPLODEONUT_NEW_SKILL_LEVEL1_DES]
-Die harte Schale der Explodierenden Nuss kann Zombies daran hindern, die dahinterliegenden Pflanzen zu schützen. Nach dem Verzehr verursacht sie Explosionsschaden im umgebenden 3×3-Bereich.
+Die harte Schale der Sprengnuss kann Zombies daran hindern, die dahinterliegenden Pflanzen zu schützen. Nach dem Verzehr verursacht sie Explosionsschaden im umgebenden 3×3-Bereich.
 
 [EXPLODEONUT_NEW_SKILL_LEVEL2_DES]
 Nach der Explosion besteht eine 10%ige Chance, eine Kartoffelmine zu erzeugen.
@@ -73852,10 +73853,10 @@ Nach der Explosion besteht eine 20%ige Chance, eine Kartoffelmine zu erzeugen.
 Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [EXPLODEONUT_PLANTFOOD_DESCRIPTION]
-Die Explodierende Nuss trägt einen Stahlschild, der nach dem Verzehr ebenfalls explodiert.
+Die Sprengnuss trägt einen Stahlschild, der nach dem Verzehr ebenfalls explodiert.
 
 [EXPLODEONUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Explodierende Nuss trägt einen ^ff0000^ dickeren Stahlschild ^oldclr^, der explodiert, sobald er aufgefressen wird.
+Die Sprengnuss trägt einen ^ff0000^ dickeren Stahlschild ^oldclr^, der explodiert, sobald er aufgefressen wird.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie im Normalzustand ein Feld rechts von Nachtschatten, feuert  Blätter ab. Im Schattenzustand erstreckt sich die Angriffsreichweite über die gesamte Reihe, und alle 5 Sekunden wird ein Blatt wiederhergestellt.
@@ -74632,10 +74633,10 @@ Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt
 Nach der Explosion der Erdbeerbombe hinterlässt sie Erdbeermarmelade in der entsprechenden Angriffsreichweite, die vorbeikommende Zombies verlangsamt. Die Erdbeermarmelade aus kleinen und mittleren Erdbeeren hält 2 Sekunden, die aus großen Erdbeeren 4 Sekunden an.
 
 [STRAWBURST_PLANTFOOD_DESCRIPTION]
-Die explodierende Erdbeere beschwört eine riesige Erdbeere, die explodiert und Zombies auf dem gesamten Bildschirm Schaden zufügt. Sie wächst sofort zu einer großen Erdbeere heran.
+Das Erdbeerbömbchen beschwört eine riesige Erdbeere, die explodiert und Zombies auf dem gesamten Bildschirm Schaden zufügt. Sie wächst sofort zu einer großen Erdbeere heran.
 
 [STRAWBURST_AVATAR_PLANTFOOD_DESCRIPTION]
-Die explodierende Erdbeere beschwört eine riesige Erdbeere, die explodiert und Zombies auf dem gesamten Bildschirm Schaden zufügt. ^ff0000^ Nach der Explosion springen drei kleine Erdbeeren heraus und explodieren erneut. ^oldclr^ Sie wächst sofort zu einer großen Erdbeere heran.
+Das Erdbeerbömbchen beschwört eine riesige Erdbeere, die explodiert und Zombies auf dem gesamten Bildschirm Schaden zufügt. ^ff0000^ Nach der Explosion springen drei kleine Erdbeeren heraus und explodieren erneut. ^oldclr^ Es wächst sofort zu einer großen Erdbeere heran.
 
 [POISONPEASHOOTER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von der Schleim-Erbsenkanone erscheint, feuert dieser Gifterbsen ab, um dem Zombie Schaden zuzufügen. Außerdem wird er verlangsamt und erhält 5 Sekunden lang eine Giftschicht. Jede Giftschicht verursacht das Fünffache der Angriffskraft von ^701edf^Poison I^oldclr^ Schaden pro Sekunde, maximal 5 Schichten.
@@ -75091,10 +75092,10 @@ Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen die Spezialdünger-Fähig
 Wenn eine Ballonbombe erzeugt wird, besteht eine 30%ige Chance, einen Ballon zum 8. Jahrestag zu erzeugen. Der Ballon fliegt automatisch zum nächsten Zombie und explodiert. Zombies im Umkreis von 3×3 Schaden.
 
 [BOOMFLOWER_PLANTFOOD_DESCRIPTION]
-Explodierendes Platycodon setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht Explosionsschaden bei allen Zombies.
+Die Knallballonblume setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht Explosionsschaden bei allen Zombies.
 
 [BOOMFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Explodierendes Platycodon setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht ^ff0000^ höheren Explosionsschaden bei allen Zombies und ^oldclr^^848484^ betäubt Ⅰ^oldclr^^ff000^2 Sekunden lang. ^oldclr^
+Die Knallballonblume setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht ^ff0000^ höheren Explosionsschaden bei allen Zombies und ^oldclr^^848484^ betäubt Ⅰ^oldclr^^ff000^2 Sekunden lang. ^oldclr^
 
 [BEERCOCONUT_NEW_SKILL_LEVEL1_DES]
 Wenn die Celebration Soda Coconut von Zombies angegriffen wird, schüttelt sich die Limonade im Inneren und spritzt nach 6 Sekunden heraus. Alle kleinen und mittleren Zombies im Umkreis von 3 Feldern rechts bis zum 4. Feld werden dadurch abgewehrt.
