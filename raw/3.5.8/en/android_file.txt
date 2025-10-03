@@ -80067,7 +80067,7 @@ Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]unden zum Aufladen.
 
-[PVZ2_CHINESE_END]�hen die Betäubungsdauer anderer Zombies um 2 Sekunden.
+[PVZ2_CHINESE_END]�hen die Betäubungsdauer anderer Zombies um 2 Sekunden.
 
 [NEWYEARREDPACKET_REWARDNAME]
 Oktober Münzen {NUMBER}  
@@ -80092,15 +80092,5 @@ Gegenstandsbetrug erkannt.
 
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]unden zum Aufladen.
-
-[PVZ2_CHINESE_END]ne Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]unden zum Aufladen.
 
 [PVZ2_CHINESE_END]
