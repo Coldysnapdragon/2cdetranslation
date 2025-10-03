@@ -50968,19 +50968,19 @@ Während deiner Abwesenheit ist im Hof einiges passiert!
 Benutze die Pflanzen-Erfahrungskarte, um {TIME} lang das Erfahrungsprivileg von {NAME} ({NUM} Level) zu erhalten.
 
 [TEMPLATE_TRIAL_CARD_GET_WAY]
-Nach Ablauf der Erfahrungskarte oder nachdem die Pflanze auf das gleiche oder ein höheres Level wie der Erfahrungsinhalt verbessert wurde, ist die Erfahrungszeit nicht mehr verfügbar.
+verschwindet nach einiger Zeit.
 
 [TRIAL_CARD_HIGH_PLAYER_PLANT_LEVEL]
-Du besitzt bereits eine Pflanze oder einen Gegenstand mit einem höheren Level als die aktuelle Erfahrungskarte. Wenn du sie weiter verwendest, verwandelt sich die Erfahrungskarte in x{NUM} mysteriöse Kristalle. Möchtest du sie wirklich verwenden?
+T
 
 [TRIAL_CARD_HIGH_TRIAL_PLANT_LEVEL]
-Du hast bereits eine Erfahrungskarte mit einem höheren Level als die aktuelle verwendet. Du kannst die aktuelle Erfahrungskarte nicht verwenden.
+s
 
 [TRIAL_CARD_SAME_TRIAL_PLANT_LEVEL]
-Sie haben eine Testkarte mit demselben Level wie die aktuelle verwendet. Wenn Sie diese weiterhin verwenden, wird die Testkartenzeit hinzugefügt. Möchten Sie sie wirklich verwenden?
+e
 
 [TRIAL_CARD_LOWR_TRIAL_PLANT_LEVEL]
-Sie haben eine Testkarte mit einem niedrigeren Level als die aktuelle verwendet. Wenn Sie diese weiterhin verwenden, wird die vorherige Testkarte überschrieben. Möchten Sie sie wirklich verwenden?
+r
 
 [TRIAL_CARD_CONFIRM_USE]
 Möchten Sie die aktuelle Testkarte wirklich verwenden?
@@ -50998,7 +50998,7 @@ Nehmen Sie am Pflanzenanbauprogramm teil und erhalten Sie seltene Pflanzenfragme
 Die ausgewählte Pflanze der Stufe 5 ist nur eine Testpflanze und verschwindet nach Ende des Events.
 
 [PLANT_CALLOFWISH_SHORT_DESCRIPTION]
-Nehmen Sie am Wunsch-Event teil, sichern Sie sich limitierte Geschenkpakete, erhalten Sie Anbaurabatte und erhalten Sie Wunschpflanzen!
+Nehmen Sie am Wunsch-Event teil und sie erhalten Belohnungen!
 
 [PLANT_CULTIVATE_GEM_EXCHANGE]
 Möchten Sie wirklich {NUM} Juwelen ausgeben, um den Anbaufortschritt freizuschalten?
@@ -80058,6 +80058,46 @@ Gegenstandsbetrug erkannt.
 
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]unden zum Aufladen.
+
+[PVZ2_CHINESE_END]m Aufladen.
+
+[PVZ2_CHINESE_END]unden zum Aufladen.
+
+[PVZ2_CHINESE_END]�hen die Betäubungsdauer anderer Zombies um 2 Sekunden.
+
+[NEWYEARREDPACKET_REWARDNAME]
+Oktober Münzen {NUMBER}  
+
+[PVP_ERROR_76030]
+Gegenstandsbetrug erkannt.
+
+[ZOMBOSS_QIGONG_CURE_WARNING]
+Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]en.
+
+[PVZ2_CHINESE_END]ESE_END]Z2_CHINESE_END]END]D]INESE_END]]D]D]D]n.
+
+[PVZ2_CHINESE_END]ESE_END]E_END]END]n die Betäubungsdauer anderer Zombies um 2 Sekunden.
+
+[NEWYEARREDPACKET_REWARDNAME]
+Oktober Münzen {NUMBER}  
+
+[PVP_ERROR_76030]
+Gegenstandsbetrug erkannt.
+
+[ZOMBOSS_QIGONG_CURE_WARNING]
+Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]unden zum Aufladen.
+
+[PVZ2_CHINESE_END]ne Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]Sekunden zum Aufladen.
 
