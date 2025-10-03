@@ -5048,6 +5048,7 @@ Alraune
 [MANDRAKE_DESCRIPTION]
 {KEYWORD}Spezial: {STAT}Vorwärtslaufen
 {KEYWORD}Pflanzen-Features: {STAT}Grüne Pflanze
+
 {FLAVOR}Willkommen zurück auf der Wettbewerbsseite! Dies ist der erste Pflanzen-Parkour-Wettbewerb. Alraune, der diesjährige Favorit, macht sich am Spielfeldrand warm. Sein Ziel ist es, die Nummer eins der Welt zu werden – die Sterne und das Meer!
 
 [MANDRAKE_DESCRIPTION_HEADER]
@@ -5283,6 +5284,7 @@ Schlangenkannenpflanze
 [SARRACENIA_DESCRIPTION]
 {KEYWORD}Spezial: {STAT}Versteinerte Zombies
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze
+
 {FLAVOR}„Ich wollte nur mit ihnen flirten, aber sie haben sich alle in Steinstatuen verwandelt. Wie langweilig~“, sagte die schlangenartige Kannenpflanze auf der preisgekrönten Bühne der „Zombie's Most Feared Plants“-Auswahl.
 
 [SARRACENIA_DESCRIPTION_HEADER]
@@ -12036,16 +12038,16 @@ Kung-Fu-Zombie
 Gewöhnliche Kung-Fu-Zombies.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1]
-Kung-Fu-Zombie mit Pylonen
+Pylonen Kung-Fu-Zombie
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1_DESCRIPTION]
 {FLAVOR}Warum brauchen Kung-Fu-Zombies Pylonen zum Schutz? Weil sie modischer aussehen.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1_DESCRIPTION_HEADER]
-Sein Pylonenhelm macht ihn doppelt so stark wie gewöhnliche Zombies.
+Sein Pylon macht ihn doppelt so stark wie gewöhnliche Kung-Fu-Zombies.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2]
-Eiserner Teekannen-Kung-Fu-Zombie
+Teekannen Kung-Fu-Zombie
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2_DESCRIPTION]
 {FLAVOR}Versteht mich nicht falsch, sein ursprünglicher Zweck war es, mit einer Teekanne auf dem Kopf Akrobatik zu vollführen.
@@ -12063,19 +12065,19 @@ Hammer-Zombie
 Kann einen Hammerzyklon aussenden, um geradlinig fliegende Erbsengeschosse abzulenken (Hinweis: Wurfgeschosse können nicht abgelenkt werden).
 
 [ZOMBIE_KONGFU_SELFEXPLODE]
-Selbstexplosions-Zombie
+Bomben-Zombie
 
 [ZOMBIE_KONGFU_SELFEXPLODE_DESCRIPTION]
-{FLAVOR}Der Selbstexplosions-Zombie beherrscht kein Kung-Fu und war daher in der Kung-Fu-Welt sehr unterlegen, bis er sein Talent für Schießpulver entdeckte und sein Status sprunghaft anstieg.
+{FLAVOR}Der Bomben-Zombie beherrscht kein Kung-Fu und war daher in der Kung-Fu-Welt sehr unterlegen, bis er sein Talent für Schießpulver entdeckte und sein Status sprunghaft anstieg.
 
 [ZOMBIE_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
-Nachdem er Pflanzen berührt hat, kann er die Bombe in seiner Hand zünden und Pflanzen in einem großen Umkreis tödlichen Schaden zufügen.
+Nachdem er Pflanzen berührt hat, kann er die Bombe in seiner Hand zünden und Pflanzen in einem großen Umkreis tödlichen Schaden zufügen. Eis und Kühlung macht seine Bombe Wirkungslos.
 
 [ZOMBIE_KONGFU_FLAG]
 Kung-Fu-Flaggen-Zombie
 
 [ZOMBIE_KONGFU_FLAG_DESCRIPTION]
-{FLAVOR}Der Flaggen-Zombie ist ein geborener Anführer. Er muss kein Kung-Fu beherrschen, sondern nur eine Flagge schwenken.
+{FLAVOR}Der Kung-Fu-Flaggen-Zombie ist ein geborener Anführer. Er muss kein Kung-Fu beherrschen, sondern nur eine Flagge schwenken.
 
 [ZOMBIE_KONGFU_FLAG_DESCRIPTION_HEADER]
 Ein Kung-Fu-Zombie mit einer Flagge deutet in der Regel auf die Ankunft einer großen Zombiewelle hin.
@@ -12091,16 +12093,16 @@ Kung-Fu-Fackel-Zombie
 {FLAVOR}Ehrlich gesagt ist der Kung-Fu-Fackel-Zombie der Vorfahre des ägyptischen Entdecker-Zombies.
 
 [ZOMBIE_KONGFU_TORCH_DESCRIPTION_HEADER]
-Hält eine Fackel, die Pflanzen dauerhaft verbrennen kann.
+Hält eine Fackel, die Pflanzen dauerhaft verbrennen kann, die in Kontakt kommen.
 
 [ZOMBIE_KONGFU_GONG]
 Kung-Fu-Gong-Zombie
 
 [ZOMBIE_KONGFU_GONG_DESCRIPTION]
-{FLAVOR}Gong-Zombie ist der Bruder des Selbstzerstörungs-Zombies. Beide beherrschen kein Kung-Fu, doch Gong-Zombie interessiert sich mehr für Musikinstrumente.
+{FLAVOR}Gong-Zombie ist der Bruder des Bomben-Zombies. Beide beherrschen kein Kung-Fu, doch Gong-Zombie interessiert sich mehr für Musikinstrumente.
 
 [ZOMBIE_KONGFU_GONG_DESCRIPTION_HEADER]
-Schlag die Gongs und Trommeln, um den selbstexplosiven Zombie zu beschwören.
+Schlägt die Gongs und Trommeln, um einen Bomben-Zombie zu beschwören.
 
 [ZOMBIE_KONGFU_QIGONG]
 Kung-Fu-Qigong-Zombie
@@ -12124,13 +12126,13 @@ Nach dem Trinken kann er gewalttätig werden.
 Kriegermönch-Pylonen-Zombie
 
 [ZOMBIE_KONGFU_MONK_CONE_DESCRIPTION]
-{FLAVOR}Glaubst du, Mönche brauchen keine Rüstung? Da irrst du dich. Er hält sie für einen Hut, mit dem er angeben kann.
+{FLAVOR}Glaubst du, Mönche brauchen keine Rüstung? Da irrst du dich. Er hält es für einen Hut, mit dem er angeben kann.
 
 [ZOMBIE_KONGFU_MONK_CONE_DESCRIPTION_HEADER]
-Seine Straßensperre macht ihn doppelt so mächtig wie gewöhnliche Mönchszombies.
+Sein Pylon macht ihn doppelt so mächtig wie gewöhnliche Mönch-Zombies.
 
 [ZOMBIE_KONGFU_MONK_BUCKET]
-Kriegermönch-Eisenteekanne-Zombie
+Kriegermönch-Teekannen-Zombie
 
 [ZOMBIE_KONGFU_MONK_BUCKET_DESCRIPTION]
 {FLAVOR}Neben Kampfkünsten ist dieser Zombie auch für das Kochen von Wasser im Tempel zuständig.
@@ -12154,7 +12156,7 @@ Mönch-Flaggen-Zombie
 {FLAVOR}Der Mönch-Flaggen-Zombie zählt täglich die Flaggen in der Halle.
 
 [ZOMBIE_KONGFU_MONK_FLAG_DESCRIPTION_HEADER]
-Schwenk eine Flagge und führe eine große Zombiewelle an.
+Hat eine Flagge und führt eine große Zombiewelle an.
 
 [ZOMBIE_KONGFU_MONK_DRINK]
 Trinkernder Mönch-Zombie
@@ -12172,7 +12174,7 @@ Klingenmönch-Zombie
 {FLAVOR}Im Zombiesee kursiert das Gerücht, er sei für seine Tang-Poesie-Klingentechnik berühmt, doch in Wirklichkeit handelt es sich um die Leichenlügen-Klingentechnik.
 
 [ZOMBIE_KONGFU_MONK_BLADE_DESCRIPTION_HEADER]
-Ein Mönchszombie mit extrem starker Angriffskraft.
+Ein Mönchs-Zombie mit extrem starker Angriffskraft. Er schwinkt das Schwert und isst somit nicht.
 
 [ZOMBIE_KONGFU_MONK_IMP]
 Mönchs-Wicht-Zombie.
@@ -12181,13 +12183,13 @@ Mönchs-Wicht-Zombie.
 {FLAVOR}Leicht wie eine Schwalbe – das ist keine Übertreibung.
 
 [ZOMBIE_KONGFU_MONK_IMP_DESCRIPTION_HEADER]
-Leicht wie eine Schwalbe besitzt er die einzigartige Fähigkeit des Qinggong.
+Leicht wie eine Schwalbe besitzt er die einzigartige Fähigkeit des Qinggong. Womit er über Pflanzen fliegt.
 
 [ZOMBIE_KONGFU_MONK_TORCH]
 Fackel-Mönch-Zombie
 
 [ZOMBIE_KONGFU_MONK_TORCH_DESCRIPTION]
-{KEYWORD}Eigenschaften:{STAT}Fackel beschädigt Pflanzen bei Kontakt.
+{KEYWORD}Eigenschaften:{STAT}Fackel zerstört Pflanzen bei Kontakt.
 
 {KEYWORD}Schwäche:{STAT}Frostangriffe löschen Fackeln.
 
@@ -12203,7 +12205,7 @@ Nunchuck-Mönch-Zombie
 {FLAVOR}Der Nunchuck-Mönch-Zombie liebt es, anderen Zombies seine Stockkünste zu demonstrieren, bis er sich beim Einsatz seines Nunchaku selbst am Kopf schlägt.
 
 [ZOMBIE_KONGFU_MONK_NUNCHAKU_DESCRIPTION_HEADER]
-Mit dem Nunchaku lenkst du alle Projektile von vorn ab und stößt alle Pflanzen weg, die sich ihm in den Weg stellen.
+Mit dem Nunchaku lenkt er alle Projektile von vorn ab und stößt alle Pflanzen weg, die sich ihm in den Weg stellen.
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE]
 Messerkämpfer
@@ -12212,7 +12214,7 @@ Messerkämpfer
 {FLAVOR}Ein Messer kommt aus dem Osten, und die Fee fliegt vom Himmel. Dies ist die berühmte Fähigkeit des Messerkämpfers, doch er nennt sie lieber „Fliegender Zombie vom Himmel“.
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE_DESCRIPTION_HEADER]
-Beschwöre Kung-Fu-Zombies, die gut mit Schwertern und Schilden umgehen können.
+Beschwört Kung-Fu-Zombies, die gut mit Schwertern und Schilden umgehen können.
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG]
 Qigong-Meister
@@ -12221,7 +12223,7 @@ Qigong-Meister
 {FLAVOR}Der Qigong-Meister gilt als der renommierteste Meister der Kung-Fu-Welt. Seine innere Stärke hat unzählige Zombies beeindruckt. Doch seine mächtige Existenz gerät manchmal wegen der Miete in Schwierigkeiten.
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG_DESCRIPTION_HEADER]
-Der Meister der inneren Stärke ist extrem gefährlich.
+Der Meister der inneren Stärke ist extrem gefährlich. Er hat elemantare Schilde und kann Pflanzen zu sich ziehen.
 
 [ELITE_ZOMBIE_TIPS_TEXT_KONGFU_ZOMBOSS_QIGONG]
 Der Qigong-Meister kann die Fähigkeit „Goldene Glocke“ einsetzen.
@@ -12249,16 +12251,16 @@ Sein Helm bietet extrem hohen Schutz.
 Großer Bronzemann-Zombie
 
 [ZOMBIE_KONGFU_STRONG_BRONZE_DESCRIPTION_HEADER]
-Voller Kraft.
+Zerschmettert Pflanzen und wird bei niedriger Gesundheit mächtiger.
 
 [ZOMBIE_KONGFU_STRONG_BRONZE_DESCRIPTION]
 {FLAVOR} wird nach einer schweren Verletzung durchdrehen und dir zeigen, wie viel es kostet, ihn zu verachten.
 
 [ZOMBIE_KONGFU_AGILE_BRONZE]
-Kung-Fu-Ritter, Bronzemann-Zombie
+Ketten Bronzemann-Zombie
 
 [ZOMBIE_KONGFU_AGILE_BRONZE_DESCRIPTION_HEADER]
-Flink und schwer zu fassen.
+Wechselt oft die Reihen.
 
 [ZOMBIE_KONGFU_AGILE_BRONZE_DESCRIPTION]
 {FLAVOR} kann sich gut auf und ab bewegen und dich überraschen.
@@ -12267,10 +12269,10 @@ Flink und schwer zu fassen.
 Qigong Bronze Zombie
 
 [ZOMBIE_KONGFU_MAGIC_BRONZE_DESCRIPTION_HEADER]
-Ich habe die Saugtechnik als Kind gelernt.
+"Ich habe die Saugtechnik als Kind gelernt."
 
 [ZOMBIE_KONGFU_MAGIC_BRONZE_DESCRIPTION]
-{FLAVOR} Es scheint von einem anderen Planeten zu kommen.
+{FLAVOR} Er scheint von einem anderen Planeten zu kommen.
 
 [ZOMBIE_ZOMBOSSMECH_EGYPT]
 Zombot-Sphinxinator
@@ -12362,7 +12364,7 @@ Noch mehr neue Pflanzen!
 Jede Menge neuer Kung-Fu-Zombies!
 
 [NFS_LINKAGE_TAB1]
-Belohnungen
+BELOHNUNGEN
 
 [WORLD_PREVIEW_TEASER_DARK]
 39 neue Level!
@@ -19083,29 +19085,28 @@ Rasenmäher beschwören
 Game-Over-Geschenkpaket
 
 [PRODUCT_PLANTTRIAL_1_DES]
-Pflanzen-Bumerang-Shooter
+Pflanze (Level 1) – Blumerang
 
 [PRODUCT_PLANTTRIAL_2_DES]
 Frage: Pflanzengemüse
 
 [PRODUCT_PLANTTRIAL_3_DES]
-Pflanze (Level 1) – Zwillingssonnenblume
+Pflanze (Level 1) – Doppel-Sonnenblume
 
 [PRODUCT_PLANTTRIAL_4_DES]
-Pflanze (Level 1) – Doppel-Shooter
+Pflanze (Level 1) – Duplinator
 
 [PRODUCT_PLANTTRIAL_5_DES]
-Pflanze (Level 1) – Feuerdrachengras
+Pflanze (Level 1) – Drachenmäulchen
 
 [PRODUCT_PLANTTRIAL_6_DES]
-Pflanze (Level 1) – Maiskrug
+Pflanze (Level 1) – Kernapult
 
 [PRODUCT_PLANTTRIAL_7_DES]
-Pflanze (Level 2) – Stahldorn
+Pflanze (Level 2) – S
 
 [PRODUCT_PLANTTRIAL_8_DES]
-Pflanze (Level 2) – Blitzrohr ...8_DES]
-[PRODUCT_PLANTTRIAL_9_DES]
+Pflanze (Level 2) – Blitzschilf
 [PRODUCT_PLANTTRIAL_10_DES]
 [PRODUCT_PLANTTRIAL_11_DES]
 [PRODUCT_PLANTTRIAL_12_DES]
@@ -28693,226 +28694,241 @@ Du hast unzählige Quests abgeschlossen! Und jede Menge Belohnungen erhalten!
 {TIRED:winnie}Dave, wenn ich einen Kopf hätte, würde ich jetzt definitiv den Kopf schütteln.
 
 [NARRATIVE_BEACH_INTRO_BOWLING_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Recherchen haben ergeben, dass Bowling die angesagteste Sportart unserer Zeit ist.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Nachforschungen zeigen, dass der Kegelsport in dieser Ära wohl in voller Blüte gestanden haben muss.
 
 [NARRATIVE_BEACH_INTRO_BOWLING_2]
-{PLAYFUL:crazydave}Findest du das auch, Penny?
+{PLAYFUL:crazydave}Denkst du, was ich denke, Penny?
 
 [NARRATIVE_BEACH_INTRO_BOWLING_3]
-{TIRED:winnie}Ich verstehe deinen Gedankengang nicht, Dave.
+{TIRED:winnie}Ich kann deinen Gedankenprozess nicht entschlüsseln, Benutzer Dave.
 
 [NARRATIVE_BEACH_INTRO_BOWLING_4]
-{SAY:winnie}Ich dachte, Bowling-Blasen wären hier eine gute Idee.
+{SAY:winnie}Ich dachte, Bowlingknollen wären hier äußerst hilfreiche Verbündete.
 
 [NARRATIVE_BEACH_INTRO_BOWLING_5]
-{SAY:crazydave}Heh. Ich habe gerade daran gedacht, wie gern ich Bowlingschuhe trage.
+{SAY:crazydave}Hm. Ich dachte gerade, wie gerne ich Bowling-Schuhe trage.
 
 [NARRATIVE_BEACH_INTRO_BOWLING_6]
-{EXCITED:crazydave}Mach mir was Buntes an die Füße!
+{EXCITED:crazydave}So viele Farben ... an meinen Füßen!
 
 [NARRATIVE_BEACH_INTRO_CHOMPER_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Wenn man es mit Zombies aus der Tiefsee zu tun hat ...
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Beim Kampf gegen Zombies aus der Tiefe ...
 
 [NARRATIVE_BEACH_INTRO_CHOMPER_2]
-{PLAYFUL:winnie}…Wir brauchen eine Pflanze mit einem Appetit wie ein Hai.
+{PLAYFUL:winnie}...braucht man eine Pflanze mit dem Appetit eines Haifischs!
 
 [NARRATIVE_BEACH_INTRO_CHOMPER_3]
-{PLAYFUL:crazydave}Verstanden, Penny. Du meinst die Spuckpflanze!
+{PLAYFUL:crazydave}Ich ahne, worauf du hinaus willst, Penny. Du meinst den Schnapper!
 
 [NARRATIVE_BEACH_INTRO_CHOMPER_4]
-{SAY:winnie}Genau. Ihre scharfen Zähne können den Ausgang einer Schlacht entscheiden.
+{SAY:winnie}In der Tat. Seine scharfen Zähne könnten die Gezeitenwende in unserer Schlacht einleiten.
 
 [NARRATIVE_BEACH_INTRO_CHOMPER_5]
-{EXCITED:crazydave}Hey, ich habe auch eine Idee! Nennen wir das doch die Spuckpflanzenwoche!
+{EXCITED:crazydave}Hey, ich habe auch eine Idee! Wir sollten das die Schnapper-Woche nennen!
 
 [NARRATIVE_BEACH_INTRO_CHOMPER_6]
-{TIRED:winnie}Wenn es sein muss, Dave. Wenn es sein muss.
+{TIRED:winnie}Wenn es sein muss, Benutzer Dave. Wenn es sein muss.
+
+[NARRATIVE_BEACH_INTRO_FIRSTLEVEL_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Sieh dir diesen wuuuunderschönen Strand an!
+
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_2]
-{SAY:crazydave}Alles, was wir zum Pflanzenwachstum brauchen, ist hier!
+{SAY:crazydave}Hier gibt's alles, was ein Gärtner braucht!
 
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_3]
-{PLAYFUL:crazydave}Sonne, Sand und jede Menge Wasser!
+{PLAYFUL:crazydave}Sonne, Sand, und Wasser ohne Ende!
 
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_4]
-{SAY:winnie}Warnung! Dave. Meine Sensoren melden Zombies an deinem Strand ...
+{SAY:winnie}Vorsicht, Benutzer Dave. Meine Sensoren zeigen an, dass es Zombies auf deinem Strand gibt ...
 
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_5]
-{SAY:winnie} ... und viel zu viel Wasser. Die Pflanzen werden ertrinken.
+{SAY:winnie}... und viel zu viel Wasser. Zu viel für die Pflanzen.
 
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_6]
-{SAY:crazydave}Das ist ganz einfach! Wir brauchen nur ein paar Seerosenblätter.
+{SAY:crazydave}No Problemo! Wir platzieren einfach ein paar Seerosenblätter.
 
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_7]
-{EXCITED:crazydave}Dann schwimmen alle anderen Pflanzen!
+{EXCITED:crazydave}Dann können die anderen Pflanzen auf den Wellen reiten!
 
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_8]
-{PLAYFUL:winnie}Oder, wie man hier sagt: Sie können „auf den Wellen reiten“.
+{PLAYFUL:winnie}Oder wie der Surfspezialist sagt: einen „Hang Ten“ hinlegen.
 
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_9]
-{PLAYFUL:crazydave}Ja, Penny. Stimmt!
+{PLAYFUL:crazydave}Yeah, Penny, sehr lässig!
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_1]
-{NPC_ENTER:zombossicon}{SAY}Hört zu, Jungs! Ich bin hier, um euch kaltes Wasser zu geben.
+{NPC_ENTER:zombossicon}{SAY}Hergehört, Leute! Was ich zu sagen habe, wird euch ganz schön runterziehen.
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_2]
-{SAY}In den Tiefen lauert ein schreckliches Monster ...
+{SAY}Aus tödlichen Tiefen hinauf wir ihn riefen ...
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_3]
-{SAY}Wenn es auftaucht, wird es dir den Kopf abreißen!
+{SAY}Jetzt kommt er angeschwommen, hat Witterung nach Hirn aufgenommen!
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_4]
-{SAY}Warte nur, bis es missbraucht wird! Lang lebe Dr. Zomboss.
+{SAY}Bis später, ihr Verlierer! Doc Zomboss
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Der Typ ist hart im Nehmen.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Der Typ ist ja krass.
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_6]
-{TIRED:winnie}Und er nervt, Dave. Sehr nervig.
+{TIRED:winnie}Und ziemlich unangenehm, Benutzer Dave. Ziemlich unangenehm.
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_ALT_1]
-{NPC_ENTER:zombossicon}{SAY}Jungs, ihr seid jetzt voll dabei!
+{NPC_ENTER:zombossicon}{SAY}Leute, echt, ihr seid voll geliefert!
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_ALT_2]
-{SAY}Die schleimigen Augen der Tiefsee-Gargantuas haben euch schon im Visier.
+{SAY}Die Tiefsee-Gargantuas haben euch in ihrem schleimigen Visier.
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_ALT_3]
 {SAY}Ihr könnt rennen! Ihr könnt schwimmen!
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_ALT_4]
-{SAY}Aber ihr könnt ihren Fängen nicht entkommen!
+{SAY}Aber ihren schuppigen Klauen entkommt ihr nicht!
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_ALT_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Igitt. Der Typ ist knallhart.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Pühhh, der Typ ist total behämmert.
 
 [NARRATIVE_BEACH_INTRO_GARGANTUAR_ALT_6]
-{TIRED:winnie}Und er nervt, Dave. Sehr nervig.
+{TIRED:winnie}Und ziemlich unangenehm, Benutzer Dave. Ziemlich unangenehm.
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Mal ehrlich, Penny, diese surfenden Zombies sind eine Abzocke!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Ich sag's dir, Penny: Diese wahnsinnigen Zombie-Surfer sind echt kernige Jungs!
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_2]
-{SAY:winnie}Denk mal darüber nach: "Betrug"...
+{SAY:winnie}Analysiere den Begriff „kernige Jungs“ ...
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_3]
-{PLAYFUL:winnie}Ja. Betrug. Sehr interessant. Dave! Du bist ein Genie!
+{PLAYFUL:winnie}Hmmm. Kernig. Sehr interessant. Benutzer Dave, du bist ein Genie!
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_4]
-{PLAYFUL:crazydave}Echt?
+{PLAYFUL:crazydave}Bin ich das?
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_5]
-{TIRED:winnie}Nein, bist du nicht. Aber du hast mich inspiriert.
+{TIRED:winnie}Nein. Definitiv nicht. Aber du hast mich auf eine Idee gebracht.
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_6]
-{EXCITED:winnie}Guakodile! Diese Pflanze kann Zombies mit einer Atombombe angreifen, die einen Krater erzeugt.
+{EXCITED:winnie}Das Guakodil! Diese Pflanze beschießt Zombies mit Kern-ähnlichen Projektilen!
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_7]
-{SAY:winnie}Und sie beißt richtig gut.
+{SAY:winnie}Und sie kann auch kraftvoll zubeißen.
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_8]
-{EXCITED:winnie}Setz sie an vorderster Front ein. Abwarten.
+{EXCITED:winnie}Pflanze das Guakodil an der Frontlinie. Du wirst schon sehen.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Hey! Es ist nicht leicht, der Zombiehorde zu widerstehen, die wie eine Flut anrückt.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Hui! Gegen Zombiewellen UND die Gezeiten kämpfen, ist nicht einfach.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_2]
-{AUFGEWUNDERT:crazydave}Weißt du, was wir brauchen, Penny? Wir brauchen einen guten Partner!
+{EXCITED:crazydave}Weißt du, was wir brauchen, Penny? Einen Verbündeten mit Wumms!
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_3]
-{SAY:crazydave}Das Material, das ich erwähnt habe, bedeutet Haltung. Ich übersetze es dir, falls du es nicht verstehst.
+{SAY:crazydave}Und mit Wumms meine ich Durchschlagskraft. Falls du eine Übersetzung brauchst.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_4]
-{SAY:winnie}Dann schlage ich vor, du bittest Guide Thistle um Hilfe.
+{SAY:winnie}Dann sollten wir uns mal an die Lenkdistel wenden.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_5]
-{SAY:winnie}Ich glaube, es hat das Material, von dem du sprichst.
+{SAY:winnie}Ich denke, sie hat diesen „Wumms“, von dem du sprichst.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_6]
-{EXCITED:crazydave}Seine Augen! Die leuchten so hell! Ein einziger Blick kann diese Zombies töten!
+{EXCITED:crazydave}Ihre Augen! So ein stechender Blick. Die Zombies werden vor Angst schlottern.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_7]
-{EXCITED:winnie}Und noch wichtiger: Es kann tödliche Pfeile abfeuern, die dich verfolgen.
+{EXCITED:winnie}Naja, wichtiger ist doch, dass sie tödliche Stacheln verschießt, die sicher ins Ziel finden.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_8]
-{EXCITED:crazydave}Das allein kann schon doppelt schaden! Schade!
+{EXCITED:crazydave}Doppelter Wumms zum Preis von einem! Echt radikal!
+
+[NARRATIVE_BEACH_INTRO_TIDES_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Benutzer Dave, meine Daten zeigen mir, dass wir auf die Gezeiten achten müssen.
+
+[NARRATIVE_BEACH_INTRO_TIDES_2]
+{SAY:crazydave}Soll das heißen, wenn die Flut kommt, ÜBERSCHWEMMT sie unsere Pflanzenfreude?
+
+[NARRATIVE_BEACH_INTRO_TIDES_3]
+{SAY:winnie}Leider ja, aber an der Flutlinie kann man sehen, wie hoch das Wasser steigen wird. Plane entsprechend.
+
 [NARRATIVE_BEACH_INTRO_TIDES_4]
-{PLAYFUL:crazydave}Die Flut steigt und fällt. Kann das jemand erklären?
+{PLAYFUL:crazydave}Erst kommt die Flut, dann die Ebbe. Wer kann das erklären?
 
 [NARRATIVE_BEACH_INTRO_TIDES_5]
-{TIRED:winnie}Das ist Wissenschaft, Dave.
+{TIRED:winnie}Naja, zum Beispiel ein Wissenschaftler, Benutzer Dave.
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Du Beachboy! Hör auf, Unsinn zu reden.
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Hallo, Ihr Strandstrolche! Jetzt bleibt mal ganz locker.
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Ist dir aber aufgefallen, dass sich die Strumpfbandschönheit und der Bikini-Zombie in letzter Zeit etwas zu nahe gekommen sind?
+{SAY:zombossicon}Habt ihr auch schon bemerkt, dass sich der Schnapper und der Bikinizombie in letzter Zeit näher gekommen sind?
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Braut sich eine Strandromanze zwischen Pflanzen und Zombies zusammen?
+{SAY:zombossicon}Ist da vielleicht ein kleines Strand-Techtelmechtel zwischen Pflanzen und Zombies im Gange?
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_4]
-{SAY:zombossicon}Apropos, wie sicher bist du dir der Treue des Strumpfbandbells?
+{SAY:zombossicon}Und wie sicher seid ihr euch eigentlich, dass der Schnapper treu zu euch hält?
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_5]
-{SAY:zombossicon}Mir fällt auf ... diese Pflanze hat einen zombieartigen Appetit.
+{SAY:zombossicon}Ich meine ja nur ... die Pflanze hat den Appetit eines Zombies.
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_6]
-{SAY:zombossicon}Viel Spaß mit den Landfreunden! Bis später!
+{SAY:zombossicon}Lasst euch das mal durch den Kopf gehen, ihr Landratten. Bis später, Kumpels! 
 Dr. Zomboss
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_7]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Eine romantische Geschichte zwischen Pflanzen und Zombies? Penny ... Mir platzt gleich der Kopf!
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Eine Zombie-Pflanzen-Romanze? Penny ... ich bin PLATT!
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_8]
-{SAY:winnie}Dave, zieh keine voreiligen Schlüsse. Ich schlage vor, du versuchst es mit einem effektiveren Ansatz.
+{SAY:winnie}Benutzer Dave, jetzt keine überstürzten Schlüsse ziehen.
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_9]
-{EXCITED:winnie}Beeil dich und handle!
+{EXCITED:winnie}Stürzen wir uns lieber in die Action!
 
 [NARRATIVE_BEACH_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Achtung! Ich habe eine seltsame Statue entdeckt.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Obacht! Ich habe eine seltsame Statue ausgemacht, die wohl aus der Surfer-Ära stammt.
 
 [NARRATIVE_BEACH_OUTRO_DANGER_ROOM_KEY_2]
-{EXCITED:crazydave}Schau mal da drüben! Das ist eine Tiki-Statue. Mit verrückten Augen.
+{EXCITED:crazydave}Na sieh mal an! Eine Tiki-Statue. Mit irren Augen.
 
 [NARRATIVE_BEACH_OUTRO_DANGER_ROOM_KEY_3]
-{SAY:winnie}Analysen deuten darauf hin, dass dieses Tiki eine große Herausforderung für jeden darstellen könnte, der ihm folgt.
+{SAY:winnie}Meine Analysen zeigen, dass dieses Tiki eine schreckliche Herausforderung für die heraufbeschwören könnte, die ihm folgen.
 
 [NARRATIVE_BEACH_OUTRO_DANGER_ROOM_KEY_4]
-{PLAYFUL:crazydave}Du meinst, sie werden eine Tiki-Tortur erleben? Verstanden? Tiki-Tortur?
+{PLAYFUL:crazydave}Ach komm schon. Wer will denn so lange FACKELN?
 
 [NARRATIVE_BEACH_OUTRO_DANGER_ROOM_KEY_5]
-{TIRED:winnie}Dave, ich muss zugeben, deine Wortspiele sind …
-hart.
+{TIRED:winnie}Benutzer Dave, deine Wortspiele ...
+
+FACKELN mich echt ab.
 
 [NARRATIVE_BEACH_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Eine Romanze zwischen Pflanzen und Zombies? Das ist verrückt!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Eine Zombie-Pflanzen-Romanze? Das ist doch verrrrückt!
 
 [NARRATIVE_BEACH_OUTRO_ZOMBOSS_2]
-{SHOUT:crazydave}Wenn es um Verrücktheit geht, bin ich Experte!
+{SHOUT:crazydave}Und mit Verrrrrücktsein kenne ich mich aus!
 
 [NARRATIVE_BEACH_OUTRO_ZOMBOSS_3]
-{SAY:winnie}Stimme zu. Ich vermute, Dr. Zomboss pflanzt gerade verstörende Samen.
+{SAY:winnie}Zweifellos. Ich denke, Dr. Zomboss versuchte, Zwietracht zu säen.
 
 [NARRATIVE_BEACH_OUTRO_ZOMBOSS_4]
-{SAY:crazydave}Von nun an können wir hier nur noch Samen säen!
+{SAY:crazydave}Ab jetzt sind wir die Einzigen hier, die etwas aussäen!
 
 [NARRATIVE_BEACH_OUTRO_ZOMBOSS_5]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}Das ist Unsinn! Du hast keine Ahnung, was ich für dich vorbereitet habe!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}Kompletter Blödsinn. Ihr habt keine Ahnung, was ich für euch geplant habe!
 
 [NARRATIVE_BEACH_OUTRO_ZOMBOSS_6]
-{SAY:zombossicon}Die Saat der Zerstörung ist gesät! Warte nur darauf, vernichtet zu werden!
+{SAY:zombossicon}Die Saat der Zerstörung wurde ausgebracht. Macht euch bereit für eure Auslöschung!
 
 [NARRATIVE_BEACH_OUTRO_ZOMBOSS_7]
-{SAY:zombossicon}Aber ich muss mich jetzt entschuldigen. Ich melde mich später bei euch Idioten!
+{SAY:zombossicon}Aber jetzt muss ich los. Bis später, ihr Trottel!
 
 [NARRATIVE_BEACH_ZOMBIENOTE_1]
-{NPC_ENTER:crazydaveicon}{EXCITED:crazydaveicon}Schau mal! Es ist bestimmt Zeit für Strand-Zombie-Bongo!
+{NPC_ENTER:crazydaveicon}{EXCITED:crazydaveicon}Schau! Offenbar ist es Zeit für eine Partie Strandzombie-Bungo!
 
 [NARRATIVE_BEACH_ZOMBIENOTE_2]
-{NPC_ENTER:winnieicon}{EXCITED:winnieicon}Bingo, Dave. Oh, Bingo.
+{NPC_ENTER:winnieicon}{EXCITED:winnieicon}Bingo, Benutzer Dave. Es heißt BINGO.
 
 [NARRATIVE_BEACH_ZOMBIENOTE_3]
-{SAY:crazydaveicon}Du hast gewonnen, Penny? Wow. Du bist echt klasse!
+{SAY:crazydaveicon}Du hast schon gewonnen, Penny? Wow, du bist echt gut!
 
 [NARRATIVE_BEGHOULED_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe ein Pflanzenraster entdeckt, Dave.
@@ -28930,19 +28946,19 @@ hart.
 {SAY:winnie}Erreiche 100 erfolgreiche Matches, um die Zombies zu besiegen!
 
 [NARRATIVE_COWBOY_INTRO_GARGANTUAR_1]
-{NPC_ENTER:zombossicon}{SAY}Hallo, Pflanzendieb,
+{NPC_ENTER:zombossicon}{SAY}Sei gegrüßt, Pflanzenfreund,
 
 [NARRATIVE_COWBOY_INTRO_GARGANTUAR_2]
-{SAY:zombossicon}Die Spione haben dein Gehirn als mein Eigentum markiert.
+{SAY:zombossicon}Es kommen gleich ein paar Agenten, um dein Gehirn als mein Eigentum zu kennzeichnen.
 
 [NARRATIVE_COWBOY_INTRO_GARGANTUAR_3]
-{SAY:zombossicon}Hallo, Dr. Zomboss.
+{SAY:zombossicon}Hochachtungsvoll, Dr. Edgar Zomboss.
 
 [NARRATIVE_COWBOY_INTRO_GARGANTUAR_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Ich möchte nicht, dass mein Gehirn markiert wird.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Ich will kein markiertes Gehirn.
 
 [NARRATIVE_COWBOY_INTRO_GARGANTUAR_5]
-{PLAYFUL:crazydave}Es wird schwer, sie zu beseitigen.
+{PLAYFUL:crazydave}Es hat schon ewig gedauert, es das erste Mal zu reinigen.
 
 [NARRATIVE_COWBOY_INTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}Hast du jemals darüber nachgedacht, dass du von Crazy Daves Wahnsinn angesteckt wurdest?
@@ -79968,7 +79984,8 @@ Verbannt Zombies mit Magie in die Leere.
 [AEONIUM_DESCRIPTION]
 {KEYWORD} Eigenschaft: {STAT} Verbannt Zombies und versetzt sie in einen Zustand der Leere, in dem sie anfällig für Magie sind.
 {KEYWORD} Pflanzeneigenschaft: {STAT} Lila Pflanze
-{FLAVOR} Der Schwarzmagier kam aus der Leere und wird dorthin zurückkehren.
+
+{FLAVOR} Der Schwarzmagier kam aus der Leere und wird dorthin auch wieder zurückkehren.
 
 [AEONIUM_TOOLTIP]
 Verbannt Zombies mit Magie in die Leere
@@ -80013,7 +80030,7 @@ Kann bis zu drei Zombies gleichzeitig verbannen, wodurch der von den verbannten 
 Beim Pflanzen besteht eine mittlere Chance, sofort die Spezialdünger-Fähigkeit freizusetzen.
 
 [AEONIUM_NEW_SKILL_LEVEL5_DES]
-Beim Verbannen eines Zombies besteht eine 30-prozentige Chance, den Zombie dauerhaft zu verbannen und sofort einen explosiven Angriff auszulösen. Zombies, die nicht sofort getötet werden können, werden trotzdem verbannt und verursachen Schaden in Höhe des Zehnfachen deiner Angriffskraft. Die Elite und Bosse können nicht verbannt werden.
+Beim Verbannen eines Zombies besteht eine 30% Chance, den Zombie dauerhaft zu verbannen und sofort einen explosiven Angriff auszulösen. Zombies, die nicht sofort getötet werden können, werden trotzdem verbannt und erleiden Schaden in Höhe des Zehnfachen deiner Angriffskraft. Die Elite und Bosse können nicht verbannt werden.
 
 [STORE_PRODUCT_AVATAR_AEONIUM_TITLE]
 Schwarzmagier-Outfit
