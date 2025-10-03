@@ -13880,7 +13880,7 @@ Erhöht die Wirkung von Feueratem um 100%.
 Kreuzflamme
 
 [JALAPENO_SKILL1_LEVEL1_DES]
-Ermöglicht es dem Flammenden Pfeffer, nach der Explosion ein Flammenkreuz auszustoßen.
+Ermöglicht es der Jalapeño, nach der Explosion ein Flammenkreuz auszustoßen.
 
 [JALAPENO_SKILL1_LEVEL2]
 Licht
@@ -80098,4 +80098,4 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]
+[PVZ2_CHINESE_END]NESE_END]
