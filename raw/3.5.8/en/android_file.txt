@@ -13361,15 +13361,6 @@ Beim nächsten Mal erinnern
 [NARRATIVE_DARK_INTRO_SUNSHROOM_CHAT_4]
 {NPC_ENTER:winnie}{PLAYFUL:winnie}Ich glaube, du musst dafür sorgen, dass sie nicht vorher von irgendetwas gefressen werden.
 
-[NARRATIVE_BEACH_INTRO_TIDES_1]
-{NPC_ENTER:crazydave}{PLAYFUL}Der Wasserstand hier ist niedrig, und wir haben eine große Fläche zum Pflanzen.
-
-[NARRATIVE_BEACH_INTRO_TIDES_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Nein. Der Wasserstand wird langsam steigen und unsere Pflanzen ertränken.
-
-[NARRATIVE_BEACH_INTRO_TIDES_3]
-{NPC_ENTER:crazydave}{SAY}Okay, es ist sicherer, die Pflanzen rechts vom Wasserspiegel auf den Lotusblättern zu pflanzen.
-
 [NARRATIVE_BEACH_INTRO_FIRSTLEVEL_1]
 {NPC_ENTER:crazydave}{PLAYFUL}Sonnenschein! Insel! Strand! Bikini! Tacos! Ich komme!
 
@@ -15198,20 +15189,14 @@ Robo-Pylonen-Zombie
 [ZOMBIE_MECH_CONE_DESCRIPTION_HEADER]
 Der metallverstärkte Pylon bietet seinem Piloten phänomenalen Schutz.
 
-[NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Wir sind in einer von Maschinen beherrschten Zukunftswelt angekommen!
-
-[NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_2]
-{SAY:crazydave}Das heißt, mein Topf kann repariert werden!
-
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_FAILURE_1]
-{NPC_ENTER:crazydave}{SAY}Wow, lass es uns nochmal machen!
+{NPC_ENTER:crazydave}{SAY}Hoppla, das versuchst du wohl besser noch mal!
 
 [NARRATIVE_FUTURE_CHALLENGE_SUNBOMBS_A_1]
-{NPC_ENTER:crazydave}{TIRED}Weißt du was? Manchmal explodiert die Sonne!
+{NPC_ENTER:crazydave}{TIRED}Du weißt doch, dass Sonnen manchmal Bomben sein können?
 
 [NARRATIVE_FUTURE_CHALLENGE_SUNBOMBS_A_2]
-{EXCITED}So wie jetzt!
+{EXCITED}Das ist jetzt so ein "manchmal"!
 
 [STARCHALLENGE_SUNBOMBS_NAME]
 Sonnenbomben
@@ -29957,85 +29942,93 @@ FACKELN mich echt ab.
 
 [NARRATIVE_FUTURE_CHALLENGE_PROTECTPLANTS_A_2]
 {EXCITED:crazydave}Es ist keine leichte Aufgabe, so eine Position zu halten.
+
+[NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_1]
+{NPC_ENTER:crazydave}{SAY}Die Zukunft! Komisch, ich dachte, ich würde mehr Hunger haben.
+
+[NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_2]
+{NPC_ENTER:winnie}{EXCITED:crazydave}Schließlich habe ich 4.000 Jahre nichts gegessen!
+
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_3]
 {TIRED:winnie}...
 
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_4]
-{SAY:crazydave}Hey, was ist mit dem Gras los? Es glänzt!
+{SAY:crazydave}Hey, was ist mit dem Rasen passiert? Der strahlt so!
 
 [NARRATIVE_FUTURE_INTRO_FIRSTLEVEL_5]
-{SAY:winnie}Ich habe eine Reihe verstärkter Fliesen im Gras entdeckt!
+{SAY:winnie}Ich kann auf dem Weltraumrasen ein Muster aus Power-Feldern ausmachen.
+
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_1]
 {NPC_ENTER:zombossicon}{SAY}Willkommen zurück, Gärtner!
 
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_2]
-{SAY:zombossicon}Dein Gehirn wurde dir vor Jahren genommen.
+{SAY:zombossicon}In diesem Jahr liegt es schon eine halbe Ewigkeit zurück, dass dein Gehirn abgeholt wurde.
 
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_3]
-{SAY:zombossicon}Ich krieg's hin, Dr. Zomboss.
+{SAY:zombossicon}Wir sehen uns bei der nächsten Abholung, Dr. Edgar Zomboss.
 
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Vorsicht, Nachbar! Ich bin mir ziemlich sicher, dass er nicht von meinem Gehirn spricht!
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Sei auf der Hut, Nachbar! Er spricht sicher nicht von meinem GEHIRN!
 
 [NARRATIVE_FUTURE_INTRO_GARGANTUAR_5]
-{PLAYFUL:winnie}Aber ich glaube, es gibt Beweise für das Gegenteil.
+{PLAYFUL:winnie}Ich würde sagen, es gibt einiges, was dagegen spricht.
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}Ist es nicht gut, dass deine Nachbarn dir im Kampf gegen Zombies eine große Hilfe sein können?
+{NPC_ENTER:zombossicon}Ist es nicht praktisch, dass dir dein Nachbar dabei unter die Arme greift, uns Zombies zu bekämpfen?
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Crazy Daves Nützlichkeit überschattet nur seine Inkompetenz.
+{SAY:zombossicon}Deppie Davids offensichtliche Inkompetenz wird nur noch von seiner Nützlichkeit übertroffen.
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Aber wenn du dieses Codewort aussprichst, werden sich meine Schläferagenten gegen dich wenden.
+{SAY:zombossicon}Aber wie es auch sei - auf ein geheimes Wort hin wird sich mein Schläfer gegen dich wenden.
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_4]
-{SAY:zombossicon}Hör gut zu, das Codewort lautet „Hypnotischer Zombie“.
+{SAY:zombossicon}Hör mir zu, David: "Hypno-Zombnosis".
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{SPECIAL1}Hallo, Nachbar!
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{SPECIAL1}Hey Nachbar!
 
 [NARRATIVE_FUTURE_INTRO_ZOMBOSS_6]
-{PLAYFUL}Kann ich mir dein Gehirn ausleihen? Äh, ich meine die Chilisauce!
+{PLAYFUL}Kann ich mir dein Gehirn borgen? Ähh, ich meine natürlich die scharfe Sauce!
 
 [NARRATIVE_FUTURE_MAGNIFYING_GRASS_FAILURE_1]
-{NPC_ENTER:crazydave}{SAY}Ups, du solltest es noch einmal versuchen!
+{NPC_ENTER:crazydave}{SAY}Oje, du solltest es noch mal versuchen!
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_1]
-{NPC_ENTER:winnie}Vielleicht entscheidest du dich ja, lieber früher als später einen Rasenmäher zu benutzen.
+{NPC_ENTER:winnie}Du kannst dich jetzt entscheiden, einen Rasenmäher schon frühzeitig zu starten.
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_2]
-{EXCITED:winnie}Nutze die Gelegenheit und halte den Rasenmäher fest.
+{EXCITED:winnie}Tippe und halte ganz einfach einen Rasenmäher, wenn der richtige Zeitpunkt gekommen ist.
 
 [NARRATIVE_FUTURE_MANUAL_MOWERS_3]
-{NPC_ENTER:crazydave}{SAY:crazydave}Manchmal ist das einfach logisch!
+{NPC_ENTER:crazydave}{SAY:crazydave}Manchmal ist das das Strate-logischste, was man machen kann!
 
 [NARRATIVE_FUTURE_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich schaue mir das UFB mit meinen verrückten Augen an! Das ist die Abkürzung für Unbekanntes Fliegendes Gehirn!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich sehe was, was du nicht siehst, und das ist ein UFH! Ein unbekanntes Flughirn!
 
 [NARRATIVE_FUTURE_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:winnie}Da drin gibt es Dinge, die noch gruseliger sind als Gehirne.
+{SAY:winnie}Da drin befindet sich etwas Beängstigenderes als ein Gehirn!
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{SPECIAL2}Oh! Das ist ... unglaublich!
+{NPC_ENTER:crazydave}{SPECIAL2}Oh! das war ... hypno-TASTISCH!
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_2]
-{EXCITED:crazydave}Ich will diesen verzauberten Taco nochmal! Ich brauche meine Zeitmaschine!
+{EXCITED:crazydave}Ich will den Hypno-Taco NOCH EINMAL essen! Wo ist meine ZEITMASCHINE?
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_3]
-{TIRED:crazydave}Was? Warte... was habe ich gesagt?
+{TIRED:crazydave}Was? Augenblick mal ... Was hab ich gerade gesagt?
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:crazydave}{NPC_ENTER:zombossicon}{SAY:zombossicon}Hypnotischer Zombie...Hypnotischer Zombie!
+{NPC_EXIT:crazydave}{NPC_ENTER:zombossicon}{SAY:zombossicon}Hypno-Zombnosis ... Hypno-ZOMBNOSIS!
 
 [NARRATIVE_FUTURE_OUTRO_ZOMBOSS_5]
-{SAY:zombossicon} Verdammt, sollte es nicht Zombieologie heißen?
+{SAY:zombossicon}Verflixt ... Oder war es Zombno-Hypsosis?
 
 [NARRATIVE_FUTURE_ZOMBIENOTE_1]
-{NPC_ENTER:crazydaveicon}{SAY} Irgendwas stimmt nicht. Kannst du kommen und es reparieren, Penny?
+{NPC_ENTER:crazydaveicon}{SAY}Das steht, es ist ein Fehler aufgetreten. Kannst du herkommen und das reparieren, Penny?
 
 [NARRATIVE_FUTURE_ZOMBIENOTE_2]
-{NPC_ENTER:winnieicon}{TIRED} Hast du versucht, den Stecker zu ziehen und wieder einzustecken?
+{NPC_ENTER:winnieicon}{TIRED}Hast du versucht, das Ding aus- und wieder einzustöpseln?
 
 [NARRATIVE_HEROES_EVENT_001_INTRO_1]
 {NPC_ENTER:GREENSHADOW}{SAY:GREENSHADOW}Blickt nach vorn, treue Anhänger!
@@ -80116,14 +80109,21 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]E_WARNING]
+[PVZ2_CHINESE_END]UM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]EONIUM_AVATAR_PLANTFOOD_DESCRIPTION]
+Ätherische Zombies, die durch die Spezialdünger-Fähigkeit explodieren, erhöhen die Betäubungsdauer anderer Zombies um 2 Sekunden.
+
+[NEWYEARREDPACKET_REWARDNAME]
+Oktober Münzen {NUMBER}  
+
+[PVP_ERROR_76030]
+Gegenstandsbetrug erkannt.
+
+[ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]]
+[PVZ2_CHINESE_END]G_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]den.
-
-[PVZ2_CHINESE_END]aden.
-
-[PVZ2_CHINESE_END]HINESE_END]
+[PVZ2_CHINESE_END]
