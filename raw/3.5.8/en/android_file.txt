@@ -19100,23 +19100,14 @@ Pflanze (Level 1) – Duplinator
 Pflanze (Level 1) – Drachenmäulchen
 
 [PRODUCT_PLANTTRIAL_6_DES]
-Pflanze (Level 1) – Kernapult
+Pflanze (Level 1) – Kornapult
 
 [PRODUCT_PLANTTRIAL_7_DES]
 Pflanze (Level 2) – S
 
 [PRODUCT_PLANTTRIAL_8_DES]
 Pflanze (Level 2) – Blitzschilf
-[PRODUCT_PLANTTRIAL_10_DES]
-[PRODUCT_PLANTTRIAL_11_DES]
-[PRODUCT_PLANTTRIAL_12_DES]
-[PRODUCT_PLANTTRIAL_13_DES]
-[PRODUCT_PLANTTRIAL_14_DES]
-[PRODUCT_PLANTTRIAL_15_DES]
-[PRODUCT_PLANTTRIAL_16_DES]
-[PRODUCT_PLANTTRIAL_17_DES]
-[PRODUCT_PLANTTRIAL_18_DES]
-[PRODUCT_PLANTTRIAL_19_DES]
+
 [PRODUCT_PLANTTRIAL_9_DES]
 Feuerkürbis (zweite Ebene)
 
@@ -19127,7 +19118,7 @@ Löwenzahn (zweite Ebene)
 Stern (zweite Ebene) Frucht
 
 [PRODUCT_PLANTTRIAL_12_DES]
-Pflanze Grapefruit (zweite Ebene)
+Pflanze Traubenschuss (zweite Ebene)
 
 [PRODUCT_PLANTTRIAL_13_DES]
 Pflanze Riesenpilz (zweite Ebene)
@@ -19136,13 +19127,13 @@ Pflanze Riesenpilz (zweite Ebene)
 Pflanze Flammenpilz (zweite Ebene)
 
 [PRODUCT_PLANTTRIAL_15_DES]
-Pflanze Lotusstrauch (zweite Ebene)
+Pflanze Lotus (zweite Ebene)
 
 [PRODUCT_PLANTTRIAL_16_DES]
-Pflanze Zitrone (zweite Ebene)
+Pflanze Zedrahte (zweite Ebene)
 
 [PRODUCT_PLANTTRIAL_17_DES]
-Pflanze Pfefferkrug (zweite Ebene)
+Pflanze Paprikatapult (zweite Ebene)
 
 [PRODUCT_PLANTTRIAL_18_DES]
 Pflanze Eichel (zweite Ebene)
@@ -24659,10 +24650,10 @@ Du hast nur eine Chance, {NAME} direkt zu vervollständigen!
 ￥{MONEY} Jetzt kaufen
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_1]
-Gib {COST_NUM} Yuan aus, um {PLANT_LEVEL} Level {PLANT_NAME} zu kaufen und {COIN_NUM} Münzen zusätzlich zu erhalten.
+Zahle {COST_NUM} für Level {PLANT_LEVEL}{PLANT_NAME} und {COIN_NUM} Münzen.
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_2]
-Gib {COST_NUM} Juwelen aus, um {PLANT_LEVEL} Level {PLANT_NAME} zu kaufen und {COIN_NUM} Münzen zusätzlich zu erhalten.
+Zahle {COST_NUM} für Level {PLANT_LEVEL}{PLANT_NAME} und {COIN_NUM} Münzen.
 
 [FREE_TIMES]
 Gratis x {NUMBER}
@@ -28165,18 +28156,19 @@ Du musst mit Google Play verbunden sein, um Erfolge und Ranglisten nutzen zu kö
 Nicht mit GOOGLE PLAY verbunden
 
 [GRAPESHOT]
-Explodierende Trauben
+Traubenschuss
+
 [GRAPESHOT_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Sofort wirksam
 {KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanze, Brüdergruppe
 
-{FLAVOR}„Zisch-knall!“, riefen die explodierenden Trauben begeistert. „Gefällt dir das Geräusch? Ich habe so viele! Wow-knall! Knall-knall! Klatsch... äh... schnapp... ähm... also, ich glaube, ich kenne nur diese drei.“
+{FLAVOR}„Spa-BOOM!“ geifert der Traubenschuss. „Gefällt dir das? Ich hab noch Millionen davon! Wa-POW! Buh-BLAM! Za-... äh ... Ker- ... hmmm ... okay, ich schätze, ich hab nur die drei.“
 
 [GRAPESHOT_DESCRIPTION_HEADER]
-Explodierende Trauben explodieren und schleudern Geschosse in acht Richtungen.
+Traubenschüsse explodieren und verschießen mehrfach abprallende Projektile in acht Richtungen.
 
 [GRAPESHOT_TOOLTIP]
-Explodieren und Geschosse schleudern
+Explodiert und streut abprallende Projektile
 
 [HES_GOT_YOUR_BACK]
 Pass auf, ob du hinter dir bist – und vor dir!
@@ -31619,43 +31611,43 @@ Geisterpfeffer
 Halte dich warm mit Torchwood! GOOGLE PLAY Jahresendangebot: 75% Rabatt!
 
 [PRODUCT_GRAPESHOT_DESCRIPTION]
-Explosioniere und zersplittere in springende Projektile!
+Explodiert und streut abprallende Projektile
 
 [PRODUCT_GRAPESHOT_NAME]
-Pflanze – Explodierende Trauben
+Pflanze – Traubenschuss
 
 [PRODUCT_GRAPESHOT_SHORT_DESCRIPTION]
-Explodierende Trauben
+Traubenschuss
 
 [PRODUCT_HOMINGTHISTLE_DESCRIPTION]
 Feuere auf den Zombie, der dem Haus am nächsten ist.
 
 [PRODUCT_HOMINGTHISTLE_NAME]
-Pflanze – Bitterkraut verfolgen
+Pflanze – Lenkdistel
 
 [PRODUCT_HOMINGTHISTLE_SHORT_DESCRIPTION]
-Bitterkraut verfolgen
+Lenkdistel
 
 [PRODUCT_HURRIKALE_DESCRIPTION]
-Schlag alle Zombies in einer Reihe zurück und friere sie ein!
+Puste alle Zombies in der Reihe zurück und kühle sie richtig herunter!
 
 [PRODUCT_HURRIKALE_NAME]
-Pflanze – Hurrikan-Kohl
+Pflanze – Hurrikohl
 
 [PRODUCT_HURRIKALE_SHORT_DESCRIPTION]
-Hurrikan-Kohl
+Hurrikohl
 
 [PRODUCT_HYPNOSHROOM_DESCRIPTION]
-Mach Zombies zu Verbündeten!
+Macht Zombies die ihn essen zu Verbündeten!
 
 [PRODUCT_HYPNOSHROOM_NAME]
-Pflanze – Hypnotischer Pilz
+Pflanze – Hypnopilz
 
 [PRODUCT_HYPNOSHROOM_SHORT_DESCRIPTION]
-Hypnotischer Pilz
+Hypnopilz
 
 [PRODUCT_JACKOLANTERN_DESCRIPTION]
-Spuckt Flammen aus nächster Nähe
+Feuert Flammenstöße über kurze Distanz!
 
 [PRODUCT_JACKOLANTERN_NAME]
 Pflanze – Kürbislaterne
@@ -31664,7 +31656,7 @@ Pflanze – Kürbislaterne
 Kürbislaterne
 
 [PRODUCT_LAVAGUAVA_DESCRIPTION]
-Explosion und Lava, die Zombies verbrennt!
+Bricht aus und hinterlässt Lava, um Zombies zu verbrennen!
 
 [PRODUCT_LAVAGUAVA_NAME]
 Pflanze – Lava-Guave
@@ -31673,7 +31665,7 @@ Pflanze – Lava-Guave
 Lava-Guave
 
 [PRODUCT_NEW_USER_BUNDLE_DESCRIPTION]
-Benutze scharfe Paprika, 50 Edelsteine und 5000 Goldmünzen, um neue Herausforderungen zu meistern!
+Benutze Paprikatapult, 50 Edelsteine und 5000 Goldmünzen, um neue Herausforderungen zu meistern!
 
 [PRODUCT_NEW_USER_BUNDLE_NAME]
 Geschenkpaket – Einsteigerpaket
@@ -31682,46 +31674,46 @@ Geschenkpaket – Einsteigerpaket
 Einsteigerpaket
 
 [PRODUCT_PEANUT_DESCRIPTION]
-Pflanzen mit offensiven und defensiven Fähigkeiten!
+Angriff und Verteidigung in einer Pflanze vereint!
 
 [PRODUCT_PEANUT_NAME]
-Pflanze – Erdnüsse
+Pflanze – Erbs-Nuss
 
 [PRODUCT_PEANUT_SHORT_DESCRIPTION]
-Erdnusswand
+Erbs-Nuss
 
 [PRODUCT_REFORESTATION_DESCRIPTION]
-Baue einen Wald mit einem Harzkrug, der Zombies verlangsamt, 10.000 Goldmünzen und 5 Setzlingen!
+Baue einen Wald mit einem Saftling, der Zombies verlangsamt, 10.000 Goldmünzen und 5 Setzlingen!
 
 [PRODUCT_REFORESTATION_NAME]
-Harzkrug-Waldpaket
+Saftling-Waldpaket
 
 [PRODUCT_REFORESTATION_SHORT_DESCRIPTION]
-Harzkrug-Waldpaket
+Saftling-Waldpaket
 
 [PRODUCT_SAPFLING_DESCRIPTION]
-Verwende Harz, um Zombies zu verlangsamen!
+Verlangsame Zombies mit literweise Sirup!
 
 [PRODUCT_SAPFLING_NAME]
-Pflanze – Harzkrug
+Pflanze – Saftling
 
 [PRODUCT_SAPFLING_SHORT_DESCRIPTION]
-Harzkrug
+Saftling
 
 [PRODUCT_SHRINKINGVIOLET_DESCRIPTION]
-Schrumpfe und schwäche Zombies!
+Schrumpft und schwächt Zombies!
 
 [PRODUCT_SHRINKINGVIOLET_NAME]
-Pflanze – Schrumpfendes Veilchen
+Pflanze – Schrumpf-Veilchen
 
 [PRODUCT_SHRINKINGVIOLET_SHORT_DESCRIPTION]
-Schrumpfendes Veilchen
+Schrumpf-Veilchen
 
 [PRODUCT_SHRINKINGVIOLETBUNDLE_DESC]
-Weiche der Gefahr nicht aus! Stärke dich mit 20.000 Gold und Schrumpfendes Veilchen!
+Weiche der Gefahr nicht aus! Stärke dich mit 20.000 Gold und Schrumpf-Veilchen!
 
 [PRODUCT_SHRINKINGVIOLETBUNDLE_NAME]
-Schrumpfendes Veilchen-Geschenkpaket
+Schrumpf-Veilchen-Geschenkpaket
 
 [PRODUCT_SPROUTS1_DESCRIPTION]
 Pflanze Setzlinge für deinen Garten!
@@ -31801,10 +31793,11 @@ Brennender Wasabi-Boost-Bundle
 Schlag alles rein!
 
 [PRODUCT_WASABIWHIP_NAME]
-Pflanze – Brennender Wasabi
+Pflanze – Wasabi-Peitsche
 
 [PRODUCT_WASABIWHIP_SHORT_DESCRIPTION]
-Brennender Wasabi
+Wasabi-Peitsche
+
 [PROGRESS_BEACH_DANGER_DESC]
 Die Party hört nie auf. Vorsicht, verbrennt euch nicht!
 
@@ -31894,6 +31887,7 @@ Fordere den Schatz der Toten heraus!
 
 [PURCHASE_BOOST]
 Boost
+
 [PURCHASE_COSTUMES_WITH_GEMS]
 Pflanzenformen werden nicht zwischen Profilen geteilt.
 
@@ -31917,15 +31911,19 @@ Sie haben Ihren Kauf abgebrochen.
 
 [PURCHASE_DIALOG_CANCELLED_HEADER]
 Kauf abgebrochen
+
 [PURCHASE_ERROR_DEFERRED_TRANSACTION_CONFLICT]
 Sie haben bereits eine laufende Transaktion für dieses Produkt.
 
 [PURCHASE_ERROR_INSUFFICIENT_GEMS]
 Ups, du hast nicht genug Edelsteine! Suche im Level nach Edelsteinen oder kaufe sie im Shop!
+
 [PURCHASE_ERROR_INVALID_SKU]
 Die gewünschte Artikelnummer ist im Katalog nicht zu finden.
+
 [PURCHASE_PENDING]
 Wartend
+
 [PURCHASE_RECLAIM_ITEM_BODY]
 Dieser Artikel wurde bereits in einem anderen Profil gekauft. Hol ihn dir kostenlos für das aktuelle Profil!
 
@@ -32032,7 +32030,7 @@ Ups! Du musst zusätzliche Inhalte herunterladen, um das Reisetagebuch zu aktivi
 Ups! Du musst „Altes Ägypten – Tag 2“ abschließen, um das Reisetagebuch zu aktivieren.
 
 [QUESTS_DISABLED_HEADER]
-Schließe „Geheimnisvolles Ägypten – Tag 2“ ab.
+Schließe „Altes Ägypten – Tag 2“ ab.
 
 [QUESTS_DISABLED_LEVEL_COMPLETION]
 Ups! Reisetagebuch kann noch nicht aktiviert werden.
@@ -32056,7 +32054,7 @@ Verbindungsfehler
 Gib Münzen aus, um es erneut zu versuchen, oder sieh dir eine Anzeige an, um es kostenlos erneut zu versuchen.
 
 [RETRY_AD_HEADER]
-Neustart?
+Neustarten?
 
 [RETRY_FOR_AD]
 Anzeige ansehen, um es erneut zu versuchen.
@@ -32313,9 +32311,11 @@ Schickt Zombies an ihren Ausgangspunkt zurück
 Die Time Twist Piñata-Party beginnt!
 
 [TRAVEL_LOG_CARD]
-Reisetagebuch
+Reiseklotz
+
 [UNIVERSE_DIFFICULTY]
 Schwierigkeit
+
 [UNLOCK_BEACH_DESC]
 Schalte mit dem Weltschlüssel das Level „Horror-Feiertage“ in „Big Wave Beach“ frei!
 
@@ -32750,13 +32750,13 @@ Freischalten
 Dieser Schlüssel schaltet neue Welten frei!
 
 [WORLDKEY_GIFT_COMPLETIONIST_BODY_TEXT]
-Schnapp dir deine Schlüssel! Du könntest sie in der nächsten Reisetagebuch-Quest brauchen.
+Schnapp dir deine Schlüssel! Du könntest sie in der nächsten Reiseklotz-Quest brauchen.
 
 [WORLDKEY_GIFT_MIDPLAYER_BODY_TEXT]
-Sieh dir deine empfohlenen Ziele im Reisetagebuch an.
+Sieh dir deine empfohlenen Ziele im Reiseklotz an.
 
 [WORLDKEY_GIFT_NEWPLAYER_BODY_TEXT]
-Dieser Schlüssel schaltet neue Welten frei! Sieh dir deine empfohlenen Ziele im Reisetagebuch an.
+Dieser Schlüssel schaltet neue Welten frei! Sieh dir deine empfohlenen Ziele im Reiseklotz an.
 
 [WORLDKEY_GIFT_TITLE_TEXT]
 Hallo Zeitreisender! Hier ist ein kostenloser Weltenschlüssel.
@@ -47656,7 +47656,7 @@ Töte 500 Zombies in Penny-Jagd.
 Setze 50 Spezialdünger-Fähigkeiten in Penny-Jagd ein.
 
 [TRAVELLOG]
-Reisetagebuch
+Reiseklotz
 
 [TRAVEL_LOG_DAILY_TASK]
 Tägliche Aufgaben
@@ -47665,7 +47665,7 @@ Tägliche Aufgaben
 Besondere Ereignisse
 
 [TRAVEL_LOG_WORLD_TASK]
-Weltaufgaben
+Welt
 
 [TRAVEL_LOG_PROGRASS]
 Fortschritt
@@ -63793,7 +63793,6 @@ Ein Mann ist ein Teenager, bis er stirbt.
 Hühnersuppe ist da.
 
 [MEMORY_LEVEL_NAME_014_H]
-EMORY_LEVEL_NAME_014_H]
 Die Liebe boomt.
 
 [MEMORY_LEVEL_NAME_015_H]
@@ -63990,7 +63989,6 @@ Kevin – Allein zu Haus
 Der Winter naht
 
 [S8_MEMORY_LEVEL_NAME_014_H]
-Y_LEVEL_NAME_014_H]
 Gemeinsam stark
 
 [S8_MEMORY_LEVEL_NAME_015_H]
@@ -64029,7 +64027,7 @@ Kein Platz für Alte
 [S9_MEMORY_LEVEL_NAME_008_H]
 Kein Platz für Alte Menschen
 
-[S9_MEMORY_LEVEL_NAME_009_H] MORY_LEVEL_NAME_010_H]
+[S9_MEMORY_LEVEL_NAME_009_H]
 Süßer Tod
 
 [S9_MEMORY_LEVEL_NAME_011_H]
@@ -64122,7 +64120,7 @@ Münze des Schicksals
 [S11_MEMORY_LEVEL_NAME_004_H]
 Plan zur Zombie-Vervollständigung Plan
 
-[S11_MEMORY_LEVEL_NAME_004_H] E_005_H]
+[S11_MEMORY_LEVEL_NAME_004_H]
 Schieben und Ziehen
 
 [S11_MEMORY_LEVEL_NAME_006_H]
@@ -64334,25 +64332,6 @@ Nebeltruppler
 Indiana Zombie
 
 [S15_MEMORY_LEVEL_NAME_011_H]
-Indiana-Zombie
-
-[S15_MEMORY_LEVEL_NAME_012_H]
-Industrielle Revolution
-
-[S15_MEMORY_LEVEL_NAME_007_H]
-Aristokratisches Temperament
-
-[S15_MEMORY_LEVEL_NAME_008_H]
-Pioniergeist
-
-[S15_MEMORY_LEVEL_NAME_009_H]
-Nebeltruppler
-
-[S15_MEMORY_LEVEL_NAME_010_H]
-Indiana-Zombie
-
-[S15_MEMORY_LEVEL_NAME_013_H]
-Indiana-Zombie RY_LEVEL_NAME_011_H]
 Mysteriöser Zombiekönig
 
 [S15_MEMORY_LEVEL_NAME_012_H]
@@ -80052,5 +80031,36 @@ Gegenstandsbetrug erkannt.
 
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]EONIUM_AVATAR_PLANTFOOD_DESCRIPTION]
+Ätherische Zombies, die durch die Spezialdünger-Fähigkeit explodieren, erhöhen die Betäubungsdauer anderer Zombies um 2 Sekunden.
+
+[NEWYEARREDPACKET_REWARDNAME]
+Oktober Münzen {NUMBER}  
+
+[PVP_ERROR_76030]
+Gegenstandsbetrug erkannt.
+
+[ZOMBOSS_QIGONG_CURE_WARNING]
+Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]en.
+
+[PVZ2_CHINESE_END]ESE_END]Z2_CHINESE_END]END]D]INESE_END]]D]D]D]n.
+
+[PVZ2_CHINESE_END]ESE_END]E_END]END]n die Betäubungsdauer anderer Zombies um 2 Sekunden.
+
+[NEWYEARREDPACKET_REWARDNAME]
+Oktober Münzen {NUMBER}  
+
+[PVP_ERROR_76030]
+Gegenstandsbetrug erkannt.
+
+[ZOMBOSS_QIGONG_CURE_WARNING]
+Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]unden zum Aufladen.
 
 [PVZ2_CHINESE_END]
