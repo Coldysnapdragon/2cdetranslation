@@ -8332,7 +8332,7 @@ Rafflesia kann den letzten Zombie vor ihm angreifen.
 Tornado-Eichel kann die Zombiereihe vor ihm angreifen und Walross-Zombies schwer beschädigen.
 
 [XSHOT_PRODUCT_SHORT_DESC]
-Die Spinnende Rübe kann Projektile in vier Richtungen gleichzeitig abfeuern.
+Die Roto-Rübe kann Projektile in vier Richtungen gleichzeitig abfeuern.
 
 [SUGARCANE_PRODUCT_SHORT_DESC]
 Der Zuckerrohr kann herannahende Zombies aufhalten und sie am Vorrücken hindern.
@@ -20354,10 +20354,10 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {EXCITED:crazydave}{SAY}Probiert die neu eingetroffene Grapefruit. Sie verursacht starken Schaden an einzelnen Zielen, und ihre Spezialdünger-Fähigkeit kann den mechanischen Gargantua effektiv zurückhalten.
 
 [NARRATIVE_PLANTTRIAL_FUMESHROOM_INFO_1]
-{NPC_ENTER:crazydave}{SAY}Vor uns befindet sich ein Clown-Zombie. Er wehrt unsere Fernkampfangriffe ab.
+{NPC_ENTER:crazydave}{SAY}Vor uns befindet sich ein Hoffnar-Zombie. Er wehrt unsere Fernkampfangriffe ab.
 
 [NARRATIVE_PLANTTRIAL_FUMESHROOM_INFO_2]
-{EXCITED:crazydave}{SAY}Probiert den neuen Stinkpilz aus. Sein Angriff kann gegen den Schaden des Clown-Zombies immun sein.
+{EXCITED:crazydave}{SAY}Probiert den neuen Stinkpilz aus. Sein Angriff kann gegen den Schaden des Hoffnar-Zombies immun sein.
 
 [NARRATIVE_PLANTTRIAL_LOTUSSHOWER_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Fischerzombie gefunden. Er wird uns von hinten angreifen.
@@ -21537,6 +21537,7 @@ Die Spinnende Ananas kann Zombies blockieren und weitreichende Projektile abwehr
 [PINEAPPLE_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Kann Projektile abwehren, indem sie sich dreht.
 {KEYWORD}Pflanzenmerkmale:{STAT}Gelbe Pflanze, Zyklonfamilie, fliegende Pflanze.
+
 {FLAVOR}Um seinen Traum vom Fliegen zu verwirklichen, ließ sich Pineapple von den Zeichentrickfilmen inspirieren, die er als Kind sah: Er verwandelte die Blätter auf seinem Kopf in eine Bambuslibelle und hoffte, frei durch die Luft fliegen zu können. Wie man sieht, war diese skurrile Idee erfolgreich! Allerdings ist auch der Nebeneffekt offensichtlich: Er muss sich ab und zu drehen, um den Druck auszugleichen, der durch die Rotation der Blätter entsteht.
 
 [PINEAPPLE_TOOLTIP]
@@ -21574,6 +21575,7 @@ Elektro-Blaubeere
 
 [ELECTRICBLUEBERRY_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze, 100.000 Volt
+
 {FLAVOR} Die Elektro-Blaubeere ist elektrisch UND eklektisch. „Ich liebe es, meine Feinde zu überraschen“, sagt sie. „Der letzte Gedanke, den ein Zombie hat, sollte ‚Wow, was war das denn‘ lauten.“
 
 [ELECTRICBLUEBERRY_DESCRIPTION_HEADER]
@@ -21669,6 +21671,8 @@ Spezialdünger-Fähigkeittiv erhält eine stärkere Kristallrüstung.
 Endurian
 
 [ENDURIAN_DESCRIPTION]
+{KEYWORD}Besonderheit:{STAT}Verursacht Schaden bei Nähe zu Zombies
+
 {FLAVOR}„Wenn andere Pflanzen über mich sprechen, sagen sie, ich sei zu schroff. Sie sagen, dass man nur schwer auf mich eingehen könne, da ich niemanden an mich ran ließe. Außerdem soll ich schrecklich stinken", sagt der Endurian. In seinem tiefsten Inneren weiß er jedoch, dass damit nicht alles gesagt ist. Er ist nämlich auch sehr schnell reizbar.
 
 [ENDURIAN_DESCRIPTION_HEADER]
@@ -21844,8 +21848,8 @@ Agave kann Zombies zwei Felder weiter vorne angreifen und Zombies mit Kopfpanzer
 
 [AGAVE_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Fügt Zombies mit Kopfpanzerung zusätzlichen Schaden zu.
-
 {KEYWORD}Pflanzenmerkmale:{STAT}Grüne Pflanze, hohe Kampfkünste
+
 {FLAVOR}„Wenn Meister kämpfen, entscheidet sich der Ausgang oft in Sekundenbruchteilen. Diese raffinierte Schwertkunst ist nicht der Rede wert.“ Wenn jemand dieses „epische“ Duell erwähnt, reagiert Agave verächtlich. Tatsächlich weiß jeder, dass Agave und Rosen Schwertkämpfer nur Schere-Stein-Papier gespielt haben.
 
 [AGAVE_TOOLTIP]
@@ -21934,6 +21938,7 @@ Kiwi kann sich in einen goldenen Reifen verwandeln, um den nächsten Zombie anzu
 [KIWIFRUIT_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Kann Zombies in Angriffsreichweite kontinuierlich Schaden zufügen.
 {KEYWORD}Pflanzenmerkmale:{STAT}Grüne Pflanze, starke Kampfkünste
+
 {FLAVOR}„Der große Weise, gleich Himmel, kämpfender Buddha, Affenkönig …“ Kiwi möchte alle Titel zeigen, um sich selbst zu repräsentieren. Doch die Realität ist immer grausam. In den Augen der Zombies ist er nur eine essbare Frucht … das ist alles …
 
 [KIWIFRUIT_TOOLTIP]
@@ -21947,6 +21952,7 @@ Drachenfrucht
 
 [DRAGONFRUIT_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze, voller Wut
+
 {FLAVOR}Drachenfrucht ist seit ihrer Kindheit ängstlich, weil sie ständig die Samen in ihrem Fleisch zählen möchte. Sie wird auch schnell wütend, weil die Leute immer vermuten, dass sie etwas mit schwarzem Sesam zu tun hat. Später hat sie es herausgefunden und alle Probleme den Zombies überlassen!
 
 [DRAGONFRUIT_DESCRIPTION_HEADER]
@@ -21994,6 +22000,7 @@ Engelssternfrucht
 [PINKSTARFRUIT_DESCRIPTION]
 {KEYWORD}Reichweite: {STAT}Feuer in zehn Richtungen
 {KEYWORD}Pflanzeneigenschaften: {STAT}Rosa Pflanze, rote Pflanze, klein
+
 {FLAVOR}Die Prinzessin der rosa Engelssternfrucht blickt von einem kleinen Platz aus auf die Sternfrucht herab. Sie findet, die Sternfrucht sei zu faul, um sich überhaupt zu drehen, was ihr zu einfach sei.
 
 [PINKSTARFRUIT_DESCRIPTION_HEADER]
@@ -22041,6 +22048,7 @@ Flammenblumenkönigin
 [FLAMELADY_DESCRIPTION]
 {KEYWORD}Merkmale: {STAT}Höherer Schaden an Gegnern in der Nähe.
 {KEYWORD}Pflanzenmerkmale: {STAT}Rote Pflanze, voller Feuer, voller Wut.
+
 {FLAVOR}„Aus der Ferne betrachtet, ist die Flammenblumenkönigin vielleicht die eleganteste und zurückhaltendste Pflanze, die ich je gesehen habe. Doch wenn man näher kommt, erkennt man, dass sie einfach ein weiblicher Dinosaurier ist, der Feuer speit.“ – Die letzten Worte eines Zombieforschers (Todesursache: Von den Wachen der Göttin zu Tode geprügelt, weil sie es wagte zu behaupten, die Flammenblume sei ein Dinosaurier)
 
 [FLAMELADY_DESCRIPTION_HEADER]
@@ -22088,6 +22096,7 @@ Match Flower Boxer
 [MATCHFLOWER_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT} Sie entzündet sich im Kampf spontan und kann auch von anderen Pflanzen entzündet werden. Nach dem Feuer kann sie auch Erbsen entzünden.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanze, voller Feuer, voller Wut
+
 {FLAVOR}Fackelstumpf möchte immer allen erzählen, dass Streichholzblume sein Nachkomme ist. Streichholzblume kann aber nicht nur Erbsen anzünden, sondern ist auch ein Krieger, der mit seinen Fäusten spricht – viel besser als Fackelstumpf, der nur mit seinem grimmigen Blick Feinde erschreckt.
 
 [MATCHFLOWER_DESCRIPTION_HEADER]
@@ -22134,6 +22143,7 @@ Maschinengewehr-Erbse
 
 [GATLINGPEA_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}grüne Pflanze, Erbsengewächse
+
 {FLAVOR}Bei einer Explosion in einem Forschungszentrum wurde ein Schilfrohr vom Blitz getroffen, wodurch es zum Blitz-Schilfmann wurde. Gleichzeitig wurde auch der Erbsenschütze, der das Maschinengewehr bediente, getroffen. So entstand unser neuer Superheld – die Maschinengewehr-Erbse.
 
 [GATLINGPEA_DESCRIPTION_HEADER]
@@ -22714,6 +22724,7 @@ Roter Stachler
 
 [REDSTINGER_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} Rote Pflanze
+
 {FLAVOR}Flexibilität ist die große Stärke des Roten Stachlers. „Ich mache jeden Morgen Dehnübungen", sagt er. „Es ist wichtig, mental und körperlich agil zu bleiben."
 
 [REDSTINGER_DESCRIPTION_HEADER]
@@ -22769,13 +22780,9 @@ Lava-Guave
 
 [LAVAGUAVA_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}Einfache Verwendung, bei Kontakt
-
 {KEYWORD}Besonderheit: {STAT}Bricht aus und beschädigt Zombies in der Nähe
-
 {KEYWORD}Besonderheit: {STAT}Verursacht ein Pfütze brennender Lava auf ihrem Feld
-
 {KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze, voller Wut
- 
 
 {FLAVOR}Die Lava-Guave kann ihre Wut kaum unterdrücken. Sie versucht es. Wirklich. Aber eines Tages wird ein Zombie sie zur Eruption bringen, und dann kann sie für nichts garantieren!
 
@@ -26724,7 +26731,7 @@ Besiege Jetpack-Zombies!
 Sie reißen anderen Zombies oft die Kostümer vom Leib!
 
 [DEFEAT_JUGGLER_REPEATABLE_TITLE]
-Besiege Clown-Zombies!
+Besiege Hoffnar-Zombies!
 
 [DEFEAT_KING_REPEATABLE_DESC]
 Sie weigern sich, den Beherrschten zuzustimmen!
@@ -28188,6 +28195,7 @@ Goldblüte
 [GOLDBLOOM_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Einmalige Anwendung, sofort wirksam
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR}„Ihr Botaniker denkt immer darüber nach, ob ihr es schafft“, sagte Goldblüte, ohne sich auf irgendetwas oder irgendjemanden zu beziehen, „aber ihr denkt nie darüber nach, ob ihr es solltet.“
 
 [GOLDBLOOM_DESCRIPTION_HEADER]
@@ -31090,6 +31098,7 @@ Fette Bete
 
 [PHATBEET_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} Rote Pflanze
+
 {FLAVOR} Die Fette Bete steht für krasse Reime, dope Beats und Killer-Kombos – in Personalunion.
 
 [PHATBEET_DESCRIPTION_HEADER]
@@ -31130,11 +31139,11 @@ Schatz der Toten
 
 [PLAYERS_TRIP_TO_EIGHTIES]
 {PLAYER}: Abstecher zur Neon-Mixtape-Tour
+
 [PLAYERS_TRIP_TO_HOLIDAY]
-
 {PLAYER}s Festmahl!
-[PLAYERS_TRIP_TO_LOD]
 
+[PLAYERS_TRIP_TO_LOD]
 {PLAYER}s Piñata-Party!
 
 [PLAYERS_TRIP_TO_LOD_BIRTHDAY]
@@ -32188,11 +32197,8 @@ Schrumpf-Veilchen
 
 [SHRINKINGVIOLET_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT} Einfache Verwendung, wird bei Kontakt ausgelöst
-
 {KEYWORD}Reichweite: {STAT} Beeinflusst Zombies auf angrenzenden Feldern
-
 {KEYWORD}Besonderheit: {STAT} Schrumpft Wichte bis zur Unkenntlichkeit 
-
 {KEYWORD}Pflanzeneigenschaften: {STAT}Lila Pflanze, kleiner Wuchs
 
 {FLAVOR}Das Schrumpf-Veilchen war mal sehr schüchtern. Aber es ist beachtlich, wie es an Selbstbewusstsein gewonnen hat, seitdem es die Fähigkeit zum Zombie-Schrumpfen entdeckte.
@@ -32363,7 +32369,6 @@ Eigenthymian
 [THYMEWARP_DESCRIPTION]
 {KEYWORD}Nutzung: {STAT}einfache Nutzung, sofortige Wirkung
 {KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
-
 {KEYWORD}Besonderheit: {STAT}Zurückgesetzte Zombies haben wieder volle Gesundheit
 
 {FLAVOR}„Sein Denkweisen andere für offen müssen wir“, sagt der Eigenthymian. „Ist Einbahnstraße keine Zeit die dass, gewusst immer habe ich.“
@@ -35585,7 +35590,6 @@ Meister Zuckerrohr
 
 [DRAGONCANE_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT}Benutze doppelte Zuckerrohrstäbe, um mehrere Zombies anzugreifen.
-
 {KEYWORD}Pflanzeneigenschaften: {STAT}Lila Pflanze, starke Kampfkünste.
 
 {FLAVOR}Meister Zuckerrohr ist außerdem ein fanatischer Bruce-Lee-Fan. Um seinen Respekt für sein Idol auszudrücken, praktiziert er seit seiner Kindheit Zuckerrohrboxen und ist sehr gut im Umgang mit doppelten Zuckerrohrstäben. Bruce Lee zu imitieren ist seine Lieblingsbeschäftigung, so sehr, dass er jetzt nur noch „Ah Da! Ah Da!“ sagen kann.
@@ -35618,7 +35622,6 @@ Primitive Rafflesia
 
 [PRIMALRAFFLESIA_DESCRIPTION]
 {KEYWORD}Merkmale: {STAT}Beim Angriff auf Zombies hinterlässt sie eine Pfütze aus verlangsamendem Gift.
-
 {KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanze, kleinwüchsig
 
 {FLAVOR}Als Gewinnerin der Auszeichnung „Hässlicher, mächtiger“ im Pflanzenweltranking konnte die Primitive Rafflesia nur seufzen, als sie ihren wenig vielversprechenden Nachwuchs sah: „Ich hätte nicht gedacht, dass selbst ihre Kampfkraft nach dem Haarausfall nachlässt. Kampfkraft ist nichts, womit man prahlen kann.“
@@ -36054,6 +36057,7 @@ Der Weiße-Melonen-Sumoringer nutzt statische Bremsen, um Zombies kraftvoll abzu
 [WHITEMELON_DESCRIPTION]
 {KEYWORD}Merkmale: {STAT}Zombies unterschiedlicher Größe werden aus unterschiedlichen Entfernungen abgewehrt.
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze, Sumo-Meister, leidenschaftliche junge Menschen.
+
 {FLAVOR}Der Weiße-Melonen-Sumoringer ist ein leidenschaftlicher junger Mann, der die Sumo-Industrie liebt. Er arbeitet jeden Tag hart daran, seine Sumo-Fähigkeiten zu verbessern, denn er träumt davon, mit seinen Sumo-Fähigkeiten „die Welt zu beherrschen“!
 
 [RECHARGEBUNDLE_DISCOUNT]
@@ -38405,11 +38409,13 @@ Pflanzenlexikon
 Pflanzenlexikon-Belohnung
 
 [ALOES]
-Aloe Vera Arzt
+Aloe Vera
 
 [ALOES_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR} Aloe Vera ist bei wichtigen Kosmetikneuheiten im Fokus und nutzt die Gelegenheit, für ihr Produkt „Aloe Vera Wasser“ zu werben. In diesem Jahr ist die aufhellende Wirkung der Aloe Vera auf dem gesamten Hautpflegemarkt ein Thema.
+{FLAVOR}Sie hat einen Neuen Namen bekommen mit dem Titel "Vera" da sie ihre Heilkräfte verbessert hat.
 
 [ALOES_DESCRIPTION_HEADER]
 Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
@@ -38452,6 +38458,7 @@ Eislotus
 
 [ICELOTUS_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} Weiße Pflanze
+
 {FLAVOR} Als Mitglied der Feuerwehr hat der Eislotus eine extreme Leidenschaft für die Brandbekämpfung. Er verträgt selbst kleinste Flammen nicht und hat sogar Eiswasser zur Hand, um heiße Gegenstände abzukühlen.
 
 [ICELOTUS_DESCRIPTION_HEADER]
@@ -38486,6 +38493,7 @@ Dendrobium
 
 [DENDROBIUMGUARD_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} grüne Pflanze
+
 {FLAVOR} Dendrobium-Windschutze sind stets windbeständig und bieten der dahinter stehenden Pflanzenfamilie Schutz vor Windschäden.
 
 [DENDROBIUMGUARD_DESCRIPTION_HEADER]
@@ -38525,8 +38533,9 @@ Wenn Blätter vorhanden sind, besteht die Chance, Zombies bei einem Angriff abzu
 Granatapfelhändler
 
 [GRANATAPFEL_BESCHREIBUNG]
-{SCHLÜSSELWORT}Pflanzeneigenschaften: {STAT} Grüne Pflanze
-{GESCHMACK} Aloe Vera war bereits bei großen Kosmetik-Produktneueinführungen zu sehen und nutzte die Gelegenheit, für ihr Produkt „Aloe Vera Wasser“ zu werben. In diesem Jahr dreht sich im gesamten Hautpflegemarkt alles um die Aufhellung der Haut – die Stärke von Aloe Vera.
+{KEYWORD}Pflanzeneigenschaften: {STAT} Grüne Pflanze
+
+{FLAVOR} Aloe Vera war bereits bei großen Kosmetik-Produktneueinführungen zu sehen und nutzte die Gelegenheit, für ihr Produkt „Aloe Vera Wasser“ zu werben. In diesem Jahr dreht sich im gesamten Hautpflegemarkt alles um die Aufhellung der Haut – die Stärke von Aloe Vera.
 
 [POMEGRANATE_DESCRIPTION_HEADER]
 Kann den giftigen Nebel des Parfümeur-Zombies reinigen und die Angriffskraft der umliegenden Pflanzen erhöhen.
@@ -38670,7 +38679,9 @@ Donnerdrachengras
 
 [THUNDERSNAPDRAGON_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Blaue Pflanze, 100.000 Volt
+
 {FLAVOR} Donnerdrachengras, ein Mitglied der Blitzfamilie, behauptet, aus Asgard zu stammen. Es ist ein berüchtigter Tyrann in der Familie und murmelt ständig: „Ich bin ein Donnerdrache.“ „Alle sagen, ich sehe aus wie Feuerdrachengras, aber ich habe nichts damit zu tun. Ich sehe viel besser aus als der Typ!“, sagte es verächtlich.
+
 [THUNDERSNAPDRAGON_DESCRIPTION_HEADER]
 Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
 
@@ -39679,7 +39690,6 @@ Die Kürbislaterne ist zurück – nur für kurze Zeit!
 [JACKOLANTERN_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} Orange Pflanze, voller Wut
 {KEYWORD}Nutzung: {STAT}Einmal antippen für Einzel-Flammenstoß, halten für mächtigeren Flammenstrahl
-
 {KEYWORD}Besonderheit: {STAT}Feuerkraft lädt mit der Zeit nach
 
 {FLAVOR} „Buh! Hahaharharhaaaa!“ gröhlt die Kürbislaterne. Tja, wenn sie in der Nähe ist, wird es ernsthaft gruselig. Verlass dich drauf.
@@ -41347,6 +41357,7 @@ Heavendatura
 {KEYWORD}Reichweite: {STAT}Ein Feld vorn bis 5×5
 {KEYWORD}Merkmale: {STAT}Resonante Schallwellen werden erzeugt, wenn Projektile durchschlagen.
 {KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze
+
 {FLAVOR}Heavendatura kann sich an gehörte Geräusche erinnern und sie in seinem Gedächtnis reproduzieren. Daher ist es ein großer Fan vieler Bands geworden.
 
 [HEAVENDATURA_DESCRIPTION_HEADER]
@@ -41413,6 +41424,7 @@ Sonne-und-Mond-Geißblatt
 {KEYWORD}Reichweite: {STAT} Die vordere Reihe der goldenen Blume, der Vollbildmodus der silbernen Blume
 {KEYWORD}Merkmale: {STAT} Die goldene Blume beschwört die Sonne, um Feuerschaden zu verursachen, die silberne Blume beschwört den Mond, um Eisschaden zu verursachen.
 {KEYWORD}Pflanzenmerkmale: {STAT} Gelbe Pflanze, blaue Pflanze
+
 {FLAVOR} Das Geißblatt ist ein Zwillingsschwesternpaar, das während seines Wachstums die Kraft der Sonne bzw. des Mondes erlangte.
 
 [TWINSHONEYSUCKLE_DESCRIPTION_HEADER]
@@ -41760,6 +41772,7 @@ Venusschuh
 {KEYWORD}Reichweite: {STAT}Einzelne Zeile
 {KEYWORD}Eigenschaften: {STAT}Wirft zufällige Gegenstände
 {KEYWORD}Pflanzeneigenschaften: {STAT}Rosa Pflanze
+
 {FLAVOR}Niemand weiß, wie viel in die Tasche von Venusschuh passt. Die Bambuslibelle von Laserbohne, die Augenmaske von der Kartoffelmine … Jeder freut sich immer auf die nächste „Überraschung“ in der Tasche. Vielleicht verwandelt sie sich ja irgendwann in ein Portal. Selbst Zombies äußern sich selten positiv über den Venusschuh. Zumindest sind die Snacks lecker.
 
 [PAPHIOPEDILUM_DESCRIPTION_HEADER]
@@ -46032,6 +46045,7 @@ Schiebt den Zombie zum letzten Feld
 [PLANTAIN_DESCRIPTION]
 {KEYWORD}Features: {STAT}Schiebt den Zombie zum letzten Feld
 {KEYWORD}Pflanzenfeatures: {STAT}Grüne Pflanze
+
 {FLAVOR} Zur Feier des fünften Jubiläums luden die Organisatoren Bajiao, die berühmteste Tänzerin der Pflanzenwelt, als Ehrengästin ein. Obwohl Bajiao ein Superstar in der Pflanzenwelt ist, engagiert sie sich sehr für wohltätige Zwecke. Sie spendete ihre gesamten Auftrittshonorare an Pflanzenhilfsorganisationen, was ihr einhelligen Lob einbrachte. Dieses Mal präsentierte Bajiao ihren neu kreierten traditionellen Fächertanz, und der Traffic von diesem Themas erreichte sofort den ersten Platz in der Zhidu.com-Suche. Wenn ihr ihren Stil sofort erleben wollt, schnappt euch rechtzeitig euer Ticket!
 
 [PLANTAIN_TOOLTIP]
@@ -46073,7 +46087,9 @@ Nach dem Sieg über einen Zombie kann der nächste normale Angriff einen Spezial
 [PINECONE_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Nach dem Sieg über einen Zombie kann der nächste normale Angriff einen Spezialangriff auslösen.
 {KEYWORD}Pflanzenfunktionen:{STAT}Gelbe Pflanze
+
 {FLAVOR} In einer mysteriösen Westernstadt ist Doppelkanonenzapfen ein Scharfschützen-Cowboy, der gegen alle möglichen Zombies kämpft, die in seine Stadt eindringen und die Zombies schon bei der Erwähnung seines Namens erzittern lassen. Er wäre beinahe Sheriff der Stadt geworden, lehnte aber ab, weil er den Sheriff zu langweilig fand und es besser wäre, etwas in die Bar zu gehen.
+
 [PINECONE_TOOLTIP]
 Nach dem besiegen eines Zombies,führt einen Spezialangriff aus.
 
@@ -47006,6 +47022,7 @@ Schneefeldmammut
 {KEYWORD}Verwendung:{STAT}Die Magnetpilze in derselben Reihe können zu einem Kordon verbunden werden. Berührt ein Zombie den Kordon, springt er hoch und explodiert, um anzugreifen.
 {KEYWORD}Reichweite:{STAT}Nah
 {KEYWORD}Pflanzenmerkmale:{STAT}Grüne Pflanze, Waffenfamilie, kleiner Mensch.
+
 {FLAVOR} Alarm Explosion Magnet ist ein Mann der Tat. Jedes Mal, wenn seine Freunde ihn beim Namen nennen, betont er: „Ich bin Alarm Explosion Magnet, nicht Alarm Magnet. Ich bin anders als die, die nur große Töne spucken!“
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL1]
@@ -52465,7 +52482,6 @@ Sprengnuss-Zombie
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION]
 {KEYWORD}Eigenschaften:{STAT}Verursacht nach seinem Tod großen Schaden an den umliegenden Pflanzen!
-
 {KEYWORD}Schwäche:{STAT}Verursacht keine Explosion, nachdem er von Pflanzen verschluckt wurde.
 
 {FLAVOR}Niemand weiß, woher er kam, als wäre er aus dem Nichts erschienen. Der mysteriöse Pflanzenkopf hat die Aufmerksamkeit vieler Zombies auf sich gezogen. Die neuesten „Zombie Evening News“ berichteten über den Ort, an dem er einst erschien: den „Headgear Club“. Na ja, du kennst das Gesicht von Zombies, aber nicht ihr Herz, oder?
@@ -52828,7 +52844,7 @@ Geparden-Jubiläum Kostüm
 Stahlgeparden-Superkostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ALOES_2]
-Aloe Vera Arzt-Jubiläumsoutfit
+Aloe -Jubiläumsoutfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_1]
 Goldblüte-Jubiläumsoutfit
@@ -58624,6 +58640,7 @@ Schillernde Blumengeisha
 [BOOPHONEGEISHA_DESCRIPTION]
 {KEYWORD}Verwendung: {STAT}Kann nicht nur Zombies in der aktuellen Reihe angreifen, sondern auch Zombies in anderen Reihen Schaden zufügen, wenn der Blumenfächer zurückfliegt.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
 {FLAVOR} Langjähriges Geisha-Training hat ihr die Manipulation von Blumenfächern verfeinert. Mit prächtigen Blumenfächer-Darbietungen stellt sie ihre Stärke gegen Zombies unter Beweis.
 
 [BOOPHONEGEISHA_DESCRIPTION_HEADER]
@@ -58862,13 +58879,13 @@ Der Pharao-Zombie, der bei der Jubiläumsfeier erschien.
 {FLAVOR}Ein wandelnder Kuchen? Nein, es ist ein Pharao-Zombie. Obwohl der Kuchen viel zerbrechlicher ist als der Sarkophag, kann er den Pharao-Zombie dennoch stärker machen. Liegt es daran, dass der Pharao den Kuchen kaut, um seine Gesundheit wiederherzustellen?
 
 [ZOMBIE_BIRTHDAY_JUGGLER]
-Jubiläums-Clown-Zombie
+Jubiläums-Hoffnar-Zombie
 
 [ZOMBIE_BIRTHDAY_JUGGLER_DESCRIPTION_HEADER]
-Der Clown-Zombie, der bei der Jubiläumsfeier erschien
+Der Hoffnar-Zombie, der bei der Jubiläumsfeier erscheint.
 
 [ZOMBIE_BIRTHDAY_JUGGLER_DESCRIPTION]
-Der Jubiläums-Clown-Zombie kann die auf ihn abgefeuerten Pflanzenkugeln zurückwerfen, indem er sich mit hoher Geschwindigkeit dreht. Man sagt, er habe lange hart trainiert, um zu verhindern, dass der Kuchen während der Drehung herausfliegt. Aber wäre er nicht stärker, wenn er herausfliegen könnte?
+Der Jubiläums-Hoffnar-Zombie kann die auf ihn abgefeuerten Projektile zurückwerfen, indem er sich mit hoher Geschwindigkeit dreht. Man sagt, er habe lange hart trainiert, um zu verhindern, dass der Kuchen während der Drehung herausfliegt. Aber wäre er nicht stärker, wenn er herausfliegen könnte?
 
 [ZOMBIE_BIRTHDAY_TROGLOBITE]
 Jubiläums-Höhlenzombie
@@ -58887,7 +58904,6 @@ Jetpack-Zombie, der auf der Jubiläumsparty erscheint
 
 [ZOMBIE_BIRTHDAY_JETPACK_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT}Kann durch die meisten niedrigen Pflanzen hindurchschießen
-
 {KEYWORD}Schwäche: {STAT}Wird von hohen Pflanzen blockiert
 
 {FLAVOR}Der Jubiläums-Jetpack-Zombie hat keine besonderen Vorbereitungen getroffen, um auf die Jubiläumsparty der Pflanze zu gelangen. Er wollte nur das Gehirn fressen, ohne die Jetpack-Geschenkbox zu öffnen.
@@ -62860,13 +62876,13 @@ Schön dekorierter Swimmingpool 3
 Sternenbeobachtung
 
 [S13_MEMORY_LEVEL_NAME_045]
-Ursprung des Clowns 1
+Ursprung des Hoffnars 1
 
 [S13_MEMORY_LEVEL_NAME_046]
-Die Herkunft des Clowns 2
+Die Herkunft des Hoffnars 2
 
 [S13_MEMORY_LEVEL_NAME_047]
-Die Herkunft des Clowns 3
+Die Herkunft des Hoffnars 3
 
 [S13_MEMORY_LEVEL_NAME_048]
 Elite-Zombies kommen
