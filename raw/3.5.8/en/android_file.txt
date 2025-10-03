@@ -3761,97 +3761,145 @@ auf der wir Pflanzen und andere nützliche Gegenstände finden können.
 {NPC_EXIT:crazydave}{SAY:winnie}Mein Programm verbietet die Verwendung von Schimpfwörtern.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_A_1]
-{NPC_ENTER:winnie}{SAY}Der Wind weht, eine große Zombiewelle kommt!
+{NPC_ENTER:winnie}{SAY}Noch ist Ebbe, doch langsam nähern sich die Wellen.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_A_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}Haltet euren Rettungsring bereit! Springt notfalls ins Meer, um zu entkommen!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Schnapp dir deine Schwimmflügel, es wird nass!
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_1]
-{NPC_ENTER:winnie}{SAY}Die Wellen kommen heftig.
+{NPC_ENTER:winnie}{SAY}Diese Wellen werden immer schlimmer.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_2]
-{NPC_ENTER:crazydave}{TIRED:crazydave}Ich bin noch trocken.
+{NPC_ENTER:crazydave}{TIRED:crazydave}Ich bin noch nicht nass.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_B_3]
-{TIRED:winnie}Ich meine die Zombiewellen.
+{TIRED:winnie}Ich meinte auch Zombie-Wellen.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_C_1]
-{NPC_ENTER:crazydave}{PLAYFUL}Unser Schiff ist voller Sonnenschein.
+{NPC_ENTER:crazydave}{PLAYFUL}Du hast eine ganze Ladung voll Sonne. Also bloß nicht kentern!
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_C_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Ja, du bist etwas überflüssig.
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Ich sehe, was du da gemacht hast.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_C_3]
-{SPECIAL13:crazydave}Was?
+{SPECIAL13:crazydave}Wa-?
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_A_1]
-{NPC_ENTER:winnie}{SAY}Erreiche die Zielpunktzahl und schau, ob du meinen Highscore schlagen kannst.
+{NPC_ENTER:winnie}{SAY}Zielpunktzahl aktiviert. Mal sehen, ob du meinen Highscore knackst.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_A_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Nachbar, vergiss nicht, „Crazy Dave“ zu unterschreiben, wenn du gewinnst.
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Und gib DPPDV als Initialen ein.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_B_1]
-{NPC_ENTER:winnie}{TIRED}Warum sind da plötzlich so viele Möwen?
+{NPC_ENTER:winnie}{TIRED}Wo kommen nur all die Vögel her?
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_B_2]
-{NPC_ENTER:crazydave}{AUFGEWUNDERT:crazydave}Macht nichts, wir haben Kanonen und einen Highscore, der darauf wartet, übertroffen zu werden.
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Wen kümmert's? Wir haben Kanonen und wollen den Highscore knacken.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_C_1]
-{NPC_ENTER:winnie}{SAG:winnie}Herzlichen Glückwunsch zu meinem Rekord.
+{NPC_ENTER:winnie}{SAY:winnie}Glückwunsch zur neuen Höchstpunktzahl. Ich gönne es dir.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_C_2]
-{TIRED:winnie}Und die Daten zeigen, dass du nicht geschummelt hast.
+{TIRED:winnie}Du hast auch bestimmt nicht geschummelt... Schummler.
 
 [NARRATIVE_PIRATE_CHALLENGE_MINIGAME_C_3]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}Natürlich hat er nicht geschummelt, er hat nur Cheat-Codes benutzt, haha!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Hurra! Alle sind zufrieden!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_1]
-{NPC_ENTER:crazydave}{SAG}Kirschbomben sind der Hammer!
+{NPC_ENTER:crazydave}{SAY}Stacheln und Schmalz, Gott erhalt's –
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_2]
-{PLAYFUL}Man kann damit einen Haufen Zombies töten!
+{PLAYFUL}daaaaraus macht man Stacheln und Schmalz!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_A_3]
-{NPC_ENTER:winnie}{SAG:winnie}Nicht verschwenden, sondern den Zombies überlassen.
+{NPC_ENTER:winnie}{SAY:winnie}Dem ist wenig hinzuzufügen.
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_B_1]
-{NPC_ENTER:crazydave}{SPECIAL12} Kokosnuss-Kanonenfeuer!!!
+{NPC_ENTER:crazydave}{SPECIAL12}KANONENSCHLACHT!!!
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_C_1]
-{NPC_ENTER:crazydave}{TIRED}Ich glaube, ich habe etwas vergessen.
+{NPC_ENTER:crazydave}{TIRED}Irgendwas fehlt doch.
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_C_2]
-{NPC_ENTER:winnie}{SAG:winnie}Sonnenblumen?
+{NPC_ENTER:winnie}{SAY:winnie}Sonnenblumen?
 
 [NARRATIVE_PIRATE_CHALLENGE_PRESET_C_3]
-{PLAYFUL:crazydave}Nein. Meine Tacos.
+{PLAYFUL:crazydave}Nee. Mein Taco.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_A_1]
-{NPC_ENTER:winnie}{SAY}Denk dran, beschütze diese Bohnen.
+{NPC_ENTER:winnie}{SAY}Denk daran: Schütze diese Pflanzen.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_A_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ignoriere ihr Leben nicht!
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Und lass die Bohnen nicht über die Planke gehen.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_B_1]
-{NPC_ENTER:crazydave}{PLAYFUL}Diese Frühlingsbohnen leben am Rande der Gefahr.
+{NPC_ENTER:crazydave}{PLAYFUL}Diese Federbohnen leben immer direkt am Abgrund.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_B_2]
-{NPC_ENTER:winnie}{SAY:winnie}Sie sind es gewohnt, sich der Gefahr zu stellen.
+{NPC_ENTER:winnie}{SAY:winnie}Gefahr ist ihr zweiter Vorname.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_B_3]
-{PLAYFUL:winnie}Kann das jemand in der Illustration aktualisieren?
+{PLAYFUL:winnie}Jemand sollte das Lexikon aktualisieren.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_C_1]
-{NPC_ENTER:crazydave}{SAY}Jetzt ist klar, dass die Bohnen von Zombies angegriffen werden.
+{NPC_ENTER:crazydave}{SAY}Jetzt ist klar: Diese Bohnen sind in Gefahr.
 
 [NARRATIVE_PIRATE_CHALLENGE_PROTECTPLANTS_C_2]
-{EXCITED:crazydave}Schützt die Bohnen, lasst keine zurück!
+{EXCITED:crazydave}Lasse keine Bohne zurück!
 
 [NARRATIVE_PIRATE_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:winnie}Haben wir es nicht auf eure Tacos abgesehen?
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:winnie}Ich dachte, wir wollten zurück nach Hause und deinen Taco suchen.
 
 [NARRATIVE_PIRATE_INTRO_FIRSTLEVEL_2]
-{SHOUT:crazydave}Aber das sind Piraten! Willst du nicht ihre Papageien und Holzbeine sehen?
+{SHOUT:crazydave}Aber da sind Piraten! Haltet eure Papageien und Holzbeine fest!
+
+[NARRATIVE_PIRATE_INTRO_GARGANTUAR_1]
+{NPC_ENTER:zombossicon}{SAY}Sehr geehrter Kapitäns-Kollege!
+
+[NARRATIVE_PIRATE_INTRO_GARGANTUAR_2]
+{SAY:zombossicon}Wir weisen Sie darauf hin, dass Ihr Gefährt von unzureichender Größe ist.
+
+[NARRATIVE_PIRATE_INTRO_GARGANTUAR_3]
+{SAY:zombossicon}Hochachtungsvoll, Dr. Edgar Zomboss.
+
+[NARRATIVE_PIRATE_INTRO_GARGANTUAR_4]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Häh? Was soll das jetzt?
+
+[NARRATIVE_PIRATE_INTRO_GARGANTUAR_5]
+{TIRED:winnie}Wir brauchen wohl ein größeres Boot.
+
+[NARRATIVE_PIRATE_INTRO_ZOMBOSS_1]
+{NPC_ENTER:zombossicon}Ich habe etwas höchst seltsames an deiner klapprigen Zeitmaschine entdeckt.
+
+[NARRATIVE_PIRATE_INTRO_ZOMBOSS_2]
+{SAY:zombossicon}Die Zeitsignatur stimmt fast mit meinen eigenen Schöpfungen überein.
+
+[NARRATIVE_PIRATE_INTRO_ZOMBOSS_3]
+{SAY:zombossicon}Erkläre mir mal, wie wurde diese „Penny“ überhaupt gebaut?
+
+[NARRATIVE_PIRATE_INTRO_ZOMBOSS_4]
+{NPC_EXIT:zombossicon}{NPC_ENTER:winnie}{EXCITED:winnie}Kann es sein? Bin ich am Ende auch eine Art Zombot?
+
+[NARRATIVE_PIRATE_INTRO_ZOMBOSS_5]
+{TIRED:winnie}Benutzer Dave, bin ich die Tochter von Dr. Zomboss?
+
+[NARRATIVE_PIRATE_INTRO_ZOMBOSS_6]
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Das war ein leckeres Sandwich! Habe ich was verpasst?
+
+[NARRATIVE_PIRATE_OUTRO_DANGER_ROOM_KEY_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Endlich! Einer der Piraten hat etwas Beute fallen lassen!
+
+[NARRATIVE_PIRATE_OUTRO_DANGER_ROOM_KEY_2]
+{PLAYFUL:winnie}Ich glaube, da ist etwas mehr drin als bloß ein Schatz.
+
+[NARRATIVE_PIRATE_OUTRO_GARGANTUAR_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}Das ist richtig nützlich!
+
+[NARRATIVE_PIRATE_OUTRO_GARGANTUAR_2]
+{SAY:winnie}Damit erreichen wir eine andere Welt.
+
+[NARRATIVE_PIRATE_OUTRO_GARGANTUAR_3]
+{TIRED:crazydave}Mist. Ich hatte gehofft, dass unser Boot damit größer wird.
 
 [NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_1]
 {NPC_ENTER:crazydave}{SAY}{START_DIALOG_MUSIC} Das Piratenleben ist toll, aber mir ist etwas schwindelig. Vielleicht habe ich Heimweh.
@@ -20481,34 +20529,40 @@ Zehnmal klopfen
 Versuch dein Glück
 
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Hier ist es echt kalt!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Brrrrr. Das ist ja kälter als eine Eisbärenschnauze!
 
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_2]
-{SAY:crazydave}Wir scheinen in einer unglaublichen Zeit und an einem unglaublichen Ort angekommen zu sein. Hoffentlich begegnen wir keinen Mammuts oder so etwas ...
+{SAY:winnie}In der Tat. Offenbar haben wir die Frostbeulen-Höhlen erreicht.
 
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_3]
-{SAY:crazydave}Schau mal da drüben, da sind ein paar Eislöcher!
+{PLAYFUL:crazydave}Wir sind so weit in die Vergangenheit gereist ... so langsam wird's PRÄhistorisch.
 
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_4]
-{SAY:winnie}Das Eis in den Löchern scheint sehr rutschig zu sein. Hoffentlich machen sie uns keine Probleme ...
+{SAY:winnie}Fürwahr, ein historischer Augenblick, Benutzer Dave. Was aber viel wichtiger ist ...
 
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_5]
-{SAY:crazydave}Macht nichts. Wir müssen uns einen Platz suchen, um der Kälte zu entgehen. Ich vermisse den alten Kamin zu Hause.
+{EXCITED:winnie}Meine Sensoren zeigen eine Eisscholle auf dem Rasen an.
 
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_6]
-{SAY:winnie}Da vorne ist eine Höhle, da können wir uns ein bisschen ausruhen ...
+{SAY:winnie}Den Daten zufolge wird sie sowohl Pflanzen als auch Zombies blockieren.
 
 [NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_7]
-{SAY:crazydave}Vielleicht finde ich ja die Tacos, auf die ich gewartet habe ... Los geht's!
+{EXCITED:winnie}Ich bin mir aber sicher, dass die hungrigen Zombies einen Weg drum herum finden werden.
+
+[NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_8]
+{SAY:crazydave}Keine Sorge. Mit guter Planung können wir die Zombies KALTstellen!
 
 [NARRATIVE_ICEAGE_INTRO_ICEBLOCKS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Schau dir das Eis da drüben an. Da sind Pflanzen gefroren. Versucht es etwa, bei diesem schrecklichen Wetter Tacos zu finden?
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Nicht hinsehen, Penny! Diese Pflanzen haben einen schweren Fall von Gefrierbrand!
 
 [NARRATIVE_ICEAGE_INTRO_ICEBLOCKS_2]
-{SAY:winnie}Ich glaube, unser neuer Freund, die Ofenkartoffel, kann uns helfen, sie zu retten.
+{TIRED:winnie}Das sind die eisigen Winde aus dieser Zeit. Sie haben die Pflanzen gelähmt.
 
 [NARRATIVE_ICEAGE_INTRO_ICEBLOCKS_3]
-{SAY:crazydave}Lasst uns loslegen!
+{EXCITED:winnie}Wie wäre es, wenn wir die Heiße Kartoffel um Hilfe bitten? Sie kann die Eisblöcke schmelzen.
+
+[NARRATIVE_ICEAGE_INTRO_ICEBLOCKS_4]
+{SAY:crazydave}Mit der Idee kann ich warm werden.
 
 [NARRATIVE_EYGPT_INTRO_ZOMBOSS_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Willkommen im geheimnisvollen Ägypten, mein Freund.
@@ -20610,52 +20664,52 @@ Versuch dein Glück
 {TIRED:winnie}Vielleicht ist das ein poetischer Fehlschlag im Shakespeareschen Stil.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Herzlich willkommen! Dr. Zomboss grüßt alle Pflanzenfreunde.
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Seid gegrrrrrüßt! Dr. Zomboss hat prähistorische Frage für peinliche Pflanzen-Panneköpfe.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Ich bin überrascht, dass du meine geheime Basis finden konntest. Ich muss dir wohl eine Lektion erteilen ...
+{SAY:zombossicon}Warum jagt ihr nach dem Taco? Ist das alles, worum es geht?
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Mein neues Werk ist gerade fertiggestellt worden. Es gibt zwar noch ein paar Probleme mit dem Energiesystem, aber das sollte reichen, um dich zu erledigen.
+{SAY:zombossicon}Ist es vielleicht eine ... Falle? Oder ... ein Trick?
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_4]
-{SAY:zombossicon}Dann lasst uns diese tolle Party genießen, wahahahahaha ...
+{SAY:zombossicon}An der Frage könnt ihr euch die Zähne ausbeißen! Mwwwaaahaha unga unga!
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny ... Warum ist der Typ so verrückt? Party? Gibt es meine Lieblingstacos?
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny ... mein Taco!?!
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_6]
-{TIRED:winnie}Lieber Dave, vergiss die Tacos ...
+{TIRED:winnie}Benutzer Dave, ignorier' den Taco. Lass' dich nicht necken.
 
 [NARRATIVE_ICEAGE_INTRO_ZOMBOSS_7]
-{EXCITED:winnie}Wir müssen zuerst Dr. Zomboss töten!
+{EXCITED:winnie}Es ist Zeit, DR. ZOMBOSS ZU BEKÄMPFEN!
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Gut gemacht, wir haben ihn!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Gut gemacht. Wir haben Dr. Zomboss besiegt.
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_2]
-{EXCITED:crazydave}Aber ich habe meine Tacos immer noch nicht bekommen ...
+{EXCITED:crazydave}Nie mehr werde ich an meinem Taco zweifeln!
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_3]
-{TIRED:winnie}Lieber Dave, du weißt, wir sind durch unzählige Zeiten und Räume gereist.
+{TIRED:winnie}Benutzer Dave, bei unserer Reise durch die Zeit ...
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_4]
-{SAG:winnie}Es geht nicht nur um einen Taco ...
+{SAY:winnie}... geht es schon um mehr als nur einen Taco, das weißt du, oder?
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_5]
-{TIRED:crazydave}Ich weiß, du hast Recht, aber vorher, kannst du mich ...
+{TIRED:crazydave}Wahrscheinlich hast du Recht, Penny. Es geht auch um ...
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_6]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAG:zombossicon}Hey, Dr. Zomboss kann nicht Besiegt!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}Ha! Dr. Zomboss nicht besiegt!
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_7]
-{SAY:zombossicon}Dr. Zomboss steht kurz vor der Vernichtung!
+{SAY:zombossicon}Dr. Zomboss zurück vom Rande der Zerstörung!
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_8]
-{SAY:zombossicon}Dr. Zomboss kommt, wenn du es am wenigsten erwartest!
+{SAY:zombossicon}Dr. Zomboss wieder da, wenn keiner ihn erwartet. GROSSE ÜBERRASCHUNG!
 
 [NARRATIVE_ICEAGE_OUTRO_ZOMBOSS_9]
-{SAY:zombossicon}Dr. Zomboss wird früher oder später wieder auftauchen! Auf Wiedersehen!
+{SAY:zombossicon}Dr. Zomboss jetzt aufhört, in dritter Person von sich zu sprechen! Bis baaahald!
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_HUNTER_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Willkommen zusammen! Dr. Zomboss grüßt noch einmal alle Pflanzenfreunde.
@@ -30208,162 +30262,158 @@ FACKELN mich echt ab.
 {SAY:SOLARFLARE} Ich meine ... niemals!
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Diese Höhlenzombies sind wirklich stur!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Diese Höhlenzombies sind wirklich harte Nüsse.
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_2]
-{TIRED:crazydave}Mit "kein Hirn" geben sie sich nicht zufrieden!
+{TIRED:crazydave}Ein „Hirn ist alle“ akzeptieren sie nicht als Antwort.
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_3]
-{PLAYFUL:winnie}Meinen Daten zufolge sind die Schädel dieser Höhlenzombies 33,2% härter als die anderer Zombies.
+{PLAYFUL:winnie}Laut meinen Daten sind Neandertalzombie-Schädel 33,2 Prozent härter als andere Zombieschädel.
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_4]
-{SAY:winnie}Ich schlage vor, wir schicken den Beet Guard. Er hat einen geheimen Trick.
+{SAY:winnie}Ich schlage vor, wir setzen den Mangold-Mangler ein. Er hat ein paar geheime Moves auf Lager.
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_5]
-{PLAYFUL:crazydave}Meinst du seinen „Hau dich um“?
+{PLAYFUL:crazydave}Du meinst sein Hau-sie-um-Manöver?
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_6]
-{PLAYFUL:crazydave}Der haut die Zombies in ihre alten Häuser zurück!
+{PLAYFUL:crazydave}Das wird die Zombies dorthin zurückschicken, wo sie herkamen!
 
 [NARRATIVE_ICEAGE_INTRO_CHARDGUARD_7]
-{TIRED:winnie}Ich schätze, das ist kein Geheimnis mehr. Ist das also Dave?
+{TIRED:winnie}Schätze, dann sind die Moves doch nicht so geheim, oder, Benutzer Dave?
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Warnung, Warnung, Dave! Mein Frostschutzmittel reicht nicht mehr!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}A-A-Achtung, Benutzer Dave! M-M-Mein Frostschutzmittelstand i-i-ist niedrig!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_2]
-{TIRED:winnie}Wenn mein System einfriert, einfriert, einfriert, stecken wir für immer hier fest!
+{TIRED:winnie}Wenn meine Systeme g-g-gefrieren, stecken wir hier f-f-fest.
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_3]
-{EXCITED:crazydave}Das lasse ich nicht zu, selbst wenn es das Ende der Welt bedeutet, Penny!
+{EXCITED:crazydave}Eher gefriert die Hölle, als dass ich das zulasse, Penny!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_4]
-{SAY:crazydave}Es ist Zeit, die brennenden Erbsenkanonen loszulassen!
+{SAY:crazydave}Zeit, die Feuer-Erbsenkanone loszulassen!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_5]
-{PLAYFUL:crazydave}Sie kann Hitzeenergie an Zombies abgeben und Freunde in der Nähe warmhalten!
-[NARRATIVE_ICEAGE_INTRO_FIRSTLEVEL_8]
-{SAY:crazydave}Keine Sorge! Wir pflanzen sie geschickt, um die Zombie-Kälte abzuwehren!
+{PLAYFUL:crazydave}Sie kann den Zombies einheizen und hält ihre Kumpels in der Nähe warm!
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Die globale Abkühlung ist das Schlimmste! Wir brauchen eine Hitzewelle!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Die globale Erderkaltung ist echt mies. Wir bräuchten mal eine Hitzewelle!
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_2]
-{SAY:winnie}Einverstanden. Denk dran, ich habe die Schneebälle durch Feuerbälle ersetzt.
+{SAY:winnie}Stimmt. Ich habe deshalb schon einmal die Schneebälle durch Feuerbälle ersetzt.
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_3]
-{SAY:winnie}Das Flammenwerfer-Powerup schmilzt Eis und fügt Zombies Schaden zu!
+{SAY:winnie}Mit dem Flammenwerfer-Power-up kannst du ebenfalls Eis schmelzen und Zombies schaden.
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_4]
-{PLAYFUL:crazydave}Das ist super! Man sagt ja, Rache ist wie Eiscreme: Je kälter, desto besser!
+{PLAYFUL:crazydave}Stark! Wie sagt man so schön: Rache wird am besten kalt serviert.
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_5]
-{PLAYFUL:crazydave}Aber ich finde Rache ist Hot Pot! Je schärfer, desto besser! Wahnsinnig scharf! Und mit scharfer Soße!
+{PLAYFUL:crazydave}Aber ich sage, man serviert sie am besten heiß. Knallheiß! Mit extrascharfer Sauce!
 
 [NARRATIVE_ICEAGE_INTRO_FLAMETHROWER_6]
-{EXCITED:crazydave}Und mit Tacos!
+{EXCITED:crazydave}Und Tacos als Beilage!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Ich bin der Zombie-Oberhaupt. Ich habe dir einen weiteren Drohbrief geschrieben.
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Ich Zomboss. Ich schreiben dir neuen Drohbrief.
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_2]
-{SAY:zombossicon}Du steckst in Schwierigkeiten. In großen Schwierigkeiten. Genauer gesagt, in riesigen Zombie-Schwierigkeiten!
+{SAY:zombossicon}Du in Gefahr. Groooß Gefahr. Gargantuös Gefahr!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_3]
-{SAY:zombossicon}Riesenfaultier-Zombie zerschmettert! Zerschmettere deine zitternden kleinen Pflanzen!
+{SAY:zombossicon}Faultier-Gargantua-Schlag! Gegen deine winzigen, zitternden Pflanzen!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_4]
-{SAY:zombossicon}Riesenfaultier-Zombies bringen eine Plage prähistorischer Wicht-Zombies!
+{SAY:zombossicon}Faultier-Gargantua hat prähistorische Plage-Wichte dabei!
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_5]
-{SAY:zombossicon}Ich wünsche dir einen schlechten Tag. Mit freundlichen Grüßen, Dr. Zombihead
+{SAY:zombossicon}Einen schlechten Tag. Gruß, Dr. Zomboss
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_6]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich vermute, dieser Zombie wird sich nie weiterentwickeln.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich prophezeihe, dass die Evolution diesen Zombie nie erreichen wird.
 
 [NARRATIVE_ICEAGE_INTRO_GARGANTUAR_7]
-{SAY:crazydave}Nicht einmal in einer Million, Milliarde, Billiarde Jahren.
+{SAY:crazydave}Nicht in einer Million, Milliarde, Fantastillion Jahren!
 
 [NARRATIVE_ICEAGE_INTRO_HURRIKALE_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Daten legen nahe, dass Hurrikan-Grünkohl sehr nützlich wäre.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meinen Daten zufolge wäre der Hurrikohl hier nützlich.
 
 [NARRATIVE_ICEAGE_INTRO_HURRIKALE_2]
-{EXCITED:crazydave}Der Wind, den er bläst, kann Zombies einfrieren und verlangsamen!
+{EXCITED:crazydave}Wenn der einmal kräftig pustet, frieren den Zombies die Füße ein!
 
 [NARRATIVE_ICEAGE_INTRO_HURRIKALE_3]
-{PLAYFUL:crazydave}Der Typ kann richtig stark blasen! Ich meine, der ist echt gut.
-
-[NARRATIVE_ICEAGE_INTRO_ICEBLOCKS_4]
-{SAY:crazydave}Die Idee interessiert mich schon!
+{PLAYFUL:crazydave}Echt cool, was der Junge so an kalter Luft absondert.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}{SAY:crazydave}Es ist so still. Wo sind alle? Ich habe ein ungutes Gefühl.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}{SAY:crazydave}Es ist so ruhig hier. Wo sind die alle? Ich habe ein schlechtes Gefühl bei der Sache.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_2]
-{SAY:winnie}Mein Scanner zeigt Zombies, die sich unter dem Eis verstecken.
+{SAY:winnie}Meine Sensoren zeigen, dass Zombies unter dem Eis stecken.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_3]
-{SAY:crazydave}Ich kenne dieses Spiel! Es heißt Versteckspiel und Gehirne fressen!
+{SAY:crazydave}Ich kenne dieses Spiel. Erst verstecken sie sich, und dann stürzen sie sich auf dein Hirn.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_4]
-{PLAYFUL:crazydave}Es ist Zeit, unser eigenes Spiel zu spielen: Ich nenne es Bodenzombies.
+{PLAYFUL:crazydave}Dann wird es Zeit für unser eigenes Spiel. Ich nenne es: Schlag den Zombie.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_5]
-{SAY:winnie}Wenn du sie hart triffst, lassen sie bessere Hämmer fallen.
+{SAY:winnie}Verpasse ihnen ordentlich Schläge, und sie werden bestimmt noch bessere Hämmer fallen lassen.
 
 [NARRATIVE_ICEAGE_INTRO_MINIGAME_6]
-{SAY:crazydave}Tut mir leid. Ich kann nicht anders. Ich muss es sagen. Es ist ... Hammerzeit.
+{SAY:crazydave}Ich muss den Witz einfach machen: Es ist Hammer-Time!
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Ich bekomme hier kalte Füße.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}So langsam bekomme ich hier kalte Füße.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_2]
-{SAY:crazydave}Ich habe richtig kalte Füße.
+{SAY:crazydave}Das meine ich nicht im übertragenen Sinn.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_3]
-{PLAYFUL:winnie}Es ist Zeit, die Hitze anzuheizen. Ich empfehle dafür den Chilikrug.
+{PLAYFUL:winnie}Dann wird es Zeit zum Einheizen. Dafür empfehle ich das Paprikatapult.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_4]
-{SAY:winnie}Er kann scharfe Chilischoten auf Zombies werfen und sie so aufwärmen.
+{SAY:winnie}Das schleudert heiße Paprikas auf Zombies und hält Pflanzen in der Nähe warm.
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_5]
-{PLAYFUL:crazydave}Lass uns einen Kannenpfeffer pflücken! Die perfekte Pflanze für unsere aktuelle Lage!
+{PLAYFUL:crazydave}Ein paar Paprikatapulte! Perfekte Pflanzen für diesen prekären Part!
 
 [NARRATIVE_ICEAGE_INTRO_PEPPERPULT_6]
-{TIRED:winnie}Musst du dich reimen, Dave? Musst du?
+{TIRED:winnie}Sind diese Alliterationen wirklich nötig, Benutzer Dave?
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Ich hoffe, diese prähistorischen Zombies kehren in ihre Höhlen zurück.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Ich wünschte, diese prähistorischen Zombies würden sich zurück in ihre Höhlen verkriechen.
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_2]
-{EXCITED:winnie}Dave, vielleicht ist es Zeit für eine neue Taktik.
+{EXCITED:winnie}Benutzer Dave, vielleicht wird es Zeit für eine neue Taktik.
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_3]
-{SAY:winnie}Daten zeigen, dass die Dizzy Onion hier ein ... effektiver ... Verbündeter wäre.
+{SAY:winnie}Meinen Daten zufolge wäre die Zwierbel ein ... kräftiger ... Verbündeter.
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_4]
-{PLAYFUL:crazydave}Super Idee, Penny! Der Atem von dem Kerl kann jeden ohnmächtig machen!
+{PLAYFUL:crazydave}Super Idee, Penny! Die hat echt einen Atem, der zwirbelt!
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_5]
-{SAY:crazydave}Stimmt. Sogar Zombies ... würden von seinem Mundgeschmack ohnmächtig werden!
+{SAY:crazydave}Und das ist keine Übertreibung. Mit ihrem Mundgeruch lähmt sie die Zombies.
 
 [NARRATIVE_ICEAGE_INTRO_STUNION_6]
-{PLAYFUL:crazydave}Das ist eklig. Aber es ist wirklich zuverlässig!
+{PLAYFUL:crazydave}Ekelhaft. Aber irgendwie auch raffiniert!
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAG:crazydave}Penny, wir brauchen jetzt eine schöne Tasse heißen Kakao!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Penny, was wir jetzt brauchen, ist eine schöne Tasse heißen Kakao!
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_2]
-{SAG:winnie}Dave, das ist eine unbewiesene Waffe gegen Zombies.
+{SAY:winnie}Benutzer Dave, das ist aber keine bewährte Waffe gegen Zombies.
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_3]
-{SAG:winnie}Ich empfehle, die Rübe zu beschwören.
+{SAY:winnie}Ich empfehle, stattdessen auf die Rotorübe zu setzen.
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_4]
-{EXCITED:winnie}Sie kann in der Luft schweben und Zombies in vier Richtungen abschießen!
+{EXCITED:winnie}Sie schwebt über dem Boden und schießt auf Zombies in vier Richtungen!
 
 [NARRATIVE_ICEAGE_INTRO_XSHOT_5]
-{PLAYFUL:crazydave}Dieses Kind hat Talent! Vielleicht weiß sie auch, wie man heißen Kakao macht?
+{PLAYFUL:crazydave}Die Kleine hat Talent! Vielleicht kann sie auch Kakao kochen?
+
 [NARRATIVE_ICEAGE_OUTRO_DANGER_ROOM_KEY_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED: winnie}Dave, ich habe einen Eiswürfel auf dich zukommen sehen.
 
@@ -30377,22 +30427,22 @@ FACKELN mich echt ab.
 {PLAYFUL:crazydave}Weißt du, was ich sagen will? Komm schon!
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_1]
-{NPC_ENTER:crazydaveicon}{TIRED:crazydaveicon}Penny, hast du dir schon mal beim Eislutschen die Zunge piercen lassen?
+{NPC_ENTER:crazydaveicon}{TIRED:crazydaveicon}Penny, haft du fon mal verfucht, an einem Eifpfapfen fu lutfen, und deine Funge ift dran hängengeblieben?
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_2]
-{NPC_ENTER:winnieicon}{TIRED:winnieicon}Nein, Dave. Hab ich noch nicht probiert.
+{NPC_ENTER:winnieicon}{TIRED:winnieicon}Nein, Benutzer Dave. Habe ich nicht.
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_3]
-{SAY:crazydaveicon}Äh ... ich auch nicht. Du wärst verrückt, so etwas zu tun!
+{SAY:crazydaveicon}Ähh... ich auch nicht. Daf wäre doch verrrrückt.
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_4]
-{SAY:winnieicon}Hey. Halte während deiner Zungenheilung Ausschau nach dem seltsamen Stück.
+{SAY:winnieicon}Seufz. Hier, sieh dir mal diese seltsame Steintafel an, während du deine Zunge verarztest.
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_5]
-{SAY:winnieicon}Es sieht aus wie ein Warnschild, geschrieben in der Sprache der Höhlenzombie.
+{SAY:winnieicon}Sieht wie ein Warnsignal in Höhlenzombie-Sprache aus.
 
 [NARRATIVE_ICEAGE_ZOMBIENOTE_6]
-{PLAYFUL:crazydaveicon}Schrumpft es? Nicht am Eis lecken?
+{PLAYFUL:crazydaveicon}Warnt ef die Leute davor, blof nicht an Eifpfapfen fu lutfen?
 
 [NARRATIVE_JACKOLANTERN_LOD_1]
 {NPC_ENTER:winnie}{SAY:winnie}Klicke auf die Kürbislaterne, um die Flammen auszulösen.
@@ -30839,88 +30889,103 @@ FACKELN mich echt ab.
 {SAY:crazydaveicon}Aber wenn du meine Tacos auf deinem Rasen findest …
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_1]
-{NPC_ENTER:zombossicon}{SAY}Hallo, Kapitän,
+{NPC_ENTER:zombossicon}{SAY}Sehr geehrter Kapitäns-Kollege!
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_2]
-{SAY:zombossicon}Denken Sie daran, Ihr Segelboot ist zu klein.
+{SAY:zombossicon}Wir weisen Sie darauf hin, dass Ihr Gefährt von unzureichender Größe ist.
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_3]
-{SAY:zombossicon}Mit freundlichen Grüßen, Dr. Edgar Zombihead.
+{SAY:zombossicon}Hochachtungsvoll, Dr. Edgar Zomboss.
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Hmm? Was ist das?
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Häh? Was soll das jetzt?
 
 [NARRATIVE_PIRATE_INTRO_GARGANTUAR_5]
-{TIRED:winnie}Wir brauchen ein größeres Schiff.
+{TIRED:winnie}Wir brauchen wohl ein größeres Boot.
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}Ich habe eine mysteriöse Eigenschaft in deiner alten Zeitmaschine entdeckt.
+{NPC_ENTER:zombossicon}Ich habe etwas höchst seltsames an deiner klapprigen Zeitmaschine entdeckt.
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Ihre grundlegenden Merkmale sind fast identisch mit meinen eigenen Kreationen.
+{SAY:zombossicon}Die Zeitsignatur stimmt fast mit meinen eigenen Schöpfungen überein.
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Sag mir, wie wurde Penny überhaupt erschaffen?
+{SAY:zombossicon}Erkläre mir mal, wie wurde diese „Penny“ überhaupt gebaut?
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:winnie}{EXCITED:winnie}Bin ich ein Zombie-Roboter?
+{NPC_EXIT:zombossicon}{NPC_ENTER:winnie}{EXCITED:winnie}Kann es sein? Bin ich am Ende auch eine Art Zombot?
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_5]
-{TIRED:winnie}Dave, bin ich Dr. Zombosss Tochter?
+{TIRED:winnie}Benutzer Dave, bin ich die Tochter von Dr. Zomboss?
 
 [NARRATIVE_PIRATE_INTRO_ZOMBOSS_6]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Das ist ein richtig gutes Sandwich! Was habe ich also verpasst?
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Das war ein leckeres Sandwich! Habe ich was verpasst?
 
 [NARRATIVE_PIRATE_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Endlich hat ein Pirat Beute abgeworfen!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Endlich! Einer der Piraten hat etwas Beute fallen lassen!
 
 [NARRATIVE_PIRATE_OUTRO_DANGER_ROOM_KEY_2]
-{PLAYFUL:winnie}Ich habe etwas entdeckt, das herausfordernder ist als der Schatz darin.
+{PLAYFUL:winnie}Ich glaube, da ist etwas mehr drin als bloß ein Schatz.
 
 [NARRATIVE_PIRATE_OUTRO_GARGANTUAR_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}Das wird sehr nützlich sein!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}Das ist richtig nützlich!
 
 [NARRATIVE_PIRATE_OUTRO_GARGANTUAR_2]
-{SAY:winnie}Damit können wir eine andere Welt betreten.
+{SAY:winnie}Damit erreichen wir eine andere Welt.
 
 [NARRATIVE_PIRATE_OUTRO_GARGANTUAR_3]
-{TIRED:crazydave}Das ist ja Wahnsinn! Ich dachte, es würde unser Schiff größer machen.
+{TIRED:crazydave}Mist. Ich hatte gehofft, dass unser Boot damit größer wird.
+
+[NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_1]
+{NPC_ENTER:crazydave}{SAY}{START_DIALOG_MUSIC}Ich bin bereit, die Segel zu streichen. Piraten sind cool, aber ich hab langsam Heimweh.
+
+[NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_2]
+{TIRED}Ach Quatsch, ich meinte Seekrankheit.
+
+[NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_3]
+{NPC_ENTER:winnie}{SAY:winnie}Fahr bitte das Fenster herunter.
+
+[NARRATIVE_PIRATE_OUTRO_LASTTLEVEL_4]
+{EXCITED:crazydave}Dafür ist keine Zeit. Wir müssen einen Taco finden!
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:winnie}Bitte erzähl mir, wie du das gemacht hast.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:winnie}Bitte, erzähle mir von deinem Schöpfungsprozess.
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_2]
-{EXCITED:crazydave}Das war einfach. Ich habe ein paar zufällige Dinge gefunden.
+{EXCITED:crazydave}Es war ziemlich leicht! Ich habe noch etwas Wabby Wabbo gefunden.
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_3]
-{SAY:crazydave}Ich lege sie zwischen zwei Brotscheiben ...
+{SAY:crazydave}Das ganze zwischen zwei Scheiben Brot gestopft ...
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_4]
-{PLAYFUL:crazydave}BUMM! Super Sandwich!
+{PLAYFUL:crazydave}ZACK! Eine Super-Stulle!
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_5]
-{NPC_EXIT:winnie}{NPC_EXIT:crazydave}{NPC_ENTER:zombossicon}{SAY:zombossicon}Das ist sinnlos. Daran hätte ich früher denken sollen.
+{NPC_EXIT:winnie}{NPC_EXIT:crazydave}{NPC_ENTER:zombossicon}{SAY:zombossicon}Was für ein ausgemachter Schwachsinn. Das war ja zu erwarten.
 
 [NARRATIVE_PIRATE_OUTRO_ZOMBOSS_6]
-{SAY:zombossicon}Eines Tages werde ich die Antworten bekommen, und Daves Gehirn wird auf meinem Teller landen!
+{SAY:zombossicon}Eines Tages werde ich die Antworten haben – wenn Daves Gehirn auf meinem Teller liegt.
 
 [NARRATIVE_QUEST_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny, schau mal! Ich hab's auf dem Kopf!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Guck mal, Penny! Über meinem Kopf!
 
 [NARRATIVE_QUEST_INTRO_2]
-{EXCITED:crazydave}Es ist ein Reisetagebuch!
+{EXCITED:crazydave}Es ist der REISEKLOTZ!
 
 [NARRATIVE_QUEST_INTRO_3]
-{PLAYFUL:crazydave}Was ist das, ein Reisetagebuch? Gibt es Anleitungen, Fortschrittskontrollen und Belohnungen?
+{PLAYFUL:crazydave}Was sagst du, Reiseklotz? Du bietest Rat, Fortschritt und Belohnungen?
 
 [NARRATIVE_QUEST_INTRO_4]
-{SAY:winnie}Das Tagebuch spricht nicht, Dave-san.
+{SAY:winnie}Dieser Klotz spricht nicht wirklich, Benutzer Dave.
 
 [NARRATIVE_QUEST_INTRO_5]
-{SAY:crazydave}Danke, Reisetagebuch! Was immer du willst!
+{SAY:crazydave}Danke, Reiseklotz! Was immer du sagst!
+
+[NARRATIVE_STORE_INTRO_1]
+{NPC_ENTER:crazydaveicon}{PLAYFUL}Gut gemacht. Hey Penny, wofür ist denn dieser Schalter?
 
 [NARRATIVE_STORE_INTRO_2]
-{NPC_ENTER:winnieicon}{EXCITED}Das Interessanteste sind die besonderen Gegenstände darin!
+{NPC_ENTER:winnieicon}{EXCITED}Wie interessant, da sind besondere Gegenstände drin! 
 
 [NARRATIVE_STRAWBURST_LOD_1]
 {NPC_ENTER:winnie}{SAG:winnie}Klicke auf die explosive Erdbeere, um sie abzufeuern.
@@ -80050,53 +80115,4 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]en.
-
-[PVZ2_CHINESE_END]ESE_END]Z2_CHINESE_END]END]D]INESE_END]]D]D]D]n.
-
-[PVZ2_CHINESE_END]ESE_END]E_END]END]n die Betäubungsdauer anderer Zombies um 2 Sekunden.
-
-[NEWYEARREDPACKET_REWARDNAME]
-Oktober Münzen {NUMBER}  
-
-[PVP_ERROR_76030]
-Gegenstandsbetrug erkannt.
-
-[ZOMBOSS_QIGONG_CURE_WARNING]
-Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]unden zum Aufladen.
-
-[PVZ2_CHINESE_END]m Aufladen.
-
-[PVZ2_CHINESE_END]unden zum Aufladen.
-
-[PVZ2_CHINESE_END]�hen die Betäubungsdauer anderer Zombies um 2 Sekunden.
-
-[NEWYEARREDPACKET_REWARDNAME]
-Oktober Münzen {NUMBER}  
-
-[PVP_ERROR_76030]
-Gegenstandsbetrug erkannt.
-
-[ZOMBOSS_QIGONG_CURE_WARNING]
-Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]en.
-
-[PVZ2_CHINESE_END]ESE_END]Z2_CHINESE_END]END]D]INESE_END]]D]D]D]n.
-
-[PVZ2_CHINESE_END]ESE_END]E_END]END]n die Betäubungsdauer anderer Zombies um 2 Sekunden.
-
-[NEWYEARREDPACKET_REWARDNAME]
-Oktober Münzen {NUMBER}  
-
-[PVP_ERROR_76030]
-Gegenstandsbetrug erkannt.
-
-[ZOMBOSS_QIGONG_CURE_WARNING]
-Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]NESE_END]
+[PVZ2_CHINESE_END]
