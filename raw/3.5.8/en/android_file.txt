@@ -3303,146 +3303,146 @@ Genbearbeitung freigeschaltet! Verfeinere Gensequenzen, um die Pflanzen zu verbe
 {NPC_ENTER:crazydave}{PLAYFUL}{LONG}Ein Satz Röhren reicht also aus, um in Raum und Zeit herumzuspielen, genau wie im Wasserpark meines Onkels Milos!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_A_1]
-{NPC_ENTER:winnie}{SAY}Eine große Zombiewelle kommt, um uns zu bekämpfen.
+{NPC_ENTER:winnie}{SAY}Zwölf Uhr Mittags. Wellen von Zombies stehen bereit.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_A_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}Du kommst gerade rechtzeitig, lass uns drei Runden kämpfen!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Zeigen wir ihnen, wer die schnellsten Pflanzen hat!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_B_1]
-{NPC_ENTER:crazydave}{SAY}Ich werde einen ganzen Eimer Hähnchen verdrücken! Los geht's!
+{NPC_ENTER:crazydave}{SAY}Ich könnte eine ganze Badewanne voll frittierter Hähnchenteile verputzen!
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_B_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Daten zeigen, dass Dave die Tacos vergessen hat.
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Tja, da hast du Glück: sie haben die Kriegsvögel losgelassen.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_C_1]
-{NPC_ENTER:winnie}{PLAYFUL}{START_DIALOG_MUSIC} Gut gemacht, es war ein harter Kampf.
+{NPC_ENTER:winnie}{PLAYFUL}{START_DIALOG_MUSIC}Gut gemacht, Sheriff Benutzer Zeitreisender.
 
 [NARRATIVE_COWBOY_CHALLENGE_LASTSTAND_C_2]
-{NPC_ENTER:crazydave}{SAY:crazydave}Ja, wie hast du zwischen all den Kühen überlebt?
+{NPC_ENTER:crazydave}{SAY:crazydave}Du hast eine Menge durchgemacht.
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_A_1]
-{NPC_ENTER:crazydave}{SAY}Bumerangs! Blitz des Schilfs!
+{NPC_ENTER:crazydave}{SAY}Schilf geladen, Blütenstände bereit!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_A_2]
-{EXCITED:crazydave}Zeit, deine Karten auf den Tisch zu legen!
+{EXCITED:crazydave}Der Showdown beginnt!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_1]
-{NPC_ENTER:winnie}{EXCITED}Das sind zu viele Loren.
+{NPC_ENTER:winnie}{EXCITED}Das sind eine Menge Loren.
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}Es werden immer mehr!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Und es werden immer mehr!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_B_3]
-{PLAYFUL:crazydave}Ich wusste gar nicht, dass Loren rechnen können!
+{PLAYFUL:crazydave}Ich wusste gar nicht, dass Loren Multiplikation beherrschen!
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_1]
-{NPC_ENTER:crazydave}{SAY}{START_DIALOG_MUSIC}Der Großvater meines Großvaters war hier der Ordnungshüter.
+{NPC_ENTER:crazydave}{SAY}{START_DIALOG_MUSIC}Mein Urgroßpapa sorgte hier einst für Recht und Ordnung.
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_2]
-{NPC_ENTER:winnie}{EXCITED:winnie}Ist er das da drüben?
+{NPC_ENTER:winnie}{EXCITED:winnie}Ist er das da vorne?
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_3]
 {EXCITED:crazydave}Wo?
 
 [NARRATIVE_COWBOY_CHALLENGE_MINIGAME_C_4]
-{PLAYFUL:winnie}Sieh selbst.
+{PLAYFUL:winnie}Haha, reingefallen.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_A_1]
-{NPC_ENTER:crazydave}{EXCITED}Weißt du, warum mein Nachname Crazy ist?
+{NPC_ENTER:crazydave}{EXCITED}Mit diesen Pflanzen kommst du richtig in Fahrt.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_A_2]
-{TIRED:crazydave}Natürlich bin ich verrückt, so wie ...
+{TIRED:crazydave}Wenn du sie auf ...
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_A_3]
-{SAY:crazydave}Pflanzen auf einer Lore anbauen,
+{SAY:crazydave}Loren pflanzt
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_A_4]
-{PLAYFUL}Genau wie das, was du gleich tun wirst ...
+{PLAYFUL}Das heißt, du kannst sie auf Minen-Loren pflanzen.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_B_1]
-{SAY:crazydave}Sie wollen das Gehirn!
+{NPC_ENTER:crazydave}{SPECIAL17}Sie kommen aus den Bergen - und wollen nur dein Hirn!
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_B_2]
-{NPC_ENTER:winnie}{TIRED:winnie}Oh nein, er singt schon wieder.
+{NPC_ENTER:winnie}{TIRED:winnie}Oh nein, jetzt singt er wieder.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_1]
-{NPC_ENTER:winnie}{SAY}{START_DIALOG_MUSIC}Ich kann nicht glauben, wie viele Hühner es gibt.
+{NPC_ENTER:winnie}{SAY}{START_DIALOG_MUSIC}Unglaublich, dass es so viele Hühner gab.
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_2]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}Ich trauere um diese Hühner!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Was für ein Gegacker!
 
 [NARRATIVE_COWBOY_CHALLENGE_PRESET_C_3]
-{SAY:winnie}Die Geschichte wird sich an diesen Tag erinnern.
+{SAY:winnie}Das wird als große Hühnerplage von 1850 in die Geschichte eingehen.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_1]
-{NPC_ENTER:winnie}{SAY}Dieser Verrückte muss sich einer Welle von Cowboy-Zombies stellen.
+{NPC_ENTER:winnie}{SAY}Diese Levels sind echte Kopfnüsse.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Wir müssen diese Nuss retten. Ich will sie als Bowlingkugel benutzen!
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Aber ich will an das sahnige Innere!
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_A_3]
-{TIRED:winnie}Wir müssen dafür sorgen, dass sie nicht von Zombies gefressen wird.
+{TIRED:winnie}Es geht aber darum, sie nicht zu beschädigen.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_B_1]
-{NPC_ENTER:crazydave}{EXCITED}Was ist das für ein Geräusch aus der Ferne?
+{NPC_ENTER:crazydave}{EXCITED}Was sind das für Geräusche in der Ferne?
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_B_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Es ist der Lärm des Chaos von Zeit und Raum.
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Der Klang des Unausweichlichen.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_B_3]
-{SAY:crazydave}Das klingt wie ein Klavierkonzert!
+{SAY:crazydave}Klingt wie eine Stampede von Pianos!
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_C_1]
-{NPC_ENTER:winnie}{EXCITED}{START_DIALOG_MUSIC}Super gemacht.
+{NPC_ENTER:winnie}{EXCITED}{START_DIALOG_MUSIC}Gute Arbeit.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_C_2]
-{NPC_ENTER:crazydave}{SAY:crazydave}Du bist jetzt der beste Jäger im Westen!
+{NPC_ENTER:crazydave}{SAY:crazydave}Du hast die schnellsten Finger im wilden Westen.
 
 [NARRATIVE_COWBOY_CHALLENGE_PROTECTPLANTS_C_3]
-{EXCITED:crazydave}Können wir jetzt die Goldmine suchen?
+{EXCITED:crazydave}Lass uns die Kurve kratzen!
 
 [NARRATIVE_COWBOY_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:winnie}{SAY}Six Peas:
-Geladen
+{NPC_ENTER:winnie}{SAY}Revolver:
+geladen und entsichert
 
 [NARRATIVE_COWBOY_INTRO_FIRSTLEVEL_2]
-{SAY}Nostalgisches Klavier:
-Heruntergeladen
+{SAY}Altmodisches Klaviergeklimper:
+Download abgeschlossen
 
 [NARRATIVE_COWBOY_INTRO_FIRSTLEVEL_3]
-{SAY}Wahrscheinlichkeit, einen Taco zu bekommen:
-0,015%
+{SAY}Chance auf Taco:
+0,015 %
 
 [NARRATIVE_COWBOY_INTRO_FIRSTLEVEL_4]
-{TIRED}Fehlerrate:
-0,016%
+{TIRED}Fehlerspielraum:
+0,016 %
 
 [NARRATIVE_COWBOY_INTRO_LEVEL7_1]
-{NPC_ENTER:winnie}{SAY}Mein Monitor zeigt, dass sich die Kühe in Zombies verwandelt haben.
+{NPC_ENTER:winnie}{SAY}Wie beim Küheschubsen geht auch das Zombieschubsen am besten von der Seite.
 
 [NARRATIVE_COWBOY_INTRO_LEVEL7_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ist das Rindfleisch hier noch essbar?
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Glaub mir! Versuch nicht, eine Kuh von hinten umzuschubsen!
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_1]
-{NPC_ENTER:winnie}{SAY:winnie}{START_DIALOG_MUSIC}Dave, lass uns zum nächsten Halt gehen!
+{NPC_ENTER:winnie}{SAY:winnie}{START_DIALOG_MUSIC}Benutzer Dave, es ist Zeit, dass wir aufsatteln und losziehen.
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_2]
-{NPC_ENTER:crazydave}{SPECIAL14}Lauf dem verrückten Sonnenuntergang entgegen!
+{NPC_ENTER:crazydave}{SPECIAL14}Da, ein Sonnenuntergang! Reiten wir ihm entgegen!
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_3]
-{EXCITED:winnie}Wohin wird uns wohl das nächste Raum-Zeit-Chaos führen?
+{SAY:winnie}Was hält die Zukunft wohl für uns bereit?
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_4]
-{SAY:winnie}Können wir deinen Taco finden?
+{SAY:winnie}Was denkst du, ist mit dem Taco passiert?
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_5]
-{TIRED:winnie}Oder hast du ihn völlig vergessen?
+{TIRED:winnie}Warum sind Katzen haarig?
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_6]
-{SAY:crazydave}{SPECIAL15}Wir finden den Taco.
+{SAY:crazydave}{SPECIAL15}Denk einfach daran: Ein neuer Tag, ein neuer Taco ...
 
 [NARRATIVE_COWBOY_OUTRO_LASTTLEVEL_7]
-{SPECIAL16:crazydave}Jeder hat einen Taco im Herzen.
+{SPECIAL16:crazydave}Und in jedem von uns steckt irgendwo ein Taco.
 
 [NARRATIVE_COWBOY_WORLDMAP_INTRO_1]
 {NPC_ENTER:crazydaveicon}{SAY}Schlag den Ochsenkarren und fahre Richtung Westen zum Goldrausch!
@@ -3463,13 +3463,13 @@ Heruntergeladen
 {EXCITED:crazydaveicon}Aber das ist eine Goldmine!
 
 [NARRATIVE_COWBOY_ZOMBIENOTE_1]
-{NPC_ENTER:winnieicon}Das Poster zeigt, dass Zombies ein Kopfgeld auf Gehirne aussetzen.
+{NPC_ENTER:winnieicon}Sieht so aus, als wäre Gehirnschmalz hier illegal.
 
 [NARRATIVE_COWBOY_ZOMBIENOTE_2]
-{NPC_ENTER:crazydaveicon}Oh, mein Gehirn ist also so wertvoll!
+{NPC_ENTER:crazydaveicon}Schnell, Nachbar. Stell dich dumm.
 
 [NARRATIVE_COWBOY_ZOMBIENOTE_3]
-{PLAYFUL:winnieicon}Das stimmt vielleicht nicht. Es steht eindeutig, dass sie die Gehirne von Verrückten nicht wollen.
+{PLAYFUL:winnieicon}Da halten wir uns ganz an dich, Benutzer Dave.
 
 [NARRATIVE_DANGER_ROOM_FAILURE_1]
 {NPC_ENTER:crazydave}{SAY}Oh mein Gott! Die Zombies haben dein Gehirn gefressen.
@@ -22862,142 +22862,142 @@ Schluckt Zombies am Stück herunter und produziert daraufhin Sonnen
 Frisst 4 Zombies hintereinander und erzeugt mehr Sonnen.
 
 [NARRATIVE_LOSTCITY_1_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wow! Willkommen im Dschungel!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Holla! Willkommen im Dschungel!
 
 [NARRATIVE_LOSTCITY_1_INTRO_2]
-{SAG:winnie}Dave, das ist kein gewöhnlicher Dschungel. Meine Scans zeigen, dass dies die legendäre verlorene Stadt ist!
+{SAY:winnie}Benutzer Dave, dies ist kein normaler Dschungel. Meine Daten zeigen mir, dass dies die sagenhafte Verlorene Stadt ist.
 
 [NARRATIVE_LOSTCITY_1_INTRO_3]
-{SAG:winnie}Das Dokument besagt, dass hier die Sonne verehrt wird und die Ressourcen reichlich vorhanden sein werden.
+{SAY:winnie}Historischen Schriften zufolge wurde hier die Sonne angebetet. Hier sollte es jede Menge Ressourcen geben.
 
 [NARRATIVE_LOSTCITY_1_INTRO_4]
-{SAG:winnie}Ich schlage vor, wir sollten etwas auf die Goldbarren pflanzen, die wir gefunden haben.
+{SAY:winnie}Ich schlage vor, wir versuchen etwas auf die Gold-Felder zu pflanzen.
 
 [NARRATIVE_LOSTCITY_1_INTRO_5]
-{SAG:winnie}Wenn wir Dinge darauf pflanzen, können sie kontinuierlich Sonnenlicht produzieren.
+{SAY:winnie}Sie sollten dauerhaft Sonnen erzeugen, solange sich Pflanzen auf ihnen befinden.
 
 [NARRATIVE_LOSTCITY_1_INTRO_6]
-{EXCITED:crazydave}Die Verlorene Stadt? Penny! Sie ist da! Wir haben sie gefunden!
+{EXCITED:crazydave}Verlorene Stadt? Das ist es, Penny! Wir haben sie gefunden!
 
 [NARRATIVE_LOSTCITY_1_INTRO_7]
-{SAY:crazydave}Wo sonst kann ich meine verlorenen Tacos finden, außer in der Verlorenen Stadt?
+{SAY:crazydave}Wo sonst sollte sich mein verlorener Taco befinden, wenn nicht in einer Verlorenen Stadt?
 
 [NARRATIVE_LOSTCITY_1_INTRO_8]
-{SAY:winnie}Du bist so logisch wie immer, Dave.
+{SAY:winnie}Diese anhaltende Fixierung trotzt jeder Logik und Vernunft, Benutzer Dave.
 
 [NARRATIVE_LOSTCITY_16_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Suchst du hier nach Aufregung?
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Ihr sucht wohl nach Abenteuern, nicht wahr?
 
 [NARRATIVE_LOSTCITY_16_INTRO_2]
-{SAY:zombossicon}Leider wird dich der verlorene Gargantua töten!
+{SAY:zombossicon}Tja, leider werden die Träger-Gargantuas euren Untergang besiegeln!
 
 [NARRATIVE_LOSTCITY_16_INTRO_3]
-{SAY:zombossicon}Sie tragen Wicht-Zombies. Wicht-Zombies! Mach dich bereit, in die Geschichte einzugehen!
+{SAY:zombossicon}Sie haben Wichte im Anschlag! Also macht euch bereit, Geschichte zu schreiben – als Riesen-Loser!
 
 [NARRATIVE_LOSTCITY_16_INTRO_4]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{AUFGEWUNDERT:crazydave}Ich wünschte, jemand würde mich zu einem kleinen Haus bringen.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich wünschte, jemand würde mich in einem winzigen Haus herumtragen!
 
 [NARRATIVE_LOSTCITY_16_INTRO_5]
-{SAY:winnie}Ich wünsche mir so vieles, Dave. Aber das ist nicht das, was ich will.
+{SAY:winnie}Auch ich habe viele Wünsche, Benutzer Dave, aber das gehört definitiv nicht dazu.
 
 [NARRATIVE_LOSTCITY_17_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Alarm, Dave! Meine Detektoren haben die verlorenen Wicht-Träger geortet.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie} Alarm, Benutzer Dave! Meine Sensoren melden, dass sich Wicht-Träger nähern.
 
 [NARRATIVE_LOSTCITY_17_INTRO_2]
-{EXCITED:crazydave}Verlorene Wichtträger? Bringen sie coole Sachen mit?
+{EXCITED:crazydave}Ach was? Und die tragen Wichte weg?
 
 [NARRATIVE_LOSTCITY_17_INTRO_3]
-{SAY:winnie}Falsch. Sie lassen ihre Rucksäcke auf den Goldfliesen fallen, und die Rucksäcke werden zu Portalen, um Zombies zu transportieren.
+{SAY:winnie}Im Gegenteil. Sie schlagen ihr Zelt auf Gold-Feldern auf, und daraus purzeln dann viele neue Zombies.
 
 [NARRATIVE_LOSTCITY_17_INTRO_4]
-{EXCITED:crazydave}Wicht-Zombies und böse Portale!
+{EXCITED:crazydave}Böse Wichte!
 
 [NARRATIVE_LOSTCITY_2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Detektoren haben etwas von oben registriert!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Sensoren melden, dass sich von oben etwas nähert.
 
 [NARRATIVE_LOSTCITY_2_INTRO_2]
-{EXCITED:crazydave}Vielleicht ist es ein Geschenk! Ein Traum!
+{EXCITED:crazydave}Vielleicht Geschenke! Geschenke des Himmels!
 
 [NARRATIVE_LOSTCITY_2_INTRO_3]
-{SAY:winnie}Das ist eine ziemlich unglaubwürdige Behauptung!
+{SAY:winnie}Die Wahrscheinlichkeit, dass das stimmt, ist statistisch gesehen irrelevant.
 
 [NARRATIVE_LOSTCITY_2_INTRO_4]
-{SAY:winnie}Ich glaube, das muss eine neue Zombie-Bedrohung sein, und wir müssen im Umgang mit diesen Unbekannten vorsichtig sein.
+{SAY:winnie}Ich denke, dass es eine neuartige Zombiebedrohung ist. Hoffentlich kein ungebetener Besuch – bleiben wir auf der Hut.
 
 [NARRATIVE_LOSTCITY_22_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Vorsicht! Dave! Ich habe ein Fallenplättchen gefunden!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Vorsicht, Benutzer Dave! Ich habe Fallen-Felder identifiziert.
 
 [NARRATIVE_LOSTCITY_22_INTRO_2]
-{SAY:winnie}Wenn du etwas darauf pflanzt oder einen Zombie es berühren lässt, wird die Falle ausgelöst!
+{SAY:winnie}Sie werden von Zombies ausgelöst, oder wenn du etwas auf ihnen pflanzt.
 
 [NARRATIVE_LOSTCITY_22_INTRO_3]
-{EXCITED:crazydave}Dann gibt es Tacos, oder?
+{EXCITED:crazydave}Und dann bekomme ich einen Taco?
 
 [NARRATIVE_LOSTCITY_22_INTRO_4]
-{SAG:winnie}Ja, wenn du glaubst, Felsbrocken, Flammen und Tacos wären dasselbe.
+{SAY:winnie}Wenn du mit Tacos lodernde Flammen und riesige Felsbrocken meinst, dann ja.
 
 [NARRATIVE_LOSTCITY_3_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAG:winnie}Dave! Wir stehen vor einer gewaltigen Bedrohung! Ich schlage vor, wir wehren uns mit unserer stärksten Streitmacht!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Wir sind in großer Gefahr, Benutzer Dave. Am besten schlagen wir mit voller Kraft zurück!
 
 [NARRATIVE_LOSTCITY_3_INTRO_2]
-{SAG:crazydave}Stärker! Das ist er! Wir müssen uns ernsthaft mit ihnen unterhalten!
+{SAY:crazydave}Genau! Wir sollten mal wirklich ein ernsthaftes Wörtchen mit denen wechseln.
 
 [NARRATIVE_LOSTCITY_3_INTRO_3]
-{SAG:winnie}Ich meine die Lava-Guave. Sie explodiert und hinterlässt gefährliche Lava.
+{SAY:winnie}Ich meinte eigentlich die Lava-Guave. Wo sie ausbricht, bleibt nur brandgefährliches Magma übrig.
 
 [NARRATIVE_LOSTCITY_3_INTRO_4]
-{EXCITED:crazydave}Das klingt ja noch besser! Erst die ernsthafte Diskussion, dann die Lava.
+{EXCITED:crazydave}Das klingt noch besser! Erst ein ernstes Wörtchen, dann noch etwas Lava!
 
 [NARRATIVE_LOSTCITY_4_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Achtung, Dave. Ich habe einen Zombie mit einer Schaufel entdeckt.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Achtung, Benutzer Dave. Zombie mit Schaufel identifiziert.
 
 [NARRATIVE_LOSTCITY_4_INTRO_2]
-{SAY:crazydave}Kann er etwas graben?
+{SAY:crazydave}Was er damit wohl ausbuddeln will?
 
 [NARRATIVE_LOSTCITY_4_INTRO_3]
-{SAY:winnie}Er kann flache Schüsse blocken, wir müssen einen Weg um die Schaufel herum finden.
+{SAY:winnie}Offenbar wehrt er damit Schüsse ab. Wir müssen einen Weg finden, über die Schaufel zu treffen.
 
 [NARRATIVE_LOSTCITY_4_INTRO_4]
-{SAY:crazydave}Ich weiß! Telepathie!
+{SAY:crazydave}Ich weiß es! TELEKINESE!
 
 [NARRATIVE_LOSTCITY_4_INTRO_5]
-{SAY:winnie}Versuch es noch einmal! Dave.
+{SAY:winnie}Versuche es erneut, Benutzer Dave.
 
 [NARRATIVE_LOSTCITY_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}Versuch nicht, uns die verlorene Stadt, die wir gefunden haben, wegzunehmen!
+{NPC_ENTER:zombossicon} Wagt es nicht, euch meiner Expedition entgegenzustellen! Die Verlorene Stadt gehört mir!
 
 [NARRATIVE_LOSTCITY_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Meine Zombiearmee und ich haben unsere Entdeckung der verlorenen Stadt in einem bekannten Magazin veröffentlicht!
+{SAY:zombossicon}Ich und meine Zombies haben den Fund bereits beim Fachblatt für Fehlendes und Vermisstes gemeldet!
 
 [NARRATIVE_LOSTCITY_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Wir werden zu Legenden, und ihr werdet untergehen!
+{SAY:zombossicon}Der Artikel wird veröffentlicht, und ihr seid GESCHICHTE!
 
 [NARRATIVE_LOSTCITY_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Schau mal, Penny! Da glänzt was!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Guck mal, Penny! Ein glänzendes Glitzerflitzerdings!
 
 [NARRATIVE_LOSTCITY_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:winnie}Meine Sonden zeigen, dass dieses Amulett auf einen anspruchsvollen Weg weist.
+{SAY:winnie}Meine Sensoren zeigen an, dass dieses Amulett den Weg zu einer lang verschollenen Herausforderung weist.
 
 [NARRATIVE_LOSTCITY_OUTRO_DANGER_ROOM_KEY_3]
-{EXCITED:crazydave}Lasst uns ein neues Land entdecken!
+{EXCITED:crazydave}Dann stürzen wir uns ins Abenteuer!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Wir haben überall gesucht, aber keine Tacos gefunden!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}So viel erkundet, und immer noch kein Taco!
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_2]
-{SAY:winnie}Die Suche wird niemals enden! Dave!
+{SAY:winnie}Die Suche wird zweifellos weitergehen, Benutzer Dave.
 
 [NARRATIVE_LOSTCITY_OUTRO_ZOMBOSS_3]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}Meine Entdeckung ist perfekt! Keine Tacos! Eines Tages gehört mir dein Gehirn!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}Alles wie gehabt. Der Taco bleibt unauffindbar. Und eure Gehirne werden eines Tages gewiss mir gehören!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Sieh dir das an! Penny! Eine Schatzkarte!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Na schau an, Penny! Eine Schatzkarte!
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_2]
-{SAY:winnie}Mein Analysesystem zeigt, dass die Quelle dieser Karte ziemlich verdächtig ist.
+{SAY:winnie}Meinen Analysen zufolge ist die Herkunft dieser Karte mehr als dubios.
 
 [NARRATIVE_LOSTCITY_ZOMBIENOTE_3]
-{SAY:crazydave}Hier ist ein großes rotes Kreuz! Penny, wann hast du jemals gesehen, dass ein großes rotes Kreuz etwas Böses bedeutet?
+{SAY:crazydave}Aber da ist ein großes rotes X drauf, Penny. Seit wann ist das etwas Schlechtes?
 
 [NARRATIVE_DARK_ZOMBIENOTE_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Sieh mal! Ist das eine magische Schriftrolle?
@@ -29012,123 +29012,125 @@ FACKELN mich echt ab.
 {PLAYFUL:crazydave}Es hat schon ewig gedauert, es das erste Mal zu reinigen.
 
 [NARRATIVE_COWBOY_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}Hast du jemals darüber nachgedacht, dass du von Crazy Daves Wahnsinn angesteckt wurdest?
+{NPC_ENTER:zombossicon}Kann es sein, dass Deppie Daves Irrsinn dich angesteckt hat?
 
 [NARRATIVE_COWBOY_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Es gibt keinen Zombie-Aufstand, der deine Sicherheit gefährden könnte.
+{SAY:zombossicon}Es gibt keine gewaltige Zombie-Bedrohung.
 
 [NARRATIVE_COWBOY_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Du brauchst keine Pflanzen, um dein Zuhause zu schützen.
+{SAY:zombossicon}Du nutzt keine Pflanzen, um dein Heim zu verteidigen.
 
 [NARRATIVE_COWBOY_INTRO_ZOMBOSS_4]
-{SAY:zombossicon}Ich und diese Zombies sind ganz normale Menschen. Wir wollen dir nur helfen.
+{SAY:zombossicon}Die Zombies und ich sind normale Leute, die dir helfen wollen.
 
 [NARRATIVE_COWBOY_INTRO_ZOMBOSS_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{SAY:crazydave}Ich wette, du erzählst uns auch „nichts außerhalb des Verstandes“!
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{SAY:crazydave}Bestimmt erzählst du uns gleich noch, dass es auch keine Löffel gibt!
 
 [NARRATIVE_COWBOY_NEW_OUTRO_LASTTLEVEL_1]
-{NPC_ENTER:winnie}{SAY:winnie}{START_DIALOG_MUSIC}Dave, es ist Zeit, zusammenzupacken und zu gehen.
+{NPC_ENTER:winnie}{SAY:winnie}{START_DIALOG_MUSIC}Benutzer Dave, es ist Zeit, dass wir aufsatteln und losziehen.
 
 [NARRATIVE_COWBOY_NEW_OUTRO_LASTTLEVEL_2]
-{NPC_ENTER:crazydave}{SPECIAL14}Die Sonne geht unter. Los geht's!
+{NPC_ENTER:crazydave}{SPECIAL14}Da, ein Sonnenuntergang. Reiten wir ihm entgegen!
 
 [NARRATIVE_COWBOY_NEW_OUTRO_LASTTLEVEL_3]
-{EXCITED:winnie}Wohin führt uns deiner Meinung nach die Zukunft?
+{EXCITED:winnie}Was hält die Zukunft wohl für uns bereit?
 
 [NARRATIVE_COWBOY_NEW_OUTRO_LASTTLEVEL_4]
-{PLAYFUL:crazydave}Welche Zukunft meinst du?
+{PLAYFUL:crazydave}Die Zukunft, sagst du?
 
 [NARRATIVE_COWBOY_NEW_OUTRO_LASTTLEVEL_5]
-{SAY:crazydave}Wir sollten uns meine Zeit-Raum-Taco-Karte noch einmal ansehen.
+{SAY:crazydave}Wir sollten nochmal meine Raumzeit-Taco-Karte konsultieren.
 
 [NARRATIVE_COWBOY_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Mein Onkel Milo hatte mal so ein Ding. Er nannte es eine Knall-Knall-Box.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Mein Onkel Milo hatte so eins, die nannten es Boombox.
 
 [NARRATIVE_COWBOY_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:winnie}Eigentlich nicht mal annähernd. Egal.
+{SAY:winnie}Ok, passt schon, ist genehmigt.
 
 [NARRATIVE_COWBOY_OUTRO_GARGANTUAR_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Vielleicht können wir das nutzen, um unsere Gedanken zu befreien.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Vielleicht können wir damit unseren Geist öffnen.
 
 [NARRATIVE_COWBOY_OUTRO_GARGANTUAR_2]
-{PLAYFUL:crazydave}Ich muss noch etwas aufräumen.
+{PLAYFUL:crazydave}Ich muss noch einiges saubermachen.
 
 [NARRATIVE_COWBOY_OUTRO_GARGANTUAR_3]
-{SAY:winnie}Am besten benutzt man es, um eine Welt zu betreten.
+{SAY:winnie}Es wäre besser, mal Zutritt zu einer Welt zu erlangen.
 
 [NARRATIVE_COWBOY_OUTRO_GARGANTUAR_4]
-{TIRED:winnie}Weißt du, am besten ist es ...
+{TIRED:winnie}Du weißt schon, für das große Ziel ...
 
 [NARRATIVE_COWBOY_OUTRO_GARGANTUAR_5]
-{EXCITED:crazydave}Tacos! Fast hätte ich es vergessen!
+{EXCITED:crazydave}Den Taco! Den hatte ich schon fast vergessen.
+
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}Genau! Diese Pflanzen wirken gegen dich und deine Zombies.
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Ganz recht! Diese Pflanzen gegen dich und deine Zombies.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_2]
-{SAY:crazydave}Wir haben noch nicht einmal angefangen, es ernst zu meinen ...
+{SAY:crazydave}Und wir haben nicht mal Löffel verwendet ...
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_3]
-{SAY:crazydave}Aber so etwas gibt es wirklich!
+{SAY:crazydave}Obwohl diese Dinger definitiv existieren!
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:crazydave}{NPC_ENTER:zombossicon}{SAY:zombossicon}Du hast Recht.
+{NPC_EXIT:crazydave}{NPC_ENTER:zombossicon}{SAY:zombossicon}Ich gebe zu, dass du da recht hast.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_5]
-{SAY:zombossicon}Wir sind uns in der Frage der Ernsthaftigkeit einig.
+{SAY:zombossicon}Hinsichtlich der Natur von Löffeln gibt es keinen existentiellen Konflikt.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_1]
-{NPC_ENTER:crazydaveicon}{START_DIALOG_MUSIC}Das sieht ziemlich futuristisch aus.
+{NPC_ENTER:crazydaveicon}{START_DIALOG_MUSIC}Das sieht doch alles ganz futuristisch aus.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_10]
-{SAY:zombossicon}Mit freundlichen Grüßen, Edgar Zombihead.
+{SAY:zombossicon}Hochachtungsvoll, Dr. Edgar Zomboss.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_11]
 {NPC_EXIT:zombossicon}
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_12]
-{EXCITED:crazydaveicon}Der Doktor sieht aus wie ein echt netter Kerl!
+{EXCITED:crazydaveicon}Dieser Herr Boss scheint ein netter Typ zu sein!
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_13]
-{TIRED:winnieicon}Vor dem sollten wir uns in Acht nehmen, Dave.
+{TIRED:winnieicon}Mit dem sollten wir vorsichtig sein, Benutzer Dave.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_14]
-{SAY:winnieicon}In der Zwischenzeit...
+{SAY:winnieicon}In der Zwischenzeit ...
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_15]
-{EXCITED:winnieicon}Mit Sternen kannst du die Portale von Zeit und Raum öffnen, die du später finden wirst!
+{EXCITED:winnieicon}Verdiene Sterne, die du später für Sternentore brauchen kannst!
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_16]
-{SAY:winnieicon}In der Zwischenzeit kannst du die Endlose Zone auch in Zukunft weiter herausfordern.
+{SAY:winnieicon}Endlos-Zonen sind auch ein gutes Training für zukünftige Prüfungen.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_17]
-{SAY:crazydaveicon}{SPECIAL15}Denk nur an eines. Morgen wartet immer ein Taco auf dich ...
+{SAY:crazydaveicon}{SPECIAL15}Denk einfach daran: Ein neuer Tag, ein neuer Taco ...
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_18]
-{SPECIAL16:crazydave}In uns allen steckt ein Taco.
+{SPECIAL16:crazydave}Und in jedem von uns steckt irgendwo ein Taco.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_2]
-{PLAYFUL:crazydaveicon}Ich bin sicher, der zukünftige Dave wird die wahre Bedeutung von Tacos verstehen.
+{PLAYFUL:crazydaveicon}Ich wette, Zukunfts-Dave hat das Taco-Paradoxon schon gelöst.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_3]
-{NPC_ENTER:winnieicon}Ich habe schnell fliegende Tachyonen entdeckt.
+{NPC_ENTER:winnieicon}Ich nehme einen Haufen Tachyonen-Partikel wahr.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_4]
-{EXCITED:winnieicon}Vielleicht versucht die zukünftige Penny, uns zu kontaktieren.
+{EXCITED:winnieicon}Vielleicht versucht Zukunfts-Penny, Kontakt aufzunehmen.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_5]
-{NPC_ENTER:zombossicon}Hallo, Zeitreisende!
+{NPC_ENTER:zombossicon}Seid gegrüßt, Zeitreisende.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_6]
-{SAY:zombossicon}Die Zukunft erwartet euch.
+{SAY:zombossicon}Euer Typ ist gefragt – in der Zukunft.
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_7]
-{PLAYFUL:zombossicon}Aber Vorsicht ...
+{PLAYFUL:zombossicon}Noch ein Hinweis ...
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_8]
-{SAY:zombossicon}Sobald ihr drin seid, wird euer gesetzliches Recht auf Besitz des Gehirns ...
+{SAY:zombossicon}Mit dem Eintritt übertragt ihr sämtliche Rechte an euren Gehirnen ...
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_9]
-{SAY:zombossicon}Dr. Zomboss übergeben.
+{SAY:zombossicon}vertrauensvoll an Dr. Edgar Zomboss.
+
 [NARRATIVE_DANGER_ROOM_INTRO_BEACH_1]
 {NPC_ENTER:crazydave}{EXCITED:crazydave}Hallo Nachbar! Willkommen bei Tiki Torch!
 
@@ -29178,6 +29180,7 @@ FACKELN mich echt ab.
 
 [NARRATIVE_DANGER_ROOM_INTRO_MODERN_1]
 {NPC_ENTER:crazydave}{EXCITED:crazydave}Hallo, Nachbar! Willkommen auf dem Dangerous House Highway!
+
 [NARRATIVE_DANGER_ROOM_LAWNMOWER_SUCCESS_1]
 {NPC_ENTER:crazydave}{EXCITED}Gut gemacht, Nachbar!
 
@@ -29380,148 +29383,149 @@ FACKELN mich echt ab.
 {SAY:zombossicon}Stell dir jetzt mein manisches Gelächter vor, als ich gehe.
 
 [NARRATIVE_DINO_1_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Achtung! Dave. Meine Sensoren zeigen, dass wir die letzten 153.954.765 Jahre erreicht haben.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Achtung, Benutzer Dave. Meine Sensoren melden, dass wir 153.954.765 Jahre in die Vergangenheit gereist sind.
 
 [NARRATIVE_DINO_1_INTRO_2]
-{EXCITED:crazydave}Wow! Ich war damals noch nicht einmal geboren!
+{EXCITED:crazydave}Boah! Da war ich ja nicht mal geboren!
 
 [NARRATIVE_DINO_1_INTRO_3]
-{SAY:winnie}Richtig. Sieht aus, als wären wir in einem Jura-Sumpf.
+{SAY:winnie}Richtig. Offenbar sind wir in einer Art jurassischem Moor gelandet.
 
 [NARRATIVE_DINO_1_INTRO_4]
-{EXCITED:crazydave}Kein Wunder, dass ich mehr Sauerstoff rieche!
+{EXCITED:crazydave}Ich wusste doch, dass die Luft hier sauerstoffreicher riecht!
 
 [NARRATIVE_DINO_15_OUTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Sieh mal, Penny! Ein tanzender Stern!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny, schau mal! Ein frischer Sternenklumpen!
 
 [NARRATIVE_DINO_15_OUTRO_2]
-{SAY:winnie}Das ist ein Meteor. Interessant. Aufzeichnungen zeigen, dass er ... größer sein müsste.
+{SAY:winnie}Ein Meteorit. Seltsam. Meinen Aufzeichnungen nach sollte er ... größer sein.
 
 [NARRATIVE_DINO_15_OUTRO_3]
-{SAY:crazydave}Größer? So groß wie ein riesiger Taco?
+{SAY:crazydave} Größer? So wie ein Burrito?
 
 [NARRATIVE_DINO_15_OUTRO_4]
-{SAY:winnie}So groß wie Seattle. Hoffentlich hat die Geschichte recht ...
+{SAY:winnie}Mehr so groß wie Köln. Ich hoffe, da hat sich geschichtlich nichts verschoben...
 
 [NARRATIVE_DINO_16_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Legt euren Verstand beiseite, es ist Zeit für etwas Verrücktheit!
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Gebt hin eure Hirne, Unfähige, die ihr durch die Zeit stolpert!
 
 [NARRATIVE_DINO_16_INTRO_2]
-{SAY:zombossicon}Sonst erwartet euch das gleiche Schicksal wie diese schrecklichen Blitzechsen: Aussterben!
+{SAY:zombossicon}Oder teilt das Schicksal dieser schrecklichen Donnerechsen: AUSLÖSCHUNG!
 
 [NARRATIVE_DINO_16_INTRO_3]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}Aber ich will nicht aussterben!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Aber ich möchte nicht ausgelöscht werden!
 
 [NARRATIVE_DINO_17_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}...Ah...
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}...seufz...
 
 [NARRATIVE_DINO_17_INTRO_2]
-{SAY:winnie}Was ist los mit dir, Dave?
+{SAY:winnie}Was beschäftigt dich, Benutzer Dave?
 
 [NARRATIVE_DINO_17_INTRO_3]
-{EXCITED:crazydave}Ich habe mir schon immer eine makellose Sonnenblume gewünscht, die einen großen Sonnenstrahl ausstrahlt!
+{EXCITED:crazydave}Ich wollte einfach schon immer eine primitive Sonnenblume, die massig Sonnen abwirft!
 
 [NARRATIVE_DINO_17_INTRO_4]
-{SAY:winnie}Dein Wunsch wird bald in Erfüllung gehen, Dave.
+{SAY:winnie}Dann wirst du schon bald glücklich sein, Benutzer Dave.
 
 [NARRATIVE_DINO_2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Diese Ära ist bekannt für ihre ungewöhnlichen Lebensformen, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Diese Epoche ist für ihre ungewöhnlichen Lebensformen bekannt, Benutzer Dave.
 
 [NARRATIVE_DINO_2_INTRO_2]
-{EXCITED:crazydave}Ich weiß! Du meinst Nacktsamer, richtig?
+{EXCITED:crazydave}Ich weiß! Nacktsamige Pflanzen, oder?
 
 [NARRATIVE_DINO_2_INTRO_3]
-{SAY:winnie}Ich meine Sauropoden, Dave. Dinosaurier.
+{SAY:winnie}Ich dachte eher an Saurier, Benutzer Dave. Dinosaurier.
 
 [NARRATIVE_DINO_2_INTRO_4]
-{SAY:winnie}Solange wir sie nicht provozieren, greifen sie uns nicht an.
+{SAY:winnie}Sie werden uns nicht direkt angreifen, und wir haben keinen Einfluss auf sie.
 
 [NARRATIVE_DINO_2_INTRO_5]
-{SAY:winnie}Aber sie reagieren definitiv auf Zombies. Vorsicht!
+{SAY:winnie}Sie reagieren aber definitiv auf Zombies. Bleib auf der Hut!
 
 [NARRATIVE_DINO_21_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Pass auf die wilden Jurassic-Zombies auf, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Pass auf die jurassischen Rüpel-Zombies auf, Benutzer Dave.
 
 [NARRATIVE_DINO_21_INTRO_2]
-{SAY:winnie}Sie sind immun gegen den Rückstoßeffekt der Ur-Erbsenkanone.
+{SAY:winnie}Sie sind gegen den Rückschlag-Effekt der Urzeit-Erbsenkanone immun.
 
 [NARRATIVE_DINO_21_INTRO_3]
-{EXCITED:crazydave}Hä? Aber wie ist das möglich? Sogar die Gargantuas werden zurückgestoßen!
+{EXCITED:crazydave}Was? Aber wie? Selbst Gargantuas haut es zurück!
 
 [NARRATIVE_DINO_21_INTRO_4]
-{SAY:winnie}Stimmt, Dave. Die Wilden Zombies sind so dumm, dass sie nicht einmal den Regeln der klassischen Physik folgen.
+{SAY:winnie}Schon richtig, Benutzer Dave. Aber der Rüpel ist einfach zu dumm, um einfache physikalische Gesetze zu erkennen.
 
 [NARRATIVE_DINO_23_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe in der Nähe eine Ur-Kartoffelmine gefunden, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Sensoren melden Urzeit-Kartoffelminen in der Nähe, Benutzer Dave.
 
 [NARRATIVE_DINO_23_INTRO_2]
-{SAY:winnie}Sie verfügen über eine primitive Kraft, die älter ist als die Altsteinzeit und unsere modernste Technologie bei weitem übertrifft.
+{SAY:winnie}Ihre präpaleolithische Power ist viel größer als die unserer modernen Versionen.
 
 [NARRATIVE_DINO_23_INTRO_3]
-{EXCITED:crazydave}Zerquetschte Kartoffeln? Gefällt mir!
+{EXCITED:crazydave}STAMPF-Kartoffeln? Ich liebe sie jetzt schon!
 
 [NARRATIVE_DINO_6_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich spüre, wie der Boden bebt, Penny! Kommen noch mehr Dinosaurier?
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Die Erde bebt, Penny! Sind das mehr Dinos?
 
 [NARRATIVE_DINO_6_INTRO_2]
-{SAY:winnie}Ja, Dave. Eine Herde Stegosaurus nähert sich.
+{SAY:winnie}In der Tat, Benutzer Dave. Eine Herde Stegosaurier nähert sich.
 
 [NARRATIVE_DINO_6_INTRO_3]
-{SAY:winnie}Meine Sensoren zeigen, dass sie ihre Schwänze um Zombies wickeln und sie wegschleudern können.
+{SAY:winnie}Meine Sensoren deuten an, dass sie Zombies mit dem Schwanz einfangen und dann fortschleudern.
 
 [NARRATIVE_DINO_6_INTRO_4]
-{EXCITED:crazydave}Ich liebe es!
+{EXCITED:crazydave}Das würde ich auch tun!
 
 [NARRATIVE_DINO_8_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe eine neue Pflanze analysiert, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe eine neue Pflanze analysiert, Benutzer Dave.
 
 [NARRATIVE_DINO_8_INTRO_2]
-{SAY:winnie}Die Duftpilze können Dinosaurier bezaubern und sie gegen Zombies aufhetzen.
+{SAY:winnie}Der Parfümpilz verzaubert Dinosaurier und bringt sie gegen die Zombies auf.
 
 [NARRATIVE_DINO_8_INTRO_3]
-{EXCITED:crazydave}Dinosaurier-Kraft? Für uns? Das sind bessere Neuigkeiten als Tacos!
+{EXCITED:crazydave}Dinosauer-Power? Auf UNSERER Seite? Das sind ja taconöse Neuigkeiten!
 
 [NARRATIVE_DINO_9_INTRO_1]
-{NPC_ENTER:crazydave}{EXCITED:crazydave}Penny! Ich habe gerade entdeckt, wie sehr ich stumme Buchstaben liebe!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}Penny! Ich merke wieder, wie sehr ich Wörter mit komplizierter Aussprache mag.
 
 [NARRATIVE_DINO_9_INTRO_2]
-{NPC_ENTER:winnie}{SAY:winnie}Was für ein Zufall! Eine Gruppe Pterodaktylus nähert sich, Dave.
+{NPC_ENTER:winnie}{SAY:winnie}Tja, wie es der Zufall will, Benutzer Dave, nähert sich gerade eine Schar Pterodaktylen.
 
 [NARRATIVE_DINO_9_INTRO_3]
-{EXCITED:crazydave}Pterodaktylus? Super! Echt super!
+{EXCITED:crazydave}Pterodaktylen? Ist ja ptotal pturbo-ptoll!
 
 [NARRATIVE_DINO_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Das hat mich echt geärgert!
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Mein Zorn ist epochal!
 
 [NARRATIVE_DINO_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Kannst du bitte aufhören, mich mit deinen dummen Methoden zu ärgern?
+{SAY:zombossicon}Gibt es denn kein Zeitalter, in dem ihr Dummköpfe mir nicht auf den Wecker geht?
 
 [NARRATIVE_DINO_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Halt einfach still. Ich möchte dir einen riesigen Felsen vorstellen.
+{SAY:zombossicon}Bleibt genau da stehen! Ich habe für euch einen Termin mit einem riesigen Felsen vereinbart.
 
 [NARRATIVE_DINO_INTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{SAY:crazydave}Ich hasse Kieselsteine!
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{SAY:crazydave}Ich hasse tickende Felsbomben!
 
 [NARRATIVE_DINO_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich habe einen Zehenabdruck gefunden! Er ist riesig!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich sehe einen Zehennagel! Von ungewöhnlicher Größe!
 
 [NARRATIVE_DINO_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:winnie}Der Pfotenabdruck dieses Velociraptors zeigt, dass wir die Arena der uralten Dinosaurier betreten haben, Dave!
+{SAY:winnie}Diese Raptoren-Klaue deutet darauf hin, dass hier eine Arena wahrhaft dinosaurischer Dimensionen stand, Benutzer Dave!
 
 [NARRATIVE_DINO_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe einen Meteor entdeckt, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Sensoren melden einen nahenden Meteor, Benutzer Dave.
 
 [NARRATIVE_DINO_OUTRO_ZOMBOSS_2]
-{SAY:winnie}Ich schlage vor, diesen Raum sofort zu verlassen.
+{SAY:winnie}Ich empfehle einen sofortigen Abzug aus dieser Zeitzone.
 
 [NARRATIVE_DINO_OUTRO_ZOMBOSS_3]
-{EXCITED:crazydave}Auf Wiedersehen, Dinosaurier! Bald seid ihr Vögel!
+{EXCITED:crazydave}Tschüss, Dinos! Schon bald werdet ihr Vögel sein!
 
 [NARRATIVE_DINO_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}Pff! Ich habe keine andere Wahl, als den Paradox-Modus zu implementieren!
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}Bah! Ihr lasst mir keine Wahl, außer ... Projekt Paradox zu initiieren!
 
 [NARRATIVE_DINO_OUTRO_ZOMBOSS_5]
-{SAY:zombossicon}Ich werde euch schon noch durchschauen, ihr Idioten!
+{SAY:zombossicon}Ich kriege euch, ihr Irren!
+
 [NARRATIVE_EGYPT_INTRO_GARGANTUAR_1]
 {NPC_ENTER:zombossicon}Hallo, liebe Zeitreisende!
 
@@ -30544,142 +30548,142 @@ FACKELN mich echt ab.
 {PLAYFUL:crazydaveicon}In diesem Fall, hier ist das richtige Glas!
 
 [NARRATIVE_MODERN_1_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Ahaha! Projekt Paradox ... startet jetzt!
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Aha! Projekt Paradox beginnt ... JETZT!
 
 [NARRATIVE_MODERN_1_INTRO_2]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Zeitlinienwarnung, Dave!
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Zeitreisen-Alarm, Benutzer Dave!
 
 [NARRATIVE_MODERN_1_INTRO_3]
-{SAY:winnie}Wir sind zu dem Moment zurückgekehrt, bevor wir aufgebrochen sind!
+{SAY:winnie}Wir sind wenige Augenblicke vor unserer Abreise angekommen!
 
 [NARRATIVE_MODERN_1_INTRO_4]
-{SAY:winnie}Wenn ich richtig vermute, wollte Dr. Zomboss-Head dich von Anfang an davon abhalten, Tacos zu essen!
+{SAY:winnie}Wenn ich das richtig sehe, wird Dr. Zomboss versuchen, dein erstes Taco-Essen zu verhindern!
 
 [NARRATIVE_MODERN_1_INTRO_5]
-{SAY:winnie}Unsere Reise wäre vorbei!
+{SAY:winnie}Dann hören alle unsere Reisen auf, zu existieren!
 
 [NARRATIVE_MODERN_1_INTRO_6]
-{EXCITED:crazydave}Nein-------------!
+{EXCITED:crazydave}NEEEEEE
 
 [NARRATIVE_MODERN_1_INTRO_7]
-{EXCITED:crazydave}----------! Entschuldigung, ich war zu beschäftigt damit, „Nein“ zu schreien. Hast du „Tacos“ erwähnt?
+{EXCITED:crazydave}...EIIN! Entschuldigung, ich war gerade dabei, Nein zu schreien. Hast du Taco gesagt?
 
 [NARRATIVE_MODERN_1_INTRO_8]
-{SAY:winnie}Wir müssen vorsichtig sein, Dave. Dr. Zomboss-Head wird seine verschiedenen Zeitzombies auf uns loslassen!
+{SAY:winnie}Vorsicht, Benutzer Dave. Dr. Zomboss wird sicherlich Zombies aus verschiedenen Zeitaltern auf uns hetzen!
 
 [NARRATIVE_MODERN_1_INTRO_9]
-{EXCITED:crazydave}Tacos------!
+{EXCITED:crazydave}TACOOOOOOO!!!
 
 [NARRATIVE_MODERN_11_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Wir haben ein paar Säcke Schattenpilzsamen mitgenommen, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Wir haben ein Samenpäckchen für Schattenpilze erhalten, Benutzer Dave.
 
 [NARRATIVE_MODERN_11_INTRO_2]
-{SAY:winnie} Giftige Schattenpilze sind Schattenpflanzen. Denk daran, sie in der Nähe von Mondblumen zu pflanzen, um zusätzliche Effekte.
+{SAY:winnie} Schattenpilze sind Schattenpflanzen. Pflanze sie also neben Mondblumen, um ihre Bonus-Effekte zu nutzen.
 
 [NARRATIVE_MODERN_11_INTRO_3]
-{EXCITED:crazydave} Bleibt zusammen, um zu gewinnen!
+{EXCITED:crazydave} Auf gute Nachbarschaft!
 
 [NARRATIVE_MODERN_15_OUTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave} Schau mal, Penny! Meine Tacos!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave} Sieh nur, Penny! MEIN TACO!
 
 [NARRATIVE_MODERN_15_OUTRO_2]
-{SAY:winnie}Nein, Dave! Auf gar keinen Fall! Ich habe eine hochrangige Falle entdeckt!
+{SAY:winnie}Nein, Benutzer Dave! Vorsicht! Meine Sensoren melden eine hohe Fallen-Wahrscheinlichkeit!
 
 [NARRATIVE_MODERN_15_OUTRO_3]
-{EXCITED:crazydave}Aber ... Hunger ... Essen ... Tacos!
+{EXCITED:crazydave}Aber ... HUNGRIG ... MAMPFEN ... TACO!
 
 [NARRATIVE_MODERN_16_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Dummkopf! Du bist in meine extrem offensichtliche Falle getappt. Falle!
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Ihr Narren! Ihr seid in meine geradezu unverschämt offensichtliche Falle getappt!
 
 [NARRATIVE_MODERN_16_INTRO_2]
-{SAY:zombossicon} Meine Gläser und Gargantuas werden dich zu Brei schlagen!
+{SAY:zombossicon} Mein Heer von Gargantuas wird euch in die Vergessenheit prügeln!
 
 [NARRATIVE_MODERN_16_INTRO_3]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{EXCITED:crazydave}Und dann kann ich Tacos essen?
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{EXCITED:crazydave}Und dann bekomme ich meinen Taco?
 
 [NARRATIVE_MODERN_17_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie} Der Dämmerungsschütze ist eine weitere Schattenpflanze, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Der Schattenlupfer ist eine weitere Schattenpflanze, Benutzer Dave.
 
 [NARRATIVE_MODERN_17_INTRO_2]
-{SAY:winnie}Er kann alleine kämpfen und explosive Objekte schleudern.
+{SAY:winnie}Ist er allein, schleudert er explosive Projektile.
 
 [NARRATIVE_MODERN_17_INTRO_3]
-{SAY:winnie}In Im verstärkten Zustand kann es in drei Reihen gleichzeitig feuern!
+{SAY:winnie}Wird er mit Kraft versorgt, beschießt er sogar drei Reihen!
 
 [NARRATIVE_MODERN_17_INTRO_4]
-{EXCITED:crazydave}Das ist genau die gleiche Anzahl an Daumen und Nasen wie ich!
+{EXCITED:crazydave}Das ist eine Reihe pro Daumen und Nase!
 
 [NARRATIVE_MODERN_19_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAG:winnie}Die Fluchtwurzel ist eine tückische Pflanze, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Die Fluchtwurzel ist eine vertrackte Pflanze, Benutzer Dave.
 
 [NARRATIVE_MODERN_19_INTRO_2]
-{SAG:winnie}Wenn sie bedroht wird, verwandelt sie sich in eine explosive Pflanze!
+{SAY:winnie}Wird sie bedroht, reagiert sie leicht explosiv!
 
 [NARRATIVE_MODERN_19_INTRO_3]
-{SAG:winnie}Wenn du darauf klickst und dann auf eine andere Pflanze, tauschen sie die Plätze!
+{SAY:winnie}Und wenn du sie und dann eine andere Pflanze antippst, tauschen sie die Plätze!
 
 [NARRATIVE_MODERN_19_INTRO_4]
-{SAG:winnie}Du kannst die Fluchtwurzel benutzen, um Tiere aus lebensbedrohlichen Situationen zu retten!
+{SAY:winnie}Du kannst also mit der Fluchtwurzel bedrohte Pflanzen retten!
 
 [NARRATIVE_MODERN_19_INTRO_5]
-{EXCITED:crazydave}Was? Werden alle Pflanzen sterben? Ruf die Polizei!
+{EXCITED:crazydave}Waaaaaas? Die Pflanzen, bedroht? RUFT DIE POLIZEI!
 
 [NARRATIVE_MODERN_2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Mondblumen strahlen Sonnenlicht aus, Dave. Aber das ist noch nicht alles.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Die Mondblume gibt Sonnen aus, Benutzer Dave. Aber das ist noch nicht alles.
 
 [NARRATIVE_MODERN_2_INTRO_2]
-{SAY:winnie}Meine Scans zeigen, dass sie ein besonderes Licht abgeben, das Pflanzen derselben Art stärkt.
+{SAY:winnie}Meine Scans melden, dass ihr spezielles Leuchten Pflanzen ihrer Art zugute kommt.
 
 [NARRATIVE_MODERN_2_INTRO_3]
-{SAY:winnie}Mondblumen zusammen anzubauen sollte ihre Stärke erhöhen.
+{SAY:winnie}Pflanze Mondblumen direkt nebeneinander. Dadurch nimmt ihre Kraft noch weiter zu.
 
 [NARRATIVE_MODERN_2_INTRO_4]
-{SAY:winnie}Ich vermute, sie haben den gleichen Effekt auf andere Schattenpflanzen.
+{SAY:winnie}Ich schätze, denselben Effekt haben sie vielleicht auch auf andere Schattenpflanzen.
 
 [NARRATIVE_MODERN_2_INTRO_5]
-{EXCITED:crazydave}Tacos-----!
+{EXCITED:crazydave}TACOOOOOOOO!!!
 
 [NARRATIVE_MODERN_21_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAG:winnie}Fußball-Zombies sind gefährlich, Dave!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}All-Star-Zombies im Anmarsch, Benutzer Dave!
 
 [NARRATIVE_MODERN_21_INTRO_2]
-{SAG:winnie}Sie reißen die erste Pflanze um, die ihnen über den Weg läuft!
+{SAY:winnie}Sie überrennen und zerstören die erste Pflanze, auf die sie treffen!
 
 [NARRATIVE_MODERN_21_INTRO_3]
-{EXCITED:crazydave}Ich gebe dem Schiedsrichter die Schuld!
+{EXCITED:crazydave}Das ist doch alles die Schuld von diesem Schiedsrichter!
 
 [NARRATIVE_MODERN_22_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Hey, wie geht's? Ich glaube, das ist wieder Bejeweled, Penny!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Oh, holla! Sieht nach einer neuen Beghouled-mäßigen Mission aus, Penny!
 
 [NARRATIVE_MODERN_23_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Die Dunkle Primel ist eine Schattenpflanze, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Die Friemel ist eine Schattenpflanze, Benutzer Dave.
 
 [NARRATIVE_MODERN_23_INTRO_2]
-{SAY:winnie}Sie reißt einen Zombie weg, der sich auf derselben Linie befindet.
+{SAY:winnie}Sie zieht einen Zombie, der ihre Reihe betritt, in den Boden.
 
 [NARRATIVE_MODERN_23_INTRO_3]
-{SAY:winnie}Wenn sie gestärkt ist, kann sie es mit drei Zombies aufnehmen, bevor sie verschwindet.
+{SAY:winnie}Mit Kraft versorgt, kann sie sogar drei Zombies kompostieren, bevor sie verblüht.
 
 [NARRATIVE_MODERN_23_INTRO_4]
-{EXCITED:crazydave}Sieht aus, als würde sie sich zu sehr anstrengen!
+{EXCITED:crazydave}Ganz schön ehrgeizig!
 
 [NARRATIVE_MODERN_24_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich höre kleine Füße! Schnipp, schnipp!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich höre das Getrappel winziger Füße!
 
 [NARRATIVE_MODERN_24_INTRO_2]
-{SAY:winnie}Sei vorsichtig, Dave. Ich habe da vorne einen Fanboy-Zombie entdeckt!
+{SAY:winnie}Dann sei vorsichtig, Benutzer Dave. Meine Systeme melden Superfan-Wichte voraus.
 
 [NARRATIVE_MODERN_24_INTRO_3]
-{SAY:winnie}Sie sind ein starkes Team!
+{SAY:winnie}Ihr Teamgeist ist echt explosiv!
 
 [NARRATIVE_MODERN_3_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Das Shrinking Violet macht seinem Namen alle Ehre, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Das Schrumpf-Veilchen macht seinem Namen alle Ehre, Benutzer Dave.
 
 [NARRATIVE_MODERN_3_INTRO_2]
-{SAY:winnie}Es schrumpft Zombies und macht sie schwächer.
+{SAY:winnie}Es schrumpft Zombies und schwächt sie.
 
 [NARRATIVE_MODERN_3_INTRO_3]
-{EXCITED:crazydave}Mini-Zombies! Finger weg von meinen Waden!
+{EXCITED:crazydave}Winzige Zombies! Weg von meinen Schienenbeinen!
 
 [NARRATIVE_MODERN_25_INTRO_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Dein Ende ist da!
@@ -30691,7 +30695,7 @@ FACKELN mich echt ab.
 {SAY:zombossicon}Und ich will Zukunft, Gegenwart und Vergangenheit wiederherstellen!
 
 [NARRATIVE_MODERN_25_INTRO_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie} {SAY:winnie}Stimmt das, Dave?
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Stimmt das, Dave?
 
 [NARRATIVE_MODERN_25_INTRO_5]
 {SAY:winnie}Hat unsere Suche die Zeitlinie zerstört?
@@ -30721,7 +30725,7 @@ FACKELN mich echt ab.
 {SAY:winnie}Ich mache mir Sorgen, Dave. Was, wenn das stimmt, was er gesagt hat?
 
 [NARRATIVE_MODERN_25_OUTRO_6]
-{EXCITED:crazydave}Mir ist alles egal außer Tacos, Penny! Nur zu!
+{EXCITED:crazydave}Mir ist alles egal außer Tacos, Penny! Nur los!
 
 [NARRATIVE_MODERN_26_INTRO_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Bitte, Zeitreißverschluss, du musst auf die Vernunft hören!
@@ -30742,10 +30746,7 @@ FACKELN mich echt ab.
 {SAY:zombossicon}Ich lüge nicht!
 
 [NARRATIVE_MODERN_26_OUTRO_3]
-{SAY:zombossicon}Du kannst nicht zweimal denselben Taco essen! Die Imp-Zombies kommen!
-
-[NARRATIVE_MODERN_26_OUTRO_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{EXCITED:crazydave}Unsterbliche Zombies? Ich hasse unsterbliche Zombies! Ich hasse sie so sehr!
+{SAY:zombossicon}Du kannst nicht zweimal denselben Taco essen!
 
 [NARRATIVE_MODERN_27_INTRO_1]
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Wenn du nicht auf mich hörst, wirst du vernichtet!
@@ -30796,52 +30797,52 @@ FACKELN mich echt ab.
 {SAY:winnie}Ich habe eine besondere Köstlichkeit entdeckt, Dave-san.
 
 [NARRATIVE_MODERN_5_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Nachtschatten ist eine weitere Schattenpflanze, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Der Nachtschatten ist eine andere Schattenpflanze, Benutzer Dave.
 
 [NARRATIVE_MODERN_5_INTRO_2]
-{SAY:winnie}Er kann Zombies schlagen und ihnen so Schaden zufügen, wenn sie alleine kämpfen.
+{SAY:winnie}Er verpasst Zombies schallende Ohrfeigen.
 
 [NARRATIVE_MODERN_5_INTRO_3]
-{SAY:winnie}Aber wenn man ihn neben Mondblume pflanzt, wird er noch mächtiger!
+{SAY:winnie}Aber wenn du ihn neben eine Mondblume pflanzt, werden beide noch mächtiger!
 
 [NARRATIVE_MODERN_5_INTRO_4]
-{EXCITED:crazydave}Pflanzenbrüder? Das ist verrückt!
+{EXCITED:crazydave}Botanische Buddies? Ist ja VERRRR-RÜCKT!
 
 [NARRATIVE_MODERN_8_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAG:winnie}Ich habe ein Pflanzenraster entdeckt, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich registriere ein Pflanzen-Gitter, Benutzer Dave.
 
 [NARRATIVE_MODERN_8_INTRO_2]
-{SAG:winnie}Mein Scanner sagt, wir können sie austauschen, um ein 3-Gewinnt-Spiel zu spielen.
+{SAY:winnie}Meine Daten deuten darauf hin, dass diese ausgetauscht und in Dreierserien angeordnet werden können.
 
 [NARRATIVE_MODERN_8_INTRO_3]
-{EXCITED:crazydave}Das habe ich auf meinem Handy gesehen!
+{EXCITED:crazydave}So ein Spiel habe ich schon mal auf meinem Telefönchen gesehen!
 
 [NARRATIVE_MODERN_9_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAG:winnie}Mein Detektor sagt, der Heliumpegel steigt, Dave.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meine Sensoren melden erhöhte Helium-Werte, Benutzer Dave.
 
 [NARRATIVE_MODERN_9_INTRO_2]
-{SAY:winnie}Ich vermute, wir müssen uns mit einem oder mehreren Ballon-Zombies herumschlagen.
+{SAY:winnie}Vermutlich nähern sich ein oder mehrere Ballon-Zombies.
 
 [NARRATIVE_MODERN_9_INTRO_3]
-{EXCITED:crazydave}Ich hasse Ballon-Zombies!
+{EXCITED:crazydave}Ich hasse einen oder mehrere Ballon-Zombies!
 
 [NARRATIVE_MODERN_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny! Ein Abwasserrohr von beliebiger Länge!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Penny! Ein Abflussrohr von unklarer Länge!
 
 [NARRATIVE_MODERN_OUTRO_DANGER_ROOM_KEY_2]
-{SAY:winnie}Sei vorsichtig, Dave. Das Rohr ist schon öfter mit Dünger in Berührung gekommen!
+{SAY:winnie}Vorsicht, Benutzer Dave. Dieses Rohr ist Teil des kommunalen Kanalrohrsystems, ein endloses Labyrinth.
 
 [NARRATIVE_MORE_LEVELS_1]
-{NPC_ENTER:winnieicon}{SAY}Es gibt noch viele weitere Level in der offenen Welt.
+{NPC_ENTER:winnieicon}{SAY}Es gibt noch weitere Levels in offenen Welten.
 
 [NARRATIVE_MORE_LEVELS_2]
-{EXCITED:winnieicon}Und es warten viele Pflanzen und Belohnungen darauf, von dir eingesammelt zu werden.
+{EXCITED:winnieicon}Und es warten noch tolle Pflanzen und Belohnungen auf dich.
 
 [NARRATIVE_MORE_LEVELS_3]
-{NPC_ENTER:crazydaveicon}{EXCITED}Und vergiss die Tacos nicht!
+{NPC_ENTER:crazydaveicon}{EXCITED}Nicht zu vergessen: der Taco!
 
 [NARRATIVE_MORE_LEVELS_4]
-{TIRED:crazydaveicon}Wir haben deine verlorenen Tacos nicht vergessen.
+{TIRED:crazydaveicon}Wir haben dich nicht vergessen, mein geliebter verlorener Taco!
 
 [NARRATIVE_OUT_OF_CONTENT_FUTURE_NEXT_1]
 {NPC_ENTER:crazydaveicon}{START_DIALOG_MUSIC}Wohin führt uns die Zukunft?
@@ -80115,4 +80116,15 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]
+[PVZ2_CHINESE_END]UM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]dene Glocke hat noch {NUM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]GONG_CURE_WARNING]
+Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
+
+[PVZ2_CHINESE_END]den.
+
+[PVZ2_CHINESE_END]aden.
+
+[PVZ2_CHINESE_END]HINESE_END]
