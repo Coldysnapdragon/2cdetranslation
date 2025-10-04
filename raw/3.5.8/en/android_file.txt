@@ -13275,7 +13275,7 @@ Ein Gargantua mit Markenbewusstsein.
 Je mehr Welten du freischaltest, desto mehr Sterne musst du erreichen, um die nächste freizuschalten.
 
 [SPRING_TIPS_2]
-Je später du eine Welt herausforderst, desto schwieriger wird der Schwierigkeitsgrad.
+Nicht Jede Welt hat die gleiche Schwierigkeit, deshalb solltest du die Welten gut auswählen!
 
 [SPRING_TIPS_3]
 Pennys Shop bietet täglich verschiedene Pflanzenfragmente. Schau regelmäßig vorbei!
