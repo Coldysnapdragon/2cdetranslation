@@ -49861,6 +49861,12 @@ Beim Angriff hat der Buchsgras-Salut die Chance, eine größere Geschenkbox abzu
 [ACTINOSTEMMA_AVATAR_NAME]
 Boxgrass-Salut-Kostüm
 
+[NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_4]
+Alchemie-Rüstungsoutfit
+
+[NEW_AVATAR_DESCRIPTION_GATLINGPEA_4]
+Erhöht die Anzahl der durch die ultimative Fähigkeit abgefeuerten Erbsen um 50 %.
+
 [STORE_PRODUCT_AVATAR_ACTINOSTEMMA]
 Fischt weitere Geschenkboxen
 
