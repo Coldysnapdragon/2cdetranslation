@@ -9565,7 +9565,7 @@ Feuererbsen-Plus-Kostüm der ersten Stufe
 Ofenkartoffel-Plus-Kostüm der ersten Stufe Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_PEPPERPULT_LV0_SUCCEED_CONTENT]
-Pfefferkrug (1. Stufe) plus Kostüm
+Paprikatapult (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CHARDGUARD_LV0_SUCCEED_CONTENT]
 Rübenwächter (1. Stufe) plus Kostüm
@@ -9893,7 +9893,7 @@ Feuererbse (Level 3)
 Ofenkartoffel (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_PEPPERPULT_LV3_SUCCEED_CONTENT]
-Pfefferkrug (Level 3)
+Paprikatapult (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_PEPPERPULT_LV3_SUCCEED_CONTENT] HARGE_CHARDGUARD_LV3_SUCCEED_CONTENT]
 Rübenwächter (Level 3)
@@ -10749,7 +10749,7 @@ Pfeffer-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PEPPERPULT_GIFT_DESC]
 ^009900 Nur für kurze Zeit, ab sofort bis 9:16 Uhr, ^oldclr
-Fortgeschrittener Pfefferkrug und Kostüm
+Fortgeschrittener Paprikatapult und Kostüm
 
 [STORE_GIFT_LABORDAY_RAFFLESIA_GIFT]
 Rafflesia-Geschenkpaket
@@ -13148,7 +13148,7 @@ Geister-Outfit
 Feuerschützen-Outfit
 
 [STORE_PRODUCT_AVATAR_PEPPERPULT_TITLE]
-Pfefferkrug-Outfit
+Paprikatapult-Outfit
 
 [STORE_PRODUCT_AVATAR_CHARDGUARD_TITLE]
 Rüben-Outfit
@@ -19703,7 +19703,7 @@ ca=Kirschbombe|Feuerdrachengras|Kürbis|Feuriger Pfeffer|
 [LANTERN_RIDDLES_80]
 Welche Pflanze wird als König des Gemüses bezeichnet?
 [LANTERN_RIDDLES_ANSWER_80]
-ca=Spargelkämpfer|Eiswassermelone|Pfefferkrug|Wassermelonenkrug|
+ca=Spargelkämpfer|Eiswassermelone|Paprikatapult|Wassermelonenkrug|
 [LANTERN_RIDDLES_81]
 Ist nicht Folgendes der Grund, warum aus der Wirbelmispel keine Ballerina wurde?
 [LANTERN_RIDDLES_ANSWER_81]
@@ -20393,7 +20393,7 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {NPC_ENTER:crazydave}{SAY}Vor uns befinden sich gefrorene Pflanzen. Konventionelle Angriffe brauchen lange, um sie aufzutauen.
 
 [NARRATIVE_PLANTTRIAL_PEPPERPULT_INFO_2]
-{EXCITED:crazydave}{SAY}Platziere den Pfefferkrug um die gefrorenen Pflanzen herum. Seine Aura kann Pflanzen in der Nähe auftauen.
+{EXCITED:crazydave}{SAY}Platziere den Paprikatapult um die gefrorenen Pflanzen herum. Seine Aura kann Pflanzen in der Nähe auftauen.
 
 [NARRATIVE_PLANTTRIAL_ACORN_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Vor uns befinden sich Walross-Zombies. Wenn sie sterben, verwandeln sie sich in Hänge, über die Ski-Zombies sprinten können.
@@ -73060,22 +73060,22 @@ Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [PEPPERPULT_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben dem Pfefferkrug erscheint, wirft der Pfefferkrug brennende Paprikaschoten auf den Zombie. Die Paprikaschoten zerbrechen beim Auftreffen auf den Zombie und verursachen Flächenschaden in Höhe von 25% der Angriffskraft bei den Zombies in einem 3×3-Bereich um die Paprika herum.
+Wenn ein Zombie rechts neben dem Paprikatapult erscheint, wirft der Paprikatapult brennende Paprikaschoten auf den Zombie. Die Paprikaschoten zerbrechen beim Auftreffen auf den Zombie und verursachen Flächenschaden in Höhe von 25% der Angriffskraft bei den Zombies in einem 3×3-Bereich um die Paprika herum.
 
 [PEPPERPULT_NEW_SKILL_LEVEL2_DES]
-Die flammenden Paprikaschoten des Pfefferkrugs verursachen Zombies pro Sekunde 75 Schaden^ef0123^burnⅠ^oldclr^. Wiederholte Angriffe verlängern die Brenndauer.
+Die flammenden Paprikaschoten des Paprikatapults verursachen Zombies pro Sekunde 75 Schaden^ef0123^burnⅠ^oldclr^. Wiederholte Angriffe verlängern die Brenndauer.
 
 [PEPPERPULT_NEW_SKILL_LEVEL3_DES]
-Die blauen Flammenpaprika des Pfefferkrugs verursachen Zombies pro Sekunde 100 Schaden^ef0123^burnⅠ^oldclr^. Wiederholte Angriffe verlängern die Brenndauer.
+Die blauen Flammenpaprika des Paprikatapults verursachen Zombies pro Sekunde 100 Schaden^ef0123^burnⅠ^oldclr^. Wiederholte Angriffe verlängern die Brenndauer.
 
 [PEPPERPULT_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [PEPPERPULT_PLANTFOOD_DESCRIPTION]
-Der Pfefferkrug verwandelt sich in eine Pfefferkanone und wirft drei große Paprikaschoten mit dem 8-fachen Schaden seiner eigenen Angriffskraft.
+Das Paprikatapult verwandelt sich in eine Paprikakanone und wirft drei große Paprikaschoten mit dem 8-fachen Schaden seiner eigenen Angriffskraft.
 
 [PEPPERPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Pfefferkrug verwandelt sich in eine Pfefferkanone^ff0000^ und verschießt 4^oldclr^ große Paprikaschoten mit dem 8-fachen Schaden seiner eigenen Angriffskraft.
+Das Paprikatapult verwandelt sich in eine Paprikakanone^ff0000^ und verschießt 4^oldclr^ große Paprikaschoten mit dem 8-fachen Schaden seiner eigenen Angriffskraft.
 
 [CHARDGUARD_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie ein Feld rechts vom Rübenwächter erscheint, legt sich der Rübenwächter auf den Boden und wartet auf den Zombie. Tritt ein Zombie auf die Blätter des Rübenwächters, werden alle Zombies auf den Blättern drei Felder zurückgeworfen.
@@ -77660,6 +77660,9 @@ Pflanzen können nicht mitten in einem Seetang Wächter gepflanzt werden.
 [PLANTING_KELPGUARD_ONLY_DEEPSEA]
 Seetang Wächter können nur im Meer gepflanzt werden.
 
+[NEW_AVATAR_SHORT_DESCRIPTION_KELPGUARD_1]
+Golduhr und Ketten
+
 [KELPGUARD_SKILL_LEVEL1]
 Ausdauer
 
@@ -77759,6 +77762,18 @@ Poseidon-Geschenkpaket (Exklusiv)
 
 [POSEIDONTREASURE_EXPIRED]
 Belohnungen (abgelaufen) für Poseidons Schatz-Event
+
+[NEW_AVATAR_SHORT_DESCRIPTION_POISONPEASHOOTER_1]
+Erbsenvogel-Schnabelmaske
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SNAPPEA_2]
+Blauer-Schal
+
+[NEW_AVATAR_DESCRIPTION_SNAPPEA_2]
+Reduziert den Sonnenlichtverbrauch um 20 %
+
+[NEW_AVATAR_DESCRIPTION_POISONPEASHOOTER_1]
+Erhöht den Giftschaden um 10%
 
 [POSEIDON_DESCRIPTION_1]
 Basisbelohnungen:
@@ -80483,6 +80498,15 @@ Gesundheit um 20 % erhöht
 
 [NEW_AVATAR_DESCRIPTION_ESCAPEROOT_2]
 Abklingzeit des Pflanzens um 15 % reduziert
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_2]
+Digitales Auge
+
+[NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_3]
+Nostalgische Katze
+
+[NEW_AVATAR_DESCRIPTION_NEKOTAIL_3]
+Ändert die Pflanzenanimationen und erhöht die Angriffsgeschwindigkeit um 10%.
 
 [AEONIUM]
 Schwarzmagier
