@@ -34207,6 +34207,436 @@ Strand-Endlos-Herausforderer
 [BOSS_CHALLENGE_HEAD_DES_ID_25170]
 Für Spieler, die Ergebnisse in der Eis-Endlos-Herausforderung erzielt haben.
 
+[UNCHARTED_ZCORP_ID_25758]
+Eroberer der ZCorporation
+
+[UNCHARTED_ZCORP_HEAD_DES_ID_25758]
+Nachweis der vollständigen Freigabe des geheimen Reichs der ZCorporation
+
+[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ZCORP]
+1. Voraussetzungen zum Öffnen
+
+[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_ZCORP]
+Dieses geheime Reich ist dauerhaft. Alle normalen Level werden beim Öffnen freigeschaltet, und täglich werden zwei schwere Level freigeschaltet.
+
+[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_ZCORP]
+2. Level-Inhalte
+
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ZCORP]
+Die Zombie-Übernahme-Operation der ZCorporation hat begonnen! Außerdem werden neue Mechaniken eingeführt!
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ZCORP]
+1. Das geheime Reich von Zeit und Raum bietet eine Vielzahl neuer Welten und Zombies zum Erkunden, jeweils mit normalen und schweren Leveln.
+2. Normale und schwere Level haben jeweils einen Bonus für den ersten Durchgang und einen für die normale Freigabe. Der Bonus für den ersten Durchgang wird bei deiner ersten Freigabe vergeben und kann nicht wiederholt beansprucht werden.
+3. Schwere Level werden nach Abschluss aller normalen Level freigeschaltet.
+4. Schwere Level werden mit der Zeit freigeschaltet.
+5. Der schwere Modus hat bestimmte Herausforderungsziele. Wenn du ein Herausforderungsziel abschließt und abschließt, erhältst du Belohnungen. Wenn du das Ziel nicht abschließt, hat dies keinen Einfluss auf deine normale Freigabe.
+6. Der normale Modus hat drei feste Herausforderungsziele. Wenn du ein Herausforderungsziel zum ersten Mal abschließt, erhältst du die entsprechende Belohnung.
+
+[PLAYERS_TRIP_TO_ZCORP]
+{PLAYER}s Reise zur ZCorporation
+
+[ZCORP_LEVEL_NAME_01_N]
+ZCorp – Tag 1
+
+[ZCORP_LEVEL_NAME_02_N]
+ZCorp – Tag 2
+
+[ZCORP_LEVEL_NAME_03_N]
+ZCorp – Tag 3
+
+[ZCORP_LEVEL_NAME_04_N]
+ZCorp – Tag 4
+
+[ZCORP_LEVEL_NAME_05_N]
+ZCorp – Tag 5
+
+[ZCORP_LEVEL_NAME_06_N]
+ZCorp – Tag 6
+
+[ZCORP_LEVEL_NAME_07_N]
+ZCorp – Tag 7
+
+[ZCORP_LEVEL_NAME_08_N]
+ZCorp – Tag 8
+
+[ZCORP_LEVEL_NAME_09_N]
+ZCorp – Tag 9
+
+[ZCORP_LEVEL_NAME_10_N]
+ZCorp – Tag 10
+
+[ZCORP_LEVEL_NAME_01_H]
+ZCorp (Schwierig) – Tag 1
+
+[ZCORP_LEVEL_NAME_02_H]
+ZCorp (Schwierig) – Tag 2
+
+[ZCORP_LEVEL_NAME_03_H]
+ZCorp (Schwierig) – Tag 3
+
+[ZCORP_LEVEL_NAME_04_H]
+ZCorp (Schwierig) – Tag 4
+
+[ZCORP_LEVEL_NAME_05_H]
+ZCorp (Schwierig) – Tag 5
+
+[ZCORP_LEVEL_NAME_06_H]
+ZCorp (Schwierig) – Tag 6
+
+[ZCORP_LEVEL_NAME_07_H]
+ZCorp (Schwierig) – Tag 7
+
+[ZCORP_LEVEL_NAME_08_H]
+ZCorp (Schwierig) – Tag 8
+
+[ZCORP_LEVEL_NAME_09_H]
+ZCorp (Schwierig) – Tag 9
+
+[ZCORP_LEVEL_NAME_10_H]
+ZCorp (Schwierig) – Tag 10
+
+[UNCHARTED_ZCORP_TASK_NAME_1_1]
+Schließe drei kombinierte Herausforderungen ab: Zombie-Level erhöhen (1 Stern), Zombie-Angriff erhöhen (2 Sterne) und Zombie-Geschwindigkeit erhöhen (3 Sterne).
+
+[UNCHARTED_ZCORP_TASK_NAME_1_2]
+Höchste Sternebewertung aller Zeiten: 2 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_1_3]
+Höchste Sternebewertung aller Zeiten: 4 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_1_4]
+Höchste Sternebewertung aller Zeiten: 6 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_1_5] NAME_1_5]
+
+Höchste jemals erreichte Sternebewertung: 10 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_2_1]
+Schließe drei Combo-Herausforderungen ab: Reduziertes Sonnenlicht (1 Stern), Reduzierte Kartenplätze (2 Sterne) und Deaktivierung von Fernkampf- und Spezialwaffen (3 Sterne)
+
+[UNCHARTED_ZCORP_TASK_NAME_2_2]
+Höchste jemals erreichte Sternebewertung: 2 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_2_3]
+Höchste jemals erreichte Sternebewertung: 4 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_2_4]
+Höchste jemals erreichte Sternebewertung: 6 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_2_5]
+Die höchste jemals erreichte Sterneanzahl war 10 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_3_1]
+Schließe drei Combo-Herausforderungen ab: Erhöhe den Fernkampf-Pflanzenverbrauch (1 Stern), Erhöhe den Zombie-Level (2 Sterne) und Erhöhe den Zombie-Angriff (3 Sterne).
+
+[UNCHARTED_ZCORP_TASK_NAME_3_2]
+Die höchste jemals erreichte Sternezahl war 2 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_3_3]
+Die höchste jemals erreichte Sterneanzahl: 4 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_3_4]
+Die höchste jemals erreichte Sterneanzahl: 6 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_3_5]
+Die höchste jemals erreichte Sterneanzahl: 10 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_4_1]
+Schließe drei Kombo-Herausforderungen ab: Zombie-Rang erhöhen (1 Stern), Kartensteckplatzanzahl reduzieren (2 Sterne), Zombie-Angriff erhöhen (3 Sterne)
+
+[UNCHARTED_ZCORP_TASK_NAME_4_2]
+Die höchste jemals erreichte Sterneanzahl: Höchste Sternebewertung: 2 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_4_3]
+Die höchste jemals erreichte Sternebewertung: 4 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_4_4]
+Die höchste jemals erreichte Sternebewertung 6 Sterne erreicht
+
+[UNCHARTED_ZCORP_TASK_NAME_4_5]
+Höchste Sternebewertung aller Zeiten: 10 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_5_1]
+Schließe drei Kombo-Herausforderungen ab: Erhöhe die Abklingzeit von Robusten Pflanzen (1 Stern) und verhindere die Verwendung von Spezialpflanzen. = Mob (2 Sterne), Zombie-Angriffssteigerung (3 Sterne)
+
+[UNCHARTED_ZCORP_TASK_NAME_5_2]
+Die höchste Sternebewertung der Geschichte erreichte 2 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_5_3]
+Die höchste Sternebewertung der Geschichte erreichte 4 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_5_4]
+Die höchste Sternebewertung der Geschichte erreichte 6 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_5_5]
+Die höchste Sternebewertung der Geschichte erreichte 10 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_5_6] ZCORP_TASK_NAME_6_1]
+Schließe drei Kombo-Herausforderungen ab: Erhöht den Verbrauch von Hilfspflanzen (1 Stern), Reduziert den Sonnenlichtverbrauch (2 Sterne) und Erhöht die Bewegungsgeschwindigkeit von Zombies (3 Sterne).
+
+UNCHARTED_ZCORP_TASK_NAME_6_2]
+Höchste Sternebewertung aller Zeiten: 2 Sterne.
+
+UNCHARTED_ZCORP_TASK_NAME_6_3]
+Höchste Sternebewertung aller Zeiten: 4 Sterne.
+
+UNCHARTED_ZCORP_TASK_NAME_6_4]
+Höchste Sternebewertung aller Zeiten: 6 Sterne.
+
+UNCHARTED [ED_ZCORP_TASK_NAME_6_5]
+
+Höchste Sterneanzahl aller Zeiten: 10 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_7_1]
+
+Schließe drei Combo-Herausforderungen ab: Reduziere die Sonnenlichtaufnahme (1 Stern), Verhindere das Tragen von Spezialpflanzen (2 Sterne) und Erhöhe die Bewegungsgeschwindigkeit von Zombies (3 Sterne).
+
+[UNCHARTED_ZCORP_TASK_NAME_7_2]
+
+Höchste Sterneanzahl aller Zeiten: 2 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_7_3]
+
+Höchste Sterneanzahl aller Zeiten: 4 Sterne
+
+[UN CHARTED_ZCORP_TASK_NAME_7_4]
+Höchste Sternebewertung aller Zeiten: 6 Sterne
+
+UNCHARTED_ZCORP_TASK_NAME_7_5]
+Höchste Sternebewertung aller Zeiten: 10 Sterne
+
+UNCHARTED_ZCORP_TASK_NAME_8_1]
+Schließe drei Combo-Herausforderungen ab: Pflanze Schaden reduziert (1 Stern), rechter Creep (2 Sterne), Zombie-Angriff erhöht (3 Sterne)
+
+UNCHARTED_ZCORP_TASK_NAME_8_2]
+Höchste jemals erreichte Sternebewertung: 2 Sterne
+
+UN CHARTED_ZCORP_TASK_NAME_8_3]
+Höchste jemals erreichte Sternebewertung: 4 Sterne
+
+UNCHARTED_ZCORP_TASK_NAME_8_4]
+Höchste jemals erreichte Sternebewertung: 6 Sterne
+
+UNCHARTED_ZCORP_TASK_NAME_8_5]
+Höchste jemals erreichte Sternebewertung: 10 Sterne
+
+UNCHARTED_ZCORP_TASK_NAME_9_1]
+Schließe drei Combo-Herausforderungen ab: Zombie-Level erhöhen (1 Stern), Unterstützungspflanzen verbieten (2 Sterne), Zombie-Angriff erhöhen (3 Sterne)
+[UNCHARTED_ZCORP_TASK_NAME_9_2]
+Die höchste Sternebewertung aller Zeiten erreichte 2 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_9_3]
+Die höchste Sternebewertung aller Zeiten erreichte 4 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_9_4]
+Die höchste Sternebewertung aller Zeiten erreichte 6 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_9_5]
+Die höchste Sternebewertung aller Zeiten erreichte 10 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_9_6]
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP1]
+Z-Corp greift an
+
+[UNCHARTED_ZCORP_TASK_NAME_9_2]
+2 Sterne auf dem höchsten Sternenlevel erreicht
+
+[UNCHARTED_ZCORP_TASK_NAME_9_3]
+4 Sterne auf dem höchsten Sternenlevel erreicht
+
+[UNCHARTED_ZCORP_TASK_NAME_9_4]
+6 Sterne auf dem höchsten Sternenlevel erreicht
+
+[UNCHARTED_ZCORP_TASK_NAME_9_5]
+10 Sterne auf dem höchsten Sternenlevel erreicht
+
+[UNCHARTED_ZCORP_TASK_NAME_10_1]
+Drei Kombo-Herausforderungen abgeschlossen: Abklingzeit von Vorhut-Pflanzen erhöht (1 Stern), Unterstützungspflanzen verboten (2 Sterne), Pflanzenschaden reduziert (3 Sterne)
+
+[UNCHARTED_ZCORP_TASK_NAME_10_2]
+Höchste Sternebewertung aller Zeiten: 2 Sterne
+
+[UNCHARTED_ZCORP_TASK_NAME_10_3]
+Höchste Die höchste Sternebewertung aller Zeiten erreichte 4 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_10_4]
+Die höchste Sternebewertung aller Zeiten erreichte 6 Sterne.
+
+[UNCHARTED_ZCORP_TASK_NAME_10_5]
+Die höchste Sternebewertung aller Zeiten erreichte 10 Sterne.
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP1]
+Z-Corp-Zombies sind da, Vorsicht!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP2]
+Identitätstausch
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP2]
+Riesenwichtel und Riesenwichtel? Sehe ich etwa etwas vor?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP3]
+Roboterstaubsauger
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP3]
+Warum liegen so viele Papierfetzen auf dem Boden? Zum Glück gibt es einen Roboterstaubsauger!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP4]
+Drucker
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP4]
+Der Drucker funktioniert nicht richtig! Vorsicht vor herumfliegendem Papier!
+
+[SUMMER_MEMORIES_HEAD_ID_25759]
+Arcade-Momente
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25759]
+An alle Spieler, die diese Reise in die Vergangenheit mit uns unternommen haben
+
+[LEVEL_EDITOR_HEAD_ID_25760]
+Champion des langen Aufbleibens
+
+[LEVEL_EDITOR_HEAD_DES_ID_25760]
+Lass uns noch eine Tasse Kaffee trinken.
+
+[LEVEL_EDITOR_HEAD_ID_25762]
+Brillante Koralle
+
+[LEVEL_EDITOR_HEAD_DES_ID_25762]
+Spektakulärer, individueller Event-Avatar (limitiert)
+
+[TIANGONG_HEAD_ID_25761]
+Magische Tasche
+
+[TIANGONG_HEAD_DES_ID_25761]
+Sammeln Sie während der Tiangong-Schatzsuche in der Ziehungsphase Belohnungen.
+
+[TOYS_HEAD_ID_25755]
+Wasteland-Mod
+
+[TOYS_HEAD_DES_ID_25755]
+Erhältlich in der Wasteland-Fabrik nach der Teilnahme am Event
+
+[RANK_AVATAR_CONTENT_TITLE_61047]
+Süße Momente
+
+[RANK_AVATAR_CONTENT_CONTENT_61047]
+Großmeister-Rang-Belohnungen für Duo-Duell-Saison 35
+
+[RANK_AVATAR_CONTENT_TITLE_61048]
+ZCorp Abenteuer
+
+[RANK_AVATAR_CONTENT_CONTENT_61048]
+Belohnungen für die Teilnahme am Tour-Event im Oktober 2025
+
+[RANK_AVATAR_CONTENT_TITLE_61049]
+Ein Mann steht fest
+
+[RANK_AVATAR_CONTENT_CONTENT_61049]
+Großmeister-Rang-Belohnungen für Duo-Duell-Saison 36
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_3]
+Krabben-Beine
+
+[NEW_AVATAR_DESCRIPTION_WALLNUT_3]
+Erhöht die Gesundheit um 20 %
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_4]
+Glitzerndes Kleid
+
+[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_4]
+Kann die Farbe wechseln
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_2]
+Karate Kopfband
+
+[NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_2]
+Gelehrten Brille
+
+[NEW_AVATAR_DESCRIPTION_AQUAWEED_2]
+Erhöht die Angriffskraft um 10 %
+
+[NEW_AVATAR_DESCRIPTION_MAPLEBLADE_2]
+Abklingzeit um 20 % reduziert
+
+[NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_1]
+Piraten Kapitän
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SEASHOOTER_1]
+Häschen-Ohren
+
+[NEW_AVATAR_DESCRIPTION_SEASHOOTER_1]
+Erhöht die Angriffskraft um 10 %
+
+[NEW_AVATAR_DESCRIPTION_AQUAWEED_1]
+Erhöht die Chance, einen Hai zu beschwören, um 50 %.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_3]
+Krasser Gangster
+
+[NEW_AVATAR_DESCRIPTION_MAPLEBLADE_3]
+Reduzierte Sonnenkosten
+
+[RANK_AVATAR_CONTENT_TITLE_61042]
+Dancing Stars
+
+[RANK_AVATAR_CONTENT_CONTENT_61042]
+An alle Spieler, die fleißig am Kreativgarten arbeiten
+
+[RANK_AVATAR_CONTENT_TITLE_61046]
+Unterwasser
+
+[RANK_AVATAR_CONTENT_CONTENT_61046]
+Großmeister-Rang-Belohnungen für Duo-Duell, Saison 34
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP5]
+Staubsaugerroboter
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP5]
+Noch mehr Papierschnipsel! Eine schwieriger zu reinigende Stelle!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP6]
+Staubsaugerroboter x Drucker
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP6]
+Hmm? Wie hat der Staubsaugerroboter eine in Papier eingewickelte Pflanze gereinigt?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP7]
+Der Berater ist da.
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP7]
+Oben, unten: Warum hören alle Zombies dem Berater zu?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP8]
+Drucker x Papierschnipsel
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP8]
+Es gibt zu viel Papier in der Arena. Lasst uns das Beste aus den begrenzten Ressourcen machen.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP9]
+Roboterstaubsauger x Drucker
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP9]
+Mehr Zombies und Papierschnipsel! Wir brauchen die Hilfe des Roboterstaubsaugers!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP10]
+Entscheidungsschlacht!
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP10]
+Z-Mech-Zombies kommen!
+
+[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_ZCORP]
+3. Missionsbeschreibung
+
+[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_ZCORP]
+Jedes Level hat eine bestimmte Mission, für deren Abschluss du Belohnungen erhältst.
+
+[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_ZCORP]
+4. Missionsbelohnungen
+
+[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ZCORP]
+Belohnungen für jedes Level können nicht wiederholt erhalten werden.
+
 [BOSS_CHALLENGE_HEAD_ID_25170]
 Eis-Endlos-Herausforderer
 
@@ -49457,6 +49887,12 @@ Wirft sofort eine Geschenkbox auf den ersten Gegner in drei zufälligen Reihen.
 
 [ACTINOSTEMMA_AVATAR_PLANTFOOD_DESCRIPTION]
 Schießt weitere Geschenkboxen ab.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ANIMNUTS_1]
+Teekanne
+
+[NEW_AVATAR_DESCRIPTION_ANIMNUTS_1]
+Sonnenlichtverbrauch um 50 % reduziert
 
 [GENE_SEQUENCE_LEVEL_LEFT]
 Gensequenzebene: {PARAM}
@@ -77502,7 +77938,7 @@ Vollständig aktiviert
 Du kannst dich mit dem Superschützen verbinden, einschließlich des fusionierten Superschützen. Nach dem Einsatz der Spezialdünger-Fähigkeit einer verknüpften Pflanze besteht eine 10%ige Chance, eine weitere Spezialdünger-Fähigkeit einzusetzen (ausgenommen Seekanone).
 
 [STORE_PRODUCT_AVATAR_SEASHOOTER]
-Bei Einsatz der  erhöht sich die Anzahl der abgefeuerten Projektile.
+Bei Einsatz der Spezialdünger-Fähigkeit erhöht sich die Anzahl der abgefeuerten Projektile.
 
 [SEASHOOTER_NEW_SKILL_LEVEL1_DES]
 Schießt Projektile in drei Richtungen, um Zombies anzugreifen. Mit der Spezialdünger-Fähigkeit können bis zu drei Elite-Erbsenpflanzen in einem Radius von 3x3 aktiviert werden, um die Spezialdünger-Fähigkeit einzusetzen. Jede zusätzliche Pfütze erhöht die Angriffskraft um 5 und verringert die Angriffsgeschwindigkeit basierend auf der Anzahl der Pfützen in der Nähe. Das Pflanzen in der Unterwasserwelt gewährt den vollen Angriffskraft-Buff.
@@ -77523,7 +77959,7 @@ Kann mit Mega-MG-Erbsen, einschließlich fusionierten Mega-MG-Erbsen, verknüpft
 Seekanonen-Kostüm
 
 [SEASHOOTER_AVATAR_NAME]
-Seekanonen-Kostüm
+Schleifchen
 
 [SEASHOOTER_PLANTFOOD_DESCRIPTION]
 Bei Einsatz einer Super erhöht sich die Anzahl der ausgeworfenen Projektile.
