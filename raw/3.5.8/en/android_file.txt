@@ -869,16 +869,16 @@ Groundshaker
 Nach zwei Aufwärtshaken springt Packchoy hoch und schlägt auf den Boden, wodurch er Schaden verursacht und Zombies betäubt.
 
 [BUTTON_CANCEL]
-Abbrechen
+ABBRECHEN
 
 [BUTTON_NO]
-Nein
+NEIN
 
 [BUTTON_OK]
 OK
 
 [BUTTON_YES]
-Ja
+JA
 
 [BUY_MORE]
 Mehr kaufen
@@ -22144,7 +22144,7 @@ Maschinengewehr-Erbse
 [GATLINGPEA_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}grüne Pflanze, Erbsengewächse
 
-{FLAVOR}Bei einer Explosion in einem Forschungszentrum wurde ein Schilfrohr vom Blitz getroffen, wodurch es zum Blitz-Schilfmann wurde. Gleichzeitig wurde auch der Erbsenschütze, der das Maschinengewehr bediente, getroffen. So entstand unser neuer Superheld – die Maschinengewehr-Erbse.
+{FLAVOR}Bei einer Explosion in einem Forschungszentrum wurde ein Schilf von einem Blitz getroffen, wodurch es zum Blitzschilf wurde. Gleichzeitig wurde auch die Erbsenkanone, die das Maschinengewehr bediente, getroffen. So entstand unser neuer Superheld – die Maschinengewehr-Erbse.
 
 [GATLINGPEA_DESCRIPTION_HEADER]
 Die Maschinengewehr-Erbse kann vier Erbsen gleichzeitig abfeuern, um den Gegner vor sich anzugreifen.
@@ -24579,7 +24579,7 @@ Beende den Kampf
 OK
 
 [ARENA_ENDING_BTN_CANCEL]
-Abbrechen
+ABBRECHEN
 
 [PVP_ERROR_NO_OPP]
 Kein Gegner gefunden
@@ -41592,7 +41592,9 @@ Krachenfrucht
 {FLAVOR}Die Köpfe der Krachenfrucht haben zwar keine eigenen Namen, aber durchaus ihre eigene Persönlichkeit. Der in der Mitte ist der Ruhige, Vernünftige. Der links etwas schüchtern und distanziert. Und der rechte ist ... tja ... ziemlich rechthaberisch.
 
 [DRAGONBRUIT_DESCRIPTION_HEADER]
-Verschießt 3 explosive Samenkapseln auf Zombies in drei angrenzenden Reihen. Wird sie zerstört, zerfällt Krachenfrucht in 3 kleinere Pflanzen.\n\n{KEYWORD}Besonderheit: {STAT}Wird Krachenfrucht von einer Schattenaura gestärkt, verursachen ihre Geschosse auch Giftschaden.
+Verschießt 3 explosive Samenkapseln auf Zombies in drei angrenzenden Reihen. Wird sie zerstört, zerfällt Krachenfrucht in 3 kleinere Pflanzen.
+
+{KEYWORD}Besonderheit: {STAT}Wird Krachenfrucht von einer Schattenaura gestärkt, verursachen ihre Geschosse auch Giftschaden.
 
 [DRAGONBRUIT_TOOLTIP]
 Schleudert 3 Projektile 3 Reihen hinunter.
@@ -54903,7 +54905,7 @@ Heute keine Aufladung möglich.
 Bitte laden Sie Ihr Guthaben auf, um den exklusiven Rabatt zu erhalten.
 
 [DISCOUNT_SHOP_CANCEL]
-Abbrechen
+ABBRECHEN
 
 [DISCOUNT_SHOP_RECHARGE]
 Aufladen
@@ -65503,7 +65505,7 @@ Zur Erstellungsplattform
 Weitere Informationen zu Hofpunkten finden Sie auf der Erstellungsplattform. Mit Courtyard-Punkten kannst du auf der Creation-Plattform tolle Preise, darunter auch physische Belohnungen, einlösen.
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_GUESS_LIKE]
-Empfohlen für dich
+Empfohlen
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_MOST_PLAY]
 Meistgespielt
@@ -65851,16 +65853,16 @@ Unzerstörbar
 Zombie Labyrinth
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_4]
-Verrückter Arzt
+Ich-Zombie
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_5]
-Theater-Horror
+Theater
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_6]
 Einhändig
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_7]
-Töpfer zerschlagen
+Vasenbrecher
 
 [LEVEL_EDITOR_TOWER_DEFEND_BOARDGRID_SETTING_TITLE]
 Bodenauswahl
@@ -80586,4 +80588,4 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]
+[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]
