@@ -10422,7 +10422,7 @@ Freundliche Erinnerung: Denkt daran, zuerst die Pflanze zu besorgen, bevor ihr d
 
 [Jeden Tag ein besonderes Geschenkpaket]
 1. Mai: Eiswassermelone + Große Nüsse
-2. Mai: Doppelschützen-^ff0000^ Kostüm ^oldclr^ + Caiwen-^ff0000^ Kostüm ^oldclr^
+2. Mai: Doppelschützen-^ff0000^ Kostüm ^oldclr^ + Pack Choi-^ff0000^ Kostüm ^oldclr^
 3. Mai: Kokosnusskanone + Kokosnusskanone-^ff0000^ Kostüm ^oldclr^
 4. Mai: Erbsenschote + Erbsenschote-^ff0000^ Kostüm ^oldclr^
 5. Mai: Blitzrohr + Fackelstumpf
@@ -11349,7 +11349,7 @@ Das Paket enthält Eiswassermelone und hohe Nüsse.
 
 [STORE_GIFT_LABORDAY_TWO_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum zweiteiligen „Gute Bewertungen“-Ankleidepaket!
-Das Paket enthält die Doppelschützen-Anziehsachen und die Caiwen-Anziehsachen.
+Das Paket enthält die Doppelschützen-Anziehsachen und die Pack Choi-Anziehsachen.
 
 [STORE_GIFT_LABORDAY_THREE_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Kanonenpaket!
@@ -12932,7 +12932,7 @@ Kokosnusskanonen-Kostümfragment
 Erbsenschoten-Kostümfragment
 
 [AVATAR_PIECE_OF_BONKCHOY]
-Caiwen-Kostümfragment
+Pack Choi-Kostümfragment
 
 [STORE_PRODUCT_AVATAR_SUNFLOWER_TITLE]
 Sonnenblume Kostüm
@@ -13218,7 +13218,7 @@ Doppel-Shooter – eine umwerfende Verwandlung! Cool und stylisch! Weitere Kost�
 ^FF3300 Eiswassermelone + Große Nüsse^oldclr Heute^FF3300 60 % Rabatt^oldclr Paketangebot! Sowohl offensiv als auch defensiv – alle, die es benutzt haben, sagen: Es ist gut!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_2]
-Luxuskleid ^FF3300 Doppel-Shooter + Caiwen ^oldclr Heute ^FF3300 30 % Rabatt auf ^oldclr Paketangebot – Schönheit und Power vereint!
+Luxuskleid ^FF3300 Doppel-Shooter + Pack Choi ^oldclr Heute ^FF3300 30 % Rabatt auf ^oldclr Paketangebot – Schönheit und Power vereint!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_3]
 ^FF3300 Kokosnusskanonenpflanze + Kostüm ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Lasst die Muscheln fliegen!
@@ -16546,10 +16546,10 @@ Bumerangfragmente
 Bumerang-Shooter-Fragment erhalten
 
 [BONUS_CARD_PIECE_BONKCHOY]
-Caiwen-Fragment
+Pack Choi-Fragment
 
 [BONUS_CARD_PIECE_BONKCHOY_DESCRIPTION]
-Caiwen-Fragment erhalten
+Pack Choi-Fragment erhalten
 
 [BONUS_CARD_PIECE_REPEATER]
 Doppelfragment
@@ -19609,7 +19609,7 @@ Was ist der Traum der Cherry Bomb Brothers?
 [LANTERN_RIDDLES_ANSWER_56]
 ca=Alle | Eine Band gründen | Zombies vernichten | Fans sprengen |
 [LANTERN_RIDDLES_57]
-Aus welcher Provinz stammt Caiwens angestammte Heimat?
+Aus welcher Provinz stammt Pack Chois angestammte Heimat?
 [LANTERN_RIDDLES_ANSWER_57]
 ca=Guangdong | Guangxi | Fujian | Shanghai |
 [LANTERN_RIDDLES_58]
@@ -19643,7 +19643,7 @@ ca=Alle | Entdecker-Zombie | Meister-Zombie | Gewöhnlicher Zombie |
 [LANTERN_RIDDLES_65]
 Welche der folgenden Pflanzen kann dem Schaufelzombie Schaden zufügen?
 [LANTERN_RIDDLES_ANSWER_65]
-ca=A.Kai.Mu.Mu.|Rote Nadelblume|Caiwen|Durian|
+ca=A.Kai.Mu.Mu.|Rote Nadelblume|Pack Choi|Durian|
 [LANTERN_RIDDLES_66]
 Welcher der folgenden Zombies wird das Rennen gewinnen?
 [LANTERN_RIDDLES_ANSWER_66]
@@ -27615,7 +27615,7 @@ Schalte die Endlos-Herausforderung frei!
 Diese Pflanze schlägt Zombies wiederholt! Schließe den 13. Tag des geheimnisvollen Ägyptens ab!
 
 [FINISH_EGYPT_13_TITLE]
-Schalte Caiwen frei!
+Schalte Pack Choi frei!
 
 [FINISH_EGYPT_17_DESC]
 Behalte eine zusätzliche Spezialdünger-Fähigkeit in einem Level! Sei bereit! Schließe den 17. Tag des geheimnisvollen Ägyptens ab!
@@ -38450,7 +38450,7 @@ Der Kohl stammt ursprünglich aus Nordchina. Er ist eine in Asien, insbesondere 
 
 Kohl enthält eine Vielzahl von Nährstoffen, die die Haut verschönern, die Flüssigkeitszufuhr fördern, den Magen nähren und Fett und Gewicht reduzieren. Kohl ist reich an Wasser und Vitaminen. Regelmäßiger Kohlkonsum kann nicht nur den Flüssigkeitsverlust des Körpers ausgleichen, sondern die enthaltenen Vitamine C und E können auch Hautpigmentierung vorbeugen und zur Hautpflege und Schönheit beitragen. Chinakohl nährt den Magen, produziert Körperflüssigkeit, leitet Hitze ab und lindert Unruhe. Zerstampften Sie den Kohl, um den Saft zu extrahieren, und kochen Sie ihn mit Lilie und Ophiopogon japonicus. Er hilft bei Magenschmerzen, die durch einen Mangel an Magen-Yin verursacht werden. Chinakohl ist von Natur aus kühl und schmeckt süß. Er eignet sich für Patienten mit Durst, Unruhe, Husten mit Schleim und Hitze sowie Erkältung durch Wind und Hitze. Chinakohl hat einen Wassergehalt von etwa 95 % und ist reich an Ballaststoffen, die die Magen-Darm-Motilität anregen, die Verdauung unterstützen und die Ausscheidung von Abfallstoffen fördern.
 [BONKCHOY_PEDIA_EXTRA]
-Zusätzliche Erklärung: Dem Namen nach entspricht Caiwen (BonkChoy) der Aussprache von „BokChoy“ (BokChoy) im Kantonesischen. In China gibt es viele Sorten, darunter Chinakohl und Chinakohl. Im Norden wird Chinakohl meist als „Ölraps“ bezeichnet, im Süden als „grünes Gemüse“ oder „Shanghai-Grün“. Die Gestaltung von Caiwen selbst ähnelt eher einer Kombination aus Chinakohl und grünem Gemüse und wird daher gesondert erläutert.
+Zusätzliche Erklärung: Dem Namen nach entspricht Pack Choi (BonkChoy) der Aussprache von „BokChoy“ (BokChoy) im Kantonesischen. In China gibt es viele Sorten, darunter Chinakohl und Chinakohl. Im Norden wird Chinakohl meist als „Ölraps“ bezeichnet, im Süden als „grünes Gemüse“ oder „Shanghai-Grün“. Die Gestaltung von Pack Choi selbst ähnelt eher einer Kombination aus Chinakohl und grünem Gemüse und wird daher gesondert erläutert.
 
 [KERNELPULT_FAMILY]
 Gramineae
@@ -39682,7 +39682,7 @@ Auberginenninja
 {KEYWORD}Verwendung: {STAT}Kann Shuriken über Linien hinweg einsetzen, um Zombies innerhalb der Reichweite des Bogenangriffs Schaden zuzufügen.
 {KEYWORD}Pflanzenmerkmale: {STAT}Lila Pflanze
 
-{FLAVOR} Er wird seit seiner Kindheit im traditionellen Ninjutsu ausgebildet. In der Ninja-Welt gilt er als Genie, das nur einmal in tausend Jahren auftaucht. Er beherrscht verschiedene Ninjutsu und wurde vom Ninja-Kaiser persönlich zum nächsten Nachfolger ernannt. Er ist jedoch nicht glücklich, weil er einmal gegen Caiwen verloren hat. Er glaubt, nicht unbesiegbar zu sein, solange er Caiwen nicht besiegt, was zu seinem Herzensknoten geworden ist.
+{FLAVOR} Er wird seit seiner Kindheit im traditionellen Ninjutsu ausgebildet. In der Ninja-Welt gilt er als Genie, das nur einmal in tausend Jahren auftaucht. Er beherrscht verschiedene Ninjutsu und wurde vom Ninja-Kaiser persönlich zum nächsten Nachfolger ernannt. Er ist jedoch nicht glücklich, weil er einmal gegen Pack Choi verloren hat. Er glaubt, nicht unbesiegbar zu sein, solange er Pack Choi nicht besiegt, was zu seinem Herzensknoten geworden ist.
 
 [EGGPLANTNINJA_DESCRIPTION_HEADER]
 Kann Shuriken über Linien hinweg einsetzen, um Zombies innerhalb der Reichweite des Bogenangriffs Schaden zuzufügen.
@@ -42558,7 +42558,7 @@ IceBurg Plus Edition
 Einfache Pflanze zur einmaligen Kontrolle, 100% Chance, bei Landung die Spezialdünger-Fähigkeit einzusetzen
 
 [PARALLEL_BONKCHOY]
-42. Caiwen
+42. Pack Choi
 
 [PARALLEL_BONKCHOY_TOOLTIP]
 Einfache Pflanze zum Sammeln von Monstern, 100% Chance, bei Landung die Spezialdünger-Fähigkeit einzusetzen. Die Spezialdünger-Fähigkeit ist der Effekt der ultimativen Kostümfähigkeit.
@@ -50096,7 +50096,7 @@ Kürbishexe erhalten {Param_1} Sekunden weniger neue Kürbisse
 Abklingzeit für Wehblatt um {Param_1}% reduziert.
 
 [GENE_DESCRIPTION_BONKCHOY]
-Schaden von Caiwens ultimativer Attacke um {Param_1}% erhöht.
+Schaden von Pack Chois ultimativer Attacke um {Param_1}% erhöht.
 
 [GENE_DESCRIPTION_POWERLILY]
 Abklingzeit für die Powerlilie um {Param_1}% reduziert.
@@ -53764,7 +53764,7 @@ Johannisbeere-Energiesparlampe
 Blitzschaden um 20% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_1]
-Caiwen-Frühlingsfestkostüm
+Frühlingsfest
 
 [NEW_AVATAR_DESCRIPTION_BONKCHOY]
 Gesundheit um 20% erhöht
@@ -54238,7 +54238,7 @@ Pulse Peach Halloween Kostüm
 Reduziert den Sonnenlichtverbrauch um 15%.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_3]
-Caiwen-Halloweenkostüm
+Halloween
 
 [NEW_AVATAR_DESCRIPTION_BONKCHOY_3]
 Angriffskraft um 20% erhöht.
@@ -71880,22 +71880,22 @@ Die Zwillingssonnenblume blüht und tanzt fröhlich und erzeugt sofort 450 Sonne
 Die Zwillingssonnenblumen blühen und tanzen fröhlich. Sie produzieren sofort 450 Sonnenlichtpunkte, ^ff0000^ und haben eine 15%ige Chance, jedes Mal 100 Goldmünzen zu produzieren. ^oldclr^
 
 [BONKCHOY_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie ein Feld links oder rechts von Caiwen erscheint, schlägt Caiwen heftig zu. Ist die Gesundheit des Zombies zu niedrig, setzt Caiwen einen Aufwärtshaken ein, um ihn zu töten.
+Wenn ein Zombie ein Feld links oder rechts von Pack Choi erscheint, schlägt Pack Choi heftig zu. Ist die Gesundheit des Zombies zu niedrig, setzt Pack Choi einen Aufwärtshaken ein, um ihn zu töten.
 
 [BONKCHOY_NEW_SKILL_LEVEL2_DES]
-Caiwen kann alle 15 Angriffe einen Aufwärtshaken einsetzen, um den Zombie vorübergehend schweben zu lassen.
+Pack Choi kann alle 15 Angriffe einen Aufwärtshaken einsetzen, um den Zombie vorübergehend schweben zu lassen.
 
 [BONKCHOY_NEW_SKILL_LEVEL3_DES]
-Caiwen kann alle 7 Angriffe einen Aufwärtshaken einsetzen, um den Zombie vorübergehend schweben zu lassen.
+Pack Choi kann alle 7 Angriffe einen Aufwärtshaken einsetzen, um den Zombie vorübergehend schweben zu lassen.
 
 [BONKCHOY_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [BONKCHOY_NEW_SKILL_LEVEL5_DES]
-Nach zwei Aufwärtshaken fügt Caiwen einen Bodenschlag hinzu, der einem einzelnen Zombie im Umkreis von einem Feld rechts 145 Schaden und anderen Zombies im Umkreis von 45 Flächenschaden zufügt.
+Nach zwei Aufwärtshaken fügt Pack Choi einen Bodenschlag hinzu, der einem einzelnen Zombie im Umkreis von einem Feld rechts 145 Schaden und anderen Zombies im Umkreis von 45 Flächenschaden zufügt.
 
 [BONKCHOY_PLANTFOOD_DESCRIPTION]
-Caiwen dreht sich und schlägt ununterbrochen zu. Er verwendet superschnelle Kettenschläge auf alle Zombies im Umkreis von 3×3 und verursacht so mehrere Schlagschäden in Folge.
+Pack Choi dreht sich und schlägt ununterbrochen zu. Er verwendet superschnelle Kettenschläge auf alle Zombies im Umkreis von 3×3 und verursacht so mehrere Schlagschäden in Folge.
 
 [BONKCHOY_AVATAR_PLANTFOOD_DESCRIPTION]
 ^ff0000^Zieht kleine und mittelgroße Zombies im 5×5-Bereich sofort an seine Position und betäubt sie dauerhaft.^oldclr^Schlägt dann kontinuierlich zu und führt superschnelle Kettenschläge auf alle Zombies im 3×3-Bereich aus, die mehrfachen Schlagschaden verursachen.
