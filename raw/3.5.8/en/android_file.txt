@@ -34538,6 +34538,12 @@ Großmeister-Rang-Belohnungen für Duo-Duell-Saison 36
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_3]
 Krabben-Beine
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_3]
+Prinzessin
+
+[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_3]
+Reduziert den Sonnenlichtverbrauch um 50 %.
+
 [NEW_AVATAR_DESCRIPTION_WALLNUT_3]
 Erhöht die Gesundheit um 20 %
 
