@@ -80582,6 +80582,12 @@ Schwarzmagier-Outfit
 [NEWYEARREDPACKET_REWARDNAME]
 Oktober Münzen {NUMBER}  
 
+[PVZ1MODE_HAMSTERBALL]
+Hamsterball
+
+[PVZ1MODE_HAMSTERBALL_NORMAL_DESC]
+Der Hamsterball kommt! Vorsicht vor den Zombies im Inneren!
+
 [PVP_ERROR_76030]
 Gegenstandsbetrug erkannt.
 
