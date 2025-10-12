@@ -4383,6 +4383,12 @@ Schlüsseltor – Mysteriöses Ägypten – Mumienerinnerungen
 Schlüsseltor – Mysteriöses Ägypten – Mumienerinnerungen ct_17_short_description]
 Schlüsseltor – Geheimnisvolles Ägypten – Mumienerinnerungen
 
+[PVZ1MODE_HAMSTERBALL]
+Hamsterball
+
+[PVZ1MODE_HAMSTERBALL_NORMAL_DESC]
+Der Hamsterball kommt! Vorsicht vor den Zombies im Inneren!
+
 [product_18_description]
 Schlüsseltor – Geheimnisvolles Ägypten – Unzerstörbar
 
@@ -64019,6 +64025,271 @@ Jeden Tag nicht genug Schlaf bekommen
 [S25_MEMORY_LEVEL_NAME_16]
 Ich möchte auch ein Gott sein
 
+[S26_MEMORY_LEVEL_NAME_001]
+Erster Schritt auf Grün
+
+[S26_MEMORY_LEVEL_NAME_002]
+Nachtsterne
+
+[S26_MEMORY_LEVEL_NAME_003]
+Kräuselndes blaues Wasser
+
+[S26_MEMORY_LEVEL_NAME_004]
+Land- und Seeverteidigung
+
+[S26_MEMORY_LEVEL_NAME_005]
+Nebelverhüllter Turm
+
+[S26_MEMORY_LEVEL_NAME_006]
+Tosender Sturm
+
+[S26_MEMORY_LEVEL_NAME_007]
+Überhängende Dächer
+
+[S26_MEMORY_LEVEL_NAME_008]
+Der Gipfel der Entscheidungsschlacht
+
+[S26_MEMORY_LEVEL_NAME_009]
+Rauch und Sand bedecken den Nebel Inselchen
+
+[S26_MEMORY_LEVEL_NAME_010]
+Schwimmender Reichtum ist wie ein Traum
+
+[S26_MEMORY_LEVEL_NAME_011]
+Spuren von Wein und Tee erinnern an die Sprache der Blumen
+
+[S26_MEMORY_LEVEL_NAME_012]
+Ein Schatz im uralten Wald
+
+[S26_MEMORY_LEVEL_NAME_013]
+Ein einziger Schwertblitz löscht allen Groll aus
+
+[S26_MEMORY_LEVEL_NAME_014]
+Die wogenden Wellen sind nicht hoffnungslos
+
+[S26_MEMORY_LEVEL_NAME_015]
+Der Weckruf der glorreichen Literatur
+
+[S26_MEMORY_LEVEL_NAME_016]
+Ein einsames, rasendes Auto enthüllt ein Wunder
+
+[S26_MEMORY_LEVEL_NAME_017]
+Der Traum vom Meer Pilz
+
+[S26_MEMORY_LEVEL_NAME_018]
+Tauchwettbewerb
+
+[S26_MEMORY_LEVEL_NAME_019]
+Surfparty
+
+[S26_MEMORY_LEVEL_NAME_020]
+Strandbowling
+
+[S26_MEMORY_LEVEL_NAME_021]
+Tiefseeabenteuer
+
+[S26_MEMORY_LEVEL_NAME_022]
+Rückkehr der Seevögel
+
+[S26_MEMORY_LEVEL_NAME_023]
+Oktopusarmee
+
+[S26_MEMORY_LEVEL_NAME_024]
+Urlaub der Seeerbse
+
+[S26_MEMORY_LEVEL_NAME_025]
+Kalt wie Eis
+
+[S26_MEMORY_LEVEL_NAME_026]
+Brennen
+
+[S26_MEMORY_LEVEL_NAME_027]
+Mehrschichtig
+
+[S26_MEMORY_LEVEL_NAME_028]
+Unzählige Veränderungen
+
+[S26_MEMORY_LEVEL_NAME_029]
+Giftiger Nebel
+
+[S26_MEMORY_LEVEL_NAME_030]
+Donnerkeil
+
+[S26_MEMORY_LEVEL_NAME_031]
+Unzählige Formen
+
+[S26_MEMORY_LEVEL_NAME_032]
+Blitz
+
+[S26_MEMORY_LEVEL_NAME_033]
+Band-Karneval
+
+[S26_MEMORY_LEVEL_NAME_034]
+Feierballons
+
+[S26_MEMORY_LEVEL_NAME_035]
+Butterspritzer
+
+[S26_MEMORY_LEVEL_NAME_036]
+Engelsstern
+
+[S26_MEMORY_LEVEL_NAME_037]
+Fanatischer Jubel
+
+[S26_MEMORY_LEVEL_NAME_038]
+Knallerdonner
+
+[S26_MEMORY_LEVEL_NAME_039]
+Tiertrainer
+
+[S26_MEMORY_LEVEL_NAME_040]
+Kuchenfest
+
+[S26_MEMORY_LEVEL_NAME_041]
+Maodan Angriffe
+
+[S26_MEMORY_LEVEL_NAME_042]
+Brennende Flammen
+
+[S26_MEMORY_LEVEL_NAME_043]
+Grüne Front
+
+[S26_MEMORY_LEVEL_NAME_044]
+Truthahnessen
+
+[S26_MEMORY_LEVEL_NAME_045]
+Ära im Wandel
+
+[S26_MEMORY_LEVEL_NAME_046]
+Laserkampf
+
+[S26_MEMORY_LEVEL_NAME_047]
+Nachtritter
+
+[S26_MEMORY_LEVEL_NAME_048]
+Donnerkeile
+
+[S26_MEMORY_LEVEL_NAME_049]
+Schneller Angriff
+
+[S26_MEMORY_LEVEL_NAME_050]
+Schweben und Lauern
+
+[S26_MEMORY_LEVEL_NAME_051]
+Feinde zu Freunden machen
+
+[S26_MEMORY_LEVEL_NAME_052]
+Brüllender Oberherr
+
+[S26_MEMORY_LEVEL_NAME_053]
+Hoch springen
+
+[S26_MEMORY_LEVEL_NAME_054]
+Riesige Kreatur
+
+[S26_MEMORY_LEVEL_NAME_055]
+Drachenhöhle
+
+[S26_MEMORY_LEVEL_NAME_056]
+Zeitalter der Dinosaurier
+
+[S26_MEMORY_LEVEL_NAME_057]
+Krugfestmahl
+
+[S26_MEMORY_LEVEL_NAME_058]
+Schleim Krise
+
+[S26_MEMORY_LEVEL_NAME_059]
+Erdbeben
+
+[S26_MEMORY_LEVEL_NAME_060]
+Überwältigender Sturm
+
+[S26_MEMORY_LEVEL_NAME_061]
+Dachtanz
+
+[S26_MEMORY_LEVEL_NAME_062]
+Pflanzen-Zombies
+
+[S26_MEMORY_LEVEL_NAME_063]
+Invasion des mystischen Reiches
+
+[S26_MEMORY_LEVEL_NAME_064]
+Raum-Zeit-Riss
+
+[S26_MEMORY_LEVEL_NAME_BOSS_1]
+Löwen-Terminator
+
+[S26_MEMORY_LEVEL_NAME_BOSS_2]
+Deckläufer
+
+[S26_MEMORY_LEVEL_NAME_BOSS_3]
+Haijäger
+
+[S26_MEMORY_LEVEL_NAME_BOSS_4]
+Tanzender Zerstörer
+
+[S26_MEMORY_LEVEL_NAME_BOSS_5]
+Ochsenkarren-Raufbold
+
+[S26_MEMORY_LEVEL_NAME_BOSS_6]
+Decoder von morgen
+
+[S26_MEMORY_LEVEL_NAME_BOSS_7]
+Adamant-Heuler
+
+[S26_MEMORY_LEVEL_NAME_BOSS_8]
+Zaubersänger
+
+[S26_MEMORY_LEVEL_NAME_1]
+Rot Sturm
+
+[S26_MEMORY_LEVEL_NAME_2]
+Abgründiger Verteidiger
+
+[S26_MEMORY_LEVEL_NAME_3]
+Ozeanwächter
+
+[S26_MEMORY_LEVEL_NAME_4]
+Glorreiche Blüte
+
+[S26_MEMORY_LEVEL_NAME_5]
+Wilder Angriff
+
+[S26_MEMORY_LEVEL_NAME_6]
+Ausrüstungsfestung
+
+[S26_MEMORY_LEVEL_NAME_7]
+Eisschmelze, gefrorene Freisetzung
+
+[S26_MEMORY_LEVEL_NAME_8]
+Gewitter
+
+[S26_MEMORY_LEVEL_NAME_9]
+Gesetz des Verschlingens
+
+[S26_MEMORY_LEVEL_NAME_10]
+Die Kunst der Explosion
+
+[S26_MEMORY_LEVEL_NAME_11]
+Einzelkämpferkampf 1
+
+[S26_MEMORY_LEVEL_NAME_12]
+Tote Bäume wiederbelebt
+
+[S26_MEMORY_LEVEL_NAME_13]
+Voller Vitalität
+
+[S26_MEMORY_LEVEL_NAME_14]
+Hinterhalt von allen Seiten
+
+[S26_MEMORY_LEVEL_NAME_15]
+Einzelkämpferkampf 2
+
+[S26_MEMORY_LEVEL_NAME_16]
+Mutig auftauchen
+
+
 [MEMORY_LEVEL_NAME_01]
 Erster Tag der Erinnerungsreise
 
@@ -80468,6 +80739,12 @@ Verschiebungslinienumbruch: Bewegt sich nicht vorwärts, sondern wechselt in reg
 
 [ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_HUANGMEI]
 ^573701^Nach speziellem Training kannst du immun gegen Kontrolle, Deformation und sofortige Tötung sein^oldclr^
+
+[NEWYEAR_GIFT_HEAD_ID_25756]
+Ewiges Leben
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25756]
+Erreiche während des Festgeschenkpaket-Events die kumulative Aufladestufe, um es einzulösen.
 
 [ADVERTISEMENT_HEAD_ID_25696]
 Zeitbeschleunigung
