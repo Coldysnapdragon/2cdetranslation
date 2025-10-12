@@ -9331,13 +9331,13 @@ Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NU
 Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} der  Laserbohne und das Kostüm wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_FIREGOURD_AVATAR_LEVEL_SUCCEED_CONTENT]
-Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Feuerdrachengras-Kostüms und das Kostüm wiederhergestellt.
+Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Drachenmäulchen-Kostüms und das Kostüm wiederhergestellt.
  
 [GEMS_RESTORE_CODE_RECHARGE_SUNFLOWER_LV0_SUCCEED_CONTENT]
 Sonnenblume der ersten Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_TWINSUNFLOWER_LV0_SUCCEED_CONTENT]
-Zwillingssonnenblume der ersten Stufe plus Kostüm
+Doppel-Sonnenblume der ersten Stufe plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_GRAVEBUSTER_LV0_SUCCEED_CONTENT]
 Grabbuschranke der ersten Stufe plus Kostüm
@@ -9376,13 +9376,13 @@ Nuss der ersten Stufe + Kostüm
 Doppel-Shooter der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_THREEPEATER_LV0_SUCCEED_CONTENT]
-Dreifach-Shooter der ersten Stufe + Kostüm
+Triplinator der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_TALLNUT_LV0_SUCCEED_CONTENT]
 Hohe Nuss der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_BLOOMERANG_LV0_SUCCEED_CONTENT]
-Bumerang-Shooter der ersten Stufe mit Kostüm
+Blumerang der ersten Stufe mit Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_BONKCHOY_LV0_SUCCEED_CONTENT]
 Gemüsefrage der ersten Stufe mit Kostüm
@@ -9400,7 +9400,7 @@ Maiskrug der ersten Stufe mit Kostüm
 Energieblume der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SNAPDRAGON_LV0_SUCCEED_CONTENT]
-Feuerdrachengras der ersten Stufe + Kostüm
+Drachenmäulchen der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEWEED_LV0_SUCCEED_CONTENT]
 Spike der ersten Stufe + Kostüm
@@ -9412,7 +9412,7 @@ Kokosnusskanone der ersten Stufe + Kostüm
 Blitzrohr der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV0_SUCCEED_CONTENT]
-Stahlspike der ersten Stufe + Kostüm
+Stachelstein der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV0_SUCCEED_CONTENT]
 Kokosnusskanone der ersten Stufe + Kostüm
@@ -9430,7 +9430,7 @@ Zweiwege-Shooter der ersten Stufe mit zusätzlicher Dekoration
 Frühlingsbohne der ersten Stufe mit Zusätzliche Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_MELONPULT_LV0_SUCCEED_CONTENT]
-Wassermelonenkrug der ersten Stufe mit zusätzlicher Dekoration
+Melonapult der ersten Stufe mit zusätzlicher Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_PEAPOD_LV0_SUCCEED_CONTENT]
 Erbsenschote der ersten Stufe mit zusätzlicher Dekoration
@@ -9526,7 +9526,7 @@ Schnapper (erste Stufe) – Dekoration hinzufügen
 Lotusblatt (erste Stufe) – Dekoration hinzufügen
 
 [GEMS_RESTORE_CODE_RECHARGE_BOWLINGBULB_LV0_SUCCEED_CONTENT]
-Bowlingblase (erste Stufe) – Dekoration hinzufügen
+Bowlingknolle (erste Stufe) – Dekoration hinzufügen
 
 [GEMS_RESTORE_CODE_RECHARGE_BANANA_LV0_SUCCEED_CONTENT]
 Bananenrakete (erste Stufe) – Dekoration hinzufügen
@@ -9571,7 +9571,7 @@ Paprikatapult (1. Stufe) plus Kostüm
 Rübenwächter (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_STUNION_LV0_SUCCEED_CONTENT]
-Betäubungszwiebel (1. Stufe) + Kostüm
+Zwierbel (1. Stufe) + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_XSHOT_LV0_SUCCEED_CONTENT]
 Rübe (1. Stufe) + Kostüm
@@ -9628,7 +9628,7 @@ Sonnenblumensängerin (1. Stufe) plus Kostüm
 Erste Stufe schelmische Karotte plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_ENDURIAN_LV0_SUCCEED_CONTENT]
-Durian-Plus-Kostüm der ersten Stufe
+Endurian-Plus-Kostüm der ersten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV0_SUCCEED_CONTENT]
 Baumwollschnee-Plus-Kostüm der ersten Stufe
@@ -9667,7 +9667,7 @@ Drachenfrucht der ersten Stufe + Kostüm
 Sonnenblume der dritten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_TWINSUNFLOWER_LV3_SUCCEED_CONTENT]
-Zwillingssonnenblume der dritten Stufe
+Doppel-Sonnenblume der dritten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_GRAVEBUSTER_LV3_SUCCEED_CONTENT]
 Denkmalfresser der dritten Stufe Rebe
@@ -9706,13 +9706,13 @@ Walnuss (Level 3)
 Doppelt (Level 3) Shooter
 
 [GEMS_RESTORE_CODE_RECHARGE_THREEPEATER_LV3_SUCCEED_CONTENT]
-Dreifach-Shooter (Level 3)
+Triplinator (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_TALLNUT_LV3_SUCCEED_CONTENT]
 Große Nuss (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_BLOOMERANG_LV3_SUCCEED_CONTENT]
-Bumerang-Shooter (Level 3)
+Blumerang (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_BONKCHOY_LV3_SUCCEED_CONTENT]
 Kohlkrug (Level 3)
@@ -9730,7 +9730,7 @@ Maiskrug, Stufe 3
 Energieblume, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_SNAPDRAGON_LV3_SUCCEED_CONTENT]
-Feuerdrachengras, Stufe 3
+Drachenmäulchen, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEWEED_LV3_SUCCEED_CONTENT]
 Erde, Stufe 3 Stachel
@@ -9751,7 +9751,7 @@ Zwei-Wege-Shooter, Stufe 3
 Feder, Stufe 3 Bohne
 
 [GEMS_RESTORE_CODE_RECHARGE_MELONPULT_LV3_SUCCEED_CONTENT]
-Wassermelonenkrug (Level 3)
+Melonapult (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_PEAPOD_LV3_SUCCEED_CONTENT]
 Erbsenschote (Level 3)
@@ -9793,10 +9793,10 @@ Grapefruit aufladen Stufe 3
 Gelber Pfirsich dritter Ordnung
 
 [GEMS_RESTORE_CODE_RECHARGE_HOLONUT_LV3_SUCCEED_CONTENT]
-Holografische Nuss dritter Ordnung
+Unend-Nuss dritter Ordnung
 
 [GEMS_RESTORE_CODE_RECHARGE_MAGNIFYINGGRASS_LV3_SUCCEED_CONTENT]
-Prismengras dritter Ordnung
+Vergrößerungsgras dritter Ordnung
 
 [GEMS_RESTORE_CODE_RECHARGE_POWERPLANT_LV3_SUCCEED_CONTENT]
 Karotte dritter Ordnung
@@ -9956,7 +9956,7 @@ Sonnenblume (Stufe 3) Sängerin
 Rettich (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_ENDURIAN_LV3_SUCCEED_CONTENT]
-Durian (Stufe 3)
+Endurian (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_COTTONYETI_LV3_SUCCEED_CONTENT]
 Schneebaumwolle (Stufe 3)
@@ -10685,10 +10685,10 @@ Neuestes Eisburger-Outfit!
 Du hast die Eisburger-Pflanze noch nicht freigeschaltet. Möchtest du das Eisburger-Outfit kaufen?
 
 [STORE_GIFT_LABORDAY_THREEPEATER_DESC]
-Neuestes Dreifach-Shooter-Outfit!
+Neuestes Triplinator-Outfit!
 
 [STORE_GIFT_LABORDAY_THREEPEATER_DESC_NO_PLANT]
-Du hast die Dreifach-Shooter-Pflanze noch nicht freigeschaltet. Möchtest du das Dreifach-Shooter-Outfit kaufen?
+Du hast die Triplinator-Pflanze noch nicht freigeschaltet. Möchtest du das Triplinator-Outfit kaufen?
 
 [STORE_GIFT_LABORDAY_CHEERBOOM_DESC]
 Neuestes Kirschbomben-Outfit!
@@ -10952,7 +10952,7 @@ Prismatisches Gras-Geschenk Paket
 
 [STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
-Fortschrittliches Prismengras und Kostüm
+Fortschrittliches Vergrößerungsgras und Kostüm
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT]
 Bambussprossen-Geschenkpaket
@@ -10987,7 +10987,7 @@ Dreifach-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT_DESC]
 ^009900 Nur für kurze Zeit bis 9.16 Uhr ^oldclr
-Fortgeschrittener Dreifach-Shooter und Kostüm
+Fortgeschrittener Triplinator und Kostüm
 
 [STORE_GIFT_LABORDAY_TALLNUT_GIFT]
 High-Nut-Paket
@@ -11011,11 +11011,11 @@ Wandoujia-Geschenkpaket
 Fortgeschrittene Erbsenschote und Kostüm
 
 [STORE_GIFT_LABORDAY_MELONPULT_GIFT]
-Wassermelonenkrug-Geschenkpaket
+Melonapult-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_MELONPULT_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
-Fortgeschrittener Wassermelonenkrug und Kostüm
+Fortgeschrittener Melonapult und Kostüm
 
 [STORE_GIFT_LABORDAY_COCONUTCANNON_GIFT]
 Kokosnuss-Geschenkpaket
@@ -11081,11 +11081,11 @@ Matschkürbis-Geschenkpaket
 Fortgeschrittener Matschkürbis und Kostüm
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT]
-Feuerdrachengras-Geschenkpaket
+Drachenmäulchen-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT_DESC]
 ^009900 Nur für kurze Zeit, 6:20–6:30 Uhr
-Fortschrittliches Feuerdrachengras und Kostüm
+Fortschrittliches Drachenmäulchen und Kostüm
 
 [STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT]
 Frühlingsbohnen-Geschenkpaket
@@ -11338,7 +11338,7 @@ Das Geschenkpaket enthält Eiswassermelone, Blitzrohr und Hohe Nüsse für Anfä
 Herzlichen Glückwunsch zum Eisburger-Ankleidepaket!
 
 [STORE_GIFT_LABORDAY_THREEPEATER_GIFT_BUY_FINISH]
-Herzlichen Glückwunsch zum Dreifach-Shooter-Ankleidepaket!
+Herzlichen Glückwunsch zum Triplinator-Ankleidepaket!
 
 [STORE_GIFT_LABORDAY_CHERRYBOOM_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Kirschbomben-Ankleidepaket!
@@ -12896,7 +12896,7 @@ Münzen x%d
 Sonnenblumenkleidfragmente
 
 [AVATAR_PIECE_OF_TWINSUNFLOWER]
-Zwillingssonnenblumenkleidfragmente
+Doppel-Sonnenblumenkleidfragmente
 
 [AVATAR_PIECE_OF_POTATPMINE]
 Kartoffelminenkleidfragmente
@@ -12905,7 +12905,7 @@ Kartoffelminenkleidfragmente
 Löwenmäulchenkleidfragmente
 
 [AVATAR_PIECE_OF_BLOOMERANG]
-Bumerang-Shooter-Kostümfragment
+Blumerang-Kostümfragment
 
 [AVATAR_PIECE_OF_CABBGEPULT]
 Kohlkrugkostüm Fragment
@@ -13016,7 +13016,7 @@ Eiskleid
 Spikekleid
 
 [STORE_PRODUCT_AVATAR_SPIKEROCK_TITLE]
-Stahlspike-Outfit
+Stachelstein-Outfit
 
 [STORE_PRODUCT_AVATAR_BAMBOO_TITLE]
 Bambussprossen Outfit
@@ -15391,7 +15391,7 @@ Die Reichweite der Spezialdünger-Fähigkeit erhöht sich um eine Stufe.
 Ansturmangriff
 
 [MAGNIFYINGGRASS_SKILL1_LEVEL1_DES]
-Drücken und halten Sie das Prismengras kurz gedrückt, um einen Sturmangriff zu starten: verbraucht 100 Sonnenlicht pro Mal, und der Schaden erhöht sich um weitere 25%.
+Drücken und halten Sie das Vergrößerungsgras kurz gedrückt, um einen Sturmangriff zu starten: verbraucht 100 Sonnenlicht pro Mal, und der Schaden erhöht sich um weitere 25%.
 
 [MAGNIFYINGGRASS_SKILL1_LEVEL2]
 Aufladen
@@ -16057,7 +16057,7 @@ Die Februar-Anmeldeversion von „Plants vs. Zombies 2“ wurde aus bekannten Gr
 1. 100 Juwelen
 2. 10 Süßkartoffelfragmente
 
-Nach der Veröffentlichung der Big Wave Beach-Version verschwanden die vier Pflanzen Süßkartoffel, Lotusblatt, Schnapper und Bowlingblase aufgrund einer Datenverwechslung oder tauchten wieder auf. Wir haben sie gemäß den Fragmenten und Leveln vor dem Fehler wiederhergestellt und die Spieler mit 50 Juwelen entschädigt.
+Nach der Veröffentlichung der Big Wave Beach-Version verschwanden die vier Pflanzen Süßkartoffel, Lotusblatt, Schnapper und Bowlingknolle aufgrund einer Datenverwechslung oder tauchten wieder auf. Wir haben sie gemäß den Fragmenten und Leveln vor dem Fehler wiederhergestellt und die Spieler mit 50 Juwelen entschädigt.
 
 Vielen Dank für eure Unterstützung von „Plants vs. Zombies 2“ und ich wünsche euch allen frohe Feiertage mit Plants vs. Zombies 2!
 ———————— Kleine Erbse
@@ -16185,7 +16185,7 @@ Supreme Deluxe Geschenkpaket
 50.000 Goldmünzen, 15 Juwelen
 
 [PRESENT_DES_36]
-80.000 Goldmünzen, Bumerang-Shooter, 30 Juwelen
+80.000 Goldmünzen, Blumerang, 30 Juwelen
 
 [PRESENT_DES_37]
 100.000 Goldmünzen, Doppel-Shooter, 50 Juwelen
@@ -16537,13 +16537,13 @@ Gefrorene Salatfragmente erhalten
 Zwillingsfragmente
 
 [BONUS_CARD_PIECE_TWINSUNFLOWER_DESCRIPTION]
-Zwillingssonnenblumenfragmente erhalten
+Doppel-Sonnenblumenfragmente erhalten
 
 [BONUS_CARD_PIECE_BLOOMERANG]
 Bumerangfragmente
 
 [BONUS_CARD_PIECE_BLOOMERANG_DESCRIPTION]
-Bumerang-Shooter-Fragment erhalten
+Blumerang-Fragment erhalten
 
 [BONUS_CARD_PIECE_BONKCHOY]
 Pack Choi-Fragment
@@ -16669,7 +16669,7 @@ Zwei-Wege-Shooter-Fragment erhalten
 Dreifach-Fragment
 
 [BONUS_CARD_PIECE_THREEPEATER_DESCRIPTION]
-Dreifach-Shooter-Fragment erhalten
+Triplinator-Fragment erhalten
 
 [BONUS_CARD_PIECE_WINTERMELON]
 Eis-Wassermelonen-Fragment
@@ -16681,7 +16681,7 @@ Eis-Wassermelonen-Fragment erhalten
 Wassermelonen-Krug Fragmente
 
 [BONUS_CARD_PIECE_MELONPULT_DESCRIPTION]
-Wassermelonenkrugfragmente erhalten
+Melonapultfragmente erhalten
 
 [BONUS_CARD_PIECE_PEAPOD]
 Erbsenschotenfragmente
@@ -17130,7 +17130,7 @@ Hypnotisiert zufällige Zombies
 Extrem schnelle Konstruktion
 
 [CAULIPOWER_SKILL_LEVEL1_DES]
-Reduziert die Bauzeit von Super-Blumenkohl um 25%.
+Reduziert die Bauzeit von Hypno-Karfiol um 25%.
 
 [CAULIPOWER_SKILL_LEVEL2]
 Super-Eile
@@ -17148,7 +17148,7 @@ Kann hochstufige Zombies bezaubern und die Ruhezeit sofort wiederherstellen.
 Die Spezialdünger-Fähigkeit kann einen zusätzlichen Zombie werfen.
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER_TITLE]
-Super-Blumenkohl-Kostüm
+Hypno-Karfiol-Kostüm
 
 [DUSKLOBBER]
 Schattenlupfer
@@ -19435,7 +19435,7 @@ ca=3 Projektile|4 Projektile|2 Projektile|N Projektile|
 [LANTERN_RIDDLES_13]
 Welche der folgenden Pflanzen braucht im Kampf gegen Zombies keine Pause?
 [LANTERN_RIDDLES_ANSWER_13]
-ca=Feuerdrachengras|Kokosnusskanone|Karottenraketenwagen|Bananenkanone|
+ca=Drachenmäulchen|Kokosnusskanone|Karottenraketenwagen|Bananenkanone|
 [LANTERN_RIDDLES_14]
 Welche weiteren Funktionen hat Weißer Rettich außer dem Schutz vor der Absorption durch Schwarze Löcher und Qigong?
 [LANTERN_RIDDLES_ANSWER_14]
@@ -19447,7 +19447,7 @@ ca=Auf den Feuerkürbis klicken | Lange drücken | Feuerkürbis berühren | Zomb
 [LANTERN_RIDDLES_16]
 Welche der folgenden Pflanzen erhöht die Sonneneinstrahlung jedes Mal, wenn sie gepflanzt wird?
 [LANTERN_RIDDLES_ANSWER_16]
-ca=Ziegelrettich | Erbsenschote | Energieblume | Prismengras |
+ca=Ziegelrettich | Erbsenschote | Energieblume | Vergrößerungsgras |
 [LANTERN_RIDDLES_17]
 Wer aus der Familie der Erbsengewächse hat Augenbrauen?
 [LANTERN_RIDDLES_ANSWER_17]
@@ -19511,7 +19511,7 @@ ca=Platzanweiser|Feuerwehrmann|Koch|Bäcker|
 [LANTERN_RIDDLES_32]
 Wer ist der Stellvertreter der Familie Krug?
 [LANTERN_RIDDLES_ANSWER_32]
-ca=Wassermelonenkrug|Maiskrug|Kohlkrug|Eiswassermelone|
+ca=Melonapult|Maiskrug|Kohlkrug|Eiswassermelone|
 [LANTERN_RIDDLES_33]
 Welche Funktion hat das Kleeblatt?
 [LANTERN_RIDDLES_ANSWER_33]
@@ -19603,7 +19603,7 @@ ca=Hufeisen sind zu klein | Essen zu viel | Arbeiten nicht hart | Können keine 
 [LANTERN_RIDDLES_55]
 Wer ist der beste Freund des Fackelstumpfs?
 [LANTERN_RIDDLES_ANSWER_55]
-ca=Feuerdrachengras | Feuerkürbis | Flammenpilz | Erbsenkanone |
+ca=Drachenmäulchen | Feuerkürbis | Flammenpilz | Erbsenkanone |
 [LANTERN_RIDDLES_56]
 Was ist der Traum der Cherry Bomb Brothers?
 [LANTERN_RIDDLES_ANSWER_56]
@@ -19635,7 +19635,7 @@ ca=Frucht | Zähne | Moral | Blatt |
 [LANTERN_RIDDLES_63]
 Welche der folgenden Pflanzen ist kein Fleischschild?
 [LANTERN_RIDDLES_ANSWER_63]
-ca=Agave | Rote Nadelblume | Jackfrucht | Durian |
+ca=Agave | Rote Nadelblume | Jackfrucht | Endurian |
 [LANTERN_RIDDLES_64]
 Der Zombie, der durch die Spritze des Spritzenzombies in den Wahnsinn getrieben werden kann, ist:
 [LANTERN_RIDDLES_ANSWER_64]
@@ -19643,7 +19643,7 @@ ca=Alle | Entdecker-Zombie | Meister-Zombie | Gewöhnlicher Zombie |
 [LANTERN_RIDDLES_65]
 Welche der folgenden Pflanzen kann dem Schaufelzombie Schaden zufügen?
 [LANTERN_RIDDLES_ANSWER_65]
-ca=A.Kai.Mu.Mu.|Rote Nadelblume|Pack Choi|Durian|
+ca=A.Kai.Mu.Mu.|Rote Nadelblume|Pack Choi|Endurian|
 [LANTERN_RIDDLES_66]
 Welcher der folgenden Zombies wird das Rennen gewinnen?
 [LANTERN_RIDDLES_ANSWER_66]
@@ -19691,7 +19691,7 @@ ca=Zwei-Wege-Shooter|Zwillings-Sonnenblume|Kirschbombe|Ionisierte Anthurie|
 [LANTERN_RIDDLES_77]
 Welche der folgenden Pflanzen können nicht gegen Fragmente eingetauscht werden?
 [LANTERN_RIDDLES_ANSWER_77]
-ca=Dreifach-Shooter|Eis-Wassermelone|Maiskrug|Feuriger Pfeffer|
+ca=Triplinator|Eis-Wassermelone|Maiskrug|Feuriger Pfeffer|
 [LANTERN_RIDDLES_78]
 In welcher der folgenden Welten gibt es keine Fass-Zombies?
 [LANTERN_RIDDLES_ANSWER_78]
@@ -19699,11 +19699,11 @@ ca=Kung-Fu-Welt|Wilder Westen|Dunkles Zeitalter|Großer Wellenstrand|
 [LANTERN_RIDDLES_79]
 Welche der folgenden Pflanzen können keine Fragmente über die Pflanzenerkundungsfunktion erhalten?
 [LANTERN_RIDDLES_ANSWER_79]
-ca=Kirschbombe|Feuerdrachengras|Kürbis|Feuriger Pfeffer|
+ca=Kirschbombe|Drachenmäulchen|Kürbis|Feuriger Pfeffer|
 [LANTERN_RIDDLES_80]
 Welche Pflanze wird als König des Gemüses bezeichnet?
 [LANTERN_RIDDLES_ANSWER_80]
-ca=Spargelkämpfer|Eiswassermelone|Paprikatapult|Wassermelonenkrug|
+ca=Spargelkämpfer|Eiswassermelone|Paprikatapult|Melonapult|
 [LANTERN_RIDDLES_81]
 Ist nicht Folgendes der Grund, warum aus der Wirbelmispel keine Ballerina wurde?
 [LANTERN_RIDDLES_ANSWER_81]
@@ -19734,7 +19734,7 @@ Wie groß ist die Angriffsreichweite der Spezialdünger-Fähigkeit der Saubohnen
 [LANTERN_RIDDLES_88]
 Welche der folgenden Pflanzen gehört nicht zu den drei Feuerschwertkämpfern?
 [LANTERN_RIDDLES_ANSWER_88]
-ca=Feuerkürbis | Fackelstumpf | Laternengras | Feuerdrachengras |
+ca=Feuerkürbis | Fackelstumpf | Laternengras | Drachenmäulchen |
 [LANTERN_RIDDLES_89]
 Wozu dient Laternengras hauptsächlich?
 [LANTERN_RIDDLES_ANSWER_89]
@@ -20288,7 +20288,7 @@ Wische los!
 {NPC_ENTER:crazydave}{SAY}Vor uns befindet sich ein Kamel-Zombie. Er hat eine starke Verteidigung und es dauert lange, ihn mit normalen Angriffen zu besiegen.
 
 [NARRATIVE_PLANTTRIAL_BLOOMERANG_INFO_2]
-{EXCITED:crazydave}{SAY}Probiert den neuen Bumerang-Shooter aus. Er kann mehrere Ziele mit einem Angriff durchdringen und eignet sich daher hervorragend für den Kampf gegen Kamel-Zombies.
+{EXCITED:crazydave}{SAY}Probiert den neuen Blumerang aus. Er kann mehrere Ziele mit einem Angriff durchdringen und eignet sich daher hervorragend für den Kampf gegen Kamel-Zombies.
 
 [PLANTTRIAL_BLOOMERANG_INTO1]
 Bitte pflanzt die Pflanzen in die blinkende Spalte.
@@ -20309,7 +20309,7 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Trommelzombie gefunden. Wenn die Trommel explodiert, wird der Geisterzombie im Inneren freigelassen. Sei vorsichtig.
 
 [NARRATIVE_PLANTTRIAL_SNAPDRAGON_INFO_2]
-{EXCITED:crazydave}{SAY}Probiere das neu eingetroffene Feuerdrachengras. Es hat Feuerkraft und deckt die oberen, mittleren und unteren Reihen ab. Es ist eine Pflanze mit Fernangriff.
+{EXCITED:crazydave}{SAY}Probiere das neu eingetroffene Drachenmäulchen. Es hat Feuerkraft und deckt die oberen, mittleren und unteren Reihen ab. Es ist eine Pflanze mit Fernangriff.
 
 [NARRATIVE_PLANTTRIAL_KERNELPULT_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Wir haben Möwenzombies vor uns entdeckt. Sie fliegen über den Fluss und greifen unsere Schwachstellen aus der Luft an.
@@ -20321,7 +20321,7 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {NPC_ENTER:crazydave}{SAY}Ich habe es satt, so lange mit dem Anbau all der Nutzpflanzen zu verbringen.
 
 [NARRATIVE_PLANTTRIAL_TWINSUNFLOWER_INFO_2]
-{EXCITED:crazydave}{SAY}Probiert die neu eingetroffenen Zwillingssonnenblumen. Sie tragen doppelt so viel Ertrag wie normale Sonnenblumen und schonen so die begrenzten Flächen.
+{EXCITED:crazydave}{SAY}Probiert die neu eingetroffenen Doppel-Sonnenblumen. Sie tragen doppelt so viel Ertrag wie normale Sonnenblumen und schonen so die begrenzten Flächen.
 
 [NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Wir haben vor uns einen Kavallerie Zombie entdeckt.
@@ -21656,7 +21656,7 @@ Endurian-Kostüm
 Stink-Aura
 
 [ENDURIAN_SKILL_LEVEL1_DES]
-Die Durian verströmt einen üblen Geruch und fügt den Zombies in der Umgebung kontinuierlich Schaden zu.
+Die Endurian verströmt einen üblen Geruch und fügt den Zombies in der Umgebung kontinuierlich Schaden zu.
 
 [ENDURIAN_SKILL_LEVEL2]
 Stink-Verstärkung
@@ -23470,7 +23470,7 @@ Starte die endlose Herausforderung.
 
 [NATIONALDAY_ACTIVE_CONTENT]
 Nimm während des Events an der Verlosung teil und sichere dir die neue Pflanze zum zweiten Jubiläum [Sunflower Singer].
-Pflanzen in dieser Ausgabe: [Sonnenblumensängerin] [Eispilz] [Karotten-Raketenwagen] [Wassermelonenkrug] [Eis-Shooter]
+Pflanzen in dieser Ausgabe: [Sonnenblumensängerin] [Eispilz] [Karotten-Raketenwagen] [Melonapult] [Eis-Shooter]
 
 [NATIONALDAY_ACTIVE_BUY]
 
@@ -25347,8 +25347,9 @@ Besiege die riesigen Tiefsee-Zombies und sammle ihre Zeitschlüssel.
 
 [ACHIEVE_BIG_KAHUNKA_TITLE]
 BIG KAHUNKA
+
 [ACHIEVE_EIGHTIES_BACK_FROM_THE_FUTURE_3_DESC]
-Pflanze das Zeitumkehrgras dreimal im selben Level.
+Pflanze den Eigenthymian dreimal im selben Level.
 
 [ACHIEVE_EIGHTIES_BACK_FROM_THE_FUTURE_3_TITLE]
 Kehre zurück von Zukunft 3
@@ -25455,7 +25456,7 @@ Wenn ein Höhlenzombie im Level auftaucht, lass ihn das Eis nicht durch die sech
 Eisbarriere
 
 [ACHIEVE_ICEAGE_KNOCKEMDEAD_DESC]
-Stoße 6 Zombies mit einem Angriff mit Beet Guard zurück.
+Stoße 6 Zombies mit einem Angriff mit Mangold-Mangler zurück.
 
 [ACHIEVE_ICEAGE_KNOCKEMDEAD_TITLE]
 Erschieße sie!
@@ -26163,13 +26164,13 @@ Eisdrachenmäulchen stößt Eisnebel auf die neun Felder vor sich aus und friert
 Kalter Atem
 
 [COLDSNAPDRAGON_SKILL_LEVEL1_DES]
-Der normale Angriff von Eisdrachengras hat eine Chance, den Gegner einzufrieren.
+Der normale Angriff von Eis-Drachenmäulchen hat eine Chance, den Gegner einzufrieren.
 
 [COLDSNAPDRAGON_SKILL_LEVEL2]
 Kalter Atem
 
 [COLDSNAPDRAGON_SKILL_LEVEL2_DES]
-Der normale Angriff von Eisdrachengras hat eine höhere Chance, den Gegner einzufrieren.
+Der normale Angriff von Eis-Drachenmäulchen hat eine höhere Chance, den Gegner einzufrieren.
 
 [COLDSNAPDRAGON_SUPERSKILL_NAME]
 Eisdrachenatem
@@ -26261,7 +26262,7 @@ Zombies des Dunklen Zeitalters
 Mysteriöser ägyptischer Zombie
 
 [CREDITS_VA_FROSTBITE_CAVES_CHARD_GUARD]
-Beet Guard
+Mangold-Mangler
 
 [CREDITS_VA_FROSTBITE_CAVES_DODO]
 Dodo
@@ -27107,7 +27108,7 @@ Sammle die abgeworfenen Sonnenbomben ein, um Zukunftslärm aufzuladen!
 Plane und führe eine finstere Verteidigung aus!
 
 [EPIC_QUEST_GEMJAM_STEP_06_TITLE]
-Benutze Bowlingblasen, um Partycrasher am Strand zu besiegen!
+Benutze Bowlingknollen, um Partycrasher am Strand zu besiegen!
 
 [EPIC_QUEST_GEMJAM_STEP_07_TITLE]
 Heize den gefrorenen Feinden der Eiswelt ein!
@@ -27642,10 +27643,10 @@ Starte jedes Level mit 25 zusätzlichen Sonnenlichtpunkten! Schließe Tag 21 von
 Schalte das verbesserte Start-Sonnenlicht frei!
 
 [FINISH_EGYPT_24_DESC]
-Kein Sonnenlicht mehr? Zwillingssonnenblumen erzeugen doppelt so viel Sonnenlicht pro Etage! Schließe Mystisches Ägypten Tag 24 ab!
+Kein Sonnenlicht mehr? Doppel-Sonnenblumen erzeugen doppelt so viel Sonnenlicht pro Etage! Schließe Mystisches Ägypten Tag 24 ab!
 
 [FINISH_EGYPT_24_TITLE]
-Schalte Zwillingssonnenblumen frei!
+Schalte Doppel-Sonnenblumen frei!
 
 [FINISH_EGYPT_25_DESC]
 Besiege den bösen Dr. Zomboss in der Uralten Schlacht an Tag 25 von Mystisches Ägypten und gewinne Beute!
@@ -27657,7 +27658,7 @@ Kämpfe gegen Dr. Zomboss!
 Wirf Bumerangs auf mehrere Gegner gleichzeitig und verdoppele so den Schaden! Schließe Mystisches Ägypten Tag 3 ab!
 
 [FINISH_EGYPT_3_TITLE]
-Schalte Bumerang-Shooter frei!
+Schalte Blumerang frei!
 
 [FINISH_EGYPT_5_DESC]
 Gefrorener Salat friert Zombies an Ort und Stelle ein! So cool! Schließe Mystisches Ägypten Tag 5 ab!
@@ -27804,10 +27805,10 @@ Keine Lust auf klirrende Kälte? Ofenkartoffeln können Eis zertrümmern! Schlie
 Schalte Ofenkartoffeln frei!
 
 [FINISH_ICEAGE_11_DESC]
-Halte die Stellung und noch besser: Schlage sie alle zurück! Beet Guard ist bereit. Schließe Ice Age Tag 11 ab!
+Halte die Stellung und noch besser: Schlage sie alle zurück! Mangold-Mangler ist bereit. Schließe Ice Age Tag 11 ab!
 
 [FINISH_ICEAGE_11_TITLE]
-Schalte Beet Guard frei!
+Schalte Mangold-Mangler frei!
 
 [FINISH_ICEAGE_16_DESC]
 Greife die fiesen Gargantua zombies in Frostbeulen Höhlen Tag 16 an und gewinne einen Zeitschlüssel zum Welten-wechsel!
@@ -27852,10 +27853,10 @@ Die Rote Nadel ist ein mächtiger Schütze im Rücken, doch je weiter sie vorrü
 Schalte die Rote Nadelblume frei!
 
 [FINISH_LOSTCITY_10_DESC]
-Die beste Offensive ist eine gute Defensive? Na und, wenn du beides hast! Durian blockt und fügt Gegnern Schaden zu! Schließe Verlorene Stadt Tag 10 ab!
+Die beste Offensive ist eine gute Defensive? Na und, wenn du beides hast! Endurian blockt und fügt Gegnern Schaden zu! Schließe Verlorene Stadt Tag 10 ab!
 
 [FINISH_LOSTCITY_10_TITLE]
-Schalte Durian frei!
+Schalte Endurian frei!
 
 [FINISH_LOSTCITY_16_DESC]
 Greife die fiesen Riesenzombies in Verlorene Stadt Tag 16 an und gewinne einen Zeitschlüssel für die Erweiterte Ära!
@@ -27957,7 +27958,7 @@ Schalte die Kokosnusskanone frei!
 Bombardiere drei Routen gleichzeitig und verdreifache deine Feuerkraft! Schließe Pirate Bay Tag 14 ab!
 
 [FINISH_PIRATE_14_TITLE]
-Schalte den Dreifach-Shooter frei!
+Schalte den Triplinator frei!
 
 [FINISH_PIRATE_18_DESC]
 Stark genug, um riesige Zombies abzuwehren, scharf genug, um sie zu Staub zu zerstechen! Schließe Pirate Bay Tag 18 ab!
@@ -27987,7 +27988,7 @@ Kämpfe gegen Dr. Zomboss!
 Ein heftiger Flammenangriff, der Gegner auf mehreren Routen gleichzeitig treffen kann! Schließe Pirate Bay Tag 3 ab!
 
 [FINISH_PIRATE_3_TITLE]
-Schalte das Feuerdrachengras frei!
+Schalte das Drachenmäulchen frei!
 
 [FINISH_PIRATE_4_DESC]
 Endlose Abenteuer erwarten dich auf hoher See! Schließe Pirate Bay Tag 4 ab!
@@ -31458,10 +31459,10 @@ Schnapper
 Sprüht eisigen Nebel in 6 benachbarte Felder!
 
 [PRODUCT_COLDSNAPDRAGON_NAME]
-Pflanze – Eisdrachengras
+Pflanze – Eis-Drachenmäulchen
 
 [PRODUCT_COLDSNAPDRAGON_SHORT_DESCRIPTION]
-Eisdrachengras
+Eis-Drachenmäulchen
 
 [PRODUCT_COSTUME_70SSHADES_DESC]
 Perfekt für Monte Carlo im Mai.
@@ -33627,49 +33628,49 @@ Heftiger Fels
 Die Fette Bete springt schnell und sendet stärkere Schallwellen aus, die Zombies in die Luft wirbeln und ihre Rüstung abwerfen.
 
 [THYMEWARP_PRODUCT_SHORT_DESC]
-Das Zeitumkehrgras kann einige Zombies auf dem Feld auf die rechte Seite teleportieren.
+Der Eigenthymian kann einige Zombies auf dem Feld auf die rechte Seite teleportieren.
 
 [STORE_PRODUCT_AVATAR_THYMEWARP]
 Reduziert die Abklingzeit des Pflanzens um 20%.
 
 [STORE_PRODUCT_AVATAR_THYMEWARP_TITLE]
-Zeitumkehr-Graskostüm
+Gelber Hut
 
 [THYMEWARP_SKILL_LEVEL1]
 Zeit- und Raumturbulenzen
 
 [THYMEWARP_SKILL_LEVEL1_DES]
-Das Zeitumkehr-Gras kann Zombies direkt in die Zeit- und Raumturbulenzen teleportieren, sodass sie nicht mehr auf das Feld zurückkehren können.
+Der Eigenthymian kann Zombies direkt in die Zeit- und Raumturbulenzen teleportieren, sodass sie nicht mehr auf das Feld zurückkehren können.
 
 [THYMEWARP_SKILL_LEVEL2]
 Zeit- und Raumbeherrschung
 
 [THYMEWARP_SKILL_LEVEL2_DES]
-Ermöglicht dem Zeitgras, mehr Zombies zu teleportieren.
+Ermöglicht dem Eigenthymian, mehr Zombies zu teleportieren.
 
 [CELERYSTALKER_PRODUCT_SHORT_DESC]
 Der lauernde Sellerie kann sich unter der Erde verstecken und Zombies von hinten angreifen, wenn sie vorbeikommen.
 
 [CELERYSTALKER_AVATAR_NAME]
-Sellerie-Kostüm
+Rot und Blau
 
 [STORE_PRODUCT_AVATAR_CELERYSTALKER]
 Die Spezialdünger-Fähigkeit kann zusätzlichen Sellerie produzieren.
 
 [STORE_PRODUCT_AVATAR_CELERYSTALKER_TITLE]
-Sellerie-Kostüm
+Rot und Blau
 
 [CELERYSTALKER_SKILL_LEVEL1]
 Handflächenangriff
 
 [CELERYSTALKER_SKILL_LEVEL1_DES]
-Wenn der Lauernde Sellerie aus dem Untergrund hervorkommt, hat er die Chance, die Zombies rechts zurückzustoßen.
+Wenn der Lauer-Sellerie aus dem Untergrund hervorkommt, hat er die Chance, die Zombies rechts zurückzustoßen.
 
 [CELERYSTALKER_SKILL_LEVEL2]
 Warten auf den richtigen Moment
 
 [CELERYSTALKER_SKILL_LEVEL2_DES]
-Erhöht die Chance, dass der Lauernde Sellerie einen Handflächenangriff startet.
+Erhöht die Chance, dass der Lauer-Sellerie einen Handflächenangriff startet.
 
 [SPORESHROOM_PRODUCT_SHORT_DESC]
 Der Sporenpilz kann Sporen abfeuern, um Zombies anzugreifen, und beim Töten von Zombies Pilzfamilien hervorbringen.
@@ -34076,13 +34077,13 @@ Level Flammenblume (3)
 Gatlingerbse (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_PHATBEET_LV3_SUCCEED_CONTENT]
-Magische Rübe (Stufe 3)
+Fette Beete (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_THYMEWARP_LV3_SUCCEED_CONTENT]
-Zeitumkehrgras (Stufe 3)
+Eigenthymian (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_CELERYSTALKER_LV3_SUCCEED_CONTENT]
-Lauernder Sellerie (Stufe 3)
+Lauer-Sellerie (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_SPORESHROOM_LV3_SUCCEED_CONTENT]
 Spore (Stufe 3) Pilz
@@ -34091,7 +34092,7 @@ Spore (Stufe 3) Pilz
 Knoblauch (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_INTENSIVECARROT_LV3_SUCCEED_CONTENT]
-Auferstehungskarotte (Level 3)
+Intensivkarrote (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_CACTUS_LV3_SUCCEED_CONTENT]
 Kaktus (Level 3)
@@ -36090,7 +36091,7 @@ Beim Einsatz der Spezialdünger-Fähigkeit erhältst du ein goldenes Fossil zum 
 Primitives Kartoffel-Outfit
 
 [STORE_PRODUCT_AVATAR_PRIMALPOTATOMINE]
-Die Spezialdünger-Fähigkeit spaltet eine zusätzliche primitive Kartoffelmine.
+Die Spezialdünger-Fähigkeit spaltet eine zusätzliche Urzeit-Kartoffelmine.
 
 [STORE_PRODUCT_AVATAR_PRIMALRAFFLESIA_TITLE]
 Primitives Rafflesia-Outfit
@@ -38625,13 +38626,13 @@ Blumensprache: Ich liebe dich nur, Glück
 [ENDURIAN_FAMILY]
 Malvaceae
 [ENDURIAN_GENUS]
-Durian
+Endurian
 [ENDURIAN_PEDIA]
-Durian – Legende und Geheimnis der Königin der tropischen Früchte
+Endurian – Legende und Geheimnis der Königin der tropischen Früchte
 Immergrüner Baum.
 Er kann bis zu 25 Meter hoch werden. Die Blätter sind länglich oder verkehrt eiförmig länglich und haben auf der Rückseite angewachsene Schuppen. Die Trugdolden sind schlank und hängend, die Blütenblätter hellgelb. Die Kapsel ist oval, gelb und 15–30 cm lang. Die Außenhaut ist dicht mit dreieckigen Stacheln bedeckt. Die Samen sind von einem weißen oder hellgelben Samenmantel (essbarer Teil) umhüllt. Sie sind klebrig und saftig und verströmen einen starken, einzigartigen Duft. Die Blüte- und Fruchtzeit dauert von Juni bis Dezember.
 
-Durian wird auch als „Durian“ geschrieben, was sich von der Transliteration des malaiischen Wortes „Durian“ ableitet. Es gibt auch eine Legende über Zheng Hes Reisen in den Westen: Die Besatzung nannte die Frucht wegen ihres köstlichen Geschmacks „verweilend“, woraus sich später „Durian“ entwickelte. Ursprünglich im Malaiischen Archipel angebaut, wird sie heute hauptsächlich in südostasiatischen Ländern wie Thailand, Malaysia und Indonesien angebaut. Sie wurde auch in Guangdong, Hainan, Yunnan und anderen chinesischen Ländern eingeführt. In Südostasien wird die Durian als „Königin der Früchte“ verehrt. Sie ist nicht nur ein religiöses Opfer, sondern darf aufgrund ihres umstrittenen Geruchs auch nicht an manchen öffentlichen Orten mitgeführt werden. Durianmark ist reich an Nährstoffen wie Protein, Vitamin C und Kalium. Es hat einen medizinischen Wert und kann Dysmenorrhoe lindern und Kältegefühle lindern. Schale und Kern können in Suppen gekocht werden. Ein Volkssprichwort besagt: „Eine Durian ist so nahrhaft wie drei Hühner.“
+Endurian wird auch als „Endurian“ geschrieben, was sich von der Transliteration des malaiischen Wortes „Endurian“ ableitet. Es gibt auch eine Legende über Zheng Hes Reisen in den Westen: Die Besatzung nannte die Frucht wegen ihres köstlichen Geschmacks „verweilend“, woraus sich später „Endurian“ entwickelte. Ursprünglich im Malaiischen Archipel angebaut, wird sie heute hauptsächlich in südostasiatischen Ländern wie Thailand, Malaysia und Indonesien angebaut. Sie wurde auch in Guangdong, Hainan, Yunnan und anderen chinesischen Ländern eingeführt. In Südostasien wird die Endurian als „Königin der Früchte“ verehrt. Sie ist nicht nur ein religiöses Opfer, sondern darf aufgrund ihres umstrittenen Geruchs auch nicht an manchen öffentlichen Orten mitgeführt werden. Endurianmark ist reich an Nährstoffen wie Protein, Vitamin C und Kalium. Es hat einen medizinischen Wert und kann Dysmenorrhoe lindern und Kältegefühle lindern. Schale und Kern können in Suppen gekocht werden. Ein Volkssprichwort besagt: „Eine Endurian ist so nahrhaft wie drei Hühner.“
 
 [COTTONYETI_FAMILY]
 Malvaceae
@@ -39116,7 +39117,7 @@ Donnerdrachengras
 [THUNDERSNAPDRAGON_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Blaue Pflanze, 100.000 Volt
 
-{FLAVOR} Donnerdrachengras, ein Mitglied der Blitzfamilie, behauptet, aus Asgard zu stammen. Es ist ein berüchtigter Tyrann in der Familie und murmelt ständig: „Ich bin ein Donnerdrache.“ „Alle sagen, ich sehe aus wie Feuerdrachengras, aber ich habe nichts damit zu tun. Ich sehe viel besser aus als der Typ!“, sagte es verächtlich.
+{FLAVOR} Donnerdrachengras, ein Mitglied der Blitzfamilie, behauptet, aus Asgard zu stammen. Es ist ein berüchtigter Tyrann in der Familie und murmelt ständig: „Ich bin ein Donnerdrache.“ „Alle sagen, ich sehe aus wie Drachenmäulchen, aber ich habe nichts damit zu tun. Ich sehe viel besser aus als der Typ!“, sagte es verächtlich.
 
 [THUNDERSNAPDRAGON_DESCRIPTION_HEADER]
 Spuckt einen Blitz aus, löst einen elektrischen Strom aus und verursacht Fernschaden an den Zombies vor euch.
@@ -39222,7 +39223,7 @@ Stinkeblümchen Kostüm
 Bläst extra starke Winde aus, um Zombies in deiner Reihe abzuwehren.
 
 [STORE_PRODUCT_AVATAR_DAZEYCHAIN_TITLE]
-Dizzy Daisy Kostüm
+Stinkeblümchen Kostüm
 
 [DAZEYCHAIN_SKILL_LEVEL1]
 Aufwärmübung
@@ -40337,38 +40338,38 @@ Pilz-Macht
 Die Verdauungszeit kleiner Wachpilze wird verkürzt; der Multiplikator für den Sonnenlichtverbrauch von Wachpilzen wird auf das 1,5-Fache reduziert.
 
 [GUARDSHROOM_SKILL_LEVEL1_DES]
-Die Verdauungszeit kleiner Wachpilze wird verkürzt; Der Erhöhungsmultiplikator des Sonnenlichtverbrauchs von Wächterpilzen wurde auf das 1,5-Fache reduziert.
+Die Verdauungszeit kleiner Wachpilze wird verkürzt; Der Erhöhungsmultiplikator des Sonnenlichtverbrauchs von Wachpilzen wurde auf das 1,5-Fache reduziert.
 Pilzentwicklung
 
 [GUARDSHROOM_SKILL_LEVEL2_DES]
-Die Verdauungszeit des Wächterpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wächterpilzes erhöht sich nicht mehr.
+Die Verdauungszeit des Wachpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wachpilzes erhöht sich nicht mehr.
 
 [GUARDSHROOM_SKILL_LEVEL5]
 Abgrundwahnsinn
 
 [GUARDSHROOM_SKILL_LEVEL5_DES]
-Wächterpilze erzeugen nun stärkere Abgrundwächterpilze, verschlingen mittelgroße Zombies und befördern Zombies nach ihrem Tod in den Abgrund.
+Wachpilze erzeugen nun stärkere Abgrundwächterpilze, verschlingen mittelgroße Zombies und befördern Zombies nach ihrem Tod in den Abgrund.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL1_DES]
-Wächterpilze können fliegende Zombies blockieren und direkt im Wasser und an Land gepflanzt werden. Wächterpilze lassen gelegentlich Wächterpilze fallen und können gewöhnliche Zombies und Wicht-Zombies fressen. Pflanzen können auf Wächterpilzen gepflanzt werden. Als Pilzpflanzen verleihen sie zusätzliche Stärkungseffekte. Wenn die darüberliegende Hauptpflanze eine Spezialdünger Attacke auslöst, absorbiert der kleine Wächterpilz Energie und kann nach Abschluss der Spezialdünger Attacke eine zweite Spezialdünger Attacke ausführen.
+Wachpilze können fliegende Zombies blockieren und direkt im Wasser und an Land gepflanzt werden. Wachpilze lassen gelegentlich Wachpilze fallen und können gewöhnliche Zombies und Wicht-Zombies fressen. Pflanzen können auf Wachpilzen gepflanzt werden. Als Pilzpflanzen verleihen sie zusätzliche Stärkungseffekte. Wenn die darüberliegende Hauptpflanze eine Spezialdünger Attacke auslöst, absorbiert der kleine Wachpilz Energie und kann nach Abschluss der Spezialdünger Attacke eine zweite Spezialdünger Attacke ausführen.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL2_DES]
-Die Verdauungszeit des kleinen Wächterpilzes wurde verkürzt; die Erhöhung des Sonnenlichtverbrauchs des Wächterpilzes wurde auf das 1,5-Fache reduziert.
+Die Verdauungszeit des kleinen Wachpilzes wurde verkürzt; die Erhöhung des Sonnenlichtverbrauchs des Wachpilzes wurde auf das 1,5-Fache reduziert.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL3_DES]
-Die Verdauungszeit des kleinen Wächterpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wächterpilzes erhöht sich nicht mehr.
+Die Verdauungszeit des kleinen Wachpilzes wurde weiter verkürzt; der Sonnenlichtverbrauch des Wachpilzes erhöht sich nicht mehr.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die große Attacke der Spezialdünger-Fähigkeit direkt auszulösen!
 
 [GUARDSHROOM_NEW_SKILL_LEVEL5_DES]
-Der Wächterpilz erzeugt jetzt einen stärkeren Abyss-Wächterpilz, der mittelgroße Zombies fressen kann. Stirbt der Wächterpilz, nachdem er von einem Zombie gefressen wurde, fällt er in den Abyss und zerrt den Zombie mit seinen Tentakeln zu Boden.
+Der Wachpilz erzeugt jetzt einen stärkeren Abyss-Wachpilz, der mittelgroße Zombies fressen kann. Stirbt der Wachpilz, nachdem er von einem Zombie gefressen wurde, fällt er in den Abyss und zerrt den Zombie mit seinen Tentakeln zu Boden.
 
 [GUARDSHROOM_PLANTFOOD_DESCRIPTION]
-Der Wächterpilz fährt seine Tentakel aus und frisst fünf kleine Zombies (Stufe 5 kann mittelgroße Zombies fressen) im 3x3-Bereich vor ihm. Dadurch wird den Zombies, die nicht gefressen werden können, Schaden zugefügt. Gleichzeitig füllt er den 3x3-Bereich mit acht Wächterpilzen.
+Der Wachpilz fährt seine Tentakel aus und frisst fünf kleine Zombies (Stufe 5 kann mittelgroße Zombies fressen) im 3x3-Bereich vor ihm. Dadurch wird den Zombies, die nicht gefressen werden können, Schaden zugefügt. Gleichzeitig füllt er den 3x3-Bereich mit acht Wachpilzen.
 
 [GUARDSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Wächterpilz streckt seine Tentakeln aus und frisst sieben kleine Zombies (Stufe 5 kann auch mittelgroße Zombies fressen) im 4x3-Bereich vor ihm. Er fügt Zombies, die nicht gefressen werden können, Schaden zu. Füllt gleichzeitig einen 3x3-Bereich mit acht Wächterpilzen.
+Der Wachpilz streckt seine Tentakeln aus und frisst sieben kleine Zombies (Stufe 5 kann auch mittelgroße Zombies fressen) im 4x3-Bereich vor ihm. Er fügt Zombies, die nicht gefressen werden können, Schaden zu. Füllt gleichzeitig einen 3x3-Bereich mit acht Wachpilzen.
 
 [HOYACORDATA]
 Fächerherzorchidee
@@ -40815,7 +40816,7 @@ Kostüm der Schein-Ranke
 Beim Ausführen der Spezialdünger-Fähigkeit besteht eine 45%ige Chance, 100 Goldmünzen fallen zu lassen.
 
 [SHINEVINE_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie in der Schein-Ranke erscheint, greift er ihn im Nahkampf an und verursacht 0,15 Sekunden lang Schwindelgefühle. Die Leuchtende Ranke kann kontinuierlich Sonnenlicht erzeugen. Wird die Sonnenlichtpflanze darüber gepflanzt, erhöht sich deren Sonnenlichtproduktion um 25. Wird Prismengras darüber gepflanzt, produziert die Ranke selbst kein Sonnenlicht mehr und greift automatisch einmal pro Zeitperiode an.
+Wenn ein Zombie in der Schein-Ranke erscheint, greift er ihn im Nahkampf an und verursacht 0,15 Sekunden lang Schwindelgefühle. Die Leuchtende Ranke kann kontinuierlich Sonnenlicht erzeugen. Wird die Sonnenlichtpflanze darüber gepflanzt, erhöht sich deren Sonnenlichtproduktion um 25. Wird Vergrößerungsgras darüber gepflanzt, produziert die Ranke selbst kein Sonnenlicht mehr und greift automatisch einmal pro Zeitperiode an.
 
 [SHINEVINE_NEW_SKILL_LEVEL2_DES]
 Der Nahkampfangriff der Schein-Ranke wird zu einem Einzelfeld-Gruppenangriff (bis zu 5 Zombies). Jeder von der Schein-Ranke im Nahkampf angegriffene Zombie hinterlässt 5 Sonnenlichtpunkte.
@@ -41612,13 +41613,13 @@ Greife Zombies in den oberen, mittleren und unteren Reihen an. Sind Mondblumen i
 Schattenkraft
 
 [DRAGONBRUIT_SKILL_LEVEL1_DES]
-Befindet sich der Spieler im normalen Tyrannen-Drachenfrucht-Zustand, hat jeder Angriff eine 30%ige Chance, für 10 Sekunden in die Schattenform zu wechseln. Befindet sich der Spieler bereits im Schattenzustand, besteht eine 30%ige Chance, alle Zombies in der Umgebung anzugreifen.
+Befindet sich der Spieler im normalen Krachenfrucht-Zustand, hat jeder Angriff eine 30%ige Chance, für 10 Sekunden in die Schattenform zu wechseln. Befindet sich der Spieler bereits im Schattenzustand, besteht eine 30%ige Chance, alle Zombies in der Umgebung anzugreifen.
 
 [DRAGONBRUIT_SKILL_LEVEL2]
 Schattenfusion
 
 [DRAGONBRUIT_SKILL_LEVEL2_DES]
-Befindet sich der Spieler im normalen Tyrannen-Drachenfrucht-Zustand, hat jeder Angriff eine 50%ige Chance, für 15 Sekunden in die Schattenform zu wechseln. Im Schattenzustand besteht bei jedem Angriff eine 50%ige Chance, alle Zombies im Umkreis anzugreifen.
+Befindet sich der Spieler im normalen Krachenfrucht-Zustand, hat jeder Angriff eine 50%ige Chance, für 15 Sekunden in die Schattenform zu wechseln. Im Schattenzustand besteht bei jedem Angriff eine 50%ige Chance, alle Zombies im Umkreis anzugreifen.
 
 [DRAGONBRUIT_SKILL_LEVEL5]
 Unbekannte Mutation
@@ -41636,22 +41637,22 @@ Tyrannendrachenfruchtkostüm
 Startet im Schattenzustand sofort einen Projektilangriff auf alle Einheiten auf dem Feld, wenn sich die Einheit nicht im Schattenzustand befindet. Im Schattenzustand erhöht sich der Schaden dieser großen Attacke.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies in den oberen, mittleren und unteren Reihen rechts neben der Tyrannen-Drachenfrucht erscheinen, greift die Tyrannen-Drachenfrucht nach vorne an. Nach ihrem Tod teilt sie sich und regeneriert sich. Drei zufällige kleine Drachenfrüchte erscheinen erneut auf dem Spielfeld. Im Schattenzustand verursacht der Angriff der Tyrannen-Drachenfrucht Giftschaden bei Zombies.
+Wenn Zombies in den oberen, mittleren und unteren Reihen rechts neben der Krachenfrucht erscheinen, greift die Krachenfrucht nach vorne an. Nach ihrem Tod teilt sie sich und regeneriert sich. Drei zufällige kleine Drachenfrüchte erscheinen erneut auf dem Spielfeld. Im Schattenzustand verursacht der Angriff der Krachenfrucht Giftschaden bei Zombies.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL2_DES]
-Im Zustand der normalen Tyrannen-Drachenfrucht besteht bei jedem Angriff eine Chance von 30%, die Frucht für 10 Sekunden in die Schattenform zu versetzen. Befindet sie sich bereits im Schattenzustand, besteht bei jedem Angriff eine Chance von 30%, einen Angriffseffekt auf alle Zombies im Gitterbereich auszulösen.
+Im Zustand der normalen Krachenfrucht besteht bei jedem Angriff eine Chance von 30%, die Frucht für 10 Sekunden in die Schattenform zu versetzen. Befindet sie sich bereits im Schattenzustand, besteht bei jedem Angriff eine Chance von 30%, einen Angriffseffekt auf alle Zombies im Gitterbereich auszulösen.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL3_DES]
-Befindet sie sich im Zustand der gewöhnlichen Tyrannen-Drachenfrucht, besteht bei jedem Angriff eine Chance von 50%, für 15 Sekunden in die Schattenform zu wechseln. Befindet sie sich bereits im Schattenzustand, besteht bei jedem Angriff eine Chance von 50%, einen Angriffseffekt auf alle Zombies im Gitterbereich auszulösen.
+Befindet sie sich im Zustand der gewöhnlichen Krachenfrucht, besteht bei jedem Angriff eine Chance von 50%, für 15 Sekunden in die Schattenform zu wechseln. Befindet sie sich bereits im Schattenzustand, besteht bei jedem Angriff eine Chance von 50%, einen Angriffseffekt auf alle Zombies im Gitterbereich auszulösen.
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [DRAGONBRUIT_NEW_SKILL_LEVEL5_DES]
-Alle 20 Sekunden erzeugt die Tyrannen-Pitaya zufällig eine Pitaya mit den Eigenschaften Eis/Feuer/Donner. Wenn ein angreifbares Ziel vorhanden ist, wirft die Tyrannen-Pitaya die Pitaya mit Eis-, Feuer- oder Donnerattributen auf den Zombie und erzeugt sofort eine Pitaya mit dem entsprechenden Attribut ein Feld vor dem Zombie. Die erzeugte Pitaya mit Spezialattributen verursacht beim Angriff Attributschaden. Nach dem Tod explodiert die Pitaya mit Spezialattributen und verursacht Explosionsschaden des entsprechenden Attributs beim Zombie.
+Alle 20 Sekunden erzeugt die Krachenfrucht zufällig eine Frucht mit den Eigenschaften Eis/Feuer/Donner. Wenn ein angreifbares Ziel vorhanden ist, wirft die Krachenfrucht die Pitaya mit Eis-, Feuer- oder Donnerattributen auf den Zombie und erzeugt sofort eine Pitaya mit dem entsprechenden Attribut ein Feld vor dem Zombie. Die erzeugte Pitaya mit Spezialattributen verursacht beim Angriff Attributschaden. Nach dem Tod explodiert die Pitaya mit Spezialattributen und verursacht Explosionsschaden des entsprechenden Attributs beim Zombie.
 
 [DRAGONBRUIT_PLANTFOOD_DESCRIPTION]
-Startet sofort einen Projektilangriff auf alle angreifbaren Einheiten auf dem Feld (zwei Runden in Schattengestalt). Die Projektilgeschosse wirken auf alle Zombies in einem einzigen Raster. Werdie Spezialdünger-Fähigkeit auf die kleine Drachenfrucht aufgetragen, wächst diese sofort zur Tyrannen-Drachenfrucht heran.
+Startet sofort einen Projektilangriff auf alle angreifbaren Einheiten auf dem Feld (zwei Runden in Schattengestalt). Die Projektilgeschosse wirken auf alle Zombies in einem einzigen Raster. Werdie Spezialdünger-Fähigkeit auf die kleine Drachenfrucht aufgetragen, wächst diese sofort zur Krachenfrucht heran.
 
 [DRAGONBRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 Startet sofort einen Projektilangriff im Schattenzustand auf alle Einheiten auf dem Feld, sofern diese sich nicht im Schattenzustand befinden, und nimmt sofort für 10 Sekunden die Schattengestalt an. Wenn es sich bereits im Schattenzustand befindet, wird der Schaden dieser großen Bewegung erhöht.
@@ -41962,16 +41963,16 @@ Berserkermodus
 Nach dem Springen besteht die Möglichkeit, in den Berserker-Modus zu wechseln. Angriffe im Berserkermodus können kleine und mittelgroße Zombies sofort töten oder mechanischen und riesigen Zombies hohen Schaden und Betäubungseffekte zufügen. Der Berserkermodus endet nach dem Zurückspringen an die Ausgangsposition.
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN_TITLE]
-Barbaren-Da-Huang-Kostüm
+Da-Huang
 
 [RHUBARBARIAN_AVATAR_NAME]
-Barbaren-Rhabarber-Kostüm
+Da-Huang
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN]
 1 zusätzlicher Sprung
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL1_DES]
-Barbaren-Rhabarber verfügt über grundlegende Nahkampffähigkeiten, kann einen einzelnen Zombie innerhalb eines Feldes vor sich angreifen und verfügt zusätzlich über eine Sprungfähigkeit. Befindet sich ein Zombie innerhalb von drei Feldern vor ihm, springt er auf ein Feld vor sich und beginnt anzugreifen. Ist der Zombie zu nahe, springt er auf der Stelle. Die Landung des Sprungs betäubt alle Zombies im eigenen Feld und im Feld davor. Springt der große Huang nach vorne, springt er nach dem Ende der Betäubung zurück zum Feld, auf dem er platziert wurde. Die Sprungfähigkeit hat eine eingebaute Abklingzeit von mehreren Sekunden.
+Rhabarbarber verfügt über grundlegende Nahkampffähigkeiten, kann einen einzelnen Zombie innerhalb eines Feldes vor sich angreifen und verfügt zusätzlich über eine Sprungfähigkeit. Befindet sich ein Zombie innerhalb von drei Feldern vor ihm, springt er auf ein Feld vor sich und beginnt anzugreifen. Ist der Zombie zu nahe, springt er auf der Stelle. Die Landung des Sprungs betäubt alle Zombies im eigenen Feld und im Feld davor. Springt der große Huang nach vorne, springt er nach dem Ende der Betäubung zurück zum Feld, auf dem er platziert wurde. Die Sprungfähigkeit hat eine eingebaute Abklingzeit von mehreren Sekunden.
 
 [RHUBARBARIAN_NEW_SKILL_LEVEL2_DES]
 Die maximale Sprungweite erhöht sich um ein Feld, die Betäubungs- und Angriffsdauer um jeweils eine Sekunde.
@@ -42100,7 +42101,7 @@ Beim Angriff besteht eine Chance von 40% Zombies für 2 Sekunden einzufrieren.
 Eishölle
 
 [ICEWEED_SKILL_LEVEL5_DES]
-Die Angriffsreichweite der Eisstacheln wird auf eine Kreuzreichweite erweitert. Wenn die Stacheln verloren gehen, explodieren sie einmal und verursachen Schaden an der Schadensquelle (z. B. Riesen) sowie einen Gefriereffekt. Zombies im Umkreis von 3 x 3 Sekunden erleiden geringen Schaden und werden verlangsamt.
+Die Angriffsreichweite vom Eiskraut wird auf eine Kreuzreichweite erweitert. Wenn die Stacheln verloren gehen, explodieren sie einmal und verursachen Schaden an der Schadensquelle (z. B. Gargantua) sowie einen Gefriereffekt. Zombies im Umkreis von 3 x 3 Sekunden erleiden geringen Schaden und werden verlangsamt.
 
 [STORE_PRODUCT_AVATAR_ICEWEED_TITLE]
 Eiskraut-Kostüm
@@ -42858,13 +42859,13 @@ Die Anzahl der Zombies, die gleichzeitig  verdaut werden können, erhöht sich v
 Tunnelverbesserung
 
 [OLIVEPIT_SKILL_LEVEL2_DES]
-Die Anzahl der Zombies, die gleichzeitig in der Bohrlive verdaut werden können, erhöht sich von 3 auf 4, und die Verdauungszeit verkürzt sich zusätzlich um 10 Sekunden. Sekunden
+Die Anzahl der Zombies, die gleichzeitig in die Bohrlive verdaut werden können, erhöht sich von 3 auf 4, und die Verdauungszeit verkürzt sich zusätzlich um 10 Sekunden. Sekunden
 
 [OLIVEPIT_SKILL_LEVEL5]
 Verstrickung
 
 [OLIVEPIT_SKILL_LEVEL5_DES]
-Wenn der Olivenkern in den Verdauungszustand wechselt, streckt er Grasblätter nach einem vorbeigehenden Zombie aus (ausgenommen Riesen-, Flug- und Fahrzeug-Zombies) und umschlingt dessen Beine 5 Sekunden lang.
+Wenn die Bohrlive in den Verdauungszustand wechselt, streckt er Grasblätter nach einem vorbeigehenden Zombie aus (ausgenommen Riesen-, Flug- und Fahrzeug-Zombies) und umschlingt dessen Beine 5 Sekunden lang.
 
 [WINTERRAMBUTAN]
 Frost-Rambutan
@@ -42949,13 +42950,13 @@ Vermöbelt Zombies und buttert sie ein
 Vermöbelt Zombies und buttert sie ein
 
 [HEADBUTTERLETTUCE_AVATAR_NAME]
-Buttersalat kann beim Angriff Butter abwerfen und Zombies in der Ferne bedecken.
+Kopfnuss-Salat kann beim Angriff Butter abwerfen und Zombies in der Ferne bedecken.
 
 [STORE_PRODUCT_AVATAR_HEADBUTTERLETTUCE]
 Wirft eine höhere Butterwelle ab, greift alle Zombies in größerer Reichweite an und wirft vier Butterwellen gleichzeitig ab.
 
 [STORE_PRODUCT_AVATAR_HEADBUTTERLETTUCE_TITLE]
-Buttersalat-Outfit
+Kopfnuss-Salat-Outfit
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL1]
 Konzentration steigern
@@ -45350,7 +45351,7 @@ Defensivwertung: ^00e46e 4 ^oldclr
 Gesamtstärke: ^00e46e 3 ^oldclr
 
 [PVZ_WORLDCUP_TEAM1_DES_5]
-^ffed86 Aufstellung ^oldclr: Kristallorchidee, Eisdrachengras, Eispilz
+^ffed86 Aufstellung ^oldclr: Kristallorchidee, Eis-Drachenmäulchen, Eispilz
 [PVZ_WORLDCUP_TEAM1_DES_6]
 
 [PVZ_WORLDCUP_TEAM5_DES_1]
@@ -45435,7 +45436,7 @@ Verteidigungswertung: ^ee2c2c 5 ^oldclr
 Gesamtstärke: ^436eee 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM7_DES_5]
-^ffed86 Aufstellung ^oldclr: Hamamelis-Hexe, Super-Blumenkohl-Kürbis-Zauberer
+^ffed86 Aufstellung ^oldclr: Hamamelis-Hexe, Hypno-Karfiol-Kürbis-Zauberer
 
 [PVZ_WORLDCUP_TEAM7_DES_6]
 
@@ -46453,7 +46454,7 @@ Ausverkauft
 Erlebe die mächtige Unterstützung der Fächerherzblatt-Orchidee und erhalte eine Statue, die du im Statuenladen gegen ein seltenes Geschenk eintauschen kannst.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_1_1]
-Erlebe den mächtigen Angriff der Stachel-Okra und erhalte eine Statue, die du im Statuenladen gegen ein seltenes Geschenk eintauschen kannst.
+Erlebe den mächtigen Angriff der Pokra und erhalte eine Statue, die du im Statuenladen gegen ein seltenes Geschenk eintauschen kannst.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_2]
 Erlebe den mächtigen Angriff der Doppelkanonen-Kiefernzapfen und erhalte eine Statue, die du im Statuenladen gegen ein seltenes Geschenk eintauschen kannst.
@@ -47786,7 +47787,7 @@ Eventbeschreibung
 [HEAVENTREASURE_DESCRIPTION]
 Eventregeln:
 1. Nicht verwendete Geheime Schatzschlüssel (Lotterie-Token) und Himmelsmünzen (Tausch-Token) werden bei monatlichen Aktualisierungen und Versionsupdates vollständig übernommen.
-2. Erwerben Sie Geschenkpakete im Tiangong-Schatzsuche-Event, um Geheime Schatzschlüssel zu erhalten. Mit Geheimen Schatzschlüsseln können Sie Aloe Doctor DJ-Kostüme und andere Luxuspreise gewinnen.
+2. Erwerben Sie Geschenkpakete im Tiangong-Schatzsuche-Event, um Geheime Schatzschlüssel zu erhalten. Mit Geheimen Schatzschlüsseln können Sie Aloe Vera DJ-Kostüme und andere Luxuspreise gewinnen.
 3. Die Gesamtzahl der Ziehungen, die Kauflimits und die Tauschzeiten für die Tiangong-Schatzsuche werden am ersten Tag jedes Monats aktualisiert.
 4. Nach jeweils zehn Ziehungen gibt es für die nächste Ziehung einen zufälligen Rabatt von 10% bis 90%. Nach jeweils 20 Ziehungen gibt es einen garantierten Preis aus dem garantierten Preispool.
 Regeln für spezielle Geschenkpakete:
@@ -47801,7 +47802,7 @@ Ankündigung der Gewinnwahrscheinlichkeit
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
 Normaler Gewinn:
-Superbelohnung: Aloe Doctor DJ-Kostüm 0,43%
+Superbelohnung: Aloe Vera DJ-Kostüm 0,43%
 Superbelohnung: Süßigkeitenkorb-Anhänger 0,81%
 Hauptpreis: Geheimes Schatzticket*10 1,48%
 Hauptpreis: Kostümticket*800 1,15%
@@ -47815,7 +47816,7 @@ Hauptpreis: Lingxiao-Münze*100 1,01%
 Gewöhnliches Lingxiao Münze*20 4,25%
 
 Garantierter Preispool:
-Super-Belohnung: Aloe Doctor DJ-Anzug 2,25%
+Super-Belohnung: Aloe Vera DJ-Anzug 2,25%
 Super-Belohnung: Süßigkeitenkorb-Anhänger 3,36%
 Hauptpreis: Geheimer Schatz-Gutschein*20 9,31%
 Hauptpreis: Anzieh-Gutschein*800 8,19%
@@ -48499,7 +48500,7 @@ Schließe die limitierten Level mit bestimmten Pflanzen ab, um seltene Schatztru
 Pflanzen-Herausforderung – Kaktus!
 
 [TASK_WEEKLY_PLANTCHALLENGE_CAULIPOWER]
-Pflanzen-Herausforderung – Super-Blumenkohl!
+Pflanzen-Herausforderung – Hypno-Karfiol!
 
 [TASK_WEEKLY_PLANTCHALLENGE_BLOOMINGHEART]
 Pflanzen-Herausforderung – Glockenblumenkrug!
@@ -49985,7 +49986,7 @@ Reduziert den Sonnenverbrauch der Sonnenblume um {Param_1} Punkte
 Die Einfrierzeit von Zombies durch gefrorenen Salat erhöht sich um {Param_1} %
 
 [GENE_DESCRIPTION_SPIKEWEED]
-Die Angriffskraft von Stacheln erhöht sich um {Param_1} %
+Die Angriffskraft vom Stachelkraut  erhöht sich um {Param_1} %
 
 [GENE_DESCRIPTION_SPLITPEA]
 Die Angriffskraft von Zwei-Wege-Schützen erhöht sich um {Param_1} %
@@ -50174,13 +50175,13 @@ Die Ruhezeit des Donnerbesen verkürzt sich um {Param_1}%.
 Die vom normalen Angriff des Katzenschwanz abgefeuerten Stacheln haben eine Chance von {Param_1}%, Zombies zu durchdringen.
 
 [GENE_DESCRIPTION_SNAPDRAGON]
-Angriffe mit Feuerdrachengras verursachen 5 Sekunden lang Brandschaden, was {Param_1}% des Angriffsschadens entspricht.
+Angriffe mit Drachenmäulchen verursachen 5 Sekunden lang Brandschaden, was {Param_1}% des Angriffsschadens entspricht.
 
 [GENE_DESCRIPTION_COLDSNAPDRAGON]
 Die Angriffsgeschwindigkeit von Eis-Drachenmäulchen erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_CAULIPOWER]
-Die Abklingzeit für das Pflanzen von Super-Blumenkohl verkürzt sich um {Param_1}%.
+Die Abklingzeit für das Pflanzen von Hypno-Karfiol verkürzt sich um {Param_1}%.
 
 [GENE_DESCRIPTION_MAGICSHROOM]
 Wenn die Spezialdünger-Fähigkeit des Zauberpilzes einen Zombie beschwört, besteht eine Chance von {Param_1}%, einen weiteren Zombie zu beschwören
@@ -50189,7 +50190,7 @@ Wenn die Spezialdünger-Fähigkeit des Zauberpilzes einen Zombie beschwört, bes
 Die Wahrscheinlichkeit, dass der Maulbeer-Blaster Giftbomben wirft, erhöht sich um {Param_1}% (wirksam ab Level 5).
 
 [GENE_DESCRIPTION_OLIVEPIT]
-Die Versiegelungszeit des Olivenkerns wird um {Param_1} Sekunden verkürzt.
+Die Versiegelungszeit des Bohrlives wird um {Param_1} Sekunden verkürzt.
 
 [GENE_DESCRIPTION_WINTERMELON]
 Die Wintermelone hat eine Wahrscheinlichkeit von {Param_1}%, einen durch Eis verlangsamten Zombie einzufrieren, wenn er direkt getroffen wird.
@@ -50477,13 +50478,13 @@ Aktivitätsregeln:
 6. Alle Belohnungen im Glücksrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit auf andere, nicht erhaltene Belohnungen verteilt. Wird keine der 20 Belohnungen im Glücksrad gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super-Anhänger 2,04 %, Einzellos 4,53 %, Erweiterte Bücher 0,06 %.
 7. Einige Level- und Glücksrad-Belohnungen kannst du selbst auswählen. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
-Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
+Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
-Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Erd-Sägegras
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erd-Sägegras
 Orange Qualitätspflanzen 4: Helikonien-Maschinengewehrschütze, Eispilz, Starke Säure Zitrone, heißer Wasabi, Stachelbeere mit elektrischem Strom
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Robuster Strommast, Fortschrittlicher Verbandskasten, Veredelter Schneeflockenanhänger
@@ -50500,13 +50501,13 @@ Aktivitätsregeln:
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände). 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
-Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
+Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
-Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Erd-Sägegras
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erd-Sägegras
 Orange Qualitätspflanzen 4: Helikonien-Maschinengewehrschütze, Eispilz, Starke Säure Zitrone, heißer Wasabi, Stachelbeere mit elektrischem Strom
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Telefonmast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Robuster Strommast, Fortschrittlicher Verbandskasten, Veredelter Schneeflockenanhänger
@@ -50524,13 +50525,13 @@ Aktivitätsregeln:
 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
-Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
+Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
-Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Erdsägegras
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erdsägegras
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
 Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eiseneimer, Riesiger Strommast, Universelle Medizinbox, Leuchtender Schneeflockenanhänger
@@ -50547,13 +50548,13 @@ Aktivitätsregeln:
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände). 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
-Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
+Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
-Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Erdsägegras
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erdsägegras
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
 Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eiseneimer, Riesiger Strommast, Universelle Medizinbox, Leuchtender Schneeflockenanhänger
@@ -50570,13 +50571,13 @@ Aktivitätsregeln:
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen – insgesamt 20 Gegenstände. 5. Alle Belohnungen im Schatzrad haben nur eine Chance. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
 Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
-Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Wassermelonenkrug, Knoblauch, Zyklon-Eichel
+Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eisdrachengras, Maiskanone
-Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Olivenkern, Maulbeer-Blaster, Acker-Sägegras
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Acker-Sägegras
 Orange Qualitätspflanzen 4: Dunkler Nachtpilz, Kalter Eispilz, Starke Zitronensäure, Sengend Meerrettich, Elektrische Stachelbeere
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnlicher Medizinkasten, Gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Robuster Strommast, Fortschrittlicher Medizinkasten, Veredelter Schneeflockenanhänger
@@ -50953,7 +50954,7 @@ Beschreibung des Wachstumspakets
 [GROWTH_PACKAGE_DESCRIPTION]
 Aktivitätsinhalt:
 
-1. Alle 3 Durch Gießen können Früchte produziert und eine große Menge Pflanzenfragmente, Juwelen, Goldmünzen und andere Belohnungen erhalten werden. Die Liste der erhältlichen Pflanzen lautet: ^FF8000^Wahnsinniger Pilz, Prunkwinde, Bowlingblase^oldclr^ ^8600FF^Kristallorchidee, Löwenzahn^oldclr^ ^2828FF^Tausendgoldrebe, Passionsblume, Ingenieur, Lauernder Sellerie^oldclr^ ^82D900^Fliegende Untertasse, Melone, Maschinengewehr, Granatapfel, Süßkartoffel^oldclr^
+1. Alle 3 Durch Gießen können Früchte produziert und eine große Menge Pflanzenfragmente, Juwelen, Goldmünzen und andere Belohnungen erhalten werden. Die Liste der erhältlichen Pflanzen lautet: ^FF8000^Wahnsinniger Pilz, Prunkwinde, Bowlingknolle^oldclr^ ^8600FF^Kristallorchidee, Löwenzahn^oldclr^ ^2828FF^Tausendgoldrebe, Passionsblume, Ingenieur, Lauernder Sellerie^oldclr^ ^82D900^Fliegende Untertasse, Melone, Maschinengewehr, Granatapfel, Süßkartoffel^oldclr^
 
 2. Einen Kessel erhältst du durch Wachstumsaufgaben oder Juwel-Geschenkpakete.
 
@@ -51137,7 +51138,7 @@ Gewöhnlicher Traumwunsch 2: Kostüm mit explodierendem Traubenballon; Weihnacht
 Gewöhnlicher Traumwunsch 3: Raum-Zeit-Kristall*30; Raum-Zeit-Staub*150; Metallschleuderfragmente*15
 Großer Wunsch 1: Raum-Zeit-Würfel*30; Raum-Zeit-Energietank*200; Bowling-Artefakt*1
 Großer Ehrgeiz 2: Schattenerbsenfragment*30; Du-Ying-Krugfragment*30; Stealth-Open-Pfeilfragment*30
-Großer Ehrgeiz 3: Barbaren-Rhabarberfragment*100; Sonne-und-Mond-Geißblattfragment*100; Richtungsfragment * 100
+Großer Ehrgeiz 3: Rhabarbarberfragment*100; Sonne-und-Mond-Geißblattfragment*100; Richtungsfragment * 100
 
 [WISHING_POOL_DESCRIPTION_2_VERSION1]
 8. Bekanntgabe der zufälligen Gewinne der Lotterie
@@ -51174,7 +51175,7 @@ Gewöhnlicher Traumwunsch 2: Explodierender Traubenballon-Anzug; Stark saure Zit
 Gewöhnlicher Traumwunsch 3: Raum-Zeit-Kristall*30; Raum-Zeit-Staub*150; Metallschleuderfragmente*15
 Großer Wunsch 1: Raum-Zeit-Würfel*30; Raum-Zeit-Energietank*200; Bowling-Artefakt*1
 Großes Ziel 2: Schattenerbsenfragment*30; Du-Ying-Krugfragment*30; Stealth-Open-Pfeilfragment*30
-Großes Ziel 3: Barbaren-Rhabarberfragment*100; Sonne-und-Mond-Geißblattfragment*100; Richtungsfragment * 100
+Großes Ziel 3: Rhabarbarberfragment*100; Sonne-und-Mond-Geißblattfragment*100; Richtungsfragment * 100
 
 [WISHING_POOL_DESCRIPTION_2_VERSION2]
 8. Bekanntgabe der zufälligen Lotteriegewinne
@@ -51282,7 +51283,7 @@ Geräucherter Fleisch-Taco: Du erhältst Artefakt-Segen-Tickets, Abgrundanemonen
 Gemüse-Taco: Du erhältst Juwelen, Bomben-Meteorhammer-Fragmente oder Lila Kulturflüssigkeit.
 
 [DAVEKITCHEN_EXCHANGE_5]
-Taro: Du erhältst Juwelen, Holografische Nussfragmente oder Blaue Kulturflüssigkeit.
+Taro: Du erhältst Juwelen, Unend-Nussfragmente oder Blaue Kulturflüssigkeit.
 
 [DAVEKITCHEN_EXCHANGE_6]
 1000 Goldmünzen
@@ -52467,7 +52468,7 @@ Magische Bohnenstangen können nicht gepflanzt werden auf Schienen
 {EXCITED:crazydave}Wir brauchen eine Pflanze, die den giftigen Nebel reinigen kann!
 
 [NARRATIVE_RENAI_3_INTRO_7]
-{SAY:winnie}Aloe Doctor kann den giftigen Nebel des Parfümeurs reinigen und die Angriffskraft von Pflanzen erhöhen.
+{SAY:winnie}Aloe Vera kann den giftigen Nebel des Parfümeurs reinigen und die Angriffskraft von Pflanzen erhöhen.
 
 [NARRATIVE_RENAI_5_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Ich habe viele seltsame Statuen gesehen, das ist so interessant! Haha!
@@ -53386,7 +53387,7 @@ Stinkpilz-Löwentanzkostüm
 Angriffsgeschwindigkeit um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_RHUBARBARIAN_1]
-Barbarisches Rhabarber-Wachstums-Geschenkpaketkostüm
+Rhabarbar-Wachstums-Geschenkpaketkostüm
 
 [NEW_AVATAR_DESCRIPTION_RHUBARBARIAN_1]
 Erhöht die Angriffskraft um 10%
@@ -53689,7 +53690,7 @@ Erhöht die Chance, Fertigkeit 2 einzufrieren, um 7% (nur wirksam für Pflanzen 
 Rote-Bete-Gürtel
 
 [NEW_AVATAR_DESCRIPTION_CHARDGUARD]
-Erhöht die Erholungszeit von Beet Guardian Blades um 10 Sekunden (nur wirksam für Pflanzen über Stufe 2).
+Erhöht die Erholungszeit von Mangold-Manglerian Blades um 10 Sekunden (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DUSKLOBBER_1]
 Dämmerungskrug-Kappe
@@ -53722,7 +53723,7 @@ Baumwollhut mit Doppel-Shooter
 Angriffsgeschwindigkeit um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPIKEROCK_1]
-Stahlstachel-Schutzbrille
+Schutzbrille
 
 [NEW_AVATAR_DESCRIPTION_SPIKEROCK]
 Pflanzenangriffskraft um 10% erhöht
@@ -53842,7 +53843,7 @@ Dreifachschützen-Kostüm zum 1. Juni
 Erhöht die Angriffskraft um 15%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ENDURIAN_1]
-Durian-Trikot
+Endurian-Trikot
 
 [NEW_AVATAR_DESCRIPTION_ENDURIAN_1]
 Gesundheitswert erhöht sich um 15%
@@ -53854,7 +53855,7 @@ Zwei-Wege-Shooter: Heiliger und Dämon (Dekoration)
 Erhöht die Angriffsgeschwindigkeit um 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MELONPULT_1]
-Matrosenhut mit Wassermelonenkrug
+Matrosenhut mit Melonapult
 
 [NEW_AVATAR_DESCRIPTION_MELONPULT_1]
 Erhöht die Angriffskraft um 20%
@@ -53872,7 +53873,7 @@ Doppel-Shooter: Wikinger Hut
 Erhöht die Angriffsgeschwindigkeit um 15%.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BLOOMERANG_1]
-Bumerang-Shooter-Flying-Man-Hut
+Blumerang-Flying-Man-Hut
 
 [NEW_AVATAR_DESCRIPTION_BLOOMERANG_1]
 Angriffskraft um 15% erhöht.
@@ -53974,7 +53975,7 @@ Katzenschwanz Kleine Gras-Kurierkiste
 Elektroschock: Die Wahrscheinlichkeit, dass Nadeldornen erscheinen, erhöht sich um 10% (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POKRA_1]
-Okra-Puppenperücke mit Stacheln
+Puppenperücke
 
 [NEW_AVATAR_DESCRIPTION_POKRA_1]
 Die Wahrscheinlichkeit von Hochgeschwindigkeits-Stichkombos während Angriffen erhöht sich um 10% (nur wirksam für Pflanzen über Stufe 2).
@@ -54034,7 +54035,7 @@ Sonnenblumensängerin: Jahr des Tigers Kostüm
 Sonnenlichterzeugungsintervall um 10% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CHARDGUARD_2]
-Beet Guard Tiger Year Kostüm
+Mangold-Mangler Tiger Year Kostüm
 
 [NEW_AVATAR_DESCRIPTION_CHARDGUARD_2]
 Pflanzen-Abklingzeit um 10% reduziert
@@ -54226,7 +54227,7 @@ Energiefokussiertes Mangostan-Wachstumskostüm
 Angriffskraft um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_1]
-Olivenkernwachstum Kostüm
+Bohrlivewachstum Kostüm
 
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_1]
 Abklingzeit beim Pflanzen um 20% verkürzt
@@ -54280,7 +54281,7 @@ Weihnachtskostüm „Laser-Kronenblume“
 Angriffskraft von Pflanzen um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPULT_1]
-Weihnachtsoutfit „Truthahnkrug“
+Weihnachtsoutfit „Truthahn-Katapult“
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_4]
 Sci-Fi-Mech-Outfit
@@ -54292,13 +54293,13 @@ Erhöht Blitzschaden um 25 %
 Angriffsgeschwindigkeit um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPULT_2]
-Schnuller-Outfit „Truthahnkrug“
+Schnuller-Outfit „Truthahn-Katapult“
 
 [NEW_AVATAR_DESCRIPTION_TURKEYPULT_2]
 Abkühlzeit beim Pflanzen um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
-Shadow Pea Strohhut-Outfit
+Strohhut
 
 [NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_2]
 Pflanzenangriff: Erhöht die Angriffskraft um 20%.
@@ -56243,7 +56244,7 @@ Erreiche das Aufladeziel und logge dich drei Tage lang ein, um super großzügig
 Hinweis: Der Aufladebetrag wird gesammelt und dem aktuellen Aufladegeschenkpaket hinzugefügt, nachdem die Funktion „Erstes Aufladegeschenkpaket“ am 31. Januar 2024 um 11:00 Uhr zurückgesetzt wurde.
 Das Aufladegeschenkpaket enthält drei Belohnungsstufen: das 2-Yuan-Aufladegeschenkpaket, das kumulierte 60-Yuan-Aufladegeschenkpaket und das kumulierte 198-Yuan-Aufladegeschenkpaket. Die Belohnungen im Aufladegeschenkpaket sind wie folgt:
 Das 2-Yuan-Aufladegeschenkpaket enthält: eine von drei orangefarbenen Pflanzen (Eispilz, Katzenschwanz, Maiskanone), den Avatarrahmen für die erste Aufladung; orange Pflanzenährlösung * 10; drei orange Pflanzenkostüme (Eispilz, Katzenschwanz, Maiskanonen-Begleiterkostüm)
-Das Geschenkpaket für eine Gesamtaufladung von 60 Yuan enthält: eine von drei Drachenpflanzen (Eisdrachengras, Donnerdrachengras, Feuerdrachengras); Genessenz * 10; Richtungsfragmente * 10
+Das Geschenkpaket für eine Gesamtaufladung von 60 Yuan enthält: eine von drei Drachenpflanzen (Eis-Drachenmäulchen, Donnerdrachengras, Drachenmäulchen); Genessenz * 10; Richtungsfragmente * 10
 Das Geschenkpaket für eine Gesamtaufladung von 198 Yuan enthält: Metall-Schleuderanhänger; Juwel * 300; Pflanzen-Fortgeschrittenenbuch
 
 [FIRST_RECHARGE_EXTRA_HAVE_GOT_PRIZE]
@@ -56739,7 +56740,7 @@ Drei Gashapons werden ausgerollt und die entsprechenden Effekte werden entsprech
 Glücks-Gashapon
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_1]
-Aktiv einsetzen: Drei Gashapons werden ausgerollt. Erscheinen zwei identische Gashapons, werden entsprechende Effekte ausgelöst. Erscheinen drei identische Gashapons, wird der Effekt deutlich verstärkt. Giftige Schattenpilze können alle Zombies vergiften; Guakodile können Zombies in Gruppen angreifen; Super-Blumenkohl kann Zombies bezaubern; Gefrorener Salat kann alle Zombies einfrieren; Sonnenregen lässt Sonnenregen vom Himmel fallen. Die Abklingzeit der Fertigkeit beträgt 30 Sekunden und kann {MainField_3}-mal pro Kampf eingesetzt werden.
+Aktiv einsetzen: Drei Gashapons werden ausgerollt. Erscheinen zwei identische Gashapons, werden entsprechende Effekte ausgelöst. Erscheinen drei identische Gashapons, wird der Effekt deutlich verstärkt. Giftige Schattenpilze können alle Zombies vergiften; Guakodile können Zombies in Gruppen angreifen; Hypno-Karfiol kann Zombies bezaubern; Gefrorener Salat kann alle Zombies einfrieren; Sonnenregen lässt Sonnenregen vom Himmel fallen. Die Abklingzeit der Fertigkeit beträgt 30 Sekunden und kann {MainField_3}-mal pro Kampf eingesetzt werden.
 
 [ARTIFACT_GASHAPON_SKILL_2]
 Wahrscheinlichkeitsmeisterschaft
@@ -56757,7 +56758,7 @@ Passiver Effekt: Wenn nicht drei identische Kapseln in einem Spiel erhalten werd
 Gachapon-Renovierung
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_4]
-Passiver Effekt: Die Gegenstände im Gachapon-Artefakt werden besser, stärker und schöner. Giftiger Schattenpilz wird durch Eisenkraut ersetzt; Guakodile durch Pastinake; Super-Blumenkohl wird durch Hypnopilz ersetzt; Gefrorener Salat wird durch Kristallorchidee ersetzt; Sonnenregen wird aufgewertet.
+Passiver Effekt: Die Gegenstände im Gachapon-Artefakt werden besser, stärker und schöner. Giftiger Schattenpilz wird durch Eisenkraut ersetzt; Guakodile durch Pastinake; Hypno-Karfiol wird durch Hypnopilz ersetzt; Gefrorener Salat wird durch Kristallorchidee ersetzt; Sonnenregen wird aufgewertet.
 
 [ARTIFACT_GASHAPON_RESULT_2]
 Zwei gleiche
@@ -56902,7 +56903,7 @@ Die Waffe hat anfangs 90 Schuss. Klicke auf das Artefakt, um kontinuierlich weni
 Ritterlich
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_2]
-Passiver Effekt: Feenpfirsisch, Du Ying-Krug, Tigerkopfpilz, Schwertblatt-Drachenblutbaum, Eisschütze – Angriffs- und Verteidigungsattribute werden um {PassiveField1_1}% erhöht.
+Passiver Effekt: Feenpfirsisch, Du Ying-Krug, Tigerkopfpilz, Schwertblatt-Drachenblutbaum, Hagelzucker-Erbse– Angriffs- und Verteidigungsattribute werden um {PassiveField1_1}% erhöht.
 
 [ARTIFACT_SWARM_SKILL_3]
 Schnelles Nachfüllen
@@ -57576,7 +57577,7 @@ Aktive Nutzung: Jede Reihe beschwört {MainField_1} zufällige Arten von Bowling
 Ballverbesserung
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_2]
-Die Angriffs- und Verteidigungsattribute kugelförmiger Pflanzen erhöhen sich um {PassiveField1_1}%. Zu den verbesserten Pflanzen gehören Energie-Mangostan, Wasserkastanienbrüder, Frostweiße Butternuss, Nuss, Explosive Nuss, Original-Nuss, Holografische Nuss, Jackfrucht, Aufladende Pampelmuse, Leitdistel, Kastanientrupp und Gieriges Drachengras.
+Die Angriffs- und Verteidigungsattribute kugelförmiger Pflanzen erhöhen sich um {PassiveField1_1}%. Zu den verbesserten Pflanzen gehören Energie-Mangostan, Wasserkastanienbrüder, Frostweiße Butternuss, Nuss, Explosive Nuss, Original-Nuss, Unend-Nuss, Jackfrucht, Aufladende Pampelmuse, Leitdistel, Kastanientrupp und Gieriges Drachengras.
 
 [ARTIFACT_BOWLING_SKILL_3]
 Teste die Gewässer
@@ -60000,7 +60001,7 @@ Eines Tages stieß der Eiswiesel-Zombie auf einen neuen hohlen Wald und fand dar
 [ZOMBIE_ICEAGE_WEASEL_ELITE]
 Elite-Eiswiesel
 [ZOMBIE_ICEAGE_WEASEL_ELITE_DESCRIPTION_HEADER]
-Wenn es durch Fähigkeiten wie Olivenkern verschlungen wird, wird es als normale Zombiegröße und nicht als Kleintiergröße eingestuft und die Verdauung wird normal ausgelöst.
+Wenn es durch Fähigkeiten wie Bohrlive verschlungen wird, wird es als normale Zombiegröße und nicht als Kleintiergröße eingestuft und die Verdauung wird normal ausgelöst.
 [ZOMBIE_ICEAGE_WEASEL_ELITE_DESCRIPTION]
 Dies ist ein Eiswiesel, das einen besonderen Tannenzapfen zerkaut hat!
 
@@ -71808,10 +71809,10 @@ Kartoffelminen werden sofort vorbereitet und in zwei fertige Kartoffelminen aufg
 Die Kartoffelmine ist sofort einsatzbereit und teilt sich in ^ff0000^ drei einsatzbereite Kartoffelminen auf. ^oldclr^
 
 [CABBAGEPULT_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom Kohlkrug erscheint, wirft der Kohlkrug Kohlköpfe auf den Zombie, um ihn anzugreifen.
+Wenn ein Zombie rechts vom Kohlapult erscheint, wirft das Kohlapult Kohlköpfe auf Zombies.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL2_DES]
-Nachdem der Kohlkrug die Fähigkeit „Schattenlose Hand“ erlernt hat, erhöht sich seine Angriffsgeschwindigkeit um 25%.
+Nachdem das Kohlapult die Fähigkeit „Schattenlose Hand“ erlernt hat, erhöht sich seine Angriffsgeschwindigkeit um 25%.
 
 [CABBAGEPULT_NEW_SKILL_LEVEL3_DES]
 Der Effekt der Fähigkeit „Schattenlose Hand“ erhöht sich um 100% und die Angriffsgeschwindigkeit um 50%.
@@ -71820,19 +71821,19 @@ Der Effekt der Fähigkeit „Schattenlose Hand“ erhöht sich um 100% und die A
 Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [CABBAGEPULT_NEW_SKILL_LEVEL5_DES]
-Der vom Kohlkrug geworfene Kohl wird zu Goldkohl aufgewertet, der sich in der Luft spaltet und einem einzelnen Zombie 2–3 Schadenspunkte zufügt.
+Das vom Kohlapult geworfene Kohl wird zu Goldkohl aufgewertet, der sich in der Luft spaltet und einem einzelnen Zombie 2–3 mal Schaden zufügt.
 
 [CABBAGEPULT_PLANTFOOD_DESCRIPTION]
-Der Kohlkrug sammelt Projektile und feuert eine große Kohlkugel mit hohem Schaden auf jeden Zombie auf dem Bildschirm ab.
+das Kohlapult sammelt Projektile und feuert eine große Kohlkugel mit hohem Schaden auf jeden Zombie auf dem Bildschirm ab.
 
 [CABBAGEPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Kohlkrug sammelt Projektile und feuert eine große Kohlkugel mit ^ff0000^ höherem Schaden und Blitz auf jeden Zombie auf dem Bildschirm ab. ^oldclr^
+das Kohlapult sammelt Projektile und feuert eine große Kohlkugel mit ^ff0000^ höherem Schaden und Blitz auf jeden Zombie auf dem Bildschirm ab. ^oldclr^
 
 [ICEBURG_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie den gefrorenen Salat berührt, explodiert dieser und friert den Zombie ^0072ff^Ⅰ^oldclr^ 10 Sekunden lang ein.
+Wenn ein Zombie den Eisbergsalat berührt, explodiert dieser und friert den Zombie ^0072ff^Ⅰ^oldclr^ 10 Sekunden lang ein.
 
 [ICEBURG_NEW_SKILL_LEVEL2_DES]
-Eisbergsalat hat gelernt, aus der Ferne anzugreifen. Erscheint ein Zombie innerhalb von drei Feldern rechts, feuert er Schneebälle mit einem Schaden von 30 Punkten in einer Frequenz von 1,4 Sekunden ab.
+Der Eisbergsalat hat gelernt, aus der Ferne anzugreifen. Erscheint ein Zombie innerhalb von drei Feldern rechts, feuert er Schneebälle mit einem Angriff von 30 in einer Frequenz von 1,4 Sekunden ab.
 
 [ICEBURG_NEW_SKILL_LEVEL3_DES]
 Er beherrscht den Fernangriff. Die Angriffsreichweite der abgefeuerten Schneebälle erhöht sich um zwei Felder, und der Schaden steigt auf 40 Punkte.
@@ -71841,49 +71842,49 @@ Er beherrscht den Fernangriff. Die Angriffsreichweite der abgefeuerten Schneebä
 Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ICEBURG_PLANTFOOD_DESCRIPTION]
-Ice BURG erzeugt eine eisige Aura auf dem gesamten Bildschirm und friert alle Zombies im Feld 15 Sekunden lang ein.
+Eisbergsalat erzeugt eine eisige Aura auf dem gesamten Bildschirm und friert alle Zombies im Feld 15 Sekunden lang ein.
 
 [ICEBURG_AVATAR_PLANTFOOD_DESCRIPTION]
-Ice Burr erzeugt eine eisige Aura auf dem gesamten Bildschirm und friert alle Zombies 15 Sekunden lang ein. Zusätzlich feuert er bis zu 6 Schneebälle auf zufällige Zombies im Feld.
+Eisbergsalat erzeugt eine eisige Aura auf dem gesamten Bildschirm und friert alle Zombies 15 Sekunden lang ein. Zusätzlich feuert er bis zu 6 Schneebälle auf zufällige Zombies im Feld.
 
 [BLOOMERANG_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben einem Bumerang-Shooter erscheint, feuert er einen Bumerang ab, der direkt nach rechts fliegt, drei Ziele durchbohrt und bei der Rückkehr 1 Schaden verursacht.
+Wenn ein Zombie rechts neben einem Blumerang erscheint, feuert er einen Bumerang ab, der direkt nach rechts fliegt, drei Ziele durchbohrt und bei der Rückkehr 1 Schaden verursacht.
 
 [BLOOMERANG_NEW_SKILL_LEVEL2_DES]
-Für jeden Bumerang-Shooter auf dem Feld reduzieren sich die Kosten für die nächste Pflanzung um 5 Sonnenlichtpunkte, bis maximal 50 Sonnenlichtpunkte.
+Für jeden Blumerang auf dem Feld reduzieren sich die Kosten für die nächste Pflanzung um 5 Sonnenlichtpunkte, bis maximal 50 Sonnenlichtpunkte.
 
 [BLOOMERANG_NEW_SKILL_LEVEL3_DES]
-Die Wirkung der verknüpften Fertigkeit wird verstärkt, und jeder Bumerang-Shooter reduziert die Anzahl der Sonnenlichtpunkte um 10 Punkte. Dadurch kann der maximale Sonnenlichtverbrauch auf 50 Punkte reduziert werden.
+Die Wirkung der verknüpften Fertigkeit wird verstärkt, und jeder Blumerang reduziert die Anzahl der Sonnenlichtpunkte um 10 Punkte. Dadurch kann der maximale Sonnenlichtverbrauch auf 50 Punkte reduziert werden.
 
 [BLOOMERANG_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [BLOOMERANG_PLANTFOOD_DESCRIPTION]
-Der Bumerang-Shooter dreht sich schnell und schießt 10 Bumerangs in alle vier Richtungen. Er durchdringt alle Zombies und fügt ihnen Schaden zu. Nach Erreichen der Feldgrenze kehrt er zurück und verursacht 2 Schadenspunkte.
+Der Blumerang dreht sich schnell und schießt 10 Bumerangs in alle vier Richtungen. Er durchdringt alle Zombies und fügt ihnen Schaden zu. Nach Erreichen der Feldgrenze kehrt er zurück und verursacht 2 Schadenspunkte.
 
 [BLOOMERANG_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Bumerang-Shooter dreht sich schnell und schießt ^ff0000^10 große Bumerangs mit hohem Schaden^oldclr^ in alle vier Richtungen. Sie durchdringen alle Zombies und fügen ihnen Schaden zu. Nach Erreichen des Spielfeldrands kehrt er zurück und verursacht 2 Schadenspunkte.
+Der Blumerang dreht sich schnell und schießt ^ff0000^10 große Bumerangs mit hohem Schaden^oldclr^ in alle vier Richtungen. Sie durchdringen alle Zombies und fügen ihnen Schaden zu. Nach Erreichen des Spielfeldrands kehrt er zurück und verursacht 2 Schadenspunkte.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL1_DES]
-Zwillingssonnenblumen können kontinuierlich Sonnenlicht produzieren und jedes Mal die doppelte Menge an Sonnenlichtpunkten einer Sonnenblume.
+Doppel-Sonnenblumen können kontinuierlich Sonnenlicht produzieren und jedes Mal die doppelte Menge an Sonnenlichtpunkten einer Sonnenblume.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL2_DES]
-Nach dem Pflanzen von Zwillingssonnenblumen produzieren diese sofort 50 Sonnenlichtpunkte.
+Nach dem Pflanzen von Doppel-Sonnenblumen produzieren diese sofort 50 Sonnenlichtpunkte.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL3_DES]
-Nach dem Pflanzen der Zwillingssonnenblume erzeugt sie sofort 150 Sonnenlicht.
+Nach dem Pflanzen der Doppel-Sonnenblume erzeugt sie sofort 150 Sonnenlicht.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL5_DES]
-Wenn die Zwillingssonnenblume Sonnenlicht erzeugt, besteht eine 30%ige Chance, eine zusätzliche Sonnenbombe zu erzeugen. Die Zwillingssonnenblume wirft die Sonnenbombe auf eine zufällige Zombieposition und verursacht 2000 Explosionsschaden an Zombies in Reichweite.
+Wenn die Doppel-Sonnenblume Sonnenlicht erzeugt, besteht eine 30%ige Chance, eine zusätzliche Sonnenbombe zu erzeugen. Die Doppel-Sonnenblume wirft die Sonnenbombe auf eine zufällige Zombieposition und verursacht 2000 Explosionsschaden an Zombies in Reichweite.
 
 [TWINSUNFLOWER_PLANTFOOD_DESCRIPTION]
-Die Zwillingssonnenblume blüht und tanzt fröhlich und erzeugt sofort 450 Sonnenlicht.
+Die Doppel-Sonnenblume blüht und tanzt fröhlich und erzeugt sofort 450 Sonnenlicht.
 
 [TWINSUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Zwillingssonnenblumen blühen und tanzen fröhlich. Sie produzieren sofort 450 Sonnenlichtpunkte, ^ff0000^ und haben eine 15%ige Chance, jedes Mal 100 Goldmünzen zu produzieren. ^oldclr^
+Die Doppel-Sonnenblumen blühen und tanzen fröhlich. Sie produzieren sofort 450 Sonnenlichtpunkte, ^ff0000^ und haben eine 15%ige Chance, jedes Mal 100 Goldmünzen zu produzieren. ^oldclr^
 
 [BONKCHOY_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie ein Feld links oder rechts von Pack Choi erscheint, schlägt Pack Choi heftig zu. Ist die Gesundheit des Zombies zu niedrig, setzt Pack Choi einen Aufwärtshaken ein, um ihn zu töten.
@@ -71925,31 +71926,31 @@ Nach dem Aufspringen der Frühlingsbohne schlägt sie heftig auf dem Boden auf, 
 Nachdem die Frühlingsbohne hochgesprungen ist, schlägt sie heftig auf dem Boden auf. Alle Zombies auf dem Bildschirm werden 1,25 Gitter weit zurückgeschleudert, ^ff0000^ und verursachen 2 Sekunden lang ^oldclr^^848484^ Schwindelgefühl Ⅰ^oldclr^^ff0000^. ^oldclr^ und schließt sofort eine Pause ab.
 
 [SPIKEWEED_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie auf einen Stachel tritt, führt er einen Stichangriff aus, der allen Zombies Schaden zufügt. ^ff0000^ Das ist sehr effektiv gegen Roller- und Piano-Zombies! ^oldclr^
+Wenn ein Zombie auf einen Stachelkraut tritt, führt er einen Stichangriff aus, der allen Zombies Schaden zufügt. ^ff0000^ Das ist sehr effektiv gegen Roller- und Piano-Zombies! ^oldclr^
 
 [SPIKEWEED_NEW_SKILL_LEVEL2_DES]
-Nachdem 15 Zombies getötet wurden, verwandelt sich der Stachel in einen heftigen Geisterstachel und die Angriffskraft erhöht sich auf 22,5.
+Nachdem 15 Zombies getötet wurden, verwandelt sich der Stachelkraut in einen heftigen Geisterstachel und die Angriffskraft erhöht sich auf 22,5.
 
 [SPIKEWEED_NEW_SKILL_LEVEL3_DES]
-Das Wachstum wird beschleunigt. Nach dem Töten von 5 Zombies verwandelt sich der Stachel in einen heftigen Geisterstachel und die Angriffskraft erhöht sich auf 30.
+Der Wachstum wird beschleunigt. Nach dem Töten von 5 Zombies verwandelt sich das Stachelkraut in einen heftigen Geisterstachel und die Angriffskraft erhöht sich auf 30.
 
 [SPIKEWEED_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SPIKEWEED_PLANTFOOD_DESCRIPTION]
-Der Stachel durchdringt kontinuierlich die Reihe, zieht alle Zombies in der Reihe auf das Feld, auf dem sich der Stachel befindet, und verursacht Schaden.
+Das Stachelkraut durchdringt kontinuierlich die Reihe, zieht alle Zombies in der Reihe auf das Feld, auf dem sich das Stachelkraut befindet, und verursacht Schaden.
 
 [SPIKEWEED_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Stachel durchdringt kontinuierlich die Reihe, zieht alle Zombies in der Reihe auf das Feld, auf dem sich der Stachel befindet, und verursacht Schaden. ^ff0000^ und verursacht 3 Sekunden lang ^oldclr^^848484^stunⅠ^oldclr^^ff0000^. ^oldclr^
+Das Stachelkraut durchdringt kontinuierlich die Reihe, zieht alle Zombies in der Reihe auf das Feld, auf dem sich das Stachelkraut befindet, und verursacht Schaden. ^ff0000^ und verursacht 3 Sekunden lang ^oldclr^^848484^stunⅠ^oldclr^^ff0000^. ^oldclr^
 
 [SNAPDRAGON_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie im 2×3-Bereich rechts vom Feuerdrachengras erscheint, versprüht er Flammen, die den Angriffsbereich rechts abdecken und allen Zombies Schaden zufügen.
+Wenn ein Zombie im 2×3-Bereich rechts vom Drachenmäulchen erscheint, versprüht er Flammen, die den Angriffsbereich rechts abdecken und allen Zombies Schaden zufügen.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL2_DES]
 Jeder Angriff hat eine 50%ige Chance, blauen Drachenatem auszuspucken, der allen Zombies im Umkreis 45 Schaden zufügt.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL3_DES]
-Nach dem Training kann das Feuerdrachengras blauen Drachenatem ausspucken, der allen Zombies im Umkreis bei jedem Angriff 78 Schaden zufügt.
+Nach dem Training kann das Drachenmäulchen blauen Drachenatem ausspucken, der allen Zombies im Umkreis bei jedem Angriff 78 Schaden zufügt.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen.
@@ -71958,7 +71959,7 @@ Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähig
 Beim Angriff besteht eine 50%ige Chance, einen weiteren Feuerdrachen zu kondensieren, der der gesamten Reihe 3600 Feuerschaden zufügt.
 
 [SNAPDRAGON_PLANTFOOD_DESCRIPTION]
-Das Feuerdrachengras fliegt hoch und spuckt Flammen im 3×3-Bereich rechts, die allen Zombies Schaden zufügen.
+Das Drachenmäulchen fliegt hoch und spuckt Flammen im 3×3-Bereich rechts, die allen Zombies Schaden zufügen.
 
 [SNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
 Die Feuerdrachenpflanze fliegt hoch und spuckt Flammen im 4×3-Bereich ^oldclr^ rechts von ^ff0000^, die allen Zombies Schaden zufügen.
@@ -71973,7 +71974,7 @@ Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [SQUASH_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies ein Feld links und rechts vom Kürbis erscheinen, starrt der Kürbis sie an, springt dann hoch und fügt den Zombies im Umkreis von einem Feld Schaden zu.
+Wenn Zombies ein Feld links und rechts vom Matschkürbis erscheinen, starrt der Matschkürbis sie an, springt dann hoch und fügt den Zombies im Umkreis von einem Feld Schaden zu.
 
 [SQUASH_NEW_SKILL_LEVEL2_DES]
 Nach dem Springen besteht eine 20%ige Chance, dass es nicht verschwindet und sofort einmal nach unten drückt.
@@ -71982,13 +71983,22 @@ Nach dem Springen besteht eine 20%ige Chance, dass es nicht verschwindet und sof
 Nach dem Springen besteht eine 40%ige Chance, dass es nicht verschwindet und sofort einmal nach unten drückt.
 
 [SQUASH_NEW_SKILL_LEVEL4_DES]
-Beim Einpflanzen besteht eine mittlere Chance, dass die Spezialdünger-Fähigkeit direkt freigesetzt wird. Große Bewegung!
+Beim Einpflanzen besteht eine mittlere Chance, dass die Spezialdünger-Fähigkeit direkt freigesetzt wird.
+
+[SQUASH_NEW_SKILL_LEVEL5_DES]
+Matschkürbis's erster Sprung führt einen Hochsprung aus und betäubt Zombies in einem 3×3 großen Bereich um den Landepunkt. Dieser Sprung hält garantiert an und verbraucht keine Ladungen aus Level 2 oder 3.
+
+[SQUASH_SKILL1_LEVEL5]
+Fliegen!
+
+[SQUASH_SKILL1_LEVEL5_DES]
+Matschkürbis's erster Sprung führt einen hohen Sprung aus und betäubt Zombies im Umkreis von 3x3 um den Landepunkt. Dieser Sprung hält garantiert an und verbraucht keine Ladungen der Stufen 2 und 3.
 
 [SQUASH_PLANTFOOD_DESCRIPTION]
-Springe sofort hoch und springe zufällig zu den beiden Gittern mit den höchsten Lebenspunkten auf dem Feld. Zerstöre dann das Gitter an der Stelle, an der es sich befindet.
+Springt sofort hoch und springt zufällig zu den beiden Gittern mit den höchsten gesamt Zombie  Lebenspunkten auf dem Feld. Zerstöre dann das Gitter an der Stelle, an der es sich befindet.
 
 [SQUASH_AVATAR_PLANTFOOD_DESCRIPTION]
-Springe sofort hoch und springe zufällig zu den drei Gittern mit den höchsten Lebenspunkten auf dem Feld. Zerstöre dann das Gitter an der Stelle, an der es sich befindet.
+Springt sofort hoch und springt zufällig zu den drei Gittern mit den höchsten gesamt Zombie Lebenspunkten auf dem Feld. Zerstöre dann das Gitter an der Stelle, an der es sich befindet.
 
 [CHILIBEAN_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie eine Chilibohne frisst, wird er beschädigt und setzt Giftgas frei, das die dahinterstehenden Zombies 7 Sekunden lang betäubt. Der Betäubungseffekt des Giftgases ist gegen mechanische Einheiten wirkungslos.
@@ -72054,7 +72064,7 @@ Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [SNOWPEA_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie vor dem Eisschützen erscheint, feuert dieser Eiserbsen ab, um den Zombie anzugreifen und das getroffene Ziel 10 Sekunden lang mit Eis zu verlangsamen.
+Wenn ein Zombie vor der Hagelzucker-Erbse erscheint, feuert dieser Eiserbsen ab, um den Zombie anzugreifen und das getroffene Ziel 10 Sekunden lang mit Eis zu verlangsamen.
 
 [SNOWPEA_NEW_SKILL_LEVEL2_DES]
 Jedes Mal, wenn du eine Erbse abfeuerst, besteht eine Chance von 15%, einen Eisstachel mit 90 Schaden pro Schuss abzufeuern.
@@ -72168,13 +72178,13 @@ Die Erbsenschote schleudert fünf große Erbsen mit dem 20-fachen Schaden ihrer 
 Die Erbsenschote schleudert fünf brennende große Erbsen mit dem ^ff0000^40-fachen Schaden ihrer eigenen Angriffskraft. ^oldclr^
 
 [MELONPULT_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben dem Wassermelonenkrug erscheint, wirft er eine Wassermelone. Die Wassermelone zerbricht beim Aufprall und verursacht Flächenschaden in Höhe von 50% der Angriffskraft an den Zombies in einem 3×3-Bereich um die Wassermelone herum.
+Wenn ein Zombie rechts neben dem Melonapult erscheint, wirft er eine Wassermelone. Die Wassermelone zerbricht beim Aufprall und verursacht Flächenschaden in Höhe von 50% der Angriffskraft an den Zombies in einem 3×3-Bereich um die Wassermelone herum.
 
 [MELONPULT_NEW_SKILL_LEVEL2_DES]
-Befinden sich zwei oder mehr Zombies im Angriffsbereich, hat der Wassermelonenkrug eine Chance von 25%, zwei Wassermelonen zu schleudern.
+Befinden sich zwei oder mehr Zombies im Angriffsbereich, hat das Melonapult eine Chance von 25%, zwei Wassermelonen zu schleudern.
 
 [MELONPULT_NEW_SKILL_LEVEL3_DES]
-Wenn sich zwei oder mehr Zombies in Angriffsreichweite befinden, hat der Wassermelonenwerfer eine 50%ige Chance, zwei Wassermelonen abzufeuern.
+Wenn sich zwei oder mehr Zombies in Angriffsreichweite befinden, hat das Melonapult eine 50%ige Chance, zwei Wassermelonen abzufeuern.
 
 [MELONPULT_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
@@ -72183,10 +72193,10 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Beim Angriff besteht eine 25%ige Chance, drei Wassermelonenscheiben mit 300 Schaden und 60 Flächenschaden im umliegenden 3×3-Bereich abzufeuern.
 
 [MELONPULT_PLANTFOOD_DESCRIPTION]
-Der Wassermelonenwerfer verwandelt sich in eine Wassermelonenkanone und feuert kontinuierlich vier Wassermelonenschalen auf das Feld.
+Das Melonapult verwandelt sich in eine Melonenkanone und feuert kontinuierlich vier Wassermelonenschalen auf das Feld.
 
 [MELONPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Wassermelonenkrug verwandelt sich in eine Wassermelonenkanone und feuert kontinuierlich vier Wassermelonenschalen mit ^ff0000^ höherem Schaden auf das Feld. ^oldclr^
+Das Melonapult verwandelt sich in eine Melonenkanone und feuert kontinuierlich vier Wassermelonenschalen mit ^ff0000^ höherem Schaden auf das Feld. ^oldclr^
 
 [IMITATER_NEW_SKILL_LEVEL1_DES]
 Die Aubergine verwandelt sich in die vorherige Pflanze im Pflanzenslot. Die Verwandlung dauert beim Einpflanzen nur kurz.
@@ -72216,43 +72226,43 @@ Der Doppelschütze feuert 60 Erbsen hintereinander und eine Riesenerbse ab, die 
 Der Doppelschütze verschießt 60^ff0000^verschiedene Erbsenarten^oldclr^ und eine Riesenerbse, die die 20-fache Angriffskraft ihrer eigenen verursacht.
 
 [SPIKEROCK_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie auf einen Spike tritt, führt er einen Stichangriff aus, der allen Zombies Schaden zufügt. Der Spike hat drei Stacheln, und wenn er alle verliert, stirbt er. ^ff0000^Ideal für Roller- und Piano-Zombies! ^oldclr^
+Wenn ein Zombie auf einen Stachelstein tritt, führt er einen Stichangriff aus, der allen Zombies über sich Schaden zufügt. Der Stachelstein hat drei Stacheln, und wenn er alle verliert, stirbt er. ^ff0000^Ideal für Roller- und Piano-Zombies! ^oldclr^
 
 [SPIKEROCK_NEW_SKILL_LEVEL2_DES]
-Ein plötzlicher Angriff aus dem Untergrund hat eine Chance von 20%, einen 1-sekündigen Immobilisierungseffekt zu verursachen.
+Ein plötzlicher Angriff aus dem Untergrund hat eine Chance von 20%, einen 1-sekündigenLähmungseffekt  zu verursachen.
 
 [SPIKEROCK_NEW_SKILL_LEVEL3_DES]
-Bei einem plötzlichen Angriff aus dem Untergrund besteht eine Chance von 40%, einen 1-sekündigen Immobilisierungseffekt zu verursachen.
+Bei einem plötzlichen Angriff aus dem Untergrund besteht eine Chance von 40%, einen 1-sekündigen Lähmungseffekt zu verursachen.
 
 [SPIKEROCK_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [SPIKEROCK_PLANTFOOD_DESCRIPTION]
-Pflanzenfolie zieht Zombies in dieser Reihe zu dem Feld, in dem sich die Pflanzenfolie befindet, und verursacht Schaden.
+Stachelstein zieht Zombies in seiner Reihe zu dem Feld, in dem er sich befindet, und verursacht Schaden.
 
 [SPIKEROCK_AVATAR_PLANTFOOD_DESCRIPTION]
-Pflanzenfolie zieht Zombies in dieser Reihe zu dem Feld, in dem sich die Pflanzenfolie befindet, und verursacht Schaden. ^ff0000^ betäubt außerdem Zombies in dieser Reihe 3 Sekunden lang mit ^oldclr^^848484^ Ⅰ^oldclr^^ff0000^. ^oldclr^
+Stachelstein zieht Zombies in dieser Reihe zu dem Feld, in dem er sich befindet, und verursacht Schaden. ^ff0000^ betäubt außerdem Zombies in seiner Reihe 3 Sekunden lang mit ^oldclr^^848484^ Ⅰ^oldclr^^ff0000^. ^oldclr^
 
 [TALLNUT_NEW_SKILL_LEVEL1_DES]
-Die Große Nuss hat einen harten und großen Körper, der Zombies, die über Pflanzen springen können, blockieren kann.
+Die Hochwall-Nuss hat einen harten und großen Körper, der Zombies, die über Pflanzen springen können, blockieren kann.
 
 [TALLNUT_NEW_SKILL_LEVEL2_DES]
-Nach dem Fressen besteht eine 50%ige Chance, dass der riesige Körper der Großen Nuss herunterfällt und 600 Schaden verursacht.
+Nach dem Fressen besteht eine 50%ige Chance, dass der riesige Körper der Hochwall-Nuss herunterfällt und 600 Schaden verursacht.
 
 [TALLNUT_NEW_SKILL_LEVEL3_DES]
-Nach dem Fressen besteht eine 100%ige Chance, dass der riesige Körper der Großen Nuss herunterfällt und 600 Schaden verursacht.
+Nach dem Fressen besteht eine 100%ige Chance, dass der riesige Körper der Hochwall-Nuss herunterfällt und 600 Schaden verursacht.
 
 [TALLNUT_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TALLNUT_PLANTFOOD_DESCRIPTION]
-Die Große Nuss trägt eine Schicht aus harter Stahlpanzerung.
+Die Hochwall-Nuss trägt eine Schicht aus harter Stahlpanzerung.
 
 [TALLNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Große Nuss trägt eine ^ff0000^ härtere Kristallpanzerung. ^oldclr^
+Die Hochwall-Nuss trägt eine ^ff0000^ härtere Kristallpanzerung. ^oldclr^
 
 [THREEPEATER_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie in den drei Reihen rechts vom Dreifach-Shooter erscheint, feuert er jeweils eine Erbse auf jede der drei Reihen ab, um den Zombie anzugreifen.
+Wenn ein Zombie in den drei Reihen rechts vom Triplinator erscheint, feuert er jeweils eine Erbse auf jede der drei Reihen ab, um den Zombie anzugreifen.
 
 [THREEPEATER_NEW_SKILL_LEVEL2_DES]
 Beim Angriff besteht eine 25%ige Chance, zwei Erbsensalven gleichzeitig abzufeuern.
@@ -72267,13 +72277,13 @@ Beim Einpflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähig
 Beim Angriff besteht eine Wahrscheinlichkeit von 30%, Eiserbsengeschosse abzufeuern, eine Wahrscheinlichkeit von 30%, rote Feuererbsengeschosse abzufeuern und eine Wahrscheinlichkeit von 10%, blaue Feuererbsengeschosse abzufeuern.
 
 [THREEPEATER_PLANTFOOD_DESCRIPTION]
-Der Dreifach-Shooter verschießt 99 Erbsen auf einmal, jeweils 33 nach vorne, oben und unten.
+Der Triplinator verschießt 99 Erbsen auf einmal, jeweils 33 nach vorne, oben und unten.
 
 [THREEPEATER_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Dreifach-Shooter verschießt ^ff0000^ 198 Erbsen auf einmal, jeweils 66 nach vorne, oben und unten. ^oldclr^
+Der Triplinator verschießt ^ff0000^ 198 Erbsen auf einmal, jeweils 66 nach vorne, oben und unten. ^oldclr^
 
 [WINTERMELON_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie vor dem Eismelonenkrug erscheint, wirft er eine Eismelone. Die Eismelone zerbricht, sobald sie den Zombie trifft, und verursacht Flächenschaden in Höhe von 50% der Angriffskraft sowie einen 10 Sekunden anhaltenden Eisverlangsamungseffekt für die Zombies in einem 3×3-Bereich um die Eismelone herum.
+Wenn ein Zombie vor der Wintermelone erscheint, wirft sie eine Eismelone. Die Eismelone zerbricht, sobald sie einen Zombie trifft, und verursacht Flächenschaden in Höhe von 50% der Angriffskraft sowie einen 10 Sekunden anhaltenden Eisverlangsamungseffekt für die Zombies in einem 3×3-Bereich um die Wintermelone herum.
 
 [WINTERMELON_NEW_SKILL_LEVEL2_DES]
 Kann kalte Eiswürfel werfen und Zombies mit einer Chance von 7% für 2 Sekunden einfrieren.
@@ -72288,10 +72298,10 @@ Beim Pflanzen besteht eine hohe Chance, Spezialdünger-Fähigkeit direkt freizus
 Es besteht eine Chance von 40%, drei Eisscheiben mit 300 Schaden zu werfen und Zombies für 2 Sekunden einzufrieren. Eisscheiben können außerdem einen Spritzeffekt verursachen, der Zombies im Umkreis von 3×3 60 Schaden zufügt.
 
 [WINTERMELON_PLANTFOOD_DESCRIPTION]
-Der Eismelonenkrug verwandelt sich in eine Eismelonenkanone und verschießt mindestens 4 Eismelonenkanonenkugeln mit hohem Schadenspotenzial.
+Die Wintermelone verwandelt sich in eine Wintermelonenkanone und verschießt mindestens 4 Wintermelonenkanonenkugeln mit hohem Schadenspotenzial.
 
 [WINTERMELON_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Eismelonenkrug verwandelt sich in eine Eismelonenkanone und verschießt mindestens 4 ^ff0000^ brennende Eismelonenkanonenkugeln mit hohem Schadenspotenzial. ^oldclr^
+Die Wintermelone verwandelt sich in eine Eismelonenkanone und verschießt mindestens 4 ^ff0000^ brennende Wintermelonenkanonenkugeln mit hohem Schadenspotenzial. ^oldclr^
 
 [CHERRY_BOMB_NEW_SKILL_LEVEL1_DES]
 Nach dem Pflanzen verursacht die Kirschbombe sofort Explosionsschaden in einem 3×3 großen Bereich mit ihrem Zentrum.
@@ -72381,13 +72391,13 @@ Die Bambussprossen bohren sich in den Boden und stechen große Bambussprossen an
 Die Bambussprossen bohren sich in den Boden und stechen große Bambussprossen an die Füße von ^ff0000^ 6 Zombies auf dem Feld^oldclr^, um anzugreifen.
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL1_DES]
-Ein Klick auf das Prismengras verbraucht 50 Sonnenlicht. Das Prismengras sendet eine Lichtwelle nach vorne aus, die dem vordersten Zombie rechts Schaden zufügt.
+Ein Klick auf das Vergrößerungsgras verbraucht 50 Sonnenlicht. Das Vergrößerungsgras sendet eine Lichtwelle nach vorne aus, die dem vordersten Zombie rechts Schaden zufügt.
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL2_DES]
-Halte das Prismengras gedrückt, um 100 Sonnenlicht zu verbrauchen und eine Lichtwelle mit dreifacher Angriffskraft auf den Zombie zu senden.
+Halte das Vergrößerungsgras gedrückt, um 100 Sonnenlicht zu verbrauchen und eine Lichtwelle mit dreifacher Angriffskraft auf den Zombie zu senden.
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL3_DES]
-Halte das Prismengras gedrückt, um 100 Sonnenlicht zu verbrauchen und einen Lichtstrahl mit vierfacher Angriffskraft auf die Zombies abzufeuern.
+Halte das Vergrößerungsgras gedrückt, um 100 Sonnenlicht zu verbrauchen und einen Lichtstrahl mit vierfacher Angriffskraft auf die Zombies abzufeuern.
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
@@ -72396,10 +72406,10 @@ Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit dire
 Es besteht eine 40%ige Chance, drei Eismelonenscheiben mit 300 Schaden zu werfen und die Zombies 2 Sekunden lang einzufrieren. Die Eismelonenscheiben können außerdem einen Spritzeffekt verursachen, der Zombies im Umkreis von 3×3 60 Schaden zufügt.
 
 [MAGNIFYINGGRASS_PLANTFOOD_DESCRIPTION]
-Das Prismengras sammelt Sonnenenergie und feuert einen Strahl auf die Zombies. Der Schaden richtet sich nach der Anzahl der Sonnenblumen und Zwillingssonnenblumen auf dem Feld.
+Das Vergrößerungsgras sammelt Sonnenenergie und feuert einen Strahl auf die Zombies. Der Schaden richtet sich nach der Anzahl der Sonnenblumen und Doppel-Sonnenblumen auf dem Feld.
 
 [MAGNIFYINGGRASS_AVATAR_PLANTFOOD_DESCRIPTION]
-Prismengras sammelt Sonnenenergie und feuert einen Strahl mit höherem Schaden auf Zombies. Der Schaden richtet sich nach der Anzahl der Sonnenblumen und Zwillingssonnenblumen auf dem Feld.
+Vergrößerungsgras sammelt Sonnenenergie und feuert einen Strahl mit höherem Schaden auf Zombies. Der Schaden richtet sich nach der Anzahl der Sonnenblumen und Doppel-Sonnenblumen auf dem Feld.
 
 [LASER_BEAN_NEW_SKILL_LEVEL1_DES]
 Laserbohne feuert einen Laserstrahl ab und greift alle Zombies in der gesamten rechten Reihe an.
@@ -72459,13 +72469,13 @@ Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 Diese Pflanze hat keine Spezialdünger-Fähigkeit.
 
 [CITRON_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben der Energie-Grapefruit erscheint, feuert diese eine hochenergetische Partikelkanone ab, um den Zombie anzugreifen. Die Energie-Grapefruit benötigt 3 Sekunden, um zu landen, und beginnt eine 6,5 Sekunden lange Ruhephase.
+Wenn ein Zombie rechts neben der Zedrahte erscheint, feuert diese eine hochenergetische Partikelkanone ab, um den Zombie anzugreifen. Die Zedrahte benötigt 3 Sekunden, um zu landen, und beginnt eine 6,5 Sekunden lange Ruhephase.
 
 [CITRON_NEW_SKILL_LEVEL2_DES]
-Die Energiespeichertechnologie der Energie-Grapefruit wurde verbessert und die Energiespeichergeschwindigkeit um 25% erhöht.
+Die Energiespeichertechnologie der Zedrahte wurde verbessert und die Energiespeichergeschwindigkeit um 25% erhöht.
 
 [CITRON_NEW_SKILL_LEVEL3_DES]
-Die Energiespeichertechnologie der Energie-Grapefruit wurde weiter verbessert und die Energiespeichergeschwindigkeit um 40% erhöht.
+Die Energiespeichertechnologie der Zedrahte wurde weiter verbessert und die Energiespeichergeschwindigkeit um 40% erhöht.
 
 [CITRON_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
@@ -72480,13 +72490,13 @@ Feuert eine Plasmakanone ab, um eine Reihe kleiner und mittelgroßer Zombies (au
 Feuert eine Plasmakanone ab, um eine Reihe kleiner und mittelgroßer Zombies (außer Zukunfts-Zombies) wegzustoßen und die Hindernisse in der gesamten Reihe zu beseitigen. Berührt ein großer Zombie eine zukünftige mittlere mechanische Einheit, explodiert diese und beendet den Aufprall. ^ff0000^ Die Elektronenkanone entfacht eine Blitzkette, die die drei Zombiereihen rechts beschädigt. ^oldclr^ Nach dem Abfeuern der Partikelkanone verharrt die geladene Grapefruit. Für diesen Sofortkill gibt es keine Rangbegrenzung (im Endlosmodus liegt die Begrenzung für den Sofortkill nicht über dem Rang der Pflanze selbst).
 
 [HOLONUT_NEW_SKILL_LEVEL1_DES]
-Solange die Basis nicht zerstört wird, kann die holografische Nuss unendlich oft wiederbelebt werden. 15 Sekunden nach dem Verschwinden der Projektion ist die Gesundheit der holografischen Nuss vollständig wiederhergestellt.
+Solange die Basis nicht zerstört wird, kann die Unend-Nuss unendlich oft wiederbelebt werden. 15 Sekunden nach dem Verschwinden der Projektion ist die Gesundheit der holografischen Nuss vollständig wiederhergestellt.
 
 [HOLONUT_NEW_SKILL_LEVEL2_DES]
-Die holografische Nuss regeneriert die Projektion schneller und wird 10 Sekunden nach dem Verschwinden der Projektion wiederhergestellt.
+Die Unend-Nuss regeneriert die Projektion schneller und wird 10 Sekunden nach dem Verschwinden der Projektion wiederhergestellt.
 
 [HOLONUT_NEW_SKILL_LEVEL3_DES]
-Die holografische Nuss regeneriert die Projektion schneller. Sie wird 7,5 Sekunden nach dem Verschwinden der Projektion wiederhergestellt.
+Die Unend-Nuss regeneriert die Projektion schneller. Sie wird 7,5 Sekunden nach dem Verschwinden der Projektion wiederhergestellt.
 
 [HOLONUT_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
@@ -72798,7 +72808,7 @@ Generiert ein Seerosenblätterblatt über, unter, links und rechts von sich selb
 Generiert ein Seerosenblätterblatt im 3×3-Bereich mit sich selbst als Mittelpunkt^ff0000^. ^oldclr^
 
 [BOWLINGBULB_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie rechts neben der Bowlingblase, schleudert diese nacheinander drei Bowlingkugeln. Trifft die Projektil den Zombie, prallt sie in einem 45°-Winkel ab und wird anschließend jedes Mal um 90° abgelenkt. Die Bowlingblase selbst regeneriert alle 4 Sekunden eine Bowlingkugel. Die Bowlingblase priorisiert das Werfen und Regenerieren der Bowlingkugel mit der geringsten Angriffskraft.
+Erscheint ein Zombie rechts neben der Bowlingknolle, schleudert diese nacheinander drei Bowlingkugeln. Trifft die Projektil den Zombie, prallt sie in einem 45°-Winkel ab und wird anschließend jedes Mal um 90° abgelenkt. Die Bowlingknolle selbst regeneriert alle 4 Sekunden eine Bowlingkugel. Die Bowlingknolle priorisiert das Werfen und Regenerieren der Bowlingkugel mit der geringsten Angriffskraft.
 
 [BOWLINGBULB_NEW_SKILL_LEVEL2_DES]
 Jede wiederhergestellte Bowlingkugel hat eine Chance von 25%, zwei Bowlingkugeln gleichzeitig zu regenerieren.
@@ -72813,10 +72823,10 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Es besteht eine 20%ige Chance, eine große Bowlingkugel mit 720 Schadenspunkten abzufeuern und die Fähigkeiten der zweiten und dritten Stufe zu aktivieren. Die große Bowlingkugel teilt sich nach dem Aufprall in drei Projektile.
 
 [BOWLINGBULB_PLANTFOOD_DESCRIPTION]
-Bowlingblase ist bereit. Wenn rechts ein Zombie erscheint, schießt er drei Bowlingkugeln ab, die nacheinander Flächenschaden verursachen können.
+Bowlingknolle ist bereit. Wenn rechts ein Zombie erscheint, schießt sie drei Bowlingkugeln ab, die nacheinander Flächenschaden verursachen können.
 
 [BOWLINGBULB_AVATAR_PLANTFOOD_DESCRIPTION]
-Bowlingblase ist bereit. Wenn rechts ein Zombie erscheint, löst er einen ^ff0000^ Flammenwurf mit hohem Schaden, einen Eiswurf, der Zombies 10 Sekunden lang verlangsamt, und einen Blitzwurf aus, der Zombies ^oldclr^^ff9600^ für 1 Sekunde lähmt. Alle diese Effekte verursachen Flächenschaden. ^oldclr^
+Bowlingknolle ist bereit. Wenn rechts ein Zombie erscheint, löst sie einen ^ff0000^ Flammenwurf mit hohem Schaden, einen Eiswurf, der Zombies 10 Sekunden lang verlangsamt, und einen Blitzwurf aus, der Zombies ^oldclr^^ff9600^ für 1 Sekunde lähmt. Alle diese Effekte verursachen Flächenschaden. ^oldclr^
 
 [TANGLEKELP_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie rechts neben dem Schlingtang, sinkt dieser ins Wasser und zieht den Zombie auf den Meeresgrund. Ist der Zombie größer oder ein Gargantua, verursacht er festen Schaden.
@@ -72888,16 +72898,16 @@ Die Lenkdistel hat eine Chance von 50%, zwei Nadeln hintereinander abzufeuern.
 Beim Pflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HOMINGTHISTLE_PLANTFOOD_DESCRIPTION]
-Feuert mindestens 10 Nadeln ab, deren Schaden dem Vierfachen der eigenen Angriffskraft entspricht. Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von Homingthistle abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
+Feuert mindestens 10 Nadeln ab, deren Schaden dem Vierfachen der eigenen Angriffskraft entspricht. Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von der Lenkdistel abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
 
 [HOMINGTHISTLE_AVATAR_PLANTFOOD_DESCRIPTION]
-Schießt mindestens 10 Nadeln mit einem Schaden, der dem Vierfachen der eigenen Angriffskraft entspricht. ^ff0000^ Die Nadeln können Feuer- oder Eisattribute haben. ^oldclr^ Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von Homingthistle abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
+Schießt mindestens 10 Nadeln mit einem Schaden, der dem Vierfachen der eigenen Angriffskraft entspricht. ^ff0000^ Die Nadeln können Feuer- oder Eisattribute haben. ^oldclr^ Befinden sich mehr als 10 Zombies auf dem Feld, so entspricht die Anzahl der von der Lenkdistel abgefeuerten Nadeln der Anzahl der Zombies auf dem Feld.
 
 [CHOMPER_NEW_SKILL_LEVEL1_DES]
-Wenn ein kleiner Zombie mit einem Level, das nicht höher als Homingthistle ist, ein Feld vor Homingthistle erscheint, öffnet Homingthistle sein Maul und verschlingt ihn in einem Zug. Die Schluckzeit beträgt 30 Sekunden. Trifft Homingthistle auf eine nicht verschlingbare Einheit, verursacht sie Bissschaden.
+Wenn ein kleiner Zombie mit einem Level, das nicht höher als vom Schnapper ist, ein Feld vor Schnapper erscheint, öffnet Schnapper sein Maul und verschlingt ihn in einem Zug. Die Schluckzeit beträgt 30 Sekunden. Trifft Schnapper auf eine nicht verschlingbare Einheit, verursacht sie Bissschaden.
 
 [CHOMPER_NEW_SKILL_LEVEL2_DES]
-Nachdem Homingthistle einen Zombie gefressen hat, rülpst sie und stößt alle Zombies in der Nähe um ein Feld zurück.
+Nachdem Schnapper einen Zombie gefressen hat, rülpst er und stößt alle Zombies in der Nähe um ein Feld zurück.
 
 [CHOMPER_NEW_SKILL_LEVEL3_DES]
 Nachdem die Pflanze einen Zombie gefressen hat, rülpst sie und stößt alle Zombies in der Nähe um drei Felder zurück.
@@ -73098,34 +73108,31 @@ Die Blätter des Rübenwächters wachsen alle 40 Sekunden nach.
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [CHARDGUARD_NEW_SKILL_LEVEL5_DES]
-Von Beet Guard abgewehrte Zombies werden nach der Landung 2 Sekunden lang betäubt.
+Von Mangold-Mangler abgewehrte Zombies werden nach der Landung 2 Sekunden lang betäubt.
 
 [CHARDGUARD_PLANTFOOD_DESCRIPTION]
-Beet Guard öffnet seine Blätter, um Zombies in einem 3×3 großen Bereich um das rechte Feld von ihm selbst (3 Felder entfernt) zurückzustoßen. Dadurch wird Schaden verursacht und anschließend werden alle Blätter wiederhergestellt.
+Mangold-Mangler öffnet seine Blätter, um Zombies in einem 3×3 großen Bereich um das rechte Feld von ihm selbst (3 Felder entfernt) zurückzustoßen. Dadurch wird Schaden verursacht und anschließend werden alle Blätter wiederhergestellt.
 
 [CHARDGUARD_AVATAR_PLANTFOOD_DESCRIPTION]
-Beet Guard öffnet seine Blätter, um Zombies in einem 3×3 großen Bereich um das rechte Feld von ihm selbst (3 Felder entfernt) zurückzustoßen. Dadurch wird höherer Schaden verursacht und anschließend werden alle Blätter wiederhergestellt.
+Mangold-Mangler öffnet seine Blätter, um Zombies in einem 3×3 großen Bereich um das rechte Feld von ihm selbst (3 Felder entfernt) zurückzustoßen. Dadurch wird höherer Schaden verursacht und anschließend werden alle Blätter wiederhergestellt.
 
 [STUNION_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie ein Feld rechts von der Betäubungszwiebel erscheint, spuckt diese lähmendes Gas aus und macht den Zombie in diesem Feld 12 Sekunden lang bewegungsunfähig. Die Betäubungszwiebel funktioniert nicht bei mechanischen Einheiten.
+Wenn ein Zombie ein Feld rechts von der Zwierbel erscheint, spuckt diese lähmendes Gas aus und macht den Zombie in diesem Feld 12 Sekunden lang bewegungsunfähig. Die Zwierbel funktioniert nicht bei mechanischen Einheiten.
 
 [STUNION_NEW_SKILL_LEVEL2_DES]
-Das von der Betäubungszwiebel freigesetzte Gas kann die Zombies ein Feld rechts davon 14 Sekunden lang bewegungsunfähig machen.
+Das von der Zwierbel freigesetzte Gas kann die Zombies ein Feld rechts davon 14 Sekunden lang bewegungsunfähig machen.
 
 [STUNION_NEW_SKILL_LEVEL3_DES]
-Das von der Betäubungszwiebel freigesetzte Gas kann die Zombies ein Feld rechts davon 16 Sekunden lang bewegungsunfähig machen.
+Das von der Zwierbel freigesetzte Gas kann die Zombies ein Feld rechts davon 16 Sekunden lang bewegungsunfähig machen.
 
 [STUNION_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen. (Große Attacke!)
 
-[STUNION_NEW_SKSKILL_LEVEL5_DES]
-Zombies, die vom Beet Guard zurückgeworfen werden, werden nach der Landung 2 Sekunden lang betäubt.
-
 [STUNION_PLANTFOOD_DESCRIPTION]
-Die Betäubungszwiebel springt vom Boden hoch und setzt ein immobilisierendes Gas frei, das Zombies im 3×4-Bereich rechts 18 Sekunden lang bewegungsunfähig macht.
+Die Zwierbel springt vom Boden hoch und setzt ein immobilisierendes Gas frei, das Zombies im 3×4-Bereich rechts 18 Sekunden lang bewegungsunfähig macht.
 
 [STUNION_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Betäubungszwiebel springt vom Boden hoch und setzt ein stabilisierendes Gas frei, das Zombies im ^ff0000^3×5-Bereich rechts 18 Sekunden lang stabilisiert. ^oldclr^
+Die Zwierbel springt vom Boden hoch und setzt ein stabilisierendes Gas frei, das Zombies im ^ff0000^3×5-Bereich rechts 18 Sekunden lang stabilisiert. ^oldclr^
 
 [XSHOT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie diagonal auf der Rübe erscheint, feuert die Rübe drei Rapssalven gleichzeitig in vier Richtungen ab.
@@ -73446,7 +73453,7 @@ Die Sonnenblumensängerin beginnt ihre Gesangsdarbietung, wobei die Lichter alle
 Blockiert Zombies, um die Pflanzen dahinter zu schützen. Die harte Schale ist mit Stacheln besetzt. Bei Angriffen durch Zombies sticht sie die Zombies und fügt ihnen Schaden zu.
 
 [ENDURIAN_NEW_SKILL_LEVEL2_DES]
-Durian erhält eine stinkende Aura, die Zombies in Reichweite 20 Schaden pro Sekunde zufügt und dabei Rüstung ignoriert.
+Endurian erhält eine stinkende Aura, die Zombies in Reichweite 20 Schaden pro Sekunde zufügt und dabei Rüstung ignoriert.
 
 [ENDURIAN_NEW_SKILL_LEVEL3_DES]
 Die stinkende Aura wird verstärkt und fügt Zombies in Reichweite 30 Schaden pro Sekunde zu. Rüstung wird dabei ignoriert.
@@ -73455,10 +73462,10 @@ Die stinkende Aura wird verstärkt und fügt Zombies in Reichweite 30 Schaden pr
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt einzusetzen!
 
 [ENDURIAN_PLANTFOOD_DESCRIPTION]
-Durian erhält eine Stahlrüstung. Solange diese Rüstung besteht, erhöht sich Durians Stichschaden um 50%.
+Endurian erhält eine Stahlrüstung. Solange diese Rüstung besteht, erhöht sich Endurians Stichschaden um 50%.
 
 [ENDURIAN_AVATAR_PLANTFOOD_DESCRIPTION]
-Durian erhält eine ^ff0000^ Kristallrüstung^oldclr^. Solange diese Rüstung besteht, erhöht sich Durians ^ff0000^ Stichschaden um 100%. ^oldclr^
+Endurian erhält eine ^ff0000^ Kristallrüstung^oldclr^. Solange diese Rüstung besteht, erhöht sich Endurians ^ff0000^ Stichschaden um 100%. ^oldclr^
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL1_DES]
 Wirft eine Kürbishaube, die einen kleinen oder mittelgroßen Zombie in einen Kürbisgolem verwandelt. Der Kürbisgolem hat 1000 Lebenspunkte und 50 Angriffspunkte oder 500 Lebenspunkte und 100 Angriffspunkte. Nach seinem Tod verwandelt er sich wieder in seinen ursprünglichen Zombie.
@@ -73803,7 +73810,7 @@ Die Fette Bete sendet eine starke Schallwelle aus, die Zombies im Umkreis von 3�
 Die Fette Bete sendet eine starke Schallwelle aus, die Zombies im Umkreis von 3×3 und anschließend Zombies im Umkreis von 5×5 Schaden zufügt. ^ff0000^ Kann Zombies vom Boden abschütteln. ^oldclr^
 
 [THYMEWARP_NEW_SKILL_LEVEL1_DES]
-Das zeitumgekehrte Gras, das die Macht von Zeit und Raum kontrolliert, lässt die fünf gegnerischen Zombies ganz links im Feld innerhalb von 2,5 Sekunden nach dem Pflanzen verschwinden und drei Sekunden später ganz rechts in derselben Reihe wieder erscheinen. Die vollständig manifestierten Zombies werden von ihrem abnormalen Zustand befreit (außer Schrumpfen) und ihre Gesundheit wird vollständig wiederhergestellt. Die teleportierten Zombies können sich während des gesamten Vorgangs nicht bewegen.
+Der Eigenthymian, der die Macht von Zeit und Raum kontrolliert, lässt die fünf gegnerischen Zombies ganz links im Feld innerhalb von 2,5 Sekunden nach dem Pflanzen verschwinden und drei Sekunden später ganz rechts in derselben Reihe wieder erscheinen. Die vollständig manifestierten Zombies werden von ihrem abnormalen Zustand befreit (außer Schrumpfen) und ihre Gesundheit wird vollständig wiederhergestellt. Die teleportierten Zombies können sich während des gesamten Vorgangs nicht bewegen.
 
 [THYMEWARP_NEW_SKILL_LEVEL2_DES]
 Beim Teleportieren besteht eine 60%ige Chance, dass die Zombies in die Zeit- und Raumturbulenzen geschleudert werden und nicht auf das Feld zurückkehren.
@@ -73818,7 +73825,7 @@ Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 Diese Pflanze besitzt keine Spezialdünger-Fähigkeit-Attacke.
 
 [CELERYSTALKER_NEW_SKILL_LEVEL1_DES]
-Nach dem Pflanzen versteckt sich der Lauernde Sellerie unter der Erde und wartet auf vorbeikommende Zombies. Erscheint ein Zombie links von ihm, bricht dieser aus dem Boden und greift ihn an. Befindet sich etwa drei Sekunden lang kein Zombie in Angriffsreichweite, versteckt er sich wieder.
+Nach dem Pflanzen versteckt sich der Lauer-Sellerie unter der Erde und wartet auf vorbeikommende Zombies. Erscheint ein Zombie links von ihm, bricht dieser aus dem Boden und greift ihn an. Befindet sich etwa drei Sekunden lang kein Zombie in Angriffsreichweite, versteckt er sich wieder.
 
 [CELERYSTALKER_NEW_SKILL_LEVEL2_DES]
 Beim Ausbruch aus dem Boden besteht eine 25%ige Chance auf einen Handflächenschlag, der Zombies um 1 Feld zurückdrängt.
@@ -73830,10 +73837,10 @@ Beim Ausbruch aus dem Boden besteht eine 50%ige Chance auf einen Handflächensch
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [CELERYSTALKER_PLANTFOOD_DESCRIPTION]
-Lauernder Sellerie erzeugt sofort 3 lauernde Sellerie auf einem zufälligen leeren Feld.
+Lauer-Sellerie erzeugt sofort 3 lauernde Sellerie auf einem zufälligen leeren Feld.
 
 [CELERYSTALKER_AVATAR_PLANTFOOD_DESCRIPTION]
-Lauernder Sellerie erzeugt sofort 4 lauernde Sellerie auf einem zufälligen leeren Feld^ff0000^. ^oldclr^
+Lauer-Sellerie erzeugt sofort 4 Lauer-Sellerie auf einem zufälligen leeren Feld^ff0000^. ^oldclr^
 
 [SPORESHROOM_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben einem Sporenpilz erscheint, versprüht der Sporenpilz parasitäre Sporen, die den getöteten Zombie in einen Sporenpilz verwandeln können.
@@ -73875,7 +73882,7 @@ Knoblauch stößt sofort einen starken Gestank aus, der die gesamte Zombiereihe 
 Knoblauch stößt sofort einen starken Gestank aus, betäubt die gesamte Zombiereihe^848484^ für ^oldclr^8 Sekunden,^ff0000^ und lässt die gesamte Zombiereihe ein Feld zurückweichen und die Reihe wechseln. ^oldclr^
 
 [INTENSIVECARROT_NEW_SKILL_LEVEL1_DES]
-Die wiederbelebte Karotte nutzt ihre Kraft, um eine Pflanze wiederzubeleben und 50% ihrer Gesundheit wiederherzustellen.
+Die Intensivkarrote nutzt ihre Kraft, um eine Pflanze wiederzubeleben und 50% ihrer Gesundheit wiederherzustellen.
 
 [INTENSIVECARROT_NEW_SKILL_LEVEL2_DES]
 Erweckt eine Pflanze wieder und stellt 100% ihrer Gesundheit wieder her.
@@ -73968,7 +73975,7 @@ Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie im 2×3-Bereich rechts erscheint, sprüht das Eisdrachengras Eis, um den Zombie vor ihm einzufrieren. Dadurch wird seine Angriffsreichweite abgedeckt und seine Geschwindigkeit verringert.
+Wenn ein Zombie im 2×3-Bereich rechts erscheint, sprüht das Eis-Drachenmäulchen Eis, um den Zombie vor ihm einzufrieren. Dadurch wird seine Angriffsreichweite abgedeckt und seine Geschwindigkeit verringert.
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL2_DES]
 Beim Angriff besteht eine Chance von 5,5%, 180 Schaden zu verursachen, was den Zombie für ^0072ff^Ⅰ^oldclr^2 Sekunden einfrieren kann.
@@ -73983,13 +73990,13 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Beim Angriff besteht eine 20%ige Chance, normalen Angriffen einen ungebremsten Eisdrachen hinzuzufügen, der den Landzombies dieser Reihe 3000 Schaden zufügt. Der Eisdrache kann die getroffenen Zombies 3 Sekunden lang in einen ^0072ff^FrozenⅠ^oldclr^-Zustand versetzen. Nach dem Auslösen werden sie 7 Sekunden lang verlangsamt und verlieren Frostatem und Eisatem.
 
 [COLDSNAPDRAGON_PLANTFOOD_DESCRIPTION]
-Das Eisdrachengras fliegt hoch und spuckt Eisatem im 3×3-Bereich vor ihnen aus. Dies verursacht Schaden und ^0072ff^FrozenⅠ^oldclr^5 Sekunden lang bei den Zombies in Reichweite.
+Das Eis-Drachenmäulchen fliegt hoch und spuckt Eisatem im 3×3-Bereich vor ihnen aus. Dies verursacht Schaden und ^0072ff^FrozenⅠ^oldclr^5 Sekunden lang bei den Zombies in Reichweite.
 
 [COLDSNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
-Das Eisdrachengras fliegt hoch und spuckt Eis in einem 3×3 großen Bereich vor sich aus. Es verursacht Schaden und friert^ff0000^alle Zombies auf dem Bildschirm^oldclr^^0072ff^für Ⅰ^oldclr^^ff0000^8 Sekunden ein. ^oldclr^
+Das Eis-Drachenmäulchen fliegt hoch und spuckt Eis in einem 3×3 großen Bereich vor sich aus. Es verursacht Schaden und friert^ff0000^alle Zombies auf dem Bildschirm^oldclr^^0072ff^für Ⅰ^oldclr^^ff0000^8 Sekunden ein. ^oldclr^
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies in die Nähe von Shrinking Violet kommen, öffnet Shrinking Violet seine Blütenblätter und schrumpft mit Magie alle nicht-riesigen Zombies in Reichweite. Ihre Geschwindigkeit wird um 50% reduziert, ihr Schaden um 20% erhöht. Diese Zombies können sich während der Schrumpfphase nicht bewegen.
+Wenn Zombies in die Nähe vom Schrumpf-Veilchen kommen, öffnet Schrumpf-Veilchen seine Blütenblätter und schrumpft mit Magie alle nicht-riesigen Zombies in Reichweite. Ihre Geschwindigkeit wird um 50% reduziert, ihr Schaden um 20% erhöht. Diese Zombies können sich während der Schrumpfphase nicht bewegen.
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL2_DES]
 Die Schrumpffähigkeit kann auch riesige Zombies beeinflussen.
@@ -74010,7 +74017,7 @@ Schrumpf-Veilchen kann alle Zombies auf dem Bildschirm schrumpfen lassen.
 Schrumpf-Veilchen kann alle Zombies auf dem Bildschirm schrumpfen lassen, ihre Bewegungsgeschwindigkeit um 70% reduzieren und ihren erlittenen Schaden um 30% erhöhen. ^oldclr^
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben der Ur-Erbsenkanone erscheint, feuert ihr eine schwere Erbsenkugel ab. Diese fügt dem Zombie Schaden zu und hat eine 50% Chance, einen Rückstoßeffekt auf einem einzelnen Gitter zu verursachen, sowie eine 50% Chance, den Zombie für ^848484^I^oldclr^0,5 Sekunden zu betäuben.
+Wenn ein Zombie rechts neben der Urzeit-Erbsenkanone erscheint, feuert ihr eine schwere Erbsenkugel ab. Diese fügt dem Zombie Schaden zu und hat eine 50% Chance, einen Rückstoßeffekt auf einem einzelnen Gitter zu verursachen, sowie eine 50% Chance, den Zombie für ^848484^I^oldclr^0,5 Sekunden zu betäuben.
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL2_DES]
 Es besteht eine 15%ige Chance, ein Steingeschoss abzufeuern, das ein einzelnes Gitter beschädigt und 150 Schaden verursacht.
@@ -74031,7 +74038,7 @@ Feuert 5 schwere Erbsengeschosse hintereinander ab, die definitiv einen Rücksto
 Feuert 5 schwere Erbsengeschosse hintereinander ab, die immer einen Block Rückstoßeffekt verursachen und Zombies innerhalb eines Blocks Flächenschaden zufügen. Der Schaden erhöht sich auf Stufe 5 weiter. ^ff0000^Fügt am Ende eine Lavakugel hinzu, die vorbeifliegenden Zombies Schaden zufügt und Lava hinterlässt, die 4 Sekunden lang bestehen bleibt. ^oldclr^
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL1_DES]
-Die  nutzt ihren harten Körper, um Zombies abzuwehren und die Pflanzen dahinter zu schützen.
+Nutzt ihren harten Körper, um Zombies abzuwehren und die Pflanzen dahinter zu schützen.
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL2_DES]
 Nachdem sie von Zombies gefressen wurde, hinterlässt sie eine kleine Nuss mit 1000 Lebenspunkten.
@@ -74088,7 +74095,7 @@ Schütteln der Blütenblätter erzeugt sofort 225 Sonnenlichtpunkte.
 Das Schütteln der Blütenblätter erzeugt sofort 225 Sonnenlicht und ^ff0000^500 Gold. ^oldclr^
 
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL1_DES]
-Nachdem ein Zombie die primitive Kartoffelmine berührt hat, explodiert sie. Allerdings dauert es eine Weile, bis sie eingesetzt wird. Nach Berührung durch einen Zombie explodiert sie und verursacht Schaden an Landzombies im Umkreis von 3×3.
+Nachdem ein Zombie die Urzeit-Kartoffelmine berührt hat, explodiert sie. Allerdings dauert es eine Weile, bis sie eingesetzt wird. Nach Berührung durch einen Zombie explodiert sie und verursacht Schaden an Landzombies im Umkreis von 3×3.
 
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL2_DES]
 Die Einsatzzeit ist 40% schneller und in 10 Sekunden einsatzbereit.
@@ -74099,11 +74106,20 @@ Die Einsatzzeit ist 80% schneller und in 6 Sekunden einsatzbereit.
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
+[PRIMALPOTATOMINE_NEW_SKILL_LEVEL5_DES]
+Nach dem Einsatz breitet die Urzeit-Kartoffelmine ein Wurzelnetzwerk aus und erzeugt alle 3 Sekunden eine kleine Kartoffelmine. Betritt ein Zombie das Wurzelnetzwerk, ruft die Urzeit-Kartoffelmine alle vorhandenen kleinen Kartoffelminen hervor, die sich unter den Füßen des Zombies eingraben und explodieren.
+
+[PRIMALPOTATOMINE_SKILL_LEVEL5]
+Netzwerk-Minenfeld
+
+[PRIMALPOTATOMINE_SKILL_LEVEL5_DES]
+Nach dem Einsatz breitet die Urzeit-Kartoffelmine ein Wurzelnetzwerk aus und erzeugt alle 3 Sekunden eine kleine Kartoffelmine. Betritt ein Zombie das Wurzelnetzwerk, ruft die Urzeit-Kartoffelmine alle vorhandenen kleinen Kartoffelminen herbei, die sich bis zu den Füßen des Zombies durchbohren und explodieren.
+
 [PRIMALPOTATOMINE_PLANTFOOD_DESCRIPTION]
-Stelle sofort auf und platziere eine primitive Kartoffelmine an zwei zufälligen Orten.
+Sofort bereit und platziert eine Urzeit-Kartoffelmine an zwei zufälligen Orten.
 
 [PRIMALPOTATOMINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Stelle sofort auf und platziere drei primitive Kartoffelminen an drei zufälligen Orten. ^ff0000^. ^oldclr^
+Sofort bereit und platziert drei Urzeit-Kartoffelminen an drei zufälligen Orten. ^ff0000^. ^oldclr^
 
 [DRAGONROAR_NEW_SKILL_LEVEL1_DES]
 Wenn ein kleiner Zombie mit einem Level von höchstens Drachengebrüllgras im rechten Feld von Drachengebrüllgras erscheint, verschlingt Drachengebrüllgras ihn in einem Zug und beginnt eine Verdauungszeit von 20 Sekunden. Betritt ein Zombie während der Schluckphase das rechte Feld von Dragon Roar Grass, spuckt Dragon Roar Grass Gift, um den Zombie anzugreifen. Trifft Dragon Roar Grass auf eine Einheit, die nicht verschluckt werden kann, startet es einen Bissangriff. Nach dem Schlucken des Dracheneis verschluckt Dragon Roar Grass es etwa 6 Sekunden lang, spuckt es aus, lässt es vom Feld fliegen und eliminiert seine nachfolgenden Effekte.
@@ -74304,7 +74320,7 @@ Der Weiße-Melone-Sumo zieht alle Zombies im 2x3-Bereich davor an und stößt si
 Der Weiße Melonen-Sumo zieht alle Zombies im 2x3-Feld vor ihm an und stößt sie dann über alle drei Felder zurück. Er verursacht hohen Schaden mit einem 2 Sekunden anhaltenden ^848484^ Schwindel-Effekt Ⅰ^oldclr^, ^ff0000^ und stößt kleinere Zombies weg. ^oldclr^
 
 [CAULIPOWER_NEW_SKILL_LEVEL1_DES]
-Nach 12 Sekunden Vorbereitungszeit feuert Super-Blumenkohl eine telekinetische Welle ab, die zufällig kleine oder mittelgroße Zombies bis Stufe 2 mit ^ff4284^ Verzaubert^oldclr^ verzaubert. Zombies, die nicht mit ^ff4284^ Verzaubert^oldclr^ verzaubert werden können, erleiden 200 Schaden.
+Nach 12 Sekunden Vorbereitungszeit feuert Hypno-Karfiol eine telekinetische Welle ab, die zufällig kleine oder mittelgroße Zombies bis Stufe 2 mit ^ff4284^ Verzaubert^oldclr^ verzaubert. Zombies, die nicht mit ^ff4284^ Verzaubert^oldclr^ verzaubert werden können, erleiden 200 Schaden.
 
 [CAULIPOWER_NEW_SKILL_LEVEL2_DES]
 Die Vorbereitungszeit wurde um 25% auf 9 Sekunden reduziert. Die Obergrenze für Zombies, die ^ff4284^ Charm I^oldclr^ einsetzen können, wurde auf Stufe 3 erhöht.
@@ -74316,13 +74332,13 @@ Die Vorbereitungszeit wurde um 50% auf 6 Sekunden reduziert. Die Obergrenze für
 Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen! Die Obergrenze der Zombies, die mit ^ff4284^ bezaubert werden können, wurde auf Stufe 5 geändert.
 
 [CAULIPOWER_NEW_SKILL_LEVEL5_DES]
-Super-Blumenkohl hat eine Chance von 25%, eine farbige Lichtwelle auszusenden und beendet die Schlafphase sofort.
+Hypno-Karfiol hat eine Chance von 25%, eine farbige Lichtwelle auszusenden und beendet die Schlafphase sofort.
 
 [CAULIPOWER_PLANTFOOD_DESCRIPTION]
-Super-Blumenkohl setzt Telekinese frei, um 4 kleinere Zombies desselben Levels wegzustoßen.
+Hypno-Karfiol setzt Telekinese frei, um 4 kleinere Zombies desselben Levels wegzustoßen.
 
 [CAULIPOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Super-Blumenkohl setzt Telekinese frei, um ^ff0000^5 kleinere Zombies desselben Levels wegzustoßen. ^oldclr^
+Hypno-Karfiol setzt Telekinese frei, um ^ff0000^5 kleinere Zombies desselben Levels wegzustoßen. ^oldclr^
 
 [SHADOWSHROOM_NEW_SKILL_LEVEL1_DES]
 Nachdem der Zombie den giftigen Schattenpilz gefressen hat, verfällt er in den Zustand ^701edf^vergiftet Ⅰ^oldclr^ und erleidet jede Sekunde Schaden durch die Angriffskraft des giftigen Schattenpilzes. Befindet sich der vom Zombie gefressene giftige Schattenpilz im Schattenzustand, kann der Zombie, der ihn frisst, dessen Toxizität anstecken und verfällt nach 30 Sekunden in den normalen vergifteten Zustand.
@@ -74883,10 +74899,10 @@ Der Alarm wird durch den Magnetpilz ausgelöst, der eine elektromagnetische Kano
 Im Normalzustand feuert es Schattengeschosse ab, um einen einzelnen Zombie zu verletzen. Im Schattenzustand kann es Schattenstrahlen abfeuern, um die gesamte Zombiereihe zu beschädigen und sie zu verlangsamen. Nähert sich ein Zombie, wird er unter die Erde gezogen und verschwindet anschließend. Im Schattenzustand können bis zu drei Zombies mitgerissen werden.
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-Wenn Shadow Pea angreift, besteht eine Chance von 10%, ein Schattengeschoss mit 180 Schaden oder einen Schattenstrahl mit 315 Schaden abzufeuern.
+Wenn die Schatten-Erbsenkanone angreift, besteht eine Chance von 10%, ein Schattengeschoss mit 180 Schaden oder einen Schattenstrahl mit 315 Schaden abzufeuern.
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-Wenn Shadow Pea angreift, besteht eine Chance von 20%, ein Schattengeschoss mit 240 Schaden oder einen Schattenstrahl mit 420 Schaden abzufeuern.
+Wenn die Schatten-Erbsenkanone angreift, besteht eine Chance von 20%, ein Schattengeschoss mit 240 Schaden oder einen Schattenstrahl mit 420 Schaden abzufeuern.
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
@@ -74895,16 +74911,16 @@ Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt 
 Im Normalzustand besteht eine 80%ige Chance, einen Schattenstrahl auszusenden. Im Schattenzustand besteht eine 30%ige Chance, den ersten getöteten Zombie in ein schwarzes Loch zu verwandeln, das vorbeikommenden kleinen und mittleren Zombies Schaden zufügt oder sie verschluckt. Dieser Effekt hält 4 Sekunden lang an.
 
 [SHADOWPEASHOOTER_PLANTFOOD_DESCRIPTION]
-Die Schattenerbse kondensiert 3 Geisterbälle und fügt Zombies im Umkreis von 3×3 Schaden zu. Mit zunehmender Anzahl der Mondblumen auf dem Feld erweitert sich auch die Angriffsreichweite bis hin zum Vollbild.
+Die Schatten-Erbsenkanone kondensiert 3 Geisterbälle und fügt Zombies im Umkreis von 3×3 Schaden zu. Mit zunehmender Anzahl der Mondblumen auf dem Feld erweitert sich auch die Angriffsreichweite bis hin zum Vollbild.
 
 [SHADOWPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Schattenerbse kondensiert ^ff0000^4 Geisterbälle^oldclr^ und fügt Zombies im Umkreis von 3×3 Schaden zu. Mit zunehmender Anzahl der Mondblumen auf dem Feld erweitert sich auch die Angriffsreichweite bis hin zum Vollbild.
+Die Schatten-Erbsenkanone kondensiert ^ff0000^4 Geisterbälle^oldclr^ und fügt Zombies im Umkreis von 3×3 Schaden zu. Mit zunehmender Anzahl der Mondblumen auf dem Feld erweitert sich auch die Angriffsreichweite bis hin zum Vollbild.
 
 [SNAPPEA_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben der Piranha-Pflanzenerbse erscheint, taucht er in den Boden ein, erscheint unter den Füßen des Zombies und verschlingt ihn. Anschließend beginnt er zu verdauen. Handelt es sich um einen nicht verschlingbaren Zombie, feuert er nach seinem Erscheinen drei Erbsenkugeln ab.
+Wenn ein Zombie rechts neben der Schnapperbse erscheint, taucht er in den Boden ein, erscheint unter den Füßen des Zombies und verschlingt ihn. Anschließend beginnt er zu verdauen. Handelt es sich um einen nicht verschlingbaren Zombie, feuert er nach seinem Erscheinen drei Erbsenkugeln ab.
 
 [SNAPPEA_NEW_SKILL_LEVEL2_DES]
-Die Piranha-Pflanzenerbse beschleunigt die Verdauungszeit und verkürzt die Ruhezeit auf 9 Sekunden.
+Die Schnapperbse beschleunigt die Verdauungszeit und verkürzt die Ruhezeit auf 9 Sekunden.
 
 [SNAPPEA_NEW_SKILL_LEVEL3_DES]
 Der Fertigkeitseffekt der schnellen Verdauung wird um 100% erhöht und die Ruhezeit auf 8 Sekunden verkürzt.
@@ -74916,10 +74932,10 @@ Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt 
 Beim Angriff besteht eine 50% Chance, bis zu zwei Zombies in einem Raster vor und hinter dem Ziel zu verschlingen oder mit Projektile zu beschießen.
 
 [SNAPPEA_PLANTFOOD_DESCRIPTION]
-Die Piranha-Pflanzenerbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in derselben Reihe und spuckt einen Zombiekopf aus.
+Die Schnapperbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in derselben Reihe und spuckt einen Zombiekopf aus.
 
 [SNAPPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Piranha-Pflanze Erbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in derselben Reihe, ^ff0000^ und spuckt alle Zombieköpfe aus. ^oldclr^
+Die Schnapperbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in derselben Reihe, ^ff0000^ und spuckt alle Zombieköpfe aus. ^oldclr^
 
 [MONOTROPA_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie drei Felder rechts von der Kristallorchidee erscheint, entfesselt er Eiswind, der Zombies in der Nähe Schaden zufügt und den ersten kleinen Zombie für 5 Sekunden in einen handlungsunfähigen Schneemann verwandelt.
@@ -74985,7 +75001,7 @@ Nachdem das Donnerdrachengras in die Luft geflogen ist, spuckt es einen elektris
 Nach dem Abheben spuckt das Donnerdrachengras zwei elektrische Bälle^oldclr^ auf den Boden, ein Feld rechts. Nach der Landung breiten sich die elektrischen Bälle im umliegenden Feld aus und verursachen Schaden und^ff9600^LähmungⅠ^oldclr^ bei Zombies, die 3 Sekunden lang anhält.
 
 [ALOES_NEW_SKILL_LEVEL1_DES]
-Aloe Doctor wirft alle 10 Sekunden einen Wassertropfen aus, der Wassernebel für die umliegenden 3×3-Gitter erzeugt. Pflanzen in diesem Bereich können dadurch 10% ihrer Gesundheit pro Sekunde regenerieren und ihre Angriffskraft 7 Sekunden lang um 20% erhöhen. ^ff0000^Es hat eine wundersame Wirkung auf den Giftnebel des Parfümeurs! ^oldclr^
+Aloe Vera wirft alle 10 Sekunden einen Wassertropfen aus, der Wassernebel für die umliegenden 3×3-Gitter erzeugt. Pflanzen in diesem Bereich können dadurch 10% ihrer Gesundheit pro Sekunde regenerieren und ihre Angriffskraft 7 Sekunden lang um 20% erhöhen. ^ff0000^Es hat eine wundersame Wirkung auf den Giftnebel des Parfümeurs! ^oldclr^
 
 [ALOES_NEW_SKILL_LEVEL2_DES]
 Es besteht eine 50%ige Chance, mehr kristallklare und feuchte Wassertropfen zu werfen, was Pflanzen einen zusätzlichen Angriffsgeschwindigkeitsbonus von 100% verleiht.
@@ -74997,13 +75013,13 @@ Die Auslösewahrscheinlichkeit der Fertigkeit „Kristallklar und feucht“ wird
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ALOES_NEW_SKILL_LEVEL5_DES]
-Der Wassernebel von Aloe Doctor wird zu Eisnebel aufgewertet, was einen zusätzlichen Angriffskraftbonus von 20% verleiht und Zombies, die sich in Reichweite befinden, in den Eisverlangsamungszustand versetzen kann.
+Der Wassernebel von Aloe Vera wird zu Eisnebel aufgewertet, was einen zusätzlichen Angriffskraftbonus von 20% verleiht und Zombies, die sich in Reichweite befinden, in den Eisverlangsamungszustand versetzen kann.
 
 [ALOES_PLANTFOOD_DESCRIPTION]
-Aloe Doctor kondensiert eine große Menge Tau und wirft fünf Wassertropfen hintereinander über den gesamten Bildschirm. Dadurch erhält die Pflanze 7 Sekunden lang einen Bonus auf Lebensregeneration und Angriffskraft.
+Aloe Vera kondensiert eine große Menge Tau und wirft fünf Wassertropfen hintereinander über den gesamten Bildschirm. Dadurch erhält die Pflanze 7 Sekunden lang einen Bonus auf Lebensregeneration und Angriffskraft.
 
 [ALOES_AVATAR_PLANTFOOD_DESCRIPTION]
-Aloe Doctor kondensiert eine große Menge Tau und wirft fünf Wassertropfen hintereinander über den gesamten Bildschirm. Dadurch erhalten Pflanzen 8 Sekunden lang ^ff0000^ höhere Lebensregeneration und Angriffskraft. Der Nebel enthält außerdem Eiskristalle. Zombies, die von Eiskristallen bedeckt sind, werden ^oldclr^^0072ff^eingefrorenⅠ^oldclr^^ff0000^2 Sekunden lang. ^oldclr^
+Aloe Vera kondensiert eine große Menge Tau und wirft fünf Wassertropfen hintereinander über den gesamten Bildschirm. Dadurch erhalten Pflanzen 8 Sekunden lang ^ff0000^ höhere Lebensregeneration und Angriffskraft. Der Nebel enthält außerdem Eiskristalle. Zombies, die von Eiskristallen bedeckt sind, werden ^oldclr^^0072ff^eingefrorenⅠ^oldclr^^ff0000^2 Sekunden lang. ^oldclr^
 
 [BEARBERRY_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Bärentraubenmörser erscheint, feuert er eine Granate ab, die nach rechts rollt und die gesamte Reihe durchdringt, um Schaden zu verursachen.
@@ -75219,10 +75235,10 @@ Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizuset
 Alle 20 Sekunden wird ein Gewitterpfeil abgefeuert. Der Gewitterpfeil greift zuerst die gefährlichsten Zombies an und fügt ihnen, die er durchdringt, Schaden zu. Nach dem Auftreffen tötet er sofort einen einzelnen kleinen Zombie.
 
 [DARTICHOKE_PLANTFOOD_DESCRIPTION]
-Die Pfeil-Artischocke rotiert schnell, visiert den Zombie ganz links im Vollbild an und feuert sofort 10 kritische Pfeile ab.
+Die Dartischocke rotiert schnell, visiert den Zombie ganz links im Vollbild an und feuert sofort 10 kritische Pfeile ab.
 
 [DARTICHOKE_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Pfeil-Artischocke rotiert schnell, visiert den Zombie ganz links im Vollbild an und feuert sofort ^ff0000^15 kritische Pfeile ab. ^oldclr^
+Die Dartischocke rotiert schnell, visiert den Zombie ganz links im Vollbild an und feuert sofort ^ff0000^15 kritische Pfeile ab. ^oldclr^
 
 [ELEOCURLING_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie erscheint, wird der Curling-Bruder getroffen. Er verursacht Schaden und wird zurückgestoßen. Die Chance, die Eisbahn zu verlassen, beträgt 50%. Anschließend dreht sich der Curling-Bruder nach rechts und verursacht 1,25-fachen Schaden. Alternativ trifft er den Curling-Bruder und fügt der gesamten Zombiereihe Schaden zu, wodurch die Eisbahn verlängert wird. Anschließend folgt eine 5-sekündige Ruhezeit.
@@ -75258,13 +75274,13 @@ Erhöht die Chance einer Stachelkombo um 100%.
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff auszulösen!
 
 [POKRA_NEW_SKILL_LEVEL5_DES]
-Nach jeder vollständigen Angriffsrunde hat Spiked Okra eine 15%ige Chance, Stacheln auszustoßen, zwei aufeinanderfolgende Stachelgeschosse abzufeuern und den Angriff mit der ursprünglichen Angriffsgeschwindigkeit zu starten.
+Nach jeder vollständigen Angriffsrunde hat Pokra eine 15%ige Chance, Stacheln auszustoßen, zwei aufeinanderfolgende Stachelgeschosse abzufeuern und den Angriff mit der ursprünglichen Angriffsgeschwindigkeit zu starten.
 
 [POKRA_PLANTFOOD_DESCRIPTION]
-Spike Okra feuert sofort drei große Stachelgeschosse ab, die die gesamte Reihe durchdringen, allen Zombies Schaden zufügen und den Effekt ^701edf^Poison I^oldclr^ hinzufügen. Die Anzahl der großen Stachelgeschosse steigt mit dem Level: 4 auf Level 2, 5 auf Level 3 und 4 und 6 auf Level 5.
+Pokra feuert sofort drei große Stachelgeschosse ab, die die gesamte Reihe durchdringen, allen Zombies Schaden zufügen und den Effekt ^701edf^Poison I^oldclr^ hinzufügen. Die Anzahl der großen Stachelgeschosse steigt mit dem Level: 4 auf Level 2, 5 auf Level 3 und 4 und 6 auf Level 5.
 
 [POKRA_AVATAR_PLANTFOOD_DESCRIPTION]
-Prickly Okra feuert sofort drei große Stachelgeschosse ab, die die gesamte Reihe durchdringen, allen Zombies Schaden zufügen und den Effekt ^701edf^Poison I^oldclr^ hinzufügen. ^ff0000^einen giftigen Nebel hinterlassen, der ihnen weiterhin Schaden zufügt. ^oldclr^Die Anzahl der großen Stachelgeschosse steigt mit der Stufe: 4 auf Stufe 2, 5 auf Stufe 3 und 4 und 6 auf Stufe 5.
+Pokra feuert sofort drei große Stachelgeschosse ab, die die gesamte Reihe durchdringen, allen Zombies Schaden zufügen und den Effekt ^701edf^Poison I^oldclr^ hinzufügen. ^ff0000^einen giftigen Nebel hinterlassen, der ihnen weiterhin Schaden zufügt. ^oldclr^Die Anzahl der großen Stachelgeschosse steigt mit der Stufe: 4 auf Stufe 2, 5 auf Stufe 3 und 4 und 6 auf Stufe 5.
 
 [HYDROCOTYLEDRUMMER_NEW_SKILL_LEVEL1_DES]
 Schlagt alle 15 Sekunden die Trommel. Dadurch erhalten Pflanzen im Umkreis von 3×3 einen Angriffs- und Geschwindigkeitsbonus von 10% und die Gesundheit von defensiven Pflanzen wird um 10% wiederhergestellt. Orchesterpflanzen (Morgenblume, Tulpentrompeter, Magische Bete, Bananentänzerin, Geisterpfeffer) erhalten zusätzlich 5% Angriffs- und Geschwindigkeitsbonus.
@@ -75477,22 +75493,28 @@ Die Gumminuss erzeugt eine riesige Blase und bleibt nach der Explosion an den ^f
 Nach dem Einpflanzen vergräbt er sich unter der Erde und sprüht alle 2,2 Sekunden einen Ölblock nach rechts, wodurch vorbeikommende Zombies verlangsamt werden. Wenn Zombies die Grube betreten, fallen sie hinein und werden sofort getötet. Wenn zwei Zombies oder ein Zombie der Stufe 2 oder höher hineinfallen, wird die Grube blockiert und braucht 60 Sekunden, um sich wieder zu lösen. ^ff0000^ Wirkt Wunder bei Zombie-Hühnern und Zombie-Eiswieseln! ^oldclr^
 
 [OLIVEPIT_NEW_SKILL_LEVEL2_DES]
-Die Anzahl der Zombies, die gleichzeitig in der Bohrlive verdaut werden können, beträgt nun 3 oder 1 Zombie der Stufe 3 oder höher. Die Verdauungszeit wird auf 50 Sekunden reduziert.
+Die Anzahl der Zombies, die gleichzeitig in die Bohrlive verdaut werden können, beträgt nun 3 oder 1 Zombie der Stufe 3 oder höher. Die Verdauungszeit wird auf 50 Sekunden reduziert.
 
 [OLIVEPIT_NEW_SKILL_LEVEL3_DES]
-Die Anzahl der Zombies, die gleichzeitig in der Bohrlive verdaut werden können, beträgt nun 4 oder 1 Zombie der Stufe 5 oder höher. Die Verdauungszeit wird auf 40 Sekunden reduziert.
+Die Anzahl der Zombies, die gleichzeitig in die Bohrlive verdaut werden können, beträgt nun 4 oder 1 Zombie der Stufe 5 oder höher. Die Verdauungszeit wird auf 40 Sekunden reduziert.
 
 [OLIVEPIT_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen! Die Stufe der Zombies, die der Olivenkern normal verdauen kann, wird auf Stufe 7 erhöht.
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen! Die Stufe der Zombies, die die Bohrlive normal verdauen kann, wird auf Stufe 7 erhöht.
 
 [OLIVEPIT_NEW_SKILL_LEVEL5_DES]
-Wenn der Olivenkern in den Verdauungszustand wechselt und ein Zombie ein Feld rechts erscheint, streckt er Grasblätter aus, um seine Füße 5 Sekunden lang zu umwickeln. Zombies aller Stufen können normalerweise 4 Zombies gleichzeitig verdauen.
+Wenn die Bohrlive in den Verdauungszustand wechselt und ein Zombie ein Feld rechts erscheint, streckt er Grasblätter aus, um seine Füße 5 Sekunden lang zu umwickeln. Zombies aller Stufen können normalerweise 4 Zombies gleichzeitig verdauen.
 
 [OLIVEPIT_PLANTFOOD_DESCRIPTION]
-Der Olivenkern lockt Zombies im Umkreis von 3×3 an, verschlingt bis zu 6 Zombies und überzieht sie mit Öl, das eine Zeit lang anhält. Die Stufe dieses sofortigen Todes ist unbegrenzt.
+die Bohrlive lockt Zombies im Umkreis von 3×3 an, verschlingt bis zu 6 Zombies und überzieht sie mit Öl, das eine Zeit lang anhält. Die Stufe dieses sofortigen Todes ist unbegrenzt.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HEADBUTTERLETTUCE_1]
+Hundeoutfit
+
+[NEW_AVATAR_DESCRIPTION_HEADBUTTERLETTUCE_1]
+Erhöht die Lähmungszeit um 1 Sekunde
 
 [OLIVEPIT_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Olivenkern zieht Zombies im Umkreis von 3×3 Metern an und verschlingt^ff0000^ bis zu 9 Zombies^oldclr^. Anschließend überzieht er sie mit Öl, das eine Zeit lang anhält. Die Stufe dieses Sofortkills ist unbegrenzt.
+die Bohrlive zieht Zombies im Umkreis von 3×3 Metern an und verschlingt^ff0000^ bis zu 9 Zombies^oldclr^. Anschließend überzieht er sie mit Öl, das eine Zeit lang anhält. Die Stufe dieses Sofortkills ist unbegrenzt.
 
 [BOOPHONEGEISHA_NEW_SKILL_LEVEL1_DES]
 Erscheint ein Zombie rechts neben der Schillernden Blumengeisha, dreht sich der Blumenfächer und schwingt aus. Trifft er einen Zombie, kehrt er in einem Bogen zurück und fügt dem Zombie, der ihn passiert, Schaden zu. Der Blumenfächer bewegt sich abwechselnd auf und ab.
@@ -75573,10 +75595,10 @@ Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähig
 Beim Angriff besteht eine 10% Chance, einen Butterbrunnen zu erzeugen, aus dem drei Butterstücke gleichzeitig herausfliegen.
 
 [HEADBUTTERLETTUCE_PLANTFOOD_DESCRIPTION]
-Buttersalat schüttelt schnell und heftig seinen Kopf, abwechselnd nach links und rechts, drei Runden lang. Bei jeder Kopfbewegung schleudert er drei Butterstücke, die Schaden verursachen und Zombies 9 Sekunden lang kontrollieren.
+Kopfnuss-Salat schüttelt schnell und heftig seinen Kopf, abwechselnd nach links und rechts, drei Runden lang. Bei jeder Kopfbewegung schleudert er drei Butterstücke, die Schaden verursachen und Zombies 9 Sekunden lang kontrollieren.
 
 [HEADBUTTERLETTUCE_AVATAR_PLANTFOOD_DESCRIPTION]
-Buttersalat schüttelt schnell und heftig seinen Kopf, abwechselnd nach links und rechts, vier Runden lang. ^oldclr^. Bei jeder Kopfbewegung schleudert er drei Butterstücke, die höheren Schaden verursachen und Zombies 9 Sekunden lang kontrollieren. ^oldclr^
+Kopfnuss-Salat schüttelt schnell und heftig seinen Kopf, abwechselnd nach links und rechts, vier Runden lang. ^oldclr^. Bei jeder Kopfbewegung schleudert er drei Butterstücke, die höheren Schaden verursachen und Zombies 9 Sekunden lang kontrollieren. ^oldclr^
 
 [DAZEYCHAIN_NEW_SKILL_LEVEL1_DES]
 Wenn rechts ein Zombie erscheint, schießt er Blütenblätter ab, um dem Zombie Schaden zuzufügen. Nach jeweils 12 Angriffen wird eine Nebelwolke freigesetzt, die die gesamte Linie durchdringt und alle Zombies bis Stufe 2 für 2 Sekunden betäubt. Anschließend öffnet sich eine Blume und nimmt die nächste Form an. Die Betäubungszeit des Nebels erhöht sich mit jeder Verbesserung um 1 Sekunde.
@@ -75597,7 +75619,7 @@ Die Anzahl der zum Blühen benötigten Angriffe wird auf 8 reduziert. Der Nebel 
 Das Betäubungsgänseblümchen wird sofort zur höchsten Stufe aufgewertet. Eine große Rauchwolke, die drei Reihen bedeckt und die gesamte Reihe durchdringt, wird nach rechts abgefeuert. Diese betäubt alle Zombies 4 Sekunden lang.
 
 [DAZEYCHAIN_AVATAR_PLANTFOOD_DESCRIPTION]
-Dizzy Daisy nimmt sofort ihre maximale Form an und feuert eine große Rauchwolke nach rechts ab, die drei Reihen bedeckt und die gesamte Reihe durchdringt. Alle Zombies^848484^ werden 1^oldclr^4 Sekunden lang betäubt. ^ff0000^ Zusätzlich feuert sie einen starken Wind ab, der die Zombies rechts um einen Block zurückweht. ^oldclr^
+Stinkeblümchen nimmt sofort ihre maximale Form an und feuert eine große Rauchwolke nach rechts ab, die drei Reihen bedeckt und die gesamte Reihe durchdringt. Alle Zombies^848484^ werden 1^oldclr^4 Sekunden lang betäubt. ^ff0000^ Zusätzlich feuert sie einen starken Wind ab, der die Zombies rechts um einen Block zurückweht. ^oldclr^
 
 [BOOMFLOWER_NEW_SKILL_LEVEL1_DES]
 Nachdem die Angriffsposition manuell festgelegt wurde, platziert Explosive Kikyo eine Ballonbombe auf dem Feld. Pro Feld können bis zu drei Stapel vorhanden sein. Die Ballonbombe explodiert nach 90 Sekunden von selbst oder löst bei Berührung durch einen Zombie eine Explosion aus, die Zombies im Umkreis von 1×2 Schaden zufügt.
@@ -75702,10 +75724,10 @@ Der Impatiens-Schütze färbt sich sofort in die nächste Form ein und feuert ko
 Der Impatiens-Schütze färbt sich sofort in die nächste Form ein und feuert kontinuierlich Farbkugeln der aktuellen Form nach rechts^ff0000^ fächerförmig^oldclr^ ab, die Zombies Schaden zufügen. ^ff0000^ Die Anzahl der Projektile verdoppelt sich. ^oldclr^
 
 [TURKEYPULT_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom Truthahnkrug erscheint, wirft er einen Tofu-Truthahn auf ihn. Nach der Landung bewegt sich der Tofu-Truthahn weiter nach rechts und verursacht bei Berührung des Zombies Schaden.
+Wenn ein Zombie rechts vom Truthahn-Katapult erscheint, wirft er einen Tofu-Truthahn auf ihn. Nach der Landung bewegt sich der Tofu-Truthahn weiter nach rechts und verursacht bei Berührung des Zombies Schaden.
 
 [TURKEYPULT_NEW_SKILL_LEVEL2_DES]
-Das Angriffsintervall des Truthahnkrugs wird um 1 Sekunde verkürzt und der Sonnenlichtverbrauch beim Pflanzen um 25 Punkte reduziert.
+Das Angriffsintervall des Truthahn-Katapults wird um 1 Sekunde verkürzt und der Sonnenlichtverbrauch beim Pflanzen um 25 Punkte reduziert.
 
 [TURKEYPULT_NEW_SKILL_LEVEL3_DES]
 Erhöht die Wirkung schnellerer Fähigkeiten um 100%.
@@ -75717,10 +75739,10 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Beim Angriff besteht die Chance, einen großen, dunkelgrünen, fetten Truthahn zu werfen. Der geworfene fette Truthahn betäubt den Zombie für ^848484^ Ⅰ^oldclr^ 1 Sekunde.
 
 [TURKEYPULT_PLANTFOOD_DESCRIPTION]
-Der Truthahnkrug rotiert schnell und wirft bis zu 12 Kürbiskopf-Tofu-Truthähne auf die Zombies. Kürbiskopf-Tofu-Truthähne haben höhere Gesundheit und Angriffskraft.
+Der Truthahn-Katapult rotiert schnell und wirft bis zu 12 Kürbiskopf-Tofu-Truthähne auf die Zombies. Kürbiskopf-Tofu-Truthähne haben höhere Gesundheit und Angriffskraft.
 
 [TURKEYPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Truthahnkrug rotiert schnell und wirft bis zu 12 ^ff0000^ Eisenpanzerkopf-Tofu-Truthähne auf die Zombies. Eisenpanzerkopf-Tofu-Truthähne haben höhere Gesundheit und Angriffskraft. ^oldclr^
+Der Truthahn-Katapult rotiert schnell und wirft bis zu 12 ^ff0000^ Eisenpanzerkopf-Tofu-Truthähne auf die Zombies. Eisenpanzerkopf-Tofu-Truthähne haben höhere Gesundheit und Angriffskraft. ^oldclr^
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie zwei Felder rechts von der Hammerorchidee erscheint, schlägt er alle Zombies mit einem Hammer. Beim Angriff besteht eine 20%ige Chance, dass dieser Angriff zu einem schweren Hammer wird, der 1,2-fachen Schaden verursacht und kleine und mittelgroße Zombies 3 Sekunden lang in den Boden hämmert.
@@ -75929,7 +75951,7 @@ Der Verrückte Hutmacher wirft schnell fünf seiner Hüte auf die fünf Zombies,
 Der verrückte Hutpilz wirft schnell fünf seiner Hüte auf die fünf Zombies, die ihm am nächsten sind. Die Hüte springen zwischen den Zombies hin und her und verursachen jeweils die dreifache Angriffskraft. Jeder Hut kann bis zu zweimal abprallen. Jeder Hut durchbricht den Schild des ersten Ziels und fügt ihm einen Zeit- und Raumumkehreffekt hinzu. ^ff0000^
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom magischen Safran erscheint, werden magische Strahlen auf den nächsten Zombie auf dem Spielfeld abgefeuert, um Schaden zu verursachen. Wenn der Schaden den Zombie nicht tötet, verringert sich seine Größe um 25% (gilt nicht für Gargantuas und Zombies). Der geschrumpfte Zombie verringert seine Bewegungsgeschwindigkeit um 50% und erhöht den erlittenen Schaden um 20%. Dieser Effekt hält 5 Sekunden an.
+Wenn ein Zombie rechts vom Hokus-Krokus erscheint, werden magische Strahlen auf den nächsten Zombie auf dem Spielfeld abgefeuert, um Schaden zu verursachen. Wenn der Schaden den Zombie nicht tötet, verringert sich seine Größe um 25% (gilt nicht für Gargantuas und Zombies). Der geschrumpfte Zombie verringert seine Bewegungsgeschwindigkeit um 50% und erhöht den erlittenen Schaden um 20%. Dieser Effekt hält 5 Sekunden an.
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL2_DES]
 Das Licht bricht sich, nachdem es den Zombie getroffen hat, und fügt den beiden Zombies in den drei Reihen dahinter Schaden zu (25% des ursprünglichen Lichts). Das gebrochene Licht schrumpft mit einer Wahrscheinlichkeit von 20%.
@@ -75941,13 +75963,13 @@ Das Licht bricht sich, nachdem es den Zombie getroffen hat, und fügt den beiden
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL5_DES]
-Jeder Angriff des Magischen Safrans löst beim nächsten Angriff ein verstärkendes Licht aus. Dieses Licht und das gebrochene Licht schrumpfen den Zombie um 50% und verringern sein Level um 1. Unwirksam gegen Gargantuas.
+Jeder Angriff des Hokus-Krokus löst beim nächsten Angriff ein verstärkendes Licht aus. Dieses Licht und das gebrochene Licht schrumpfen den Zombie um 50% und verringern sein Level um 1. Unwirksam gegen Gargantuas.
 
 [HOCUSCROCUS_PLANTFOOD_DESCRIPTION]
-Der Magische Safran schießt Strahlen gleichzeitig auf die drei nächstgelegenen Zombies auf dem Feld und erzeugt an deren Position orange-gelben Nebel. Alle Zombies in Reichweite sind vom Schrumpfeffekt betroffen. Der Nebel hält 4 Sekunden an.
+Der Hokus-Krokus schießt Strahlen gleichzeitig auf die drei nächstgelegenen Zombies auf dem Feld und erzeugt an deren Position orange-gelben Nebel. Alle Zombies in Reichweite sind vom Schrumpfeffekt betroffen. Der Nebel hält 4 Sekunden an.
 
 [HOCUSCROCUS_AVATAR_PLANTFOOD_DESCRIPTION]
-Der magische Safran schießt Strahlen gleichzeitig auf die drei nächstgelegenen Zombies auf dem Feld und erzeugt an deren Position orange-gelben Nebel. Alle Zombies in Reichweite werden vom Schrumpfeffekt betroffen. Der Nebel hält ^ff0000^ 6 Sekunden lang an. ^oldclr^
+Der Hokus-Krokus schießt Strahlen gleichzeitig auf die drei nächstgelegenen Zombies auf dem Feld und erzeugt an deren Position orange-gelben Nebel. Alle Zombies in Reichweite werden vom Schrumpfeffekt betroffen. Der Nebel hält ^ff0000^ 6 Sekunden lang an. ^oldclr^
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von Prinzessin Frühlingsgras erscheint, nutzt Prinzessin Frühlingsgras ihr lockiges Haar als Feder, um dem ersten getroffenen Zombie Schaden zuzufügen. Anschließend springt sie zufällig auf ein Gitter um den Zombie herum und bildet eine kleine Feder, die dem ersten Zombie, der darauf tritt, einen Rückstoßeffekt von einem Gitter verursacht. Der Effekt hat keinen Einfluss auf das Pflanzen und wird nur von Zombies ausgelöst.
@@ -77189,13 +77211,13 @@ Reduziert den Sonnenlichtverbrauch um 30%.
 Erhöht die Angriffsgeschwindigkeit um 10%.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNAPDRAGON_4]
-Feuerdrachengras-Jahr-des-Drachen-Kostüm
+Jahr-des-Drachen
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_2]
-Eisdrachengras-Jahr-des-Drachen-Kostüm
+Jahr-des-Drachen
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_2]
-Donnerdrachengras-Jahr-des-Drachen Kostüm
+Jahr-des-Drachen
 
 [STORE_CATEGORY_NAME_AVATARTICKET]
 Cosplay-Gutschein
@@ -78108,7 +78130,7 @@ Entdecker-Outfit
 Sonnenlichtverbrauch um 25% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ICEWEED_1]
-Eisstachel-Teufelshorn Outfit
+Teufelshorn
 
 [NEW_AVATAR_DESCRIPTION_ICEWEED_1]
 Angriffskraft um 20% erhöht
@@ -78474,7 +78496,7 @@ Echo-Mandragora-Goldener-Herbst-Kostüm
 Abklingzeit des Pflanzens um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAGONBRUIT_1]
-Tyrannen-Drachenfrucht-Weißbart-Kostüm
+Krachenfrucht-Weißbart-Kostüm
 
 [NEW_AVATAR_DESCRIPTION_DRAGONBRUIT_1]
 Angriffsgeschwindigkeit um 15% erhöht
@@ -78486,10 +78508,10 @@ Parasitäre Feen-Haarnadelbrillen-Outfit
 Reduziert den Sonnenlichtverbrauch um 20 Punkte
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_2]
-Dunkle Zwillingssonnenblume-Super-Outfit
+Dunkle Sonne
 
 [NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_2]
-Jedes Mal, wenn Sonnenlicht erzeugt wird, besteht eine 15% Chance, 100 Gold zu produzieren Münzen
+Jedes Mal, wenn Sonnenlicht erzeugt wird, besteht eine 15% Chance, 100 Goldmünzen zu produzieren
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POWERPLANT_1]
 Karotten-Superkleid
@@ -79214,7 +79236,7 @@ Holy Knight Fu Zi-Kostüm
 Schattenerbsen-Strohhut-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPULT_2]
-Truthahnkrug-Schnuller-Kostüm
+Truthahn-Katapult-Schnuller-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_1]
 Feuerfarn-Brillen-Kostüm
@@ -79395,7 +79417,7 @@ Sonne-Mond-Geißblatt-Winteroutfit
 Kaninchen-Pinguin-Outfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DAZEYCHAIN_1]
-Dizzy Daisy: Verwirrende Brille Outfit
+Verwirrende Brille
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEAPOD_1]
 Wandoujia 3D-Brillen-Outfit
@@ -79812,7 +79834,7 @@ Tägliches Willkommensgeschenk (0 Yuan): Juwelen * 15
 6 Yuan Wohlfahrtspaket: Juwelen * 180, 10 % Chance auf eine Schatzkiste mit fortgeschrittener Kostümung
 
 Optionale Kostümung für die Schatzkiste mit Primärkleidung: Nuss-Weihnachtskleid, Sonnenblumen-Halloweenkleid, Nuss-Halloweenkleid, Pulsgelbes Pfirsich-Halloweenkleid, Stahl-Erdspieß-Monokel, Maiskrug-Herrenanzug, Doppel-Sonnenblumenhut
-Optionale Kostümung für die Schatzkiste mit Zwischenkleidung: Truthahnkrug-Weihnachtskleid, Kristallorchideen-Weihnachtskleid, Eiswassermelonen-Clip-Fächer, Kokosnusshut, Frühlingsfestkleid mit großer Mundblume, Frühlingsfestkleid mit Gemüsefrage, Sonnenblumensängerin (Neu) Jahreskleid
+Optionale Kostümung für die Schatzkiste mit Zwischenkleidung: Truthahn-Katapult-Weihnachtskleid, Kristallorchideen-Weihnachtskleid, Eiswassermelonen-Clip-Fächer, Kokosnusshut, Frühlingsfestkleid mit großer Mundblume, Frühlingsfestkleid mit Gemüsefrage, Sonnenblumensängerin (Neu) Jahreskleid
 Erweiterte Kostüm-Schatzkiste (optional): Winterkleid mit Sonne und Mond, Weihnachtskleid mit Zitronensäure, Weihnachtskleid mit Maiskanone, Frühlingsfestkleid mit Erbsen, Kostüm mit Tigerpilzwachstum, Neujahrskleid mit Apfelmörser, Wasserkastanienbrüder-Tiger-Jahreskleid
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
