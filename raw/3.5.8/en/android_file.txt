@@ -19394,7 +19394,7 @@ ca=150|100|200|300|
 Wessen Kostüm aus der Erbsenfamilie kann keine Feuergeschosse abfeuern?
 
 [LANTERN_RIDDLES_ANSWER_1]
-ca=Erbsen-Shooter|Zwei-Wege-Shooter|Doppel-Shooter|Erbsenschote|
+ca=Erbsenkanone|Zwei-Wege-Shooter|Doppel-Shooter|Erbsenschote|
 [LANTERN_RIDDLES_2]
 Welche der folgenden Pflanzen ist kein Brillenkostüm?
 [LANTERN_RIDDLES_ANSWER_2]
@@ -20381,7 +20381,7 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {NPC_ENTER:crazydave}{SAY}Vor uns liegt ein Fasspirat-Zombie. Er ist sehr zäh und schwer zu besiegen.
 
 [NARRATIVE_PLANTTRIAL_REPEATER_INFO_2]
-{EXCITED:crazydave}{SAY}Probiere die neu eingetroffene Doppel-Shooter aus. Sie verursacht doppelt so viel Schaden wie die Erbsen-Shooter.
+{EXCITED:crazydave}{SAY}Probiere die neu eingetroffene Doppel-Shooter aus. Sie verursacht doppelt so viel Schaden wie die Erbsenkanone.
 
 [NARRATIVE_PLANTTRIAL_LIGHTNINGREED_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Der Hühnerzombie ist vorn. Wenn er stirbt, lässt er viele schnellflinke Hühner frei, die deine Formation schnell durchbrechen.
@@ -31666,7 +31666,7 @@ Sprengnuss
 Schieß mit brennenden Erbsen und erwärme Pflanzen in der Nähe!
 
 [PRODUCT_FIREPEA_NAME]
-Pflanzen – Flammender Erbsen-Shooter
+Pflanzen – Feuer Erbsenkanone
 
 [PRODUCT_FLASHSNOWPEA_DESCRIPTION]
 Verwende Eiserbsen, 50 Edelsteine und 5000 Goldmünzen, um die neue Herausforderung zu meistern!
@@ -39842,8 +39842,7 @@ Elektrizitätsverstärkung
 [ELECTRICITEA_SKILL_LEVEL2_DES]
 Erhöht die Wahrscheinlichkeit von Kettenstrom in Fertigkeit 2.
 
-[STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
-Elektrizitäts-Grüntee-Outfit
+[STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]Outfit
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA]
 Wenn die ultimative Fertigkeit einen Zombie trifft, erzeugt sie zusätzlich einen 3x3-fachen Lichtbogen, der zusätzlichen Schaden verursacht.
@@ -45459,7 +45458,7 @@ Defensivindex: ^00e46e 4 ^oldclr
 Gesamtstärke: ^00e46e 5 ^oldclr
 
 [PVZ_WORLDCUP_TEAM4_DES_5]
-^ffed86 Aufstellung ^oldclr: Erbsenmörser, Doppelkanone, Tannenzapfen, Maschinengewehr, Granatapfel
+^ffed86 Aufstellung ^oldclr: Schleudererbse, Doppelkanone, Tannenzapfen, Maschinengewehr, Granatapfel
 
 [PVZ_WORLDCUP_TEAM4_DES_6]
 
@@ -50489,7 +50488,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erd-Sägegras
 Orange Qualitätspflanzen 4: Helikonien-Maschinengewehrschütze, Eispilz, Starke Säure Zitrone, heißer Wasabi, Stachelbeere mit elektrischem Strom
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
@@ -50512,7 +50511,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erd-Sägegras
 Orange Qualitätspflanzen 4: Helikonien-Maschinengewehrschütze, Eispilz, Starke Säure Zitrone, heißer Wasabi, Stachelbeere mit elektrischem Strom
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Telefonmast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
@@ -50536,7 +50535,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erdsägegras
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
@@ -50559,7 +50558,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erdsägegras
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
 Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
@@ -50582,7 +50581,7 @@ Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpi
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
-Orange Qualitätspflanzen 2: Maschinengewehr-Erbsen-Shooter, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
+Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Acker-Sägegras
 Orange Qualitätspflanzen 4: Dunkler Nachtpilz, Kalter Eispilz, Starke Zitronensäure, Sengend Meerrettich, Elektrische Stachelbeere
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnlicher Medizinkasten, Gewöhnlicher Schneeflockenanhänger
@@ -75011,13 +75010,13 @@ Der Fertigkeitseffekt heißer Energie wird um 100% erhöht, und die Gesundheit w
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit freizusetzen.
 
 [HOTDATE_NEW_SKILL_LEVEL5_DES]
-Nach der Explosion des Hot Dates bleiben Funken auf dem Boden zurück, die 5 Sekunden lang anhalten und Zombies 300 Schaden pro Sekunde zufügen.
+Nach der Explosion der Heißen Dattel, bleiben Funken auf dem Boden zurück, die 5 Sekunden lang anhalten und Zombies 300 Schaden pro Sekunde zufügen.
 
 [HOTDATE_PLANTFOOD_DESCRIPTION]
-Das Hot Date springt fröhlich und zieht die umstehenden 3×3 Zombies an, sich ihm zu nähern. Dieser Effekt hält 6 Sekunden an.
+Die Heiße Dattel springt fröhlich und zieht die umstehenden 3×3 Zombies an, sich ihm zu nähern. Dieser Effekt hält 6 Sekunden an.
 
 [HOTDATE_AVATAR_PLANTFOOD_DESCRIPTION]
-Das Hot Date springt fröhlich und zieht die umstehenden 3×3 Zombies an, sich ihm zu nähern. Dieser Effekt hält 6 Sekunden an. ^ff0000^ Nach dem Ende erhältst du 3 Sekunden lang einen unbesiegbaren Schild. ^oldclr^
+Die Heiße Dattel springt fröhlich und zieht die umstehenden 3×3 Zombies an, sich ihm zu nähern. Dieser Effekt hält 6 Sekunden an. ^ff0000^ Nach dem Ende erhältst du 3 Sekunden lang einen unbesiegbaren Schild. ^oldclr^
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie 1 Feld weiter rechts erscheint, wechselt er in den roten Angriffszustand und feuert Musiknoten ab, um dem Zombie Schaden zuzufügen. Erscheint ein Zombie im Umkreis von 3×3 um den umgebenden Bereich, wechselt er in den gelben Heilungszustand und spielt Musik, um 100 Lebenspunkte der Pflanze wiederherzustellen.
@@ -75245,10 +75244,10 @@ Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähig
 Beim Angriff besteht eine 50%ige Chance, eine Bombenerbse abzufeuern, die einem einzelnen Zombie 1500 Schaden zufügt.
 
 [SLINGPEA_PLANTFOOD_DESCRIPTION]
-Der Erbsenmörser feuert drei Salven Flammenerbsengranaten hintereinander ab und fügt Zombies Schaden zu.
+Der Schleudererbse feuert drei Salven Flammenerbsengranaten hintereinander ab und fügt Zombies Schaden zu.
 
 [SLINGPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Erbsenmörser feuert drei Salven brennender Erbsengranaten hintereinander ab und fügt Zombies Schaden zu. ^ff0000^ Jede Salve hat eine 50%ige Chance, in eine blaue brennende Erbsengranatengranat zu verwandeln, was den Schaden verdoppelt. ^oldclr^
+Der Schleudererbse feuert drei Salven brennender Erbsengranaten hintereinander ab und fügt Zombies Schaden zu. ^ff0000^ Jede Salve hat eine 50%ige Chance, in eine blaue brennende Erbsengranatengranat zu verwandeln, was den Schaden verdoppelt. ^oldclr^
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie im 2×3-Bereich rechts vom Donnerdrachengras erscheint, spuckt er einen Blitzball aus, der den Zombies im 2×3-Bereich nach dem Treffer 100 Punkte Streuung zufügt. Es besteht eine 50%ige Chance, den Zombie^ff9600^ für 1^oldclr^1 Sekunde zu lähmen.
@@ -75335,7 +75334,7 @@ Der Wachsmelonenwächter springt dreimal hintereinander. Beim ersten Mal schockt
 Der Wachsmelonenwächter springt dreimal hintereinander hoch. Beim ersten Mal springt er die Zombies ein Feld nach rechts hoch, beim zweiten Mal die umliegenden 3×3 Zombies und beim dritten Mal stößt er die Zombies ein Feld zurück. ^ff0000^ Jedes Mal wird zusätzlicher Reichweitenschaden verursacht. ^oldclr^
 
 [ELECTRICITEA_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie im Umkreis von 3×3 um Electric Green Tea erscheint, schießt er Blitze ab, die allen Zombies im Umkreis von 3×3 Schaden zufügen. Nachdem er von einem Zombie gefressen wurde, schießt er ebenfalls Blitze ab, die den Zombie sofort töten, und erzeugt eine Gewitterwolke, die Kettenblitze auslöst.
+Wenn ein Zombie im Umkreis von 3×3 um Elektrizi-Teeblatt erscheint, schießt er Blitze ab, die allen Zombies im Umkreis von 3×3 Schaden zufügen. Nachdem er von einem Zombie gefressen wurde, schießt er ebenfalls Blitze ab, die den Zombie sofort töten, und erzeugt eine Gewitterwolke, die Kettenblitze auslöst.
 
 [ELECTRICITEA_NEW_SKILL_LEVEL2_DES]
 Beim Angriff besteht eine 45%ige Chance, dass der Zombie mit Elektrizität aufgeladen wird, die zufällig auf andere Zombies im Umkreis von 3×3 um ihn herum übertragen wird. Maximal zwei Zombies können ausgestoßen werden.
@@ -75350,10 +75349,10 @@ Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt
 Beim Angriff besteht eine 20%ige Chance, einen roten Hochenergieblitz mit 150 Schaden auszulösen, der alle Zombies in Angriffsreichweite für ^ff9600^Ⅰ^oldclr^3 Sekunden lähmt.
 
 [ELECTRICITEA_PLANTFOOD_DESCRIPTION]
-Elektrischer Grüntee ist voller Elektrizität und feuert zufällig fünf elektrische Ströme auf Zombies auf dem Feld ab, die Blitzschaden verursachen.
+Elektrizi-Teeblatt ist voller Elektrizität und feuert zufällig fünf elektrische Ströme auf Zombies auf dem Feld ab, die Blitzschaden verursachen.
 
 [ELECTRICITEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Elektrischer Tee ist voller Elektrizität und feuert fünf elektrische Ströme auf zufällige Zombies auf dem Feld ab. Er verursacht Blitzschaden^ff0000^ und Lichtbogenschaden im Bereich von 3×3. ^oldclr^
+Elektrizi-Teeblatt ist voller Elektrizität und feuert fünf elektrische Ströme auf zufällige Zombies auf dem Feld ab. Er verursacht Blitzschaden^ff0000^ und Lichtbogenschaden im Bereich von 3×3. ^oldclr^
 
 [IMPPEAR_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie eine gelbe Birne isst, verwandelt er sich in einen Wicht-Zombie. Ist er bereits ein Wicht-Zombie, erleidet er Schaden und setzt Giftgas frei, das die Zombies dahinter^848484^für Ⅰ^oldclr^7 Sekunden betäubt. Wirkt maximal bei Zombies der Stufe 2.
@@ -77566,10 +77565,10 @@ Fächerherzblatt-Orchideen-Schnellkleid
 Favabohnen-Kommando-Schnellkleid
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SQUASH_2]
-Nest Melonen-Speeder-Anziehspiel
+Speeder
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_3]
-Erbsen-Shooter-Speeder-Anziehspiel
+Speeder
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_1]
 Zitteraal-Bananen-Party-Booster-Anziehspiel
@@ -78245,7 +78244,7 @@ Auf Stufe 2 kannst du dich mit der normalen Erbsenkanone und der Gift-Erbsenkano
 Verbesserte Verbindung
 
 [SEASHOOTER_SKILL_LEVEL2_DES]
-Auf Stufe 3 kannst du dich mit dem Erbsenmörser verbinden.
+Auf Stufe 3 kannst du dich mit dem Schleudererbse verbinden.
 
 [SEASHOOTER_SKILL_LEVEL5]
 Entfesseltes Potenzial
@@ -78269,7 +78268,7 @@ Schießt Projektile in drei Richtungen, um Zombies anzugreifen. Mit der Speziald
 Stufe 2 kann mit normalen Erbsenkanonen und Gifterbsenkanonen synergistisch wirken.
 
 [SEASHOOTER_NEW_SKILL_LEVEL3_DES]
-Stufe 3 kann mit Erbsenmörsern synergieren.
+Stufe 3 kann mit Schleudererbsen synergieren.
 
 [SEASHOOTER_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht eine mittlere Chance, dass die Spezialdünger-Fähigkeit sofort aktiviert wird.
