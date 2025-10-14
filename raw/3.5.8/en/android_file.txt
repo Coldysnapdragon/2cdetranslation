@@ -8368,7 +8368,7 @@ Feuererbsen greifen Zombies vor sich an und erwärmen umliegende Pflanzen.
 Ofenkartoffeln schmelzen gefrorenes Eis.
 
 [CHARDGUARD_PRODUCT_SHORT_DESC]
-Rübenwächter stoßen Zombies ab und blockieren ihren Vormarsch.
+Mangold-Mangler stoßen Zombies ab und blockieren ihren Vormarsch.
 
 [STUNION_PRODUCT_SHORT_DESC]
 Zwirbeln machen Zombies bewegungsunfähig.
@@ -9574,7 +9574,7 @@ Ofenkartoffel-Plus-Kostüm der ersten Stufe Kostüm
 Paprikatapult (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_CHARDGUARD_LV0_SUCCEED_CONTENT]
-Rübenwächter (1. Stufe) plus Kostüm
+Mangold-Mangler (1. Stufe) plus Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_STUNION_LV0_SUCCEED_CONTENT]
 Zwierbel (1. Stufe) + Kostüm
@@ -9902,7 +9902,7 @@ Ofenkartoffel (Level 3)
 Paprikatapult (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_PEPPERPULT_LV3_SUCCEED_CONTENT] HARGE_CHARDGUARD_LV3_SUCCEED_CONTENT]
-Rübenwächter (Level 3)
+Mangold-Mangler (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_STUNION_LV3_SUCCEED_CONTENT]
 Betäubung (Level 3) Zwiebel
@@ -14357,7 +14357,7 @@ Ermöglicht dem Pfefferwerfer, Irrlichtpfeffer abzufeuern und so höheren Schade
 Regeneration
 
 [CHARDGUARD_SKILL_LEVEL1_DES]
-Ermöglicht dem Rübenwächter, seine abgefallenen Blätter wiederherzustellen.
+Ermöglicht dem Mangold-Mangler, seine abgefallenen Blätter wiederherzustellen.
 
 [CHARDGUARD_SKILL_LEVEL2]
 Schnelle Erholung
@@ -27835,10 +27835,10 @@ Besiege die Eiszombies in diesem andauernden Kampf auf dem Gletscher und gewinne
 Schalte das gefrorene Schlachtfeld frei!
 
 [FINISH_ICEAGE_26_DESC]
-Die Spinnende Rübe fliegt, schwebt und feuert in alle vier Richtungen – einfach unglaublich! Schließe Eiswelt Tag 26 ab!
+Die Rotorübe fliegt, schwebt und feuert in alle vier Richtungen – einfach unglaublich! Schließe Eiswelt Tag 26 ab!
 
 [FINISH_ICEAGE_26_TITLE]
-Schalte die Spinnende Rübe frei!
+Schalte die Rotorübe frei!
 
 [FINISH_ICEAGE_30_DESC]
 Besiege den verdorbenen Dr. Zomboss in diesem eisigen Kampf an Eiswelt Tag 30 und gewinne Beute!
@@ -50485,7 +50485,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 7. Einige Level- und Glücksrad-Belohnungen kannst du selbst auswählen. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Mangold-Mangler
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
@@ -50508,7 +50508,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Mangold-Mangler
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Prunkwinde, Elektrische Stachelbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
@@ -50532,7 +50532,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Mangold-Mangler
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
@@ -50555,7 +50555,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Mangold-Mangler
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
@@ -50578,7 +50578,7 @@ Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
-Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Rübenwächter
+Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Mangold-Mangler
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
 Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
@@ -73366,19 +73366,19 @@ Das Paprikatapult verwandelt sich in eine Paprikakanone und wirft drei große Pa
 Das Paprikatapult verwandelt sich in eine Paprikakanone^ff0000^ und verschießt 4^oldclr^ große Paprikaschoten mit dem 8-fachen Schaden seiner eigenen Angriffskraft.
 
 [CHARDGUARD_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie ein Feld rechts vom Rübenwächter erscheint, legt sich der Rübenwächter auf den Boden und wartet auf den Zombie. Tritt ein Zombie auf die Blätter des Rübenwächters, werden alle Zombies auf den Blättern drei Felder zurückgeworfen.
+Wenn ein Zombie ein Feld rechts vom Mangold-Mangler erscheint, legt sich der Mangold-Mangler auf den Boden und wartet auf den Zombie. Tritt ein Zombie auf die Blätter des Mangold-Manglers, werden alle Zombies auf den Blättern drei Felder zurückgeworfen.
 
 [CHARDGUARD_NEW_SKILL_LEVEL2_DES]
-Die Blätter des Rübenwächters wachsen alle 60 Sekunden nach.
+Die Blätter des Mangold-Manglers wachsen alle 60 Sekunden nach.
 
 [CHARDGUARD_NEW_SKILL_LEVEL3_DES]
-Die Blätter des Rübenwächters wachsen alle 40 Sekunden nach.
+Die Blätter des Mangold-Manglers wachsen alle 40 Sekunden nach.
 
 [CHARDGUARD_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [CHARDGUARD_NEW_SKILL_LEVEL5_DES]
-Von Mangold-Mangler abgewehrte Zombies werden nach der Landung 2 Sekunden lang betäubt.
+Vom Mangold-Mangler abgewehrte Zombies werden nach der Landung 2 Sekunden lang betäubt.
 
 [CHARDGUARD_PLANTFOOD_DESCRIPTION]
 Mangold-Mangler öffnet seine Blätter, um Zombies in einem 3×3 großen Bereich um das rechte Feld von ihm selbst (3 Felder entfernt) zurückzustoßen. Dadurch wird Schaden verursacht und anschließend werden alle Blätter wiederhergestellt.
@@ -73405,22 +73405,22 @@ Die Zwierbel springt vom Boden hoch und setzt ein immobilisierendes Gas frei, da
 Die Zwierbel springt vom Boden hoch und setzt ein stabilisierendes Gas frei, das Zombies im ^ff0000^3×5-Bereich rechts 18 Sekunden lang stabilisiert. ^oldclr^
 
 [XSHOT_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie diagonal auf der Rübe erscheint, feuert die Rübe drei Rapssalven gleichzeitig in vier Richtungen ab.
+Wenn ein Zombie diagonal von der Rotorübe erscheint, feuert die Rotorübe drei salven gleichzeitig in vier Richtungen ab.
 
 [XSHOT_NEW_SKILL_LEVEL2_DES]
-Die Rübe hat eine Chance von 25%, Projektile mit dem doppelten Schaden ihrer eigenen Angriffskraft abzufeuern.
+Die Rotorübe hat eine Chance von 25%, Projektile mit dem doppelten Schaden ihrer normalen Angriffskraft abzufeuern.
 
 [XSHOT_NEW_SKILL_LEVEL3_DES]
-Die Rübe hat eine Chance von 50%, Projektile mit dem doppelten Schaden ihrer eigenen Angriffskraft abzufeuern.
+Die Rotorübe hat eine Chance von 50%, Projektile mit dem doppelten Schaden ihrer normalen Angriffskraft abzufeuern.
 
 [XSHOT_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [XSHOT_PLANTFOOD_DESCRIPTION]
-Die Spinnende Rübe feuert 14 Projektile gleichzeitig in vier Richtungen ab und hat eine siebenfache Angriffskraft.
+Feuert 14 Projektile gleichzeitig in vier Richtungen ab und hat eine siebenfache Angriffskraft.
 
 [XSHOT_AVATAR_PLANTFOOD_DESCRIPTION]
-Wirf die Rübe und feuere 14 Projektile in vier Richtungen ab. Die Angriffskraft beträgt das Zehnfache der eigenen Angriffskraft. ^oldclr^
+Feuert 14 Projektile in vier Richtungen ab. Die Angriffskraft beträgt das Zehnfache der normalen Angriffe. ^oldclr^
 
 [RAFFLESIA_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts von Rafflesia erscheint, erzeugt Rafflesia eine Blase und zielt auf den letzten Zombie in der Reihe. Sobald die Blase explodiert, fügt sie Zombies im Umkreis von 2×1 Schaden zu.
