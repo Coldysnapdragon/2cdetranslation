@@ -10378,7 +10378,7 @@ Sammle alle Sterne, um eine neue Pflanze zu erhalten!
 Du hast diese Pflanze bereits? Erhalte die gleiche Anzahl an Stücken.
 
 [NOTICE_JOIN]
-Nehme am Event teil.
+Öffnen
 
 [NOTICE_CONTENT_FIRST]
 Liebe Spieler:
@@ -50457,7 +50457,7 @@ Wähle eines von fünf Super-Anhängerfragmenten.
 Erhalte mindestens {NUM} Belohnungen.
 
 [GOTO_ACTIVITY]
-Nehme am Event teil.
+Öffnen
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_AUTUMN]
 Beschreibung des Goldenen Herbstausflugs
@@ -80898,4 +80898,4 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]
+[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]
