@@ -44831,7 +44831,7 @@ Angemeldet seit: {NUMBER} Tagen
 Die Erfahrungskarte ist abgelaufen. Möchtest du diese Pflanze kaufen?
 
 [NEWER_PRESENT_FIRSTRECHARGE_TITLE]
-Geschenkpaket für die erste Aufladung
+Geschenkpaket
 
 [NEWER_PRESENT_FIRSTRECHARGE_DES]
 Mit der ersten Aufladung von ^00FF00 2 Yuan ^oldclr erhältst du Juwelen und das Geschenkpaket für die erste Aufladung! (Insgesamt können ^00FF00 155 Juwelen ^oldclr erhalten werden. Oh!)
@@ -58859,7 +58859,7 @@ Penny-Jagd Belohnung
 Für die Beschwörung geheimer Schätze
 
 [MAT_SECRET_GACHA_TICKET_GOT_WAY]
-Geschenkpaket für die erste Ladung
+Geschenkpaket
 
 [MAT_LIMITLOTTERY_CRYSTAL_USE]
 Für die zeitlich begrenzte Schatzsuche-Lotterie
