@@ -107,7 +107,7 @@ Sammle alle mysteriösen ägyptischen Sterne.
 König-Tut-Nuss
 
 [ACHIEVE_FRIED_CHICKEN_DESC]
-Benutze Blitzrohr für Zombiehuhn.
+Benutze Blitzschilf für Zombiehuhn.
 
 [ACHIEVE_FRIED_CHICKEN_TITLE]
 Gebratenes Huhn
@@ -173,10 +173,10 @@ Holt alle Piratensterne.
 Piratenschatz
 
 [ACHIEVE_POD_SQUAD_DESC]
-Pflanze eine volle Erbsenschote auf einer Lore.
+Pflanze eine volle Erbsenhülse auf einer Lore.
 
 [ACHIEVE_POD_SQUAD_TITLE]
-Erbsenschoten-Taktiken
+Erbsenhülsen-Taktiken
 
 [ACHIEVE_SASQUASH_DESC]
 Wirf den Schneemann um!
@@ -5420,13 +5420,13 @@ Bildet Netzwerke, um mehr Laserblitze abzufeuern.
 Superladung
 
 [POWERVINE_SKILL_LEVEL1_DES]
-Elektrische Ranken haben eine Chance von 5%, ein Spezialgeschoss abzufeuern, das die darüber liegenden elektrischen Pflanzen stärkt.
+die Powerranke hat eine Chance von 5%, ein Spezialgeschoss abzufeuern, das die darüber liegenden elektrischen Pflanzen stärkt.
 
 [POWERVINE_SKILL_LEVEL2]
 Stärkungsladung
 
 [POWERVINE_SKILL_LEVEL2_DES]
-Elektrische Ranken haben eine Chance von 10%, ein Spezialgeschoss abzufeuern, das die darüber liegenden elektrischen Pflanzen stärkt.
+die Powerranke hat eine Chance von 10%, ein Spezialgeschoss abzufeuern, das die darüber liegenden elektrischen Pflanzen stärkt.
 
 [POWERVINE_SKILL_LEVEL5]
 Lähmungsgeschoss
@@ -5435,22 +5435,22 @@ Lähmungsgeschoss
 Nach jeweils zwei Angriffsrunden feuert die nächste Angriffsrunde ein zusätzliches Lähmungsgeschoss ab, das dem getroffenen Gegner 0,5 Sekunden lang Lähmung zufügt.
 
 [STORE_PRODUCT_AVATAR_POWERVINE_TITLE]
-Elektrisches Rankenkostüm
+Gelbe Brille
 
 [POWERVINE_AVATAR_NAME]
-Elektrisches Rankenkostüm
+Gelbe Brille
 
 [STORE_PRODUCT_AVATAR_POWERVINE]
 Die durch die Spezialdünger-Fähigkeit abgefeuerten elektrischen Projektile werden durchdringend.
 
 [POWERVINE_NEW_SKILL_LEVEL1_DES]
-Elektrische Ranken können schnell Projektile abfeuern, um Zombies anzugreifen. Befinden sich elektrische Ranken in der Nähe, werden sie verstärkt und feuern im verstärkten Zustand 3 Projektile pro Runde ab.
+die Powerranke können schnell Projektile abfeuern, um Zombies anzugreifen. Befinden sich die Powerranke in der Nähe, werden sie verstärkt und feuern im verstärkten Zustand 3 Projektile pro Runde ab.
 
 [POWERVINE_NEW_SKILL_LEVEL2_DES]
-Elektrische Ranken haben eine 5%ige Chance, eine spezielle Projektil abzufeuern, die den Verstärkungseffekt der oben genannten elektrischen Pflanzen verstärkt. Der normale Angriff der Pflanzen unter dem verstärkten Effekt feuert zwei Projektile ab.
+die Powerranke hat eine 5%ige Chance, ein spezielles Projektil abzufeuern, dass den Verstärkungseffekt der oben genannten elektrischen Pflanzen verstärkt. Der normale Angriff der Pflanzen unter dem verstärkten Effekt feuert zwei Projektile ab.
 
 [POWERVINE_NEW_SKILL_LEVEL3_DES]
-Elektrische Ranken haben eine 10%ige Chance, ein Spezialgeschoss abzufeuern, das die darüberliegende elektrische Pflanze verstärkt. Wenn die Ranke verstärkt ist, feuert die Pflanze zwei Projektile ab.
+die Powerranke hat eine 10%ige Chance, ein Spezialgeschoss abzufeuern, das die darüberliegende elektrische Pflanze verstärkt. Wenn die Ranke verstärkt ist, feuert die Pflanze zwei Projektile ab.
 
 [POWERVINE_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
@@ -9328,7 +9328,7 @@ Der Aktivierungscode wurde erfolgreich eingegeben. Du hast die Stufe und das Kos
 Die Eingabe des Aktivierungscodes war erfolgreich. Du hast die Stufe und das Kostüm des Fackelstumpfs ({LEVEL_NUMBER}) wiederhergestellt.
 
 [GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_AVATAR_LEVEL_SUCCEED_CONTENT]
-Der Aktivierungscode wurde erfolgreich eingegeben. Du hast die Stufe und das Kostüm des Blitzrohrs ({LEVEL_NUMBER}) wiederhergestellt. Kostüm
+Der Aktivierungscode wurde erfolgreich eingegeben. Du hast die Stufe und das Kostüm des Blitzschilfs ({LEVEL_NUMBER}) wiederhergestellt. Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_BONKCHOY_AVATAR_LEVEL_SUCCEED_CONTENT]
 Der Aktivierungscode wurde erfolgreich eingegeben. Sie haben die Stufe {LEVEL_NUMBER} des Gemüsefrage-Kostüms und das Kostüm wiederhergestellt.
@@ -9400,7 +9400,7 @@ Kohlkrug der ersten Stufe mit Kostüm
 Eis-Shooter der ersten Stufe mit Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_KERNELPULT_LV0_SUCCEED_CONTENT]
-Maiskrug der ersten Stufe mit Kostüm
+Kornapult der ersten Stufe mit Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_POWERLILY_LV0_SUCCEED_CONTENT]
 Energieblume der ersten Stufe + Kostüm
@@ -9415,7 +9415,7 @@ Spike der ersten Stufe + Kostüm
 Kokosnusskanone der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_LV0_SUCCEED_CONTENT]
-Blitzrohr der ersten Stufe + Kostüm
+Blitzschilf der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV0_SUCCEED_CONTENT]
 Stachelstein der ersten Stufe + Kostüm
@@ -9424,7 +9424,7 @@ Stachelstein der ersten Stufe + Kostüm
 Kokosnusskanone der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_LIGHTNINGREED_LV0_SUCCEED_CONTENT]
-Blitzrohr der ersten Stufe + Kostüm
+Blitzschilf der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV0_SUCCEED_CONTENT]
 Stahlstachel der ersten Stufe + Kostüm
@@ -9439,7 +9439,7 @@ Frühlingsbohne der ersten Stufe mit Zusätzliche Dekoration
 Melonapult der ersten Stufe mit zusätzlicher Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_PEAPOD_LV0_SUCCEED_CONTENT]
-Erbsenschote der ersten Stufe mit zusätzlicher Dekoration
+Erbsenhülse der ersten Stufe mit zusätzlicher Dekoration
 
 [GEMS_RESTORE_CODE_RECHARGE_WINTERMELON_LV0_SUCCEED_CONTENT]
 Eiswassermelonenkrug der ersten Stufe mit zusätzlicher Dekoration
@@ -9730,7 +9730,7 @@ Kohl (Level 3) Krug
 Eiswerfer, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_KERNELPULT_LV3_SUCCEED_CONTENT]
-Maiskrug, Stufe 3
+Kornapult, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_POWERLILY_LV3_SUCCEED_CONTENT]
 Energieblume, Stufe 3
@@ -9745,7 +9745,7 @@ Erde, Stufe 3 Stachel
 Kokosnusskanone, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_COCONUTCANNON_LV3_SUCCEED_CONTENT] CHARGE_LIGHTNINGREED_LV3_SUCCEED_CONTENT]
-Blitzrohr, Stufe 3
+Blitzschilf, Stufe 3
 
 [GEMS_RESTORE_CODE_RECHARGE_SPIKEROCK_LV3_SUCCEED_CONTENT]
 Stahlstachel, Stufe 3
@@ -9760,7 +9760,7 @@ Feder, Stufe 3 Bohne
 Melonapult (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_PEAPOD_LV3_SUCCEED_CONTENT]
-Erbsenschote (Level 3)
+Erbsenhülse (Level 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_WINTERMELON_LV3_SUCCEED_CONTENT]
 Eiswassermelonenkrug (Level 3)
@@ -10279,7 +10279,7 @@ Du hast
 ^00e46e 10000 Gold
 
 [LOTTERY_RESULT_7]
-^00e46e Erbsenschotenfragment
+^00e46e Erbsenhülsenfragment
 
 [LOTTERY_RESULT_8]
 ^00e46e Kokosnusskanonenfragment
@@ -10428,12 +10428,12 @@ Freundliche Erinnerung: Denkt daran, zuerst die Pflanze zu besorgen, bevor ihr d
 
 [Jeden Tag ein besonderes Geschenkpaket]
 1. Mai: Eiswassermelone + Große Nüsse
-2. Mai: Doppelschützen-^ff0000^ Kostüm ^oldclr^ + Pack Choi-^ff0000^ Kostüm ^oldclr^
+2. Mai: Duplinatorn-^ff0000^ Kostüm ^oldclr^ + Pack Choi-^ff0000^ Kostüm ^oldclr^
 3. Mai: Kokosnusskanone + Kokosnusskanone-^ff0000^ Kostüm ^oldclr^
-4. Mai: Erbsenschote + Erbsenschote-^ff0000^ Kostüm ^oldclr^
-5. Mai: Blitzrohr + Fackelstumpf
+4. Mai: Erbsenhülse + Erbsenhülse-^ff0000^ Kostüm ^oldclr^
+5. Mai: Blitzschilf + Fackelstumpf
 6. Mai: Feuerkürbis + Feenpfirsich
-7. Mai: Maiskrug + Maiskrug ^ff0000^ Outfit ^oldclr^
+7. Mai: Kornapult + Kornapult ^ff0000^ Outfit ^oldclr^
 
 Die supergünstigen Kombinations-Geschenkpakete wechseln täglich, und die zeitlich begrenzten Geschenkpakete warten auf dich!
 
@@ -10671,10 +10671,10 @@ Kung-Fu-Zweiteiler
 Mais-Set
 
 [STORE_GIFT_LUXURY_GIFT_DESC]
-Enthält Eiswassermelone, Aubergine, Kokosnusskanone, Blitzrohr, Stahlstacheln und hohe Nüsse.
+Enthält Eiswassermelone, Aubergine, Kokosnusskanone, Blitzschilf, Stahlstacheln und hohe Nüsse.
 
 [STORE_GIFT_ONSALE_GIFT_DESC]
-Enthält Eiswassermelone, Blitzrohr und hohe Nüsse.
+Enthält Eiswassermelone, Blitzschilf und hohe Nüsse.
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT_DESC]
 Eisburger-Outfit
@@ -10707,7 +10707,7 @@ Eiswassermelone + Große Nüsse
 ^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_TWO_GIFT_DESC]
-Doppelschützenkostüm + Nawen-Kostüm
+Duplinatornkostüm + Nawen-Kostüm
 ^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_THREE_GIFT_DESC]
@@ -10715,7 +10715,7 @@ Kokosnusskanone + Kokosnusskanonenkostüm
 ^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_FOUR_GIFT_DESC]
-Erbsenschote + Erbsenschote-Kostüm
+Erbsenhülse + Erbsenhülse-Kostüm
 ^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_FIVE_GIFT_DESC]
@@ -10727,7 +10727,7 @@ Feuerkürbis + Feenpfirsich
 ^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_LABORDAY_SEVEN_GIFT_DESC]
-Maiskrug + Maiskrugkostüm
+Kornapult + Kornapultkostüm
 ^009900 (Nur heute)^oldclr
 
 [STORE_GIFT_DIALOG_TITLE_BUY_IT]
@@ -11014,7 +11014,7 @@ Wandoujia-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_PEAPOD_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
-Fortgeschrittene Erbsenschote und Kostüm
+Fortgeschrittene Erbsenhülse und Kostüm
 
 [STORE_GIFT_LABORDAY_MELONPULT_GIFT]
 Melonapult-Geschenkpaket
@@ -11042,14 +11042,14 @@ Schilf-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich 6.20–6.30 Uhr ^oldclr
-Fortgeschrittenes Blitzrohr und Kostüm
+Fortgeschrittenes Blitzschilf und Kostüm
 
 [STORE_GIFT_LABORDAY_KERNELPULT_GIFT]
 Kornapult-Geschenkpaket
 
 [STORE_GIFT_LABORDAY_KERNELPULT_GIFT_DESC]
 ^009900 Nur für kurze Zeit erhältlich (ab sofort bis 16.9.)
-Fortschrittlicher Maiskrug und Kostüm
+Fortschrittlicher Kornapult und Kostüm
 
 [STORE_GIFT_LABORDAY_TORCHWOOD_GIFT]
 Baumstumpf-Geschenkpaket
@@ -11190,7 +11190,7 @@ Du hast bereits ^00FF00%d/%d^oldclr ^00FF00%s^oldclr und ^00FF00%d/%d^oldclr ^00
 Du besitzt bereits ^00FF00%s^oldclr und ^00FF00%d/%d^oldclr von ^00FF00%s^oldclr. Du erhältst das Geschenkpaket zum Originalpreis von ^00FF00%d Juwelen^oldclr für nur ^00FF00%d Juwelen^oldclr!
 
 [REPEATER_AVATAR_NAME]
-Doppelschützen-Outfit
+Duplinatorn-Outfit
 
 [BONKCHOY_AVATAR_NAME]
 Naiwen-Outfit
@@ -11199,7 +11199,7 @@ Naiwen-Outfit
 Kokosnusskanonen-Outfit
 
 [PEAPOD_AVATAR_NAME]
-Erbsenschoten-Outfit
+Erbsenhülsen-Outfit
 
 [SPIKEWEED_AVATAR_NAME]
 Stachel-Outfit
@@ -11333,12 +11333,12 @@ Aktivitätszeit und gesammelte Aufladeprivilegien verdoppeln sich! Hol dir vierf
 [STORE_GIFT_LUXURY_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Supreme Invincible Geschenkpaket!
 
-Das Geschenkpaket enthält Eiswassermelone, Transformierte Aubergine, Kokosnusskanone, Blitzrohr, Stahl-Erdspieß und Hohe Nüsse.
+Das Geschenkpaket enthält Eiswassermelone, Transformierte Aubergine, Kokosnusskanone, Blitzschilf, Stahl-Erdspieß und Hohe Nüsse.
 
 [STORE_GIFT_ONSALE_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Weihnachtsgeschenkpaket!
 
-Das Geschenkpaket enthält Eiswassermelone, Blitzrohr und Hohe Nüsse für Anfänger.
+Das Geschenkpaket enthält Eiswassermelone, Blitzschilf und Hohe Nüsse für Anfänger.
 
 [STORE_GIFT_LABORDAY_ICEBURG_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Eisburger-Ankleidepaket!
@@ -11355,7 +11355,7 @@ Das Paket enthält Eiswassermelone und hohe Nüsse.
 
 [STORE_GIFT_LABORDAY_TWO_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum zweiteiligen „Gute Bewertungen“-Ankleidepaket!
-Das Paket enthält die Doppelschützen-Anziehsachen und die Pack Choi-Anziehsachen.
+Das Paket enthält die Duplinatorn-Anziehsachen und die Pack Choi-Anziehsachen.
 
 [STORE_GIFT_LABORDAY_THREE_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Kanonenpaket!
@@ -11363,11 +11363,11 @@ Das Paket enthält die Kokosnusskanone und das Kokosnusskanonenkostüm.
 
 [STORE_GIFT_LABORDAY_FOUR_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Erbsenpaket!
-Das Paket enthält die Erbsenschote und das Erbsenschotekostüm.
+Das Paket enthält die Erbsenhülse und das Erbsenhülsekostüm.
 
 [STORE_GIFT_LABORDAY_FIVE_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Hühner- und Feuerpaket!
-Das Paket enthält das Blitzrohr und den Fackelstumpf.
+Das Paket enthält das Blitzschilf und den Fackelstumpf.
 
 [STORE_GIFT_LABORDAY_SIX_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch zum Kung-Fu-Pflanzen-Zweiteiler!
@@ -11375,7 +11375,7 @@ Das Paket enthält den Feuerkürbis und den Feenpfirsich.
 
 [STORE_GIFT_LABORDAY_SEVEN_GIFT_BUY_FINISH]
 Herzlichen Glückwunsch! Du hast das Maispaket erhalten!
-Das Paket enthält einen Maiskrug und ein Maiskrugkostüm.
+Das Paket enthält einen Kornapult und ein Kornapultkostüm.
 
 [STORE_SALE_ALL_GIFT]
 Du hast alle Geschenkpakete dieser Ausgabe gekauft!
@@ -12926,16 +12926,16 @@ Kleine Nuss-Kostümfragment
 Große Nuss-Kostümfragment
 
 [AVATAR_PIECE_OF_REPEATER]
-Doppelschützen-Kostümfragment
+Duplinatorn-Kostümfragment
 
 [AVATAR_PIECE_OF_KERNELPULT]
-Maiskrug-Kostümfragment
+Kornapult-Kostümfragment
 
 [AVATAR_PIECE_OF_COCONUTCANNON]
 Kokosnusskanonen-Kostümfragment
 
 [AVATAR_PIECE_OF_PEAPOD]
-Erbsenschoten-Kostümfragment
+Erbsenhülsen-Kostümfragment
 
 [AVATAR_PIECE_OF_BONKCHOY]
 Pack Choi-Kostümfragment
@@ -12974,7 +12974,7 @@ Kleine Nuss Kostüm
 Großes Nusskostüm
 
 [STORE_PRODUCT_AVATAR_REPEATER_TITLE]
-Doppelschützenkostüm
+Duplinatornkostüm
 
 [STORE_PRODUCT_AVATAR_KERNELPULT_TITLE]
 Kornapult Kostüm
@@ -13230,10 +13230,10 @@ Luxuskleid ^FF3300 Doppel-Shooter + Pack Choi ^oldclr Heute ^FF3300 30 % Rabatt 
 ^FF3300 Kokosnusskanonenpflanze + Kostüm ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Lasst die Muscheln fliegen!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_4]
-^FF3300 Erbsenschotenpflanze + Kostüm ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Erbsenmeer ist kein Traum!
+^FF3300 Erbsenhülsenpflanze + Kostüm ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Erbsenmeer ist kein Traum!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_5]
-^FF3300 Blitzrohr + Fackelstumpf^oldclr Heute^FF3300 60 % Rabatt^oldclr Verpackt zum Verkauf. Töte Hühner und lege gleichzeitig Feuer!
+^FF3300 Blitzschilf + Fackelstumpf^oldclr Heute^FF3300 60 % Rabatt^oldclr Verpackt zum Verkauf. Töte Hühner und lege gleichzeitig Feuer!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_6]
 Beliebte Pflanzen aus der Kung-Fu-Welt^FF3300 Feuerkürbis + Feenpfirsich^oldclr Heute^FF3300 60 % Rabatt^oldclr Verpackt zum Verkauf. Chinesischer Stil genügt!
@@ -16639,7 +16639,7 @@ Kokosnuss-Kanonen-Fragment erhalten
 Mais Fragment
 
 [BONUS_CARD_PIECE_KERNELPULT_DESCRIPTION]
-Maiskrug-Fragment erhalten
+Kornapult-Fragment erhalten
 
 [BONUS_CARD_PIECE_LIGHTNINGREED]
 Schilf-Fragment
@@ -16690,13 +16690,13 @@ Wassermelonen-Krug Fragmente
 Melonapultfragmente erhalten
 
 [BONUS_CARD_PIECE_PEAPOD]
-Erbsenschotenfragmente
+Erbsenhülsenfragmente
 
 [BONUS_CARD_PIECE_PEAPOD_DESCRIPTION]
-Erbsenschotenfragmente erhalten
+Erbsenhülsenfragmente erhalten
 
 [BONUS_CARD_PIECE_PEAPOD_DESCRIPTION]
-Erbsenschotenfragmente erhalten
+Erbsenhülsenfragmente erhalten
 
 [BONUS_CARD_PIECE_IMITATER]
 Auberginenfragment
@@ -19394,7 +19394,7 @@ ca=150|100|200|300|
 Wessen Kostüm aus der Erbsenfamilie kann keine Feuergeschosse abfeuern?
 
 [LANTERN_RIDDLES_ANSWER_1]
-ca=Erbsenkanone|Zwei-Wege-Shooter|Doppel-Shooter|Erbsenschote|
+ca=Erbsenkanone|Zwei-Wege-Shooter|Doppel-Shooter|Erbsenhülse|
 [LANTERN_RIDDLES_2]
 Welche der folgenden Pflanzen ist kein Brillenkostüm?
 [LANTERN_RIDDLES_ANSWER_2]
@@ -19435,7 +19435,7 @@ Wie hält man den Kürbis am Leben, nachdem man den Zombie getroffen hat?
 [LANTERN_RIDDLES_ANSWER_11]
 ca=Kürbis verbessern|Kürbis peitschen|Kürbis kühlen|Kürbis kaltstellen|
 [LANTERN_RIDDLES_12]
-Wie viele Projektile feuert der Doppelschütze jedes Mal ab?
+Wie viele Projektile feuert der Duplinator jedes Mal ab?
 [LANTERN_RIDDLES_ANSWER_12]
 ca=3 Projektile|4 Projektile|2 Projektile|N Projektile|
 [LANTERN_RIDDLES_13]
@@ -19453,11 +19453,11 @@ ca=Auf den Feuerkürbis klicken | Lange drücken | Feuerkürbis berühren | Zomb
 [LANTERN_RIDDLES_16]
 Welche der folgenden Pflanzen erhöht die Sonneneinstrahlung jedes Mal, wenn sie gepflanzt wird?
 [LANTERN_RIDDLES_ANSWER_16]
-ca=Ziegelrettich | Erbsenschote | Energieblume | Vergrößerungsgras |
+ca=Ziegelrettich | Erbsenhülse | Energieblume | Vergrößerungsgras |
 [LANTERN_RIDDLES_17]
 Wer aus der Familie der Erbsengewächse hat Augenbrauen?
 [LANTERN_RIDDLES_ANSWER_17]
-ca=Doppelschütze|Erbsenschütze|Erbsenschote|Dreifachschütze|
+ca=Duplinator|Erbsenschütze|Erbsenhülse|Dreifachschütze|
 [LANTERN_RIDDLES_18]
 Welche Pflanze ist als Schnurrbart verkleidet?
 [LANTERN_RIDDLES_ANSWER_18]
@@ -19465,7 +19465,7 @@ ca=Hohe Nuss|Weißer Rettich|Flammenpilz|Eispilz|
 [LANTERN_RIDDLES_19]
 Wer aus der Familie der Erbsengewächse hat Augenbrauen?
 [LANTERN_RIDDLES_ANSWER_19]
-ca=Zweiwegeschütze|Erbsenschütze|Erbsenschote|Dreifachschütze|
+ca=Zweiwegeschütze|Erbsenschütze|Erbsenhülse|Dreifachschütze|
 [LANTERN_RIDDLES_20]
 Wovor hat die Monumentfresser-Rebe am meisten Angst?
 [LANTERN_RIDDLES_ANSWER_20]
@@ -19511,13 +19511,13 @@ Welche der folgenden Angriffseigenschaften hat der Eis-Wassermelonenschütze nic
 [LANTERN_RIDDLES_ANSWER_30]
 ca=Hohe Angriffsgeschwindigkeit|Projektil|Verlangsamung|Gruppenangriff|
 [LANTERN_RIDDLES_31]
-Welchen der folgenden Berufe hatte der Maiskrug?
+Welchen der folgenden Berufe hatte das Kornapult?
 [LANTERN_RIDDLES_ANSWER_31]
 ca=Platzanweiser|Feuerwehrmann|Koch|Bäcker|
 [LANTERN_RIDDLES_32]
 Wer ist der Stellvertreter der Familie Krug?
 [LANTERN_RIDDLES_ANSWER_32]
-ca=Melonapult|Maiskrug|Kohlkrug|Eiswassermelone|
+ca=Melonapult|Kornapult|Kohlkrug|Eiswassermelone|
 [LANTERN_RIDDLES_33]
 Welche Funktion hat das Kleeblatt?
 [LANTERN_RIDDLES_ANSWER_33]
@@ -19697,7 +19697,7 @@ ca=Zwei-Wege-Shooter|Zwillings-Sonnenblume|Kirschbombe|Ionisierte Anthurie|
 [LANTERN_RIDDLES_77]
 Welche der folgenden Pflanzen können nicht gegen Fragmente eingetauscht werden?
 [LANTERN_RIDDLES_ANSWER_77]
-ca=Triplinator|Eis-Wassermelone|Maiskrug|Feuriger Pfeffer|
+ca=Triplinator|Eis-Wassermelone|Kornapult|Feuriger Pfeffer|
 [LANTERN_RIDDLES_78]
 In welcher der folgenden Welten gibt es keine Fass-Zombies?
 [LANTERN_RIDDLES_ANSWER_78]
@@ -20321,7 +20321,7 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {NPC_ENTER:crazydave}{SAY}Wir haben Möwenzombies vor uns entdeckt. Sie fliegen über den Fluss und greifen unsere Schwachstellen aus der Luft an.
 
 [NARRATIVE_PLANTTRIAL_KERNELPULT_INFO_2]
-{EXCITED:crazydave}{SAY}Probiere den neu eingetroffenen Maiskrug. Er kann Möwenzombies sofort töten, wenn er Maisblöcke auswirft.
+{EXCITED:crazydave}{SAY}Probiere den neu eingetroffenen Kornapult. Er kann Möwenzombies sofort töten, wenn er Maisblöcke auswirft.
 
 [NARRATIVE_PLANTTRIAL_TWINSUNFLOWER_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Ich habe es satt, so lange mit dem Anbau all der Nutzpflanzen zu verbringen.
@@ -20387,7 +20387,7 @@ Keine Sorge, die ersten drei Pflanzversuche verbrauchen kein Sonnenlicht. Spürt
 {NPC_ENTER:crazydave}{SAY}Der Hühnerzombie ist vorn. Wenn er stirbt, lässt er viele schnellflinke Hühner frei, die deine Formation schnell durchbrechen.
 
 [NARRATIVE_PLANTTRIAL_LIGHTNINGREED_INFO_2]
-{EXCITED:crazydave}{SAY}Probiere das neu eingetroffene Blitzrohr. Seine Hochfrequenzblitze eignen sich perfekt für Brathähnchen.
+{EXCITED:crazydave}{SAY}Probiere das neu eingetroffene Blitzschilf. Seine Hochfrequenzblitze eignen sich perfekt für Brathähnchen.
 
 [NARRATIVE_PLANTTRIAL_DANDELION_INFO_1]
 {NPC_ENTER:crazydave}{SAY}Der Hammerzombie ist vorn. Er prallt Projektile ab, die geradlinig auf ihn zufliegen. Das ist echt nervig.
@@ -27499,10 +27499,10 @@ Zombies sind die Anstifter, und ihre Freunde sind die Erfahrenen. Töte einen Zo
 Schalte Chillibohne frei!
 
 [FINISH_COWBOY_6_DESC]
-Baue Erbsenschoten in Gruppen an, um Superfeuerkraft zu erhalten! Schließe Tag 6 des Wilden Westens ab!
+Baue Erbsenhülsen in Gruppen an, um Superfeuerkraft zu erhalten! Schließe Tag 6 des Wilden Westens ab!
 
 [FINISH_COWBOY_6_TITLE]
-Schalte Erbsenschoten frei!
+Schalte Erbsenhülsen frei!
 
 [FINISH_COWBOY_8_DESC]
 Eliminiere riesige Zombies an Tag 8 des Wilden Westens, um den Time-Rip-Raum-Zeit-Schlüssel zu erhalten!
@@ -27514,7 +27514,7 @@ Gewinne einen Raum-Zeit-Schlüssel!
 Schockiere mehrere Gegner mit hoher Geschwindigkeit und triff Ziele auf angrenzenden Routen. Perfekt für Brathähnchen! Schließe Tag 9 von Wilder Westen ab!
 
 [FINISH_COWBOY_9_TITLE]
-Schalte das Blitzrohr frei!
+Schalte das Blitzschilf frei!
 
 [FINISH_DARK_1_DESC]
 Das Sonnenlicht der günstigen kleinen Sonnenpilze nimmt allmählich zu! Leuchte hell! Schließe Tag 1 von Dunkles Zeitalter ab!
@@ -27952,7 +27952,7 @@ Schalte Nachtschatten frei!
 Eine Pflanze, die Schaden verursacht und Zombies betäubt? Glaub mir! Schließe Pirate Bay Tag 1 ab!
 
 [FINISH_PIRATE_1_TITLE]
-Schalte den Maiskrug frei!
+Schalte den Kornapult frei!
 
 [FINISH_PIRATE_11_DESC]
 Bumm! Töte mit jeder Explosion ganze Zombiehorden! Schließe Pirate Bay Tag 11 ab!
@@ -34038,7 +34038,7 @@ Katzenschwanz der ersten Stufe + Kostüm
 Prunkwinde der ersten Stufe + Kostüm
 
 [GEMS_RESTORE_CODE_RECHARGE_AKEE_LV3_SUCCEED_CONTENT]
-Akaimumu der dritten Stufe
+A.K.E.E der dritten Stufe
 
 [GEMS_RESTORE_CODE_RECHARGE_REDSTINGER_LV3_SUCCEED_CONTENT]
 Rote Nadel der dritten Stufe Blume
@@ -35927,7 +35927,7 @@ Zielsuchende Raketen
 Entwickelt zwei zielsuchende Maisraketen, die automatisch in Intervallen zufällige Ziele angreifen.
 
 [COBCANNON_REQ_KERNELPULT_HINT]
-Um die Maiskanone zu benutzen, musst du zuerst den Maiskrug platzieren. Musst du die Aufstellung neu auswählen?
+Um die Maiskanone zu benutzen, musst du zuerst den Kornapult platzieren. Musst du die Aufstellung neu auswählen?
 
 [PLANTING_COBCANNON_CANNOT_BE_HERE]
 Die Maiskanone kann nicht auf der Lore platziert werden.
@@ -38512,7 +38512,7 @@ Erbse
 [PEASHOOTER_PEDIA]
 Erbse (Pisum sativum L.)
 
-Einjährige Kletterpflanze, 0,5–2 Meter hoch. Die gesamte Pflanze ist grün, glatt und kahl, mit weißem, pudrigem Belag auf der Oberfläche. Die Blätter haben 4–6 Blättchen, die Nebenblätter sind größer als die Blättchen, blattförmig, herzförmig und am unteren Rand fein gezähnt. Die Blättchen sind eiförmig, 2–5 cm lang und 1–2,5 cm breit. Der Blütenstand wächst in den Blattachseln, einzeln oder in Trauben angeordnet. Der Kelch ist glockenförmig, tief fünflappig, die Lappen lanzettlich. Die Blütenkrone hat je nach Sorte unterschiedliche Farben, ist aber meist weiß und violett. Die Staubblätter sind zweiteilig. Der Fruchtknoten des Stempels ist kahl, der Griffel flach und innen bärtig. Die Erbsenschoten sind geschwollen, länglich, 2,5–10 cm lang und 0,7–14 cm breit, mit einer schrägen, scharfen Spitze, einem fast geraden Rücken und einer harten, papierartigen Innenschale. Sie enthalten 2–10 runde, grüne Samen, die nach der Reife und Trocknung gelb werden. Die Blütezeit ist von Juni bis Juli, die Fruchtzeit von Juli bis September. (Nach der Flora Chinas)
+Einjährige Kletterpflanze, 0,5–2 Meter hoch. Die gesamte Pflanze ist grün, glatt und kahl, mit weißem, pudrigem Belag auf der Oberfläche. Die Blätter haben 4–6 Blättchen, die Nebenblätter sind größer als die Blättchen, blattförmig, herzförmig und am unteren Rand fein gezähnt. Die Blättchen sind eiförmig, 2–5 cm lang und 1–2,5 cm breit. Der Blütenstand wächst in den Blattachseln, einzeln oder in Trauben angeordnet. Der Kelch ist glockenförmig, tief fünflappig, die Lappen lanzettlich. Die Blütenkrone hat je nach Sorte unterschiedliche Farben, ist aber meist weiß und violett. Die Staubblätter sind zweiteilig. Der Fruchtknoten des Stempels ist kahl, der Griffel flach und innen bärtig. Die Erbsenhülsen sind geschwollen, länglich, 2,5–10 cm lang und 0,7–14 cm breit, mit einer schrägen, scharfen Spitze, einem fast geraden Rücken und einer harten, papierartigen Innenschale. Sie enthalten 2–10 runde, grüne Samen, die nach der Reife und Trocknung gelb werden. Die Blütezeit ist von Juni bis Juli, die Fruchtzeit von Juli bis September. (Nach der Flora Chinas)
 Erbsen stammen ursprünglich aus Westasien und dem Mittelmeerraum und verbreiteten sich später über Zentralasien nach Nordindien und schließlich nach China. Da es sich um eine Kulturpflanze handelt, werden sie heute in vielen Ländern weltweit angebaut.
 Erbsen werden hauptsächlich als Nahrungsmittel verwendet. Ihre Samen und jungen Schoten sind essbar und haben einen hohen Nährwert. Die Samen sind reich an Eiweiß, Kohlenhydraten, Vitaminen und Mineralstoffen. Sie sind ein wichtiges Nahrungsmittel und Gemüse. Erbsensämlinge und Erbsenblüten können ebenfalls gegessen werden und haben einen einzigartigen Geschmack und Nährwert. Darüber hinaus haben Erbsen einen gewissen medizinischen Wert, z. B. eine harntreibende, durchfallhemmende, kühlende und hitzelindernde Wirkung.
 
@@ -40745,19 +40745,19 @@ Erwachen der Kampfformation
 Spartabambus kann einen Speer werfen, um Zombies in zwei Feldern Entfernung anzugreifen. Wenn eine Kampfformation gebildet wird, werden die Speere alle 3 Sekunden gleichmäßig geworfen und fügen Zombies im Umkreis von 3 x 3 Schaden zu.
 
 [STORE_PRODUCT_AVATAR_SPARTANBAMBOO_TITLE]
-Spartanisches Bambuskostüm
+Römischer Gladiator
 
 [SPARTANBAMBOO_AVATAR_NAME]
-Spartanisches Bambuskostüm
+Römischer Gladiator
 
 [STORE_PRODUCT_AVATAR_SPARTANBAMBOO]
-Nach der Schockwelle entfesseln Sie eine weitere riesige Schockwelle.
+Nach der Schockwelle entfesseln er eine weitere riesige Schockwelle.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie zwei Felder rechts von der Pflanze erscheint, verwenden Sie den Speer in Ihrer Hand, um ihm Schaden zuzufügen. Wenn der Schild an Ihrer linken Hand zerstört wird, verdreifacht sich der Schaden. Als Kampfmaschine kann der Spartanische Bambus Hindernissen und bestimmten Zombies großen Schaden zufügen.
+Wenn ein Zombie zwei Felder rechts vom Spartambus erscheint, verwendet er den Speer in seiner Hand, um anzugreifen. Wenn der Schild in seiner linken Hand zerstört wird, verdreifacht sich der Schaden. Als Kampfmaschine kann der Spartambus Hindernissen und bestimmten Zombies großen Schaden zufügen.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL2_DES]
-Wenn Sparta einen Zombie tötet, verfällt er in Raserei. Das Angriffsintervall verkürzt sich um 0,25 Sekunden. Es hält 2,5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Das erneute Töten eines Zombies während der Raserei kann die Raserei-Dauer erneuern. Wird der Schild zerstört, verfällt Sparta direkt in Raserei. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 12 Sekunden.
+Wenn Spartambus einen Zombie tötet, verfällt er in Raserei. Das Angriffsintervall verkürzt sich um 0,25 Sekunden. Es hält 2,5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Das erneute Töten eines Zombies während der Raserei kann die Raserei-Dauer erneuern. Wird der Schild zerstört, verfällt Spartambus direkt in Raserei. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 12 Sekunden.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL3_DES]
 Im Raserei-Zustand verkürzt sich das Angriffsintervall erneut um 0,25 Sekunden. Es hält 5 Sekunden an und normalisiert sich dann innerhalb von 2 Sekunden. Die Abklingzeit für das Pflanzen von Pflanzen beträgt 9 Sekunden.
@@ -40766,13 +40766,13 @@ Im Raserei-Zustand verkürzt sich das Angriffsintervall erneut um 0,25 Sekunden.
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit sofort einzusetzen. Die Abkühlzeit für das Pflanzen von Pflanzen beträgt 6 Sekunden.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL5_DES]
-Wenn sich in den beiden Feldern vor dem Spartanischen Bambus keine Zombies befinden und sich zwei Felder entfernt Zombies befinden, wirf den Speer, um den Zombies Schaden zuzufügen. Die Abkühlzeit beträgt 6 Sekunden. Sobald der Spartanische Bambus ein quadratisches Gitter bildet, wird eine Kampfformation gebildet. Die Lebenspunkte und Angriffskraft des Spartanischen Bambus in der Kampfformation werden verbessert. Der Speerwurf wird alle 6 Sekunden abgefeuert und zielt auf das Feld mit den meisten Zombies in den beiden Reihen vor der Kampfformation. Er verursacht mehrfachen Schaden im Zielbereich von 3 x 3. Die Anzahl der Segmente hängt vom Angriffsintervall der Pflanze ab. Die Abkühlzeit für das Pflanzen von Pflanzen beträgt nun 3 Sekunden.
+Wenn sich in den beiden Feldern vor dem Spartambus keine Zombies befinden und sich zwei Felder entfernt Zombies befinden, wirft er einen Speer, um den Zombies Schaden zuzufügen. Die Abkühlzeit beträgt 6 Sekunden. Sobald der Spartambus ein quadratisches Gitter bildet, wird eine Kampfformation gebildet. Die Lebenspunkte und Angriffskraft des Spartambus in der Kampfformation werden verbessert. Der Speerwurf wird alle 6 Sekunden abgefeuert und zielt auf das Feld mit den meisten Zombies in den beiden Reihen vor der Kampfformation. Er verursacht mehrfachen Schaden im Zielbereich von 3 x 3. Die Anzahl der Segmente hängt vom Angriffsintervall der Pflanze ab. Die Abkühlzeit für das Pflanzen von Pflanzen beträgt nun 3 Sekunden.
 
 [SPARTANBAMBOO_PLANTFOOD_DESCRIPTION]
-Der Spartanische Bambus sendet Schockwellen in die Reihe und die beiden Reihen darüber und darunter mit einer Reichweite von zwei Feldern. Diese verursachen Zombies Schaden und stoßen ein Feld zurück. Die Anzahl der freigesetzten Schockwellen steigt mit dem Pflanzenlevel.
+Der Spartambus sendet Schockwellen in die Reihe und die beiden Reihen darüber und darunter mit einer Reichweite von zwei Feldern. Diese verursacht Schaden und stößt Zombies ein Feld zurück. Die Anzahl der freigesetzten Schockwellen steigt mit dem Pflanzenlevel.
 
 [SPARTANBAMBOO_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Spartanische Bambus sendet Schockwellen in die Reihe, in der er sich befindet, und die beiden Reihen darüber und darunter mit einer Reichweite von zwei Feldern. Diese verursachen Zombies Schaden und stoßen sie ein Feld zurück. Die Anzahl der freigesetzten Schockwellen steigt mit dem Pflanzenlevel. ^ff0000^Nach der Schockwelle wird eine weitere riesige Schockwelle freigesetzt. Die Reichweite beträgt fünf Reihen darüber und darunter mit einer Länge von zwei Feldern. ^oldclr^
+Der Spartambus sendet Schockwellen in die Reihe, in der er sich befindet, und die beiden Reihen darüber und darunter mit einer Reichweite von zwei Feldern. Diese verursachen Zombies Schaden und stoßen sie ein Feld zurück. Die Anzahl der freigesetzten Schockwellen steigt mit dem Pflanzenlevel. ^ff0000^Nach der Schockwelle wird eine weitere riesige Schockwelle freigesetzt. Die Reichweite beträgt fünf Reihen darüber und darunter mit einer Länge von zwei Feldern. ^oldclr^
 
 [SHINEVINE] 
 Schein-Ranke
@@ -40803,25 +40803,25 @@ Der Nahkampfangriff der Schein-Ranke wird zu einem Gruppenangriff mit einem einz
 Glänzende Verstärkung
 
 [SHINEVINE_SKILL_LEVEL2_DES]
-Die Menge an Sonnenlicht, die jeder von der Schein-Ranke  im Nahkampf angegriffene Zombie abwirft, erhöht sich auf 10 und die Betäubungszeit erhöht sich auf 0,3 Sekunden.
+Die Menge an Sonnenlicht, die jeder von der Schein-Ranke im Nahkampf angegriffene Zombie abwirft, erhöht sich auf 10 und die Betäubungszeit erhöht sich auf 0,3 Sekunden.
 
 [SHINEVINE_SKILL_LEVEL5]
 Sonnenlichtschock
 
 [SHINEVINE_SKILL_LEVEL5_DES]
-Klicke auf die Schein-Ranke, um Sonnenlicht zu verbrauchen und Projektile abzufeuern, um Zombies anzugreifen. Drücke lange auf die Leuchtende Ranke, um mehr Sonnenlicht zu verbrauchen und Granaten abzufeuern, um Zombies anzugreifen.
+Klicke auf die Schein-Ranke, um Sonnenlicht zu verbrauchen und Projektile abzufeuern, um Zombies anzugreifen. Drücke lange auf die Schein-Ranke, um mehr Sonnenlicht zu verbrauchen und Granaten abzufeuern, um Zombies anzugreifen.
 
 [STORE_PRODUCT_AVATAR_SHINEVINE_TITLE]
-Kostüm der Schein-Ranke
+Der Durchblick
 
 [SHINEVINE_AVATAR_NAME]
-Kostüm der Schein-Ranke
+Der Durchblick
 
 [STORE_PRODUCT_AVATAR_SHINEVINE]
 Beim Ausführen der Spezialdünger-Fähigkeit besteht eine 45%ige Chance, 100 Goldmünzen fallen zu lassen.
 
 [SHINEVINE_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie in der Schein-Ranke erscheint, greift er ihn im Nahkampf an und verursacht 0,15 Sekunden lang Schwindelgefühle. Die Leuchtende Ranke kann kontinuierlich Sonnenlicht erzeugen. Wird die Sonnenlichtpflanze darüber gepflanzt, erhöht sich deren Sonnenlichtproduktion um 25. Wird Vergrößerungsgras darüber gepflanzt, produziert die Ranke selbst kein Sonnenlicht mehr und greift automatisch einmal pro Zeitperiode an.
+Wenn ein Zombie in der Schein-Ranke erscheint, greift sie ihn im Nahkampf an und verursacht 0,15 Sekunden lang Lähmung. Die Schein-Ranke kann kontinuierlich Sonnenlicht erzeugen. Wird eine Sonnenpflanze darüber gepflanzt, erhöht sich deren Sonnenlichtproduktion um 25. Wird Vergrößerungsgras darüber gepflanzt, produziert die Ranke selbst kein Sonnenlicht mehr und greift automatisch einmal pro Zeitperiode an.
 
 [SHINEVINE_NEW_SKILL_LEVEL2_DES]
 Der Nahkampfangriff der Schein-Ranke wird zu einem Einzelfeld-Gruppenangriff (bis zu 5 Zombies). Jeder von der Schein-Ranke im Nahkampf angegriffene Zombie hinterlässt 5 Sonnenlichtpunkte.
@@ -40833,13 +40833,13 @@ Die Menge an Sonnenlicht, die jeder von der Schein-Ranke im Nahkampf angegriffen
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [SHINEVINE_NEW_SKILL_LEVEL5_DES]
-Ein Klick auf die Leuchtende Ranke verbraucht 25 Sonnenlicht, feuert ein Sonnenlichtgeschoss ab und verursacht 625 Schaden an einem Zombie rechts. Ein 1 Sekunde langes Drücken der Schein-Ranke verbraucht 50 Sonnenlicht, feuert ein Sonnenlichtgeschoss ab und verursacht 1250 Schaden an einem Zombie rechts.
+Ein Klick auf die Schein-Ranke verbraucht 25 Sonnenlicht, feuert ein Sonnenlichtgeschoss ab und verursacht 625 Schaden an einem Zombie rechts. Ein 1 Sekunde langes Drücken der Schein-Ranke verbraucht 50 Sonnenlicht, feuert ein Sonnenlichtgeschoss ab und verursacht 1250 Schaden an einem Zombie rechts.
 
 [SHINEVINE_PLANTFOOD_DESCRIPTION]
-Die Schein-Ranke Ranke erzeugt sofort 100 Sonnenlicht, betäubt innerhalb von 0,3 Sekunden 3 Zombies (bis zu 10 Zombies) und verursacht 10 Schaden. Jeder von diesem Effekt betroffene Zombie wirft 5 Sonnenlicht ab.
+Die Schein-Ranke erzeugt sofort 100 Sonnenlicht, betäubt innerhalb von 0,3 Sekunden 3 Zombies (bis zu 10 Zombies) und verursacht 10 Schaden. Jeder von diesem Effekt betroffene Zombie wirft 5 Sonnenlicht ab.
 
 [SHINEVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Schein-Ranken produzieren sofort 100 Sonnenlicht, ^ff0000^45% Wahrscheinlichkeit, 100 Goldmünzen zu produzieren^oldclr^, ^848484^betäuben 1^oldclr^3*3 Zombies für 0,3 Sekunden (bis zu 10 Zombies) und verursachen 10 Schaden. Jeder von diesem Effekt betroffene Zombie wirft 5 Sonnenlicht ab.
+Die Schein-Ranke produziert sofort 100 Sonnenlicht, ^ff0000^45% Wahrscheinlichkeit, 100 Goldmünzen zu produzieren^oldclr^, ^848484^betäuben 1^oldclr^3*3 Zombies für 0,3 Sekunden (bis zu 10 Zombies) und verursacht 10 Schaden. Jeder von diesem Effekt betroffene Zombie wirft 5 Sonnenlicht ab.
 
 [HAPPYLEEK]
 Sonnenschein-Lauch
@@ -42741,7 +42741,7 @@ Vielleicht besser geeignet für Endlos.
 Normale Ausgabe kann Schaden in Höhe des maximalen Prozentwerts des Lebens verursachen.
 
 [PARALLEL_KERNELPULT]
-Maiskrug Nr. 42
+Kornapult Nr. 42
 
 [PARALLEL_KERNELPULT_TOOLTIP]
 Nutzlos
@@ -50219,7 +50219,7 @@ Die Wahrscheinlichkeit, dass Frühlingsbohnen Zombies in die Luft jagen, erhöht
 Die Gesundheit von Straßenlaternenblüten erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_PEAPOD]
-Die Angriffskraft von Erbsenschoten erhöht sich um {Param_1}% mit der Anzahl überlappender Pflanzen.
+Die Angriffskraft von Erbsenhülsen erhöht sich um {Param_1}% mit der Anzahl überlappender Pflanzen.
 
 [GENE_DESCRIPTION_TORCHWOOD]
 Fackelholzstümpfe können andere Projektile als Erbsen entzünden, deren Schaden nach der Zündung um {Param_1}% steigt.
@@ -53884,7 +53884,7 @@ Blumerang-Flying-Man-Hut
 Angriffskraft um 15% erhöht.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_2]
-Blitzrohr-Zylinder
+Blitzschilf-Zylinder
 
 [NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_2]
 Blitzschaden um 15% erhöht.
@@ -68463,7 +68463,7 @@ Ihr Konto wurde gelöscht. Bitte erstellen Sie ein neues Konto, um das Spiel zu 
 {EXCITED:crazydave}Ich kann es kaum erwarten, endlich richtig loszulegen.
 
 [NEW_PVP_TUTORIAL_STEP_4]
-Blitzrohr pflanzen
+Blitzschilf pflanzen
 
 [NEW_PVP_TUTORIAL_STEP_9]
 Zombies zum Angriff schicken
@@ -72289,7 +72289,7 @@ Die Chillibohne nutzt ihre ganze Kraft, um Giftgas auszustoßen, teilt sich in d
 Die Chillibohne nutzt ihre ganze Kraft, um Giftgas auszustoßen, teilt sich in ^ff0000^vier Chillibohnen^oldclr^ und wirft sie zufällig auf die leeren Felder auf dem Spielfeld.
 
 [SPLITPEA_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom Doppelschützen erscheint, feuert er bei jedem Angriff eine Erbse ab. Wenn ein Zombie links vom Doppelschützen erscheint, feuert er bei jedem Angriff zwei Erbsen ab.
+Wenn ein Zombie rechts vom Duplinatorn erscheint, feuert er bei jedem Angriff eine Erbse ab. Wenn ein Zombie links vom Duplinatorn erscheint, feuert er bei jedem Angriff zwei Erbsen ab.
 
 [SPLITPEA_NEW_SKILL_LEVEL2_DES]
 Bei jedem Angriff nach links besteht eine 40%ige Chance, eine Eiserbse nach links abzufeuern.
@@ -72310,10 +72310,10 @@ Schießt 60 Erbsen nach links und rechts und fügt links eine große Erbse mit d
 Schießt 60 Erbsen nach links und rechts, ^ff0000^, und fügt links eine Eiserbse mit 20-facher Angriffskraft und rechts eine Feuererbse mit 40-facher Angriffskraft hinzu. ^oldclr^
 
 [JALAPENO_NEW_SKILL_LEVEL1_DES]
-Nach dem Pflanzen verursacht die Chilischote sofort Ascheschaden in derselben Reihe, der Rüstung ignoriert.
+Nach dem Pflanzen verursacht das Jalapeño sofort Ascheschaden in derselben Reihe, der Rüstung ignoriert.
 
 [JALAPENO_NEW_SKILL_LEVEL2_DES]
-Die Angriffsreichweite der Chilischote verändert sich zu einem Flammenkreuz, das oben, unten, links und rechts abdeckt.
+Die Angriffsreichweite vom Jalapeño verändert sich zu einem Flammenkreuz, das oben, unten, links und rechts abdeckt.
 
 [JALAPENO_NEW_SKILL_LEVEL3_DES]
 Reduziert den Sonnenlichtverbrauch. Der Sonnenlichtverbrauch beim Pflanzen wird auf 100 reduziert.
@@ -72349,34 +72349,34 @@ Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit freizu
 Es besteht die Chance, einen verstärkten Eisstachel abzufeuern, der den Zombie nach dem Aufprall einfriert. Die Explosion verursacht Schaden an den Zombies innerhalb eines Rasters. Der Eisboden in diesem Raster bleibt 3 Sekunden lang bestehen und wirkt auf die Zombies auf dem Eisboden verlangsamend.
 
 [SNOWPEA_PLANTFOOD_DESCRIPTION]
-Wirf Eis frei, um die Zombies in dieser Reihe zu verlangsamen und feuere 60 Eiserbsen ab.
+Lässt Eis aus dem Boden frei, um die Zombies in ihrer Reihe zu verlangsamen und feuert 60 Eiserbsen ab.
 
 [SNOWPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Wirf Eis frei, um die Zombies in deiner Reihe zu verlangsamen und feuere 3 große Eiserbsen mit der 40-fachen Angriffskraft ab. ^oldclr^
+Lässt Eis aus dem Boden frei, um die Zombies in ihrer Reihe zu verlangsamen und feuert 3 große Eiserbsen mit der 40-fachen Angriffskraft ab. ^oldclr^
 
 [TORCHWOOD_NEW_SKILL_LEVEL1_DES]
-Die Flammen auf dem Fackelholzstumpf verwandeln vorbeifliegende Erbsen in Flammenerbsengeschosse und erhöhen den Schaden um das 1-Fache.
+Die Flammen auf dem Zunderholz verwandeln vorbeifliegende Erbsen in Flammenerbsengeschosse und erhöhen den Schaden um das doppelte.
 
 [TORCHWOOD_NEW_SKILL_LEVEL2_DES]
-Der Fackelholzstumpf wird widerstandsfähiger und sein Lebenswert steigt auf 1500.
+das Zunderholz wird widerstandsfähiger und sein Lebenswert steigt auf 1500.
 
 [TORCHWOOD_NEW_SKILL_LEVEL3_DES]
-Der Fackelholzstumpf wird stärker und sein Lebenswert steigt auf 4500.
+das Zunderholz wird stärker und sein Lebenswert steigt auf 4500.
 
 [TORCHWOOD_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [TORCHWOOD_PLANTFOOD_DESCRIPTION]
-Wenn der Flammenstumpf wütender wird, verfärben sich seine Flammen blau und verwandeln die vorbeifliegenden Erbsen in blaue Feuererbsen. Der Schaden verdoppelt sich.
+Wenn das Zunderholz wütender wird, verfärben sich seine Flammen blau und verwandeln die vorbeifliegenden Erbsen in blaue Feuererbsen. Der Schaden verdoppelt sich.
 
 [TORCHWOOD_AVATAR_PLANTFOOD_DESCRIPTION]
-Wenn der Flammenstumpf in Rage gerät, verfärben sich seine Flammen ^ff0000^ violett und verwandeln die Erbsen, die er passiert, in Geisterfeuererbsen. Der Schaden erhöht sich dadurch um das Dreifache. ^oldclr^
+Wenn das Zunderholz in Rage gerät, verfärben sich seine Flammen ^ff0000^ violett und verwandeln die Erbsen, die durchfliegen, in Geisterfeuererbsen. Der Schaden erhöht sich dadurch um das Dreifache. ^oldclr^
 
 [KERNELPULT_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom Maiskrug erscheint, wirft er Maiskörner, um den Zombie zu verletzen. Es besteht eine 20%ige Chance, beim Angriff Butter zu schleudern. Butter verursacht den doppelten Schaden der Angriffskraft und bewirkt einen 8-sekündigen Immobilisierungseffekt. Die Kontrollzeit der Butter verringert sich mit steigendem Level des Zombies und beträgt mindestens 2 Sekunden.
+Wenn ein Zombie rechts vom Kornapult erscheint, wirft er Maiskörner, um den Zombie zu verletzen. Es besteht eine 20%ige Chance, beim Angriff Butter zu schleudern. Butter verursacht den doppelten Schaden der Angriffskraft und bewirkt einen 8-sekündigen Immobilisierungseffekt. Die Kontrollzeit der Butter verringert sich mit steigendem Level des Zombies und beträgt mindestens 2 Sekunden.
 
 [KERNELPULT_NEW_SKILL_LEVEL2_DES]
-Bei jedem fünften Angriff feuert der Maiskrug eine Maisrakete mit 150 Schaden ab.
+Bei jedem fünften Angriff feuert das Kornapult eine Maisrakete mit 150 Schaden ab.
 
 [KERNELPULT_NEW_SKILL_LEVEL3_DES]
 Bei jedem dritten Angriff feuert er eine Maisrakete mit 200 Schaden auf böse Zombies ab.
@@ -72385,13 +72385,13 @@ Bei jedem dritten Angriff feuert er eine Maisrakete mit 200 Schaden auf böse Zo
 Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit einzusetzen! Der Schaden der Maisrakete wurde auf 250 Punkte erhöht.
 
 [KERNELPULT_PLANTFOOD_DESCRIPTION]
-Der Maiskrug sammelt Butter und schleudert sie sofort in die Luft. Dadurch wird ein Stück Butter auf Zombies auf dem gesamten Bildschirm geschleudert, was Schaden verursacht und sie bewegungsunfähig macht.
+das Kornapult sammelt Butter und schleudert sie sofort in die Luft. Dadurch wird ein Stück Butter auf Zombies auf dem gesamten Bildschirm geschleudert, was Schaden verursacht und sie bewegungsunfähig macht.
 
 [KERNELPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Maiskrug sammelt Butter und schleudert sie sofort in die Luft. Dadurch wird ein Stück Butter auf Zombies auf dem gesamten Bildschirm geschleudert, was ^ff0000^ höheren Schaden verursacht und sie bewegungsunfähig macht. ^oldclr^
+das Kornapult sammelt Butter und schleudert sie sofort in die Luft. Dadurch wird ein Stück Butter auf Zombies auf dem gesamten Bildschirm geschleudert, was ^ff0000^ höheren Schaden verursacht und sie bewegungsunfähig macht. ^oldclr^
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies in den drei Reihen rechts vom Blitzrohr erscheinen, greift es die Zombies ganz links im Umkreis mit Blitzen an. Nach dem Angriff erscheint eine Blitzkette mit 5 Schadenspunkten, die bis zu drei Zombies trifft.
+Wenn Zombies in den drei Reihen rechts vom Blitzschilf erscheinen, greift es die Zombies ganz links im Umkreis mit Blitzen an. Nach dem Angriff erscheint eine Blitzkette mit 5 Schadenspunkten, die bis zu drei Zombies trifft.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL2_DES]
 Nach dem Blitzangriff besteht eine 7%ige Chance, die Zombies ^ff9600^Ⅰ^oldclr^1 Sekunde lang zu lähmen.
@@ -72430,22 +72430,28 @@ Feuert eine Spezialgranate ab, stößt die Landzombies in dieser Reihe zur unter
 Feuert eine Spezialgranate ab, stößt die Zombies in dieser Reihe zur untersten Linie, explodiert und verursacht Schaden an den Zombies im Umkreis von 3×3. ^ff0000^ verursacht 2 Sekunden lang ^oldclr^^848484^stunⅠ^oldclr^^ff000^ an den Zombies in der untersten Reihe. ^oldclr^^ff000^, anschließend ruht die Kokosnusskanone.
 
 [PEAPOD_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie vor einer Erbsenschote erscheint, wird jede Erbse in der Erbsenschote feuert eine Erbse ab, um den Zombie anzugreifen. Du kannst bis zu fünf Erbsenschoten auf einem Raster stapeln.
+Wenn ein Zombie vor einer Erbsenhülse erscheint, wird jede Erbse in der Erbsenhülse feuert eine Erbse ab, um den Zombie anzugreifen. Du kannst bis zu fünf Erbsenhülsen auf einem Raster stapeln.
 
 [PEAPOD_NEW_SKILL_LEVEL2_DES]
-Alle 60 Sekunden wächst automatisch eine Erbsenschote, bis zu fünf.
+Alle 60 Sekunden wächst automatisch eine Erbsenhülse, bis zu fünf.
 
 [PEAPOD_NEW_SKILL_LEVEL3_DES]
-Alle 40 Sekunden wächst automatisch eine Erbsenschote, bis zu fünf.
+Alle 40 Sekunden wächst automatisch eine Erbsenhülse, bis zu fünf.
 
 [PEAPOD_NEW_SKILL_LEVEL4_DES]
 Beim ersten Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [PEAPOD_PLANTFOOD_DESCRIPTION]
-Die Erbsenschote schleudert fünf große Erbsen mit dem 20-fachen Schaden ihrer eigenen Angriffskraft.
+Die Erbsenhülse schleudert fünf große Erbsen mit dem 20-fachen Schaden ihrer eigenen Angriffskraft.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GARLIC_2]
+Vogelhut
+
+[NEW_AVATAR_DESCRIPTION_GARLIC_2]
+Reduziert den Sonnenlichtverbrauch um 10
 
 [PEAPOD_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Erbsenschote schleudert fünf brennende große Erbsen mit dem ^ff0000^40-fachen Schaden ihrer eigenen Angriffskraft. ^oldclr^
+Die Erbsenhülse schleudert fünf brennende große Erbsen mit dem ^ff0000^40-fachen Schaden ihrer eigenen Angriffskraft. ^oldclr^
 
 [MELONPULT_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts neben dem Melonapult erscheint, wirft er eine Wassermelone. Die Wassermelone zerbricht beim Aufprall und verursacht Flächenschaden in Höhe von 50% der Angriffskraft an den Zombies in einem 3×3-Bereich um die Wassermelone herum.
@@ -72478,7 +72484,7 @@ Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 Diese Pflanze besitzt keine Spezialdünger-Fähigkeit.
 
 [REPEATER_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom Doppelshooter erscheint, feuert dieser jede Runde zwei Erbsen ab, um den Zombie anzugreifen.
+Wenn ein Zombie rechts vom Duplinator erscheint, feuert dieser jede Runde zwei Erbsen ab, um den Zombie anzugreifen.
 
 [REPEATER_NEW_SKILL_LEVEL2_DES]
 Es besteht eine 16%ige Chance, zwei Eis- oder Feuererbsen abzufeuern.
@@ -72490,10 +72496,10 @@ Nachdem die Elementarkraft gemeistert wurde, besteht eine 32%ige Chance, Feuer- 
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [REPEATER_PLANTFOOD_DESCRIPTION]
-Der Doppelschütze feuert 60 Erbsen hintereinander und eine Riesenerbse ab, die die 20-fache Angriffskraft ihrer eigenen verursacht.
+Der Duplinator feuert 60 Erbsen hintereinander und eine Riesenerbse ab, die die 20-fache Angriffskraft ihrer eigenen verursacht.
 
 [REPEATER_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Doppelschütze verschießt 60^ff0000^verschiedene Erbsenarten^oldclr^ und eine Riesenerbse, die die 20-fache Angriffskraft ihrer eigenen verursacht.
+Der Duplinator verschießt 60^ff0000^verschiedene Erbsenarten^oldclr^ und eine Riesenerbse, die die 20-fache Angriffskraft ihrer eigenen verursacht.
 
 [SPIKEROCK_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie auf einen Stachelstein tritt, führt er einen Stichangriff aus, der allen Zombies über sich Schaden zufügt. Der Stachelstein hat drei Stacheln, und wenn er alle verliert, stirbt er. ^ff0000^Ideal für Roller- und Piano-Zombies! ^oldclr^
@@ -73765,7 +73771,7 @@ Diese Pflanze hat keine Spezialdünger-Fähigkeit-Spezialattacke.
 Diese Pflanze hat keine Spezialdünger-Fähigkeit-Spezialattacke.
 
 [AKEE_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts von Akaimumu erscheint, schleudert Akaimumu Baumbeeren, um den Zombie anzugreifen. Die Baumbeeren können ausgeworfen werden. Nach dem Treffen des Zombies schleudert dieser innerhalb von 4 Feldern nach rechts, um andere Zombies zu treffen. Nach dem Auswurf wird der Schaden um 10 Punkte reduziert. Maximal 4 Ziele können angegriffen werden.
+Wenn ein Zombie rechts vom A.K.E.E erscheint, schleudert A.K.E.E Baumbeeren, um den Zombie anzugreifen. Die Baumbeeren können ausgeworfen werden. Nach dem Treffen des Zombies schleudert dieser innerhalb von 4 Feldern nach rechts, um andere Zombies zu treffen. Nach dem Auswurf wird der Schaden um 10 Punkte reduziert. Maximal 4 Ziele können angegriffen werden.
 
 [AKEE_NEW_SKILL_LEVEL2_DES]
 Die Auswurffähigkeit der Baumbeeren ist verbessert. Jeder Auswurf reduziert den Schaden um 15 Punkte. Maximal 5 Ziele können angegriffen werden.
@@ -73777,10 +73783,10 @@ Die Beeren können stärker abprallen, wodurch der Schaden pro Abprall um 20 Pun
 Beim Einpflanzen besteht eine hohe Chance, die Spezialdünger-Fähigkeit direkt freizusetzen! Jeder Beerenabprall reduziert den Schaden um 25 Punkte.
 
 [AKEE_PLANTFOOD_DESCRIPTION]
-Akaimumu schleudert bis zu 5 große Beeren auf alle Zombies in der Reihe. Die Beeren springen zwischen Zombies hin und her und verringern so den Schaden bei jedem Sprung.
+A.K.E.E schleudert bis zu 5 große Beeren auf alle Zombies in der Reihe. Die Beeren springen zwischen Zombies hin und her und verringern so den Schaden bei jedem Sprung.
 
 [AKEE_AVATAR_PLANTFOOD_DESCRIPTION]
-Akaimumu schleudert bis zu 5 große Beeren mit ^ff0000^ zufälligen Attributänderungen auf alle Zombies in der Reihe. Flammenbeeren verursachen beim Treffen eine 2×1-Explosion, und Eisbeeren verlangsamen die getroffene Einheit durch Eis. ^oldclr^ Große Beeren springen zwischen Zombies hin und her und verringern so den Schaden bei jedem Sprung.
+A.K.E.E schleudert bis zu 5 große Beeren mit ^ff0000^ zufälligen Attributänderungen auf alle Zombies in der Reihe. Flammenbeeren verursachen beim Treffen eine 2×1-Explosion, und Eisbeeren verlangsamen die getroffene Einheit durch Eis. ^oldclr^ Große Beeren springen zwischen Zombies hin und her und verringern so den Schaden bei jedem Sprung.
 
 [REDSTINGER_NEW_SKILL_LEVEL1_DES]
 Wenn du  in den ersten drei Spalten links pflanzt, blüht er auf und feuert jedes Mal zwei Blütenblätter ab, wenn Zombies rechts erscheinen. Platzierst du ihn in den nächsten drei Spalten, öffnet sich den Roten-Stachler leicht und wird defensiver, feuert aber nur ein Blütenblatt ab. Platzierst du ihn in den letzten drei Spalten rechts, schließt den Roten-Stachler seine Blütenblätter fest und wird zu einer defensiven Pflanze.
@@ -76078,25 +76084,25 @@ Das Angelhakengras sendet mehrere Haken gleichzeitig aus, die den nächsten Zomb
 Das Angelhakengras wirft mehrere Angelhaken gleichzeitig aus, die den nächsten Zombie fangen und Schaden verursachen^ff0000^ und ^oldclr^^701edf^Gift Ⅰ^oldclr^^ff0000^Effekt^oldclr^ hinzufügen. Anschließend wirft es den Zombie heftig. Kann der Zombie nicht gefangen werden, fügt es ihm enormen Schaden zu.
 
 [INFERNO_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts vom flammenden Feuerfarn erscheint, erzeugt dieser einen Feuertornado, der den ersten Zombie, dem er begegnet, verbrennen und nach rechts tragen kann, bis der Tornado verschwindet oder der Zombie stirbt.
+Wenn ein Zombie rechts vom Inferno erscheint, erzeugt dieser einen Feuertornado, der den ersten Zombie, dem er begegnet, verbrennen und nach rechts tragen kann, bis der Tornado verschwindet oder der Zombie stirbt.
 
 [INFERNO_NEW_SKILL_LEVEL2_DES]
-Der Flammenfarn ist wütender, und die Angriffsreichweite des Flammentornados erhöht sich um 1 Gitter.
+das Inferno ist wütender, und die Angriffsreichweite des Flammentornados erhöht sich um 1 Gitter.
 
 [INFERNO_NEW_SKILL_LEVEL3_DES]
-Der Flammenfarn ist wütender, und die Angriffsreichweite des Flammentornados erhöht sich um 2 Gitter.
+das Inferno ist wütender, und die Angriffsreichweite des Flammentornados erhöht sich um 2 Gitter.
 
 [INFERNO_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [INFERNO_NEW_SKILL_LEVEL5_DES]
-Der Feuertornado kann größere Zombies einrollen. Beim Einrollen riesiger Zombies verlangsamt sich seine Bewegungsgeschwindigkeit.
+Der Feuertornado kann Gargantuas einrollen. Beim Einrollen von Gargantua Zombies verlangsamt sich seine Bewegungsgeschwindigkeit.
 
 [INFERNO_PLANTFOOD_DESCRIPTION]
-Der Feuertornado erzeugt einen stärkeren schwarz-gelben Tornado mit höherem Schaden und längerer Dauer. Er kann bis zu 6 Zombies gleichzeitig beschwören und Zombies von angrenzenden Straßen auf diese Linie locken.
+Der Feuertornado erzeugt einen stärkeren schwarz-gelben Tornado mit höherem Schaden und längerer Dauer. Er kann bis zu 6 Zombies gleichzeitig anziehen und Zombies von angrenzenden Straßen auf diese Linie locken.
 
 [INFERNO_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Feuertornado beschwört einen stärkeren ^ff0000^ blauen Tornado^oldclr^ mit höherem Schaden und längerer Dauer herauf. Er kann bis zu 6 Zombies gleichzeitig beschwören und Zombies von angrenzenden Straßen auf diese Linie locken. ^ff0000^ Wenn der Tornado endet, bricht an der Stelle eine Feuersäule hervor. ^oldclr^
+Der Feuertornado beschwört einen stärkeren ^ff0000^ blauen Tornado^oldclr^ mit höherem Schaden und längerer Dauer herauf. Er kann bis zu 6 Zombies gleichzeitig anziehen und Zombies von angrenzenden Straßen auf diese Linie locken. ^ff0000^ Wenn der Tornado endet, bricht an der Stelle eine Feuersäule hervor. ^oldclr^
 
 [TIGERSTOOL_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie im 2×3-Bereich rechts vom Tigerkopfpilz erscheint, brüllt der Tigerkopfpilz^848484^ und betäubt alle Zombies im Umkreis für 0,5 Sekunden. Anschließend fügt er mit dem Unbesiegbaren Hieb 4 Hiebschaden zu.
@@ -76326,25 +76332,25 @@ Der Dornfrucht-Meteorhammer dreht den Meteorhammer, um den Angriff abzuschließe
 Die Burrberry-Bolas rotieren, greifen an und treffen ein Feld weiter rechts. Sie verursachen ^ff0000^ höheren Schockwellenschaden^oldclr^ bei allen Zombies in einem fächerförmigen Bereich von zwei Feldern rechts und stoßen sie ein Feld zurück.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts von der Zombiekapsel erscheint, beginnt diese zu wachsen und beschwört nach ihrer Spaltung einen Tofu-Zombie. Der Tofu-Zombie bewegt sich nach rechts und frisst den Zombie.
+Wenn ein Zombie rechts von der Megamame erscheint, beginnt diese zu wachsen und beschwört nach ihrer Spaltung einen Tofu-Zombie. Der Tofu-Zombie bewegt sich nach rechts und frisst den Zombie.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL2_DES]
-Die Zombiekapsel hat eine 50%ige Chance, einen Karottenhut-Zombie hervorzubringen.
+Die Megamame hat eine 50%ige Chance, einen Karottenhut-Zombie hervorzubringen.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL3_DES]
-Die Zombiekapsel hat eine 35%ige Chance, einen Karottenhut-Zombie und eine 35%ige Chance, einen Wassermelonenhut-Zombie zu produzieren.
+Die Megamame hat eine 35%ige Chance, einen Karottenhut-Zombie und eine 35%ige Chance, einen Wassermelonenhut-Zombie zu produzieren.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine 50% Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL5_DES]
-Wenn die Zombiekapsel Zombies produziert, besteht eine 15%ige Chance, einen Maschinengewehr-Zombie zu produzieren, der Erbsen für Angriffe aus großer Entfernung verschießen kann.
+Wenn die Megamame Zombies produziert, besteht eine 15%ige Chance, einen Maschinengewehr-Tofu-Zombie zu produzieren, der Erbsen für Angriffe aus großer Entfernung verschießen kann.
 
 [ZOYBEANPOD_PLANTFOOD_DESCRIPTION]
-Wenn die Kapsel wächst, bricht sie auf und ein riesiger Tofu-Zombie kommt heraus. Der riesige Tofu-Zombie trifft den gegnerischen Zombie.
+Wenn die Megamame wächst, bricht sie auf und ein Tofu-Gargantua Zombie kommt heraus. Der Tofu-Gargantua zerschlägt gegnerische Zombies.
 
 [ZOYBEANPOD_AVATAR_PLANTFOOD_DESCRIPTION]
-Wenn die Kapsel wächst, bricht sie auf und ein riesiger Tofu-Zombie kommt heraus. ^ff0000^ Der Tofu-Zombie hält eine haarige Karotte in der Hand und trifft den gegnerischen Zombie 3 Sekunden lang. ^oldclr^^848484^BetäubungⅠ^oldclr^^ff000^. ^oldclr^
+Wenn die Kapsel wächst, bricht sie auf und ein Tofu-Gargantua Zombie kommt heraus. ^ff0000^ Der Tofu-Gargantua hält eine haarige Karotte in der Hand und zerschlägt den gegnerischen Zombie und lähmt ihn 3 Sekunden lang. ^oldclr^^848484^BetäubungⅠ^oldclr^^ff000^. ^oldclr^
 
 [CROWNFLOWER_NEW_SKILL_LEVEL1_DES]
 Wenn rechts ein Zombie erscheint, feuert dieser einen Laser ab, der dem Zombie pro Sekunde kontinuierlich Schaden zufügt. Der Laserschaden erhöht sich mit der Angriffszeit, nach 2 Sekunden auf das Dreifache und nach weiteren 5 Sekunden auf das Sechsfache. Jeder Angriff zielt auf die Pflanze ganz rechts, wird aber von großen Zombies oder mechanischen Zombies abgewehrt. Der Gesamtschaden pro Sekunde des Lasers bleibt unverändert und nimmt beim Eindringen in den Zombie ab.
@@ -76554,7 +76560,7 @@ Nach tödlichem Schaden stirbt er nicht, sondern wird unter der Erde vergraben u
 Vampignon stellt sofort seine volle Gesundheit wieder her und legt einen Vampirmantel mit 12.000 Lebenspunkten an.
 
 [VAMPORCINI_AVATAR_PLANTFOOD_DESCRIPTION]
-Vamporpoise stellt sofort seine Gesundheit vollständig wieder her und legt einen ^ff0000^ größeren Vampirumhang mit 18.000 Lebenspunkten an. ^oldclr^
+Vampignon stellt sofort seine Gesundheit vollständig wieder her und legt einen ^ff0000^ größeren Vampirumhang mit 18.000 Lebenspunkten an. ^oldclr^
 
 [PUMPKIN_NEW_SKILL_LEVEL1_DES]
 Kürbisköpfe können als Ranken auf Hauptpflanzen gepflanzt werden und bieten so hohen Gesundheitsschutz. Kürbisköpfe verlieren bei einem Angriff bis zu 50% ihrer Gesundheit.
@@ -79509,7 +79515,7 @@ Schattenerbsen-Strohhut-Kostüm
 Truthahn-Katapult-Schnuller-Kostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_1]
-Feuerfarn-Brillen-Kostüm
+Karnevals Brille
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_3]
 Auberginen-Ninja „Zero“ Kostüm
@@ -80103,7 +80109,7 @@ Tägliches Willkommensgeschenk (0 Yuan): Juwelen * 15
 3 Yuan Wohlfahrtspaket: Juwelen * 90, 10 % Chance auf eine Schatzkiste mit Zwischenkleidung
 6 Yuan Wohlfahrtspaket: Juwelen * 180, 10 % Chance auf eine Schatzkiste mit fortgeschrittener Kostümung
 
-Optionale Kostümung für die Schatzkiste mit Primärkleidung: Nuss-Weihnachtskleid, Sonnenblumen-Halloweenkleid, Nuss-Halloweenkleid, Pulsgelbes Pfirsich-Halloweenkleid, Stahl-Erdspieß-Monokel, Maiskrug-Herrenanzug, Doppel-Sonnenblumenhut
+Optionale Kostümung für die Schatzkiste mit Primärkleidung: Nuss-Weihnachtskleid, Sonnenblumen-Halloweenkleid, Nuss-Halloweenkleid, Pulsgelbes Pfirsich-Halloweenkleid, Stahl-Erdspieß-Monokel, Kornapult-Herrenanzug, Doppel-Sonnenblumenhut
 Optionale Kostümung für die Schatzkiste mit Zwischenkleidung: Truthahn-Katapult-Weihnachtskleid, Kristallorchideen-Weihnachtskleid, Eiswassermelonen-Clip-Fächer, Kokosnusshut, Frühlingsfestkleid mit großer Mundblume, Frühlingsfestkleid mit Gemüsefrage, Sonnenblumensängerin (Neu) Jahreskleid
 Erweiterte Kostüm-Schatzkiste (optional): Winterkleid mit Sonne und Mond, Weihnachtskleid mit Zitronensäure, Weihnachtskleid mit Maiskanone, Frühlingsfestkleid mit Erbsen, Kostüm mit Tigerpilzwachstum, Neujahrskleid mit Apfelmörser, Wasserkastanienbrüder-Tiger-Jahreskleid
 
@@ -80559,16 +80565,16 @@ In ihren Augen liegt ein Hauch von Melancholie.
 Sie ist kein gewöhnlicher Spike. Die Erdspieße können alle Zombie-Doktor-Mechas in Sekundenschnelle töten.
 
 [PARALLEL_SPLITPEA]
-Doppelschütze Nr. 41
+Duplinator Nr. 41
 
 [PARALLEL_SPLITPEA_TOOLTIP]
-Doppelschütze Nr. 41 ist ein seltener Widder.
+Duplinator Nr. 41 ist ein seltener Widder.
 
 [PARALLEL_SPLITPEA_DESCRIPTION_HEADER]
 Die linke Erbse ist einen Millimeter länger als die rechte.
 
 [PARALLEL_SPLITPEA_DESCRIPTION]
-Doppelschütze Nr. 41 ist ein seltener Widder.
+Duplinator Nr. 41 ist ein seltener Widder.
 
 [PARALLEL_WINTERMELON]
 Eis-Wassermelonen-Krug Nr. 41
