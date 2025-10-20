@@ -12956,7 +12956,7 @@ Zwillings-Sonnenblumen-Kostüm
 Kartoffelminen-Kostüm
 
 [STORE_PRODUCT_AVATAR_SNAPDRAGON_TITLE]
-Feuerdrachen-Gras-Kostüm
+Feuerwehr
 
 [STORE_PRODUCT_AVATAR_BLOOMERANG_TITLE]
 Bumerang-Kostüm
@@ -36411,10 +36411,10 @@ Vom Stromschlag betroffene Zombies werden in einem Umkreis von 3x3 auf 3 Zombies
 Elektrizitätsüberlauf
 
 [ELECTRICCURRANT_SUPERSKILL_DES]
-Die Elektrische Johannisbeere selbst sendet Elektrizitätsbögen aus und greift Zombies in einem Umkreis von 3x3 Metern an.
+Die Elektro-Ribisel selbst sendet Elektrizitätsbögen aus und greift Zombies in einem Umkreis von 3x3 Metern an.
 
 [STORE_PRODUCT_AVATAR_ELECTRICCURRANT_TITLE]
-Elektrische Johannisbeere-Outfit
+Elektro-Ribisel-Outfit
 
 [STORE_PRODUCT_AVATAR_ELECTRICCURRANT]
 Zombies können durch den ultimativen elektrischen Strom 1 Sekunde lang gelähmt werden.
@@ -37111,13 +37111,13 @@ Reduziert den Sonnenlichtverbrauch um 20 Punkte.
 Brüllen des Bestienkönigs
 
 [KIWIBEAST_SKILL_LEVEL5_DES]
-Wenn Bestien-Kiwi die größte Größe erreicht, besteht eine 10%ige Chance, dass der Angriff kleine und mittlere Zombies abwehrt.
+Wenn Kiwibiest die größte Größe erreicht, besteht eine 10%ige Chance, dass der Angriff kleine und mittlere Zombies abwehrt.
 
 [STORE_PRODUCT_AVATAR_KIWIBEAST]
-Bestien-Kiwis ultimativer Angriff stößt Zombies weg.
+Kiwibiests ultimativer Angriff stößt Zombies weg.
 
 [STORE_PRODUCT_AVATAR_KIWIBEAST_TITLE]
-Bestien-Kiwi-Kostüm
+Kiwibiest-Kostüm
 
 [KIWIBEAST]
 Kiwibiest
@@ -37278,10 +37278,10 @@ Elektro-Erbsenkanone
 Elektro-Erbsenkanonen verschießen erbsenartige Projektile, die Zombies durchschlagen und vor schädlicher Elektrizität nur so knistern.
 
 [ELECTRICPEASHOOTER_TOOLTIP]
-Verschießt elektrische Erbsen
+Verschießt Elektro-Erbsenkanonen
 
 [ELECTRICPEASHOOTER_PRODUCT_SHORT_DESC]
-Verschießt elektrische Erbsen
+Verschießt Elektro-Erbsenkanonen
 
 [ELECTRICPEASHOOTER_AVATAR_NAME]
 Elektro-Erbsenkanone Kostüm
@@ -39883,7 +39883,7 @@ Wichtbirnen kostüm
 Mutation verstärken
 
 [IMPPEAR_SKILL_LEVEL1_DES]
-Es besteht eine 40%ige Chance, dass ein Zombie, der eine gelbe Birne isst und sich in einen Geisterzombie verwandelt, direkt vergiftet wird und Gas ausstößt, das die Zombies dahinter betäubt.
+Es besteht eine 40%ige Chance, dass ein Zombie, der eine Wicht-Birne isst und sich in einen Geisterzombie verwandelt, direkt vergiftet wird und Gas ausstößt, das die Zombies dahinter betäubt.
 
 [IMPPEAR_SKILL_LEVEL2]
 Mutationsverbesserung
@@ -42630,7 +42630,7 @@ Schattenserie, alternative Erbsenkanone
 Fortschrittliche Pflanze
 
 [PARALLEL_DUSKLOBBER]
-Dämmerungskrug Nr. 42
+Schattenlupfer Nr. 42
 
 [PARALLEL_DUSKLOBBER_TOOLTIP]
 Schattenserie, Pflanze mit fortgeschrittener Projektilreichweite
@@ -45372,7 +45372,7 @@ Defensivwertung: ^00e46e 3 ^oldclr
 Gesamtstärke: ^ee2c2c 4 ^oldclr
 
 [PVZ_WORLDCUP_TEAM5_DES_5]
-^ffed86 Aufstellung ^oldclr: Holly Knight Rose Swordsman Agave
+^ffed86 Aufstellung ^oldclr: Holly-Barriere Rose Swordsman Agave
 
 [PVZ_WORLDCUP_TEAM5_DES_6]
 
@@ -47177,13 +47177,13 @@ Rittergarde
 [HOLLYKNIGHT_SKILL_LEVEL10]
 
 [HOLLYKNIGHT_SKILL_LEVEL5_DES]
-Die Stechpalme des Stechpalmenritters Klingen sind größer, ihre Dornen länger und ihr Gesundheitsschaden entsprechend erhöht.
+Die Stechpalme des Holly-Barriere Klingen sind größer, ihre Dornen länger und ihr Gesundheitsschaden entsprechend erhöht.
 
 [HOLLYKNIGHT_AVATAR_NAME]
-Holy Knight Outfit
+Holly-Barriere Outfit
 
 [STORE_PRODUCT_AVATAR_HOLLYKNIGHT_TITLE]
-Holy Knight Outfit
+Holly-Barriere Outfit
 
 [STORE_PRODUCT_AVATAR_HOLLYKNIGHT]
 Die Spezialdünger-Fähigkeit verfügt über einen Elektroschockeffekt, der Zombies 1 Sekunde lang lähmen kann.
@@ -48523,7 +48523,7 @@ Pflanzen-Challenge – Löwenzahn!
 Pflanzen-Challenge – Elektro Blaubeere!
 
 [TASK_WEEKLY_PLANTCHALLENGE_ELECTRICPEASHOOTE]
-Pflanzen-Challenge – Elektrische Erbse!
+Pflanzen-Challenge – Elektro-Erbsenkanone!
 
 [TASK_WEEKLY_PLANTCHALLENGE_ESCAPEROOT]
 Pflanzen-Challenge – Fluchtwurzel!
@@ -50234,7 +50234,7 @@ Lavaguave erhöht die Angriffskraft um {Param_1}%
 Die Verwandlung in eine Aubergine erhöht Angriff und Verteidigung der imitierten Pflanze um {Param_1}%.
 
 [GENE_DESCRIPTION_IMPPEAR]
-Die Wahrscheinlichkeit, einen großen Angriff auszuführen, wenn die gelbe Birne der vierten Stufe auf dem Boden landet, erhöht sich um {Param_1}%.
+Die Wahrscheinlichkeit, einen großen Angriff auszuführen, wenn die Wicht-Birne der vierten Stufe auf dem Boden landet, erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_POWERPLANT]
 Die Feldrübe reduziert den Sonnenlichtverbrauch um {Param_1}%.
@@ -50534,7 +50534,7 @@ Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knobla
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Mangold-Mangler
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
-Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
+Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektro-Ribisel
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erdsägegras
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
@@ -50557,7 +50557,7 @@ Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knobla
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Mangold-Mangler
 Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
-Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
+Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektro-Ribisel
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erdsägegras
 Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
@@ -50580,7 +50580,7 @@ Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knobla
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
 Lila Qualitätspflanzen 1: Elektrische Blaubeere, Löwenzahn, Kokosnusskanone, Donnerbesen, Mangold-Mangler
 Lila Qualitätspflanzen 2: Kiwi, Kupfermünzen-Trommler, Schattenkapsel-Orchidee, Stealth-Öffnungspfeil, Flammenpilz
-Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettich, Prunkwinde, Elektrische Johannisbeere
+Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettich, Prunkwinde, Elektro-Ribisel
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Acker-Sägegras
 Orange Qualitätspflanzen 4: Dunkler Nachtpilz, Kalter Eispilz, Starke Zitronensäure, Sengend Meerrettich, Elektrische Stachelbeere
@@ -53698,7 +53698,7 @@ Rote-Bete-Gürtel
 Erhöht die Erholungszeit von Mangold-Manglerian Blades um 10 Sekunden (nur wirksam für Pflanzen über Stufe 2).
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DUSKLOBBER_1]
-Dämmerungskrug-Kappe
+Schattenlupfer-Kappe
 
 [NEW_AVATAR_DESCRIPTION_DUSKLOBBER]
 Erhöht die Wahrscheinlichkeit von Fertigkeit 2 um 10% (nur wirksam für Pflanzen über Stufe 2)
@@ -54310,7 +54310,7 @@ Strohhut
 Pflanzenangriff: Erhöht die Angriffskraft um 20%.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOLLYKNIGHT_1]
-Holy Knight Fu Zi Kostüm
+Holly-Barriere Fu Zi Kostüm
 
 [NEW_AVATAR_DESCRIPTION_HOLLYKNIGHT_1]
 Pflanzen-Abklingzeit wird um 20% verkürzt.
@@ -72232,7 +72232,7 @@ Beim Angriff besteht eine 50%ige Chance, einen weiteren Feuerdrachen zu kondensi
 Das Drachenmäulchen fliegt hoch und spuckt Flammen im 3×3-Bereich rechts, die allen Zombies Schaden zufügen.
 
 [SNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Feuerdrachenpflanze fliegt hoch und spuckt Flammen im 4×3-Bereich ^oldclr^ rechts von ^ff0000^, die allen Zombies Schaden zufügen.
+Das Drachenmäulchen fliegt hoch und spuckt Flammen im 4×3-Bereich ^oldclr^ rechts von ^ff0000^, die allen Zombies Schaden zufügen.
 
 [POWERLILY_NEW_SKILL_LEVEL1_DES]
 Sie blüht sofort nach dem Pflanzen und produziert eine Spezialdünger-Fähigkeit.
@@ -73123,7 +73123,7 @@ Der Schlingtang greift zufällig 3 Einheiten im Wasser an.
 Der Schlingtang greift zufällig ^ff0000^5 Einheiten im Wasser an. ^oldclr^
 
 [BANANA_NEW_SKILL_LEVEL1_DES]
-Klicke auf den Bananenraketenwerfer, um das Fadenkreuz zu erhalten. Klicke dann auf ein beliebiges Gitter im Feld. Der Bananenraketenwerfer feuert Bananenraketen aus dem Fass ab, die Zombies im Umkreis von 2×1 Schaden zufügen. Anschließend ruht er sich 20 Sekunden lang aus.
+Klicke auf den Bananenwerfer, um das Fadenkreuz zu erhalten. Klicke dann auf ein beliebiges Gitter im Feld. Der Bananenwerfer feuert Bananenraketen aus dem Fass ab, die Zombies im Umkreis von 2×1 Schaden zufügen. Anschließend ruht er sich 20 Sekunden lang aus.
 
 [BANANA_NEW_SKILL_LEVEL2_DES]
 Das Nachladen von Bomben wird beschleunigt und die Ruhezeit auf 17 Sekunden verkürzt.
@@ -73144,7 +73144,7 @@ Bei voller Kraft werden 4 Bananenbomben zufällig über den gesamten Bildschirm 
 Bei voller Kraft werden 4 Bananenbomben zufällig auf den gesamten Bildschirm abgefeuert^ff0000^ und eine zusätzliche Bombe mit etwas geringerem Schaden hinzugefügt.^oldclr^ Anschließend wird der Ruhezustand aktiviert.
 
 [GUACODILE_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben dem Guakodile erscheint, feuert das Guakodil einen Kern oder eine Klammer ab. Wird das Guakodil beschädigt oder nähert sich ein Zombie dem Guakodil, lädt sich der Guakodil auf und fügt den Zombies auf dem Weg mit einer Frequenz von 0,2 s/Zeit Schaden zu. Der Ladeschaden beträgt 150.
+Wenn ein Zombie rechts neben dem Guakodil erscheint, feuert das Guakodil einen Kern oder eine Klammer ab. Wird das Guakodil beschädigt oder nähert sich ein Zombie dem Guakodil, lädt sich der Guakodil auf und fügt den Zombies auf dem Weg mit einer Frequenz von 0,2 s/Zeit Schaden zu. Der Ladeschaden beträgt 150.
 
 [GUACODILE_NEW_SKILL_LEVEL2_DES]
 Es besteht eine 20%ige Chance, das Metall-Gebiss des Guakodile's abzufeuern und so 50% zusätzlichen Schaden zu verursachen. Der Aufladeschaden erhöht sich auf 225.
@@ -74512,10 +74512,10 @@ Der Apfelmörser sammelt eine große Anzahl von Projektile und feuert eine Apfel
 Der Apfelmörser sammelt eine große Anzahl von Projektile und feuert eine biochemische Apfelbombe (^ff0000^) auf jeden Zombie auf dem Bildschirm ab. Diese verursacht einen Schadensblock und betäubt Zombies 0,5 Sekunden lang (^848484^betäubtⅠ^oldclr^). Zombies werden außerdem 6 Sekunden lang vergiftet und verlangsamt. (^oldclr^)
 
 [WITCHHAZEL_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie in den drei Reihen rechts von der Zaubernuss-Hexe erscheint, wirkt die Zaubernuss-Hexe einen Zauber. Nach dem Wirken des Zaubers kann sie kleinere Zombies, die maximal zwei Level höher sind als sie selbst, in kleine Pustepilze verwandeln und so nicht verwandelbaren Zombies direkten Schaden zufügen.
+Wenn ein Zombie in den drei Reihen rechts von der Hexe Hasel erscheint, wirkt die Hexe Hasel einen Zauber. Nach dem Wirken des Zaubers kann sie kleinere Zombies, die maximal zwei Level höher sind als sie selbst, in kleine Pustepilze verwandeln und so nicht verwandelbaren Zombies direkten Schaden zufügen.
 
 [WITCHHAZEL_NEW_SKILL_LEVEL2_DES]
-Verleiht den kleinen Pustepilzen, die durch den Zauber verwandelt werden, einen 3-sekündigen Unverwundbarkeitsschild.
+Verleiht den kleinen Pustepilzen, die durch den Zauber erschaffen werden, einen 3-sekündigen Unverwundbarkeitsschild.
 
 [WITCHHAZEL_NEW_SKILL_LEVEL3_DES]
 Die Vorbereitungszeit für den Zauber wird auf 13 Sekunden reduziert.
@@ -74527,10 +74527,10 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Beim Wirken des Zaubers besteht eine 30%ige Wahrscheinlichkeit, zwei Zombies zu treffen.
 
 [WITCHHAZEL_PLANTFOOD_DESCRIPTION]
-Wirke einen Zauber auf den Zombie ganz links auf dem Bildschirm und verwandle ihn in einen Pustepilz.
+Wirkt einen Zauber auf den Zombie ganz links auf dem Bildschirm und verwandelt ihn in einen Stinkpilz.
 
 [WITCHHAZEL_AVATAR_PLANTFOOD_DESCRIPTION]
-Wirke einen Zauber auf den Zombie ganz links auf dem Bildschirm und verwandle ihn in einen Pustepilz. ^ff0000^ Der Pustepilz führt eine Spezialattacke aus. ^oldclr^
+Wirkt einen Zauber auf den Zombie ganz links auf dem Bildschirm und verwandelt ihn in einen Stinkpilz. ^ff0000^ Der Stinkpilz führt eine Spezialattacke aus. ^oldclr^
 
 [ESCAPEROOT_NEW_SKILL_LEVEL1_DES]
 Nach 10 Sekunden Vorbereitungszeit erscheint die Fluchtwurzel. Berührt ein Zombie sie, verwandelt sie sich in eine explosive Pflanze. Klicke auf die Fluchtwurzel und dann auf eine andere Pflanze. Die Fluchtwurzel tauscht dann den Platz mit den anderen Pflanzen. Dieser Vorgang dauert 3 Sekunden. Danach ist die Fluchtwurzel sofort einsatzbereit.
@@ -74554,7 +74554,7 @@ Sie beschwört zwei bereite Fluchtwurzeln neben dem Zombie und explodiert sofort
 Sie beschwört ^ff0000^ drei bereite Fluchtwurzeln neben dem Zombie und explodiert sofort. ^oldclr^
 
 [ELECTRICCURRANT_NEW_SKILL_LEVEL1_DES]
-Wenn zwei oder mehr elektrische Johannisbeeren in derselben Reihe oder Spalte gepflanzt werden, entsteht ein elektrischer Zaun, der Zombies, die ihn passieren, pro Sekunde Schaden zufügt. Nähern sich Zombies, entfesseln elektrische Johannisbeeren die 1,2-fache Angriffskraft eines Elektroschocks.
+Wenn zwei oder mehr Elektro-Ribisel in derselben Reihe oder Spalte gepflanzt werden, entsteht ein elektrischer Zaun, der Zombies, die ihn passieren, pro Sekunde Schaden zufügt. Nähern sich Zombies, entfesseln Elektro-Ribiseln die 1,2-fache Angriffskraft eines Elektroschocks.
 
 [ELECTRICCURRANT_NEW_SKILL_LEVEL2_DES]
 Die Angriffskraft von elektrischem Strom erhöht sich um 20%.
@@ -74569,10 +74569,10 @@ Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkei
 Die Nahkampfschadensreichweite wurde auf einen 3×3 großen, auf sich selbst zentrierten Bereich geändert.
 
 [ELECTRICCURRANT_PLANTFOOD_DESCRIPTION]
-Elektrische Johannisbeere ist mit Elektrizität bedeckt, wodurch ihr eigener Schaden und der Schaden der elektrischen Wand, mit der sie verbunden ist, dauerhaft um 100% erhöht wird.
+Elektro-Ribisel ist mit Elektrizität bedeckt, wodurch ihr eigener Schaden und der Schaden der elektrischen Wand, mit der sie verbunden ist, dauerhaft um 100% erhöht wird.
 
 [ELECTRICCURRANT_AVATAR_PLANTFOOD_DESCRIPTION]
-Elektrische Johannisbeere ist in Elektrizität gehüllt, wodurch ihr eigener Schaden und der Schaden der elektrischen Wand, mit der sie verbunden ist, dauerhaft um 100% erhöht wird (^ff0000^). Außerdem besteht eine 50% Chance, beim Angriff auf Zombies eine ^oldclr^^ff9600^ Lähmung Ⅰ^oldclr^^ff0000^ für 1 Sekunde zu verursachen. ^oldclr^
+Elektro-Ribisel ist in Elektrizität gehüllt, wodurch ihr eigener Schaden und der Schaden der elektrischen Wand, mit der sie verbunden ist, dauerhaft um 100% erhöht wird (^ff0000^). Außerdem besteht eine 50% Chance, beim Angriff auf Zombies eine ^oldclr^^ff9600^ Lähmung Ⅰ^oldclr^^ff0000^ für 1 Sekunde zu verursachen. ^oldclr^
 
 [WHITEMELON_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie ein Feld rechts vom Weißen Melonen-Sumo erscheint, trifft der Weiße Melonen-Sumo den Zombie und wirft ihn 1 bis 3 Felder zurück. Zwischen jedem Treffer des Weißen Melonen-Sumos liegt ein Intervall von 5 Sekunden.
@@ -74674,13 +74674,13 @@ Die Sprengnuss trägt einen Stahlschild, der nach dem Verzehr ebenfalls explodie
 Die Sprengnuss trägt einen ^ff0000^ dickeren Stahlschild ^oldclr^, der explodiert, sobald er aufgefressen wird.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie im Normalzustand ein Feld rechts von Nachtschatten, feuert  Blätter ab. Im Schattenzustand erstreckt sich die Angriffsreichweite über die gesamte Reihe, und alle 5 Sekunden wird ein Blatt wiederhergestellt.
+Erscheint ein Zombie im Normalzustand ein Feld rechts von Nachtschatten, feuert er Blätter ab. Im Schattenzustand erstreckt sich die Angriffsreichweite über die gesamte Reihe, und alle 5 Sekunden wird ein Blatt wiederhergestellt.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL2_DES]
-Wenn Moonflower einen Buff gewährt, erhöht sich ihre Blattregenerationsgeschwindigkeit, und alle 4,5 Sekunden wird ein Blatt wiederhergestellt.
+Wenn die Mondblume einen Buff gewährt, erhöht sich seine Blattregenerationsgeschwindigkeit, und alle 4,5 Sekunden wird ein Blatt wiederhergestellt.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL3_DES]
-Wenn Moonflower einen Buff gewährt, erhöht sich ihre Blattregenerationsgeschwindigkeit, und alle 4 Sekunden wird ein Blatt wiederhergestellt.
+Wenn die Mondblume einen Buff gewährt, erhöht sich seine Blattregenerationsgeschwindigkeit, und alle 4 Sekunden wird ein Blatt wiederhergestellt.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen ist die Wahrscheinlichkeit gering, die Spezialdünger-Fähigkeit direkt auszulösen!
@@ -74692,7 +74692,7 @@ Nachtschattens Blätter färben sich blau und feuern drei Blätter ab. Dadurch e
 Nachtschattens Blätter färben sich blau^ff0000^ und er  feuert ein großes Blatt^oldclr^ ab. Dadurch erhöht sich seine Angriffskraft im Normal- und Schattenzustand.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL1_DES]
-Wenn rechts von Dusk Lobber ein Zombie erscheint, wirft Dusk Lobber explosive Früchte nach vorne. Die Projektile verursachen Flächenschaden in der Umgebung, unabhängig davon, ob sie treffen oder landen. Im Schattenzustand kann Dusk Lobber drei Reihen gleichzeitig angreifen.
+Wenn rechts vom Schattenlupfer ein Zombie erscheint, wirft der Schattenlupfer explosive Früchte nach vorne. Die Projektile verursachen Flächenschaden in der Umgebung, unabhängig davon, ob sie treffen oder landen. Im Schattenzustand kann der Schattenlupfer drei Reihen gleichzeitig angreifen.
 
 [DUSKLOBBER_NEW_SKILL_LEVEL2_DES]
 Beim Angriff besteht eine 10%ige Chance, rote Knospen zu werfen. Diese verursachen beim Treffer 120 Schaden und geben außerdem Pollen ab, der den Gegner 1,5 Sekunden lang betäubt.
@@ -74707,10 +74707,10 @@ Beim Pflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt 
 Beim Angriff besteht eine Chance von 25%, dass Samen im Wirkungsbereich fallen. Diese Samen wachsen zu Dornen heran, die 1000 Schaden absorbieren und Zombies fesseln können, bis die Ranken zerstört sind.
 
 [DUSKLOBBER_PLANTFOOD_DESCRIPTION]
-Der Dämmerungskrug lädt sich auf und wirft 4 Blütenknospen, die explodieren und Zombies im Umkreis von 3×3 Schaden zufügen.
+Der Schattenlupfer lädt sich auf und wirft 4 Blütenknospen, die explodieren und Zombies im Umkreis von 3×3 Schaden zufügen.
 
 [DUSKLOBBER_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Dämmerungskrug lädt sich auf und wirft ^ff0000^5 Blütenknospen^oldclr^, die explodieren und Zombies im Umkreis von 3×3 Schaden zufügen. ^ff0000^Zusätzliche Blütenknospen betäuben Zombies in Reichweite für 2 Sekunden.^oldclr^^848484^oldclr^^ff0000^. ^oldclr^
+Der Schattenlupfer lädt sich auf und wirft ^ff0000^5 Blütenknospen^oldclr^, die explodieren und Zombies im Umkreis von 3×3 Schaden zufügen. ^ff0000^Zusätzliche Blütenknospen betäuben Zombies in Reichweite für 2 Sekunden.^oldclr^^848484^oldclr^^ff0000^. ^oldclr^
 
 [bloominghearts_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie rechts vom Glockenblumenhüpfer erscheint, wirft dieser eine Herzfrucht. Der Angriff des Glockenblumenhüpfers stapelt Herzmarkierungen auf einem einzelnen Zombie und erhöht den Schaden basierend auf der Anzahl der Stapel. Ein Zombie kann bis zu fünf Herzmarkierungen erhalten, und jede Markierung erhöht den Schaden um 10 Punkte.
@@ -74755,25 +74755,25 @@ Zieh den stärksten Zombie in den Boden, aber verletze dabei nur Gargantuas und 
 Zieht die drei stärksten Zombies zu Boden^oldclr^, fügt aber nur riesigen Zombies und mechanischen Einheiten Schaden zu und verbraucht keine Staubblätter.
 
 [WASABIWHIP_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie innerhalb von zwei Feldern links und rechts von Scorching Wasabi erscheint, schwingt Scorching Wasabi die Flammenpeitsche auf seinen Kopf und fügt einem einzelnen Zombie Feuerschaden zu.
+Wenn ein Zombie innerhalb von zwei Feldern links und rechts von Wasabi-Peitsche erscheint, schwingt Wasabi-Peitsche die Flammenpeitsche auf ihrem Kopf und fügt einem einzelnen Zombie Feuerschaden zu.
 
 [WASABIWHIP_NEW_SKILL_LEVEL2_DES]
-Scorching Wasabis Flammenpeitsche kann den getroffenen Zombie in einen ^ef0123^brennenden Ⅰ^oldclr^-Zustand versetzen, der 5 Sekunden anhält und 30 Schaden pro Sekunde verursacht.
+Wasabi-Peitsches Flammenpeitsche kann den getroffenen Zombie in einen ^ef0123^brennenden Ⅰ^oldclr^-Zustand versetzen, der 5 Sekunden anhält und 30 Schaden pro Sekunde verursacht.
 
 [WASABIWHIP_NEW_SKILL_LEVEL3_DES]
-Der Schaden von ^ef0123^burning Ⅰ^oldclr^ durch die Fertigkeit „Sengendes Brennen“ wird um 100% erhöht und verursacht 60 Schaden pro Sekunde.
+Der Schaden von ^ef0123^burning Ⅰ^oldclr^ durch die Fertigkeit „Brennen“ wird um 100% erhöht und verursacht 60 Schaden pro Sekunde.
 
 [WASABIWHIP_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht eine geringe Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [WASABIWHIP_NEW_SKILL_LEVEL5_DES]
-Alle 10 Sekunden hat „Sengendes Wasabi“ eine 20% Chance, eine Flammenpeitsche zu schwingen und einen Feuerball zu schleudern, der direkt nach rechts fliegt und 600 Schaden verursacht. Bei kleinen oder mittelgroßen Zombies ist der Schaden deutlich erhöht.
+Alle 10 Sekunden hat die Wasabi-Peitsche eine 20% Chance, eine Flammenpeitsche zu schwingen und einen Feuerball zu schleudern, der direkt nach rechts fliegt und 600 Schaden verursacht. Bei kleinen oder mittelgroßen Zombies ist der Schaden deutlich erhöht.
 
 [WASABIWHIP_PLANTFOOD_DESCRIPTION]
-Der brennende Wasabi schwingt seine Flammenpeitsche schnell um sich selbst und fügt Zombies im Umkreis von 3×3 mehrfachen Feuerschaden zu.
+Die Wasabi-Peitsche schwingt ihre Flammenpeitsche schnell um sich selbst und fügt Zombies im Umkreis von 3×3 mehrfachen Feuerschaden zu.
 
 [WASABIWHIP_AVATAR_PLANTFOOD_DESCRIPTION]
-Wasabi schwingt seine Flammenpeitsche schnell um sich selbst und fügt Zombies im Umkreis von 3×3 mehrfachen Feuerschaden zu. ^ff0000^ Am Ende schlägt er auf dem Boden auf und löst eine zusätzliche Erdbebenwelle aus, die Zombies im Umkreis von 3×3 Schaden zufügt. ^oldclr^
+Die Wasabi-Peitsche schwingt ihre Flammenpeitsche schnell um sich selbst und fügt Zombies im Umkreis von 3×3 mehrfachen Feuerschaden zu. ^ff0000^ Am Ende schlägt sie auf dem Boden auf und löst eine zusätzliche Erdbebenwelle aus, die Zombies im Umkreis von 3×3 Schaden zufügt. ^oldclr^
 
 [PARSNIP_NEW_SKILL_LEVEL1_DES]
 Wenn zwei Felder rechts von der Pastinake ein Zombie erscheint, fügt die Pastinake dem Zombie im einzelnen Feld mit ihrer Zange Schaden zu. Wenn die Pastinaken bis zum Lebenspunkt gefressen sind, stürmen sie los und verursachen den einreihigen Zombies rechts 150 Schaden.
@@ -74821,19 +74821,19 @@ Der Donnerbesen visiert das Zombie-Gitter an, ^ff0000^ feuert vier Eismeteoriten
 Wenn Zombies in Angriffsreichweite erscheinen, schlagen sie auf den Boden und fügen allen Zombies in einem Gitter Schaden zu. Jedes Mal, wenn sie eine bestimmte Menge Schaden erleiden, werden sie größer und erweitern so die Angriffsreichweite des Schlags. Wenn sie wachsen, führen sie sofort einen verstärkten Schlag aus, der Zombies um ein Gitter zurückwirft.
 
 [KIWIBEAST_NEW_SKILL_LEVEL2_DES]
-Die Wachstumskraft der Bestienkiwi wurde verbessert und sie kann mit weniger Sonnenlicht wachsen. Der Sonnenlichtverbrauch beim Pflanzen wurde auf 170 reduziert.
+Die Wachstumskraft vom Kiwibiest wurde verbessert und sie kann mit weniger Sonnenlicht wachsen. Der Sonnenlichtverbrauch beim Pflanzen wurde auf 170 reduziert.
 
 [KIWIBEAST_NEW_SKILL_LEVEL3_DES]
-Der Fertigkeitseffekt von Wildes Wachstum wurde um 100% erhöht und der Sonnenlichtverbrauch der Bestienkiwi auf 160 reduziert.
+Der Effekt von Wilder Wachstum wurde um 100% erhöht und der Sonnenlichtverbrauch vom Kiwibiest auf 160 reduziert.
 
 [KIWIBEAST_NEW_SKILL_LEVEL4_DES]
 Die Wahrscheinlichkeit, die Spezialdünger-Fähigkeit beim Pflanzen direkt freizusetzen, ist gering!
 
 [KIWIBEAST_NEW_SKILL_LEVEL5_DES]
-Wenn Bestien-Kiwi seine größte Form erreicht hat, besteht eine 15%ige Chance, dass alle Bodenzombies in Reichweite beim Angriff ein Feld zurückgestoßen werden.
+Wenn Kiwibiest seine größte Form erreicht hat, besteht eine 15%ige Chance, dass alle Bodenzombies in Reichweite beim Angriff ein Feld zurückgestoßen werden.
 
 [KIWIBEAST_PLANTFOOD_DESCRIPTION]
-Bestien-Kiwi wächst sofort zu seiner größten Form heran und springt dreimal hintereinander, wobei er den Boden erschüttert. Dies fügt Zombies in Reichweite großen Schaden zu.
+Kiwibiest wächst sofort zu seiner größten Form heran und springt dreimal hintereinander, wobei er den Boden erschüttert. Dies fügt Zombies in Reichweite großen Schaden zu.
 
 [KIWIBEAST_AVATAR_PLANTFOOD_DESCRIPTION]
 Kiwi-Bestie wächst sofort zu ihrer größten Form heran und springt dreimal hintereinander. ^ff0000^ fügt Zombies in Reichweite schweren Schaden zu und verursacht einmal Schock. ^oldclr^
@@ -74962,10 +74962,10 @@ Die Maulbeere beschwört mehrere Granaten gleichzeitig und wirft kontinuierlich 
 Die Maulbeere beschwört mehrere Granaten gleichzeitig und wirft kontinuierlich sieben Granaten und eine zusätzliche große Granate auf Zombies auf dem gesamten Bildschirm, die Explosionsschaden verursachen.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts von der Elektro-Erbse erscheint, schleudert er eine Elektro-Erbse, die geradlinig fliegt, alle Zombies durchdringt und ihnen Schaden zufügt. Bis zu zwei Zombies in der Umgebung erleiden doppelten Flächenschaden.
+Wenn ein Zombie rechts von der Elektro-Erbsenkanone erscheint, schleudert er eine Elektro-Erbse, die geradlinig fliegt, alle Zombies durchdringt und ihnen Schaden zufügt. Bis zu zwei Zombies in der Umgebung erleiden doppelten Flächenschaden.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-Beim Angriff der Elektroerbse besteht eine Chance von 20%, einen energiereichen Blitzball mit 300 Schaden abzufeuern, der Zombies innerhalb von 1 Sekunde lähmen kann.
+Beim Angriff der Elektro-Erbsenkanone besteht eine Chance von 20%, einen energiereichen Blitzball mit 300 Schaden abzufeuern, der Zombies innerhalb von 1 Sekunde lähmen kann.
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL3_DES]
 Der Blitzball wird zu einem Gewitterball aufgewertet, mit einer Auslösewahrscheinlichkeit von 30% und einem Schaden von 400.
@@ -74974,13 +74974,13 @@ Der Blitzball wird zu einem Gewitterball aufgewertet, mit einer Auslösewahrsche
 Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-Beim Angriff besteht eine Chance von 20%, einen violetten Blitzball abzufeuern. Trifft ein Zombie, erzeugt die elektrische Erbse ein Magnetfeld, das 3 Sekunden lang anhält und umstehende Zombies anzieht. Es verursacht 270 Schaden pro Sekunde.
+Beim Angriff besteht eine Chance von 20%, einen violetten Blitzball abzufeuern. Trifft ein Zombie, erzeugt die Elektro-Erbsenkanone ein Magnetfeld, das 3 Sekunden lang anhält und umstehende Zombies anzieht. Es verursacht 270 Schaden pro Sekunde.
 
 [ELECTRICPEASHOOTER_PLANTFOOD_DESCRIPTION]
-Die elektrische Erbse schießt drei große Blitzbälle ab, die explodieren und sechs kleine Blitzbälle verteilen, nachdem sie den Zombie verletzt haben.
+Die Elektro-Erbsenkanone schießt drei große Blitzbälle ab, die explodieren und sechs kleine Blitzbälle verteilen, nachdem sie den Zombie verletzt haben.
 
 [ELECTRICPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Die elektrische Erbse schießt drei große Blitzbälle ab, die explodieren und sechs kleine Blitzbälle verteilen, nachdem sie Zombies verletzt haben. ^ff0000^ Außerdem fügt sie zwei weitere violette Blitzbälle hinzu, die Zombies verletzen und ^oldclr^^ff9600^ lähmen. ^oldclr^
+Die Elektro-Erbsenkanone schießt drei große Blitzbälle ab, die explodieren und sechs kleine Blitzbälle verteilen, nachdem sie Zombies verletzt haben. ^ff0000^ Außerdem fügt sie zwei weitere violette Blitzbälle hinzu, die Zombies verletzen und ^oldclr^^ff9600^ lähmen. ^oldclr^
 
 [ICYCURRANT_NEW_SKILL_LEVEL1_DES]
 Zwischen zwei Eisstöcken erscheint Eisboden. Wenn Zombies sich Eisstöcken nähern oder Eisboden durchqueren, werden sie beschädigt und verlangsamt.
@@ -75130,10 +75130,10 @@ Der Doppelkanonenzapfen wechselt in den Scharfschützenmodus und feuert kontinui
 Doppelkanonenzapfen wechselt in den Scharfschützenmodus und feuert kontinuierlich sieben lila Feuer-Kiefernzapfen ab, die Zombies verfolgen und hohen Schaden verursachen können. ^oldclr^ und Flächenschaden in geringer Reichweite verursachen.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL1_DES]
-Holly Knight kann Holly Knives an einer bestimmten Stelle abfeuern. Wenn die Holly Knives landen, verursachen sie Schaden in einem kleinen Bereich und stoßen kleine Zombies ab. Maximal drei Holly Knives können abgefeuert werden. Holly Knight und Holly Knives verursachen Schaden an Zombies im Umkreis von einem Feld links und rechts.
+Holly-Barriere kann Holly Knives an einer bestimmten Stelle abfeuern. Wenn die Holly Knives landen, verursachen sie Schaden in einem kleinen Bereich und stoßen kleine Zombies ab. Maximal drei Holly Knives können abgefeuert werden. Holly-Barriere und Holly Knives verursachen Schaden an Zombies im Umkreis von einem Feld links und rechts.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL2_DES]
-Holly Knights Angriffsreichweite wird erweitert, und er kann alle Zombies im Umkreis von einem Feld links, rechts, oben und unten gleichzeitig angreifen.
+Holly-Barriere's Angriffsreichweite ist erweitert, und sie kann alle Zombies im Umkreis von einem Feld links, rechts, oben und unten gleichzeitig angreifen.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL3_DES]
 Der Abwehreffekt von Stechpalmenmessern wurde verstärkt und kann kleine Zombies drei Felder weit zurückstoßen.
@@ -75142,13 +75142,13 @@ Der Abwehreffekt von Stechpalmenmessern wurde verstärkt und kann kleine Zombies
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen!
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL5_DES]
-Die Stechpalmenpflanzen des Stechpalmenritters werden vergrößert, ihre Lebenspunkte auf 3200 erhöht und ihre Angriffskraft auf die des Stechpalmenritters erhöht.
+Die Stechpalmenpflanzen der Holly-Barriere werden vergrößert, ihre Lebenspunkte auf 3200 erhöht und ihre Angriffskraft auf die der Holly-Barriere erhöht.
 
 [HOLLYKNIGHT_PLANTFOOD_DESCRIPTION]
-Der Stechpalmenritter wirft sofort Stechpalmenpflanzen an zufällige Positionen auf dem Bildschirm und setzt die Anzahl der Stechpalmen, die abgefeuert werden können, auf 3 zurück.
+die Holly-Barriere wirft sofort Stechpalmenpflanzen an zufällige Positionen auf dem Bildschirm und setzt die Anzahl der Stechpalmen, die gezielt abgefeuert werden können, auf 3 zurück.
 
 [HOLLYKNIGHT_AVATAR_PLANTFOOD_DESCRIPTION]
-Der Stechpalmenritter wirft sofort ^ff0000^ aufgeladene Stechpalmenpflanzen an zufällige Positionen auf dem Bildschirm, die Zombies lähmen können ^oldclr^^ff9600^ Ⅰ^oldclr^^ff000^ und setzt die Anzahl der Stechpalmen, die abgefeuert werden können, auf 3 zurück.
+die Holly-Barriere wirft sofort ^ff0000^ aufgeladene Stechpalmenpflanzen an zufällige Positionen auf dem Bildschirm, die Zombies lähmen können ^oldclr^^ff9600^ Ⅰ^oldclr^^ff000^ und setzt die Anzahl der Stechpalmen, die gezielt abgefeuert werden können, auf 3 zurück.
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL1_DES]
 Zwischen zwei Alarm-Explosionspilzen in derselben Reihe wird eine Absperrung gezogen. Nach dem Pflanzen dauert es 2 Sekunden, bis sie wieder erwachen. Nach dem Aufwachen, wenn Zombies links und rechts in einem Feld erscheinen oder die Absperrung berühren, fliegen sie heraus und explodieren, wodurch Zombies in geringem Umkreis Schaden zugefügt wird. ^ff0000^ Mechanische Einheiten haben eine wundersame Wirkung! ^oldclr^
@@ -75361,10 +75361,10 @@ Elektrizi-Teeblatt ist voller Elektrizität und feuert zufällig fünf elektrisc
 Elektrizi-Teeblatt ist voller Elektrizität und feuert fünf elektrische Ströme auf zufällige Zombies auf dem Feld ab. Er verursacht Blitzschaden^ff0000^ und Lichtbogenschaden im Bereich von 3×3. ^oldclr^
 
 [IMPPEAR_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie eine gelbe Birne isst, verwandelt er sich in einen Wicht-Zombie. Ist er bereits ein Wicht-Zombie, erleidet er Schaden und setzt Giftgas frei, das die Zombies dahinter^848484^für Ⅰ^oldclr^7 Sekunden betäubt. Wirkt maximal bei Zombies der Stufe 2.
+Wenn ein Zombie eine Wicht-Birne isst, verwandelt er sich in einen Wicht-Zombie. Ist er bereits ein Wicht-Zombie, erleidet er Schaden und setzt Giftgas frei, das die Zombies dahinter^848484^für Ⅰ^oldclr^7 Sekunden betäubt. Wirkt maximal bei Zombies der Stufe 2.
 
 [IMPPEAR_NEW_SKILL_LEVEL2_DES]
-Es besteht eine 40%ige Chance, dass ein Zombie, der eine gelbe Birne isst und sich in einen Wicht-Zombie verwandelt, direkt vergiftet wird und Gas freisetzt, das die Zombies dahinter betäubt. ^oldclr^. Funktioniert maximal bei Zombies der Stufe 3.
+Es besteht eine 40%ige Chance, dass ein Zombie, der eine Wicht-Birne isst und sich in einen Wicht-Zombie verwandelt, direkt vergiftet wird und Gas freisetzt, das die Zombies dahinter betäubt. ^oldclr^. Funktioniert maximal bei Zombies der Stufe 3.
 
 [IMPPEAR_NEW_SKILL_LEVEL3_DES]
 Die Auslösewahrscheinlichkeit der verstärkten Mutation erhöht sich auf 80%. Der Zombie wird direkt vergiftet und setzt Gas^848484^ frei, das die Zombies hinter Ⅰ^oldclr^ betäubt. Wirksam bis zu Zombies der Stufe 5.
@@ -75373,13 +75373,13 @@ Die Auslösewahrscheinlichkeit der verstärkten Mutation erhöht sich auf 80%. D
 Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
 
 [IMPPEAR_NEW_SKILL_LEVEL5_DES]
-Wenn ein Zombie die kleine gelbe Birne isst und Giftgas freisetzt, erhöht sich dessen Reichweite. Zombies, die das Giftgas einatmen, werden verwundbar und erleiden 7 Sekunden lang 30% mehr Schaden.
+Wenn ein Zombie die Wicht-Birne isst und Giftgas freisetzt, erhöht sich dessen Reichweite. Zombies, die das Giftgas einatmen, werden verwundbar und erleiden 7 Sekunden lang 30% mehr Schaden.
 
 [IMPPEAR_PLANTFOOD_DESCRIPTION]
-Die kleine gelbe Birne entfesselt sofort die Magie der kleinen gelben Birne auf fünf Zombies auf dem Spielfeld und verwandelt kleine und mittlere Zombies in Wichtzombies oder verursacht Schaden.
+Die Wicht-Birne entfesselt sofort die Magie der kleinen gelben Birne auf fünf Zombies auf dem Spielfeld und verwandelt kleine und mittlere Zombies in Wichtzombies oder verursacht Schaden.
 
 [IMPPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Birne entfesselt sofort die Magie der Birne auf die sieben Zombies auf dem Spielfeld ^ff0000^ und verwandelt kleine und mittlere Zombies in Wichte oder verursacht Schaden.
+Die Wicht-Birne entfesselt sofort die Magie der Birne auf die sieben Zombies auf dem Spielfeld ^ff0000^ und verwandelt kleine und mittlere Zombies in Wichte oder verursacht Schaden.
 
 [POMEGRANATEJEWELER_NEW_SKILL_LEVEL1_DES]
 Wenn Zombies rechts vom Juwelier-Granatapfel erscheinen, werfen sie Edelsteine, um die Zombies zu verletzen. Nach dem Auftreffen prallen die Edelsteine diagonal nach rechts ab und verursachen 50% Schaden.
@@ -75898,7 +75898,7 @@ Das Betäubungsgänseblümchen wird sofort zur höchsten Stufe aufgewertet. Eine
 Stinkeblümchen nimmt sofort ihre maximale Form an und feuert eine große Rauchwolke nach rechts ab, die drei Reihen bedeckt und die gesamte Reihe durchdringt. Alle Zombies^848484^ werden 1^oldclr^4 Sekunden lang betäubt. ^ff0000^ Zusätzlich feuert sie einen starken Wind ab, der die Zombies rechts um einen Block zurückweht. ^oldclr^
 
 [BOOMFLOWER_NEW_SKILL_LEVEL1_DES]
-Nachdem die Angriffsposition manuell festgelegt wurde, platziert Explosive Kikyo eine Ballonbombe auf dem Feld. Pro Feld können bis zu drei Stapel vorhanden sein. Die Ballonbombe explodiert nach 90 Sekunden von selbst oder löst bei Berührung durch einen Zombie eine Explosion aus, die Zombies im Umkreis von 1×2 Schaden zufügt.
+Nachdem die Angriffsposition manuell festgelegt wurde, platziert Knallballonblume eine Ballonbombe auf dem Feld. Pro Feld können bis zu drei Stapel vorhanden sein. Die Ballonbombe explodiert nach 90 Sekunden von selbst oder löst bei Berührung durch einen Zombie eine Explosion aus, die Zombies im Umkreis von 1×2 Schaden zufügt.
 
 [BOOMFLOWER_NEW_SKILL_LEVEL2_DES]
 Das Intervall zwischen den Ballonbomben wird um 1 Sekunde verkürzt. Der Sonnenlichtverbrauch beim Pflanzen wird um 50 Punkte reduziert.
@@ -75913,13 +75913,16 @@ Es besteht eine hohe Wahrscheinlichkeit, beim Pflanzen die Spezialdünger-Fähig
 Wenn eine Ballonbombe erzeugt wird, besteht eine 30%ige Chance, einen Ballon zum 8. Jahrestag zu erzeugen. Der Ballon fliegt automatisch zum nächsten Zombie und explodiert. Zombies im Umkreis von 3×3 Schaden.
 
 [BOOMFLOWER_PLANTFOOD_DESCRIPTION]
-Die Knallballonblume setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht Explosionsschaden bei allen Zombies.
+Die Knallballonblume setzt einen Unheilpilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht Explosionsschaden bei allen Zombies.
 
 [BOOMFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Knallballonblume setzt einen Zerstörungspilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht ^ff0000^ höheren Explosionsschaden bei allen Zombies und ^oldclr^^848484^ betäubt Ⅰ^oldclr^^ff000^2 Sekunden lang. ^oldclr^
+Die Knallballonblume setzt einen Unheilpilz-Ballon frei, der in die Luft fliegt und explodiert. Dies verursacht ^ff0000^ höheren Explosionsschaden bei allen Zombies und ^oldclr^^848484^ betäubt Ⅰ^oldclr^^ff000^2 Sekunden lang. ^oldclr^
 
 [MOONFLOWER_IZ]
 Ich-Zombie Mondblume
+
+[MOONFLOWER_IZ_TOOLTIP]
+Produziert keine Sonnen
 
 [MOONFLOWER_IZ_DESCRIPTION_HEADER]
 Produziert keine Sonnen
@@ -76290,7 +76293,7 @@ Der Angriffsbambussoldat feuert sofort ein riesiges Bohrgeschoss auf jede der dr
 Der Angriffsbambussoldat feuert sofort ein riesiges Bohrgeschoss auf jede der drei Reihen rechts ab. Es beschädigt und verlangsamt Zombies, die hindurchgehen, und verursacht bei der Explosion hohen Flächenschaden im Einzelgitter. ^ff0000^höheren Flächenschaden im Einzelgitter und^oldclr^^848484^Betäubung für Ⅰ^oldclr^^ff000^2 Sekunden. ^oldclr^
 
 [BUTTERCUP_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts von Butter Buttercup erscheint, erzeugt Butter Buttercup ein Stück Butter, schwingt es nach vorne und wirft es dem Zombie zu. Ein Butterkern bleibt auf dem Boden zurück. Tritt der Zombie auf den Butterkern, wird er durch die Angriffskraft beschädigt, und der Butterkern verschwindet. Der Butterkern verschwindet nach einer gewissen Zeit, wenn kein Zombie darauf tritt.
+Wenn ein Zombie rechts von der Butterblume erscheint, erzeugt die Butterblume ein Stück Butter, schwingt es nach vorne und wirft es dem Zombie zu. Ein Butterkern bleibt auf dem Boden zurück. Tritt der Zombie auf den Butterkern, wird er durch die Angriffskraft beschädigt, und der Butterkern verschwindet. Der Butterkern verschwindet nach einer gewissen Zeit, wenn kein Zombie darauf tritt.
 
 [BUTTERCUP_NEW_SKILL_LEVEL2_DES]
 Erzeugt ein größeres Butterstück. Wenn es fällt, wird der Kern dicker. Er verschwindet, sobald zwei Zombies darauf treten.
@@ -76308,7 +76311,7 @@ Beim Angriff wirft die Butterblume drei zusätzliche Butterkugeln der Größe 9 
 Butterblume wirft mehrere Butterkugeln, die drei Reihen Buttergruben auf dem Boden hinterlassen. Zombies, die von der Butter getroffen werden, erleiden Schaden und werden eingebuttert, wenn sie die Buttergrube betreten. Die Buttergrube verschwindet, nachdem sie den nächsten Zombie einmal verletzt hat und mit Butter bedeckt ist.
 
 [BUTTERCUP_AVATAR_PLANTFOOD_DESCRIPTION]
-Buttercup wirft mehrere Butterstücke, die drei Reihen Buttergruben mit Kuchen und Kerzen auf dem Boden bilden^ff0000^. Die von der Butter getroffenen Zombies erleiden Schaden und werden bewegungsunfähig, wenn sie die Buttergrube betreten. Die Buttergrube fügt den nächsten beiden Zombies^ff0000^, die einmal darauf treten, Schaden zu und wird einmal mit Butter bedeckt, bevor sie verschwindet. ^oldclr^
+Butterblume wirft mehrere Butterstücke, die drei Reihen Buttergruben mit Kuchen und Kerzen auf dem Boden bilden^ff0000^. Die von der Butter getroffenen Zombies erleiden Schaden und werden bewegungsunfähig, wenn sie die Buttergrube betreten. Die Buttergrube fügt den nächsten beiden Zombies^ff0000^, die einmal darauf treten, Schaden zu und wird einmal mit Butter bedeckt, bevor sie verschwindet. ^oldclr^
 
 [BYTTNERIAMETEORHAMMER_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie innerhalb von zwei Feldern rechts erscheint, wirft er einen Meteorhammer, der alle Zombies verletzt. Wenn er nicht angreift, dreht er den Meteorhammer und lädt ihn auf. Nach 10 Sekunden ist der Ladevorgang abgeschlossen und die Angriffsreichweite beträgt zwei Felder rechts. Er stößt einen einzelnen Zombie ab und verursacht 200-fachen Schaden. Trifft ein Zombie während des Abstoßungsvorgangs einen anderen Zombie, wird dieser an derselben Stelle für ^848484^3 Sekunden betäubt und erleidet erneut Schaden.
@@ -78322,7 +78325,7 @@ Schöne Ideale beginnen immer im Kleinen zu verfallen. Wenn diese scheinbar unbe
 Kann über deine Schilde geworfen werden und landet direkt auf dem U-Boot.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_1]
-Elektrische Erbse: Kindertag-Ankleidespiel
+Elektro-Erbsenkanone: Kindertag-Ankleidespiel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_2]
 Sonnenblumen-Sängerin: Kindertag-Ankleidespiel
@@ -79506,10 +79509,10 @@ Power-up
 Mantra-Fest-Wachstumskostüm
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOLLYKNIGHT_1]
-Holy Knight Fu Zi-Kostüm
+Fu Zi
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
-Schattenerbsen-Strohhut-Kostüm
+Strohhut
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TURKEYPULT_2]
 Truthahn-Katapult-Schnuller-Kostüm
