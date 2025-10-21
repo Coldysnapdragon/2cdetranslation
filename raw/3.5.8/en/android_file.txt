@@ -9949,6 +9949,12 @@ Harzkrug (Stufe 3)
 [GEMS_RESTORE_CODE_RECHARGE_DANDELION_LV3_SUCCEED_CONTENT]
 Löwenzahn (Stufe 3)
 
+[PVZ1MODE_DINO]
+Dinosaurier greifen an
+
+[PVZ1MODE_DINO_NORMAL_DESC]
+Verschiedene Dinosaurier haben deinen Rasen überfallen.
+
 [GEMS_RESTORE_CODE_RECHARGE_GROUNDCHERRY_LV3_SUCCEED_CONTENT]
 Laternengras (Stufe 3)
 
@@ -36032,16 +36038,16 @@ Widersteht dem Trampeln von Dinos.
 Meister Zuckerrohr
 
 [DRAGONCANE_DESCRIPTION]
-{KEYWORD}Eigenschaften: {STAT}Benutze doppelte Zuckerrohrstäbe, um mehrere Zombies anzugreifen.
+{KEYWORD}Eigenschaften: {STAT}Benutzt doppelte Zuckerrohrstäbe, um mehrere Zombies vor sich anzugreifen.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Lila Pflanze, starke Kampfkünste.
 
 {FLAVOR}Meister Zuckerrohr ist außerdem ein fanatischer Bruce-Lee-Fan. Um seinen Respekt für sein Idol auszudrücken, praktiziert er seit seiner Kindheit Zuckerrohrboxen und ist sehr gut im Umgang mit doppelten Zuckerrohrstäben. Bruce Lee zu imitieren ist seine Lieblingsbeschäftigung, so sehr, dass er jetzt nur noch „Ah Da! Ah Da!“ sagen kann.
 
 [DRAGONCANE_DESCRIPTION_HEADER]
-Meister Zuckerrohr kann mit doppelten Zuckerrohrstäben mehrere Zombies vor ihm angreifen.
+Meister Zuckerrohr kann mit doppelten Zuckerrohrstäben mehrere Zombies vor sich angreifen.
 
 [DRAGONCANE_TOOLTIP]
-Benutze doppelte Zuckerrohrstäbe, um mehrere Zombies vor ihm anzugreifen.
+Benutzt doppelte Zuckerrohrstäbe, um mehrere Zombies vor sich anzugreifen.
 
 [COBCANNON]
 Maiskanone
@@ -36073,10 +36079,10 @@ Primitive Rafflesia
 Primitive Rafflesia kann Giftbälle abfeuern, um Zombies anzugreifen und einen verlangsamenden Effekt zu verursachen.
 
 [PRIMALRAFFLESIA_TOOLTIP]
-Schieß Giftbälle ab, um Zombies anzugreifen und sie zu verlangsamen.
+Schießt Giftbälle ab, um Zombies anzugreifen und sie zu verlangsamen.
 
 [STORE_PRODUCT_AVATAR_PRIMALSUNFLOWER_TITLE]
-Primitives Sonnenblumen-Outfit
+Hut
 
 [STORE_PRODUCT_AVATAR_PRIMALSUNFLOWER]
 Beim Einsatz der Spezialdünger-Fähigkeit erhältst du eine extra große Goldmünze.
