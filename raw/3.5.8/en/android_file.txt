@@ -8,6 +8,279 @@ Breitseitenkanone
 [ACHIEVE_COWBOY_STARS_DESC]
 Holt alle Wild-West-Sterne.
 
+[poisonvine]
+Grüne Schlangenrebe
+
+[poisonvine_DESCRIPTION_HEADER]
+Feuert Giftgasgeschosse ab, um einen giftigen Nebel zu erzeugen, der Zombies angreift
+
+[poisonvine_DESCRIPTION]
+{KEYWORD}Eigenschaften: {STAT}Erzeugt giftigen Nebel, um Zombies anzugreifen, und verstärkt die giftige Flora auf dem Körper.
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Pflanze
+
+{FLAVOR}Die Grüne Schlangenrebe bildet sich gelegentlich ein, eine echte Schlange zu sein, bis sie eines Tages tatsächlich einen Schwanz ausbildet, der sprechen kann.
+
+[poisonvine_TOOLTIP]
+Feuert Giftgasgeschosse ab, um einen giftigen Nebel zu erzeugen, der Zombies angreift.
+
+[poisonvine_SKILL_LEVEL1]
+Giftigen Nebel versprühen
+
+[poisonvine_SKILL_LEVEL1_DES]
+Wenn eine giftige Pflanze auf der Grünen Schlangenrebe wächst, erhöht sich der Giftangriffsschaden der Pflanze um 20 % und die Dauer ihres eigenen giftigen Nebels um 1 Sekunde.
+
+[poisonvine_SKILL_LEVEL2]
+Giftnebel-Eruption
+
+[poisonvine_SKILL_LEVEL2_DES]
+Wenn sie auf einer grünen Schlangenrebe gepflanzt werden, erhalten giftige Pflanzen einen 30 %igen Boost auf ihren Giftangriffsschaden und verlängern die Dauer ihres eigenen giftigen Nebels um weitere 1 Sekunde.
+
+[poisonvine_SKILL_LEVEL5]
+Du bist giftig, nicht wahr?
+
+[poisonvine_SKILL_LEVEL5_DES]
+Bei einem Angriff besteht die Chance, dass eine Spezialkugel abgefeuert wird. Wenn diese Spezialkugel einen Zombie trifft, löst sie eine 3x3-Fläche umfassende Giftgasexplosion aus, die den Giftstatus-Effekt vom Zombie auf nahegelegene Feinde überträgt.
+
+[poisonvine_SUPERSKILL]
+Du bist giftig, nicht wahr?
+
+[poisonvine_SUPERSKILL_DES]
+Beim Angriff besteht die Chance, dass spezielle Geschosse ausgespuckt werden. Wenn diese Geschosse einen Zombie treffen, lösen sie eine Giftgas-Explosion in einem Bereich von 3x3 aus, wodurch der Giftstatus vom Zombie auf nahegelegene Gegner übertragen wird.
+
+[STORE_PRODUCT_AVATAR_poisonvine]
+Nachdem die ultimative Fertigkeit einen Zombie getroffen hat, wird dieser für 1 Sekunde betäubt.
+
+[poisonvine_NEW_SKILL_LEVEL1_DES]
+Spuckt Giftgasgeschosse aus, um einen giftigen Nebel zu erzeugen, der Zombies angreift. Wenn sie auf einer Grünen Schlangenrebe gepflanzt wird, erhöht jede daran befestigte giftige Pflanze ihren Giftangriffsschaden um 15 %, während die Angriffskraft der Rebe selbst um 30 % steigt und das Angriffsintervall um 10 % sinkt. Wenn der Wirt die Chance hat, Giftangriffe auszuführen, verdoppelt sich diese Wahrscheinlichkeit.
+
+[poisonvine_NEW_SKILL_LEVEL2_DES]
+Wenn eine giftige Pflanze auf der Grünen Schlangenrebe angebaut wird, erhöht sich der Giftangriffsschaden der Pflanze um 20 % und die Dauer des Giftnebels verlängert sich um 1 Sekunde.
+
+[poisonvine_NEW_SKILL_LEVEL3_DES]
+Wenn eine giftige Pflanze auf der Grünen Schlangenrebe angebaut wird, erhöht sich ihr Giftangriffsschaden auf 30 % und die Dauer ihres Giftnebels wird um weitere 1 Sekunde verlängert.
+
+[poisonvine_NEW_SKILL_LEVEL4_DES]
+Beim Anbau besteht eine moderate Chance, die Spezialdünger-Fähigkeit direkt auszulösen.
+
+[poisonvine_NEW_SKILL_LEVEL5_DES]
+Angriffe haben eine 30-prozentige Chance, Spezialgeschosse abzufeuern. Wenn diese Geschosse einen Zombie treffen, lösen sie eine 3x3-Fläche umfassende Giftgasexplosion aus, die den Giftstatus-Effekt vom Zombie auf nahegelegene Gegner überträgt.
+
+[STORE_PRODUCT_AVATAR_poisonvine_TITLE]
+Grüne Schlangenrebe-Outfit
+
+[poisonvine_AVATAR_NAME]
+Grüne Schlangenrebe-Outfit
+
+[poisonvine_PLANTFOOD_DESCRIPTION]
+Wenn ein Zombie mit der ultimativen Fähigkeit getroffen wird, wird er für 1 Sekunde betäubt.
+
+[poisonvine_AVATAR_PLANTFOOD_DESCRIPTION]
+Wenn ein Zombie mit der ultimativen Fähigkeit getroffen wird, wird er für 1 Sekunde betäubt.
+
+[PEONYCHI]
+Tai Chi Hibiscus
+
+[PEONYCHI_DESCRIPTION_HEADER]
+Wirft kleine und mittelgroße Zombies zurück, blockt Angriffe von riesigen Zombies ab.
+
+[PEONYCHI_DESCRIPTION]
+{KEYWORD}Eigenschaften: {STAT}Wirft kleine und mittelgroße Zombies zurück, blockt Angriffe von riesigen Zombies ab.
+{KEYWORD}Pflanzeneigenschaft: {STAT}Blaue Pflanze
+
+{FLAVOR}„Es liegt in der Natur der Pflanze, ohne Anstrengung zu handeln“, sinniert der Tai Chi Hibiscus, während er Zombies hinter sich schleudert.
+
+[PEONYCHI_TOOLTIP]
+Schleudert kleine und mittelgroße Zombies zurück, blockt Angriffe von Gargantuas
+
+[PEONYCHI_SKILL_LEVEL1]
+Ruhe und Erholung
+
+[PEONYCHI_SKILL_LEVEL1_DES]
+Wenn keine Zombies in der Nähe sind, beginnt die Pflanze, Energie zu sammeln und pro Sekunde Gesundheit wiederherzustellen. Die über die maximale Gesundheit hinaus wiederhergestellte Gesundheit wird in einen Schild umgewandelt, der auf 1000 Punkte begrenzt ist. Dieser Schild kann einen Sofort-Todesangriff abwehren.
+
+[PEONYCHI_SKILL_LEVEL2]
+Qi sinkt zum Dantian
+
+[PEONYCHI_SKILL_LEVEL2_DES]
+Die Schildkapazität erhöht sich auf 2000 Punkte.
+
+[PEONYCHI_SKILL_LEVEL5]
+Tai Chi-Wolken vertreibende Handfläche
+
+[PEONYCHI_SKILL_LEVEL5_DES]
+Nach dem Blocken des Angriffs eines Gargantua Zombies wird die Kraft umgeleitet, um einen Handflächenschlag nach vorne auszuführen, der Schaden in einem Radius von 3 Feldern verursacht. Der abgewehrte Riese wird 3 Felder zurückgeworfen und kleine bis mittelgroße Zombies werden entlang der 3-Felder-Flugbahn in die Luft geschleudert.
+
+[STORE_PRODUCT_AVATAR_PEONYCHI]
+Kann zusätzlich Zombies von hinten nach vorne ziehen.
+
+[PEONYCHI_NEW_SKILL_LEVEL1_DES]
+Wirft kleine und mittlere Zombies nach hinten, während sie Angriffe von Riesenzombies abwehrt.
+
+[PEONYCHI_NEW_SKILL_LEVEL2_DES]
+Wenn keine Zombies in der Nähe sind, beginnt die Pflanze, Energie zu sammeln und pro Sekunde Gesundheit wiederherzustellen. Überschüssige wiederhergestellte Gesundheit wird in einen Schild umgewandelt, der auf 1000 Punkte begrenzt ist. Der Schild kann einen sofort tödlichen Angriff abwehren.
+
+[PEONYCHI_NEW_SKILL_LEVEL3_DES]
+Erhöht die maximale Schildstärke auf 2000 Punkte.
+
+[PEONYCHI_NEW_SKILL_LEVEL4_DES]
+Nach dem Pflanzen besteht eine moderate Chance, sofort die ultimative Fähigkeit „Energiebohne” auszulösen.
+
+[PEONYCHI_NEW_SKILL_LEVEL5_DES]
+Nach dem Blocken eines Angriffs eines Riesen-Zombies wird die Kraft umgeleitet, um einen Handflächenschlag nach vorne auszuführen, der Gegnern in einem Radius von 3 Feldern Schaden zufügt. Der zurückgeworfene Riese wird 3 Felder zurückgeschleudert und alle kleinen oder mittleren Zombies in seinem Weg werden in die Luft geschleudert.
+
+[STORE_PRODUCT_AVATAR_PEONYCHI_TITLE]
+Tai-Chi-Hibiskus-Outfit
+
+[PEONYCHI_AVATAR_NAME]
+Tai Chi Peony-Outfit
+
+[PEONYCHI_PLANTFOOD_DESCRIPTION]
+Die Pflanze zieht alle Zombies vor sich kontinuierlich zu sich heran und betäubt sie.
+
+[PEONYCHI_AVATAR_PLANTFOOD_DESCRIPTION]
+Kann zusätzlich Zombies von hinten zu sich heranziehen.
+
+[ZOMBIE_PUMPKIN_NECROMANCER]
+Kürbis-Nekromant-Zombie
+
+[ZOMBIE_PUMPKIN_NECROMANCER_DESCRIPTION]
+Der Neffe des jüngeren Bruders der Nichte der Tante des zweiten Onkels des Cousins des Ritter-Zombies, der von Pflanzen besiegt wurde... ...kurz gesagt, ein entfernter Verwandter. Nach der Niederlage seines Cousins, des Ritter-Zombies, unterzog er sich einer mysteriösen Operation durch Dr. Necromancer. Jetzt ist er ein selbsternannter Nekromant, der Geister und Träume beherrscht, und kehrt jede Halloween-Nacht in die Welt der Sterblichen zurück, um seinen Zorn zu entfesseln, bis seine Rache vollendet ist!
+
+[ZOMBIE_PUMPKIN_NECROMANCER_DESCRIPTION_HEADER]
+Der Kürbis-Nekromant-Zombie kann Geister beschwören, um Pflanzen zu hypnotisieren. Sollte eine schlafende Pflanze nicht rechtzeitig geweckt werden, kann sie vom Kürbis-Nekromant-Zombie unter die Erde gezogen werden...
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINSCARECROW]
+Kürbis-Vogelscheuche
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINSCARECROW]
+Eine exklusive Halloween-Kürbiskrähe, die der Lieblingsplatz von Zombie-Krähen ist. Sie zieht nicht nur Krähen an, sondern wenn sie beschädigt wird, rächen diese sich an der Krähe.
+
+
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN1]
+Kürbishaus
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN1]
+Ein saisonales Kürbishaus, das aus einem Umkleideraum für Zombies umgebaut wurde. Gerüchten zufolge verlieren Zombies, die es betreten, ihren Körper und hinterlassen nur ihren Kopf. Wie lässt sich das erklären?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN2]
+Kürbishaus
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN2]
+Ob kleine Geister oder Riesen, alle Zombies müssen sich anstellen, um das Kürbishaus zu betreten – ein einzelnes Haus kann einfach nicht so viele aufnehmen.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN3]
+Kürbishaus
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN3]
+Gerüchten zufolge betrat einst ein Zombie namens Louis das Kürbishaus und verspürte seitdem nie wieder Hunger. Wie wunderbar!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN4]
+Scare Witch
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN4]
+Die Schreckenshexe liebt es, auf ihrem magischen Besen durch die Lüfte zu fliegen – der übrigens keine Bremsen hat! Kann irgendeine hohe Pflanze sie aufhalten?
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN5]
+Schreckenshexe
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN5]
+Vielleicht reitet die Schreckenshexe gar nicht auf einem Besen, denn wir haben sie noch nie den Boden berühren sehen. Der Große soll ihr doch „helfen”, zum Stehen zu kommen!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN6]
+Die gruselige Hexe
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN6]
+Gerüchten zufolge soll die Scare Witch einmal losgeflitzt sein, um im Supermarkt reduzierte Eier zu ergattern, nur um dann mit 13 Bußgeldern belegt zu werden. Versucht das bloß nicht nachzumachen! Für unsere botanischen Freunde hat das allerdings keinerlei Referenzwert.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN7]
+Scare Witch X Kürbishaus
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN7]
+Ein nerviges Duo, das Ihren Garten in völliges Chaos stürzen wird – kümmern Sie sich schnell um sie!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN8]
+Kürbishaus
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN8]
+Immer noch das Kürbishaus, immer noch verwirrend für die Zombies
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN9]
+Kürbishaus
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN9]
+Sind die Kürbisgeister, die aus den Kürbishaus-Pflanzen auftauchen, nun Zombies oder nicht? Das ist wirklich verwirrend.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN10]
+Kürbishaus
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN10]
+Mehr Zombies gepaart mit mehr Kürbishäusern bedeuten einen noch schrecklicheren Ansturm!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN11]
+Schreckenshexe
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN11]
+Wir lassen nicht länger zu, dass diese elende Hexe über uns schwebt! Wo ist Tall Nuts? Tall Nuts, bring das in Ordnung!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN12]
+Gruselige Hexe
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN12]
+Die unbesiegbare Grand Nut: „Garten voraus, nicht zu schnell fahren!“
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN13]
+Die furchterregende Hexe
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN13]
+Diese Nervensäge muss in Zaubertränke eine Eins gehabt haben – wie sonst hätte sie eine solche Sammlung bizarrer Kessel zusammentragen können? Wir müssen sie sofort aufhalten!
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN14]
+Letzter Angriff
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN14]
+Setzt unsere Kampfeinheiten schnell ein – die letzte Offensive beginnt jetzt!
+
+
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_SNOWBALL]
+Schneeballangriff
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_SNOWBALL]
+Die durch das raue Winterwetter entstandenen Schneebälle können nur durch Feuer geschmolzen werden. Vorsicht: Einige Zombies schieben sie vor sich her.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_KONGMINGLIGHT]
+Himmelslaternen
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_KONGMINGLIGHT]
+Zahlreiche Himmelslaternen treiben aus unbekannter Herkunft heran. Beim Aufprall verbrennen sie Pflanzen und machen das Feld unbewohnbar. Wenn du sie angreifst, um sie vorzeitig zum Absturz zu bringen, kannst du ihre Wirkung verhindern.
+
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_ICECREAMCAR]
+Eiswagen
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_ICECREAMCAR]
+Kinderfest-Zombies kommen in ihrem Lieblings-Eiswagen an. Durch die Zerstörung des Wagens werden seine Insassen freigesetzt; der Einsatz von Stachelkraut kann sich als äußerst wirksam erweisen.
+
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_RUNNING]
+Mandragora Dash
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_RUNNING]
+Steuere die flinke Mandragora, um Hindernissen auszuweichen, indem du dich nach oben und unten bewegst. Sammle Münzen, um den Speedskate aufzuladen. Der Sieg ist erreicht, wenn eine bestimmte Punktzahl erreicht ist.
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_NOMOD]
+Business as usual
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
+Klassischer Modus, keine besonderen Mechaniken
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_NOMOD]
+Wie gewohnt
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
+Klassischer Modus, keine besonderen Mechaniken
+
 [PVZ1MODE_DOCTORMAD]
 Ich Zombie
 
@@ -14619,6 +14892,132 @@ Du hast die Pflanze erhalten und die Belohnung wird automatisch in {PIECE_COUNT}
 [GACHA_GOT_AVATAR_HINT]
 Du hast das Kostüm erhalten und die Belohnung wird automatisch in {PIECE_COUNT} Kostümfragmente umgewandelt.
 
+[TOYS_HEAD_ID_25771]
+Den Sternenhimmel betrachten
+
+[TOYS_HEAD_DES_ID_25771]
+Erhalten durch Teilnahme am Event „Sternensingularität“
+
+[LEVEL_EDITOR_HEAD_ID_25772]
+Begegnungen im verschneiten Reich
+
+[LEVEL_EDITOR_HEAD_DES_ID_25772]
+Limitierte Avatare für das Event „Erleuchtete Individualisierung”
+
+[NEWYEAR_GIFT_HEAD_ID_25773]
+Geheimnisvoller Trank
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25773]
+Während des „Feier-Geschenkpaket”-Events kannst du dir bei Erreichen bestimmter kumulativer Aufladungsmeilensteine innerhalb des Events Belohnungen sichern.
+
+[AVATARCOLLECTIONS_HEAD_ID_25774]
+Ultimative Evolution
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25774]
+Befreie dich von den Fesseln, entfessle die Wut deiner Blutlinie
+
+[AVATARCOLLECTIONS_HEAD_ID_25775]
+Reiche überschreiten
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25775]
+Dimensionsbarrieren durchbrechen, Korridore durchqueren
+
+[UNCHARTED_HALLOWEEN_ID_25776]
+Eroberer des geheimen Halloween-Reiches
+
+[UNCHARTED_HALLOWEEN_HEAD_DES_ID_25776]
+Nachweis für die vollständige Eroberung des geheimen Halloween-Reiches
+
+[LEVEL_EDITOR_HEAD_ID_25777]
+Eine reichhaltige Ernte
+
+[LEVEL_EDITOR_HEAD_DES_ID_25777]
+Machen Sie sich bereit! Fangen Sie diese Welle der Süße ein!
+
+[TIANGONG_HEAD_ID_25778]
+Das Mitgefühl des Giftmischers
+
+[TIANGONG_HEAD_DES_ID_25778]
+Erhalte im Event „Schatzsuche im Himmlischen Palast“ kumulative Belohnungen für die Ziehungsphase.
+
+[COLORCUSTOMIZATION]
+Phantom-Farbanpassung
+
+[COLORCUSTOMIZATION_TAB1]
+Phantom-Farbanpassung
+
+[COLORCUSTOMIZATION_TAB2]
+Essenz-Shop
+
+[COLORCUSTOMIZATION_TAB3]
+Kumulierte Kaufaufgaben
+
+[COLORCUSTOMIZATION_TASKGOAL]
+Kumulierte Käufe: {NUMBER} Mal
+
+[COLORCUSTOMIZATION_BUYCOUNT]
+Du hast {NUMBER} kumulative Käufe getätigt.
+
+[COLORCUSTOMIZATION_BONUS_SELECT_TITLE]
+Wähle dein eigenes Belohnungspaket aus.
+
+[COLORCUSTOMIZATION_BONUS_SELECT_DESCRIPTION]
+Bitte wähle deine gewünschte Belohnung aus.
+
+[COLORCUSTOMIZATION_BONUS_TITLE]
+Vorschau der ausgewählten Belohnung
+
+[MAT_COLOR_CUSTOMIZATION_INTEGRAL]
+Prismatische Essenz
+
+[MAT_COLOR_CUSTOMIZATION_INTEGRAL_USE]
+Lösen Sie Ihre Belohnungen während des Events „Prismatische Anpassung” im Tauschladen ein
+
+[MAT_COLOR_CUSTOMIZATION_INTEGRAL_GOT_WAY]
+Erhältlich durch den Kauf von Bundles im Rahmen des Events „Prismatische Anpassung”
+
+[COLORCUSTOMIZATION_EXPIRED]
+Abgelaufene Belohnungen aus dem Event „Prismatische Anpassung”
+
+[COLORCUSTOMIZATION_SHOP_POINT_BUY_CONFIRM]
+Kauf von {NUMS} Essenzen bestätigen?
+
+[COLORCUSTOMIZATION_SHOP_CHIP_BUY_CONFIRM]
+Soll ich {NUMS} Splitter für den Kauf ausgeben?
+
+[COLORCUSTOMIZATION_SHOP_AVATAR_BUY_CONFIRM]
+Soll ich {NUMS} Essenzen für den Kauf ausgeben?
+Hinweis: Erfordert den Besitz des Basis-Outfits, um es ausrüsten zu können
+
+[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION]
+1. Erhalte das Outfit „Kleine Hexe – Brillantes Prisma” für die Eisfee aus der Eiche und andere fantastische Belohnungen.
+2. Prismatische Outfits erfordern das Basis-Outfit, bevor sie verwendet werden können. Wechsle prismatische Outfits über die Outfit-Schnittstelle.
+
+[COLORCUSTOMIZATION_DESCRIPTION_TITLE_1]
+Chance auf den Erhalt von Outfits zur Farbanpassung
+
+[COLORCUSTOMIZATION_DESCRIPTION_1]
+Angabe der Wahrscheinlichkeit für Outfits zur Farbanpassung:
+    Jeder Kauf eines Geschenkpakets beinhaltet eine 10-prozentige Chance, eines zu erhalten.
+    Sollten neun gekaufte Geschenkpakete keine Farbkonfiguration enthalten, ist diese beim zehnten Kauf garantiert enthalten.
+Für die Farbkonfiguration von Pflanzen muss zunächst das Basis-Outfit erworben werden. Sie können über die Outfit-Schnittstelle gewechselt werden.
+
+[COLORCUSTOMIZATION_DESCRIPTION]
+Event-Regeln:
+1. Durch den Kauf von Geschenkpaketen zur Farbkonfiguration erhältst du Diamanten, auswählbare Belohnungen, Farbspritzer und andere Boni.
+2. Jeder Kauf bietet die Chance, das glitzernde Regenbogen-Outfit für die kleine Hexe der Eichen-Eisfee zu erhalten, das nach zehn Käufen garantiert ist.
+3. Alle fünf kumulativen Käufe eines beliebigen Regenbogen-Geschenkpakets gewähren einen zusätzlichen kostenlosen Kauf.
+4. Doppelte „Kleine Hexe der Eichen-Eisfee – Strahlendes buntes Outfit“ werden in „Kleine Hexe der Eichen-Eisfee – Strahlendes buntes Outfit-Fragmente“ umgewandelt. Diese Fragmente können während des Aktionszeitraums im Event-Tauschshop gegen Diamanten eingetauscht werden. Bitte lösen Sie diese bei Bedarf umgehend ein.
+
+[PRODUCT_COLOR_CUSTOMIZATION]
+Prismatisches Anpassungspaket
+
+[PRODUCT_01COLOR_CUSTOMIZATION_68_SHORTDESC]
+Prismatisches Pflanzenfragment-Paket
+
+[PRODUCT_02COLOR_CUSTOMIZATION_68_SHORTDESC]
+Prismatisches Outfit-Fragment-Paket
+
 [RATING_RATE_NOW]
 Gib eine Bewertung ab, um das Spiel zu verbessern.
 
@@ -18785,6 +19184,30 @@ Effekt: 1. Erhöht die Sonnenlichtausbeute um 20 Punkte und verbessert die Schut
 
 [SUN_GEAR_1_BOOST_DES_1]
 Effekt: 1. Erhöht die Sonnenlichtausbeute um 20 Punkte und verbessert die Schutzfähigkeit leicht. ^FF0000 Nur verfügbar für Sonnenlichtpflanzen der Stufe 4^oldclr 2. Reduziert die Abklingzeit des Pflanzens um 18%. 3. Freigeschaltet
+
+[FLYING_SAUCER]
+UFO-Flugobjekt
+
+[FLYING_SAUCER_DES]
+Inspiriert von der Form der Flying-Saucer-Melone wurde das UFO-Flugobjekt erfunden.
+
+[FLYING_SAUCER_BOOST_DES]
+Effekte: 1. Pflanzen können direkt in der Luft ausgesät werden.    2. Stellt alle 3 Sekunden 5 % Gesundheit wieder her.   3. Freigeschaltet
+
+[FLYING_SAUCER_BOOST_DES_1]
+Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 8 % Gesundheit wieder her.   3. Freigeschaltet.
+
+[FLYING_SAUCER_BOOST_DES_2]
+Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 12 % Gesundheit wieder her.   3. Freigeschaltet.
+
+[FLYING_SAUCER_BOOST_DES_3]
+Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 16 % Gesundheit wieder her.   3. Betäubungsdauer um 6 % erhöht.
+
+[FLYING_SAUCER_BOOST_DES_4]
+Effekt: 1. Pflanzen können direkt im Himmel angebaut werden. 2. Stellt alle 3 Sekunden 20 % Gesundheit wieder her. 3. Betäubungsdauer um 8 % erhöht.
+
+[FLYING_SAUCER_BOOST_DES_5]
+Effekt: 1. Pflanzen können direkt im Himmel angebaut werden. 2. Stellt alle 3 Sekunden 25 % Gesundheit wieder her. 3. Betäubungsdauer um 10 % erhöht.
 
 [SUN_GEAR_1_BOOST_DES_2]
 Effekt: 1. Erhöht die Sonnenlichtausbeute um 20 Punkte und erhöht den Schutz leicht. ^FF0000 Nur verfügbar für Sonnenlichtpflanzen der Stufe 4^oldclr 2. Reduziert die Abklingzeit des Pflanzens um 21%. 3. Freigeschaltet
@@ -36201,6 +36624,33 @@ Geschenkpaket aktualisiert:
 [LOST_NETWORK_ACTIVE_OLD_COST_1]
 Originalpreis
 
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_TITLE] 
+Aufstellung bearbeiten
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_TITLE]
+Benutzerdefinierter Aufstellungsname
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_NAME_TITLE]
+Namen bearbeiten
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_NAME_CONFIRM]
+Bestätigen
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TITLE]
+Bearbeitung bestätigen
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TEAM_TEXT]
+Ausgewählte Pflanzen ändern?
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TEAM_IMITATER_TITLE]
+Systemmeldung
+
+[NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TEAM_IMITATER_TEXT] 
+Die transformierte Aubergine konnte nicht an der ersten Position platziert werden. Bitte ändern Sie ihre Position!
+
+[NEW_PLANT_UI_TEAM_CHOOSER_TITLE] 
+Pflanzenteam
+
 [LOST_NETWORK_ACTIVE_OLD_COST_3]
 Yuan
 
@@ -38050,6 +38500,54 @@ Laubabwerfender Baum.
 
 Wegen der Früchte, die Grasmücken gerne fressen, wurde die Kirsche in der Antike „Grasmückenpfirsich“ genannt und später als „Kirsche“ ausgesprochen. Sie ist im Jangtse-Einzugsgebiet heimisch und wird heute in der gemäßigten Zone Eurasiens weit verbreitet angebaut. Neben dem Verzehr kann man auch Wein daraus herstellen, und Zweige, Blätter, Wurzeln und Blüten finden auch Verwendung in der Medizin. Da chinesische Kirschen klein und schwer zu lagern sind, sind die meistverkauften Kirschen meist verbesserte Sorten europäischer Süßkirschen. Die kultivierten Sorten benötigen hohe Temperaturen (bis zu 800 Stunden unter 7 °C), um normal zu blühen und Früchte zu tragen. Dies macht sie zu einer „Wachstumsart“ für die Erforschung der Auswirkungen des Klimawandels auf Obstbäume. Kirschen mit ihrer leuchtend roten Farbe und den herzförmigen Früchten werden in der europäischen Kultur oft mit dem Symbol für Ernte, Jugend, Liebe und Versuchung in Verbindung gebracht.
 Blumensprache: Unschuld und Naivität, Liebe und Wertschätzung, Hoffnung und Wiedergeburt
+
+[NEW_AVATAR_SHORT_DESCRIPTION_RHEUMNOBILE_2]
+Herrscher des gelben Sternenhimmels
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_3]
+Kleine Hexe
+
+[NEW_AVATAR_DESCRIPTION_MISSILETOE_3]
+Sonnenlichtverbrauch um 80 % reduziert
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_4]
+Kleine Hexe – Funkelnd
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_3]
+Bohnen-Piraten Kommando
+
+[NEW_AVATAR_DESCRIPTION_HORSEBEAN_3]
+Angriffsabklingzeit um 20 % reduziert
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_2]
+Goldblütenball
+
+[NEW_AVATAR_DESCRIPTION_GOLDBLOOM_2]
+50 % Chance auf zusätzliche 75 Sonnen
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LILYPAD_1]
+Fröschchen
+
+[NEW_AVATAR_DESCRIPTION_LILYPAD_1]
+Gesundheit um 150 Punkte erhöht.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SEADERRIS_2]
+Katzhörer
+
+[NEW_AVATAR_DESCRIPTION_SEADERRIS_2]
+Zombies laufen nach Verlassen der Strychnos-Reichweite 1 Sekunde länger rückwärts.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_2]
+Schnurrbart
+
+[NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_2]
+Angriffsgeschwindigkeit um 20 % erhöht
+
+[NEW_AVATAR_DESCRIPTION_MISSILETOE_4]
+Keine
+
+[NEW_AVATAR_DESCRIPTION_RHEUMNOBILE_2]
+Erhöht die Anzahl der Zombies, die absorbiert werden können, um 2.
 
 [RHEUMNOBILE_FAMILY]
 Polygonaceae
@@ -71571,6 +72069,222 @@ Flucht
 [S25_MEMORY_LEVEL_NAME_064]
 Schnee und Wind
 
+[S27_MEMORY_LEVEL_NAME_1]
+Sparen und Knausern
+
+[S27_MEMORY_LEVEL_NAME_2]
+Vollgas
+
+[S27_MEMORY_LEVEL_NAME_3]
+Gegenangriff mit voller Kraft
+
+[S27_MEMORY_LEVEL_NAME_4]
+Mechanischer Strom
+
+[S27_MEMORY_LEVEL_NAME_5]
+Angriff auf den Wolkenpeak
+
+[S27_MEMORY_LEVEL_NAME_6]
+Evakuierungsübung
+
+[S27_MEMORY_LEVEL_NAME_7]
+Notstromversorgung
+
+[S27_MEMORY_LEVEL_NAME_8]
+Überleben der Stärksten
+
+[S27_MEMORY_LEVEL_NAME_9]
+Die Vergangenheit der Erde
+
+[S27_MEMORY_LEVEL_NAME_10]
+Wandelnde Illusionen
+
+[S27_MEMORY_LEVEL_NAME_11]
+Der dunkle Wald
+
+[S27_MEMORY_LEVEL_NAME_12]
+Das Überleben der Stärksten
+
+[S27_MEMORY_LEVEL_NAME_13]
+Die ewige Herrschaft des Todes
+
+[S27_MEMORY_LEVEL_NAME_14]
+Schnell wie der Wind, schnell wie der Donner
+
+[S27_MEMORY_LEVEL_NAME_15]
+Schatten des Schnees folgen
+
+[S27_MEMORY_LEVEL_NAME_16]
+Nacht des Schreckens
+
+[S27_MEMORY_LEVEL_NAME_001]
+Nussbowling
+
+[S27_MEMORY_LEVEL_NAME_002]
+Offensive und Defensive auf der grünen Wiese
+
+[S27_MEMORY_LEVEL_NAME_003]
+Knockout auf dem Friedhof
+
+[S27_MEMORY_LEVEL_NAME_004]
+Mitternächtliche Fließbandarbeit
+
+[S27_MEMORY_LEVEL_NAME_005]
+Dosen-Chaos
+
+[S27_MEMORY_LEVEL_NAME_006]
+Bungee-Blitz
+
+[S27_MEMORY_LEVEL_NAME_007]
+Invasion der Hirnimplantate
+
+[S27_MEMORY_LEVEL_NAME_008]
+Fliesenangriff
+
+[S27_MEMORY_LEVEL_NAME_009]
+Gipfelsturm
+
+[S27_MEMORY_LEVEL_NAME_010]
+Springball
+
+[S27_MEMORY_LEVEL_NAME_011]
+Stürmische Nacht
+
+[S27_MEMORY_LEVEL_NAME_012]
+Unwetter
+
+[S27_MEMORY_LEVEL_NAME_013]
+Erntezeit
+
+[S27_MEMORY_LEVEL_NAME_014]
+Gefährlicher Herbstausflug
+
+[S27_MEMORY_LEVEL_NAME_015]
+Hexentreffen
+
+[S27_MEMORY_LEVEL_NAME_016]
+Maskenball
+
+[S27_MEMORY_LEVEL_NAME_017]
+Der unwissende Narr
+
+[S27_MEMORY_LEVEL_NAME_018]
+Die Zauberei des erstarrten Sees
+
+[S27_MEMORY_LEVEL_NAME_019]
+Mystischer Priester
+
+[S27_MEMORY_LEVEL_NAME_020]
+Versteckte Schildkröte
+
+[S27_MEMORY_LEVEL_NAME_021]
+Absolute Macht
+
+[S27_MEMORY_LEVEL_NAME_022]
+Uralter Streitwagen
+
+[S27_MEMORY_LEVEL_NAME_023]
+Sonne, Mond und Sterne
+
+[S27_MEMORY_LEVEL_NAME_024]
+Oberster Kaiser
+
+[S27_MEMORY_LEVEL_NAME_025]
+Schüchtern wie ein Pilz
+
+[S26_MEMORY_LEVEL_NAME_026]
+Anmutige Schneeflocken
+
+[S27_MEMORY_LEVEL_NAME_027]
+Landbeherrschender Meeresgott
+
+[S27_MEMORY_LEVEL_NAME_028]
+Göttliche Macht des großen Kaisers
+
+[S27_MEMORY_LEVEL_NAME_029]
+Knochenfrost
+
+[S27_MEMORY_LEVEL_NAME_030]
+Schatten des Ritters, Glanz der Klinge
+
+[S27_MEMORY_LEVEL_NAME_031]
+Kämpferischer Geist
+
+[S27_MEMORY_LEVEL_NAME_032]
+Puls der Leidenschaft
+
+[S27_MEMORY_LEVEL_NAME_033]
+Erbsensymbiose
+
+[S27_MEMORY_LEVEL_NAME_034]
+Strahlende Pracht
+
+[S27_MEMORY_LEVEL_NAME_035]
+Himmelsdurchdringendes Feuer
+
+[S27_MEMORY_LEVEL_NAME_036]
+Elektroschocktherapie
+
+[S27_MEMORY_LEVEL_NAME_037]
+Melancholische Schatten
+
+[S27_MEMORY_LEVEL_NAME_038]
+Beweglicher Pool
+
+[S27_MEMORY_LEVEL_NAME_039]
+Tödliches Gift
+
+[S27_MEMORY_LEVEL_NAME_040]
+Felsenfest
+
+[S27_MEMORY_LEVEL_NAME_041]
+Unternehmensangriff
+
+[S27_MEMORY_LEVEL_NAME_042]
+Diplomatischer Meister
+
+[S27_MEMORY_LEVEL_NAME_043]
+Sicherheitsabteilung
+
+[S27_MEMORY_LEVEL_NAME_044]
+Mech-Angriff
+
+[S27_MEMORY_LEVEL_NAME_045]
+Teambildende Aktivitäten
+
+[S27_MEMORY_LEVEL_NAME_046]
+Große Köpfe, kleine Köpfe
+
+[S27_MEMORY_LEVEL_NAME_047]
+Z's Kreationen
+
+[S27_MEMORY_LEVEL_NAME_048]
+Rennsportträume
+
+[S27_MEMORY_LEVEL_NAME_BOSS_1]
+Sphinx-Terminator
+
+[S27_MEMORY_LEVEL_NAME_BOSS_2]
+Deck-Stroller
+
+[S27_MEMORY_LEVEL_NAME_BOSS_3]
+Ochsenkarren-Kämpfer 
+
+[S27_MEMORY_LEVEL_NAME_BOSS_4]
+Tomorrow's Decoder
+
+[S27_MEMORY_LEVEL_NAME_BOSS_5]
+Dragon Tamer
+
+[S27_MEMORY_LEVEL_NAME_BOSS_6]
+Mad Shark Submersionist 
+
+[S27_MEMORY_LEVEL_NAME_BOSS_7]
+Fang Conqueror
+
+[S27_MEMORY_LEVEL_NAME_BOSS_8]
+Kong Roarer
+
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_3]
 Zombie-Level um 8 Stufen erhöht
 
@@ -73344,6 +74058,15 @@ Bei jedem Angriff der Feuer-Erbsenkanone besteht eine Chance von 20%, in einem D
 [FIREPEASHOOTER_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
+[FIREPEASHOOTER_SKILL_LEVEL5]
+Flammenbombe
+
+[FIREPEASHOOTER_SKILL_LEVEL5_DES]
+Hat eine Chance von 20 %, bei einem Angriff eine Flammenbombe abzufeuern. Bei Aufprall detoniert sie in einer fächerförmigen Explosion, verursacht Schaden und versetzt alle Zombies in Reichweite in den Status „Verbrannt”.
+
+[FIREPEASHOOTER_NEW_SKILL_LEVEL5_DES]
+Hat eine Chance von 20 %, bei einem Angriff eine Feuerbombe abzufeuern, die beim Aufprall in einer fächerförmigen Explosion detoniert, Schaden verursacht und allen Zombies in Reichweite den Status „Verbrennung“ zufügt.
+
 [FIREPEASHOOTER_PLANTFOOD_DESCRIPTION]
 Wenn die Feuer-Erbsenkanone wütend ist, spuckt sie Flammen und fügt der gesamten Zombiereihe, die Rüstung ignoriert, Schaden zu.
 
@@ -73760,6 +74483,15 @@ Die Lebenspunkte des Kürbisgolems steigen auf 3000/1500 und sein Angriff auf 15
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen! Der Gesundheitswert des Kürbisgolems steigt auf 4500/2250 und seine Angriffskraft auf 225/450.
+
+[PUMPKINWITCH_SKILL_LEVEL5]
+Verbotene Magie
+
+[PUMPKINWITCH_SKILL_LEVEL5_DES]
+Die Kürbishexe hat eine Chance von 30%, einen Kürbis mit einer Zaubererhaube zu werfen. Solche Kürbisse erschaffen Kürbisgolems, die magische Fernangriffe ausführen können, Schaden verursachen und gleichzeitig einen Heilungsunterdrückungseffekt anwenden.
+
+PUMPKINWITCH_NEW_SKILL_LEVEL5_DES
+Kürbishexen haben eine 30-prozentige Chance, einen Hexenhut-Kürbis zu erzeugen. Der aus diesem Kürbis erzeugte Kürbisgolem kann Fernkampfsprüche wirken, Schaden verursachen und einen Heilungsunterdrückungseffekt auslösen.
 
 [PUMPKINWITCH_PLANTFOOD_DESCRIPTION]
 Wirft bis zu 5 Kürbisse mit einer Stärke von 130% des normalen Kürbisses und kontrolliert die 5 am weitesten links steuerbaren Zombies auf dem Feld. Danach ruht sich der Kürbismagier 14 Sekunden lang aus. Die Puppe erholt sich nach dem Tod nicht.
