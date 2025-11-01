@@ -8875,7 +8875,7 @@ Gewöhnlicher Dünger
 Anhänger
 
 [BONUS_MAGIC_DRUM_DESCRIPTION]
-Gewöhnlicher Eiseneimer
+Gewöhnlicher Eimer
 
 [BONUS_MAGIC_SNOWFLAKE]
 Anhänger
@@ -18445,10 +18445,10 @@ Wenn man das riecht, muss es ein wirklich natürlicher, schadstofffreier organis
 Effekt: Pflanzenangriffsfähigkeit um 15% erhöht
 
 [EPIC_DRUM]
-Veredelter Eiseneimer
+Veredelter Eimer
 
 [EPIC_DRUM_DES]
-Magnetpilz hat den Eiseneimer eingesammelt und modifiziert, wodurch die Oberfläche glatter und stärker wurde!
+Magnetpilz hat den Eimer eingesammelt und modifiziert, wodurch die Oberfläche glatter und stärker wurde!
 
 [EPIC_DRUM_BOOST_DES]
 Effekt: Pflanzenverteidigungsfähigkeit um 15% erhöht. ^FF0000 Einwegpflanzen können nicht verwendet werden.
@@ -18517,10 +18517,10 @@ Pflanzen müssen regelmäßig gedüngt werden, um zu gedeihen, aber der Geruch i
 Effekt: Erhöht die Angriffsfähigkeit der Pflanzen um 10%.
 
 [MAGIC_DRUM]
-Gewöhnlicher Eiseneimer
+Gewöhnlicher Eimer
 
 [MAGIC_DRUM_DES]
-Der Eiseneimer, den Magnetpilz mühsam gesammelt hat, ist jetzt wieder von Nutzen!
+Der Eimer, den Magnetpilz mühsam gesammelt hat, ist jetzt wieder von Nutzen!
 
 [MAGIC_DRUM_BOOST_DES]
 Effekt: Erhöht die Verteidigungsfähigkeit der Pflanzen um 10%. ^FF0000 Einwegpflanzen können nicht verwendet werden.
@@ -18571,10 +18571,10 @@ Die Nährstoffe im Dünger sind verloren gegangen und können kaum noch herausge
 Effekt: Erhöht die Angriffsfähigkeit von Pflanzen um 5%.
 
 [NORMAL_DRUM]
-Beschädigter Eiseneimer
+Beschädigter Eimer
 
 [NORMAL_DRUM_DES]
-Der Eiseneimer, den Dave beim Aufräumen des Hofes aufgehoben hat, scheint ein wenig zu lecken ...
+Der Eimer, den Dave beim Aufräumen des Hofes aufgehoben hat, scheint ein wenig zu lecken ...
 
 [NORMAL_DRUM_BOOST_DES]
 Effekt: Erhöht die Verteidigungsfähigkeit der Pflanze um 5%. ^FF0000 Einwegpflanzen können nicht verwendet werden.
@@ -19974,7 +19974,7 @@ ca=Sonnenscheinbohne|Kaffeebohne|Laserbohne|Chillibohne|
 [LANTERN_RIDDLES_39]
 Welcher der folgenden Gegenstände kann vom magnetischen Pilz nicht aufgesaugt werden?
 [LANTERN_RIDDLES_ANSWER_39]
-ca=Zombiedrachen-Nasenring|Eiseneimer|Schneemann-Zombiekopf|Eisenhelm des Ritters|
+ca=Zombiedrachen-Nasenring|Eimer|Schneemann-Zombiekopf|Eisenhelm des Ritters|
 [LANTERN_RIDDLES_40]
 Wer ist der Meister der Bambussprossen?
 [LANTERN_RIDDLES_ANSWER_40]
@@ -20012,7 +20012,7 @@ An wie vielen Bowling-Wettbewerben hat Bowling Bubble teilgenommen?
 [LANTERN_RIDDLES_ANSWER_48]
 ca=5 Mal|6 Mal|8 Mal|7 Mal|
 [LANTERN_RIDDLES_49]
-Warum fällt die Straßensperre des Pylonen-Zombies nicht vom Kopf?
+Warum fällt der Pylon des Pylonen-Zombies nicht vom Kopf?
 [LANTERN_RIDDLES_ANSWER_49]
 ca=Mit starkem Kleber festgeklebt|Mit großem Kopf festgeklebt|Spieldesign wie dieses|Keines davon ist richtig|
 [LANTERN_RIDDLES_50]
@@ -21288,7 +21288,7 @@ Exquisiter Schneeflockenanhänger
 Anwendung: Sie können Anhänger im Pflanzendekorations-Interface anlegen.
 
 [CONSUMPTION_DESC_14]
-Eiseneimer (Zeit und Raum)
+Eimer (Zeit und Raum)
 Anwendung: Sie können Anhänger im Pflanzendekorations-Interface anlegen.
 
 [CONSUMPTION_DIALOG_SHOWFAILED]
@@ -22681,19 +22681,19 @@ Gewöhnlicher Pilot-Zombie
 Pylonen-Pilot-Zombie
 
 [ZOMBIE_SKYCITY_ARMOR1_DESCRIPTION_HEADER]
-Die mit Sekundenkleber befestigte Straßensperre macht ihn doppelt so stark wie den gewöhnlichen Pilot-Zombie!
+Der mit Sekundenkleber befestigte Pylon macht ihn doppelt so stark wie den gewöhnlichen Pilot-Zombie!
 
 [ZOMBIE_SKYCITY_ARMOR1_DESCRIPTION]
-{FLAVOR} Um sich an die starken Winde am Himmel anzupassen, hat der Pylonen-Pilot-Zombie einen neuen, starken Klebstoff gekauft. Obwohl ihm alle Zombies davon abrieten, die Straßensperre in großer Höhe zu nehmen, hielt er sie für ein Symbol seines modischen Images.
+{FLAVOR} Um sich an die starken Winde am Himmel anzupassen, hat der Pylonen-Pilot-Zombie einen neuen, starken Klebstoff gekauft. Obwohl ihm alle Zombies davon abrieten, den Pylon in großer Höhe zu nehmen, hielt er ihn für ein Symbol seines modischen Images.
 
 [ZOMBIE_SKYCITY_ARMOR2]
-Fasspilot-Zombie
+Eimerpilot-Zombie
 
 [ZOMBIE_SKYCITY_ARMOR2_DESCRIPTION_HEADER]
-Die fassförmigen Teile an seinem Kopf bieten ihm extrem starken Schutz!
+Die eimerförmigen Teile an seinem Kopf bieten ihm extrem starken Schutz!
 
 [ZOMBIE_SKYCITY_ARMOR2_DESCRIPTION]
-{FLAVOR} Hast du es gehört? Das klirrende Geräusch der aufsteigenden Luft, die auf das Fass trifft – ja, das ist die Lieblingsmusik der Zombies. Sie bringt immer Spaß in ihr langweiliges Leben. Deshalb ist der Fasspilot-Zombie auch der beliebteste Zombie.
+{FLAVOR} Hast du es gehört? Das klirrende Geräusch der aufsteigenden Luft, die auf den Eimer trifft – ja, das ist die Lieblingsmusik der Zombies. Sie bringt immer Spaß in ihr langweiliges Leben. Deshalb ist der Eimerpilot-Zombie auch der beliebteste Zombie.
 
 [ZOMBIE_SKYCITY_FLAG]
 Flaggenpilot-Zombie
@@ -46035,7 +46035,7 @@ Spiel aufgeben.
 Belohnungen erhalten.
 
 [PVZ_WORLDCUP_AWARD1]
-Fragmente eines gewöhnlichen Eiseneimers
+Fragmente eines gewöhnlichen Eimers
 Eishockey-Medaillen
 
 [PVZ_WORLDCUP_AWARD2]
@@ -46325,28 +46325,28 @@ Ein gewöhnlicher Zombie, der jeden Tag arbeitet.
 Pylonen-Arbeiter-Zombie
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION]
-Der Arbeiter-Zombie freut sich riesig über die Straßensperre auf seinem Kopf, denn sie bedeutet, dass er befördert wurde!
+Der Arbeiter-Zombie freut sich riesig über den Pylon auf seinem Kopf, denn sie bedeutet, dass er befördert wurde!
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION_HEADER]
-Sein Arbeiter-Barrikadenhelm ist doppelt so stark wie der eines normalen Arbeiters.
+Sein Arbeiter-Pylon macht ihn doppelt so stark wie der eines normalen Arbeiters.
 
 [ZOMBIE_STEAM_ARMOR2]
-Eiseneimer-Arbeiter-Zombie
+Eimer-Arbeiter-Zombie
 
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION]
-Der Eiseneimer-Arbeiter-Zombie erhielt vor ein paar Tagen eine Beförderung und Gehaltserhöhung. Er freute sich riesig und bat den Schmied, ihm als Belohnung einen einzigartigen Eiseneimer-Helm anzufertigen. Dieser Eiseneimer hielt nicht nur viel Schaden aus, sondern unterstrich auch seine Identität!
+Der Eimer-Arbeiter-Zombie erhielt vor ein paar Tagen eine Beförderung und Gehaltserhöhung. Er freute sich riesig und bat den Schmied, ihm als Belohnung einen einzigartigen Eimer anzufertigen. Dieser Eimer hielt nicht nur viel Schaden aus, sondern unterstrich auch seine Identität!
 
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION_HEADER]
-Dieses geschmiedete Eisenfass schützt ihn vor Schaden.
+Dieser geschmiedete Eimer schützt ihn vor Schaden.
 
 [ZOMBIE_STEAM_FLAG]
-Steam-Flaggen-Zombie
+Arbeiter-Flaggen-Zombie
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION]
-Der Flaggen-Zombie ist neben dem Aufseher-Zombie der überzeugendste Zombie. Alle Zombies sind von seiner ordentlichen Arbeit und seinen nie überstundenmachenden Leistungen begeistert. Dieses Mal wurde er für seine Fähigkeiten mit dem Wimpel des besten Mitarbeiters ausgezeichnet!
+Der Flaggen-Zombie ist neben dem Aufseher-Gargantua der überzeugendste Zombie. Alle Zombies sind von seiner ordentlichen Arbeit und seinen nie überstundenmachenden Leistungen begeistert. Dieses Mal wurde er für seine Fähigkeiten mit dem Wimpel des besten Mitarbeiters ausgezeichnet!
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION_HEADER]
-Markiert die Ankunft einer großen Welle von Steam-Zombies.
+Markiert die Ankunft einer großen Welle von Industriellen-Zombies.
 
 [ZOMBIE_STEAM_GARGANTUAR]
 Aufseher-Gargantua
@@ -50995,8 +50995,8 @@ Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Pr
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erd-Sägegras
 Orange Qualitätspflanzen 4: Helikonien-Maschinengewehrschütze, Eispilz, Starke Säure Zitrone, heißer Wasabi, Stachelbeere mit elektrischem Strom
-Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
-Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Robuster Strommast, Fortschrittlicher Verbandskasten, Veredelter Schneeflockenanhänger
+Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eimer, Gewöhnlicher Strommast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
+Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eimer, Robuster Strommast, Fortschrittlicher Verbandskasten, Veredelter Schneeflockenanhänger
 Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eiseimer, Riesiger Strommast, Universeller Verbandskasten, Leuchtender Schneeflockenanhänger
 Blumentopf und seltene Anhängerfragmente: Beschleunigungsblumentopf, Scheinwerferblumentopf, Solarblumentopf, Kleiner gelber Entenschwimmring, Energiespardose
 Superanhänger 1: Cowboyhandschuhe, Mondtopf, Energiesparbatterie, Weiße Kerze, Prinzessinnen-Eiskrone
@@ -51018,8 +51018,8 @@ Orange Qualitätspflanzen 1: Eispilz, Starke Säure-Zitrone, Scharfer Wasabi, Pr
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erd-Sägegras
 Orange Qualitätspflanzen 4: Helikonien-Maschinengewehrschütze, Eispilz, Starke Säure Zitrone, heißer Wasabi, Stachelbeere mit elektrischem Strom
-Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Telefonmast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
-Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Robuster Strommast, Fortschrittlicher Verbandskasten, Veredelter Schneeflockenanhänger
+Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eimer, Gewöhnlicher Telefonmast, Gewöhnlicher Verbandskasten, Gewöhnlicher Schneeflockenanhänger
+Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eimer, Robuster Strommast, Fortschrittlicher Verbandskasten, Veredelter Schneeflockenanhänger
 Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eiseimer, Riesiger Strommast, Universeller Verbandskasten, Leuchtender Schneeflockenanhänger
 Blumentöpfe und seltene Anhängerfragmente: Beschleunigungsblumentopf, Scheinwerferblumentopf, Solarblumentopf, Kleiner gelber Entenschwimmring, Energiespardose
 Superanhänger 1: Cowboyhandschuhe, Mondtopf, Energiesparbatterie, Weiße Kerze, Prinzessinnen-Eiskrone
@@ -51041,9 +51041,9 @@ Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee,
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektro-Ribisel
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erdsägegras
-Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
-Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
-Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eiseneimer, Riesiger Strommast, Universelle Medizinbox, Leuchtender Schneeflockenanhänger
+Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
+Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
+Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eimer, Riesiger Strommast, Universelle Medizinbox, Leuchtender Schneeflockenanhänger
 Blumentöpfe und seltene Anhängerfragmente: Beschleunigungsblumentopf, Scheinwerferblumentopf, Solarblumentopf, Kleiner gelber Entenschwimmring, Energiespardose
 Superanhänger 1: Cowboyhandschuhe, Mondtopf, Energiesparbatterie, Weiße Kerze, Prinzessinnen-Eiskrone
 Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr, Polizei-Elektrostab, Schmerzmittel
@@ -51064,9 +51064,9 @@ Lila Qualitätspflanzen 2: Kiwi, Pfennigkraut-Trommler, Schattenkapsel-Orchidee,
 Orange Qualitätspflanzen 1: Eispilz, Stark saure Zitrone, Scharfer Meerrettich, Prunkwinde, Elektro-Ribisel
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Erdsägegras
-Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
-Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
-Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eiseneimer, Riesiger Strommast, Universelle Medizinbox, Leuchtender Schneeflockenanhänger
+Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eimer, Gewöhnlicher Strommast, Gewöhnliches Medizinprodukt Schachtel, gewöhnlicher Schneeflockenanhänger
+Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eimer, Stabiler Strommast, Fortschrittliche Medizinbox, Veredelter Schneeflockenanhänger
+Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eimer, Riesiger Strommast, Universelle Medizinbox, Leuchtender Schneeflockenanhänger
 Blumentöpfe und seltene Anhängerfragmente: Beschleunigungsblumentopf, Scheinwerferblumentopf, Solarblumentopf, Kleiner gelber Entenschwimmring, Energiespardose
 Superanhänger 1: Cowboyhandschuhe, Mondkuchen, Energiesparbatterie, Weiße Kerze, Prinzessinnen-Eiskrone
 Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr, Polizei-Elektrostock, Schmerzmittel
@@ -51088,9 +51088,9 @@ Orange Qualitätspflanzen 1: Eispilz, Starke Zitronensäure, Scharfer Meerrettic
 Orange Qualitätspflanzen 2: Maschinengewehr-Erbsenkanone, Auberginen-Ninja, Katzenschwanz, Eis-Drachenmäulchen, Maiskanone
 Orange Qualitätspflanzen 3: Energie-Mangostan, Piranha-Erbse, Bohrlive, Maulbeer-Blaster, Acker-Sägegras
 Orange Qualitätspflanzen 4: Dunkler Nachtpilz, Kalter Eispilz, Starke Zitronensäure, Sengend Meerrettich, Elektrische Stachelbeere
-Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eiseneimer, Gewöhnlicher Strommast, Gewöhnlicher Medizinkasten, Gewöhnlicher Schneeflockenanhänger
-Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eiseneimer, Robuster Strommast, Fortschrittlicher Medizinkasten, Veredelter Schneeflockenanhänger
-Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eiseneimer, Riesiger Strommast, Universeller Medizinkasten, Leuchtender Schneeflockenanhänger
+Blaue Qualitätsanhänger: Gewöhnlicher Dünger, Gewöhnlicher Eimer, Gewöhnlicher Strommast, Gewöhnlicher Medizinkasten, Gewöhnlicher Schneeflockenanhänger
+Lila Qualitätsanhänger: Fortschrittlicher Dünger, Fortschrittlicher Eimer, Robuster Strommast, Fortschrittlicher Medizinkasten, Veredelter Schneeflockenanhänger
+Orange Qualitätsanhänger: Seltener Dünger, Zeit- und Raum-Eimer, Riesiger Strommast, Universeller Medizinkasten, Leuchtender Schneeflockenanhänger
 Blumentöpfe und seltene Anhängerfragmente: Beschleunigungsblumentopf, Scheinwerferblumentopf, Solarblumentopf, Kleiner gelber Entenschwimmring, Energiespardose
 Superanhänger 1: Cowboyhandschuhe, Mondtopfhelm, Energiesparbatterie, Weiße Kerze, Prinzessinnen-Eiskrone
 Superanhänger 2: Metallschleuder, Großer Knallkörper, Beschleunigungsuhr, Polizei-Elektrostab, Schmerzmittel
@@ -53181,22 +53181,22 @@ Der Edle Zombie spricht gerne über Kunst. „Kunst kann meinen Adel widerspiege
 Ein gewöhnlicher Edelzombie der Oberschicht
 
 [ZOMBIE_RENAI_ARMOR1]
-Edler Zombie mit Straßensperre
+Edler-Pylonen-Zombie
 
 [ZOMBIE_RENAI_ARMOR1_DESCRIPTION]
-Eines Tages entdeckte der Edle Zombie diese Straßensperre auf der Straße. „Das ist viel künstlerischer als ein Hut!“
+Eines Tages entdeckte der Edle Zombie diesen Pylon auf der Straße. „Das ist viel künstlerischer als ein Hut!“ dachte er sich und taufte ihn larry.
 
 [ZOMBIE_RENAI_ARMOR1_DESCRIPTION_HEADER]
-Die kegelförmige Straßensperre mit Mustern kann dein edles Temperament unterstreichen und dir Schutz bieten.
+Dieser Edle Pylon mit Mustern kann dein edles Temperament unterstreichen und dir Schutz bieten.
 
 [ZOMBIE_RENAI_ARMOR2]
-Eiserner Fass-Zombie
+Edler-Eimer-Zombie
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION]
-Dieser eiserne Fass-Hut ist ein Luxusartikel unter den edlen Zombies. Er kostet 200 Gehirne.
+Dieser Eimer ist ein Luxusartikel unter den edlen Zombies. Er kostet 200 Gehirne.
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION_HEADER]
-Dieser eiserne Fass-Hut bietet guten Schutz und ist zugleich ein Symbol der Adelsklasse.
+Dieser Edle Eimer bietet guten Schutz und ist zugleich ein Symbol der Adelsklasse.
 
 [ZOMBIE_RENAI_FLAG]
 Edler Flaggen-Zombie
@@ -53205,20 +53205,20 @@ Edler Flaggen-Zombie
 Der Edle Flaggen-Zombie ist der arroganteste Zombie. Er gibt anderen Zombies gerne Befehle. Obwohl andere Zombies etwas unzufrieden sind, ist dies die Flagge, die Dr. Zomboss ihm als Zeichen höchster Ehre überreicht hat.
 
 [ZOMBIE_RENAI_FLAG_DESCRIPTION_HEADER]
-Sie markiert das Erscheinen einer großen Anzahl edler Zombies.
+Markiert das Erscheinen einer großen Anzahl edler Zombies.
 
 [ZOMBIE_RENAI_GARGANTUAR]
 Edler Gargantua
 
 [ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION_HEADER]
-Stiehlt immer die Statuen des Bildhauer-Wicht-Zombie.
+Stiehlt immer die Statuen des Bildhauer-Wicht's.
 
 [ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Schaden:{STAT}Zerschmettert Pflanzen mit Zombiestatuen.
 
 {KEYWORD}Eigenschaften:{STAT}Wirft bei Schaden den Bildhauer-Wicht-Zombie.
 
-{FLAVOR}Edler Gargantua ist die höchste Klasse der Edlen Zombies, findet aber keine passende Waffe und muss sich eine leihen. „Wie kann man das für Edlen Zombie stehlen? Es ist leihen, leihen!!“
+{FLAVOR}Der Edler Gargantua ist in der höchsten Klasse der Edlen Zombies, findet aber keine passende Waffe und muss sich eine leihen. „Wie kann man das als Edlen Zombie stehlen? Es ist leihen, leihen!!“
 
 [ZOMBIE_RENAI_PERFUMER]
 Parfüm-Zombie
@@ -53227,7 +53227,7 @@ Parfüm-Zombie
 Das handgemachte Parfüm des Parfüm-Zombies ist unter den edlen Zombies ein begehrtes Gut und ohne Beziehungen nicht zu bekommen. „Wie kann ich als Adliger da auf Parfüm verzichten? Sprüh mehr, sprüh mehr, es riecht … na ja, noch besser!!“
 
 [ZOMBIE_RENAI_PERFUMER_DESCRIPTION_HEADER]
-Wirf eine Flasche Parfüm, das für Pflanzen giftig ist und sie unfähig macht, anzugreifen und Schaden zu nehmen.
+Wirft eine Flasche Parfüm, das für Pflanzen giftig ist und sie unfähig macht, anzugreifen und lässt sie Schaden zu nehmen.
 
 [ZOMBIE_RENAI_BALLET]
 Ballett-Zombie
@@ -53248,13 +53248,13 @@ Der Flugmaschinen-Zombie nennt sich selbst „Da Vinci“. Sieh dir seine neue F
 Der Flugmaschinen-Zombie kann Bodenverteidigungen und Hindernisse aus der Luft überwinden. Es wäre schrecklich, wenn die Flugmaschine beim Absturz versehentlich Pflanzen zerquetschen würde.
 
 [ZOMBIE_RENAI_CARVER]
-Bildhauer-Wicht-Zombie
+Bildhauer-Wicht
 
 [ZOMBIE_RENAI_CARVER_DESCRIPTION]
-Kennt ihr schon die Statue des „Edelen Zombies mit gebrochenen Armen“? Dies ist die Skulptur des Bildhauer-Wicht-Zombies. Bildhauer-Wicht-Zombies mögen besonders ein ganzes Stück Rohstein, das ihn künstlerisch inspirieren kann.
+Kennt ihr schon die Statue des „Edelen Zombies mit gebrochenen Armen“? Dies ist die Skulptur des Bildhauer-Wichts. Bildhauer-Wichte mögen besonders ein ganzes Stück Rohstein, das sie künstlerisch inspirieren kann.
 
 [ZOMBIE_RENAI_CARVER_DESCRIPTION_HEADER]
-Meißelt aus dem Rohstein eine Zombiestatue und lasst ihn vorzeitig wiederbeleben.
+Meißelt aus dem Rohstein eine Zombiestatue und lasst sie dann zu Leben erwecken.
 
 [ZOMBIE_ROMAN]
 Römischer Zombie
@@ -53484,13 +53484,13 @@ Ein gewöhnlicher Samurai-Zombie unter dem Kommando des General-Gargantua.
 Samurai-Pylonen-Zombie
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION]
-Obwohl er ein Samurai ist, trägt er keine Waffen, sondern die charakteristische „Fu Nao Shan“-Straßensperre.
+Obwohl er ein Samurai ist, trägt er keine Waffen, sondern den charakteristischen „Fu Nao Shan“-Pylon.
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION_HEADER]
-Die kegelförmige Straßensperre mit der schneebedeckten Spitze sorgt für etwas Abkühlung in der sengenden Sonne.
+Der kegelförmige Pylon mit der schneebedeckten Spitze sorgt für etwas Abkühlung in der sengenden Sonne.
 
 [ZOMBIE_HEIAN_ARMOR2]
-Samurai-Fass-Zombie
+Samurai-Eimer-Zombie
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION]
 Dieser Drahtfass-Hut sieht zwar aus wie Holz, doch die beiden Kreise darum bestehen aus lackiertem Eisen.
@@ -53505,7 +53505,7 @@ Samurai-Flaggen-Zombie
 Der Samurai-Flaggen-Zombie hält die Kriegsflagge hoch und führt die Männer der Generäle zur Gehirnplünderung.
 
 [ZOMBIE_HEIAN_FLAG_DESCRIPTION_HEADER]
-Dies markiert die Ankunft einer großen Welle von Samurai-Zombies.
+Markiert die Ankunft einer großen Welle von Samurai-Zombies.
 
 [ZOMBIE_HEIAN_GARGANTUAR]
 General Gargantua
@@ -53515,7 +53515,7 @@ Das Kendama in seiner Hand wiegt 500 Kilogramm.
 
 [ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Schaden: {STAT}Zerschmettert Pflanzen mit dem Kendama.
-{KEYWORD}Funktionen: {STAT}Wirft Ninja-Wicht-Zombies bei Schaden aus.
+{KEYWORD}Funktionen: {STAT}Wirft Ninja-Wichte bei Schaden aus.
 
 {FLAVOR}Der General Gargantua ist der Anführer der Samurai-Zombies in diesem Gebiet. Wenn Dr. Zomboss nicht da ist, führt er die anderen Samurai-Zombies zum Gehirnsammeln an. Das Kendama in seiner Hand ist ein Spielzeug, mit dem er seit seiner Kindheit spielt. Natürlich hat sich auch seine Größe mit zunehmendem Alter verändert.
 
@@ -53529,13 +53529,13 @@ Er begann als Sushi-Koch im Fu Nao Mountain Restaurant, und sein Sushi ist bei Z
 Obwohl das Sushi von Sushi-Koch Zombie den Hunger der Zombies nach Gehirnen nicht stillen kann, übt es dennoch eine tödliche Anziehungskraft auf sie aus.
 
 [ZOMBIE_HEIAN_NINJA]
-Ninja-Wicht Zombie
+Ninja-Wicht
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION]
-Ninja-Wicht Zombie benutzt oft Rauchbomben, um alle auf sein Kommen aufmerksam zu machen!
+Der Ninja-Wicht benutzt oft Rauchbomben, um alle auf sein Kommen aufmerksam zu machen!
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
-Der Kugelfisch in den Händen des Ninja-Wicht-Zombies ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
+Der Kugelfisch in den Händen des Ninja-Wichts ist ungewöhnlich, und die Stacheln an ihm sind echte Stacheln.
 
 [ZOMBIE_HEIAN_HANABI]
 Feuerwerk-Zombie
@@ -59699,10 +59699,10 @@ Gewöhnlicher Spielkarten-Zombie unter dem Kommando des Zombie-Wichts der Roten 
 Spielkarten-Pylonen-Zombie
 
 [ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION]
-Als Spielkarten-Soldaten-Zombie ist es wichtig, mutig voranzukommen. Eine Straßensperre ist natürlich die beste Schutzausrüstung.
+Als Spielkarten-Soldaten-Zombie ist es wichtig, mutig voranzukommen. Ein Pylon ist natürlich die beste Schutzausrüstung.
 
 [ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION_HEADER]
-Poker-Barriere-Zombie unter dem Kommando von Rotkönigin-Wicht-Zombie
+Spielkarten-Pylonen-Zombie unter dem Kommando von dem Rotkönigin-Wicht.
 
 [ZOMBIE_FAIRY_TALE_ARMOR2]
 Poker-Fass-Zombie
@@ -59759,17 +59759,17 @@ Wächter Gargantua
 Die enge Deckung des Rotkönig-Wicht-Zombies mit schwerem Schild – eine herausragende Fähigkeit.
 
 [ZOMBIE_FAIRY_TALE_IMP]
-Rote Königin-Wicht-Zombie
+Rotkönigin-Wicht
 
 [ZOMBIE_FAIRY_TALE_IMP_DESCRIPTION]
-{KEYWORD}Eigenschaften: {STAT}Läuft weg und ruft den Wächterritter-Zombie zu Hilfe!
+{KEYWORD}Eigenschaften: {STAT}Läuft weg und ruft Wächterritter-Zombies zu Hilfe!
 
-{KEYWORD}Schwäche: {STAT}Wenn du mit dem Wächterritter-Zombie klarkommst, stellt er keine Bedrohung dar!
+{KEYWORD}Schwäche: {STAT}Wenn du mit dem Wächterritter-Zombie klarkommst, stellt sie keine Bedrohung dar!
 
-{FLAVOR}Ruft den Wächterritter-Zombie zu Hilfe, wenn er wegläuft.
+{FLAVOR}Ruft Wächterritter-Zombies zu Hilfe, wenn sie wegläuft.
 
 [ZOMBIE_FAIRY_TALE_IMP_DESCRIPTION_HEADER]
-Der Herrscher der Märchenwelt. Obwohl er keine Kampfkraft besitzt, ist er von vielen guten Generälen umgeben.
+Die Herrscherin der Märchenwelt. Obwohl sie keine Kampfkraft besitzt, ist sie von vielen guten Generälen umgeben.
 
 [ZOMBIE_FAIRY_TALE_KNIGHT]
 Wächterritter-Zombie
@@ -59877,7 +59877,7 @@ Gewöhnliche Zombies beim Sommernachtsfeuerwerk
 Sommernachts-Pylonen-Zombie
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION]
-Aus ästhetischen Gründen und zur Verteidigung trägt der Sommernachts-Pylonen-Zombie auf der Straßensperre eine Sonnenbrille, obwohl es sich um ein Nachtfeuerwerk handelt.
+Aus ästhetischen Gründen und zur Verteidigung trägt der Sommernachts-Pylonen-Zombie auf dem Pylon eine Sonnenbrille, obwohl es sich um ein Nachtfeuerwerk handelt.
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION_HEADER]
 Pylonen-Zombies beim Sommernachtsfeuerwerk
@@ -59889,7 +59889,7 @@ Sommernachts-Eimer-Zombie
 Um mehr Medaillen im Ringwurfspiel zu gewinnen, trainiert der Sommernachts-Eimer-Zombie mit seinem eigenen Eimer. Doch als er beim Feuerwerksfest ankommt, stellt er fest, dass es dort gar kein Ringwurfspiel gibt.
 
 [ZOMBIE_SUMMER_ARMOR2_DESCRIPTION_HEADER]
-Fass-Zombie beim Sommernachtsfeuerwerk
+Eimer-Zombie beim Sommernachtsfeuerwerk
 
 [ZOMBIE_SUMMER_FLAG]
 Sommernachts-Flaggen-Zombie
@@ -59943,19 +59943,19 @@ Gewöhnliche Zombies, verkleidet für Halloween.
 Halloween-Pylonen-Zombie
 
 [ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION]
-Um der Halloween-Atmosphäre gerecht zu werden, hat der Pylonen-Zombie eine speziell angefertigte Straßensperre in Form eines Hexenhuts entworfen. Sie ist schön und robust, verfügt aber über keine Magie.
+Um der Halloween-Atmosphäre gerecht zu werden, hat der Pylonen-Zombie einen speziell angefertigten Pylon in Form eines Hexenhuts entworfen. Er ist schön und robust, verfügt aber über keine Magie.
 
 [ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION_HEADER]
 Pylonen-Zombies, verkleidet für Halloween.
 
 [ZOMBIE_HALLOWEEN_ARMOR2]
-Halloween-Eiseneimer-Zombie
+Halloween-Eimer-Zombie
 
 [ZOMBIE_HALLOWEEN_ARMOR2_DESCRIPTION]
-Eiseneimer-Zombies glauben fest daran, dass die Horroratmosphäre an Halloween die Offensive der Zombiearmee verstärken kann. Deshalb nehmen sie mit ihren liebevoll dekorierten Eiseneimern an jedem Halloween aktiv teil.
+Eimer-Zombies glauben fest daran, dass die Horroratmosphäre an Halloween die Offensive der Zombiearmee verstärken kann. Deshalb nehmen sie mit ihren liebevoll dekorierten Eimern an jedem Halloween aktiv teil.
 
 [ZOMBIE_HALLOWEEN_ARMOR2_DESCRIPTION_HEADER]
-Fass-Zombie im Halloweenkostüm.
+Eimer-Zombie im Halloweenkostüm.
 
 [ZOMBIE_HALLOWEEN_GARGANTUAR]
 Gargantua im Halloweenkostüm
@@ -59964,7 +59964,7 @@ Gargantua im Halloweenkostüm
 Der Gargantua ist stark und etwas langweilig. „Passt perfekt zum Frankenstein-Kostüm, genau wie das Original“, lobten ihn andere Zombies.
 
 [ZOMBIE_HALLOWEEN_GARGANTUAR_DESCRIPTION_HEADER]
-Gargantua im Halloweenkostüm?
+Gargantua im Halloweenkostüm.
 
 [ZOMBIE_HALLOWEEN_IMP]
 Wicht-Zombie im Halloweenkostüm
@@ -60026,7 +60026,7 @@ Ein normaler Zombie im Weihnachtskostüm.
 Weihnachtlicher Pylonen-Zombie
 
 [ZOMBIE_CHRISTMAS_ARMOR1_DESCRIPTION]
-Niemand weiß, ob der Pylonen-Zombie eine Straßensperre mit Weihnachtskranz aufgehoben oder einer normalen Straßensperre einen Weihnachtskranz hinzugefügt hat.
+Niemand weiß, ob der Pylonen-Zombie einen Pylon mit Weihnachtskranz aufgehoben oder einem normalem Pylon einen Weihnachtskranz hinzugefügt hat.
 
 [ZOMBIE_CHRISTMAS_ARMOR1_DESCRIPTION_HEADER]
 Ein weihnachtlich gekleideter Pylonen-Zombie.
@@ -60291,10 +60291,10 @@ Mit der Flagge in der Hand bewegten sich alle Verbindungszombies auf die Nachric
 Sicherheits-Pylonen-Zombie
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION]
-Als der Pylonen-Zombie an einem Gebäude vorbeikam, fiel plötzlich ein Farbeimer vom Himmel. Glücklicherweise rettete ihm die Straßensperre das Leben, doch leider wurde seine neue Uniform schmutzig, sodass er in einer bunten Uniform zur Arbeit gehen musste.
+Als der Pylonen-Zombie an einem Gebäude vorbeikam, fiel plötzlich ein Farbeimer vom Himmel. Glücklicherweise rettete ihm der Pylon das Leben, doch leider wurde seine neue Uniform schmutzig, sodass er in einer bunten Uniform zur Arbeit gehen musste.
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION_HEADER]
-Aus irgendeinem Grund hatte seine Straßensperre mehr Farben.
+Aus irgendeinem Grund hatte sein Pylon mehr Farben.
 
 [ZOMBIE_PARKOUR_ARMOR2]
 Sicherheits-Eimer-Zombie
@@ -60303,7 +60303,7 @@ Sicherheits-Eimer-Zombie
 Mit einem „Wusch“-Geräusch erschien plötzlich eine dreifarbige quadratische Kiste in der Luft und stieß wortlos seinen Eimer weg und setzte ihn ihm auf den Kopf. Nun muss er die seltsame Kiste tragen, um seinen Eimer zu finden.
 
 [ZOMBIE_PARKOUR_ARMOR2_DESCRIPTION_HEADER]
-Sein Eiseneimer ist anders als die anderen.
+Sein Eimer ist anders als die anderen.
 
 [ZOMBIE_PARKOUR_GARGANTUAR]
 Sicherheits gargantua
@@ -60411,7 +60411,7 @@ Renn-Fass-Zombie
 Rennwagen sollten natürlich Helme tragen. Der Fass-Zombie richtete sein Fass lautlos auf.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR2_DESCRIPTION_HEADER]
-Er hofft, den Eiseneimer fest auf seinem Kopf befestigen zu können.
+Er hofft, den Eimer fest auf seinem Kopf befestigen zu können.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1]
 Pylonen-Zombie
@@ -78459,7 +78459,7 @@ Nachdem du den Zauberhut platziert hast, können Pflanzen oder Zombies erscheine
 {SAY:winnie}Zombies schmücken ihre Köpfe gerne mit Einsiedlerkrebsen, um sie sicherer zu machen!
 
 [NARRATIVE_ATLANTIS_6_INTRO_4]
-{EXCITED:crazydave}Ich glaube, ich kenne den Ursprung der Straßensperre.
+{EXCITED:crazydave}Ich glaube, ich kenne den Ursprung des Pylons.
 
 [NARRATIVE_ATLANTIS_7_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Warnung! Sensoren erkennen erhöhten Wasserdurchfluss.
@@ -79042,7 +79042,7 @@ Ozean-Eimer-Zombie
 Warum schwebte der Eimer nicht durch den Auftrieb davon? Warum verrottete das Holz nicht im Wasser? Der Zombie, der so eine Frage stellte, muss Wasser im Gehirn haben. Wo ist das Gehirn?
 
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION_HEADER]
-Der Eiseneimer auf seinem Kopf bietet hervorragenden Schutz vor Schaden.
+Der Eimer auf seinem Kopf bietet hervorragenden Schutz vor Schaden.
 
 [ZOMBIE_ATLANTIS_gargantuar]
 Ruinen-gargantua
@@ -81358,13 +81358,13 @@ Ein Zombie im Stil von „Reise in den Westen“.
 Ein Zombie aus „Reise in den Westen“ reist nach Westen, legt 174.000 Kilometer zurück und durchläuft 81 Prüfungen auf der Suche nach seinem Gehirn.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1]
-Ein Zombie mit Straßensperre aus „Reise in den Westen“
+Ein Zombie mit Pylon aus „Reise in den Westen“
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION_HEADER]
-Seine Bambus-Straßensperre macht ihn doppelt so stark wie einen normalen Zombie.
+Sein Bambus-Pylon macht ihn doppelt so stark wie einen normalen Zombie.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION]
-Jemand beauftragte den Zombie der Reise in den Westen, Meister und Lehrling daran zu hindern, nach Westen zu reisen. So wurde er zum Zombie der Reise in den Westen. Das Material der Straßensperre auf der Reise in den Westen scheint jedoch nicht sehr robust zu sein.
+Jemand beauftragte den Zombie der Reise in den Westen, Meister und Lehrling daran zu hindern, nach Westen zu reisen. So wurde er zum Zombie der Reise in den Westen. Das Material des Pylons auf der Reise in den Westen scheint jedoch nicht sehr robust zu sein.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2]
 Zombie der Reise in den Westen: Eiserner Porzellanbecher
