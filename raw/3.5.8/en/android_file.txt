@@ -60291,7 +60291,7 @@ Mit der Flagge in der Hand bewegten sich alle Verbindungszombies auf die Nachric
 Sicherheits-Pylonen-Zombie
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION]
-Als der Pylonen-Zombie an einem Gebäude vorbeikam, fiel plötzlich ein Farbeimer vom Himmel. Glücklicherweise rettete ihm der Pylon das Leben, doch leider wurde seine neue Uniform schmutzig, sodass er in einer bunten Uniform zur Arbeit gehen musste.
+Als der Pylonen-Zombie an einem Gebäude vorbeikam, fiel plötzlich ein Farbeimer vom Himmel. Glücklicherweise rettete ihn der Pylon das Leben, doch leider wurde seine neue Uniform schmutzig, sodass er in einer bunten Uniform zur Arbeit gehen musste.
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION_HEADER]
 Aus irgendeinem Grund hatte sein Pylon mehr Farben.
