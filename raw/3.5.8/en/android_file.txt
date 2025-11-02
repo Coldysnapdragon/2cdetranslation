@@ -22948,22 +22948,22 @@ Zombot-Fluggondel
 Die schwebende Festung aus den Lüften.
 
 [ZOMBIE_GENERAL_CAESAR_PHASE1]
-Caesar Zombie
+Römischer Cäsar-Zombie
 
 [ZOMBIE_GENERAL_CAESAR_PHASE1_DESCRIPTION_HEADER]
-Die Geschichte beschreibt Caesar Zombie als beeindruckenden Anführer mit einer beispiellosen Präsenz, die von all seinen Untertanen bewundert wurde.
+Der römische Cäsar-Zombie bewirft Pflanzen mit kaiserlichem Salatdressing, wodurch sie für Zombies unwiderstehlich werden. Außerdem befördert er römische Zombies und gibt ihnen stärkere Helme.
 
 [ZOMBIE_GENERAL_CAESAR_PHASE1_DESCRIPTION]
-Caesar Zombie verteilt Kaiserliches Salatdressing auf Pflanzen, wodurch Zombies unwiderstehlich werden. Außerdem verleiht er römischen Zombies robustere Helme.
+Historische Dokumente belegen, dass der römische Cäsar-Zombie ein Anführer von beeindruckender Statur war, zu dem alle Untergebenen aufschauten.
 
 [ZOMBIE_ROMAN_MEDUSA]
-Medusa Zombie
+Zombie-Medusa
 
 [ZOMBIE_ROMAN_MEDUSA_DESCRIPTION_HEADER]
-Die gebürtige Griechin, aber in Rom aufgewachsen, erhält Medusa Zombie von seiner kleinen Schlange Modetipps, die auf persönlichen Erfahrungen basieren.
+Die Zombie-Medusa schiebt versteinerte Zombies und lässt Zombies und Zomboiden, die sie erblicken, versteinern.
 
 [ZOMBIE_ROMAN_MEDUSA_DESCRIPTION]
-Medusa-Zombie stößt versteinerte Zombies weg und versteinert sie.
+Eigentlich aus Griechenland, wurde sie in Rom eine richtig große Nummer. Die Zombie-Medusa hört auf die Schlangen, die ihren Kopf umtänzeln und ihr kluge Ratschläge einflüssssstern.
 
 [ZOMBIE_LNY]
 Neujahrs-Zombie
@@ -36547,13 +36547,13 @@ Meister-Stockkostüm
 Die Spezialdünger-Fähigkeit verursacht durchgehend explosiven Schaden.
 
 [PLANTING_NOT_ON_DINOEGG]
-Kann nicht auf Dinosaurier-Eiern gepflanzt werden.
+Kann nicht auf Dinosaurier-Eiern gepflanzt werden!
 
 [REDPACKET_INFO]
 ^A4FFA4^{STR} ^oldclr^Glückverheißendes Zeichen des Himmels! Spieler {STR} hat ^FFCC00^{STR}{INT} erhalten.
 
 [PLANTING_NOT_ON_DINOTREAD]
-Kann nicht auf Dinosaurier-Fußabdrücken gepflanzt werden.
+Kann nicht auf Dinosaurier-Fußabdrücken gepflanzt werden!
 
 [PLANTING_BEYOND_NEW_PVP_LIMIT]
 Das Pflanzlimit wurde überschritten. Vergiss nicht, die Sonnenblume zu verbessern!
@@ -36562,31 +36562,31 @@ Das Pflanzlimit wurde überschritten. Vergiss nicht, die Sonnenblume zu verbesse
 Das maximale Pflanzlimit wurde erreicht!
 
 [ZOMBIE_DINO_PUSHEGG]
-Eierschiebender Wicht-Zombie
+Eierschiebender-Wicht
 
 [ZOMBIE_DINO_PUSHEGG_DESCRIPTION_HEADER]
-Obwohl der als kleiner Dinosaurier verkleidete Wicht-Zombie stärker ist als andere Wicht-Zombie, ist die wahre Bedrohung das Drachenei, das er schiebt.
+Obwohl dieser als kleiner Dinosaurier verkleidete Wicht stärker ist als andere Wichte, ist die wahre Bedrohung das Dinosaurierei, das er schiebt.
 
 [ZOMBIE_DINO_PUSHEGG_DESCRIPTION]
-Der Wicht-Zombie wich dem Angriff des Dinosauriers erfolgreich aus und schob das Drachenei weg, ignorierte dabei aber das fatale Problem, dass er zu klein war, um den Weg vor sich zu sehen.
+Dieser Wicht wich dem Angriff des Dinosauriers erfolgreich aus und schiebt das Dinoei weg, ignoriert dabei aber das fatale Problem, dass er zu klein ist, um den Weg vor sich zu sehen.
 
 [ZOMBIE_DINO_STEALEGG]
-Eierstehlender Wicht-Zombie
+Eierstehlender-Wicht
 
 [ZOMBIE_DINO_STEALEGG_DESCRIPTION_HEADER]
-Der Wicht-Zombie, der mit dem Drachenei davonlief, hatte einen instabilen Schwerpunkt, wodurch er häufig hinfiel und das Drachenei herausschleuderte. Es wäre schrecklich gewesen, wenn er die Pflanzen zerquetscht hätte.
+Dieser Wicht, der mit dem Dinosaurierei davonläuft, hat einen instabilen Schwerpunkt, wodurch er häufig hinfällt und das Dinoei herausschleudert. Es wäre schrecklich, wenn er die Pflanzen zerquetschen würde.
 
 [ZOMBIE_DINO_STEALEGG_DESCRIPTION]
-Der Brenneier-Zombie, der kein Geld für Tarnkleidung hatte, wählte eine einfache und primitive Methode, Eier zu stehlen. Er trug die Eier und wurde von Dinosauriern verfolgt.
+Dieser Wicht, der kein Geld für Tarnkleidung hatte, wählte eine einfache und primitivere Methode, Eier zu stehlen. Er trägt die Eier und wird dann jedoch von Dinosauriern verfolgt.
 
 [ZOMBIE_DINO_EGGSHELL]
-Eierschalen-Zombie
+Eierschalen-Wicht
 
 [ZOMBIE_DINO_EGGSHELL_DESCRIPTION_HEADER]
-Der Brenneier-Zombie verkleidet sich als Drachenei. Die Eierschale ist nicht nur niedlich, sondern bietet auch Schutz.
+Dieser Wicht verkleidet sich als Dinosaurierei. Die Eierschale ist nicht nur niedlich, sondern bietet auch Schutz.
 
 [ZOMBIE_DINO_EGGSHELL_DESCRIPTION]
-Während andere Brenneier-Zombies noch versuchten, Dracheneier zu stehlen, hatte der Eierschalen-Zombie bereits gelernt, sich als Drachenei zu verkleiden. Es war wirklich ein Trick.
+Während andere Wichte noch versuchten, Dinoeier zu stehlen, hatte der Eierschalen-Wicht bereits gelernt, sich als Dinoei zu verkleiden. Es war wirklich ein guter Trick.
 
 [PLAYERS_TRIP_TO_DINOSAURDANGER]
 {PLAYER}s Abenteuer im Jahr des Hahns
@@ -37835,6 +37835,16 @@ Gefrorene Rückstände
 
 [MONOTROPA_SKILL_LEVEL5_DES]
 Nachdem der Schneemann geschmolzen ist, wird der Zombie für weitere 2 Sekunden verlangsamt.
+
+[ANANAS_FAMILIE]
+Bromeliaceae
+[ANANAS_GATTUNG]
+Ananas
+[ANANAS_PEDIA]
+Ananas – Der vielfältige Reiz der Königin der tropischen Früchte
+Eine mehrjährige krautige Pflanze.
+    Kurzer Stiel mit rosettenförmig angeordneten, schwertförmigen Blättern; endständiger Blütenstand mit über hundert Blüten, die eine zapfenartige Struktur bilden, jede Blüte mit drei purpurroten Blütenblättern; Sammelfrucht, die sich aus einem fleischigen Blütenboden und spiralförmig angeordneten Fruchtknoten entwickelt und bei Reife goldgelb wird. Da es sich bei den kultivierten Sorten überwiegend um Triploide handelt, sind die Blüten oft unterentwickelt. Die Blütezeit dauert von Sommer bis Winter, die Fruchtentwicklung dauert etwa 3-4 Monate.
+Diese allgemein als Ananas bekannte Pflanze stammt aus dem tropischen Südamerika und wird heute zwischen dem Wendekreis des Krebses und dem Wendekreis des Steinbocks weit verbreitet angebaut. Sie wurde in der späten Ming-Dynastie (Ende des 16. bis Anfang des 17. Jahrhunderts) in Guangdong und Fujian eingeführt und erhielt im Min-Nan-Dialekt den Namen „Phönix-Ananas” (鳳梨), da ihre gebündelte Krone dem Schwanz eines Phönix ähnelt und eine homophone Assoziation mit „Phönix kommt” (鳳來) besteht. Zu Beginn ihrer Einführung wurde sie aufgrund ihrer morphologischen Ähnlichkeit mit dem Moraceae-Baum Jackfrucht umgangssprachlich als „Grasananas” bezeichnet. Das botanische Kompendium der Qing-Dynastie „Illustrierte Untersuchung von Pflanzennamen und -formen” (1846) legte „polo” als Standardbezeichnung fest. Nach der Gründung der Volksrepublik wurde das Grasradikal hinzugefügt, um ihre krautige Natur zu verdeutlichen, was zu „菠萝” (bōluó) führte. Der englische Name „pineapple” (Ananas) stammt von der Assoziation der Europäer, deren Aussehen an einen Tannenzapfen erinnert, mit dem saftigen Fruchtfleisch eines Apfels. Das Fruchtfleisch ist reich an Bromelain und Vitamin C und eignet sich zum frischen Verzehr oder zur Verarbeitung zu Dosenfrüchten und Saft. Die Blattfasern können zur Herstellung von Seilen und zum Weben verwendet werden.
 
 [TWINSHONEYSUCKLE_FAMILY]
 Caprifoliaceae
@@ -53257,67 +53267,67 @@ Kennt ihr schon die Statue des „Edelen Zombies mit gebrochenen Armen“? Dies 
 Meißelt aus dem Rohstein eine Zombiestatue und lasst sie dann zu Leben erwecken.
 
 [ZOMBIE_ROMAN]
-Römischer Zombie
+Römer-Zombie
 
 [ZOMBIE_ROMAN_DESCRIPTION]
-Der einfachste römische Legionärs-Zombie.
+Er ist nicht sicher, was "dezimieren" bedeutet.
 
 [ZOMBIE_ROMAN_DESCRIPTION_HEADER]
-Er ist sich nicht sicher, was „dezimal“ bedeutet.
+Dein einfacher, römischer Zombie-Legionär.
 
 [ZOMBIE_ROMAN_ARMOR1]
-Römischer Barrikaden-Zombie
+Römer-Pylonenkopf
 
 [ZOMBIE_ROMAN_ARMOR1_DESCRIPTION]
-Verkehrsbarrieren aus Marmor bieten einen gewissen Schutz.
+Ob der Verkehr im alten Rom den Einsatz von Verkehrspylonen rechtfertigte? Die Meinungen der Historiker gehen da stark auseinander.
 
 [ZOMBIE_ROMAN_ARMOR1_DESCRIPTION_HEADER]
-Gab es im antiken Rom genug Verkehr, um Pylonen zu rechtfertigen? Historiker sind sich uneinig. Es ist eine echte Debatte.
+Ein Pylon aus Marmor bietet einigen Schutz.
 
 [ZOMBIE_ROMAN_ARMOR2]
-Römischer Fass-Zombie
+Römer-Eimer-Zombie
 
 [ZOMBIE_ROMAN_ARMOR2_DESCRIPTION]
-Ein etwas ausgefallener Eimer unterscheidet diesen Zombie vom Rest der Meute.
+Auch im alten Rom gab es schon Eimer wie diesen. Glaub's mal!
 
 [ZOMBIE_ROMAN_ARMOR2_DESCRIPTION_HEADER]
-Glaub mir, solche Eimer gab es im alten Rom.
+Ein schicker Eimer mit dem gewissen Flair hebt diesen Zombie von der Masse ab.
 
 [ZOMBIE_ROMAN_ARMOR3]
 Zenturio-Zombie
 
 [ZOMBIE_ROMAN_ARMOR3_DESCRIPTION]
-Ein römischer Zombie höherer Stufe.
+Wusstest du, dass ein Zenturio im alten Rom eine Zenturie befehligte? Verrückt, oder?
 
 [ZOMBIE_ROMAN_ARMOR3_DESCRIPTION_HEADER]
-Wusstest du, dass im alten Rom Zenturionen ein Jahrhundert lang herrschten? Ist das nicht verrückt?
+Ein Römer-Zombie höheren Ranges.
 
 [ZOMBIE_ROMAN_ARMOR4]
-Steinstatuen-Zombie
+Büstenkopf-Zombie
 
 [ZOMBIE_ROMAN_ARMOR4_DESCRIPTION]
-Eine Büste bedeutet, dass dieser römische Zombie härtere Schläge einstecken kann.
+Der Büstenkopf-Zombie gehört ins Museum, und zwar mit einem großen Schild, auf dem so etwas steht wie: "ACHTUNG: DIES IST EIN ZOMBIE!"
 
 [ZOMBIE_ROMAN_ARMOR4_DESCRIPTION_HEADER]
-Die Zombiebüste gehört ins Museum, mit einem großen Schild mit der Aufschrift „Achtung: Dies ist ein Zombie!“
+Dank seines Büstenkopfs kann dieser Römer-Zombie einiges wegstecken.
 
 [ZOMBIE_ROMAN_FLAG]
-Römischer Flaggen-Zombie
+Römer-Flaggen-Zombie
 
 [ZOMBIE_ROMAN_FLAG_DESCRIPTION]
-Dieses Schild zeigt an, dass weitere Zombies unterwegs sind!
+Im alten Rom dienten Flaggen auf dem Schlachtfeld oft der Truppenkoordination. Aber mal im Ernst: Wie viel Koordination braucht es, um nach links zu stolpern?
 
 [ZOMBIE_ROMAN_FLAG_DESCRIPTION_HEADER]
-Im alten Rom wurden Flaggen oft verwendet, um die Truppenbewegungen auf dem Schlachtfeld zu lenken. Aber sag mir: Wie weit nach links musst du dich wirklich bewegen?
+Die Flagge zeigt an, dass mehr Zombies unterwegs sind!
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC]
-Römischer Schild-Zombie
+Römer-Schild-Zombie
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC_DESCRIPTION]
-Ein alberner, ungewöhnlich schüchterner römischer Zombie, der ebenfalls einen Schild trägt.
+Sein Schild schützt ihn gegen schlechte Bewertungen und fiese Bemerkungen.
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC_DESCRIPTION_HEADER]
-Der Schild schützt ihn vor schlechten Bewertungen und verletzenden Kommentaren.
+Ein dämlicher, ungewöhnlich schüchterner Römer-Zombie, der außerdem einen Schild trägt.
 
 [ZOMBIE_ROMAN_SHIELD_PAIR]
 Römischer Schildzombie
@@ -53329,31 +53339,31 @@ Ein alberner, ungewöhnlich schüchterner römischer Zombie, der ebenfalls einen
 Der Schild schützt ihn vor schlechten Bewertungen und verletzenden Kommentaren.
 
 [ZOMBIE_ROMAN_IMP]
-Römischer Wicht-Zombie
+Römer-Wicht
 
 [ZOMBIE_ROMAN_IMP_DESCRIPTION]
-Der Wicht-Zombie trägt eine Löwenfigur.
+Wie alle Zombie-Wichte taucht auch der Römer-Wicht stets dort auf, wo du ihn am wenigsten gebrauchen kannst.
 
 [ZOMBIE_ROMAN_IMP_DESCRIPTION_HEADER]
-Wie alle Wicht-Zombie taucht auch der römische Wicht-Zombie immer dort auf, wo man ihn am wenigsten braucht.
+Klein. Wichtartig. In einen ehemaligen Löwen gewandet.
 
 [ZOMBIE_ROMAN_GARGANTUAR]
-Römischer Gargantua
+Gargantua-Gladiator
 
 [ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION]
-Helm tragen, mit Zombie-Wichten und Netzen um sich werfen – das ist ein echter Job.
+Er hat eine Säule dabei – und scheut sich nicht, sie zu nutzen.
 
 [ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION_HEADER]
-Er scheut sich nie, seine Säule zu benutzen.
+Trägt einen Helm. Schleudert einen Wicht UND ein Netz. Wirklich ein unangenehmer Zeitgenosse.
 
 [ZOMBIE_ROMAN_HEALER]
 Heiler-Zombie
 
 [ZOMBIE_ROMAN_HEALER_DESCRIPTION]
-Heilt Zombies mit seltsamer römischer Magie.
+Heißer Tipp: Schalte diesen schnellstmöglich aus, wenn du nicht willst, dass dein Leben in ein absolutes Jammertal verwandelt wird.
 
 [ZOMBIE_ROMAN_HEALER_DESCRIPTION_HEADER]
-Wichtiger Tipp: Wenn du nicht willst, dass dein Leben in Elend und Verzweiflung versinkt, töte diesen Stinker so schnell wie möglich.
+Heilt Zombies mit seltsamer römischer Magie.
 
 [ZOMBIE_ELITE_ROMAN_HEALER]
 Elite-Heiler-Zombie
