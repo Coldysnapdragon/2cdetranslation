@@ -20605,13 +20605,13 @@ Wenn er erschöpft ist, legt er sich hin, um sich auszuruhen und ein Ski Zombie 
 {FLAVOR}Der Walross-Zombie war schon immer unzufrieden mit seinem Gewicht und fasste deshalb einen Plan: Jeden Tag fünf Kilometer laufen. Doch als er diesen Plan in die Tat umsetzte, stellte er fest, dass er ein gravierendes Problem übersehen hatte: Er hatte keine Füße ... Wie sollte er ohne Füße laufen? Er dachte lange darüber nach, konnte das Problem aber nicht lösen und beschloss, den Plan auf unbestimmte Zeit zu verschieben, bis er dieses Problem gelöst hatte ...
 
 [ZOMBIE_ICEAGE_CHIEF]
-Eiswind-Häuptling-Zombie
+Häuptling-Zombie
 
 [ZOMBIE_ICEAGE_CHIEF_DESCRIPTION_HEADER]
-Kann kalten Wind blasen und die Pflanzen davor einfrieren.
+Kann kalten Wind blasen und die getroffenen Pflanzen einfrieren.
 
 [ZOMBIE_ICEAGE_CHIEF_DESCRIPTION]
-{FLAVOR}Der Eiswind-Häuptling-Zombie besiegte andere Zombies in einem Laubbläserwettbewerb und wurde zum Häuptling des gesamten Stammes gewählt. Wie das Sprichwort sagt, hat ein neuer Zombie bei seinem Amtsantritt drei Dinge zu tun, also beschloss er, ein Sporttreffen für den gesamten Stamm abzuhalten. Als er die Neuigkeiten hörte, waren unter den berühmten Läufern Dodo Zombie und Ski Zombie, der berühmte Gewichtheber Höhlen Zombie, der berühmte Diskuswerfer Faultier-Gargantua usw. ... Dieses Mal gibt es bei dem Sporttreffen nur eine Disziplin: Luftballons pusten ...
+{FLAVOR}Der Häuptling-Zombie besiegte andere Zombies in einem Laubbläserwettbewerb und wurde zum Häuptling des gesamten Stammes gewählt. Wie das Sprichwort sagt, hat ein neuer Zombie bei seinem Amtsantritt drei Dinge zu tun, also beschloss er, ein Sporttreffen für den gesamten Stamm abzuhalten. Als er die Neuigkeiten hörte, waren unter den berühmten Läufern Dodo Zombie und Ski Zombie, der berühmte Gewichtheber Höhlen Zombie, der berühmte Diskuswerfer Faultier-Gargantua usw. ... Dieses Mal gibt es bei dem Sporttreffen nur eine Disziplin: Luftballons pusten ...
 
 [ZOMBIE_SLIMES]
 Schleim-Zombie
@@ -22919,19 +22919,19 @@ Der Reliktjäger hat in seinen besten Zeiten beeindruckende Relikte erhascht. G�
 Schwingt sich hinter die Verteidigungslinien.
 
 [ZOMBIE_LOSTCITY_GUIDE]
-Verlorener Zombie-Führer
+Führer-Zombie
 
 [ZOMBIE_LOSTCITY_GUIDE_DESCRIPTION]
-Der Verlorene Zombie-Führer bekam diesen Job nicht wegen seiner Weisheit, sondern wegen der Karte in seiner Hand. Daher ist er seinem Vater, der wegen seiner Liebe zur Antiquitätenjagd bankrott ging, äußerst dankbar.
+Der Führer-Zombie bekam diesen Job nicht wegen seiner Weisheit, sondern wegen der Karte in seiner Hand. Daher ist er seinem Vater, der wegen seiner Liebe zur Antiquitätenjagd bankrott ging, äußerst dankbar.
 
 [ZOMBIE_LOSTCITY_GUIDE_DESCRIPTION_HEADER]
 Öffnet eine Geheimtür, durch die Zombies schnell eine Strecke zurücklegen können.
 
 [ZOMBIE_LOSTCITY_DOCTOR]
-Verlorener Zombie-Doktor
+Doktor-Zombie
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION]
-Oberflächlich betrachtet wird der Verlorene Zombie-Doktor als inkompetenter Arzt respektiert, der oft versehentlich Spritzen in seiner Hand wegwirft. Hinter den Kulissen wird er jedoch immer als „der Typ, der die Lizenz bezahlt hat“ bezeichnet.
+Oberflächlich betrachtet wird der Doktor-Zombie als inkompetenter Arzt respektiert, der oft versehentlich Spritzen in seiner Hand wegwirft. Hinter den Kulissen wird er jedoch immer als „der Typ, der die Lizenz bezahlt hat“ bezeichnet.
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
 Wirft gelegentlich Spritzen, um die Angriffsgeschwindigkeit von Pflanzen zu verringern.
@@ -37140,13 +37140,14 @@ WeChat-Freunde
 Freundeskreis
 
 [ZOMBIE_EXPLOSION_PROOF]
-Explosionsgeschützter Polizeizombie
+Polizisten-Zombie
 
 [WECHAT_SHARE_NOT_INSTALLED]
-Bitte installiere WeChat  Zuerst
+Bitte installiere WeChat Zuerst!
 
 [ZOMBIE_EXPLOSION_PROOF_DESCRIPTION_HEADER]
-Wirf eine Rauchbombe, um deine Pflanzen zu bedecken.
+Wirft eine Rauchbombe, um deine Pflanzen zu bedecken und sie handlungsunfähig zu machen.
+Außerdem schlägt er mit seinem Schlagstock und ist damit immun gegen Chilibohnen.
 
 [ZOMBIE_EXPLOSION_PROOF_DESCRIPTION]
 „Du hast das Recht zu schweigen, aber deine Aussage wird vor Gericht als Beweismittel verwendet!“ Diese Warnung übte er immer vor dem Spiegel. Seit seinem Abschluss an der Polizeiakademie wollte er mit diesem Satz schon lange angeben.
@@ -37185,7 +37186,7 @@ Die Zeitung schützt den Zombie. Wenn sie zerstört wird, wird er wütend.
 Solarauto-Zombie
 
 [ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION_HEADER]
-Wenn die Energie voll ist, trifft es die Pflanzen und stößt zurück. Wenn sie leer ist, absorbiert sie die Energie der Pflanzen mit einem Strahl.
+Wenn die Energie voll ist, trifft er die Pflanzen und stößt zurück. Wenn sie leer ist, absorbiert er die Energie der Pflanzen mit einem Strahl.
 
 [ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION]
 Der Zombie, der die Dunkelheit am meisten hasst, fährt am liebsten Auto, um die Sonne zu genießen. Und während er in der Sonne liegt, denkt er darüber nach, wann er von der Sonne leben kann.
@@ -55585,7 +55586,7 @@ Einzeln
 Doppelt
 
 [RIFT_BOSS_DOUBLE_REWARD_DESC]
-Zombie Doctor hat es satt, jeden Tag zu arbeiten. Er kann sich nun für die doppelte Anzahl an Freiraumbelohnungen entscheiden, die Ruhezeit des Zombie-Arztes wird jedoch auf 20 Stunden verlängert.
+Zomboss hat es satt, jeden Tag zu arbeiten. Er kann sich nun für die doppelte Anzahl an Freiraumbelohnungen entscheiden, die Ruhezeit des Zombie-Arztes wird jedoch auf 20 Stunden verlängert.
 
 [RIFT_NEED_CONNECTION]
 Kommunikation für Pennys Verfolgung herstellen
@@ -69834,7 +69835,7 @@ Hammer-Zombie
 Kann einen Hammerwirbel auslösen, um geradlinig fliegende Erbsengeschosse abzuwehren (Hinweis: Wurfgeschosse können nicht abgewehrt werden).
 
 [ZOMBIE_NEW_PVP_LOSTCITY_DOCTOR]
-Verlorener Doktor-Zombie
+Doktor-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
 Wirft gelegentlich Spritzen, um die Angriffsgeschwindigkeit von Pflanzen zu verringern.
@@ -75971,7 +75972,7 @@ Die Schnapperbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in ders
 Die Schnapperbse schrumpft im Boden, verschlingt sofort bis zu 5 Zombies in derselben Reihe, ^ff0000^ und spuckt alle Zombieköpfe aus. ^oldclr^
 
 [MONOTROPA_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie drei Felder rechts von der Kristallorchidee erscheint, entfesselt er Eiswind, der Zombies in der Nähe Schaden zufügt und den ersten kleinen Zombie für 5 Sekunden in einen handlungsunfähigen Schneemann verwandelt.
+Wenn ein Zombie drei Felder rechts von der Kristallorchidee erscheint, entfesselt sie einen Eiswind, der Zombies in der Nähe Schaden zufügt und den ersten kleinen Zombie für 5 Sekunden in einen handlungsunfähigen Schneemann verwandelt.
 
 [MONOTROPA_NEW_SKILL_LEVEL2_DES]
 Die Fähigkeit der Kristallorchidee, Eis und Schnee zu nutzen, wurde verbessert. Die Angriffsreichweite von Eiswind wurde um zwei Felder erhöht.
@@ -80674,9 +80675,9 @@ Spielstörung
 Erkenne ungewöhnliches Verhalten und beende das Spiel
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC]
-Elite-Eiswind-Chef Zombie
+Elite-Häuptling-Zombie
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION_HEADER]
-Der Elite-Eiswind-Chef-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie erheblich reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
+Der Elite-Häuptling-Zombie verfügt über einen Widerstandsbalken. Feuerangriffe können seine Widerstandskraft verringern (Brennangriffe können sie erheblich reduzieren). Das Leeren des Widerstandsbalkens versetzt den Zombie in einen geschwächten Zustand. In diesem Zustand kann er sich weder bewegen noch angreifen, bis der Widerstandsbalken wiederhergestellt ist. Sobald der Zombie Widerstandskraft besitzt, kann er Schaden begrenzen.
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION]
 Nach einem Routineangriff entdeckte der Gigantische Zombie, dass der Mann mit der Bratpfanne auf dem Kopf in der gegenüberliegenden Höhle einen Ventilator herausnahm, woraufhin der Gigantische Zombie weggeblasen wurde. Nach mehreren Angriffen weiß der Gigantische Zombie nun, wie er gegen den Ventilator kämpfen kann.
 
