@@ -6191,7 +6191,7 @@ Schließt das Level erfolgreich ab und schützt die bedrohten Pflanzen.
 Cheatcode-Demo
 
 [STARCHALLENGE_PRESET_PLANTS]
-Widersteht mit ausgewählten Pflanzen dem Zombie-Angriff.
+Überlebe den Zombie-Angriff mit den vorgegebenen Pflanzen.
 
 [STARCHALLENGE_PRESET_PLANTS_NAME]
 Vorgegebene Pflanzen
@@ -61265,10 +61265,10 @@ Zombies benutzen Sprungbretter, um in den Garten einzudringen. Vorsicht vor der 
 Zombie-Transformationsgerät
 
 [PVZ1MODE_ZOMBIECHANGER_NORMAL_DESC]
-Die neueste Technologie des Zombie Doctors kann gewöhnliche Zombies in riesige Zombies verwandeln, scheitert aber manchmal.
+Die neueste Technologie vom Zomboss kann gewöhnliche Zombies in Gargantuas verwandeln, scheitert aber manchmal.
 
 [PVZ1MODE_ZOMBIECHANGER_HARD_DESC]
-Die neueste Technologie des Zombie Doctors kann gewöhnliche Zombies in riesige Zombies verwandeln, scheitert aber manchmal.
+Die neueste Technologie vom Zomboss kann gewöhnliche Zombies in Gargantuas verwandeln, scheitert aber manchmal.
 
 [PVZ1MODE_MAGICMIRROR]
 Transmissionsspiegel
