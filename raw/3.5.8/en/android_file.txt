@@ -60139,16 +60139,6 @@ Zombie-Tauben-Zauberer
 [ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
 Zombie-Tauben-Zauberer
 
-[ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
-Zombie-Tauben-Zauberer
-
-[ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
-Zombie-Tauben-Zauberer
-
-[ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
-MBIE_CARNIE_MAGICIAN_ARTIFACT]
-Magier Zombie
-
 [ZOMBIE_CARNIE_MAGICIAN_ARTIFACT_DESCRIPTION]
 Zombie-Zombie
 
@@ -60156,31 +60146,31 @@ Zombie-Zombie
 Zombie-Zombie
 
 [ZOMBIE_ZOMBIE_MONEYTREE]
-Geldbaum-Zombie des Frühlingsfests
+Neujahrs-Geldbaum-Zombie
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION]
-Zombies, die nur während des Frühlingsfests erscheinen. Ihre Bäume sind voller Barren, die in unzählige Goldmünzen umgewandelt werden können.
+Ein Zombie, der nur während des Neujahrsfests erscheint. Sein Baum ist mit Barren behangen, die in unzählige Goldmünzen umgewandelt werden können.
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION_HEADER]
-Spezielle Neujahrs-Zombies.
+Schüttelt seinen Baum und lässt Goldbarren fallen, die Münzen geben, wenn sie zerstört werden.
 
 [ZOMBIE_ZOMBIE_YEARMONSTER]
-Chinesisches Neujahrs-Zombie
+Neujahrsbiest Zombie
 
 [ZOMBIE_ZOMBIE_YEARMONSTER_DESCRIPTION_HEADER]
-Spezielle Neujahrs-Zombies.
-
-[ZOMBIE_ZOMBIE_YEARMONSTER_DESCRIPTION]
-Zombies, die nur während des chinesischen Neujahrs erscheinen und aus irgendeinem Grund besonders Angst vor Rot und Explosionen haben.
-
-[ZOMBIE_ICEYEARMONSTER]
-Eisjahr-Zombie
+Ein biestiales Monster, das deine Pflanzen attackiert.
 
 [ZOMBIE_ICEYEARMONSTER_DESCRIPTION]
-Nach dem Training im Eisfluss haben sie keine Angst mehr vor Rot und Explosionen.
+Ein Zombie, der nur während des Frühlingsfestes erscheint und aus unerklärlichen Gründen Angst vor Rot und Explosionen hat.
+
+[ZOMBIE_ICEYEARMONSTER]
+Frost-Jahresmonster-Zombie
+
+[ZOMBIE_ICEYEARMONSTER_DESCRIPTION]
+Da er inmitten von Gletschern trainiert hat, fürchtet er weder Rot noch Explosionen mehr.
 
 [ZOMBIE_ICEYEARMONSTER_DESCRIPTION_HEADER]
-Neujahrs-Special-Zombie
+Friert Pflanzen ein und greift sie an.
 
 [ZOMBIE_CHILDREN_TOCAR]
 Spielzeugauto-Zombie
