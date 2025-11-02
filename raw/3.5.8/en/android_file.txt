@@ -22918,6 +22918,12 @@ Der Reliktjäger hat in seinen besten Zeiten beeindruckende Relikte erhascht. G�
 [ZOMBIE_LOSTCITY_RELICHUNTER_DESCRIPTION_HEADER]
 Schwingt sich hinter die Verteidigungslinien.
 
+[ZOMBIE_NEW_PVP_LOSTCITY_RELICHUNTER]
+Reliktjäger-Zombie
+
+[ZOMBIE_NEW_PVP_LOSTCITY_RELICHUNTER_DESCRIPTION_HEADER]
+Schwingt sich hinter die Verteidigungslinien.
+
 [ZOMBIE_LOSTCITY_GUIDE]
 Führer-Zombie
 
@@ -33767,6 +33773,12 @@ Anders, als der Name vermuten lässt, ist der Fossilienkopf gar nicht aus Fossil
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION_HEADER]
 Fossilienschädel bieten nicht nur hervorragenden Schutz, sondern sehen auch echt klasse aus.
 
+[ZOMBIE_NEW_PVP_DINO_ARMOR3]
+Jurassischer Fossilienkopf
+
+[ZOMBIE_NEW_PVP_DINO_ARMOR3_DESCRIPTION_HEADER]
+Fossilienschädel bieten nicht nur hervorragenden Schutz, sondern sehen auch echt klasse aus.
+
 [ZOMBIE_DINO_ARMOR4]
 Bernsteinkopf-Zombie
 
@@ -33821,6 +33833,9 @@ Der Jura-Demo-Zombie kündigt die Ankunft einer großen Zombiegruppe an.
 [ZOMBIE_DINO_GARGANTUAR]
 Jurassischer Gargantua
 
+[ZOMBIE_NEW_PVP_DINO_GARGANTUAR]
+Jurassischer Gargantua
+
 [ZOMBIE_DINO_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Schaden: {STAT}Plättet Pflanzen mit einem Knochen
 
@@ -33829,6 +33844,9 @@ Jurassischer Gargantua
 {FLAVOR}Der jurassische Gargantua wundert sich, wie es Zombies geben kann, Jahrmillionen bevor es überhaupt Menschen gibt. Was ihn aber nicht daran hindert, Pflanzen platt zu klopfen.
 
 [ZOMBIE_DINO_GARGANTUAR_DESCRIPTION_HEADER]
+Prähistorischer Peiniger mit mesozoischen Muskeln.
+
+[ZOMBIE_NEW_PVP_DINO_GARGANTUAR_DESCRIPTION_HEADER]
 Prähistorischer Peiniger mit mesozoischen Muskeln.
 
 [ZOMBIE_DINO_IMP]
@@ -37141,6 +37159,12 @@ Freundeskreis
 
 [ZOMBIE_EXPLOSION_PROOF]
 Polizisten-Zombie
+
+[ZOMBIE_NEW_PVP_EXPLOSION_PROOF]
+Polizisten-Zombie
+
+[ZOMBIE_NEW_PVP_EXPLOSION_PROOF_DESCRIPTION_HEADER]
+Wirft eine Rauchbombe, um deine Pflanzen zu bedecken und sie handlungsunfähig zu machen.
 
 [WECHAT_SHARE_NOT_INSTALLED]
 Bitte installiere WeChat Zuerst!
@@ -59753,16 +59777,22 @@ Poker-Flaggen-Zombie hält die Kampfflagge hoch und führt die Untergebenen von 
 Dies markiert die Ankunft einer großen Welle von Märchenzombies.
 
 [ZOMBIE_FAIRY_TALE_WITCH]
-Hexenzombie
+Hexen-Zombie
 
 [ZOMBIE_FAIRY_TALE_WITCH_DESCRIPTION]
-{KEYWORD}Eigenschaften: {STAT} kann Pflanzen in Frösche verwandeln!
-{KEYWORD}Schwäche: {STAT} selbst hat keine Verteidigungsfähigkeit!
+{KEYWORD}Eigenschaften: {STAT} Kann Pflanzen in Frösche verwandeln!
+{KEYWORD}Schwäche: {STAT} Sie selbst hat keine Verteidigungsfähigkeit!
 
-{FLAVOR}Verwandelt Pflanzen in Frösche, die vom Schlachtfeld wegspringen können.
+{FLAVOR}Der Hexen-Zombie ist definitiv der Protagonist der Märchenwelt, da sie Pflanzen in Frösche verwandeln kann.
+
+[ZOMBIE_NEW_PVP_FAIRY_TALE_WITCH]
+Hexen-Zombie
+
+[ZOMBIE_NEW_PVP_FAIRY_TALE_WITCH_DESCRIPTION_HEADER]
+Verwandelt Pflanzen in Frösche, die vom Schlachtfeld wegspringen können.
 
 [ZOMBIE_FAIRY_TALE_WITCH_DESCRIPTION_HEADER]
-Die Hexenzombie ist definitiv der Protagonist der Märchenwelt, da sie Pflanzen in Frösche verwandeln kann.
+Verwandelt Pflanzen in Frösche, die vom Schlachtfeld wegspringen können.
 
 [ZOMBIE_FAIRY_TALE_GARGANTUAR]
 Wächter Gargantua
@@ -69721,7 +69751,7 @@ Sonnenschirm-Zombie
 Mit dem Sonnenschirm in ihrer Hand kann sie den meisten Schaden durch geworfene Projektile verhindern.
 
 [ZOMBIE_NEW_PVP_ICEAGE_CHIEF]
-Eiswind-Chef-Zombie
+Häuptling-Zombie
 
 [ZOMBIE_NEW_PVP_ICEAGE_CHIEF_DESCRIPTION_HEADER]
 Bläst in Intervallen kalte Ströme in die Reihe, um den Gefriergrad der Pflanzen zu erhöhen.
