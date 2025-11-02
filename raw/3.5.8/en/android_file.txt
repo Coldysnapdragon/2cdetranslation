@@ -20602,7 +20602,7 @@ Walross-Zombie
 Wenn er erschöpft ist, legt er sich hin, um sich auszuruhen und ein Ski Zombie nutzt ihn als Rampe.
 
 [ZOMBIE_ICEAGE_WALRUS_DESCRIPTION]
-{FLAVOR} Der Walross-Zombie war schon immer unzufrieden mit seinem Gewicht und fasste deshalb einen Plan: Jeden Tag fünf Kilometer laufen. Doch als er diesen Plan in die Tat umsetzte, stellte er fest, dass er ein gravierendes Problem übersehen hatte: Er hatte keine Füße ... Wie sollte er ohne Füße laufen? Er dachte lange darüber nach, konnte das Problem aber nicht lösen und beschloss, den Plan auf unbestimmte Zeit zu verschieben, bis er dieses Problem gelöst hatte ...
+{FLAVOR}Der Walross-Zombie war schon immer unzufrieden mit seinem Gewicht und fasste deshalb einen Plan: Jeden Tag fünf Kilometer laufen. Doch als er diesen Plan in die Tat umsetzte, stellte er fest, dass er ein gravierendes Problem übersehen hatte: Er hatte keine Füße ... Wie sollte er ohne Füße laufen? Er dachte lange darüber nach, konnte das Problem aber nicht lösen und beschloss, den Plan auf unbestimmte Zeit zu verschieben, bis er dieses Problem gelöst hatte ...
 
 [ZOMBIE_ICEAGE_CHIEF]
 Eiswind-Häuptling-Zombie
@@ -22011,7 +22011,7 @@ Elektro-Blaubeere
 [ELECTRICBLUEBERRY_DESCRIPTION]
 {KEYWORD}Pflanzeneigenschaften: {STAT} Blaue Pflanze, 100.000 Volt
 
-{FLAVOR} Die Elektro-Blaubeere ist elektrisch UND eklektisch. „Ich liebe es, meine Feinde zu überraschen“, sagt sie. „Der letzte Gedanke, den ein Zombie hat, sollte ‚Wow, was war das denn‘ lauten.“
+{FLAVOR}Die Elektro-Blaubeere ist elektrisch UND eklektisch. „Ich liebe es, meine Feinde zu überraschen“, sagt sie. „Der letzte Gedanke, den ein Zombie hat, sollte ‚Wow, was war das denn‘ lauten.“
 
 [ELECTRICBLUEBERRY_DESCRIPTION_HEADER]
 Die Elektro-Blaubeere elektrifiziert Zombies nach dem Zufallsprinzip.
@@ -22711,7 +22711,7 @@ Blitzkanonen-Zombie
 Mit der Blitzkanone kannst du elektrische Ladungen abfeuern und Pflanzen angreifen.
 
 [ZOMBIE_SKYCITY_ELECTRIC_DESCRIPTION]
-{FLAVOR} Der Blitzkanonen-Zombie hat den Spitznamen „Frankenstein“. Er verbringt täglich Zeit im Labor, um eine noch stärkere Blitzkanone zu entwickeln. Sein silbernes Haar ist ihm jedoch sichtlich zu schaffen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Dem Blitzkanonen-Zombie ist das egal.
+{FLAVOR}Der Blitzkanonen-Zombie hat den Spitznamen „Frankenstein“. Er verbringt täglich Zeit im Labor, um eine noch stärkere Blitzkanone zu entwickeln. Sein silbernes Haar ist ihm jedoch sichtlich zu schaffen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Dem Blitzkanonen-Zombie ist das egal.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC]
 Elite-Blitzkanonen-Zombie
@@ -22720,7 +22720,7 @@ Elite-Blitzkanonen-Zombie
 Benutzt eine Blitzkanone, um elektrische Ladungen auf Pflanzen abzufeuern.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION]
-{FLAVOR} Der Blitzkanonen-Zombie, Spitzname „Frankenstein“, verbringt seine Tage im Labor mit dem Versuch, eine noch stärkere Blitzkanone zu entwickeln. Doch seine fliegenden silbernen Haare machen ihm sichtlich zu schaffen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Dem Blitzkanonen-Zombie ist das egal.
+{FLAVOR}Der Blitzkanonen-Zombie, Spitzname „Frankenstein“, verbringt seine Tage im Labor mit dem Versuch, eine noch stärkere Blitzkanone zu entwickeln. Doch seine fliegenden silbernen Haare machen ihm sichtlich zu schaffen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Dem Blitzkanonen-Zombie ist das egal.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL]
 Blitzkanonen-Zombie
@@ -22729,7 +22729,7 @@ Blitzkanonen-Zombie
 Benutzt eine Blitzkanone, um elektrische Ladungen auf Pflanzen abzufeuern.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL_DESCRIPTION]
-{FLAVOR} Stärkere Ladung, größere Reichweite, stärkerer Blitzkanonen-Zombie kehrt mit einer stärkeren Blitzkanone 2.0 zurück! Wie viele Haare dafür geopfert wurden, ist dem Blitzkanonen-Zombie egal.
+{FLAVOR}Stärkere Ladung, größere Reichweite, stärkerer Blitzkanonen-Zombie kehrt mit einer stärkeren Blitzkanone 2.0 zurück! Wie viele Haare dafür geopfert wurden, ist dem Blitzkanonen-Zombie egal.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD]
 Blitzkanonen-Zombie
@@ -22738,7 +22738,7 @@ Blitzkanonen-Zombie
 Mit der Blitzkanone feuerst du elektrische Ladungen ab und greifst Pflanzen an.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD_DESCRIPTION]
-{FLAVOR} Der Blitzkanonen-Zombie hat den Spitznamen „Frankenstein“. Er arbeitet täglich im Labor und versucht, eine stärkere Blitzkanone zu entwickeln. Seine fliegenden silbernen Haare machen ihm jedoch offensichtlich große Sorgen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Blitzgewehr-Zombie kümmert das nicht.
+{FLAVOR}Der Blitzkanonen-Zombie hat den Spitznamen „Frankenstein“. Er arbeitet täglich im Labor und versucht, eine stärkere Blitzkanone zu entwickeln. Seine fliegenden silbernen Haare machen ihm jedoch offensichtlich große Sorgen. „Manchmal muss man sein Image für die Wissenschaft opfern.“ Blitzgewehr-Zombie kümmert das nicht.
 
 [ZOMBIE_SKYCITY_BATTLEPLANE]
 Jäger-Zombie
@@ -22934,7 +22934,7 @@ Verlorener Zombie-Doktor
 Oberflächlich betrachtet wird der Verlorene Zombie-Doktor als inkompetenter Arzt respektiert, der oft versehentlich Spritzen in seiner Hand wegwirft. Hinter den Kulissen wird er jedoch immer als „der Typ, der die Lizenz bezahlt hat“ bezeichnet.
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
-Wirf die Spritze, um die Zombies zu beschleunigen.
+Wirft die Spritze, um die Zombies zu beschleunigen.
 
 [ZOMBIE_ZOMBOSSMECH_LOSTCITY]
 Zombot-Fluggondel
@@ -37152,13 +37152,13 @@ Wirf eine Rauchbombe, um deine Pflanzen zu bedecken.
 „Du hast das Recht zu schweigen, aber deine Aussage wird vor Gericht als Beweismittel verwendet!“ Diese Warnung übte er immer vor dem Spiegel. Seit seinem Abschluss an der Polizeiakademie wollte er mit diesem Satz schon lange angeben.
 
 [ZOMBIE_MODERN_MINER]
-Bergbau-Zombie
+Buddel-Zombie
 
 [ZOMBIE_MODERN_MINER_DESCRIPTION_HEADER]
-Kann Pflanzen direkt aus der letzten Reihe ausgraben.
+Kann Pflanzen direkt aus der letzten Reihe wegschleudern, wenn er sich rausbuddelt und anfängt, nach rechts zu laufen. Magnetpilz lässt ihn vorher herrauskommen.
 
 [ZOMBIE_MODERN_MINER_DESCRIPTION]
-Bergbau-Zombie muss drei Tage die Woche auf die Erlaubnis zum Graben warten.
+Der Buddel-Zombie lernte drei Tage pro Woche für seine Grablizenz.
 
 [DINONIP_PRODUCT_SHORT_DESC]
 Kann Dinosaurier verwirren, um Zombies anzugreifen.
@@ -45649,6 +45649,25 @@ Ausrüstung
 [NFS_LINKAGE_TAB2_3]
 Muschelmission
 
+[NFSLINKAGE_TITLE_5]
+Entdeckung von Hemudu
+
+[NFS_LINKAGE_TAB2_5]
+Hemudu-Mission
+
+[MAT_NFSLINKAGE_TICKET_5]
+Stein
+
+[NFSLINKAGE_DESCRIPTION_TITLE_5]
+Entdecken Sie Hemudu Veranstaltungsdetails
+
+Veranstaltungsregeln
+1. Spieler können während des Veranstaltungszeitraums bei täglicher Anmeldung außergewöhnliche Belohnungen erhalten. Die Anmeldebelohnungen erstrecken sich über 14 Tage.
+2. Hemudu-Quests bestehen aus täglichen Aufgaben und Veranstaltungsaufgaben. Die täglichen Aufgaben werden jeden Tag um 00:00 Uhr aktualisiert und können einmal pro Tag abgeschlossen werden.
+3. Event-Quests bestehen aus mehrstufigen Aufgaben; nachfolgende Stufen werden erst nach Abschluss der vorherigen Stufen zugänglich.
+4. Durch das Abschließen von Hemudu-Quests erhält man Steine, die im Tauschshop gegen Item-Belohnungen eingetauscht werden können.
+5. Alle Tauschvorgänge müssen während des Eventzeitraums abgeschlossen werden. Denkt daran, eure Belohnungen rechtzeitig einzulösen, kleine Zombies!
+
 [NFS_LINKAGE_TAB2_4]
 Automission
 
@@ -46353,7 +46372,7 @@ Dieser geschmiedete Eimer schützt ihn vor Schaden.
 Arbeiter-Flaggen-Zombie
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION]
-Der Flaggen-Zombie ist neben dem Aufseher-Gargantua der überzeugendste Zombie. Alle Zombies sind von seiner ordentlichen Arbeit und seinen nie überstundenmachenden Leistungen begeistert. Dieses Mal wurde er für seine Fähigkeiten mit dem Wimpel des besten Mitarbeiters ausgezeichnet!
+Der Arbeiter-Flaggen-Zombie ist neben dem Aufseher-Gargantua der überzeugendste Zombie. Alle Zombies sind von seiner ordentlichen Arbeit und seinen nie überstundenmachenden Leistungen begeistert. Dieses Mal wurde er für seine Fähigkeiten mit dem Wimpel des besten Mitarbeiters ausgezeichnet!
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION_HEADER]
 Markiert die Ankunft einer großen Welle von Industriellen-Zombies.
@@ -46374,7 +46393,7 @@ Zerschmettert alle Pflanzen und schleudert Wichte.
 Industrie-Wicht-Zombie
 
 [ZOMBIE_STEAM_IMP_DESCRIPTION]
-Weil sein Onkel der riesige Overwatch-Zombie ist, wurde ihm eine Stelle in der Fabrik zugeteilt. Er ist jedoch normalerweise fleißig und klug.
+Weil sein Onkel der riesige Aufseher-Gargantua ist, wurde ihm eine Stelle in der Fabrik zugeteilt. Er ist jedoch normalerweise fleißig und klug.
 
 [ZOMBIE_STEAM_IMP_DESCRIPTION_HEADER]
 Wird hinter die meisten deiner Pflanzen geworfen und läuft dann vorwärts.
