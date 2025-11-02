@@ -22934,7 +22934,7 @@ Verlorener Zombie-Doktor
 Oberflächlich betrachtet wird der Verlorene Zombie-Doktor als inkompetenter Arzt respektiert, der oft versehentlich Spritzen in seiner Hand wegwirft. Hinter den Kulissen wird er jedoch immer als „der Typ, der die Lizenz bezahlt hat“ bezeichnet.
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
-Wirft die Spritze, um die Zombies zu beschleunigen.
+Wirft gelegentlich Spritzen, um die Angriffsgeschwindigkeit von Pflanzen zu verringern.
 
 [ZOMBIE_ZOMBOSSMECH_LOSTCITY]
 Zombot-Fluggondel
@@ -69837,7 +69837,7 @@ Kann einen Hammerwirbel auslösen, um geradlinig fliegende Erbsengeschosse abzuw
 Verlorener Doktor-Zombie
 
 [ZOMBIE_NEW_PVP_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
-Wirft gelegentlich Nadeln, um die Angriffsgeschwindigkeit von Pflanzen zu verringern.
+Wirft gelegentlich Spritzen, um die Angriffsgeschwindigkeit von Pflanzen zu verringern.
 
 [ZOMBIE_NEW_PVP_KONGFU_QIGONG]
 Kung-Fu-Qigong-Zombie
