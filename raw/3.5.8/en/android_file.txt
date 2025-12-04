@@ -4496,6 +4496,15 @@ Heißekartoffeln dürfen nur auf Eisblöcken gepflanzt werden.
 [PLEASE_ENTER_NAME]
 Bitte geben Sie Ihren Namen ein:
 
+[DOOMSHROOM]
+Unheilspilz
+
+[DOOMSHROOM_DESCRIPTION]
+{FLAVOR}"Sei froh, dass ich auf deiner Seite bin" sagt er. "Ich könnte alles zerstören, was du liebst. Gar kein Problem für mich."
+
+[DOOMSHROOM_TOOLTIP]
+Wächst, explodiert immer stärker und hinterlässt Krater
+
 [POTATOMINE]
 Kartoffelmine 
 
@@ -40033,19 +40042,19 @@ Chefkoch Cypripediums Suppe lässt Zombies sich meiden.
 Chefkoch Cypripediums Suppe lässt Zombies sich meiden.
 
 [CYPRIPEDIUM_AVATAR_NAME]
-Chefkoch Cypripediums Suppe lässt Zombies sich meiden.
+Narr
 
 [STORE_PRODUCT_AVATAR_CYPRIPEDIUM]
 Nach Aktivierung der Spezialdünger-Fähigkeit werden Zombies in Reichweite vorübergehend gelähmt.
 
 [STORE_PRODUCT_AVATAR_CYPRIPEDIUM_TITLE]
-Kostüm des Chefkoch Cypripedium's
+Chefmütze
 
 [CYPRIPEDIUM_SKILL_LEVEL1]
 Kondensierte Gerichte
 
 [CYPRIPEDIUM_SKILL_LEVEL1_DES]
-Es besteht die Möglichkeit, ein konzentriertes Gericht abzufeuern, wodurch die Reichweite der Projektil ein Feld beträgt.
+Es besteht die Möglichkeit, ein konzentriertes Gericht abzufeuern, wodurch die Reichweite vom Projektil ein Feld beträgt.
 
 [CYPRIPEDIUM_SKILL_LEVEL2]
 Stabiles Verfahren
@@ -54778,7 +54787,7 @@ Wachstumskostüm der Wasserkastanienbrüder
 Angriffskraft um 10% erhöht
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_2]
-Wachstumskostüm des Küchenchefs Laveran
+Küchenmeister
 
 [NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
 Angriffskraft um 10% erhöht
@@ -76512,22 +76521,22 @@ Der Dendrobium-Windschutz rotiert schnell und wehrt alle Zombies sofort ein Feld
 Der Dendrobium-Windschutz rotiert schnell und wehrt alle Zombies sofort ein Feld weiter nach rechts ab. Er stellt alle Blätter und Gesundheit wieder her. Die Dendrobium-Windschutze in den angrenzenden Feldern darüber und darunter rotieren ebenfalls schnell und wehren Zombies ab. Er stellt alle Blätter und Gesundheit wieder her. ^oldclr^
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL1_DES]
-Wenn Zombies rechts erscheinen, werfen sie übelriechende Suppe, die den getroffenen Zombies Schaden zufügt und sie 3 Sekunden lang übelriechend macht. Der übelriechende Zustand führt dazu, dass die Zombies rechts die Linie wechseln ^ff0000^ und einen wundersamen Effekt auf das vom Sushi-Zombie geworfene Sushi haben! ^oldclr^
+Wenn Zombies rechts erscheinen, wirft er übelriechende Suppe, die den getroffenen Zombies Schaden zufügt und sie 3 Sekunden lang übelriechend macht. Der übelriechende Zustand führt dazu, dass die Zombies rechts die Linie wechseln ^ff0000^ und einen wundersamen Effekt auf das vom Sushi-Zombie geworfene Sushi haben! ^oldclr^
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL2_DES]
 Chefkoch Cypripedium hat eine 50%ige Chance, konzentrierte Suppe zu werfen, die Zombies im Umkreis eines Rasters Schaden zufügt und sie übelriechend macht.
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL3_DES]
-Die Wahrscheinlichkeit, dass konzentrierte Gerichte die Fertigkeit auslösen, ist um 100% erhöht, und es besteht eine 100%ige Chance, konzentrierte Suppe zu werfen.
+Die Wahrscheinlichkeit, dass konzentrierte Gerichte auslösen, ist um 100% erhöht, und es besteht eine 100%ige Chance, konzentrierte Suppe zu werfen.
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit sofort einzusetzen.
 
 [CYPRIPEDIUM_NEW_SKILL_LEVEL5_DES]
-Chefkoch Cypripedium veränderte die Suppenart. Sie färbte sich lila und verursachte bei Zombies im Zustand „Foul“ 200 Punkte Giftschaden (^701edf^ Ⅰ^oldclr^) pro Sekunde.
+Chefkoch Cypripedium verändert die Suppenart. Sie färbt sich lila und verursacht bei Zombies den Zustand „Gift“ für 200 Punkte Giftschaden (^701edf^ Ⅰ^oldclr^) pro Sekunde.
 
 [CYPRIPEDIUM_PLANTFOOD_DESCRIPTION]
-Chefkoch Cypripedium drückte den Topf zusammen, zielte auf den Zombie ganz links in der rechten Reihe und warf einen großen Suppenball. Dieser verursachte bei allen Zombies im Umkreis von 5×5 Schaden und versetzte sie für 3 Sekunden in den Zustand „Foul“.
+Chefkoch Cypripedium drückt den Topf zusammen, zielt auf den Zombie ganz links in der rechten Reihe und wirft einen großen Suppenball. Dieser verursacht bei allen Zombies im Umkreis von 5×5 Schaden und versetzt sie für 3 Sekunden in den Zustand „Gift“.
 
 [CYPRIPEDIUM_AVATAR_PLANTFOOD_DESCRIPTION]
 Chefkoch Cypripedium drückte den Topf, zielte auf den Zombie ganz links in der rechten Reihe und warf einen großen Suppenball. Nach dem Auftreffen verursachte er allen Zombies im Umkreis von 5×5 Schaden und versetzte sie für 3 Sekunden in den Zustand des Unheils ^ff0000^ und für 5 Sekunden in ^oldclr^^848484^ Schwindelgefühl Ⅰ^oldclr^^ff0000^. ^oldclr^
