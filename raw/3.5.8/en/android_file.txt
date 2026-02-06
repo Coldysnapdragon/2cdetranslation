@@ -29664,22 +29664,22 @@ FACKELN mich echt ab.
 {SAY:crazydave}Klingt irgendwie düster.
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_4]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Du brauchst etwas Licht, um dich zurechtzufinden, bevor es so weit ist ...
+{PLAYFUL:winnie}Allerdings. Meinen Nachforschungen zufolge hat in dieser Gegend die Pest gewütet.
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_5]
-{SAY:winnie}Und die Sonne scheint nicht mehr.
+{SAY:winnie}Und es fallen auch keine Sonnen mehr vom Himmel.
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_6]
-{PLAYFUL:crazydave}Wir brauchen jemanden, der diesen Ort erleuchtet!
+{PLAYFUL:crazydave}Irgendwie müssen wir diese Gegend doch aufhellen können!
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_7]
-{EXCITED:crazydave}Aha! Wir brauchen Sonnenpilze!
+{EXCITED:crazydave}Ich hab's: Wir brauchen Sonnenpilze!
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_8]
-{PLAYFUL:crazydave}Diese Kerlchen können mehr als nur deine Augenbrauen beruhigen ...
+{PLAYFUL:crazydave}Diese Jungs zaubern nicht nur jedem ein Lächeln aufs Gesicht ...
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_9]
-{EXCITED:crazydave}Sie sorgen auch für mehr Sonnenschein! Bravo Leute, das ist genial.
+{EXCITED:crazydave}Sie produzieren auch mehr Sonne, je größer sie werden. Wirklich talentierte Jungs!
 
 [NARRATIVE_DARK_INTRO_EVILPOTIONS_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:winnie}Achtung! Ich habe Karaffen chemischer Komponenten von rabiater Reaktionsfreudigkeit auf dem Schirm!
