@@ -13915,6 +13915,12 @@ Sengende Erbse
 [SPLITPEA_SKILL1_LEVEL2_DES]
 Gibt der Knallerbse eine 60%ige Chance, brennende Erbsen nach vorne zu schießen.
 
+[SPLITPEA_SKILL1_LEVEL5]
+Drehung!... Und noch eine Drehung!
+
+[SPLITPEA_SKILL1_LEVEL5_DES]
+Die Knallerbse erhält alle 8 Sekunden eine Ladung (maximal zwei Ladungen; erhält sofort zwei Ladungen beim Pflanzen). Wenn mindestens vier gegnerische Einheiten anwesend sind, verbraucht sie alle Ladungen, um einen wirbelnden Sperrfeuerangriff zu entfesseln. Die abgefeuerten Projektile sind garantiert entweder Feuer oder Eis Erbsen.
+
 [SPRINGBEAN_SKILL1_LEVEL1]
 Kraftvoller Sprung
 
