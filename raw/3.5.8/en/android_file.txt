@@ -14029,6 +14029,12 @@ Elementarladung
 [REPEATER_SKILL1_LEVEL2_DES]
 Verstärkt die Wirkung von bunten Erbsen und bietet die Chance, Blaue-Feuer-Erbsen abzufeuern.
 
+[REPEATER_SKILL1_LEVEL5]
+Gigantische Erbsen
+
+[REPEATER_NEW_SKILL_LEVEL5_DES]
+Erbsen werden zu Riesenerbsen aufgewertet, die sich beim Aufschlag auf Gegner diagonal teilen, wobei jede Erbse sich ein zweites Mal teilen kann! Außerdem erhalten sie Feuer- und Frost-Elementareffekte.
+
 [COCONUTCANNON_SKILL1_LEVEL1]
 Schnelle Erholung
 
@@ -14196,6 +14202,12 @@ Blitzschilf hat eine Chance von 15%, hochenergetische Blitze abzufeuern und Zomb
 
 [LIGHTNINGREED_SKILL1_LEVEL2_DES]
 Erhöht die Chance auf hochenergetische Blitze um 100%.
+
+[LIGHTNINGREED_SKILL1_LEVEL5]
+Blitzkette
+
+[LIGHTNINGREED_SKILL1_LEVEL5_DES]
+Bei einem Angriff hat das Blitzschilf eine Chance von 30%, eine Blitzkette auszulösen, die den getroffenen Zombie und die beiden Zombies hinter ihm aneinander bindet und ihre Bewegungsgeschwindigkeit um 50% verringert. Jeder Blitzschaden, der diesen drei Zombies zugefügt wird, wird zu gleichen Teilen auf die beiden verbleibenden Zombies verteilt.
 
 [FIREGOURD_SKILL1_LEVEL1]
 Feueratem
@@ -29643,13 +29655,13 @@ FACKELN mich echt ab.
 {PLAYFUL}Zeit, eine andere Pflanze auszuwählen!
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_1]
-{NPC_ENTER:crazydave}{PLAYFUL}Es ist so dunkel! Ich kann nichts sehen!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Hey! Wer hat das Licht ausgemacht?
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Die Entdeckung zeigt, dass dies eine Welt der Schwerter und Magie ist und das Sonnenlicht derzeit nicht hierher gelangen kann.
+{TIRED:winnie}Niemand, Benutzer Dave. Wir sind einfach im dunklen Zeitalter angekommen.
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_3]
-{NPC_ENTER:crazydave}{PLAYFUL}Magie? Dann lass uns schnell gehen, ich werde die Magie finden, mit der man Tacos machen kann!
+{SAY:crazydave}Klingt irgendwie düster.
 
 [NARRATIVE_DARK_INTRO_FIRSTLEVEL_4]
 {NPC_ENTER:winnie}{PLAYFUL:winnie}Du brauchst etwas Licht, um dich zurechtzufinden, bevor es so weit ist ...
@@ -37667,7 +37679,7 @@ Donnerbesen
 Donnerbesens eiskalte Schüsse beschädigen, kühlen und verlangsamen Zombies.
 
 [MISSILETOE_TOOLTIP]
-Ballert eiskalt los
+Ballert eiskalt los und verursacht Schaden im 3x3 Bereich
 
 [MISSILETOE_SKILL_LEVEL1]
 Eisquellenreduzierung
@@ -48421,6 +48433,9 @@ Nächste Verlosung: Sichern Sie sich einen tollen Rabatt!
 
 [HEAVEN_TREASURE_TAB2]
 Geschenkpaket
+
+[OPTIONS_SKIPANIMS] 
+Levelstart Animation überspringen
 
 [HEAVEN_TREASURE_TAB2_DES1]
 Geschenkpaket-Rabattcode teilen
@@ -73080,7 +73095,13 @@ Jeder Angriff nach rechts feuert mit einer 60%igen Chance eine Feuererbse mit 80
 Beim Pflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt mit einem großen Angriff auszulösen!
 
 [SPLITPEA_NEW_SKILL_LEVEL5_DES]
-Beim Angriff besteht eine 50%ige Chance, einen zusätzlichen Feuerdrachen zu kondensieren, der der gesamten Reihe 3600 Feuerschaden zufügt.
+Die Knallerbse erhält alle 8 Sekunden eine Ladung (maximal zwei Ladungen; erhält sofort zwei Ladungen beim Platzieren). Wenn mindestens vier gegnerische Einheiten auf dem Feld vorhanden sind, verbraucht sie alle Ladungen, um einen wirbelnden Sperrfeuerangriff auszuführen. Die abgefeuerten Projektile sind garantiert entweder Feuer- oder Gefriererbsen.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MEGAGATLING_2]
+JRPG Suchties
+
+[NEW_AVATAR_DESCRIPTION_MEGAGATLING_2]
+Reduziert Sonnenkosten um 150
 
 [SPLITPEA_PLANTFOOD_DESCRIPTION]
 Schießt 60 Erbsen nach links und rechts und fügt links eine große Erbse mit dem 20-fachen Schaden ihrer eigenen Angriffskraft hinzu.
@@ -81704,4 +81725,6 @@ Gegenstandsbetrug erkannt.
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
-[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]
+[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END].
+
+[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]
