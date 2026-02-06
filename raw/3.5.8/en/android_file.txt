@@ -18957,6 +18957,108 @@ Effekt: 1. Erhöht den Explosionsschaden um 22% 2. Reduziert die Ruhezeit um 20%
 [SUPER_CLOCK_14]
 Kleine Uhr
 
+[MOTON]
+Magische Ranke
+
+[MOTON_DESCRIPTION_HEADER]
+Feuert magische Kugeln ab, die Rüstungen von Zombies doppelten Schaden zufügen.
+
+[MOTON_DESCRIPTION]
+{KEYWORD}Eigenschaft: Fügt gepanzerten Zombies doppelten Schaden zu.
+{KEYWORD}Pflanzeneigenschaft: {STAT}Grüne Pflanze
+
+{FLAVOR}Eine Ranke, die panzerbrechende Magie einsetzen kann und von anderen Pflanzen liebevoll „Magische Ranke” genannt wird. Sie mag diesen Spitznamen allerdings nicht besonders, da er unweigerlich Vergleiche mit einem bestimmten albtraumhaften Wesen hervorruft.
+
+[MOTON_TOOLTIP]
+Verursacht doppelten Schaden bei gepanzerten Zombies.
+
+[MOTON_SKILL_LEVEL1]
+Panzerbrechende magische Kugel
+
+[MOTON_SKILL_LEVEL1_DES]
+Feuert eine magische Kugel nach vorne ab, die Zombies Schaden zufügt. Zombies mit Rüstung erleiden doppelten Schaden.
+
+[STORE_PRODUCT_AVATAR_MOTON]
+Wenn die Energiekugel einen Zombie trifft, betäubt sie das Ziel für 5 Sekunden.
+
+[STORE_PRODUCT_AVATAR_MOTON_TITLE]
+Rankenrüstung
+
+[MOTON_AVATAR_PLANTFOOD_DESCRIPTION]
+Wenn sie einen Zombie trifft, betäubt die Energiekugel das Ziel für 5 Sekunden.
+
+[MOTON_NEW_SKILL_LEVEL1_DES]
+Die Pflanze feuert magische Projektile ab, die gepanzerten Zombies doppelten Schaden zufügen.
+
+[DUCKPEAR]
+Nashibirne
+
+[DUCKPEAR_DESCRIPTION_HEADER]
+Lädt sich auf, bevor sie Wasserbälle auf Zombies spuckt und Pfützen erzeugt
+
+[DUCKPEAR_DESCRIPTION]
+{KEYWORD}Eigenschaften: {STAT}Lädt sich auf, bevor sie Wasserbälle auf Zombies spuckt, wodurch Pfützen entstehen.
+{KEYWORD}Pflanzeneigenschaft: {STAT}Gelbe Pflanze
+
+{FLAVOR}Die Nashibirne erzielte mit ihrer Spezialattacke „Turbo Ente” bemerkenswerte Erfolge beim Pflanzen-Niedlichkeitswettbewerb.
+
+[DUCKPEAR_TOOLTIP]
+Lädt sich auf, um Wasserbälle auf Zombies zu spucken und Pfützen zu erzeugen.
+
+[DUCKPEAR_SKILL_LEVEL1]
+Hydration Boost
+
+[DUCKPEAR_SKILL_LEVEL1_DES]
+Nach jeder Aufladung hat die Nashibirne eine Chance von 15 %, einen Spezialangriff auszulösen, bei dem sie einen Wasserball ausspuckt, der eine Stufe stärker ist.
+
+[DUCKPEAR_SKILL_LEVEL2]
+Fond of Hydration
+
+[DUCKPEAR_SKILL_LEVEL2_DES]
+Nach jeder Aufladung hat die Nashibirne eine Chance von 25 %, eine Spezialangriffsaktion auszulösen, bei der direkt ein um eine Stufe verbesserter Wasserball ausgestoßen wird.
+
+[DUCKPEAR_SKILL_LEVEL5]
+Turbogeladene Ente
+
+[DUCKPEAR_SKILL_LEVEL5_DES]
+Beim Angriff besteht eine 20-prozentige Chance, einen speziellen Gelee-Wasserball auszuspucken. Dieser Ball kann einen Gargantua in seinem Inneren absorbieren. Jeder spezielle Wasserball kann nur einen Gargantua absorbieren, und jeder Gargantua belegt nur eine Absorptionskapazität.
+
+[DUCKPEAR_SUPERSKILL]
+Turbogeladene Ente
+
+[DUCKPEAR_SUPERSKILL_DES]
+Bei einem Angriff besteht eine 20-prozentige Chance, dass ein spezieller Gelee-Wasserball ausgespuckt wird. Dieser Ball kann einen Gargantua Zombie in seinem Inneren absorbieren. Jeder spezielle Ball kann nur einen Gargantua Zombie absorbieren, und der Gargantua belegt nur eine Absorptionskapazität.
+
+[STORE_PRODUCT_AVATAR_DUCKPEAR]
+Der während des ultimativen Angriffs ausgestoßene Wasserball kann ein spezieller Gelee-Wasserball sein, wobei mindestens einer garantiert ein spezieller Wasserball ist.
+
+[DUCKPEAR_NEW_SKILL_LEVEL1_DES]
+Nach dem Aufladen wird ein Wasserball ausgestoßen, der vorwärts rollt. Wenn er Zombies trifft, erzeugt er zufällig 1-2 Pfützen auf benachbarten Feldern. Der Wasserball absorbiert Feuchtigkeit aus den Pfützen, durch die er rollt, um sich zu verbessern, wobei er zweimal verbessert werden kann. Auf der maximalen Stufe kann der Wasserball Zombies in seine Mitte fegen und sie aus dem Bildschirm tragen. Ein einzelner Wasserball kann bis zu 4 Zombies fegen, jedoch keine Riesen-Zombies.
+
+[DUCKPEAR_NEW_SKILL_LEVEL2_DES]
+Nach jeder vollständigen Aufladung hat Duckpear eine Chance von 15 %, eine Spezialangriffsaktion auszulösen, bei der er direkt einen Wasserball ausspuckt, der um eine Stufe verbessert wurde.
+
+[DUCKPEAR_NEW_SKILL_LEVEL3_DES]
+Nach jeder Aufladung hat die Nashibirne eine Chance von 25 %, eine Spezialangriffsaktion auszulösen, bei der direkt ein Wasserball abgeschossen wird, der eine Stufe aufgewertet wurde.
+
+[DUCKPEAR_NEW_SKILL_LEVEL4_DES]
+Wenn gepflanzt, besteht eine moderate Chance, direkt die Spezialdünger-Fähigkeit auszulösen.
+
+[DUCKPEAR_NEW_SKILL_LEVEL5_DES]
+Während Angriffen besteht eine 20-prozentige Chance, dass ein spezieller Gelee-Wasserball ausgespuckt wird. Dieser Wasserball kann einen Gargantua in seinem Inneren absorbieren. Jeder spezielle Wasserball kann nur einen Gargantua absorbieren, und jeder Gargantua belegt nur eine Absorptionskapazität.
+
+[STORE_PRODUCT_AVATAR_DUCKPEAR_TITLE]
+Leckere Limo
+
+[DUCKPEAR_AVATAR_NAME]
+Leckere Limo
+
+[DUCKPEAR_PLANTFOOD_DESCRIPTION]
+Die während der Spezialdünger-Fähigkeit ausgestoßenen Wasserbälle können spezielle Gelee-Wasserbälle sein, wobei mindestens einer garantiert ein spezieller Wasserball ist.
+
+[DUCKPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
+Die Wasserbälle, die durch die Spezialdünger-Fähigkeit ausgestoßen werden, können spezielle Gelee-Wasserbälle sein, wobei mindestens einer garantiert ein spezieller Wasserball ist.
+
 [SUPER_CLOCK_14_DES]
 Eine kleine Uhr, die die gleiche Kraft wie Pennys Zeitreise enthält.
 
