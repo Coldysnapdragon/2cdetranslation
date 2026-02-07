@@ -5491,7 +5491,7 @@ Hagelzuckererbsen verschießen gefrorene Erbsen, die den Zombies das Vorankommen
 Feuert eine Salve gefrorener Erbsen und belegt die eigene Reihe mit einer alles einfrierenden Eisschicht.
 
 [SNOWPEA_TOOLTIP]
-Verschießt gefrorene Erbsen, die Zombies schädigen und aufhalten
+Verschießt gefrorene Erbsen, die Zombies schädigen und verlangsamen.
 
 [MANDRAKE]
 Alraune
@@ -12371,21 +12371,21 @@ Förderband
 Diese Pflanze kann nicht auf einer Lore gepflanzt werden.
 
 [BAMBOO]
-Bambussprossen
+Bambussprosse
 
 [BAMBOO_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze, kurz
 
-{FLAVOR}Bambussprossen lernten von Tu Xingsun die Flucht aus der Erde und erlangten nach unermüdlichem Einsatz schließlich den Titel eines Bachelors der „Bohrtechnik-Hochschule“.
+{FLAVOR}Der Bambussprosse lernte von Tu Xingsun die Flucht aus der Erde und erlangte nach unermüdlichem Einsatz schließlich den Titel eines Bachelors der „Bohrtechnik-Hochschule“.
 
 [BAMBOO_DESCRIPTION_HEADER]
-Bewegen Sie sich unter die Erde und fügen Sie Zombies darüber Stichschaden zu.
+Bewegt sich unter der Erde und fügt Zombies über sich beim hin und Rückweg Stichschaden zu.
 
 [BAMBOO_PLANTFOOD]
-Speichern Sie Energie im Bohrer, starten Sie einen mächtigen Stichangriff und stoßen Sie Gegner weg.
+Startet einen mächtigen Stichangriff der Zombies wegstößt.
 
 [BAMBOO_TOOLTIP]
-Bewegt sich auf dem Boden hin und her und fügt Zombies zwei Schaden zu.
+Bewegt sich auf dem Boden hin und her und fügt Zombies zweimal Schaden zu.
 
 [PEACH]
 Feenpfirsisch
@@ -16517,7 +16517,7 @@ Hypnopilz
 Wenn Zombies Hypnopilze fressen, drehen sie sich um und kämpfen für dich.
 
 [HYPNOSHROOM_TOOLTIP]
-Lässt einen Zombie für dich kämpfen
+Lässt einen Zombie für dich kämpfen, wenn er gefressen wurde.
 
 [PEANUT]
 Erbs-Nuss
@@ -20608,7 +20608,7 @@ Rafflesia kann Zombies angreifen, die sich im Hintergrund verstecken.
 {FLAVOR}Rafflesia ist einer der beliebtesten Mitarbeiter im Park. Jedes Mal, wenn er auftaucht, ist er von Kindern umringt. Rafflesia genießt dieses Gefühl. „Ich kann Seifenblasen einfach super! Kinder sehen mir gerne dabei zu.“ So stellt er sich jedes Mal vor. Was er nicht weiß: Während die anderen nicken und lächeln, sind die meisten verwirrt: Ist Rafflesia nicht für den Verkauf von Luftballons zuständig?
 
 [RAFFLESIA_TOOLTIP]
-Hintere Zombies angreifen.
+Feuert auf den hintersten Zombie der Reihe.
 
 [RAFFLESIA_PLANTFOOD]
 Feuert 5 Projektile ab und greift den letzten Zombie in jeder Reihe an.
@@ -22146,7 +22146,7 @@ Schießt verstreute Pflaumenblüten ab, um die Zombies vor ihm anzugreifen.
 Schießt eine große Anzahl Pflaumenblüten in einem bestimmten Winkel nach vorne.
 
 [SAUCER_PRODUCT_SHORT_DESC]
-Die UFO-Melone kann Licht aussenden, um sich nähernde Zombies zu fangen.
+Die UFO-Melone kann Licht aussenden, um sich nähernde Zombies zu fangen und lähmen.
 
 [SAUCER_AVATAR_NAME]
 UFO-Kostüm
@@ -40681,10 +40681,10 @@ Wicht-Birne
 Wenn Zombies Wicht-Birnen fressen, werden sie zu Wichten. Wenn Wichte Wicht-Birnen fressen, werden sie zerstört, wobei sie ein lähmendes Gas freigeben.
 
 [IMPPEAR_TOOLTIP]
-Verwandelt Zombies in Wichte
+Verwandelt Zombies in Wichte, wenn sie gefressen wurden.
 
 [IMPPEAR_PRODUCT_SHORT_DESC]
-Verwandelt Zombies in Wichte
+Verwandelt Zombies in Wichte, wenn sie gefressen wurden.
 
 [IMPPEAR_AVATAR_NAME]
 Verwandelt Zombies nach dem Fressen in Wicht-Zombies.
