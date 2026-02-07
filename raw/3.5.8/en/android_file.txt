@@ -2668,7 +2668,7 @@ Möchtest du dieses Level wirklich beenden?
 Wenn du das Level verlässt, werden die platzierten Pflanzen nicht gespeichert.
 
 [LEAVE_GAME_BUTTON]
-LEVEL VERLASSEN
+Level verlassen
 
 [LEAVE_GAME_HEADER]
 Level verlassen?
@@ -2702,6 +2702,7 @@ Blitzschilf
 {KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze, 100.000 Volt
 
 {FLAVOR}Das mag dich schockieren, aber das Blitzschilf ist ein leidenschaftlicher Amateurfunker. Sein Sendezeichen lautet "El3ktro-Sch1uckauf". Schalte jeden Dienstag ein, wenn es aus Klassikern der Weltliteratur liest. Diese Woche: Die Blumen des Bösen.
+
 [LIGHTNINGREED_DESCRIPTION_HEADER]
 Blitzschilf verschießt Blitze auf den nächsten Zombie, bis zu eine Reihe entfernt. Der Blitz schlägt dann auf andere Zombies über.
 
@@ -13920,6 +13921,39 @@ Drehung!... Und noch eine Drehung!
 
 [SPLITPEA_SKILL1_LEVEL5_DES]
 Die Knallerbse erhält alle 8 Sekunden eine Ladung (maximal zwei Ladungen; erhält sofort zwei Ladungen beim Pflanzen). Wenn mindestens vier gegnerische Einheiten anwesend sind, verbraucht sie alle Ladungen, um einen wirbelnden Sperrfeuerangriff zu entfesseln. Die abgefeuerten Projektile sind garantiert entweder Feuer oder Eis Erbsen.
+
+[UNCHARTED_HAYSTACK]
+Heuhaufen
+
+[UNCHARTED_HAYSTACK_DESCRIPTION]
+{KEYWORD}Verwendung: {STAT} Kann auf Pfaden gepflanzt werden.
+{KEYWORD}Pflanzeneigenschaften: {STAT} Kleinwüchsig, braunes Laub.
+
+{FLAVOR}Coldysnapdragon on YouTube.
+
+[UNCHARTED_HAYSTACK_DESCRIPTION_HEADER]
+Heuhaufen können Pflanzen auf Pfaden tragen.
+
+[UNCHARTED_HAYSTACK_TOOLTIP]
+Heuhaufen ermöglichen den Anbau von Pflanzen auf Pfaden.
+
+[BONUS_CARD_PIECE_UNCHARTED_HAYSTACK]
+Heuhaufen-Fragment
+
+[BONUS_CARD_PIECE_UNCHARTED_HAYSTACK_DESCRIPTION]
+Heuhaufen-Fragment erhalten
+
+[PLANTING_NEED_UNCHARTED_HAYSTACK_FIRST]
+Pflanze zuerst einen Heuhaufen!
+
+[PLANTING_UNCHARTED_HAYSTACK_ON_UNCHARTED_HAYSTACK]
+Heuhaufen können nicht auf Heuhaufen platziert werden!
+
+[PLANTING_NOT_ON_UNCHARTED_HAYSTACK]
+{PLANT_NAME} kann nicht auf einem Heuhaufen gepflanzt werden!
+
+[PLANTING_UNCHARTED_HAYSTAC_ONLY_TUNNEL]
+Heuhaufen können nur in Pfaden gepflanzt werden!
 
 [SPRINGBEAN_SKILL1_LEVEL1]
 Kraftvoller Sprung
@@ -29805,148 +29839,148 @@ FACKELN mich echt ab.
 {EXCITED:crazydave}Weil sie zweimal so böse sind!
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Ich fürchte, das dunkle Zeitalter hat mir eine schlimme Dampfkrankheit beschert.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Dieses düstere Mittelalter stinkt mir gewaltig, ich glaube, ich werde krank davon.
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_2]
-{SAY:winnie}Dave, Dampfkrankheit ist eigentlich keine Krankheit mehr.
+{SAY:winnie}Benutzer Dave, Gestank im übertragenen Sinne gilt nicht als gesundheitsgefährdend.
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_3]
-{SAY:winnie}Aber ich glaube, der Große Zauber sollte nützlich sein.
+{SAY:winnie}Aber apropos, ich denke, der Stinkpilz könnte uns hier nützen.
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_4]
-{EXCITED:winnie}Sein Dampf ist ziemlich realistisch und kann gegen bestimmte Zombie-Gegner sehr nützlich sein.
+{EXCITED:winnie}Sein Gestank ist nämlich real und gegen bestimmte Zombies genau die richtige Verteidigung.
 
 [NARRATIVE_DARK_INTRO_FUMESHROOM_5]
-{PLAYFUL:crazydave}Das ist super! Es ist Zeit für die Zombies, Dampfkrankheit zu erleben!
+{PLAYFUL:crazydave}Ist ja dufte! Mal schauen, ob die Zombies uns danach noch riechen können!
 
 [NARRATIVE_DARK_INTRO_GARGANTUAR_1]
-{NPC_ENTER:zombossicon}{SAY}Schön, dich kennenzulernen, du nicht ganz so edler Adliger!
+{NPC_ENTER:zombossicon}{SAY}Wohl denn, eure Nicht-so-Hoheit!
 
 [NARRATIVE_DARK_INTRO_GARGANTUAR_2]
-{SAY:zombossicon}Meiner Meinung nach ist dein Humor etwas daneben!
+{SAY:zombossicon}Mein medizinisches Gespür sagt mir, dass etwas mit euren Körpersäften durcheinander geraten ist.
 
 [NARRATIVE_DARK_INTRO_GARGANTUAR_3]
-{SAY:zombossicon}Die einzige Heilung ist, dir das Gehirn auszusaugen!
+{SAY:zombossicon}Ein Aderlass am Gehirn wäre fürwahr das Beste, um Eure Pein zu lindern!
 
 [NARRATIVE_DARK_INTRO_GARGANTUAR_4]
-{SAY:zombossicon}Befreie dich von Krankheiten und fühle dich leicht, Dr. Zomboss.
+{SAY:zombossicon}Euer treu ergebener Vasall, Dr. Edgar Zomboss
 
 [NARRATIVE_DARK_INTRO_GARGANTUAR_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Hey! Ich mag einfach meinen Humor und der hat nichts mit meinem Gehirn zu tun!
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Hey! Meine Körpersäfte dürfen ruhig etwas durcheinander sein!
 
 [NARRATIVE_DARK_INTRO_GARGANTUAR_6]
-{EXCITED:crazydave}Weil ich verrückt bin!
+{EXCITED:crazydave}Immerhin bin ich VERRRRÜCKT!
 
 [NARRATIVE_DARK_INTRO_HYPNOSHROOM_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Daten zeigen, dass das Dunkle Zeitalter eine Zeit des intellektuellen Verfalls und des moralischen Niedergangs war.
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Meinen Daten zufolge war das Mittelalter eine Zeit geistigen Verfalls und moralischer Verwirrung.
 
 [NARRATIVE_DARK_INTRO_HYPNOSHROOM_2]
-{PLAYFUL:winnie}Vielleicht ist es an der Zeit, den Hypnopilz sinnvoll einzusetzen?
+{PLAYFUL:winnie}Womöglich ein guter Zeitpunkt, die überzeugenden Kräfte des Hypnopilzes für sich zu nutzen?
 
 [NARRATIVE_DARK_INTRO_HYPNOSHROOM_3]
-{EXCITED:crazydave}Tolle Idee, Penny! Lass uns den bösen Stil des Dunklen Zeitalters aufpeppen!
+{EXCITED:crazydave}Gute Idee, Penny! Bekehren wir diese Frevler, und zwar auf die mittelalterliche Tour!
 
 [NARRATIVE_DARK_INTRO_HYPNOSHROOM_4]
-{SAY:crazydave}Nachdem die Zombies diesen Pilz gegessen haben, wissen sie nicht, was sie gebissen hat ...
+{SAY:crazydave}Pflanze diesen Pilz, und die Zombies werden nicht wissen, was sie gebissen hat ...
 
 [NARRATIVE_DARK_INTRO_HYPNOSHROOM_5]
-{PLAYFUL:crazydave}Bis sie merken, dass es ihre Zombie-Kollegen sind! Dann sind sie fassungslos!
+{PLAYFUL:crazydave}... bis sie merken, dass es ein anderer Zombie war. UNGLAUBLICH, oder?
 
 [NARRATIVE_DARK_INTRO_MAGNETSHROOM_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meinen Daten zufolge waren Eisen und andere Metalle im Mittelalter weit verbreitet.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Meinen Daten zufolge waren Eisen und andere Metalle viel genutzte Materialien im Mittelalter.
 
 [NARRATIVE_DARK_INTRO_MAGNETSHROOM_2]
-{EXCITED:winnie}Also sollte der Magnetpilz seinen Platz haben.
+{EXCITED:winnie}Deshalb sollte der Magnetpilz hier eine hervorragende Hilfe sein.
 
 [NARRATIVE_DARK_INTRO_MAGNETSHROOM_3]
-{EXCITED:crazydave}Er kann Eimer, Helme und andere Metalle von Zombies saugen!
+{EXCITED:crazydave}Er zieht Eimer, Helme und andere Metallgegenstände von Zombies an!
 
 [NARRATIVE_DARK_INTRO_MAGNETSHROOM_4]
-{PLAYFUL:crazydave}Manche halten es für Magie. Aber es ist nur Physik.
+{PLAYFUL:crazydave}Manche halten das für Magie. Aber eigentlich ist es nur Physik.
 
 [NARRATIVE_DARK_INTRO_PEANUT_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Junge, Erbsenkanonen und Nüsse sind echt klasse.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Junge, die Erbsenkanone und Wall-Nuss sind wirklich Meister ihres Fachs.
 
 [NARRATIVE_DARK_INTRO_PEANUT_2]
-{EXCITED:crazydave}Diese beiden tollen Pflanzen sind noch mächtiger, wenn sie sich zusammentun!
+{EXCITED:crazydave}Einfach zwei Pflanzen, die wirklich gut zusammen kämpfen!
 
 [NARRATIVE_DARK_INTRO_PEANUT_3]
-{EXCITED:winnie}Dave, vielleicht bist du doch nicht so verrückt, wie du behauptest!
+{EXCITED:winnie}Benutzer Dave! Vielleicht bist du geistig doch nicht so umnachtet, wie du gerne mal behauptest.
 
 [NARRATIVE_DARK_INTRO_PEANUT_4]
-{PLAYFUL:winnie}Gibt es eine Pflanze, die sowohl die Funktionen einer Erbsenkanone als auch einer Nuss hat?
+{PLAYFUL:winnie}Was, wenn es eine Pflanze gäbe, die die Fähigkeiten der Erbsenkanone UND der Wall-Nuss vereint?
 
 [NARRATIVE_DARK_INTRO_PEANUT_5]
-{SAY:winnie}Wir nennen es ... Erbs-Nuss!
+{SAY:winnie}Sozusagen eine ... Erbs-Nuss!
 
 [NARRATIVE_DARK_INTRO_PEANUT_6]
-{PLAYFUL:crazydave}Die Kraft zweier Pflanzen zu einer vereinen?
+{PLAYFUL:crazydave}Zwei tolle Eigenschaften in einer Pflanze?
 
 [NARRATIVE_DARK_INTRO_PEANUT_7]
-{EXCITED:crazydave}Wenn du das immer wieder sagst, werden dich die Leute noch Crazy Penny nennen!
+{EXCITED:crazydave}Erzähl ruhig weiter davon, bald nennen sie dich nur noch Deppie Penny!
 
 [NARRATIVE_DARK_INTRO_PEANUT_8]
-{SAY:crazydave}Dann werden wir beide komisch.
+{SAY:crazydave}Was für uns beide wohl etwas seltsam wäre.
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_1]
-{NPC_ENTER:zombossicon}{SAY}Ich habe eine Frage an dich, mein abscheulicher Feind!
+{NPC_ENTER:zombossicon}{SAY}Ein Ersuchen an euch, unwürdiger Feind!
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_2]
-{SAY:zombossicon}Ist dir schon mal aufgefallen, wie gewalttätig Pflanzen werden, wenn sie Spezialdünger-Fähigkeit fressen?
+{SAY:zombossicon}Habt Ihr bemerkt, wie wild eure Pflanzen werden, wenn sie Spezialdünger bekommen?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_3]
-{SAY:zombossicon}Hast du dich schon mal gefragt, woraus Spezialdünger-Fähigkeit bestehen?
+{SAY:zombossicon}Nun, und habt Ihr euch schon einmal gefragt, woraus der Dünger besteht?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_4]
-{SAY:zombossicon}Ich kann es dir sagen: Zombies! Spezialdünger-Fähigkeit bestehen aus Zombies!
+{SAY:zombossicon}Fürwahr, ich sage es euch. Zombies! Spezialdünger wird aus Zombies gemacht!
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Unglaublich! Wir füttern Pflanzen nur mit den besten organischen Stoffen ...
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Nicht möglich! Wir düngen unsere Pflanzen nur mit hochwertigem Bio... äh ...
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_6]
-{TIRED:crazydave}Hey, Penny, woraus bestehen Spezialdünger-Fähigkeit?
+{TIRED:crazydave}Hey Penny, woraus besteht der Spezialdünger nochmal?
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_7]
-{SAY:winnie}Ich fürchte, es bedarf weiterer Forschung, um die wahre Natur der Spezialdünger-Fähigkeit zu verstehen, Dave.
+{SAY:winnie}Ich fürchte, die Zusammensetzung muss ich erst analysieren, Benutzer Dave.
 
 [NARRATIVE_DARK_INTRO_ZOMBOSS_8]
-{TIRED:winnie}Ich muss noch ein paar Tests durchführen, also entschuldigt mich bitte.
+{TIRED:winnie}Ich führe ein paar Tests durch, etwas Geduld bitte.
 
 [NARRATIVE_DARK_OUTRO_DANGER_ROOM_KEY_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Warum sollte jemand ein so schönes Schwert in einen schmutzigen Stein stoßen?
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Wie kommt man darauf, ein so schönes Schwert in diesen dreckigen alten Fels zu stecken?
 
 [NARRATIVE_DARK_OUTRO_DANGER_ROOM_KEY_2]
-{TIRED:winnie}Ich glaube, das ist ein Test, Dave.
+{TIRED:winnie}Ich glaube, es ist eine Prüfung, Benutzer Dave.
 
 [NARRATIVE_DARK_OUTRO_DANGER_ROOM_KEY_3]
-{EXCITED:winnie}Nur jemand mit großer Kraft und Entschlossenheit kann das Schwert herausziehen.
+{EXCITED:winnie}Nur jemand mit einem starken Körper und einem starken Geist wird es herausziehen können.
 
 [NARRATIVE_DARK_OUTRO_DANGER_ROOM_KEY_4]
-{SAY:crazydave}Ich wette, jemand mit einem Presslufthammer schafft das.
+{SAY:crazydave}Ich wette, mit einem Presslufthammer schafft man das auch.
 
 [NARRATIVE_DARK_OUTRO_DANGER_ROOM_KEY_5]
-{EXCITED:crazydave}Wenn die Person verrückt genug ist!
+{EXCITED:crazydave}Man muss nur VERRRRÜCKT genug sein!
 
 [NARRATIVE_DARK_OUTRO_DANGER_ROOM_KEY_6]
-{TIRED:winnie}Es ist ein grober Trick, aber er funktioniert, Dave.
+{TIRED:winnie}Eine wenig elegante, doch zweifellos effektive Lösung, Benutzer Dave.
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ich habe in die Spezialdünger-Fähigkeit keine Zombies oder zombieähnlichen Zutaten gefunden.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Es deutet nichts darauf hin, dass Spezialdünger Zombies oder Zombie-Nebenprodukte enthält.
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_2]
-{TIRED:crazydave}Hey! Pflanzen sollten keine Zombies fressen, die Pflanzen fressen.
+{TIRED:crazydave}Puh! Pflanzen sollten keine Zombies essen, die Pflanzen essen.
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_3]
-{PLAYFUL:crazydave}Außer der großmäuligen Blume. Da kann man nichts machen. Ballaststoffe sind essentiell.
+{PLAYFUL:crazydave}Außer der Schnapper. Der muss, denn er braucht die Ballaststoffe.
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_4]
-{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}Was hältst du von dieser beschissenen Zeitmaschine?
+{NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}Warum lügt Euer zeitreisendes Gefährt Euch an?
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_5]
-{SAY:zombossicon}Wie wäre es, wenn wir das ein anderes Mal besprechen?
+{SAY:zombossicon}Vielleicht machen wir uns da mal Gedanken drüber?!
 
 [NARRATIVE_DARK_OUTRO_ZOMBOSS_6]
-{SAY:zombossicon}Stell dir jetzt mein manisches Gelächter vor, als ich gehe.
+{SAY:zombossicon}Ich gehe nun. Man stelle sich einen Abgang mit manischem Gelächter vor!
 
 [NARRATIVE_DINO_1_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Achtung, Benutzer Dave. Meine Sensoren melden, dass wir 153.954.765 Jahre in die Vergangenheit gereist sind.
