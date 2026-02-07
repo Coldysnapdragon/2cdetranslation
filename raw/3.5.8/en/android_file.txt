@@ -4497,6 +4497,69 @@ Heißekartoffeln dürfen nur auf Eisblöcken gepflanzt werden.
 [PLEASE_ENTER_NAME]
 Bitte geben Sie Ihren Namen ein:
 
+[UMBRELLALEAF]
+Schirmblatt
+
+[UMBRELLALEAF_DESCRIPTION_HEADER]
+Wenn das Schirmblatt geschlossen ist und einen Zombie in der 3x3-Umgebung erkennt, öffnet es sich und treibt den Zombie drei Felder nach rechts. Der geöffnete Zustand hält 8 Sekunden lang an. Nach der Deaktivierung tritt es in eine 5-sekündige Erholungsphase ein. Diese Pflanze erweist sich als bemerkenswert wirksam gegen Bungee-Zombies und Basketball-Zombies.
+
+[UMBRELLALEAF_DESCRIPTION]
+{KEYWORD}Eigenschaften: {STAT}Verteidigt gegen fallende Zombies und stößt herabfallende Feinde ab.
+{KEYWORD}Pflanzeneigenschaften: {STAT}Grüne Vegetation
+
+{FLAVOR}"SPROING!", ruft Schirmblatt. "Hat's dir gefallen?? Gleich noch mal. SPRIONG! Juhu! Toll, nicht? Ich spanne mich einfach auf und beschütze meine Umgebung. Ja. So mach ich das. GENAU so. Echt wahr."
+
+[UMBRELLALEAF_TOOLTIP]
+Der Schirm-Zustand kann die meisten Dinge abwehren, die von oben kommen.
+
+[UMBRELLALEAF_SKILL_LEVEL1]
+Sprunghaftes Haar
+
+[UMBRELLALEAF_SKILL_LEVEL1_DES]
+Erhöht die Stufe der Zombie-Einheiten, die abgewehrt werden können, auf Stufe 6.
+
+[UMBRELLALEAF_SKILL_LEVEL2]
+Blütenblüte
+
+[UMBRELLALEAF_SKILL_LEVEL2_DES]
+Erhöht die Stufe der Zombie-Einheiten, die abgewehrt werden können, auf Stufe 8.
+
+[UMBRELLALEAF_SKILL_LEVEL5]
+Winkelanpassung
+
+[UMBRELLALEAF_SKILL_LEVEL5_DES]
+Kann die meisten Standard-Zombie-Projektile zum Werfer zurückwerfen. Bei bestimmten mächtigen Zombie-Projektilen kann der Effekt für alle Pflanzen innerhalb eines 3x3-Bereichs absorbiert werden.
+
+[STORE_PRODUCT_AVATAR_UMBRELLALEAF]
+Die Spezialdünger-Fähigkeit wehrt nun auch Gargantuas ab.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL1_DES]
+Wenn geöffnet, schleudert es die meisten Zombie-Einheiten davon, die innerhalb der Angriffsreichweite landen.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL2_DES]
+Die Stufe der Zombies, die abgewehrt werden können, erhöht sich auf Stufe 6.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL3_DES]
+Die Stufe der Zombies, die abgewehrt werden können, erhöht sich auf Stufe 8.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine moderate Chance, die Spezialdünger-Fähigkeit direkt zu entfesseln.
+
+[UMBRELLALEAF_NEW_SKILL_LEVEL5_DES]
+Kann die meisten normalen Zombie-Projektile zurück zum Werfer ablenken. Bei bestimmten mächtigen Zombie-Projektilen kann die Wirkung für alle Pflanzen in einem Bereich von 3x3 absorbiert werden.
+
+[STORE_PRODUCT_AVATAR_UMBRELLALEAF_TITLE]
+Brille
+
+[UMBRELLALEAF_AVATAR_NAME]
+Brille
+
+[UMBRELLALEAF_PLANTFOOD_DESCRIPTION]
+Erweitert die Blätter und stößt alle kleinen und mittleren Zombies innerhalb eines 5x5-Bereichs um 3 Felder zurück.
+
+[UMBRELLALEAF_AVATAR_PLANTFOOD_DESCRIPTION]
+Die Spezialdünger-Fähigkeit wehrt nun auch Gargantua-Zombies ab.
+
 [DOOMSHROOM]
 Unheilspilz
 
