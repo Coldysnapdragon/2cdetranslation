@@ -4506,6 +4506,57 @@ Unheilspilz
 [DOOMSHROOM_TOOLTIP]
 Wächst, explodiert immer stärker und hinterlässt Krater
 
+[PLANTING_NOT_ON_FLAMES_DOOMSHROOM]
+Diese Pflanze kann nicht auf einem Unheilspilz gepflanzt werden!
+
+[DOOMSHROOM_SKILL_LEVEL1]
+Pilzspaltung
+
+[DOOMSHROOM_SKILL_LEVEL1_DES]
+Die Wachstumszeit des Unheilspilzes wurde auf 8 Sekunden, 13 Sekunden reduziert.
+
+[DOOMSHROOM_SKILL_LEVEL2]
+Pilzfusion
+
+[DOOMSHROOM_SKILL_LEVEL2_DES]
+Die Wachstumszeit des Unheilspilzes wurde auf 5 Sekunden, 10 Sekunden reduziert.
+
+[DOOMSHROOM_SKILL_LEVEL5]
+Pilzkraftwerk
+
+[DOOMSHROOM_SKILL_LEVEL5_DES]
+Unheilspilze können auf Kratern gepflanzt werden. Zombies, die durch Unheilspilz-Explosionen beschädigt, aber nicht getötet wurden, werden verstrahlt.
+
+[STORE_PRODUCT_AVATAR_DOOMSHROOM]
+Bei Verwendung der Spezialdünger-Fähigkeit werden alle Unheilspilze auf dem Rasen sofort um eine Wachstumsstufe weiterentwickelt.
+
+[DOOMSHROOM_NEW_SKILL_LEVEL1_DES]
+Wenn er von Zombies angegriffen wird, explodiert er, schädigt Zombies in der Nähe und hinterlässt an seiner Stelle einen Krater. Der Unheilspilz kann zweimal wachsen; jedes Wachstum verstärkt seine Explosionswirkung und bringt bei der Detonation einen Baby-Unheilspilz hervor.
+
+[DOOMSHROOM_NEW_SKILL_LEVEL2_DES]
+Die Wachstumszeit des Unheilspilzes wurde auf 8 Sekunden, 13 Sekunden reduziert.
+
+[DOOMSHROOM_NEW_SKILL_LEVEL3_DES]
+Die Wachstumszeit des Unheilspilzes wurde auf 5 Sekunden, 10 Sekunden reduziert.
+
+[DOOMSHROOM_NEW_SKILL_LEVEL4_DES]
+50% Chance, beim Pflanzen sofort bis zur maximalen Stufe zu wachsen.
+
+[DOOMSHROOM_NEW_SKILL_LEVEL5_DES]
+Unheilspilze können auf Kratern gepflanzt werden. Zombies, die durch Unheilspilz-Explosionen beschädigt, aber nicht getötet wurden, werden verstrahlt.
+
+[STORE_PRODUCT_AVATAR_DOOMSHROOM_TITLE]
+Mantel
+
+[DOOMSHROOM_AVATAR_NAME]
+Mantel
+
+[DOOMSHROOM_PLANTFOOD_DESCRIPTION]
+Detoniert sofort alle Unheilspilze auf dem Rasen, wobei sich der Explosionsradius ausdehnt und alle Zombies trifft.
+
+[DOOMSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Nach Verwendung der Spezialdünger-Fähigkeit wachsen alle Unheilspilze auf dem Feld sofort um eine Stufe.
+
 [POTATOMINE]
 Kartoffelmine 
 
