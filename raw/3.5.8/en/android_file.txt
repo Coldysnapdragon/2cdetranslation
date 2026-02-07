@@ -19190,7 +19190,7 @@ Der während des ultimativen Angriffs ausgestoßene Wasserball kann ein speziell
 Nach dem Aufladen wird ein Wasserball ausgestoßen, der vorwärts rollt. Wenn er Zombies trifft, erzeugt er zufällig 1-2 Pfützen auf benachbarten Feldern. Der Wasserball absorbiert Feuchtigkeit aus den Pfützen, durch die er rollt, um sich zu verbessern, wobei er zweimal verbessert werden kann. Auf der maximalen Stufe kann der Wasserball Zombies in seine Mitte fegen und sie aus dem Bildschirm tragen. Ein einzelner Wasserball kann bis zu 4 Zombies fegen, jedoch keine Riesen-Zombies.
 
 [DUCKPEAR_NEW_SKILL_LEVEL2_DES]
-Nach jeder vollständigen Aufladung hat Duckpear eine Chance von 15 %, eine Spezialangriffsaktion auszulösen, bei der er direkt einen Wasserball ausspuckt, der um eine Stufe verbessert wurde.
+Nach jeder vollständigen Aufladung hat die Nashibirne eine Chance von 15 %, eine Spezialangriffsaktion auszulösen, bei der er direkt einen Wasserball ausspuckt, der um eine Stufe verbessert wurde.
 
 [DUCKPEAR_NEW_SKILL_LEVEL3_DES]
 Nach jeder Aufladung hat die Nashibirne eine Chance von 25 %, eine Spezialangriffsaktion auszulösen, bei der direkt ein Wasserball abgeschossen wird, der eine Stufe aufgewertet wurde.
