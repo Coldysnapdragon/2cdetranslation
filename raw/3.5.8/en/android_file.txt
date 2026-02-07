@@ -44735,13 +44735,13 @@ Zapfe der elektrischen Zeder
 {FLAVOR}Der Zapfen der elektrischen Zeder nutzt Elektrizität auf einzigartige Weise, und die Speicherung von Elektrizität in seinem Körper ist seine besondere Fähigkeit. Dies verdankt er seiner Fähigkeit, Elektrizität aufzunehmen. Diese Entdeckung begann mit einer Umarmung mit der elektrischen Stachelbeere, und dann verliebte sich der Zapfen der elektrischen Zeder in das Gefühl des elektrischen Stroms, der seinen Körper durchströmte. So sieht man ihn heute oft die energiespendende Mangostane imitieren und täglich fluchen.
 
 [DEODARCEDAR_DESCRIPTION_HEADER]
-Elektrizität absorbieren und speichern, dann zu einem elektrischen Ring verdichten und abfeuern.
+Absorbiert Elektrizität und feuert größere Ringe je nach Elektrizität. Die Elektro Ringe werden durch Nähe zu Elektropflanzen verstärkt.
 
 [DEODARCEDAR_TOOLTIP]
-Elektrizität absorbieren und elektrischen Ring abfeuern.
+Absorbiert Elektrizität und feuert größere Ringe je nach Elektrizität.
 
 [DEODARCEDAR_PRODUCT_SHORT_DESC]
-Elektrizität absorbieren und speichern, dann zu einem elektrischen Ring verdichten und abfeuern.
+Absorbiert Elektrizität und feuert größere Ringe je nach Elektrizität.
 
 [DEODARCEDAR_SKILL_LEVEL1]
 Elektrizitätsbonus
@@ -44753,13 +44753,13 @@ Bevor der Abfeuerung des elektrischen Rings, abhängig von dessen Größe, erhal
 Elektrizitätsschub
 
 [DEODARCEDAR_SKILL_LEVEL2_DES]
-Elektrizitätsbonus erhöht auch die Angriffsgeschwindigkeit. Bonus
+Elektrizitätsbonus erhöht auch die Angriffsgeschwindigkeit.
 
 [DEODARCEDAR_SKILL_LEVEL5]
 Gewitter-Strommast
 
 [DEODARCEDAR_SKILL_LEVEL5_DES]
-Der vom Stromring erzeugte Blitz kann zu einem Blitzmast werden, der einem einzelnen Gitter Schaden zufügt, mit höherem Schaden.
+Der vom Stromring erzeugte Blitz kann zu einem Blitzmast werden, der einem einzelnen Feld höherem Schaden zufügt.
 
 [STORE_PRODUCT_AVATAR_DEODARCEDAR_TITLE]
 Elektrizitäts-Zedernzapfen-Kostüm
@@ -44781,13 +44781,13 @@ Storchschnabel-Fechter
 {FLAVOR}Das einzige Mal, dass der Storchschnabel-fechter mit Pflanzen konkurrierte, war in einer durchzechten Nacht. Er forderte den Rosenschwertkämpfer zu einem Fechtkampf heraus. Niemand weiß, was in dieser Nacht geschah, aber der Storchschnabel-fechter hat seitdem aufgehört zu trinken.
 
 [GERANIIFENCER_DESCRIPTION_HEADER]
-Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
+Sprintet ein Feld vorwärts, um einen Angriff zu starten, und springt dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
 
 [GERANIIFENCER_TOOLTIP]
 Greift ein Feld vorwärts an und zurück,um Gargantuae Auszuweichen.
 
 [GERANIIFENCER_PRODUCT_SHORT_DESC]
-Sprinte ein Feld vorwärts, um einen Angriff zu starten, und springe dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
+Sprintet ein Feld vorwärts, um einen Angriff zu starten, und springt dann zurück zur Ausgangsposition. Dadurch kann der Angriff des Gargantuas fehlschlagen.
 
 [GERANIIFENCER_SKILL_LEVEL1]
 Kraftvoller Angriff
