@@ -8,8 +8,305 @@ Breitseitenkanone
 [ACHIEVE_COWBOY_STARS_DESC]
 Holt alle Wild-West-Sterne.
 
+[ZOMBIE_BOBSLED_PUNK]
+Der Bob-Zombie
+
+[ZOMBIE_BOBSLED_PUNK_DESCRIPTION]
+Der Bob stirbt nie, er wird sogar immer beliebter! Der „Space Orc“, der das Album produziert hat, kehrt mit einer fließenden Fischfrisur und seinem coolsten neuen Gefährt zurück und sorgt für Furore! Er verwandelt deinen Rasen in eine Eisbahn schneller, als deine „gefrorenen“ Nerven reagieren können.
+
+[ZOMBIE_BOBSLED_PUNK_DESCRIPTION_HEADER]
+Er überrollt Pflanzen auf dem Weg und hinterlässt eine Eisbahn hinter sich.
+
+[ZOMBIE_MAUSOLEUM_BASIC]
+Zombie-Soldat
+
+[ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION]
+Der Zombie-Soldat sieht die neueste Entdeckung der Archäologie – eine Dienstzeit von nur 12 Jahren – mit Optimismus. Denn das ist schon sehr nah an der richtigen Antwort: einer Haftstrafe von 2000 Jahren.
+
+[ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION_HEADER]
+Gewöhnlicher Zombie-Soldat
+
+[ZOMBIE_MAUSOLEUM_FLAG]
+Flaggen-Zombie-Soldat
+
+[ZOMBIE_MAUSOLEUM_FLAG_DESCRIPTION]
+Er schneidet Bäume zu Waffen, hisst Stangen als Fahnen und stürmt los … auf die Gehirne zu
+
+[ZOMBIE_MAUSOLEUM_FLAG_DESCRIPTION_HEADER]
+Sie führen eine riesige „Welle“ von Mausoleum-Zombies an.
+
+[ZOMBIE_MAUSOLEUM_ARMOR2]
+Zombie-Soldat mit Eisenhelm
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION]
+Die Zombie-Soldaten mit Eisenhelm füllen dieses Ding oft mit Wasser – wahrscheinlich, weil sie Wasser im Kopf haben.
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION_HEADER]
+Der Stahlhelm auf ihrem Kopf bietet ihnen zusätzliche Verteidigung.
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR]
+Reichsheld-Gargantua
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_DESCRIPTION]
+Als großer Held, der das Reich von Feinden befreit hat, steht er in der Gunst des Kaisers und wurde schon früh in die Bestellungen aufgenommen.
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_DESCRIPTION_HEADER]
+Stark wie ein Berg, mächtig wie die Armeen der Welt
+
+[ZOMBIE_MAUSOLEUM_IMP]
+Zombie-Krieger-Wicht
+
+[ZOMBIE_MAUSOLEUM_IMP_DESCRIPTION]
+Der Wicht des Kommandanten hat zwar nur einen kleinen Rang, doch sein Beitrag zur Ästhetik des Mausoleums ist keineswegs gering.
+
+[ZOMBIE_MAUSOLEUM_IMP_DESCRIPTION_HEADER]
+Sie werden meist über deine Verteidigungslinie geworfen
+
+[ZOMBIE_MAUSOLEUM_VENDOR]
+Zombie-Händler
+
+[ZOMBIE_MAUSOLEUM_VENDOR_DESCRIPTION]
+Der Zombie-Händler wirft seine Waren absichtlich weg, da er gerade sehr hungrig ist und daher auf die Strategie des „Hungermarketings“ setzt.
+
+[ZOMBIE_MAUSOLEUM_VENDOR_DESCRIPTION_HEADER]
+Bewegt sich durch die Pfäde und lässt in regelmäßigen Abständen 1 Zombie-Schweinchen von seinem Wagen fallen
+
+[ZOMBIE_MAUSOLEUM_ARCHER]
+Zombie-Bogenschütze
+
+[ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION]
+Der Zombie-Bogenschütze ist ein Pazifist und schießt seine Pfeile jedes Mal absichtlich ins Leere. Anscheinend ist ihm nicht bewusst, dass er stark schielt
+
+[ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION_HEADER]
+Nach seinem Erscheinen zielt er auf die nächstgelegene Pflanze in seiner Reihe und feuert einen Pfeil ab.
+
+[ZOMBIE_QIN_SHIELD_SEGMENT]
+Schildträger-Zombie
+
+[ZOMBIE_QIN_SHIELD_SEGMENT_DESCRIPTION]
+Der legendäre Qin-Schild, der angeblich die stärksten Armbrustpfeile abprallen lassen konnte, entpuppte sich später als unwirksam, da die Pfeilspitzen der Feinde aus Gemüseblättern bestanden.
+
+[ZOMBIE_QIN_SHIELD_SEGMENT_DESCRIPTION_HEADER]
+Hohe Verteidigung, kann in Formation erscheinen
+
+[ZOMBIE_QIN_JINGKE]
+Zombie-Attentäter
+
+[ZOMBIE_QIN_JINGKE_DESCRIPTION]
+Wenn du das letzte Wort dieses Textes siehst, ist es Zeit für „Tu Qiong Bi Jian“.
+
+[ZOMBIE_QIN_JINGKE_DESCRIPTION_HEADER]
+Nach „Tu Qiong Bi Jian“ teleportiert er sich in die erste Spalte links
+
+[ZOMBIE_QIN_TAOIST]
+Taoistischer Zombie
+
+[ZOMBIE_QIN_TAOIST_DESCRIPTION]
+Der Taoistische Zombie liebt Terrakotta-Figuren und ist schon seit über 2000 Jahren ein begeisterter Sammler.
+
+[ZOMBIE_QIN_TAOIST_DESCRIPTION_HEADER]
+Kann den General der Terrakotta-Armee wiederbeleben oder gewöhnliche Zombies in Terrakotta-Figuren verwandeln
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG]
+Herrscher der unterirdischen Paläste
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_DESCRIPTION]
+{FLAVOR}Die größte Leidenschaft des Herrschers der unterirdischen Paläste ist es, in einem Haufen gesalzener Fische zu baden
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_DESCRIPTION_HEADER]
+Wie mächtig sein Blick ist!
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_BIG_SKILL_WARNING]
+Die ultimative Fähigkeit wird bald ausgelöst. Besiegt den Herrscher des unterirdischen Palastes so schnell wie möglich und lasst ihn nicht sein Schwert ziehen!
+
+[ZOMBIE_MAUSOLEUM_PIGGY]
+Zombie-Schweinchen
+
+[ZOMBIE_MAUSOLEUM_PIGGY_DESCRIPTION]
+Grunz-Grunz!
+
+[ZOMBIE_MAUSOLEUM_PIGGY_DESCRIPTION_HEADER]
+Hohe Geschwindigkeit, wenig Gesundheit
+
+[ZOMBIE_MAUSOLEUM_CAVALRY]
+„Kavallerie“-Zombie
+
+[ZOMBIE_MAUSOLEUM_CAVALRY_DESCRIPTION]
+Er war einst ein einfacher Soldat; dieses „Pferd“ ist das Ergebnis all seiner Kämpfe und Leiden und der Lohn dafür – wie ein Abzeichen eines kampferprobten Kriegers.
+
+[ZOMBIE_MAUSOLEUM_CAVALRY_DESCRIPTION_HEADER]
+Kann sich durch einen Pfad bewegen
+
+[ZOMBIE_MAUSOLEUM_ARMOR1]
+Zombie-Soldat mit Schale
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION]
+Die Schüssel auf den Boden als Wegweiser stellen und dann auf den Kopf heben – das ist einfach total cool.
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION_HEADER]
+Die Schüssel auf dem Kopf bietet ihm eine gewisse Verteidigung
+
+[ZOMBIE_LION_DANCE]
+Zombie-Löwentanz
+
+[ZOMBIE_LION_DANCE_DESCRIPTION]
+{FLAVOR}Eigentlich haben sie den Löwentanz nie systematisch gelernt, sie finden nur, dass der rote Löwenkopf sie etwas „heißer“ aussehen lässt.
+
+[ZOMBIE_LION_DANCE_DESCRIPTION_HEADER]
+Kann 3 Felder nach vorne Feuer speien
+
+[ZOMBIE_NUTCRACKER]
+Nussknacker-Zombie
+
+[ZOMBIE_NUTCRACKER_DESCRIPTION]
+Der Nussknacker-Zombie ist ein Meister im Knacken von Nüssen und war Dr. Zombioss' großes Weihnachtsgeschenk für die Nüsse. Aber der Nussknacker-Zombie will nur einen „Scherz“ machen … Oh je, dieser Wortwitz ist wirklich lahm.
+
+[ZOMBIE_NUTCRACKER_DESCRIPTION_HEADER]
+Gegen Verteidigungspflanzen wechselt der Nussknacker-Zombie zu einem Hiebangriff, der der Zielpflanze jedes Mal extrem hohen Schaden zufügt, woraufhin er sich kurz ausruht.
+
+[ZOMBIE_NUTCRACKER_GARGANTUAR]
+Nussknacker-Gargantua
+
+[ZOMBIE_NUTCRACKER_GARGANTUAR_DESCRIPTION]
+Von sieben Schritten ganz zu schweigen – der riesige Nussknacker-Gargantua würde niemals freiwillig auch nur einen Schritt zurückweichen. Er ist ein noch professionellerer und mächtigerer Hirnknacker.
+
+[ZOMBIE_NUTCRACKER_GARGANTUAR_DESCRIPTION_HEADER]
+Er stürmt auf das Spielfeld, walzt alle Pflanzen nieder, die ihm im Weg stehen, bis zur dritten Reihe auf der linken Seite, und ist während des Sprints gegen die meisten Kontroll-Effekte immun. Seine Feder kann von Pflanzen wie dem Magnetpilz aufgesaugt werden, woraufhin der Gargantua in den normalen Angriffsmodus wechselt.
+
+[ZOMBIE_GIFTBOX]
+Geschenkbox-Zombie
+
+[ZOMBIE_GIFTBOX_DESCRIPTION]
+Zettel: Das beste Weihnachtsgeschenk, das wir deinem Gehirn machen können. – Nicht von einem Zombie
+
+[ZOMBIE_GIFTBOX_DESCRIPTION_HEADER]
+In den Geschenken verstecken sich verschiedene Hüte
+
+[ZOMBIE_FAIRY_TALE_IMP_ELITE]
+Weißer-Königinnen-Wicht-Elite-Zombie
+
+[ZOMBIE_FAIRY_TALE_IMP_ELITE_DESCRIPTION]
+Weihnachtsmaskenball! Aber anscheinend sind echte Zombies gekommen!
+
+[ZOMBIE_FAIRY_TALE_IMP_ELITE_DESCRIPTION_HEADER]
+Erleidet nur Schaden, wenn sie von einem Wächtergargantua abgeschossen wird; kann nach der Flucht wieder ins Spiel zurückkehren mit Verstärkung.
+
+[ELITE_ZOMBIE_TIPS_TEXT_FAIRY_TALE_IMP_ELITE]
+^573701^ Nach Spezialtraining immun gegen Kontrolle, Verwandlung und Sofort-Tod^oldclr^
+
+[ZOMBIE_DARK_JUGGLER_ELITE]
+Elite-Hofnarr-Zombie
+
+[ZOMBIE_DARK_JUGGLER_ELITE_DESCRIPTION]
+Auf jedem Fest gibt es immer ein paar Schurken, die heimlich ein paar Extras einstecken…
+
+[ZOMBIE_DARK_JUGGLER_ELITE_DESCRIPTION_HEADER]
+In regelmäßigen Abständen saugt der Elite-Zombie-Hofnarr alle Projektile auf dem Spielfeld auf und feuert sie nach oben und unten ab
+
+[ELITE_ZOMBIE_TIPS_TEXT_DARK_JUGGLER_ELITE]
+^573701^Nach speziellem Training immun gegen Kontrolle, Verwandlung und Sofort-Tod^oldclr^
+
+[ZOMBIE_SLED_PUNK]
+Die Zombie-Schlitten-Truppe
+
+[ZOMBIE_SLED_PUNK_DESCRIPTION]
+Schau dir diese Gehirn-Spezialeinheit an! Diese Zombie-Athleten sind durch Frost „zusammengefroren“ und verkörpern den Teamgeist „Keine Leichen zurücklassen, keine Leichen im Stich lassen“
+
+[ZOMBIE_SLED_PUNK_DESCRIPTION_HEADER]
+Zu viert bilden sie ein Team und können sich mit dem Schlitten schnell auf der Eisbahn fortbewegen
+
+[ZOMBIE_BOBSLED]
+Weihnachts-Schlitten-Zombie
+
+[ZOMBIE_BOBSLED_DESCRIPTION]
+Zombie-Übersetzer: „Die Firma ZCorp verschwendet ständig das Budget. Sie haben den Bobsleigh nicht nur mit nutzlosen Verzierungen versehen, sondern mir auch den Führerschein entzogen, damit andere Zombies fahren können!“ – Der Zombie mit der mysteriösen Haarschnittfrisur
+
+[ZOMBIE_BOBSLED_DESCRIPTION_HEADER]
+Überrollt die Pflanzen auf der Strecke und hinterlässt eine Eisbahn
+
+[ZOMBIE_SLED]
+Weihnachts-Schlitten-Zombie-Team
+
+[ZOMBIE_SLED_DESCRIPTION]
+Der Sponsor hat ein neues Schlittenmodell zum Thema Weihnachten vorbereitet. Aufgrund der schlechten Konjunktur in der Eisbahnbauindustrie und der hohen Verschleißrate bei diesem Zombie-Extremsport hat die Finanzabteilung von der Firma ZCorp jedoch starke Bedenken geäußert.
+
+[ZOMBIE_SLED_DESCRIPTION_HEADER]
+Zu viert bilden sie ein Team und können sich mit dem Schlitten schnell auf der Eisbahn fortbewegen
+
+[ZOMBIE_SLED_ARMOR]
+Weihnachtsschlitten-Zombie-Team Mitglied
+
+[ZOMBIE_SLED_ARMOR_DESCRIPTION]
+Einige Teammitglieder sind vorübergehend vom Skisport zum gesteuertem Schlittensport gewechselt. Sie haben gehört, dass die Bezahlung hier hoch ist, doch in Wirklichkeit handelt es sich nur um ein paar zusätzliche Weihnachtsfotos von Dr. Zomboss.
+
+[ZOMBIE_SLED_DESCRIPTION_HEADER]
+Der Schlittenhelm schützt sie vor einem gewissen Maß an Schaden.
+
+[ZOMBIE_FIGURE_SKATING]
+Eiskunstlauf-Zombie
+
+[ZOMBIE_FIGURE_SKATING_DESCRIPTION]
+Ihre Spezialität sind zitternde Darbietungen auf dem Eis – vielleicht hat sie vergessen, ihre Schlittschuhe zu schnüren.
+
+[ZOMBIE_FIGURE_SKATING_DESCRIPTION_HEADER]
+Bewegt sich schnell über die Eisbahn vom Zomboni und weicht Projektilen aus.
+
+[ZOMBIE_SNOW_BALLROLLER]
+Schneeball-Zombie
+
+[ZOMBIE_SNOW_BALLROLLER_DESCRIPTION]
+Der Schneeball wird immer größer – und Dr. Zombies Überstundenschuldschein immer länger –
+
+[ZOMBIE_SNOW_BALLROLLER_DESCRIPTION_HEADER]
+Rollt den Schneeball und zermalmt die Pflanzen auf dem Weg. Der Schneeball wird mit zunehmender Entfernung größer und kann nur von Feuerpflanzen beschädigt werden.
+
+[ZOMBIE_LADDER]
+Leiter-Zombie
+
+[ZOMBIE_LADDER_DESCRIPTION]
+In jenen glorreichen Zeiten war der Leiter-Zombie als professioneller Fensterputzer tätig. Auch wenn die Menschen damals ihre Vorhänge zuzogen, war es für den Zombie doch die Außenseite der Fenster, die gereinigt werden musste. Jetzt hat er endlich Zeit, seine Leiterkünste wieder aufzufrischen.
+
+[ZOMBIE_LADDER_DESCRIPTION_HEADER]
+Die Leiter schützt vor Schaden. Sie kann an Verteidigungspflanzen wie der Wallnuss aufgestellt werden, damit der Zombie diese überwinden kann.
+
+[ZOMBIE_POGO]
+Pogo-Zombie
+
+[ZOMBIE_POGO_DESCRIPTION]
+Hopp! Hopp! Hopp! Das ist das kraftvolle und effektive Geräusch, das der Pogo-Zombie von sich gibt.
+
+[ZOMBIE_POGO_DESCRIPTION_HEADER]
+Mit seiner Hüpfstange lässt er sich nicht von Pflanzen aufhalten, sondern springt direkt über sie hinweg
+
+[ZOMBIE_POLE_VAULTING]
+Stabhochsprung-Zombie
+
+[ZOMBIE_POLE_VAULTING_DESCRIPTION]
+Manche Zombies wollen mehr erreichen. So wie dieser Stabhochsprung-Zombie. Das ist typisch für ihn.
+
+[ZOMBIE_POLE_VAULTING_DESCRIPTION_HEADER]
+Springt über die erste Pflanze, auf die er trifft; bei niedrigem Lebenspunktestand wirft er seinen Stab und fügt der Pflanze Schaden zu, falls er noch nicht gesprungen ist.
+
+[ZOMBIE_LADDER_FESTIVAL]
+Weihnachts-Leiter-Zombie
+
+[ZOMBIE_LADDER_FESTIVAL_DESCRIPTION]
+Die Leiter dient dazu, den Schornstein hinaufzuklettern – allerdings nicht, um dir Geschenke zu bringen, sondern damit der Zombie sich selbst als Geschenk hinunterwirft.
+
+[ZOMBIE_LADDER_FESTIVAL_DESCRIPTION_HEADER]
+Die Leiter schützt vor Schaden und kann an Verteidigungspflanzen wie der Wallnuss aufgestellt werden, damit Zombies diese überwinden können.
+
+[ZOMBIE_POLE_VAULTING_FEASTIVUS]
+Weihnachts-Stabhochsprung-Zombie
+
+[ZOMBIE_POLE_VAULTING_FEASTIVUS_DESCRIPTION]
+Kleinstadt-Tageszeitung: Der seit über einem Jahrzehnt verschwundene Stabhochsprung-Zombie ist zurückgekehrt! Ihn heute zu sehen,ist als wäre er der Weihnachtsmann! Das Einzige, was uns missfällt, ist, dass unsere niedlichen weißen Zäune im Garten wieder einmal nutzlos geworden sind!
+
+[ZOMBIE_POLE_VAULTING_FEASTIVUS_DESCRIPTION_HEADER]
+Überspringt die erste Pflanze, auf die er trifft. Wenn seine Lebenspunkte niedrig sind, wirft er seinen Stab und fügt der Pflanze Schaden zu, falls er noch nicht gesprungen ist.
+
 [poisonvine]
-Grüne Schlangenrebe
+Grüne Schlangenreb
 
 [poisonvine_DESCRIPTION_HEADER]
 Feuert Giftgasgeschosse ab, um einen giftigen Nebel zu erzeugen, der Zombies angreift
@@ -22041,7 +22338,7 @@ Die Spezialdünger Fähigkeit kann auf Zombies in der Nähe ausgeführt werden.
 Ionisierte Anthurie
 
 [ANTHURIUM_DESCRIPTION_HEADER]
-Ionisierte Anthurie kann Blitze absorbieren und Zombies vor ihnen angreifen.
+Ionisierte Anthurie kann Blitze absorbieren und Zombies vor sich angreifen.
 
 [ANTHURIUM_DESCRIPTION]
 {KEYWORD}Merkmale:{STAT}Absorbiert Blitzeffekte von umliegenden Pflanzen.
@@ -22050,7 +22347,7 @@ Ionisierte Anthurie kann Blitze absorbieren und Zombies vor ihnen angreifen.
 {FLAVOR}Ist die Fähigkeit der ionisierten Anthurie die positiven und negativen Ladungen zu neutralisieren, nicht überraschend? Ein Blick auf die perfekten Physikarbeiten der Brüder genügt, und Sie werden es verstehen. Doch die Ideen des anderen können sie nie verstehen, wie zum Beispiel die Wahl der Krawattenfarbe, das Anschauen von Dokumentationen oder Fernsehserien oder Verabredungen in indischen oder chinesischen Restaurants. Aber sie wissen auch, dass keiner von ihnen ohne den anderen ein Genie im Umgang mit Blitzen ist.
 
 [ANTHURIUM_TOOLTIP]
-Das Ionisiertes Anthurium kann Blitze absorbieren und Zombies vor sich angreifen.
+Das Ionisierte Anthurium kann Blitze absorbieren und Zombies vor sich angreifen.
 
 [ANTHURIUM_PLANTFOOD]
 Schleudert Blitze ab, um Zombies im Feld anzugreifen.
@@ -37192,7 +37489,7 @@ Abfrage fehlgeschlagen
 Weißmelonen-Sumo
 
 [WHITEMELON_TOOLTIP]
-Blockiere Zombies und stoße sie zurück.
+Blockiert Zombies und stößt sie zurück.
 
 [WHITEMELON_SKILL_LEVEL1]
 Sumo-Schlag
@@ -38036,10 +38333,10 @@ Elektro-Erbsenkanone
 Elektro-Erbsenkanonen verschießen erbsenartige Projektile, die Zombies durchschlagen und vor schädlicher Elektrizität nur so knistern.
 
 [ELECTRICPEASHOOTER_TOOLTIP]
-Verschießt Elektro-Erbsenkanonen
+Verschießt Elektro-Erbsen
 
 [ELECTRICPEASHOOTER_PRODUCT_SHORT_DESC]
-Verschießt Elektro-Erbsenkanonen
+Verschießt Elektro-Erbsen
 
 [ELECTRICPEASHOOTER_AVATAR_NAME]
 Elektro-Erbsenkanone Kostüm
@@ -40517,19 +40814,19 @@ Auberginenninja
 Kann Shuriken über Linien hinweg einsetzen, um Zombies innerhalb der Reichweite des Bogenangriffs Schaden zuzufügen.
 
 [EGGPLANTNINJA_TOOLTIP]
-Werfen von Shuriken kann dem Ziel Sekundärschaden zufügen.
+Wirft Shuriken, um in mehreren Reihen durchgehend zu schaden.
 
 [EGGPLANTNINJA_SKILL_LEVEL1]
 Explosive Pfeile
 
 [EGGPLANTNINJA_SKILL_LEVEL1_DES]
-10 % Chance, Zombies innerhalb eines Rasters Schaden zuzufügen.
+10% Chance, Zombies innerhalb eines Rasters Schaden zuzufügen.
 
 [EGGPLANTNINJA_SKILL_LEVEL2]
 Explosive Pfeile
 
 [EGGPLANTNINJA_SKILL_LEVEL2_DES]
-Erhöht die Wirkung explosiver Shuriken um 100 %.
+Erhöht die Wirkung explosiver Shuriken um 100%.
 
 [STORE_PRODUCT_AVATAR_EGGPLANTNINJA_TITLE]
 Auberginenninja-Kostüm
@@ -47936,7 +48233,7 @@ Große Blasen können Zombies und Wicht-Zombies die Rüstung rauben.
 {FLAVOR}Daffodil ist eine Aristokratin, die seit ihrer Kindheit eine höhere Bildung genießt, aber ein frecher und süßer, kluger Geist ist. Der Kontrast zwischen aristokratischem Temperament und frecher Persönlichkeit macht sie bei ihren Freunden sehr beliebt.
 
 [NARCISSUSSHOOTER_TOOLTIP]
-Große Blasen können Zombies und Imp-Zombies die Rüstung rauben.
+Große Blasen können Zombies die Rüstung rauben.
 
 [NARCISSUSSHOOTER_SKILL_LEVEL1]
 Blasenplatzer
@@ -75367,25 +75664,25 @@ Schrumpf-Veilchen kann alle Zombies auf dem Bildschirm schrumpfen lassen.
 Schrumpf-Veilchen kann alle Zombies auf dem Bildschirm schrumpfen lassen, ihre Bewegungsgeschwindigkeit um 70% reduzieren und ihren erlittenen Schaden um 30% erhöhen. ^oldclr^
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Wenn ein Zombie rechts neben der Urzeit-Erbsenkanone erscheint, feuert ihr eine schwere Erbsenkugel ab. Diese fügt dem Zombie Schaden zu und hat eine 50% Chance, einen Rückstoßeffekt auf einem einzelnen Gitter zu verursachen, sowie eine 50% Chance, den Zombie für ^848484^I^oldclr^0,5 Sekunden zu betäuben.
+Wenn ein Zombie rechts neben der Urzeit-Erbsenkanone erscheint, feuert sie eine schwere Erbse ab. Diese fügt dem Zombie Schaden zu und hat eine 50% Chance, einen Rückstoßeffekt auf einem einzelnen Feld zu verursachen, sowie eine 50% Chance, den Zombie für ^848484^I^oldclr^0,5 Sekunden zu betäuben.
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-Es besteht eine 15%ige Chance, ein Steingeschoss abzufeuern, das ein einzelnes Gitter beschädigt und 150 Schaden verursacht.
+Es besteht eine 15%ige Chance, ein Steingeschoss abzufeuern, das ein einzelnes Feld beschädigt und 150 Schaden verursacht.
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-Die Wahrscheinlichkeit, dass Steingeschosse die Fertigkeit auslösen, ist erhöht. Beim Angriff besteht eine 25%ige Chance, ein Steingeschoss abzufeuern, und der Schaden wird auf 200 erhöht.
+Beim Angriff besteht eine 25%ige Chance, ein Steingeschoss abzufeuern, und der Schaden wird auf 200 erhöht.
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL4_DES]
-Beim Platzieren besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
+Beim Pflanzen besteht eine 60% Chance, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-Schwere Geschosse und Steingeschosse werden zu Lavageschossen aufgewertet, die Zombies innerhalb eines Gitterbereichs definitiv Schaden zufügen und sie zurückstoßen oder betäuben. Während des Fluges verstreut es außerdem Lava mit einem Schaden von 180/Sekunde für 2 Sekunden.
+Schwere Geschosse und Steingeschosse werden zu Lavageschossen aufgewertet, die Zombies innerhalb eines Feldes Schaden zufügen und sie zurückstoßen oder betäuben. Während des Fluges verstreut es außerdem Lava mit einem Schaden von 180/Sekunde für 2 Sekunden.
 
 [PRIMALPEASHOOTER_PLANTFOOD_DESCRIPTION]
-Feuert 5 schwere Erbsengeschosse hintereinander ab, die definitiv einen Rückstoßeffekt von einem Raster verursachen und Zombies innerhalb eines Rasterbereichs Flächenschaden zufügen. Der Schaden erhöht sich auf Stufe 5 weiter.
+Feuert 5 schwere Erbsen hintereinander ab, die einen Rückstoßeffekt auf dem Feld verursachen und Zombies innerhalb eines Feldes Flächenschaden zufügen. Der Schaden erhöht sich auf Stufe 5 weiter.
 
 [PRIMALPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Feuert 5 schwere Erbsengeschosse hintereinander ab, die immer einen Block Rückstoßeffekt verursachen und Zombies innerhalb eines Blocks Flächenschaden zufügen. Der Schaden erhöht sich auf Stufe 5 weiter. ^ff0000^Fügt am Ende eine Lavakugel hinzu, die vorbeifliegenden Zombies Schaden zufügt und Lava hinterlässt, die 4 Sekunden lang bestehen bleibt. ^oldclr^
+Feuert 5 schwere Erbsen hintereinander ab, die immer einen Rückstoßeffekt auf dem Feld verursachen und Zombies innerhalb eines Feldes Flächenschaden zufügen. Der Schaden erhöht sich auf Stufe 5 weiter. ^ff0000^Fügt am Ende eine Lavakugel hinzu, die vorbeifliegenden Zombies Schaden zufügt und Lava hinterlässt, die 4 Sekunden lang bestehen bleibt. ^oldclr^
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL1_DES]
 Nutzt ihren harten Körper, um Zombies abzuwehren und die Pflanzen dahinter zu schützen.
@@ -81983,4 +82280,4 @@ Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END].
 
-[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]
+[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]D]ESE_END]_END]_END]ESE_END]_END]_END]_END]ESE_END]_END]ND]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]_END]_END]
