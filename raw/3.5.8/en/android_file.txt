@@ -26899,20 +26899,21 @@ Betreten Sie den gefährlichen Highway!
 Betreten Sie die Party des Toten!
 [AWARD_SCREEN_GIFTBOX_TITLE]
 Geheimnisvolle Geschenkbox
+
 [AWARD_SCREEN_MONEYBAG_DESCRIPTION_01]
-Dieser Beutel ist voller Münzen, genau wie dein Kopf voller Gehirne ist!
+Ein Schädel voll Hirnschmalz und ein Sack voller Münzen!
 
 [AWARD_SCREEN_MONEYBAG_DESCRIPTION_02]
-Münzen, Münzen, Münzen! Stille deinen Hunger nach Power-Ups und!
+Münzen, Münzen, Münzen! Damit kannst du nach Herzenslust Puzzleteile und Upgrades kaufen!
 
 [AWARD_SCREEN_MONEYBAG_DESCRIPTION_03]
-Ein Beutel voller Münzen ist besser als ein Beutel voller Wicht-Zombies!
+Besser als ein Sack voller Wichte: ein Sack voller Münzen!
 
 [AWARD_SCREEN_MONEYBAG_DESCRIPTION_04]
-Tut mir leid, dein epischer, unendlicher Münzbeutel ist einem anderen Zombie in die Hände gefallen.
+Tja, dein riesiger Sack mit Münzen ohne Ende hat sich leider als weiterer Zombie entpuppt.
 
 [AWARD_SCREEN_MONEYBAG_DESCRIPTION_05]
-Eine Münze im Beutel ist besser, als einem Zombie ins Maul zu schauen.
+Die Münze in der Hand ist besser, als einem geschenkten Zombie ins Maul zu schauen.
 
 [AWARD_SCREEN_MONEYBAG_TITLE]
 Ein Beutel voller Münzen!
@@ -26923,22 +26924,23 @@ Ein Beutel voller Münzen!
 Ziel von Tag {X}
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERBUTTER_DESCRIPTION]
-Benutze Butter, um Zombies im Glas-Zertrümmer-Modus zu treffen.
+Buttert in Vasenbrecher einen einzelnen Zombie ein
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERBUTTER_TITLE]
-Butter-Item
+Power-up "Zombie einbuttern"
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERMOVE_DESCRIPTION]
-Bewege eine Dose im Dosen-Smash-Modus.
+Versetzt eine Vase in Vasenbrecher
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERMOVE_TITLE]
-Bewege eine Dose.
+Power-up "Vase bewegen"
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERREVEAL_DESCRIPTION]
-Zeige den Inhalt einer Dose im Dosen-Smash-Modus.
+Deckt den Inhalt einer Vase in Vasenbrecher auf
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERREVEAL_TITLE]
-Durchblick-Fähigkeit
+Power-up "Vase aufdecken"
+
 [AWARD_SCREEN_TREASURE_CHEST_DESCRIPTION]
 10.000 Münzen
 [AWARD_SCREEN_WORLDTROPHY_BEACH]
@@ -29415,7 +29417,7 @@ Reisetagebuch-Update: Du hast {DEFEATED_COUNT} hirnfressende Zombies besiegt! Nu
 Reisetagebuch-Update: Fast geschafft! Sammle {XP_NEEDED} Punkte und erreiche Level {NEXT_RANK}.
 
 [LOCAL_NOTE_VASEBREAKER_6D_01]
-Spiel noch heute Jar Breaker! Diese Vasen gehen nicht von alleine kaputt.
+Spiele gleich Vasenbrecher! Die Vasen zerbrechen sich schließlich nicht von allein.
 
 [LOCAL_NOTE_VASEBREAKER_ENDLESS_CONTINUE]
 Du musst sie in Jar Breaker zerschlagen! Jetzt ist es an der Zeit, deinen Zombiewellen-Rekord zu schlagen.
@@ -32029,19 +32031,19 @@ FACKELN mich echt ab.
 {SAY:winnieicon}Auf ins alte Ägypten!
 
 [NARRATIVE_VASEBREAKER_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Ein Rasen voller Gläser sieht aus wie eine Schachtel Pralinen!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Ein Rasen voller Vasen ist wie eine Schachtel Pralinen.
 
 [NARRATIVE_VASEBREAKER_INTRO_2]
-{EXCITED:crazydave}Manche sind köstlich! Andere sind echt eklig!
+{EXCITED:crazydave}Manche sind super! Und manche schmecken voll eklig!
 
 [NARRATIVE_VASEBREAKER_INTRO_3]
-{PLAYFUL:crazydave}Aber das Glas ist definitiv härter als deine Zähne!
+{PLAYFUL:crazydave}Aber alle Vasen sind viel schwerer zu kauen!
 
 [NARRATIVE_VASEBREAKER_INTRO_4]
-{SAY:winnie}Pass auf, dass du das Glas nicht zu schnell zerbrichst.
+{SAY:winnie}Überlege genau, wie schnell du Vasen zerbrechen willst.
 
 [NARRATIVE_VASEBREAKER_INTRO_5]
-{EXCITED:winnie}Du wirst vielleicht nicht damit klarkommen, was da rauskommt.
+{EXCITED:winnie}Sonst hast du plötzlich alle Hände voll zu tun!
 
 [NEW_FRESH_PICKS]
 Du hast neue Optionen.
@@ -32053,13 +32055,13 @@ Nächste Herausforderung
 Keine Setzlinge mehr. Spiele andere Level, um mehr zu bekommen!
 
 [OBJECTIVE_CHALLENGE_HEADER_DOUBLE]
-Levelziele
+Level-Ziele
 
 [OBJECTIVE_CHALLENGE_HEADER_MULTIPLE]
-Levelziele
+Level-Ziele
 
 [OBJECTIVE_CHALLENGE_HEADER_SINGLE]
-Levelziel
+Level-Ziel
 
 [OFFLINE_FACEBOOK_LOGIN_BODY]
 Bitte verbinden Sie sich mit dem Internet, um sich bei Facebook anzumelden.
@@ -32171,9 +32173,6 @@ Schatz der Toten
 [PLAYERS_TRIP_TO_PREVIEW]
 {PLAYER}s Botanischer Spielplatz!
 
-[POWERUP_BEGHOULED_SHOVEL]
-Kraftvolle Schaufel
-
 [PLAYERS_TRIP_TO_STEAM]
 {PLAYER}s Reise zur Industriellen Revolution!
 
@@ -32195,55 +32194,60 @@ Kraftvolle Schaufel
 [PLAYERS_TRIP_TO_NEW_PVP]
 {PLAYER}s Arena!
 
+[POWERUP_BEGHOULED_SHOVEL]
+Power-Schaufel
+
 [POWERUP_BEGHOULED_SHOVEL_DESCRIPTION]
-Nutze die mächtige Schaufel, um Pflanzen zu entfernen oder die Gruben im Zombie-Labyrinth zu füllen!
+Nutze die Power-Schaufel bei Beghouled, um Pflanzen zu entfernen und Krater zu füllen!
 
 [POWERUP_BEGHOULED_SHUFFLE]
-Kraftvolles Mischen
+Power-Mischer
 
 [POWERUP_BEGHOULED_SHUFFLE_DESCRIPTION]
-Nutze das mächtige Mischen, um die Positionen der Pflanzen im Zombie-Labyrinth zurückzusetzen und neue Kombinationen zu finden!
+Nutze den Power-Mischer bei Beghouled, um Pflanzen für mehr Paarungen zu mischen!
 
 [POWERUP_FLAMETHROWER]
-Flammenfinger
+Power-Flamme
 
 [POWERUP_FLAMETHROWER_DESCRIPTION]
-Halte deinen Finger auf dem Bildschirm, um Eis zu schmelzen oder Zombies in den Frosthöhlen zu verbrennen!
+Halte deinen Finger auf dem Display, um in den Frostbeulen-Höhlen Eis zu schmelzen und Zombies zu versengen!
 
 [POWERUP_NEW_BADGE]
 NEU
+
 [POWERUP_SNOWBALL]
-Hagelfinger
+Power-Schnee
 
 [POWERUP_SNOWBALL_DESCRIPTION]
-Halte einen Zombie fest, um einen eisigen Schneeball auf ihn zu schleudern!
+Halte deinen Finger auf einen Zombie, um ihn mit eiskalten Schneebällen zu bewerfen!
 
 [POWERUP_VASEBREAKER_BUTTER]
-Butter werfen
+Zombie einbuttern
 
 [POWERUP_VASEBREAKER_BUTTER_DESCRIPTION]
-Tippe einen Zombie in Jar Breaker an und bringe ihn mit Butter zum Würgen!
+Antippen, um einen einzelnen Zombie in Vasenbrecher einzubuttern!
 
 [POWERUP_VASEBREAKER_BUTTER_UNLOCK]
-Freischaltung durch Abschluss des Kung-Fu-Herausforderungspakets.
+Schließe zum Freischalten das Kongfu Herausforderung-Pack ab.
 
 [POWERUP_VASEBREAKER_MOVE]
-Bewege ein Glas.
+Vase bewegen
 
 [POWERUP_VASEBREAKER_MOVE_DESCRIPTION]
-Klicke im Glasbrecher, um ein Glas auszuwählen. Klicke erneut, um es an einer leeren Stelle zu positionieren!
+Tippe eine Vase an, um sie auszuwählen, und tippe dann erneut, um sie auf ein freies Feld zu versetzen!
 
 [POWERUP_VASEBREAKER_MOVE_UNLOCK]
 Freischaltung durch Abschluss von {ENDLESS_WAVE} Wellen im Endlosmodus.
 
 [POWERUP_VASEBREAKER_REVEAL]
-Glas ansehen
+Vase aufdecken
 
 [POWERUP_VASEBREAKER_REVEAL_DESCRIPTION]
-Benutze im Glasbrecher diesen Gegenstand, um den Inhalt eines Glases anzusehen!
+Tippe in Vasenbrecher eine Vase an, um ihren Inhalt aufzudecken!
 
 [POWERUP_VASEBREAKER_REVEAL_UNLOCK]
-Freischaltung durch Abschluss des Anfänger-Herausforderungspakets.
+Schließe zum Freischalten die Einführung ab.
+
 [PREMIUM_PLANT_QUEST_DESC]
 Teste Premium-Pflanzen und werde dafür belohnt!
 
@@ -35104,7 +35108,7 @@ Level Flammenblume (3)
 Gatlingerbse (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_PHATBEET_LV3_SUCCEED_CONTENT]
-Fette Beete (Stufe 3)
+Fette Bete (Stufe 3)
 
 [GEMS_RESTORE_CODE_RECHARGE_THYMEWARP_LV3_SUCCEED_CONTENT]
 Eigenthymian (Stufe 3)
