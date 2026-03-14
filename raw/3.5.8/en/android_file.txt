@@ -7359,65 +7359,70 @@ Aktualisierung fehlgeschlagen. Bitte versuchen Sie es später erneut.
 Die neuesten Daten wurden erfolgreich vom Server abgerufen. Bitte öffnen Sie das Spiel erneut, damit die Daten wirksam werden.
 
 [UPGRADE_7_SLOTS]
-Samenplatz +1
+Extra-Samenplatz
 
 [UPGRADE_8_SLOTS]
-Samenplatz +1
+Bonus-Samenplatz
 
 [UPGRADE_PF_REFRESH]
-Sofort auffüllen
+Sofort aufladen
 
 [UPGRADE_PF_REFRESH_INFO]
-Du kannst Spezialdünger verwenden, um Samenpäckchen sofort nutzbar zu machen.
+Ziehe Spezialdünger auf ein Samenpäckchen, um es sofort wieder einsatzbereit zu machen.
 
 [UPGRADE_PF_SLOT]
-Spezialdünger-platz erweitert
+Mehr Spezialdünger
 
 [UPGRADE_PF_SLOT_DESCRIPTION]
-Behalte einen weitere Spezialdünger in jedem Level!
-
+Du erhältst einen Extra-Platz für Spezialdünger während eines Levels!
 
 [UPGRADE_PRICE]
 %s
 
 [UPGRADE_SEEDSLOT]
-Zusätzlicher Samenbankplatz
+Extra-Samenplatz
 
 [UPGRADE_SEEDSLOT_DESCRIPTION]
-Pro Level kann eine weitere Pflanze ausgewählt werden.
+In jedem Lvl. eine weitere Pflanze wählen!
 
 [UPGRADE_SHOVEL_1]
-Belohnende Sonnenscheinschaufel
+Schaufel-Bonus
 
 [UPGRADE_SHOVEL_2]
-Verbesserte Sonnenscheinschaufel
+Schaufel-Extra
 
 [UPGRADE_SHOVEL_3]
-Ertragreiche Sonnenscheinschaufel
+Schaufel-Vorteil
 
 [UPGRADE_SHOVEL_DESCRIPTION]
-25% mehr Sonnenschein nach dem Ausgraben von Pflanzen
+Erhalte 25 % der Sonnenkosten zurück, wenn du Pflanzen ausgräbst!
 
 [UPGRADE_STARTING_SUN]
-Verbesserter Sonnenschein beim Start
+Extra-Sonnen
 
 [UPGRADE_STARTING_SUN_1]
-Verbesserter Sonnenschein beim Start
+Sonnen-Bonus
+
+[UPGRADE_STARTING_SUN_1_INFO]
+Starte das Spiel mit 25 Extra-Sonnen!
 
 [UPGRADE_STARTING_SUN_2]
-Verbesserter Sonnenschein beim Start
+Extra-Sonnen
+
+[UPGRADE_STARTING_SUN_2_INFO]
+Starte das Spiel mit 25 Extra-Sonnen!
 
 [UPGRADE_STARTING_SUN_DESCRIPTION]
-25 mehr Sonnenschein beim Start eines Levels!
+Starte das Spiel mit 25 Extra-Sonnen!
 
 [UPGRADE_WALLNUT_FIRSTAID]
-Walnussverbandskasten
+Wall-Nuss-Verbandskasten
 
 [UPGRADE_WALLNUT_FIRSTAID_INFO]
-Du kannst eine weitere Nuss auf eine beschädigte Nusspflanze pflanzen, um den Schaden zu entfernen.
+Einfach über beschädigten Verteidigungspflanzen pflanzen, und schon sind sie wie neu!
 
 [UPGRADES]
-Verbesserungen
+VERBESSERUNGEN
 
 [USER_ERROR_MESSAGE]
 Bitte gib deinen Benutzernamen ein, um einen neuen Benutzer zu erstellen. Deine besten Ergebnisse und dein Spielfortschritt werden gespeichert.
@@ -9368,58 +9373,58 @@ Schlüssel zum Big Wave Beach
 Holen Sie sich einen Schlüssel zum Big Wave Beach.
 
 [UPGRADE_6_SLOTS]
-Kann Pflanzen nutzen +1
+Bonus-Samenplatz
 
 [UPGRADE_6_SLOTS_INFO]
-Holen Sie sich einen zusätzlichen Kartenplatz, der Ihnen erlaubt, eine weitere Pflanze zu nutzen.
+Hiermit kannst du in jedem Level einen weiteren Pflanzentyp wählen!
 
 [UPGRADE_7_SLOTS_INFO]
-Holen Sie sich einen zusätzlichen Kartenplatz und nutzen Sie eine weitere Pflanze.
+Hiermit kannst du in jedem Level einen weiteren Pflanzentyp wählen!
 
 [UPGRADE_8_SLOTS_INFO]
-Holen Sie sich einen zusätzlichen Steckplatz und nutzen Sie eine weitere Pflanze.
+Hiermit kannst du in jedem Level einen weiteren Pflanzentyp wählen!
 
 [UPGRADE_SHOVEL_1_INFO]
-Verbessern Sie die Schaufel zu einer Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
+Erhalte 25% der Sonnenkosten zurück, wenn du Pflanzen ausgräbst!
 
 [UPGRADE_SHOVEL_2_INFO]
-Verbessern Sie die Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
+Erhalte 25% der Sonnenkosten zurück, wenn du Pflanzen ausgräbst!
 
 [UPGRADE_SHOVEL_3_INFO]
-Verbessern Sie die Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
+Erhalte 25% der Sonnenkosten zurück, wenn du Pflanzen ausgräbst!
 
 [UPGRADE_SHOVEL_4_INFO]
-Verbessern Sie die Sonnenschaufel. Wenn Sie Pflanzen schaufeln, erhalten Sie mehr Sonne.
+Erhalte 25% der Sonnenkosten zurück, wenn du Pflanzen ausgräbst!
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_1]
-Spezialdünger-Fähigkeit aufwerten
+Mehr Spezialdünger
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_1_INFO]
-Fügen Sie einen Spezialdünger-Fähigkeit-Kartensteckplatz hinzu.
+Du erhältst einen Extra-Platz für Spezialdünger während eines Levels!
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_2]
-Spezialdünger-Fähigkeit aufwerten
+Mehr Spezialdünger
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_2_INFO]
-Fügt einen Spezialdünger-Fähigkeit-Kartenplatz hinzu.
+Du erhältst einen Extra-Platz für Spezialdünger während eines Levels!
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_3]
-Spezialdünger-Fähigkeit aufwerten
+Mehr Spezialdünger
 
 [UPGRADE_PLANTFOOD_EXTRA_SLOT_3_INFO]
-Fügt einen Spezialdünger-Fähigkeit-Kartenplatz hinzu.
+Du erhältst einen Extra-Platz für Spezialdünger während eines Levels!
 
 [UPGRADE_STARTING_SUN_1_INFO]
-Kann zu Beginn eines Levels mehr Sonne tragen.
+Starte das Spiel mit 25 Extra-Sonnen!
 
 [UPGRADE_STARTING_SUN_2_INFO]
-Kann zu Beginn eines Levels mehr Sonne tragen.
+Starte das Spiel mit 25 Extra-Sonnen!
 
 [UPGRADE_STARTING_SUN_3_INFO]
-Kann zu Beginn eines Levels mehr Sonnenlicht tragen.
+Starte das Spiel mit 25 Extra-Sonnen!
 
 [UPGRADE_STARTING_SUN_4_INFO]
-Kann zu Beginn eines Levels mehr Sonnenlicht tragen.
+Starte das Spiel mit 25 Extra-Sonnen!
 
 [OBTAIN_MOWER]
 Hol dir einen Rasenmäher
@@ -9461,13 +9466,13 @@ Hol dir den Rasenmäher für den einfachen Modus in der Renaissance.
 Hol dir den Rasenmäher für den einfachen Modus in der Heian-Ära.
 
 [UPGRADE_TREASURE_YETI]
-Schatzschneemann freischalten
+Schatz-Yeti freischalten
 
 [UPGRADE_TREASURE_YETI_DESCRIPTION]
-Schatzschneemann freischalten
+Schatz-Yeti freischalten
 
 [UPGRADE_SHOVEL]
-Sonnenscheinschaufel
+Schaufel-Bonus
 
 [WORLDINFO_GOTO]
 Eintreten
@@ -12563,7 +12568,7 @@ Ich habe nicht genug Hämmer. Du kannst jetzt keine weiteren Hämmer durch Aufla
 {SAY:winnie}Weil der Detektor in der Nähe viel Sprengstoff gefunden hat, sei vorsichtig mit der brennenden Zündschnur!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL6_3]
-{SAY:crazydave}Wenn ich das ganze Feld mit gefrorenem Salat bepflanzen müsste, wäre das verrückt!
+{SAY:crazydave}Wenn ich das ganze Feld mit Eisbergsalaten bepflanzen müsste, wäre das verrückt!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL9_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Der Detektor hat die Entstehung eines Raum-Zeit-Schwarzen Lochs registriert!
@@ -33489,11 +33494,12 @@ Zombies werden poliert, Inhalt wird überprüft: {DOWNLOAD_PCT}%
 
 [UPDATED_WEEKLY]
 Wöchentliches Update
+
 [UPGRADE_MANUAL_MOWERS_1]
-Rasenmäher starten
+Rasenmäherstart
 
 [UPGRADE_MANUAL_MOWERS_DESCRIPTION_1]
-Tippen und halten, um einen Rasenmäher manuell zu starten!
+Starte durch Tippen und Halten manuell einen Rasenmäher!
 
 [VASEBREAKER_EGYPT_LEVEL_NAME]
 Ägyptischer Krugbrecher – Level {LEVEL_NUMBER}
@@ -82284,4 +82290,4 @@ Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END].
 
-[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]D]ESE_END]_END]_END]ESE_END]_END]_END]_END]ESE_END]_END]ND]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]_END]_END]
+[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]D]ESE_END]_END]_END]ESE_END]_END]_END]_END]ESE_END]_END]ND]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]_END]_END]D]
