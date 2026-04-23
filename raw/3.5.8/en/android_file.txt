@@ -13175,10 +13175,10 @@ Viele neue Kung-Fu-Zombies!
 {Aufgeregt} Ich weiß, er kann diese Waffenständer mit Feuer verbrennen!
 
 [FIREGOURD_TUTORIAL_1]
-Klicke bitte auf den Feuerkürbis, um Feuer zu versprühen.
+Tippe auf den Feuerkürbis, um Feuer zu versprühen.
 
 [FIREGOURD_TUTORIAL_2]
-Die Flamme des Feuerkürbisses kann den Waffenständer effektiv reinigen.
+Die Flamme des Feuerkürbisses kann den Waffenständer effektiv zerstören.
 
 [UPGRADE_KONGFU_COMING_SOON]
 Dr. Zomboss kommt bald!
@@ -13208,7 +13208,7 @@ Sprengfass – Tag {LEVEL_NUMBER}
 Schwarzes Loch – Tag {LEVEL_NUMBER}
 
 [STARCHALLENGE_RETAIN_BOMBS]
-Keine Sprengfässer explodieren lassen.
+Lass keine Sprengfässer explodieren.
 
 [STARCHALLENGE_RETAIN_BOMBS_NAME]
 Sprengfässer instand halten.
@@ -13220,15 +13220,13 @@ Das Schwarze Loch wird deine Pflanzen verschlingen!
 Sammle die Teile, um das Waffenregal zum Brennen zu bringen! Manchmal findest du die Teile im Wunschpool der täglichen Herausforderung.
 
 [AWARD_SCREEN_PIECE_FIREGOURD_TITLE]
-Feuerkürbisstück!
+Feuerkürbisteil!
 
 [AWARD_SCREEN_PIECE_GRAVEBUSTER_TITLE]
-Kiesbürstenstück!
+Grabfresserteil!
 
 [ADVICE_ENERGY_GRID_PLANT]
-Pflanze Pflanzen auf diesem Raster, um Spezialdünger-Fähigkeit zu ernten!
-
-Je teurer die Pflanze, desto schneller erntest du!
+Pflanze Pflanzen auf diesem Feld, um Spezialdünger zu ernten, die Geschwindigkeit hängt von den Sonnenkosten ab!
 
 [RESTART_LEVEL_USE_STAMINA]
 Möchtest du dieses Level wirklich neu starten?
@@ -13236,7 +13234,8 @@ Möchtest du dieses Level wirklich neu starten?
 Der Neustart erfordert etwas Ausdauer.
 
 [RETURN_TO_WORLD_MAP]
-Zurück zur großen Karte
+Zurück zur Weltkarte
+
 [ADVICE_BRONZE_GRID_TIME]
 Der nächste Bronzemann wird in {BRONZE_TIME_NUMBER} Sekunden geboren.
 
@@ -13391,10 +13390,10 @@ Verwandle dich in ein Auberginen-Kostüm
 Die Spezialdünger-Fähigkeit bietet die Chance, eine kleine Menge Goldmünzen zu generieren.
 
 [STORE_PRODUCT_AVATAR_POWERPLANT]
-Das Aussehen des Fliesenbodens verändert sich.
+Das Aussehen der Feldrübe verändert sich.
 
 [STORE_PRODUCT_AVATAR_GRAVEBUSTER]
-Die Grabsteinranke wird Erzeugt Sonnenlicht, nachdem der Grabstein gegessen wurde.
+Der Grabfresser wird Erzeugt Sonnenlicht, nachdem der Grabstein gegessen wurde.
 
 [STORE_PRODUCT_AVATAR_SUNFLOWER]
 Die Spezialdünger-Fähigkeit kann eine kleine Menge Goldmünzen generieren.
@@ -13466,10 +13465,10 @@ Spezialdünger-Fähigkeit lässt Eiswassermelone brennen!
 Die Spezialdünger-Fähigkeit spuckt einen großen Eisball zum Angriff aus.
 
 [STORE_PRODUCT_AVATAR_SPIKEWEED]
-Die Spezialdünger-Fähigkeit kann Zombies stechen und kurzzeitig Schwindel verursachen.
+Die Spezialdünger-Fähigkeit kann Zombies stechen und kurzzeitig Lähmung verursachen.
 
 [STORE_PRODUCT_AVATAR_SPIKEROCK]
-Die Spezialdünger-Fähigkeit kann Zombies stechen und Schwindel verursachen.
+Die Spezialdünger-Fähigkeit kann Zombies stechen und Lähmung verursachen.
 
 [STORE_PRODUCT_AVATAR_BAMBOO]
 Die Spezialdünger-Fähigkeit kann mehr Bambussprossen durchstechen.
@@ -13625,13 +13624,13 @@ Kohlkrugkostüm Fragment
 Frühlingsbohnen-Kostümfragment
 
 [AVATAR_PIECE_OF_WALLNUT]
-Kleine Nuss-Kostümfragment
+Wallnuss-Kostümfragment
 
 [AVATAR_PIECE_OF_TALLNUT]
-Große Nuss-Kostümfragment
+Hochwallnuss-Kostümfragment
 
 [AVATAR_PIECE_OF_REPEATER]
-Duplinatorn-Kostümfragment
+Duplinator-Kostümfragment
 
 [AVATAR_PIECE_OF_KERNELPULT]
 Kornapult-Kostümfragment
@@ -34304,7 +34303,7 @@ Erlebe das erfrischende Zeitreise-Event!
 Jage ihn und sichere dir tolle Belohnungen!
 
 [WORLDMAP_EVENT_YETI_TITLE]
-Finde den wilden Mann!
+Finde den Yeti!
 
 [ZEN_GARDEN_ALL_RARE]
 100% selten!
@@ -82290,4 +82289,4 @@ Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END].
 
-[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]D]ESE_END]_END]_END]ESE_END]_END]_END]_END]ESE_END]_END]ND]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]_END]_END]D]
+[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]D]ESE_END]_END]_END]ESE_END]_END]_END]_END]ESE_END]_END]ND]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]_END]_END]D]ND]D]D]ND]D]
