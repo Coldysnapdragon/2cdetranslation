@@ -5,6 +5,15 @@ Benutze die Kokosnusskanone, um die Zombie-Wichtkanone zu zerstören.
 [ACHIEVE_BROADSIDE_TITLE]
 Breitseitenkanone
 
+[ZOMBIE_GENERAL_TREADMILL_PHASE1]
+Ausdauer-Zombie
+
+[ZOMBIE_GENERAL_TREADMILL_PHASE1_DESCRIPTION]
+Der Ausdauer-Zombie legt großen Wert auf Gesundheit, Fitness und einen gesunden, fitten Lifestyle! Dafür verzichtet er auf Kohlenhydrate und setzt auf eine strenge, proteinreiche Hirn-Diät. Er findet, die anderen Zombies könnten sich ruhig mal etwas reinhängen. KEINE AUSREDEN!
+
+[ZOMBIE_GENERAL_TREADMILL_PHASE1_DESCRIPTION_HEADER]
+Rückt bis zu einem festgelegten Platz auf dem Spielfeld vor und wirft dann stärkende Hirne nach anderen Zombies, bis er verjagt wird oder sich von selbst zurückzieht.
+
 [ACHIEVE_COWBOY_STARS_DESC]
 Holt alle Wild-West-Sterne.
 
@@ -82289,4 +82298,4 @@ Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
 
 [PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END].
 
-[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]D]ESE_END]_END]_END]ESE_END]_END]_END]_END]ESE_END]_END]ND]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]_END]_END]D]ND]D]D]ND]D]
+[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]D]ESE_END]_END]_END]ESE_END]_END]_END]_END]ESE_END]_END]ND]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]_END]_END]D]ND]D]D]ND]D]D]
