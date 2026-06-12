@@ -18,13 +18,13 @@ Rückt bis zu einem festgelegten Platz auf dem Spielfeld vor und wirft dann stä
 Holt alle Wild-West-Sterne.
 
 [ZOMBIE_BOBSLED_PUNK]
-Der Bob-Zombie
+Zomboni
 
 [ZOMBIE_BOBSLED_PUNK_DESCRIPTION]
-Der Bob stirbt nie, er wird sogar immer beliebter! Der „Space Orc“, der das Album produziert hat, kehrt mit einer fließenden Fischfrisur und seinem coolsten neuen Gefährt zurück und sorgt für Furore! Er verwandelt deinen Rasen in eine Eisbahn schneller, als deine „gefrorenen“ Nerven reagieren können.
+Nicht zu verwechseln Mit einer Eisbearbeitungsmaschine der Marke Zamboni®. Zamboni® und die Abbildung der Eisbearbeitungsmaschine sind eingetragene Marken von Frank J. Zamboni & Co. Inc., und die Verwendung von "Zomboni" wurde gestattet. für all deine Bedürfnisse zum Thema Eisbearbeitung, die nichts mit Zombies zu tun haben, besuche www.zamboni.com!
 
 [ZOMBIE_BOBSLED_PUNK_DESCRIPTION_HEADER]
-Er überrollt Pflanzen auf dem Weg und hinterlässt eine Eisbahn hinter sich.
+Überrollt Pflanzen auf dem Weg und hinterlässt eine Eisbahn hinter sich. Diese Eisbahn kann Schlitten Zombies erscheinen lassen.
 
 [ZOMBIE_MAUSOLEUM_BASIC]
 Zombie-Soldat
