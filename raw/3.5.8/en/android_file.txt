@@ -23131,46 +23131,46 @@ Superblaue Fee
 Die Königin verwandelt sich in eine Blaue Fee und nutzt eine stärkere blaue Flamme.
 
 [MATCHFLOWER]
-Match Flower Boxer
+Zündholz Blume
 
 [MATCHFLOWER_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT} Sie entzündet sich im Kampf spontan und kann auch von anderen Pflanzen entzündet werden. Nach dem Feuer kann sie auch Erbsen entzünden.
 {KEYWORD}Pflanzeneigenschaften: {STAT}Rote Pflanze, voller Feuer, voller Wut
 
-{FLAVOR}Fackelstumpf möchte immer allen erzählen, dass Streichholzblume sein Nachkomme ist. Streichholzblume kann aber nicht nur Erbsen anzünden, sondern ist auch ein Krieger, der mit seinen Fäusten spricht – viel besser als Fackelstumpf, der nur mit seinem grimmigen Blick Feinde erschreckt.
+{FLAVOR}Zunderholz möchte immer allen erzählen, dass die Zündholz Blume seine billige Kopie ist.Die Zündholz Blume kann aber nicht nur Erbsen anzünden, sondern ist auch ein Krieger, der mit seinen Fäusten spricht – viel besser als das Zunderholz, der nur mit seinem grimmigen Blick Feinde erschreckt.
 
 [MATCHFLOWER_DESCRIPTION_HEADER]
-Greife den Gegner vor ihm an. Je stärker du auf das Feuer triffst, desto größer wird es. Außerdem kann es Erbsen anzünden, wenn es brennt.
+Greift den Gegner vor sich an.Außerdem kann sie Erbsen anzünden, wenn sie brennt.
 
 [MATCHFLOWER_PLANTFOOD]
-Verwandelt sich sofort in einen großen Feuerzustand und tötet kontinuierlich die Zombies in der Umgebung.
+Erhält sofort einen großen Feuerzustand und verursacht Schaden in der Umgebung.
 
 [MATCHFLOWER_TOOLTIP]
-greift an und fängt Feuer, Außerdem kann es Erbsen anzünden, wenn sie brennt.
+Greift an und fängt Feuer, Außerdem kann sie Erbsen anzünden, wenn sie brennt.
 
 [MATCHFLOWER_PRODUCT_SHORT_DESC]
-Match Flower Boxer greift den Gegner vor ihm an. Je stärker du auf das Feuer triffst, desto größer wird es. Außerdem kann es Erbsen anzünden, wenn es brennt.
+Die Zündholz Blume greift den Gegner vor sich an.Außerdem kann sis Erbsen anzünden, wenn sie brennt.
 
 [MATCHFLOWER_AVATAR_NAME]
-Match Flower Boxer Kostüm
+Zündholz Blume Kostüm
 
 [STORE_PRODUCT_AVATAR_MATCHFLOWER]
-Die Spezialdünger-Fähigkeit verwandelt sich sofort in einen großen Feuerzustand, der Zombies in der Umgebung kontinuierlich tötet und länger anhält.
+Mit der Spezialdünger-Fähigkeit erhält die Zündholz Blume sofort in einen großen Feuerzustand, der in der Umgebung großen Schaden zufügt und länger anhält.
 
 [STORE_PRODUCT_AVATAR_MATCHFLOWER_TITLE]
-Match Flower Boxer Kostüm
+Zündholz Blume Kostüm
 
 [MATCHFLOWER_SKILL_LEVEL1]
 Boxexpertise
 
 [MATCHFLOWER_SKILL_LEVEL1_DES]
-Match Flower kann sich mit weniger Angriffen selbst entzünden.
+Die Zündholz Blume kann sich mit weniger Angriffen selbst entzünden.
 
 [MATCHFLOWER_SKILL_LEVEL2]
 Blaue Wut
 
 [MATCHFLOWER_SKILL_LEVEL2_DES]
-Nach wiederholtem Training beherrschte Match Flower auch eine stärkere blaue Flamme.
+Nach wiederholtem Training beherrscht die Zündholz Blume nun auch eine stärkere blaue Flamme.
 
 [MATCHFLOWER_SKILL_LEVEL5]
 Explosive Faust
@@ -60835,6 +60835,7 @@ Goldmagnet
 
 [GOLDMAGNET_DESCRIPTION]
 {KEYWORD} Pflanzenmerkmale: {STAT} Goldfarbene Pflanze
+
 {FLAVOR} Goldmagnet: „Wie kann ich mein Leben hier einfach so verschwenden?“ „ Ich habe doch früher im Büro gesessen und hatte meine Sozialleistungen, Aktien und Termingeschäfte. Und jetzt? Jetzt hocke ich hier in dieser verdammten Grasecke und riskiere jeden Moment, von Zombies zerfleischt zu werden! Oh – Moment mal, da ist ja eine Münze! Ich liebe MÜNZEN“
 
 [GOLDMAGNET_DESCRIPTION_HEADER]
@@ -60863,6 +60864,7 @@ Feuert Zauber auf Zombies ab und kann Geister attackieren.
 [EXORCISLILY_DESCRIPTION]
 {KEYWORD}Eigenschaft: {STAT}Feuert Zauber auf Zombies ab
 {KEYWORD}Pflanzenmerkmal: {STAT}Rote Pflanze, sieht böse aus, ist aber gutherzig
+
 {FLAVOR} Zhong Kui-Lilie behauptet stets, ein ernsthafter Kalligraph zu sein, doch die Zombies interessieren sich überhaupt nicht für seine Pinselstriche – sie empfinden es lediglich als unangenehm, wenn diese gelben Zettel auf ihre Stirn geklebt werden, da es so stark brennt, dass sie die Augen kaum öffnen können.
 
 [EXORCISLILY_TOOLTIP]
@@ -60906,19 +60908,67 @@ Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, direkt die Spezialdünger
 Bei jedem Angriff wird zusätzlich ein Zauber auf den Zombie gewirkt, der sich am nächsten rechts von der Pflanze befindet.
 
 [STORE_PRODUCT_AVATAR_EXORCISLILY_TITLE]
-Zhong Kui-Lilie-Outfit
+Der Gelehrte Zhong Kui
 
 [STORE_PRODUCT_AVATAR_EXORCISLILY]
 Wirft außerdem einen „Zerbrich-die-Täuschung“-Zauber auf alle verbündeten Pflanzen auf dem Spielfeld, die unter Kontrolle stehen, um deren negative Kontrolleffekte aufzuheben.
 
 [EXORCISLILY_AVATAR_NAME]
-Zhong Kui-Lilie-Skin
+Der Gelehrte
 
 [EXORCISLILY_PLANTFOOD_DESCRIPTION]
 Lässt 5 Zombies auf dem Spielfeld 5 Sekunden lang schweben und tötet sie mit einer Wahrscheinlichkeit von 25% sofort.
 
 [EXORCISLILY_AVATAR_PLANTFOOD_DESCRIPTION]
 Außerdem wirft er einen „Brechen-der-Illusion“-Zauber auf alle verbündeten Pflanzen im Spielfeld, die unter Kontrolle stehen, und hebt deren negative Kontrolleffekte auf.
+
+[GLOOMBARA]
+Höllen Wildfeige
+
+[GLOOMBARA_DESCRIPTION]
+{KEYWORD}Anwendung: {STAT}Einmalige Anwendung, sofort wirksam
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze
+
+{FLAVOR}Die Höllen Wildfeige ist eine begeisterte Anhängerin von „Atmosphäre“. „Ob man gegen Zombies gewinnen kann, ist eine andere Frage, aber die Effekte beim Auftritt müssen einfach wunderschön sein!“ Für diesen 20-sekündigen exklusiven Filter hat sie sich sogar extra für einen Crashkurs in Film- und Fernseh-Spezialeffekten angemeldet.
+
+[GLOOMBARA_DESCRIPTION_HEADER]
+Öffnet das Tor zur Geisterwelt, verstärkt die Pflanzen der Geisterwelt und fesselt alle Geister-Zombies im gesamten Bereich mit Ketten.
+
+[GLOOMBARA_PLANTFOOD]
+Diese Pflanze verfügt über keine Spezialdünger-Fähigkeit.
+
+[GLOOMBARA_TOOLTIP]
+Öffnet das Tor zur Geisterwelt, verstärkt die Pflanzen der Geisterwelt und fesselt alle Geister-Zombies auf dem Spielfeld mit Ketten.
+
+[GLOOMBARA_SKILL_LEVEL1]
+Geisterbeschwörung
+
+[GLOOMBARA_SKILL_LEVEL1_DES]
+Die Dauer der Kettenfesselung der Zombies wird auf 8,5 Sekunden erhöht.
+
+[GLOOMBARA_SKILL_LEVEL2]
+Geisterbeschwörung
+
+[GLOOMBARA_SKILL_LEVEL2_DES]
+Die Dauer der Fesselung der Geisterzombies wird auf 10 Sekunden erhöht.
+
+[GLOOMBARA_PRODUCT_SHORT_DESC]
+Öffnet das Tor zur Geisterwelt, verstärkt die Pflanzen der Geisterwelt und fesselt alle Geisterzombies auf dem Spielfeld mit Ketten.
+
+[GLOOMBARA_NEW_SKILL_LEVEL1_DES]
+Nach dem Pflanzen entfaltet sich sofort eine Geisterwelt, die 20 Sekunden lang anhält, und gleichzeitig werden alle Geisterzombies auf dem gesamten Rasen für 7 Sekunden mit Ketten gefesselt.
+
+[GLOOMBARA_NEW_SKILL_LEVEL2_DES]
+Die Dauer der Kettenfesselung der Zombies wird auf 8,5 Sekunden erhöht.
+
+[GLOOMBARA_NEW_SKILL_LEVEL3_DES]
+Die Dauer der Kettenfesselung der Zombies wird auf 10 Sekunden erhöht.
+
+[GLOOMBARA_PLANTFOOD_DESCRIPTION]
+Diese Pflanze verfügt über keine Spezialdünger-Fähigkeit.
+
+[GLOOMBARA_AVATAR_PLANTFOOD_DESCRIPTION]
+Diese Pflanze verfügt über keine Spezialdünger-Fähigkeit.
 
 [GLOOMBARA_AVATAR_NAME]
 Gloombara-Outfit
@@ -60938,6 +60988,7 @@ Kann nach rechts laufen und dabei Zombies angreifen sowie Sonnenlicht produziere
 [SUNFLOWERZOMBIE_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT}Kann nach rechts laufen und dabei Zombies angreifen sowie Sonnenlicht produzieren
 {KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze
+
 {FLAVOR}Ein Zombie, der sich als Sonnenblume tarnt.
 
 [SUNFLOWERZOMBIE_TOOLTIP]
@@ -60970,6 +61021,7 @@ Hält Zombies auf, maximal 1 Geisterzombie
 [DOOMBELL_DESCRIPTION]
 {KEYWORD}Eigenschaft: {STAT}Hält Geisterzombies auf
 {KEYWORD}Pflanzenmerkmal: {STAT}Braune Pflanze
+
 {FLAVOR}Warum halten ausgerechnet die Geisterzombies, die Kollisionen normalerweise ignorieren, an und beißen wie wild auf die Glocke aus Ruheholz ein? Nach eingehender Untersuchung lautet die Schlussfolgerung: Es liegt nicht daran, dass sein Glockenton die Seelen so sehr reinigt, sondern daran, dass seine verstimmte, tieffrequente Resonanz einfach zu sehr nach „mit den Fingernägeln wie wild über eine Tafel kratzen“ klingt.
 
 [DOOMBELL_TOOLTIP]
@@ -71690,6 +71742,9 @@ Eis
 [PLANT_TAG_37]
 Magie
 
+[PLANT_TAG_38]
+Geisterwelt
+
 [PLANT_TAG_35]
 Gift
 
@@ -75654,19 +75709,19 @@ Die Engelssternfrucht dreht sich und schleudert 45 große Sterne mit der doppelt
 Die Engelssternfrucht dreht sich und schleudert 45 große Sterne in fünf Richtungen. ^ff0000^ Bei jedem Abschuss besteht eine 35%ige Chance, einen großen roten oder blauen Stern mit der doppelten Angriffskraft abzufeuern. ^oldclr^
 
 [MATCHFLOWER_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie ein Feld rechts von der Streichholzblume, führt die Streichholzblume pro Runde eine Kombination aus drei geraden Schlägen und einem Aufwärtshaken aus. Der Aufwärtshaken verursacht doppelten Schaden. Nach 18 Schlägen entzündet sich die Streichholzblume selbst und kann vorbeifliegende Erbsen entzünden. Nach weiteren 18 Schlägen brennt die Streichholzblume stärker und erhält einen Angriffskraftbonus von 300%. Greift die Streichholzblume nicht innerhalb von 18 Sekunden an, verringert sich ihre Brennintensität.
+Erscheint ein Zombie ein Feld rechts von der Zündholz Blume, führt die Zündholz Blume pro Runde eine Kombination aus drei geraden Schlägen und einem Aufwärtshaken aus. Der Aufwärtshaken verursacht doppelten Schaden. Nach 18 Schlägen entzündet sich die Zündholz Blume selbst und kann vorbeifliegende Erbsen entzünden. Nach weiteren 18 Schlägen brennt die Zündholz Blume stärker und erhält einen Angriffskraftbonus von 300%. Greift die Zündholz Blume nicht innerhalb von 18 Sekunden an, verringert sich ihre Brennintensität.
 
 [MATCHFLOWER_NEW_SKILL_LEVEL2_DES]
-Nach 6 Schlägen kann die Streichholzblume ihre Form ändern.
+Nach 6 Schlägen kann die Zündholz Blume ihre Form ändern.
 
 [MATCHFLOWER_NEW_SKILL_LEVEL3_DES]
-Mit zunehmender Angriffskraft färben sich die Flammen der Streichholzblume blau.
+Mit zunehmender Angriffskraft färben sich die Flammen der Zündholz Blume blau.
 
 [MATCHFLOWER_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [MATCHFLOWER_NEW_SKILL_LEVEL5_DES]
-Wenn der Match-FLOWER-Boxer angreift, besteht eine 25%ige Wahrscheinlichkeit, einen explosiven Schlag mit 135 Schadenspunkten auszulösen.
+Wenn die Zündholz Blume angreift, besteht eine 25%ige Wahrscheinlichkeit, einen explosiven Schlag mit 135 Schadenspunkten auszulösen.
 
 [MATCHFLOWER_PLANTFOOD_DESCRIPTION]
 Verbrennt sofort in die dritte Form und verursacht Schaden im 3×3-Bereich um sich selbst.
@@ -75677,14 +75732,11 @@ Verbrennt sofort in die dritte Form und verursacht ^ff0000^ enormen Schaden im 3
 [FLAMELADY_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie drei Felder rechts von der Flammenblumenkönigin erscheint, wirft die Flammenblumenkönigin einen Feuerball, um den Zombie anzugreifen. Betritt der Zombie den drei Felder großen Bereich rechts von der Flammenblumenkönigin, spuckt die Flammenblumenkönigin eine drei Felder lange Flamme aus, die den Boden verbrennt und dem Zombie Schaden zufügt.
 
-
 [FLAMELADY_NEW_SKILL_LEVEL2_DES]
 Die Länge der von der Flammenblumenkönigin freigesetzten Bodenflamme erhöht sich auf fünf Felder.
 
-
 [FLAMELADY_NEW_SKILL_LEVEL3_DES]
 Die Flamme wird blau und die Angriffskraft erhöht sich.
-
 
 [FLAMELADY_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt freizusetzen.
