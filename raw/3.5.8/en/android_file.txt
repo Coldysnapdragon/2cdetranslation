@@ -215,6 +215,24 @@ In regelmäßigen Abständen saugt der Elite-Zombie-Hofnarr alle Projektile auf 
 [ELITE_ZOMBIE_TIPS_TEXT_DARK_JUGGLER_ELITE]
 ^573701^Nach speziellem Training immun gegen Kontrolle, Verwandlung und Sofort-Tod^oldclr^
 
+[ZOMBIE_WITCH]
+Die Schreckenshexe
+
+[ZOMBIE_WITCH_DESCRIPTION]
+Eine böse alte Zombie-Hexe, die das ganze Jahr über in ihrem Haus seltsame Tränke braut, um in der Halloween-Nacht ihre Pläne zu verwirklichen und alle Pflanzen in den Schatten ihrer Tränke zu hüllen!
+
+[ZOMBIE_WITCH_DESCRIPTION_HEADER]
+Ihre rasante Geschwindigkeit macht sie fast untreffbar – vielleicht kann eine Hochwall-Nuss sie aufhalten!
+
+[ZOMBIE_PUMPKIN_HOUSE_GHOST]
+Kürbiskopf-Geist
+
+[ZOMBIE_PUMPKIN_HOUSE_GHOST_DESCRIPTION]
+Ein Zombie, der nach dem Betreten des Kürbishauses einen verzauberten Kürbiskopf aufgesetzt hat. Sein gesamter Körper wurde in den Kürbiskopf gesaugt, nur sein Kopf ist noch real.
+
+[ZOMBIE_PUMPKIN_HOUSE_GHOST_DESCRIPTION_HEADER]
+Der in der Luft schwebende Kürbiskopf-Geist fliegt direkt durch Pflanzen hindurch. Mit Wurfprojektilen kannst du den Kürbis zerschlagen, damit er seine ursprüngliche Form wiedererlangt.
+
 [ZOMBIE_SLED_PUNK]
 Schlitten Zombies
 
@@ -60657,13 +60675,25 @@ Ein Geist, verwandelt aus der Seele eines Zombies. Er kam auf die Welt, nachdem 
 [ZOMBIE_PUMPKIN_KNIGHT_GHOST_DESCRIPTION_HEADER]
 Der vom Kürbisritter beschworene Geisterzombie befindet sich in einem geistigen Zustand, der nicht angegriffen werden kann, wenn keine Pflanzen in der Nähe sind. Er fliegt zur nächsten Pflanze und explodiert.
 
+[ZOMBIE_ZOMBOSS_TEAMBOSS]
+Das dröhnende Neujahrsmonster
+
+[ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION]
+Dr. Zomboss erfuhr aus einem alten Buch mit dem Titel „Die geheimnisvollen Gewohnheiten der geheimnisvollen Monster des geheimnisvollen Orients“ von der Existenz dieser mysteriösen Kreatur, dem „Neujahresmonster“. Davon inspiriert hat er diesen „dröhnenden – absolut sensationellen Neujahrs-Monster-Mech“ (kurz: Dröhnendes Neujahrsmonster) erschaffen.
+Warum er ihn mit so vielen seltsamen und skurrilen Waffen ausgestattet hat?
+„Das geht dich nichts an, es ist einfach geheimnisvoll!!!“ – Dr. Zomboss
+Jetzt will er mit dem Dröhnenden Neujahresmonster in Daves Haus eindringen, um den verhassten Pflanzen und Dave „Neujahrswünsche“ zu überbringen!
+
+[ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION_HEADER]
+Ein riesiger Mech, den Dr. Zomboss, inspiriert von einem alten Buch und kombiniert mit etwas verrücktem Genie, erschaffen hat.
+
 [ZOMBIE_PUMPKIN_SCARECROW_BIRD]
 Zombie-Krähe
 
 [ZOMBIE_PUMPKIN_SCARECROW_BIRD_DESCRIPTION]
 {KEYWORD}Funktionen:{STAT}Kann zu Pflanzen in anderen Reihen fliegen und sie stehlen.
 
-{FLAVOR}Zombie-Krähe, die eine besondere Vorliebe für Kürbis-Vogelscheuchen hatte. Sie bietet nicht nur einen leicht hellen Lebensraum, sondern auch Futter. Wer mag das nicht? Wenn eine Pflanze die Vogelscheuche beschädigt, rächt sie sich!
+{FLAVOR}Zombie-Krähe, die eine besondere Vorliebe für Kürbis-Vogelscheuchen hat. Sie bietet nicht nur einen leicht hellen Lebensraum, sondern auch Futter. Wer mag das nicht? Wenn eine Pflanze die Vogelscheuche beschädigt, rächt sie sich!
 
 [ZOMBIE_PUMPKIN_SCARECROW_BIRD_DESCRIPTION_HEADER]
 Die Zombie-Krähe, die auf der Vogelscheuche sitzt, stiehlt eine deiner Pflanzen, nachdem sie von der Vogelscheuche weggeflogen ist.
@@ -60799,6 +60829,242 @@ Zombie-Zombie
 
 [ZOMBIE_CARNIE_MAGICIAN_ARTIFACT_DESCRIPTION_HEADER]
 Zombie-Zombie
+
+[GOLDMAGNET]
+Goldmagnet
+
+[GOLDMAGNET_DESCRIPTION]
+{KEYWORD} Pflanzenmerkmale: {STAT} Goldfarbene Pflanze
+{FLAVOR} Goldmagnet: „Wie kann ich mein Leben hier einfach so verschwenden?“ „ Ich habe doch früher im Büro gesessen und hatte meine Sozialleistungen, Aktien und Termingeschäfte. Und jetzt? Jetzt hocke ich hier in dieser verdammten Grasecke und riskiere jeden Moment, von Zombies zerfleischt zu werden! Oh – Moment mal, da ist ja eine Münze! Ich liebe MÜNZEN“
+
+[GOLDMAGNET_DESCRIPTION_HEADER]
+Saugt Metall Rüstungen sowie heruntergefallene Silber- und Goldmünzen auf.
+
+[GOLDMAGNET_TOOLTIP]
+Sammelt Metallrüstungen von Zombies sowie heruntergefallene Silber- und Goldmünzen auf.
+
+[GOLDMAGNET_PRODUCT_SHORT_DESC]
+Sammelt Metallrüstungen von Zombies sowie heruntergefallene Silber- und Goldmünzen
+
+[GOLDMAGNET_PRODUCT_SHORT_DESC]
+Sammelt Metallrüstungen von Zombies sowie heruntergefallene Silber- und Goldmünzen
+
+[STORE_PRODUCT_AVATAR_GOLDMAGNET]
+Schmelzt alle gesammelten Goldmünzen und Rüstungen zu einer riesigen Goldmünze zusammen, die in einer geraden Linie vorwärts rollt, allen Zombies auf ihrem Weg Quetschschaden zufügt und kleine bis mittelgroße Zombies auf ihrem Weg mitzieht.
+
+[STORE_PRODUCT_AVATAR_GOLDMAGNET_TITLE]
+Goldmagnet-Outfit
+
+[EXORCISLILY]
+Zhong Kui-Lilie
+
+[EXORCISLILY_DESCRIPTION_HEADER]
+Feuert Zauber auf Zombies ab und kann Geister attackieren.
+[EXORCISLILY_DESCRIPTION]
+{KEYWORD}Eigenschaft: {STAT}Feuert Zauber auf Zombies ab
+{KEYWORD}Pflanzenmerkmal: {STAT}Rote Pflanze, sieht böse aus, ist aber gutherzig
+{FLAVOR} Zhong Kui-Lilie behauptet stets, ein ernsthafter Kalligraph zu sein, doch die Zombies interessieren sich überhaupt nicht für seine Pinselstriche – sie empfinden es lediglich als unangenehm, wenn diese gelben Zettel auf ihre Stirn geklebt werden, da es so stark brennt, dass sie die Augen kaum öffnen können.
+
+[EXORCISLILY_TOOLTIP]
+Feuert Zauberkarten gegen Zombies und kann Geister attackieren.
+
+[EXORCISLILY_SKILL_LEVEL1]
+Schrumpfzauber
+
+[EXORCISLILY_SKILL_LEVEL1_DES]
+Bei einem Angriff besteht eine Wahrscheinlichkeit von 15%, einen „Schrumpfzauber“ abzufeuern. Die Zombies im Einsatz schrumpfen und erhalten einen 20-prozentigen Verwundbarkeitsbonus (Dauer: 3 Sekunden).
+
+[EXORCISLILY_SKILL_LEVEL2]
+Meisterhaftes Zeichnen von Zaubersymbolen
+
+[EXORCISLILY_SKILL_LEVEL2_DES]
+Die Auslösewahrscheinlichkeit des „Schrumpfzaubers“ wird auf 30% erhöht.
+
+[EXORCISLILY_SKILL_LEVEL5]
+Mehrere Zauber
+
+[EXORCISLILY_SKILL_LEVEL5_DES]
+Bei jedem Angriff wird zusätzlich ein Zauber auf den Gegner gewirkt, der der Pflanze am nächsten rechts steht.
+
+[EXORCISLILY_SUPERSKILL_DES]
+Wirft fünf Blitzzauber auf zufällig ausgewählte 5 Zombies auf dem Spielfeld. Trifft der Zauber, wird der Ziel-Zombie sofort für 2 Sekunden betäubt; anschließend wird an der Position des Zombies ein Blitz herabgerufen, der allen Zombies im kreisförmigen Bereich sofort 300 Schaden zufügt.
+
+[EXORCISLILY_NEW_SKILL_LEVEL1_DES]
+Alle 3 Sekunden wird ein Talisman in gerader Linie abgefeuert, der 30 Schaden verursacht.
+In der Geisterwelt wird der normale Angriff durch einen Unterwelt-Feuertalisman ersetzt. Trifft dieser einen Zombie, entsteht am Zielort eine Flammenexplosion im Umkreis von 3x3, die allen Zombies in diesem Bereich 30 Schaden zufügt.
+
+[EXORCISLILY_NEW_SKILL_LEVEL2_DES]
+Bei Angriffen besteht eine Wahrscheinlichkeit von 15%, einen „Schrumpfzauber“ abzufeuern. Der getroffene Zombie schrumpft und erhält einen 20-prozentigen Verwundbarkeitsbonus (Dauer: 3 Sekunden).
+
+[EXORCISLILY_NEW_SKILL_LEVEL3_DES]
+Die Auslösewahrscheinlichkeit des „Schrumpfzaubers“ wird auf 30% erhöht.
+
+[EXORCISLILY_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine geringe Wahrscheinlichkeit, direkt die Spezialdünger-Fähigleit auszulösen.
+
+[EXORCISLILY_NEW_SKILL_LEVEL5_DES]
+Bei jedem Angriff wird zusätzlich ein Zauber auf den Zombie gewirkt, der sich am nächsten rechts von der Pflanze befindet.
+
+[STORE_PRODUCT_AVATAR_EXORCISLILY_TITLE]
+Zhong Kui-Lilie-Outfit
+
+[STORE_PRODUCT_AVATAR_EXORCISLILY]
+Wirft außerdem einen „Zerbrich-die-Täuschung“-Zauber auf alle verbündeten Pflanzen auf dem Spielfeld, die unter Kontrolle stehen, um deren negative Kontrolleffekte aufzuheben.
+
+[EXORCISLILY_AVATAR_NAME]
+Zhong Kui-Lilie-Skin
+
+[EXORCISLILY_PLANTFOOD_DESCRIPTION]
+Lässt 5 Zombies auf dem Spielfeld 5 Sekunden lang schweben und tötet sie mit einer Wahrscheinlichkeit von 25% sofort.
+
+[EXORCISLILY_AVATAR_PLANTFOOD_DESCRIPTION]
+Außerdem wirft er einen „Brechen-der-Illusion“-Zauber auf alle verbündeten Pflanzen im Spielfeld, die unter Kontrolle stehen, und hebt deren negative Kontrolleffekte auf.
+
+[GLOOMBARA_AVATAR_NAME]
+Gloombara-Outfit
+
+[GLOOMBARA_PLANTFOOD_DESCRIPTION]
+Diese Pflanze verfügt über keine Spezialdünger-Fähigkeit
+
+[GLOOMBARA_AVATAR_PLANTFOOD_DESCRIPTION]
+Diese Pflanze verfügt über keine Spezialdünger-Fähigkeit
+
+[SUNFLOWERZOMBIE]
+Sonnenblumen-Zombie
+
+[SUNFLOWERZOMBIE_DESCRIPTION_HEADER]
+Kann nach rechts laufen und dabei Zombies angreifen sowie Sonnenlicht produzieren.
+
+[SUNFLOWERZOMBIE_DESCRIPTION]
+{KEYWORD}Eigenschaften: {STAT}Kann nach rechts laufen und dabei Zombies angreifen sowie Sonnenlicht produzieren
+{KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze
+{FLAVOR}Ein Zombie, der sich als Sonnenblume tarnt.
+
+[SUNFLOWERZOMBIE_TOOLTIP]
+Bewegt sich nach rechts und greift Zombies auf dem Weg an, produziert außerdem Sonnen.
+
+[SUNFLOWERZOMBIE_SKILL_LEVEL1]
+Produziert Sonnen
+
+[SUNFLOWERZOMBIE_SKILL_LEVEL1_DES]
+Bewegt sich nach dem Erscheinen nach rechts und greift Zombies auf dem Weg an; produziert alle 10 Sekunden Sonnenlicht
+
+[STORE_PRODUCT_AVATAR_SUNFLOWERZOMBIE]
+Keine Spezialdünger-Fähigkeit
+
+[STORE_PRODUCT_AVATAR_SUNFLOWERZOMBIE_TITLE]
+Keine Skins
+
+[SUNFLOWERZOMBIE_AVATAR_PLANTFOOD_DESCRIPTION]
+Keine Spezialdünger-Fähigkeit
+
+[SUNFLOWERZOMBIE_NEW_SKILL_LEVEL1_DES]
+Bewegt sich nach dem Erscheinen nach rechts und greift dabei Zombies an; produziert alle 10 Sekunden Sonnenlicht.
+
+[DOOMBELL]
+Glocke aus Ruheholz
+
+[DOOMBELL_DESCRIPTION_HEADER]
+Hält Zombies auf, maximal 1 Geisterzombie
+
+[DOOMBELL_DESCRIPTION]
+{KEYWORD}Eigenschaft: {STAT}Hält Geisterzombies auf
+{KEYWORD}Pflanzenmerkmal: {STAT}Braune Pflanze
+{FLAVOR}Warum halten ausgerechnet die Geisterzombies, die Kollisionen normalerweise ignorieren, an und beißen wie wild auf die Glocke aus Ruheholz ein? Nach eingehender Untersuchung lautet die Schlussfolgerung: Es liegt nicht daran, dass sein Glockenton die Seelen so sehr reinigt, sondern daran, dass seine verstimmte, tieffrequente Resonanz einfach zu sehr nach „mit den Fingernägeln wie wild über eine Tafel kratzen“ klingt.
+
+[DOOMBELL_TOOLTIP]
+Hält Zombies und Geisterzombies auf
+
+[DOOMBELL_SKILL_LEVEL1]
+Nachhall
+
+[DOOMBELL_SKILL_LEVEL1_DES]
+Die Lebenspunkte steigen auf 6000. Beim Tod wird ein starker, 3x3 Felder umfassender Totenglocken-Schallwellenimpuls ausgelöst, der alle Zombies in diesem Bereich 6 Sekunden lang betäubt.
+
+[DOOMBELL_SKILL_LEVEL2]
+Lang anhaltender Totenglockenschlag
+
+[DOOMBELL_SKILL_LEVEL2_DES]
+Die Lebenspunkte steigen auf 8000. Der beim Tod ausgelöste Totenglockenschlag-Effekt wird verstärkt, ^848484^Betäubung I^oldclr^und die Dauer auf 9 Sekunden erhöht.
+
+[DOOMBELL_SKILL_LEVEL5]
+Die gelbe Glocke wird zerstört
+
+[DOOMBELL_SKILL_LEVEL5_DES]
+Die Lebenspunkte steigen auf 12.000. Solange der Charakter nicht von einem Zombie gebissen wird, verstummt die Glocke aus Ruheholz und beginnt, Energie zu sammeln. Wenn die Energieerfassung länger als 7 Sekunden erfolgreich ist, wird beim nächsten Kontakt und Biss durch einen Zombie sofort eine heftige Erderschütterungswelle ausgelöst, die alle Zombies im Umkreis von 3x3 Feldern um den Charakter um 1 Feld zurückwirft.
+
+[DOOMBELL_SUPERSKILL_DES]
+Erhält einen Schutzschild aus Bronze mit 8000 Lebenspunkten.
+
+[DOOMBELL_NEW_SKILL_LEVEL1_DES]
+Alle 5 Sekunden schlägt die Glocke aus Ruheholz auf sich selbst und sendet eine Schallwelle mit einem Radius von 3x3 aus, die einen Geisterzombie im Wirkungsbereich provoziert, abfängt und abwehrt.
+In der Geisterwelt unterliegt die Glocke aus Ruheholz keiner Begrenzung der Anzahl der abgewehrten Gegner mehr und kann alle Geister-Zombies und normalen Zombies auf ihrem Weg abfangen und abwehren. Gleichzeitig provoziert sie kontinuierlich Geister-Zombies im 3x3-Bereich, diese anzugreifen, und regeneriert dabei selbst 100 Lebenspunkte pro Sekunde.
+
+[DOOMBELL_NEW_SKILL_LEVEL2_DES]
+Die Lebenspunkte steigen auf 6000. Beim Tod wird ein starker, 3x3 Felder großer Todesglockenschlag ausgesendet, der alle Zombies in diesem Bereich 6 Sekunden lang betäubt.
+
+[DOOMBELL_NEW_SKILL_LEVEL3_DES]
+Die Lebenspunkte steigen auf 8000. Der beim Tod ausgelöste Effekt der Totenglockenwelle wird verstärkt, ^848484^Betäubung I^oldclr^und die Dauer auf 9 Sekunden erhöht.
+
+[DOOMBELL_NEW_SKILL_LEVEL4_DES]
+Die Lebenspunkte steigen auf 10000. Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, dass direkt die Spezialdünger-Fähigkeit ausgelöst wird!
+
+[DOOMBELL_NEW_SKILL_LEVEL5_DES]
+Die Lebenspunkte steigen auf 12.000. Solange die Glocke aus Ruheholz nicht von einem Zombie gebissen wird, verstummt sie und beginnt, Energie zu sammeln. Wenn die Energieerfassung länger als 7 Sekunden erfolgreich ist, wird beim nächsten Kontakt und Biss durch einen Zombie sofort eine heftige Erderschütterungswelle ausgelöst, die alle Zombies im Umkreis von 3x3 Feldern um 1 Feld zurückwirft.
+
+[STORE_PRODUCT_AVATAR_DOOMBELL_TITLE]
+Glocke aus Ruheholz
+
+[STORE_PRODUCT_AVATAR_DOOMBELL]
+Erhalte einen silbernen Schutzschild mit 12.000 Lebenspunkten.
+
+[DOOMBELL_AVATAR_NAME]
+Glocke aus Ruheholz
+
+[DOOMBELL_PLANTFOOD_DESCRIPTION]
+Erhält einen Schild mit silberner Hülle und 8.000 Lebenspunkten.
+
+[DOOMBELL_AVATAR_PLANTFOOD_DESCRIPTION]
+Erhält einen Schild mit silberner Hülle und 12.000 Lebenspunkten
+
+[GOLDMAGNET_SKILL_LEVEL1]
+Effizientes Magnetfeld
+
+[GOLDMAGNET_SKILL_LEVEL1_DES]
+Die Zeit bis zur Zerstörung nach dem Absorbieren wird von 13 Sekunden auf 10 Sekunden verkürzt. Die Wahrscheinlichkeit, dass normale Angriffe „Kopf abziehen/Hand abtrennen“ auslösen, wird um 5% erhöht
+
+[GOLDMAGNET_SKILL_LEVEL2]
+Verstärkte Abstoßungskraft
+
+[GOLDMAGNET_SKILL_LEVEL2_DES]
+Die Abbauzeit nach dem Anziehen wird von 10 Sekunden auf 6 Sekunden verkürzt. Die Wahrscheinlichkeit, dass normale Angriffe „Kopf mitziehen/Hand abtrennen“ auslösen, wird um 5% erhöht und auf einmal alle 6 Sekunden verkürzt.
+
+[GOLDMAGNET_SKILL_LEVEL5]
+Magnetische Alchemie
+
+[GOLDMAGNET_SKILL_LEVEL5_DES]
+Wenn der Goldmagnet zum ersten Mal Münzen oder Rüstung absorbiert, erzeugt er ein Begleitobjekt [Münze]. Bei jeder weiteren Absorption eines Ziels erhöht sich die Ladungsstufe der [Münze] um 1. Wenn die Ladungsstufe 5 erreicht und ein Zombie vor ihm erscheint, wirft er die [Münze] und rollt langsam in einer geraden Linie, um eine ganze Reihe von Zombies zu überrollen und den berührten Zombies Schaden zuzufügen. Die Ladungsstufe wird auf Null zurückgesetzt.
+
+[GOLDMAGNET_NEW_SKILL_LEVEL1_DES]
+Saugt die Metallrüstung des nächstgelegenen Zombie's im Wirkungsbereich an. Nach dem Ansaugen dauert die Zerstörung 13 Sekunden; während dieser Zeit ist keine Bewegung möglich. Alle 2 Sekunden werden automatisch auf dem Bildschirm liegende Silber- und Goldmünzen angezogen und eingesammelt. Beim Absorbieren von Kopf-Rüstungen besteht eine Wahrscheinlichkeit von 5%, dass der Zombie-Kopf direkt mit abgesaugt wird. Beim Absorbieren von Hand-Rüstungen besteht eine Wahrscheinlichkeit von 10%, dass dem Zombie die Hand abgetrennt wird.
+
+[GOLDMAGNET_NEW_SKILL_LEVEL2_DES]
+Die Zersetzungszeit nach dem Absorbieren wird von 13 Sekunden auf 10 Sekunden verkürzt, die Wahrscheinlichkeit, dass normale Angriffe „Kopf mit absaugen/Hand abtrennen“ auslösen, wird um 5 % erhöht.
+
+[GOLDMAGNET_NEW_SKILL_LEVEL3_DES]
+Die Zersetzungszeit nach dem Absorbieren wird von 10 Sekunden auf 6 Sekunden verkürzt, die Wahrscheinlichkeit, dass normale Angriffe „Kopf mit absaugen/Hand abtrennen“ auslösen, wird um 5 % erhöht.
+
+[GOLDMAGNET_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, dass die Spezialfähigkeit sofort ausgelöst wird.
+
+[GOLDMAGNET_NEW_SKILL_LEVEL5_DES]
+Wenn der Goldmagnet zum ersten Mal Münzen oder Rüstungen absorbiert, erzeugt er begleitende [Münzen]. Bei jeder weiteren Absorption eines Ziels erhöht sich die Ladungsstufe der [Münzen] um 1. Wenn die Ladungsstufe 5 erreicht ist und ein Zombie vor ihm erscheint, wirft er die [Münze] und rollt langsam in einer geraden Linie, wobei er eine ganze Reihe von Zombies überrollt und den berührten Zombies Schaden zufügt. Die Ladungsstufe wird danach wieder auf 0 zurückgesetzt.
+
+[GOLDMAGNET_PLANTFOOD_DESCRIPTION]
+Saugt augenblicklich alle auf dem Spielfeld liegenden Münzen und bis zu 20 Metallrüstungen an.
+
+[GOLDMAGNET_AVATAR_PLANTFOOD_DESCRIPTION]
+Schmilzt alle absorbierten Goldmünzen und Rüstungen zu einer riesigen Goldmünze zusammen, die in einer geraden Linie vorwärts rollt, allen Zombies auf ihrem Weg Quetschschaden zufügt und kleine bis mittelgroße Zombies auf ihrem Weg mit sich zieht.
 
 [ZOMBIE_ZOMBIE_MONEYTREE]
 Neujahrs-Geldbaum-Zombie
