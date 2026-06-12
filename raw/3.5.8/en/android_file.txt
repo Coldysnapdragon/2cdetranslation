@@ -216,7 +216,7 @@ In regelmäßigen Abständen saugt der Elite-Zombie-Hofnarr alle Projektile auf 
 ^573701^Nach speziellem Training immun gegen Kontrolle, Verwandlung und Sofort-Tod^oldclr^
 
 [ZOMBIE_SLED_PUNK]
-Die Zombie-Schlitten-Truppe
+Schlitten Zombies
 
 [ZOMBIE_SLED_PUNK_DESCRIPTION]
 Schau dir diese Gehirn-Spezialeinheit an! Diese Zombie-Athleten sind durch Frost „zusammengefroren“ und verkörpern den Teamgeist „Keine Leichen zurücklassen, keine Leichen im Stich lassen“
@@ -234,7 +234,7 @@ Zombie-Übersetzer: „Die Firma ZCorp verschwendet ständig das Budget. Sie hab
 Überrollt die Pflanzen auf der Strecke und hinterlässt eine Eisbahn
 
 [ZOMBIE_SLED]
-Weihnachts-Schlitten-Zombie-Team
+Weihnachts-Schlitten
 
 [ZOMBIE_SLED_DESCRIPTION]
 Der Sponsor hat ein neues Schlittenmodell zum Thema Weihnachten vorbereitet. Aufgrund der schlechten Konjunktur in der Eisbahnbauindustrie und der hohen Verschleißrate bei diesem Zombie-Extremsport hat die Finanzabteilung von der Firma ZCorp jedoch starke Bedenken geäußert.
@@ -264,7 +264,7 @@ Bewegt sich schnell über die Eisbahn vom Zomboni und weicht Projektilen aus.
 Schneeball-Zombie
 
 [ZOMBIE_SNOW_BALLROLLER_DESCRIPTION]
-Der Schneeball wird immer größer – und Dr. Zombies Überstundenschuldschein immer länger –
+Der Schneeball wird immer größer – und Dr. Zomboss's Überstundenschuldschein immer länger –
 
 [ZOMBIE_SNOW_BALLROLLER_DESCRIPTION_HEADER]
 Rollt den Schneeball und zermalmt die Pflanzen auf dem Weg. Der Schneeball wird mit zunehmender Entfernung größer und kann nur von Feuerpflanzen beschädigt werden.
