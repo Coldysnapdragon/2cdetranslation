@@ -74923,6 +74923,72 @@ Die Transformationskanone zielt auf den Zombie rechts von ihr und feuert eine Ra
 [CARROTLAUNCHER_AVATAR_PLANTFOOD_DESCRIPTION]
 Die Transformationskanone zielt auf den Zombie rechts von ihr und feuert eine Rakete mit 2.000 Lebenspunkten ab. Nachdem die Rakete aufgefressen wurde, explodiert sie und verursacht Zombies im Umkreis von 3×3 Schaden.^ff0000^. ^oldclr^ Befindet sich eine Pflanze auf dem Zielfeld, explodiert die Rakete direkt und verursacht eine Explosion im Umkreis von 3×3.
 
+[APSARLOTUS]
+Glücksbringender Wolken-Lotus
+
+[APSARLOTUS_DESCRIPTION]
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanzen, Rosa Pflanzen
+
+{FLAVOR} Um diese halbtransparente Glückswolke aufrechtzuerhalten, verbraucht sie täglich eine erstaunliche Menge Sonnen, um die „Schwebegebühr“ zu bezahlen.
+
+[APSARLOTUS_DESCRIPTION_HEADER]
+Verstärkt die umgebenden Pflanzen und sorgt dafür, dass die Pflanzen vor ihr zu 100% beim Pflanzen Energiekörner freisetzen, jedoch kostet die Pflanze dann das doppelte.
+
+[APSARLOTUS_TOOLTIP]
+Verstärkt Pflanzen und lässt welche vor ihr zu 100% Dünger freisetzten für den doppelten Preis.
+
+[APSARLOTUS_PRODUCT_SHORT_DESC]
+Verstärkt Pflanzen und lässt welche vor ihr zu 100% Dünger freisetzten für den doppelten Preis.
+
+[APSARLOTUS_PRODUCT_SHORT_DESC]
+Verstärkt Pflanzen durch magische Kräfte.
+
+[STORE_PRODUCT_AVATAR_APSARLOTUS]
+【Glückverheißende Wolke】 wird verstärkt, die Dauer verlängert sich auf 15 Sekunden; außerdem sind die Pflanzen darauf immun gegen alle negativen Kontrolleffekte.
+
+[STORE_PRODUCT_AVATAR_APSARLOTUS_TITLE]
+Glücksbringender Wolken-Lotus
+
+[APSARLOTUS_SKILL_LEVEL1]
+Regenbogenkleid
+
+[APSARLOTUS_SKILL_LEVEL1_DES]
+Die Auslösekosten für die verstärkte Spezialattacke von „Himmelsniedergang“ werden gesenkt; der abgezogene Sonnenanteil wird von 200% auf 100% reduziert. Das Auslöseintervall von „Hu-Tanz“ wird auf alle 8 Sekunden verkürzt. Der Hu-Tanz verstärkt Pflanzen im 3x3 um sie.
+
+[APSARLOTUS_SKILL_LEVEL2]
+Reiner Gesang
+
+[APSARLOTUS_SKILL_LEVEL2_DES]
+Die Auslösekosten für die verstärkte Spezialattacke von „Himmelsniedergang“ wurden gesenkt; der abgezogene Sonnenlichtanteil wurde von 100% auf 50% reduziert. Das Auslöseintervall von „Huxuan-Tanz“ wurde verkürzt und beträgt nun alle 6 Sekunden.
+
+[APSARLOTUS_SKILL_LEVEL5]
+Wunder des fliegenden Himmels
+
+[APSARLOTUS_SKILL_LEVEL5_DES]
+Wenn die Pflanzen auf der Glückswolke ihre eigene zufällige Spezialdünger-Fähigkeit auslösen, reduziert der Glücksbringende Wolken-Lotus den Sonnenlichtverbrauch um 50% und löst sofort nahtlos erneut automatisch die Spezialdünger-Fähigkeit aus.
+
+[APSARLOTUS_NEW_SKILL_LEVEL1_DES]
+Erzeugt eine glückverheißende Wolke 1 Feld vor sich. Wenn du darauf eine Pflanze anpflanzt, ohne dass die  zufällige Spezialdünger-Fähigkeit ausgelöst wurde, verbraucht diese Pflanze 200% ihres Grundsonnenverbrauchs (mindestens 50 Sonnen), löst zwangsläufig die Spezialdünger-Fähigkeit aus und erhöht die Angriffskraft um 100%.
+【Wirbelnder Tanz】: Erhöht alle 10 Sekunden die Angriffsgeschwindigkeit der Pflanzen im Umkreis von 3x3 um 50% und die Angriffskraft um 20% für 5 Sekunden.
+
+[APSARLOTUS_NEW_SKILL_LEVEL2_DES]
+Die Kosten für die Auslösung der Glückswolke werden gesenkt; der abgezogene Sonnenanteil wird von 200% auf 100% reduziert. Das Auslöseintervall von 【Wirbelnder Tanz】 wird auf einmal alle 8 Sekunden verkürzt.
+
+[APSARLOTUS_NEW_SKILL_LEVEL3_DES]
+Die Kosten für die Auslösung von „Glückverheißende Wolke“ wurden gesenkt; der abgezogene Sonnenlichtanteil wurde von 100% auf 50% reduziert. Das Auslöseintervall von „Hu-Tanz“ wurde verkürzt und beträgt nun alle 6 Sekunden.
+
+[APSARLOTUS_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, dass die Spezialdünger-Fähigkeit direkt ausgelöst wird.
+
+[APSARLOTUS_NEW_SKILL_LEVEL5_DES]
+Wenn beim Pflanzen auf der Glückswolke die eigene zufällige Spezialdünger-Fähigkeit beim Aufsetzen ausgelöst wird, reduziert der Glücksbringende Wolken-Lotus den Sonnenlichtverbrauch um 50% und löst sofort nahtlos erneut automatisch die Spezialdünger-Fähigkeit aus.
+
+[APSARLOTUS_PLANTFOOD_DESCRIPTION]
+Erzeugt eine Glückswolke in einem 1x3-Feld vor dem Charakter, die 10 Sekunden lang anhält.
+
+[APSARLOTUS_AVATAR_PLANTFOOD_DESCRIPTION]
+Die Glückswolke wird verstärkt und ihre Dauer auf 15 Sekunden verlängert; Pflanzen auf der Glückswolke sind immun gegen alle negativen Kontrolleffekte.
+
 [PUFFSHROOM_NEW_SKILL_LEVEL1_DES]
 Wenn ein Zombie vier Felder rechts vom kleinen Pustepilz erscheint, feuert der kleine Pustepilz Sporen ab, um den Zombie anzugreifen. Nach 60 Sekunden verschwindet er automatisch.
 
