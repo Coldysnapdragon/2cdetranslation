@@ -61127,7 +61127,7 @@ Keine Spezialdünger-Fähigkeit
 Bewegt sich nach dem Erscheinen nach rechts und greift dabei Zombies an; produziert alle 10 Sekunden Sonnenlicht.
 
 [DOOMBELL]
-Glocke aus Ruheholz
+Sumatra-Benzoebaum Glocke
 
 [DOOMBELL_DESCRIPTION_HEADER]
 Hält Zombies auf, maximal 1 Geisterzombie
@@ -61136,7 +61136,7 @@ Hält Zombies auf, maximal 1 Geisterzombie
 {KEYWORD}Eigenschaft: {STAT}Hält Geisterzombies auf
 {KEYWORD}Pflanzenmerkmal: {STAT}Braune Pflanze
 
-{FLAVOR}Warum halten ausgerechnet die Geisterzombies, die Kollisionen normalerweise ignorieren, an und beißen wie wild auf die Glocke aus Ruheholz ein? Nach eingehender Untersuchung lautet die Schlussfolgerung: Es liegt nicht daran, dass sein Glockenton die Seelen so sehr reinigt, sondern daran, dass seine verstimmte, tieffrequente Resonanz einfach zu sehr nach „mit den Fingernägeln wie wild über eine Tafel kratzen“ klingt.
+{FLAVOR}Warum halten ausgerechnet die Geisterzombies, die Kollisionen normalerweise ignorieren, an und beißen wie wild auf dieSumatra-Benzoebaum Glocke ein? Nach eingehender Untersuchung lautet die Schlussfolgerung: Es liegt nicht daran, dass sein Glockenton die Seelen so sehr reinigt, sondern daran, dass seine verstimmte, tieffrequente Resonanz einfach zu sehr nach „mit den Fingernägeln wie wild über eine Tafel kratzen“ klingt.
 
 [DOOMBELL_TOOLTIP]
 Hält Zombies und Geisterzombies auf
@@ -61157,14 +61157,14 @@ Die Lebenspunkte steigen auf 8000. Der beim Tod ausgelöste Totenglockenschlag-E
 Die gelbe Glocke wird zerstört
 
 [DOOMBELL_SKILL_LEVEL5_DES]
-Die Lebenspunkte steigen auf 12.000. Solange der Charakter nicht von einem Zombie gebissen wird, verstummt die Glocke aus Ruheholz und beginnt, Energie zu sammeln. Wenn die Energieerfassung länger als 7 Sekunden erfolgreich ist, wird beim nächsten Kontakt und Biss durch einen Zombie sofort eine heftige Erderschütterungswelle ausgelöst, die alle Zombies im Umkreis von 3x3 Feldern um den Charakter um 1 Feld zurückwirft.
+Die Lebenspunkte steigen auf 12.000. Solange der Charakter nicht von einem Zombie gebissen wird, verstummt die Sumatra-Benzoebaum Glocke und beginnt, Energie zu sammeln. Wenn die Energieerfassung länger als 7 Sekunden erfolgreich ist, wird beim nächsten Kontakt und Biss durch einen Zombie sofort eine heftige Erderschütterungswelle ausgelöst, die alle Zombies im Umkreis von 3x3 Feldern um den Charakter um 1 Feld zurückwirft.
 
 [DOOMBELL_SUPERSKILL_DES]
 Erhält einen Schutzschild aus Bronze mit 8000 Lebenspunkten.
 
 [DOOMBELL_NEW_SKILL_LEVEL1_DES]
-Alle 5 Sekunden schlägt die Glocke aus Ruheholz auf sich selbst und sendet eine Schallwelle mit einem Radius von 3x3 aus, die einen Geisterzombie im Wirkungsbereich provoziert, abfängt und abwehrt.
-In der Geisterwelt unterliegt die Glocke aus Ruheholz keiner Begrenzung der Anzahl der abgewehrten Gegner mehr und kann alle Geister-Zombies und normalen Zombies auf ihrem Weg abfangen und abwehren. Gleichzeitig provoziert sie kontinuierlich Geister-Zombies im 3x3-Bereich, diese anzugreifen, und regeneriert dabei selbst 100 Lebenspunkte pro Sekunde.
+Alle 5 Sekunden schlägt die Sumatra-Benzoebaum Glocke auf sich selbst und sendet eine Schallwelle mit einem Radius von 3x3 aus, die einen Geisterzombie im Wirkungsbereich provoziert, abfängt und abwehrt.
+In der Geisterwelt unterliegt die Sumatra-Benzoebaum Glocke keiner Begrenzung der Anzahl der abgewehrten Gegner mehr und kann alle Geister-Zombies und normalen Zombies auf ihrem Weg abfangen und abwehren. Gleichzeitig provoziert sie kontinuierlich Geister-Zombies im 3x3-Bereich, diese anzugreifen, und regeneriert dabei selbst 100 Lebenspunkte pro Sekunde.
 
 [DOOMBELL_NEW_SKILL_LEVEL2_DES]
 Die Lebenspunkte steigen auf 6000. Beim Tod wird ein starker, 3x3 Felder großer Todesglockenschlag ausgesendet, der alle Zombies in diesem Bereich 6 Sekunden lang betäubt.
@@ -61176,16 +61176,16 @@ Die Lebenspunkte steigen auf 8000. Der beim Tod ausgelöste Effekt der Totengloc
 Die Lebenspunkte steigen auf 10000. Beim Einpflanzen besteht eine geringe Wahrscheinlichkeit, dass direkt die Spezialdünger-Fähigkeit ausgelöst wird!
 
 [DOOMBELL_NEW_SKILL_LEVEL5_DES]
-Die Lebenspunkte steigen auf 12.000. Solange die Glocke aus Ruheholz nicht von einem Zombie gebissen wird, verstummt sie und beginnt, Energie zu sammeln. Wenn die Energieerfassung länger als 7 Sekunden erfolgreich ist, wird beim nächsten Kontakt und Biss durch einen Zombie sofort eine heftige Erderschütterungswelle ausgelöst, die alle Zombies im Umkreis von 3x3 Feldern um 1 Feld zurückwirft.
+Die Lebenspunkte steigen auf 12.000. Solange die Sumatra-Benzoebaum Glocke nicht von einem Zombie gebissen wird, verstummt sie und beginnt, Energie zu sammeln. Wenn die Energieerfassung länger als 7 Sekunden erfolgreich ist, wird beim nächsten Kontakt und Biss durch einen Zombie sofort eine heftige Erderschütterungswelle ausgelöst, die alle Zombies im Umkreis von 3x3 Feldern um 1 Feld zurückwirft.
 
 [STORE_PRODUCT_AVATAR_DOOMBELL_TITLE]
-Glocke aus Ruheholz
+Sumatra-Benzoebaum Glocke
 
 [STORE_PRODUCT_AVATAR_DOOMBELL]
 Erhalte einen silbernen Schutzschild mit 12.000 Lebenspunkten.
 
 [DOOMBELL_AVATAR_NAME]
-Glocke aus Ruheholz
+Sumatra-Benzoebaum Glocke
 
 [DOOMBELL_PLANTFOOD_DESCRIPTION]
 Erhält einen Schild mit silberner Hülle und 8.000 Lebenspunkten.
