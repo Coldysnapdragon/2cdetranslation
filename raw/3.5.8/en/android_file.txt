@@ -4983,17 +4983,315 @@ Erweitert die Blätter und stößt alle kleinen und mittleren Zombies innerhalb 
 [UMBRELLALEAF_AVATAR_PLANTFOOD_DESCRIPTION]
 Die Spezialdünger-Fähigkeit wehrt nun auch Gargantua-Zombies ab.
 
+[LONGMALILY]
+Weißer Drachenlotus
+
+[LONGMALILY_DESCRIPTION_HEADER]
+Kann eigenständig angreifen oder zusammen mit Kiwis angebaut werden; nach dem gemeinsamen Anbau werden die Fähigkeiten beider Pflanzen verstärkt.
+Der Weiße Drachenlotus erhält einen stärkeren Angriff und die Kiwi erhält erhöhte Angriffsgeschwindigkeit.
+Wenn ein Weißer Drachenlotus auf einer Kiwi ist, können trotzdem Ranken darauf gepflanzt werden.
+
+[LONGMALILY_DESCRIPTION]
+{KEYWORD}Eigenschaften: {STAT}Kann eigenständig angreifen oder zusammen mit Kiwis angebaut werden; nach dem gemeinsamen Anbau werden die Fähigkeiten erheblich verstärkt
+{KEYWORD}Pflanzenmerkmale: {STAT}Fleischfarbene Pflanze
+
+{FLAVOR}Der Weiße Drachenlotus hat eine kleine Identitätskrise. „Bin ich ein Drache? Ein Pferd? Oder nur eine Blume?“ Das fragt er sich ständig. Früher hing er oft mit einem Mönch, einem Schwein und einem Affen herum, doch um ein ruhiges Leben zu führen, hat er sich auf den Rasen zurückgezogen. Nur bitte lasst ihn nie wieder Lasten tragen.
+
+[LONGMALILY_TOOLTIP]
+Kann eigenständig angreifen oder zusammen mit einer Kiwi gepflanzt werden; nach dem Zusammenpflanzen werden die Fähigkeiten beider Pflanzen verstärkt.
+
+[LONGMALILY_SKILL_LEVEL1]
+Doppelte Gestalt von Pferd und Drache
+
+[LONGMALILY_SKILL_LEVEL1_DES]
+Wenn der Weißer Drachenlotus einzeln gepflanzt wird, fügt er Zombies im Umkreis eines Feldes Schaden zu und schleudert sie kurz nach oben. Er kann zusammen mit der Kiwi gepflanzt werden, woraufhin er sich in eine Drachenform verwandelt und kreist. In diesem Zustand erhöht sich die Angriffskraft der Kiwi um 30% und die Angriffsgeschwindigkeit um 20%.
+
+[LONGMALILY_SKILL_LEVEL2]
+Schockwelle
+
+[LONGMALILY_SKILL_LEVEL2_DES]
+In der Pferde- und Drachenform besteht eine 20-prozentige Chance, dass sich der Explosionsradius des normalen Angriffs auf 3x3 vergrößert und zusätzlich 1 Sekunde lang Betäubung verursacht.
+
+[LONGMALILY_SKILL_LEVEL5]
+Erscheinung des wahren Drachen
+
+[LONGMALILY_SKILL_LEVEL5_DES]
+Der normale Angriff entwickelt sich zu einem weißen Drachenphantom, das alle Reihen durchdringt. Zombies, die auf dem Weg getroffen werden, lösen mit einer bestimmten Wahrscheinlichkeit eine Schockwelle aus (beim ersten Ziel wird dies zu 100% ausgelöst).
+
+[LONGMALILY_SUPERSKILL]
+Stabilisierender Nadel
+
+[LONGMALILY_SUPERSKILL_DES]
+Einzelziel: Sturzangriff auf einen 3x3-Bereich, der eine Eisfläche erzeugt, die die Zombies verlangsamt. Kombinationsfähigkeit: Verschmilzt mit der Kiwi und beschwört einen riesigen goldenen Stab, der den gesamten Bildschirm trifft, alle Zombies 6 Sekunden lang wegschleudert, betäubt sowie kleine und mittlere Zombies mit wenig Gesundheit direkt wegschleudert.
+
+[STORE_PRODUCT_AVATAR_LONGMALILY]
+Bei Aktivierung der Spezialdünger Fähigkeit entsteht eine zusätzliche Eis-Schockwelle, die alle Zombies 4 Sekunden lang einfriert.
+
+[LONGMALILY_NEW_SKILL_LEVEL1_DES]
+Wenn der Weiße Drachenlotus einzeln angebaut wird, verursacht sein normaler Angriff Risse, die Schaden in einem Feld verursachen und den Gegner kurzzeitig nach oben schleudern. Kann auf Kiwis gepflanzt werden, um sich in die Drachenform zu verwandeln und zu kreisen; dabei erhöht sich die Angriffskraft der Kiwis um 30% und die Angriffsgeschwindigkeit um 20%.
+
+[LONGMALILY_NEW_SKILL_LEVEL2_DES]
+In der Pferde- und Drachenform besteht eine 20-prozentige Chance, dass sich der Explosionsradius des normalen Angriffs auf 3x3 Felder erweitert und zusätzlich 1 Sekunde lang Betäubung verursacht.
+
+[LONGMALILY_NEW_SKILL_LEVEL3_DES]
+Die Wahrscheinlichkeit, dass die Explosion des normalen Angriffs in der Pferde- und Drachenform eine Betäubung verursacht, wird auf 40% erhöht.
+
+[LONGMALILY_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, dass die Spezialdünger-Fähigkeit direkt ausgelöst wird.
+
+[LONGMALILY_NEW_SKILL_LEVEL5_DES]
+Der normale Angriff entwickelt sich zum „Weißen-Drachen-Phantom“ und erhält die Fähigkeit, alle Reihen zu durchdringen. Wenn das Phantom auf seinem Weg Zombies berührt, wird der Schockwellen-Effekt separat ausgewertet (100% Auslösung beim ersten Ziel).
+
+[STORE_PRODUCT_AVATAR_LONGMALILY_TITLE]
+Weißer Drachenlotus Kostüm
+
+[LONGMALILY_AVATAR_NAME]
+Weißer Drachenlotus Kostüm
+
+[LONGMALILY_PLANTFOOD_DESCRIPTION]
+Bei Aktivierung der Spezialdünger Fähigkeit wird eine zusätzliche Eis-Schockwelle erzeugt, die alle Zombies auf dem Bildschirm für 4 Sekunden einfriert.
+
+[LONGMALILY_AVATAR_PLANTFOOD_DESCRIPTION]
+Bei Aktivierung der Spezialdünger Fähigkeit wird eine zusätzliche Eis-Schockwelle erzeugt, die alle Zombies auf dem Bildschirm für 4 Sekunden einfriert. 
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LONGMALILY_1]
+Einteilige Rüstung
+
+[NEW_AVATAR_DESCRIPTION_LONGMALILY_1]
+10% weniger Abkühlzeit 
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEONYCHI_2]
+Dienstmädchen-Outfit
+
+[NEW_AVATAR_DESCRIPTION_PEONYCHI_2]
+20% weniger Abklingzeit
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEONYCHI_3]
+Dienstmädchen – Glitzer-Outfit
+
+[NEW_AVATAR_DESCRIPTION_PEONYCHI_3]
+Keine
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GOLDENCASSIA_1]
+Dunhuang-Outfit
+
+[NEW_AVATAR_DESCRIPTION_GOLDENCASSIA_1]
+Lebenspunkte um 15% erhöht
+
+[GOLDENCASSIA]
+Goldregen-Cassia
+
+[GOLDENCASSIA_DESCRIPTION_HEADER]
+Zieht Zombies aus der Umgebung an und blockiert ihren Weg
+
+[GOLDENCASSIA_DESCRIPTION]
+{KEYWORD}Eigenschaft: {STAT}Hinterlässt nach dem Tod einen Sockel und wird nach einer gewissen Zeit wiederbelebt.
+{KEYWORD}Pflanzenmerkmale: {STAT}Gelbe Pflanze
+
+{FLAVOR}Die Goldregen-Cassia hatte schon immer gedacht, dass sie die beste sei. Schließlich hat sie Gold im Namen. Sie vertuscht jedoch immer, dass sie etwas mit einer Zikade zutun hat.
+
+[GOLDENCASSIA_TOOLTIP]
+Zieht Zombies in der Nähe an und blockiert sie. Kann sich wiederbeleben.
+
+[GOLDENCASSIA_SKILL_LEVEL1]
+Formlose Dharmakaya
+
+[GOLDENCASSIA_SKILL_LEVEL1_DES]
+Der Sockel, den die Goldregen-Cassia nach ihrem Tod hinterlässt, zieht weiterhin Zombies an, und zwar für 7,5 Sekunden.
+
+[GOLDENCASSIA_SKILL_LEVEL2]
+Schein statt Wirklichkeit
+
+[GOLDENCASSIA_SKILL_LEVEL2_DES]
+Der Sockel, den die Goldregen-Cassia nach ihrem Tod hinterlässt, zieht weiterhin Zombies an, und zwar für 15 Sekunden.
+
+[GOLDENCASSIA_SKILL_LEVEL5]
+Fesselnder Fluch
+
+[GOLDENCASSIA_SKILL_LEVEL5_DES]
+Die Goldregen-Cassia rezitiert ununterbrochen Sutren und bringt Zauberer-Zombies im Wirkungsbereich zum Schweigen, sodass diese keine Zauber wirken können.
+
+[GOLDENCASSIA_SUPERSKILL]
+Stabilisierender Pfeiler
+
+[GOLDENCASSIA_SUPERSKILL_DES]
+Die Goldregen-Cassia offenbart ihre wahre Gestalt und erweitert ihren Anziehungsradius für 6 Sekunden.
+
+[STORE_PRODUCT_AVATAR_GOLDENCASSIA]
+Pflanzen im 3x3-Radius um die Goldregen-Cassia erhalten zudem einen Schild, der sie vor Schaden schützt.
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL1_DES]
+Zieht Zombies aus einem 2x3-Bereich vor sich in diese Reihe. Wenn die Goldregen-Cassia stirbt, versinkt sie im Boden und erwacht nach 15 Sekunden wieder zum Leben.
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL2_DES]
+Der Sockel, den die Goldregen-Cassia nach ihrem Tod hinterlässt, zieht weiterhin Zombies an, 7,5 Sekunden lang.
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL3_DES]
+Der Sockel, den die Goldregen-Cassia nach ihrem Tod hinterlässt, zieht weiterhin Zombies an, und zwar für 15 Sekunden.
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, dass direkt die Spezialdünger-Fähigkeit ausgelöst wird.
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL5_DES]
+Die Goldregen-Cassia rezitiert ununterbrochen Sutren und bringt Zauberer-Zombies im Wirkungsbereich zum Schweigen, sodass diese keine Zauber wirken können.
+
+[STORE_PRODUCT_AVATAR_GOLDENCASSIA_TITLE]
+Goldregen-Cassia-Skin
+
+[GOLDENCASSIA_AVATAR_NAME]
+Goldregen-Cassia-Skin
+
+[GOLDENCASSIA_PLANTFOOD_DESCRIPTION]
+Die Goldregen-Cassia offenbart ihre wahre Gestalt und erweitert ihren Anziehungsradius für 6 Sekunden.
+
+[GOLDENCASSIA_AVATAR_PLANTFOOD_DESCRIPTION]
+Pflanzen im 3x3-Radius um die Goldregen-Cassia erhalten zudem einen Schild, der sie vor Schaden schützt.
+
+[LEVITATER]
+Schwebekartoffel
+
+[LEVITATER_DESCRIPTION]
+{KEYWORD}Besonderheit: {STAT}Schwebende Zombies können nicht von Wehblatt weggeweht werden.
+{KEYWORD}Eigenschaften: {STAT}Der Angriff lässt Zombies schweben.
+{KEYWORD}Pflanzenmerkmale: {STAT}Braune Pflanze, kleinwüchsig
+
+{FLAVOR}"Ich bin anders als meine anderen Kartoffel-Cousinen", erklärt Schwebekartoffel. "Der Hauptunterschied ist wohl, dass ich nicht bei Kontakt – oder überhaupt jemals – explodiere. Ich bleibe an Ort und Stelle!"
+
+[LEVITATER_TOOLTIP]
+Bringt zufällige Zombies zum Schweben. Manchmal auch aus dem Rasen.
+
+[LEVITATER_DESCRIPTION_HEADER]
+Schwebekartoffeln bringen zufällige Zombies zum Schweben.
+
+[LEVITATER_SKILL_LEVEL1]
+Normaler Abflug
+
+[LEVITATER_SKILL_LEVEL1_DES]
+Die Abklingzeit des Angriffs wird auf 7,5 Sekunden verringert, die Chance auf einen sofortigen Tod steigt auf 15% und Zombies der Stufe 6 können maximal zurückgeschleudert werden.
+
+[LEVITATER_SKILL_LEVEL2]
+Ernsthafter Abflug
+
+[LEVITATER_SKILL_LEVEL2_DES]
+Abklingzeit des Angriffs auf 5 Sekunden verringert, Chance auf sofortigen Tod auf 20% erhöht, Zombies bis Stufe 8 können nun weggeschleudert werden.
+
+[LEVITATER_SKILL_LEVEL5]
+Serienmäßiger ernsthafter Abflug
+
+[LEVITATER_SKILL_LEVEL5_DES]
+Die Wahrscheinlichkeit für einen Sofort-Kill steigt auf 30%. Befindet sich der angegriffene Zombie in der Luft oder schwebt er, entfesselt die schwebende Kartoffel zwei grüne Wirbelstürme, die kleine und mittlere Zombies mit 100%iger Wahrscheinlichkeit und Gargantuas mit 60%iger Wahrscheinlichkeit aus dem Spielfeld werfen. Maximaler Abwurf: Zombies der Stufe 10.
+
+[LEVITATER_SUPERSKILL_DES]
+Die schwebende Kartoffel lässt 5 Zombies auf dem Spielfeld 5 Sekunden lang schweben, mit einer 25-prozentigen Chance auf einen Sofort-Kill.
+
+[LEVITATER_NEW_SKILL_LEVEL1_DES]
+Alle 10 Sekunden lässt die schwebende Kartoffel den Zombie, der ihr in dieser Reihe am nächsten ist, sowie alle Zombies im Umkreis vom gleichem Feld für 5 Sekunden schweben. Mit einer Wahrscheinlichkeit von 10% werden die Zombies aus dem Spielfeld geworfen, wobei Zombies bis zu Stufe 4 weggeworfen werden können.
+
+[LEVITATER_NEW_SKILL_LEVEL2_DES]
+Die Abklingzeit des Angriffs wird auf 7,5 Sekunden reduziert, die Sofort-Kill-Wahrscheinlichkeit steigt auf 15% und Zombies bis zur Stufe 6 können weggeworfen werden.
+
+[LEVITATER_NEW_SKILL_LEVEL3_DES]
+Die Abklingzeit des Angriffs wird auf 5 Sekunden verringert, die Chance auf einen Sofort-Kill steigt auf 20% und Zombies bis zur Stufe 8 können weggeschleudert werden.
+
+[LEVITATER_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, dass die Spezialdünger-Fähigkeit direkt ausgelöst wird.
+
+[LEVITATER_NEW_SKILL_LEVEL5_DES]
+Die Chance auf einen Sofort-Kill steigt auf 30%. Befindet sich der angegriffene Zombie in der Luft oder schwebt er, entfesselt die schwebende Kartoffel zwei grüne Wirbelstürme, die kleine und mittlere Zombies mit 100%iger Wahrscheinlichkeit aus dem Spielfeld werfen und Gargantuas mit 60%iger Wahrscheinlichkeit aus dem Spielfeld werfen. Kann Zombies bis zur Stufe 10 wegschleudern.
+
+[STORE_PRODUCT_AVATAR_LEVITATER_TITLE]
+Levitater-Outfit
+
+[STORE_PRODUCT_AVATAR_LEVITATER]
+Lässt 8 Zombies auf dem Spielfeld schweben, wobei einer davon als spezieller Wirbelwind mit 100%iger Wahrscheinlichkeit sofort getötet wird; die übrigen Zombies werden weiterhin mit 25%iger Wahrscheinlichkeit sofort getötet.
+
+[LEVITATER_AVATAR_NAME]
+Schwebende Kartoffel-Verkleidung
+
+[LEVITATER_PLANTFOOD_DESCRIPTION]
+Die schwebende Kartoffel lässt 5 Zombies auf dem Spielfeld 5 Sekunden lang schweben, mit einer 25%igen Chance auf sofortigen Tod.
+
+[LEVITATER_AVATAR_PLANTFOOD_DESCRIPTION]
+Lässt 8 Zombies auf dem Spielfeld schweben, wobei einer davon mit 100%iger Wahrscheinlichkeit durch einen speziellen Wirbelwind sofort getötet wird; die übrigen Zombies werden weiterhin mit 25%iger Wahrscheinlichkeit sofort getötet.
+
+[GLACIERSHROOM]
+Eispilz
+
+[GLACIERSHROOM_DESCRIPTION_HEADER]
+Wenn Zombies im Angriffsbereich erscheinen, schießt er Stacheln aus dem Boden, die alle Zombies im Bereich angreifen und verlangsamen.
+Durch manuelles Antippen können alle Zombies auf dem Bildschirm eingefroren werden.
+
+[GLACIERSHROOM_DESCRIPTION]
+{KEYWORD}Besonderheit: {STAT} Erzeugt Eisspitzen im Wirkungsbereich und kann manuell ausgelöst werden, um alle Zombies auf dem Spielfeld einzufrieren!
+{KEYWORD}Pflanzenmerkmal: {STAT} Blaue Pflanze
+
+{FLAVOR}Eispilz wirkt mürrisch, aber nicht, weil er unglücklich oder abweisend ist, sondern wegen einer alten Verletzung aus seiner Kindheit, die seine Gesichtsnerven lähmt.
+
+[GLACIERSHROOM_TOOLTIP]
+Attackiert Zombies vor sich mit Eiszapfen und kann angetippt werden um den ganzen Rasen einzufrieren.
+
+[GLACIERSHROOM_SKILL_LEVEL1]
+Der strenge Winter bricht herein
+
+[GLACIERSHROOM_SKILL_LEVEL1_DES]
+Die Abklingzeit der manuellen Attacke wird um 15% verkürzt. Bei Einsatz der manuellen Attacke breitet sich die Kälte über das gesamte Spielfeld aus und fügt allen Zombies Schaden in Höhe von 40% der Angriffskraft zu.
+
+[GLACIERSHROOM_SKILL_LEVEL2]
+Kälteausbruch
+
+[GLACIERSHROOM_SKILL_LEVEL2_DES]
+Die Abklingzeit der manuellen Attacke wird um 30% verkürzt. Der beim Einsatz der manuellen Attacke verursachte Flächenschaden wird auf 100% der normalen Angriffskraft erhöht.
+
+[GLACIERSHROOM_SKILL_LEVEL5]
+Eisbereich
+
+[GLACIERSHROOM_SKILL_LEVEL5_DES]
+Erzeugt einen permanenten Eisbereich mit einem Radius von 3×3 um den Eispilz herum. Zombies, die diesen Bereich betreten, werden kontinuierlich verlangsamt und erleiden pro Sekunde Schaden in Höhe von 50% der Angriffskraft.
+
+[STORE_PRODUCT_AVATAR_GLACIERSHROOM]
+Die vom Glacier Shroom erzeugten Eisspitzen zerbrechen beim Verschwinden und fügen allen Zombies im Bereich erneut Schaden zu. Gleichzeitig werden 4 riesige Eispfeile in die Luft geschleudert, die auf die 4 Zombies mit der höchsten Lebensenergie auf dem Rasen zielen, Schaden verursachen und diese für 3 Sekunden einfrieren.
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL1_DES]
+Erzeugt Eisspitzen, die Flächenschaden verursachen und verlangsamen; friert bei manuellem Klick alle Zombies auf dem Spielfeld ein.
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL2_DES]
+Die Abklingzeit der manuellen Attacke wird um 15% verkürzt. Beim Einsatz der manuellen Attacke breitet sich die Kälte über das gesamte Spielfeld aus und fügt allen Zombies Schaden in Höhe von 40% der Angriffskraft zu.
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL3_DES]
+Die Verkürzung der Abklingzeit der manuellen Attacke wird auf 30% erhöht. Der beim Einsatz der manuellen Attacke verursachte Flächenschaden wird auf 100% der normalen Angriffskraft erhöht.
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, dass die Spezialdünger-Fähigkeit sofort ausgelöst wird.
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL5_DES]
+Erzeugt einen permanenten Eisbereich mit einem Radius von 3×3 um den Eispilz herum. Zombies, die diesen Bereich betreten, werden kontinuierlich verlangsamt und erleiden pro Sekunde Schaden in Höhe von 50% der Angriffskraft.
+
+[STORE_PRODUCT_AVATAR_GLACIERSHROOM_TITLE]
+Eispilz-Skin
+
+[GLACIERSHROOM_AVATAR_NAME]
+Eispilz-Skin
+
+[GLACIERSHROOM_PLANTFOOD_DESCRIPTION]
+Erzeugt explosionsartig ein 5x5-Eisgebiet, in dem auf jedem Feld Eisspitzen entstehen.
+
+[GLACIERSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Die vom Eispilz erzeugten Eisspitzen zerbrechen beim Verschwinden und fügen allen Zombies im Bereich erneut Schaden zu. Gleichzeitig werden 4 riesige Eispfeile in die Luft geschleudert, die auf die 4 Zombies mit der höchsten Lebensenergie auf dem Rasen zielen, Schaden verursachen und diese für 3 Sekunden einfrieren.
+
 [DOOMSHROOM]
 Unheilspilz
 
 [DOOMSHROOM_DESCRIPTION]
 {FLAVOR}"Sei froh, dass ich auf deiner Seite bin" sagt er. "Ich könnte alles zerstören, was du liebst. Gar kein Problem für mich."
 
+[DOOMSHROOM_DESCRIPTION_HEADER]
+Wächst mit der Zeit und Explodiert wenn er durch Zombies zerstört wird und verursacht verheerenden Schaden basierend auf der aktuellen Stufe von 1 bis 3.
+
 [DOOMSHROOM_TOOLTIP]
 Wächst, explodiert immer stärker und hinterlässt Krater
 
 [PLANTING_NOT_ON_FLAMES_DOOMSHROOM]
-Diese Pflanze kann nicht auf einem Unheilspilz gepflanzt werden!
+Diese Pflanze kann nicht auf einem Krater gepflanzt werden!
 
 [DOOMSHROOM_SKILL_LEVEL1]
 Pilzspaltung
@@ -74250,6 +74548,12 @@ Beim ersten Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt au
 [PEAPOD_PLANTFOOD_DESCRIPTION]
 Die Erbsenhülse schleudert fünf große Erbsen mit dem 20-fachen Schaden ihrer eigenen Angriffskraft.
 
+[PEAPOD_SKILL1_LEVEL5]
+Evolutionstheorie
+
+[PEAPOD_NEW_SKILL_LEVEL5_DES]
+Sobald 5 Erbsen in der Erbsenhülse gestapelt sind, kann das Stapeln fortgesetzt werden. Durch das weitere Stapeln entwickeln sich die Erbsen in der Erbsenhülse zu Duplinatoren und Maschinengewehr-Erbsen. Die weiterentwickelten Erbsen schießen mehr Erbsen ab.
+
 [NEW_AVATAR_SHORT_DESCRIPTION_GARLIC_2]
 Vogelhut
 
@@ -74696,6 +75000,14 @@ Dank intensiver Forschung zu Toxinen sind Toxine jetzt effektiver gegen Zombies 
 
 [FUMESHROOM_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht eine mittlere Chance, die Spezialdünger-Fähigkeit direkt freizusetzen.
+
+[FUMESHROOM_SKILL1_LEVEL5]
+Vielseitiger Stinkpilz
+
+[FUMESHROOM_SKILL1_LEVEL5_DES]
+Puste Stinkpilz: Lässt zusätzliche kleine Pustepilze wachsen, die gemeinsam kämpfen. Bei der Aktivierung der Spezialfähigkeit werden alle großen Pustepilze dieser Form auf dem Spielfeld gleichzeitig aktiviert.
+Hypno Stinkpilz: Angriffe und Spezialfähigkeit haben eine gewisse Wahrscheinlichkeit, Zombies (unter Stufe 8) zu hypnotisieren.
+Strom-Stinkpilz: Angriffe und Spezialfähigkeit haben eine gewisse Wahrscheinlichkeit, Metallgegenstände unwirksam zu machen und fallen zu lassen; der Wirkungsbereich der Spezialfähigkeit wird auf drei Reihen erweitert und lähmt Zombies, stößt sie jedoch nicht mehr zurück.
 
 [FUMESHROOM_PLANTFOOD_DESCRIPTION]
 Der Stinkpilz absorbiert Luft und dehnt sich schnell aus. Anschließend setzt er eine große Menge giftigen Nebels frei, der Zombies in derselben Reihe bis zu 10 Felder weit zurückdrängen und 5 Sekunden lang kontinuierlich Schaden verursachen kann.
