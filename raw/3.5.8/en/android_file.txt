@@ -243,10 +243,10 @@ Schau dir diese Gehirn-Spezialeinheit an! Diese Zombie-Athleten sind durch Frost
 Zu viert bilden sie ein Team und können sich mit dem Schlitten schnell auf der Eisbahn fortbewegen
 
 [ZOMBIE_BOBSLED]
-Weihnachts-Schlitten-Zombie
+Weihnachts-Zomboni
 
 [ZOMBIE_BOBSLED_DESCRIPTION]
-Zombie-Übersetzer: „Die Firma ZCorp verschwendet ständig das Budget. Sie haben den Bobsleigh nicht nur mit nutzlosen Verzierungen versehen, sondern mir auch den Führerschein entzogen, damit andere Zombies fahren können!“ – Der Zombie mit der mysteriösen Haarschnittfrisur
+Zombie-Übersetzer: „Die Firma ZCorp verschwendet ständig das Budget. Sie haben den Bobsleigh nicht nur mit nutzlosen Verzierungen versehen, sondern mir auch den Führerschein entzogen, damit andere Zombies fahren können!“ – Der Zombie mit der mysteriösen Haarschnittfrisur.
 
 [ZOMBIE_BOBSLED_DESCRIPTION_HEADER]
 Überrollt die Pflanzen auf der Strecke und hinterlässt eine Eisbahn
@@ -296,6 +296,33 @@ In jenen glorreichen Zeiten war der Leiter-Zombie als professioneller Fensterput
 [ZOMBIE_LADDER_DESCRIPTION_HEADER]
 Die Leiter schützt vor Schaden. Sie kann an Verteidigungspflanzen wie der Wallnuss aufgestellt werden, damit der Zombie diese überwinden kann.
 
+[ZOMBIE_SCREENDOOR]
+Fliegengitter-Zombie
+
+[ZOMBIE_SCREENDOOR_DESCRIPTION]
+Die Tür hat er bei seinem letzten Hausbesuch mitgenommen, nachdem er das Gehirn des Besitzers gefressen hatte.
+
+[ZOMBIE_SCREENDOOR_DESCRIPTION_HEADER]
+Die Tür kann grade geschossene Projektile abwehren.
+
+[ZOMBIE_BEACH_IMP_QUIFF]
+Zombie-Imp mit drip
+
+[ZOMBIE_BEACH_IMP_QUIFF_DESCRIPTION]
+Selbst in dem Moment, als er durch die Luft geschleudert wurde, vergaß er nicht, sich die Tolle zu glätten und eine coole Landepose einzunehmen. Er hat rizz studiert.
+
+[ZOMBIE_BEACH_IMP_QUIFF_DESCRIPTION_HEADER]
+Ein gewöhnlicher, aber einzigartiger Wicht mit drip
+
+[ZOMBIE_TREASUREYETI_EGYPT]
+Pharao-Yeti-Zombie
+
+[ZOMBIE_TREASUREYETI_EGYPT_DESCRIPTION]
+Die Gier des Pharao-Yeti's nach Goldmünzen ist stärker als die Binden einer Mumie. Er hat eine riesige Menge an Schätzen aus der Pyramide mitgebracht, aber sobald du auch nur den geringsten Anflug von Diebstahlabsicht zeigst, rennt er rückwärts davon – schneller, als es sich die alten Ägypter jemals hätten vorstellen können. „Das sind meine Goldmünzen!“, schreit er, während er rennt.
+
+[ZOMBIE_TREASUREYETI_EGYPT_DESCRIPTION_HEADER]
+Ein seltenes und seltsames Wesen mit einer Vorliebe, schlechte Ägyptische Musik spielen zu lassen.
+
 [ZOMBIE_POGO]
 Pogo-Zombie
 
@@ -304,6 +331,78 @@ Hopp! Hopp! Hopp! Das ist das kraftvolle und effektive Geräusch, das der Pogo-Z
 
 [ZOMBIE_POGO_DESCRIPTION_HEADER]
 Mit seiner Hüpfstange lässt er sich nicht von Pflanzen aufhalten, sondern springt direkt über sie hinweg
+
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT]
+Zombie-Bogenschütze aus dem Jenseits
+
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION]
+Eines Tages kam dem Zombie-Bogenschützen aus dem Jenseits der Gedanke, dass sich die Durchschlagskraft seiner Schüsse vervielfachen würde, wenn er seinen Pfeilen Feuer verleihen könnte. Da er jedoch nicht wusste, wie man Feuer entfacht, wurde diese Idee auf unbestimmte Zeit auf Eis gelegt. Erst als er zu einem Geist wurde und die unglaubliche Fähigkeit des Geisterfeuers erlangte, konnte diese „geniale“ Idee verwirklicht werden.
+
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Schießt Geisterraketen nach vorne und verlangsamt getroffene Pflanzen.
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD]
+Betrunkener Zombie
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION]
+Der Kampf hat begonnen... Bäh... Ist das echt... Ich bin nicht betrunken... Und selbst wenn, ich kann das wirklich... hicks!.... nicht ertragen! Hicks!
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION_HEADER]
+Trinkt nach dem Bewegen, wechselt die Zeile und spritzt Alkohol, um Pflanzen zu betäuben.
+
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT]
+Geister-Soldat-Zombie
+
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION]
+Der Geister-Zombie-Soldat war ursprünglich ein gewöhnlicher Zombie-Soldat, bis er, ohne sich daran zu erinnern, dass er ein Zombie war, sein Spiegelbild im Wasserbecken sah. Daraufhin erschrak er sich zu Tode und verwandelte sich in einen Geister-Zombie-Soldaten...
+
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Die Geistergestalt eines gewöhnlichen Zombie-Soldaten
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT]
+Schalensoldat aus dem Jenseits
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION]
+Der Schalensoldat aus dem Jenseits liebt die kleine Schale auf seinem Kopf über alles, und natürlich erwidert auch die Schale diese „Liebe“. Selbst wenn er stirbt und zu einem Geist wird, bleibt die kleine Schale an der Seite des Zombie mit der Schale auf dem Kopf. „Ich liebe dich, kleine Schale ...“
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Die Geistergestalt des gewöhnlichen Zombie-Soldaten mit der Schale auf dem Kopf.
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT]
+Zombie mit Eimer aus der Unterwelt.
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION]
+Der Zombie mit Eimer aus der Unterwelt schützt seinen empfindlichsten Körperteil, den Kopf, mit seinem Helm, was ihm das Gefühl gibt, besonders mächtig zu sein... Bei einer Übung der Zombie-Armee führte er voller Selbstvertrauen mit seinem Helm die „Steinzertrümmerung mit dem großen Kopf“ vor und entdeckte dabei, dass er in die Geisterform übergehen kann...
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Häufige Geisterform des kleinen Soldaten-Zombies mit Eimer.
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP]
+Der Gargantua aus der Unterwelt
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION]
+Der Gargantua hatte schon immer ein schlechtes Gedächtnis und konnte sich nur durch Muskelgedächtnis an „Gehen“ und „Zerschlagen“ erinnern. Als er zum Geist wurde, verlor er sein Muskelgedächtnis und kann nun nur noch „schweben“...
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION_HEADER]
+Geisterform des Reichsheld Gargantuas
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT]
+Der betrunkene Zombie aus der Unterwelt
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION]
+Bäh... Fleisch!!! Acht Wellen... Bäh...
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Spritzt nach einer Bewegung Geisterfeuer aus und tötet die Pflanzen vor ihm sofort.
+
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT]
+Zombie-Attentäter der Unterwelt
+
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION]
+Der Zombie-Attentäter aus der Unterwelt leidet unter schwerer Amnesie. Eigentlich sollte er den Herrscher des unterirdischen Palastes ermorden, doch als er dort ankam, hatte er sein Ziel vergessen und wurde schließlich vom Herrscher in die Zombie-Armee des Palastes aufgenommen. In letzter Zeit hat sich seine Amnesie so sehr verschlimmert, dass er sich in einen Geist verwandeln kann, indem er die Tatsache vergisst, dass er bereits tot ist...
+
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Bewegt sich nach dem Tod als Geist von links nach rechts
 
 [ZOMBIE_POLE_VAULTING]
 Stabhochsprung-Zombie
