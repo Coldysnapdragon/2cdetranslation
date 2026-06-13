@@ -42841,6 +42841,21 @@ Schießt Drähte über den gesamten Bildschirm und fügt Zombies auf dem gesamte
 [WIREGELSEMIUM_AVATAR_PLANTFOOD_DESCRIPTION]
 Der Schaden der Spezialdünger Fertigkeit wird um 50% erhöht.
 
+[SOLARSAGE]
+Solar-Salbei
+
+[SOLARSAGE_DESCRIPTION]
+"Ommm" summt Solar-Salbei ruhig. Aber wem macht er etwas vor? Wir alle wissen, dass er insgeheim an Rennautos und Bulldozer denkt.
+
+[SOLARSAGE_DESCRIPTION_HEADER]
+Solar-Salbei erleuchtet Zombies, so dass sie die kluge Entscheidung treffen, abzuhauen – und dabei eine Spur von Sonnen hinterlassen.
+
+[SOLARSAGE_DESCRIPTION_PLANTFOOD]
+Spezialdünger: Erleuchtet nahe Zombies, so dass sie gegen andere Zs kämpfen. Befinden sich keine Zs im Wirkungsbereich, werden Sonnen produziert.
+
+[SOLARSAGE_TOOLTIP]
+Erleuchtet Zombies, so dass sie Sonnen erzeugen und zurück gehen.
+
 [DRAGONBRUIT]
 Krachenfrucht
 
@@ -42854,7 +42869,7 @@ Krachenfrucht
 [DRAGONBRUIT_DESCRIPTION_HEADER]
 Verschießt 3 explosive Samenkapseln auf Zombies in drei angrenzenden Reihen. Wird sie zerstört, zerfällt Krachenfrucht in 3 kleinere Pflanzen.
 
-{KEYWORD}Besonderheit: {STAT}Wird Krachenfrucht von einer Schattenaura gestärkt, verursachen ihre Geschosse auch Giftschaden.
+Besonderheit: Wird Krachenfrucht von einer Schattenaura gestärkt, verursachen ihre Geschosse auch Giftschaden.
 
 [DRAGONBRUIT_TOOLTIP]
 Schleudert 3 Projektile 3 Reihen hinunter.
