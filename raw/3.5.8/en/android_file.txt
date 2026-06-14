@@ -5,6 +5,249 @@ Benutze die Kokosnusskanone, um die Zombie-Wichtkanone zu zerstören.
 [ACHIEVE_BROADSIDE_TITLE]
 Breitseitenkanone
 
+[WARNING_SUPERFANIMP_DROP]
+Fan-Rausch!
+
+[WARNING_FOOTBALLIMP_DROP]
+Torschuss!
+
+[PVZ1MODE_DAVECUP]
+Dave-Cup-Turnier
+
+[PVZ1MODE_DAVECUP_NORMAL_DESC]
+Auf dem Spielfeld tauchen von Zeit zu Zeit Fußbälle auf, mit denen einige Zombies interagieren können.
+
+[CHALLENGE_DESTROY_SCHOOLBUS]
+Zerstöre {GRID_ITEMS} Eiswagen
+
+[S30_MEMORY_LEVEL_NAME_1]
+Elektromagnetische Induktion
+
+[S30_MEMORY_LEVEL_NAME_2]
+Eis und Feuer
+
+[S30_MEMORY_LEVEL_NAME_3]
+Vorwärtsbewegung
+
+[S30_MEMORY_LEVEL_NAME_4]
+Die Ameise verschlingt den Elefanten
+
+[S30_MEMORY_LEVEL_NAME_5]
+Den Tiger jagen, um den Wolf zu verschlingen
+
+[S30_MEMORY_LEVEL_NAME_6]
+Die Untoten in die Falle locken
+
+[S30_MEMORY_LEVEL_NAME_7]
+Alles auf eine Karte setzen
+
+[S30_MEMORY_LEVEL_NAME_8]
+Untote mit Untoten bekämpfen
+
+[S30_MEMORY_LEVEL_NAME_9]
+Der seltsame Fall in der Nebelstadt
+
+[S30_MEMORY_LEVEL_NAME_10]
+Gewalt mit Gewalt bekämpfen
+
+[S30_MEMORY_LEVEL_NAME_11]
+Den Himmel durchbrechen
+
+[S30_MEMORY_LEVEL_NAME_12]
+Der Körper eines Titanen
+
+[S30_MEMORY_LEVEL_NAME_13]
+Indirekte Andeutungen
+
+[S30_MEMORY_LEVEL_NAME_14]
+Kein Spielraum
+
+[S30_MEMORY_LEVEL_NAME_15]
+Ununterbrochene Schüsse
+
+[S30_MEMORY_LEVEL_NAME_16]
+Wütender Sturm
+
+[S30_MEMORY_LEVEL_NAME_17]
+Rückkehr in die Gegenwart
+
+[NARRATIVE_PVZ1_S30_1_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE} Der Magnetpilz zieht Eisen an, die Energieerbsen treffen auf Anhieb ins Schwarze – ist das elektromagnetische Induktion?
+
+[NARRATIVE_PVZ1_S30_1_H_INTRO_2]
+{SAY:WINNIE} Genau genommen erzeugt ein sich veränderndes Magnetfeld einen Strom. Es überrascht mich, dass du dich mit Physik auskennst?
+
+[NARRATIVE_PVZ1_S30_1_H_INTRO_3]
+{SAY:CRAZYDAVE} Ich verstehe nichts davon, ich finde nur, dass es gut zum Essen passt, wenn die Zombies vom Strom versengt werden.
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Die Daten zeigen: Wenn man gefrorene Zombies mit Feuer angreift, erleiden sie mehr Schaden.
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_2]
+{SAY:CRAZYDAVE} Weil sie sich dadurch leichter erkälten?
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_3]
+{SAY:WINNIE} Das lässt sich nicht leugnen, Dave.
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Die Daten zeigen: Ein Garten im Kindheitsstil macht diese kleinen Biester noch lebhafter als sonst.
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_2]
+{SHOUT:CRAZYDAVE} Schmeißt diese kleinen Racker aus meinem Garten!
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_3]
+{SAY:CRAZYDAVE} Das sind doch meine frisch gepflanzten Blumen!
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Es ist Zeit, diesen Zombies mal frische Giftpilze zu servieren.
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_2]
+{SAY:CRAZYDAVE}Aber wenn ich die Giftpilze den Zombies gebe, was soll ich dann essen?
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_3]
+{SAY:WINNIE}Probier doch mal die neuen Tacos, Dave.
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Unsere Falle ist fast fertig.
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_2]
+{SAY:CRAZYDAVE} Das ist super, was fehlt uns noch an Material?
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_3]
+{SAY:WINNIE} Die Daten zeigen: Uns fehlen noch 8,99.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Es sieht so aus, als stünde das Ende der Welt bevor. Unsere Vorräte sind fast aufgebraucht, es gibt kein Sonnenlicht und keine Boni.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_2]
+{SAY:CRAZYDAVE} Wir haben noch ein paar Geheimwaffen, mit denen wir eine große Anzahl von Zombies ausschalten können. Es ist an der Zeit, sie einzusetzen.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_3]
+{SAY:WINNIE}Hier entscheidet sich alles – wenn wir die Zombies nicht innerhalb der vorgegebenen Zeit ausschalten, werden unsere Gehirne gefressen.
+
+[NARRATIVE_PVZ1_S30_8_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Achtung! Eine riesige Zombie-Welle nähert sich! Und wir haben keine Sonnenblumen dabei!
+
+[NARRATIVE_PVZ1_S30_8_H_INTRO_2]
+{SAY:CRAZYDAVE}Zum Glück habe ich einen neuen Freund eingeladen, der uns im Kampf unterstützen wird.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Niemand weiß, was sich im Nebel verbirgt – wir werden uns darin verirren.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_2]
+{SAY:WINNIE} Zum Glück haben wir den Assistenten eines berühmten Detektivs eingeladen, der uns den Weg weisen kann.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_3]
+{SAY:CRAZYDAVE} Meinst du diese Erdnüsse?
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE} Eine riesige Zombie-Welle kommt auf uns zu, pflanzt schnell Explosionsnüsse, um sie in die Luft zu jagen!
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_2]
+{SAY:WINNIE} Warnung: Die Explosionsnüsse haben nur eine begrenzte Reichweite. Bist du sicher, dass du nicht mit Gewalt gegen Gewalt vorgehst?
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_3]
+{SHOUT:CRAZYDAVE} Jeder einzelne ist ein Gewinn, eine ganze Horde ist ein Riesengewinn – der Kampf gegen die Zombie-Armee beginnt!
+
+[NARRATIVE_PVZ1_S30_11_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Man munkelt, dass ein Onmyoji-Zombie nur leicht mit seinem Fächer wedeln muss, und schon tobt ein heftiger Sturm über dem Schrein.
+
+[NARRATIVE_PVZ1_S30_11_H_INTRO_2]
+{SAY:CRAZYDAVE} Ich weiß nur, dass die Zombies fliegen, wenn man die Flügel der schwebenden Kartoffelfächer ausklappt.
+
+[NARRATIVE_PVZ1_S30_11_H_INTRO_3]
+{SAY:CRAZYDAVE} Wenn zwei Windströme aufeinandertreffen, werden sie dann den Kugelfisch mitreißen?
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{PLAYFUL:CRAZYDAVE}{START_DIALOG_MUSIC} Warum gibt es so viele Absperrbänder auf dem Rasen?
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_2]
+{NPC_ENTER:zbcommander}{SAY:zbcommander} Die Sprengpilze in derselben Reihe spannen Absperrbänder.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_3]
+{SAY:zbcommander} Sobald sie berührt werden, werden die Sprengpilze auf einer Seite sofort ausgelöst.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_4]
+{SAY:zbcommander} Das verursacht nicht nur enormen Schaden, sondern lähmt auch die Maschinen in der Umgebung.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_5]
+{SAY:zbcommander} Diese glühenden Datteln ziehen die Zombies an und lassen sie darin versinken, sodass sie erst nach einer Weile wieder zu sich kommen.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_6]
+{SAY:CRAZYDAVE} Ach so … Aber wer bist du eigentlich?
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE} Explosive Nüsse und feurige Datteln nützen gegen die Entdecker- und Ausgraber-Zombies überhaupt nichts.
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_2]
+{SAY:WINNIE} Dave, warte, bis sie brennen, und schiebe dann den Minenwagen heran – das nennt man „die Flammen nutzen, um sie alle auf einen Schlag zu erledigen“.
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_3]
+{SAY:CRAZYDAVE} Die Zombies sind schon fast verkohlt – schau mal, wie ich hier eine Grillparty hinlege.
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Wir sind wieder an der ersten Station unserer Reise angelangt, und diesmal scheint es nicht so einfach zu sein, wie wir gedacht haben.
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_2]
+{SAY:WINNIE} Das zeitliche Paradoxon verbietet uns, Pflanzen zu verwenden, die wir nach dem Verlassen der ursprünglichen Labyrinthkarte gesammelt haben.
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_3]
+{SAY:CRAZYDAVE}Es gibt keinen Spielraum mehr, lasst uns schnell durchkommen und zur nächsten Station aufbrechen.
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Sind das nicht die Bohnen, die einst von den Zombies ins Visier genommen wurden?
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_2]
+{SAY:CRAZYDAVE} Beschützt diese Bohnen, es darf keine einzige verloren gehen.
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_3]
+{SAY:WINNIE} Sie sind an Gefahren gewöhnt, und wir auch.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_1]
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON} Der Sturm ist da – die Himmelsstadt soll euer Grab werden.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_2]
+{SAY:ZOMBOSSICON} Seht zu, wie meine neu entwickelte Elite-Blitzpistole jeden Pflanzen-Zombie zermalmt!
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_3]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE} Hier weht ein starker Wind, pass auf, dass dir bei deinen großen Worten nicht die Zunge verheddert.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_4]
+{SAY:WINNIE} Notplan aktivieren: Schickt diese Zombies zurück auf den Boden, damit sie dort im Dreck wühlen!
+
+[PVZ1MODE_INCREASEDCOST]
+Inflation
+
+[PVZ1MODE_INCREASEDCOST_DESC]
+Der Sonnenverbrauch der Pflanzen steigt mit zunehmender Anzahl der gepflanzten Pflanzen
+
+[STARCHALLENGE_DEFEAT_X_TERRACOTTA]
+Besiege {NUMBER} Terrakotta-Zombies
+
+[STARCHALLENGE_DEFEAT_X_PUMPKIN_HOUSE_GHOST]
+{NUMBER} Kürbishaus-Geister besiegen
+
+[CHALLENGE_DESTROY_PUMPKINHOUSE]
+{GRID_ITEMS} Kürbishäuser zerstören
+
+[S30_MEMORY_LEVEL_NAME_BOSS_1]
+Terminator
+
+[S30_MEMORY_LEVEL_NAME_BOSS_2]
+Dampfkämpfer
+
+[S30_MEMORY_LEVEL_NAME_BOSS_3]
+Jubiläums-Entschlüsseler
+
+[S30_MEMORY_LEVEL_NAME_BOSS_4]
+Festtags-Zerstörer
+
+[STARCHALLENGE_DEFEAT_X_PVZ1ZOMBIES]
+Besiege {NUMBER} Zombies aus Pvz1
+
+[STARCHALLENGE_PROTECT_THE_GRIDITEM]
+Verhindere, dass die Rasenobjekte zerstört werden!
+
 [ZOMBIE_GENERAL_TREADMILL_PHASE1]
 Ausdauer-Zombie
 
