@@ -5,6 +5,33 @@ Benutze die Kokosnusskanone, um die Zombie-Wichtkanone zu zerstören.
 [ACHIEVE_BROADSIDE_TITLE]
 Breitseitenkanone
 
+[STARCHALLENGE_PROTECTTHEGRIDITEM]
+Lass das Rasenobjekt nicht zerstört werden!
+
+[STARCHALLENGE_PROTECTTHEGRIDITEM_NAME]
+Schütze das Rasenobjekt
+
+[DEFEAT_X_IMPS]
+Töte {NUMBER} Wichte.
+
+[DEFEAT_X_IMP]
+Töte {NUMBER} Wichte.
+
+[DEFEAT_X_ATLANTIS]
+Besiege {NUMBER} Unterwasser-Zombies
+
+[DEFEAT_X_ATLANTISGARGS]
+Besiege{NUMBER} Unterwasser-Gargantuas
+
+[DEFEAT_X_DANCERS]
+Töte {NUMBER} Tanzende Zombies
+
+[DEFEAT_X_ATLANTIS_LAND_BASICS]
+Töte {NUMBER} Normale Ruinen-Zombies
+
+[CHALLENGE_DESTROY_SEAURCHINS]
+Zerstöre {GRID_ITEMS} Seeigel
+
 [WARNING_SUPERFANIMP_DROP]
 Fan-Rausch!
 
