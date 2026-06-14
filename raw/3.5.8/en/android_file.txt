@@ -17,6 +17,247 @@ Rückt bis zu einem festgelegten Platz auf dem Spielfeld vor und wirft dann stä
 [ACHIEVE_COWBOY_STARS_DESC]
 Holt alle Wild-West-Sterne.
 
+[DAVECUP_PREDICT_COUNTDOWN]
+Countdown
+
+[DAVECUP_LOCK_COUNTDOWN]
+Countdown
+
+[DAVECUP_BATTLE_COUNTDOWN]
+Countdown
+
+[DAVECUP_PREDICT_TIPS]
+Unterstütze ein Team mit Punkten – die Anhänger des siegreichen Teams erhalten Punkte!
+
+[DAVECUP_LOCK_TIPS]
+Zeige eine Erklärung der Regeln
+
+[DAVECUP_ALL_SUPPORT]
+Alles oder nix
+
+[DAVECUP_SUPPORT_LEFT]
+Wette Links
+
+[DAVECUP_SUPPORT_RIGHT]
+Wette Rechts
+
+[DAVECUP_ROUND]
+Runde ^FFFF00 {NUM} ^oldclr  Runde
+
+[DAVECUP_CURRENT_SCORE]
+Punkte: ^FFFF00 {NUM} ^oldclr
+
+[DAVECUP_BYSTANDER]
+Zuschauer
+
+[DAVECUP_SELECT_SUPPORT]
+Wähle ein Team!
+
+[DAVECUP_WAITING]
+Beide Teams betreten die Arena...
+
+[DAVECUP_NOT_OPEN]
+Der Dave Cup ist derzeit nicht verfügbar
+
+[DAVECUP_MATCH_BUTTON]
+Jetzt spielen
+
+[DAVECUP_INFO_BUTTON]
+Spielanleitung
+
+[DAVECUP_INFO_DESC]
+1. Spielübersicht: In jeder Runde treten 8 Spieler gegeneinander an und es finden insgesamt 8 Runden mit automatischen Kampfvorhersagen statt. Jeder Spieler beginnt mit 10.000 Punkten. Nach Abschluss der gesamten Runde wird die Gesamtwertung anhand der endgültigen Gesamtpunktzahl der Spieler erstellt.
+2. Spielablauf: Vor jeder Runde hast du 20 Sekunden Zeit, die Aufstellungen beider Seiten zu begutachten. Die Spieler müssen ihre Standardpunkte für diese Runde einsetzen und sich für [links] oder [rechts] entscheiden. In den Runden 6 bis 8 wird die Option „Volle Unterstützung“ freigeschaltet, bei der die Spieler aktiv alle ihre Punkte für die Vorhersage einsetzen können. Nach Ablauf des Countdowns wählt das System zufällig eine Option aus, wenn keine Auswahl getroffen wurde; wenn die aktuellen Punkte nicht ausreichen, um die Anforderungen dieser Runde zu erfüllen, wird die Option „Volle Unterstützung“ automatisch aktiviert und alle Punkte werden verbraucht.
+3. Sieg- und Niederlage-Regeln: In ungeraden Runden lautet das Spiel „Pflanzen verteidigen gegen Zombies greifen an“. Die Zombies gewinnen, wenn sie die gegnerische Grundlinie durchbrechen oder alle Pflanzen vernichten; andernfalls gewinnen die Pflanzen. In geraden Runden lautet das Spiel „Zombies gegen Zombies“. Derjenige gewinnt, der als Erster die gegnerische Grundlinie durchbricht oder den Gegner vollständig vernichtet.
+4. Zusätzlicher Buff: Während des gesamten Spiels gibt es einen „Anfeuerungs-Buff“: Alle Einheiten erhalten zu Beginn einen Bonus von 50 % auf Bewegungs- und Angriffsgeschwindigkeit; nach 20 Sekunden steigt dieser Bonus auf 100 %! Erreicht der Kampf eine Dauer von 60 Sekunden, geht das Spiel direkt in die „Hitzeschaden-Nachspielzeit“ über: Alle Einheiten verlieren pro Sekunde 6 % ihrer maximalen Lebenspunkte durch Verbrennung.
+5. Event-Belohnungen: Nach Spielende werden entsprechend der Gesamtpunktzahl [Meilensteinpunkte] vergeben. Durch das Sammeln von Punkten können Spieler ihren Meilenstein-Level erhöhen und stufenweise Belohnungen erhalten. Einige Belohnungen werden zeitabhängig freigeschaltet. Solange die jeweilige Zeitphase nicht freigeschaltet ist, kann nach Erreichen des maximalen Levels der aktuellen Stufe keine weitere Erfahrung gesammelt werden.
+
+
+[DAVECUP_MAIN_SCREEN_QUEUEING_WAITED_TIME]
+{TIME} gewartet
+
+
+[DAVECUP_MAIN_SCREEN_CANCEL_MATCH_TITLE]
+System
+
+[DAVECUP_MAIN_SCREEN_CANCEL_BUTTON_TITLE]
+Match abbrechen
+
+[DAVECUP_MAIN_SCREEN_CANCEL_MATCH_DESC]
+Match abbrechen?
+
+[DAVECUP_MAIN_SCREEN_MATCH_TIME_DESC]
+Voraussichtliche Match-Dauer: {TIME}
+
+[DAVECUP_MAIN_SCREEN_SEARCH_TIME_DESC]
+Suche läuft: {TIME}
+
+[DAVECUP_MAIN_SCREEN_SEARCH_PLAYER_DESC]
+^00FF00 {NUM}^oldclr^ / {MAX}
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_TITLE]
+Meilenstein-Level
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_DESC]
+Erhältlich in {NUM} Tagen
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_TOMORROW_DESC]
+Erhältlich morgen um 18 Uhr
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_DESC]
+{NUM}/{MAX}
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LV_TITLE]
+Lv.^FFFF00 {NUM}^oldclr^
+
+[DAVECUP_OPENSTAGE_TIPS]
+Das ganze Stadion feuert an!
+
+[DAVECUP_HALFSTAGE_TIPS]
+Die Stimmung wird immer heißer!
+
+[DAVECUP_FINALSTAGE_TIPS]
+Verlängerung wegen Hitzeschäden – ein Wettkampf der Ausdauer!
+
+[DAVECUP_THIS_ROUND_RANK]
+Rangliste
+
+[DAVECUP_THIS_ROUND_PLAYERNAME]
+Spielername
+
+[DAVECUP_THIS_ROUND_POINTS_CHANGE]
+Punkteveränderung
+
+[DAVECUP_THIS_ROUND_TOTAL_POINTS]
+Aktuelle Punktzahl
+
+[DAVECUP_NEXT_ROUND_START_COUNTDOWN]
+{TIME}S
+
+[DAVECUP_SETTLEMENT_TILE]
+Endergebnis
+
+[DAVECUP_FINAL_SETTLEMENT_YOUR_RANK_INFO]
+Deine Platzierung
+
+[DAVECUP_FINAL_SETTLEMENT_TOTAL_SCORE]
+Gesamtpunktzahl
+
+[DAVECUP_FINAL_SETTLEMENT_CORRECT_TIMES]
+Anzahl der richtigen Vorhersagen: {NUMBER}
+
+[DAVECUP_FINAL_SETTLEMENT_ALLIN_TIMES]
+Anzahl der All-in-Einsätze: {NUMBER}
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_LEVEL_INFO]
+Meilenstein-Level
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_POINTS]
+Erhaltene Bonuspunkte: {NUMBER}
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_BUTTON]
+Zurück zum Meilenstein
+
+[DAVECUP_FINAL_SETTLEMENT_BACKACTIVITY_BUTTON]
+Zurück
+
+[DAVECUP_DESCRIPTION_TITLE]
+Beschreibung des Dave-Cups
+
+[DAVECUP_DESCRIPTION]
+1. Spielbeschreibung: In jeder Runde treten 8 Spieler gegeneinander an, wobei insgesamt 8 Runden mit automatischen Kampfvorhersagen ausgetragen werden. Jeder Spieler beginnt mit 10.000 Punkten. Nach Abschluss des gesamten Turniers wird die Gesamtwertung anhand der endgültigen Gesamtpunktzahl der Spieler erstellt.
+2. Spielphasen: Vor jeder Runde stehen 20 Sekunden zur Verfügung, um die Aufstellungen beider Seiten zu begutachten. Die Spieler müssen ihre Standardpunkte für diese Runde einsetzen und sich für [links] oder [rechts] entscheiden. In den Runden 6 bis 8 wird die Option „Volle Unterstützung“ freigeschaltet, bei der Spieler aktiv alle ihre Punkte für eine Vorhersage einsetzen können. Nach Ablauf des Countdowns wählt das System zufällig eine Option aus, wenn keine Auswahl getroffen wurde. Reichen die aktuellen Punkte nicht für die Anforderungen dieser Runde aus, wird der Spieler automatisch auf „Volle Unterstützung“ gesetzt und alle Punkte verbraucht.
+3. Sieg- und Niederlage-Regeln: In ungeraden Runden lautet das Spiel „Pflanzen verteidigen gegen Zombies greifen an“. Die Zombies gewinnen, wenn sie die gegnerische Grundlinie durchbrechen oder alle Pflanzen vernichten; andernfalls gewinnen die Pflanzen. In geraden Runden lautet das Spiel „Zombies gegen Zombies“. Derjenige, der zuerst die gegnerische Grundlinie durchbricht oder den Gegner vollständig vernichtet, gewinnt. (Hinweis: Einige Zombie-Fähigkeiten wirken nicht auf andere Zombies.)
+4. Zusätzlicher Buff: Während des gesamten Spiels gibt es einen „Anfeuerungs-Buff“: Alle Einheiten erhalten zu Beginn einen Bonus von 50 % auf Bewegungs- und Angriffsgeschwindigkeit; nach 20 Sekunden steigt dieser Bonus auf 100 %! Wenn der Kampf 60 Sekunden dauert, geht das Spiel direkt in die „Hitzeschaden-Nachspielzeit“: Alle Einheiten verlieren pro Sekunde 6 % ihrer maximalen Lebenspunkte durch Verbrennung.
+5. Event-Belohnungen: Nach Spielende werden entsprechend der Gesamtpunktzahl „Meilensteinpunkte“ vergeben. Durch das Sammeln dieser Punkte können Spieler ihre Meilenstein-Stufe erhöhen und so stufenweise Belohnungen erhalten.
+
+[DAVECUP_HEAD_ID_25889]
+Fußball-Nachwuchstalente
+
+[DAVECUP_HEAD_DES_ID_25889]
+Meilenstein-Belohnung im Dave Cup
+
+[ZOMBIE_SPORTZBALL_IMP]
+Fußball-Wicht
+
+[ZOMBIE_SPORTZBALL_IMP_DESCRIPTION_HEADER]
+Verwandelt sich nach dem Tod in einen Fußball, der von Pflanzen weggeschleudert werden kann und von Zombies abprallt.
+
+[ZOMBIE_SPORTZBALL_IMP_DESCRIPTION]
+Der Fußball-Wicht hatte schon immer den Traum, „mit allen auf einer Wellenlänge zu sein“. Seit er sich in einen Fußball verwandelt hat, ist dieser Traum zur Hälfte wahr geworden – er fliegt tatsächlich oft über das Spielfeld, nur eben so, dass er weggeschleudert wird.
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR]
+Fußball-Gargantua-Zombie
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR_DESCRIPTION_HEADER]
+Wenn seine Lebenspunkte unter 50% fallen, schleudert er den Fußball-Wicht; trifft er auf einen Fußball, schießt er ihn wütend weg.
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR_DESCRIPTION]
+Er war einst Schiedsrichter in einer Profifußballmannschaft, bis er feststellte, dass es viel effektiver ist, Stürmer direkt mit dem Torpfosten auszuschalten, als zu pfeifen. Jetzt will er nur noch einen schönen „Hattrick“ in der Abwehr der Pflanzen erzielen.
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD]
+Fußball-Eimer-Zombie
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION_HEADER]
+Verfügt über einen Eimer; wenn der Eimer beschädigt wird, verformt er sich, bis er abfällt.
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION]
+Ich weiß nicht, warum ich diesen Eimer trage. Na gut, ich weiß es doch: Eigentlich glaube ich einfach, dass der Eimer das Popcorn abhält, das von den Tribünen herunterfliegt.
+
+[ZOMBIE_SPORTZBALL_WIZARD]
+Fußball-Magier-Zombie
+
+[ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION]
+Er behauptet, er könne den Ausgang jedes Spiels vorhersagen. Sein Geheimnis: Er verwandelt den gegnerischen Torwart in einen Ball.
+
+[ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION_HEADER]
+Von Zeit zu Zeit kann der Fußball-Magier-Zombie die Pflanzen auf dem Spielfeld in Fußbälle verwandeln.
+
+[GOALKEEPER_ZOMBIE]
+Torwart-Zombie
+
+[GOALKEEPER_ZOMBIE_DESCRIPTION]
+Für den Torwart-Zombie ist es nicht peinlich, einen Ball durchzulassen, sondern beim Hechten festzustellen, dass er auf Bodenstacheln landet. „Ist das kein Faul?“, fragt er den Schiedsrichter immer, während er keuchend am Boden liegt.
+
+[GOALKEEPER_ZOMBIE_DESCRIPTION_HEADER]
+Der Torwart-Zombie kann einen Teil der flachen Schüsse abprallen lassen.
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE]
+Zombie-Delfinreiter
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
+In urzeitlichen Zeiten verließen die Delfine das Land und entwickelten sich im Meer weiter. Nun sind der Zombie-Reiter und der Zombie-Delfin im Aquarium wieder vereint. Denn sie sind sich nun ähnlich: Beide brauchen keine Luft mehr und bewegen sich unter Wasser völlig ungehindert.
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
+Im Wasser bewegen sie sich extrem schnell und springen direkt über die erste Pflanze hinweg, die sie berühren.
+
+[ZOMBIE_SWIMMINGRING]
+Schwimmring-Zombie
+
+[ZOMBIE_SWIMMINGRING_DESCRIPTION]
+Seit er versehentlich in den Pool gefallen ist und dabei genau in einen kleinen gelben Schwimmring mit Entchenmotiv hineingerutscht ist, hat er festgestellt, dass er sich (im physikalischen Sinne) nicht mehr von dem kleinen Entchen trennen kann.
+
+[ZOMBIE_SWIMMINGRING_DESCRIPTION_HEADER]
+Bewegt sich an Land langsamer als normale Zombies, im Wasser jedoch schneller
+
+[ZOMBIE_SWIMMINGRINGCONE]
+Schwimmring-Barriere-Zombie
+
+[ZOMBIE_SWIMMINGRINGCONE_DESCRIPTION]
+Dieser Kerl sucht jeden Tag nach dem Typen, der die Barriere und den Schwimmring übereinander gestapelt hat, denn als er aus dem Pool kroch, blieb er gleichzeitig an der Barriere und am Schwimmring hängen... Wie kann man nur so viel Pech haben...
+
+[ZOMBIE_SWIMMINGRINGCONE_DESCRIPTION_HEADER]
+Bewegt sich an Land langsamer als normale Zombies, im Wasser jedoch schneller
+
+[ZOMBIE_SWIMMINGRINGBUCKET]
+Schwimmring-Eimer-Zombie
+
+[ZOMBIE_SWIMMINGRINGBUCKET_DESCRIPTION]
+Dieser Kerl träumt ständig davon, ein Ritter zu sein, also hat er sich sein Reittier, die „Himmel-und-Erde-verzehrende gelbe Donnerente“, und seinen „unbesiegbaren Helden-Kampfhelm“ besorgt.
+
+[ZOMBIE_SWIMMINGRINGBUCKET_DESCRIPTION_HEADER]
+Bewegt sich an Land langsamer als normale Zombies, im Wasser jedoch deutlich schneller.
+
 [ZOMBIE_BOBSLED_PUNK]
 Zomboni
 
