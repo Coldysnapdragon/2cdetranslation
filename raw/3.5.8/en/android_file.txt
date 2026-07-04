@@ -49949,6 +49949,15 @@ Geschenkpaket
 [OPTIONS_SKIPANIMS] 
 Levelstart Animation überspringen
 
+[OPTIONS_SKIP_NEXT_WAVE] 
+Wellen automatisch überspringen
+
+[OPTIONS_ZOMBIE_STARTRUSHONSCREEN] 
+Schneller Rasenauftritt
+
+[OPTIONS_SPEEDCHANGE_EFFECT] 
+Schnelligkeitänderungs Effekt ausblenden
+
 [HEAVEN_TREASURE_TAB2_DES1]
 Geschenkpaket-Rabattcode teilen
 
