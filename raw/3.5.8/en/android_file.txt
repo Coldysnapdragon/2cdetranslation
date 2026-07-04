@@ -49955,7 +49955,7 @@ Wellen automatisch überspringen
 [OPTIONS_ZOMBIE_STARTRUSHONSCREEN] 
 Schneller Rasenauftritt
 
-[OPTIONS_SPEEDCHANGE_EFFECT] 
+[OPTIONS_SKIP_SPEEDCHANGE_EFFECT] 
 Schnelligkeitänderungs Effekt ausblenden
 
 [HEAVEN_TREASURE_TAB2_DES1]
