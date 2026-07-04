@@ -19298,7 +19298,7 @@ Saftling
 {FLAVOR}Du musst den Wurfarm des Saftlings einfach gesehen haben. Er ist vielleicht noch jung, aber alle sind sich einig, der Junge hat TALENT. Scouts sämtlicher Pinienzapfenballteams haben bereits ein Auge auf ihn geworfen, vielleicht spielt er schon bald in der ersten Liga. Klar – manch einer kritisiert ihn für seine unglaublich klebrige Spuckekugel. Aber das ist ganz natürlicher Sirup, also vollkommen legal.
 
 [SAPFLING_DESCRIPTION_HEADER]
-Saftlinge verursachen Sirup-Pfützen, die Zombies verlangsamen
+Saftlinge schleudern Sirup-Pfützen, die Zombies verlangsamen, wenn sie durchgehen.
 
 [SAPFLING_TOOLTIP]
 Verursacht Zombies verlangsamende Sirup-Pfützen
@@ -23405,7 +23405,7 @@ Die UFO-Melone kann Licht aussenden, um sich nähernde Zombies zu fangen.
 {FLAVOR}Die UFO-Melone wird fälschlicherweise für eine außerirdische Kreatur gehalten, doch mit der Zeit stellt sich heraus, dass sie zu introvertiert ist, um sich in alle Gesellschaft zu integrieren. Aber ärgere die Fliegenden Untertassenmelone nicht, sie lässt sich nicht leicht von ihrem Licht erleuchten.
 
 [SAUCER_TOOLTIP]
-Die UFO-Melone kann einen Strahl aussenden, um Zombies fangen.
+Kann einen Strahl aussenden, um Zombies fangen und zu lähmen.
 
 [SAUCER_PLANTFOOD]
 Die Spezialdünger-Fähigkeit kann alle Zombies auf dem Spielfeld vorübergehend bewegungsunfähig machen.
@@ -40962,16 +40962,16 @@ Eislotus
 {FLAVOR} Als Mitglied der Feuerwehr hat der Eislotus eine extreme Leidenschaft für die Brandbekämpfung. Er verträgt selbst kleinste Flammen nicht und hat sogar Eiswasser zur Hand, um heiße Gegenstände abzukühlen.
 
 [ICELOTUS_DESCRIPTION_HEADER]
-Er kann von Feuerwerks-Zombies entzündete Pflanzen löschen und vorbeikommende Zombies verlangsamen.
+Kann vom Feuerwerks-Zombie erschaffene Flammen löschen und vorbeikommende Zombies um sich verlangsamen.
 
 [ICELOTUS_TOOLTIP]
-Er kann entzündete Pflanzen löschen und vorbeikommende Zombies verlangsamen.
+Kann vom Feuerwerks-Zombie erschaffene Flammen löschen und vorbeikommende Zombies um sich verlangsamen.
 
 [ICELOTUS_PRODUCT_SHORT_DESC]
-Er kann von Feuerwerks-Zombies entzündete Pflanzen löschen und vorbeikommende Zombies verlangsamen.
+Kann vom Feuerwerks-Zombie erschaffene Flammen löschen und vorbeikommende Zombies um sich verlangsamen.
 
 [STORE_PRODUCT_AVATAR_ICELOTUS]
-Er kann von Feuerwerks-Zombies entzündete Pflanzen löschen und vorbeikommende Zombies verlangsamen.
+Kann vom Feuerwerks-Zombie erschaffene Flammen löschen und vorbeikommende Zombies um sich verlangsamen.
 
 [STORE_PRODUCT_AVATAR_ICELOTUS_TITLE]
 Eislotus Kostüm
