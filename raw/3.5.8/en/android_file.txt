@@ -49953,10 +49953,16 @@ Levelstart Animation überspringen
 Wellen automatisch überspringen
 
 [OPTIONS_ZOMBIE_STARTRUSHONSCREEN] 
-Schneller Rasenauftritt
+Schneller Rasenauftritt von Zombies
 
 [OPTIONS_SKIP_SPEEDCHANGE_EFFECT] 
 Schnelligkeitänderungs Effekt ausblenden
+
+[OPTIONS_MUSIC_TAB]
+Audio
+
+[OPTIONS_BATTLE_TAB]
+Kampfeinstellungen
 
 [HEAVEN_TREASURE_TAB2_DES1]
 Geschenkpaket-Rabattcode teilen
