@@ -13648,13 +13648,13 @@ Weißer Rettich
 [TURNIP_DESCRIPTION]
 {KEYWORD}Pflanzenmerkmale: {STAT}Weiße Pflanze
 
-{FLAVOR}Der Weißer Rettich lernt seit vielen Jahren Qigong, kannte aber immer nur eine Bewegung: Die Bewegungslosigkeit.
+{FLAVOR}Der weiße Rettich lernt seit vielen Jahren Qigong, kann aber immer nur eine Bewegung: Die Bewegungslosigkeit.
 
 [TURNIP_DESCRIPTION_HEADER]
 Kann Qigong Zombie's und Schwarze Löcher daran aufhalten, Pflanzen zu ziehen.
 
 [TURNIP_PLANTFOOD]
-Verwandelt sich in weitere weiße Radieschen.
+Verwandelt sich in weitere weiße Rettiche.
 
 [TURNIP_TOOLTIP]
 Kann Qigong Zombie's und Schwarze Löcher daran aufhalten, Pflanzen zu ziehen.
@@ -13674,10 +13674,10 @@ Feuerkürbis
 Nach dem Aufladen kann der Feuerkürbis Feuer spucken und so kontinuierlichen Flammenschaden verursachen, der besonders effektiv gegen hölzerne Waffenständer ist.
 
 [FIREGOURD_PLANTFOOD]
-Spucke Feuer in einer Reihe vor dir.
+Spuckt Feuer in der Reihe vor sich.
 
 [FIREGOURD_TOOLTIP]
-Klicke, um Feuer zu spucken. 
+Klicke, um Feuer zu spucken, danach muss nachgeladen werden.
 
 [LOTUS]
 Daffodil
@@ -13692,7 +13692,7 @@ Wirf Wassertropfen. Daffodil kann über Hindernisse springen und Gegner hinter s
 Vollbild-Pflanzenbeschleunigung.
 
 [LOTUS_TOOLTIP]
-Wirf Wassertropfen auf Gegner, die über Hindernisse springen können.
+Schleudert Wassertropfen auf Zombies, die über Hindernisse springen können.
 
 [PITAYA]
 Pitaya
