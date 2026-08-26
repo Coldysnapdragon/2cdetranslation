@@ -55014,14 +55014,320 @@ Oh mein Gott! In diesen explodierenden Vasen befinden sich tatsächlich Hühner 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL_DESCRIPTION_HEADER]
 Der Zombie, der dieses Belagerungsfahrzeug steuert, unterscheidet sich schon seit seiner Kindheit von anderen Zombies. Ihm fehlt das Verständnis für Humor und Ironie, und er ist es gewohnt, mit seinem außergewöhnlichen IQ anzugeben. Obwohl sein selbst modifiziertes Belagerungsfahrzeug mehrere Vasen gleichzeitig werfen kann, wagen sich aufgrund seiner geringen Popularität nur wenige Zombies in seine Vasen, sodass er gezwungen ist, eine Menge Hühner hineinzustopfen.
 
+[PINECLONE]
+Ableger
+
+[PINECLONE_DESCRIPTION]
+{KEYWORD} Umfang: {STAT} einzeilig
+{KEYWORD}Eigenschaft: {STAT}Kloniert sich selbst oder andere Pflanzenklone
+{KEYWORD}Pflanzenmerkmal: {STAT}Braune Pflanze
+
+{FLAVOR}Sie hat es nicht auf jemanden abgesehen, sie ist einfach lieber mit anderen Pineclone-Klonen zusammen
+
+[PINECLONE_DESCRIPTION_HEADER]
+Feuert in gerader Linie ab, erzeugt bei Treffer einen X-förmigen Laser
+
+[PINECLONE_TOOLTIP]
+Feuert in gerader Linie ab; bei einem Treffer entsteht ein X-förmiger Laser
+
+[PINECLONE_PRODUCT_SHORT_DESC]
+Feuert Kugeln in gerader Linie ab; bei einem Treffer entsteht ein X-förmiger Laser
+
+[PINECLONE_SKILL_LEVEL1]
+Aktivitätssteigerung
+
+[PINECLONE_SKILL_LEVEL1_DES]
+Der Ableger macht 40% der ursprünglichen Pflanze aus. Gleichzeitig werden die Angriffs- und Verteidigungswerte der vorübergehend umgewandelten Pflanze auf 40% der Angriffs- und Verteidigungswerte der ursprünglichen Pflanze angehoben.
+
+[PINECLONE_SKILL_LEVEL2]
+Genetisches Modell
+
+[PINECLONE_SKILL_LEVEL2_DES]
+Der Ableger macht 60% der ursprünglichen Pflanze aus; gleichzeitig werden die Angriffs- und Verteidigungswerte der vorübergehend transformierten Pflanze auf 60 % der Angriffs- und Verteidigungswerte der ursprünglichen Pflanze erhöht.
+
+[PINECLONE_SKILL_LEVEL5]
+Genetische Neugestaltung
+
+[PINECLONE_SKILL_LEVEL5_DES]
+Beim Überlagern einer bereits vorhandenen Pflanze werden freie Plätze im 3×3-Bereich durch Ableger aufgefüllt.
+
+[PINECLONE_AVATAR_NAME]
+Ableger
+
+[STORE_PRODUCT_AVATAR_PINECLONE]
+Beim Einsatz der Spezialdünger-Fähigkeit,  feuert jeder Ableger eine Energiekugel ab, die ihm 3 Sekunden lang einen Angriffsbonus von +10% gewährt. Wenn ein Ableger die Spezialdünger-Fähigkeit einsetzt, wird er in seinen vollständigen Zustand zurückversetzt
+
+[STORE_PRODUCT_AVATAR_PINECLONE_TITLE]
+Ableger
+
+[PINECLONE_NEW_SKILL_LEVEL1_DES]
+Auf freiem Feld pflanzen: Im Bereich von 3×3 werden bepflanzbare Felder mit Ablegern gefüllt; auf bereits vorhandene Pflanzen pflanzen: Alle Pflanzen im Bereich von 3×3 werden vorübergehend zu Klonen der ursprünglichen Pflanze.
+
+[PINECLONE_NEW_SKILL_LEVEL2_DES]
+Die Klone haben nun 40% der Werte der ursprünglichen Pflanze.
+
+[PINECLONE_NEW_SKILL_LEVEL3_DES]
+Die Klone entsprechen nun 60% der ursprünglichen Pflanze.
+
+[PINECLONE_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen wird mit hoher Wahrscheinlichkeit direkt die Spezialdünger-Fähigkeit ausgelöst.
+
+[PINECLONE_NEW_SKILL_LEVEL5_DES]
+Beim Überlappen mit bereits vorhandenen Pflanzen werden freie Plätze im 3×3-Bereich durch Ableger aufgefüllt
+
+[PINECLONE_PLANTFOOD_DESCRIPTION]
+Die kopierten Ableger feuern entlang eines DNA-förmigen Pfades eine große Anzahl von Projektilen ab.
+
+[PINECLONE_AVATAR_PLANTFOOD_DESCRIPTION]
+Beim Einsatz der Spezialdünger-Fähigkeit, feuert jeder Klon eine Energiekugel ab, die ihm 3 Sekunden lang einen Angriffsbonus von +10% gewährt. Wenn ein Klon die Spezialdünger-Fähigkeit einsetzt, wird er in seinen ursprünglichen Zustand zurückversetzt
+
+[COSMICPEA]
+Kosmische Erbse
+
+[COSMICPEA_DESCRIPTION]
+{KEYWORD}Reichweite: {STAT}eine Reihe
+{KEYWORD}Pflanzenmerkmale: {STAT}violette Pflanze, Kosmos-Familie
+
+{FLAVOR}Das Universum ist so groß, eine Erbse so klein. Dieser Kontrast regt wirklich zum Nachdenken an, verstehst du?
+
+[COSMICPEA_DESCRIPTION_HEADER]
+Feuert in gerader Linie. In der Mondbasis können weitere Samenpakete für Erbsenpflanzen beschworen werden
+
+[COSMICPEA_TOOLTIP]
+Feuert und kann in der Mondbasis Samenpakete erschaffen.
+
+[COSMICPEA_PRODUCT_SHORT_DESC]
+Feuert und kann in der Mondbasis Samenpakete erschaffen.
+
+[COSMICPEA_SKILL_LEVEL1]
+Kosmische Versorgung
+
+[COSMICPEA_SKILL_LEVEL1_DES]
+Das Intervall für die Erzeugung zufälliger Samenpakete für Erbsenpflanzen wird auf 28 Sekunden verkürzt; mit einer Wahrscheinlichkeit von 5% wird unmittelbar nach der Erzeugung eines Samenpakets ein weiteres erzeugt
+
+[COSMICPEA_SKILL_LEVEL2]
+Kosmische Kampfbereitschaft
+
+[COSMICPEA_SKILL_LEVEL2_DES]
+Das Intervall für die Erzeugung zufälliger Erbsenpflanzen-Samenpakete wird auf 25 Sekunden verkürzt; mit einer Wahrscheinlichkeit von 10% wird unmittelbar nach der Erzeugung eines Samenpakets ein weiteres erzeugt
+
+[COSMICPEA_SKILL_LEVEL5]
+Sternenwirbelexplosion
+
+[COSMICPEA_SKILL_LEVEL5_DES]
+Mit einer Wahrscheinlichkeit von 25% wird ein Himmelskörper abgeschossen, der sich um Zombies windet. Wenn der Himmelskörper den Mittelpunkt erreicht, verursacht er eine Explosion mit einem Wirkungsbereich von 3x3.
+
+[COSMICPEA_AVATAR_NAME]
+Kosmische Erbsen-Verkleidung
+
+[STORE_PRODUCT_AVATAR_COSMICPEA]
+Die Spezialdünger-Fähigkeit kann nun 5 kosmische Pflanzen evolvieren
+
+[STORE_PRODUCT_AVATAR_COSMICPEA_TITLE]
+Kosmische Erbse-Verkleidung
+
+[COSMICPEA_NEW_SKILL_LEVEL1_DES]
+Angriffe verursachen kosmischen Schaden, wenden den Vernichtungseffekt auf Zombies an, verhindern den Todseffekt bestimmter Spezialzombies und verseht Zombies mit Sternmarkierungen. Bei 5 Sternmarkierungen wird eine Explosion mit prozentualem Schaden ausgelöst. Alle 30 Sekunden wird ein Erbsenpflanzen-Samenpaket erzeugt.
+
+[COSMICPEA_NEW_SKILL_LEVEL2_DES]
+Das Intervall für die Erzeugung zufälliger Erbsenpflanzen-Samenpakete wird auf 28 Sekunden verkürzt; mit einer Wahrscheinlichkeit von 5% wird unmittelbar nach der Erzeugung eines Samenpakets ein weiteres erzeugt.
+
+[COSMICPEA_NEW_SKILL_LEVEL3_DES]
+Das Intervall für die Erzeugung zufälliger Erbsenpflanzen-Samenpakete wird auf 25 Sekunden verkürzt; mit einer Wahrscheinlichkeit von 10% wird unmittelbar nach der Erzeugung eines Samenpakets ein weiteres erzeugt.
+
+[COSMICPEA_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, dass sich die Pflanze sofort um eine Form weiterentwickelt.
+
+[COSMICPEA_NEW_SKILL_LEVEL5_DES]
+Schießt mit einer bestimmten Wahrscheinlichkeit verstärkte Erbsen ab, die höheren Schaden verursachen und sich mit jeder Weiterentwicklungsstufe zunehmend verstärken.
+
+[COSMICPEA_PLANTFOOD_DESCRIPTION]
+Maximal 3 Kosmische Erbsen in derselben Reihe entwickeln sich zur nächsten Stufe der Kosmischen Erbse weiter. Bei Erreichen der höchsten Stufe werden beim Einsatz der Spezialdünger-Fähigkeit zahlreiche Kosmische Erbsen-Geschosse abgefeuert.
+
+[COSMICPEA_AVATAR_PLANTFOOD_DESCRIPTION]
+Die maximale Anzahl an Pflanzen, die sich in der Reihe der Pflanze zu kosmischen Pflanzen entwickeln können, wird auf 5 erhöht.
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD]
 Elite Roman BALLISTA
 
+[TASK_WORLDTASK_MOON1]
+Schließe den einfachen Level am 13. Tag der Mondbasis ab
+
+[TASK_WORLDTASK_MOON2]
+Schließe den schwierigen Level am 13. Tag der Mondbasis ab
+
+[TASK_WORLDTASK_MOON3]
+Schließe die ultimative Herausforderung der Mondbasis ab
+
+[SOUDACHE_NOT_OPEN]
+Der Riss zur Zeit-Raum-Expedition ist derzeit nicht geöffnet.
+
+[SOUDACHE_TIPS_DESC]
+1. Nach Abschluss des letzten Levels im Schwierigkeitsmodus „Schwer“ wird der Endlosmodus freigeschaltet.
+2. Der Endlosmodus umfasst insgesamt 100 Wellen, wobei in jeder Welle zufällig Zombies aus dem gesamten Zombie-Pool der geheimen Reiche ausgewählt werden. Die Stufe und Anzahl der Zombies steigen dabei schrittweise an.
+3. Wenn du den Endlosmodus erfolgreich abschließt, erhältst du eine große Menge an Premium-Münzen als Belohnung, die du im Shop gegen Gedenk-Avatare einlösen kannst.
+
+[SOUDACHE_CRYSTAL_DUST_COUNT]
+{NUM}
+
+[SOUDACHE_BTN_START_EXPEDITION]
+Expedition starten
+
+[SOUDACHE_BTN_GIFT_BOX]
+Zeit-Raum-Geschenkbox
+
+[SOUDACHE_BTN_PANNIE]
+Pannie Tech
+
+[SOUDACHE_BTN_COLLECTION]
+Sammelvitrine
+
+[SOUDACHE_BTN_REFIT]
+MO umrüsten
+
+[SOUDACHE_SELECT_DIFFICULTY]
+Schwierigkeitsgrad auswählen
+
+[SOUDACHE_DIFF_NORMAL]
+Normaler Schwierigkeitsgrad
+
+[SOUDACHE_DIFF_HARD]
+Schwer
+
+[SOUDACHE_DIFF_PERILOUS]
+Gefährlich
+
+[SOUDACHE_DIFF_DESPERATE]
+Verzweifelt
+
+[SOUDACHE_DIFF_CARRY_DUST]
+{NUM}
+
+[SOUDACHE_DIFF_CARRY_DUST_LABEL]
+Verbrauch
+
+[SOUDACHE_DIFF_UNLOCK_HINT0]
+Noch nicht freigeschaltet
+
+[SOUDACHE_DIFF_UNLOCK_HINT1]
+Noch nicht freigeschaltet
+
+[SOUDACHE_DIFF_UNLOCK_HINT2]
+Noch nicht freigeschaltet
+
+[SOUDACHE_DIFF_UNLOCK_HINT3]
+Noch nicht freigeschaltet
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS]
+Bitte schließe den vorherigen Schwierigkeitsgrad ab
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_1]
+Bitte schließe den normalen Schwierigkeitsgrad ab
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_2]
+Bitte schließe den schweren Schwierigkeitsgrad ab
+
+[SOUDACHE_DIFF_LOCKED_PREV_PASS_3]
+Bitte schließe den Modus „Gefährlich“ ab
+
+[SOUDACHE_DIFF_LOCKED_TIME]
+Noch nicht freigeschaltet
+
+[PLAYERS_TRIP_TO_SOUDACHE]
+{PLAYER}s Reise durch Zeit und Raum
+
+[SOUDACHE_DIFF_LOCKED_DAYS_TIME]
+Noch {NUM} Tage verfügbar
+
+[SOUDACHE_BTN_CONFIRM]
+Bestätigen
+
+[SOUDACHE_SHOP_DAVE_HINT]
+Such dir doch gleich die Gegenstände aus, die du brauchst!
+
+[SOUDACHE_SHOP_REFRESH_CONFIRM]
+Möchtest du {NUM} Zeit-Münzen ausgeben, um die Shop-Liste zu aktualisieren?
+
+[SOUDACHE_SHOP_REFRESH_TIPS_TITLE]
+Wahrscheinlichkeit einer Shop-Aktualisierung
+
+[SOUDACHE_SHOP_ACTIVITY_GOT]
+Ausverkauft
+
+[SOUDACHE_SHOP_TITLE]
+Zeit-Raum-Shop
+
+[SOUDACHE_SHOP_PRICE]
+{NUMS}
+
+[SOUDACHE_SHOP_OWNED_COUNT]
+Bereits im Besitz: {NUM}
+
+[SOUDACHE_SHOP_NOT_ENOUGH_DUST]
+Nicht genügend Zeit-Raum-Münzen!
+
+[SOUDACHE_SHOP_BUY_CONFIRM]
+Möchten Sie diesen Gegenstand kaufen?
+
+[SOUDACHE_BAN_REMAINING_SECONDS_TITLE]
+Systemmeldung
+
+[SOUDACHE_BAN_REMAINING_SECONDS_DESC]
+Verbleibende Sperrzeit: {NUM} Stunden
+
+[SOUDACHE_COLLECTION_EMBLEM_PEA_BADGE]
+Erbsen-Abzeichen
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_PEA_BADGE]
+Die Wahrscheinlichkeit, dass Erbsenpflanzen erscheinen, wird erhöht. Verstärkung: Bei einem normalen Angriff einer Erbsenpflanze besteht eine Wahrscheinlichkeit von 20%, dass gleichzeitig 3 Erbsen in einem 15-Grad-Fächer nach rechts abgeschossen werden	
+
+[SOUDACHE_COLLECTION_PEA_BADGE]
+Erbsen-Abzeichen
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PEA_BADGE]
+Die Wahrscheinlichkeit, dass Pflanzen der Erbsen-Reihe erscheinen, wird erhöht. Sie erhalten folgende Verstärkung: Bei einem normalen Angriff haben Pflanzen der Erbsen-Reihe eine Wahrscheinlichkeit von 20%, gleichzeitig drei Erbsen in einem 15-Grad-Fächer nach rechts abzufeuern	
+
+[SOUDACHE_COLLECTION_EMBLEM_ABYSS_BADGE]
+Abgrund-Abzeichen
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_ABYSS_BADGE]
+Die Wahrscheinlichkeit, dass Pflanzen der Abgrund-Reihe später erscheinen, wird erhöht. Sie erhalten eine Verstärkung: Wenn Pflanzen der Abgrund-Reihe oder das Auge des Abgrunds einen Zombie töten, entsteht an der Stelle, an der der Zombie gestorben ist, ein Cthulhu-Zombie	
+
+[SOUDACHE_COLLECTION_ABYSS_BADGE]
+Abgrund-Abzeichen
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_ABYSS_BADGE]
+Die Wahrscheinlichkeit, dass Pflanzen der Abgrund-Reihe später erscheinen, wird erhöht. Du erhältst eine Verstärkung: Wenn eine Pflanze der Abgrund-Reihe oder das Auge des Abgrunds einen Zombie tötet, erscheint an der Stelle, an der der Zombie gestorben ist, ein Cthulhu-Zombie	
+
+[SOUDACHE_COLLECTION_EMBLEM_SHROOM_BADGE]
+Pilz-Abzeichen
+
+[SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_SHROOM_BADGE]
+Die Wahrscheinlichkeit, dass Pilz-Pflanzen später erscheinen, wird erheblich erhöht
+
+[SOUDACHE_COLLECTION_SHROOM_BADGE]
+Pilz-Abzeichen
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SHROOM_BADGE]
+Die Wahrscheinlichkeit, dass Pilz-Pflanzen später erscheinen, wird erheblich erhöht
+
+[SOUDACHE_COLLECTION_CAT_STICKER]
+Katzen-Aufkleber
+
+[SOUDACHE_COLLECTION_DESCRIPTION_CAT_STICKER]
+Auf der Erde im Universum Nr. 777 sind diese Aufkleber bei den Kindern vor Ort sehr beliebt. Wenn du magst, kannst du ihn dir auf die Stirn kleben! (Mit einer gewissen Wahrscheinlichkeit verwandelst du dich dann in eine Katze.)
+
+[SOUDACHE_COLLECTION_ZOMBIE_NEWSPAPER]
+Zombie-Zeitung
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_NEWSPAPER]
+Alte Zeitungen, die Zombies aus verschiedenen Epochen hinterlassen haben und chaotische, aber sehr zombie-typische Nachrichten enthalten.
+
+[SOUDACHE_COLLECTION_IMP_BACKPACK]
+Rucksack des kleinen Wichts zum Kindertag
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD_DESCRIPTION]
-Oh mein Gott! Diese explodierenden Vasen sind nicht nur mit Zombies, sondern auch mit Hühnern gefüllt! Das ist so traurig!
-
+Oh mein Gott! Diese explodierenden Vasen sind nicht nur mit Zombies, sondern auch mit Hühnern gefüllt! Das ist so traurig
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD_DESCRIPTION_HEADER]
 Der Zombie, der dieses Belagerungsfahrzeug steuert, unterscheidet sich schon seit seiner Kindheit von anderen Zombies. Ihm fehlt das Verständnis für Humor und Ironie, und er ist es gewohnt, mit seinem außergewöhnlichen IQ anzugeben. Obwohl das von ihm modifizierte Belagerungsfahrzeug mehrere Vasen gleichzeitig werfen kann, sind aufgrund seiner geringen Popularität nur wenige Zombies bereit, in seine Vasen einzudringen, was ihn dazu zwingt, eine Menge Hühner hineinzustopfen.
