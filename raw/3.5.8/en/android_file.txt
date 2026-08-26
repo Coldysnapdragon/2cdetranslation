@@ -55320,6 +55320,258 @@ Auf der Erde im Universum Nr. 777 sind diese Aufkleber bei den Kindern vor Ort s
 [SOUDACHE_COLLECTION_ZOMBIE_NEWSPAPER]
 Zombie-Zeitung
 
+[ZOMBIE_MOON]
+Astronauten-Zombie
+
+[ZOMBIE_MOON_DESCRIPTION_HEADER]
+Gewöhnlicher Zombie ohne besondere Fähigkeiten
+
+[ZOMBIE_MOON_DESCRIPTION]
+Der Astronauten-Zombie lebt in ständiger Angst, da sein Sauerstoffhelm bei einem Sturz fast vollständig zerbrochen ist. Aber er ist ein Zombie und braucht gar keine Luft zum Atmen – so wie ein Fisch, der vom Fahrrad gefallen ist.
+
+[ZOMBIE_MOON_FLAG]
+Astronauten-Flaggen-Zombie
+
+[ZOMBIE_MOON_FLAG_DESCRIPTION_HEADER]
+Gewöhnlicher Zombie, ohne besondere Fähigkeiten
+
+[ZOMBIE_MOON_FLAG_DESCRIPTION]
+Als erfahrener Reiseleiter der ZASA (ZASA-Astronauten-Tourismusbehörde) hält der Astronauten-Flaggen-Zombie stets eine Flagge hoch, um die Zombies zu führen. Da es im Weltraum jedoch keinen Wind gibt, lässt sich seine Flagge nie entfalten. Da er clever ist, hat er die ursprüngliche Stoffflagge durch eine aus Eisen ersetzt und so eine „Flagge“ erhalten, die ewig weht.
+
+[ZOMBIE_MOON_ARMOR1]
+Astronauten-Pylonen-Zombie
+
+[ZOMBIE_MOON_ARMOR1_DESCRIPTION_HEADER]
+Gewöhnlicher Zombie, ohne besondere Fähigkeiten
+
+[ZOMBIE_MOON_ARMOR1_DESCRIPTION]
+Um in der Schwerelosigkeit des Weltraums, wo es keinen Unterschied zwischen oben und unten gibt, eine feste Position zu gewährleisten, verfügen diese speziell für den Weltraum entwickelten Absperrungen über eine sehr starke Haftkraft. Sobald sie den Boden erkannt haben und sich erfolgreich befestigt haben, lassen sie sich auf keinen Fall mehr herausziehen. Normalerweise tauchen solche Absperrungen nicht auf den Köpfen von Zombies auf. Leider ist der Astronauten-Pylonen-Zombie aus dem Boden gekrochen...
+
+[ZOMBIE_MOON_ARMOR2]
+Astronauten-Eimer-Zombie
+
+[ZOMBIE_MOON_ARMOR2_DESCRIPTION_HEADER]
+Gewöhnlicher Zombie, ohne besondere Fähigkeiten
+
+[ZOMBIE_MOON_ARMOR2_DESCRIPTION]
+Ursprünglich diente der Eimer des Astronauten-Eimer-Zombies dazu, Wasser aufzubewahren, doch als er ins All flog, stellte er fest, dass es im Weltraum völlig sinnlos ist, Wasser in einem Eimer aufzubewahren. Also setzte er sich den Eimer auf den Kopf – er passte wie angegossen, als wäre der Eimer von Geburt an dafür bestimmt gewesen, auf seinem Kopf zu sitzen. ...
+
+[ZOMBIE_MOON_ARMOR3]
+Astronauten-Meteorit-Zombie
+
+[ZOMBIE_MOON_ARMOR3_DESCRIPTION_HEADER]
+Gewöhnlicher Zombie, ohne besondere Fähigkeiten
+
+[ZOMBIE_MOON_ARMOR3_DESCRIPTION]
+Im unendlichen Universum ist die Wahrscheinlichkeit, dass ein Zombie von einem Meteoriten am Kopf getroffen wird, keineswegs gleich Null. Der Astronauten-Meteoriten-Zombie ist das anschaulichste Beispiel dafür – selbst heute noch ist es ihm nicht gelungen, den in seinem Kopf steckenden Meteoriten herauszuziehen...
+
+[ZOMBIE_MOON_GARGANTUAR]
+Astronauten-Gargantua-Zombie
+
+[ZOMBIE_MOON_GARGANTUAR_DESCRIPTION_HEADER]
+Gewöhnlicher Gargantua-Zombie, ohne besondere Fähigkeiten
+
+[ZOMBIE_MOON_GARGANTUAR_DESCRIPTION]
+Hey! Wie ist dieser Gargantua hier hochgekommen? Ich erinnere mich, dass das Raumschiff keine Sitze in Übergröße hatte! Was … was soll das heißen, „in Teilen transportiert und vor Ort zusammengebaut“?
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR]
+Supernova-Gargantua
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION_HEADER]
+Tötet alle Pflanzen der selben Rasse auf dem Spielfeld sofort, nachdem er eine Pflanze dieser Rasse zerschlagen hat
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION]
+Der Supernova-Gargantua war einst der Assistent des Gewinners des kosmischen Angelwettbewerbs … Seine Aufgabe als Assistent bestand darin, zu den Positionen der anderen Teilnehmer zu gehen und dort mit seinem Supernova-Stab als Angel zu fischen. Immer wenn es ihm gelang, einen Fisch zu fangen, wurden alle Fische in seiner Umgebung von einem Schwarzen Loch verschluckt. Was für eine hinterhältige Taktik.
+
+[ZOMBIE_MOON_WALKER]
+Der Moon-Walker-Zombie
+
+[ZOMBIE_MOON_WALKER_DESCRIPTION_HEADER]
+Bewegt sich springend fort; während des Sprungs kann er nicht von flach fliegenden Kugeln getroffen werden; wenn er beim Landen auf eine Pflanze tritt, springt er sofort weiter
+
+[ZOMBIE_MOON_WALKER_DESCRIPTION]
+Von einem Turner zum athletischsten Astronauten – die inspirierende Geschichte des Zombie-Moon-Walkers hat viele kleine Zombies motiviert. Denn sein Traum war es, immer höher zu springen, so hoch, dass er die Sterne berühren kann. Jetzt hat er es geschafft!
+
+[ZOMBIE_TELEPORT_LEFT]
+Zombie mit Vorwärts-Teleportation
+
+[ZOMBIE_TELEPORT_LEFT_DESCRIPTION_HEADER]
+Teleportiere Kristalle und Zombies, um die Anordnung auf dem Spielfeld durcheinanderzubringen
+
+[ZOMBIE_TELEPORT_LEFT_DESCRIPTION]
+Von der Reihenfolge beim Toilettengang über das Schlafen bis hin zum Essen – bei allem, was er tut, muss er und sein Zwillingsbruder alles in umgekehrter Reihenfolge tun
+
+[ZOMBIE_TELEPORT_RIGHT]
+Zombie rückwärts teleporter
+
+[ZOMBIE_TELEPORT_RIGHT_DESCRIPTION_HEADER]
+ Teleportiert Kristalle und Pflanzen, um die Anordnung auf dem Spielfeld durcheinanderzubringen
+
+[ZOMBIE_TELEPORT_RIGHT_DESCRIPTION]
+Er und sein Zwillingsbruder machen alles genau umgekehrt, einschließlich der Reihenfolge beim Essen, Schlafen und Toilettengang
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP]
+Kosmischer Wicht-Zombie
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION_HEADER]
+Verwandelt sich in der siebten Spalte in einen noch bedrohlicheren Wicht-Zombie
+
+[ZOMBIE_ZOMBIE_COSMIC_IMP_DESCRIPTION]
+Vor euch steht nun: der höchste Berg der Zombie-Cosplay-Szene! Der längste Fluss der Zombie-Filmwelt!
+
+[ZOMBIE_MOON_SHIP5000]
+Mechanischer Kampfkreuzer Typ 5000
+
+[ZOMBIE_MOON_SHIP5000_DESCRIPTION_HEADER]
+Stellt den umliegenden Zombies einen Schutzschild zur Verfügung. Feuert kosmische Zombie-Imps ab; nach vier Schüssen kommt es zu Überhitzung
+
+[ZOMBIE_MOON_SHIP5000_DESCRIPTION]
+Eines der fortschrittlichsten technologischen Meisterwerke des Zombie-Universums. Es ist nicht nur mit einem Schildgenerator ausgestattet, sondern kann auch ununterbrochen „Kosmische Zombie-Kobolde“ aus seinen interdimensionalen Kanonen abfeuern. Auch wenn die Munitionskapazität nur vier Schuss beträgt und häufiges Abfeuern zu Überhitzung und Absturz führt – was macht das schon? Solange der Pilot sorgfältig überlegt, wie er das Schiff steuern muss, wird es eines Tages wieder abheben!
+
+[NARRATIVE_MOON1_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE}Die Mondoberfläche ist in einem so schlechten Zustand, dass man dort keine Pflanzen anbauen kann.
+
+[NARRATIVE_MOON1_TUTORIAL_1_2]
+{SAY:WINNIE} Wir könnten versuchen, die Pflanzen auf Moosflächen anzupflanzen.
+
+[NARRATIVE_MOON1_TUTORIAL_2_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE} Super! Gibt es eine Möglichkeit, mehr Moosflächen zu schaffen?
+
+[NARRATIVE_MOON1_TUTORIAL_2_2]
+{SAY:WINNIE} Du kannst versuchen, Weltraummoss rund um die Moosflächen anzupflanzen
+
+[NARRATIVE_MOON1_TUTORIAL_3_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE} Mir ist gerade aufgefallen, dass wir die Pflanzen gepflanzt haben, ohne Sonnenlicht zu verbrauchen.
+
+[NARRATIVE_MOON1_TUTORIAL_3_2]
+{SAY:WINNIE} Stimmt, die Pflanzen beziehen ihre Energie jetzt aus dem Lebenserhaltungsfeld und sind nicht mehr auf Sonnenlicht angewiesen
+
+[NARRATIVE_MOON1_TUTORIAL_3_3]
+{SAY:WINNIE} Jede Pflanze erhöht die Strombelastung des Lebenserhaltungsfeldes
+
+[NARRATIVE_MOON1_TUTORIAL_4_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{EXCITED:ASTRONAUTCRAZYDAVE} Die Zombie-Armee kommt! Ich helfe dir beim Pflanzen!
+
+[NARRATIVE_MOON1_TUTORIAL_5_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:WINNIE} Pflanz keine Pflanzen mehr! Das Lebenserhaltungsfeld ist bereits in einen Pufferüberlastungszustand geraten, und die Pflanzen werden instabil!
+
+[NARRATIVE_MOON1_TUTORIAL_5_2]
+{EXCITED:ASTRONAUTCRAZYDAVE} Hm, hm, hm~ (hat nichts gehört)
+
+[NARRATIVE_MOON1_TUTORIAL_6_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE} Hm? Ich kann keine Pflanzen mehr anbauen, sie scheinen sich gar nicht mehr zu bewegen.
+
+[NARRATIVE_MOON1_TUTORIAL_6_2]
+{EXCITED:WINNIE} Das liegt daran, dass das Lebenserhaltungsfeld in einen Zustand extremer Überlastung geraten ist. Wir müssen jetzt einen Weg finden, die Stromobergrenze zu erhöhen!
+
+[NARRATIVE_MOON1_TUTORIAL_6_3]
+{EXCITED:WINNIE} Probier es doch mal mit dem Sammler! Der Sammler kann durch das Sammeln von Kristallen die Stromobergrenze erhöhen!
+
+[NARRATIVE_MOON1_TUTORIAL_7_1]
+{NPC_ENTER:WINNIE}{SAY:WINNIE} Großartig, endlich ist wieder alles normal!
+
+[NARRATIVE_MOON1_TUTORIAL_7_2]
+{SAY:WINNIE} Dann machen wir uns bereit für die nächste Herausforderung!
+
+[NARRATIVE_MOON_2_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Weltraumpflanzen können direkt auf der Mondoberfläche angebaut werden, ganz ohne die Hilfe von Weltraummoss
+
+[NARRATIVE_MOON_2_INTRO_2]
+{SAY:ASTRONAUTCRAZYDAVE} Moment mal! Im Vakuum kann man doch nichts hören – warum heulen diese Zombies dann trotzdem?
+
+[NARRATIVE_MOON_2_INTRO_3]
+{SAY:ASTRONAUTCRAZYDAVE} Moment mal! Ich heule ja auch.
+
+[NARRATIVE_MOON_2_INTRO_4]
+{SAY:WINNIE} Ich habe dir unsichtbare Kopfhörer eingebaut, die die Geräusche des Schlachtfelds in Echtzeit simulieren.
+
+[NARRATIVE_MOON_2_INTRO_5]
+{SAY:ASTRONAUTCRAZYDAVE} Könnte man das durch das Kauen von Tortillas ersetzen?
+
+[NARRATIVE_MOON_4_INTRO_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:ASTRONAUTCRAZYDAVE} Die Zombies haben etwas Glitzerndes an sich! Das müssen Werbeaufkleber sein!
+
+[NARRATIVE_MOON_4_INTRO_2]
+{SAY:WINNIE} Die Analyseergebnisse zeigen, dass es sich um Sende-Beacons handelt.
+
+[NARRATIVE_MOON_4_INTRO_3]
+{SAY:WINNIE} Zombies mit wenig Leben kehren nach ihrem Rückzug über die Beacons mit voller Gesundheit zurück; wenn man sie mit Weltraumpflanzen vernichtet, kann man die Aktivierung der Beacons verhindern.
+
+[NARRATIVE_MOON_4_INTRO_4]
+{SAY:ASTRONAUTCRAZYDAVE} Deshalb müssen wir sie restlos beseitigen – ohne auch nur eine Rücksendeadresse zu hinterlassen.
+
+[NARRATIVE_ROCKET_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Vor uns wurde eine Trägerrakete entdeckt.
+
+[NARRATIVE_ROCKET_TUTORIAL_1_2]
+{SAY:ASTRONAUTCRAZYDAVE} Eine Rakete! Ich habe mich schon angeschnallt!
+
+[NARRATIVE_ROCKET_TUTORIAL_2_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Wenn Weltraum-Erbsen, Weltraum-Nüsse und Weltraum-Pilze mit der Rakete fliegen, werden unterschiedliche Effekte ausgelöst.
+
+[NARRATIVE_ROCKET_TUTORIAL_2_2]
+{SAY:CRAZYDAVE} Abheben!!!
+
+[ROCKET_TUTORIAL_PLANT_COSMICPEA]
+Versuche, die kosmische Erbse auf der Rakete anzupflanzen.
+
+[NARRATIVE_METEOR_TUTORIAL_1_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Alarm! Ein radioaktiver Meteorit nähert sich!
+
+[NARRATIVE_METEOR_TUTORIAL_1_2]
+{SAY:ASTRONAUTCRAZYDAVE} Weltraum-Express? Ich habe aber keinen leuchtenden Stein bestellt!
+
+[NARRATIVE_METEOR_TUTORIAL_2_1]
+{NPC_ENTER:WINNIE}{SAY:WINNIE} Der radioaktive Meteorit greift die umliegenden Parzellen kontinuierlich an. Entsende so schnell wie möglich Sammler, um ihn abzubauen.
+
+[NARRATIVE_METEOR_TUTORIAL_3_1]
+{NPC_ENTER:ASTRONAUTCRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Die Gewinnung ist abgeschlossen. Der radioaktive Meteorit verschafft uns eine dauerhafte Steigerung der Stromversorgung.
+
+[NARRATIVE_METEOR_TUTORIAL_3_2]
+{SAY:ASTRONAUTCRAZYDAVE} Es ist also gar kein böser Stein, er ist nur etwas unhöflich gelandet!
+
+[METEOR_TUTORIAL_TAP_TERMINAL]
+Tippe auf das Sammelterminal, um das Einsatzfenster zu öffnen
+
+[METEOR_TUTORIAL_TERMINAL_DRAG]
+Ziehe das Sammelterminal auf das Spielfeld
+
+[MOON1_TUTORIAL_PLANT_PEASHOOTER]
+Ziehe den Erbsenschützen auf das Moosfeld
+
+[MOON1_TUTORIAL_PLANT_COSMOSS]
+Pflanze Kosmos-Moos um das Moosfeld herum, um ein Moosfeld zu erzeugen
+
+[MOON1_TUTORIAL_CAPACITY_BANK]
+In der oberen linken Ecke werden der aktuelle Stromverbrauch und die maximale Stromkapazität angezeigt
+
+[MOON1_TUTORIAL_PEASHOOTER_SLOT]
+Im Pflanzen-Slot wird der Stromverbrauch der jeweiligen Pflanze angezeigt
+
+[MOON1_TUTORIAL_TERMINAL]
+Klicke auf das Ernte-Terminal, um das Einsatzfenster zu öffnen
+
+[MOON1_TUTORIAL_TERMINAL_DRAG]
+Ziehe das Ernte-Terminal auf das Spielfeld
+
+[ANNIVERSARY_2026_1_ZOMBIE_MODIFIER]
+Schadensminderung für Pharao-Zombies
+
+[PLAYERS_TRIP_TO_MOON]
+{PLAYER}s Reise zur Mondbasis
+
+[MOON]
+Mondbasis
+
+[MOON_LEVEL_NAME]
+Mondbasis – Tag {LEVEL_NUMBER}
+
+[MOON_HARD_LEVEL_NAME]
+Mondbasis (Experten-Schwierigkeitsgrad) – Tag {LEVEL_NUMBER}
+
+[WORLD_NAME_MOON]
+Mondbasis
+
 [SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_NEWSPAPER]
 Alte Zeitungen, die Zombies aus verschiedenen Epochen hinterlassen haben und chaotische, aber sehr zombie-typische Nachrichten enthalten.
 
