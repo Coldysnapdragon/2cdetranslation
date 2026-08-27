@@ -11,6 +11,73 @@ Lass das Rasenobjekt nicht zerstört werden!
 [STARCHALLENGE_PROTECTTHEGRIDITEM_NAME]
 Schütze das Rasenobjekt
 
+[DARKMATTER_DRAGONFRUIT]
+Dunkle Materie-Drachenfrucht
+
+[DARKMATTER_DRAGONFRUIT_DESCRIPTION]
+{KEYWORD}Reichweite: {STAT} eine Zeile
+{KEYWORD}Pflanzenmerkmale: {STAT} rote Pflanze, Kosmos-Familie
+
+{FLAVOR}Ihre Vorfahren wurden bis in die Tiefen des Weltraums gejagt. Nun kehren ihre Nachkommen zurück, um eiskalte, fruchtige Rache zu üben.
+
+[DARKMATTER_DRAGONFRUIT_DESCRIPTION_HEADER]
+Feuert Dunkle-Materie-Feuerbälle ab, die getroffenen Zombies Schaden mit kosmischem Attribut zufügen und den Quantenzustand auslösen. Im Quantenzustand verlangsamt sich die Zaubergeschwindigkeit von Magier-Zombies um das Dreifache; direkt abgefeuerte Kugeln werden nicht zerstört, wenn sie einen Zombie im Quantenzustand treffen, sondern verursachen Schaden und lösen den Treffer-Effekt der Kugel aus.
+
+[DARKMATTER_DRAGONFRUIT_TOOLTIP]
+Stößt Dunkle-Materie-Feuerbälle aus, die Schaden vom Typ „Kosmos“ verursachen und den Quantenzustand auslösen.
+
+[DARKMATTER_DRAGONFRUIT_PRODUCT_SHORT_DESC]
+Ein Angriff mit einer Dunkle-Materie-Feuerkugel, der getroffenen Zombies Schaden vom Typ „Kosmos“ zufügt und den Quantenzustand auslöst. Im Quantenzustand verlangsamt sich die Zaubergeschwindigkeit von Zauberer-Zombies um das Dreifache; normale Projektile, die einen Zombie im Quantenzustand treffen, werden nicht zerstört, sondern verursachen Schaden und lösen den Treffer-Effekt des jeweiligen Projektils aus.
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1]
+Energiebeherrschung
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL1_DES]
+Wenn eine Flammenkugel ein Ziel trifft, löst sie hinter dem Ziel eine Explosion mit einem Radius von einem Feld aus, die den Zombies im Wirkungsbereich kosmischen Schaden zufügt und ihnen den Quantenzustand auferlegt.
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2]
+Energiebeherrschung
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL2_DES]
+Der Explosionsbereich der Feuerkugel wird auf einen fächerförmigen Bereich erweitert, der den Zombies in diesem Bereich kosmischen Schaden zufügt und ihnen den Quantenzustand auferlegt
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5]
+Vernichtender Drachenatem
+
+[DARKMATTER_DRAGONFRUIT_SKILL_LEVEL5_DES]
+Mit einer Wahrscheinlichkeit von 30% wird ein Kollapsgeschoss ausgespuckt. Trifft dieses den ersten Zombie (außer Elite- und Boss-Zombies), wird dieser vernichtet (sofortiger Tod), woraufhin das Geschoss zu einem normalen Angriffsgeschoss wird. Nach dem Einsatz der Spezialfähigkeit „Energiebohne“ wird beim nächsten normalen Angriff garantiert ein Kollapsgeschoss ausgespuckt.
+
+[DARKMATTER_DRAGONFRUIT_AVATAR_NAME]
+Dunkle Materie – Drachenfrucht-Skin
+
+[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT]
+Anzahl der Atemangriffe auf 5 erhöht
+
+[STORE_PRODUCT_AVATAR_DARKMATTER_DRAGONFRUIT_TITLE]
+Dunkle Materie – Drachenfrucht-Skin
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL1_DES]
+Feuert einen Dunkle-Materie-Feuerball ab, der getroffenen Zombies Schaden vom Typ „Kosmos“ zufügt und ihnen den Quantenzustand verleiht.
+Quantenstatus: Die Zaubergeschwindigkeit von Magier-Zombies verlangsamt sich um das Dreifache; Projektile, die einen Zombie im Quantenstatus treffen, durchdringen diesen, ohne zu verschwinden, verursachen normalen Schaden und lösen den Treffer-Effekt des Projektils aus
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL2_DES]
+Wenn die Feuerkugel ein Ziel trifft, löst sie hinter dem Ziel eine Explosion mit einem Radius von einem Feld aus, die den Zombies im Wirkungsbereich kosmischen Schaden zufügt und ihnen den Quantenzustand auferlegt.
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL3_DES]
+Der Explosionsradius der Feuerkugel wird auf einen fächerförmigen Bereich erweitert, der den Zombies im Wirkungsbereich kosmischen Schaden zufügt und ihnen den Quantenzustand auferlegt.
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen wird mit geringer Wahrscheinlichkeit direkt die „Energiebohnen“-Superattacke ausgelöst.
+
+[DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
+Mit einer Wahrscheinlichkeit von 30% spuckt sie eine Kollapskugel aus, die den ersten getroffenen Zombie (außer Elite- und Boss-Zombies) sofort vernichtet (Instant-Kill); danach verwandelt sich die Kugel in eine normale Angriffskugel. Nach dem Einsatz der „Energiebohne“-Superfähigkeit spuckt sie beim nächsten normalen Angriff garantiert eine Kollapskugel aus.
+
+[DARKMATTER_DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
+Die Dunkle-Materie-Drachenfrucht beschwört einen Drachen, der jeweils eine riesige Dunkle-Materie-Kugel auf drei zufällig ausgewählte Zombies auf dem Spielfeld spuckt. Dies fügt den Zombies im 5×5-Bereich um den Aufprallpunkt 1500 Schaden zu und versetzt sie in den Quantenzustand.
+
+[DARKMATTER_DRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
+Die Anzahl der Drachenatems-Angriffe wird auf 5 erhöht.
+
 [DEFEAT_X_IMPS]
 Töte {NUMBER} Wichte.
 
@@ -339,7 +406,7 @@ Spielanleitung
 1. Spielübersicht: In jeder Runde treten 8 Spieler gegeneinander an und es finden insgesamt 8 Runden mit automatischen Kampfvorhersagen statt. Jeder Spieler beginnt mit 10.000 Punkten. Nach Abschluss der gesamten Runde wird die Gesamtwertung anhand der endgültigen Gesamtpunktzahl der Spieler erstellt.
 2. Spielablauf: Vor jeder Runde hast du 20 Sekunden Zeit, die Aufstellungen beider Seiten zu begutachten. Die Spieler müssen ihre Standardpunkte für diese Runde einsetzen und sich für [links] oder [rechts] entscheiden. In den Runden 6 bis 8 wird die Option „Volle Unterstützung“ freigeschaltet, bei der die Spieler aktiv alle ihre Punkte für die Vorhersage einsetzen können. Nach Ablauf des Countdowns wählt das System zufällig eine Option aus, wenn keine Auswahl getroffen wurde; wenn die aktuellen Punkte nicht ausreichen, um die Anforderungen dieser Runde zu erfüllen, wird die Option „Volle Unterstützung“ automatisch aktiviert und alle Punkte werden verbraucht.
 3. Sieg- und Niederlage-Regeln: In ungeraden Runden lautet das Spiel „Pflanzen verteidigen gegen Zombies greifen an“. Die Zombies gewinnen, wenn sie die gegnerische Grundlinie durchbrechen oder alle Pflanzen vernichten; andernfalls gewinnen die Pflanzen. In geraden Runden lautet das Spiel „Zombies gegen Zombies“. Derjenige gewinnt, der als Erster die gegnerische Grundlinie durchbricht oder den Gegner vollständig vernichtet.
-4. Zusätzlicher Buff: Während des gesamten Spiels gibt es einen „Anfeuerungs-Buff“: Alle Einheiten erhalten zu Beginn einen Bonus von 50 % auf Bewegungs- und Angriffsgeschwindigkeit; nach 20 Sekunden steigt dieser Bonus auf 100 %! Erreicht der Kampf eine Dauer von 60 Sekunden, geht das Spiel direkt in die „Hitzeschaden-Nachspielzeit“ über: Alle Einheiten verlieren pro Sekunde 6 % ihrer maximalen Lebenspunkte durch Verbrennung.
+4. Zusätzlicher Buff: Während des gesamten Spiels gibt es einen „Anfeuerungs-Buff“: Alle Einheiten erhalten zu Beginn einen Bonus von 50% auf Bewegungs- und Angriffsgeschwindigkeit; nach 20 Sekunden steigt dieser Bonus auf 100%! Erreicht der Kampf eine Dauer von 60 Sekunden, geht das Spiel direkt in die „Hitzeschaden-Nachspielzeit“ über: Alle Einheiten verlieren pro Sekunde 6% ihrer maximalen Lebenspunkte durch Verbrennung.
 5. Event-Belohnungen: Nach Spielende werden entsprechend der Gesamtpunktzahl [Meilensteinpunkte] vergeben. Durch das Sammeln von Punkten können Spieler ihren Meilenstein-Level erhöhen und stufenweise Belohnungen erhalten. Einige Belohnungen werden zeitabhängig freigeschaltet. Solange die jeweilige Zeitphase nicht freigeschaltet ist, kann nach Erreichen des maximalen Levels der aktuellen Stufe keine weitere Erfahrung gesammelt werden.
 
 
@@ -438,7 +505,7 @@ Beschreibung des Dave-Cups
 1. Spielbeschreibung: In jeder Runde treten 8 Spieler gegeneinander an, wobei insgesamt 8 Runden mit automatischen Kampfvorhersagen ausgetragen werden. Jeder Spieler beginnt mit 10.000 Punkten. Nach Abschluss des gesamten Turniers wird die Gesamtwertung anhand der endgültigen Gesamtpunktzahl der Spieler erstellt.
 2. Spielphasen: Vor jeder Runde stehen 20 Sekunden zur Verfügung, um die Aufstellungen beider Seiten zu begutachten. Die Spieler müssen ihre Standardpunkte für diese Runde einsetzen und sich für [links] oder [rechts] entscheiden. In den Runden 6 bis 8 wird die Option „Volle Unterstützung“ freigeschaltet, bei der Spieler aktiv alle ihre Punkte für eine Vorhersage einsetzen können. Nach Ablauf des Countdowns wählt das System zufällig eine Option aus, wenn keine Auswahl getroffen wurde. Reichen die aktuellen Punkte nicht für die Anforderungen dieser Runde aus, wird der Spieler automatisch auf „Volle Unterstützung“ gesetzt und alle Punkte verbraucht.
 3. Sieg- und Niederlage-Regeln: In ungeraden Runden lautet das Spiel „Pflanzen verteidigen gegen Zombies greifen an“. Die Zombies gewinnen, wenn sie die gegnerische Grundlinie durchbrechen oder alle Pflanzen vernichten; andernfalls gewinnen die Pflanzen. In geraden Runden lautet das Spiel „Zombies gegen Zombies“. Derjenige, der zuerst die gegnerische Grundlinie durchbricht oder den Gegner vollständig vernichtet, gewinnt. (Hinweis: Einige Zombie-Fähigkeiten wirken nicht auf andere Zombies.)
-4. Zusätzlicher Buff: Während des gesamten Spiels gibt es einen „Anfeuerungs-Buff“: Alle Einheiten erhalten zu Beginn einen Bonus von 50 % auf Bewegungs- und Angriffsgeschwindigkeit; nach 20 Sekunden steigt dieser Bonus auf 100 %! Wenn der Kampf 60 Sekunden dauert, geht das Spiel direkt in die „Hitzeschaden-Nachspielzeit“: Alle Einheiten verlieren pro Sekunde 6 % ihrer maximalen Lebenspunkte durch Verbrennung.
+4. Zusätzlicher Buff: Während des gesamten Spiels gibt es einen „Anfeuerungs-Buff“: Alle Einheiten erhalten zu Beginn einen Bonus von 50% auf Bewegungs- und Angriffsgeschwindigkeit; nach 20 Sekunden steigt dieser Bonus auf 100%! Wenn der Kampf 60 Sekunden dauert, geht das Spiel direkt in die „Hitzeschaden-Nachspielzeit“: Alle Einheiten verlieren pro Sekunde 6% ihrer maximalen Lebenspunkte durch Verbrennung.
 5. Event-Belohnungen: Nach Spielende werden entsprechend der Gesamtpunktzahl „Meilensteinpunkte“ vergeben. Durch das Sammeln dieser Punkte können Spieler ihre Meilenstein-Stufe erhöhen und so stufenweise Belohnungen erhalten.
 
 [DAVECUP_HEAD_ID_25889]
@@ -961,13 +1028,13 @@ Feuert Giftgasgeschosse ab, um einen giftigen Nebel zu erzeugen, der Zombies ang
 Giftigen Nebel versprühen
 
 [poisonvine_SKILL_LEVEL1_DES]
-Wenn eine giftige Pflanze auf der Grünen Schlangenrebe wächst, erhöht sich der Giftangriffsschaden der Pflanze um 20 % und die Dauer ihres eigenen giftigen Nebels um 1 Sekunde.
+Wenn eine giftige Pflanze auf der Grünen Schlangenrebe wächst, erhöht sich der Giftangriffsschaden der Pflanze um 20% und die Dauer ihres eigenen giftigen Nebels um 1 Sekunde.
 
 [poisonvine_SKILL_LEVEL2]
 Giftnebel-Eruption
 
 [poisonvine_SKILL_LEVEL2_DES]
-Wenn sie auf einer grünen Schlangenrebe gepflanzt werden, erhalten giftige Pflanzen einen 30 %igen Boost auf ihren Giftangriffsschaden und verlängern die Dauer ihres eigenen giftigen Nebels um weitere 1 Sekunde.
+Wenn sie auf einer grünen Schlangenrebe gepflanzt werden, erhalten giftige Pflanzen einen 30%igen Boost auf ihren Giftangriffsschaden und verlängern die Dauer ihres eigenen giftigen Nebels um weitere 1 Sekunde.
 
 [poisonvine_SKILL_LEVEL5]
 Du bist giftig, nicht wahr?
@@ -985,13 +1052,13 @@ Beim Angriff besteht die Chance, dass spezielle Geschosse ausgespuckt werden. We
 Nachdem die ultimative Fertigkeit einen Zombie getroffen hat, wird dieser für 1 Sekunde betäubt.
 
 [poisonvine_NEW_SKILL_LEVEL1_DES]
-Spuckt Giftgasgeschosse aus, um einen giftigen Nebel zu erzeugen, der Zombies angreift. Wenn sie auf einer Grünen Schlangenrebe gepflanzt wird, erhöht jede daran befestigte giftige Pflanze ihren Giftangriffsschaden um 15 %, während die Angriffskraft der Rebe selbst um 30 % steigt und das Angriffsintervall um 10 % sinkt. Wenn der Wirt die Chance hat, Giftangriffe auszuführen, verdoppelt sich diese Wahrscheinlichkeit.
+Spuckt Giftgasgeschosse aus, um einen giftigen Nebel zu erzeugen, der Zombies angreift. Wenn sie auf einer Grünen Schlangenrebe gepflanzt wird, erhöht jede daran befestigte giftige Pflanze ihren Giftangriffsschaden um 15%, während die Angriffskraft der Rebe selbst um 30% steigt und das Angriffsintervall um 10% sinkt. Wenn der Wirt die Chance hat, Giftangriffe auszuführen, verdoppelt sich diese Wahrscheinlichkeit.
 
 [poisonvine_NEW_SKILL_LEVEL2_DES]
-Wenn eine giftige Pflanze auf der Grünen Schlangenrebe angebaut wird, erhöht sich der Giftangriffsschaden der Pflanze um 20 % und die Dauer des Giftnebels verlängert sich um 1 Sekunde.
+Wenn eine giftige Pflanze auf der Grünen Schlangenrebe angebaut wird, erhöht sich der Giftangriffsschaden der Pflanze um 20% und die Dauer des Giftnebels verlängert sich um 1 Sekunde.
 
 [poisonvine_NEW_SKILL_LEVEL3_DES]
-Wenn eine giftige Pflanze auf der Grünen Schlangenrebe angebaut wird, erhöht sich ihr Giftangriffsschaden auf 30 % und die Dauer ihres Giftnebels wird um weitere 1 Sekunde verlängert.
+Wenn eine giftige Pflanze auf der Grünen Schlangenrebe angebaut wird, erhöht sich ihr Giftangriffsschaden auf 30% und die Dauer ihres Giftnebels wird um weitere 1 Sekunde verlängert.
 
 [poisonvine_NEW_SKILL_LEVEL4_DES]
 Beim Anbau besteht eine moderate Chance, die Spezialdünger-Fähigkeit direkt auszulösen.
@@ -2678,7 +2745,7 @@ Willkommen bei Mummys Albtraum!
 Höchste Punktzahl:
 
 [DANGER_ROOM_HIGHEST_LEVEL_REACHED]
-Höchstes Auswirkungslevel: %d
+Höchstes Auswirkungslevel:%d
 
 [DANGER_ROOM_LEVEL_NAME]
 Thriller Island – Level {LEVEL_NUMBER}
@@ -7191,7 +7258,7 @@ Zermatscht Zombies.
 Zeit- und Raumtor
 
 [STAR_GATE_DESCRIPTION]
-Ermöglicht den Eintritt in die Welt von %s!
+Ermöglicht den Eintritt in die Welt von%s!
 
 [STARCHALLENGE_BULLET_SYMBOL]
 
@@ -8330,7 +8397,7 @@ Schaufel-Extra
 Schaufel-Vorteil
 
 [UPGRADE_SHOVEL_DESCRIPTION]
-Erhalte 25 % der Sonnenkosten zurück, wenn du Pflanzen ausgräbst!
+Erhalte 25% der Sonnenkosten zurück, wenn du Pflanzen ausgräbst!
 
 [UPGRADE_STARTING_SUN]
 Extra-Sonnen
@@ -8605,7 +8672,7 @@ Dies ist der weite, endlose Himmel, und die Wolken sind voller gefährlichem Don
 Zombies schwingen alle möglichen gefährlichen Waffen. Pass auf, dass du nicht untergehst!
 
 [WORLD_PREVIEW_STAR_BALANCE]
-Guthaben: %d
+Guthaben:%d
 
 [WORLD_PREVIEW_TEASER_COWBOY]
 22 neue Level!
@@ -8761,6 +8828,71 @@ Kamel-Zombie
 [ZOMBIE_CAMEL_TWOHUMP_DESCRIPTION_HEADER]
 Der Anführer der beiden Kamelgruppen.
 
+[GRAVITREE]
+Schwerkraftbaum
+
+[GRAVITREE_DESCRIPTION]
+{KEYWORD}Reichweite: {STAT}3x3-Bereich
+{KEYWORD}Pflanzenmerkmale: {STAT}Grüne Pflanze, Kosmische Familie
+{FLAVOR}Äpfel fallen nie weit vom Baum weg. Das gilt auch für andere Dinge.
+
+[GRAVITREE_DESCRIPTION_HEADER]
+Sobald Zombies den 3x3-Bereich betreten, wird alle 6 Sekunden eine Schwerkraftunterdrückung ausgelöst, die den Zombies im Bereich Schaden zufügt und sie 4 Sekunden lang verlangsamt. Fliegende Zombies werden in den Boden gedrückt und festgehalten.
+
+[GRAVITREE_TOOLTIP]
+Flächenschaden plus Verlangsamung, festes Festhalten fliegender Zombies
+
+[GRAVITREE_PRODUCT_SHORT_DESC]
+Flächenschaden plus Verlangsamung, zwingt fliegende Zombies zur Untätigkeit
+
+[GRAVITREE_SKILL_LEVEL1]
+Wird sehr schwer
+
+[GRAVITREE_SKILL_LEVEL1_DES]
+Die Angriffsintervalle verkürzen sich auf 5 Sekunden, du erhältst 20% Schadensminderung.
+
+[GRAVITREE_SKILL_LEVEL2]
+Schwer wie Blei
+
+[GRAVITREE_SKILL_LEVEL2_DES]
+Die Angriffsintervalle verkürzen sich auf 4 Sekunden, du erhältst 40% Schadensminderung.
+
+[GRAVITREE_SKILL_LEVEL5]
+Enormer Druck
+
+[GRAVITREE_SKILL_LEVEL5_DES]
+Der Angriff wird zu „Roter Schwerkraft“ aufgewertet. Der Angriffsschaden wird erhöht. Der Angriff drückt alle kleinen und mittelgroßen Zombies im Wirkungsbereich in den Boden, sodass sie sich nicht mehr bewegen können (gilt nicht nur für fliegende Zombies). Dies dauert 3 Sekunden, gefolgt von einer Verlangsamung von 4 Sekunden
+
+[GRAVITREE_AVATAR_NAME]
+Gravitationsbaum-Skin
+
+[STORE_PRODUCT_AVATAR_GRAVITREE]
+Bei Auslösung des Angriffs fällt zusätzlich ein riesiger Apfel auf das Feld, auf dem sich der Charakter befindet; die Explosion des Apfels verursacht Schaden in einem 3×3-Bereich
+
+[STORE_PRODUCT_AVATAR_GRAVITREE_TITLE]
+Gravitree-Outfit
+
+[GRAVITREE_NEW_SKILL_LEVEL1_DES]
+Sobald sich Zombies in einem 3x3-Bereich befinden, wird alle 6 Sekunden eine Schwerkraftunterdrückung ausgelöst, die den Zombies in diesem Bereich Schaden zufügt und sie 4 Sekunden lang verlangsamt. Fliegende Zombies werden in den Boden gedrückt und festgehalten
+
+[GRAVITREE_NEW_SKILL_LEVEL2_DES]
+Die Angriffsintervalle verkürzen sich auf 5 Sekunden, und der Charakter erhält 20% Schadensminderung.
+
+[GRAVITREE_NEW_SKILL_LEVEL3_DES]
+Die Angriffsintervalle verkürzen sich auf 4 Sekunden, und der Charakter erhält 40% Schadensminderung.
+
+[GRAVITREE_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, dass direkt die Spezialdünger-Fähigkeit ausgelöst wird
+
+[GRAVITREE_NEW_SKILL_LEVEL5_DES]
+Der Angriff wird zu „Roter Schwerkraft“ aufgewertet, der Angriffsschaden wird erhöht. Der Angriff drückt alle kleinen und mittelgroßen Zombies im Wirkungsbereich in den Boden, sodass sie sich 3 Sekunden lang nicht bewegen können (nicht beschränkt auf fliegende Zombies), gefolgt von einer Verlangsamung für 4 Sekunden
+
+[GRAVITREE_PLANTFOOD_DESCRIPTION]
+Nach dem Aufladen löst der Gravitationsbaum einmal eine extrem starke Schwerkraft aus. Während des Aufladens werden alle kleinen und mittelgroßen Zombies im Umkreis von 5×5 auf das Feld, auf dem er sich befindet, herangezogen, erleiden Schaden und werden für 6 Sekunden in den Boden gedrückt.
+
+[GRAVITREE_AVATAR_PLANTFOOD_DESCRIPTION]
+Bei Auslösung des Angriffs fällt zusätzlich ein riesiger Apfel auf das Feld, auf dem er sich befindet. Die Explosion des Apfels verursacht Schaden in einem Umkreis von 3×3.
+
 [ZOMBIE_CANNON]
 Wicht-Kanone
 
@@ -8840,6 +8972,71 @@ Zombie-Entdecker
 
 [ZOMBIE_EXPLORER_DESCRIPTION_HEADER]
 Trägt eine Fackel, die deine Pflanzen sofort zerstören kann.
+
+[COSMICNUT]
+Kosmische Nuss
+
+[COSMICNUT_DESCRIPTION]
+{KEYWORD}Reichweite: {STAT} Kein aktiver Angriff
+{KEYWORD}Pflanzenmerkmale: {STAT} Lila Pflanze, Kosmos-Familie
+{FLAVOR}Er ist ein überzeugter Anhänger der numerologischen Numerologie. Wenn man ihm nur die Gelegenheit gibt, könnte er endlos lange über die Geheimnisse der Zahl 3 sprechen.
+
+[COSMICNUT_DESCRIPTION_HEADER]
+Kann sich in regelmäßigen Abständen selbstständig versetzen; in der Mondbasis können weitere Samenpakete für Nusspflanzen beschworen werden
+
+[COSMICNUT_TOOLTIP]
+Kann sich in regelmäßigen Abständen selbstständig versetzen; in der Mondbasis können weitere Samenpakete für Nusspflanzen beschworen werden
+
+[COSMICNUT_PRODUCT_SHORT_DESC]
+Kann sich in regelmäßigen Abständen selbstständig neu positionieren; in der Mondbasis können weitere Samenpakete für Nusspflanzen beschworen werden.
+
+[COSMICNUT_SKILL_LEVEL1]
+Schwarzes Loch – Anziehung
+
+[COSMICNUT_SKILL_LEVEL1_DES]
+Verwandelt sich nach dem Tod in ein Schwarzes Loch, das Zombies aus den Feldern links und rechts jeweils ein Feld weit kontinuierlich zum Zentrum hinzieht. Hält 3 Sekunden lang an.
+
+[COSMICNUT_SKILL_LEVEL2]
+Schwarzes Loch – Anziehung
+
+[COSMICNUT_SKILL_LEVEL2_DES]
+Verwandelt sich nach dem Tod in ein Schwarzes Loch, das Zombies aus jeweils einem Feld links und rechts kontinuierlich zur Mitte hinzieht. Die Wirkung hält 6 Sekunden lang an.
+
+[COSMICNUT_SKILL_LEVEL5]
+Schwarzes Loch – Sprung
+
+[COSMICNUT_SKILL_LEVEL5_DES]
+Das nach dem Tod entstehende Schwarze Loch kann durch Antippen des Lochs und anschließendes Antippen eines Feldes auf dem Spielfeld genutzt werden, um das Schwarze Loch sowie alle nicht immunen Zombies im Umkreis von je einem Feld links und rechts davon an die Zielposition zu teleportieren. Die Teleportation kann während der Existenz jedes Schwarzen Lochs nur einmal genutzt werden. Nach der Teleportation wird die Dauer auf 6 Sekunden zurückgesetzt
+
+[COSMICNUT_AVATAR_NAME]
+Cosmic-Nut-Outfit
+
+[STORE_PRODUCT_AVATAR_COSMICNUT]
+Die maximale Anzahl an Pflanzen, die in der Reihe der Cosmic-Pflanzen weiterentwickelt werden können, wird auf 5 erhöht.
+
+[STORE_PRODUCT_AVATAR_COSMICNUT_TITLE]
+Cosmic-Nut-Outfit
+
+[COSMICNUT_NEW_SKILL_LEVEL1_DES]
+Du kannst die 'Nuss" manuell antippen, um ihren Standort zu verschieben. Alle 30 Sekunden wird ein Samenpaket für Nusspflanzen produziert.
+
+[COSMICNUT_NEW_SKILL_LEVEL2_DES]
+Nach dem Tod verwandelt sie sich in ein Schwarzes Loch, das Zombies aus den Feldern links und rechts kontinuierlich zur Mitte hinzieht. Dies dauert 3 Sekunden.
+
+[COSMICNUT_NEW_SKILL_LEVEL3_DES]
+Verwandelt sich nach dem Tod in ein Schwarzes Loch, das Zombies aus den Feldern links und rechts jeweils ein Feld weit kontinuierlich zur Mitte hinzieht. Dies dauert 6 Sekunden.
+
+[COSMICNUT_NEW_SKILL_LEVEL4_DES]
+Weist beim Pflanzen eine mittlere Wahrscheinlichkeit auf, sich sofort in eine andere Form weiterzuentwickeln.
+
+[COSMICNUT_NEW_SKILL_LEVEL5_DES]
+Das nach dem Tod entstehende Schwarze Loch kann durch Antippen des Lochs und anschließendes Antippen eines Feldes auf dem Spielfeld genutzt werden, um das Schwarze Loch sowie alle nicht immunen Zombies im Umkreis von je einem Feld links und rechts davon an die Zielposition zu teleportieren. Die Teleportation kann während der Existenz jedes Schwarzen Lochs nur einmal genutzt werden. Nach der Teleportation wird die Dauer auf 6 Sekunden zurückgesetzt
+
+[COSMICNUT_PLANTFOOD_DESCRIPTION]
+Bis zu 3 Kosmische Nüsse in der jeweiligen Reihe entwickeln sich zur nächsten Stufe der Kosmischen Nuss weiter. Bei Erreichen der höchsten Stufe erhältst du beim Einsatz der Spezialfähigkeit eine Schicht Meteoritenpanzerung.
+
+[COSMICNUT_AVATAR_PLANTFOOD_DESCRIPTION]
+Die maximale Anzahl an Pflanzen, die sich in der Reihe der Pflanze zu einer Kosmischen Pflanze entwickeln können, wird auf 5 erhöht.
 
 [ZOMBIE_MUMMY]
 Mumien-Zombie
@@ -14805,7 +15002,7 @@ Zwierbel-Outfit
 Millionär
 
 [NEW_AVATAR_DESCRIPTION_FIREPEASHOOTER_2]
-Erhöht den Angriffsschaden um 10 %
+Erhöht den Angriffsschaden um 10%
 
 [FESTIVAL_ENTRANCE_ADVICE]
 Tägliche Herausforderungen jetzt geöffnet!
@@ -14860,25 +15057,25 @@ Die zweite Hälfte von Kung Fu World ist eröffnet, und ein neuer Boss wartet da
 Doppel-Shooter – eine umwerfende Verwandlung! Cool und stylisch! Weitere Kostüme sind im Modus für böse Invasion verfügbar!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_1]
-^FF3300 Eiswassermelone + Große Nüsse^oldclr Heute^FF3300 60 % Rabatt^oldclr Paketangebot! Sowohl offensiv als auch defensiv – alle, die es benutzt haben, sagen: Es ist gut!
+^FF3300 Eiswassermelone + Große Nüsse^oldclr Heute^FF3300 60% Rabatt^oldclr Paketangebot! Sowohl offensiv als auch defensiv – alle, die es benutzt haben, sagen: Es ist gut!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_2]
-Luxuskleid ^FF3300 Doppel-Shooter + Pack Choi ^oldclr Heute ^FF3300 30 % Rabatt auf ^oldclr Paketangebot – Schönheit und Power vereint!
+Luxuskleid ^FF3300 Doppel-Shooter + Pack Choi ^oldclr Heute ^FF3300 30% Rabatt auf ^oldclr Paketangebot – Schönheit und Power vereint!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_3]
-^FF3300 Kokosnusskanonenpflanze + Kostüm ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Lasst die Muscheln fliegen!
+^FF3300 Kokosnusskanonenpflanze + Kostüm ^oldclr Heute ^FF3300 50% Rabatt auf ^oldclr Paketangebot – Lasst die Muscheln fliegen!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_4]
-^FF3300 Erbsenhülsenpflanze + Kostüm ^oldclr Heute ^FF3300 50 % Rabatt auf ^oldclr Paketangebot – Erbsenmeer ist kein Traum!
+^FF3300 Erbsenhülsenpflanze + Kostüm ^oldclr Heute ^FF3300 50% Rabatt auf ^oldclr Paketangebot – Erbsenmeer ist kein Traum!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_5]
-^FF3300 Blitzschilf + Fackelstumpf^oldclr Heute^FF3300 60 % Rabatt^oldclr Verpackt zum Verkauf. Töte Hühner und lege gleichzeitig Feuer!
+^FF3300 Blitzschilf + Fackelstumpf^oldclr Heute^FF3300 60% Rabatt^oldclr Verpackt zum Verkauf. Töte Hühner und lege gleichzeitig Feuer!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_6]
-Beliebte Pflanzen aus der Kung-Fu-Welt^FF3300 Feuerkürbis + Feenpfirsich^oldclr Heute^FF3300 60 % Rabatt^oldclr Verpackt zum Verkauf. Chinesischer Stil genügt!
+Beliebte Pflanzen aus der Kung-Fu-Welt^FF3300 Feuerkürbis + Feenpfirsich^oldclr Heute^FF3300 60% Rabatt^oldclr Verpackt zum Verkauf. Chinesischer Stil genügt!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_7]
-^FF3300 Maiskannenpflanze + Kostüm^oldclr Heute^FF3300 50 % Rabatt^oldclr Verpackt zum Verkauf! Ab sofort können sich Zombies nicht mehr bewegen!
+^FF3300 Maiskannenpflanze + Kostüm^oldclr Heute^FF3300 50% Rabatt^oldclr Verpackt zum Verkauf! Ab sofort können sich Zombies nicht mehr bewegen!
 
 [ZOMBIE_EGYPT_GARGANTUAR]
 Mumifizierter Gargantua
@@ -20399,13 +20596,13 @@ Lädt sich auf, um Wasserbälle auf Zombies zu spucken und Pfützen zu erzeugen.
 Hydration Boost
 
 [DUCKPEAR_SKILL_LEVEL1_DES]
-Nach jeder Aufladung hat die Nashibirne eine Chance von 15 %, einen Spezialangriff auszulösen, bei dem sie einen Wasserball ausspuckt, der eine Stufe stärker ist.
+Nach jeder Aufladung hat die Nashibirne eine Chance von 15%, einen Spezialangriff auszulösen, bei dem sie einen Wasserball ausspuckt, der eine Stufe stärker ist.
 
 [DUCKPEAR_SKILL_LEVEL2]
 Fond of Hydration
 
 [DUCKPEAR_SKILL_LEVEL2_DES]
-Nach jeder Aufladung hat die Nashibirne eine Chance von 25 %, eine Spezialangriffsaktion auszulösen, bei der direkt ein um eine Stufe verbesserter Wasserball ausgestoßen wird.
+Nach jeder Aufladung hat die Nashibirne eine Chance von 25%, eine Spezialangriffsaktion auszulösen, bei der direkt ein um eine Stufe verbesserter Wasserball ausgestoßen wird.
 
 [DUCKPEAR_SKILL_LEVEL5]
 Turbogeladene Ente
@@ -20426,10 +20623,10 @@ Der während des ultimativen Angriffs ausgestoßene Wasserball kann ein speziell
 Nach dem Aufladen wird ein Wasserball ausgestoßen, der vorwärts rollt. Wenn er Zombies trifft, erzeugt er zufällig 1-2 Pfützen auf benachbarten Feldern. Der Wasserball absorbiert Feuchtigkeit aus den Pfützen, durch die er rollt, um sich zu verbessern, wobei er zweimal verbessert werden kann. Auf der maximalen Stufe kann der Wasserball Zombies in seine Mitte fegen und sie aus dem Bildschirm tragen. Ein einzelner Wasserball kann bis zu 4 Zombies fegen, jedoch keine Riesen-Zombies.
 
 [DUCKPEAR_NEW_SKILL_LEVEL2_DES]
-Nach jeder vollständigen Aufladung hat die Nashibirne eine Chance von 15 %, eine Spezialangriffsaktion auszulösen, bei der er direkt einen Wasserball ausspuckt, der um eine Stufe verbessert wurde.
+Nach jeder vollständigen Aufladung hat die Nashibirne eine Chance von 15%, eine Spezialangriffsaktion auszulösen, bei der er direkt einen Wasserball ausspuckt, der um eine Stufe verbessert wurde.
 
 [DUCKPEAR_NEW_SKILL_LEVEL3_DES]
-Nach jeder Aufladung hat die Nashibirne eine Chance von 25 %, eine Spezialangriffsaktion auszulösen, bei der direkt ein Wasserball abgeschossen wird, der eine Stufe aufgewertet wurde.
+Nach jeder Aufladung hat die Nashibirne eine Chance von 25%, eine Spezialangriffsaktion auszulösen, bei der direkt ein Wasserball abgeschossen wird, der eine Stufe aufgewertet wurde.
 
 [DUCKPEAR_NEW_SKILL_LEVEL4_DES]
 Wenn gepflanzt, besteht eine moderate Chance, direkt die Spezialdünger-Fähigkeit auszulösen.
@@ -20705,22 +20902,22 @@ UFO-Flugobjekt
 Inspiriert von der Form der Flying-Saucer-Melone wurde das UFO-Flugobjekt erfunden.
 
 [FLYING_SAUCER_BOOST_DES]
-Effekte: 1. Pflanzen können direkt in der Luft ausgesät werden.    2. Stellt alle 3 Sekunden 5 % Gesundheit wieder her.   3. Freigeschaltet
+Effekte: 1. Pflanzen können direkt in der Luft ausgesät werden.    2. Stellt alle 3 Sekunden 5% Gesundheit wieder her.   3. Freigeschaltet
 
 [FLYING_SAUCER_BOOST_DES_1]
-Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 8 % Gesundheit wieder her.   3. Freigeschaltet.
+Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 8% Gesundheit wieder her.   3. Freigeschaltet.
 
 [FLYING_SAUCER_BOOST_DES_2]
-Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 12 % Gesundheit wieder her.   3. Freigeschaltet.
+Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 12% Gesundheit wieder her.   3. Freigeschaltet.
 
 [FLYING_SAUCER_BOOST_DES_3]
-Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 16 % Gesundheit wieder her.   3. Betäubungsdauer um 6 % erhöht.
+Effekte: 1. Pflanzen können direkt im Himmel angebaut werden.    2. Stellt alle 3 Sekunden 16% Gesundheit wieder her.   3. Betäubungsdauer um 6% erhöht.
 
 [FLYING_SAUCER_BOOST_DES_4]
-Effekt: 1. Pflanzen können direkt im Himmel angebaut werden. 2. Stellt alle 3 Sekunden 20 % Gesundheit wieder her. 3. Betäubungsdauer um 8 % erhöht.
+Effekt: 1. Pflanzen können direkt im Himmel angebaut werden. 2. Stellt alle 3 Sekunden 20% Gesundheit wieder her. 3. Betäubungsdauer um 8% erhöht.
 
 [FLYING_SAUCER_BOOST_DES_5]
-Effekt: 1. Pflanzen können direkt im Himmel angebaut werden. 2. Stellt alle 3 Sekunden 25 % Gesundheit wieder her. 3. Betäubungsdauer um 10 % erhöht.
+Effekt: 1. Pflanzen können direkt im Himmel angebaut werden. 2. Stellt alle 3 Sekunden 25% Gesundheit wieder her. 3. Betäubungsdauer um 10% erhöht.
 
 [SUN_GEAR_1_BOOST_DES_2]
 Effekt: 1. Erhöht die Sonnenlichtausbeute um 20 Punkte und erhöht den Schutz leicht. ^FF0000 Nur verfügbar für Sonnenlichtpflanzen der Stufe 4^oldclr 2. Reduziert die Abklingzeit des Pflanzens um 21%. 3. Freigeschaltet
@@ -21313,7 +21510,7 @@ Du hast alle Fragen beantwortet, mit {CORRECT_COUNT} richtigen und {WRONG_COUNT}
 Herzlichen Glückwunsch! Du hast {REDPACK_COUNT} rote Umschläge erhalten!
 
 [LANTERN_RIDDLES_TOTAL]
-An {DAY_GUESS} Tagen beantwortet, mit einer richtigen Quote von {CORRECT_COUNT} %. An {DAY_MISSED} Tagen versäumt.
+An {DAY_GUESS} Tagen beantwortet, mit einer richtigen Quote von {CORRECT_COUNT}%. An {DAY_MISSED} Tagen versäumt.
 
 [LANTERN_RIDDLES_CHEAT]
 Frag Xiao Wanwan
@@ -26898,7 +27095,7 @@ Belohnung konnte nicht erhalten werden. <Fehlercode: {NUM}>
 Leider hast du letzte Woche im Event keine Ergebnisse erzielt und kannst keine Belohnungen erhalten. Nimm bitte aktiv am Event teil.
 
 [PERCENT]
-Erste {NUM} %
+Erste {NUM}%
 
 [BOSS_CHALLENGE_TIME]
 Zeit: ^FFFF00 {TIME}
@@ -29395,7 +29592,7 @@ Zombies schleichen sich von hinten an? Der Zwei-Wege-Shooter kann gleichzeitig a
 Schalte den Zwei-Wege-Shooter frei!
 
 [FINISH_COWBOY_11_DESC]
-Gib 25 % Sonne zurück, wenn du Pflanzen schaufelst! Schließe Tag 11 von Wild West ab!
+Gib 25% Sonne zurück, wenn du Pflanzen schaufelst! Schließe Tag 11 von Wild West ab!
 
 [FINISH_COWBOY_11_TITLE]
 Schalte die Sonnenschaufel frei!
@@ -34827,7 +35024,7 @@ Du bist zur 7. Geburtstagsparty von Plants vs. Zombies eingeladen!
 Kuchen nicht vergessen!
 
 [WORLDMAP_EVENT_LOD_BIRTHDAYZ_REPLAY_TITLE]
-Zur Feier des Tages: 50 % Rabatt auf deinen zweiten Versuch!
+Zur Feier des Tages: 50% Rabatt auf deinen zweiten Versuch!
 
 [WORLDMAP_EVENT_LOD_CHERRY_BOMB_POWERUP_DESC]
 Kirschen explodieren!
@@ -34965,7 +35162,7 @@ Frohes neues Jahr!
 Komm schon, mach noch einen! Frohe Feiertage!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_FEASTIVUS_REPLAYS_TITLE]
-Die Wiederholungspreise für ganztägige Festpartys sind um 50 % reduziert.
+Die Wiederholungspreise für ganztägige Festpartys sind um 50% reduziert.
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_FEASTIVUS_SAPFLING_DESC]
 Genieße eine klebrige Festparty! Hol dir jetzt den permanenten Harzkrug.
@@ -35016,7 +35213,7 @@ Haltet Ausschau nach Regenbögen und gewinnt jede Menge Münzen!
 Du Glückspilz!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_LUCK_REPLAYS_TITLE]
-Spielt das Zombie-Glück-Level den ganzen Tag lang mit 50 % Rabatt.
+Spielt das Zombie-Glück-Level den ganzen Tag lang mit 50% Rabatt.
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_LUCK_TITLE]
 Spielt das Zombie-Glück-Event bis zum 17. März.
@@ -35049,7 +35246,7 @@ Probiere die neue Premium-Botanische Sprengnuss in der heutigen Piñata-Party au
 Mehr Nüsse!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_REPLAY_DESC]
-Die heutige Sommernachts-Wiederholung ist 50 % günstiger!
+Die heutige Sommernachts-Wiederholung ist 50% günstiger!
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_SUMMERNIGHTS_REPLAY_TITLE]
 Entflieht der Hitze!
@@ -35079,7 +35276,7 @@ Lass dich am 14. Februar mitreißen.
 Holt euch eine zweite Chance für Zombie-Liebe.
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_VALENBRAINZ_REPLAY_TITLE]
-50 % Rabatt auf die ganztägigen Preise für Valentinstags-Brain-Replays
+50% Rabatt auf die ganztägigen Preise für Valentinstags-Brain-Replays
 
 [WORLDMAP_EVENT_LOD_HOLIDAY_VALENBRAINZ_TITLE]
 Feier den Brain-Valentinstag mit Hug Zombies.
@@ -35193,7 +35390,7 @@ Schönen Sommer! Nicht alles ist so, wie es scheint!
 Setz dir die Hasenohren wieder auf.
 
 [WORLDMAP_EVENT_LOD_SPRING_REPLAY_TITLE]
-Die Wiederholungspreise für Frühlingslevel sind um 50 % reduziert!
+Die Wiederholungspreise für Frühlingslevel sind um 50% reduziert!
 
 [WORLDMAP_EVENT_LOD_SWEETPOTATO_UNVAULT_TITLE]
 Probiere den Süßkartoffel-Charme bei der heutigen Piñata-Party!
@@ -36514,10 +36711,10 @@ Krabben-Beine
 Prinzessin
 
 [NEW_AVATAR_DESCRIPTION_BUBBLECORAL_3]
-Reduziert den Sonnenlichtverbrauch um 50 %.
+Reduziert den Sonnenlichtverbrauch um 50%.
 
 [NEW_AVATAR_DESCRIPTION_WALLNUT_3]
-Erhöht die Gesundheit um 20 %
+Erhöht die Gesundheit um 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_4]
 Glitzerndes Kleid
@@ -36532,10 +36729,10 @@ Karate Kopfband
 Gelehrten Brille
 
 [NEW_AVATAR_DESCRIPTION_AQUAWEED_2]
-Erhöht die Angriffskraft um 10 %
+Erhöht die Angriffskraft um 10%
 
 [NEW_AVATAR_DESCRIPTION_MAPLEBLADE_2]
-Abklingzeit um 20 % reduziert
+Abklingzeit um 20% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_1]
 Piraten Kapitän
@@ -36544,10 +36741,10 @@ Piraten Kapitän
 Häschen-Ohren
 
 [NEW_AVATAR_DESCRIPTION_SEASHOOTER_1]
-Erhöht die Angriffskraft um 10 %
+Erhöht die Angriffskraft um 10%
 
 [NEW_AVATAR_DESCRIPTION_AQUAWEED_1]
-Erhöht die Chance, einen Hai zu beschwören, um 50 %.
+Erhöht die Chance, einen Hai zu beschwören, um 50%.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_3]
 Krasser Gangster
@@ -39371,7 +39568,7 @@ Erhöht die Angriffsreichweite von Eiswind um 2 Felder.
 Eis- und Schneebeherrschung
 
 [MONOTROPA_SKILL_LEVEL2_DES]
-Erhöht die Dauer des Schneemanns um 50 %.
+Erhöht die Dauer des Schneemanns um 50%.
 
 [MONOTROPA_SKILL_LEVEL5]
 Gefrorene Rückstände
@@ -40061,7 +40258,7 @@ Herrscher des gelben Sternenhimmels
 Kleine Hexe
 
 [NEW_AVATAR_DESCRIPTION_MISSILETOE_3]
-Sonnenlichtverbrauch um 80 % reduziert
+Sonnenlichtverbrauch um 80% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_4]
 Kleine Hexe – Funkelnd
@@ -40070,13 +40267,13 @@ Kleine Hexe – Funkelnd
 Bohnen-Piraten Kommando
 
 [NEW_AVATAR_DESCRIPTION_HORSEBEAN_3]
-Angriffsabklingzeit um 20 % reduziert
+Angriffsabklingzeit um 20% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_2]
 Goldblütenball
 
 [NEW_AVATAR_DESCRIPTION_GOLDBLOOM_2]
-50 % Chance auf zusätzliche 75 Sonnen
+50% Chance auf zusätzliche 75 Sonnen
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LILYPAD_1]
 Fröschchen
@@ -40094,7 +40291,7 @@ Zombies laufen nach Verlassen der Strychnos-Reichweite 1 Sekunde länger rückw�
 Schnurrbart
 
 [NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_2]
-Angriffsgeschwindigkeit um 20 % erhöht
+Angriffsgeschwindigkeit um 20% erhöht
 
 [NEW_AVATAR_DESCRIPTION_MISSILETOE_4]
 Keine
@@ -40518,7 +40715,7 @@ Brassica rapa L. var. glabra Regel glabra Regel ist ein zweijähriges oder zweij
 
 Der Kohl stammt ursprünglich aus Nordchina. Er ist eine in Asien, insbesondere in China, Südkorea und Japan, weit verbreitete Gemüsepflanze. In China ist er im Winter und Frühling das wichtigste Gemüse in Nordost- und Nordchina. Kohl ist relativ kälteresistent und mag kühles Klima. Er eignet sich für den Anbau in kühlen Jahreszeiten und kann auf Lehm-, Sandlehm- und Schwarzlössböden gepflanzt werden, die Dünger und Wasser speichern und reich an organischen Stoffen sind.
 
-Kohl enthält eine Vielzahl von Nährstoffen, die die Haut verschönern, die Flüssigkeitszufuhr fördern, den Magen nähren und Fett und Gewicht reduzieren. Kohl ist reich an Wasser und Vitaminen. Regelmäßiger Kohlkonsum kann nicht nur den Flüssigkeitsverlust des Körpers ausgleichen, sondern die enthaltenen Vitamine C und E können auch Hautpigmentierung vorbeugen und zur Hautpflege und Schönheit beitragen. Chinakohl nährt den Magen, produziert Körperflüssigkeit, leitet Hitze ab und lindert Unruhe. Zerstampften Sie den Kohl, um den Saft zu extrahieren, und kochen Sie ihn mit Lilie und Ophiopogon japonicus. Er hilft bei Magenschmerzen, die durch einen Mangel an Magen-Yin verursacht werden. Chinakohl ist von Natur aus kühl und schmeckt süß. Er eignet sich für Patienten mit Durst, Unruhe, Husten mit Schleim und Hitze sowie Erkältung durch Wind und Hitze. Chinakohl hat einen Wassergehalt von etwa 95 % und ist reich an Ballaststoffen, die die Magen-Darm-Motilität anregen, die Verdauung unterstützen und die Ausscheidung von Abfallstoffen fördern.
+Kohl enthält eine Vielzahl von Nährstoffen, die die Haut verschönern, die Flüssigkeitszufuhr fördern, den Magen nähren und Fett und Gewicht reduzieren. Kohl ist reich an Wasser und Vitaminen. Regelmäßiger Kohlkonsum kann nicht nur den Flüssigkeitsverlust des Körpers ausgleichen, sondern die enthaltenen Vitamine C und E können auch Hautpigmentierung vorbeugen und zur Hautpflege und Schönheit beitragen. Chinakohl nährt den Magen, produziert Körperflüssigkeit, leitet Hitze ab und lindert Unruhe. Zerstampften Sie den Kohl, um den Saft zu extrahieren, und kochen Sie ihn mit Lilie und Ophiopogon japonicus. Er hilft bei Magenschmerzen, die durch einen Mangel an Magen-Yin verursacht werden. Chinakohl ist von Natur aus kühl und schmeckt süß. Er eignet sich für Patienten mit Durst, Unruhe, Husten mit Schleim und Hitze sowie Erkältung durch Wind und Hitze. Chinakohl hat einen Wassergehalt von etwa 95% und ist reich an Ballaststoffen, die die Magen-Darm-Motilität anregen, die Verdauung unterstützen und die Ausscheidung von Abfallstoffen fördern.
 [BONKCHOY_PEDIA_EXTRA]
 Zusätzliche Erklärung: Dem Namen nach entspricht Pack Choi (BonkChoy) der Aussprache von „BokChoy“ (BokChoy) im Kantonesischen. In China gibt es viele Sorten, darunter Chinakohl und Chinakohl. Im Norden wird Chinakohl meist als „Ölraps“ bezeichnet, im Süden als „grünes Gemüse“ oder „Shanghai-Grün“. Die Gestaltung von Pack Choi selbst ähnelt eher einer Kombination aus Chinakohl und grünem Gemüse und wird daher gesondert erläutert.
 
@@ -40531,7 +40728,7 @@ Mais (Zea mays L.)
 
 Es handelt sich um ein einjähriges, hochwüchsiges Kraut. Der Stängel ist aufrecht, meist unverzweigt, 1–4 Meter hoch, und jeder Knoten an der Basis des Maises besitzt Luftwurzeln. Die Maisscheide ist quernervig; das Blatthäutchen ist häutig und etwa 2 mm lang; die Blätter sind flach und breit, lineal-lanzettlich, mit runder, ährenförmiger Basis, kahl oder behaart. Die Mittelrippe ist dick und die Ränder leicht rau. Die männliche Rispe ist groß und endständig und weist eine feine Behaarung an der Hauptachse, der Blütenstandsachse und den Achseln auf. die männlichen Ährchen sind gepaart, bis zu 1 cm lang, mit einem langen und einem kurzen Ährchenstiel, 1–2 mm bzw. 2–4 mm lang, und fein behaart; die beiden Spelzen sind nahezu gleich lang, häutig, mit etwa 10 Adern und bewimpert; Deckspelze und Vorspelze sind durchsichtig häutig, etwas kürzer als die Spelzen; die Staubbeutel sind orange-gelb; etwa 5 mm lang. Der weibliche Blütenstand ist von vielen breiten, scheidenartigen Tragblättern umgeben; die weiblichen Ährchen sind gepaart, in 16–30 Längsreihen auf einer starken Achse angeordnet, die beiden Spelzen sind gleich lang, breit, ohne Adern und bewimpert; Deckspelze und Vorspelze sind durchsichtig häutig, und das Griffelchen hat einen sehr langen und schwachen linearen Griffel. Die Karyopse ist kugelig oder abgeflacht, und nach der Reife werden Spelzen und Vorspelze freigelegt. Ihre Größe variiert mit unterschiedlichen Wachstumsbedingungen. Er ist in der Regel 5–10 mm lang, etwas breiter als seine Länge, und die Embryolänge beträgt 1/2–2/3 der Karyopse. Die Blüte- und Fruchtzeit ist im Herbst.
 Mais stammt ursprünglich aus Mexiko in Südamerika und verbreitete sich von dort aus als wichtige Nahrungsmittelpflanze weltweit. Heute wird er weltweit angebaut. Aufgrund seines hohen Ertrags und des einfachen Anbaus gilt Mais weltweit als „goldene Nutzpflanze“.
-Mais ist ein gesundheitsförderndes Nahrungsmittel, insbesondere Mais als Grobkorn. Der Verzehr von mehr Mais ist sehr gesundheitsfördernd und hat verschiedene Auswirkungen, wie z. B. 1) Linderung von Verstopfung: Vitamin B6, Niacin und andere Inhaltsstoffe von Mais können die Magen-Darm-Motilität anregen und die Symptome von Patienten mit Magen-Darm-Erkrankungen lindern; 2) Senkung des Cholesterinspiegels: Der Linolsäuregehalt von Mais beträgt bis zu 60 %. In Kombination mit dem Vitamin E im Maiskeim trägt er dazu bei, den Cholesterinspiegel im Blut zu senken und dessen Ablagerung an den Gefäßwänden zu verhindern. 3) Förderung des Stoffwechsels: Die im Maiskeim enthaltenen Proteine, Zellulose und Niacin können den Stoffwechsel anregen, die Funktion des Nervensystems regulieren, die Haut zart und glatt machen und die Faltenbildung verzögern. Darüber hinaus können das im Mais enthaltene Progesteron und Zeaxanthin der Augenalterung wirksam vorbeugen.
+Mais ist ein gesundheitsförderndes Nahrungsmittel, insbesondere Mais als Grobkorn. Der Verzehr von mehr Mais ist sehr gesundheitsfördernd und hat verschiedene Auswirkungen, wie z. B. 1) Linderung von Verstopfung: Vitamin B6, Niacin und andere Inhaltsstoffe von Mais können die Magen-Darm-Motilität anregen und die Symptome von Patienten mit Magen-Darm-Erkrankungen lindern; 2) Senkung des Cholesterinspiegels: Der Linolsäuregehalt von Mais beträgt bis zu 60%. In Kombination mit dem Vitamin E im Maiskeim trägt er dazu bei, den Cholesterinspiegel im Blut zu senken und dessen Ablagerung an den Gefäßwänden zu verhindern. 3) Förderung des Stoffwechsels: Die im Maiskeim enthaltenen Proteine, Zellulose und Niacin können den Stoffwechsel anregen, die Funktion des Nervensystems regulieren, die Haut zart und glatt machen und die Faltenbildung verzögern. Darüber hinaus können das im Mais enthaltene Progesteron und Zeaxanthin der Augenalterung wirksam vorbeugen.
 
 [ZUCKERROHRFAMILIE]
 Poaceae
@@ -40543,7 +40740,7 @@ Phyllostachys edulis (Carrière) J. Houzeau
 Mehrjährige, große, verholzende Pflanze. Die Stängel werden bis zu 20 Meter hoch und bis zu 20 Zentimeter dick. Junge Stängel sind dicht mit feinen, weichen Haaren und dickem, weißem Pulver bedeckt. Der Scheidenring ist behaart, alte Stängel kahl und verfärben sich allmählich von grün nach grüngelb. Die unteren Internodien sind sehr kurz und verlängern sich nach oben hin allmählich. Die mittleren Internodien können bis zu 40 cm oder länger sein. Die Wandstärke beträgt etwa 1 cm (es gibt jedoch Variationen). Der Halmring ist nicht deutlich erkennbar, niedriger als der Scheidenring oder im dünnen Halm erhaben. Die Rückseite der Scheide ist gelbbraun oder purpurbraun mit dunkelbraunen Flecken und dichten braunen Stacheln. die Öhrchen sind winzig und gut behaart; das Blatthäutchen ist breit und kurz, stark erhaben oder sogar gewölbt und hat am Rand dicke und lange Flimmerhärchen. Die Blattscheidensegmente sind kurz, lang, dreieckig bis lanzettlich, gewellt, grün, anfangs aufrecht und dann nach außen gebogen. Die endständigen Zweige haben 2–4 Blätter. Die Öhrchen sind nicht deutlich zu erkennen, die Behaarung an der Scheidenmündung ist vorhanden und laubabwerfend. Das Blatthäutchen ist erhaben. Die Blattspreite ist klein und dünn, lanzettlich, 4–11 cm lang und 0,5–1,2 cm breit und auf der Unterseite entlang der Basis der Mittelrippe weich behaart, mit 3–6 Paar Sekundäradern und 9 Unteradern. Die Blütenzweige sind ährenförmig, 5–7 cm lang und haben 4–6 winzige, schuppige Hochblätter, die an der Basis allmählich größer werden. Manchmal befinden sich unter den Blütenzweigen 1–3 nahezu normal entwickelte Blätter. Zu diesem Zeitpunkt sind die Blütenzweige endständig; die Hochblätter bestehen normalerweise aus mehr als 10 Stück, sind oft zu einer Seite geneigt und ordentlich schindelartig angeordnet, die unteren paar Stücke sind steril und fallen früh ab, wodurch der untere Teil des Blütenzweigs freiliegt und dem Blattstiel des Blütenzweigs ähnelt. Die Oberkante ist mit Flimmerhärchen und feinen Härchen bedeckt, ohne Blattähren, mit leicht abfallenden Scheidenmundhaaren und die reduzierten Blätter sind klein, lanzettlich bis kegelförmig und jedes tragende Hochblatt enthält 1–3 Pseudoährchen. Das Ährchen hat nur ein Blütchen; die Ährchenachse erstreckt sich bis zur Rückseite der Vorspelze des obersten Blütchens, nadelförmig, mit kurzen, weichen Haaren zwischen den Knoten; 1 Spelze, 15–28 mm lang, mit kegelförmigen, reduzierten Blättern an der Spitze wie das Hochblatt und Haaren an der Unterseite, Oberseite und an den Rändern; Deckspelze 22–24 mm lang, Haare an der Oberseite und an den Rändern; Vorspelze etwas kürzer als die Deckspelze, oberhalb der Mitte behaart; Schuppen lanzettlich, ca. 5 mm lang und 1 mm breit; Staubfäden 4 cm lang, Staubbeutel ca. 12 mm lang; Narben 3, federartig. Karyopse länglich, 4,5–6 mm lang, 1,5–1,8 mm im Durchmesser, mit bleibendem Griffel an der Spitze. Bambus sprießt im April, Blütezeit von Mai bis August.
 
 [SUGARCANE_PEDIA_EXTRA]
-Die Heimat des Moso-Bambus ist China. Etwa 85 % des weltweiten Moso-Bambusbestands wachsen dort, und er wird auch in anderen Ländern der Welt angebaut. In China ist Bambus vor allem in den Provinzen Zhejiang, Fujian und Guangdong im Osten, Jiangxi, Anhui, Hunan und Hubei im Zentrum sowie Guangxi, Guizhou, Chongqing, Sichuan, Yunnan und anderen Regionen im Westen verbreitet, wobei die Provinzen Fujian, Zhejiang, Jiangxi und Hunan die größten Verbreitungsgebiete haben.
+Die Heimat des Moso-Bambus ist China. Etwa 85% des weltweiten Moso-Bambusbestands wachsen dort, und er wird auch in anderen Ländern der Welt angebaut. In China ist Bambus vor allem in den Provinzen Zhejiang, Fujian und Guangdong im Osten, Jiangxi, Anhui, Hunan und Hubei im Zentrum sowie Guangxi, Guizhou, Chongqing, Sichuan, Yunnan und anderen Regionen im Westen verbreitet, wobei die Provinzen Fujian, Zhejiang, Jiangxi und Hunan die größten Verbreitungsgebiete haben.
 
 Bambus ist eine wichtige Nutzpflanze und wird in vielen Bereichen eingesetzt und hat vielfältige Anwendungsmöglichkeiten. Im Bauwesen wird er beispielsweise als Baumaterial für Möbel und Fußböden verwendet; in der Papierindustrie sind Bambusfasern lang und zäh und eignen sich für die Papierherstellung, die hochwertiges Papier und Zellstoff produziert; in der Landwirtschaft wird Bambus auch zum Weben und für Kunsthandwerk verwendet; im Umweltschutz kann Bambusanbau im großen Stil Bodenerosion vorbeugen, das Klima regulieren, die Luft reinigen und die Umweltqualität verbessern. Darüber hinaus haben alle Teile des Bambus einen gewissen medizinischen Wert. Blätter, Rhizome (Bambusruten), Bambussprossen und andere Bambusteile können als Heilmittel verwendet werden. Sie wirken hitzelösend, harntreibend, durchblutungsfördernd und windstillend.
 
@@ -40593,7 +40790,7 @@ Pfeffergattung
 Pfeffer – die Frucht der Sommerflammen, die den Geschmack entzündet
 Einjährige oder begrenzt mehrjährige krautige Pflanze.
 Wuchshöhe 40–80 cm; Stängel aufrecht und verzweigt; Blätter wechselständig, eiförmig oder eiförmig-lanzettlich; Blüten einzeln, hängend; Blütenkrone weiß, radiär, fünflappig; Früchte langfingerförmig, rot, orange oder purpurrot, würzig. Blüte- und Fruchtzeit ist von Mai bis November.
-Pfeffer ist nach seinen Eigenschaften als Nachtschattengewächs und seiner würzigen Note benannt. Er stammt ursprünglich aus dem tropischen Amerika und wurde erstmals von alten indigenen Völkern Südamerikas bis Mittelamerikas (um 5000 v. Chr.) domestiziert. Im 16. Jahrhundert gelangte er mit Kolumbus' Flotte nach Europa und in der mittleren und späten Ming-Dynastie (Ende des 16. Jahrhunderts) über portugiesische Handelsschiffe auf dem Seeweg nach China. Heute wird er weltweit angebaut und ist in vielen Regionen meines Landes (insbesondere im Südwesten) ein unverzichtbares Gemüse und Gewürz. Die Schärfe des Pfeffers beruht hauptsächlich auf Capsaicinoiden (Capsaicin und Dihydrocapsaicin machen mehr als 90 % aus), die sich in der Plazenta (den weißen Adern) des Pfeffers und in den Drüsen um die Samen konzentrieren. Capsaicin ist eine „chemische Waffe“ im Pflanzenreich: Säugetiere verzichten aufgrund brennender Schmerzen auf das Kauen von Früchten, während Vögel unempfindlich gegen Capsaicin sind und die Samen nach dem Verschlucken intakt ausscheiden, wodurch eine effiziente Übertragung gewährleistet ist. Der menschliche „scharfe Geschmack“ ist ein evolutionärer Zufall – der Schmerzrezeptor TRPV1 wird aktiviert und setzt Endorphine frei, was zu „gutartigem Selbstmissbrauch“ führt. In der Landwirtschaft kann der Zwischenfruchtanbau von Paprika mit Mais und Bohnen Insektenschädlinge reduzieren, und Wurzelsekrete hemmen Bodenpathogene.
+Pfeffer ist nach seinen Eigenschaften als Nachtschattengewächs und seiner würzigen Note benannt. Er stammt ursprünglich aus dem tropischen Amerika und wurde erstmals von alten indigenen Völkern Südamerikas bis Mittelamerikas (um 5000 v. Chr.) domestiziert. Im 16. Jahrhundert gelangte er mit Kolumbus' Flotte nach Europa und in der mittleren und späten Ming-Dynastie (Ende des 16. Jahrhunderts) über portugiesische Handelsschiffe auf dem Seeweg nach China. Heute wird er weltweit angebaut und ist in vielen Regionen meines Landes (insbesondere im Südwesten) ein unverzichtbares Gemüse und Gewürz. Die Schärfe des Pfeffers beruht hauptsächlich auf Capsaicinoiden (Capsaicin und Dihydrocapsaicin machen mehr als 90% aus), die sich in der Plazenta (den weißen Adern) des Pfeffers und in den Drüsen um die Samen konzentrieren. Capsaicin ist eine „chemische Waffe“ im Pflanzenreich: Säugetiere verzichten aufgrund brennender Schmerzen auf das Kauen von Früchten, während Vögel unempfindlich gegen Capsaicin sind und die Samen nach dem Verschlucken intakt ausscheiden, wodurch eine effiziente Übertragung gewährleistet ist. Der menschliche „scharfe Geschmack“ ist ein evolutionärer Zufall – der Schmerzrezeptor TRPV1 wird aktiviert und setzt Endorphine frei, was zu „gutartigem Selbstmissbrauch“ führt. In der Landwirtschaft kann der Zwischenfruchtanbau von Paprika mit Mais und Bohnen Insektenschädlinge reduzieren, und Wurzelsekrete hemmen Bodenpathogene.
 Blumensprache: Brennende Liebe
 
 [IMITATER_FAMILY]
@@ -40704,7 +40901,7 @@ Baumwolle
 [COTTONYETI_PEDIA]
 Baumwolle – Das „weiße Gold“ der Natur
 Baumwolle ist ein Sammelbegriff für Pflanzen der Gattung Gossypium aus der Familie der Malvaceae. Weltweit werden vier Arten von Baumwolle angebaut: Hochlandbaumwolle, Sea-Island-Baumwolle, Baumbaumwolle (allgemein bekannt als „Asiatische Baumwolle“) und Grasbaumwolle, wobei die Hochlandbaumwolle am häufigsten angebaut wird. Die Pflanze wird üblicherweise 1–2 Meter hoch; die Blätter sind handförmig geteilt, mit 3–5 Lappen, und die Oberfläche ist mit weichen Haaren bedeckt. Die Blüten stehen einzeln in den Blattachseln, sind zunächst milchig weiß und verfärben sich allmählich rosa oder purpurrot. Die Frucht ist eine Kapsel (allgemein als „Baumwollkapsel“ bekannt), die nach der Reife aufplatzt und weiche weiße Fasern (allgemein als „Watte“ bekannt) freigibt, die mit schwarzen Samen umhüllt sind. Die Blüte- und Fruchtzeit ist Sommer und Herbst.
-Das Wort „Baumwolle“ leitet sich davon ab, dass Baumwollfasern der Seidenbaumwolle ähneln, aber von Pflanzen („Holz“) stammen. Im alten China waren die wichtigsten kultivierten Arten Baumbaumwolle (ursprünglich aus Indien, eingeführt während der Han-Dynastie) und Grasbaumwolle (ursprünglich aus Arabien und Kleinasien, eingeführt während der Südlichen und Nördlichen Dynastien) mit kurzen und dicken Fasern. Ende des 19. Jahrhunderts wurde Hochlandbaumwolle (ursprünglich aus Mexiko in Amerika) von amerikanischen Missionaren in China eingeführt. Nach der Gründung des Neuen Chinas ersetzte sie aufgrund ihres hohen Ertrags und ihrer langen Fasern („Feinstapelbaumwolle“) allmählich Baum- und Grasbaumwolle und machte mehr als 95 % der gesamten Baumwollproduktion Chinas aus. Die Hauptanbaugebiete sind Xinjiang und die Huanghuai-Ebene. Die Sea-Island-Baumwolle stammt ursprünglich aus dem tropischen Südamerika und Westindien. Sie wurde in den 1950er Jahren aus der Sowjetunion, Ägypten und anderen Ländern für Versuchsanbau nach Xinjiang eingeführt. Aufgrund ihres hohen Wärmebedarfs kann sie im südlichen Xinjiang nur in kleinem Umfang angebaut werden. Ihre Fasern sind extrem lang („Langstapelbaumwolle“), von ausgezeichneter Qualität, aber ertragsarm und werden hauptsächlich für hochwertige Textilien verwendet.
+Das Wort „Baumwolle“ leitet sich davon ab, dass Baumwollfasern der Seidenbaumwolle ähneln, aber von Pflanzen („Holz“) stammen. Im alten China waren die wichtigsten kultivierten Arten Baumbaumwolle (ursprünglich aus Indien, eingeführt während der Han-Dynastie) und Grasbaumwolle (ursprünglich aus Arabien und Kleinasien, eingeführt während der Südlichen und Nördlichen Dynastien) mit kurzen und dicken Fasern. Ende des 19. Jahrhunderts wurde Hochlandbaumwolle (ursprünglich aus Mexiko in Amerika) von amerikanischen Missionaren in China eingeführt. Nach der Gründung des Neuen Chinas ersetzte sie aufgrund ihres hohen Ertrags und ihrer langen Fasern („Feinstapelbaumwolle“) allmählich Baum- und Grasbaumwolle und machte mehr als 95% der gesamten Baumwollproduktion Chinas aus. Die Hauptanbaugebiete sind Xinjiang und die Huanghuai-Ebene. Die Sea-Island-Baumwolle stammt ursprünglich aus dem tropischen Südamerika und Westindien. Sie wurde in den 1950er Jahren aus der Sowjetunion, Ägypten und anderen Ländern für Versuchsanbau nach Xinjiang eingeführt. Aufgrund ihres hohen Wärmebedarfs kann sie im südlichen Xinjiang nur in kleinem Umfang angebaut werden. Ihre Fasern sind extrem lang („Langstapelbaumwolle“), von ausgezeichneter Qualität, aber ertragsarm und werden hauptsächlich für hochwertige Textilien verwendet.
 
 Blumensprache: Schätze die Menschen vor dir, schätze und wärme
 
@@ -40795,7 +40992,7 @@ Der Apfel – Eine Jahrtausendreise vom „Friedensapfel“ zum ökologischen Sc
 Laubbaum.
 Der Baum kann bis zu 15 Meter hoch werden. Die Blätter sind elliptisch bis eiförmig und haben abgerundete, stumpfe Zacken am Rand. Der Doldenblütenstand trägt 3–7 weiße, rot angehauchte Blüten und 5 Blütenblätter. Die Frucht ist abgeflacht, und die Farbe der Schale variiert je nach Sorte, hauptsächlich rot und gelb. Die Blütezeit ist Mai, die Fruchtzeit Juli–Oktober.
 
-Der Apfel stammt ursprünglich aus Zentraleurasien und wird heute weltweit in gemäßigten Regionen angebaut. China ist der größte Produzent (die jährliche Produktion beträgt über 40 % der Weltproduktion), und die Hauptanbaugebiete sind das Lössplateau und die Bohai-Bucht. Der Name „Apfel“ hat sprachliche Veränderungen erfahren: In der Han-Dynastie wurde der aus den westlichen Regionen eingeführte Baumwollapfel „Nai“ genannt; in der Tang-Dynastie wurde die „Pinpo-Frucht“ in den Sanskrit-buddhistischen Schriften als Bezeichnung für verbesserte Sorten übersetzt und entwickelte sich später durch phonetische Transformation zu „Pingpo“ und „Pingbo“. Erst in der Ming-Dynastie, „Qunfangpu“, entstand der standardisierte Name „Apfel“. Die im alten China angebauten Baumwolläpfel wiesen Mängel wie weiches Fruchtfleisch und kurze Lagerzeit auf. Die meisten modernen kommerziell angebauten Sorten gehören zur westlichen Apfelsorte. Sie wurde erstmals 1871 vom amerikanischen Missionar Nevis in Yantai, Shandong, eingeführt. Die heute gängigen Sorten wie „Fuji“ (1952 in Japan gezüchtet) sind hybride, verbesserte Sorten, die 1966 eingeführt wurden. Da „Ping“ und „Ping“ Homophone sind, bedeuten sie in China Frieden und Glück.
+Der Apfel stammt ursprünglich aus Zentraleurasien und wird heute weltweit in gemäßigten Regionen angebaut. China ist der größte Produzent (die jährliche Produktion beträgt über 40% der Weltproduktion), und die Hauptanbaugebiete sind das Lössplateau und die Bohai-Bucht. Der Name „Apfel“ hat sprachliche Veränderungen erfahren: In der Han-Dynastie wurde der aus den westlichen Regionen eingeführte Baumwollapfel „Nai“ genannt; in der Tang-Dynastie wurde die „Pinpo-Frucht“ in den Sanskrit-buddhistischen Schriften als Bezeichnung für verbesserte Sorten übersetzt und entwickelte sich später durch phonetische Transformation zu „Pingpo“ und „Pingbo“. Erst in der Ming-Dynastie, „Qunfangpu“, entstand der standardisierte Name „Apfel“. Die im alten China angebauten Baumwolläpfel wiesen Mängel wie weiches Fruchtfleisch und kurze Lagerzeit auf. Die meisten modernen kommerziell angebauten Sorten gehören zur westlichen Apfelsorte. Sie wurde erstmals 1871 vom amerikanischen Missionar Nevis in Yantai, Shandong, eingeführt. Die heute gängigen Sorten wie „Fuji“ (1952 in Japan gezüchtet) sind hybride, verbesserte Sorten, die 1966 eingeführt wurden. Da „Ping“ und „Ping“ Homophone sind, bedeuten sie in China Frieden und Glück.
 
 [MAULBEERGEWICHT]
 Moraceae
@@ -40945,13 +41142,13 @@ Es besteht die Chance, einen Wassertropfen zu werfen, der Angriffskraft und Angr
 Glatt und geschmeidig
 
 [ALOES_SKILL_LEVEL2_DES]
-Erhöht den Effekt von Fertigkeit 2 um 100 %.
+Erhöht den Effekt von Fertigkeit 2 um 100%.
 
 [ALOES_SKILL_LEVEL5]
 Eistropfen
 
 [ALOES_SKILL_LEVEL5_DES]
-Aloe Vera wirft einen Eistropfen, der die Angriffskraft um 20 % erhöht. Während der Dauer des Wassernebels werden die Zombies im Wassernebel durch Eis verlangsamt.
+Aloe Vera wirft einen Eistropfen, der die Angriffskraft um 20% erhöht. Während der Dauer des Wassernebels werden die Zombies im Wassernebel durch Eis verlangsamt.
 
 [ICELOTUS]
 Eislotus
@@ -41065,13 +41262,13 @@ Chance, einen Wassertropfen zu werfen, der Angriffskraft und Angriffsgeschwindig
 Glatt und feucht
 
 [POMEGRANATE_SKILL_LEVEL2_DES]
-Erhöht die Wirkung von Fertigkeit 2 um 100 %
+Erhöht die Wirkung von Fertigkeit 2 um 100%
 
 [POMEGRANATE_SKILL_LEVEL5]
 Glatt und feucht
 
 [POMEGRANATE_SKILL_LEVEL5_DES]
-Erhöht die Wirkung von Fertigkeit 2 um 100 %
+Erhöht die Wirkung von Fertigkeit 2 um 100%
 
 [SNAPPEA]
 Schnapperbse
@@ -41127,7 +41324,7 @@ Es besteht eine 10%ige Chance, dass die Splittergranate bei der Explosion Fläch
 Sprengmeister
 
 [ELECTRICITEA_SKILL_LEVEL2_DES]
-Erhöht die Wirkung von Sprengmeister um 100 %.
+Erhöht die Wirkung von Sprengmeister um 100%.
 
 [ELECTRICITEA_SKILL_LEVEL5]
 Spaß-Sprengmeister
@@ -41157,7 +41354,7 @@ Es besteht eine 10%ige Chance, dass die Splittergranate bei der Explosion Fläch
 Sprengmeister
 
 [IMPPEAR_SKILL_LEVEL2_DES]
-Erhöht die Wirkung von Sprengmeister um 100 %.
+Erhöht die Wirkung von Sprengmeister um 100%.
 
 [IMPPEAR_SKILL_LEVEL5]
 Spaß-Sprengmeister
@@ -41210,7 +41407,7 @@ Chance, einen großen Blitzball auszustoßen. Dieser erhöht den Schaden des Bli
 Super-Energie-Elektroball
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL2_DES]
-Erhöht den Effekt von Fertigkeit 2 um 100 %.
+Erhöht den Effekt von Fertigkeit 2 um 100%.
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL5]
 Gewitterdrachen-Phantom
@@ -41298,7 +41495,7 @@ Reduziert die Anzahl der Angriffe, die zum einmaligen Aufblühen benötigt werde
 Aufwärmübung
 
 [DAZEYCHAIN_SKILL_LEVEL2_DES]
-Erhöht die Wirkung von Fertigkeit 2 um 100 %.
+Erhöht die Wirkung von Fertigkeit 2 um 100%.
 
 [DAZEYCHAIN_SKILL_LEVEL5]
 Wissenschaftliche Aufwärmübung
@@ -41337,13 +41534,13 @@ Knallballonblumen Kostüm
 Ballon-Verbesserung
 
 [BOOMFLOWER_SKILL_LEVEL1_DES]
-Das Intervall zwischen Ballonbomben wird um 1 Sekunde und der Sonnenlichtverbrauch um 50 % reduziert.
+Das Intervall zwischen Ballonbomben wird um 1 Sekunde und der Sonnenlichtverbrauch um 50% reduziert.
 
 [BOOMFLOWER_SKILL_LEVEL2]
 Sekundäre Verbesserung
 
 [BOOMFLOWER_SKILL_LEVEL2_DES]
-Erhöht den Effekt der Ballon-Verbesserung um 100 %.
+Erhöht den Effekt der Ballon-Verbesserung um 100%.
 
 [BOOMFLOWER_SKILL_LEVEL5]
 Feierballon
@@ -41387,7 +41584,7 @@ Reduziert die Angriffsladezeit um 1 Sekunde.
 Schnellladung
 
 [ULTOMATO_SKILL_LEVEL2_DES]
-Erhöht den Effekt von Fertigkeit 2 um 100 %.
+Erhöht den Effekt von Fertigkeit 2 um 100%.
 
 [ULTOMATO_SKILL_LEVEL4]
 Supersprung
@@ -41525,7 +41722,7 @@ Die Erholungszeit wird um 1 Sekunde verkürzt.
 Extremes Wachstum
 
 [TUPISTRASTALKER_SKILL_LEVEL2_DES]
-Erhöht den Effekt von Fertigkeit 2 um 100 %.
+Erhöht den Effekt von Fertigkeit 2 um 100%.
 
 [TUPISTRASTALKER_SKILL_LEVEL5]
 Dreht sich um 720°.
@@ -41658,7 +41855,7 @@ Es besteht die Möglichkeit, spezielle Töne abzufeuern, die Verzauberung auf da
 Der anhaltende Klang
 
 [TULIPTRUMPETER_SKILL_LEVEL2_DES]
-Erhöht die Wirkung der Fertigkeit „Diffuser Klang“ um 100 %.
+Erhöht die Wirkung der Fertigkeit „Diffuser Klang“ um 100%.
 
 [TULIPTRUMPETER_SKILL_LEVEL5]
 Farbenfrohe Ouvertüre
@@ -41731,7 +41928,7 @@ Es besteht die Chance, Zombies 1 Sekunde lang einzufrieren.
 Eisblock
 
 [ICYCURRANT_SKILL_LEVEL2_DES]
-Erhöht die Wirkung von Eiskristall um 100 %.
+Erhöht die Wirkung von Eiskristall um 100%.
 
 [ICYCURRANT_SKILL_LEVEL5]
 Frost
@@ -41858,13 +42055,13 @@ Bärentraubenmörser Kostüm
 Doppelschuss-Stau
 
 [BEARBERRY_SKILL_LEVEL1_DES]
-10 % Chance, zwei Granaten gleichzeitig abzufeuern, eine rollt unter Füße, einer fliegt zwei Felder weit, fällt dann und rollt wieder ab.
+10% Chance, zwei Granaten gleichzeitig abzufeuern, eine rollt unter Füße, einer fliegt zwei Felder weit, fällt dann und rollt wieder ab.
 
 [BEARBERRY_SKILL_LEVEL2]
 Er blockiert erneut.
 
 [BEARBERRY_SKILL_LEVEL2_DES]
-Erhöht den Blockiereffekt von Doppelschüssen um 10 %.
+Erhöht den Blockiereffekt von Doppelschüssen um 10%.
 
 [BEARBERRY_SKILL_LEVEL5]
 Goldene Hülle
@@ -42050,7 +42247,7 @@ Reiherblumen-Kämpfer Kostüm
 Fliegende Staffel
 
 [EGRETFLOWER_SKILL_LEVEL1_DES]
-Für jede zusätzliche Reiherblume auf dem Feld, der Schaden erhöht sich um 10 % bis maximal 30 %.
+Für jede zusätzliche Reiherblume auf dem Feld, der Schaden erhöht sich um 10% bis maximal 30%.
 
 [EGRETFLOWER_SKILL_LEVEL2]
 Schnelles Nachladen
@@ -42463,34 +42660,34 @@ Fan Heart Ye Lan Kostüm
 Körpertraining
 
 [HOYACORDATA_SKILL_LEVEL1_DES]
-Die Ruhezeit wird um 2,5 Sekunden reduziert und die Wahrscheinlichkeit einer Zugabe erhöht. 10 %
+Die Ruhezeit wird um 2,5 Sekunden reduziert und die Wahrscheinlichkeit einer Zugabe erhöht. 10%
 
 [HOYACORDATA_SKILL_LEVEL2]
 Fan Way
 
 [HOYACORDATA_SKILL_LEVEL2_DES]
-Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zugabe um 10 % erhöht.
+Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zugabe um 10% erhöht.
 
 [HOYACORDATA_SKILL_LEVEL5]
 Höhepunkt
 
 [HOYACORDATA_SKILL_LEVEL5_DES]
-Nach jedem Jubelschrei verfällt er in einen fanatischeren Zustand, mit einer zusätzlichen Erhöhung von 100 % Angriffsgeschwindigkeit und Unbesiegbarkeit.
+Nach jedem Jubelschrei verfällt er in einen fanatischeren Zustand, mit einer zusätzlichen Erhöhung von 100% Angriffsgeschwindigkeit und Unbesiegbarkeit.
 
 [HOYACORDATA_NEW_SKILL_LEVEL1_DES]
 Fan Xin Ye Lan schwenkt den Leuchtstab zum 10. Jahrestag und jubelt der Pflanze ein Feld vor ihm ununterbrochen zu, wodurch sich ihre Angriffskraft und ihre Lebensregeneration erhöhen. Die Erhöhung der Angriffskraft wird von der Angriffskraft von Xin Ye Lan und der Zielpflanze beeinflusst, die Höhe der Lebensregeneration von Xin Ye Lans maximaler Gesundheit. Nach jedem Jubel verfällt Xin Ye Lan in einen Ruhezustand. Während des Jubels, wenn die Pflanze vor ihm die Spezialdünger-Fähigkeit-Attacke auslöst, besteht die Chance, eine Zugabe auszulösen. Diese führt dazu, dass sie die Spezialdünger-Fähigkeit-Attacke nach dem Ende der Attacke erneut auslöst.
 
 [HOYACORDATA_NEW_SKILL_LEVEL2_DES]
-Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zugabe um 10 % erhöht.
+Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zugabe um 10% erhöht.
 
 [HOYACORDATA_NEW_SKILL_LEVEL3_DES]
-Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zugabe um 10 % erhöht.
+Die Ruhezeit wird um 2,5 Sekunden verkürzt und die Wahrscheinlichkeit einer Zugabe um 10% erhöht.
 
 [HOYACORDATA_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit-Attacke direkt auszulösen!
 
 [HOYACORDATA_NEW_SKILL_LEVEL5_DES]
-Nach jeder Unterstützung für einen bestimmten Zeitraum wird der Zustand enthusiastischer, mit einer zusätzlichen Erhöhung der Angriffsgeschwindigkeit und Unbesiegbarkeit um 100 %.
+Nach jeder Unterstützung für einen bestimmten Zeitraum wird der Zustand enthusiastischer, mit einer zusätzlichen Erhöhung der Angriffsgeschwindigkeit und Unbesiegbarkeit um 100%.
 
 [HOYACORDATA_PLANTFOOD_DESCRIPTION]
 Wendet einen stärkeren Unterstützungseffekt auf alle Pflanzen im Umkreis von 3×3 um sich herum an.
@@ -42665,7 +42862,7 @@ Es besteht eine zusätzliche 20%ige Chance, violette Flammenölgeschosse zu werf
 Ölkugeln sammeln
 
 [RAPEFLOWER_SKILL_LEVEL5_DES]
-Die Angriffsmethode wurde geändert. Es können nun größere Ölkugeln verdichtet werden. Nach dem Auftreffen der großen Ölkugel werden alle Zombies in einem Raster mit Öl bespritzt. Nach dem Entzünden sind die Zombies durch Feuer um 10 % verwundbar. Die Wahrscheinlichkeit, brennende Ölkugeln zu werfen, erhöht sich um 20 %.
+Die Angriffsmethode wurde geändert. Es können nun größere Ölkugeln verdichtet werden. Nach dem Auftreffen der großen Ölkugel werden alle Zombies in einem Raster mit Öl bespritzt. Nach dem Entzünden sind die Zombies durch Feuer um 10% verwundbar. Die Wahrscheinlichkeit, brennende Ölkugeln zu werfen, erhöht sich um 20%.
 
 [STORE_PRODUCT_AVATAR_RAPEFLOWER_TITLE]
 Rapsblütenkrug-Kostüm
@@ -42686,10 +42883,10 @@ Die Brennintensität wird erhöht, und es besteht eine 40%ige Chance, eine blaue
 Die Brennintensität wird erneut erhöht, und es besteht eine zusätzliche 20%ige Chance, eine violette Flammenölkugel zu werfen, die die Feuersäule zu einer violetten Feuersäule mit dreifachem Schaden anreichern kann.
 
 [RAPEFLOWER_NEW_SKILL_LEVEL4_DES]
-Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen! Die Wahrscheinlichkeit, mit normalen Angriffen brennende Ölkugeln zu werfen, erhöht sich um 20 %.
+Beim Pflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt freizusetzen! Die Wahrscheinlichkeit, mit normalen Angriffen brennende Ölkugeln zu werfen, erhöht sich um 20%.
 
 [RAPEFLOWER_NEW_SKILL_LEVEL5_DES]
-Die Angriffsmethode ändert sich: Es können größere Ölkugeln verdichtet werden, wodurch brennende Ölkugeln abgefeuert werden. Nach dem Auftreffen werden alle Zombies im Bereich des Einzelgitters bespritzt, wodurch sie direkt in den Brennzustand übergehen oder eine Feuersäule erzeugen. Nach der Entzündung sind die Zombies 10 % anfällig für Feuer.
+Die Angriffsmethode ändert sich: Es können größere Ölkugeln verdichtet werden, wodurch brennende Ölkugeln abgefeuert werden. Nach dem Auftreffen werden alle Zombies im Bereich des Einzelgitters bespritzt, wodurch sie direkt in den Brennzustand übergehen oder eine Feuersäule erzeugen. Nach der Entzündung sind die Zombies 10% anfällig für Feuer.
 
 [RAPEFLOWER_PLANTFOOD_DESCRIPTION]
 Der Rapsblumenkrug dreht schnell seine Arme und wirft eine Ölkugel auf jeden Zombie auf dem Bildschirm.
@@ -42720,7 +42917,7 @@ Gut im Schwertkampf, nutzt Schwertenergie und fliegendes Schwert, um Zombies anz
 Mit einem Schwert enthaupten
 
 [DRACAENA_SKILL_LEVEL1_DES]
-Wenn die Gesundheit des vom fliegenden Schwert getroffenen Zombies weniger als 50 % der Gesamtgesundheit beträgt, wird er direkt getötet.
+Wenn die Gesundheit des vom fliegenden Schwert getroffenen Zombies weniger als 50% der Gesamtgesundheit beträgt, wird er direkt getötet.
 
 [DRACAENA_SKILL_LEVEL2]
 Scharfe Schwertenergie
@@ -42744,10 +42941,10 @@ Schwertblatt-Drachenblutbaum-Kostüm
 Der ultimative Zug von Wanjian Guizong schleudert 20 zusätzliche kleine fliegende Schwerter in einem Winkel von 15 Grad über und unter der Pflanze.
 
 [DRACAENA_NEW_SKILL_LEVEL1_DES]
-Erscheint ein Zombie rechts von der Pflanze, schwingt diese alle 3 Sekunden ihr Schwert und feuert Schwertenergie ab. Verursacht die Schwertenergie Schaden am Zombie, greift das fliegende Schwert hinter der Pflanze den Zielzombie an und kehrt anschließend wieder hinter die Pflanze zurück. Beträgt die Gesundheit des getroffenen Zombies weniger als 40 % der Gesamtgesundheit, wird er sofort getötet.
+Erscheint ein Zombie rechts von der Pflanze, schwingt diese alle 3 Sekunden ihr Schwert und feuert Schwertenergie ab. Verursacht die Schwertenergie Schaden am Zombie, greift das fliegende Schwert hinter der Pflanze den Zielzombie an und kehrt anschließend wieder hinter die Pflanze zurück. Beträgt die Gesundheit des getroffenen Zombies weniger als 40% der Gesamtgesundheit, wird er sofort getötet.
 
 [DRACAENA_NEW_SKILL_LEVEL2_DES]
-Wenn die Gesundheit des Zombies, der vom fliegenden Schwert getroffen wird, weniger als 50 % der Gesamtgesundheit beträgt, wird er direkt getötet.
+Wenn die Gesundheit des Zombies, der vom fliegenden Schwert getroffen wird, weniger als 50% der Gesamtgesundheit beträgt, wird er direkt getötet.
 
 [DRACAENA_NEW_SKILL_LEVEL3_DES]
 Die Reichweite des fliegenden Schwertes wurde auf ein einzelnes Raster geändert.
@@ -42756,7 +42953,7 @@ Die Reichweite des fliegenden Schwertes wurde auf ein einzelnes Raster geändert
 Beim Einpflanzen besteht eine mittlere Wahrscheinlichkeit, die Spezialdünger-Fähigkeit direkt auszulösen!
 
 [DRACAENA_NEW_SKILL_LEVEL5_DES]
-Beim Angriff hat der Schwertblatt-Drachenblutbaum eine 30% Chance, das fliegende Schwert hinter ihm und das Schwert in seiner Hand zu manipulieren und zu einem großen Schwert zu verschmelzen. Nach Abschluss der Fusion fliegt das große Schwert nach vorne und durchdringt alle Zombies auf der Route. Dabei verursacht es jeweils 1500 Schadenspunkte. Beträgt die Gesundheit des angegriffenen Zombies weniger als 50 % der Gesamtgesundheit, wird er direkt getötet.
+Beim Angriff hat der Schwertblatt-Drachenblutbaum eine 30% Chance, das fliegende Schwert hinter ihm und das Schwert in seiner Hand zu manipulieren und zu einem großen Schwert zu verschmelzen. Nach Abschluss der Fusion fliegt das große Schwert nach vorne und durchdringt alle Zombies auf der Route. Dabei verursacht es jeweils 1500 Schadenspunkte. Beträgt die Gesundheit des angegriffenen Zombies weniger als 50% der Gesamtgesundheit, wird er direkt getötet.
 
 [DRACAENA_PLANTFOOD_DESCRIPTION]
 Der Schwertblatt-Drachenblutbaum lässt die zehntausend Schwerter zum Ursprung zurückkehren und schleudert 50 kleine Schwerter in einer Reihe nach vorne. Jedes kleine Schwert verschwindet, nachdem es einen Zombie/ein Hindernis angegriffen hat, und der angegriffene Zombie wird 0,5 Gitter zurückgeworfen. Das große Bewegungsschwert löst keinen Tötungseffekt aus.
@@ -48309,7 +48506,7 @@ Befristeter Gruppenkauf
 Vorschau Gruppenkauf
 
 [GROUP_BUY_5_DISCOUNT]
-Befristeter Gruppenkauf, mindestens 50 % Rabatt
+Befristeter Gruppenkauf, mindestens 50% Rabatt
 
 [GROUP_BUY_PLANT_LEVEL]
 {NUMBER} Stufe
@@ -48360,19 +48557,19 @@ Kauf {ITEM}
 Umtausch Menge
 
 [DISCOUNT_5]
-50 % Rabatt
+50% Rabatt
 
 [DISCOUNT_6]
-60 % Rabatt
+60% Rabatt
 
 [DISCOUNT_7]
-70 % Rabatt
+70% Rabatt
 
 [DISCOUNT_8]
-80 % Rabatt
+80% Rabatt
 
 [DISCOUNT_9]
-10 % Rabatt
+10% Rabatt
 
 [GROUP_BUY_RETURN]
 Rückgabe von Juwelen für Gruppenkäufe
@@ -49566,7 +49763,7 @@ Die Lähmungszeit mechanischer Einheiten wird auf 8 Sekunden verlängert.
 Energieüberladung
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL2_DES]
-Erhöht den Explosionsschaden um 40 %.
+Erhöht den Explosionsschaden um 40%.
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL5]
 Super-Energieradius-Explosion
@@ -49974,7 +50171,7 @@ Geschenkpaket-Rabattcode eingeben
 Rabattcode verwenden
 
 [HEAVEN_TREASURE_USE_CODE_DES]
-Rabattcode eingeben, um das Paket mit 30 % Rabatt zu erhalten.
+Rabattcode eingeben, um das Paket mit 30% Rabatt zu erhalten.
 So erhalten Sie den Rabattcode: Spieler, die das Sonderangebot zum Originalpreis kaufen, erhalten den Rabattcode.
 Der Rabattcode kann mit anderen Spielern geteilt werden.
 Der Rabattcode ist ab dem Kauf von Tiangong gültig. Das Geschenkpaket verfällt am 1. des Folgemonats um 0:00 Uhr. Bitte nutzen Sie ihn rechtzeitig.
@@ -49983,7 +50180,7 @@ Der Rabattcode ist ab dem Kauf von Tiangong gültig. Das Geschenkpaket verfällt
 Bitte geben Sie den Rabattcode ein.
 
 [HEAVEN_TREASURE_USE_CODE_SUCCESS]
-Herzlichen Glückwunsch, Sie haben 30 % Rabatt erhalten.
+Herzlichen Glückwunsch, Sie haben 30% Rabatt erhalten.
 
 [HEAVEN_TREASURE_YOUR_CODE]
 Ihr Rabattcode:
@@ -51180,20 +51377,20 @@ Aktivitätsinhalt:
 7. Die verbleibenden Eierhämmer werden in jedem Zeitraum abgeräumt.
 
 Bekanntgabe der Wahrscheinlichkeit, Eier in den ersten vier Leveln zu zerschlagen
-Sonderbelohnung: 3,85 %
-Erster Preis: 7,69 %
-Zweiter Preis: 11,54 %
-Dritter Preis: 19,23 %
-Vierter Preis: 26,92 %
-Fünfter Preis: 30,77 %
+Sonderbelohnung: 3,85%
+Erster Preis: 7,69%
+Zweiter Preis: 11,54%
+Dritter Preis: 19,23%
+Vierter Preis: 26,92%
+Fünfter Preis: 30,77%
 
 Bekanntgabe der Wahrscheinlichkeit, Eier im fünften Level zu zerschlagen
-Sonderbelohnung: 28,30 %
-Erster Preis: 7,55 %
-Zweiter Preis: 11,32 %
-Dritter Preis: 11,32 %
-Vierter Preis: 18,87 %
-Belohnung der fünften Klasse: 22,64 %
+Sonderbelohnung: 28,30%
+Erster Preis: 7,55%
+Zweiter Preis: 11,32%
+Dritter Preis: 11,32%
+Vierter Preis: 18,87%
+Belohnung der fünften Klasse: 22,64%
 
 [GOLDENEGG_TASK_NAME_1]
 Schließe das Level „Reise der Erinnerungen“ einmal täglich ab.
@@ -51967,13 +52164,13 @@ Schießt verschiedene Geschenkboxen ab, die Zombies anlocken und zufällig versc
 Doppelkanone
 
 [ACTINOSTEMMA_SKILL_LEVEL1_DES]
-20 % Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
+20% Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
 
 [ACTINOSTEMMA_SKILL_LEVEL2]
 Bombardement-Verstärkung
 
 [ACTINOSTEMMA_SKILL_LEVEL2_DES]
-40 % Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
+40% Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
 
 [ACTINOSTEMMA_SKILL_LEVEL5]
 Einpacken und los
@@ -51988,7 +52185,7 @@ Boxgrass-Salut-Kostüm
 Alchemie-Rüstungsoutfit
 
 [NEW_AVATAR_DESCRIPTION_GATLINGPEA_4]
-Erhöht die Anzahl der durch die ultimative Fähigkeit abgefeuerten Erbsen um 50 %.
+Erhöht die Anzahl der durch die ultimative Fähigkeit abgefeuerten Erbsen um 50%.
 
 [STORE_PRODUCT_AVATAR_ACTINOSTEMMA]
 Fischt weitere Geschenkboxen
@@ -52000,16 +52197,16 @@ Boxgrass-Salut-Kostüm
 Der Boxgrass-Salut wirft verschiedene Geschenkboxen auf Zombies auf der Karte. Diese Geschenkboxen ziehen Zombies an und erzeugen zufällig verschiedene Effekte (Explosive Geschenkbox, Charmante Geschenkbox, Schreckens-Geschenkbox oder Feuerwerks-Geschenkbox).
 
 [ACTINOSTEMMA_NEW_SKILL_LEVEL2_DES]
-20 % Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
+20% Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
 
 [ACTINOSTEMMA_NEW_SKILL_LEVEL3_DES]
-40 % Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
+40% Chance, einen neuen Gegner auszuwählen, der eine Geschenkbox erzeugt.
 
 [ACTINOSTEMMA_NEW_SKILL_LEVEL4_DES]
 Wachsen lässt eine mittlere Chance auf sofortigen Einsatz einer Energiebohne-Ultimate.
 
 [ACTINOSTEMMA_NEW_SKILL_LEVEL5_DES]
-Beim Angriff hat die Pflanzenkanone eine Chance von 10 %, eine größere Geschenkbox abzufeuern. Nach ihrer Aktivierung besteht eine Chance von 50 %, Zombies in einem Radius von 3x3 in eine neue Geschenkbox zu packen.
+Beim Angriff hat die Pflanzenkanone eine Chance von 10%, eine größere Geschenkbox abzufeuern. Nach ihrer Aktivierung besteht eine Chance von 50%, Zombies in einem Radius von 3x3 in eine neue Geschenkbox zu packen.
 
 [ACTINOSTEMMA_PLANTFOOD_DESCRIPTION]
 Wirft sofort eine Geschenkbox auf den ersten Gegner in drei zufälligen Reihen.
@@ -52021,7 +52218,7 @@ Schießt weitere Geschenkboxen ab.
 Teekanne
 
 [NEW_AVATAR_DESCRIPTION_ANIMNUTS_1]
-Sonnenlichtverbrauch um 50 % reduziert
+Sonnenlichtverbrauch um 50% reduziert
 
 [GENE_SEQUENCE_LEVEL_LEFT]
 Gensequenzebene: {PARAM}
@@ -52060,101 +52257,101 @@ Möchtest du wirklich 1 Genessenz der aktuellen Pflanze ausgeben, um die Gensequ
 Möchtest du das aktuelle Gen wirklich einlösen?
 
 [GENE_SEQUENCE_TEST1]
-Angriff: Erhöht die Angriffskraft um 10 %.
-Schwindel: Erhöht die Betäubungsdauer von Zombies um 15 % (+5 %).
+Angriff: Erhöht die Angriffskraft um 10%.
+Schwindel: Erhöht die Betäubungsdauer von Zombies um 15% (+5%).
 
 [GET_ADDITION]
 Bonus erhalten
 
 [GENE_DESCRIPTION_PEASHOOTER]
-Erhöht die Angriffskraft der Erbsenkanone um {Param_1} %
+Erhöht die Angriffskraft der Erbsenkanone um {Param_1}%
 
 [GENE_DESCRIPTION_SUNFLOWER]
 Reduziert den Sonnenlichtverbrauch der Sonnenblume um {Param_1} Punkte
 
 [GENE_DESCRIPTION_WALLNUT]
-Reduziert die Abklingzeit des Nussanbaus um {Param_1} %
+Reduziert die Abklingzeit des Nussanbaus um {Param_1}%
 
 [GENE_DESCRIPTION_POTATOMINE]
-Reduziert die Abklingzeit des Kartoffelminenanbaus um {Param_1} %
+Reduziert die Abklingzeit des Kartoffelminenanbaus um {Param_1}%
 
 [GENE_DESCRIPTION_CABBAGEPULT]
-Erhöht die Angriffskraft des Kohlkrugs um {Param_1} %
+Erhöht die Angriffskraft des Kohlkrugs um {Param_1}%
 
 [GENE_DESCRIPTION_WALFLOWER]
 Reduziert den Sonnenlichtverbrauch der Sonnenblume um {Param_1} Punkte
 
 [GENE_DESCRIPTION_WALLNUT]
-Reduziert die Abkühlzeit des Nussanbaus um {Param_1} %
+Reduziert die Abkühlzeit des Nussanbaus um {Param_1}%
 
 [GENE_DESCRIPTION_POTATOMINE]
-Reduziert die Abkühlzeit des Kartoffelminenanbaus um {Param_1} %
+Reduziert die Abkühlzeit des Kartoffelminenanbaus um {Param_1}%
 
 [GENE_DESCRIPTION_CABBAGEPULT]
-Erhöht die Angriffskraft des Kohlkrugs um {Param_1} %
+Erhöht die Angriffskraft des Kohlkrugs um {Param_1}%
 
 [GENE_DESCRIPTION_WALFLOWER]
 Reduziert den Sonnenverbrauch der Sonnenblume um {Param_1} Punkte
 
 [GENE_DESCRIPTION_ICEBURG]
-Die Einfrierzeit von Zombies durch gefrorenen Salat erhöht sich um {Param_1} %
+Die Einfrierzeit von Zombies durch gefrorenen Salat erhöht sich um {Param_1}%
 
 [GENE_DESCRIPTION_SPIKEWEED]
-Die Angriffskraft vom Stachelkraut  erhöht sich um {Param_1} %
+Die Angriffskraft vom Stachelkraut  erhöht sich um {Param_1}%
 
 [GENE_DESCRIPTION_SPLITPEA]
-Die Angriffskraft von Zwei-Wege-Schützen erhöht sich um {Param_1} %
+Die Angriffskraft von Zwei-Wege-Schützen erhöht sich um {Param_1}%
 
 [GENE_DESCRIPTION_KERNELPULT]
-Die Wahrscheinlichkeit, dass Maiskrüge Butter abfeuern, erhöht sich um {Param_1} %.
+Die Wahrscheinlichkeit, dass Maiskrüge Butter abfeuern, erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_FIREGOURD]
 Der Feuerkürbis reduziert den Sonnenlichtverbrauch um {Param_1} Punkte.
 
 [GENE_DESCRIPTION_TURNIP]
-Die Abkühlzeit beim Anpflanzen von weißem Rettich verkürzt sich um {Param_1} %.
+Die Abkühlzeit beim Anpflanzen von weißem Rettich verkürzt sich um {Param_1}%.
 
 [GENE_DESCRIPTION_BAMBOO]
-Erhöht die Angriffskraft von Bambussprossen um {Param_1} %.
+Erhöht die Angriffskraft von Bambussprossen um {Param_1}%.
 
 [GENE_DESCRIPTION_PUFFSHROOM]
 Erhöht die Dauer kleiner Blätterpilze um {Param_1} Sekunden.
 
 [GENE_DESCRIPTION_FUMESHROOM]
-Erhöht die Angriffskraft großer Blätterpilze um {Param_1} %.
+Erhöht die Angriffskraft großer Blätterpilze um {Param_1}%.
 
 [GENE_DESCRIPTION_SUNBEAN]
-Reduziert die Abklingzeit des Sonnenbohnenanbaus um {Param_1} %
+Reduziert die Abklingzeit des Sonnenbohnenanbaus um {Param_1}%
 
 [GENE_DESCRIPTION_PEANUT]
-Abklingzeit der Erbs-Nuss um {Param_1} % reduziert
+Abklingzeit der Erbs-Nuss um {Param_1}% reduziert
 
 [GENE_DESCRIPTION_GOLDBLOOM]
-Abklingzeit der Goldblüte um {Param_1} % reduziert
+Abklingzeit der Goldblüte um {Param_1}% reduziert
 
 [GENE_DESCRIPTION_MAGNETSHROOM]
-Ruhezeit des Magnetpilzes um {Param_1} % verkürzt
+Ruhezeit des Magnetpilzes um {Param_1}% verkürzt
 
 [GENE_DESCRIPTION_PEACH]
 Die Dauer des unbesiegbaren Schildes von Feenpfirsischs ultimativer Fähigkeit wird um {Param_1} Sekunden erhöht.
 
 [GENE_DESCRIPTION_STALLIA]
-Stinkeblüte erhöht den zusätzlichen Schaden, den Zombies im vergifteten Zustand erleiden, um {Param_1} %.
+Stinkeblüte erhöht den zusätzlichen Schaden, den Zombies im vergifteten Zustand erleiden, um {Param_1}%.
 
 [GENE_DESCRIPTION_SNOWPEA]
-Die Angriffskraft der Hagelzucker-Erbse wird erhöht. um {Param_1} %
+Die Angriffskraft der Hagelzucker-Erbse wird erhöht. um {Param_1}%
 
 [GENE_DESCRIPTION_LIGHTNINGREED]
-Der direkte Trefferschaden vom Blitzschilf wurde um {Param_1} % und der Kettenschaden um {Param_2} % erhöht.
+Der direkte Trefferschaden vom Blitzschilf wurde um {Param_1}% und der Kettenschaden um {Param_2}% erhöht.
 
 [GENE_DESCRIPTION_MELONPULT]
-Der Schaden der direkten Treffer vom Melonapult wurde um {Param_1} % und der Flächenschaden um {Param_2} % erhöht.
+Der Schaden der direkten Treffer vom Melonapult wurde um {Param_1}% und der Flächenschaden um {Param_2}% erhöht.
 
 [GENE_DESCRIPTION_SPIKEROCK]
-Die Angriffskraft von Stahlstachel wurde um {Param_1} % erhöht.
+Die Angriffskraft von Stahlstachel wurde um {Param_1}% erhöht.
 
 [GENE_DESCRIPTION_TALLNUT]
-Die Abklingzeit des Pflanzens von Hochwall-Nüssen wurde um {Param_1} % verkürzt.
+Die Abklingzeit des Pflanzens von Hochwall-Nüssen wurde um {Param_1}% verkürzt.
 
 [GENE_DESCRIPTION_THREEPEATER]
 Die Sonnenkosten vom Triplinator wurden um {Param_1} reduziert.
@@ -52172,37 +52369,37 @@ Pfirsiche verlängern die Zeit, die benötigt wird, um mechanische Zombies zu l�
 Die Sonnenlichtausbeute von Mondblumen erhöht sich um {Param_1} Punkte.
 
 [GENE_DESCRIPTION_EXPLODEONUT]
-Explosive Nüsse erhöhen die Explosionsangriffskraft um {Param_1} %.
+Explosive Nüsse erhöhen die Explosionsangriffskraft um {Param_1}%.
 
 [GENE_DESCRIPTION_WAXGOURD]
-Wachsmelonenwächter erhöhen die Gesundheit um {Param_1} %.
+Wachsmelonenwächter erhöhen die Gesundheit um {Param_1}%.
 
 [GENE_DESCRIPTION_ENDURIAN]
-Die Angriffskraft vom Endurian erhöht sich um {Param_1} %.
+Die Angriffskraft vom Endurian erhöht sich um {Param_1}%.
 
 [GENE_DESCRIPTION_SAPFLING]
-Erhöht die Verlangsamungs Effekte vom Saftling um {Param_1} %
+Erhöht die Verlangsamungs Effekte vom Saftling um {Param_1}%
 
 [GENE_DESCRIPTION_RAFFLESIA]
-Erhöht die Angriffskraft der Rafflesia um {Param_1} %
+Erhöht die Angriffskraft der Rafflesia um {Param_1}%
 
 [GENE_DESCRIPTION_INTENSIVECARROT]
-Verkürzt die Abklingzeit beim Pflanzen der Intensivkarrote um {Param_1} %
+Verkürzt die Abklingzeit beim Pflanzen der Intensivkarrote um {Param_1}%
 
 [GENE_DESCRIPTION_GARLIC]
-Knoblauch regeneriert alle 5 Sekunden {Param_1} % seiner Gesundheit.
+Knoblauch regeneriert alle 5 Sekunden {Param_1}% seiner Gesundheit.
 
 [GENE_DESCRIPTION_SAUCER]
-Verkürzt die Abklingzeit beim Pflanzen der fliegenden Untertassenmelone um {Param_1} %
+Verkürzt die Abklingzeit beim Pflanzen der fliegenden Untertassenmelone um {Param_1}%
 
 [GENE_DESCRIPTION_CHERRY_BOMB]
-Abklingzeit beim Pflanzen der Kirschbombe um {Param_1} % reduziert
+Abklingzeit beim Pflanzen der Kirschbombe um {Param_1}% reduziert
 
 [GENE_DESCRIPTION_LASER_BEAN]
-Spezialdünger-Fähigkeittiver Schaden der Laserbohne erhöht um {Param_1} %
+Spezialdünger-Fähigkeittiver Schaden der Laserbohne erhöht um {Param_1}%
 
 [GENE_DESCRIPTION_STARFRUIT]
-Angriffskraft von Sternfrüchten um {Param_1} % erhöht
+Angriffskraft von Sternfrüchten um {Param_1}% erhöht
 
 [GENE_DESCRIPTION_HOLONUT]
 Erholungszeit der Unend-Nuss um {Param_1} Sekunden verkürzt
@@ -52477,32 +52674,32 @@ Erweiterte Vorteile aktivieren
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_AUTUMN]
 1. Qualifikation freischalten, um Belohnungen für höhere Positionen zu erhalten.
 2. Sofort auf Level 10 aufsteigen.
-3. 20 % Bonus auf durch Aufgaben verdiente Punkte.
+3. 20% Bonus auf durch Aufgaben verdiente Punkte.
 4.150 Juwelen
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_WINTER]
 1. Schalte die Qualifikation frei, um Belohnungen für höhere Positionen zu erhalten.
 2. Steige sofort auf Level 20 auf.
-3. 20 % Bonus auf durch Aufgaben verdiente Punkte.
+3. 20% Bonus auf durch Aufgaben verdiente Punkte.
 4.150 Juwelen
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SPRINGFESTIVAL]
 1. Schalte die Qualifikation frei, um Belohnungen für höhere Positionen zu erhalten.
 2. Steige sofort auf Level 20 auf.
-3. 20 % Bonus auf durch Aufgaben verdiente Punkte.
-4.150 Juwelen 0 %
+3. 20% Bonus auf durch Aufgaben verdiente Punkte.
+4.150 Juwelen 0%
 4.150 Juwelen
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SUMMER]
 1. Schalte die Qualifikation frei, um die Belohnungen für die höhere Stufe zu erhalten.
 2. Steige sofort auf Level 20 auf.
-3. 20 % Bonus auf durch Aufgaben verdiente Punkte.
+3. 20% Bonus auf durch Aufgaben verdiente Punkte.
 4.150 Juwelen
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SPRING]
 1. Schalte die Qualifikation frei, um die Belohnungen zu erhalten. des fortgeschrittenen Levels
 2. Sofortiges Upgrade auf Level 20
-3. 20 % Bonus auf durch Aufgaben erhaltene Punkte
+3. 20% Bonus auf durch Aufgaben erhaltene Punkte
 4.150 Juwelen
 
 [BATTLE_ORDER_SELECT_TITLE]
@@ -52587,10 +52784,10 @@ Beschreibung des Coolen Sommers
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und limitierten Herausforderungen. Mit jeweils 500 gesammelten Erfahrungspunkten können sie auf das nächste Level aufsteigen und die entsprechende Levelbelohnung erhalten.
 3. Mit steigendem Level steigen die Belohnungen. Die ersten 50 Level beinhalten Edelsteine. Nach Erreichen von Level 50 können weitere Level aufsteigen. Die Belohnungen sind auf einen Zyklus von 10 Leveln festgelegt, und es werden keine weiteren Edelsteine mehr produziert.
-4. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen an der „Goldenen Herbsttour“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 10 Level sowie ein Bonus von 20 % auf Erfahrungspunkte für Aufgaben und 150 Juwelen. Der Bonus für den Aufgabenerwerb gilt nur für nach der Aktivierung erhaltene Erfahrungspunkte. Vor der Aktivierung erhaltene Erfahrungspunkte werden gemäß den ursprünglichen Regeln vergeben.
+4. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen an der „Goldenen Herbsttour“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 10 Level sowie ein Bonus von 20% auf Erfahrungspunkte für Aufgaben und 150 Juwelen. Der Bonus für den Aufgabenerwerb gilt nur für nach der Aktivierung erhaltene Erfahrungspunkte. Vor der Aktivierung erhaltene Erfahrungspunkte werden gemäß den ursprünglichen Regeln vergeben.
 5. Nutze Edelsteine, um in der Spalte „Schatz“ am Glücksrad teilzunehmen und großzügige Belohnungen zu gewinnen. Ab Level 50 und aktivierten erweiterten Rechten und Interessen kannst du den gesamten Inhalt des Glücksrads freispielen – insgesamt 20 Gegenstände.
 6. Alle Belohnungen im Glücksrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit auf andere, nicht erhaltene Belohnungen verteilt. Wird keine der 20 Belohnungen im Glücksrad gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Super-Anhänger 2,04 %, Einzellos 4,53 %, Erweiterte Bücher 0,06 %.
+Goldmünzen 22,66%, Juwelen 27,20%, Anhänger 19,26%, Pflanzen 24,25%, Super-Anhänger 2,04%, Einzellos 4,53%, Erweiterte Bücher 0,06%.
 7. Einige Level- und Glücksrad-Belohnungen kannst du selbst auswählen. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
@@ -52611,9 +52808,9 @@ Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr,
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und begrenzten Herausforderungen. Alle 500 gesammelten Erfahrungspunkte ermöglichen einen Levelaufstieg und die entsprechende Levelbelohnung.
 2. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die ersten 50 Level beinhalten Edelsteine. Ab Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, es werden keine weiteren Edelsteine mehr produziert.
-3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen beim „Winterfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf durch Aufgaben gesammelte Erfahrung sowie 150 Juwelen. Der Bonus auf Aufgabenerwerb gilt nur für nach der Aktivierung gesammelte Erfahrung. Vor der Aktivierung gesammelte Erfahrung wird gemäß den ursprünglichen Regeln vergeben.
+3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen beim „Winterfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20% Bonus auf durch Aufgaben gesammelte Erfahrung sowie 150 Juwelen. Der Bonus auf Aufgabenerwerb gilt nur für nach der Aktivierung gesammelte Erfahrung. Vor der Aktivierung gesammelte Erfahrung wird gemäß den ursprünglichen Regeln vergeben.
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände). 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
+Goldmünzen 22,66%, Juwelen 27,20%, Anhänger 19,26%, Pflanzen 24,25%, Superanhänger 2,04%, Einzellos 4,53%, Fortgeschrittene Bücher 0,06%.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
@@ -52634,10 +52831,10 @@ Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr,
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und begrenzten Herausforderungen. Alle 500 gesammelten Erfahrungspunkte ermöglichen einen Levelaufstieg und die entsprechende Levelbelohnung.
 2. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die ersten 50 Level beinhalten Edelsteine. Ab Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, es werden keine weiteren Edelsteine mehr vergeben.
-3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen beim „Winterfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
+3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen beim „Winterfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20% Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände).
 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
+Goldmünzen 22,66%, Juwelen 27,20%, Anhänger 19,26%, Pflanzen 24,25%, Superanhänger 2,04%, Einzellos 4,53%, Fortgeschrittene Bücher 0,06%.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
@@ -52658,9 +52855,9 @@ Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr,
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und begrenzten Herausforderungen. Alle 500 gesammelten Erfahrungspunkte ermöglichen einen Levelaufstieg und entsprechende Levelbelohnungen.
 2. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die ersten 50 Level beinhalten Edelsteine. Ab Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, es werden keine weiteren Edelsteine mehr vergeben.
-3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen im „Kindheitsfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
+3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen im „Kindheitsfest“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20% Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen (insgesamt 20 Gegenstände). 5. Alle Belohnungen im Schatzrad haben nur eine Chance, eingefordert zu werden. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
+Goldmünzen 22,66%, Juwelen 27,20%, Anhänger 19,26%, Pflanzen 24,25%, Superanhänger 2,04%, Einzellos 4,53%, Fortgeschrittene Bücher 0,06%.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
@@ -52681,9 +52878,9 @@ Superanhänger 2: Metallschleuder, Große Feuerwerkskörper, Beschleunigungsuhr,
 Aktivitätsregeln:
 1. Spieler sammeln Erfahrung durch das Erfüllen von Aufgaben in täglichen, wöchentlichen und begrenzten Herausforderungen. Alle 500 gesammelten Erfahrungspunkte ermöglichen einen Levelaufstieg und entsprechende Levelbelohnungen.
 2. Mit steigendem Level fallen die Belohnungen großzügiger aus. Die ersten 50 Level beinhalten Edelsteine. Ab Level 50 kannst du weiter aufsteigen. Die Belohnungen sind in einem Zyklus von 10 Leveln festgelegt, es werden keine weiteren Edelsteine mehr vergeben.
-3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen an der „Goldenen Herbsttour“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20 % Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
+3. Aktiviere erweiterte Rechte und Interessen, um weitere Rechte und Interessen an der „Goldenen Herbsttour“ zu erhalten. Dazu gehören die Freischaltung der Qualifikation für Belohnungen für erweiterte Ausrüstung, ein sofortiger Levelaufstieg um 20 Level, ein 20% Bonus auf Aufgabenerfahrung und 150 Juwelen. Der Aufgabenbonus gilt nur für die nach der Aktivierung erhaltene Erfahrung, während die vor der Aktivierung erhaltene Erfahrung gemäß den ursprünglichen Regeln vergeben wird.
 4. Nutze Edelsteine, um am Glücksrad in der Spalte „Schatz“ teilzunehmen und reichhaltige Belohnungen zu gewinnen. Bis Level 50 und aktivierten erweiterten Rechten kannst du den gesamten Inhalt des Schatzrads freispielen – insgesamt 20 Gegenstände. 5. Alle Belohnungen im Schatzrad haben nur eine Chance. Wird eine Belohnung gezogen, wird ihre Gewinnwahrscheinlichkeit anderen nicht erhaltenen Belohnungen zugewiesen. Wird keine der 20 Belohnungen im Drehteller gezogen, beträgt die Gewinnwahrscheinlichkeit für jede Belohnung:
-Goldmünzen 22,66 %, Juwelen 27,20 %, Anhänger 19,26 %, Pflanzen 24,25 %, Superanhänger 2,04 %, Einzellos 4,53 %, Fortgeschrittene Bücher 0,06 %.
+Goldmünzen 22,66%, Juwelen 27,20%, Anhänger 19,26%, Pflanzen 24,25%, Superanhänger 2,04%, Einzellos 4,53%, Fortgeschrittene Bücher 0,06%.
 6. Einige Level- und Drehteller-Belohnungen können selbst ausgewählt werden. Die Inhalte der selbstgewählten Positionen in dieser Aktivität sind wie folgt:
 Grüne Qualitätspflanzen: Süßkartoffel-Dreilinien-Shooter, Melonapult, Knoblauch, Zyklon-Eichel
 Blaue Qualitätspflanzen: Kastanien-Team, Eichen-Bogenschütze, Pitaya, Sporenpilz, Guakodile
@@ -52704,81 +52901,81 @@ Superanhänger 2: Metallschleuder, Großer Knallkörper, Beschleunigungsuhr, Pol
 Regeln für den Flash-Sale:
 Die ersten 500 Spieler, die Premium-Vorteile erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
-Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
-Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
+Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5% des Gesamtpreispools (insgesamt 25%).
+Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25% des Gesamtpreispools (insgesamt 25%).
+Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2% des Gesamtpreispools (insgesamt 30%).
+Die ersten 301–500 Käufer erhalten jeweils 0,1% des Gesamtpreispools (insgesamt 20%).
 Regeln für das „Golden Autumn Lucky Star“-Event:
 Teilnahmeberechtigt sind Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 35.000 Juwelen. Jeder Spieler, der Vorabrechte erwirbt, erhält 35 Juwelen zusätzlich.
-Am Ende des Events wird ein Gewinner des ersten Preises gezogen, der 20 % des Gesamtpreispools erhält.
-Zwei zweite Preise Die Gewinner werden gezogen und erhalten 10 % des gesamten Preispools (insgesamt 20 %).
-Die vier Drittplatzierten werden gezogen und erhalten 5 % des gesamten Preispools (insgesamt 20 %).
-Die 100 Viertplatzierten werden gezogen und erhalten 0,4 % des gesamten Preispools (insgesamt 40 %).
+Am Ende des Events wird ein Gewinner des ersten Preises gezogen, der 20% des Gesamtpreispools erhält.
+Zwei zweite Preise Die Gewinner werden gezogen und erhalten 10% des gesamten Preispools (insgesamt 20%).
+Die vier Drittplatzierten werden gezogen und erhalten 5% des gesamten Preispools (insgesamt 20%).
+Die 100 Viertplatzierten werden gezogen und erhalten 0,4% des gesamten Preispools (insgesamt 40%).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_WINTER]
 Regeln für den Flash-Sale:
 Teilnehmen können die ersten 500 Spieler, die Premium-Vorteile erwerben.
 Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
-Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5 % des gesamten Preispools (insgesamt 25 %).
-Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25 % des gesamten Preispools (insgesamt 25 %).
-Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2 % des gesamten Preispools (insgesamt 30 %).
-Die ersten 301–500 Spieler, die kaufen, erhalten jeweils 0,25 % des gesamten Preispools (insgesamt 30 %). Jeder Käufer erhält 0,1 % des gesamten Preispools (insgesamt 20 %).
+Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5% des gesamten Preispools (insgesamt 25%).
+Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25% des gesamten Preispools (insgesamt 25%).
+Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2% des gesamten Preispools (insgesamt 30%).
+Die ersten 301–500 Spieler, die kaufen, erhalten jeweils 0,25% des gesamten Preispools (insgesamt 30%). Jeder Käufer erhält 0,1% des gesamten Preispools (insgesamt 20%).
 Regeln für das Winter-Glücksstern-Event:
 Teilnehmer, die erweiterte Rechte erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 35.000 Juwelen. Jeder Spieler, der erweiterte Rechte erwirbt, erhält 35 weitere Juwelen.
-Am Ende des Events erhält ein erster Der Gewinner wird gezogen und erhält 20 % des gesamten Preispools.
-Zwei Zweitplatzierte werden gezogen und erhalten 10 % des gesamten Preispools (insgesamt 20 %).
-Vier Drittplatzierte werden gezogen und erhalten 5 % des gesamten Preispools (insgesamt 20 %).
-100 Viertplatzierte werden gezogen und erhalten 0,4 % des gesamten Preispools (insgesamt 40 %).
+Am Ende des Events erhält ein erster Der Gewinner wird gezogen und erhält 20% des gesamten Preispools.
+Zwei Zweitplatzierte werden gezogen und erhalten 10% des gesamten Preispools (insgesamt 20%).
+Vier Drittplatzierte werden gezogen und erhalten 5% des gesamten Preispools (insgesamt 20%).
+100 Viertplatzierte werden gezogen und erhalten 0,4% des gesamten Preispools (insgesamt 40%).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SPRINGFESTIVAL]
 Regeln für den Flash-Sale:
 Die ersten 500 Spieler, die Premium-Vorteile erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Premium-Vorteile erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
-Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5 % des gesamten Preispools (insgesamt 25 %).
-Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25 % des gesamten Preispools (insgesamt 25 %).
-Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2 % des gesamten Preispools (insgesamt 30 %).
-Die ersten 301–500 Spieler, die kaufen, erhalten jeweils 0,1 %, insgesamt 20 %.
+Die ersten 1–50 Spieler, die kaufen, erhalten jeweils 0,5% des gesamten Preispools (insgesamt 25%).
+Die ersten 51–150 Spieler, die kaufen, erhalten jeweils 0,25% des gesamten Preispools (insgesamt 25%).
+Die ersten 151–300 Spieler, die kaufen, erhalten jeweils 0,2% des gesamten Preispools (insgesamt 30%).
+Die ersten 301–500 Spieler, die kaufen, erhalten jeweils 0,1%, insgesamt 20%.
 Regeln für das Party-Glücksstern-Event:
 Spieler, die erweiterte Rechte erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 35.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 35.
-Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
-Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools erhalten (insgesamt 20 %).
-Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools erhalten (insgesamt 20 %).
-100 Viertplatzierte werden gezogen, die 0,4 % des Gesamtpreispools erhalten (insgesamt 40 %).
+Am Ende des Events wird ein Erstplatzierter gezogen, der 20% des Gesamtpreispools erhält.
+Zwei Zweitplatzierte werden gezogen, die 10% des Gesamtpreispools erhalten (insgesamt 20%).
+Vier Drittplatzierte werden gezogen, die 5% des Gesamtpreispools erhalten (insgesamt 20%).
+100 Viertplatzierte werden gezogen, die 0,4% des Gesamtpreispools erhalten (insgesamt 40%).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SPRING]
 Regeln für das Blitzangebot:
 Die ersten 500 Spieler, die Vorabrechte erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +100.
-Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
-Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
+Die ersten 1–50 Käufer erhalten jeweils 0,5% des Gesamtpreispools (insgesamt 25%).
+Die ersten 51–150 Käufer erhalten jeweils 0,25% des Gesamtpreispools (insgesamt 25%).
+Die ersten 151–300 Käufer erhalten jeweils 0,2% des Gesamtpreispools (insgesamt 30%).
+Die ersten 301–500 Käufer erhalten jeweils 0,1% des Gesamtpreispools (insgesamt 20%).
 Regeln für das Lixia Lucky Star-Event:
 Teilnahmeberechtigt sind Spieler mit Vorabrechten.
 Der anfängliche Preispool beträgt 35.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 35.
-Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
-Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools (insgesamt 20 %) erhalten.
-Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools (insgesamt 20 %) erhalten.
-100 Viertplatzierte werden gezogen, die 0,4 % des Gesamtpreispools (insgesamt 40 %) erhalten.
+Am Ende des Events wird ein Erstplatzierter gezogen, der 20% des Gesamtpreispools erhält.
+Zwei Zweitplatzierte werden gezogen, die 10% des Gesamtpreispools (insgesamt 20%) erhalten.
+Vier Drittplatzierte werden gezogen, die 5% des Gesamtpreispools (insgesamt 20%) erhalten.
+100 Viertplatzierte werden gezogen, die 0,4% des Gesamtpreispools (insgesamt 40%) erhalten.
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SUMMER]
 Regeln für die zweite Geschenkaktion:
 Die ersten 500 Spieler, die Vorabrechte erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 10.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 100.
-Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
-Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
+Die ersten 1–50 Käufer erhalten jeweils 0,5% des Gesamtpreispools (insgesamt 25%).
+Die ersten 51–150 Käufer erhalten jeweils 0,25% des Gesamtpreispools (insgesamt 25%).
+Die ersten 151–300 Käufer erhalten jeweils 0,2% des Gesamtpreispools (insgesamt 30%).
+Die ersten 301–500 Käufer erhalten jeweils 0,1% des Gesamtpreispools (insgesamt 20%).
 Regeln für das „Golden Autumn Lucky Star“-Event:
 Teilnahmeberechtigt sind Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 35.000 Juwelen für jeden Spieler, der die Anzahl der Juwelen im Premium-Equity-Pool um 35 erhöht.
-Am Ende des Events wird ein Gewinner des ersten Preises gezogen, der 20 % des Gesamtpreispools erhält.
-Zwei Gewinner des zweiten Preises erhalten Es werden 10 % des Gesamtpreispools (insgesamt 20 %) ausgelost.
-Es werden vier Drittplatzierte ausgelost, die 5 % des Gesamtpreispools (insgesamt 20 %) erhalten.
-100 Viertplatzierte werden ausgelost, die 0,4 % des Gesamtpreispools (insgesamt 40 %) erhalten.
+Am Ende des Events wird ein Gewinner des ersten Preises gezogen, der 20% des Gesamtpreispools erhält.
+Zwei Gewinner des zweiten Preises erhalten Es werden 10% des Gesamtpreispools (insgesamt 20%) ausgelost.
+Es werden vier Drittplatzierte ausgelost, die 5% des Gesamtpreispools (insgesamt 20%) erhalten.
+100 Viertplatzierte werden ausgelost, die 0,4% des Gesamtpreispools (insgesamt 40%) erhalten.
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_AUTUMN]
 Eventbeschreibung:
@@ -52788,17 +52985,17 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 Regeln für die Aktion „Blitzverkauf“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 4.000 Juwelen. Die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
-Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
-Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
+Die ersten 1–50 Käufer erhalten jeweils 0,5% des Gesamtpreispools (insgesamt 25%).
+Die ersten 51–150 Käufer erhalten jeweils 0,25% des Gesamtpreispools (insgesamt 25%).
+Die ersten 151–300 Käufer erhalten jeweils 0,2% des Gesamtpreispools (insgesamt 30%).
+Die ersten 301–500 Käufer erhalten jeweils 0,1% des Gesamtpreispools (insgesamt 20%).
 Regeln für die Aktion „Goldener Herbst-Glücksstern“:
 Teilnehmen können Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der erweiterte Rechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +14.
-Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des gesamten Preispools erhält.
-Zwei Zweitplatzierte werden gezogen, die 10 % des gesamten Preispools erhalten (insgesamt 20 %).
-Vier Drittplatzierte werden gezogen, die 5 % des gesamten Preispools erhalten (insgesamt 20 %).
-100 Viertplatzierte werden gezogen, die 0,4 % des gesamten Preispools erhalten (insgesamt 40 %).
+Am Ende des Events wird ein Erstplatzierter gezogen, der 20% des gesamten Preispools erhält.
+Zwei Zweitplatzierte werden gezogen, die 10% des gesamten Preispools erhalten (insgesamt 20%).
+Vier Drittplatzierte werden gezogen, die 5% des gesamten Preispools erhalten (insgesamt 20%).
+100 Viertplatzierte werden gezogen, die 0,4% des gesamten Preispools erhalten (insgesamt 40%).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_WINTER]
 Eventbeschreibung:
@@ -52808,17 +53005,17 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 Regeln für die Aktion „Blitz-Verkaufspunkte“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 4.000 Juwelen, und die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
-Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
-Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
+Die ersten 1–50 Käufer erhalten jeweils 0,5% des Gesamtpreispools (insgesamt 25%).
+Die ersten 51–150 Käufer erhalten jeweils 0,25% des Gesamtpreispools (insgesamt 25%).
+Die ersten 151–300 Käufer erhalten jeweils 0,2% des Gesamtpreispools (insgesamt 30%).
+Die ersten 301–500 Käufer erhalten jeweils 0,1% des Gesamtpreispools (insgesamt 20%).
 Regeln für die Aktion „Winter-Glücksstern“:
 Teilnehmen können Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +14.
-Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
-Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools (insgesamt 20 %) erhalten.
-Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools (insgesamt 20 %) erhalten.
-100 Viertplatzierte werden gezogen, die 0,4 % des Gesamtpreispools (insgesamt 40 %) erhalten.
+Am Ende des Events wird ein Erstplatzierter gezogen, der 20% des Gesamtpreispools erhält.
+Zwei Zweitplatzierte werden gezogen, die 10% des Gesamtpreispools (insgesamt 20%) erhalten.
+Vier Drittplatzierte werden gezogen, die 5% des Gesamtpreispools (insgesamt 20%) erhalten.
+100 Viertplatzierte werden gezogen, die 0,4% des Gesamtpreispools (insgesamt 40%) erhalten.
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SPRINGFESTIVAL]
 Eventbeschreibung:
@@ -52828,17 +53025,17 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 Regeln für die Aktion „Blitzverkauf“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 4.000 Juwelen. Die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
-Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
-Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
+Die ersten 1–50 Käufer erhalten jeweils 0,5% des Gesamtpreispools (insgesamt 25%).
+Die ersten 51–150 Käufer erhalten jeweils 0,25% des Gesamtpreispools (insgesamt 25%).
+Die ersten 151–300 Käufer erhalten jeweils 0,2% des Gesamtpreispools (insgesamt 30%).
+Die ersten 301–500 Käufer erhalten jeweils 0,1% des Gesamtpreispools (insgesamt 20%).
 Regeln für die Aktion „Party Lucky Star“:
 Teilnehmen können Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +14.
-Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des gesamten Preispools erhält.
-Zwei Zweitplatzierte werden gezogen, die 10 % des gesamten Preispools erhalten (insgesamt 20 %).
-Vier Drittplatzierte werden gezogen, die 5 % des gesamten Preispools erhalten (insgesamt 20 %).
-100 Viertplatzierte werden gezogen, die 0,4 % des gesamten Preispools erhalten (insgesamt 40 %).
+Am Ende des Events wird ein Erstplatzierter gezogen, der 20% des gesamten Preispools erhält.
+Zwei Zweitplatzierte werden gezogen, die 10% des gesamten Preispools erhalten (insgesamt 20%).
+Vier Drittplatzierte werden gezogen, die 5% des gesamten Preispools erhalten (insgesamt 20%).
+100 Viertplatzierte werden gezogen, die 0,4% des gesamten Preispools erhalten (insgesamt 40%).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SPRING]
 Eventbeschreibung:
@@ -52848,17 +53045,17 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 Regeln für die Aktion „Blitzverkauf“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 4.000 Juwelen. Die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
-Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
-Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
+Die ersten 1–50 Käufer erhalten jeweils 0,5% des Gesamtpreispools (insgesamt 25%).
+Die ersten 51–150 Käufer erhalten jeweils 0,25% des Gesamtpreispools (insgesamt 25%).
+Die ersten 151–300 Käufer erhalten jeweils 0,2% des Gesamtpreispools (insgesamt 30%).
+Die ersten 301–500 Käufer erhalten jeweils 0,1% des Gesamtpreispools (insgesamt 20%).
 Regeln für die Aktion „Lixia Lucky Star“:
 Spieler, die Vorabrechte erwerben, können teilnehmen.
 Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der erweiterte Rechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um +14.
-Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
-Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools erhalten (insgesamt 20 %).
-Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools erhalten (insgesamt 20 %).
-100 Viertplatzierte werden gezogen, die 0,4 % des Gesamtpreispools erhalten (insgesamt 40 %).
+Am Ende des Events wird ein Erstplatzierter gezogen, der 20% des Gesamtpreispools erhält.
+Zwei Zweitplatzierte werden gezogen, die 10% des Gesamtpreispools erhalten (insgesamt 20%).
+Vier Drittplatzierte werden gezogen, die 5% des Gesamtpreispools erhalten (insgesamt 20%).
+100 Viertplatzierte werden gezogen, die 0,4% des Gesamtpreispools erhalten (insgesamt 40%).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SUMMER]
 Eventbeschreibung:
@@ -52868,17 +53065,17 @@ Smaragd-Edelsteine können nur innerhalb des aktuellen Aktionszeitraums verwende
 Regeln für die Aktion „Blitzverkauf“:
 Teilnehmen können die ersten 500 Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 4.000 Juwelen. Die Anzahl der Juwelen im Preispool erhöht sich um 40 pro Spieler, der Vorabrechte erwirbt.
-Die ersten 1–50 Käufer erhalten jeweils 0,5 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 51–150 Käufer erhalten jeweils 0,25 % des Gesamtpreispools (insgesamt 25 %).
-Die ersten 151–300 Käufer erhalten jeweils 0,2 % des Gesamtpreispools (insgesamt 30 %).
-Die ersten 301–500 Käufer erhalten jeweils 0,1 % des Gesamtpreispools (insgesamt 20 %).
+Die ersten 1–50 Käufer erhalten jeweils 0,5% des Gesamtpreispools (insgesamt 25%).
+Die ersten 51–150 Käufer erhalten jeweils 0,25% des Gesamtpreispools (insgesamt 25%).
+Die ersten 151–300 Käufer erhalten jeweils 0,2% des Gesamtpreispools (insgesamt 30%).
+Die ersten 301–500 Käufer erhalten jeweils 0,1% des Gesamtpreispools (insgesamt 20%).
 Regeln für das „Goldener Herbst-Glücksstern“-Event:
 Teilnehmen können Spieler, die Vorabrechte erwerben.
 Der anfängliche Preispool beträgt 14.000 Juwelen. Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen im Preispool um 14.
-Am Ende des Events wird ein Erstplatzierter gezogen, der 20 % des Gesamtpreispools erhält.
-Zwei Zweitplatzierte werden gezogen, die 10 % des Gesamtpreispools erhalten (insgesamt 20 %).
-Vier Drittplatzierte werden gezogen, die 5 % des Gesamtpreispools erhalten (insgesamt 20 %).
-100 Viertplatzierte werden gezogen, die 0,4 % des Gesamtpreispools erhalten (insgesamt 40 %).
+Am Ende des Events wird ein Erstplatzierter gezogen, der 20% des Gesamtpreispools erhält.
+Zwei Zweitplatzierte werden gezogen, die 10% des Gesamtpreispools erhalten (insgesamt 20%).
+Vier Drittplatzierte werden gezogen, die 5% des Gesamtpreispools erhalten (insgesamt 20%).
+100 Viertplatzierte werden gezogen, die 0,4% des Gesamtpreispools erhalten (insgesamt 40%).
 
 [BATTLE_ORDER_GIFT_REWARD_ADD_UP]
 Für jeden Spieler, der Vorabrechte erwirbt, erhöht sich die Anzahl der Juwelen, die in den Gesamtpreispool aufgeteilt werden können, um 40.
@@ -52896,26 +53093,26 @@ Der Preispool wurde angesammelt.
 1.–50. Platz: Juwelen × {NUM}
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_1]
-Jeder Spieler im Ranking kann ^08FF20^0,5 %^oldclr^ des Gesamtpreispools erhalten.
+Jeder Spieler im Ranking kann ^08FF20^0,5%^oldclr^ des Gesamtpreispools erhalten.
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_2]
 51.–150. Platz: Juwelen × {NUM}
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_2]
-Jede Person im Ranking kann ^08FF20^0,25 %^oldclr^ des gesamten Preispools erhalten.
+Jede Person im Ranking kann ^08FF20^0,25%^oldclr^ des gesamten Preispools erhalten.
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_3]
 151.–300. Platz: Juwel × {NUM}
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_3]
-Jede Person im Ranking kann ^08FF20^0,2 %^oldclr^ des gesamten Preispools erhalten.
+Jede Person im Ranking kann ^08FF20^0,2%^oldclr^ des gesamten Preispools erhalten.
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_4]
 301.–500. Platz: Juwel × {NUM}
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_5]
 T_REWARD_STRIP_DES_4]
-Jede Person im Ranking kann erhalten ^08FF20^0,1 %^oldclr^ des Gesamtpreispools
+Jede Person im Ranking kann erhalten ^08FF20^0,1%^oldclr^ des Gesamtpreispools
 
 [LIST_VIEW]
 Liste ansehen
@@ -52927,17 +53124,17 @@ Verfügbare Juwelen: {NUM}
 Glücksliste
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_1]
-Ein Gewinner des ersten Preises, jeder Gewinner erhält 20 % des Gesamtpreispools.
+Ein Gewinner des ersten Preises, jeder Gewinner erhält 20% des Gesamtpreispools.
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_2]
-Zwei Gewinner des zweiten Preises, jeder Gewinner erhält 10 % des Gesamtpreispools.
+Zwei Gewinner des zweiten Preises, jeder Gewinner erhält 10% des Gesamtpreispools.
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_3]
 DER_LUCKY_REWARD_STRIP_3]
-4 Gewinner des dritten Preises, jeder Gewinner erhält 5 % des Gesamtpreispools.
+4 Gewinner des dritten Preises, jeder Gewinner erhält 5% des Gesamtpreispools.
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_4]
-100 glückliche Gewinner, jeder Der Gewinner erhält 0,4 % des Gesamtpreispools.
+100 glückliche Gewinner, jeder Der Gewinner erhält 0,4% des Gesamtpreispools.
 
 [WINNING_LIST]
 Gewinnerliste
@@ -53256,15 +53453,15 @@ Großer Ehrgeiz 3: Rhabarbarberfragment*100; Sonne-und-Mond-Geißblattfragment*1
 
 [WISHING_POOL_DESCRIPTION_2_VERSION1]
 8. Bekanntgabe der zufälligen Gewinne der Lotterie
-Juwel * 500 3,00 % Juwel * 200 6,03 %
-Juwel * 100 8,00 % Juwel * 50 11,11 %
-Juwel * 30 2,89 % Goldmünze * 99999 8,00 %
-Goldmünze * 50000 11,11 % Goldmünze * 10000 2,00 %
-Gewöhnlicher Dünger * 1 3,00 % Mysteriöser Kristall * 1000 4,00 %
-Mysteriöser Kristall * 5000 8,00 % Süßkartoffelfragmente * 10 6,00 %
-Rafflesia-Fragmente * 10 6,00 % Schnapper Fragmente*10 4,50 %
-Ackerbohnen-Kommando-Fragmente*10 3,81 % Nuwa-Schlangenschwanzgras-Fragmente 2,55 %
-Blasen-Belohnungen 10,00 %
+Juwel * 500 3,00% Juwel * 200 6,03%
+Juwel * 100 8,00% Juwel * 50 11,11%
+Juwel * 30 2,89% Goldmünze * 99999 8,00%
+Goldmünze * 50000 11,11% Goldmünze * 10000 2,00%
+Gewöhnlicher Dünger * 1 3,00% Mysteriöser Kristall * 1000 4,00%
+Mysteriöser Kristall * 5000 8,00% Süßkartoffelfragmente * 10 6,00%
+Rafflesia-Fragmente * 10 6,00% Schnapper Fragmente*10 4,50%
+Ackerbohnen-Kommando-Fragmente*10 3,81% Nuwa-Schlangenschwanzgras-Fragmente 2,55%
+Blasen-Belohnungen 10,00%
 9. Spieler erhalten zusätzliche Belohnungen basierend auf der Anzahl der gezogenen Fragmente. Die genaue Zusammensetzung ist wie folgt:
 10 kumulierte Ziehungen Laserkronen-Blumenfragmente*10
 30 kumulierte Ziehungen Laserkronen-Blumenfragmente*10
@@ -53293,15 +53490,15 @@ Großes Ziel 3: Rhabarbarberfragment*100; Sonne-und-Mond-Geißblattfragment*100;
 
 [WISHING_POOL_DESCRIPTION_2_VERSION2]
 8. Bekanntgabe der zufälligen Lotteriegewinne
-Juwel * 500 3,00 % Juwel * 200 6,03 %
-Juwel * 100 8,00 % Juwel * 50 11,11 %
-Juwel * 30 2,89 % Goldmünze * 99999 8,00 %
-Goldmünze * 50000 11,11 % Goldmünze * 10000 2,00 %
-Gewöhnlicher Dünger * 1 3,00 % Mysteriöser Kristall * 1000 4,00 %
-Mysteriöser Kristall * 5000 8,00 % Süßkartoffelfragmente * 10 6,00 %
-Rafflesia-Fragmente * 10 6,00 % Schnapper Fragmente*10 4,50 %
-Saubohnen-Kommando-Fragmente*10 3,81 % Nuwa-Schlangenschwanzgras-Fragmente 2,55 %
-Bubble-Belohnungen 10,00 %
+Juwel * 500 3,00% Juwel * 200 6,03%
+Juwel * 100 8,00% Juwel * 50 11,11%
+Juwel * 30 2,89% Goldmünze * 99999 8,00%
+Goldmünze * 50000 11,11% Goldmünze * 10000 2,00%
+Gewöhnlicher Dünger * 1 3,00% Mysteriöser Kristall * 1000 4,00%
+Mysteriöser Kristall * 5000 8,00% Süßkartoffelfragmente * 10 6,00%
+Rafflesia-Fragmente * 10 6,00% Schnapper Fragmente*10 4,50%
+Saubohnen-Kommando-Fragmente*10 3,81% Nuwa-Schlangenschwanzgras-Fragmente 2,55%
+Bubble-Belohnungen 10,00%
 9. Spieler erhalten zusätzliche Belohnungen basierend auf der Anzahl der Ziehungen. Die genaue Konfiguration ist wie folgt:
 10 kumulative Ziehungen von Laser-Kronenblumenfragmenten*10
 30 kumulative Ziehungen von Laser-Kronenblumenfragmenten*10
@@ -53786,7 +53983,7 @@ Aktivitätsinhalt:
 3. Nach Erreichen einer bestimmten Punktzahl wird das Geschenkpaket in der oberen rechten Ecke angezeigt.
 4. Die verbleibenden Punkte, die für das nächste Geschenkpaket benötigt werden, werden über Daves Kopf angezeigt.
 5. Nach Erhalt des Geschenkpakets wird ein neues Geschenkpaket automatisch zurückgesetzt.
-6. Anzeige der Pflanzenfragmentwahrscheinlichkeit: orange Pflanzefragmente: 10 %; Lila Pflanzenfragmente: 35 %; Blaue Pflanzefragmente: 45 %; Mystischer Kristall: 10 %
+6. Anzeige der Pflanzenfragmentwahrscheinlichkeit: orange Pflanzefragmente: 10%; Lila Pflanzenfragmente: 35%; Blaue Pflanzefragmente: 45%; Mystischer Kristall: 10%
 
 [LIMITED_SUMMON_TITLE]
 Zeitlich begrenzte Beschwörungen
@@ -53961,16 +54158,16 @@ Beschwöre das Pflanzentier im Kegel.
 Intimes Training
 
 [ANIMNUTS_SKILL_LEVEL1_DES]
-Dinobot: Erhöht den Bissschaden um 20 % und verkürzt die Fütterungszeit auf 8 Sekunden.
-Dinobot: Angriffe haben eine Chance von 15 %, eine rosa Qualle zu beschwören. Bei der Explosion hat die rosa Qualle eine Chance von 50 %, den Zombie 6 Sekunden lang zu bezaubern. Pygmäe: Angriffskraft um 20 % erhöht, Ruhezeit auf 10 Sekunden reduziert
+Dinobot: Erhöht den Bissschaden um 20% und verkürzt die Fütterungszeit auf 8 Sekunden.
+Dinobot: Angriffe haben eine Chance von 15%, eine rosa Qualle zu beschwören. Bei der Explosion hat die rosa Qualle eine Chance von 50%, den Zombie 6 Sekunden lang zu bezaubern. Pygmäe: Angriffskraft um 20% erhöht, Ruhezeit auf 10 Sekunden reduziert
 
 [ANIMNUTS_SKILL_LEVEL2]
 Potenzialtraining
 
 [ANIMNUTS_SKILL_LEVEL2_DES]
-Dinobot: Bissschaden um weitere 20 % erhöht, Schluckzeit auf 4 Sekunden reduziert
+Dinobot: Bissschaden um weitere 20% erhöht, Schluckzeit auf 4 Sekunden reduziert
 Kugelqualle: Angriffe haben eine 30-prozentige Chance, eine rosa Qualle zu beschwören
-Pygmäe: Angriffskraft um 20 % erhöht, Ruhezeit auf 6 Sekunden reduziert
+Pygmäe: Angriffskraft um 20% erhöht, Ruhezeit auf 6 Sekunden reduziert
 
 [ANIMNUTS_SKILL_LEVEL5]
 Mega-Evolution
@@ -53993,13 +54190,13 @@ Avator-Trainer-Outfit
 Tippe auf die Schaltfläche rechts neben dem Pflanzenplatz, um zwischen verschiedenen Avator-Pflanzen zu wechseln. Diese Pflanzen greifen automatisch Zombies in ihrer Reihe an und werden nicht von Zombies angegriffen.
 
 [ANIMNUTS_NEW_SKILL_LEVEL2_DES]
-Dinobotan: Bissschaden um 20 % erhöht, Schluckzeit auf 8 Sekunden reduziert.
-Kugelqualle: Angriffe haben eine 15-prozentige Chance, eine rosa Qualle zu beschwören. Nach der Explosion der rosa Qualle besteht eine 50-prozentige Chance, den Zombie für 6 Sekunden zu verzaubern. Pygmäe: Angriff um 20 % erhöht, Ruhezeit auf 10 Sekunden reduziert.
+Dinobotan: Bissschaden um 20% erhöht, Schluckzeit auf 8 Sekunden reduziert.
+Kugelqualle: Angriffe haben eine 15-prozentige Chance, eine rosa Qualle zu beschwören. Nach der Explosion der rosa Qualle besteht eine 50-prozentige Chance, den Zombie für 6 Sekunden zu verzaubern. Pygmäe: Angriff um 20% erhöht, Ruhezeit auf 10 Sekunden reduziert.
 
 [ANIMNUTS_NEW_SKILL_LEVEL3_DES]
-Dinobot: Bissschaden um weitere 20 % erhöht, Verschlingungszeit auf 4 Sekunden reduziert.
+Dinobot: Bissschaden um weitere 20% erhöht, Verschlingungszeit auf 4 Sekunden reduziert.
 Kugelförmig: Angriffe haben eine 30-prozentige Chance, eine rosa Qualle zu beschwören.
-Pygmäe: Angriff um 20 % erhöht, Ruhezeit auf 6 Sekunden reduziert.
+Pygmäe: Angriff um 20% erhöht, Ruhezeit auf 6 Sekunden reduziert.
 
 [ANIMNUTS_NEW_SKILL_LEVEL4_DES]
 Beim Einpflanzen besteht eine geringe Chance, einen ultimativen Angriff auszulösen.
@@ -54010,7 +54207,7 @@ Kugelförmig: Der Explosionsradius kleiner Quallen wurde auf einen Block erhöht
 
 [ANIMNUTS_PLANTFOOD_DESCRIPTION]
 Pflanzenfuchs: Brüllt und beschwört eine Welle von Dinosauriern, die Zombies in ihrem Weg Schaden zufügt.
-Avator: Feuert einen Laser auf den Zombie mit der höchsten Gesundheit auf dem Spielfeld ab und fügt ihm 25 Sekunden lang 20 % seiner maximalen Gesundheit pro Sekunde zu.
+Avator: Feuert einen Laser auf den Zombie mit der höchsten Gesundheit auf dem Spielfeld ab und fügt ihm 25 Sekunden lang 20% seiner maximalen Gesundheit pro Sekunde zu.
 Phantom: Erzeugt einen magischen Kreis auf dem Spielfeld, der 15 Sekunden lang bestehen bleibt. Neu erschaffene Zombies werden sofort in die Mitte des Kreises teleportiert.
 
 [ANIMNUTS_AVATAR_PLANTFOOD_DESCRIPTION]
@@ -54394,17 +54591,17 @@ B. Wundertüte-Geschenkpaket: Nach dem Kauf des Geschenkpakets erhalten Sie nach
 
 [CARNIVAL_DESCRIPTION_2]
 9. Jedes Geschenkpaket enthält Folgendes:
-A. Geschenkpaket „Bevorzugte Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–675 Juwelen. Mit einer Chance von 25 % auf 30 Pflanzenfragmente.
-B. Geschenkpaket „Orange Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–450 Juwelen. Mit einer Chance von 25 % auf 30 Pflanzenfragmente.
-C. Geschenkpaket „Lila Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–270 Juwelen. Mit einer Chance von 20 % auf 30 Pflanzenfragmente.
-D. Geschenkpaket „Gezielte Pflanzenfragmente“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Gezielte Pflanzenfragmente * 10^oldclr^ und 10–900 Juwelen. 15 % Chance auf Universalfragmente * 30;
-E, Geschenkpaket „Anhänger“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Raum-Zeit-Staub * 150^oldclr^ und 10–450 Juwelen. 30 % Chance auf Fragmente lila Handschuhe * 15;
-F, Geschenkpaket „Daves Geheimschatz-Gutschein“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Geheimschatz-Gutschein * 8^oldclr^ und 10–1500 Juwelen. 15 % Chance auf Geheimschatz-Gutschein * 22;
-G, Nährlösungs-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ orange Nährlösung * 10^oldclr^ und 10–450 Juwelen. 20 % Chance auf ein fortgeschrittenes Buch * 1;
-H, Juwelen-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Juwelen*300^oldclr^ und 10–450 Juwelen. 35 % Chance auf Juwelen*1000;
-I. Goldmünzen-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Goldmünzen*450000^oldclr^ und 10–450 Juwelen. 50 % Chance auf Goldmünzen*750000;
-J. Blitzangebot-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–1000 Juwelen. 25 % Chance auf Pflanzenfragmente*30;
-K. Artefaktmaterial-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Raum-Zeit-Energietank*20^oldclr^ und 10–180 Juwelen. 35 % Chance auf Raum-Zeit-Würfel*10;
+A. Geschenkpaket „Bevorzugte Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–675 Juwelen. Mit einer Chance von 25% auf 30 Pflanzenfragmente.
+B. Geschenkpaket „Orange Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–450 Juwelen. Mit einer Chance von 25% auf 30 Pflanzenfragmente.
+C. Geschenkpaket „Lila Pflanze“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–270 Juwelen. Mit einer Chance von 20% auf 30 Pflanzenfragmente.
+D. Geschenkpaket „Gezielte Pflanzenfragmente“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Gezielte Pflanzenfragmente * 10^oldclr^ und 10–900 Juwelen. 15% Chance auf Universalfragmente * 30;
+E, Geschenkpaket „Anhänger“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Raum-Zeit-Staub * 150^oldclr^ und 10–450 Juwelen. 30% Chance auf Fragmente lila Handschuhe * 15;
+F, Geschenkpaket „Daves Geheimschatz-Gutschein“: Kaufe das Geschenkpaket und erhalte ^FF0000^ Geheimschatz-Gutschein * 8^oldclr^ und 10–1500 Juwelen. 15% Chance auf Geheimschatz-Gutschein * 22;
+G, Nährlösungs-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ orange Nährlösung * 10^oldclr^ und 10–450 Juwelen. 20% Chance auf ein fortgeschrittenes Buch * 1;
+H, Juwelen-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Juwelen*300^oldclr^ und 10–450 Juwelen. 35% Chance auf Juwelen*1000;
+I. Goldmünzen-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Goldmünzen*450000^oldclr^ und 10–450 Juwelen. 50% Chance auf Goldmünzen*750000;
+J. Blitzangebot-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Pflanzenfragmente*10^oldclr^ und 10–1000 Juwelen. 25% Chance auf Pflanzenfragmente*30;
+K. Artefaktmaterial-Geschenkpaket: Kaufe das Geschenkpaket und erhalte ^FF0000^ Raum-Zeit-Energietank*20^oldclr^ und 10–180 Juwelen. 35% Chance auf Raum-Zeit-Würfel*10;
 
 [CARNIVAL]
 Karneval
@@ -55043,7 +55240,7 @@ Der Ableger macht 40% der ursprünglichen Pflanze aus. Gleichzeitig werden die A
 Genetisches Modell
 
 [PINECLONE_SKILL_LEVEL2_DES]
-Der Ableger macht 60% der ursprünglichen Pflanze aus; gleichzeitig werden die Angriffs- und Verteidigungswerte der vorübergehend transformierten Pflanze auf 60 % der Angriffs- und Verteidigungswerte der ursprünglichen Pflanze erhöht.
+Der Ableger macht 60% der ursprünglichen Pflanze aus; gleichzeitig werden die Angriffs- und Verteidigungswerte der vorübergehend transformierten Pflanze auf 60% der Angriffs- und Verteidigungswerte der ursprünglichen Pflanze erhöht.
 
 [PINECLONE_SKILL_LEVEL5]
 Genetische Neugestaltung
@@ -55540,7 +55737,7 @@ Ziehe das Sammelterminal auf das Spielfeld
 Ziehe den Erbsenschützen auf das Moosfeld
 
 [MOON1_TUTORIAL_PLANT_COSMOSS]
-Pflanze Kosmos-Moos um das Moosfeld herum, um ein Moosfeld zu erzeugen
+Pflanze Kosmoos um das Moosfeld herum, um ein Moosfeld zu erzeugen
 
 [MOON1_TUTORIAL_CAPACITY_BANK]
 In der oberen linken Ecke werden der aktuelle Stromverbrauch und die maximale Stromkapazität angezeigt
@@ -55583,6 +55780,108 @@ Oh mein Gott! Diese explodierenden Vasen sind nicht nur mit Zombies, sondern auc
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_PVZ1_HARD_DESCRIPTION_HEADER]
 Der Zombie, der dieses Belagerungsfahrzeug steuert, unterscheidet sich schon seit seiner Kindheit von anderen Zombies. Ihm fehlt das Verständnis für Humor und Ironie, und er ist es gewohnt, mit seinem außergewöhnlichen IQ anzugeben. Obwohl das von ihm modifizierte Belagerungsfahrzeug mehrere Vasen gleichzeitig werfen kann, sind aufgrund seiner geringen Popularität nur wenige Zombies bereit, in seine Vasen einzudringen, was ihn dazu zwingt, eine Menge Hühner hineinzustopfen.
+
+[COSMICMUSHROOM]
+Kosmischer Pilz
+
+[COSMICMUSHROOM_DESCRIPTION]
+{KEYWORD}Reichweite: {STAT}eine Reihe
+{KEYWORD}Pflanzenmerkmale: {STAT}violette Pflanze, Kosmos-Familie
+
+{FLAVOR}Er ist wirklich ziemlich abgehoben. So richtig abgehoben~~~~~.
+
+[COSMICMUSHROOM_DESCRIPTION_HEADER]
+Führt einen Kosmos-Sporenangriff aus; in der Mondbasis können Samenpakete für andere Pilzpflanzen beschworen werden
+
+[COSMICMUSHROOM_TOOLTIP]
+Führt einen Kosmos-Sporenangriff aus; in der Mondbasis können Samenpakete für andere Pilzpflanzen beschworen werden
+
+[COSMICMUSHROOM_PRODUCT_SHORT_DESC]
+Führt einen Kosmosporen-Angriff aus; in der Mondbasis können Samenpakete für andere Pilzpflanzen beschworen werden
+
+[COSMICMUSHROOM_SKILL_LEVEL1]
+Kosmische Vermehrung
+
+[COSMICMUSHROOM_SKILL_LEVEL1_DES]
+Das Intervall für die Erzeugung zufälliger Pilz-Samenpakete wird auf 28 Sekunden verkürzt; mit einer Wahrscheinlichkeit von 5% wird unmittelbar nach der Erzeugung eines Samenpakets ein weiteres erzeugt
+
+[COSMICMUSHROOM_SKILL_LEVEL2]
+Kosmische Ausdehnung
+
+[COSMICMUSHROOM_SKILL_LEVEL2_DES]
+Das Intervall für die Erzeugung zufälliger Pilz-Samenpakete wird auf 25 Sekunden verkürzt. Mit einer Wahrscheinlichkeit von 10% wird unmittelbar nach der Erzeugung eines Samenpakets ein weiteres erzeugt.
+
+[COSMICMUSHROOM_SKILL_LEVEL5]
+Pilz-Wurmloch
+
+[COSMICMUSHROOM_SKILL_LEVEL5_DES]
+Bei einem Angriff wird mit einer bestimmten Wahrscheinlichkeit ein „Q-Ball-Pilz-Wurmloch“ ausgelöst, das nacheinander vier Felder vor dir öffnet. Aus diesen Löchern ragen Pilze aus anderen Welten hervor, die Zombies aufstoßen und Schaden verursachen. Je nach Art des erscheinenden Pilzes werden unterschiedliche Effekte ausgelöst.
+
+[COSMICMUSHROOM_AVATAR_NAME]
+Kosmischer Pilz-Skin
+
+[STORE_PRODUCT_AVATAR_COSMICMUSHROOM]
+Die maximale Anzahl an Pflanzen, die in der Reihe der kosmischen Pflanzen, zu der die Pflanze gehört, weiterentwickelt werden können, wird auf 5 erhöht.
+
+[STORE_PRODUCT_AVATAR_COSMICMUSHROOM_TITLE]
+Kosmischer Pilz-Look
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL1_DES]
+Angriffe verursachen Schaden mit dem Attribut „Kosmos“, wenden den Effekt „Vernichtung“ auf Zombies an, um deren Tod zu verhindern, und versehen Zombies mit Sternmarkierungen. Wenn 5 Sternmarkierungen gesammelt wurden, wird eine Explosion mit prozentualem Schaden ausgelöst. Alle 30 Sekunden wird ein Samenpaket für Pilzpflanzen erzeugt.
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL2_DES]
+Das Intervall für die Erzeugung zufälliger Pilz-Samenpakete wird auf 28 Sekunden verkürzt; mit einer Wahrscheinlichkeit von 5% wird unmittelbar nach der Erzeugung eines Samenpakets ein weiteres erzeugt.
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL3_DES]
+Das Intervall für die Erzeugung zufälliger Pilzpflanzensamenpakete wird auf 25 Sekunden verkürzt; mit einer Wahrscheinlichkeit von 10% wird unmittelbar nach der Erzeugung eines Samenpakets ein weiteres erzeugt.
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL4_DES]
+Beim Pflanzen besteht eine mittlere Wahrscheinlichkeit, dass sich die Pflanze sofort um eine Form weiterentwickelt.
+
+[COSMICMUSHROOM_NEW_SKILL_LEVEL5_DES]
+Bei einem Angriff wird mit einer bestimmten Wahrscheinlichkeit ein „Q-Kugel-Pilz-Wurmloch“ ausgelöst, das nacheinander vier Felder vor dem Charakter Wurmloch öffnet. Aus diesen Löchern ragen Pilze aus anderen Welten hervor, die die Zombies aufstoßen und Schaden verursachen. Je nach Art der erscheinenden Pilze werden unterschiedliche Effekte ausgelöst.
+
+[COSMICMUSHROOM_PLANTFOOD_DESCRIPTION]
+Bis zu drei Kosmische Pilze in der jeweiligen Reihe entwickeln sich zum Kosmischen Pilz der nächsten Stufe weiter. Bei Erreichen der höchsten Stufe werden beim Einsatz der Spezialfähigkeit zahlreiche Kosmische Pilz-Geschosse abgefeuert.
+
+[COSMICMUSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Die maximale Anzahl an Kosmischen Pilzen, die sich in der Reihe der Pflanze weiterentwickeln können, wird auf 5 erhöht.
+
+[COSMOSS]
+Kosmoos
+
+[COSMOSS_DESCRIPTION]
+{KEYWORD}Verwendung: {STAT} Kann auf Mondlandschaften angebaut werden
+{KEYWORD}Pflanzenmerkmale: {STAT} Kleinwüchsige, grüne Pflanze
+
+{FLAVOR}Er ist der größte Fan von Mao Wang · Pu Caosli.
+
+[COSMOSS_DESCRIPTION_HEADER]
+Das Kosmoos kann auf Mondgelände Pflanzen tragen.
+
+[COSMOSS_TOOLTIP]
+Das Kosmoos ermöglicht es, gewöhnliche Pflanzen auf dem Mond anzupflanzen
+
+[COSMOSS_NEW_SKILL_LEVEL1_DES]
+Mit dem Kosmoos können gewöhnliche Pflanzen auf dem Mond wachsen
+
+[BONUS_CARD_PIECE_COSMOSS]
+Kosmoos-Fragment
+
+[BONUS_CARD_PIECE_COSMOSS_DESCRIPTION]
+Erhalte ein Kosmoos-Fragment
+
+[STORE_PRODUCT_AVATAR_COSMOSS_TITLE]
+Kosmoos-Outfit
+
+[COSMOSS_AVATAR_NAME]
+Kosmoos-Outfit
+
+[COSMOSS_AVATAR_PLANTFOOD_DESCRIPTION]
+Keine
+
+[STORE_PRODUCT_AVATAR_COSMOSS]
+Keine.
 
 [ZOMBIE_ZOMBIE_JALAPENO]
 Jalapeño-Zombie
@@ -55774,7 +56073,7 @@ Pflanzenangriffskraft um 10% erhöht
 Fächerherzblatt-Orchideen-Weihnachtskostüm
 
 [NEW_AVATAR_DESCRIPTION_HOYACORDATA_1]
-Pflanzenabklingzeit um 20 % reduziert.
+Pflanzenabklingzeit um 20% reduziert.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LEMON_1]
 Weihnachtskleid mit Zitronensäure
@@ -55936,13 +56235,13 @@ Kastanien-Kindertagskostüm
 Kindertags-Cappy
 
 [NEW_AVATAR_DESCRIPTION_CITRON]
-Erhöht die Angriffskraft um 10 %
+Erhöht die Angriffskraft um 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_2]
 Phantomdieb
 
 [NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_2]
-Erhöht die Angriffskraft um 20 %
+Erhöht die Angriffskraft um 20%
 
 [NEW_AVATAR_DESCRIPTION_GREENTURNIP_1]
 Angriffsgeschwindigkeit um 15% erhöht
@@ -56023,7 +56322,7 @@ Nu Wa-Party-Support-Kostüm
 Nuwa Schlangenschwanz-Graskranz-Outfit
 
 [NEW_AVATAR_DESCRIPTION_EYWA_2]
-Erhöht die Angriffsgeschwindigkeit von Pflanzenfiguren um 10 %.
+Erhöht die Angriffsgeschwindigkeit von Pflanzenfiguren um 10%.
 
 [NEW_AVATAR_DESCRIPTION_EYWA_1]
 Pflanzen-Abklingzeit um 20% reduziert
@@ -56098,7 +56397,7 @@ Abklingzeit beim Pflanzen um 20% reduziert
 Wallnuss-Badeanzug
 
 [NEW_AVATAR_DESCRIPTION_ELAEOCARPUS_2]
-Die Abklingzeit der Pflanze wurde um 10 % reduziert.
+Die Abklingzeit der Pflanze wurde um 10% reduziert.
 
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_1]
 Pflanzengesundheit um 15% erhöht
@@ -56794,7 +57093,7 @@ Allgemeiner Angriffs-Badminton wird erneut ausgeschlossen.
 Geburtstags Kuchen
 
 [NEW_AVATAR_DESCRIPTION_HOMINGTHISTLE_2]
-Erhöht den Angriffsschaden um 10 %
+Erhöht den Angriffsschaden um 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOMINGTHISTLE_1]
 Guide-Distel Juni 1. Outfit
@@ -56851,7 +57150,7 @@ Zwillingskaninchen-Wachstumsgeschenkkostüm
 Maulbeeren Lava Super Kostüm
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_4]
-Erhöht die Angriffsgeschwindigkeit um 30 %
+Erhöht die Angriffsgeschwindigkeit um 30%
 
 [NEW_AVATAR_DESCRIPTION_JEWELRABBIT_1]
 Pflanzen-Abklingzeit um 10% reduziert
@@ -56959,7 +57258,7 @@ Weihnachtsoutfit „Truthahn-Katapult“
 Sci-Fi-Mech-Outfit
 
 [NEW_AVATAR_DESCRIPTION_MANGOSTEEN_4]
-Erhöht Blitzschaden um 25 %
+Erhöht Blitzschaden um 25%
 
 [NEW_AVATAR_DESCRIPTION_TURKEYPULT_1]
 Angriffsgeschwindigkeit um 10% erhöht
@@ -62597,10 +62896,10 @@ Wenn der Goldmagnet zum ersten Mal Münzen oder Rüstung absorbiert, erzeugt er 
 Saugt die Metallrüstung des nächstgelegenen Zombie's im Wirkungsbereich an. Nach dem Ansaugen dauert die Zerstörung 13 Sekunden; während dieser Zeit ist keine Bewegung möglich. Alle 2 Sekunden werden automatisch auf dem Bildschirm liegende Silber- und Goldmünzen angezogen und eingesammelt. Beim Absorbieren von Kopf-Rüstungen besteht eine Wahrscheinlichkeit von 5%, dass der Zombie-Kopf direkt mit abgesaugt wird. Beim Absorbieren von Hand-Rüstungen besteht eine Wahrscheinlichkeit von 10%, dass dem Zombie die Hand abgetrennt wird.
 
 [GOLDMAGNET_NEW_SKILL_LEVEL2_DES]
-Die Zersetzungszeit nach dem Absorbieren wird von 13 Sekunden auf 10 Sekunden verkürzt, die Wahrscheinlichkeit, dass normale Angriffe „Kopf mit absaugen/Hand abtrennen“ auslösen, wird um 5 % erhöht.
+Die Zersetzungszeit nach dem Absorbieren wird von 13 Sekunden auf 10 Sekunden verkürzt, die Wahrscheinlichkeit, dass normale Angriffe „Kopf mit absaugen/Hand abtrennen“ auslösen, wird um 5% erhöht.
 
 [GOLDMAGNET_NEW_SKILL_LEVEL3_DES]
-Die Zersetzungszeit nach dem Absorbieren wird von 10 Sekunden auf 6 Sekunden verkürzt, die Wahrscheinlichkeit, dass normale Angriffe „Kopf mit absaugen/Hand abtrennen“ auslösen, wird um 5 % erhöht.
+Die Zersetzungszeit nach dem Absorbieren wird von 10 Sekunden auf 6 Sekunden verkürzt, die Wahrscheinlichkeit, dass normale Angriffe „Kopf mit absaugen/Hand abtrennen“ auslösen, wird um 5% erhöht.
 
 [GOLDMAGNET_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine hohe Wahrscheinlichkeit, dass die Spezialfähigkeit sofort ausgelöst wird.
@@ -71027,7 +71326,7 @@ Priorität beim Kauf von Originalen Sonnenblume Nr. 42 am ersten Tag
 Priorität beim Kauf der originalen Erbsenkanone Nr. 42 am ersten Tag
 
 [NO42_LEVEL_NAME_05]
-Das Wegschaufeln der Pflanzen kann 999 % des Sonnenlichts zurückgeben.
+Das Wegschaufeln der Pflanzen kann 999% des Sonnenlichts zurückgeben.
 
 [NO42_LEVEL_NAME_06]
 Der Typ „Schnurrbart“ verändert die Zombies enorm.
@@ -73608,25 +73907,25 @@ Super-Glückspaket
 1.–50. Platz: Juwel × {NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_1]
-Jede Person im Rangbereich kann ^08FF20^0,5 %^oldclr^ des gesamten Preispools erhalten (mindestens 200 Ziehungen).
+Jede Person im Rangbereich kann ^08FF20^0,5%^oldclr^ des gesamten Preispools erhalten (mindestens 200 Ziehungen).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_2]
 51.–150.: Juwel × {NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_2]
-Jede Person im Ranking kann ^08FF20^0,25 %^oldclr^ des gesamten Preispools erhalten (mindestens 160 Ziehungen).
+Jede Person im Ranking kann ^08FF20^0,25%^oldclr^ des gesamten Preispools erhalten (mindestens 160 Ziehungen).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_3]
 151.–300.: Juwel × {NUM }
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_3]
-Jede Person im Ranking kann ^08FF20^0,2 %^oldclr^ des gesamten Preispools erhalten (mindestens 120 Ziehungen).
+Jede Person im Ranking kann ^08FF20^0,2%^oldclr^ des gesamten Preispools erhalten (mindestens 120 Ziehungen).
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_4]
 301.–500. Platz: Juwel × {NUM}
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_4]
-Name: Jeder Spieler kann innerhalb dieses Zeitraums (mindestens 80 Ziehungen) ^08FF20^0,1 %^oldclr^ des gesamten Preispools erhalten.
+Name: Jeder Spieler kann innerhalb dieses Zeitraums (mindestens 80 Ziehungen) ^08FF20^0,1%^oldclr^ des gesamten Preispools erhalten.
 
 [CORNUCOPIA_GIFT_REWARD_ADD_UP_ANDROID]
 Die Rangfolge richtet sich nach der Anzahl der Ziehungen. Je höher die Rangfolge, desto mehr Preisgeld wird aufgeteilt.
@@ -76094,6 +76393,601 @@ Die Pustepilze versammeln sich. Wenn die Pustepilze ihre Spezialdünger-Fähigke
 [HYPNOSHROOM_NEW_SKILL_LEVEL1_DES]
 Der Hypnopilz enthält ein spezielles Gift für Zombies. Zombies, die ihn fressen, werden ^ff4284^Zauber I^oldclr^ und wenden sich dem Kampf zu.
 
+[UNCHARTED_ICEAGE_ID_25390]
+Ein Latte, bitte
+
+[UNCHARTED_ICEAGE_HEAD_DES_ID_25390]
+Der Winter passt einfach besser zu einem Latte
+
+[UNCHARTED_ICEAGE_ID_25391]
+Der Latte ist umgekippt
+
+[UNCHARTED_ICEAGE_HEAD_DES_ID_25391]
+Vorsicht, bitte vorsichtig behandeln
+
+[UNCHARTED_CHRISTMAS_202512_ID_25391]
+Der Latte ist umgekippt
+
+[UNCHARTED_CHRISTMAS_202512_HEAD_DES_ID_25391]
+Vorsicht, vorsichtig behandeln
+
+[UNCHARTED_TALE_ID_10000]
+Eroberer des Märchenreichs
+
+[UNCHARTED_TALE_HEAD_DES_ID_10000]
+Nachweis für den perfekten Durchlauf des Märchenreichs
+
+[UNCHARTED_NO42_HEAD_ID_10000]
+Eroberer des Paralleluniversums
+
+[UNCHARTED_NO42_HEAD_DES_ID_10000]
+Nachweis für den perfekten Durchlauf des Paralleluniversums Nr. 42
+
+[UNCHARTED_NO42_HEAD_ID_10001]
+Aba Aba
+
+[UNCHARTED_NO42_HEAD_DES_ID_10001]
+Nachweis für den perfekten Durchlauf des Paralleluniversums Nr. 41
+
+[UNCHARTED_CHILDRENSDAY_HEAD_ID_25709]
+Ich bin der Grosse
+
+[UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25709]
+Nachweis für den perfekten Durchlauf des zeitlich begrenzten Geheimdungeons zum Kindertag
+
+[UNCHARTED_CHILDRENSDAY_HEAD_ID_25899]
+Geschmeidig wie ein Drache
+
+[UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25899]
+Nachweis für den perfekten Durchlauf des zeitlich begrenzten Dungeons zum Kindertag
+
+[UNCHARTED_ZCORP_ID_25758]
+Eroberer der Z-Corp
+
+[UNCHARTED_ZCORP_HEAD_DES_ID_25758]
+Nachweis für den perfekten Durchlauf des Z-Corp-Geheimdungeons
+
+[UNCHARTED_HALLOWEEN_ID_25776]
+Bezwinger des Halloween-Geheimdungeons
+
+[UNCHARTED_HALLOWEEN_HEAD_DES_ID_25776]
+Nachweis für den perfekten Durchlauf des Halloween-Geheimdungeons
+
+[UNCHARTED_CHRISTMAS_ID_25791]
+Bezwinger der Weihnachtsruine
+
+[UNCHARTED_CHRISTMAS_HEAD_DES_ID_25791]
+Nachweis für den perfekten Durchlauf der Weihnachtsruine
+
+[UNCHARTED_MAUSOLEUM_ID_25809]
+Bezwinger des Mausoleums
+
+[UNCHARTED_MAUSOLEUM_DES_ID_25809]
+Nachweis für den perfekten Durchlauf der Mausoleumsruinen
+
+[UNCHARTED_MAUSOLEUM_ID_25868]
+Umweg durch das Mausoleum
+
+[UNCHARTED_MAUSOLEUM_DES_ID_25868]
+Nachweis für den perfekten Durchlauf der Schatzsuche im Mausoleum
+
+[UNCHARTED_NO42_HEAD_DES_ID_10001]
+Nachweis für den perfekten Durchlauf des Paralleluniversums Nr. 41
+
+[ANNIVERSARY_10TH_HEAD_ID_25388]
+Ein richtiges Festmahl
+
+[ANNIVERSARY_10TH_HEAD_DES_ID_25388]
+Viel reden bringt nichts – lass uns erst mal essen
+
+[PVZ2_UNCHARTED_NO42_UNIVERSE_HARD_LEVEL_MAIN_GOAL_DESC]
+Sammle Sonnenlicht, pflanze Pflanzen und wehre den Ansturm der Zombies ab. Schliesse die Herausforderung ab, um ein exklusives Profilbild zu erhalten.
+
+[PVZ2_UNCHARTED_SPECIAL_LEVEL_MAIN_GOAL_DESC]
+Wische nach oben oder unten, um Hindernissen auszuweichen, überlebe und sammle Punkte, um zu gewinnen.
+
+[PVZ2_UNCHARTED_NO42_ENDLESS_RECORD_DESC]
+Bestmarke: {NUMS} / 100
+
+[MAT_NO42_UNIVERSE_NORMAL_COIN]
+Normale Münze
+
+[MAT_NO42_UNIVERSE_HARD_COIN]
+Schwierige Münze
+
+[MAT_NO42_UNIVERSE_BASIC_SUN1]
+Verstärkte Sonne
+
+[MAT_NO42_UNIVERSE_BASIC_SUN2]
+Verstärkte Sonne
+
+[PVZ2_UNCHARTED_CHALLENGE_TITLE]
+Herausforderungsziel
+
+[PVZ2_UNCHARTED_LEVELPASS_TITLE]
+Level-Abschluss-Abzeichen
+
+[PVZ2_UNCHARTED_ZOMBIE_TITLE]
+Zombie-Vorschau
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow~! Eine ganz neue Welt!! Ist das … das Mausoleum des Ersten Kaisers von Qin …!? Gibt’s hier Maistortillas?
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_2]
+{SAY:WINNIE}Hey Dave, zu dieser Zeit bauten die Menschen noch keinen Mais an.
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_3]
+{EXCITED:CRAZYDAVE}Tortillas!!!
+
+
+[NARRATIVE_MAUSOLEUM_2_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Welche Geheimnisse verbergen wohl diese seltsamen Stollen?
+
+[NARRATIVE_MAUSOLEUM_2_INTRO_2]
+{EXCITED:CRAZYDAVE}Das sieht überhaupt nicht nach einem Transportband für Maistortillas aus
+
+
+[NARRATIVE_MAUSOLEUM_3_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Die Stollen sind also eine Art Strasse, die nur von bestimmten Zombies benutzt wird. Ich bin gespannt, welche seltsamen Zombies wir weiter hinten noch antreffen werden!!
+
+
+[NARRATIVE_MAUSOLEUM_5_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Es wurden einige Zombies entdeckt, die Fernkampfwaffen bei sich tragen.
+
+[NARRATIVE_MAUSOLEUM_5_INTRO_2]
+{SAY:WINNIE} Mit dem Karotten-Raketenwagen kann man die Zombies vorne überbrücken und die hinteren direkt angreifen.
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_2]
+{SAY:WINNIE} Das sind die Terrakotta-Krieger – ein Wunderwerk einer glorreichen antiken Zivilisation.
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_3]
+{SAY:WINNIE} Vorsicht, auf dem Ton wurden Spuren von Magie entdeckt.
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_4]
+{EXCITED:CRAZYDAVE} Magische Tortillas?
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_5]
+{SAY:WINNIE} Die magische Ranke wird gegen die Terrakotta-Armee Wunder wirken
+
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE} Ich spüre, wie eine mächtige Kraft erwacht.
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_2]
+{EXCITED:CRAZYDAVE} Keine Sorge, mein Super-Maschinengewehr aus Erbsen ist unbesiegbar!
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_3]
+{SAY:WINNIE}…………
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_4]
+{EXCITED:CRAZYDAVE} Ist es noch nicht zu spät, um wegzulaufen?
+
+[PVZ2_MAUSOLEUM_MODE_SHOP_BUY_NORMAL_CONFIRM]
+Möchtest du {NUMS} Kupfermünzen ausgeben, um dies zu kaufen?
+
+[PVZ2_MAUSOLEUM_MODE_SHOP_BUY_HARD_CONFIRM]
+Möchtest du {NUMS} Jadesteine ausgeben, um dies zu kaufen?
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT1]
+1. Freischaltbedingungen
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT2]
+Die normalen Level werden alle freigeschaltet, sobald das Geheimnis freigeschaltet ist; der Schwierigkeitsgrad «Schwer» wird freigeschaltet, sobald alle normalen Level abgeschlossen sind.
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT3]
+2. Level-Inhalt
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT4]
+Sowohl in den normalen als auch in den schwierigen Levels beträgt die Zombie-Stufe 1; die schwierigen Levels weisen jedoch spezielle Mechanismen auf!
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT5]
+3. Missionsbeschreibung
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT6]
+Nach dem ersten Durchspielen eines Levels erhältst du eine Belohnung.
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT7]
+4. Missionsbelohnungen
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT8]
+Die Belohnung für den ersten Durchlauf eines Levels kann nicht wiederholt erhalten werden. Die Pflanze, die als Belohnung für den ersten Durchlauf vergeben wird, ist eine «Geheimnis-Pflanze» und kann nur in diesem Geheimnis-Level verwendet werden.
+
+[TIMESPACE_MAUSOLEUM_MODE_HARD_LOCKED_CLICKED_HINT]
+Der Hard-Modus wird freigeschaltet, sobald alle Level im Normalmodus abgeschlossen sind.
+
+[TIMESPACE_MAUSOLEUM_2_MODE_HARD_LOCKED_CLICKED_HINT]
+Der Hard-Modus wird freigeschaltet, sobald alle Level im Normalmodus abgeschlossen sind (gültig ab dem 2. Mai).
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM]
+1. Im «Uncharted»-Modus warten verschiedene neue Welten und neue Zombies darauf, von dir entdeckt zu werden. Jede Welt verfügt über Level im Normal- und im Schwer-Modus.
+2. Für Level im Normal- und im Schwer-Modus gibt es nur eine Belohnung für den ersten Durchlauf. Diese Belohnung erhältst du beim ersten erfolgreichen Abschluss des Levels und kann nicht erneut beansprucht werden.
+3. Die Level im schweren Modus werden freigeschaltet, sobald alle Level im normalen Modus abgeschlossen sind.
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM_2]
+1. Im «Uncharted»-Modus warten verschiedene neue Welten und neue Zombies darauf, von dir entdeckt zu werden. Jede Welt enthält Level im normalen und im schweren Modus.
+2. Sowohl im Normal- als auch im Schwierigkeitsmodus gibt es nur Erstdurchlauf-Belohnungen. Diese Belohnungen erhältst du beim ersten Durchspielen und kannst sie nicht erneut einlösen.
+3. Die Level im Schwierigkeitsmodus werden freigeschaltet, sobald alle Level im Normalmodus abgeschlossen sind.
+
+[PVZ2_UNCHARTED_MAUSOLEUM_TIPS_DESC_UNCHARTED]
+1. In den «Zeit-Raum-Geheimnissen» warten verschiedene neue Welten und neue Zombies darauf, von dir entdeckt zu werden. Jede Welt verfügt über Level im Normal- und im Schwierigkeitsmodus.
+2. Level im Normal- und im Schwierigkeitsmodus bieten jeweils eine Erstdurchlauf-Belohnung und eine normale Abschlussbelohnung. Die Erstdurchlauf-Belohnung erhältst du beim ersten Durchspielen und kann nicht erneut beansprucht werden.
+3. Sobald du alle Level im Normalmodus abgeschlossen hast, werden die Level im Schwierigkeitsmodus freigeschaltet.
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC]
+1. In den «Zeit-Raum-Geheimwelten» warten verschiedene neue Welten und neue Zombies darauf, von dir entdeckt zu werden. Jede Welt verfügt über Level im Normal- und im Schwierigkeitsmodus.
+2. Die Level im Normal- und im Schwierigkeitsmodus bieten jeweils eine Belohnung für den ersten Durchlauf sowie eine Belohnung für den normalen Abschluss. Die Belohnung für den ersten Durchlauf erhältst du beim ersten Durchspielen und kann nicht erneut beansprucht werden.
+3. Sobald alle Level im Normalmodus abgeschlossen sind, werden die Level im Schwierigkeitsmodus freigeschaltet.
+4. Die Level im Schwierigkeitsmodus müssen mit Zeit-Raum-Schlüsseln freigeschaltet werden.
+5. Im Schwierigkeitsmodus gibt es zusätzliche Herausforderungen. Wenn du diese erfüllst, erhältst du ein exklusives Abzeichen für dieses Kapitel des «Zeit-Raum-Reiches». Das Nichterfüllen dieser Herausforderungen hat keinen Einfluss auf den normalen Abschluss des Levels.
+6. Sobald du eine bestimmte Anzahl exklusiver Abzeichen gesammelt hast, kannst du zusätzliche Belohnungen erhalten.
+
+[MAUSOLEUMHARD_HOWTOPLAY_1_DESCRIPTION]
+Im Hard-Modus gelten Pflanzen als «gefallen», wenn sie gefressen oder zerstört werden (mit Ausnahme von Heuhaufen).
+
+[MAUSOLEUMHARD_HOWTOPLAY_2_DESCRIPTION]
+Pflanzen, die im Level gefallen sind, können nicht erneut gepflanzt werden.
+
+[MAUSOLEUMHARD_HOWTOPLAY_3_DESCRIPTION]
+«Gefallene» Pflanzen können im Kartenauswahlmenü nicht ausgewählt werden und werden mit dem Hinweis «Gefallen» angezeigt.
+
+[MAUSOLEUMHARD_HOWTOPLAY_4_DESCRIPTION]
+Einmalige Pflanzen gelten nach ihrer Zerstörung nicht als «gefallen», sondern verlängern die Abklingzeit im aktuellen Hard-Modus.
+
+[MAUSOLEUMHARD_HOWTOPLAY_5_DESCRIPTION]
+Das Entfernen von Pflanzen mit der Schaufel führt nicht dazu, dass sie als «gefallen» gelten, allerdings ist die Anzahl der Einsätze der Schaufel begrenzt
+
+[MAUSOLEUMHARD_HOWTOPLAY_6_DESCRIPTION]
+Nach einem Fehlschlag im Hard-Modus wird das Level zurückgesetzt, alle Pflanzen werden wiederbelebt und der Spieler beginnt erneut beim ersten Level des Hard-Modus
+
+[MAUSOLEUMHARD_HOWTOPLAY_7_DESCRIPTION]
+In diesem Geheimnismodus können zwei Pflanzen der zweiten Generation eingesetzt werden; in jedem Spielstand des Hard-Modes können nur die beiden zuvor ausgewählten Pflanzen der zweiten Generation verwendet werden.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_1_DESCRIPTION]
+Im Endlosmodus können die Spieler die Spezialattacke «Energiebohne» nicht einsetzen.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_2_DESCRIPTION]
+Jedes Mal, wenn eine im Shop gekaufte violette Pflanze auf dem Spielfeld gesetzt wird, erhöht sich ihr Sonnenverbrauchswert um 50 Punkte.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_3_DESCRIPTION]
+Nach jeweils 9 abgeschlossenen Levels ist das 10. Level ein Boss-Level, dessen Boss der Herr des Mausoleums ist.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_4_DESCRIPTION]
+Nach Abschluss eines Levels werden die Aufstellung, die Sonnenenergie und die ausgewählten Karten aus dem vorherigen Level übernommen. Die Kartenplätze können im Kartenauswahl-Menü geändert werden.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_5_DESCRIPTION]
+Der Spieler kann den Endlosmodus vorübergehend verlassen. Beim erneuten Betreten wird der gespeicherte Fortschritt geladen und das Spiel an dieser Stelle fortgesetzt.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_6_DESCRIPTION]
+Nach einem gescheiterten Versuch oder beim Verlassen des Spiels nach der Auswertung erhält der Spieler eine bestimmte Menge an Kupfermünzen und Jadesteinen als Belohnung.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_7_DESCRIPTION]
+In diesem geheimen Bereich können zwei Pflanzen der zweiten Generation verwendet werden. Bei jedem Speichervorgang im Endlosmodus können nur die zuvor ausgewählten zwei Pflanzen der zweiten Generation verwendet werden.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_8_DESCRIPTION]
+Nach jeweils 9 abgeschlossenen Leveln ist das 10. Level ein Boss-Level. Der Boss ist der Herrscher des Unterwelt-Mausoleums.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_9_DESCRIPTION]
+Nach einem gescheiterten Versuch oder beim Verlassen des Spiels nach Abschluss des Levels erhält der Spieler eine bestimmte Menge an Kupfermünzen und Seelensteinen als Belohnung
+
+[MAT_MAUSOLEUM_NORMAL_COIN]
+Kupfermünze
+
+[MAT_MAUSOLEUM_HARD_COIN]
+Jadestein
+
+[MAT_MAUSOLEUM_2_HARD_COIN]
+Seelenstein
+
+[MAT_MAUSOLEUM_BASIC_SUN1]
+Anfängliche Sonne I
+
+[MAT_MAUSOLEUM_BASIC_SUN2]
+Anfängliche Sonne II
+
+[MAT_MAUSOLEUM_BASIC_SUN3]
+Anfängliche Sonne III
+
+[MAT_MAUSOLEUM_POWERUP1]
+Anfängliche Energiebohne I
+
+[MAT_MAUSOLEUM_POWERUP2]
+Anfangs-Energiekorn II
+
+[MAT_MAUSOLEUM_ATK1]
+Angriffskraftsteigerung I
+
+[MAT_MAUSOLEUM_ATK2]
+Angriffskraftsteigerung II
+
+[MAT_MAUSOLEUM_ATK3]
+Angriffskraftsteigerung III
+
+[MAT_MAUSOLEUM_HEAL1]
+Lebensregeneration I
+
+[MAT_MAUSOLEUM_HEAL2]
+Lebensregeneration II
+
+[MAT_MAUSOLEUM_HEAL3]
+Lebensregeneration III
+
+[MAT_MAUSOLEUM_COOLDOWN1]
+Abkühlzeit beim Pflanzen verkürzt I
+
+[MAT_MAUSOLEUM_COOLDOWN2]
+Abkühlzeit beim Pflanzen verkürzt II
+
+[MAT_MAUSOLEUM_COOLDOWN3]
+Abkühlzeit beim Pflanzen verkürzt III
+
+[MAT_UNCHARTED_PERK_GATLINGPEA_1]
+Verbesserung der Gatling-Erbse I
+
+[ADVICE_SEED_REFRESH_MAUSOLEUM]
+Die Pflanze ist eingegangen
+
+[EXIT_DANGER_ROOM_HEADER_MAUSOLEUM]
+Abrechnung
+
+[EXIT_DANGER_ROOM_BODY_MAUSOLEUM]
+Möchtest du diese Endlose Herausforderung abrechnen?
+
+[MAUSOLEUM_TASKDESCRIPTION]
+Schliesse Level {NUMBER} im Endlosmodus ab  
+
+[MAUSOLEUM_TASKDESCRIPTION_TITLE]
+Endlos-Herausforderung
+
+[UIUNCHARTEDENTRY_LOCK_UNCHARTED_MAUSOLEUM_2_DESCRIPTION]
+Freischaltbedingung: Alle normalen Level von Kapitel 1 des Mausoleums-Geheimnisreichs abschliessen
+
+[PVZ1MAUSOLEUM_HARDMODE_SELECT_PLANT_TIPS]
+In diesem Abenteuer kannst du nur zwei Pflanzen der 2. Generation auswählen. Im Hard- und Endlosmodus kannst du nur die beiden Pflanzen der 2. Generation verwenden, die du zu Beginn jedes Spielstands ausgewählt hast. Die Auswahl kann nach der Festlegung nicht mehr geändert werden!
+Im oberen Bereich der Auswahl befinden sich die Pflanzen der 1. Generation, im unteren Bereich die Pflanzen der 2. Generation.
+
+[ZOMBIE_NAME_BUBBLEMACHINEIMP]
+Seifenblasen-Zombie
+
+[ZOMBIE_DESC_BUBBLEMACHINEIMP]
+Elite-Zombie, der in der 8. Spalte schweben und Seifenblasen abfeuern kann, um Pflanzen einzuhüllen, und ausserdem Süssigkeiten werfen kann, um die Zombies auf dem Spielfeld zu verstärken.
+
+[MAT_UNCHARTED_PERK_GATLINGPEA_2]
+Verbesserung der Gatling-Erbse II
+
+[ANNIVERSARY_2026_1_ZOMBIE_MODIFIER_DESCRIPTION]
+Der Schaden, den der Pharao-Zombie durch Pflanzen erleidet, wird um 20 % verringert
+
+[ANNIVERSARY_2026_2_ZOMBIE_MODIFIER]
+Die Möwen-Zombies werden schneller
+
+[ANNIVERSARY_2026_2_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit der Möwen-Zombies wird um 50 % erhöht
+
+[ANNIVERSARY_2026_3_ZOMBIE_MODIFIER]
+Der Schlaue Zombie wird schneller
+
+[ANNIVERSARY_2026_3_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit des Schlauen Zombies wird um 50 % erhöht
+
+[ANNIVERSARY_2026_4_ZOMBIE_MODIFIER]
+Beschleunigung des «Ritter-Bronzemanns»
+
+[ANNIVERSARY_2026_4_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit des «Ritter-Bronzemanns» wird um 50 % erhöht
+
+[ANNIVERSARY_2026_5_ZOMBIE_MODIFIER]
+Schadensreduktion für Mech-Barrikaden-Zombies
+
+[ANNIVERSARY_2026_5_ZOMBIE_MODIFIER_DESCRIPTION]
+Der von Mech-Barrikaden-Zombies erlittene Schaden durch Pflanzen wird um 20 % reduziert
+
+[ANNIVERSARY_2026_6_ZOMBIE_MODIFIER]
+Schadensreduktion für den Grossmagier-Zombie
+
+[ANNIVERSARY_2026_6_ZOMBIE_MODIFIER_DESCRIPTION]
+Der durch Pflanzen verursachte Schaden am Grossmagier-Zombie wird um 20 % reduziert
+
+[ANNIVERSARY_2026_7_ZOMBIE_MODIFIER]
+Schadensreduktion für den Kraken-Zombie
+
+[ANNIVERSARY_2026_7_ZOMBIE_MODIFIER_DESCRIPTION]
+Der von Pflanzen verursachte Schaden an Tintenfisch-Zombies wird um 20 % verringert
+
+[ANNIVERSARY_2026_8_ZOMBIE_MODIFIER]
+Schadenreduktion für den Glacier-Häuptling-Zombie
+
+[ANNIVERSARY_2026_8_ZOMBIE_MODIFIER_DESCRIPTION]
+Der Schaden, den der Glacier-Häuptling-Zombie durch Pflanzen erleidet, wird um 20 % reduziert
+
+[ANNIVERSARY_2026_9_ZOMBIE_MODIFIER]
+Beschleunigung des Doppeldecker-Zombies
+
+[ANNIVERSARY_2026_9_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit des Doppeldecker-Zombies wird um 50 % erhöht
+
+[ANNIVERSARY_2026_10_ZOMBIE_MODIFIER]
+Beschleunigung des «Träger-Zombies»
+
+[ANNIVERSARY_2026_10_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit des «Träger-Zombies» wird um 50 % erhöht
+
+[ANNIVERSARY_2026_11_ZOMBIE_MODIFIER]
+Schadensreduktion für Arcade-Zombies
+
+[ANNIVERSARY_2026_11_ZOMBIE_MODIFIER_DESCRIPTION]
+Der von Pflanzen verursachte Schaden an Arcade-Zombies wird um 20 % reduziert
+
+[ANNIVERSARY_2026_12_ZOMBIE_MODIFIER]
+Beschleunigung des Dinosaurier-Dompteurs
+
+[ANNIVERSARY_2026_12_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit der Zombies des Dinosaurier-Dompteurs wird um 50 % erhöht
+
+[ANNIVERSARY_2026_13_ZOMBIE_MODIFIER]
+All-Star-Zombie-Beschleunigung
+
+[ANNIVERSARY_2026_13_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit des All-Star-Zombies wird um 50 % erhöht
+
+[ANNIVERSARY_2026_14_ZOMBIE_MODIFIER]
+Schadenreduktion für Bergarbeiter-Zombies
+
+[ANNIVERSARY_2026_14_ZOMBIE_MODIFIER_DESCRIPTION]
+Der von Pflanzen verursachte Schaden an Bergarbeiter-Zombies wird um 20 % reduziert
+
+[ANNIVERSARY_2026_15_ZOMBIE_MODIFIER]
+Beschleunigung der fliegenden Zombies
+
+[ANNIVERSARY_2026_15_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit der fliegenden Zombies wird um 50 % erhöht
+
+[ANNIVERSARY_2026_16_ZOMBIE_MODIFIER]
+Schadensminderung für Onmyoji-Zombies
+
+[ANNIVERSARY_2026_16_ZOMBIE_MODIFIER_DESCRIPTION]
+Der von Pflanzen verursachte Schaden an Onmyoji-Zombies wird um 20 % verringert
+
+[ANNIVERSARY_2026_17_ZOMBIE_MODIFIER]
+Schadensminderung für den Zombie-Unterwasserpriester
+
+[ANNIVERSARY_2026_17_ZOMBIE_MODIFIER_DESCRIPTION]
+Der Schaden, den der Zombie-Unterwasserpriester durch Pflanzen erleidet, wird um 20 % verringert
+
+[ANNIVERSARY_2026_18_ZOMBIE_MODIFIER]
+Schadensreduktion für den Hexen-Zombie
+
+[ANNIVERSARY_2026_18_ZOMBIE_MODIFIER_DESCRIPTION]
+Der durch Pflanzen verursachte Schaden am Hexen-Zombie wird um 20 % reduziert
+
+[ANNIVERSARY_2026_19_ZOMBIE_MODIFIER]
+Beschleunigung des Grab-Reiter-Zombies
+
+[ANNIVERSARY_2026_19_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit des Grab-Reiter-Zombies wird um 50 % erhöht
+
+[ANNIVERSARY_2026_20_ZOMBIE_MODIFIER]
+Jubiläums-Flugzombies werden beschleunigt
+
+[ANNIVERSARY_2026_20_ZOMBIE_MODIFIER_DESCRIPTION]
+Die Bewegungsgeschwindigkeit der Jubiläums-Flugzombies wird um 50 % erhöht
+
+[ZOMBIE_GLADIATOR_ZOMBIE]
+Gladiator-Zombie
+
+[ZOMBIE_GLADIATOR_ZOMBIE_DESCRIPTION_HEADER]
+Nach einer bestimmten Strecke führt er einen Ansturm aus. Während des Ansturms kann er mit seinem Schild direkt abgefeuerte Kugeln abwehren; nach dem Verlust eines Arms verliert er diese Abwehrfähigkeit.
+
+[ZOMBIE_GLADIATOR_ZOMBIE_DESCRIPTION]
+Keine Ahnung... Der Boss hat gesagt, weiter vorne gäbe es gratis Gehirne abzuholen, also bin ich hergekommen. Und jetzt soll ich gleich losstürmen.
+
+[ZOMBIE_ZOMBOSSMECH_HOT_RODICUS]
+Der glühende Eroberer
+
+[ZOMBIE_ZOMBOSSMECH_HOT_RODICUS_DESCRIPTION_HEADER]
+Der grausamste und zügelloseste Kaiser in der Geschichte des antiken Roms (falsche Geschichtsdarstellung)
+
+[ZOMBIE_ZOMBOSSMECH_HOT_RODICUS_DESCRIPTION]
+«Feigheit ist die grösste Schande – unter dem Namen Dr. Zombie gibt es nur einen Weg: vorwärts! Opfert mir alles!» Seit Dr. Zombie in die Zeitlinie des antiken Roms gereist ist, wollte er diesen Satz schon immer sagen. Anmerkung: Dieser Satz ist eine Abwandlung eines berühmten Zitats seines Idols, von dem man sagt, dass es sehr gerne auf der Toilette sass und in Gedanken versank.
+
+[POINTSCHALLENGE_DESCRIPTION_TITLE]
+Beschreibung der Aktion
+
+[POINTSCHALLENGE_DESCRIPTION]
+1. Aktionszeitraum: 13. Juli – 9. August (die Prämien für die letzte Woche können vom 10. bis 12. August abgeholt werden)
+2. Regeln zum Sammeln von Punkten: Nimm an den fünf Modi [Penny-Verfolgungsjagd, Super-Z-Liga, Reise in die Vergangenheit, Zweierduell und Endlose Herausforderung] teil. Je weiter du in den einzelnen Modi vorankommst, desto mehr Punkte werden automatisch in Herausforderungspunkte umgewandelt (wöchentliches Punktelimit von 500 Punkten pro Modus). Jede Woche werden automatisch die vier Modi mit den höchsten Punktzahlen ausgewählt und addiert, um die [wöchentliche Gesamtpunktzahl] zu ermitteln.
+3. Wöchentliche Aktivität: Durch das Absolvieren der festgelegten Aufgaben in den einzelnen Modi kannst du «wöchentliche Aktivität» sammeln. Erreichst du die erforderliche Punktzahl, schaltest du Fortschrittsbelohnungen frei. Die Aktivitätsaufgaben und der Fortschritt werden jeden Montag um 0:00 zurückgesetzt. (Hinweis: Alle Aufgaben müssen innerhalb der Woche abgeschlossen werden, um als erledigt zu gelten.)
+4. Wöchentliche Rangliste: Jeden Sonntagabend um 24.00 Uhr wird anhand der [wöchentlichen Gesamtpunktzahl] aller Spieler des Servers eine prozentuale Rangliste erstellt.
+5. Preisvergabe nach Rang: Nach der wöchentlichen Abrechnung kannst du im Event-Menü automatisch die entsprechenden Rangbelohnungen für deine Platzierung einlösen.
+
+[POINTSCHALLENGE_RANK_DESCRIPTION_TITLE]
+Beschreibung der Ranglistenbelohnungen
+
+[POINTSCHALLENGE_RANK_DESCRIPTION]
+Top 1 %: Ziel-Fragmente *10, Schatzscheine *20
+Top 3 %: Ziel-Fragmente *8, Schatzscheine *15
+Top 5 %: Ziel-Fragmente *8, Schatzscheine *12
+Top 10 %: Ziel-Fragmente *8, Schatzscheine *10
+Top 20 %: Ziel-Fragmente *6, Schatzgutscheine *9
+Top 30 %: Ziel-Fragmente *6, Schatzgutscheine *8
+Top 50 %: Ziel-Fragmente *5, Schatzgutscheine *7
+Top 80 %: Ziel-Fragmente *4, Schatzgutscheine *6
+Top 100 %: Ziel-Fragmente *2, Schatzgutscheine *5
+
+[POINTSCHALLENGE_TASK_NAME_1101]
+Schliesse diese Woche einmal den «Penny-Verfolgungsjagd»-Level ab
+
+[POINTSCHALLENGE_TASK_NAME_1102]
+Schliesse diese Woche dreimal den «Penny-Verfolgungsjagd»-Level ab
+
+[POINTSCHALLENGE_TASK_NAME_1103]
+Schliesse diese Woche den «Penny-Verfolgungsjagd»-Level fünfmal ab
+
+[POINTSCHALLENGE_TASK_NAME_1201]
+Schliesse diese Woche die «Super-Z-Liga» einmal ab
+
+[POINTSCHALLENGE_TASK_NAME_1202]
+Schliesse diese Woche die «Super-Z-Liga» zweimal ab
+
+[POINTSCHALLENGE_TASK_NAME_1203]
+Schliesse diese Woche die Super-Z-Liga dreimal ab
+
+[POINTSCHALLENGE_TASK_NAME_1301]
+Schliesse im «Reise in die Vergangenheit»-Modus drei Level im Normalmodus ab
+
+[POINTSCHALLENGE_TASK_NAME_1302]
+Schliesse im «Reise in die Vergangenheit»-Modus sechs Level im Normalmodus ab
+
+[POINTSCHALLENGE_TASK_NAME_1303]
+Schliesse in der «Reise der Erinnerungen» 8 Level im Normalmodus ab
+
+[POINTSCHALLENGE_TASK_NAME_1401]
+Schliesse diese Woche 1 Zweikampf ab
+
+[POINTSCHALLENGE_TASK_NAME_1402]
+Schliesse diese Woche 2 Zweikämpfe ab
+
+[POINTSCHALLENGE_TASK_NAME_1403]
+Schliesse diese Woche 3 Duelle ab
+
+[POINTSCHALLENGE_TASK_NAME_1501]
+Schliesse den Endlosmodus bis Level 20 ab
+
+[POINTSCHALLENGE_TASK_NAME_1502]
+Schliesse den Endlosmodus bis Level 50 ab
+
+[POINTSCHALLENGE_TASK_NAME_1503]
+Schaffe Level 100 im Endlosmodus
+
+[POINTSCHALLENGE_ENDLESS_NODE_1]
+Level 1
+
+[POINTSCHALLENGE_ENDLESS_NODE_2]
+Level 31
+
+[POINTSCHALLENGE_ENDLESS_NODE_3]
+Level 61
+
+[POINTSCHALLENGE_ENDLESS_NODE_4]
+Level 91
+
+[POINTSCHALLENGE_ENDLESS_NODE_5]
+Level 121
+
+[MAT_UNCHARTED_PERK_GATLINGPEA_3]
+Verbesserung der Gatling-Erbse III
+
+[PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_NORMAL_CONFIRM]
+Möchtest du {NUMS} Kupfermünzen ausgeben, um den Kauf abzuschliessen?
+
+[PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_HARD_CONFIRM]
+Möchtest du {NUMS} Seelensteine ausgeben, um den Kauf abzuschliessen?
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_1]
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE} Auf dem Boden liegen ein paar Tonerdehaufen – ob da wohl Maistortillas vergraben sind?
+
+[PVZ2_UNCHARTED_MODE_START_LEVEL]
+Uncharted – Tag {NUM}
+
 [HYPNOSHROOM_NEW_SKILL_LEVEL2_DES]
 ^ff4284^Charm I^oldclr^ Nach den Zombies erhöht sich die Gesundheit der Zombies um 10%.
 
@@ -76610,10 +77504,10 @@ Beim Einpflanzen besteht die Chance, die Spezialdünger-Fähigkeit direkt auszul
 Flammenbombe
 
 [FIREPEASHOOTER_SKILL_LEVEL5_DES]
-Hat eine Chance von 20 %, bei einem Angriff eine Flammenbombe abzufeuern. Bei Aufprall detoniert sie in einer fächerförmigen Explosion, verursacht Schaden und versetzt alle Zombies in Reichweite in den Status „Verbrannt”.
+Hat eine Chance von 20%, bei einem Angriff eine Flammenbombe abzufeuern. Bei Aufprall detoniert sie in einer fächerförmigen Explosion, verursacht Schaden und versetzt alle Zombies in Reichweite in den Status „Verbrannt”.
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL5_DES]
-Hat eine Chance von 20 %, bei einem Angriff eine Feuerbombe abzufeuern, die beim Aufprall in einer fächerförmigen Explosion detoniert, Schaden verursacht und allen Zombies in Reichweite den Status „Verbrennung“ zufügt.
+Hat eine Chance von 20%, bei einem Angriff eine Feuerbombe abzufeuern, die beim Aufprall in einer fächerförmigen Explosion detoniert, Schaden verursacht und allen Zombies in Reichweite den Status „Verbrennung“ zufügt.
 
 [FIREPEASHOOTER_PLANTFOOD_DESCRIPTION]
 Wenn die Feuer-Erbsenkanone wütend ist, spuckt sie Flammen und fügt der gesamten Zombiereihe, die Rüstung ignoriert, Schaden zu.
@@ -81362,7 +82256,7 @@ Erbsenvogel-Schnabelmaske
 Blauer-Schal
 
 [NEW_AVATAR_DESCRIPTION_SNAPPEA_2]
-Reduziert den Sonnenlichtverbrauch um 20 %
+Reduziert den Sonnenlichtverbrauch um 20%
 
 [NEW_AVATAR_DESCRIPTION_POISONPEASHOOTER_1]
 Erhöht den Giftschaden um 10%
@@ -81483,7 +82377,7 @@ See Derris kann ins Wasser gepflanzt werden, um Fische und Zombies abzuwehren.
 See Derris Outfit
 
 [STORE_PRODUCT_AVATAR_SEADERRIS]
-Abklingzeit um 20 % reduziert.
+Abklingzeit um 20% reduziert.
 
 [SEADERRIS_SKILL_LEVEL1]
 Häufiger sprühen
@@ -81507,7 +82401,7 @@ Die Rotenon-Verweildauer von See Derris wurde auf 6 Sekunden erhöht.
 Die Rotenon-Verweildauer von See Derris wurde auf 7 Sekunden erhöht.
 
 [SEADERRIS_AVATAR_PLANTFOOD_DESCRIPTION]
-Die Abklingzeit des Pflanzens wurde um 20 % reduziert.
+Die Abklingzeit des Pflanzens wurde um 20% reduziert.
 
 [SEASHOOTER_DESCRIPTION]
 {KEYWORD}Eigenschaften: {STAT} Greift Zombies aus drei Richtungen an. Die ultimative Fähigkeit kann mit anderen Pflanzen kombiniert werden.
@@ -81650,7 +82544,7 @@ Ahorn-Schattenschwertkämpfer-Doppelklingen-Kostüm
 Rheum Nobile Weihnachtsbaumschmuck
 
 [NEW_AVATAR_DESCRIPTION_RHEUMNOBILE_1]
-Reduziert den Sonnenlichtverbrauch um 50 %
+Reduziert den Sonnenlichtverbrauch um 50%
 
 [NEW_AVATAR_DESCRIPTION_MAPLEBLADE_1]
 Erhöht die Angriffskraft um 20%
@@ -82022,7 +82916,7 @@ Pirat
 Vernetzt
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICPEASHOOTER_2]
-Erhöht den Blitzschaden um 20 %
+Erhöht den Blitzschaden um 20%
 
 [NEW_AVATAR_DESCRIPTION_MULBERRY_3]
 Angriffsgeschwindigkeit um 20% erhöht
@@ -83391,9 +84285,9 @@ Während des Events können Aufladungen an jeder beliebigen Stelle im Spiel übe
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
 Tägliches Willkommensgeschenk (0 Yuan): Juwelen * 15
-2 Yuan Wohlfahrtspaket: Juwelen * 30, 10 % Chance auf eine Schatzkiste mit Primärkleidung
-3 Yuan Wohlfahrtspaket: Juwelen * 90, 10 % Chance auf eine Schatzkiste mit Zwischenkleidung
-6 Yuan Wohlfahrtspaket: Juwelen * 180, 10 % Chance auf eine Schatzkiste mit fortgeschrittener Kostümung
+2 Yuan Wohlfahrtspaket: Juwelen * 30, 10% Chance auf eine Schatzkiste mit Primärkleidung
+3 Yuan Wohlfahrtspaket: Juwelen * 90, 10% Chance auf eine Schatzkiste mit Zwischenkleidung
+6 Yuan Wohlfahrtspaket: Juwelen * 180, 10% Chance auf eine Schatzkiste mit fortgeschrittener Kostümung
 
 Optionale Kostümung für die Schatzkiste mit Primärkleidung: Nuss-Weihnachtskleid, Sonnenblumen-Halloweenkleid, Nuss-Halloweenkleid, Pulsgelbes Pfirsich-Halloweenkleid, Stahl-Erdspieß-Monokel, Kornapult-Herrenanzug, Doppel-Sonnenblumenhut
 Optionale Kostümung für die Schatzkiste mit Zwischenkleidung: Truthahn-Katapult-Weihnachtskleid, Kristallorchideen-Weihnachtskleid, Eiswassermelonen-Clip-Fächer, Kokosnusshut, Frühlingsfestkleid mit großer Mundblume, Frühlingsfestkleid mit Gemüsefrage, Sonnenblumensängerin (Neu) Jahreskleid
@@ -84092,10 +84986,10 @@ Wöchentliches Spezialpaket (Acht)
 Sammle im Tiangong-Schatzjagd-Event die Belohnungen in der Extraktionsphase.
 
 [NEW_AVATAR_DESCRIPTION_KELPGUARD_1]
-Gesundheit um 20 % erhöht
+Gesundheit um 20% erhöht
 
 [NEW_AVATAR_DESCRIPTION_ESCAPEROOT_2]
-Abklingzeit des Pflanzens um 15 % reduziert
+Abklingzeit des Pflanzens um 15% reduziert
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_2]
 Digitales Auge
@@ -84125,13 +85019,13 @@ Verbannt Zombies mit Magie in die Leere
 Mana-Freisetzung
 
 [AEONIUM_SKILL_LEVEL1_DES]
-Kann zwei Zombies gleichzeitig verbannen. Der verbannte Zombie erleidet 20 % mehr Magieschaden.
+Kann zwei Zombies gleichzeitig verbannen. Der verbannte Zombie erleidet 20% mehr Magieschaden.
 
 [AEONIUM_SKILL_LEVEL2]
 Beherrschung der Leere
 
 [AEONIUM_SKILL_LEVEL2_DES]
-Kann bis zu drei Zombies gleichzeitig verbannen. Verbannte Zombies erleiden 30 % mehr magischen Schaden.
+Kann bis zu drei Zombies gleichzeitig verbannen. Verbannte Zombies erleiden 30% mehr magischen Schaden.
 
 [AEONIUM_SKILL_LEVEL5]
 Herr der Leere
@@ -84152,10 +85046,10 @@ Beim Verbannen eines Zombies besteht eine x-prozentige Chance, ihn dauerhaft zu 
 Ein Angriff auf einen Zombie versetzt ihn für 5 Sekunden in den ätherischen Zustand und verursacht kontinuierlichen Schaden. Ätherische Zombies erleiden nur magischen Schaden. Jeder magische Schaden, den sie von anderen Pflanzen erleiden, verursacht einen zusätzlichen Treffer mit dem Schaden des Schwarzmagiers über Zeit. Nicht-magische Kugeln, die einen ätherischen Zombie durchschlagen, verursachen ebenfalls einen zusätzlichen Treffer mit dem Schaden des Schwarzmagiers über Zeit.
 
 [AEONIUM_NEW_SKILL_LEVEL2_DES]
-Du kannst zwei Zombies gleichzeitig verbannen. Der verbannte Zombie erleidet 20 % mehr magischen Schaden.
+Du kannst zwei Zombies gleichzeitig verbannen. Der verbannte Zombie erleidet 20% mehr magischen Schaden.
 
 [AEONIUM_NEW_SKILL_LEVEL3_DES]
-Kann bis zu drei Zombies gleichzeitig verbannen, wodurch der von den verbannten Zombies erlittene magische Schaden um 30 % erhöht wird.
+Kann bis zu drei Zombies gleichzeitig verbannen, wodurch der von den verbannten Zombies erlittene magische Schaden um 30% erhöht wird.
 
 [AEONIUM_NEW_SKILL_LEVEL4_DES]
 Beim Pflanzen besteht eine mittlere Chance, sofort die Spezialdünger-Fähigkeit freizusetzen.
@@ -84189,7 +85083,5 @@ Gegenstandsbetrug erkannt.
 
 [ZOMBOSS_QIGONG_CURE_WARNING]
 Die nächste Goldene Glocke hat noch {NUM} Sekunden zum Aufladen.
-
-[PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END].
 
 [PVZ2_CHINESE_END]SE_END]SE_END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]D]ESE_END]_END]_END]ESE_END]_END]_END]_END]ESE_END]_END]ND]ESE_END]_END]END]E_END]INESE_END]_END]ESE_END]_END]ESE_END]_END]_END]ESE_END]_END]_END]_END]D]ND]D]D]ND]D]D]
